@@ -1,0 +1,2027 @@
+Source: https://archive.org/details/micro_IA40385014_0501
+
+Supreme Court, US. 
+“TITLED 
+
+
+JAN 29 2002 
+
+
+CLERK 
+
+
+In The 
+Supreme Court of the United States 
+
+
++ 
+RICKY BELL, WARDEN, 
+
+
+Petitioner, 
+V. 
+
+
+GARY BRADFORD CONE, 
+
+
+Respondent. 
+° 
+
+
+On Writ Of Certiorari To The 
+United States Court Of Appeals 
+For The Sixth Circuit 
+
+
++ 
+
+
+BRIEF OF PETITIONER 
++ 
+
+
+MicHaet E. Moore 
+Solicitor General 
+Counsel of Record - 
+
+
+Gorpon W. SMITH 
+Associate Solicitor General 
+
+
+JENNIFER L. SMITH 
+Assistant Attorney General 
+
+
+OFFICE OF THE ATTORNEY GENERAL 
+P.O. Box 20207 
+Nashville, Tennessee 37202 
+(615) 741-3491 
+
+
+Attorneys for Petitioner 
+
+
+WS 
+
+
+CAPITAL CASE 
+QUESTIONS PRESENTED 
+
+
+I. 
+
+
+Did the court of appeals exceed its authority under 
+28 U.S.C. §2254(d)(1), as interpreted by this Court in 
+Williams v. Taylor, 529 U.S. 362 (2000), by granting habeas 
+relief to respondent on his claim of ineffective assistance 
+of counsel at the sentencing phase of his capital trial, 
+where that claim had been previously adjudicated and 
+rejected on the merits in Tennessee state court proceed- 
+ings? 
+
+
+Il. 
+
+
+May a court of appeals bypass the prejudice prong of 
+Strickland v. Washington, 466 U.S. 668 (1984), and presume 
+prejudice under United States v. Cronic, 466 U.S. 648 
+(1984), to find a violation of the Sixth Amendment right 
+to counsel, where defense counsel conducts a thorough 
+pre-trial investigation, presents lay and expert witness 
+testimony in support of a mental health defense at trial, 
+conducts direct and cross-examination, and addresses the 
+jury at both the guilt and sentencing phases on behalf of 
+his client, and where state and district courts have previ- 
+ously determined that the defendant failed to demon- 
+strate actual prejudice from any deficiencies identified in 
+the attorney’s performance? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+QUESTIONS PRESENTED ....ccccsccscccccvessseds i 
+et Bs Pe 1 
+hoe ms PT 1 
+STATUTORY PROVISION INVOLVED.............. 1 
+STATEMENT OF THE CASE.......-+-seseeeeseeees 2 
+SUMMARY OF THE ARGUMENT ..............+.. 15 
+ABATE 2... ccccccccccsessevcuvecubeeheeenewane 18 
+
+
+I. THE COURT OF APPEALS EXCEEDED ITS 
+AUTHORITY BY GRANTING HABEAS RELIEF 
+ON RESPONDENT’S CLAIM OF INEFFECTIVE 
+ASSISTANCE OF COUNSEL, WHERE THE 
+SAME CLAIM HAD BEEN PREVIOUSLY 
+REJECTED ON THE MERITS IN STATE COURT 
+eet PTT 18 
+
+
+A. Scope of Review under §2254(d)(1)........ 20 
+
+
+B. The Tennessee state courts correctly identi- 
+fied the governing legal rule .............. 21 
+
+
+; 
+
+C. The Tennessee state courts’ application of 
+Strickland to the facts of Cone’s case was 
+objectively reasonable .............+.5e000: 25 
+
+
+1. Failure to Present Mitigating Evidence at 
+a TIT 21 
+
+
+iii 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+Il. THE COURT OF APPEALS IMPROPERLY PRE- 
+SUMED PREJUDICE TO FIND A SIXTH 
+AMENDMENT VIOLATION, WHERE CONE’S 
+CLAIM OF INEFFECTIVE ASSISTANCE 
+RESTED UPON SPECIFIC ERRORS BY COUN- 
+GE, AT THEAL ..cccccccccccccccccccccecccccces 34 
+
+
+CONCLUSION .....--ccccccccececceereceeeneneeees 42 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Page 
+Cases 
+Bell v. Jarvis, 236 F.3d 149 (4th Cir. 2000), cert. 
+
+denied, 70 U.S.L.W. 3235 (2001)..............45: 26, 27 
+Burger v. Kemp, 483 U.S. 776 (1987) .............. 30, 41 
+Chapman v. California, 386 U.S. 18 (1967) ............ 38 
+Cone v. Tennessee, 467 U.S. 1210 (1984)................ y 
+Cuyler v. Sullivan, 446 U.S. 335 (1980)............ 18, 37 
+Darden v. Wainwright, 477 U.S. 168 (1986) 
+
+nevecdgeens duedsesesedusekeeneaie 10, 23, 28, 29, 30, 41 
+Drinkard v. Johnson, 97 F.3d 751 (5th Cir. 1996)...... 25 
+Engle v. Isaac, 456 U.S. 107 (1982) ..........22eeeeees 41 
+Lindh v. Murphy, 521 U.S. 320 (1997) ..........ceeees 19 
+Lockhart v. Fretwell, 506 U.S. 364 (1993).............. 22 
+Osborne v. Shillinger, 861 F.2d 612 (10th Cir. 1988) .... 39 
+Penson v. Ohio, 488 U.S. 75 (1988)..............0005- 38 
+Rickman v. Bell, 131 F.3d 1150 (6th Cir. 1997), cert. 
+
+COE, GP Ge Bee Gn ccwe sc cenecvcecessccces 39 
+Roe v. Flores-Ortega, 528 U.S. 470 (2000) 
+
+sevcbcbsccoedecen cece saben steeete 25, 30, 35, 37, 38, 41 
+Scarpa v. Dubois, 38 F.3d 1 (1st Cir. 1994), cert. 
+
+GEE, GED GS. TEE Gee cee ccvccccecccncctccss 37 
+Smith v. Robbins, 528 U.S. 259 (2000) ............. 37, 38 
+State v. Cone, 665 S.W.2d 87 (Tenn. 1984)............. 9 
+Strickland v. Washington, 466 U.S. 668 (1984)..... passim 
+
+
+Townsend v. Sain, 372 U.S. 293 (1963)................ 18 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+United States v. Cronic, 466 U.S. 648 (1984) ...... passim 
+United States v. Swanson, 943 F.2d 1070 (9th Cir. 
+WDD) occ cccccccccccccccccccsccccsccccccccccscecers 39 
+Van Tran v. Lindsey, 212 F.3d 1143 (9th Cir.), cert. 
+denied, 531 U.S. 944 (2000).....----- ee eeeeceees 26, 27 
+Williams v. Taylor, 529 U.S. 362 (2000) .......--.. passim 
+STATUTES 
+28 U.S.C. §2254(d) ...-.- 2 eee cece cence ee eeeceeee passim 
+28 U.S.C. §2254(d)(1) ....-- eee eee eee cece ceeeeees passim 
+Tenn. Code Ann. §39-2-203(e) (1982) .....---++++++- 40 
+Tenn. Code Ann. §39-2-203(i)(2) (1982) .....-----+++++- 6 
+Tenn. Code Ann. §39-2-203(i)(3) (1982) .....----++-- 6, 9 
+Tenn. Code Ann. §39-2-203(i)(5) (1982) ....-----+-+++- 6 
+Tenn. Code Ann. §39-2-203(i)(6) (1982) .......+-+++++ 6 
+MISCELLANEOUS 
+Antiterrorism and Effective Death Penalty Act of 
+1996, Pub. L. No. 104-132, 110 Stat. 1214, 1219 
+(1996) (AEDPA) ......----eceee cence eee eeeeeeeeees 18 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the United States Court of Appeals for 
+the Sixth Circuit (Pet. App. 1) is reported at 243 F.3d 961. 
+The memorandum opinion of the United States District 
+Court for the Western District of Tennessee relevant to 
+respondent's ineffective assistance of counsel claim (Pet. 
+
+
+App. 39) is unreported. 
++ 
+
+
+JURISDICTION 
+
+
+The judgment and opinion of the court of appeals 
+were entered on March 22, 2001. (Pet. App. 1-38) A peti- 
+tion for rehearing was denied on June 1, 2001. (Pet. App. 
+112) The petition for a writ of certiorari was filed on 
+August 30, 2001, and granted on December 10, 2001. The 
+jurisdiction of this Court rests on 28 U.S.C. §1254(1). 
+
+
+¢ 
+
+
+STATUTORY PROVISION INVOLVED 
+
+
+28 U.S.C. §2254(d) provides in pertinent part: 
+
+
+An application for a writ of habeas corpus on 
+behalf of a person in custody pursuant to the - 
+judgment of a State court shall not be granted 
+with respect to any claim that was adjudicated 
+on the merits in State court proceedings unless 
+the adjudication of the claim - 
+
+
+(1) resulted in a decision that was contrary 
+to, or involved an unreasonable application of, 
+clearly established Federal law, as determined 
+by the Supreme Court of the United States. . . . 
+
+
++ 
+
+
+STATEMENT OF THE CASE 
+
+
+| In 1982, Gary Bradford Cone was convicted of two 
+
+counts of first degree murder by a Shelby County, Ten- 
+nessee, jury. Following a separate sentencing hearing, the 
+jury sentenced Cone to death for each of the two mur- 
+ders. Cone’s convictions and sentences were affirmed on 
+direct appeal (Pet. App. 84), and later upheld in state 
+post-conviction proceedings. (Pet. App. 101) Cone then 
+sought a writ of habeas corpus in federal district court. 
+The district court summarily denied relief, concluding 
+that Cone failed to demonstrate prejudice from counsel's 
+alleged deficiencies and, further, that he failed to demon- 
+strate that the state court’s adjudication of his ineffective 
+assistance claim “involved an unreasonable application of 
+clearly established Federal law” under §2254(d)(1). (Pet. 
+App. 77-83) | 
+
+
+On appeal, nineteen years after Cone’s criminal trial 
+and sentencing, the court of appeals reversed his death 
+sentences, finding that defense counsel’s decision to pre- 
+sent no mitigation evidence at the sentencing phase and 
+to waive closing argument at sentencing not only 
+amounted to constitutionally deficient performance, but 
+was so deficient as to raise a presumption of prejudice, 
+resulting in a violation of Cone’s Sixth Amendment right 
+to counsel. (Pet. App. 37) The court of appeals based its 
+decision on the same testimony presented to the State 
+courts and upon which those courts relied in rejecting the 
+same claims in state post-conviction proceedings. (Pet. 
+App. 34) 
+
+
+1. The brutal murders of Shipley and Cleopatra 
+Todd were the climax of a series of criminal episodes that 
+
+
+began on August 9, 1980, when Cone robbed a jewelry 
+store in Memphis of approximately $112,000 in merchan- 
+dise. (Pet. App. 85) The jewelry store manager gave a 
+description of the suspect to police, and an officer in an 
+unmarked police car spotted Cone driving his vehicle a 
+short time after the robbery and pulled in behind him. 
+(Id.) Cone apparently became alarmed and accelerated in 
+an attempt to escape. A high-speed chase ensued through 
+mid-town Memphis and into a residential neighborhood, 
+where Cone abandoned his automobile and proceeded on 
+foot. (Id.) As he fled from police, Cone shot one of the 
+police officers who attempted to arrest him, shot a citizen 
+who challenged him, pulled a gun on a third person and 
+demanded that the latter give Cone his automobile. When 
+the owner of the automobile fled, Cone snapped his pistol 
+several times, but the ammunition in the weapon had 
+been exhausted. (Id.) 
+
+
+Cone managed to elude police on August 9th but 
+appeared at the door of a home in the same neighborhood 
+early the next morning and asked to use the phone. When 
+the elderly resident, Lucille Tuech, refused him admit- 
+tance, Cone drew his pistol and pointed it at her. Ms. 
+Tuech quickly slammed the door, ran to another part of 
+the house, and called the police. (Id.; R. 4, Add. 1, Vol. 
+XIL, pp. 1207-08) Later that same afternoon, Cone broke 
+into the home of Shipley and Cleopatra Todd,who lived a 
+short distance from Ms. Tuech. Mr. Todd was 93 years of 
+age; his wife was 79. The couple’s bodies were found 
+three days later after authorities were alerted by anxious 
+relatives. Both victims had been beaten to death. (Pet. 
+App. 86) Mr. Todd sustained 16 blows, mostly to the back 
+of the head, and Mrs. Todd sustained 22 blows to the 
+
+
+back and left side of the head; defensive wounds were 
+present on the hands of both. The cause of death to both 
+victims was multiple blunt trauma to the head inflicted 
+by an instrument consistent with a gun. (R. 4, Add. 1, Vol. 
+XII, pp. 1293, 1295-96, 1298-1300) Cone’s fingerprints 
+and hair samples were found in the Todds’ home, which 
+had been ransacked, and he was apparently able to steal 
+enough money from their home to fly from Memphis to 
+Florida, where he appeared at the home of an acquain- 
+tance on August 12. (Pet. App. 86) 
+
+
+At trial, Cone did not dispute killing the Todds but 
+claimed that he was insane at the time of the crimes or 
+lacked the requisite mental capacity to commit the 
+offenses. Cone presented the testimony of two expert 
+witnesses to support his defense. Matthew Jaremko, a 
+clinical psychologist, opined that Cone suffered from two 
+interrelated disorders: a substance-abuse disorder and 
+post-traumatic stress disorder. The substance-abuse dis- 
+order was caused primarily by post-traumatic stress dis- 
+order, which arose from Cone’s exposure to combat 
+trauma in Vietnam and his continuing trauma after 
+returning home as a veteran of an unpopular war. (J.A. 
+12) According to Jaremko, Cone’s post-traumatic stress 
+disorder manifested itself over the years in the form of 
+flashbacks, nightmares, depression, nervousness, and 
+sleep disorders. (J.A. 12-13) Dr. Jaremko testified that, in 
+his opinion, Cone was suffering from a mental illness in 
+August 1980, which rendered him incapable of conform- 
+ing his conduct to the requirements of the law. He further 
+testified that Cone expressed remorse for what happened. 
+(J.A. 14) 
+
+
+Jonathan Lipman, a neuropharmacologist, testified 
+that he examined Cone and detailed his history of drug 
+abuse. Dr. Lipman testified that Cone had no history of 
+drug abuse until the age of 18, when he was first exposed 
+to hashish while serving in the Army in Germany. Cone 
+was later introduced to opium and amphetamines while 
+serving in Vietnam, where he was reportedly issued 
+amphetamines for 53 consecutive nights to maintain 
+alertness while on guard duty. (J.A. 18) According to Dr. 
+Lipman, that pattern of amphetamine use continued 
+throughout the rest of Cone’s history. Dr. Lipman opined 
+that, in August 1980, Cone was suffering from chronic 
+amphetamine psychosis, which prevented him from 
+knowing the wrongfulness of his acts and rendered him 
+substantially incapable of conforming his conduct to the 
+requirements of the law. (J.A. 18-19) 
+
+
+In addition to expert testimony, Cone’s mother, Val- 
+eree Cone, testified that she had noticed a change in her 
+son after his return from Vietnam. She testified that Cone 
+acted like he was “in another world” and slept very 
+badly. He spoke to her about handling bodies while he 
+was in Vietnam and the condition the bodies were in. 
+(J.A. 9-10) She further testified that Cone did not laugh or 
+cry, but seemed to be “just holding it in.” (J.A. 10) In 
+rebuttal, the State offered two mental health experts, 
+neither of whom found any basis for an insanity defense. 
+(Pet. App. 90-91) 
+
+
+The jury rejected Cone’s insanity defense, convicting 
+him at the conclusion of the guilt phase of two counts of 
+first degree murder, three counts of assault with intent to 
+commit first degree murder, and robbery by use of a 
+deadly weapon. (Pet. App. 84) At sentencing, the State 
+
+
+relied on four aggravating circumstances to support 
+imposition of the death penalty: (1) that Cone was previ- 
+ously convicted of one or more felonies, other than the 
+present charge, involving the use or threat of violence to 
+the person; (2) that Cone knowingly created a great risk 
+of death to two or more persons, other than the victim 
+murdered, during his act of murder; (3) that the murder 
+was especially heinous, atrocious, or cruel in that it 
+involved torture or depravity of mind; and (4) that the 
+murder was committed for the purpose of avoiding, 
+interfering with, or preventing a lawful arrest or prosecu- 
+tion of the defendant or another. Tenn. Code Ann. 
+§§39-2-203(i)(2), (3), (5), and (6) (1982). (J.A. 22-23, 50-52) 
+
+
+Through the testimony of a court clerk and a finger- 
+print examiner, the State established that Cone had three 
+prior convictions for robbery with a firearm. (J.A. 28-29, 
+34-35) In addition, the State recalled at sentencing two 
+Memphis police officers who had been involved in the 
+initial efforts to apprehend Cone after the jewelry store 
+robbery. Both officers testified that Cone evaded arrest. 
+(J.A. 36-40) 
+
+
+Although defense counsel presented no direct evi- 
+dence in mitigation, in an opening statement at sentenc- 
+ing, Cone’s counsel explained to the jury that the defense 
+would rely upon mitigating evidence presented during 
+the guilt phase of trial: 
+
+
+I believe his Honor will tell you that [sic] was 
+presented in the main portion of this case can be 
+considered by you in considering both aggrava- 
+ting and mitigating circumstances. . . . The 
+Defense has put on proof of those mitigating 
+
+
+7 
+
+
+circumstances during its case, and I would like 
+to review those with you... . 
+
+
+(J.A. 24)! Counsel then reiterated certain aspects of the 
+guilt-phase evidence, particularly the testimony of Drs. 
+Lipman and Jaremko, arguing that the proof supported 
+application of three specific statutory mitigating circum- 
+stances. (J.A. 24-25) Counsel further argued in support of 
+non-statutory mitigating factors, emphasizing, as he had 
+done throughout the trial, Cone’s military service: 
+
+
+I suggest to you that Dr. Jaremko stated, in his 
+
+‘interview with my client, my client has 
+expressed remorse for his conduct. That is not a 
+statutory mitigating circumstance, but it is a 
+circumstance that you can consider, as the Gen- 
+eral says, under the rule. And I asked all of you, 
+each and every one of you, to look at the whole 
+man in this case, when we began. And I suggest 
+to you that proof has been put in this record that 
+he is an honorably discharged veteran of his 
+country, and I ask you to look at that in light 
+that there is no evidence of any kind, of any 
+nature, in this record, other than the fact that his 
+drug abuse began under the stress and strain of 
+combat service. And I suggest to you that that is 
+a mitigating circumstance. 
+
+
+(J.A. 25-26) 
+
+
+Finally, trial counsel asked the jury for mercy on 
+behalf of his client: 
+
+
+[T]here is good reason for maintaining life if you 
+look at the whole man in this particular case... . 
+
+
+1 The jury was so instructed by the trial court at the 
+conclusion of the sentencing phase. (J.A. 53) 
+
+
+8 
+
+
+[OJur ethics have been questioned, the defense 
+team. If we’re unethical to seek mercy, then I am 
+unethical. But mercy is - it’s a double blessing. 
+It’s a blessing to the person who gives, and it’s a 
+blessing to the person who receives. And I 
+would say to you that mercy —- if you consider 
+life under the mitigating circumstances, and the 
+aggravating circumstances in this case - raises 
+you above the State, raises you above the King, 
+if you will. It raises you to the level of God. 
+
+
+(J.A. 26) 
+
+
+On cross-examination of a State’s witness in the sen- 
+tencing phase, defense counsel elicited information show- 
+ing that Cone was awarded a Bronze Star for his military 
+service in Germany and Vietnam and was honorably dis- 
+charged from the United States Army in July 1969. (J.A. 
+31) Counsel successfully prevented the State from intro- 
+ducing gruesome photographs depicting the condition of 
+the victims’ bodies on the day they were-discovered. (J.A. 
+41-49) The trial court also sustained other objections 
+posed by defense counsel throughout the course of the 
+sentencing phase. (J.A. 37, 38) 
+
+
+The jury returned verdicts of death for each of the 
+two murcers, finding that the State had proven all four 
+aggravating circumstances beyond a reasonable doubt 
+and that there were no mitigating circumstances suffi- 
+ciently substantial to outweigh those aggravating circum- 
+stances. (R. 4, Add. 1, Vol. XX, pp. 2223, 2225) The 
+Tennessee Supreme Court affirmed Cone’s convictions 
+
+
+9 
+
+
+and sentences on direct appeal? (Pet. App. 84), and this 
+Court denied certiorari. Cone v. Tennessee, 467 U.S. 1210 
+(1984). 
+
+
+2. Cone initiated state post-conviction proceedings 
+in June 1984, alleging, among other things, that trial 
+counsel was ineffective at the penalty phase of trial in 
+failing to present proof of mitigating circumstances and 
+in waiving final argument. (R. 4, Add. 2, Vol. I, p. 51) The 
+trial court conducted an evidentiary hearing on Cone’s 
+claims. Among the witnesses presented by Cone were 
+two attorneys licensed in Tennessee, who offered their 
+opinions regarding the wisdom of waiving closing argu- 
+ment in a capital sentencing hearing and of relying upon 
+guilt-phase proof for mitigation. (R. 4, Add. 2, Vol. II, pp. 
+69-82, 180-89) Cone also presented the testimony of his 
+mother, who testified that she would have pled for her 
+son’s life in the penalty phase if asked. (R. 4, Add. 2, Vol. 
+Ill, pp. 192-94) 
+
+
+Cone’s trial counsel, John Dice, testified that he 
+investigated Cone’s background (J.A. 61-62) and chose 
+not to put on additional character witnesses at sentencing 
+to prevent the prosecution from bringing out negative 
+information on cross-examination. (R. 4, Add. 2, Vol. II, 
+pp. 104-05, 136-38) Counsel did not think that Cone’s 
+
+
+2 The Tennessee Supreme Court found that the aggravating 
+circumstance under Tenn. Code Ann. §39-2-203(i)(3) (1982) (risk 
+of death to two or more persons) was inapplicable to an 
+extended criminal episode, such as the one here. But because the 
+jury clearly found three other aggravators, the Court found that 
+any error with respect to the (i)(3) circumstance was harmless 
+beyond a reasonable doubt. State v. Cone, 665 S.W.2d 87 (Tenn. 
+1984). (Pet. App. 98-99) 
+
+
+10 
+
+
+mother had been a good witness at the guilt phase and 
+chose, for tactical reasons, not to recall her at sentencing. 
+J.A. 63) Although Cone’s sister initially agreed to testify 
+for Cone, she ultimately changed her mind, and counsel 
+testified that there was disagreement among family mem- 
+bers about aspects of Cone’s “family dynamics.” (R. 4, 
+Add. 2, Vol. II, p. 135; Vol. Ill, pp. 157-58) 
+
+
+The criminal court entered findings of fact and con- 
+
+
+clusions of law denying post-conviction relief. (J.A. 78) 
+
+
+Specifically, the criminal court found that trial counsel 
+had put a great deal of thought and preparation into the 
+case and had interviewed numerous family members and 
+relatives, whose testimony was contradictory and gener- 
+ally not helpful. The trial court credited trial counsel’s 
+testimony that his strategy was to introduce as much 
+mitigation as he could during the guilt phase of trial. (J.A. 
+83-84) As to the waiver of final argument, the trial court 
+concluded that it was a strategic decision in view of the 
+prosecutor’s reputation for devastating closing argu- 
+ments. (J.A. 84) In its-written order denying post-convic- 
+tion relief, the criminal court identified Strickland v. 
+Washington, 466 U.S. 668 (1984), and Darden v. Wainwright, 
+477 U.S. 168 (1986), as the controlling legal authority on 
+Cone’s claim of ineffective assistance. (J.A. 84) 
+
+
+Citing Strickland, supra, the Tennessee Court of Crimi- 
+nal Appeals affirmed the decision of the trial court, like- 
+wise rejecting Cone’s contentions that trial counsel wa. 
+ineffective at the penalty phase of trial. As to the presen- 
+tation of mitigating evidence, the court found that Cone 
+had demonstrated neither deficient performance nor prej- 
+udice: 
+
+
+11 
+
+
+The appellant [Cone] stated that two medical 
+experts who testified for the defense at the guilt 
+phase of the trial should have been reintroduced 
+to testify at the penalty phase as to the appel- 
+lant’s mental state at the time the crimes were 
+committed. He also contends that his mother 
+
+
+- should have been reintroduced to testify con- 
+
+
+cerning his early childhood. 
+
+
+The trial court accredited the testimony of the 
+defense attorney during which he explained that 
+this evidence had been presented during the 
+guilt stage of the proceeding. Trial counsel was 
+aware that the trial judge would instruct the 
+jury that it could consider mitigating circum- 
+stances proved at the guilt stage of the trial. 
+Defense counsel also testified that the appel- 
+lant’s mother did not make a good witness at 
+the guilt stage of the trial and in his judgment, 
+the best tactic was to not subject her to further 
+cross examination. 
+
+
+The appellant complains because defense coun- 
+sel did not introduce other relatives and associ- 
+ates to testify concerning his early childhood. 
+Defense counsel testified that these potential 
+witnesses were interviewed by him and that he 
+concluded that there was a danger that cross 
+examination would elicit additional criminal 
+activity on the part of the appellant. There is 
+nothing in the record to show that the testimony 
+of these witnesses would have benefited the 
+defense. In the absence of this showing, we will 
+not presume that trial counsel erred in not call- 
+ing them as witnesses. 
+
+
+(Pet. App. 108-09) 
+
+
+12 
+
+
+Regarding counsel’s waiver of closing argument, the 
+court stated: 
+
+
+One of the prosecuting attorneys made a low- 
+key opening argument after the punishment 
+hearing. It was trial counsel’s judgment that he 
+should waive argument to prevent the other 
+prosecuting attorney from making closing argu- 
+ment. The other prosecutor was capable of mak- 
+ing very devastating closing arguments and he 
+could not be answered by defense counsel. This 
+is a legitimate trial tactic, the exercise of which 
+furnishes no basis for a finding of ineffective 
+assistance. .. . 
+
+
+The question of what witnesses to use and 
+whether to waive final argument are tactical 
+questions upon which competent lawyers might 
+
+
+disagree. It cannot be said that incompetent rep-. 
+
+
+resentation had occurred merely because other 
+lawyers, judging from hindsight, might have 
+made a better or different choice of tactics. 
+
+
+(Pet. App. 110) 
+
+
+Finally, assessing counsel's overall performance, the 
+Tennessee appellate court found: 
+
+
+Trial counsel made a diligent and thorough 
+investigation of the facts and the law. Although 
+the appellant was without funds, trial counsel 
+was able to procure a defense team composed of 
+himself, a research expert, medical experts, and 
+an investigator. No stone was left unturned in 
+the preparation of the appellant’s defense. Trial 
+counsel was very conscientious in representing 
+the appellant and placed much thought and 
+effort into the tactical aspects of this case. How- 
+ever, trial counsel’s work and diligence could 
+
+
+13 
+
+
+‘ 
+
+
+not remove the overwhelming evidence against 
+the appellant, both on the factual issue and 
+insanity issue. In our view, the findings of guilt 
+and the imposition of the death penalty were 
+based upon the facts and the law — not by short- 
+comings of counsel. 
+
+
+(Pet. App. 111) 
+
+
+3. Cone sought federal habeas relief in July 1997, 
+asserting numerous grounds, including ineffective assis- 
+tance based on counsel’s failure to introduce mitigating 
+evidence and waiver of closing argument at sentencing. 
+(R. 71, pp. 21-22) The district court summarily dismissed 
+Cone’s ineffective assistance of counsel claim, finding in 
+pertinent part that Cone failed to demonstrate any preju- 
+dice from the failure of his trial counsel to introduce 
+mitigating evidence at sentencing. (Pet. App. 78-80) The 
+district court further found that Cone failed to meet 
+§2254(d)(1)’s threshold requirement that a habeas peti- 
+tioner demonstrate the state court’s rejection of his Sixth 
+Amendment claim “involved an unreasonable application 
+of clearly established Federal law.” (Pet. App. 80) 
+
+
+As to counsel’s waiver of closing argument at sen- 
+tencing, the district court found that Cone failed to offer 
+any basis to dispute the state court’s determination that 
+the decision was a tactical choice to foreclose rebuttal 
+argument by the prosecution and, further, that the state 
+appellate court’s decision on the issue was “a reasonable 
+application of Sixth Amendment standards to the facts 
+presented in the state post-conviction proceedings.” (Pet. 
+App. 80-81) The district court denied relief on all remain- 
+ing claims and dismissed Cone’s petition entirely on Jan- 
+uary 29, 1999. (R. 170) 
+
+
+‘ 
+
+
+14 
+
+
+The court of appeals reversed and remanded the case 
+to the district court with instructions to issue a writ of 
+habeas corpus vacating Cone’s death sentences due to 
+ineffective assistance of counsel at sentencing. Contrary 
+to the findings of both the Tennessee state courts and the 
+district court, the court of appeals concluded that coun- 
+sel’s decision not to present evidence at sentencing and to 
+make no final argument amounted to constitutional inef- 
+fectiveness. (Pet. App. 37) As to the failure to present 
+evidence at the sentencing stage, the court of appeals 
+merely stated, “[Cjounsel had plenty of mitigating evi- 
+dence at his fingertips; yet he failed to present it at the 
+sentencing phase.” (Pet. App. 35) Further, the court of 
+appeals rejected the Tennessee courts’ conclusion that 
+counsel’s decision to waive final argument was a legiti- 
+mate tactical decision, concluding instead that the expla- 
+nation given by Cone’s counsel for waiving closing 
+argument was “totally unreasonable,” and stating: 
+
+
+We reject out of hand, the argument that a com- 
+petent attorney would determine that not pre- 
+senting mitigating evidence of any kind and not 
+making a final argument in a death penalty case 
+is a justifiable “strategy” because doing so 
+might trigger a “devastating” response by the 
+prosecutor - the sole reason assigned by the 
+Tennessee courts for excusing counsel’s silence. 
+How much worse off could Cone have been if he 
+were sentenced to death after a “devastating” 
+argument by the prosecutor than if he were 
+sentenced to death after the prosecutor’s “mild” 
+request that he be sentenced to death, which 
+was followed by his own attorney’s silence? Or, 
+asked differently: How much more devastating 
+
+
+15 
+
+
+for the petitioner could the prosecutor’s “devas- 
+tating” argument have been than the death sen- 
+tence the petitioner got without such argument? 
+
+
+(Pet. App. 35-36) 
+
+
+The court of appeals then determined that Cone need 
+not show actual prejudice under the second prong of 
+Strickland, because a presumption of prejudice under 
+United States v. Cronic, 466 U.S. 648 (1984), was raised by 
+counsel’s behavior. (Pet. App. 37) The court reasoned that 
+the prosecutor’s insistence at the sentencing phase that 
+Cone be put to death had not been subjected to “mean- 
+ingful adversarial testing” and that counsel had “aban- 
+doned” Cone at a critical stage of his trial. (Pet. App. 37) 
+
+
++ 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+1. As amended by the Antiterrorism and Effective 
+Death Penalty Act of 1996 (“AEDPA”), 28 U.S.C. §2254(d), 
+in pertinent part, prohibits a federal habeas court from 
+granting relief on a claim adjudicated on the merits in 
+state court proceedings uniess that adjudication “resulted 
+in a decision that was contrary to, or involved an unrea- 
+sonable application of, clearly established Federal law, as 
+determined by the Supreme Court of the United States 
+....” 28 U.S.C. §2254(d)(1). Simply put, AEDPA removed 
+the authority of a federal court to disturb a state court 
+judgment based upon its independent determination that 
+the state court erred in deciding a constitutional question. 
+As this Court explained in Williams v. Taylor, 529 U.S. 362, 
+410 (2000), the most important distinction between 
+review under the present §2254(d) and pre-AEDPA 
+
+
+16 
+
+
+review is that “an unreasonable application of federal law 
+[by a state court] is different from an incorrect application 
+of federal law.” A state court decision that is merely 
+incorrect, but not unreasonable, may no longer be dis- 
+turbed on habeas review. 
+
+
+Nevertheless, en route to vacating Cone’s death sen- 
+tences imposed over 19 years ago by a Tennessee jury, the 
+court of appeals began its analysis with the clearly erro- 
+neous assertion that its review of Cone’s ineffective assis- 
+tance of counsel claim should be de novo. (Pet. App. 30-31) 
+Although the Tennessee courts had previously deter- 
+mined that Cone’s trial counsel made reasoned tactical 
+decisions regarding the presentation of mitigation evi- 
+dence and waiver of closing argument at sentencing, and 
+that neither alleged attorney error had prejudiced the 
+defense, the court of appeals rejected those conclusions 
+“out of hand,” and, without any analysis of how coun- 
+
+
+sel’s alleged deficiencies could have affected the out- - 
+
+
+come, presumed prejudice. While the court of appeals 
+paid lip service to AEDPA by quoting the pertinent provi- 
+sion in the final paragraph of its opinion, compliance 
+with §2254(d) requires more than mere talismanic recita- 
+tion of its language. The court of appeals’ actual analysis 
+of Cone’s ineffective assistance claim, indistinguishable 
+from that employed in pre-AEDPA cases, belies its 
+asserted application of §2254(d). 
+
+
+The Tennessee courts, in assessing Cone’s claims, 
+fully comprehended and reasonably applied the Strick- 
+‘land standard for judging the performance of counsel 
+under the Sixth Amendment, heeding this Court's 
+instruction that “[jjudicial scrutiny of counsel’s perfor- 
+mance must be highly deferential” and recognizing the 
+
+
+17 
+
+
+Sixth Amendment's strong presumption that “counsel's 
+conduct falls within the wide range of reasonable profes- 
+sional assistance.” Strickland v. Washington, 466 U.S. 668, 
+689 (1984). Thus, because the decision of the Tennessee 
+courts was neither contrary to nor an unreasonable appli- 
+cation of Strickland, federal habeas relief was barred by 
+§2254(d). 
+
+
+2. Compounding its error under §2254(d), the court 
+of appeals applied a presumption of prejudice to find a 
+Sixth Amendment violation under the auspices of United 
+States v. Cronic, 466 U.S. 648 (1984), ignoring the finding 
+of the Tennessee appellate court that Cone’s convictions 
+and sentences were the result of “overwhelming evi- 
+dence” against him, and not “shortcomings of counsel.” 
+But this Court has recognized only three narrow excep- 
+tions in which prejudice may be presumed to find a 
+violation of the Sixth Amendment right to counsel: (1) 
+where counsel is denied altogether; (2) where the state 
+interfered with counsel’s representation; and (3) where 
+counsel is burdened with an actual conflict of interest 
+that affects his or her performance. Aside from those 
+circumstances, however, where a claim of ineffective 
+assistance of counsel rests upon some articulable error by 
+counsel in the course of representation, and where the 
+“surrounding circumstances” do not prevent counsel’s 
+effective functioning, a defendant must affirmatively 
+demonstrate both deficient performance and prejudice as 
+a result of attorney error. Cone’s ineffective assistance 
+claim in this case was premised upon specific allegations 
+of attorney error - the failure to present mitigation evi- 
+dence and waiver of closing argument at sentencing. 
+Cone was not without counsel during the sentencing 
+
+
+18 
+
+
+phase, nor was his lawyer precluded from rendering 
+effective assistance by some structural impediment. To 
+the contrary, Cone’s lawyer conducted a thorough pre- 
+trial investigation, presented lay and expert witnesses in 
+support of a mental health defense at trial, cross-exam- 
+ined the State’s witnesses, and addressed the jury on his 
+client’s behalf at both the guilt and sentencing phases of 
+trial. The quality and effect of the lawyering afforded 
+Cone was fully capable of assessment under Strickland, 
+and the Sixth Circuit erred in relieving Cone of his bur- 
+den of proving both components of that standard. 
+
+
++ 
+
+
+ARGUMENT 
+
+
+I. THE COURT OF APPEALS EXCEEDED ITS 
+AUTHORITY BY GRANTING HABEAS RELIEF ON 
+RESPONDENT’S CLAIM OF INEFFECTIVE ASSIS- 
+TANCE OF COUNSEL, WHERE THE SAME CLAIM 
+HAD BEEN PREVIOUSLY REJECTED ON THE 
+MERITS IN STATE COURT PROCEEDINGS. 
+
+
+In 1996, Congress curtailed the power of federal 
+courts to grant habeas relief to state prisoners through 
+passage of the Antiterrorism and Effective Death Penalty 
+Act of 1996, Pub. L. No. 104-152, 110 Stat. 1214, 1219 
+(1996) (“AEDPA”). Under pre-AEDPA habeas law, federal 
+courts reviewed “mixed” constitutional questions (i.e., 
+those involving application of constitutional law to facts) 
+de novo with a presumption of correctness as to factual 
+findings by the state courts. Cuyler v. Sullivan, 446 U.S. 
+335 (1980); Townsend v. Sain, 372 U.S. 293 (1963) (using the 
+terms “independent,” “de novo,” and “plenary” to 
+
+
+19 
+
+
+describe pre-AEDPA habeas review of state court find- 
+ings). By enacting §2254(d)’s general rule of prohibition, 
+Congress abolished de novo review of mixed questions of 
+law and fact that have been previously adjudicated on the 
+
+
+- merits in state court proceedings. No longer may a fed- 
+
+
+eral court issue the writ based upon its independent 
+judgment that the state court decision was incorrect. 
+Rather, as this Court explained in Williams v. Taylor, 529 
+U.S. 362 (2000), a federal court’s inquiry on such claims is 
+limited to the reasonableness of the state court’s applica- 
+tion of clearly established federal law. Id., 529 U.S. at 412. 
+
+
+In this case, filed after enactment of AEDPA and 
+therefore subject to its provisions, Lindh v. Murphy, 521 
+U.S. 320, 336 (1997), the court of appeals’ analysis, while 
+purporting to comply with the mandates of 28 U.S.C. 
+§2254(d)(1) (Pet. App. 37), began with the clearly erro- 
+neous assertion that its review of Cone’s ineffective assis- 
+tance of counsel claim would be de novo. (Pet. App. 30-31) 
+The court then compounded its error by conducting an 
+independent re-assessment of defense counsel's testi- 
+mony during the state post-conviction proceedings and 
+by rejecting outright the findings of the state courts with 
+respect to that testimony. (Pet. App. 35-36) In concluding 
+that Cone was denied effective assistance of counsel at 
+sentencing, the court of appeals completely disregarded 
+the prior adjudication of the Tennessee state courts and, 
+essentially, substituted its judgment instead. In so doing, 
+the federal court exceeded its statutory authority to grant 
+the writ and directly contravened this Court's decision in 
+Williams v. Taylor, supra. 
+
+
+20 
+
+
+A. Scope of Review under §2254(d)(1) 
+
+
+The relevant provision of AEDPA, 28 U.S.C. 
+§2254(d)(1), prohibits a federal court from granting 
+habeas relief to a state prisoner with respect to a claim 
+adjudicated on the merits in state court unless that adju- 
+dication “resulted in a decision that was contrary to, or 
+involved an unreasonable application of, clearly estab- 
+lished Federal law, as determined by the Supreme Court 
+of the United States.” In Williams, this Court resolved a 
+conflict among the circuits regarding the proper inter- 
+pretation of that provision. 
+
+
+First, the Court instructed that the “contrary to” and 
+“unreasonable application” clauses of §2254(d)(1) have 
+independent meaning. Id., at 404. The Court explained 
+that a state court decision will be “contrary to” its clearly 
+established precedent if the state court either “applies a 
+rule that contradicts the governing law set forth in our 
+cases,” id., at 405, or if the state court “confronts a set of 
+facts that are materially indistinguishable from a decision 
+of this Court and nevertheless arrives at a result different 
+from our precedent.” Id., at 406. 
+
+
+Second, the Court explained that a state court deci- 
+sion involves an “unreasonable application” of this 
+Court’s precedent if the state court “correctly identifies 
+the governing legal rule but applies it unreasonably to 
+the facts of a particular prisoner’s case.” Id., at 407-08. In 
+making that inquiry, a federal court must assess whether 
+the state court’s application of clearly established federal 
+law was “objectively unreasonable.” Id., at 409. Observ- 
+ing that Congress specifically used the term “unreason- 
+able,” as opposed to terms like “erroneous” or 
+
+
+21 
+
+
+“incorrect,” the Court further instructed that “a federal 
+habeas court may not issue the writ simply because that 
+court concludes in its independent judgment that the 
+relevant state-court decision applied established federal 
+law erroneously or incorrectly. Rather, that application 
+must also be unreasonable.” Id., at 411. 
+
+
+Finally, the Court interpreted the language “clearly 
+established Federal law, as determined by the Supreme 
+Court of the United States.” That statutory phrase refers 
+to “holdings as opposed to dicta” of this Court’s deci- 
+sions as of the time of the state court decision. Id., at 412. 
+
+
+- Thus, under Williams, a federal court’s review of a 
+state court’s decision under §2254(d)(1) involves a two- 
+part inquiry: first, whether the state court correctly iden- 
+tified the governing legal rule; and second, whether the 
+state court applied that rule in an objectively reasonable 
+way to the facts of the prisoner’s case. When that stan- 
+dard is applied to the Tennessee courts’ rejection of 
+Cone’s ineffective assistance claim, it cannot be said that 
+the state court’s decision contravened controlling case 
+law or involved an unreasonable application of that case 
+law. 
+
+
+B. The Tennessee state courts correctly identified 
+the governing legal rule. 
+
+
+The threshold question under §2254(d) is whether the 
+state court correctly identified the governing legal rule. 
+As this Court noted in Williams, the merits of a claim of 
+ineffective assistance are “squarely governed” by the 
+holding in Strickland. Moreover, “[i]t is past question that 
+
+
+22 
+
+
+the rule set forth in Strickland qualifies as ‘clearly estab- 
+lished Federal law, as determined by the Supreme Court 
+of the United States.’ ” Williams, 529 U.S. at 390-91. Thus, 
+a state court decision that fails to apply Strickland to an 
+ineffective assistance of counsel claira would be “contrary 
+to” clearly established precedent of this Court and an 
+exception to §2254(d)’s general rule of prohibition.3 
+
+
+The Strickland rule for evaluating Sixth Amendment 
+
+
+claims of ineffective assistance of counsel has two compo- 
+nents: 
+
+
+_— 
+
+
+First, the defendant must show that counsel’s 
+performance was deficient. This requires show- 
+ing that counsel made errors so serious that 
+counsel was not functioning as the “counsel” 
+guaranteed the defendant by the Sixth Amend- 
+ment. Second, the defendant must show that the 
+deficient performance prejudiced the defense. 
+This requires showing that counsel’s errors were 
+SO serious as to deprive the defendant of a fair 
+trial, a trial whose result is unreliable. 
+
+
+Strickland, 466 U.S. at 687. 
+
+
+To establish a claim of ineffective assistance of coun- 
+sel, a defendant must show that “counsel’s representation 
+fell below an objective standard of reasonableness.” Id., at 
+687-88. This Court instructed that the reasonableness of 
+
+
+3 In Williams, for example, this Court held that the Virginia 
+Supreme Court’s determination that Lockhart v. Fretwell, 506 U.S. 
+364 (1993), modified or supplanted Strickland (requiring a 
+separate inquiry into fundamental fairness, even when the 
+defendant is able to show both deficient performance and 
+
+
+prejudice) was “cortrary to” established federal law. Williams, 
+529 U.S. at 393-95. 
+
+
+23 
+
+
+counsel’s challenged conduct must be judged on the facts 
+of the particular case, “viewed as of the time of counsel's 
+conduct.” Id., at 690. Judicial scrutiny of counsel’s perfor- 
+mance must be “highly deferential,” and a reviewing 
+court “must indulge a strong presumption that counsel's 
+conduct falls within the wide range of reasonable profes- 
+sional assistance,” bearing in mind that “[t]here are 
+countless ways to provide effective assistance in any 
+
+
+_ given case.” Id., at 689-90. A defendant challenging coun- 
+
+
+sel’s performance “must overcome the presumption that, 
+under the circumstances, the challenged action ‘might be 
+considered sound trial strategy.’ ” Id., at 689. To establish 
+prejudice under Strickland, a defendant “must show that 
+there is a reasonable probability that, but for counsel's 
+unprofessional errors, the result of the proceeding would 
+have been different. A reasonable probability is a proba- 
+bility sufficient to undermine confidence in the outcome.” 
+Id., at 694. 
+
+
+In the state post-conviction proceedings at issue here, 
+the trial court correctly identified Strickland and Darden v. 
+Wainwright, 477 U.S. 168 (1984), as the controlling legal 
+authority. (J.A. 84) Finding that counsel’s performance 
+“did not fall below the objective standard of reasonable- 
+ness” required under the Sixth Amendment, Strickland, 
+466 U.S. at 687-88, the court denied relief. (J.A. 84) On 
+appeal, the Tennessee Court of Criminal Appeals likewise 
+identified Strickland as controlling precedent (Pet. App. 
+107) and affirmed the trial court’s determination that 
+counsel was not ineffective. In addition, the state appel- 
+late court found that Cone failed to establish prejudice 
+from counsel’s alleged deficiencies: “In our view, the 
+findings of guilt and the imposition of the death penalty 
+
+
+24 
+
+
+were based upon the facts and the law - not by shortcom- 
+ings of counsel.” (Pet. App. 111) 
+
+
+The Sixth Circuit’s decision simply to presume preju- 
+dice, citing United States v. Cronic, 466 U.S. 648 (1984), is 
+directly contrary to Strickland, which held that to estab- 
+lish a claim of “actual ineffectiveness” of counsel at trial, 
+a defendant must demonstrate a “reasonable probability 
+that, but for counsel’s unprofessional errors, the result of 
+the proceeding would have been different.” Strickland, 
+466 U.S. at 683, 694. While it is true that Strickland recog- 
+nized that there are a few narrow situations in which 
+prejudice may be presumed, id., at 692, this case, in which 
+Cone challenges deficiencies in counsel’s actual perfor- 
+
+
+mance at trial, is not one of them. See Argument II, infra 
+pp. 39-41. 
+
+
+Conflict of interest claims aside, actual ineffec- 
+tiveness claims alleging a deficiency in attorney 
+performance are subject to a general require- 
+ment that the defendant affirmatively prove preju- 
+dice. The government is not responsible for, and 
+hence not able to prevent, attorney errors that 
+will result in reversal of a conviction or sen- 
+tence. Attorney errors come in an infinite vari- 
+ety and are as likely to be utterly harmless in a 
+particular case as they are to be prejudicial... . 
+Even if a defendant shows that particular errors 
+of counsel were unreasonable, therefore, the 
+defendant must show that they actually had an 
+adverse effect on the defense. 
+
+
+Strickland, 466 U.S. at 693 (emphasis added). 
+
+
+Nor could it be said that the state courts unreasona- 
+bly failed to extend the principle of “presumed prejudice” 
+under Cronic to the facts of this case. This Court has made 
+
+
+25 
+
+
+clear that, “in cases involving mere ‘attorney error,’ we 
+require the defendant to demonstrate that the errors 
+‘actually had an adverse effect on the defense.’ " Roe v. 
+Flores-Ortega, 528 U.S. 470, 481 (2000) (quoting Strickland, 
+466 U.S. at 693). Further, as noted in Williams, “the Strick- 
+land test provides sufficient guidance for resolving vi 
+tually all ineffective-assistance-of-counsel claims. 
+Williams, 529 U.S. at 391. Cone’s ineffective assistance 
+claim was premised upon specific allegations of attorney 
+error. Thus, both the trial and appellate courts in the state 
+post-conviction proceedings analyzed Cone’s ineffective 
+assistance claim under the correct legal standard; the 
+Sixth Circuit did not. 
+
+
+C. The Tennessee state courts’ application of 
+Strickland to the facts of Cone’s case was objec- 
+tively reasonable. 
+
+
+Having correctly identified the governing law (in this 
+case Strickland), a state court’s application of that stan- 
+dard to the facts of a prisoner’s case may be disturbed on 
+habeas review only if “unreasonable” under §2254(d)(1). 
+Although this Court acknowledged in Williams that the 
+standard is difficult to define, it did provide guidance. 
+First, the Court specifically rejected the subjective stan- 
+dard of review set out in Drinkard v. Johnson, 97 F.3d 751, 
+769 (Sth Cir. 1996), in favor of a standard of objective 
+reasonableness. Second, the Court emphasized that the 
+“most important point” of the analysis is the critical 
+distinction between an “unreasonable” application of fed- 
+eral law and an “incorrect” or “erroneous” application of 
+federal law. Williams, 529 U.S. at 410, 412. 
+
+
+26 
+
+
+Since Williams, the circuits have divided over 
+whether a federal court must first determine that the state 
+court’s decision was erroneous before considering 
+whether the decision, if erroneous, involved an unreason- 
+able application of federal law. In Van Tran v. Lindsey, 212 
+F.3d 1143 (9th Cir.), cert. denied, 531 U.S. 944 (2000), the 
+court looked to the doctrine of “clear error” to determine 
+what constitutes an “unreasonable application” of federal 
+law, holding that when an independent review of the 
+legal question by a federal court leaves the court with the 
+“firm conviction” that clear error has occurred, the state 
+court’s decision must be reversed as an “unreasonable 
+application” of clearly established federal law. Van Tran, 
+212 F3d at 1153-54. “Requiring federal courts to first 
+determine whether the state court’s decision was erro- 
+neous, prior to considering whether it was contrary to or 
+involved an unreasonable application of controlling law,” 
+the court reasoned, “promotes clarity in our own consti- 
+tutional jurisprudence and also provides guidance for the 
+state courts, which can look to our decisions for their 
+persuasive value.” Id., at 1155. 
+
+
+But, as the Fourth Circuit observed in Bell v. Jarvis, 
+236 F.3d 149 (4th Cir. 2000) (en banc), cert. denied, 70 
+U.S.L.W. 3235 (2001), because a federal court may grant 
+habeas relief only if the state court decision is contrary to, 
+or an unreasonable application of, Supreme Court prece- 
+dent, “any independent opinions we offer on the merits 
+of the constitutional claims will have no determinative 
+effect on the case before us, nor any precedential effect 
+for state courts in future cases,” constituting “at best... a 
+body of constitutional dicta.” Jarvis, 236 F.3d at 162. Nor 
+
+
+are the state courts - as co-equal interpreters of the 
+
+
+27 
+
+
+federal Constitution and this Court’s case law - in need 
+of “guidance” by federal circuit courts in interpesting and 
+applying this Court’s precedent. Id. Van Tran's clearly 
+erroneous” standard would render meaningless Con- 
+gress’ use of the term “unreasonable” in §2254(d)(1), a 
+result this Court sought to avoid in Williams by making a 
+clear distinction between an “incorrect or erroneous 
+application” of federal law and an “unreasonable applica- 
+tion” of federal law. Williams, 529 U.S. at 410. The focus of 
+a federal court’s inquiry under §2254(d)(1) is not whether 
+the federal court would find a constitutional violation if 
+presented with a factual scenario identical to that in the 
+state court, but the reasonableness of the state court's 
+decision in light of the evidence before it. If sensonabie 
+minds could disagree as to the outcome, the state court s 
+decision is not an unreasonable application of controlling 
+federal law. Williams, 529 U.S. at 410 (“reasonable jurists” 
+standard in the Teague context is an objective inquiry). See 
+Brief of Amicus CJLF. 
+
+
+1. Failure to Present Mitigating Evidence at 
+Sentencing 
+
+
+In state post-conviction proceedings, Cone chal- 
+lenged trial counsel’s failure to present mitigating evi- 
+dence at the penalty phase. (J.A. 82) At a hearing in state 
+court, Cone’s mother testified that she would have pled 
+for her son’s life at sentencing if asked. (J.A. 69) She also 
+named specific family members and acquaintances who 
+knew Cone well. According to Mrs. Cone, counsel asked 
+“quite a few questions” about those individuals early in 
+the case, but “later he discontinued asking.” (J.A. 70-71, 
+
+
+28 
+
+
+74-77) Cone’s trial counsel testified that he investigated 
+Cone’s background and chose not to put on additional 
+character witnesses at sentencing to prevent the prosecu- 
+tion from bringing out negative background information 
+on cross-examination. (R. 4, Add. 2, Vol. II, pp. 93, 104-05, 
+136-38) He stated that, although Cone’s sister had ini- 
+tially committed to testify for Cone, she eventually 
+changed her mind. He further indicated that there was 
+disagreement among family members about aspects of 
+Cone’s “family dynamics.” (R. 4, Add. 2, Vol. II, pp. 
+135-36; Vol. III, pp. 157-58) 
+
+
+The post-conviction judge found that trial counsel 
+“put a great deal of thought and preparation in this case” 
+and had “interviewed numerous family members and 
+relatives.” (J.A. 84) The court credited counsel’s testi- 
+mony that “his strategy was to get as much evidence in 
+during the guilt /innocence phase as he could” and, citing 
+this Court’s decisions in Strickland and Darden, concluded 
+that counsel’s performance “did not fall below the objec- 
+tive standard of reasonableness” required by the Sixth 
+Amendment. (J.A. 84) Likewise, on appeal, the Tennessee 
+Court of Criminal Appeals found that counsel made a 
+series of reasoned tactical decisions regarding presenta- 
+tion of mitigation proof at the sentencing phase of trial. 
+(Pet. App. 108-10) The court credited counsel’s testimony 
+that he determined not to present additional evidence 
+during sentencing because it had already been presented 
+during the guilt phase and further found that counsel’s 
+decision not to recall Cone’s mother at sentencing was a 
+tactical decision to prevent harmful cross-examination. 
+(Pet. App. 108-09) 
+
+
+29 
+
+
+This Court has stated that “strategic choices made 
+after thorough investigation of law and facts relevant to 
+plausible options are virtually unchallengeable,” and 
+“judicial scrutiny of counsel’s performance must be 
+highly deferential. . . . ” Strickland, 466 U.S. at 689-90. In 
+Darden v. Wainwright, 477 U.S. 168 (1984), the Court 
+deferred to defense counsel’s decision not to introduce 
+mitigating evidence at a capital sentencing hearing where 
+counsel had engaged in extensive pre-trial preparation, 
+including obtaining a psychiatric report on the defendant 
+with an eye toward mitigation, but for tactical reasons 
+decided not to introduce that evidence at trial. Id., 477 
+U.S. at 185-87. The Court concluded that the petitioner 
+failed to overcome the strong presumption that the chal- 
+lenged action “might be considered sound trial strategy.” 
+Id., at 186-87. Counsel’s performance in Cone’s case was 
+far stronger in that mitigating evidence, through the testi- 
+mony of a clinical psychologist and a neuropharmacolo- 
+gist, was actually presented during the guilt phase of 
+trial. (J.A. 11-19) In Darden, the evidence was not pre- 
+sented at all. Id., 477 U.S. at 184-86. Moreover, the Tennes- 
+see courts found that Cone’s counsel made a “diligent 
+and thorough investigation of the facts and the law.” (Pet. 
+
+
+App. 111) 
+
+
+Strickland itself involved a challenge to counsel's fail- 
+ure to present mitigation evidence at a capital sentencing 
+hearing. Strickland, 466 U.S. at 675-76. In Strickland, the 
+defendant pled guilty to three capital murder charges and 
+chose to be sentenced by the trial judge without a jury 
+recommendation. Id., at 672. In preparation for the sen- 
+tencing hearing, counsel spoke on the telephone with the 
+defendant's wife and mother but did not meet with them 
+
+
+30 
+
+
+and did not otherwise seek out character witnesses, 
+choosing instead to rely upon information that had come 
+in at the plea colloquy. Id., at 672-73. Again, this Court 
+deferred to counsel’s decision to forgo character evidence 
+at sentencing in order to prevent the admission of addi- 
+tional harmful information. Id., at 699. See also Burger v. 
+Kemp, 483 U.S. 776, 794-95 (1987) (counsel’s decision to 
+present no mitigating evidence at sentencing not “outside 
+the wide range of professionally competent assistance”). 
+In view of Strickland, Darden and Burger, the state courts 
+did not act unreasonably in concluding that counsel’s 
+decisions regarding the presentation of mitigating evi- 
+dence were not constitutionally deficient. 
+
+
+In addition to finding no deficient performance in 
+Cone’s case, the state appellate court concluded that he 
+failed to demonstrate prejudice. Under Strickland, this 
+Court made clear that ineffective assistance claims prem- 
+ised upon a deficiency in attorney performance require 
+that the defendant “affirmatively prove prejudice.” Strick- 
+land, 466 U.S. at 693; Flores-Ortega, 528 U.S. at 481. 
+Although Cone complained in state court that defense 
+counsel was ineffective for failing to introduce other rela- 
+tives and associates to testify about his background, none 
+of those individuals testified at the post-conviction hear- 
+ing. Nor did Cone’s mother offer any specific testimony 
+concerning Cone’s background; she complained only that 
+no evidence was presented concerning “what kind of 
+person Gary was.” (J.A. 77) Thus, given the complete 
+absence of proof concerning what, if any, mitigating evi- 
+dence these witnesses might have offered had they been 
+called to testify at Cone’s sentencing, the state court, once 
+again, reasonably concluded that Cone had failed to carry 
+
+
+31 
+
+
+his burden of proving prejudice flowing from these 
+alleged deficiencies in his attorney's performance. (Pet. 
+
+
+App. 109) 
+
+Without explanation, the Sixth Circuit disregarded the 
+state court findings. Although it asserted that “counsel had 
+plenty of mitigating evidence at his fingertips,” the court 
+utterly failed to identify what that evidence might have 
+been.* And just as in Strickland, given the evidence concern- 
+ing the circumstances of Cone’s crime and his record of other 
+violent criminal activity, the largely unspecified “background 
+evidence” that trial counsel failed to present “would barely 
+have altered the sentencing profile presented to the [jury].’ 
+Strickland, 466 U.S. at 700. 
+
+
+2. Waiver of Closing Argument 
+
+
+The other alleged deficiency in trial counsel's perfor- 
+mance at sentencing was his decision to waive closing 
+argument. Trial counsel testified at the post-conviction 
+hearing that he made that decision based on a number of 
+strategic considerations, primary among them to prevent 
+a strong closing argument by the more experienced pros- 
+ecutor. (J.A. 67-68) Testimony in state court from a local 
+attorney confirmed the prosecutor’s strong argument 
+skills. (R. 4, Add. 2, Vol. III, p. 183) Moreover, as Cone’s 
+counsel pointed out, he had already made what was 
+
+
+— ~ Gene 
+4 Because the district court specifically found that 
+procedurally defaulted his claims based on counsel Ss og 
+failure to investigate and develop proof in mitigation an 
+denied an evidentiary hearing, the claims at issue were 
+evaluated based on the evidence available to counsel at the time 
+he made the decision. (Pet. App. 7/) 
+
+
+32 
+
+
+essentially a closing argument in his opening statement at 
+sentencing. (J.A. 68) Both the post-conviction judge and 
+State appellate court refused to second-guess counsel’s 
+
+
+decision, stating: 
+
+
+One of the prosecuting attorneys made a low- 
+key Opening argument after the punishment 
+hearing. It was trial counsel’s judgment that he 
+should waive argument to prevent the other 
+prosecuting attorney from making closing argu- 
+ment. The other prosecutor was capable of mak- 
+
+
+ing very devastating closing arguments and he 
+could not be answered by defense counsel. This 
+is a legitimate trial tactic, the exercise of which 
+furnishes no basis for a finding of ineffective 
+assistance. 
+
+
+(Pet. App. 110) 
+
+
+Although the Sixth Circuit “reject[ed] out of hand” 
+the Tennessee courts’ conclusions, dismissing counsel’s 
+explanation for waiving closing argument as “totally 
+unreasonable”(Pet. App. 35-36), it did so in direct contra- 
+vention of the teachings of Strickland. Epitomizing the 
+sort of hindsight judgment expressly condemned by 
+Strickland, the court of appeals queried, “How much more 
+devastating for the petitioner could the prosecutor’s ‘dev- 
+astating’ argument have been than the death sentence the 
+petitioner got without such argument?” (Pet. App. 36) As 
+Strickland made clear, however, “[a] fair assessment of 
+attorney perfofmance requires that every effort be made 
+to eliminate the distorting effects of hindsight, to recon- 
+struct the circumstances of counsel’s challenged conduct, 
+and to evaluate the conduct from counsel's perspective at 
+the time.” Strickland, 466 U.S. at 689. The state courts fully 
+comprehended these admonitions and reasonably applied 
+
+
+33 
+
+
+them to conclude that counsel’s decision to waive closing 
+argument had been “a legitimate trial tactic.” That con- 
+clusion can hardly be labeled unreasonable, particularly 
+given the Sixth Amendment's “strong presumption that 
+counsel’s conduct falls within the wide range of reason- 
+able professional assistance.” Strickland, 466 U.S. at 689. 
+
+
+In adjudicating the merits of Cone’s ineffective assis- 
+tance claim, the Tennessee state courts found that defense 
+counsel made a diligent and thorough investigation of the 
+facts and the law, was conscientious in representing 
+Cone, and placed much thought into the tactical aspects 
+of the case. The state courts further found that counsel’s 
+diligence “could not remove the overwhelming evidence 
+against the defendant, [and] the findings of guilt and the 
+imposition of the death penalty were based upon the facts 
+and the law — not by shortcomings of counsel.” (Pet. App. 
+111) Those conclusions are fully supported by the record 
+and reflect a well-reasoned application of Strickland and 
+its progeny. 
+
+By contrast, the Sixth Circuit’s unauthorized de novo 
+review of Cone’s ineffective assistance claim was fatally 
+hamstrung by its glaring lack of familiarity with the 
+record. The opinion below inexplicably asserts that coun- 
+sel remained “completely silent” during the sentencing 
+phase (Pet. App. 31), that he “declined to address the 
+court and jury” (id.), that he “presented no mitigating 
+evidence at all” (id.), and “did not even ask the jury to 
+spare his client's life.” (Pet. App. 33-34) But the record 
+shows that counsel made an opening statement at sen- 
+tencing in which he informed the jury that he would rely 
+on mitigating evidence presented during the guilt phase. 
+He reiterated aspects of that evidence, argued in support 
+
+
+34 
+
+
+of both statutory and non-statutory mitigating circum- 
+stances, and clearly asked the jury for mercy on Cone’s 
+behalf. (J.A. 23-27) Counsel elicited information on cross- 
+examination of a State’s witness showing that Cone had 
+been awarded a Bronze Star for his military service (J.A. 
+31), was successful in preventing the State from introduc- 
+ing highly prejudicial photographs of the two murder 
+victims (J.A. 41-49), and made other objections during the 
+course of the sentencing phase that were sustained by the 
+trial judge. (J.A. 37, 38) The Sixth Circuit’s scathing criti- 
+.cism of counsel’s performance - that “Cone may well 
+have fared better if his counsel had left the courtroom 
+entirely for the sentencing phase of trial” (Pet. App. 36) - 
+is based upon a scenario that, quite simply, did not occur. 
+
+
+Il. THE COURT OF APPEALS IMPROPERLY PRE- 
+SUMED PREJUDICE TO FIND A SIXTH AMEND- 
+MENT VIOLATION, WHERE CONE’S CLAIM OF 
+INEFFECTIVE ASSISTANCE RESTED UPON 
+SPECIFIC ERRORS BY COUNSEL AT TRIAL. 
+
+
+Strickland enunciated the standard for addressing © 
+
+
+Sixth Amendment claims based on “actual ineffective 
+assistance” of counsel at trial, 466 U.S. at 683-84, estab- 
+lishing a two-part test for such claims. First, a defendant 
+must show deficient performance by counsel and, second, 
+that counsel’s deficient performance prejudiced the 
+defense. Id., at 687. The Court acknowledged that the 
+variety of circumstances faced by defense counsel and the 
+range of legitimate decisions regarding how best to han- 
+dle a given case foreclosed development of “detailed 
+rules” or guidelines for representation. Id., at 688-89. 
+Rather, courts “must indulge a strong presumption that 
+
+
+35 
+
+
+counsel’s conduct falls within the wide range of reason- 
+able professional assistance.” Id., at 689. In addition, the 
+Court emphasized that the purpose of the Sixth Amend- 
+ment right to counsel is “to ensure that criminal defen- 
+dants receive a fair trial.” Thus, a defendant asserting a 
+claim of ineffective counsel must demonstrate “a reason- 
+able probability that, but for counsel’s unprofessional 
+errors, the result of the proceeding would have been 
+different.” Id., at 694. See also Roe v. Flores-Ortega, 528 U.S. 
+
+
+470, 482 (2000). 
+
+
+On the same day the Strickland opinion was issued, 
+this Court also decided another ineffective assistance 
+case, which limited the circumstances under which a 
+reviewing court may presume prejudice to fin? a Sixth 
+Amendment violation. In United States v. Cronic, 466 U.S. 
+648 (1984), the defendant was charged in a complicated 
+check-kiting scheme that had been under government 
+investigation for over four years. When defense counsel 
+withdrew, the trial court appointed a young real estate 
+lawyer only 25 days before trial. Id., 466 U.S. at 649. On 
+appeal, the Tenth Circuit found it unnecessary to inquire 
+into .ounsel’s actual performance at trial or its possible 
+impact on the outcome. Instead, it inferred that Cronic 
+had been denied effective assistance based on five gen- 
+eral criteria related to the circumstances of the case: (1) 
+the time afforded for investigation and preparation; (2) 
+the experience of counsel; (3) the gravity of the charge; 
+(4) the complexity of possible defenses; and (5) the acces- 
+sibility of witnesses to counsel. Id., at 652. This Court 
+reversed, finding that a presumption of prejudice was 
+appropriate only under circumstances that are “so likely 
+to prejudice the accused that the cost of litigating their 
+
+
+36 
+
+
+effect in a particular case is unjustified,” the most 
+obvious being a complete denial of counsel. Id., at 658. 
+The Court instructed that “only when surrounding circum- 
+stances justify a presumption of ineffectiveness can a Sixth 
+Amendment claim be sufficient without inquiry into 
+counsel’s actual performance at trial.” Id., at 662 
+(emphasis added). While acknowledging that the five 
+factors identified by the court of appeals might be rele- 
+vant to an evaluation of a lawyer’s actual performance in 
+a particular case, the Court concluded that Cronic’s case 
+was not one in which the surrounding circumstances 
+made it unlikely that he could have received the effective 
+assistance of counsel. Id., at 665-66. Moreover, the Court 
+noted that, should he later pursue claims based on “speci- 
+fied errors made by counsel,” those claims should be 
+
+
+evaluated under the standard enunciated in Strickland. 
+Id., at 666 n. 41. 
+
+
+This Court has recognized only three narrow circum- 
+stances in which prejudice may be presumed. First, preju- 
+dice may be presumed where there has been a complete 
+denial of counsel. Second, a presumption is permitted 
+when the state interferes with counsel’s assistance. Cron- 
+ic, 466 U.S. at 659 and n. 25. Both of those circumstances 
+are easily identified and, “because the prosecution is 
+directly responsible, easy for the government to prevent.” 
+Moreover, prejudice to the accused in such circumstances 
+“is so likely that case-by-case inquiry into prejudice is not 
+worth the cost.” Strickland, 466 U.S. at 692 (citing Cronic, 
+466 U.S. at 658). Third, a more limited presumption of 
+prejudice attaches “when counsel is burdened by an 
+actual conflict of interest,” provided that defendant 
+
+
+37 
+
+
+shows the conflict “adversely affected counsel’s perfor- 
+mance.” Smith v. Robbins, 528 U.S. 259, 287 (2000) (quoting 
+Strickland, 466 U.S. at 692); see Cuyler v. Sullivan, 466 U.S. 
+
+
+335, 350 (1980). 
+
+
+Aside from those circumstances, however, where a 
+claim of ineffective counsel rests upon some articulable 
+error by counsel in the course of representation, and 
+‘where the “surrounding circumstances” do not prevent 
+counsel’s effective functioning, the Strickland analysis is 
+fully competent to vindicate the accused’s Sixth Amend- 
+ment right to counsel. Bad lawyering, no matter how bad, 
+does not justify invoking a per se presumption of preju- 
+dice under Cronic. As the First Circuit observed in Scarpa 
+v. Dubois, 38 F.3d 1, 14 (1st Cir. 1994), cert. denied, 513 U.S. 
+1129 (1995), once it becomes necessary to examine the 
+trial record to evaluate counsel's particular errors, the per 
+se presumption is no longer justified by Cronic’s rationale 
+of avoiding the cost of case-by-case litigation. To apply 
+Cronic in such situations would “do little more than 
+replace case-by-case litigation over prejudice with case- 
+by-case litigation over prejudice per se.” Scarpa, 38 F.3d at 
+14. 
+
+
+In Roe v. Flores-Ortega, supra, this Court recently reit- 
+erated that, because the right to effective counsel is recog- 
+nized, not for its own sake, but for its effect on the ability 
+of the accused to receive a fair trial, “absent some effect 
+of challenged conduct on the reliability of the . . . process, 
+the [effective counsel] guarantee is not implicated.” 
+Flores-Ortega, 528 U.S. at 482 (citing Cronic, 466 U.S. at 
+658). The Court thus concluded that, “in cases involving 
+mere ‘attorney error,’ we require the defendant to demon- 
+strate that the errors ‘actually had an adverse effect on 
+
+
+38 
+
+
+the defense.’ ” Id. See also Smith v. Robbins, 528 U.S. 259, 
+287 (2000) (listing the three categories of cases where 
+prejudice is presumed as: (1) denial of counsel; (2) state 
+interference; and (3) where counsel is burdened with an 
+actual conflict of interest). 
+
+
+Since Cronic, this Court has consistently rejected 
+attempts to presume prejudice when the defendant's inef- 
+fective assistance claim is premised on specific acts or 
+omissions of counsel. In Flores-Ortega, the Court refused 
+to presume prejudice where counsel failed to file a notice 
+of appeal without defendant’s consent. Id., 528 U.S. at 
+484. In Robbins, the Court refused to presume prejudice 
+where counsel neglected to file a merits brief on appeal. 
+Id., 528 U.S. at 288-89. In both cases, the Court required 
+that the defendant demonstrate both the performance and 
+prejudice prongs of Strickland to sustain an ineffective 
+assistance of counsel claim.5 Indeed, to require any less in 
+such cases would substantially undermine the “strong 
+presumption of reliability” normally afforded judicial 
+proceedings. Flores-Ortega, 528 U.S. at 482 (citing Robbins, 
+528 U.S. at 286). By contrast, the Court refused to apply 
+the Strickland test or the harmless error standard under 
+Chapman v. California, 386 U.S. 18 (1967), where the denial 
+of counsel left the defendant completely without repre- 
+sentation on appeal. Penson v. Ohio, 488 U.S. 75, 88-89 
+
+
+> The Court noted in Robbins that such errors are “neither 
+‘easy to identify’ (since it is necessary to evaluate a defendant's 
+case in order to find error) nor attributable to the prosecution,” 
+the policy reasons offered in Strickland for the first two 
+categories in which a presumption of prejudice is permissible. 
+Robbins, 528 U.S. at 287 n. 15 (citing Strickland, 466 at 692)... 
+
+
+39 
+
+
+(1988). Thus, it is clear from Strickland and its progeny 
+that, where claims of ineffective assistance rest upon 
+specific acts or omissions of counsel in the course of 
+representation, application of both prongs of the Strick- 
+land analysis is required. ; 
+
+
+Despite the clarity of this Court’s directions, some 
+lower courts have extended Cronic to cases involving 
+claims of attorney “error” in trial proceedings. See, e.g., 
+Rickman v. Bell, 131 F.3d 1150 (6th Cir. 1997), cert. denied, 
+523 U.S. 1133 (1998) (prejudice presumed where counsel 
+failed to advocate “actively” his client’s cause and 
+expressed contempt toward client); United States v. Swan- 
+son, 943 F.2d 1070 (9th Cir. 1991) (prejudice presumed 
+where attorner failed to call any witnesses and conceded 
+in closing argument that there was no reasonable doubt 
+as to factual issues); Osborne v. Shillinger, 861 F.2d 612 
+(10th Cir. 1988) (prejudice presumed where counsel 
+refused to pursue any non-statutory mitigating circum- 
+stances and argued client’s actions were “atrocious”). See 
+also Brief of Amici States. The court of appeals’ decision 
+in this case represents another impermissible extension of 
+Cronic. 
+
+Here, the state post-conviction appellate court found 
+that, “[aJlthough appellant was without funds, trial coun- 
+sel was able to procure a defense team composed of 
+himself, a research expert, medical experts, and an inves- 
+tigator. No stone was left unturned in the preparation of 
+[Cone’s] defense.” (Pet. App. 111) Counsel’s opening 
+statement at trial outlined a clear theory of defense, 
+which was reiterated throughout the trial proceedings - 
+that Cone was damaged psychologically and physically 
+(in the form of drug addiction) as a result of service to his 
+
+
+40 
+
+
+country in Vietnam, ard that his actions in this case were 
+directly attributable to that damage. (R. 4, Add. 1, Vol. X, 
+pp. 551-53; J.A. 19-20) Counsel called lay and expert 
+witnesses to support that theory during the guilt phase 
+and actively cross-examined the State’s witnesses in both 
+the guilt and sentencing phases of trial. The Tennessee 
+Supreme Court’s opinion on direct appeal from Cone’s 
+conviction and sentence outlined significant aspects of 
+Cone’s proof presented in the guilt phase, including testi- 
+mony of two expert witnesses, Drs. Jaremko and Lipman, 
+as well as pertinent information about Cone’s back- 
+ground. (Pet. App. 89-91) What is more, at the beginning 
+of the sentencing phase, defense counsel carefully 
+explained to the jury that the defense relied on mitigation 
+proof presented during the guilt phase, as he was entitled 
+to do under Tenn. Code Ann. §39-2-203(e) (1982)®; he 
+argued in support of a number of statutory and non- 
+statutory mitigating circumstances; and he asked the jury 
+for mercy on behalf of his client. (J.A. 23-27) 
+
+
+Cone was not without counsel during the sentencing 
+phase, nor was his lawyer precluded from rendering 
+effective assistance by some extra-judicial structural 
+im iment - “surrounding circumstances” - that might 
+justify application of the Cronic presumption because 
+their impact on the outcome of the trial was not capable 
+
+
+* Tenn. Code Ann. §39-2-203(e) (1982) provides, in 
+pertir “nt part: “After closing arguments in the sen 
+hearuig, the trial judge shall include in his instructions for the 
+jury to weigh and consider any mitigating circumstances and 
+any statutory aggravating circumstances set forth in subsection 
+(i) of this section which may be raised by the evidence at either 
+
+
+the guilt or sentencing hearing, or both.” 
+
+
+\ 
+
+
+41 
+
+
+of accurate measurement. Rather, the quality and effect of 
+the lawyering afforded Cone was fully capable of assess- 
+ment under Strickland. The Tennessee courts found that 
+Cone received constitutionally effective assistance of 
+counsel under that standard (Pet. App. 108-11) - a deci- 
+sion that the district court correctly recognized was nei- 
+ther contrary to, nor involving an unreasonable 
+application of, clearly established federal law. (Pet. App. 
+
+
+77-81) 
+
+
+Despite the absence of proof of prejudice in the state 
+post-conviction proceedings and an express finding by 
+the state appellate court that no prejudice had occurred 
+(Pet. App. 111), the court of appeals turned to Cronic, 
+concluding that counsel failed to subject the prosecutor’s 
+insistence on the death penalty to “meaningful adver- 
+sarial testing.” (Pet. App. 37) The court’s presumption of 
+prejudice in this case obfuscates the entire rationale of 
+Cronic and ignores the dictates of Strickland. To affirm the 
+application of Cronic under these circumstances would 
+essentially erect per se rules that counsel in capital cases 
+must always present mitigation evidence, a result directly 
+contrary to Strickland, Darden and Burger, supra pp. 29-30, 
+and that counsel must always present closing argument 
+at sentencing, a result incompatible with this Court's oft- 
+repeated insistence that attorney performance be assessed 
+
+
+on a circumstance-specific basis. Flores-Ortega, 528 U.S. at 
+478; Strickland, 466 U.S. at 688. 
+
+
+In Engle v. Isaac, 456 U.S. 107, 128 (1982), this Court 
+observed that “[flederal intrusions into state criminal 
+trials frustrate both the States’ sovereign power to punish 
+
+
+42 
+
+
+offenders and their good-faith attempts to honor constitu- 
+tional rights.” The court of appeals’ unnecessarily expan- 
+sive reading of Cronic in this case not only ignores the 
+dictates of Strickland, but frustrates the substantial inter- 
+ests of comity, federalism and finality of judgments, a 
+result Congress specifically sought to prevent through the 
+enactment of AEDPA. 
+
+
+\ 
+
+
++ 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted, 
+Micuaget E. Moore 
+Solicitor General 
+
+Counsel of Record \ 
+
+
+Gorpon W. SmrTH 
+Associate Solicitor General 
+
+
+1 P.O. Box 20207 
+Nashville, Tennessee 37202 
+(615) 741-3491 
+
+

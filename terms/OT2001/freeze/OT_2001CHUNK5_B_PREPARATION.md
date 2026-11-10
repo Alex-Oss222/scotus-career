@@ -1,0 +1,59 @@
+# OT2001 chunk 5 B preparation receipt
+
+Research cutoff: May 20, 2002. Matters: 69, United States v. Cotton; 70, Verizon Maryland and the consolidated United States matter; 71, Alabama v. Shelton; 72, Brown v. Gilmore; 73, Mathias v. WorldCom Technologies. This is preparation only. It enters no judgment, commitment, opinion assignment, or public action.
+
+## Frozen inputs and source boundaries
+
+- [Neutral packet](OT_2001CHUNK5_B_NEUTRAL.md): a programmatic copy of the five supplied Section I packets, unchanged. Their assertions that no current-term decisions have been supplied are stale; the authorized current-term reading below supplies the effective law.
+- [Entering-law slice](../entering-law/OT_2001CHUNK5_B.md): generated with the approved entering-law tool for exact operative Standards and Tests sections, supplemented by verbatim selected Holdings entries. It includes Olano, Johnson, Apprendi, Nichols, the relevant immunity and officer-relief authorities, telecommunications authority, and the operative establishment framework. It is a reading copy, not authority.
+- [Current-term public law](../entering-law/OT_2001CHUNK5_B_PUBLIC_LAW.md): programmatic selections from the authorized neutral projection, including Vonn and relevant public positions. No raw Decision Record was opened.
+- [Source excerpts](OT_2001CHUNK5_B_SOURCE_EXCERPTS.md): programmatically copied predecision submissions and lower-court material with original source identifiers and character locations. The [source map](../sources/OT_2001CHUNK5_B/SOURCE_MAP.json) identifies the archive download URLs. Retrieved originals remain available for path-sensitive follow-up; retrieval is not represented as full substantive review of every original.
+- [Brown lower opinion and dissent](../sources/OT_2001CHUNK5_B/brown_lower_opinion.txt): copied from the petition appendix, independently cross-checked against the reported opinion on OpenJurist. The enacted statutory text was extracted from the [official 2000 session law](https://legacylis.virginia.gov/cgi-bin/legp604.exe?001+ful+CHAP1022), omitting struck-through deletions and retaining insertions. No long source passage was manually retyped.
+
+The preparer received only governing rules, neutral materials, state authorities, and date-eligible public sources. An initial read requested the whole chunk's neutral split rather than only these five sections; it exposed additional neutral packets only. A search also inadvertently returned excluded Cotton disposition material. No commitment was modeled. Cotton work after that exposure was confined to source extraction, without substantive repair of its neutral framing. A fresh neutral validator must validate the sanitized Cotton material, followed by a separate fresh independent modeler. The validator need not receive any account of the excluded substance. No other matter-specific Supreme Court outcome was opened during this preparation. No private supplements, comparator, reconciled commitments, audit annexes, or raw current-term Records were read.
+
+## Source-supported questions for clean validation
+
+### Cotton
+
+The archive's own docket and case-name searches located item `micro_IA40385014_0521`. The petition, joint appendix, United States merits brief (misnamed as a second petition in the collection), and respondents' merits brief were recovered. The excerpt file copies both parties' statement sections and the Government's threshold-quantity argument. Government assertions that the fifty-gram threshold was not contested must be distinguished from defendants' objections to attribution of larger quantities for Guidelines purposes, and from the legal objection to the missing grand- and petit-jury determinations. Neither a sentencing finding nor an advocate's characterization is a jury finding or admission. The fresh validator must determine the supported threshold-quantity description before modeling a Rule 52(b) correction path. No source-absence assumption is needed.
+
+### Verizon Maryland
+
+The archive searches located `micro_IA40385014_0459` and consolidated United States item `micro_IA40385014_0464`. The excerpted petitioner merits brief, printed page 11, states that the grant in each consolidated Maryland docket was limited to Question 2: independent section 1331 jurisdiction if section 252(e)(6) does not apply. It identifies the remaining three questions as presented in Mathias. The supplied neutral packet's broader question paraphrase therefore requires an express scope check: distinguish the granted federal-question issue from antecedent or alternative questions necessary to give effective relief. Do not assert a broader historical grant.
+
+The petition appendix and merits submissions identify the commission's continuing enforcement of reciprocal-compensation obligations, and describe declaratory and injunctive relief against responsible officers. The private payment consequences, any declaration concerning accrued liability, the injunction against continued enforcement, and a claim against the State's own treasury remain separate. Substantiality of the asserted federal conflict is separate from the merits of the compensation claim. Historical briefing descriptions of Seminole Tribe and later immunity law must be replaced by the actual entering-law rules; they are not governing authority here. The potential officer-relief route does not establish commission consent.
+
+### Shelton
+
+The archive searches located `micro_IA40385014_0448`. The petition, joint appendix, and both merits briefs were recovered. The State's statement identifies a de novo jury trial, thirty days of suspended jail, two years of unsupervised probation, and monetary terms. It recounts the waiver inquiry and the Alabama Supreme Court's conclusion that no evidence showed Shelton had been advised that counsel would be appointed if he could not afford one. Awareness of a right to hire a lawyer and competent self-representation must not become a valid waiver of appointed counsel.
+
+The State's merits brief, printed pages 5-6, describes the lower court as preserving the conviction and remaining sentence but vacating the suspended jail term; it further characterizes that action as correspondingly vacating the linked probationary term. The clean validator should verify the precise operative state judgment and distinguish that linked probation from a freestanding probation sentence. A regular revocation proceeding does not itself establish a new trial of the original assault. No assumption of valid waiver, current incarceration, or a newly available counseled retrial is adopted.
+
+### Brown v. Gilmore
+
+The archive's case-name search located `micro_IA40386014_2405`; its petition appendix contains the full Fourth Circuit opinion and dissent. The statute and the implementation instructions are separate sources of restrictions. The statute requires a daily minute, seated silence, and no distracting display, while permitting each pupil independently to meditate, pray, or choose another silent activity that does not interfere with other pupils. The instructions separately forbid teacher selection of religious activity, audible prayer, and student pressure to engage in or refrain from prayer. The excerpted official text retains every statutory qualification.
+
+The lower record includes religious-purpose evidence and secular explanations, an explicit disagreement over admitting press statements, the contemporaneous education memorandum, and the dissent's account of the statute's religious message and limited accommodation. These are supported arguments and record descriptions, not a finding that future classroom coercion either will or cannot occur. Apply the operative modified Lemon rule, Chaudhuri, Lee, Santa Fe, and Good News Club; the historical lower court's characterization of the old Lemon test cannot displace that law.
+
+The supplied placement is a merits review of a lower-court addition. It supplies no Supreme Court grant date, docket, or argument date. Use the authorized merits-submission channel without inventing those historical events. Participation is assessed at that full submission and decision.
+
+### Mathias
+
+The archive searches located `micro_IA40385014_0435`. The petition, joint appendix, merits submissions, and postargument submissions were recovered. The excerpt file includes the commissioners' complete short postargument brief about appellate aggrievement and the petition's description of the operative judgment. The lower courts upheld the commission order and entered no operative relief against the commissioners. The commissioners nevertheless identify the rejection of their jurisdictional and immunity motions as adverse collateral rulings; they invoke Deposit Guaranty National Bank v. Roper, Electrical Fittings, and Forney, and argue that the district court's sequence denied them an earlier opportunity for review.
+
+The clean validator must preserve that argument. Whether the challenged rulings are necessary, binding, or capable of producing an independently reviewable collateral consequence is a legal question, not an agreed historical fact established merely by the supplied packet's characterization. A favorable judgment and unfavorable reasoning must be analyzed separately. Ameritech's distinct desire for a broader federal forum cannot automatically supply these petitioners with appellate aggrievement. Same-day Verizon Maryland does not create a reviewable adverse judgment here.
+
+## Participation and chronology determination
+
+The authorized neutral projection establishes the same nine seated Justices throughout these argument/submission dates and May 20, 2002: Chief Justice Stone-Zsela, and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer. No case-specific simulated recusal or disqualification is established for any of these five matters. The neutral participation determination is therefore all nine at argument or full merits submission and all nine at decision. In particular, this determination applies separately to Verizon Maryland and Mathias at December 5, 2001 argument and May 20, 2002 decision. The historical reference to O'Connor's absence is a research flag, not an operative exclusion or evidence of its reason. Quorum is nine; an ordinary judgment requires five votes. No substitution, reargument, or recusal reason is invented.
+
+All five events use the common baseline immediately before May 20, 2002. Same-day listing order supplies no coordination. Cotton cannot use later Angle, Harris, or Ring. Mathias cannot use Verizon Maryland merely because its inventory number is later. The current-term Vonn decision is an effective source, replacing the original packet's stale dependency statement.
+
+## Remaining gates
+
+1. Fresh neutral validation, especially Cotton after exposure, must accept or repair the supported framing, qualifications, and scope issues identified above. The present receipt is not that validation.
+2. Before independent modeling, refresh effective May 13 law after chunk 5 A assembly, including Lapides and Verizon Communications where material. Do not assume their outcomes. The existing chunk 4 May 13 decisions remain effective for May 20; nothing establishes that their unrelated issues change this packet's rules.
+3. Verify any path-sensitive factual dispute against the already recovered source rather than presume litigant default from retrieval status. No original is declared missing; no reconstruction of a disputed jurisdictional, waiver, preservation, or preclusion premise is adopted.
+
+No repository-history command or helper was invoked. Writes were confined to this term and the permitted temporary location. File copies were checked for the prohibited tokens; no local-machine link was introduced. This receipt and its hashes establish a filesystem freeze only, with the user's prohibition on history operations controlling.

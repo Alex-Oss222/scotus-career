@@ -1,0 +1,409 @@
+Source: https://openjurist.org/259/f3d/1169
+Date: July 11, 2001. Judicial opinion and notes only; modern navigation omitted.
+
+Counsel M. Miller Baker, Charles Spies, and Richard B. Rogers, Carr, Goodson & Warner, Washington, D.C., for the appellant.
+John DiLorenzo, Jr., and Aaron K. Stuckey, Hagen, Dye, Hirschy & Dilorenzo, Portland, Oregon, for the appellant.
+
+Patrick M. McSweeney, McSweeney, Burtch, & Crump, Richmond, Virginia, for the appellant.
+
+Hardy Myers, Attorney General, and Michael D. Reynolds, Solicitor General, Salem, Oregon, for the appellee.
+
+Appeal from the United States District Court for the District of Oregon Ann L. Aiken, District Judge Presiding D.C. No. CV-98-01372-AA
+Before: Ruggero J. Aldisert,1 Andrew J. Kleinfeld, and William A. Fletcher, Circuit Judges.
+
+KLEINFELD, Circuit Judge.
+
+¶1
+
+The issue in this case is whether state legislation allowing people to vote by mail over an extended period violates a federal statute requiring that the election shall be held on a particular day.
+
+¶2
+Voting Integrity Project, Inc. and several individuals brought a federal civil rights suit for declaratory and injunctive relief,2 to establish that an Oregon statute that allows Oregonians to vote by mail for a substantial period prior to or as well as on this federal election day violates the federal election laws. This case concerns only legal issues, and no facts are in dispute. The State of Oregon prevailed on summary judgment.3 We have jurisdiction under 28 U.S.C. §§ 1291.
+
+¶3
+I. Federal law.
+
+¶4
+
+Federal statutes establish "the Tuesday next after the first Monday in November" as federal election day for the election of United States Representatives and Senators and as the day on which "electors of President and Vice President shall be appointed."4 Without question, Congress has the authority to compel states to hold these elections on the dates it specifies. The Constitution provides that:
+
+¶5
+[t]he Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each state by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators.5
+
+¶6
+
+Likewise, "Congress may determine the Time of chusing the Electors . . ." for the electoral college.6
+
+¶7
+Until the 1840s, Congress left the actual conduct of federal elections to the diversity of state arrangements. In 1845, Congress provided that in presidential election years"[t]he electors of President and Vice President shall be appointed, in each State, on the Tuesday next after the first Monday in November."7 Further changes for the election of Representatives, Senators and the President and Vice President were legislated as part of Reconstruction in the 1870's. Congress provided that:
+¶8
+
+[t]he Tuesday next after the 1st Monday in November, in every even numbered year, is established as the day for the election, in each of the States and Territories of the United States, of Representatives and Delegates to the Congress commencing on the 3d day of January next thereafter.8
+
+¶9
+Senators, of course, were not covered by this election day provision, because until the Seventeenth Amendment was ratified, they were selected by state legislatures, not elected. After ratification, Congress provided that they should be elected at the same time as Representatives were elected.9
+
+¶10
+The law remains the same today. The first Tuesday after the first Monday in November is the day when presidential and vice presidential electors "shall be appointed,"10 and it is also "the day for the election" of Representatives and Senators.11
+
+¶11
+
+II. Oregon law.
+
+¶12
+Oregon law provides that elections"shall be held" the first Tuesday after the first Monday for federal and other offices.12 But citizens do not necessarily vote on that day. Oregon has adopted a novel procedure of allowing all voters to vote by mail for a substantial period before election day. Oregon law now provides that the regular biennial elections "shall be conducted by mail."13 The statute establishes an extended period, rather than a single day, during which citizens may vote.
+County clerks must mail the blank official ballots to all registered voters between 14 and 20 days preceding the election.14 Voters can mail the ballots back or deposit them at any time between when they receive them and election day.15 Mailed ballots are counted only if they are received no later than election day,16 so the scheme contemplates that they will be mailed prior to election day.
+Voting by mail does not require any certification that the voter will be out of the district on voting day or will be otherwise inconvenienced or unable to vote in person.17
+¶13
+A vestige of traditional voting days remains.
+Voters may vote the traditional way, by casting their ballots in person at a central location on voting day if they choose.18 The Secretary of State must designate "places of deposit " for ballots, which must be kept open on voting day for at least eight hours and at least until 8:00 P.M.19 Voters have the right to deposit their ballots at that place instead of mailing them in.20 In addition to depositing a ballot at a "place of deposit," any voter may obtain a replacement ballot and cast it at the county clerk's office or one central location in the electoral district if the ballot mailed to them is destroyed, spoiled, lost, or never received.21
+¶14
+
+III. Analysis.
+
+¶15
+
+We review the district court's grant of summary judgment de novo.22
+
+¶16
+Congress, exercising its authority under the Constitution,23 has designated the first Tuesday after the first Monday in November as "the day for the election."24 Appellant argues that under Oregon's new vote by mail statutes, much or most of the voting for these federal officials will now take place in Oregon prior to the day Congress has designated as"the day for the election,"25 thereby violating the federal statute.
+
+¶17
+Appellant argues that by designating a federal election day, the first Tuesday after the first Monday in November, as "the day for the election," (emphasis added), Congress implied that the designated federal elections were to take place on that day and no other days. That is a fair inference from the text. The word "the" precedes "day," implying that the statute refers to a single day. This textual argument has considerable force.
+
+¶18
+Appellant further argues that the legislative history shows that Congress meant what the text implies. This argument also has force. We have studied the Congressional Globe (an earlier analogue of today's Congressional Record) to discover "what social problem Congress addressed with this statute more than [eleven] decades ago."26 We encounter all the usual problems of legislative history, such as not knowing whether those who spoke represented the views of those who did not speak.
+Some speakers dilute clarity with diplomacy, as can be expected of serious legislation trying to accomplish a serious purpose.
+¶19
+But it is plain that Congress considered and rejected the practice of multi-day voting allowed by some states.
+In the 1844 debates regarding selection of the electoral college, there was discussion on the floor of the Virginia practice, where "it frequently happened that all the votes were not polled in one day."27 But the expense to some states of reforming the system was characterized as a "slight consideration in the decision of a matter of such momentous importance."28 In the previous presidential election, "both parties [were] charging each other with having committed great frauds, and both professed to be anxious to guard against them in future."29 It was argued that the "time must be uniform in the States."30
+¶20
+The intense 1871-72 debates became even more explicit in addressing multi-day voting.
+At this time, Reconstruction was drawing to an end, a federal amnesty program allowed many confederate soldiers to regain the right to vote,31 the so-called Redeemers were winning control of previously "reconstructed" southern states, and the Democratic Party was consequently drawing even with the Republican Party in national strength.32 While the national election day was being considered in the House, a general amnesty bill for confederates was pending in the Senate,33 and reapportionment of Representatives among the states was also being hotly debated.34 The abolitionist leading debate said that the "object of this amendment is to provide a uniform time of electing Representatives in Congress."35 He explained that a uniform day of election would address fraud "on account of the facility for colonization and repeating among the large central States, .. .
+the privilege is allowed the border states, in any man is so disposed, of throwing voters across from one into the other."36 Though not mentioned during the debate, the anarchy and terrorism resulting from massive voting fraud in "Bleeding Kansas" by pro-Slavery voters from Missouri crossing the border to counter pro-abolition voters from New England could not have been so soon forgotten.37
+¶21
+At the time, different states elected members of the House of Representatives during different months.38 Much concern was expressed about the inconvenience of changing state constitutions and laws to accommodate a uniform national day.39 Some argued that the diversity of dates "gives some states undue advantage," and "it gives some parties undue advantage,"40 though a Senator from Maine remarked "we want in the future, as we have had in the past, the position of indicating to the country the first sentiment on great political questions."41
+¶22
+Congress expressly considered an amendment to continue to allow states "in which by law the polls are held open more than one day" to continue the practice.42 Debate focused on Texas, a state then being reconstructed. Voting was allowed in Texas only at county seats, and polls were held open for four days.
+The stated purpose was so that all the voters could get there and be spread out enough so that there was time to accommodate all the voters.43 Other southern states used the same practice.44 The proviso would have allowed the practice to continue, with the national election day being the first day of the polls being open in those states.45 But the argument for a uniform national day kept being repeated, along the lines of: "Whenever you provide that elections shall take place upon the same day, you do interpose a not inconsiderable check to frauds in elections, to double voting, to the transmission of voters from one State to another, and you do allow the people to vote for their Representatives undisturbed by considerations which they ought not to take at all into account."46
+¶23
+
+The most explicit language about multi-day voting came in response to an argument that "it is an impossibility for the voters to all get together on one day" because"they are remote from the polls."47 One Representative gently suggested that Texas should "have a greater number of precincts."48 But another said that multi-day voting was a device used to disenfranchise black voters:
+
+¶24
+I desire to say that never until there was a change in the suffragans, never until the colored people became voters, did we ever have an election held in this country continue for more than one day.
+
+¶25
+I never knew in the western country or in the eastern country any State where an election was required to be held in more than one day. Until this new element I shall not say what entered into our politics, it was never considered necessary that four, five, or six days should be allowed for the purpose of voting. Of course in Texas they have had three days for an election; and we had a beautiful illustration of that mode of voting in the contested-election case decided here yesterday.
+I do not propose to legalize any such proceeding by Federal legislation.49
+¶26
+Ultimately, Congress rejected the provision to allow multiday voting to continue so long as states provided for it by law.50 Instead, it allowed multi-day voting to continue through the election of 1872, but not thereafter.51 Because Congress considered and rejected an amendment to allow multi-day voting when they enacted the uniform election day for Representatives in 1872, it is a fair inference that the word"the" in the statute was intended, after due consideration of multi-day voting, to reject it.
+"Few principles of statutory construction are more compelling than the proposition that Congress does not intend sub silentio to enact statutory language that it has earlier discarded in favor of other language."52
+¶27
+
+Thus appellants have made substantial arguments from the text of the statute and the history of rejection of a bill that would have allowed multi-day voting. But there are also substantial arguments going the other way.
+
+¶28
+The Supreme Court decision most nearly on point cuts in favor of the Oregon law. Foster v. Love holds that a novel Louisiana scheme violates the federal election day statute,53 but the way in which it so holds seems to imply that the Oregon statute does not.
+The Louisiana statute required all candidates for the United States Senate and the United States House of Representatives to run together in an open primary in October.54 If a candidate won a majority of the votes, that candidate was elected.55 If no candidate won a majority, then there was a run-off on the federal election day.56 The court held that Louisiana had provided for federal elections earlier than the federal election day, so the state law was violated by the federal statute.57 The Court defined "election" for purposes of the federal election day statute as "the combined actions of voters and officials meant to make a final selection of an officeholder."58 That definition cuts in favor of the Oregon law, because in Oregon the "final selection " cannot be made until the federal election day, while in Louisiana, it could be and ordinarily was made prior to the federal election day.
+The inference is strengthened by the Court's explanation that "it is enough to resolve this case to say that a contested selection of candidates for a congressional office that is concluded as a matter of law before the federal election day, with no act in law or in fact to take place on the date chosen by Congress, clearly violates §§ 7."59 A footnote to this passage emphasized that "[t]his case does not present the question whether a State must always employ the conventional mechanics of an election.
+We hold today only that if an election does take place, it may not be consummated prior to federal election day."60 In contrast with the Louisiana scheme, the Oregon scheme leaves the election "unconsummated" until the federal election day, with a residual ritual of in person voting at central election offices still to take place on that day. Thus what we have so far is a statute that, taking the text and its history by themselves, seems to imply that multiday elections are not permitted.
+But we have a Supreme Court decision which we must follow, explaining that the word "election" means a "consummation" of the process of selecting an official, and emphasizing that it found a violation of the statute only because there was no act of officials or voters left to be done on federal election day. The Foster definition of "election" implies that there is only a single election day in Oregon, when the election is "consummated," even though there are prior voting days.
+Nevertheless Foster decided a different question, so its answer may not be controlling.
+¶29
+
+What persuades us of the proper outcome in this difficult case is the long history of congressional tolerance, despite the federal election day statute, of absentee balloting and express congressional approval of absentee balloting when it has spoken on the issue. We find it difficult to reconcile a decision rejecting the Oregon law with the maintenance of absentee balloting.
+
+¶30
+Absentee voting began during the Civil War as a means of providing soldiers the ability to vote.61 Vermont became the first state to accord absentee voting privileges to civilians in 1896.62 States have continued to provide for and expand absentee voting since.
+
+¶31
+Congress has recently required, not just allowed, states to provide for absentee voting in federal elections.63 The absentee voting required is not like Oregon's.
+The congressional requirement of absentee voting is limited to "duly qualified residents of such State who may be absent from their election district or unit in such State on the day such election is held."64 By itself, this provision might be taken to imply that absence from the district on the election day is a prerequisite for absentee voting. But Congress expressly prohibited that restrictive inference.
+It provided that "[n]othing in this section shall prevent any State or political subdivision from adopting less restrictive voting practices than those that are prescribed herein."65 The "section " referred to is 1973aa-1, which speaks to residence requirements for voting, registration, and absentee voting. The "less restrictive voting practices" allowed by the section would then include less restrictive absentee voting practices.
+The congressional findings of fact in the statute say that "lack of sufficient opportunities for absentee registration and absentee balloting in presidential elections " deny or abridge citizens' rights.66
+¶32
+
+Thus, we have one statute that may reasonably be construed to mean that all voting in federal elections should take place on a single day. The legislative history supports that interpretation. But another statute, of equal force, plainly provides for liberality toward absentee balloting. We are under a duty to construe statutes harmoniously where that can reasonably be done.67
+
+¶33
+The Supreme Court has provided the device for reconciling the federal election day statute and the federal absentee voting statute: a definition of "election" that treats election day as the "consummation" of the process rather than any day during which voting takes place.
+Given that definition, and the force of the absentee voting statute, Oregon is in compliance with the federal election day statute.68 Although voting takes place, perhaps most voting, prior to election day, the election is not "consummated" before election day because voting still takes place on that day.
+¶34
+
+IV. Conclusion.
+
+¶35
+
+We take no position on the desirability of one or another scheme for voting or absentee voting, only its legality. We only conclude that the Oregon scheme is in compliance with the federal election day statute.
+
+¶36
+
+AFFIRMED.
+
+Notes:
+
+1
+
+The Honorable Ruggero J. Aldisert, Senior Circuit Judge for the Third Circuit, visiting judge.
+
+2
+The suit is pursuant to 42 U.S.C. §§ 1983, which provides for suits in federal court for the deprivation of any rights, privileges, or immunities secured by the Constitution and laws of the United States.
+
+3
+
+See Fed. R. Civ. P. 56.
+
+4
+
+2 U.S.C. §§§§ 1, 7; 3 U.S.C. §§ 1. The manner of appointment is now by popular election but was formerly by the legislatures of some states.
+
+5
+
+U.S. Const. art. I, §§ 4, Cl. 1.
+
+6
+
+U.S. Const. art. II, §§ 1, Cl. 3.
+
+7
+
+3 U.S.C. §§ 1.
+8
+
+2 U.S.C. §§ 7.
+
+9
+
+2 U.S.C. §§ 1.
+
+10
+
+3 U.S.C. §§ 1.
+
+11
+
+2 U.S.C. §§§§ 1, 7.
+
+12
+
+Or. Rev. Stat. §§ 254.056.
+
+13
+
+Or. Rev. Stat. §§ 254.465.
+
+14
+
+Or. Rev. Stat. §§ 254.470(3)(a)-(b).
+
+15
+
+Or. Rev. Stat. §§ 254.470(8).
+
+16
+
+Id.
+
+17
+
+Or. Rev. Stat. §§§§ 253.015, 253.030.
+
+18
+
+Or. Rev. Stat. §§ 254.474.
+
+19
+
+Or. Rev. Stat. §§ 254.470(2).
+
+20
+
+Or. Rev. Stat. §§ 254.470(8).
+
+21
+
+Or. Rev. Stat. §§§§ 254.470(2), 254.470(9).
+22
+
+See Margolis v. Ryan, 140 F.3d 850, 852 (9th Cir. 1998).
+
+23
+
+U.S. Const. art. II, §§ 1, Cl. 3; U.S. Const. art. I, §§ 4, Cl. 1.
+
+24
+
+2 U.S.C. §§ 7.
+
+25
+
+Id.
+
+26
+
+Portland 76 Auto/Truck Plaza, Inc., v. Union Oil Co., 153 F.3d 938, 944 (9th Cir. 1998).
+
+27
+
+Cong. Globe, 28th Cong. 2d. Sess. 15 (1844).
+
+28
+
+Id. at 28.
+
+29
+
+Id. at 29.
+
+30
+
+Id.
+
+31
+See Encyclopedia of American History 250 (Richard B. Morris ed., 1953).
+
+32
+
+See Samuel Eliot Morison, The Oxford History of the American People 721-22 (1965).
+
+33
+
+Cong. Globe 42d Cong., 2d Sess. 620 (1872).
+
+34
+
+Cong. Globe 42d Cong., 2d Sess. 608 (1872).
+
+35
+
+Cong. Globe 42d Cong., 2d Sess. 112 (1871).
+
+36
+
+Id.
+
+37
+
+See Albert D. Richardson, Beyond the Mississippi 41 (1867).
+
+38
+
+Cong. Globe, 42d Cong., 2d Sess. 138 (1871).
+
+39
+
+Id. at 138-39.
+40
+
+Id. at 141.
+
+41
+
+Id. at 116.
+
+42
+
+Cong. Globe, 42 Cong., 2d Sess. 676 (1872).
+
+43
+
+ee id. at 610, 676.
+
+44
+
+See id. at 610.
+
+45
+
+See id.
+
+46
+
+Id. at 618.
+
+47
+
+Id. at 3408.
+
+48
+
+Id.
+
+49
+
+Id. at 3408.
+
+50
+
+Id. at 676.
+
+51
+
+Act of May 23, 1872, ch. CXCVII, 17 Stat. 157.
+
+52
+
+INS v. Cardoza-Fonseca, 480 U.S. 421, 442-43 (1987).
+
+53
+
+522 U.S. 67, 69 (1997).
+
+54
+See id. at 70.
+
+55
+
+See id.
+
+56
+
+See id.
+
+57
+
+See id. at 74.
+
+58
+
+Id. at 71.
+
+59
+
+Id. at 72.
+
+60
+
+Id. at 72 n.4.
+
+61
+
+See De Flesco v. Mercer County Bd. of Elections, 129 A.2d 38, 40 (N.J. App. 1957).
+
+62
+
+Id.
+
+63
+
+42 U.S.C. 1973aa-1(d).
+
+64
+
+Id.
+
+65
+
+42 U.S.C. 1973aa-1(g).
+
+66
+
+42 U.S.C. 1973aa-1(a).
+
+67
+
+2B Sutherland Statutory Construction §§ 53.01 (5th Ed.).
+
+68
+The Fifth Circuit reached the same conclusion regarding a Texas statute that allows voting to begin 17 days before federal election day. See Voting Integrity Project Inc. v. Bomer, 199 F.3d 773, 774, 777 (5th Cir. 2000).

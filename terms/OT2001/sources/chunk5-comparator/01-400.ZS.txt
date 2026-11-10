@@ -1,0 +1,48 @@
+Source: https://www.law.cornell.edu/supct/html/01-400.ZS.html
+
+
+
+BELL V. CONE
+
+LII
+
+Supreme Court
+
+BELL V. CONE (01-400) 
+243 F.3d 961, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Dissent
+ [ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BELL, WARDEN v. CONE
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+ 
+No. 01—400.  Argued March 25, 2002–Decided May 28, 2002
+
+Respondent was tried in a Tennessee court for the murder of an elderly couple, whose killings culminated a 2-day crime rampage in which respondent also committed robbery and shot a police officer and another citizen.  At his trial, the prosecution adduced overwhelming evidence that respondent perpetrated the crimes and killed the couple in a brutal and callous fashion.  His defense that he was not guilty by reason of insanity due to substance abuse and post-traumatic stress disorders related to his Vietnam military service was supported by expert testimony about his drug use and by his mother’s testimony that he returned from Vietnam a changed person.  The jury found him guilty on all charges.  The next day, during opening statements at the sentencing hearing for the murders, the prosecution said that it would prove four aggravating factors warranting the death penalty, and the defense called the jury’s attention to the mitigating evidence already before it.  Defense counsel cross-examined prosecution witnesses, but called no witnesses.  After the junior prosecutor gave a low-key closing, defense counsel waived final argument, which prevented the lead prosecutor, by all accounts an extremely effective advocate, from arguing in rebuttal.  The jury found four aggravating factors and no mitigating circumstances, which, under Tennessee law, required a death sentence.  The State Supreme Court affirmed.  After a hearing in which respondent’s trial counsel testified, the State Criminal Court denied his petition for post-conviction relief, rejecting his contention that his counsel rendered ineffective assistance during the sentencing phase by failing to present mitigating evidence and waiving final argument.  In affirming, the State Court of Criminal Appeals found counsel’s performance within the permissible range of competency under the attorney-performance standard of Strickland v. Washington, 466 U.S. 668.  Subsequently, the Federal District Court denied respondent’s federal habeas petition, ruling that he did not meet 28 U.S. C. §2254(d)(1)’s requirement that a state decision be “contrary to” or involve “an unreasonable application of clearly established Federal law.”  The Sixth Circuit reversed with respect to the sentence, finding that respondent suffered a Sixth Amendment violation for which prejudice should be presumed under United States v. Cronic, 466 U.S. 648, because his counsel, by not asking for mercy after the prosecutor’s final argument, did not subject the State’s death penalty call to meaningful adversarial testing; and that the state court’s adjudication of respondent’s claim was therefore an unreasonable application of the clearly established law announced in Strickland.
+
+Held: Respondent’s claim was governed by Strickland, and the state court’s decision neither was “contrary to” nor involved “an unreasonable application of clearly established Federal law” under §2254(d)(1).  Pp. 6—16.
+
+    (a) Section 2254(d)(1)’s “contrary to” and “unreasonable application” clauses have independent meaning.  A federal habeas court may grant relief under the former clause if the state court applies a rule different from the governing law set forth in this Court’s cases, or if it decides a case differently than this Court has done on a set of materially indistinguishable facts.  Williams v. Taylor, 529 U.S. 362, 405—406.  The federal court may grant relief under the latter clause if the state court correctly identifies the governing legal principle from this Court’s decisions but unreasonably applies it in the particular case.  Id., at 407—410.  Such application must be objectively unreasonable, which is different from incorrect.  To satisfy Strickland’s two-part test for evaluating claims that counsel performed so incompetently that a defendant’s sentence or conviction should be reversed, the defendant must prove that counsel’s representation fell below an objective reasonableness standard and that there is a reasonable probability that, but for counsel’s unprofessional error, the proceeding’s result would have been different.  In Cronic, this Court identified three situations in which it is possible to presume prejudice to the defense.  Respondent argues that his claim fits within the exception for cases where “counsel entirely fails to subject the prosecution’s case to meaningful adversarial testing,” 466 U.S., at 659 (emphasis added), because his counsel failed to mount a case for life imprisonment after the prosecution introduced evidence in the sentencing hearing and gave a closing statement.  Under Cronic, the attorney’s failure to test the prosecutor’s case must be complete.  Here, respondent argues not that his counsel failed to oppose the prosecution throughout the sentencing proceeding, but that he failed to do so at specific points.  The challenged aspects of counsel’s performance–failing to adduce mitigating evidence and waiving closing argument–are plainly of the same ilk as other specific attorney errors subject to Strickland’s performance and prejudice components.  See, e.g., Darden v. Wainwright, 477 U.S. 168, 184.  Because the state court correctly identified Strickland’s principles as those governing the analysis of respondent’s claim, there is no merit in his contention that the state court’s adjudication was contrary to this Court’s clearly established law.  Pp. 6—11. 
+
+      (b) Nor was the state court’s decision “an unreasonable application” of Strickland.  Strickland requires a defendant to overcome the “presumption that … the challenged action ‘might be considered sound trial strategy.’ ” 466 U.S., at 689.  Section 2254(d)(1) requires respondent to do more, i.e., show that the state court applied Strickland to his case in an objectively unreasonable manner.  This he cannot do.  Counsel was faced with the onerous task of defending a client who had committed a brutal and senseless crime and who, despite a relatively normal upbringing, had become a drug addict and robber.  Counsel reasonably could have concluded that the substance of the medical experts’ testimony during the guilt phase was still fresh to the jury during the sentencing phase, and that respondent’s mother had not made a good witness at the guilt stage and should not be subjected to further cross-examination.  Respondent’s sister refused to testify, and counsel had sound tactical reasons for not calling respondent himself.  Counsel also feared that the prosecution might elicit information about respondent’s criminal history from other witnesses that he could have called, and that testimony about respondent’s normal youth might cut the other way in the jury’s eyes.  Counsel’s final-argument options were to make a closing argument and reprise for the jury the primary mitigating evidence, plead for his client’s life, and impress upon the jury other, less significant facts, knowing that it would give the persuasive lead prosecutor the chance to depict his client as a heartless killer just before the jurors began deliberation; or to prevent the lead prosecutor from arguing by waiving his own summation and relying on the jurors’ familiarity with the case and his opening plea for life made just a few hours before.  Neither option so clearly outweighs the other that it was objectively unreasonable for the state court to deem his choice a tactical decision about which competent lawyers might disagree.  Pp. 11—16.
+
+243 F.3d 961, reversed and remanded.
+
+    Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ., joined.  Stevens, J., filed a dissenting opinion.
+
+

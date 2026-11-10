@@ -1,0 +1,11 @@
+{
+  "source": "bell_petition_full.txt",
+  "start_character": 106758,
+  "end_character": 182050,
+  "printed_appendix_pages": "39?83",
+  "court_order_date": "1998-05-15",
+  "full_extracted_order": true,
+  "source_sha256": "85bfe9b4e8650f6c6bca22bdb6a0e00079d30d701cc048f3431e4c1871a52cf9",
+  "selection_sha256": "a065d7dc8c65b85f7f5c7c585c613dcbcd9729059e98fc558f46e6cd716b00ec",
+  "note": "The source itself marks a table omitted in printing; this extract preserves that notation."
+}

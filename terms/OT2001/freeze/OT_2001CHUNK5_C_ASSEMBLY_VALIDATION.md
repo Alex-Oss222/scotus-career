@@ -1,0 +1,84 @@
+# OT2001 chunk 5 C: assembly validation
+
+**Status:** Passed. Six-case assembly, deterministic Record checks and all scoped qualitative QA are complete. Early-event, prepared-three, final-four and corrected Festo-scope findings are closed; no unresolved assembly blocker remains. Coordinated workspace publication, generated Render Input identity and the whole-term check remain control's subsequent work. No public Render or opening tracker was written by this assembly.
+
+**Scope and separation:** This assembly received only the authorized C neutral/public-law/source handoffs, frozen reconciliations and validations, scoped approved Stone supplements, governing task instructions, and the actual current-term opinion tables needed for assignment. The three initial matters were prepared without authors or counts; Bell and FMC entered only after their reconciliations; Festo entered only after its reconciliation and corrected-scope gates. No combined brief, full private runtime handoff, new unfiltered litigation source, or other protected private collection was read. No repository-history command or external publication was performed. All writes were confined to the current term's new Records, temporary assembly work and this validation.
+
+**Chronology and participation:** All six decisions are effective May 28, 2002, on the common law baseline immediately before that day. The completed May 13/20 refresh and effective-law validation govern. Same-day Records affected assignment counts only, not merits law; the next chunk's same-day matter supplies no entering authority. All nine seated Justices participate at each supplied argument or full merits submission and at decision, with quorum six and majority five. The bounded added-review submission premises for Prudential and South Camden are identified internally and no exact invented grant, docket or argument is asserted.
+
+## Completed Records
+
+| Matter | Record | Lead author | Largest ordinary explanation, words | Operative departure labels |
+|---|---|---|---:|---:|
+| bell | [Bell_v_Cone_Merits_2002-05-28.md](../records/Bell_v_Cone_Merits_2002-05-28.md) | Breyer | 269 | 0 |
+| fmc | [Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md](../records/Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md) | Stevens | 207 | 4 |
+| festo | [Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md](../records/Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md) | Ginsburg | 224 | 0 |
+| gisbrecht | [Gisbrecht_v_Barnhart_Merits_2002-05-28.md](../records/Gisbrecht_v_Barnhart_Merits_2002-05-28.md) | Thomas | 261 | 0 |
+| prudential | [In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md](../records/In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md) | Scalia | 139 | 0 |
+| south_camden | [South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md](../records/South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md) | O'Connor | 148 | 0 |
+
+Each Record begins with the four exact required labels, identifies the natural case/date key, retains truthful initial lineage pending control verification and commitment, and ends in exactly the eleven ordered Public Projection blocks. Its controlling-holdings section is copied verbatim to Public Holdings. Public opinion tables, judgment coalitions, proposition support, limits, separate summaries and mandate have been reviewed separately; no judgment vote is inferred from a partial rationale join. There are no unresolved author placeholders, public workflow terms or broken repository-relative links in these six files.
+
+## Sequential assignment audit
+
+Form and governing propositions were fixed before each count. All six use one signed plenary merits lead because their related questions resolve one reviewed judgment; neither fragmentation of votes nor balancing caused any artificial split or combination. Each fresh recount derives authors from the actual Public Opinion Topology tables, includes all earlier dated Records and the preceding same-day C Records, and excludes uncounted forms. Each Record was written before the following count. The saved receipts identify the last counted event and preserve the source tables.
+
+| Justice | Bell | FMC | Festo | Gisbrecht | Prudential | South Camden | After C |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Stone-Zsela | 7 | 7 | 7 | 7 | 7 | 7 | 7 |
+| Stevens | 7 | 7 | 8 | 8 | 8 | 8 | 8 |
+| O'Connor | 8 | 8 | 8 | 8 | 8 | 8 | 9 |
+| Scalia | 7 | 7 | 7 | 7 | 7 | 8 | 8 |
+| Kennedy | 8 | 8 | 8 | 8 | 8 | 8 | 8 |
+| Souter | 8 | 8 | 8 | 8 | 8 | 8 | 8 |
+| Thomas | 8 | 8 | 8 | 8 | 9 | 9 | 9 |
+| Ginsburg | 7 | 7 | 7 | 8 | 8 | 8 | 8 |
+| Breyer | 7 | 8 | 8 | 8 | 8 | 8 | 8 |
+
+Bell's last counted event is Verizon Maryland. Thereafter the last events are Bell, FMC, Festo, Gisbrecht and Prudential in that order. [Mechanical validation](../tmp/C_ASSEMBLY_MECHANICAL_VALIDATION.json) independently recomputes every saved count against the current actual tables. The individual receipts are [Bell](../tmp/bell_assignment_counts.json), [FMC](../tmp/fmc_assignment_counts.json), [Festo](../tmp/festo_assignment_counts.json), [Gisbrecht](../tmp/gisbrecht_assignment_counts.json), [Prudential](../tmp/prudential_assignment_counts.json) and [South Camden](../tmp/south_camden_assignment_counts.json).
+
+- Bell: Chief assigns Breyer from the eight full-opinion supporters, all within the seven/eight pool. Stevens's framework-only join does not qualify him for the opposed applications.
+- FMC: Chief assigns Stevens from the five full-opinion supporters, all in the seven/eight pool. The four alternative authorization-remand supporters are not eligible through shared removal of dismissal.
+- Festo: Chief assigns Ginsburg from all nine eligible Justices, all within the seven/eight pool. The prior no-bad-intent rule retains its original authority, rather than manufacturing a new Stone join.
+- Gisbrecht: Chief assigns Thomas from the seven complete-opinion eligible Associates, each at eight. Stone's narrower detailed-statutory join and Scalia's opposed agreement method do not qualify either for the complete retained opinion; fallback supplies no author qualification.
+- Prudential: Chief assigns Scalia from the eight-member seven/eight pool; all nine are substantively eligible, but Thomas at nine is outside this pool.
+- South Camden: Stevens assigns O'Connor because the Chief does not join the eight-Associate whole-judgment vacatur. O'Connor, Scalia, Kennedy and Thomas can carry the complete opinion; the comparative eight/nine pool includes all four, though the Chief-assignment restriction does not bind this Associate assignment. Stone's controlling-proposition joins do not change his distinct formal mandate.
+
+The individual Records state why fit governs, the chosen author's case-specific advantage, any narrower joins and the strongest Stone alternative. No expansion, fabricated circulation negotiation or new Associate commitment was used after final reconciliation. All selected lead opinions count once; separate writings do not count.
+
+## Substantive compatibility and source gates
+
+**Bell:** The final seven-Associate Cronic rejection and confined tactical-performance denial combine with Stone's approved same grounds for an eight-Justice reversal. Stevens retains his reconciled primary Cronic affirmance and conditional broader Strickland remand, not the earlier model's superseded primary position. Correct statutory review and rejection of an extra Fretwell burden have nine framework joins; those do not erase the opposed applications. Cozzolino's actual rebuttal limit, Pritchett's limited pretrial support and Cone's later direct ruling retain separate dates and functions. Distinct development/default and other pretermitted sentence matters remain legally available on their own footing. The [source gate](OT_2001CHUNK5_C_BELL_SOURCE_VALIDATION.md), [reconciliation](OT_2001CHUNK5_C_BELL_RECONCILED.md) and [reconciliation validation](OT_2001CHUNK5_C_BELL_RECONCILED_VALIDATION.md) support this confined disposition. Early QA confirmed a clerical inherited chronology error: the November 4, 1987 decision is an appellate affirmance, and March 14, 1988 is denial of permission to appeal. The Record's two event copies and own summary are corrected; the copied freeze remains attributed, with a concise internal clarification. No adjudication or count changed.
+
+**FMC:** Stone's administrative-function ground joins Stevens, Souter, Ginsburg and Breyer for the five-Justice reversal and ordinary Commission adjudication. O'Connor, Scalia, Kennedy and Thomas retain private-compulsory-adjudication immunity plus a distinct actual-Article-I statutory-authorization return. Their shared opposition to final dismissal is not a common tribunal rationale or a logical subset. The Record preserves four Justice-specific historical-departure lines, each tied to displaced categorical Article I incapacity and that Justice's own supported remedial choice. California supplies public-terminal coverage and its particular correction without an invented private initiator. The [California validation](OT_2001CHUNK5_C_FMC_CALIFORNIA_VALIDATION.md), [enacted-text source](OT_2001CHUNK5_C_FMC_STATUTORY_SOURCE.md), [reconciliation](OT_2001CHUNK5_C_FMC_RECONCILED.md) and [validation](OT_2001CHUNK5_C_FMC_RECONCILED_VALIDATION.md) retain all actual-removal, connected-officer, statutory-transition, private-complaint, government-enforcement and collection distinctions. No abrogation answer, consent, violation or award is inferred.
+
+**Festo:** The controlling [scope supplement](OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT.md), [validation](OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT_VALIDATION.md) and [independent scope closure](../tmp/C_FESTO_SCOPE_QA.md) establish each of the three triggers and return only particular-equivalent scope rebuttal and ordinary surviving procedural/infringement work. The earlier broader-trigger remand and its eight departure explanations were corrected before any Festo assignment or Record; they are linked as preassembly history, not copied as current departures. The accepted claims, distinct §112 and prior-art responses, qualified explanations and public instrument permit the legal applications without a blanket concession, new attorney-motive finding or source-gap inference. The [positive source gate](OT_2001CHUNK5_C_FESTO_CONCESSION_VALIDATION.md) preserves its bounded reading limits. Stone's proposed rebuttal grounds remain concrete examples within the supported objective rule, not a closed list or automatic protection. The actual status of each accused equivalent, unlike the legal triggers, remains for the approved burdened remand. The prior no-bad-intent holding retains Warner-Jenkinson's own eight-Justice authority. No present historical departure label survives.
+
+**Gisbrecht:** The seven reconciled agreement-method Associates plus Stone supply the eight-Justice method and reversal/remand. Scalia retains lodestar affirmance and only the independently identified statutory/review safeguards. Stone's partial join does not supply the detailed applications on which his supplement is silent; their eight-Associate authority remains explicit. The [mandate clarification](OT_2001CHUNK5_C_GISBRECHT_MANDATE_CLARIFICATION.md) permits reversal of the appellate affirmance and setting aside the three dependent awards as distinct objects. The [statutory gate](OT_2001CHUNK5_C_GISBRECHT_SOURCE_VALIDATION.md) supplies the complete favorable-judgment, cap, benefit-base, certification, assessment, other-fee prohibition and EAJA saving/refund conditions. Prepared QA's two missing statutory terms were completed before Record creation. No fee amount, Anderson disposition, delay or misconduct finding is invented.
+
+**Prudential:** All nine join the statutory and release-specific reversal. The Record separately addresses retained enforcement jurisdiction, judgment protection and aid-of-jurisdiction necessity. It preserves the narrower Baker premises of O'Connor, Kennedy and Thomas, the binding released policies, effective exclusions, genuine indirect released relief, ordinary state reopening/evidence rules and the continuing settlement. Constitutional notice/vagueness issues are unnecessary on the stated statutory grounds. The lower-court source and the [three-case reconciliation](OT_2001CHUNK5_C_PARTIAL_RECONCILED.md) supply the record and every Associate's own basis; no historical Supreme Court vote or author is inferred.
+
+**South Camden:** The Record keeps the eight-Associate whole-judgment vacatur distinct from Stone's affirm-in-part/vacate-in-part mandate. The §1983 proposition has five direct joins; the direct prospective route has nine; the full defendant/intent-claim analysis has eight Associates with Stone's stated narrower reasoning and judgment-only intentional-claim agreement. The fallback is used internally only for the separately pleaded intent-claim proceedings, on which Stone's approved supplement is silent. It adds no ground, changes no express Stone choice and qualifies no author. The four proposed Powell-reconsideration positions remain substantive separate-writing grounds, not hidden joins in S1. Actual regulatory requirements, coverage, causation, proper defendant and equitable findings remain necessary; the suspended injunction does not revive automatically. The [three-case reconciliation](OT_2001CHUNK5_C_PARTIAL_RECONCILED.md), actual Powell/Sandoval law and Maryland refresh control. Prepared QA's source-copy/fallback public-language findings were repaired before Record creation without changing the result.
+
+The [common effective-law validation](OT_2001CHUNK5_C_EFFECTIVE_LAW_VALIDATION.md) and [law-refresh supplement](OT_2001CHUNK5_C_LAW_REFRESH_SUPPLEMENT.md) apply to all six. The scoped private sources are [early Stone](OT_2001CHUNK5_C_EARLY_STONE.md), [Festo Stone](OT_2001CHUNK5_C_FESTO_STONE.md) and [ready-three Stone](OT_2001CHUNK5_C_READY_THREE_STONE.md). No source shortage is treated as litigant default. Every Record states the May 28, 2002 research cutoff and pre-day governing-law baseline internally; neither enters public source notes.
+
+## QA and deterministic receipts
+
+[Prepared-three QA](../tmp/C_READY_THREE_QA.md) is closed after targeted verification of the two bounded repairs. [Early-event QA](../tmp/C_EARLY_QA.md) is passed after the chronology repair. The independent Festo scope audit is passed at the corrected supplement and validation hashes recorded below. [Final-four Record QA](../tmp/C_FINAL_FOUR_QA.md) passed after reviewing the operative Festo scope, all current joins and mandate distinctions, draft-to-Record transfer and sequential assignment snapshots. No substantive or projection finding remains.
+
+Deterministic checks passed for all six: exact first labels; one bounded Public Projection; exact eleven-block order; internal/Public Holdings identity; each explanation at or below 350 words; actual lead-author table rows; sequential recount identity against current tables; complete current links; zero unresolved placeholders or flagged private/workflow terms in public text; four operative FMC departure lines and zero in the other five. These checks verify structure and arithmetic, not the legal conclusions, which rest on the scoped qualitative reviews above.
+
+Scope-supplement SHA-256: `220592ac83d766b6bc762df6669d7e3d40d3f65039d03265674998aa17cce0e4`.
+
+Scope-validation SHA-256: `6002ea044d2a73ab5c8ff19e9f0abb7e5559df2f1d1b64645b77f3e8926acd74`.
+
+| Record | SHA-256 after assembly checks |
+|---|---|
+| Bell_v_Cone_Merits_2002-05-28.md | `24c1a11f215149ccd7310f83f24e856dca25b9c83f79cb09d0f89472b95f8fb7` |
+| Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md | `30f0ba7aa36329dd1fdd6bc29ebdd28cc893f1c41d8097d3bea1c66b88f2577e` |
+| Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md | `4f5811365ff7fbb6579a90851ddc112d009d7be221db146c20c9f62d9bb17c39` |
+| Gisbrecht_v_Barnhart_Merits_2002-05-28.md | `d74759a9f43aaf827c92ecaee79e6152adb63e3ed35ecb289c8d48da9f8733a2` |
+| In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md | `ce5d6fcdad5176608f93000814a2d2f775b2fde5b0b9471d9dd6995dbbe9085e` |
+| South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md | `ed3a1d0e0e11fcaa078b51a2cbdb78f05c95c9b9585ffe874569e6188f3da116` |
+
+These are file-integrity receipts, not repository commit claims. Control owns subsequent coordinated projections, generated handoff, whole-term checks and commitment. No output render was generated by this assembly.

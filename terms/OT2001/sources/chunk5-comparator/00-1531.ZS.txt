@@ -1,0 +1,54 @@
+Source: https://www.law.cornell.edu/supct/html/00-1531.ZS.html
+
+
+
+VERIZON MD. INC. V. PUBLIC SERV. COMM’N OF MD.
+
+LII
+
+Supreme Court
+
+VERIZON MD. INC. V. PUBLIC SERV. COMM’N OF MD. (00-1531) 
+240 F.3d 279, vacated and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Kennedy ]Concurrence
+ [ Souter ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+VERIZON MARYLAND INC. v. PUBLIC SERVICE COMMISSION OF MARYLAND et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+ 
+No. 00—1531.  Argued December 5, 2001–Decided May 20, 2002*
+
+The Telecommunications Act of 1996 (Act) requires that incumbent local-exchange carriers (LECs) “provide … interconnection with” their existing networks when a new entrant seeks access to a market, 47 U.S.C. § 251(c)(2); that the carriers then establish “reciprocal compensation arrangements” for transporting and terminating the calls of each others’ customers, §251(b)(5); and that their interconnection agreements be submitted to a state utility commission for approval, §252(e)(1).  Petitioner Verizon Maryland Inc., the incumbent LEC in Maryland, negotiated an interconnection agreement with a competitor later acquired by respondent MCI WorldCom, Inc.  After the Maryland Public Service Commission (Commission) approved the agreement, Verizon informed WorldCom that it would no longer pay reciprocal compensation for calls made by Verizon’s customers to the local access numbers of Internet Service Providers (ISPs) because ISP traffic was not “local traffic” subject to the reciprocal compensation agreement.  WorldCom filed a complaint with the Commission, which ordered Verizon to make the payments for past and future ISP-bound calls.  Verizon then filed an action in federal district court, citing §252(e)(6) and 28 U.S.C. § 1331 as the basis for jurisdiction, and naming as defendants the Commission, its individual members in their official capacities, WorldCom, and other competing LECs.  Verizon sought a declaratory judgment that the order was unlawful and an injunction prohibiting its enforcement, alleging that the determination that Verizon must pay reciprocal compensation for ISP traffic violated the 1996 Act and a Federal Communications Commission ruling.  The District Court dismissed the action.  The Fourth Circuit affirmed, holding that the Commission had not waived its Eleventh Amendment immunity from suit; that the doctrine of Ex parte Young, 209 U.S. 123, does not permit suit against the individual commissioners in their official capacities; and that neither §252(e)(6) nor §1331 provides a basis for jurisdiction over Verizon’s claims against the private defendants.
+
+Held:
+
+    1. Section 1331 provides a basis for jurisdiction over Verizon’s claim that the Commission’s order requiring reciprocal compensation for ISP-bound calls is pre-empted by federal law.  Federal courts have jurisdiction under §1331 where the petitioner’s right to recover will be sustained if federal law is given one construction and will be defeated if it is given another, unless the claim clearly appears to be immaterial and made solely to obtain jurisdiction, or is wholly insubstantial and frivolous.  Steel Co. v. Citizens for Better Environment, 523 U.S. 83, 89.  Here, resolution of Verizon’s claim turns on whether the Act, or an FCC ruling, precludes the Commission from ordering payment of reciprocal compensation, and there is no suggestion that the claim is immaterial or insubstantial and frivolous.  Even if §252(e)(6) (which provides that a party aggrieved by a State commission’s determination under section 252 may bring a federal action to determine whether an interconnection agreement meets the requirements of §§251 and 252) does not confer jurisdiction, it does not divest the district courts of their authority under §1331.  Cf. Abbott Laboratories v. Gardner, 387 U.S. 136, 141.  Section 252 does not establish a distinctive review mechanism for the commission actions that it covers, and it does not distinctively limit the substantive relief available.  Finally, none of the Act’s other provisions evince any intent to preclude federal review of a commission determination.  Pp. 4—8.
+
+      2. The doctrine of Ex parte Young permits Verizon’s suit to go forward against the state commissioners in their official capacities.  The Court thus need not decide whether the Commission waived its immunity from suit by voluntarily participating in the regulatory regime established by the Act.  In determining whether the Ex parte Young doctrine avoids an Eleventh Amendment bar to suit, a court need only conduct a “straightforward inquiry” into whether the complaint alleges an ongoing violation of federal law and seeks relief properly characterized as prospective.  Idaho v. Coeur d’Alene Tribe of Idaho, 521 U.S. 261, 296, 298—299.  Here, Verizon’s prayer for injunctive relief–that state officials be restrained from enforcing an order in contravention of controlling federal law–clearly satisfies our “straightforward inquiry.”  As for Verizon’s prayer for declaratory relief, even though Verizon seeks a declaration of the past, as well as the future, ineffectiveness of the Commission’s action, so that the private parties’ past financial liability may be affected, no past liability of the State, or of any of its commissioners, is at issue, see Edelman v. Jordan, 415 U.S. 651, 668.  The Fourth Circuit’s suggestion that the doctrine of Ex parte Young is inapplicable because the Commission’s order was probably not inconsistent with federal law is unavailing: The inquiry into whether suit lies under Ex parte Young does not include an analysis of the merits of the claim, see Coeur d’Alene, supra, at 281.  Nor is there any merit to the Commission’s argument that §252(e)(6) constitutes a detailed and exclusive remedial scheme like the one held in Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 75, to implicitly exclude Ex parte Young actions.  Pp. 8—12.
+
+240 F.3d 279, vacated and remanded.
+
+    Scalia, J., delivered the opinion of the Court, in which all other Members joined, except O’Connor, J., who took no part in the consideration or decision of the cases.  Kennedy, J., filed a concurring opinion.  Souter, J., filed a concurring opinion, in which Ginsburg and Breyer, JJ., joined.
+
+Notes
+
+*.   Together with No. 00—1711, United States v. Public Service Commission of Maryland et al., also on certiorari to the same court. 
+
+

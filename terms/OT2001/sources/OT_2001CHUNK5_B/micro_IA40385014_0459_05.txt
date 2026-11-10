@@ -1,0 +1,2404 @@
+Supreme Gourt, U.S. 
+
+
+FILED 
+
+
+, } 
+
+
+Sep (0 200| fy) | SEP 10 2001 
+
+
+Nos. 00-1531 & 00-1711 
+
+
+IN THE 
+' ! CLERK 
+Supreme Court of the Ynited.States— 
+a VERIZON MARYLAND INC., 
+Petitioner, 
+
+
+Vv. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYLAND, ET AL., 
+Respondenis. 
+
+
+UNITED STATES OF AMERICA, 
+Petitioner, 
+v. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYLAND, ET AL., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals for the 
+Fourth Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+VERIZON MARYLAND INC. 
+WILLIAM P. BARR MARK L. EVANS* 
+MARK J. MATHIS MICHAEL K. KELLOGG 
+MICHAEL D. LOWE SEAN A. LEV 
+JOHN P. FRANTZ AARON M. PANNER 
+1515 N. Court House Road KELLOGG, HUBER, HANSEN, 
+Suite 500 TODD & EVANS, P.L.L.C. 
+Arlington, Virginia 22201 1615 M Street, N.W. 
+(703) 351-3103 Suite 400 
+
+Washington, D.C. 20036 
+
+DAVID A. HILL (202) 326-7900 
+
+
+1 East Pratt Street 
+Baltimore, Maryland 21202 
+(410) 393-7725 *Counsel of Record 
+
+
+September 10, 2001 
+
+
+QUESTION PRESENTED 
+
+
+Whether a federal district court has independent 
+subject matter jurisdiction under 28 U.S.C. § 1331 to 
+determine whether a state public utility commission’s 
+action interpreting or enforcing an interconnection 
+
+
+agreement violates the Telecommunications Act of 
+1996. 
+
+
+ii 
+
+
+LIST OF PARTIES TO THE 
+PROCEEDING BELOW 
+
+
+The parties in the court of appeals were as follows: 
+
+
+American Communications Services of 
+Marypland, Inc. 
+
+
+Bell Atlantic-Maryland, Inc. (now Verizon 
+Maryland Inc.) 
+
+
+Susanne Brogan, in her official capacity as 
+Commissioner of the Public Service 
+Commission of Maryland 
+
+
+E. Mason Hendrickson, in his official capacity as 
+Commissioner of the Public Service 
+Commission of Maryland 
+
+
+Glenn F. Ivey, in his official capacity as 
+Chairman of the Public Service Commission of 
+Maryland 
+
+
+Claude M. Ligon, in his official capacity as 
+Commissioner of the Public Service 
+Commission of Maryland 
+
+
+MCI WorldCom, Inc. 
+
+MCImetro Access Transmission Services, Inc. 
+Maryland Office of People’s Counsel 
+
+Public Service Commission of Maryland 
+
+RCN Telecom Services of Maryland, Inc. 
+
+
+Catherine I. Riley, in her official capacity as 
+Commissioner of the Public Service 
+Commission of Maryland 
+
+
+Starpower Communications, LLC 
+TCG-Maryland 
+United States of America 
+
+
+CORPORATE DISCLOSURE STATEMENT 
+
+
+Pursuant to Rule 29.6 of the Rules of this Court, 
+petitioner Verizon Maryland Inc. states the following: 
+
+
+Verizon Maryland Inc. (formerly Bell Atlantic- 
+Maryland, Inc.) is a wholly owned subsidiary of Verizon 
+Communications Inc., a publicly held company. No 
+publicly held company owns 10% or more of the stock of 
+Verizon Communications Inc. 
+
+
+v 
+
+
+TABLE OF CONTENTS 
+Page 
+SE PEE coccccéocecedtcecocceses i 
+LIST OF PARTIES TO THE PROCEEDING 
+DT cutis ides sntdbetecdsusestaneneeeece ii 
+CORPORATE DISCLOSURE STATEMENT ...... iii 
+TABLE OF AUTHORITIES ..................... vii 
+ET occu cuacceceedeeductoudeosésess 1 
+ED v6ctdeiuceseadgasuaeueasaneenesas 2 
+CONSTITUTIONAL, STATUTORY, AND 
+REGULATORY PROVISIONS INVOLVED ....... 2 
+STATEMENT OF THE CASE ..................... 2 
+1. Interconnection Agreements and the 1996 
+Dy édicceunbedoeededudeeseésteucccesésanses 3 
+
+
+De TEED weccccccccconsccscccccecs 7 
+4. The Proceedings Below ..................... 9 
+5. The Grant of Certiorari ................... 11 
+SUMMARY OF ARGUMENT .................... 11 
+GREE cevedaccnccccncnsccceeescesccececes 14 
+
+
+I. VERIZON’S CLAIM ARISES UNDER 
+PEED = wecccccececesccsscvcessces 16 
+
+
+vi vii 
+
+
+A. A Federal District Court Has Juris- TABLE OF AUTHORITIES 
+diction To Determine Whether the 
+
+
+PSC’s Interpretation Violates Veri- Page 
+zon’s Federally Protected Right To CASES 
+Enter into “Binding Agreement{s]” ..... 17 
+ASARCO Inc. v. Kadish, 490 U.S. 605 (1989) ..... 13 
+B. Any Claim Based on a 1996 Act 
+Interconnection Agreement Arises AT&T Co. v. Central Office Tel., Inc., 524 U.S. 214 
+Under Federal Law -................. 7.20 Dt? dcccuchaGdceabhesddeddbcsateeedaewewedes 28 
+II. NO OTHER PROVISION OF LAW AT&T Communications of Southern States, Inc. 
+DEPRIVES FEDERAL COURTS OF v. BellSouth Telecomms., Inc., 229 F.3d 457 
+JURISDICTION OVER CLAIMS LIKE DL ocosénodadseevesecess 3, 4, 19, 28 
+Std otainkenudddaaulaibdedecenes 29 
+AT&T Corp. v. Iowa Utils. Bd., 525 U.S. 366 
+A. Section 252(e)(6) Does Not Withdraw a ee 3, 4, 14, 25 
+Subject Matter Jurisdiction from the 
+PE cansiekadcnobeccudbucess 30 Abbott Labs. v. Gardner, 387 U.S. 136 (1967) . 14, 31 
+B. The Rooker-Feldman Doctrine Does American Surety Co. v. Schultz, 237 U.S. 159 
+Not Bar Federal Judicial Review of i tcecteenectounledkeutes tkeeueseshenueve 23 
+State Administrative Action ........... 35 
+Arkansas Louisiana Gas Co. v. Hall, 453 U.S. 571 
+PE dicctecaeudinuisceseeniddbeedaces 40 DT Gintdndmeikecddtanenebedewonendons 28, 29 
+
+
+Bell v. Hood, 327 U.S. 678 (1946) ................ 16 
+
+
+Bell Atlantic Tel. Cos. v. FCC, 206 F.3d 1 (D.C. Cir. 
+EE Seeevercedddcedsessccecececcessovcosess 7 
+
+
+Bowen v. Michigan Academy of Family Physicians, 
+SCT CED svccsaccecoessedes 14, 31, 32 
+
+
+Cahnmann ov. Sprint Corp., 133 F.3d 484 
+(7th Cir.), cert denied, 524 U.S. 952 (1998) ...28 
+
+
+Califano v. Sanders, 430 U.S. 99 (1977) .......... 39 
+
+
+City of Chicago v. International College of 
+Surgeons, 522 U.S. 156 (1997) .......... passim 
+
+
+District of Columbia Court of Appeals v. Feldman, 
+See PE c.e6acsséas ndcdneoneas 10, 35 
+
+
+Duke Power Co. v. Carolina Envtl. Study Group, 
+in Gs GEE. ecdeseadewedsseducetes 16 
+
+
+England v. Louisiana State Board of Med. 
+Examiners, 375 U.S. 411 (1964) .............. 39 
+
+
+ErieNet, Inc. v. Velocity Net, Inc., 156 F.3d 513 
+Dh SD iaccnisecsedasbueaddaekvenieees 27 
+
+
+Fax Telecommunicaciones Inc. v. AT&T, 138 F.3d 
+I tee as 28, 29 
+
+
+Franchise Tax Bd. v. Construction Laborers 
+Vacation Trust, 463 U.S. 1(1983) ............ 34 
+
+
+r 
+
+
+_ GTE North, Inc. v. Strand, 209 F.3d 909 (6th Cir.), 
+cert. denied, 531 U.S. 957 (2000) ............. 10 
+
+
+Georgia R.R. & Banking Co. v. Redwine, 342 U.S. 
+DPE adhndevdesetensdeedéouns) cébneecncd 30 
+
+
+Goldwasser v. Ameritech Corp., 222 F.3d %*90 
+Dt Cn? <a. 6s cesuanteccnsuestensseenee 17 
+
+
+Great Northern Ry. v. Merchants’ Elevator Co., 
+PEED cdvccavsevaseessesecet 27, 39 
+
+
+Gully v. First Natl Bank, 299 U.S. 109 
+SE 00d 6h4.00045 668 006044 bbeonECS S08e~e 11, 36 
+
+
+ERODED ccccveccccceccegeressesteeeencsoessees 34 
+
+
+ix 
+
+
+International Ass’n of Machinists v. Central 
+Airlines, Inc., 372 U.S. 682 (1963) ...... passim 
+
+
+International Union, United Automobile Workers 
+v. Brock, 477 U.S. 274 (1986) ................ 33 
+
+
+Iowa Utils. Bd. v. FCC, 120 F.3d 753 (8th Cir. 
+1997), affd in part, rev’d in part sub nom. 
+AT&T Corp. v. Iowa Utils. Bd., 525 U.S. 366 
+DE Sadckatckebaceadsdenhédenbes cecdchedens 17 
+
+
+Jackson Transit Auth. v. Local Div. 1285, 
+Amalgamated Transit Union, 457 U.S. 15 
+SE kadkdddusedevetdasetanceceededesac 24, 25 
+
+
+Louisville & N.R.R. v. Rice, 247 U.S. 201 
+al ei a 13, 26, 27, 28 
+
+
+MCI Telecomms. Corp. v. FCC, 917 F.2d 30 
+Pi actedendcsesesdcsetsentes boom 
+
+
+MCI Telecomms. Corp. v. Garden State Inv. Corp., 
+981 F.2d 385 (8th Cir. 1992) ................. 28 
+
+
+MCI Telecomms. Corp. v. Graham, 7 F.3d 477 
+SE EE oe dccbcctenenveeeteetécesesbus 28 
+
+
+MCI Telecomms. Corp. v. Illinois Bell Tel. Co., 
+222 F.3d 323 (7th Cir. 2000), cert. denied, 
+DLE, ¢o¢cesecetbcesvchaseoens« 38 
+
+
+MCI Telecomms. Corp. v. Teleconcepts, Inc., 
+71 F.3d 1086 (3d Cir. 1995), cert. denied, 
+Se ED oncosddesbbiseseucecesecs 28 
+
+
+McNary v. Haitian Refugee Center, Inc., 498 U.S. 
+SE bdbchebeddnsodsedebendsesecesncces 13 
+
+
+Merrell Dow Pharms. Inc. v. Thompson, 478 U.S. 
+
+
+I el ee ee a ee 23 
+New Orleans Pub. Serv., Inc. v. Council ef New 
+Orleans, 431 U.S. 350 (1989) ................ 40 
+Norfolk & Western Ry. v. Nemitz, 404 U.S. 37 
+peti ee eee ie eee oa oe eae oad 22 
+Oneida Indian Nation v. County of Oneida, 
+De eT a Ae 16 
+Railroad & Warehouse Comm’n v. Dulsth Street 
+is See ee PEED 664006e00nseneeecenes 34 
+Reno v. Catholic Social Services, Inc., 509 U.S. 43 
+i et ae Rae ae i a aS ea aa 13 
+Rooker v. Fidelity Trust Co., 263 U.S. 413 
+RR RE ee Ne 10, 35 
+Sea-Land Service, Inc. v. ICC, 738 F.2d 1311 
+I A ae 29 
+Shields v. Utah Idaho Cent. R.R., 305 U.S. 177 
+CD iid oa A ee es a aa eee i 18, 36-37 
+Smyth v. Ames, 169 U.S. 466 (1898) .............. 34 
+
+
+Southwestern Bell Tel. Co. v. Connect Commu- 
+nications Corp., 225 F.3d 942 (8th Cir. 
+PS ey er rere ny ene re 38 
+
+
+Southwestern Bell Tel. Co. v. Public Util. Comm'n, 
+208 F.3d 475 (Sth Cir. 2000) ................. 38 
+
+
+Stark v. Wickard, 321 U.S. 288 (1914) . 13, 15, 31, 32 
+
+
+Thurston Motor Lines, Inc. v. Jordan K. Rand, 
+Ltd., 460 U.S. 5338 (1983) ............. 13, 27, 28 
+
+
+United States v. Western Pac. R.R., 352 U.S. 59 
+TS PRs EES ARE Ae peal SE eae oe 38, 39 
+
+
+Western Union Int'l, Inc. v. Data Dev., Inc., 
+41 F.3d 1494 (llth Cir. 1995) ................ 28 
+
+
+Winstead v. J.C. Penney Co., 933 F.2d 576 
+ee a ee aes eee cout wane 27 
+
+
+Young, Ex parte, 209 U.S. 123 (1908) .. 9,11, 30, 34 
+
+
+ADMINISTRATIVE DECISIONS 
+
+
+Declaratory Ruling, Implementation of the Local 
+Competition Provisions in the Telecommu- 
+nications Act of 1996, 14 FCC Rcd 3689 
+(1999), vacated and remanded for further 
+consideration, Bell Atlantic Tel. Cos. v. FCC, 
+ee ee GEE ED ccc cccccsccccncess 7 
+
+
+First Report and Order, Implementation of the 
+Local Competition Provisions in the Telecom- 
+munications Act of 1996, 11 FCC Red 15499 
+(1996), modified on recon., 11 FCC Red 13042 
+(1996), vacated in part, Iowa Utils. Bd. v. FCC, 
+120 F.3d 753 (8th Cir. 1997), aff'd in part, rev'd 
+in part sub nom. AT&T Corp. v. Iowa Utils. 
+Bd., 525 U.S. 366 (1999) ................eceee, 5 
+
+
+xii 
+
+
+Memorandum Opinion and Order, Starpower Com- 
+munications, LLC Petition for Preemption of 
+Jurisdiction of the Virginia State Corporation 
+Commission Pursuant to Section 252(e)(5) of 
+the Telecommunications Act of 1996, 15 FCC 
+bk ee ne 15 
+
+
+Order on Remand and Report and Order, 
+Implementation of the Local Competition Provi- 
+sions in the Telecommunications Act of 1996, 
+
+CC Docket Nos. 96-98 & 99-68, FCC 01-131, 
+2001 WL 431687 (rel. Apr. 27, 2001), petitions 
+for review pending, Nos. 01-1218 et al. (D.C. 
+DD -ledduccdbedsetaescaseseneasuaees 5, 6, 7, 19 
+
+
+CONSTITUTION, STATUTES, AND 
+REGULATIONS 
+
+
+ey Se, oo oe debaakee’ 2,9,11 
+
+
+Communications Act of 1934, 47 U.S.C. §§ 151 et seq.: 
+
+
+GF Pe PEED cob eSekecdceesisuceccenens 26 
+GF FA ED eecncccassaccduscendséncess 26 
+GF TOE eenecccnencensceuccsecsenecees 28 
+Gr De GED wscccccccnccucvcsnsveseces 26 
+Ge BEES eenascedcccccesccesvéeciss 26 
+GE GR BED ccccccvccccccccsescecceses 4, 23 
+Ge DE GEEERD  ccccccccessccseseestecccss 21 
+
+
+GF DB. GENE vb voccccccvccvces 5, 6, 7, 35 
+ED chk go bnken Vanndecdssnshecs 21 
+47 U.S.C. § 251(c)(1) .............. 3, 19, 20, 25 
+47 U.S.C. § 251(ch(2)(D) ............... 5, 21, 26 
+GF WAR. GERI occ ccccccscccccces 5, 21, 26 
+GN I: ob cbveaeeceveugeees 4, 17, 23, 28 
+Gr UR ED. ontiscvecccatcddces 12, 18, 20 
+Ge De LED wee cccwececesnenccs passim 
+SES cccainddksdiceeeksbudassint 4 
+ee EE nuiGasdcndveccoesseckdseeees 4 
+ey es ED kevcdvdvecunansdeucesens 21, 23 
+er es ED nd kndssincs docedseveeoeene 4 
+47 U.S.C. § 252leN4) ......... cece eee eee 13, 32 
+Se ee EE. Ccvangeecuneascectncnsss 15 
+Be DAE. GRIND cc ccccccccccccccess passim 
+Pe CE UE Svecccusessvecedeccess 21, 26 
+Ge TAs SED ccvccscccesccccens 4, 8, 21, 26 
+Ge SEED Sete cbccncscdsncedescccesés 21 
+
+
+Public Utility Regulatory Policies Act of 1978, 
+CR rere a 33 
+
+
+XiV 
+
+
+Railway Labor Act, 45 U.S.C. §§ 151 et seq.: 
+
+
+§ 204, 45 U.S.C. § 184 ................ 21, 22, 23 
+Telecommunications Act of 1996, Pub. L. No. 
+
+Sree Ss GEE | bocce nececccevsess passim 
+Trade Act of 1974, 19 U.S.C. § 2311(d) ........... 33 
+Urban Mass Transportation Act of 1964, § 13(c), 
+
+49 U.S.C. § 1GGBle) CIGSS) .. 0. ccc cecccccees 24 
+OCD da derepnsveddevssssunessuatwes 2 
+ee ED ces 0 beedbescetitbesadebiares 13, 37 
+ee es PEED - bo ed cedcneucndustkesvesseebes 37 
+Ss i passim 
+ee es na uncadaus nvendiudaerntdcndenens 27 
+er es SEED -cactbidecdcccteddesnensvenes 27 
+Md. Code Ann., Pub. Util. Cos. § 3-102(a)(2) 
+
+CREO vccccess sntendubvibawscedeuieuebeeneds 37 
+Gr Grae cae . snvsntsicntnccdsbesadsesees 29 
+OTHER MATERIALS 
+
+
+13B Charles A. Wright, Arthur R. Miller & Edward 
+H. Cooper, Federal Practice & Procedure (2d ed. 
+DD. cacueadhsescbannseualedeenaetesa 27 
+
+
+IN THE 
+Supreme Court of the United States 
+
+
+No. 00-1531 
+
+
+VERIZON MARYLAND INC., 
+Petitioner, 
+v. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYLAND, ET AL., 
+Respondents. 
+
+
+No. 00-1711 
+
+
+UNITED STATES OF AMERICA, 
+Petitioner, 
+v. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYI.AND, ET AL., 
+Respondents. 
+
+
+On Writs of Certiorari to the 
+~ United States Court of Appeals for the 
+Fourth Circuit 
+
+
+BRIEF FOR PETITIONER 
+VERIZON MARYLAND INC. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. la- 
+72a) is reported at 240 F.3d 279. The opinion of the 
+district court (Pet. App. 73a-90a) is not reported. The 
+order of the Maryland Public Service Commission (Pet. 
+App. 9la-111a) is not reported. 
+
+
+! “Pet. App.” refers to the appendix to the petition filed by Verizon 
+Maryland Inc. in No. 00-1531. 
+
+
+2 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+February 14, 2001. The petition for a writ of certiorari 
+in No. 00-1531 was filed on April 5, 2001, and the 
+petition for a writ of certiorari in No. 00-1711 was filed 
+on May 15, 2001. On June 25, 2001, both petitions 
+were granted, limited to Question 2 presented by each 
+petition. 121 S. Ct. 2548. The jurisdiction of this 
+Court rests on 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL, STATUTORY, AND 
+REGULATORY PROVISIONS INVOLVED 
+
+
+The Eleventh Amendment to the United States 
+Constitution, the relevant provisions of the Telecom- 
+munications Act of 1996 and the Federal Communica- 
+tions Commission’s implementing regulations, and 28 
+U.S.C. § 1331 are set forth at Pet. App. 112a-134a. 
+
+
+STATEMENT OF THE CASE 
+
+
+As required by the Telecommunications Act of 1996 
+(“1996 Act”), petitioner Verizon Maryland Inc. 
+(“Verizon”) entered into an “interconnection agree- 
+ment” with respondent MFS Intelenet of Maryland, 
+Inc. (“MFS”), a competitive local exchange carrier 
+(“CLEC”). The interconnection agreement provided 
+that “reciprocal compensation” — the amount that one 
+interconnecting carrier pays another for traffic that 
+originates on one network and terminates on the other 
+— would be due only to the extent required by the 1996 
+Act. The Federal Communications Commission (“FCC”) 
+ruled that the 1996 Act does not require reciprocal 
+compensation for Internet-bound traffic. The Maryland 
+Public Service Commission (“PSC”) nevertheless inter- 
+preted the interconnection agreement to require Veri- 
+zon to pay MFS reciprocal compensation for Internet- 
+bound traffic, a ruling that forced Verizon to transfer to 
+MFS and other competitors many millions of dollars 
+that it had never agreed to pay and that federal law did 
+
+
+3 
+
+
+not require it to pay. Verizon challenged the PSC’s ; 
+decision in federal district court, basing jurisdiction, in 
+part, on 28 U.S.C. § 1331. 
+
+
+The question presented by this case is whether a 
+federal court may exercise § 1331 “arising under” 
+jurisdiction in an action alleging that a state commis- 
+sion has interpreted or enforced a 1996 Act intercon- 
+nection agreement in violation of federal law. 
+
+
+1. Interconnection Agreements and the 1996 
+Act. The 1996 Act “fundamentally restructures local 
+telephone markets” by subjecting incumbent local 
+telephone companies to “a host of duties intended to 
+facilitate market entry.” AT&T Corp. v. lowa Utils. 
+Bd., 525 U.S. 366, 371 (1999). The documents detail- 
+ing incumbents’ duties, though referred to as “intercon- 
+nection agreements,” are not voluntary contracts in 
+any ordinary sense. An incumbent local exchange 
+carrier (“LEC”) has no choice about whether to enter 
+into such an “agreement” when a CLEC makes a 
+request. On the contrary, the 1996 Act requires 
+incumbents, upon a CLEC’s request, “to negotiate in 
+good faith .. . the particular terms and conditions of 
+agreements to fulfill” the 1996 Act’s substantive duties. 
+47 U.S.C. § 251(c)(1); see also id. § 252(a)(1). 
+
+
+Although carriers are permitted to “negotiate and 
+enter into a binding agreement .. . without regard 
+to the standards set forth” in the 1996 Act (id. 
+§ 252(a)(1)), “many so-called ‘negotiated’ provisions 
+represent nothing more than an attempt to comply with 
+the requirements of the 1996 Act” (AT&T Communica- 
+tions of Southern States, Inc. v. BellSouth Telecomms., 
+Inc., 229 F.3d 457, 465 (4th Cir. 2000)). That is so 
+because the Act, as interpreted by the FCC, effectively 
+discourages attempts to negotiate terms that provide 
+either less or more than the Act requires. 
+
+
+First, parties negotiate against the backdrop of 
+statutory and regulatory requirements that dictate the 
+
+
+4 
+
+
+minimum terms to which an incumbent carrier will be 
+held in the absence of a negotiated agreement. Section 
+252(b) provides that either party to a negotiation may 
+“petition the state commission . . . to arbitrate open 
+issues, which arbitration is subject to § 251 and the 
+FCC regulations promulgated thereunder.” AT&T, 525 
+U.S. at 373; see 47 U.S.C. § 252(b), (c). Accordingly, so 
+long as an issue has already been “resolved by . . . FCC 
+Rules and interpretations,” a CLEC has little motiva- 
+tion to accept anything less than the federal require- 
+ment. AT&T Communications, 229 F.3d at 465. 
+
+
+Second, an incumbent is discouraged from agreeing 
+to anything that exceeds its obligations under federal 
+law because “any interconnection, service, or network 
+element provided under an agreement approved under” 
+§ 252 must be made available to “any other requesting 
+telecommunications carrier upon the same terms and 
+conditions.” 47 U.S.C. § 252(i). As a consequence, an 
+incumbent cannot safely engage in ordinary “give-and- 
+take” because, as the FCC has interpreted § 252(i), 
+“every concession . . . made (in exchange for some other 
+benefit) by an incumbent LEC will automatically be- 
+come available to every potential entrant.” AT&T, 525 
+U.S. at 395. Together, therefore, §§ 252(b) and 252(i) 
+impel the parties to match the terms of their intercon- 
+nection agreement to the commands of federal law. 
+
+
+Whether an agreement is arrived at by negotiation or 
+arbitration, the parties must submit the agreement to 
+the appropriate state public utility commission for 
+approval and public filing. See 47 U.S.C. § 252(a)(1), 
+(e)(1). Once an agreement has been approved, federal 
+law requires the parties to abide by its terms. Section 
+252(a)(1) explicitly provides that interconnection 
+agreements are “binding.” Jd. § 252(a)(1). Likewise, 
+several provisions in § 251 refer to the obligation of 
+incumbent carriers to provide network access and 
+interconnection “in accordance with the terms and 
+
+
+5 
+
+
+_ conditions of the agreement.” See id. § 251(c)(2)(D), 
+
+
+(c)(3). In short, the obligations imposed by an intercon- 
+nection agreement are not private contractual obliga- 
+tions, but federal regulatory obligations that apply 
+equally to all similarly situated telecommunications 
+carriers. 
+
+
+2. Reciprocal Compensation and the Internet. 
+Section 251(b)(5) requires LECs to enter into “recipro- 
+cal compensation arrangements for the transport and 
+termination of telecommunications.” Id. § 251(b)(5). 
+Under “reciprocal compensation,” when a customer of 
+Carrier A places a call to a customer of Carrier E ‘n the 
+same local calling area, Carrier A pays Carrier B for 
+terminating that local call. Likewise, when a customer 
+of Carrier B calls a customer of Carrier A, Carrier B 
+pays Carrier A for terminating the call. 
+
+
+The FCC has consistently held that § 251(b)(5)’s 
+reciprocal-compensation obligation applies only to 
+intra-exchange telecommunications traffic (that is, 
+calls that originate and terminate within the same 
+local calling area). For non-local or “interexchange” 
+calls, a different set of rules applies (those governing 
+long-distance “access charges”).” 
+
+
+The application of this rule to traditional local voice 
+telephone calls has been relatively straightforward, but 
+the question whether reciprocal compensation applies 
+to Internet-bound calls has given rise to disputes. A 
+customer typically initiates an Internet session by 
+
+
+? First Report and Order, Jmplementation of the Local Competition 
+Provisions in the Telecommunications Act of 1996, 11 FCC Red 15499, 
+16013, ¥ 1034 (1996) (subsequent history omitted); see also Order on 
+Remand and Report and Order, Implementation of the Local Competi- 
+tion Provisions in the Telecommunications Act of 1996, CC Docket Nos. 
+96-98 & 99-68, FCC 01-131, 2001 WL 431687, {4 36-37 (rel. Apr. 27, 
+2001) (“ISP Remand Order”) (confirming that § 251(bX5) does not apply 
+to “access services or services associated with access”), petitions for 
+review pending, Nos. 01-1218 et al. (D.C. Cir.). 
+
+
+6 
+
+
+using a modem to connect to the facilities of an Inter- 
+net service provider, or “ISP,” such as America Online. 
+The ISP then completes the communication link by 
+connecting the customer to the requested website, 
+which may be located anywhere in the world. 
+
+
+CLECs have typically argued that, because many ISP 
+access numbers are “local” — that is, associated with 
+the subscriber’s local calling area — Internet-bound 
+calls are subject to reciprocal compensation under 
+§ 251(b)(5). Incumbents, by contrast, have typically 
+maintained that Internet-bound calis are interstate 
+and interexchange in nature, because such calls do not 
+terminate at the ISP’s modem but continue in an 
+unbroken transmission to distant websites. Before the 
+FCC definitively resolved this issue, a number of state 
+commissions had ruled that Internet-bound calls are 
+actually two calls — a local call to the ISP and a 
+subsequent communication between the ISP and the 
+distant website — and that the initial call to the ISP is 
+local in nature and therefore subject to reciprocal 
+compensation. 
+
+
+The FCC has made clear that those rulings were 
+incorrect. It has repeatedly ruled that an Internet- 
+bound call is a single end-to-end communication 
+between the customer and the distant website, a call 
+that is therefore interstate and interexchange. See /SP 
+Remand Order 77 58-60. The agency has specifically 
+ruled that, because Internet-bound traffic is interstate 
+access traffic, it is “not subject to the reciprocal com- 
+pensation requirement in section 251(b)[(5)].” Id. { 23; 
+accord id. { 30. 
+
+
+The FCC also explained in detail that the decisions of 
+various state commissions requiring payment of recip- 
+rocal compensation for Internet-bound traffic have 
+directly undermined the goals of the 1996 Act. Such 
+rulings have “led to classic regulatory arbitrage,” were 
+
+
+7 
+
+
+a “windfall” for CLECs, and “distort[ed) the develop- 
+ment of competitive markets.” Jd. {4 21, 29, 70. Such 
+payments give CLECs “every incentive to compete, not 
+on [the] basis of quality and efficiency, but on the basis 
+of their ability to shift costs to other carriers.” Id. { 4. 
+The FCC expressed its approval of state commission 
+decisions denying CLECs compensation for Internet- 
+bound calls (id. {4 80, 82); it also preempted contrary 
+decisions on a going-forward basis and imposed a 
+federal compensation mechanism, intended gradually 
+to eliminate such payments. At the same time, the JSP 
+Remand Order did not purport to affect prior state com- 
+mission decisions that had ordered reciprocal compen- 
+sation, leaving that matter to the ordinary process of 
+judicial review. 
+
+
+3. The Dispute Below. In May 1997 — well before 
+the FCC had addiressed the issue of reciprocal compen- 
+sation for Internet-bound traffic — MFS filed a com- 
+plaint with the Maryland PSC alleging that Verizon’s 
+refusal to pay reciprocal compensation on Internet- 
+bound traffic violated the 1996 Act and the parties’ 
+interconnection agreement. The PSC ruled that 
+Internet-bound calls are local and therefore subject to 
+reciprocal compensation. Pet. App. 94a-96a. The PSC 
+promised to revisit its determination, however, in the 
+event that subsequent FCC rulings had a bearing on 
+the subject. Jd. at 106a-107a. 
+
+
+In February 1999, the FCC expressly ruled that 
+Internet-bound calls are non-local calls that do not 
+qualify for reciprocal compensation under § 251(b)(5). 
+See Declaratory Ruling, Implementation of the Local 
+Competition Provisions in the Telecommunications 
+Act of 1996, 14 FCC Red 3689 (1999).° Immediately 
+
+
+* This ruling was vacated by the D.C. Circuit in Bell Atlantic 
+Telephone Cos. v. FCC, 206 F.3d 1 (D.C. Cir. 2000). The ISP Remand 
+Order reaffirmed the FCC’s prior conclusion. 
+
+
+8 
+
+
+thereafter, Verizon asked the PSC to revise its own 
+prior determination in light of the FCC’s controlling 
+interpretation of federal law. The operative language 
+of the governing interconnection agreement left no 
+doubt that the parties’ obligations tracked those im- 
+posed under federal law. The agreement provides: 
+
+
+“Reciprocal Compensation” is As Described in the 
+[1996] Act, and refers to the payment arrange- 
+ments that recover costs incurred for the transport 
+and termination of Local Traffic... . 
+
+
+See C.A. App. 55; Pet. App. 10la. The agreement also 
+defines “Local Traffic” in a manner that tracks the 
+then-existing FCC regulation almost word for word. 
+See C.A. App. 53; Pet. App. 101a.* 
+
+
+Nonetheless, a sharply divided PSC refused, by a 3-2 
+vote, to alter its earlier determination. Instead, it 
+ruled that, because “the treatment of [Internet-bound] 
+traffic as local was so prevalent in the industry,” 
+Verizon “hed an obligation to negate such local treat- 
+ment in the interconnection agreements it entered into 
+by specifically excluding [Internet-bound] traffic from 
+the definition of local traffic subject to the payment of 
+reciprocal compensation.” Pet. App. 103a. The major- 
+ity also expressed concern that the FCC’s holding (that 
+Internet-bound traffic is not subject to reciprocal com- 
+pensation) “will result in CLECs receiving no compen- 
+sation for terminating [Internet]-bound traffic”; it 
+therefore adopted an interim compensation mechanism 
+for Internet-bound traffic in direct conflict with the 
+federal rule. Jd. at 106a-107a.° 
+
+
+* After the PSC approved the Verizon-MFS agreement, a number of 
+other CLECs adopted the relevant provisions of the agreement pursuant 
+to § 252(i) and the FCC’s implementing regulations. 
+
+* The district court held that this aspect of the PSC’s decision was 
+
+
+9 
+
+
+4. The Proceedings Below. Verizon sought review 
+of the PSC’s decision in the United States District 
+Court for the District of Maryland, citing as the basis 
+for jurisdiction 47 U.S.C. § 252(e)(6) and 28 U.S.C. 
+§ 1331. The complaint named as defendants the 
+Maryland PSC, the members of the Maryland PSC in 
+their official capacity, MFS, and the five other affected 
+carriers. 
+
+
+On the PSC’s motion, the district court dismissed the 
+complaint on the ground that, the Eleventh Amendment 
+precluded its exercise of subject matter jurisdiction 
+under either § 252(e)6) or § 1331. Pet. App. 73a-90a. 
+
+
+A divided panel of the Fourth Circuit affirmed. /d. 
+at la-72a. The majority begam by rejecting Verizon’s 
+Eleventh Amendment arguments, holdimg both that the 
+PSC did not waive its immunity from suit in federal 
+court by voluntarily participating in the 1996 Act’s 
+regulatory scheme (id. at 14a-21a), and that the doc- 
+trine of Ex parte Young, 209 U.S. 123 (1908), does not 
+permit this action to proeeed against the individual 
+members of the PSC in their official capacity to re- 
+strain ongoing violations of federal law (Pet. App. 21a- 
+30a). Having ruled that neither the PSC nor its mem- 
+bers could lawfully be made parties to the federal court 
+action, the court held next that the district court lacked 
+jurisdiction under § 252(e)(6) to allow the action to 
+proceed against the private defendants. Jd. at 30a-47a. 
+
+
+Finally, on the specific question presented here, the 
+majority held that “28 U.S.C. § 1331 does not provide 
+federal! jurisdiction over [Verizon’s] claims” because, in 
+its judgment, “Congress intended that federal jurisdic- 
+tion be limited toe the grant in 47 U.S.C. § 252(e)(6).” 
+Id. at 50a. The court predicated its holding, in part, on 
+
+
+10 
+
+
+its view that the Rooker-Feldman doctrine® — under 
+which “lower federal courts are not authorized to 
+review final judgments from State court proceedings” 
+(id. at 50a n.8) — should be extended to prohibit, “in 
+the absence of specific federal authorization,” federal 
+court review of orders issued by “a State quasi-judicial 
+body, such as the Maryland Public Service Commis- 
+sion.” Jd. at 50a. The court acknowledged that its 
+ruling on § 1331 conflicted with the Sixth Circuit’s 
+decision in GTE North, Inc. v. Strand, 209 F.3d 909, 
+919 (6th Cir.), cert. denied, 531 U.S. 957 (2000). See 
+Pet. App. 50a. 
+
+
+Judge King dissented. Concerned that the majority 
+had “isolate[d] itself . . . from every other court of 
+appeals that has decided these issues” (id. at 52a), and 
+“find[ing] these [other] decisions highly persuasive in 
+addressing the jurisdictional and immunity issues” (id. 
+at 53a-54a), Judge King concluded (i) that “§ 252(e)(6) 
+expressly confers jurisdiction on the federal courts to 
+review the states’ enforcement determinations” (id. at 
+56a); (ii) that “a state waives the defense of sovereign 
+immunity by electing to participate in the regulation of 
+interconnection agreements” (id. at 59a); and (iii) that, 
+“lelven if Maryland had not waived its Eleventh 
+Amendment immunity, the individual members of the 
+Commission still may be sued in their individual 
+capacities, pursuant to Ex parte Young, for prospective 
+injunctive relief” (id. at 67a). Because Judge King 
+believed that “jurisdiction is provided in the district 
+courts by § 252(e)(6),” he found it “unnecessary .. . to 
+reach the argument that 28 U.S.C. § 1331 confers 
+general federal question jurisdiction.” Jd. at 58a n.5. 
+He added, however, that, “contrary to the assertion of 
+
+
+* The Rooker-Feldman doctrine refers to Rooker v. Fidelity Trust Co., 
+263 U.S. 413 (1923), and District of Columbia Court of Appeals v. 
+Feldman, 460 U.S. 462 (1983). 
+
+
+11 
+
+
+the majority, the Rooker-Feldman doctrine has no 
+application here.” Id. (citation omitted). 
+
+
+5. The Grant of Certiorari. Both Verizon and the 
+United States filed petitions for writs of certiorari 
+raising all four issues (jurisdiction under § 252(e)(6), 
+jurisdiction under § 1331, Eleventh Amendment 
+waiver, and kx parte Young). This Court granted both 
+petitions, limiting its grant to Question 2 presented by 
+each petition — whether, if 47 U.S.C. § 252(e)(6) does 
+not apply, a federal district court has independent 
+subject matter jurisdiction under 28 U.S.C. § 1331 to 
+determine whether a state public utility commission’s 
+action interpreting or enforcing an interconnection 
+agreement violates the 1996 Act. The Court consoli- 
+dated the cases and set them for oral argument in 
+tandem with No. 00-878, Mathias v. WorldCom Tech- 
+nologies, Inc., which presents the remaining three 
+questions raised by the petitions for writs of certiorari 
+in this case. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Section 1331 grants federal district courts “original 
+jurisdiction of all civil actions arising under the Consti- 
+tution, laws, or treaties of the United States.” A civil 
+action “arises under” federal law for purposes of § 1331 
+when “a right or immunity created by the Constitution 
+or laws of the United States [is] an element, and an 
+essential one, of the plaintiff's cause of action.” Gully 
+v. First Nat’l Bank, 299 U.S. 109, 112 (1936); accord 
+City of Chicago v. International College of Surgeons, 
+522 U.S. 156, 163-64 (1997). Verizon’s claim below — 
+that the PSC’s determination violated the federal 
+Telecommunications Act of 1996 — plainly satisfies 
+that test. Moreover, neither the 1996 Act nor this 
+Court’s Rooker-Feldman doctrine divests a federal 
+district court of jurisdiction over a case like this one. 
+
+
+12 
+
+
+I. An action seeking review of a state commission’s 
+interpretation of a 1996 Act interconnection agreement 
+arises under federal law. 
+
+
+A. In the 1996 Act, Congress granted incumbent 
+carriers the statutory right to “negotiate and enter into 
+a binding agreement with the requesting telecommuni- 
+cations carrier or carriers,” and to do so “without 
+regard to the standards set forth in [§ 251(b) and (c)].” 
+47 U.S.C. § 252(a)(1) (emphasis added). Federal law 
+thus gives Verizon the right to insist that it be held 
+only to the terms of the interconnection agreement to 
+which it actually agreed. The statutory right granted 
+under § 252(a) is accordingly “an element, and an 
+essential one,” of Verizon’s claim. 
+
+
+B. Any claim relating to the rights and obligations 
+imposed under a 1996 Act interconnection agreement 
+raises questions of federal law. Contrary to the court 
+of appeals’ apparent understanding, interconnection 
+agreements are not ordinary state-law contracts, but 
+rather “federal contractis],” the interpretation or 
+enforcement of which, under this Court’s precedents, 
+raises questions of federal law subject to federal court 
+jurisdiction under § 1331. International Ass’n of 
+Machinists v. Central Airlines, Inc., 372 U.S. 682, 692 
+(1963). Like the Railway Labor Act contracts at issue 
+in Central Airlines, interconnection agreements “are 
+creations of federal law and bound to the statute and 
+its policy”; they are “therefore governed and enforce- 
+able by federal law, in the federal courts.” Id. 
+
+
+That conclusion is fortified by a separate line of this 
+Court’s decisions. Because federal law mandates the 
+creation of interconnection agreements, stipulates that 
+they include a detailed schedule of charges, directs that 
+they be published, requires a carrier to provide service 
+according to their terms, and specifies that service 
+must be made available on the same terms to all 
+parties, these 1996 Act agreements are functionally 
+
+
+en a ay 
+
+
+—————oOE 
+
+
+13 
+
+
+indistinguishable from federal tariffs. Insofar as inter- 
+connection agreements possess the core characteristics 
+of tariffs, this Court’s precedents strongly suggest that 
+a claim involving enforcement of such an agreement, 
+like a claim involving enforcement of a federal tariff, 
+necessarily arises under federal law and presents 
+questions reviewable in federal court. Thurston Motor 
+Lines, Inc. v. Jordan K. Rand, Ltd., 460 U.S. 533, 534 
+(1983) (per curiam); Louisville & N.R.R. v. Rice, 247 
+U.S. 201, 202 (1918). 
+
+
+II. No other law barred the district court from 
+exercising the jurisdiction granted to it under § 1331. 
+
+
+A. Nothing in the 1996 Act suggests that Congress 
+intended to restrict the jurisdiction of the federal 
+courts in cases like this one. The 1996 Act specifically 
+confers jurisdiction on federal courts under § 252(e)(6) 
+and withdraws jurisdiction from state courts under 
+§ 252(e)(4). To the extent those sections do not reach 
+this case, the statute is silent on the proper method for 
+review. This Court has held that “the silence of Con- 
+gress as to judicial review is . . . not to be construed as 
+a denial of authority to the aggrieved person to seek 
+appropriate relief in the federal courts in the exercise 
+of their general jurisdiction.” Stark v. Wickard, 321 
+U.S. 288, 309 (1944). This is true even if the statute in 
+question specifically provides for judicial review in 
+other circumstances. Id.; see also Reno v. Catholic 
+Social Services, Inc., 509 U.S. 43, 56 (1993); McNary v. 
+Haitian Refugee Center, Inc., 498 U.S. 479, 494 (1991). 
+
+
+B. The Rooker-Feldman doctrine does not divest the 
+federal court of its federal-question jurisdiction in a 
+case like this one. That doctrine “interprets 28 U.S.C. 
+§ 1257 as ordinarily barring direct review in the lower 
+federal courts of a decision reached by the highest state 
+court, for such authority is vested solely in this Court.” 
+ASARCO Inc. v. Kadish, 490 U.S. 605, 622 (1989). 
+The doctrine has no application to judicial review of 
+
+
+14 
+
+
+determinations by a state administrative agency. As 
+this Court held in City of Chicago, “federal! jurisdiction 
+generally encompasses judicial review of state adminis- 
+trative decisions.” 522 U.S. at 169. 
+
+
+That holding applies with full force here. First, the 
+PSC was exercising authority granted to it under 
+federal law, not merely under state law. Just as 
+federal courts have jurisdiction to review action by 
+federal agencies, they likewise have jurisdiction to 
+review action by state agencies exercising federal 
+statutory authority. Second, unlike the situation in 
+City of Chicago, all of Verizon’s claims arise under 
+federal law. Thus, there is no issue here concerning 
+litigation of state-law issues in federal court. For the 
+same reason, the concerns that animate abstention 
+doctrine have no application to this case. 
+
+
+ARGUMENT 
+
+
+At issue in this case is whether a federal district 
+court has jurisdiction under 28 U.S.C. § 1331 to deter- 
+mine whether a state public utility commission has 
+interpreted a 1996 Act interconnection agreement in a 
+manner consistent with federal law. This Court has 
+already suggested the answer to that question, having 
+observed that “there is no doubt . . . that if the federal 
+courts believe a state commission is not regulating in 
+accordance with federal policy they may bring it to 
+heel.” AT&T, 525 U.S. at 378 n.6. 
+
+
+That principle applies here: it is a core function of the 
+federal courts to ensure that federal administrative 
+authority is exercised in accordance with governing 
+federal law. “From the beginning ‘our cases [have 
+established] that judicial review of a final agency 
+action by an aggrieved person will not be cut off unless 
+there is persuasive reason to believe that such was the 
+purpose of Congress.” Bowen v. Michigan Academy of 
+Family Physicians, 476 U.S. 667, 670 (1986) (quoting 
+
+
+15 
+
+
+Abbott Labs. v. Gardner, 387 U.S. 136, 140 (1967)) 
+(alteration in original). Such review is fundamental to 
+the constitutional legitimacy of the delegation of power 
+by Congress. “The responsibility of determining the 
+limits of statutory grants of authority . . . is a judicial 
+function entrusted to the courts by Congress by the 
+statutes establishing courts and marking their juris- 
+diction.” Stark, 321 U.S. at 310. “{[U]nder Article III, 
+Congress established courts to adjudicate cases and 
+controversies as to claims of infringement of individual 
+rights whether by unlawful action of private persons or 
+by the exertion of unauthorized administrative power.” 
+Id. 
+
+
+It is of no consequence that the PSC is a state rather 
+than a federal agency. See City of Chicago, 522 U.S. at 
+169. In resolving the dispute between the private 
+parties before it concerning the scope of Verizon’s 
+duties under the interconnection agreements at issue, 
+the PSC was exercising federal authority under a 
+federal statute that sets forth Congress’s scheme for 
+regulation of local telecommunications markets. For 
+that reason, if the PSC had declined to exercise that 
+authority, as it was free to do, the FCC would have had 
+to step in and “assume the responsibility of the State 
+commission .. . with respect to the proceeding or 
+matter.” 47 U.S.C. § 252(e)(5).’ In the PSC’s view, 
+
+
+’ The FCC did precisely that when the Virginia State Corporation 
+Commission declined to act in a case involving issues similar to those 
+that the PSC addressed in the decision at issue here. The FCC ruled 
+that the Virginia commission’s refusal to “interpret and enforce .. . 
+interconnection agreements” constituted a “fail{ure] to act to carry out 
+its responsibility’ under section 252,” and it accordingly preempted the 
+Virginia commission’s jurisdiction and assumed its responsibility to 
+decide the matter. Memorandum Opinion and Order, Starpower Com- 
+munications, LLC Petition for Preemption of Jurisdiction of the Virginia 
+State Corporation Commission Pursuant to Section 252(e)(5) of the 
+Telecommunications Act of 1996, 15 FCC Red 11277, 11280, { 7 (2000) 
+(quoting 47 U.S.C. § 252(eX5)) (emphasis added). 
+
+
+16 
+
+
+Congress’s scheme required the transfer of millions of 
+dollars from Verizon to the private defendants below. 
+Verizon’s claim is that federal law does not authorize 
+the exaction the PSC imposed. Under settled law, such 
+a claim invokes the jurisdiction of the federal courts. 
+
+
+I. VERIZON’S CLAIM ARISES UNDER FEDERAL 
+
+
+LAW 
+“For purposes of determining whether jurisdiction 
+exists under § 1331(a)..., it is not necessary to decide 
+
+
+whether [Verizon’s] alleged cause of action . . . is in fact 
+a cause of action ‘on which [Verizon] could actually 
+recover.” Duke Power Co. v. Carolina Envtl. Study 
+Group, Inc., 438 U.S. 59, 70 (1978) (quoting Bell v. 
+Hood, 327 U.S. 678, 682 (1946)). Rather, the test is 
+whether the claimed right is “so insubstantial, implau- 
+sible, foreclosed by prior decisions of this Court, or 
+otherwise completely devoid of merit as not to involve 
+a federal controversy.” Oneida Indian Nation v. County 
+of Oneida, 414 U.S. 661, 666 (1974). When a plaintiff 
+claims that “federally protected rights have been 
+invaded,” the “allegations are sufficient to sustain 
+jurisdiction under § 1331(a).” Duke Power, 438 U.S. at 
+71 (quoting Bell, 327 U.S. at 684). 
+
+
+Verizon’s claim rests on at least two sources of 
+federal rights that the PSC’s determination directly 
+invaded. The first is the statutory right to enter into a 
+“binding agreement” without regard to requirements 
+that would otherwise be imposed under federal law. 
+47 U.S.C. § 252(a)(1). The second is the intercon- 
+nection agreements themselves; the rights and obliga- 
+tions that arise thereunder are intrinsically federal 
+in nature. Either source of rights establishes an 
+independent and sufficient basis for federal court 
+jurisdiction. 
+
+
+17 
+
+
+A. A Federal District Court Has Jurisdiction 
+To Determine Whether the PSC’s Interpreta- 
+tion Violates Verizon’s Federally Protected 
+Right To Enter into “Binding Agreement/(s)” 
+
+
+Verizon’s fundamental claim is that, in requiring 
+Verizon to pay reciprocal compensation on Internet- 
+bound traffic, the PSC acted contrary to the terms of 
+the governing interconnection agreement, when read in 
+light of controlling federal law. If that claim is correct 
+— and it must be accepted as correct for purposes of 
+determining the district court’s jurisdiction — the 
+PSC’s determination violated § 252(a)(1), which pro- 
+vides that incumbent LECs may “negotiate and enter 
+into a binding agreement .. . without regard to the 
+standards set forth in [§ 251(b) and (c)].” 47 U.S.C. 
+§ 252(a)(1). Because federal law dictates that intercon- 
+nection agreements, duly negotiated, approved, and 
+filed in accordance with the requirements of § 252, are 
+binding, a state commission is not permitted to impose 
+obligations inconsistent with their terms. 
+
+
+The statutory right at issue is central to the congres- 
+sional scheme. The obligations imposed on incumbent 
+LECs under the 1996 Act represent an unprecedented 
+intrusion on their right to control their own property. 
+See Goldwasser v. Ameritech Corp., 222 F.3d 390, 399- 
+400 (7th Cir. 2000) (noting that the 1996 Act imposes 
+“a host” of “affirmative duties to help one’s competi- 
+tors”). To reduce somewhat the intrusion that this 
+regulation represents, Congress permits incumbents, 
+in the first instance, to establish the terms of agree- 
+ments free from direct regulatory interference. See 
+Iowa Utils. Bd. v. FCC, 120 F.3d 753, 793 n.9 (8th Cir. 
+1997) (“an incumbent LEC is not bound by the Act’s 
+substantive standards in conducting voluntary negoti- 
+ations”), affd in part, rev'd in part sub nom. AT&T 
+Corp. v. Iowa Utils. Bd., 525 U.S. 366 (1999). That 
+
+
+18 
+
+
+relative freedom from the direct imposition of regula- 
+tory duties in circumstances where the parties have 
+agreed to terms implementing the statute would be lost 
+if a state commission were free to impose obligations 
+notwithstanding the contrary terms of an interconnec- 
+tion agreement. It is, in part, the commission’s lack of 
+power to impose such obligations that gives meaning to 
+§ 252(a)(1). 
+
+
+For example, a state commission might regard an 
+agreement to limit reciprocal compensation payments 
+to those calls that are subject to reciprocal compensa- 
+tion under the 1996 Act as unwise for policy reasons. 
+It might be “concerned” that such an agreement would 
+“result in CLECs receiving no compensation for termi- 
+nating (Internet]-bound traffic.” Pet. App. 106a. It 
+might believe that CLECs “incur costs to terminate” 
+such traffic and that, absent reciprocal compensation, 
+“CLECs will be forced to absorb these costs.” Id. at 
+106a-107a. And it might, for this reason, labor to find 
+a way around the plain language of an interconnection 
+agreement, thereby rendering the parties’ agreement 
+non-binding and denying the incumbent its rights 
+under § 252(a). 
+
+
+A state commission need not deliberately misconstrue 
+an interconnection agreement to deny a party its rights 
+under § 252(a). Whenever a state commission misinter- 
+prets an interconnection agreement the injury to the 
+rights of the aggrieved party is the same. In judging 
+whether a state commission’s interpretation of an 
+agreement is wrong, the district court’s scope of re- 
+view is a familiar one. See, e.g., Shields v. Utah Idaho 
+Cent. R.R., 305 U.S. 177, 185 (1938) (the question is 
+“whether the [agency] in arriving at its determination 
+departed from the applicable rules of law”). If the state 
+commission’s determination cannot withstand such 
+review, it is inconsistent with § 252(a). 
+
+
+19 
+
+
+The circumstances of this case demonstrate the 
+importance of that principle. The parties’ agreement 
+here provides that “Reciprocal Compensation” is “As 
+Described in the Act,” a defined term that means “as 
+described in or required by the [1996] Act and as from 
+time to time interpreted in the duly authorized rules 
+and regulations of the FCC or the [PSC].” Interconnec- 
+tion Agreement §§ 1.7, 1.61 (see C.A. App. 49, 55; Pet. 
+App. 10la). The agreement further provides that 
+reciprocal compensation is limited to “Local Traffic,” 
+defined as traffic that “is originated” and “terminates” 
+within the same local calling area. Jd. § 1.44 (see C.A. 
+App. 53; Pet. App. 101a). 
+
+
+Verizon’s claim is that the parties’ agreement means 
+what it says: reciprocal compensation is “as described 
+in or required by the [1996] Act.” And Verizon further 
+claims that, as a matter of federal law, payment of 
+compensation for Internet-bound traffic is not recipro- 
+cal compensation “as described in or required by the 
+[1996] Act.” The FCC has recently confirmed that 
+understanding of federal law. See ISP Remand Order 
+q¥ 23 (holding that the 1996 Act does not require 
+payment of reciprocal compensation for Internet-bound 
+traffic); cf. Interconnection Agreement § 1.7 (recogniz- 
+ing binding effect of “duly authorized rules and regula- 
+tions of the FCC”) (see C.A. App. 49). 
+
+
+The agreement’s express incorporation of the federal 
+statutory standard governing reciprocal compensation 
+accentuates the federal interest in this case. As noted 
+above, parties often adopt provisions that “fulfill the 
+duties described in [§ 251(b) and (c)]” (47 U.S.C. 
+§ 251(c)(1)) by tracking the requirements imposed by 
+those statutory provisions and the FCC’s implementing 
+regulations. See AT&T Communications, 229 F.3d at 
+465). A state commission’s construction of such provi- 
+sions is therefore tantamount to an interpretation of 
+the 1996 Act and the FCC’s regulations. Recognizing 
+that ruch determinations involve matters of federal law 
+
+
+20 
+
+
+prevents state commissions from disturbing the bal- 
+ance of interests struck by Congress and promotes 
+uniformity in the application of federal law. Indeed, 
+the identical dispute over the requirements of federal 
+law may arise either before or after an agreement is 
+approved. In both circumstances, judicial review for 
+consistency with federal law ensures that Congress’s 
+legislative choices will be respected. 
+
+
+B. Any Claim Based on a 1996 Act Interconnec- 
+tion Agreement Arises Under Federal Law 
+
+
+Even if § 252(a) did not grant Verizon an express 
+statutory right to be held only to those obligations 
+contained in its interconnection agreement, there is no 
+question that Verizon’s claims here depend on rights 
+and obligations derived from the parties’ interconnec- 
+tion agreement. In a regulatory scheme like the 1996 
+Act, where the governing document implements under- 
+lying federal statutory duties, the rights and duties 
+imposed by those documents are questions of federal 
+law. Two related lines of authority make that conclu- 
+sion inescapable. 
+
+
+1. Disputes concerning 1996 Act interconnection 
+agreements satisfy the “arising under” requirement of 
+§ 1331 because such documents are federal contracts 
+that implement federal policy and embody federal 
+standards. Unlike ordinary commercial contracts, 
+which reflect voluntary undertakings by willing parties 
+acting without legal compulsion, 1996 Act interconnec- 
+tion agreements are the product of federal legal coer- 
+cion designed to implement federal obligations. Incum- 
+bent LECs such as Verizon are required by federal law 
+to negotiate these agreements to discharge their 
+obligations under the 1996 Act — specifically, “to fulfill 
+the duties described in [§ 251(b) and (c)].” 47 U.S.C. 
+§ 251(c)(1). Federal law, moreover, requires incum- 
+bents to enter into good-faith negotiations at the 
+behest of a requesting carrier even if they would 
+
+
+21 
+
+
+otherwise be unwilling to do so — indeed, even if state 
+law would otherwise prohibit such inter-carrier negoti- 
+ations and agreements. See id. § 261(c). 
+
+
+Further, federal law enumerates the specific duties 
+that are subject to negotiation, establishes the mini- 
+mum terms to which an incumbent must “agree” on 
+request, and subjects the resulting agreements to 
+governmental approval under specified federal stan- 
+dards, without which the agreement has no effect. 
+See id. §§ 251(b)-(c), 252(e). Federal law further re- 
+quires that these agreements be publicly filed, and it 
+provides that the incumbent carrier must make the 
+provisions of any approved interconnection agreement 
+available to any other requesting carrier on the same 
+terms and conditions. See id. § 252(h), (i). Finally, 
+once such an agreement is approved, the incumbent 
+has a federal-law duty to provide service “in accordance 
+with the terms and conditions of the agreement.” /d. 
+§ 251(c)(2)(D), (e)(3). 
+
+
+One cannct fairly describe such agreements as a 
+genuine product of the parties’ voluntary consent. On 
+the contrary, they reflect the positive command of 
+federal law. In closely analogous circumstances, this 
+Court held that a dispute over the construction of a 
+labor-management agreement entered into pursuant to 
+§ 204 of the Railway Labor Act raised a federal ques- 
+tion for purposes of § 1331. /nternational Ass'n of 
+Machinists v. Central Airlines, Inc., 372 U.S. at 695- 
+96. The reasoning in that case compels the same con- 
+clusion here. 
+
+
+Under § 204, airlines and their employees were 
+required to establish a board of adjustment to settle 
+employee grievances. Jd. at 686. A contract between 
+an airline and a union established such a board, and 
+the board ruled against the airline in a grievance 
+proceeding. When the airline refused to comply, the 
+union brought a federal action to enforce its award. 
+
+
+22 
+
+
+The court of appeals, affirming an order dismissing the 
+case for lack of jurisdiction, held that the complaint 
+“did not disclose ‘affirmatively a federally-created 
+cause of action’ and that ‘this suit is nothing more than 
+a state-created action to construe a contract.” Id. at 
+684. 
+
+
+This Court unanimously reversed. The Court noted 
+that the duty to establish adjustment boards was 
+imposed under § 204 and that “(t]he extent and nature 
+of the legal consequences of this duty though left by the 
+statute to judicial determination, are nevertheless to 
+be derived from it and the federal policy which it has 
+adopted.” Jd. at 690-91 (internal quotation marks 
+omitted). For this reason, it was 
+
+
+the statute and the federal law which must deter- 
+mine whether the contractual arrangements made 
+by the parties are sufficient to discharge the man- 
+date of § 204 and are consistent with the Act and 
+its purposes. It is federal law which would deter- 
+mine whether a § 204 contract is valid and enforce- 
+able according to its terms. If these contracts are 
+to serve this function under § 204, their validity, 
+interpretation, and enforceability cannot be left to 
+the laws of the many States, for it would be fatal to 
+the goals of the Act if a contractual provision 
+contrary to the federal command were nevertheless 
+enforced under state law or if a contract were 
+struck down even though in furtherance of the 
+federal scheme. 
+
+
+Id. at 691. Accordingly, the Court concluded, “the 
+§ 204 contract . . . is a federal contract and is therefore 
+governed and enforceable by federal law, in the federal 
+courts.” Id. at 692. Other decisions are to the same 
+effect. See, e.g., Norfolk & Western Ry. v. Nemitz, 404 
+U.S. 37 (1971) (concluding that a dispute arising out 
+of an agreement implementing obligations under the 
+Interstate Commerce Act raised a federal question); 
+
+
+23 
+
+
+American Surety Co. v. Schultz, 237 U.S. 159 (1915) 
+(holding that suit to enforce an appeal bond given to 
+satisfy requirements of federal law raised a federal 
+question). 
+
+
+This case is indistinguishable. Here, as in Central 
+Airlines, it is federal law — specifically, §§ 251 and 252 
+— that determines whether the “contractual arrange- 
+ments made by the parties are sufficient to discharge 
+the mandate” of those sections; it is “federal law which 
+would determine whether a [1996 Act interconnection 
+agreement] is valid and enforceable according to its 
+terms.” See 47 U.S.C. § 252(e) (establishing federal 
+standard for approval of interconnection agreements). 
+Moreover, as with the § 204 contracts at issue in 
+Central Airlines, 1996 Act interconnection agreements 
+are Congress’s chosen means for implementing the 
+substantive duties contained in §§ 251 and 252: “(T]he 
+federal statute is the source of the power and authority 
+
+. The enactment of the federal statute .. . is the 
+governmental action . . . though it takes a private 
+agreement to invoke the federal sanction.” Central 
+Airlines, 372 U.S. at 692 (ellipses and alteration in 
+original; internal quotation marks omitted).* Finally, 
+
+
+* Contrary to the Fourth Circuit’s view (see Pet. App. 49a), this case 
+is nothing like Merrell Dow Pharmaceuticals Inc. v. Thompson, 478 U.S. 
+804 (1986). The plaintiffs in that case brought a state-law cause of 
+action to vindicate rights established by state law; they claimed federal 
+jurisdiction based only on the fact that the applicable standard of care 
+under state law was based on a federal statute. It was conceded that 
+Congress had “determin(ed] to preclude federal private remedies” for 
+violation of the federal statute. Jd. at 814. On the basis of that 
+assumption, the Court held “simply . . . that the congressional determi- 
+nation that there should be no federal remedy for the violation of this 
+federal statute is tantamount to a congressional conclusion that the 
+presence of a claimed violation of the statute as an element of a state 
+cause of action is insufficiently ‘substantial’ to confer federal-question 
+jurisdiction.” Id. Here, by contrast, the rights to be protected are fed- 
+eral rights, arising from federal contracts, to be construed in accordance 
+with federal law. 
+
+
+24 
+
+
+the allegation here is that the PSC has interpreted the 
+interconnection agreement in a manner “contrary to 
+the federal command” (id. at 691) and, as the FCC has 
+made clear in its JSP Remand Order, “fatal to the goals 
+of the Act” (id.). 
+
+
+The Fourth Circuit — while apparently acknowledg- 
+ing that “interconnection agreements are ‘creations of 
+federal law” (Pet. App. 49a) — paradoxically concluded 
+that the construction of the contract presented “a 
+matter of State contract law” (id. at 27a) that did not 
+raise a federal question. The court sought support for 
+its view in Jackson Transit Authority v. Local Division 
+1285, Amalgc mated Transit Union, 457 U.S. 15 (1982). 
+But, if anything, that case cuts in the opposite 
+direction. 
+
+
+In Jackson Transit, this Court reaffirmed the princi- 
+ple that “suits to enforce contracts contemplated by 
+federal statutes may set forth federal claims and that 
+private parties in appropriate cases may sue in federal 
+court to enforce contractual rights created by federal 
+statutes.” Jd. at 22. The decisive question, the Court 
+reasoned, is whether Congress intended the contracts 
+at issue to be “creations of federal law” and “the rights 
+and duties contained in those contracts [to] be federal 
+in nature.” Id. at 23 (quoting Central Airlines, 372 
+U.S. at 692). The circumstances here amply satisfy 
+that standard. 
+
+
+Although the Court in Jackson Transit observed that 
+“the statute seems to make § 13(c) agreements and 
+collective-bargaining contracts creatures of federal 
+law” (id.), the specific case at issue involved a contract 
+between a local government and its employees. The 
+Court determined that “labor relations between local 
+governments and their employees are the subject of a 
+longstanding statutory exemption” and that § 13(c) 
+“evince[d] no congressional intent to upset” that 
+
+
+25 
+
+
+exemption. /d. at 23, 24. Finding the statute inconclu- 
+sive, the Court relied on explicit and “conclusive” 
+legislative history to determine that Congress had 
+“intended that labor relations between transit workers 
+and local governments would be controlled by state 
+law” to be “applied in state courts.” Jd. at 24, 29. 
+
+
+Contrary to the Fourth Circuit’s view, however, that 
+is not the case here. Nothing in the text or legislative 
+history of the 1996 Act supports the court’s inference 
+that, insofar as § 252(e)(6) does not apply, Congress 
+intended the relations between incumbent carriers and 
+CLECs to be governed by state law or “for the right of 
+review to be exercised in State courts.” Pet. App. 49a. 
+On the contrary, as this Court has said, “[w)ith regard 
+to the matters addressed by the 1996 Act,” Congress 
+“unquestionably” has “taken the regulation of local 
+telecommunications competition away from the 
+States.” AT&T, 525 U.S. at 378 n.6. 
+
+
+Under the 1996 Act, the relationship between incum- 
+bents and competitors is governed by interconnection 
+agreements that are binding as a matter of federal law. 
+Because those agreements are central to the realization 
+of Congress’s goals, the rights and duties arising out of 
+such agreements are matters of federal law under this 
+Court’s precedents. Accordingly, where a plaintiffs 
+claim for relief depends on the construction of such an 
+interconnection agreement, the claim arises under fed- 
+eral law for purposes of § 1331. 
+
+
+2. A separate line of this Court’s precedents — hold- 
+ing that the construction of a federal tariff raises issues 
+of federal law — likewise supports § 1331 jurisdiction 
+in this case. Interconnection agreements under the 
+1996 Act serve essentially the same function as, and 
+evince the central attributes of, federal tariffs. The Act 
+requires incumbent LECs to negotiate such agreements 
+on request (47 U.S.C. §§ 251(c)(1), 252(a)(1)), to include 
+in each such agreement “a detailed schedule of itemized 
+
+
+26 
+
+
+charges” (id. § 252(a)(1)), to file approved agreements 
+with the state commission for public inspection (id. 
+§ 252(h)), to provide service according to their terms 
+(id. § 251(c)(2)(D), (c(3)), and to make the same provi- 
+sions available to all other telecommunications carriers 
+on the same terms and conditions (id. § 252(i)). Those 
+provisions directly parallel the requirements that the 
+Communications Act of 1934 imposes with respect to 
+traditional con:mon-carrier services. Thus, common 
+carriers must “furnish . .. communication service upon 
+reasonable request” (id. § 201(a)), must include in each 
+tariff “schedules showing all charges” (id. § 203(a)), 
+must file tariffs with the FCC for public inspection 
+(id.), must provide service solely according to their 
+terms (id. § 203(b)), and must provide service on the 
+same terms to all comers (id. § 202(a)). 
+
+
+In sum, 1996 Act interconnection agreements func- 
+tion in all material respects as federal tariffs. This 
+Court’s jurisdictional decisions concerning federal tar- 
+iffs therefore bear directly on the issue here. And those 
+decisions hold consistently that a claim involving inter- 
+pretation or enforcement of a federal tariff necessarily 
+arises under federal law and presents questions review- 
+able in federal court. 
+
+
+In this Court’s leading decision on the subject, 
+Louisville & N.R.R. v. Rice, the plaintiff railroad sued 
+to recover money “claimed to be due under tariffs 
+approved and published as required by [the] Interstate 
+Commerce Act.” 247 U.S. at 201. The district court 
+dismissed the action for lack of jurisdiction, and this 
+Court reversed. Noting that “[t)he Interstate Com- 
+merce Act requires carrier to collect and consignee to 
+pay all lawful charges duly prescribed by the tariff,” 
+the Court concluded that “[t)heir duty and obligation 
+grow out of and depend upon that act.” Id. at 202. 
+“The railroad company set up a claim based upon 
+provisions of a tariff duly filed, published and approved 
+
+
+27 
+
+
+as required by Interstate Commerce Act; result of the 
+action necessarily depended upon construction and 
+effect of that act.” Id. at 203. See also Great Northern 
+Ry. v. Merchants’ Elevator Co., 259 U.S. 285, 290 
+(1922) (“Every question of the construction of a tariff is 
+deemed a question of law; and where the question 
+concerns an interstate tariff it is one of federal law.”). 
+
+
+More recently, a unanimous Court reaffirmed that 
+holding in Thurston Motor Lines, Inc. v. Jordan K. 
+Rand, Ltd. As in Rice, the plaintiff common carrier 
+sued to collect charges said to be owed under “tariffs on 
+file with the [Interstate Commerce] Commission.” 460 
+U.S. at 533. The district court dismissed the claim; the 
+Ninth Circuit affirmed, characterizing the suit as a 
+“simple contract-collection action.” Jd. (internal quota- 
+tion marks omitted). This Court summarily reversed. 
+Relying on Rice, the Court held that, in any case 
+involving a claim under a federal tariff, “the parties 
+are held to the responsibilities imposed by the federal 
+law, to the exclusion of all other rules of obligation.” 
+Id. at 535 (quoting Rice, 247 U.S. at 203). “A carrier’s 
+claim is, of necessity, predicated on the tariff’ and 
+therefore implicates the federal statute. Jd.° This rule 
+has been widely applied by the federal courts of appeals 
+
+
+® Both Rice and Thurston Motor Lines involved the scope of federal 
+jurisdiction under 28 U.S.C. § 1337. With the removal of the amount- 
+in-controversy requirement in 28 U.S.C. § 1331, any claim “arising 
+under any Act of Congress regulating commerce” (28 U.S.C. § 1337(a)) 
+necessarily also “aris[es] under the . . . laws . . . of the United States” 
+(id. § 1331). See, e.g., ErieNet, Inc. v. Velocity Net, Inc., 156 F.3d 513, 
+520 (3d Cir. 1998) (“[A]ny action that could be brought in federal court 
+under § 1337 could also be brought under § 1331.”); Winstead v. J.C. 
+Penney Co., 933 F.2d 576, 580 (7th Cir. 1991) (Posner, J.); 13B Charles 
+A. Wright, Arthur R. Miller & Edward H. Cooper, Federal Practice & 
+Procedure § 3574, at 236 & n.5 (2d ed. 1984). 
+
+
+28 
+
+
+to federal tariffs filed with the FCC pursuant to § 203 
+of the Communications Act.*® 
+
+
+The same considerations that established federal 
+jurisdiction in Rice and Thurston Motor Lines support 
+federal jurisdiction here. An incumbent carrier’s 
+“duties and obligations” under a 1996 Act interconnec- 
+tion agreement, like its duties under a federal tariff, 
+arise from federal law, and that is true even if, as here, 
+the particular terms at issue were the result of “volun- 
+tary” negotiation rather than arbitration. As we have 
+shown, such negotiations necessarily occur in the 
+context of a statutory and regulatory regime that 
+specifies the minimum terms to which state commis- 
+sions will hold an incumbent carrier in the absence of 
+a negotiated agreement. As the Fourth Circuit itself 
+explained in a prior 1996 Act case, “many so-called 
+‘negotiated’ provisions represent nothing more than an 
+attempt to comply with the requirements of the 1996 
+Act.” AT&T Communications, 229 F.3d at 465. 
+
+
+Moreover, tariffs that are the product of negotiations 
+are not for that reason immune from treatment as 
+tariffs. For example, in Arkansas Louisiana Gas Co. v. 
+Hall, 453 U.S. 571 (1981), natural gas producers nego- 
+tiated a price schedule with purchasers; the contract 
+was filed with the Federal Power Commission, which 
+authorized the sale. Jd. at 573-74. The Court held that 
+
+
+® See, e.g., Fax Telecommunicaciones Inc. v. AT&T, 138 F.3d 479, 
+482, 488 (2d Cir. 1998); Cahnmann v. Sprint Corp., 133 F.3d 484, 488- 
+89 (7th Cir.) (Posner, J.), cert denied, 524 U.S. 952 (1998); MCI 
+Telecomms. Corp. v. Teleconcepts, Inc., 71 F.3d 1086, 1093-96 (3d Cir. 
+1995), cert. denied, 519 U.S. 815 (1996); Western Union Int'l, Inc. v. 
+Data Dev., Inc., 41 F.3d 1494, 1496 (11th Cir. 1995); MCI Telecomms. 
+Corp. v. Graham, 7 F.3d 477, 479-80 (6th Cir. 1993); MCI Telecomms. 
+Corp. v. Garden State Inv. Corp., 981 F.2d 385, 387-88 (8th Cir. 1992). 
+See also AT&T Co. v. Central Office Tel., Inc., 524 U.S. 214, 222 (1998) 
+(noting that Communications Act’s provisions “are modeled after sim- 
+ilar provisions of the Interstate Commerce Act . . . and share its goal of 
+
+
+29 
+
+
+the filed rate doctrine applied fully to those rates. Id. 
+at 577-79. See also 47 C.F.R. § 61.55 (governing 
+“contract-based tariffs”); Fax Telecommunicaciones, 
+138 F.3d at 482, 488; MCI Telecomms. Corp. v. FCC, 
+917 F.2d 30, 38 (D.C. Cir. 1990) (“rates arrived at 
+through negotiations between a carrier and an individ- 
+ual customer and then made generally available to 
+other similarly situated customers” are lawful tariffs if 
+“filed with the FCC”); Sea-Land Service, Inc. v. ICC, 
+738 F.2d 1311, 1316-19 (D.C. Cir. 1984). 
+
+
+It follows that 1996 Act interconnection agreements, 
+like federal tariffs, are governed by federal law. A 
+claim challenging a state agency’s interpretation of 
+such an agreement therefore arises under federal law 
+and is subject to the § 1331 jurisdiction of the federal 
+courts. 
+
+
+II. NO OTHER PROVISION OF LAW DEPRIVES 
+FEDERAL COURTS OF JURISDICTION OVER 
+CLAIMS LIKE VERIZON’S 
+
+
+Because Verizon’s claims arise under federal law, the 
+requirement for district court jurisdiction under 28 
+U.S.C. § 1331 is satisfied. The sole remaining ques- 
+tion, therefore, is whether any other provision of law 
+withdraws that federal jurisdiction. 
+
+
+The Fourth Circuit invoked two possible statutory 
+limitations. First, the court held that § 252(e)(6) does 
+not apply to state commission decisions interpreting or 
+enforcing interconnection agreements. It then inferred 
+that, because “Congress created a limited federal right 
+of review of State commission determinations as de- 
+fined in 47 U.S.C. § 252(e)(6),” it must have “intended 
+for the right of review to be exercised in State courts” 
+whenever § 252(e)(6) does not apply. Pet. App. 49a. 
+Second, the Fourth Circuit believed that, “in the 
+absence of specific federal authorization,” it would 
+“violate basic tenets of federalism” to permit a federal 
+
+
+30 
+
+
+court to “review a State quasi-judicial body.” Id. at 
+50a." 
+
+
+For the reasons set forth below, neither of these 
+sources of law bars a district court’s exercise of subject 
+matter jurisdiction in this case. 
+
+
+A. Section 252(e)(6) Does Not Withdraw Subject 
+Matter Jurisdiction from the Federal Courts 
+
+
+Verizon has consistently maintained that § 252(e)(6) 
+provides an explicit cause of action for parties ag- 
+grieved by any determination of a state commission 
+concerning the scope of a carrier’s duties under the 
+1996 Act, including determinations that involve the 
+interpretation and enforcement of interconnection 
+agreements. But on the assumption, for purposes of 
+this case, that § 252(e)(6) does not reach such determi- 
+nations, the proper conclusion is that judicial review is 
+
+
+! Because defendants in the district court included state officers, 
+this case also presents the question whether “the relief sought against 
+the officer is not, in substance, sought against the sovereign.” Georgia 
+R.R. & Banking Co. v. Redwine, 342 U.S. 299, 304 (1952). This Court, 
+however, limited its grant in this case to Question 2 presented by each 
+petition for a writ of certiorari, thereby omitting the question “[w]hether 
+the Ex parte Young doctrine permits an action against the members of 
+a state public utility commission in their official capacity to enjoin on- 
+going violations of federal law in their performance of federal regulatory 
+functions.” No. 00-1531 Pet. i. Verizon therefore will not discuss the Ex 
+parte Young issue in this brief. Instead, Verizon (along with two others) 
+has filed a brief as amici curiae in No. 00-878, where it will explain that 
+the relief sought here — an injunction against enforcement of an 
+unlawful adjudicatory order — falls squarely within the rule of Ex parte 
+Young. Even if the Court were to hold (in No. 00-878) that Ex parte 
+Young does not permit an action against the state commissioners, the 
+Court would still have to vacate the Fourth Circuit’s judgment and 
+remand for consideration of the question whether Verizon’s suit could 
+proceed against the private party defendants. The Fourth Circuit itself 
+suggested that an action for review of the PSC’s ruling might proceed 
+without the presence of the PSC or its commissioners. See Pet. App. 
+15a. This “uncertainty surrounding the indispensable-party issue” (id. ) 
+would have to be resolved before Verizon's case could be dismissed. 
+
+
+\ 
+31 
+
+
+nonetheless appropriate under the district court’s 
+general federal-question jurisdiction. 
+
+
+The “strong presumption” is that, when Congress 
+delegates power to an executive agency, “Congress 
+intends judicial review of administrative action.” 
+Bowen, 476 U.S. at 670. As the Court has explained, 
+“Iwlhen .. . definite personal rights are created by 
+federal statute, similar in kind to those customarily 
+treated in courts of law, the silence of Congress as to 
+judicial review is, at any rate in the absence of an 
+administrative remedy, not to be construed as a denial 
+of authority to the aggrieved person to seek appropri- 
+ate relief in the federal courts in the exercise of their 
+general jurisdiction.” Stark v. Wickard, 321 U.S. at 
+309 (footnote omitted). “[O)nly upon a showing of ‘clear 
+and convincing evidence’ of a contrary legislative intent 
+should the courts restrict access to judicial review.” 
+Abbott Labs., 387 U.S. at 141. 
+
+
+There is no such evidence here. Contrary to the 
+Fourth Circuit’s understanding, “(t]he mere fact that 
+some acts are made reviewable should not suffice to 
+support an implication of exclusion as to others. The 
+right to review is too important to be excluded on such 
+slender and indeterminate evidence of legislative 
+intent.” Jd. (internal quotation marks omitted). 
+
+
+In Bowen, for example, respondents had filed an 
+action challenging the validity of a Medicare regulation 
+on statutory and constitutional grounds. The govern- 
+ment argued that Congress had “forbidden judicial 
+review of all questions affecting the amount of bene- 
+fits.” 476 U.S. at 669. But, the Court held, the fact 
+that Congress had “carefully detailled) the forum and 
+limits of review” concerning determinations of the 
+amount of benefits simply “does not speak to challenges 
+mounted against the method by which such amounts 
+are to be determined rather than the determinations 
+
+
+32 
+
+
+themselves.” Id. at 675. Accordingly, all eight partici- 
+pating Justices agreed that the “presumption” that 
+Congress “expects the courts to grant relief when an 
+executive agency violates [its statutory commands)” 
+controlled the case. Jd: at 681. 
+
+
+Stark v. Wickard likewise supports jurisdiction here. 
+The statute at issue included several specific judicial 
+review provisions, none of which applied to the petition- 
+ers’ challenge. 321 U.S. at 307-08. Far from reading 
+these judicial review provisions as exclusive, the Court 
+interpreted them as evidencing the “recognition by 
+Congress of the applicability of judicial review in this 
+field,” a reading that militated against an interpreta- 
+tion of the statute that would “bar[) from the courts an 
+otherwise justiciable issue.” Jd. at 309. 
+
+
+In the Fourth Circuit’s view, the absence of a specific 
+provision in the 1996 Act authorizing federal court 
+review for state commission determinations (other than 
+an initial approval or rejection) indicated that Con- 
+gress intended state court review under state statute 
+to be a party’s sole remedy when such a determination 
+violates federal law. See Pet. App. 35a. But there is 
+nothing in the statutory language to support such an 
+inference. On the contrary, the 1996 Act’s sole mention 
+of state courts is in a provision specifically withdraw- 
+ing the authority of state courts to hear cases that 
+arise out of state commission determinations under the 
+1996 Act. See 47 U.S.C. § 252(e)(4) (“No State court 
+shall have jurisdiction to review the action of a State 
+commission in approving or rejecting an agreement 
+under this section.”). Even assuming for purposes of 
+this case that § 252(e)(4) and (e)(6) do not reach the 
+determination at issue here, the fact that Congress 
+specifically designated federal courts as the exclusive 
+forum for review in certain situations cannot support 
+an inference that Congress intended to withdraw fed- 
+eral jurisdiction in other situations. 
+
+
+ee — 
+
+
+33 
+
+
+That conclusion is reinforced because Congress has 
+demonstrated in other contexts that, when it wants 
+to withdraw federal jurisdiction and designate state 
+courts as the exclusive forum for reviewing administra- 
+tive determinations under a federal statute, it plainly 
+knows how to do so. For example, the Public Utility 
+Regulatory Policies Act of 1978 contains a provision 
+specifically limiting federal court jurisdiction except in 
+designated circumstances. See 16 U.S.C. § 2633(a) 
+(“[njotwithstanding any other provision of law, no court 
+of the United States shall have jurisdiction over any 
+action arising under any provision of subchapter I or 
+II of this chapter or of this subchapter” with specific 
+exceptions). Likewise, the Trade Act of 1974 provides 
+that “[a] determination by a cooperating State agency 
+with respect to entitlement to program benefits . . . is 
+subject to review in the same manner and to the same 
+extent as determinations under the applicable State 
+law and only in that manner and to that extent.” 19 
+U.S.C. § 2311(d); see International Union, United 
+Automobile Workers v. Brock, 477 U.S. 274, 293 (1986) 
+(White, J., dissenting) (“Congress thus expressed the 
+intent that .. . the agency and state courts shall have 
+exclusive jurisdiction”). 
+
+The absence of a comparable provision in this statute 
+is significant for two reasons. First, that Congress has 
+included such provisions in other statutes reveals its 
+understanding that, in the absence of limiting lan- 
+guage, federal court jurisdiction extends to any deter- 
+mination that a state agency makes in its administra- 
+tion of a federal statute; otherwise, such provisions 
+would be surplusage. Second, the fact that Congress 
+chose not to include such a provision here indicates 
+that Congress intended federal courts to exercise their 
+subject matter jurisdiction in this area to the fullest 
+extent. 
+
+
+34 
+
+
+Moreover, even if a state has an applicable procedure 
+for judicial review, that says nothing about whether 
+the presence of state jurisdiction should be read to 
+foreclose review in federal court. The Court made this 
+point in Smyth v. Ames, 169 U.S. 466 (1898), in which 
+a railroad had brought an action to enjoin the state 
+board of transportation (among others) from enforcing 
+a railroad rate that was said to be unconstitutional. 
+See id. at 469-70. The defendants argued that federal 
+jurisdiction was not available because the plaintiffs 
+had an adequate remedy under state law. See id. at 
+478. The Court rejected the argument: “One who is 
+entitled to sue in the federal circuit court may invoke 
+its jurisdiction in equity whenever the established 
+principles and rules of equity permit such a suit in that 
+court; and he cannot be deprived of that right by reason 
+of his being allowed to sue at law in a state court on the 
+same cause of action.” Jd. When a plaintiff seeks 
+review of state agency action on the ground that it 
+violates federal law, “if it prefers to entrust the final 
+decision to the Courts of the United States rather than 
+to those of the State [it] has a right to do so.” Railroad 
+& Warehouse Comm’n v. Duluth Street Ry., 273 U.S. 
+625, 628 (1927); see also Idaho v. Coeur d'Alene Tribe of 
+Idaho, 521 U.S. 261, 293 (1997) (O’Connor, J., concur- 
+ring in part and concurring in the judgment) (noting 
+that the doctrine of Ex parte Young has been applied to 
+authorize federal jurisdiction “[e]ven if there is a 
+prompt and effective remedy in a state forum”) (alter- 
+ation in original; internal quotation marks omitted). 
+
+
+Indeed, in the circumstances presented here, even if 
+Verizon has pursued a cause of action under state law, 
+the district court had subject matter jurisdiction, 
+because Verizon’s “complaint established that its right 
+to relief .. . requires resolution of a substantial ques- 
+tion of federal law.” Franchise Tax Bd. v. Construction 
+Laborers Vacation Trust, 463 U.S. 1, 13 (1983). As 
+
+
+tt aa 
+
+
+35 
+
+
+noted above, there can be no question that the underly- 
+ing claims of right in Verizon’s suit are federal — 
+including the significance of § 252(a)(1) and the duties 
+imposed under the parties’ i996 Act interconnection 
+agreement.” Accordingly, Verizon’s claims “arise 
+under’ the laws of the United States” and “unquestion- 
+ably” present a federal questiun under § 1331; the suit 
+may therefore be brought in federal court. City of 
+Chicago, 522 U.S. at 164. 
+
+
+B. The Rooker-Feldman Doctrine Does Not Bar 
+Federal Judicial Review of State Adminis- 
+trative Action 
+
+
+Contrary to the Fourth Circuit’s view, the Rooker- 
+Feldman doctrine does not apply to this case. The court 
+of appeals acknowledged that “strict application of the 
+doctrine requires a final judgment from State courts,” 
+but it nonetheless believed that “the federal intrusion 
+into State affairs is not any less when the judgment 
+issues from a State quasi-judicial body.” Pet. App. 50a. 
+As this Court made clear in City of Chicago, however, 
+it is entirely appropriate — indeed, commonplace — for 
+federal courts to review state administrative action in 
+the first instance, even if a state procedure for review 
+is available. 
+
+
+City of Chicago involved an adjudication by Chicago’s 
+Historical and Architectural Landmarks Commission 
+that two of respondent’s buildings qualified for land- 
+mark status under the applicable ordinance. 522 U.S. 
+at 159-60. Respondents filed an action for judicial 
+review under the state administrative review law, 
+alleging that the statute — both on its face and as ap- 
+plied — was unconstitutional and that the proceedings 
+
+
+2 In addition, because the parties’ obligations precisely t: ack obliga- 
+tions imposed under § 251(bX5), Verizon’s cause of action necessarily 
+requires the resolution of the obligations imposed under that federal 
+
+
+7 
+
+
+36 
+
+
+also had violated the constitution. Jd. at 160. The 
+complaint also sought relief on purely state-law 
+grounds. Id. Petitioners removed the action on the 
+basis of federal-question jurisdiction, and the district 
+court denied a motion to remand. Z/d. at 161. The 
+Seventh Circuit reversed, holding that a federal court 
+lacked jurisdiction to engage in deferential review of 
+state agency action. Id. at 162 (noting that the Sev- 
+enth Circuit had determined that “a proceeding to 
+review state administrative action under a deferential 
+standard is not a ‘civil action”). 
+
+
+This Court reversed. First, the Court held that, even 
+though respondent had invoked a state cause of action, 
+its claims arose under federal law because “a ‘right or 
+immunity created by the Constitution or laws of the 
+United States [was] an element, and an essential one, 
+of the plaintiff's cause of action.” Jd. at 164 (quoting 
+Gully, 299 U.S. at 112). Second, the Court held that 
+the district court had supplemental jurisdiction over 
+any claims that arose under state law (id. at 165-66) — 
+for example, the state-law claim that the Chicago 
+Landmarks Commission had misapplied its ordinances. 
+
+
+The Court rejected the argument that the federal 
+court was deprived of jurisdiction because an action for 
+on-the-record review was not a “civil action[]” within 
+the “original jurisdiction” of the district court for 
+purposes of the removal statute: it held that, even if its 
+“state claims” were not civil actions, its federal claims 
+were. Just as important for present purposes, the 
+Court made clear that an action to secure “judicial 
+review of state administrative decisions” is “generally 
+encompasse(d]” within federal subject matter jurisdic- 
+tion under § 1331. Jd. at 169. As the Court noted, 
+“district courts routinely conduct deferential review 
+pursuant to their original jurisdiction over federal 
+questions, including on-the-record review of federal 
+administrative action.” Id. at 171. See also Shields, 
+
+
+37 
+
+
+305 U.S. at 184 (“respondent was entitled to resort to 
+equity in order to obtain a judicial review of the ques- 
+tions of the validity and effect of the [Interstate Com- 
+merce] Commission’s determination”). 
+
+
+City of Chicago makes clear that Rooker-Feldr in is 
+inapplicable to the circumstances presented here. That 
+doctrine applies to situations where a state court 
+renders a final judgment; in such circumstances, 
+Congress intends that the sole avenue into federal 
+court should be a petition for certiorari invoking the 
+explicit authority of the Supreme Court to review the 
+judgments of “the highest court of a State in which a 
+decision could be had.” 28 U.S.C. § 1257(a). But § 1257 
+makes no mention of administrative agencies, and City 
+of Chicago itself involved administrative determina- 
+tions made pursuant to established standards; both the 
+determinations and the standards were said to violate 
+the federal constitution. Whether or not adminis- 
+trative action involves an adjudicative function, and 
+whether or not such action is subject to review in state 
+court, a federal forum is available for claims that such 
+administrative action has violated federal law. 
+
+
+The conclusion that the exercise of federal jurisdic- 
+tion is appropriate is even clearer in this case than it 
+was in City of Chicago for two reasons. First, the 
+agency action here was undertaken in the exercise of 
+authority granted under federal law. Contrary to the 
+Fourth Circuit’s understanding, nothing in Maryland 
+law authorizes the PSC to hear a complaint against 
+Verizon alleging a violation of federal law. On the 
+contrary, the provision of Maryland law on which the 
+Fourth Circuit relied makes clear that a person may 
+file a complaint only to “allege a violation of this 
+article” — i.e., the state statute, not the 1996 Act. 
+Md. Code Ann., Pub. Util. Cos. § 3-102(a)(2) (1998) 
+(emphasis added). Nothing in the complaint underly- 
+ing this case alleged that Verizon had violated any 
+
+
+38 
+
+
+provision of the Maryland Public Utility Companies 
+law; instead, the allegation was that Verizon had 
+violated the 1996 Act and the parties’ 1996 Act inter- 
+connection agreement. 
+
+
+Accordingly, it was only to the extent that federal law 
+authorized the administrative complaints at issue here 
+that preliminary resort to the PSC was appropriate. As 
+every other federal court to consider the question has 
+agreed, a state commission’s authority to consider such 
+complaints derives from its authority under § 252 to 
+arbitrate and approve interconnection agreements. See 
+Southwestern Bell Tel. Co. v. Connect Communications 
+Corp., 225 F.3d 942, 947 (8th Cir. 2000) (“we can reach 
+no conclusion but to agree with the FCC’s determi- 
+nation that the state commissions’ power to enforce 
+interconnection agreements springs from § 252”); MCI 
+Telecomms. Corp. v. Illinois Bell Tel. Co., 222 F.3d 323, 
+338 (7th Cir. 2000) (“[a) state commission’s authority 
+to approve or reject interconnection agreements under 
+the Act necessarily includes the authority to interpret 
+and enforce, to the same extent, the terms of those 
+agreements”), cert. denied, 121 S. Ct. 896 (2001); 
+Southwestern Bell Tel. Co. v. Public Util. Comm’n, 208 
+F.3d 475, 479-80 (5th Cir. 2000) (“[T]he Act’s grant to 
+the state commissions of plenary authority to approve 
+or disapprove... interconnection agreements necessar- 
+ily carries with it the authority to interpret and enforce 
+the provisions of agreements that state commissions 
+have approved.”). 
+
+
+The conclusion that the delegation of federal author- 
+ity to state commissions includes the power to interpret 
+and enforce interconnection agreements reflects the 
+settled principle that the agency entrusted with mak- 
+ing the policy judgments inherent in overseeing the 
+approval of a federal tariff is likewise the exclusive 
+original tribunal for claims that require construction of 
+disputed terms. United States v. Western Pac. R.R., 
+
+
+39 
+
+
+352 U.S. 59, 65-66 (1956); Great Northern, 259 U.S. at 
+291. In this case, the issue presented — the meaning 
+of the interconnection agreement provision requiring 
+reciprocal compensation “as . . . required by the Act” 
+and limiting such compensation to “local traffic” as 
+specifically defined in keeping with FCC regulations — 
+involved the type of issue that must be resolved in the 
+first instance by the agency with “the law-making 
+power over certain aspects of commercial relations.” 
+Western Pac., 352 U.S. at 65 (internal quotation marks 
+omitted). The courts have therefore correctly concluded 
+that the type of determination at issue here is one 
+made under the authority delegated by federal law. 
+Accordingly, the PSC was acting as a federal agency, 
+not merely as a state agency, because it was exercising 
+a power delegated by Congress, not the state. The rule 
+of Califano v. Sanders, 430 U.S. 99 (1977), that 
+“federal district courts may engage in on-the-record, 
+substantial evidence review of federal agency actions 
+under § 1331” (City of Chicago, 522 U.S. at 183 
+(Ginsburg, J., dissenting)) fully applies here. 
+
+
+Second, unlike City of Chicago, where the plaintiff 
+had raised both federal and state-law challenges to 
+state administrative action taken under state law, this 
+case raises no issue of state law. The administrative 
+scheme at issue here is exclusively federal, and the 
+obligations imposed by the interconnection agreements 
+at issue are likewise exclusively federal. See supra at 
+20-29. Accordingly, the only legal issues presented are 
+matters of federal law. Forcing Verizon to litigate 
+these issues in state court — whether or not the state 
+court properly has jurisdiction — “would be at war with 
+the unqualified terms in which Congress, pursuant to 
+constitutional authorization, has conferred specific 
+categories of jurisdiction upon the federal courts.” 
+England v. Louisiana State Board of Med. Examiners, 
+375 U.S. 411, 415 (1964). 
+
+
+40 
+
+
+For the same reason, the principles underlying 
+abstention doctrine could not support a federal court’s 
+refusal to exercise jurisdiction in this case. Because 
+the issues here are ones purely of federal law, this case 
+“does not demand significant familiarity with, and will 
+not disrupt state resolution of, distinctively local regu- 
+latory facts or policies.” New Orleans Pub. Serv., Inc. 
+v. Council of New Orleans, 491 U.S. 350, 364 (1989). In 
+such circumstances, the district court must exercise the 
+federal jurisdiction conferred by Congress. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be 
+reversed. 
+
+
+Respectfully submitted, 
+WILLIAM P. BARR MARK L. EVANS* 
+MARK J. MATHIS MICHAEL K. KELLOGG 
+MICHAEL D. LOWE SEAN A. LEV 
+JOHN P. FRANTZ AARON M. PANNER 
+1515 N. Court House Road KELLOGG, HUBER, HANSEN, 
+Suite 500 TODD & EVANS, P.L.L.C. 
+Arlington, Virginia 22201 1615 M Street, N.W. 
+(703) 351-3103 Suite 400 
+
+Washington, D.C. 20036 
+DAVID A. HILL (202) 326-7900 
+1 East Pratt Street 
+Baltimore, Maryland 21202 
+(410) 393-7725 *Counsel of Record 
+
+
+September 10, 2001 
+
+

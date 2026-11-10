@@ -1,0 +1,32 @@
+[
+  {
+    "stem": "bell_petition_full",
+    "sources": {
+      ".txt": {
+        "url": "https://archive.org/download/micro_IA40385014_0501/micro_IA40385014_0501%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+        "size": 235292,
+        "sha256": "85bfe9b4e8650f6c6bca22bdb6a0e00079d30d701cc048f3431e4c1871a52cf9"
+      },
+      ".pdf": {
+        "url": "https://archive.org/download/micro_IA40385014_0501/micro_IA40385014_0501%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+        "size": 25491646,
+        "sha256": "f15c9347a88ee52eae1b9b9731ed5104d376b7d853fb8f24ae7502388a5700fb"
+      }
+    }
+  },
+  {
+    "stem": "bell_joint_appendix_full",
+    "sources": {
+      ".txt": {
+        "url": "https://archive.org/download/micro_IA40385014_0501/micro_IA40385014_0501%2004.%20Joint%20Appendix_djvu.txt",
+        "size": 132863,
+        "sha256": "7cd301e363bb956b0c01fdda8bce284a6074969d28c3bea305de4c065f64c8a6"
+      },
+      ".pdf": {
+        "url": "https://archive.org/download/micro_IA40385014_0501/micro_IA40385014_0501%2004.%20Joint%20Appendix.pdf",
+        "size": 15936953,
+        "sha256": "da13579fde19bb9a93b80360d1380b7d2ffdedc0670a877a2cf645cd1a9ae5ea"
+      }
+    }
+  }
+]

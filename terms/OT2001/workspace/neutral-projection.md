@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-64 scheduled Court events in chunks 1–4 are completed; 60 inventory matters remain open. The latest processed event date is 2002-05-13. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
+79 scheduled Court events in chunks 1–5 are completed; 45 inventory matters remain open. The latest processed event date is 2002-05-28. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -518,6 +518,98 @@ Exact controlling propositions, proposition-level authority, qualifications, pre
 
 **Current procedural stage:** The Eighth Circuit judgment is affirmed. Its implementing mandate begins Arkansas's ninety-day period for lawful resentencing under the conditional sentence-only writ, subject to ordinary mandate administration. The conviction remains in force. The Court specifies no maximum replacement term; lawful state sentencing must comply with the constitutional boundary announced here.
 
+### Ashcroft v. American Civil Liberties Union; No. 00-1293; 535 U.S. 564. — 2002-05-13
+
+Lower courts must evaluate COPA's actual statutory reach and adult-speech burden as a whole. The presence of community standards alone cannot sustain the reviewed categorical facial rationale, and the presence of other elements alone cannot establish ultimate validity. Neither a national standard nor categorical approval of local standards becomes controlling law. The existing adult-speech, substantial-overbreadth and justification rules remain operative. Full statutory validity, the factual adequacy of verification and the comparative effectiveness of alternative protections remain for the returned proceeding because the appellate rationale did not adjudicate them.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#ashcroft-v-aclu-merits-2002-05-13).
+
+### Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613. — 2002-05-13
+
+The open removal-waiver question is now resolved for state-law claims that a State allows against itself in its own courts: authorized voluntary removal relinquishes the federal-forum immunity objection despite an earlier express reservation. The substantive scope and manner of the State's waiver, valid causes of action and independent defenses continue to govern liability. Ford's inconsistent internal-authorization rationale cannot defeat this consequence. Removal of claims for which state-court immunity remains intact and an otherwise valid federal claim are outside this decision's confined question. Existing rules of statutory defendant status, original jurisdiction and discretionary supplemental jurisdiction remain separate and operative.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#lapides-v-board-of-regents-merits-2002-05-13).
+
+### Verizon Communications Inc. v. FCC; Nos. 00-511, 00-555, 00-587, 00-590 and 00-602; 535 U.S. 467. — 2002-05-13
+
+Forward-looking pricing is legally available, and this efficient-technology/existing-wire-center methodology survives the facial statutory and constitutional objections with its actual cost and procedural limits. The Constitution does not require historical-cost reimbursement on this showing. Sections 51.315(c)–(f) are restored as necessary assistance for a requester not reasonably able to combine, subject to lawful element entitlement, separate paragraph conditions, supported network objections and lawful compensation. The Court supplies neither a new element list nor a carrier-specific rate or connection result. State commissions retain their assigned application functions; supported statutory and constitutional challenges to particular outcomes remain available.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#verizon-communications-v-fcc-merits-2002-05-13).
+
+### Voting Integrity Project, Inc. v. Keisling; reviewed judgment 259 F.3d 1169 (9th Cir. 2001); no Supreme Court docket supplied. — 2002-05-13
+
+The federal election-day provisions permit advance casting within an election that stays open through the prescribed day and is legally completed then, including Oregon's universal mail procedure and materially equivalent advance-ballot features with receipt required by that day. Congressional selection and presidential-elector appointment each receive a direct statutory holding. An earlier legally final winner cannot be saved by postponing announcement or certification. This decision changes no receipt deadline, supplies no permission for ballots first received afterward, and establishes no independent constitutional entitlement to a particular voting method.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#voting-integrity-project-v-keisling-merits-2002-05-13).
+
+### Alabama v. Shelton; No. 00-1214; 535 U.S. 654. — 2002-05-20
+
+Courts may retain a valid uncounseled conviction and lawful noncustodial punishment, but may not use it to support a suspended imprisonment sentence without the required counsel or valid waiver at the guilt adjudication. Ordinary revocation counsel does not cure that defect. The separate full-counseled-retrial arrangement is not foreclosed; lesser safeguards and freestanding probation retain the precise limits stated above. Nichols's narrow later-use permission and the independent actual-waiver requirement remain in force.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#alabama-v-shelton-merits-2002-05-20).
+
+### Brown v. Gilmore; reviewed judgment 258 F.3d 265 (4th Cir. 2001); no Supreme Court docket supplied. — 2002-05-20
+
+Genuine school silence leaving thought private is constitutionally permissible under the stated conditions. Religious supporters, an express permission to pray and compulsory silence do not themselves establish official worship. Courts must still examine actual governmental function, attribution and substantial pressure in the school setting. Neither secular objectives nor neutral statutory wording protects actual directed devotion. The decision sustains this facial arrangement without restoring independent Lemon prongs or establishing immunity for later administration.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#brown-v-gilmore-merits-2002-05-20).
+
+### Mathias v. WorldCom Technologies, Inc.; No. 00-878; 535 U.S. 682. — 2002-05-20
+
+The writ dismissal creates no telecommunications, consent, officer-relief or compensation holding. The Court's explanation is confined to this vehicle; existing doctrines governing adverse collateral adjudications and continuing appellate stakes remain intact. The lower judgment remains effective without this Court's endorsement of its reasoning.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#mathias-v-worldcom-technologies-dig-2002-05-20).
+
+### United States v. Cotton; No. 01-687; 535 U.S. 625. — 2002-05-20
+
+An omitted aggravating quantity is a real constitutional charging and jury error but does not withdraw §3231 jurisdiction over this federal prosecution. Forfeited claims remain subject to Rule 52(b)'s distinct requirements. This threshold-specific fourth-condition decision leaves the sentences undisturbed without authorizing future element omissions or converting judicial quantity findings into a verdict. Preserved error and materially different contested records retain their own governing analysis.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#united-states-v-cotton-merits-2002-05-20).
+
+### Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635. — 2002-05-20
+
+Section 1331 remains available for the substantial federal enforcement challenge even on the assumption that §252(e)(6)'s determination-review sentence does not apply. Its separate failure-to-act exclusivity remains intact. Responsible commissioners may face prospective restraint of ongoing enforcement alleged to violate federal law, without treating private financial effects alone as State damages or the Commission's absence as an automatic bar. Full determination-review coverage, direct Commission amenability, consent and the private statutory cause remain undecided because this limited review does not require them. Federal compliance, compensation merits and the availability and scope of the actual requested remedies require ordinary adjudication below under the stated rules; establishing the forum does not decide those matters.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#verizon-maryland-v-public-service-commission-merits-2002-05-20).
+
+### Bell v. Cone; No. 01-400; 535 U.S. 685. — 2002-05-28
+
+Actual sentencing advocacy prevents treating these particular omissions as complete adversarial abandonment. Ordinary tactical choices remain reviewable under Strickland and the applicable §2254 standard; a strategy label is not conclusive. The independently reasonable state-performance adjudication defeats this confined claim despite the district court's added prejudice error. Genuine development allegations, their procedural treatment and other unreviewed sentence grounds remain distinct.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Bell-v-Cone-Merits-2002-05-28).
+
+### Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743. — 2002-05-28
+
+A state-operated port cannot demand dismissal of this Shipping Act administrative complaint merely because a private complainant initiated it and seeks reparations. Both monetary and prospective requests may receive statutory adjudication; the agency's forum does not itself decide coverage, violation or relief. This is a Commission-process rule, not universal commercial waiver, a new private judicial cause of action or a ruling on later collection immunity.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Federal-Maritime-Commission-v-South-Carolina-State-Ports-Authority-Merits-2002-05-28).
+
+### Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.; No. 00-1543; 535 U.S. 722. — 2002-05-28
+
+Narrowing for any patentability requirement, including disclosure, may trigger estoppel. The law now expressly presumes surrender of the asserted equivalent after that trigger, while permitting concrete objective rebuttal directed to what the amendment reasonably relinquished. Required-narrowing explanation and scope rebuttal are separate burdens. Every material limitation remains operative; neither rejection of a complete bar nor successful estoppel rebuttal establishes infringement. Older records receive fair treatment without automatic evidentiary reopening. The three disputed amendments meet the trigger; only particular-equivalent scope rebuttal and the surviving ordinary procedural and infringement applications return for decision.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Festo-Corp-v-Shoketsu-Kinzoku-Kogyo-Kabushiki-Co-Merits-2002-05-28).
+
+### Gisbrecht v. Barnhart; No. 01-131; 535 U.S. 789. — 2002-05-28
+
+Courts reviewing claimant-funded fees for successful court representation must begin with a lawful contingent agreement and independently determine a reasonable award within the statutory ceiling. The contract percentage is not presumptively due; supported reductions, time-and-rate evidence and an explained individual decision protect benefits. Neither exclusive lodestar replacement nor automatic maximum payment is the governing rule. Administrative compensation, EAJA eligibility and payment, and the statutory certification and assessment conditions remain separate.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Gisbrecht-v-Barnhart-Merits-2002-05-28).
+
+### In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied. — 2002-05-28
+
+A settlement court with enforcement jurisdiction must separately establish an Anti-Injunction Act exception for the particular restraint. Policy-specific exclusions retain practical effect: shared facts alone do not convert a preserved claim into a released one. Supported protection against actual released relief or inconsistent adjudication remains available. Ordinary reopening, admissibility, privilege and claim-specific determinations remain with the appropriate court under their governing rules.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#In-re-Prudential-Insurance-Co-of-America-Sales-Practice-Litigation-Merits-2002-05-28).
+
+### South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied. — 2002-05-28
+
+Title VI's direct prospective action and §1983's individual-right inquiry remain distinct. This permitting claim may proceed under the established direct route upon the actual regulatory and defendant predicates, while the asserted regulation-created §1983 effects right remains unavailable. Section 601's intentional-discrimination route retains its independent requirement. The legal route is settled; coverage, violation, causation and relief require adjudication on the record.
+
+Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#South-Camden-Citizens-in-Action-v-New-Jersey-Department-of-Environmental-Protection-Merits-2002-05-28).
+
+The next scheduled inventory matter is row 80, Compaq Computer Corp. v. Commissioner, in chunk 6 on May 28, 2002. It uses the common baseline immediately before May 28; the six May 28 chunk 5 decisions do not enter that baseline. Their signed leads remain subject to the separate effective-date and alphabetical assignment count rule.
+
 ## Material published noncontrolling positions
 
 ### TRW Inc. v. Andrews — 2001-11-13
@@ -942,6 +1034,116 @@ No separate opinion is filed. The exact partial join is stated in Opinion Topolo
 
 **Scalia, concurring in Part I and dissenting from Parts II–III.** Harmelin's distinct textual and historical account rejects prison-duration proportionality as an independent requirement of the Cruel and Unusual Punishments Clause. The actual sentence and comparisons may present a sentencing-policy objection, but they do not establish the asserted constitutional right on his ground. His acceptance of the Excessive Fines inquiry in Bajakajian supplies no prison-duration rule. He accepts the controlling temporal law and does not rely on amended section 2254(d) or a fictitious criminal history. His rationale is distinct from the other dissenters' conclusion that this sentence passes a narrow proportionality test.
 
+### Ashcroft v. American Civil Liberties Union; No. 00-1293; 535 U.S. 564. — 2002-05-13
+
+**O'Connor, concurring.** She joins the confined holding because the present showing does not identify sufficient otherwise protected material made unlawful solely through community variation once prurience and serious value are considered. Pope's objective-value inquiry and Sable's distinction between an adult ban and confined protection matter, but the Web's inability to select recipients prevents treating conventional mail and telephone distribution as conclusive. She affirmatively regards a national standard as constitutionally permissible and necessary for reasonable Internet obscenity regulation. Her judgment neither forecloses an adequately supported facial challenge nor denies later as-applied relief.
+
+**Thomas, concurring, joined by Scalia.** The prurience and objective serious-value requirements materially narrow the relevant category compared with the CDA. Miller, Pope, Hamling and Sable support rejecting community variation as a sufficient objection to this statutory category; the existing showing does not establish substantial variation in the covered material. This broader explanation would reject the community-standards objection more fully than the Court's common ground. It does not adopt a national-standard amendment, resolve COPA's other constitutional defects, or treat statutory commercial purpose as permission to suppress protected adult literature. They join continued interim protection while the other injunction grounds are considered.
+
+**Souter, concurring, joined by Kennedy and Ginsburg.** The extent of protected expression cannot be measured until the statute's reach is determined. Commercial coverage, the relevant whole work or communication, the different ages within the under-seventeen category and venue consequences affect the relationship between legitimate regulation and protected expression. Reno, Playboy and Free Speech Coalition require attention to actual adult access, not an assumption that value for minors cures the adult burden. These Justices expressly preserve the community-standards challenge as part of the integrated inquiry: after construction, geographic variation may still prove decisive. Their join does not approve local standards as constitutionally harmless, depend on hypothetical geographic controls, or adopt a national standard.
+
+**Breyer, concurring in part and in the judgment.** He joins the statutory background and disposition but reads community standards to mean the national adult community. The ordinary phrase in context, its legislative explanation and avoidance of serious constitutional difficulty support that construction in his view. A local standard would give restrictive communities practical control over protected speech distributed nationally. Variation among juries applying one national standard is different from variation among the governing substantive standards themselves. This construction is necessary to his agreement, not a merely optional possibility. It does not resolve the other COPA objections, and he agrees that the injunction should continue.
+
+**Stevens, dissenting.** He would affirm the preliminary injunction on the community-standards ground. His objections in Smith and Sable, together with Reno's adult-access rule, apply to the established inability of national Web speakers to avoid restrictive local audiences. Serious value for minors does not define all expression adults may constitutionally receive. Narrowing the commercial category or the whole-work unit may reduce absolute coverage without curing substantial overbreadth relative to legitimate applications. Verification burdens do not erase that injury. He rejects insertion of a national standard into language with an established community-based meaning. His position preserves the legitimate interest in protecting children and ordinary restrictions on unprotected material; it does not require invalidating every future Internet safeguard.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#ashcroft-v-aclu-merits-2002-05-13).
+
+### Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613. — 2002-05-13
+
+No separate writing is filed.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#lapides-v-board-of-regents-merits-2002-05-13).
+
+### Verizon Communications Inc. v. FCC; Nos. 00-511, 00-555, 00-587, 00-590 and 00-602; 535 U.S. 467. — 2002-05-13
+
+**Breyer, concurring in part and dissenting in part.** He accepts forward-looking cost, rejects mandatory recovery of embedded investment and the present confiscation theory, and joins the complete bounded combination holding. His disagreement concerns the adequacy of the explanation for the efficient-network pricing assumption. A compulsory leasing price based on best available technology and lowest-cost configuration can discourage replacement investment and independent facilities construction while the incumbent continues to operate existing assets. State Farm's demand for a reasoned connection between means and statutory ends requires a more convincing account of how this particular benchmark advances durable competition and deregulation. Administrative latitude and a prohibition on traditional rate-based proceedings do not alone answer that concern. He would retain the partial vacatur and return the methodology to the agency, without prescribing an embedded-cost formula or repayment of all sunk costs. Necessary, compensated connection assistance poses a different issue: reasonable-ability limits, genuine network defenses and recoverable connection costs answer the concern about unnecessary incumbent assembly. His agreement on combining does not supply agreement on TELRIC.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#verizon-communications-v-fcc-merits-2002-05-13).
+
+### Voting Integrity Project, Inc. v. Keisling; reviewed judgment 259 F.3d 1169 (9th Cir. 2001); no Supreme Court docket supplied. — 2002-05-13
+
+No separate writing is filed.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#voting-integrity-project-v-keisling-merits-2002-05-13).
+
+### Alabama v. Shelton; No. 00-1214; 535 U.S. 654. — 2002-05-20
+
+Thomas's dissent, joined by Scalia and Kennedy, would reverse only the present invalidation of the suspended jail term. It reads Argersinger and Scott to make actual loss of liberty, rather than a presently unexecuted threat, the constitutional attachment point. Shelton has not been imprisoned; a violation, discretionary revocation and a determination that other sanctions are inadequate would precede incarceration. The dissent would address the adequacy of execution procedures when that issue is presented.
+
+The dissent accepts that competent self-representation is not an informed waiver. It does not approve ordinary revocation as a substitute for a counseled trial. A complete counseled retrial, or possibly other adequate safeguards, could protect against unconstitutional execution, and no such procedure is found to exist here. Nichols's defined fine-only Guidelines permission does not authorize unconditional later imprisonment for this offense. The dissent also questions the asserted equivalence between consensual pretrial diversion and post-trial probation and the inference that existing state appointment practices establish the costs of counsel for every suspended sentence. Practical convenience does not decide the Constitution, but uncertain cost comparisons do not justify moving Scott's boundary. The dissent preserves the conviction and independent monetary punishment and leaves freestanding probation and the late contempt theory undecided.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#alabama-v-shelton-merits-2002-05-20).
+
+### Brown v. Gilmore; reviewed judgment 258 F.3d 265 (4th Cir. 2001); no Supreme Court docket supplied. — 2002-05-20
+
+No separate writing.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#brown-v-gilmore-merits-2002-05-20).
+
+### Mathias v. WorldCom Technologies, Inc.; No. 00-878; 535 U.S. 682. — 2002-05-20
+
+Chief Justice Stone-Zsela concurs in the dismissal. Applying New York Telephone Co. v. Maltbie, he treats this request as an effort to revise unnecessary adverse reasoning in an otherwise favorable judgment. The commissioners' own regulatory order was sustained; in his view, the challenged jurisdictional and immunity reasoning establishes no independently binding adverse consequence requiring correction. The binding favorable merits and the separately denied motions do not supply the different adverse component contemplated by his rule. His conclusion concerns the legal effect of this judgment, not an inference that the motions were never made or denied.
+
+He would not review a favorable judgment solely to edit such nonbinding adverse reasoning. A genuine adverse judgment component or independently binding collateral effect presents a materially different question. He adopts no categorical Article III prohibition on all prevailing-party appeals, reaches none of the three substantive questions and leaves the lower judgment undisturbed without endorsing its unnecessary findings.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#mathias-v-worldcom-technologies-dig-2002-05-20).
+
+### United States v. Cotton; No. 01-687; 535 U.S. 625. — 2002-05-20
+
+Scalia concurs in part and in the judgment. He joins Parts I, II-A and III, including the genuine constitutional error, forfeiture, assumed substantial-rights injury and denial of correction under the independent fourth condition. He assumes that the error is plain without joining Part II-B's affirmative intervening-law plainness rule. Because the fourth condition is unsatisfied on this record even on that assumption, the broader plainness determination is unnecessary to his vote. He does not treat appellate assessment of the evidence as a jury verdict, find an intentional waiver or adopt a categorical exception to Apprendi.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#united-states-v-cotton-merits-2002-05-20).
+
+### Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635. — 2002-05-20
+
+Chief Justice Stone-Zsela concurs in Parts I–III and dissents from the form of the judgment. He would reverse and remand because §1331 and the prospective officer-relief route permit the claim against the responsible commissioners to proceed. He agrees that federal jurisdiction, statutory authority, consent and remedy do separate work; participation does not establish constructive consent, and intercarrier financial consequences do not make the requested future-enforcement restraint a State-damages action. His reversal would reinstate adjudication of the federal claim, leaving federal compliance and the precise injunction for decision below. He would not determine direct Commission waiver or the compensation merits. His disagreement concerns reversal rather than vacatur, not the controlling threshold rules or the requirement of further adjudication.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#verizon-maryland-v-public-service-commission-merits-2002-05-20).
+
+### Bell v. Cone; No. 01-400; 535 U.S. 685. — 2002-05-28
+
+Justice Stevens joins the correct statutory and prejudice framework but dissents from the applications and judgment. He would affirm the Cronic-based sentence-only conditional writ. In his view, the combined failure to present an individualized case for life and answer the prosecution's request for death eliminated the relevant capital-sentencing function. He acknowledges the mercy opening, references to existing experts, favorable military cross-examination and protective objections; he considers them insufficient to constitute meaningful adversarial testing in the proceeding as a whole. His rule is not that every omitted witness or waived closing is structural, and he makes no finding that later illness establishes trial incapacity.
+
+If Cronic is rejected, Stevens would also leave the ordinary tactical claim open on remand. He would require examination of the asserted legal misunderstandings, the performance ground's independence from the erroneous prejudice inquiry and its relationship to the disputed restrictions on mitigation development. Pritchett's limited support for expecting appellate correction does not, in his view, excuse surrender of a meaningful penalty defense. He accepts the State's independent-ground argument as substantial but would not foreclose ordinary appellate review on this record. He finds neither Strickland deficiency nor actual prejudice as an alternative present holding. His primary remedy preserves the existing 180-day structure for a new lawful penalty proceeding; the convictions and unused alternative sentence grounds are unaffected.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Bell-v-Cone-Merits-2002-05-28).
+
+### Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743. — 2002-05-28
+
+Justice Kennedy, joined by O'Connor, Scalia and Thomas, dissents from the agency-boundary holding and reversal. The four would vacate and remand. Compulsory pleadings, response, discovery, hearing and adjudication of personal liability, in their view, impose the private-suit burden from which immunity protects a State. Commission supervision, an executive label and lack of immediate execution do not remove that burden or the eventual order's evidentiary consequences. They would not distinguish the cease-and-desist request automatically from reparations merely by calling it prospective; no officer defendant is created by the complaint.
+
+They nevertheless reject the Fourth Circuit's complete dismissal rationale because the governing Florida Prepaid and Garrett rule permits unmistakably authorized State exposure under valid Article I power. They retain their original structural objection while applying that controlling rule. Their remand would identify the operative enactment, the particular complaint and remedy, and the statutory authorization before final disposition. Public-terminal coverage, the word person and commerce power alone neither establish nor defeat the necessary clarity; no single required verbal formula or present abrogation answer follows. California did not decide this private-immunity question. Actual government investigation and enforcement, proper connected-officer relief and later collection remain separate. Their proposed remand removes the dismissal direction but does not yet authorize ordinary merits adjudication on the Court's ground.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Federal-Maritime-Commission-v-South-Carolina-State-Ports-Authority-Merits-2002-05-28).
+
+### Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.; No. 00-1543; 535 U.S. 722. — 2002-05-28
+
+
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Festo-Corp-v-Shoketsu-Kinzoku-Kogyo-Kabushiki-Co-Merits-2002-05-28).
+
+### Gisbrecht v. Barnhart; No. 01-131; 535 U.S. 789. — 2002-05-28
+
+Justice Scalia dissents from Parts I–II and the judgment, while joining the independently stated judicial-review and statutory safeguards. He would value reasonable hours at a reasonable market rate, without a nonpayment-risk multiplier, and affirm these three awards. Section 406(b)'s direction to determine a reasonable fee, in his view, calls for valuation of services rather than enforcement of the contingent percentage. Changing the payor does not change that judicial task, and the percentage maximum remains useful as an additional ceiling. Dague supports this approach without already deciding this statute. He rejects substituting EAJA's limited rate for the relevant market rate.
+
+He objects that the Court combines an agreement made before the result with an after-the-result reasonableness review whose reductions remain less definite than lodestar. Earnings, dependents and delay can increase benefits without corresponding work; attorney-caused delay can also violate the bargain's implicit obligation. The supplied local rates and hours, rejection of risk enhancement and explanations of Miller's objections support affirmance under his method. He accepts independent substantiation, the ceiling and the overlapping-fee refund, without joining the Court's agreement method or finding misconduct.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#Gisbrecht-v-Barnhart-Merits-2002-05-28).
+
+### In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied. — 2002-05-28
+
+
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#In-re-Prudential-Insurance-Co-of-America-Sales-Practice-Litigation-Merits-2002-05-28).
+
+### South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied. — 2002-05-28
+
+Justice Stevens, joined by Souter, Ginsburg and Breyer, concurs in the direct-route remand and dissents from Part I. He would reconsider Powell's §1983 holding to the extent it rejects this identified entitlement. The statutory beneficiaries, nondiscrimination protection, express implementation authority and a valid, sufficiently definite implementing requirement can, in his view, define the individual protection that §1983 enforces. Blessing's particular-right inquiry and Wright's and Wilder's recognition of authorized elaboration support that conclusion. He does not treat every regulation or administrative command as a right or establish a general entitlement to equal environmental burdens. Sandoval independently requires consideration of the direct claim, so his §1983 disagreement does not undermine remand, actual causation, proper-defendant or equitable requirements.
+
+Chief Justice Stone-Zsela concurs in the §1983 rejection and direct prospective adjudication but dissents from vacating the appellate judgment in full. He would affirm the rejected §1983 basis and vacate only the foreclosure of the retained Title VI theory. The two channels answer different questions, and Sandoval's direct-action rule leaves Powell's §1983 rule intact. He would require prompt determination of the covered recipient, actual regulatory duty, causal effect, proper prospective defendant and interim-relief requirements. Protection requires a supported lawful order; his disposition would not automatically restore the injunction or decide the permit's validity.
+
+Opinion topology and the controlling/noncontrolling boundary: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#South-Camden-Citizens-in-Action-v-New-Jersey-Department-of-Environmental-Protection-Merits-2002-05-28).
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -961,11 +1163,11 @@ No separate opinion is filed. The exact partial join is stated in Opinion Topolo
 | Verizon Maryland Inc. v. Public Service Commission of Maryland / United States v. Public Service Commission of Maryland | 2002-05-20 | The historical record identifies O’Connor’s nonparticipation; no independent simulated participation order is supplied. | Establish participation at argument or submission and at decision; no simulated nonparticipation is established. |
 | Mathias v. WorldCom Technologies, Inc. | 2002-05-20 | The historical record identifies O’Connor’s nonparticipation. No separate simulated order is supplied. | Establish participation at argument or submission and at decision; no simulated nonparticipation is established. |
 
-All nine Justices are seated. Seniority is Stone-Zsela as Chief Justice, followed among the Associates by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Case-specific participation is determined at argument or submission and again at decision. The opening neutral participation fields alone established no exclusion; the completed Rucker Record now states the case-specific nonparticipation established during source validation. O'Connor's three historical nonparticipation references are Run flags only; the [manifest](manifest.md#participation-flags-for-run) preserves their terms.
+All nine Justices are seated. Seniority is Stone-Zsela as Chief Justice, followed among the Associates by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Case-specific participation is determined at argument or submission and again at decision. The opening neutral participation fields alone established no exclusion; the completed Rucker Record now states the case-specific nonparticipation established during source validation. The three historical nonparticipation references were reviewed at their events; the completed Verizon Communications, Verizon Maryland and Mathias Records establish participation by all nine Justices. The [manifest](manifest.md#participation-flags-for-run) preserves the original flags and their resolution.
 
 The August 3, 1994 allotment order remains in force: Stone-Zsela—District of Columbia, Fourth and Federal; Breyer—First; Ginsburg—Second; Souter—Third; Scalia—Fifth; Stevens—Sixth and Seventh; O'Connor—Eighth and Tenth; Kennedy—Ninth; Thomas—Eleventh. The Court's standing referral, signed-explanation and certification practice remains as stated in Standing State section 3.
 
-All nine Justices participated in each chunk 2 decision, including Gulf Power. Remaining case-specific flags require validation at their own events.
+All nine Justices participated in each chunk 2 decision, including Gulf Power. The three chunk 5 flags are resolved in their completed Records; future participation remains event-specific.
 
 Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated. Breyer took no part in the consideration or decision of these cases.
 
@@ -1002,6 +1204,36 @@ Henderson v. Norris: All nine Justices participate at full merits submission and
 Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co.: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate in the submission and decision.
 
 US Airways, Inc. v. Barnett: All nine Justices participate at argument and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Ashcroft v. American Civil Liberties Union; No. 00-1293; 535 U.S. 564.:** All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Lapides v. Board of Regents of University System of Georgia; No. 01-298; 535 U.S. 613.:** All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Verizon Communications Inc. v. FCC; Nos. 00-511, 00-555, 00-587, 00-590 and 00-602; 535 U.S. 467.:** All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Voting Integrity Project, Inc. v. Keisling; reviewed judgment 259 F.3d 1169 (9th Cir. 2001); no Supreme Court docket supplied.:** All nine Justices participate at merits submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Alabama v. Shelton; No. 00-1214; 535 U.S. 654.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+**Brown v. Gilmore; reviewed judgment 258 F.3d 265 (4th Cir. 2001); no Supreme Court docket supplied.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at full merits submission and decision.
+
+**Mathias v. WorldCom Technologies, Inc.; No. 00-878; 535 U.S. 682.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+**United States v. Cotton; No. 01-687; 535 U.S. 625.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+**Verizon Maryland Inc. v. Public Service Commission of Maryland; United States v. Public Service Commission of Maryland; Nos. 00-1531 and 00-1711; 535 U.S. 635.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+
+**Bell v. Cone; No. 01-400; 535 U.S. 685.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
+
+**Federal Maritime Commission v. South Carolina State Ports Authority; No. 01-46; 535 U.S. 743.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
+
+**Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.; No. 00-1543; 535 U.S. 722.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
+
+**Gisbrecht v. Barnhart; No. 01-131; 535 U.S. 789.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
+
+**In re Prudential Insurance Co. of America Sales Practice Litigation; review of 261 F.3d 355 (3d Cir. 2001). No Supreme Court docket supplied.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
+
+**South Camden Citizens in Action v. New Jersey Department of Environmental Protection; review of 274 F.3d 771 (3d Cir. 2001), lower-court Nos. 01-2224 and 01-2296. No Supreme Court docket supplied.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at submission or argument and decision. Nine participate; the quorum is six and a majority is five.
 
 ## Circuit allotments
 
@@ -1055,6 +1287,6 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 60 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 45 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.

@@ -1,0 +1,2750 @@
+No. 00-878 
+
+
+IN THE 
+Supreme Court of the Gnited States 
+
+
+RICHARD L. MATHIAS, ef a/.. 
+Petitioners. 
+v. 
+WoORLDCOM TECHNOLOGIES. INC.. ef a/.. 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+WORLDCOM TECHNOLOGIES, INC., 
+MCI WORLDCOM NETWORK SERVICES, INC.., 
+MCIMETRO ACCESS TRANSMISSION SERVICES LLC, 
+AND FOCAL COMMUNICATIONS CORP. 
+
+
+DARRYL M. BRADFORD PAUL M. SMITH * 
+
+JOHN J. HAMIL WILLIAM M. HOHENGARTEN 
+JENNER & BLOCK, LLC MICHAEL B. DESANCTIS 
+One IBM Plaza JENNER & BLOCK, LLC 
+Chicago, IL 60611 601 13th Street, N.W. 
+
+(312) 222-9350 Washington, D.C. 20005 
+
+
+(202) 639-6000 
+* Counsel of Record 
+
+
+Counsel for Respondents WorldCom Technologies, Ine., 
+MCI WORLDCOM Network Services, Inc., MCI metro Access 
+Transmission Services LLC, and Focal Communications Corp. 
+
+
+(additional counsel listed on inside cover) 
+
+
+September 10, 2001 
+
+
+WiILSON-EPES PRINTING Co., IN« - (202) 789-0096 — WASHINGTON, D. C. 20001 
+
+
+TBEST AVAILABLE COPY 
+
+
+RICHARD METZGER 
+MATTHEW BERNS 
+
+
+FOCAL COMMUNICATIONS CORP. 
+
+
+7799 Leesburg Pike 
+Falls Church, VA 22043 
+(703) 637-8700 
+
+
+Counsel for Respondent 
+Focal Communications Corp. 
+
+
+THOMAS F. O' NEIL III 
+WILLIAM SINGLE, IV 
+BRIAN J. LESKE 
+WORLDCOM, INC. 
+
+1133 19th Street, N.W. 
+Washington, D.C. 20036 
+(202) 736-6096 
+
+
+Counsel for Respondents 
+WorldCom Technologies, 
+Inc... MCI WORLDCOM 
+Network Services, Inc. and 
+MC Imetro Access 
+Transmission Services LLC 
+
+
+RULE 29.6 STATEMENTS 
+
+
+Pursuant to Rule 29.6 of the Rules of this Court, 
+respondents WorldCom Technologies, Inc., MCI 
+WORLDCOM Network Services, Inc., and MCImetro Access 
+Transmission Services LLC state as follows: 
+
+
+WorldCom Technologies, Inc. MCI WORLDCOM 
+Network Services, Inc. (formerly known as MCI 
+Telecommunications Corp.), and MCImetro Access 
+Transmission Services LLC are all wholly owned subsidiaries, 
+directly or indirectly, of WorldCom, Inc. WorldCom, Inc. is a 
+Georgia corporation that, through its wholly owned 
+subsidiaries, provides local, long distance, and other 
+telecommunications services domestically and internationally. 
+WorldCom, Inc. is a publicly traded company on the NASDAQ 
+National Market under the symbols “WCOM” and “MCIT.” 
+WorldCom, Inc. has no parent corporations. No publicly held 
+company owns 10 percent or more of WorldCom, Inc.’s stock. 
+WorldCom, Inc. owns controlling interests in Embratel 
+Participacoes, S.A., and Digex, Incorporated, both of which 
+issue shares to the public. 
+
+
+Pursuant to Rule 29.6 of the Rules of this Court, 
+respondent Focal Communications Corp. states as follows: 
+
+
+Focal Communications Corporation, through its operating 
+subsidiaries, provides local exchange telecommunications 
+services, including telecommunications services to Internet 
+service providers. Focal Communications Corporation is a 
+Delaware corporation that is publicly traded on the NASDAQ 
+National Market under the symbol “FCOM.” No publicly held 
+company owns 10 percent or more of the stock of Focal 
+Communications Corporation. There are no subsidiaries or 
+affiliates of Focal Communications Corporation that have 
+issued equity or debt securities to the public. 
+
+
+TABLE OF CONTENTS 
+
+
+es TEE cacnccneccecuucseneneicds i 
+
+TABLE OF AUTHORITIES .............. an eee, iv 
+
+STATEMENT OF JURISDICTION ................... 2 
+
+EE 6 6d.ue cckusccackavueessbuceeseeebeses 2 
+Be PPI 6 cn ccdcuececceecesesace 3 
+i ED idcuduvosdectiwbieesens 5 
+3. The District Court Proceedings................ 7 
+4. The Seventh Circuit’s Decision ............... 8 
+
+SUMMARY OF THE ARGUMENT ................. 12 
+
+SEE 04 6nbebdnandddéoendenasnasntendéess 15 
+I. FEDERAL COURTS HAVE JURISDICTION TO 
+
+
+_ DETERMINE WHETHER STATE COMMISSION 
+
+
+“ENFORCEMENT” DETERMINATIONS 
+VEEEEs CUED SOUP OEISEs ccccscdcecosceccs 15 
+
+
+A. Ameritech Raised Federal Questions That 
+Federal Courts Have Jurisdiction to Answer 
+ee es Os Seve ccarcceescees 16 
+
+
+B. Section 252(e)(6) Does Not Withdraw the 
+District Court’s General Federal Question 
+PL, «ockeauud dete daowkeesseas 18 
+
+
+‘4 
+
+
+Il. 
+
+
+TABLE OF CONTENTS - continued 
+
+
+C. A State Commission Enforcement Decision 
+Is a “Determination” under Section 252. .... 22 
+
+
+D. The 1996 Act Does Not Support Ameritech’s 
+View of the Complete “Federalization” of 
+Interconnection Agreement Disputes. ...... . 28 
+
+
+E. The Court Should Not Misinterpret the 
+Statute to Avoid a Purported Constitutional 
+Issue That Is Neither Serious Nor Difficult. . . 32 
+
+
+EX PARTE YOUNG PERMITS THIS SUIT. .... 33 
+
+
+THE ICC WAIVED ANY ELEVENTH 
+AMENDMENT IMMUNITY BY ACCEPTING 
+THE BENEFIT OF ADMINISTERING THE 
+
+
+By cet hoanesedessécensccsdawasedccesce 45 
+
+
+A. College Savings Reaffirms that States 
+Voluntarily Waive Eleventh Amendment 
+Immunity by Accepting a Federal Benefit 
+Clearly Conditioned on Such Waiver. ....... 46 
+
+
+B. Congress Properly Conditioned State 
+Participation in the Act on Waiver of 
+a State’s Eleventh Amendment Immunity. . . . 47 
+
+
+EET On 6 dle ovecsedvecasisitencesesess 50 
+
+
+iV 
+TABLE OF AUTHORITIES 
+Page 
+CASES 
+AT&T Communications v. BellSouth 
+
+Telecommunications, Inc., 238 F.3d 636 
+
+ER ES oe ee See 38 
+AT&T Corp. v. lowa Utilities Board, 
+
+ie net cused oe oud passim 
+Alabama Public Service Commission v. 
+
+Southern Railway Co., 341 U.S. 341 (1951)........ 44 
+Aiden v. Maine, 527 U.S. 706 (1999) ......... 33, 37, 47 
+Almendarez-Torres v. United States, 
+
+EE iid er ea veneetawe 32, 33 
+Ardestani v. INS, 502 U.S. 129 (1991) .............. 26 
+Bank One Chicago, N.A. v. Midwest Bank & 
+
+Trust Co., 516 U.S. 264 (1996) .................. 27 
+Bell Atlantic Maryland, Inc. v. MCI WorldCom, 
+
+Inc., 240 F.3d 279 (4th Cir. 2001), cert. granted 
+
+sub nom. Verizon Maryland Inc. v. Public 
+
+Service Commission of Maryland, \21 S. Ct. 
+
+PDs csedsduenetesésnacedeseceed: passim 
+Bell Atlantic Telephone Cos. v. FCC, 206 F.3d 1 
+
+i i i te aed s 6,7 
+
+
+BellSouth Telecommunications, Inc. v. North 
+Carolina Utilities Commission, 240 F.3d 270 
+(4th Cir. 2001), petition for cert. filed, 
+69 U.S.L.W. 3740 (U.S. May 14, 2001) 
+ee es eae ks dees 17, 34 
+
+
+Bell v. Hood, 327 U.S. 678 (1946) .............. 16, 17 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+
+Bowen v. Michigan Academy of Family 
+
+Physicians, 476 U.S. 667 (1986) ..............4.4. 20 
+City of Chicago v. International College of 
+
+Seen, FEB UB. THO CHGS «cc ccccpeccccedes: 16 
+College Savings Bank v. Florida Prepaid 
+
+Postsecondary Education Expense Board, | 
+
+Se EE duweanssestdacessewes 11, 45, 46 
+Edelman v. Jordon, 415 U.S. 051 (1974) ............ 38 
+Edwards v. Balisok, 520 U.S. 641 (1997) ........... 45 
+Franklin v. Gwinnett County Public Schools, 
+
+EE bode dae ddabecs dodeeceqduus 40 
+Green v. Mansour, 474 U.S. 64 (1985) .......... 33, 35 
+Gully v. First National Bank, 299 U.S. 109 
+
+ch wdvtunctleedehiebedanetesduudeteses 16 
+Hodel v. Virginia Surface Mining & Reclamation 
+
+Association, 452 U.S. 264 (1981) ................ 48 
+Idaho v. Coeur d'Alene Tribe of Idaho, 
+
+ee ED Scbbededsdeteevesecess passim 
+
+
+Illinois Bell Telephone Co. v. Illinois Commerce 
+Commission, No. 3-98-0393, Order Granting 
+Stay (Ill. App. Ct. June 17, 1998) ..............05. 7 
+
+
+Iowa Utilities Board v. FCC, 120 F.3d 753 
+
+
+(1997), vacated in relevant part as unripe 
+sub nom., AT&T Corp. v. lowa Utilities Board, 
+
+
+FN ENED So weswcccdedevededecccence 23 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+
+Jackson Transit Authority v. Local Division 
+
+Se ee Ss CPE Socesueéccsewens 17, 29, 30 
+Kokkonen v. Guardian Life Insurance Co. 
+
+of America, 511 U.S. 375 (1994) ................ 27 
+Larson v. Domestic & Foreign Commerce 
+
+Sig Br Ce eS 50 0 Ke Wicnscceveces 35 
+Livadas v. Bradshaw, 512 U.S. 107 (1994) ...... 37, 38 
+Louisiana Public Service Commission v. FCC, 
+
+Se: EET s 9dn.60 oeecdaweueesceewes 3, 43 
+
+
+MCI Telecommunications Corp. v. Illinois Bell 
+Telephone Co., 222 F.3d 323 (7th Cir. 2000), 
+cert. denied, 121 S. Ct. 896 (2001) ........... passim 
+
+
+MCI Telecommunications Corp. v. Illinois 
+Commerce Commission, 168 F.3d 315 
+(7th Cir.), amended, 183 F.3d 558 (7th Cir. 
+1999), modified on reh'g, 222 F.3d 323 
+(7th Cir. 2000), cert. denied, 121 S. Ct. 896 
+tT \ vs dbus ded ved Aeeeeedenduecekenesas 8 
+
+
+MCI Telecommunications Corp. v. Public 
+Service Commission of Utah, 216 F.3d 929 
+(10th Cir. 2000), cert. denied, 121 S. Ct. 1167 
+
+
+DE «iseughedsrseeudbanedaareeassdaees 38, 48 
+Ex parte McCardle, 74 U.S. (7 Wall.) 506 
+
+DD oeidedéecisaddhan nana nuwendades os 21 
+McNary v. Haitian Refugee Center, Inc., 
+
+ED 04 644646 6kS be cbusebaseane 21 
+
+
+Vil 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+
+Michigan Bell Telephone Co. v. Climax 
+
+Telephone Co., 202 F.3d 862 (6th Cir.), 
+
+cert. denied, 531 U.S. 816 (2000) ................ 38 
+New Orleans Public Service, Inc. v. Council of 
+
+New Orleans, 491 U.S. 350 (1989) ............... 45 
+New York v. United States, 505 U.S. 144 (1992) ...... 36 
+O'Melveny & Meyers v. FDIC, 512 U.S. 79 (1994) .... 30 
+Papasan v. Allain, 478 U.S. 265 (1986) ......... 34, 37 
+Pennhurst State School & Hospital v. 
+
+Halderman, 465 U.S. 89 (1984) ............. passim 
+Petty v. Tennessee-Missouri Bridge 
+
+Commission, 359 U.S. 275 (1959) ...........25.. 47 
+Prentis v. Atlantic Coast Line Co., 211 U.S. 210 
+
+Dh ..¢hiheeisunteet chee khagaesessonss 41,44 
+Printz v. United States, 521 U.S. 898 (1997) ...... 36, 37 
+Puerto Rico Telephone Co. v. Telecommunications 
+
+Regulatory Board of Puerto Rico, 189 F.3d | 
+
+Pn oc odiudvenehakaeevieesbeneees 50 
+Quern v. Jordan, 440 U.S. 332 (1979) ... 0.6... eee 38 
+Salinas v. United States, 522 U.S. 52 (1997) ......... 33 
+Seminole Tribe of Fiorida v. Florida, 517 U.S. 44 
+
+EE ee iti eevee ceeeeheee ens et passim 
+Shalala v. Illinois Council on Long Term Care, 
+
+i ED cc cdccecvuceséenteeéncuee 20 
+
+
+Shaw v. Delta Air Lines, Inc., 463 U.S. 85 (1983) ..... 17 
+
+
+Vill 
+TABLE OF AUTHORITIES - continued 
+Page 
+South Dakota v. Dole, 483 U.S. 203 (1987)... . 47, 49, 50 
+
+
+Southwestern Bell Telephone Co. v. Brooks Fiber 
+Communications of Oklahoma Inc., 235 F.3d 493 
+code cuscthebstaaeseneead 22, 29, 32 
+
+
+Southwestern Bell Telephone Co. v. Connect 
+Communications Corp., 225 F.3d 942 (8th Cir. 
+Pr rrrrrer rr re Ter? ee Terre 22 
+
+
+Southwestern Bell Telephone Co. v. Public 
+Utility Commission of Texas, 208 F.3d 475 
+
+
+cnc enet edd unesdseneeeus . bevount 22 
+Steel Co. v. Citizens for a Better Environment, 
+
+Fe es SPEED oe vavecdeceseesess 16, 17, 18, 19 
+Stone v. INS, 514 U.S. 386 (1995) ... 0.0... 6 ee eee. 27 
+Texas Industries, Inc. v. Radcliff Materials, 
+
+i Ge We ED sv cckecsecseseneseleass 30 
+United States v. Mead Corp., 121 S. Ct. 2164 
+
+DEY » cabek uddanedeuuekavkseebeckeieseben 25 
+
+
+Verizon Maryland Inc. v. Public Service 
+Commission of Maryland, 121 S. Ct. 2548 
+
+
+i dune cveenGehud Cuvee beetdaseeeoenhens 12 
+
+Ex parte Yerger, 75 U.S. (8 Wall.) 85 (1868) ......... 21 
+
+Ex parte Young, 209 U.S. 123 (1908) .............4. 13 
+STATUTES 
+
+
+Ue . . ci cuts ckcdaudenscadeuas 36, 41 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+Bp ss FH GRTEED o bc cccccecececccotvoudseecees 2 
+PU ME occa cceccccebecssusevecees passim 
+y lt lf | | PPPrreTTTrrrrrrirrrrr rT ra 7 
+AEE o'c 0c cdWeddececscuecsiceoseneaons 7 
+SP EEE Sc dccnccdvocceceeccecesanes 44, 45 
+Be is EEE occ ccccccscceccucessecvcsenee 5 
+Ss ED ovd ceccocecesececucsaséuccoss« 21 
+GF TEBE. OGRE soc cccccccccvsovcecetescnss 3, 43 
+47 U.S.C. § 152 note (Pub. L. No. 104-104, 
+
+DEED hoc sever enesccrenescecesveceseceves 31 
+47 U.S.C. § 152 note (Pub. L. No. 104-104, 
+
+DGIOEED cc ccccncccecccsscceseneccceconese 21 
+GF Ts OF BUTE cc ccccwncccccceccccccccvesen 42 
+Gy ee ED hoc ec cccccondencocevesesss 4, 25 
+ph le > | PTT TTeTITT Tree ie 5 
+GPT SEED vce b wccecesccctecesiscececs 4 
+GT UER. B APMED ccccccccccceccccsccesceues 31 
+G7 TG. BB occ ccccccceseccccscuccess 4, 30 
+GT UBL. BARLEY ccccccccccccccccccccccccess 4 
+G7 Ws BED 0c cccccvcccccecces estan weeese 4 
+47 U.S.C. 6 ZSAIGMAMA) 2. nc cccccsccscccccccccces 4 
+jf, i loll >. reer r rrr rrr re 31 
+
+
+x 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+Cp Pere ree 21, 23, 24, 28 
+er ee OF EE c's sccedbedenscc0seaeebae 4,24 
+a ED  d'c oe dade quence Venneses passim 
+Pe EE ss ouneedabeeeueneeue tinbuwade 31 
+Sy I A oo b 6d ccetudes dees ieeeduncs ss 31 
+LEGISLATIVE MATERIALS 
+H.R. Conf. Rep. 104-458 (1996), reprinted in 
+SPs HE 6okckesednuadeseeses 31, 44 
+
+
+H.R. Rep. No. 104-204 (1995) ........ 0.0... eee eee 
+ADMINISTRATIVE RULINGS 
+
+
+In re Implementation of the Local Competition 
+Provisions in the Telecommunications Act of 
+1996, Inter-Carrier Compensation for ISP-Bound 
+Traffic, CC Docket No. 96-98, 99-68, FCC 
+Se es Ce EE nob. ccd edenkecedccacesa 
+
+
+In re Implementation of the Local Competition 
+Provisions in the Telecommunications Act of 
+1996, Inter-Carrier Compensation for ISP-Bound 
+Traffic, 14 F.C.C.R. 3689 (1999), vacated, 
+Bell Atlantic Telephone Cos. v. FCC, 206 F.3d 1 
+a LD 9 ced abanws cauuwesueedsetaeenes 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES - continued 
+
+
+Page 
+In re Starpower Communications, LLC, Petition 
+for Preemption of Jurisdiction of the Virginia 
+State Corporation Commission Pursuant to 
+Section 252(e)(5) of the Telecommunications 
+Act of 1996, 15 F.C.C.R. 11277 (2000) ............ 24 
+
+
+——e en 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+No. 00-878 
+
+
+RICHARD L. MATHIAS, et ai., 
+Petitioners, 
+v. 
+
+
+WORLDCOM TECHNOLOGIES, INC., et ai., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Seventh Circuit 
+
+
+BRIEF OF RESPONDENTS 
+WORLDCOM TECHNOLOGIES, INC., MCI 
+WORLDCOM NETWORK SERVICES, INC., 
+
+MCIMETRO ACCESS TRANSMISSION SERVICES 
+LLC, AND FOCAL COMMUNICATIONS CORP. 
+
+
+Respondents WorldCom Technologies, Inc., MCI 
+WORLDCOM Network Services, Inc., MCImetro Access 
+Transmission Services, Inc. (together, “WorldCom’’), and Focal 
+Communications Corporation (collectively, “Competitors’’), 
+through undersigned counsel, submit this brief in support of the 
+decision of the United States Court of Appeals for the Seventh 
+Circuit in TJllinois Bell Telephone Co. v. WorldCom 
+Technologies, Inc., 179 F.3d 566 (7th Cir. 1999), Pet. App. 6a- 
+22a, amended, Order, No. 98-3150 (7th Cir. Aug. 19, 2000), 
+Pet. App. 3a-Sa. As we show, the Seventh Circuit correctly 
+
+
+2 
+
+
+held that federal courts have jurisdiction and authority to 
+entertain federal law challenges to state commission 
+determinations enforcing pre-existing interconnection 
+agreements between competing local carriers. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The district court had jurisdiction pursuant to 28 U.S.C. 
+§ 1331 and 47 U.S.C. § 252(e)(6) to review the determination 
+of the Illinois Commerce Commission (“ICC”) for compliance 
+with federal law. 
+
+
+The judgment of the court of appeals was entered June 18, 
+1999, and amended August 9, 1999. The petition for rehearing 
+was denied on August 9, 2000. By order of a single Justice of 
+this Court, Petitioners’ time for filing a petition for a writ of 
+certiorari was extended to November 28, 2000. The petition 
+was filed on November 28, 2000, and was granted on March 5, 
+2001. This Court has jurisdiction pursuant to 28 U.S.C. 
+
+
+§ 1254(1). 
+STATEMENT 
+
+
+Illinois Bell Telephone Company d/b/a Ameritech IIlinois 
+(“Ameritech”) filed this action in federal court against the 
+Commissioners of the ICC (“ICC Commissioners”) and several 
+Competitors, challenging the ICC’s March 11, 1998, Order 
+enforcing various “interconnection agreements” that the 
+Competitors and Ameritech had executed under the 
+Telecommunications Act of 1996 (“1996 Act” or “Act”), Pub. 
+L. No. 104-104, 110 Stat. 56, codified at 47 U.S.C. §§ 151 et 
+
+
+3 
+
+
+seq.” Ameritech’s complaint alleged, inter alia, that the ICC’s 
+Order violates the Act and applicable regulations of the Federal 
+Communications Commission (“FCC”). The ICC 
+Commissioners contend that those federal claims fall outside 
+the statutory jurisdiction of the district court and, in any event, 
+are excluded from adjudication in federal court by the Eleventh 
+Amendment. 
+
+
+1. The Statutory Scheme 
+
+
+The 1996 Act fundamentally changed the regulation of the 
+local telephone industry throughout the country. In the 
+Communications Act of 1934, Congress left regulation of 
+intrastate telecommunications primarily to the states. See 47 
+U.S.C. § 152(b); Louisiana Pub. Serv. Comm'n v. FCC, 476 
+U.S. 355 (1986). The states, in turn, historically granted 
+exclusive franchises to incumbent local telephone companies 
+like Ameritech. See AT&T Corp. v. lowa Utils. Bd., 525 U.S. 
+366, 371 (1999); H.R. Rep. No. 104-204, at 49 (1995). 
+
+
+Congress enacted the 1996 Act for the express purpose of 
+ending this monopoly regime and promoting a competitive 
+market for local telephone service. See AT&T Corp., 525 U.S. 
+at 371. Toward that end, the 1996 Act partially supplants state 
+regulation and imposes a new set of substantive federal 
+standards and procedures governing interconnection between 
+incumbent local companies and potential competitors. /d. at 
+371-73. Congress thus altered the prior balance of federal and 
+
+
+' In addition to Ameritech’s interconnection agreements with 
+WorldCom and Focal, this case concerns agreements between Ameritech 
+and respondents Teleport Communications Group, Inc. and AT&T 
+Communications of Illinois, Inc., which are separately represented here. 
+
+
+4 
+
+
+state regulatory authority in the area of local 
+telecommunications. /d. at 371. 
+
+
+Under the Act, a new entrant that wishes to enter a local 
+telephone market must contact the incumbent carrier to 
+negotiate the terms of interconnection. See 47 U.S.C. 
+§ 252(a)(1). If the two carriers cannot reach an agreement, they 
+must ask the governing state commission to conduct an 
+“arbitration” to resolve disputed issues. /d. § 252(b)(1). The 
+results of the negotiation and arbitration process are 
+memorialized in an “interconnection agreement” between the 
+carriers, which is then submitted for approval to the state 
+commission. /d. § 252(e). 
+
+
+Although the Act supplies minimum requirements that 
+state commissions must follow in arbitrating provisions about 
+which the parties cannot reach a negotiated agreement, parties 
+may negotiate terms “without regard” to these requirements. 
+Id. § 252(a)(1). When parties voluntarily agree to terms, a state 
+commission may reject the terms only if they are discriminatory 
+or against the public interest, convenience, or necessity. /d. 
+§ 252(e)(2)(A); see also AT&T Corp., 525 U.S. at 371-73. 
+
+
+Thus, in the spirit of cooperative federalism, Congress 
+vested the FCC with the primary authority to implement the 
+federal standards created by the Act, AT&T Corp., 525 US. at 
+377-84 & n.5; 47 U.S.C. §§ 201(b), 251(d)(1), while at the 
+same time, carving out a new, voluntary role for states in 
+overseeing interconnection agreements. The Act in no way 
+requires state commissions to help implement the new federal 
+scheme. Ifa state commission declines to participate, the FCC 
+will assume that function. 47 U.S.C. § 252(e)(5). 
+
+
+5 
+
+Whether rendered by a state commission or the FCC, 
+agency determinations regarding the terms of interconnection 
+agreements are subject to review in federal court for 
+compliance with the Act. If a state commission elects to 
+participate in the Act’s implementation, “any party 
+aggrieved . . . may bring an action in an appropriate Federal 
+district court to determine whether the agreement or statement 
+meets the requirements of section{[s] 251 . . . and [252].” 47 
+U.S.C. § 252(e)(6); see also AT&T Corp., 525 U.S. at 378 n.6 
+(“there is no doubt . . . that if the federal courts believe a state 
+commission is not regulating in accordance with federal policy 
+they may bring it to heel”). If the FCC has acted in lieu of a 
+state commission, its determinations are reviewed by a federal 
+court of appeals under the Hobbs Act. See 28 U.S.C. 
+§ 2342(1). 
+
+
+2. Nature of the Dispute 
+
+
+This case concerns one aspect of the parties’ 
+interconnection agreements, “reciprocal compensation,” which- 
+is the payment that a local carrier receives for completing a call 
+for another local carrier. With local competition, customers of 
+one local carrier will call customers of another. Carriers must 
+therefore assist each other in delivering calls. When a customer 
+of one local carrier makes a call to a customer of another local 
+carrier, only the caller pays its carrier for the telephone 
+services, leaving the other carrier uncompensated. The caller’s 
+local carrier therefore must compensate the other carrier whose 
+facilities are used to complete the call. See 47 U.S.C. 
+
+
+§ 251(b)(5); Pet. App. 8a-9a. 
+
+
+The parties to this case agreed in their interconnection 
+
+
+agreements to pay reciprocal compensation for the exchange of 
+“Local traffic.” Local traffic is defined in the parties’ 
+
+
+6 
+
+
+interconnection agreements as a call of less than fifteen miles 
+to another local telephone number. Pet. App. 18a; JA 8a, 14a, 
+38a. The dispute in this case was whether calls by local 
+customers of one carrier that are routed by another carrier to its 
+local customers operating as “Internet Service Providers” 
+(“ISPs”) constitute “Local traffic” under the interconnection 
+agreements. These calls were treated for purposes of billing 
+- customers like any other local call. Pet. App. 18a-19a; JA 
+113a-114a, 117a. Ameritech and the Competitors also 
+routinely charged each other reciprocal compensation for 
+delivering ISP calls placed by each others’ customers. JA 
+118a-119a. 
+
+
+In July 1997, however, Ameritech announced that it was 
+unilaterally stopping reciprocal compensation payments for 
+calls to local ISPs, claiming for the first time that such calls are 
+not “Local Traffic.” Pet. App. 9a. In response, the 
+Competitors asked the ICC to enforce the agreements by 
+requiring Ameritech to resume payments of reciprocal 
+compensation for ISP calls. /d. at 9a-10a. The ICC held an 
+evidentiary hearing on November 21, 1997. JA 98a-99a. On 
+March 11, 1998, the ICC ruled that the plain language of the 
+agreements, industry custom and practice, and Ameritech’s 
+own conduct mandated payment of reciprocal compensation for 
+calls to ISPs. Pet. App. 10a; JA 112a-119a.” 
+
+
+? The FCC has long struggled with whether the Act requires 
+reciprocal compensation for calls to ISPs. It first held that the Act does not 
+require, or prohibit, such payments. /n re Implementation of the Local 
+Competition Provisions in the Telecommunications Act of 1996, Inter- 
+Carrier Compensation for ISP-Bound Traffic, 14 F.C.C.R. 3689 (1999), 
+vacated, Bell Atlantic Tel. Cos. v. FCC, 206 F.3d 1, 9 (D.C. Cir. 2000). At 
+WorldCom's request, the D.C. Circuit vacated that order for want of 
+reasoned decision making. Bell Atlantic Tel. Cos. v. FCC, 206 F.3d 1,9 
+
+(continued...) 
+
+
+-- 
+
+
+: 
+3. The District Court Proceedings 
+
+
+On March 27, 1998, Ameritech filed suit in the United 
+States District Court for the Northern District of Illinois against 
+the Competitors and the ICC Commissioners, in their official 
+capacities, to challenge the ICC’s determination.” Ameritech 
+sought declaratory and injunctive relief under 47 U.S.C. 
+§ 252(e)(6), 28 U.S.C. § 1331, and 28 U.S.C. §§ 2201 and 
+2202. JA 126a-127a. Three of the five counts of Ameritech’s 
+complaint alleged continuing violations of federal law. JA at 
+139a-145a. Those counts alleged that the ICC’s determination 
+violates the express requirements of sections 251(b)(5), 
+252(d)(2) and 251(g) of the 1996 Act (Count IV); that the 
+ICC’s determination violates the 1996 Act in that the Act 
+assigns regulatory authority over interstate communications 
+such as calls to ISPs to the FCC (Count III); and that the ICC’s 
+determination is contrary to binding FCC regulations which 
+purportedly characterized calls to ISPs as “exchange access” 
+
+
+2 (...continued) 
+
+(D.C. Cir. 2000). The FCC recently has (1) concluded that the Act does not 
+require reciprocal compensation for these calls, (2) established prospectively 
+a new federal compensation regime for this traffic, and (3) determined that 
+its new order does not affect preexisting contract obligations or state 
+commission decisions like those at issue in this case. /n re /mplementation 
+of the Local Competition Provisions in the Telecommunications Act of 
+1996, Inter-Carrier Compensation for ISP-Bound Traffic, CC Docket Nos. 
+96-98, 99-68, FCC 01-131 (rel. Apr. 27, 2001). Numerous parties have 
+appealed that decision to the D.C. Circuit, WorldCom, Inc v. FCC, No. 01- 
+1218. 
+
+
+> At the same time it filed in the District Court, Ameritech filed 
+a parallel action in the Illinois Appellate Court. The Illinois Appellate Court 
+stayed that action at Ameritech’s request pending resolution of this case. 
+Illinois Bell Tel. Co. v. Hlinois Commerce Comm'n, No. 3-98-0393, Order 
+Granting Stay (Ill. App. Ct. June 17, 1998). 
+
+
+not subject to reciprocal compensation requirements (Count II). 
+JA 140a-143a. Ameritech also claimed that the ICC’s 
+determination violates Illinois law (Count V), JA 144a-145a, 
+and the terms of the interconnection agreements themselves 
+(Count I), JA 139a-140a. 
+
+
+After briefing by the parties, the District Court rejected the 
+ICC Commissioners’ arguments that the court lacked 
+jurisdiction and that the ICC Commissioners were immune 
+from suit under the Eleventh Amendment. Pet. App. 26a-30a. 
+The court also ruled against Ameritech on the merits, holding 
+that the ICC’s interpretation of the agreements did not violate 
+federal law. JA 173a-180a. 
+
+
+4. The Seventh Circuit’s Decision 
+
+
+Ameritech and the ICC Commissioners appealed to the 
+Seventh Circuit. The Court of Appeals rejected the 
+Commissioners’ Eleventh Amendment arguments based on its 
+prior decision in MCI Telecommunications Corp. v. Illinois 
+Commerce Commission, 168 F.3d 315 (7th Cir.) (“MCI-I’) 
+amended, 183 F.3d 558 (7th Cir. 1999), modified on reh'g, 222 
+F.3d 323 (7th Cir. 2000) (“MCI-IT’), cert. denied, 121 S. Ct. 
+896 (2001). Pet. App. la-2a, 12a-13a. In MCI-J, which 
+involved ICC determinations approving interconnection 
+agreements, the Seventh Circuit had held that the 
+Commissioners had waived any Eleventh Amendment 
+immunity by voluntarily accepting Congress’s invitation to 
+participate in the implementation of interconnection agreements 
+under the 1996 Act. 168 F.3d at 322. According to the court, 
+“Congress gave states a genuine choice: The states could 
+participate in the federal regulatory function delegated to them 
+by the federal government on the condition that their 
+participation be reviewable in federal court; or the states could 
+retain their sovereign immunity and allow the FCC to carry out 
+
+
+9 
+
+
+the federal regulatory functions without their participation.” /d. 
+
+
+Having rejected the Eleventh Amendment arguments based 
+on MCI-I, the Seventh Circuit in this case likewise rejected the 
+Commissioners’ contention that the court lacked subject matter 
+jurisdiction ove: Ameritech’s complaint because section 
+252(e)(6) of the Act did not provide for judicial review of 
+commission determinations enforcing, as opposed to approving 
+or rejecting, an interconnection agreement. Pet. App. 14a-15a 
+(“Congress envisioned suits reviewing ‘actions’ by state 
+commissions” for compliance with sections 251 and 252 of the 
+Act). 
+
+
+But the Seventh Circuit also determined that a federal 
+court’s scope of review under section 252(e)(6) is limited. 
+Because the plain text of section 252(e)(6) confines review to 
+the question of compliance with sections 251 and 252, acourt’s 
+task under section 252(e)(6) is “to examine the [state 
+commission’s] order, not to determine whether the 
+[commission] correctly applied principles of state contract law, 
+but to see whether its decision violates federal law, as set out in 
+the Act or in the FCC’s interpretation.” /d. at 17a-18a. Thus, 
+the Seventh Circuit explained, section 252(e)(6) provided no 
+basis for the court to “review [the ICC’s] actions for 
+compliance with state law.” Jd. at 15a. Accordingly, the 
+Seventh Circuit found that Ameritech’s appeal presented a 
+“narrow issue on the merits: whether a decision of the [ICC] 
+regarding reciprocal compensation for telephone connections 
+to [ISPs] violates federal law.” /d. at 7a. Reviewing the Act 
+and the relevant FCC orders, the Seventh Circuit concluded 
+that “nothing in what the ICC said violates federal law in 
+existence at this time.” /d. at 22a. 
+
+
+10 
+
+
+Both Ameritech and the ICC Commissioners filed 
+rehearing petitions. The ICC Commissioners raised essentially 
+the same issues it raises here. Ameritech argued that the 
+Seventh Circuit erroneously circumscribed federal court 
+review, leaving Ameritech without a vehicle to challenge the 
+state commission’s contract analysis. In an initial response to 
+Ameritech’s petition, the Seventh Circuit amended its decision 
+on August 19, 1999. It added language stating that “[s]ection 
+252(e)(6) authorizes a federal court to determine whether the 
+agency’s decision departs from federal law. A decision 
+‘interpreting’ an agreement contrary to its terms creates a 
+different kind of problem — one under the law of contracts, and 
+therefore one for which a state forum can supply a remedy.” /d. 
+at 4a-Sa. 
+
+
+The rehearing petitions were then held in abeyance for 
+approximately one year, pending the Seventh Circuit’s 
+reconsideration of its Eleventh Amendment ruling in MC/-/. 
+During that year, MC/-/, on rehearing, was consolidated with 
+new appeals from Wisconsin challenging state commission 
+approval and enforcement determinations. The Seventh Circuit 
+ultimately issued a revised opinion, MCI-//, which reaffirmed 
+the court’s ruling that state commissions do not have Eleventh 
+Amendment immunity in actions brought under section 252. 
+In that new opinion, the Seventh Circuit relied not only on 
+waiver but also on Ex parte Young. It explained that suits 
+against state commissioners challenging approval or 
+enforcement of interconnection agreements as violative of 
+federal law are “straightforward Ex parte Young cases.”” MCI- 
+II, 222 F.3d at 345. This is so, according to the court, because 
+such suits do no more than seek prospective injunctive and 
+declaratory relief against state officials to prevent their 
+continuing violation of federal law. /d. The court then 
+distinguished cases under the 1996 Act from this Court’s 
+
+
+11 
+
+
+decisions in Seminole Tribe of Florida v. Florida, 517 U.S. 44 
+(1995), and Idaho v. Coeur d'Alene Tribe of Idaho, 521 U.S. 
+261 (1997), on the ground that Ex parte Young actions under 
+the 1996 Act do not improperly expand limited remedies made 
+available by Congress and do not divest the States of any 
+“special sovereignty interest” that might justify a federal court’s 
+refusal to enforce the 1996 Act. MCI-I/, 222 F.3d at 345-48. 
+
+
+As for waiver, the MC/-// court held that “Congress has 
+expressed unmistakably that, under the 1996 
+Telecommunications Act, states could participate in the federal 
+regulatory function delegated to them by the federal 
+government on the condition that their participation be 
+reviewable in federal court.” /d. at 341. The Seventh Circuit 
+also distinguished this Court’s recent decision in College 
+Savings Bank v. Florida Prepaid Postsecondary Education 
+Expense Board, 527 U.S. 666 (1999), on the ground that the 
+1996 Act did not extract the type of “Parden-style” 
+constructive waiver that this Court rejected in College Savings. 
+To the contrary, the opportunity to participate in the 
+administration of the 1996 Act was a “gratuity” from Congress 
+that was clearly conditioned on a state commission’s 
+submission to suit in federal court. MCI-//, 222 F.3d at 342-44. 
+Having freely accepted the benefit, the state commission must 
+also accept the condition and submit to review of its 
+determination under the 1996 Act in federal court. /d. at 344. 
+
+
+After the new MCI-I/ decision was handed down, the 
+Seventh Circuit denied rehearing in this case on August 9, 
+2000. Pet. App. 2a. This Court denied review of MC/-// on 
+January 22, 2001, prior to the ruling of the Fourth Circuit in 
+Bell Atlantic Maryland, Inc. vy. MCI WorldCom, Inc., 240 F.3d 
+297 (4th Cir. 2001), cert. granted sub nom. Verizon Md. Inc. v. 
+Pub. Serv. Comm'n of Md., 121 S. Ct. 2548 (2001), which 
+
+
+12 
+
+
+created the first conflict among the circuits over the questions 
+presented here. It later granted review in the instant case soon 
+after the Fourth Circuit ruling. Subsequently, the Court granted 
+review of two petitions challenging the Fourth Circuit’s ruling, 
+limited to the single question of whether a federal district court 
+has independent subject matter jurisdiction under 28 U.S.C. § 
+1331 to determine whether a state commission’s action 
+interpreting or enforcing an interconnection agreement violates 
+the 1996 Act. See Verizon Md. Inc. v. Public Serv. Comm'n of 
+Md., 121 S. Ct. 2548 (2001) (“Verizon”). 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+The first question presented is whether a state commission 
+action enforcing an interconnection agreement is “a 
+determination under section 252” reviewable in federal court 
+under section 252(e)(6). As the Fifth, Seventh, Eighth, and 
+Tenth Circuits have agreed, the answer to that question is yes. 
+The language and structure of section 252 indicate that 
+Congress included section 252(e)(6) in order to make 
+unequivocal that federal courts would play a role in reviewing 
+the actions of state commissions that choose to participate in 
+the new federal scheme. Section 252(e)(6) can and should be 
+construed to accomplish that purpose with respect to all state 
+commission “determinations,” including enforcement 
+decisions. 
+
+
+The Court should not assume, however, _ that 
+section 252(e)(6) is the only source of federal jurisdiction to 
+review enforcement actions for compliance with federal law. 
+It is not. Even if section 252(e)(6) were inapplicable, general 
+federal question jurisdiction would exist under 28 U.S.C. 
+§ 1331 to address claims that state officials have violated the 
+1996 Act in enforcement determinations. In this case, 
+
+
+13 
+
+
+Ameritech has raised a series of claims to the effect that federal 
+law controls over state requirements. While the courts below 
+found — correctly, in our view — that Ameritech’s federal claims 
+lacked merit, the courts nonetheless had the power to consider 
+them under section 1331 as well as section 252(e)(6). The ICC 
+Commissioners take too narrow a view of the federal courts’ 
+role to enforce the 1996 Act. 
+
+
+On the other hand, Ameritech takes too broad a view of 
+federal jurisdiction. Nothing in the 1996 Act suggests that 
+Congress intended to federalize the contract law question 
+whether a state commission has correctly interpreted an 
+interconnection agreement. The 1996 Act is replete with anti- 
+preemption provisions and savings clauses expressly preserving 
+state law. The question whether a state commission has 
+correctly interpreted a contract thus arises under state law, as 
+each circuit court to have expressly considered the question has 
+
+
+agreed. 
+
+
+The Seventh Circuit’s holding that the ICC Commissioners 
+are not immune from suit here also should be affirmed for two 
+independent reasons. First, consistent with the well-settled 
+doctrine of Ex parte Young, 209 U.S. 123 (1908), the 1996 Act 
+permits aggrieved parties to seek review of state commission 
+determinations in federal court. Here, Ameritech brought suit 
+in federal court for prospective injunctive and declaratory relief 
+to stop the Commissioners’ alleged ongoing violations of 
+federal law — precisely the type of action that Ex parte Young 
+permits. Moreover, that the alleged violations of federal law 
+occurred in a formal decision issued by the ICC, and that 
+judicial review would also have been available in state court, in 
+no way undermine the applicability of Ex parte Young. 
+
+
+14 
+
+
+By its terms, the 1996 Act imposes no limits on the 
+equitable powers that federal courts have at their disposal to 
+ensure that state commissioners’ actions comply with the Act’s 
+requirements. Thus, an Ex parte Young suit does not expand 
+the remedy that Congress provided in the 1996 Act. To the 
+contrary, the remedies available under each are perfectly 
+coterminous. It follows that this Court’s admonition in 
+Seminole Tribe — that courts must not allow suits under Ex 
+parte Young to eviscerate detailed and limited remedial 
+schemes prescribed by Congress — has no application here. 
+
+
+Although the analysis can stop there, the Commission 
+defendants also consented to federal court jurisdiction and 
+thereby waived any Eleventh Amendment immunity by 
+voluntarily choosing to participate in the administration of the 
+1996 Act. In the spirit of cooperative federalism, Congress 
+offered states the benefit of participating in the administration 
+of the Act. It lay solely within Congress’s discretion whether 
+to offer states that opportunity; administration of a new federal 
+Act is not an otherwise permissible activity for a state. Further, 
+each state is free to decline any role in administering the Act if 
+it so chooses. Accordingly, the ICC Commissioner’s 
+participation in the administration of the Act is a benefit or 
+“gratuity” that can be conditioned on waiver of Eleventh 
+Amendment immunity under this Court’s decision in College 
+Savings. 
+
+
+15 
+
+
+ARGUMENT 
+
+
+I. FEDERAL COURTS HAVE JURISDICTION TO 
+DETERMINE WHETHER STATE COMMISSION 
+“ENFORCEMENT” DETERMINATIONS VIOLATE 
+THE 1996 ACT. 
+
+
+The first question presented is “[w]hether a state 
+commission’s action relating to the enforcement of a previously 
+approved section 252 interconnection agreement is a 
+‘determination under [section 252]’ and thus is reviewable in 
+federal court under 47 U.S.C. § 252(e)(6).” The short answer 
+to that question is yes. A state commission action enforcing an 
+interconnection agreement is “a determination under 
+section 252” and is reviewable in federal court under 
+
+
+section 252(e)(6). 
+
+
+- We respectfully submit, however, that the Court’s inquiry 
+should more properly begin with the general grant of federal 
+question jurisdiction in 28 U.S.C. § 1331. The question, as we 
+see it, should be whether anything in section 252 suffices to 
+withdraw federal question jurisdiction as to this one category 
+of federal claims. When the question is reformulated in this 
+manner, the answer becomes very clear. There is no language 
+in section 252(e)(6) — or any other portion of the 1996 Act -— 
+even hinting at a congressional intent to bar federal jurisdiction 
+over claims that state commission enforcement determinations 
+have violated the Act. 
+
+
+16 
+
+
+A. Ameritech Raised Federal Questions That 
+Federal Courts Have Jurisdiction to Answer 
+
+
+under 28 U.S.C. § 1331. 
+
+
+The ICC and its supporting amici proceed from the false 
+assumption that the existence of federal jurisdiction to review 
+claims that state officials violated federal law in enforcement 
+decisions turns on whether those decisions are “determinations 
+under section 252” within the meaning of section 252(e)(6). 
+See, e.g., Pet. Br. 17-18; Br. of New Jersey et al. as Amici 
+Curiae, at 1-2 (“N.J. Br.”); Br. of Amicus Curiae Nat’! Ass’n 
+of Reg. Util. Comm’rs, et a/., at 9-17 (“NARUC Br.”); Br. of 
+Council of State Gov’ts, et al. as Amici Curiae, at 5-6 
+(“Council Br.”). Regardless of how the Court rules on that 
+issue, the district court plainly had jurisdiction to consider 
+Ameritech’s federal claims. A civil action “arises under” 
+federal law for purposes of section 1331 when a “right or 
+immunity created by the Constitution or laws of the United 
+States [is] an element, and an essential one, of the plaintiff's 
+cause of action.” Gully v. First Nat'l Bank, 299 U.S. 109, 112 
+(1936); accord City of Chicago v. International College of 
+Surgeons, 522 U.S. 156, 163-64 (1997). 
+
+
+To determine whether it has federal question jurisdiction, 
+the court “must look to the way the complaint is drawn to see 
+if it is drawn so as to claim a mght to recover under the 
+Constitution and laws of the United States.” Bell v. Hood, 327 
+U.S. 678, 681 (1946); see Steel Co. v. Citizens for a Better 
+Env't, 523 U.S. 83, 89 (1998). Ameritech’s complaint easily 
+satisfies this requirement. Three counts in that complaint — 
+Counts II, III, and IV — directly allege a federal violation. In 
+Count II, Ameritech alleged that “The ICC Order Is Contrary 
+To Controlling FCC Orders.” JA 140a. In Count III, 
+Ameritech alleged that “The ICC’s Order Violates Controlling 
+
+
+17 
+
+
+Federal Law, Which Assigns Authority Over Interstate 
+Communications To The FCC.” JA 14la. In Count IV, 
+Ameritech alleged that “The ICC Order Violates Sections 
+251(b)(5), 252(d)(2) and 251(g) of the 1996 Act.” JA 142a. 
+Each of these Counts requires the court to consider federal law 
+as an “essential element” of Ameritech’s claims. Jurisdiction 
+therefore exists under section 1331. see, e.g., Shaw v. Delta 
+Air Lines, Inc., 463 U.S. 85, 96 n.14 (1983) (“It is beyond 
+dispute that federal courts have jurisdiction [under section 
+1331] over suits to enjoin state officials from interfering with 
+federal rights”). 
+
+
+Of course, federal statutory challenges to state commission— 
+enforcement determinations as contrary to federal law need not 
+be meritorious in order to fall within the jurisdiction of the 
+federal courts. Here, for example, the district court and the 
+Seventh Circuit properly concluded that nothing in the Act or 
+relevant FCC regulations bars the ICC from enforcing 
+agreements to pay reciprocal compensation on calls to ISPs. 
+But “it is well settled that the failure to state a proper cause of 
+action calls for a judgment on the merits and not for a dismissal 
+for want of jurisdiction.” Bell v. Hood, 327 U.S. at 682; accord 
+Jackson Transit Auth. v. Local Div. 1285, 457 U.S. 15, 21 n.6 
+(1982). The “absence of a valid (as opposed to arguable) cause 
+of action does not implicate subject-matter jurisdiction, i.e. , the 
+court’s statutory or constitutional power to adjudicate the case.” 
+Steel Co., 523 U.S. at 89 (emphasis in original). “Dismissal for 
+lack of subject-matter jurisdiction because of the inadequacy of 
+the federal claim is proper only when the claim is so 
+insubstantial, implausible, foreclosed by prior decisions of this 
+Court, or otherwise completely devoid of merit as not to 
+
+
+involve a federal controversy.” /d. (internal quotations and 
+citations omitted).* 
+
+
+In sum, the district court plainly had jurisdiction over this 
+case under section 1331, unless section 252(e)(6) somehow 
+withdraws that jurisdiction. As we show next, no such 
+withdrawal has occurred. 
+
+
+B. Section 252(e)(6) Does Not Withdraw the District 
+Court’s General Federal Question Jurisdiction. 
+
+
+Section 252(e)(6) does not preclude a federal court from 
+exercising general federal-question jurisdiction in cases 
+challenging state commission enforcement actions. First, 
+though clearly a grant of power to the federal courts, it is far 
+from clear that section 252(e)(6) addresses what this Court has 
+referred to as “genuine subject matter jurisdiction.” See Steel 
+Co., 523 U.S. at 90-91 (even statutes referring to “jurisdiction” 
+frequently do not relate to “genuine subject-matter 
+jurisdiction”’). It states: 
+
+
+* The Fourth Circuit failed to heed this critical distinction in the 
+only court of appeals rulings finding a lack of federal jurisdiction over 
+enforcement actions. See Bell Atlantic Md., Inc., 240 F.3d at 297; BellSouth 
+Telecomms., Inc. v. North Carolina Utils. Comm'n, 240 F.3d 270 (4th Cir. 
+2001), petition for cert. filed, 69 U.S.L.W. 3740 (U.S. May 14, 2001) (No. 
+00-1699). There, as here, the plaintiffs were incumbent carriers claiming 
+that state commissions had violated federal law in orders requiring 
+reciprocal compensation for calls to ISPs under interconnection agreements. 
+Under the current state of federal law, the Fourth Circuit could not conceive 
+how such a claim could have merit. See, e.g, Bell Atlantic, 240 F.3d at 295- 
+97, 307-08. We agree with the Fourth Circuit that the claims had no merit, 
+but the fact remains that the incumbents were raising non-frivolous claims 
+requiring the court to construe federal law. We also address these issues in 
+
+
+our brief filed contemporaneously in Verizon. 
+
+
+19 
+
+
+In any case in which a State commission makes a 
+determination under this section, any party aggrieved 
+by such determination may bring an action in an 
+appropriate Federal district court to determine 
+whether the agreement or statement meets the 
+requirements of Section 251 and this section [252]. 
+
+
+47 U.S.C. § 252(e)(6). The section does not mention 
+“jurisdiction,” and its language is just as consistent with the 
+conclusion that Congress was simply confirming the existence 
+of a cause of action to challenge state commission actions 
+under the Act. See Steel Co., 523 U.S. at 90-91. 
+
+
+Second, assuming that section 252(e)(6) does relate to the 
+district court’s subject matter jurisdiction, it cannot be 
+construed as withdrawing preexisting jurisdiction in 
+enforcement cases. The crux of the argument pressed by the 
+ICC Commissioners and their supporting amici concerning the 
+meaning of section 252(e)(6) is that it has nothing whatsoever 
+to do with enforcement of interconnection agreements. 
+Observing that section 252(e)(6) relates to State commission 
+determinations “under” section 252, Petitioners argue that 
+“[s]ection 252 sets out procedures only for the negotiation, 
+arbitration and approval of agreements. ... [T]hat section is 
+utterly silent regarding how, or by whom, an agreement is to be 
+interpreted and enforced once it has gone into effect.” Pet. Br. 
+
+
+18 (emphasis added).* 
+
+
+* See also id. at 23 (“The Act's local telephone provisions 
+contain no overt mention . . . of state commission authority to interpret and 
+enforce contracts between local telephone carriers”); NARUC Br. 12-13(“A 
+close look at § 252 suggests that the caption of the section, which states only 
+that it covers ‘Procedures for negotiation, arbitration, and approval of 
+agreements,’ is true to the text. The only State ‘determinations’ authorized 
+
+(continued...) 
+
+
+20 
+
+
+We disagree with this interpretation of section 252(e)(6), 
+because enforcement determinations by state commissions are 
+made “under” section 252. See infra Section LC. But 
+assuming that our interpretation were wrong and the ICC 
+Commissioners’ were correct, then section 252(e)(6) would be 
+— in Petitioners’ own words — “utterly silent” concerning 
+jurisdiction to review enforcement determinations. Thus, on 
+Petitioners’ own view of the case, section 252 could not affect 
+section 1331 jurisdiction to review enforcement 
+determinations.* See, e.g., Bowen v. Michigan Academy of 
+Family Physicians, 476 U.S. 667, 673-76 (1986) (statute that 
+expressly provides for judicial review in one class of cases does 
+not eliminate section 1331 jurisdiction in another class of cases 
+as to which it is silent) (superseded by statute on other grounds, 
+when Congress amended 42 U.S.C. § 1395ff(b) (1988)).7 
+
+
+> (...continued) 
+deal specifically with arbitration and approval of arbitrated agreements. 
+State enforcement authority is not mentioned”) (footnote omitted); N.J. Br. 
+5-6 (“There is no express provision in the Act providing for the state 
+commussions to enforce or otherwise resolve disputes between the parties to 
+a previously approved agreement”). 
+
+
+° Similarly, if section 252(e)(6) relates to a cause of action rather 
+than to subject matter jurisdiction, either it gives carriers a cause of action 
+for review of state commission enforcement determinations, or it is 
+altogether silent concerning enforcement. In the latter case, the section 
+would not constitute a detailed remedial scheme for enforcement that could 
+displace a private right of action under 42 U.S.C. § 1983 or the inherent 
+equitable authority of the federal courts to issue injunctions to enforce 
+federal rights. 
+
+
+” See also Shalala v. Illinois Council on Long Term Care, Inc., 
+
+529 U.S. 1, 16 (2000) (explaining that Michigan Academy held that 
+“statute's total silence” about judicial review in one class of cases “meant 
+that, although review was not available under § 405(g), the silence did not 
+(continued...) 
+
+
+21 
+
+
+Third, the Act itself makes clear that it cannot be construed 
+to limit the general reach of section 1331 by implication. 
+Section 601 provides that “[t)}his Act and the amendments 
+made by this Act shall not be construed to modify, impair, or 
+supersede Federal . . . law unless expressly so provided in such 
+Act or amendments.” Pub. L. No. 104-104, § 601(c)(1) 
+(emphasis added), reprinted at 47 U.S.C. § 152 note. Congress 
+knows how expressly to limit the reach of section 1331, having 
+done so elsewhere in the U.S. Code. See, e.g., 42 U.S.C. 
+§ 405(h) (“[n]Jo action . . . shall be brought under section 1331 
+.. . of Title 28 to recover on any claim arising under this 
+subchapter”). Plainly, section 252(e)(6) does not expressly 
+limit the preexisting jurisdiction of the federal courts under 
+section 1331.” 
+
+
+”  (...continued) 
+itself foreclose other forms of review, say review in a court action brought 
+under § 1331”) (emphasis added); McNary v. Haitian Refugee Center, Inc., 
+498 U.S. 479, 493-94 (1991) (holding that statute that expressly limits 
+jurisdiction of federal courts with regard to specific type of case will not be 
+construed as impairing section 1331's general grant of federal question 
+jurisdiction with respect to closely related proceedings); cf, Ex parte Yerger, 
+75 U.S. (8 Wall.) 85, 105-06 (1868) (holding that repeal of “an additional 
+grant of jurisdiction” does not “operate as a repeal of jurisdiction heretofore 
+allowed”); Ex parte McCardle, 74 U.S. (7 Wall.) 506, 515 (1868) (holding 
+
+
+same). 
+
+
+* Relying on section 601(c)’s preservation of state law, the 
+
+Fourth Circuit concluded that Congress intended to leave review of 
+enforcement decisions to state courts and preclude federal jurisdiction. See 
+Bell Atlantic, 240 F.3d at 300-01, 303, 306. But the Fourth Circuit's 
+analysis inexplicably ignores the fact that section 601(c) preserves both 
+federal and state \aw, unless expressly superseded by the Act. With respect 
+to enforcement cases, the Act expressly supersedes neither federal court 
+jurisdiction under section 1331 nor state court jurisdiction under applicable 
+state law. Again, we also address these issues in our brief filed 
+(continued...) 
+
+
+22 
+
+
+Fourth, when Congress intended the Act to limit some 
+court’s subject matter jurisdiction, it did so clearly and 
+unambiguously. Thus, the Act expressly provides that “[n]o 
+State court shall have jurisdiction to review the action of a State 
+commission in approving or rejecting an agreement under this 
+section.” 47 U.S.C. § 252(e)(4). Given that example of an 
+express exclusion of jurisdiction elsewhere in the same section 
+of theAct, the only fair conclusion is that in enforcement cases 
+Congress was content to allow litigants the choice between 
+state and federal court for pursuit of their federal claims. 
+
+
+C. A State Commission Enforcement Decision Is a 
+“Determination” under Section 252. 
+
+
+In addition to section 1331, section’252(e)(6), assuming it 
+speaks to jurisdiction, provides a second basis for jurisdiction 
+here. The Fifth, Eighth, and Tenth Circuits have all agreed 
+with the Seventh Circuit that the “determinations” reviewable 
+under section 252(e)(6) include actions enforcing existing 
+interconnection agreements. Southwestern Bell Tel. Co. v. 
+Brooks Fiber Communications of Okla. Inc., 235 F.3d 493, 497 
+(10th Cir. 2000); Southwestern Bell Tel. Co. v. Connect 
+Communications Corp., 225 F.3d 942, 947 (8th Cir. 2000); 
+Southwestern Bell Tel. Co. v. Public Util. Comm'n of Texas, 
+208 F.3d 475, 480-81 (Sth Cir. 2000). As the Tenth Circuit 
+persuasively explained, “[s]ection 252(e)(6) grants federal 
+jurisdiction in ‘any case’ in which a state commission makes a 
+‘determination’ under this section. When a state commission, 
+after approving an agreement pursuant to the authority granted 
+by the Act, subsequently issues another decision interpreting 
+the terms of the agreement, this is also a 
+
+
+*  (...continued) 
+contemporaneously in Verizon. 
+
+
+23 
+
+
+‘determination’ pursuant to its authority under § 252.” Brooks 
+Fiber, 235 F.3d at 497 (emphasis added). The only dissenting 
+circuit is the Fourth, which misconstrued the statute for the 
+reasons stated herein and in WorldCom’s brief in Verizon. 
+
+
+The ICC Commissioners and their supporting amici focus 
+on two aspects of the language of section 252(e)(6). First, they 
+argue that the ICC’s action was not “under” section 252 
+because that section assertedly deals only with approval or 
+rejection, not enforcement, of interconnection agreements. See 
+e.g., Pet. Br. 16-20. But the ICC already has admitted that its 
+determination was made “under” section 252. Its own Order 
+stated: “[t]his Commission’s jurisdiction under [state law] and 
+Section 252 of the Telecommunications Act of 1996... to 
+interpret and enforce the terms of interconnection agreements 
+is not disputed.” JA 112a. Indeed, the ICC cited the Eighth 
+Circuit’s pronouncement that 
+
+
+the state commissions’ plenary authority |under 
+sections 251 and 252] to accept or reject 
+[interconnection] agreements necessarily carries with 
+it authority to enforce the provisions of the 
+agreements that the state commissions have approved. 
+
+
+Iowa Utils. Bd. v. FCC, 120 F.3d 753, 804 (1997), vacated in 
+relevant part as unripe sub nom. AT&T Corp. v. Iowa Utils. 
+Bd., 525 U.S. 366, 386 (1999) (cited by ICC Order, JA 112a, 
+
+
+121a). 
+
+
+This understanding of the scope of section 252 is 
+undoubtedly correct in light of Congress’ other uses of the 
+phrase “under this section” in section 252. Section 252(e)(4) 
+provides that “[n]o State court shall have jurisdiction to review 
+the action of a State commission in approving or rejecting an 
+
+
+24 
+
+
+agreement under this section.” 47 U.S.C. § 252(e)(4) 
+(emphasis added). If state commission action “under this 
+section [252]” encompassed nothing more than approving or 
+rejecting an agreement — as the ICC Commissioners contend — 
+then Congress’ insertion of the words “approving or rejecting 
+an agreement” before “under this section” would be entirely 
+redundant in section 252(e)(4). In thatevent, Congress simply 
+could have said “[nJo State court shall have jurisdiction to 
+review the action of a State commission [ ] under this section.” 
+But it did not. Congress’ deliberate inclusion of the limiting 
+phrase “approving or rejecting an agreement” in section 
+252(e)(4), and its deliberate omission of those words in section 
+252(e)(6), can only be understood as a recognition that section 
+252(e)(6) refers to matters going beyond approval and rejection 
+decisions. 
+
+
+Similarly, section 252(e)(5) provides that “{i]f a State 
+commission fails to act or carry out its responsibility under this 
+section in any proceeding or other matter under this section . . . 
+the [FCC] . . . shall assume the responsibility of the State 
+commission under this section with respect to the proceeding 
+or matter and act for the State commission.” 47 U.S.C. 
+§ 252(e)5) (emphasis added). If state commission 
+responsibilities “under this section [252]” did not include both 
+approval and enforcement actions, there would be no 
+authorization for the FCC to step in and resolve disputes over 
+enforcement of interconnection agreements in the event a state 
+commission chose not to do so. 
+
+
+The FCC has interpreted section 252(e)(5) to encompass 
+enforcement determinations in a case in which the Virginia 
+Corporation Commission chose not to interpret and enforce a 
+previously approved interconnection agreement. See Jn re 
+Starpower Communications, LLC, Petition for Preemption of 
+
+
+25 
+
+
+Jurisdiction of the Virginia State Corporation Commission 
+Pursuant to Section 252(e)(5) of the Telecommunications Act 
+of 1996, 15 F.C.C.R. 11277, ¥¥ 1-6 (2000) (“Starpower’). The 
+FCC reasoned: 
+
+
+In applying Section 252(e)(5), we must first determine 
+whether a dispute arising from interconnection 
+agreements and seeking interpretation and 
+enforcement of those agreements is within the states’ 
+“responsibility” under section 252. We conclude that 
+
+
+it is. 
+
+
+Id.4 6 (emphasis added). The FCC expressly incorporated the 
+Seventh and Fifth Circuit’s reasoning on this point, finding that 
+“inherent in state commissions’ express authority to mediate, 
+arbitrate, and approve interconnection agreements under section 
+252 is the authority to interpret and enforce previously 
+approved agreements.” /d. 46 & n.13 (citing //linois Bell, 179 
+F.3d 566, and Southwestern Bell, 208 F.3d 475). Congress 
+expressly delegated to the FCC authority to make rules with the 
+force of law implementing all provisions of the 1996 Act, see 
+47 U.S.C. § 201(b); AT&T Corp., 525 U.S. at 377-85, and the 
+FCC’s interpretation of the Act is therefore entitled to Chevron 
+deference from this Court, United States v. Mead Corp., 121 
+
+
+S. Ct. 2164, 2172-73 (2001).* 
+
+
+* In interpreting section 252(e)(6) to apply only to state 
+commission approval decisions, the Fourth Circuit recognized that its 
+holding could conflict with the FCC’s ruling in Starpower but suggested that 
+a state commission's “responsibility under this section” in section 252(eX 5) 
+may be different than a state commission “determination under this section” 
+in section 252(e)(6). See Bell Atlantic, 240 F.3d at 303 n.6. There is no 
+basis for refusing to defer to the FCC’s conclusion that the phrase “under 
+this section” should have the same meaning in both subsections. 
+
+
+26 
+
+
+In sum, there is ample basis in the language of the statute 
+to conclude that Congress understood enforcement 
+determinations io be “under” section 252. Any other reading 
+would mean that im the event a state commission chose not to 
+handle an enforcement dispute, the matter might have to be 
+resolved in the first instance, not by the FCC under section 
+252(e)(5), but by a court, which is unlikely to be what Congress 
+had in mind.” 
+
+
+Petitioners also rely on the language in section 252(e)(6) 
+providing that federal courts should determine whether the 
+“agreement . . . meets the requirements of section 251 [and 
+section 252].” Petitioners argue that review of agreements 
+occurs at the time of approval, not enforcement. Pet. Br. 19. 
+But the fact that the statute refers to review of agreements for 
+compliance with the Act does not exclude treatment of 
+enforcement actions as “determinations” reviewable under 
+section 252(e)(6). Rather, this language simply reflects the 
+nature of the legal issues presented when state commission 
+enforcement actions are challenged as violating the Act. For 
+example, in the course of enforcing an arbitrated agreement, a 
+state commission could adopt an interpretation of the 
+agreement that a party thinks is inconsistent with the Act. Or 
+the commission might refuse to enforce a negotiated agreement 
+based on a perceived inconsistency with the Act. As in these 
+examples, any enforcement determination that allegedly 
+violates the Act necessarily raises the question whether the 
+
+
+'° Petitioners seek to support a contrary conclusion by citing 
+Ardestani v. INS, 502 U.S. 129, 132-39(1991), which dealt with a provision 
+limiting application of the Equal Access to Justice Act to cases brought 
+“under” section 554 of the Administrative Procedure Act. In that case, 
+however, the deportation proceedings at issue had been expressly excluded 
+from the scope of section 554 and the petitioner was asking the Court to 
+overlook that express exclusion. Nothing of the sort applies to this case. 
+
+
+27 
+
+
+interconnection “agreement” itself —as negotiated by the parties 
+and/or arbitrated, interpreted, and enforced by the state 
+commission — “meets the requirements of” the Act. 
+
+
+The ICC Commissioners also argue that jurisdictional 
+statutes must be “strictly construed.” Pet. Br. 17; see also 
+NARUC Br. 12 & n.15. The cases they cite do not state a rule 
+of construction, however, much less one that would require 
+every arguably ambiguous statute to be construed against 
+jurisdiction. Rather, the cases stand for the proposition that the 
+federal courts may not expand their jurisdiction beyond what 
+Congress has provided by statute. Once Congress’s intent has 
+been determined using ordinary means of statutory 
+construction, the jurisdiction created by Congress under the 
+statute as construed “is not to be expanded by judicial decree,” 
+Kokkonen v. Guardian Life Insurance Co. of America, 511 U.S. 
+375, 377 (1994). Thus, like any other statute, a jurisdictional 
+“statute must be construed to make sense and to comport with 
+the structure and purpose of the statute as a whole. See, e.g., 
+Bank One Chicago, N.A. v. Midwest Bank & Trust Co., 516 
+U.S. 264, 275-76 (1996). 
+
+
+Accepting a construction of section 252(e)(6) that 
+precludes federal court jurisdiction to review enforcement 
+decisions “would yield an incoherent jurisdictional scheme,” 
+and the Court should “hesitate to attribute such a design to 
+Congress.” Jd. The 1996 Act creates a “new Téderal regime” 
+
+
+'! The decision on which Petitioners place primary reliance, Stone 
+v. INS, 514 U.S. 386 (1995), is a case in point. There the Court employed 
+ordinary rules of statutory construction to interpret a jurisdictional statute 
+whose meaning was not clear on its face. /d. at 390-405. Having construed 
+the statute, the Court held that it must adhere to the jurisdictional limits set 
+by Congress and could not expand federal court jurisdiction through judge- 
+made doctrines like “equitable tolling.” /d. at 405. 
+
+
+ae ee ee 
+
+
+28 
+
+
+that “fundamentally restructures local telephone markets.” 
+AT&T Corp., 525 U.S. at 371, 378 n.6. Federal court review of 
+state commission decisions ensures that federal courts can 
+develop a uniform federal interpretation of the Act’s 
+substantive provisions. As this Court has emphasized in 
+discussing the Act: “{[I]f the federal courts believe a state 
+commission is not regulating in accordance with federal policy 
+they may bring it to heel.” Id. at 378 n.6 (emphasis added). 
+
+
+It would have made no sense for Congress to have 
+provided that federal courts have exclusive jurisdiction to 
+review state commission orders approving interconnection 
+agreements, see 47 U.S.C. § 252(e)(4) (ousting state court 
+jurisdiction in approval cases), while simultaneously precluding 
+federal courts from entertaining challenges to enforcement 
+determinations as violative of the Act. That would mean that 
+the power of the federal courts to resolve a given issue of 
+federal law would turn entirely on whether a party happened to 
+have the foresight and desire to raise it at the approval stage. 
+Congress cannot have intended to set up a scheme of judicial 
+review so dependent on arbitrary timing. 
+
+
+In sum, although section 252(e)(6) is not needed to 
+establish federal jurisdiction over claims that state commission 
+enforcement decisions violate the Act, the best reading of the 
+statute authorizes, rather than excludes, federal court review in 
+enforcement cases. 
+
+
+D. The 1996 Act Does Not Support Ameritech’s 
+View of the Complete “Federalization” of 
+Interconnection Agreement Disputes. 
+
+
+For all the foregoing reasons, federal courts have 
+jurisdiction — whether under section 252(e)(6) or section 1331 
+
+
+29 
+
+
+— to hear non-frivolous claims that state officials have violated 
+the Act. Under either section, however, that jurisdiction 
+extends only to questions arising under federal, not state, law.” 
+Recognizing that limitation, Ameritech has sought to 
+“federalize” every aspect of state commission enforcement 
+determinations, including the question whether the commission 
+correctly interpreted an agreement. Indeed, Ameritech filed a 
+separate petition for certiorari seeking review of this question. 
+Illinois Bell Tel. Co. v. WorldCom Techs., Inc., petition for 
+cert. filed, 69 U.S.L.W. 3410 (U.S. Nov. 28, 2000) (No. 00- 
+
+
+921). 
+
+
+The Court need not address this issue in order to answer 
+the questions on which it granted review. Moreover, every 
+circuit that has addressed the issue agrees that whether a state 
+commission has incorrectly interpreted an interconnection 
+agreement is a state law question. Bell Atlantic Md., Inc., 240 
+F.3d at 308; Brooks Fiber, 255 F.3d at 497-99; Southwestern 
+Bell, 208 F.3d at 480. Nonetheless, we will briefly address 
+Ameritech’s view, in anticipation that Ameritech will suggest 
+that the issue is intertwined with the questions presented. 
+
+
+Contrary to Ameritech’s view, questions of contract 
+interpretation are not federalized merely because Congress 
+required the contract by statute. Jackson Transit, 457 U.S. at 
+22-23. In Jackson, a union argued, much as Ameritech does 
+
+
+'2 Moreover, the Eleventh Amendment prevents a district court 
+from asserting supplemental jurisdiction over state law claims under 47 
+U.S.C. § 1367 in suits against a state commission or its members in their 
+official capacity unless the state consents to suit, because the doctrine of Ex 
+parte Young does not apply to state law claims, see Pennhurst State School 
+& Hospital v. Halderman, 465 U.S. 89, 103-21 (1984), and nothing in the 
+Act indicates that Congress conditioned state participation on waiver of 
+immunity with respect to state law claims. 
+
+
+30 
+
+
+here, that collective bargaining agreements were governed by 
+federal law because a federal statute required local 
+governments to execute those agreements. /d. at 20-21. This 
+--Court disagreed, holding that the interpretation of contractual 
+terms raises a question of federal law only if the statute at issue 
+demonstrates that Congress intended that “the rights and duties 
+contained in [such a] contract be federal in nature.” /d. at 23. 
+
+
+Ameritech nonetheless suggests that federal courts should 
+fashion a federal common law of interconnection agreement 
+interpretation. But federal courts may not create federal 
+common law except in the most “narrow areas.” Texas Jndus., 
+Inc. v. Radcliff Materials, Inc., 451 U.S. 630, 641 (1981). Only 
+in a “few and restricted” cases, “where there is a significant 
+conflict between some federal policy or interest and the use of 
+state law” should a court contemplate creating federal common 
+law. O'Melveny & Meyers v. FDIC, 512 U.S. 79, 87 (1994) 
+(internal quotations and citations omitted). Instead, when 
+dealing with a comprehensive federal statutory scheme, 
+“matters left unaddressed in such a scheme are presumably left 
+subject to the disposition provided by state law.” /d. at 85. 
+
+
+Nothing in the Act suggests that Congress intended to 
+transform every contract interpretation issue arising from an 
+interconnection agreement into a federal claim, particularly 
+because many interconnection agreement provisions have 
+nothing to do with the Act’s requirements. In fact, 
+section 252(a)(1) provides that parties may “enter into a 
+binding agreement . . . without regard to the standards set forth 
+in” the Act. 47 U.S.C. § 252(a)(1). Had Congress intended 
+negotiated agreements — such as each of the agreements at issue 
+here — to be governed exclusively by federal law, it would not 
+
+
+31 
+
+
+have allowed parties to enter into them “without regard” to the 
+Act’s requirements. 
+
+
+Further, Congress provided that “[t)his Act . . . shall not be 
+
+
+construed to modify, impair, or supersede Federal, State or 
+local law unless expressly so provided in such Act or 
+amendments.” Pub. L. No. 104-104, § 601(c), reprinted at 47 
+U.S.C. § 152 note. It also provided that states may impose state 
+law requirements in interconnection agreements and that pro- 
+competitive state law requirements that do not conflict with the 
+Act are not preempted. 47 U.S.C. §§ 251(d)(3), 252(e\3), 
+261l(c); see also Conf. Rep. 104-458, at 126-27 (1996), 
+reprinted in 1996 U.S.C.C.A.N. 124, 137. These provisions 
+foreclose an argument that interconnection agreements are 
+wholly federalized and should be interpreted according to 
+federal common law principles. 
+
+
+Finally, Ameritech has argued that the Seventh Circuit's 
+position on the scope of federal jurisdiction means that parties 
+
+
+'’ Nor may Ameritech claim that enforcement actions are 
+inherently federalized because it has a “right” under section 252(a) to a 
+“binding” interconnection agreement. Merely because parties disagree 
+about the meaning of a provision does not mean the agreement is not 
+binding. Congress's statement in section 252(a) that interconnection 
+agreements are “binding” simply means that parties are bound to perform 
+under their agreement, as interpreted by a court or agency, and are not free 
+to disavow or repudiate thew obligations. In a case like this, no party has 
+disavowed its interconnection agreement obligations, rather, the parties have 
+a disagreement over what those obiigations are. - 
+
+
+‘* On this point, the ICC Commissioners are largely correct that 
+states retain an important role in regulating local telecommunications. 
+See Pet. Br. 21-27; 47 US.C. §§ 252(eX3), 253(b). The ICC 
+Commussioners simply push their argument too far in asserting that federal 
+courts may play no role in vindicating federal nghts in enforcement actions. 
+
+
+32 
+
+
+may have to file state claims in state court and federal claims in 
+federal court. But that need occur only in cases where the 
+defendant state commission chooses to assert Eleventh 
+Amendment immunity to bar the federal court from considering 
+state-law claims that would fall within the court’s supplemental 
+jurisdiction under 28 U.S.C. § 1367. See Brooks Fiber, 235 
+F.3d at 498. Where that occurs, the bifurcation is the result of 
+the state’s choice to invoke the Eleventh Amendment — not 
+some flaw in the statutory scheme. As this Court recognized in 
+Pennhurst State School & Hospital v. Halderman, 465 U.S. 89 
+(1984), bifurcated review of federal and state issues may be 
+inefficient, but it is sometimes a necessary consequence of the 
+Eleventh Amendment. 465 U.S. at 121-23. 
+
+
+E. The Court Should Not Misinterpret the Statute to 
+Avoid a Purported Constitutional Issue That Is 
+Neither Serious Nor Difficult. 
+
+
+There is no merit to Petitioners’ argument that the Act 
+should be interpreted to preclude federal court jurisdiction to 
+adjudicate federal questions in order to avoid a serious 
+constitutional question under the Eleventh Amendment. As we 
+show in the next section, there is no grave threat of 
+constitutional infirmity here, because this is a straightforward 
+Ex parte Young case. Even if the analysis under Ex parte Young 
+were less clear, due respect for Congress would preclude use of 
+the doctrine of constitutional doubt to create jurisdictional 
+“statutes foreign to those Congress intended, simply through 
+fear of a constitutional difficulty that . . . will evaporate. Thus, 
+those who invoke the doctrine must believe that the alternative 
+is a serious likelihood that the statute will be held 
+unconstitutional.” Almendarez-Torres v. United States, 523 
+U.S. 224, 238 (1998). There is no possibility — much less a 
+serious likelihood — that statutes permitting federal courts to 
+
+
+- 33 
+
+
+entertain suits for prospective relief against ongoing violations 
+of federal law by state officials could be held 
+unconstitutional.” 
+
+
+Il. EX PARTE YOUNG PERMITS THIS SUIT. 
+
+
+This Court has recently recognized that Ex parte Young is 
+an “essential part of our sovereign immunity doctrine.” Alden 
+v. Maine, 527 U.S. 706, 748 (1999). Under the rule of Ex parte 
+Young, a doctrine meant to ensure the supremacy of federal 
+law, see Green v. Mansour, 474 U.S. 64, 68 (1985), a suit in 
+federal court against state officials seeking prospective relief 
+from ongoing violations of federal law is not treated as 
+implicating a state’s immunity under the Eleventh Amendment. 
+See Coeur d'Alene, 521 U.S. at 281 (opinion of the Court); id. 
+at 294 (O’Connor, J., concurring); id. at 298 (Souter, J., 
+dissenting); see also Pennhurst, 465 U.S. at 102 (citing Ex 
+parte Young, 209 U.S. at 160). 
+
+
+Although the ICC Commissioners argue otherwise, Pet Br. 
+40-48, these -requirements are plainly satisfied here. 
+Significantly, neither the Commissioners nor their supporting 
+amici contest that Ameritech’s complaint sought only 
+prospective relief. JA 125a-145a. They similarly do not deny 
+
+
+'S The doctrine of constitutional doubt cannot be applied here for 
+an additional reason: “the statute must be genuinely susceptible to two 
+constructions after, and not before, its complexities are unraveled.” 
+Almendarez-Torres, 523 U'S. at 238; see also, e.g., Salinas v. United States, 
+522 U.S. 52, 59-60 (1997); Seminole Tribe, 517 U.S. at 57 2.9. Even 
+assuming that, after the complexities of section 252(e)(6) have been 
+unraveled, the Act could fairly be read as utterly inapplicable to enforcement 
+cases, there would still be no possible interpretation of section 252(e)(6) that 
+would actually withdraw the federal question jurisdiction conferred by 
+section 1331. 
+
+
+34 
+
+
+that the effects of the Commissioners’ determination is 
+ongoing. See MCI-II, 222 F.3d at 345 (the “challenged 
+determinations are still in place, and the carriers seek to have 
+the commissioners conform their future actions, including their 
+continuing enforcement of the challenged determinations, with 
+federal law. . . . Such relief is precisely the type contemplated 
+by the Ex parte Young doctrine”). Nor do Petitioners or their 
+supporting amici contest the fact that Ameritech’s complaint 
+alleged ongoing violations of federal law. JA 140a-143a. 
+
+
+'° Only the Fourth Circuit has reasoned that the elements of an Ex 
+parte Young action are not met in the enforcement context because a 
+carrier's complaint does not arise under federal law but, rather, arises under 
+the interconnection agreement itself and, therefore, under state contract law. 
+See Bell Atlantic Maryland, Inc., 240 F.3d 279; BellSouth Telecomms., 240 
+F.3d 270. That reasoning is flawed and no party adopts it here. In that case, 
+the Fourth Circuit acknowledged that Bell Atlantic's complaint alleged that 
+the state commission's determinations violated both federal and state law. 
+It concluded that Bell Atlantic's federal claims lacked merit, however, and 
+that its only potentially meritorious claims were its state contract law claims 
+based on the terms of the interconnection agreement. Bell Atlantic, 240 F.3d 
+at 295-97. Accordingly, the court held that Bell Atlantic's complaint could 
+not be maintained under Ex parte Young because it did not arise under 
+federal law and, therefore, the state interest outweighed any federal interest 
+in the matter. /d. at 297-98. But the rule of Ex parte Young does not require 
+that the allegations arising under federal law be meritorious. If it did, courts 
+would be required to pre-judge and rule on the merits of the plaintiff's 
+federal causes of action before determining whether the court had 
+jurisdiction to do so. Instead, this Court has made clear that Ex parte Young 
+requires only that the plaintiff a//ege a non-frivolous violation of federal! 
+law. See Coeur d'Alene, 521 U.S. at 281 (“An allegation of an ongoing 
+violation of federal law . . . is ordinarily sufficient”) (emphasis added); 
+Papasan v. Allain, 478 U.S. 265, 281-83 (1986) (first determining whether 
+plaintiff alleged ongoing violations of federal law, and then addressing 
+whether those allegations warranted relief on their merits); see also Bell 
+Atlantic, 240 F.3d at 317 n.9 (King, J., dissenting). 
+
+
+35 
+
+
+Instead, Petitioners argue that they cannot be accused of 
+having violated federal law by having erroneously applied it. 
+Pet. Br. at 42-45. That argument has no basis in this Court’s Ex 
+parte Young jurisprudence. Petitioners rely primarily on 
+Larson v. Domestic & Foreign Commerce Corp., 337 U.S. 682 
+(1949), for the proposition that government officials do not lose 
+sovereign immunity where they have been given the authority 
+to apply the law but have done so incorrectly. In Larson, a 
+private corporation brought suit in federal court against a 
+federal official — the Administrator of the federal War Assets 
+Administration — alleging that the official had breached the 
+Administration’s contract with the corporation by failing to 
+make a delivery thereunder. /d. at 685-86. The Court ruled 
+that the federal official’s erroneous interpretation of federal 
+common law was not sufficient to strip him of sovereign 
+immunity. /d. However, the Court expressly distinguished the 
+case before it from cases such as Ex parte Young where a state 
+official is alleged to have violated federal law and, therefore, is 
+deemed to be acting under an unconstitutional grant of power. 
+Id. at 690-91 (citing Philadelphia Co. v. Stimson, 223 U.S. 605, 
+620 (1912) (citing Ex parte Young)). 
+
+
+Larson has no applicability here, where state officials are 
+alleged to be violating federal law. Indeed, the ICC 
+Defendants’ reliance on Larson ignores the fundamental 
+Supremacy Clause concerns that underlie Ex parte Young. See 
+Green, 474 U.S. at 68 (“Ex parte Young gives life to the 
+Supremacy Clause” and is “necessary to vindicate the federal 
+interest in assuring the supremacy of [federal] law”). The 
+power of federal courts to enforce the Supremacy Clause under 
+Ex parte Young does not turn on whether state officials purport 
+to be acting pursuant to state rather than federal law, but on the 
+fact that they are state rather than federal officials and their 
+actions are contrary to federal law. As the Court explained in 
+
+
+36 
+
+
+Pennhurst, “[T)he Young doctrine has been accepted as 
+necessary to permit the federal courts to vindicate federal rights 
+and hold state officials responsible to ‘the supreme authority of 
+the United States.’” 465 U.S. at 105 (emphasis added) (quoting 
+Ex parte Young, 209 U.S. at 160). See also New York v. United 
+States, 50S U.S. 144, 179 (1992) (“the Supremacy Clause 
+makes federal law paramount over the contrary positions of 
+state officials; the power of federal courts to enforce federal 
+law thus presupposes some authority to order state officials to 
+
+
+comply’). 
+
+
+The dual sovereignty that characterizes our constitutional 
+order draws a fundamental distinction between state and federal 
+officials. See, e.g., Printz v. United States, 521 U.S. 898, 918- 
+22 (1997). Federal executive officials are subject to the 
+ultimate control of the President, who heads one of the co-equal 
+branches of the federal government and is accountable to the 
+Nation. See id. at 922-23. If Congress believes that control by 
+the President is insufficient to ensure that federal officials 
+comply with federal law, Congress can waive sovereign 
+immunity to permit federal court review of the lawfulness of 
+executive action, as it has done in the Administrative Procedure 
+Act. See 5 U.S.C. § 702. Thus, the Supremacy Clause 
+concerns that underlie Ex parte Young are altogether absent in 
+such a Larson-type situation.” 
+
+
+| '’ Similarly, Supremacy Clause concerns are absent in the 
+situation addressed by Pennhurst, which the ICC Defendants also cite for 
+the proposition that Ex parte Young does not apply when government 
+officials are acting within the scope of their authority. Pennhurst addressed 
+the availability of “injunctive relief against state officials on the basis of 
+state law.” 465 U.S. at 91 (emphasis added). Not surprisingly, the Court 
+held that “[{i)n such a case the entire basis for the doctrine of Young and 
+Edelman disappears. A federal court's grant of relief against state officials 
+(continued...) 
+
+
+37 
+
+
+In contrast, State officials are accountable to the people of 
+their respective states, not the federal executive. See Priniz, 
+§21 U.S. at 920 (“The Constitution thus contemplates that a 
+State’s government will represent and remain accountable to its 
+own citizens”). Further, except in narrow circumstances, 
+Congress cannot abrogate the Eleventh Amendment immunity 
+of the states to ensure that state officials comply with federal 
+law. See Seminole Tribe, 517 U.S. at 55-73. Nor can Congress 
+subject an unwilling State to suit in its own courts. A/den, 527 
+U.S. at 730-54. That leaves states free to shield their officials 
+from judicial enforcement of federal law — unless Ex parte 
+Young applies. \t is for that very reason that the Court in Alden 
+stressed that Ex parte Young is an “essential . . . part of our 
+sovereign immunity doctrine.” /d. at 748. 
+
+
+The need for Ex parte Young to vindicate the Supremacy 
+Ctause is not diminished where, as here, state officials take 
+action pursuant to a federal law that they are authorized to carry 
+out, but do so in a way that violates that federal law. When 
+they are administering federal law, state officials remain the 
+agents of an independent sovereign outside the direct control of 
+the federal executive and federal courts, except insofar as Ex 
+parte Young applies. The Supremacy Clause is not concerned 
+with the legal source of a state officials’ power to make policy 
+decisions — such as those governing interconnection agreements 
+— but “turns on the actual content of [the state official's] policy 
+and its real effect on federal rights.” Livadas v. Bradshaw, 512 
+
+
+'” (continued) 
+on the basis of state law, whether prospective or retroactive, does not 
+vindicate the supreme authority of federal law.” Id. at 106 (emphasis 
+added); see also Papasan, 478 U.S. at 277 (1986) (“In such a case, federal 
+supremacy is not implicated because the state official 1s acting contrary to 
+
+
+state law only”). 
+
+
+38 
+
+
+U.S. 107, 119 (1994). Thus, in Edelman v. Jordan, this Court 
+applied Ex porte Young to the policies pursued by state officials 
+under a “federal-state program” which — like arbitration and 
+approval of interconnecticn agreements under the 1996 Act — 
+was largely administered by state officials within parameters set 
+by federal law. See 415 U.S. 651, 653-54, 671-73 (1974); see 
+also Quern v. Jordan, 440 U.S. 332, 346-49 (1979) (affirming 
+prospective relief in sequel case to Edelman). 
+
+
+In sum, the fact that the ICC Commissioners were alleged 
+to have violated federal law in the course of administering a 
+federal regulatory program does not undermine the applicability 
+of Ex parte Young. To the contrary, this is a “straightforward 
+Ex parte Young case.” MCI-II, 222 F.3d at 345.1% 
+
+
+Petitioners next rely on Seminole Tribe, where the Court 
+held that the inclusion in a statute of an express and very 
+limited set of judicial remedies against the state impliedly 
+precluded reliance on Ex parte Young. Pet. Br. 45-48 (citing 
+Seminole Tribe, 517 U.S. at 74). But there is nothing in the 
+1996 Act that would suggest that reliance on Ex parte Young is 
+somehow precluded. Section 252(e)(6) simply authorizes an 
+aggrieved party to bring an action in federal court to “determine 
+whether [an interconnection] agreement or statement [approved 
+or rejected by a state commission or the FCC] meets the 
+
+
+'*  Livadas addressed the question whether a policy pursued by a 
+state official was preempted by the National Labor Relations Act. The 
+Supremacy Clause is, of course, the foundation for such preemption claims. 
+
+
+'* AT&T Communications v. BellSouth Telecomms., Inc., 238 
+F.3d 636, 647 (Sth Cir. 2001) (same); MC/ Telecomms. Corp. v. Public 
+Serv. Comm'n of Utah, 216 F.3d 929, 939 (10th Cir. 2000) (same), cert. 
+denied, 121 S. Ct. 1167 (2001); Michigan Bell Tel. Co. v. Climax Tel. Co., 
+202 F.3d 862, 867 (6th Cir.) (same), cert. denied, $31 U.S. 816 (2000). 
+
+
+39 
+
+
+requirements of section{[s) 251” and 252. 47 U.S.C. 
+§ 252(e)(6). That is precisely what Ex parte Young permits: a 
+“suit against a state officer in order to ensure that the officer’s 
+conduct is in compliance with federal law.” Seminole Tribe, 
+517 U.S. at 71 n.14 (describing contours of Ex parte Young). 
+Section 252(e)(6) of the Act thus raises none of the concerns 
+
+
+present in Seminole Tribe. 
+
+
+In Seminole Tribe, the Court reviewed the “carefully 
+crafted and intricate remedial scheme” of the Indian Gaming 
+Regulatory Act (“IGRA”) in which “Congress intended ... not 
+only to define, but also to limit significantly, the duty imposed” 
+on federal courts by the statute. 517 U.S. at 73-74. The Court 
+held that the IGRA was unique insofar as it prescribed a very 
+formal and intricate mediation scheme in which federal district 
+courts play an extremely limited part.” /d. at 75. For example, 
+
+
+2° This Court described the intricacies and limited nature of the 
+judicial review provisions under the IGRA, as follows: . 
+
+A tribe that brings an action under § 2710(d)(7)A){i) must show 
+that no Tribal-State compact has been entered and that the State 
+failed to respond in good faith to the tribe's request to negotiate; 
+at that point, the burden then shifts to the State to prove that it did 
+in fact negotiate in good faith. § 2710(d)(7)(B)(ii). If the district 
+court concludes that the State has failed to negotiate in good faith 
+toward the formation of a Tribal-State compact, then it “shall order 
+the State and Indian Tribe to conclude such a compact within a 
+60-day period.” § 2710(d)(7)(B)iii). If no compact has been 
+concluded 60 days after the court’s order, then “the Indian tribe 
+and the State shall each submit to a mediator — os 
+court a proposed compact that represents their last o 4 
+compact.” § 2710(d)(7B)iv). The mediator chooses from 
+between the two proposed compacts the one “which best comports 
+with the terms of [the Act] and any other applicable Federal law 
+and with the findings and order of the court,” ibid., and submits it 
+to the State and the Indian tribe, § 2710(d)(7(B)(v). If the State 
+
+(continued...) 
+
+
+40 
+
+
+although the IGR/_ authorized federal courts to order a state to 
+negotiate in good faith, it barred enforcement of those orders. 
+Id. at 74-75. Thus, the Court in Seminole Tribe saw a clear 
+inconsistency between the limited remedies availabie against 
+the state under the IGRA and an Ex parte Young action, where 
+the typical remedy is an enforceable injunction. 
+
+
+Nothing in section 252 limits federal court review in a 
+remotely comparable manner. In fact, allowing Ex parte Young 
+suits to proceed pursuant to section 252(e)(6) furthers 
+Congress’s intent to allow federal courts to address ongoing 
+violations of federal law by state officials. Unlike the IGRA, 
+for example, the Act does not prohibit courts from ordering any 
+equitable remedies. Absent an express limitation, federal 
+courts “presume the availability of all appropriate remedies” 
+under a federal statute. Franklin v. Gwinnett County Pub. 
+Schs., 503 U.S. 60, 66 (1992).2/ 
+
+
+»° (...continued) 
+
+consents to the proposed compact within 60 days of its submission 
+by the mediator, then the proposed compact is “treated as a 
+Tribal-State compact entered into under paragraph (3).” § 
+2710(4\ 7B) vi). If, however, the State does not consent within 
+that 60-day period, then the Act provides that the mediator “shall 
+notify the Secretary [of the Interior]” and that the Secretary “shall 
+prescribe .. . procedures . . . under which class III gaming may be 
+conducted on the Indian lands over which the Indian tribe has 
+jurisdiction. § 2710(d)(7)(B) vii). 
+
+517 US. at 50. 
+
+
+*' Amici NARUC, et ai., attempt to liken the IGRA’s detailed and 
+limited judicial review provisions to the 1996 Act by comparing the IGRA’s 
+judicial review provisions with the 1996 Act’s procedures for arbitrating 
+— ion agreements before state commissions. NARUC Br. 22-23. 
+
+is an apples-to-oranges comparison. The only relevant comparison is 
+between the IGRA’s judicial review scheme and the 1996 Act’s judicial 
+(continued...) 
+
+
+41 
+
+
+Seminole Tribe also held that the IGRA specifically 
+requires that “the State” be named as the defendant in any 
+lawsuit under that statute, and that no individual state officer or 
+group of officers, if sued in their official capacities under Ex 
+parte Young, would be functionally equivalent to “the State” 
+for purposes of carrying out the State’s duties under the IGRA. 
+517 U.S. at 75n.17. The Court saw this as further confirmation 
+that Congress contemplated suits against states and not Ex 
+parte Young actions against individual state officers. /d. at 75- 
+
+
+76 & n.17. 
+
+
+Here, by contrast, nothing in the Act requires that actions 
+be brought against “the State.” Petitioners’ argument to the 
+contrary is simply incorrect. See Pet. Br. at 46-48; see also Br. 
+of NARUC at 23-24. Section 252 does not specify who must 
+be a party in federal court, but simply provides for “Review Of 
+State Commission Actions.” Because Ex parte Young is the 
+traditional mechanism for such review in federal court, the 
+natural inference from the statutory text is that Congress 
+intended such suits to be brought on that basis. See Prentis v. 
+Atlantic Coast Line Co., 211 U.S. 210, 230-31 (1908) (“a bill 
+against the commission to restrain the members from enforcing 
+[an order] will not be bad . . . as a suit against a State, and will 
+be the proper form of remedy”) (citing Ex parte Young among 
+other cases); cf 5 U.S.C. § 702 (waiving immunity from 
+injunctive relief against federal agencies and officials of federal 
+agencies in suits seeking review of agency action). Moreover, 
+the term “state commission” is expressly defined in the Act to 
+
+
+“| (...continued) 
+review provision, section 252(e)(6), which provides for review of state 
+commission actions for compliance with federal law without limitation as to 
+remedy. 
+
+
+42 
+
+
+include any “commission, board, or official (by whatever name 
+designated)” exercising jurisdiction over intrastate operations 
+of carriers. 47 U.S.C. § 153(41). Contrary to the claims of 
+Petitioners and their supporting amici, that definition is 
+certainly broad enough to include the Commissioners, sued in 
+their official capacity, who are the proper defendants in an Ex 
+parte Young action.” The Act’s authorization of suits against 
+state commissions thus applies with equal force to suits against 
+state commissioners, whether directly under section 252(e)(6) 
+or under 28 U.S.C. § 1983. Accordingly, an Ex parte Young 
+action against state commissioners in their official capacities 
+would not “‘supplement’ the scheme created by Congress.” 
+Pet. Br. 48. To the contrary, it would effectuate it. See Coeur 
+d'Alene, 521 U.S. at 296 (O’Connor, J., concurring) 
+‘-xplaining that fact that suit names numerous public officials 
+does not remove it from the scope of permissible Ex parte 
+Young actions). 
+
+
+* Seminole Tribe's limitation on Ex parte Young suits applies 
+only where Congress has enacted a limited remedial scheme for the 
+enforcement of statutory rights “against a State.” Seminole Tribe, 517 U.S. 
+at 74. If this Court were to find that the 1996 Act does not expressly 
+provide a remedy against a State, then, by its own terms, Seminole Tribe's 
+we on the remedies available in an Ex parte Young action would not 
+apply. 
+
+
+** Petitioners cite the Fourth Circuit's assertion that, absent a text- 
+based evidence that Congress intended to authorize suits against individual 
+state commissioners, such suits “would be an affront to the sovereignty of 
+the State .. . and would undermine the mutual respect that characterizes the 
+relationship between the federal and State sovereigns.” Pet. Br. 47-48 
+(quoting Bell Atlantic Maryland, 240 F 3d at 279). But the Act expressly 
+authonzes federal review of state commission determinations and defines 
+“State commission” to include the individual state commissioners thereof. 
+See 47 U.S.C. § 153(41). Moreover, the Fourth Circuit adopted a balancing 
+approach to Ex parte Young that this Court has expressly rejected. Compare 
+
+(continued...) 
+
+
+43 
+
+
+In addition to Petitioners’ arguments, their supporting 
+amici raise a litany of meritless arguments. NARUC, for 
+example, mistakenly relies on Coeur d'Alene for the 
+proposition that Ameritech’s suit against the Commissioners 
+would unlawfully encroach on core matters of state 
+sovereignty. NARUC Br. 24-25. In Coeur d'Alene, which was 
+expressly limited to its facts, 521 U.S. at 287, this Court held 
+that the Ex parte Young suit brought there could not proceed 
+because it was in essence a quiet title action that would “bar the 
+State’s principal officers from exercising their governmental 
+authority over the disputed lands and waters” and “would 
+diminish, even extinguish, the State’s control over a vast reach 
+of lands and waters.” 521 U.S. at 282. This suit, by contrast, 
+is to enforce the statutory mandates of the 1996 Act, by which 
+(as to matters covered by the Act such as interconnection 
+agreements among competitors) Congress “unquestionably” 
+“has taken regulation of local competition away from the 
+States.” AT&T Corp., 525 U.S. at 378 n.6. Moreover, what 
+Congress took away from the states in the 1996 Act — 
+regulatory authority over a small slice of intrastate 
+telecommunications — is not an inviolable core of state 
+sovereignty like the authority over a state’s lands and waters 
+but, rather, was ceded to the states by Congress in the 
+Communications Act of 1934. See 47 U.S.C. § 152(b); 
+Louisiana Pub. Serv. Comm'n v. FCC, 476 U.S. 355 (1986). 
+This case does not remotely implicate the unique sovereignty 
+interests at issue in Coeur d ‘Alene. 
+
+
+» (...continued) 
+240 F.3d at 295-96 with Coeur d'Alene, 521 U.S. at 295-96 (O’Connor, J., 
+concurring), and id. at 298-99 (Souter, J., dissenting). And it applied that 
+balancing test by anticipating the merits of the case, rather than just 
+examining the allegations of the complaint as the doctrine requires. See 
+Coeur d'Alene, 521 U.S. at 294-96 (O'Connor, J., concurring); id. at 312-13 
+
+
+(Souter, J., dissenting). 
+
+
+44 
+
+
+Several amici also argue that resort to Ex parte Young 
+should not be permitted here because it is not “necessary” in 
+that the parties’ could have challenged the ICC’s decision in 
+state court. N.J. Br. 29; Council Br. 28; Br. of Amicus Curiae 
+Pa. Pub. Utils. Comm’n 14-16 (“Pa. PUC Br.”). That 
+argument was flatly rejected by a majority of this Court in 
+Coeur d'Alene. See 521 U.S. at 291-93 (O’Connor, J., 
+concurring); id. at 312-17 (Souter, J., dissenting). The 
+availability of relief under Ex parte Young in no way depends 
+on the absence of available state remedies.2” 
+
+
+* Similarly, a number of amici contend that resort to Ex parte 
+Young is inappropriate because this case is “an ordinary administrative 
+appeal” from a state agency and thus belongs in state court. N.J. Br. 27; 
+Council Br. 21; Pa. PUC Br. 4. But Ex parte Young is the traditional 
+mechanism for federal court review of any state commission order that 
+violates federal law, ordinary or not. See Alabama Pub. Serv. Comm'n v. 
+Southern Ry. Co., 341 U.S. 341, 344 n.4 (1951) (rejecting challenge by state 
+public service commissioners to federal judicial review of commission 
+orders “in view of the many cases prior to and following Ex parte Young... 
+in which this Court has granted such relief over the same objection”); 
+Prentis, 211 U.S. at 230-31. Moreover, this is far from an ordinary state 
+administrative appeal. With the 1996 Act, Congress radically altered the 
+balance of state authority over the local telecommunications industry by 
+imposing uniform national standards and policies, H.R. Conf. Rep. No. 104- 
+458, at | (1996), and by vesting the federal courts with jurisdiction over 
+state commission determinations. See AT&T Corp., 525 U.S. at 378 n.6. 
+The latter action clearly was viewed as necessary to assure a consistent 
+implementation of this important new federal statutory scheme. 
+
+
+** Finally, the Council of State Governments and other amici 
+contend that the injunctive relief sought by Ameritech is barred by the Anti- 
+Injunction Act and Younger abstention. Council Br. 19-28. But the Anti- 
+Injunction Act does not apply to lawsuits authorized by Congress. 28 
+U.S.C. § 2283. Here, resort to federal court is expressly authorized by 
+§ 252(e)(6) and 42 U.S.C. § 1983. More fundamentally, the Anti-Injunction 
+
+(continued...) 
+
+
+45 
+
+
+In sum, there is no reason to doubt that Ex parte Young is 
+fully applicable here. 
+
+
+l.THE ICC WAIVED ANY ELEVENTH 
+AMENDMENT IMMUNITY BY ACCEPTING THE 
+BENEFIT OF ADMINISTERING THE ACT. 
+
+
+Although the Court need not reach the question, the 
+Eleventh Amendment also would not bar the instant 
+proceedings because the ICC waived any Eleventh Amendment 
+immunity by voluntarily assuming a role in administering the 
+1996 Act — an opportunity that Congress conditioned upon 
+subsequent federal court review. Contrary to the arguments of 
+Petitioners and their supporting amici, this Court's recent 
+decision in College Savings does not foreclose the possibility 
+that a state may waive its Eleventh Amendment immunity 
+without an express statement to that effect. Indeed, College 
+
+
+Savings stands for just the opposite proposition. Moreover, the 
+
+
+> (...continued) 7 : 
+Act prohibits only injunctions to “stay proceedings in a State court. 28 
+U.S.C. § 2283. The injunctive relief sought by Ameritech would run against 
+the ICC Commissioners, not a state court. = 
+
+Younger abstention is equally inapposite. As a — — 
+doctrine of comity it, too, is inapplicable where Congress expressly 
+provided for periiey lawsuits. Moreover, while the ICC Defendants’ 
+violation of federal law remains ongoing, the proceedings before the ICC 
+have terminated. JA 96a-124a. This Court has never applied Younger 
+abstention to completed proceedings of an agency. See New Orleans Pub. 
+Serv., Inc. v. Council of New Orleans, 491 U.S. 350, 369 n.4 ( 1989). To do 
+so would effectively impose a revolutionary requirement that parties exhaust 
+all state court remedies before challenging state administrative 
+determinations in federal court. But see Edwards v. Balisok, 520 U.S. 641, 
+649 (1997) (citing a long line of cases holding that “§ 1983 contains no 
+
+
+judicially imposed exhaustion requirement”). 
+
+
+46 
+
+
+opportunity to participate in the administration of the 1996 Act 
+is a good example the kind of “gratuity” that the College 
+Savings Court said could be validly conditioned by Congress on 
+a waiver of Eleventh Amendment immunity. 
+
+
+A. College Savings Reaffirms that States Voluntarily 
+Waive Eleventh Amendment Immunity by 
+Accepting a Federal Benefit Clearly Conditioned 
+on Such Waiver. 
+
+
+Eleventh Amendment immunity is waived by a state’s 
+consent to suit. College Savings, 527 U.S. at 675-76. in 
+College Savings, this Court clarified the conditions that must 
+be satisfied to guarantee that such a waiver is “voluntary” and 
+“unequivocal” when it is effected through the state’s 
+acceptance of a federal benefit. /d. The Court held that 
+Congress cannot make consent a precondition for a state to 
+engage in an “otherwise permissible activity,” because 
+exclusion of a state from such an activity is a “sanction” that 
+“coerces” a state into consenting to suit. /d. at 687. Thus, “the 
+voluntariness of waiver [is] destroyed — when what is attached 
+to the refusal to waive is the exclusion of the state from 
+otherwise lawful activity.” /d. For the same reason, engaging 
+in “otherwise permissible activity” cannot be an unequivocal 
+expression of a state’s intent to waive its immunity. /d. at 681- 
+83 (overruling Parden v. Terminal Ry. Co. of Alabama State 
+Docks Dep't, 377 U.S, 184 (1964)).2% 
+
+
+** Waiver of sovereign immunity, like waiver of individual 
+constitutional rights, is effective if it is an “intentional relinquishment or 
+abandonment of a known right or privilege.” College Savings, 527 U.S. at 
+682 (quoting Johnson v. Zerbst, 304 U.S. 458, 464 (1938)). As the Court 
+recognized in College Savings, waiver need not be express in order to be 
+intentional. See id. at 678-81. 
+
+
+47 
+
+
+By contrast, a state’s consent to suit is voluntary, and not 
+coerced, when Congress seeks such consent by offering a 
+benefit instead uf by threatening a sanction. /d. at 686-87. 
+Thus, Congress may validly require a state to consent to suit as 
+a precondition for accepting a benefit, which College 
+Savings called a “gratuity.” Jd. One example of a “gratuity” is 
+money offered by Congress pursuant to its Article I Spending 
+Clause powers. /d. (citing South Dakota v. Dole, 483 U.S. 203 
+(1987)). Another is Congress’s approval of an interstate 
+compact. Jd. (citing Petty v. Tennessee-Missouri Bridge 
+Comm 'n, 359 U.S. 275 (1959)). Like disbursement of federal 
+funds, Congress’s approval of an interstate compact is a benefit 
+because “States cannot form an interstate compact without first 
+obtaining the express consent of Congress; the granting of such 
+consent is a gratuity.” /d. 
+
+
+Thus, Congress may offer states benefits in exchange for 
+their waiver of Eleventh Amendment immunity, and when 
+states accept the benefit the waiver occurs. Indeed, in a 
+companion case to College Savings, this Court reiterated that, 
+“subject to constitutional limitations, . . . the Federal 
+Government [does not] lack the authority or means to seek the 
+States’ voluntary consent to private suits.” Alden, 527 U.S. at 
+755 (citing South Dakota v. Dole, 483 U.S. 203 (1987)). 
+
+
+B. Congress Properly Conditioned State 
+Participation in the Act on Waiver of a State’s 
+Eleventh Amendment Immunity. 
+
+
+The Seventh Circuit was correct that the invitation for 
+states to participate in the implementation of the Act is the kind 
+of benefit that Congress may condition on waiver of Eleventh 
+Amendment immunity. Participation in the administration of 
+the 1996 Act is an opportunity that Congress could choose to 
+
+
+48 
+
+
+grant or withhold at its pleasure, and the states are free to 
+accept or decline the benefit of that participation. 
+
+
+Under the Act, the substantive law applicable to 
+interconnection between telecommunications carriers was 
+substantially “federalized,” regardless of whether a state 
+chooses to participate in the administration of those federal 
+requirements. Congress, acting pursuant to its authority under 
+the Commerce Clause to regulate entry into local telephone 
+markets, see Hodel v. Virginia Surface Mining & Reclamation 
+Ass'n, 452 U.S. 264, 290-91 (1981), “has taken the regulation 
+of local telecommunications competition away from the states 
+. .. [w]ith regard to the matters addressed by the 1996 Act,” 
+AT&T Corp., 525 U.S. at 378 n.6. 
+
+
+It follows that administration of the Act’s scheme is not an 
+“otherwise permissible activity” in which a state could engage 
+without Congress’ permission. Rather, that administration is a 
+benefit conferred upon a state by Congress. As the Tenth 
+Circuit reasoned: 
+
+
+[W]ith the passage of the 1996 Act, Congress essentially 
+transformed the regulation of local phone service from an 
+otherwise permissible state activity into a federal gratuity. 
+As in Petty and Dole, Congress was under no obligation to 
+allow states to participate in the Act’s regulatory scheme. 
+Accordingly, by conditioning a state’s ability to regulate 
+local phone service on its consent to suit in federal court, 
+Congress threatened the state with the denial of a gratuity 
+rather than exclusion from an otherwise lawful activity. 
+
+
+MCI Telecomms. Corp. v. Public Serv. Comm'n of Utah, 216 
+F.3d 929, 938 (10th Cir. 2000), cert. denied, 121 S. Ct. 1167 
+(2001); see MCI-II, 222 F.3d at 343-44 (“Congress could — and 
+
+
+49 
+
+
+did — take over regulation of a part of the telecommunications 
+industry in accordance with its Commerce Power. Such 
+regulation is no longer an ‘otherwise permissible activity’ for 
+states”). 
+
+
+For those reasons, assuming Congress was sufficiently 
+clear about the fact that state participation was conditioned on 
+a waiver, there is every reason to treat acceptance of that 
+benefit as a valid waiver of Eleventh Amendment immunity.” 
+With respect to commission decisions approving or rejecting 
+interconnection agreements, Congress could not have been 
+more clear. Section 252(e)(6) plainly authorizes review in 
+federal court of such decisions, and section 252(e)(4) 
+meanwhile precludes review in state court. As for enforcement 
+activities, the condition may not be quite as clear, but for the 
+reasons stated in Section I, supra, we submit that states still can 
+fairly be said to be on notice that their enforcement actions will 
+be reviewed in federal court if they choose to participate under 
+the Act. 
+
+
+To be sure, a state commission may want to participate in 
+every determination under the Act, rather than leave any matter 
+to the FCC, and may prefer not to waive immunity at the same 
+time. But the same is true of any benefit or “gratuity” offered 
+by Congress: states would prefer to have it, and often without 
+the conditions Congress attaches. The desirability of the 
+benefit, however, does not make Congress’ invitation coercive 
+rather than voluntary. See South Dakota v. Dole, 483 U.S. 203, 
+
+
+27 If Congress had acted sequentially — first preempting all of local 
+interconnection and then a year later authorizing states to participate if they 
+waived their immunity — the application of the “gratuity” analysis would be 
+easy. It cannot make a difference that Congress took both steps in the same 
+Act. 
+
+
+50 
+
+
+211 (1987) (a gratuity is not “unconstitutional simply by reason 
+of its success in achieving the congressional objective”).7” 
+
+
+Because the ICC voluntarily accepted the benefit of 
+participating in the administration of the 1996 Act and was on 
+clear notice that doing so would subject it to federal court 
+jurisdiction, it waived its Eleventh Amendment immunity with 
+respect to claims that its decisions violate the Act. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the decision of the Seventh 
+Circuit should be affirmed. 
+
+
+Respectfully submitted, 
+
+
+** Nothing in the Act requires states to waive their immunity in 
+order to regulate aspects of local telecommunications that are not addressed 
+by the Act. The Act’s local competition provisions concern only one narrow 
+(albeit important) slice of regulation: interconnection between competing 
+carriers. See Puerto Rico Tel. Co. v. Telecommunications Reg. Bd. of P.R., 
+189 F.3d 1, 11-12 (1st Cir. 1999). A state that declines to participate in the 
+regulation of interconnection under the Act can continue regulating the vast 
+bulk of intrastate telecommunications. 
+
+
+DARRYL M. BRADFORD 
+JOHN J. HAMILL 
+JENNER & BLOCK, LLC 
+One IBM Plaza 
+Chicago, Illinois 60611 
+(312) 222-9350 
+
+
+51 
+
+
+PAUL M. SMITH* 
+
+WILLIAM M. HOHENGARTEN 
+MICHAEL B. DESANCTIS 
+JENNER & BLOcK, LLC 
+
+601 13th Street, N.W. 
+Washington, D.C. 20005 
+(202) 639-6000 
+
+
+*Counsel of record 
+
+
+Counsel for Respondents WorldCom Technologies, 
+Inc., MCI WORLDCOM Network Services, Inc., 
+MCI netro Access Transmission Services LLC, and 
+Foce Communications Corp. 
+
+
+RICHARD METZGER 
+
+MATTHEW BERNS 
+
+FOCAL COMMUNICATIONS 
+Corr. 
+
+7799 _eesburg Pike 
+
+Falls Church, VA 22043 
+
+(703) 637-8700 
+
+
+Counsel for Respondent 
+
+
+Focal Communications Corp. 
+
+
+THOMAS F. O’ Nei Il 
+WILLIAM SINGLE, IV 
+BRIAN J. LESKE 
+WorLDCoM, INC. 
+
+1133 19th Street, N.W. 
+Washington, D.C. 20036 
+(202) 736-6096 
+
+
+Counsel for Respondents 
+
+WorldCom Technologies, Inc., 
+
+MCI WORLDCOM Network 
+
+Services, Inc. and MClImetro Access 
+Transmission Services LLC 
+
+

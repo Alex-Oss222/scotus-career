@@ -1,0 +1,59 @@
+Source: https://www.law.cornell.edu/supct/html/01-46.ZS.html
+
+
+
+FEDERAL MARITIME COMM’N V. SOUTH CAROLINAPORTS AUTHORITY
+
+LII
+
+Supreme Court
+
+FEDERAL MARITIME COMM’N V. SOUTH CAROLINAPORTS AUTHORITY (01-46) 
+243 F.3d 165, affirmed.
+Syllabus
+ Opinion
+ [ Thomas ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+FEDERAL MARITIME COMMISSION v. SOUTH 
+CAROLINA STATE PORTS AUTHORITY et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+ 
+No. 01—46.  Argued February 25, 2002–Decided May 28, 2002
+
+South Carolina Maritime Services, Inc. (Maritime Services), filed a complaint with petitioner Federal Maritime Commission (FMC), contending that respondent South Carolina State Ports Authority (SCSPA) violated the Shipping Act of 1984 when it denied Maritime Services permission to berth a cruise ship at the SCSPA’s port facilities in Charleston, South Carolina; and praying that the FMC, inter alia, direct the SCSPA to pay reparations to Maritime Services, order the SCSPA to cease and desist from violating the Shipping Act, and ask the United States District Court for the District of South Carolina to enjoin the SCSPA from refusing berthing space and passenger services to Maritime Services.  The complaint was referred to an Administrative Law Judge (ALJ), who found that the SCSPA, as an arm of the State of South Carolina, was entitled to sovereign immunity and thus dismissed the complaint.  Reversing on its own motion, the FMC concluded that state sovereign immunity covers proceedings before judicial tribunals, not Executive Branch agencies.  The Fourth Circuit reversed.
+
+Held: State sovereign immunity bars the FMC from adjudicating a private party’s complaint against a nonconsenting State.  Pp. 6—25.
+
+    (a) Dual sovereignty is a defining feature of the Nation’s constitutional blueprint, and an integral component of the sovereignty retained by the States when they entered the Union is their immunity from private suits.  While States, in ratifying the Constitution, consented to suits brought by sister States or the Federal Government, they maintained their traditional immunity from suits brought by private parties.  Although the Eleventh Amendment provides that the “judicial Power of the United States” does not “extend to any suit, in law or equity,” brought by citizens of one State against another State, U.S. Const., Amdt. 11, that provision does not define the scope of the States’ sovereign immunity; it is instead only one particular exemplification of that immunity.  As a result, this Court’s assumption that the FMC does not exercise the judicial power of the United States in adjudicating Shipping Act complaints filed by private parties does not end the inquiry whether sovereign immunity applies to such adjudications.  Pp. 6—9.
+
+      (b) Formalized administrative adjudications were all but unheard of in the late 18th and early 19th centuries, so it is unsurprising that there is no specific evidence indicating whether the Framers believed that sovereign immunity would apply to such proceedings.  However, because of the presumption that the Constitution was not intended to “rais[e] up” any proceedings against the States that were “anomalous and unheard of when the Constitution was adopted,” Hans v. Louisiana, 134 U.S. 1, 18, this Court attributes great significance to the fact that States were not subject to private suits in administrative adjudications at the time of the founding or for many years thereafter.  Pp. 9—10.
+
+      (c) To decide whether the Hans presumption applies here, this Court must determine whether FMC adjudications are the type of proceedings from which the Framers would have thought the States possessed immunity when they agreed to enter the Union.  This Court previously has noted that ALJs and trial judges play similar roles in adjudicative proceedings and that administrative adjudications and judicial proceedings generally share numerous common features.  Butz v. Economou, 438 U.S. 478, 513, 514.  Turning to FMC adjudications specifically, neither the FMC nor the United States disputes the Fourth Circuit’s characterization that such a proceeding walks, talks, and squawks like a lawsuit or denies that the similarities identified in Butz between administrative adjudications and trial court proceedings are present here.  FMC administrative proceedings bear a remarkably strong resemblance to federal civil litigation.  The rules governing pleadings in both types of proceedings are quite similar; discovery in FMC adjudications largely mirrors that in federal civil litigation; the role of the ALJ is similar to that of an Article III judge; and, in situations not covered by an FMC rule, the Commission’s own Rules of Practice and Procedure provide that Federal Rules of Civil Procedure are to be used if consistent with sound administrative practice.  Pp. 10—14.
+
+      (d) State sovereign immunity’s preeminent purpose–to accord States the dignity that is consistent with their status as sovereign entities–and the overwhelming similarities between FMC adjudicative proceedings and civil litigation lead to the conclusion that the FMC is barred from adjudicating a private party’s complaint against a nonconsenting State.  If the Framers thought it an impermissible affront to a State’s dignity to be required to answer private parties’ complaints in federal court, they would not have found it acceptable to compel a State to do the same thing before a federal administrative tribunal.  And it would be quite strange were Congress prohibited from exercising its Article I powers to abrogate state sovereign immunity in Article III judicial proceedings, but permitted to use those same powers to create court-like administrative tribunals where sovereign immunity would not apply.  Pp. 14—16.
+
+      (e) Two arguments made by the United States to support its claim that sovereign immunity does not apply to FMC proceedings are unavailing.  That the FMC’s orders are not self-executing does not mean that a State is not coerced into participating in an FMC adjudicative proceeding.  A State charged in a private party’s complaint with violating the Shipping Act has the option of appearing before the FMC in a bid to persuade that body of the strength of its position or substantially compromising its ability to defend itself because a sanctioned party cannot litigate the merits of its position later in a federal-court action brought by the Attorney General to enforce an FMC nonreparation order or civil penalty assessment.  This choice clearly serves to coerce States to participate in FMC adjudications.  And the argument that sovereign immunity should not apply because FMC proceedings do not present the same threat to the States’ financial integrity as do private judicial suits reflects a fundamental misunderstanding of sovereign immunity’s primary purpose, which is not to shield state treasuries but to accord States the respect owed them as joint sovereigns.  In any event, an FMC reparation order may very well result in the withdrawal of funds from a State’s treasury because the FMC might be able to assess a civil penalty against a State that refused to obey a reparation order, and if the Attorney General, at the FMC’s request, then sought to recover the penalty in federal court, the State’s sovereign immunity would not extend to that suit brought by the Federal Government.  Pp. 16—22.
+
+      (f) The Court rejects the FMC’s argument that it should not be barred from adjudicating Maritime Services’ complaint because the constitutional necessity of uniformity in maritime commerce regulation limits the States’ sovereignty with respect to the Federal Government’s authority to regulate that commerce.  This Court has already held that state sovereign immunity extends to maritime commerce cases, and Seminole Tribe of Fla. v. Florida, 517 U.S. 44, 72, precludes the Court from creating a new maritime commerce exception to state sovereign immunity.  Also rejected is the United States’ argument that, even if the FMC is barred from issuing a reparation order, it should not be precluded from considering a private party’s request for nonmonetary relief.  The type of relief sought by a plaintiff suing a State in court is irrelevant to the question whether a suit is barred by the Eleventh Amendment, id., at 58, and the Court sees no reason why that principle should not also apply in the realm of administrative adjudications.  Pp. 22—25.  
+
+243 F.3d 165, affirmed.
+
+    Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, and Kennedy, JJ., joined.  Stevens, J., filed a dissenting opinion.  Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.
+
+

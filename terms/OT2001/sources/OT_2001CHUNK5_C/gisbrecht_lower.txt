@@ -1,0 +1,131 @@
+Source: https://openjurist.org/238/f3d/1196
+
+Ralph wilborn, Tucson, Arizona, for the plaintiffs-appellants.
+      
+Charlotte M. Connery-Aujla and Asim Ali Akbari, Office of the General Counsel, Social Security Administration, Baltimore, Maryland, for the defendant-appellee.
+      
+Appeal from the United States District Court for the District of Oregon; James A. Redden, District Judge, Presiding. D.C. No. CV-96-06164-DCA.
+      
+Appeal from the United States District Court for the District of Oregon; Robert E. Jones, District Judge, Presiding. D.C. No. CV-97-06197-JMS
+      
+Appeal from the United States District Court for the District of Oregon; Michael R.Hogan, Chief District Judge, Presiding. D.C. No.CV-96-06311-MRH
+      
+Before: Cynthia Holcomb Hall, Pamela Ann Rymer, and Susan P. Graber, Circuit Judges.
+
+ORDER
+    
+Jan. 22, 2001
+
+      ¶1
+      
+The Memorandum disposition filed November 27, 2000, with modifications, is redesignated as an authored Opinion by Judge Graber.
+
+OPINION
+
+      ¶2
+      
+These cases were consolidated for oral argument. In each case, a district court reversed a decision of the Commissioner of the Social Security Administration, and Plaintiffs sought attorney fees under 42 U.S.C.  406(b)(1)(A).1 The district courts awarded attorney fees, but in lesser amounts than Plaintiffs had requested. Plaintiffs appeal. We review for abuse of discretion, Widrig v. Apfel, 140 F.3d 1207, 1209 (9th Cir. 1998), and affirm.
+
+I. ARGUMENTS COMMON TO ALL FOUR CASES
+
+      ¶3
+      
+Plaintiffs argue on several grounds that the district courts abused their discretion. Their primary arguments -- concerning the hourly lodestar rate and the requested enhancement based on the contingent nature of the fee arrangement -- pertain to all four cases, with minor differences as noted.
+
+      ¶4
+      
+This court follows the "lodestar" method of calculating fees under 42 U.S.C.  406(b)(1)(A). Allen v. Shalala, 48 F.3d 456, 458 (9th Cir. 1995); Starr v. Bowen, 831 F.2d 872, 874 (9th Cir. 1987).2 The lodestar method requires a court to determine a reasonable hourly rate and then to multiply that rate by the number of hours reasonably expended on the case; the product determines a reasonable fee. See Allen, 48 F.3d at 458. That fee may be adjusted by applying the 12 factors set out in Kerr v. Screen Extras Guild, Inc., 526 F.2d 67, 70 (9th Cir. 1975). Allen, 48 F.3d at 458. Only one of those factors is at issue in this case: "whether the fee is fixed or contingent." Kerr, 526 F.2d at 70.
+
+      ¶5
+      
+A. The District Courts Did Not Abuse Their Discretion in Determining Plaintiffs' Hourly Lodestar Rates.
+
+      ¶6
+      
+The district courts in each of these cases set hourly lodestar rates lower than those that Plaintiffs had requested. Plaintiffs argue that the district courts abused their discretion in so doing, because the evidence that they presented was sufficient to demonstrate that the rates that they requested were in line with the "market rate."
+
+      ¶7
+      
+Plaintiffs' argument on this issue is twofold. First, they argue that the actual "market rate" for their services is the maximum fee allowed under 42 U.S.C.  406(b): 25 percent of the past-due benefits that the claimants recovered. In so arguing, Plaintiffs are in essence asking the panel to adopt the contingency method, see supra note 3. But, as noted, this court has rejected the contingency method. Allen, 48 F.3d at 459. "The district court does not sit to approve routinely a contingent fee contract between social security claimants and their counsel." Starr, 831 F.2d at 874.
+
+      ¶8
+      
+Rather, a district court must set a reasonable lodestar rate for counsels' services. To the extent that Plaintiffs are arguing that 25 percent is the appropriate lodestar rate, and thereby are attempting to blur the distinction between the lodestar and contingency methods, their argument is unavailing. A lodestar rate is "a reasonable hourly rate." Widrig, 140 F.3d at 1209 (emphasis added) (citing Hensley v. Eckerhart, 461 U.S. 424, 433, 76 L. Ed. 2d 40, 103 S. Ct. 1933 (1983)). But 25 percent is not an "hourly rate."
+
+      ¶9
+      
+Second, Plaintiffs point out that, in some previous cases, they received awards of as much as $175 per hour (Tim Wilborn) and $200 per hour (Ralph Wilborn) under 42 U.S.C.  406(b)(1)(A). The district courts here considered that evidence but chose instead to follow cases in which Plaintiffs had received awards based on lower hourly rates. The district courts did not abuse their discretion in so doing.
+
+      ¶10
+      
+In the same vein, Plaintiffs argue that their requested hourly rates are "in line" with the rates reported in a recent survey by the Oregon State Bar (the "OSB Survey"). The district courts that referred to the survey used it as evidence of the average hourly rates of lawyers in Plaintiffs' geographic area. The survey reveals that the average hourly rate for a lawyer of Tim Wilborn's experience is $125 and that the average hourly rate for a lawyer of Ralph Wilborn's experience is $150. The district courts that considered the survey awarded those average hourly rates. Plaintiffs suggest another way in which the district courts could have used the information in the survey, which would have yielded a higher hourly rate, but do not explain why the manner in which the courts did use that information was improper.
+
+      ¶11
+      
+B. The District Courts Did Not Abuse Their Discretion by Refusing to Increase the Lodestar Based on Plaintiffs' Contingent-Fee Contracts.
+
+      ¶12
+      
+Plaintiffs also argue that the district courts abused their discretion by refusing to increase the lodestar fees based on the contingent nature of their fee agreements.
+
+      ¶13
+      
+First, in Gisbrecht, Plaintiffs argue that the district court should have (1) considered the inherent riskiness of Social Security appeals as a class, (2) noted that all such appeals are risky propositions, and (3) enhanced the lodestar fee to take account of that inherent risk. That argument already has been rejected by this court. See Widrig, 140 F.3d at 1210-11 (rejecting the plaintiff's request for a contingency-based enhancement and specifically rejecting the argument "that we should examine the contingency of Social Security cases as a class rather than assessing the riskiness of a particular case").3
+
+      ¶14
+      
+Next, Plaintiffs argue that the district courts should have applied "contingency enhancement factors" or "risk multipliers" to their lodestar fees. Essentially, Plaintiffs argue that the district courts should have multiplied the hourly lodestar rates by a mathematically derived number to account for the fact that lawyers who accept contingent-fee contracts in Social Security cases sometimes do not get paid.
+
+      ¶15
+      
+This court also has rejected that argument. In Straw v. Bowen, 866 F.2d 1167, 1170 (9th Cir. 1989), the court addressed the plaintiffs' contention that their requested hourly rates were "justified by the 'big picture': the individual rates in these . . . cases may be high, but they are balanced by the low fee awards (or no fee awards) in other cases." In rejecting that contention, this court concluded that the plaintiffs were "essentially asking victorious claimants to 'subsidize' the claims of losing claimants" by "taking large portions out of disabled people's recoveries to fund the representation of other claimants." Id. at 1171. Plaintiffs' argument is, at bottom, the argument that this court rejected in Straw.
+
+      ¶16
+      
+Finally, Plaintiffs argue that the Miller and Anderson courts did not explain adequately their refusal to increase the lodestar fees based on the contingent-fee agreements. That argument, too, is foreclosed by this court's cases. Although a district court must consider a plaintiff's request to increase a fee on this basis, Allen, 48 F.3d at 460, a court "is not required to articulate its reasons" for accepting or rejecting such a request, Widrig, 140 F.3d at 1211.
+
+II. ARGUMENT SPECIFIC TO MILLER
+
+      ¶17
+      
+Finally, Plaintiffs argue that the Miller court failed to explain its  conclusions adequately.Finally, Plaintiffs argue that the Miller court failed to explain its conclusions adequately. Plaintiffs rely in part on Jordan v. Multnomah County, 815 F.2d 1258, 1263 (9th Cir. 1987), which reversed an award of attorney fees because the record contained no basis for the amount awarded. Ralph Wilborn made the same argument in Widrig. See 140 F.3d at 1210. In rejecting the argument, the Widrig court gave some guidance as to how detailed a district court's order must be:
+
+      ¶18
+      
+However, unlike Jordan, the district court in the instant cases did make findings regarding the sufficiency of the evidence submitted by appellants and explained the reasons for its conclusions. The court found that the Johnson and Brewer affidavits were insufficient to support an hourly rate of $200. In Widrig's case, it also reasoned that counsel had recently been awarded fees at an hourly rate of $175, further justifying $175 as a reasonable lodestar rate. Thus, there was no abuse of discretion.
+
+      ¶19
+      
+Id.
+
+      ¶20
+      
+So too here. The magistrate judge found (1) that Plaintiffs' affidavits were insufficient to establish that their requested rate was the appropriate rate; (2) that the case was neither complex nor novel; (3) that the amount of time that Plaintiffshad expended on the case, while reasonable, was "more than would be expected of practitioners claiming the right to increased hourly rates based on increased knowledge of and specialization in the social security area"; and (4) that Tim and Ralph Wilborn recently had been awarded hourly fees of $125 and $150, respectively, in a Portland Social Security case. The district court adopted the magistrate judge's findings and recommendations, with some elaboration.
+
+      ¶21
+      
+Thus, the district court's order, taken together with the magistrate judge's findings and recommendations, contained findings and explanations comparable to those that this court approved in Widrig. As in Widrig, we conclude that the order was sufficiently detailed. The district court did not abuse its discretion.
+
+CONCLUSION
+
+      ¶22
+      
+For the reasons stated, we conclude that the district courts did not abuse their discretion and affirm the awards of attorney fees in all four of these cases.
+
+      ¶23
+      
+AFFIRMED.
+
+Notes:
+
+        1
+        
+ Although the disabled claimants -- Gisbrecht, Miller, Sandine, and Anderson -- are the named plaintiffs in these actions, the real parties in interest are their lawyers, Tim and Ralph Wilborn. For convenience, the Wilborns are referred to as "Plaintiffs."
+
+        2
+        
+ So do the Fifth Circuit, see Brown v. Sullivan, 917 F.2d 189 (5th Cir. 1990); the Eighth Circuit, see Cotter v. Bowen, 879 F.2d 359 (8th Cir. 1989); and the Fourth Circuit, see Craig v. Secretary, Dep't of Health & Human Servs., 864 F.2d 324 (4th Cir. 1989). Other circuits follow the "contingency" method, under which a court bases its award of fees on the contingent-fee contract between the attorney and the claimant, treating that contract as presumptively reasonable. See Wells v. Sullivan, 907 F.2d 367 (2d Cir. 1990); McGuire v. Sullivan, 873 F.2d 974 (7th Cir. 1989); Rodriquez v. Bowen, 865 F.2d 739 (6th Cir. 1989) (en banc). This court has noted the split of circuits and has rejected the contingency method expressly. Allen, 48 F.3d at 459.
+
+        3
+        
+ Plaintiffs do not argue that any of these four cases was particularly risky on an individual basis.

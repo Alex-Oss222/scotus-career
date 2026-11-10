@@ -1,0 +1,56 @@
+Source: https://www.law.cornell.edu/supct/html/00-1214.ZS.html
+
+
+
+ALABAMA V. SHELTON
+
+LII
+
+Supreme Court
+
+ALABAMA V. SHELTON (00-1214) 
+Affirmed.
+Syllabus
+ Opinion
+ [ Ginsburg ]Dissent
+ [ Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ALABAMA v. SHELTON
+
+CERTIORARI TO THE SUPREME COURT OF ALABAMA
+ 
+No. 00—1214.  Argued February 19, 2002–Decided May 20, 2002
+
+Defendant-respondent Shelton represented himself in an Alabama Circuit Court criminal trial.  The court repeatedly warned Shelton about the problems self-representation entailed, but at no time offered him assistance of counsel at state expense.  He was convicted of misdemeanor assault and sentenced to a 30-day jail term, which the trial court immediately suspended, placing Shelton on two years’ unsupervised probation.  The Alabama Supreme Court reversed Shelton’s suspended jail sentence, reasoning that this Court’s decisions in Argersinger v. Hamlin, 407 U.S. 25, and Scott v. Illinois, 440 U.S. 367, require provision of counsel in any petty offense, misdemeanor, or felony prosecution, Argersinger, 407 U.S., at 37, “that actually leads to imprisonment even for a brief period,” id., at 33.  The State Supreme Court concluded, inter alia, that because a defendant may not be imprisoned absent provision of counsel, Shelton’s suspended sentence could never be activated and was therefore invalid.
+
+Held: A suspended sentence that may “end up in the actual deprivation of a person’s liberty” may not be imposed unless the defendant was accorded “the guiding hand of counsel” in the prosecution for the crime charged.  Argersinger, 407 U.S., at 40.  Pp. 4—19.
+
+    (a) The controlling rule is that “absent a knowing and intelligent waiver, no person may be imprisoned for any offense … unless he was represented by counsel at his trial.”  Argersinger, 407 U.S., at 37.  Pp. 5—6.
+
+      (b) Applying this “actual imprisonment” rule, the Court rejects the argument of its invited amicus curiae that failure to appoint counsel to an indigent defendant does not bar the imposition of a suspended or probationary sentence upon conviction of a misdemeanor, even though the defendant might be incarcerated in the event probation is revoked.  Pp. 6—16.
+
+          (1) The Sixth Amendment does not permit activation of a suspended sentence upon an indigent defendant’s violation of the terms of his probation where the State did not provide him counsel during the prosecution of the offense for which he is imprisoned.  A suspended sentence is a prison term imposed for the offense of conviction.  Once the prison term is triggered, the defendant is incarcerated not for the probation violation, but for the underlying offense.  The uncounseled conviction at that point “result[s] in imprisonment,” Nichols v. United States, 511 U.S. 738, 746; it “end[s] up in the actual deprivation of a person’s liberty,” Argersinger, 407 U.S., at 40.  This is precisely what the Sixth Amendment, as interpreted in Argersinger and Scott, does not allow.  P. 6.
+
+          (2) The Court rejects the first of two grounds on which amicus resists this reasoning, i.e., amicus’ attempt to align this case with Nichols and with Gagnon v. Scarpelli, 411 U.S. 778.  Those decisions do not stand for the broad proposition that sequential proceedings must be analyzed separately for Sixth Amendment purposes, with the right to state-appointed counsel triggered only in proceedings that result in immediate actual imprisonment.  The dispositive factor in Gagnon and Nichols was not whether incarceration occurred immediately or only after some delay.  Rather, the critical point was that the defendant had a recognized right to counsel when adjudicated guilty of the felony for which he was imprisoned.  See Nichols, 511 U.S., at 743, n. 9.  Here, revocation of probation would trigger a prison term imposed for a misdemeanor of which Shelton was found guilty without the aid of counsel, not for a felony conviction for which the right to counsel is unquestioned.  See id., at 747; Gagnon, 411 U. S, at 789.  Far from supporting amicus’ position, Gagnon and Nichols simply highlight that the Sixth Amendment inquiry trains on the stage of the proceedings corresponding to Shelton’s Circuit Court trial, where his guilt was adjudicated, eligibility for imprisonment established, and prison sentence determined.  Nichols is further distinguishable because the Court there applied a less exacting standard allowing a trial court, once guilt has been established, to increase the defendant’s sentence based simply on evidence of the underlying conduct that gave rise to his previous conviction, 511 U.S., at 748, even if he had never been charged with that conduct, Williams v. New York, 337 U.S. 241, and even if he had been acquitted of a misdemeanor with the aid of appointed counsel, United States v. Watts, 519 U.S. 148, 157.  That relaxed standard has no application here, where the question is whether the defendant may be jailed absent a conviction credited as reliable because the defendant had access to counsel.  Pp. 6—9.
+
+          (3) Also unpersuasive is amicus’ contention that practical considerations weigh against extension of the Sixth Amendment appointed-counsel right to a defendant in Shelton’s situation.  Based on figures suggesting that conditional sentences are commonly imposed but rarely activated, amicus argues that the appropriate rule would permit imposition of a suspended sentence on an uncounseled defendant and require appointment of counsel, if at all, only at the probation revocation stage, when incarceration is imminent.  That regime would unduly reduce the Sixth Amendment’s domain.  In Alabama, the probation revocation hearing is an informal proceeding, at which the defendant has no right to counsel, and the court no obligation to observe customary rules of evidence.  More significant, the defendant may not challenge the validity or reliability of the underlying conviction.  A hearing so timed and structured cannot compensate for the absence of trial counsel and thereby bring Shelton’s sentence within constitutional bounds.  Nor does this Court agree with amicus that its holding will substantially limit the States’ ability to impose probation.  Most jurisdictions already provide a state-law right to appointed counsel more generous than that afforded by the Federal Constitution, while simultaneously preserving the option of probationary punishment.  See id., at 748—749, n. 12.  Even if amicus is correct that some States cannot afford the costs of the Court’s rule, those jurisdictions have recourse to the option of pretrial probation, whereby the prosecutor and defendant agree to the defendant’s participation in a pretrial rehabilitation program, which includes conditions typical of post-trial probation, and the adjudication of guilt and imposition of sentence for the underlying offense occur only if the defendant breaches those conditions.  This system reserves the appointed-counsel requirement for the few cases in which incarceration proves necessary, see Gagnon, 411 U.S., at 784, while respecting the constitutional imperative that no person be imprisoned unless he was represented by counsel, Argersinger, 407 U.S., at 37.  Pp. 9—16.
+
+      (c) The Court does not rule on Alabama’s argument that, although the Sixth Amendment bars activation of a suspended sentence for an uncounseled conviction, the Constitution does not prohibit, as a method of effectuating probationary punishment, the imposition of a suspended sentence that can never be enforced.  There is not so much as a hint in the Alabama Supreme Court’s decision that Shelton’s probation term is separable from the prison term to which it was tethered.  Absent any prior presentation of the novel position the State now takes, this Court resists passing on it in the first instance.  It is for the State Supreme Court to consider before this Court does whether the suspended sentence alone is invalid, leaving Shelton’s probation term freestanding and independently effective.  See Hortonville Joint School Dist. No. 1 v. Hortonville Ed. Assn., 426 U.S. 482, 488.  Pp. 16—18.
+
+Affirmed.
+
+    Ginsburg, J., delivered the opinion of the Court, in which Stevens, O’Connor, Souter, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Rehnquist, C. J., and Kennedy and Thomas, JJ., joined.
+
+

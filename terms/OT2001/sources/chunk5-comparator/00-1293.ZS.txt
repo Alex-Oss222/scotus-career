@@ -1,0 +1,50 @@
+Source: https://www.law.cornell.edu/supct/html/00-1293.ZS.html
+
+
+
+ASHCROFT V. AMERICAN CIVIL LIBERTIES UNION
+
+LII
+
+Supreme Court
+
+ASHCROFT V. AMERICAN CIVIL LIBERTIES UNION (00-1293) 
+217 F.3d 162, vacated and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Opinion of O’Connor ]Concurrence
+ [ Opinion of Breyer ]Concurrence
+ [ Kennedy ]Dissent
+ [ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ASHCROFT, ATTORNEY GENERAL v. AMERICAN CIVIL LIBERTIES UNION et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+ 
+No. 00—1293.  Argued November 28, 2001–Decided May 13, 2002
+
+In Reno v. American Civil Liberties Union, 521 U.S. 844, this Court found that the Communications Decency Act of 1996 (CDA)–Congress’ first attempt to protect children from exposure to pornographic material on the Internet–ran afoul of the First Amendment in its regulation of indecent transmissions and the display of patently offensive material.  That conclusion was based, in part, on the crucial consideration that the CDA’s breadth was wholly unprecedented.  After the Court’s decision in Reno, Congress attempted to address this concern in the Child Online Protection Act (COPA).  Unlike the CDA, COPA applies only to material displayed on the World Wide Web, covers only communications made for commercial purposes, and restricts only “material that is harmful to minors,” 47 U.S.C. § 231(a)(1).  In defining “material that is harmful to minors,” COPA draws on the three-part obscenity test set forth in Miller v. California, 413 U.S. 15, see §231(e)(6), and thus requires jurors to apply “contemporary community standards” in assessing material, see §231(e)(6)(A).  Respondents–who post or have members that post sexually oriented material on the Web–filed a facial challenge before COPA went into effect, claiming, inter alia, that the statute violated adults’ First Amendment rights because it effectively banned constitutionally protected speech, was not the least restrictive means of accomplishing a compelling governmental purpose, and was substantially overbroad.  The District Court issued a preliminary injunction barring the enforcement of COPA because it concluded that the statute was unlikely to survive strict scrutiny.  The Third Circuit affirmed but based its decision on a ground not relied upon by the District Court: that COPA’s use of “contemporary community standards,” §231(e)(6)(A), to identify material that is harmful to minors rendered the statute substantially overbroad.
+
+Held: COPA’s reliance on “community standards” to identify what material “is harmful to minors” does not by itself render the statute substantially overbroad for First Amendment purposes.  The Court, however, expresses no view as to whether COPA suffers from substantial overbreadth for reasons other than its use of community standards, whether the statute is unconstitutionally vague, or whether the statute survives strict scrutiny.  Prudence dictates allowing the Third Circuit to first examine these difficult issues.  Because petitioner did not ask to have the preliminary injunction vacated, and because this Court could not do so without addressing matters the Third Circuit has yet to consider, the Government remains enjoined from enforcing COPA absent further action by the lower courts.  P. 22.
+
+217 F.3d 162, vacated and remanded.
+
+    Thomas, J., announced the judgment of the Court and delivered the opinion of the Court with respect to Parts I, II, and IV, in which Rehnquist, C. J., and O’Connor, Scalia, and Breyer, JJ., joined, an opinion with respect to Part III—B, in which Rehnquist, C. J., and O’Connor and Scalia, JJ., joined, and an opinion with respect to Parts III—A, III—C, and III—D, in which Rehnquist, C. J., and Scalia, J., joined.  O’Connor, J., and Breyer, J., filed opinions concurring in part and concurring in the judgment.  Kennedy, J., filed an opinion concurring in the judgment, in which Souter and Ginsburg, JJ., joined.  Stevens, J., filed a dissenting opinion.
+
+

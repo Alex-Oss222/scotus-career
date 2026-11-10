@@ -1,0 +1,48 @@
+Source: https://www.law.cornell.edu/supct/html/01-298.ZS.html
+
+
+
+LAPIDES V. BOARD OF REGENTS OF UNIV. SYSTEMOF GA.
+
+LII
+
+Supreme Court
+
+LAPIDES V. BOARD OF REGENTS OF UNIV. SYSTEMOF GA. (01-298) 
+251 F.3d 1372, reversed.
+Syllabus
+ Opinion
+ [ Breyer ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+LAPIDES v. BOARD OF REGENTS OF UNIVERSITY SYSTEM OF GEORGIA et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+ 
+No. 01—298.  Argued February 25, 2002–Decided May 13, 2002
+
+Petitioner, a professor in the Georgia state university system, filed a state-court suit against respondents–the system’s board of regents (hereinafter Georgia or State) and university officials in their personal capacities and as state agents–alleging that the officials had violated state tort law and 42 U.S. C. §1983 when they placed sexual harassment allegations in his personnel files.  The defendants removed the case to Federal District Court and then sought dismissal.  Conceding that a state statute had waived Georgia’s sovereign immunity from state-law suits in state court, the State claimed Eleventh Amendment immunity from suit in the federal court.  The District Court held that Georgia had waived such immunity when it removed the case to federal court.  In reversing, the Eleventh Circuit found that, because state law was unclear as to whether the state attorney general had the legal authority to waive Georgia’s Eleventh Amendment immunity, the State retained the legal right to assert immunity, even after removal.  
+
+Held: A State waives its Eleventh Amendment immunity when it removes a case from state court to federal court.  Pp. 2—10.
+
+    (a) Because this case does not present a valid federal claim against Georgia, see Will v. Michigan Dept. of State Police, 491 U.S. 58, 66, the answer to the question presented is limited to the context of state-law claims where the State has waived immunity from state-court proceedings.  Although absent a federal claim, the Federal District Court might remand the state claims against the State to state court, those claims remain pending in the federal court, which has the discretion to decide the remand question in the first instance.  Thus, the question presented is not moot.  Pp. 2—3.
+
+      (b) This Court has established the general principle that a State’s voluntary appearance in federal court amounts to a waiver of its Eleventh Amendment immunity, Clark v. Barnard, 108 U.S. 436, 477; Gardner v. New Jersey, 329 U.S. 565, 574; Gunter v. Atlantic Coast Line R. Co., 200 U.S. 273, 284, and has often cited with approval the cases embodying that principle, see, e.g., College Savings Bank v. Florida Prepaid Postsecondary Ed. Expense Bd., 527 U.S. 666, 681, n. 3.  Here, Georgia was brought involuntarily into the case as a defendant in state court, but it then voluntarily removed the case to federal court, thus voluntarily invoking that court’s jurisdiction.  Unless this Court is to abandon the general principle requiring waiver or there is something special about removal in this case, the general principle should apply.  Pp. 4—5.
+
+      (c) Contrary to respondents’ arguments, there is no reason to abandon the general principle.  The principle enunciated in Gunter, Gardner, and Clark did not turn on the nature of the relief and is sound as applied to money damages cases such as this.  And more recent cases requiring a clear indication of a State’s intent to waive its immunity, e.g., College Savings Bank, 527 U.S., at 675—681, distinguished the kind of constructive waivers repudiated there from waivers effected by litigation conduct, id., at 681, n. 3.  Nor have respondents pointed to a special feature of removal or of this case that would justify taking the case out from the general rule.  That Georgia claims a benign motive for removal–not to obtain litigating advantages for itself but to provide the officials sued in their personal capacities with the interlocutory appeal provisions available in federal court–cannot make a critical difference.  Motives are difficult to evaluate, while jurisdictional rules should be clear.  Because adopting respondents’ position would permit States to achieve unfair tactical advantages, if not in this case, then in others, see Wisconsin Dept. of Corrections v. Schacht, 524 U.S. 381, 393—394, the rationale for applying the general principle is as strong here as elsewhere.  Respondents also argue that Georgia is entitled to immunity because state law does not authorize its attorney general to waive Eleventh Amendment immunity and because, in Ford Motor Co. v. Department of Treasury of Ind., 323 U.S. 459, a State regained immunity by showing such lack of authority–even after the State had litigated and lost the case against it.  Here, however, Georgia voluntarily invoked the federal court’s jurisdiction, while the State in Ford had involuntarily been made a federal-court defendant.  This Court has consistently found waiver when a state attorney general, authorized to bring a case in federal court, has voluntarily invoked that court’s jurisdiction.  More importantly, in large part the rule governing voluntary invocations of federal jurisdiction has rested upon the inconsistency and unfairness that a contrary rule would create.  A rule that finds waiver through a state attorney general’s invocation of federal-court jurisdiction avoids inconsistency and unfairness, but a rule that, as in Ford, denies waiver despite the attorney general’s state-authorized litigating decision does the opposite.  For these reasons, Clark, Gunter, and Gardner represent the sounder line of authority, and Ford, which is inconsistent with the basic rationale of those cases, is overruled insofar as it would otherwise apply.  Respondents’ remaining arguments are unconvincing.  Pp. 5—10.
+
+251 F.3d 1372, reversed.
+
+    Breyer, J., delivered the opinion for a unanimous Court.
+
+

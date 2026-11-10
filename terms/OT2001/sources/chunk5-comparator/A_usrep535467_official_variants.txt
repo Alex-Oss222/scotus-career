@@ -1,0 +1,425 @@
+usrep535467: 33405 official normalized tokens; 32798 covered by exact five-token blocks already read in Cornell; 212 unmatched spans. All unmatched spans below were reviewed in context; legal findings are recorded in A_COMPARATOR_SOURCE_VALIDATION.md.
+
+1. tokens 336-337: to perform the functions necessary to combine network [ ele ] together with no 00 555 worldcom inc et
+
+2. tokens 398-399: al also on certiorari to the same court [ ments ] for an entrant unless the combination is not
+
+3. tokens 720-722: is reversed insofar as it invalidated telric pp [ 497 528 ] a this court rejects the incumbents argument that
+
+4. tokens 1147-1149: employed iowa utilities bd supra at 423 pp [ 497 501 ] b also rejected is the incumbents alternative argument
+
+5. tokens 1211-1213: of reasonable interpretation subject to chevron deference pp [ 501 522 ] 1 the term cost is simply too protean
+
+6. tokens 1262-1264: piece of equipment an incumbent may not own [ p 501 ] 2 similarly the claim that telric exceeds reasonable
+
+7. tokens 1315-1317: field three arguments which the court rejects pp [ 501 522 ] a the incumbents argue first that a method
+
+8. tokens 1365-1367: answers to this no stimulation unreasonableness claim pp [ 503 517 ] i the basic assumption of the no stimulation
+
+9. tokens 1375-1376: i the basic assumption of the no stimulation [ argumentthat ] in a perfectly efficient market no one who
+
+10. tokens 1571-1573: alternative to the incumbent s corresponding element pp [ 504 507 ] ii it cannot be said that the fcc
+
+11. tokens 1649-1651: report and order 655 696 705 709 pp [ 507 516 ] iii the claim that telric is unreasonable as
+
+12. tokens 1728-1730: way to promote competitive investment in facilities pp [ 516 517 ] b also unavailing is the incumbents second reason
+
+13. tokens 1934-1936: a general starting point is reasonable enough pp [ 517 522 ] c finally the incumbents third argument that telric
+
+14. tokens 2032-2034: that preserve home field advantages for the incumbents [ p 522 ] c the incumbents attempt to apply the rule
+
+15. tokens 2294-2295: they misplace their reliance on dicta in duquesne [ supra ] at 315 to the effect that there may
+
+16. tokens 2357-2359: record are very much to the contrary pp [ 523 528 ] 2 the fcc can require incumbents to combine
+
+17. tokens 2403-2405: additional combination rules rules 315 c f pp [ 528 539 ] a the court rejects the incumbents threshold objection
+
+18. tokens 2433-2434: is barred by waiver because the iowa utilities [ bd ] petition to review the eighth circuit s earlier
+
+19. tokens 2591-2592: an isolated long stale procedural error by the [ agehcy ] ibid but to the invalidation of fcc rules
+
+20. tokens 2699-2701: flux by a split among federal cases pp [ 528 531 ] b the eighth circuit read 47 u s
+
+21. tokens 2883-2884: to remove practical barriers to competitive entry into [ localexchange ] markets while avoiding serious interference with incumbent network
+
+22. tokens 3000-3002: to reach the result the act requires pp [ 531 538 ] 219 f 3 d 744 affirmed in part
+
+23. tokens 3078-3081: which scalia j joined as to part vi [ post p 539 ] o connor j took no part in the
+
+24. tokens 3095-3102: in the consideration or decision of the cases [ william p barr argued the cause for ] verizon communications inc et al petitioners in no
+
+25. tokens 3112-3119: inc et al petitioners in no 00 511 [ and for bellsouth corp et al respondents ] in nos 00 555 etc with him on
+
+26. tokens 3124-3181: et al respondents in nos 00 555 etc [ with him on the briefs were m edward whelan patrick f philbin michael e glover mark l evans michael k kellogg henk brands charles r morgan james g harralson andrew g mcbride scott delacourt roger k toppins gary phillips sean a lev and steven g bradbury solicitor general olson argued the cause for the federal parties petitioners ] in nos 00 587 etc and respondents in
+
+27. tokens 3186-3233: federal parties petitioners in nos 00 587 etc [ and respondents in no 00 511 with him on the briefs were acting solicitor general underwood acting assistant attorney general nannes deputy solicitor general wallace barbara mcdowell catherine g o sullivan nancy c garrison and laurence n bourne david p murray filed briefs for respondent sprint corporation ] in nos 00 511 etc in support of
+
+28. tokens 3238-3249: respondent sprint corporation in nos 00 511 etc [ in support of petitioner federal parties and in opposition to petitioners ] verizon communications inc et al donald b verrilli
+
+29. tokens 3254-3289: opposition to petitioners verizon communications inc et al [ donald b verrilli jr argued the cause for worldcom inc et al petitioners in no 00 555 and respondents in no 00 511 and for at t corp petitioner in no 00 590 and respondent ] in nos 00 511 etc with him on
+
+30. tokens 3294-3354: 590 and respondent in nos 00 511 etc [ with him on the briefs for worldcom inc et al were jodie l kelley ian heath gershengorn thomas f o neil iii william single iv carol ann bischoff robert m mcdowell and robert j aamoth david w carpenter peter d keisler stephen b kinnaird c frederick beckner iii and mark c rosenblum filed briefs for at t briefs for respondents ] in nos 00 511 etc were filed by
+
+31. tokens 3359-3411: briefs for respondents in nos 00 511 etc [ were filed by irwin a popowsky for the national association of state utility consumer advocates by james bradford ramsay and lawrence g malone for the public service commission of new york et al and by william t lake john h harwood ii and robert b mckennna for qwest communications international inc t ] justice souter delivered the opinion of the court
+
+32. tokens 3643-3668: the persistently monopolistic local markets which were thought [ tharisha j bastiampillai and morton j posner filed a brief for allegiance telecom inc et al as amici curiae urging affirmance in no 00 511 ] justice scalia joins part iii of this opinion
+
+33. tokens 3851-3852: markets concern us here first congress required incumbent [ localexchange ] carriers to share their own facilities and services
+
+34. tokens 4510-4511: 445 1911 the states generally followed this same [ tariffschedule ] model barnes 297 298 see e g smyth
+
+35. tokens 4523-4524: see e g smyth supra at 470 476 [ 1 ] the first noteworthy federal rate regulation statute was
+
+36. tokens 4679-4680: of revisions to railroad rates set by the [ icc ] see r vietor contrived competition regulation and deregulation
+
+37. tokens 4934-4935: evil at which the interstate commerce act was [ aimed ] was discrimination in its various manifestations this court
+
+38. tokens 5073-5074: excessive burden or be unduly discriminatory sierra pacific [ power ] co supra at 355 citation omitted see also
+
+39. tokens 5138-5139: regulated local telephone markets evolved into arenas of [ statesanctioned ] discrimination engineered by the public utility commissions themselves
+
+40. tokens 6001-6002: as an index of fair value since its [ reve ] one of the referents of value that did
+
+41. tokens 6026-6028: a primitive version of the criterion challenged in [ these cases ] see mccardle v indianapolis water co 272 u
+
+42. tokens 6063-6064: 41 harv l rev 564 570 571 1928 [ nues ] were necessarily determined by the rates subject to
+
+43. tokens 7432-7433: maximum access charges paid to large local exchange [ com ] 9 in a competitive market a company may
+
+44. tokens 7467-7468: plant that becomes unproductive because competitors will then [ undersell ] the company s goods see n mankiw principles
+
+45. tokens 7483-7484: principles of economics 308 310 1998 hereinafter mankiw [ panies ] by interexchange carriers in re policy and rules
+
+46. tokens 7759-7760: of superior knowledge of the facts employed in [ costof ] service ratemaking what is remarkable about this evolution
+
+47. tokens 8686-8687: access charges on long distance carriers seeking to [ conosome ] loop lines employ coaxial cable and fixed wireless
+
+48. tokens 8784-8785: path dependence in the economy 1 12 1994 [ nect ] with its network in an unregulated world another
+
+49. tokens 9343-9344: pricing standards set forth in 252 d as [ 1 ] section 252 a provides a agreements arrived at
+
+50. tokens 9768-9769: eighth circuit held that the fcc had no [ au ] 15 rates for wholesale purchases of telecommunications services
+
+51. tokens 9793-9794: the incumbent s retail rates 252 d 3 [ thority ] to control the methodology of state commissions setting
+
+52. tokens 10016-10017: v iowa utilities bd 525 u s at [ 397 ] we reversed in upholding the fcc s jurisdiction
+
+53. tokens 10145-10146: fcc s understanding that the act imposed no [ facilitiesownership ] requirement id at 392 393 the case then
+
+54. tokens 10295-10296: reference to a rate of return or other [ ratebased ] proceeding 252 d 1 within the discretion left
+
+55. tokens 10744-10745: that telric was clearly the latter id at [ 6 ] the actual telric rate charged to an entrant
+
+56. tokens 11629-11630: state and federal ratemaking untethered to historical valuation [ 8 ] what is equally important is that the incumbents
+
+57. tokens 11638-11639: what is equally important is that the incumbents [ plainmeaning ] argument ignores the statutory setting in which the
+
+58. tokens 11665-11666: the act uses cost as an intermediate term [ 7 ] nor is it possible to argue that cost
+
+59. tokens 11792-11793: telecommons opportunity costs are by definition forward looking [ 8 ] see e g mobil oil exploration producing southeast
+
+60. tokens 12055-12056: little about the method employed to determine a [ par ] 19 the incumbents make their own plain language
+
+61. tokens 12274-12275: return or other rate based proceeding id 702 [ ticular ] rate 525 u s at 423 opinion concurring
+
+62. tokens 12637-12638: must fail 20 the incumbents nevertheless field three [ ar ] 20 while justice breyer does not explicitly challenge
+
+63. tokens 12700-12702: the act s deregulatory purpose see post at [ 542 554 ] opinion concurring in part and dissenting in part
+
+64. tokens 12733-12738: of a statute 463 u s at 42 [ these cases by contrast involve ] the fcc s first interpretation of a new
+
+65. tokens 12795-12797: would have had some more explaining to do [ if it ] had not changed its course by favoring telric
+
+66. tokens 12926-12928: see n 27 infra see also infra at [ 515 516 ] discussing fcc s objection to ramsey pricing and
+
+67. tokens 12965-12966: regulatory ways that coddled monopolies see supra at [ 488 ] remarks of sen breaux that deregulatory character does
+
+68. tokens 12990-12991: pricing rules deferring to incumbents proposed methods and [ guments ] they contend first that a method of calculating
+
+69. tokens 13119-13121: incentives against competition in fact see post at [ 548 551 ] the incumbents say that in purporting to set
+
+70. tokens 13169-13171: and never build network elements see post at [ 549 550 ] and even if an entrant would otherwise consider
+
+71. tokens 13242-13243: rate for an incumbent s existing element would [ incost ] data on the contrary the statutory provisions obligating
+
+72. tokens 13301-13302: reliance on historical cost data provided by incumbents [ stantly ] drop to match the marginal cost 21 of
+
+73. tokens 13318-13321: the entrant s new element once built see [ ante at 550 ] brief for respondents bellsouth et al in nos
+
+74. tokens 13373-13374: think there are basically three answers to this [ nostimulation ] claim of unreasonableness 1 the telric methodology does
+
+75. tokens 13540-13541: setting to the fcc itself in iowa utilities [ bd ] we rejected the fcc s necessary and impair
+
+76. tokens 13944-13945: communications international inc in nos 00 511 etc [ p ] 39 reply brief for petitioners worldcom inc et
+
+77. tokens 14212-14213: alternative to the incumbent s corresponding element 22 [ 2 ] the michigan state commission s september 1994 order
+
+78. tokens 14243-14244: the fcc considered see first report and order [ t ] 631 and n 1508 makes this limitation more
+
+79. tokens 14387-14388: markets by deploying broadband technologies cf post at [ 552 ] breyer j concurring in part and dissenting in
+
+80. tokens 14515-14517: done a better job of inducing competition having [ consid 2 ] justice breyer characterizes these built in inefficiencies as
+
+81. tokens 14562-14563: competitive investment by sheer luck see post at [ 552 ] he thus shares the assumption of an efficient
+
+82. tokens 14638-14639: a fully hypothetical least cost most efficient network [ ered ] the proffered alternatives and the reasons the fcc
+
+83. tokens 14702-14704: the efficient component pricing rule and ramsey pricing [ 2 4 ] the arguments that one or another of these
+
+84. tokens 14805-14806: practices as yet another alternative see post at [ 558 ] but the incumbents do not appear to have
+
+85. tokens 14879-14881: is already built into telric see infra at [ 519 520 ] in the long run all of a firm
+
+86. tokens 14981-14982: perloff 51 56 the long run is a [ timeframe ] of sufficient duration that a company has no
+
+87. tokens 15034-15036: advocate fixed cost ratesetting systems see infra at [ 514 515 ] do so almost exclusively on the premise of
+
+88. tokens 15299-15300: 27 infra cf first report and order 378 [ in ] some areas the most efficient means of providing
+
+89. tokens 15354-15355: competition or cause the competitor to construct unnecessarily [ dufor ] the incumbents argument that recovery of fixed costs
+
+90. tokens 15375-15376: to spur competition as opposed to compensating incumbents [ plicative ] facilities thereby misallocating societal resources if the telric
+
+91. tokens 15501-15502: unreasonable for the fcc to prefer the latter [ 2 ] justice breyer may be right that firms that
+
+92. tokens 15526-15527: to the facilities that they share post at [ 550 ] at least in the near future but this
+
+93. tokens 15718-15719: of which would prove unnecessarily expensive post at [ 546 ] it is in just this way that the
+
+94. tokens 16096-16097: would form the basis of new lease rates [ 2 ] in theory embedded cost could be lower than
+
+95. tokens 16286-16288: to the price cap innovation see supra at [ 486 487 ] there is even an argument that the act
+
+96. tokens 16344-16345: traditional embedded cost of service model of ratesetting [ 1 ] at the very least proposing an embedded cost
+
+97. tokens 16353-16355: at the very least proposing an embedded cost [ 3 0 ] we find that the parenthetical determined without reference
+
+98. tokens 16414-16416: elements first report and order 704 footnote omitted [ s 1 ] the parenthetical provision that cost for ratemaking purposes
+
+99. tokens 16520-16521: additional language that was not enacted to the [ efalternative ] is a counterintuitive way to show that selecting
+
+100. tokens 16568-16569: communications international inc in nos 00 511 etc [ at ] 40 41 ecpr would base the rate for
+
+101. tokens 16604-16605: cost to the incumbent when the entrant leasing [ fect ] that rate of return regulation would be eliminated
+
+102. tokens 16784-16785: contracts incorporating retail rates set in state rate [ ofreturn ] proceedings see e g boston edison co v
+
+103. tokens 16853-16854: not perfect prices but speedy results post at [ 559 ] he concludes that the provision specifies that states
+
+104. tokens 17139-17140: asymmetries of information in ratemaking as a straightforward [ embedded ] cost scheme 32 the third category of alternative
+
+105. tokens 17196-17198: competition is actually favored by allowing incumbents rate [ re 3 ] ecpr advocates have since responded that the fcc
+
+106. tokens 17264-17265: back to the incumbents as a lease premium [ covery ] of certain fixed costs efficiently incurred in the
+
+107. tokens 18031-18032: unreasonable way to promote competitive investment in facilities [ 3 ] b the incumbents second reason for calling telric
+
+108. tokens 18130-18131: capital presented to traditional ratemaking bodies often bore [ i ] nor for that matter does the evidence support
+
+109. tokens 18160-18161: or to invest in new elements post at [ 551 ] as justice breyer himself notes incumbents have invested
+
+110. tokens 18178-18179: 100 billion during the same period post at [ 552 ] the figure affirms the commonsense conclusion that so
+
+111. tokens 18445-18447: depreciation and their increased risk unrecognized and uncompensated [ 4 1 ] the incumbents also contend that underdepreciation i e
+
+112. tokens 18535-18536: to keep the rate base inflated under the [ publicutility ] model of regulation see supra at 485 487
+
+113. tokens 18542-18545: the publicutility model of regulation see supra at [ 485 487 499 ] for all we know the incumbent carriers may
+
+114. tokens 18770-18771: to re examine the issue of the appropriate [ riskadjusted ] cost of capital on an ongoing basis particularly
+
+115. tokens 18979-18981: the elements incumbents will have to provide see [ id 1 ] 378 n 818 as of 1995 1 ocal
+
+116. tokens 18987-18988: id 1 378 n 818 as of 1995 [ 1 ] ocal loop plant comprises approximately 109 billion of
+
+117. tokens 19033-19034: technology generally has gone no further than copper [ twistedpair ] wire and fiber optic cable in the past
+
+118. tokens 19128-19130: to different elements see first report and order [ 1702 3 ] justice breyer makes much of the availability of
+
+119. tokens 19152-19153: fixed wireless and electrical conduits see post at [ 549 ] but the use of wireless technology in local
+
+120. tokens 19696-19699: much to the utilities benefit see supra at [ 486 487 499 ] and what we see from the record suggests
+
+121. tokens 19785-19786: telecommunications service pursuant to section 364 025 florida [ statutes ] issued jan 7 1999 2 id at 589
+
+122. tokens 19978-19979: figures as to the level of competitive investment [ il ] local exchange markets in short the incumbents have
+
+123. tokens 20664-20665: service brief for petitioners in no 00 511 [ at ] 10 11 and n 6 as against an
+
+124. tokens 20793-20794: that incumbents are required to provide by lease [ urder ] 47 u s c 251 c 3 see
+
+125. tokens 20846-20847: joint bd on universal serv 14 fcc rcd [ 20432 ] 41 and n 125 1999 explaining that the
+
+126. tokens 20855-20856: 41 and n 125 1999 explaining that the [ universalservice ] model may not be appropriate for determining prices
+
+127. tokens 21149-21150: of the rate orders 36 but went further [ 6 ] the court upheld a pennsylvania statute barring rate
+
+128. tokens 21284-21286: vanilla objection to arbitrary or capricious agency action [ 3 8 ] if a ratemaking body were to make opportunistic
+
+129. tokens 21488-21489: investments under a modified prudent investment scheme ibid [ 31 ] justice scalia joined by justice white and justice
+
+130. tokens 21552-21553: costs brief for petitioners in no 00 511 [ at ] 44 49 but this is simply a restatement
+
+131. tokens 21766-21768: rely on the constitutional bar against confiscatory rates [ 3 9 ] iv a the effort by the government and
+
+132. tokens 21789-21790: the eighth circuit s invalidation of the additional [ 31 ] in fact the fcc s order is more
+
+133. tokens 22254-22255: stage procedural error would tend to foist upon [ 4 ] at t did not raise the issue in
+
+134. tokens 22283-22284: in at t corp v iowa utilities bd [ 0 ] t 1998 no 97 826 pp 9 10
+
+135. tokens 22523-22524: the court s attention not to an isolated [ longstale ] procedural error by the agency ibid but to
+
+136. tokens 23777-23778: not required by our holding in iowa utilities [ bd ] dealing with rule 315 b in reinstating that
+
+137. tokens 23967-23968: c f survive chevron step two iowa utilities [ bd ] is to be sure less immediate help since
+
+138. tokens 24183-24184: petitioner federal parties in nos 00 587 etc [ p ] 34 see also id at 10 34 n
+
+139. tokens 24451-24452: accord with what we said in iowa utilities [ bd ] there for example we reinstated the commission s
+
+140. tokens 24591-24592: the latter were the only rule an incumbent [ 41 ] an incumbent lec shall make available without unreasonable
+
+141. tokens 24680-24681: a switch in a combined form when a [ naive ] entrant asked just for them while refusing later
+
+142. tokens 24792-24793: a combined form in the first place cf [ id ] 297 i ncumbent s must work with new
+
+143. tokens 24853-24854: incumbents or justice breyer s see post at [ 563 ] principal objection they focus their attack rather on
+
+144. tokens 24964-24965: worldcom inc et al in no 00 555 [ at ] 48 providing the example but this provision of
+
+145. tokens 25018-25019: to combine the elements first report and order [ 1294 ] there is no dispute that the incumbent could
+
+146. tokens 25182-25183: it appears to be nothing more than an [ elementto ] element version of the incumbents statutory duty to
+
+147. tokens 25338-25339: the 1996 act sought to bring competition to [ localexchange ] markets in part by requiring incumbent localexchange carriers
+
+148. tokens 25345-25346: to localexchange markets in part by requiring incumbent [ localexchange ] carriers to lease elements of their networks at
+
+149. tokens 25739-25741: the act authorizes the federal communications commission fcc [ or commission ] to set rules for determining those prices these
+
+150. tokens 25782-25784: element long run incremental cost system telric see [ kahn tardiff ] weisman the telecommunications act at three years an
+
+151. tokens 25809-25811: commission 11 info econ policy 319 326 1999 [ hereinafter kahn ] referring to the fcc s system as telric
+
+152. tokens 25964-25969: in the telecommunications act of 1996 11 fcc [ red 15499 15848 15849 685 ] 1996 hereinafter order describing telric as based on
+
+153. tokens 26552-26553: word cost calls to mind traditional cost based [ ratesetting ] see natural gas act 15 u s c
+
+154. tokens 26607-26611: supp ii repealed 1980 see also ante at [ 478 discussing traditional ratesetting ] j bonbright a danielsen d kamerschen principles of
+
+155. tokens 26729-26730: in a competitively structured industry see ante at [ 486 ] bonbright 89 m any economists have declared that
+
+156. tokens 26832-26833: order 679 738 but that regulatory objective low [ competitionmimicking ] prices is not the objective of the relevant
+
+157. tokens 26961-26962: that transformation is economically feasible see ante at [ 539 ] accepting this rationale the act does not authorize
+
+158. tokens 27057-27058: competition and reduce regulation in both local and [ longdistance ] telecommunications markets see also h r conf rep
+
+159. tokens 27073-27074: rep no 104 458 at 1 ante at [ 489 ] second the act s history suggests the congress
+
+160. tokens 27135-27137: one firm of efficient size see ante at [ 475 476 ] but beginning in the 1970 s technological developments
+
+161. tokens 27285-27287: stringing wires on overhead poles see ante at [ 489 491 ] and whether or the extent to which a
+
+162. tokens 27463-27465: if they wish 253 a see ante at [ 491 and ] n 12 but the act recognizes that simple
+
+163. tokens 27510-27512: new entry in three ways see ante at [ 491 492 ] first it requires incumbents to interconnect with new
+
+164. tokens 28328-28329: serious waste and we must read the relevant [ ratesetting ] provision including the critical word cost with that
+
+165. tokens 28377-28378: define cost s they also concede that every [ ratesetting ] system has flaws cf e g missouri ex
+
+166. tokens 28633-28634: purchase less knieps interconnection and network access 23 [ ford ] int l l j 90 2000 see also
+
+167. tokens 28750-28751: a new element after all the commission s [ ratesetting ] system sets the incumbent s compulsory leasing rate
+
+168. tokens 28779-28780: buying elsewhere that is because the commission s [ ratesetting ] system chooses as its basis the hypothetical cost
+
+169. tokens 29096-29102: majority itself claims the act seeks to achieve [ cf ante at 509 510 539 ] nor is the sharing of facilities e g
+
+170. tokens 29225-29231: a broad definition of network element see 47 [ cfr 51 319 f g 1997 ] order 413 will tend to produce widespread sharing
+
+171. tokens 29333-29335: telecommunications act of 1996 15 fcc rcd 3696 [ 3700 6 ] 1999 third report and order why given the
+
+172. tokens 29416-29417: investments on its own but see infra at [ 552 ] why would investment not then stagnate see e
+
+173. tokens 29426-29428: would investment not then stagnate see e g [ jorde sidak ] teece innovation investment and unbundling 17 yale j
+
+174. tokens 29470-29472: can achieve the identical cost savings by regulatory [ flat sidak ] spulber deregulation and managed competition in network industries
+
+175. tokens 29648-29649: billion in local communications markets see ante at [ 516 ] we do not know how much of this
+
+176. tokens 29689-29690: or large compared with what might have been [ cf ] fcc statistics of communications common carriers 51 table
+
+177. tokens 29697-29700: cf fcc statistics of communications common carriers 51 [ table 2 7 ] fcc statistics of communications common carriers 42 table
+
+178. tokens 29706-29710: 2 7 fcc statistics of communications common carriers [ 42 table 2 7 ] fcc statistics of communications common carriers 29 table
+
+179. tokens 29716-29720: 2 7 fcc statistics of communications common carriers [ 29 table 2 7 ] fcc statistics of communications common carriers 1 table
+
+180. tokens 29726-29727: 2 7 fcc statistics of communications common carriers [ 1 ] table 2 7 incumbents similar investment over the
+
+181. tokens 29742-29746: the same period amounts to over 100 billion [ ef fcc 2000 2001 ] statistics of communications common carriers 51 table 2
+
+182. tokens 29766-29768: plus working capital equals 220 billion ante at [ 516 521 ] new entrants market share provided by entrants own
+
+183. tokens 29779-29780: share provided by entrants own facilities alone is [ 33 ] regardless given the incentives this independent investment would
+
+184. tokens 29837-29841: public alike come to pass see infra at [ 554 556 560 561 ] the critics mention several other problems as well
+
+185. tokens 29885-29889: reasonable but now technologically outdated historical investment see [ part iii c ante ] they add that the regulations will make nearly
+
+186. tokens 29964-29970: united states in mathias v worldcom technologies inc [ 0 t 2001 no 00 878 ] p 18 n 5 a s a practical
+
+187. tokens 30042-30044: 292 296 dissenting opinion see also ante at [ 481 483 ] the hypothetical nature of the commission s system
+
+188. tokens 30065-30066: how imaginary firms would rebuild their systems from [ scratchwhether ] for example they hypothetically would receive permission to
+
+189. tokens 30245-30246: s actual past or likely future costs see [ affidavits ] of w baumol j ordover r willig comments
+
+190. tokens 30341-30342: a kind of regulatory coincidence see ante at [ 522 ] describing how state commissioners customarily assig n rates
+
+191. tokens 30519-30520: 50 million but fcc experts predict a most [ efficientfirm ] building from scratch future replication cost of 30
+
+192. tokens 30938-30939: elements and interconnection services would justify a different [ riskadjusted ] cost of capital ibid but this exception like
+
+193. tokens 31128-31129: have to double or triple to secure investment [ cf ] g hubbard w lehr capital recovery issues in
+
+194. tokens 31137-31138: g hubbard w lehr capital recovery issues in [ telric ] pricing response to professor jerry a hausman july
+
+195. tokens 31165-31166: overstates the need for change but stating that [ if ] any adjustments are required such adjustments would be
+
+196. tokens 31190-31191: that that hope has been realized ante at [ 521 ] stating that in light of the fact that
+
+197. tokens 31485-31487: ispo infosoc telecompolicy en r 3148 en htm [ apr 17 ] 2002 indeed britain s fcc counterpart has said
+
+198. tokens 31547-31549: gov uk publications broadband llu llu 0500 htm [ apr 17 ] 2002 in fact as i understand the european
+
+199. tokens 31664-31665: is it likely to rely upon any one [ ratesetting ] method rather it may encourage negotiation among the
+
+200. tokens 31808-31809: the states to use a variety of different [ ratesetting ] approaches looking to experience in other states as
+
+201. tokens 31930-31931: this approach in favor of extraordinarily complex national [ ratesetting ] standards which we review only to determine whether
+
+202. tokens 32039-32040: attack as i have previously said supra at [ 543 ] such an objective is perhaps consistent with an
+
+203. tokens 32266-32267: creation of independent facilities they would thereby tend [ toward ] a system in which regulatory price setting would
+
+204. tokens 32493-32495: lag will solve the problem see ante at [ 505 506 ] i do not understand how it could solve
+
+205. tokens 32530-32532: independently could prove less costly see supra at [ 548 550 ] nor given any new entrant s legal right
+
+206. tokens 32613-32614: of reviewing the substance of highly technical agency [ decisionmaking ] compare ethyl corp v epa 541 f 2
+
+207. tokens 32893-32895: id at 68 and again i agree in [ these cases ] the critics claims are strong they suggest that
+
+208. tokens 32957-32958: facilities with innovation and technological change reflecting mandarin [ decisionmaking ] through regulation rather than decentralized decisionmaking based on
+
+209. tokens 32963-32964: reflecting mandarin decisionmaking through regulation rather than decentralized [ decisionmaking ] based on the interaction of freely competitive market
+
+210. tokens 33106-33107: supra at 69 the court of course with [ 65 ] pages of careful analysis does not abdicate its
+
+211. tokens 33274-33275: the incumbents combine the elements in iowa utilities [ bd ] the court found authority for a somewhat similar
+
+212. tokens 33303-33305: combination but as the majority recognizes ante at [ 534 535 ] that different rule rests upon a rationale absent

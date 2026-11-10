@@ -1,0 +1,56 @@
+Source: https://www.law.cornell.edu/supct/html/01-131.ZS.html
+
+
+
+GISBRECHT V. BARNHART
+
+LII
+
+Supreme Court
+
+GISBRECHT V. BARNHART (01-131) 
+238 F.3d 1196, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Dissent
+ [ Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+GISBRECHT et al. v. BARNHART, COMMISSIONER OF SOCIAL SECURITY
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+ 
+No. 01—131.  Argued March 20, 2002–Decided May 28, 2002
+
+An attorney who successfully represents a Social Security benefits claimant in court may be awarded as part of the judgment “a reasonable fee … not in excess of 25 percent of the … past-due benefits” awarded to the claimant.  42 U.S.C. § 406(b)(1)(A).  The fee is payable “out of, and not in addition to, the amount of [the] past-due benefits.”  Ibid.  In many cases, as in the instant case, the Equal Access to Justice Act (EAJA) effectively increases the portion of past-due benefits the successful Social Security claimant may pocket.  Under EAJA, a party prevailing against the United States in court may be awarded fees payable by the United States if the Government’s position in the litigation was not “substantially justified.” 28 U.S.C. § 2412(d)(1)(A).  Congress harmonized fees payable by the Government under EAJA with fees payable under §406(b) out of the Social Security claimant’s past-due benefits: Fee awards may be made under both prescriptions, but the claimant’s attorney must refund to the claimant the amount of the smaller fee, up to the point the claimant receives 100 percent of the past-due benefits.
+
+          Petitioners Gisbrecht, Miller, and Sandine brought separate actions in the District Court seeking Social Security disability benefits under Title II of the Social Security Act.  All three were represented by the same attorneys and prevailed on the merits of their claims.  Each petitioner then successfully sought attorneys’ fees under EAJA.  Pursuant to contingent-fee agreements standard for Social Security claimant representation, each petitioner had agreed to pay counsel 25 percent of all past-due benefits recovered.  Their attorneys accordingly requested $7,091.50 from Gisbrecht’s recovery, $7,514 from Miller’s, and $13,988 from Sandine’s.  Given the EAJA offsets, the amounts in fact payable from each client’s past-due benefits recovery would have been $3,752.39 from Gisbrecht’s recovery, $2,349.25 from Miller’s, and $7,151.90 from Sandine’s.  Following Ninth Circuit precedent, the District Court in each case declined to give effect to the attorney-client fee agreement, instead employing a “lodestar” method, under which the number of hours reasonably devoted to each case was multiplied by the reasonable hourly fee.  This method yielded as §406(b) fees $3,135 from Gisbrecht’s recovery, $5,461.50 from Miller’s, and $6,550 from Sandine’s.  Offsetting the EAJA awards against the lodestar determinations, the court determined that no portion of Gisbrecht’s or Sandine’s past-due benefits was payable to counsel, and that only $296.75 of Miller’s recovery was payable to her counsel.  The Ninth Circuit consolidated the cases and affirmed.
+
+Held: Section 406(b) does not displace contingent-fee agreements within the statutory ceiling; instead, §406(b) instructs courts to review for reasonableness fees yielded by those agreements.  Pp. 9—18.
+
+    (a) Section 406(b)’s words, read in isolation, could be construed to allow either the Ninth Circuit’s lodestar approach or petitioners’ position that the attorney-client fee agreement should control, if not “in excess of 25 percent of … the past-due benefits.”  Because the statute’s text is inconclusive, this Court takes into account, as interpretive guides, the origin and standard application of the proffered approaches.  Pp. 9—10.
+
+      (b) The lodestar method, though rooted in accounting practices adopted in the 1940’s, did not gain a firm foothold in the federal courts until the mid-1970’s.  The lodestar method today holds sway in federal-court adjudication of disputes over the amount of fees properly shifted to the loser in the litigation.  Fees shifted to the losing party, however, are not at issue here.  Pp. 10—12.
+
+      (c) Section 406(b) authorizes fees payable from the successful party’s recovery.  Characteristically in Social Security benefits cases, attorneys and clients enter into contingent-fee agreements specifying that the attorney’s fee will be 25 percent of any past-due benefits to which the claimant becomes entitled.  Contingent-fee arrangements, though problematic, particularly when not exposed to court review, are common in the United States in many settings, and Social Security representation operates largely on a contingent-fee basis.  Before 1965, the Social Security Act imposed no limits on contingent-fee agreements drawn by counsel and signed by benefits claimants.  Arrangements yielding exorbitant fees reserved for lawyers one-third to one-half of the accrued benefits; the longer the litigation persisted, the greater the build-up of past-due benefits and, correspondingly, of legal fees awardable from those benefits if the claimant prevailed.  Attending to these realities, Congress provided for a reasonable fee, not in excess of 25 percent of accrued benefits, as part of the court’s judgment, and specified that no other fee would be payable.  Violation of these limitations was made a criminal offense.  In addition to protecting claimants against inordinately large fees, Congress sought to ensure that attorneys successfully representing Social Security claimants would not risk nonpayment by their clients.  Congress therefore authorized agency payment of fees directly to counsel from funds withheld from the claimant’s past-due benefits.  But nothing in §406(b)’s text or history reveals a design to prohibit or discourage attorneys and claimants from entering into contingent-fee agreements.  Given the prevalence of such agreements between attorneys and Social Security benefits claimants, it is unlikely that Congress, simply by prescribing “reasonable fees,” meant to outlaw, rather than to contain, the fee agreements.  Pp. 12—15.
+
+      (d) This conclusion is bolstered by Congress’ 1990 authorization of contingent-fee agreements under §406(a), which governs fees for agency-level representation.  It would be anomalous if contract-based fees expressly authorized by §406(a)(2) at the administrative level were disallowed for court representation under §406(b).  It is also unlikely that Congress, legislating in 1965, intended to install a lodestar method that courts did not develop and employ until years later.  Furthermore, the lodestar method was designed to govern imposition of fees on the losing party.  In such cases, nothing prevents the attorney for the prevailing party from gaining additional fees, pursuant to contract, from his own client.  But §406(b) governs the total fee a successful Social Security claimant’s attorney may receive for court representation.  Nothing more may be demanded or received from the benefits claimant.  Pp. 15—17.
+
+      (e) Most plausibly read, §406(b) does not displace contingent-fee agreements as the primary means by which fees are set for successfully representing Social Security benefits claimants in court.  Rather, §406(b) calls for court review of such arrangements to assure that they yield reasonable results in particular cases.  Within the 25 percent boundary Congress provided, the attorney for the successful claimant must show that the fee sought is reasonable for the services rendered.  Courts have reduced the attorney’s recovery based on the character of the representation and the results the representative achieved.  If the attorney is responsible for delay, for example, a reduction is in order so that the attorney will not profit from the accumulation of benefits during the pendency of the case in court.  And if the benefits are large in comparison to the amount of time counsel spent on the case, a downward adjustment is similarly in order.  Pp. 17—18.
+
+238 F.3d 1196, reversed and remanded.
+
+    Ginsburg, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, Souter, Thomas, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion.
+
+

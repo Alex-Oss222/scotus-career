@@ -1,0 +1,237 @@
+usrep535564: 16873 official normalized tokens; 16407 covered by exact five-token blocks already read in Cornell; 118 unmatched spans. All unmatched spans below were reviewed in context; legal findings are recorded in A_COMPARATOR_SOURCE_VALIDATION.md.
+
+1. tokens 453-456: copa absent further action by the lower courts [ pp 585 586 ] 217 f 3 d 162 vacated and remanded
+
+2. tokens 483-485: opinion of the court with respect to parts [ 1 11 ] and iv in which rehnquist c j and
+
+3. tokens 546-555: j and scalia j joined o connor j [ post p 586 and breyer j post p 589 ] filed opinions concurring in part and concurring in
+
+4. tokens 581-584: judgment in which souter and ginsburg jj joined [ post p 591 ] stevens j filed a dissenting opinion post p
+
+5. tokens 590-806: p 591 stevens j filed a dissenting opinion [ post p 602 solicitor general olson argued the cause for petitioner with him on the briefs were acting assistant attorney general schiffer deputy solicitor general kneedler irving l gornstein barbara l herwig jacob m lewis and charles scarborough ann e beeson argued the cause for respondents with her on the briefs were christopher a hansen steven r shapiro stefan presser david l sobel alexandra a e shapiro and christopher r harris briefs of amici curiae urging reversal were fied for the county of dupage by richard hodyl jr joseph e birkett and nancy j wolfe for the american center for law and justice by jay alan sekulow james m henderson sr colby m may and walter m weber for morality in media inc et al by paul j mcgeady robin s whitehead and janet m larue for wallbuilders inc by barry c hodge for senator john s mccain et al by bruce a taylor and for senator raymond n haynes et al by richard d ackerman and gary g kreep briefs of amici curiae urging affirmance were filed for the american society of journalists and authors et al by carl a solano theresa e loscalzo jennifer dufault james joseph t lukens and dionna k litvin for the association of national advertisers inc by steven g brody ] justice thomas announced the judgment of the court
+
+6. tokens 1052-1110: explicit material including hardcore pornography see e g [ amerand gilbert h weil for the association of american publishers inc et al by r bruce rich and jonathan bloom for the chamber of commerce of the united states by jodie l kelley paul m smith and robert cornrevere for the society for the scientific study of sexuality et al by marjorie heins and joan e bertin and ] for volunteer lawyers for the arts et al
+
+7. tokens 1118-1129: for volunteer lawyers for the arts et al [ by charles l kerr elliot m mineberg and lawrence s ottinger ] 1 for a thorough explanation of the history
+
+8. tokens 1161-1162: union 521 u s 844 849 853 1997 [ ican ] civil liberties union v reno 31 f supp
+
+9. tokens 2089-2090: purposes 3 ibid and third while the cda [ pro ] 3 the statute provides that a person shall
+
+10. tokens 2210-2211: activities although it is not necessary that the [ hibited ] indecent and patently offensive communications copa restricts only
+
+11. tokens 2782-2783: violated adults rights under the first and fifth [ amend ] 4 respondents include the american civil liberties union
+
+12. tokens 2855-2856: inc now known as imagestate north america inc [ ments ] because it 1 create d an effective ban
+
+13. tokens 3662-3663: and thus unprotected by the first amendment a [ whether ] the average person applying contemporary community standards would
+
+14. tokens 3900-3901: person or indeed a totally insensitive one miller [ supra ] at 33 internal quotation marks omitted see also
+
+15. tokens 4993-4997: the miller definition of obscenity see supra at [ 569 570 574 575 ] to fall within the scope of copa works
+
+16. tokens 5291-5292: the degree of local acceptance it has won [ ibid ] rather the relevant question is whether a reasonable
+
+17. tokens 5380-5381: the category of images covered by copa because [ airguably ] every depiction of nudity partial or full is
+
+18. tokens 5399-5401: sense erotic with respect to minors post at [ 607 608 ] dissenting opinion emphasis in original we do not
+
+19. tokens 5510-5511: with serious value for minors see post at [ 608 ] his dissenting opinion however does not refer to
+
+20. tokens 6134-6135: of those cases the defendants had the ability [ ialthough ] nowhere mentioned in the relevant statutory text this
+
+21. tokens 6261-6262: communities was not mentioned let alone relied upon [ 2 ] and in sable a dial a porn operator
+
+22. tokens 6312-6313: how burdensome it would have been for dial [ aporn ] operators to tailor their messages to callers from
+
+23. tokens 6467-6468: to particular communities is inaccurate see post at [ 605 ] dissenting opinion this court s conclusion clearly did
+
+24. tokens 6620-6622: forth in hamling and sable see post at [ 594 595 ] kennedy j concurring in judgment if a publisher
+
+25. tokens 6711-6712: avant garde culture is the norm post at [ 595 ] kennedy j concurring in judgment but nonetheless utilizes
+
+26. tokens 6856-6857: foreclose an entire medium of expression post at [ 596 ] quoting city of ladue v gilleo 512 u
+
+27. tokens 6898-6899: to community standards see e g post at [ 596 ] opinion concurring in judgment post at 608 609
+
+28. tokens 6905-6908: at 596 opinion concurring in judgment post at [ 608 609 612 ] dissenting opinion the statute does no such thing
+
+29. tokens 7169-7170: result of copa s reliance on community standards [ 6 ] because congress has narrowed the range of con
+
+30. tokens 7177-7179: 6 because congress has narrowed the range of [ con 5 ] obscene material for instance explicitly falls within the
+
+31. tokens 7221-7222: more than speculation see e g post at [ 598 ] kennedy j concurring in judgment the only objective
+
+32. tokens 7271-7275: compiled in an amici brief see post at [ 611 and n 7 ] citing brief for volunteer lawyers for the arts
+
+33. tokens 7287-7288: lawyers for the arts et al as amici [ tent ] restricted by copa in a manner analogous to
+
+34. tokens 7414-7415: the statute likely will not survive strict scrutiny [ analycuriae ] 4 10 justice stevens however is not even
+
+35. tokens 7438-7439: to material restricted under copa see post at [ 611 ] and we understand his reluctance for the vast
+
+36. tokens 7547-7548: s nypd blue and songs of the popular [ folkrock ] duo the indigo girls these anecdotes are therefore
+
+37. tokens 7605-7607: revisit this question upon remand see post at [ 597 599 ] the lack of evidence in the record relevant
+
+38. tokens 7631-7632: we should vacate for further consideration post at [ 599 ] rather it indicates that respondents by offering little
+
+39. tokens 7667-7668: on community standards renders the statute substantially overbroad [ sis ] once adjudication of the case is completed below
+
+40. tokens 7739-7740: by the court of appeals as a result [ th ] government remains enjoined from enforcing copa absent further
+
+41. tokens 7801-7804: i agree with the plurality that even if [ ob 3 cenity ] on the internet is defined in terms of
+
+42. tokens 7844-7846: the standards of different communities see ante at [ 577 579 ] like justice breyer however see post at 589
+
+43. tokens 7853-7854: 579 like justice breyer however see post at [ 589 ] opinion concurring in part and concurring in judgment
+
+44. tokens 7920-7921: to the narrow category of speech covered by [ coifa ] as to alone render the statute substantially overbroad
+
+45. tokens 7932-7934: render the statute substantially overbroad see ante at [ 577 579 ] i agree given respondents failure to provide examples
+
+46. tokens 7972-7973: other elements of the test respondents examples of [ materia ] for which community standards would vary include such
+
+47. tokens 8036-8037: must on any objective inquiry see ante at [ 579 ] have scientific value for minors but respondents failure
+
+48. tokens 8260-8262: an inordinate amount of expression see post at [ 594 596 ] opinion concurring in judgment contra ante at 580
+
+49. tokens 8269-8271: 596 opinion concurring in judgment contra ante at [ 580 584 ] for these reasons adoption of a national standard
+
+50. tokens 8387-8388: we held did not require that the people [ f ] maine or mississippi accept public depiction of conduct
+
+51. tokens 8408-8410: vegas or new york city id at 32 [ 3 ut ] we said nothing about the constitutionality of jury
+
+52. tokens 8613-8615: encompass a similar diversity for instance in miller [ it elf ] the jury was instructed to consider the standards
+
+53. tokens 8807-8808: pose a first amendment problem see post at [ 591 ] in my view a national standard is not
+
+54. tokens 8864-8866: the variation between local communities i join parts [ 1 11 ] iii b and iv of justice thomas opinion
+
+55. tokens 9066-9067: with respect to what is suitable for minors [ it ] r rep no 105 775 p 28 1998
+
+56. tokens 9138-9140: 523 u s 224 237 238 1998 ashwander [ 1 r ] tva 297 u s 288 348 1936 brandeis
+
+57. tokens 9147-9150: r tva 297 u s 288 348 1936 [ brandeis j concurring ] when the validity of an act of the
+
+58. tokens 9172-9173: even if a serious doubt of constitutionality is [ rased ] it is a cardinal principle that this court
+
+59. tokens 9402-9403: much of the reasoning set forth in parts [ 111 ] b and iii d insofar as it explains
+
+60. tokens 9513-9514: based regulations like this one are presumptively invalid [ abridgments ] of the freedom of speech see r a
+
+61. tokens 9609-9611: even if this facial challenge appears to have [ consider 592 ] ashcroft v american civil liberties un on able
+
+62. tokens 9616-9619: have consider 592 ashcroft v american civil liberties [ un on able ] merit the judiciary must proceed with caution and
+
+63. tokens 9903-9905: the court of appeals however did not consider [ t ie ] amount of commercial communication the number of commercial
+
+64. tokens 10268-10269: community standards though only implicitly see ante at [ 576 ] n 7 the nub of the problem is
+
+65. tokens 10298-10299: the internet means that any communication available to [ 594 ] ashcroft v american civil liberties un on a
+
+66. tokens 10304-10306: available to 594 ashcroft v american civil liberties [ un on ] a nationwide audience will be judged by the
+
+67. tokens 10405-10406: it was one rationale for the holding of [ he ] case in reno the court found t he
+
+68. tokens 10423-10425: of copa s predecessor wholly unprecedented id at [ 87 7 ] in part because of variation in community standards
+
+69. tokens 10443-10444: also relied on that variation to assess the [ strenglh ] of the government s interest which it found
+
+70. tokens 10505-10506: his child nor anyone in their home community [ round ] the material indecent or patently offensive if the
+
+71. tokens 10550-10552: true as justice thomas points out ante at [ 580 583 ] that requiring a speaker addressing a national audience
+
+72. tokens 10996-10997: garde culture is the norm may have no [ 596 ] ashcroft v american civil liberties uni on desire
+
+73. tokens 11002-11004: have no 596 ashcroft v american civil liberties [ uni on ] desire to reach a national market he may
+
+74. tokens 11075-11078: the simple step of utilizing a different medium [ anime at 583 ] principal opinion of thomas j our prior decisions
+
+75. tokens 11177-11178: from which the jury is drawn ante at [ 589 ] opinion concurring in part and concurring in judgment
+
+76. tokens 11190-11193: and concurring in judgment see also ante at [ 586 589 0 ] connor j concurring in part and concurring in
+
+77. tokens 11228-11229: was a uniform view within congress ante at [ 590 ] the statement perhaps reflects the view of a
+
+78. tokens 11250-11251: but there is no reason to believe that [ t ] reflects the view of a majority of the
+
+79. tokens 11325-11326: as the attorney general concedes see ante at [ 577 ] principal opinion of thomas j brief for petitioner
+
+80. tokens 11552-11553: suffices to enjoin the act see ante at [ 585 ] i agree with the court that it does
+
+81. tokens 11643-11645: was at issue in reno see ante at [ 577 578 ] the cda s use of community standards to
+
+82. tokens 11673-11674: statute s unprecedented breadth and vagueness ante at [ 578 ] the tremendous breadth of the cda magnified the
+
+83. tokens 11687-11689: cda magnified the impact caused by differences in [ com munity ] standards across the country to explain the ways
+
+84. tokens 11726-11728: court of appeals though i agree with the [ necesk ity ] for doing so justice thomas interpretation undertaken without
+
+85. tokens 11844-11846: pages covered as justice stevens suggests post at [ 609 610 ] dissenting opinion it is also relevant to the
+
+86. tokens 11946-11947: at 178 on the other hand justice thomas [ fiads ] no reason to believe that the practical effect
+
+87. tokens 11972-11973: than the practical effect of varying community standards [ 3 ] under federal obscenity statutes ante at 583 584
+
+88. tokens 11979-11981: standards 3 under federal obscenity statutes ante at [ 583 584 ] when a key issue has no evidence on
+
+89. tokens 12626-12627: connected to everything else as a general matter [ tihe ] artistic merit of a work does not depend
+
+90. tokens 12694-12695: offensive ashcroft v free speech coalition ante at [ 248 ] copa appears to respect this principle by requiring
+
+91. tokens 13781-13782: that which would be suitable for a sandbox [ internal ] quotation marks omitted sable 492 u s at
+
+92. tokens 13971-13972: 1 in evaluating the overbreadth of such a [ i ] petitioner cites examples of display statutes in 23
+
+93. tokens 14393-14394: from entering any geographic community see ante at [ 575 ] n 6 opinion of thomas j a law
+
+94. tokens 14436-14441: have access to the internet see ante at [ 567 n 2 majority opinion ] in light of this fundamental difference in technologies
+
+95. tokens 14647-14648: to say as justice thomas suggests ante at [ 583 ] that a speaker need only choose a different
+
+96. tokens 14724-14725: simple step of utilizing a medium that enables [ ibid ] them to avoid this material before requiring the
+
+97. tokens 14748-14749: reply brief for appellants in reno v aclu [ 0 ] t 1996 no 96 511 p 19 1
+
+98. tokens 14756-14757: 0 t 1996 no 96 511 p 19 [ 1 ] justice thomas points to several other provisions in
+
+99. tokens 14783-14785: by the rest of the statute ante at [ 578 579 ] these provisions afford little reassurance however as they
+
+100. tokens 14864-14865: to contemporary community standards as well ante at [ 576 ] n 7 opinion of thomas j whatever disparity
+
+101. tokens 14920-14921: contemporary national standards into the statute ante at [ 589 ] opinion concurring in part and concurring in judgment
+
+102. tokens 15078-15079: by our discussion of the issue in aclu [ 1 ] 521 u s at 874 n 39 and
+
+103. tokens 15122-15123: clearly did not choose and even if the [ plurality ] were willing to do so we would still
+
+104. tokens 15158-15163: different conclusions throughout the country see ante at [ 577 brief for petitioner 39 ] whether descriptions of sexual acts or depictions of
+
+105. tokens 15194-15195: be in some sense erotic see ante at [ 579 ] citing erznoznik v jacksonville 422 u s 205
+
+106. tokens 15478-15479: war victim s wounded nude body ante at [ 579 ] n 9 would not be covered by the
+
+107. tokens 15608-15609: justice kennedy makes a similar misstep ante at [ 592 ] opinion concurring in judgment when he ties the
+
+108. tokens 15718-15719: speech as compared to the cda ante at [ 569 ] while it is certainly true that this condition
+
+109. tokens 16094-16095: works are harmful to minors see ante at [ 577 ] brief for petitioner 3 4 39 we recognized
+
+110. tokens 16106-16108: 3 4 39 we recognized as much in [ acl u ] i when we noted that discussions about prison
+
+111. tokens 16180-16181: id at 896 o connor j concurring in [ judg ] 6 justice kennedy accuses the court of appeals
+
+112. tokens 16208-16209: concerns raised by the district court ante at [ 599 ] but most of those concerns went to whether
+
+113. tokens 16271-16272: criminal as well as civil penalties was excessive [ ment ] in part and dissenting in part moreover amici
+
+114. tokens 16470-16471: the content of the message the kind of [ hardcore ] pornography involved in hamling which i assume would
+
+115. tokens 16534-16535: pornographic sites deserve the same fate but copa [ ex ] 7 brief for volunteer lawyers for the arts
+
+116. tokens 16565-16566: american way foundation annual freedom to learn reports [ i ] nor is there any reason to expect that
+
+117. tokens 16603-16604: for commercial purposes or as a whole provisions [ tends ] to a wide range of prurient appeals in
+
+118. tokens 16845-16848: community that wishes to live without certain material [ rids not only ] itself but the entire internet of the offending

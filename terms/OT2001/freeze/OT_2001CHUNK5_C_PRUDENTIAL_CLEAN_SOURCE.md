@@ -1,0 +1,898 @@
+# Prudential source-only lower opinion
+
+Script-copied from C_SOURCE_EXTRACTS lines 853?1750; two citation-history tails omitted and marked. The lower-court account and all legal arguments are otherwise retained. The original source remains [official lower opinion](../sources/OT_2001CHUNK5_C/prudential_official.txt).
+
+## 76. Prudential: official lower-court opinion
+
+Source copy: [saved text](../sources/OT_2001CHUNK5_C/prudential_official.txt). The source is identified in its first line. These are source excerpts, not adopted findings; party assertions retain that status.
+
+Filed August 2,  2001
+UNITED STATES COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+No. 00-1389
+IN RE:
+PRUDENTIAL INSURANCE COMPANY OF
+AMERICA SALES PRACT ICE LITIGATION
+Marvin Lowe and Alice Lowe,
+Appellants
+(Amended per Clerk Order dated 5/22/00)
+Appeal from the United States District Court
+for the Distr ict of New Jersey
+(Civil No. 95-cv-04704)
+District Judge: Hon.  Alfred M.  Wolin
+Argued: December 5, 2000
+Before: McKEE, Circuit Judge, ROSENN
+and CUDAHY,* Senior Circuit Judges
+(Opinion Filed: August 2,  2001)
+_________________________________________________________________
+* The Honorable Richard D.  Cudahy, Senior Circuit Judge of the
+United States Court of Appeals for  the Seventh Cir cuit, sitting by
+designation.
+
+ROBERT B. MILLER, ESQ. (Argued)
+TERI L.  DI GIULIAN,  ESQ.
+Bedzow, Korn,  Brown, Miller
+ & Zemel,  P.  A.
+P. O. Box 8020
+Hallandale Beach,
+ Florida 33008-8020
+Attorneys for Appellants,
+Marvin and Alice Lowe
+REID L. ASHINOFF, ESQ. (Argued)
+MICHAEL H.  BARR, ESQ.
+LORIE A.  CHAITEN, ESQ.
+DEBORAH H.  RENNER,  ESQ.
+Sonnenschein Nath & Rosenthal
+1221 Avenue of the Americas
+New York, New York 10020
+ALAN E.  KRAUS, E SQ.
+Riker, Danzig, Scherer, Hyland &
+ Perretti , LLP
+Headquarters Plaza
+One Speedwell Avenue
+Morristown, New Jer sey 07960
+Attorneys for Appellee,
+The Prudential Insurance Company of
+America
+OPINION OF THE COURT
+McKEE, Circuit Judge.
+This appeal arises in the wake of the settlement of a
+nationwide class action against The Prudential Insurance
+Company of America. Tw o policyholders who were members
+of the class appeal the district court' s order enjoining them
+from prosecuting suits they filed in state cour t in Florida
+based upon policies that were eligible for inclusion in the
+nationwide class, but which the plainti ffs excluded from the
+terms of the class settlement.  For the reasons that follow,
+we will affirm.
+                                2
+
+I. FACTUAL BACKGROUND1
+A large group of policy holders started a nationwide class
+action against Prudential Life Insurance Company alleging
+that Prudential agents had engaged in deceptive sales
+practices.
+The class is comprised of [over 8 million] Prudential
+policyholders who allegedly were the victims of
+fraudulent and misleading sales practices employed by
+Prudential' s sales force.  The challenged sales practices
+consisted primarily of churning, 2 vanishing premiums3
+_________________________________________________________________
+1. The facts surrounding the litigation and settlement can be found in
+the district court' s opinion approving the settlement as well as our  prior
+opinion affirming the district court.  See In re P rudential Ins. Co.  of
+America Sales Practices Litigation, 962 F. Supp.  450 (E. D.  Pa.  1997),
+aff ' d 148 F. 3d 283 (3d Cir.  1998). [Citation history omitted.] Accordingly, we will
+only set forth the background of the underlying class action here to t he
+extent that it places our inquiry in context and assists our discussion.
+2. The distr ict court explained that " [i]n the life insurance context, the
+term ` churning'  refers to the removal, through misrepresentations or
+omissions, of the cash v alue, including dividends, of an existi ng life
+insurance policy or annuity to acquire a replacement policy. The value of
+the first policy may be r educed either by borr owing against the policy or
+by virtue of the policy' s lapse. Churning often results in financial
+detriment to the policyholder, a financial benefit to the agent by vir tue
+of a large commission on the fir st year premium, and administrative
+charges being paid to the insurer." In re Pr udential Ins. C o. of America
+Sales Practices Litigation, 962 F.  Supp. 450, 474. (E.  D.  Pa.  1997)
+" ` Churning'  in the life insur ance context is also r eferred to as ` twisting'
+or ` piggybacking.'  " Id. at 474 n.11.  "A r eplacement policy is a policy
+financed through using equity, cash value,  dividends, interest, or
+premiums from an existing policy." Id. at 474 n.12.  A replacement policy
+is "rarely in the best inter ests of the policy holder because: (1) existing
+policy premiums are usually lower because a replacement takes place
+when the insured is in a less favor able underwriting class; (2) acquisition
+costs are charged in the early years of a policy and the policyh older
+incurs these costs again with the replacement policy; and (3)
+replacement renews the risk that an incontestability or suicide clause
+will be incorporated into a policy." Id. at 475.
+3. The district court found that " Prudential agents used ` Abbreviated
+Payment Plan'  (` APP' ), or ` vanishing premium'  policies, often in
+                                3
+
+and fraudulent investment plans,4 and each cause of
+action is based on fraud or deceptive conduct.
+148 F. 3d at 289.
+On October 28,  1996, the class r epresentatives entered
+into a Stipulation of Settlement with Prudential.  App. at
+668-724. That same day, the distr ict court entered an
+Order Conditionally Certifying the Class for Settlement
+Purposes, Designating Class Counsel and Class
+Representatives, Staying Pending Motions, Directing
+Issuance of Notice, Issuing Injunction and Scheduling
+Settlement Hearing (the " Certification Order"). App. at 725-
+38. In that Certification Order , the district court also
+_________________________________________________________________
+conjunction with churning, to sell permanent life insurance policies to
+class members; P rudential agents misrepresented that policyholders
+would have to pay no out-of-pocket premiums after a certain number of
+premium payments during the initial years of the policies. .  .  .
+Prudential' s standardized sales presentations and policy illustrations
+failed to disclose that the policy premiums would n ot vanish and that
+Prudential did not expect the policies to pay for themselves as
+illustrated. Prudential' s illustrations also did not inform policyholders of
+the assumptions on which the policy illustrations were based,
+assumptions which had no reasonable basis in fact. . . .  Agents
+frequently merged churning tactics and APP policies, forcing
+policyholders to pay the pr emium cost of the AP P policy by dissipating
+the cash value of an existi ng life insurance policy." 962 F.  Supp. at 476.
+4. The district co urt explained that "Pr udential fraudulently marketed life
+insurance policies as ` investment plans,'  ` retirement plans,'  or similar
+investment vehicles. Plaintiffs allege that Prudential agents failed to
+disclose that these purported ` investment plans'  were really stand ard life
+insurance policies, which carried costs and other components that
+materially and adversely differed from true investment or retirement
+plans. .  .  .  Specifically, Pr udential misrepresented to policyholders,
+through standard presentations and materials,  that life insurance
+policies were equivalent to investment or savings accounts, pension
+maximization or retir ement plans, college-tuition funding plans, mutual
+funds, or other investment or savings plans.  .  .  .  As with the APP plans,
+Prudential agents often used the investment plan scheme in conjunction
+with churning to persuade existing policyh olders to replace their  policies
+with ` new'  ones, misrepresenting th e benefits that policyholders could
+achieve by transferring the accumulated cash values to the ` investment
+plan.'  " 926 F.  Supp. at 476-77.
+                                4
+
+conditionally certified the following for purposes of
+settlement:
+a class that consists o f all persons who own or owned
+at termination an individual permanent whole life
+insurance policy issued by Prudential or any of its
+United States Life insurance subsidiaries during the
+Class Period of January 1, 1982 through December 31,
+1995 (the "Policy" or " Policies"),  except as specifically
+described below [not relevant here] ("Policyholde rs"),
+and do not timely exclude themselves from
+participating in the settlement ("Class Members" or the
+"Class").
+App. at 727.  The Certificatio n Order also sch eduled a date
+for a Settlement Hearing
+to consider the fairness,  reasonableness and adequacy
+of the proposed settlement and terms and provisions of
+the Stipulation, .  .  .  and to deter mine whether the
+proposed settlement and the Stipulation should be
+finally approved by the Court.
+Id. at 729. In addition,  the Certification Or der required that
+Prudential provide Class Notices to all policyholders. The
+court required that the Class Notice
+(i) contain a shor t, plain statement of the background
+of the Actions,  the conditional Class certification and
+the proposed settlement, (ii) descr ibe the proposed
+forms of relief, (iii) explain the procedures for receiving
+and participating in the pr oposed forms of relief, (iv)
+explain Class Members'  rights of exclusion,  objection
+and appeal and (v) state that any relief to Class
+Members is contingent on the C ourt' s final approval of
+the proposed settlement.
+Id. at 730.
+The Class Notice also advised class members of the effect
+of the proposed settlement an d referenced a Release that
+was attached as Appendix A.  The Release stated in relevant
+part that " Class Members her eby expressly agree that they
+shall not . .  .  institute, maintain or assert .  .  .  any and all
+causes of action, claims .  .  .  that have been,  [or] could have
+been, asserted by Plaintiffs or any Class Member  against
+                                5
+
+[Prudential] in any other court action  .  .  .  connected with
+. . .  The Released Transactions5.. . " Id. at 765.
+The Class Notice also told the Class Members how they
+could exclude themselves from the class and e xplained that
+policyholders who owned more than one policy could
+"choose to remain a Class Member with respect to some
+Policies, but .  .  .  exclude [themselves] from the Cla ss with
+respect to other Policies." Id.
+Following the mailing of the C lass Notice and the
+Fairness Hearing,  the district court enter ed a Final Order
+and Judgment certifying a settlement and approving the
+settlement as fair,  reasonable and adequate. In re
+Prudential Ins. Co.  of America Sales Practices Litigation, 962
+F. Supp. 450 (E. D.  Pa.  1997). The Final Order also cl early
+informed all class members of the pr eclusive effect of the
+Settlement. It stated:
+The terms of th e Stipulation of Settlement and of this
+Final Order and Judgment, including all exhibits and
+supplemental exhibits thereto, shall forever be binding
+on, and shall have r es judicata and claim preclusive
+effect in all pending and future lawsuits maintained by
+or on behalf of,  the plaintiffs and all o ther class
+members, as well as their  heirs, executors and
+administrators, successors and assigns.  All claims for
+compensatory or punitive damages on  behalf of class
+members are her eby extinguished, except as provided
+for in the S tipulation of Settlement.
+Id. In addition,  the district court expressly incorporated the
+Release into the Final Order. Id. at 566.
+The Certification Order also contained the following
+injunction:
+_________________________________________________________________
+5. "Released Transactions" are defined in the Release to " mean the
+marketing, solicitation, application, under writing, acceptance, sale,
+purchase, operation, retention, administration, servicing, or r eplacement
+by means of surrender, partial sur render, loans respecting,  withdrawal
+and/or termination of the Policies or any in surance policy or annuity
+sold in connection with, or  relating in any way directly or indirectly to
+the sale or solicitation of, the Policies. .  .  . " App. at 765.
+                                6
+
+Prudential has offered evidence showing the existence
+of multiple class actions which could act to seriously
+impair this Court' s ability to over see the orderly and
+efficient management of the proposed nationwide  class
+action settlement, and have demonstrated that without
+preliminary injunctive relief, many similar actions
+could proceed. Based on its familiarity with the issues
+in this lawsuit and the  complexity of the proposed
+settlement, the Court finds that such actions ma y
+substantially impair the ability of thi s Court and the
+parties to implement the proposed settlement. .  .
+Therefore, based on the re cord, including the legal and
+factual support for an injunction submitted by
+Prudential, this Court finds tha t an injunction is
+necessary to protect its jurisdiction,  and hereby issues
+the following injunction, effective upon the mailing of
+the Class Notice, with Policyholders having been thus
+afforded the opportunity to exclude themselves from
+the Class:
+All Policyholders and all persons acting on behalf
+of or in concert or partici pation with any
+Policyholder, are hereby enjoined from fi ling,
+commencing, prosecuting, continuing, litigating,
+intervening in or participating as class members
+in, any lawsuit in any jurisdicti on based on or
+related to the facts and circumstances underlying
+the claims and causes of action in this lawsuit,
+unless and until such Policyholder has timely
+excluded herself or himself from the Clas s. 
+Id. at 735-36 (emphasis added).
+The district court invoked the authority of the All-Writs
+Act, 28 U. S.C. § 1651(a),  and the Anti-Injunction Act, 28
+U.S.C. § 2 283, in entering this injunction. The  court
+reasoned that the injunction was "necessary in aid o f its
+jurisdiction in order to effec tuate the proposed settlement,"
+id. at 735, and therefore permissible u nder the Anti-
+Injunction Act and authorized by the All-Wr its Act. The
+court "re tain[ed] exclusive jurisdiction as to all matters
+relating to administration, consummation, enforcement and
+interpretation of the Stipulation of Settlement and of [the]
+Final Order and Judgment, and for any other necessary
+                                7
+
+purpose," Id., before dismissing the action pursuant to the
+settlement agreement.
+We affirmed the district cour t' s certification of the class
+and approval of the settlement in In re P rudential Ins. Co.
+of America Sales Practices Litigation, 148 F.3d 283 (3d Cir.
+1998). [Citation history omitted.]
+II. THE FLORIDA SUIT
+Marvin and Alice Lowe, the appellants here, are members
+of the class because they purchased five Prudential
+insurance policies between 1981 and 1989. Four of those
+policies were class eligible. The Lowes r equested that two of
+the policies be excluded from the class (the "Excluded
+Policies"), but they remained class memb ers as to two other
+policies (the "Class Polici es").
+Ten months after the district court certified the class and
+approved the nationwide settlement, the Lowes started an
+action in state court in Browar d County Florida.  There,
+they initially alleged that a Pruden tial agent had engaged in
+deceptive and fraudulent practices in connection with their
+purchase of all five insurance policies. H owever, because
+the Class Policies constituted Released  Transactions under
+the terms of the class settlement, the Lowes filed an
+amended complaint in which they limited their claims to
+the two Excluded Policies. T he Lowes'  First Amended
+Complaint asserts a cause of action against  Prudential for
+breach of fiduciary duty, violations of Florid a' s RICO
+statute, negligent misrepresentation, fraudulent
+inducement, common law fr aud, constructive fraud,
+reckless and wanton supervision, negligent supervision,
+and unjust enrichment. First Am. Compl. at ¶¶ 74-129.
+Prudential claimed that the First Amended Complaint
+continued to rely on, and enumerate, all of the
+circumstances surrounding the purchase of the two Class
+Policies. In fact, Pr udential insisted that the Lowes merely
+deleted the policy numbers of the two Clas s Policies from
+their original complaint then refiled that same complaint as
+                                8
+
+the Amended Complaint. For example, the Class Action
+complaint alleged that:
+Prudential engaged in a systematic fraudulent
+marketing scheme in which its agents wrongfully
+induced policyholders to purchase certain Pr udential
+life insurance policies. Second Am. Compl. at ¶ 5.
+Prudential implemented its scheme thr ough the use of
+false and misleading sales presentations,  policy
+illustrations, marketing materials,  and other
+information that Prudential approved, prepared, and
+disseminated to its nationwide sales force.  Second Am.
+Compl. at ¶ 5.
+*******************
+Beginning in the early 1980' s, Prudential used its
+centralized marketing system to implement a sch eme
+to sell new insurance policies to e xisting and new
+customers through three deceptive sales tactics:
+"churning," "vanishing premium," and"investment
+plan" techniques.
+962 F.  Supp. at 473-74.  The Lowes'  First Amended
+Complaint alleged:
+Sometime prior to 1982,  the exact date b eing unknown
+to the [Lowes], Prudential devised a sales scheme and
+artifice to deprive its insur eds and potential customers,
+including the [Lowes], of their  property,  in which
+Prudential trained its sales for ce, .  .  .  ,  to induce and
+persuade current and potential customers, including
+the [Lowes], to purchase life insurance policies based
+on false and misleading policy illustrations and sale s
+presentations, involving, inter alia,  "churning" and
+"vanishing premiums."
+**************
+Prudential embarked upon a scheme,  plan, and
+common course of conduct through its agency syste m
+within Florida to  sell high commission whole life
+polices to residents of the S tate of Florida thr ough false
+and misleading sales presentations and policy
+illustrations based upon the vanishing premium
+                                9
+
+concept. In this r egard, Prudential tar geted [the Lowes]
+in a scheme that included inter alia: (1) the sale o f .  .  .
+vanishing premium policies, and (2) chur ning prior
+existing "in force"  polices. [The Lowes] were induced to
+purchase various life insurance policies based on sale s
+presentations and policy illustrations and promises
+that, if they made  "out-of-pocket" premium payme nts
+for a designated number of years,  the interest earned
+on the polices would be sufficient to pay the premiums
+thereon for life,  and thus, they would not have to co me
+out-of-pocket to pay premiums after the designated
+number of years.
+Lowe' s First Am. Compl. at ¶¶ 7, 39.
+The First Amended Complaint and the Class C omplaint
+both alleged senior management involvement in the
+"scheme." Compare 962 F.  Supp. at 473-478 and 148 F. 3d
+at 294 (describing Class allegations, including allegations of
+senior management involvement) with Lowe' s First
+Amended Complaint at ¶ 26 (" [a]fter training and
+encouraging its agents to en gage in the fraudulent schem e
+outlined above, Prudential turned a blind eye towar d the
+fraudulent practices of its agents." ).
+The Lowes,  however,  insisted that their Fir st Amended
+Complaint deleted their claims for damages stemming from
+the purchase of the Released T ransactions as well as any
+reference to the Released Transactions.  They argued that
+the First Amended Complaint was not based on, and did
+not seek damages for,  the claims underlying the two Class
+Policies.
+In a letter to Pr udential' s counsel dated January 13,
+1999, the Lowes'  counsel explained " while we do not intend
+to seek damages based upon the non-opted out policies, the
+facts surrounding them were relevant to our claims ,
+including but not limited to our claim of a patter n and
+practice by Prudential justifying not only the imposition of
+liability, but additionally an assessment of punitive
+damages." App. at 358 (emphasis added). P rudential
+concluded that this letter established that the Lowes
+intended to rely upon evid ence relating to the Class Policies
+in their suit on the Excluded Policies. T hus, argued
+                                10
+
+Prudential, the Lowes intended to establish a patt ern and
+practice of defrauding policyholders by relying upon facts
+relevant to the Class Policies and to use that e vidence as a
+basis for their state claims for punitive and compensatory
+damages in relation to the sale o f the Excluded Policies.
+Prudential argued that the Lowes'  state court action would
+therefore force Prudential to defend the very matters
+covered by the Class Release.6 Accor dingly, Prudential
+asked the district court to rule that  the Lowes'  action in
+Florida on the Excluded P olicies violated the terms of the
+class settlement.
+The district cour t agreed and held that
+permitting litigation of [Excluded Policies] claims
+through the use of eviden ce of those sales practices
+and patterns that were the subject of the cla ss action
+would impair the finality of the class settlement to an
+unacceptable degree. In effect,  this would per mit the
+relitigation of the released claims.
+Dist. Ct.  Op. at 4.  Therefore, on Mar ch 29, 2000, the
+district court issued an or der specifically enjoining the
+Lowes
+from engaging in motion pr actice, pursuing discovery,
+presenting evidence or undertaking any other action in
+furtherance [of their state court action] that is based
+on, relates to or involves facts and circumstances
+underlying the Released Transactions in the Class 
+Action.7
+_________________________________________________________________
+6. On Mar ch 2, 2000, the Lowes fil ed a Third Amended Complaint in the
+state court expressly seeking,  according to Prudential,  punitive damages
+based on Class allegations. Prudential also says that by letter dated
+March 15, 2000, it informed the district court that"[i]n January 2000,
+the Lowes served Prudential with nearly 85 document requests, the
+majority of which .  .  .  pertain to evidence based on,  or r elated to, or
+involving the facts and circumstances underlying the Class claims."
+Prudential' s Br. at 16.
+7. On April 6, 2000, Prudential notified the Flor ida state court judge and
+the Lowes that the district court had enforced the Class Injunction
+against the Lowes. After  a status conference,  the state court issued an
+order on April 17,  2000, which pr ovides in relevant part as follows:
+                                11
+
+App. at 2.
+This appeal followed.
+III. DISCUSSION
+We review the terms of an injunction for  an abuse of
+discretion, underlying questions of law r eceive de novo
+review, and factual determinations are reviewed for clear
+error. Epstein Family Partnership v. Kmart Corp. , 13 F.3d
+762, 765-66 (3d Cir . 1994). The standard of review for the
+authority to issue an injunction under the Anti-Injunction
+Act and the All-Writs Act is de novo.  Frank Russell Co.  v.
+Wellington Mgmt. Co. , Inc., 154 F. 3d 97, 101 (3d Cir.  1998);
+Carlough v.  Amchem Prods. , 10 F. 3d 189, 197 (3d Cir .
+1993).
+The Anti-Injunction Act provides:
+A court of the United States may  not grant an
+injunction to stay proceedings in a State court except
+as expressly authorized by Act of Congress, or where
+necessary in aid of its jur isdiction, or to pr otect or
+effectuate its judgments.
+28 U.S.C. § 2283.  The Act " is an absolute pr ohibition
+against enjoining state court proceedings, unless the
+injunction falls within one of three specifically defined
+exceptions." Atlantic Coast Line R.  R.  Co.  v. Brotherhood of
+Locomotive Engineers, 398 U.S.  281, 286 (197 0).
+Consequently, "an y injunction against state court
+proceedings otherwise proper under gen eral equitable
+_________________________________________________________________
+This action is stayed until clar ification is achieved, either by
+agreement of the parties or pursuant to f urther Court order , as to
+the scope, effect and ramifications of the Letter Opinion and Order
+[of the district court],  so that the parties and this Court may
+understand the practical impact this injunction will have on these
+proceedings.
+App. at 988-89. Subse quently, on May 3, 2000, the state court sua
+sponte issued directions to the state court clerk that the  Lowes'  state
+court action was to be deemed inact ive subject to r eopening upon
+appropriate petition.
+                                12
+
+principles must be based on one of the specific statutory
+exceptions to § 2283 if it is to be upheld." Id. at 287. T hese
+"exceptions are narr ow and are not to be enlarged by loo se
+statutory construction." Chick Kam Choo v.  Exxon Corp.,
+486 U.S. 140, 146 (1988)(citations, internal quotations and
+brackets omitted).
+The injunction issued by the distr ict court here was not
+"expressly authorized by Congress." Accordingly, it can be
+upheld only if it w as necessary "in aid of [the district
+court' s] jurisdiction" or " to protect or effectuate [that
+court' s] judgments."
+The rule allowing injunctions that are necessary"to
+protect or effectuate [a court' s] judgments" is also known as
+the "relitigation ex ception" to the Anti I njunction Act. Kam
+Choo, 486 U. S. at 147. " The relitigation exception was
+designed to permit a federal court to prevent state litigation
+of an issue that p reviously was presented to,  and decided
+by, the federal court." Id. The exception"is founded in the
+well-recognized concepts of res judicata and  collateral
+estoppel." Id. "[A]n essential prerequisite for applying the
+relitigation exception is that the clai ms or issues which the
+federal injunction insulates from litigation in state
+proceedings [must] actually have been decided by the
+federal court." Id. at 148.
+The Supreme Court has th erefore urged that co urts
+proceed with caution when c onsidering issuing an
+injunction under the Anti-Injunction Act. "A f ederal court
+does not have inherent power to ignore the limitations of
+§ 2283 and to enjoin state court proceedings merely
+because those proceedings interfere with a protected federal
+right or invade an area preempted by federal law,  even
+when the interference is unmistakably clear." Atlantic Coast
+Line R.  R.  Co. , 398 U. S. at 294. " This rule applies
+regardless of whether the federal court has jurisdiction over
+the controversy, or whether it is ousted fr om jurisdiction for
+the same reason the state court is." Id. at 294-95.
+Moreover, even when the distr ict court does have
+jurisdiction, "it is not enough that the  requested injunction
+is related to that jurisdiction,  but it must be` necessary in
+aid of '  that jurisdiction." Id. at 295 (emphasis added).
+                                13
+
+While this language is admittedly broad,  .  .  .  it implies
+something similar to the co ncept of injunctions to
+` protect or effectuate'  judgments. Both .  .  .  imply that
+some federal injunction relief may be necessary to
+prevent a state court fr om so interfering with a federal
+court' s consideration or disposition of a case as to
+seriously impair the federal court' s flexibility and
+authority to decide that case.
+Id. Moreover, "[a]ny doubts as to the propriety of a federal
+injunction against state court proceedings should be
+resolved in favor of pe rmitting the state courts to proceed in
+an orderly fashion to finally determine the controversy." Id.
+at 297.
+However, a caveat is in or der here. Usually, "the` aid of
+jurisdiction'  exception to the Anti-Injunction Act applies
+only to parallel state in rem rather  than in personam
+actions." Winkler v. Eli Lilly & Co. , 101 F. 3d 1196, 1202
+(7th Cir. 1997)(citing Vendo Co. v. Lektro-Vend Corp., 433
+U.S. 623,  641-42 (1977)). T he most notable exception to
+this general pattern of in rem  application is " school
+desegregation cases, where conflicting orders from different
+courts would only serve to make ongoing federal oversight
+unmanageable." Winkler, 101 F. 3d at 1202(citation
+omitted). Another exception that is mor e pertinent to our
+inquiry includes "consolidated multidistrict litigation, where
+a parallel state court action threate ns to frustrate
+proceedings and disrupt the orderly resolution of the
+federal litigation." Id. (citing, among other cases, Carlough
+v. Amchem Products,  Inc., 10 F. 3d 189, 197 (3d Cir.  1993)).
+In Winkler, the Court concluded that the"necessary in a id
+of jurisdiction" exception "should be construed ` to empower
+the federal court to enjoin a concur rent state proceeding
+that might render the ex ercise of the federal court' s
+jurisdiction nugatory.'  " Id. (citing Martin H.  Redish, The
+Anti-Injunction Statute Reconsidered, 44 U.  Chi.  L.  Rev. 717,
+754 (1977)).
+The All-Writs Act is similar in scope and operation to the
+Anti Injunction Act. In pert inent part,  the All-Writs Act
+provides that:
+The Supreme Court and all cour ts established by Act of
+Congress may issue all writs necessary or appropriate
+                                14
+
+in aid of their respectiv e jurisdictions and agreeable to
+the usages and principles of law.
+28 U.S. C. § 1651(a). The All-Writs Act "acts in co ncert" with
+the Anti-Injunction Act "to permit the issuance of an
+injunction[.]"
+[W]hile the Anti-Injunction Act does not provide
+positive authority for issuanc e of injunctions, it
+describes those situations where injunctions are not
+permitted. The All-Writs Act, by contrast, grants the
+federal courts the authority to issue injunctions where
+necessary in aid of their jurisdiction.  The parallel
+"necessary in aid of jurisdiction" language is construed
+similarly in both the All-Writs Act a nd the Anti-
+Injunction Act.
+Carlough, 10 F. 3d at 201 n.9 (3d Cir.  1993).
+The Lowes argue that the district court' s injunction here
+purports to rest on b oth the "necessary in aid  of its
+jurisdiction" exception and the "to protect or effectua te its
+judgments" exception to the Anti-Injunction Act. Lo wes'  Br.
+at 23. Prudential ar gues that the injunction was based
+solely on the relitigation exception of the Act. Prudential' s
+Br. at 29.  In its opinion, the distr ict court stated that
+allowing the Lowes to use evidence of sales  practices and
+patterns relating to the Class Policies in their state action
+on the Excluded Policies "would impair the finality of t he
+class settlement to an unacceptable degree" and wou ld
+effectively permit " the relitigation of the released claims. "
+Dist. Ct.  Op. at 4.
+We are mindful, of course, that the injunction here is not
+directed at the Flor ida state court.  Rather,  it is directed at
+the Lowes as plaintiffs in that state court action. The Anti-
+Injunction Act is nevertheless directly implicated because
+"the prohibition of § 2283 cannot be evaded by addr essing
+the order to the parties." Atlantic Coast Line R.  R.  Co. , 398
+U.S. at 287; see also The 1975 Salar ied Retirement Plan for
+Eligible Employees of Crucible, Inc. v. No bers, 968 F. 2d 401,
+405 (3d Cir. 1992)(The Anti-Injunction Act cannot be
+evaded by the formality of enjoining named  parties r ather
+than the state court proceeding itself).
+                                15
+
+The Lowes contend that the injunction was not
+authorized under the All-Writs Act and was bar red by the
+Anti-Injunction Act. They argue in the alter native that the
+injunction should be vacated because it is over broad,
+vague, ambiguous, beyond the scope of the F inal Judgment
+and Order, and otherwise an abuse of discr etion.
+It is now settled that a ju dgment pursuant to a class
+settlement can bar later claims based on the alle gations
+underlying the claims in the settled class action. This is
+true even though the pr ecluded claim was not pr esented,
+and could not have been pr esented, in the class action
+itself. See, TBK Partners, Ltd.  v. Western Union Corp., 675
+F.2d 456, 460 (2d Cir.  1982). TBK Partners appears to be
+the first case firmly establishing this principle. Ho wever,
+that rule has since been applied i n other cases in the
+Second Circuit, see also In re Baldwin United Corp. (Single
+Premium Deferred Annuities Insurance Litigation), 770 F. 2d
+328, 336 (2d Cir . 1985), and it has been accepted by the
+Ninth Circuit C ourt of Appeals.  See, e. g., Class Plaintiffs v.
+City of Seattle, 955 F. 2d 1268 (9th Cir . 1992). In Class
+Plaintiffs, the court held that a federal court may release
+claims over which it has no subject matter jurisdicti on if
+the state claims arise from the same nucleus of oper ative
+facts as the claims properly before it.
+Admittedly, it " may seem anomalous at first glance .  .  .
+that courts without jurisdiction to hear certain claims have
+the power to release tho se claims as part of a judg ment."
+Grimes v. Vitalink Communications Corp., 17 F. 3d 1553,
+1563 (3d Cir.  1994). However, we have end orsed the rule
+because it "ser ves the important policy interest of judicial
+economy by permitting parties to enter into comprehensive
+settlements that ` prevent relitigation of settled questions at
+the core of a class action.'  " Id. (quoting TBK Partners, 675
+F.2d at 460). We cited this principle approvingly when we
+affirmed the district court' s approval of the class action
+settlement here.  See 148 F. 3d at 326 n. 82.
+That does not, however,  end our inquiry.  Although this
+principle is well established, we must examine the text of
+the Class Notice and, mor e particularly, the Class Release
+to determine the propriety of this injunction.  We must
+determine whether settlement of claims the Lowes had
+                                16
+
+under the Class Policies precludes them from pursuing
+claims in Florida pur portedly arising fr om the Excluded
+Policies.
+The Class Notice specifically referr ed to the Class Release
+and informed class members:
+ If the proposed settlement is approved by the Court,
+and affirmed on appeal, the lawsuit will be dismissed
+with prejudice, and Prudential will b e released from all
+claims that have been or  could have been asser ted by
+Class Members.  The release encompasses any ma tter
+relating to the mar keting, solicitation, application,
+underwriting, acceptance, sale, purchase, operation,
+retention, administration, servicing, or r eplacement, by
+means of surrender, partial surrender, loans respecting
+withdrawal and/or terminations of Policies or any
+insurance policy or annuity sold in connection wi th or
+relating in any way dir ectly or indirectly to the sale or
+solicitation of, the Policies. The r elease is intended to be
+very broad. The r elease is a cr itical element of the
+proposed settlement, and accordingly, the entire text
+has been included in Appendix A to t his Notice (except
+for certain defin ed terms that appear elsewhere in th is
+Notice). Because it will affect your rights if yo u remain
+in the Class,  you should read t his paragraph and the
+entire release.
+Id. at 754 (emphasis added). As noted earlier , the Release
+was attached as Appendix A t o the Class N otice, and
+provided, in relevant pa rt:
+Plaintiffs and all Class Members hereby expressly agr ee
+that they shall not now or hereafter institut e, maintain
+or assert against any of th e Releasees, either directly or
+indirectly, on their own behalf,  on behalf of th e Class
+or any other  person,  and release and discharge the
+Releasees from,  any and all ca uses of action, claims,
+damages, equitable, legal and ad ministrative relief,
+interest, demands or ri ghts, of any kind or nature
+whatsoever, whether based on federal,  state or local
+statute or ordinance,  regulation contract,  common law,
+or any other sour ce, that have been, could have been,
+may be or could be al leged or asserted now or in the
+                                17
+
+future by Plaintiffs or any Class M ember against the
+Releasees in the Actions or in any other  court action or
+before any administrative body (including any state
+Department of Insurance or other regulatory
+commission), tr ibunal or arbitration panel on the basis
+of, connected with, arising out of, or  related to, in whole
+or in par t, the Released Tr ansactions and servicing
+relating to the Released Transactions. . . .
+Id. at 765 (emphasis added).
+The Class Policies constitute Released Transactions and
+the Lowes do not ar gue to the contrary. Accordingly, the
+Lowes clearly r eleased Prudential from any claims" based
+on,"  "connected with,"  "ar ising out of,"  "or  related to, in
+whole or in part" their two Class P olicies. Inasmuch as the
+Class Release was expressly incorporated into the Final
+Order and Judgment, see 962 F.  Supp. at 564,  566, it has
+both claim preclusive and issu e preclusive effect,  and class
+members were specifically advised of this. T he Class
+Release also precludes class members from relying upon
+the common nucleus of operative facts underlying claims
+on the Class Policies to fashion a separate remedy against
+Prudential outside the confines of the Released Claims.
+Consequently, the Lowes,  as class members on two Class
+Polices, are pr ecluded from using the sales pr actices and
+factual predicates pertaining to their Class Policies in  their
+state court action on the Excluded Policies.
+The district court concluded that allowing the Lowes to
+prosecute their civil claims in the Flor ida court would allow
+an end run around the Class settlement by affo rding them
+(and other class members who might later  attempt the
+same strategy) an opportunity for "relitigation of the
+released claims."  Dist.  Ct.  Op. at 4.  Indeed, it would. In
+fact, the position  urged by t he Lowes here would seriously
+undermine the possibility for settling any large, multi
+district class action. Defendants in such suits would always
+be concerned that a settlement of the feder al class action
+would leave them exposed to countless suits in state court
+despite settlement of the federal claims. Here,  such state
+suits could number in the millions.
+The Lowes also suggest that the di strict court somehow
+lost the authority to enforce the Class Injunction ag ainst
+                                18
+
+them once the Class Settlement was approved and th e Final
+Order and Judgment entered.  However,  in its Final Order
+and Judgment the district court expr essly retained
+exclusive jurisdiction to oversee the implementation of the
+settlement and the judgment. 962 F.  Supp. at 566, ¶10.
+The court acted quite properly in retaini ng jurisdiction in
+that fashion. A distr ict court has the power to enforce an
+ongoing order against relitigation so as to prot ect the
+integrity of a complex class settlement over which it
+retained jurisdiction. See In re "Agent Or ange" Pr oduct
+Liability Litigation, 996 F.2d 1425, 1431 (2nd  Cir.  1993).
+Consequently, the district court' s authority to enforce the
+Class Injunction did not end with entry of the Final Order
+and Judgment.
+The Lowes next contend that the All -Writs Act and
+exceptions to the Anti-Injunction Act do not give the district
+court the authority to enjoin them from engaging in
+discovery. However, the All-Writs Act and  the Anti-
+Injunction Act do extend to discovery. See e. g. , Winkler, at
+1202 ( Both Acts give a district court the power to enjoin
+state discovery in order to pr otect the integrity of a federal
+court order); and Sperry Rand Corp. v. Rothlein , 288 F. 2d
+2345, 288 (2d Cir . 1961) (Both Acts give distr ict court the
+authority to enjoin plaintiff from using "fr uits of federal
+court discovery" in a state procee ding).
+The Lowes also argue that the Class Injunction p recludes
+them, and all others who elected to opt-out of only some
+Class Eligible Policies " from pursuing any claims whatever
+on their" Excluded Policies. Lowes'  Reply Br.  at 16.
+Essentially, they argue that the district court' s order
+"render[s] meaningless the opt-out provisions upon which
+[they] and all others who chose to exclude th eir Policies
+from the Class Settlement relied." Id. They contend that
+they should have at least bee n advised that anyone who
+opted-out on some of their  class eligible policies but
+remained in the class on others, ran the risk that  their
+right to pursue independent claims on th e excluded policies
+was illusory and meaningless.
+This argument is not without force.  However,  the Lowes
+exaggerate the effect of the district court' s order. That order
+only prevents them from using evidence common to the
+                                19
+
+purchase and sale of their Class Policies and their Excluded
+Policies in their state a ction on their Excluded Policies. It
+does not prohibit them from pursuing any and all claims on
+the Excluded Policies in the state court as they suggest.
+The district court made the distinction very clear in its
+carefully worded opinion.  The court scrutinized the Lowes'
+Florida action, compared it with the Released Transactions
+and concluded:
+Certain of their  substantive causes of action appear
+amenable to proof by evidence that is r elevant
+exclusively to the Excluded Policies. The Lowes claims
+for breach of fiduciary duty and  fraud are examples.
+Other counts .  .  .  such as Lowes'  claim that Prudential
+violated the Florida state RICO statute,  or pr acticed
+reckless and wanton supervision, are different. To
+prosecute these claims the Lowes would presumably
+seek to discover and submit br oader evidence of
+wrongful activity. Indeed, the langua ge of their
+complaint leaves no room for doubt as to the Lowes'
+intention in that regard.
+Dist. Ct.  Op. at 3-4.
+It is difficult to imagine how the Lowes'  could prosecute
+their claims under Florida' s RICO statute, or  pursue their
+allegations of reckless and wanton supervision, without
+relying upon evidence that is relevant to the Class Policies
+as well as the Excluded Policies. Nevertheless,  the district
+court' s injunction does not prevent them from attempting to
+prove those claims if they can do it in a m anner that is
+consistent with the Class Relea se and their status as class
+members. Id. at 4-5.  "The Lowes are fr ee to attempt pr oving
+their RICO and other claims without the use of such
+evidence. .  .  .  [T]o the extent those claims cannot sur vive
+without the evidence excluded by the [district court],  such
+a result could only bolster the conclusion that the failing
+claims were part of the class settlement." Id . at 4-5. We
+agree that if the Lowes can not meet their  burden on the
+Excluded Policies absent this evidence, that will be pr oof of
+the injunctive pudding. Thus,  we do not believe that the
+Class Notice was deficient or that class members were
+blindsided by this injunction. We have previously affir med
+the adequacy of that Notice against oth er attacks,  see In re
+                                20
+
+Prudential Ins. Of America Sales Practices Litigation, 148
+F.3d 283, and we again affirm the adequacy of that Notice
+against the specific issues raised by the Lowes.  8
+When the Lowes reviewed the Release a nd the Class
+Notice, they surely must have r ealized that, even though
+they could exclude certain policies from the settlement
+while including others, doing so would jeopardize their
+ability to prove claims relating to the Excluded Policies. The
+district court was not wil ling to release them from their
+bargain; neither are we.
+In a related argument, the Lowes insist that even if the
+district court had the authority to enforce the Class
+Injunction against them, the district court' s order is "vague,
+ambiguous, overly expansive and beyond the scope of the
+Final Order and Judgment," and should therefore be
+reversed, or, at  a minimum, re manded to the district court
+for clarification. Lowes'  Br.  at 28, 37.  We do not agree. We
+doubt that either the Lowes or  a state cour t would have
+difficulty determining which "facts and circumstances" are
+common to the Excluded and Class Policies. In fact,  as
+Prudential is quick to point out, the distr ict court has
+already sorted much of this out.  "The ` facts and
+circumstances'  underlying the Class Settlement are clearly
+laid out in the dist rict court' s 120 page opinion approving
+the Settlement and Certifying the Settlement Class."
+Prudential' s Br. at 43.
+The Lowes attempt to demons trate that the district
+court' s order is vague and ambiguous by posing a
+hypothetical (and somewhat facetious) question. T hey ask
+_________________________________________________________________
+8. We do,  however,  take this oppor tunity to add a note of cauti on. The
+Class Notice adequately informed potential class members of the right to
+opt-out of the class as to some policies and remain in the class as to
+other policies. It also gave adequate noti ce of the r ights that would be
+surrendered as to any policies n ot excluded from the class. In the future,
+however, it  may be advisable for district courts to consider adding more
+specific language to settlement documents. Any such la nguage would
+advise class members that, even though they retain certain claims as to
+transactions excluded from a settlement, their  ability to pursue those
+claims may be hindered by the terms of  the release of claims that remain
+part of any class settlement.
+                                21
+
+whether they will be able at t rial to mention any meetings
+with Prudential' s agents, or mention the payment of
+premiums, or communications between them and
+Prudential, " even if these events took place with regard to
+the excluded policies, but also involved the type of wr ongful
+conduct that took place dur ing the time fr ame addressed by
+the Class Action?" Lowes'  Br.  at 35-36.  Prudential responds
+correctly and succinctly: " Quite simply, that[evidence] . .  .
+is permissible so long as it relates directly to the opted-out
+policies, and does not call for br oader evidence of an alleg ed
+scheme, or call into question evidence  as to the Lowes'
+Class Policies. " Prudential' s Br. at 43.  We agree.
+IV.
+We conclude that the district court was w ell within its
+authority in enforcing the Class Injunction in the m anner
+that it did,  and that it did not abuse it s discretion. The
+court had carefully managed this vast and intricate
+settlement in a manner that allowed for its fair  and
+reasonable resolution while protecting the interests of all of
+the parties involved. As part of the settlement agreement
+class members such as the Lowes agreed to release  certain
+claims against Prudential. The agreement could not have
+been enforced without the injunction that the Lowes now
+challenge. The district court' s order did nothing more than
+enforce that agreement.  Accordingly,  for all the reasons set
+forth above, we will affirm order of the dist rict court.
+A True Copy:
+Teste:
+Clerk of the Un ited States Court of Appeals
+for the Third Circuit
+                                22
+
+

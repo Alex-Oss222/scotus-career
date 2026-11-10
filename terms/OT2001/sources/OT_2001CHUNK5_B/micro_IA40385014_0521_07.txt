@@ -1,0 +1,2574 @@
+Supre 
+ie 
+
+
+No. 01-687 
+
+
+In the Supreme Court of the Gn 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+Vv. 
+LEONARD COTTON, MARQUETTE HALL, 
+
+
+LAMONT THOMAS, MATILDA HALL, JOVAN POWELL, 
+JESUS HALL, AND STANLEY HALL, JR. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+
+
+MICHAEL CHERTOFF 
+Assistant Attorney General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+General 
+
+
+NINA GOODMAN 
+Attorney 
+
+
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the omission from a federal indictment of a fact 
+that enhances the statutory maximum sentence requires a 
+court of appeals automatically to vacate the enhanced sen- 
+tence, notwithstanding that the defendant did not object to 
+the sentence in the district court, the government introduced 
+_ overwhelming proof of the fact that supports the enhanced 
+sentence, and the defendant had notice that the fact could be 
+used to seek an enhanced sentence. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Opinion below 
+Jurisdicti 
+Constitutional and statutory provisions involved 
+
+
+I. The imposition of a sentence that exceeds tne 
+otherwise-applicable statutory maximum based 
+on a fact not alleged in the indictment is subject 
+to harmless-error and plain-error review 
+A. Asentence that exceeds the otherwise- 
+
+applicable statutory maximum based on a 
+fact omitted from the indictment is error 
+B. The imposition of an enhanced sentence 
+based on a fact omitted from the indictment 
+does not intrinsically “affect substantial 
+rights” 
+C. An indietment's omission of a fact required 
+to support the sentence is harmless error if 
+a rational grand jury would have found the 
+fact and the defendant had notice that the 
+fact was at issue 
+1. Proof of the omitted fact and adequate 
+
+
+2. Harmless-error review does not usurp 
+the role of the grand jury 
+
+3. This Court’s cases do not support a rule 
+
+of automatic reversal 
+
+D. The error of imposing an enhanced sentence 
+based on a fact omitted from the indictment, 
+when not raised in the district court, may not 
+warrant relief on plain-error review 
+
+
+(III) 
+
+
+— 
+
+
+11 
+
+
+17 
+
+
+2 
+
+
+IV 
+
+
+Table of Contents—Continued: 
+
+
+E. The error is not a “jurisdictional” error, 
+immune from harmless-error and plain- 
+error review 
+
+II. The sentences in this case should be affirmed 
+under either the harmless-error or the plain- 
+error standard 
+
+A. The error did not affect respondents’ 
+substantial rights 
+
+B. The error did not seriously affect the 
+fairness, integrity, or public reputation of 
+
+Conclusion 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+Albright v. Oliver, 510 U.S. 266 (1994) 
+Alexander v. Louisiana, 405 U.S. 625 (19727 
+Almendarez-Torres v. United States, 522 U.S. 224 
+
+(1998) 
+Apprendi v. New Jersey, 530 U.S. 466 (2000) ............... 
+Bain, Ex parte, 121 U.S. 1 (1887) 
+Bank of Nova Scotia v. United States, 487 U.S. 250 
+
+(1988) 
+Barkman v. Sanford, 162 F.2d 592 (5th Cir.), cert. 
+
+denied, 332 U.S. 816 (1947) 
+Berger v. United States, 295 U.S. 78 (1935) 
+Braverman v. United States, 317 U.S. 49 (1942) ............. 
+Chapman v. California, 386 U.S. 18 (1987) 
+Charge to Grand Jury, 30 F. Cas. 992 (C.C.D. Cal. 
+
+1872) No. 18,255 
+Charge to Grand Jury—Neutrality Laws, 30 F. Cas. 
+
+1021 (C.C.D. Ohio 1851) (No. 18,267) ... 
+
+
+8 8 
+
+
+14 
+14 
+
+
+13 
+
+4. 7, 14 
+5, 10, 40 
+30 
+
+39 
+
+13 
+
+25 
+
+9, 11, 32 
+26 
+
+
+Cases—Continued: Page 
+
+
+Charge to Grand Jury—Neutrality Laws and 
+Treason, 30 F. Cas. 1024 (C.C.D. Mass. 1851) 
+
+
+No. 18,269 27 
+Costello v. United States, 350 U.S. 359 (1956) . 22, 27 
+Custis v. United States, 511 U.S. 485 (1994) 42 
+Duncan v. Louisiana, 391 U.S. 145 (1968) 20 
+Griffith v. Kentucky, 479 U.S. 314 (1987) 16 
+Hale v. Henkel, 201 U.S. 43 (1906) 13 
+Hurtado v. California, 110 U.S. 516 (1884) 13, 19 
+Johnson v. United States, 520 U.S. 461 (1997). passim 
+Jones v. United States, 526 U.S. 227 (1999) 14 
+Kittle, In re, 180 F. 946 (S. D. N. V. 1910) 31 
+Lamar v. United States, 240 U.S. 60 (1916) 10, 39 
+Lange, Ex parte, 85 U.S. (18 Wall.) 163 (1873). . 40,42 
+McCoy v. United States, 266 F.3d 1245 (11th Cir. 
+
+2001) 33 
+Neder v. United States, 527 U.S. 1 (19999) passim 
+Parks, Ex parte, 93 U.S. 18 (1876) 41 
+Peretz v. United States, 501 U.S. 923 (1991) 38-39 
+Preiser v. Rodriguez, 411 U.S. 475 (1973) 41 
+Respublica v. Shaffer, 1 Dall. 236 (Pa. 1788) 20 
+Rose v. Clark, 478 U.S. 570 (1986) 17, 18 
+Ruhrgas AG v. Marathon Oil Co., 526 U.S. 574 
+
+(1999) 38 
+Russell v. United States, 369 U.S. 749 (1962) . 13, 34 
+Rutledege v. United States, 517 U.S. 292 (1996) .............. 25 
+Schlup v. Delo, 513 U.S. 298 (1995) 41 
+Silber v. United States, 370 U.S. 717 (1962)... 5, 9, 32, 33, 34 
+Steel Co. v. Citizens for A Better Enut, 523 US. 83 
+
+(1998) 40 
+Stirone v. United States, 361 U.S. 212 (1980) 5, 9, 
+
+32, 33, 34 
+
+
+United States v. Asdrubal-Herrera, 470 F. Supp. 
+939 (N.D. III. 1979) 31 
+United States v. Broce, 488 U.S. 563 (1989) 38 
+
+
+VI 
+Cases—Continued: Page 
+United States v. Buckland, 277 F.3d 1173 (9th 
+
+Cir. 2002) 24 
+United States v. Calandra, 414 U.S. 338 (1974). 21,22 
+United States v. Ciambrone, 601 F 2d 616 (2d Cir. 
+
+1979) 26, 29, 31 
+United States v. Cox, 342 F.2d 167 (5th Cir.), 
+
+cert. denied, 381 U.S. 935 (1965) 31 
+United States v. Dionisio, 410 U.S. 1 (1973) 28 
+United States v. Gaudin, 515 US. 506 (1995) 21 
+United States v. Griffin, 303 U.S. 226 (1938) 39 
+United States v. Hastings, 461 U.S. 499 (1983) 23 
+United States v. Kerley, 838 F 2d 932 (7th Cir. 
+
+1988) 29 
+United States v. Lane, 474 U.S. 438 (1986) ............... 23 
+United States v. Mechanik, 475 U.S. 66 (1986) ................ 9,13 
+
+20, 24, 30 
+
+United States v. Miller, 471 U.S. 130 (1985) — 13,25, 40 
+United States v. Mojica-Baez, 229 F 3d 292 (Ist Cir. 
+
+2000), cert. denied, 121 S. Ct. 2215 (2001) 49 
+
+
+United States v. Olano, 507 U.S. 725 (1998) ...... 4,22, 34-35, 44 
+United States v. Patterson, 241 F.3d 912 (7th Cir.), 
+
+cert. denied, 122 S. Ct. 124 (2001) 23-24 
+United States v. Promise, 255 F.3d 150 (4th Cir. 
+
+2001), petition for cert. pending, No. 01-6398 (docketed 
+
+
+Sept. 20, 2001) 4,5 
+United States v. R. Enters., Inc., 498 U.S. 292 
+(1991) . 21 
+
+
+United States v. Sanchez, 269 F.3d 1250 (11th Cir. 
+2001), petition for cert. pending, No. 01-8100 (docketed 
+
+
+Jan. 15, 2002) 15, 16, 24 
+United States v. Thomas, 116 F.3d 606 (2d Cir. 
+
+1997) 28-29 
+United States v. Thomas, 274 F.3d 655 (2d Cir. 
+
+2001) 15, 16 
+
+
+United States v. Washington, 705 F 2d 489 (D.C. Cir. 
+1983) 28 
+
+
+VII 
+
+
+Cases Continued: Page 
+United States v. Williams, 341 U.S. 58 (195157 39, 40 
+United States v. Williams, 504 U.S. 36 (1992) ......... 20, 21, 28 
+United States v. Young, 470 U.S. 1 (1985) 11, 48 
+Vance v. Hedrick, 659 F.2d 447 (4th Cir. 1981), cert. 
+
+denied, 456 U.S. 978 (1982) 42 
+Vasquez v Hillery, 474 U.S. 254 (1986) ............. 9, 26, 29, 30, 31 
+Wainwright v. Sykes, 433 U.S. 72 (1977) 42 
+Waley v. Johnston, 316 U.S. 101 (1942) 42 
+Waller v. Georgia, 467 U.S. 39 (1984) 21 
+Watkins, Ex parte, 28 U.S. (3 Pet.) 193 (1830) 41 
+Wilson, Ex parte, 114 U.S. 417 (1885) 40, 42 
+Wood v. Georgia, 370 U.S. 375 (1962) 13, 21, 28 
+U.S. Const.: 
+
+Amend. V passim 
+
+Amend. VI 19, 20, 21 
+Hobbs Act, 18 U.S.C. 1951 33 
+
+Amend. XIV 19 
+18 U.S.C. 241 39-40 
+18 U.S.C. 3231 40 
+21 U.S.C. 812 —— 15 
+21 U.S.C. 841 (1994 & Supp. V 1999) 2, 5, 15, 16 
+21 U.S.C. 841(aX(1) 2 
+21 U.S.C. 841(b) 3, 15, 16, 24, 43, 48-49 
+21 US. C. 841(b)(1)(A) 3, 6, 16, 44, 45, 47 
+21 U.S.C. Sai Ci) 16 
+21 U.S.C. 841(b)\(1( Aili) . 6, 16 
+21 U.S.C. 841(b)(1(B) 15, 16 
+21 U.S.C. 841(b)\(1B)Gi) 15 
+21 U.S.C. SAN Bui 15 
+21 U.S.C. 841(b)\(1(C) 3, 5, 15, 16, 47, 49 
+21 U.S.C. 846 (1994 & Supp. V 1999) 2, 16, 25 
+21 U.S.C. 848 25 
+
+
+VIII 
+
+
+Rules Continued: Page 
+Fed. R. Crim. P.: 
+Rule 6(a) 21 
+Rule 6(d) 20, 21 
+Rule 6(e) 21 
+Rule 6(f) .. 21 
+Rule 7(b) 39 
+Rule 12(b)(2) 36 
+Rule 31(a) 21 
+Rule 52(a) 11, 22, 43 
+Rule 52(b) 4, 12, 16, 22, 34, 35, 36, 43 
+United States Sentencing Guidelines: 
+§ 2D1.1(c)(1) 3 
+§ 2D1.1(c)(2) 4 
+§ 2D1.1(c)(3) 4 
+§ 2D1.1(c)(4) 4 
+Miscellaneous: 
+J. Frederick Archbold, Pleading and Evidence in 
+Criminal Cases (15th ed. 1862) 21 
+18. Beale, et al., Grand Jury Law and Practice 
+(2d ed. 2001) 14, 21, 27, 28 
+4 W. Blackstone, Commentaries on the Laws of England 
+(1769) 20 
+
+
+Charge of John Raymond Fletcher, Associate Judge, 
+Seventh Judicial Circuit Court of Maryland, to the 
+Grand Jury for Calvert County on May 7, 1955, 18 
+
+
+F. R. D. 211 (Md. Cir. Ct. 1955) 31 
+G. Edwards, The Grand Jury (1906) 27-28 
+2 J. Gabbett, The Criminal Law (1843) 28 
+5 P. Kurland & R. Lerner, eds., The Founders’ Constitu- 
+
+tion (1987) 13, 28 
+3 J. Story, Commentaries on the Constitution (1833) 13 
+
+
+The Documentary History of the Supreme Court of the 
+United States, 1789-1800 (Maeva Marcus ed.): 
+Vol. 2 (1988) 26, 27 
+Vol. 3 (1990) 27 
+R. Traynor, The Riddle of Harmless Error (1970) ........ — 37 
+
+
+In the Supreme Court of the United States 
+
+
+No. 01-687 
+UNITED STATES OF AMERICA, PETITIONER 
+U. 
+
+
+LEONARD COTTON, MARQUETTE HALL, 
+LAMONT THOMAS, MATILDA HALL, JOVAN POWELL, 
+JESUS HALL, AND STANLEY HALL, JR. 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES. 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-35a) is 
+reported at 261 F.3d 397. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+August 10, 2001. The petition for a writ of certiorari was 
+filed on October 31, 2001, and granted on January 4, 2002. 
+The jurisdiction of this Court rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Fifth Amendment to the United States Consti- 
+tution provides, in relevant part: 
+
+
+(1) 
+
+
+2 
+
+
+No person shall be held to answer for a capital, or other- 
+wise infamous crime, unless on a presentment or indict- 
+ment of aGrand Jury * * *. 
+
+
+2. The relevant provisions of Sections 841 and 846 of 
+Title 21 of the United States Code (1994 & Supp. V 1999) are 
+reproduced in the Appendix to the Petition at 36a-47a. 
+
+
+STATEMENT 
+
+
+1. In October 1997, a federal grand jury in the District of 
+Maryland returned an indictment charging respondents and 
+others with conspiring between February 1996 and May 
+1997 to distribute and to possess with the intent to distribute 
+5 kilograms or more of cocaine and 50 grams or more of 
+cocaine base, in violation of 21 U.S.C. 846 and 841(a)(1). J. A. 
+1, 47-48. A superseding indictment returned in March 1998 
+extended the time period of the conspiracy to December 
+1997 and added five more defendants. The superseding 
+indictment charged a conspiracy to distribute and to possess 
+with the intent to distribute a “detectable amount” of cocaine 
+and cocaine base, without alleging that any specific or thres- 
+hold amounts of drugs were involved in the conspiracy. JA. 
+58-59. At their arraignments on both indictments, respon- 
+dents were informed that the maximum penalty for the 
+conspiracy offense was life imprisonment. Gov't C.A. Br. 45. 
+
+2. The evidence at trial established that respondents 
+operated a drug trafficking organization that distributed 
+substantial quantities of cocaine and cocaine base (also 
+known as crack cocaine) in Baltimore, Maryland. The organi- 
+zation was headed by respondent Stanley Hall, Jr. The 
+organization purchased cocaine in kilogram quantities from a 
+dealer in New York, manufactured it into crack cocaine, and 
+bagged it for distribution to dealers who sold the drugs to 
+their customers. The government’s witnesses included, in 
+addition to cooperating co-conspirators, FBI agents and 
+Baltimore police officers, who testified about undercover 
+
+
+3 
+
+
+drug purchases, arrests and searches of members of the con- 
+spiracy, and searches of their residences. That testimony 
+established that the arrests and searches resulted in the 
+seizure of approximately 380 grams of cocaine base, as well 
+as cocaine, drug paraphernalia, firearms, and currency. Pet. 
+App. 3a, 6a; Gov’t C.A. Br. 4-28. 
+
+The district court instructed the jury that it could find the 
+defendants guilty if it found beyond a reasonable doubt that 
+they conspired to distribute and possess with intent to 
+distribute “cocaine hydrochloride and cocaine base,” but that 
+it “need not be concerned with the quantities.” The court 
+added that, “as long as you find that a defendant conspired to 
+distribute or possess[{] with intent to distribute these con- 
+trolled substances, the amounts involved are not important.” 
+Supp. C.A. App. 8, 13; see Pet. App. 6a. The jury found the 
+seven respondents guilty. Pet. App. 3a-4a. 
+
+3. The district court sentenced respondents pursuant to 
+the graduated penalties set forth in 21 U.S.C. 841(b). As 
+relevant here, Section _841(b)(1)(A) prescribes “a term of 
+imprisonment which may not be * * * more than life” for 
+drug offenses involving at least 5 kilograms of cocaine or at 
+least 50 grams of cocaine base. Section 841(b)(1)(C), how- 
+ever, prescribes “a term of imprisonment of not more than 20 
+years” for drug offenses involving any detectable quantity of 
+a Schedule II controlled substance, such as cocaine or co- 
+caine base. 
+
+The presentence reports (PSRs) prepared by the United 
+States Probation Office determined that respondents’ base 
+offense level under the Sentencing Guidelines was 38, the 
+level applicable to offenses involving 1.5 kilograms or more 
+of cocaine base. See Sentencing Guidelines § 2D1.1(c)(1). 
+Respondents objected to that determination, but they did 
+not dispute that their conspiracy offense involved at least 50 
+grams of cocaine base. See Pet. App. 28a (Wilkinson, C.J., 
+concurring in part and dissenting in part) (noting that 
+
+
+4 
+
+
+respondents “did not argue that the conspiracy distributed 
+less than 50 grams of cocaine base). 
+
+The district court found, based on the trial testimony, that 
+respondent Matilda Hall was responsible for at least 500 
+grams of cocaine base, and that the other respondents were 
+each responsible for at least 1.5 kilograms of cocaine base. 
+Applying the Sentencing Guidelines, the court sentenced 
+respondents Matilda Hall and Jovan Powell to terms of 30 
+years’ imprisonment, and the other respondents to terms of 
+life imprisonment. Pet. App. 3a-4a. 
+
+4. On appeal, respondents argued that their sentences 
+were invalid under this Court’s intervening decision in 
+Apprendi v. New Jersey, 530 U.S. 466 (2000), because drug 
+quantity was not alleged in the superseding indictment or 
+proved to the jury beyond a reasonable doubt. The court of 
+appeals vacated respondents’ sentences and remanded for 
+resentencing to terms of not more than 20 years’ imprison- 
+ment. Pet. App. 7a-16a. 
+
+Because respondents had not raised an Apprendi claim in 
+the district court, the court of appeals held that the claim 
+was reviewable under the plain-error standard. Under that 
+standard, an appellate court may correct an error not 
+raised below only if the error is “plain,” affeetſs] substantial 
+rights,” and “seriously affect[s] the fairness, integrity or 
+public reputation of judicial proceedings.” United States v. 
+Olano, 507 U.S. 725, 731, 732 (1993); see Fed. R. Crim. P. 
+52(b); see also Pet. App. 8a (citing Olano). 
+
+The court of appeals noted that it had previously held in 
+United States v. Promise, 255 F.3d 150 (4th Cir. 2001) (en 
+banc), petition for cert. pending, No. 01-6398 (docketed Sept. 
+20, 2001), that “because drug quantity ‘must be treated as an 
+
+
+1 Several respondents argued that their base offense levels should be 
+reduced to 32, 34, or 36, but each of those levels entails responsibility for 
+at least 50 grams of cocaine base. See U.S. Pet. Reply 4-5 n.2; see 
+Sentencing Guidelines § 2D1.1(c)(2), (3) and (4). 
+
+
+5 
+
+
+element of an aggravated drug trafficking offenseſ] under 21 
+U.S.C. § 841, the failure to charge a specific threshold drug 
+quantity in the indictment and to submit the quantity issue 
+to the jury constitutes plain error.” Pet. App. 8a (quoting 
+Promise, 255 F.3d at 156). Promise also concluded that the 
+omission of drug quantity from the indictment affects a 
+defendant’s substantial rights whenever the defendant re- 
+ceives a term of imprisonment greater than that authorized 
+by Section 841(b) for offenses involving any detectable 
+quantity of the drug. The Promise court had not resolved, 
+however, whether that error seriously affeetſs] the fair- 
+ness, integrity or public reputation of judicial proceedings,’ 
+so that we should exercise our discretion to recognize the 
+error.” Ibid. The court in this case “answer[ed] that 
+question in the affirmative.” Ibid. 
+
+The court of appeals, citing Ex parte Bain, 121 U.S. 1 
+(1887), and Stirone v. United States, 361 U.S. 212 (1960), held 
+that “an indictment setting forth all the essential elements 
+of an offense is both mandatory and jurisdictional.” Pet. 
+App. 10a. Accordingly, the court concluded that “the district 
+court exceeded its jurisdiction in sentencing [respondents] 
+for a crime with which they were never charged, thus 
+depriving them of the constitutional right to ‘answer’ only 
+for those crimes presented to the grand jury.” Id. at IIa. 
+The court also noted that in Silber v. United States, 370 U.S. 
+717 (1962) (per curiam), the Court reversed the defendant’s 
+conviction based on a defect in the indictment, even though 
+the defendant had not raised the error in either the court of 
+appeals or this Court. Pet. App. 12a-13a. “Likewise,” the 
+
+
+-court stated, “sentencing a defendant for an unindicted crime 
+
+
+also seriously affects the fairness, integrity or public 
+reputation of judicial proceedings.” Id. at 14a. 
+
+The court of appeals rejected the government’s argument 
+that the error in imposing sentences based on a fact not 
+alleged in the indictment did not warrant reversal under the 
+
+
+6 
+
+
+plain-error standard because the evidence overwhelmingly 
+established that respondents’ offenses involved the 50 grams 
+of cocaine base needed to support sentences of up to life im- 
+
+prisonment under 21 U.S.C. 841(b)(1)(AXiii). The court held 
+that the strength of the evidence was “not a relevant con- 
+sideration” in determining whether to reverse a sentence 
+based on an omission from the indictment. Pet. App. 15a. 
+The court reasoned that “a reviewing court may not specu- 
+late about whether a grand jury would or would not have 
+indicted a defendant for a crime with which he was never 
+charged,” and that to do so would “usurp the role of the 
+grand jury” and “result in nothing less than a constructive 
+amendment of the indictment, * * * which itself is re- 
+versible plain error.” Id. at 15a, 16a. 
+
+Chief Judge Wilkinson dissented in part. See Pet. App. 
+23a-35a. Relying on Johnson v. United States, 520 U.S. 461, 
+469-470 (1997), he concluded that respondents could not 
+satisfy the fourth, discretionary component of the plain-error 
+test. He noted that the evidence that respondents partici- 
+pated in a conspiracy to distribute at least 50 grams of 
+cocaine base was “overwhelming.” Pet. App. 23a, 24a. “(I]t 
+would constitute a manifest injustice,” he explained, “to 
+reduce [respondents’] sentences when the evidence un- 
+deniably demonstrates that they committed the greater 
+statutory offense.” Id. at 23a. Although the superseding 
+indictment did not specify drug quantity, he found it “diffi- 
+cult to believe that [respondents] lacked notice that they 
+faced 21 U.S.C. § 841(b)’s strictest penalties.” He observed 
+that the initial indictment alleged the threshold drug quan- 
+tity and that, in light of the evidence at trial, respondents’ 
+“counsel clearly were aware that the government could 
+seek the elevated penalties available under 21 U.S.C. 
+§ 841(b)(1)(A).” Id. at 28a-29a. 
+
+
+Finally, Chief Judge Wilkinson criticized the majority for 
+
+
+“inappropriately replac[ing] the discretionary, case-by-case 
+
+
+7 
+
+
+assessment dictated by the fourth prong” of the plain-error 
+test “with an essentially categorical approach when the error 
+consists of an indictment defect.” Pet. App. 30a. Here, he 
+emphasized, the majority’s approach undermines Congress’s 
+policy to impose more stringent punishment for more serious 
+violators, because it equates the punishment of “the 
+conspiracy’s kingpin and its underlings.” Id. at 34a. In 
+addition, he observed that the majority’s approach unfairly 
+disregards the fact that the superseding indictment was fully 
+in accordance with then-prevailing law to support the 
+enhanced sentences imposed and that, in light of the 
+overwhelming proof, there is no doubt that the grand jury, if 
+asked, would have included the necessary drug-quantity 
+allegations in the indictment. Id. at 29a-30a. Overturning 
+respondents’ sentences in such circumstances, he concluded, 
+cannot be justified on plain-error review. Ibid. 
+
+SUMMARY OF ARGUMENT 
+
+
+I. In Apprendi v. New Jersey, 530 U.S. 466 (2000), this 
+Court made clear that any fact, other than a prior conviction, 
+that increases the penalty for a crime beyond the prescribed 
+statutory maximum must be charged in a federal indictment, 
+submitted to a jury, and proved beyond a reasonable doubt. 
+In the federal drug laws, statutory maximum sentences in- 
+crease when greater drug quantities are involved in the 
+offense. Accordingly, in light of Apprendi, the imposition of 
+a sentence above the otherwise-applicable statutory maxi- 
+mum for a drug offense is error if the enhancing fact of 
+threshold drug quantity is not alleged in the indictment. The 
+district court committed error in this case by imposing en- 
+hanced sentences in the absence of such an allegation. 
+Contrary to the view of the court of appeals, however, that 
+error does not require automatic reversal of the enhanced 
+sentences. 
+
+This Court has made clear that most constitutional errors 
+can be harmless, see Neder v. United States, 527 U.S. 1, 8 
+
+
+\ 
+
+
+8 
+
+
+(1999), and that when the defendant forfeits an objection by 
+failing to raise it in the district court, the more stringent 
+standard of plain-error review applies, see Johnson v. 
+United States, 520 U.S. 461, 465-467 (1997). The error in this 
+case is not so serious as to amount to a “structural” defect 
+that cannot be reviewed for harmlessness. And even if it 
+were, the error does not automatically warrant reversal on 
+plain-error review when the defendant failed to object in the 
+district court. 
+
+A. In Neder, the Court held that the failure to secure a 
+required finding from the petit jury is subject to harmless- 
+error review, and that the error is harmless when the record 
+makes it “clear beyond a reasonable doubt that a rational 
+jury would have found the defendant guilty absent the 
+error.” 527 U.S. at 18. An analogous approach applies to the 
+failure to secure a required finding from the grand jury. The 
+grand jury affords far less powerful protection for the 
+accused than the petit jury. The grand jury finds only pro- 
+bable cause, while the petit jury must find guilt beyond a 
+reasonable doubt. The grand jury operates on majority vote, 
+while a federal petit jury must be unanimous. The grand 
+jury does not hear from the target and need not hear ex- 
+culpatory evidence, while a petit jury hears the accused’s 
+defense. And a grand jury’s refusal to indict leaves the pro- 
+secutor free to try again, while a petit jury’s acquittal ends 
+the defendant’s jeopardy. Indeed, the grand jury is nat even 
+an essential component of due process applieabie to the 
+States, while the petit jury is. In light of Neders holding 
+that harmless-error review applies to the failure to secure a 
+required finding from the petit jury, harmless-error review 
+must also apply to failures to secure required findings from 
+the grand jury. 
+
+_ B. A reviewing court can readily apply harmless-error 
+principles to the erroneous imposition of a sentence based on 
+a fact not alleged in the indictment. When the record 
+
+
+establishes that any rational grand jury would have found 
+the omitted fact, and the defendant had adequate notice that 
+the fact would affect his sentence, the absence of an allega- 
+tion necessary to support the enhanced sentence does not 
+affect substantial rights, but rather is harmless error. 
+
+C. Harmless-error analysis does not usurp the role of the 
+grand jury. The duty of the grand jury is to indict when the 
+evidence shows probable cause to believe that the defendant 
+committed a crime. Outside of the unique context of racial 
+discrimination in the selection of the grand jurors, see 
+Vasquez v. Hillery, 474 U.S. 254 (1986), normal principles of 
+harmless-error analysis apply to the grand jury. See United 
+States v. Mechanik, 475 U.S. 66 (1986). 
+
+Neither Stirone v. United States, 361 U.S. 212 (1960), nor 
+Silber v. United States, 370 U.S. 717 (1962) (per curiam), 
+requires otherwise. Those cases preceded this Court’s com- 
+prehensive adoption of harmless-error analysis in Chapman 
+v. California, 386 U.S. 18 (1967). In addition, the defendants 
+in those cases made timely objections in the district court, 
+the defendant in Stirone raised fair notice concerns, and the 
+Court in Silber did not purport to articulate a universally 
+applicable rule of reversal. 
+
+D. Even if the error of imposing an enhanced sentence in 
+the absence of a required allegation in the indictment were 
+considered “structural” error, it is subject to the plain-error 
+rule when the defendant fails to object in the district court. 
+Johnson, 520 U.S. at 468-469. In Johnson, the Court 
+assumed that the failure to obtain a petit jury finding on an 
+element was “structural error,” but held that when the 
+evidence on that element was overwhelming and uncon- 
+troverted, the error did not “seriously affect[] the fairness, 
+integrity, or public reputation of judicial proceedings.” 520 
+U.S. at 469-470. The same conclusion applies when the 
+evidence establishes that any rational grand jury would have 
+
+
+10 
+
+
+found probable cause to believe the fact that was necessary 
+to support the enhanced sentence. 
+
+E. The omission of drug quantity allegations is not juris- 
+dictional error. The Grand Jury Clause of the Fifth Amend- 
+ment accords the accused a personal constitutional right to 
+be tried and sentenced on an indictment that alleges all 
+essential facts. A violation of that right, however, does not 
+impair the jurisdiction of the court. See Lamar v. United 
+States, 240 U.S. 60, 64 (1916) (Holmes, J.). Eæ parte Bain, 
+121 U.S. 1, 13 (1887), is not to the contrary. The juris- 
+dictional language in that case dates from a era in which only 
+jurisdictional errors were cognizable on habeas corpus, 
+leading to an expansive use of that term by the Court. The 
+language of Ex parte Bain is no longer an accurate descrip- 
+tion of indictment errors, as is shown by later authority. 
+
+II. The sentences in this case should be affirmed. Re- 
+spondents did not object to their enhanced sentences in the 
+district court, and therefore the plain-error standard applies. 
+Even under the harmless-error standard, the imposition of 
+enhanced sentences without the inclusion of threshold drug 
+quantities in the indictment does not require reversal in this 
+case. 
+
+In light of the nature of the conspiracy and the evidence at 
+trial, any rational grand jury would have found that respon- 
+dents’ offense involved a sufficient quantity of drugs to 
+authorize a maximum sentence of life imprisonment. And 
+the omission of drug quantity from the superseding indict- 
+ment did not deprive respondents of fair notice of the appli- 
+cability of enhanced penalties. Like other defendants in- 
+dicted before Apprendi, respondents could not have rea- 
+sonably believed that their sentences for drug conspiracy 
+would be limited to the penalties for the lowest quantity of 
+the drug involved in the offense. In this case, respondents 
+also had notice from the original indictment that increased 
+
+
+11 
+
+
+drug quantities would boost the statutory maximum 
+sentence. 
+
+Even assuming that the error in this ease affected sub- 
+stantial rights, it still does not warrant reversal under the 
+plain- error standard. An error not raised below justifies re- 
+versal only when the error seriously affects the fairness, 
+integrity, or public reputation of judicial proceedings. John- 
+son, 520 U.S. at 467. In light of the compelling evidence of 
+drug quantity in this case, and the longstanding pre- 
+Apprendi practice that prevailed in the federal courts, this 
+case does not involve the sort of “particularly egregious 
+error(],” United States v. Young, 470 U.S. 1, 15 (1985), that 
+warrants plain-error relief. Indeed, it would be the refusal 
+to apply the graduated penalties that Congress provided 
+—effectively reducing a drug kingpin’s sentence to that of a 
+street-level dealer—that would undermine respect for judi- 
+cial proceedings. 
+
+ARGUMENT 
+
+
+I. THE IMPOSITION OF A SENTENCE THAT 
+EXCEEDS THE OTHERWISE-APPLICABLE 
+STATUTORY MAXIMUM BASED ON A FACT 
+NOT ALLEGED IN THE INDICTMENT IS 
+SUBJECT TO HARMLESS-ERROR AND PLAIN- 
+ERROR REVIEW 
+
+
+Since Chapman v. California, 386 U.S. 18 (1967), this 
+Court has recognized that constitutional error in a criminal 
+case does not always mandate reversal. The harmless-error 
+standard, which applies when the defendant made a timely 
+objection in the district court, requires an appellate court to 
+
+“disregard errors that are harmless beyond a reasonable 
+doubt,” ie, errors that “do[{] not affect substantial rights.” 
+Neder v. United States, 527 U.S. 1, 7 (1999); Fed. R. Crim. P. 
+52(a). The plain-error standard, which applies when the 
+defendant did not object in the district court, also requires 
+
+
+12 
+an appellate court to disregard errors that do not affect the 
+
+
+defendant’s substantial rights; but it further requires affir- 
+
+
+mance even when they do, provided that those errors do not 
+“seriously affeetſ] the fairness, integrity, or public reputation 
+of judicial proceedings.” Johnson v. United States, 520 U.S. 
+461, 467 (1997); see Fed. R. Crim. P. 52(b). 
+
+In this case, because respondents did not object in the 
+district court to the imposition of a sentence in excess of the 
+otherwise-applicable statutory maximum based on a fact not 
+alleged in the indictment, the court of appeals applied the 
+plain-error standard. Pet. App. 7a. The court concluded, 
+however, that any sentence that exceeds the otherwise- 
+applicable statutory maximum based on a fact not alleged in 
+the indictment must be reversed, without regard to whether 
+the defendant raised any objection at trial, whether a grand 
+
+
+jury would necessarily have found the omitted fact, and 
+
+
+whether the defendant had adequate notice that the fact 
+
+
+would be relevant to determining the statutory maximum 
+
+
+sentence. That conclusion is incorrect. While the sentencing 
+court did err in this case, the type of error at issue is subject 
+to plain-error review, and a reviewing court should affirm 
+when it is clear that a rational grand jury, if asked, would 
+have found the omitted fact and that the defendant had 
+adequate notice that the fact would be at issue and could 
+increase the sentence. 
+
+
+A. A Sentence That Exceeds The Otherwise-Applicable 
+Statutery Maxtmam Based On A Pact Omitted Prom 
+The Indictment Is Error 
+
+
+1. The Fifth Amendment’s Grand Jury Clause states: 
+“No person shall be held to answer for a capital or otherwise 
+infamous crime, unless on a presentment or indictment of a 
+Grand Jury.” U.S. Const. Amend. V. The function of the 
+grand jury right is to provide an accused with notice of the 
+charge against him so that he may prepare a defense; to 
+enable assertion of the right not to be put in jeopardy a 
+
+
+13 
+
+
+second time for the same offense; and to assure that the 
+charge is “founded upon reason” and not “dictated by an 
+intimidating power or by malice and personal ill will.” Wood 
+v. Georgia, 370 U.S. 375, 390 (1962); United States v. Miller, 
+471 U.S. 130, 134-135 (1985); Russell v. United States, 369 
+U.S. 749, 764 (1962); see also United States v. Mechanik, 475 
+U.S. 66, 73-74 (1986) (O’Connor, J., concurring); Berger v. 
+United States, 295 U.S. 78, 82 (1935); Hale v. Henkel, 201 
+US. 43, 59 (1906); 3 Joseph Story Commentaries on the Con- 
+stitution § 1779 (1833) (observing that the “important public 
+functions” of the grand jury are to provide an accused with 
+“full notice of the charge” against him and to protect against 
+“vindictive prosecutions, either by the government, or by 
+political partisans, or by private enemies”) (reprinted in 5 
+The Founders’ Constitution 295 (Philip B. Kurland & Ralph 
+Lerner, eds., 1987)). The Grand Jury Clause entitles an ac- 
+cused to an indictment that sets forth each essential ele- 
+ment of the offense with which he is charged. See, ¢.g., 
+Almendarez-Torres v.. United States, 523 U.S. 224, 228 
+(1998); Miller, 471 U.S. at 136. 
+
+An indictment returned by the grand jury, however, is not 
+indispensable to a fundamentally fair criminal proceeding. 
+The Court has held that the right to a grand jury indictment 
+is not applicable to the States through the Fourteenth 
+Amendment. Hurtado v. California, 110 U.S. 516 (1884). In 
+Hurtado, the Court upheld the commencement of a state 
+prosecution by an information prepared by a prosecutor, 
+after a determination of probable cause by a magistrate. 
+Rejecting the view that a grand jury indictment is an 
+intrinsic feature of due process, the Court observed that the 
+method of initiating the prosecution was “merely * * * 
+preliminary” and “can result in no final judgment, except as 
+the consequence of a regular judicial trial, conducted pre- 
+cisely as in cases of indictments.” Id. at 538. Today, the right 
+to grand jury indictment remains one of the few criminal 
+
+
+14 
+
+
+procedural protections in the Bill of Rights that have not 
+been made applicable to the States. See Albright v. Oliver, 
+510 U.S. 266, 272-273 (1994); Alexander v. Louisiana, 405 
+U.S. 625, 633 (1972). And fewer than half of the States 
+require grand jury indictments in all felony cases as a matter 
+of their own constitutional or statutory law. 1 Sara Sun 
+Beale et al., Grand Jury Law and Practice § 1:1, at 1-3, § 1:7, 
+at 1-32 & n.1.1 (2d ed. 2001) (hereinafter Grand Jury Law). 
+2—In Apprendi v. New Jersey, 530 U.S. 466 (2000), this 
+Court held, as a matter of constitutional law, that “{o]ther 
+than the fact of a prior conviction, any fact that increases the 
+penalty for a crime beyond the prescribed statutory maxi- 
+mum must be submitted to a jury, and proved beyond a 
+reasonable doubt.“ Id. at 490. Apprendi, which involved a 
+state court conviction, did “not address the indictment ques- 
+tion separately.” Id. at 477 n.3. The Court’s holding, how- 
+ever, was based in substantial part on the conclusion that, 
+under the common law and thereafter, facts that increased 
+the punishment for a crime had to be charged in the indict- 
+ment and found by the jury. See id. at 478-481; see also id. at 
+483 n.10 (historical evidence “point{s] to a single, consistent 
+conclusion: The judge’s role in sentencing is constrained at 
+its outer limits by the facts alleged in the indictment and 
+found by the jury”). Apprendi also noted that its holding 
+was “foreshadowed” by the Court’s statement in Jones v. 
+United States, 526 U.S. 227 (1999), that “any fact (other than 
+prior conviction) that increases the maximum penalty for a 
+crime must be charged in an indictment, submitted to a jury, 
+and proven beyond a reasonable doubt.” 530 U.S. at 476 
+(quoting Jones, 526 U.S. at 243 n.6). Under the reasoning in 
+Apprendi, facts that must be proved to the jury beyond a 
+reasonable doubt to support an increase in the statutory 
+
+
+15 
+
+
+maximum prison sentence must also be alleged in an indict- 
+ment in a federal case.” 
+
+3. Before Apprendi, the courts of appeals had uniformly 
+concluded that threshold drug quantities that increased the 
+statutory maximum sentence under 21 U.S.C. 841(b) were 
+sentencing factors that did not have to be charged in an in- 
+dictment or proved to a petit jury beyond a reasonable 
+doubt. See United States v. Sanchez, 269 F.3d 1250, 
+1266-1267 & n.30 (11th Cir. 2001) (en banc) (discussing pre- 
+Apprendi cases), petition for cert. pending, No. 01-8100 
+(docketed Jan. 15, 2002). After Apprendi, the courts of ap- 
+peals have uniformly concluded that threshold drug quan- 
+tities must be charged in an indictment in order to support 
+an increase in the statutory maximum sentence under 
+Section 841(b). See, ¢.g., United States v. Thomas, 274 F.3d 
+655, 663 (2d Cir. 2001) (en banc) (citing cases from eight 
+other circuits). That conclusion follows from the analysis in 
+Apprendi and the nature of the sentencing scheme in Section 
+841(b). 
+
+Section 841 defines drug trafficking offenses and estab- 
+lishes graduated penalties depending on the presence of 
+various aggravating facts. For example, when a defendant 
+has been found guilty of a drug offense involving any de- 
+tectable quantity of a Schedule II controlled substance (such 
+as cocaine or cocaine base, see 21 U.S.C. 812), Section 
+841(b)(1(C) authorizes “a term of imprisonment of not more 
+than 20 years.” If, however, a defendant’s offense involves 
+at least 500 grams of cocaine or at least 5 grams of cocaine 
+base, he is subject to a term of imprisonment that “may not 
+be less than 5 years and not more than 40 years.” 21 U.S.C. 
+841(b)(1)(B\ii) and (iii). And if his offense involves at least 5 
+kilograms of cocaine or at least 50 grams of cocaine base, he 
+
+
+2 No question of how Apprendi principles apply in a capital case, cf. 
+Ring v. Arizona, No. 01-488 (to be argued Apr. 22, 2002), is at issue here. 
+
+
+} 
+
+
+16 
+
+
+is subject to a term of imprisonment that “may not be less 
+than 10 years or more than life.“ 21 U.S.C. 841(b)(1)(A)(ii) 
+and (iii). Drug quantity can therefore raise the statutory 
+maximum sentence under Section 841. Consequently, under 
+Apprendi, the amount of cocaine or cocaine base involved in 
+a drug trafficking offense must be alleged in the indictment 
+in order to support a sentence above 20 years’ 
+imprisonment.“ 
+
+In this case, the superseding indietment did not allege the 
+threshold quantity of drugs involved in the offense, and 
+respondents did not waive the right to indictment. Although 
+Apprendi was decided after the district court proceedings, it 
+is applicable here because the case is still pending on direct 
+review. See Griffith v. Kentucky, 479 U.S. 314 (1987). Ac- 
+cordingly, the imposition of sentences above 20 years’ impri- 
+sonment in this case was error. The error was also “plain” 
+after Apprendi within the meaning of Federal Rule of 
+Criminal Procedure 52(b). See Johnson, 520 U.S. at 467-468 
+(W)here the law at the time of trial was settled and clearly 
+contrary to the law at the time of appeall,] it is enough that 
+an error be ‘plain’ at the time of appellate consideration.”).* 
+
+
+3 Similar quantity-based increases apply to other controlled sub- 
+stances, such as heroin, LSD, and methamphetamine. In addition, en- 
+hanced sentencing ranges apply to defendants with prior drug felony 
+convictions. For example, a defendant with one prior drug felony con- 
+viction is exposed to a sentence of up to 30 years’ imprisonment under 21 
+U.S.C. 841(b)(1)(C); of 10 years’ to life imprisonment under 21 U.S.C. 
+841(b)(1)(B); and of 20 years’ to life imprisonment under 21 U.S.C. 
+841(b)(1)(A). Offenses that result in bodily injury or death also receive 
+enhanced punishment under the subparagraphs of Section 841(b). 
+
+4 The conclusion that under Apprendi threshold drug quantities must 
+be charged in a federal indictment and proved to the jury in order to sup- 
+port a sentence above the otherwise-applicable statutory maximum does 
+not require a determination that drug quantity is formally an “element” of 
+the offense under Section 841 or Section 846. Whether drug quantity is 
+viewed as an “element,” see, ¢.g., United States v. Thomas, 274 F.3d at 663 
+
+
+17 
+
+
+The error, however, does not mandate automatic reversal 
+of respondents’ sentences. Like most constitutional errors, 
+the omission of an element or sentence-enhancing fact from 
+an indictment does not entitle a defendant to relief when it is 
+harmless (when the defendant’s objection is preserved for 
+appeal), or when it fails to satisfy the stringent plain-error 
+standard (when the objection has been forfeited). Properly 
+analyzed, the error in omitting a required allegation from an 
+indictment does not necessarily affect substantial rights or 
+impair the fairness, integrity, or public reputation of judicial 
+proceedings. And, contrary to the court of appeals’ position, 
+the error is not “jurisdictional” in character, but involves the 
+violation of a personal constitutional right. 
+
+
+B. The Imposition Of An Enhanced Sentence Based On 
+A Fact Omitted From The Indictment Does Not 
+Intrinsically “Affect Substantial Rights” 
+
+
+This Court has recognized that “most constitutional errors” 
+in federal criminal prosecutions are subject to harmless- 
+error review. Neder v. United States, 527 U.S. 1, 8 (1999). 
+The Court explained in Neder that, “if the defendant had 
+counsel and was tried by an impartial adjudicator, there is a 
+strong presumption that any other [constitutional] errors 
+that may have occurred are subject to harmless-error analy- 
+sis.” Ibid. (quoting Rose v. Clark, 478 U.S. 570, 579 (1986)). 
+The omission from the indictment of a fact that increases the 
+statutory maximum sentence does not implicate the 
+defendant’s right to counsel or the impartiality of the 
+adjudicator. And there is no sound basis for overcoming the 
+
+
+(en banc), or as a sentencing factor subject to the constitutional con- 
+straints of Apprendi, see Sanchez, 269 F.3d at 1268 (“Apprendi does not 
+affect our prior statutory construction of § 841(b) as setting forth purely 
+sentencing factors”), the issue in this case is the same: whether the failure 
+to allege drug quantity in the indictment requires automatic reversal of a 
+sentence that exceeds the otherwise-applicable statutory maximum. 
+
+
+18 
+
+
+“strong presumption” that the error here is therefore sub- 
+ject to harmless-error review. Neder holds that harmless- 
+error analysis applies to a failure to obtain a petit jury 
+finding on an offense element. The same conclusion applies 
+to the failure to obtain a similar finding from a grand jury. 
+
+1. In Neder, the Court listed examples of “the very 
+limited class of cases” that are exempt from harmless-error 
+review: 
+
+
+Gideon v. Wainwright, 372 U.S. 335 (1963) (complete 
+denial of counsel); Tumey v. Ohio, 273 U.S. 510 (1927) 
+(biased trial judge); Vasquez v. Hillery, 474 U.S. 254 
+(1986) (racial discrimination in selection of grand jury); 
+McKaskle v. Wiggins, 465 U.S. 168 (1984) (denial of self- 
+representation at trial); Waller v. Georgia, 467 U.S. 39 
+(1984) (denial of public trial); Sullivan v. Louisiana, 508 
+U.S. 275 (1993) (defective reasonable-doubt instruction). 
+
+
+Neder, 527 U.S. at 8; accord Johnson, 520 U.S. at 468-469. 
+The Court explained that. those “structural” errors “deprive 
+defendants of ‘basic protections’ without which ‘a criminal 
+trial cannot reliably serve its function as a vehicle for deter- 
+mination of guilt or innocence * * * and no criminal punish- 
+ment may be regarded as fundamentally fair“ Neder, 527 
+U.S. at 8-9 (quoting Rose, 478 U.S. at 577-578). The errors in 
+that small class “are so intrinsically harmful as to require 
+automatic reversal (i.e., ‘affect substantial rights’) without 
+regard to their effect on the outcome.” Id. at 7.° 
+
+The Court determined in Neder that the error at issue— 
+the district court’s failure to submit the materiality element 
+of the offense to the petit jury—did not fall within that 
+narrow category. The Court reasoned that, “[uJnlike such 
+
+
+5 Neder involved a case in which the error was preserved. As the 
+Court made clear in Johnson, 520 U.S. at 466-467, even if an error is found 
+to be “structural,” automatic reversal is not required on plain-error re- 
+view, where the error was forfeited. 
+
+
+19 
+
+
+defects as the complete deprivation of counsel or trial before 
+a biased judge, an instruction that omits an element of the 
+offence does not necessarily render a criminal trial funda- 
+mentally unfair or an unreliable vehicle for determining guilt 
+or innocence.” 527 U.S. at 9. Instead, the error is harmless 
+when it is “clear beyond a reasonable doubt that a rational 
+jury would have found the defendant guilty absent the 
+error.” Id. at 15, 18. That test is met, the Court found, when 
+the record evidence supporting the omitted element was “so 
+overwhelming” that the defendant had not even contested it. 
+Id. at 16. While the Court recognized that the constitutional 
+guarantee of a trial by jury serves as a protection against 
+“oppression and tyranny,” it held that “where a defendant 
+did not, and apparently could not, bring forth facts con- 
+testing the omitted element, the error [in failing to 
+submit the element to the jury] does not fundamentally 
+undermine the purposes of the jury trial guarantee.” Id. at 
+18-19. 
+
+2. It follows from Neder’s holding—that the failure to 
+obtain a petit jury finding on an element of an offense is not a 
+structural error—that the failure to obtain a grand jury 
+finding on an element or sentencing-enhancing fact is not a 
+structural error either. The omission of a grand jury finding 
+does not render a criminal prosecution “fundamentally unfair 
+or an unreliable vehicle for determining [the degree of 
+punishment].” Neder, 527 U.S. at 9. If anything, the Fifth 
+Amendment right to a grand jury indictment is lower on the 
+hierarchy of constitutional rights applicable in a criminal 
+case than the Sixth Amendment right to a trial before a petit 
+Jury. 
+
+First, as noted above, the right to indietment by a grand 
+jury, unlike the right to trial before a petit jury in a eriminal 
+case, does not apply to the States through the Fourteenth 
+Amendment. Compare Hurtado, 110 U.S. at 538 (Fifth 
+Amendment right to indictment not applicable to the States), 
+
+
+20 
+
+
+with Duncan v. Louisiana, 391 U.S. 145 (1968) (Sixth 
+Amendment right to jury trial applicable to the States). It is 
+hard to see why a right that is not constitutionally required 
+in a state prosecution becomes so “fundamental” as to “defy 
+analysis by ‘harmless error’ standards,” Neder, 527 U.S. at 7, 
+whenever it is infringed in a federal prosecution. 
+
+Second, the grand jury’s return of a charge is only the 
+opening act in a criminal proceeding; the main event is the 
+trial. See United States v. Williams, 504 U.S. 36, 51 (1992) 
+(the grand jury’s “finding of an indictment is only in the 
+nature of an enquiry or accusation, which is afterwards to be 
+tried and determined”) (quoting 4 William Blackstone, Com- 
+mentaries on the Laws of England 300 (1769)); accord Re- 
+spublica v. Shaffer, 1 Dall. 236, 237 (Pa. 1788). The grand 
+jury is not the final arbiter of the facts. A grand jury indicts 
+based solely on probable cause, and, absent a plea of guilty, 
+the essential facts must be proved at trial, beyond a rea- 
+sonable doubt. 
+
+This Court has held that errors at the charging stage may 
+be rendered harmless by subsequent developments in the 
+prosecution. In United States v. Mechanik, 475 U.S. 66 
+(1986), the Court concluded that the defendants were not 
+entitled to reversal of their convictions because of an error in 
+the grand jury proceedings. In that case, two witnesses 
+appeared simultaneously before the grand jury, in violation 
+of Federal Rule of Criminal Procedure 6(d). The error, the 
+Court acknowledged, “had the theoretical potential to affect 
+the grand jury’s determination whether to indict these 
+particular defendants for the offenses with which they were 
+charged.” 475 U.S. at 70. But the Court concluded that “the 
+petit jury’s subsequent guilty verdict means not only that 
+there was probable cause to believe that the defendants 
+were guilty as charged, but also that they are in fact guilty 
+as charged beyond a reasonable doubt.” Jbid. Accordingly, 
+the Court held that “any error in the grand jury proceeding 
+
+
+21 
+
+
+connected with the charging decision was harmless beyond a 
+reasonable doubt.” Ibid. Mechanik illustrates that an error 
+that impairs the grand jury’s role does not inherently vitiate 
+a later criminal conviction and sentence. 
+
+Third, although a function of both the grand jury and the 
+petit jury is to protect against oppression and vindictiveness, 
+see Neder, 527 U.S. at 19; Wood, 370 U.S. at 390, the petit 
+jury provides stronger protection for the accused than the 
+grand jury. The prosecutor has no obligation to present 
+exculpatory evidence to the grand jury, and a target has no 
+right to appear before the grand jury or to submit evidence 
+on his own behalf. See Williams, 504 U.S. at 51-55. The 
+grand jury sits only to find probable cause, while the petit 
+jury must find guilt beyond a reasonable doubt. The grand 
+jury decides by majority vote, while the petit jury in a 
+federal case must be unanimous. Compare Fed. R. Crim. P. 
+6(a) and (f) with United States v. Gaudin, 515 U.S. 506, 510 
+(1995), and Fed. R. Crim. P. 31( a). And if a grand jury re- 
+fuses to return an indictment, the prosecutor may try again, 
+before the same grand jury or a different one; if a petit jury 
+acquits the defendant, however, the Double Jeopardy Clause 
+bars any retrial. See generally Williams, 504 U.S. at 47-50; 
+United States v. Calandra, 414 U.S. 338, 342-344 (1974); 
+Grand Jury Law, § 1.6, at 1-29; John Frederick Archbold, 
+Pleading and Evidence in Criminal Cases 65-68 (15th ed. 
+1862) (describing 19th Century grand jury practice in 
+
+
+England). 
+
+
+6 Other structural protections for the defendant at the trial stage are 
+not afforded at the grand jury stage. In contrast to the public trial right 
+protected by the Sixth Amendment, which exists “for the benefit of the 
+accused,” Waller v. Georgia, 467 U.S. 39, 46 (1984) (internal quotation 
+marks omitted), the grand jury hears evidence in secret. See Fed. R. 
+Crim. P. 6(d) and (e). And the grand jury may consider categories of 
+evidence that may not be considered by the petit jury, including evidence 
+that has been obtained in violation of the Constitution. See United States 
+v. R. Enters., Inc., 498 U.S. 292, 298 (1991) (“The same rules that, in an 
+
+
+These consideration compel the conclusion that the failure 
+to submit an issue of fact to the grand jury does not stand on 
+a higher plane than the failure to submit an issue of fact to 
+the petit jury. The Court concluded in Neder that such 
+errors at the petit jury stage of a prosecution are not “so in- 
+trinsically harmful as to require automatic reversal (i.e., 
+‘affect substantial rights’) without regard to their effect on 
+the outcome.” 527 U.S. at 7. The same conclusion must 
+apply to similar errors at the grand jury stage of a prose- 
+eution. 
+
+
+C. An Indictment’s Omission Of A Fact Required To 
+Support The Sentence Is Harmless Error If A 
+Rational Grand Jury Would Have Found The Fact And 
+The Defendant Had Notice That The Fact Was At 
+Issue 
+
+
+1. Proof Of The Omitted Fact And Adequate 
+Notice Render The Error Harmless 
+
+
+A reviewing court can readily apply harmless-error prin- 
+ciples to the imposition of a sentence that exceeds the 
+otherwise-applicable statutory maximum based on a fact not 
+contained in the indictment. The basic question is whether 
+the omission of the fact from the indictment caused prejudice 
+to the defendant. See United States v. Olano, 507 U.S. 725, 
+734 (1993) (In order to “affect substantial rights” for 
+purposes of Federal Rule of Criminal Procedure 52 (a) and 
+(b), “in most cases the error must have been pre- 
+
+
+adversary hearing on the merits, may increase the likelihood of accurate 
+determinations of guilt or innocence do not necessarily advance the mis- 
+sion of a grand jury, whose task is to conduct an ex parte investigation to 
+determine whether or not there is probable cause to prosecute a particular 
+defendant.”); see also Calandra, 414 U.S. at 349-355 (declining to extend 
+Fourth Amendment exclusionary rule to grand jury proceedings); Costello 
+v. United States, 350 U.S. 359, 361-364 (1956) (declining to extend rule 
+
+
+against hearsay to grand jury). 
+
+
+judicial: It must have affected the outcome of the district 
+
+
+court proceedings.”). If the reviewing court’ determines, 
+beyond a reasonable doubt, that a grand jury would have 
+found the omitted fact, if it had been asked to do so, and that 
+the defendant had notice that the fact was at issue and could 
+affect his sentence, the error did not affect the defendant’s 
+substantial rights. Such a defendant would have received 
+the same sentence if the right to a grand jury finding on the 
+enhancing fact had been observed. 
+
+With respect to the strength of the evidence: The error in 
+cases such as this one deprived the defendant of his right to 
+a grand jury finding that there was probable cause to believe 
+a particular fact—here, that a conspiracy involved a 
+particular quantity of drugs. To determine whether a 
+defendant was prejudiced by the absence of a grand jury 
+determination on that fact, the relevant inquiry is “whether 
+the record contains evidence that could rationally lead to a 
+contrary finding.” Neder, 527 U.S. at 19. To resolve that 
+question, a reviewing court has an independent obligation to 
+review the entire record, see United States v. Lane, 474 U.S. 
+438, 448 n.11 (1986) (harmless-error inquiry “requires a 
+review of the entire record”); United States v. Hasting, 461 
+U.S. 499, 509 n.7 (1983) (“entire record” must be considered), 
+including evidence submitted at sentencing. 
+
+Where the petit jury has found the same fact at trial 
+beyond a reasonable doubt, or where the defendant has 
+
+
+-admitted to the fact at his guilty plea colloquy, a reviewing 
+
+
+court can confidently conclude that the grand jury would also 
+have found that fact under a less rigorous standard of proof. 
+See United States v. Patterson, 241 F.3d 912, 914 (7th Cir.) 
+(“Once the petit jury finds beyond a reasonable doubt (or, on 
+plain error review, once the court concludes that the 
+evidence was so strong that the petit jury was bound to find) 
+that a particular drug and quantity was involved, we can be 
+confident in retrospect that the grand jury (which acts under 
+
+
+a lower burden of persuasion) would have reached the same 
+conclusion.”), cert. denied, 122 S. Ct. 124 (2001); ef. 
+Mechanik, 475 U.S. at 67 (“(Thhe petit jury’s verdict of guilty 
+beyond a reasonable doubt demonstrates a fortiori that 
+there was probable cause to charge the defendants with the 
+offenses for which they were convicted.”). Similarly, where 
+evidence at sentencing sufficiently establishes the existence 
+of the sentence-enhancing fact, and a defendant offers no 
+basis for reaching a contrary finding, a reviewing court can 
+confidently conclude that the grand jury would have found 
+probable cause to believe the fact as well. 
+
+With respect to notice: The express allegations of an 
+indictment are not the only means by which a defendant may 
+receive notice of the facts potentially affecting his sentence. 
+In many cases, for example, a reviewing court may conclude 
+that an earlier indictment, a bill of particulars, or a prose- 
+cutor’s statements at arraignment or another preliminary 
+proceeding gave the defendant ample notice of the need to 
+defend against a fact not alleged in the current indictment. 
+Furthermore, in pre-Apprendi drug prosecutions such as 
+this one, defendants and their counsel were well aware 
+that facts such as drug quantity, although not alleged in the 
+indictment (or submitted to the jury at trial), would be rele- 
+vant at sentencing to determine the severity of the sentence. 
+Section 841(b) itself makes clear the relevance of drug 
+quantity to the applicable sentence. See United States v. 
+Buckland, 277 F.3d 1173, 1182 (9th Cir. 2002) (en banc) 
+(“Congress’s intent * * * is apparent: to ramp up the 
+punishment for controlled substance offenders based on the 
+type and amount of illegal substance involved.”). And uni- 
+form circuit law declared that drug quantity was a central 
+issue to be determined at sentencing. See United States v. 
+Sanchez, 269 F. 3d at 1266. 
+
+This analysis of whether a defendant’s substantial rights 
+are affected by the district court’s erroneous reliance at 
+
+
+sentencing on a fact not found by the grand jury appropri- 
+ately balances “society’s interest in punishing the guilty” 
+against the constitutional guarantee of grand jury indict- 
+ment in federal felony prosecutions. Cf. Neder, 527 US. at 
+18-19. The grand jury’s function of protecting against 
+prosecutorial overreaching and vindictiveness is not “funda- 
+mentally undermine[d],” id. at 19, where the grand jury finds 
+all of the facts essential to the defendant’s conviction and 
+sentence, with the exception of the single fact at issue, and 
+where the reviewing court concludes that any rational grand 
+jury also would have found that fact, if asked to do so. The 
+grand jury’s notice function also is not undermined where 
+the reviewing court concludes that the defendant received 
+timely notice from other sources of the need to defend 
+
+against a fact omitted from the indictment.’ 
+2. Harmless-Error Review Does Not Usurp The 
+
+Role Of The Grand Jury 
+
+The court of appeals concluded that, even though a re- 
+viewing court is required by Neder to determine whether a 
+petit jury would have found a fact that it erroneously was 
+
+
+A third purpose served by requiring an indictment—protecting the 
+defendant's ability to “plead it in the future as a bar to subsequent 
+prosecutions,” Miller, 471 U.S. at 135—is not impaired in any respect by 
+the failure of an indictment to allege a fact that enhances the sentence. 
+The respondents in this case, for example, could not be prosecuted in the 
+future for the drug conspiracy alleged in the indictment, even if a second 
+indictment were to allege an enhanced quantity of drugs. The Double 
+Jeopardy Clause protects a defendant from being punished twice for the 
+same conspiracy. See Rutledge v. United States, 517 U.S. 292, 297-300 & 
+n.12 (1996) (presumption against multiple punishment for the same offense 
+applies to convictions for violations of the CCE statute, 21 U.S.C. 848, and 
+drug trafficking conspiracy, 21 U.S.C. 846). And a single conspiracy is the 
+same “offense,” whether or not it has additional objects. See Braverman v. 
+United States, 317 U.S. 49, 54 (1942) (“The conspiracy is the crime, and 
+that is one, however diverse its objects.”) (internal quotation marks 
+omitted). 
+
+
+not asked to consider, a reviewing court cannot determine 
+whether a grand jury would have done so. The court of 
+appeals reasoned that “speculat{ing] about whether a grand 
+jury would or would not have indicted a defendant for a 
+crime with which he was never charged * would usurp 
+the role of the grand jury, which * * * is ‘not bound to 
+indict in every case where a conviction can be obtained.’” 
+Pet. App. 15a (quoting Vasquez v. Hillery, 474 U.S. 254, 263 
+(1986) and United States v. Ciambrone, 601 F.2d 616, 629 (2d 
+Cir. 1979) (Friendly, J., dissenting)). There is no basis in 
+history or this Court’s decisions to distinguish the grand jury 
+from the petit jury in this regard. 
+
+a. The historical evidence. Just as the role of the petit 
+jury is to conviet whenever there is proof beyond a rea- 
+sonable doubt that the defendant committed a crime, the role 
+of the grand jury is to indict whenever there is probable 
+cause to believe that the defendant committed a crime. The 
+grand jury charges delivered by earlier members of this 
+Court, sitting on circuit, reflect the understanding that a 
+grand jury has a “duty” to indict if the evidence provides 
+probable cause to believe that the accused committed the 
+offense. See, e. g., Charge to Grand Jury, 30 F. Cas. 992, 993 
+(C.C.D. Cal. 1872) (Field, J., in chambers) (noting the grand 
+juror’s “duty to the government, or more properly speaking, 
+to society, to see that parties against whom there is just 
+ground to charge the commission of crime, shall be held to 
+answer the charge”); Charge to Grand Jury—Neutrality 
+Laws, 30 F. Cas. 1021, 1023 (C.C.D. Ohio 1851) (McLean, J., 
+in chambers) (“If it shall appear from the evidence that shall 
+be given, that any of our citizens have violated the above 
+law, it will be your duty to indict them.”); 2 The Docu- 
+mentary History of the Supreme Court of the United States, 
+
+
+1789-1800 30 (Maeva Marcus, ed., 1988) (Chief Justice Jays 
+
+
+Charge to the Grand Jury of the Circuit Court for the 
+
+
+District of New York, Apr. 12, 1790) (“In a word Gentlemen 
+
+
+, Pee. 
+
+
+27 
+
+
+your Province and your Duty extend (as it has been before 
+observed) to the Inquiry and Presentment of all offenses of 
+every kind committed against the United States in this 
+District or on the high Seas by Persons in it.“). 
+
+Today, as well, the model grand jury charge approved by 
+the Judicial Conference of the United States does not con- 
+template that grand jurors exercise unfettered discretion in 
+determining whether to indict. Rather, the model charge 
+directs grand jurors that “you should vote to indict where 
+the evidence presented to you is sufficiently strong to war- 
+rant a reasonable person’s believing that the accused is 
+probably guilty,” and cautions grand jurors not to “judge the 
+wisdom of the criminal laws enacted by Congress” or to “be 
+concerned about punishment in the event of conviction.” 
+Grand Jury Law § 4:5, at 4-14 to 4-15, 4-17. 
+
+The oath taken by grand jurors similarly requires de- 
+cisions based on the evidence, not personal predilection. As 
+this Court has noted, “in this country as in England of old 
+the grand jury has * * pledged to indict no one because of 
+prejudice and to free no one because of special favor.” 
+Costello v. United States, 350 U.S. 359, 362 (1956). The oath 
+traditionally administered to grand jurors directs that “you 
+shall present no one for envy, hatred, or malice; neither shall 
+you leave any one unpresented for fear, favor or affection, 
+hope of reward or gain, but shall present all things truly as 
+they come to your knowledge, according to the best of your 
+understanding.” George J. Edwards, The Grand Jury 96-97 
+
+
+8 See also, e. g., Charge to Grand Jury—Neutrality Laws and Trea- 
+son, 30 F. Cas. 1024, 1026 (C.C.D. Mass. 1851) (Curtis, J., in chambers); 3 
+The Documentary History of the Supreme Court of the United States, 
+1789-1800 292-293 (Maeva Marcus, ed., 1990) (Justice Patterson’s Charge 
+to the Grand Jury of the Circuit Court for the District of Vermont, Oct. 3, 
+1798); 2 The Documentary History of the Supreme Court of the United 
+States, 1789-1800 171 (Justice Wilson’s Charge to the Grand Jury of the 
+Circuit Court for the District of Virginia, May 23, 1791). 
+
+
+(1906) (emphasis added); accord Grand Jury Law § 4:4, at 4- 
+13 (quoting substantially similar oath currently administered 
+to federal grand jurors); 2 Joseph Gabbett, The Criminal 
+Law 269 n.(a) (1843). 
+
+This Court’s decisions have consistently described the role 
+of the grand jury as protecting the “innocent” against im- 
+properly motivated accusations, not as protecting those per- 
+sons who, although sympathetic personally or politically, are 
+probably guilty. See, e. g., Williams, 504 U.S. at 51; United 
+States v. Dionisio, 410 U.S. 1, 16 (1973); Wood, 370 U.S. at 
+384. That appears to have been the original understanding 
+of the Grand Jury Clause as well. At the ratifying convention 
+in Massachusetts—which was one of three States to propose 
+a constitutional amendment providing a right to grand jury 
+indictment—a delegate argued that such a right was neces- 
+sary to prevent “the most innocent person in the common- 
+wealth” from being “dragged from his home [and] his 
+friends” and subjected to “long, tedious, and painful impri- 
+sonment” before his ultimate acquittal at trial. 5 The 
+Founders’ Constitution 260 (statement of Abraham Holmes). 
+
+It has, of course, long been understood that a grand jury 
+occasionally will not indict even when probable cause is 
+established, just as a petit jury occasionally will not convict 
+where guilt beyond a reasonable doubt is conclusively 
+shown. But that does not mean that such nullification, by 
+either the grand jury or the petit jury, is a right that courts 
+must encourage, as distinguished from a power that courts 
+must tolerate for reasons of public policy. See, e. g., United 
+States v. Washington, 705 F.2d 489, 494 (D.C. Cir. 1983) (per 
+curiam opinion of panel including Ginsburg, J.) (“A jury has 
+no more ‘right?’ to find a ‘guilty’ defendant ‘not guilty’ than it 
+has to find a ‘not guilty’ defendant ‘guilty,’ and the fact that 
+the former cannot be corrected by a court, while the latter 
+can be, does not create a right out of the power to misapply 
+the law.”); United States v. Thomas, 116 F.3d 606, 615 (2d 
+
+
+— 
+
+
+Cir. 1997) (The power of juries to ‘nullify’ or exercise a 
+power of lenity is just that—a power; it is by no means a 
+right or something that a judge should encourage or permit 
+if it is within his authority to prevent.”). The power of a 
+petit jury to nullify despite the evidence does not preclude 
+harmless-error analysis, as Neder makes clear. See United 
+States v. Kerley, 888 F. 2d 932, 938 (7th Cir. 1988) (Posner, J.) 
+(HA jury] has the power to acquit on bad grounds, because 
+the government is not allowed to appeal from an acquittal by 
+a jury. But jury nullification is just a power, not also a right, 
+as is shown among other things by the fact * * * thata 
+trial error which favors the prosecution is harmless if ro 
+reasonable jury would have acquitted, though an actual jury 
+might have done so.”). Likewise, the power of a grand jury 
+to refuse to return an indictment despite facts establishing 
+probable cause does not preclude a court from reviewing for 
+harmless error—and concluding that an error was harmless 
+because any rational grand jury would have found probable 
+cause to believe a particular fact, if asked to do so. 
+
+b. This Court’s jurisprudence. This Court’s decision in 
+Vasquez v. Hillery, 474 U.S. at 263, on which the court of 
+appeals relied (Pet. App. 15a), does not hold that a court can 
+never conduct harmless-error review by asking whether a 
+grand jury would have found a particular fact. 
+
+In Hillery, the Court held that purposeful racial discrimi- 
+nation in the selection of the grand jury cannot be harmless 
+error. In the course of explaining that holding, the Court 
+stated that the grand jury “does not determine only that 
+probable cause exists to believe that a defendant committed 
+a crime, or that it does not.” 474 U.S. at 263. Rather, the 
+Court stated, the grand jury has the power to select “a 
+greater offense or a lesser offense.” Ibid. Moreover,“ the 
+Court continued, It he grand jury is not bound to indict in 
+every case where a conviction can be obtained.” Ibid. (quot- 
+ing Ciambrone, 601 F. 2d at 629 (dissenting opinion)). Ac- 
+
+
+30 
+
+
+cordingly, “even if a grand jury’s determination of probable 
+cause is confirmed in hindsight by a conviction on the in- 
+dicted offense, that confirmation in no way suggests that the 
+discrimination did not impermissibly infect the framing of 
+the indictment and, consequently, the nature or very exis- 
+tence of the proceedings to come.” Ibid. That discussion 
+does not preclude harmless-error analysis in this case. 
+
+Hillery itself intimated that the inability to determine 
+with certainty what the grand jury would have done 
+precludes harmless-error review only in cases of racial dis- 
+crimination or similarly fundamental error. See 474 U.S. at 
+263-264 (“discrimination in the grand jury undermines the 
+structural integrity of the criminal tribunal itself, and is not 
+amenable to harmless-error review”). Subsequent decisions 
+of this Court make clear that, outside the unique context of 
+invidious discrimination in its selection, ordinary principles 
+of harmless-error analysis apply to the grand jury. Shortly 
+after Hillery, the Court explained that the result in that case 
+was “compelled by precedent directly applicable to the 
+special problem of racial discrimination.” Mechanik, 475 
+U.S. at 71 n.1. The Court stated that Hillery also rested on 
+the view that “racial discrimination in the selection of grand 
+jurors is so pernicious, and other remedies so impractical, 
+that the remedy of automatic reversal was necessary as a 
+prophylactic means of deterring grand jury discrimination in 
+the future, and that one could presume that a discrimina- 
+torily selected grand jury would treat defendants of 
+excluded races unfairly.” Ibid. The Court concluded that 
+“these considerations have little force outside the context of 
+racial discrimination in the composition of the grand jury.” 
+Ibid.; see Bank of Nova Scotia v. United States, 487 U.S. 
+250, 256-257 (1988) (distinguishing Hillery’s automatic re- 
+versal rule as necessitated by racial discrimination, and de- 
+scribing Hillery as one of the “isolated exceptions” to the 
+harmless-error rule). Because the failure to include an ele- 
+
+
+— — = 
+
+
+31 
+
+
+ment or sentence-enhancing fact in an indictment is not a 
+“special problem” like racial discrimination, Hillery is inap- 
+posite here. 
+
+The Court’s suggestion in Hillery that the grand jury has 
+unfettered discretion not to indict, despite the existence of 
+probable cause, was therefore not essential to the decision in 
+that case. Hillery was independently justified by “(t]he 
+overriding imperative to eliminate th[e] systemic flaw [of 
+racial discrimination] in the charging process.” 474 U.S. at 
+264. Equally important, Hillery’s description of the grand 
+jury’s freedom of action relied exclusively on Judge 
+Friendly’s dissenting opinion in Ciambrone, 601 F.2d at 629. 
+The sources cited in that dissent, however, do not 
+authoritatively establish that the grand jury historically 
+enjoyed complete discretion. To the contrary, the historical 
+evidence described above (at 26-28) reveals that grand 
+jurors were expected to act in accordance with law and to 
+indict when the evidence established probable cause.” 
+
+
+9 The only relevant historical source cited by Judge Friendly’s 
+dissent—which largely addressed a wholly different question involving 
+prosecutorial misconduct before the grand jury—was a state court grand 
+jury charge advising that It he grand jury may even refuse to indict 
+although its attention is called to a clear violation of law.” 601 F. 2d at 629 
+n.2 (quoting Charge of John Raymond Fletcher, Associate Judge, Seventh 
+Judicial Circuit Court of Maryland, to the Grand Jury for Calvert 
+County on May 7, 1955, 18 F.R.D. 211, 214 (Md. Cir. Ct. 1955)). That 
+instruction, however, contradicts the prevailing historical practice, as 
+discussed in the text. Judge Friendly also cited three judicial opinions: 
+United States v. Cox, 342 F.2d 167, 189-190 (5th Cir.) (Wisdom, J., con- 
+curring specially), cert. denied, 381 U.S. 935 (1965); In re Kittle, 180 F. 946, 
+947 (S.D.N.Y. 1910); and United States v. Asdrubal-Herrera, 470 F. Supp. 
+989 (N. D. III. 1979). None cites historical materials showing that the grand 
+jury had unfettered discretion not to indict when probable cause was 
+found. The closest is the reference in Asdrubal-Herrera to an English 
+grand jury in 1681 that returned “its now famous verdict of ‘ignoramus’” 
+after being charged in Lord Shaftesbury’s case that failure to return a bill 
+where there was probable cause would be a crime. 470 F. Supp. at 942. 
+
+
+32 
+
+
+3. This Courts Cases Do Not Support A Rule of 
+Automatic Reversal 
+
+The court of appeals cited two other decisions of this 
+Court—Stirone v. United States, 361 U.S. 212 (1960), and 
+Silber v. United States, 370 U.S. 717 (1962) (per curiam)—as 
+support for its view that the omission of an element or 
+sentence-enhancing fact from an indictment is automatically 
+reversible. See Pet. App. 9a-13a. Neither case requires that 
+conclusion. 
+
+In Stirone, the Court held that a defendant was deprived 
+of his Fifth Amendment right to a grand jury indictment 
+when the government proved an element at trial in a way 
+that departed from the way that element was alleged in the 
+indictment. The Court declined to treat the deviation from 
+the indictment as harmless error, reasoning that a depri- 
+vation of “the defendant’s substantial right to be tried only 
+on charges presented in an indictment returned by a grand 
+jury * * * is far too serious to be treated as nothing more 
+than a variance and then dismissed as harmless error.” 361 
+US. at 217. 
+
+Stirone was decided before this Court’s comprehensive 
+adoption of harmless-error analysis in Chapman v. Cali- 
+fornia, 386 U.S. 18 (1967). As Justice Stewart noted in his 
+concurrence in that case, before Chapman, the Court had 
+“steadfastly rejected any notion that constitutional vio- 
+lations might be disregarded on the ground that they were 
+‘harmless.’” Id. at 42 (collecting cases). Because Stirone 
+was decided in an era in which constitutional errors 
+generally required per se reversal, that decision does not 
+control the analysis in this case. As noted above, the Court 
+
+
+The judge’s charge in that case supports the view that a grand jury cannot 
+refuse to indict when probable cause exists. That the grand jury there 
+may have refused to do so anyway reveals only an unreviewable power, 
+not a right. 
+
+
+— 
+
+
+33 
+
+
+recognized in Neder that most constitutional errors can be 
+harmless, and it did not identify Stirone as belonging to the 
+“very limited class of cases” that involve an exception to that 
+rule. See 527 U.S. at 8. 
+
+Moreover, Stirone presented fair notice concerns that 
+ordinarily are not presented in cases like this one. In 
+Stirone, “the charging terms (or allegations in the indict- 
+ment) [were] materially broadened and altered to such a 
+significant extent as to constitute an entirely new or dif- 
+ferent theory of the case.” McCoy v. United States, 266 F. 3d 
+1245, 1253 (11th Cir. 2001). The indictment in Stirone 
+charged that an extortion violated the Hobbs Act, 18 U.S.C. 
+1951, by obstructing commerce in sand. At trial, however, 
+the district court, over the defendant’s objection, permitted 
+the jury to find an effect on commerce through interference 
+with shipments of steel. 361 U.S. at 213-214. The concerns 
+raised by the changed focus of the trial in Stirone are not 
+present when an indictment omits a fact that is intrinsic to 
+the charged crime and that all parties expect to be relevant 
+to the sentence. In contrast to an indictment that is 
+broadened by presenting a wholly new or different theory of 
+the case, “allegations in § 846 or § 841 indictments that 
+charge generally that a defendant conspired to possess or 
+possessed with intent to distribute [a given drug] are not 
+even broadened when a precise amount of [that drug] is 
+proven at trial or at sentencing.” McCoy, 266 F.3d at 1253- 
+1254. Indeed, “{p]roof that supports only a precise drug 
+quantity falls within [the defendant’s] broader drug con- 
+spiracy charge and, if anything, narrows the allegations in 
+the indictment to that amount.” Id. at 1254. 
+
+In Silber, the Court exercised its power, “[iJn exceptional 
+circumstances,” to notice errors that were not raised on 
+appeal, “if the errors are obvious, or if they otherwise seri- 
+ously affect the fairness, integrity or public reputation of 
+judicial proceedings.” 370 U.S. at 718. Applying that 
+
+
+34 
+
+
+standard, the Court held that the indictment error in Silber, 
+which was raised and decided in the district court, war- 
+ranted reversal of a conviction under a supervening decision 
+of the Court (Russell v. United States, 369 U.S. 749 (1962)), 
+even though the defendant had not asserted the indictment 
+error on appeal. 370 U.S. at 717-718. The Court did not hold 
+that all indictment errors in violation of the Fifth 
+Amendment necessarily require reversal under that stan- 
+dard. In any event, Silber, like Stirone, predates Chapman’s 
+articulation of harmless-error analysis.“ 
+
+
+D. The Error Of Imposing An Enhanced Sentence Based 
+On A Fact Omitted From The Indictment, When Not 
+Raised In The District Court, May Not Warrant Relief 
+On Plain-Error Review 
+
+
+Even if the error in this case were held to affect a defen- 
+dant’s “substantial rights,” it would not automatically war- 
+rant relief. Respondents did not object in the district court, 
+and they therefore cannot prevail without satisfying the 
+requirements of the plain-error rule of Federal Rule of 
+Criminal Procedure 52(b). 
+
+1. As a general rule, a federal defendant’s failure to make 
+a timely objection in district court forfeits that objection. 
+See Johnson, 520 U.S. at 465 (noting “the familiar principle 
+that a right may be forfeited in criminal as well as civil cases 
+by the failure to make timely assertion of the right before a 
+tribunal having jurisdiction to determine it”) (internal quota- 
+tion marks omitted); United States v. Olano, 507 U.S. 725, 
+
+
+10 In addition, Stirone and Silber involved claims that were properly 
+preserved at trial. See Stirone, 361 U.S. at 217-219 (noting that defendant 
+had objected to the introduction of the evidence that departed from the 
+indictment’s allegations, to the court’s instructions allowing the jury to 
+convict on that theory, and to the entry of judgment); Silber, 370 U.S. at 
+717 (noting that defendant raised objection in district court). The Court 
+thus had no occasion in those cases to address the analysis that would have 
+applied if, as in this case, the claim was never raised in the district court. 
+
+
+35 
+
+
+731 (1993). Rule 52(b) provides, however, that Ipllain 
+errors or defects affecting substantial rights may be noticed 
+although they were not brought to the attention of the 
+court.” See Olano, 507 U.S. at 731 (observing that Rule 
+52(b) “provides a court of appeals a limited power to correct 
+errors that were forfeited because not timely raised in 
+district court”). This Court has explained that plain-error 
+analysis under Rule 52(b) consists of four inquiries: 
+
+
+[Blefore an appellate court can correct an error not 
+raised [in the trial court], there must be (1) error, (2) that 
+is plain, and (3) that affects substantial rights. If all three 
+conditions are met, an appellate court may then exercise 
+its discretion to notice a forfeited error, but only if (4) the 
+error seriously affects the fairness, integrity, or public 
+reputation of judicial proceedings. 
+
+Johnson, 520 U.S. at 466-467 (brackets, citation, and internal 
+
+quotation marks omitted). 
+
+In Johnson, the defendant argued that, despite her failure 
+to object at trial, she was not obligated to meet the exacting 
+plain-error standard of Rule 52(b), because the error in her 
+case—the failure to submit an element of the offense to the 
+jury—was so serious as to amount to “structural” error. The 
+Court rejected that claim, holding that all claimed errors in 
+federal criminal trials, regardless of their nature or serious- 
+ness, are subject to plain-error analysis under Rule 52(b) 
+when the defendant does not make a timely objection in the 
+district court. 520 U.S. at 466. The Court reasoned that an 
+exception to Rule 52(b) for serious or structural errors 
+“would be [a] creation out of whole cloth * * * which we 
+have no authority to make.” Ibid. 
+
+Under Johnson, even a conclusion that a particular type of 
+error is “structural,” or “so serious as to defy harmless-error 
+analysis,” means only that such an error always “affects sub- 
+stantial rights,” thus satisfying the third of the four require- 
+ments for plain-error relief. See Johnson, 520 U.S. at 468- 
+
+
+36 
+
+
+469. Under the fourth requirement, a prejudicial error 
+(including a structural one) that would clearly be grounds for 
+relief if it was properly preserved is not a proper ground for 
+relief if it was not preserved, unless it also “seriously 
+affect[s] the fairness, integrity, or public reputation of judi- 
+cial proceedings.“ Id. at 469-470; see Neder, 527 U.S. at 34- 
+35 & n.1 (Scalia, J., dissenting) (“It is a universally acknowl- 
+edged principle of law that one who sleeps on his rights— 
+even fundamental rights—may lose them.”). 
+
+Accordingly, a violation of the Grand Jury Clause in 
+trying or sentencing a defendant on an indictment that omits 
+an offense element or sentence-enhancing fact is subject to 
+the plain-error standard of Rule 52(b) if the defendant fails 
+to raise the claim of error in the district court. Even if the 
+error were found to affect substantial rights, therefore, a 
+reviewing court may reverse the conviction or sentence only 
+if the error “seriously affeetſs] the fairness, integrity, or 
+public reputation of judicial proceedings.” Johnson, 520 U.S. 
+at 469-470." 
+
+
+1! With respect to indictment errors, Rule 12(b)(2) of the Federal 
+Rules of Criminal Procedure states that, although “[dJefenses and objec- 
+tions based on defects in the indictment” “must be raised prior to trial,” 
+defenses and objections based on an indictment’s “fail{ure] to show juris- 
+diction in the court or to charge an offense * * * shall be noticed by the 
+court at any time during the pendency of the proceedings.” Although the 
+court of appeals cited that provision in passing (Pet. App. 13a), it did not 
+hold that the rule relieved respondents of the need to show plain error. 
+The court of appeals’ conclusion that respondents must satisfy the plain- 
+error standard is correct. Not only do cases such as this not involve a 
+failure “to show jurisdiction in the court or to charge an offense,” Fed. R. 
+Crim. P. 12(b)(2), but the error does not relate to the indictment alone; 
+rather, the error involves the imposition of a sentence above the 
+otherwise-applicable statutory maximum based on a fact not alleged in the 
+indictment. In any event, Rule 12(b)(2) does not excuse a defendant from 
+having to meet the requirements of the plain-error standard of Rule 52(b) 
+when he has not made a timely objeetion in the district court. 
+
+
+37 
+
+
+2. The Court’s decision in Johnson illustrates the appli- 
+cation of that approach when a defendant has been deprived 
+of a procedural right involving the determination of facts 
+bearing on guilt or punishment. After concluding that the 
+record evidence “overwhelming{ly]” established the issue 
+that had been omitted from the petit jury instructions, this 
+Court rejected the defendant’s argument that the error 
+nonetheless “seriously affeetled] the fairness, integrity or 
+public reputation of judicial proceedings.” 520 U.S. at 470. 
+“Indeed,” the Court said, “it would be the reversal of a con- 
+viction such as this which would have that effect.” Ibid. The 
+Court noted that reversal for non-prejudicial error “en- 
+courages litigants to abuse the judicial process and bestirs 
+the public to ridicule it.” Ibid. (quoting Roger J. Traynor, 
+The Riddle of Harmless Error 50 (1970)). 
+
+A district court’s imposition of a sentence based on a fact 
+not submitted to the grand jury likewise does not inherently 
+affect the fairness, integrity, or public reputation of judicial 
+proceedings. The “fairness” and “integrity” of the pro- 
+ceedings are not called into question when the evidence of 
+the omitted fact is overwhelming and the defendant has not 
+presented evidence to controvert it. The absence of any 
+fundamental unfairness is further supported when the 
+district court, though erroneous in hindsight, proceeded 
+entirely in accordance with then-established law. And to 
+allow a defendant to avoid the punitive consequences of a 
+fact that he could not plausibly contest would, as the Court 
+noted in Johnson, undermine rather than enhance the public 
+reputation of the criminal justice system. See 520 U.S. at 
+470. Johnson recognizes that petit jury errors do not war- 
+rant reversal under the plain-error standard when a re- 
+viewing court concludes that the petit jury would have found 
+an uncontested fact, if asked. Nothing in the nature or role 
+of the grand jury requires a different approach. 
+
+
+E. The Error Is Not A “Jurisdictional” Error, Immune 
+From Harmless-Error And Plain-Error Review 
+
+
+While purporting to apply plain-error review, the court of 
+appeals stated that the district court “exceeded its juris- 
+diction” by imposing sentences on respondents that ex- 
+ceeded the otherwise-applicable statutory maximum based 
+on a fact not alleged in the superseding indictment. Pet. 
+App. 8a-9a. The court’s characterization of the error in this 
+case as “jurisdiction{al]” is incorrect and is not supported by 
+this Court’s decisions. Imposition of an enhanced statutory 
+sentence in the absence of an indictment charging the 
+sentence-enhancing fact, although a constitutional error, is 
+not an error that goes to the district court’s jurisdiction. 
+
+1. All federal courts have an independent obligation to 
+assure that subject-matter jurisdiction exists over a case at 
+all relevant times. A lack of subject-matter jurisdiction in a 
+district court requires the reversal of its judgment without 
+any inquiry into prejudice. See Ruhrgas AG v. Marathon 
+Oil Co., 526 U.S. 574, 583-584 (1999). But the error at issue 
+_ here—a discrepancy between the facts alleged in the indict- 
+
+ment and the facts relied on at sentencing—is not analogous 
+to a lack of subject-matter jurisdiction. 
+
+The right to a grand jury indictment is a personal right of 
+the accused. The language of the Grand Jury Clause 
+parallels the language of other clauses of the Fifth Amend- 
+ment that define personal rights, not jurisdictional prere- 
+quisites. For example, the Double Jeopardy Clause, which 
+immediately follows the Grand Jury Clause, states: “Nor 
+shall any person be subject for the same offence to be twice 
+put in jeopardy of life or limb.” U.S. Const. Amend. V. That 
+language does not constrain the power of the courts to try a 
+person twice for the same offense. It instead recognizes a 
+personal right of the defendant that is subject to waiver, see 
+United States v. Broce, 488 U.S. 563 (1989), and to principles 
+of procedural default, see Peretz v. United States, 501 U.S. 
+
+
+923, 936 (1991) (stating in dicta that the absence of an objec- 
+tion at trial waives a double jeopardy defense). A defendant 
+likewise may waive the right to a grand jury indictment. 
+See Fed. R. Crim. P. 7(b) (defendant in a non-capital case 
+may waive his right to indictment and allow the government 
+to proceed by information); Barkman v. Sanford, 162 F.2d 
+592 (5th Cir.), cert. denied, 332 U.S. 816 (1947). A true 
+absence of subject-matter jurisdiction, however, cannot be 
+waived. United States v. Griffin, 303 U.S. 226, 229 (1938). 
+
+This Court has made clear that the failure of an indict- 
+ment to allege any offense does not deprive the convicting 
+court of jurisdiction to enter judgment. In Lamar v. United 
+States, 240 U.S. 60, 64 (1916), the Court rejected a defen- 
+dant’s claim that “the court had no jurisdiction because the 
+indictment does not charge a crime against the United 
+States.” Justice Holmes, writing for a unanimous Court, 
+explained: 
+
+[Nothing can be clearer than that the district court, 
+
+which has jurisdiction of all crimes cognizable under the 
+
+authority of the United States * * * acts equally within 
+its jurisdiction whether it decides a man to be guilty or 
+innocent under the criminal law, and whether its decision 
+is right or wrong. The objection that the indictment does 
+not charge a crime against the United States goes only to 
+the merits of the case. 
+
+Id. at 65. 
+
+The Court reaffirmed that conclusion in United States v. 
+Williams, 341 U.S. 58, 66 (1951), which held that a ruling 
+“that the indictment is defective does not affect the juris- 
+diction of the trial court to determine the case presented by 
+the indictment.” In Williams, the district court dismissed an 
+indictment that charged the defendants with perjury in a 
+prior trial on conspiracy charges under 18 U.S.C. 241. 
+
+
+Pointing to the court of appeals’ subsequent decision that the 
+conspiracy indictment did not state an offense under Section 
+
+
+40 
+
+
+241, the district court reasoned that the court that tried the 
+conspiracy charges had “no jurisdiction.” 341 U.S. at 65. 
+This Court rejected that conclusion, holding that under 18 
+U.S.C. 3231, the district court had “jurisdiction of the subject 
+matter, to wit, an alleged violation of a federal conspiracy 
+statute,” and that the court of appeals’ subsequent finding 
+that “the facts stated in the indictment do not constitute a 
+crime” did not deprive the trial court of jurisdiction. 341 
+U.S. at 66, 69; see Steel Co. v. Citizens for a Better 
+Environment, 523 U.S. 83, 89 (1998) (“[T]he absence of a 
+valid * * * cause of action does not implicate subject- 
+matter jurisdiction, ie, the courts’ statutory or consti- 
+tutional power to adjudicate the case.) 
+
+2. In concluding that the district court did not have 
+“jurisdiction” to impose enhanced sentences on respondents, 
+the court of appeals relied on Ex parte Bain, 121 U.S. 1 
+(1887). That reliance was misplaced. 
+
+In Ex parte Bain, the Court granted habeas corpus relief 
+to a defendant who was tried on a narrower theory than the 
+indictment had alleged. The Court found that, as a result of 
+the change in the indictment, “the jurisdiction of the offence 
+is gone, and the court has no right to proceed any further in 
+the progress of the case for want of an indictment.” 121 U.S. 
+at 13. The indictment error, the Court concluded, thus had 
+the character of a jurisdictional defect that justified relief on 
+habeas corpus review. See id. at 14 (citing, e. g., Ex parte 
+Lange, 85 U.S. (18 Wall.) 163 (1873), and Ex parte Wilson, 
+114 U.S. 417 (1885)). Ex parte Bain’s reasoning in finding 
+jurisdictional error, however, is inconsistent with prior de- 
+cisions of this Court and has been superseded by later de- 
+velopments in the law. Ez parte Bain thus does not control 
+
+
+the question presented in this case.” 
+
+
+2 The specific holding of Ez parte Bain was overruled in United 
+States v. Miller, 471 U.S. at 144-145, which holds that it does not violate 
+the Grand Jury Clause to try a defendant on a narrower charge than that 
+
+
+41 
+
+
+Long before Ex parte Bain, this Court considered and 
+rejected the proposition that a defective indictment that fails 
+to allege an offense deprives the convicting court of juris- 
+diction to enter judgment. In Ex parte Watkins, 28 US. (3 
+Pet.) 193, 201 (1830), the Court, in an opinion by Chief 
+Justice Marshall, denied habeas corpus relief to a prisoner 
+who claimed that “the indictment charges no offence for 
+which [he] was punishable in that court.” The Court 
+reasoned that, even if the judgment “was erroneous,” that 
+did not mean that the court lacked jurisdiction to enter it. 
+Id. at 200; see Ex parte Parks, 93 U.S. 18 (1876) (declining to 
+review on habeas corpus a claim that the indictment did not 
+charge any federal offense). 
+
+The jurisdictional reasoning in Ex parte Bain responded 
+to the fact that, at that time, habeas corpus relief could be 
+granted only when the court that rendered judgment lacked 
+jurisdiction. See Schlup v. Delo, 513 U.S. 298, 317 (1995) 
+(“(TJhe writ originally performed only the narrow function of 
+testing either the jurisdiction of the sentencing court or the 
+legality of Executive detention.”); Preiser v. Rodriguez, 411 
+U.S. 475, 485 (1973) (Under “(t]he original view,” the rele- 
+vant inquiry was confined to determining simply whether or 
+not the committing court had been possessed of juris- 
+diction.”). Ex parte Bain is one of a series of cases in which 
+the Court expanded the notion of “jurisdictional” error to in- 
+clude constitutional violations, although there was no 
+colorable claim that the court lacked subject-matter juris- 
+
+
+alleged in the indictment. The Court in Miller reaffirmed the different 
+principle, also derived from Ex parte Bain, that a broadening of the 
+charges beyond those alleged in the indictment does violate the Grand 
+Jury Clause. Id. at 142-144. But the Court did not have any occasion to 
+apply that principle on the facts of that case, did not characterize such an 
+error as “jurisdictional,” and did not consider whether and how principles 
+of procedural default apply to claims of improper “broadening” of the 
+charges. 
+
+
+42 
+
+
+diction to adjudicate the case. See, e. g., Ex parte Wilson, 114 
+U.S. at 429 (claim that offense was within class of cases 
+requiring prosecution by indictment); Ex parte Lange, 85 
+US. at 176-177 (double jeopardy claim). 
+
+Ultimately, however, after a long period of expansion of 
+the category of “jurisdictional” errors to serve this function, 
+the Court held that its power to grant habeas corpus relief 
+existed whenever the judgment under review involved con- 
+stitutional error. See Custis v. United States, 511 U.S. 485, 
+494 (1994); Waley v. Johnston, 316 U.S. 101, 104-105 (1942) 
+(per curiam); see also Wainwright v. Sykes, 483 U.S. 72, 79 
+(1977) (by the time of Waley, the Court “openly discarded 
+the concept of jurisdiction—by then more a fiction than 
+anything else—as a touchstone of the availability of federal 
+habeas review”); Vance v. Hedrick, 659 F.2d 447, 449-451 
+(4th Cir. 1981) (summarizing the expansion of the grounds 
+for granting habeas relief), cert. denied, 456 U.S. 978 (1982). 
+In light of that development, the use of the term 
+“jurisdictional error” to describe any failing other than an 
+utter lack of power in the court to adjudicate generally has 
+become obsolete. And the post-Eæ parte Bain decisions of 
+the Court in Lamar and Williams establish that an indict- 
+ment’s failure to charge an offense does not deprive a federal 
+court of jurisdiction. It necessarily follows that, where an 
+indictment alleges a complete offense but merely omits to 
+allege a sentence-enhancing fact, a district court’s error in 
+imposing an enhanced sentence based on that fact is not 
+jurisdictional in character. 
+
+
+43 
+
+
+II. THE SENTENCES IN THIS CASE SHOULD BE 
+AFFIRMED UNDER EITHER THE HARMLESS- 
+ERROR OR THE PLAIN-ERROR STANDARD 
+
+
+As noted, respondents did not object in the district court 
+to the imposition of sentences that exceed the otherwise- 
+applicable statutory maximum under 21 U.S.C. 841(b) based 
+on a fact, threshold drug quantity, that was not alleged in the 
+superseding indictment. Accordingly, since respondents 
+raised their Apprendi challenge to their sentences for the 
+first time on appeal, that challenge is properly reviewed 
+under the plain-error standard. But whether the challenge 
+is considered under the harmless-error standard of Rule 
+52(a) or the plain-error standard of Rule 52(b), the sentences 
+should be affirmed because respondents’ “substantial rights” 
+were not affected by the district court’s erroneous reliance 
+at sentencing on a fact not alleged in the superseding indict- 
+ment. And the sentences should be affirmed under the plain- 
+error standard (even if the error did affect substantial 
+rights) because the district court’s error, while plain in light 
+of Apprendi, does not “seriously affeetſ] the fairness, integr- 
+ity, or public reputation of judicial proceedings.” Johnson, 
+520 U.S. at 467. 
+
+A. The Error Did Not Affect Respondents’ Substantial 
+
+Rights 
+
+As explained above (at 22-25), in order to ascertain 
+whether a defendant’s substantial rights were affected by a 
+district court’s imposition of an enhanced sentence based on 
+a fact not alleged in the indictment, a reviewing court should 
+consider two questions: whether a rational grand jury, ap- 
+plying the probable-cause standard, would have found that 
+fact, and whether the defendant had adequate notice that the 
+fact was at issue. If the reviewing court answers both ques- 
+tions in the affirmative, the error did not affect the defen- 
+dant’s substantial rights, and the sentence should be sus- 
+
+
+44 
+
+
+tained, whether on harmless-error cr glain- error review. 
+Under that inquiry, the district eourt's error here—sen- 
+tencing respondents to terias of 30 years’ and life imprison- 
+ment under 21 U.S.C. Sai) based on a threshold drug 
+quantity not alleged in the indictment—could not have 
+affected respondents’ substantial rights.” 
+
+1. A rational grand jury would undoubtedly have found 
+probable cause that respondents’ conspiracy involved at 
+least 50 grams of cocaine base, an amount authorizing a 
+maximum term of life imprisonment under 21 U.S.C. 
+841(b)(1)(A). 
+
+At trial, the government introduced approximately 380 
+grams of cocaine base that had been seized from the organi- 
+zation’s stash houses on North Duncan Street in Baltimore 
+and from the conspirators and their residences. See Pet. 
+App. 6a (“approximately 380 grams of cocaine base 
+were actually seized from the various conspirators and ‘stash 
+houses“); see also, e. g., 7 Tr. 189-196; Gov’t Exh. D-15 
+(officers seized 80 grams of cocaine base from 229 North 
+Duncan Street and arrested respondent Jesus Hall on the 
+roof as he attempted to flee); 7 Tr. 215-230; Gov’t Exhs. D- 
+16A, D-16B (officers arrested respondent Jovan Powell as he 
+came out of 213 North Duncan Street and seized 158 grams 
+of cocaine base from the house); 11 Tr. 16-17, 26-35; Gov’t 
+Exh. D-20 (officers executed search warrant at 213 North 
+Duncan Street, arrested respondent Stanley Hall, Jr., in 
+front of the house and respondent Leonard Cotton as he ran 
+up the stairs, and seized 22 grams of cocaine base from the 
+stairs and elsewhere in the house); 16 Tr. 18-22; Gov’t Exh. 
+D-29 (officers executed search warrant at Jovan Powell’s 
+
+
+18 When a claim of error has been preserved in the district court, the 
+government bears the burden of establishing that the error did not affect 
+the defendant’s substantial rights. When a claim of error has not been 
+preserved, however, the defendant bears the burden of proof on that 
+question. See Olano, 507 U.S. at 734. 
+
+
+45 
+
+
+residence and seized 51 grams of cocaine base from his 
+sweatpants). Respondents stipulated to the quantity of 
+cocaine base in each of the government’s exhibits. 18 Tr. 
+151-154; Gov’t Exh. 253; J.A. 23. 
+
+In addition to that evidence, the government presented 
+the testimony of several of respondents’ co-conspirators, 
+who testified to activity in the course of the conspiracy in- 
+volving large quantities of cocaine base. See Pet. App. 26a- 
+28a (Wilkinson, C.J., concurring in part and dissenting in 
+part) (describing some of “the most incriminating evidence 
+regarding the quantity of cocaine base,” including testimony 
+of two conspirators that, on multiple occasions, they pack- 
+aged kilogram-quantities of cocaine base and testimony of 
+another conspirator that he sold $10,000 to $12,000 of cocaine 
+base per week for more than a month). | 
+
+As Chief Judge Wilkinson noted in dissent, “there is no 
+question that [respondents] participated in a conspiracy to 
+distribute more than 50 grams of cocaine base.” Pet. App. 
+24a. Even considering only the 380 grams of cocaine base 
+seized by law-enforcement officers (and not the additional 
+amounts of cocaine base testified to by the government’s 
+witnesses at trial), any rational grand jury would necessarily 
+have found probable cause that the conspiracy involved at 
+least 50 grams of cocaine base, less than one-seventh the 
+amount seized." 
+
+Indeed, the grand jury found in the original indictment 
+(filed October 3, 1997) that the conspiracy involved “five kilo- 
+grams or more” of cocaine and “50 grams or more” of cocaine 
+
+
+14 At sentencing, respondents challenged the determination in their 
+PSRs that they we. responsible for 1.5 kilograms or more of cocaine base 
+and therefore should be assigned a base offense level of 38 under the 
+Sentencing Guidelines. They did not, however, dispute that their con- 
+spiracy involved at least 50 grams of cocaine base, the threshold amount 
+that triggers a sentence of up to life imprisonment under 21 U.S.C. 
+
+
+841(b)(1)(A). 
+
+
+46 
+
+
+base. J.A. 48. The superseding indictment (filed March 19, 
+1998) did not repeat those allegations with respect to 
+threshold drug quantity, alleging instead a conspiracy in- 
+volving “a detectable amount” of each controlled substance. 
+J.A. 59. But there is no reason to suppose that the grand 
+jury meant to retract its earlier findings (which, under the 
+prevailing view of the law, were not required in an indict- 
+ment). The superseding indictment extended the duration of 
+the conspiracy by seven months (for a total of 22 months) 
+and added five defendants (for a total of 14 defendants). The 
+superseding indictment alleged, for example, that the 
+activities of the conspiracy included the street-level distri- 
+bution of cocaine at an intersection in Baltimore “twenty- 
+four hours per day, seven days a week.” J.A. 62. The 
+superseding indictment also alleged, among other things, 
+that one defendant “transported kilogram quantities of 
+cocaine from New York to Baltimore at the direction of 
+Stanley Hall, Jr.,” the leader of the organization; that 
+another defendant “took delivery of kilogram quantities of 
+cocaine for the organization”; and that three defendants 
+“obtained multi-ounce quantities of cocaine” from the 
+organization for distribution. J.A. 60-61. The superseding 
+indictment alleged that the conspirators used at least 11 
+different residences, vacant houses, and other such locations 
+“to stash and secrete their drugs, drug proceeds, firearms, 
+and other drug paraphernalia.” J.A. 61. It is clear from 
+those allegations that the grand jury, if asked, would have 
+included in the superseding indictment an allegation that the 
+conspiracy involved at least 5 kilograms (about 11 pounds) of 
+cocaine and at least 50 grams (less than 2 ounces) of cocaine 
+base. 
+
+2. Respondents were on ample notice that, if they were 
+convicted of the conspiracy offense, the quantity of drugs 
+involved in the conspiracy would be critical to determining 
+their sentences. 
+
+
+47 
+
+
+Like other defendants who were indicted before Ap- 
+prendi, respondents were on notice that, under the pre- 
+vailing practice uniformly approved by the courts of appeals, 
+drug quantity need not be alleged in the indictment (or 
+proved to the petit jury at trial beyond a reasonable doubt) 
+in order to authorize an increase in the statutory maximum 
+sentence. See pp. 15, 24 supra. Accordingly, respondents 
+cannot plausibly claim to have been misled by the omission of 
+a drug quantity allegation from the superseding indictment 
+into believing that the government would limit its proof to 
+establishing a quantity of drugs sufficient only to authorize a 
+sentence under the default statutory provision (in this case, 
+21 U.S.C. 841(b)(1)(C)) or that their sentences would be 
+limited to the penalty corresponding to that quantity. 
+
+In this case, moreover, respondents had specific notice 
+from the original indictment that the grand jury had found 
+that the conspiracy involved at least 5 kilograms of cocaine 
+and at least 50 grams of cocaine base, either of which 
+quantity is sufficient to authorize a maximum term of life 
+imprisonment under 21 U.S.C. 841(b)(1)(A). The super- 
+seding indictment, while not specifying those quantities, 
+charged respondents with participating in a multi-level 
+conspiracy, which extended over nearly two years, included 
+many individuals, and involved large amounts of drugs, 
+which were sold for large amounts of money. See Pet. App. 
+28a-29a (Wilkinson, C.J., concurring in part and dissenting in 
+part) (observing that it is “difficult to believe that 
+[respondents] lacked notice that the faced [Section 841(b)’s] 
+strictest penalties”). 
+
+3. A reviewing court can therefore confidently conclude 
+both (1) that any rational grand jury would have found that 
+respondents’ conspiracy involved at least 50 grams of cocaine 
+base and (2) that respondents were on notice that the 
+quantity of cocaine base involved in the offense would affect 
+their sentences upon conviction. Consequently, respondents’ 
+
+
+48 
+
+
+substantial rights were not affected by the absence of a 
+grand jury determination on drug quantity in the super- 
+seding indictment. 
+B. The Error Did Not Seriously Affect The Fairness, 
+Integrity, Or Public Reputation Of Judicial Pro- 
+
+
+ceedings 
+
+
+Even if this Court were to conclude that the error did 
+affect respondents’ substantial rights, the Court should not 
+exercise its discretion to correct that error. For several 
+reasons, the error does not “seriously affect[] the fairness, 
+integrity, or public reputation of judicial proceedings.” John- 
+son, 520 U.S. at 467. 
+
+First, as explained above, respondents would have re- 
+ceived the same sentences if they had been accorded the 
+right to an indictment alleging drug quantity. No serious 
+question exists that the grand jury would have found that 
+the conspiracy involved the requisite threshold amount of 
+cocaine base. Cf. Johnson, 520 U.S. at 470. 
+
+Second, when the indictment, trial, and sentencing oc- 
+curred in this case, the district court’s imposition of en- 
+hanced sentences under 21 U.S.C. 841(b) without an-allega- 
+tion of threshold drug quantity in the indictment was 
+consistent with long-standing practice that had been ap- 
+proved by every court of appeals that had considered the 
+question. Thousands of enhanced sentences were imposed 
+under that practice. Against that background, the imposi- 
+tion of enhanced sentences, although erroneous in hindsight, 
+is not so “egregious,” see United States v. Young, 470 U.S. 1, 
+15 (1985), as to threaten the fairness, integrity, or public 
+reputation of judicial proceedings. See Pet. App. 29a-30a 
+(Wilkinson, C.J., concurring in part and dissenting in part) 
+(“It is one thing to vacate a conviction or sentence where the 
+prosecutor failed to indict in accordance with the current 
+state of the law. It is quite another thing to vacate a con- 
+viction or sentence based on an indictment that was entirely 
+
+
+49 
+
+
+proper at the time.”) (quoting United States v. Mojica-Baez, 
+229 F.3d 292, 310 (Ist Cir. 2000), cert. denied, 121 S. Ct. 2215 
+(2001)). 
+
+Finally, as in Johnson, it is reversal, rather than affir- 
+mance, of respondents’ sentences that could pose such a 
+threat. Congress designed the graduated penalties in 21 
+U.S.C. 841(b) to ensure that more serious drug offenders 
+would receive more severe punishments. Congress’s pur- 
+pose is undermined where the kingpin of a cocaine con- 
+spiracy, such as respondent Stanley Hall, Jr., is subject to 
+the same statutory maximum sentence as any street-level 
+cocaine dealer, simply because the grand jury was not asked 
+to find a fact, threshold drug quantity, that it surely would 
+have found if asked to do so. A categorical rule that all such 
+defendants must be resentenced under the default provision 
+of 21 U.S.C. 841(b)(1)(C) creates an appearance of unfairness 
+by ignoring gradations in culpability among drug offenders. 
+And it risks bringing disrespect on the judicial system to 
+allow the most culpable defendants to avoid the enhanced 
+sentence that Congress deemed appropriate, rio matter how 
+overwhelming the evidence establishing threshold drug 
+quantity or other facts triggering such a sentence. As Judge 
+Wilkinson wrote in dissent, it would be a “miscarriage of 
+justice” to “disregard Congress’s clear intent” that “kingpins 
+are punished more vigorously than petty dealers” when 
+“there is no question at all that the defendants here distri- 
+buted the requisite drug amounts under 21 U.S.C. § 841(b) to 
+merit the sentences.” Pet. App. 33a-35a; cf. Johnson, 520 
+
+
+US. at 470. 
+
+
+50 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be reversed. 
+Respectfully submitted. 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+
+
+MICHAEL CHERTOFF 
+Assistant Attorney General 
+
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+
+
+FEBRUARY 2002 . 
+
+

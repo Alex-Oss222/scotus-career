@@ -1,0 +1,62 @@
+[
+  {
+    "file": "festo_petition_full.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+    "bytes": 61097,
+    "sha256": "4fe1abddcfc85825b50c88cf9022ffe3a9da4ffa11f5b93acf530c3f60dcf7cd"
+  },
+  {
+    "file": "festo_petition_full.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+    "bytes": 6521045,
+    "sha256": "3aef1638a8172678479c1a79719d853e20bbbb8d0586ed028cafb7800a5adc52"
+  },
+  {
+    "file": "festo_joint_appendix_full.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2018.%20Joint%20Appendix_djvu.txt",
+    "bytes": 192296,
+    "sha256": "be0a188b8d0b9f80682591ddc929af58dd423ab27a60eacacb89812daec70754"
+  },
+  {
+    "file": "festo_joint_appendix_full.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2018.%20Joint%20Appendix.pdf",
+    "bytes": 20840725,
+    "sha256": "edf452af3050fbde2d96665f7d7cf1374be6f18cbcd5907fe68a897c86ff13da"
+  },
+  {
+    "file": "festo_petitioner_full.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2020.%20Petitioners%20Brief_djvu.txt",
+    "bytes": 100431,
+    "sha256": "f6d60221454966800909791738b4c83c646b3e94c5c9bca848bf8189bebf8f71"
+  },
+  {
+    "file": "festo_petitioner_full.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2020.%20Petitioners%20Brief.pdf",
+    "bytes": 11888501,
+    "sha256": "02cba202058ef2cd740fe98b45cd980232440cd481d9f44dcd982027e128ac07"
+  },
+  {
+    "file": "festo_respondent_full.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2021.%20Respondents%20Brief_djvu.txt",
+    "bytes": 111066,
+    "sha256": "c8334c1887b84db0a673e60fb407cc4d79524d2f256c267416c211cb9ec08cd3"
+  },
+  {
+    "file": "festo_respondent_full.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2021.%20Respondents%20Brief.pdf",
+    "bytes": 11286153,
+    "sha256": "3ec9bd3c0499ad9a8a3afa8598084cff17ef09e4b5e224ce794cd2122b6fe078"
+  },
+  {
+    "file": "festo_reply_full.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2022.%20Reply%20Brief_djvu.txt",
+    "bytes": 37287,
+    "sha256": "b58e5048e2ce848c747586ed89a266369cfeb0546867abc72c18413fbebb9d12"
+  },
+  {
+    "file": "festo_reply_full.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2022.%20Reply%20Brief.pdf",
+    "bytes": 4247094,
+    "sha256": "43080e6bb5b5bd6784c401faca8e331b0f8d3eb8a8169b34d697c0dbc3388823"
+  }
+]

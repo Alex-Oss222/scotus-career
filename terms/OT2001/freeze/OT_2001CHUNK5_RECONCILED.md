@@ -1,0 +1,18 @@
+# OT2001 chunk 5: reconciled freeze index
+
+This generated index incorporates the identified frozen artifacts only at the scopes stated below. It adds no fact, vote, rationale or source finding. The scoped artifacts and their validations retain their original bytes and reading boundaries. Later specifically named refreshes govern their stated scope; earlier pending-status statements describe the time of those earlier receipts.
+
+The three effective-date groups use their own validated preceding-date law. Same-day assignment order creates no substantive legal priority. The current Run produced fifteen Records; repository verification and commitment remain with the operator.
+
+| Operative scope | Frozen artifact | SHA-256 | Validation |
+|---|---|---|---|
+| Matters 65–68 | [OT_2001CHUNK5_A_RECONCILED.md](../freeze/OT_2001CHUNK5_A_RECONCILED.md) | deafd42e6df0683002708cb6dac8344c7e9a1e56d7b2dee83259fd1a083b8d2e | [OT_2001CHUNK5_A_RECONCILIATION_VALIDATION.md](../freeze/OT_2001CHUNK5_A_RECONCILIATION_VALIDATION.md) |
+| Matters 69–73 | [OT_2001CHUNK5_B_RECONCILED.md](../freeze/OT_2001CHUNK5_B_RECONCILED.md) | df02b2d3ba7b29f4fd3ef37d19db40a50a5c73437c11ec72e2f078be846d9c35 | [OT_2001CHUNK5_B_RECONCILIATION_VALIDATION.md](../freeze/OT_2001CHUNK5_B_RECONCILIATION_VALIDATION.md) |
+| Matter 74 Bell | [OT_2001CHUNK5_C_BELL_RECONCILED.md](../freeze/OT_2001CHUNK5_C_BELL_RECONCILED.md) | ab41e664aaafcb56e9c9223574a7bac6a3a44aad1f2c05e6334cfd5a99e8fbfc | [OT_2001CHUNK5_C_BELL_RECONCILED_VALIDATION.md](../freeze/OT_2001CHUNK5_C_BELL_RECONCILED_VALIDATION.md) |
+| Matter 75 original reconciliation; scope and departure statements subject to next row | [OT_2001CHUNK5_C_FESTO_RECONCILED.md](../freeze/OT_2001CHUNK5_C_FESTO_RECONCILED.md) | 006dbf15e31b4795c1bc7956659d49577e0e584ed719767e2af4d3fcf07444ae | [OT_2001CHUNK5_C_FESTO_RECONCILED_VALIDATION.md](../freeze/OT_2001CHUNK5_C_FESTO_RECONCILED_VALIDATION.md) |
+| Matter 75 final trigger and remand scope; supersedes the broader trigger return and withdrawn departure explanations | [OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT.md](../freeze/OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT.md) | 220592ac83d766b6bc762df6669d7e3d40d3f65039d03265674998aa17cce0e4 | [OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT_VALIDATION.md](../freeze/OT_2001CHUNK5_C_FESTO_RECONCILED_SUPPLEMENT_VALIDATION.md) |
+| Matters 76, 78 and 79 only | [OT_2001CHUNK5_C_PARTIAL_RECONCILED.md](../freeze/OT_2001CHUNK5_C_PARTIAL_RECONCILED.md) | c98cf474be2eae43e569f8ed441c8353b5fa64f973a07438b897f6717e69c0ec | [OT_2001CHUNK5_C_PARTIAL_RECONCILED_VALIDATION.md](../freeze/OT_2001CHUNK5_C_PARTIAL_RECONCILED_VALIDATION.md) |
+| Matter 77 FMC | [OT_2001CHUNK5_C_FMC_RECONCILED.md](../freeze/OT_2001CHUNK5_C_FMC_RECONCILED.md) | 07907dd0af4236c029d3c9d2358ad8bee0f7af8e82856e8d5945f5dfa478849d | [OT_2001CHUNK5_C_FMC_RECONCILED_VALIDATION.md](../freeze/OT_2001CHUNK5_C_FMC_RECONCILED_VALIDATION.md) |
+| Matter 78 formal mandate envelope only | [OT_2001CHUNK5_C_GISBRECHT_MANDATE_CLARIFICATION.md](../freeze/OT_2001CHUNK5_C_GISBRECHT_MANDATE_CLARIFICATION.md) | 70adcd5f70ad1eff06273721330febe430c52a7cddba858999c6d813f28490d3 | Contained in the artifact |
+
+The three-case partial handoff does not supply Festo; its pending Festo note is superseded by the separate Festo reconciliation and its final scope supplement above. The supplement withdraws the earlier unsupported broader-trigger remand and its eight departure explanations. The independent scope check is preserved in [the resolved QA](../tmp/C_FESTO_SCOPE_QA.md). Bell and FMC likewise have their own complete eight-Associate handoffs. Private positions entered only the later scoped assembly contexts.

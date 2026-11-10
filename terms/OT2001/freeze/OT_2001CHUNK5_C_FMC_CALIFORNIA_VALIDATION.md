@@ -1,0 +1,13 @@
+# FMC: California source validation
+
+**Gate:** Ready as a bounded neutral source supplement. This is not a current-case model or a validation of every final May 28 input.
+
+The validator read the entire saved fourteen-page official United States Reports text, including both writings and all footnotes. Printed pages 579 and 584-586 were visually checked against the saved PDF. The official PDF was independently opened at its public source. The supplement accurately separates statutory coverage and corrective regulatory power from an unadjudicated question about immunity from private compulsory agency proceedings.
+
+**Verified source:** [Official report](https://tile.loc.gov/storage-services/service/ll/usrep/usrep320/usrep320577/usrep320577.pdf). PDF SHA-256: `dfc022fc07aead0852a79706befc8fc7a3377c7903db7558c7ea0f2c1f4758f4`. Fourteen extracted page markers and the saved-source hash were checked. The complete text in the [supplement](OT_2001CHUNK5_C_FMC_CALIFORNIA_SUPPLEMENT.md) is an exact scripted copy of the saved extraction, verified by literal suffix comparison. OCR artifacts remain identified as extraction artifacts.
+
+**Boundary:** This fresh validation used AGENTS.md, the Engine's neutral/source rules and applicable issue-comparison requirements, the permitted FMC neutral entry and statutory-source introduction, the neutral-validation receipt, and the 1944 primary source. It did not consult a current FMC merits opinion, comparator, commitment, reconciliation, private position, decision record, or public render. No current Justice assessment or adjudication was produced.
+
+**Precise limits:** The published opinion does not identify the agency matter's original initiating instrument. Nor does it establish the complete universe of contentions in unreviewed briefs. Those are conditional research gaps only if a chosen argument needs them. The express holdings support public-terminal coverage and the particular corrective order without resolving a private-adjudication immunity claim. The preexisting statutory-version and complaint/conduct-date limits remain applicable to version-sensitive conclusions. This supplement neither resolves those limits nor converts them into an unconditional stop.
+
+**Readiness:** Send the supplement with the enacted statutory source and final effective-law handoff to independent modeling. Treat California as authority for its expressed 1916 Act holdings, not an implicit answer to the pending distinct immunity question. Original frozen handoffs were not edited. No law, completion status, or procedural premise was changed.

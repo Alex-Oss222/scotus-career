@@ -1,0 +1,8217 @@
+~ [es 
+‘1?) 
+
+
+L AUG 31 2001 
+
+
+No. 00-1543 OFFICE OF THE ULEKK 
+
+
+In The 
+Supreme Court of the United States 
+¢ 
+FESTO CORPORATION, 
+
+
+Petitioner, 
+
+
+SHOKETSU KINZOKU KOGYO KABUSHIKI CO., LTD., 
+a/k/a SMC CORPORATION and 
+SMC PNEUMATICS, INC., 
+
+
+Respondents. 
+
+
+¢ 
+
+
+On Writ Of Certiorari 
+
+To The United States Court Of Appeals 
+For The Federal Circuit 
+—_—_—__-— @ 
+
+
+JOINT APPENDIX 
+VOLUME I, PAGES I-1 TO 1-153 
+
+
++ 
+Rosert H. Bork ARTHUR I. NeustTapt 
+Counsel of Record Counsel of Record 
+Suite 1000 Cuartes L. GHoLz 
+
+
+1150 17th Street, N.W. Rosert T. Pous 
+
+Washington, D.C. 20036 Oston, Sprvak, MCCLELLAND, 
+(202) 862-5851 Maier & Neustapt, P.C. 
+1755 Jefferson Davis Highway 
+Arlington, Virginia 22202 
+(703) 413-3000 
+
+
+Counsel for Respondents 
+[Additional Counsel Listed On Inside Cover] 
+
+
+——————$$&&|a=a=aBnap]a]=CIoICIU===l"™"L™h™——=_=_—™"=——s™()]—====—=—=———_—e—~Ii_ie—_aananaananana 
+
+
+Petition For Certiorari Filed: April 9, 2001 
+Certiorari Granted: June 18, 2001 
+
+
+—SSESEEEEEEEleE=eES=nDBQQnnnnnlQllQq@NlNOONQNQSQ=SSQQ“Q>YOOWmaSan@aa = 
+
+
+Counsel for Petitioner 
+
+
+CuHar.es R. HorFMANN 
+GERALD T. BODNER 
+
+GLENN T. HENNEBERGER 
+ANTHONY E. BENNETT 
+HorrMANN & Baron, LLP 
+6900 Jericho Turnpike 
+Syosset, New York 11791 
+(516) 822-3550 
+
+
+ANpDreEw L. Frey 
+Donato M. FALk 
+
+Rosert L. BRONSTON 
+Mayer, Brown & PL Latt 
+1909 K Street, N.W. 
+Washington, D.C. 20006 
+(202) 263-3000 
+
+
+Counsel for Petitioner 
+
+
+James B. LAMPERT 
+
+HALE AND Dorr 
+
+60 State Street 
+
+Boston, Massachusetts 
+02109 
+
+(617) 526-6000 
+
+
+Counsel for Respondents 
+
+
+TABLE OF CONTENTS 
+
+
+VOLUME I 
+re ocbbccens I-1 
+
+
+Excerpt of Report of the Special Master Herbert F. 
+Schwartz, Esq. Pursuant to Rule 53(e)(1) 
+PE asidecdvetetessenscencecessccevcsceccees 1-40 
+
+
+Excerpt of Festo Corporation’s Objections to 
+Report of Special Master Herbert F. Schwartz, 
+
+
+Esq. Pursuant to Rule 53(e)(3) F.R.Civ.P........... I-53 
+Excerpt of Plaintiff Festo Corporation’s Pretrial 
+Memorandum Under L.R. 16.5.............00005. I-57 
+Excerpt of Defendant’s Exhibit 105, Plaintiff Festo 
+Corporation’s Trial Memorandum................ I-61 
+Excerpt of Plaintiff Festo Corporation's Trial Brief 
+PT thd eebeeeeneeececcessocssseccescoecees 1-64 
+Order of Hon. Judge Saris re: Pretrial Motions, 
+| EAPPPPTITITITTTITTT ELT TTT Te eee 1-66 
+Excerpt of Defendant SMC’s Exhibit 64, Festo 
+PS 6ececesovccccccesccccececccceccceceses 1-81 
+Defendant SMC’s Exhibit 66 Festo Document ...... 1-84 
+
+
+Transcripts of Jury Trial before Hon. Patti B. Saris: 
+
+
+Sy BS BP OD BD Die cccccccccccccccccccccccess 1-90 
+Day 3 pp. 67 to 74; 90 to 95; 110 to 111; 115 to 
+
+ERR EREEEEPOPTTTTTTETTTTTLT LETT TETE TTT 1-94 
+Day 4 pp. 20; 57 to 59; 61 to 62; 100 to 119..... 1-115 
+Day 6 pp. 52 to 54; 69 to 71.......... 6c cece eee 1-139 
+Day 7 pp. 76 to 77; and 87 to 88............... 1-145 
+
+
+Day 8 pp. 104; 119 to 120 .................20000- 1-150 
+
+
+NTS - Continued 
+TABLE OF CONTE —_ 
+VOLUME II 
+U.S. Patent No. 4,354,125 to Stoll (Plif. Ex. 15)...... II-1 
+
+
+File history of U.S. Patent No. 4,354,125 to Stoll - 
+(Plf. Ex. 14), including cited references.......-.-. - 
+
+
+Translation of German Patent Publication DE-OS 
+SD TD GO , cc cccccccccccecescocecesosococesecse 
+
+
+US. Patent No. 3,779,401 to Carroll (Pif. Ex. 17).... 0-121 
+
+
+U.S. Reexamination Certificate for B1 3,779,401 to — 
+Carroll (Plf. Ex. 19).........eee cece cere ee eeeees - 
+
+
+File History of U.S. Reexam to Carroll Patent 
+“(Plt Ex. 18), including cited references and 
+Translation of German Petty Patent 1982379... . II-133 
+
+
+Date 
+Aug 4 
+
+
+Sep 26 
+Sep 30 
+Oct 19 
+Nov 8 
+
+
+1989 
+Oct 2 
+
+
+I-1 
+
+
+RELEVANT DOCKET ENTRIES 
+United States District Court 
+
+
+N.R. 
+1 
+
+
+10 
+
+
+39 
+
+
+PROCEEDINGS 
+
+
+Complaint, FILED, S/I CFI LR10 
+18A 
+
+
+D’s ANSWER and COUNTER- 
+CLAIMS, FILED. cs 
+
+
+D’s Amended ANSWER and coun- 
+ter claims, FILED. cs 
+
+
+P’s demand for trial by jury, FILED. 
+cs 
+
+
+P Festo Corporation’s Reply to D’s 
+Counterclaims, FILED. cs 
+
+
+MAZZONE, D.]J., Memorandum 
+and Order, entered. Since Festo KG 
+did not take any action itself to 
+establish minimum contacts in Mas- 
+sachusetts and none of Festo US's 
+activities can be deemed as per- 
+formed for Festo KG, I find that the 
+criteria of the Massachusetts long- 
+arm statute are not satisfied. 
+Accordingly, the motion of Festo 
+KG to dismiss is allowed. cc/cl 
+
+
+Amended Complaint, Filed. 
+
+
+Pitf Reply to Dfts Cntrol in Dft’s 
+Response to Pitf’s Amended Com- 
+plaint filed cs 
+
+
+Pitf Demand a Trial by Jury on all 
+issues, filed c/s. 
+
+
+1-2 
+
+
+U.S. District Court - Massachusetts (Boston) 
+1/31/92 95 
+
+
+2/21/92 
+
+
+2/26/92 
+
+
+2/28/92 
+
+
+2/28/92 
+
+
+3/20/92 
+
+
+99 
+
+
+104 
+
+
+138 
+
+
+117 
+
+
+Trial briefs by Festo Corp. (mcm) 
+[1:88cv1814] 
+
+
+Trial briefs by Smc Pneumatics, Inc. 
+filed cs. (dlw) [1:88cv1814] 
+
+
+Motion by Shoketsu Kinzoku Kog, Smc 
+Pneumatics, Inc. for summary judgment 
+mtn for stoll patent invalidity filed cs. 
+(mcm) [1:88cv1814] 
+
+
+Status conference held Re; schedule for 
+trial. D’s reply trial Doc. filed in court 
+under seal. Based on its review of the 
+[trial] documents, the court has con- 
+cluded that this case is inappropriate 
+for trial to jury. The parties have ruled 
+out settlement. Accordingly, the parties 
+may elect on[e] of two options: 1. agree 
+to a Special Master, or submit 3 names 
+each an the court will select; 2. Show 
+cause why a rule 706 expert should not 
+be appointed. The parties have 20 days 
+to report to the clerk their decision. 
+(sad) [Entry date 04/08/92] 
+[1:88cv 1814] 
+
+
+Judge A. D. Mazzone. Clerk’s Notes:, 
+Trial is hereby conce[aJled. Ruling on all 
+pending motions deferred pending 
+appointment of special Master or Rule 
+706 Expert. . . . terminated deadlines 
+(sad) [Entry date 04/08/92] 
+[1:88cv1814] 
+
+
+Motion by Shoketu Kinzoku Kog, Smc 
+Pneumatics, Inc. for summary judgment 
+of non-infringement of the stoll patent 
+
+
+3/20/92 
+
+
+3/20/92 
+
+
+3/24/92 
+
+
+5/1/92 
+
+
+5/7/92 
+
+
+118 
+
+
+119 
+
+
+122 
+
+
+149 
+
+
+1-3 
+
+
+filed cs. (mcm) [Entry date 03/23/92] 
+[1:88cv1814] 
+
+
+Memorandum by Shoketsu Kinzoku 
+Kog, Smc Pneumatics, Inc. in support of 
+[117-1] motion for summary judgment 
+of non-infringement of the stoll patent 
+(mem) [Entry date 03/23/92] 
+[1:88cv1814] 
+
+
+Statement of Facts by Shoketsu Kinzoku 
+Kog, Smc Pneumatics, Inc. Re: [117-1] 
+motion for summary judgment of non- 
+infringement of the stoll patent (mcm) 
+[Entry date 03/23/92] [1:88cv1814] 
+
+
+Motion by Shoketsu Kinzoku Kog, Smc 
+Pneumatics, Inc. for summary judgment 
+of non-infring of the stoll and carroll 
+patents by the one seal SMC Rodless 
+Cylinder filed cs. (req for oral argu- 
+ment) (mcm) [1:88cv1814] 
+
+
+EMERGENCY/Motion by Festo Corp. 
+to strike [122-1] motion for summary 
+judgment of non-infring of the stoll and 
+carroll patents by the one seal SMC 
+Rodless Cylinder, [117-1] motion for 
+summary judgmnt of non-infringement 
+of the stoll patent, [104-1] motion for 
+summary judgment mtn for stoll patent 
+invalidity filed cs. REQ FOR ORAL 
+ARGUMENT (mcm) [Entry date 
+05/06/92] [1:88cv1814] 
+
+
+Response by Festo Corp. in opposition 
+to [117-1] motion for summary judg- 
+ment of non-infringement of the stoll 
+patent (mcm) [Entry date 05/14/92] 
+[1:88cv 1814] 
+
+
+5/21/92 
+
+
+5/21/92 
+
+
+7/8/92 
+
+
+8/13/92 
+
+
+4/27/93 
+
+
+5/11/93 
+
+
+166 
+
+
+170 
+
+
+172 
+
+
+176 
+
+
+178 
+
+
+1-4 
+
+
+Judge A. D. Mazzone. Order referring 
+case to Herbert F. Schwartz as special 
+master for the purpose of considering 
+all claims presented in this case by the 
+parties and for such other matter as 
+may be referred to the Master by the 
+Court such as discovery disputes. 
+(mem) [Entry date 06/02/92] 
+[1:88cv 1814] 
+
+
+Judge A. D. Mazzone. Order of refer- 
+ence entered for Alternative Dispute 
+Resolution. Referred to: Herbert Schwa- 
+rtz for: alternative dispute (mcm) [Entry 
+date 01/24/95] [1:88cv1814] 
+
+
+Ltr from Special Master H. Schwartz re: 
+confirming ctrm 1110 for hearings on 
+the following dates: September 14-18, 
+1992, September 21-15, 1992 and Octo- 
+ber 19-23, 1992. Arrangements for a 
+court reporter will be made by Mr. 
+Hoffman and Mr. Neustadt. (mcm) 
+[1:88cv1814] 
+
+
+Order of Special Master Herbert F. 
+Schwartz Entered (sad) [Entry date 
+08/24/92] [1:88cv1814] 
+
+
+Report of the Special Master Herbert F. 
+Schwartz, Esq., Pursuant To Rule 
+53(e)(1) F.R.Civ.P., filed. (see file dkt 
+#176 for further details) (mcm) 
+[1:88cv1814] 
+
+
+Motion by Shoketsu Kinzoku Kog, Smc 
+Pneumatics, Inc. for entry of summary 
+judgment and direct verdict of Non- 
+Infringement of the stoll patent FILED 
+c.s. (jmr) [1:88cv1814] 
+
+
+5/18/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+6/9/93 
+
+
+184 
+
+
+185 
+
+
+186 
+
+
+187 
+
+
+191 
+
+
+194 
+
+
+198 
+
+
+202 
+
+
+1-5 
+
+
+Judge A. D. Mazzone. Order, Objections 
+or motions with supporting memoranda 
+for confirmation of Special Master's 
+Report shall be filed and served by 
+6/9/93. Entered cc/cl (sad) [Entry date 
+06/08/93] [1:88cv1814] 
+
+
+Motion by Festo Corp. to vacate or 
+modify those portions of the Report of 
+the SM in accord w/pltf objection filed 
+and to confirm the remaining portions 
+of the report filed cs. (mcm) 
+[1:88cv1814] 
+
+
+Response by Festo Corp. in opposition 
+to the Report of the Special Master, pur- 
+suant to Rule 53(e)(3), FR Civ P, filed cs. 
+(mem) [1:88cv1814] 
+
+
+Motion by Festo Corp. for summary 
+judgment of validity and a directed ver- 
+dict of the reexamined Carroll Patent 
+filed cs. (mcm) [1:88cv1814] 
+
+
+Motion by Festo Corp. for summary 
+judgment and or a directed verdict of 
+infringement of the reexamined Carroll 
+Patent filed cs. (mcm) [1:88cv1814] 
+
+
+Motion by Festo Corp. for summary 
+judgment and a directed verdict of 
+VALIDITY OF THE STOLL PATENT 
+filed cs. (mcm) [1:88cv1814] 
+
+
+Motion by Festo Corp. for summary 
+judgment and directed verdict of 
+INFRINGEMENT OF THE STOLL PAT- 
+ENT filed cs. (mcm) [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to the May 18, 1993 ORDER 
+
+
+6/30/93 
+
+
+1/25/94 
+
+
+2/3/94 
+
+
+2/3/94 
+
+
+205 
+
+
+209 
+
+
+1-6 
+
+
+CONCERNING THE SPECIAL MAS- 
+TER’S REPORT, filed cs. (mcm) 
+[1:88cv1814] 
+
+
+Response by Smc Pneumatics, Inc. in 
+opposition to [198-1] (4) motions for 
+summary judgment and directed ver- 
+dict of INFRINGEMENT OF THE 
+STOLL PATENT (mcm) [Entry date 
+07/07/93] [1:88cv1814] 
+
+
+Case reassigned from Judge Mazzone to 
+Judge Patti B. Saris upon appointment 
+to the bench. Notice (1/18/94) sent to 
+counsel. (mcm) [1:88cv1814] 
+
+
+Judge Patti B. Saris. Clerk’s Notes: hear- 
+ing on pending motions for SJ. Parties 
+to consider trial by jury on liability, and 
+to court on damages. Special Masters 
+report will be redacted and submitted 
+to the jury. Pltfs physics expert will be 
+allowed; dft can depose physics expert. 
+NOTED that Miamoto patent was not 
+addressed in SM trial, but is the sub- 
+stance of SMC’s counterclaim. Trial will 
+be limited to one week per side. FPTC 
+set for 5/6/94. Jury trial set for 
+5/16/94, 10-15 days. Settlement cnf 
+held off the record. Parties to report to 
+cleck by 2/11/94 re: status of settlement 
+and if they want settlement cnf w/prin- 
+cipals scheduled w/Sr. Judge Mazzone. 
+Further briefing order to issue. (mcm) 
+[Entry date 02/25/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+denying [178-1] motion for entry of 
+summary judgment and direct verdict 
+of Non-Infringement of the stoll patent 
+
+
+CRS ee ame - 
+
+
+net cr A a eee 
+
+
+2/3/94 - 
+
+
+2/3/94 - 
+
+
+2/18/94 208 
+
+
+1-7 
+
+
+(mem) [Entry date 02/25/94] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+denying [194-1] motion for summary 
+judgment and a directed verdict of 
+VALIDITY OF THE STOLL PATENT 
+(mem) [Entry date 02/25/94] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+denying [198-1] motion for summary 
+judgment and directed verdict of 
+INFRINGEMENT OF THE STOLL PAT- 
+ENT (mcm) [Entry date 02/25/94] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Procedural Order, 
+set settlement conference before Judge 
+A. D. Mazzone for 10:00 3/16/94, set 
+pretrial conference for 2:00 5/6/94 
+before Judge Patti B. Saris. For the rea- 
+sons stated in court on 2/3/94, the par- 
+ties mtns for s.j dkt 
+#104,117,122,178,194 and 198 are 
+DENIED. The parties mtns for s/j dkt # 
+122 and 187 are DENIED. Ruling is 
+DEFERRED on the pltfs mtn for mtn for 
+s/j and directed verdict of infringement 
+on the reexamined Carroll patent dkt 
+#191 pending receipt of supp briefing. 
+by 2/25/94, the parties shall file supp 
+memo on the following issues: new case 
+on doctrine of equivalents (Carroll pat- 
+ent); literal infringement (Carroll pat- 
+ent); any other issues raised. Any 
+responses to the above submissions 
+shall be filed no later than March 4, 
+1994. (see file dkt #208 for further 
+
+
+2/25/94 
+
+
+2/25/94 
+
+
+2/25/94 
+
+
+3/4/94 
+
+
+3/4/94 
+
+
+3/4/94 
+
+
+3/14/94 
+
+
+210 
+
+
+211 
+
+
+212 
+
+
+213 
+
+
+214 
+
+
+216 
+
+
+215 
+
+
+1-8 
+
+
+details) (mcm) [Entry date 02/25/94] 
+[1:88cv1814] 
+
+
+Pitf Festo Corp., Supplemental Mem- 
+orandum Re: New case law on the Doc- 
+trine of Equivalents with respect to the 
+Carroll Patent, filed cs. (mcm) [Entry 
+date 02/28/94] [1:88cv1814] 
+
+
+SMC’S Memo concerning the absence of 
+literal infringement of the Carroll Pat- 
+ent, filed. (mcm) [Entry date 02/28/94] 
+[1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. for 
+consideration of Special Master’s rec- 
+ommendation filed cs. (mcm) [Entry 
+date 02/28/94] [1:88cv1814] 
+
+
+Response by Festo Corp. to [212-1] 
+motion for consideration of Special 
+Master’s recommendation, FILED. (c/s) 
+(cmg) [Entry date 03/14/94] 
+[1:88cv1814] 
+
+
+Response by Festo Corp. to SMC’s 
+Memorandum Concerning the Absence 
+of Literal Infringement of the Carroll 
+Patent, FILED. (c/s) (cmg) [Entry date 
+03/14/94] [1:88cv1814] 
+
+
+Response of SMC’s to Festo’s supple- 
+mental memo regarding new case law 
+on the doctrine of equivalents, filed cs. 
+(mem) [Entry date 03/16/94] 
+[1:88cv1814] 
+
+
+Transcript of proceedings for motion 
+hearing held on 2/4/94 before Judge: 
+Saris (mcm) [1:88cv1814] 
+
+
+3/30/94 - 
+
+
+5/3/94 220 
+
+
+5/10/94 222 
+
+
+1-9 
+
+
+DFTS SUPPLEMENTAL Memorandum 
+by Smc Pneumatics, Inc. in support of 
+[178-1] motion for entry of summary 
+judgment and direct verdict of Non- 
+Infringement of the stoil patent (mcm) 
+[Entry date 04/04/94] [1:88cv1814] 
+
+
+Fretrial memorandum by Festo Corp., 
+filed. (mcm) [Entry date 05/04/94] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Clerk’s Notes: re: 
+FINAL PRETRIAL CONFERENCE 
+HELD, Trial date continued . . . set Jury 
+trial for 5/31/94 Plaintiff h/f/updated 
+trial document; dft will stand on previ- 
+ously-filed trial document. No motions 
+in limine f. Trial to proceed w/o bifur- 
+cation. Counsel anticipate 10-15 trial 
+days, incl. damages and break for lia- 
+bility deliberations (plaintiff‘s case 
+infringement; dft’s case invalaidity) 
+Order of presentation: plaintiff’s case 
+first, dft’s second. Counterclaim on 
+Miamoto patent is waived except for 
+attys. fees issue. Jury to decide willful- 
+ness; Court to decide attys fees. Submis- 
+sion of MASTER’S REPORT (issue 
+briefed earlier by pltf): Counsel w/h/ 
+t/stip to fact findings in SM’s report: 
+redact rest. SM REPORT t/b/given to 
+jury to read, but not keep. Witnesses 
+w/n/b permitted to comment on SM 
+REPORT. TEN JURORS t/b/empaneled; 
+all will deliberate. FIVE PEREMPTORY 
+CHALLENGES PER SIDE. Local coun- 
+sel need not always be present. Motions 
+
+
+6/22/94 
+
+
+6/22/94 
+
+
+6/24/94 
+
+
+6/24/94 
+
+
+6/27/94 
+
+
+6/28/94 
+
+
+6/29/94 
+
+
+261 
+
+
+262 
+
+
+224 
+
+
+I-10 
+
+
+in limine, propsed jury interrogs., pro- 
+posed voir dire, jury instructions t/b/ 
+f/by 5/23/94 . . . Both sides to supp. 
+experts by 5/31/94. Parties anticipate 
+10-15 days of trial (1 for opening/clos- 
+ing statements, 4 for pltf’s liability case, 
+4 for dft’s, 2 days per side for dmgs, 
+plus break for deliberations on liability 
+phase). (Court will hold parties to this 
+schedule. (tmc) [Entry date 05/18/94] 
+[Edit date 06/22/94] [1:88cv1814] 
+
+
+Response by Festo Corp. in opposition 
+to Special Master Report of May 21, 
+1993, (DOCUMENT FILED UNDER 
+SEAL) filed. (scj) [Entry date 09/14/94] 
+[Edit date 09/14/94] [1:88cv1814] 
+
+
+Reply by Festo Corp. to response to the 
+May 18, 1993 Order concerning the Spe- 
+cial Master’s Report (DOCUMENT 
+FILED UNDER SEAL), filed. (scj) [Entry 
+date 09/14/94] [1:88cv1814] 
+
+
+Trial brief by Smc Pneumatics, Inc., 
+filed. (scj) [Entry date 06/27/94] 
+[1:88cv1814] 
+
+
+Jury instructions filed. (scj) [Entry date 
+06/27/94] [1:88cv1814] 
+
+
+Trial brief by Festo Corp., filed. (scj) 
+[Entry date 06/28/94] [1:88cv1814] 
+
+
+SMC’s further comment and objection 
+concerning the Special Master’s Report 
+(scj) [Entry date 06/29/94] [1:88cv1814] 
+
+
+Pre-trial conference held. (scj) [Entry 
+date 07/01/94] [1:88cv1814] 
+
+
+6/29/94 236 
+
+
+7/5/94 - 
+
+
+7/6/94 = 
+
+
+7/7/94 = 
+
+
+7/8/94 - 
+
+
+I-11 
+
+
+Judge Patti B. Saris. Clerk’s Notes: re: 
+Final Pretrial Conference [229-1] motion 
+in limine to exclude testimony and evi- 
+dence of Defendants SMC Corporation 
+and SMC Pneumatics, Inc. taken 
+under advisement Court Reporter: 
+Cloonan . . . Issues for trial... 1) 
+Carroll patent (validity) 2) Stoll patent 
+(validity) 3) Infringemenet on Carroll 
+patent granted to P by way of ST, opin- 
+ion to issue, SJ opinion to issue. SJ to 
+dfts on Bolt issued. For purposes of 
+trial, both dfts. w/b/ collectively 
+referred as SMC. Proposed voir dire 
+verdict form covered. Jury empanei- 
+ment: 10 jurors, 5 peremtories per side. 
+to dft on Bolt Issue. SJ (scj) [Entry date 
+07/01/94] [1:88cv1814] 
+
+
+Jury trial held. Day One (Empanelment) 
+opening statements given; adjourned at 
+1:15pm until 7/6/94; 9:00AM . . . (sad) 
+[Entry date 08/11/94] [1:88cv1814] 
+
+
+Jury trial held. Day Two: hearing held 
+RE:submission of Special Master’s 
+report to jury. adjourned until 7/7/94; 
+9:00AM. . . . (sad) [Entry date 08/11/94] 
+[1:88cv1814] 
+
+
+Jury trial heid. Day Three; lobby confer- 
+ence. adjourned until 7/8/94; at 
+9:00Am. (sad) [Entry date 08/11/94] 
+[1:88cv1814] 
+
+
+Jury trial held. Day Four . . . cross exam 
+continued redirect, no re cross. 
+adjourned to 7/11/94 9:00Am. . . . (sad) 
+[Entry date 08/11/94] [1:88cv1814] 
+
+
+7/11/94 242 
+
+
+7/11/94 
+
+
+7/12/94 
+
+
+7/13/94 
+
+
+7/13/94 
+
+
+243 
+
+
+244 
+
+
+I-12 
+
+
+Judge Patti B. Saris. Order entered 
+granting in part, denying in part [122-1] 
+motion for summary judgment of non- 
+infring of the stoll and carroll patents 
+by the one seal SMC Rodless Cylinder 
+granting as to the Carroll patent and 
+denying as to the Stoll patent, granting 
+[187-1] motion for summary judgment 
+of validity and a directed verdict of the 
+reexamined Carroll Patent, granting 
+[191-1] motion for summary judgment 
+and or a directed verdict of infringe- 
+ment of the reexamined Carroll Patent, 
+denying [104-1] motion for summary 
+judgment mtn for stoll patent invalidity, 
+denying [117-1] motion for summary 
+judgment of non-infringement of the 
+stoll patent. cc/cl (scj) [Entry date 
+07/13/94] [1:88cv1814] 
+
+
+Jury trial held. Day Five; adjourned to 
+7/12/94 at 9:00AM. . . . (sad) [Entry 
+date 08/11/94] [1:88cv1814] 
+
+
+Jury trial held. Day Six; defendants 
+move for directed verdict; arguments on 
+defendant’s motion for directed ver- 
+dict/judgment as a matter of law. 
+Motion Denied for reasons stated in 
+court. adjourned until 9:00AM on 
+7/13/94. . . . (sad) [Entry date 
+08/11/94] [1:88cv1814] 
+
+
+SMC’s objections to propsed special 
+verdict form (scj) [Entry date 07/14/94] 
+[1:88cv1814] 
+
+
+SMC’s objections to proposed jury 
+instructions (scj) [Entry date 07/14/94] 
+[1:88cv1814] 
+
+
+7/13/94 
+
+
+7/14/94 
+
+
+7/14/94 
+
+
+7/14/94 
+
+
+7/15/94 
+
+
+7/18/94 
+
+
+7/18/94 
+
+
+245 
+
+
+246 
+
+
+1-13 
+
+
+Jury trial held. Day Seven. . . . plaintiff's 
+rebuttal case..adjourned to 7/14/94 at 
+9:00Am . . . (sad) [Entry date 08/11/94] 
+[1:88cv1814] 
+
+
+SMC’s Objections to Revised Jury 
+Instruction (scj) [Entry date 07/18/94] 
+[1:88cv1814] 
+
+
+Special Verdict Form as answered by 
+the Jury (scj) [Entry date 07/18/94] 
+[1:88cv 1814] 
+
+
+Jury trial held. Day Eight . . . Evidence 
+closed . . . closing arguments; jury 
+charge. . . . 4:00PM verdict returned; 
+motions for directed verdict; both 
+motions Denied. . . . (sad) [Entry date 
+08/11/94] [1:88cv1814] 
+
+
+Jury trial held. Day nine. . . . Conference 
+with counsel re-damages, no chance of 
+settlement. defendant will move for 
+mistrial based on brief delibera- 
+tions . . . (sad) [Entry date 08/11/94] 
+[1:88cv1814] 
+
+
+Jury trial held. Day 10... re; dam- 
+ages. . . . (sad) [Entry date 08/11/94] 
+[1:88cv 1814] 
+
+
+Status conference held. plaintiff advises 
+it will not pursue willful infringement 
+issue. defendant moves for mistrial 
+based on evidence and short delibera- 
+tions on liability phase. DENIED .. . 
+Juror injured in slip and fall on [stairs]. 
+recessed until 10:20am . . . opening 
+statements on damages phase. 
+adjourned until 7/19/94. . . . (sad) 
+[Entry date 08/25/94] [1:88cv1814] 
+
+
+7/18/94 
+
+
+7/19/94 
+
+
+7/20/94 
+
+
+7/20/94 
+
+
+7/21/94 
+
+
+7/26/94 
+
+
+9/8/94 
+
+
+252 
+
+
+248 
+
+
+247 
+
+
+253 
+
+
+I-14 
+
+
+Judge Patti B. Saris. Clerk’s Notes: re: 
+status conference Court Reporter: 
+Cloonan (sad) [Entry date 08/25/94] 
+[1:88cv 1814] 
+
+
+Jury trial held. Day 11. . . . defendant 
+opening statement. . . . court adjourned 
+at 1:00PM jury excused. . . . (sad) [Entry 
+date 08/11/94] [1:88cv1814] 
+
+
+SMC objections to proposed Speecial 
+verdict form and damage jury instruc- 
+tions filed (sad) [Entry date 08/02/94] 
+[1:88cv 1814] 
+
+
+Jury trial held. Day 11.. . jury excused; 
+charge conference. . . . (sad) [Entry date 
+08/11/94] [1:88cv1814] 
+
+
+Jury trial held. Day twelve; defendants’ 
+closing arguments . . . plaintiffs’ closing 
+argument..charged. . . . delebration 
+resume . . . questions to be filed... . 
+2:40pm verdict reached and returned 
+... jury dismissed. . . . plaintiff's to file 
+motion for permant injunction. 
+proposed judgment due by 
+8/19/94... (sad) [Entry date 08/11/94] 
+[1:88cv 1814] 
+
+
+Judge Patti B. Saris. Post-Trial Mem- 
+orandum, ENTERED, cc/cl. (ktb) [Entry 
+date 07/27/94) [1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. for 
+judgment on the pleadings with respect 
+to the Stoll Patent Non-Infrigement 
+(“sleeve made of a magnetizable mate- 
+rial”), filed. (scj) [Entry date 09/09/94] 
+[1:88cv 1814] 
+
+
+9/8/94 
+
+
+9/8/94 
+
+
+9/8/94 
+
+
+9/8/94 
+
+
+9/8/94 
+
+
+9/8/94 
+
+
+9/16/94 
+
+
+9/30/94 
+
+
+254 
+
+
+255 
+
+
+256 
+
+
+257 
+
+
+258 
+
+
+259 
+
+
+263 
+
+
+1-15 
+
+
+Motion by Smc Pneumatics, Inc. for 
+judgment on the pleadings with respect 
+to the Stoll Patent Non-Infringement 
+(“Two seal-one seal”), filed. (scj) [Entry 
+date 09/09/94] [1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. for 
+judgment on the pleadings with respect 
+to the Stoll Patent Invalidity (“Best 
+mode and obviousness”) and Carroll 
+Patent Invalidity (Obviousness), filed. 
+(scj) [Entry date 09/09/94] [1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. to alter 
+judgment on th{e] grounds that there 
+was no substantial evidence to support 
+the jury’s 100% lost profit damages of 
+$4,739,183.00, filed. (scj) [Entry date 
+09/09/94] [1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. for new 
+trial under the Alternative Rule 59, 
+filed. (scj) [Entry date 09/09/94] 
+[1:88cv1814] 
+
+
+SMC’s Brief concerning a stay pending 
+appeal of any injunction. filed (scj) 
+[Entry date 09/09/94] [1:88cv1814] 
+
+
+Response by Smc Pneumatics, Inc. in 
+opposition to prejudgement interest in 
+the amount of $416,727.00, filed. (scj) 
+[Entry date 09/09/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Notice of Hearing/ 
+conference: set for October 24, 1994 at 
+
+
+~ 3:00. (scj) [1:88cv1814] 
+
+
+Terminated document mooting [113-1] 
+motion in limine to exclude testimony 
+and evidence of dfts SMC Copr & SMC 
+
+
+10/13/94 266 
+
+
+10/14/94 272 
+
+
+1-16 
+
+
+Pneumatice & cntrclm pitf SMC Corpo 
+mooting [115-1] motion to ORDER 
+admitted pltfs admission request no 
+1-17 denying [144-1] motion to strike 
+[122-1] motion for summery judgment 
+of non-infring of the stoll and carroll 
+patents by the one seal SMC Rodless 
+Cylinder, [117-1] motion for summary 
+judgment of non-infringement of the 
+stoll patent, [104-1] motion for sum- 
+mary judgment mtn for stoll patent 
+invalidity mooting [148-1] motion to 
+stay all mtns and rsps pending denying 
+[185-1] motion to vacate or modify 
+those portions of the Report of the SM 
+in accord w/pltf objection filed and to 
+confirm the remaining portions of the 
+report mooting [212-1] motion for con- 
+sideration of Special Master’s recom- 
+mendation mooting [229-1] motion in 
+limine to exclude testimony and evi- 
+dence of Defendants SMC Corporation 
+and SMC Pneumatics, Inc. These 
+motions are moot; see trial transcript 
+and opinion dated 07/26/94. Requested 
+by dw. (dlw) [Entry date 10/17/94] 
+[1:88cv 1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [255-1] motion for judgment on 
+the pleadings with respect to the Stoll 
+Patent Invalidity (“Best mode and obvi- 
+ousness”) and Carroll Patent Invalidity 
+(Obviousness), filed. (scj) [Entry date 
+10/14/94) [1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [253-1] motion for judgment on 
+
+
+10/14/94 
+
+
+10/14/94 
+
+
+10/14/94 
+
+
+10/14/94 
+
+
+10/14/94 
+
+
+10/20/94 
+
+
+273 
+
+
+274 
+
+
+275 
+
+
+276 
+
+
+277 
+
+
+267 
+
+
+1-17 
+
+
+the pleadings with respect to the Stoll 
+Patent Non-Infringement (“sleeve made 
+of a magnetizable material”), filed. (scj) 
+[Entry date 10/31/94] [1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [257-1] motion for new trial 
+under the Alternative Rule 59, filed. 
+(scj) [Entry date 10/31/94] [1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to SMC’s Brief in Support of its 
+objection to prejudgmenet interest, 
+filed. (scj) [Entry date 10/31/94] 
+[1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [257-1] motion for new trial 
+under the Alternative Rule 59, filed. 
+(scj) [Entry date 10/31/94] [1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [258-1] remark, SMC’s Brief con- 
+cerning a stay pending appeal of any 
+injunction filed. (scj) [Entry date 
+10/31/94] [1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [254-1] motion for judgment on 
+the pleadings with respect to the Stoll 
+Patent Non-Infringement (“Two seal- 
+one seal”), filed. (scj) [Entry date 
+19/31/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to [253-1] motion for judgment 
+on the pleadings with respect to the 
+Stoll Patent Non-Infringement (“sleeve 
+made of a magnetizable material”), 
+filed. (scj) [Entry date 10/24/94] 
+[1:88cv 1814) 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+268 
+
+
+269 
+
+
+270 
+
+
+271 
+
+
+280 
+
+
+281 
+
+
+1-18 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to [257-1] motion for new trial 
+under the Alternative Rule 59, filed. 
+(scj) [Entry date 10/24/94] [1:18cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to [255-1] motion for judgment 
+on the pleadings with respect to the 
+Stoll Patent Invalidity (“Best mode and 
+obviousness”) and Carroll Patent 
+Invalidity (Obviousness), filed. (scj) 
+[Entry date 10/24/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+Festo’s response to SMC’s Brief in sup- 
+port of its Objection to prejudgement 
+interest, filed. (scj) [Entry date 
+10/24/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+Festo’s response to SMC’s Brief con- 
+cerning a stay pending appeal of any 
+injunction, filed. (scj) [Entry date 
+10/24/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to [254-1] motion for judgment 
+on the pleadings with respect to the 
+Stoll Patent Non-Infringement (“Two 
+seal-one seal”), filed. (scj) [Entry date 
+10/31/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+
+
+- response to [253-1] motion for judgment 
+
+
+on the pleadings with respect to the 
+Stoll Patent Non-Infrigement (“sleeve 
+made of a magnetizable material”), 
+filed. (scj) [Entry date 10/31/94] 
+[1:88cv 1814] 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/21/94 
+
+
+10/24/94 
+
+
+10/24/94 
+
+
+282 
+
+
+283 
+
+
+284 
+
+
+285 
+
+
+286 
+
+
+302 
+
+
+I-19 
+
+
+Memorandum by Smc Pneumatics, Inc. 
+in opposition to Festo’s Opposition to 
+SMC’s Brief in Support of it’s Mo|[tiJon 
+to Prejudgement Interest, filed. (scj) 
+[Entry date 10/31/94] [1:88cv1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+response to [255-1] motion for judgment 
+on the pleadings with respect to the 
+Stoll Patent Invalidity (“Best mode and 
+obviousness”) and Carroll Patent 
+Invalidity (Obviousness), filed. (scj) 
+[Entry date 10/31/94] [1:88cv1814] 
+
+
+Response by Smc Pneumatics, Inc. in 
+opposition to [274-1] opposition mem- 
+orandum, filed. (scj) [Entry date 
+10/31/94] [1:88cv1814] 
+
+
+Response by Smc Pneumatics, Inc. in 
+opposition to [273-1] opposition mem- 
+orandum, filed. (scj) [Entry date 
+10/31/94] [1:88c1814] 
+
+
+Reply by Smc Pneumatics, Inc. to 
+Festo’s response to SMC’s Rule 50 and 
+Rule 59 Motions concerning Festo’s 
+Asserted Lost Profits Damages, filed. 
+(scj) [Entry date 10/31/94] [1:88cv1814] 
+
+
+Motion hearing held-#296, #297-300, 
+#301 and #257 (scj) [Entry date 
+11/13/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Clerk’s Notes: re: 
+Post Trial Motions granting [296-1] 
+motion for leave to file response to 
+opposition, denying [297-1] motion for 
+judgment on the pleadings on the Stoll 
+Patent Non-Infringement (Sleeve made 
+of a magnetizable material, denying 
+
+
+10/26/94 - 
+
+
+10/26/94 - 
+
+
+10/26/94 - 
+
+
+I-20 
+
+
+[298-1] motion for judgment on the 
+pleadings on the Stoll Patent Non- 
+Infringement (Two Seal-One Seal), 
+denying [299-1] motion for judgment on 
+the pleadings on the Stoll Patent 
+Invalidity (Best Mode and Obviousness 
+and Carroll Patent Invalidity (Obvious- 
+ness), denying [300-1] motion for judg- 
+ment on the pleadings concerning 
+Festo’s asserted lost profit’ damages, 
+denying [301-1] motion for new trial, 
+denying [257-1] motion for new trial 
+under the Alternative Rule 59-Fees date 
+to stop as of last day of trial (7/21/94) 
+stay pending appeal w/b denied once 
+injunction enters. Order of injunctions 
+w/b stayed for 45 days. Any supple- 
+mental filings due 10/26/94 Court 
+Reporter: Marie Cloonan (scj) [Entry 
+date 11/13/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered denying [255-1] motion for 
+judgment on the pleadings with respect 
+to the Stoll Patent Invalidity (“Best 
+mode and obviousness”) and Carroll 
+Patent Invalidity (Obviousness). (scj) 
+[Entry date 10/27/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered denying [254-1] motion for 
+judgment on the pleadings with respect 
+to the Stoll Patent Non-Infringement 
+(“Two seal-one seal”). (scj) [Entry date 
+10/27/94] [1:88cv1814] 
+
+
+judge Patti B. Saris. Endorsed Order 
+entered denying [253-1] motion for 
+judgment on the pleadings with respect 
+
+
+10/26/94 - 
+
+
+10/26/94 - 
+
+
+10/27/94 - 
+
+
+10/27/94 290 
+
+
+I-21 
+
+
+to the Stoll Patent Non-Infri[n]gement 
+(“sleeve made of a magnetizable mate- 
+rial”). (scj) [Entry date 10/27/94] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered denying [256-1] motion to alter 
+judgment on th grounds that there was 
+no substantial evidence to support the 
+jury’s 100% lost profit damages of 
+$4,739,183.00. (scj) [Entry date 
+10/27/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered denying [255-1] motion for 
+judgment on the pleadings with respect 
+to the Stoll Patent Invalidity (“Best 
+mode and obviousness”) and Carroll 
+Patent Invalidity (Obviousness). (scj) 
+[Entry date 10/31/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris, by the Court, by 
+Deputy clerk Whitney. Endorsed Order 
+entered granting [249-1] motion for 
+entry of judgment. (SEE SEPARATE 
+JUDGEMENT ENTERED) (scj) [Entry 
+date 10/31/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Judgment entered 
+for Smc Pneumatics, Inc. against Festo 
+Corp. Principal: $4,322,456.00 , and Pre- 
+judgment interest in the amount of 
+$416,727.00. Each party is to bear its 
+own costs and attorneys’ fees. Judgme- 
+ment is hereby entered in favor of Plat- 
+iff Festo Corporation against 
+Defendants SMC Corporation and SMC 
+Pneumatics, Inc. and each of them on 
+the issues of liability and damages. (scj) 
+[Entry date 10/31/94] [1:88cv1814] 
+
+
+10/28/94 291 
+
+
+10/28/94 292 
+
+
+10/31/94 278 
+
+
+10/31/94 288 
+
+
+10/31/94 294 
+
+
+11/3/94 295 
+
+
+11/3/94 304 
+
+
+1-22 
+
+
+SMC’s Objections to Proposed Judge- 
+ment (scj) [Entry date 11/01/94} 
+[1:88cv1814] 
+
+
+Response by Festo Corp. in opposition 
+to proposed judgement. (attachment- 
+Irrevocable Standby Letter of Credit 
+Account Form of the Agahi Bank, Lim- 
+ited), filed. (scj) [Entry date 11/01/94] 
+[1:88cv1814] 
+
+
+Memorandum by Festo Corp. in opposi- 
+tion to [256-1] motion to alter judgment 
+on th grounds that there was no sub- 
+stantial evidence to support the jury’s 
+100% lost profit damages of 
+$4,739,183.00, filed. (scj) [1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. to 
+amend the judgement enterd by the 
+Court on October 28, 1994, filed. (scj) 
+[1:88cv1814] 
+
+
+Motion by Smc Pneumatics, Inc. to 
+amend [290-1] judgment order entered 
+on October 28, 1994, filed. (scj) [Entry 
+date 11/03/94] [1:88cv1814] 
+
+
+Response by Festo Corp. in opposition 
+to [288-1] motion to amend the judge- 
+ment enterd by the Court on October 
+28, 1994, filed. (scj) [Entry date 
+11/04/94] [1:88cv1814] 
+
+
+Response by Smc Pneumatics, Inc. in 
+opposition to [275-1] opposition mem- 
+orandum filed by Festo concerning 
+SMC’s Motion for Relief under Rule 
+59%e), filed. (scj) [Entry date 11/21/94] 
+[1:88cv1814] 
+
+
+11/9/94 
+
+
+11/9/94 
+
+
+11/9/94 
+
+
+11/9/94 
+
+
+11/9/94 
+
+
+297 
+
+
+298 
+
+
+299 
+
+
+300 
+
+
+301 
+
+
+11/10/94 - 
+
+
+I-23 
+
+
+Refiling (as suggested by the Court at 
+the October 24, 1994 hearing) of the 
+Motion by Smc Pneumatics, Inc. for 
+judgment on the pleadings on the Stoll 
+Patent Non-Infringment (Sleeve made 
+of a magnetizable material, filed. (scj) 
+[Entry date 11/10/94] [1:88cv1814] 
+
+
+Refiling (as suggested by the Court at 
+the October 24, 1994 hearing) of the 
+Rule 50 (b) Motion by Smc Pneumatics, 
+Inc. for judgment on the pleadings on 
+the Stoll Patent Non-Infringement (Two 
+Seal-One Seal), filed. (scj) [Entry date 
+11/10/94] [1:88cv1814] 
+
+
+Refiling (at the suggestion of the Court 
+at the October 24, 1994 hearing) of the 
+Rule 50(b) Motion by Smc Pneumatics, 
+Inc. for judgment on the pleadings on 
+the Stoll Patent Invalidity (Best Mode 
+and Obviousness and Carroll Patent 
+Invalidity (Obviousness), filed. (scj) 
+[Entry date =11/10/94] [1:88cv1814] 
+
+
+Refiling of the Rule 50 and Rule 59 
+Motion (at the suggestion of the Court 
+at the October 24, 1994 hearing) by Smc 
+Pneumatics, Inc. for judgment on the 
+pleadings concerning Festo’s asserted 
+lost profits damages, filed. (scj) [Entry 
+date 11/10/94] [1:88cv1814] 
+
+
+Refiling of Rule 59 Motion by Smc 
+Pneumatics, Inc. for new trial, filed. 
+(scj) [Entry date 11/10/94] [1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered denying [294-1] motion to 
+amend [290-1] judgment order entered 
+
+
+11/10/94 - 303 
+
+
+11/14/94 - 
+
+
+11/18/94 305 
+
+
+1-24 
+
+
+on October 28, 1994. SMC’s motion for a 
+stay of the execution upon the judgment 
+and for the substitution of a letter of 
+credit and agreement (exhibit A) 
+instead of a supercedeas bond is 
+allowed (scj) [Entry date 11/14/94] 
+[1:88cv1814] 
+
+
+Notice of appeal to Federal Circuit by 
+Smc Pneumatics, Inc. filed. Fee Status: 
+pd Fee Amount: $105.00 Receipt #: 
+264844 Appeal re: Appeal record due on 
+12/12/94 (mmh) [Entry date 11/16/94] 
+[1:88cv 1814] 
+
+
+Judge Patti B. Saris, by the Court, by 
+Deputy Clerk Whitney. Endorsed Order 
+entered denying [301-1] motion for new 
+trial, denying [300-1] motion for judg- 
+ment on the pleadings concerning 
+Festo’s asserted lost profits damages, 
+denying [299-1] motion for judgment on 
+the pleadings on the Stoll Patent 
+Invalidity (Best Mode and Obviousness 
+and Carroll Patent Invalidity (Obvious- 
+ness), denying [298-1] motion for judg- 
+ment on the pleadings on the Stoll 
+Patent Non-Infringement (Two Seal- 
+One Seal), denying [297-1] motion for 
+judgment on the pleadings on the Stoll 
+Patent Non-Infringment (Sleeve made 
+of a magnetizable material. (scj) [Entry 
+date 11/16/94] [1:88cv1814] 
+
+
+Amended Notice of appeal by Smc 
+Pneumatics, Inc. filed. Fee Status: 
+waived Fee Amount: $105.00: Appeal 
+record due on 12/19/94 (scj) [Entry 
+date 11/23/94] [1:88cv1814] 
+
+
+11/28/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+12/6/94 
+
+
+321 
+
+
+306 
+
+
+307 
+
+
+308 
+
+
+309 
+
+
+310 
+
+
+311 
+
+
+312 
+
+
+313 
+
+
+314 
+
+
+315 
+
+
+316 
+
+
+317 
+
+
+318 
+
+
+319 
+
+
+1-25 
+
+
+Notice of Docketing Appeal in the Fed- 
+eral Circuit Appeal No. 95-1079 (scj) 
+[Entry date 12/10/94] [1:88cv1814] 
+
+
+Transcript of proceedings for 6/29/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/5/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/6/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/7/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/8/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/11/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/12/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/13/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/14/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/18/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/19/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/20/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 7/21/94, 
+before Judge: Saris. (mmh) [1:88cv1814] 
+
+
+Transcript of proceedings for 10/24/94, 
+before Judge: Saris. (mmbh) [1:88cv1814] 
+
+
+12/6/94 320 
+
+
+12/6/94 
+
+
+12/8/94 322 
+
+
+1/5/95 
+
+
+12/14/95 - 
+
+
+12/14/95 324 
+
+
+4/2/96 
+
+
+326 
+
+
+1-26 
+
+
+Transcript of proceedings for 11/10/94, 
+before Judge: Saris. (mmh) [1:88cv1814} 
+
+
+Order (1) SMC’s motion for a stay, 
+pending appeal, is denied. (2) SMC’s 
+motion to file a reply is granted. 95-1066 
+(mmh) [Entry date 12/12/94] 
+[1:88cv1814] 
+
+
+Mandate of US Court of Appeals re: 
+[303-1] appeal dismissing [303-1] 
+appeal. Appeal Number 95-1079 (mmh) 
+[Entry date 12/12/94] [1:88cv1814] 
+
+
+Case closed. (dlw) [1:88cv1814] 
+
+
+Notice of Docketing Record on Appeal 
+from USCA re: received. USCA 
+NUMBER: 95-1066 Case from Federal 
+Circuit (mmh) [Entry date 12/18/95} 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Judgment entered 
+in the United States Court of Appeals 
+for the Federal Circuit affirming the 
+judgment entered by United States Dis- 
+trict Judge Patti B. Saris on October 31, 
+1994. (scj) [Entry date 01/17/96] 
+[1:88cv1814] 
+
+
+Judgment entered in the United States 
+Court of Appeals for the Federal Circuit 
+affirming the decision of the United 
+States District Court for the Diestrict of 
+Massachusetts entered on October 31, 
+1995 from Judge Patti B. Saris. Pre-Judg- 
+ment interest % (scj) [Entry date 
+04/16/96] [1:88cv1814] 
+
+
+8/1/96 340 
+
+
+8/12/96 - 
+
+
+12/22/00 347 
+
+
+DATE 
+
+
+1-27 
+
+
+Judge Patti B. Saris . Order entered . . . 
+Accordingly, the total damages due 
+Festo, including post-judgment interest 
+is $7,120,758 in accordance with the 
+Judgment of October 27, 1994, FILED. 
+(cc/cl) (emg) [Entry date 08/05/96] 
+[1:88cv1814] 
+
+
+Judge Patti B. Saris. Endorsed Order 
+entered granting [355-1] motion to stay 
+pending disposition by the Supreme 
+Court. Allowed on the condition that 
+the letter of credit is increased in value 
+to cover th amount FESTO seeks by 
+9/12/96; issued cc/cl. (sat) [Entry date 
+08/13/96] [1:88cv1814] 
+
+
+Mandate of US Court of Appeals for the 
+Federal Circuit re: reversing appeal 
+95-1066. (jr) [Edit date 01/03/01] 
+[1:88cv 1814] 
+
+
+FEDERAL CIRCUIT 
+PROCEEDINGS AND ORDERS 
+
+
+December 12, 1994 8 Received an amended notice of 
+
+
+Feb 2, 1995 
+
+
+appeal (filed on 11/18/94) and 
+certified list from the district 
+court. (bah) 
+
+
+BRIEF FOR THE APPELLANT, 
+filed. (MS-2/2/95) 
+
+
+Mar 14, 1995 
+
+
+Mar 31, 1995 
+
+
+Apr 7, 1995 
+
+
+April 14, 1995 
+
+
+December 14, 1995 
+
+
+March 6, 1996 
+
+
+I-28 
+
+
+BRIEF FOR THE APPELLEE, 
+filed. (MS-3/14/95) (cr) 
+
+
+REPLY BRIEF FOR THE 
+APPELLANT, filed. 
+(MS-3/31/95) (cr) 
+
+
+JOINT APPENDIX, Vols-I-II-III 
+12 copies each filed, Vol-III 
+(Confidential Nonconfidential 
+Vol-III 5 copies filed. 
+(MS-4/7/95) (cr) 
+
+
+SUPPLEMENTAL JOINT 
+APPENDIX, Vols-II-&-III 12 
+copies each field. (MS-4/14/95) 
+(cr) (Per fxg) 6/20/96. 
+
+
+AFFIRMED. “JUDGMENT 
+ENTERED” (P). (av) 72 F3d 857 
+
+
+APPELLANT - COMBINED 
+PETITION FOR REHEARING 
+AND SUGGESTION FOR 
+REHEARING IN BANC 
+(MS-01/03/96) FILED 01/03/96 
+PETITION CIRCULATED: 
+01/18/96 SUGGESTION CIR- 
+CULATED: 02/07/98 
+RESPONSE REQUESTED 
+FROM: APPELLEE (FESTO 
+CORP.) RESPONSE DUE: 
+02/23/96 RESPONSE FILED: 
+02/23/96 RESPONSE CIRCU- 
+LATED: 02/23/96 PETITION / 
+SUGGESTION: DENIED/ 
+DECLINED ON 03/06/96. 
+(EOD 03/06/96 BY SCH) 
+95-1065 
+
+
+April 17, 1997 
+
+
+June 9, 1997 
+
+
+June 2, 1997 
+
+
+June 9, 1997 
+
+
+July 25, 1997 
+
+
+29. 
+
+
+30. 
+
+
+31 
+
+
+1-29 
+
+
+PETITION FOR WRIT OF CER- 
+TIORARI FILED 03/26/96,, 
+SUPREME COURT : 95-1546, 
+CERT. GN ON 03/17/97. 30. 
+JUDGMENT: VAC.RMD ON 
+03/17/97. U.S.L.W.: 64-3669 
+(EOD 04/17/97 BY CS) 95-1066 
+
+
+APPELLANT - SUGGESTION 
+FOR HEARING IN BANC 
+(MS-04/04/97) FILED: 
+05/28/97 SUGGESTION CIR- 
+CULATED: 05/28/97 SUGGES- 
+TION: DECLINED ON 
+06/09/97. (EOD 06/09/97 BY 
+AV) 95-1066 
+
+
+[a] CERTIFIED COPY OF THE 
+U.S. SUPREME CT. JUDG- 
+MENT RECEIVED: 06/02/97 
+(EOD 06/02/97) (AV) 95-1066 
+
+
+ORDERED: APPELLANTS’ 
+SUGGESTION FOR REHEAR- 
+ING IN BANC HAVING BEEN 
+DECLINED, THE CASE IS 
+RETURNED TO THE PANEL. 
+THE MANDATE IS VACATED. 
+SUPPLEMENTAL BRIEFING 
+SCHEDULE SET OUT IN THIS 
+ORDER. BY: CLERK. 
+(CS-06/09/97) FILED: 
+06/09/97 (EOD 06/09/97) (AV) 
+95-1066 
+
+
+SMC CORP. ET AL. [APPEL- 
+LANTS] - UPON REMAND 
+FROM THE SUPREME COURT. 
+OPENING BRIEF OF DEFEN- 
+DANTS-APPELLANTS SMC 
+
+
+August 12, 1997 
+
+
+August 22, 1997 
+
+
+April 19, 1999 
+
+
+1-30 
+
+
+CORP., ET AL. (MS-07/07/97), 
+FILED: 07/07/97. [974282] 
+(EOD 07/25/97 BY SPP) 
+95-1066 
+
+
+FESTO CORPORATION 
+[APPELLEE] - ON REMAND 
+FROM THE UNITED STATES 
+SUPREME COURT, SUPPLE- 
+MENTAL BRIEF OF PLAIN- 
+TIFF-APPELLEE FESTO 
+CORPORATION 
+(MS-08/11/97). FILED: 
+08/11/97. Reete—33—Netice—of 
+Settiement-tssted. (sp) [974398] 
+(EOD 08/12/97 BY SPP) 
+95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - UPON REMAND 
+FROM THE SUPREME COURT 
+REPLY OF DEFENDANTS- 
+APPELLANTS SMC CORP., ET 
+AL. (MS-08/21/97). FILED: 
+08/21/97. [974488] (EOD 
+08/22/97 BY SPP) 95-1066 
+
+
+AFFIRMED IN PART, 
+VACATED IN PART, AND 
+REMANDED. PRECEDENTIAL 
+OPINION BY: J. NEWMAN. 
+JUDGMENT ENTERED: 
+04/19/99. COSTS AGAINST 
+EACH SIDE. (EOD 04/19/99 
+BY KSH) 95-1066 JUDGMENT 
+VACATED & OPINION OF CT. 
+WITHDRAWN BY CT. ORDER 
+ON 8/20/99. 
+
+
+August 20, 1999 
+
+
+August 20, 1999 
+
+
+October 20, 1999 
+
+
+November 30, 1999 44. 
+
+
+I-31 
+
+
+APPELLANT - COMBINED 
+PETITION FOR REHEARING 
+AND SUGGESTION FOR 
+REHEARING IN BANC 
+(MS-05/03/99) FILED: 
+05/03/99 PETITION CIRCU- 
+LATED: 05/03/99 SUGGES- 
+TION CIRCULATED: 05/13/99 
+RESPONSE REQUESTED 
+FROM: APPELLEE (FESTO 
+CORP.) RESPONSE DUE: 
+05/28/99 RESPONSE FILED: 
+05/28/99 RESPONSE CIRCU- 
+LATED: 05/28/99 PETITION / 
+SUGGESTION: DENIED/ 
+GRANTED ON 08/20/99. (EOD 
+08/20/99 BY AV) 95-1066 
+
+
+APPELLEE - PETITION FOR 
+REHEARING (MS-05/03/99) 
+FILED: 05/03/99 PETITION 
+CIRCULATED: 05/03/99 PETI- 
+TION: DENIED ON 08/20/99. 
+(EOD 08/20/99 BY AV) 95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - IN BANC OPENING 
+BRIEF OF DEFENDANTS- 
+APPELLANTS SMC CORP., ET 
+AL. (MS-10/19/99), FILED: 
+10/19/99. [001115] (EOD 
+10/20/99 BY SPP) 95-1066 
+
+
+PROCTER & GAMBLE - 
+MOTION OF THE PROCTER & 
+GAMBLE COMPANY FOR AN 
+EXTENSION OF TIME TO FILE 
+AN AMICUS BRIEF. 
+(FS-11/17/99) FILED; 
+
+
+November 19, 1999 45. 
+
+
+December 1, 1999 
+
+
+December 2, 1999 
+
+
+December 2, 1999 
+
+
+48. 
+
+
+I-32 
+
+
+11/17/99. REPLY 1 (46) FILED: 
+11/22/99. ACTION ON 
+MOTION 47): MOTION 
+GRANTED THE BRIEF IS DUE 
+12/15/99. BY CT- EN BANC. 
+FILED: 11/30/99, (EOD 
+11/30/99 BY AV) 95-1066 
+
+
+PROCTER & GAMBLE CO 
+(AMICUS) - NOTICE THAT 
+APPELLANT’S WILL NOT BE 
+FILING A RESPONSE IN 
+OPPOSITION TO THE 
+MOTION FOR EXTENSION OF 
+TIME TO FILE BRIEF. 
+(FS-11/18/99) RECEIVED: 
+11/18/99 (EOD 11/19/99) 
+(AMT) 95-1066 
+
+
+A.LP.L.A. [AMICUS] - BRIEF 
+FOR AMICUS CURIAE AMERI- 
+CAN INTELLECTUAL PROP- 
+ERTY LAW ASSOCIATION 
+(MS-11/29/99). FILED: 
+11/29/99. [001162] (EOD 
+12/01/99 BY AVV) 95-1066 
+
+
+FESTO CORPORATION 
+[APPELLEE] - EN BANC 
+RESPONSIVE BRIEF OF 
+PLAINTIFF-APPELLEE FESTO 
+CORPORATION 
+(MS-12/01/99). FILED 
+12/01/99. ENTRY OF APPEAR- 
+ANCE NOTICE ISSUED. 
+[001163] (EOD 12/02/99 BY 
+SPP) 95-1066 
+
+
+CERTIFICATE OF INTEREST 
+FOR THE AMICUS CURIAE, 
+
+
+December 2, 1999 
+
+
+December 2, 1999 
+
+
+December 2, 1999 
+
+
+December 2, 1999 
+
+
+49. 
+
+
+50. 
+
+
+51. 
+
+
+1-33 
+
+
+LITTON SYSTEMS INC. 
+(MS-12/01/99) FILED: 
+12/01/99. (EOD 12/02/99 BY 
+AMT) 95-1066 
+
+
+HEWLET PACKARD - 
+MOTION OF HEWLETT PACK- 
+ARD CO FOR LEAVE TO FILE 
+BRIEF AS AMICUS CURIAE IN 
+SUPPORT OF DEFENDANTS- 
+APPELLANTS. (FS-12/01/99) 
+FILED: 12/02/99. ACTION ON 
+MOTION (49); MOOT. LEAVE 
+OF COURT TO FILE AS 
+AMICUS IS NOT REQUIRED 
+IN THIS CASE. BY CLERK. 
+FILED: 12/02/99. (EOD 
+12/02/99 BY AMT) 95-1066 
+
+
+CERTIFICATE OF INTEREST 
+FOR THE AMICUS CURIAE, 
+HEWLETT-PACKARD CO. 
+(F-12/01/99) FILED: 12/02/99. 
+(EOD 12/02/99 BY AMT) 
+95-1066 
+
+
+CERTIFICATE OF INTEREST 
+FOR THE AMICUS CURIAE, 
+Procter & Gamble Co. 
+(MS-11/30/99) FILED: 
+12/01/99. (EOD 12/02/99 BY 
+AMT) 95-1066 
+
+
+LITTON SYSTEMS, INC. 
+[AMICUS] - EN BANC BRIEF 
+OF AMICUS CURIAE LITTON 
+SYSTEMS, INC. IN SUPPORT 
+OF AFFIRMANCE 
+(MS-12/01/99), filed: 12/01/99, 
+
+
+=— 
+
+
+December 2, 1999 
+
+
+December 2, 1999 
+
+
+December 3, 1999 
+
+
+December 3, 1999 
+
+
+1-34 
+
+
+[001163] (EOD 12/02/99 BY 
+SPP) 95-1066 
+
+
+THE BAR ASSOCIATION OF 
+THE DISTRICT OF COLUMBIA 
+[AMICUS] - AMICUS CURIAE 
+BRIEF OF THE PATENT. 
+TRADEMARK & COPYRIGHT 
+SECTION OF THE BAR ASSO- 
+CIATION OF THE DISTRICT 
+OF COLUMBIA IN SUPPORT 
+OF NEITHER PARTY 
+(MS$-12/01/99), FILED; 
+12/01/99. [001164] (EOD 
+12/02/99 BY SPP) 95-1066 
+
+
+THE PROCTER & GAMBLE 
+COMPANY [AMICUS] - BRIEF 
+FOR AMICUS CURIAE THE 
+PROCTOR & GAMBLE COM- 
+PANY SUPPORTING DEFEN- 
+DANTS-APPELLANTS'’ 
+POSITION FOR REVERSAL 
+(MS-11/30/99). FILED: 
+11/30/99, [001165] (EOD 
+12/02/99 BY SPP) 95-1066 
+
+
+HEWLETT-PACKARD COM- 
+PANY [AMICUS] - BRIEF OF 
+HEWLETT-PACKARD COM- 
+PANY AS AMICUS CURIAE IN 
+SUPPORT OF DEFENDANTS- 
+APPELLANTS (MS-12/01/99). 
+FILED: 12/01/99, [001166] 
+(EOD 12/03/99 BY SPP) 
+95-1066 
+
+
+IBM, EATMAN KODAK COM- 
+PANY AND FORD MOTOR 
+COMPANY [AMICUS] - BRIEF 
+
+
+December 6, 1999 
+
+
+December 9, 1999 
+
+
+I-35 
+
+
+FOR AMICI CURIAE INTER- 
+NATIONAL BUSINESS 
+MACHINES CORPORATION, 
+EASTMAN KODAK COM- 
+PANY AND FORD MOTOR 
+COMPANY (MS-12/01/99). 
+FILED: 12/01/99. [001166] 
+(EOD 12/03/99 BY SPP) 
+95-1066 
+
+
+THE HOUSTON INTELLEC- 
+TUAL PROPERTY LAW ASSO- 
+CIATION [AMICUS] - BRIEF 
+FOR AMICUS CURIAE OF THE 
+HOUSTON INTELLECTUAL 
+PROPERTY LAW ASSOCIA- 
+TION REQUESTING AFFIR- 
+MANCE IN SUPPORT OF 
+APPELLEE FESTO CORPORA- 
+TION (MS-12/01/99). 
+RECEIVED: 12/02/99, 
+REJECTED: 12/06/99, COR- 
+RECTED BRIEF DUE: 
+12/20/99, [001166] (EOD 
+12/06/99 BY SPP) 95-1066 
+
+
+THE HOUSTON INTELLEC- 
+TUAL PROPERTY LAW ASSO- 
+CIATION [AMICUS] - 
+CORRECTED BRIEF FOR 
+AMICUS CURIAE OF THE 
+HOUSTON INTELLECTUAL 
+PROPERTY LAW ASSOCIA- 
+TION REQUESTING AFFIR- 
+MANCE IN SUPPORT OF 
+APPELLEE FESTO CORPORA- 
+TION (MS-12/01/99), COR- 
+RECTED BRIEF RECEIVED: 
+
+
+December 28, 1999 
+
+
+December 28, 1999 
+
+
+December 28, 1999 
+
+
+January 6, 2000 
+
+
+1-36 
+
+
+12/08/99, FILED: 12/01/99. 
+[001166] (EOD 12/09/99 BY 
+SPP) 95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - IN BANC REPLY 
+BRIEF OF DEFENDANTS- 
+APPELLANTS SMC CORP., ET 
+AL. (MS-12/20/99). FILED: 
+12/20/99. [001186] (EOD 
+12/28/99 BY SPP) 95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - PURSUANT TO 
+LEAVE OF COURT, RESPONSE 
+OF DEFENDANTS-APPEL- 
+LANTS SMC CORP., ET AL. TO 
+BRIEFS SUBMITTED BY 
+AMICUS CURIAE 
+(MS-12/20/99). FILED: 
+12/20/99. [001186] (EOD 
+12/28/99 BY SPP) 95-1066 
+
+
+FESTO CORPORATION 
+[APPELLEE] - COMBINED 
+REPLY OF PLAINTIFF-APPEL- 
+LEE FESTO CORPORATION 
+TO THE BRIEFS OF AMICUS 
+CURIAE (MS-12/20/99). 
+FILED: 12/20/99. [001186] 
+(EOD 12/28/99 BY SPP) 
+95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - UPON REMAND 
+FROM THE SUPREME COURT, 
+JOINT SUPPLEMENTAL 
+APPENDIX (MS-08/27/97). 
+FILED: 12/30/99. [001193] 
+
+
+January 6, 2000 
+
+
+November 29, 2000 
+
+
+1-37 
+
+
+(EOD 01/06/00 BY SPP) 
+95-1066 
+
+
+SMC CORP., ET AL. [APPEL- 
+LANTS] - JOINT APPENDIX (3 
+VOLUME) (Volume III has con- 
+fidential and nonconfidential 
+versions) (MS-12/30/99). 
+FILED: 12/30 (sp) 29/99. 
+[001193] (EOD 01/06/00 BY 
+SPP) 95-1066 
+
+
+Reversed. Precedential Opinion 
+by J. Schall. in which Mayer, 
+Chief Judge, and Plager, Lourie, 
+Clevenger, Bryson, Gajarsa, and 
+Dyk, Circuit Judges, join; in 
+which Michel, Rader and Linn, 
+Circuit Judges, join with respect 
+TO Parts III-A, III-B, and III-D; 
+and in which Michel, Circuit 
+Judge joins with respect to Part 
+III-E. Concurring opinion by 
+Plager, Circuit Judge; concur- 
+ring opinion by Lourie, Circuit 
+Judge; Opinion concurring-part 
+and dissenting-in-part with 
+respect to Part III-C by Michel, 
+Circuit Judge, in which Rader, 
+Circuit Judge joins; Opinion 
+concurring-in-part and dissent- 
+ing-in-part with respect TO Part 
+IlI-C by Rader, Circuit Judge, in 
+which Michel and Linn, Circuit 
+Judges join; opinion concur- 
+ring-in-part and dissenting-in- 
+part with respect to Part III-C 
+by Linn, Circuit Judge, in which 
+
+
+February 23, 2001 
+
+
+March 22, 2001 
+
+
+May 8, 2001 
+
+
+June 19, 2001 
+
+
+65. 
+
+
+66. 
+
+
+1-38 
+
+
+Rader, Circuit Judge joins; opin- 
+ion concurring-in-part and dis- 
+senting-in-part with respect to 
+Parts III-A, III-B, IlI-C, and IV 
+by Newman, Circuit Judge. — 
+
+
+Judgment entered: 11/29/00. 
+Costs against each side. (eod by 
+ksh on 11/29/00) 95-1066 
+
+
+THE APPLICATION FOR EXT. 
+OF TIME TO FILE A WRIT OF 
+CERT HAS BEEN PRESENTED 
+TO THE CHIEF JUSTICE, WHO 
+ON 2/13/01, EXTENDED THE 
+TIME TO AND INCLUDING 
+MARCH 29, 2001. (cs-02/13/01) 
+RECEIVED: 02/23/01 (EOD 
+02/23/01) (BG) 95-1065 
+
+
+THE APPLICATION FOR AN 
+EXTENSION OF TIME WITHIN 
+WHICH TO FILE A CERT PETI- 
+TION HAS BEEN PRESENTED 
+TO THE CHIEF JUSTICE, WHO 
+ON 3/20/01, EXTENDED THE 
+TIME TO AND INCLUDING 
+4/9/01. (CS-03/20/01) 
+RECEIVED; 03/20/81 (EOD 
+03/22/01) (BG) 95-1066 
+
+
+PETITION FOR WRIT OF CER- 
+TIORARI FILED 04/09/01, 
+SUPREME COURT #: 00-1543. 
+(EOD 05/08/01 BY BG) 95-1066 
+
+
+PETITION FOR WRIT OF CER- 
+TIORARI FILED 04/09/01, 
+SUPREME COURT #: 00-1543, 
+CERT. GRANTED ON 
+
+
+1-39 
+
+
+06/18/01. (EOD 06/19/01 BY 
+BG) 95-1066 
+
+
+1-40 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and 
+Counterclaim Defendant, 
+
+
+V. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI CO 
+LTD., a/k/a SMC ; 
+CORPORATION and SMC 
+PNEUMATICS, INC. 
+
+
+Defendants and 
+Counterclaim Plaintiffs. 
+
+
+Civil Action No. 
+88-1814-MA 
+
+
+ee ee ee Nee? ee ee ee ee See See See ee Ce 
+
+
+REPORT OF SPECIAL MASTER 
+HERBERT F. SCHWARTZ, ESQ. 
+PURSUANT TO RULE 53(e)(1), F.R.Civ.P. 
+
+
+b. The Magnetizable Sleeve 
+
+
+Festo asserts that the SMC driven member’s non- 
+magnetizable sleeve is an equivalent of the magnetizable 
+sleeve in claim 1 of the Stoll patent. (Festo’s Post Trial 
+Brief, pp. 3-7.) In support of this contention Festo urges 
+that (1) the magnetizable sleeve limitation did not appear 
+in the German Stoll patent and should not have been 
+added to the U.S. patent (Festo’s Post Trial Brief, p. 5; Tr. 
+457); and (2) the sleeve material does not affect the 
+operation of the invention. (Festo’s Post Trial Brief, Ppp. 
+
+
+I-41 
+
+
+5-6; Tr. 642-645.) Neither of these arguments is 
+convincing. 
+
+
+First, the specification and prosecution history do not 
+support Festo’s assertion that the magnetizable limitation 
+should not have been in claim 1. In the specification the 
+sleeve is described as “made of a magnetizable material 
+to reduce magnetic leakage fields.” Col. 3, lines 61-62. 
+The prosecution history shows that the patent was filed 
+with a claim 1 that did not have the magnetizable 
+limitation; claim 8, which was dependent from claim 1, 
+had the limitation. In response to a rejection based on 
+Section 112 ¥ 1, claim 1 was rewritten as claim 13 and 
+claim 8 was canceled. (Px 14.) Since consideration was 
+given to whether or not the term should appear in the 
+claim after the first Office Action, Festo’s assertion that it 
+was not meant to be there is not persuasive. 
+
+
+Second, the specification contradicts Festo’s 
+argument that the sleeve material does not affect the 
+operation of the invention. Festo has tried to characterize 
+the invention as dealing only with sealing, wiping and 
+guiding. (Festo’s Post Trial Brief p. 3-4; Tr. 412-413.) 
+Nevertheless, the specification not only describes the 
+sleeve as being made from a magnetizable material but 
+also explains the reason for choosing that material: 
+
+
+If the driven assembly is provided with a sleeve 
+made of a magnetizable material, which 
+encircles the hollow cylindrical assembly of the 
+magnet arrangement, magnetic leakage fields in 
+the vicinity of the driven assembly can be kept 
+to a minimum. In this way, undesirable braking 
+forces, which would otherwise be generated 
+while piston and driven assembly pass 
+
+
+I-42 
+
+
+magnetizable machine components, are avoided. 
+(Px 15 col. 2, lines 23-30.) 
+
+
+Festo performed an experiment which was supposed 
+to demonstrate that regardless, of whether the sleeve was 
+made of a magnetizable or a non-magnetizable material, 
+the operation of the rodless cylinder was the same (Tr. 
+697-700; Festo’s Post-Trial Brief, p. 6.) SMC criticized the 
+test because it was not performed under load. (Tr. 
+806-808; SMC’s Post-Trial Brief, p. 15.) More importantly, 
+the test shed no light on whether or not both sleeves 
+achieved the advantages that Stoll attributed to having a 
+sleeve made of a magnetizable material: i.e. that both 
+magnetizable and non-magnetizable sleeves served to 
+minimize magnetic leakage fields in substantially the 
+same way. 
+
+
+According to the specification of the Stoll patent, a 
+sleeve made of a magnetizable material achieves the 
+benefit of minimizing magnetic leakage fields. Stoll 
+claims a device with a sleeve made of a magnetizable 
+material. The specification is silent concerning the use of 
+a sleeve made of a non-magnetizable material. Moreover, 
+at the time the application was filed, Stoll thought there 
+was an advantage to using a sieeve made of a 
+magnetizable material. (Tr. 461.) 
+
+
+Although Stoll initially filed a claim broad enough to 
+cover the use of a sleeve made of a magnetizable 
+material, he opted not to pursue such a claim after the 
+first Office Action. As the Federal Circuit said in Unique 
+Concepts, Inc. v. Brown, 939 F.2d 1558, 1562, 19 USPQ2d 
+1500, 1504 (Fed.Cir. 1991): 
+
+
+1-43 
+
+
+The statute requires that an inventor 
+particularly point out and distinctly claim the 
+subject matter of his invention. 35 U.S.C. § 112 
+(1988). It would run counter’ to this statutory 
+provision for an applicant for patent to 
+expressly state throughout his specification and 
+in his claims [a claim limitation] and then be 
+allowed to avoid that claim limitation in a later 
+infringement suit by pointing to one paragraph 
+in his specification stating an alternative that 
+lacks the limitation, and thus interpret the claim 
+contrary to its plain meaning. Such a result 
+would encourage an applicant to escape 
+examination of a more broadly-claimed 
+invention by filing narrow claims and then, after 
+grant, asserting a broader scope of the claims 
+based on a statement in the specification of an 
+alternative never presented in the claims for 
+examination.?2 
+
+
+The subject matter disclosed but not claimed in a 
+patent application is dedicated to the public. Miller v. 
+Brass Co., 104 U.S. 350 (1881). As the Federal Circuit 
+pointed out in Unique Concepts, if the applicant intended 
+to claim an alternative embodiment, he had to persuade 
+the examiner to issue the claim. As is apparent from the 
+Stoll patent prosecution history, Stoll submitted one claim 
+without the magnetizable material limitation and another 
+with the limitation. Both claims were rejected and Stoll 
+
+
+decided to only pursue a claim directed to a sleeve made 
+
+
+of a magnetizable material. (Px 14.) 
+
+
+22 See also International Visual Corporation v. Crown Metal 
+Manufacturing Co, Inc., No. 92-1262 (Fed.Cir. 1993) (Lourie, J., 
+concurring at p. 5). 
+
+
+1-44 
+
+
+The doctrine of equivalents is the exce; tion and not 
+the rule. In this case, the meaning and scope of claim 1 of 
+the Stoll patent was clear. Stoll consciously chose to not 
+claim an embodiment of his invention that used a 
+magnetizable sleeve. Festo cannot now try to use the 
+doctrine of equivalents to recapture a claim that Stoll 
+abandoned during prosecution “because other players in 
+the marketplace are entitled to rely on the record made in 
+the Patent Office in determining the meaning and scope 
+of the patent.” Lemelson v. General Mills, Inc., 968 F.2d 
+1202, 1208, 23 USPQ2d 1284, 1289 (Fed.Cir. 1992). 
+
+
+Festo’s commercial embodiment, like SMC’s, uses a 
+non-magnetizable sleeve. (Px 118, 210.) However, the 
+patent claim, and not any commercial embodiment, 
+serves as notice to others of the patentees rights. SMC 
+had a right to rely on the claim language, in light of the 
+specification and the prosecution history, and to design 
+around it. London v. Carson Piri Scott & Co., 946 F.2d 1534, 
+20 USPQ2d 1456 (Fed.Cir. 1991), supra, accord, State 
+Industries v. A.O. Smith Corp., 751 F.2d 1226, 224 USPQ 418 
+(Fed.Cir. 1985). Therefore, claims 1-3 and 5-7 of the Stoll 
+patent are not infringed by the SMC rodless cylinders. 
+
+
+IV. DAMAGES 
+
+
+A. FESTO’S MOTION TO INCLUDE DAMAGES 
+PR 
+
+
+The majority of SMC’s sales were made in the years 
+1989-1991. (Tr. 1388; Dx 494.) This information was 
+produced on August 31, 1992 pursuant to an Order of the 
+Special Master. (Dkt. 172.) To protect the confidentiality 
+
+
+1-45 
+
+
+of SMC’s sales data, Festo used an independent 
+accountant to testify about damages at the hearing on 
+damage. 
+
+
+There was a dispute between the parties as to 
+whether Festo should be permitted to introduce into 
+evidence the testimony by its accountant, Steven Skalak, 
+and related exhibits taken de bene at the hearing on 
+damages because basis for the new evidence was not 
+included in the pretrial order. 
+
+
+* * om 
+
+
+sales denied to him is the measure of his loss, 
+and the Infringer is liable for that. Lam, Inc. v. 
+Johns-Manville Corp., 718 F.2d 1056, 1065, 219 
+USPQ 670, 675 (Fed.Cir. 1983) quoting Livesay 
+Window Company v. Livesay Industries, 251 F.2d 
+469, 471-72, 116 USPQ 167, 169 (5 Cir. 1958). 
+
+
+Festo and SMC were the only suppliers of sealed 
+magnetically coupled rodless cylinders during the period 
+of infringement. (Tr. 32.) There was a demand for the 
+magnetically coupled rodless cylinder because of their 
+unique characteristics. (Tr. 28-30.) 
+
+
+Mechanical rodless cylinders, like the band and cable 
+cylinders, did not offer the advantages of the 
+magnetically coupled rodless cylinder. (Tr. 1415-1425, 
+1844-1860.) Among these advantages are the ability to be 
+leak proof and the ability to work without special 
+lubricated operating fluid. Moreover, Festo could have 
+met the demand for increased rodless cylinders. (Tr. 1427, 
+1431.) 
+
+
+Festo failed to prove, however, that it lost any profits. 
+For seven out of ten years reported Festo had operating 
+
+
+1-46 
+
+
+losses. (Tr. 1643, 1755-1756.) For every dollar of Festo 
+sales, forty to fifty cents represents the cost of the product 
+and fifty to sixty cents represents the selling expenses. 
+(Tr. 1916-1918; Dx 102.) Festo did not show that the DGOs 
+were any more profitable than Festo’s other products. (Tr. 
+1638-1639.) Thus Festo did not demonstrate that, on a 
+straight dollar average, any increase in sales would have 
+led to an increase in profits. (Tr. 1640, 1691-1692.) Festo 
+did not offer proof to support the argument that on an 
+incremental basis additional sales would have created 
+profits. 
+
+
+Festo asserted that a company does not have to be 
+profitable to recover lost profits. Festo relied on Saf-Gard 
+Products, Inc. v. Service Parts, Inc., 491 F.Supp. 996, 206 
+USPQ 976 (D.Ariz. 1980) for this proposition. This 
+reliance is misplaced. In Saf-Gard, the plaintiff was 
+awarded lost profits based on a price erosion theory. The 
+infringing defendant’s presence and actions in the 
+marketplace drove down the price of the product, making 
+the plaintiff less profitable and, ultimately, bankrupt. The 
+court awarded damages based on the uneroded price. 491 
+F.Supp. at 1009, 206 USPQ at 986-987. Festo did not claim 
+price erosion. In fact, Festo’s rodless cylinders remained 
+more expensive than SMC’s throughout the infringement 
+period. (Tr. 1437, 1524.) 
+
+
+Festo has simply failed to show that it would have 
+netted anything had it made SMC’s sales. There is no 
+basis for awarding damages under a lost profits theory. 
+
+
+1-47 
+
+
+2. Reasonable Royalty 
+
+
+When a patent owner cannot establish lost profits or 
+an established royalty, it is entitled to a reasonable 
+royalty. This is characterized as the amount that would 
+have been set at the time the infringement began between 
+a hypothetical willing patent owner and a willing 
+potential 
+
+
+* * * 
+
+
+Lantech, Inc., 807 F.2d 970, 1 USPQ2d 1202 (Fed.Cir. 1986). 
+When the patentee makes substantive changes, the 
+reexamined claims are treated like reissue claims under 
+35 U.S.C. § 252. “Thus a person practicing a patented 
+invention would not be considered an infringer for the 
+period between issuance of an invalid patent and the 
+conversion through reexamination to a valid patent.” 
+Fortel Corp. v. Phone-Mate, Inc., 825 F.2d 1577, 1579, 3 
+USPQ2d 1771, 1773 (Fed.Cir. 1987), quoting H.R. Rep. No. 
+1307, 96th Cong., 2d Sess. 8 (1980). 
+
+
+During reexamination of the Carroll patent, Festo 
+canceled the only independent claim and added a new 
+independent claim. See supra. pp. 15-17. This was a 
+substantial change. As a result, the damages are based on 
+SMC sales made from the time the reexamination 
+certificate issued (October 25, 1988) to the expiration of 
+the reexamined Carroll patent (December 18, 1990). The 
+total infringing SMC sales was $1,470,127. A fifteen 
+percent royalty equals $220,519. 
+
+
+1-48 
+
+
+1. Prejudgment Interest 
+
+
+35 U.S.C. § 284 authorizes the award of 
+“interest . . . as fixed by the court.” In General Motors 
+Corp. v. Devex Corp., 461 U.S. 648, 657, 217 USPQ 1185, 
+1189 (1983), the Supreme Court found that awarding 
+prejudgment interest was within the discretion of the trial 
+court, but that prejudgment interest should ordinarily be 
+awarded 
+
+
+* * * 
+
+
+Thus, Festo’s contention is unfounded. SMC sought 
+the advice of outside counsel. SMC’s counsel reviewed 
+the patents and their prosecution histories and formed a 
+competen: legal opinion regarding infringement of the 
+Stoll pater.. and validity of the Carroll patent. Festo has 
+not proved willful infringement by clear and convincing 
+evidence by SMC. 
+
+
+A. ATTORNEY’S FEES 
+
+
+35 U.S.C. § 285 states. “The court in exceptional cases 
+may award reasonable attorney’s fees to the prevailing 
+party.” Festo has asked for an award of attorney’s fees 
+based on its contention that SMC’s infringement was 
+willful. (Fest Post Trial Brief, p. 48.) SMC has also 
+requested an award of attorney’s fees based on its 
+contention that several of Festo’s arguments were 
+frivolous and that Festo did not disclose the best mode of 
+making the Stoll patent. (SMC’s Post Trial Brief, pp. 
+47-48.) 
+
+
+This lawsuit was hotly contested. However, this is 
+not an exceptional case meriting the award of attorney’s 
+
+
+I-49 
+
+
+fees. I recommend that each side bear its own costs and 
+attorney’s fees. 
+
+
+VI. SUMMARY JUDGMENT AND DIRECTED 
+VERDICT MOTIONS 
+
+
+SMC moved for summary judgment of invalidity of 
+the Stoll patent based on failure to disclose the best 
+mode. (Dkt. 104.) SMC moved for summary judgment of 
+noninfringement of the Stoll patent based on its use of a 
+non-magnetizable sleeve. (Dkt. 117.) SMC also moved for 
+summary judgment of noninfringement of the 
+reexamined Carroll patent and the Stoll patent based on 
+its use of one seal, instead of two. (Dkt. 122.) At the 
+conclusion of plaintiff's evidence, SMC moved for a 
+directed verdict. (Tr. 866.) SMC renewed this motion at 
+the conclusion of the hearing on liability (Tr. 1302.) 
+
+
+It is proper to grant summary judgment under Rule 
+56(c), F.R.Civ.P. if “ the pleadings, depositions, answers to 
+interrogatories, and admissions on file, together with the 
+affidavits, if any, show that there is no genuine issue as to 
+any material fact and that the moving party is entitled to 
+a judgment as a matter of law.” The Supreme Court has 
+said that under this standard, “the mere existence of some 
+alleged factual dispute between the parties will not defeat 
+an otherwise properly supported motion for summary 
+judgment; the requirement is that there be no genuine 
+issue of material fact. Anderson v. Liberty Lobby, Inc., 477 
+U.S. 242, 247-48 (1986) (emphasis in original). 
+
+
+The Federal Circuit has found that “[s]ummary 
+judgment is as available in patent cases as in other areas 
+
+
+1-50 
+
+
+of litigation.” Continental Can Co. USA, Inc. v. Monsanto 
+Co., 948 F.2d 1264, 1265, 20 USPQ2d 1746, 1747 (Fed.Cir. 
+1991). Of course, the court must “view the evidence 
+presented in a light most favorable to the nonmoving 
+party” and “draw all reasonable inferences in favor of the 
+nonmoving party.” C.R. Bard, Inc. v. Advanced 
+Cardiovascular Systems, 911 F.2d 670, 672, 15 USPQ2d 1540, 
+1542 (Fed.Cir. 1990). “The burden of establishing 
+summary judgment is with the movant, with due 
+consideration to the burdens and presumptions at trial.” 
+Laitram Corp. v. NEC Corp., 952 F.2d 1357, 1363, 21 
+USPQ2d 1276, 1280-1281 (Fed.Cir. 1991). 
+
+
+The Supreme Court has adopted the view that the 
+standard for summary judgment mirrors the standard for 
+a directed verdict. Anderson at 250. Thus “the trial judge 
+must direct a verdict if, under the governing law, there 
+can be but one reasonable conclusion as to the verdict.” 
+Id. Directed verdicts are now called judgments as a 
+matter of law under Rule 50, F.R.Civ.P., but this standard 
+has not changed. 1991 Advisory Committee Notes. 
+Because the motion for a directed verdict was made to a 
+Special Master, and not a trial judge, I have also 
+considered this motion under Rule 52(c)?* as a motion for 
+judgment on partial findings. Rule 52(c) parallels Rule 
+50(a), allowing the court to enter judgment when it can 
+appropriately make a disposition on the evidence. 
+
+
+In light of the findings of fact and recommendations 
+made in this report after the hearings herein, | 
+
+
+24 Before December 1, 1991 such a motion was available 
+under Rule 41(b), F.R.Civ.P. See, e.g., Pitts v. United States 599 
+F.2d 1103 (1 Cir. 1979). 
+
+
+I-51 
+
+
+recommend that the motion concerning invalidity on best 
+mode of the Stoll patent be denied. I also recommend that 
+the notion concerning the noninfringement of both 
+patents based on SMC’s use of one seal be denied. 
+
+
+Based on the analysis contained in this report 
+concerning the magnetizable sleeve limitation in the Stoll 
+patent claims, summary judgment and a directed verdict 
+or judgment on partial findings in favor of SMC is 
+appropriate with respect to SMC’s noninfringement of 
+claims 1-3 and 5-7 of Stoll.25 Festo and SMC agree that the 
+SMC driven member has a non-magnetizable sleeve. 
+Therefore there is no dispute as to any material fact. The 
+dispute centers on the meaning of the limitation in the 
+claim. 
+
+
+Claim construction is a question of law for the court. 
+Loctite Corp. v. Ultraseal, Ltd., 781 F.2d 861, 228 USPQ 90 
+(Fed.Cir. 1985). To properly construe the claims, the court 
+should look to the specification, file history, other claims 
+and expert testimony. Whittaker Corp. v. UNR Industries, 
+Inc., 911 F.2d 709, 15 USPQ2d 1742 (Fed.Cir. 1990); 
+Lemelson v. General Mills, Inc., 968 F.2d 1202, 1208, 23 
+USPQ2d 1284, 1289 (Fed.Cir. 1992). As demonstrated 
+supra. pp. 47-51, when properly construed the Stoll claims 
+cannot be read to cover the non-magnetizable sleeves 
+used in the SMC rodless cylinders. Therefore I 
+recommend that SMC’s motion for summary judgment 
+
+
+25 The discussion in this report makes plain that there is no 
+basis for granting Festo’s motion for a directed verdict. (Tr. 
+1302.) And, in any event, Festo never briefed such a motion as it 
+said it would. (Tr. 1308.) 
+
+
+1-52 
+
+
+and its motion for directed verdict of non-infringement of 
+claims 1-3 and 5-7 of Stoll be granted. 
+
+
+Vil. CONCLUSION 
+
+
+SMC’s rodless cylinders do not infringe any of claims 
+1-3 or 5-7 of the Stoll patent. The SMC cylinders with 
+cushions, in both the basic and the slider lines, and two 
+seals literally infringe claims 5, 6 and 9 of the reexamined 
+Carroll patent. The SMC cylinders with cushions, in both 
+the basic and the slider lines, and one seal infringe claims 
+5,6 and 9 under the doctrine of equivalents. Based on this 
+infringement of the reexamined Carroll patent, I 
+recommend that damages and prejudgment interest in the 
+amount of $251,850 be awarded. 
+
+
+/s/ Herbert F. Schwartz 
+Herbert F. Schwartz, Esq. 
+Special Master 
+
+
+April 27, 1993 
+
+
+I-53 
+
+
+IN THE UNITED STATES DISTRICT COURT 
+FOR THE DISTRICT OF MASSACHUSETTS 
+
+
+x 
+FESTO CORPORATION, 
+
+
+Plaintiff and 
+Counterclaim Defendant, Civil Action 
+
+
+7 No. 88-1814-MA 
+
+
+SHOKETSU KINZOKU KoGYo : 5BO #549137 
+KABUSHIKI CO., LTD., a/k/a 
+
+SMC CORPORATION, and SMC 
+
+PNEUMATICS, INC., 
+
+
+Defendants and 
+Counterclaim Plaintiffs. 
+
+
+X 
+
+
+FESTO CORPORATION’S OBJECTIONS TO REPORT 
+OF SPECIAL MASTER HERBERT F. SCHWARTZ, ESQ. 
+PURSUANT TO RULE 53(e)(3), E.R. CIV. P. 
+
+
+* * = 
+
+
+invention includes a number of functionally and struc- 
+turally cooperatively assembled components of which the 
+sleeve is merely one of many. This is readily apparent 
+from reading clair’ 1 of the patent. The solution of the 
+wiping, guiding and sealing problems as defined in 
+Claim 1 of the Stoll patent involved the use of separate 
+guide and seal rings, as acknowledged by the Special 
+Master on pages 27 and 38-39 of his Report. The separate 
+rings act in cooperation with the remaining elements of 
+the claim to carry out the functions of the invention in 
+
+
+1-54 
+
+
+wiping, guiding and sealing in order to operate in keep- 
+ing dirt and impurities from interfering with the func- 
+tioning of the rodless cylinder. 
+
+
+The sleeve on the outer or driven member serves to 
+encircle and assist in holding the rings and magnets in 
+position. Whether it is made of steel (magnetizable) or 
+aluminum (non-magnetizable) does not matter for the 
+recited functions of the claimed invention including 
+wiping, guiding and sealing. (TR 411-413; 642-645). 
+
+
+The gratuitous inclusion of the words relating to the 
+sleeve as being formed “of a magnetizable material” was 
+not necessary and not intended by the inventor to have 
+been included and should not be considered as material 
+to the interpretation of the claim for purposes of infringe- 
+ment. (TR 412). Dr. Stoll should not be held to uninten- 
+tional limitations added incorrectly by an attorney of 
+which he was not aware and of which he certainly did not 
+intend. In the remainder of the world, Stoll’s correspond- 
+ing patents do not have a sleeve material restriction in 
+their main claim. (TR 412). The claim should clearly be 
+interpreted to hypothetically omit the language “of a 
+magnetizable material”. The law clearly permits such an 
+interpretation as discussed below. 
+
+
+Minimizing braking forces due to magnetic field 
+leakage is incidental to the invention and not included in 
+the claim. Dr. Wolf pointed this out in his testimony (TR 
+820-821). Dr. Stoll also clearly explained that for purposes 
+of the invention, the sleeves are the same. (TR 411-413; 
+535-539). In fact, the difference in minimizing magnetic 
+field leakage braking forces is insubstantial as pointed 
+out by the uncontroverted testimony of Dr. Wolf. The 
+
+
+1-55 
+
+
+video film presented as evidence by Festo through Dr. 
+Wolf displaying two cylinders operating in synchroniza- 
+tion for a period of time shows no difference in braking 
+
+
+force between the steel and aluminum sleeves in opera- 
+tion. (Px P-22). 
+
+
+It must be emphasized that claim 1 does not require 
+and does not even mention a function of minimizing 
+magnetic field leakage to carry out the invention. 
+
+
+There is no prior art basis for limiting the interpreta- 
+tion of the claim in this manner. There was no file wrap- 
+per estoppel. The Examiner presented no prior art to limit 
+this interpretation 
+
+
+* * *. 
+
+
+carrying out the invention and then attempted to invali- 
+date the patent on that basis. (TR 971, 988). Accordingly, 
+no prior art was presented and none is known which 
+would require the Stoll invention to include a recitation 
+of the magnetizable material for the purpose of minimiz- 
+ing magnetic leakage fields or any other purpose. A 
+hypothetical Claim 1 eliminating the words “of a magne- 
+tizable material” is clearly patentable over the prior art. 
+In rejecting SMC’s failed attempt to invalidate Claim 1 of 
+the Stoll patent independent of whether the sleeve is 
+magnetizable or not, the Master clearly pointed out the 
+numerous ways in which the patent claims in issue were 
+valid independent of the sleeve material. (Master's 
+
+
+Report pgs. 31-42). 
+
+
+Accordingly, there was no reason for Dr. Stoll to 
+include a gratuitous recitation such as magnetizable 
+sleeve material in his broadest claim, Claim 1. He has 
+
+
+1-56 
+
+
+clearly testified that this was not the case. He never 
+intended to do so and it should not have been done. (TR 
+457). The prior art does not require it and Dr. Stoll did not 
+choose to include it. It was mistakenly included by the 
+attorney prosecuting the application before the United 
+States Patent and Trademark Office without consultation 
+with the inventor. (TR 455). It certainly does not represent 
+the inventor’s wishes and he should not be bound by it. 
+
+
+The Examiner at the Patent and Trademark Office 
+certainly did not require that the recitation be included in 
+
+
+the claim. He 
+
+
+1-57 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and 
+Counterclaim Defendant, 
+
+
+v. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI CO. 
+LTD., a/k/a SMC 
+CORPORATION and SMC 
+PNEUMATICS, INC. 
+
+
+Defendants and 
+Counterclaim Plaintiffs. 
+
+
+Civil Action No. 
+88-1814-PBS 
+
+
+tll i i i i 
+
+
+PLAINTIFF FESTO CORPORATION’S 
+PRETRIAL MEMORANDUM UNDER L.R. 16.5 
+
+
+100. Festo has its main headquarters on Long 
+Island, New York and has about 100,000 square feet in its 
+building. 
+
+
+101. Mr. Kurt Stoll is a graduate mechanical 
+engineer and received his diploma in 1960. He is one of 
+the owners of Festo KG, the parent of Plaintiff Festo. He 
+is also a Director of Festo KG. He and his brother, 
+Wilfried Stoll, are Managing Partners of Festo KG. 
+
+
+1-58 
+
+
+102. The products sold in the United States are 
+manufactured and sold by Festo Corporation, the U.S. 
+subsidiary of Festo KG. 
+
+
+FACTS WHICH FESTO INTENDS 
+TO PROVE AT TRIAL 
+IN SUPPORT OF EACH CLAIM 
+1. The Carroll and Stoll patents were duly and 
+legally issued and are valid. 
+
+
+2. The making, assembly and selling of magnetically 
+coupled rodless cylinders in this judicial district and 
+elsewhere in the United States by SMC Pneumatics 
+constitute direct and contributory infringement of, and 
+active inducement to infringe, the Carroll and Stoll 
+
+
+patents. 
+
+
+3. The shipping of parts of the magnetically coupled 
+rodless cylinder into the United States for assembly here, 
+and the selling of magnetically coupled rodless cylinders 
+in this judicial district and elsewhere in the United States 
+
+
+by SMC Corp. 
+
+
+* * * 
+
+
+and the magnets on the piston so that there would be 
+minimal resistance to movement of the piston within the 
+tube under pneumatic or hydraulic force. Additionally, it 
+was necessary to seal the tube and to wipe dirt particles 
+or contaminants within the tube away from the area 
+where the magnets are located. In this way, the possibility 
+of reducing the magnetic attraction force due to 
+contamination or dirt is minimized. 
+
+
+1-59 
+
+
+91. Prior art rodless cylinders incorporated a single 
+ring on the piston which was used to not only maintain 
+the separation between the piston and the inner wall 
+surface of the tube but also to create a seal with the inner 
+wall surface so that fluid pressure can build up within the 
+tube on one side of the piston to move the piston. A more 
+rigid or harder material used for the seal is desirable in 
+order to maintain the separation between the piston and 
+the inner wall surface of the tube. However, when a more 
+rigid or harder material is used for the seal, the sealing 
+and wiping functions are not effectively obtained. On the 
+other hand, if a soft resilient material is used for the seal, 
+it will conform well to the engaging surface of the inner 
+wall of the cylinder tube and seal and wipe effectively; 
+but, the magnetic force and free floating piston will 
+overcome the soft material and the magnets will engage 
+the tube wall and interfere with the reciprocal movement 
+of the piston in the tube. 
+
+
+92. Mr. Stoll conceived of a solution to the above 
+problems. Mr. Stoll divided the task of accomplishing 
+these separate functions into separate means positioned 
+on the piston. 
+
+
+93. Mr. Stoll conceived of the idea of using an inner 
+guide ring on the piston, which ring is made of a more 
+rigid but slidable material, to maintain the proper 
+spacing between the piston magnets and the wall of the 
+tube while the piston reciprocately moves in the tube. Mr. 
+Stoll further conceived of the idea of using a wiper ring 
+adjacent to the guide ring where the wiper ring is made 
+from a soft resilient material, which carries out the 
+primary wiping and sealing function. 
+
+
+1-60 
+
+
+94. There is some overlap in function between the 
+wiping and sealing ring and the guide ring and the 
+ultimate result is a very effective magnetically coupled 
+rodless cylinder which will have a long operational life. 
+
+
+95. The above problem-and solutions are fully 
+described in U.S. Patent No. 4,354,125, which issued on 
+October 12, 1982 to Kurt Stoll. 
+
+
+96. The claims of the Stoll patent specifically define 
+Mr. Stoll’s invention in regard to the guiding, wiping and 
+sealing functions. 
+
+
+I-61 
+
+
+DEFENDANT’S EXHIBIT 105 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+x 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and 
+Counterclaim Defendant, Civil Action 
+7 No. 88-1814-MA 
+
+
+SHOKETSU KINZOKU KOGY] : BBO #549137 
+KABUSHIKI CO., LTD., a/k/a 
+
+SMC CORPORATION, and SMC 
+
+PNEUMATICS, INC., 
+
+
+Defendants and 
+Counterclaim Plaintiffs. 
+
+
+X 
+
+
+PLAINTIFF FESTO CORPORATION’S 
+TRIAL MEMORANDUM 
+
+
+* 7 + 
+
+
+B. SMC’s Infringement Of The Carroll Patent. 
+
+
+As will be established at trial, SMC has literally 
+infringed claims 9, 5 and 6 of the Carroll patent. In other 
+words, the accused SMC devices include each and every 
+element recited in the above claims. 
+
+
+C. SMC’s Infringement Of The Stoll Patent. 
+
+
+Most of the accused SMC devices include each and 
+every element recited in claims 1-3 and 5-7 of the Stoll 
+
+
+I-62 
+
+
+patent with the exception of the composition of the cylin- 
+drical sleeve which encircles the tube of the driving mem- 
+ber. Specifically, the sleeves of the accused devices are 
+made from a non-magnetizable material, such as an alu- 
+minum alloy, instead of a magnetizable material as 
+recited in the claims. In addition, some of the accused 
+devices apparently employ only one sealing ring instead 
+of “rings” as claimed. 
+
+
+1. The substitution of a non-magnetizable 
+sleeve for a magnetizable sleeve does not 
+substantially change the operation of the. 
+device -as claimed. 
+
+
+The courts have addressed situations on all fours 
+with the case at bar. In Graver Tank, supra, which is 
+considered the classical equivalents decision, the patentee 
+claimed a fusible composition containing “a major pro- 
+portion of one or more alkaline earth metal silicates.” The 
+
+
+* * * 
+
+
+thereby be well equipped to determine whether SMC has 
+made a change of such substance as to make the doctrine 
+of equivalents inapplicable, or whether they have simply 
+replaced a sleeve of one type of material with one of a 
+different material that does not cause the invention to 
+operate in a materially different manner. 
+
+
+1-63 
+
+
+2. The use of one sealing ring, as opposed to 
+more than one ring, for wiping the internal 
+wall of the tube containing the piston is not a 
+change of such substance as to make the 
+doctrine of equivalents inapplicable. 
+
+
+It is well settled that “infringement is not avoided by 
+making into one part that which has been shown as two.” 
+No-Joint Concrete Pipe Co. v. Hanson, 344 F.2d 13, 15 (9th 
+Cir. 1965). SMC has nevertheless attempted to avoid 
+infringement of the Stoll patent by using only one sealing 
+ring in some of its rodless cylinders rather than more 
+than one. It is clear that the unit will be sealed, thereby 
+allowing the piston to be moved by pneumatic pressure 
+regardless of the number of sealing rings used. It is also 
+clear that one sealing ring will provide wiping action as 
+described in the Stoll patent. It will accordingly be shown 
+at trial that SMC’s units are functionally equivalent to the 
+patented Festo construction. 
+
+
+The use of two seals may provide certain additional 
+advantages over one, such as more efficient wiping. The 
+court addressed the same situation in the No- 
+
+
+1-64 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and 
+Counterclaim Defendant, 
+
+
+Civil Action No. 
+88-1814-MA 
+
+
+BBO #549137 
+
+
+V. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI CO. 
+LTD., a/k/a SMC 
+CORPORATION and SMC 
+PNEUMATICS, INC. 
+
+
+Defendants and 
+Counterclaim Plaintiffs. 
+
+
+ee eee ee eee eee 
+
+
+PLAINTIFF FESTO CORPORATION'S 
+TRIAL BRIEF 
+
+
+= * * 
+
+
+alloy materials. Festo will also provide evidence that the 
+sleeve material of the SMC device performs substantially 
+the same function, in substantially the same way to 
+achieve substantially the same result as the claimed 
+invention. More specifically. the Stoll invention is 
+directed to wiping, guiding and sealing, i.e. wiping dirt 
+and impurities away from the magnets of the piston and 
+driven member, guiding the piston and driven member 
+inside and outside the cylinder tube, respectively, and 
+sealing the piston to prevent “blow-by”. Accordingly, the 
+material used for the sleeve which encircles the outer 
+
+
+1-65 
+
+
+magnet arrangement is inconsequential to the Stoll 
+invention of wiping, guiding and sealing. Festo will show 
+at trial that the specific arrangement of the guide rings 
+
+
+and seals are not affected by the driven member sleeve 
+material. 
+
+
+A function attributable to the sleeve material in the 
+specification of the Stoll patent will be shown by Festo to 
+not be part of the claimed invention; however, even if one 
+were to include the function of keeping magnetic leakage 
+fields in the vicinity of the driven member to a minimum, 
+Festo will prove at trial that the aluminum alloy sleeve 
+material will function in substantially the same way to 
+
+
+achieve substantially the same result as a magnetizable 
+sleeve material. 
+
+
+The jury will thereby be well equipped to determine 
+whether SMC has made a change of such substance as 
+
+
+1-66 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+Plaintiff, 
+
+
+Vv. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI CO., 
+LTD., a/k/a SMC 
+CORPORATION and SMC 
+PNEUMATICS, INC., 
+
+
+Defendants. 
+
+
+CIVIL ACTION NO. 
+88-1814-PBS 
+
+
+ee wee wee eee le el oe le we 
+
+
+ORDER RE: PRETRIAL MOTIONS 
+July 11, 1994 
+
+
+Saris, U.S.DJ. 
+
+
+On February 3, 1994, this Court heard oral argument 
+on the following motions: The motions by SMC Conpene- 
+tion and SMC Pneumatics, Inc. (collectively “SMC”) for 
+summary judgment on non-infringement of the Stoll Pat- 
+ent, non-infringement of the Carroll Patent, and 
+invalidity of the Stoll Patent’; and the motions by Festo 
+Corporation (“Festo”) for summary judgment and for a 
+
+
+1 Prior to the Master’s Hearing, SMC filed motions for 
+summary judgment on non-infringement of the Stoll — 
+non-infringement of the Stoll and Carroll Patents by the _~ ne 
+SMC rodless cylinder, and invalidity of the Stoll Pa y= 
+Following the Master's Hearing, SMC filed a motion ~ 
+summary judgment and a directed verdict on non-infringemen 
+
+
+of the Stoll Patent. 
+
+
+I-67 
+
+
+directed verdict on infringement of the Carroll patent, 
+validity of the Carroll patent, infringement of the Stoll 
+patent, and validity of the Stoll patent. As discussed in 
+court that day, and as explained in a Procedural Order 
+issued on February 18, 1994, all motions for summary 
+judgment were denied, with the exception of the motions 
+concerning infringement of the Reexamined Carroll pat- 
+ent. After additional briefing on that issue, this Court 
+now orders that Festo’s and SMC’s motions are each 
+allowed and denied in part. This opinion also addresses 
+the use of the Master’s Report (“Report”) at trial, and 
+assumes familiarity with that report. The Court also 
+explains the reasons for denial of the motions concerning 
+infringement of the Stoll Patent under the doctrine of 
+equivalents, which SMC urged the court to reconsider. 
+
+
+1. Master’s Report 
+
+
+On May 21, 1992, pursuant to Fed. R. Civ. P. 53(e)(3), 
+Judge Mazzone referred this case to Special Master Her- 
+bert F. Schwartz, Esq. for the purpose of considering all 
+claims presented by the parties. In the Order of Refer- 
+ence, Judge Mazzone explained that the appointment of a 
+special master was warranted because “[nJot only are the 
+claims complex, but the history of this litigation, the 
+voluminous record, and the contentions of the parties 
+promise that this case will require an inordinate amount 
+of judicial time and resources at a time when this Court 
+
+
+has four pending vacancies and my own schedule is 
+severely taxed.” 
+
+
+SMC filed a limited objection to the reference, pri- 
+marily directed to the contention that the Master’s 
+
+
+1-68 
+
+
+authority be no broader than that provided under Fed. R. 
+Civ. P. 53(e). Hearings on the issues of infringement, 
+invalidity and enforceability of the reexamined Carroll 
+and Stoll patents were held before the special master on 
+September 14-21 and hearings on damages were held on 
+October 19-22 and on November 9, 1992. The Master 
+issued his report on April 27, 1993. Both sides filed objec- 
+
+
+tions in a timely fashion. 
+
+
+Fed. R. Civ. P. 53 (b) provides that a reference to a 
+master shall be “the exception and not the rule.” “In 
+actions to be tried by a jury, a reference shall be made 
+only when the issues are complicated. . . . ” Id. In an 
+action to be tried by a jury, the master’s “findings upon 
+the issues submitted to the master are admissible as evi- 
+dence of the matters found and may be read to the jury, 
+subject to the ruling of the court upon any objections in 
+point of law which may be made to the report.” Fed. R. 
+
+
+Civ. P. 53(e)(3). 
+
+
+“(T]he court has the power to appoint masters with- 
+out the consent of the parties.” Constant v. Advanced 
+Micro-Devices Inc., 848 F.2d 1560, 1566 (Fed. Cir.) (“Con- 
+stant”), cert. denied, 488 U.S. 892 (1988). “Reference of 
+issues to a master, even compulsory reference, does not 
+violate the 7th Amendment right to trial by a jury to 
+which a master’s findings may be read under Rule 
+53(e)(3).” Id. (citing Crateo, Inc. v. Intermark, Inc., 536 F.2d 
+862, 868 (9th Cir.), cert. denied, 429 U.S. 896 (1976)). See 
+also Ex parte Peterson, 253 U.S, 300, 312 (1920). 
+
+
+“Where complicated issues of patent law are 
+involved, the appointment of an experienced patent attor- 
+ney is quite appropriate.” Constant, 848 F.2d at 1567. 
+
+
+1-69 
+
+
+“Masters can properly aid the court in evaluating issues 
+of patent validity and infringement in the context of 
+motions for summary judgment, and have often done so.” 
+Id. at 1566. Cf. International Nickel Co. v. Ford Motor Co., 
+166 F. Supp. 551, 553 (S.D.N.Y. 1958) (reference to master 
+in highly technical patent case). “Masters have been 
+employed by courts (under Fed. R. Civ. P. 53 (e)(3)) to 
+explain technology to the jury or make findings on speci- 
+fic issues which are then read to the jury.” Structural 
+Rubber Products Co. v. Park Rubber Co., 749 F.2d 707, 720 
+(Fed. Cir. 1984). 
+
+
+| in jury cases, some courts have held that the master’s 
+findings constitute prima facie evidence to be submitted 
+to the jury for its consideration. Coyner v. United States, 
+103 F.2d 629, 634-35 (7th Cir. 1939). See generally Irving R. 
+Kaufman, Masters in the Federal Courts: Rule 53, 58 Colum- 
+bia L. Rev. 452, 460 (1958). 
+
+
+SMC has filed a motion in limine objecting to submis- 
+sion of the master’s fact findings to the jury. This court 
+has determined that the master’s report will be submitted 
+to the jury because of the complexity of the issues and 
+technology involving magnetically coupled rodless cylin- 
+ders and two dific cent patents. Due to the length of the 
+report, the number of issues, and the complexity of the 
+technology, the Court will allow the jury to read the 
+report by themselves rather than have the report read 
+orally to them. However, in order to ensure that the 
+master’s report not receive undue weight, it will not 
+remain with the jurors while deliberating. The attorneys 
+have conferred and agreed to sanitize the report to delete 
+contentions of the parties, and issues which the court has 
+ruled on as a matter of law.All disputes were resolved by 
+
+
+1-70 
+
+
+the court. Finally, the Court will not instruct the jury that 
+the master’s report is “prima facie” evidence, as that 
+language is missing from Rule 53. Rather, the Court will 
+instruct the jury that it may deterrine what weight, if 
+any, to give the master’s findings. 
+
+
+2. Infringement Under Doctrine of Equivalents of 
+Stoll Patent Concerning | Magnetizable Sleeve 
+Limitation 
+
+Based on the analysis contained in the report con- 
+
+cerning the magnetizable sleeve limitation in claim 1 of 
+the Stoll patent, the master recommended that SMC’s 
+motion for summary judgment should be granted with 
+respect to SMC’s infringement of claims 1-3 and 5-7 of 
+Stoll. SMC has moved that this Court adopt the master’s 
+recommendation with respect to non-infringement of the 
+Stoll patent. Festo has moved for summary judgment 
+and/or a directed verdict of infringement of the Stoll 
+patent. 
+
+
+“In order to determine a question of patent infringe- 
+ment, a district court must (1) determine as a matter of 
+law the scope and meaning of the claims at issue and (2) 
+determine as a factual matter whether the properly con- 
+strued claims encompass or ‘read on’ the accused 
+device.” Vaupel Textilmaschinen v. Meccanica Euro Italia, 
+944 F.2d 870, 879 (Fed. Cir. 1991) (“Vaupel”). See also ZMI 
+Corp. v. Cardiac Resuscitator Corp., 844 F.2d 1576, 1578 
+(Fed. Cir. 1988). “To ascertain the meaning of claims, [the 
+court considers] three sources: the claims, the specifica- 
+tion, and the prosecution history.” Unique Concepts, Inc. v. 
+Brown, 939 F.2d 1558, 1561 (Fed. Cir. 1991) (“Unique”). To 
+
+
+I-71 
+
+
+constitute an infringement, the accused device must con- 
+tain each and every limitation of the claim or its substan- 
+tial equivalent. Vaupel, 944 F.2d at 879. “An equivalent 
+must be found for every limitation of the claim some- 
+where in an accused device, but not necessarily in a 
+corresponding component, although that is generally the 
+case.” Corning Glass Works v. Sumitomo Elec. U.S.A., Inc., 
+868 F.2d 1251, 1259 (Fed. Cir. 1989) (adding negative 
+dopant to the cladding is equivalent to adding positive 
+
+
+dopant to the core in the context of the claimed inven- 
+tion). 
+
+
+The court agrees with the conclusion of the Master 
+that “when properly construed the Stoll claims cannot be 
+read to cover the non-magnetizable sleeves used in the 
+saec rodless cylinders.” Report, pp. 47-50, 68. Thus, there 
+is no literal infringement as a matter of law. Festo does 
+not dispute this ruling. 
+
+
+However, the court disagrees that summary judg- 
+ment can be granted with respect to the claim of infringe- 
+ment by equivalents. A finding of infringement by 
+equivalents requires a determination whether the accused 
+device performs substantially the same function in sub- 
+stantially the same way to achieve substantially the same 
+result. Unique, 939 F.2d at 1564. See generally Graver Tank 
+& Mfg. Co.. Inc. v. Linde Air Prods. Co., 339 U.S. 605, 608 
+(1950). “This equitable doctrine evolved from a balancing 
+of competing policies, each of which supports the Consti- 
+tutional purpose of promoting the ‘useful arts.’ ” London 
+v. Carson Pirie Scott & Co., 946 F.2d 1534, 1538 (Fed. Cir. 
+1991) (“London”) (citing U.S. Const. art. |, § 8, cl. 8). 
+
+
+I-72 
+
+
+On the one hand claims must be ‘particular’ and 
+‘distinct,’ as required by 35 U.S.C. § 112, so that 
+the public has fair notice of what the patentee 
+and the Patent Trademark office have agreed 
+constitute the metes and bounds of the claimed 
+invention. . . . On the other hand, the patentee 
+should not be deprived of the benefits of his 
+patent by competitors who appropriate the 
+essence of an invention while barely avoiding 
+the literal language of the claims. . . . Thus, 
+where an infringer, instead of inventing around 
+a patent by making a substantial change, merely 
+makes an insubstantial change, essentially mis- 
+appropriating or even ‘stealing’ the patented 
+invention, infringement may lie under the doc- 
+trine of equivalents. Application of the doctrine 
+of equivalents is the exception, however, not the 
+rule. ... 
+
+
+Id. (citations omitted). 
+
+
+“The essence of prosecution history estoppel is that a 
+patentee should not be able to obtain, through the doc- 
+trine of equivalents, coverage of subject matter that was 
+relinquished during prosecution to procure issuance of the 
+patent.” Hoganas AB v. Dresser Indus., Inc., 9 F.3d 948, 
+951-52 (Fed. Cir. 1993) (“Hoganas”) (emphasis added). 
+“The legal standard for determining what subject matter 
+was relinquished is an objective one, measured from the 
+vantage point of what a competitor was reasonably enti- 
+tled to conclude, from the prosecution history, that the 
+applicant gave up to procure issuance of the patent.” Id. 
+at 952. 
+
+“The doctrine of prosecution history estoppel bars ‘a 
+patentee from enforcing its claims against otherwise 
+legally equivalent structures if those structures were 
+
+
+1-73 
+
+
+excluded by claim limitations added in order to avoid 
+prior art.’ ” Vaupel, 944 F.2d at 882 (quoting Mannesmann 
+Demag Corp. v. Engineered Metal Prods. Co., Inc., 793 F.2d 
+1279, 1284 (Fed. Cir. 1986)). “In determining whether 
+prosecution history estoppel applies because of a change 
+in claim language during prosecution, the court must 
+consider not only what was changed, but the reason for 
+such change.” Id. (emphasis in original) (because the 
+record does not indicate that the limitation was added to 
+avoid prior art, there was no estoppel to finding infringe- 
+ment by equivalents). “The scope of estoppel must be 
+determined in light of the prior art that occasioned the 
+change, as well as representations made to the patent 
+examiner as to the reason for change.” Sun Studs, Inc, v. 
+ATA Equipment Leasing, Inc., 872 F.2d 978, 987 (Fed. Cir. 
+1989) (no estoppel where the discussion of patentability 
+before the PTO was unrelated to the description of the 
+geometric shape) (“Sun Studs”), overruled on other grounds 
+by A.C. Aukerman Co., v. R.L. Chaides Const. Co., 960 Fd 
+1020, 1038-39 (Fed. Cir. 1992). “[E]stoppel is not auto- 
+matic whenever a claim is cancelled... . ” Id. at 987. 
+ee history estoppel is ordinarily a question of 
+aw. 
+
+
+SMC vigorously argues that this Court should adopt 
+the master’s recommendation that Festo is estopped 
+under the doctrine of prosecution history estoppel from 
+claiming that it is entitled to a range of equivalents which 
+would erase “meaningful structural and functional! lim- 
+itations of the claim on which the public is entitled to rely 
+in avoiding infringement.” Hoganas, 9 F.3d at 954 (quoting 
+Perkin-Elmer Corp. v. Westinghouse Elec. Corp., 822 F.2d 
+1528, 1532 (Fed. Cir. 1987)). In Hoganas, the court found 
+
+
+1-74 
+
+
+prosecution history estoppel where: the examiner during 
+prosecution issued an office action rejecting claims for 
+obviousness; the claimant distinguished the claims so as 
+to relinquish coverage of capillary-sized fibers; and the 
+examiner subsequently allowed the claims based on this 
+distinction. The court held: “In our view, a reasonable 
+competitor could have concluded, from a reading of the 
+prosecution history, that the examiner relied on this dis- 
+tinction in allowing the claims, and thus, that Hoganas 
+had given up coverage of the subject matter incorporat- 
+ing this distinction.” Hoganas, 9 F.3d at 953. 
+
+
+Here, in the First Office Action, the examiner rejected 
+all claims under 35 U.S.C. § 112 par. 1, which provides: 
+“The specification shall contain a written description of 
+the invention, and of the manner and process of making 
+and using it, in such full, clear, concise, and exact terms 
+as to enable any person skilled in the art to which it 
+pertains, or with which it is most nearly connected, to 
+make and use the same, and shall set forth the best mode 
+contemplated by the inventor of carrying out his inven- 
+tion.” The examiner commented: “Exact method of opera- 
+tion unclear. Is device a true motor or magnetic clutch.” 
+Claims 4-12 were also rejected under 35 U.S.C. § 112 for 
+
+
+being improperly multiply dependent. Report 37. They 
+were not rejected for obviousness under 35 U.S.C. § 103. 
+
+
+The initial claim 1 did not limit the sleeve of the 
+driven member to being constructed of a magnetizable 
+material. Claim 8, which was dependent from claim 1, 
+had such a limitation. Report 31. In response to this first 
+office action, Stoll cancelled independent claim 1 and 
+substituted a completely new independent claim which 
+
+
+I-75 
+
+
+required that the driven member have a sleeve con- 
+structed of a magnetizable material. Report 32. 
+
+
+Although the examiner identified certain “cited refer- 
+ences believed pertinent,” there is nothing in the record 
+or the report to indicate that the limitation of a magnetiz- 
+able sleeve was necessary to distinguish the claimed 
+invention over prior art. Further, there is nothing in the 
+record or the report to suggest that the limitation of a 
+sleeve of magnetizable material was necessary to meet 
+the requirements of specification under 35 U.S.C. § 112. 
+Indeed, the reason why the newly substituted indepen- 
+dent claim has the limitation that the sleeve be made of 
+magnetizable material is a mystery, as nothing seems to 
+turn on its composition for purpose of procuring the 
+patent. At the very least, it is a question of fact. Sun Stud, 
+872 F.2d at 987. This Court is not persuaded by SMC’s 
+reliance on Haynes Int’l., Inc. v. Jessop Steel Co., 8 F.3d 
+1573, 1577-78 (Fed. Cir. 1993) (“Haynes”), in which two 
+claims reciting a relatively broad range of chromium con- 
+tent were abandoned, and a third claim with a more 
+specific chromium content was retained. In Haynes, 
+unlike the present case, it was clear from the prosecution 
+history “that chromium content was the principal distinc- 
+tion between the claimed subject matter and the prior art, 
+and this was the primary area of dialogue between Cabot 
+and the PTO.” Id. at 1578. Accordingly, in light of the 
+circumstances of the present record, this court declines to 
+adopt the recommendation of the master that the claim of 
+infringement by equivalents is barred under the doctrine 
+of prosecution history estoppel. 
+
+
+In addition, with respect to equivalency Festo has 
+presented expert testimony of Dr. Robert Wolf and of Dr. 
+
+
+1-76 
+
+
+Stoll to support its claim of infringement under the doc- 
+trine of equivalents. Festo argues that SMC has produced 
+no evidence to dispute the testimony of Wolf and Stoll 
+that magnetizable and non-magnetizable sleeves operate 
+in substantially the same manner. However, the patent 
+itself states that if the driven assembly is provided with a 
+sleeve made of magnetizable material, “magnetic leakage 
+fields in the vicinity of the driven assembly can be kept to 
+a minimum. In this way, undesirable breaking forces, 
+which would otherwise be generated while piston and 
+driven assembly pass magnetizable machine components, 
+are avoided.” Record 48. This language in the specifica- 
+tion, together with the prosecution history, creates a dis- 
+puted issue of fact appropriate for resolution by a jury 
+under the function/way/result test. Unique, 939 F.2d at 
+1564 (even where there was no literal infringement as a 
+result of plain language of claim and prosecution history, 
+the court examined expert testimony in evaluating 
+whether there was infringement by equivalents). Accord- 
+ingly, both motions are denied. | 
+
+
+3. Literal Infringement of the Reexamined Carroll 
+Patent 
+
+
+Festo has moved for summary judgment on its claim 
+of infringement with respect to the reexamined Carroll 
+patent. Claim 9 of the reexamined Carroll patent requires 
+“a pair of cushion members formed of resilient material, 
+the cushion members being situated near opposite axial 
+ends of the central mounting member to help prevent 
+damage to the piston when the piston contacts an axial 
+end of the cylinder... . ” 
+
+
+I-77 
+
+
+A. 6, 10 and 15 mm slider pistons 
+
+
+The 6, 10 and 15 mm slider pistons have no cushions 
+and Festo does not contend that they infringe. 
+
+
+B. 25, 32, and 40 mm slider pistons 
+
+
+SMC contends that the cushions in the 25, 32 and 40 
+mm slider pistons cannot prevent damage by making 
+contact with the end plates, because a bolt protrudes from 
+the piston such that the end plate will make contact with 
+the bolt rather than the cushion. (Testimony of Dr. Blanco, 
+Tr. 1800). Festo has neither put forth any evidence to 
+dispute the contention nor pressed the issue in its briefs. 
+Accordingly, SMC’s motion for summary judgment on the 
+claim of literal infringement will be granted. 
+
+
+C. Basic Pistons 
+
+
+As to the basic pistons, SMC contends that “in nor- 
+mal operation,” their cushions do not “prevent damage to 
+the piston” since they do not make contact with the end 
+plate. This is because “in normal operation” the piston is 
+stopped by stopping the load rather than stopping the 
+load by stopping the piston. The court agrees with the 
+conclusion of the master that the language of claim 9 of 
+the reexamined Carroll patent does not distinguish 
+between situations where contact with the axial end of 
+the cylinder is the normal result of the completion of a 
+stroke and where it comes into play only in the case of 
+decoupling. Report 20-22. Accordingly, the court grant’s 
+Festo’s motion for summary judgment with respect to the 
+claim of literal infringement of claims 5, 6 and 9 of the 
+
+
+1-78 
+
+
+reexamined Carroll patent on the basic pistons with two 
+seals and cushions. 
+
+
+4. Infringement Under Doctrine of Equivalents of 
+Reexamined Carroll and Stoll Patents Concerning 
+
+
+Seals 
+
+
+SMC has moved for summary judgment on non- 
+infringement of the reexamined Carroll patent and the 
+Stoll patent based on its use of one seal rodless cylinders, 
+instead of two. Festo has also moved for summary judg- 
+ment on their claim of infringement by equivalents. Since 
+the Carroll and Stoll patents specifically recite two seals, 
+there is no dispute that the one seal basic and the one seal 
+slider SMC rodless cylinders do not literally infringe. 
+
+
+Claim 1 of the Stoll patent states inter alia: 
+
+
+Said piston further including plural guide ring 
+means encircling said piston body and slidingly 
+engaging said internal wall and first sealing 
+rings located axially outside said guide rings for 
+wiping said internal wall as said piston moves 
+along said tube to thereby cause any impurities 
+that may be present in said tube to be pushed 
+along said tube so that said first annular mag- 
+nets will be free of interference from said impu- 
+
+
+rities. 
+
+
+Claim 9 of the reexamined Carroll patent specifically 
+defines “a pair of resilient sealing rings situated near 
+opposite axial ends of the central mounting member and 
+engaging the cylinder to provide a fluid-tight seal there- 
+
+
+with.” 
+
+
+1-79 
+
+
+SMC argues that use of only one seal allows dirt to 
+enter the piston chamber and is therefore not equivalent 
+to two seals. The master rejected the argument as 
+“flawed” as applied to the reexamined Carroll patent 
+because it is based on the meaning and function of the 
+sealing rings as described in the Stoll patent, not in the 
+Carroll patent. Report 24. Rather, the Master found that 
+under the Carroll patent: “The seals create a fluid-tight 
+seal against the pressure medium, enabling the piston to 
+be pushed by its force. This results in the piston being 
+efficiently moved by the pressure medium without 
+“blow-by” or air getting around the seals.” Report 24. 
+Festo has presented undisputed evidence that for this 
+purpose the one seal in the SMC device performs sub- 
+stantially the same function and achieves substantially 
+the same result in substantially the same way as two 
+seals. 
+
+
+The only evidence which SMC has produced to dis- 
+pute the claim of infringement by equivalents is state- 
+ments made by Festo in the context of prosecution of the 
+Stoll patent. In particular, there is a statement by Dr. Stoll 
+that two seals are necessary under the Stoll patent 
+because without two sealing rings, dirt attracted by the 
+magnet will enter the side without the sealing ring. This 
+evidence concerning dirt and impurities does not bear on 
+the meaning and function of the sealing rings as 
+described in the reexamined Carroll patent. 
+
+
+Accordingly, the Court allows Festo’s motion for 
+summary judgment that the one seal SMC basic cylinders 
+infringe claims 5, 6 and 9 of the reexamined Carroll 
+patent under the doctrine of equivalents. However, the 
+Court denies Festo’s motion for summary judgment that 
+the one seal SMC basic cylinders infringe claim 1 of the 
+
+
+1-80 
+
+
+Stoll patent under the doctrine of equivalents. Consider- 
+ing the above statement by Dr. Stoll on the importance of 
+two seals, as well as conflicting testimony from Dr. Wolf 
+and Dr. Stoll at the master’s hearing, there is a genuine 
+issue of material fact as to whether one seal functions 
+substantially the same way as two seals in eliminating 
+interference from impurities. 
+
+
+ORDER 
+
+
+For the foregoing reasons, the Court hereby 
+ORDERS as follows: 
+
+
+1. SMC is granted summary judgment on non- 
+infringement of the reexamined Carroll patent by the 6, 
+10 and 15 mm cushionless pistons; 
+
+
+2. SMC is granted summary judgment on non- 
+infringement of the reexamined Carroll patent by the 25, 
+32, and 40 mm slider pistons with bolts; 
+
+
+3. Festo is granted summary judgment on the 
+infringement of the reexamined Carroll patent by the 
+SMC basic pistons with two seals and two cushions; 
+
+
+4. Festo is granted summary judgment on the 
+infringement of the reexamined Carroll patent by the 
+SMC one-seal rodless cylinders. 
+
+
+5. All other motions for summary judgment are 
+DENIED for the reasons stated above and in Court on 
+
+
+February 3, 1994. 
+
+
+/s/ Patti B. Saris 
+PATTI B. SARIS 
+United States District Judge 
+
+
+1-8] 
+
+
+TELEFAX 
+FAX: 6014 
+
+
+TO: Mr. Loesener 
+
+
+FROM: Ralf Haller 
+FESTO-USA 
+Fax # 516-435-8026 
+
+
+RE: INK AGITATOR 
+DATE: Nov. 29, 1988 
+
+
+Achim, 
+
+
+Enclosed is a sketch of ink agitator as discussed on the 
+telephone earlier. As you can see on the agitator sub- 
+assembly, the pinion is prevented from moving off the 
+rack by means of two counter rollers. Also, at the bottom 
+there are 4 rollers going along a guide rail virtually 
+preventing any misalignment of the sub-assembly. 
+
+
+The whole sub-assembly slots into a bracket mounted on 
+the mounting face of the DGO. In addition, the DGO has 
+
+
+got play at both ends (about 1 mm) both lateral as well as 
+axial. 
+
+
+The whole agitator is a device sold by our customer to be 
+used to agitate ink, i.e. to prevent skin forming on the 
+surface. Viscosity varies from ink to ink but never 
+approaches that of honey. 
+
+
+As you can see, the possible sideload from the lever on 
+the agitator is taken care of by the 4 rollers at the bottom. 
+Whatever loads are left are minimal and the DGO should 
+be able to cope easily. 
+
+
+1-82 
+
+
+The design here incorporates mechanical improvements 
+that I have suggested to the customer during a visit of 
+mine some 2-1/2 months ago. This visit became necessary 
+after a sudden series of breakdowns after very short cycle 
+life to which we could not give satisfactory explanations. 
+
+
+The customer accepted my suggestions and partly re- 
+designed his product. To our embarrassment the situation 
+is still as bad as ever, which we found out just now. 
+
+
+We have had alot of goodwill by the customer but obvi- 
+ously we are now under pressure with very little time 
+and the competition falling over each other on the cus- 
+tomer’s door step. The account is worth to us $100 K + 
+with a large part being DGO sales. 
+
+
+At this moment in time we have started to conduct tests 
+with the customers device which they have put at our 
+disposal. 
+
+
+Three sample cylinders that have failed in the field after 
+less than 50 miles exhibit very bad seal wear as follows: 
+
+
+1) 2 areas radially opposed by 180 degrees on both seals 
+
+
+2) 3 areas at angles of 120 degrees on the circumference 
+on both seals. 
+
+
+3) 3 areas at angles of 0, 120, and 180 degrees on the 
+circumference. 
+
+
+We also received back an old DGO which we were told by 
+the customer was typical for what they used to have and 
+which at that point in time had done well in excess of 2 
+million cycles. The seals almost looked new ('!!) 
+
+
+I appreciate that at the moment there is not a lot you can 
+do for us but I need to gather as much information as I 
+
+
+1-83 
+
+
+can get and there is obviously an outside chance that you 
+may be aware of similar problems elsewhere or you may 
+have access to statistical data that could point in the right 
+direction or that there may be minor but possibly impor- 
+tant changes in the specs. or supplier, etc. 
+
+
+I personally still favor looking at an application specific 
+problem, however, in that case we would stil] need to 
+
+
+explain why the cylinders started to fail { i 
+1. arte, din rom a certain 
+
+
+At this stage, if there is anything that you feel might be 
+
+
+important to help us solve this problem I would i 
+ate if you let us know. —— 
+
+
+Best regards, 
+Ralf Haller 
+
+
+1-84 
+
+
+DEFENDANT'S EXHIBIT 66 
+
+
+MINUTES FROM ESS/FESTO MEETING 
+SEPTEMBER 13, 1988 
+PRESENT AT MEETING: Tim Epach, Purchasing/ 
+Production Mgr/ESS 
+William Gardner, 
+Engineering Mgr/ESS 
+Bernd Ruckdaeschel, 
+Project Engr/ESS 
+Nancy Novak, Credit 
+Mgr/ESS 
+Jonn Geragosian, Midwest 
+Regional Mgr/FESTO 
+Mike Collins, Sales 
+Representative / FESTO 
+
+
+J. Geragosian noted that Ken Hughes has been calling 
+Festo in New York and Charlotte threatening lawsuits 
+
+
+and harassing Festo personnel. 
+
+
+T. Epach stated that K. Hughes should not be talking with 
+Festo at this point and should be getting all his informa- 
+tion from ESS. He instructed J. Geragosian to have Festo 
+personnel refer Hughes to ESS if he calls again. 
+
+
+J. Geragosian asked about the agitator patent situation; T. 
+Epach explained our license agreement currently in force 
+between ESS and Hughes. 
+
+
+T. Epach gave the background on the test cylinder which 
+failed over the weekend and during last night. He stated 
+that this is a major concern at this point, i.e. whether we 
+can get one to work. He also pointed out that even if we 
+have a cylinder which will work, Festo has so far not 
+provided any data on how long they will last. He stated 
+that we need this information in order to make warranty 
+
+
+1-85 
+
+
+decisions, as well as to advise our customers on the life 
+expectancy. He stated that other cylinder manufacturers 
+provide life expectancy ratings for their products. 
+
+
+J. Geragosian stated that Festo’s test data shows a cylin- 
+der with a 25mm bore will last approximately 1800 miles / 
+stroke, 1200 miles/stroke if run unlubricated. These tests 
+were run with a load of '/w linear force at 6 bars pressure. 
+He stated that cycle rates and speeds are major factors in 
+life expectancy, and that you will generally see a 15-25% 
+reduction in life when running on an unlubricated air 
+supply. He noted, however, that no life expectancy claims 
+can be made without extended testing in a particular 
+application. 
+
+
+T. Epach stated that K. Hughes has told ESS that Festo 
+claimed at one point that the cylinders will last indefi- 
+nitely, but we cannot substantiate who made the state- 
+ment, if it was made at all. 
+
+
+W. Gardner stated that the original cylinder received 
+from Festo was run 2 million cycles, then cut down to 
+check seals, which were found to be ok. But now, we are 
+having tremendous problems with the cylinders in the 
+field. The original spec called for “clean, dry air.” Later, 
+Festo stated that the cylinders were being overlubricated 
+when assembled. 
+
+
+). Geragosian stated there are two lubrication issues, one 
+concerning the air supply and one concerning the cylin- 
+der. On the pre-lube of the piston and the yoke, Festo 
+wants to monitor them carefully to prevent overlubing. 
+
+
+1-86 
+
+
+J. Geragosian requested data on which cylinders are fail- 
+ing. It was agreed this would be provided him in approxi- 
+mately two weeks, as it is being gathered now. 
+
+
+W. Gardner stated that one cylinder which was returned 
+was on the press a maximum of 3 months, which calcu- 
+lated out to 115 miles. This cylinder has been sent to the 
+New York office for evaluation. 
+
+
+B. Ruckdaeschel stated that the current speed for the 
+cylinders is approximately 3 inches/second. 
+
+
+W. Gardner stated that the competition is running at 
+approximately 22 seconds for a 40" cylinder, while our 
+speed equates to approximately 15 seconds, which is not 
+totally acceptable to customers. 
+
+
+T. Epach stated that the failures are running approxi- 
+mately 25%. As an example, he stated that a shipment of 
+six cylinders will yield two cylinders which will fail, 
+while the other four operate properly. It appears to be a 
+question of tolerances. 
+
+
+J. Geragosian stated that ESS has an unusual application 
+for the cylinder and that tolerances indeed may be affect- 
+ing the performance. He also acknowledged that ESS is 
+experiencing seal failures. He said he suspects the prob- 
+lem may be one of not getting a clean valve shift, that air 
+is bleeding out. 
+
+
+T. Epach/B. Ruckdaeschel agreed with this statement. 
+
+
+B. Ruckdaeschel noted problems ESS is having with the 
+flow control valve, and said it appears to be the check 
+
+
+valve not operating properly at low cycle speeds; may not 
+be seating correctly. 
+
+
+1-87 
+
+
+J. Geragosian will investigate the configuration of the 
+seal. 
+
+
+B. Ruckdaeschel stated Festo may also want to look at a 
+lower micron filter, as dirt appears to be building up 
+around the needle valve, which may be contributing to 
+the switch problems. ESS plans to test a filter of 5 
+microns. 
+
+
+J. Geragosian suggested taking apart one control valve. 
+
+
+T. Epach noted that we have not had a lot of switch and 
+valve returns of late, and that ESS has worked through 
+the component problems experienced early on. He stated 
+that now we can switch cylinders on a unit and have 
+them work. 
+
+
+J. Geragosian suggested building a fixture with different 
+components to test the new cylinder; suggested using a 
+different limit switch, because he thinks that the current 
+one may not be getting a clear enough signal at the slow 
+speed. He also stated that the new seal is actually a 
+harder seal. This fixture was set up and completed on °/1s. 
+
+
+T. Epach stressed that ESS needs someone of authority 
+from the Engineering Group, and perhaps a Production 
+Manager with Festo to address the problem. He stated 
+that ESS wants to know if we are trying to do the impos- 
+sible and if we will continue to experience these prob- 
+lems. He noted that we did not see these cylinder 
+problems during the first 6-8 months of production and 
+thus we wonder what has been changed in the cylinder 
+design. 
+
+
+1-88 
+
+
+). Geragosian agreed to investigate the possibility of 
+design changes and will look into getting Engineering 
+personnel in to assist in solving the problem. 
+
+
+A copy of an ESS nvemo dated September 8, 1988 regard- 
+ing recent jcsts run on cylinders was given to J. Gerago- 
+sian. 
+
+
+J. Geragosian stated that a program could be set up to 
+rebuild cylinders out of warranty, rather than forcing the 
+customer to buy new ones. He also stated that the cylin- 
+der is not field repairable. 
+
+
+T. Epach stated that the seals are showing failure prob- 
+lems. 
+
+
+J. Geragosian stated he would like the unit with the new 
+seals to be put on a new fixture with new switches. B. 
+Ruckdaeschel stated that this would be completed today.* 
+
+
+B. Ruckdaeschel stated that he feels that low speeds will 
+create problems, and that he was told by M. Collins that 
+ESS is running at speeds not in the cylinder’s design. He 
+asked if this is indeed true. J. Geragosian stated that he 
+could not definitively answer that question. B. 
+Ruckdaeschel stated that he feels we are at the limit of the 
+cylinder’s design. 
+
+
+J. Geragosian agreed to become more involved with the 
+situation to ensure it is resolved in a reasonable time. He 
+also stated that he has been talking with Festo/West 
+Germany about whether any changes were made to the 
+cylinder, but not regarding the application. He stated that 
+
+
+“NOTE: The test fixture was completed on 9/13/88; the unit 
+failed on 9/14/88. 
+
+
+1-89 
+we need to concentrate on the design of the agitator as a 
+whole in order to resolve the problem. 
+
+
+The test cylinder was then reviewed in the Production 
+area. 
+
+
+9/13/88nrn 
+
+
+I-90 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+Plaintiff and 
+
+
+Counterclaim Civil Action 
+Defendant No. 88-1814-PBS 
+V. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI 
+CO. LTD., a/k/a SMC 
+CORPORATION and 
+SMC PNEUMATICS, 
+INC., 
+
+
+Defendants and 
+Counterclaim 
+Plaintiffs 
+
+
+Courtroom No. 6 
+Federal Building 
+Boston, MA 02109 
+9:00 a.m., Wednesday 
+July 6, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Second Day of Trial — 
+
+
+* * * 
+
+
+1-91 
+
+
+[2-19] THE COURT: Right, not for the truth of 
+it. It’s just for the marketing techniques that they use. 
+
+
+Go ahead. 
+
+
+(Plaintiff’s Exhibit No. 109, Press Release: “New 
+DGO ... ,” received in evidence.) 
+
+
+A. Yes, Exhibition 109 is the typical press release 
+which we send to the magazines and to some of our 
+distributors and employers as introducing the product 
+into the market. Direct mail campaigns, et cetera. 
+
+
+Q. Now, upon introduction of this product, the 
+DGO line, how were your marketing plans directed with 
+regard to this product as opposed to other products of the 
+company? 
+
+
+A. Well, when you come into a market which is 
+completely established as a newcomer, initially we estab- 
+lished this Highlights catalog. And it is very difficult to 
+penetrate a new market if you haven’t got anything to 
+offer what is not already on the market. 
+
+
+DGO is an innovative product, was a pacesetter for 
+us and was a great door opener when we visited cus- 
+tomers. Engineers immediately looked at this. They never 
+saw anything like it, that magnets could be used in a such 
+a configuration, and the features offered great potential 
+and immediately it was a great conversation piece. And 
+we could not only with this product sell this product 
+itself - 
+
+
+[2-20] MR. NEUSTADT: Objection, your Honor. 
+We’re again deviating from the question-and-answer for- 
+mat. 
+
+
+I-92 
+
+
+THE COURT: Yes. What’s the next question? 
+Q. Mr. Saalbach, has the product sold successfully? 
+
+
+A. The product has been successfully sold until - 
+had continued growth of one hundred to a hundred fifty 
+to 200 percent growth every year until approximately 
+1988 when it flattened out, and the sales have stagnated 
+equal since then. 
+
+
+Q. And why have they flattened out? 
+
+
+A. Because of the unfair competitiveness in intro- 
+ducing a product by SMC in the market. 
+
+
+Q. Now, is the DGO protected by patents? 
+
+
+A. The DGO has two patents, one patent developed 
+by the principal owner of our company, Dr. Kurt Stoll, 
+and the second patent which was purchased by the par- 
+ent company from an inventor in order to eliminate any 
+confrontation in the market at that time. 
+
+
+MR. HOFFMANN: Your Honor, I would like to 
+offer into evidence a certified copy of the Stoll Patent, 
+which is U.S. Patent Number 4,354,125. I show it to the - 
+
+
+THE COURT: What number is that? 
+
+MR. HOFFMANN: Plaintiff’s Exhibit 15. 
+MR. NEUSTADT: No objection, your Honor. 
+THE COURT: All right, fine. 
+
+[2-90] THE WITNESS: Okay. 
+
+
+Q. Could you explain the application you're refer- 
+ring to down in Disney World? 
+
+
+1-93 
+
+
+A. Yeah. In Disney World we have several applica- 
+tions, but two distinctive ones which I think everyone 
+would identify. 
+
+
+This is Thunder Mountain where this train comes 
+down thrashing this mountain and it’s real frightening 
+and you see this waterfall all of a sudden appearing in 
+front of you, and then this big rock falling down. And the 
+rock is actually moving through the water because of the 
+feature of the cylinder. Because it’s completely leak proof, 
+it can be used within water. It guides this rock, invisible 
+to the spectator of course, by this device. 
+
+
+The same thing with Twenty Thousand Leagues 
+Under the Sea where you have different exhibits moving 
+as a submarine moves along. Here, again, the same 
+device, the Festo device underneath water, because there 
+is no leakage so you can use it exactly that way. 
+
+
+Q. Are there any other advantages of the magnet- 
+ically coupled rodless cylinder? 
+
+
+A. Another advantage is because the yoke is only 
+magnetically coupled and not mechanically coupled, it is 
+loose. Consequently, it rotates freely around the stainless 
+steel tube. 
+
+
+1-94 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+Plaintiff and 
+
+
+Counterclaim Civil Action 
+Defendant No. 88-1814-PBS 
+V. 
+
+
+SHOKETSU KINZOKU 
+KOGYO KABUSHIKI 
+CO. LTD., a/k/a SMC 
+CORPORATION and 
+SMC PNEUMATICS, 
+INC., 
+
+
+Defendants and 
+Counterclaim 
+Plaintiffs 
+
+
+Courtroom No. 6 
+Federal Building 
+Boston, MA 02109 
+9:06 a.m., Thursday 
+July 7, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Third Day of Trial 
+
+
+. * * 
+
+
+1-95 
+
+
+[3-67] development, was my main activities, production 
+and technical sales, and my brother heads the commercial 
+side. 
+
+
+Q. And have you personally made a number of 
+developments over the years on your own? 
+
+
+A. I made more than a hundred different patents in 
+Germany and worldwide Festo itself has about 600 pat- 
+ents. 
+
+
+Q. And you're talking about patents that cover your 
+inventions? 
+
+
+A. Partly my inventions and partly covering inven- 
+tions —- and partly inventions from other engineers. 
+
+
+Q. Have you been the author of any publications? 
+
+
+A. Yes. The pneumatic field at that time was rather 
+new, so it was very important to give know-how, to give 
+application details to our customers, and that’s why we 
+had to be very active in marketing, marketing not only by 
+catalog, price lists, but also by books and by illustrations 
+in trade magazines. 
+
+
+I was the co-author of five different books and about 
+120 different prints in trade magazines. The books are 
+called in the pneumatic field, first one, Introduction to 
+Pneumatics; second one, Application of Pneumatics; the 
+third one, Pneumatics in the Woodworking Industry; 
+number four, Pneumatics in the Packaging Industry; and 
+the fifth one, Cutting Cost With the Help of Pneumatics. 
+
+
+Besides these books, we have our own trade [3-68] 
+magazine which we send out to 40,000 different cus- 
+tomers in 50 countries, and this trade magazine comes 
+
+
+1-96 
+
+
+out every four months and I am the publisher of it. It’s 
+called Pneumatic Tips. 
+
+
+Q. Now, in regard to the books, what's the scope of 
+publication on the books, the distribution? 
+
+
+A. The first book, the oldest one, called Introduc- 
+tion to Pneumatics, passed the ninth edition just last 
+week, and it’s printed in 14 different languages so we can 
+utilize it as a sales help in our 40 different countries, 
+Festo countries. 
+
+
+Q. Have you had anything to do with developing 
+an understanding of terminology in the pneumatics 
+industry? 
+
+
+A. Yes, we found a need on the market that there is 
+no dictionary about special terms in the fluid power 
+industry, and I got a little bit angry about it and started 
+the first 50 pages myself and now today it’s on the open - 
+you know, the book shops or whatever, an English /Ger- 
+man, German/English dictionary about fluid power, 
+expressions for this industry, and also for schools and 
+universities. 
+
+
+MR. HOFFMANN: Your Honor, I'd like to mark 
+for identification Plaintiff’s Exhibit 610. 
+
+
+THE CLERK: Award marked as Plaintiff's 
+Exhibit 610 for identification. 
+
+
+THE COURT: Well, we don’t need it for [3-69] 
+identification. Let’s not do that. Any objection? 
+
+
+MR. NEUSTADT: Your Honor, I was not pro- 
+vided with the translation of this, so I’m hopeful that 
+someone will tell me what's said here. I have no idea, so 
+
+
+1-97 
+
+
+I'd like to wait until after the witness testifies before | 
+state an objection or not. 
+
+
+THE COURT: Well, I don’t want - all right, but 
+
+
+we're normally not going through the ID route, is that 
+true - 
+
+
+MR. HOFFMANN: Okay. 
+
+
+THE COURT: - because that takes too much 
+court time. 
+
+
+THE CLERK: So I can - 
+
+
+THE COURT: You will, because when it’s trans- 
+lated - although that looks like Latin, not German. Is it? 
+
+
+THE WITNESS: That’s German. But we can 
+leave it out if you want. 
+
+
+THE CLERK: 610 marked for ID. 
+
+
+(Plaintiff's Exhibit No. 610, Diesel award, marked for 
+identification.) 
+
+
+BY MR. HOFFMANN: 
+
+
+Q. Dr. Stoll, I’m going to show you Exhibit 610 and 
+maybe you can explain what this is and what it says for 
+the Court. 
+
+
+A. I received a gold medal for making inventions. 
+It’s [3-70] called the Diesel. Diesel is the diesel engine. 
+And on account of Mr. Diesel a few hundred years ago, 
+the German patent office is handing out three to four 
+
+
+oo per year for extraordinary inventions in various 
+ields. 
+
+
+Q. And is this an award that you received? 
+
+
+1-98 
+
+
+A. Yes. 
+
+
+And when did you receive it? 
+
+
+0 
+
+
+A. It was last year. 
+
+
+THE COURT: Wait a minute. So it’s not in yet. 
+
+
+MR. HOFFMANN: Okay. I want to offer it in 
+evidence. 
+
+
+MR. NEUSTADT: No objection, your Honor. 
+
+
+THE COURT: Fine. 
+(Plaintiff’s Exhibit No. 610 marked in evidence.) 
+
+
+MR. HOFFMANN: Your Honor, I have two 
+others, award-type documents. 
+
+
+THE COURT: Just show it to him, have him 
+
+
+identify it and we'll mark it as an exhibit. Why don’t you 
+show it first to Mr. Neustadt. 
+
+
+MR. HOFFMANN: Fine. He’s seen them 
+already. Exhibits 592 and 593 shown to the witness. 
+
+
+A. The first one is an honorary doctor’s degree from 
+the Technical University in Vienna, Austria, and the sec- 
+ond one is a medal received from the German govern- 
+
+
+ment. 
+[3-71] Q. And the award from the Technical Univer- 
+sity in Austria, what is that for? 
+
+
+A. For our - for my achievements in the technical 
+field of fluid power. 
+
+
+Q. And the other award relating to the German 
+government, what is that for? 
+
+
+1-99 
+
+
+A. That’s also for the same achievements. 
+
+
+MR. HOFFMANN: Your Honor, I'd like to 
+move Mr. Stoll’s awards into evidence. 
+
+
+MR. NEUSTADT: No objection. 
+
+
+THE CLERK: University award marked as 
+Plaintiff's Exhibit Number 592, and German Federal Ser- 
+vice Cross award marked as Plaintiff’s Exhibit Number 
+593. 
+
+
+(Plaintiff’s Exhibit Number 592 marked in evidence.) 
+(Plaintiff's Exhibit Number 593 marked in evidence.) 
+
+
+BY MR. HOFFMANN: 
+
+
+Q. Dr. Stoll, are you a member of any organiza- 
+tions? 
+
+
+A. Here in the U.S.A. you have a National Fluid 
+Power Association where most of the manufacturers are 
+combined. We have a similar association called VDMA 
+with the same function in Germany, and I was sitting on 
+the board of directors up to last year for the last 15 years. 
+
+
+Q. Are you a member of any other technical organi- 
+zations? 
+
+
+A. German Engineering Society, VDI, I’m also a 
+member and guest speaker. 
+
+
+[3-72] Q. Now, Dr. Stoll, in the years that you've 
+been with the company since 1957, have your respon- 
+sibilities grown? 
+
+
+A. At the very beginning where we were a rather 
+small group, I had many more fields of activities as today, 
+
+
+1-100 
+
+
+where today I’m concentrating more on technique and 
+organization only. 
+
+
+Q. Is there still a portion of your time involved in 
+the development of new products? 
+
+
+A. I would say at least half of the time is spent for 
+new inventions. Festo is known to bring on to the Hano- 
+ver exhibition each year at least 30 or 40 inventions. 
+
+
+Q. So since you’ve been with the company, you've 
+been heavily involved in the development of products, is 
+that correct? 
+
+
+A. Yes. 
+
+
+Q. Now, Dr. Stoll, I’m going to show you a copy of 
+the patent in suit, Plaintiff's Exhibit 15. Do you recognize 
+this patent? 
+
+
+A. Yes. 
+
+
+Q. Is this a patent that covers an invention of yours? 
+
+
+A. Yes. 
+
+
+Q. Could you give us some idea as to how you first 
+became involved with the technology that resulted in this 
+patent invention? 
+
+
+A. Here we are speaking of a linear drive, linear 
+motor [3-73] driven with compressed air. 
+
+
+When we started in the pneumatic field and visiting 
+customers with our first products, we found differently - 
+a need on the market side not only for short-stroke, 
+medium-stroke, but also for long-stroke cylinders, long- 
+stroke in the sense of ten-foot and going even more up to 
+50-foot. This - 
+
+
+1-101 
+
+
+Q. What time period are we talking about? 
+
+
+A. Around in the sixties. There was nothing on the 
+market which could go to such long strokes and I was 
+really tempted to do something in that field. I was look- 
+ing around what kind of functions could be - could be 
+used for this - for this solution. 
+
+
+And you all know about the mail chute which is also 
+pneumatically driven. You have a tube and inside a cap- 
+sule which moves back and forward by air pressure, but 
+this kind of application has a lot of limitations, mainly 
+weight and also in volume. 
+
+
+So the basic idea was, why not take a load inside the 
+capsule where you want to transport something, mail or 
+whatever, why not take it outside the tube and take the 
+
+
+tube only as a driving means and the load outside of the 
+tube. 
+
+
+So there was your basic idea of the first linear cylin- 
+der. And the question came: How can we transform, 
+transmit the interior force, the interior driving energy, to 
+[3-74] the outside, to the load? And from physics we 
+know what we could use a magnetic coupling. If I put a 
+magnet inside and a magnet outside, have a carriage 
+inside, have a carriage outside mounted on rollers, then I 
+could prove that with this prototype that the idea was 
+correct, was working. 
+
+
+Q. Were you aware of anything like that at the time? 
+A. Pardon? 
+
+Q. Were you aware of anything like that at the time? 
+A. No. 
+
+
+1-102 
+
+
+Q. So did you go about trying out this idea? 
+
+
+A. Yes, I built a prototype with a long plastic tubing 
+and used a carriage inside and a carriage outside con- 
+nected or coupled with a permanent magnet. 
+
+
+Q. And did you actually build this in a room at 
+Festo or how did you go about it? 
+
+
+A. Yes, in our workshop we had made it up and it 
+worked. 
+
+
+Q. Now, are we still talking about 1960's, is that 
+correct? 
+
+
+A. Correct. 
+
+
+Q. Now, when you tried out your idea in this 
+nature, the magnetic coupling in a tube with the carrier 
+on the outside, what did you do when you built it and 
+observed it? Did you take any action? 
+
+
+A. The first action was to apply for a Petty patent in 
+Germany, which we received, to cover the basic idea. 
+
+
+* * * 
+
+
+[3-90] worked, what didn’t. 
+
+
+A. We tried on the outside, we tried various mate- 
+rial where it’s hardness, soft-hard, even up to metal and 
+we found that a semihard wiper action was giving us the 
+best solution for wiping as well as for guiding the outer 
+magnets. 
+
+
+On the inside, we first started to make a soft seal 
+only without the guide. But then the soft seal was bearing 
+down so fast on account of the eccentric action, on 
+account of friction, that I mentioned before, so that the 
+
+
+I-103 
+
+
+only solution was to split the two functions, which is 
+leakage and which is a way of - friction, to split the two 
+functions also in two different materials. 
+
+
+MR. HOFFMANN: Maybe it would be helpful 
+if you come over here if it’s all right, your Honor, because 
+he’s talking about a vacuum as to where he’s working in. 
+
+
+THE COURT: Yes. 
+
+
+Q. Now, you were just explaining that you're talk- 
+ing about on the inside. Do you mean the inner piston? 
+Why don’t you show us where that is. 
+
+
+A. The inner piston is here. 
+
+
+Q. You said you tried a soft ring first, a soft type of 
+seal ring, is that correct? 
+
+
+A. Right. 
+Q. What happened when you tried that? 
+
+
+[3-91] A. The soft ring was bearing down relatively 
+fast on account of the eccentric motion. 
+
+
+THE COURT: You know, this is a problem with 
+this huge room. If you’d just standing so that your back 
+isn’t totally to me. I just couldn’t hear at all what you had 
+to say. 
+
+
+THE WITNESS: Should I stand on this side? 
+
+
+THE COURT: No. That way the jurors don’t 
+hear. Just like were you are right now would be fine. 
+
+
+THE WITNESS: Okay. The Piston is here, the 
+soft seal is here, and when we took only a soft seal, then 
+the soft seal would wear down very fast because we have 
+too much friction for the two magnets. 
+
+
+1-104 
+
+
+Q. Does that relate to that radial force you were 
+talking about? 
+
+
+A. Off the radial force, correct. 
+
+
+And then we found that we have to split the two 
+functions of sealing against air and of guiding against 
+friction to split these two different functions into two 
+
+
+different material - 
+Q. First before you split it - 
+
+
+A. -a soft material for leakage and a hard material 
+for wear, because both together would be a compromise 
+and would not work. 
+
+
+Q. Okay. Now, before you tried to split them 
+between a [3-92] softer and a harder material, did you try 
+to just make the first ring harder? 
+
+
+A. Yes. We tried to make the first ring harder but 
+then the sealing effect was limited. Because in the tubing 
+we get unevenness, and the unevenness of the tubing of 
+the surface, of the inside surface of the tubing you can 
+seal only if you take a soft enough seal. With 7" hard seal 
+you won't get a leakage free surface. So that’s why we 
+had to go back to a soft seal and the hard seal did not 
+work for these two functions which are necessary to 
+make it movable. 
+
+
+Q. So you said then you tried two different rings. 
+
+
+A. Two different rings and two different materials, a 
+soft material for sealing and a hard material for guiding. 
+
+
+Q. And how did you take care of the dirt problem 
+you were talking about? 
+
+
+1-105 
+
+
+A. The dict problem we have inside and outside. 
+Inside for the dirt which comes with the compressed air 
+and also the dirt which could come from impurities from 
+the steel tubing itself or from the magnet. 
+
+
+On the outside, we have no compressed air, so out- 
+side we have to fight only against the dirt from the 
+outside. And that’s why we could go here to a harder seal 
+than on the inside because we don’t - 
+
+
+THE COURT: Now that you've confused me, 
+are we talking about a harder seal or a harder wiper? See 
+these [3-93] terms are being used - 
+
+
+THE WITNESS: I just wanted to say a harder 
+seal like inside we could not take. We could not take 
+because outside we don’t have any compressed air, so it 
+doesn’t have to be soft. We went right away to a harder 
+wiper. And the harder wiper has two functions: A wiping 
+function against the dirt and a guiding function against 
+the friction. So by combining these two functions against 
+dirt and friction, we are able to solve the outside portion, 
+because outside we don’t have the leakage problem. 
+
+
+Whereas, there are three problems inside. Leakage, 
+friction and dirt we were able to solve with the principle 
+which I mentioned, which is the soft seal and a separate 
+hard seal - guide for guiding. Excuse me. 
+
+
+Did I make it clear? 
+
+
+Q. Right. So I think that’s clear enough. And you’re 
+able to take care of the three internal problems, sealing, 
+wiping, and guiding - 
+
+
+A. And guiding. 
+
+
+1-106 
+
+
+Q. - by the two sets of rings, is that correct? 
+A. And outside the two solutions. 
+
+
+Q. Okay. 
+
+
+THE COURT: Excuse me. Now, when you say 
+“outside two solutions” - 
+
+
+THE WITNESS: Two functions. 
+(3-94] THE COURT: Two functions. 
+
+
+THE WITNESS: Two functions, solutions for the 
+two problems; for the problem of wear and the problem 
+of dirt. Outside we don’t have the problem of leakage. 
+
+
+THE COURT: That’s two wipers? 
+
+THE WITNESS: Pardon? 
+
+THE COURT: How many wipers? 
+
+THE WITNESS: One wiper for each side. 
+Q. Okay. 
+
+
+Did you eventually reach a satisfactory solution in 
+this matter? 
+
+
+A. Yes. 
+
+
+Q. How long a period of time are we talking about 
+that you tried these different things and materials and 
+rings and solutions to come up with the answer? 
+
+
+A. That’s a time consuming process because we 
+wouldn’t go to the market with any prototype which is 
+not tested at least for a few million cycles or 10,000 
+kilometers. That means we go into a torture test so that 
+
+
+1-107 
+
+
+we can prove the quality before it goes to the customer. 
+Otherwise, we could not be specified as the first Euro- 
+pean company by General Motors to become a supplier, 
+so quality is quite a big issue for us. 
+
+
+It’s not only a slogan or a nice pamphlet, but for this 
+quality test it took a long time not only for this [3-95] 
+product but for other products to come to the final solu- 
+tion. 
+
+
+Q. Why don’t you go back to the stand. I think that 
+will be adequate for that. 
+
+
+A. (Witness complied.) 
+
+
+Q. Did there come a point in time when you applied 
+for a patent when you felt you had a unique design and 
+applied for a patent? 
+
+
+A. After going through all of these details here and 
+getting the final results from the torture test chamber, I 
+found now we had made a big step, a big progress in the 
+right direction and that should be covered by a patent 
+because it’s a real step forward for making a lineal motor 
+with a magnetic coupling workable. 
+
+
+© And what was the essence of the invention that 
+you felt you had that was in that application? 
+
+
+A. The essence was to solve the three problems, 
+leakage, dirt and friction and the solution of it, the soft 
+seal, the hard guide and the wiping and guiding function. 
+
+
+Q. Okay. 
+
+
+Is that the patent that we’re involved with here the 
+Plaintiff's Exhibit? 
+
+
+1-108 
+
+
+A. Yes. Claim No. 1 is concentrating on these three 
+functions. 
+
+
+Q. Now, at the time, were you involved directly 
+
+
+a * * 
+
+
+[3-110] A. If I recollect it correctly, it was a little 
+later. . 
+
+
+Q. It was a little later? 
+
+A. Yes. 
+
+Q. Do you know how much later? 
+
+A. Not exactly. 
+
+Q. Today, it is your belief that radial is better than 
+axial? 
+
+
+A. They both work. Technically they only have the 
+price difference on account of the different production 
+
+
+procedure. 
+
+
+Q. We're talking about your patent. Is there any 
+other aspect of your patent that you feel is not necessary 
+in the U. S. Patent? 
+
+
+A. I found a difference in Claim No. 1. I mean, in 
+the main claim, because it reads different in the American 
+Patent than in the seven other countries where we've also 
+got the patent, which does not contain the mentioning of 
+magnetizable sleeve. This wording is not mentioned in 
+claim No. 1 in all other countries that we applied for the 
+patent. Only in the American one this language came in. 
+
+
+Q. And what is your concern about that language? 
+
+
+1-109 
+
+
+A. Well, it’s not of importance, the magnetizable 
+sleeve, because it doesn’t have to do anything with the 
+function, what we mentioned before about friction, about 
+leakage, about dirt. This shielding effect of the magnetiz- 
+able sleeve is outside and is not even touching all the 
+three [3-111] elements, wiping, guiding and sealing, what 
+we mentioned before. 
+
+
+Q. So what you’re saying, in the essence of the 
+invention, you don’t believe that the sleeve has any 
+effect? 
+
+
+MR. NEUSTADT: Objection, leading. 
+THE COURT: Sustained. 
+
+
+A. It has a shielding effect, and we did not specify 
+any material with our claim. We said only if you use. 
+
+
+Q. Okay. Let me go to that. 
+
+
+In the specification you suggest the use of a magne- 
+tizable sleeve as a possible portion of the structure, is that 
+correct? 
+
+
+A. Correct. 
+Q. And why did you put that in? 
+
+
+A. The only function of the magnetizable sleeve is 
+to keep the magnetic flux, the magnetic field inside the 
+lineal motor. That was the only reason for putting it in. 
+
+
+Q. Now, have you found anything out about that 
+feature over the years since you filed the application? 
+
+
+THE COURT: Can I back up for just one sec- 
+ond? 
+
+
+I-110 
+
+
+THE WITNESS: Yes. 
+
+
+THE COURT: What do you mean by magnetiz- 
+able sleeve? 
+
+
+THE WITNESS: Magnetizable sleeve, it can be 
+any material which is magnetizable. We did not state any 
+
+
+* * * 
+
+
+[3-115] car. In both functions you need an outer shell. 
+MR. HOFFMANN: Okay. 
+
+
+THE WITNESS: And it doesn’t matter whether 
+we take steel, aluminum or whatsoever. 
+
+
+Q. Now, during times you gave testimony in this 
+case. At one time we were talking about seal rings. How 
+many seal rings do you have on a Festo cylinder? 
+
+
+A. If you take a rodded cylinder, we can work with 
+one seal ring if it acts in both directions. 
+
+
+If you have more space, like here, on the DGO and 
+magnetic tie, we prefer a sealing on each side outside the 
+magnets. A soft seal on this side, a soft seal on this side. 
+
+
+Q. Could you come over again? Maybe it’s best to 
+work with your drawing. 
+
+
+A. (Witness complied.) 
+
+
+Q. When you're referring to the piston, you have a 
+seal ring shown. What seal rings are on the piston? I'm 
+talking about the magnetically coupled ones? 
+
+
+A. We have here the seal ring, and the seal rings 
+have to get the air tightness, leakage zero from the com- 
+pressed air here. So we can take two different kind of seal 
+
+
+I-111 
+
+
+rings. A, a seal ring which works from both directions, 
+like an O ring, for instance, or a double seal, or, what we 
+prefer is the single seal, which works only for this direc- 
+ner or the [3-116] second one, for this direction (Indicat- 
+ing. 
+
+
+So you can take either two seals or you can take one 
+single seal. They both work, but the double seal has more 
+life expectancy. Because a double seal has a self compen- 
+sating effect. Even if it wears down, it still is pressed out 
+by air pressure. Whereas, a single seal, either a round or 
+any kind of figure, configuration, if it wears down, it 
+does not have a self-compensate - a way of compensating 
+for that. 
+
+
+| So you either can take a single seal for the piston or - 
+which is working in both directions, or you can take two 
+seals which are working in one way and in one way. 
+
+
+THE COURT: And just to be clear, when you 
+are saying two seals, you mean one seal on each end? 
+
+
+THE WITNESS: Right. 
+THE COURT: Not two seals on each end? 
+
+
+THE WITNESS: No, one seal here and one seal 
+here, on each end. 
+
+
+Q. Now, if you use a two-way seal, which you can 
+use, you said - 
+
+
+A. Right. 
+Q. - you'd need one on each end? 
+
+
+A. No, only one, only one. 
+
+
+I-112 
+
+
+Q. So when you were - 
+
+
+A. A one-way seal here, a one-way seal here, or a 
+double [3-117] seal, two-way seal, whatever you call it, on 
+one side only is sufficient. 
+
+
+Q. Now, you could put two, or four, or six or eight? 
+A. Any kind, but minimum of one. 
+Q. Okay. 
+
+
+Now, when you were talking about the Festo struc- 
+ture and using always two, were you talking about the 
+two one-way seals? 
+
+
+A. Two one-way seals. 
+
+
+Q. Why does Festo prefer that in their commercial 
+form? 
+
+
+A. Because you get a higher life expectancy and 
+because you have a redundancy effect. If one breaks 
+down, you still have the other. 
+
+
+Q. Okay. 
+
+
+Now, during that period of questioning, you were 
+asked if there was only one sealing ring, you said dirt 
+could get in. What did you mean by that? 
+
+
+A. The sealing ring acts for leakage, as well as for 
+dirt. So if you would eliminate the sealing ring, you still 
+have the guiding ring which take away the dirt or impu- 
+rities. 
+
+
+Q. And that would keep it from the magnets? 
+A. Keep it from the magnets. 
+
+
+I-113 
+
+
+Q. Now, if you didn’t have a guide ring in there, 
+what would happen? 
+
+
+[3-118] A. Then you would get the dirt to the guide 
+rings, if you don’t have a seal ring. So the best mode is 
+from - the minimum mode is two guide rings, one sealing 
+ring and the best mode is two plus two. 
+
+
+Q. Okay. 
+
+
+| MR. HOFFMANN: I'm trying to think if there is 
+anything else we haven't covered. I don’t think so. I think 
+that’s all I have. 
+
+
+THE COURT: Thank you. 
+
+
+Let me just ask you this, Mr. Neustadt. Do you need 
+
+
+Dr. Stoll up here or would you rather have him back on 
+the stand? 
+
+
+MR. NEUSTADT: Back on the stand. 
+
+
+THE COURT: Back on the stand. That's great. 
+Why don’t you move the chart back. 
+
+
+MR. NEUSTADT: Over there? 
+THE COURT: Yes. 
+
+
+While we're doing this, why don’t you stand and stretch, 
+a final stretch. 
+
+
+CROSS-EXAMINATION BY MR. NEUSTADT 
+Q. Dr. Stoll, can you see this all right? 
+A. (Nodes head.) 
+
+
+I-114 1-115 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+Q. This is a model that we made. This is the inner 
+member or the piston, and this is the tube and this is 
+
+
+what 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and Counterclaim _: Civil Action 
+Defendant No. 88-1814-PBS 
+
+
+V. 
+
+
+SHOKETSU KINZOKU KOGYO 
+KABUSHIKI CO. LTD., a/k/a 
+SCM CORPORATION and 
+
+SMC PNEUMATICS, INC., 
+
+
+Defendants and Counterclaim 
+Plaintiffs 
+
+
+Courtroom No. 6 
+Federal Building 
+
+Boston, MA 02109 
+9:10 a.m., Friday 
+
+July 8, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Fourth Day of Trial 
+
+
+[4-20] refers back to that statement there that we read 
+before? 
+
+
+A. Right. 
+
+
+1-116 
+
+
+Q. So you do have responsibility for this, do you 
+not? 
+
+
+A. Yes, but I don’t have responsibility for claim 
+number 1, which was totally changed. That’s what I men- 
+tioned before. I don’t feel responsible for claim number 1, 
+which is completely different from claim number 1 in 
+German, British/English, seven other countries, and 
+claim number 1 in the American final, converted, 
+improved, changed claim number 1. That was what I was 
+referring to and not to the general description. 
+
+
+Q. Is there any way in which someone reading your 
+patent would know that you do not feel that you’re 
+responsible for the language in the patent? 
+
+
+A. I’m responsible for the language in the pateat if I 
+know of, but for the changed version, this was not my - 
+this I didn’t come across to me. This was signed here. It 
+says here: “Attorney signing the application letter.” Here 
+(indicating) are the page numbers, so and so, and what 
+we mentioned just now. On the back page states my 
+signature an don the front page it says: “Attorney signing 
+the application” of the changed version where the 
+number 1 claim, the important claim, was changed with- 
+out my knowledge, That’s what I meant. I cannot be held 
+responsible for a change which I didn’t know. 
+
+
+* * * 
+
+
+[4-57] you don’t have to differentiate, and at that time we 
+had only radial. 
+
+
+Q. Now, Dr. Stoll, we were discussing yesterday the 
+difference between one seal and two seals? 
+
+
+A. Correct. 
+
+
+1-117 
+Q. Okay. And I think you told me that on all Festo 
+rodless cylinders there are two seals. 
+A. Preferably. 
+Q. Pardon me? 
+Q. Preferably. 
+
+
+Q. Preferably. I’m not asking about preferably. I’m 
+asking about a fact. 
+
+
+A. That’s what I mentioned yesterday. You can do it 
+with two or with three. 
+
+
+Q. Yes, but my question is how has Festo done it in 
+the past with its commercial rodless cylinders. 
+
+
+A. We have done it with two single-acting, one-way 
+seals. 
+
+
+Q. Always two, correct? 
+A. Correct. 
+Q. Okay. Now, you remember | referred - 
+
+
+A. What I showed you yesterday on my sketch 
+where we were also doing it with one double-acting seal. 
+
+
+Q. Now, you remember the deposition testimony 
+that I referred to previously with Mr. Kelly. This was in 
+Mr. Hoffmann’s office? 
+
+
+[4-58] A. I wouldn’t recall the details. 
+
+
+Q. And do you remember he too asked you about 
+the use of two seals? 
+
+
+A. Two soft seals. 
+
+
+1-118 
+
+
+Q. Well, we'll see. Let me show you what his ques- 
+tion and your answer was. This is Mr. Kelly referring to 
+your patent. 
+
+
+“Continuing down column one, line 49, there’s refer- 
+ence to a piston which is slidable in the tubular part and 
+then the disclosure goes on to say and which has sealing 
+means at each end for wiping engagement with an inter- 
+nal surface of the tubular part. My question, Mr. Stu, is, 
+who suggested using two sealing means on the piston?” 
+
+
+And then your answer was: “You always need two 
+when there’s a double cylinder, so I proposed it.” 
+
+
+And then Mr. Kelly said: “When you say double 
+cylinder, you mean double-acting?” 
+
+
+A. Correct. 
+
+
+Q. And your answer was: “Yes. I suggested it 
+because you always need two when there’s double-acting 
+cylinder.” 
+
+
+And then Mr. Kelly said: “What will happen if I only 
+use one sealing means?” 
+
+
+And then your response was: “Then on the side 
+where there’s no seal, dirt could come in. Attracted by the 
+magnet.” 
+
+
+[4-59] And then Mr. Kelly finished up with: “To your 
+knowledge, has Festo ever made a rodless cylinder with 
+only one sealing means?” 
+
+
+And your answer at that time, at least, was: “Always 
+both sides. Always two. One on each side or one on each 
+end.” 
+
+
+I-119 
+
+
+A. That is correct, and that’s what I mentioned yes- 
+terday. There are two ways of doing it. There’s a double- 
+acting, two-way seal, and there are single-acting seals 
+where you need two, and the life expectancy is much 
+higher in a one-way seal where you need two pieces. I 
+made it quite clear yesterday. : 
+
+
+Q. And in this testimony here, didn’t you say that 
+you need two seals to keep the dirt out? 
+
+
+A. Yes. 
+
+
+Q. And do you remember in the patent office in the 
+prosecution of your patent telling the patent office the 
+
+
+same thing, namely that it was necessary to keep the dirt 
+out? 
+
+
+A. The dirt out? You can do it by the soft seal as 
+well as by the guiding ring. 
+
+
+Q. Well, I’m not asking you how you can do it. I’m 
+
+
+_ asking you if you recall what you told the patent office, 
+
+
+and maybe I can help you by showing you exactly what it 
+was that was said in your application. 
+
+
+[4-61] A. Uh-huh. 
+
+
+Q. And that’s what he’s talking about when he says: 
+“These references.” 
+
+
+He says: “These references,” which were the two 
+patents cited by Festo, “are obviously clearly distinguish- 
+able over the subject matter of the claims” - those are 
+your claims - “now present in this application.” 
+
+
+1-120 
+
+
+And then he says: “It is clear that neither of these two 
+references discloses the use of structure preventing the 
+interference by impurities located inside the tube and on 
+the outside of the tube while the arrangement is moved 
+along the tube.” 
+
+
+Is your understanding of this statement that the two 
+references did not disclose a mechanism for keeping the 
+dirt out? Is that your understanding of this statement? 
+
+
+A. Impurities? Yes, located inside and outside, cor- 
+rect. 
+
+
+Q. These are the impurities that you said before can 
+be attracted by the magnet. 
+
+
+A. In the sense of dirt. Impurities and dirt is the 
+same, right? 
+
+
+Q. Right. 
+A. Okay. 
+
+
+Q. So this was the statement, as you understand it, 
+by your attorney to the patent office in your patent appli- 
+cation that your invention distinguished over these [4-62] 
+references because you were able to keep the dirt out? 
+
+
+A. Correct. 
+
+
+Q. Okay. And do you recall that you said to Mr. 
+Kelly in that deposition we just read that if you have only 
+one seal, the dirt will come in on the side that doesn’t 
+have the seal? 
+
+
+A. Again, the same what I mentioned before, yes 
+and no. 
+
+
+I-121 
+
+
+Q. And so isn’t it true that if the cylinder that we 
+are examining has only one seal and let’s the dirt come in, 
+
+
+that it is not part of your invention as recited in this 
+exhibit? 
+
+
+A. Could you repeat that, please? 
+Q. Let me rephrase it. 
+
+
+In this statement to the patent office, you're saying 
+
+
+that your invention is important because it keeps the dirt 
+out. 
+
+
+A. Correct. 
+
+
+Q. And that the other references don’t keep the dirt 
+
+
+A. Correct. 
+
+
+Q. And in the deposition that we just read with you 
+and Mr. Kelly, you told Mr. Kelly that it you had only one 
+seal, dirt would come in where you did not have a seal, 
+attracted by the magnet? 
+
+
+A. In the one-way seal. 
+
+
+Q. So here you’re arguing that your invention dis- 
+tinguishes over the prior art because it keeps the dirt 
+
+
+* - » 
+
+
+[4-100] Incidentally, in this certified copy we have 
+established that it is totally out of order. Papers get mixed 
+up in a patent office and so I’m having difficult. 
+
+
+Q. Well, here is the board. 
+A. May I go over there? 
+
+
+I-122 
+
+
+The examiner issued his office action, which gives 
+the results of his examination. And, essentially, what he 
+said, this is a paper attached to it, it’s a summary form. 
+Essentially he allowed the claims, which would have 
+gone to patent, but he had some questions as to formal- 
+ities, which, again, is a very common thing. His questions 
+as to formalities under certain sections, they set these 
+sections. The sections they’re referring to here, 35 U.S. 
+Code 112 say you have to be clear. Remember | told you 
+in the application, you have to present it to the office, you 
+have to present a very clear specification as well as 
+clearly pointing out the claims. 
+
+
+The examiner had a question. “Exact method of oper- 
+ation unclear.” And he then specifically simply asked a 
+question. “Is device a true motor or magnetic clutch?” He 
+just said, what is it, one or the other? 
+
+
+Now, when they went in the application, which was 
+translated from the German, it called this whole deal here 
+that we’re talking about a linear motor. The examiner had 
+this question on that point. A question simply as to 
+[4-101] semantics. 
+
+
+He also said, “Improperly multiply dependent.” He 
+was talking about the claims. You have to specifically 
+number the claims in a certain way. Under a German 
+practice or foreign practice. 
+
+
+THE COURT: Hold on. 
+(Fire engine going by.) 
+
+
+THE COURT: It’s hard enough to hear in this 
+courtroom without outside interference. 
+
+
+(Pause.) 
+
+
+1-123 
+
+
+THE COURT: All right. 
+THE WITNESS: Thank you, your Honor. 
+
+
+A. Under German practice and other countries’ 
+practice they can give certain numbers in the dependent 
+claims, referring back to more than one or two. It’s easily 
+straightened out - because remember I said it was a 
+translation of the German - by renumbering. So the 
+examiners found no art, no prior art, nothing in his 
+examination that said you can’t have a patent because 
+Jones shows this and Smith shows that. He said: I find it 
+allowable. Clear this up, tell me what it is. 
+
+
+Q. Okay. 
+
+
+Now, as a result of that action, was there a response 
+by the applicant’s attorney? ? 
+
+
+A. Yes. 
+
+
+[4-102] Incidentally, you have a three-month period 
+in which to respond back. You have the right to respond 
+back to the examiner with respect to this office action. It’s 
+called a response. And, again, all of this has to be in 
+writing. 
+
+
+Q. Now, what was contained in the - we have 
+another board here, maybe you can exp!ain what's on this 
+board for the Court and the jury. 
+
+
+A. Should I come there? 
+Q. Yes. Why don’t you move over there. 
+
+
+THE COURT: The one with file history on it is 
+exhibit? 
+
+
+1-124 
+
+
+MR. HOFFMANN: The one with the file history 
+the office action on it is P-68, I believe. 
+
+
+A. Correct, Plaintiff's Exhibit P-68. 
+
+
+THE COURT: Do the jurors have that in their 
+little book? 
+
+
+MR. HOFFMANN: Yes. 
+
+
+THE COURT: Okay. Now what are we going to 
+now? 
+
+
+MR. HOFFMANN: 31A which is not in the 
+book but it’s the Claim 1 of the issued patent. 
+
+
+THE COURT: Which is Exhibit 14. 
+MR. HOFFMANN: Right. 
+
+
+THE COURT: Don’t they have the issued patent 
+in [4-103] their book? 
+
+
+MR. HOFFMANN: The issued patent’s in the 
+book, yes. That’s the exhibit right in the beginning, the 
+first exhibit is the issued patent. Claim 1 of the issued 
+patent. 
+
+
+THE COURT: All right, you have all these three 
+documents in your book. You can go back and forth with 
+them when you hit the deliberation room. 
+
+
+Q. Now, why don’t you explain what happened or 
+how a response was filed by the applicant's attorney. 
+
+
+A. The exact is in the file history, but this is essen- 
+tially what hoppened here. the United States attorney for 
+Dr. Stoll in response to that office action came back and 
+he canceled Claim 1, which is that claim over there, 
+
+
+1-125 
+
+
+original Claim 1, he canceled it, which is permissible 
+under the practice; and he canceled some other claims of 
+
+
+those original 12, and he inserted a new claim, which was 
+13. 
+
+
+At the very end of examination as a patent issues 
+they renumber all the claims. It may be confusing when 
+we talk about original Claim 1 and now new Claim 1 
+which went in as 13. Claim 1 in the patent was this Claim 
+13 that went in at this point. 
+
+
+When the U. S. attorney for Dr. Stoll put in this Claim 
+13 that I'm pointing to here, he added additional lan- 
+guage to the claim. He also made a very brief statement 
+to the patent office saying: I’m resubmitting this and here 
+[4-104] it is. 
+
+
+He also, at that time canceled or amended the claim - 
+Strike that. 
+
+
+What he did in his claim that he resubmitted, he no 
+longer referred to either a linear motor or a clutch, but he 
+used entirely new words. He used “in an arrangement” 
+and so forth. So in his new claim he did not answer that 
+directly. 
+
+
+Q. In your opinion what did he do? What had he 
+done? 
+
+
+A. Well, he added a lot of unnecessary language. 
+MR. NEUSTADT: Objection. 
+THE COURT: Overruled. 
+
+
+Q. Can you point to any particular language tha? is 
+significant here to what we're talking about? 
+
+
+1-126 
+
+
+A. Well, right here the words we've been hearing - 
+
+
+THE COURT: Unless they've got the greatest 
+eyesight in the world... 
+
+
+Q. You will have to read it and they have copies of 
+the claim. Count down the lines of the claim perhaps and 
+they can follow - 
+
+
+A. Well, it’s not the same as in their book. I'll read 
+it. There is a statement in here. “Wherein said driven 
+member includes a cylindrrical sleeve made of a magne- 
+tizable material and encircles said tube,” he added this 
+language among a few other things in there which in my 
+opinion - 
+
+MR. NEUSTADT: Objection, your Honor, move 
+to [4-105] strike. He’s giving testimony now - 
+
+
+THE COURT: Overruled. It’s his opinion it’s 
+unnecessary language. You can cross on it. 
+
+
+Now, what's the next question? 
+Q. I would like him to finish the answer. 
+What is your opinion on adding that language? 
+
+
+A. He added this terminology, he added that term 
+in there which in my opinion is unnecessary. The exam- 
+iner was willing to allow the claim, as I pointed out over 
+here, he just had a couple of questions here. In my 
+opinion, all that was necessary for the U. S. attorney to 
+say is it’s a linear motor, that’s. what | take it to be, the 
+testimony is it’s a linear motor. 
+
+As to the second, he simple had to say renumber it. 
+That's why I say this language was unnecessary. 
+
+
+1-127 
+
+
+. Q. : Would your opinion with the claim as originally 
+filed with an explanation as to linear motor would that 
+have been allowed? 
+
+
+A. Yes. 
+
+
+Q. And would that then have appeared in the 
+issued patent as originally filed? 
+
+
+MR. NEUSTADT: Objection, leading. 
+THE COURT: Sustained. 
+
+
+Q. If that original Claim 1 had be allowed, what 
+would have been the result of that? 
+
+
+[4-106] A. It would have appeared in the issued 
+patent as Claim 1, the independent claim. 
+
+
+Q. Okay. 
+
+
+However, after he submitted the new claims, what 
+was the next step in prosecution? 
+
+
+A. The examiner in effect allowed it at that point 
+with the new claims, but there was in the specification, 
+the written portion that explains - there was still a refer- 
+ence to linear motor, so the U. S. attorney had not 
+changed that or addressed that, so he asked them to clear 
+that up. So the U. S. attorney simply entered what we call 
+amendments and asked the patent office on Line 6 to 
+change “linear motor” to “magnetically coupled arrange- 
+ment” or whatever term used, and then the patent issue. 
+
+
+Q. As a result of the prosecution history, have you 
+reached any conclusions regarding the scope of the 
+claims? 
+
+
+1-128 
+
+
+MR. NEUSTADT: Objection, your Honor. 
+THE COURT: Sustained. 
+
+
+Q. Are you familiar with the Doctrine of Equiva- 
+lents? 
+
+
+MR. NEUSTADT: Objection, your Honor. 
+
+
+THE COURT: Let me see you at side bar as to 
+where this is going. 
+
+
+[4-197] (CONFERENCE AT THE BENCH AS FOLLOWS: 
+
+
+THE COURT: What’s your question going to 
+be? 
+
+
+MR. HOFFMANN: My question is going to be 
+what is the Doctrine of Equivalents. And follow up: In 
+your opinion, that would prevent the Doctrine of Equiva- 
+lents from being applied? 
+
+
+THE COURT: I will sustain that objection. 
+MR. NEUSTADT: A clearly legal conclusion. 
+
+
+THE COURT: What I will allow, however, and 
+we talked about this at length in conference beforehand, 
+because as you know, I should be issuing an opinion 
+soon. This is the only area I really disagreed with the 
+Master on. Mr. Neustadt said that one issue maybe 
+whether or not a reasonable competitor looking at the 
+prosecution history would believe that the inventor was 
+forced to relinquish or abandon a certain limitation in 
+order to procure the patent. I may not have the words 
+exactly right but that’s the gist of it from all the cases. I 
+think the Hoganas case is the one I’m thinking of, partic- 
+ularly, the one you cited to me. 
+
+
+1-129 
+
+
+MR. NEUSTADT: Yes. 
+
+
+THE COURT: So I would allow him to say that 
+from his experience in the field in doing this would a 
+reasonable person or competitor use this as an abandon- 
+ment. What I won’t allow is questions about: Does this 
+trigger [4-108] prosecution estoppel or Doctrine of Equiv- 
+alents? That kind of thing. 
+
+
+MR. NEUSTADT: I don’t think this witness has 
+
+
+an expertise to testify as to his competitor. He is just a 
+patent attorney. 
+
+
+MR. HOFFMANN: I disagree with that. He rep- 
+resents many companies, and that’s what a company 
+does, it goes to a patent attorney. 
+
+
+THE COURT: Would somebody familiar with 
+the patent field, I would allow that, would a reasonable 
+person looking at this history with familiarity with the 
+prosecution world conclude that it had to be given up. 
+
+
+MR. NEUSTADT: I'll state an objection for the 
+record. 
+
+
+THE COURT: You can, but I’m assuming that’s 
+what you're going to do with your expert. 
+
+
+MR. NEUSTADT: Not with a patent expert. 
+
+
+THE COURT: You're right, but I think the rea- 
+sonable competitor, he may not know about the reason- 
+able competitor, but he can certainly talk about the 
+reasonable person with patent experience whether look- 
+ing at this history what they would understand from that. 
+I will allow him to do. 
+
+
+1-130 
+
+
+MR. NEUSTADT: Then he’s just giving an opin- 
+ion of law as a patent attorney. 
+
+
+[4-109] THE COURT: No, no. What I won't let 
+him do is give the opinion of law. 
+
+
+MR. HOFFMANN: I have one other question. 
+THE COURT: I’m not doing all this now. 
+
+
+MR. HOFFMANN: No, just one quick question. 
+You said that he would put part of his case in right away. 
+Part of our case is his cross. 
+
+
+THE COURT: That's right. The only thing that’s 
+going to happen in an hour is that I measured it for on 
+best mode. But, otherwise, it’s all been cross on infringe- 
+ment. There’s about an hour on THYSSEN that I won't 
+debit you for. . . . END OF CONFERENCE AT THE 
+
+
+BENCH.) 
+[4-110] BY MR. HOFFMANN: 
+Q. In your opinion, would a man skilled - 
+THE COURT: Person. 
+Q. - person skilied in - 
+MR. HOFFMANN: Sorry, your Honor. 
+
+
+Q. - a person skilled in the analysis of the file 
+wrapper history conclude that anything had been given 
+up or dedicated or released from the patented invention 
+from reviewing the file history and comparing what hap- 
+pened, particularly old Claim 1 and issued Claim 1? 
+
+
+MR. NEUSTADT: Let me give my objection, 
+your Honor. I know you've overruled it. That’s a legal 
+
+
+conclusion. 
+
+
+1-131 
+
+
+THE COURT: Please, you need a basis for it. 
+I'm actually going to sustain this on form. I know he’s 
+struggling with the form. But, maybe you could just 
+rephrase that about somebody who is experienced in the 
+patent field. 
+
+
+Q. Somebody who is experienced in the patent 
+field, would somebody reviewing the file history, who’s 
+
+
+’ experienced in the patent field, is it your opinion that 
+
+
+they would conclude that anything had been given up in 
+the difference between original Claim 1 and what was 
+Claim 1 of the finally issued patent? 
+
+
+MR. NEUSTADT: Objection, leading and also 
+the [4-111] other objection, too, would someone conclude 
+that. 
+
+
+THE COURT: It wasn’t exactly how we talked 
+about ~ at the risk of just having to do this 17 times, if I 
+could just see you at side bar. 
+
+
+(CONFERENCE AT THE BENCH AS FOLLOWS: 
+
+
+THE COURT: The problem I’m running into, 
+it's not so much whether something was given up or 
+added. Of course it was. The standard is that they had to 
+relinquish it in order to procure the patent, as I under- 
+stand the Hoganas statute ruling. But someone who is 
+experienced in the field, looking at this prosecution his- 
+tory, reasonably concluded they were required - 
+
+
+MR. NEUSTADT: Your Honor, that is not the 
+standard. 
+
+
+THE COURT: Well, what do you think the stan- 
+dard is? Because | want to just make sure that this isn’t an 
+issue on appeal. 
+
+
+I-132 
+
+
+MR. NEUSTADT: It most definitely is. The stan- 
+dard is, it starts with Doctrine of Equivalents is an excep- 
+tion, not the rule. 
+
+
+THE COURT: I know that. 
+
+
+MR. NEUSTADT: You're not limited by the 
+prior art. What he’s required to give up - 
+
+
+THE COURT: Please, I don’t need the disserta- 
+tion. [4-112] I’ve gotten it in the brief. The question is I 
+don’t want to go up on this question. As I understand it, 
+it is not just that something was abandoned or changed. 
+Of course it was. 
+
+
+MR. NEUSTADT: The standard is, what does a 
+reasonable competitor conclude from looking at this, not 
+- a reasonable competitor does not say, was he required 
+to give this up. It’s just what does a reasonable competi- 
+tor conclude from reviewing this? 
+
+
+THE COURT: All right. You can phrase it alter- 
+natively, if you want. I’m not going to tell you your view 
+of the law is. 
+
+
+MR. HOFFMANN: Would someone experi- 
+enced in the field be able to determine, would somebody 
+experienced in the field determine whether the applicant 
+was required to relinquish any of the subject matter that 
+differs between issued Claim 1 and originally filed Claim 
+1? 
+
+
+THE COURT: All right. And any variation that 
+you would like of that. But it can’t just be abandoned or 
+changed, because, of course, everyone agrees it was 
+changed. 
+
+
+1-133 
+
+
+MR. NEUSTADT: That’s right. Required to 
+relinquish. 
+
+
+THE COURT: The reason they did it was in 
+order to procure. 
+
+
+| MR. NEUSTADT: Because there is no rule that 
+if you [4-113] only give up what you’re required to give 
+up. The rule is - 
+
+
+THE COURT: I tell you what, I know that’s 
+your thing, you filed it, and they can phrase it however 
+they want, but it’s stupid to just say to give it up and 
+change it. Because, that’s - 
+
+
+MR. HOFFMANN: Or were you required to 
+relinquish it? 
+
+
+THE COURT: However you want. I mean, I’m 
+
+
+not going to dictate that to you. But the way you said it 
+was - 
+
+
+.. . END OF CONFERENCE AT THE BENCH.) 
+[4-114] BY MR. HOFFMANN: 
+
+
+Q. Mr. Chovanes, in your opinion, would someone 
+experienced in the field conclude, in reviewing the file 
+history be able to determine whether the applicant here 
+was required to relinquish any of the subject matter that 
+differs from — between issued Claim 1 and originally filed 
+Claim 1? 
+
+
+MR. NEUSTADT: Objection, legal conclusion 
+and objection, leading, and also an objection that this 
+witness doesn’t have any particular expertise to rule on 
+this, but I know you are overruling it. 
+
+
+1-134 
+
+
+THE COURT: Overruled. And it’s obvious you 
+are not somebody in the industry. The question is, would 
+somebody with a background and understanding of 
+patent histories and prosecution histories, would you be 
+able to give an opinion on that one way or another? 
+
+
+THE WITNESS: My answer is yes, that one 
+knowledgeable in this field of patents could render an 
+opinion as to whether or not anything was given up by 
+this - 
+
+
+MR. NEUSTADT: Objection, your Honor. He’s 
+now giving the legal conclusion as to what was given up. 
+
+
+THE COURT: Overruled. 
+
+
+I've only gotten half way through the answer, so I’m 
+not sure what he’s saying, so I'll listen to it. [4-115] Go 
+ahead. Maybe you can start again. 
+
+
+A. My answer is yes. I believe that one skilled in 
+patents and knowledgeable in patent prosecution, in pat- 
+ent law, could render an opinion in this matter on the 
+question of whether or not anything was given up by the 
+lawyer here when he canceled Claim 1, as originally filed, 
+and inserted Claim 13, which eventually become one in 
+the issued patent. 
+
+
+Q. I believe the question is, could you determine 
+whether there was a requirement that he give it up as 
+well? 
+
+
+A. Additionally, I believe that one could render an 
+opinion as to whether there was a requirement as to 
+whether anything was required to be given up. 
+
+
+Q. And do you have an opinion in this respect? 
+
+
+1-135 
+
+
+A. I do. 
+Q. What is your opinion? 
+
+
+_A. My opinion is one, he was required to give noth- 
+ing up over Claim 1, as originally filed, and, two, in fact, 
+he gave nothing up. 
+
+
+MR. NEUSTADT: Objection, your Honor. Legal 
+conclusion, move to strike. 
+
+
+THE COURT: Yes. I'll strike the part about 
+whether he did give something up or not. That will be 
+one of the key issues for you to decide as you saw on the 
+question form. But I will allow the opinion as to whether 
+somebody looking at this history could reasonably con- 
+clude [4-116] that he was required to give it up. 
+
+
+Q. Do you have an opinion as to whether Dr. Stoll 
+was required to include in issued Claim 1, was required 
+by the patent office in the proceeding to conclude - 
+include in issued Claim 1 the requirement of a magnetiz- 
+able sleeve? 
+
+
+MR. NEUSTADT: Objection. 
+
+
+THE COURT: I'll allow the answer, but only 
+based on your review of the prosecution history and what 
+that tells you, not a legal conclusion. 
+
+
+MR. NEUSTADT: I think he’s going to give a 
+legal conclusion. 
+
+
+THE COURT: Well, no, just based on what 
+you've read in the prosecution history, is there anything 
+in that which you see as requiring a limitation of the 
+claim. 
+
+
+1-136 
+
+
+Go ahead. 
+
+
+A. My answer to that is that based on what I see 
+from the ‘file history there was no requirement that he 
+add that limitation, he add that language. 
+
+
+Q. Now, was there any requirement - I withdraw 
+that question. 
+
+
+Is it your opinion that there is any requirement in the 
+prosecution history to have the necessity of two sealing 
+rings? 
+
+MR. NEUSTADT: Objection. Objection, your 
+
+
+Honor. Legal conclusion. 
+
+
+[4-117] THE COURT: I’m not even sure I under- 
+stand the question. I’m having trouble ruling on it, so I'll 
+sustain the objection as to form. 
+
+
+Q. Okay. 
+
+
+In regard to the number of sealing rings, you’re 
+familiar with — you read the patent, you read the speci- 
+fication and you studied the file history. 
+
+
+A. I have. 
+
+
+Q. Did you find any requirement in your review of 
+the file history that the claims must be limited to two 
+sealing rings? 
+
+
+MR. NEUSTADT: Objection, legal conclusion 
+and also as to form. 
+
+
+THE COURT: Let me see counsel at side bar. 
+This is difficult. 
+
+
+1-137 
+
+
+[4-118] (CONFERENCE AT THE BENCH AS FOLLOWS: 
+
+
+THE COURT: As I understand it, there is no 
+argument of prosecution history estoppel with respect to 
+the sealing rings. Is that right? It’s just a question of 
+
+
+whether they meet the graver test. So why are we going 
+into this? ~ 
+
+
+MR. HOFFMANN: Okay. I'll withdraw it. 
+THE COURT: You've never raised that. 
+
+
+MR. NEUSTADT: I don’t think I understand 
+your question, I’m sorry. Maybe I - 
+
+
+THE COURT: The closure prosecution history 
+estoppel goes only to magnetizable sleeve. 
+
+
+MR. HOFFMANN: That's right. 
+
+
+MR. NEUSTADT: I think prosecution history 
+estoppel, as I understand it, also goes to the two seals. 
+
+
+THE COURT: You never raised that, never, ever, 
+before anybody. 
+
+
+MR. NEUSTADT: I think you and I are talking 
+about different things. 
+
+
+THE COURT: You might argue that given the 
+
+
+prosecution history, you can help use that in construing 
+claims. 
+
+
+MR. HOFFMANN: He’s talking about the 
+equivalency testimony. 
+
+
+THE COURT: You're not using it as an estoppel, 
+[4-119] since you’re just using the history for interpreta- 
+tion with respect to the sleeves. Right? 
+
+
+1-138 
+
+
+MR. NEUSTADT: What I’m saying - 
+
+
+THE COURT: And I'll let him ask the question. 
+
+
+If you're not pressing it, fine. 
+
+
+.. . END OF CONFERENCE AT THE BENCH.) 
+
+
+1-139 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+
+
+. Plaintiff and Counterclaim 
+Defendant ‘ Civil Action No. 
+Vv 88-1814-PBS 
+
+
+SHOKETSU KINZOKU KOGYO 
+KABUSHIKI CO. LTD., a/k/a 
+SMC CORPORATION and 
+SMC PNEUMATICS, INC., 
+
+
+Defendants and Counterclaim | 
+Plaintiffs . 
+
+
+Courtroom No. 6 
+Federal Building 
+
+Boston, MA 02109 
+9:15 a.m., Tuesday 
+July 12, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Sixth Day of Trial 
+
+
+> * > 
+
+
+[6-52] (Conference at the bench as follows: 
+
+
+MR. NEUSTADT: I'd like to move for a directed 
+verdict. 
+
+
+1-140 
+
+
+THE COURT: Do you have anything in writing? . 
+
+
+MR. NEUSTADT: Yes. Well, I have my notes 
+and some cases for you and - 
+
+
+THE COURT: Why don’t we reserve. You have 
+timely moved, we will reserve argument for a later point 
+in time, although I’ve seen so much of this case through 
+the many, many motions for summary judgment, I’m 
+probably not going to grant it, but I want to give you the 
+right to state it on the record and I don’t want to take the 
+jury's time now. 
+
+MR. NEUSTADT: I can do it in like about - all 
+right. 
+
+THE COURT: Want to do it now? Go ahead. But 
+
+
+it’s got to be a minute because I don’t want them sitting 
+there. 
+
+
+MR. NEUSTADT: Just a minute? 
+
+
+THE COURT: Yes, otherwise we will do it later 
+on. 
+
+
+MR. NEUSTADT: I move for directed verdict or 
+judgment as a matter of law, as it’s now called, with 
+respect to noninfringement, with respect to the magnetiz- 
+able sleeve, with respect to the two seals, also with 
+respect as [6-53] to the nonmagnetic tube with respect to 
+their position changes on that. 
+
+
+THE COURT: The nonmagnetic sleeve? 
+
+
+MR. NEUSTADT: There is a magnetizable 
+sleeve and the claim has in it a nonmagnetic tube, and if 
+you adopt one position on one, it has to be consistent. We 
+haven't gotten into it - 
+
+
+1-141 
+
+
+THE COURT: You haven't at all. I didn’t even 
+get it. | was waiting and I couldn’t wait to hear. I didn’t 
+hear anything that would create a prosecution estoppel 
+on the magnetic sleeve. 
+
+
+I thought you were getting into that with the prior 
+art, you would show me some reason they had to aban- 
+don it. I didn’t hear it. 1 was on the edge of my seat. 
+
+
+MR. NEUSTADT: That's what I wanted to tell 
+you about, your Honor, and that’s why I brought these 
+cases up here. This is not really a prosecution history 
+estoppel case. 
+
+
+When you start to analyze whether a patent is 
+infringed, first thing you do is go through every element 
+of the claim, and the federal circuit says every element is 
+material, you cannot ignore an element. 
+
+
+THE COURT: I agree. Can we go by this? I 
+don’t want to do this. I’ve heard it ad nauseam. I’ve 
+invited you to rebrief it on whether or not attorney error, 
+[6-54] something like that, would create a prosecution 
+history estoppel. 
+
+
+We couldn't find the case. You should be getting it 
+today or tomorrow, my opinion on summary judgment. | 
+thought you would create an - I’m glad you're abandon- 
+ing the prosecution estoppel. 
+
+
+MR. NEUSTADT: No, your Honor. 
+THE COURT: We will do it later. 
+
+
+MR. NEUSTADT: I reserve the right to do it 
+later with respect to noninfringement and with respect to 
+best mode. 
+
+
+1-142 
+
+
+THE COURT: Okay. But it’s been timely filed. 
+.. end ef conference at the bench.) 
+
+
+» . » 
+
+
+[6-69] supposed improvement. 
+Can you define that for me? 
+
+
+A One of the improvements of the Stoll claims is 
+magnetizable sleeve surrounding the outside magnets or 
+the follower member. 
+
+
+Q What is the function of that magnetizable sleeve? 
+
+
+A As described in the patent, the function of the 
+magnetizable sleeve is to prevent the influence of exter- 
+nal magnetic steels of the function of the system. 
+
+
+Q And you mentioned a second supposed improve- 
+ment. 
+
+
+What would that be? 
+
+
+A The second supposed improvement consisted of 
+an exclusionary sealing of the piston by using two seals, 
+one at each side of the piston, to prevent dirt from going 
+into the magnets. 
+
+Q Do you think your understanding of the Stoll 
+patent would be the same as one of ordinary skill in this 
+art? 
+
+A I believe so. I have read the patent and that’s 
+what I interpret. That is the only thing a person skilled in 
+the art can go by. 
+
+
+Q The first supposed improvement you mentioned 
+was the shielding function. 
+
+
+1-143 
+
+
+Have you had an opportunity to review the SMC 
+cylinders to determine whether or not it has that shield- 
+ing function? 
+
+
+[6-70] A The SMC cylinder does not have any 
+shielding function in the follower. 
+
+
+Q With respect to the second-supposed improve- 
+ment, the exclusionary function, have you had an oppor- 
+tunity to consider whether or not the SMC rodless 
+cylinders have this exclusionary function? 
+
+
+A No. The SMC rodless cylinder only has one seal 
+so the dirt cannot be excluded from the piston because it 
+enters from the opposite side, so there is no way to 
+protect the cylinder from either dirt or magnetic particles, 
+not by action of any sealing system. It does not have it. 
+
+
+Q With respect to the magnetizable sleeve in the 
+Stoll patent and with respect to the sleeve in the SMC 
+rodless cylinders, is there any difference in structure 
+between them? 
+
+
+A The magnetizable sleeve called for by Stoll in the 
+patent has the function of preventing outside magnetic 
+fields from influencing the action of the cylinder. 
+
+
+Since the SMC does not have that magnetizable 
+sleeve on the outside, it is not protected from outside 
+magnetic fields, therefore, it can be influenced from out- 
+side magnetics fields. It doesn’t have that structure. The 
+material is different and it does not have the-function 
+because it does not influence any effect from magnetic 
+fields from the outside, therefore, it doesn’t have the 
+same [6-71] structure, does not have the same function 
+and the results are that the SMC magnetic system is not 
+
+
+— 
+
+
+1-144 
+
+
+protected from outside influences, therefore, it’s not 
+material. 
+
+
+Q Now, I'd like to refer to the second supposed 
+improvement, the exclusionary function, and I'd like you 
+to compare the two-seal Stoll patent claim with the one- 
+seal SMC rodless cylinder; and first I wish to ask you if 
+there is any difference in structure between the two? 
+
+
+A There is a difference in structure because one has 
+
+
+two seals and the other one has only one. Because of that 
+
+
+difference in structure, the SMC that does not have the 
+additional seal; it only has one, it is not protected from 
+the inclusion of particles on the cylinder and the function, 
+therefore, is not the same because the structure is not the 
+same. It does not have that protection against dirt or the 
+seal. 
+
+
+A The result, therefore, is that it is possible that if 
+you use air, which is contaminated anyway, the contam- 
+ination can reach the seal in the case of the SMC cylinder 
+and not in the case of the Festo cylinder. 
+
+
+Q Now, I would like you to compare the result 
+between the magnetizable sleeve in the Stoll patent and 
+the result obtained by the SMC rodless cylinder. 
+
+
+A Since the SMC follower, the sleeve on the outside, 
+is not protected against magnetic fields, it can experience 
+the 
+
+
+1-145 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+Plaintiff and Counterclaim 
+
+
+Defendant, 
+
+Civil Action No. 
+vs: 88-1814-PBS 
+SHOKETSU KINZOKU KOGYO . 
+
+KABUSHIKI CO., LTD., a/k/a 
+SMC CORPORATION and 
+SMC PNEUMATICS, INC., 
+
+
+Defendants and Counterclaim : 
+Plaintiffs. 
+
+
+Courtroom No. 6 
+Federal Building 
+Boston, MA 02109 
+9:20 a.m., 
+Wednesday 
+
+July 13, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Seventh Day of Trial 
+
+
+* * * 
+[7-76] A We call it a Mardrive transporter. 
+
+
+Q Mardrive transporter. Why do you call it a Mar- 
+drive transporter? 
+
+
+1-146 
+
+
+A_ It was made within the Mardrive system so that’s 
+where the name came from, and its purpose is to trans- 
+port articles in the first place, limp fabric, things within a 
+clothing factory, shirts, et cetera. 
+
+
+Q How did the subject matter of your patent come 
+to be? 
+
+
+A Marine Engineering, as I’ve already said, was 
+very strong in the manufacture of clutch motors for the 
+garment industry. 
+
+
+Q Maybe you can explain what a clutch motor is. 
+
+
+A I think I have already. It’s simply a means where 
+the young lady operator can press her feet on a treadle, 
+this causes the sewing machine to run, she removes the 
+
+
+pressure from her feet and it stops. It’s as simple as that. 
+
+
+We had been making this for quite a long time and 
+we had a fair amount of expertise in it. And a lot of these 
+motors were going into a place called Remploy. I’m not 
+sure that you have anything like it in the United States. 
+
+
+Q Maybe you can explain Remploy? 
+
+
+A_ It was a government-funded arrangement where 
+people who were in an accident or they are incapacitated 
+in some way are found employment within protected 
+factories. 
+
+
+Q So is it like a handicap facility? 
+
+
+[7-77] A That’s right. Well, you know, quite young 
+people, quite old people, but it’s intended to get them 
+back into some form of work, where you can get paid. 
+
+
+1-147 
+
+
+Q So what were you doing in ~*nnection with 
+Remploy? 
+
+
+A We had already supplied them with many thou- 
+sands of these clutch motors and the Department of 
+Industry had watched the work we were doing to assist 
+these people. A lot of them could not afford to keep 
+pressing the feet on the treadle all day long. They 
+couldn’t afford to lift the foot of the sewing machine, 
+couldn't afford to move the hand wheel of the sewing 
+machine into a needle up position. 
+
+
+So we had designed a pneumatic brain which we 
+fitted to the machines which permitted the handicapped 
+people to overcome these disabilities. 
+
+
+Now, the government had seen the work we had 
+been going on for years and they approached Marine 
+Engineering and said we have a specific project. Will you 
+join us in this project on the basis=yf-pound for pound. 
+
+
+Q You mean pound for pound - 
+A_ I can’t - we get a pound, they get a pound. 
+Q You mean the currency in England? 
+
+
+A Yes. We were interested in this. It was, I thought 
+at the time, a relatively simple project. We had already 
+put all the automatic functions into the sewing machines. 
+What they wanted to happen, when the lady sewed two 
+pieces of 
+
+
+* * . 
+
+
+[7-87] A Yes. It’s part of a catalog that we would 
+send out to prospective purchasers of the Mardrive trans- 
+porter. It describes generally some of the applications for 
+
+
+1-148 
+
+
+what it’s used for and it also contains kind of an order 
+description form at the rear. 
+
+
+Q Was the government very happy with this 
+device? 
+
+
+A Yes. They were quite pleased. 
+Q Did they make a film of the device? 
+
+
+A First of all, they invited the company to apply for 
+what is known as a design award. 
+
+
+In the United Kingdom, annually, all the major com- 
+panies that have anything new to show enter a competi- 
+tion and it’s again organized by a government agency 
+called the Design Council. So they asked us to enter the 
+transporter in this competition, if you like. 
+
+
+And we were extremely lucky because if you got, if a 
+company got a design award, the bait was about 200,000 
+pounds worth of free publicity. We were quite interested 
+in that. So we applied. 
+
+
+What we didn’t know about design is that there was 
+something else, there was a prize, i.e., a surprise, the top 
+prize in the United Kingdom for a designer. This was 
+awarded by His Royal Highness the Duke of Edinburgh. 
+And it was his personal prize, if you won this prize, he 
+offered —- I’m sorry - he would permit you to get any 
+British designer [7-88] to make anything you wanted and 
+he personally would pay for it. It was quite unusual. So 
+we were very lucky. 
+
+
+The company won the design award, the company 
+got 200,000 pounds, I got the Duke’s personal prize and 
+the government said we should make a film of this and 
+
+
+1-149 
+
+
+show it all around the world, made in Briton, some sort 
+of rubbish. 
+
+
+Q What was the purpose of the film? 
+
+
+A It was really to promote English exports. It just 
+
+
+filmed in a few minutes in a TV station. Nothing better to 
+do. 
+
+
+MR. BODNER: Your Honor, I have a copy of 
+that film and I'd like to show it now, Plaintiff’s Exhibit 32 
+and I'd like to offer it into evidence. 
+
+
+THE COURT: Have you seen it? 
+
+
+| MR. NEUSTADT: Yes. No objection. (Plaintiff's 
+Exhibit No. 32, Videotape, received in evidence.) 
+
+
+THE COURT: Is there talking on this? 
+MR. BODNER: Yes. 
+
+
+THE COURT: There is no need for the court 
+reporter to take this down, right, because it’s an exhibit. 
+
+
+MR. BODNER: No, your Honor. 
+
+
+MR. NEUSTADT: May I have, your Honor, Pro- 
+fessor Blanco view this along with us. 
+
+
+THE COURT: Absolutely. Come on up, 
+
+
+* * * 
+
+
+1-150 
+
+
+UNITED STATES DISTRICT COURT 
+DISTRICT OF MASSACHUSETTS 
+
+
+FESTO CORPORATION, 
+
+
+Plaintiff and Counterclaim . Civil Action No. 
+Defendant, 88-1814-PBS 
+
+
+VS: 
+
+
+SHOKETSU KINZOKU KOGYO 
+KABUSHIKI CO., LTD., a/k/a 
+SMC CORPORATION and 
+SMC PNEUMATICS, INC., 
+
+
+Defendants and Counterclaim ) 
+Plaintiffs. 
+
+
+Courtroom No. 6 
+Federal Building 
+Boston, MA 02109 
+9:20 a.m., 
+Thursday 
+
+July 14, 1994 
+
+
+Before: THE HONORABLE PATTI B. SARIS, District 
+Judge and a Jury 
+
+
+Eighth Day of Trial 
+
+
++ * » 
+
+
+1-151 
+
+
+[8-104] that there’s no evidence that SMC copied the 
+Festo device. 
+
+
+MR. BODNER: Your Honor, this is not in a wil- 
+fulness sense. 
+
+
+MR. HOFFMANN: There was testimony they 
+were all the same products. 
+
+
+MR. BODNER: He admitted that they all look 
+the same. 
+
+
+MR. NEUSTADT: There is no evidence of copy- 
+ing. 
+
+
+THE COURT: The only concerning I have is - 
+you're right, there is no evidence of copying. You're so 
+versed in this area the law, you understand the legal 
+significance of the word copying as opposed to infring- 
+ing. 
+
+
+I’m not sure whether I’m not going to be flagging the 
+whole thing in a way no one has picked up on. Do you 
+really want a cautionary instruction? 
+
+
+MR. BODNER: We will object to that if that 
+goes in, a cautionary instruction. 
+
+
+MR. HOFFMANN: She is saying - 
+
+
+MR. NEUSTADT: You could put it in the obvi- 
+ousness instruction that you give them, that there has 
+been no copying. 
+
+
+MR. BODNER: Absolutely not. We will object 
+
+
+* aa * 
+
+
+I-152 
+
+
+[8-119] specification. So I’m going to give you certain 
+factors that you should consider in interpreting the scope 
+of the claim. 
+
+
+The first one is the ordinary meaning of the words 
+used in the claim. Repeating, the ordinary meaning of the 
+words used in the claim. The second one is the specifica- 
+tions and drawings in the patent. The third one is the 
+prosecution history. The prosecution history. The fourth 
+one is the other claims of the patent. And finally, the 
+expert testimony. The expert testimony. Where a disputed 
+term would be understood to have its ordinary meaning 
+by one of skill in the art from the patent and its history, 
+extrinsic evidence that the inventor may have subjec- 
+tively intended a different meaning should be given little 
+weight. 
+
+
+Now, let me move on to the second step and explain 
+that a little more. The second step is to decide whether 
+each limitation in the properly construed claims is found 
+in the accused device. Liability for infringement requires 
+that an accused device contain every limitation of a claim 
+or its substantial equivalent. Let me repeat that. Liability 
+for infringement requires that an accused device contains 
+every limitation of a claim or its substantial equivalent. 
+
+
+[8-120] Here the claim of infringement is a claim 
+under what you have now heard referred to many times 
+as infringement under the doctrine of equivalence. 
+Infringement of a patent claim can be found by way of 
+the doctrine of equivalence. It is insufficient for proof of 
+infringement under this doctrine of equivalence that the 
+accused devices are equivalent overall to the claimed 
+
+
+1-153 
+
+
+invention. Rather, infringement requires that every lim- 
+itation of a claim be met literally or by substantial equiv<- 
+lent. There can be no infringement if even a single 
+function required by a claim or on an equivalent function 
+is not performed by the SMC rodless cylinders. 
+
+
+So in order to prove infringement by equivalence, 
+Festo must prove by a preponderance of the evidence that 
+the accused SMC device performs substantially the same 
+function as the claimed invention in Stoll, in substantially 
+the same way to achieve substantially the same result. 
+And that is the test that I’ve set forth for you, so you 
+don’t even have to take notes on it, in 1 and 2. The theory 
+behind the doctrine of equivalence is that if two devices 
+do the same work in substantially the same way to 
+accomplish substantially the same result, then they are 
+
+
+the same, even though they differ in name, form or shape. 
+Stated 
+
+

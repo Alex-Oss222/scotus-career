@@ -1,0 +1,25 @@
+{
+  "query": "collection:us-supreme-court AND (\"00-1543\" OR title:(Festo))",
+  "response": {
+    "numFound": 4,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40386001_1064",
+        "title": "Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki, Co., Ltd., AKA Smc Corp., 541 U.S. 988 (2004) (No. 03-1133)"
+      },
+      {
+        "identifier": "micro_IA40385017_1300",
+        "title": "Shoketsu Kinzoku Kogyo Kabushiki Co. v. Festo Corp., 520 U.S. 1111 (1997) (No. 95-1546)"
+      },
+      {
+        "identifier": "micro_IA40386001_1060",
+        "title": "Shoketsu Kinzoku Kogyo Kabushiki Co. v. Festo Corp., 541 U.S. 988 (2004) (No. 03-1129)"
+      },
+      {
+        "identifier": "micro_IA40385014_0460",
+        "title": "Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722 (2002) (No. 00-1543)"
+      }
+    ]
+  }
+}

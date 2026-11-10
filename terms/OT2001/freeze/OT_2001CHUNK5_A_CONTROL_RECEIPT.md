@@ -1,0 +1,11 @@
+# Group A control receipt — exclude from neutral and modeling handoffs
+
+No private Stone material, comparator, current raw Record or prior private freeze artifact was opened. An initial overbroad read requested the whole chunk neutral file and neutral projection; its displayed output was truncated. Subsequent reads were bounded by named matters and authority headings.
+
+Two searches inadvertently returned excluded Supreme Court information: the search for the earlier Third Circuit COPA opinion returned a later appellate snippet describing the Ashcroft ACLU Supreme Court disposition; the search for the Lapides Eleventh Circuit opinion returned a Supreme Court report snippet revealing result and lineup. Neither linked Supreme Court opinion was opened. No affected commitments were produced. Following each exposure, the operator confined those matters to source collection and mechanical authority copying, reported the exposure to control, and required fresh neutral validation before independent modeling. This receipt does not reproduce the excluded substance and is not an input to either fresh context.
+
+Verizon Communications and Voting Integrity had no observed same-matter excluded Supreme Court outcome exposure. The unchanged supplied neutral entries were copied mechanically; a fresh validator will validate the complete group. Source facts and operative legal text are saved separately from this receipt.
+
+No repository-history command or tool invoking one was used. Writes were confined to the term folder and tmp. No protected top-level source folder was listed, searched or read. The two user-prohibited brand strings are tested by codepoint-built patterns and are not written in source, helper or handoff text.
+
+A final file-integrity scan used an overbroad group-A prefix that also matched the current assignment-table handoff. The script read that file solely to test prohibited strings and local-link patterns and reported only its filename, size and digest. No table contents were displayed or used in preparation. The scan is an automated boundary overread, not a claim of perfect file-level isolation; fresh neutral and modeling contexts remain required and receive no such table.

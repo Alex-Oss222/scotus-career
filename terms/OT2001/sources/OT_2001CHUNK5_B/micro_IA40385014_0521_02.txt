@@ -1,0 +1,3134 @@
+_ oe — 
+
+
+No. 
+
+
+Jn the Supreme Court of the Gnited States 
+
+
+UNITED STATES OF AMERICA, PETITIONER 
+v. 
+LEONARD COTTON, MARQUETTE HALL, LAMONT 
+
+
+THOMAS, MATILDA HALL, JOVAN POWELL, JESUS 
+HALL, ANDSTANLEY HALL, JR. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+MICHAEL CHERTOFF 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+General 
+NINA GOODMAN 
+Attorney 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTION PRESENTED 
+
+
+Whether the omission from a federal indictment of a 
+fact that enhances the statutory maximum sentence 
+requires a court of appeals automatically to vacate the 
+enhanced sentence, notwithstanding that the defendant 
+did not object to the sentence in the district court, the 
+government introduced overwhelming proof of the fact 
+that supports the enhanced sentence, and the defendant 
+had notice that the fact could be used to seek an 
+enhanced sentence. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+IED cecrrnneecsememnensemesnssscserssesmnmmnesssesseeqnsnsnstnsnemsmenenscens l 
+I irr escnerteeeretenteeieseurennenseceemnenmemammsnsssssacesnermansensmsensesenenenn 1 
+Constitutional and statutory provisions involved .................-. 2 
+BI cncerntcsnsenianetncenasnsnarenenessnsmannsssssescanscsesensssensestmmmanemeseseseeen 2 
+Reasons for granting the petition ..............scsersssseseneneneeneneees 7 
+
+
+A. The court of appeals’ rule of automatic reversal 
+is out of step with this Court’s plain-error 
+and harmless-error precedent. .............0-:0s0+sssseee & 
+B. The courts of appeals are in conflict on the proper 
+disposition of claims of erroneous omissions 
+from federal indictments, and this Court's 
+
+
+(IIT) 
+
+
+resolution of that conflict is warranted ..................... 18 
+Conclusion seenntieneen : 22 
+Appendix A = la 
+Appendix B 36a 
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+Apprendi v. New Jersey, 530 U.S. 466 (2000) ............... 4,8,9 
+Bain, Ex parte, 121 U.S. 1 (1887) 5,14 
+Chapman v. California, 386 U.S. 18 (1967) ............000 16, 17 
+Custis v. United States, 511 U.S. 485 (1994) 15 
+Griffith v. Kentucky, 479 U.S. 314 (1987) 11 
+Johnson v. United States, 520 U.S. 461 (1997) ...........00.. 6, 8, 
+12, 13,14 
+Jones v. United States, 526 U.S. 227 (1999) vf) 
+Lamar v. United States, 240 U.S. 60 (1916) 15 
+
+McCoy v. United States, No. 00-16434, 2001 WL 
+1131653 (11th Cir. Sept. 25, 2001) 16,17 
+Neder v. United States, 527 US. 1 (1999) 12,17 
+Preiser v. Rodriguez, 411 U.S. 475 (1973) 15 
+Schlup v. Delo, 513 U.S. 298 (1995) 15 
+Silber v. United States, 370 U.S. 717 (1962) ............. 5, 17,18 
+
+
+IV 
+
+
+Cases—Continued: Page 
+Stirone v. United States, 361 U.S. 212 (1960) ................... 5,16 
+United States y Cabrera-Teran, 168 F 3d 141 
+
+(Sth Cir. 1999) ae 21 
+United States y. Cromartie, No. 00-13957, 2001 WL 
+1167785 (11th Cir. Oct. nT 19 
+
+
+United States. Grifin, 908 US 226 G98) 8 
+United States vy. Jackson, 240 F.3d 1245 (10th Cir.) = 
+cert. denied, No. 00-10251 (Oct. 1, 2001) ...... 20 
+Unie States v. Longoria, 259 F.3d 363 (5th Cin 
+Unites States v. Maynie, 257 F.3d 908 (8th Cig 7 
+United States vy. Mojica-Baez, 229 F 3d 292 (1st Ci : 
+2000), cert. denied, 121 S. Ct. 2215 (2001) . poses 21 
+United States v. Nance, 236 F 3d 820 (7th Cir. 2000) 
+cert. denied, No. 00-9633 (Oct. 1, 2001) . 
+United States v. Olano, 507 U.S. 725 (1998) .... . 4 . 
+United States v. Patterson, 241 F.3d 912(7thCis) 
+cert. denied, No. 00-10365 (Oct. 1, 2001) . ee 
+ate States v. Prentiss, 256 F.3d 971 (10th Cig, 
+United States v. Promise, 255 F 3d 150 (ath Cig “ 
+cae for cert. pending, No. 01-6398 (filed 
+, 2001) 
+United States v. Sanchez, No. 00-13347,2001WL 
+1242087 (11th Cir. Oct. 17, 2001) - 9:10.19 
+United States v. Spinner, 180 F.3d 514 (3d Cin 
+United States v. Swatzie, 228 F 3d 1278 (11th Cig, a 
+2000), cert. denied, 121 S. Ct. 2600 (2001) .. 19 
+United States v. Terry, 240 F.3d 65 (Ist Cir), cost 
+denied, 121 S. Ct. 1965 (2001) 19 
+United States v. Thomas, 248 F 3d 76 (2d Cir. 2001) 21 
+
+
+United States vy. Tran, 234 F 3d 798 (2d Cir. 2000) om 20, 21 
+
+
+Cases—Continued: Page 
+Wainwright v. Sykes, 433 U.S. 72 (1977) 15 
+Waley v. Johnston, 316 U.S. 101 (1942) o 15 
+Watkins, Ex parte 28 U.S. (3 Pet.) 193 (1830) ............00000 14 
+Yakus v. United States, 321 U.S. 414 (1944) 13 
+
+Constitution, statutes and rules: 
+
+U.S. Const. Amend. V 2, 8, 15-16, 18 
+8 U.S.C. 1326 21 
+18 U.S.C. 81 20 
+18 U.S.C. 924(c) 20, 21 
+18 U.S.C. 102%a)(5) 21 
+18 U.S.C. 1152 20 
+21 U.S.C. 812 10 
+21 U.S.C. 841 2, 20, 22 
+21 U.S.C. 841(a\(1) 2, 36a 
+21 U.S.C. 841(b) 3, 9, 10, 11, 14, 18, 36a 
+21 U.S.C. 841(b)(1(A) 3, 11, 14, 36a 
+21 U.S.C. 841(b)(1 (Ai) 11, 36a 
+21 U.S.C. 841(b)(1)( Aili) 11, 13, 37a 
+21 U.S.C. 841(b)(1(B) 11, 39a 
+21 U.S.C. 841(b\(1 (Bi) 10, 39a 
+21 U.S.C. 841(>(1(B\iii) 6, 10, 39a 
+21 U.S.C. 841(b)(1(C) 4,5, 10,11, 4la 
+21 U.S.C. 846 2, 47a 
+Fed. R. Crim. P.: 
+Rule 7(b) 16 
+Rule 52(b) 4,12 
+
+
+In the Supreme Court of the Gnited States 
+
+
+No. 
+UNITED STATES OF AMERICA, PETITIONER 
+
+
+v. 
+
+
+LEONARD COTTON, MARQUETTE HALL, LAMONT 
+THOMAS, MATILDA HALL, JOVAN POWELL, JESUS 
+HALL, AND STANLEY HALL, JR. 
+
+
+ON PETITION FOR A WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+PETITION FOR A WRIT OF CERTIORARI 
+
+
+The Solicitor General, on behalf of the United States 
+of America, respectfully petitions for a writ of certiorari 
+to review the judgment of the United States Court of 
+Appeals for the Fourth Circuit in this case. 
+
+
+OPINION BELOW 
+
+
+The opinion of the court of appeals (App., infra, la- 
+35a) is reported at 261 F.3d 397. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+August 10, 2001. The jurisdiction of this Court is 
+invoked under 28 U.S.C. 1254(1). 
+
+
+(1) 
+
+
+2 
+
+
+CONSTITUTIONAL AND STATUTORY PROVISIONS 
+INVOLVED 
+
+
+1. The Fifth Amendment to the United States Con- 
+stitution provides, in pertinent part: 
+
+
+No person shall be held to answer for a capital, or 
+otherwise infamous crime, unless on a presentment 
+or indictment of a Grand Jury * * *, 
+
+
+2. The relevant provisions of Sections 84 
+1 and 846 of 
+Title 21 of the United States Code ar 
+er 
+App., infra, 36a-47a. — 
+
+
+STATEMENT 
+
+
+1. In October 1997, a federal d j 
+trict of Maryland returned an tndisioneas shaneten 
+respondents and others with conspiring between Feb- 
+ruary 1996 and May 1997 to distribute and to possess 
+with the intent to distribute 5 kilograms or more of 
+cocaine and 50 grams or more of cocaine base, in viola- 
+tion of 21 U.S.C. 846 and 841(a)(1). 1C.A. App 71-72 
+A superseding indictment returned in March 1998 ex- 
+tended the time period of the conspiracy to December 
+1997 and added five more defendants. The supersedin 
+indictment charged a conspiracy to distribute and to 
+possess with the intent to distribute a “detectable 
+amount” of cocaine and cocaine base, without allegin 
+that any specific or threshold amounts of drugs aos 
+involved in the conspiracy. 1 C.A. App. 85-86. At their 
+arraignments on both indictments, respondents were 
+- informed that the maximum penalty for the conspiracy 
+— was i. imprisonment. Gov’t C.A. Br. 45. 
+
+- the evidence at trial established that responden 
+operated a drug trafficking organization that distrib. 
+uted substantial quantities of cocaine and cocaine base 
+(also known as crack cocaine) in Baltimore, Maryland. 
+
+
+3 
+
+
+The organization was headed by respondent Stanley 
+Hall, Jr. The organization purchased cocaine in kilo- 
+gram quantities from a dealer in New York City, 
+manufactured it into crack cocaine, and bagged it for 
+distribution to dealers who sold the drugs to their 
+customers. The government’s witnesses included, in 
+addition to cooperating co-conspirators, a number of 
+FBI agents and Baltimore police officers, who testified 
+about undercover drug purchases, arrests and searches 
+of members of the conspiracy, and searches of their 
+residences. That testimony established that the arrests 
+and searches resulted in the seizure of approximately 
+380 grams of cocaine base, as well as cocaine, drug para- 
+phernalia, firearms, and currency. App., infra, 3a, 6a; 
+Gov't C.A. Br. 4-28. 
+
+The district court instructed the jury that it could 
+find the defendants guilty if it found beyond a rea- 
+sonable doubt that they conspired to distribute and 
+possess with intent to distribute “cocaine hydrochloride 
+and cocaine base,” but that it “need not be concerned 
+with the quantities.” The court added that “as long as 
+you find that a defendant conspired to distribute or 
+possess[] with intent to distribute these controlled 
+substances, the amounts involved are not important.” 
+Supp. C.A. App. 8, 13; see App., infra, 6a. The jury 
+found the seven respondents guilty. App., infra, 3a." 
+
+3. The district court sentenced respondents pur- 
+suant to the graduated penalties set forth in 21 U.S.C. 
+841(b). As relevant here, Section 841(b)(1)(A) pre- 
+
+
+1 In addition, the jury found defendant Darlene Green guilty 
+
+
+and found defendant Roger Evans not guilty. App., infra, 3a-4a & 
+n.l. The 15-year sentence imposed on Darlene Green was left 
+intact by the court of appeals and is not affected by the question 
+
+
+raised in this petition. See id. at 7a. 
+
+
+4 
+
+
+scribes “a term of imprisonment which may not be 
+* * * more than life” for drug offenses involving at 
+least 5 kilograms of cocaine or at least 50 grams of 
+cocaine base. Section 841(b)(1)(C), however, prescribes 
+“a term of imprisonment of not more than 20 years” for 
+drug offenses involving any detectable quantity of a 
+Scheduie II controlled substance, such as cocaine or 
+cocaine base. 
+
+The district court found, based on the trial testimony, 
+that respondent- Matilda Hall was responsible for at 
+least 500 grams of cocaine base, and that the other re- 
+spondents were each responsible for at least 1.5 kilo- 
+grams of cocaine base. Applying the Sentencing Guide- 
+lines, the court sentenced respondents Matilda Hall and 
+Jovan Powell to terms of 30 years’ imprisonment, and 
+the other respondents to terms of life imprisonment. 
+App., infra, 3a-4a. 
+
+4. On appeal, respondents argued that their sen- 
+tences were invalid under Apprendi v. New Jersey, 530 
+US. 466 (2000), because drug quantity was not alleged 
+in the superseding indictment or proved to the jury 
+beyond a reasonable doubt. The court of appeals va- 
+cated respondents’ sentences and remanded for resen- 
+tencing to terms of not more than 20 years’ imprison- 
+ment. App., infra, 7a-16a. 
+
+Because respondents had not raised an Apprendi 
+claim in the district court, the court of appeals held that 
+the claim was reviewable under the plain-error stan- 
+dard. App., infra, 7a-8a. Under that standard, an ap- 
+pellate court may correct an error not raised below only 
+if the error is “plain,” “affect[s] substantial rights,” and 
+“seriously affect(s] the fairness, integrity or public 
+reputation of judicial proceedings.” United States v. 
+Olano, 507 U.S. 725, 731, 732 (1993); see Fed. R. Crim. 
+P. 52(b); see also App., infra, 8a (citing Olano). 
+
+
+5 
+
+
+The court of appeals noted that it had previously held 
+in United States v. Promise, 255 F.3d 150 (4th Cir. 
+2001) (en banc), petition for cert. pending, No. 01-6398 
+(filed Sept. 20, 2001), that “because drug quantity ‘must 
+be treated as an element of an aggravated drug traf- 
+ficking offense’ under 21 U.S.C. § 841, the failure to 
+charge a specific threshold drug quantity in the indict- 
+ment and to submit the quantity issue to the jury 
+constitutes plain error.” App., infra, 8a (quoting 
+Promise, 255 F.3d at 156). Promise also concluded that 
+an indictment error under Apprendi affects a defen- 
+dant’s substantial rights whenever the defendant re- 
+ceives a term of imprisonment greater than that 
+authorized by Section 841(b)(1)(C) for offenses involv- 
+ing any detectable quantity of drugs. The Promise 
+court had not resolved, however, whether the indict- 
+ment error “‘seriously affect[s] the fairness, integrity 
+or public reputation of judicial proceedings,’ so that we 
+should exercise our discretion to recognize the error.” 
+Ibid. The court in this case “answer[ed] that question 
+in the affirmative.” /bid. 
+
+The court of appeals, citing Ex parte Bain, 121 U.S. 1 
+(1887), and Stirone v. United States, 361 U.S. 212 
+(1960), held that “an indictment setting forth all the 
+essential elements of an offense is both mandatory and 
+jurisdictional.” App., infra, 10a. Accordingly, the court 
+concluded that “the district court exceeded its jurisdic- 
+tion in sentencing [respondents] for a crime with which 
+they were never charged, thus depriving them of the 
+constitutional right to ‘answer’ only for those crimes 
+presented to the grand jury.” Jd. at 1la. The court also 
+noted that in Silber v. United States, 370 U.S. 717 
+(1962) (per curiam), the Court reversed the defendant's 
+conviction when the indictment had omitted an offense 
+element, even though the defendant had not raised the 
+
+
+6 
+
+
+error in either the court of appeals or this Court. App., 
+infra, 12a-13a. “Likewise,” the court stated, “sentenc- 
+ing a defendant for an unindicted crime also seriously 
+affects the fairness, integrity or public reputation of 
+judicial proceedings.” Jd. at 14a. 
+
+The court of appeals rejected the government’s 
+argument that the indictment error did not warrant 
+reversal under the plain-error standard, because the 
+evidence overwhelmingly established that respondents’ 
+offenses involved the 50 grams of cocaine base 
+needed to support their sentences under 21 U.S.C. 
+841(b)(1)(A)(iii). The court held that the strength of the 
+evidence was “not a relevant consideration” in deter- 
+mining whether to reverse a sentence based on an omis- 
+sion from the indictment. App., infra, 15a. The court 
+reasoned that “a reviewing court may not speculate 
+about whether a grand jury would or would not have 
+indicted a defendant for a crime with which he was 
+never charged,” and that to do so would “usurp the role 
+of the grand jury” and “result in nothing less than a 
+constructive amendment of the indictment, * * * 
+which itself is reversible plain error.” Jd. at 15a, 16a. 
+
+Chief Judge Wilkinson dissented in part. App., infra, 
+23a-35a. Relying on Johnson v. United States, 520 U.S. 
+461, 469-470 (1997), he concluded that respondents 
+could not satisfy the fourth, discretionary prong of the 
+plain-error test. He noted that the evidence that 
+respondents participated in a conspiracy to distribute 
+more than 50 grams of cocaine base was 
+“overwhelming.” App., infra, 23a, 24a. “(I}t would 
+constitute a manifest injustice,” he explained, “to 
+reduce [respondents’] sentences when the evidence 
+undeniably demonstrates that they committed the 
+greater statutory offense.” Jd. at 23a. Although the 
+superseding indictment did not specify drug quantity, 
+
+
+7 
+
+
+he found it “difficult to believe that [respondents] 
+lacked notice that they faced 21 U.S.C. 
+§ 841(b)’s strictest penalties.” Jd. at 28a. He observed 
+that the original indictment alleged the threshold ae 
+quantity and that, in light of the evidence at trial, 
+respondents’ “counsel clearly were aware that the gov- 
+ernment could seek the elevated penalties available 
+under 21 U.S.C. § 841(b)(1(A).” Id. at 28a-29a. 
+Finally, Chief Judge Wilkinson criticized the majority 
+for “inappropriately replac[ing] the discretionary, — 
+by-case assessment dictated by the fourth prong’ of the 
+plain-error test “with an essentially categorical ap- 
+proach when the error consists of an indictment defect. 
+App., infra, 30a. Here, he emphasized, the majority’s 
+approach undermines Congress’s policy to impose — 
+stringent punishment for more serious violators, e- 
+cause it equates the punishment of “the a s 
+kingpin and its underlings.” Jd. at 34a. In addition, he 
+observed that the majority’s approach unfairly dis- 
+regards the fact that the superseding indictment was 
+fully in accordance with then-prevailing law to support 
+the enhanced sentences imposed and that, in light of the 
+overwhelming proof, there is no doubt that the grand 
+jury, if asked, would have included the necessary drug- 
+quantity allegations in the indictment. Id. at 29a-30a. 
+Overturning respondents’ sentences in such circum- 
+stances, he concluded, cannot be justified on plain-error 
+review. Ibid. 
+REASONS FOR GRANTING THE PETITION 
+
+
+district 
+The court of appeals held that, whenever a i 
+
+oat teat a sean that exceeds the otherwise 
+applicable statutory maximum based on a fact that was 
+not alleged in the indictment, the sentence must auto- 
+matically be reversed on plain-error review—regard- 
+
+
+8 
+
+
+less of the existence of overwhelming evidence s 
+ing that fact and the defendant's notice ‘han the 
+government could seek an enhanced sentence based on 
+the fact. The court of appeals’ decision is incorrect. Just 
+as a failure to obtain a petit jury finding on an element 
+does not require reversal on plain-error review, if the 
+omitted fact was essentially uncontested and supported 
+by overwhelming evidence, see Johnson v. United 
+States, 520 U.S. 461, 469-470 (1997), a failure to obtain a 
+grand jury finding on a fact that enhances the statutory 
+maximum sentence does not require reversal, if the 
+ye was similarly overwhelming and the defen- 
+press morse apes the evidence while on notice of the 
+The court of appeals’ decision deepens a ict i 
+the circuits on whether an ietieemantty ects 
+sentence-enhancing fact automatically warrants rever- 
+sal where, as here, the defendant received a sentence 
+greater than the maximum authorized by statute 
+without reference to that fact. The question has arisen 
+with particular frequency in federal drug prosecutions 
+such as this one, in which the indictment was returned, 
+the case tried, and the sentence imposed before 
+Apprendi v. New Jersey, 530 U.S. 466 (2000). But those 
+are not the only cases implicating the question of 
+whether, or how, this Court’s decisions on plain-error 
+and harmless-error review apply to indictment errors 
+Because the question is recurring and important this 
+Court’s resolution of the conflict is warranted. 
+
+
+A. The Court Of Appeals’ Rule Of Automatic Rever- 
+sal Is Out Of Step With This Court's Plain-Error 
+And Harmless-Error Precedents 
+
+
+The Fifth Amendment makes the j 
+The grand jury the 
+principal charging body in the federal system. Under 
+
+
+9 
+
+
+this Court’s precedents, however, automatic reversal is 
+unwarranted when an indictment omits to allege a fact 
+necessary to support a criminal punishment above the 
+otherwise-applicable statutory maximum. The omission 
+of such an allegation, like most constitutional errors, is 
+subject to plain-error and harmless-error review. 
+1. In Apprendi, this Court held, as a matter of con- 
+stitutional law, that “{o]ther than the fact of a prior 
+conviction, any fact that increases the penalty for a 
+crime beyond the prescribed statutory maximum must 
+be submitted to a jury, and proved beyond a reasonable 
+doubt.” 530 U.S. at 490. Although Apprendi did “not 
+address the indictment question separately,” id. at 477 
+n.3, its holding was based, in substantial part, on the 
+conclusion that, under the common law and thereafter, 
+facts that increased the punishment for a crime had to 
+be charged in the indictment and found by the jury. See 
+id. at 478-481; see also id. at 483 n.10 (historical evi- 
+dence “point({s] to a single, consistent conclusion: The 
+judge’s role in sentencing is constrained at its outer 
+limits by the facts alleged in the indictment and found 
+by the jury”). Apprendi also noted that its holding was 
+“foreshadowed” by the Court’s statement in Jones v. 
+United States, 526 U.S. 227 (1999), that “any fact ‘other 
+than prior conviction) that increases the maximu™ pen- 
+alty for a crime must be charged in an indicv: :ent, 
+submitted to a jury, and proven beyond a reasonable 
+doubt.” 530 U.S. at 476 (quoting Jones, 526 U.S. at 243 
+n.6). 
+
+Before Apprendi, the courts of appeals uniformly 
+concluded that threshold drug quantities that increased 
+the statutory maximum sentence under 21 U.S.C. 
+841(b) were sentencing factors that did not have to be 
+charged in a grand jury indictment or proved to a petit 
+jury beyond a reasonable doubt. See United States v. 
+
+
+10 
+
+
+Sanchez, No. 00-13347, 2001 WL 1242087, at *11 (11th 
+Cir. Oct. 17, 2001) (en banc) (discussing pre-Apprendi 
+cases). After Apprendi, the courts of appeals have 
+uniformly concluded that threshold drug quantities 
+must be charged in a federal indictment and proved to a 
+jury beyond a reasonable doubt to support an en- 
+hancement in the statutory maximum sentence. See 
+United States v. Promise, 255 F.3d 150, 156-157 (4th 
+Cir. 2001) (en banc) (citing cases from seven other cir- 
+cuits), petition for cert. pending, No. 01-6398 (Sept. 20, 
+2001). That conclusion follows from the logic of the 
+Court’s reasoning in Apprendi and the nature of the 
+statutory scheme in Section 841(b).” 
+
+Under the graduated penalties set forth in 21 U.S.C. 
+841(b), when a defendant has been found guilty of a 
+drug offense involving any detectable quantity of a 
+Schedule II controlled substance (such as cocaine or 
+cocaine base, see 21 U.S.C. 812), Section 841(b)(1)(C) 
+authorizes “a term of imprisonment of not more than 20 
+years.” If, however, a defendant’s offense involves at 
+least 500 grams of cocaine or at least 5 grams of cocaine 
+base, he is subject to a term of imprisonment that “may 
+be not less than 5 years and not more than 40 years.” 
+21 U.S.C. 841(b)(1)(B)(ii) and (iii). And if his offense in- 
+volves at least 5 kilograms of cocaine or at least 50 
+grams of cocaine base, he is subject to a term of 
+
+
+2 The government previously argued in the lower courts that 
+Apprendi should not be extended to the indictment stage of a fed- 
+eral criminal prosecution. In Promise, 255 F.3d at 156-157, and 
+Sanchez, 2001 WL 1242087 at *18, *49 n.51, the en banc Fourth and 
+Eleventh Circuits rejected that contention, and all of the other 
+circuits that have addressed the question have held that Apprendi 
+requires drug quantity to be charged in a federal indictment to 
+support an increase in the statutory maximum sentence. The 
+government does not contend otherwise here. 
+
+
+11 
+
+
+imprisonment that “may not be less than 10 years or 
+more than life.” 21 U.S.C. 841(b)(1)(A)(ii) and (iii). 
+Under that scheme, sentences above the 20-year 
+statutory maximum authorized by Section 841(b)(1C) 
+depend on the presence of a penalty-enhancing fact, 
+such as the fact here that respondents’ offenses in- 
+volved at least 50 grams of cocaine base. Under Ap- 
+prendi’s reasoning, that fact must be alleged in the 
+indictment to support a sentence above 20 years’ im- 
+prisonment. As the court of appeals concluded, there- 
+fore, the imposition of sentences of more than 20 years 
+imprisonment in this case was error because of the 
+omission of threshold drug quantity allegations from 
+ing indictment. 
+oo of appeals was incorrect, however, in 
+holding that the Apprendi indictment error automati- 
+cally requires reversal of respondents’ sentences, de- 
+spite the overwhelming evidence that respondents of- 
+fenses involved a sufficient quantity of drugs to trigger 
+those sentences and respondents’ notice that the gov- 
+ernment could seek enhanced sentences based on drug 
+quantity. See App., infra, 15a (observing that, “[wJhile 
+
+
+3 Similar quantity-based increases apply to other controlled 
+substances, such as heroin, LSD, and methamphetamine. In 
+addition, enhanced sentencing ranges apply to defendants with 
+prior drug felony convictions. For example, a defendant with one 
+prior drug felony conviction is exposed to a sentence of up to 30 
+years’ imprisonment under 21 U.S.C. 841(b\1(C); of 10 years’ to 
+life imprisonment under 21 U.S.C. 841(b)(1)(B); and of 20 years’ to 
+life imprisonment under 21 U.S.C. 841(b)(1)(A). Offenses that 
+result in bodily injury or death also receive enhanced punishment 
+under the subparagraphs of Section 841(b). 
+
+¢ Apprendi, although decided after the return of the supersed- 
+ing indictment, applies here because the case is still pending on 
+direct review. See Griffith v. Kentucky, 479 U.S. 314 (1987). 
+
+
+12 
+
+
+the government may well be correct as a factual mat- 
+ter” that the evidence “overwhelmingly establishes” 
+drug quantities necessary to authorize respondents’ 
+sentences, “the quantum of evidence is not a relevant 
+consideration when the error stems from a defect in the 
+indictment”); id. at 14a-15a n.5 (“we do not consider 
+post-ind:ctr-ent notice to be relevant”). 
+
+This Court has recognized that “most constitutional 
+errors can be harmless,” and has “found an error to be 
+‘structural,’ and thus subject to automatic reversal, only 
+in a ‘very limited class of cases,’” such as those in- 
+volving a denial of counsel, a biased trial judge, or 
+racial discrimination in jury selection. Neder v. United 
+States, 527 U.S. 1, 5, 8 (1999) (quoting Johnson v. 
+United States, 520 U.S. 461, 468 (1997)). In contrast to 
+those errors that have been held to be “structural,” the 
+Court explained in Neder, a jury “instruction that omits 
+an element of the offense does not necessarily render a 
+criminal trial fundamentally unfair or an unreliable 
+vehicle for determining guilt or innocence.” Jd. at 9. 
+The omission of an element from an indictment, like the 
+omission of an element from a jury instruction in Neder, 
+does not necessarily render a criminal proceeding 
+“fundamentally unfair” or “unreliable.” It is thus not a 
+circumstance in which automatic reversal is required. 
+
+Moreover, the claim of error in this case, as in many 
+cases that involve sentences imposed before Apprendi, 
+was not raised in the district court. As this Court has 
+made clear, all claimed errors in federal criminal trials, 
+regardless of their nature or seriousness, are subject to 
+the plain-error rules set out in Rule 52(b) of the Federal 
+Rules of Criminal Procedure when the defendant does 
+not make a timely objection in the district court. See 
+Johnson, 520 U.S. at 466-467 (in order for an appellate 
+court to correct an error that was not raised in the trial 
+
+
+13 
+
+
+court, there must be (1) an error, (2) that is “plain,” 
+(3) that “affect[s] substantial rights,” and (4) that “seri- 
+ously affect[{s] the fairness, integrity, or public reputa- 
+tion of judicial proceedings”). “‘No procedural principle 
+is more familiar to this Court than that a constitutional 
+right,’ or a right of any other sort, ‘may be forfeited in 
+criminal as well as civil cases by the failure to make 
+timely assertion of the right before a tribunal having 
+jurisdiction to determine it.’” United States v. Olano, 
+507 U.S. 725, 731 (1993) (quoting Yakus v. United 
+States, 321 U.S. 414, 444 (1944)). te conclusion that 
+a icular t of error is “structural,” or “so serious 
+rae + doesn analysis,” suggests only that 
+such an error may always “affec[t] substantial rights, 
+thus satisfying the third of the four requirements for 
+plain-error relief. See Johnson, 520 US. at 468-469. 
+Under the fourth requirement, a prejudicial error 
+(including a “structural” one) that would clearly be 
+grounds for relief if it was properly preserved is not a 
+proper ground for relief if it was not preserved, unless 
+it also “seriously affect(s) the fairness, integrity or 
+public reputation of judicial proceedings.” Jd. at 469- 
+470 (quoting Olano, 507 U.S. at 736). ae 
+Here, as in Johnson, relief on plain-error review is 
+not warranted, because the indictment error does not 
+call into question the fairness, integrity, or public repu- 
+tation of the judicial proceedings resulting in respon- 
+dents’ sentences. As Chief Judge Wilkinson noted in 
+dissent, “there is no question that [respondents] par- 
+ticipated in a conspiracy to distribute more than 50 
+grams of cocaine base,” the quantity necessary to 
+trigger a sentence of life imprisonment under Section 
+
+
+—841(b)(1)(A)Giii).. App., infra, 24a; see also id. at 26a-28a 
+
+
+(describing some of “the most incriminating evidence 
+regarding the quantity of cocaine base” involved in 
+
+
+14 
+
+
+respondents’ offenses). It is also “difficult to believe 
+that [respondents] lacked notice that they faced [Sec- 
+tion 841(b)’s] strictest penalties,” especially since the 
+original indictment expressly charged them with par- 
+ticipation in a conspiracy involving, inter alia, at least 
+50 grams of cocaine base and the factual presentation 
+involved quantities that supported “the elevated 
+penalties available under” Section 841(b)(1)(A). Jd. at 
+28a-29a. Under these circumstances, overturning 
+respondents’ sentences is an unjustified response to the 
+omission of a drug quantity allegation from the indict- 
+ment. Cf. Johnson, 520 U.S. at 469-470 (declining to 
+reverse a conviction on plain-error review when a petit 
+wary instruction a an element on which the evi- 
+ence was “overwhelming” and “ 
+- 7 g” essentially uncontro- 
+
+3. In concluding that a sentence that exceeds the 
+otherwise applicable statutory maximum based on a 
+fact not alleged in the indictment must automatically be 
+reversed under the plain-error standard, the court of 
+appeals reasoned, in reliance on Ex parte Bain, 121 
+US. 1 (1887), that a district court “exceed{s] its juris- 
+diction” to impose such a sentence. App., infra, 9a. 
+Bain does not justify that conclusion. 
+
+In Bain, this Court granted collateral relief after the 
+trial court permitted the government to strike a portion 
+of the indictment and try the defendant on a narrower 
+theory than the one set forth in the indictment. 
+Although the Court characterized the error as one that 
+erErived the trial court of “jurisdiction,” 121 US. at 13 
+
+characterization is contrary to the Court’s prece- 
+dents. See, ¢.g., Ex parte Watkins, 28 U.S. (3 Pet.) 193, 
+201 (1830) (Marshall, C.J.) (explaining that, even if the 
+habeas petitioner were correct in claiming that “the in- 
+dictment charges no offence for which [he] was punish- 
+
+
+15 
+
+
+able in that court,” such an error would not mean that 
+the trial court lacked jurisdiction); Lamar v. United 
+States, 240 U.S. 60, 65 (1916) (Holmes, J.) (explaining 
+that an “objection that the indictment does not charge a 
+crime against the United States goes only to the merits 
+of the case,” not to the district court’s jurisdiction). 
+
+The characterization in Bain appears to have re- 
+sulted from the fact that, at that time, habeas relief 
+could be granted only when the court that rendered 
+judgment lacked jurisdiction. See Schlup v. Delo, 513 
+U.S. 298, 317 (1995) (“[T]Jhe writ originally performed 
+only the narrow function of testing either the jurisdic- 
+tion of the sentencing court or the legality of Executive 
+detention.”); Preiser v. Rodriguez, 411 U.S. 475, 485 
+(1973) (under “(tJhe original view,” the “relevant in- 
+quiry was confined to determining simply whether or 
+not the committing court had been possessed of juris- 
+diction”). Subsequently, however, the Court recognized 
+that its authority to award habeas relief exists when- 
+ever the judgment under review involves constitutional 
+error, regardless of whether the error could be de- 
+scribed as “jurisdictional.” See Custis v. United States, 
+511 U.S. 485, 494 (1994); Waley v. Johnston, 316 U.S. 
+101, 104-105 (1942) (per curiam); see also Wainwright v. 
+Sykes, 433 U.S. 72, 79 (1977) (by the time of Waley, the 
+Court “openly discarded the concept of jurisdiction—by 
+then more a fiction than anything else—as a touchstone 
+of the availability of federal habeas review”). The use 
+of the term “jurisdictional error” to describe an error 
+other than an utter lack of power even to adjudicate the 
+merits of a motion is thus generally obsolete. 
+
+Today, the omission from the indictment of an essen- 
+tial element (or sentence-enhancing fact) is appropri- 
+ately understood as a constitutional error, not a juris- 
+dictional error. It involves a violation of the Fifth 
+
+
+\ 
+
+
+16 
+
+
+Amendment right to be tried for a federal felony 
+offense only after an indictment has been returned. 
+That error should be evaluated under the same harm- 
+less-error and plain-error standards that are applicable 
+to other deprivations of a defendant’s constitutional 
+rights.” 
+
+The court of appeals also cited Stirone v. United 
+States, 361 U.S. 212 (1960). App., infra, 9a-10a, lla. In 
+Stirone, the Court held that a defendant was deprived 
+of his Fifth Amendment right to a grand jury indict- 
+ment when the government proved an element at trial 
+in a manner that departed from the way in which that 
+element was alleged in the indictment. The Court went 
+on to observe that such a deprivation “is far too serious 
+to be treated as nothing more than a variance and then 
+dismissed as harmless error.” 361 U.S. at 217. Stirone 
+was decided before the Court’s comprehensive adoption 
+of harmless-error analysis in Chapman v. California, 
+386 U.S. 18 (1967). As Justice Stewart noted in his con- 
+currence in that case, before Chapman, the Court had 
+“steadfastly rejected any notion that constitutional 
+
+
+5 The conclusion that an indictment’s failure to allege an essen- 
+tial element of an offense is not a fatal defect that deprives the 
+district court of jurisdiction is confirmed by the fact that the right 
+to a grand jury indictment may be waived. See Fed. R. Crim. P. 
+7(b) (defendant in a non-capital case may waive right to indictment 
+and allow the government to proceed by information). But a true 
+absence of subject-matter jurisdiction cannot be waived. See 
+United States v. Griffin, 303 U.S. 226, 229 (1938) (“lack of jurisdic- 
+tion of a federal court touching the subject matter of the litigation 
+cannot be waived by the parties”). As the Eleventh Circuit has 
+explained, “[tJhe constitutional right to be charged by a grand jury 
+is a personal right of the defendant and does not go to the district 
+court’s subject matter jurisdiction because it may be waived.” 
+McCoy v. United States, No. 00-16434, 2001 WL 1131653, at *2 
+(11th Cir. Sept. 25, 2001). 
+
+
+17 
+
+
+violations might be disregarded on the ground that 
+they were ‘harmless.’” Jd. at 42-43 (Stewart, J., concur- 
+ring) (collecting cases). Stirone, which was decided in an 
+era in which constitutional errors generally required 
+per se reversal, therefore does not control the analysis 
+in this case. As noted above, the Court recognized in 
+Neder that most constitutional errors can be harmless, 
+and did not identify Stirone as one of the “very limited 
+class of cases” that involve an exception to that rule. 
+See 527 U.S. at 8; see also App., infra, 31a (Wilkinson, 
+C.J., concurring in part and dissenting in part) (noting 
+that this Court has “not include[{d] indictment defects in 
+its list of structural errors”).° 
+
+Nor does Silber v. United States, 370 U.S. 717 (1962) 
+(per curiam), on which the court of appeals also relied 
+(see App., infra, 12a-13a), establish that an indictment 
+error requires reversal in all circumstances. Silber 
+
+
+6 Moreover, Stirone involved a claim of error that was properly 
+preserved at trial. See 361 U.S. at 214. The Court thus had no 
+occasion to address the analysis that would have applied if the 
+claim had been raised for the first time on appeal. This case, like 
+many similar cases decided by the courts of appeals in the wake of 
+Apprendi, involves a claim of indictment error that was not raised 
+in the district court and thus is reviewed under the plain-error 
+standard. Stirone is also inapplicable here because, in contrast to a 
+case like Stirone, in which “the charging terms (or allegations in 
+the indictment) are materially broadened and altered to such a 
+significant extent as to constitute an entirely new or different 
+theory of the case, * * * allegations in § 846 or § 841 indictments 
+that charge generally that a defendant conspired or possessed with 
+intent to distribute cocaine base are not even broadened when a 
+precise amount of that alleged cocaine base is proven at trial or at 
+sentencing. Proof that supports only a precise drug quantity falls 
+within [the defendant’s] broader drug conspiracy and, if anything 
+narrows the allegations in the indictment to that amount.” McCoy, 
+2001 WL 1131653, at **4-5. 
+
+
+18 
+
+
+recognized that this Court may, “{iJn exceptional cir- 
+cumstances,” notice errors that were not raised on 
+appeal, “if the errors are obvious, or if they otherwise 
+seriously affect the fairness, integrity or public reputa- 
+tion of judicial proceedings.” 370 U.S. at 718. The 
+Court, applying that standard, held that the indictment 
+error in Silber, which was raised and decided in the 
+district court, warranted reversal of a conviction under 
+a supervening decision of the Court, even though the 
+defendant had not asserted the indictment error on 
+appeal. But the Court did not hold that all indictment 
+errors in violation of the Fifth Amendment necessarily 
+require reversal under that standard. See App., infra, 
+32a-33a (Wilkinson, C.J., concurring in part and dissent- 
+ing in part) (discussing Silber). In any event, Silber, 
+like Stirone, predates this Court’s articulation of harm- 
+less-error analysis in Chapman, and this Court has not 
+had an opportunity to address the effect of Chapman 
+on those earlier holdings. 
+
+
+B. The Courts Of Appeals Are In Conflict On The 
+Proper Disposition Of Claims Of Erroneous Omis- 
+sions From Federal Indictments, And This Court’s 
+Resolution Of That Conflict Is Warranted 
+
+
+1. The courts of appeals have fallen into an irrec- 
+oncilable conflict over whether the omission of an 
+allegation of threshold drug quantity always warrants 
+reversal of a sentence that exceeds the statutory maxi- 
+mum authorized by Section 841(b) without regard to 
+drug quantity. 
+
+The Eleventh Circuit has “consistently applied plain 
+error and harmless error review to Apprendi claims 
+that an indictment failed to include a specific drug 
+quantity,” and has affirmed enhanced sentences, de- 
+spite the omission of a drug quantity allegation from 
+
+
+19 
+
+
+the indictment, if no rational jury would have convicted 
+the defendant “without concluding that [he] was re- 
+sponsible for a drug amount sufficient to justify the 
+enhanced sentence.” United States v. Cromartie, No. 
+00-13957, 2001 WL 1167785, at ** 2-4 (Oct. 3, 2001) (per 
+curiam). The en banc court reaffirmed that point in 
+Sanchez, 2001 WL 1242087, at **15-16 (rejecting the 
+argument that Apprendi indictment error is “struc- 
+tural” or “jurisdictional”). See also United States v. 
+Swatzie, 228 F.3d 1278, 1281-1284 (11th Cir. 2000), cert. 
+denied, 121 S. Ct. 2600 (2001). Similarly, the First and 
+Seventh Circuits have applied the plain-error standard 
+to Apprendi indictment errors and have upheld en- 
+hanced sentences where it is clear that any rational 
+jury that convicted the defendant would have found, if 
+asked, that the offense involved the enhancing quantity 
+of drugs. See, e.g., United States v. Terry, 240 F.3d 65, 
+74-75 (1st Cir.), cert. denied, 121 S. Ct. 1965 (2001); 
+United States v. Patterson, 241 F.3d 912, 914 (7th Cir.) 
+(per curiam), cert. denied, No. 00-10365 (Oct. 1, 2001); 
+United States v. Nance, 236 F.3d 820, 825-826 (7th Cir. 
+2000), cert. denied, No. 00-9633 (Oct. 1, 2001); see also 
+App., infra, 33a (Wilkinson, C.J., concurring in part and 
+dissenting in part) (noting circuit conflict). 
+
+In contrast, the Fifth Circuit has concluded that auto- 
+matic reversal of enhanced sentences is required when 
+drug quantity is not alleged in the indictment, see 
+United States v. Longoria, 259 F.3d 363, and United 
+States v. Gonzalez, 259 F.3d 355, although the court has 
+granted rehearing en banc to reconsider that position, 
+see 262 F.3d 455 (2001). The Eighth Circuit has taken 
+the same position, at least when the defendant is con- 
+victed after a trial and has not stipulated to drug 
+quantity, United States v. Maynie, 257 F.3d 908 (2001), 
+and on October 18, 2001, it denied the government’s 
+
+
+20 
+
+
+petition for rehearing and rehearing en banc. And the 
+Fourth Circuit’s holding in this case accords with the 
+position articulated by a majority of the en banc court’s 
+members in Promise, supra. See App., infra, 14a. 
+
+2. The circuit conflict about the application of plain- 
+error or harmless-error review to the omission of drug 
+quantity from indictments charging drug-trafficking 
+offenses is indicative of a broader conflict about 
+whether the omission of an offense element from an 
+indictment invariably requires reversal. 
+
+The Tenth Circuit, sitting en banc, recently overruled 
+prior precedents and held, under Neder, that omission 
+of an offense element from an indictment is subject to 
+harmless-error analysis. United States v. Prentiss, 256 
+F.3d 971, 981-985 (2001) (per curiam) (affirming convic- 
+tion under harmless-error standard where indictment 
+charging arson committed in Indian country under 
+18 U.S.C. 81 and 1152 failed to allege Indian and non- 
+Indian status of victim and defendant).’ The Tenth 
+Circuit expressly disagreed with recent decisions of 
+two other circuits—United States v. Tran, 234 F.3d 798 
+(2d Cir. 2000), and United States v. Spinner, 180 F.3d 
+514 (3d Cir. 1999)—that hold that the omission of an 
+element from the indictment is a “jurisdictional” error 
+that requires automatic reversal. Prentiss, 256 F.3d at 
+982. Similarly, the First Circuit has held that the 
+failure to allege the type of firearm in an indictment 
+under 18 U.S.C. 924(c) does not require automatic re- 
+
+
+7 In United States v. Jackson, 240 F.3d 1245, 1247-1249, cert. 
+denied, No. 00-10251 (Oct. 1, 2001), a case decided before Prentiss, 
+the Tenth Circuit held that the failure to charge drug quantity in 
+an indictment under 21 U.S.C. 841 is not susceptible to plain-error 
+or harmless-error review when the sentence exceeds the otherwise 
+applicable statutory maximum. The Tenth Circuit has not ad- 
+dressed the relationship between Jackson and Prentiss. 
+
+
+21 
+
+
+versal of a conviction for an aggravated offense, when 
+the evidence of firearm type was overwhelming and the 
+defendants had adequate notice that firearm type was 
+at issue. United States v. Mojica-Baez, 229 F.3d 292, 
+308-311 (2000), cert. denied, 121 S. Ct. 2215 (2001). 
+
+In contrast, the Second Circuit held in Tran that the 
+omission of the type of firearm from an indictment 
+charging a violation of 18 U.S.C. 924(c) deprived the 
+district court of jurisdiction to sentence the defendants 
+for an aggravated offense based on the type of firearm. 
+See 234 F.3d at 808-810; see also id. at 809 & n.2 
+(expressly disagreeing with Mojica-Baez). The en banc 
+Second Circuit is reconsidering the reasoning of the 
+Tran panel in United States v. Thomas, Nos. 98-1051 et 
+al., a case involving a claim of indictment error under 
+Apprendi in a drug prosecution under 21 U.S.C. 841. 
+See 248 F.3d 76, 78 (2d Cir. 2001) (ordering rehearing 
+en banc and requesting briefing on the soundness of 
+Tran’s reasoning). Other courts have also ruled that 
+indictment errors are necessarily fatal. See, e.g., 
+United States v. Cabrera-Teran, 168 F.3d 141, 144-147 
+(5th Cir. 1999) (district court was without jurisdiction 
+to accept guilty plea where indictment charging illegal 
+reentry under 8 U.S.C. 1326 failed to allege that 
+defendant had been arrested); Spinner, 180 F.3d at 515- 
+516 (omission of interstate commerce element from in- 
+dictment charging access fraud under 18 U.S.C. 
+1029(a)(5) was “jurisdictional defect” that required 
+automatic reversal of conviction). 
+
+As those decisions illustrate, omissions of an essential 
+allegation from an indictment can result from interven- 
+ing clarifications of the law by appellate courts as well 
+as from oversights by prosecutors in drafting indict- ° 
+ments. Although federal prosecutors have, since the 
+Court’s decision in Apprendi, routinely charged thresh- 
+
+
+22 
+
+
+old drug quantities in indictments when sentencing will 
+be governed by 21 U.S.C. 841, the question whether 
+indictment errors automatically require reversal will 
+continue to arise outside the context of Apprendi and 
+Section 841. The recurring question of how to treat 
+indictment errors, which has recently been addressed 
+by three en banc courts and is pending before two 
+others, requires the reconciliation of this Court’s prece- 
+dents and can be finally and uniformly resolved only by 
+this Court. 
+
+
+CONCLUSION 
+
+
+The petition for a writ of certiorari should be 
+granted. 
+Respectfully submitted. 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+
+
+MICHAEL CHERTOFF | 
+Assistant Attorney General 
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+BARBARA MCDOWELL 
+Assistant to the Solicitor 
+General 
+
+
+NINA GOODMAN 
+Attorney 
+
+
+OCTOBER 2001 
+
+
+APPENDIX A 
+
+
+UNITED STATES COURT OF APPEALS 
+FOR THE FOURTH CIRCUIT 
+
+
+Nos. 99-4162 to 99-4164, 99-4175, 99-4189 to 99-4191 
+and 99-4197 
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+v. 
+
+
+LEONARD COTTON, A/K/A COOCH, 
+DEFENDANT-APPELLANT 
+
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+Vv. 
+
+
+DARLENE GREEN, A/K/A SPRINKLES, 
+DEFENDANT-APPELLANT 
+
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+
+
+v. 
+MARQUETTE HALL, A/K/A BUTT NAKED, 
+DEFENDANT-APPELLANT 
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+v. 
+
+
+LAMONT THOMAS, A/K/A TREE, 
+DEFENDANT-APPELLANT 
+
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+v. 
+MATILDA HALL, DEFENDANT-APPELLANT 
+
+
+(la) 
+
+
+2a 
+
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+vz. 
+JOVAN POWELL, DEFENDANT-APPELLANT 
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+vz. 
+
+
+JESUS HALL, A/K/A WEEDY, A/K/A JESSE HALL, 
+DEFENDANT-APPELLANT 
+
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE 
+Vv. 
+
+
+STANLEY HALL, JR., A/K/A BOONIE, 
+DEFENDANT-APPELLANT 
+
+
+[Argued: Apr. 4, 2001) - 
+(Decided: Aug. 10, 2001] 
+
+
+Before: WILKINSON, Chief Judge, and LUTTIG and 
+GREGORY, Circuit Judges. 
+
+
+LUTTIG, Circuit Judge: 
+
+
+Stanley Hall, Jr. and seven other members of a drug 
+organization (collectively “appellants”) were convicted 
+of one count of conspiracy to distribute and possession 
+with intent to distribute cocaine hydrochloride and co- 
+caine base, in violation of 21 U.S.C. §§ 841(a)(1) and 846. 
+Appellants raise a number of challenges to their convic- 
+tions and sentences. For the reasons that follow, we 
+affirm the convictions, and vacate and remand for re- 
+sentencing. 
+
+
+. 3a 
+
+
+Stanley Hall, Jr. (“Hall, Jr.”), the leader of a vast 
+drug organization, was the principal supplier of drugs in 
+the 200 block of North Duncan Street in Baltimore, 
+Maryland. According to testimony adduced at trial, 
+Hall, Jr., with the assistance of a number of the other 
+appellants, obtained a supply of cocaine in kilogram 
+quantities from a dealer in New York City, and then 
+“cooked” the cocaine into crack and “bagged” it for 
+distribution. Hall, Jr. would then distribute the drugs 
+to his dealers, including the other appellants, who 
+would, in turn, sell cocaine and crack to their customers. 
+
+
+In October 1997, federal authorities obtained search 
+warrants for the residences utilized by the appellants 
+for their drug trade. Following the seizure of drugs, 
+drug paraphernalia, currency, and weapons, appellants 
+were arrested and charged with a single count of 
+conspiracy to distribute and possession with intent to 
+distribute cocaine hydrochloride and cocaine base. J.A. 
+86. 
+
+
+Appellants were convicted by a jury of the sole count 
+of the indictment.' The district court sentenced Hall, 
+Jr., Leonard Cotton, Lamont Thomas, and Marquette 
+and Jesus Hall to life imprisonment upon finding, by a 
+preponderance of the evidence, that over 1.5 kilograms 
+of cocaine base was attributable to = rl — 
+partici n in the conspiracy. J.A. 822-23 (Hall, Jr.); 
+J.A. ~ yry eee J.A. 507 (Cotton); J.A. 723 (Jesus 
+Hall); J.A. 505 (Marquette Hall). Based on the same 
+finding regarding drug quantity, the district court 
+sentenced Jovan Powell to 30 years imprisonment. J.A. 
+
+
+1 The jury acquitted one defendant, Roger Evans. 
+
+
+4a 
+
+
+769-70. Matilda Hall also received 30 years imprison- 
+ment based on the district court’s finding, by a pre- 
+ponderance of the evidence, that she was responsible 
+for more than 500 grams, but less than 1.5 kilograms, of 
+cocaine base from her participation in the conspiracy. 
+J.A. 667-68. Finally, Darlene Green was sentenced to 
+15 years imprisonment based upon the district court’s 
+attribution of more limited quantities of cocaine base to 
+her. J.A. 541. 
+
+
+Following sentencing, appellants filed a motion for a 
+new trial on the basis of newly discovered evidence, and 
+this appeal was stayed pending the district court’s 
+resolution of that motion. The district court subse- 
+quently denied the motion. 
+
+
+Appellants argue that the district court erred when it 
+sentenced them based upon its findings regarding the 
+quantity of a drug—cocaine base—carrying a potentially 
+higher statutory penalty, because the jury’s verdict 
+was ambiguous with regard to which drug was the 
+object of the conspiracy. Thus, they contend that pur- 
+suant to our decision in United States v. Rhynes, 196 
+F.3d 207 (4th Cir. 1999), vacated in part on other 
+grounds, 218 F.3d 310 (4th Cir. 2000) (en banc), the lack 
+of a special jury verdict form requiring the jury to 
+determine specifically whether the conspiracy involved 
+cocaine hydrochloride, cocaine base, or both, con- 
+strained the district court to sentence appellants based 
+on the drug carrying the lower statutory penalty. 
+
+In Rhynes, the jury was instructed that it could find 
+defendants guilty if they distributed or possessed with 
+intent to distribute any of the drugs charged as part 
+of the conspiracy, which included marijuana, cocaine, 
+
+
+5a 
+
+
+heroin, or cocaine base. 196 F.3d at 237. Because the 
+jury returned a general verdict of guilty, we held that 
+the district court’s instruction created ambiguity as to 
+whether the jury found a conspiracy to distribute all 
+the drugs, a single drug, or some combination thereof. 
+See id. at 238. As a result of such ambiguity, we held 
+that the district court could not impose a “sentence in 
+excess of the statutory maximum for the least-punished 
+object on which the conspiracy conviction could have 
+been based.” Jd. 
+
+
+In the present case, there is no Rhynes error because 
+the jury was unambiguously instructed that a con- 
+spiracy conviction could be based only upon a finding 
+—as charged by the government in the indictment 
+—that appellants conspired to distribute or possessed 
+with intent to distribute cocaine hydrochloride and 
+
+cocaine base.” S.A. (“In order to establish the offense of 
+conspiracy to distribute and possess with intent to 
+distribute cocaine hydrochloride and cocaine base as 
+charged in the indictment, the government must prove 
+two elements, beyond a reasonable doubt.”) (emphasis 
+added); S.A. 13 [8] (“If you find that the materials 
+
+
+2 Nor does the jury instruction cited by appellants compel a 
+contrary conclusion. S.A. 6 (“You are instructed that, as a matter 
+of law, cocaine hydrochloride and cocaine base are both controlled 
+substances as those terms are used in these instructions and in the 
+indictment and the statutes I just read to you. You must, of 
+course, determine whether or not the materials in question were, 
+in fact, either cocaine hydrochloride, or cocaine base.”). For, in 
+instructing the jury on the definition of “controlled substance,” the 
+district court was not charging the jury on what it must find to 
+convict appellants of conspiracy, but, rather, was instructing the 
+jury that either cocaine hydrochloride or cocaine base qualify as 
+“controlled substance(s)},” as that term is defined in 21 U.S.C. 
+
+
+§ 802(6). 
+
+
+6a 
+
+
+involved in the charged conspiracy were cocaine hydro- 
+chloride and cocaine base, you need not be concerned 
+with the quantities, so as [sic] long as you find that a 
+defendant conspired to distribute or possessed with 
+intent to distribute these controlled substances, the 
+amounts involved are not important.”) (emphasis 
+added). Furthermore, the evidence was sufficient in 
+this case if not overwhelming to support a “construc- 
+tion” of the verdict that the jury found a conspiracy 
+with regard to cocaine base and cocaine hydrocholoride 
+where, inter alia, approximately 380 grams of cocaine 
+base and 85 grams of cocaine hydrochloride were actu- 
+ally seized from the various conspirators and “stash 
+houses.” See United States v. Green, 180 F.3d 216, 226 
+(5th Cir. 1999) (stating that “even where there is a 
+conspiracy general verdict, the sentencing court can 
+still conclude that the jury found, beyond a reasonable 
+doubt, guilt for more than just one object-offense” when 
+the jury has not been instructed in the alternative and 
+the evidence “would support such construction of the 
+verdict actually obtained”); United States v. Watts, 950 
+F.2d 508, 515 (8th Cir. 1991) (stating that where an 
+indictment was phrased in the conjunctive and 
+“evidence of all three drugs was introduced,” the court 
+“did not elicit an ambiguous or unclear verdict from the 
+jury”). 
+
+Accordingly, we are “more than confident, that the 
+jury was convinced beyond a reasonable doubt that 
+both cogaine [hydrochloride] and [cocaine base] were in- 
+volved” and that appellants were convicted of a single 
+multi-drug conspiracy. Green, 180 F.3d at 226. Because 
+we can discern no ambiguity in this jury verdict, we 
+conclude that the district court did not err in sentencing 
+
+
+7a 
+
+
+appellants based upon the relevant penalty provisions 
+for cocaine base. 
+
+
+Appellants (except Darlene Green, who was sen- 
+tenced to a term of less than 20 years imprisonment)* 
+also contend that their sentences are invalid under 
+Apprendi v. New Jersey, 530 U.S. 466, 120 S. Ct. 2348, 
+147 L.Ed.2d 435 (2000), because a specific threshold 
+drug quantity was neither alleged in the indictment nor 
+proven to the jury beyond a reasonable doubt. Because 
+appellants failed to raise this argument before the 
+district court, we review for plain error. See Fed. R. 
+
+
+3 Darlene Green raises two challenges to her sentence, neither 
+of which has merit. First, Green argues that the district court 
+erred in failing to grant a two-level downward adjustment on the 
+
+that she was a “minor participant” in the conspiracy. See 
+U.S.S.G. § 3B1.2(b). Green admitted at trial, however, that she 
+was a drug dealer, and, of course, in convicting her, the jury found 
+that she was a member of the drug conspiracy. Thus, as we have 
+previously held, a district court does not clearly err in declining to 
+grant a dealer a downward adjustment for “minor participation” 
+because a “seller” possesses “a central position in a drug distri- 
+bution conspiracy.” United States v. Brooks, 957 F.2d 1138, 1149 
+(4th Cir.1992). 
+
+Second, Green contends that the district court erred in granting 
+her a two-level upward adjustment for obstruction of justice. We 
+reject Green’s argument because there was ample evidence from 
+which the district court concluded that Green provided “materially 
+false information” to the jury that went far beyond a mere denial of 
+guilt. United States v. Romulus, 949 F 2d 713, 717 (4th Cir. 1991); 
+see also United States v. Gormley, 201 F.3d 290, 294 (4th Cir. 2000) 
+(holding that the district court did not err in imposing an obstruc- 
+tion of justice enhancement where defendant’s false statements 
+went beyond “merely denying his guilt”). 
+
+
+8a 
+
+
+Crim. P. 52(b); United States v. Olano, 507 U.S. 725, 
+731-32, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993). 
+
+
+In United States v. Promise, 255 F.3d 150 (4th Cir. 
+2001), this court, sitting en banc, held that because drug 
+quantity “must be treated as an element of an aggra- 
+vated drug trafficking offense” under 21 U.S.C. § 841, 
+Promise, 255 F.3d at 156, the failure to charge a specific 
+threshold drug quantity in the indictment and to submit 
+the quantity issue to the jury constitutes plain error, 
+see id. at 159-60. We further concluded that such error 
+affects defendants’ substantial rights where, as here, 
+
+
+the defendants are sentenced to a term of imprisonment ~ 
+
+
+greater than that set forth in section 841(b)(1)(C) for a 
+conviction based on an undetermined quantity of drugs, 
+see id. at 160-62, and the defendants can demonstrate 
+that their sentence is “longer than that to which [they] 
+would otherwise be subject,” United States v. Angle, 
+254 F.3d 514, 518 (4th Cir. 2001) (en banc). 
+
+
+However, the question left open by Promise is 
+whether the failure to charge drug quantity in the 
+indictment and to submit it to the jury “‘seriously 
+affect[s] the fairness, integrity or public reputation of 
+judicial proceedings,’” Olano, 507 U.S. at 736, 113 S. Ct. 
+1770 (quoting United States v. Atkinson, 297 U.S. 157, 
+160, 56 S. Ct. 391, 80 L.Ed. 555 (1936)), so that we should 
+exercise our discretion to recognize the error. We now 
+answer that question in the affirmative. 
+
+
+A. 
+
+
+Our initial task is to define the nature of the error in 
+this case. The appellants argue that the district court 
+erred not only by failing to instruct the jury on an 
+essential element—drug quantity—of an aggravated 
+drug offense, but that the district court exceeded its 
+
+
+9a 
+
+
+jurisdiction by sentencing them for a crime with which 
+they were never charged.‘ We agree. 
+
+
+In this case, the government indicted the appellants 
+for a violation of section 841 based upon “a mixture or 
+substance containing a detectable amount of cocaine 
+base, commonly known as ‘crack.’” J.A. 86. Yet the 
+district court, in turn, sentenced seven of the appellants 
+to a term of imprisonment greater than twenty years, 
+the maximum penalty provided for a violation of section 
+841(b)(1)(C) based upon “an identifiable but unspecified 
+quantity” of cocaine base, Promise, 255 F.3d at 156. 
+Consequently, by sentencing the appellants to a term of 
+imprisonment greater than that provided for in section 
+841(b)(1)(C), the appellants received a sentence for a 
+crime—an aggravated drug trafficking offense under 
+section 841(b)(1)(A)—with which they were neither 
+charged nor convicted. 
+
+
+The Fifth Amendment to the United States Consti- 
+tution requires that “[nJo person shall be held to answer 
+for a capital, or otherwise infamous crime, unless on a 
+presentment or indictment of a Grand Jury.” The 
+Supreme Court has explained that “an indictment found 
+by a grand jury [is] indispensable to the power of the 
+court to try the petitioner for the crime with which he 
+was charged,” Ex Parte Bain, 121 U.S. 1, 12-13, 7S. Ct. 
+781, 30 L.Ed. 849 (1887), and “that a court cannot per- 
+mit a defendant to be tried on charges that are not 
+made in the indictment against him,” Stirone v. United 
+States, 361 U.S. 212, 217, 80 S. Ct. 270, 4 L.Ed.2d 252 
+
+
+‘ In contrast, the government argues, as it did in Promise, that 
+the error is merely instructional because drug quantity need not be 
+charged in the indictment, an argument that a majority of this 
+court rejected in Promise. See Promise, 255 F.3d at 156-57. 
+
+
+10a 
+
+
+(1960) (emphasis added). Thus, when an indictment 
+fails to set forth an “essential element of a crime,” 
+“(t]he court . . . ha{s] no jurisdiction to try [a defen- 
+dant] under that count of the indictment.” United 
+States v. Hooker, 841 F.2d 1225, 1232-33 (4th Cir. 1988). 
+
+
+And, of course, a district court cannot impose a sen- 
+tence for a crime over which it does not even have 
+jurisdiction to try a defendant. Indeed, the Supreme 
+Court explained just last year in Apprendi v. New 
+Jersey, 530 U.S. 466, 120 S. Ct. 2348, 147 L.Ed.2d 435 
+(2000), that the “‘indictment must contain an allegation 
+of every fact which is legally essential to the punish- 
+ment to be inflicted,’” 530 U.S. at 490 n.15, 120 S. Ct. 
+2348 (emphasis added) (quoting United States v. Reese, 
+92 U.S. 214, 232-33, 23 L.Ed. 563 (1875)), because “(the 
+judge’s role in sentencing is constrained at its outer 
+limits by the facts alleged in the indictment and found 
+by the jury,” id. at 483 n.10, 120 S. Ct. 2348. Thus, 
+because an indictment setting forth all the essential 
+elements of an offense is both mandatory and juris- 
+dictional, and a “defendant cannot be ‘held to answer’ 
+for any offense not charged in an indictment returned 
+by a grand jury,” United States v. Tran, 234 F.3d 798, 
+808 (2d Cir. 2000), a court is without “jurisdiction to 
+. . . impose a sentence for an offense not charged in the 
+indictment,” id. (emphasis added); id. (“[A] prosecutor 
+cannot make [a] jurisdictional end run, and then urge 
+the court to sentence the defendant for an offense for 
+which the defendant was neither charged nor con- 
+victed.”). 
+
+
+To hold otherwise would be to allow the court to 
+impermissibly broaden the indictment on its own accord 
+during the sentencing phase. To be sure, the district 
+court’s actions in this case did not technically result in a 
+
+
+lla 
+
+
+constructive amendment of the indictment as the court 
+did not broaden “the possible bases for conviction be- 
+yond those presented by the grand jury.” United 
+States v. Floresca, 38 F.3d 706, 710 (1994) (en banc) 
+(emphasis added). But there is no question that “the 
+effect of what it did was the same,” Stirone, 361 U.S. at 
+217, 80 S. Ct. 270, because the district court sentenced 
+the appellants for a crime with which they were never 
+charged. See Promise, 255 F.3d at 188-89 (Motz, J., 
+joined by Widener, Michael, King, JJ., concurring in 
+part and dissenting in part, and dissenting in the judg- 
+ment) (“[Ajithough the government presented the 
+grand jury with an indictment containing only the ele- 
+ments necessary to charge [the defendant] with a 
+violation of § 841(b)(1)(C), the district court sentenced 
+him to the more serious crime defined in § 841(b)(1)(A); 
+the court did not formally amend the indictment, but its 
+sentence had the same effect.”). In doing so, the dis- 
+trict court encroached upon the prerogative of the 
+grand jury, because only the grand ‘ury has the power 
+to broaden the charges “after an indictment has been 
+returned.” Stirone, 361 U.S. at 215-16, 80 S. Ct. 270. 
+
+
+Accordingly, the district court exceeded its juris- 
+diction in sentencing the appellants for a crime with 
+which they were never charged, thus depriving them of 
+the constitutional right to “answer” only for those 
+crimes presented to the grand jury. 
+
+
+B. 
+
+
+Having identified the nature of the error committed 
+by the district court, we must resolve the question that 
+plagued an evenly divided court in Promise—that is, 
+whether we should exercise our discretion to correct 
+the error where an indictment fails to charge drug 
+
+
+12a 
+
+
+quantity and the district court sentences a defendant to 
+a term of imprisonment that exceeds the statutory 
+maximum set forth in section 841(b)(1)(C). Compare 
+Promise, 255 F.3d at 164 (Wilkins, J., joined by 
+Wilkinson, C.J., and Williams and Traxier, JJ.) (holding 
+that “(i]t would be a miscarriage of justice to allow [the 
+defendant] to avoid a sentence for the aggravated drug 
+trafficking crime that evidence overwhelmingly demon- 
+strates he committed”), with id. at 190 (Motz, J., joined 
+by Widener, Michael, and King, JJ.) (“Certainly, sen- 
+tencing a man for a crime for which he has been neither 
+charged nor convicted seriously affects the fairness, 
+integrity, and public reputation of judicial pro- 
+ceedings.”). Because we believe that the “nature of the 
+error” is “fundamental,” United States v. David, 83 F.3d 
+638, 648 (4th Cir. 1996), that the “plain error was com- 
+mitted in a matter so absolutely vital to defendants,” 
+Wiborg v. United States, 163 U.S. 632, 658, 16 S. Ct. 
+1127, 41 L.Ed. 289 (1896), and, most importantly, that 
+the error “seriously affect{s] the fairness, integrity or 
+public reputation of judicial proceedings,” Olano, 507 
+US. at 736, 113 S. Ct. 1770 (quoting Atkinson, 297 U.S. 
+at 160, 56 S. Ct. 391), we “feel ourselves at liberty to 
+correct it,” Wiborg, 163 U.S. at 658, 16 S. Ct. 1127. 
+
+
+The Supreme Court has recognized that there are 
+cases in which an error may seriously affect the fair- 
+ness, integrity or public reputation of judicial pro- 
+ceedings even “independent of the defendant’s inno- 
+cence.” Olano, 507 U.S. at 736-37, 113 S. Ct. 1770. One 
+such case is Silber v. United States, 370 U.S. 717, 82 S. 
+Ct. 1287, 8 L.Ed.2d 798 (1962) (per curiam), in which the 
+Court considered whether to notice a defect in an in- 
+dictment. In its short per curiam opinion, the Supreme 
+Court concluded that the defect in the indictment 
+
+
+13a 
+
+
+constituted reversible plain error even though the error 
+was not raised in either the Court of Appeals or the 
+Supreme Court. Silber, 370 U.S. at 717, 82 S. Ct. 1287; 
+see also United States v. Brown, 995 F.2d 14938, 1504 
+(10th Cir. 1993) (holding that the failure to charge an 
+“essential element” of a crime in the indictment is an 
+error “which should be noted by an appellate court sua 
+sponte as plain error”); United States v. Clark, 412 F.2d 
+885, 887-88 (5th Cir. 1969) (concluding that the failure of 
+the indictment to state a criminal offense “constitutes 
+plain error within the meaning of [Fed. R. Crim. P.] . 
+52(b) and warrants reversal by a reviewing court”); 
+Chappell v. United States, 270 F.2d 274, 276 (9th Cir. 
+1959) (deciding that where the indictment did not state 
+a criminal offense, it “constitute[d] plain error within 
+the meaning of Rule 52(b)”); cf. Fed. R. Crim. P. 
+12(b)(2) (stating that the failure of the indictment to 
+“charge an offense . . . shall be noticed by the court at 
+any time during the pendency of the proceedings”). 
+
+
+To be sure, the error in Silber was that the defendant 
+was convicted based upon an indictment that did not 
+charge a crime, whereas here the error is that the 
+defendant was sentenced more harshly based upon an 
+element that was not charged in the indictment. We do 
+not believe, however, that this is a substantive distinc- 
+tion. We cannot imagine that the Supreme Court would 
+believe itself bound to notice the error when a con- 
+viction is based upon a crime with which a defendant 
+was not charged on the one hand, but, on the other 
+hand, decline to recognize the error under the equally 
+(or possibly more) egregious circumstance where a 
+defendant is sentenced based upon a crime that was not 
+charged in the indictment nor even presented to the 
+petit jury. See Tran, 234 F.3d at 809 (“If the district 
+
+
+l4a 
+
+
+court acts beyond its jurisdiction by trying, accepting a 
+guilty plea from, convicting, or sentencing a defendant 
+for an offense not charged in the indictment, this Court 
+must notice such error and act accordingly to correct it, 
+regardless of whether the defendant has raised the 
+issue.” (emphases added)). Indeed, in both cases, the 
+district court acts without jurisdiction. See supra at 
+404. 
+
+
+Our conclusion that the error should be noticed is 
+further reinforced by United States v. Floresca, 38 F.3d 
+706 (4th Cir. 1994) (en banc), in which we corrected 
+plain error when the district court constructively 
+amended the indictment by instructing the jury on a 
+different subsection of a criminal statute, even though 
+the indictment charged a federal crime. 38 F.3d at 709, 
+714. There, we recognized the fundamental nature of 
+the error—namely, that “(the defendant] was held ac- 
+countable in a federal court for an ‘infamous crime’ for 
+which he was never indicted by a grand jury.” Id. at 
+713-14. We did not hesitate to say “that convicting a 
+defendant of an unindicted crime affects the fairness, 
+integrity, and public reputation of federal judicial pro- 
+ceedings in a manner most serious.” Jd. at 714. 
+
+
+Likewise here, we have no trouble concluding that 
+sentencing a defendant for an unindicted crime also 
+seriously affects the fairness, integrity or public reputa- 
+tion of judicial proceedings. Indeed, it appears from the 
+separate opinions in Promise that at least six members 
+of this court would also so hold.’ See Promise, 255 F.3d 
+
+
+5 While we do not consider post-indictment notice to be rele- 
+vant, it appears that even the four members of the court who 
+declined to recognize the error in Promise would recognize the 
+error here. For, post-indictment notice, which they found there to 
+be “critical[ },” is absent in this case. 255 F.3d at 163-65 (Wilkins, 
+
+
+15a 
+
+
+at 189-90 (Motz, J., joined by Widener, Michael, and 
+King, JJ.); id. at 167-69 (Niemeyer, J., joined by 
+Gregory, J.). 
+
+
+C. 
+
+
+The government argues that we should decline to 
+recognize the error in this case because the evidence 
+adduced at trial overwhelmingly establishes the thres- 
+hold drug quantities for an aggravated drug trafficking 
+offense. While the government may well be correct as a 
+factual matter, the quantum of evidence is not a rele- 
+vant consideration when the error stems from a defect 
+in the indictment. 
+
+
+First, a reviewing court may not speculate about 
+whether a grand jury would or would not have indicted 
+a defendant for a crime with which he was never 
+charged. See Promise, 255 F.3d at 190 (“A court cannot 
+rely on its own view of what indictment a grand jury 
+could or would have issued if the grand jury was never 
+presented with a charge, or what verdict a petit jury 
+could or would have reached if the petit jury was never 
+presented with an indictment.”) (Motz, J., joined by 
+Widener, Michael, and King, JJ.). To do so would usurp 
+the role of the grand jury, which, as the Supreme Court 
+has recognized, is “‘not bound to indict in every case 
+where a conviction can be obtained.’” Vasquez v. 
+Hillery, 474 U.S. 254, 263, 106 S. Ct. 617, 88 L.Ed.2d 
+598 (1986) (quoting United States v. Ciambrone, 601 
+
+
+J., joined by Wilkinson, C.J., and Williams and Traxler, JJ.); id. at 
+192 n.3 (Motz, J., joined by Widener, Michael, and King, JJ.) (“Pre- 
+sumably, even overwhelming and uncontroverted evidence of a 
+defendant’s guilt, without post-indictment notice, is insufficient to 
+persuade the court not to notice an error like that at issue here.”) 
+(emphasis in original). 
+
+
+l6a 
+
+
+F.2d 616, 629 (2d Cir. 1979) (Friendly, J., dissenting)). 
+For that reason, we explained in Floresca that “it is 
+‘utterly meaningless’ to posit that any rational jury 
+could or would have indicted [the defendant for a dif- 
+ferent crime], because it is plain that this grand jury 
+did not, and, absent waiver, a constitutional verdict can- 
+not be had on an unindicted offense.” 38 F.3d at 712 
+(emphasis in original). 
+
+
+Second, to the extent the government argues that we 
+should decline to notice the error because the petit jury 
+would have convicted appellants of an aggravated drug 
+trafficking offense based on the overwhelming evidence 
+adduced at trial, we reject that proposition as well. For 
+the government’s position ignores the basic principle 
+that the grand jury and petit jury are separate and 
+independent. Because it is well settled that the petit 
+jury cannot usurp the role of the grand jury, it is no less 
+evident that we cannot place ourselves in the position of 
+the petit jury, and then, in turn, assume the role of the 
+grand jury. In effect, this would result in nothing less 
+than a constructive amendment of the indictment, see 
+Promise, 255 F.3d at 167-68 (Niemeyer, J., joined by 
+Gregory, J.), which itself is reversible plain error, 
+Floresca, 38 F.3d at 714. 
+
+
+Accordingly, we vacate and remand for resentencing 
+with instructions to sentence the appellants (except 
+Darlene Green) to a term of imprisonment not to ex- 
+ceed 20 years. 
+
+
+17a 
+
+
+IV. 
+
+
+After the appellants filed this appeal, they learned 
+that James Gibson, one of the government’s principal 
+cooperating witnesses, may have lied on the witness 
+stand. Specifically, Mary Koch, who had been desig- 
+nated as a Special Assistant United States Attorney to 
+assist in the federal case against the appellants, ad- 
+mitted in a related state drug prosecution that she 
+believed that Gibson’s testimony at trial was incon- 
+sistent with the information he provided to the govern- 
+ment prior to trial. According to Koch, Gibson had 
+not been truthful in relating the involvement of his 
+daughter, Matilda Hall, in the conspiracy. 
+
+
+After appellants learned of Koch’s testimony, we 
+stayed the appeal pending the district court’s resolution 
+of appellants’ motion for a new trial based upon 
+Gibson’s allegedly perjurious testimony. After a full 
+hearing on the matter, the district court denied ap- 
+pellants’ motion, holding that even if the prosecution 
+knowingly used perjured testimony, the materiality ele- 
+ment for a due process violation had not been estab- 
+lished because there was no “ ‘reasonable likelihood that 
+the false testimony could have affected the judgment of 
+the jury.’” United States v. White, 238 F.3d 537, 540-41 
+(4th Cir. 2001) (quoting Kyles v. Whitley, 514 U.S. 419, 
+433 n.7, 115 S. Ct. 1555, 131 L.Ed.2d 490 (1995)). In 
+denying the motion, the district court rendered detailed 
+factual findings with regard to each appellant, specifi- 
+cally assessing the effect of Gibson’s testimony on the 
+trial, and the additional evidence supporting the ver- 
+dicts. 
+
+
+Appellants argue that the district court erred in de- 
+nying the motion for a new trial. We disagree. As dem- 
+
+
+18a 
+
+
+onstrated by the district court’s findings, the govern- 
+ment presented overwhelming evidence—separate and 
+apart from Gibson’s testimony—establishing: (1) that 
+each of the appellants participated in the conspiracy; (2) 
+their respective roles in the conspiracy; and (3) the vast 
+amounts of crack being distributed by them. Cf. White, 
+238 F.3d at 540 (holding that though the government 
+may have failed to disclose exculpatory testimony, “in 
+light of the overwhelming evidence” of defendant’s 
+involvement in narcotics sales, there was no reasonable 
+probability that a defense based upon that testimony 
+would have been successful). Consequently, Gibson’s 
+testimony was, in large measure, merely cumulative of 
+the testimony provided by numerous other cooperating 
+witnesses.° 
+
+
+Therefore, after thoroughly reviewing the record and 
+the district court’s findings, we affirm on the district 
+court’s reasoning that there is no “reasonable likelihood 
+that the false testimony could have affected the judg- 
+ment of the jury.” 
+
+
+V. 
+
+
+Finally, Jovan Powell argues that the district court 
+erred when it failed to strike the testimony of police 
+officer Michael Fries, who recounted that when he 
+stopped Powell, Powell was in the possession of a key to 
+
+
+6 Alternatively, appellants argue that they were entitled to a 
+new trial under Fed. R. Crim. P. 33 on the basis of newly 
+discovered evidence. This argument is without merit, however, 
+because a new trial based upon newly discovered evidence is 
+unavailable where “evidence . . . is merely cumulative or im- 
+peaching,” absent exceptional circumstances which are not present 
+in this case. See United States v. Custis, 988 F.2d 1355, 1359 (4th 
+Cir. 1993). 
+
+
+19a 
+
+
+a residence that contained vast quantities of crack 
+cocaine. First, Powell asserts that Fries and his part- 
+ner did not possess reasonable suspicion to perform an 
+investigative stop under Terry v. Ohio, 392 U.S. 1, 88 
+S. Ct. 1868, 20 L.Ed.2d 889 (1968). Second, Powell con- 
+tends that even if the officers had reasonable suspicion, 
+they were not entitled to seize the key. We reject both 
+of Powell’s arguments. 
+
+
+A. 
+
+
+Under Terry, “[t)he police can stop and detain a 
+person for investigative purposes ‘if the officer has a 
+reasonable suspicion supported by articulable facts that 
+criminal activity may be afoot.’” Park v. Shiflett, 250 
+F.3d 843, 850 (4th Cir. 2001) (quoting United States v. 
+Sokolow, 490 U.S. 1, 7, 109 S. Ct. 1581, 104 L.Ed.2d 1 
+(1989)). “While ‘reasonable suspicion’ is a less de- 
+manding standard than probable cause and requires a 
+showing considerably less than preponderance of the 
+evidence, the Fourth Amendment requires at least a 
+minimal level of objective justification for making the 
+stop.” Illinois v. Wardlow, 528 U.S. 119, 120 S. Ct. 673, 
+675-76, 145 L.Ed.2d 570 (2000). 
+
+
+Here, the evidence establishes that Fries and his 
+partner had reasonable suspicion to perform a Terry 
+stop. Fries, an experienced street crimes and drug 
+enforcement investigator, testified that he knew, based 
+on his prior experience patrolling the area on “almost a 
+daily basis,” J.A. 101, that Powell was leaving a re- 
+sidence located in a “problem[ ]}” neighborhood, J.A. 
+101. See United States v. Lender, 985 F.2d 151, 154 (4th 
+Cir. 1993) (“Courts are not remiss in crediting the prac- 
+tical experience of officers who observe on a daily basis 
+what transpires on the street.”). Consequently, when 
+
+
+20a 
+
+
+he noticed that the dwelling contained “busted out” 
+windows and a pit bull “looking out of the front win- 
+dows upstairs,” J.A. 108, Fries and his partner decided 
+to leave their patrol car and investigate the situation. 
+When they approached Powell, Fries “questioned him 
+as to what he was doing inside the house.” J.A. 110. 
+Powell then became visibly nervous “and answered 
+. . . by stating he didn’t live there and he wasn’t in 
+there.” J.A. 111. 
+
+
+In denying Powell’s motion to strike Fries’ testi- 
+mony, the district court explained that since the officers 
+had actually witnessed Powell leaving the residence, 
+they “had reason to believe [Powell] was lieing [sic] to 
+them,” and that Powell’s dubious response coupled with 
+the suspicious circumstances of the encounter furnished 
+the officers with reasonable suspicion to believe that 
+“criminal activity may be afoot.” S.A. 37. 
+
+
+Hence, we agree with the district court that, based 
+upon the officers’ observations, they possessed reason- 
+able suspicion to perform a Terry stop. 
+
+
+B. 
+
+
+Powell alternatively argues that even if the Terry 
+stop was supported by reasonable suspicion, the officers 
+did not have the right to seize the key. Powell’s asser- 
+tion is without merit because the confiscation of the 
+key was lawful under the “plain view” doctrine. See 
+Minnesota v. Dickerson, 508 U.S. 366, 374, 113 S. Ct. 
+2130, 124 L.Ed.2d 334 (1993) (extending the “plain 
+view” doctrine to items seized pursuant to a lawful 
+
+
+Terry stop). 
+“Under that doctrine, if police are lawfully in a posi- 
+tion from which they view an object, if its incriminating 
+
+
+2la 
+
+
+character is immediately apparent, and if the officers 
+have a lawful right of access to the object, they may 
+seize it without a warrant.” Jd. First, the officers were 
+“lawfully in a position from which they view[ed]” the 
+key, since they were merely driving by when they 
+viewed the object in question. Indeed, Fries indicated 
+during his testimony that the officers noticed the key in 
+Powell’s hand as Powell was exiting the residence, prior 
+to when the officers left the patrol car. J.A. 108, 110. 
+
+
+Second, the object’s “incriminating character [was] 
+immediately apparent” after the officers’ lawful en- 
+counter with Powell. When the officers inquired about 
+Powell’s presence in the house, his answer indicated not 
+only that he had no possessory interest in the residence, 
+but that, contrary to the officer’s observations, he had 
+not been present in the house either. Thus, it was 
+“immediately apparent” to the officers that the key was 
+“incriminating evidence” that might have been related 
+to any number of crimes, United States v. Jackson, 131 
+F.3d 1105, 1109 (4th Cir. 1997), including, most notably, 
+a burglary or some other type of property crime, see, 
+e.g., Md. Ann. Code art. 27, § 30 (“A person may not 
+break and enter the storehouse of another with the 
+intent to commit theft, a crime of violence, or arson in 
+the second degree.”); see also Dorsey v. State, 231 Md. 
+278, 189 A.2d 623, 624 (1963) (“‘Actual breaking .. . 
+may consist of lifting a latch, drawing a bolt, raising 
+an unfastened window, turning a key or knob, push- 
+ing open a door kept closed merely by its own weight.’” 
+(emphasis added)) (quoting L. Hochheimer, Criminal 
+Law § 277, at 310 (2d ed. 1904)). 
+
+
+Third, the officers had a “lawful right of access to the 
+object.” As the Supreme Court has explained, this re- 
+quirement “is simply a corollary of the familiar principle 
+
+
+22a 
+
+
+. that no amount of probable cause can justify a 
+warrantless search or seizure absent ‘exigent circum- 
+stances.’” Horton v. California, 496 U.S. 128, 137 n.7, 
+110 S. Ct. 2301, 110 L.Ed.2d 112 (1990); United States v. 
+Legg, 18 F.3d 240, 244 (4th Cir. 1994). Here, the officers 
+had reasonable suspicion to believe not only that there 
+was criminal activity, but that the key itself repre- 
+sented evidence of a crime. Thus, an exigent circum- 
+stance was unavoidably created because the key and 
+any incriminatory evidence contained inside the house 
+could have been destroyed had the officers not seized 
+the key at that particular moment. See Schmerber v. 
+California, 384 U.S. 757, 770-71, 86 S. Ct. 1826, 16 
+L.Ed.2d 908 (1966) (stating that the destruction of evi- 
+dence is an exigency that justified a warrantless 
+search); Taylor, 90 F.3d at 907 (holding that the threat 
+of “imminent destruction of evidence of [criminal] activ- 
+ity” created an exigent circumstance). 
+
+
+Accordingly, we hold that neither the Terry stop nor 
+the seizure of the key violated Powell’s rights under the 
+Fourth Amendment. 
+
+
+CONCLUSION 
+
+
+For the reasons stated herein, we affirm the convic- 
+tions, and vacate and remand for resentencing with 
+respect to all the appellants except Darlene Green. 
+
+
+It is so ordered. 
+
+
+23a 
+
+
+WILKINSON, Chief Judge, concurring in part and dis- 
+senting in part: 
+
+I concur in the affirmance of the convictions.’ I re- 
+spectfully dissent from the decision in Part III to notice 
+the sentencing error in this case. In light of the over- 
+whelming evidence presented, the district court con- 
+cluded that the defendants were responsible for the 
+distribution of 1.5 kilograms of cocaine base—thirty 
+times more than the 50 grams necessary under 21 
+U.S.C. § 841(b)(1)(A) to merit the sentences they re- 
+ceived. Because it would constitute a manifest injustice 
+to reduce these defendants’ sentences when the evi- 
+dence undeniably demonstrates that they committed 
+the greater statutory offense, I would decline to notice 
+the error. 
+
+
+Seven of the eight appellants challenge their sen- 
+tences with Apprendi claims. Despite an allegation of 
+drug quantity in the initial indictment, a drug quantity 
+was not alleged in the superseding indictment nor 
+found by the petit jury beyond a reasonable doubt. All 
+of the appellants were sentenced to terms of imprison- 
+ment that exceed the twenty-year maximum set forth 
+in 21 U.S.C. § 841(b)(1)(C) for unspecified drug quanti- 
+ties. Five of the appellants, Stanley Hall Jr., Leonard 
+Cotton, Lamont Thomas, Marquette Hall, and Jesus 
+Hall, were sentenced to life imprisonment. Two others, 
+Jovan Powell and Matilda Hall, were sentenced to 30 
+years imprisonment. The appellants did not raise this 
+challenge in the district court because the Supreme 
+Court had not yet decided Apprendi. 
+
+
+! In doing so, I join in all but Part III of the majority opinion. 
+
+
+24a 
+
+
+Under United States v. Olano, 507 U.S. 725, 113 8S. 
+Ct. 1770, 123 L.Ed.2d 508 (1993), before an appellate 
+court can correct an error not raised at trial, “there 
+must be (1) error, (2) that is plain, and (3) that affect/s] 
+substantial rights.” Johnson v. United States, 520 U.S. 
+461, 466-67, 117 S. Ct. 1544, 187 L.Ed.2d 718 (1997) (al- 
+teration in original) (internal quotations omitted). “If 
+all three conditions are met, an appellate court may 
+then exercise its discretion to notice a forfeited error, 
+but only if (4) the error seriously affect[s] the fairness, 
+integrity, or public reputation of judicial proceedings.” 
+Id. (alteration in original) (internal quotations omitted). 
+
+
+Under the reasoning of this court’s recent decision in 
+United States v. Promise, 255 F.3d 150 (4th Cir. 2001) 
+(en banc), the district court committed plain error in 
+sentencing the defendants to more than the twenty- 
+year maximum permitted by 21 U.S.C. § 841(b)’s catch- 
+all provision. See Promise, 255 F.3d at 159-60; 21 
+U.S.C. § 841(b)(1)(C) (maximum sentence of imprison- 
+ment of not more than twenty years if drug quantity 
+has not been determined by a jury beyond a reasonable 
+doubt). Furthermore, Promise makes clear that this 
+error affected the defendants’ substantial rights. See 
+Promise, 255 F.3d at 160-62. 
+
+
+I do not believe, however, that this court ought to 
+notice the error in this case. Quite simply, there is no 
+question that the defendants participated in a con- 
+spiracy to distribute more than 50 grams of cocaine 
+base. In fact, the evidence is overwhelming that the 
+quantity of drugs in question exceeded § 841(b)(1)(A)’s 
+“threshold” amount. The majority does not dispute this 
+point and in fact acknowledges the overwhelming 
+nature of the evidence against the defendants. See ante 
+at 402-03 (noting that “approximately 380 grams of 
+
+
+25a 
+
+
+cocaine base and 85 grams of cocaine hydrochloride 
+were actually seized from the various conspirators”); 
+ante at 408 (stating that there was “overwhelming evi- 
+dence” apart from cooperating coconspirator James 
+Gibson’s testimony establishing “the vast amounts of 
+crack distributed by [the defendants]’”). 
+
+
+Courts may decline to notice a plain error when 
+evidence of defendants’ guilt is overwhelming. See, e.g., 
+Johnson, 520 U.S. at 469-70, 117 S. Ct. 1544 (refusing to 
+notice plain error when evidence of guilt was “over- 
+whelming” and largely uncontested); United States v. 
+Bowens, 224 F.3d 302, 314-15 (4th Cir. 2000) (same); 
+United States v. Johnson, 219 F.3d 349, 354 (4th Cir. 
+2000) (same); United States v. Cedelle, 89 F.3d 181, 186 
+(4th Cir. 1996) (declining to notice plain error and stat- 
+ing that “(cJentral” to the question of whether to notice 
+a plain error affecting substantial rights “is a deter- 
+mination of whether, based on the record in its entirety, 
+the proceedings against the accused resulted in a fair 
+and reliable determination of guilt”); United States v. 
+Nance, 236 F.3d 820, 823, 826 (7th Cir. 2000) (declining 
+to recognize plain error of sentencing defendant to 
+more than the twenty-years provided by 21 U.S.C. 
+§ 841(b)(1)(C) where the indictment did not state any 
+drug quantity because the evidence against defendant 
+was overwhelming); United States v. Mojica-Baez, 229 
+F.3d 292, 307-12 (1st Cir. 2000) (declining to notice error 
+when indictment failed to charge defendant for using a 
+semi-automatic weapon). See also Promise, 255 F.3d at 
+160-65 (Wilkins, J., joined by Wilkinson, Williams, and 
+Traxler, JJ.). 
+
+
+26a 
+
+
+Here, the government presented, inter alia, testi- 
+mony from seven of the defendants’ coconspirators” and 
+thirty-five Baltimore City police officers and FBI 
+agents about the nature and extent of the defendants’ 
+far-flung narcotics enterprise. Among the most incrimi- 
+nating evidence regarding the quantity of cocaine base 
+(crack) is the following: 
+
+
+e Carla Malloy testified that in the summer of 1996 
+she went to a Marriott hotel in Baltimore with defen- 
+dants Stanley Hall Jr., Leonard Cotton, Lamont 
+Thomas, Jesus Hall, and Nicole Baylor. At the hotel, 
+the group bagged one kilogram of cocaine base into 
+ziplocks. Baylor confirmed the occurrence of this inci- 
+dent. 
+
+
+e Malloy testified that she later went to a Super 8 
+motel with Hall Jr. and Jesus Hall to bag one-half of a 
+kilogram of crack. 
+
+
+e Baylor testified that she too bagged crack on a 
+second occasion with Thomas at a Super 8 motel. 
+During this incident, they bagged one kilogram of crack 
+given to them by Hall Jr. 
+
+
+e Korey Britton testified that from mid-November 
+1996 to December 27, 1996, he sold approximately 
+$10,000 to $12,000 of crack per week as a street runner 
+for Hall Jr. 
+
+
+e@ Malloy testified that between December 1996 and 
+midJanuary 1997, Hall Jr. provided crack to Cotton and 
+Thomas in quantities of one-eighth of a kilogram (125 
+
+
+grams). 
+
+
+2 The following coconspirators served as government wit- 
+nesses: Carla Malloy, Nicole Baylor, Korey Britton, Timothy 
+Roday, James Gibson, Kowana Huntley, and Roxanne Kennedy. 
+
+
+27a 
+
+
+e Malloy also testified that after January 1997 she 
+was present on four occasions when Hall Jr. cooked 
+cocaine powder into crack. Thomas was present on two 
+of these occasions. 
+
+
+e Malloy further testified that during that same 
+time period, she and Thomas purchased ounce quanti- 
+ties (28 grams) of crack from Hall Jr. for distribution. 
+
+
+e Britton testified that he was with Hall Jr. when 
+Hall Jr. cooked one-quarter of a kilogram of cocaine 
+powder into crack. Hall Jr. and Britton then delivered 
+the crack to Cotton. 
+
+
+e Timothy Roday testified that in 1996 and 1997, 
+Matilda Hall either personally provided him with crack 
+or directed him to pick up drugs from one of her sons or 
+their workers. Roday estimated that during this time 
+he paid Matilda Hall a total of approximately $15,000 
+for the crack cocaine he purchased from her and the 
+Hall Jr. organization. 
+
+
+e Britton and Malloy both testified that they re- 
+trieved crack from the inside of 847 McHenry Street for 
+Matilda Hall. Malloy stated that she took a pocketbook 
+that contained one-quarter ounce (7 grams) of crack 
+cocaine out of a linen closet. 
+
+
+e Britton testified that he delivered one-eighth of 
+an ounce (3.5 grams) of crack to Darlene Green at 
+Matilda Hall’s request. On another occasion, Matilda 
+Hall took an 8 ball (3.5 grams) of crack out of her bra 
+and asked Britton to hide it for her in the trash. 
+
+
+e The testimony of the cooperating coconspirators 
+was corroborated-by numerous Baltimore City police 
+officers. In particular, various state arrests and 
+searches between February 1996 and April 1997 
+resulted in the seizure of a combination of 795 ziplock 
+
+
+28a 
+
+
+bags and clear bags containing approximately 380 
+grams of cocaine base. 
+
+
+e Additionally, pursuant to a federal search warrant 
+of Jovan Powell’s residence executed on October 17, 
+1997, the government seized 51.3 grams of crack found 
+in a pair of Powell’s sweat pants. 
+
+
+e Finally, during sentencing, the defendants did not 
+argue that the conspiracy distributed less than 50 
+grams of cocaine base. Various defendants disputed the 
+amount of crack that should be attributed to them 
+based on their role in the conspiracy. They also argued 
+that the cooperating co-conspirators’ testimony should 
+not be credited. However, none of them disputed the 
+amount of crack actually seized by the police officers 
+and federal agents. 
+
+
+It is true that the superseding indictment did not 
+specify the amount of drugs in question. Nor did the 
+government subsequently file an information contending 
+that defendants were accountable for more than 50 
+grams of cocaine base. Still, contrary to the majority’s 
+assertion, see ante at 407 n.5, it remains difficult to 
+believe that defendants lacked notice that they faced 21 
+U.S.C. § 841(b)’s strictest penalties. First, all seven of 
+these defendants received actual notice from the initial 
+indictment, which specified the threshold drug quantity 
+with which they were charged. Specifically, the initial 
+indictment charged defendants with conspiring to “dis- 
+tribute and possess with intent to distribute . . . 50 
+grams or more of a mixture or substance containing a 
+detectable amount of cocaine base . . . in violation of 
+Title 21, United States Code, § 841(a)(1).” Second, be- 
+cause the government was presenting evidence that the 
+defendants distributed 1.5 kilograms of cocaine base 
+and 150 kilograms of cocaine, defendants’ counsel 
+
+
+29a : 
+
+
+clearly were aware that the government could seek 
+the elevated penalties available under 21 U.S.C. 
+§ 841(b)(1)(A). Given the overwhelming evidence and 
+the lack of any unfairness to the defendants, I would 
+not recognize the error. 
+
+
+There is no injustice in holding these defendants 
+accountable for participating in a conspiracy to distri- 
+bute more than 50 grams of cocaine base. The true 
+injustice comes from this court reducing their sentences 
+and ignoring the effects that their vast drug distribu- 
+tion ring had upon the citizens of Baltimore. Ignoring 
+the evidence and the societal effects of the defendants’ 
+actions is what “seriously affects the fairness, integrity 
+[and] public reputation of judicial proceedings.” Olano, 
+507 U.S. at 732, 113 S. Ct. 1770 (internal quotations 
+omitted). 
+
+
+II. 
+
+
+The majority does not make a case of injustice based 
+on the facts of this case and does not argue that the 
+defendants are not accountable for the drug quantity 
+the district court attributed to them. Instead, the 
+majority focuses solely on the nature of the error—the 
+failure of the superseding indictment to allege a specific 
+drug quantity—in reaching its conclusion to recognize 
+the plain error. I agree fully with the majority’s state- 
+ments about the general importance of a defendant’s 
+right to be indicted by a grand jury. However. in the 
+course of its tribute to grand jury indictments, the 
+majority misses two crucial points. 
+
+First, the indictment in this case was valid at the 
+time it was filed. “It is one thing to vacate a conviction 
+or sentence where the prosecutor failed to indict in 
+accordance with the current state of the law. It is quite 
+
+
+30a 
+
+
+another thing to vacate a conviction or sentence based 
+on an indictment that was entirely proper at the time.” 
+United States v. Mojica-Baez, 229 F.3d 292, 310 (1st 
+Cir. 2000). The government had no way to predict 
+the about-face that would later be undertaken by the 
+Supreme Court in Apprendi and by this court in 
+Promise. 
+
+
+There can be no doubt that had the prosecution been 
+aware of the rule this court would later announce in 
+Promise, it would have made certain that the super- 
+seding indictment mirrored the initial indictment. 
+Specifically, it would have included the statement from 
+the initial indictment that defendants conspired to 
+“distribute and possess with intent to distribute .. . 
+50 grams or more of a mixture or substance containing 
+a detectable amount of cocaine base.” Nor is there any 
+question, given the overwhelming evidence, that had 
+the prosecutor included this language the grand jury 
+would have indicted the defendants and the petit jury 
+would have found the defendants guilty beyond a rea- 
+sonable doubt. 
+
+
+Second, the majority inappropriately replaces the 
+discretionary, case-by-case assessment dictated by the 
+fourth prong of Olano with an essentially categorical 
+approach when the error consists of an indictment 
+defect. The Supreme Court has stressed that an 
+appellate court must exercise discretion under Rule 
+52(b) when deciding whether to recognize a plain error 
+that affects a defendant’s substantial rights. See Olano, 
+507 U.S. at 737, 113 S. Ct. 1770 (stating that “a plain 
+error affecting substantial rights does not, without 
+more, satisfy the [requirement that the error seriously 
+affect the fairness, integrity, or public reputation of 
+judicial proceedings], for otherwise the discretion af- 
+
+
+3la 
+
+
+forded by Rule 52(b) would be illusory”); United States 
+v. Young, 470 U.S. 1, 16 n.14, 105 S. Ct. 1038, 84 L.Ed.2d 
+1 (1985) (stating that a “per se approach to plain-error 
+review is flawed”). See also United States v. David, 83 
+F.3d 638, 648 (4th Cir. 1996) (“It seems to us, as ap- 
+parently it did to the Court in Olano, that only by 
+examining the particulars of each case can the ‘careful 
+balancing’ reflected in the plain error rule be pre- 
+served.”); United States v. Patterson, 241 F.3d 912, 913 
+(7th Cir. 2001) (“When the appellate standard is plain 
+error (as opposed to harmless error), even the clearest 
+of blunders never requires reversal; it just permits 
+reversal.”). 
+
+
+For the majority to select a category of errors a 
+priori that must be corrected on plain error review is 
+inconsistent with the mandate of Olano to examine the 
+facts of each case and the proceeding as a whole. Its 
+approach cannot be squared with that of the Supreme 
+Court. The Supreme Court knows how to adopt cate- 
+gorical approaches and has indicated a willingness to do 
+so under the third prong of Olano. See Johnson, 520 
+U.S. at 468-69, 117 S. Ct. 1544 (recognizing categorical 
+approach to structural errors that presumptively sat- 
+isfy the third prong of Olano and listing classes of cases 
+that present structural errors). However, the Court 
+has never adopted a categorical approach under the 
+fourth prong of Olano. Furthermore, the Court did not 
+include indictment defects in its list of structural errors. 
+See Johnson, 520 U.S. at 468-69, 117 S. Ct. 1544 (gather- 
+ing “very limited class of cases” that present structural 
+errors). Thus, it is hard to believe that the Supreme 
+Court would require all indictment defects to be noticed 
+under the fourth prong of Olano when they do not even 
+
+
+32a 
+
+
+qualify as structural errors that affect a defendant’s 
+substantial rights under prong three. 
+
+
+In Johnson, the petitioner argued that Olano did not 
+apply because the error she complained of was struc- 
+tural. Jd. at 466, 117 S. Ct. 1544. The Supreme Court 
+rejected this argument and stated that “the seriousness 
+of the error claimed does not remove consideration of it 
+from the ambit of the Federal Rules of Criminal Pro- 
+cedure.” Jd. The Court went on to apply Olano based 
+on the specific facts of the case. See id. at 469-70, 117 S. 
+Ct. 1544 (holding that even if the error complained of 
+was structural and affected substantial rights, the 
+fourth prong of Olano was not met because of the 
+“overwhelming” and “essentially uncontroverted” evi- 
+dence of petitioner’s guilt). Indictment defects will 
+justify recognition on plain error review in some cases. 
+However, in cases such as this one, the indictment 
+defect has not affected the fairness of the proceedings 
+and should not be noticed. Moreover, other errors not 
+selectively culled by the majority for categorical treat- 
+ment under the fourth prong of Olano may potentially 
+have a severe impact on the fairness and integrity of 
+judicial proceedings in a particular case. This is why 
+the Olano case-specific inquiry is critical. 
+
+The majority stresses that the Supreme Court in 
+Silber v. United States, 370 U.S. 717, 82 S. Ct. 1287, 8 
+L.Ed.2d 798 (1962), found reversible plain error when 
+an indictment did not charge the defendant with a 
+crime. See Silber, 370 U.S. at 717-18, 82 S. Ct. 1287. 
+However, the Court did not hold that all grand jury 
+errors must be recognized on plain error review or that 
+every failure of an indictment to charge all of the 
+elements required for a defendant’s sentence must be 
+noticed by an appellate court. Furthermore, several of 
+
+
+33a 
+
+
+our sister circuits have declined to recognize plain error 
+when defendants were sentenced more strictly based 
+on elements not charged in their indictments. The 
+First, Seventh, and Eleventh Circuits have properly 
+recognized that this type of indictment defect may have 
+only the most negligible effect on the fairness and 
+integrity of a judicial proceeding. See Mojica-Baez, 229 
+F.3d at 310-12 (declining to notice plain error when 
+indictment failed to charge defendant for using a semi- 
+automatic weapon during a robbery becatise there was 
+no objection at trial, no lack of notice, and “no reason to 
+think the grand jury would have had any trouble in 
+rendering an indictment specifying the weapons used’), 
+United States v. Nance, 236 F.3d 820, 823, 826 (7th Cir. 
+2000) (declining to recognize plain error of sentencing 
+defendant to more than twenty years when indictment 
+did not state any drug quantity because the evidence 
+against defendant was overwhelming); United States v. 
+Patterson, 241 F.3d 912, 914 (7th Cir. 2001) (same); 
+United States v. Swatzie, 228 F.3d 1278, 1284 (11th Cir. 
+2000) (stating that even if district court’s Apprendi 
+error with regard to defendant’s drug conviction satis- 
+fied the first three steps of the Olano analysis, the 
+court would decline to notice the error due to over- 
+whelming evidence of defendant’s guilt). 
+
+
+Il. 
+
+
+The injustices of reducing the defendants’ terms of 
+imprisonment from life or thirty years to a twenty-year 
+maximum are manifold. The majority errs by not 
+weighing these injustices against the gravity of the 
+indictment defect. The integrity of this country’s 
+criminal justice system depends on the most culpable 
+violators receiving more stringent punishments than 
+
+
+34a 
+
+
+those less-culpable violators. In this case, the evidence 
+is clear that defendant Stanley Hall Jr. was the kingpin 
+of a drug conspiracy that distributed over thirty times 
+the statutorily required amount of crack cocaine to war- 
+rant a life sentence. Under Congress’ intended sen- 
+tencing scheme, Hall Jr. and the conspiracy’s other key 
+players justifiably received more stringent penalties 
+than those individuals who were less essential to the 
+conspiracy’s success. However, by reducing their sen- 
+tences under 21 U.S.C. § 841(b), this court erases the 
+differences in punishment and condemnation between 
+the conspiracy’s kingpin and its underlings. 
+
+
+Moreover, changing the rules of the game after it has 
+already been fairly piayed does a profound disservice to 
+the individuals whose lives have been affected by the 
+drug trade. In one sweeping motion, this court nullifies 
+the sacrifices made by law enforcement officers, pro- 
+secutors, and trial courts in enforcing this country’s 
+drug laws. Furthermore, the majority overlooks the 
+ultimate sacrifice paid by the victims of the drug trade. 
+Seen as part of the overall drug problem, the drugs at 
+issue here may be a mere drop in the bucket. But seen 
+in terms of individual lives, the consequences of this 
+sort of drug distribution are incalculable. Though the 
+victims may be unknown and unnamed insofar as this 
+record is concerned, as a result of the defendants’ 
+crimes, some individuals somewhere are spending their 
+lives in the service of a chemical addiction. 
+
+
+Congress has properly expressed its condemnation of 
+drug distributions and their consequences. And it has 
+calibrated the penalties associated with drug distri- 
+bution so that kingpins are punished more vigorously 
+than petty dealers. It is unfortunate to disregard 
+Congress’ clear intent when there is no question at all 
+
+
+35a 
+
+
+that the defendants here distributed the requisite drug 
+amounts under 21 U.S.C. § 841(b) to merit the sen- 
+tences they received. Under Olano, we are to notice a 
+plain error only if a miscarriage of justice would result. 
+Here, the true miscarriage of justice is the court’s 
+failure to respect Congress’ attempt to deal with a pro- 
+blem which so compromises the life prospects of 
+America’s most vulnerable citizens. 
+
+
+36a 
+
+
+APPENDIX B 
+
+
+Section 841(a) and (b) of Title 21 of the United States 
+Code (1994 & Supp. V) provides: 
+
+
+(a) Unlawful acts 
+
+
+Except as authorized by this subchapter, it 
+shall be unlawful for any person knowingly or 
+intentionally— 
+
+
+(1) to manufacture, distribute, or dispense, 
+or possess with intent to manufacture, distri- 
+bute, or dispense, a controlled substance; or 
+
+
+(2) to create, distribute, or dispense, or 
+possess with intent to distribute or dispense, a 
+counterfeit substance. 
+
+
+(b) Penalties 
+
+
+Except as otherwise provided in section 849, 859, 
+860, or 861 of this title, any person who violates sub- 
+section (a) of this section shall be sentenced as 
+follows: 
+
+
+(1(A) In the case of a violation of sub- 
+section (a) of this section involving— 
+
+
+(i) 1 kilogram or more of a mixture or 
+substance containing a detectable amount of 
+heroin; 
+
+(ii) 5 kilograms or more of a mixture or 
+
+
+substance containing a detectable amount 
+of— 
+
+
+(1) coca leaves, except coca leaves and 
+extracts of coca leaves from which cocaine, 
+ecgonine, and derivatives of ecgonine or 
+their salts have been removed; 
+
+
+37a 
+
+
+(Il) cocaine, its salts, optical and 
+geometric isomers, and salts of isomers; 
+
+
+(III) eegonine, its derivatives, their 
+salts, isomers, and salts of isomers; or 
+
+
+(IV) any compound, mixture, or pre- 
+paration which contains any quantity of 
+any of the substances referred to in sub- 
+clauses (1) through (II1); 
+
+
+(iii) 50 grams or more of a mixture or 
+substance described in clause (ii) which con- 
+tains cocaine base; 
+
+
+(iv) 100 grams or more of phencyclidine 
+(PCP) or 1 kilogram or more of a mixture or 
+substance containing a detectable amount of 
+phencyclidine (PCP); 
+
+
+(v) 10 grams or more of a mixture or 
+substance containing a detectable amount of 
+lysergic acid diethylamide (LSD); 
+
+
+(vi) 400 grams or more of a mixture or 
+substance containing a detectable amount of 
+N-phenyl-N-{1-(2-phenylethyl)-4-piperidiny]] 
+propanamide or 100 grams or more of a 
+mixture or substance containing a detectable 
+amount of any analogue of N-phenyl-N-[{1-(2- 
+phenylethyl)-4-piperidiny!] propanamide; 
+
+(vii) 1000 kilograms or more of a mix- 
+ture or substance containing a detectable 
+amount of marihuana, or 1,000 or more mari- 
+huana plants regardless of weight; or 
+
+
+(viii) 50 grams or more of methampheta- 
+mine, its salts, isomers, and salts of its 
+
+
+38a 
+
+
+isomers or 500 grams or more of a mixture or 
+substance containing a detectable amount of 
+methamphetamine, its salts, isomers, or salts 
+of its isomers; 
+
+
+such person shall be sentenced to a term of im- 
+prisonment which may not be less than 10 years or 
+more than life and if death or serious bodily injury 
+results from the use of such substance shall be not 
+less than 20 years or more than life, a fine not to 
+exceed the greater of that authorized in accordance 
+with the provisions of title 18 or $4,000,000 if the 
+defendant is an individual or $10,000,000 if the 
+defendant is other than an individual, or both. If any 
+person commits such a violation after a prior con- 
+viction for a felony drug offense has become final, 
+such person shall be sentenced to a term of imprison- 
+ment which may not be less than 20 years and not 
+more than life imprisonment and if death or serious 
+bodily injury results from the use of such substance 
+shall be sentenced to life imprisonment, a fine not to 
+exceed the greater of twice that authorized in accor- 
+dance with the provisions of title 18 or $8,000,000 if 
+the defendant is an individual or $20,000,000 if the 
+defendant is other than an individual, or both. If any 
+person commits a violation of this subparagraph or of 
+section 849, 859, 860, or 861 of this title after two or 
+more prior convictions for a felony drug offense have 
+become final, such person shall be sentenced to a 
+mandatory term of life imprisonment without release 
+and fined in accordance with the preceding sentence. 
+Any sentence under this subparagraph shall, in the 
+absence of such a prior conviction, impose a term of 
+supervised release of at least 5 years in addition to 
+such term of imprisonment and shall, if there was 
+
+
+39a 
+
+
+such a prior conviction, impose a term of supervised 
+release of at least 10 years in addition to such term of 
+imprisonment. Notwithstanding any other provision 
+of law, the court shall not place on probation or sus- 
+pend the sentence of any person sentenced under 
+this subparagraph. No person sentenced under this 
+subparagraph shall be eligible for parole during the 
+term of imprisonment imposed therein. 
+
+
+(B) Inthe case of a violation of subsection (a) of 
+this section involving— 
+
+
+(i) 100 grams or more of a mixture or 
+substance containing a detectable amount of 
+heroin; 
+
+(ii) 500 grams or more of a mixture or sub- 
+stance containing a detectable amount of— 
+
+
+(I) coca leaves, except coca leaves 
+and extracts of coca leaves from which 
+cocaine, ecgonine, and derivatives of ecgonine 
+or their salts have been removed; 
+
+
+(Il) cocaine, its salts, optical and geo- 
+metric isomers, and salts of isomers; 
+(III) eegonine, its derivatives, their 
+salts, isomers, and salts of isomers; or 
+(IV) any compound, mixture, or pre- 
+paration which contains any quantity of any 
+of the substances referred to in subclauses (1) 
+through (III); 
+(iii) 5 grams or more of a mixture or 
+substance described in clause (ii) which contains 
+cocaine base; 
+
+
+40a 
+
+
+(iv) 10 grams or more of phencyclidine 
+(PCP) or 100 grams or more of a mixture or sub- 
+stance containing a detectable amount of phen- 
+cyclidine (PCP); 
+
+
+(v) 1 gram or more of a mixture or sub- 
+stance containing a detectable amount of lysergic 
+acid diethylamide (LSD); 
+
+
+(vi) 40 grams or more of a mixture or 
+substance containing a detectable amount of N- 
+phenyl-N-[{1-(2-phenylethy])-4-piperidinyl] pro- 
+panamide or 10 grams or more of a mixture or 
+substance containing a detectable amount of any 
+analogue of N-phenyl-N-[{1-(2-phenylethy])-4- 
+piperidiny!) propanamide; 
+
+(vii) 100 kilograms or more of a mixture or 
+substance containing a detectable amount of 
+marihuana, or 100 or more marihuana plants 
+regardless of weight; or 
+
+
+(viii) 5 grams or more of methamphetamine, 
+its salts, isomers, and salts of its isomers or 50 
+grams or more of a mixture or substance 
+containing a detectable amount of methampheta- 
+mine, its salts, isomers, or salts of its isomers; 
+
+
+such person shall be sentenced to a term of im- 
+prisonment which may not be less than 5 years and 
+not more than 40 years and if death or serious bodily 
+injury results from the use of such substance shall be 
+not less than 20 years or more than life, a fine not to 
+exceed the greater of that authorized in accordance 
+with the provisions of title 18 or $2,000,000 if the 
+defendant is an individual or $5,000,000 if the 
+defendant is other than an individual, or both. If any 
+person commits such a violation after a prior con- 
+
+
+dla 
+
+
+viction for a felony drug offense has become final, 
+such person shall be sentenced to a term of impri- 
+sonment which may not be less than 10 years and not 
+more than life imprisonment and if death or serious 
+bodily injury results from the use of such substance 
+shall be sentenced to life imprisonment, a fine not to 
+exceed the greater of twice that authorized in 
+accordance with the provisions of title 18 or 
+$4,000,000 if the defendant is an individual or 
+$10,000,000 if the defendant is other than an individ- 
+ual, or both. Any sentence imposed under this sub- 
+paragraph shall, in the absence of such a prior 
+conviction, include a term of supervised release of at 
+least 4 years in addition to such term of imprison- 
+ment and shall, if there was such a prior conviction, 
+include a term of supervised release of at least 8 
+years in addition to such term of imprisonment. Not- 
+withstanding any other provision of law, the court 
+shall not place on probation or suspend the sentence 
+of any person sentenced under this subparagraph. 
+No person sentenced under this subparagraph shall 
+be eligible for parole during the term of imprison- 
+ment imposed therein. 
+
+
+(C) In the case of a controlled substance in 
+schedule I or II, or 1 gram of flunitrazepam, except 
+as provided in subparagraphs (A), (B), and (D), such 
+person shall be sentenced to a term of imprisonment 
+of not more than 20 years and if death or serious 
+bodily injury results from the use of such substance 
+shall be sentenced to a term of imprisonment of not 
+less than twenty years or more than life, a fine not to 
+exceed the greater of that authorized in accordance 
+with the provisions of title 18 or $1,000,000 if the 
+defendant is an individual or $5,000,000 if the de- 
+
+
+42a 
+
+
+fendant is other than an individual, or both. If any 
+person commits such a violation after a prior con- 
+viction for a felony drug offense has become final, 
+such person shall be sentenced to a term of im- 
+prisonment of not more than 30 years and if death or 
+serious bodily injury results from the use of such 
+substance shall be sentenced to life imprisonment, a 
+fine not to exceed the greater of twice that 
+authorized in accordance with the provisions of title 
+18 or $2,000,000 if the defendant is an individual or 
+$10,000,000 if the defendant is other than an in- 
+dividual, or both. Any sentence imposing a term of 
+imprisonment under this paragraph shall, in the 
+absence of such a prior conviction, impose a term of 
+supervised release of at least 3 years in addition to 
+such term of imprisonment and shall, if there was 
+such a prior conviction, impose a term of supervised 
+release of at least 6 years in addition to such term of 
+imprisonment. Notwithstanding any other provision 
+of law, the court shall not place on probation or sus- 
+pend the sentence cf any person sentenced under the 
+provisions of this subparagraph which provide for a 
+mandatory term of imprisonment if death or serious 
+bodily injury results, nor shall a person so sentenced 
+be eligible for parole during the term of such a sen- 
+tence. 
+
+
+(D) In the case of less than 50 kilograms of 
+marihuana, except in the case of 50 or more mari- 
+huana plants regardless of weight, 10 kilograms of 
+hashish, or one kilogram of hashish oil or in the case 
+of any controlled substance in schedule III, or 30 
+milligrams of flunitrazepam, such person shall, 
+except as provided in paragraphs (4) and (5) of this 
+subsection, be sentenced to a term of imprisonment 
+
+
+43a 
+
+
+of not more than 5 years, a fine not to exceed the 
+greater of that authorized in accordance with the 
+provisions of title 18 or $250,000 if the defendant is 
+an individual or $1,000,000 if the defendant is other 
+than an individual, or both. If any person commits 
+such a violation after a prior conviction for a felony 
+drug offense has become final, such person shall be 
+sentenced to a term of imprisonment of not more 
+than 10 years, a fine not to exceed the greater of — 
+twice that authorized in accordance with the pro- 
+visions of title 18 or $500,000 if the defendant is an 
+individual or $2,000,000 if the defendant is other than 
+an individual, or both. Any sentence imposing a term 
+of imprisonment under this paragraph shall, in the 
+absence of such a prior conviction, impose a term of 
+supervised release of at least 2 years in addition to 
+such term of imprisonment and shall, if there was 
+such a prior conviction, impose a term of supervised 
+release of at least 4 years in addition to such term of 
+imprisonment. 
+
+
+(2) In the case of a controlled substance in 
+schedule IV, such person shall be sentenced to a 
+term of imprisonment of not more than 3 years, a fine 
+not to exceed the greater of that authorized in ac- 
+cordance with the provisions of title 18 or $250,000 if 
+the defendant is an individual or $1,000,000 if the 
+defendant is other than an individual, or both. If any 
+person commits such a violation after one or more 
+prior convictions of him for an offense punishable 
+under this paragraph, or for a felony under any other 
+provision of this subchapter or subchapter II of this 
+chapter or other law of a State, the United States, or 
+a foreign country relating to narcotic drugs, mari- 
+huana, or depressant or stimulant substances, have 
+
+
+44a 
+
+
+become final, such person shall be sentenced to a 
+term of imprisonment of not more than 6 years, a fine 
+not to exceed the greater of twice that authorized in 
+accordance with the provisions of title 18 or $500,000 
+if the defendant is an individual or $2,000,000 if the 
+defendant is other than an individual, or both. Any 
+sentence imposing a term of imprisonment under this 
+paragraph shall, in the absence of such a prior 
+conviction, impose a term of supervised release of at 
+least one year in addition to such term of imprison- 
+ment and shall, if there was such a prior conviction, 
+
+
+impose a term of supervised release of at least 2 
+
+
+years in addition to such term of imprisonment. 
+
+
+(3) In the case of a controlled substance in 
+schedule V, such person shall be sentenced to a term 
+of imprisonment of not more than one year, a fine not 
+to exceed the greater of that authorized in ac- 
+cordance with the provisions of title 18 or $100,000 if 
+the defendant is an individual or $250,000 if the 
+defendant is other than an individual, or both. If any 
+person commits such a violation after one or more 
+convictions of him for an offense punishable under 
+this paragraph, or for a crime under any other pro- 
+vision of this subchapter or subchapter II of this 
+chapter or other law of a State, the United States, or 
+a foreign country relating to narcotic drugs, mari- 
+huana, or depressant or stimulant substances, have 
+become final, such person shall be sentenced to a 
+term of imprisonment of not more than 2 years, a fine 
+not to exceed the greater of twice that authorized in 
+accordance with the provisions of title 18 or $200,000 
+if the defendant is an individual or $500,000 if the 
+defendant is other than an individual, or both. 
+
+
+45a 
+
+
+(4) Notwithstanding paragraph (1)(D) of this 
+subsection, any person who violates subsection (a) of 
+this section by distributing a small amount of mari- 
+huana for no remuneration shall be treated as pro- 
+vided in section 844 of this title and section 3607 of 
+title 18. 
+
+(5) Any person who violates subsection (a) of 
+this section by cultivating a controlled substance on 
+Federal property shall be imprisoned as provided in 
+this subsection and shall be fined any amount not to 
+exceed— 
+
+(A) the amount authorized in accordance 
+with this section; 
+(B) the amount authorized in accordance 
+
+with the provisions of title 18; 
+
+(C) $500,000 if the defendant is an in- 
+dividual; or 
+(D) $1,000,000 if the defendant is other than 
+an individual; 
+or both. : 
+
+(6) Any person who violates subsection (a) of 
+
+this section, or attempts to do so, and knowingly or 
+
+
+intentionally uses a poison, chemical, or other hazard- 
+ous substance on Federal land, and, by such use— 
+
+
+(A) creates a serious hazard to humans, 
+wildlife, or domestic animals, 
+
+(B) degrades or harms the environment or 
+natural resources, or 
+
+
+(C) pollutes an aquifer, spring, stream, 
+river, or body of water, 
+
+
+46a 47a 
+
+
+Section 846 of Title 21 of the United States Code 
+
+
+provides: 
+
+
+shall be fined in accordance with title 18, or im- 
+prisoned not more than five years, or both. 
+
+
+(7) Penalties for distribution. § 846 Attempt and conspiracy 
+
+
+Any person who attempts or conspires to commit any 
+offense defined in this subchapter shall be subject to 
+the same penalties as those prescribed for the offense, 
+the commission of which was the object of the attempt 
+or conspiracy. 
+
+
+(A) In general. Whoever, with intent to 
+commit a crime of violence, as defined in section 
+16 of title 18 (including rape), against an 
+individual, violates subsection (a) of this section 
+by distributing a controlled substance to that 
+individual without that individual’s knowledge, 
+shall be imprisoned not more than 20 years and 
+fined in accordance with title 18. 
+
+
+(B) Definition. For purposes of this para- 
+graph, the term “without that individual’s knowl- 
+edge” means that the individual is unaware that 
+a substance with the ability to alter that in- 
+dividual’s ability to appraise conduct or to de- 
+cline participation in or communicate unwill- 
+ingness to participate in conduct is administered 
+to the individual. 
+
+

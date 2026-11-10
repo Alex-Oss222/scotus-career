@@ -1,0 +1,424 @@
+Source: https://openjurist.org/219/f3d/744
+Judicial opinion and notes only; modern navigation omitted.
+
+On Petitions for Review of an Order of the Federal Communications Commission.
+
+Before Wollman, Chief Judge, Bowman and Hansen, Circuit Judges.
+
+Hansen, Circuit Judge
+
+¶1
+These cases are before us on remand from the Supreme Court. See AT & T Corp. v. Iowa Utils. Bd., 525 U.S. 366 (1999).
+Local telephone service providers (known as "incumbent local exchange carriers" or "ILECs") and their industry associations petition for review of the First Report and Order1 issued by the Federal Communications Commission (FCC) which contains the FCC's findings and rules2 pertaining to the local competition provisions of the Telecommunications Act of 19963 (the Act).
+The Act requires an ILEC to (1) permit requesting new entrants (competitors) in the ILEC's local market to interconnect with the ILEC's existing local network and, thereby, use that network to compete in providing local telephone service (interconnection); (2) provide its competitors with access to elements of the ILEC's own network on an unbundled basis (unbundled access); and (3) sell to its competitors, at wholesale rates, any telecommunications service that the ILEC provides to its customers at retail rates in order to allow the competing carriers to resell those services (resale).
+See 47 U.S.C. 251(c)(2)-(4) (1994 ed., Supp. III).4 Through this Act, Congress sought "to promote competition and reduce regulation in order to secure lower prices and higher quality services for American telecommunications consumers and encourage the rapid deployment of new telecommunications technologies." Telecommunications Act of 1996, Pub. L. No. 104-104, purpose statement, 110 Stat. 56, 56 (1996). Challenges to the First Report and Order were consolidated in this court.
+I. Background
+
+¶2
+We present a brief summary of the background of this case based upon the belief that all parties are familiar with the opinion of the Supreme Court as well as our prior opinion. In our prior opinion, Iowa Utils. Bd. v. F.C.C., 120 F.3d 753 (8th Cir. 1997), we concluded, in relevant part, that (1) the FCC exceeded its jurisdiction in promulgating various pricing rules; (2) the FCC exceeded its jurisdiction in promulgating 47 C.F.R.
+51.405, regarding rural exemptions; (3) the FCC exceeded its jurisdiction in promulgating 47 C.F.R. 51.303, regarding pre-existing agreements; and (4) various unbundling rules, including the superior quality rules and the combination of network elements rule, were contrary to the Act.
+¶3
+The Supreme Court affirmed in part, reversed in part, and remanded. See AT & T Corp. v. Iowa Utils. Bd., 525 U.S. 366 (1999). The Supreme Court reversed that part of our opinion pertaining to jurisdiction and held that the FCC had jurisdiction to (1) design a pricing methodology; (2) promulgate rules pertaining to rural exemptions; and (3) promulgate rules regarding pre-existing agreements. The Supreme Court also reversed our decision to vacate 47 C.F.R. 51.315(b).
+The Supreme Court did not address the part of our opinion vacating the superior quality rules, 47 C.F.R. 51.305(a)(4) and 51.311(c), and the additional combination of network elements rule, 47 C.F.R. 51.315(c)-(f).
+¶4
+On remand we must now review on the merits the FCC's forward-looking pricing methodology, proxy prices, and wholesale pricing provisions. The petitioners also request that the court vacate 47 C.F.R. 51.317, regarding the identification of additional unbundled network elements, and that the court reaffirm its previous decision vacating the superior-quality rules and the additional combination of network elements rule. We also must review on the merits 47 C.F.R.
+51.405, regarding rural exemptions, and 47 C.F.R. 51.303, pertaining to pre-existing agreements.
+II. Analysis
+
+¶5
+The United States Courts of Appeals have exclusive jurisdiction to review final orders of the FCC pursuant to 28 U.S.C. 2342(1) and 47 U.S.C. 402(a) (1994). In reviewing an agency's interpretation of a statute, we must defer to the agency only if its interpretation is consistent with the plain meaning of the statute or is a reasonable construction of an ambiguous statute. See Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 842-43 (1984).
+We will overturn an agency interpretation that conflicts with the plain meaning of the statute, see id., is an unreasonable construction of an ambiguous statute, see id. at 844-45, or is arbitrary and capricious. See 5 U.S.C. 706 (1994); Chevron, 467 U.S. at 844.
+In making our decision regarding reasonableness, the issue "is not whether the Commission made the best choice, or even the choice that this Court would have made, but rather 'whether the FCC made a reasonable selection from among the available alternatives.'" Southwestern Bell Tel. Co. v. F.C.C., 153 F.3d 523, 559-60 (8th Cir. 1998) (quoting MCI Telecomms. Corp. v. FCC, 675 F.2d 408, 413 (D.C. Cir. 1982).
+A. Pricing Methodology
+
+¶6
+
+Congress established pricing standards for the rates that may be charged by ILECs to their new local service competitors for interconnection and for the furnishing of network elements on an unbundled basis. The statute, in relevant part, states:
+
+¶7
+
+(d) Pricing standards
+
+¶8
+(1) Interconnection and network element charges Determinations by a State commission of the just and reasonable rate for the interconnection of facilities and equipment for purposes of subsection (c)(2) of section 251 of this title, and the just and reasonable rate for network elements for purposes of subsection (c)(3) of such section
+
+¶9
+
+(A) shall be
+
+¶10
+(i) based on the cost (determined without reference to a rate-of-return or other ratebased proceeding) of providing the interconnection or network element (whichever is applicable), and
+
+¶11
+
+(ii) nondiscriminatory, and
+
+¶12
+
+(B) may include a reasonable profit.
+
+¶13
+
+47 U.S.C. 252(d)(1).
+
+¶14
+The FCC promulgated various pricing rules to implement the Act. The FCC's pricing provisions that pertain to the pricing of interconnection and network elements utilize a forward-looking economic cost methodology that is based on the total element long-run incremental cost (TELRIC) of the element.
+These costs are to be based on an ILEC's existing wire center locations using the most efficient technology available in the industry regardless of the technology actually used by the ILEC and furnished to the competitor. See First Report and Order 685. State commissions are to employ TELRIC to determine the price an ILEC may charge its competitors for the right to interconnect with the ILEC and/or to use the ILEC's network elements to compete with the ILEC in providing telephone services.
+¶15
+
+The petitioners contend the TELRIC method violates the plain language and purpose of the Act and represents arbitrary and capricious decision-making. The petitioners challenge TELRIC on four grounds.
+
+1. Hypothetical Network Standard
+
+¶16
+In its First Report and Order, the FCC explained that forward-looking methodologies, like TELRIC, consider the costs that a carrier would incur in the future for providing the interconnection or unbundled access to its network elements. See First Report and Order 683. These costs either can be based on the most efficient network configuration and technology currently available, or on the ILEC's existing network infrastructures. See id. The FCC chose an approach which it says combined the two possibilities.
+See id. 685. Pursuant to 252(d)(1), the FCC promulgated 47 C.F.R. 51.505 entitled "Forward-looking economic cost." It states in part that "[t]he total element long-run incremental cost of an element should be measured based on the use of the most efficient telecommunications technology currently available and the lowest cost network configuration, given the existing location of the incumbent LEC's wire centers." 47 C.F.R. 51.505(b)(1).
+The only nonhypothetical factor in the calculation is the use of the actual location of the ILEC's existing wire centers.
+¶17
+The petitioners assert that the hypothetical network standard upon which TELRIC's costs are based is contrary to the Act's plain language. Section 252(d)(1)(A)(i) requires the just and reasonable rates for network elements to be "based on the cost (determined without reference to a rate-of-return or other rate-based proceeding) of providing the interconnection or network element." Id. (emphasis added).
+The petitioners contend the language points inescapably to the actual costs the ILEC incurs for furnishing its existing network to the competitor either through interconnection or on an unbundled network element basis. However, the petitioners explain that the costs under the FCC's pricing methodology are those costs that would be incurred by a hypothetical carrier deploying a hypothetical network that is optimally efficient in technology and configuration.
+The petitioners argue that the FCC's hypothetical network standard does not reflect what they are statutorily required to furnish to their competitors and is, therefore, flatly contrary to the statute.
+¶18
+The respondents counter the petitioners' assertion that TELRIC costs are based on a hypothetical network. The respondents contend TELRIC does reflect the ILECs' costs but on a predictive forward-looking basis that assumes a reasonable level of efficiency.
+According to the respondents, setting rates based on the use of the most efficient technology available and on the lowest cost network configuration using existing wire center locations is consistent with the statute, promotes competition, and is a reasonable application of forward-looking costs.
+¶19
+The intervenors in support of the FCC (the intervenors) explain that costs should be based on what any firm, including the specific ILEC whose rates are to be set, would incur in providing the network elements today. They suggest these costs should be the replacement cost of the network using the technology available today and that no firm in a competitive market would charge rates based on the cost of reproducing obsolete technology.
+The intervenors contend that calculating the cost of old technology with current prices defeats the purpose of using a forward-looking methodology.
+¶20
+We agree with the petitioners that basing the allowable charges for the use of an ILEC's existing facilities and equipment (either through interconnection or the leasing of unbundled network elements) on what the costs would be if the ILEC provided the most efficient technology and in the most efficient configuration available today utilizing its existing wire center locations violates the plain meaning of the Act.
+It is clear from the language of the statute that Congress intended the rates to be "based on the cost . . . of providing the interconnection or network element," id. (emphasis added), not on the cost some imaginary carrier would incur by providing the newest, most efficient, and least cost substitute for the actual item or element which will be furnished by the existing ILEC pursuant to Congress's mandate for sharing. Congress was dealing with reality, not fantasizing about what might be.
+The reality is that Congress knew it was requiring the existing ILECs to share their existing facilities and equipment with new competitors as one of its chosen methods to bring competition to local telephone service, and it expressly said that the ILECs' costs of providing those facilities and that equipment were to be recoverable by just and reasonable rates.
+Congress did not expect a new competitor to pay rates for a "reconstructed local network," First Report and Order 685, but for the existing local network it would be using in an attempt to compete.
+¶21
+It is the cost to the ILEC of providing its existing facilities and equipment either through interconnection or by providing the specifically requested existing network elements that the competitor will in fact be obtaining for use that must be the basis for the charges. The new entrant competitor, in effect, piggybacks on the ILEC's existing facilities and equipment. It is the cost to the ILEC of providing that ride on those facilities that the statute permits the ILEC to recoup.
+This does not defeat the purpose of using a forward-looking methodology as the intervenors assert. Costs can be forward-looking in that they can be calculated to reflect what it will cost the ILEC in the future to furnish to the competitor those portions or capacities of the ILEC's facilities and equipment that the competitor will use including any system or component upgrading that the ILEC chooses to put in place for its own more efficient use.
+In our view it is the cost to the ILEC of carrying the extra burden of the competitor's traffic that Congress entitled the ILEC to recover, and to that extent, the FCC's use of an incremental cost approach does no violence to the statute.
+At bottom, however, Congress has made it clear that it is the cost of providing the actual facilities and equipment that will be used by the competitor (and not some state of the art presently available technology ideally configured but neither deployed by the ILEC nor to be used by the competitor) which must be ascertained and determined.
+¶22
+
+Consequently, we vacate and remand to the FCC rule 51.505(b)(1).
+
+2. Use of a Forward-looking Methodology
+
+¶23
+The petitioners contend that the FCC's use of its forward-looking TELRIC methodology, which denies the ILECs recovery of their historical costs, is contrary to the express terms of the Act and is unreasonable. The petitioners state that the term "cost" plainly refers to historical cost and that the juxtaposition of "cost" in 252(d)(1)(A)(i) with "profit" in 252(d)(1)(B) confirms this.
+They refer to the discussion of profit in paragraph 699 of the First Report and Order as support for their proposition that if profit must be read in an accounting sense, then so too must cost. In addition, they assert the FCC failed to provide an adequate explanation for its rejection of historical costs and that an agency is not allowed to change ratemaking methodologies without cogently explaining why the change is being made.
+¶24
+The respondents argue the term "cost" is an elastic term that can be construed to mean either historical or forward-looking costs and that the FCC's interpretation of cost as forward-looking is reasonable. They clarify the discussion in the First Report and Order regarding profit. They explain that the FCC found that a normal profit, which TELRIC is designed to yield, represents a "reasonable profit" within the meaning of the statute and that the FCC has not construed profit to mean accounting profit.
+The respondents also argue the FCC explained in detail its decision to use forward-looking costs and that the decision was reasonable based on the new competitive objectives of the 1996 Act. The intervenors agree with the respondents that the term "cost" imposes no clear limits on the FCC's authority to establish a ratemaking methodology, and according to their argument, it is in these circumstances that an agency is entitled to deference.
+¶25
+We respectfully disagree with the petitioners' contention that cost, as it is used in the statute, means historical cost. The statute simply states that rates "shall be based on the cost . . . of providing the interconnection or network element." 47 U.S.C. 252(d)(1)(A). We conclude the term "cost," as it is used in the statute, is ambiguous, and Congress has not spoken directly on the meaning of the word in this context.
+We agree with the assessment that "the word 'cost' is a chameleon, capable of taking on different meanings, and shades of meaning, depending on the subject matter and the circumstances of each particular usage." Strickland v. Commissioner, Maine Dept. of Human Servs., 48 F.3d 12, 19 (1st Cir. 1995), cert. denied, 516 U.S. 850 (1995).
+¶26
+The FCC has the authority to make rules to fill any gap in the Act left by Congress, provided the agency's construction of the statute is reasonable. See Chevron, 467 U.S. at 843. Likewise, "Congress is well aware that the ambiguities it chooses to produce in a statute will be resolved by the implementing agency." AT & T Corp., 525 U.S. at 397 (citation to Chevron omitted).
+Forward-looking costs have been recognized as promoting a competitive environment which is one of the stated purposes of the Act. The Seventh Circuit, for example, explained, "[I]t is current and anticipated cost, rather than historical cost that is relevant to business decisions to enter markets . . .
+historical costs associated with the plant already in place are essentially irrelevant to this decision since those costs are 'sunk' and unavoidable and are unaffected by the new production decision." MCI Communications v. American Tel. & Tel. Co., 708 F.2d 1081, 1116-17 (7th Cir. 1983), cert. denied, 464 U.S. 891 (1983). Here, the FCC's use of a forward-looking cost methodology was reasonable.
+The FCC sought comment on the use of forward-looking costs and concluded that forward-looking costs would best ensure efficient investment decisions and competitive entry. See First Report and Order 705. It is apparent that the FCC explained in detail its reason for selecting a forward-looking cost methodology to implement the new competitive goals of the Act, and any past rejection of forward-looking methodologies was made in a monopoly, rather than a competitive, environment.
+See First Report and Order 618-711.
+¶27
+Additionally, we are unpersuaded by the petitioners' discussion of the juxtaposition of the word "profit" with "cost" in the statute. The FCC did not interpret profit as accounting5 profit as the petitioners contend. The First Report and Order discusses only two types of profit: economic6 and normal7. See First Report and Order 699.
+The FCC interpreted the word "profit" in the statute to mean "normal profit." The FCC found that TELRIC provides for a "normal" profit and that level of profit is reasonable within the meaning of the statute. Section 252(d)(1)(B) states only that the rates paid for either interconnection or furnishing unbundled access "may include a reasonable profit." The use of the word "may" indicates that the inclusion of a reasonable profit is not mandatory but permitted.
+Additionally, nothing in the phrase "may include a reasonable profit" suggests "cost" must mean historical costs. A "profit" can be made whether a historical cost or forward-looking cost methodology is used.
+We reiterate that a forward-looking cost calculation methodology that is based on the incremental costs that an ILEC actually incurs or will incur in providing the interconnection to its network or the unbundled access to its specific network elements requested by a competitor will produce rates that comply with the statutory requirement of 252(d)(1) that an ILEC recover its "cost" of providing the shared items.
+3. Effect of Universal Service Subsidies
+
+¶28
+The petitioners submit that the failure to include the costs imposed by the government mandated subsidies in network element prices would frustrate the Act's objectives by forcing the ILECs to bear a disproportionate share of the universal service burdens.
+They explain that when an incumbent carrier provides to a competitor the network elements needed to serve a business customer, the costs to the incumbent not only include the costs of operating the particular network elements furnished but also the loss of that customer's contribution to support lower rates for others. The loss of that contribution, the petitioners argue, must be included in the determination of the rates charged the competitor for unbundled access to the ILEC's network elements.
+¶29
+The respondents and intervenors assert that allowing the ILECs to include the costs of universal service subsidies in its rates would violate the Act. They argue 252(d)(1) requires rates to reflect the costs of providing the network elements, not the costs of universal service subsidies. Including those costs, according to the respondents, would violate that section of the Act.
+The respondents cite two decisions in which we concluded that the costs of universal services subsidies should not be included in the costs of providing the network elements. See Competitive Telecomms. Ass'n v. F.C.C., 117 F.3d 1068, 1074-75 (8th Cir. 1997); Southwestern Bell Tel. Co., 153 F.3d at 540.
+¶30
+In accordance with our previous opinions, we maintain our view that the costs of universal service subsidies should not be included in the costs of providing the network elements. Section 252(d)(1)(A)(1) requires rates to be cost-based. Universal service charges are not based on the actual costs of providing interconnection or the requested network element. See Competitive Telecomms., 117 F.3d at 1073.
+"[P]ayment of cost-based rates represents full compensation to the incumbent LEC for use of the network elements that carriers purchase." Southwestern Bell, 153 F.3d at 540 (quoting In re Access Charge Reform; Price Cap Performance Review for Local Exchange Carriers; Transport Rate Structure and Pricing; End User Common Line Charges, 12 FCC Rcd 15982 (1997) 337). Including the costs of universal service subsidies would allow for double recovery. See id.
+4. Takings Argument
+
+¶31
+
+The petitioners contend the use of the TELRIC method to set rates raises a serious Fifth Amendment takings issue that the statute should be construed to avoid. The petitioners challenge the pricing rules as mandating invalid confiscatory rates. The petitioners insist the statute must be read so that an ILEC receives just and reasonable compensation in the constitutional sense for the services it provides to its competitors.
+
+¶32
+The respondents argue that the claim that the use of TELRIC will constitute a taking is not ripe for judicial consideration because, at this point, it is unknown whether the rates established under TELRIC will constitute just and reasonable compensation. In addition, the intervenors point out that TELRIC compensates the ILECs for the present market value of the property taken which is all that is constitutionally required for just and reasonable compensation.
+
+¶33
+Because we have vacated 47 C.F.R. 51.505(b)(1), we have some doubt that we need to address the argument that TELRIC also violates the Constitution.
+Our remand to the FCC of the TELRIC rule should result in a new rule for determining the compensation that the ILECs will receive for the new competitor's use of the ILEC's property--a rule that should accurately determine the actual costs to the ILEC of furnishing its network (either by interconnection or on an unbundled element basis) to its competitors together with a permitted reasonable profit.
+Whether the new rule will result in rates that do not provide just and reasonable compensation cannot be foretold. However, in the event our view of TELRIC's statutory invalidity turns out to be incorrect, and to avoid as best we can another remand, we proceed further with the petitioners' constitutional assertions.
+¶34
+In our earlier opinion we determined that the ILECs' claims that the FCC's unbundling rules constituted an unconstitutional taking were not ripe for adjudication. See Iowa Utils. Bd., 120 F.3d at 818.
+We did so principally on the basis that the rates for the unbundled access were to be set by the state commissions, that the actual rates were largely yet unknown, and that the Act provided for a mechanism (arbitration before the state commissions and review in federal district court) to determine what the just and reasonable rates would be in individual cases. That ripeness conclusion was not attacked in the Supreme Court.
+While we recognize that the argument made here (that TELRIC itself, because it is based on a hypothetical network using the most efficient technology available which bears little or no resemblance to the ILEC's property which will be actually made available to competitors, must result in rates that are neither just nor reasonable, and confiscatory in the constitutional sense) is not the same one we addressed in our earlier opinion, we conclude for many of the same reasons we expressed before, see id., that the present takings claim is not ripe for review.8
+¶35
+The Constitution protects public utilities from rates which are "so unjust as to be confiscatory." Duquesne Light Co. v. Barasch, 488 U.S. 299, 307 (1989). However, a takings claim cannot be based on the ratemaking methodology, but rather it must be based on the rate itself. "It is not theory but the impact of the rate order which counts." Federal Power Comm'n v. Hope Natural Gas Co., 320 U.S. 591, 602 (1944).
+Until the actual rates are established, we cannot conclude whether the impact of TELRIC driven rates will constitute a taking. "It is not enough that a party merely speculates that a government action will cause harm." Alenco Communications, Inc. v. F.C.C., 201 F.3d 608, 624 (5th Cir. 2000). We do not need to disregard Chevron deference and interpret the statute in accordance with the petitioners' views in order to avoid an unconstitutional taking in this instance.
+The possibility that a regulatory program may result in a taking does not justify the use of a narrowing construction. See United States v. Riverside Bayview Homes, Inc., 474 U.S. 121, 128-29 (1985). In such circumstances, the adoption of a narrowing construction might frustrate a potentially permissible application of a statute. See id. at 128.
+Because the consequences of the FCC's choice to use TELRIC methodology cannot be known until the resulting rates have been determined and applied, the constitutional claim is not ripe. See Duquesne, 488 U.S. at 317 (Scalia, White, and O'Connor, JJ., concurring) (noting that the Constitution looks to the consequences produced rather than the technique employed).
+B. Wholesale Rates
+
+¶36
+Section 252(d)(3) of the Act provides that state commissions "shall determine wholesale rates on the basis of retail rates charged to subscribers for the telecommunications service requested, excluding the portion thereof attributable to any marketing, billing, collection, and other costs that will be avoided by the local exchange carrier." Pursuant to this section, the FCC promulgated 47 C.F.R. 51.607 which excludes "avoided retail costs" from wholesale rates.
+"Avoided retail costs" are defined by the FCC as "those costs that reasonably can be avoided when an incumbent LEC provides a telecommunications service for resale at wholesale rates to a requesting carrier." 47 C.F.R. 51.609(b).
+¶37
+The petitioners challenge the FCC's interpretation of the term "avoided retail costs." The petitioners contend 252(d)(3) plainly requires wholesale rates to reflect the ILECs' retail rates less those costs that an ILEC actually avoids when it loses its retail customers to a reselling competitor. However, under the FCC's definition of "avoided retail costs," the petitioners argue the FCC requires them to exclude all retailing costs rather than only those costs that an ILEC actually avoids.
+The petitioners state that many costs associated with retailing are fixed and will not begin to decline initially nor will the costs decline proportionately to the number of customers lost to the reseller. The petitioners explain the phrase "will be avoided" in 252(d)(3) means "actually avoided" because otherwise the wholesale discount given the reseller would be inflated.
+¶38
+The respondents counter that the phrase "will be avoided" is ambiguous and that the FCC reasonably interpreted the language of the statute. The intervenors explain that the ILECs avoid incurring any retailing costs when engaging in wholesale transactions, and even if certain retailing costs are fixed, the ILECs would still incur only those costs that arose in connection with the ILECs' retailing activities.
+The respondents state that making competitors pay for a portion of the ILECs' retailing costs, even though the new entrant is not the cause of those retail costs, would result in the new entrants subsidizing the ILECs' retail offerings while still having to pay the new entrants' own retailing costs.
+¶39
+We agree with the petitioners that the phrase "will be avoided" refers to those costs that the ILEC will actually avoid incurring in the future, because of its wholesale efforts, not costs that "can be avoided." The verb "will" is defined, in part, as "a word of certainty." BLACK'S LAW DICTIONARY 1598 (6th ed. 1990). Whereas, the verb "can" is "[o]ften used interchangeably with 'may,'" id. at 206, and may is a word "of speculation and uncertainty." Id. at 1598. The language of the statute is clear.
+Wholesale rates shall exclude "costs that will be avoided by the local exchange carrier." 47 U.S.C. 252(d)(3). The plain meaning of the statute is that costs that are actually avoided, not those that could be or might be avoided, should be excluded from the wholesale rates.
+¶40
+If the Congress had meant the standard to be one of reasonable avoidability, it could have easily said so. We note that Congress's starting point in 252(d)(3) is the retail rates the ILEC charges its subscribers for the same service the new competitor (who wants to enter the market by reselling) has requested be furnished to it. From those retail rates, the ILEC's costs that "will be avoided" by furnishing those services to the competitor are to be excluded.
+The statute recognizes that the ILEC will itself remain a retailer of telephone service with its own continuing costs of providing that retail telephone service. The FCC's rule treats the ILEC as if it were strictly a wholesaler whose sole business is to supply local telephone service in bulk to new purveyors of retail telephone service.
+Under the statute as it is written, it is only those continuing costs of providing retail telephone service which will be avoided by selling to the competitor the services it requests which are to be excluded. The FCC's rule is contrary to the statute.
+¶41
+
+Consequently, we vacate and remand rule 51.609.
+
+C. Proxy Prices
+
+¶42
+
+The FCC established proxy prices to be used for interconnection and network element charges, wholesale rates, and the rates for termination and transport. The state commissions are to use these proxy prices if they do not use the provided ratemaking method to establish rates. The proxy prices consist of upper limits higher than which the rates set by the state commissions shall not go.
+
+¶43
+The petitioners argue the proxy prices should be vacated for three reasons. First, the petitioners state that the respondents expressly disavowed the proxy prices before the Supreme Court in order to support the FCC's position that it was not trying to set specific prices, but rather it was merely designing a pricing methodology. Therefore, the FCC, according to the petitioners, is judicially estopped from trying to revive the proxy prices now.
+Second, the petitioners contend the proxy prices should be vacated because they are based on the unlawful TELRIC method and employ the impermissible definition of "avoided retail costs." Third, the petitioners argue the proxy prices were developed using unreliable cost models and, as a result, are arbitrary and capricious.
+¶44
+The respondents counter that the petitioners' challenge to the proxy prices is not subject to review because the proxy prices are not binding on the states. The respondents contend that states may elect to use the proxy prices, but the states are not required to use them. The respondents insist that this court has jurisdiction to review only final orders of the FCC, and the proxy prices are not final orders because they do not impose an obligation on the states.
+The intervenors add that substantial deference should be accorded to the FCC because the issue concerns interim relief, citing Competitive Telecommunications Association v. F.C.C., 117 F.3d 1068, 1073-75 (8th Cir. 1997).
+¶45
+We agree with the petitioners that the respondents are estopped from trying to now revive the proxy prices. "The doctrine of judicial estoppel prohibits a party from taking inconsistent positions in the same or related litigation." Hossaini v. Western Missouri Med. Ctr., 140 F.3d 1140, 1142 (8th Cir. 1998). Judicial estoppel is invoked "to protect the integrity of the judicial process." Id. at 1143.
+The FCC represented to the Supreme Court that it was not establishing rates and depriving the state commissions of their role in implementing the Act. See Reply Br. for Federal Pet'rs at 7, AT & T Corp. v. Iowa Utils. Bd., 525 U.S. 366 (1999) 1998 WL 396961 (Nos. 97-826, 97-829, 97-830, 97-831, 97-1075, 97-1087, 97-1099, and 97-1141).
+The FCC emphasized that it was merely providing a methodology for state commissions to use in completing the "critical and complex task of determining the economic costs of an efficient telephone network." Id. The FCC dismissed the proxy prices as "designed for a past period in which no cost studies could have been made available to the state commissions. They have no relevance to this case." Id. at 7 n.5.
+¶46
+We are not persuaded by the FCC's explanation to this court of its position before the Supreme Court. The respondents explain that the proxy prices were not relevant to the ILECs' claim before the Supreme Court that the pricing rules intruded on the states' role in establishing rates because the proxy prices were optional. The First Report and Order very clearly commands the use of the proxy prices by directing that "a state commission shall use [default proxies] . . .
+in the period before it applies the pricing methodology." First Report and Order 619 (emphasis added). Additionally, rule 51.503(b) states that the ILECs' rates for its elements "shall be established" using either TELRIC or the proxy prices. See 47 C.F.R. 51.503(b) (emphasis added). The word "shall" is language of a mandatory nature. Clark v. Brewer, 776 F.2d 226, 230 (8th Cir. 1985).
+It is clear from the language of the First Report and Order, as well as the rules, that the state commissions are to use the proxy prices until the state commissions have established their own rates using the TELRIC method. The use of the proxy prices until such time is not optional.
+¶47
+The Supreme Court held that the FCC "has jurisdiction to design a pricing methodology." AT & T Corp., 525 U.S. at 385. However, the FCC does not have jurisdiction to set the actual prices for the state commissions to use. Setting specific prices goes beyond the FCC's authority to design a pricing methodology and intrudes on the states' right to set the actual rates pursuant to 252(c)(2).
+Following the Supreme Court's opinion, we now agree with the FCC that its role is to resolve "general methodological issues," and it is the state commission's role to exercise its discretion in establishing rates. Br. for Federal Pet'rs at 26-27, AT & T Corp. v. Iowa Utils. Bd., 525 U.S. 366, 119 S.Ct. 721, 142 L.Ed.2d 835 (1999).
+¶48
+
+The proxy prices are also infirm because they rely on the hypothetical most efficient carrier rationale which we have found to be violative of the Act, ante at 5-8, and because they rely on the erroneous definition of "avoided retail costs."
+
+¶49
+
+We conclude the proxy prices cannot stand and, for the foregoing reasons, vacate rules 51.513, 51.611, and 51.707.
+
+D. Unbundling Rules
+
+¶50
+The FCC issued numerous rules to implement the ILECs' duties to provide unbundled access to their network elements under subsection 251(c)(3). Many of these rules were previously challenged. In light of the Supreme Court's opinion, we revisit three of the unbundling rules.
+
+¶51
+
+1. Identification of Additional Unbundled Network Elements
+
+¶52
+The Supreme Court vacated 47 C.F.R. 51.319 which required the ILECs to provide requesting carriers with unbundled access to a minimum of seven network elements so long as access was "necessary" and failure to provide the access would "impair" the competitors' ability to provide services. The Supreme Court vacated 47 C.F.R. 51.319 because the FCC's interpretation of the "necessary" and "impair" standard was too broad and unreasonable. See AT & T Corp., 525 U.S. at 388-92.
+
+¶53
+The ILECs request that we now vacate rule 51.317 because it utilizes the same "necessary" and "impair" standard of rule 51.319. The Supreme Court did not specifically address the validity of rule 51.317. This court previously upheld the "necessary" and "impair" standard, but we vacated the portion of rule 51.317 that created the presumption that a network element must be unbundled if it is technically feasible to do so.
+
+¶54
+The respondents concede that rule 51.317 must be remanded to the FCC as a result of the Supreme Court's opinion. See Resp'ts' Br. at 87 n.42. Therefore, we vacate rule 51.317 without any further discussion.
+
+2. Superior Quality Rules
+
+¶55
+In our previous opinion, we vacated 47 C.F.R. 51.305(a)(4) and 51.311(c), collectively known as the superior quality rules. These rules require an ILEC to provide, upon request, interconnection and unbundled network elements that are superior in quality to that which the ILEC provides to itself. The Supreme Court did not address these rules.
+
+¶56
+The petitioners ask us to reaffirm our previous decision vacating the superior quality rules. They contend the Supreme Court's decision did not affect our conclusion that the superior quality rules violated the Act because the FCC did not seek a review of our prior decision vacating these rules.
+
+¶57
+The respondents argue that the Supreme Court affirmed the FCC's general authority to adopt rules implementing the Act and that under this general authority the superior quality rules are valid. The intervenors agree and explain that because nothing in the Act forecloses the superior quality rules, the rules should be reinstated.
+
+¶58
+We again conclude the superior quality rules violate the plain language of the Act. We further conclude that nothing in 47 U.S.C. 154(i), 201(b), or 303(r) gives the FCC the power to issue regulations contrary to the plain language of the Act.
+As we were correctly reminded at oral argument that this court is not a "super FCC," neither is the FCC an alter ego Congress free to change the words of a statute from "at least equal in quality" to "superior in quality" when it exercises its rule-making power. Subsection 251(c)(2)(C) requires the ILECs to provide interconnection "that is at least equal in quality to that provided by the local exchange carrier to itself . . .
+." Nothing in the statute requires the ILECs to provide superior quality interconnection to its competitors. The phrase "at least equal in quality" establishes a minimum level for the quality of interconnection; it does not require anything more. We maintain our view that the superior quality rules cannot stand in light of the plain language of the Act for all the reasons we previously expressed. See Iowa Utils. Bd., 120 F.3d at 812-13.
+We also note that it is self-evident that the Act prevents an ILEC from discriminating between itself and a requesting competitor with respect to the quality of the interconnection provided.
+3. Additional Combinations Rule
+
+¶59
+
+In our previous opinion, we also vacated 47 C.F.R. 51.315(c)-(f), the additional combinations rule. This rule requires an ILEC to perform the functions necessary to combine unbundled network elements in any technically feasible manner. Although the Supreme Court reversed our decision to vacate 47 C.F.R. 51.315(b), prohibiting the ILECs from separating requested network elements that are already combined, the Supreme Court did not address subsections (c)-(f).
+¶60
+The petitioners request that we reaffirm our prior decision vacating the additional combinations rule. The petitioners state that the Supreme Court's decision to reinstate 51.315(b) does not call into question this court's decision to vacate 51.315(c)-(f). The petitioners explain 51.315(b) is different because it prohibited ILECs from separating previously combined network elements over the objection of the requesting carrier.
+The additional combinations rule contained in subsections (c)-(f), on the other hand, requires the ILECs to combine their own network elements in new ways or with elements provided by the requesting carriers. They argue the additional combinations rule violates the Act.
+¶61
+In addition to the respondents' argument regarding the general rulemaking authority of the FCC, they assert this court's decision to vacate rules 51.315(c)-(f) was predicated on language rejected by the Supreme Court when it reinstated rule 51.315(b). In reinstating subsection (b), the Supreme Court emphasized the ambiguous nature of 251(c)(3) regarding the separation of leased network elements. See AT & T Corp., 525 U.S. at 395.
+Because of this ambiguity, the Supreme Court concluded, subsection (b) is rationally based on the nondiscrimination language in 251(c)(3). See id. The respondents rely on the same nondiscrimination language to support subsections (c)-(f) because without these subsections, they argue, new entrants would incur higher costs for unbundled network elements than the ILECs incur. The intervenors agree that the policy concerns of ensuring against an anticompetitive practice not only support 47 C.F.R.
+51.315(b) but also subsections (c)-(f).
+¶62
+We are not persuaded by the respondents' contention that the Supreme Court's reinstatement of rule 51.315(b) affects our decision to vacate subsections (c)-(f). Nor do we agree with the Ninth Circuit that the Supreme Court's opinion undermined our rationale for invalidating the additional combinations rule. See U.S. West Communications v. MFS Intelenet, Inc., 193 F.3d 1112, 1121 (9th Cir. 1999), cert. denied, 68 U.S.L.W. 3669 (U.S. June 29, 2000) (No. 99-1641).
+The Ninth Circuit misinterpreted our decision to vacate subsections (c)-(f). We did not, as the Ninth Circuit suggests, employ the same rationale for invalidating subsections (c)-(f) as we did in invalidating subsection (b). See MCI Telecomms. v. U.S. West, 204 F.3d 1262, 1268 (9th Cir. 2000) ("The Eighth Circuit invalidated Rules 315(c)-(f) using the same rationale it employed to invalidate Rule 315(b).
+That is, the Eighth Circuit concluded that requiring combination was inconsistent with the meaning of the Act because the Act calls for 'unbundled' access.") Rather, the issue we addressed in subsections (c)-(f) was who shall be required to do the combining, not whether the Act prohibited the combination of network elements. See Iowa Utils. Bd., 120 F.3d at 813.
+¶63
+
+Rule 51.315(b) prohibits the ILECs from separating previously combined network elements before leasing the elements to competitors. The Supreme Court held that 51.315(b) is rational because "[section] 251(c)(3) of the Act is ambiguous on whether leased network elements may or must be separated." AT & T Corp., 525 U.S. at 395. Therefore, under the second prong of Chevron, the Supreme Court concluded 51.315(b) was a reasonable interpretation of an ambiguous statute.
+
+¶64
+Unlike 51.315(b), subsections (c)-(f) pertain to the combination of network elements. Section 251(c)(3) specifically addresses the combination of network elements. It states, in part, "An incumbent local exchange carrier shall provide such unbundled network elements in a manner that allows requesting carriers to combine such elements in order to provide such telecommunication service." Here, Congress has directly spoken on the issue of who shall combine previously uncombined network elements.
+It is the requesting carriers who shall "combine such elements." It is not the duty of the ILECs to "perform the functions necessary to combine unbundled network elements in any manner" as required by the FCC's rule. See 47 C.F.R. 51.315(c). We reiterate what we said in our prior opinion: "[T]he Act does not require the incumbent LECs to do all the work." Iowa Utils. Bd., 120 F.3d at 813. Under the first prong of Chevron, subsections (c)-(f) violate the plain language of the statute.
+We are convinced that rules 51.315(c)-(f) must remain vacated.
+E. Rural Exemptions
+
+¶65
+
+Congress enacted 251(f) to relieve the small and rural ILECs from some of the obligations imposed by other subsections of 251. The FCC promulgated 47 C.F.R. 51.405 to establish standards that the state commissions must follow in determining whether the small and rural ILECs are entitled to the exemption, suspensions, or modifications set forth in 251(f).
+
+¶66
+The petitioners contend rule 51.405 cannot be reconciled with the language of the statute. They challenge the rule on three grounds. First, they argue the rule eliminates two of the three prerequisites that must be satisfied before a state commission may terminate an exemption. Second, they disagree with the limitation the rule places on the statutory phrase "unduly economically burdensome." Third, they suggest that the rule impermissibly shifts the burden of proof in exemption proceedings.
+
+¶67
+1. Prerequisites for Terminating an Exemption
+
+¶68
+Section 251(f)(1)(A) explains that a state commission may terminate an exemption for a rural telephone company if a request for interconnection, services, or network elements "is not unduly economically burdensome, is technically feasible, and is consistent with section 254 of this title (other than subsections (b)(7) and (c)(1)(D) thereof)." The FCC promulgated 47 C.F.R. 51.405 pursuant to 251(f).
+The rule requires the ILECs to offer evidence that the application of the requirements under 251(c) "would be likely to cause undue economic burden beyond the economic burden that is typically associated with efficient competitive entry" in order to justify exemption. 47 C.F.R. 51.405(c).
+¶69
+
+The petitioners contend the rule is invalid because it alters the statutorily-mandated criteria that must be met in order for a state commission to terminate a rural ILEC's exemption. The petitioners point out that rule 51.405 refers only to the "unduly economically burdensome" prerequisite for termination rather than the above-mentioned three criteria.
+
+¶70
+The respondents argue that the rule does not eliminate any statutory criteria regarding rural exemptions. The respondents explain it was not the FCC's intent, nor was it within the FCC's power, to eliminate any statutory requirements. The respondents suggest that state commissions will look to the statute itself, in addition to the FCC's rule, when implementing 251(f).
+They further claim that the FCC has stated in a later order that rule 51.405(c) "does not in any way affect a state's responsibility to consider all three of the factors set forth in section 251(f)(1)(A)," citing to an order entered when the Rural Telephone Coalition sought a stay of rule 51.405(c). See In re Implementation of the Local Competition Provisions in the Telecommunications Act of 1996, 11 FCC Rcd 20166 (1996) 15.
+¶71
+We agree with the petitioners that the rule impermissibly disregards two of the three statutory requirements that must be met before a state commission can terminate an exemption. A state commission looking at rule 51.405(c) would conclude that if a rural ILEC had failed to show an undue economic burden, the exemption must be terminated, regardless of the existence of the ILEC's companion defenses of technical unfeasibility and/or inconsistency with 254 of the Act.
+A rule that permits such a result represents an arbitrary and unreasonable interpretation of the governing statute.
+2. Undue Economic Burden
+
+¶72
+Rule 51.405 also refers to the statutory requirement that a request for interconnection, unbundled elements, or retail services for resale must not cause an undue economic burden in order to justify termination of an exemption under 251(f)(1) or to justify the denial of a petition for suspension or modification under 251(f)(2).
+The rule interprets the statutory phrase "unduly economically burdensome" as "undue economic burden beyond the economic burden that is typically associated with efficient competitive entry." 47 C.F.R. 51.405(c),(d).
+¶73
+The petitioners argue that the rule's interpretation of the statutory language is unreasonable because it does not allow state commissions to consider the total actual economic burden that competitive entry could impose on a small or rural ILEC. The petitioners explain that the phrase "unduly economically burdensome" indicates Congress intended state commissions to consider any type of economic burden that might be imposed by such a request, including those burdens associated with efficient entry.
+¶74
+The respondents assert that the FCC interpreted "unduly economically burdensome" to refer to something more than the economic burden that commonly or ordinarily occurs upon efficient competitive entry because otherwise exemption, suspension, or modification would be virtually automatic.
+The respondents submit that Congress did not intend to preclude competitive entry into small or rural markets; rather Congress intended to protect the small or rural ILECs from only those 251(b) or 251(c) requirements that might be unfair or inappropriate.
+¶75
+We agree with the petitioners that the FCC has unreasonably interpreted the phrase "unduly economically burdensome." We owe no deference to an agency's interpretation that would "frustrate the congressional policy underlying a statute." Bureau of ATF v. Fed. Labor Relations Auth., 464 U.S. 89, 97 (1983) (quoting NLRB v. Brown, 380 U.S. 278, 291-92 (1965)).
+In the Act, Congress sought both to promote competition and to protect rural telephone companies as evidenced by the congressional debates. See 142 CONG. REC. S687-01 (Feb. 1, 1996) (statements by Sen. Hollings and Sen. Burns); 142 CONG. REC. H1145-06 (Feb. 1, 1996) (statement by Rep. Orton).
+It is clear that Congress intended that all Americans, including those in sparsely settled areas served by small telephone companies, should share the benefit of the lower cost of competitive telephone service and the benefits of new telephone technologies, which the Act was designed to provide.
+It is also clear that Congress exempted the rural ILECs from the interconnection, unbundled access to network elements, and resale obligations imposed by 251(c), unless and until a state commission found that a request by a new entrant that the ILEC furnish it any of 251(c)'s methods to compete in the rural ILEC's market is (1) not unduly economically burdensome, (2) technically feasible, and (3) consistent with 254. See 47 U.S.C. 251(f)(1).
+Likewise, Congress provided for the granting of a petition for suspension or modification of the application of the requirements of 251(b) or (c) if a state commission determined that such suspension or modification is necessary to avoid (1) a significant adverse economic impact, (2) imposing a requirement that is unduly economically burdensome, and (3) imposing a requirement that is technically infeasible; and is consistent with the public interest, convenience, and necessity. See 【152†47 U.S.C.
+251(f)(2)】.
+¶76
+There can be no doubt that it is an economic burden on an ILEC to provide what Congress has directed it to provide to new competitors in 251(b) or 251(c).
+Because the small and rural ILECs, while they may be entrenched in their markets, have less of a financial capacity than larger and more urban ILECs to meet such a request, the Congress declared that their statutorily-granted exemption from doing so should continue unless the state commission found all three prerequisites for terminating the exemption, or determined that all prerequisites for suspension or modification were met in order to grant an ILEC affirmative relief.
+It is the full economic burden on the ILEC of meeting the request that must be assessed by the state commission. The FCC's elimination from that assessment of the "economic burden that is typically associated with efficient competitive entry" substantially alters the requirement Congress established.
+By limiting the phrase "unduly economically burdensome" to exclude economic burdens ordinarily associated with competitive entry, the FCC has impermissibly weakened the broad protection Congress granted to small and rural telephone companies. We have found no indication that Congress intended such a cramped reading of the phrase.
+If Congress had wanted the state commissions to consider only that economic burden which is in excess of the burden ordinarily imposed on a small or rural ILEC by a competitor's requested efficient entry, it could easily have said so. Instead, its chosen language looks to the whole of the economic burden the request imposes, not just a discrete part.
+¶77
+Nor do we think the consideration of the whole economic burden occasioned by the request will result in state commissions "automatically" continuing the exemption, or "automatically" granting a petition for suspension or modification. In making their determination of "unduly economically burdensome," the state commissions will undoubtedly take into their judgment the fact that the ILEC will be paid for the cost of meeting the request and may also receive a reasonable profit pursuant to 252(d).
+Subsections (c) and (d) of rule 51.405 are an unreasonable interpretation of the statute's requirement that a 251(b) or 251(c) request made by a competitor must not be "unduly economically burdensome" to the small or rural ILEC.
+3. Burden of Proof
+
+¶78
+Rule 51.405 also requires the rural ILEC to offer evidence to the state commission to prove that it is entitled to a continuing exemption.
+The rule states, "Upon receipt of a bona fide request for interconnection, services, or access to unbundled network elements, a rural telephone company must prove to the state commission that the rural telephone company should be entitled, pursuant to section 251(f)(1) of the Act, to continued exemption from the requirements of section 251(c) of the Act." 47 C.F.R. 51.405(a).
+¶79
+The petitioners contend the FCC has improperly placed the burden of justifying a continued exemption on the ILECs. The petitioners discuss the language in 47 U.S.C. 251(f)(1)(A), which states "[s]ubsection (c) of this section shall not apply to a rural telephone company until (i) such company has received a bona fide request for interconnection, services, or network elements . . .
+." This language, they explain, indicates that the ILECs are automatically exempt from subsection (c) until a request has been made, and once a request is made, the burden is on the party making the request to prove that the request is not unduly economically burdensome, is technically feasible, and is consistent with 254. They also assert the burden of proof lies with the proponent of the order according to the Administrative Procedure Act. See 5 U.S.C. 556(d) (1994).
+¶80
+The respondents argue it was reasonable to place the burden on the rural ILECs because the default rule is for the state commission to deny the exemption unless the state commission affirmatively finds a reason to continue the exemption. The respondents rely on the Senate conference report on the Act which explains that a state commission must rule on the continuation of an exemption within 120 days, "and, if no exemption is granted," then the state commission must establish a schedule for compliance. S.
+CONF. REP. NO. 104-230, at 122 (1996). The respondents emphasize the word "granted" implies that a state commission will only grant an exemption if there is a specific reason to do so.
+¶81
+We agree with the petitioners that the rule impermissibly places the burden of proof on the ILECs. The statute states that the requirements of 251(c) "shall not apply to a rural telephone company until" a request has been made. 47 U.S.C. 251(f)(1)(A) (emphasis added).
+The use of the word "until" suggests that the rural telephone companies have a continuing exemption that is only terminated once a bona fide request is made, provided the request is not unduly economically burdensome, is technically feasible, and is consistent with 254. Although the conference report refers to state commissions granting an exemption, the language of a conference report does not trump the language of a statute. See Sierra Club v. Clark, 755 F.2d 608, 615 (8th Cir. 1985).
+The language of the statute uses the word "terminate" not "grant." See 47 U.S.C. 251(f)(1)(B). The plain meaning of the statute requires the party making the request to prove that the request meets the three prerequisites to justify the termination of the otherwise continuing rural exemption.
+¶82
+
+For the foregoing reasons, we vacate rule 51.405(a), (c), and (d).
+
+F. Pre-existing Agreements
+
+¶83
+
+Congress enacted 252 of the Act to establish procedures for state commissions to approve agreements between ILECs and competing telecommunication carriers arrived at through negotiation or arbitration. Section 252(a) requires agreements entered into pursuant to 251(c)(1)'s duty to negotiate to be submitted to the state commissions for approval. Section 252(a)(1) states:
+¶84
+Upon receiving a request for interconnection, services, or network elements pursuant to section 251 of this title, an incumbent local exchange carrier may negotiate and enter into a binding agreement with the requesting telecommunications carrier or carriers without regard to the standards set forth in subsections (b) and (c) of section 251 of this title.
+The agreement shall include a detailed schedule of itemized charges for interconnection and each service or network element included in the agreement. The agreement, including any interconnection agreement negotiated before February 8, 1996, shall be submitted to the State commission under subsection (e) of this section.
+¶85
+
+The FCC promulgated 47 C.F.R. 51.303 which requires all interconnection9 agreements, even those that predate the 1996 Act, to be submitted to the state commissions for approval. The rule states, "All interconnection agreements between an incumbent LEC and a telecommunications carrier, including those negotiated before February 8, 1996, shall be submitted by the parties to the appropriate state commission for approval . . . ." 47 C.F.R. 51.303(a).
+
+¶86
+The petitioners argue that the rule violates the explicit language of the Act because, while the Act references agreements entered into pursuant to 251, the rule applies to all agreements, even those entered into years before the Act was passed.
+The petitioners explain that agreements negotiated and entered into pre-1996 could not have been entered into "pursuant to section 251" because 251 did not exist at that time, and therefore, only agreements that were either negotiated before the Act and formally entered into after the Act, or agreements that were both negotiated and formally entered into after the Act, must be submitted for approval.
+¶87
+The respondents contend that the agreement referred to in the third sentence of 252(a)(1) is not limited to the agreement mentioned in the first and second sentences. The first and second sentences, they argue, refer to agreements reached pursuant to 251, while the agreement mentioned in the third sentence refers to all, including pre-Act, agreements.
+The respondents explain that the term "negotiated" in the phrase set off by commas in the third sentence means a completed negotiation or, in other words, a negotiation that has resulted in a completed interconnection agreement.
+¶88
+We agree with the petitioners that the rule is contrary to the language of the Act. The respondents attempt to isolate the third sentence of 252(a)(1) from the prior two sentences. The FCC concluded "that the final sentence of section 252(a)(1), which requires that any interconnection agreement must be submitted to the state commissions, can and should be read to be independent of the prior sentences in section 252(a)(1)." First Report and Order 166.
+This is not a proper construction because "we must not be guided by a single sentence or member of a sentence, but look to the provisions of the whole law, and to its object and policy." United States Nat'l Bank of Oregon v. Independent Ins. Agents, 508 U.S. 439, 455 (1993).
+¶89
+The subsection in question begins by making reference to a competitor's "request . . . pursuant to section 251." Upon receiving such a request, the competitor and the ILEC "may negotiate and enter into a binding agreement" without regard for the interconnection and unbundled network element access standards of 251(b) and (c).
+The second sentence requires that the agreement so negotiated and entered into contain a detailed schedule of itemized charges for the items covered by the "agreement." The third sentence begins with the words, "[t]he agreement" (which can only mean the same agreement authorized by the first sentence and referred to in the second sentence) and requires that it be submitted to the state commission for approval pursuant to subsection (e).
+¶90
+The phrase in the third sentence set off by commas, which reads, "including any interconnection agreement negotiated before February 8, 1996," serves as the co-subject of the verb form "shall be submitted" and explains and defines what else besides the "agreement" mentioned in the first two sentences of the section must be submitted to the state commission. The "what else" that must be submitted to the state commission for approval is any interconnection agreement "negotiated" before February 8, 1996.
+¶91
+Congress was aware that many states were already exploring and experimenting with ways to open up local telephone markets to competition, and that telephone carriers were involved with each other in negotiations for those purposes prior to and at the time of the Act's passage. See, e.g., S. REP. NO. 104-23, at 5 (1995).
+By using the phrase "including any interconnection agreement negotiated before February 8, 1996," Congress brought within the sphere of required state commission approval all interconnection agreements entered into after February 8, 1996, including specifically those whose terms were arrived at by negotiation prior to that date but which had not yet been formally entered into by the parties.
+Because that unique group of interconnection agreements (those that were negotiated before but not yet entered into by February 8, 1996) could not have been agreements prompted or originated by either a request made under the Act or by the duty to negotiate contained in the Act (as the Act was not yet in existence at the time they were being negotiated), they could not be an "agreement" covered by the first two sentences and the first two words of the third sentence of 252(a)(1).
+Nevertheless, because their subject matter, interconnection, was one which the Act was intended to compel, and because they would be entered into after the effective date of the Act, it was logical for Congress to want them subject to the Act's provisions.
+The use of the statutory language "including any interconnection agreement negotiated before February 8, 1996" also eliminated any argument that the agreeing carriers could have made in order to avoid state commission approval that their agreement had been negotiated before the Act's date and, therefore, was not subject to it.
+¶92
+We also think it of some significance that Congress intentionally used both the terms "negotiate" and "enter into" in the first sentence of 252(a)(1) but only used the verb "negotiated" in the third sentence. Had Congress wanted to include all interconnection agreements that had been both negotiated and entered into before the Act's effective date within the scope of the third sentence, all it had to do was use the same words it had used in the first sentence. See 【179†Kifer v. Liberty Mut. Ins.
+Co.】, 777 F.2d 1325, 1333 n.9 (8th Cir. 1985) ("'When the same word or phrase is used in the same section of an act more than once, and the meaning is clear as used in one place, it will be construed to have the same meaning in the next place.'") (quoting United States v. Nunez, 573 F.2d 769, 771 (2d Cir.), cert. denied, 436 U.S. 930 (1978)). It did not, and its choice not to do so reinforces our conclusion that Congress did not intend to do so. See, e.g., 【181†Johnson v.
+United States】, U.S., 120 S. Ct. 1795, 1803 (2000) (When Congress means the same consequences, it is "natural for Congress to write in like terms.").
+¶93
+Across the country there were thousands of interconnection agreements existing between and among ILECs before the Act was passed. In Wisconsin alone the state commission estimated that there were over 3,000 pre-Act agreements which, under the FCC's construction of 252, would now have to be submitted for approval. See Addendum to Br. of Pet'rs United States Telephone Ass'n et al. at 9. Many of those agreements were between neighboring noncompeting ILECs for the exchange of features and functions.
+There is no indication that Congress intended the state commissions to go back through years of agreements and approve or disapprove them. We conclude that Congress knew it was already giving the state commissions a huge amount of new work to do in arbitrating and approving the new agreements that would quickly be coming into being by virtue of the substantive provisions of the Act, and that it did not intend to add an even heavier burden by forcing the state commissions to replow old ground.
+The FCC's construction of the statute is unreasonable.
+¶94
+We further find it difficult to square the FCC's interpretation with the recognized presumption against retroactive legislation. By construing the word "negotiated" in the third sentence to mean "negotiated and entered into," the FCC's rule reaches back and requires something that the parties to the pre-existing agreement had no reason to expect--required state commission approval under new and different standards which affect the rights the parties had at the time they entered into their agreement.
+See Landgraf v. USI Film Prods., 511 U.S. 244, 280 (1994). Here again Congress's choice not to use the words "entered into" in the third sentence tells us that Congress did not intend the retroactive effect the FCC has given to the Act. Absent clear Congressional intent for retroactive effect, there should be none. See id.
+By making the Act applicable to interconnection agreements that were only negotiated before the Act's effective date (but not yet entered into), Congress gave the parties the option of either proceeding to enter into the negotiated agreement with the knowledge it would have to be submitted to the state commission for approval, or not. In so doing, an unwanted retroactive effect can be avoided, the parties can proceed knowing what the law will be, and the effect of the Act is entirely prospective.
+¶95
+
+We hold that 252(a)(1) applies to any agreement which was either (1) both negotiated and entered into pursuant to 251 after the Act went into effect or (2) is an interconnection agreement that was negotiated before, but not yet entered into when, the Act went into effect.
+
+¶96
+
+Consequently, we vacate rule 51.303.
+
+III. Conclusion
+
+¶97
+We grant the pending petitions for review in part. For the reasons stated, we vacate, in total, 47 C.F.R. 51.505(b)(1), 51.609, 51.513, 51.611, 51.707, 51.317, 51.405(a),(c), and (d), and 51.303. We remain firm in our previous decision to vacate 47 C.F.R. 51.305(a)(4) and 51.311(c) (the superior quality rules) and 47 C.F.R. 51.315(c)-(f) (the additional combinations rule). In all other respects, we deny the petitions for review.
+
+Notes:
+
+1
+In re Implementation of the Local Competition Provisions in the Telecommunications Act of 1996, 11 FCC Rcd 15499 (1996) (First Report and Order).
+
+2
+
+The FCC's rules are codified in scattered sections of Title 47, Code of Federal Regulations. All references in this opinion to the Code of Federal Regulations are to the 1997 version.
+
+3
+
+Telecommunications Act of 1996, Pub. L. No. 104-104, 110 Stat. 56 (codified as amended in scattered sections of Title 47, United States Code).
+4
+
+All references in this opinion to sections and subsections of the Telecommunications Act of 1996 in the United States Code are to the 1997 supplement unless otherwise indicated.
+
+5
+Accounting profit equals the difference between total revenue and explicit costs. Explicit costs are those costs incurred when a monetary payment is made. Accounting profit is typically higher than economic profit because accounting profit only subtracts explicit costs rather than the total opportunity costs. See ROGER A. ARNOLD, ECONOMICS 484-85 (2d ed. 1992).
+
+6
+Economic profit equals the difference between total revenue and total opportunity cost, including both explicit and implicit costs. Implicit costs represent the value of resources used for which no monetary payment is made. See id. Economic profit is also referred to as supranormal profit. See First Report and Order 699.
+
+7
+Normal profit is achieved when a company earns revenue that is equal to its total opportunity costs. This is the level of profit needed for a company to cover all of its opportunity costs. Normal profit is the same as zero economic profit. See ARNOLD, supra note 5, at 485.
+
+8
+We note, with no small amount of interest, that the Supreme Court has granted certiorari to review the Fifth Circuit's decision in Texas Office of Pub. Util. Counsel v. FCC, 183 F.3d 393 (5th Cir. 1999), where the Fifth Circuit noted that the use of a forward-looking cost model to determine universal service subsidies did not result in an unconstitutional taking. GTE Service Corp. v. FCC, 68 U.S.L.W. 3496 (U.S. June 5, 2000).
+
+9
+We note that the term "interconnection" has been defined by the FCC as "the physical linking of two networks for the mutual exchange of traffic." First Report and Order 26.
+

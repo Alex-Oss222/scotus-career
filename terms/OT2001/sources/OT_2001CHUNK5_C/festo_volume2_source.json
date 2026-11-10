@@ -1,0 +1,14 @@
+[
+  {
+    "file": "festo_joint_appendix_volume2.txt",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2019.%20Unknown%20title_djvu.txt",
+    "bytes": 328589,
+    "sha256": "9cc92d3cb3f54abc0f91abd509d4420f52dbbb0ffca6e439fb08762752d063a7"
+  },
+  {
+    "file": "festo_joint_appendix_volume2.pdf",
+    "url": "https://archive.org/download/micro_IA40385014_0460/micro_IA40385014_0460%2019.%20Unknown%20title.pdf",
+    "bytes": 42011933,
+    "sha256": "21f5f2803c2fb64e43b98950739446137702990edcdb335ce42c7fe3d784091c"
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "query": "collection:us-supreme-court AND (\"01-46\" OR title:(Federal Maritime Commission))",
+  "response": {
+    "numFound": 28,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385006_2275",
+        "title": "West Gulf Maritime Ass'n v. Federal Maritime Commission, 449 U.S. 822 (1980) (No. 79-1646)"
+      },
+      {
+        "identifier": "micro_IA40385601_1048",
+        "title": "Gulf/Mediterranean Ports Conference v. Federal Maritime Commission, 375 U.S. 813 (1963) (No. 125)"
+      },
+      {
+        "identifier": "micro_IA40385607_1494",
+        "title": "Maritime Communications Service v. Federal Communications Commission, 415 U.S. 957 (1974) (No. 73-930)"
+      },
+      {
+        "identifier": "micro_IA40385009_0430",
+        "title": "Puerto Rico Maritime Shipping Authority v. Federal Maritime Commission, 459 U.S. 906 (1982) (No. 82-0087)"
+      },
+      {
+        "identifier": "micro_IA40385007_1242",
+        "title": "Sea-Land Service, Inc. v. Federal Maritime Commission, 451 U.S. 984 (1981) (No. 80-1281)"
+      },
+      {
+        "identifier": "micro_IA40385603_0034",
+        "title": "DeSmedt v. Federal Maritime Commission, 385 U.S. 974 (1966) (No. 694)"
+      },
+      {
+        "identifier": "micro_IA40386412_0137",
+        "title": "Volkswagenwerk Aktiengesellschaft v. Federal Maritime Commission, 390 U.S. 261 (1968) (No. 69)"
+      },
+      {
+        "identifier": "micro_IA40385601_1027",
+        "title": "States Marine Lines, Inc. v. Federal Maritime Commission, 374 U.S. 831 (1963) (No. 1082)"
+      },
+      {
+        "identifier": "micro_IA40385601_1046",
+        "title": "Gulf/Mediterranean Ports Conference v. Federal Maritime Commission, 375 U.S. 813 (1963) (Nos. 103,166)"
+      },
+      {
+        "identifier": "micro_IA40385605_1512",
+        "title": "Pacific Westbound Conference v. Federal Maritime Commission, 404 U.S. 881 (1971) (No. 71-130)"
+      },
+      {
+        "identifier": "micro_IA40385602_0275",
+        "title": "Far East Conference v. Federal Maritime Commission, 379 U.S. 991 (1965) (Nos. 699, 700, 703)"
+      },
+      {
+        "identifier": "micro_IA40385606_1246",
+        "title": "Latin America/Pacific Coast Steamship Conference v. Federal Maritime Commission, 409 U.S. 967 (1972) (No. 72-213)"
+      },
+      {
+        "identifier": "micro_IA40385003_2339",
+        "title": "Baton Rouge Marine Contractors, Inc. v. Federal Maritime Commission, 429 U.S. 868 (1976) (No. 75-1622)"
+      },
+      {
+        "identifier": "micro_IA40385602_0273",
+        "title": "Far East Conference v. Federal Maritime Commission, 379 U.S. 991 (1965) (No. 588)"
+      },
+      {
+        "identifier": "micro_IA40385602_0274",
+        "title": "Far East Conference v. Federal Maritime Commission, 379 U.S. 991 (1965) (No. 690)"
+      },
+      {
+        "identifier": "micro_IA40385002_0393",
+        "title": "International Longshoremen's Ass'n v. Federal Maritime Commission, 488 U.S. 1041 (1989) (No. 88-756)"
+      },
+      {
+        "identifier": "micro_IA40385602_0277",
+        "title": "Far East Conference v. Federal Maritime Commission, 379 U.S. 991 (1965) (No. 703)"
+      },
+      {
+        "identifier": "micro_IA40385007_2379",
+        "title": "West Gulf Maritime Ass'n v. Federal Maritime Commission, 454 U.S. 893 (1981) (No. 80-2213)"
+      },
+      {
+        "identifier": "micro_IA40385605_0505",
+        "title": "Port of New York Authority v. Federal Maritime Commission, 401 U.S. 909 (1971) (No. 912)"
+      },
+      {
+        "identifier": "micro_IA40385601_1045",
+        "title": "Gulf/Mediterranean Ports Conference v. Federal Maritime Commission, 375 U.S. 813 (1963) (No. 63)"
+      },
+      {
+        "identifier": "micro_IA40385009_0524",
+        "title": "Peltzman v. Federal Maritime Commission, 459 U.S. 976 (1982) (No. 82-0181)"
+      },
+      {
+        "identifier": "micro_IA40385007_1303",
+        "title": "Trans-Pacific Pacific Freight Freight Conference Conference of Japan/Korea v. Federal Federal Maritime Maritime Commission Commission (Nos. 80-1346, 80-1281)"
+      },
+      {
+        "identifier": "micro_IA40385601_1047",
+        "title": "Gulf/Mediterranean Ports Conference v. Federal Maritime Commission, 375 U.S. 813 (1963) (No. 124)"
+      },
+      {
+        "identifier": "micro_IA40385004_1696",
+        "title": "Federal Maritime Commission v. Pacific Maritime Ass'n, 435 U.S. 40 (1978) (No. 76-938)"
+      },
+      {
+        "identifier": "micro_IA40385602_0276",
+        "title": "Far East Conference v. Federal Maritime Commission, 379 U.S. 991 (1965) (No. 700)"
+      },
+      {
+        "identifier": "micro_IA40385601_1044",
+        "title": "Gulf/Mediterranean Ports Conference v. Federal Maritime Commission, 375 U.S. 813 (1963) (No. 126)"
+      },
+      {
+        "identifier": "micro_IA40385014_0488",
+        "title": "Federal Maritime Comm'n v. South Carolina Ports Authority, 535 U.S. 743 (2002) (No. 01-46)"
+      },
+      {
+        "identifier": "micro_IA40385009_0085",
+        "title": "Council of North Atlantic Shipping Assns. v. Federal Maritime Commission, 459 U.S. 830 (1982) (No. 81-2196)"
+      }
+    ]
+  }
+}

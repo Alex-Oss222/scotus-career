@@ -1,0 +1,2495 @@
+Nov 20 2001 , y OCT 2B 2001 
+UNSCAN Ng: Op-1531 & 00-1711 os 
+IN THE CLERK 
+
+SUPREME COURT OF THE UNITHO'STATES- 
+
+
+VERIZON MARYLAND INC., 
+Petitioner, 
+
+
+Vv. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYLAND, 
+ET AL., 
+Respondents. 
+
+
+UNITED STATES OF AMERICA 
+Petitioner, 
+v. 
+PUBLIC SERVICE COMMISSION OF MARYLAND, 
+ET AL., 
+Respondents 
+
+
+On Writs of Certiorari to the United States Court of 
+Appeals for the Fourth Circuit 
+
+
+BRIEF FOR RESPONDENT 
+
+
+Susan Stevens Miller 
+
+General Counsel 
+
+Maryland Public Service Commission 
+
+6 Saint Paul Street 
+
+Baltimore, Maryland 21202 
+
+(410) 767-8039 October 26, 2001 
+
+
+BEST AVAILABLE COPY} 
+
+
+QUESTION PRESENTED 
+
+
+Whether a federal district court has subject matter 
+jurisdiction under 28 U.S.C. §1331 to review State 
+commission actions taken pursuant to the 
+Telecommunications Act of 1996, Pub. L. No. 104- 
+104, 110 Stat. 56, codified at 47 U.S.C. §§151 et seg. 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PREEGEINT EDD ..ccccssccessstttovsstesininnnmaaaannal i 
+TABLE OF AUTIRORRIT IIIB ncccccscsssusssnscoveniainssennianana ili 
+STATEMENT OF THIE CASE ..2:1ccccccccssscccssoscoscssoensonsesesonens 2 
+A. The Telecommunications Act of 1996............c.000008 3 
+B. Proceedings Before the Maryland Commission........ 5 
+C. The District Court Decision ..............ccccscscseeseeseeeeeees 7 
+D. The Fourth Circuit Decision............cc.csssesssssseseseseeees 8 
+SUMMARY OF ARGUMENT ...........:cccssesessescessessessseeseseees 9 
+ARISUBEEINGY ......00:cccsccoscsseescenseeniecnennssuiauaniiaiannaannnene 11 
+I. The 1996 Act Does Not Create a Private Cause of 
+AEB .00.00:ccsesscscesentseteicetesasn ll 
+II. The Eleventh Amendment Mandates that this 
+Case be Diamaianell,.....cc:«scssisnisnecmmmmiaaanl 26 
+A. The Maryland Commission Has Not Waived 
+Its Sovereign Immunity. .................cccsceeeeeeseeseees 26 
+1) Congress Lacks the Constitutional 
+Authority to Condition Grants Under the 
+Commas CRIBB, ccssccssssissniaiesnieaiaeaiial 28 
+2) The 1996 Act is Neither a Gratuity Nor a 
+Gift to the States from Congress. .................. 30 
+B. This Proceeding Does Not Meet the 
+Requirements of the Ex parte Young 
+ERISSIIEGI, .ccceccssecssscesatensesmnatinibiaiaiaaanial 36 
+III. This Court Should Uphold the Fourth Circuit's 
+Application «f the Rooker-Feldman Doctrine......... 42 
+COSC AIG ccccssccscscsnssscesstunstintmimae 47 
+li 
+
+
+TABLE OF AUTHORITIES 
+Pages 
+
+Cases 
+Abril v. Virginia, 
+
+a 30 
+Atascadero State Hospital v. Scanlan, 
+
+TE 3,31 
+American Well Works Co. v. Lane & Bowler Co., 
+
+i 12 
+AT&T Corp., v. lowa Util. Bd., 
+
+a 18 
+Bell Atlantic Maryland, inc. v. Maryland Public 
+
+Service Commission, Civil Action No. 178260, 
+
+Docket Entry #26 (March 26, 1998) ............ccceeseereeseenees 5 
+Blatchford v. Noatak, | 
+
+ea 10,27,31 
+Bowen v. Michigan Academy of Family Physicians, 
+
+i ccrrrsneeneenneensennensnenenecenscenessaeneene 24 
+Burgio and Campofelice, Inc. v. NYS Dept. of Labor, 
+
+107 F.3d 1000, (2d. Cir. 1997) ............cccccccccceeeeesereeeennees 19 _ 
+California v. Sierra Club, 
+
+ns cseintaneenenenenennnenasnenseneanenacsnesets 16,17 
+
+
+. Pages 
+
+Cannon University of Chicago 
+
+SRS Was Gee Gee centenmnenmneemmnen 13 
+Citizen's Utility Ratepayers Board v. McKee, 
+
+946 F. Supp. 89 (D. Kann. 1996) 20.0........ccccccescesseeseeeeeees 16 
+City of Chicago v. International Coliege of Surgeons, 
+
+Ee 46 
+College Savings Bank v. Fla. Prepaid Postsecondary, 
+
+Expense Board, 527 U.S. 666 
+
+aneneusismunsuntesemegeeinmesumensemanennetangmesntnmnsusesnmmunnenents 10,31,35 
+Cort v. Ash, 
+
+ee passim 
+Crowell v. Benson, 
+
+ee is IED crmnisenmnncemeenen vuneentl 45 
+Dellmuth v. Muth, 
+
+GS We SD crmnnemnenioen 27 
+District of Columbia Court of Appeals v. Feldman, 
+
+Tg 42 
+Ex parte Young 
+
+ee passim 
+FERC v. Mississippi, 
+
+Ga > 0A ED entgree 35,45 
+Fla. Dept. of Health v. Fla. Nursing Home Assoc., 
+
+en 28 
+
+
+iv 
+
+
+| 
+
+
+GTE Northwest v. Nelson, 
+969 F. Supp. 654 (WD Wash. 1997) ............ccessesees 19,20 
+
+
+Hans v. Louisiana,, 
+ae 26 
+
+
+Healy v. Seagull Specialty Co., 
+ee Cs See Gene ree 10 
+
+
+Indiana Bell v. McCarty, 
+30 F. Supp. 2d 1100 (SD Ind. 1998) ............cccccssssesssss0 20 
+
+
+Illinois Bell v. WorldCom, 
+Ce hg 5 35 
+
+
+International Association of Machinists, 
+AFL-CIO v. Central Airlines, Inc., 372 U.S. 
+
+
+eee 24 
+Jackson Transit Auth. v. Local Div. 1285 
+Amalgamated Transit Union, 457 U.S. 15 (1982) .....20,21 
+Joseph A. v. Ingram, 
+262 F. 3d 113 (10™ Cir. 2001) .......ccccccccecesseseesvesesseeeeeesees 38 
+Larson v. Domestic & Foreign Comm. Corp. 
+gg 8 41 
+Louisiana Landmarks Soc. Inc. v. City of 
+New Orleans, 85, F.3d 1119 (5™ Cir. 1996) ..........-.--0-+++- 12 
+Marie O. v. Edgar, 
+TPR leks Se 26 
+Vv 
+
+
+McNary v. Haitian Refugee Center, Inc. 
+
+
+ee I inninsiinscictnntnntistonsitinicnionniniminimumsies 24 
+McDonnell v. Cisneros, , 
+
+gE ee 41 
+Michigan Bell v. MFS Intelenet, 
+
+16 F. Supp. 2d 710 (WD Mich. 1998)................:ccecce0es 20 
+
+Montana-Dakota Utilities Co. v. Northwestern Public 
+
+Service Co., 341 U.S. 246 (1951).........cccccccccsseceeeeereeeeees 17 
+Nat'l RR Passenger Corp. v. Nat'l Assoc. of 
+
+RR Passengers, 414 U.S. 453 (1978) ...........cccccccseeeeeeeeee 15 
+Northwest Airlines, Inc. v. Transport Workers Union, 
+
+SS Ce Oe ee cccerersiienninintintaiitensnnninnieimeinicanani 13,15 
+Ohio Civil Rights Comm'n v. Dayton Christian 
+
+Seteaata, S77 UD. GID (IGBS) cccccccccccccccccsscscccccsssscscscccccess 46 
+Oliver v. Trunkline Gas Co., 
+
+gg ee 21 
+Parden v. Terminal Ry. Co., 
+
+Br Cs ee ncisisiasresnsnnnctnsensennememmienniniiaiuenienieel 26 
+Pennhurst v. Halderman, 
+
+ITE cirnieniernecnnctinenereninienetentnntiennn 15,26 
+Pennhurst State Sch. & Hosp. v. Halderman, 
+
+Sa > Ces ccccncinniansenscenierensnimenrenincscssemsemensnoneses 31 
+Prentis v. Atlantic Coast Line Co., 
+
+221 U.S. 210 (1968) .................. posmeanaumsineusensl 44,45,46 
+
+
+Pages 
+
+Printz v. United States, 
+
+Se Gs Br ee cerca 45,46 
+Puerto Rico Aqueduct and Sewer Authority v. 
+
+Metcalf & Eddy, Inc., 506 U.S. 139 (1993).......c0c0e0e00s 26 
+Puerto Rico Telephone Company v. Telecommunications 
+
+Regulatory Board, 189 F. 3d 1 (1* Cir. 1999) .......... 15,26 
+Scripps-Howard Radio, Inc. v. Federal Communications 
+
+Comm'n, 316 U.S. 4 (1942) ........ccccccccececeeeeeeeeeeesereneeeeeees 18 
+Seminole Tribe v. Florida, 
+
+ee passim 
+Shaw v. Delta Airlines, Inc., 
+
+ee 25 
+Smith v. Kansas City Title & Trust Co., 
+
+de Ce ED ccccsnerennenssnsecssnsrnsssemenessssscsnecnepsaneess 12 
+Smith v. Kirk, 
+
+og 13 
+Stark v. Wickard, 
+
+8 GB, Fae CO cccencennsccssensnsnssssssemssssemseme 24 
+Steel Co. v. Citizens for a Better Environment, 
+
+SED GG., Sap Cee ccnrccsnencenesneasmssnssnsnssssrnsmcenman 24 
+Rooker v. Fidelity Trust Co., 
+
+Ue passim 
+
+vii 
+
+
+Pages 
+
+T.L.M.E., Inc. v. United States, 
+
+ee ee ccrcicceinidcienssineniimiubtinenasnasiteial - 17 
+Testa v. Katt, 
+
+es SP cntrnsceinnitiennccontenabiatiabennnibesessueuenestiaied 45 
+Touche Ross & Co. v. Redington, 
+
+a iiciiciniiintiindiirsinnsiniceiecsinmansmiteniines 12,16,17 
+Turn v. CPUC, 
+
+26 F. Supp. 2nd 1208 (N.D. Cal. 1988)...........cccccceceeeee 19 
+
+
+Western Air Lines, Inc. v. Port Authority of New York 
+and New Jersey, 817 F.2d 222 (2™ Cir. 1987) cert. denied 
+
+
+GD Sie CE IED cccesemsenssserencesnnsnamctenemsanesnmsentenessens 19 
+Verlinden B.V. v. Central Bank of Nigeria, 
+
+Ge re Sa ccsnccnnnnnnnsssscsnsenentessententesseemnectennsies 11 
+Administrative Decisions 
+In the Matter of the MFS Intelenet of Maryland, Inc. 
+
+Sp es Be Ci nnnrnnnersstansensnsssnesssemesnsrsmamanenmees 32 
+
+
+In the Matter of the MFS Intelenet of Maryland, Phase II 
+86 MD PSC 467 (1995)........ccccssssessesesersesseeseeseeeseeseesers 33 
+
+
+Implementation of the Local Competition Provisions of the 
+Telecommunications Act of 1996, Declaratory Ruling, CC 
+Docket 96-96 14 F.C.C.R. 3698 
+
+
+Public Utilities Code 
+
+IDB ncecessocsncessnsssssnsesnensnsssssonsssansessnssscesssssocsssencssaseansestsnes 45 
+PoE nconcscesenassnnnsssssnsvannsssssnenscesenssnscescsscasssnssssesssessninesesense 45 
+SPE O ncecensncsnsesnsescsssececnssenssnssssssnansonsssnsesnssesssscasssnnsescesseese 45 
+> GTEP concssnssscascenssnessssssessscenensnsenssnsnssncnsassussssseassessnneenessnnss 45 
+EB carecececnsncesscsscsesssnamassanssssossossessnsnssnnsssscsasoqnsscnensesasseens 45 
+BB BD ccecnsnsesncsscssennssecencosecssnessenssnssnesnssonscsusensscsssecssscsesesees 45 
+BBE 8 cxconccnsnencsnnssnnsssnssscsencsssnscnsnnssensssnsennsanssnsenessosassasesetees 45 
+BRE cencenscnscsnsseccssesscensssssnessscessssscossssassecsscssssanseanssceseetas 45 
+United States Code 
+
+BB UB. GEBGF ccccccsccccsccssscscccescssscsssscecsssscssssssssesssssooss 43,44 
+BB ULB. GETBE cccccccccscccsccsccscsssccsscsssessssssssnesssssscoseeses passim 
+BB UBC. GABBB ccccccsccccsccsccssccssscsessssssenssessscsssssssssssnsssceseses 43 
+41 UBC. GIGI ccccccccsccscscsccsccccccccsccsssesscssssssscssssssssossoess 21 
+GF BIC. GIB cccccsscccscecsssscscsssssccssecssssssssssnssasnsnssssessssnaseess 16 
+Cp ee passim 
+BO UB. CRB AD ccccccccsscccccsssscsscsssccsccscsssssesscsscsssssssssssnscasees 4 
+GP UBC. CBS WI ccccccccccccssccsssseccssccssssssvscsscssccsscsssosssossens 4,22 
+G7 UBC. S2S1GNS) ncccoccccceccecssccccccsccsccssscsscssscsscongsososcsossses 4 
+BT UBC. BBS 166) cccccccccccccscseccsesecesescsssccssscssssssscsscsonsoesees 4,22 
+
+
+FF lars i rcicenensicestcsscnenenidanintinanainiinumaaiaes a 
+SF eae SP iterieccsiniencscaccsnninpsiniintniiceneneaicaniiieaiaiadn 20 
+Fe ae SPO cncescnecientsnnsencininannnnacitinestibensdnsiaigiaddil 20 
+FF Cadre Ge i rcrnsiccrcccnetcnisecinnieinsciesnesinintenaasidennatianen 38 
+FF ie SD tecserentccrsnmrssasnntiniinnintscnnntinnttingnainiil 20 
+Oe Silas GD eorerresecinnsonseemnnsanintimenmmenenienpemnnanietil 20 
+47 U.S.C. §252 . siniinennciabineiidiiasileatssisaemacstiatatasilbisiaatiniaiaii passim 
+FF iss re Perenseccecacsencesscementeiaieneeniuesiciinaiaiue 22 
+Fe re Se erccscncccepnsenansinencnnsnencsceneneitinninessi passim 
+SF Fas IED cccncmnesncssencsememmantemmntineenainaets 40 
+FF ee Bt ccenntensiccnccinecinisneivenstsnesininnisesnnnmnisi 22,38 
+Be ite Gee eb scsnenscccnccsnssninsssmemesmseemenmessnmniansncie .38 
+SF Care SD crcrenennnccnsnrstcasennctasenianinatinsseteineiie 4 
+FF liao Sp creveccncnecscsseniassenncenncenenatemeamnninatets 22 
+BF Cie GD ccccserencsncsecsemenmapemmmannemennstii 4,38 
+BF ae SD ccrectemantncssennnnnimmmenmaninednins 38 
+oh eee 5 
+Se Fe Fre cetetecenerstsinncemenemnenansinninnmineei 22 
+
+
+Pages 
+
+
+SS a tical iain 33,34,38 
+EIS ec en passim 
+Rn 22 
+a RTT iiiesishiindanhbeetiahichbaedanacanteleinibamations 40 
+ae ee TT caccnsiertiiesiennilattaseiithciiiaretatanaamaaa 22 
+Fi ne TIT E iscitvessestcecicnienminnttiiatesdiatetbeiemiacansiabiaiantiiitaes 15 
+a aac decsinteccaiiesiancahieeenaaiiaieiataratiseaaa 20 
+a ee I iceencorscencceninsenscsteeneninisiniaininsesiapntemaanpetiniis 20 
+ar CT Si hiatiernstntnsenennsintinticinininsainaninuteninmstaiannamins 19,20 
+SFO a eaeneias SETUTTTTIsiiicespieieiieienpeeeitiaiehinaiiianis 20 
+BF Seay Se ietensceresiatitindtciaecibiceiiteibateiiiainiatineadinpisiiniaa 16 
+o_O E 25 
+Annotated Code of Maryland 
+
+Maryland Chp. Laws 
+
+EET ae 18 
+Public Utility Companies Article 
+
+ge ___ EES an Oe ne 18 
+Sa UaIEITNiepihiesidticenstiianetenetenteciumiiaiiinedannncaranseeancsnendteesisesiiies 2,18 
+ee 2,18 
+
+
+Pages 
+
+U.S. Constitution 
+CIB. GORIS, ANNIE FE cccccccsccccncesessccsssessesensssonsesosonsens passim 
+Fe. SG . en 28,29 
+Other Materials 
+GF Ge COD ccceensccsccscccssenscecesssnneenmnmnemnnenmnamaeen 35 
+H.R. Rep. No. 204, 104 Congr., 2™ Sess. 4748 
+
+ED Fi cccvceecesensssesnscensennienovncnnsssensemancsnenimensmasaanees 14 
+Common Carrier Competition Report, 
+
+CC Report No. 96-9, FCC, Common 
+
+Carrier Bureau (Spring 1996)..............ccsssssssessseeesereeeeeeees 3 
+H.R. Conf. Rep. No. 104-458 (1996), 7 
+
+Reprinted in 1996 U.S.C.C.A.N. 124 .......ccccccsscesseeseeenees 34 
+Federal Rule of Civil Procedure 19(b) ...............ccccccccceeeeeees 7 
+S. Rep. 104-23, 104" Cong., 1* Sess. 
+
+Fe cinecceienerencencnsennsnnsesiiistiiecennsnistnasansnmpemanenemecstenneenets 16 
+
+
+Telecommunications Act of 1996, Pub. L. No. 104-104 
+Purpose statement, 110 Sta. 56 (1996) .............sceseeeees 3,14 
+
+
+Mann-Elkins Act (Chp. 301 §7, 36 Stat. 
+FE CIID cccsescstensssesseneipensesssmnscmnnnstenssssseennnananenenanee 18 
+
+
+No. 00-1531 & 00-1711 
+
+
+IN THE 
+
+
+SUPREME COURT OF THE UNITED STATES 
+
+
+VERIZON MARYLAND INC., 
+Petitioner, 
+v. 
+
+
+PUBLIC SERVICE COMMISSION OF MARYLAND, 
+ET AL.., 
+Respondents. 
+
+
+UNITED STATES OF AMERICA, 
+Petitioner, 
+
+
+On Writs of Certiorari to the 
+United States Court of Appeals for the 
+Fourth Circuit 
+
+
+BRIEF FOR RESPONDENT 
+
+
+STATEMENT OF THE CASE 
+
+
+This case involves federa! court review of an order 
+entered by the Public Service Commission of Maryland 
+("Maryland Commission" or "MDPSC"). The Maryland 
+Commission is an agency of the State of Maryland and it 
+supervises and regulates telecommunications carriers in 
+Maryland. As part of its responsibilities, the Maryland 
+Commission administers and enforces the Public Utility 
+Companies Article ("PUC Article") of the Maryland Code. 
+Final orders or decisions of the Maryland Commission are 
+subject to judicial review in Maryland circuit courts, PUC 
+Article, §3-204. Parties are entitled to further review by the 
+Maryland Court of Special Appeals. Jd. at §3-209. 
+
+
+This case began at the Maryland Commission when 
+Verizon Maryland, Inc. ("Verizon") filed a request for 
+declaratory ruling asking that the Maryland Commission find 
+that Verizon was not obligated under §251 of the 
+Telecommunications Act of 1996 ("1996 Act") to pay 
+reciprocal compensation for calls delivered to Internet 
+Service Providers ("ISPs") who are served by competitive 
+local exchange carriers ("CLECs"). The Maryland 
+Commission issued a declaratory ruling finding that Verizon 
+must continue to pay reciprocal compensation and Verizon 
+sought review of this order pursuant to §252(e)(6) of the 
+1996 Act, 47 U.S.C. §251 et. seq. and 28 U.S.C. §1331. 
+
+
+The District Court of Maryland dismissed Verizon's 
+complaint, finding that both the Maryland Commission and 
+the individual commissioners were immune from suit under 
+the Eleventh Amendment (Pet. App. 77a-84a);' and also 
+
+
+' "Pet. App.” refers to the Appendix to Verizon Maryland, Inc.'s Petition 
+No. 00-1531. 
+
+
+finding that the Eleventh Amendment would bar suit brought 
+pursuant to 28 U.S.C. §1331 (Pet. App. 90a). On appeal, the 
+United States Court of Appeals for the Fourth Circuit held 
+that the Maryland Commission did not waive its Eleventh 
+Amendment immunity when it implemented the 1996 Act. 
+(/d. at 14a - 21a). The Fourth Circuit further found that the 
+Ex parte Young’ doctrine did not permit an action against the 
+individual commissioners in their official capacity. (Jd. at 
+21a - 30). The Court also found that a State commission's 
+action interpreting or enforcing an _ interconnection 
+agreement under the 1996 Act was not a "determination" 
+under 47 U.S.C. §252(e)(6). (/d. at 30a - 47a). Finally, with 
+regard to the issue presented in this case, the Fourth Circuit 
+held that 28 U.S.C. §1331 does not provide a federal district 
+court with independent subject matter jurisdiction to review 
+a decision rendered by a State commission pursuant to the 
+1996 Act. (Jd. at 50a). 
+
+
+A. THE TELECOMMUNICATIONS ACT OF 1996 
+Congress enacted the 1996 Act, Pub. L. No. 104-104, 
+
+
+110 Stat. 56 (codified at 47 U.S.C. §251 et seq.), to open the 
+local telecommunications markets to competition” The 
+
+
+? Ex parte Young, 209 U.S. 123 (1908). 
+
+> At the time the 1996 Act was passed, 19 states had in place rules 
+opening the local exchange market to competition. In seven states, 
+competing firms already had begun to offer switched local service. 
+These states were California, Illinois, Maryland, Massachusetts, 
+Michigan, New York and Washington. Competition rules were in place 
+in Arizona, Colorado, Connecticut, Florida, Georgia, Iowa, Louisiana, 
+North Carolina, Ohio, Oregon, Tennessee and Virginia. See, Common 
+Carrier Competition Report, CC Report No. 96-9, FCC, Common 
+Carrier Bureau (Spring 1996) at page 3. 
+
+
+3 
+
+
+1996 Act* imposes a general duty on all telecommunications 
+carriers to interconnect with other telecommunications 
+carriers. 47 U.S.C. §251(a). With regard to incumbent local 
+exchange carriers ("ILECs") such as Verizon, the duty to 
+interconnect is even more specifically defined by §251(c)€2). 
+In conjunction with these interconnection obligations, the 
+1996 Act requires all local exchange carriers to establish 
+reciprocal compensation arrangements for the transport and 
+termination of telecommunications. 47 U.S.C. §251(b)(5). 
+For purposes of compliance with this subsection, the 1996 
+Act provides that such terms and conditions must provide for 
+the recovery by each carrier of costs associated with the 
+transport and termination on each carrier's network facilities 
+of calls that originate on the network facilities of the other 
+carriers. Further, such terms and conditions must determine 
+costs on the basis of a reasonable approximation of the 
+additional costs of terminating such calls. 47 U.S.C. 
+§252(d)(2)(A). However, ILECs may negotiate and enter in 
+a binding agreement with a requesting carrier without regard 
+to the standards set forth in subsections (b) and (c) of §251. 
+
+
+The procedures for negotiations between Competitive 
+Local Exchange Carriers ("CLECs") and ILECs are 
+governed by §252 of the 1996 Act. If negotiating companies 
+cannot reach agreement, §252 provides that the parties may 
+request that the appropriate State commission arbitrate 
+unresolved issues. Each interconnection agreement must be 
+submitted to the State commission for approval, regardless of 
+whether the agreement was negotiated by the parties or 
+arbitrated by the State commission. 47 U.S.C. §252(e)(1). 
+However, the State commission may only reject a negotiated 
+agreement if it finds that the agreement discriminates against 
+a telecommunications carrier, or the implementation of such 
+
+
+* See, 47 U.S.C. §§251-261. The 1996 Act is codified throughout Title 
+47 of the United States Code. References to the 1996 Act are to the 
+relevant sections of the Code. 
+
+
+4 
+
+
+an agreement is not consistent with the public interest. 47 
+U.S.C. §252(e)(2)(A). 
+
+
+B. PROCEEDINGS BEFORE THE MARYLAND 
+COMMISSION 
+
+
+Pursuant to the 1996 Act, MFS Intelenet of 
+Maryland, Inc. ("MFS") and Verizon entered into an 
+interconnection agreement on July 16, 1996. The Maryland 
+Commission approved this agreement on October 9, 1996. 
+On April 28, 1997, Verizon informed MFS that it would 
+discontinue payment of reciprocal compensation for calls to 
+ISPs, claiming that the Agreement's reciprocal compensation 
+provisions did not apply to calls to ISPs. On May 21, 1997, 
+MFS filed a complaint with the Maryland Commission 
+alleging that the actions of Verizon violated the 1996 Act 
+and the MFS Agreement. On September 11, 1997, the 
+Maryland Commission found that Verizon must pay 
+reciprocal compensation to MFS for calls to ISPs under the 
+terms of the Agreement. The Maryland Commission's 
+decision was upheld by the Circuit Court for Montgomery 
+County, Maryland.° 
+
+
+The Maryland Commission considered this issue a 
+second time within the context of a Sprint Communications 
+Company, L.P. ("Sprint") arbitration complaint. Sprint filed 
+a Motion for Resolution of Disputed Issue, seeking a 
+Commission ruling on how ISP-bound calls should be 
+treated. The Maryland Commission concluded that ISP- 
+bound calls “are classified as local in nature and are 
+therefore, subject to reciprocal compensation" from Verizon. 
+
+
+On February 26, 1999, the Federal Communications 
+Commission ("FCC") released an Order addressing the 
+
+
+* Bell Atlantic Maryland, Inc. v. Maryland Public Service Commission, 
+Civil Action No. 178260, Docket Entry #26, March 26, 1998. 
+
+
+5 
+
+
+jurisdictional status of calls to ISPs.° The FCC concluded 
+that "ISP-bound traffic is jurisdictionally mixed and appears 
+to be largely interstate." However, the FCC further 
+concluded that given the absence of a "federal rule regarding 
+the appropriate inter-carrier compensation mechanism for 
+this traffic, that parties should be bound by their existing 
+interconnection agreements, as interpreted by State 
+commissions." The JSP Order held that a carrier's right to 
+reciprocal compensation for calls to ISPs was governed by 
+the terms of the parties interconnection agreement. (Pet. 
+App. 96a-97a). The FCC further held that there is "no reason 
+to interfere with state commission findings” regarding ISP 
+compensation JSP Order 421. The FCC described several 
+factors that State commissions might consider in determining 
+whether parties had agreed to pay reciprocal compensation 
+for calls to ISPs. One factor was that for years both the FCC 
+and ILECs traditionally treated calls to ISPs as local. $]23- 
+29. Pet. App. 97a-99a. In response to the JSP Order, 
+Verizon asked the Maryland Commission to reconsider the 
+previous decisions requiring reciprocal compensation for 
+calls to ISPs. 
+
+
+On June 11, 1999, the Maryland Commission 
+resolved the issue raised by Verizon. The Order has two 
+distinct parts. First, with regard to the negotiated agreement, 
+the Maryland Commission found that, under contract 
+principles and using the analysis sanctioned by the FCC, 
+parties to the agreement were entitled to reciprocal 
+compensation for ISP-bound calls until July 1, 1999. (Pet. 
+App. 103a-104a). Second, the Maryland Commission 
+determined that parties who do not have approved 
+interconnection agreements should receive the arbitrated 
+
+
+° Implementation of the Local Competition Provisions of the 
+Telecommunications Act of 1996, Declaratory Ruling, CC Docket 96-96, 
+14 F.C.C.R. 3689 (February 26, 1999). ("JSP Order") 
+
+” Id., at para. 1. See, also, para. 22. 
+
+
+6 
+
+
+ee 
+
+
+reciprocal compensation rates contained in the effective 
+Statement of Generally Available Terms ("SGAT") as an 
+interim compensation mechanism until the FCC establishes 
+an appropriate inter-carrier compensation mechanism for 
+ISP-bound traffic. (Pet. App. 106a-107a). 
+
+
+Cc. THE DISTRICT COURT DECISION 
+
+
+Verizon sought review of the Maryland 
+Commission's Order in the United States District Court for 
+the District of Maryland. First, Verizon objected to the 
+Maryland Commission's determination that Verizon should 
+continue to pay reciprocal compensation for ISP-bound calls 
+pursuant to the terms of the previously approved 
+interconnection agreement. Verizon also objected to the 
+Maryland Commission's determination that CLECs who do 
+not have approved interconnection agreements shall receive 
+the arbitrated reciprocal compensation rates contained in the 
+effective SGAT as an interim compensation mechanism. 
+
+
+On October 20, 1999, the District Court dismissed 
+Verizon's Complaint, holding that: (1) the Maryland 
+Commission and the individual commissioners were immune 
+from suit under the Eleventh Amendment® (Pet. App. 77a- 
+84a); (2) the Maryland Commission was an indispensable 
+party under Federal Rule of Civil Procedure 19(b) so that the 
+case could not proceed without the Commission (Pet. App. 
+84a- 86a); (3) alternatively, Verizon's challenge to that 
+portion of the Commission's Order relating to the SGAT was 
+not ripe for review (Pet. App. 86a-90a) and (4) the Eleventh 
+Amendment would bar suit brought pursuant to 28 USC 
+§1331. (Pet. App. 90a). 
+
+
+* Based on this holding, the District Court declined to address the 
+Maryland Commission's contention that the Court lacked jurisdiction to 
+
+~ tem dent ete ¢ 
+(Pet. App. 76a n.3) 
+
+
+7 
+
+
+D. THE FOURTH CIRCUIT DECISION 
+
+
+Verizon and the United States Government appealed the 
+District Court's decision. On February 14, 2001, the United 
+States Court of Appeals for the Fourth Circuit affirmed the 
+District Court's decision. The Fourth Circuit reached four 
+major conclusions. First, and foremost, the Court of 
+Appeals found that the federal proceeding brought pursuant 
+to §252(e)(6) of the 1996 Act against the Maryland 
+Commission is constitutionally barred. The Fourth Circuit 
+expressly found that Congress did not clearly manifest an 
+intent to condition a State commission's participation in the 
+regulation of interconnection agreements on a waiver of 
+sovereign immunity from private suit. (Pet. App. 19a). 
+
+
+Second, and equally important, the Fourth Circuit 
+also found that an action brought in federal court against the 
+individual commissioners was constitutionally barred. 
+Among other reasons, the Court of Appeals found that a 
+federal court action against the State commissioners would 
+improperly expand the federal remedy selected by 
+Congress. (Pet. App. 29a). 
+
+
+The third determination by the Fourth Circuit was 
+that §252(e)(6) does not confer jurisdiction on the federal 
+courts to review a State commission's enforcement 
+decisions. The Fourth Circuit found that because federal 
+courts are courts of limited jurisdiction, decisions by State 
+commissions that are not expressly designated for review in 
+federal court are left for review by State courts. (Pet. App. 
+35a). The Court of Appeals then held that State 
+commission orders administering and enforcing 
+interconnection agreements are not §252 determinations 
+(Pet. App. 47a). Thus, according to the Court, these orders 
+are reviewable only by State courts. (/d.) 
+
+
+Finally, with regard to federal question jurisdiction, 
+the Fourth Circuit held that 28 U.S.C. §1331 does not 
+provide federal jurisdiction because Congress intended 
+federal jurisdiction to be limited to the grant in 47 U.S.C. 
+§252(e)(6). The Court of Appeals found that it "would be 
+nonsensical to conclude that even though Congress 
+carefully articulated jurisdictional responsibility in the 1996 
+Act, it nonetheless intended to have 28 U.S.C. §1331 
+override this effort." (Pet. App. 48a). According to the 
+Fourth Circuit, "[t]he simple fact that interconnection 
+agreements are "creations of federal law" does not make 
+their interpretation a sufficiently substantial federal question 
+to confer jurisdiction under 28 U.S.C. §1331." (Pet. App. 
+49a) (citations omitted). 
+
+
+Judge King dissented, concluding that: (1) §252(e)(6) 
+expressly confers jurisdiction on the federal courts to review 
+the State's enforcement determinations; (/d. at 56a); (2) the 
+States waived their sovereign immunity by participating in 
+the regulation of interconnection agreements; and (3) the 
+individual Commissioners could be sued for prospective 
+injunctive relief. (/d. at 67a.) Judge King found it 
+unnecessary to reach the 28 U.S.C. §1331 jurisdictional 
+question. Id. at 58a n. 5. However, he asserted that the 
+Rooker-Feldman doctrine was inapplicable. (/d.) (citations 
+omitted). 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. Petitioners allege that the federal district courts have 
+jurisdiction under 28 U.S.C. §1331.° However, Verizon's 
+complaint does not meet the requirements necessary to 
+
+
+* Section 1331 provides in pertinent part, that "[tJhe district courts shall 
+have original jurisdictional of all civil actions arising under the . . . laws 
+... of the United States.” 
+
+
+9 
+
+
+establish jurisdiction under §1331.'° The district courts have 
+that jurisdiction which Congress grants through statute. 
+Because federal question jurisdiction ultimately depends on 
+an act of Congress, the scope of the district courts’ 
+jurisdiction depends on the Congressional intent manifested 
+in the statute at issue. 
+
+
+An analysis of the four factors established in Cort v. 
+Ash, 422 U.S. 66 (1975), can only result in the conclusion 
+that a private right of action may not be inferred from the 
+1996 Act. Neither the language of the 1996 Act nor its 
+legislative history indicates that Congress intended to create 
+a private cause of action. 
+
+
+2. Furthermore, §1331 jurisdiction may be preempted 
+by a doctrine which requires jurisdiction to reside elsewhere. 
+Congress has not abrogated the State commission's sovereign 
+immunity pursuant to §1331. The Supreme Court has 
+expressly held that §1331 does not suffice to abrogate 
+immunity for all federal questions. Blatchford v. Noatak, 
+501 U.S. 775, 786 (1991). In light of this statement, no 
+reasonable argument could be made that §1331 constitutes 
+an abrogation of state immunity. 
+
+
+3. Moreover, State commissions cannot be found to 
+have constructively waived their sovereign immunity by 
+implementing the provisions of the 1996 Act. The Supreme 
+Court repudiated the doctrine of~constructive waiver in 
+College Savings Bank v. Fla. Prepaid Postsecondary 
+Education Expense Board, 527 U.S. 666 (1999). The 
+
+
+'° The party seeking the federal forum must establish the basis for the 
+court's jurisdiction. In this instance, Petitioners have failed to allege that 
+federal law creates any cause of action. Jurisdiction may not be sustained 
+on a theory that the plaintiff does not advance. Healy v. SeaGuil 
+Specialty Co., 237 U.S. 479, 480 (1915). 
+
+
+10 
+
+
+Maryland Commission cannot be found to have waived its 
+sovereign immunity by implementing the requirements of the 
+1996 Act. Congress has not unequivocally provided that the 
+Maryland Commission waives its sovereign immunity when 
+implementing the 1996 Act. 
+
+
+4. Similarly, the Ex parte Young doctrine is inapplicable 
+to this situation. This Court should find that the 1996 Act is 
+a detailed remedial scheme. Thus, pursuant to the 
+restrictions placed on the Ex parte Young exception in 
+Seminole, the doctrine cannot be used to avoid the Eleventh 
+Amendment bar. Furthermore, the 1996 Act clearly 
+indicates that Congress contemplated that the State would be 
+the respondent. 
+
+
+5. Finally, this Court should apply the Rooker-Feldman 
+doctrine and find that the lower federal courts lack 
+jurisdiction over this suit. The Maryland Commission 
+performs a judicial act when implementing or enforcing the 
+1996 Act. Important concepts of federalism require that the 
+federal district court refrain from taking jurisdiction over this 
+case. 
+
+
+ARGUMENT 
+
+
+I. THE 1996 ACT DOES NOT CREATE A 
+PRIVATE CAUSE OF ACTION 
+
+
+The district courts have only that jurisdiction which 
+Congress grants through statute. Even though Congress has 
+conferred general federal question jurisdiction on the district 
+courts under 28 U.S.C. §1331 in terms similar to the 
+constitutional provision, the term "arising under" in the 
+statute is narrower than the similarly stated constitutional 
+power. Verlinden B.V. v. Central Bank of Nigeria, 461 U.S. 
+
+
+11 
+
+
+480, 495 (1983). Because federal question jurisdiction 
+ultimately depends on an act of Congress, the scope of the 
+district courts’ jurisdiction depends on the Congressional 
+intent manifested in the statute at issue. As this Court has 
+found, "the source of plaintiff's rights must be found, if at all, 
+in the substantive provisions of the . . . Act which they seek 
+to enforce, not in the jurisdictional provisions." Touche Ross 
+& Co. v. Redington, 442 U.S. 560, 577, (1979). 
+
+
+There are two tests under which an action may 
+present a federal question. The first asks whether federal law 
+creates the cause of action. If so, federal question 
+jurisdiction exits. American Well Works Co. v. Layne & 
+Bowler Co., 241 U.S. 257, 260 (1916). If state law creates 
+the cause of action, the second test asks whether that cause 
+of action poses a substantial federal question. Smith v. 
+Kansas City Title & Trust Co., 255 U.S. 180, 201 (1921)."" 
+
+
+Courts begin with the presumption that if a statute 
+does not expressly create a private cause of action, one does 
+not exist. See, Louisiana Landmarks Soc. Inc. v. City of 
+New Orleans, 85 F.3d 1119, 1123 (5™ Cir. 1996). By now, 
+Congress is well aware of this presumption and how to 
+provide private remedies. See, Touche, 442 U.S. at 572. 
+
+
+Appellants arguments rest on the faulty assumption 
+that the existence of a federal statute automatically gives rise 
+to §1331 jurisdiction.’ However, this Court has held that 
+
+
+'' Since Verizon raised no state law claims, this second test is 
+inapplicable to this appeal. 
+
+' Petitioners contend that if Congress had intended to restrict the 
+jurisdiction of the federal district courts, it would have expressly 
+precluded jurisdiction in the 1996 Act. This argument ignores the fact 
+that federal district courts are courts of limited jurisdiction and only 
+possess that jurisdiction which Congress expressly grants. Thus, 
+“preclusive language" is unnecessary to establish that federal courts do 
+not have jurisdiction. 
+
+
+12 
+
+
+"the fact a federal statute has been violated and some person 
+harmed does not automatically give rise to a private cause of 
+action in favor of that person." Cannon University of 
+Chicago, 441 U.S. 677, 688 (1979). Instead, a court must 
+carefully analyze the four factors that Cort v. Ash, 422 U.S. 
+66 (1975), identifies as indicative of Congressional intent to 
+create a private night of action. 
+
+
+Under the settled framework for evaluating whether a 
+private cause of action may be inferred from a statute, the 
+factors considered include whether the plaintiff is part of the 
+class for whose especial benefit the statute was passed; 
+whether the indicia of legislative intent reveals a 
+congressional purpose to provide a private cause of action or 
+deny one; whether it is consistent with the underlying 
+legislative scheme to imply such a remedy; and whether the 
+cause of action is one traditionally relegated to state law, in 
+an area basically the concern of the States, so that it would 
+be inappropriate to infer a cause of action based solely on 
+federal law. Cort v. Ash, 422 U.S. at 78 (1975). (internal 
+citations and quotations omitted). 
+
+
+Unless Congressional intent to create a private cause 
+of action can be inferred from the language of the statutory 
+structure, or some other source, the essential predicate for 
+implication of a private remedy simply does not exist. 
+Northwest Airlines, Inc. v. Transport Workers Union, 451 
+U.S. 77, 94 (1981). Whether Congress has created an 
+enforceable right is determined by its intent. Smith v. Kirk, 
+821 F.2d 980, 982 (4™ Cir. 1987). Neither the language of 
+the 1996 Act nor its legislative history indicates that 
+Congress intended to create a private cause of action. ” 
+
+
+'> The argument presented by the United States regarding the legislative 
+history of the 1996 Act fails to cite any legislative history to support its 
+bald assertions. (U.S. Brief at 23-24) 
+
+
+13 
+
+
+The legislative history of the 1996 Act establishes 
+that Verizon is not a part of the class for whose special 
+benefit the statute was enacted. The Act itself expresses 
+Congress’ intent "to promote competition and reduce 
+regulation in order to secure lower prices and higher quality 
+services for American telecommunications consumers and 
+encourage the rapid deployment of new telecommunications 
+technologies." Telecommunications Act of 1996, Pub. L. 
+No. 104-104, purpose statement, 110 Stat. 56, 56 (1996). 
+(Emphasis added) In its report concerning the legislation, 
+Congress specifically stated that: 
+
+
+.. . in order to secure lower prices and higher 
+quality services for American 
+telecommunications consumers . . . the 
+result wiil be lower prices to consumers and 
+businesses, . . . a competitive edge for 
+American businesses, . . . indeed, the 
+enormous benefits to American businesses 
+and consumers from lifting the shackles of 
+monopoly regulation . . . 
+
+
+H.R. Rep. No. 204, 104" Cong., 2" Sess. 4748 (March 
+1996) (emphasis added). Thus, it is clear that the 1996 Act 
+was enacted to benefit consumers, not ILECs such as 
+Verizon. 
+
+
+Furthermore, an examination of the legislative history 
+and statutory scheme presents no indication that Congress 
+intended to create a private cause of action. The only 
+express grant of federal jurisdiction in the 1996 Act, 
+§252(e)(6),'* is limited. 
+
+
+* Section 252(e)(6) provides, in pertinent part, "In any case in which a 
+State Commission makes a determination under this section, any party 
+aggrieved by such determination may bring an action in an appropriate 
+
+
+14 
+
+
+Under §252(e)(6), a district court's review of a State 
+commission's approval or rejection of an interconnection 
+agreement is limited to whether the agreement meets the 
+requirements of §§251 and 252. It does not by its terms 
+cover other aspects of a State commission's decision, such as 
+consistency with State law, or matters addressed in §253. 
+See, e.g. Puerto Rico Telephone Company vy. 
+Telecommunications Regulatory Board, 189 F 3d. 1 (1*-Cir. 
+1999). Thus, §252(e)(6) is a very limited jurisdictional 
+provision.’ 
+
+This Court has held that the express provision by 
+Congress of one method of enforcing a substantive rule 
+suggests that Congress intended to preclude others. 
+Northwest Airlines v. Transport Workers, 451 U.S. at 93-94 
+(1981). See also, Nat'l RR Passenger Corp. v. Nat'l Assoc. of 
+RR Passengers, 414 U.S. 453, 455 (1978) ("when legislation 
+expressly provides a particular remedy or remedies, courts 
+should not expand the coverage of the statute to subsume 
+other remedies."); Northwest Airlines Inc., 451 U.S. at 97. 
+("The presumption that a remedy was deliberately omitted 
+from a statute is strongest when Congress has enacted a 
+comprehensive legislative scheme including an integrated 
+system of procedures for enforcement.") Petitioners ignore 
+this rule of statutory construction. The Fourth Circuit's 
+conclusion that §252(e)(6) should be interpreted to curtail 
+jurisdiction under §1331 is the correct application of this 
+rule. 
+
+
+Federal district court to determine whether the agreement or statement 
+meets the requirements of Section 251 of this title and this section." 
+
+'° The Court should note that State court review is more efficient since 
+State courts would have jurisdiction over the entire matter, including 
+questions of State law. See, Pennhurst v. Halderman, 465 U.S. 89, 117 
+(1984). 
+
+
+15 
+
+
+Aside from the narrow remedy contained in 
+§252(e)(6),'° the 1996 Act also explicitly provides for 
+federal court jurisdiction in two other sections. Section 274 
+creates federal jurisdiction in the electronic publishing area 
+and Section 207 creates the same jurisdiction over interstate 
+communications disputes. That Congress expressly provided 
+for a private cause of action in these sections is evidence that 
+when Congress wished to provide a private remedy, it knew 
+how to do so and did so expressly. Touche, 442 U.S. at 572. 
+
+
+The conclusion that Congress did not intend to create 
+a private cause of action is further supported by the fact that 
+Congress considered, but failed to include, a private nght of 
+action in the 1996 Act for violations of an interconnection 
+agreement. Section 257 of the Senate Bill expressly 
+provided for a private right of action. S. Rep. No. 104-23, 
+104” Cong., 1° Sess., at 104-05. However, this provision 
+was not enacted in the final legislation. Congress’ express 
+grant of federal rights of action in three sections of the 1996 
+Act while deleting a similar provision from the Senate Bill, 
+demonstrates that Congress did not intend to create an 
+implied cause of action. 
+
+
+Consideration of the first two Cort factors is 
+dispositive. The language of the statute and its legislative 
+history do not suggest that the Act was intended to create 
+federal rights for the benefit of a class of persons but rather 
+was intended to benefit the public at large through a 
+regulatory scheme to be administered in large part by the 
+States. See, California v. Sierra Club, 451 U.S. 287, 298 
+(1981). In California, this Court found that statutes which 
+
+
+'° The district courts have construed §252(e)(6) narrowly. See, e.g. 
+Citizen's Utility Ratepayers Board v. McKee, 946 F.Supp. 89 (D. Kan. 
+1996) (Plaintiff is not an aggrieved party under §252(e)(6); only the 
+interconnecting service provider or affected local exchange carrier has 
+standing pursuant to this provision.) 
+
+
+16 
+
+
+focus on the person regulated rather than the individuals 
+protected create "no implication of an intent to confer rights 
+on a particular class of persons." /d. at 294. See, also, 
+T.ILM.E., Inc. v. United States, 359 U.S. 464 (1959); 
+Montana-Dakota Utilities Co. v. Northwestern Public 
+Service Co., 341 U.S. 246 (1951) (Court is reluctant to imply 
+causes of action under statutes that create duties on the part 
+of persons for the benefit of the public at large). Nor is there 
+any evidence that Congress anticipated that there would be a 
+private remedy. In short, Congress did not intend a private 
+federal remedy for violations of the statute that it enacted. 
+Thus, the federal district court cannot exercise federal 
+question jurisdiction and provide remedies for violation of 
+the 1996 Act because assuming such jurisdiction is contrary 
+to Congressional intent.'’ 
+
+
+This being the case, it is unnecessary to inquire 
+further to determine whether the purpose of the Statute 
+would be advanced by the judicial implication of a private 
+action or whether such a remedy is traditionally relegated to 
+state law. This Court has held that the federal judiciary will 
+not engraft a remedy on a statute that Congress did not 
+intend to provide. California v. Sierra Club, 451 U.S. at 
+297. These factors are only of relevance if the first two 
+factors give indication of a Congressional intent to create the 
+remedy. /d., citing, Touche, 442 U.S. at 574-576. 
+
+
+'’ The United States misconstrues the Maryland Commission's argument. 
+The MDPSC contends that §252(e)(6) does not grant jurisdiction over 
+enforcement orders. However, contrary to the United States 
+misinterpretation (United State Brief at pg 22 n. 5), the MDPSC never 
+argued that §252(e)(6) "revoked" federal court jurisdiction. The 
+Maryland Commission correctly contends that the inclusion of this 
+narrow remedy means that Congress did not intend for broader private 
+causes of action to be implied. Not only are these contentions not in 
+conflict, both are correct. 
+
+
+17 
+
+
+However, with regard to whether the remedy is 
+traditionally relegated to State law, in this instance it clearly 
+was traditionally the province of the State. As noted by 
+Justice Thomas, since the invention of the telephone the 
+States have been exclusively responsible for regulatory 
+intrastate telephone service. AT&T Corp., v. lowa Util. Bd., 
+525 U.S. 366, 403 (1999) (Thomas, J., joined by Rehnquist, 
+C.J. & Breyer, J., concurring in part and dissenting in part). 
+The Maryland Commission was charged with regulating 
+telephone service in 1910. Maryland Chp. Laws, Chp. 180 
+(1910). When Congress entered the telecommunications 
+field by enacting the Mann-Elkins Act (Ch. 301 §7, 36 Sta. 
+544-45 (1910)), it did not preempt the States’ regulation of 
+intrastate phone service AT&T, 525 U.S. at 403. (Thomas, 
+J.) This jurisdictional separation remained unaltered until 
+the passage of the 1996 Act. 
+
+
+During this period, States created extensive 
+regulatory schemes implementing their authority over 
+intrastate telephone service. In all instances, these regulatory 
+schemes included the creation of administrative bodies as 
+well as methods for appealing the decisions of those bodies. 
+See, e.g., Annotated Code of Maryland, PUC Article, §§3- 
+202, 3-204, 3-209. Even after the passage of the 1996 Act, 
+primary responsibility for overseeing the implementation of 
+§§251 and 252 remains with State administrative agencies. 
+
+
+The conclusion that the 1996 Act does not create a 
+private cause of action negates Verizon's claim of federal 
+subject matter jurisdiction.'® In the absence of a federal 
+statutory cause of action, declaratory relief is available only 
+
+
+'® This conclusion is in keeping with the Supreme Court's long-standing 
+presumption against finding private actions under the Federal 
+Communications Act of 1934. See, Scripps-Howard Radio, Inc. v. 
+Federal Communications Comm'n, 316 U.S. 4, 14 (1942). (Act of 1934 
+"did not create new private rights"). 
+
+
+18 
+
+
+when a federal statute totally precludes State regulation of 
+the matter being litigated. In other words, the federal statute 
+must have entirely occupied the field, preventing any State 
+regulation of matters within the scope of the federal statute. 
+Western Airlines, Inc. v. Port Authority of New York and 
+New Jersey, 817 F.2d 222, 225-26 (2™ Cir. 1987), cert. 
+denied, 485 U.S. 1006 (1988). See also, Burgio and 
+Campofelice, Inc. v. NYS Dept. of Labor, 107 F.3d 1000, 
+1007 (2nd Cir. 1997). A preemption cause of action for 
+declaratory relief is not an alternative means for enforcing 
+the substantive provisions of the federal statute. Western Air 
+Lines v. Port Authority of New York & New Jersey, 817 F.2d 
+at 225-26. 
+
+
+The District Court of California reached the same 
+conclusion concerning a challenge to §254 of the 1996 Act. 
+In this case, the California Public Utilities Commission 
+("CPUC") adopted two end-user surcharges to finance 
+intrastate universal telephone ~ervice programs. The Utility 
+Reform Network challenged this decision as being 
+preempted by the Telecommunications Act of 1996. The 
+California District Court found that an individual may 
+challenge State regulations despite the lack of statutory cause 
+of action only when a federal statute forbids State regulation 
+of the area that the State is purporting to regulate. In other 
+words, only when the federal statute had "occupied the field" 
+thereby preventing any State regulation of matters falling 
+within the scope of the federal statute. Turn v. CPUC, 26 
+F. Supp. 2nd 1208, 1213 (N.D. Cal. 1998) The California 
+court specifically noted that it was “not aware of any 
+authority holding that a preemption cause of action may 
+serve as a vehicle to challenge an otherwise permissible State 
+regulation simply because it allegedly violates a substantive 
+provision of a federal statute." Jd. The Court concluded that 
+the plaintiff could not challenge the CPUC's compliance with 
+
+
+19 
+
+
+the substantive provisions of the 1996 Act by means of a 
+preemption cause of action. /d. at 1213-1214. 
+
+
+Several other courts also have found that jurisdiction 
+is limited to the 1996 Act. In Jndiana Bell v. McCarty, 30 F. 
+Supp. 2d. 1100, 1102 (S.D. Ind. 1998), the district court 
+explained that where Congress provides a means to seek 
+review of an agency determination, alternative means of 
+review are inapplicable. Accord, see Michigan Bell v. MFS 
+Intelenet, 16 F. Supp. 2d. 710 (W.D. Mich. 1998); GT7TE 
+Northwest v. Nelson, 969 F. Supp. 654, 656 (W.D. Wash. 
+1997). The conclusion of these courts is in keeping with the 
+Supreme Court's decision in Seminole Tribe v. Florida, 517 
+U.S. 44 (1996), which stands for the proposition that 
+Congress’ particular choice of remedies must be respected. 
+Respect for Congressional intent means that generalized 
+statutes cannot be used in place of the tailored ones Congress 
+created. 
+
+
+No reasonable argument could be made contending 
+that the 1996 Act entirely preempts State regulation of local 
+exchange service or local exchange carriers. Among a 
+variety of other things, §252 requires a State commission to 
+determine rates in the context of an arbitration. See, e.g., 
+§§251(c)(4) and (6); 251(d)(3); 251(f), 252, 253(b) and (f), 
+254 and 261(c). 
+
+
+Contrary to Petitioners’ assertions, the Fourth 
+Circuit's interpretation and reliance on Jackson Transit 
+Authority v. Local Division 1285, 457 U.S. 15 (1982), was 
+correct. In Jackson, the Court found that the mandatory 
+incorporation of federal standards into a contract did not 
+necessarily create federal question jurisdiction in an action 
+based on a breach of those standards. Jackson involved a 
+
+
+suit by a union alleging breach of a "§13(c) agreement", 
+which preserved transit workers preexisting rights. This 
+
+
+20 
+
+
+guarantee was required by §13(c) of the Urban Mass 
+Transportation Act of 1964, 41 U.S.C. §1609(c). The union 
+argued that because the contract rights were guaranteed 
+federal law, its complaint stated claims arising under federal 
+law. The Court rejected that argument and found that 
+Congress did not intend such contract actions to set forth 
+federal claims. Jd. at 21.'° 
+
+
+Ironically, WorldCom's argument actually supports 
+the Maryland Commission's position. WorldCom agrees that 
+it is a question of State law "whether the interconnection 
+agreement includes a dynamic incorporation of statutory 
+interpretation." WorldCom Brief at 20. (citing Fourth 
+Circuit Opinion at 27a). WorldCom also agrees with the 
+Fourth Circuit's conclusion that merely because Congress 
+required parties to enter into a contract does not render 
+interpretation of that contract a federal question. /d. (citing 
+Fourth Circuit Opinion at 49a) As stated by WorldCom, 
+"nothing in the Act suggests that Congress intended to 
+transform every question regarding the meaning of an 
+interconnection agreement into a federal question." /d. 
+
+
+However, WorldCom misreads Jackson when it 
+states that the Court found that federal district court had 
+jurisdiction over the union's complaint. To the contrary, the 
+Jackson Court merely found that the federal district court 
+had jurisdiction to determine whether the union had a cause 
+of action. 457 U.S. at 21 n.6. The Jackson Court found that 
+
+
+'° A few years later, the Fifth Circuit also found that a contract 
+incorporating a federal regulatory standard does not give rise to federal 
+question jurisdiction. Oliver v. Trunkline Gas Co., 796 F.2d 86, 89 (5* 
+Cir. 1986). ("We are aware of no cases in which any court .. . has held 
+that a private contract can give rise to federal-question jurisdiction 
+simply by incorporating some federal regulatory standard that would not 
+be binding cu the parties by its own force.") 
+
+
+21 
+
+
+the union had no cause of action, thus the federal court had 
+no jurisdiction to entertain the union's complaint. 
+
+
+Applying the rationale of Jackson to the current 
+situation, the Court should find that the interconnection 
+agreement does not create federal question jurisdiction. The 
+rights of both the ILEC and the CLEC are created by their 
+contract, which may incorporate the federal standards. The 
+1996 Act expressly provides that the ILEC may negotiate an 
+interconnection agreement without regard to the standards in 
+§§251 (b) and (c). §252(a). Thus, any federal standards 
+incorporated into a negotiated interconnection agreement 
+were included at the choice of the parties. The parties, by 
+their own choices, cannot create federal question jurisdiction. 
+
+
+Verizon's argument analogizing interconnection 
+agreements to federal tariffs is only half correct. These 
+agreements are analogous to tariffs, but to State tariffs not 
+federal tariffs. Verizon's contention ignores that the State 
+commission establishes the rates, provides the schedule for 
+implementation and ensures that the rates and conditions 
+meet the requirements of §251 and §252(c). The State 
+commission is required to determine the wholesale prices for 
+telecommunications services §252(d)(3). The State 
+commission also may establish or enforce other requirements 
+of State law in its review of that agreement §252(e)(3). The 
+approved interconnection agreement is filed with the State 
+commission, which has the obligation to make each 
+agreement available for public inspection §252(h). 
+Furthermore, Maryland, like other States, includes arbitrated 
+rates in the Statement of Generally Available Terms 
+("SGAT"), which is a tariff filing available to any CLEC. 
+See, §252(f). Thus, the interconnection agreements are 
+analogous to State tariffs, not federal tariffs. The State 
+commission exercises full responsibility for the terms and 
+
+
+22 
+
+
+conditions, even the responsibility of making those terms 
+available to others.”° 
+
+
+Verizon's contention that Maryland lacked authority 
+under State law to hear complaints arising from 
+interconnection agreements is simply incorrect. The terms of 
+an interconnection agreement are established pursuant to 
+State Commission order. The agreement is approved by 
+State Commission order. Thus, a violation of any agreement 
+is a violation of a Commission order subject to the full State 
+enforcement powers of the Maryland Commission. 
+
+
+Petitioners have set up a strawman argument in an 
+attempt to distract the Court from the real issue in this case. 
+Contrary to Petitioners’ assertions, the question in this 
+proceeding is not whether anything in §252 withdraws 
+federal question jurisdiction. This argument ignores the 
+ample precedent of this Court establishing that federal 
+district courts are courts of limited jurisdiction and thus only 
+have that jurisdiction expressly granted by Congress. 
+Petitioners’ argument turns this proposition on its head and 
+requires the Court to make the unprecedented finding that 
+under §1331 federal district courts can hear virtually any 
+claim unless Congress has expressly barred the court from 
+hearing that claim. 
+
+
+The cases cited by Petitioners do not support the 
+proposition they are espousing. This is not surprising given 
+that the Petitioners present such novel view of the law. None 
+of the authorities provided by the Petitioners support the 
+concept that federal district courts can exercise §1331 
+jurisdiction in this instance. 
+
+
+*° The authorities cited by Verizon are inapposite because all involved 
+tariffs approved by and filed with federal agencies. 
+
+
+23 
+
+
+The main authority cited by Verizon actually 
+supports the Maryland Commission's position. In 
+International Association of Machinists, AFL-CIO v. Central 
+Airlines, Inc., 372 U.S. 682 (1963), the Court examined the 
+act at issue, its history and purposes. Based on this analysis, 
+the Court found that the plaintiffs had a cause of action and 
+the federal district court could exercise jurisdiction.” Thus, 
+though required by federal law, the contract disputes did not 
+"automatically" come within the federal district courts’ 
+jurisdiction. 
+
+
+Petitioners other authorities are simply inapposite. 
+For example, Verizon cite Bowen v. Michigan Academy of 
+Family Physicians, 476 U.S. 667 (1986) and Stark v. 
+Wickard, 321 U.S. 288 (1944) to support its claim of 
+jurisdiction. However, these cases involved federal agencies 
+arguing that specific decisions were totally shielded from 
+any court review. In contrast, the Maryland Commission 
+contends that it's order is subject to review, but only by a 
+State court. McNary v. Haitian Refugee Center, Inc., 498 
+U.S. 479 (1991) is similarly inapposite. McNary involved 
+the specific issue of whether plaintiffs claims came within a 
+specific statutory provision barring jurisdiction in certain 
+circumstances. The sole issue was the applicability of this 
+bar, the parties having conceded that in the absence of this 
+statutory provision the plaintiffs had a cause of action. 
+
+
+WorldCom relies on Steel Co. v. Citizens for a Better 
+Environment, 523 U.S. 583 (1998). In Steel Co. the statute 
+at issue expressly provided for a citizen suit. Thus, plaintiffs 
+did not have to establish a general cause of action, the 
+question was whether this provision allowed for suit based 
+on a historical violation. There was no question that the 
+
+
+*! This Court should note that the Central Airlines decision was rendered 
+prior to the Court's decision in Cort v. Ash, supra, which established the 
+four factors used to determine whether a private cause of action exists. 
+
+
+24 
+
+
+ee ee ee 
+
+
+——— 
+
+
+—_—— 
+oan, 
+
+
+statute authorized the plaintiffs to sue.” Finally, the 
+Petitioners inappropriately rely on a footnote in Shaw v. 
+Delta Airlines, Inc., 463 U.S. 85 (1983). Shaw however 
+involved a State regulation which was allegedly preempted 
+by federal law. In the present instance the Maryland 
+Commission's decision cannot "conflict" with the JSP Order. 
+The Maryland Order expressiy interpreted and applied the 
+FCC decision. While one may argue that this interpretation 
+is erroneous, to claim that the Maryland Order "conflicts 
+with" or is "preempted by" the FCC Order is simply a 
+misnomer. Since the Maryland Commission did not apply 
+any State law which may be said to be preempted by a 
+federal law, Petitioners’ reliance on Shaw is misplaced. 
+
+
+Contrary to Petitioners’ assertions, the federal district 
+courts enjoyed no “preexisting jurisdiction" under the 1996 
+Act. Section 601 of the 1996 Act provides that the Act shall 
+not be construed to modify or supercede Federal law. 
+Federal law includes the requirement that plaintiffs establish 
+a cause of action, either express or implied, under §1331 in 
+order to establish jurisdiction. Petitioners’ novel arguments 
+regarding preexisting jurisdiction and express statutory bar 
+should be rejected by this Court. 
+
+
+This Court should find that the 1996 Act does not 
+create a private cause of action, nor does it “occupy the 
+field," thereby preventing any state regulation of matters 
+falling within the scope of the federal statute. Given these 
+conclusions, the Court should hold that the district court did 
+not have jurisdiction pursuant to 28 U.S.C. §1331. 
+
+
+* The main question resolved by the Court was whether a court must 
+resolve the Article III standing issue prior to resolving the statutory 
+jurisdictional ton 
+
+
+25 
+
+
+II. THE ELEVENTH AMENDMENT MANDATES 
+THAT THIS CASE BE DISMISSED. 
+A. The Maryland Commission Has Not 
+Waived Its Sovereign Immunity. 
+
+
+Generally, the Eleventh Amendment divests federal 
+courts of jurisdiction over suits brought by private parties 
+against a state. See, Marie O. v. Edgar, 131 F.3d 610, 614 
+(7™ Cir. 1997). The Eleventh Amendment presupposes that 
+each state is a sovereign entity in the federal system and that 
+"{ijt is inherent in the nature of sovereignty not to be 
+amendable to the suit of an individual without [a state's] 
+consent." Hans v. Louisiana, 134 U.S. 1 (1890). This 
+Amendment has been interpreted to bar federal jurisdiction 
+over suits against a state arising under the Constitution or 
+Laws of the United States, whether those suits are brought by 
+citizens of another state or by the state's own citizens. /d. 
+The Eleventh Amendment im;oses a_ constitutional 
+limitation on the jurisdiction of Article III courts. Pennhurst 
+State School & Hospital v. Halderman, 465 U.S. 89, 98 
+(1984). Eleventh Amendment immunity is similarly 
+applicable to the Commission as an arm of the State of 
+Maryland. See, Puerto Rico Aqueduct and Sewer Authority 
+v. Metcalf & Eddy, Inc., 506 U.S. 139, 142-46 (1993). 
+
+
+Previously, the Supreme Court identified three 
+instances in which the Eleventh Amendment does not 
+deprive an Article III court of jurisdiction to entertain 
+allegations of state governmental wrongdoing. First, 
+Congress may abrogate the States’ Eleventh Amendment 
+immunity "by making its intention unmistakably clear" in the 
+text of a federal statute enacted pursuant to a constitutional 
+provision that empowers Congress with abrogation nights. 
+Dellmuth v. Muth, 491 U.S. 223, 228 (1989). Second, a state 
+may waive Eleventh Amendment immunity Parden v. 
+
+
+26 
+
+
+Terminal Ry. Co., 377 U.S. 184 (1964). Finally, a court may 
+consider a suit against a state official to enjoin a non- 
+discretionary violation of federal law. Ex parte Young, 209 
+U.S. at 159-60. 
+
+
+This Court has repeatedly held that the Congressional 
+power to abrogate the States’ sovereign immunity can only 
+be exercised by a clear legislative statement. Dellmuth v. 
+Muth, 491 U.S. at 227-228 (1989). In Blatchford v. Noatak, 
+501 U.S. 775 (1991), the Supreme Court expressly found 
+that §1331 does not suffice to abrogate immunity for all 
+federal questions. /d. at 78. As noted by the Blatchford 
+Court, "the fact that Congress granted jurisdiction to hear a 
+claim does not suffice to show Congress has abrogated all 
+defenses to that claims." /d. at 786 n. 4 (Emphasis in 
+original). 
+
+
+This Court's recent Seminole decision places 
+limitations on a party's ability to bypass a State's immunity 
+from suit in federal court. The decision restricts the power 
+of Congress to abrogate state immunity. The decision also 
+narrows the scope of the Ex parte Young exception to 
+Eleventh Amendment immunity. Finally, Seminole arguably 
+left open the issue of whether a State may impliedly waive 
+its immunity to suit in federal court. 
+
+
+However, in College Savings, the Supreme Court 
+repudiated the doctrine of constructive waiver. The Court 
+found that the "constructive waiver experiment was ill 
+conceived" and it overruled “whatever may remain of 
+Parden," that doctrine's seminal decision. 
+
+
+Petitioners below maintained that constructive waiver 
+is possible when Congress provides unambiguously that a 
+State will be subject to suit if it engages in certain federally 
+regulated conduct and the State voluntarily engages in that 
+
+
+27 
+
+
+conduct. The Supreme Court disagreed, finding that even an 
+unambiguous statement of Congressional intent cannot be 
+reconciled with the requirement that a State's waiver of 
+sovereign immunity be unequivocal. College Savings, 527 
+U.S. at 680. (Citations omitted). Thus, a state does not 
+consent to suit in Federal court simply by engaging in 
+federally regulated conduct even where Congress has 
+provided that the State will be subject to private suit if it 
+engages in that conduct. /d. at 680-681. See also, Fla. Dept. 
+of Health v. Fla. Nursing Home Asso., 450 U.S. 147, 150 
+(1981) (State's participation or agreement to administer a 
+federal program does not constitute a waiver of Eleventh 
+Amendment immunity). 
+
+
+This Court should determine that the Maryland 
+Commission cannot be found to have waived its sovereign 
+immunity for two reasons. First, Congress lacks the 
+constitutional authority, pursuant to the Commerce Clause, 
+to condition the State's participation on that state's waiver of 
+its Eleventh Amendment immunity. Second, the 1996 Act is 
+neither a "gift" nor a "gratuity". 
+
+
+1) Congress Lacks the Constitutional 
+Authority to Condition Grants Under the 
+Commerce Clause. 
+
+
+In light of Seminole and College Savings, even 
+assuming Congress expressly conditioned state participation 
+in the regulatory scheme of the 1996 Act on waiver of the 
+State's immunity to suit in federal court, Congress 
+nevertheless was without authority to do so under the 
+Commerce Clause. Art. I §8, Cl. 3. Any argument based on 
+constructive waiver presupposes that Congress has the 
+authority pursuant to Article I of the Constitution to force a 
+state to waive its Eleventh Amendment immunity as a 
+condition of participating in a field subject to federal 
+
+
+28 
+
+
+regulation. However, the Seminole Court stated in no 
+uncertain terms, that "the Eleventh Amendment restricts the 
+judicial power under Article III, and Article I cannot be used 
+to circumvent the constitutional limitations placed on federal 
+jurisdiction." 517 U.S. at 72-73. Thus, as noted by the 
+College Savings Court, the Seminole decision “expressly 
+repudiates” the proposition that Congress has authority, 
+under the Commerce Clause, to expand Federal jurisdiction. 
+College Savings, 527 U.S. at 683. Therefore, allowing 
+federal courts to apply the doctrine of constructive waiver 
+based on Congress’ commerce powers would directly 
+contravene the Supreme Court's express repudiation of this 
+doctrine in Seminole. - 
+
+
+The Seminole Court found that Congress cannot 
+abrogate a state's Eleventh Amendment immunity pursuant 
+to the Commerce Clause. 517 U.S. at 69. More 
+specifically, the Seminole Court stated that "[e]ven when the 
+Constitution rests in Congress complete lawmaking authority 
+over a particular area, the Eleventh Amendment prevents 
+Congressional authorization of suits by private parties 
+against unconsenting states." 517 U.S. at 72. The impact of 
+Seminole's conclusion was explicitly stated by the College 
+Savings Court, which found that "[rjecognizing a 
+congressional power to extract constructive waivers of 
+sovereign immunity through the exercise of Article I powers 
+would also, as a practical matter, permit Congress to 
+circumvent the anti-abrogation holding of Seminole Tribe." 
+527 US. at 683. 
+
+
+Therefore, the conclusion that Congress could have 
+excluded states from any role in the 1996 Act is irrelevant to 
+determining whether a state has constructively waived its 
+immunity. Under analysis, Congress would be permitted to 
+do indirectly what it cannot do directly, namely, abrogate a 
+state's immunity pursuant to the Commerce Clause by 
+
+
+29 
+
+
+making abrogation a "condition" of participation. See, eg. 
+Abril v. Virginia, 145 F.3d 182, 190 n. 15 (4 Cir. 1998). 
+
+
+Since Congress has no authority under its Article I 
+Commerce Clause powers to abrogate state sovereign 
+immunity, Seminole 517 U.S. at 71-72, it follows the 
+Congress may not make the waiver of sovereign immunity a 
+condition to the state's action in a field that Congress has 
+authority to regulate under the Commerce Clause. In the 
+present case, where Congress is not empowered to abrogate 
+the Eleventh Amendment immunity conisrred upon the 
+Commission directly, likewise it cannot do so indirectly 
+through principles of constructive waiver. The Maryland 
+Commission has not waived such protection by voluntarily 
+participating in the regulation of telecommunications. The 
+telecommunications. industry indisputably involves a 
+quintessential state interest - the provision of 
+telecommunications services to the citizenry at competitive 
+rates - protection of which Congress cannot condition on a 
+state's waiver of vital state rights. 
+
+
+This Court should find that Congress lacks the 
+constitutional authority to require states to waive their 
+Eleventh Amendment immunity when it enacts legislation 
+pursuant to the Commerce Clause. Since the Supreme Court 
+has previously ruled that Congress cannot abrogate States’ 
+immunity through the Commerce Clause, it would be 
+illogical to permit Congress to condition any "gift" on 
+accepting abrogation of Eleventh Amendment immunity 
+pursuant to this very same constitutional provision. 
+
+
+2) The 1996 Act is Neither a Gratuity Nor a 
+Gift to the States from Congress. 
+
+
+In a strained effort to avoid the obvious impact of 
+College Savings, Petitioners below contended that the 1996 
+
+
+30 
+
+
+Act is a “benefit” from Congress to the States and that, 
+therefore, Congress is entitled to place conditions on the 
+acceptance of that gift. This Court should reject this 
+distortion of the College Savings analysis. — 
+
+
+The threshold question is whether Congress had 
+"unequivocally" expressed its intent that waiver of Eleventh 
+Amendment immunity was a condition of the State's 
+participation in the 1996 Act. The Supreme Court has 
+required "an unequivocal expression of congressional intent" 
+to obtain an Eleventh Amendment waiver from states. 
+Atascodero, 473 U.S. 234, 238-40 (1985).” Congress must 
+state the condition unambiguously. Pennhurst State Sch. & 
+Hosp. v. Halderman, 451 U.S. 1, 17 (1981). Congress must 
+speak with a clear voice so that the States many exercise 
+their choice to waive their immunity "knowingly cognizant 
+of the consequences of their participation." /d. 
+
+
+Plainly, §1331 does not unequivocally express 
+Congressional intent that a State waive its sovereign 
+immunity when implementing the 1996 Act. As noted 
+earlier, this Court has held that §1331 does not abrogate a 
+States’ Eleventh Amendment immunity. Blatchford, supra. 
+This same provision certainly cannot be viewed as 
+unambiguously requiring that States waive their sovereign 
+immunity as a condition of participating in the regulatory 
+scheme. In short, §1331 lacks the clear statement necessary 
+so that a state participating in the 1996 Act's implementation 
+requirements can choose to participate or not, fully cognizant 
+
+
+* In Atascadero, the Court held that a general jurisdiction provision "is 
+not the kind of unequivocal statutory language sufficient to abrogate the 
+Eleventh Amendment” and that it “likewise falls far short of manifesting 
+a clear intent to condition a clear intend to condition participation in the 
+program funded under the Act on a state's consent to waive its 
+constitutional immunity. /d. at 246. 
+
+
+31 
+
+
+a se 
+
+
+that Congress intended that this participation would subject 
+the State to suit in federal district court pursuant to §1331. 
+
+
+The State commissions are merely agreeing to obey 
+federal laws in participating in a federal program. Agreeing 
+to obey federal law does not constitute an agreement to be 
+sued in federal court. Prior to the enactment of the 1996 Act, 
+State commissions could and did resolve disputes between 
+ILECs and CLECs. A brief review of the regulatory changes 
+which occurred in Maryland “— to the 1996 Act will 
+demonstrate this fact. 
+
+
+Maryland began opening the local telephone service 
+market to competition in 1993. On July 26, 1993, MFS 
+applied for authority to become a local exchange service 
+provider in the areas of Maryland served by Verizon. In 
+addition, MFS petitioned the Commission to establish 
+specific policies and requirements for the interconnection of 
+competing local exchange networks. In setting the 
+application for hearing, the Commission concluded that the 
+proceeding should serve to establish generic policies and 
+requirements for telecommunications carriers. 
+
+
+In Phase I, the Commission approved the unbundling 
+of local exchange links and ports.“ The Commission also 
+granted MFS authority to provide telephone services in 
+Maryland. Verizon was required to provide for 
+interconnection with MFS. An interim interconnection rate 
+also was established for local call termination on Verizon's 
+network. In addition, MFS was permitted to file a tariff, 
+with cost support, to establish a charge for the termination of 
+calls on its own network. In Phase II, the Commission set 
+
+
+** Re MFS Intelenet of Maryland, Inc., 85 Md.-PSC 38 (April 25, 1994). 
+32 
+
+
+the rates, term and conditions for interconnection between 
+the carriers.” 
+
+
+Maryland's experience with opening the local market 
+to competition demonstrates that the 1996 Act was not a 
+"benefit" but an unwarranted intrusion. Maryland's only 
+“gains” under the 1996 Act were a loss of autonomy. Prior 
+to the 1996 Act, Maryland had sole authority over its local 
+exchange market. After the Congressional enactment, 
+Maryland is now forced to share that authority with the FCC 
+and can even be preempted by that agency. Certainly no 
+reasonable person would interpret this outcome as a "benefit" 
+or "gift" to Maryland. In actuality, all the benefits flowed to 
+the FCC, which is permitted to usurp the State's traditional 
+regulatory authority, and utilize State resources in 
+implementing the 1996 Act. 
+
+
+Furthermore, participation by the States in the 1996 
+Act’s regulatory scheme was not voluntary. Regulation of 
+local exchange carriers traditionally has been within the 
+police powers of the State. The telecommunications industry 
+indisputably involves a quintessential “state interest" - the 
+provision of telecommunications services to the citizenry at 
+competitive rates-protection of which Congress cannot 
+condition on a State’s waiver of vital rights. Upon passage 
+of the 1996 Act, a State was forced to either abide by the 
+federal regulations or cede its power to regulate to the FCC 
+(a classic Hobson's choice). The option of either consenting 
+to federal regulation and waiving immunity or losing the 
+previously held power to regulate a local exchange carrier is 
+not a choice that any court should perceive as voluntary. 
+
+
+The linchpin of the contention that the 1996 Act 
+constitutes a "gift" is §252(e)(5). The Petitioners argued 
+
+
+> Re MFS Intelenet of Maryland, Inc., Phase Il, 86 Md. PSC 467, 470-71 
+(Dec. 28, 1995). 
+
+
+%3 
+
+
+below that this provision rendered the state's participation in 
+the 1996 Act voluntary because the FCC would take over the 
+responsibilities of any state who "chooses" not to participate. 
+However, Petitioners interpretation of this section is overly 
+broad and contrary to the plain meaning of that provision. 
+Section 252(e)(5) states "if a State commission fails to act to 
+carry out its responsibility under this section im any 
+proceeding or other matter .. . the [FCC] shall issue an 
+order preempting the State commission's jurisdiction of that 
+proceeding or matter . . . and shall assume the 
+responsibility of the State commission . . . with respect to 
+the proceeding or matter . . . . "(emphasis added). 
+
+
+Clearly, this provision envisions the FCC assuming 
+jurisdiction over discrete proceedings or matters, not taking 
+over wholesale responsibility for telecommunications 
+regulation in state. This conclusion is supported by the Joint 
+Committee of Conference Report which described the Senate 
+provision as requiring that the FCC "shall assume the 
+responsibilities of the State in the applicable proceeding or 
+matter." H.R. Conf. Rep. No. 104-458 (1996), reprinted in 
+1996 U.S.C.C.A.N. 124 (emphasis added) Congress could 
+not have contemplated the FCC taking full responsibility for 
+regulatory local service in the States. The reason the States 
+are included in the 1996 Act is not “in the spint of 
+federalism" but because the federal government is incapable 
+of regulating such a vast industry on its own. Essentially, 
+Congress is using the States to implement a program that the 
+federal government would be incapable of carrying out on its 
+own. 
+
+
+More critically, the FCC severely undermined any 
+“voluntary” aspect of a State's “opting in" by stating 
+explicitly that, in assuming jurisdiction over a matter, “it 
+shall not be bound by State laws and standards that would 
+
+
+34 
+
+
+- —— 
+
+
+have applied to the State commission in such proceeding or 
+matter." 47 CFR §51.807(b). So much for "genuine choice." 
+
+
+Finally, several federal courts have held that they will 
+not review interconnection agreements for violations of state 
+law. See, e.g., Illinois Bell v. WorldCom, 179 F.3d 566, 571 
+(7 Cir. 1999). Thus, if a State commission had “opted out" 
+of the 1996 Act, State law requirements would not even 
+receive any consideration and parties who operate in 
+violation of State law could do so with impunity. 
+
+
+The above are not "genuine choices” that fall within 
+those limits articulated for a preemptible field in FERC v. 
+Mississippi, 456 U.S. 742 (1982). The 1996 Act passed the 
+"point of coercion” because the effect of Maryland's refusal 
+to waive its immunity is the exclusion of the State from an 
+otherwise lawful activity. See, College Savings, 527 U.S. at 
+687. Under the 1996 Act, a State has the choice of seeing its 
+commission frozen out of effective enforcement of state- 
+related service and interconnection issues, as well as federal 
+matters under §§251 and 252, or the State is stripped of its 
+immunity from federal judicial review. The States are thus 
+denied that "dignity and respect" to which a sovereign State 
+is entitled. 
+
+
+There is no arguable basis to conclude that the State's 
+continued regulation of local telephone carriers is a "benefit" 
+from Congress, which justifies constructive waiver of 
+Eleventh Amendment immunity. This Court should hold 
+that abrogation of Eleventh Amendment immunity as the 
+price of “opting into" the scheme created in §252 is an 
+invalid option in light of Seminole and College Savings. 
+Therefore, the Commission's Eleventh Amendment 
+immunity was not waived through its participation in §252 
+arbitration proceedings. The 1996 Act's requirement of 
+federal district court review is unconstitutional. 
+
+
+35 
+
+
+B. This Proceeding Does Not Meet the 
+Requirements of the Ex parte Young 
+
+
+Exception 
+
+
+Verizon attempted to avoid the bar of Eleventh 
+Amendment sovereign immunity by naming the Commission 
+members individually in their official capacities. See, Ex 
+parte Young, 209 U.S. 123 (1908). Seminole represents the 
+first Supreme Court decision since Ex parte Young to hold 
+that the Eleventh Amendment bars an action against a State 
+official for purely prospective relief to prevent ongoing 
+violations of federal law. 
+
+
+Relief under Ex parte Young may be foreclosed if the 
+statute in question provides "a detailed remedial scheme,” if 
+that remedy is "significantly more limited than . . . the 
+liability upon the state officer under Ex parte Young” and if 
+Congress did not to "authorize federal jurisdiction under Ex 
+parte Young over a causes of action with a limited remedial 
+scheme." Seminole, 517 U.S. 44, 74-75 (1996). 
+
+
+The Seminole Court found that "where Congress has 
+prescribed a detailed remedial scheme for the enforcement 
+against a state of a statutorily created right, a court should 
+hesitate before casting aside those limitations and permitting 
+an action against a state officer based upon Ex parte Young." 
+Seminole, 517 U.S. at 74. This Court should find that the 
+1996 Act constitutes a comprehensive statutory scheme and 
+thus the Ex parte Young doctrine does not apply. 
+
+
+In Seminole, after rejecting the tribe's abrogation 
+argument, the Court turned to the tribe's alternative 
+contention that Ex parte Young served as a means by which 
+to obtain relief in federal court. The tribe contended that 
+
+
+36 
+
+
+federal court jurisdiction existed to proceed in an action 
+against the Governor to obtain injunctive relief. 
+
+
+However, the Seminole Court held the Ex parte 
+Young doctrine inapplicable. The Court reasoned that in 
+contrast to the "modest set of sanctions" Congress 
+established in the IGRA, a suit under Ex parte Young would 
+expose the defendant State official to the "full remedial 
+powers of a federal court." Also, allowing a suit for relief 
+under Ex parte Young would render ineffective the remedies 
+Congress designed. The Court acknowledged that Congress 
+has authority to establish federal court jurisdiction over State 
+officials comparable to Ex parte Young jurisdiction, but 
+concluded that Congress had not applied such authority 
+when it wrote the IGRA. Of significance, the Court ruled 
+that even though Congress’ remedial scheme under the IGRA 
+did not work because it violated the State's Eleventh 
+Amendment nights, the Court could not "rewrite the statutory 
+scheme in order to approximate what we think Congress 
+might have wanted." Seminole, 517 U.S. at 74-76. 
+
+
+The Seminole Tribe decision places an obligation on 
+the federal courts to examine Congressional intent with 
+respect to the scope of statutory remedies that may be 
+available in any case where the Ex parte Young doctrine is 
+asserted to remove the Eleventh Amendment bar. 
+Application of the Supreme Court doctrine espoused in 
+Seminole must lead to the conclusion that finding jurisdiction 
+under Ex parte Young in this imstance would be 
+inappropriate. In Seminole, the Supreme Court found that 
+when a statute implies that Congress intended an alternative, 
+specific form of relief be available to enforce compliance 
+with that statute, a court should infer that Congress did not 
+intend the federal court to provide traditional Ex parte Young 
+injunctive relief. 
+
+
+37 
+
+
+The Tenth Circuit recently applied the Seminole 
+analysis to reach the conclusion that Titles [V and XX of the 
+Social Security Act created detailed remedial schemes for 
+enforcement. In Joseph A. v. Ingram, 262 F.3d 1113 (10" 
+Cir. 2001), the Tenth Circuit noted that under Title IV the 
+State's were required to adhere to a comprehensive set of 
+statutory and regulatory standards imposing federally- 
+defined objectives, administrative procedures and appeals. 
+The Titles also provide for federal oversight of the plans by 
+the Department of Health and Human Services ("HHS"). 
+HHS has the authority to dictate the terms of the plan. States 
+that fail to comply with the planning face a reduction in their 
+funding eligibility. The Tenth Circuit held that the 
+comprehensive statutory and-regulatory provisions governing 
+Titles TV and XX demonstrated that Congress meant to 
+preclude reliance on the broad provisions of an Ex Parte 
+Young, suit to enforce the federal statutory standards. 
+
+
+Applying the /ngram analysis to the 1996 Act, this 
+Court must conclude that the 1996 Act is a detailed remedial 
+scheme. The State commissions are required to adhere to a 
+comprehensive set of statutory and regulatory standards 
+imposing federally defined objectives and administrative 
+procedures. See, §§252(b)(4), (c), (d), (e)(1) and (e)(2). The 
+1996 Act provides for federal oversight by the FCC. See, 
+§251(d). Failure of a State commission to carry out its 
+responsibility in a proceeding may result im the FCC 
+preempting the State commission's jurisdiction over that 
+proceeding. §252(e)(5). 
+
+
+Furthermore, the remedial scheme of the 1996 Act 
+includes a federal court remedy to allow for a review of an 
+interconnection agreement to determine whether the 
+agreement complies with §§251 and 252. But this federal 
+court remedy does not contemplate injunctive relief. In 
+addition, the 1996 Act imposes no set of judicial sanctions 
+
+
+38 
+
+
+against a state commission for failure to timely adhere to the 
+expedited timetable. Clearly, the federal court relief 
+available under §252(e)(6) is far less onerous than the relief 
+that would be available pursuant to an Ex parte Young suit. 
+Section 252(e)(6) only allows for a review of an 
+interconnection agreement whereas an Ex parte Young action 
+against a state commission would expose the Commissioners 
+to the full remedial powers of a federal court, including 
+presumably, contempt sanctions. Thus, to allow an Ex parte 
+Young action against the Commissioners would be to 
+"rewrite the statutory scheme", render superfluous the 
+limited statutory remedy provided under §252(e)(6) and 
+would permit the plaintiff to obtain relief against the 
+individual Commissioners that they could not otherwise 
+obtain pursuant to §252(e)(6). 
+
+
+Any attempt to achieve jurisdiction through the Ex 
+parte Young fiction rather than through a §252(e)(6) action 
+will frustrate Congress’ clear intent that the 1996 Act 
+provides the exclusive remedies against the state 
+commissions. Like the statute in Seminole, §252(e)(6) does 
+not "stand alone" but was created in the context of a 
+carefully crafted remedial scheme. Just as the Seminole 
+Court refused to replace Congress’ unconstitutional attempt 
+to abrogate states’ immunity with a judicially created 
+remedy, so to should this Court refuse to apply Ex parte 
+Young to the 1996 Act. 
+
+
+Another factor militating against use of Ex parte 
+Young relief is the fact that Congress clearly intended for 
+§252(e)(6) actions to proceed against State commissions, not 
+individual commissioners. 
+
+
+In Seminole, the Court observed that the statute 
+indicated that Congress clearly contemplated that the state 
+would be the respondent and repeatedly referred to "the 
+
+
+39 
+
+
+State." Seminole, 517 U.S. at 75. According to the Court, 
+where a statutory scheme unmistakably authorizes a State or 
+its agency to act, as opposed to an individual State official, 
+Ex parte Young does not provide a vehicle whereby relief 
+may be obtained. Jd. 75 n.17. Thus, the Seminole Court 
+determined that absent explicit Congressional authorization, 
+Courts should not permit the use of an Ex parte Young actic 
+to negate a state's sovereign immunity. 
+
+
+In Seminole, the Court looked to the federal statute at 
+issue and determined that it was not Congress’ intent to 
+create a cause of action against the state officials, relying on 
+a literal reading of the statute to support this analysis. Thus, 
+in order to determine whether Verizon's action against the 
+Commissioners may proceed, this Court is required to 
+determine whether Congress intended to limit the availability 
+of Ex parte Young suits over a cause of action brought under 
+the 1996 Act. 
+
+
+In the 1996 Act, all of the provisions in §§251 and 
+252 refer to the "State Commission" or "the State" and none 
+of the provisions refer to individual State commissioners. 
+Section 252(e)(6), the statutory provision relied upon by the 
+plaintiffs to initiate this case, is entitled "Review of State 
+Commission Actions". That heading alone implies that an 
+appeal will be filed against the State Commission. Section 
+252 refers forty-five times to the "state commission" with 
+four such references contained in the subsection headings. 
+See, 47 U.S.C. §§252(b)(4)(e), (e)(6), and (f)(2). Section 
+252 never refers to individual state commissioners. This 
+overwhelmingly demonstrates that Congress designed the 
+§252(e)(6) action to proceed against the State commission.”° 
+
+
+°° In fact, the actions Verizon complained of could not be accomplished 
+by any of the five Commissioners acting alone. The Commission only 
+can act by majority vote on such a matter. It is the action of the 
+Commission as an entity that is required under the 1996 Act as a 
+
+
+40 
+
+
+It is illogical to infer that Congress intended to 
+subject State commissioners to broad federal injunctive relief 
+and contempt powers. Congress would have expressly 
+provided for such a significant remedy had it intended to do 
+so. Thus, the district court was without jurisdiction to 
+proceed against the individual commissioners. 
+
+
+The Congressional remedy crafted into the 1996 Act 
+does not authorize a suit against a state official as required 
+by Seminole, 517 U.S. at 75.. Congress’ remedial scheme 
+does not include State commissioners as parties to actions 
+brought under §252(e)(6). "When Congress crafts particular 
+remedies for particular wrongs, the presumption is that these 
+are the exclusive remedies and that such limitations as they 
+may embody are not to be circumvented . .." McDonnell v. 
+Cisneros, 84 F. 3d 256, 261 (7" Cir. 1996). The fact that 
+Congress created on unconstitutional remedy, which allowed 
+for suit against the state does not change this result. 
+
+
+This Court should find that, pursuant to the rule 
+espoused in Seminole, Congress did not provide for the type 
+of relief available under Ex parte Young in the 1996 Act. 
+
+
+Another critical limitation on the Ex parte Young 
+doctrine is that a State officer must have exceeded his 
+authority in order to be subjected to an Ex parte Young suit. 
+As the Court explained in Larson v. Domestic & Foreign 
+Comm. Corp. 337 U.S. 682 (1949), an ultra vires claim 
+exists on "the officer's lack of delegated power. A claim of 
+error in the exercise of that power is therefore not sufficient" 
+Pennhurst, 465 U.S. at 101 n. 11 (quoting Larson vy. 
+Domestic & Foreign Comm. Corp., 337 U.S. 682, 690 
+(1949)). Thus, mere assertions of good faith error in the 
+
+
+prerequisite to judicial review by this Court, not the actions of the 
+
+
+41 
+
+
+a Sa 
+
+
+exercise of lawful authority, such as Verizon's contention 
+that the Maryland Commission misinterpreted the FCC 
+Order, do not support an action under Ex parte Young. 
+
+
+Verizon's suit falls well beyond the ambit of the Ex 
+parte Young paradigm. The Maryland commissioners are 
+not alleged to have violated any constitutional provisions, 
+nor are they alleged to have exceeded the scope of their 
+authority under the 1996 Act. Verizon did not contend that 
+the commissioners failed to perform a mandatory duty nor 
+interpreted or applied state law in a manner contrary to the 
+United States Constitution or federal law. Verizon must 
+concede that the Maryland Commission was empowered to 
+consider its dispute, Verizon itself selected the initial forum. 
+Thus, there can be no contention that the commissioners 
+have acted on a matter that is outside their jurisdiction. 
+Because a claim of error in the exercise of lawful authority is 
+not sufficient to strip the Commissioners of their sovereign 
+immunity, Verizon's suit is barred by the Eleventh 
+Amendment. Pennhurst, 464 U.S. at 101 n. 11. (quoting 
+Larson, 337 U.S. at 690). 
+
+
+Il. THIS COURT SHOULD UPHOLD THE 
+FOURTH CIRCUIT'S APPLICATION OF THE 
+ROOKER-FELDMAN DOCTRINE. 
+
+
+The Rooker-Feldman doctrine stems from two 
+Supreme Court cases decided sixty years apart. In Rooker v. 
+Fidelity Trust Co., 263 U.S. 413 (1923), the Supreme Court 
+held that lower federal courts lack jurisdiction to entertain 
+appeals from state court judgments because that power is 
+reserved to the Supreme Court. In 1983, the Supreme Court 
+decided District of Columbia Court of Appeals v. Feldman, 
+460 U.S. 462 (1983), clarifying Rooker and giving the 
+Rooker-Feidman doctrine its name. In Feldman, the 
+
+
+42 
+
+
+Supreme Court held that lower federal courts have no 
+jurisdiction to hear "challenges to State court decisions in 
+particular cases arising out of judicial proceedings", Jd. at 
+486, or decide questions “inextricably intertwined" with 
+State court judgments. Jd. at 483 n. 16. 
+
+
+The Rooker-Feldman doctrine is founded on two 
+main inferences derived from provisions of Title 28 of the 
+United States Code. The first inference is that 28 U.S.C. 
+§1257, which gives the Supreme Court appellate review of 
+certa:1 State court decisions, is the only federal statute that 
+explictly provides for federal review of State court 
+decisious. Congress granted original jurisdiction to federal 
+district courts under a variety of statutes, including 28 U.S.C. 
+§§1331 and 1332. Under this statutory scheme, federal 
+district courts are courts of orginal, not appellate 
+jurisdiction. Thus, by inference, 28 U.S.C. §1257 granted 
+jurisdiction exclusively to the Supreme Court to review final 
+judgments or decrees from the highest court in a state. The 
+second inference is that Congress intended to foreclose all 
+other forms of federal court review of State decisions. 
+Because Congress only gave the Supreme Court the explicit 
+authority to review the decisions of a state court, Congress 
+meant to deny all other federal courts that power. 
+
+
+Thus, the Rooker-Feldman doctrine is an extension of 
+the principle that federal courts are courts of limited 
+jurisdiction. Also underlying the Rooker-Feldman doctrine 
+is the idea of federalism. The doctrine is designed to 
+preserve the two distinct legal systems so that each may 
+proceed independently of the other with the Supreme Court 
+as the final arbiter of any federal questions raised in either 
+system. The policy reasons which underlies the doctrine 
+apply just as readily to state agency decisions rendered in 
+quasi-judicial proceedings as they do to State court 
+decisions. 
+
+
+43 
+
+
+As noted earlier, the Feldman Court found that the 
+federal district court was "without authority to review final 
+determinations of the [D.C. Court] in judicial proceedings. 
+Review of such determinations can be obtained only in this 
+Court. See, 28 U.S.C. §1257." Feldman, 460 U.S. at 476. 
+In reaching this conclusion, the Supreme Court analyzed the 
+crucial question whether the proceedings before the D.C. 
+Court "were judicial in nature” so as to bring these 
+proceedings under the ambit of Rooker. 
+
+
+Interestingly, the leading case relied upon by the 
+Feldman Court was Prentis v. Atlantic Coast Line Co., 211 
+U.S. 210 (1908), where the Supreme Court acknowledge that 
+the Virginia State Corporation Commission is, at least for 
+some purposes, a court. 211 U.S. at 224. Prentis also held 
+that: 
+
+
+A judicial inquiry investigates, declares and 
+enforces liabilities as they stand on present or 
+past facts and under laws supposed already to 
+exist.... Legislation on the other hand looks 
+to the future and changes existing conditions 
+by making a new rule to be applied thereafter 
+to all or some part of those subject to its 
+power. 
+
+
+211 U.S. at 226. The reldman Court agreed with the Prentis 
+finding that the question regarding whether a proceeding is 
+judicial in nature "depends not upon the character of the 
+body but upon the character of the proceedings." 460 U.S. at 
+477. The Feldman Court found that the proceedings at issue 
+were judicial in nature because the tribunal "was called upon 
+to investigate, declare and enforce liabilities as they stood 
+on present or past facts and under laws supposed already to 
+
+
+oo 
+
+
+exist." Feldman, 460 U.S. at 479. (emphasis added) 
+Consequently, the Feldman Court ruled that the district court 
+lacked subject matter jurisdiction over applicants’ claims for 
+individual relief. 
+
+
+This Court has recognized that it is "within the power 
+of the States, as it is within the power of the Federal 
+Government, to transfer some adjudicatory functions to 
+administrative agencies, with the opportunity for subsequent 
+judicial review.” Printz v. United States, 521 U.S. 898, 929 
+n.14 (1997) (citing Crowell v. Benson, 285 U.S. 22 (1932)) 
+Similarly, as noted above, this Court has established that an 
+administrative agency engaged in adjudication is performing 
+a judicial act. See, Prentis v. Atlantic Coast Line Co., 211 
+U.S. at 224-26. The proposition that State agencies perform 
+judicial acts was the very premise of FERC v. Mississippi, 
+456 U.S. 742, 760-61 (1982), which held that Testa v. Katt, 
+330 U.S. 386 (1947), requires a State administrative agency 
+to apply federal law when it adjudicates disputes arising 
+within its jurisdiction. See, 456 U.S. at 760.7’ 
+
+
+The MDPSC clearly functions as a Court in some 
+circumstances. The Maryland Commission has the powers 
+of a court of record to administer oaths, compel the 
+attendance of witnesses and production of documents and 
+enforce compliance with its orders through fines and other 
+penalties as prescribed or authorized by law. PUC §§3-104, 
+3-109, 3-110, 3-111, 10-402. Finally, like other Courts, the 
+Maryland Commission must afford all parties reasonable 
+notice of proceedings, an opportunity to be heard, and the 
+opportunity to present evidence. PUC §§3-102, 3-103, 
+3-107. 
+
+
+” See, also, Printz, 521 U.S. at 929 n. 14. ("We have no doubt that 
+FERC would not have been decided the way it was if non adjudicative 
+responsibilities of the state agency were at issue"). 
+
+
+45 
+
+
+The Maryland Commission, a State administrative 
+agency with longstanding expertise in the regulation of local 
+telephone service, exercised the judicial power granted it 
+under Maryland law when it adjudicated Verizon's Request 
+for a Declaratory Order. The proceeding which resulted in 
+the MDPSC Order at issue was, in every sense, an exercise 
+of judicial power. It commenced when Verizon filed a 
+request for declaratory order, included a prehearing 
+conference, intervention and participation by fifteen parties 
+and a full hearing. The proceeding culminated with the 
+Maryland Commission's adjudication of the rights of the 
+parties under pre-existing interconnection agreements and in 
+arbitrations currently before the MDPSC. 
+
+
+In the proceedings before the Maryland Commission, 
+the Maryland Commission investigated facts, conducted an 
+adversarial hearing, declared its conclusions and enforced 
+liabilities against a specific party as they stood on present 
+facts and under laws that already existed. Given the general 
+principles discussed above, the Maryland Commission must 
+be found to have acted in a judicial capacity. See, e.g. Ohio 
+Civil Rights Comm'n v. Dayton Christian Schools, 477 U.S. 
+619 (1986) (state civil mghts commission proceedings 
+deemed "judicial" in nature.) 
+
+
+Petitioners’ reliance on City of Chicago y. 
+International College of Surgeons, 522 U.S. 156 (1997) is 
+misplaced. Contrary to the United States’ assertion, this 
+Court did not find that general statutory language is 
+sufficient to confer jurisdiction over suits challenging the 
+decisions of a State agency as contrary to federal law. City 
+of Chicago merely held that federal district courts can 
+exercise supplemental jurisdiction over State claims that call 
+for deferential on-the record review of a State administrative 
+order when the court already possesses original jurisdiction 
+over another claim. In City of Chicago, the district court 
+
+
+46 
+
+
+exercised original jurisdiction over the federal constitutional 
+claims, which were not bound by the administrative record. 
+118 SCt. at 531. 
+
+
+.. The Rooker-Feldman doctrine advances the policy of 
+preserving the autonomy of both sovereigns and preventing 
+undue incursions of one upon the other. In applying the 
+Rooker-Feldman doctrine, the Fourth Circuit recognized the 
+judicial nature of the proceedings involved and properly 
+found that the concept of federalism inherent in our system 
+requires the federal district court to refrain from taking 
+jurisdiction over this case. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the decision of the 
+United States Court of Appeals for the Fourth Circuit should 
+be affirmed. 
+
+
+Respectfully submitted, 
+
+
+Susan Stevens Miller 
+
+General Counsel 
+
+Maryland Public Service Commission 
+6 St. Paul Street, 16" Floor 
+Baltimore, Maryland 21202 
+(410)767-8039 
+
+
+47 
+
+

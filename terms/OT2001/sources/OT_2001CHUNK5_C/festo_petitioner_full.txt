@@ -1,0 +1,2564 @@
+1) SIRT 
+Aug >| 200! \ AUG Si 2001 
+
+
+No. 00-1543 ' 
+——— SESE 
+In the Supreme Court of the United States — 
+
+
+OCTOBER TERM, 2000 
+
+
+FESTO CORPORATION, 
+Petitioner, 
+Vv. 
+SHOKETSU KINOZOKU KOGYO KABUSHIKI Co., LTD., A/K/A 
+
+
+SMC CORPORATION AND SMC PNEUMATICS, INC., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Federal Circuit 
+
+
+BRIEF FOR PETITIONER 
+
+
+ANDREW L. FREY ROBERT H. BORK 
+DONALD M. FALK Counsel of Record 
+ROBERT L. BRONSTON Suite 1000 
+Mayer, Brown & Platt 1150 17 Street, N.W. 
+1909 K Street, N.W. Washington, D.C. 20036 
+Washington, D.C. 20006 (202) 862-5851 
+(202) 263-3000 
+CHARLES R. HOFFMANN 
+GERALD T. BODNER 
+GLENN T. HENNEBERGER 
+ANTHONY E. BENNETT 
+Hoffmann & Baron, LLP 
+6900 Jericho Turnpike 
+Syosset, New York 11791 
+(516) 822-3550 
+
+
+Counsel for Petitioner 
+AUGUST 31, 2001 
+
+
+or 
+
+
+QUESTIONS PRESENTED 
+1. Whether every claim narrowing amendment designed 
+to comply with any requirement of the Patent Act — including 
+those not related to prior art — automatically creates 
+prosecution history estoppel. 
+
+
+2. Whether every finding of prosecution history estoppel 
+completely bars every application of the doctrine of 
+equivalents. 
+
+
+ii 
+RULE 29.6 STATEMENT 
+
+
+Petitioner Festo Corporation is a subsidiary of Festo AG. 
+There are no subsidiaries or affiliates of Festo Corporation that 
+have issued shares to the public. 
+
+
+TABLE OF CONTENTS 
+
+Page 
+QUESTIONS PRESENTED ..............cceceeee (I) 
+ET «Secs cccetensescocccceses ii 
+TABLE OF AUTHORITIES ..............000ee ees vi 
+Ey cobb rConckestcecdcccoscesecess } 
+cick ebeGicnsaddeddacencecsacececs l 
+STATUTORY PROVISIONS INVOLVED ............ l 
+STATEMENT OF THE CASE ............0cccceeees l 
+A. The Patent Application Process ................ 2 
+
+B. The i rosecution of the Rodless 
+Pa baevdededececcoccsccesersss 5 
+1. Prosecution History of the Stoll Patent ....... 5 
+2. Prosecution History of the Carroll Patent ..... 8 
+ID «cc ccGbcngesecdsecctesseces 8 
+DED Edkacccudeandcccceccecccees 8 
+2. Initial Appeal and Decision on Remand ...... 9 
+3. The En Banc Decision ................... 10 
+
+
+iv Vv 
+
+
+TABLE OF CONTENTS — Continued TABLE OF CONTENTS — Continued 
+Page Page 
+Il. THE FEDERAL CIRCUIT’S RULES WOULD 
+BR ee ee 18 SERIOUSLY DAMAGE THE PATENT SYSTEM 
+
+
+AND ENACT HARMFUL PUBLIC POLICY.... 42 
+I. THIS COURT SHOULD ADHERE TO ITS 
+
+
+TRADITIONAL UNDERSTANDING OF THE EE, MhccGhoensvccacegadocss covceceees 45 
+REACH OF PROSECUTION HISTORY | 
+PPE. ocvcdcunccdenccogsebecdsssecdhse 19 | 
+A. Prosecution History Estoypel Limits the 
+Doctrine of Equivalents Only When Subject 
+Matter Has Been Suitendered In Order To 
+PEE, So vins Kunedevesccoecuteses 21 
+
+
+1. The Federal Circuit’s rule is wholly 
+applied prosecution history estoppel. ...... .. 24 
+
+
+Il. THE FEDERAL CIRCUIT'S NEW RULES 
+ACCOMPLISH NOTHING USEFUL BUT ARE | 
+BOUND TO COMPLICATE PATENT | 
+PROSECUTION AND LITIGATION. ............ 38 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+Black & Decker v. Hoover Service Center, 
+
+
+886 F.2d 1285 (Fed. Cir. 1989) ............ 
+Davis v. Wakelee, 156 U.S. 680 (1895) ......... 
+
+
+Exhibit Supply Co. v. Ace Patents Corp., 
+
+
+FES Ws CRO ERP EE 6 0 ccccessccccccescess 
+
+
+Fay v. Cordesman, 109 U.S. 408 (1883) Sanvelas 
+
+
+Goodyear Dental Vulcanite Co. v. Davis, 
+
+
+Ee 
+Graham v. John Deere Co., 383 U.S. 1 (1966) ... 
+
+
+Graver Tank & Manufacturing Co. v. Linde Air 
+
+
+Products Co., 339 U.S. 605 (1950) ......... 
+
+
+Hi-Life Products Inc. v. American Nat'l 
+Water-Mattress Corp, 842 F.2d 323 
+
+
+GBuG, Ge, TEED oc cc cdescvccccvcstcecces 
+Hubbell v. United States, 179 U.S. 77 (1900) .... 
+Hurlbut v. Schillinger, 130 U.S. 456 (1889) ..... 
+
+
+Hughes Aircraft Co. v. United States, 
+
+
+140 F.3d 1470 (Fed. Cir. 1998) ............ 
+
+
+Keystone Driller Co. v. Northwest Engineering Corp., 
+
+
+WO US, GAGS) 0 ob cccccccccccccccsces 
+
+
+Mannesmann Demag Corp. v. Engineered Metal Prods. 
+Co., 793 F.2d 1279 (Fed. Cir. 1986) .............. 27 
+
+
+Moeller v. Ionetics, Inc., 749 F.2d 653 (Fed. Cir. 1986) .. 27 
+
+
+O'Reilly v. Morse, 15 How. (56 U.S.) 62 (1853) ........ 20 
+Odiorne v. Winkley, 18 F. Cas. 581 
+
+PE Sib edadsasosccccccseticess 20 
+Royal Typewriter Co. v. Remington Rand, 
+
+Be ee GE Bocce cccccccccccccoces 22 
+
+
+Sargent v. Hall Safe & Lock Co., 114 U.S. 63 (1885) .... 23 
+
+
+Seymour v. Osborne, 78 U.S. (11 Wall.) 516 (1870) ..... 35 
+Shepard v. Carrigan, 116 U.S. 593 (1886) ............ 34 
+Smith v. Magic City Kennel Club, Inc., 
+EE 25, 26 
+Sperry v. Florida Ex Rel. Florida Bar, 
+EEE eee 27 
+Topliff v. Topliff, 145 U.S. 156 (1892) ............ 27, 28 
+Warner-Jenkinson Co. v. Hilton Davis Chemical Co., 
+ai on elndvedné6ésecce passim 
+Union Paper-Bag Machine Co. v. Murphy, 
+a  Udbebasns degléecéaccevecsces 35 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page(s) 
+Statutes and Regulations: 
+I I oe ge Oe tie cod ies tai 1 
+I CN oid Sa a es cas 1 
+CME oii s necdcescuncasbassivkeaustes 1 
+Ck EERE SRLS SEDER 3 
+I | iia ts a cabibcbipiddee tu bGendas 3 
+wk ESS RT SER tee 4, 6,24 
+I a alee, 4 
+ING aids i Ai videcibines cSiiiiesh 6 
+OMNI MN 5. cect os, thet eedes f 
+8 Re EDS ST Hepsi: te 45 
+CO cs cbiabicedcdaadachadies 45 
+RT area ahs Cr Rey Ore 44 
+
+
+BRIEF FOR THE PETITIONER 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the en banc Federal Circuit (Pet. App. la- 
+155a) is reported at 234 F.3d 558. Prior opinions include the 
+original decision of the court of appeals panel affirming the 
+district court’s judgment of infringement in favor of petitioner 
+(Pet. App. 190a-207a), reported at 72 F.3d 857; this Court’s 
+order granting certiorari, vacating and remanding for further 
+consideration, reported at 520 U.S. 1111; and the decision of 
+the court of appeals panel after remand reinstating the judgment 
+
+
+in favor of petitioner (Pet. App. 156a-189a), reported at 172 
+F.3d 1361. 
+
+
+JURISDICTION 
+
+
+The district court had jurisdiction under 28 U.S.C. 1338(a). 
+The jurisdiction of the court of appeals rested on 28 U.S.C. 
+1295(aX(1). The decision of the en banc court of appeals was 
+rendered on November 29, 2000. The Chief Justice extended 
+the time for filing a petition for a writ of certiorari to and 
+including April 9, 2001, and the petition was filed on that date 
+and granted on June 18, 2001. This Court has jurisdiction 
+under 28 U.S.C. 1254(1). 
+
+
+STATUTORY PROVISIONS INVOLVED 
+
+
+Pertinent provisions of the Patent Code (35 U.S.C. 101-103, 
+
+111-112, 271(a)) are set forth in the Appendix, infra. 
+STATEMENT OF THE CASE 
+
+Under the doctrine of equivalents, which this Court 
+acknowledged before the Civil War and reaffirmed as recently 
+as 1997, “a product or process that does not literally infringe 
+upon the express terms of a patent claim may nonetheless be 
+found to infringe if there is ‘equivalence’ between the elements 
+of the accused product or process and the claimed elements of 
+the patented invention.” Warner-Jenkinson Co. v. Hilton Davis 
+
+
+2 
+
+
+Chem. Co., 520 U.S. 17, 21 (1997). Without the protection of 
+the doctrine of equivalents, patent-holders would be at the 
+mercy of copyists who could appropriate to their use the 
+essence of an invention by simply introducing a minor and 
+insubstantial variation from the literal terms of just one of the 
+elements described in the patent. 
+
+
+In Warner-Jenkinson, the Court specifically rejected the 
+contention that the doctrine of equivalents should be discarded 
+with respect to any patent claim amended during prosecution of 
+the patent. Rather, the Court concluded, estoppel should be 
+reserved for amendments made “to address a specific concern 
+* * * that arguably would have rendered the claimed subject 
+matter unpatentable.” 520 U.S. at 30-31. For all practical 
+purposes, the Federal Circuit’s decision in this case undoes this 
+Court’s work and flouts its reasoning. 
+
+
+Most patents are iusued only after one or more amendments 
+have been made. Sometimes those amendments redefine the 
+subject matter of the invention, and sometimes they are 
+intended to meet formal or stylistic requirements for proper 
+description of an invention; rarely are they submitted for 
+reasons unrelated to any requirement for obtaining issuance of 
+a patent. If endorsed by this Court, the new principles 
+announced by the Federal Circuit will effectively strip most 
+existing patents of the vital protection provided by the doctrine 
+of equivalents and may be expected in the future to alter 
+radically the practices followed in applying for patents. 
+
+
+A. The Patent Application Process 
+
+
+We begin with a brief review of the structure of the Patent 
+- Code and the patent application process, which serves as 
+important background for the consideration of the issues 
+presented by the case. Two chapters of the Patent Code set out 
+what may be patented and how a patent may be obtained. 
+Chapter 10 (35 U.S.C. 100-104) deals with “Patentability of 
+
+
+a —_ 
+
+
+3 
+
+
+Inventions” and limits the permissible subject matter for a 
+patent. (It should be noted that the term “Patentability” as used 
+in the Code and in prior decisions of this Court (see p. 26, 
+infra), has a far narrower meaning than that ascribed to it by the 
+Federal Circuit.) Chapter 11 (35 U.S.C. IM-122) deals with 
+the “Application for Patent” and sets out drafting requirements 
+for a patent application. To the extent the amendments in this 
+case were responding to a rejection by the patent examiner, the 
+grounds therefor arose under Chapter 11. 
+
+
+In explaining “Patentability,” the Code first sets out 
+requirements of novelty and utility. Section 101, headed 
+“Inventions Patentable,” provides that a patent may be granted 
+for any “process, machine, manufacture, or composition of 
+matter” that is both “new and useful,” or for an improvement on 
+an older invention if the improvement is “new and useful” in its 
+own right. 35 U.S.C. 101. Sections 102 and 103 each are 
+headed “Conditions for Patentability”; each addresses the 
+relation of an invention to prior art in the relevant field. 
+Section 102 elaborates on the requirement of novelty, in 
+principal part denying patentability to inventions that were first 
+invented by someone other than the applicant (i.e., weve 
+anticipated), or that the applicant disclosed to the public in 
+certain defined ways (e.g., through sale or permissive public 
+use) more than one year before the patent application was filed. 
+Id. § 102. Section 103 rejects patentability if the “subject 
+matter sought to be patented,” even if not precisely anticipated 
+or disclosed within the terms of Section 102, nonetheless differs 
+from the “prior art” only in ways that “would have been 
+obvious at the time the invention was made to a person having 
+ordinary skill in the art to which said subject matter pertains.” 
+35 U.S.C. 103(a). 
+
+Section 112 sets out the formal requirements ‘>r drafting 
+‘he specification, which is the principal part of a patent 
+application. Among other things, Section 112 imposes 
+
+
+4 
+
+
+standards of clarity and enablement on the specification, 
+requiring that the invention be described “in such full, clear, 
+concise, and exact terms as to enable any person skilled in the 
+art to which it pertains * * * to make and use” it, while 
+“set[ting] forth the best mode contemplated by the inventor for 
+carrying out his invention.” 35 U.S.C. 112, ¢ 1. 
+
+
+An inventor wishing to obtain a patent must file an 
+application with the United States Patent and Trademark Office 
+(“PTO”) describing his invention. The application is assigned 
+to an examiner, who reviews it to ascertain whether what is 
+defined in the claims is in fact patentable and whether its claims 
+are described in the form required by the Patent Act. 
+
+
+If there are doubts about the merits or form of the ~ 
+
+
+application, as there often are, the application may be rejected 
+on specified grounds, or a process of negotiation between the 
+applicant and the examiner may occur. In either case, what 
+generally ensues are one or more amendments to the 
+application, leading eventually, if the applicant is successful, to 
+issuance of a patent entitling its holder to control use of the 
+invention during its 20-year term. 
+
+
+A patent-holder who believes that an unlicensed person is 
+practicing the invention may bring an infringement action for 
+injunctive relief and damages. To show literal infringement, 
+the plaintiff must establish that the accused product replicates 
+every element set forth in one or more claims of the patent. In 
+addition, however, in order to protect against copyists 
+misappropriating the essence of an invention by copying all but 
+one or two elements and making only minor or insubstantial 
+changes in those, the patent-holder may establish infringement 
+under the doctrine of equivalents. 
+
+The specification and the claims contained in the language 
+of the patent thus serve as the primary source for definition of 
+the invention. But the public and the courts are also guided in 
+
+
+5 
+
+
+that interpretive process by the history of the prosecution of the 
+patent. As traditionally applied, the doctrine of prosecution 
+history estoppel prevents a patentee from recapturing 
+equivalents that were clearly surrendered to obtain the patent. 
+
+
+B. The Prosecution of the Rodless Cylinder Patents 
+
+
+The present case asserted infringement by respondent SMC 
+of U.S. Patent Nos. 4,354,125 (Stoll) and 3,779,401 (Carroll), 
+both owned by petitioner Festo Corporation. Pet. App. 32a. 
+Festo’s claims were successful in the trial court, which awarded 
+an injunction and millions of dollars in damages, and were 
+upheld in two Federal Circuit panel decisions before being 
+rejected in full by the en banc Federal Circuit. 
+
+
+The magnetically coupled rodless cylinder inventions of the 
+two patents at issue are each the result of years of development 
+by their inventors, Dr. Kurt Stoll and Mr. George Carroll 
+(CAFC Jt. App. A574-578, A1378-1384). Commercial 
+embodiments of the inventions resulted in applications as 
+diverse as sewing equipment to assist people with disabilities 
+(Jt. App. I-147 to 148)+to attractions at Disney World (Jt. App. 
+I-93). 
+
+
+In the litigation below, SMC was held to have infringed the 
+two Festo patents on the basis of the doctrine of equivalents. 
+Pet. App. 32a. SMC’s accused product differed from the 
+patented Festo product only insofar as (1) it embodied 
+insubstantial changes in the arrangement of sealing and guide 
+rings positioned on the piston within the cylinder tube and (2) 
+the outer sleeve of the cylinder was composed of a different 
+metal. Pet. App. 38a-39a. 
+
+
+I, Prosecution History of the Stoll Patent 
+
+
+The Stoll patent describes and claims a significantly 
+
+
+improved magnetically coupled rodless cylinder. Jt. App. II-1 
+to 6. Magnetic rodless cylinders are used in a wide range of 
+
+
+6 
+
+
+industrial applications to transport articles from one point to 
+another. The magnetically coupled cylinders include three 
+basic components: a piston assembly, a cylinder tube, and a 
+follower assembly. Pet. App. 33a. The piston inside the tube 
+is moved by fluid under pressure introduced at either end of the 
+tube. Because the piston and the follower outside the tube are 
+magnetically linked, there is no need for a mechanical linkage, 
+and the follower, and an article attached to it, moves in the 
+same direction outside the tube. Jbid. 
+
+
+Dr. Kurt Stoll’s original patent application was an English- 
+language translation of a German patent application. Pet. App. 
+39a. That is not uncommon: many applications claim priority 
+from applications originally filed in other countries, and are 
+translated from the native language of the foreign application 
+into English. 35 U.S.C. 119. Other countries, however, have 
+very different standards for the form of patent claims. Thus, it 
+frequently happens that a literal translation of the claims from 
+a foreign application will fail to satisfy the requirements of 35 
+U.S.C. 112. Under such circumstances, it may be necessary to 
+delete the unclear literal translation of a claim and submit a new 
+claim for examination by the patent examiner that conforms to 
+U.S. patent practice; amendments made for such reasons rarely 
+reflect any intention to surrender any protection. 
+
+
+The Patent Office rejected the initial Stoll application under 
+35 U.S.C. 112. Jt. App. I-30 to 32. The patent examiner 
+indicated that the “exact method of operation [was] unclear,” 
+see 35 U.S.C. 112, ¥¥ 1-2, and asked, “Is [the] device a true 
+motor or magnetic clutch?” Jt. App. I-31. The examiner also 
+rejected claims 4-12 because they were “improperly multipl[y] 
+dependent” (ibid.), that is, multiple dependent claims depended 
+on other multiple dependent claims. That form of claiming is 
+acceptable in Europe, see Jt. App. I-122, but is forbidden by 35 
+U.S.C. 112,45. The examiner did not assert that any prior art 
+
+
+7 
+
+
+anticipated the Stoll invention or rendered it obvious. Pet. App. 
+146a; Jt. App. I-121 to 123. 
+
+
+In response, Stoll submitted a single new independent claim 
+in order to clarify the nature of the device. Pet. App. 40a-41a, 
+185a. Original Claim 1 had claimed a “sealing means at each 
+end [of the piston] for [w]iping engagement with an internal 
+surface of the tubular part and so as to form a seal for the 
+pressure medium.” Jt. App. II-24. New Claim | incorporated 
+the limitation to two sealing rings that had originally appeared 
+in dependent Claim 4. New Claim 1 also incorporated a 
+limitation from prior dependent Claim 8 requiring that the outer 
+sleeve of the device be made of a magnetizable material. Pet. 
+App. 185a. Stoll also amended the remaining dependent claims 
+to bring them into proper U.S. format. 
+
+
+Along with his amendment, Dr. Stoll submitted two earlier 
+German patents belonging to Festo. Pet. App. 40a. He 
+explained that these patents did not anticipate his invention 
+because neither patent disclosed “the use of structure 
+preventing the interference of impurities located inside the tube 
+and on the outside of the tube while the arrangement is moved 
+along the tube.” Jt. App. II-39 to 40; Pet. App. 185a-186a. 
+Stoll’s original Claim | claimed this distinguishing structure as 
+the “sealing means” on the piston and the “means at each end” 
+of the follower assembly “for wiping engagement with an 
+external surface of the tubular part.” Jt. App. I-24. Therefore, 
+original Claim | and the newly submitted independent claim 
+were both distinguishable from these German references in the 
+same fashion. Thus, the amendment did not indicate any 
+surrender of subject matter. 
+
+
+In response to the amendment, the examiner proposed to 
+allow the application, provided references to “linear motors” in 
+the specifications were replaced with more appropriate 
+terminology. Jt. App. I-59. Stoll submitted a further 
+
+
+amendment to comply with this demand (Jt. App. II-62), and 
+the patent issued (Jt. App. II-64). 
+
+
+2. Prosecution History of the Carroll Patent 
+
+
+The relevant prosecution history of the Carroll patent 
+occurred when Festo requested a reexamination in light of its 
+own German Patent No. 1,982,379, which had not been 
+considered during initial examination. The German patent 
+discloses a rodless cylinder having several features of the 
+device described in the Carroll patent, including sealing rings. 
+Pet. App. 173a. 
+
+During reexamination, the issued claims were cancelled and 
+Festo submitted a new claim including additional elements. Jt. 
+App. II-180 to 186. Festo argued during reexamination that the 
+claimed features of the plurality of spaced magnets and the end 
+members and cushions distinguished the Carroll invention from 
+that described in the German patent. See ibid.; Pet. App. 173a. 
+Festo’s new claim also added the limitation of a pair of sealing 
+rings at opposite ends of the piston assembly, but never 
+identified the sealing rings as a point of distinction from the 
+German patent. Indeed, the pair of sealing rings did not 
+distinguish over the German patent, which also disclosed a pair 
+of sealing rings on the piston. Jt. App. II-159; Il-173, ref. 
+Numeral 1b and Ic. The examiner allowed the new claim and, 
+
+ike Festo, did not identify the sealing rings as a basis for 
+distinguishing the German patent. Pet. App. 173a; Jt. App. II- 
+188 to 189. 
+
+
+C. Prior Proceedings 
+1. District Court 
+
+
+The magnetically coupled rodless cylinders covered by the 
+Stoll and Carroll patents were unique, door-opener products 
+that Festo used to interest customers in its entire product line. 
+Jt. App. I-91. After Festo enjoyed seven years of strong sales, 
+
+
+ee 
+
+
+9 
+
+
+respondent SMC entered the market with a rodless pneumatic 
+cylinder that was identical to the Festo device except that it 
+used one rather than two sealing rings and constructed the 
+cylinder sleeve of a different metal. Jt. App. I-92. 
+
+
+Festo sued SMC in the District of Massachusetts for 
+infringing the Stoll and Carroll patents. The district court 
+granted Festo summary judgment with respect to infringement 
+of the Carroll patent, concluding that SMC’s rodless cylinders 
+having two sealing rings literally infringed the Carroll patent 
+and that the SMC devices having a single two-way sealing ring 
+infringed the Carroll patent under the doctrine of equivalents. 
+A jury then concluded that the accused SMC devices infringed 
+the Stoll patent under the doctrine of equivalents. Pet. App. 
+32a. 
+
+
+2. Initial Appeal and Decision on Remand 
+
+
+A panel of the Federal Circuit affirmed (Pet. App. 190a- 
+207a), but this Court granted certiorari, vacated the judgment 
+and remanded the case for further consideration in light of 
+Warner-Jenkinson, in which the Court unanimously reaffirmed 
+the vitality of the doctrine of equivalents. 
+
+
+On remand, the panel rejected SMC’s arguments that an 
+estoppel should arise regardless of the reasons for an 
+amendment. It noted that Warner-Jenkinson specifically 
+declined to adopt a “more rigid rule invoking estoppel 
+regardless of the reason for the change.” Pet. App. 172a 
+(quoting 520 U.S. at 32). The panel cited the statement in 
+Warner-Jenkinson that, where an amendment was “not related 
+to avoiding the prior art, the change may introduce a new 
+element, but it does not necessarily preclude infringement by 
+equivalents of that element.” Pet. App. 172a (quoting 520 U.S. 
+at 33). 
+
+
+10 
+
+
+The panel held, with respect to the Carroll patent, that 
+because the amendment was made voluntarily and not in 
+response to any objection by the patent examiner, prosecution 
+history estoppel did not limit application of the doctrine of 
+equivalents. Pet. App. 174a-175a. With respect to the Stoll 
+patent, the panel held that one amendment was likewise 
+voluntary, not made to avoid the prior art, and thus prosecution 
+history estoppel did not apply. Pet. App. 188a. Because the 
+other amendment in this patent presented an “unresolved 
+issue,” however, the Federal Circuit panel remanded to the 
+district court to determine whether the Warner-Jenkinson 
+presumption should apply and if so, whether it could be 
+rebutted. Jbid. 
+
+
+3. The En Banc Decision 
+
+
+A sharply divided en banc court of appeals, by an 8-4 vote 
+and with seven separate opinions, reversed the finding of 
+infringement as to both patents. Pet. App. la-156a. First, the 
+majority held that an amendment made to satisfy any statutory 
+requirement for patentability, even if unrelated to prior art, will 
+trigger prosecution history estoppel. Pet. App. 3a, 8a-lla. It 
+stated (id. at 10a-1 1a): 
+
+In view of the functions of prosecution history 
+estoppel — preserving the notice function of the 
+claims and preventing patent holders from 
+recapturing under the doctrine of equivalents 
+subject matter that was surrendered before the 
+Patent Office — we see no reason why 
+prosecution history estoppel should not also 
+arise from amendments made for other reasons 
+related to patentability * * *. 
+
+Second, the court held that a “voluntary” claim amendment 
+not made in response io any objection by the patent examiner 
+could trigger an estoppel. Pet. App. 3a-4a, lla-13a. In its 
+
+
+11 
+
+
+view, any amendment, voluntary or not, “signal[s] to the public 
+that subject matter has been surrendered” (id. at 12a), and it 
+makes no difference whether the belief in unpatentability 
+derives from the examiner or the applicant. 
+
+Third, the en banc court concluded that whenever a claim 
+amendment creates an estoppel, no equivalents of any kind are 
+available as to that element. Pet. App. 4a, 13a-30a. The 
+majority began with a lengthy discussion of this Court’s 
+decisions, which, it concluded, did not squarely foreclose its 
+ruling. Jd. at 13a-19a. It acknowledged that a long line of its 
+own cases had applied a “flexible bar” approach to prosecution 
+history estoppel, in which the range of permissible equivalents 
+rested on “a determination as to the exact ‘subject matter the 
+patentee actually surrendered.’” Jd. at 23a (quoting Hughes 
+Aircraft Co. v. United States, 140 F.3d 1470, 1476-1477 (Fed. 
+Cir. 1998)). The majority concluded, however, that this 
+approach had proven unworkable because difficulties in 
+applying the doctrine of equivalents impaired predictability of 
+results (Pet. App. 24a-25a); its new complete-bar rule would, 
+it believed, promote desirable certainty in ascertaining the 
+scope of the patent. It also opined that in practice the flexible 
+bar rule enabled applicants to escape the consequences of the 
+disclaimer of subject matter inhering in claim-narrowing 
+amendments (id. at 26a). Finally, the court stated that its rule 
+ensuing diminutions in patent protection would benefit the 
+public by allowing its members more freely to “improve on the 
+patented technology and design around it without being 
+inhibited by the threat of a lawsuit * * *.” Jd. at 30a. 
+
+On the fourth legal question it addressed, the majority 
+expanded the presumption recognized in Warner-Jenkinson. 
+The presumption as delineated in that case applied to “an 
+amendment required during patent prosecution.” 520 U.S. at 
+33. If the prosecution history did not establish the reason for 
+
+
+patent applicant had a substantial reason related to patentability 
+for including the limiting element added by amendment.” Jbid. 
+Unless the patent-holder could establish the reason for the 
+amendment, prosecution history estoppel would apply to the 
+amended element. /bid. 
+
+
+The Federal Circuit majority, however, applied the 
+presumption to all amendments, required or not, while 
+
+
+forbidding the patentee to present evidence beyond the © 
+
+
+prosecution history itself in order to show that an amendment 
+was made for a reason unrelated to patentability. See Pet. App. 
+47a. Once the presumption was raised — which occurs when 
+amendment — the presumption would be conclusive, because 
+no evidence outside the prosecution history could be adduced 
+to rebut the presumption. Thus, as the Federal Circuit 
+constructed it, prosecution history estoppel completely bars the 
+application of the doctrine of equivalents to any claim element 
+subject to an amendment for which the prosecution history 
+itself did not indicate a reason. [bid. 
+
+
+Having set forth these principles, the majority quickly 
+dispatched both the Carroll and Stoll patents to oblivion, 
+finding that the claims had in each instance been narrowed and 
+that the arrangement of sealing rings and composition of the 
+sleeve in SMC’s accused product, although not materially 
+different from the product described in Festo’s patent, did not 
+literally infringe the patent. Because under its holdings the 
+narrowing amendments completely barred all resort to the 
+doctrine of equivalents, the court reversed Festo’s judgment 
+
+
+Judge Plager concurred, though characterizing the 
+majority’s new approach as “a second-best solution to an 
+
+
+unsatisfactory situation.” Pet. App. 56a. He warned, however, 
+
+
+13 
+
+
+that “[u}nfortunately, this attempt at injecting certainty into the 
+consequences that may do nothing but exacerbate the problem.” 
+Id. at 58a. Judge Lourie also concurred, agreeing with the 
+majority that the existing flexible bar rule was unworkable and 
+contending that the Federal Circuit was not constrained by 
+Warner-Jenkinson from reaching the result it did (id. at 65a) 
+and that any expectations of the patent bar that may have been 
+eee 
+
+
+The en banc decision provoked several vigorous dissents. 
+Reviewing more than a century of precedent, Judge Michel, 
+concurring and dissenting, joined by Judge Rader, maintained 
+that the majority’s complete bar “contradicts Supreme Court 
+precedent and policy.” Pet. App. 69a. He also noted the harsh 
+retroactive effect of the majority’s new rule (ibid.): 
+
+
+[Because most patents contain claims that were 
+amended during prosecution, the maijority’s 
+holding effectively strips most patentees of their 
+rights to assert infringement under the doctrine 
+of equivalents, despite the Supreme Court’s 
+unanimous adherence to the doctrine in Warner- 
+Jenkinson. 
+
+Judge Michel also warned of the sweeping consequences of 
+depriving even one claim in each patent of all protection of the 
+doctrine of equivalents (Pet. App. 74a): 
+
+[aJnyone who wants to steal a patentee’s 
+technology need only review the prosecution 
+history to identify patentability-related 
+amendments, and then make a trivial 
+modification to that part of its product 
+corresponding to an amended claim limitation. 
+
+
+14 
+
+
+The net effect was plain: “[MJost patentees will lose the 
+protection against copying that the Supreme Court unanimously 
+reaffirmed in Warner-Jenkinson.” Ibid. Judge Michel 
+concluded that the ruling “will upset basic assumptions 
+mpeg Se nee ae Cee, oe SS 
+disrupt commercial relations based on these assumptions.” Pet. 
+App. 11 la. 
+
+
+Judge Rader wrote separately to warn that “[w]ithout a 
+doctrine of equivalents, any claim drafted in current 
+technological terms could be easily circumvented after the 
+advent of an advance in technology.” Pet. App. 11 1a. 
+
+Judge Linn, concurring and dissenting, joined by Judge 
+Rader, stated (Pet. App. 1 13a) that 
+
+[T]he new bright line rule, as simple as it is 
+hoped to be in application, wrongfully sets in 
+place a regime that increases the cost and 
+complexity of patent prosecution to the 
+detriment of individual inventors, start-up 
+companies, and others unable to bear these 
+increased costs. The new regime * * * gives 
+unscrupulous copyists a free ride on the 
+coattails of legitimate inventors; and changes 
+the rules under which prosecution strategies 
+were formulated for thousands of extant patents 
+no longer subject to correction. 
+
+Finally, Judge Newman, also concurring and dissenting, 
+demonstrated that the majority opinion departs from Warner- 
+Jenkinson in three ways (Pet. App. 132a): 
+
+First, the majority holds that all equivalency is 
+barred as to any claim element that is narrowed 
+
+
+or added for reasons relating to patentability; 
+access to the doctrine of equivalents is barred 
+
+
+15 
+
+
+whether or not the [Supreme] Court’s new 
+rebuttable presumption arises and whether or 
+not it is rebutted. Second, the majority denies 
+consideration to any rebuttal evidence that is not 
+already in the prosecution record, thereby 
+converting the [Warner-Jenkinson] rebuttable 
+presumption into an irrebuttable fiat. Third, the 
+majority’s inappropriately broad definition of 
+“reasons related to patentability” further limits 
+a patentee’s access to equivalency, and 
+exacerbates the conflict with the holdings of 
+Warner-Jenkinson. The result is to negate 
+infringement by equivalents, as a matter of law, 
+thereby providing a blueprint for ready 
+imitation of patented products. 
+
+
+This Court subsequently granted the petition for a writ of 
+SUMMARY OF ARGUMENT 
+
+
+The Federal Circuit has deformed the traditional functions 
+of prosecution history estoppel and the doctrine of equivalents. 
+The court expanded estoppel to cover all patents that have been 
+amended for reasons related to “patentability” whether or not 
+the amendments surrendered any subject matter. The court 
+simultaneously ruled that any such amendment precludes the 
+patentee from relying on the doctrine of equivalents. Copyists 
+may now proceed by making insignificant changes in any 
+amended claim element, safe in the knowledge that the patentee 
+cannot win an infringement action. The result is to render 
+virtually valueless almost all existing and future patents. 
+
+I. 
+
+
+a. The Federal Circuit’s new rules flatly contradict this 
+Court’s 1997 Warner-Jenkinson decision, which built upon 
+
+
+16 
+
+
+well over a century of like precedent. Under the historic 
+understanding, prosecution history estoppel limits the doctrine 
+of equivalents only when and to the extent that subject matter 
+has been surrendered in order to render a structure or process 
+patentable. That is the function of all estoppels known to the 
+law — to prevent a party from gaining an advantage by 
+contradicting his own prior representation. That is likewise the 
+
+
+rationale this Court has consistently used in applying © 
+
+
+prosecution history estoppel. Festo’s amendments to its patent 
+claims did not surrender any subject matter and should not 
+create any estoppel. 
+
+
+The Federal Circuit’s fundamental error was _ its 
+misunderstanding of the word “patentability,” used by this 
+Court in Warner-Jenkinson to describe the kinds of 
+amendments that could give rise to an estoppel, and construed 
+below to encompass any requirement of the Patent Code that 
+must be satisfied in order to secure issuance of a patent. That 
+is not, however, what “patentability” means. This is plain from 
+the Patent Code itself: Sections 101-103, which deal with the 
+subject matter covered by the invention, come under the chapter 
+heading “Patentability of Inventions,” while Section 112, the 
+primary source of the amendments at issue here, is in the 
+chapter describing the “Application for Patent.” The latter, 
+therefore, although requirements for issuance of a patent, 
+simply are not requirements relating to “patentability.” This is 
+further confirmed by this Court’s cases stating that 
+“patentability” involves the subject matter provisions only. 
+E.g.. Graham v. John Deere Co., 383 U.S. 1, 12 (1966). 
+
+
+b. Warner-Jenkinson created a rebuttable presumption of 
+estoppel when the reason for an amendment is unknown. The 
+Federal Circuit, however, held that the reason must be apparent 
+from the prosecution history and that no extrinsic evidence can 
+be considered. This makes no sense. If the reason is shown by 
+the record, there is no occasion for having a presumption. It is 
+
+
+17 
+
+
+clear, moreover, that this Court contemplated that the 
+presumption would be rebuttable; its remand would otherwise 
+have been pointless. But the exclusion of other evidence 
+destroys the possibility of rebuttal. 
+
+
+c. Warner-Jenkinson also held that even where an estoppel 
+does arise, there may remain some range of subject matter that 
+the patentee can claim under the doctrine of equivalents. The 
+Federal Circuit held that no such range of subject matter can 
+exist. The court below thus substituted a comiplete bar for the 
+flexible bar this Court upheld. This substitution wrenches tixe 
+estoppel away from the rationale that justifies it. It is wrong as 
+a matter of law, logic, and policy. 
+
+
+Il. 
+
+
+The Federal Circuit’s sole reason for legislating new rules 
+in conflict with those heretofore applied in this Court is its 
+belief in the superiority of “rigid” rules as a means of producing 
+certainty regarding the scope of patents. The promise of 
+certainty in a viable patent system, however, is illusory. The 
+drastic negative consequences attached to amendments will 
+drive patent attorneys to (1) appeal all rejections rather than 
+amend and accept an all-encompassing estoppel; (2) file very 
+narrow claims to avoid the need to amend, and rely upon the 
+doctrine of equivalents to capture subject matter not claimed; 
+or (3) abandon the patent system altogether and rely on trade 
+secret law. 
+
+
+None of these alternatives will produce certainty or be 
+compatible with the effective operation of the patent system. 
+If certainty is the trump card, there is no reason to eliminate 
+equivalents only when a patent is amended; the doctrine should 
+be expunged from the law altogether. But that would, as this 
+Court has said, make the patent “a hollow and useless thing.” 
+Graver Tank & Mfg. Co. v. Linde Air Prods. Co., 339 U.S. 605, 
+607 (1950). 
+
+
+18 
+
+
+Ill. 
+
+
+The Federal Circuit’s new rules, by radically reducing the 
+value of patents and liberally allowing imitators to appropriate 
+to themselves the economic value of the patented invention, 
+will greatly discourage investment in innovation. That is 
+contrary to the rationale of the entire patent system as 
+expressed by Congress and discerned by this Court. 
+
+
+At the end of the day, it is important to keep in mind that 
+
+
+SMC’s accused product is functionally the same as Festo’s - 
+
+
+patented products. It captures the essence of the inventions 
+made by Carroll and Stoll, and it departs from the literal patent 
+patent claims only in insubstantial respects that are not 
+materially different from the patented products. It is utterly 
+senseless to jettison 150 years of precedent in order to protect 
+SMC or others of its ilk. 
+
+
+ARGUMENT 
+
+
+This case is about the intersection between two venerable 
+features of patent law: the doctrine of equivalents and that of 
+prosecution history estoppel. The former precludes copyists 
+from appropriating an invention by replicating it with only a 
+minor or insubstantial variation on some element of the claims 
+described in the patent; the latter precludes inventors who 
+deliberately disclaim subject matter in order to render their 
+claims patentable from later seeking to recapture that subject 
+matter by invoking the doctrine of equivalents. 
+
+
+The decision of the Federal Circuit radically alters the prior 
+understanding of the interplay between the doctrines and 
+dramatically expands the traditional reach of prosecution 
+history estoppel. By retroactively removing essential 
+protections from currently outstanding patents, it imposes 
+unfair and unforeseeable penalties on the holders of those 
+patents, rendering most of them effectively unenforceable 
+
+
+19 
+
+
+against unscrupulous copyists. And looking to the future, the 
+
+reduced protections afforded to patents under the new Federal 
+
+Circuit rules will significantly dilute the incentives for 
+
+innovation that constitute the raison d’ etre of the patent system. 
+
+I. THIS COURT SHOULD ADHERE TO ITS 
+TRADITIONAL UNDERSTANDING OF THE REACH 
+OF PROSECUTION HISTORY ESTOPPEL 
+
+
+In Warner-Jenkinson, this Court unanimously rejected the 
+very same “rigid rule” that the Federal Circuit adopted here. 
+See 520 U.S. at 32. The petitioner advocated, unsuccessfully, 
+that any amendment to a patent claim, regardless of the reason 
+for it, should give rise to a prosecution history estoppel barring 
+any application of the doctrine of equivalents. That rule, this 
+Court concluded, reached “too far.” Jd. at 30. 
+
+
+Under the analysis in Warner-Jenkinson and in the 150 
+years of precedent on which it built, the judgment of the court 
+of appeals must be reversed. Reaching “too far” to exclude the 
+doctrine of equivalents from an effective role in most patents is 
+no small adjustment to the patent system. To the contrary, it 
+strikes at its very heart. The decision below treats the doctrine 
+as a source of unnecessary work for harried judges and an 
+unwarranted inhibition of those who would closely reproduce 
+a patented invention. In fact, however, the doctrine of 
+equivalents gives vital substance to the patent right by 
+protecting inventors from the inherent limitations of language 
+in describing (and delimiting) their inventions. See Graver 
+Tank, 339 U.S. at 607. 
+
+
+Patent claims are inherently and unavoidably imprecise at 
+some level of specificity, because it is impossible in drafting 
+them to anticipate every insubstantial variation on each element 
+of the invention. Infringement is clear enough when “an 
+accused device or composition” falls literally within “the words 
+of the claim.” Graver Tank, 339 U.S. at 607. But such 
+
+
+20 
+
+
+“fo}utright and forthright duplication is * * * very rare.” Ibid. 
+Because the ways of tangibly implementing a described 
+structure or process are many, there is usually no need to copy 
+literally every element of an invention; minor details almost 
+always can be changed without altering its operation or result. 
+For that reason, this Court has recognized that the need to 
+express concrete concepts and processes in the words of patent 
+claims should ‘not “place the inventor at the mercy of 
+verbalism” or “subordinat[e] substance to form.” Jbid. 
+
+
+If an inventor’s commercial rival could lawfully imitate a 
+patented invention so long as the rival did “not copy every 
+literal detail,” the patent grant would be “a hollow and useless 
+thing,” Graver Tank, 339 U.S. at 607, since convenience as 
+well as subterfuge may lead to insubstantial substitutions of one 
+element for another. Accordingly, the federal courts, including 
+this Court, long have engaged in a “wholesome realism” (id. at 
+608) and have recognized that a product that substantially 
+duplicates a claim element may infringe even though it does not 
+literally replicate the element. Justice Story was instructing 
+juries to that effect nearly two hundred years ago (see Odiorne 
+v. Winkley, 18 F. Cas. 581, 582 (C.C. D. Mass. 1814)), and this 
+Court viewed the doctrine as “a well-settled principle of law” 
+by the middle of the 19th Century. O’Reilly v. Morse, 15 How. 
+(56 U.S.) 62, 123 (1853). 
+
+
+Although the doctrine of equivalents sometimes may be 
+invoked in infringement litigation against sincere but misguided 
+efforts to design around patents as well as against blatant 
+copying, the protection of the doctrine is absolutely necessary 
+to prevent the “practice fof] fraud on a patent.” Graver Tank, 
+339 U.S. at 607. See also Warner-Jenkinson, 520 U.S. at 34-36 
+(refusing to limit application of the doctrine to cases of proven 
+
+
+intentional copying). If divergence from the strict terms of one ; 
+
+
+element of a patent claim excuses what otherwise would be 
+infringement, then an “unscrupulous copyist” has a clear path 
+
+
+21 
+
+
+“to make unimportant and insubstantial changes and 
+substitutions in the patent” while escaping liability. Graver 
+Tank, 339 U.S. at 607. That is far too high a price to pay for 
+the mere convenience of “a brighter line” that makes routine 
+claim amendments the basis for effectively withdrawing patent 
+protection, and does so, we submit, in wholly arbitrary fashion. 
+See Warner-Jenkinson, 520 U.S. at 32 n.6. 
+
+
+A. Prosecution History Estoppel Limits the Doctrine of 
+Equivalents Only When Subject Matter Has Been 
+Surrendered In Order To Render The Claimed 
+Subject Matter Patentable 
+
+
+Prosecution history estoppel is but one of four significant 
+limitations to the application of the doctrine of equivalents. 
+First and foremost, the doctrine requires the patent holder to 
+prove that the accused device includes only insubstantial 
+changes from the patented invention and is therefore truly 
+equivalent. Warner-Jenkinson, 520 U.S. at 27-28, 39-40. 
+Second, under the all-elements rule, the accused device must 
+replicate each and every claim element or its equivalent. Jd. at 
+29-30. Third, an asserted equivalent cannot infringe if the 
+presence of that equivalent would bring the accused device 
+within the prior art. Jd. at 31 (citing Keystone Driller Co. v. 
+Northwest Engineering Corp., 294 U.S. 42, 48 (1935)). Fourth, 
+equivalents that have been disclaimed during prosecution 
+before the Patent and Trademark Office may not be recaptured 
+in litigation by asserting equivalents. Jd. at 30-33. 
+
+
+Festo’s infringement action meets all of those requirements. 
+Only the fourth, the scope of prosecution history estoppel, is 
+contested here. It is contested not on the facts — equivalence 
+is established, and Festo did not disclaim relevant subject 
+matter in securing the patents — but on the law: SMC contends 
+that estoppel arises even without any disclaimer of subject 
+matter, and that any narrowing amendment completely bars 
+
+
+22 
+
+
+invocation of the doctrine of equivalents regardless of its 
+purpose. 
+
+
+Imposing an estoppel without a detectable disclaimer works 
+injustice. Where competitors choose to create substantially 
+similar products to those claimed in a patent, the doctrine of 
+equivalents must be available to “prevent the infringer from 
+stealing the benefit of the invention.” Graver Tank, 339 U.S. 
+at 608 (quoting Judge Learned Hand in Royal Typewriter Co. 
+v. Remington Rand, 168 F.2d 691, 692 (2d Cir. 1948)). The 
+Federal Circuit’s drastic expansion of prosecution history 
+estoppel would severely curtail the ability of the doctrine of 
+equivalents to perform this crucial function. 
+
+
+The Federal Circuit rule tears the estoppel principle from its 
+roots. Estoppel is an equitable doctrine that prevents a party 
+from obtaining a benefit by contradicting a previous assertion 
+from which he gained advantage. He may not surrender a 
+position or a claim to achieve one purpose and then attempt to 
+reassert that which was abandoned to achieve another purpose. 
+Davis v. Wakelee, 156 U.S. 680, 689 (1895). Accordingly, it is 
+deemed inequitable to permit a patent holder, once having 
+secured a patent through the surrender of subject matter, to 
+reclaim the same subject matter by asserting the doctrine of 
+equivalents. 
+
+
+In addition, insofar as an estoppel is justified to enforce the 
+public’s right to rely on what is disclosed by the record of the 
+prosecution of the patent, that goal has force only to the extent 
+the surrender was such that a competitor would reasonably 
+believe that a disclaimer has taken place. This explains why 
+prosecution history estoppel has heretofore been limited to 
+amendments made in response to objections about novelty or 
+obviousness, see Warner-Jenkinson, 520 U.S. at 30-32. In that 
+‘context a competitor may reasonably rely on the applicant’s 
+surrender of subject matter as an acquiescence in the 
+
+
+23 
+
+
+examiner’s judgment that the earlier claim in fact was 
+anticipated by, or obvious in light of, prior art. 
+
+The fact that limitations have been added to a claim does 
+not in itself evince a surrender of equivalents for the added 
+elements. See Goodyear Dental Vulcanite Co. v. Davis, 102 
+U.S. 222, 223-227 (1880); Sargent v. Hall Safe & Lock Co., 
+114 U.S. 63, 86 (1885) (quoting Fay v. Cordesman, 109 U.S. 
+408, 420 (1883) (addition of element in response to rejection 
+leaves open question whether in an accused device that element 
+“is supplied by an equivalent”)). Assume that an applicant for 
+a patent mistakenly omits a claim element that links two other 
+elements of a claim. Although the claim would otherwise be 
+allowable in view of the prior art, the patent examiner rejects 
+the application under § 112 because a necessary linking 
+element was omitted. The applicant amends the claim to add 
+the linking element, and the claim is then allowed. Under the 
+new Federal Circuit rule, the claim amendment, though it 
+
+tered nothl id ‘on hi estoppel 
+preventing reliance upon the doctrine of equivalents. That 
+result is inequitable and unconnected to the rationale for 
+enforcing estoppels. The patentee has not sought an advantage 
+by contradicting his own previous assertion. 
+
+As Judge Michel explained in dissent, an estoppel applied 
+under these circumstances “is hardly an ‘estoppel’ at all.” Pet. 
+App. 73a. The Federal Circuit ignores the context of 
+amendments within the prosecution history, giving no 
+consideration to “whether a reasonable competitor would rely 
+on the nature of the rejections and of the amendments and 
+statements between the applicant and the ¢xaminer as evidence 
+of a surrender of subject matter.” Jbid. The Federal Circuit has 
+transformed a rule of equity into a conclusive legal presumption 
+of dramatically wider scope that is wholly unlike traditional 
+estoppels. 
+
+
+24 
+
+
+That dramatic transformation is illustrated by the case at 
+bar. With respect to the Stoll patent, the claims were rejected 
+only under 35 U.S.C. 112 for lack of clarity and improper 
+format (Jt. App. [I-30 to 32); no prior art rejection was ever 
+made by the examiner. In response, Festo cancelled the only 
+independent claim as well as several dependent claims and 
+from the cancelled claims. Jt. App. II-36 to 40. Neither of the 
+two limitations here at issue (sealing rings and composition of 
+sleeve) was required during prosecution for patentability over 
+the prior art. This Court has never held such amendments made 
+in response to a § 112 rejection to create any estoppel, much 
+less a complete bar to the doctrine of equivalents (see Point 
+\(B), infra). 
+
+
+1. The Federal Circuit’s rule is wholly inconsistent 
+
+
+with the way this Court has applied prosecution 
+history estoppel. 
+
+
+Under the Federal Circuit’s new rule, prosecution history 
+estoppel arises in connection with amendments made for “any 
+reason related to the statutory requirements for a patent.” Pet. 
+from amendments made to avoid prior art but also from 
+amendments made to overcome rejections based on the formal 
+and linguistic requirements of Section 112. Under this 
+
+
+' The en banc majority suggested, in unelaborated ipse dixit, that the 
+amendments were motivated by the prior art. See Pet. App. 52a. This was 
+clear error. Neither the district court nor two panels of the court of appeals 
+had found that the amendments were motivated by the prior art, SMC itself 
+had not even asserted it, and there was no evidence from which the 
+conclusion could fairly be drawn. To the contrary, it is in fact clear that 
+none of the prior art required the addition of the elements now at issue. 
+Even were that disputable, the majority’s characterization would represent 
+exercise of a fact-finding power it does not possess. 
+
+
+25 
+
+
+But while amendments that avoid the prior art are meant to 
+surrender previously overbroad subject matter claims, those 
+that merely clarify or otherwise improve the description of the 
+invention do not necessarily surrender anything. 
+
+The protestations of the majority below notwithstanding, it 
+is plain that its approach departs dramatically from this Court’s 
+prior delineations of the circumstances giving rise to estoppel. 
+As the Court pointed out in Warner-Jenkinson, 520 U.S. at 31, 
+its earlier cases had unfailingly “probed the reasoning behind 
+the Patent Office’s insistence ee 
+imposed an estoppel “only where claims have 
+for a limited set of reasons.” Jd. at 32. After carefully 
+reviewing those cases, the Court concluded that “[wJhere the 
+reason for the change was not related to avoiding the prior art, 
+the change may introduce a new element, but it does not 
+necessarily preclude infringement by equivalents of that 
+element.” /d. at 33. This is precisely the case at bar. None of 
+the elements at issue were amended in view of prior art, and 
+SMC’s product has been found to meet all the requirements for 
+infringement under the doctrine of equivalents. 
+
+
+Indeed, the Court repeatedly referred to “prior art” in 
+discussing the types of amendments that create prosecution 
+history estoppel (see 520 U.S. at 30, 31 & n.5 (five references), 
+33 & n.7), observing that in its decisions “prosecution history 
+estoppel was tied to amendments made to avoid the prior art, or 
+otherwise to address a specific concern — such as obviousness 
+— that arguably would have rendered the claimed subject 
+matter unpatentable.” Jd. at 30-31. Consistently with this 
+description, the Court has never invoked an estoppel based on 
+file history where prior art was not the reason for the 
+amendment. See, e.g., Exhibit Supply Co. v. Ace Patents Corp., 
+315 U.S. 126, 136 (1942); Keystone Driller Co. v. Northwest 
+Engineering Corp., 294 U.S. 42, 47 (1935); Smith v. Magic 
+
+
+26 
+
+
+City Kennel Club, Inc., 282 U.S. 784 (1931); Hubbell v. United 
+States, 179 U.S. 77, 83 (1900). 
+
+
+In the course of reiterating this point, the Court stated that 
+if an amendment “had a purpose unrelated to patentability, a 
+court must consider that purpose in order to decide whether an 
+estoppel is precluded.” Warner-Jenkinson, 520 U.S. at 40-41. 
+The Federal Circuit seized upon the use of the word 
+“patentability” to support its all-embracing approach to the 
+occasions for estoppel. Pet. App. lla. But the word does not 
+broaden the scope of estoppel to encompass the formal 
+requirements of Section 112. To the contrary, “patentability” 
+has an established and limited meaning. This Court has 
+explained that the Patent Act “sets out the conditions of 
+patentability in three sections” that impose “three explicit 
+conditions: novelty and utility as articulated and defined in 
+§ 101 and § 102, and nonobviousness * * * as set out in § 103.” 
+Graham v. John Deere Co., 383 U.S. 1, 12 (1966). 
+
+
+The structure of the statute makes this unmistakably clear: 
+Sections 101-103 come under the chapter heading 
+“Patentability of Inventions,” while Section 112 is in the 
+chapter describing the “Application for Patent.” See Graham, 
+383 U.S. at 14 (noting interpretive significance of headings in 
+1952 Patent Act). And if there remained any room for doubt, 
+this Court removed it when it noted in Warner-Jenkinson that 
+prosecution history estoppel was limited to amendments 
+addressing prior art or other concerns “that arguably would 
+have rendered the claimed subject matter unpatentable.” 520 
+U.S. at 30-31 (emphasis added). See also id. at 34 (referring to 
+PTO function to ensure “that the claims allowed cover only 
+subject matter that is properly patentable”). 
+
+There is no support in any of this Court’s precedents for 
+imposing estoppel based on amendments made to impart clarity 
+or to comply with formal requirements governing the manner 
+
+
+27 
+
+
+of describing the invention rather than to distinguish prior art.’ 
+This differentiation is justified by the difference in purpose of 
+amendments made for prior art and amendments made for 
+clarity.’ When responding to an actual or potential prior art 
+rejection, the applicant narrows the scove of the claim to 
+distinguish the invention from what is already known. Having 
+surrendered subject matter in this way, core estoppel principles 
+justify blocking an attempt to recapture it under the doctrine of 
+equivalents. 
+
+By contrast, amendments that clarify claim language are not 
+made to surrender territory, but to define the borders of the 
+patent more clearly and comprehensibly, to assist in notifying 
+the public of the scope of the right, and to enable those in the 
+art to reproduce the invention. If estoppel may arise from such 
+amendments, a patent holder must fight to maintain unclear 
+boundaries to his patent rights, a goal that undermines the 
+notice function of claims. 
+
+The Federal Circuit offered no sound reason why a claim 
+that defines the invention with sufficient clarity upon filing 
+should be protected by the doctrine of equivalents, while a 
+claim that is amended to impart that same clarity should be 
+unprotected. This Court has long recognized that a patent 
+application “constitute[s] one of the most difficult legal 
+instruments to draw with accuracy,” Sperry v. Florida Ex Rel. 
+
+
+__. Florida Bar, 373 U.S. 379, 383 (1963) (citing Topliff v. Topliff, 
+
+
+2 The Federal Circuit previously drew the same distinction. See, e.g., Black 
+& Decker v. Hoover Service Center, 886 F.2d 1285, 1294 n.13 (Fed. Cir. 
+1989); Mannesmann Demag Corp. v. Engineered Metal Prods. Co., 793 
+F.2d 1279 (Fed. Cir. 1986); Moeller v. lonetics, Inc., 749 F 24653 (Fed. Cir. 
+1986); Hi-Life Products, Inc. v. American Nat'l Water-Mattress Corp., 842 
+F.2d 323 (Fed. Cir. 1988). 
+
+
+> The United States explained this point in its brief in Warner-—Jenkinson, 
+see 1996 WL 172221, at *22-*23 (U.S. Apr. 11, 1996). 
+
+
+28 
+
+
+145 U.S. 156, 171 (1892)). The Federal Circuit’s newfound 
+insistence that applicants describe their inventions flawlessly 
+from the outset places form over substance and overlooks the 
+realities of patent prosecution.‘ 
+
+An inventor with intimate knowledge of the invention may 
+firmly believe upon filing an application that the claim defines 
+the invention clearly. However, claims are formed of words 
+subject to various interpretations. A patent examiner having a 
+different perspective may disagree with the inventor and require 
+a change in the claim to ensure it is clear to the public. Prior to 
+the decision below, applicants freely made amendments of this 
+kind to accommodate the examiner’s concerns and move the 
+case forward. No one contemplated that routine clarifying 
+amendments might restrict the scope of patent protection to the 
+literal meaning of any arguably narrowing element. See, e.g., 
+Warner-Jenkinson, 520 U.S. at 32 n.6; id. at 41 (Ginsburg, J., 
+concurring). 
+
+The facts of this action illustrate the point. In the case of 
+the Stoll patent, the problem never was that the claimed 
+invention was not a true advance over prior art. Rather, the 
+format of the translation of the German patent did not comply 
+with U.S. requirements, and the wording of the application left 
+the examiner uncertain as to the exact character of the 
+invention. And in the case of the Carroll patent, the 
+circumstances that prompted the request for reexamination had 
+
+
+* This is especially true for U.S. applications based on a fouszign priority 
+application, as was the Stoll patent. Such U.S. applications are typically 
+translations of the corresponding foreign priority applications. The 
+translation process may introduce ambiguities, or questions of clarity may 
+be introduced into a claim. These issues are typically addressed during 
+prosecution by amending the claims to impart definiteness and otherwise 
+conform to the particularities of U.S. law. The Federal Circuit’s 
+indiscriminate use of estoppel is extremely unfair to previously prosecuted 
+patents that were based on foreign applications. 
+
+
+29 
+
+
+nothing whatever to do with the elements as to which SMC’s 
+product infringes by equivalents. In addressing these 
+imperfections of draftsmanship and oversights in the 
+formulation of the original applications, there was nothing 
+remotely approaching a disclaimer that the invention covered 
+other types or arrangements of sealing rings than the ones 
+shown, or a differently composed but functionally identical 
+sleeve. This history is far removed from the kind of action that 
+would support an estoppel. 
+
+
+2. The Federal Circuit unjustifiably expanded the 
+presumption recognized in Warner-Jenkinson. 
+
+
+In Warner-Jenkinson, this Court created a new, rebuttable 
+presumption regarding the applicability of prosecution history 
+estoppel: if an amendment submitted in response to a PTO 
+rejection over prior art narrowed the claims without an 
+explanation of the reason for the narrowing, it would be 
+presumed that the entire amendment was intended to avoid that 
+art or otherwise to render the subject matter patentable. See 
+520 U.S. at 33-34. If the patentee could not rebut the 
+
+
+‘presumption, the amended claim element would receive no 
+
+
+protection from infringement by equivalents. 
+The decision below dramatically alters the nature and scope 
+
+
+of the presumption in two respects, both erroneous: it applies 
+
+
+the presumption to all amendments, not just those made in 
+response to a PTO rejection for overbroad subject matter; and 
+it bars consideration of any evidence beyond the face of the 
+PTO record in determining whether the presumption has been 
+rebutted. 
+
+a. The circumstances giving rise to the presumption were 
+expressly described in Warner-Jenkinson as those in which the 
+amendment has been “required during patent prosecution,” and 
+the Court further stated that the presumption was “subject to 
+rebuttal if an appropriate reason for a required amendment is 
+
+
+30 
+
+
+established.” 520 U.S. at 33 (emphases added). Nevertheless, 
+the Federal Circuit found the presumption applicable even to 
+voluntary amendments. Pet. App. 50a. In so doing, it unlinked 
+the presumption from the rationale for having a presumption. 
+
+
+It makes perfect sense to presume that all of the contents of 
+an amendment required by the Patent Office to ensure that the 
+“claims allowed cover only subject matter that is properly 
+patentable” (520 U.S. at 34) in fact surrender subject matter in 
+order to comply with the requirement. Prosecution history 
+estoppel exists to ensure that the prosecution history does not 
+misieac the public about the scope of a patent. If the file 
+wrapper shows expressly that an amendment was intended to 
+surrender subject matter, the public can rely on that indication. 
+The situation is more uncertain when an applicant responds to 
+- a rejection for prior art by submitting an amendment without 
+providing further explanation for the submission; nevertheless, 
+the applicant’s silence in that context makes it fair to presume 
+that the amendment responded to the rejection, unless the 
+patentee can prove otherwise. An applicant responding to an 
+objection based on prior art has warning that its response may 
+be deemed to waive subject matter unless it provides a contrary 
+explanation. A rational observer might well assume that every 
+part of a response to a prior art rejection in fact addresses prior 
+art. It was therefore appropriate to place the burden on the 
+patentee to establish the falsity of that assumption. Jd. at 33. 
+
+
+But because amendments are made for many reasons other 
+than to narrow the scope of the claimed invention, silence about 
+the purpose of amendments made in less suggestive contexts 
+lacks the same potential to mislead. Indeed, to the extent an 
+amendment is not intended to limit the subject matter claimed, 
+it is less likely that the applicant would have perceived any 
+need to explain its purpose to the PTO. In sum, where an 
+amendment is made voluntarily and without discussion of the 
+reasons for it, the public has no basis to assume that the 
+
+
+31 
+
+
+amendment was intended to surrender subject matter. A 
+presumption that it was so intended would be unjustified. 
+
+
+b. The Federal Circuit did more than broaden the 
+presumption to cover ail] unexplained amendments, regardless 
+of context. It also held that “a patent holder seeking to 
+establish the reason for an amendment must base his arguments 
+solely upon the public record of the patent’s prosecution, i.e., 
+the patent’s prosecution history” (Pet. App. 47a). This makes 
+no sense: if the reason for the amendment is discernible from 
+the PTO record, there is no need to indulge presumptions about 
+what that reason might be. It is only where, as in Warner- 
+Jenkinson, the record is silent as to the reason that a 
+presumption does useful service. Thus, when this Court stated 
+that “[t]he presumption we have described” is “subject to 
+rebuttal if an appropriate reason for a required amendment is 
+established” (520 U.S. at 33), it could only have intended that 
+the rebuttal be made from material not appearing on the face of 
+the PTO record. Under the Federal Circuit’s interpretation, by 
+contrast, the remand in Warner-Jenkinson for possible rebuttal 
+of the presumption would have been pointless. 
+
+
+The Federal Circuit’s irrebuttable presumption applies 
+without inquiry into the facts to determine whether it is fair and 
+accurate to say that the patent applicant voluntarily surrendered, 
+abandoned, or disclaimed coverage of equivalents by his 
+actions in the PTO. The net effect, as Judge Newman observed, 
+is that “access to the doctrine of equivalents is barred whether 
+or not the [Warner-Jenkinson] rebuttable presumption arises 
+and whether or not it is rebutted.” Pet. App. 132a. 
+
+
+If we are correct in the foregoing arguments, it follows that 
+the judgment of the en banc Federal Circuit must be reversed 
+and the judgment of the district court reinstated. None of the 
+amendments here at issue, whether voluntary or made in 
+response to a PTO rejection, were designed to overcome prior 
+
+
+32 
+
+
+art or otherwise rectify a failure to disclose patentable subject 
+matter. They accordingly do not fall within the category of 
+amendments that give rise to any form of prosecution history 
+estoppel. | 
+
+
+B. Prosecution History Estoppel Does Not Completely 
+Bar Every Possible Range of Equivalents for an 
+Amended Claim Element 
+
+
+When an amendment does surrender subject matter, and 
+thus the prosecution history creates an estoppel, a question 
+arises as to the scope of the estoppel: Does it completely bar 
+any invocation of the doctrine of equivalents as to the narrowed 
+element, or is the bar confined to those aspects of the narrowing 
+amendment thai were intended to distinguish prior art or 
+otherwise disclaim subject matter that the applicant feared was 
+not patentable? 
+
+
+An example will illustrate the difference between a flexible 
+and a complete bar. Imagine a claim that describes two 
+members as being connected together, when the prior art 
+discloses the members connected together by a nail. To avoid 
+the prior art, the claim is amended to state that the members are 
+glued together. Suppose further that there are two accused 
+devices, one using paste to secure the connection and the other 
+using a screw. Under a complete bar, the doctrine of 
+equivalents would be unavailable as to both accused products. 
+Under a “flexible bar” regime, equivalence could not be 
+asserted as to the screw, it being closely related to the prior art 
+that the amendment was designed to avoid. But because paste 
+is far more like glue than a screw or nail is, the patent could be 
+enforced against the paste product if the patentee is able to 
+prove at trial that glue and paste are equivalents. In other 
+words, while the patent could not, as a consequence of the 
+amendment, cover nails, screws, tacks, and the like, the 
+applicant is not taken to have surrendered all equivalents to his 
+
+
+33 
+
+
+revised claim and would remain able to prevent a competitor 
+from making the minor substitution to avoid the claim. 
+
+
+The majority below acknowledged that the Federal Circuit 
+had generally applied the “flexible rule” in the past (Pet. App. 
+19a-24a), but it nevertheless concluded that the approach 
+should be abandoned as creating uncertainties and difficulties 
+in judicial administration that rendered it “unworkable.” Pet. 
+App. 24a-25a. The court offered no support for that conclusion 
+but nonetheless ruled that any amendment related to 
+patentability surrenders all equivalents to the amended element. 
+
+
+While the majority asserted that its reading was not flatly 
+foreclosed by this Court’s precedents, it could do little to negate 
+the clear spirit of those decisions, which are at bottom 
+irreconcilable with a “complete bar” approach. In case after 
+case, this Court has proceeded on the view that some range of 
+equivalents may exist after an amendment, and that the scope 
+of any estoppel depends on the scope of the surrender indicated 
+by the prosecution history. 
+
+
+We refer the Court to the excellent and thorough analysis of 
+its precedents set forth by Judge Michel in his dissent (Pet. 
+App. 69a-113a), which there is neither need nor space to 
+replicate here. We therefore confine ourselves to touching on 
+a few highlights that demonstrate the magnitude of the 
+inconsistency between the Federal Circuit’s rule and this 
+Court’s decisions: 
+
+
+¢ In Hurlbut v. Schillinger, 130 U.S. 456 (1889), a 
+patentee who had disclaimed a poriion of his 
+invention, and who had been found in prior 
+litigation to be precluded from asserting his claims 
+against one accused device in light of that 
+disclaimer, nonetheless remained entitled to a 
+judgment of infringement by a different device 
+constructed in a manner that less closely resembled 
+
+
+34 
+
+
+what had been disclaimed and was more closely 
+equivalent to his claimed invention. 
+
+
+In Fay v. Cordesman, 109 U.S. 408 (1883), a 
+patentee, despite having amended his claims 
+through the reissuance process, was still able to 
+assert his claims against other devices that were 
+more closely equivalent to his invention. 
+
+In Goodyear Dental Vulcanite Co. v. Davis, 102 
+U.S. 222, 223-227 (1880), the Court found that an 
+amended claim did not cover a product formulated 
+in a manner that would have been covered before 
+amendment but was within the area surrendered by 
+the amendment. It nevertheless clearly stated that 
+the patentee could assert infringement of the 
+amended claims by products that were truly 
+equivalent to those recited in the patent. Jd. at 227. 
+
+
+In Shepard v. Carrigan, 116 U.S. 593, 598 (1886), 
+the patentee had “explicitly abandoned” claims to 
+an unplaited skirt protector, but this Court 
+nevertheless contemplated that other skirt protectors 
+could be found to constitute “an equivalent device 
+or instrumentality” of the invention claimed in the 
+reissued patent. 
+
+And, of course, there is Warner-Jenkinson itself. 
+The Court carefully parsed the amendment to the 
+claim for a dye purification process that had added 
+limitations requiring the process to be conducted at 
+a pH between 6.0 and 9.0. No dispute existed that 
+the 9.0 pH limitation was necessary to avoid a 
+similar prior art process that operated at a pH above 
+9.0. 520 U.S. at 32. The Court remanded for 
+determination of whether equivalents should be 
+barred for the 6.0 pH limitation, however, which 
+
+
+35 
+
+
+“by its mere inclusion, became a material element 
+of the claim.” Jbid. (emphasis in original). A 
+complete bar approach would have ended the 
+inquiry on the spot, leaving nothing for the lower 
+courts to determine on remand. According to the 
+Court, however, “[t]hat did not necessarily preclude 
+the application of the doctrine of equivalents as to 
+that element.” Jbid. 
+
+
+In each of these cases, this Court examined the prosecution 
+record to determine what, if any, subject matter was abandoned. 
+
+
+The Court’s traditional approach is in total harmony with 
+the essence of the doctrine of equivalents. As the Court long 
+ago declared, and reiterated in Warner-Jenkinson, “the 
+substantial equivalent of a thing, in the sense of the patent law, 
+is the same as the thing itself.” 520 U.S. at 35 (quoting Union 
+Paper-Bag Machine Co. v. Murphy, 97 U.S. 120, 125 (1878)). 
+Indeed, “the essential predicate of the doctrine of equivalents 
+is the notion of identity between a patented invention and its 
+equivalent.” Jbid. Because the allowance of a patent claim 
+encompasses the equivalents to the claim, the Court has 
+observed that patentees “are entitled in all cases to invoke to 
+some extent the doctrine of equivalents * * *.” Seymour v. 
+Osborne, 78 U.S. (11 Wall.) 516, 556 (1870). Properly 
+viewed, therefore, statements made and actions taken during the 
+prosecution history define and limit the scope of the equivalents 
+allowed rather than automatically preclude patent protection for 
+any equivalents whatsoever. 
+
+When subject matter is disclaimed to obtain the patent, it is 
+fair to conclude that the surrendered subject matter is not 
+equivalent to the retained matter. And that is largely the effect 
+of prosecution history estoppel as this Court has understood it: 
+an amendment submitted to avoid prior art necessarily excludes 
+at least that prior art from the scope of equivalents of the 
+
+
+36 
+
+
+subject matter retained in the claim. See Warner-Jenkinson, 
+520 U.S. at 32. The amendment helps to define the scope of the 
+claim. But, as the example with the nails and the adhesive 
+shows, it is not correct as an empirical matter that an 
+amendment that surrenders some things was ipso facto intended 
+to surrender, or conveys to a reasonable observer a 
+relinquishment of, all possible equivalents. In fact, all that may 
+fairly be said to have been deliberately and demonstrably 
+surrendered is the portion of the pre-amendment claims that 
+casts doubt upon the inventiveness of the product or process 
+involved. 
+
+
+The Federal Circuit’s new rule is also unnecessary to 
+prevent recapture of what has been surrendered. The very act 
+of narrowing the claims, by its inherent nature, correspondingly 
+narrows the range of equivalents that may be claimed. That 
+inherent restriction of equivalents, proportioned to the 
+contraction of claims made to ensure the patentability of the 
+subject matter, is all that is needed or justified by the principles 
+underlying prosecution history estoppel. 
+
+
+The Federal Circuit was concerned about having the patent 
+system operate with sufficient certainty to avoid over-deterring 
+innovation that might approach the terms of patent claims 
+without literally infringing them.’ But this Court specifically 
+addressed the concern “that the doctrine of equivalents, if 
+applied too broadly, conflicts with the definitional and public- 
+notice functions of the statutory claiming requirement.” 
+Warner-Jenkinson, 520 U.S. at 29. The Court chose to balance 
+those interests by means of the rebuttable presumption 
+discussed above (at pp. 29-32) and by requiring that every 
+
+
+* This concern severely distorts the whole purpose of the patent system, 
+which is not to allow close copying of patented inventions, but to provide 
+incentive for innovation by securing to inventors meaningful protection of 
+the essence of their invention. See pp. 42-44, infra. 
+
+
+37 
+
+
+element of the claim be replicated, literally or by an equivalent, 
+before infringement may be found. The latter principle 
+prevents a patentee from including an element in the claim and 
+then claiming infringement by devices that do not include that 
+element or its equivalent. The Court “was confident” that, so 
+long as the doctrine of equivalents is “applied to individual 
+elements of the claim, not to the invention as a whole{,] 
+* * * the doctrine will not vitiate the central functions of the 
+patent claims themselves.” /d. at 29-30. 
+
+
+In sum, the Federal Circuit’s “complete bar” rule is 
+profoundly wrong in law, in logic, and in policy. It promotes 
+imitation over innovation. That could not be better illustrated 
+than by the facts of this case. Even though it has been 
+established that SMC’s device duplicates each element of the 
+claims of the Stoll and Carroll patents — in most cases exactly 
+but in two aspects through insubstantial differences — and even 
+though the amendments served limited purposes and could not 
+be said to have disclaimed sealing rings functioning like those 
+in the Stoll and Carroll patents or a sleeve functioning like that 
+in the Stoll patent, the Federal Circuit’s new per se rule of 
+estoppel has effectively obliterated Festo’s patents, leaving it 
+helpless before copyists. This is done, moreover, for no better 
+reason than that 20 years ago the claims were amended for 
+purposes distinct from the current claims of equivalence. The 
+effect upoi. esto will be devastating; the effects upon the patent 
+system no less so. 
+
+The implementation of the flexible bar is certainly more 
+difficult than that of the rigid bar and creates a question as to 
+what was surrendered. But any difficulties of application are no 
+greater than those attending application of the doctrine of 
+equivalents to unamended claims. Moreover, as Judge Linn 
+observed, “the mere fact that this court’s new rule is a brighter 
+line for determining whether a patentee is estopped from 
+
+ing infri by equivel be justification for 
+
+
+38 
+
+
+adopting a rule that so substantially changes the rules of the 
+
+individual inventor whose patent right is under administrative 
+
+scrutiny and is subject to the inherent limitations of language.” 
+
+Pet. App. 128a. Cf. Warner-ivenkinson, 520 U.S. at 32, n.6 
+
+(mere creation of a “brighter line” does not justify a new 
+
+estoppel rule). 
+
+Il. THE FEDERAL CIRCUIT’S NEW RULES 
+ACCOMPLISH NOTHING USEFUL BUT ARE 
+BOUND TO COMPLICATE PATENT PROSECUTION 
+AND LITIGATION 
+
+
+The new rules promulgated by the Federal Circuit are 
+untenable: not only do they fail to serve the purpose for which 
+they are purportedly designed, but they will introduce fresh 
+difficulties into patent prosecution and litigation. 
+
+
+The entire rationale advanced by the court for its drastic 
+rewriting of established patent law was that the existing rules are 
+so imprecise as to be “unworkable.” This overlooked the facts 
+that courts had made those rules work for over a century and that 
+the courts will still have to wrestle with the doctrine of 
+equivalents with respect to patents obtained without amendment 
+to the application — which in the future, by virtue of the Federal 
+Circuit’s decision in this case, would be most patents. 
+
+
+The Federal Circuit proceeded, nevertheless, to legislate a 
+new bright-line test that it said would greatly reduce uncertainty. 
+Where there has been an amendment to a patent application, 
+judges are to be relieved of the task of ascertaining the reason 
+for or scope of the amendment, or deciding whether an accused 
+device or process is the equivalent of a patented one. Not only 
+is the price to be paid for this supposed gain in certainty 
+unacceptable, the promise of certainty is itself chimerical. The 
+court left out of account the wholly predictable reactions of the 
+patent bar to the new situation. 
+
+
+39 
+Prior to the Federal Circuit’ s decision in this case, the scope 
+
+
+examiner’s objections. That relatively nonadversarial approach 
+is no longer viable: to amend is to lose the value of the patent 
+to copyists. To avoid this, a patent lawyer filing a claim wit. the 
+PTO will now have three courses of action, none of them 
+
+
+First, when the examiner rejects an initial filing, the patent 
+attorney may reasonably conclude that there is little choice left 
+but to refuse to amend and instead appeal the rejection to the 
+Board of Patent and Interference Appeals and, if necessary, to toa 
+
+
+40 
+
+
+predicted this reaction. Pet. App. 59a. This may be the safer 
+course, but the artificial and perhaps unnecessary narrowing of 
+the patent claim will often needlessly strip the invention of the 
+full patent protection to which it is legally entitled. More, the 
+purported benefits of the Federal Circuit’s bright-line test will 
+never materialize. Litigation over the application of the doctrine 
+of equivalents will proceed as before. But by artificially 
+narrowing the patent claims and eliminating the give-and-take 
+between the claimant and the examiner, the proper scope of the 
+patent will be distorted with no compensating benefit. 
+
+The third choice for an inventor is to refrain from filing for 
+a patent at all, thereby avoiding public disclosure of the 
+invention, and to seek instead to protect the invention as a trade 
+secret. “To prohibit no other [than literal infringement] would 
+place the inventor at the mercy of verbalism and would be 
+subordinating substance to form. It would deprive him of the 
+benefit of his invention and would foster concealment rather 
+than disclosure of inventions, which is one of the primary 
+purposes of the patent system.” Graver Tank, 339 U.S. at 607. 
+Unsatisfactory as trade secret law is — secrets are often 
+discoverable, and there is no protection against subsequent 
+independent invention — a secret is preferable to patent 
+disclosure without protection. Reliance upon trade secret law, 
+and abandonment of the patent system, will harm both inventors 
+and the public. 
+
+
+These are the choices forced upon inventors by the Federal - 
+
+
+Circuit’s new rules. In devising those rules, the Federal Circuit 
+overlooked the ineradicable uncertainty in patent claims. It is a 
+serious mistake to think of a claim description as possessing the 
+clarity of a mathematical formula. A patent claim, as Judge 
+Linn observed, is “a linguistic description of a mental concept. 
+Due to the inherent limitations of language, the fit between the 
+description and the concept is almost always inexact. In 
+addition * * * the language itself may not be adequately 
+
+
+— 
+
+
+41 
+
+
+developed at the early stages when patent applications are 
+typically filed, particularly in rapidly evolving research fields 
+* * * Consequently, claims are commonly amended during 
+prosecution to more particularly point out and distinctly claim 
+that which is regarded to be the invention.” Pet. App. 116a-117a 
+(citation omitted). The paramount need to avoid amendment 
+will convert the patent application process into a pettifogging 
+exercise in draftsmanship reminiscent of medieval pleading 
+rules. 
+
+In addition to its other failings, the Federal Circuit’s 
+rationale for expanding prosecution history estoppel far beyond 
+its equitable function and for barring the doctrine of equivalents 
+entirely whenever an estoppel arises for any reason is 
+completely illogical. Why restrict the rules in this way? Even 
+greater certainty could be achieved by simply eliminating the 
+doctrine of equivalents altogether. There is no logical reason to 
+destroy the doctrine only when an amendment (even one that 
+does not surrender any subject matter in dispute) has been made 
+but to leave the doctrine in full force when no amendment is 
+made. The court has gone at least four-fifths of the way to 
+erasing the doctrine of equivalents, and the presence or absence 
+of an amendment that does not disclaim subject matter bears no 
+relation to the purpose the Federal Circuit announced. If 
+certainty is so compelling that it overrides all other 
+considerations, the court should go all the way and entirely 
+abolish the ability to enforce patents. 
+
+
+Short of abolishing the patent system altogether — which is 
+what fo,ced recourse to trade secret law accomplishes and the 
+decimation of the doctrine of equivalents comes close to 
+achieving — no judicial rewriting of doctrine can eliminate 
+uncertainty in patent litigaticn. The Federal Circuit has chosen 
+measures that not only confl.ct with this Court’s precedent but 
+
+i reduce the value of patents without promoting 
+certainty. 
+
+
+42 
+
+
+Il. THE FEDERAL CIRCUIT’S RULES WOULD 
+SERIOUSLY DAMAGE THE PATENT SYSTEM 
+AND ENACT HARMFUL PUBLIC POLICY 
+
+
+It is no exaggeration to say that the Federal Circuit has dealt 
+the U.S. patent system a crippling blow. The practical effect of 
+the new rules is that would-be competitors need only find an 
+amended claim element in a patent, make an insubstantial 
+change, and thereby deny the patentee protection under either 
+the literal claim or the doctrine of equivalents. 
+
+Warner-Jenkinson affirmed a rule striking a very different 
+balance between effective patent protection and the freedom of 
+competitors to design around the patented device or process. A 
+patentee may claim protection from any competing product or 
+process that is equivalent to his own invention unless he has 
+clearly disclaimed the area of science or technology in which the 
+accused “innovation” operates. The court below has swept all 
+that away except for a small minority of patents. 
+
+The results are predictable and inevitable. Much of the 
+“stimulat[ion of] investment in improvements and design- 
+arounds” that the majority foresees (Pet. App. 30a) will actually 
+be investment in copying patented products and processes with 
+insignificant changes. Even more certain is that investment in 
+patentable inventions will sharply and very substantially decline. 
+This is due to the familiar problem of the free ride. Investors in 
+patentable inventions will realize that they alone bear the cost of 
+innovation but that most of the benefits will be appropriated by 
+copyists. Under these conditions, which are the direct result of 
+the new rules, investment in innovation will be very greatly 
+reduced. 
+
+As Judge Newman put it in dissent (Pet. App. 153a), “the 
+assumption that placing new technology in the public domain is 
+always the optimum path to industrial growth is not supported 
+by experience. Empirical studies have added rigor to the 
+
+
+43 
+
+
+common sense knowledge that reduced profit opportunity affects 
+the supply of capital to launch a new technology, and often the 
+creation of the technology itself.” For this reason, the Federal 
+Circuit’s rules would prove especially damaging to small firms, 
+start-ups, and individual innovators. Dominant firms such as 
+SMC’s amici may find the new rules congenial because they 
+prevent the successful invasion of their markets by smaller firms 
+with patented innovations, but this is hardly a benefit to the 
+public as a whole.* 
+
+
+If not overturned, moreover, the Federal Circuit’s decision 
+will do a gross injustice to all those who hold patents issued 
+earlier. There are approximately 1,200,000 outstanding patents, 
+the large majority of them amended during the prosecution 
+process under rules in effect until this case. Those patents were 
+amended freely to satisfy the examiners and without preserving 
+a record of the reasons for the amendments. All of those patents 
+are new vulnerable to copyists under the Federal Circuit’s new, 
+retroactive rule. Deprived of the doctrine of equivalents, the 
+owners of such patents will find them either radically diminished 
+in value or effectively destroyed. It is safe to say that this havoc 
+will be wreaked upon hundreds of thousands of existing patents 
+
+
+* In addition, as Judge Rader pointed out in his dissent (Pet. App. 11 1a), the 
+rules adopted by the majority are especially problematic in areas of rapidly 
+
+evolving technology, which he characterized as one of the primary 
+pore Renee Bae lh lr wr mr Claims in patent applications 
+are of necessity described in terms of existing technology. As that 
+technology evolves, however, it becomes increasingly easy to substitute 
+newer components that do not substantially change the product from that 
+described in the patent but that likewise do not literally infringe its terms. 
+Under the decision below, “({a]ll patent protection for amended claims is lost 
+when it comes to after-arising technology,” (id. at 112a), a result that, as 
+Judge Rader observes, cannot be justified on the theory that it was 
+surrendered by the applicant. Judge Rader’s observations are especially apt 
+in the rapidly developing fields of biotechnology and information 
+technology. 
+
+
+44 
+
+
+granted under the then-existing rules. That result cannot be 
+justified under any doctrine called equitable. 
+
+
+This is precisely the concern that prompted Justice 
+Ginsburg’s concurrence, joined by Justice Kennedy, in Warner- 
+Jenkinson. Justice Ginsburg warned that “applied woodenly” 
+the presumption that an amendment without a known reason 
+creates prosecution history estoppel might “unfairly discount the 
+expectations of a patentee who had no notice at the time of 
+patent prosecution that such a presumption would apply * * * . 
+Years later, the patentee may find it difficult to establish an 
+evidentiary basis that would overcome the new presumption.” 
+520 U.S. at 41. She described the Court’s opinion as “sensitive 
+to this problem * * *.” Jbid. The Federal Circuit wielded its 
+hatchet without exhibiting any comparable sensitivity, creating 
+instead retroactive devastation of what patent holders reasonably 
+would have believed their rights to be.’ 
+
+
+The Federal Circuit decision also discriminates against 
+foreign applicants. U.S. patent applications by foreigners are 
+typically straight translations of the applications filed in the 
+applicant’s home country. The format of the application often 
+differs from that found in U.S. practice, and the translation may 
+be in idiomatic English. The claims of such applications often 
+require amendment or complete rewriting to satisfy the formal 
+requirements of U.S. patent laws. This was the case with the 
+Stoll patent presently at issue. PTO procedure contemplates 
+such filings and provides mechanisms to effect the necessary 
+changes. 37 C.F.R. 1.52(a). Under the rules enacted by the 
+Federal Circuit, the foreign patentee loses the doctrine of 
+
+
+’ The new rules also sabotage the settled expectations of the PTO and its 
+examiners, who have conducted their examinations of patent applications on 
+the assumption that the amendments they required or encouraged would 
+have only certain narrow, well-understood consequences — consequences 
+far more modest than those that would attach under the new Federal Circuit 
+rules. 
+
+
+45 
+
+
+equivalents and finds his patent of little use in this country. 
+Should other nations react, the result may be damaging to U.S. 
+patentees seeking foreign patent protection. 
+
+
+The United States has long been interested in harmonizing 
+foreign and domestic patent rules. In recent years, Congress has 
+enacted legislation specifically geared to this goal. The patent 
+term is now 20 years from filing, and once-secret patent 
+applications are now being published, all to achieve 
+harmonization with foreign patent systems. 35 U.S.C. 154(a)(2); 
+35 U.S.C. 122(b). The United States has also encouraged 
+foreign nations to adopt strong patent laws that protect the 
+innovative accomplishments of U.S. companies. Some nations, 
+including Japan, only recently adopted a doctrine of equivalents. 
+The Federal Circuit’s abrupt reversal of course, contrary to the 
+interests of the United States, damages this important movement 
+toward harmonization. 
+
+
+****#* 
+
+
+Any patent or copyright system involves trade-off between 
+rewards to stimulate creativity and the costs of exclusivity. The 
+traditional rules of prosecution history estoppel and this Court’s 
+cases, culminating in Warner-Jenkinson, have recognized the 
+trade-off and achieved a balance between costs and benefits. 
+Congress has acquiesced in that balance by leaving the doctrines 
+of estoppel and equivalence undisturbed for well over a century. 
+No reason appears why the Federal Circuit should be permitted 
+to make its own public policy by dictating a dramatically 
+different cost-benefit decision. 
+
+
+CONCLUSION 
+
+
+For the reasons set forth above, the decision of the Federal 
+Circuit should be reversed. 
+
+
+Respectfully submitted. 
+ANDREW L. FREY ROBERT H. BORK 
+DONALD M. FALK Counsel of Record 
+ROBERT L. BRONSTON Suite 1000 
+Mayer, Brown & Platt 1150 17” Street, N.W. 
+1909 K Street, N.W. Washington, D.C. 20036 
+
+
+Washington, D.C. 20006 (202) 862-5851 
+(202) 263-3000 
+
+
+CHARLES R. HOFFMANN 
+
+GERALD T. BODNER 
+
+GLENN T. HENNEBERGER 
+
+ANTHONY E. BENNETT 
+Hoffmann & Baron, LLP 
+6900 Jericho Turnpike 
+Syosset, New York 11791 
+(516) 822-3550 
+
+
+Counsel for Petitioner 
+AUGUST 31, 2001 
+
+
+APPENDIX 
+
+
+APPENDIX 
+UNITED STATES CODE 
+TITLE 35 — PATENTS 
+CHAPTER 10 — PATENTABILITY OF INVENTIONS 
+
+
+eee 
+
+
+§ 101. Inventions patentable 
+
+
+Whoever invents or discovers any new and useful process, 
+machine, manufacture, or composition of matter, or any new 
+and useful improvement thereof, may obtain a patent therefor, 
+subject to the conditions and requirements of this title. 
+
+§ 102. Conditions for patentability; novelty and loss of 
+right to patent 
+
+A person shall be entitled to a patent unless — 
+
+
+(a) the invention was known or used by others in this 
+
+
+country, or patented or described in a printed 
+publication in this or a foreign country, before the 
+invention thereof by the applicant for patent, or 
+
+
+(b) the invention was patented or described in a printed 
+publication in this or a foreign country or in public use 
+or on sale in this country, more than one year prior to 
+the date of the application for patent in the United 
+States, or 
+
+
+(c) he has abandoned the invention, or 
+
+
+(d) the invention was first patented or caused to be 
+patented, or was the subject of an inventor’s certificate, 
+by the applicant or his legal representatives or assigns 
+in a foreign country prior to the date of the application 
+for patent in this country on an application for patent or 
+inventor's certificate filed more than twelve months 
+
+
+2a 
+before the filing of the application in the United States, 
+
+
+or 
+
+
+(e) the invention was described in a patent granted on an 
+application for patent by another filed in the United 
+States before the invention thereof by the applicant for 
+patent, or on an international application by another 
+who has fulfilled the requirements of paragraphs (1), 
+(2), and (4) of section 371(c) of this title before the 
+invention thereof by the applicant for patent, or 
+
+(f) he did not himself invent the subject matter sought to be 
+patented, or | 
+
+
+(g) before the applicant’s invention thereof the invention 
+was made in this country by another who had not 
+abandoned, suppressed, or concealed it. In determining 
+priority of invention there shall be considered not only 
+the respective dates of conception and reduction to 
+practice of the invention, but also the reasonable 
+diligence of one who was first to conceive and last to 
+reduce to practice, from a time prior to conception by 
+the other. 
+
+§ 103. Conditions for patentability; non-obvious subject 
+matter 
+
+A patent may not be obtained though the invention is not 
+identically disclosed or described as set forth in section 102 of 
+this title, if the differences between the subject matter sought to 
+be patented and the prior art are such that the subject matter as 
+a whole would have been obvious at the time the invention was 
+made to a person having ordinary skill in the art to which said 
+subject matter pertains. Patentability shall not be negatived by 
+the manner in which the invention was made. 
+
+Subject matter developed by another person, which 
+qualifies as prior art only under subsection (f) or (g) of section 
+102 of this title, shall not preclude patentability under this 
+section where the subject matter and the claimed invention 
+
+
+3a 
+
+
+were, at the time the invention was made, owned by the same 
+person or subject to an obligation of assignment to the same 
+person. 
+
+
+sek 
+
+
+CHAPTER 11 — APPLICATION FOR PATENT 
+
+
+§ 111. Application 
+(a) IN GENERAL. — 
+
+
+(1) WRITTEN APPLICATION. — An application for 
+patent shall be made, or authorized to be made, by 
+the inventor, except as otherwise provided in this 
+title, in writing to the Commissioner. 
+
+
+(2) CONTENTS. — Such application shall include — 
+
+
+(A)  aspecification as prescribed by section 112 
+of this title; 
+
+(B) a drawing as prescribed by section 113 of 
+this title; and 
+
+(C) an oath by the applicant as prescribed by 
+section 115 of this title. 
+
+(3) FEE AND OATH. — The application must be 
+accompanied by the fee required by law. The fee 
+and oath may be submitted after the specification 
+and any required drawing are submitted, within 
+such period and under such conditions, including 
+
+
+the payment of a surcharge, as may be prescribed by 
+the Commissioner. 
+
+
+(4) FAILURE TO SUBMIT. — Upon failure to submit the 
+fee and oath within such prescribed period, the 
+application shall be regarded as abandoned, unless 
+it is shown to the satisfaction of the Commissioner 
+that the delay in submitting the fee and oath was 
+unavoidable or unintentional. The filing date of an 
+
+
+4a 
+
+
+application shall be the date on which the 
+in the Patent and Trademark Office. 
+
+
+(b) PROVISIONAL APPLICATION. — 
+
+
+(1) AUTHORIZATION. — A provisional application for 
+patent shall be made or authorized to be made by 
+the inventor, except as otherwise provided in this 
+title, in writing to the Commissioner. Such 
+
+
+application shall include — 
+
+
+(A) a specification as prescribed by the first 
+paragraph of section 112 of this title; and 
+
+
+(B) a drawing as prescribed by section 113 of 
+(2) CLAIM. — A claim, as required by the second 
+through fifth paragraphs of section 112, shall not be 
+required in a provisional application. 
+(3) FEE. — 
+
+
+(A) Theapplication must be accompanied by the 
+fee required by law. 
+
+(B) The fee may be submitted after the 
+such conditions, including the payment of a 
+surcharge, as may be prescribed by the 
+
+(C) Upon failure to submit the fee within such 
+prescribed period, the application shall be 
+regarded as abandoned, unless it is shown to 
+the satisfaction of the Commissioner that 
+
+
+the delay in submitting the fee was 
+unavoidable or unintentional. 
+
+
+——— 
+
+
+Sa 
+
+
+(4) FILING DATE. — The filing date of a provisional 
+application shall be the date on which the 
+
+
+specification and any required drawing are received 
+in the Patent and Trademark Office. 
+
+
+(5) ABANDONMENT. — The provisional application 
+shall be regarded as abandoned 12 months after the 
+filing date of such application and shall not be 
+subject to revival thereafter. 
+
+(6) OTHER BASIS FOR PROVISIONAL APPLICATION. — 
+Subject to all the conditions in this subsection and 
+section 119(e) of this title, and as prescribed by the 
+Commissioner, an application for patent filed under 
+subsection (a) may be treated as a provisional 
+application for patent. 
+
+(7) NO RIGHT OF PRIORITY OR BENEFIT OF EARLIEST 
+FILING DATE. — A provisional application shall not 
+be entitled to the right of priority of any other 
+application under section 119 or 365(a) of this title 
+or to the benefit of an earlier filing date in the 
+United States under section 120, 121, or 365(c) of 
+
+(8) APPLICABLE PROVISIONS. — The provisions of this 
+title relating to applications for patent shall apply to 
+provisional applications for patent, except as 
+otherwise provided, and except that provisional 
+applications for patent shall not be subject to 
+sections 115, 131, 135, and 157 of this title. 
+
+
+§ 112. Specification 
+
+The specification shall contain a written description of the 
+invention, and of the manner and process of making and using 
+it, in such full, clear, concise, and exact terms as to enable any 
+person skilled in the art to which it pertains, or with which it is 
+most nearly connected, to make and use the same, and shall set 
+
+
+6a 
+
+
+forth the best mode contemplated by the inventor of carrying 
+out his invention. 
+The specification shall conclude with one or more claims 
+
+
+particularly pointing out and distinctly claiming the subject 
+matter which the applicant regards as his invention. 
+
+A claim may be written in independent or, if the nature of 
+the case admits, in dependent or multiple dependent form. 
+
+Subject to the following paragraph, a claim in dependent 
+form shall contain a reference to a claim previously set forth 
+and then specify a further limitation of the subject matter 
+claimed. A claim in dependent form shall be construed to 
+incorporate by reference all the limitations of the claim to 
+which it refers. 
+
+A claim in multiple dependent form shall contain a 
+reference, in the alternative only, to more than one claim 
+previously set forth and then specify a further limitation of the 
+subject matter claimed. A multiple dependent claim shall not 
+serve as a basis for any other multiple dependent claim. A 
+multiple dependent claim shall be construed to incorporate by 
+ee ee ee 
+which it is being considered. 
+
+
+OEE R RPI Soe Ge RD 
+as a means or step for performing a specified function without 
+the recital of structure, material, or acts in support thereof, and 
+such claim shall be construed to cover the corresponding 
+
+
+structure, material, or acts described in the specification and 
+equivalents thereof. 
+
+
+ed 
+
+
+7a 
+CHAPTER 28 — INFRINGEMENT OF PATENTS 
+
+
+_ § 271. Infringement of patent 
+
+
+(a) Except as otherwise provided in this title, whcever 
+without authority makes, uses or sells any patented 
+invention, within the United States during the term of 
+the patent therefor, infringes the patent. 
+
+

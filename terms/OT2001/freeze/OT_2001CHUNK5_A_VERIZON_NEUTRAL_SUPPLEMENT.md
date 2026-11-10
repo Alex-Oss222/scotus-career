@@ -1,0 +1,747 @@
+# OT2001 chunk 5 A - Verizon combination neutral supplement
+
+## Scope, source and effect
+
+This is a neutral source refresh for the combination component of Verizon Communications Inc. v. FCC, inventory matter 65, at the supplied May 13, 2002 event. Read it with the [validated A neutral packet](OT_2001CHUNK5_A_VALIDATED_NEUTRAL.md), [A entering-law slice](OT_2001CHUNK5_A_ENTERING_LAW.md), and [exact-text source supplement](OT_2001CHUNK5_A_SOURCE_SUPPLEMENT.md). It supplies no result, commitment, opinion assignment or join.
+
+The added source is the Commission's original First Report and Order, FCC 96-325: all text and footnotes on printed/PDF pages 99-105 and 142-146, provided in the [bounded text](../sources/chunk5-a/fcc-combination-context.txt) and [bounded PDF](../sources/chunk5-a/fcc-combination-context.pdf). It predates the event. All twelve pages have been read. The exact text is copied in the annex below, without correcting the agency's words. Paragraphs 196-197 and the surrounding comment summaries report submissions; paragraphs 198-206 and 292-297 state the Commission's own explanation. A commenter's proposal is not automatically an adopted agency condition.
+
+**Targeted replacement:** The existing neutral packet describes an entrant-inability limitation as an analytical possibility unless an actual agency source supplies it. Paragraphs 293-294 now supply that contemporaneous agency explanation. That source-status limitation is superseded by this supplement. The earlier packet and other freezes remain unchanged. The pricing component and matters 66-68 are not reopened. The common pre-May-13 law baseline, all-nine participation, question scope, lower judgment and independent review of regulatory legality remain as previously supplied.
+
+## The Commission's actual explanation of combining
+
+1. **Access and useful functionality, paragraph 292.** The Commission reads section 251(c)(3) to bar restrictions on requests, sale or use that impair an entrant's intended telecommunications service. It gives examples: no restriction on the type of telecommunications service, no bar on combining with technically compatible entrant-owned equipment, and provision of all functionalities of the available element. This explains the asserted relation of combining to usable statutory access. It does not itself establish that every element or requested service is available under current law.
+
+2. **Assistance and entrant ability, paragraphs 293-294.** Paragraph 293 says the incumbent must, if necessary, perform functions to combine requested elements with incumbent or entrant-held elements, subject to the stated technical restrictions. The agency's reason is that entrants lacking facilities and network information may be unable to combine without help. Paragraph 294 rejects an exclusively entrant-performed task allocation: a carrier may combine if reasonably able, and the incumbent must do so if the carrier is unable. Footnote 620 defines combining as connecting two or more unbundled elements so the entrant can offer its intended telecommunications service. These are actual agency grounds, not a newly invented limiting construction or merely counsel's litigation rationale. They concern reasonable ability, not a supplied finding that every entrant lacks any theoretical technical capacity. No carrier-specific inability has been adjudicated in this facial regulatory review. The relationship between this assistance explanation and each regulatory paragraph, and the precise reach of reasonable ability in a disputed application, remain questions of interpretation.
+
+3. **Already aggregated elements, paragraph 295.** The agency explains that one identified element may consist of several facilities; its local-loop/subloop example illustrates why combining and element identification can overlap. That original example does not reinstate the vacated Rule 51.319 element list or the displaced assumption that technical feasibility alone establishes entitlement. The controlling AT&T necessity-and-impairment limits still govern.
+
+4. **Ordinary and nonordinary combinations, paragraph 296.** The Commission expressly declines an unlimited duty to combine in any technically feasible manner requested. It identifies network reliability/security and other carriers' access as the concerns. It describes required functions for elements ordinarily combined in the ordinary manner, then discusses elements not ordinarily combined or not ordinarily combined in the requested manner, followed by incumbent proof before the state commission. Footnote 622 links reliability and security to the technical-feasibility discussion in section IV. The separate regulatory text below must be kept visible when construing this explanation.
+
+5. **Identification, variants and support systems, paragraph 297.** The agency distinguishes different provisioning of an element from variants treated as distinct elements. It requires operational/support systems necessary to purchase and combine elements, requires the requester to specify the elements sought before obtaining them, acknowledges that limited information can prevent complete specification before negotiations or arbitration begin or end, and requires incumbent cooperation in identifying needed elements. The source supplies no automatic default for an initially incomplete request and no independently adjudicated entitlement to an unspecified element. Current lawful element-selection criteria remain necessary.
+
+## Technical feasibility, reliability and cost
+
+**Adopted agency framework, paragraphs 198-202.** Technical feasibility concerns technical and operational matters rather than economic cost, ordinary space/site restrictions or accounting/billing systems. Necessary modifications or a novel use of incumbent facilities are not excluded merely because they differ from existing practice. Paragraphs 199-200 distinguish cost recovery from whether work is technically feasible; the requesting carrier bears the relevant cost under the agency's section 252 account. The agency's reference to reasonable profit is its explanation of that scheme, not a change from the statute's separate permission to include reasonable profit. The statutory rural-relief provisions remain distinct.
+
+**Actual space qualification, paragraph 201.** The agency recognizes that a site with no possible expansion can make access or interconnection infeasible, technically or otherwise. Possible expansion is different: a site restriction is not then a technical obstacle merely because expansion costs money, and the requester bears necessary expansion cost. Physical-collocation space provisions and virtual collocation retain their distinct statutory setting. Do not replace this qualified explanation with an absolute assertion that space can never matter.
+
+**Network reliability and security, paragraphs 198 and 203.** Specific, significant and demonstrable reliability concerns are relevant evidence of infeasibility. Carriers retain responsibility for management, control and performance of their networks. For a refusal on network-reliability/security grounds at a requested interconnection or access point, paragraph 203 states that the incumbent must prove specific and significant adverse impacts to the state commission by clear and convincing evidence. That is the agency's stated evidentiary requirement for that objection in that setting; it is not merely a party suggestion. Footnote 439 identifies the Network Reliability Council reports and templates. Paragraph 296's footnote 622 expressly carries reliability/security considerations into its combination discussion. The source does not state that every distinct ground for denial under Rule 51.315(f), or every unrelated factual issue, has the same heightened standard; the regulation's distinct burdens remain separate below.
+
+**Prior experience and information, paragraphs 204-206.** Successful access or interconnection using substantially similar facilities supplies substantial evidence of feasibility, including the supported quality level; common interfaces or protocols may evidence similarity. Paragraph 205 allocates proof of infeasibility to the incumbent because it possesses the pertinent information, and describes provision of general location/technical information. These provisions help explain the agency's placement of proof. Paragraph 206's broad feasibility discussion and small-carrier relief reference do not eliminate section 251(d)(2)'s independent access criteria as construed by the governing AT&T decision. Feasibility of how to connect remains distinct from entitlement to obtain an element.
+
+## Regulatory text remains distinct
+
+The exact original Rule 51.315 is copied below from the already supplied official Federal Register extract. It remains the challenged rule, not a declaration that vacated paragraphs are currently enforceable.
+
+- Paragraph (b) prohibits separation of requested elements that the incumbent currently combines, except on request. Existing-combination protection is not a substitute for analysis of the affirmative duties in (c)-(f).
+- Paragraph (c), on request, reaches functions necessary to combine unbundled elements even when not ordinarily combined in the incumbent network. Its two conditions are conjunctive: technical feasibility **and** no impairment of other carriers' unbundled-element access or interconnection.
+- Paragraph (d), on request, separately concerns combination with requester-possessed elements in any technically feasible manner. It does not repeat (c)(2)'s explicit other-carrier condition; statutory nondiscrimination and the agency's reliability explanation retain their own scope.
+- Paragraph (e) makes the incumbent prove technical infeasibility before the state commission for a denial under (c)(1) or (d). Paragraph (f) separately makes it prove the specified other-carrier impairment for a denial under (c)(2). Neither paragraph's rule text supplies a universal clear-and-convincing standard or a separate burden concerning entrant ability.
+
+**Source wording difference requiring express treatment:** Paragraph 296's explanatory sentence on page 145 uses **or** between technical feasibility and not undermining other carriers' access. The enacted Rule 51.315(c) uses **and** and lists both conditions. The PDF confirms the explanatory word. Preserve both texts exactly. Do not silently quote the explanation with a substituted conjunction, restate the rule as allowing either condition alone, or assume the word difference alone decides validity or remedy. How to reconcile the explanation, its surrounding concerns, its proof discussion and the controlling regulatory text is an interpretive issue for fresh modeling. It is a now-supplied source issue, not missing factual evidence.
+
+## Entering-law limits and questions retained
+
+AT&T Part XI already rejects an unambiguous assignment of every physical combination task exclusively to the requester; it leaves the particular affirmative duties, burdens and agency justification unresolved. Its other holdings preserve independent necessity and impairment, existing-combination protection, and qualified statutory access without a freestanding own-facilities prerequisite. This source refresh neither changes those holdings nor treats the original agency's broad element-selection rationale as surviving where the Court displaced it.
+
+The agency's actual assistance explanation must now be assessed rather than assumed absent. Distinct questions remain: how the reasonable-ability explanation limits each challenged duty; how the reliability/security framework applies to a supported objection; the separate scope of (c) and (d); the legality of each proof allocation; and whether the agency's actual reasons suffice for the particular duties within the statutory delegation. This supplement chooses no answer, judgment or remand. It adds no litigant concession, individualized request, actual loss, technical finding or later agency construction.
+
+## Exact Rule 51.315 source copy
+
+Sec. 51.315  Combination of unbundled network elements.
+
+    (a) An incumbent LEC shall provide unbundled network elements in a 
+manner that allows requesting telecommunications carriers to combine 
+such network elements in order to provide a telecommunications service.
+    (b) Except upon request, an incumbent LEC shall not separate 
+requested network elements that the incumbent LEC currently combines.
+    (c) Upon request, an incumbent LEC shall perform the functions 
+necessary to combine unbundled network elements in any manner, even if 
+those elements are not ordinarily combined in the incumbent LEC's 
+network, provided that such combination is:
+    (1) Technically feasible; and
+    (2) Would not impair the ability of other carriers to obtain access 
+to unbundled network elements or to interconnect with the incumbent 
+LEC's network.
+    (d) Upon request, an incumbent LEC shall perform the functions 
+necessary to combine unbundled network elements with elements possessed 
+by the requesting telecommunications carrier in any technically 
+feasible manner.
+    (e) An incumbent LEC that denies a request to combine elements 
+pursuant to paragraph (c)(1) or paragraph (d) of this section must 
+prove to the state commission that the requested combination is not 
+technically feasible.
+    (f) An incumbent LEC that denies a request to combine elements 
+pursuant to paragraph (c)(2) of this section must prove to the state 
+commission that the requested combination would impair the ability of 
+other carriers to obtain access to unbundled network elements or to 
+interconnect with the incumbent LEC's network.
+
+
+## Exact twelve-page FCC source copy
+
+Source: https://docs.fcc.gov/public/attachments/FCC-96-325A1.pdf
+Bounded source-copy reading excerpt: printed/PDF pages 99?105 and 142?146, retaining every page and footnote in those ranges. The complete original is saved separately. This agency source predates the pending event.
+
+## Source page 99
+
+Federal Communications Commission
+96-325
+ See, e.g., USTA comments at 11; Bell Atlantic comments at 15; U S West comments at 44; BellSouth reply at 18;
+406
+California Commission comments at 19; Texas Commission comments at 11; Citizens Utilities comments at 8 (parties
+are in the best position to determine the technical requirements and abilities).
+ See, e.g., SBC comments at 25; BellSouth comments at 16; USTA comments at 11; U S West reply at 22.
+407
+ See, e.g., NYNEX comments at 65-66; SBC reply at 17; Ameritech comments at 16; ALLTEL comments at 7-8;
+408
+Roseville Tel. comments at 5-6; U S West reply at 22; Lincoln Tel. reply at 3; 
+see also USTA comments at 10-12;
+Florida Commission comments at 13-14; DoD comments at 6 (network reliability must be considered in technical
+feasibility).  GVNW believes that interconnection is technically feasible if:  (1) the interconnection point is a normal
+LEC access point for provisioning of service to its customers; (2) the LEC maintains assignment records for the
+point; (3) LEC personnel access facilities at the point for interconnecting other LEC facilities; (4) cross-connecting
+the facility at the point does not expose the network to undue damage; and (5) the LEC and requesting carriers can
+demonstrate the technical proficiency of personnel assigned to work at the interconnect point.  GVNW comments at
+18-19.
+ See, e.g., USTA comments at 12 n.16; SBC comments at 16.
+409
+ GVNW comments at 21-22.
+410
+ Rural Tel. Coalition comments at 31.
+411
+ See, e.g., USTA comments at 11; BellSouth comments at 16; SBC comments at 25; Lincoln Tel. reply at 3; Roseville
+412
+Tel. comments at 5-6; Office of the Ohio Consumers' Counsel comments at 10; ALLTEL reply at 5-6.
+ See, e.g., MCI comments at 12-13; MFS comments at 15; Teleport comments at 25; Nortel comments at 7;
+413
+Continental Cablevision comments at 20; NCTA comments at 32; Time Warner reply at 13 (all points should be
+presumptively technically feasible and those claiming technical infeasibility should bear the burden of proof);
+Colorado Commission comments at 18; Michigan Commission comments at 8-9; Attorneys General of Connecticut 
+et
+99
+allow the parties and the states to determine the details.
+  Most BOCs and other LECs argue that
+406
+"technically feasible" does not mean technically possible or imaginable, and that other factors should be
+considered in determining what points are technically feasible.
+  Other factors offered by the
+407
+commenters include cost, network reliability and security, space limitations, the existence of operations
+support systems, quality of service provided, interoperability, field trials, performance standards,
+industry standards, the need for construction of new facilities, and inherent fairness.
+  USTA, SBC,
+408
+and others allege that previous Commission orders have considered economic issues in technical
+feasibility analyses.
+  GVNW argues that small LECs should not be required to unbundle if it is
+409
+economically unreasonable.
+  The Rural Telephone Coalition contends that the Commission should
+410
+recognize the differences between small and large operations, high-volume and low-volume local
+networks, and urban and rural carriers and networks.
+  USTA also suggests that the statute only
+411
+requires incumbent LECs to provide interconnection to their networks as they are configured presently
+and that it does not require incumbent LECs to take risky or unreasonable steps to construct new
+facilities or reconfigure their networks in response to competitor requests.412
+196.  Many potential competitors argue that the definition of "technical feasibility" should be
+extremely broad and dynamic, to encompass the effects of future technical changes.
+  Sprint contends
+413
+
+
+## Source page 100
+
+Federal Communications Commission
+96-325
+al. reply at 4 n.2; Hyperion comments at 10; Independent Cable & Telcomm. Ass'n reply at 9.
+ Sprint reply at 16; ACSI reply at 6.
+414
+ See, e.g., MCI comments at 11; Continental Cablevision comments at 20; CompTel comments at 41; Sprint
+415
+comments at 14; Cox comments at 42; AT&T reply at 11; DoJ comments at 19; California Commission comments at
+19; Alabama Commission comments at 15; Ohio Commission comments at 25; Colorado Commission comments at 19.
+ Time Warner reply at 13; MCI reply at 23 (incumbent LECs do not argue that interconnection points are not
+416
+technically feasible but rather that the Commission reverse its tentative conclusion that the burden of proof falls on
+incumbent LECs to demonstrate technical infeasibility); Cable & Wireless comments at 13 (technical feasibility can
+be assessed by examining the type and quality of interconnection an incumbent LEC already provides to itself, its
+affiliates and co-carriers).
+ AT&T comments at 33.
+417
+ MCI comments at 12; IDCMA reply at 6-7.
+418
+ See, e.g., MCI comments at 12, Sprint reply at 16-17; AT&T reply at 10 (the need for additional investment to make
+419
+an arrangement available should not result in a determination of technical infeasibility); Time Warner reply at 15, 17;
+ACTA comments at 10; 
+ See, e.g., AT&T comments at 14-20; MCI reply at 23-29; Sprint reply at 16; Time Warner reply at 16.
+420
+100
+that the Commission should use the plain meaning of the word "feasible" in defining technical feasibility. 
+Sprint states that Webster's Dictionary defines "feasible" as "possible of realization" and any more
+restrictive reading would unduly restrict the availability of interconnection.
+    Many parties contend
+414
+that incumbent LECs should have the burden of proving specific points are not technically feasible.
+ 
+415
+Time Warner claims that any point should be presumptively technically feasible and those claiming
+technical infeasibility should bear the burden of proof.
+  AT&T argues that existing industry standards
+416
+for interconnection at a point evidences the technical feasibility of interconnection at such a point.
+ 
+417
+MCI argues that technically feasible points of interconnection may be either physical, for facilities and
+equipment, or logical, for software and databases.
+  Several parties ask the Commission to make
+418
+clear that technical feasibility does not require that operations support systems for order processing,
+provisioning and installation, billing, and other support functions be in place in order to make a specific
+interconnection point technically feasible.
+  Several competing carriers also contend that economic
+419
+factors should not be considered in determining technically feasibile points of interconnection and
+access to unbundled elements.  They argue that if incumbent LECs are not required to expend any
+funds or resources to provide for technically feasible interconnection or access, competing carriers will
+be limited to the services currently offered by the incumbents.
+  
+420
+197.  Some parties propose specific definitions of technical feasibility.  For example, Sprint
+defines "technically feasible" as "possible to accomplish without a scientific or technological
+
+
+## Source page 101
+
+Federal Communications Commission
+96-325
+ Sprint reply at 15-16; Time Warner reply at 13 (any point of interconnection should be presumptively technically
+421
+feasible).
+ MFS comments at 15.
+422
+ 47 U.S.C. § 251(f)(1)(A). 
+423
+ 47 U.S.C. § 254(h)(2)(A).  
+424
+  H. Rep. 104-204, 71 (1995).
+425
+101
+breakthrough, i.e., without an advance in the state of the art."
+  MFS defines the term as "any point in
+421
+an [incumbent LEC's] network where suitable transmission, cross-connect or switching facilities are
+present to permit the routing of traffic to and from another network."422
+3.
+Discussion
+198.  We conclude that the term "technically feasible" refers solely to technical or operational
+concerns, rather than economic, space, or site considerations.  We further conclude that the obligations
+imposed by sections 251(c)(2) and 251(c)(3) include modifications to incumbent LEC facilities to the
+extent necessary to accommodate interconnection or access to network elements.  Specific, significant,
+and demonstrable network reliability concerns associated with providing interconnection or access at a
+particular point, however, will be regarded as relevant evidence that interconnection or access at that
+point is technically infeasible.  We also conclude that preexisting interconnection or access at a
+particular point evidences the technical feasibility of interconnection or access at substantially similar
+points.  Finally, we conclude that incumbent LECs must prove to the appropriate state commission that
+a particular interconnection or access point is not technically feasibile. 
+199.  We find that the 1996 Act bars consideration of costs in determining “technically feasible”
+points of interconnection or access.  In the 1996 Act, Congress distinguished "technical" considerations
+from economic concerns.  Section 251(f), for example, exempts certain rural LECs from "unduly
+economically burdensome" obligations imposed by section 251(c) even where satisfaction of such
+obligations is "technically feasible."
+  Similarly, section 254(h)(2)(A) treats "technically feasible" and
+423
+"economically reasonable" as separate requirements.
+  Finally, we note that the House committee that
+424
+considered H.R. 1555 (which was combined with Senate Bill S.652 to form the 1996 Act) dropped
+the term "economically reasonable" from its unbundling provision.  The House committee explicitly
+addressed this substantive change, reporting that "this requirement could result in certain unbundled . . .
+elements . . . not being made available."
+  Thus, the deliberate and explained substantive omission of
+425
+explicit economic requirements in sections 251(c)(2) and 251(c)(3) cannot be undone through an
+interpretation that such considerations are implicit in the term "technically feasible."  Of course, a
+
+
+## Source page 102
+
+Federal Communications Commission
+96-325
+ See 47 U.S.C. § 252(d)(1); see also infra, Section VII (concluding that requesting carriers must pay incumbent
+426
+LECs the cost of interconnection or unbundling).
+ Policies and Rules Concerning Interstate 900 Telecommunications Services
+, Report and Order, 6 FCC Rcd 6166,
+427
+6174 (1991) (900 Service).
+ USTA comments at 12 n.16; SBC reply at 16.
+428
+ 900 Service at 6174. 
+429
+ See 47 U.S.C. § 251(f)(1)(A).
+430
+ SBC reply at 16 ("Presumably Congress was aware of this FCC definition of the term "technically feasible" when
+431
+Congress chose to use it in the 1996 Act.").
+ 47 U.S.C. § 251(c)(6).
+432
+102
+requesting carrier that wishes a "technically feasible" but expensive interconnection would, pursuant to
+section 252(d)(1), be required to bear the cost of that interconnection, including a reasonable profit.426
+200.  USTA and SBC cite the Commission's 900 Service order
+ as support for the
+427
+contention that costs must be considered in a technical feasibility analysis.
+  In that order, the
+428
+Commission concluded that "[i]n defining 'technically feasible,' we balance both technical and economic
+considerations with a view toward providing [900] blocking capability to consumers without imposing
+undue economic burdens on LECs."
+  Our 900 Service order, however, has little bearing on our
+429
+interpretation of the term "technically feasible" in the 1996 Act.  As stated above, the 1996 Act
+distinguishes technical considerations from the "undue economic burdens" considered in the 900
+Service order.  Indeed, Congress used virtually the same language—"unduly economically
+burdensome"—in drawing the distinction.
+  If, as SBC contends, we are to presume that Congress
+430
+was aware of the Commission's analysis of the technical feasibility of 900 call blocking,
+ the 1996 Act
+431
+appears squarely to reject that view of technical feasibility.  Moreover, unlike the costs of providing
+900 call blocking, which we imposed largely on LECs in the 900 Service order, as noted above, to the
+extent incumbent LECs incur costs to provide interconnection or access under sections 251(c)(2) or
+251(c)(3), incumbent LECs may recover such costs from requesting carriers. 
+201.  In addition to economic considerations, section 251(c)(6) distinguishes considerations of
+"space limitations" from those of "technical reasons," and thus, in general, we believe existing space or
+site restrictions should not be included within a technical feasibility analysis.
+  Of course, under section
+432
+251(c)(6) "space" restrictions are expressly considered along with "technical" considerations in
+determining whether an incumbent LEC must provide for physical collocation.  Where physical
+collocation is not practical because of "space limitations," however, incumbent LECs must provide for
+
+
+## Source page 103
+
+Federal Communications Commission
+96-325
+ Id. 
+433
+ See Random House College Dictionary at 1349 ("6. pertaining to or connected with the mechanical or industrial
+434
+arts and the applied sciences").
+ The American Heritage College Dictionary 499 (1993).  Webster's Ninth New Collegiate Dictionary 453 (1989). 
+435
+Both "feasible" and "possible" refer to that which is "capable of being realized"  
+Id. at 918.
+ 47 U.S.C. § 251(c)(6) (emphasis added).
+436
+ Webster's at 923.
+437
+ Random House College Dictionary 1040 (rev. ed. 1984).
+438
+103
+virtual collocation.
+  Section 251 is silent as to whether an incumbent LEC's duty to provide for virtual
+433
+collocation or other methods of interconnection or access to unbundled elements is dependent on space
+constraints.  We conclude, as a practical matter, that space limitations at a particular network site,
+without any possibility of expansion, may render interconnection or access at that point infeasible,
+technically or otherwise.  Where such expansion is possible, however, we conclude that, in light of the
+distinction drawn in section 251(c)(6), site restrictions do not represent a "technical" obstacle.  Again,
+however, the requesting party would bear the cost of any necessary expansion.  Nor do we believe the
+term "technical," when interpreted in accordance with its ordinary meaning as referring to engineering
+and operational concerns in the context of sections 251(c)(2) and 251(c)(3),
+ includes consideration
+434
+of accounting or billing restrictions. 
+202.   Several parties also attempt to draw a distinction between what is "feasible" under the
+terms of the statute, and what is "possible."  The words "feasible" and "possible," however, are used
+synonymously.  Feasible is defined as "capable of being accomplished or brought about; possible."
+ 
+435
+The statute itself provides a more meaningful distinction.  Unlike the "technically feasible" terminology
+included in sections 251(c)(2) and 251(c)(3), section 251(c)(6) uses the term "practical for technical
+reasons" in determining the scope of an incumbent LEC's obligation to provide for physical
+collocation.
+  "Practical" is defined as "manifested in practice or action . . . not theoretical or ideal"
+436
+437
+or "adapted or designed for actual use; useful," and connotes similarity to ordinary usage.
+  Thus, it is
+438
+reasonable to interpret Congress's use of the term "feasible" in sections 251(c)(2) and 251(c)(3) as
+encompassing more than what is merely "practical" or similar to what is ordinarily done.  That is, use of
+the term "feasible" implies that interconnecting or providing access to a LEC network element may be
+feasible at a particular point even if such interconnection or access requires a novel use of, or some
+modification to, incumbent LEC equipment.  This interpretation is consistent with the fact that incumbent
+LEC networks were not designed to accommodate third-party interconnection or use of network
+elements at all or even most points within the network.  If incumbent LECs were not required, at least
+to some extent, to adapt their facilities to interconnection or use by other carriers, the purposes of
+
+
+## Source page 104
+
+Federal Communications Commission
+96-325
+  Network Reliability: A Report to the Nation (1993, National Engineering Consortium); Network Reliability: The
+439
+Path Forward (1996, Internet: http://www.fcc.gov/oet/nrc).
+104
+sections 251(c)(2) and 251(c)(3) would often be frustrated.  For example, Congress intended to
+obligate the incumbent to accommodate the new entrant's network architecture by requiring the
+incumbent to provide interconnection "for the facilities and equipment" of the new entrant.  Consistent
+with that intent, the incumbent must accept the novel use of, and modification to, its network facilities to
+accommodate the interconnector or to provide access to unbundled elements.
+203.  We also conclude, however, that legitimate threats to network reliability and security must
+be considered in evaluating the technical feasibility of interconnection or access to incumbent LEC
+networks.  Negative network reliability effects are necessarily contrary to a finding of technical
+feasibility.  Each carrier must be able to retain responsibility for the management, control, and
+performance of its own network.  Thus, with regard to network reliability and security, to justify a
+refusal to provide interconnection or access at a point requested by another carrier, incumbent LECs
+must prove to the state commission, with clear and convincing evidence, that specific and significant
+adverse impacts would result from the requested interconnection or access.  The reports of the
+Commission's Network Reliability Council discuss network reliability considerations, and establish
+templates that list activities that need to occur when service providers connect their networks pursuant
+to defined interconnection specifications or when they are attempting to define a new network interface
+specification.
+ 
+439
+204.  We further conclude that successful interconnection or access to an unbundled element at
+a particular point in a network, using particular facilities, is substantial evidence that interconnection or
+access is technically feasible at that point, or at substantially similar points in networks employing
+substantially similar facilities.  In comparing networks for this purpose, the substantial similarity of
+network facilities may be evidenced, for example, by their adherence to the same interface or protocol
+standards.  We also conclude that previous successful interconnection at a particular point in a network
+at a particular level of quality constitutes substantial evidence that interconnection is technically feasible
+at that point, or at substantially similar points, at that level of quality.  Although most parties agree with
+this conclusion, some LECs contend that such comparisons are all but impossible because of alleged
+variability in network technologies, even where the ultimate services offered by separate networks are
+the same.  We believe that, if the facilities are substantially similar, the LECs' contention is adequately
+addressed.  
+205.  Finally, because sections 251(c)(2) and 251(c)(3) impose duties upon incumbent LECs,
+we conclude that incumbent LECs must prove to the appropriate state commission that interconnection
+or access at a point is not technically feasible.  Incumbent LECs possess the information necessary to
+assess the technical feasibility of interconnecting to particular LEC facilities.  Further, incumbent LECs
+
+
+## Source page 105
+
+Federal Communications Commission
+96-325
+ NPRM at paras. 56-59.
+440
+ See, e.g., USTA comments at 10-11; BellSouth comments at 15-19; NYNEX comments at 65 (points of
+441
+interconnection should be left to negotiation); Ameritech comments at 13-14; PacTel comments at 21-22; Oregon
+Commission comments at 25-26.
+ Ameritech comments at 13-14; Ohio Commission comments at 24.
+442
+ Bell Atlantic comments at 20-21; Lincoln Tel. comments at 5.
+443
+105
+have a duty to make available to requesting carriers general information indicating the location and
+technical characteristics of incumbent LEC network facilities.  Without access to such information,
+competing carriers would be unable to make rational network deployment decisions and could be
+forced to make inefficient use of their own and incumbent LEC facilities, with anticompetitive effects.
+206.  We have considered the economic impact of our rules in this section on small incumbent
+LECs.  For example, the Rural Telephone Coalition argues that the Commission should set
+interconnection points in a flexible manner to recognize the differences between carriers and regions. 
+We do not adopt the Rural Telephone Coalition's position because we believe that, in general, the Act
+does not permit incumbent LECs to deny interconnection or access to unbundled elements for any
+reason other than a showing that it is not technically feasible.  We believe that this interpretation will
+advance the procompetitive goals of the statute.  We also note, however, that section 251(f) of the
+1996 Act provides relief to certain small LECs from our regulations implementing section 251.
+F.
+Technically Feasible Points of Interconnection 
+1.
+Background
+207.  In the NPRM, we requested comment on which points within an incumbent LEC's
+network constitute "technically feasible" points for purposes of section 251(c)(2).
+  Having defined the
+440
+phrase "technically feasible" above, we now determine a minimum set of technically feasible points of
+interconnection.  
+2.
+Comments
+208.  Incumbent LECs claim that the specific points of interconnection should either be left to
+the negotiation process, or that the Commission should require interconnection only at core points, and
+leave all other points to the negotiation process.
+  For example, Ameritech claims that it is only
+441
+technically feasible for competitors to interconnect at its end or tandem offices.
+  Bell Atlantic asserts
+442
+that the trunk- and loop-side of the local switch, transport facilities, tandem facilities, and the signal
+transfer points (STPs) are the only technically feasible points for interconnection.
+  Potential
+443
+
+
+## Source page 142
+
+Federal Communications Commission
+96-325
+ 47 U.S.C. § 251(c)(3).
+609
+ Illinois Commission comments at 36-38; CompTel reply at 21; Cable & Wireless reply at 20; LDDS comments at 40
+610
+(the statute grants carriers the right to use unbundled elements to offer any telecommunications service); 
+accord
+GCI reply at 11.  
+ LDDS comments at 40; AT&T comments at 27; Cable & Wireless reply at 20; Texas Public Utility Counsel
+611
+comments at 8-9;  see also NCTA comments at 40-41 (new entrants must have access to elements that are necessary
+to provide a telecommunications service).   
+ Texas Public Utility Counsel comments at 8-9. 
+612
+ AT&T comments at 27; CompTel reply at 23-24; see also MCI comments at 23.
+613
+ CompTel comments at 38.  Back office systems include the administrative means by which incumbent LECs
+614
+commercially provision telecommunications services to consumers.  Thus, they include the means by which
+incumbent LECs accept orders for services, respond to requests for repairs, etc.  
+ Sprint comments at 30.
+615
+142
+provide" a telecommunications service.
+  In the NPRM, we sought comment on the meaning of this
+609
+requirement.  
+2.
+Comments 
+290.  The Illinois Commission and Texas Public Utility Counsel, as well as a number of
+potential local competitors, argue that incumbent LECs cannot limit the nature of requests for required
+elements, restrict the sale of those elements or the manner in which carriers use them,
+ impose
+610
+requirements on the use of unbundled elements, or require the purchase of elements that carriers do not
+need.
+  The Texas Public Utility Counsel contends that carriers may combine unbundled elements with
+611
+any technically-compatible equipment.
+  AT&T argues that incumbent LECs should be prohibited
+612
+from separating elements that are ordered in combination, or from varying the definition of an unbundled
+element based on the services a carrier seeks to offer (absent the consent of the requesting carrier). 
+AT&T and Comptel also argue that, in order to enable new entrants to offer competing services,
+incumbent LECs must perform the functions necessary to combine elements, and they must do so in any
+technically feasible manner requested by a new entrant.
+  According to Comptel, incumbent LECs
+613
+must provide the operational and back office systems necessary for requesting carriers to purchase and
+combine network elements, otherwise the new entrants' ability to compete will be impaired.
+  Sprint
+614
+contends that this provision requires incumbents to offer different facilities and services in connection
+with a particular element, depending on the service a requesting carrier seeks to offer.
+  The Florida
+615
+Commission argues, however, that, if a new entrant needs a particular variation of an element to offer a
+service, that element should be treated as distinct.  This means, for example, that, if a requesting carrier
+
+
+## Source page 143
+
+Federal Communications Commission
+96-325
+ Florida Commission comments at 22.
+616
+ NYNEX reply at 19.
+617
+ BellSouth comments at 36; see also PacTel reply at 16-17. 
+618
+ 47 U.S.C. § 251(c)(3).
+619
+143
+seeks a local loop with a specific kind of conditioning, that loop should be treated as a distinct element
+from loops with other kinds of conditioning.
+   
+616
+291.  NYNEX contends that incumbent LECs are not obligated to connect unbundled elements
+either to each other or to new entrants' facilities, and that the text of section 251(c)(3) requires
+requesting carriers to do the combining.
+  BellSouth argues that section 251(c)(3) requires requesting
+617
+carriers to identify network elements with sufficient specificity so that their characteristics and
+appropriate uses can be defined.  BellSouth contends that section 251(c)(3) prohibits carriers from
+requesting elements to provide cable or information services.
+                        
+618
+3.
+Discussion 
+292.  Under section 251(c)(3), incumbent LECs must provide access to "unbundled network
+elements in a manner that allows requesting carriers to combine such elements in order to provide" a
+telecommunications service.
+  We agree with the Illinois Commission, the Texas Public Utility
+619
+Counsel, and others that this language bars incumbent LECs from imposing limitations, restrictions, or
+requirements on requests for, or the sale or use of, unbundled elements that would impair the ability of
+requesting carriers to offer telecommunications services in the manner they intend.  For example,
+incumbent LECs may not restrict the types of telecommunications services requesting carriers may offer
+through unbundled elements, nor may they restrict requesting carriers from combining elements with any
+technically compatible equipment the requesting carriers own.  We also conclude that section 251(c)(3)
+requires incumbent LECs to provide requesting carriers with all of the functionalities of a particular
+element, so that requesting carriers can provide any telecommunications services that can be offered by
+means of the element.  We believe this interpretation provides new entrants with the requisite ability to
+use unbundled elements flexibly to respond to market forces, and thus is consistent with the
+procompetitive goals of the 1996 Act.
+293.  We agree with AT&T and Comptel that the quoted text in section 251(c)(3) bars
+incumbent LECs from separating elements that are ordered in combination, unless a requesting carrier
+specifically asks that such elements be separated.  We also conclude that the quoted text requires
+incumbent LECs, if necessary, to perform the functions necessary to combine requested elements in any
+technically feasible manner either with other elements from the incumbent's network, or with elements
+
+
+## Source page 144
+
+Federal Communications Commission
+96-325
+ In this context, we conclude that the term "combine" means connecting two or more unbundled network elements
+620
+in a manner that would allow a requesting carrier to offer the telecommunications service it seeks to offer.   
+ See infra, Section V.J.
+621
+144
+possessed by new entrants, subject to the technical feasibility restrictions discussed below.  We adopt
+these conclusions for two reasons.  First, in practice it would be impossible for new entrants that lack
+facilities and information about the incumbent's network to combine unbundled elements from the
+incumbents' network without the assistance of the incumbent.  If we adopted NYNEX's proposal, we
+believe requesting carriers would be seriously and unfairly inhibited in their ability to use unbundled
+elements to enter local markets.  We therefore reject NYNEX's contention that the statute requires
+requesting carriers, rather than incumbents, to combine elements.  We do not believe it is possible that
+Congress, having created the opportunity to enter local telephone markets through the use of unbundled
+elements, intended to undermine that opportunity by imposing technical obligations on requesting
+carriers that they might not be able to readily meet. 
+294.  Second, given the practical difficulties of requiring requesting carriers to combine
+elements that are part of the incumbent LEC's network, we conclude that section 251(c)(3) should be
+read to require incumbent LECs to combine elements requested by carriers.  More specifically, section
+251(c)(3) provides that incumbent LECs must provide unbundled elements "in a manner that allows
+requesting carriers to combine them" to provide a telecommunications service.  We believe this phrase
+means that incumbents must provide unbundled elements in a way that enables requesting carriers to
+combine them to provide a service.  The phrase "allows requesting carriers to combine them," does not
+impose the obligation of physically combining elements exclusively on requesting carriers.  Rather, it
+permits a requesting carrier to combine the elements if the carrier is reasonably able to do so.  If the
+carrier is unable to combine the elements, the incumbent must do so.620
+295.  Our conclusion that incumbent LECs must combine unbundled elements when so
+requested is consistent with the method we have adopted to identify unbundled network elements. 
+Under our method, incumbents must provide, as a single, combined element, facilities that could
+comprise more than one element.  This means, for example, that, if the states require incumbent LECs
+to provision subloop elements, incumbent LECs must still provision a local loop as a single, combined
+element when so requested, because we identify local loops as a single element in this proceeding.621
+296.  We decline to adopt the view proffered by some parties that incumbents must combine
+network elements in any technically feasible manner requested.  This proposal necessarily means that
+carriers could request incumbent LECs to combine elements that are not ordinarily combined in the
+incumbent's network.  We are concerned that, in some instances, this could potentially affect the
+reliability and security of the incumbent's network, and the ability of other carriers to obtain
+
+
+## Source page 145
+
+Federal Communications Commission
+96-325
+ As discussed in Section IV, effects on network reliability and security are factors to be considered in determining
+622
+technical feasibility.
+ For an explanation of what conditioning of a local loop means 
+see infra, Section V.J.1. 
+623
+ Florida Commission comments at 22.
+624
+ Incumbent LEC back-office systems are discussed in Section V.J. 
+625
+145
+interconnection, or request and use unbundled elements.  Accordingly, incumbent LECs are required to
+perform the functions necessary to combine those elements that are ordinarily combined within their
+network, in the manner in which they are typically combined.  Incumbent LECs are also required to
+perform the functions necessary to combine elements, even if they are not ordinarily combined in that
+manner, or they are not ordinarily combined in the incumbent's network, provided that such
+combination is technically feasible,
+ or such combination would not undermine the ability of other
+622
+carriers to access unbundled elements or interconnect with the incumbent LEC's network.  Incumbent
+LECs must prove to state commissions that a request to combine particular elements in a particular
+manner is not technically feasible, or that the request would undermine the ability of other carriers to
+access unbundled elements and interconnect because they have the information to support such a claim. 
+297.  We agree with Sprint and the Florida Commission, respectively, that in some cases
+incumbent LECs may be required to provision a particular element in different ways, depending on the
+service a requesting carrier seeks to offer; and, in other instances, where a new entrant needs a
+particular variant of an element to offer a service, that element should be treated as distinct from other
+variants of the element.  This means, for example, that we will treat local loops with a particular type of
+conditioning
+ as distinct elements that are different from loops with other types of conditioning.
+  As
+623
+624
+discussed below, we agree with CompTel that incumbent LECs must provide the operational and
+support systems necessary for requesting carriers to purchase and combine network elements. 
+Incumbent LECs use these systems to provide services to their own end users, and new entrants
+similarly must have access to them to provide telecommunications services using unbundled elements.
+ 
+625
+Finally, we agree with BellSouth that requesting carriers must specify to incumbent LECs the network
+elements they seek before they can obtain such elements on an unbundled basis.  We do not believe,
+however, that it will always be possible for new entrants to do this either before negotiations (or
+arbitrations) begin, or before they end, because new entrants will likely lack knowledge about the
+facilities and capabilities of a particular incumbent LEC's network.  We further believe that incumbent
+LECs must work with new entrants to identify the elements the new entrants will need to offer a
+particular service in the manner the new entrants intend.  
+
+
+## Source page 146
+
+Federal Communications Commission
+96-325
+ 47 U.S.C. § 251(c)(3).
+626
+ NPRM at paras. 79, 89.
+627
+ MFS comments at 16-17, 41; AT&T comments at 33-39; AT&T reply at 21-22; TCC comments at 54-60; Cable &
+628
+Wireless comments at 36-37; MCI comments at 20-27; Ericsson comments at 3; Continental comments at 19; Comcast
+comments at 24-25; Intermedia comments at 3-13; Florida Commission comments at 21; Illinois Commission comments
+at 40; Washington Commission comments at 21-22; Sprint comments at 17-19; GST comments at 17; Teleport reply at
+26-29; Nextel comments at 9-10; NCTA comments at 44-46; Colorado Commission comments at 27 (some general
+146
+G.
+Nondiscriminatory Access to Unbundled Network Elements and Just, Reasonable and
+Nondiscriminatory Terms and Conditions for the Provision of Unbundled Network
+Elements 
+ 
+1.
+Background
+298.  Section 251(c)(3) requires incumbent LECs to provide requesting carriers
+"nondiscriminatory access to network elements on an unbundled basis . . . on rates, terms, and
+conditions that are just, reasonable, and nondiscriminatory."
+  In the NPRM, we sought comment on
+626
+whether we should adopt minimum national requirements governing the terms and conditions for the
+provision of unbundled network elements.  We further asked what rules could ensure that the terms and
+conditions for access to unbundled network elements are just, reasonable and nondiscriminatory, and
+how we should enforce such rules.  In particular, we sought comment on whether we should adopt
+uniform national rules governing provisioning, service, maintenance, technical standards and
+nondiscrimination safeguards in connection with the provision of unbundled network elements.  We also
+asked whether we should consider any of the terms and conditions applicable to the provision of access
+to unbundled elements in evaluating BOC applications to provide in-region interLATA services under
+section 271(b).627
+   
+2.
+Comments
+299.  The Florida, Illinois and Washington Commissions, as well as a number of potential
+competitors, argue that we should adopt national standards governing the terms and conditions for the
+provision of unbundled elements to ensure that new entrants obtain nondiscriminatory access to
+elements.  These parties contend that incumbent LECs have the incentive and ability to delay the
+provisioning of unbundled elements, to provide lower quality services to new entrants, and engage in
+other anticompetitive tactics.  They further argue that it would be a tremendous barrier to entry if new
+entrants had to negotiate the terms and conditions for the provision of unbundled elements on a state by
+state basis, especially in light of the incumbent LECs' superior bargaining power.  Accordingly, they
+argue that we should establish requirements mandating nondiscriminatory performance for ordering,
+installation, provisioning, maintenance, repair and billing.
+  Cable & Wireless argues that access to
+628

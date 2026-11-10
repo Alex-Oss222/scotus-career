@@ -1,0 +1,2744 @@
+(9) - 
+
+
+Supreme Court US. B 
+No. 00-1543 «“ D 
+
+
+Cet ee Ee ee er 
+OCF 2 vay 
+
+
+IN THE i 
+Supreme Court of the United States 
+
+
+FESTO CORPORATION, 
+
+
+Petitioner, 
+Vv. 
+
+
+SHOKETSU KINZOKU KOGYO KABUSHIKI Co., LTD. 
+a/k/a SMC Corp. and SMC PNEUMATICS, INC., 
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals 
+for the Feceral Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+JAMES B. LAMPERT ARTHUR I. NEUSTADT 
+
+HALE AND DORR LLP Counsel of Record 
+
+60 State Street CHARLES L. GHOLZ 
+
+Boston, Massachusetts 02109 ROBERT T. POUS 
+
+(617) 526-6000 OBLON, SPIVAK, MCCLELLAND, 
+
+MAIER & NEUSTADT, P.C. 
+
+1755 Jefferson Davis Highway 
+Arlington, Virginia 22202 
+(703) 413-3000 
+
+
+Counsel for Respondents 
+
+
+Witson-Epes Printine Co., INC. — (202) 789-0096 - WasninGcTON, D.C. 20001 
+
+
+f ij 
+
+
+, 
+
+
+| —o 
+
+
+BEST AVAILABLE COPY) Sd 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+1. Whether prosecution history estoppel applies to an 
+amendment that narrows the scope of a claim (a) for a reason 
+related to avoidance of prior art, or (b) for a reason unexplained 
+on the public record of the patent prosecution, or (c), indeed (as 
+the Federal Circuit held), “for any reason related to the statutory 
+requirements for a patent.” 
+
+
+2. Whether, as the Federal Circuit held, “when a claim 
+amendment creates prosecution history estoppel, no range of 
+equivalents is available for the amended claim element.” 
+
+
+ii 
+CORPORATE DISCLOSURE STATEMENT 
+
+
+SMC Corporation, the parent of SMC Pneumatics, Inc. 
+(now SMC Corporation of America), has no parent or other 
+holder of 10% or more of its stock. 
+
+
+iii 
+
+TABLE OF CONTENTS 
+page 
+QUESTIONS PRESENTED ............cecseeeeeess i 
+CORPORATE DISCLOSURE STATEMENT .......... ii 
+Dc ncccceeccacsececescect es iii 
+TABLE OF AUTHORITIES ..........cccccccecceess v 
+STATEMENT OF THE CASE ............sceeeeeee l 
+A. Patent Applications and Their Prosecution .... . 2 
+a. LS ccs copectnceosccccesce 6 
+Be BD oc ccbcbcccucceceses: 6 
+2. The Absence of Literal Infringement ...... 6 
+3. Prosecution History: The Stoll Patent ..... 8 
+
+
+i \ —— — PTTTTTTTTT TTT TTeT ieee 10 
+
+1. District Court Proceedings ............. 10 
+
+2. Pamel Decisbems 2... ccccccccccccccees 12 
+
+3. The En Banc Decision ................ 15 
+SUMMARY OF THE ARGUMENT ..............-. 18 
+
+
+A. Festo’s Dual-Sealing-Ring Amendments, 
+
+
+B. eee Amendment 
+s Within A Core Circumstance Generating 
+SS 6 ccecasrssiencbedndeeniudduwas 21 
+
+
+C. The Federal Circuit Properly Held Estoppel 
+Applicable to Any Substantively Scope- 
+Narrowing Amendment Made To Satisfy 
+A Requirement for Issuance of the Patent .... . 23 
+
+
+Il. The Applicable Estoppel Bars Equivalents Co erage 
+ttn Aas Mealy etter eee Po 
+
+
+A. This Court’s Governing Precedents, Exhibit 
+Supply and Warner-Jenkinson, Directly 
+Support the Federal Circuit’s Holding That 
+Equivalents Coverage Is Barred ............ 27 
+
+
+B. ag Circuit, Based On Its Unique 
+perience, Properly Adopted The “Complete 
+Bar” Rule In Preference To The Irretrievably 
+Unpredictable “Flexible” Approach ......... 31 
+
+
+C. The Federal Circuit’s Experience-Based 
+Judgment Is Not Defeated By Any Reasonable 
+Reliance Interest Or Other Overriding Policy 
+GED sce cvddadnusetaddidciad eettot 42 
+
+
+GUNN db vN ee cddvccadéecedcoeecdn 48 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases: 
+
+
+Advanced Display Systems, Inc. v. Kent State University, 
+212 F.3d 1272 (Fed. Cir. 2000), cert. denied, 
+
+
+121 S. Ct. 1226 (2001) .. 2... cece e ee ee ee eee 47 
+
+
+Ajinomoto Co. v. Archer-Daniels-Midland Co., 
+228 F.3d 1338 (Fed. Cir. 2000), cert. denied, 
+
+
+121 S. Ct. 1957 (2001) 2... . cee cece e cece cence: 47 
+BAI v. L & L Wings, 
+
+160 F.3d 1350 (Fed. Cir. 1998) ........... 50 eee 26 
+Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 
+
+489 U.S. 141 (1989) 2.2... ccc cece eee eeececes 25 
+Brenner v. Manson, 
+
+383 U.S. 519 (1966) 0... cece cece eee eee eeees 4 
+
+
+C.R. Bard, Inc. v. Medtronic, Inc., 
+250 F.3d 760 (Fed. Cir. 2000) .......-.--- ee eee 47 
+
+
+Caterpillar, Inc. v. Deere & Co., 
+224 F.3d 1374 (Fed. Cir. 2000) ............-- 44, 47 
+
+
+Clearstream Wastewater Systems, Inc. v. Hydro-Action, Inc., 
+206 F.3d 1440 (Fed. Cir. 2000) ...... 2... e eens 47 
+
+
+Comark Communications, Inc. v. Harris Corp., 
+156 F.3d 1182 (Fed. Cir. 1998) ... 2.2... ec ee ees 46 
+
+
+Corning Glass Works v. Sumitomo Electric U.S.A., 
+868 F.2d 1251 (Fed. Cir. 1989) ..........-0eeees 46 
+
+
+vi 
+
+
+Cybor Corp. v. FAS Technologies, Inc., 
+138 F.3d 1448 (Fed. Cir. 1998) ..............4., 46 
+
+
+Dow Chemical Co. v. United States, 
+226 F.3d 1334 (Fed. Cir. 2000) ................. 47 
+
+
+Doyle v. Crain Indus., Inc., 
+243 F.3d 564 (Fed. Cir. 2000) ..............055- 47 
+
+
+Ekco Prods. Co. v. Chicago Metallic Mfg. Co., 
+eg ETT Tee 18 
+
+
+Embrex, Inc. v. Service Eng'g Corp., 
+216 F.3d 1343 (Fed. Cir. 2000) ..............6... 47 
+
+
+Envirco Corp. v. Clestra Cleanroum, Inc., 
+209 F.3d 1360 (Fed. Cir. 2000) ..............4.5. 47 
+
+
+Exhibit Supply Co. v. Ace Patents Corp., 
+es DEED Rbatdnc Sud ose ce vobuecs passim 
+
+
+Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 
+187 F.3d 1381 (Fed. Cir. 1999) ......... 0. eeeee 13 
+
+
+Fiskars, Inc. v. Hunt Mfg. Co.., 
+221 F.3d 1318 (Fed. Cir. 2000), cert. denied, 
+ET Boia cco vsebunsabetes 46, 48 
+
+
+Fonar Corp. v. General Elec. Co., 
+
+
+107 F.36 1543 (Ped. Cir. 1997) .. 0... cece encee: 46 
+
+
+General Elec. Co. v. Wabash Appliance Corp., 
+PEED bch bueedéeveseacescovanss 25 
+
+
+vii 
+
+
+General Surgical Innovations, Inc. v. Origin Medsystems, Inc., 
+250 F.3d 761 (Fed. Cir. 2000) ............2000.- 47 
+
+
+Goodwall Constr. Co. v. Beers Constr. Co., 
+ee ee ES SE b's Sa naccdosesdiesi 46 
+
+
+Goodyear Dental Vulcanite Co. v. Davis, 
+ES dun linncctbedvecdheteio’s 28 
+
+
+Graham v. John Deere Co.., 
+ee Pe ee 38 
+
+
+Graver Tank & Mfg. Co. v. Linde Air Products Co., 
+POUND Sh acctisdcéSceddcetcoss 28, 47 
+
+
+Heidelberg Harris, Inc. v. Mitsubishi Heavy Industries, Ltd., 
+243 F.36 S60 (Fed. Cir. 2000) ..... ccc ccccccess 47 
+
+
+Hilgraeve Corp. v. McAfee Associates, Inc., 
+224 F.3d 1349 (Fed. Cir. 2000) ................. 47 
+
+
+Honeywell, Inc. v. Litton Systems, Inc., 
+SP DEUS GUE Sethcbdndececocceses 12,14 
+
+
+Hughes Aircraft Co. v. United States, 
+717 F.2d 1351 (Fed. Cir. 1983) ........... 18, 34, 43 
+
+
+Hughes Aircraft Co. v. United States, 
+140 F.3d 1470 (Fed. Cir. 1998) ................. 12 
+
+
+Hughes Aircraft Co. v. United States, 
+148 F.3d 1384 (Fed. Cir. 1998) ................. 12 
+
+
+Vili 
+
+
+IMS Technology, Inc. v. Haas A utomation, Inc., 
+206 F.3d 1422 (Fed. Cir. 2000), cert. denied, 
+
+
+a PPE 0606600 6000505460006060% 47 
+Indian Creek Mesquite, Inc. v. W.W. Wood, Inc., 
+
+250 F.3d 761 (Fed. Cir. 2000) ................5. 47 
+INS v. St. Cyr, 
+
+ey Es iiucdvcnaeeduladuvadsuss 33 
+
+
+Insta-Foam Prods., Inc. v. Universal Foam Systems, Inc., 
+906 F.2d 696 (Fed. Cir. 1990) ...........ccceee, 46 
+
+
+Iscar Ltd. v. Sandvik AB, 
+243 F.3d 558 (Fed. Cir. 2000) ..............000e: 47 
+
+
+LT.S. Rubber Co. v. Essex Rubber Co., 
+I es Cee 28 
+
+
+Kinzenbaw v. Deere & Co., 
+741 F.2d 383 (Fed. Cir. 1984) ...... cadewheneeda 18 
+
+
+Kraft Foods, Inc. v. ITC, 
+203 F.3d 1362 (Fed. Cir. 2000) .............. 46, 48 
+
+
+Laitram Corp. v. Cambridge Wire Cloth Co., 
+863 F.2d 855 (Fed. Cir. 1988) .................. 46 
+
+
+Lampi Corp. v. American Power Prods., Inc., 
+228 F.3d 1365 (Fed. Cir. 2000) ................. 47 
+
+
+Landgraf v. USI Film Prods., 
+SPE cece éeeveseededscotresed: 33 
+
+
+ix 
+
+
+Lifescan, Inc. v. Home Diagnostics, Inc., 
+76 F.3d 358 (Fed. Cir. 1996) ...... 0... ccc eens 46 
+
+
+Litton Systems, Inc. v. Honeywell, Inc., 
+140 F.3d 1449 (Fed. Cir. 1998) ........ 12, 14, 26, 39 
+
+
+Litton Systems, Inc. v. Honeywell, Inc., 
+145 F.3d 1472 (Fed. Cir. 1998) ..... 12, 14, 30, 39, 45 
+
+
+London v. Carson Pirie Scott & Co., 
+946 F.2d 1534 (Fed. Cir. 1991) .............08.. 44 
+
+
+Loral Fairchild Corp. v. Sony Corp., 
+181 F.3d 1313 (Fed. Cir. 1999), cert. denied, 
+DP PED ccccdévecectoeseoesecess 26 
+
+
+Magnivision, Inc. v. Bonneau Co., 
+250 F.3d 758 (Fed. Cir. 2000) .............000. 47 
+
+
+Markman v. Westview Instruments, Inc., 
+DED adediveicocesccccccecs 33, 34 
+
+
+Messagephone, Inc. v. SVI Systems, Inc., 
+243 F.3d 556 (Fed. Cir. 2000) ....... 0.0.05 e eens 47 
+
+
+Miles Labs., Inc. v. Shandon Inc., 
+997 F.2d 870 (Fed. Cir. 1993) .............00ee. 46 
+
+
+Mycogen Plant Science, Inc. v. Monsanto Co., 
+252 F.3d 1306 (Fed. Cir. 2001) ..........50e ees 15 
+
+
+Nationwide Chemical Corp. v. Wright, 
+584 F.2d 714 (Sth Cir. 1978) .... 00... cece eee 18 
+
+
+x 
+
+
+Northern Telecom Ltd. v. Samsung Electronics Co., 
+
+
+215 F.3d 1281 (Fed. Cir. 2000) ................. 47 
+Optical Disc Corp. v. Del Mar Avionics, 
+
+208 F.3d 1324 (Fed. Cir. 2000) .............. 46, 47 
+Overhead Door Corp. v. Chamberlain Group, Inc., 
+
+194 F.3d 1261 (Fed. Cir. 1999) ................. 46 
+Pioneer Magnetics Inc. v. Micro Linear Corp., 
+
+238 F.3d 1341 (Fed. Cir. 2001) ................. 22 
+Read Corp. v. Portec, Inc., 
+
+970 F.2d 816 (Fed. Cir. 1992) .................. 46 
+Richardson-Vicks Inc. v. Upjohn Co., 
+
+122 F.3d 1476 (Fed. Cir. 1997) ................. 38 
+Rivera-Davila v. Asset Conservation, Inc., 
+
+230 F.3d 1378 (Fed. Cir. 2000) ................. 47 
+Ruiz v. A.B. Choice Co., 
+
+234 F.3d 654 (Fed. Cir. 2000) .............0000. 47 
+Sage Products Inc. v. Devon Industries Inc., 
+
+126 F.3d 1420 (Fed. Cir. 1997) ................. 48 
+Schriber-Schroth Co. v. Cleveland Trust Co.., 
+
+ee eh I iin ew ids dedn cc db cucu 28 
+Shepard v. Carrigan, 
+
+SP A As hae dasHedudccucsea cues 28 
+SMC Corp. v. Festo Corp., 
+
+8 RRR er nee 12 
+
+
+xi 
+
+
+Smith v. Magic City Kennel Club, 
+, 4 FPP eT iTiiTe erie 28 
+
+
+Southwest Software, Inc. v. Harlequin Inc., 
+226 F.3d 1280 (Fed. Cir. 2000) ............5005. 47 
+
+
+Stryker Corp. v. Davol Inc., 
+234 F.3d 1252 (Fed. Cir. 2000) .......... 05-005: 47 
+
+
+Sun Studs, Inc. v. ATA Equip. Leasing, Inc., 
+872 F.2d 978 (Fed. Cir. 1989) ..........0. eee 46 
+
+
+Ta Instruments, Inc. v. Perkin-Elmer Corp., 
+250 F.3d 756 (Fed. Cir.), cert. denied, 
+. | te of) rr rrr rr reer 48 
+
+
+Tate Access Floors, Inc. v. Maxcess Technologies, Inc., 
+222 F.3d 958 (Fed. Cir. 2000) ...........-505 06. 47 
+
+
+Turbocare Division v. General Electric Co., 
+264 F.3d 1111 (Fed. Cir. 2001) .............. 15, 46 
+
+
+Uniroyal, Inc. v. Rudkin-Wiley Corp., 
+939 F.2d 1540 (Fed. Cir. 1991) .........-- 0 ee eee 46 
+
+
+United Carbon Co. v. Binney & Smith Co., 
+iy, |} |. ere 25 
+
+
+United States v. Borden Co., 
+. it te |, rrr TTTTT Tere 33 
+
+
+United States v. Hughes Aircraft Company, 
+ty JIE) Ot J) See 12 
+
+
+xii 
+
+
+United States v. Hughes Aircraft Co., 
+Re SEE i Ci Wideuckeut ss etstedens 12 
+
+
+United States v. Nordic Village, Inc., 
+PP SED VEh hk cc veed dee dicsesees 33 
+
+
+Universal Oil Prods. Co. v. Globe Oil & Refining Co., 
+See ee ED 8 608 es obo hee cob icctvices 25 
+
+
+Vanguard Prods. Corp. v. Parker Hannifin Corp., 
+234 F.3d 1370 (Fed. Cir. 2000) ................. 47 
+
+
+Vermeer Mfg. Co. v. Charles Machine Works, Inc., 
+re A ee 48 
+
+
+Viskase Corp. v. American Nat'l Can Co., 
+Sol F356 1506 (ed. Cis. FOG8) 2. ccc ccc ccccccs 46 
+
+
+Warner-Jenkinson Co. v. Hilton Davis Chemical Co., 
+PS OE dee ud Oh ve bkdic due cee®a passim 
+
+
+Weber Elec. Co. v. E.H. Freeman Elec. Co., 
+EE. Sheds Go cde Week od ccewdss 28 
+
+
+YBM Magnex, Inc. v. ITC, 
+145 F.3d 1317 (Fed. Cir. 1998) ................. 46 
+
+
+Zi Corp. v. Tegic Communications Inc., 
+B43 F356 S64 (Ped. Cir. 2000) ow ccc ccc ccccess 47 
+
+
+Zygo Corp. v. Wyko Corp., 
+79 F.3d 1563 (Fed. Cir. 1996) ............0cc0ee. 46 
+
+
+xiii 
+
+
+Statutes: 
+
+oo .  eeewrrrrrr rr re rs 1, 28 
+
+35 U.S.C 
+| BPP Titi ee 4 
+| STII TT Tre eee 14 
+BOD cccccccvccddesonsercedescsvccscececce 14 
+|: PP errrrrr erie tri titre rrr 8, 9, 22, 26 
+BO9Z. G8 oc cccccccscccccccccccecccccessvees 4 
+DOI GD coc cccvvevicccccccvcrsedeceseees 4, 26 
+DLS | err 4, 37, 38 
+§§ 134, 141-145 20... eee eee eee eens 5 
+B ASALEMA) .. cc rccccccccccccvsceccsccscceces 2 
+OO TL, FAD ccccccccicccccsccctccccecvcccess 15 
+§§ 301-307 . 0... www c cece cece eee receccces 9 
+
+Rules: 
+
+37 C.F.R 
+BOBS ccccccccccccceccocccoscesssevcoeessces 5 
+
+
+XiV 
+dente cab bedkesunctwhveeesiesceceeweel 9 
+Other Materials: 
+D. Chisum, Patents 
+Pe ED bth wee ctedeicemdctidivesess 5 
+Se Es: Web nkeeneccsecscesesdend 5, 42 
+SA § 18.05 (1998 & 2000 Supp.) ............... 13 
+13 §§ 5410-5418 (1998 & 2000 Supp.). .......... 13 
+R. Merges, Patent Law and Policy (2d ed. 1997) ........ 5 
+
+
+Note, To Bar or Not to Bar: Prosecution History Estoppel 
+After Warner-Jenkinson, 111 Harv. L. Rev. 2330 
+UU bse dete veiw ee sutdbeneisadds thdduess 43 
+
+
+Otterstedt, Unwrapping File Wrapper Estoppel in 
+the Federal Circuit: A New Economic Policy 
+Approach, 67 St. John’s L. Rev. 405 (1993) ....... 43 
+
+
+PTO, Manual of Patent Examining Procedure .... 3,24, 25 
+
+
+I on i a cscs paiia dees oe atnaetaiaas 26 
+Es ee A 26 
+ge cc sneseuneautebal 37 
+
+
+XV 
+
+
+2 P. Rosenberg, Patent Law Fundamentals 
+SEE Sb 6ea Ck Shade ddeweccoceces 
+
+
+J. Sheldon, How to Write a Patent Application 
+(Practising Law Institute 2000) ................. 
+
+
+Smith, The Federal Circuit's Modern Doctrine of 
+Equivalents in Patent Infringement, 29 Santa 
+PPE vcs cccecccteccceseves 
+
+
+Strawbridge et al., Area Summary, Patent Law 
+Developments in the United States Court of 
+Appeals for the Federal Circuit During 1986, 
+PPPs Se GE EOUEE cb cc ccncccccecceces 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioner Festo obtained the two patents involved in this 
+case only after submitting amendments to narrow the broader 
+claims it initially submitted to the Patent and Trademark Office 
+(PTO). To obtain the Stoll patent, Festo added two limitations 
+(or elements) to narrow the claimed invention: one (the 
+requirement of two sealing rings, one at each end of the piston) 
+was added to avoid prior art; the other (the requirement of 
+magnetizable material in the sleeve) was added for a reason that 
+Festo has insisted is “a mystery” on the public record. To 
+obtain the Carroll patent, Festo amended its claims to add a 
+similar requirement of two sealing rings that it added to obtain 
+the Stoll patent — again, to avoid prior art Festo had discovered 
+(and therefore was obliged to disclose). 
+
+
+The accused device of respondent SMC does not have 
+either of the two elements added by Festo to narrow its claims. 
+In suing SMC for infringement, Festo, though it had added 
+these elements in order to obtain its patents, dismissed these 
+elements as “unimportant” and asserted that their absence was 
+“equivalent” to their presence. The aspect of this case now 
+before this Court concerns whether that assertion of 
+infringement under the doctrine of equivalents is barred by the 
+longstanding limitation on that doctrine, prosecution history 
+estoppel (formerly called file wrapper estoppel), as set forth in 
+this Court’s governing precedent prior to the enactment of the 
+1952 Patent Act, Exhibit Supply Co. v. Ace Patents Corp., 315 
+U.S. 126 (1942), and as confirmed in Warner-Jenkinson Co. v. 
+Hilton Davis Chemical Co., 520 U.S. 17 (1997). 
+
+
+The Federal Circuit, after struggling with a large number 
+of cases presenting important doctrinal issues about prosecution 
+history estoppel, decided to hear this case en banc, invited 
+participation by interested amici, set forth questions for the 
+
+
+2 
+
+
+parties and amici to answer, and then answered those questions 
+pursuant to its congressional mandate to resolve issues unique 
+to patent law. Based upon its unique experience of grappling 
+with application of prosecution history estoppel for 20 years, 
+the Federal Circuit concluded that (a) estoppel applies 
+whenever an amendment substantively narrows a claim to 
+satisfy a requirement for issuance of the requested patent and 
+(b) the effect of the estoppel is not to be determined by an 
+“unworkable” (because profoundly unpredictable) “flexible” 
+approach, but is simply to bar any equivalent for the particular 
+claim element added by the narrowing amendment. Those 
+rulings, and the particular estoppel holdings here, are correct. 
+In particular, the amendments here generate estoppel, as they 
+were either made to avoid prior art or unexplained, in either 
+case squarely covered by the holding of Warner-Jenkinson. 
+And the scope of estoppel extends to the accused devices under 
+the clear rule of Exhibit Supply, as they were embraced by the 
+initially submitted claims but then excluded from the coverage 
+of the narrowed claims. 
+
+
+A. Patent Applications and Their Prosecution 
+
+
+A patent application includes a “specification” and 
+“claims.” The specification must provide the public disclosure, 
+including how to make and use the invention, that is the quid 
+pro quo for the grant of patent rights. The claims, however, 
+define the boundaries of the patent protection. Each claim is a 
+carefully drafted paragraph that specifies with precision the 
+subject matter over which the patentee, upon issuance, has 
+exclusive rights (to make, sell, use, etc.) for the 20 year period 
+of the patent. 35 U.S.C. § 154(a)(1). 
+
+
+In a claim, less is more and more is less. The greater the 
+number of limitations (eksments, requirements) set forth in a 
+particular claim, the narrower the substantive scope of what is 
+covered, since infringement requires meeting ail of the claim 
+
+
+3 
+
+
+elements (literally or by an equivalent). Conversely, greater 
+coverage, and hence a more valuable patent, is secured by 
+omitting any limitation that is not needed to satisfy the various 
+requirements of a valid, enforceable patent — novelty, 
+nonobviousness, adequate public disclosure for the full scope 
+of the claimed invention, etc. For example, a patent applicant 
+might claim (1) a pencil, (2) a wooden pencil, (3) a wooden 
+pencil with a graphite writing element, (4) a wooden pencil 
+with a graphite writing element with an eraser, or (5) a wooden 
+pencil with a graphite writing eler-ent and a gum eraser. Each 
+such claim provides the patentee narrower patent coverage, and 
+a less valuable patent, than its predecessor in the list. 
+
+
+It has always been the fundamental professional 
+responsibility of patent attorneys prosecuting an application to 
+resist adding any scope-restricting element to their claims, 
+unless necessary to satisfy a requirement for issuance. A new 
+limitation is added only when the choice is between a patent 
+with narrowed claims or no patent at all. And the choice of 
+what limitation to add is made according to the same 
+imperative: it is prosecuting attorneys’ duty and practice to 
+craft amendments to effect the least narrowing of scope 
+required to meet a patentability requirement. The applicant “is 
+master of his claims.” Pet. App. 67a (Lourie, J., concurring). 
+
+The process of PTO examination focuses the applicant’s 
+attention, claim by claim, on what is needed to secure issuance, 
+and the PTO determinations address the meaning of the claims. 
+In the entire voluminous guide to patent examination, the 
+PTO’s Manual of Patent Examining Procedure, there is no 
+directive for the PTO to consider any available range of 
+“equivalents” — either ab initio or in reviewing amendments — 
+
+
+4 
+
+
+in applying the standards for issuance of the patent.’ Based on 
+a claim’s meaning, the examiner may point to prior art (e.g., 
+publications, patents, real-world products) that he believes 
+makes that claimed invention obvious or not novel; or the 
+applicant may on its own identify particular prior art that raises 
+the same question.’ If the applicant cannot disprove the 
+concerns, it must make a change to narrow the claim, 
+specifically focusing on adding whatever new limitation is 
+needed to distinguish prior art (or, for example, adhere to a 
+more limited public disclosure or conform to its own statement 
+of its invention or provide the required clarity, see note 2, 
+supra). Among the tools of narrowing the applicant may use is 
+“means plus function” claim language (35 U.S.C. § 112, 4 6) 
+and even negative claim language that explicitly excludes a 
+particular prior art feature. See page 37, infra. 
+
+The applicant has every incentive to make only the 
+minimally required change, to preserve as much of the original 
+broader coverage as it possibly can. See, e.g., Brenner v. 
+Manson, 383 U.S. 519, 534 (1966) (noting “the highly 
+developed art of drafting patent claims” for purposes of 
+
+
+'A form of equivalents analysis does, of course, play a role in evaluating 
+claims in “means plus function” form, because the statutory authority, 35 
+U.S.C. § 112, 4 6, makes express reference to “equivalents.” See MPEP §§ 
+2183-2186. 
+
+
+The examiner may identify other ways in which a claim fails to meet a 
+requirement for issuance, such as lack of utility (35 U.S.C. § 101), or a 
+claim’s lack of sufficient support in the specification to meet the 
+enablement and other public disclosure requirements (35 U.S.C. § 112, 4 1), 
+or a claim’s going beyond what the applicant has made clear it regards as 
+a more limited invention (35 U.S.C. § 112, 4 2, second requirement) or even 
+a claim’s insufficient definiteness (under 35 U.S.C. § 112, 42, first 
+requirement) to put the public on notice of the boundaries of the asserted 
+zone of exclusivity, within which others cannot compete or innovate 
+without permission. 
+
+
+5 
+
+
+“broadening the scope of the claim as widely as possible”); R. 
+Merges, Patent Law and Policy at 11 (2d ed. 1997) (“The 
+overall goal when drafting claims is to make them as broad as 
+the Patent Office will allow.”); J. Sheldon, How to Write a 
+Patent Application at 1-2 (Practising Law Institute 2000) 
+(Applicant’s objective: “[c]laiming the invention sufficiently 
+broadly so that the most talented experts in the field cannot 
+design around the claims for the next twenty years”). The 
+applicant also has the right to appeal an examiner’s rejection- 
+based request for unwarranted narrowing, inside the PTO and 
+in the courts. 35 U.S.C. §§ 134, 141-145. Moreover, when 
+submitting an amended claim, the applicant has every incentive 
+to make only the barest possible statement of explanation: the 
+applicant will typically seek to avoid any statement that might 
+later be read as a disclaimer of coverage.’ Commonly, 
+therefore, the explanation is an asserted conclusion only, stating 
+no more, for example, than that the claims as amended 
+overcome the rejection (which the examiner must check for 
+himself) or that the prior art does not disclose or suggest the 
+combination of features now required in the narrowed amended 
+claim. 
+
+This entire process is recorded in the public record that 
+becomes the prosecution history (or file history or file 
+wrapper), which is available to the public upon request from 
+the PTO and always is consulted in any subsequent effort to 
+construe and apply the claim language. See 37 C.F.R. § 1.11. 
+Critically, any skilled reader of the prosecution history 
+understands, and can expect the applicant to act on, the 
+
+
+Apart from amendments themselves, statements by the applicant have 
+long been a basis for estoppel of asserted equivalents coverage and, also, 
+for narrowing the available construction of the claim language. See 5A D. 
+Chisum, Patents §§ 18.03{2}{d] (claim construction), 18.05{2}{c] 
+(estoppel). 
+
+
+6 
+
+
+incentive to adopt only the minimally needed narrowing 
+amendments, with attention squarely focused on the new 
+elements that make the difference between rejection (or 
+possible rejection in the case of a preemptive amendment) and 
+issuance of the claim. Any skilled reader must presume that the 
+patent applicant chose its narrowing-amendment language 
+carefully, surrendering all he left out. 
+
+
+B. Factual Background 
+
+
+I. Rodless Cylinders 
+
+
+Both the Stoll patent (issued 1982) and the Carroll patent 
+(issued in narrowed form on reexamination in 1988) are 
+directed to minor design changes in magnetic rodless cylinders 
+that appear in a crowded field of prior art. See Fed. Cir. Jt. 
+App. A8631-35; JA II-157 to Il-173 (magnetic rodless cylinders 
+in prior art beginning in 1960s). A magnetic rodless cylinder 
+has three basic parts, i.e., a piston, a cylinder, and a sleeve 
+(sometimes called a “carriage”). The piston is on the inside of 
+the cylinder and is moved by fluid under pressure. The sleeve 
+is on the outside of the cylinder, and is magnetically coupled to 
+the piston. The magnetic attraction between the sleeve and the 
+piston, both of which have strong magnets mounted therein, 
+causes the sleeve to follow the piston when the piston is moved 
+by fluid pressure along the inside of the cylinder. Pet. App. 
+33a. 
+
+
+SLEEVE CYLINDER PISTON PRESSURE 
+
+
+oS — 
+
+
+2. The Absence of Literal Infringement 
+As is settled in this litigation, SMC’s accused rodless 
+cylinders do not literally infringe either of Festo’s two patents. 
+
+
+7 
+
+
+SMC’s cylinders do not have “magnetizable” material in the 
+sleeve (they use an aluminum alloy), which is required by claim 
+1 of the Stoll patent. JA II-6.4 SMC’s cylinders also do not 
+have any “sealing ring” at one end of their pistons — thus 
+allowing fluid, with any impurities, to come between the 
+piston’s magnets and the inside of the cylinder — whereas both 
+claim | of the Stoll patent and claim 9 of the Carroll patent 
+require “sealing” rings at both ends (JA II-6, II-131): the Stoll 
+patent specifies softness in the sealing ring to perform its 
+wiping function, and the Carroll patent requires that the sealing 
+rings be “resilient” to “effect a fluid-tight seal.” JA II-4, Il- 
+131. 
+
+
+Contrary to Festo’s repeated implication, SMC did not 
+engage in any copying of Festo’s sometimes unsatisfactory (JA 
+I-81 to I-89) particular refinement of the well-known magnetic 
+rodless cylinders already in existence. As stated by the district 
+court, “you’re right, there is no evidence of copying.” JA I- 
+151. 
+
+
+‘The Stoll patent’s specification notes that it is beneficial to use 
+magnetizable material in the sleeve since doing so will minimize “magnetic 
+leakage fields” that can cause “undesirable braking forces.” JA II-4. 
+
+
+*Claim | of the Stoll patent recites that the two sealing rings, one at each 
+end of the piston, are required “for wiping said internal wall as said piston 
+moves along said tube to thereby cause any impurities that may be present 
+in said tube to be pushed along said tube so that said first annular magnets 
+will be free of interference from said impurities.” JA II-6. The 
+specification of the Stoll patent explains that having separate sealing and 
+guide rings allows the former to be soft (and better at sealing) while the 
+latter can remain hard (for better guiding). JA I1-4; see also JA 1-59 (Festo 
+trial memorandum stating that the prior art ring was either too hard or too 
+soft and that, when only a hard guide ring is used, “the sealing and wiping 
+functions are not effectively obtained”); JA 1-102 to 1-106 (Stoll testimony 
+stating that, with only the hard guide ring, “you won’t get a leakage free 
+surface”). JA 1-104. See also JA 1-118 to 1-121. 
+
+
+3. Prosecution History: The Stoll Patent 
+
+
+After the German Patent Office brought to Festo’s 
+attention (during the prosecution of Festo’s corresponding 
+German patent application) two pertinent prior art German 
+patents, which Festo was required to disclose to the PTO (37 
+C.F.R. §1.56), Festo narrowed its main claim by adding both 
+the requirement of a magnetizable sleeve and the requirement 
+of sealing rings at each end of the piston. Festo advised the 
+PTO of these prior art patents and amended its main claim as 
+part of its response to the PTO’s first action on Festo’s 
+application. It did so even though the examiner had made no 
+request that Festo either narrow or “clarify” its main claim with 
+respect to either the material in the sleeve or the number and 
+location of the sealing rings. JA II-30 to II-32.’ 
+
+
+Festo’s addition of the magnetizable sleeve element was 
+
+
+*Festo stated that “neither of these two references” — the two prior art 
+German patents cited by Festo (27 37 924 and 19 82 379) — “discloses the 
+use of a structure preventing the interference by impurities located inside 
+the tube and on the outside of the tube while the arrangement is moved 
+along the tube.” JA II-40; 1-120 to I-121. The sealing rings are what Festo 
+included to prevent impurities. See note 5, supra. In fact, although it is 
+irrelevant whether Festo was right in its reading of the prior art (see 
+Warner-Jenkinson, 520 U.S. at 33 n.7), the German patents do not disclose 
+a (soft) sealing ring mated with a (hard) guide ring at each end of the piston. 
+JA Il-109 to II-120, Il-157 to I-173. 
+
+
+The 35 U.S.C. §112 rejections noted by Festo did not require the 
+addition of the sealing ring or the magnetizable material. The rejection that 
+the claims were “improperly multiply dependent” (Pet. App. 40a) applied 
+only to claims 4-12 and not to Festo’s main claim (JA II-31) and, in any 
+event, was remedied by having each dependent claim depend from only one 
+claim rather than from multiple claims. JA II-25 to 11-26, [1-38 to II-39. 
+The rejection that it was not clear whether the device was “a true motor or 
+magnetic clutch” (Pet. App. 40a) was remedied by changing the term “linear 
+motor” to “[t}he arrangement” and “magnetically coupled arrangement.” JA 
+II-37 to I-39, 11-62 to 11-63. 
+
+
+9 
+
+
+unexplained on the PTO record. It was not responsive to the 
+examiner’s rejection, and “there is no statement in the 
+prosecution history that explains why this element was included 
+in the independent claim.” Pet. App. 50a. In the subsequent 
+infringement litigation, the district court agreed with Festo’s 
+position “that the reason for the magnetizable sleeve 
+amendment was ‘a mystery,’ because it did not appear to be 
+related to any of the examiner’s 35 U.S.C. §112 rejections, and 
+it did not appear to distinguish the invention over the prior art.” 
+Pet. App. 44a; JA I-75." 
+
+
+Festo’s addition of the requirement of two sealing rings 
+has an explanation evident from the PTO record. As held by 
+the Federal Circuit, the addition “appears to have been made to 
+distinguish the prior art.” Pet. App. 52a. Specifically, “the 
+amendment adding the sealing ring element was made to 
+distinguish the German patents” that Festo had cited to the 
+examiner. /d. 
+
+
+4. Prosecution History: The Carroll Patent 
+
+
+The Carroll patent originally issued in December 1973 
+(JA II-122), but 15 years later Festo requested reexamination in 
+view of a prior art German patent. JA II-133 to IIl-142; see 35 
+U.S.C. §§ 301-307 (procedure for reexamination of issued 
+patent in light of prior art not previously considered); 37 C.F.R. 
+§ 1.510. During the reexamination, Festo canceled its main 
+claim and submitted an entirely new main claim 9, which 
+requires a host of specific features including the pair of resilient 
+sealing rings. JA II-180 to II-187. In its remarks 
+
+
+*Festo’s insistence on the unexplained nature of the magnetizable-sleeve 
+element was unavoidable for it. The only alternative is the conclusion, 
+evident from the public record, that “magnetizable” was added to 
+distinguish over the prior art submitted by Festo: German patent 27 37 924 
+expressly discloses a “carriage” (i.e., sleeve) that is “made from non- 
+magnetic material.” JA II-i17. 
+
+
+10 
+
+
+accompanying the amendment, Festo “stated that the 
+amendment defined the ‘features of the patentee’s invention 
+that distinguish over the art of record, including’ the German 
+patent cited in the request for reexamination” and further 
+argued “that the combination of features recited in the claims, 
+which includes the pair of sealing rings, distinguished the 
+claims over the German patent.” Pet. App. 55a; JA II-180 to II- 
+187. The exarainer accepted the narrowing amendment, citing 
+the claimed “combination” in his reasons for allowance. JA IlI- 
+189; see Pet. App. 55a. As held by the Federal Circuit, this 
+amendment “was motivated by at least one reason related to 
+patentability: a desire to avoid the prior art.” Pet. App. 55a. 
+
+
+C. This Litigation 
+
+
+In Festo’s infringement suit against SMC, the absence of 
+literal infringement by SMC’s non-magnetizable sleeve, single 
+seal magnetic rodless cylinders is settled. Pet. App. 48a, 53a. 
+Festo relies only on the doctrine of equivalents to bring the 
+SMC cylinders, though without a magnetizable sleeve and 
+without sealing rings at both ends of the piston, within Festo’s 
+exclusivity rights granted by patent claims requiring one or 
+both of those features. The Federal Circuit ultimately held that 
+Festo was estopped by its PTO amendments to assert such 
+equivalents, thus not having to decide the serious issue whether 
+Festo had proved “equivalence” itself or, rather, had “vitiated” 
+claim elements in derogation of Warner-—Jenkinson. 
+
+
+1. District Court Proceedings 
+
+
+With respect to the Stoll patent, a Special Master, after 
+extensive testimony, initially concluded that SMC was entitled 
+to summary judgment of non-infringement of the Stoll patent, 
+applying prosecution history estoppel to bar any equivalents of 
+the magnetizable-sleeve element. JA 1-40 to I-44, I-49 to I-52. 
+Festo challenged that conclusion before the district court, 
+however, insisting that it was a “mystery” why its attorney had 
+
+
+added the magnetizable sleeve element: “Dr. Stoll should not 
+be held to unintentional limitations added incorrectly by an 
+attorney of which he was not aware and of which he certainly 
+did not intend.” JA I-54; see JA 1-56 (same). The district court 
+accepted Festo’s position “that the reason for the magnetizable 
+sleeve element was ‘a mystery’” and on that basis refused “to 
+hold that prosecution history estoppel barred a finding that the 
+Stoll patent was infringed under the doctrine of equivalents.” 
+Pet. App. 44a; see JA I-70 to I-76. 
+
+
+The court subsequently presided over a jury trial on 
+(among other issues) whether SMC’s nonmagnetizable sleeve 
+and single-sealing-ring arrangement (at one end of the piston) 
+were the equivalents of the required magnetizable sleeve and 
+dual-sealing-ring arrangement. The accused SMC devices, 
+with nonmagnetic sleeves, did not minimize magnetic leakage 
+fields to prevent undesirable braking forces since they lacked 
+the claimed magnetizable material to do so. See note 4, supra; 
+JA 1-142 to 1-144. And they likewise did not prevent the fluid 
+contact, and introduction of any impurities, the avoidance of 
+which Festo expressly set forth as the function of its two- 
+sealing-ring arrangement. See note 5, supra; JA I-142 to I- 
+144.° Nevertheless, the jury found equivalence. Pet. App. 44a. 
+
+
+As for the Carroll patent, the district court granted 
+summary judgment of infringement under the doctrine of 
+equivalents for the SMC rodless cylinder models at issue. (It 
+granted summary judgment of non-infringement with respect to 
+other SMC rodless cylinder models not at issue here.). The 
+
+
+* Festo’s assertion that a single two-way sealing ring at one end of the 
+piston is the equivalent of two one-way sealing rings, one at each end of the 
+piston, is a red herring. A single two-way sealing ring at one end of the 
+piston leaves the other end of the piston unprotected from the entry of 
+wiping function. See note 5, supra; JA 1-118 to 1-121. 
+
+
+12 
+
+
+court simply deemed irrelevant to the Carroll patent the 
+functions of impurity or dirt prevention made clear in the Stoll 
+patent and required by the Carroll patent’s claim language 
+reciting “resilient sealing rings” in order “to effect a fluid-tight 
+seal” (JA Il-131). See JA 1-79; Pet. App. 44a. 
+
+
+2. Panel Decisions 
+
+
+A panel of the Federal Circuit initially affirmed the district 
+court’s judgment. Pet. App. 190a. This Court, however, 
+granted SMC’s petition for a writ of certiorari, vacated the 
+Federal Circuit decision, and remanded for reconsideration in 
+light of Warner-Jenkinson, supra. See SMC Corp. v. Festo 
+Corp., 520 U.S. 1111 (1997). That GVR was one of three the 
+Court issued in light of Warner-Jenkinson, the other two being 
+Honeywell, Inc. v. Litton Systems, Inc., 520 U.S. 1111 (1997), 
+and United States v. Hughes Aircraft Company, 520 U.S. 1183 
+(1997). All three cases were set for rebriefing and reargument 
+in the Federal Circuit. 
+
+
+Both Litton and Hughes were decided by panels of the 
+Federal Circuit in April 1998, with both decisions ruling on the 
+scope of estoppel in light of Warner-Jenkinson. See Litton 
+Systems, Inc. v. Honeywell, Inc., 140 F.3d 1449 (Fed. Cir. 
+1998); Hughes Aircraft Co. v. United States, 140 F.3d 1470 
+(Fed. Cir. 1998). The Litton case — involving a holding that 
+estoppel applied, with a remand to determine what the scope of 
+the estoppel was (among other issues) — generated vigorous 
+dissents from denial of rehearing en banc. Litton Systems, Inc. 
+v. Honeywell, Inc., 145 F.3d 1472 (Fed. Cir. 1998). The 
+Hughes case — a final resolution of infringement after 25 years 
+of litigation — also generated a dissent from en banc rehearing 
+(Hughes Aircrafi Co. v. United States, 148 F.3d 1384 (Fed. Cir. 
+1998)), followed by an unsuccessful petition for certiorari by 
+the United States. United States v. Hughes Aircraft Co., 525 
+U.S. 1177 (1999). 
+
+
+13 
+
+
+The second panel decision in the present case came in 
+April 1999, with the panel now finding it necessary to remand 
+to the district court for further litigation over the requirement 
+of two sealing rings in the Stoll patent (but not the Carroll 
+patent) — particularly, whether prosecution history estoppel 
+barred Festo’s assertion of equivalents for that claim limitation. 
+Pet. App. 156a. By the time SMC’s rehearing petition was 
+pending in the summer of 1999, however, the Federal Circuit 
+had addressed the applicability and scope of estoppel in a large 
+number of prosecution history estoppel cases since Warner- 
+Jenkinson. See 5A D. Chisum, Patents § 18.05 (1998 & 2000 
+Supp.); 13 D. Chisum, Patents, Federal Circuit Topical 
+Outline, §§ 5410-5418 (summarizing numerous estoppel 
+decisions) (1998 & 2000 Supp.). There was a demonstrated 
+need for clarification and panel-by-panel consistency. 
+
+
+The Federal Circuit on August 20, 1999, vacated the panel 
+decision and set this case for rehearing en banc, stating five 
+doctrinal questions for the parties and amici to address. Four 
+of them concerned prosecution history estoppel. The fifth was 
+specifically addressed to the required element-by-element 
+standard or “all elements” rule, asking whether Festo’s 
+equivalents argument -- that the absence of an element (the 
+magnetizable sleeve, the sealing ring) was equivaient to its 
+presence -- “violate[d] Warner-Jenkinson's requirement that 
+the application of the doctrine of equivalents ‘is not allowed 
+such broad play as to eliminate an element in its entirety,’ 520 
+U.S. at 29.” Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki 
+Co., 187 F.3d 1381 (Fed. Cir. 1999); see Pet. App. 2a-3a 
+(quoting the five questions).'° 
+
+
+The first question presented in Festo’s certiorari petition is similar to 
+the Federal Circuit’s question one: “For the purposes of determining 
+whether an amendment to a claim creates prosecution history estoppel, is ‘a 
+substantial reason related to patentability,” Warner-—Jenkinson Co. v. Hilton 
+
+
+14 
+
+
+A number of amici accepted the Federal Circuit's 
+invitation to participate — six companies and three lawyer 
+groups. The companies were IBM, Kodak, Ford, Hewlett- 
+Packard (HP), Proctor & Gamble (P&G), and Litton. There 
+was broad agreement among the amici that estoppel was 
+generated by unexplained amendments (Federal Circuit 
+question 4) as well as by amendments made to satisfy a 
+requirement for issuance even if voluntary (Federal Circuit 
+question 2) and even if not made to overcome prior art (Federal 
+Circuit question 1). Only on the Federal Circuit’s question 3 - 
+whether estoppel, where it applies, constitutes a bar to 
+equivalents of the particular element added by narrowing 
+amendment — did the amici differ.'' The companies generally 
+favored a bar, because of the need for clarity in patent 
+boundaries, even though that position limited their own rights 
+as substantial patent holders. 
+
+
+Davis Chem. Co., 520 U.S. 17, 33 (1997), limited to those amendments 
+made to overcome prior art under §102 and §103, or does ‘patentability’ 
+mean any reason affecting the issuance of a patent?” See Pet. App. 2a. 
+Festo’s second question presented is similar to the Federal Circuit's 
+question three: “If a claim amendment creates prosecution history estoppel, 
+under Warner—Jenkinson what range of equivalents, if any, is available 
+under the doctrine of equivalents for the claim element so amended?” Pet. 
+App. 2a-3a. 
+
+
+"Even Litton (still engaged, as it is today, in fighting Lifton v. 
+Honeywell) could not avoid the straightforward recognition (a: page 9 of its 
+Federal Circuit brief) that this Court’s decision in Exhibit Suppiy establishes 
+that a patentee surrenders any matter that was within the initial claim but 
+then excluded from the amended claim: 
+
+
+{t}hat case [Exhibis Supply), and the cases before and 
+after it up to the present day, establish that when a 
+patentee amends his claim to avoid the prior art, he gives 
+up ‘all that is embraced in thie) difference’ between what 
+he first sought to claim, and what was finally accepted . 
+
+
+15 
+
+
+3. The En Banc Decision 
+
+
+On November 29, 2000, the court rendered its en banc 
+decision, deciding the estoppel questions and resolving this 
+case. Pet. App. la-155a."’ The court's rulings are limited to 
+an amendment, made by the patent applicant in the PTO, that 
+narrows the claim. The decision does not address the role of 
+statements or arguments by the paten: applicant in the PTO as 
+a basis for estoppel. See note 3, supra. Nor does it speak to 
+unamended claim elements or even to a non-narrowing 
+amendment.'’ 
+
+
+"The en banc court, though it had pointedly set a question concerning 
+whether Festo had established equivalence apart from estoppe! (had Festo, 
+in violation of Warner-Jenkinson, “vitiated” certain claim elements?), did 
+not have to reach that non-estoppel question . With the panel decisions in 
+this case vacated, there is accordingly no extant court of appeals ruling on 
+SMC’s contention that equivalents liability here exceeded the bounds 
+allowed by Warner-—Jenkinson. That issue remains open in this case if the 
+Federal Circuit's judgment is not affirmed. 
+
+
+"The Federal Circuit recently made clear that a change from one term to 
+another where both had the same meaning was not a narrowing. Turbocare 
+Division v. General Electric Co., 264 F.3d 1111 (Fed. Cir. 2001). That 
+situation must be distinguished from a substantive narrowing of a claim 
+term by amendment to limit it to a particular embodiment in the 
+specification; that common pattern does involve a narrowing, though 
+patentees may seek to dress up their amendment as a mere clarification of 
+what they always “intended.” What is determinative is objective 
+substantive narrowing of the claim's meaning, a familiar and well-settled 
+inquiry under, for example, the reissue provisions of the Patent Code, 35 
+U.S.C. §§ 251, 252. See SG/PTO Br. at 17 n.3 (invoking reissue standard). 
+
+
+The SG/PTO brief also notes (at 16) that rewriting a dependent 
+
+
+cancellation 
+accompanies such a rewriting does constitute a narrowing. Mycogen Plant 
+
+
+16 
+
+
+The court concluded, by a vote of 11 to 1, that a 
+narrowing amendment generates estoppel if made either for a 
+reason “unexplained” on the public record or for any reason 
+related to the statutory requirements for a patent.” In 
+particular, estoppel is not restricted to narrowing amendments 
+made specifically to avoid prior art. The court explained that 
+“the functions of prosecution history estoppel [the notice 
+function of the claims and the prevention of recapture of 
+surrendered subject matter] canaot be fully satisfied if 
+substantial reasons related to paientability are limited to a 
+narrow subset of patentability issues.” Pet. App. 8a-lla. And 
+the determination of the reason for an amendment, the court 
+held, must be made on the basis of the public record (as 
+understood through educated eyes, of course), not post hoc 
+explanations. Pet. App. 47a-48a.'° Because the amendments 
+
+
+(“{T]he cancellation of a claim with a broad limitation in favor of one with 
+a narrower limitation ... creates prosecution history estoppel.”). This is not 
+an issue in this case and Festo does not so assert since Festo cancelled 
+broader independent claims in favor of narrower independent claims. 
+
+
+“The court also held, 1! to |, that a voluntary amendment should be 
+treated the same as a “required” amendment. Pet. App. Ita-13a. The court 
+noted, in particular, that “the addition of the lower pH limit of 6 
+Warner—Jenkinson “was not ‘required’ by the prior art rejection.” Pet. App. 
+13a. 
+
+
+“In her dissenting opinion, Judge Newman expresses the concer that 
+we are penalizing the patent holder by limiting the evidence upon which he 
+can rely to establish that a narrowing amendment was made for a purpose 
+unrelated to patentability to what is contained in the prosecution history 
+record. In response, we wish to make it clear that, in determining the reason 
+for an amendment, a court can properly consider any attorney argument 
+regarding the reason for the amendment that is supported by the prosecution 
+history record. Permitting patent holders to rely on evidence extrinsic to the 
+prosecution history record would undermine the public notice function of 
+the patent record.” Pet. App. 47a n.6. 
+
+
+17 
+
+
+at issue in the present case were either unexplained on the 
+public record (as conceded by Festo’s “mystery” assertion) or 
+plainly related to prior art, they generated estoppel (indeed, did 
+so without regard to the broader rule adopted by the court). 
+
+The court then addressed the scope of the applicable 
+estoppel, i.e., what if any equivalents are precluded, or remain 
+available, when estoppel applies by virtue of a narrowing 
+amendment that is determined to have been made for 
+patentability reasons. The judgment on the facts of this case 
+- that the estoppel barred Festo’s assertion that the 
+magnetizable-sleeve and dual-sealing-rings limitations had 
+equivalents in SMC’s accused devices (which did not have 
+magnetizable sleeves or pairs of sealing rings) — produced only 
+one expression of dissent (by Judge Newman). An eight-judge 
+majority adopted a broader and more comprehensive “complete 
+bar” rule for determining the scope of estoppel: when a 
+narrowing amendment generates estoppel, the claim limitation 
+added by the amendment is not subject to equivalents 
+infringement; the patentee’s eyes-open choice of the narrowing 
+language defines the boundaries for that particular claim 
+element. The patentee, of course, is free to establish 
+equivalents for other claim elements. Pet. App. | 3a-30a. 
+
+In reaching this conclusion, the court reasoned that this 
+Court's decisions in Exhibit Supply and Warner—Jenkinson, and 
+in other cases stressing the importance of public notice and 
+PTO primacy, provided distinct support for this “complete bar” 
+rule, though the en banc court did not rest (as it might have on 
+the facts here) on those decisions as settling the issue. Pet. 
+App. 13a-19a. The court explained, moreover, that its own 
+precedents over the past 20 years had been inconsistent on this 
+issue, some cases following a “flexible” approach (allowing 
+some undefined range of equivalents for elements added by 
+narrowing amendments), sume cases following a strict “no 
+equivalents” approach holding the patentee to the language of 
+
+
+the element added by amendment. Pet. App. 19a-24a."° The 
+mare reece emer Se oe te tee sewn 
+
+of experience in performing [its as court 0 
+sapads Qoaaanenate! Pet. App. 24a. It explained, based 
+on its “long experience” (Pet. App. 25a), that the flexibie 
+approach was “unworkable” (Pet. App. 25a) because it defeated 
+the definitional and notice function of patent claims, making 
+the boundaries of forbidden territory “virtually unascertainable” 
+and deterring investment in innovation in the proximity of 
+patented subject matter. Pet. App. 28a. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The Federal Circuit, sitting en banc, did just what 
+Congress created the court to do. It applied its unique expertise 
+and experience, gained from reviewing patent-infringement 
+cases year in and year out, to resolve two aspects of a judge- 
+made portion of patent law. The Federal Circuit’s judgment in 
+this case and its broader resolutions of those questions — under 
+on a claim-narrowing amendmeni in the PTO and what if any 
+equivalents remain for the amendment-added claim limitation 
+if estoppel does apply — should be affirmed. The decision is 
+supported by this Court’s governing precedents and by the 
+well-recognized policies of the patent law. 
+
+
+“The “flexible” approach grew out of then-interlocutory decision in 
+Hughes Aircraft Co. v. United States, 717 F.2d 1351 (Fed. Cir. 1983) 
+(Hughes 1), which stated that estoppel, once found applicable, “may have 
+a limiting effect” on available equivalents “within a spectrum ranging from 
+great to small to zero.” /d at 1363. (The Hughes Aircraft litigation 
+continued for a quarter century. See page 12, supra.) The stricter approach 
+was articulated almost contemporaneously in Kinzenbaw v. Deere & Co., 
+741 F.2d 383 (Fed. Cir. 1984), see Pet. App. 20a, as well as by pre-Federal 
+Circuit regional appellate court precedent, see, e.g, Nationwide Chemical 
+Corp. v. Wright, 584 F 2d 714, 718-20 (Sth Cir. 1978), Ekco Prods. Co. v. 
+Chicago Metallic Mfg. Co., 347 F.2d 453, 454-55 (7th Cir. 1965). 
+
+
+19 
+
+
+Estoppel applies here because the amendments at issue 
+fall within the core circumstances giving rise to estoppel under 
+this Court’s decision in Warner-Jenkinson. They are either 
+directly related to avoiding prior art or, as Festo must insist in 
+this case, unexplained on any public record. Looking outside 
+the public record would be inconsistent with the essential 
+public notice policy of the patent law. More broadly, the 
+Federal Circuit properly concluded that estoppel is generated by 
+any scope-narrowing amendment to a claim made to satisfy a 
+requirement for issuance of the patent. There is no sound basis 
+
+— related to the public message of surrender of initially claimed 
+territory — for picking out only some among the full range of 
+requirements that Congress set for issuing a patent, 
+requirements not limited to ensuring an advance over prior art 
+but demanding both adequate and sufficiently precise public 
+disclosure as well. And a limitation of the statutory grounds for 
+amendments would produce practical problems. 
+
+
+The Federal Circuit also properly held that, once estoppel 
+applies to the scope-narrowing amendment, it bars resort to the 
+doctrine of equivalents for the amendment-added claim 
+limitation: that “complete bar” rule defines what the patentee 
+surrendered by that addition, namely, all matter originally 
+claimed but then placed outside the narrowed claim. That rule 
+is directly supported by this Court’s authoritative decision in 
+Exhibit Supply and was reinforced by Warner-Jenkinson. The 
+ruie is also overwhelmingly supported by a judgment that the 
+Federal Circuit was, by its extensive experience, uniquely 
+positioned to make: that the anti-innovation, anti-competition 
+harms from the inherently unpredictable “flexible” approach to 
+determining the scope of estoppel outweigh any interest of 
+patentees in leeway on claim scope as to those elements they 
+added in the PTO with necessarily focused attention on 
+carefully choosing terms to minimize the amount of ceded 
+coverage. Finally, no objection to the Federal Circuit’s rule, 
+
+
+20 
+
+
+whether based on asserted reasonable reliance or other policies, 
+stands up to analysis. The Federal Circuit has resolved a well- 
+recognized confusion in its cases to bring the law into line with 
+this Court’s precedents and to add vital clarity to the patent 
+system. 
+
+
+ARGUMENT 
+
+
+I. Festo’s Amendments Generated 
+Prosecution History Estoppel 
+
+
+The Federal Circuit held that prosecution history estoppel 
+applied to Festo’s amendments made to obtain its Stoll and 
+Carroll patents. Those amendments come within the core 
+circumstances generating estoppel under this Court’s decision 
+in Warner-Jenkinson, which made clear that estoppel applies, 
+at a minimum, to amendments made to avoid prior art and to 
+amendments that the patentee has not proved were made for 
+some reason unrelated to patentability, ie., to unexplained 
+amendments. The Federal Circuit’s holding that estoppel 
+applies in this case was therefore correct. So, too, was its 
+broader ruling (not necessary to the resolution of this case) that 
+estoppel is generated by a scope-narrowing amendment made 
+to satisfy any requirement for issuance of the patent. 
+
+
+A. Festo’s Dual-Sealing-Ring Amendments, 
+Which Were Made to Avoid Prior Art, Fall 
+Within A Core Circumstance Generating Estoppel 
+
+
+In Warner-Jenkinson, this Court confirmed the 
+longstanding principle that prosecution history estoppel applies 
+(to curtail assertion of infringement under the doctrine of 
+equivalents) based on at least some amendments made by a 
+patent applicant during prosecution of its application. 520 
+U.S. at 30-34. The Court rejected the notion that every 
+
+
+amendment generates estoppel, no matter what the reason for 
+the amendment. /d at 30-31. The Court did not define a line 
+
+
+21 
+
+
+separating reasons that would generate estoppel from reasons 
+that would not. It did, however, make unmistakably clear that 
+
+
+on the estoppel-generating side of the line were “amendments 
+made to avoid the prior art.” /d. at 30. 
+
+
+Both of the dual-sealing-ring amendments in this case - 
+in the Stoll patent and in the Carroll patent — were made to 
+avoid prior art, as the Federal Circuit concluded. In each case, 
+Festo included these new limitations in amendments submitted 
+to the PTO with express reference to prior art — the newly 
+disclosed German patent(s). And it is irrelevant whether, as 
+Festo now tries to suggest, it erred in including these 
+limitations as part of its effort to define claims that would avoid 
+the German prior art. Warner-Jenkinson, 520 U.S. at 33 n.7, 
+makes clear that Festo’s reason is not to be re-evaluated in 
+retrospect for its correctness. Estoppel, in short, plainly applies 
+to the amendments requiring dual sealing rings. 
+
+
+B. Festo’s Magnetizable-Sleeve Amendment Falls 
+Within A Core Circumstance Generating Estoppel 
+
+
+This Court in Warner-—Jenkinson reinforced the strength of 
+the important principle of prosecution history estoppel by 
+holding that, while the reason for an amendment is not 
+irrelevant, the starting point for analysis is that an amendment 
+was made for an estoppel-generating reason. 520 U.S. at 33- 
+34. The Court adopted an express presumption, which it is the 
+patentee’s burden to overcome, that any amendment was made 
+for an estoppel-generating reason. If the reason for an 
+amendment adding a new claim element remains unexplained, 
+“prosecution history estoppel would bar the application of the 
+doctrine of equivalenis as to that element.” /d. at 33. 
+
+That principle applies to Festo’s amendment of its Stoll 
+claim to add the requirement of magnetizable material in the 
+sleeve of its cylinders. By what it conspicuously does not say, 
+Festo effectively concedes, as it positively insisted in the courts 
+
+
+22 
+
+
+below, that it is not possible to find within the PTO record 
+some supposedly non-estoppel generating explanation for that 
+amendment. Although Festo repeatedly alludes to Section 
+112, it is beyond dispute that the magnetizable-sleeve 
+amendment had nothing whatever to do with the examiner’s 
+Section 112 rejections."” 
+
+
+To the extent that Festo suggests that the Federal Circuit 
+was wrong in restricting the “explanation” to the PTO record, 
+that suggestion is not only a reversal of course,'* but Festo’s 
+position was rejected by 11 of the Federal Circuit judges. The 
+reason is simple: the public notice policy of the patent law, as 
+reaffirmed in Warner-Jenkinson, 520 U.S. at 29, 33-34, 
+demands an objective standard, applied to publicly accessible 
+materials, for the public to use in determining the reason for an 
+amendment. “The public notice function of patents would be 
+frustrated by forcing a patentee’s competitors to guess whether 
+a patent’s claims were drafted and accepted in error.” Pioneer 
+Magnetics Inc. v. Micro I near Corp., 238 F.3d 1341, 1345 
+(Fed. Cir. 2001). 
+
+
+Contrary to Festo’s suggestion, nothing in Warner- 
+
+
+'7As noted above (note 8, supra), avoidance of the prior art non- 
+magnetizable sleeve is the only explanation apparent on the public record. 
+Hence Festo’s original insistence on the unexplained character of its 
+amendment. 
+
+
+'*In its en banc brief before the Federal Circuit (Dec. 2, 1999), Festo 
+conceded (at 62) that “if there is no reason which can be established from 
+review of the file history and the patentee cannot establish a reason for the 
+amendment, Warner-Jenkinson appears to hold that the element would be 
+entitled no range of equivalents.” Festo now tries to undo this concession 
+by asserting that the holding in Warner-Jenkinson is restricted to an 
+unexplained amendment that was “required.” Festo Br. at 29-30. That is 
+nonsensical: if the amendment was “required,” it would be accompanied by 
+the examiner’s citation of the reason for the rejection, and so would not be 
+unexplained. 
+
+
+23 
+
+
+Jenkinson states or implies that the remand in that case was for 
+the purpose of permitting the patentee to submit new 
+explanations for its amendments. The remand makes full 
+sense, and is much better understood, as being for the purpose 
+of having the judges best able to read the PTO record and other 
+publicly accessible materials do so thoroughly in the first 
+instance, with focused lawyer argument and expert assistance, 
+
+if necessary, directed to understanding, but not adding to or 
+altering, the explanation discernable from public materials. 
+That view of the Warner-Jenkinson remand not only comports 
+with the common practice of remanding cases for case-specific 
+applications even on matters of law; it is the only reading 
+consistent with this Court’s pointed emphasis in Warner- 
+Jenkinson on the need for public notice of patent boundaries, 
+which would be undermined were patentees free to supplement 
+the public record with new explanations not discernable by the 
+public. 
+
+
+C. The Federal Circuit Properly Held Estoppel Applicable 
+to Any Substantively Scope-Narrowing Amendment Made 
+To Satisfy A Requirement for Issuance of the Patent 
+
+
+The Court in Warner-Jenkinson, having established that 
+amendments made (as here) to avoid prior art or for otherwise 
+unexplained reasons generate estoppel, carefully avoided any 
+definitive statement of a standard for what other amendments 
+did, and did not, generate estoppel. 520 U.S. at 30-34. The 
+Court described the reasons involved in prior estoppel 
+decisions, but it did not limit the applicability of estoppel to 
+that set of reasons. The only general formulation used by the 
+Court (in passing, describing the presumption) was “a 
+substantial reason related to patentability.” 520 U.S. at 33. 
+And the Court noted its reluctance to declare estoppel 
+applicable in circumstances “if” — as the Court cautiously stated 
+— the PTO may have been acting on the assumption that 
+estoppel did not apply to curtail assertion of equivalent. in such 
+
+
+24 
+
+
+circumstances. /d. at 32. 
+
+
+The Federal Circuit in this case properly concluded that 
+estoppel applies to a scope-narrowing amendment made to 
+satisfy any requirement for issuance of the patent. That ruling 
+is, first of all, fully consistent with Warner-Jenkinson. There 
+is no reason to think that the Court’s use of the term 
+“patentability” meant to limit the reasons to avoidance of prior 
+art. The Court’s opinion obviously takes great pains nof to 
+state a general standard and nof to declare avoidance of prior art 
+the standard for estoppel. Indeed, the Court, in stating that 
+addition of a claim element for other reasons does “not 
+necessarily preclude infringement by equivalents,” indicates 
+that it very well may. 520 U.S. at 30-31 (emphasis added). 
+And even the term “patentability” hardly carries a clear, limited 
+meaning: for example, the comprehensive PTO Manual of 
+Patent Examining Procedure (“MPEP”) includes under its 
+“patentability” heading (chapter 21, entitled “Patentability” all 
+of the following statutory requirements for issuance of a patent: 
+utility, novelty and nonobviousness in light of prior art, 
+adequate written description, enablement, disclosure of best 
+mode, conformity of claim to what applicant regards as its 
+invention, and particularity and distinctness of claims. 
+
+The Solicitor General, representing the PTO, agrees with 
+the Federal Circuit that attempting to meet any of the 
+requirements for issuance of a patent supplies an estoppel- 
+generating reason. SG/PTO Br. 13-17. That agreement 
+implicitly answers the question that underlay this Court's 
+guarded observation that it was reluctant to apply estoppel “if” 
+the PTO hed in some circumstances been relying on the 
+inapplicability of estoppel, and consequert availability of 
+equivalents, in demanding and accepting some amendments. 
+As noted above, the definitive MPEP identifies no 
+circumstance (outside the statutory means-plus-function 
+context which is directed to literal and not equivalents 
+
+
+25 
+
+
+coverage) where the PTO makes its decisions in reliance on any 
+continuing availability of equivalents.’ And, as quoted below, 
+both Judge Lourie and Judge Gajarsa of the Federal Circuit 
+(two former patent practitioners) have clearly explained that 
+there is no such reliance. See pages 44-45, infra. 
+
+
+The Federal Circuit’s holding makes eminent sense. 
+Avoidance of prior art forms just a part of the set of conditions 
+laid down by Congress for issuing a patent, and the 
+“patentability” of a particular claimed invention is not and 
+cannot be judged independently of the application that contains 
+the definition of the zone of exclusivity sought and the public 
+disclosures that serve as the quid pro quo for the exclusivity (or 
+monopoly) grant. All of the statutory requirements are part of 
+the bargain: exclusivity in return for an advance in knowledge 
+that is sufficiently disclosed to be effectively put in the public 
+domain and well enough defined to prevent deterrence of 
+further innovation from uncertainty about the patent-controlled 
+territory.” When a patent applicant, in the PTO, bypasses 
+further argument before the examiner and any appeal rights 
+and decides with focused attention to amend its claims so as 
+substantively to narrow the scope of claimed territory, it is 
+defining the terms of the patent bargain, no matter which of the 
+statutory requirements underlie the narrowing amendment. The 
+particular requirement at issue does not alter the policy behind 
+
+
+'*The Solicitor General (SG/PTO Br. 17 n.1) simply notes this Court’s 
+reference in Warner-Jenkinson to possible PTO reliance, but refrains from 
+asserting (without any reflection in the MPEP) that there has in fact been 
+such reliance. 
+
+
+*°Sce Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 489 U.S. 141, 146- 
+52 (1989); Universal Oil Prods. Co. v. Globe Oil & Refining Co., 322 U.S. 
+471, 484 (144); United Carbon Co. v. Binney & Smith Co., 317 U.S. 228, 
+236 (1942); General Elec. Co. v. Wabash Appliance Corp., 304 U.S. 364, 
+369 (1938). | 
+
+
+26 
+
+
+- prosecution history estoppel: the entitlement of the public to 
+rely on, and fairness of holding the applicant to, those claim 
+limitations adopted (bypassing further argument before the 
+examiner and any appeals) with pointed focus on what was 
+minimally necessary to secure issuance of the patent. 
+
+
+Finally, a practical reason supports the Federal Circuit's 
+refusal to limit estoppel-generating reasons to avoidance of 
+prior art. As Federal Circuit decisions reflect, there would be 
+an obvious potential for applicants to try to manipulate the PTO 
+record if, even for amendments that in fact substantively 
+narrowed the claims, some statutory grounds generated 
+estoppel and others did not. For example, if “definiteness 
+under Section 112, 4 2, did not generate estoppel (even for a 
+narrowing amendment), an applicant could try to re- 
+characterize an amendment in response to some prior art as 
+really just “clarifying” but not narrowing — as Festo tries here 
+(Festo Br. 28), despite the plain fact that the amendments at 
+issue did not relate to any issue of lack of clarity raised in the 
+PTO.?' See Loral Fairchild Corp. v. Sony Corp., 181 F.3d 
+1313, 1326 (Fed. Cir. 1999) (noting applicant's attempts in the 
+PTO to discuss a prior art rejection “under the rubric of a 
+clarification” to escape estoppel); BA/ v. L & L Wings, 160 F.3d 
+1350, 1355 (Fed. Cir. 1998).” A simple standard of 
+
+
+2'The examiner's Section | 12 rejections related to other matters entirely. 
+See note 7, supra. 
+
+
+221 itton’s amicus brief (at 5) illustrates this manipulation: Litton 
+describes its amendment as having been “made to ‘more particularly point 
+out’ its invention, 35 U.S.C. § 112,” though it is settled in the Litton case 
+that the amendment was made nof to satisfy the Section 112, | 2 
+particularity/definiteness requirement but to satisfy the separate requirement 
+of the same paragraph that the claim conform to what the applicant “regards 
+as his invention” (§ 112, 4 2), which was directly related to prior art in 
+Litton, 140 F.3d at 1461. See MPEP § 2171 (§ 112, 2 has “two separate 
+requirements”); id §§ 2172-2173. 
+
+
+27 
+
+
+substantive narrowing avoids this problem. 
+
+
+II. The Applicable Estoppel Bars Equivalents Coverage 
+of the Accused Nonliterally Infringing Devices 
+
+
+The Federal Circuit, defining the scope of the estoppel 
+effected by the claim-narrowing amendments, held that it 
+barred an assertion of equivalents for the limitations added by 
+the estoppel-generating amendments. That “complete bar” rule 
+thus estopped Festo from asserting that SMC’s single-sealing 
+ring arrangement and nonmagnetizable sleeve were the 
+equivalent of the dual-sealing-ring and magetizable-sleeve 
+elements of Festo’s Stoll and Carroll patents. The Federal 
+Circuit’s holding is directly supported by this Court’s 
+governing precedents. The ruling reflects a proper 
+determination, by the court with unique experience in the area, 
+that the “flexible” approach representing one strand of its 
+conflicting case law was inescapably uncertain, defeating the 
+public’s need for greater clarity of patent boundaries. And no 
+claim of reasonable reliance or other policy assertion 
+undermines the Federal Circuit’s law-clarifying decision. On 
+this issue, which is a matter of judge-made law that can only be 
+resolved through the familiar process of doctrinal refinement 
+based on experience, the resolution by the Federal Circuit, 
+specially entrusted with the responsibility of deciding 
+infringement cases year in and year out, should be affirmed. 
+
+
+A. This Court’s Governing Precedents, Exhibit Supply and 
+Warner-Jenkinson, Directly Support the Federal Circuit’s 
+
+Holding That Equivalents Coverage Is Barred 
+
+Festo, in the entire section of its brief concerning the 
+scope of estoppel, i.e., what coverage the applicant surrenders 
+when making an amendment (Festo Br. 32-38), does not even 
+cite, let alone discuss, this Court’s most important precedent on 
+the issue, the 1942 Exhibit Supply decision. That decision was 
+the last full discussion of prosecution history estoppel before 
+
+
+28 
+
+
+Warner-Jenkinson, and it was the final and definitive 
+pronouncement on the subject, culminating a long line of 
+stringent decisions applying estoppel to limit equivalents 
+infringement, before Congress’s recodification of the patent 
+laws in the 1952 Act.” As such, it is due the same adherence 
+as this Court in Warner-—Jenkinson gave the last pre-1952 
+doctrine of equivalents decision, Graver Tank & Mfg. Co. v. 
+Linde Air Products Co., 336 U.S. 271 (1949), which did not 
+involve any estoppel question. 
+
+Exhibit Supply not only re-stated the general principle 
+limiting the doctrine of equivalents where “a restrictive 
+amendment” (there, to avoid prior art) has been made: “it has 
+
+
+long been settled that recourse may not be had to that doctrine - 
+
+
+to recapture claims which the patentee has surrendered by 
+amendment.” 315 U.S. at 136. What it added to prior estoppel 
+decisions was a clear rule defining what a patent applicant 
+surrenders when it makes a scope-narrowing amendment. The 
+patent concerned pin-ball machines (or tables), with their many 
+small vertical posts that make light or sound (by completing an 
+electrical circuit) upon being hit by a ball. The original 
+application covered conductors (the electrical connections for 
+the posts) “carried by the table,” but that claim was rejected, 
+and the claim was narrowed to conductors “embedded in the 
+table.” This Court held that the applicant, by its choice of 
+narrowing amending language, automatically was abandoning 
+any subject matter that was within the claim before amendment 
+but outside the claim after amendment. 
+
+
+* E.g., Schriber-Schroth Co. v. Cleveland Trust Co., 311 U.S. 211, 220- 
+22 (1940); Smith v. Magic City Kennel Club, 282 U.S. 784, 790 (1931); 
+LT.S. Rubber Co. v. Essex Rubber Co., 272 U.S. 429 (1926); Weber Elec. 
+Co. v. E.H. Freeman Elec. Co., 256 U.S. 668, 677-78 (1921); Shepard v. 
+Carrigan, 116 U.S. 593, 598 (1886); Goodyear Dental Vulcanite Co. v. 
+Davis, 102 U.S. 222, 228 (1880). 
+
+
+29 
+
+
+By striking that phrase [“carried by the table”] from 
+the claim and substituting for it “embedded in the 
+table” the applicant restricted his claim to those 
+combinations in which the conductor means, though 
+carried on the table, is also embedded in it. By the 
+amendment he recognized and emphasized the 
+difference between the two phrases and proclaimed 
+his abandonment of all that is embraced in that 
+difference. [citations omitted] The difference which 
+he thus disclaimed must be regarded as material, and 
+since the amendment operates as a disclaimer of 
+that difference it must be strictly construed against 
+him. [citations omitted] 
+315 U.S. at 136-37. 
+
+
+The plain import of Exhibit Supply was recognized even 
+by Litton in its amicus brief before the Federal Circuit. See 
+note 11, supra (quoting Litton’s straightforward reading of 
+Exhibit Supply). The Solicitor General similarly recognizes: 
+“the Court has stated that, when a patent applicant submits a 
+narrowing amendment to avoid prior art, the applicant by 
+necessary implication disclaims the range of equivalents that 
+falls between the original and the amended claims.” SG/PTO 
+Br. 24 (citing Exhibit Supply); see also U.S. Petition for 
+Certiorari in United States v. Hughes Aircraft, No. 98-571, at 
+19 (“[a}s the Court explained [in Exhibit Supply], when a patent 
+applicant amends his claim to avoid prior art, the applicant 
+necessarily ‘proclaim{s}] his abandonment of all that is 
+embraced in that difference.””) (emphasis added). This Court’s 
+decision in Exhibit Supply thus states a clear rule defining — for 
+the patentee, for the public —- what is surrendered by a 
+narrowing amendment, a rule that for the present case and (at 
+least) most cases is identical to the “complete bar” rule of the 
+Federal Circuit. 
+
+
+30 
+This Court in Warner-Jenkinson clearly understood the 
+
+
+estoppel applies to the amendment-added element: 
+“prosecution history estoppel would bar the application of the 
+doctrine of equivalents as to that element.” 520 U.S. at 33 
+(emphasis added); see also id. (“prosecution history estoppel as 
+a bar to application of the doctrine of equivalents to the element 
+added by that amendment”). That conclusion, by logic and the 
+structure of this Court’s opinion, straightforwardly applies 
+
+
+whether the amendment generates estoppel because the reason ~ 
+
+
+is known or merely presumed to be an estoppel-generating one. 
+And given that it is nothing more than a simple restatement of 
+what Exhibit Supply had already established, it must be 
+understood as confirming Exhibit Supply rather than 
+disregarded by attributing inadvertence to the Court. See 
+Litton, 145 F.3d at 1476-78 (Gajarsa, J., dissenting from denial 
+of rehearing); id at 1473 (Clevenger, J., dissenting from denial 
+of rehearing).”* ‘ 
+
+Festo not only blinds itself to the rulings of Exhibit Supply 
+and Warner-Jenkinson. It makes no demonstration that other 
+decisions of this Court are to the contrary. Indeed, with Exhibit 
+Supply as the last pre-1952, pre-Warner-Jenkinson decision on 
+estoppel, it would supersede earlier decisions even if there were 
+an inconsistency, a common pattern in the evolution of judge- 
+made law. But, in fact, the Exhibit Supply rule did not have to 
+
+
+The Court’s statement that a court should consider “the manner in 
+which the amendment addressed and avoided the objection” (520 U.S. at 33 
+n.7) simply refers to the need to determine whether the amendment was 
+
+
+made for a reason related to patentability. 
+
+
+31 
+
+
+repudiate prior decisions; it had only to follow the familiar 
+course — like the Court’s adoption of a presumption of estoppel 
+or its articulation of the element-by-element equivalence rule 
+in Warner-Jenkinson — of formulating a law-clarifying rule 
+consistent with the results of many prior decisions. 
+
+Quite simply, no prior decision of this Court is 
+inconsistent with the Exhibit Supply rule or its “complete bar” 
+counterpart adopted by the Federal Circuit in this case. The 
+Federal Circuit clearly discussed the decisions of this Court 
+cited by the dissenters below. Pet. App. 14a-18a. Most of the 
+Court’s prior decisions rejected infringement under the doctrine 
+of equivalents on the basis of estoppel (or other grounds), so 
+their results could not support a “flexible” estoppel rule; and 
+other cases relied on by the dissenters below involved literal 
+infringement, because the claims (as was common in the late 
+19" Century) themselves covered “equivalents” or matter 
+“substantially as described.” Neither the dissenters nor Festo 
+has cited precedent of this Court, much less precedent from the 
+modern era of particularized boundary-defining claiming, that 
+upholds nonliteral infringement of an amendment-added claim 
+limitation in contravention of Exhibit Supply. 
+
+B. The Federal Circuit, Based On Its Unique Experience, 
+Properly Adopted The “Complete Bar” Rule In Preference 
+To The Irretrievably Unpredictable “Flexible” Approach 
+
+
+The Federal Circuit expressly rested its decision in this 
+case on an assessment of familiar policy considerations: the 
+importance to the public, including competitors and other 
+innovators, of notice of patent boundaries (along with PTO 
+primacy in setting those boundaries) versus any patentee 
+interest in coverage beyond the terms it chose to write. While 
+the principles governing the doctrine of equivalents concern 
+claim language in general, the balance in the present context — 
+specifically, the patentee side — must be assessed with respect 
+
+
+32 
+
+
+to claim language that was adopted during the prosecution in 
+the PTO with specific attention focused on the amended 
+language. The Federal Circuit held that, in this context, the 
+need for public notice overrides any patentee interest in 
+escaping the claim-narrowing terms it chose and would be 
+defeated by a “flexible” approach to judging the scope of 
+estoppel. 
+
+In reaching that conclusion, the Federal Circuit relied on 
+a body of experience, which it uniquely possesses, to conclude 
+that a flexible approach introduces ineradicable uncertainty into 
+the determination of what if any equivalents are available for an 
+investment-deterring litigation over this important aspect of 
+
+
+expertise” of Federal Circuit); Pet. App. 19a, 24a-25a. 
+
+
+1. The Federal Circuit's decision advances a policy 
+interest deeply embedded in the patent laws, as Warner- 
+Jenkinson and many prior decisions of this Court have 
+
+j That interest is not, as Festo caricatures it, to 
+“eliminate” uncertainty in the patent system. Festo Br. 41. It 
+is, rather, to reduce uncertainty by providing the public - 
+competitors, other innovators — better (not perfect) knowledge 
+of where it may stand amidst what may be a forest of patents in 
+an area of technology and commerce, as well as in protecting 
+
+
+33 
+
+
+the primacy of the PTO process for defining the zones that are 
+off limits without permission from the patentee. See Warner- 
+Jenkinson, 520 U.S. at 33-34; Markman v. Westview 
+Instruments, Inc., 517 U.S. 370, 390 (1996). The Federal 
+Circuit adopted the “complete bar” rule to define what an 
+applicant surrenders by amendment to provide the increased 
+
+‘ce 23 
+
+Businesses making decisions about where to devote 
+research-and-development dollars or what products they may 
+labor to perfect or introduce into the market are significantly 
+hampered by uncertainty about where various patentees’ rights 
+stop. Some uncertainty is inherent in the doctrine of 
+equivalents, but prosecution history estoppel has long been a 
+vital check on that uncertainty, reflecting the substantially 
+weaker interest of patentees in leeway as to claim boundaries 
+for those claim limitations that they crafted by amendment in 
+the PTO and to which they therefore had to give specific 
+focused attention. The certainty-enhancing role of prosecution 
+history estoppel requires a clear rule for determining what is 
+surrendered after determining that estoppel applies to a 
+particular amendment. A patent lawyer advising a business 
+provides little useful guidance if all he can advise is that an 
+estoppel-generating amendment “may have a limiting effect” 
+on available equivalents “within a spectrum ranging from great 
+
+
+*5In this respect, the rule serves as a default rule with similarities to 
+various clear-statement rules this Court has adopted to require express 
+provision to overcome the default result that otherwise applies: e¢.g., 
+nonretroactivity (Landgraf v. USI Film Prods., $11 U.S. 244 (1994)); 
+absence of implied repeal (United States v. Borden Co., 308 U.S. 188 
+(1939)); elimination of judicial review in certain contexts (/NS v. St. Cyr, 
+121 S. Ct. 2271 (2001); waivers of sovereign immunity (United Siates v. 
+Nordic Village, Inc., 503 U.S. 30 (1992)). A patentee, to avoid the effect 
+of limiting coverage to the terms of particular claim language, must draft 
+expressly broader claim language. 
+
+
+34 
+
+
+to small to zero.” Hughes, 717 F.2d at 1363. 
+
+The Federal Circuit rejected just that “flexible” approach, 
+and adopted the complete bar rule, after express 
+acknowledgement and consideration of the patentee’s 
+competing interest in “some benefit of the doubt as to what was 
+disclaimed.” Pet. App. 27a. That asserted benefit, the court 
+noted, “comes at the public’s expense.” /d. The expense, it 
+explained, is to interests the patent law values highly. - 
+
+
+Thus, the Federal Circuit explained that “the flexible bar 
+approach ‘poses a direct obstacle to the realization of 
+important objectives.” Pet. App. 26a. 
+
+These objectives include giving effect, when 
+
+prosecution history estoppel arises, to a narrowing 
+
+amendment’s operation as a disclaimer of subject 
+
+matter, see, e.g., Exhibit Supply, 315 U.S. at 136-37, 
+
+preserving the notice function of patent claims, see, 
+
+e.g., Warner-Jenkinson, 520 U.S. at 29, and 
+
+promoting certainty in patent law, see, ¢.g., 
+
+Markman, 517 U.S. at 390. The realization of these 
+
+objectives cannot help but be frustrated by the 
+
+uncertainty inherent in the flexible bar approach. 
+
+
+Pet. App. 26a (emphasis added). That uncertainty is reflected 
+in the common pattern of litigation over the issue: The patentee 
+draws the line at the prior art (“a wide range of equivalents”), 
+the accused infringer draws the line close to the literal terms of 
+the claims (“little or no range of equivalents”), and where the 
+line ultimately will be drawn by a court is “virtually impossible 
+to predict.” Pet. App. 25a. That problem produces a result the 
+Federal Circuit is uniquely qualified to diagnose: “it is virtually 
+impossible to predict before the decision on appeal where the 
+line of surrender is drawn.” Pet. App. 24a-25a. And that 
+result, the court concluded, renders the “flexible” approach not 
+“workable” as that term must be understood in patent law: 
+
+
+35 
+
+
+“[RJules qualify as ‘workable’ when they can be relied upon to 
+produce consistent results and give rise to a body of law that 
+provides guidance to the marketplace on how to conduct its 
+affairs.” Pet. App. 25a. 
+
+
+The complete bar rule solves this otherwise-unavoidable 
+problem. 
+
+
+If prosecution history estoppel acts as a complete bar 
+to application of the doctrine of equivalents, both the 
+patentee and the public are on notice as to the scope 
+of protection provided by a claim element narrowed 
+Jor a reason related to patentability. The patentee 
+and the public can look to the prosecution history, a 
+public record, to determine if any prosecution 
+history estoppel arises as to any claim element. If 
+- $0, that element’s scope of protection is clearly 
+defined by its literal terms. 
+
+
+Pet. App. 27a (emphasis added). And that clarity helps to 
+Thus, under the complete bar approach, 
+technological advances that would have lain in the 
+unknown, undefined zone around the literal terms of 
+a narrowed claim under the flexible bar approach 
+will not go wasted and undeveloped due to fear of 
+litigation. The public will be free to improve on the 
+patented technology and design around it without 
+being inhibited by the threat of a lawsuit because the 
+changes could possibly fall within this scope of 
+equivalents left after a claim element has been 
+narrowed by amendment for a reason related to 
+patentability. This certainty will stimulate 
+investment in improvements and design-arounds 
+because the risk of infringement will be easier to 
+determine. In general, the difficulty in counseling 
+
+
+36 
+
+
+the public and the patentee on the scope of 
+protection provided by an amended element is 
+greatly reduced under the complete bar approach due 
+to the certainty and predictability such a bar 
+produces. 
+
+
+Pet. App. 30a (emphasis added). For these reasons, the Federal 
+Circuit concluded that, “[a]lthough a flexible bar affords the 
+patentee more protection under the doctrine of equivalents, we 
+do not believe that the benefit outweighs the costs of 
+uncertainty.” Pet. App. 30a. 
+
+
+2. The clear rule adopted by the Federal Circuit in place 
+of the amorphous “flexible” approach not only serves the 
+public’s interest in increased certainty as to patent boundaries. 
+It also comports with the well-understood realities of patent 
+practice. First, the controlling incentive of patent-prosecuting 
+attcimeys to cede as little as possible in securing a patent aligns 
+the complete bar rule with what practitioners actually do. 
+Second, from the perspective of the relevant public, the fact that 
+this incentive is well understood by the patent bar makes it 
+reasonable for skilled readers to infer that, when the applicant 
+chose particular terms of limitation, it was carefully choosing 
+the terms that narrowed coverage the least possible amount 
+needed to secure the patent and thus that it was surrendering 
+precisely what it excluded by that narrowing. Third, the 
+unpredictability of different judges’ application of a “flexible” 
+approach reflects an inherent feature of PTO records: they are 
+commonly so terse and unilluminating, furnishing no reliable 
+basis for discerning the scope of surrender other than the 
+difference between the original claim and narrowed claim. 
+
+
+Fourth, the patentee side of the policy balance at issue 
+simply has not been shown to have substantial weight on its 
+own. Beyond generalities, Festo does not identify any 
+meaningful impediments to writing claim amendments to cede 
+
+
+37 
+
+
+as little territory as possible. Its example of using “glue” in a 
+claim (Festo Br. 32) is defeated by its own recognition, just a 
+few pages later (id at 36), that the patentee could use 
+“adhesive.” Claims may even be stated in negative terms, . 
+subject to meeting written-description, definiteness, and the 
+other normal requirements: the patentee may retain a term that 
+the examiner has deemed too broad by itself, while requiring 
+within that broad class something “other than” the particular 
+prior-art feature encompassed within it that made it too broad 
+in unmodified form. See, e.g., MPEP § 2173.05(i). Functional 
+terms, moreover, are expressly allowed by the means-plus- 
+function provision of Section 112, 4 6. Neither Festo nor its 
+amici have identified any concrete examples where a patentee 
+cannot retain appropriate claim coverage by a proper 
+amendment. In these circumstances, if there are claiming 
+impediments, they cannot be significant enough to weigh 
+heavily in the notice-fairness balance that the Federal Circuit 
+considered, and properly struck, in its decision. 
+
+
+3. The Solicitor General largely agrees with the foregoing 
+analysis, including the Federal Circuit’s judgment that the 
+flexible approach is unworkable and the fact of patentees’ 
+focused attention on particular limitations added by amendment 
+in the PTO, as well as the Court’s plain ruling in Exhibit 
+Supply. SG/PTO Br. 23-24, 27. The Solicitor General, 
+however, shies away from the Federal Circuit’s clear rule, 
+suggesting that surrender of all equivalents for the amendment- 
+added limitation be only a “presumption” and identifying 
+conceptually two exceptions. /d. at 25-28. But the suggestion 
+cannot be squared with Exhibit Supply. And, whatever the 
+superficial appeal of such exceptions in the abstract, the 
+Solicitor General’s approach is neither well-defined nor 
+supported by any concrete examples that actually justify the 
+exceptions; is not grounded in the practical realities of business 
+planning and infringement litigation on which the Federal 
+
+
+38 
+
+
+Circuit relied; and would defeat the clarity that is the essence 
+of Federal Circuit’s rule — relegating the patent world to 
+nothing more than a caution that “courts should exercise 
+disci, line” in finding some equivalents still available. SG/PTO 
+Br. 27. 
+
+One exception is for situations where “it was not possible 
+for one of ordinary skill in the art to draft a claim amendment 
+that literally encompassed the allegedly equivalent matter.” 
+SG/PTO Br. 26. The Solicitor General, however, gives not a 
+single example of any such impossibility, just as Festo has 
+given none, and there is simply no basis for a belief that the 
+tools available for claim drafting are insufficient, including the 
+tool of claiming a “means” for performing a particular 
+“function,” which, under Section 112, 4 6, provides /iteral 
+protection for equivalents of particular structures identified in 
+the specification (not the claim) as an example of the required 
+means. Moreover, if the Solicitor General means something 
+restrictive by his reference to “ordinary skill in the art,” that 
+concept (including what the relevant “art” is and what the level 
+of “ordinary skill” is) commonly is a subject of contentious 
+litigation — by factfinders (not the court) — in the context of 
+judging obviousness. See Graham v. John Deere Co., 383 U.S. 
+1 (1966); Richardson-Vicks Inc. v. Upjohn Co., 122 F.3d 1476, 
+1479 (Fed. Cir. 1997). Yet the Solicitor General here insists 
+that the estoppel inquiry is a matter of law (SG/PTO Br. 27), as 
+the Federal Circuit has long held (SMC Br. in Opp. 17 n.12), 
+and also rejects the “flexible” approach precisely because it 
+disables a workable efficient resolution of the estoppel inquiry. 
+In addition, the Solicitor General insists that the burden of 
+establishing any exception be on the patentee, yet identifies a 
+procedure that flips the burden: the patentee is required to 
+assert a negative (“no alternative claim language was 
+available”), then the accused infringer must come forward with 
+language to disprove the assertion. This exception, 
+
+
+39 
+
+
+unsupported by any concretely shown need, is riddled with 
+difficulties. 
+
+
+The Solicitor General’s other exception is similarly 
+deficient: “if the court finds that the assertedly equivalent 
+element is itself an innovation that was not known to persons 
+of ordinary skill in the art at the time the applicant amended the 
+claim.” SG/PTO Br. 25. The rationale is that matter that “did 
+not exist and was not reasonably within the contemplation of 
+the PTO and the applicant at the time of the claim amendment” 
+is not reasonably thought to be disclaimed. SG/PTO Br. 25-26. 
+The problems with this exception, however, are not only 
+conceptual but, perhaps more important, practical. 
+
+
+Conceptually, the suggested exception relies on an 
+unwarranted asymmetry between what a patentee claims and 
+what a patentee disclaims. A patentee has long been entitled to 
+coverage of (ie., exclusivity rights over) post-patent 
+innovations by others if they fall within the language adopted 
+in the claims — and, indeed, as Warner-Jenkinson held, even if 
+they are mere equivalents (judged at the later time of alleged 
+infringement) of what is claimed. 520 U.S. at 37. There is no 
+reason why the disclaimer effected by a narrowing amendment 
+should not equally reach post-patent innovations, whether or 
+not (actually or constructively) within the contemplation of the 
+art at the time of patenting. 
+
+
+The suggested exception, in any event, raises a host of 
+definitional issues and is rife with opportunities for litigation.”° 
+Does the Solicitor General intend an inquiry into what the PTO 
+and the applicant were actually aware of, or is the inquiry more 
+objective, involving what they reasonably could know? If the 
+
+
+*Some of these issues have been the subject of extensive litigation in 
+Litton’s case, in which a petition for certiorari is pending (No. 00-1617). 
+See Litton, supra. 
+
+
+40 
+
+
+PTO record were the basis for decision, how could the record 
+be a reliable indication of what was known, given the obvious 
+incentive, under such an approach, to include as little as 
+possible in the record? If “ordinary skill in the art” is part of 
+the standard, how does he propose to avoid the contentious 
+litigation (over what are elsewhere treated as factual issues) 
+that the concept provokes? When the Solicitor General speaks 
+of matter that “does not exist,” how does that relate to his 
+standard referring to what is “known” — given that it is 
+fundamental that description in publications puts matter in the 
+public domain even if no one ever builds a prototype, let alone 
+before any commercial availability? If the patent relates to one 
+“art,” but it uses as a component a device from another “art,” is 
+an existing or publicly disclosed equivalent of that component 
+inside or outside the exception? If, as will be common, the 
+alleged infringer has taken prior art and made some 
+modifications to produce its accused device (i.e., accused as an 
+equivalent of what may be just one element of a multi-element 
+claim), how (and by whom) is the decision to be made whether 
+the particular accused device is an “innovation that was not 
+known”? More generally, what are the standards for 
+“innovation,” “exist,” “known,” etc.? 
+
+The Solicitor General’s proposed exception obviously 
+presents patentees with a field day for costly litigation over the 
+scope of its estoppel effected by claim-narrowing amendment. 
+It is a recipe for trials within trials, benefiting only the lawyers. 
+Even worse, however the issues might be narrowed once joined 
+in litigation, businesses have little way of guessing in advance 
+what the answers will turn out to be. The exception thus re- 
+agrees, justifiably led the Federal Circuit to repudiate the 
+
+
+41 
+
+
+“flexible” approach to judging the scope of estoppel.”” And, as 
+with the Solicitor General’s other exception, there simply is no 
+concrete showing of any real-world “need” for the suggested 
+exception, let alone so substantial a need as to justify the 
+destruction of the clarity benefits of the Federal Circuit’s rule.” 
+Indeed, stretching to allow the patentee to assert coverage of 
+what is someone else’s later innovation carries real costs to the 
+patent law’s encouragement of ever-continuing innovation by 
+competitors.” . 
+
+
+"The uncertainties must be assessed from the full perspective of both 
+prospective patent holders and prospective accused infringers, as businesses 
+in the real world may be either or both. Those who, like some universities 
+and research groups, are only patent holders, and not makers or sellers 
+readily subject to infringement suits, have a distinctly limited perspective. 
+Of course, even from the perspective of those deciding where to invest 
+money for research, there is great value in heightened clarity in determining 
+whether existing patents will cover the fruits of any such research. 
+
+
+**Even Judge Rader’s example (Pet. App. 11 1a), a mere hypothetical, 
+presents no obviously compelling case for limiting the scope of the estoppel 
+— assuming, what is hardly clear itself, that “anode” and “cathode” would 
+not actually be construed literally to cover any electron attractor and 
+electron emitter, respectively. A pre-transistor-era patentee whose 
+invention depended only on the functions of emitting or attracting electrons 
+should, and easily could, have written its claims accordingly. If the inventor 
+had in mind only some additional particular aspect of “anodes” and 
+“cathodes,” an amendment to use those terms is fairly limited to their literal 
+scope. 
+
+
+*Neither of the exceptions suggested by the Solicitor General would be 
+applicable here. The elements at issue (non-magnetizable sleeve, sealing 
+ring) were in the prior art. None is “an innovation that was not known ... 
+at the time the applicant amended the claim” and, certainly, a claim could 
+have been drafted “that literally encompassed the allegedly equivalent 
+
+
+42 
+
+
+C. The Federal Circuit’s Experience-Based Judgment Is 
+Not Defeated By Any Reasonable Reliance Interest Or 
+Other Overriding Policy Objection 
+
+
+1. No sound claim of reasonable reliance stands as an 
+obstacle to the Federal Circuit’s application of its unique 
+experience to adopt a clear rule on the scope of amendment- 
+based estoppel to serve patent law’s vital public-notice policy. 
+This kind of objection cannot be accepted to override 
+otherwise-sound doctrinal rulings except on the strongest proof 
+of reasonable reliance: the Federal Circuit cannot properly be 
+faced with a one-way ratchet in resolving patent-law issues 
+always in favor of more protection. In any event, there are two 
+decisive flaws in any such objection here. Any reliance would 
+be legally unreasonable — for reasons so clear as to make the 
+assertion of actual reliance itself implausible. Moreover, there 
+is no substantial basis in patent-prosecution practice for an 
+assertion of actual reliance in the first place. 
+
+
+Thus, any reliance on some remaining equivalents for 
+amendment-added claim limitations would have been 
+unreasonable in light of the ever-looming authority of Exhibit 
+Supply stating a clear rule, plainly inconsistent with a “flexible” 
+approach, defining the scope of estoppel in terms that, at least 
+as a practical matter, are the same as the “complete bar” rule 
+now Clearly articulated by the Federal Circuit. Similarly, even 
+if a patent applicant looked to Federal Circuit cases on the 
+issue, it would have found a plain division of approach. That 
+division is laid out in the Federal Circuit opinion (Pet. App. 
+19a-24a) and has for a long time been well-recognized by 
+commentators.” Any reliance on one branch of the divided 
+
+
+5A D. Chisum, Patents § 18.05[3}[b}, at 18-492 (1998); Strawbridge 
+et al., Area Summary, Patent Law Developments in the United States Court 
+of Appeals for the Federal Circuit During 1986, 36 Am. U.L.Rev. 861, 
+887-88 (1987); Smith, The Federal Circuit's Modern Doctrine of 
+
+
+43 
+
+
+authority would have been unreasonable. 
+
+
+Indeed, the only reliance that could matter is some reliance 
+on available equivalents coverage that was the key to a 
+successful infringement case (on a valid patent), and that 
+reliance would not be reasonable even if a patentee were 
+looking only at the cases purporting to apply a “flexible” 
+approach. The simple fact is that, as SMC’s brief in opposition 
+demonstrates, out of all the 52 cases cited by Judge Michel for 
+the “flexible” approach, only a handful — themselves of very 
+recent vintage — involved a successful infringement claim that 
+seems actually to depend on the absence of the complete bar 
+rule. SMC Br. in Opp. 25-29. (The small number and recent 
+vintage of such cases, along with the interlocutory character of 
+cases like the 1983 Hughes decision, provides a ready 
+explanation of why the Federal Circuit’s nominally “flexible” 
+approach could survive for so long without en banc review or 
+review by this Court in light of Exhibit Supply.) There is no 
+reason to set out that analysis in full here, as it stands wholly 
+unanswered by Festo. The unavoidable lesson is that no 
+patentee could reasonably have counted on equivalents 
+coverage for amendment-added claim limitations even by 
+
+
+disregarding Exhibit Supply and the well-recognized division of 
+Federal Circuit authority and looking only at what could 
+
+
+reasonably be expected under the “flexible” approach. 
+
+These facts about the state of estoppel law not only make 
+any reliance unreasonable, but make any reliance by patent 
+attorneys reading the cases unlikely in fact to have occurred. 
+Basic facts about patent litigation and patent-prosecution 
+
+
+Equivalents in Patent Infringement, 29 Santa Clara L. Rev. 901, 921 
+(1989); Note, To Bar or Not to Bar: Prosecution History Estoppel Afier 
+
+
+Warner-Jenkinson, \11 Harv. L. Rev. 2330, 2336 (1998); Otterstedt, 
+Unwrapping File Wrapper Estoppel in the Federal Circuit: A New 
+Economic Policy Approach, 67 St. John’s L. Rev. 405 (1993) 
+
+
+44 
+
+
+practice also undermine any assertion that patent applicants 
+actually were placing reliance on remaining available 
+equivalents for amendment-adopted claim limitations. The 
+essential fact about litigation is that the governing standard for 
+“equivalents” coverage is so uncertain of application 
+(“insubstantial” differences, based on a battle of experts and 
+lawyers) that a patent applicant could not look ahead to the 
+prospect of a successful equivalents infringement assertion with 
+anything remotely approaching confidence.”' For many years, 
+
+
+indeed, the Federal Circuit treated “the doctrine of equivalents 
+
+
+[as] the exception, however, not the rule” (London v. Carson 
+Pirie Scott & Co., 946 F.2d 1534, 1536 (Fed. Cir. 1991)), and 
+Judge Lourie explained in the present case that, even today, 
+“the overwhelming majority of equivalence claims ultimately 
+fail” after lengthy and costly litigation (Pet. App. 68a). 
+
+The essential facts about patent prosecution are that neither 
+a patent attorney nor the PTO, in practice, acts in reliance on 
+by amendment. As Judge Lourie (a former patent practitioner) 
+explained: “Surely, when prosecuting a patent, patent 
+practitioners have no settled expectations of being able to assert 
+
+
+"See Caterpillar, Inc. v. Deere & Co., 224 F.3d 1374, 1381 (Fed. Cir. 
+2000) (Plager, J., concurring in reversal of noninfringement summary 
+judgment) (“I join the opinion and concur in the conclusion that this case 
+must be returned for trial, but | do so without enthusiasm. If the trial judge 
+sat as the trier of fact, | would find his assessment of the facts 
+unimpeachable. But he does not. Instead, under the rules as we now have 
+them, and because the patentee’s lawyer did a good job of building a record 
+of arguably disputable facts, the matter (unless settled) will now go to a jury 
+pene ene rates Sn Sr ntti mally 
+jury will then pick a winner, it may be the s , or it may 
+<ther oth, On cate queciden 0 tented Geuaato of Go tabenaded 
+nature of the ‘insubstantial differences’ test, and its marginally legitimate 
+child, ‘substantially the same way to achieve substantially the same result, 
+on which the outcome will turn. May the best lawyer win.”). 
+
+
+45 
+
+
+the doctrine of equivalents.” Pet. App. 66a. A leading treatise 
+similarly explains that “it would be most unwise and indeed 
+foolish for an applicant for patent knowingly to accept a claim 
+of lesser breadth than that to which he is entitled with mental 
+reservation based on an intention to rely upon the doctrine of 
+equivalents.” 2 P. Rosenberg, Patent Law Fundamentals at 14- 
+6 (2d ed. June 2000). Judge Lourie further explained: 
+“Additionally, the PTO does not make ‘basic assumptions’ 
+relating to a range of equivalents to be allowed. . . . The PTO 
+examines claims in light of the disclosure of the patent 
+application and against the prior art... . Jt does not issue 
+patents with any expectations regarding equivalents.” Pet. 
+
+
+App. 67a (emphasis added). In a similar vein, Judge Gajarsa 
+(also a former patent practitioner, and in fact a former 
+examiner) had earlier explained: 
+
+
+In deciding whether to allow a patent application to 
+issue, an examiner does not consider the doctrine of 
+equivalents. The United States Patent and Trademark 
+Office (PTO) requires its examiners to determine 
+only whether a patent application meets the 
+Statutory requirements of Title 35 of the United 
+States Code as well as various internal :egulations. 
+As a judicially-created doctrine, the doctrine of 
+equivalents is not found anywhere in either Title 35 
+of the United States Code or in the Code of Federal 
+Regulations governing PTO practice. As such, an 
+examiner is in no way required or directed to 
+consider the application of the doctrine of 
+equivalents in determining whether to allow a 
+particular patent application. 
+
+
+Litton, 145 F.3d at 1476 n.1 (Gajarsa, J., dissenting from denial 
+of rehearing) (emphasis added). 
+
+
+2. If no claim of reasonable reliance defeats the Federal 
+
+
+46 
+
+
+Circuit's resolution of the scope-of-estoppel issue, no other 
+policy objection does so either. For one thing, the Federal 
+Circuit’s rule does not destroy the doctrine of equivalents - 
+which continues to apply to all claim elements not added by a 
+narrowing amendment. Equivalents cases with no amendment- 
+based estoppel impediment (wholly apart from the complete bar 
+rule) are commonplace.” Festo has not even attempted to show 
+otherwise. 
+
+Equally important, it is demonstrably wrong to suggest 
+that the real-world value of patents depends on the availability 
+of equivalents infringement. That suggestion is simply 
+inconsistent with the experience of patent practitioners. It is 
+inconsistent, too, with the fact, noted by Judge Lourie, that “the 
+overwhelming majority of equivalence claims ultimately fail.” 
+
+
+See, e.g, Laitram Corp. v. Cambridge Wire Cloth Co., 863 F.2d 855 
+(Fed. Cir. 1988); Corning Glass Works v. Sumitomo Electric U.S.A., 868 
+F.2d 1251 (Fed. Cir. 1989); Sun Studs, Inc. v. ATA Equip. Leasing, Inc., 
+872 F.2d 978 (Fed. Cir. 1989); Insta-Foam Prods., Inc. v. Universal Foam 
+Systems, Inc., 906 F.2d 698 (Fed. Cir. 1990); Uniroyal, Inc. v. Rudkin- 
+Wiley Corp., 939 F.2d 1540 (Fed. Cir. 1991); Read Corp. v. Portec, Inc., 
+970 F.2d 816 (Fed. Cir. 1992); Goodwall Constr. Co. v. Beers Constr. Co., 
+991 F.2d 751 (Fed. Cir. 1993); Miles Labs., Inc. v. Shandon Inc., 997 F.2d 
+870 (Fed. Cir. 1993); Lifescan, Inc. v. Home Diagnostics, Inc., 76 F.3d 358 
+(Fed. Cir. 1996); Zygo Corp. v. Wyko Corp., 79 F.3d 1563 (Fed. Cir. 1996); 
+Fonar Corp. v. General Elec. Co., 107 F.3d 1543 (Fed. Cir. 1997); Cybor 
+Corp. v. FAS Technologies, Inc., 138 F.3d 1448 (Fed. Cir. 1998); YBM 
+Magnex, Inc. v. ITC, 145 F.3d 1317 (Fed. Cir. 1998); Comark 
+Communications, Inc. v. Harris Corp., 156 F.3d 1182 (Fed. Cir. 1998); 
+Overhead Door Corp. v. Chamberlain Group, Inc., 194 F.3d 1261 (Fed. 
+Cir. 1999); Kraft Foods, Inc. v. ITC, 203 F.3d 1362 (Fed. Cir. 2000); 
+Optical Disc Corp. v. Del Mar Avionics, 208 F.3d 1324 (Fed. Cir. 2000); 
+Fiskars, Inc. v. Hunt Mfg. Co., 221 F.3d 1318 (Fed. Cir. 2000); Viskase 
+Corp. v. American Nat'l Can Co., 261 F.3d 1316 (Fed. Cir. 2001); 
+Turbocare, supra. Of course, there are many more cases rejecting 
+equivalents claims on their merits, apart from any amendment-based 
+estoppel. 
+
+
+47 
+
+
+Pet. App. 68a. And it is inconsistent with the following 
+empirical review — which shows that, whatever may have been 
+the case in 1950, today at least it is just not true that cases of 
+literal infringement are “‘very rare.’”” Festo Br. 20 (quoting 
+Graver Tank, 339 U.S. at 607). An examination of one year’s 
+worth of Federal Circuit cases (with calendar year 2000 dates) 
+that reached the merits of infringement assertion (including in 
+several instances the likely merits, in preliminary-injunction 
+cases) shows that literal infringement is very far from rare. Of 
+the 31 that did not reject infringement altogether, fully 27 either 
+upheld or left open for remand liability for literal infringement, 
+with only 4 cases leaving nothing but equivalents liability.” 
+
+
+A Westlaw search for “infringe! & da(2000)” in the CTAF database 
+turned up 176 documents, including a number of trademark and other 
+nonpatent cases. The decisions seemingly upholding or allowing literal 
+infringement are the following: Vanguard Prods. Corp. v. Parker Hannifin 
+Corp., 234 F.3d 1370; Stryker Corp. v. Davol Inc., 234 F.3d 1252; Ruiz v. 
+A.B. Choice Co., 234 F.3d 654; Doyle v. Crain Indus., Inc., 243 F.3d 564; 
+Zi Corp. v. Tegic Communications, Inc., 243 F.3d 564; Lampi Corp. v. 
+American Power Prods., Inc., 228 F.3d 1365; Southwest Software, Inc. v. 
+Harlequin Inc., 226 F.3d 1280; Heidelberg Harris, Inc. v. Mitsubishi Heavy 
+Industries, Lid., 243 F.3d 560; Caterpillar Inc. v. Deere & Co., 224 F.3d 
+1374; Dow Chemical Co. v. United States, 226 F.3d 1334; Iscar Lid v. 
+Sandvik AB, 243 F.3d 558; Messagephone, Inc. v. SV1 Systems, Inc., 243 
+F.3d 556; Hilgraeve Corp. v. McAfee Associates, Inc., 224 F.3d 1349; Tate 
+Access Floors, Inc. v. Maxcess Technologies, Inc., 222 F.3d 958; Indian 
+Creek Mesquite, Inc. v. W.W. Wood, Inc., 250 F.3d 763; General Surgical 
+Innovations, Inc. v. Origin Medsystems, Inc., 250 F 34761; C.R. Bard, Inc. 
+v. Medtronic, Inc., 250 F.3d 760; Embrex, Inc. v. Service Eng'g Corp., 2\6 
+F.3d 1343; Magnivision, Inc. v. Bonneau Co., 250 F.3d 758; Northern 
+Telecom Lid. v. Samsung Electronics Co., 215 F.3d 1281; Advanced 
+Display Systems, Inc. v. Kent State University, 212 F.3d 1272; Envirco 
+Corp. v. Clestra Cleanroom, Inc., 209 F.3d 1360; Optical Disc Corp. v. Del 
+Mar Avionics, 208 F.3d 1324; IMS Technology, Inc. v. Haas Automation, 
+Inc., 206 F.3d 1422; Clearstream Wastewater Systems, Inc. v. Hydro- 
+Action, Inc., 206 F.3d 1440; Rivera-Davila v. Asset Conservation, Inc., 230 
+F.3d 1378; Ajinomoto Co. v. Archer-Daniels-Midland Co., 228 F.3d 1338. 
+
+
+48 
+
+
+That review would have to be extraordinarily inaccurate, or the 
+sample extraordinarily unrepresentative, for any claim of rarity 
+to be even close to true. 
+
+There is also no substantial cause for objection based on 
+the supposition that applicants “could be rendered reluctant to 
+amend claims” by virtue of the Federal Circuit’s newly clarified 
+rule. See SG/PTO Br. 21. This observation cannot sensibly 
+mean that an applicant will abandon an application rather than 
+amend it after a rejection; it must mean that an applicant is 
+more likely to appeal inside the PTO than previously. But that 
+result (with causation traced to the Federal Circuit rule) is 
+hardly clear. Without proof that substantial numbers of patent 
+applicants relied on equivalents availability, there is no reason 
+to suppose that such a change will occur. And, even on an 
+assumption of some such reliance, there is an obvious offsetting 
+effect: such applicants would do more up-front refinement of 
+their claims before filing — thereby reducing the occasions for 
+PTO rejections in the first place. Anyway, if more scope- 
+defining decisions are being made inside the expert PTO, rather 
+than awaiting future litigation after guesswork as to boundaries 
+by the public, that is not a negative consequence at all.” 
+
+
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+
+
+The equivalents-only cases are: Vermeer Mfg. Co. v. Charles Machine 
+Works, Inc., 251 F.3d 168; Fiskars, Inc. v. Hunt Mfg. Co.,221 F.36 118; 
+Ta Instruments, Inc. v. Perkin-Elmer Corp., 250 F.3d 756; Kraft Foods, 
+Inc. v. International Trading Co., 203 F.3d 1362. 
+
+
+“See Sage Products Inc. v. Devon Industries Inc., 126 F.3d 1420, 1425 
+(Fed. Cir. 1997) (per Rader, J.) (“as between the patentee who had a clear 
+opportunity to negotiate broader claims but did not do so, and the public at 
+large, it is the patentee who must bear the cost of its failure to seek 
+protection for this foreseeable alteration of its claimed structure”). 
+
+
+49 
+Respectfully submitted, 
+
+
+ARTHUR I. NEUSTADT 
+Counsel of Record 
+CHARLES L. GHOLZ 
+ROBERT T. POUS 
+OBLON, SPIVAK, McCLELLAND 
+MAIER & NEUSTADT, P.C. 
+1755 Jefferson Davis Highway 
+Arlington, Virginia 22202 
+(703) 413-3000 
+
+
+JAMES B. LAMPERT 
+HALE AND DORR 
+
+60 State Street 
+
+Boston, Massachusetts 02109 
+(617) 526-6000 
+
+
+Counsel for Respondents 
+
+

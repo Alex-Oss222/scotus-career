@@ -1,0 +1,29 @@
+{
+  "query": "collection:us-supreme-court AND (\"01-400\" OR title:(Bell AND Cone))",
+  "response": {
+    "numFound": 5,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385016_0123",
+        "title": "Bell v. Cone, 543 U.S. 447 (2005) (No. 04-394)"
+      },
+      {
+        "identifier": "micro_IA40385014_0501",
+        "title": "Bell v. Cone, 535 U.S. 685 (2002) (No. 01-400)"
+      },
+      {
+        "identifier": "micro_IA40385015_0070",
+        "title": "Cone v. Bell, 556 U.S. 449 (2009) (No. 07-1114)"
+      },
+      {
+        "identifier": "micro_IA40385015_0140",
+        "title": "Cone v. Bell, 556 U.S. 449 (2009) (No. 07-1114)"
+      },
+      {
+        "identifier": "micro_IA40385016_0039",
+        "title": "Bell v. Cone, 543 U.S. 447 (2005) (No. 04-394)"
+      }
+    ]
+  }
+}

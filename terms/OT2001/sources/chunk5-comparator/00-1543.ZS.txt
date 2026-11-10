@@ -1,0 +1,91 @@
+Source: https://www.law.cornell.edu/supct/html/00-1543.ZS.html
+
+
+
+FESTO CORP. V. SHOKETSU KINZOKU KOGYOKABUSHIKI CO.
+
+LII
+
+Supreme Court
+
+FESTO CORP. V. SHOKETSU KINZOKU KOGYOKABUSHIKI CO. (00-1543) 
+234 F.3d 558, vacated and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+FESTO CORP. v. SHOKETSU KINZOKU KOGYO 
+KABUSHIKI CO., LTD., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+ 
+No. 00—1543.  Argued January 8, 2002–Decided May   28, 2002
+
+Petitioner Festo Corporation owns two patents for an industrial device.  When the patent examiner rejected the initial application for the first patent because of defects in description, 
+  35 U.S. C. §112, the application was amended to
+   add the new limitations that the device would contain a pair of one-way sealing rings and that its outer sleeve would be made of a magnetizable material.  The second patent was also amended during a reexamination proceeding to add the sealing rings limitation
+  .  After Festo began selling its device, respondents (hereinafter SMC) entered the market with a similar device that 
+  uses one two-way sealing ring and a 
+  nonmagnetizable sleeve
+  .  Festo filed suit, claiming that SMC’s device is so similar that it infringes Festo’s patents under the doctrine of equivalents.  The District Court ruled for Festo, 
+  rejecting SMC’s argument that the prosecution history estopped Festo 
+  from saying that SMC’s device is 
+  equivalent
+  .  A Federal Circuit panel initially affirmed, but this Court granted certiorari, vacated, and remanded in light of Warner-Jenkinson Co. v. Hilton Davis Chemical Co., 520 U.S. 17, 29, 
+  which 
+  had acknowledged that
+   competitors may rely on 
+  the prosecution history to estop the patentee from recapturing subject matter surrendered by amendment as a condition of obtaining the patent.  
+  On remand, the en banc Federal Circuit reversed, holding that prosecution history estoppel applied.  
+  The court ruled that estoppel arises from any amendment that narrows a claim to comply with the Patent Act, not only from amendments made to avoid 
+  the prior art, as the District Court had held.  The Federal Circuit also held that, when estoppel applies, it bars 
+  any claim of equivalence for the element that was amended.  The court acknowledged that, under its 
+  prior cases, prosecution history estoppel constituted a flexible bar, foreclosing some, but not all, claims of equivalence, depending on the purpose of the amendment and the alterations in the text.  However, the court overruled its precedents on the ground that their case-by-case approach had proved unworkable.
+
+Held: Prosecution history estoppel may apply to any claim amendment made to satisfy the Patent Act’s requirements, not just to amendments made to avoid 
+  the prior art, but 
+  estoppel 
+  need not bar suit against every equivalent to the amended claim element.  Pp. 5—17. 
+
+    (a) To enable a patent holder to know what he owns, and the public to know what he does not, the inventor must describe his work in “full, clear, concise, and exact terms.”  §112.  However, patent claim language may not 
+  describe with complete precision the range of 
+  an invention’s novelty.  If patents were always interpreted by their literal terms, their value would be greatly diminished.  
+  Insubstantial substitutes for certain elements could defeat the patent, and its value to inventors could be destroyed by simple acts of copying.  Thus, a patent’s scope is not limited to its literal terms, but embraces all equivalents to the claims described.  See Winans v. Denmead, 15 How. 330, 347.  Nevertheless, because it may be difficult to determine what is, or is not, an equivalent, competitors may be deterred from engaging in legitimate manufactures outside the patent’s limits, or lulled into developing 
+  competing products that the patent secures, thereby prompting wasteful litigation.  Each time the Court has considered the doctrine of equivalents, it has acknowledged this uncertainty as the price of ensuring the appropriate incentives for innovation, and it has affirmed the doctrine over dissents that urged a more certain rule.  See, e.g., id., at 343, 347.  Most recently, Warner-Jenkinson, supra, at 28, reaffirmed the doctrine.  Pp. 5—8. 
+
+      (b) Prosecution history estoppel requires that patent claims be interpreted in light of the 
+  proceedings before the Patent and Trademark Office (PTO).  
+  When the patentee originally claimed the subject matter alleged to infringe but then narrowed the claim in response to a rejection, he may not argue that the surrendered territory comprised an unforeseen equivalent.  See Exhibit Supply Co. v. Ace Patents Corp., 315 U.S. 126, 136—137.  
+  The rejection indicates that the patent examiner does not believe the original claim could be patented.  While the patentee has the right to appeal, his decision to forgo an appeal and submit an amended claim is taken as a concession that the invention as patented does not reach as far as the original claim.  See, e.g., Goodyear Dental Vulcanite Co. v. Davis, 102 U.S. 222, 228.  
+  Were it otherwise, the inventor might avoid the PTO’s gatekeeping role and seek to recapture in an infringement action the very subject matter surrendered as a condition of receiving the patent.  Pp. 8—9.
+
+      (c) Prosecution history estoppel is not limited to amendments intended to narrow the patented invention’s subject matter, e.g., to avoid prior art, but may apply to a narrowing amendment made to satisfy any Patent Act requirement, including §112’s requirements concerning the patent application’s form.  In Warner-Jenkinson, the Court made clear that estoppel applies to amendments made for a “substantial reason related to patentability,” 520 U.S., at 33, but did not purport to 
+  catalog every reason that might raise an estoppel.  Indeed, it stated that even if the amendment’s purpose were unrelated to patentability, the court might consider whether it was the kind of reason that nonetheless might require estoppel.  Id., at 40—41.  Simply because estoppel has been discussed most often in the context of amendments made to avoid the prior art, see, e.g., id., at 30, it does not follow that amendments made for other purposes will not give rise to estoppel.  Section 112 requires that the application describe, enable, and set forth the best mode of carrying out the invention.  
+  The patent 
+  should not issue if these 
+  requirements are not satisfied, and an applicant’s failure to meet them 
+  could lead to the issued patent being held invalid in later litigation.  Festo’s argument that amendments made to comply with §112 concern the application’s form and not the invention’s subject matter conflates the patentee’s reason for making the amendment with the impact the amendment has on the subject matter.  Estoppel arises when an amendment is made to secure the patent and the amendment narrows the patent’s scope.  If a §112 amendment is truly cosmetic, it would not narrow the patent’s scope or raise an estoppel.  But if a §112 amendment is necessary and narrows the patent’s scope–even if only for better description–estoppel may apply.  Pp. 10—12.
+
+      (d) Prosecution history estoppel does not bar the inventor from asserting infringement against every equivalent to the narrowed element.  Though 
+  estoppel can bar challenges to a wide range of equivalents, its reach requires an examination of the subject matter surrendered by the narrowing amendment.  The Federal Circuit’s complete bar rule is inconsistent with the purpose of applying the estoppel in the first place–to hold the inventor to the representations made during the application process and the inferences that may be reasonably drawn from the amendment.  By amending the application, the inventor is deemed to concede that the patent does not extend as far as the original claim, not that the amended claim is so perfect in its description that no one could devise an equivalent.  The Court’s view is consistent with 
+  precedent
+   and 
+  PTO practice
+  .  The Court has consistently applied the doctrine in a flexible way, considering what equivalents were surrendered during a patent’s prosecution, rather than imposing a complete bar that resorts to the very literalism the equivalents rule is designed to overcome.  E.g., Goodyear Dental Vulcanite Co. v. Davis, 102 U.S. 222, 230.  The Federal Circuit ignored Warner-Jenkinson ’s instruction that courts must be cautious before adopting changes that disrupt the settled expectations of the inventing community.  See 520 U.S., at 28.  Inventors who amended their claims under the previous case law had no reason to believe they were conceding all equivalents.  Had they known, they might have appealed the rejection instead.  Warner-Jenkinson struck the appropriate balance by placing the burden on the patentee to prove that an amendment was not made for a reason that would give rise to estoppel.  Id., at 33.  Similarly, the patentee should bear the burden of showing that the amendment does not surrender the particular equivalent in question.  As the author of the claim language, his decision to narrow his claims through amendment may be presumed to be a general disclaimer of the territory between the original claim and the amended claim.  Exhibit Supply, supra, at 136—137.  However, in cases in which the amendment cannot reasonably be viewed as surrendering a particular equivalent–e.g., where the equivalent was unforeseeable at the time of the application or the rationale underlying the amendment bears but a tangential relation to the equivalent–the patentee can rebut the presumption that prosecution history estoppel bars a finding of equivalence by showing that at the time of the amendment one skilled in the art could not reasonably be expected to have drafted a claim that would have literally encompassed the alleged equivalent.  Pp. 12—16.
+
+      (e) Whether Festo has rebutted the presumptions that estoppel applies and that the equivalents at issue have been surrendered should be determined in the first instance by further proceedings below.  Pp. 16—17.
+
+234 F.3d 558, vacated and remanded.
+
+

@@ -1,0 +1,13 @@
+{
+  "query": "collection:us-supreme-court AND (\"01-131\" OR title:(Gisbrecht))",
+  "response": {
+    "numFound": 1,
+    "start": 0,
+    "docs": [
+      {
+        "identifier": "micro_IA40385014_0489",
+        "title": "Gisbrecht v. Barnhart, 535 U.S. 789 (2002) (No. 01-131)"
+      }
+    ]
+  }
+}

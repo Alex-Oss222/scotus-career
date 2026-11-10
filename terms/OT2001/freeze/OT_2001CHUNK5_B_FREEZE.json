@@ -1,0 +1,30 @@
+{
+  "kind": "filesystem preparation freeze; no history operations",
+  "files": [
+    {
+      "path": "freeze/OT_2001CHUNK5_B_NEUTRAL.md",
+      "sha256": "0b53cffb748d5fbd9e6b5668fa6f3f5a434b8e64687808ab7aa3784144619463",
+      "bytes": 44538
+    },
+    {
+      "path": "freeze/OT_2001CHUNK5_B_SOURCE_EXCERPTS.md",
+      "sha256": "b78f66a6c06c44302c313f30066dbae1a54461da6f369f68b038827c10c1c32f",
+      "bytes": 89506
+    },
+    {
+      "path": "freeze/OT_2001CHUNK5_B_PREPARATION.md",
+      "sha256": "0581073c88fbec8c9d0bc9f297eef88f3e3577428375aa61691aad5dbea6e13d",
+      "bytes": 11921
+    },
+    {
+      "path": "entering-law/OT_2001CHUNK5_B.md",
+      "sha256": "77915578898ef0c465f0ec08ca6e217b78a922170975ee018901e3d4584d1551",
+      "bytes": 175155
+    },
+    {
+      "path": "entering-law/OT_2001CHUNK5_B_PUBLIC_LAW.md",
+      "sha256": "15e3dfcd822a5a95d471ec2ea1fae6d6f6990931096b9776ff41f0a28e986854",
+      "bytes": 8791
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+Source: https://www.law.cornell.edu/supct/html/01-687.ZS.html
+
+
+
+UNITED STATES V. COTTON
+
+LII
+
+Supreme Court
+
+UNITED STATES V. COTTON (01-687) 
+261 F.3d 397, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. COTTON et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+ 
+No. 01—687.  Argued April 15, 2002–Decided May 20, 2002
+
+A federal grand jury returned an indictment charging respondents with conspiracy to distribute and to possess with intent to distribute a “detectable amount” of cocaine and cocaine base.  Respondents were convicted and received a sentence based on the District Court’s finding of drug quantity–at least 50 grams of cocaine base–that implicated the enhanced penalties of 21 U.S.C. § 841(b).  They did not object in the District Court to the fact that the sentences were based on a quantity not alleged in the indictment.  While their appeal was pending, this Court decided, in Apprendi v. New Jersey, 530 U.S. 466, 490, that “[o]ther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt.”  In federal prosecutions, such facts must also be charged in the indictment.  Id., at 476.  Respondents then argued in the Fourth Circuit that their sentences were invalid under Apprendi, because the drug quantity issue was neither alleged in the indictment nor submitted to the petit jury.  That court vacated the sentences on the ground that it had no jurisdiction to impose a sentence for an offense not charged in the indictment.
+
+Held:
+
+    1. A defective indictment does not deprive a court of jurisdiction.  Ex parte Bain, 121 U.S. 1, the progenitor of the Fourth Circuit’s view that the indictment errors are “jurisdictional,” is a product of an era in which this Court’s authority to review criminal convictions was greatly circumscribed.  It could examine constitutional errors in a criminal trial only on a writ of habeas corpus, and only then if it deemed the error “jurisdictional.”  The Court’s desire to correct obvious constitutional violations led to a “somewhat expansive notion of ‘jurisdiction,’ ” Custis v. United States, 511 U.S. 485, 494, which is not what the term means today, i.e., “the courts’ statutory or constitutional power to adjudicate the case,” Steel Co. v. Citizens for Better Environment, 523 U.S. 83, 89.  Because subject-matter jurisdiction involves a court’s power to hear a case, it can never be forfeited or waived.  Thus, defects require correction regardless of whether the error was raised in district court.  But a grand jury right can be waived.  Post-Bain cases confirm that indictment defects do not deprive a court of its power to adjudicate a case.  See, e.g., Lamar v. United States, 240 U.S. 60.  Thus, this Court some time ago departed from Bain’s view that indictment defects are “jurisdictional.”  Stirone v. United States, 361 U.S. 212; Russell v. United States, 369 U.S. 749, distinguished.  Insofar as it held that a defective indictment deprives a court of jurisdiction, Bain is overruled.  Pp. 3—5.
+
+      2. The omission from a federal indictment of a fact that enhances the statutory maximum sentence does not justify a court of appeals’ vacating the enhanced sentence, even though the defendant did not object in the trial court.  Under Federal Rule of Criminal Procedure 52(b)’s plain-error test, where there is an “(1) error, (2) that is plain, and (3) that affects substantial rights,” an appellate court may correct an error not raised at trial, “but only if (4) the error seriously affects the fairness, integrity, or public reputation of judicial proceedings.”  Johnson v. United States, 520 U.S. 461, 466—467 (internal quotation marks omitted).  The Government concedes that the indictment’s failure to allege a fact that increased the sentences was plain error.  But, even assuming the error affected respondents’ substantial rights, it did not seriously affect the fairness, integrity, or public reputation of judicial proceedings.  The evidence that the conspiracy involved at least 50 grams of cocaine base was “overwhelming” and “essentially uncontroverted.”  It is true that the Fifth Amendment grand jury right serves a vital function in providing for a body of citizens that acts as a check on prosecutorial power, but that is no less true of the Sixth Amendment right to a petit jury, which must find guilt beyond a reasonable doubt.  The petit jury’s important role did not, however, prevent the Johnson Court from applying the longstanding rule “that a constitutional right may be forfeited in criminal as well as civil cases by the failure to make timely assertion of the right.”  Yakus v. United States, 321 U.S. 414, 444.  The real threat to the “fairness, integrity, or public reputation of judicial proceedings” would be if respondents, despite the overwhelming and uncontroverted evidence that they were involved in a vast drug conspiracy, were to receive a sentence prescribed for those committing less substantial drug offenses because of an error that was never objected to at trial.  Pp. 6—9.
+
+261 F.3d 397, reversed and remanded.
+
+    Rehnquist, C. J., delivered the opinion for a unanimous Court.
+
+

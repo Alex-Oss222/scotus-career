@@ -1,0 +1,24 @@
+[
+  {
+    "stem": "cone_state_1987",
+    "case": "Cone v. State",
+    "date": "1987-11-04",
+    "json_url": "https://static.case.law/sw2d/747/cases/0353-01.json",
+    "pdf_url": "https://static.case.law/sw2d/747/case-pdfs/0353-01.pdf",
+    "pages": 6,
+    "opinions": 1,
+    "characters": 15195,
+    "pdf_sha256": "d9b58eb52cc66e5158aa66e68b98a6054481919c6fb31d8b09fb140f6f5e238f"
+  },
+  {
+    "stem": "cozzolino_state_1979",
+    "case": "Cozzolino v. State",
+    "date": "1979-06-11",
+    "json_url": "https://static.case.law/sw2d/584/cases/0765-01.json",
+    "pdf_url": "https://static.case.law/sw2d/584/case-pdfs/0765-01.pdf",
+    "pages": 9,
+    "opinions": 2,
+    "characters": 28813,
+    "pdf_sha256": "366f2e163879f662afb7284ffd51e83e04666137a1aa9c2ae7b875bbca686111"
+  }
+]

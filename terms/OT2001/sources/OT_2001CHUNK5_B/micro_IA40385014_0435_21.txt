@@ -1,0 +1,265 @@
+' DEC @ *@i 15:18 FR TO 92824792953 P.@7715 
+
+
+De C. Ole 200/ 
+
+
+> 
+Uy 
+No. 00-878 
+
+
+In the Supreme Court of the Anited States 
+
+
+RICHARD L. MATHIAS, ET AL., 
+
+
+Petitioners, 
+v. 
+
+
+WORLDCOM TECHNOLOGIES, ET AL., 
+Respondents. 
+
+
+POST-ARGUMENT BRIEF FOR RESPONDENT 
+ILLINOIS BELL TELEPHONE COMPANY d/b/a 
+AMERITECH ILLINOIS 
+
+
+MICHAEL W. MCCONNELL STEPHEN M. SHAPIRO 
+
+
+332 South 1400 East Counsel of Record 
+Salt Lake City, Utah 84112 JOHN E. MUENCH 
+(801) 467-1958 THEODORE A. LIVINGSTON 
+ROBERT M. Dow, JR. 
+MARTIN H. REDISH Mayer, Brown & Platt 
+
+
+357 East Chicago Avenue 190 South LaSalle Street 
+Chicago, Illinois 60611 Chicago, Illinois 60603-3441 
+(312) 503-8545 (312) 782-0600 
+
+
+[Additional counsel] listed inside cover page] 
+—————————e ee 
+
+
+DEC @6 ’@1 15:18 FR 
+
+
+T. MICHAEL PAYNE 
+Ameritech Corporation 
+225 West Randolph Street 
+Chicago, Illinois 60606 
+(312) 727-2727 
+
+
+JAMES D. ELLIs 
+
+WILLIAM M. SCHUR 
+
+SBC Communications Inc. 
+175 E. Houston Street 
+
+San Antonio, Texas 78205 
+(210) 35]-3409 
+
+
+DEC @6 '@1 15:16 FR 
+
+
+TO 928247929538 
+
+
+POST-ARGUMENT BRIEF FOR RESPONDENT 
+ILLINOIS BELL TELEPHONE COMPANY d/b/a 
+AMERITECH ILLINOIS 
+
+
+Pursuant to Rule 25.6, respondent Illinois Bell Telephone 
+Company d/b/a Ameritech Illinois (“Ameritech”) respectfully 
+submits the following post-argument brief to address — and 
+formally to disavow — certain statements made by counsel for 
+respondent WorldCom during oral argument yesterday. Sce 
+Sutton v. United Air Lines, Inc., 527 U.S. 471, 490 (1999) 
+(citing post-argument briefs addressing points made during oral 
+argument). 
+
+WorldCom’s counsel conceded at oral argument that 
+WorldCom does not speak for Ameritech. WorldCom's 
+counsel acknowledged that his client’s position is in direct 
+conflict with Ameritech’s position on the critical issue in the 
+case: whether the federal courts have jurisdiction to adjudicate 
+a claim that a state commission has violated federal law by 
+nullifying provisions in commission-approved section 252 
+interconnection agreements that expressly limit the obligations 
+imposed by those agreements to the requirements of the 1996 
+Act. Ameritech vigorously disagrees with the position 
+espoused by WorldCom’s counsel at oral argument, and seeks 
+through this supplemental brief to make clear how its position 
+differs from that advocated by WorldCom. 
+
+The dispute between the private carriers in this case (and in 
+the companion case) involves provisions of section 252 
+interconnection agreements that govern the reciprocal 
+compensation obligations between the parties. Like Verizon's 
+agreements, the reciprocal compensation provisions of 
+Ameritech’s agreements specifically provide that the parties’ 
+reciprocal compensation obligations are “As Described in the 
+Act” (J.A. 8a, 14a, 20a, 30a, 38a), which is in turn defined in 
+each agreement to mean “as described in or required by the 
+Act” (J.A. 8a, 13a, 19a, 30a, 37a). Ameritech’s claim in this 
+case is that the state commission vidlated the 1996 Act by 
+
+
+nullifying those express statutory-based limitations on its ~ 
+
+
+P.@971S 
+
+
+DEC @6 *@1 15:16 -R 
+
+
+TO 928247929538 
+
+
+2 
+
+
+reciprocal compensation obligations, and it did so in an Order 
+suffused with a discussion of federal law. 
+
+
+Contrary to the arguments of WorldCom, Ameritech 
+contends that, at a minimum, the federal courts have 
+jurisdiction to adjudicate Ameritech’s claim that the state 
+commission's determination that Ameritech must pay reciprocal 
+compensation on Internet traffic is inconsistent with the 
+reciprocal compensation requirements of the 1996 Act that were 
+expressly incorporated into the parties’ approved section 252 
+agreements. WorldCom's suggestion that this is not a federal 
+claim defies common sense. The Act establishes a specific 
+process for the formation of interconnection agreements and 
+makes the agreements approved as a result of that process 
+“binding” on the parties. Permitting a state commission to 
+substitute its “interpretation” for unambiguous Act-based terms 
+and conditions would render the agreement formation 
+provisions of the Act a nullity. 
+
+
+The federal jurisdiction advocated by Ameritech would not 
+“open the floodgates.” Since 1996, telecommunications carriers 
+have entered into thousands of interconnection agreements, yet 
+there are only a few dozen reported cases in federal court 
+regarding interpretative disputes. Overwhelmingly, those cases 
+have involved claims, like the claim asserted here by 
+Ameritech, that a state commission has disregarded provisions 
+of an approved agreement that expressly limit the parties’ 
+obligations to the requirements of federal law, and thus hinge 
+on a proper construction of the Act. Within that narrow 
+category of disputes, the vast majority have arisen in precisely 
+the factual context presented here — disputes arising out of a 
+State commission’s alleged failure to respect Congress's 
+judgment that the reciprocal compensation requirements of the 
+Act do not apply t, Internet traffic. Trivial disputes have not 
+given rise to federal lawsuits. Many section 252 agreements 
+provide for ADR proceedings, which weed out smaller disputes. 
+Only the most substantial disputes are taken to the state 
+
+
+P.18/15 
+
+
+* y 
+5 Fa 
+
+
+DEC @6 *@1 15°16 FR 
+
+
+TO 92824792959" 
+
+
+3 
+
+
+commissions. The parties seck federal review of an even 
+narrower range of state commission determinations in cases 
+where a sizable sum of money is at stake, the competitive 
+Once the basic federal issues have been sorted out, these 
+disputes will decline stil! further. In an analogous context, there 
+have been few federal court suits arising out of disputes over 
+the terms of federal tariffs. 
+
+
+WorldCom's contention that Congress intended that some 
+claims arising out of the ierpretation of negotiated 
+interconnection agreements belong in federal court and others 
+(like Ameritech’s claim in this case) belong in state court is 
+absurd. Interpretive disputes arising out of federally- 
+statutory obligations unquestionably are federal in nature and, 
+like federal tariffs, should be construed under federal law. 
+Such disputes — which require application of the criteria of 
+the 1996 Act (see J.A. 114a-119a) — are a proper subject of 
+federal court review. WorldCom's (and the Seventh 
+Circuit's) suggestion that such disputes should be 
+“bifurcated” between federal court and state court would 
+subvert and undermine Congress's objective of resolving 
+contested issues expeditiously. 
+
+
+Congress simply could not have meant for 
+interconnection disputes arising from the same agreement to 
+run the gauntlet of two separate judicial systems, as 
+WorldCom contends, with some issues litigated first in the 
+federal system and other issues litigated years later in the 
+fall on one side or another of “the federal-state divide,” given 
+“myriad possible fact patterns.” World Com Reply Br. in 
+00-1531 & 00-1711 at 14. It should come as no surprise, 
+therefore, that there is no support whatsoever in the text, 
+
+
+structure, or legislative history of the Act for suchabyzantine ~ 
+
+
+P.11715 
+
+
+. : 32824739298 S81 '. 
+DEC @6 *@1i 15:18 FR TO 928247929532 P.12715 DEC @6 *@1 15°18 FR TO P.13/15 
+
+
+4 
+jurisdictional] scheme. Compare Jackson Transit Authority v. , 
+Local Division 1285, Amalgamated Transit Union, 457 U.S. MICHAEL W. MCCONNELI STEPHEN M. SHAPIRO 
+15, 24 (1982) (finding clear evidence in legislative history of : 332 South 1400 East Counsel of Record 
+Congressional intent that municipal labor disputes be Salt Lake City, Utah 84112 JouNE. MUENCH 
+resolved in state court). Rather, Congress anticipated federal (801) 467-1958 THEODORE A. LIVINGSTON 
+court review over al! state commission determinations. See ROBERT M. Dow, Jr. 
+Bank One Chicago v. Midwest Bank & Trust Co., 516 U.S. MARTIN H. REDISH Mayer, Brown & Platt 
+264, 275-276 (1996) (refusing to fragment jurisdiction under 357 East Chicago Avenue 190 South LaSalle Street 
+federal statute; “even if the text of [the act] could plausibly be Chicago, Mlinois 606] 1 Chicago, Mlinois 60603 
+read to create this decidedly inefficient jurisdictional scheme, (312) 503-8545 (312) 782-0600 
+we would hesitate to attribute such a design to Congress.”). 
+T. MICHAEL PAYNE JaMEs D. ELLis 
+CONCLUSION | Ameritech Corporation WILLIAM M. SCHUR 
+
+The decision of the Seventh Circuit should be affirmed in 4 225 West Randolph Street SBC Communications Inc. 
+part and reversed in part and the case remanded with Le Chicago, Illinois 60606 175 E. Houston Street 
+instructions to the courts below to adjudicate Ameritech’s . (312) 727-2727 San Antonio, Texas 78205 
+claims on the merits. (210) 351-3409 
+
+r DECEMBER 2001 
+LP bs 
+
+
+= Por 
+
+
+; 
+
+

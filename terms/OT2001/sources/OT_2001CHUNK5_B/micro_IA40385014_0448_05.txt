@@ -1,0 +1,1188 @@
+No. 00-1214 ~~ 209) | 
+OM: i 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+e 
+THE STATE OF ALABAMA, 
+Petitioner, 
+v. 
+LEREED SHELTON, 
+Respondent. 
+¢ 
+
+
+On Writ of Certiorari to the 
+Supreme Court of Alabama 
+¢ 
+
+
+BRIEF FOR PETITIONER 
+
+
+S 
+
+
+BILL PRYOR 
+Attorney General of Alabama 
+
+
+SANDRA JEAN STEWART 
+
+STEPHANIE N. MORMAN * 
+Assistant Attorneys General 
+Counsel of Record* 
+
+
+OFFICE OF THE ATTORNEY GENERAL 
+STATE OF ALABAMA 
+
+11 South Union Street 
+Montgomery, AL 36130-0152 
+
+(334) 242-7300 
+
+
+(55 
+
+
+i 
+QUESTION PRESENTED 
+
+
+In the light of the “actual imprisonment” standard 
+established in Argersinger v. Hamlin, 407 U.S. 25 (1972), 
+refined in Scott v. Illinois, 440 U.S. 367 (1979), and 
+reaffirmed in Nichols v. United States, 511 U.S. 738 
+(1994), does the imposition of a suspended or 
+probationary sentence in a misdemeanor case invoke a 
+defendant’s Sixth Amendment right to appointed counsel? 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+Page 
+TABLE OF AU THORE Tis «0ccccoccosesocscsscsssesssnenssssssmmnunnanl iv 
+OPINIONS BIBLIO 0000cccccccccescosesscoscoscsssosnsensssnnnnsnsinnnnnnnnanl 1 
+STATEMENT OF JURISDICTION ...............ccsssssseeeseeeeeees 1 
+CONSTITUTIONAL PROVISION INVOLVED................. 2 
+STATEMENT OF THE CASE ...........::cccccccssssssssccssesseeseeees 2 
+SUMMARY OF THE ARGUMENT. ............:cccccssssssseeesseeees 8 
+ABRGUBEEEIN TE 00007c0cccccecscscososesensssecsssonssnsssesneaninaninnnnnann 9 
+
+
+SHELTONS RECEIPT OF A SUSPENDED 
+SENTENCE IN HIS MISDEMEANOR CASE WAS A 
+“MERE THREAT OF IMPRISONMENT” UNDER 
+SCOTT V. ILLINOIS AND DID NOT INVOKE HIS 
+SIXTH AMENDMENT RIGHT TO APPOINTED 
+0018). | | Fe ee 9 
+
+
+A. This Court Has Interpreted the Sixth 
+Amendment to Extend Misdemeanor Defen- 
+dants the Right to Appointed Counsel Only 
+When They Are Actually Imprisoned..................... 9 
+
+
+B. The Majority of Federal Appeals and State 
+Supreme Courts Have Ruled That a Suspended 
+or Conditional Sentence Does Not Trigger a 
+Misdemeanor Defendant's Right to Appointed 
+Counsel Under the Sixth Amendment................. 15 
+
+
+C. If the Scott “Actual Imprisonment” Standard 
+Was Interpreted to Require Appointment of 
+Counsel When Suspended or Conditional 
+Sentences Were Imposed, it Would Divert 
+Scarce Judicial Resources. ..........cccccccccsscrceccesesseees 20 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+CONCLUSION 
+
+
+ihe EEE EEE Eee Tee Te ee eee 
+
+
+1V 
+
+
+TABLE OF AUTHORITIES 
+
+
+Cases 
+
+
+Argersinger v. Hamlin, 
+
+
+GOT UB. BB (IGTED ..0ccccccccccsceecessccsccecscscsssccccoscssscossssccees 
+
+
+Arkansas v. Sullivan, 
+
+
+121 S. Ct. 1876 (2001)..................0ccccccrcrsssssesseereeeeerees 
+
+
+Barnes v. State, 
+No. A01A0624, 2001 WL 540764 
+
+
+(Ga. Ct. App. May 23, 2001) ...............s-sscscsscssrrsrsrreeees 
+
+
+Campa v. Fleming, 
+
+
+656 P.2d 619 (Ariz. Ct. App. 1982) ...........ccccccceceeeeeeees 
+
+
+City of Akron v. Bilder, 
+No. 14363, 1990 WL 67055 
+
+
+(Ohio Ct. App. May 16, 1900) .....................scccscsscseseees 
+
+
+Commonwealth v. Thomas, 
+
+
+BOT A.B BT GO. LBBB) ...ccccccccccccecsscscccsssscsssccoscssssesooees 
+
+
+Cottle v. Wainwright, 
+477 F.2d 269 (5th Cir. 1973), vacated on 
+
+
+different grounds, 414 U.S. 895 (1973).................00000: 
+
+
+Gideon v. Wainwright, 
+
+
+FED TED. SB CaP rccccoccevecccccscecccsecseescscsnseseesesscssssseses 
+
+
+Griswold v. Commonwealth, 
+
+
+472 S.E.2d 789 (Va. 1996) ................cccccerssssssecssscscesees 
+
+
+Hlad v. State, 
+
+
+565 So. 2d 762 (Fla. Dist. Ct. App. 1990) 
+
+
+v 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+Holmes v. State, 
+
+740 So. 2d 952 (Miss. Ct. App. 1999).................ccee 18 
+Johnson v. Zerbst, 
+
+ee I cirnnssiniesinesaninhenrininisitninrenatiatemtadiaies 10 
+Lassiter v. Department of Social Services of Durham 
+
+ee ee 14 
+M.L.B. v. S.L.d., 
+
+Ii Oe 14 
+Nichols v. United States, 
+
+I I ai 9 
+Parks v. McClung, 
+
+Se RD EPCs I cctctcrcrenectccncnccncsunnnmsntunnetnamens 17 
+People v. MacArthur, 
+
+731 N.E.2d 883 (Ill. App. Ct. 2000) ...0.........ccceec eee 18 
+People v. Reichenbach, 
+
+587 N.W.2d 1 (Mich. 1998) ..............cccccccccceeceeeeeeeeeeeees 18 
+Powell v. Alabama, 
+
+Be re I ciscrreciirinrsncenisnsitiiniiinsinaiianitiiiidiiassitrgatiniiaaail 10 
+Scott v. Illinois, 
+
+Ean” 9 
+
+
+State v. Hansen, 
+ff} eee 18 
+
+
+a vil 
+
+
+TABLE OF AUTHORITIES—Continued TABLE OF AUTHORITIES—Continued 
+Page(s) 
+
+
+State v. Rau, on 
+465 S.E.2d 370 (S.C. Ct. App. 1995) ...ccccccccccooosseeeseee 19 or authorities 
+Black’s Law Dictionary (7th ed. 1999) ......cccccccsssscveosesseee 20 
+
+
+Page(s) 
+
+
+State v. Sweeney, 
+464 A.2d 1150 (N.J. Super. Ct. App. Div. 1983)......... 19 
+
+
+United States v. Castro- Vega, 
+945 F.2d 496 (2d Cir. 1991), 
+cert. denied, 507 U.S. 908 (1993) ...............-:sceeeeeeeeeeees 16 
+
+
+United States v. Jackson, 
+605 F.2d 1319 (4th Cir. 1979)..............ccccccccceeeeeeeeeeeees 16 
+
+
+United States v. Milligan, 
+No. 96-5330, 96-5439, 1999 WL 313881 
+(6th Cir. May 3, 1999) (unpublished opinion)............ 17 
+
+
+United States v. Peagler, 
+fe ). |) Ud dl 17 
+
+
+United States v. Smith, 
+No. 94-5627, 1995 WL 314892 
+(6th Cir. May 23, 1995) (unpublished opinion)........... 21 
+
+
+West Valley City v. Sellers, 
+No. 990472-CA, 1999 WL 33244766 
+(tah Ct. App. Sept. 2, 1909) ............0ccccccccccccecssesseeess 18 
+
+
+Statutes 
+Ala. Code § 12-12-71 (1995).......c.ccccsessessessessseesessesneeneeneeens 2 
+Ala. Code § 15-22-50 (1995).......ccccccscssessessessesessessesseenenees 15 
+
+
+1 
+
+
+OPINIONS BELOW 
+
+
+The decision of the Alabama Court of Criminal 
+Appeals can be found at Shelton v. State, CR-97-1313, 
+1999 WL 339284 (Ala. Crim. App. May 28, 1999). App. 8— 
+25. The decision of the Alabama Supreme Court is found 
+at Ex parte Shelton, No. 1990031, 2000 WL 1603806 (Ala. 
+May 19, 2000). App. 31—40. 
+
+
+STATEMENT OF JURISDICTION 
+
+
+The decision of the Alabama Supreme Court vacating 
+Shelton’s suspended misdemeanor sentence was entered 
+on May 19, 2000. An application for rehearing was 
+denied on October 27, 2000. App. 42-45. The State 
+invokes the jurisdiction of this Court under 28 U.S.C. § 
+1257(a). 
+
+
+2 
+
+
+CONSTITUTIONAL PROVISION INVOLVED 
+The Sixth Amendment provides: 
+
+
+In all criminal prosecutions, the accused shall 
+enjoy the right to a speedy and public trial, by an 
+impartial jury of the state and district wherein the 
+crime shall have been committed, which district 
+shall have been previously ascertained by law, and 
+to be informed of the nature and cause of the 
+accusation; to be confronted with the witnesses 
+against him; to have compulsory process for 
+obtaining witnesses in his favor, and to have the 
+assistance of counsel for his defense. 
+
+
+STATEMENT OF THE CASE 
+
+
+This case arises from the decision of the Alabama 
+Supreme Court to vacate the suspended sentence imposed 
+following LeReed Shelton’s conviction for third degree 
+misdemeanc- assault based on its conclusion that the 
+receipt of the probationary sentence invoked a Sixth 
+Amendment right to appointed counsel. 
+
+
+On March 21, 1997, LeReed Shelton (Shelton) was 
+adjudged guilty of third degree assault, a misdemeanor 
+offense, then ordered to pav a $500 fine, court costs, and 
+restitution of $333.75, after representing himself in the 
+Etowah County Distmect Court of Alabama Clerk's 
+Record 2, 12. Shelicn appealed the conviction by seeking 
+a trial de novo’ before a jury in the Etowah County 
+Cireuit Court. He then appeared pro se in the circuit 
+court proceedings, where a jury convicted him of the same 
+
+
+' Alabama provides a mght of appeal from a final judgment of the 
+district court for a trial de novo im the circuit court. Ala Code 
+§ 12-12-71 (1996). 
+
+
+3 
+
+
+crime. Clerk’s Record 2, 12, 15. The trial judge sentenced 
+Shelton to serve thirty days in the Etowah County 
+Detention Center, then suspended the term of 
+imprisonment, imposing two years’ unsupervised 
+probation, conditioned on, among other terms, Shelton’s 
+payment of court costs, a $500 fine, reparations of $25, 
+and $51.69 in restitution within thirty days. Clerk’s 
+Record 16. 
+
+
+Among other issues raised on direct appeal to the 
+Alabama Court of Criminal Appeals, Shelton, through 
+newly retained counsel, asserted that his conviction was 
+void because the trial court had not offered to appoint an 
+attorney for him if he could not afford counsel, and that 
+he had not waived his right to appointed counsel. On 
+October 2, 1998, the Alabama Court of Criminal Appeals 
+declared that “[t]he constitutional right to counsel applies 
+in misdemeanor cases where the appellant's sentence of 
+imprisonment is suspended conditionally” and 
+“remand(ed] the case for the circuit court to determine 
+whether [Shelton] made a knowing, intelligent, and 
+voluntary waiver of his right to counsel.” App. 6—7. 
+
+
+On remand, the trial court conducted two hearings, 
+taking evidence from the deputy district attorney, as well 
+as Shelton and his newly retained counsel. Trial Record 
+on Return to Remand 3-46. Following consideration of 
+the arguments and evidence, the judge entered three 
+findings: 1) although Shelton did not explicitly waive his 
+right to counsel, Shelton “understood his right to employ 
+counsel” and “did a credible job of defending his own 
+case”; 2) he cautioned Shelton “[rjepeatedly during the 
+trial” concerning the problems associated with self- 
+representation; and 3) Shelton was “fully aware” of the 
+court proceedings and the implications of trial and 
+imposition of punishment. Clerk’s Record on Return to 
+Remand 10-11. 
+
+
+4 
+
+
+After resubmission of the case, the Alabama Court of 
+Criminal Appeals reversed its previous decision and 
+concluded that a misdemeanor defendant was not 
+constitutionally entitled to appointed counsel upon receipt 
+of a suspended sentence. App. 9-14. In particular, the 
+court reviewed Alabama courts’ earlier interpretations of 
+Argersinger v. Hamlin, 407 U.S. 25 (1972), and Scott v. 
+Illinois, 440 U.S. 367 (1979), and expressly “overrule{d]” 
+certain Alabama cases that “held that [a] conditionally 
+suspended sentence of imprisonment could not be 
+imposed on an indigent defendant who had been denied 
+counsel.” App. 10-13. 
+
+
+Accordingly, the court held that “[t]he trial court did 
+not err when it did not conduct an inquiry to determine 
+Shelton’s indigence and, had it found Shelton indigent, to 
+advise him of the right to appointed counsel or to 
+determine whether Shelton was affirmatively waiving 
+such a right.” App. 14. Nevertheless, the court remanded 
+the case to “ensure that Shelton was afforded allocution.” 
+App. 21-23, 25. 
+
+
+While on remand, “in an abundance of caution,” the 
+Etowah County Circuit Court “reopened the sentence 
+hearing to allow [Shelton] further allocution[.]” App. 26. 
+At the conclusion of the proceeding, the trial judge 
+imposed the same sentence involving the payment of fines 
+and the suspension of Shelton’s thirty-day jail sentence. 
+App. 26. On the second return to remand, the Alabama 
+Court of Criminal Appeals affirmed the sentence imposed 
+by the lower court. App. 28-29. Shelton, through 
+retained counsel, filed an application for rehearing, which 
+was denied on September 24, 1999. App. 30. 
+
+Shelton then filed a petition for writ of certiorari in 
+the Alabama Supreme Court, which was granted on 
+
+
+5 
+
+
+December 13, 1999. In a 6-to-1 decision,? the court 
+affirmed Shelton’s misdemeanor conviction and “[t]he 
+remaining aspects of the sentence[,]” but “revers[ed] that 
+aspect of his sentence imposing 30 days of suspended jail 
+time.” App. 40. The court observed that “[o]n cross- 
+examination, Shelton stated that he was aware he could 
+be represented by counsel if he ‘went and paid the money’ 
+to hire a lawyer.” App. 32. However, the court concluded 
+that “[t]he record does not contain evidence that anyone 
+told Shelton that the trial court would appoint a lawyer to 
+represent him if he could not afford one.” App. 32. 
+
+
+The Supreme Court of Alabama then examined this 
+Court’s decisions in Argersinger and Scott. The court 
+below acknowledged that the Argersinger Court held that 
+the Sixth Amendment night to appointed counsel turned 
+on “the actual deprivation of a person’s liberty,” but 
+concluded that this decision “did not address the issue of a 
+defendant's right to counsel when no loss of liberty has 
+occurred.” App. 34-35. The Alabama Supreme Court 
+further recognized that Scott reconfirmed Argersinger’s 
+“central premise,” — ie., “that actual] imprisonment is a 
+penalty different in kind from fines of the mere threat of 
+imprisonment,” App. 35, but concluded that Scott too was 
+not controlling with respect to suspended sentences. App. 
+36. 
+
+
+? Justice Johnstone wrote the majomty opimion vacatng Shelton s 
+suspended thirty-day sentence. with Jusmces Hooper, Houston, Cook. 
+Lyons, and England concurnng. Jusnce Maddox dissented. reasoning 
+that “because [Shelton] recerved only a suspended sentence and was 
+not incarcerated, fhe} [did] not believe that [Shelton], im fact. had a 
+mght to counsel” Justice Brown recused because she was a member of 
+the Court of Criminal Appeals when that court revewed Sheltons 
+case. 
+
+
+6 
+
+
+Finding that “[nJjeither Argersinger nor Scott 
+addressed the issue .. . whether a suspended or probated 
+sentence to imprisonment constitutes a ‘term of 
+imprisonment,’ ” the Alabama Supreme Court considered 
+conflicting federal and state decisions involving the issue. 
+App. 36-37. Relying on the reasoning employed in United 
+States v. Reilley, 948 F.2d 648 (10th Cir. 1991), the 
+Alabama Supreme Court concluded that a conditional 
+threat of imprisonment imposed in an uncounseled 
+misdemeanor case “could never be carried out” and thus, 
+was “invalid” as a matter of federal constitutional law. 
+Pointing to language in Scott, 440 U.S. at 374 (emphasis 
+added), that “no indigent criminal defendant [can! be 
+sentenced to a term of imprisonment” absent the 
+assistance of counsel, the Alabama Supreme Court ruled 
+Shelton “was entitled to representation by counsel 
+because he was sentenced to a term of imprisonment, 
+albeit suspended.” App. 37. 
+
+
+Accordingly, the Alabama Supreme Court held that 
+the Court of Criminal Appeals had “improperly overruled” 
+
+
+earlier decisions of that same court “which hold that a 
+
+
+conditionally suspended or probated sentence of 
+incarceration cannot be imposed on an indigent defendant 
+who has been denied his right to appointed counsel.” 
+App. 38. Ruling “that a defendant who receives a 
+suspended or probated sentence to imprisonment has a 
+constitutional right to counsel,” and discovering no 
+evidence in the record that Shelton “ ‘was offered 
+counsel[,]’ ” the court “found that Shelton did not 
+intelligently and understandingly waive that right and 
+that he suffered a deprivation of that right .. . [and] 
+reverse[d] that aspect of his sentence imposing 30 days of 
+suspended jail time.” App. 40. By reversing Shelton’s 
+suspended sentence, the court correspondingly vacated 
+the two-year probationary term. 
+
+
+7 
+
+
+The State filed an application for rehearing in the 
+Alabama Supreme Court asserting that the conditional 
+nature of Shelton’s probated sentence did not satisfy the 
+“actual imprisonment” standard of Scott v. Illinois, 440 
+U.S. 367 (1979), and thus that Shelton had no right to 
+State-appointed counsel. The Alabama Supreme Court 
+denied the State’s application on October 27, 2000. App. 
+42.3 
+
+
+3 The Alabama Supreme Court slightly modified its original 
+opinion on rebearing by .ocluding additional commentary in its second 
+footnote. 
+
+
+8 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+Although the Sixth Amendment guarantees “the 
+assistance of counsel .. . [ijn all criminal prosecutions,” 
+that constitutional protection extends the State's 
+obligation to provide counsel only in those misdemeanor 
+cases involving actual incarceration. This Court 
+established that standard in Argersinger v. Hamlin, 407 
+U.S. 25, 33, 38 (1972), by requiring appointed counsel 
+only where prosecution “actually fled] to imprisonment” 
+or “imprisonment actually occur[red].” This Court has 
+twice refined that principle. First, this Court 
+distinguished between “actual imprisonment” — which 
+invokes the right to appointed counsel — and “fines or the 
+mere threat of imprisonment” in Scott v. Illinois, 440 U.S. 
+367, 373 (1979). Then, in Nichols v. United States, 511 
+U.S. 738, 746 (1994), this Court declared that appointed 
+counsel is needed only where a conviction “result[s] in 
+imprisonment.” Shelton, who received a probationary 
+sentence, remained at liberty, subject to a possibility of 
+imprisonment only upon noncompliance with the terms of 
+his release. Because Shelton faced only the “threat” of 
+incarceration, he had no right to appointed counsel during 
+the trial of his misdemeanor case. 
+
+
+Notwithstanding the distinction drawn between 
+“actual imprisonment” and the “mere threat” of 
+incarceration in Argersinger, Scott, and Nichols, the 
+Alabama Supreme Court concluded that imposition of a 
+suspended or probationary sentence in a misdemeanor 
+case triggers the right to counsel. This interpretation 
+contravenes the construction given the Sixth Amendment 
+by this Court in Scott and the majority of federal appeals 
+and state supreme courts that have addressed the issue. 
+Accordingly, this Court should reverse and reinstate 
+Shelton’s probationary sentence. 
+
+
+9 
+
+
+ARGUMENT 
+
+
+SHELTON’S RECEIPT OF A SUSPENDED 
+SENTENCE IN HIS MISDEMEANOR CASE WAS A 
+“MERE THREAT OF IMPRISONMENT” UNDER 
+SCOTT V. ILLINOIS AND DID NOT INVOKE HIS 
+SIXTH AMENDMENT RIGHT TO APPOINTED 
+COUNSEL. 
+
+
+Under the Sixth Amendment, the right to state- 
+appointed counsel extends only to those cases involving 
+actual incarceration. That conclusion is the product of 
+three decisions. Initially, in Argersinger v. Hamlin, 407 
+U.S. 25, 33, 38 (1972), this Court found that counsel was 
+required only where “imprisonment actually occur[red].” 
+This Court refined that principle in Scott v. Illinois, 440 
+U.S. 367, 373 (1979), by differentiating between “actual 
+imprisonment” and “fines or the mere threat of 
+imprisonment.” Finally, this Court affirmed the 
+distinction drawn in Scott by recognizing in Nichols v. 
+United States, 511 U.S. 738, 746 (1994), that only 
+“criminal proceedings that result{]) in imprisonment” 
+invoke the right to counsel. Shelton remained at liberty 
+under his probationary sentence, subject to a possibility of 
+imprisonment only upon violation of the terms of his 
+release. Therefore, because Shelton faced only the 
+“threat” of incarceration, but was not actually imprisoned, 
+he had no right to counsel during the trial of his 
+misdemeanor case. 
+
+
+A. This Court Has Interpreted the Sixth 
+Amendment to Extend Misdemeanor 
+Defendants the Right to Appointed Counsel 
+Only When They Are Actually Imprisoned. 
+
+
+The Sixth Amendment guarantees that “[ijJn all 
+criminal prosecutions, the accused shall enjoy the right 
+
+
+10 
+
+
+... to have the assistance of counsel for his defense.” U.S. 
+Const.. amend. VI. When “originally drafted,” this 
+provision accorded only a right to retained counsel in 
+federal criminal proceedings. Powell v. Alabama, 287 
+U.S. 45, 68 (1932) (“Historically [a hearing] . has 
+always included the right to the aid of counsel when 
+desired and provided 5y the party asserting the right.”); 
+Scott, 440 U.S. at 370 (the Sixth Amendment 
+“contemplated [only] . . . the right of an accused in a 
+criminal prosecution in a federal court to employ a lawyer 
+to assist in his defense”). Despite the limited original 
+purpose of the Sixth Amendment, this Court extended the 
+right to include appointed counsel for indigent felony 
+defendants. Powell, 287 U.S. at 71 (defendants charged 
+in 1931 with capital crime who “stood in deadly peril of 
+their lives” and were “unable to employ counsel” entitled 
+to protection under Sixth Amendment); Johnson v. Zerbst, 
+304 U.S. 458, 463 (1938) (right to appointed counsel for 
+federal felony defendants facing loss of “life or liberty”); 
+Gideon v. Wainwright, 372 U.S. 335, 340—45 (1963) (Sixth 
+Amendment right to appointed counsel extended through 
+Fourteenth Amendment to state felony prosecution where 
+defendant faced five years in state prison). 
+
+
+In the application of the Sixth Amendment to 
+misdemeanors, this Court first focused on an individual's 
+“deprivation of liberty” absent the advice and guidance of 
+counsel in Argersinger, 407 U.S. at 32-34. Argersinger, 
+charged in Florida with carrying a concealed weapon, 
+faced a punishment of imprisonment up to six months, a 
+$1,000 fine, or both. Jd. at 26. Following a bench trial, 
+Argersinger was sentenced to serve 90 days in jail. Jd. 
+Argersinger contested his uncounseled conviction im a 
+state habeas corpus petition, alleging that he was 
+deprived of his right to counsel. Jd. The Florida Supreme 
+Court denied Argersinger relief, concluding that the right 
+to appointed counsel extended only to trials involving 
+
+
+11 
+
+
+“non-petty offenses punishable by more than six months 
+imprisonment.” Jd. After granting certiorari, this Court 
+rejected the Florida “six-month” standard and ruled that, 
+because Argersinger “was in fact sentenced to jail,” he 
+was entitled to the assistance of appointed counsel. Jd. at 
+37. 
+
+
+This Court, however, rejected the broader arguments 
+of Argersinger and the Legal Aid Society of New York, as 
+amicus curiae, that appointment of counsel was required 
+whenever “imprisonment was an authorized penalty.” 
+Scott, 440 U.S. at 373 n.4. Drawing a bright line, this 
+Court established that the right to appointed counsel 
+applies only where prosecution “actually fled] to 
+imprisonment” or “imprisonment actually occur[red].” 
+Argersinger, 407 U.S. at 33, 38. 
+
+
+Under the rule we announce tocay, every judge 
+will know when the trial of a misdemeanor starts 
+that no imprisonment may be impoved, even 
+though local law permits it, unless the accused is 
+represented by counsel. He will have a measure of 
+the seriousness and gravity of the offense and 
+therefore know when to name a lawyer to 
+represent the accused before the trial starts. 
+
+
+The run of misdemeanors will not be affected by 
+today’s ruling. But in those that end up in the 
+actual deprivation of a person’s liberty, the accused 
+will receive the benefit of ‘the guiding hand of 
+counsel’ so necessary when one’s liberty is in 
+
+
+12 
+
+
+cases where imprisonment was an “authorized” penalty 
+for a misdemeanor crime. Scott, 440 U.S. at 372. Scott 
+faced a $500 fine, one year in jail, or both, for his Illinois 
+shoplifting crime, but ultimately received only a fine upon 
+conviction. Jd. at 368. Appealing his uncounseled 
+conviction to the Illinois Supreme Court, Scott contended 
+that this Court’s decisions, “culminating in Argersinger v. 
+Hamlin{,} . . . require{d] state provision of counsel 
+whenever imprisonment [was] an authorized penalty.” 
+Id. The state supreme court rejected Scott's argument 
+and refused to extend Argersinger to cases where 
+imprisonment was merely an authorized statutory 
+punishment. This Court agreed and held that the Sixth 
+and Fourteenth Amendments “require[d] only that no 
+indigent criminal defendant be sentenced to a term of 
+imprisonment unless . afforded . the right to 
+assistance of appointed counsel| J” Id. at 374. This Court 
+differentiated between cases resulting in “actual 
+imprisonment” — which required Sixth Amendment 
+protection — from those involving only “fines or the mere 
+threat of imprisonment.” 
+Argersinger ad indeed delmit the constitutional 
+
+
+penalty different in kind from fines or the mere 
+
+threat of imprisonment — is eminently sound and 
+
+warrants adoption of actual imprisonment as the 
+line defining the constitutional right to 
+appointment of counsel. 
+
+Scott, 440 U.S. at 373. 
+
+Fifteen years later, this Court reaffirmed Scott in 
+Nichols by applying the “actual imprisonment” standard 
+to permit use of an uncounselcd misdemeanor conviction 
+to enhance punishment in a later case. Nichols, 511 U.S. 
+
+
+13 
+
+
+at 746-47. In 1983, Nichols was convicted in Georgia for 
+
+
+misdemeanor driving under the influence; although he 
+faced a maximum punishment of a one-year 
+imprisonment and a $1,000 fine, the state court imposed 
+only a $250 fine. Id. at 740 & n.1. Seven years later, 
+when Nichols pleaded guilty to possession of cocaine with 
+intent to distribute, the United States District Court for 
+the Eastern District of Tennessee relied on the 1983 crime 
+to add a criminal history point to Nichols’s total 
+sentencing score under the United States Sentencing 
+Commission's Guidelines. Jd. at 740. Nichols objected to 
+the use of the misdemeanor conviction for enhancement 
+on the ground that, in violation of the Sixth Amendment, 
+he was not represented by counsel. Both the district court 
+and Sixth Circuit held that Nichols's constitutional rights 
+were not violated by use of the prior conviction. Jd. at 
+741-42. 
+
+
+“[A]dher[ing] to Scott v. Illinois{,]” this Court held that 
+“an uncounseled misdemeanor conviction, valid under 
+Scott because no prison term was imposed, [was] alse 
+valid when used to enhance punishment at a subsequent 
+conviction.” Id. at 748-49. Reviewing the difference 
+
+
+14 
+
+
+Consistent with Scott and Nichols, this Court, in 
+decisions involving the right to counsel for termination of 
+parentai rights, has reiterated that the loss of physical 
+liberty triggers Sixth Amendment protections. Lassiter v. 
+Department of Social Services of Durham Co., 452 U.S. 18, 
+25-26 (1981) (“the defendant's interest in personal 
+freedom ... triggers the right to appointed counsel”); 
+M.L.B. v. S.L.J., 519 U.S. 102, 117 (1996) (“In criminal 
+prosecutions that do not lead to the defendant's 
+incarceration ... our precedent recognizes no right to 
+appointed counsel.”). 
+
+
+The Alabama Supreme Court's ruling erroneously 
+expanded this Court's application of the Sixth 
+Amendment in Argersinger, Scott, and Nichols. (Cf., 
+Arkanscs v. Sullivan, 121 S. Ct. 1876, 1878 (2001) (‘while 
+‘a state is free as a matter of its own law to impose greater 
+restrictions on police activity than those this Court holds 
+to be necessary upon federal constitutional standards,’ ii 
+‘may not impose such greater restrictions as a matter of 
+federal constitutional law when this Court specifically 
+refrains from imposing them”). By focusing on language 
+in Scott that “no indigent criminal defendant [can] be 
+sentenced to a term of imprisonment” absent assistance of 
+counsel, 440 U.S. at 374, the Alabama Supreme Court 
+overlooked the demarcation of “actual imprisonment” — 
+judged at the time of final disposition — as the 
+benchmark triggering the right to counsel in Argersinger, 
+Scott and Nichols. In including only those convictions 
+where “imprisonment actually occur[red]” in Argersinger, 
+407 U.S. at 38, and adopting an “actual imprisonment” 
+standard over a “mere threat” of incarceration inquiry in 
+Scott, 440 U.S. at 373, this Court limited Sixth 
+Amendment protection to situations where an indigent 
+misdemeanor defendant suffered a physical loss of liberty. 
+Refining Scott in Nichols, this Court emphasized the right 
+to counsel only extended to “criminal proceedings that 
+
+
+15 
+
+
+resulted in imprisonment[.]” 511 U.S. at 746 (emphasis 
+added). When considered collectively, and in the context 
+of this Court's expressed aversion to enlargement of the 
+Sixth Amendment in Scott, 440 U.S. at 372, these cases 
+mandate appointed counsel only when the indigent 
+misdemeanor defendant is imprisoned for his crime. 
+
+
+The Etowah County Circuit Court exercised its 
+discretionary authority to suspend Shelton’s thirty-day 
+jail sentence and released him on probation.’ Shelton was 
+not “actualfly] imprisonfed]”; instead, he faced only the 
+“threat” of imprisonment, which did not werrant 
+appointment of counsel. Accordingly, under Argersinger, 
+Scott, ws Nichols, Shelton was not entitled to appointed 
+counse 
+
+
+B. The Majority of Federal Appeals and State 
+Supreme Courts Have Ruled That a 
+Suspended or Conditional Sentence Does Not 
+Trigger a Misdemeanor Defendant's Right to 
+Appointed Counsel Under the Sixth 
+Amendment. 
+
+
+a misdemeanor case. Cottle v. Wainwright, 477 F.2d 269, 
+275 (5th Cir. 1973), vacated on different grounds, 414 U.S. 
+895 (1973). In Cottle, the Fifth Circuit affirmed the 
+
+
+16 
+
+
+Tiorida Parole Commission’s use of an uncounseled 
+misdemeanor conviction that had resulted in a twenty- 
+day suspended sentence to revoke parole following 
+commis*ion of a second parole violation. Building on the 
+statements in Argersinger that appointed counsel was 
+only required when a misdemeanor conviction “end[ed] up 
+in the actual deprivation of a person’s liberty,” 407 U.S. at 
+40, the court upheld the validity of the uncounseled 
+conviction, ruling that a suspended sentence was not 
+tantamount to “actual imprisonment.” Cottle, 477 F.2d 
+at 275. 
+
+
+The Second, Fourth, Sixth, and Eleventh Circuits 
+agreed with Cottle’s rationale that probationary and 
+suspended sentences do not invoke the right to appointed 
+counsel. In United States v. Castro-Vega, 945 F.2d 496, 
+499-500 (2d Cir. 1991), cert. denied, 507 U.S. 908 (1993), 
+the Second Circuit held that, because “no Sixth 
+Amendment right to counsel!” attached upon receipt of a 
+probationary sentence, an uncounseled conviction could 
+be used to increase the defendant’s criminal history level. 
+Similarly, the Fourth Circuit, in United States v. Jackson, 
+605 F.2d 1819, 1320 (4th Cir. 1979), ruled that a 
+probationary sentence imposed for assault was not “actual 
+imprisonment” under Scott and did not create a 
+“constitutional right to court-appointed counsel.”’ 
+
+
+6 Cottle’s validity was called into question in Potts v. Estelle, 529 
+F.2d 450, 453-54 (65th Cir. 1976), where the court interpreted 
+Argersinger to preclude subsequent use of uncounseled misdemeanors. 
+After the release of Scott v. Illinois, however, the Fifth Circuit revived 
+Cottle by ruling that an uncounseled misdemeanor, absent imposition 
+of a jail sentence, was “valid for all purposes” — in that case, for 
+impeachment. Griffin v. Blackburn, 594 F.2d 1044, 1045-46 (5th Cir. 
+1979). 
+
+
+7 In dicta in a subsequent decision, the Fourth Circuit, while 
+“declin[ing) to decide if the right to counsel attaches when a suspended 
+jail sentence is imposed” noted that, because, upon violation, the 
+
+
+17 
+
+
+Following the same reasoning, the Sixth Circuit in United 
+States v. Milligan, No. 96-5330, 96-5439, 1999 WL 
+313881, at *3 (6th Cir. May 3, 1999) (unpublished 
+opinion), found that a suspended sentence imposed for an 
+uncounseled misdemeanor weapons possession charge 
+was not a “term of imprisonment” under Scott and was 
+properly used by a federal district court to assess one 
+criminal history point in calculating the defendant's 
+criminal history category for a subsequent drug 
+conviction. The Eleventh Circuit, in following Scott and 
+adopting Fifth Circuit precedent,* joined the Second, 
+Fourth, Fifth, and Sixth Circuits in validating 
+uncounseled misdemeanors that result in a suspended or 
+probationary sentence. United States v. Peagler, 847 F.2d 
+756, 758 (1lth Cir. 1988) (uncounseled misdemeanor 
+convictions may be used for enhancement “where 
+defendant was not imprisoned”). 
+
+
+Relying on the Scott differentiation between “actual 
+imprisonment” and the “mere threat” of incarceration, 
+numerous state supreme courts have also reasoned that a 
+suspended or probated sentence does not create a right to 
+assistance of counsel. Parks v. McClung, 524 S.E.2d 718, 
+720 (Ga. 1999) (in discussing the right to revoke 
+probation, the Georgia state supreme court adopted 
+appellate court precedent holding that “[wJhere a 
+
+
+probation could not be revoked and an active sentence imposed, “the 
+magistrates in this circuit should not impose even a suspended jail 
+sentence in any case in which an unrepresented defendant has 
+declined to waive his right to counsel.” United States v. Sultani, 704 
+F.2d 132, 133-34 (4th Cir. 1983). 
+
+
+8 In Bonner v. City of Prichard, 661 F.2¢ 1206, 1207 (11th Cir. 
+1981), the United States Court of Appeals for the Eleventh Circuit held 
+that “the decisions of the United States Court of Appeals for the Fifth 
+Circuit ... as that court existed on September 30, 1981 ... shall be 
+binding precedent in the Eleventh Circuit.” 
+
+
+18 
+
+
+defendant is given a conditional, probated sentence, he is 
+not entitled to court-appointed counsel”); People uv. 
+Reichenbach, 587 N.W.2d 1, 16 (Mich. 1998) (“The plain 
+meaning of the words ‘actual imprisonment’ as well as the 
+words ‘mere threat of imprisonment’ dictate the 
+conclusion that defendant’s conditional sentence did not 
+constitute ‘actual imprisonment. ”); Griswold ov. 
+Commonwealth, 472 S.E.2d 789, 791 (Va. 1996) (a thirty- 
+day suspended sentence did not equate to the “actual 
+imprisonment” established in Scott and Nichols as 
+requiring appointment of counsel); State v. Hansen, 903 
+P.2d 194, 197 (Mont. 1995) (“the imprisonment must be 
+actual; a threat of imprisonment (such as a suspended 
+sentence) is not enough to create a constitutional right to 
+counsel”) (emphasis in original); Commonwealth ov. 
+Thomas, 507 A.2d 57, 59 n.7 (Pa. 1986) (co-defendant’s 
+probationary sentence, notwithstanding the “threat” of 
+subsequent revocation, did not entitle her to assistance of 
+counsel). Many state appellate courts agree with this 
+interpretation. Barnes v. State, No. A01A0624, 2001 WL 
+540764, at *1 (Ga. Ct. App. May 23, 2001) (“a ‘12-month 
+probated sentence’. . . and a ‘12-month suspended period 
+of confinement’... were not sentences of actual 
+imprisonment triggering the right to counsel”); People v. 
+MacArthur, 731 N.E.2d 883, 886-90 (Ill. App. Ct. 2000) 
+(defendant not entitled to counsel when one-year 
+conditional discharge imposed because “actual 
+imprisonment is a punishment so different in kind from 
+lesser penalties that the constitutional right to counsel 
+protects only against uncounseled convictions that 
+actually result in imprisonment”); West Valley City v. 
+Sellers, No. 990472-CA, 1999 WL 33244766, at *1 (Utah 
+Ct. App. Sept. 2, 1999) (suspended sentence imposed for 
+speeding, a class C misdemeanor, did not “deprive[] 
+[defendant] of his liberty” such that he was entitled to 
+appointed counsel); Holmes v. State, 740 So. 2d 952, 961 
+(Miss. Ct. App. 1999) (forty-eight-hour suspended 
+
+
+19 
+
+
+sentence did not result in incarceration and could be used, 
+under Nichols, to enhance punishment in a subsequent 
+case); State v. Rau, 465 S.E.2d 370, 387-88 (S.C. Ct. App. 
+1995) (thirty-day jail sentence, suspended upon payment 
+of a fine, where fine paid, did not create a constitutional 
+right to appointed counsel); Hlad v. State, 565 So. 2d 762, 
+766-67 & n.1 (Fla. Dist. Ct. App. 1990) (interpreting 
+“imprisonment” to entail “confinement in a jail or state 
+penitentiary,” defendant’s five-year probationary term did 
+not create a right to appointed counsel under Scott and 
+could be used to enhance fourth DUI offense from 
+misdemeanor to felony), aff'd, 585 So. 2d 928 (Fla. 1991); 
+City of Akron v. Bilder, No. 14363, 1990 WL 67055, at *1 
+(Ohio Ct. App. May 16, 1990) (no attorney was required 
+on resentencing when the original jail term was 
+suspended) (unpublished opinion); Sate v. Sweeney, 464 
+A.2d 1150, 1151-52 (N.J. Supér. Ct. App. Div. 1983) 
+(imposition of one-year probationary term did not create a 
+right to counsel, thus - making an _ uncounseled 
+misdemeanor valid for enhancing the sentence of a second 
+DUI offense); Campa v. Fleming, 656 P.2d 619, 621 (Ariz. 
+Ct. App. 1982) (because revocation of a probationary term 
+is “speculative,” and prosecutor and city magistrate 
+agreed no jail time would be imposed, the defendant was 
+not entitled to counsel during trial). 
+
+
+“(I]t is the defendant's interest in personal freedom, 
+and not simply the special Sixth and Fourteenth 
+Amendments right to counsel in criminal cases, which 
+triggers the right to appointed counsel.” Lassiter, 452 
+U.S. at 25. That interest corresponds with the legal 
+implications inherent upon receipt of a conditional 
+sentence. Imprisonment itself involves physical 
+confinement, whereas, a probated or suspended sentence 
+permits emancipation in lieu of incarceration, subject to a 
+threat of imprisonment implemented only if the 
+misdemeanor defendant fails to fulfill the terms of 
+
+
+20 
+
+
+release. Black’s Law Dictionary 760, 1220, 1367, 1368 
+(7th ed. 1999) (defining “imprisonment,” “probation,” and 
+“conditional” and “suspended” sentences). “Were it the 
+case that probation or conditional sentences constitute 
+‘actual imprisonment’ because of the judicial threat of 
+imprisonment, nearly every misdemeanor sentence would 
+be within the scope of ‘actual imprisonment. ” 
+Reichenbach, 587 N.W.2d at 7. Language in Argersinger 
+cautions that “[t]he run of misdemeanors [would] not be 
+affected” under its “actual deprivation” standard. 407 
+U.S. at 40. This principle, combined with the dismissal of 
+a need for appointed counsel in Scott when faced with a 
+“mere threat of imprisonment,” and the recognition in 
+Nichols that counsel is needed only when a conviction 
+“result[s] in imprisonment,” confirms the Reichenbach 
+court’s conclusion and supports the majority of federal 
+appeals and state supreme courts that agree with this 
+reasoning. Scott, 440 U.S. at 373; Nichols, 511 U.S. at 
+746. 
+
+
+C. If the Scott “Actual Imprisonment” Standard 
+Was Interpreted to Require Appointment of 
+Counsel When Suspended or Conditional 
+Sentences Were Iinposed, it Would Divert 
+Scarce Judicial Resources. 
+
+
+The incremental benefit of providing counsel in 
+situations where only the “threat” of imprisonment exists 
+does not outweigh the strain that would be imposed on 
+scarce governmental and judicial resources. Argersinger, 
+407 U.S. at 49 (“[w]here the possibility of a jail sentence is 
+remote ... the costs of assistance of counsel may exceed 
+the benefits”) (Powell & Rehnquist, JJ., concurring). 
+States and courts would incur additional expenses in 
+compensating defense counsel and supplying additional 
+judicial resources, such as extra courtroom time and court 
+
+
+21 
+
+
+reporters. Moreover, such a rule would “favor defendants 
+classified as indigents over those not so classified, yet who 
+are in low-income groups where engaging counsel in a 
+minor petty-offense case would be a luxury the family 
+could not afford.” Id. at 50. 
+
+
+Concomitantly, trial courts’ abilities to adjudicate 
+“minor” offenses efficiently and equitably would be 
+thwarted by the escalating delay and congestion. Jd. at 
+59 (pressures on obtaining counsel and diverting other 
+resources would be “likely to result in the stretching out — 
+of the process with consequent increased costs to the 
+public and added delay and congestion in the courts”). 
+Inundated with inevitable “overlawyering” of minor cases, 
+the courts and the public would suffer the unnecessary 
+effects of a “stretching out of the process[.]” Jd. 
+
+
+Resources would be further exhausted in reviewing 
+innumerable cases where an uncounseled misdemeanor 
+conviction resulting in a suspended or conditional 
+sentence was used, under Nichols, to increase the penalty 
+for a subsequent crime. Diverting money and time to 
+resolve misdemeanor offenses and reexamine the use of 
+uncounseled convictions for enhancement purposes would 
+drain local and state courts, thereby depleting the limited 
+judicial resources available to adjudicate felony and 
+especially capital cases. Finally, successful challenges 
+would emasculate anti-recidivism statutes and their 
+underlying policies t. safeguard the public and deter 
+future crime. 
+
+
+The “actual imprisonment” language employed in 
+Scott and Nichols “is clear. Nowhere does [this] Court 
+limit its holding to those misdemeanor convictions 
+resulting in fines. Logically speaking, the ‘mere threat of 
+imprisonment’ can only be read to include suspended 
+sentences.” United States v. Smith, No. 94-5627, 1995 
+WL 314892, at *2 (6th Cir. May 23, 1995) (unpublished 
+
+
+22 
+
+
+opinion). A suspended sentence, under which Shelton did 
+not face a loss of liberty, fell within the “threat” category 
+identified in Scott. In such circumstances, Shelton’s 
+“interest in personal liberty [was] diminishjed], 
+[therefore,] so [was] his right to appointed counsel.” 
+Lassiter, 452 U.S. at 26. The Alabama Supreme Court 
+ignored these principles and erroneously concluded that 
+Shelton’s prospect of imprisonment invoked the right to 
+counsel. Because that decision conflicts with this Court's 
+decisions in Argersinger, Scott, and Nichols, and with the 
+decisions of a majority of federal appeals and state 
+supreme courts that have considered this issue, this 
+Court should apply the “actual imprisonment” standard 
+and rule that Shelton’s suspended jail term did not invoke 
+the Sixth Amendment right to counsel. 
+
+
+23 
+
+
+CONCLUSION 
+
+
+The judgment of the Supreme Court of Alabama 
+
+
+should be reversed. 
+
+
+Respectfully submitted, 
+
+
+BILL PRYOR 
+Attorney General of Alabama 
+
+
+SANDRA JEAN STEWART 
+
+STEPHANIE N. MORMAN* 
+Assistant Attorneys General 
+Counsel of Record* 
+
+
+OFFICE OF THE ATTORNEY GENERAL 
+STATE OF ALABAMA 
+
+11 South Union Street 
+Montgomery, AL 36130-0152 
+
+(334) 242-7300 
+
+

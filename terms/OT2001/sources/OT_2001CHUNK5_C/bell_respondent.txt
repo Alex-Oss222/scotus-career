@@ -1,0 +1,2484 @@
+Source: https://archive.org/details/micro_IA40385014_0501
+
+yak 4 S02 
+
+
+. 
+
+
+No. 01-400 | 
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+Ricky BELL, WARDEN 
+Petitioner, 
+
+
+V. 
+
+
+GARY BRADFORD CONE, 
+
+
+Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+UNITED STATES COURT OF APPEALS FOR 
+THE SIXTH CIRCUIT 
+
+
+BRIEF OF RESPONDENT 
+
+
+RoBERT L. HUTTON, ESQUIRE 
+Counsel of Record 
+
+
+GLANKLER Brown, PLLC 
+1700 ONE COMMERCE SQUARE 
+MEMPHIS, TENNESSEE 38103 
+(901) 525-1322 
+
+
+ATTORNEY FOR GARY BRADFORD CONE 
+
+
+BEST AVAILABLE COPY Sama 
+
+
+———————— 
+
+
+i. 
+QUESTIONS PRESENTED FOR REVIEW 
+
+
+1. Did the United States Court of Appeals for the Sixth 
+Circuit, after holding that the rule of United States v. 
+Cronic, 466 U.S. 648 (1984), controls Gary Cone’s 
+case, correctly determine that the state courts’ choice 
+of the wrong Sixth Amendment Rule is contrary to 
+clearly established federal law under 28 U.S.C. 
+§2254(d)(1)? 
+
+
+2. In analyzing Gary Cone’s Sixth Amendment claim, 
+did the United States Court of Appeals for the Sixth 
+Circuit correctly apply United States v. Cronic, 466 
+U.S. 648 (1984), and presume prejudice upon finding 
+counsel failed to subject Gary Cone’s sentence of 
+death to meaningful adversarial testing, by not pre- 
+senting mitigating evidence and waiving closing 
+argument in the penalty phase of a capital trial? 
+
+
+li. 
+
+
+TABLE OF CONTENTS 
+Questions Presented for Review...............005 i 
+Table of Contents eee eee eee eee eer eeee eens ii-iii 
+We CED oc ccs cteudseehesenneul iv-vi 
+Pen 1 
+a Pe ee 1 
+State Post Conviction Proceedings .............. 4 
+Habeas Corpus Proceedings ..............0000: 9 
+Summary of the Argument ..................5- 12 
+PPT CTT eT er ee 16 
+
+
+I. THE A.E.D.P.A. DOES NOT BAR HABEAS 
+RELIEF IN THIS CASE, SINCE THE STATE 
+COURTS’ CHOICE OF THE WRONG SIXTH 
+AMENDMENT RULE IS CONTRARY TO 
+CLEARLY ESTABLISHED FEDERAL LAW .... 16 
+
+
+Il. THE UNITED STATES COURT OF 
+APPEALS CORRECTLY PRESUMED 
+PREJUDICE UNDER US. v. CRONIC IN 
+ANALYZING GARY CONE’S SIXTH 
+sg EOP 18 
+
+
+A. The Sixth Amendment guarantees a criminal 
+defendant the right to the effective assistance 
+
+
+B. This Court has established different rules for 
+analyzing Sixth Amendment claims, depending 
+upon whether counsel is completely denied, 
+constructively denied, or counsel commits 
+specific errors in representation ........... 19 
+
+
+C. When a lawyer abandons his duty to present 
+a case for life in the penalty phase of a 
+capital trial, the rule of Cronic applies ...... 25 
+
+
+— 
+
+
+ili. 
+
+
+TABLE OF CONTENTS 
+1. In a capital sentencing proceeding, the lawyer 
+must make a case for life... ........2500006: 26 
+2. Dice failed to present a case for Gary 
+tt Mite ietweseeeteedsoececscccs 28 
+
+
+3. Dice’s post hoc justifications for his failure to 
+present a case for life are convoluted and 
+Tihs. Seeebebeeeeeeeooceocececs 32 
+
+
+4. Petitioner’s arguments that Dice engaged in 
+advocacy during the penalty phase have no 
+merit in light of Dice’s failure to make a case 
+for life before the jury ........665 cc cccweees 35 
+5. This Court’s precedents do not justify applying 
+Strickland rather than Cronic in a case where a 
+lawyer utteriy failed to make a case for life in 
+the penalty phase of a capital case ............ 37 
+
+
+Il. IF THE COURT CONCLUDES THAT THE 
+SIXTH CIRCUIT ERRED IN GRANTING 
+HABEAS RELIEF UNDER CRONIC, IT 
+SHOULD REMAND THIS CASE TO THE 
+COURT OF APPEALS FOR CONSIDERATION 
+OF GARY CONE’S SIXTH AMENDMENT 
+CLAIMS UNDER STRICKLAND ............ 44 
+
+
+IV. 
+TABLE OF AUTHORITIES 
+
+Cases 
+Anders v. California, 386 U.S. 738 (1967)......... 21 
+Avery v. Alabama, 308 U.S. 444 (1940)........... 19 
+Burdine v. Johnson, 262 F.3d 336 (5*® Cir. 2001) . . . 23 
+Burger v. Kemp, 483 U.S. 776 (1987)............. 39 
+Cone v. State, 927 S.W. 2d 579 
+
+(Tenn. Crim. App. 1995) .................. 9, 47 
+Cox v. State, 880 S.W. 2d 713 
+
+(Tenn Crim. App. 1994)................ee00e 28 
+Cozzolino v. State, 584 S.W. 2d 765 
+
+Sc he dided oecndunenwan eek 6, 34, 35 
+Darden v. Wainwright, 477 U.S. 168 (1986) ....... 39 
+Eddings v. Oklahoma, 455 U.S. 104 (1982)........ 26 
+Ford v. Georgia, 498 U.S. 411 (1991)............. 47 
+Gideon v. Wainwright, 372 U.S. 335 (1963)........ 18 
+Gilbert v. Homar, 520 U.S. 924 (1997)............ 44 
+
+
+Groseclose v. Bell, 130 F.3d 1161 (6* Cir. 1997) . 27, 28 
+Herring v. New York, 422 U.S. 853 (1975) . . . 21, 30, 31 
+Lee v. Kemna, 70 USLW 4104 (US Jan. 22, 2002)... . 47 
+
+
+Lockhart v. Fretwell, 
+506 U.S. 364 (1993) ............ 10,15,17, 46 
+Lockett v. Ohio, 438 U.S. 586 (1978) ............. 26 
+McMann v. Richardson, 397 U.S. 759 (1970) ...... 19 
+NAA.C.P. v. Alabama ex rel Patterson, 
+gE SR RE 47 
+Owens v. State, 908 S.W. 2d 923 (Tenn. 1995). ..... 48 
+
+
+Penry v. Lynaugh, 492 U.S. 302 (1989) ........ 27, 33 
+
+
+Vv. 
+
+
+TABLE OF AUTHORITIES 
+
+
+Powell v. Alabama, 287 U.S. 45 (1932) . . 19, 23, 24, 25 
+Rickman v. Bell, 131 F.3d 1150 
+
+
+Te ee eu diea 22, 27, 28 
+Roe v. Flores-Ortega, 
+
+528 U.S. 470 (2000) ............ 20, 21, 41, 42, 43 
+Selvage v. Collins, 494 U.S. 108 (1990)........... 49 
+Skipper v. South Carolina, 476 U.S. 1 (1986) ...... 26 
+Smith v. Robbins, 528 U.S. 259 (2000) ........ 40, 41 
+South Carolina v. Catawba Indian Tribe, Inc. 
+
+ee et eoeeeneeeeeees 49 
+State v. Bibbs, 806 S.W. 2d 786 
+
+(Tenn. Crim. App. 1991) ..........2-2eeeeeee 28 
+State v. Cone, 665 S.W. 2d 87 (Tenn. 1984)......... 3 
+State v. Thompson, 2001 W.L. 912715 
+
+(Tenn. Crim. App. 2001) ..........-25eeeeees 28 
+
+
+Strickland v. Washington, 466 U.S. 668 (1984) . passim 
+Teague v. State, 772 S.W. 2d 915 
+
+
+United States v. Cronic, 466 U.S. 648 (1984). . . passim 
+
+
+Williams (Terry) v. Taylor, 
+529 U.S. 362 (2000). 11, 15, 16, 17, 16, 39, 40, 45, 46 
+
+
+Williams (Michael) v. Taylor, 529 U.S. 420 (2000). . . 48 
+Wright v. West, 505 U.S. 277 (1992). ...........-- 44 
+Yist v. Nunnemaker, 501 U.S. 797 (1991) ......... 46 
+
+
+TABLE OF AUTHORITIES 
+
+United States Constitution 
+
+es IE, Dlcecdiccodceanseceseoes passim 
+United States Code: 
+
+Es on. cee euneseeues 10, 16, 18, 44 
+i i in bce due es 11, 15, 16 
+Tennessee Code Annotated: 
+
+Tenn. Code Ann. §39-2404 (i) (2) (1977). ........... 1 
+Tenn. Code Ann. §39-2404 (i) (3) (1977).......... 1,3 
+Tenn. Code Ann. §39-2404 (i) (5) (1977). ........... 1 
+Tenn. Code Ann. §29-2404 (i) (6) (1977). ........... 1 
+
+
+Tenn. Code Ann. §40-30-112(a) (1990)\repealed) . . . . 47 
+Tenn. Code Ann. §40-30-112(b) (1990\(repealed) .. . . 48 
+
+
+Supreme Court Rules 
+Supreme Court Rule 14.l(a) ................... 44 
+
+
+Other Sources 
+
+Gary Goodpaster, The Trial for Life: Effective 
+Assistance of Counsel in Death Penalty Cases, 
+
+58 N.Y.U. L. Rev. 299 (1983) ........... cece eens 27 
+Dorean Marguerite Koenig, Mentally Ill Defendants: 
+Systemic Bias in Capital Cases, 28 Human Rights 
+PPG ED 66ceedabecacebasheabicedess 33 
+Tennessee Association of Criminal Defense Lawyers, 
+Tools for the Ultimate Trial: The TACDL Death 
+
+
+Penalty Defense Manual (1985)................. 27 
+Webster’s New Universal Unabridged Dictionary ... . 3 
+(Random House, 2d ed. 1996) 
+
+
+1. 
+STATEMENT OF THE CASE 
+
+
+Gary Bradford Cone was indicted for two counts of 
+murder, three counts of assault with intent to commit 
+murder, and one count of armed robbery after a crime 
+spree culminating in the brutal beating death of an eld- 
+erly couple. At trial, Mr. Cone was represented by attor- 
+ney John Dice, who pleaded Mr. Cone not guilty by rea- 
+son of insanity. The defense focused on Mr. Cone’s 
+Vietnam Veterans Syndrome and amphetamine psy- 
+chosis as the cause for his legal insanity. At the close of 
+the guilt phase of the trial, Mr. Cone was convicted on 
+all counts. 
+
+A separate sentencing hearing followed, after which 
+Mr. Cone was sentenced to death. The dispute before 
+this Court concerns Mr. Cone’s legal representation dur- 
+ing that sentencing proceeding. 
+
+
+SENTENVUING PROCEEDING 
+
+
+After the jury returned with a verdict of guilty as 
+charged on all indictments, the prosecutor informed the 
+jury in his opening statement that he intended to prove 
+four aggravating circumstances in support of a death 
+verdict. See Tenn. Code Ann. §§39-2404(i)(2),(3),(5),(6) 
+(1977). (J.A. 22-23, 54-55)! 
+
+Mr. Dice then gave a brief opening statement in the 
+penalty phase where he recalled to the jury the testimo- 
+ny in the guilt/innocence phase of Drs. Jaremko and 
+Lipman about Vietnam Veterans Syndrome and 
+
+
+1 Citations to the joint appendix are referenced by the abbreviation 
+“J.A.” followed by the pertinent page number. Citations to the 
+appendix to the petition for writ of certiorari are referenced by the 
+abbreviation “Pet. App.” followed by the page cited. 
+
+
+2. 
+
+
+amphetamine psychosis. (J.A. 23-27)? Dice did not 
+explain to the jury in his opening what is mitigating evi- 
+dence. He failed to inform the jury why the mental 
+health evidence they had just found insufficient to sup- 
+port a defense of amphetamine psychosis was nonethe- 
+less sufficient to count as mitigation and justify a life 
+sentence. (J.A. 23-27) Dice did not insure that the jury 
+understood its sentencing decision was not a mere 
+quantitative counting of aggravating and mitigating cir- 
+cumstances, but a reasoned moral decision. (J.A. 23-27) 
+
+The state then called five penalty phase witnesses in 
+an attempt to prove the aggravating circumstances. The 
+state’s first witness, the criminal court clerk, introduced 
+records of Mr. Cone’s previous Oklahoma robbery con- 
+victions. On cross examination of the clerk, Dice elicited 
+that the conviction records introduced contain a classi- 
+fication summary which refers to Gary Cone receiving a 
+bronze star. (J.A. 31) The Bronze Star is a U.S. Military 
+
+
+2 Dr. Matthew Jaremko, a clinical psychologist on staff with the 
+Memphis Veteran’s Center, testified that Gary Cone suffers 
+from a substance abuse disorder superimposed upon post trau- 
+matic stress disorder stemming from his involvement in the 
+Vietnam War (J.A. 12). Gary Cone never used drugs prior to his 
+service in Vietnam, but began using drugs as a way to self med- 
+icate against the trauma of combat. (J.A. 13-14) Dr. Jaremko 
+testified that Mr. Cone’s condition constituted a mental disease 
+or defect that would render him incapable of conforming his 
+conduct to the requirements of the law. (J.A. 14) 
+
+Dr. Jonathan Lipman, a neuropharmacologist, testified that 
+Gary Cone was a poly drug user with amphetamines (stimulants) 
+and cocaine being his drugs of choice. (J.A. 17) Mr. Cone’s drug 
+history began in Vietnam where on one occasion he used amphet- 
+amines for 53 straight days while on guard duty. (J.A. 18) Mr. 
+Cone’s drug use over time substantially increased, creating a con- 
+dition known as amphetamine psychosis which produces a psy- 
+chotic effect and prevented Mr. Cone from conforming his conduct 
+to the requirements of the law. (J.A. 19) 
+
+
+3. 
+
+
+decoration awarded for heroism or achievement in mili- 
+tary operations other than those involving aerial flights, 
+but this was never explained to the jury. Dice did not 
+cross examine any of the other penalty phase witnesses 
+and called no mitigation witnesses. (J.A. 35, 38, 40, 50) 
+
+After the prosecutor delivered a closing argument 
+telling the jury that under the law Gary Cone should be 
+sentenced to death, John Dice waived closing argument. 
+(J.A. 52) Thus, Dice did not present any evidence or 
+argument in response to the prosecution’s penalty phase 
+case for death. The trial judge instructed the jury that 
+upon the finding of at least one statutory aggravating 
+circumstance, if “said circumstance or circumstances are 
+not outweighed by mitigating circumstances, the sen- 
+tence shall be death.” (J.A. 57) The jury then returned 
+a verdict of death, finding the four aggravating circum- 
+stances argued by the prosecution. (R4, Add. 1, Doc. 1, 
+Tr. Vol. 20, pp. 2151-2154)4 
+
+On appeal, the Tennessee Supreme Court affirmed the 
+conviction and death sentence. State v. Cone, 665 S.W. 
+2d 87 (Tenn. 1984). (Pet. App. 84) The Tennessee 
+Supreme Court held one of the aggravating circum- 
+stances found by the jury to be inapplicable®, but ruled 
+the error to be harmless. (Pet. App. 96) 
+
+
+3 Webster’s New Universal Unabridged Dictionary (Random House, 
+2d ed. 1996) p.266 
+
+
+4 The entire state court record of all proceedings in Mr. Cone’s case 
+was filed with the District Court, and assigned a single docket 
+entry number, R4. The record is subdivided into addenda, and doc- 
+uments, which are even further subdivided and paginated. 
+
+
+5 “The defendant knowingly created a great risk of death to two or 
+more persons, other than the victim murdered, during his act of 
+murder.” Tenn. Code Ann. §§39-2404(iX3) (1977). 
+
+
+4. 
+STATE POST CONVICTION PROCEEDINGS 
+
+
+A state post conviction hearing was conducted on April 
+28th and 29th, 1986 in the Criminal Court of Shelby 
+County, Tennessee. The issues raised on post conviction 
+included whether: 
+
+
+¢ Trial counsel was ineffective for failing to offer proof 
+of mitigating circumstances during the penalty phase 
+of the trial. 
+
+¢ Trial counsel was ineffective for failing to make a 
+closing argument during the penalty phase of the 
+trial 
+
+
+(Amended Post Conviction Petition {lla, R.4, Add. 2, 
+Doc. 1, p. 51) 
+
+
+Dice testified in the post conviction hearing that he 
+was retained to represent Mr. Cone. (R4, Add. 2, Doc. 1, 
+Tr. p. 91) Dice recalled that he put on some proof as to 
+Cone’s Vietnam background through Gary’s mother, 
+Valerie Cone. (J.A. 63-64)§ He acknowledged that his 
+ability to introduce proof about Gary Cone’s Vietnam 
+service through Valerie Cone during the guilt/innocence 
+phase of the trial was limited, due to the state’s objec- 
+tion that the proof was not relevant to the insanity 
+defense. (J.A. 63-64) Dice stated he knew the references 
+to the Bronze Star were in the Oklahoma prison records, 
+and he elicited the reference to the Bronze Star on cross 
+
+
+6 Valerie Cone testified in the guilt/innocence phase that Gary grad- 
+uated from high school and went into the army. (R4, Add. 1, Doc. 
+1, Tr. Vol. 15, pp. 1633-1634) After her son came back from the 
+Vietnam War he was different. Gary Cone suffered from night- 
+mares and did not sleep well. (J.A. 10) He hollered about body 
+bags and how terrible it was to handle dead bodies being brought 
+back from Vietnam. (J.A. 10) Prior to fighting in the Vietnam war 
+Gary had not been a drug user or alcoholic. (R4, Add. 1, Doc. 1, Tr. 
+Vol. 15, p. 1647) 
+
+
+de 
+
+
+examination of the clerk. (J.A. 64-65) Dice allegedly 
+tried to get Gary Cone to testify, but Cone purportedly 
+did not want to take the stand because Cone thought he 
+might lose his temper in front of the jury. (J.A. 66) Dice 
+also testified he was concerned about calling witnesses 
+in mitigation to testify to Gary Cone’s background, 
+since he erroneously believed such witnesses could be 
+used by the state in cross examination to develop other 
+prior bad acts: — 
+
+
+Q. Why would it have been stupid to put on a high 
+school principle [sic] in this case? 
+
+
+A. ...Picture this scenario. You’ve got them on the 
+stand; once you've put on this trial for life, as we 
+call it, you and I, and the burden is what now? It’s 
+only preponderance of the evidence. Comes now the 
+skilled prosecutor, Mr. Strother, over there, and 
+says, oh, he was a good student in high school; 
+right? And Vietnam affected his mind; right? What 
+about all the robberies he pulled? They have him in 
+
+prison in Oklahoma. I mean, he was in prison once. 
+Did you know about those things? And how about 
+this and that, you know and other things Mr. Cone 
+told me about. 
+
+So, in other words, many times I’ve seen peo- 
+ple on these stands who were brought down as 
+character witnesses and things like that, and I’ve 
+heard people like Mr. Strother, as he is skilled in 
+doing, get up and feeding that stuff and they hurt 
+you more than they help you. 
+
+
+(R. 4, Add. 2, Doc. 1, Tr. pp. 104-105; see also Tr. 
+pp. 137-138) 
+
+
+6. 
+
+
+Since 1979, Tennessee law has clearly held that pre- 
+senting mitigation evidence in the penalty phase of a 
+capital trial as to a defendant’s background does not 
+open the door to testimony about present criminal pro- 
+clivities. Cozzolino v. State, 584 S.W.2d 765, 768 (Tenn. 
+1979). Dice thus did not know the law concerning miti- 
+gation evidence since he thought mitigation testimony 
+about Gary Cone’s high school background, or how 
+Vietnam affected his mind would “open the door” to tes- 
+timony about unrelated later criminal acts. 
+
+In light of the hopelessness he felt concerning this 
+case, part of Dice’s strategy was to have the jury find an 
+improper aggravating circumstance that he knew was 
+not supported by the evidence, then have the case 
+remanded for a new sentencing hearing at a later date: 
+
+
+Now, so my tactics, and I told Mrs. Cone this 
+the first day I met her, that if ...[the prosecutor] 
+does not elect to offer life in this case, your boy is 
+going to the chair and there’s not going to be a 
+darn thing, except I didn’t use that word, I’m 
+going to be able to do to stop it except to maybe 
+screw up the prosecution, and in my viewpoint... 
+if I could get him to screw up the aggravated [sic] 
+circumstances in this case and set it back, the 
+trial, then I thought we would have a good chance 
+later on, because of the way capital cases are con- 
+ducted, and sure enough, Mr. Strother got them 
+going, got the jury going, and he convinced the 
+jury in argument, he and Mr. Patterson, that, 
+guess what, Mr. Cone endangered the life of two 
+or more other people other than the victims at the 
+time of the crime. 
+
+The case law in Tennessee up to that point had 
+consistently held that if a jury made an illegal 
+
+
+7. 
+
+
+finding of an aggravated [sic] circumstance, that 
+ended the death penalty phase. And once I saw 
+that, and this is the reason I waived my final 
+argument in this case, for two reasons; Mr. 
+Strother is also brilliant, as is Mr. Patterson, and 
+if I'd let Strother get back up there, he might 
+have figured out that, wait a moment, we've 
+screwed this case up and it stands to be reversed. 
+That strategy worked perfectly, ..., because the 
+Supreme Court found out that they had made an 
+illegal finding in their verdict, and unfortunately, 
+the Supreme Court said, well, we know that’s 
+been the law before, Mr. Dice, but three of four 
+ain’t bad and he gets the chair. 
+
+
+(R4, Add. 2, Doc. 1, Tr. pp. 107-109) 
+
+
+Dice thus waived closing argument to prevent Mr. 
+Strother from making a final rebuttal argument, and to 
+allow the prosecution free reign to argue an aggravating 
+circumstance not supported by the evidence. As a mat- 
+ter of “strategy” Dice anticipated his silence would allow 
+the jury erroneously to find an aggravating circum- 
+stance, so his client would be sentenced to death in 
+hopes of having the case remanded later for another 
+sentencing hearing.’ 
+
+John Dice committed suicide less than six months 
+after the hearing. (J.A. 88) Dice’s medical records 
+(obtained in federal habeas corpus proceedings) indicate 
+that at the time Dice testified in post conviction pro- 
+ceedings he suffered from “confused thinking, impaired 
+memory, inability to concentrate for more than a short 
+
+
+7 The Tennessee courts never announced a per se rule that the find- 
+ing by a jury of an improper aggravating circumstance automati- 
+cally mandates a new sentencing hearing. Dice’s testimony to this 
+effect is also erroneous. 
+
+
+period of time, paranoia, grandiosity, and inappropriate 
+behavior.” (J.A. 88-89)® As of February 7, 1986, two 
+months prior to the post conviction hearing, Dice was 
+deemed incompetent to continue practicing law by his 
+psychologist. (J.A. 88) 
+
+Gary Cone testified in post conviction that Dice never 
+discussed with him the strategy or proof that would be 
+presented in the penalty phase of the trial. (R4, Add. 2, 
+Doc. 1, Tr. p. 203) Gary Cone was not consulted with 
+respect to Dice’s decision not to present any mitigating 
+evidence in the penalty phase, or with respect to Dice’s 
+decision to waive final argument. (R4, Add. 2, Doc. 1, Tr. 
+pp. 204-205) 
+
+The post conviction court entered its findings of fact 
+on September 19, 1986. (J.A. 78) The post conviction 
+court found that Dice’s strategy “was to get in as much 
+mitigation during the guilt/innocence phase as he 
+could.” (J.A. 84) The court then found that Dice’s deci- 
+sion to forego any evidence in mitigation did not fall 
+below the objective standard of reasonableness set by 
+the Sixth Amendment’s guarantee of the effective assis- 
+tance of counsel. (J.A. 84) With respect to the waiver of 
+closing argument, the court found it was Dice’s strategy 
+to waive argument to prevent the prosecutor from mak- 
+ing a “devastating” closing argument. (J.A. 84), The 
+court found this to be a sound trial strategy. 
+
+
+8 Reading Dice’s post conviction testimony corroborates the medical 
+records findings of grandiosity. For example, Dice testified that he, 
+along with a lawyer in New York first developed Vietnam 
+Veteran’s Syndrome as a defense across the country. (R4, Add. 2, 
+Doc. 1, Tr. p. 92) Dice opined that one of his experts, Dr. Lipman, 
+was “probably the leading research scientist in the world” in 
+amphetamine psychosis. Id. Dice testified he filed hundreds of 
+pre-trial motions in Gary Cone’s case. (R4, Add. 2, Doc. 1, Tr. p. 
+165) The whole tone of Dice’s testimony is melodramatic and 
+grandiose. 
+
+
+9. 
+
+
+On appeal, post conviction counsel urged the court to 
+apply U.S. v. Cronic, 466 U.S. 648 (1984), and presume 
+prejudice because in Cone’s case there was a fundamen- 
+tal breakdown of the adversarial process: 
+
+
+Because the duty to argue for a capital defen- 
+dant’s life is so fundamental, the failure to argue 
+constitutes a fundamental breakdown of the 
+adversarial testing process and hence no specific 
+showing of prejudice is necessary. See United 
+States v. Cronic, supra at 2047, n. 25 
+
+
+(Post Conviction Appellate Brief, R 4, Add. 2, Doc. 2, 
+p. 30; see also pp. 21-23) 
+
+
+The Tennessee Court of Criminal Appeals affirmed the 
+post conviction court’s findings that John Dice was effec- 
+tive. (Pet. App. 101) The Court of Criminal Appeals did 
+not discuss the applicability of Cronic, even though it 
+was argued by post conviction counsel as the applicable 
+rule. In all other respects the Court of Criminal Appeals 
+affirmed the post conviction trial court.9 
+
+
+HABEAS CORPUS PROCEEDINGS 
+
+
+Gary Cone then sought habeas corpus relief in the 
+United States District Court for the Western District of 
+Tennessee. The District Court did not apply U.S. v. 
+Cronic to analyze Gary Cone’s Sixth Amendment claims. 
+
+
+9 Gary Cone later filed a second state post conviction petition. All of 
+the claims raised in this second petition were held procedurally 
+barred by the state court on grounds that such claims were either 
+waived or previously determined. See Cone v. State, 927 S.W. 2d 
+579 (Tenn. Crim. App. 1995). 
+
+
+10. 
+
+
+Rather, the court erroneously applied Lockhart v. 
+Fretwell, 506 U.S. 364, 368 (1993).1° Using this erro- 
+neous standard, the District Court held that Gary Cone 
+“failed to carry his burden to demonstrate that the verdict 
+was fundamentally unfair or unreliable” (Pet. App. 80) as 
+required by Fretwell, and therefore he was not entitled to 
+relief. The District Court also held that the Tennessee 
+courts’ rejection of Cone’s Sixth Amendment claims did 
+not “involve any unreasonable application of clearly 
+established federal law” and thus dismissed his Sixth 
+Amendment claims. (Pet. App. 80) Gary Cone’s other 
+claims were either held procedurally defaulted, or held to 
+be barred by 28 U.S.C. §2254(d). The District Court 
+denied habeas corpus relief. 
+
+On appeal the United States Court of Appeals for the 
+Sixth Circuit found John Dice totally abdicated his role as 
+an advocate in the penalty phase of the trial. The Court 
+called Dice’s purported strategy of failing to present a 
+case for life “confusing” and “convoluted.” (Pet. App. 34) 
+The Sixth Circuit explained that during the penalty 
+phase of a capital trial, the only conceivable goal is to per- 
+suade the jurors not to sentence Cone to death. (Pet. App. 
+35) The Court noted that the reason found by the trial 
+court for Dice waiving closing argument was to prevent 
+the prosecution making a rebuttal argument. Yet, the 
+effect upon the jury of waiving argument was, by silence, 
+an acquiescence to the prosecutor’s plea that Cone must 
+be sentenced to death: 
+
+
+Cone may well have fared better if his counsel 
+had left the courtroom entirely for the sentencing 
+phase of the trial. If that had occurred, the jurors 
+could not have inferred, as indeed they must 
+
+
+ll. 
+
+
+have, that counsel’s knowing and purposeful 
+silence was an implicit agreement that justice 
+required that Cone be put to death. 
+
+
+(Pet. App. 36) 
+
+
+The Sixth Circuit found in essence Cone did not have 
+counsel during the sentencing phase of his trial, and 
+under U.S. v. Cronic, prejudice should be presumed. 
+(Pet. App. 37) Because the Sixth Circuit granted sen- 
+tencing relief, Mr. Cone’s other claims challenging his 
+sentence of death were pretermitted. (Pet. App. 28)11 
+
+
+On petition for writ of certiorari, the petitioner framed 
+the following two issues for review by this Court: 
+
+
+I. By applying a de novo standard of review to a 
+habeas petitioner’s ineffective assistance of coun- 
+sel claim, does the court of appeals’ ruling conflict 
+with Williams v. Taylor, 529 U.S. 362 (2000), 
+which set the standard of review under 28 U.S.C. 
+§2254(d)\(1) for granting habeas corpus relief to 
+state prisoners on claims that have been previ- 
+ously adjudicated on the merits in state court? 
+
+
+II. May a federal court of appeals bypass the preju- 
+dice prong of Strickland v. Washington, 466 U.S. 
+668 (1984), and presume prejudice under United 
+States v. Cronic, 466 U.S.648, (1984), to find a 
+violation of the Sixth Amendment right to coun- 
+sel, where defense counsel conducts a thorough 
+
+
+10This precisely was the analysis found erroneous by this Court in 
+Williams v. Taylor, 524 U.S. 362 (2000). 
+
+
+11 Petitioner's brief incorrectly states that the Sixth Circuit applied 
+a de novo standard of review to the state court findings and con- 
+clusions of law. (Petitioner's Brief, p. 33) It is clear in the Sixth 
+Circuit opinion that the Sixth Circuit is reviewing the District 
+Court’s conclusions de novo, not the state courts’ conclusions. (Pet. 
+App. 6) 
+
+
+12. 
+
+
+pretrial investigation, presents lay and expert 
+witness testimony in support of a mental health 
+defense at trial, conducts direct and cross exami- 
+nation, and addresses the jury at both the guilt 
+and sentencing phase on behalf of his client, and 
+where the state and district courts have previ- 
+ously determined that the defendant demonstrat- 
+ed no actual prejudice from any deficiencies iden- 
+tified in the attorney’s performance? 
+
+
+(Petition for Certiorari, p. i). 
+
+
+Neither question presented by petitioner seeks review 
+of the Sixth Circuit’s holding that John Dice’s represen- 
+tation of Gary Cone at the sentencing phase was defi- 
+cient. Rather, the primary question raised before this 
+Court is — given the extent of the deficient performance 
+found by the Sixth Circuit, namely a total abdication of 
+advocacy — should the Sixth Circuit have applied 
+Cronic and presumed prejudice? The corollary issue pre- 
+sented asks whether, by failing to apply U.S. v. Cronic, 
+did the state courts render a decision that was contrary 
+to or an unreasonable application of clearly established 
+federal law? 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+1. The Sixth Amendment to the United States 
+Constitution guarantees an accused the right to the 
+assistance of counsel for his defense in a criminal trial. 
+In safeguarding this right, this Court has established 
+different rules, applicable to different factual situations, 
+to determine whether an accused’s Sixth Amendment 
+rights have been violated to the degree that mandates a 
+new trial. 
+
+
+13. 
+
+
+If an accused facing risk of imprisonment is not afford- 
+ed counsel altogether, the Sixth Amendment is violated, 
+and a defendant is awarded a new trial with the benefit 
+of counsel. The rationale for automatic new trials in 
+these cases stems from the advocate’s role of ensuring 
+an accused is afforded all the other constitutional safe- 
+guards surrounding a criminal trial. Without counsel, 
+the prosecution’s case is not subjected to meaningful 
+adversarial testing, defense proof is not marshaled to 
+counter the force of the state’s case, and the finder of 
+fact does not benefit from a balanced view of the evi- 
+dence. In these cases, a trial with no counsel produces a 
+result with no indicia of reliability, and the validity of 
+the judgment is uncertain. In such cases it is not worth 
+the cost of a case by case analysis to discern whether, 
+notwithstanding the absence of counsel, the defendant 
+nonetheless received a fair trial. Rather, it is presumed 
+he did not. Simply put, for an adversarial proceeding to 
+be fair, there must be two adversaries at work present- 
+
+Contrast the complete denial of counsel with cases 
+where an attorney is present acting as an advocate for 
+the accused, but the attorney makes specific errors dur- 
+ing the trial, such as failing to make a specific objection. 
+In these cases, this Court has required the defendant 
+raising the Sixth Amendment claim to demonstrate that 
+the error complained of somehow affected the outcome of 
+the trial. Strickland v. Washington, 466 U.S. 668 (1984). 
+An automatic new trial is not required because of a spe- 
+cific attorney mistake, since the accused has an advo- 
+cate trained in the law that, though perhaps not perfect, 
+nonetheless is generally subjecting the prosecution’s 
+case to adversarial testing, and presenting the accused's 
+case to the finder of fact in its best light. In these cases, 
+the court assumes a reliable verdict, unless the accused 
+
+
+14. 
+
+
+can show that somehow the error complained of likely 
+affected the outcome of the trial. Thus, if an attorney 
+failed to object to an unconstitutionally vague aggravat- 
+ing circumstance in a capital sentencing proceeding, and 
+the jury did not find such aggravating circumstance to 
+be supported by the evidence, the attorney error could 
+not be shown to have affected the outcome of the trial. 
+In these cases, it is far easier for a reviewing court to 
+conduct a case by case analysis to determine if specific 
+errors “prejudiced” the defendant. 
+
+There are circumstances, however, when though an 
+attorney is present at the criminal trial, such attorney 
+totally fails to act as an advocate. In United States v. 
+Cronic, 466 U.S. 648 (1984), this Court explained that an 
+attorney’s total failure to subject the prosecution’s case to 
+meaningful adversarial testing during a critical phase of 
+a criminal trial should result in a presumption of preju- 
+dice. The same concerns as to the reliability of a verdict 
+untested by an adversary, which result in the presump- 
+tion of prejudice with the complete denial of counsel, are 
+also present with a “constructive” denial of counsel. The 
+lower courts have sparingly applied Cronic in situations 
+such as a lawyer who sleeps through substantial portions 
+of a capital trial; or when a lawyer berates his client in 
+front of the jury, calling him derogatory names, making 
+it as if his attorney is a second prosecutor. 
+
+In this case, Gary Cone’s attorney failed to present a 
+case for life in the sentencing phase of his capital trial. 
+After the prosecution put forth evidence of aggravating 
+circumstances, Cone’s attorney failed to respond with 
+any mitigation proof of his own. After the prosecution 
+told the jury that Tennessee law obliged the jury to vote 
+for death, the attorney replied by waiving closing argu- 
+ment. The effect before the jury was devastating. The 
+jury was left with the impression that Gary Cone’s 
+
+
+15. 
+
+
+lawyer agreed that death was the required sentence, 
+since he failed to counter the state’s penalty phase case, 
+and failed to disagree with the prosecutor’s call for 
+death. His silence implied his consent. The attorney's 
+failure to make a case for life amounted to a total failure 
+to subject the prosecution’s case for death to meaningful 
+adversarial testing. It would have been better had Gary 
+Cone’s lawyer not shown up for the penalty phase. At 
+least then the jury would not have had the impression 
+that Cone’s own lawyer had given up, viewing death as 
+the inevitable sentence. The Sixth Circuit properly 
+applied Cronic in this case, and presumed prejudice due 
+to the attorney's total abdication of advocacy in the 
+penalty phase of Gary Cone’s trial. 
+
+2. Federal law provides that relief may not be granted 
+to a federal habeas petitioner challenging a state criminal 
+conviction unless the state court decision was contrary to, 
+or involved an unreasonable application of, clearly estab- 
+lished law as determined by the Supreme Court of the 
+United States. 28 U.S.C. §2254(d\1). If this Court finds 
+that the Sixth Circuit was correct in presuming prejudice 
+in this case following U.S. v. Cronic; then it also follows 
+that the state court decision refusing to apply Cronic is 
+contrary to clearly established federal law. 
+
+This case thus closely parallels Williams v. Taylor, 529 
+U.S. 362, 405, 413 (2000O’Connor concurring), where 
+this Court found the Virginia Supreme Court to have 
+applied the wrong rule of law in analyzing an ineffective 
+assistance of counsel claim in a capital sentencing pro- 
+ceeding. In Williams, this Court held that the Virginia 
+Supreme Court’s application of Lockhart v. Fretwell, 506 
+U.S. 364 (1993), to be contrary to clearly established fed- 
+eral law since Strickland was the correct rule the court 
+should have applied. In the same way, if the Sixth Circuit 
+is correct and Cronic provides the rule that governs this 
+
+
+16. 
+
+
+case, then the state court decision applying Strickland 
+rather than Cronic is contrary to clearly established fed- 
+
+
+eral law, and 28 U.S.C. §2254(d)(1) does not bar habeas 
+relief. 
+
+
+ARGUMENT 
+
+
+I. THE A.E.D.P.A. DOES NOT BAR HABEAS 
+RELIEF IN THIS CASE, SINCE THE STATE 
+COURTS’ CHOICE OF THE WRONG SIXTH 
+AMENDMENT RULE IS CONTRARY TO 
+CLEARLY ESTABLISHED FEDERAL LAW. 
+
+
+Certain provisions of the Anti-Terrorism and Effective 
+Death Penalty Act, now codified at 28 U.S.C. §2254(d), 
+limit instances when a state prisoner may obtain feder- 
+al habeas relief. With respect to any claim adjudicated 
+on the merits in state court, relief may not be granted 
+unless the state court decision was not only wrong on 
+the merits of the constitutional claim, but was also con- 
+trary to, or involved an unreasonable application of 
+clearly established law as determined by the Supreme 
+Court of the United States. 28 U.S.C. §2254(d)(1). 
+
+Here the question before the Court is whether the 
+Sixth Circuit properly applied U.S. v. Cronic, 466 U.S. 
+648 (1984), to presume prejudice in Mr. Cone’s capital 
+sentencing hearing. (See Question Presente. II) If the 
+Sixth Circuit is correct and Cronic controls, then the 
+state court decision refusing to apply Cronic would be 
+contrary to clearly established law. In Williams v. Taylor, 
+529 U.S. 362, 405 (2000), Justice O’Connor delivered the 
+Court opinion with respect to the proper construction of 
+28 U.S.C. §2254(d). Construing the “contrary to” clause, 
+the Court recognized that a “state court decision will cer- 
+tainly be contrary to our clearly established precedent if 
+
+
+17. 
+
+
+the state court applies a rule that contradicts the gov- 
+erning law set forth in our cases.” Jd. at 405. In analyz- 
+ing the facts in Williams, Justice O’Connor noted that 
+the clearly established law to be applied for a garden 
+variety ineffective assistance of counsel claim alleging 
+specific attorney error is the two prong test announced in 
+Strickland discussed infra. The Virginia Supreme Court 
+held in Williams’ case that a later Supreme Court deci- 
+sion, Lockhart v. Fretwell, 506 U.S. 364 (1993), governed, 
+requiring the defendant to demonstrate the criminal pro- 
+ceeding was fundamentally unfair or unreliable. 
+Williams, 529 U.S. at 413-414. (O’Connor concurring) 
+Justice O’Connor explained that the Virginia Supreme 
+Court’s decision in Williams was “contrary to” clearly 
+established federal law because the Virginia court 
+employed the rule of Lockhart v. Fretwell, instead of the 
+rule of Strickland v. Washington, to adjudicate a case 
+that should have been adjudicated under Strickland’s 
+rule. Williams, 529 U.S. at 413-414. 
+
+In the present case, the Sixth Circuit held that 
+because there had been a complete breakdown of the 
+adversarial process in the sentencing phase of Cone’s 
+trial, the governing rule for Cone’s Sixth Amendment 
+claim was that of U.S. v. Cronic. If that substantive rul- 
+ing was correct, then the Tennessee Court of Criminal 
+Appeals erroneously chose to apply the Strickland rule 
+to a Cronic case, in the same way that in Williams, the 
+Virginia Supreme Court erroneously chose the Fretwell 
+rule to apply to a Strickland case. In both situations, the 
+answer to the question “whether the state court correct- 
+ly identified the governing legal rule” (Petitioner’s Brief 
+p. 21) is negative. 
+
+Petitioner’s substantive quarrel with the Sixth Circuit 
+decision (in Question Presented II of the petition for writ of 
+certiorari) is precisely that the Sixth Circuit found the case 
+
+
+18. 
+
+
+at bar governed by the Cronic rule rather than the 
+Strickland prejudice rule. If this Court resolves the Cronic 
+issue in Mr. Cone’s favor, as counsel urges it should, then 
+Williams dictates the Sixth Circuit’s unremarkable conclu- 
+sion that the Tennessee Court of Criminal Appeals appli- 
+cation of Strickland prejudice standards to an issue gov- 
+erned by Cronic standards was “contrary to” Cronic within 
+§2254(d) as construed by Williams. 
+
+
+Il. THE UNITED STATES COURT OF 
+APPEALS CORRECTLY PRESUMED 
+PREJUDICE UNDER US. v. CRONIC 
+IN ANALYZING GARY CONE’S SIXTH 
+AMENDMENT CLAIM 
+
+
+A. The Sixth Amendment guarantees a 
+criminal defendant the right to the 
+effective assistance of counsel. 
+
+
+The Sixth Amendment to the United States 
+Constitution assures that no person shall be subjected to 
+criminal prosecution without the assistance of counsel: 
+
+
+In all criminal prosecutions, the accused shall 
+enjoy the right...to be informed of the nature and 
+cause of the accusation; to be confronted with the 
+witnesses against him; to have compulsory 
+process for obtaining witnesses in his favor, and 
+to have the assistance of counsel for his defense. 
+
+
+U.S. Const. Amend. VI 
+In our system of justice, lawyers are necessities, not 
+luxuries, critical to insuring a fair trial. Gideon v. 
+Wainwright, 372 U.S. 335, 344 (1963). The accused in a 
+
+
+19. 
+criminal case: 
+
+
+...requires the guiding hand of counsel at every step 
+of the proceedings against him. Without it, though 
+he be not guilty, he faces the danger of conviction 
+because he does not know how to establish his 
+innocence. 
+
+
+Powell v. Alabama, 287 U.S. 45, 69 (1932) 
+(emphasis supplied). 
+
+
+The right to counsel has “long been recognized as the 
+right to effective assistance of counsel.” McMann uv. 
+Richardson, 397 U.S. 759, 771 n. 14 (1970). The very pur- 
+pose of the Sixth Amendment right is to ensure “assis- 
+tance” for the accused when confronted with the “intrica- 
+cies of the law and the advocacy of the public prosecutor.” 
+United States v. Ash, 413 U.S. 300, 309 (1973). To hold oth- 
+erwise “could convert the appointment of counsel into a 
+sham and nothing more than a formal compliance with 
+the Constitution’s requirement that an accused be given 
+the assistance of counsel.” Avery v. Alabama, 308 U.S. 444, 
+446 (1940). 
+
+
+B. This Court has established different rules 
+for analyzing Sixth Amendment claims, 
+depending upon whether counsel is com- 
+pletely denied, constructively denied, or 
+counsel commits specific errors in repre- 
+sentation. 
+
+
+This Court has employed different tests to determine 
+whether the right to counsel is violated in a criminal 
+case; some of which require a defendant to demonstrate 
+prejudice arising from the violation in order to obtain 
+relief, others not. The court has “uniformly found con- 
+
+
+20. 
+
+
+stitutional error without any showing of prejudice when 
+counsel was either totally absent, or prevented from 
+assisting the accused during a critical stage of the pro- 
+ceeding.” U.S. v. Cronic, 466 U.S. at 659 n. 25 (1984). On 
+the other hand, in cases where an actively participating 
+attorney commits specific errors, the Court “require[s] 
+the defendant to demonstrate that the errors actually 
+had an adverse effect on the defense.” Roe v. Flores- 
+Ortega, 528 U.S. 470, 482 (2000). Where specific failures 
+of performance are the focus of a Sixth Amendment 
+claim, Strickland v. Washington, 466 U.S. 668, 687 
+(1984), establishes a rule requiring a defendant to prove 
+both (1) deficient performance and (2) prejudice from the 
+deficient performance to establish a Sixth Amendment 
+claim. 
+
+
+There is another category of cases, where, although a 
+person who happens to be a lawyer is present at trial (or 
+is supposed to be) with the accused, the putative lawyer 
+engages in absolutely no advocacy on behalf of the 
+accused. In these cases, prejudice is presumed as in the 
+cases involving complete denial of counsel. This Court 
+established the rule for evaluating constructive denial of 
+counsel in United States v. Cronic: 
+
+
+The presumption that counsel's assistance is 
+essential requires us to conclude that a trial is 
+unfair if the accused is denied counsel at a criti- 
+cal stage of his trial. Similarly, if counsel entirely 
+fails to subject the prosecution’s case to meaning- 
+ful adversarial testing, then there has been a 
+denial of Sixth Amendment rights that makes the 
+adversary system itself presumptively unreli- 
+able. 
+
+
+- Cronic, 466 U.S. at 659 
+
+
+21. 
+
+
+This presumption follows from the fact that lawyers 
+in criminal cases are necessities, they are the means 
+through which the other rights of the person on trial are 
+secured. Jd. at 653. The very premise of our adversary 
+system is that partisan activity on both sides of a case 
+will best promote the ultimate objective that the guilty 
+be convicted and the innocent go free. Herring v. New. 
+York, 422 U.S. 853, 862 (1975); Cronic, 466 U.S. at 655. 
+The adversarial process thus requires a defendant to 
+have counsel acting in the role of an advocate. Anders v. 
+California, 386 U.S. 738, 743 (1967); Cronic, 466 U.S. at 
+656. Because counsel’s assistance is essential, a trial is 
+unfair if the accused is constructively denied counsel at 
+a critical stage. Roe v. Flores-Ortega, 528 U.S. 470, 483 
+(2000). 
+
+Thus the rule of Cronic can be succinctly stated as fol- 
+lows: when counsel entirely fails to subject the prosecu- 
+tion’s case to meaningful adversarial testing at a critical 
+stage of a criminal trial, the Sixth Amendment is vio- 
+lated, and prejudice is presumed. 
+
+Petitioner takes issue with Cronic and baldly assets 
+in his brief that prejudice may only be presumed when 
+(1) there is a complete denial of counsel; (2) the govern- 
+ment interferes with the right to counsel; or (3) counsel 
+labors under an actual conflict of interest. (Petitioner’s 
+Brief p. 36). Petitioner posits that “Bad lawyering, no 
+matter how bad, does not justify invoking a per se pre- 
+sumption under Cronic.” (Petitioner’s Brief p. 37) 
+Petitioner urges this Court to apply the Strickland 
+attorney error test in all Sixth Amendment cases where 
+an attorney is present with the defendant. 
+
+Yet Strickland itself acknowledges that prejudice 
+should be presumed if counsel is constructively denied; 
+and cites Cronic as authority for that proposition: 
+
+
+22. 
+
+
+In certain Sixth Amendment contexts, prejudice is 
+presumed. Actual or constructive denial of the 
+assistance of counsel altogether is legally pre- 
+sumed to result in prejudice. So are various kinds 
+of state interference with counsel’s assistance. See 
+United States v. Cronic, 466 U.S. at 659, and n. 25. 
+
+
+Strickland, 466 U.S. at 692 
+
+
+Petitioner wholly ignores Cronic’s language that “if 
+counsel entirely fails to subject the prosecution’s case to 
+meaningful adversarial testing, then there has been a 
+denial of Sixth Amendment rights that makes the adver- 
+sary process itself presumptively unreliable.” Cronic 466 
+U.S. at 659. This language plainly contemplates pre- 
+suming prejudice in cases where an attorney is present 
+on the defendant’s behalf at the trial, but engages in no 
+_ advocacy. 
+
+
+Petitioner’s proposed rule also proves too much. He 
+suggests that there is nothing so outrageous, so 
+deplorable, so contrary to a client’s interest that an 
+attorney can do or fail to do that would warrant a pre- 
+sumption of prejudice. Under petitioner’s rule, if an 
+attorney stood up in closing argument at the penalty 
+phase of a capital trial and told the jury that they should 
+vote to execute a client because he’s a despicable mon- 
+ster that deserves to die, prejudice would not.be pre- 
+sumed.!2 The state courts in such a case under petition- 
+er’s rule would be free to find that the prosecution’s 
+penalty phase case was so overwhelming, it wouldn’t 
+have made a difference if the lawyer actually advocated 
+
+
+12 Such a hypothetical is not that far-fetched. See, eg. Rickman v. 
+Bell, 131 F.3d 1150 (6™ Cir. 1997) (Counsel ineffective and preju- 
+dice presumed under Cronic in death penalty proceedings where 
+lawyer calls his client abnormal, crazed and dangerous psychiatric 
+case who acted like a bull). 
+
+
+23. 
+
+
+for the defendant. Likewise, if counsel comes to trial 
+intoxicated, or sleeps through the proceedings,1* under 
+petitioner’s proposed rule, there would be no constitu- 
+tional foul unless the defendant could show counsel’s 
+being awake and sober would have made a difference. 
+Given that prejudice is presumed when the accused is 
+afforded no lawyer, Cronic simply requires prejudice 
+also to be presumed in that rare case where the 
+accused’s lawyer is so bad that it is fundamentally 
+equivalent to having no lawyer. The policy justifications 
+for presuming prejudice when no lawyer is afforded a 
+defendant, are equally present if a person who happens 
+to be a lawyer is appointed, but does nothing that could 
+be construed as advocacy. In either case, the verdict is 
+unreliable, because the evidence presented by the pros- 
+ecution has not been tested by cross examination, coun- 
+tervailing proof, and countervailing argument. Thus the 
+verdict bears no indicia of reliability. Cases involving 
+constructive denial of counsel are altogether different 
+than cases where an attorney is acting as an advocate, 
+but makes some specific error. In the latter instances, 
+counsel’s overall advocacy provides some assurance that 
+the verdict is reliable, and in such cases it makes sense 
+
+
+_ to examine whether a specific failure of counsel likely 
+
+
+affected the outcome of the trial. Yet where no advocacy 
+occurs, it is just as if there is no counsel at all. In an 
+adversarial system, there must be two adversaries test- 
+ing the case in order to be sure of the reliability of the 
+verdict. If there is no adversary arguing one side of a 
+case, the Court assumes the absence of an adversary 
+taints the fairness and reliability of the proceeding. 
+
+In Powell v. Alabama, this Court reversed the convic- 
+
+
+13 See, eg. Burdine v. Johnson, 262 F.3d 336 (5‘ Cir. 2001) (cert. 
+pending) (lawyer slept through substantial portions of capital mur- 
+der trial). 
+
+
+24. 
+
+
+tion of six African Americans accused of raping two 
+white girls (a capital offense) near Scottsboro, Alabama. 
+Powell v. Alabama, 287 U.S. 45 (1932). The trial judge 
+had appointed all members of the bar to arraign the 
+defendants. Whether the whole bar would continue to 
+represent the defendants was not clear. Jd. at 56. On the 
+day of the trial, a lawyer from Tennessee appeared on 
+behalf of persons interested in the defendants, but stat- 
+ed he had not sufficient time to prepare the case or to 
+familiarize himself with local procedure. Jd. at 57. The 
+Alabama trial court resolved the problem by appointing 
+the Tennessee lawyer to be assisted by whatever help 
+the local bar could provide. Id. at 57-58. In Powell, this 
+Court noted that: 
+
+
+[D]uring perhaps the most critical period of the 
+proceedings against these defendants, that is to 
+say, from the time of their arraignment until the 
+beginning of their trial, when consultation, 
+thorough-going investigation and preparation 
+were vitally important, the defendants did not 
+have the aid of counsel in any real sense, 
+although they were as much entitled to such aid 
+during that period as at the trial itself. 
+
+
+Powell, 287 U.S. at 57. 
+
+
+In Powell, the Court granted Sixth Amendment relief 
+when several counsel were in fact appointed, and no 
+_ showing of prejudice was demonstrated. All the state’s 
+witnesses were subjected to rigorous cross examination 
+by trial counsel. Powell, 287 U.S. at 75 (Butler dissent- 
+ing). The collective defense attorneys prepared and sub- 
+mitted motions for change of venue, and called .witness- 
+es to support the motion. Jd. The dissent also notes that 
+there was ample evidence to support a conviction since 
+while each defendant asserted his own innocence, each 
+
+
+-— 
+
+
+25. 
+
+
+testified he saw the others accused commit the crime 
+charged. Jd. at 75-76. 
+
+
+Powell is instructive since a Sixth Amendment viola- 
+tion occurred notwithstanding the physical presence of 
+counsel. Powell refutes Petitioner’s claim that bad 
+lawyering, no matter how bad, never results in a pre- 
+sumption of prejudice. 
+
+
+C. When a lawyer abandons his duty to pres- 
+ent a case for life in the penalty phase of a 
+capital trial, the rule of Cronic applies. 
+
+
+The United States Court of Appeals for the Sixth 
+Circuit applied the rule of Cronic in Gary Cone’s Case 
+due to counsel’s total failure to mount a defense to the 
+
+
+prosecution’s penalty phase case for death: 
+Essentially, Cone did not have counsel during the 
+
+
+sentencing phase of his trial and thus the prose- 
+cutor’s insistence that justice required that Cone 
+
+
+be put to death was not subjected to “meaningful 
+adversarial testing.” Cronic, 466 U.S. at 656. We 
+find that counsel’s abandonment of Cone at pos- 
+sibly the most “critical stage of his trial” fell 
+below an objective standard of reasonableness 
+and prejudiced him, which resulted in the inef- 
+fective assistance of counsel under the Sixth 
+Amendment. 
+
+
+(Pet. App. 37) 
+
+
+When a lawyer representing a capital defendant sits 
+idly by as the state presents aggravating proof support- 
+ing a death sentence, fails to present mitigation proof, 
+then waives closing argument after the prosecution 
+argues the (unrefuted) proof demands a death verdict, 
+the attorney inescapably leaves the jury with the 
+
+
+26. 
+
+
+impression that the prosecution’s case is overwhelming, 
+irrefutable, and the defendant deserves death. The 
+penalty phase of a capital tria: .s the most critical stage 
+of the proceeding. Counsel’s iaifure to mount some case 
+for life during the penalty phase, in response to the 
+prosecution’s proof and argument for death constitutes 
+a total failure to subject the prosecution’s case to mean- 
+ingful adversarial testing, requiring application of the 
+Cronic rule. 
+1. In a capital sentencing proceeding, the lawyer must 
+make a case for life. 
+
+
+At the penalty phase of a capital trial, the sole issue 
+to be resolved is whether the defendant should be sen- 
+
+
+tenced to death or life imprisonment. The defense attor- 
+ney must marshal all available evidence to counter the 
+state’s case for death, and affirmatively present the jury 
+with reasons they should vote for the defendant’s life to 
+be spared. Admissible evidence encompasses any fact 
+which a juror might find supports a sentence less than 
+death, including facts pertinent to the defendant’s back- 
+ground, upbringing, life experience, and mental illness 
+which may not rise to the level of an insanity defense. 
+Lockett v. Ohio, 438 U.S. 586, 605 (1978); Eddings v. 
+Oklahoma, 455 U.S. 104, 113-115 (1982); Skipper v. 
+South Carolina, 476 U.S. 1, 4-5 (1986). The scope of rel- 
+evant proof is therefore much broader than that which 
+is relevant to the issues at the guilt/innocence phase. 
+The essence of defense counsel’s role in a capital sen- 
+tencing proceeding is to individualize and humanize the 
+defendant - to help the sentencer grasp an intelligible 
+picture of the defendant as a person who is more than 
+just the perpetrator of a murder. The lawyer must advo- 
+cate his client is a human being with a unique personal 
+history of experiences, attributes, even frailties, that 
+
+
+27. 
+
+
+add up to a life worth sparing in the exercise of reasoned 
+moral judgment. Penry v. Lynaugh, 492 U.S. 302, 319 
+(1989). 
+
+Since Tennessee is a “weighing state” the jury is 
+instructed that if it finds the presence of at least one 
+aggravating circumstance, it must weigh these circum- 
+stances against mitigation circumstances present to 
+determine whether the defendant should be sentenced 
+to death. (J.A. 57) “As an advocate for life, counsel must 
+attempt to demonstrate that mitigating factors out- 
+weigh aggravating factors and must present the sen- 
+tencer with the most persuasive possible case for 
+mercy.” Gary Goodpaster, The Trial for Life: Effective 
+Assistance of Counsel in Death Penalty Cases, 58 N.Y.U. 
+L. Rev. 299, 318 (1983). This is because “[a]fter consid- 
+ering all the gruesome evidence in the guilt/innocence 
+phase, the jury probably will need no additional reasons 
+to impose the death penalty.... Obviously, if the defen- 
+dant has mitigating factors in his or her behalf, these 
+must be advanced and sold to the jury.” Tennessee 
+Association of Criminal Defense Lawyers, Tools for the 
+Ultimate Trial: The TACDL Death Penalty Defense 
+Manual, 10-5 (1985). 
+
+Death is never a foregone conclusion in a capital case, 
+no matter how ugly the murder. A prime example would 
+be the Tennessee cases of Groseclose v. Bell, 130 F.3d 
+1161 (6*® Cir. 1997), and Rickman v. Bell, 131 F.2d 1150 
+(6th Cir. 1997). William Groseclose hired Ronald 
+abducted Deborah Groseclose, raped, strangled and 
+stabbed her. Then they stuffed her in the trunk of a car 
+and left her to die in the Memphis summer heat. 
+Counsel for both Groseclose and Rickman were 
+deplorable. Ronald Rickman’s attorney portrayed his 
+client to the jury as an abnormal, crazed and dangerous 
+
+
+28. 
+
+
+psychiatric case, and even referred to him as a bull. 
+Rickman, 131 F.3d at 1158-1159. Groseclose’s lawyer 
+also failed to mount any defense, and abdicated his case 
+to the lead of Rickman’s counsei, who was hostile to his 
+own client. Groseclose, 130 F.3d at 1169-1170. The jury 
+sentenced them to death. Both defendants were afford- 
+ed habeas relief in federal court. With new counsel, both 
+Groseclose and Rickman received a life sentence, despite 
+the heinous facts of the case. Death is thus never a cer- 
+tain outcome in a capital case, because juries are weigh- 
+ing more than the facts of the case - they are consider- 
+ing a multitude of facts, including the defendant’s back- 
+ground, life experience, and circumstances to arrive at a 
+reasoned moral decision about sentence. /4 
+
+
+2. Dice failed to present a case for Gary Cone’s Life 
+
+
+Structurally, Gary Cone’s penalty phase trial proceed- 
+ed as follows: The prosecution made a brief opening 
+statement, followed by Dice’s brief opening statement. 
+(J.A. 20-27) The prosecution then put forth proof of 
+aggravating circumstances, and the defense put forth no 
+proof of mitigating circumstances. The prosecution then 
+argued that the law and proof the jury heard required 
+
+
+14 Tennessee juries have often sentenced defendants to life after a 
+rible facts. See, e.g. State v. Thompson, 2001 W.L. 912715 (Tenn. 
+Crim. App. 2001) (Two high ranking gang members while incarcer- 
+ated ordered “hit” on correctional officer who was executed in front 
+of his home: each sentenced to life without parole and life respec- 
+tively); Cox v. State, 880 S.W. 2d 713 (Tenn. Crim. App. 1994) (two 
+women and their mother were murdered by defendant's beating 
+them with a skillet and stabbing them with a knife: defendant sen- 
+tenced to life); State v. Bibbs, 806 S.W. 2d 786 (Tenn. Crim. App. 
+1991) (eleven year old girl who threatened to tell her mother about 
+sexual advances by a hotel security guard was brutally beaten by 
+the guard and then thrown off the h»tel balcony to her death: 
+defendant sentenced to life). 
+
+
+29. 
+
+
+Gary Cone to be sentenced to death, (J.A. 50-52) and the 
+defense waived closing argument. (J.A. 52) 
+
+Dice presented absolutely no defense before the jury to 
+the prosecution’s case for death. The prosecution’s case for 
+death was not countered with any mitigation proof for life. 
+The prosecutor in making his closing argument asked the 
+jury to impose death as punishment, arguing it was 
+required by the aggravating circumstances in Cone’s case. 
+After the prosecutor made his closing argument seeking 
+death, John Dice stood up before the jury and stated 
+“Defense waives final argument, your Honor.” (J.A. 52) 
+This failure to answer and contest the prosecution’s argu- 
+ment for death is bound to have been construed by the jury 
+as signifying at least “I have no good reply for that,” or “I 
+am at a loss for any reason why a death sentence should 
+not be imposed.” The jury was implicitly told by Dice’s 
+silence that whatever Dice might have said prior to the 
+state’s proof at sentencing - now that he’s heard it - it is 
+irrefutable. 
+
+Dice’s failure to present a case for life spelled doom for 
+Gary Cone in light of Tennessee’s jury instructions about 
+weighing aggravating and mitigating circumstances: 
+
+If you unanimously determine that at least one 
+statutory aggravating circumstance or several 
+statutory aggravating circumstances have been 
+proved by the State, beyond a reasonable doubt, 
+and said circumstance or circumstances are not 
+outweighed by any mitigating circumstances, the 
+sentence shall be death. 
+
+(J.A. 57) 
+
+
+By failing to present a case for life, the jury was left 
+they had no choice but to impose death since there was 
+no countervailing case for life to weigh. The combined 
+
+
+30. 
+
+
+effect of mustering no evidence and making no argu- 
+ment to counter the state’s case for death signaled res- 
+ignation to a foregone conclusion that no case for life 
+could be made. To the jury uneducated in the law, the 
+statement that “the defense waives final argument” nec- 
+essarily implies that there must be nothing good in 
+response for the lawyer to say. Dice’s silence after the 
+prosecution’s case implied to the jury that Dice was in 
+agreement with the prosecutor. In a weighing state, this 
+failure amounted to a concession that there was no mit- 
+igation to present. Counsel thus entirely failed to sub- 
+ject the prosecution’s penalty phase case to meaningful 
+
+Though it was mentioned by Dice in his guilt/inno- 
+cence phase opening statement, Dice never developed 
+the effects on Cone of seeing his dead brother being 
+retrieved from a lake at age 8. (J.A. 102) (R4, Add. 2, 
+Doc. 1, Tr. p. 94) The effects of Gary Cone’s fiancé 
+being raped and murdered in 1972 were not devel- 
+oped before the jury. (J.A. 102) Most importantly, Dice 
+never developed proof about Gary Cone’s receiving a 
+Brenze Star for his heroic service in the Vietnam War, 
+or explained why Cone received a Bronze Star, or 
+even what a Bronze Star is. This failure is inexplica- 
+ble in light of Dice’s admitted knowledge about the 
+Bronze Star decoration and its significance. (R4, Add. 
+2, Doc. 1, Tr. p. 158) (Dice would have “given his right 
+arm” for a Bronze Star decoration). 
+
+In Herring v. New York, this Court addressed the cru- 
+cial importance of closing argument in a criminal case. 
+Herring, 422 U.S. 853 (1975). In that case New York 
+enacted legislation allowing a trial court to deny closing 
+argument to a defendant in a non-jury criminal trial. Jd. 
+
+In discussing the case, this Court noted that closing 
+argument “serves to sharpen and clarify the issues for 
+
+
+31. 
+
+
+resolution by the trier of fact in a criminal case.” Id. 
+at 862. The lawyer’s ability to respond after evidence 
+has been presented marks a critical facet of the clos- 
+
+
+ing argument: 
+
+
+For it is only after all the evidence is in that 
+counsel for the parties are in a position to present 
+their respective versions of the case as a whole. 
+Only then can they argue the inferences to be 
+drawn from all the testimony, and point out the 
+weaknesses of their adversaries’ positions. And 
+for the defense, closing argument is the last clear 
+chance to persuade the trier of fact that there 
+may be reasonable doubt of the defendant’s guilt. 
+
+
+Id. 
+
+
+The Court emphasized that “no aspect of such advoca- 
+cy could be more important than the opportunity finally 
+to marshal evidence for each side before submission of 
+the case to judgment.” Jd. The Court then held that the 
+New York Statute violated the defendant’s Sixth 
+Amendment right to counsel. Jd. at 865. 
+
+Herring highlights why Dice’s failure to advocate for 
+Gary Cone’s life in closing is so devastating. Only after 
+the prosecution’s case for death is presented can it be 
+rebutted. Only after all the proof of aggravation and 
+mitigation (if it had been presented) are before the jury 
+can the evidence be marshaled to demonstrate why, 
+based upon the facts admitted in evidence, Gary Cone 
+should be allowed to live. Closing argument is an essen- 
+tial tool for the trial lawyer. Abandoning this tool left the 
+jury with no guidance as to why the law could allow 
+Gary Cone to be given life. 
+
+The jury was not provided a coherent case demon- 
+strating why reasoned moral judgment called for a 
+
+
+32. 
+
+
+sentence of life and not death - leading to the 
+inescapable conclusion that there was none. As the 
+Sixth Circuit stated: 
+
+
+We can only imagine the effect on the jurors when 
+Cone’s defense counsel refused even to ask them to 
+spare his client’s life. They could only have 
+inferred that Cone’s counsel was, by his silence, 
+acquiescing to the prosecutor’s plea that Cone be 
+sentenced to death... Cone may well have fared 
+better if his counsel had left the courtroom entire- 
+ly for the sentencing phase of the trial. If that had 
+occurred, the jurors could not have inferred, as 
+indeed they must have, that counsel’s knowing and 
+purposeful silence was an implicit agreement that 
+justice required that Cone be put to death. When a 
+man faces the gallows and his attorney sitting next 
+to him declines even to ask the jurors to spare his 
+life in the name of simple mercy, the attorney 
+ought to have a most compelling reason for failing 
+to speak - one that would incline a reasonable 
+observer to credit as a sentencing strategy that is 
+legally and factually justified. The reasons Cone’s 
+counsel has given are totally unreasonable, given 
+the stakes. This was not strategic representation; 
+it was non-representation of the most deadly sorc. 
+
+
+(Pet. App. 36) 
+
+
+3. Dice’s post hoc justifications for his failure to pres- — 
+ent a case for life are convoluted and confusing. 
+
+
+John Dice testified in post conviction that he present- 
+ed his mental health mitigation evidence in the 
+guilt/innocence phase of the trial. Yet Dice never 
+explained to the jury why - factually, morally, and legal- 
+ly- the mental health evidence which the jury had just 
+
+
+\ 
+
+
+33. 
+
+
+found insufficient to support a defense of insanity 
+should nonetheless justify a life sentence in the penal- 
+ty phase. Also, it is well documented that evidence of 
+mental illness is a potential “two edged sword.”15 
+Without proper guidance from counsel, many jurors 
+regard mental illness as an by pe circumstance 
+rather than a mitigating one.*° By adopting a strate- 
+gy to put forth mental health mitigation proof solely in 
+the guilt phase of the trial (J.A. 84), counsel was lim- 
+iting the jury to considering proof that was only rele- 
+vant to the guilt phase issues of insanity. Though 
+proof with respect to Gary Cone’s drug dependence 
+and post traumatic stress disorder arising from 
+Vietnam is potentially mitigating, it by no means 
+encompasses all mitigating proof that could be pre- 
+
+
+15Penry v. Lynaugh, 492 U.S. 302, 324 (1989) (“Penry’s mental 
+retardation and history of abuse is thus a two edged sword: it may 
+diminish his blameworthiness for his crime even as it indicates 
+that there is a probability that he will be dangerous in the 
+future”). 
+
+
+16(4) jury, having sat through a trial and struggled in the 
+guiltAnnocence phase, often is left with the impression that there 
+is nothing about serious mental illness, by itself, that should be 
+considered at the penalty phase as determining that the defen- 
+dant should not be executed. The language used in jury instruc- 
+tions at this phase of a capital trial further adds to juror confu- 
+sion. Terms such as “aggravating factors” and “mitigating factors” 
+have been shown that many jurors erroneously believe that men- 
+tal illness is a reason for imposing a death sentence-i.e., that 
+occur because it is never explicitly explained to the jury that seri- 
+ous mental illness, if found, should normally be weighed against 
+death.” Dorean Marguerite Koenig, Mentally Ill Defendants: 
+Systemic Bias in Capital Cases, 28 Human Rights 10, 11 (Summer 
+2001). 
+
+
+34. 
+
+
+sented in his case.!7 Dice knew the proof in the record 
+was limited in scope, since the prosecution objected dur- 
+ing the guilt/innocence phase to the relevancy of testi- 
+mony about Gary Cone’s military service. (J.A. 63-64) 
+But Dice never followed through by developing this mit- 
+igating evidence in the penalty phase . Id. 
+
+Dice also testified that the reason he did not call any 
+witnesses to establish mitigating proof in the penalty 
+phase was his concern that he would be opening the door 
+to emphasize other prior bad acts. (R4, Add. 2, Doc. 1, Tr. 
+pp. 104-105, 137) This testimony demonstrates his lack 
+of understanding of mitigating evidence. Under 
+Tennessee law, witnesses who would testify as to Gary 
+Cone’s traumatic childhood and horrible Vietnam expe- 
+rience would not have “opened the door” to cross exami- 
+nation about other prior bad acts. In Cozzolino v. State, 
+584 S.W. 2d 765 (Tenn. 1979), the Tennessee Supreme 
+Court opined that only evidence relevant to an aggra- 
+vating circumstance or mitigating factor raised by 
+defendant is admissible in the punishment phase of a 
+capital trial. Id at 767-768. The court held in Cozzolino 
+
+
+17 This proof was also tainted by prosecutorial misconduct at the 
+guilt phase closing argument, wherein the prosecution improperly 
+argued Gary Cone did not have a drug problem, but rather, was a 
+drug dealer, based upon a substantial amount of money found in 
+Gary Cone’s automobile at the scene of the crime. The post con- 
+viction court found that the prosecution should not have so 
+argued, since the prosecutor knew the money in the car was rob- 
+bery proceeds, not drug sale proceeds (J.A. 81), but the court ruled 
+the error harmless as a substantive claim for relief. However, this 
+improper taint of the guilt phase proof of Cone’s drug induced 
+amphetamine psychosis made the failure to admit proof of drug 
+addiction at sentencing all the more important. The jury was pre- 
+sented with improper argument in the guilt phase closing that 
+Cone did not at all use drugs. Dice never even attempted to correct 
+
+
+oe tage ay Nr a el md sed 
+little value as mitigation evidence. 
+
+
+35. 
+
+
+that defendant’s proof of his troubled childhood intro- 
+duced in an attempt to show the origin of his criminal 
+acts does not open the door to the state to introduce 
+proof concerning present criminal proclivities. Jd. Thus 
+the law was clear at the time of Gary Cone’s trial that 
+introduction of mitigation evidence as to Cone’s back- 
+ground would not have opened the door for cross exami- 
+nation as to Gary Cone’s other previously unmentioned 
+bad acts. Either Dice did not know the law, or he was 
+striving in his testimony to find some justification for 
+his failure to present mitigation evidence. 
+
+Dice also testified incredibly that his “strategy” was to 
+remain silent while the prosecution argued for an aggra- 
+vating circumstance which Dice knew was not support- 
+ed by the evidence. Dice’s plan was to get the jury to find 
+an aggravating circumstance not supported by the evi- 
+dence and have his case reversed by the appellate 
+courts. (R4, Add. 2, Doc. 1, Tr. pp. 107-109)18 Any lawyer 
+who would knowingly fail to refute an aggravating cir- 
+cumstance which is not supported by the evidence, in 
+hopes of a future reversal is acting objectively unrea- 
+sonably. In essence, Dice sought to concede a death ver- 
+dict in hopes of a reversal on appeal. Such a strategy 
+amounts simply to a total abdication of advocacy. 
+
+
+4. Petitioner’s arguments that Dice engaged in 
+advocacy during the penalty phase have no 
+merit in light of Dice’s failure to make a case for 
+life before the jury. 
+
+
+Petitioner’s brief raises four points in arguing that 
+
+
+Dice_engaged_in some advocacy during the penalty 
+
+
+18]t should be noted that Dice even did a poor job of implementing 
+- this bizarre strategy, since he did not object to the jury instruc- 
+
+
+36. 
+
+
+phase of the trial. Petitioner points out that: 
+
+
+e Mitigation evidence of drug addiction and 
+Vietnam Veterans Syndrome was developed in 
+
+
+the guilt phase. 
+
+
+e Dice made an opening argument in the penalty 
+phase asking for mercy, and asking the jury to 
+recall the guilt phase testimony of Gary Cone’s 
+mental health problems. 
+
+
+e Dice solicited on cross examination of a penalty 
+phase witness that court records refer to Gary 
+Cone having been awarded the Bronze Star for 
+his military service in Vietnam. 
+
+e Dice successfully objected and excluded from evi- 
+dence two gruesome photographs of the deceased 
+
+Petitioner argues that the above four points refute 
+
+Cone’s contention that Cone’s case was not subjected to 
+
+meaningful adversarial testing at the penalty phase. Yet 
+
+the above points are irrelevant to Cone’s argument that 
+
+Dice failed to make a case for life. Putting oneself in the 
+
+position of Gary Cone’s jury, the jury was told it must 
+
+decide whether Cone should live or die by weighing 
+aggravating and mitigating proof. After the prosecution 
+put forward aggravating proof, the defense rested in 
+front of the jury. The prosecution then made a closing 
+argument informing the jury that the state had proven 
+aggravating circumstances, and the law required a sen- 
+tence of death - to which defense counsel failed to 
+respond. The jury was inescapably left with the impres- 
+sion that - now that defense counsel has heard the 
+state’s case, there is nothing to say to refute it. 
+Therefore the fact that Dice put forth some possible mit- 
+
+
+37. 
+
+
+igation proof in the guilt phase,!9 or made an opening 
+statement is irrelevant, since this occurred before the 
+prosecution’s penalty phase case and could not in any way © 
+counter the jury’s impression that no case for life existed. 
+In the same way, the objection to the photographs, which 
+occurred completely outside the jury’s presence (J.A. 41), 
+could have in no way countered the jury’s impression that 
+no case for life existed. The jury had no idea John Dice | 
+was interposing an objection.29 The Bronze Star refer- 
+ence was elicited on cross examination of the state’s 
+penalty phase witness (J.A. 30-31). Yet John Dice did not 
+admit this proof, rather the proof was admitted by the 
+state. The reference is also worthless as mitigation proof 
+without some argument to the jury or some testimony 
+indicating what a Bronze Star is, or why it is mitigating. 
+
+None of the reasons offered by petitioner change the 
+fact that the jury heard no case for life - rather they 
+heard counsel concede to the prosecution’s case for death. 
+
+
+5. This Court’s precedents do not justify applying 
+Strickland rather than Cronic in a case where a 
+lawyer utterly failed to make a case for life in the 
+penalty phase of a capital trial. 
+
+
+This Court has not until now considered a case where 
+a lawyer is physically present during the penalty phase 
+of a capital trial but fails to contest the prosecution’s 
+
+
+195 discussed supra, the jury could just as easily have interpreted 
+the guilt phase proof that Cone was a crazed drug addict as an 
+aggravating circumstance. Also, counsel's failure to clear up the 
+taint of the prosecution’s improper argument that Gary Cone was 
+not a drug user, rendered the guilt phase proof of little value as 
+mitigation evidence. 
+
+
+20Dice simply asked to approach the bench, and the jury was then 
+excused before the objection was argued. (J.A. 41) 
+
+
+38. 
+
+
+case for death and muster some case for life. Petitioner 
+cites several post-Strickland cases which he argues are 
+analogous to the present case and warrant applying the 
+Strickland test to Cone’s case. But all the cases cited by 
+Petitioner involve “specific errors and omissions...[as]_ 
+the focus of a claim of ineffective assistance” on the part 
+of a lawyer who was otherwise engaged and active as an 
+advocate throughout the sentencing proceeding. U.S. v. 
+Cronic, 466 U.S. at 657 n. 20. None of this Court’s pre- 
+vious Strickland cases involved a lawyer who failed to 
+present mitigation proof and waived closing argument 
+in a capital sentencing proceeding. Gary Cone’s case 
+presents this Court with a far more pervasive abdication 
+of advocacy than in this Court’s previous Strickland 
+cases, and is thus distinguishable from those cases ref- 
+erenced by Petitioner in which this Court applied a 
+Strickland prejudice analysis to the penalty phase of a 
+capital trial. 
+
+In Strickland v. Washington, petitioner claimed trial 
+counsel to be ineffective during the penalty phase of a 
+capital trial by failing to request a pre-sentence report, 
+failing to introduce a psychiatric report, and failing to 
+investigate and present character witnesses. Strickland, 
+466 U.S. at 675. Trial counsel made a closing argument 
+presenting to the court his client’s remorse and accept- 
+ance of responsibility by turning himself in as the perpe- 
+trator of a previously unsolved crime that had been erro- 
+neously ruled an accident. Jd. at 673. Counsel argued that 
+his client had no history of criminal activity, and that his 
+crimes were committed under the extreme mental or 
+emotional disturbance. Jd. at 673-674. He further argued 
+that his client should be spared death because he offered 
+to testify against a co-defendant, and he was a funda- 
+
+
+mentally good person who had briefly gone badly wrong 
+in extremely stressful circumstances. Jd. at 674. Counsel 
+
+
+se —_———_— 
+
+
+39. 
+
+
+provided a plausible reason for choosing not to request a 
+pre-sentence report, since it would contain his client’s 
+extensive record, which he had successfully moved to 
+exclude from evidence. Jd. at 673. These facts differ qual- 
+itatively from the penalty phase in Gary Cone’s case 
+where the jury heard no argument after the prosecution’s 
+case as to why Gary Cone’s life should be spared. 
+
+Darden v. Wainwright, also involved allegations of 
+specific attorney error in the penalty phase. Darden, 
+477 U.S. 168 (1986). In Darden, defense counsel made a 
+closing argument asking for mercy; and counsel put his 
+client on the stand in the penalty phase to testify. 
+Darden, 477 U.S. at 182, 186. Darden did not even 
+address the question of whether prejudice had to be 
+proven, since the court found counsel’s performance rea- 
+sonable. Id. at 187. 
+
+In Burger v. Kemp, 483 U.S. 776 (1987), this Court 
+was confronted with a case raising ineffective assistance 
+of counsel for failure to present evidence in the penalty 
+phase of the trial. Burger, 483 U.S. at 788. Yet in Burger 
+there is no claim that counsel failed to make a closing 
+argument, a fact critically different than in Gary Cone’s 
+case. Furthermore, the Burger Court never addressed 
+the issue of prejudice, since this Court found that coun- 
+sel’s performance was not deficient. Jd. at 795-796. 
+
+This Court’s latest case concerning ineffective assis- 
+tance of counsel at the penalty phase, Williams v. 
+Taylor, raised claims of trial counsel’s failure to investi- 
+gate and develop proof of mitigating evidence of child- 
+hood abuse, borderline retardation, and positive behav- 
+ior in prison. Williams v. Taylor, 529 U.S. 362, 395-396 
+(2000) Unlike Cone’s case, trial counsel in Williams pre- 
+sented penalty phase proof, including the testimony of 
+Williams’ mother, two neighbors, and psychiatric proof. 
+Id. at 369. Williams’ counsel made a closing argument 
+
+
+40. 
+
+
+asking the jury to consider the fact that Williams turned 
+himself in, and admitting his involvement in four crimes 
+that otherwise would not have been solved. Id. 
+Petitioner also cites two Sixth Amendment cases con- 
+cerning the failings of counsel on appeal, both of which 
+are distinguishable. In Smith v. Robbins, an appointed 
+attorney representing a second degree murder defen- 
+dant on appeal concluded there were no non-frivolous 
+issues to pursue in the appellate courts. Smith v. 
+Robbins, 528 U.S. 259, 267 (2000). The attorney filed 
+with the California Court of Appeals a non-merits brief 
+that complied with applicable California law. The main 
+issue before this Court was whether the California Rule 
+was constitutional which instructed counsel how to pro- 
+ceed on appeal if counsel believed all appellate issues 
+would be frivolous. The holding in Robbins dictates that 
+the California procedure does not deny criminal appel- 
+lants the right to counsel. Robbins, 528 U.S. at 276. The 
+Court then indicated there was still an issue in the case 
+as to whether the attorney erred in finding all potential 
+appellate issues frivolous, and remanded the case with 
+instructions to analyze the attorney's performance 
+under Strickland. Robbins is distinguishable from Gary 
+Cone’s case since Robbins had an active attorney who 
+searched the record for meritorious issues on appeal, 
+and upon finding none filed a non-merits brief that com- 
+plied with California law. The attorney thus actively 
+pursued his client’s interest. While it is conceivable that 
+an appellate attorney in a typical felony case may find 
+no non-frivolous issues to appeal, it is not conceivable 
+that a capital defense attorney can make no case for the 
+client’s life in the penalty phase. The appellate attorney 
+who reviews the record and finds no meritorious issues 
+on appeal due to exemplary trial representation, does 
+not abandon all advocacy by complying with state law 
+
+
+41. 
+
+
+and informing the court of these facts. After all, a defen- 
+dant has no constitutional right to present frivolous 
+issues for appellate review. Rather, such actions would 
+demonstrate a conscientious attorney, aware of her obli- 
+gation not to present the court with frivolous issues. 
+
+On the other hand, there is no professionally acceptable 
+reason to fail to make a case for life in the penalty phase, 
+even if the case at a minimum focuses on asking the jury 
+for simple mercy. Robbins is thus distinguishable since 
+the appellate attorney in Robbins did not abandon advo- 
+cacy, even though he filed a non-merits brief, whereas 
+Gary Cone’s attorney did abandon advocacy in the penal- 
+ty phase. 
+
+In Roe v. Flores-Ortega, 528 U.S. 470 (2000), this Court 
+considered how to evaluate a claim of ineffective assis- 
+tance of counsel for failure to file a notice of appeal. The 
+facts in this case are somewhat peculiar, since the defen- 
+dant pleaded guilty to second degree murder, then 
+claimed his counsel was ineffective for not filing a notice 
+of appeal. Roe, 528 U.S. at 473-474. The primary thrust 
+of the Roe opinion was to reject the Ninth Circuit’s bright 
+line rule that the Constitution required counsel in a 
+criminal case always either (1) to file a notice of appeal, 
+or (2) to discuss the possibility of appeal with the defen- 
+dant. Jd. at 478 The Court noted that in such circum- 
+stances as a guilty plea, it is difficult to say counsel acted 
+
+professionally unreasonably by not consulting with the 
+client about an appeal. Jd. at 479. 
+
+Interestingly, Roe held that the Strickland test gov- 
+erns counsel's failure to file a notice of appeal, but the 
+Court adopted an unusual rule for “prejudice.” One 
+would think the test for prejudice resulting from failure 
+to file a notice of appeal would be whether there were 
+any non-frivolous issues available to appeal. Yet the 
+Court remarkably held that prejudice in this case is 
+
+
+42. 
+
+
+whether, had the defendant known of his right to 
+appeal, he would have taken it: 
+
+
+Accordingly, we hold that, to show prejudice in these 
+circumstances, a defendant must demonstrate that 
+there is a reasonable probability that, but for coun- 
+sel’s deficient failure to consult with him about an 
+appeal, he would have timely appealed. 
+
+Roe, 470 U.S. at 484 
+
+
+Though the Court states it applied a Strickland test, 
+the test enunciated looks far more like a per se pre- 
+sumption of prejudice than a Strickland type analysis. 
+After all, in order for there to be deficient performance, 
+the attorney has to fail to file a notice of appeal (1) 
+against the client’s express wishes, or (2) when it is obvi- 
+ous that a client would want to appeal. Demonstrating 
+the improper failure to file the notice of appeal (i.e. defi- 
+cient performance) almost necessarily demonstrates Roe 
+prejudice. If one applied the Roe prejudice test to Gary 
+Cone’s case, the analysis would be whether Gary Cone, 
+had he known his lawyer was planning to fail to make a 
+case for his life by not presenting proof and not making 
+a closing argument, would Cone have consented to these 
+tactics. Under the Roe test Gary Cone has proven preju- 
+dice since (1) he was not consulted by Dice with regard 
+to failing to make a case for life, and (2) no reasonable 
+grounds exist for failing to make a case for life in the 
+penalty phase of a capital case. 
+
+Roe also did not involve a total abdication of advocacy. 
+Recall that the issue in Roe centered around an attorney 
+who failed to file a notice of appeal following the defen- 
+dant’s guilty plea. As this Court stated, it is not neces- 
+sarily professionally unreasonable to fail to consult with 
+a client about an appeal following a guilty plea. One 
+could reasonably expect that the guilty plea concluded 
+
+
+43. 
+
+
+the case. Granted, there are some cases where failing to 
+file a notice of appeal could be a total abdication of advo- 
+cacy, such as the failure to file a notice of appeal after a 
+capital trial where the defendant has been sentenced to 
+death - but those facts were not before the Court in Roe. 
+
+Finally, Roe reaffirms the rule of Cronic that prejudice 
+will be presumed if there is a constructive denial of counsel: 
+
+
+In some cases, however, the defendant alleges not 
+that counsel made specific errors in the course of 
+representation, but rather that during the judi- 
+cial proceeding he was - either actually or con- 
+structively-denied the assistance of counsel alto- 
+gether. “The presumption that counsel’s assis- 
+tance is essential requires us to conclude that a 
+trial is unfair if the accused is denied counsel at 
+a critical stage.” Cronic, supra, at 659... Under 
+such circumstances, “[njo specific showing of 
+prejudice [is] required” because “the adversary 
+process itself [is] presumptively unreliable.” 
+Cronic, supra, at 659. 
+
+
+Roe, 528 U.S. at 483 (emphasis supplied) 
+
+
+Gary Cone’s case presents a defense attorney who 
+ceased to function as an advocate at the sentencing hear- 
+ing. The jury never heard why the mental health evidence 
+they had just found insufficient to support a defense of 
+amphetamine psychosis nonetheless could count as miti- 
+gation and justify a life sentence. No coherent argument 
+to save Gary Cone’s life was presented to the jury, dis- 
+cussing his service to his country. The jury was left with 
+an impression that defense counsel simply was at a loss 
+to respond to the state’s case for death. Gary Cone’s sen- 
+tencing hearing thus was qualitatively different than the 
+cases cited by petitioner. 
+
+
+44. 
+
+
+Il. IF THE COURT CONCLUDES THAT THE 
+SIXTH CIRCUIT ERRED IN GRANTING 
+HABEAS RELIEF UNDER CRONIC, IT 
+SHOULD REMAND THIS CASE TO THE 
+COURT OF APPEALS FOR CONSIDERA- 
+TION OF GARY CONE’S SIXTH AMEND- 
+MENT CLAIMS UNDER STRICKLAND. 
+
+Because the Sixth Circuit resolved Cone’s ineffective 
+assistance of counsel claims by relying upon Cronic, it was 
+unnecessary for that court to consider how Cone’s ineffec- 
+tive assistance of counsel claims should be resolved under 
+the two-pronged test of Strickland v. Washington. This 
+Court does not ordinarily pass upon questions that were 
+not considered and decided by the lower courts. See, e.g. 
+Gilbert v. Homar, 520 U.S. 924, 935-936 (1997); Wright v. 
+West, 505 U.S. 277, 297 (1992). If therefore, this Court con- 
+cludes that Strickland provides the Sixth Amendment 
+rule applicable to Cone’s circumstances, it should remand 
+this case to the Sixth Circuit to apply Strickland’s two 
+pronged test to the record facts. 
+
+Such a disposition would be required by Supreme 
+Court Rule 14.1(a) which states “Only the questions set 
+out in the petition [for certiorari], or fairly included 
+therein, will be considered by the Court.” The certiorari 
+petition here raised solely the questions (1) whether the 
+Court of Appeals had improperly applied a de novo stan- 
+dard of review in alleged contravention of 28 U.S.C. 
+§2254(d), and (2) whether the Court of Appeals had 
+improperly bypassed the rules of Strickland by deciding 
+Cone’s Sixth Amendment claim under Cronic. No ques- 
+tion of the proper application of Strickland itself to the 
+facts of this record is subsumed in either of these ques- 
+
+There are additional reasons why a remand to the 
+Sixth Circuit to apply Strickland to the facts in this case 
+
+
+45 
+
+
+is particularly appropriate if Cone’s ineffective assis- 
+tance of counsel claim is not resolved in his favor under 
+Cronic. First of all, in analyzing Cone’s ineffective assis- 
+tance of counsel claim under Strickland, the District 
+Court below used an incorrect legal standard. The 
+District Court took the view that Lockhart v. Fretwell, 
+506 U.S. 364 (1993) had qualified Strickland - precisely 
+the same error that the Supreme Court of Virginia made 
+in the (Terry) Williams case (Pet. App. 78-80): 
+
+
+“Thus an analysis focusing solely on mere out- 
+come determination, without attention to 
+whether the result of the proceeding was found 
+fundamentally unfair, or unreliable, is defective.” 
+Fretwell, 506 U.S. at 369. 
+
+
+(Pet. App. 79) 
+
+
+In Williams v. Taylor, this Court held the Virginia 
+Supreme Court’s decision was contrary to clearly estab- 
+lished federal law “to the extent that it held that our 
+decision in Lockhart v. Fretwell....somehow modified or 
+supplanted the rule se* forth in Strickland.” Williams, 
+529 U.S. at 413. The Virginia Supreme Court’s decision 
+was contrary to Strickland because the Virginia Court 
+also required a showing that the result of the criminal 
+proceeding was fundamentally unfair or unreliable. 
+Williams 529 US. at 414. 
+
+Dissenting in Williams, the Chief Justice noted that 
+the Virginia Supreme Court did also inquire into 
+whether Williams had demonstrated prejudice under 
+Strickland and found none. Williams, 529 U.S. 417-418. 
+But, as Justice O’Connor notes in her opinion: 
+
+
+46 
+
+
+It is impossible to determine, however, the extent 
+to which the Virginia Supreme Court’s error with 
+respect to its reading of Lockhart affected its ulti- 
+mate finding that Williams suffered no prejudice. 
+
+
+Williams 529 U.S. at 414 (O’Connor concurring) 
+
+
+Thus, even though the Virginia Court arguably ana- 
+lyzed Williams’ claims under Strickland as well, a 
+remand was necessary for consideration under the prop- 
+er rule. The same rationale applies in this case. The 
+Sixth Circuit never addressed the District Court’s erro- 
+neous application of Fretwell since the Sixth Circuit 
+decided this case under Cronic. The District Court’s 
+flawed Strickland analysis of Cone’s ineffective assis- 
+tance of counsel claim should be subjected to appellate 
+review, and the Court of Appeals is the proper forum to 
+conduct such review in the first instance. Yist v. 
+Nunnemaker, 501 U.S. 797, 806 (1991). 
+
+The District Court also took the view that federal 
+habeas analysis of Cone’s Sixth Amendment claim was 
+limited to counsel’s failing to present or argue the miti- 
+gating evidence which trial counsel had in hand. (Pet. 
+App. 55-64, 79) This restriction was based upon a hold- 
+ing that Cone’s complaint of counsel’s inadequate inves- 
+tigation of mitigating circumstances was procedurally 
+_ defaulted. (Pet. App. 79)?! The procedural default ruling 
+was in turn based upon a finding that the Tennessee 
+courts had invoked an adequate and independent state 
+ground when they dismissed an ineffective assistance 
+claim including allegations of inadequate investigation 
+21 See e.g., R71, Petition for Writ of Habeas Corpus, 140a (failure of 
+
+counsel to investigate Cone’s background) 440b (failure of counsel 
+
+
+~ secure adequate expert assistance), 440d, 440e, 440f, 140n, 
+4000. 
+
+
+47 
+
+
+of mitigating circumstances, presented in Cone’s second 
+state post conviction petition, on the theory that such a 
+claim had been “previously determined” in Cone’s first 
+post conviction proceeding. The state court in ruling 
+upon Cone’s first post conviction petitiou rejected an inef- 
+fective assistance claim that did not include allegations 
+of inadequate investigation. Cone v. State, 927 S.W. 2d 
+579, 581-582 (Tenn. Cr. App. 1995). (Pet. App. 55-62) 
+Both in the state courts and in the federal courts 
+below, Cone argued that preclusion of the inadequate 
+investigation components of his ineffective assistance of 
+counsel claim was not based upon an adequate and inde- 
+pendent state ground because it was only in Cone’s own 
+case that the Tennessee Courts first construed the “pre- 
+viously determined” clause of the applicable Tennessee 
+post conviction statute?2 as applying to previously 
+unraised aspects of a general claim previously raised in 
+other aspects. Cone v. State, 927 S.W.2d 579, 581-582 
+(Tenn. Crim. App. 1995). This construction was there- 
+fore not firmly established at the time it was applied to 
+Cone. Ford v. Georgia, 498 U.S. 411, 425 (1991). 
+“Novelty in procedural requirements cannot be permit- 
+ted to thwart review in ...[federal court] applied for by 
+those who, in justified reliance upon prior decisions, 
+seek vindication in state courts of their federal constitu- 
+tional rights.” Id. at 423, quoting N.A.A.C.P. v. Alabama 
+ex rel Patterson, 357 U.S. 449, 457-458 (1958). See also 
+Lee v. Kernna, 70 USLW 4104 (U.S. Jan. 22, 2002). 
+Though the District Court rejected this analysis (Pet. 
+App. 55-62), the procedural default issue surrounding 
+some of Gary Cone’s Sixth Amendment claims was never 
+ruled upon by the Sixth Circuit. Since much of what the 
+
+
+22Tenn. Code Ann. §$40-30-112(a) (1990) (repealed) (A ground for 
+relief is “previously determined” if a court of competent jurisdic- 
+tion has ruled on the merits after a full and fair hearing.) 
+
+
+: 48 
+
+
+District Court held procedurally defaulted would be 
+directly relevant to establishing prejudice under 
+Strickland, a Strickland prejudice analysis could not be 
+applied in this case until the procedural default ques- 
+tion is decided. This precise procedural default question 
+was not addressed by the Sixth Circuit in light of the 
+court’s granting relief under Cronic.23 
+
+Furthermore, Cone had “cause” for any procedural 
+default of a claim of ineffective assistance of counsel 
+based on counsel’s investigative failings because, at the 
+time of Cone’s first state post conviction proceeding, state 
+law barred any allowance of funds for investigative or 
+expert assistance to develop such a claim or any other 
+grounds for post conviction relief. Teague v. State, 772 
+S.W. 2d 915, 927 (Tenn Cr. App. 1988) (capital post con- 
+viction petitioner not entitled to funds). The right to 
+funding for expert and investigative assistance in state 
+capital post conviction proceedings only became avail- 
+able in 1995, nearly a decade after Gary Cone’s first post 
+conviction petition was filed. See Owens v. State, 908 
+S.W. 2d 923, 929 (Tenn. 1995). Cone thus cannot be fault- 
+ed for failing to develop these claims in the state courts. 
+See (Michael) Williams v. Taylor, 529 U.S. 420, 432 
+(2000). Again, though these arguments were rejected by 
+the District Court, they were never addressed by the 
+Sixth Circuit in light of its granting sentencing relief 
+under Cronic. Because the claims held by the District 
+Court to be procedurally defaulted bear directly on proof 
+
+
+23'The Sixth Circuit did address a separate procedural default issue 
+concerning whether other particular claims raised in Cone’s sec- 
+ond post conviction petition were waived under state law, in light 
+of the language in the Tennessee Post Conviction Statute requir- 
+ing a waiver of a claim to be knowing and understanding. (Pet. 
+App. 23-26) see T.C.A. §40-30-112(b) (1990repealed). The argu- 
+ment discussed here, however, was not addressed by the Sixth 
+Circuit. 
+
+
+49 
+
+
+of prejudice under Strickland, they must be considered 
+before a Strickland prejudice analysis is undertaken. 
+
+The proper consideration of all of these facets of Cone’s 
+ineffective assistance of counsel claim under Strickland 
+requires detailed analysis of the interplay of Tennessee 
+state law with the relevant procedural default rules, and 
+the Sixth Circuit is the proper forum to conduct such an 
+analysis. See, e.g. Selvage v. Collins, 494 U.S. 108, 110 
+(1990); South Carolina v. Catawba Indian Tribe, Inc., 
+476 U.S. 498, 511 (1986). See also, U.S. v. Cronic, 66 US 
+at 666-667 (Case remanded to Tenth Circuit to conduct 
+Strickland type analysis). 
+
+
+50 
+CONCLUSION 
+
+
+For the reasons set forth herein, the judgment of the 
+United States Court of Appeals for the Sixth Circuit 
+should be affirmed. 
+
+
+Respectfully Submitted, 
+
+
+Robert L. Hutton 
+
+Counsel of Record 
+Glankler Brown, PLLC 
+1700 One Commerce 
+Square 
+
+Memphis, Tennessee 38103 
+(901) 525-1322 
+
+
+Attorney for 
+Gary Bradford Cone 
+
+

@@ -1,0 +1,47 @@
+# OT2001 chunk 5 comparator source inventory
+
+Saved primary opinion texts for control and reconciliation only. They must not be sent to neutral preparation or independent modeling. Retrieval and text extraction alone do not establish full substantive verification; each reconciliation receipt identifies the complete writings actually reviewed.
+
+- [00-1214.ZD.txt](../sources/chunk5-comparator/00-1214.ZD.txt): https://www.law.cornell.edu/supct/html/00-1214.ZD.html
+- [00-1214.ZO.txt](../sources/chunk5-comparator/00-1214.ZO.txt): https://www.law.cornell.edu/supct/html/00-1214.ZO.html
+- [00-1214.ZS.txt](../sources/chunk5-comparator/00-1214.ZS.txt): https://www.law.cornell.edu/supct/html/00-1214.ZS.html
+- [00-1293.ZC.txt](../sources/chunk5-comparator/00-1293.ZC.txt): https://www.law.cornell.edu/supct/html/00-1293.ZC.html
+- [00-1293.ZC1.txt](../sources/chunk5-comparator/00-1293.ZC1.txt): https://www.law.cornell.edu/supct/html/00-1293.ZC1.html
+- [00-1293.ZC2.txt](../sources/chunk5-comparator/00-1293.ZC2.txt): https://www.law.cornell.edu/supct/html/00-1293.ZC2.html
+- [00-1293.ZD.txt](../sources/chunk5-comparator/00-1293.ZD.txt): https://www.law.cornell.edu/supct/html/00-1293.ZD.html
+- [00-1293.ZO.txt](../sources/chunk5-comparator/00-1293.ZO.txt): https://www.law.cornell.edu/supct/html/00-1293.ZO.html
+- [00-1293.ZS.txt](../sources/chunk5-comparator/00-1293.ZS.txt): https://www.law.cornell.edu/supct/html/00-1293.ZS.html
+- [00-1531.ZC.txt](../sources/chunk5-comparator/00-1531.ZC.txt): https://www.law.cornell.edu/supct/html/00-1531.ZC.html
+- [00-1531.ZC1.txt](../sources/chunk5-comparator/00-1531.ZC1.txt): https://www.law.cornell.edu/supct/html/00-1531.ZC1.html
+- [00-1531.ZO.txt](../sources/chunk5-comparator/00-1531.ZO.txt): https://www.law.cornell.edu/supct/html/00-1531.ZO.html
+- [00-1531.ZS.txt](../sources/chunk5-comparator/00-1531.ZS.txt): https://www.law.cornell.edu/supct/html/00-1531.ZS.html
+- [00-1543.ZO.txt](../sources/chunk5-comparator/00-1543.ZO.txt): https://www.law.cornell.edu/supct/html/00-1543.ZO.html
+- [00-1543.ZS.txt](../sources/chunk5-comparator/00-1543.ZS.txt): https://www.law.cornell.edu/supct/html/00-1543.ZS.html
+- [00-511.ZO.txt](../sources/chunk5-comparator/00-511.ZO.txt): https://www.law.cornell.edu/supct/html/00-511.ZO.html
+- [00-511.ZS.txt](../sources/chunk5-comparator/00-511.ZS.txt): https://www.law.cornell.edu/supct/html/00-511.ZS.html
+- [00-511.ZX.txt](../sources/chunk5-comparator/00-511.ZX.txt): https://www.law.cornell.edu/supct/html/00-511.ZX.html
+- [01-131.ZD.txt](../sources/chunk5-comparator/01-131.ZD.txt): https://www.law.cornell.edu/supct/html/01-131.ZD.html
+- [01-131.ZO.txt](../sources/chunk5-comparator/01-131.ZO.txt): https://www.law.cornell.edu/supct/html/01-131.ZO.html
+- [01-131.ZS.txt](../sources/chunk5-comparator/01-131.ZS.txt): https://www.law.cornell.edu/supct/html/01-131.ZS.html
+- [01-298.ZO.txt](../sources/chunk5-comparator/01-298.ZO.txt): https://www.law.cornell.edu/supct/html/01-298.ZO.html
+- [01-298.ZS.txt](../sources/chunk5-comparator/01-298.ZS.txt): https://www.law.cornell.edu/supct/html/01-298.ZS.html
+- [01-400.ZD.txt](../sources/chunk5-comparator/01-400.ZD.txt): https://www.law.cornell.edu/supct/html/01-400.ZD.html
+- [01-400.ZO.txt](../sources/chunk5-comparator/01-400.ZO.txt): https://www.law.cornell.edu/supct/html/01-400.ZO.html
+- [01-400.ZS.txt](../sources/chunk5-comparator/01-400.ZS.txt): https://www.law.cornell.edu/supct/html/01-400.ZS.html
+- [01-46.ZD.txt](../sources/chunk5-comparator/01-46.ZD.txt): https://www.law.cornell.edu/supct/html/01-46.ZD.html
+- [01-46.ZD1.txt](../sources/chunk5-comparator/01-46.ZD1.txt): https://www.law.cornell.edu/supct/html/01-46.ZD1.html
+- [01-46.ZO.txt](../sources/chunk5-comparator/01-46.ZO.txt): https://www.law.cornell.edu/supct/html/01-46.ZO.html
+- [01-46.ZS.txt](../sources/chunk5-comparator/01-46.ZS.txt): https://www.law.cornell.edu/supct/html/01-46.ZS.html
+- [01-687.ZO.txt](../sources/chunk5-comparator/01-687.ZO.txt): https://www.law.cornell.edu/supct/html/01-687.ZO.html
+- [01-687.ZS.txt](../sources/chunk5-comparator/01-687.ZS.txt): https://www.law.cornell.edu/supct/html/01-687.ZS.html
+- [mathias-535us682.txt](../sources/chunk5-comparator/mathias-535us682.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535682/usrep535682.pdf
+- [usrep535467.txt](../sources/chunk5-comparator/usrep535467.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535467/usrep535467.pdf
+- [usrep535564.txt](../sources/chunk5-comparator/usrep535564.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535564/usrep535564.pdf
+- [usrep535613.txt](../sources/chunk5-comparator/usrep535613.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535613/usrep535613.pdf
+- [usrep535625.txt](../sources/chunk5-comparator/usrep535625.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535625/usrep535625.pdf
+- [usrep535635.txt](../sources/chunk5-comparator/usrep535635.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535635/usrep535635.pdf
+- [usrep535654.txt](../sources/chunk5-comparator/usrep535654.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535654/usrep535654.pdf
+- [usrep535685.txt](../sources/chunk5-comparator/usrep535685.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535685/usrep535685.pdf
+- [usrep535722.txt](../sources/chunk5-comparator/usrep535722.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535722/usrep535722.pdf
+- [usrep535743.txt](../sources/chunk5-comparator/usrep535743.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535743/usrep535743.pdf
+- [usrep535789.txt](../sources/chunk5-comparator/usrep535789.txt): https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535789/usrep535789.pdf
