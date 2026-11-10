@@ -2,9 +2,9 @@
 
 **+ = a simulation-added lower-court merits case.** Lower-court identifiers are retained; no Supreme Court docket or historical grant is invented for these matters.
 
-124 unique MERITS matters: 84 historical matters and 40 lower-court additions. The 40 comprise 25 retained cases and 15 additions. Consolidated companions count once. Eight chunks contain 16, 16, 16, 16, 15, 15, 15 and 15 cases.
+127 unique MERITS matters: 86 historical matters and 41 lower-court additions. The 41 comprise 25 retained cases and 16 additions. Consolidated companions count once. Eight chunks contain 16, 16, 16, 16, 15, 15, 18 and 15 cases.
 
-Historical event dates and the 25 retained simulation assignments remain unchanged. Dates for the 15 new matters are proposed simulation placements after the relevant lower-court decisions. The original order is preserved within each date, followed by newly added matters on that date. Stewart v. Smith appears only on June 28, 2002.
+Historical event dates and the 25 retained simulation assignments remain unchanged, except that Robertson v. Bartels is placed on June 20, 2002 with Page v. Bartels, which challenges the same New Jersey map. Dates for the 16 new matters are proposed simulation placements after the relevant lower-court decisions. The original order is preserved within each date, followed by newly added matters on that date. Stewart v. Smith appears only on June 28, 2002.
 
 ## OT_2001CHUNK1
 
@@ -142,6 +142,7 @@ Historical event dates and the 25 retained simulation assignments remain unchang
 | 100 | OT_2001CHUNK7 | Horn v. Banks | No. 01-1385; 536 U.S. 266 | 2002-06-17 | Historical | Per curiam disposition | MERITS | Habeas corpus: nonretroactivity and statutory review |
 | 101 | OT_2001CHUNK7 | United States v. Hooper + | 229 F.3d 818 (9th Cir. 2000) | 2002-06-17 | Proposed simulation placement | Merits decision | MERITS | Criminal forfeiture: innocent spouses and proceeds |
 | 102 | OT_2001CHUNK7 | Ticknor v. Choice Hotels International, Inc. + | 265 F.3d 931 (9th Cir. 2001); lower-court No. 00-35048 | 2002-06-17 | Proposed simulation placement | Merits decision | MERITS | Arbitration: choice of law and general unconscionability |
+| 127 | OT_2001CHUNK7 | Balderas v. Texas | No. 01-1196; 536 U.S. 919 | 2002-06-17 | Historical | Merits decision | MERITS | Voting rights: crossover capacity in a court-drawn congressional plan |
 | 103 | OT_2001CHUNK7 | Gonzaga University v. Doe | No. 01-679; 536 U.S. 273 | 2002-06-20 | Historical | Merits decision | MERITS | Civil rights: enforcement of student-record privacy |
 | 104 | OT_2001CHUNK7 | Atkins v. Virginia | No. 00-8452; 536 U.S. 304 | 2002-06-20 | Historical | Merits decision | MERITS | Capital punishment: intellectual disability |
 | 105 | OT_2001CHUNK7 | Dadian v. Village of Wilmette + | 269 F.3d 831; appeal from Northern District of Illinois No. 98 C 3731 | 2002-06-20 | Supplied simulation assignment | Merits decision | MERITS | Disability and land use: driveway accommodation |
@@ -149,6 +150,8 @@ Historical event dates and the 25 retained simulation assignments remain unchang
 | 107 | OT_2001CHUNK7 | Christopher v. Harbury | No. 01-394; 536 U.S. 403 | 2002-06-20 | Historical | Merits decision | MERITS | Constitutional remedies: obstructed access to courts |
 | 108 | OT_2001CHUNK7 | City of Columbus v. Ours Garage & Wrecker Service, Inc. | No. 01-419; 536 U.S. 424 | 2002-06-20 | Historical | Merits decision | MERITS | Federal preemption: municipal tow-truck safety regulation |
 | 109 | OT_2001CHUNK7 | Utah v. Evans | No. 01-714; 536 U.S. 452 | 2002-06-20 | Historical | Merits decision | MERITS | Census: imputation, apportionment and redressability |
+| 125 | OT_2001CHUNK7 | Page v. Bartels + | 144 F. Supp. 2d 346 (D.N.J. 2001); district-court No. 01-1733 | 2002-06-20 | Proposed simulation placement | Merits decision | MERITS | Voting rights: legislative redistricting and electoral opportunity |
+| 126 | OT_2001CHUNK7 | Robertson v. Bartels | No. 01-721; 534 U.S. 1110 | 2002-06-20 | Proposed simulation placement | Merits decision | MERITS | Redistricting: nonparty preclusion and racial territorial design |
 
 ## OT_2001CHUNK8
 
@@ -176,4 +179,4 @@ Johnson v. Board of Regents is excluded. People Who Care v. Rockford Board of Ed
 
 The entering legal baseline runs through June 28, 2001, including completed OT2000 decisions. No unrendered OT2001 position is treated as precedent. Each brief identifies material unresolved dependencies and keeps its historical comparator in Section III.
 
-All 124 Section II positions are approved by the user. Approval establishes Stone’s positions; it does not establish a judgment or votes of the Court. Questions for the lower-court additions define the proposed simulated scope; they do not purport to reproduce a historical Supreme Court grant. Historical-case formulations follow the verified review scope, with any unrecovered petition wording or material record limitation stated in the brief. Steele’s approved position dismisses review as improvidently granted because the continuing-controversy record is unresolved, leaving Ohio’s judgment undisturbed.
+All 127 Section II positions are approved by the user. Approval establishes Stone’s positions; it does not establish a judgment or votes of the Court. Questions for the lower-court additions define the proposed simulated scope; they do not purport to reproduce a historical Supreme Court grant. Historical-case formulations follow the verified review scope, with any unrecovered petition wording or material record limitation stated in the brief. Steele’s approved position dismisses review as improvidently granted because the continuing-controversy record is unresolved, leaving Ohio’s judgment undisturbed.
