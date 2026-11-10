@@ -218,7 +218,7 @@ SCALIA, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and
 
 ##### I. Sales that execute a concealed appropriation plan are connected with the deception
 
-**Holding and operative rule:** A broker who, with the required culpable state of mind and in breach of a duty to customers, secretly sells their entrusted securities for a contemporaneously concealed purpose of appropriating the proceeds commits deception in connection with the sales under §10(b) and Rule 10b-5 when the liquidation is an integral means of executing that plan. No false statement about the securities' value is required, but the actual sales, deceptive conduct and operative connection must be established, together with the applicable interstate-means and Rule 10b-5 conditions; a later independently conceived misuse of proceeds from an honestly completed sale does not satisfy this rule.
+**Holding and operative rule:** A broker who, with the required scienter and in breach of a duty to customers, secretly sells their entrusted securities for a contemporaneously concealed purpose of appropriating the proceeds commits deception in connection with the sales under §10(b) and Rule 10b-5 when the liquidation is an integral means of executing that plan. No false statement about the securities' value is required, but the actual sales, deceptive conduct and operative connection must be established, together with the applicable interstate-means and Rule 10b-5 conditions; a later independently conceived misuse of proceeds from an honestly completed sale does not satisfy this rule.
 
 **Authority:** Part I of Scalia's unanimous opinion of the Court controls this complete statutory rule and its application to the alleged scheme.
 
@@ -250,7 +250,7 @@ On remand, the court must determine what the civil record establishes, which fac
 
 #### Law After Decision
 
-Section 10(b) and Rule 10b-5 reach actual securities sales that execute a contemporaneous concealed plan to appropriate customer assets when the ordinary duty, culpable-state-of-mind, deception, interstate-means and transaction conditions are met. Fair market price and discretionary authority create no categorical exception. The rule excludes a nexus based only on status, custody or independently conceived later theft, and preserves civil proof and remedial requirements. The independent statutory construction supplies the decision without resolving a further claim to controlling deference for the SEC's early adjudications.
+Section 10(b) and Rule 10b-5 reach actual securities sales that execute a contemporaneous concealed plan to appropriate customer assets when the ordinary duty, scienter, deception, interstate-means and transaction conditions are met. Fair market price and discretionary authority create no categorical exception. The rule excludes a nexus based only on status, custody or independently conceived later theft, and preserves civil proof and remedial requirements. The independent statutory construction supplies the decision without resolving a further claim to controlling deference for the SEC's early adjudications.
 
 #### Source Notes
 
@@ -750,7 +750,7 @@ Kennedy also dissents, joined by Scalia and Thomas, adopting the common actual-s
 
 #### Source Notes
 
-U.S. Const. amend. V; 224 F.3d 1175; No. 00-1187, petition, merits briefs and joint appendix 13–37, 59–81, 85–98. The concrete policy consequences are established; competing officials' statements do not establish particular additional danger. The record establishes no immunity or inevitable parole consequence.
+U.S. Const. amend. V; 224 F.3d 1175; No. 00-1187, petition, merits briefs and joint appendix 13–37, 59–81, 85–98. The concrete policy consequences are established; competing officials' statements do not establish particular additional danger. The record establishes no immunity, inevitable parole consequence or clinical-effectiveness finding.
 
 #### Mandate, Remedy, and Stage
 
