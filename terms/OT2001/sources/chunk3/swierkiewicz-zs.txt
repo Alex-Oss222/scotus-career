@@ -1,0 +1,23 @@
+SWIERKIEWICZ V. SOREMA N. A.
+LII
+Supreme Court
+SWIERKIEWICZ V. SOREMA N. A. (00-1853)
+5 Fed. Appx. 63, reversed and remanded.
+Syllabus
+Opinion
+[ Thomas ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+SWIERKIEWICZ v. SOREMA N. A.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+No. 00—1853. Argued January 15, 2002–Decided February 26, 2002
+Petitioner, a 53-year-old native of Hungary, filed this suit against respondent, his former employer, alleging that he had been fired on account of his national origin in violation of Title VII of the Civil Rights Act of 1964, and on account of his age in violation of the Age Discrimination in Employment Act of 1967 (ADEA). In affirming the District Court’s dismissal of the complaint, the Second Circuit relied on its settled precedent requiring an employment discrimination complaint to allege facts constituting a prima facie case of discrimination under the framework set forth in McDonnell Douglas Corp. v. Green, 411 U.S. 792, 802. The court held that petitioner had failed to meet his burden because his allegations were insufficient as a matter of law to raise an inference of discrimination.
+Held: An employment discrimination complaint need not contain specific facts establishing a prima facie case under the McDonnell Douglas framework, but instead must contain only “a short and plain statement of the claim showing that the pleader is entitled to relief,” Fed. Rule Civ. Proc. 8(a)(2). The McDonnell Douglas framework–which requires the plaintiff to show (1) membership in a protected group, (2) qualification for the job in question, (3) an adverse employment action, and (4) circumstances supporting an inference of discrimination–is an evidentiary standard, not a pleading requirement. See, e.g., 411 U.S., at 800. The Court has never indicated that the requirements for establishing a prima facie case apply to pleading. Moreover, the McDonnell Douglas framework does not apply where, for example, a plaintiff is able to produce direct evidence of discrimination. See Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 121. Under the Second Circuit’s heightened pleading standard, however, a plaintiff without direct evidence at the time of his complaint must plead a prima facie case of discrimination even though discovery might uncover such direct evidence. It seems incongruous to require a plaintiff, in order to survive a motion to dismiss, to plead more facts than he may ultimately need to prove to succeed on the merits if direct evidence of discrimination is discovered. Moreover, the precise requirements of the prima facie case can vary with the context and were “never intended to be rigid, mechanized, or ritualistic.” Furnco Constr. Corp. v. Waters, 438 U.S. 567, 577. It may be difficult to define the precise formulation of the required prima facie case in a particular case before discovery has unearthed relevant facts and evidence. Consequently, the prima facie case should not be transposed into a rigid pleading standard for discrimination cases. Imposing the Second Circuit’s heightened standard conflicts with Rule 8(a)’s express language, which requires simply that the complaint “give the defendant fair notice of what the plaintiff’s claim is and the grounds upon which it rests.” Conley v. Gibson, 355 U.S. 41, 47. A court may dismiss a complaint only if it is clear that no relief could be granted under any set of facts that could be proved consistent with the allegations. Hishon v. King & Spalding, 467 U.S. 69, 73. Petitioner’s complaint easily satisfies Rule 8(a)’s requirements because it gives respondent fair notice of the basis for his claims and the grounds upon which they rest. In addition, it states claims upon which relief could be granted under Title VII and the ADEA. Thus, the complaint is sufficient to survive respondent’s motion to dismiss. Pp. 3—9.
+5 Fed. Appx. 63, reversed and remanded.
+Thomas, J., delivered the opinion for a unanimous Court.

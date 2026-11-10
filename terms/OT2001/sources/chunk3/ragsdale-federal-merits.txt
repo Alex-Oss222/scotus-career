@@ -1,0 +1,480 @@
+No. 00-6029
+In the Supreme Court of the United States
+
+TRACY RAGSDALE, ET AL., PETITIONERS v.
+WOLVERINE WORLDWIDE, INC.
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+FOR THE EIGHTH CIRCUIT
+
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE SUPPORTING PETITIONERS
+
+HOWARD M. RADZELY Acting Solicitor of Labor
+ALLEN H. FELDMAN Associate Solicitor
+NATHANIEL I. SPILLER Deputy Associate Solicitor
+ELLEN L. BEARD Attorney Department of Labor Washington, D.C. 20210
+
+THEODORE B. OLSON Solicitor General Counsel of Record
+EDWIN S. KNEEDLER Deputy Solicitor General
+MALCOLM L. STEWART Assistant to the Solicitor General
+Department of Justice Washington, D.C. 20530-0001 (202) 514–2217
+
+QUESTION PRESENTED
+The Family and Medical Leave Act of 1993 (FMLA or Act) requires covered employers to provide eligible employees with “a total of 12 workweeks of leave during any 12-month period” for specified reasons, 29 U.S.C. 2612(a)(1), including leave needed “[b]ecause of a serious health condition that makes the employee unable to perform the functions of the position of such employee,” 29 U.S.C. 2612(a)(1)(D). The FMLA directs the Secretary of Labor to “prescribe such regulations as are necessary to carry out” the Act’s substantive provisions. 29 U.S.C. 2654. The question presented is as follows:
+Whether the Secretary has acted permissibly in providing by regulation that (with certain exceptions) employer-provided leave does not count against the Act’s 12-week entitlement until the employer notifies the employee of its designation as FMLA leave.
+(I)
+
+TABLE OF CONTENTS
+Interest of the United States ...................................................... Statement ........................................................................................ Summary of argument .................................................................. Argument:
+The Secretary’s regulations concerning an employer’s designation of leave constitute a reasonable implementation of the Family and Medical Leave Act .............................................................................................
+I. The regulation at issue in this case is reasonably related to the purposes of the Act ................................................................................
+II. The court of appeals erred in holding that 29 C.F.R. 825.700(a) is inconsistent with Congress’s decision to mandate only 12 weeks of FMLA leave ...........................................................
+Conclusion .......................................................................................
+
+Page 1 1 9
+12
+14
+21 30
+
+TABLE OF AUTHORITIES
+
+Cases:
+
+Bachelder v. America W. Airlines, Inc.,
+
+No. 99-17458, 2001 WL 883701 (9th Cir. Aug. 8,
+
+2001) .........................................................................................
+
+26
+
+Batterton v. Francis, 432 U.S. 416 (1977) .........................
+
+13
+
+Chevron U.S.A. Inc. v. Natural Res. Def. Council,
+
+Inc., 467 U.S. 837 (1984) .............................................. 13, 21, 27
+
+Clifton v. FEC, 114 F.3d 1309 (1st Cir. 1997),
+
+cert denied, 522 U.S. 1108 (1998) ........................................
+
+22
+
+Cox v. AutoZone, Inc., 990 F. Supp. 1369 (M.D.
+
+Ala. 1998), aff ’d sub nom. McGregor v. AutoZone,
+
+Inc., 180 F.3d 1305 (11th Cir. 1999) ...................................
+
+7
+
+Gemsco, Inc. v. Walling, 324 U.S. 244 (1945) ...................
+
+23
+
+Longstreth v. Copple, 189 F.R.D. 401 (N.D. Iowa
+
+1999) .........................................................................................
+
+8
+
+Massachusetts v. Morash, 490 U.S. 107 (1989) ................
+
+28
+
+(III)
+
+IV
+
+Cases—Continued:
+
+Page
+
+McGregor v. AutoZone, Inc., 180 F.3d 1305 (11th
+
+Cir. 1999) .................................................................................
+
+7
+
+Mourning v. Family Publ’ns Serv., Inc., 411 U.S.
+
+356 (1973) ............................................................ 12, 14, 21, 22, 23
+
+NLRB v. Fleetwood Trailer Co., 389 U.S. 375
+
+(1967) ........................................................................................
+
+26
+
+Northcross v. Board of Educ., 412 U.S. 427 (1973) ..........
+
+26
+
+Plant v. Morton Int’l, Inc., 212 F.3d 929 (6th Cir.
+
+2000) ......................................................................................... 23, 27
+
+Rennie v. Garrett, 896 F.2d 1057 (7th Cir. 1990) .............
+
+24
+
+Texas Rural Legal Aid, Inc. v. Legal Servs. Corp.,
+
+940 F.2d 685 (D.C. Cir. 1991) ...............................................
+
+23
+
+United States v. Locke, 471 U.S. 84 (1985) ........................
+
+25
+
+United States v. Mead Corp., 121 S. Ct. 2164
+
+(2001) ........................................................................................
+
+13
+
+United States v. O’Hagan, 521 U.S. 642 (1997) .......... 13, 22, 23
+
+Statutes and regulations:
+
+Administrative Procedure Act, 5 U.S.C. 701 et seq.: 5 U.S.C. 706(2)(A) .................................................................. 5 U.S.C. 706(2)(C) ..................................................................
+Family and Medical Leave Act of 1993, 29 U.S.C. 2601 et seq. ............................................................................... 29 U.S.C. 2601(a)(3) .......................................................... 29 U.S.C. 2601(a)(4) .......................................................... 29 U.S.C. 2601(b)(2) .......................................................... 29 U.S.C. 2611-2619 .......................................................... 29 U.S.C. 2611(2)(A)(i) ..................................................... 29 U.S.C. 2611(4)(A)(i) ..................................................... 29 U.S.C. 2612(a)(1)(A)-(C) ............................................. 29 U.S.C. 2612(a)(1)(C) ..................................................... 29 U.S.C. 2612(a)(1)(D) .................................................... 29 U.S.C. 2612(c) ............................................................... 29 U.S.C. 2612(d)(2) .......................................................... 29 U.S.C. 2612(d)(2)(B) .................................................... 29 U.S.C. 2612(e) ............................................................... 29 U.S.C. 2612(e)(1) ..........................................................
+
+13 13
+1 14 14 15 11, 25 2 2, 20 2, 16 2 2, 16
+2 28 2, 28 2-3
+8
+
+V
+
+Statutes and regulations—Continued:
+
+Page
+
+29 U.S.C. 2613 ....................................................................
+
+3
+
+29 U.S.C. 2614(a) ...............................................................
+
+3
+
+29 U.S.C. 2614(a)(1) .......................................................... 15, 19
+
+29 U.S.C. 2614(b)(1)(A)-(B) .............................................
+
+8
+
+29 U.S.C. 2614(c) ...............................................................
+
+3
+
+29 U.S.C. 2614(c)(1) ........................................................... 15, 19
+
+29 U.S.C. 2615(a)(1) ...................................................... 3, 11, 25
+
+29 U.S.C. 2617 (1994 & Supp. V 1999) ...........................
+
+3
+
+29 U.S.C. 2617(a)(1)(B) .....................................................
+
+16
+
+29 U.S.C. 2617(a)(3) ..........................................................
+
+16
+
+29 U.S.C. 2617(b) ...............................................................
+
+16
+
+29 U.S.C. 2619 ....................................................................
+
+8
+
+29 U.S.C. 2619(a) ...............................................................
+
+3
+
+29 U.S.C. 2651-2653 .......................................................... 2, 28
+
+29 U.S.C. 2654 ............................................. 1, 3, 11, 13, 22, 27
+
+National Labor Relations Act, § 8(a)(1), 29 U.S.C.
+
+158(a)(1) ........................................................................... 11, 25, 26
+
+Truth in Lending Act, 15 U.S.C. 1601 et seq. .......................
+
+22
+
+15 U.S.C. 78n(e) .........................................................................
+
+22
+
+29 C.F.R.:
+
+Pt. 825:
+
+Section 825.115 ..................................................................
+
+17
+
+Section 825.207(d)(1) .........................................................
+
+3
+
+Section 825.208 .................................................................. 3, 5
+
+Section 825.208(a) ................................................... 5, 13, 17, 19
+
+Section 825.208(b) ..................................................... 13, 17, 19
+
+Section 825.208(b)(1) .........................................................
+
+5
+
+Section 825.208(b)(2) .........................................................
+
+5
+
+Section 825.208(c) .............................................................. 13, 20
+
+Section 825.220(b) .............................................................
+
+25
+
+Sections 825.300-825.312 ..................................................
+
+3
+
+Section 825.300(a) .............................................................. 3, 17
+
+Section 825.301 ..................................................................
+
+18
+
+Section 825.301(a) ..............................................................
+
+4
+
+Section 825.301(b) ............................................................. 4, 17
+
+Section 825.301(b)(1)(i) .......................................... 4, 13, 17, 19
+
+Section 825.301(b)(1)(iii) ..................................................
+
+4
+
+Section 825.301(b)(1)(iv) ..................................................
+
+4
+
+Section 825.301(b)(1)(vii) .................................................
+
+4
+
+VI
+
+Regulations—Continued:
+
+Page
+
+Section 825.301(b)(2) ......................................................... Section 825.301(c) .............................................................. Section 825.302 .................................................................. Section 825.302(c)............................................................... Section 825.303(b) ............................................................. Section 825.304 .................................................................. Sections 825.305-825.308 .................................................. Section 825.310 .................................................................. Sections 825.311-825.312 .................................................. Section 825.700(a) .......................................................... App. C ................................................................................. App. D ................................................................................. Pt. 1614: Section 1614.105(a)(1) ....................................................... Section 1614.106(b) ...........................................................
+
+4 4, 17
+3 18 18
+3 4 4 4 passim 3, 17 4, 17
+24 24
+
+Miscellaneous:
+
+D. Cantor et al. & U.S. Dep’t of Labor, Balancing the Needs of Families and Employers: Family and Medical Leave Surveys (Jan. 2001) ....................................
+60 Fed. Reg. (1995): p. 2207 ...................................................................................... p. 2220 ......................................................................................
+H.R. Rep. No. 8, 103d Cong., 1st Sess. Pt. 1 (1993) ........................................................................................
+S. Rep. No. 3, 103d Cong., 1st Sess. (1993) ........................... Society for Human Resource Management, 2000
+FMLA Survey (Jan. 2001) ....................................................
+
+18
+21 17
+15, 16 15
+18
+
+In the Supreme Court of the United States
+No. 00-6029 TRACY RAGSDALE, ET AL., PETITIONERS
+v. WOLVERINE WORLDWIDE, INC.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS
+FOR THE EIGHTH CIRCUIT
+BRIEF FOR THE UNITED STATES AS AMICUS CURIAE SUPPORTING PETITIONERS
+INTEREST OF THE UNITED STATES
+The Family and Medical Leave Act of 1993, 29 U.S.C. 2601 et seq., authorizes the Secretary of Labor to “prescribe such regulations as are necessary to carry out” the provisions of the Act. 29 U.S.C. 2654. The court of appeals held that a regulation adopted by the Secretary pursuant to that statutory grant of authority was invalid as applied in this case. The United States therefore has an interest in the question presented. At the invitation of the Court, the United States filed a brief as amicus curiae at the petition stage of this case.
+STATEMENT
+1. a. The Family and Medical Leave Act (FMLA) provides that
+(1)
+
+2
+an eligible employee shall be entitled to a total of 12 workweeks of leave during any 12-month period * * *
+(D) Because of a serious health condition that makes the employee unable to perform the functions of the position of such employee.
+29 U.S.C. 2612(a)(1)(D). The Act confers an equivalent right on any eligible employee who wishes to take leave in order to care for a newborn or newly adopted child, or for a close relative with a serious health condition. 29 U.S.C. 2612(a)(1)(A)-(C). The term “eligible employee” is defined to mean an employee who, inter alia, “has been employed * * * for at least 12 months by the employer with respect to whom leave is requested.” 29 U.S.C. 2611(2)(A)(i). The FMLA applies to employers “who employ[] 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year.” 29 U.S.C. 2611(4)(A)(i).
+An employer may comply with its obligations under the FMLA by providing unpaid leave. 29 U.S.C. 2612(c). The Act provides, however, that “[a]n eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee for leave provided under [29 U.S.C. 2612(a)(1)(C) or (D)] for any part of the 12-week period of such leave under such subsection.” 29 U.S.C. 2612(d)(2)(B). The Act expressly preserves and encourages more generous leave policies, both those voluntarily adopted by employers and those mandated by state law. 29 U.S.C. 2651-2653.
+The FMLA requires employees to give their employers advance notice of foreseeable leave, 29 U.S.C.
+
+3
+2612(e), and it allows employers to require medical certification when leave is sought for a serious health condition, 29 U.S.C. 2613. With certain exceptions, the Act entitles employees to job restoration in the same or an equivalent position upon their return from leave, and it requires employers to maintain employees’ group health benefits during the leave period. 29 U.S.C. 2614(a) and (c). It is “unlawful for any employer to interfere with, restrain, or deny the exercise” or attempted exercise of any right provided under the Act. 29 U.S.C. 2615(a)(1). Either the affected employee or the Secretary of Labor may bring suit to enforce the Act. 29 U.S.C. 2617 (1994 & Supp. V 1999). Employers are required to post a notice of FMLA rights in a form approved by the Secretary. 29 U.S.C. 2619(a); see 29 C.F.R. 825.300(a). The Secretary has prepared a prototype notice for that purpose, which is reprinted in Appendix C to Part 825 of 29 C.F.R., and which is also available from local offices of the Wage and Hour Division of the Department of Labor (DOL).
+b. The FMLA directs the Secretary of Labor to “prescribe such regulations as are necessary to carry out” the provisions of the Act. 29 U.S.C. 2654. Pursuant to that authority, the Secretary has promulgated detailed regulations concerning the process by which employers and employees are to communicate with each other regarding FMLA leave. See 29 C.F.R. 825.207(d)(1), 825.208, 825.300-825.312, 825.700(a). Those regulations impose notice requirements on both employees and employers. For example, the regulations specify the circumstances under which an employee must give 30-days’ advance notice of foreseeable leave, 29 C.F.R. 825.302, and the recourse available to employers if such notice is not provided, 29 C.F.R. 825.304. Certain regulations detail the process by which an
+
+4
+employer may require an employee to provide medical certification of a serious health condition, 29 C.F.R. 825.305-825.308, and of the employee’s fitness to return to work, 29 C.F.R. 825.310; and others spell out the permissible consequences of an employee’s failure to provide such certifications, 29 C.F.R. 825.311-825.312. See also 29 C.F.R. 825.301(a) (requiring that written employer guidance to employees, such as employee handbooks, must include information regarding the FMLA).
+The regulations further require the employer to communicate to the employee specified information regarding the employee’s rights and responsibilities under the Act at the time he requests leave for an FMLA-covered reason. 29 C.F.R. 825.301(b). The written notice must state “that the leave will be counted against the employee’s annual FMLA leave entitlement.” 29 C.F.R. 825.301(b)(1)(i). The notice must also inform the employee of, inter alia, “the employee’s right to substitute paid leave and whether the employer will require the substitution of paid leave, and the conditions related to any substitution,” 29 C.F.R. 825.301(b)(1)(iii); “any requirement for the employee to make any premium payments to maintain health benefits and the arrangements for making such payments,” 29 C.F.R. 825.301(b) (1)(iv); and “the employee’s right to restoration to the same or an equivalent job upon return from leave,” 29 C.F.R. 825.301(b)(1)(vii). The required written notice “must be provided to the employee no less often than the first time in each six-month period that an employee gives notice of the need for FMLA leave.” 29 C.F.R. 825.301(c). A prototype notice is contained in Appendix D to Part 825 of 29 C.F.R., and is also available from local offices of the DOL’s Wage and Hour Division. See 29 C.F.R. 825.301(b)(2).
+
+5
+Other regulatory provisions require employers to notify employees that particular periods of leave are covered by the FMLA, and specify the consequences that follow when such notice is not given. The regulations provide that “[i]n all circumstances, it is the employer’s responsibility to designate leave, paid or unpaid, as FMLA-qualifying, and to give notice of the designation to the employee as provided” in Section 825.208 of the regulations. 29 C.F.R. 825.208(a). “The employer’s notice to the employee that the leave has been designated as FMLA leave may be orally or in writing,” but if it is oral, it must be confirmed in writing by the following payday. 29 C.F.R. 825.208(b)(2). Under Section 825.208, “[o]nce the employer has acquired knowledge that the leave is being taken for an FMLA required reason, the employer must promptly (within two business days absent extenuating circumstances) notify the employee that the paid leave is designated and will be counted as FMLA leave.” 29 C.F.R. 825.208(b)(1).1 Another regulation, which applies to both paid and unpaid leave, states that “[i]f an employee takes paid or unpaid leave and the employer does not designate the leave as FMLA leave, the leave taken does not count against an employee’s FMLA entitlement.” 29 C.F.R. 825.700(a).
+2. a. On March 17, 1995, petitioner Tracy Ragsdale began her employment with respondent Wolverine Worldwide, Inc. Pet. App. A2. Petitioner was diagnosed with cancer in February 1996, and on February
+1 Although paragraph (b)(1) of Section 825.208 refers by its terms to designation of “paid leave,” the first sentence of Section 825.208(a) makes clear that the notice obligations “provided in this section” apply to designations of “paid or unpaid” leave. 29 C.F.R. 825.208(a) and (b)(1).
+
+6
+21, 1996, she requested and received medical leave. Ibid. Respondent’s leave policy allowed employees with at least six months of service to take leave for up to seven months, on the condition that the employee submit a request for extension of leave every 30 days. Ibid. Although the opinions below do not directly address the point, it appears that petitioner’s leave was unpaid. See U.S. Br. Pet. Stage 5-6. In addition to petitioner’s initial request for leave, respondent granted six 30-day extensions of leave, the last coming on August 15, 1996. Ibid. During that period, respondent did not notify petitioner of her eligibility for leave under the FMLA, and it did not designate petitioner’s leave as FMLA leave. Ibid. Respondent states in this Court that it was aware of the Act but believed that petitioner was not eligible for FMLA leave because she had not worked for respondent a full 12 months at the time her leave initially commenced. Br. in Opp. 2 n.1.
+On September 20, 1996, petitioner was terminated because she had exhausted her seven months of leave under the company policy and was unable to return to work. Pet. App. A2. On September 26, 1996, petitioner requested additional FMLA leave or, in the alternative, permission to return to work on a reduced hour schedule. Id. at A3. Respondent denied both requests. Ibid. Petitioner’s physician released her to work in December 1996, and she has been employed in full-time positions elsewhere since December 31, 1996. Ibid. The parties appear to have litigated this case on the assumption that petitioner could have returned to work at the expiration of seven months of company leave plus 12 weeks of FMLA leave, had respondent permitted those periods of leave to run sequentially.
+b. Petitioner brought suit against respondent, asserting claims under, inter alia, the FMLA. Pet. App.
+
+7
+B2. The district court granted respondent’s motion for summary judgment on the FMLA claim. Id. at B4-B9. The court held that petitioner was eligible for FMLA leave as of March 18, 1996, the date on which she requested her first extension of leave, even though she was not eligible on February 21, 1996, when she first took leave, because she had not yet completed 12 months of employment with respondent. Id. at B4-B6. The court further held, however, that petitioner was not entitled to 12 weeks of FMLA leave in addition to the seven months of leave she had already received. The court acknowledged that under the DOL regulations, respondent’s failure to designate petitioner’s leave as FMLA leave would preclude respondent from counting that leave against the statutory 12-week entitlement. Id. at B6-B7. The court concluded, however, that the DOL regulations were invalid because they “added requirements which not only go beyond those of the statute, but which are inconsistent with the stated purpose of the statute and which would grant entitlements which were not given by Congress.” Id. at B8 (quoting Cox v. AutoZone, Inc., 990 F. Supp. 1369, 1381 (M.D. Ala. 1998), aff’d sub nom. McGregor v. AutoZone, Inc., 180 F.3d 1305 (11th Cir. 1999)).
+c. The court of appeals affirmed. Pet. App. A1-A12. The court concluded that “the DOL’s regulations improperly ‘convert[] the statute’s minimum of federallymandated unpaid leave into an entitlement to an additional 12 weeks of leave unless the employer specifically and prospectively notifies the employee that she is using her FMLA leave.’ ” Id. at A7 (quoting McGregor v. AutoZone, Inc., 180 F.3d at 1308). Because the “terms of the statute contemplate only that the employer will be required to provide a ‘total’ of twelve weeks of unpaid leave,” the court stated, “twelve weeks
+
+8
+of leave is both the minimum the employer must provide and the maximum that the statute requires.” Ibid.
+The court of appeals also believed that notice requirements imposed by other provisions of the FMLA “strongly support the view that where Congress desired explicit notice provisions with significant consequences for their violation, it provided for them in the text of the statute.” Pet. App. A9 (citing 29 U.S.C. 2612(e)(1), 2614(b)(1)(A)-(B), 2619). The court relied as well on portions of the legislative history stating that the FMLA was designed to establish a minimum standard for leave, and indicating that the 12-week leave period was a compromise between the family needs of workers and the business needs of employers. Id. at A9-A10. The court concluded that “[t]he DOL regulations must be struck down” because they “create rights which the statute clearly does not confer.” Id. at A10.
+At the same time, the court of appeals recognized that situations could arise “in which an employer’s failure to give notice may function to interfere with or to deny an employee’s substantive FMLA rights.” Pet. App. A10. As an example, the court pointed out that “notice could be necessary where the employee claims that the sole reason she exceeded her FMLA leave was due to the employer’s failure to notify her that her leave was designated as FMLA leave and if she had been so notified, she would have returned to work at the end of the twelve weeks.” Id. at A10-A11 (citing Longstreth v. Copple, 189 F.R.D. 401 (N.D. Iowa 1999)). In the instant case, however, where respondent’s leave program was “far more generous than the baseline established by the FMLA,” and petitioner’s “medical condition rendered her unable to work for substantially longer than the FMLA twelve-week period,” the court
+
+9
+of appeals concluded that applying the notice regulations would “directly contradict the statute by increasing the amount of leave that an employer must provide.” Id. at A11. On that basis, the court held that 29 C.F.R. 825.700(a) is “invalid insofar as it purports to require an employer to provide more than twelve weeks of leave time.” Pet. App. A11.
+SUMMARY OF ARGUMENT
+Pursuant to a broad statutory grant of rulemaking authority, the Secretary of Labor has promulgated extensive regulations implementing the FMLA. Inter alia, those regulations (1) require the employer to determine and notify the employee in advance that a particular period of leave will be treated as FMLA leave, and (2) provide (with certain exceptions) that the employee’s absence may not be counted against the 12week FMLA entitlement until the required notice has been provided. Those regulations constitute a reasonable and lawful exercise of the agency’s rulemaking authority.
+I. In addition to protecting a covered worker’s interests in continued employment after the expiration of the leave period, the FMLA enables the worker, at the outset of leave, to plan his medical treatment or caregiving activities with a degree of confidence that an employer’s unilateral leave policy could not provide. The Secretary reasonably determined that full achievement of that statutory purpose requires that the employee be made aware at the outset of the statutory leave period of his rights and responsibilities under the Act. The regulations at issue in this case complement other regulatory provisions intended to provide employees covered by the FMLA with adequate information concerning the Act’s terms.
+
+10
+Under the regulations, an employer is required to post on its premises a general notice that provides a succinct overview of the FMLA’s requirements and prohibitions. The employer is also required to provide a more comprehensive and specific notice at the time that an employee requests leave for an FMLA-covered reason. The requirement that an employer must determine and inform the employee in advance that a particular leave period will be treated as FMLA leave is thus part of a larger regulatory effort to make the FMLA’s protections meaningful by increasing employee understanding of the Act’s provisions. That requirement imposes no onerous burden on the employer, which must in any event make its own internal determination whether particular leave periods will be treated as FMLA leave.
+The Secretary’s regulations also specify the consequence of non-compliance with the underlying designation and notice requirements. The regulations provide that particular periods of leave will not be counted against an employee’s annual 12-week entitlement under the FMLA if the employer fails to give timely notice that the leave will be so treated. That approach reflects the Secretary’s reasonable determination that the predictability and ease of administration of a categorical rule make it preferable to a regime in which an individual’s entitlement to relief under the Act would turn on a potentially difficult retrospective inquiry into what steps the employee might have taken had he received timely notice. The Secretary’s decision to adopt a prophylactic rule, rather than to mandate a case-specific determination whether an employee was prejudiced by his failure to receive the required notice, is a permissible exercise of administrative discretion.
+
+11
+II. The Secretary’s approach is not inconsistent with Congress’s decision to mandate only 12 weeks of leave under the FMLA. The FMLA authorizes the Secretary to “prescribe such regulations as are necessary to carry out” the Act. 29 U.S.C. 2654. Under this Court’s precedents, the Secretary, acting pursuant to that grant of rulemaking authority, may impose requirements that go beyond those contained in the Act itself.
+Contrary to the court of appeals’ assertion, nothing in the Secretary’s regulations requires any employer to allow any employee to take more than 12 weeks of leave for an FMLA-covered reason. An employer may always (so far as the FMLA and the DOL’s implementing regulations are concerned) limit an employee’s leave to the 12 weeks specified by the Act, and may dismiss an employee who is unable to return to work after 12 weeks of leave, so long as the employer provides timely notice that a particular period will be counted as FMLA leave.
+The FMLA states that “[i]t shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter [29 U.S.C. 2611-2619].” 29 U.S.C. 2615(a)(1). That language closely resembles Section 8(a)(1) of the National Labor Relations Act, 29 U.S.C. 158(a)(1), which has been broadly construed to prohibit employer conduct that deters employees’ participation in protected activities. The Secretary has reasonably concluded that an employee’s informed exercise of rights under the FMLA requires prior notice that particular periods of leave will be counted against the worker’s 12-week statutory entitlement. An employer that fails to provide the requisite notice that particular periods will be counted as FMLA leave, and then dismisses a worker based on his health-related inability to
+
+12
+perform the functions of the job, may properly be said to “interfere with” or “restrain” the employee’s exercise of his rights under the Act, even if the employee receives 12 weeks of leave. That is particularly so in light of the fact that the Act does not specify how employers and employees must communicate about the relationship between FMLA and other leave.
+The court of appeals itself stated that notice regarding the commencement of FMLA leave might be necessary in cases where the employee could show prejudice from the employer’s failure to inform him that a particular period of leave would be counted against the 12-week FMLA entitlement. The court’s decision thus ultimately rests on the fact that the Secretary has chosen to promulgate a categorical rule. Given the breadth of the Secretary’s rulemaking authority, however, and the evident desirability of avoiding difficult retrospective inquiries into the effect of lack of notice in individual cases, the Secretary acted reasonably by adopting the rule in question.
+ARGUMENT
+THE SECRETARY’S REGULATIONS CONCERNING AN EMPLOYER’S DESIGNATION OF LEAVE CONSTITUTE A REASONABLE IMPLEMENTATION OF
+THE FAMILY AND MEDICAL LEAVE ACT
+“Where the empowering provision of a statute states simply that the agency may ‘make . . . such rules * * * as may be necessary to carry out the provisions of this Act,’ * * * the validity of a regulation promulgated thereunder will be sustained so long as it is ‘reasonably related to the purposes of the enabling legislation.’ ” Mourning v. Family Publ’ns Serv., Inc., 411 U.S. 356, 369 (1973) (citation and footnote omitted). The FMLA vests the Secretary of Labor with broad
+
+13
+authority to “prescribe such regulations as are necessary to carry out” the Act. 29 U.S.C. 2654. In light of Congress’s express conferral of legislative rulemaking authority, a court must uphold the validity of the Secretary’s FMLA regulations unless they are “arbitrary, capricious, or manifestly contrary to the statute.” United States v. O’Hagan, 521 U.S. 642, 673 (1997) (quoting Chevron U.S.A. Inc. v. Natural Res. Def. Council, Inc., 467 U.S. 837, 844 (1984)). Accord United States v. Mead Corp., 121 S. Ct. 2164, 2171 (2001) (“When Congress has ‘explicitly left a gap for an agency to fill, there is an express delegation of authority to the agency * * *,’ and any ensuing regulation is binding in the courts unless procedurally defective, arbitrary or capricious in substance, or manifestly contrary to the statute.”) (citations omitted); cf. Batterton v. Francis, 432 U.S. 416, 426 (1977) (a legislative rule “can be set aside only if the Secretary exceeded his statutory authority or if the regulation is ‘arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law’ ”) (citing Administrative Procedure Act (APA), 5 U.S.C. 706(2)(A) and (C)).
+This case implicates two distinct (though related) aspects of the Secretary’s regulatory scheme. First, the regulations require the employer to notify the employee, at the time leave is requested for an FMLAcovered reason, that the leave will count against the worker’s 12-week entitlement under the Act. See 29 C.F.R. 825.208(a) and (b), 825.301(b)(1)(i). Second, the regulations specify the consequence of the employer’s failure to comply with the notice requirement: namely, that until the required notice is provided, the employee’s absence may not be counted against the 12week FMLA entitlement. See 29 C.F.R. 825.208(c) (paid leave), 825.700(a) (paid and unpaid leave). The
+
+14
+court of appeals did not specifically address the legality of the underlying notice requirement. The court held, however, that Section 825.700(a) is “invalid insofar as it purports to require an employer to provide more than twelve weeks of leave time.” Pet. App. A11.
+The court of appeals erred in holding 29 C.F.R. 825.700(a) to be invalid as applied in this case. First, the pertinent regulatory provisions are “reasonably related to the purposes of the enabling legislation,” Mourning, 411 U.S. at 369, because they assist employees covered by the FMLA in making informed choices concerning the exercise of their statutory rights, while imposing no substantial burden on covered employers. Second, the regulations are not contrary to the terms of the FMLA because the Secretary is authorized to prescribe requirements that go beyond those imposed by the Act itself; because the regulations do not require any employer to provide any employee with more than 12 weeks of leave; and because no provision of the FMLA defines the consequences of an employer’s failure to provide notice that particular periods of leave will count against the Act’s 12-week entitlement.
+I. THE REGULATION AT ISSUE IN THIS CASE IS
+REASONABLY RELATED TO THE PURPOSES OF
+THE ACT
+A. The FMLA reflects Congress’s determination that “there is inadequate job security for employees who have serious health conditions that prevent them from working for temporary periods.” 29 U.S.C. 2601(a)(4); see also 29 U.S.C. 2601(a)(3) (“the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting”). To address those problems, the Act “entitle[s] employees to take reasonable leave for medical
+
+15
+reasons, for the birth or adoption of a child, and for the care of a child, spouse, or parent who has a serious health condition.” 29 U.S.C. 2601(b)(2).
+The protections of the FMLA may have substantial value even in the typical workplace where the employer chooses, as a matter of policy, to allow employees to be absent from work in order to perform parental or other care-giving functions, or because the employee’s medical condition renders him unable to perform the functions of the job. The 12-week leave entitlement established by the Act, for example, may be greater than the amount of leave that the employer is otherwise willing to provide. The FMLA also requires the employer to maintain the employee’s health benefits in effect during the pendency of FMLA leave “at the level and under the conditions coverage would have been provided if the employee had continued in employment continuously for the duration of such leave.” 29 U.S.C. 2614(c)(1). Perhaps most significantly, the Act affords the worker a legally enforceable right, not dependent upon the grace of the employer, to restoration in the same or an equivalent position upon his return from FMLA leave. 29 U.S.C. 2614(a)(1).2
+2 The legislative history reflects Congress’s awareness and concern that employees may take leave for family or medical reasons, based on an apparent understanding with the employer that their jobs will be protected, only to be dismissed from employment after acting in reliance on that understanding. See S. Rep. No. 3, 103d Cong., 1st Sess. 8-10 (1993); H.R. Rep. No. 8, 103d Cong., 1st Sess. Pt. 1, at 24 (1993). Those examples reinforce the common-sense proposition that an employer’s stated policy of permitting workers to take leave for specified reasons is not the practical equivalent of a legally enforceable guarantee of continued employment at the conclusion of the leave period. Even where the employer has made a contractual or similar binding commitment that the use of leave for specified reasons will not result in loss of employment, the
+
+16
+The guarantee of continued employment provided by the FMLA enables the worker, at the outset of leave, to plan his medical treatment or care-giving activities with a degree of confidence that an employer’s unilateral policy could not provide. See H.R. Rep. No. 8, 103d Cong., 1st Sess. Pt. 1, at 41 (1993) (“employees would be greatly deterred from taking leave without the assurance that upon return from leave, they will be reinstated to a genuinely equivalent position”). Thus, the value of the FMLA’s reinstatement requirement is not simply that it protects workers from job loss when family or medical circumstances make absence from work absolutely unavoidable. That requirement also affords employees a degree of flexibility and assurance in planning medical treatment and care-giving activities before leave commences and in balancing employment obligations against competing responsibilities.3
+FMLA’s remedial mechanisms—which include equitable relief and attorney’s fees in private suits, see 29 U.S.C. 2617(a)(1)(B) and (3), as well as enforcement proceedings brought by the Secretary, see 29 U.S.C. 2617(b)—may be more efficacious than those available under other sources of law.
+3 The FMLA’s potential to facilitate employee planning, and the consequent need for accurate information concerning the Act’s provisions, may be greatest when leave is taken to care for a newborn or newly adopted child, or for a close relative with a serious health condition. See 29 U.S.C. 2612(a)(1)(A)-(C). An employee who requests leave for one of those purposes may have a greater practical ability to control the timing and duration of his absence from work than will an employee who requests leave “[b]ecause of a serious health condition that makes the employee unable to perform the functions of the position of such employee.” 29 U.S.C. 2612(a)(1)(D). Even an employee who requests leave for a “serious health condition,” however, may be able to make effective use of information concerning his rights and responsibilities under the Act. For example, “[a]n employee who must be absent from work
+
+17
+B. The regulations implicated by this case— 29 C.F.R. 825.208(a) and (b), 825.301(b)(1)(i), and 825.700(a)—further that statutory purpose and complement other regulatory provisions intended to provide employees covered by the FMLA with adequate information concerning their rights and responsibilities under the Act. “Every employer covered by the FMLA is required to post and keep posted on its premises * * * a notice explaining the Act’s provisions and providing information concerning the procedures for filing complaints of violations of the Act.” 29 C.F.R. 825.300(a); see p. 3, supra. The prototype notice prepared by the DOL is cast in general terms and provides a succinct overview of the FMLA’s requirements and prohibitions. See 29 C.F.R. Pt. 825, App. C.
+Under the regulations, an employer is required to provide an additional notice—notice that is both more comprehensive and more tailored to the circumstances of the individual worker—at the time that an employee requests leave for an FMLA-covered purpose. See 29 C.F.R. 825.301(b) and (c); 29 C.F.R. Pt. 825, App. D. That regulatory mandate reflects the Secretary’s determination that the FMLA’s purposes cannot adequately be realized if workers are unaware of their rights and responsibilities under the Act. See 60 Fed. Reg. 2220 (1995) (“The intent of this notice requirement is to insure employees receive the information necessary to enable them to take FMLA leave.”). Recent empirical studies indicate that most employees know too little
+to receive medical treatment for a serious health condition is considered to be unable to perform the essential functions of the position during the absence for treatment.” 29 C.F.R. 825.115. A worker may be able to adjust his treatment schedule, in light of information concerning the provisions of the FMLA, in order to protect his rights under the Act.
+
+18
+about the FMLA to be able to take advantage of its protections on their own. Surveys of randomly-selected employees in FMLA-covered establishments in 1995 and 2000 showed that only 59% of those employees had even heard of the Act, a percentage that did not increase between 1995 and 2000. D. Cantor et al. & U.S. Dep’t of Labor, Balancing the Needs of Families and Employers: Family and Medical Leave Surveys 310 (Jan. 2001). Similarly, a recent survey of human resources professionals suggested that only 29% of employees and 31% of line managers and supervisors understand the FMLA. Society for Human Resource Management, 2000 FMLA Survey (Jan. 2001).
+The Secretary’s regulations sensibly require that employees who have actually requested leave for an FMLA-covered reason—and who are therefore in immediate need of information regarding the Act’s provisions and its applicability to their individual circumstances—must receive more detailed and specific notice concerning the Act than the employer is required to post for the work force generally. Because employers typically provide some form of parental, sick, and disability leave, an employee’s request for leave for an FMLA-covered reason does not by itself evidence familiarity with the terms of the Act and implementing regulations.4 An understanding of the Act’s provisions
+4 The DOL regulations make clear that an employee will be treated as having requested FMLA leave (thereby triggering the notice provisions of 29 C.F.R. 825.301) if he requests leave for an FMLA-covered reason. 29 C.F.R. 825.302(c), 825.303(b). “The employee need not expressly assert rights under the FMLA or even mention the FMLA.” 29 C.F.R. 825.302(c) and 825.303(b). Thus, the request for leave will not necessarily reflect the employee’s awareness that the FMLA exists, let alone a sufficient understanding of the worker’s rights and responsibilities under the Act.
+
+19
+therefore will substantially assist the worker, who may have rights under the Act that go beyond the terms of the employer’s own leave policy.
+As a practical matter, an employee’s full understanding of his rights and responsibilities under the FMLA requires an awareness that a particular period of leave will be counted against his 12-week annual entitlement under the Act. Notice that the employer regards a particular period as FMLA leave may also assist the worker in monitoring the employer’s compliance with the substantive provisions of the Act (e.g., the requirement that the employer maintain health benefits in effect during the pendency of the leave period, see 29 U.S.C. 2614(c)(1)). The designation and notice requirement contained in 29 C.F.R. 825.208(a) and (b) and 825.301(b)(1)(i)—i.e., the requirement that an employer must determine and inform the employee in advance that a particular leave period will be treated as FMLA leave—is therefore properly understood as part of a larger regulatory framework designed to make the FMLA’s protections meaningful by increasing employee understanding of the Act’s provisions and avoiding the confusion that can lead to loss of substantive rights.
+The leave designation requirement imposes no onerous burden on the employer. In order to ensure compliance with the Act, the employer must in any event make its own internal determination whether particular leave periods will be treated as FMLA leave, with concomitant employee rights to job restoration and continuation of health benefits. See 29 U.S.C. 2614(a)(1) and (c)(1). Sections 825.208(a) and (b) and 825.301(b)(1)(i) simply direct the employer to make its FMLA leave determination at the outset of the leave period (to the extent that is feasible) and to communi-
+
+20
+cate that determination promptly to the affected employee.
+The FMLA applies only to relatively large employers —i.e., those “who employ[] 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year.” 29 U.S.C. 2611(4)(A)(i). Such employers can be expected to deal on a regular basis with requests for leave for FMLA-covered reasons. Placing the principal responsibility for disseminating relevant information on the employer, rather than leaving to each employee the task of informing himself about the Act’s provisions, is especially reasonable with respect to that category of employers.
+C. The Secretary’s regulations also specify the consequence of an employer’s non-compliance with the designation requirement. The regulations provide, as a categorical matter, that particular periods of leave will not be counted against an employee’s annual 12-week entitlement under the FMLA if the employer fails to give timely notice that the leave will be so treated. See 29 C.F.R. 825.208(c) (paid leave), 825.700(a) (paid and unpaid leave). That prophylactic rule will sometimes place the employee in a better position than if the employer had provided the required notice in a timely fashion. In the instant case, for example, the effect of 29 C.F.R. 825.700(a) is to afford petitioner a viable cause of action under the FMLA, even though she would have been physically unable to return to work within 12 weeks of her initial eligibility for FMLA leave if respondent had promptly informed her at that time that her leave would be counted against the FMLA limit.
+The Secretary reasonably determined, however, that the predictability and ease of administration of a cate-
+
+21
+gorical rule make it preferable to a regime in which an individual’s entitlement to relief under the Act would turn on a potentially difficult retrospective inquiry into what steps the employee might have taken had he received timely notice. As the agency explained when it promulgated the final rule, the pertinent regulatory provisions were “intended to resolve the question of FMLA designation as early as possible in the leave request process, to eliminate protracted ‘after the fact’ disputes.” 60 Fed. Reg. at 2207. The Secretary’s approach reflects a permissible exercise of administrative discretion. Compare Mourning, 411 U.S. at 371-372 (“where reasonable minds may differ as to which of several remedial measures should be chosen, courts should defer to the informed experience and judgment of the agency to whom Congress delegated appropriate authority”).
+II. THE COURT OF APPEALS ERRED IN HOLDING
+THAT 29 C.F.R. 825.700(a) IS INCONSISTENT WITH
+CONGRESS’S DECISION TO MANDATE ONLY 12
+WEEKS OF FMLA LEAVE
+The court of appeals concluded that 29 C.F.R. 825.700(a) is “contrary to clear congressional intent,” Pet. App. A10 (quoting Chevron, 467 U.S. at 843 n.9), “insofar as it purports to require an employer to provide more than twelve weeks of leave time,” id. at A11. The court observed that “[t]he FMLA was intended only to set a minimum standard of leave for employers to provide to employees. Under the FMLA, twelve weeks of leave is both the minimum the employer must provide and the maximum that the statute requires.” Id. at A7. The court of appeals found Section 825.700(a) to be inconsistent with the balance struck by Congress
+
+22
+between the interests of employees and employers. Id. at A10. That analysis is misconceived.
+A. The FMLA authorizes the Secretary to “prescribe such regulations as are necessary to carry out” the Act. 29 U.S.C. 2654. An agency vested with such broad rulemaking authority may “require[] some individuals to submit to regulation who do not participate in the conduct the legislation was intended to deter or control,” in order to provide “a reasonable margin to insure effective enforcement.” Mourning, 411 U.S. at 374 (citation omitted). Accord O’Hagan, 521 U.S. at 672-673 (“[a] prophylactic measure, because its mission is to prevent, typically encompasses more than the core activity prohibited”); id. at 673 (pursuant to statutory grant of rulemaking authority, “the [Securities and Exchange] Commission may prohibit acts not themselves fraudulent * * * if the prohibition is ‘reasonably designed to prevent . . . acts and practices [that] are fraudulent’ ”) (quoting 15 U.S.C. 78n(e)); id. at 674 (noting with apparent approval that the Commission defended the challenged rule “as a means necessary and proper to assure the efficacy of [statutory] protections”); Clifton v. FEC, 114 F.3d 1309, 1312 (1st Cir. 1997) (“Agencies often are allowed through rulemaking to regulate beyond the express substantive directives of the statute, so long as the statute is not contradicted.”) (citing Mourning), cert. denied, 522 U.S. 1108 (1998).
+In Mourning, the Court addressed the contention that a rule promulgated by the Federal Reserve Board was “‘inconsistent’ with portions of the enabling statute [the Truth in Lending Act, 15 U.S.C. 1601 et seq.] * * * because the statute specifically mentions disclosure only in regard to transactions in which a finance charge is in fact imposed, although the rule requires disclosure
+
+23
+in some cases in which no such charge exists.” 411 U.S. at 372 (footnote omitted). The creditor in that case “argue[d] that, in requiring disclosure as to some transactions, Congress intended to preclude the Board from imposing similar requirements as to any other transactions.” Ibid. The Court squarely rejected that contention, explaining that “[t]o accept [the creditor’s] argument would undermine the flexibility sought in vesting broad rulemaking authority in an administrative agency.” Ibid.; see id. at 373; see also Texas Rural Legal Aid Inc. v. Legal Servs. Corp., 940 F.2d 685, 694 (D.C. Cir. 1991) (“a congressional decision to prohibit certain activities does not imply an intent to disable the relevant administrative body from taking similar action with respect to activities that pose a similar danger”) (citing Mourning); cf. Gemsco, Inc. v. Walling, 324 U.S. 244, 262 (1945) (“Congress by stating expressly its primary ends does not deny resort to the means necessary to achieve them.”). Similarly here, so long as the Secretary has employed “a means necessary and proper to assure the efficacy of [statutory] protections,” O’Hagan, 521 U.S. at 674, the regulations are valid, notwithstanding the fact that they impose obligations beyond those contained in the FMLA itself. See Plant v. Morton Int’l, Inc., 212 F.3d 929, 935-936 (6th Cir. 2000).5
+B. The court of appeals held that 29 C.F.R. 825.700(a) is “invalid insofar as it purports to require an employer to provide more than twelve weeks of leave time.” Pet. App. A11. Nothing in the DOL regulations,
+5 The Court’s analysis in Mourning also refutes the court of appeals’ suggestion (see Pet. App. A9) that the inclusion in the FMLA of express notice requirements implicitly divests the Secretary of the authority to require notice in other circumstances.
+
+24
+however, requires any employer to allow any employee to take more than 12 weeks of leave for an FMLAcovered purpose. Nor do the regulations make such a requirement a necessary or even likely consequence of an employer’s decision to adopt its own leave program. To limit an employee’s leave to the 12 weeks specified by the Act, an employer need only provide timely notice that a particular period will be counted as FMLA leave. The DOL rules therefore do not prohibit an employer from dismissing an employee who is unable to return to work after 12 weeks of leave; they simply establish reasonable preconditions for the employer’s exercise of that prerogative. Absent any reason to believe that compliance with the notice requirement will be difficult or onerous—and the court of appeals offered none—the court erred in concluding that the Secretary’s regulatory approach would subvert the balance struck by Congress.6
+6 An agency authorized to adjudicate claims of statutory violations, and to devise a suitable administrative process for resolving such disputes, may require that claims be presented to the agency within a specified time after the alleged violation occurs. See, e.g., 29 C.F.R. 1614.105(a)(1) and 1614.106(b) (Equal Employment Opportunity Commission regulations establishing time limits within which federal employees must contact an agency EEO counselor and file a formal complaint in order to preserve claims under Title VII); Rennie v. Garrett, 896 F.2d 1057, 1059 (7th Cir. 1990) (discussing predecessor regulations governing same subjects). The agency’s adoption of a reasonable limitations period does not negate the claimant’s statutory entitlement to relief, even though a person who fails to pursue his claim within the designated period may be denied a remedy notwithstanding the existence of a statutory violation. Similarly here, the legal impediment to respondent’s dismissal of petitioner in September 1996 is the direct result of respondent’s own failure to preserve its rights in the manner specified by the regulations.
+
+25
+Nor is there merit to the court of appeals’ suggestion (Pet. App. A9, A11) that Section 825.700(a) is invalid because it imposes “a disproportionate penalty” for a “technical violation of the designation regulations.” Relatively minor violations of timing and notice requirements often entail severe consequences, as where a plaintiff with a meritorious claim files suit one day after the statute of limitations expires. See United States v. Locke, 471 U.S. 84, 101 (1985) (“Filing deadlines, like statutes of limitations, necessarily operate harshly and arbitrarily with respect to individuals who fall just on the other side of them, but if the concept of a filing deadline is to have any content, the deadline must be enforced.”). If enforcement of a timing or notice requirement promotes the effective administration of the relevant statute in cases where the rule is obeyed, and if compliance is neither onerous nor difficult, such requirements are reasonable. The same principle applies here. In any event, the consequence of a failure to afford the required notice is neither “disproportionate” nor a “penalty.” The employer suffers no permanent disadvantage; the result is simply to postpone the running of the 12-week period of leave mandated by the FMLA until the employer gives the notice required to commence that period.
+C. The FMLA states that “[i]t shall be unlawful for any employer to interfere with, restrain, or deny the exercise of or the attempt to exercise, any right provided under this subchapter [29 U.S.C. 2611-2619].” 29 U.S.C. 2615(a)(1); see 29 C.F.R. 825.220(b) (“Any violations of the Act or of these regulations constitute interfering with, restraining, or denying the exercise of rights provided by the Act.”). The language of 29 U.S.C. 2615(a)(1) “largely mimics that of ” Section 8(a)(1) of the National Labor Relations Act (NLRA), 29
+
+26
+U.S.C. 158(a)(1), which “provid[es] that it is an unfair labor practice for an employer ‘to interfere with, restrain, or coerce employees in the exercise of the rights guaranteed’ by § 7 of the NLRA.” Bachelder v. America W. Airlines, Inc., No. 99-17458, 2001 WL 883701, at *4 (9th Cir. Aug. 8, 2001). “Because the FMLA’s language so closely follows that of the NLRA, the courts’ interpretation of § 8(a)(1) of the NLRA helps to clarify the meaning of the statutory terms ‘interference’ and ‘restraint.’ ” Ibid. (citing Northcross v. Board of Educ., 412 U.S. 427, 428 (1973) (per curiam)).
+“As a general matter, * * * the established understanding [of the NLRA] at the time the FMLA was enacted was that employer actions that deter employees’ participation in protected activities constitute ‘interference’ or ‘restraint’ with the employees’ exercise of their rights.” Bachelder, 2001 WL 883701, at *5. This Court has also long recognized that under the NLRA, the determination whether particular employer conduct amounts to unlawful “interfere[nce]” with or “restrain[t]” of employees’ exercise of statutory rights is principally entrusted to the National Labor Relations Board. See NLRB v. Fleetwood Trailer Co., 389 U.S. 375, 378 (1967) (stating, with specific reference to Section 8(a)(1) of the NLRA, that “[i]t is the primary responsibility of the Board and not of the courts to strike the proper balance between the asserted business justifications and the invasion of employee rights in light of the Act and its policy.”) (citation and internal quotation marks omitted).
+In prohibiting employers from “interfer[ing] with” or “restrain[ing]” the exercise of FMLA rights, and in entrusting to the Secretary of Labor the task of administering the Act, Congress must be presumed to have intended that the Secretary would possess broad
+
+27
+authority to identify those forms of employer conduct that will likely hinder or deter employees’ exercise of their rights under the FMLA. The Secretary has reasonably concluded that an employee’s informed exercise of rights under the Act requires prior notice that particular periods of leave will be counted against the worker’s 12-week statutory entitlement. The effect of the regulations pertinent to this case is that a covered worker who requests leave for a “serious health condition” may not be terminated from employment, based on his health-related inability to perform the functions of the job, unless and until the employer has (a) informed him that the leave will count against his 12week FMLA entitlement and (b) thereafter allowed him to take 12 weeks of leave. An employer that dismisses such a worker without satisfying those prerequisites may properly be said to “interfere with” or “restrain” the employee’s exercise of his rights under the Act, even though the employee receives 12 weeks of leave.
+D. Although the leave entitlement conferred by the FMLA is limited to 12 weeks per year, the Act does not specify how employers and employees are to communicate about the relationship between FMLA and other leave, or spell out the consequences when the requisite communications are not made. See Plant, 212 F.3d at 935 (“The FMLA itself is silent as to the notice an employer must give to an employee before designating his paid leave as FMLA leave.”). Such details could be described as filling in a “gap” in the Act within the meaning of Chevron, 467 U.S. at 843, or simply as matters for agency implementation within the normal scope of a broad delegation of legislative rulemaking authority to carry the Act into effect, see 29 U.S.C. 2654. Under either characterization, the absence of any
+
+28
+FMLA provision directly addressing the specific subject matter of the regulations at issue in this case further undermines the court of appeals’ conclusion that those rules are contrary to the Act.7
+E. The court of appeals itself “stressed that the court [wa]s not holding that any DOL regulations requiring employers to designate leave as FMLA leave would be invalid.” Pet. App. A10. The court observed, by way of example, that “notice could be necessary where the employee claims that the sole reason she exceeded her FMLA leave was due to the employer’s failure to notify her that her leave was designated as FMLA leave and if she had been so notified, she would have returned to work at the end of the twelve weeks.” Id. at A10-A11. Even in that situation, however, the employer would effectively be required, as a result of its non-compliance with the regulatory notice requirement, to allow more
+7 Other provisions of the Act that recognize the obligation of employers to coordinate FMLA and non-FMLA leave reinforce the reasonableness of the DOL’s approach. See, e.g., Massachusetts v. Morash, 490 U.S. 107, 115 (1989) (“[I]n expounding a statute, we [are] not . . . guided by a single sentence or member of a sentence, but look to the provisions of the whole law, and to its object and policy.”) (citation omitted). In particular, the leave substitution provisions in 29 U.S.C. 2612(d)(2) require an employer to take some positive action if it wants an employee’s paid leave and FMLA leave to run concurrently. See, e.g., 29 U.S.C. 2612(d)(2)(B) (“An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, or medical or sick leave of the employee” for FMLA leave provided for a serious health condition.) (emphasis added). The Act also expressly recognizes that many employers provide leave independently of the FMLA, and provides some guidance on the proper relationship between FMLA leave and leave voluntarily provided by employers or mandated by state law. 29 U.S.C. 2651-2653.
+
+29
+than 12 weeks of leave for an FMLA-covered reason. If the court of appeals were correct that 29 C.F.R. 825.700(a) is “invalid insofar as it purports to require an employer to provide more than twelve weeks of leave time,” Pet. App. A11, the hypothetical rules that the court regarded with apparent approval would be subject to the same objection.
+Thus, despite the court of appeals’ statement that the existing DOL regulations “directly contradict the statute by increasing the amount of leave that an employer must provide,” Pet. App. A11, the court’s decision ultimately rests on the fact that the Secretary has chosen to promulgate a categorical rule, rather than to mandate a case-specific inquiry into whether a particular employee suffered actual prejudice as a result of the employer’s failure to provide timely notice. But while the Secretary might have adopted a regime of the sort the court of appeals preferred, she was not required to do so. Given the breadth of the Secretary’s rulemaking authority under the Act, and the evident desirability of avoiding difficult retrospective inquiries into the presence or absence of prejudice in individual cases, the Secretary acted within her sphere of lawful discretion by adopting the rule in question.
+
+30
+
+CONCLUSION
+The judgment of the court of appeals should be reversed.
+Respectfully submitted.
+
+HOWARD M. RADZELY Acting Solicitor of Labor
+ALLEN H. FELDMAN Associate Solicitor
+NATHANIEL I. SPILLER Deputy Associate Solicitor
+ELLEN L. BEARD Attorney Department of Labor
+
+THEODORE B. OLSON Solicitor General
+EDWIN S. KNEEDLER Deputy Solicitor General
+MALCOLM L. STEWART Assistant to the Solicitor General
+
+SEPTEMBER 2001
+
+

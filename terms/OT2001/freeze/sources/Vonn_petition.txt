@@ -1,0 +1,401 @@
+QUESTIONS PRESENTED
+
+1.	Whether a district court's failure to advise a counseled defendant at his guilty plea hearing that he has the right to the assistance of counsel at trial, as required by Federal Rule of Criminal Procedure 11(c)(3), is subject to plain-error, rather than harmless-error, review on appeal when the defendant fails to preserve the claim of error in the district court.
+
+2.	Whether, in determining if a defendant's substantial rights were affected by a district court's deviation from the requirements of Federal Rule of Criminal Procedure 11(c)(3), the court of appeals may review only the transcript of the guilty plea colloquy, or whether it may also consider other parts of the official record. 
+
+In the Supreme Court of the United States
+
+No.  00-526
+
+UNITED STATES OF AMERICA, PETITIONER
+
+v. 
+
+ALPHONSO VONN
+
+         ON PETITION FOR A WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT     
+
+PETITION FOR A WRIT OF CERTIORARI
+
+The Solicitor General, on behalf of the United States of America, respectfully petitions for a writ of certiorari to review the judgment of the United States Court of Appeals for the Ninth Circuit in this case.
+
+OPINIONS BELOW
+
+The opinion of the court of appeals (App., infra, 1a-10a) is reported at 224 F.3d 1152.  A prior opinion of the court of appeals, which was withdrawn on rehearing (App., infra, 11a-22a), is reported at 211 F.3d 1109.
+
+JURISDICTION
+
+The initial judgment of the court of appeals was entered on April 20, 2000.  The judgment of the court of appeals on rehearing was entered on September 14, 2000.  The jurisdiction of this Court is invoked under 28 U.S.C. 1254(1).
+
+RULES INVOLVED
+
+1.	Rule 11(c) of the Federal Rules of Criminal Procedure, titled "Advice to Defendant," provides, in pertinent part: 
+
+Before accepting a plea of guilty or nolo contendere, the court must address the defendant personally in open court and inform the defendant of, and determine that the defendant understands, the following:
+
+*   *   *   *   *
+
+(3)	that the defendant has the right to plead not guilty or to persist in that plea if it has already been made, the right to be tried by a jury and at that trial the right to the assistance of counsel, the right to confront and cross-examine adverse witnesses, and the right against compelled self-incrimination[.]
+
+2.	Rule 11(h) of the Federal Rules of Criminal Procedure, titled "Harmless Error," provides:  "Any variance from the procedures required by this rule which does not affect substantial rights shall be disregarded."
+
+3.	Rule 52 of the Federal Rules of Criminal Procedure, titled "Harmless Error and Plain Error," provides: 
+
+(a) 	HARMLESS ERROR.  Any error, defect, irregularity or variance which does not affect substantial rights shall be disregarded.
+
+(b)	PLAIN ERROR.  Plain errors or defects affecting substantial rights may be noticed although they were not brought to the attention of the court.
+
+STATEMENT
+
+Following guilty pleas, respondent was convicted in the United States District Court for the Central District of California on one count of conspiracy to commit bank robbery, in violation of 18 U.S.C. 371; one count of aiding and abetting armed bank robbery, in violation of 18 U.S.C. 2113(a) and (d) and 18 U.S.C. 2; and one count of using and carrying a firearm during and in relation to a crime of violence, in violation of 18 U.S.C. 924(c).  App., infra, 2a-3a.  Respondent was sentenced to 97 months' imprisonment, to be followed by three years' supervised release.  Id. at 24a-25a.  The court of appeals vacated respondent's guilty pleas and sentence and remanded for further proceedings.  Id. at 10a.
+
+1. a.  On February 27, 1997, respondent and two co-defendants robbed a bank in Long Beach, California. App., infra, 2a.  Respondent was arrested shortly thereafter pursuant to a criminal complaint that charged him and his co-defendants with armed bank robbery and with using and carrying a firearm during and in relation to a crime of violence.  Id. at 2a-3a.  On February 28, 1997, respondent made his initial appearance on the complaint.  At that appearance, the magistrate judge advised the defendants who were present, including respondent, of their constitutional rights, including "the right to retain and to be represented by an attorney of your own choosing at each and every stage of the proceedings against you," and, "if you cannot afford an attorney," the right "to request that the court appoint an attorney to represent you."  Gov't C.A. Supp. Ex. Rec. 4.  Respondent orally confirmed that he had heard and understood his rights.  Id. at 10.  The magistrate then found that respondent was indigent and appointed a Deputy Federal Public Defender to represent him.  Id. at 10-11. 
+
+On March 14, 1997, a grand jury returned a two-count indictment charging respondent with one count of armed bank robbery, in violation of 18 U.S.C. 2113, and one count of using and carrying a firearm during and in relation to that robbery, in violation of 18 U.S.C. 924(c).  Resp. C.A. Ex. Rec. 1-3.  On March 17, 1997, respondent appeared in court, represented by his appointed counsel, for his arraignment.  The magistrate judge advised the defendants present, including respondent, of their constitutional rights, including the right "to be represented by counsel at all stages of the proceedings," and also advised the defendants that, "[i]f you don't have the money or means to hire an attorney, I will appoint an attorney to represent you without cost or expense to you."  Gov't C.A. Supp. Ex. Rec. 16-17.  Respondent's counsel then provided the court with respondent's signed "Statement of Defendant's Constitutional Rights," in which respondent acknowledged his constitutional right "to be represented by counsel at all stages of the proceedings against [him]."  Id. at 24-25.1 Respondent's counsel also signed a statement at the end of that form indicating that counsel was "satisfied that [respondent] has read this Statement of Rights
+
+*  *  *  and that [he] understands them."  Id. at 25.   That document was filed in the record of the case.  Resp. C.A. Ex. Rec. 70. 
+
+b.	At a May 12, 1997, status conference before the district judge, respondent, represented by the same court-appointed counsel who had represented him at his arraignment and at three earlier status conferences, indicated his intention to plead guilty to the bank robbery count and to proceed to trial on the firearm count.  Resp. C.A. Ex. Rec. 12.  The court clarified with respondent's counsel that respondent's position was that he participated in the robbery but that, contrary to the government's contention, he did not use a firearm during the robbery.  Id. at 13; App., infra, 16a-17a & n.3.  The court then asked respondent's counsel, in respondent's presence, whether there was "any point in taking this plea" since "the jury is going to have to hear the whole case anyway  *  *  *  to figure out whether or not he used a gun."  Ibid.  Respondent's counsel reiterated that "my client's desire [is] to plead guilty to [the bank robbery charge]."  Ibid. 
+
+The court then proceeded to engage in a colloquy with respondent, as required by Federal Rule of Criminal Procedure 11, to ensure that respondent's guilty plea was voluntary and intelligent and was supported by a factual basis.  See Fed. R. Crim. P. 11.  During the course of that colloquy, the court advised respondent that, by pleading guilty, he would be giving up various constitutional rights, including the right against self-incrimination, the right to a trial, the right to confront and cross-examine witnesses against him, and the right to present evidence on his own behalf at trial.  Resp. C.A. Ex. Rec. 17.  Respondent stated that he waived those rights.  Ibid.  The court did not expressly tell respondent at that time, however, that if he proceeded to trial, he would have the right to the assistance of counsel at that trial.  Respondent's counsel did not object to that deficiency.  The court then accepted respondent's guilty plea to the bank robbery charge.  Id. at 20.  At the conclusion of the hearing, the court informed counsel for both parties, in respondent's presence, that the firearm charge was scheduled for trial on June 10, 1997.  Id. at 21; App., infra, 17a n.4.  As a result of a scheduling conflict involving defense counsel, however, trial was later rescheduled to August 12, 1997.  See Resp. C.A. Ex. Rec. 72.
+
+c.	On July 29, 1997, a three-count superseding indictment was returned charging respondent with bank robbery (to which he had already pleaded guilty), using and carrying a firearm during and in relation to a bank robbery, and a third count of conspiracy to commit bank robbery.  Resp. C.A. Ex. Rec. 4-9.  On September 3, 1997, at a hearing, respondent stated his intention to plead guilty to the conspiracy and firearm counts.  Id. at 25-26.  The court then again advised respondent that by pleading guilty he was giving up various constitutional rights, but it again omitted specific mention of the right to counsel at trial.  Id. at 29-30. 
+
+After the court determined that there was a factual basis for the guilty pleas, the Assistant United States Attorney stated to the court that she did not "remember hearing the Court inform the defendant of his right to assistance of counsel."  App., infra, 3a.  The court responded that "I didn't because [he] is represented by counsel."  Ibid.2   Respondent's counsel raised no objection to the court's failure to advise respondent specifically of the continuing right to the assistance of counsel at trial.  The court then accepted respondent's guilty pleas on the conspiracy and firearm charges.  Resp. C.A. Ex. Rec. 33.
+
+d.	On May 14, 1998, respondent moved to withdraw his guilty plea on the firearms charge only, on the ground that it lacked a factual basis.  The district court denied that motion.  Resp. C.A. Ex. Rec. 58-59.  Respondent did not move to withdraw his guilty pleas to the other charges.  On June 22, 1998, respondent was sentenced to 97 months' imprisonment.  App., infra,  23a-24a.
+
+2.	On appeal, respondent argued for the first time that his guilty pleas on all three counts were invalid because, among other things, the district court had failed to advise him of his continuing right to the assistance of counsel at trial, as required by Rule 11(c)(3), before accepting his guilty plea.  Resp. C.A. Br. 15-21.  The court of appeals found respondent's Rule 11(c)(3) claim "dispositive," App., infra, 13a n.1, and vacated respondent's guilty pleas, id. at 22a.
+
+The court first observed that "[t]he Government correctly points out that we do not normally consider issues raised for the first time on appeal."  App., infra, 15a.  The court nonetheless rejected the government's argument that respondent had forfeited his Rule 11 claim, and held (ibid.) that the normal plain-error standard of review applicable to claims of error not raised at trial, as set forth in Federal Rule of Criminal Procedure 52(b), "does not apply to Rule 11 errors" because "Rule 11 has its own review mechanism, which supersedes the normal waiver rule."  For that proposition, the court cited United States v. Odedo, 154 F.3d 937, 940 (9th Cir. 1998), which had held that "the Rule 11(h) 'harmless error' standard applies to all Rule 11 errors, regardless of whether they were ever raised before the district court."3  Therefore, the court stated, the case turns on whether "the district court's error was harmless."  App., infra, 15a. 
+
+The court then noted that Rule 11(h) requires the court to "disregard variances from the colloquy that do not 'affect substantial rights.'"  App., infra, 15a (quoting Fed. R. Crim. P. 11(h)).  According to the court, the "affect[ing] substantial rights" language of Rule 11(h) "mean[s] that we must inquire whether the defendant was aware of his rights despite the judge's failure to advise him."  Ibid.  Applying that standard, the court determined that the district court's error was not harmless because the record did not contain "unequivocal evidence" that respondent was aware that he had the continuing right to the assistance of counsel at trial.  Id. at 16a-21a.  The court of appeals rejected the government's arguments that the district court's statements at the May 12, 1997, status conference concerning the need for a jury trial on the firearm charge and the impending June 10, 1997, trial date (see pp. 4-6, supra), demonstrated respondent's awareness that he would be represented by counsel at trial.  App., infra, 16a-17a & nn.3-4.  The court found those statements insufficiently clear to establish with confidence respondent's awareness that he would be represented by counsel at trial.  Id. at 18a. 
+
+The court of appeals also noted that, at respondent's September 3, 1997, guilty plea hearing, the prosecutor had drawn the district court's attention to the fact that it had not specifically advised respondent of his right to counsel at trial.  The court of appeals "sympathize[d]" with the government's "good faith effort" to address that deficiency below, but it determined that the transcript "does not yield the unequivocal evidence we would need before we could deem [respondent] aware of his continuing right to counsel at trial."  App., infra, 18a-19a. 
+
+3.	The government filed a petition for panel rehearing, pointing out that the court's harmless-error analysis failed to take into account other parts of the official record that evinced respondent's awareness of his right to counsel at trial.  In particular, the government pointed to respondent's signed acknowledgment of his constitutional rights, as well as recent transcriptions of respondent's initial appearance and arraignment proceedings at which respondent was specifically advised of his right to counsel at trial and stated that he understood his rights.  Gov't Pet. for Reh'g 9-10.  The government also filed a motion to have those transcripts (which were part of the official district court record) made part of the record on appeal, and explained that their consideration "is necessary and appropriate for the court to evaluate properly the record in this case."  See id. at 2 n.1, 9 n.4.4  Respondent filed a response to the petition for rehearing, in which he argued that the court was precluded from relying on those pre-plea materials under its decisions in United States v. Odedo, 154 F.3d 937 (9th Cir. 1998), and United States v. Gastelum, 16 F.3d 996 (9th Cir. 1994), which, according to respondent, limited the scope of Rule 11(h) harmless-error review to the four corners of the guilty plea hearing transcript.  Resp. Opp. to Pet. for Reh'g 10-11.
+
+4.	The panel withdrew its opinion and issued a new one, in which it again vacated respondent's guilty pleas based on the Rule 11 violation.  App., infra, 1a-10a.  The court first reaffirmed that a defendant's claim, raised for the first time on appeal, that the district court failed to provide him with part of the advice of rights required by Rule 11(c)(3) is reviewed for harmless error, rather than plain error.  Id. at 5a-6a.  The court also reaffirmed that the harmless-error analysis requires it to determine "whether the defendant was aware of his rights despite the judge's failure to advise him."  Id. at 6a.
+
+The court then held, based on its prior decisions in Gastelum and Odedo, that "we are limited to what the record of the plea proceeding contains" in conducting Rule 11(h) harmless-error analysis.  App., infra, 6a.5 Accordingly, the court stated, "we cannot consider the government's claim that [respondent] learned of his right to counsel during earlier court proceedings" in this case.  Id. at 6a-7a.  Because the court had previously concluded that the guilty plea hearing transcript did not unequivocally demonstrate that respondent was aware that he had the right to counsel at trial, and because it reaffirmed that conclusion on rehearing (id. at 7a-9a), it vacated respondent's guilty pleas and remanded the case.  Id. at 10a.6 
+
+REASONS FOR GRANTING THE PETITION
+
+The court of appeals has held that a defendant's claim that the district court failed to provide him with the complete advice required by Federal Rule of Criminal Procedure 11(c), raised for the first time on appeal, is not forfeited and-unlike other claims not raised in the district court-is subject to appellate review under a harmless-error standard that requires the government to prove that the defendant was otherwise aware of the omitted information.  The court of appeals also held that, in determining whether a particular Rule 11 error affected a defendant's substantial rights, the court of appeals may not look beyond the transcript of the guilty plea hearing.  Each of those holdings contributes to an existing circuit conflict on a question of significant and recurring importance to the federal criminal justice system.  Each holding is also incorrect.  Accordingly, this Court should grant certiorari to review both aspects of the court of appeals' decision.7
+
+1. a.  The court of appeals ruled that claims of Rule 11 error raised for the first time on appeal are reviewed under a harmless-error, rather than plain-error, standard.  That holding perpetuates and reinforces a divergence of opinion among the circuits on the standard of review governing such claims.  The First, Sixth, Seventh, and Eleventh Circuits have clearly stated that they apply plain-error review in such circumstances. See United States v. Gandia-Maysonet, 227 F.3d 1, 5-6 (1st Cir. 2000); United States v. Bashara, 27 F.3d 1174, 1178-1179 (6th Cir. 1994), cert. denied, 513 U.S. 1115 (1995); United States v. Cross, 57 F.3d 588, 590 (7th Cir.), cert. denied, 516 U.S. 955 (1995); United States v. Quinones, 97 F.3d 473, 475 (11th Cir. 1996).  In contrast, the Ninth Circuit (in which this case arose), and the District of Columbia Circuit have stated that they apply harmless-error, rather than plain-error, review.  App., infra, 5a (citing United States v. Odedo, 154 F.3d 937, 940 (9th Cir. 1998)); United States v. Lyons, 53 F.3d 1321, 1322 n.1 (D.C. Cir. 1995).
+
+The Fifth Circuit has stated that such cases are not governed by the plain-error standard, see United States v. Glinsey, 209 F.3d 386, 394 n.8, cert. denied, 121 S. Ct. 282 (2000), but it has also stated that the defendant "must  *  *  *  show that the district court's variance affected his substantial rights," id. at 394-suggesting that the defendant bears the burden of persuasion on the question of prejudice, which is consistent with plain-error review.  See United States v. Olano, 507 U.S. 725, 734 (1993) (explaining that an "important difference" between plain-error and harmless-error is "who bears the burden of persuasion with respect to prejudice").  The Fifth Circuit and the Ninth Circuit have also framed the nature of the prejudice inquiry quite differently.  The Ninth Circuit in this case stated that the government was required to prove that respondent was otherwise aware of the constitutional rights that the district court omitted from its advice. See App., infra, 6a.  The Fifth Circuit, however, has stated that, to show an effect on a defendant's substantial rights to establish prejudice, the defendant must show that the omitted information was "a material factor affecting the defendant's decision to plead guilty."  United States v. Cuevas-Andrade, No. 99-10976, 2000 WL 1658211, at *2 (Nov. 3, 2000) (brackets omitted).  Similarly, the Tenth Circuit has stated that the defendant must "show that knowledge of the omission or variance from Rule 11 would have changed his decision to plead guilty."  United States v. Wright, 930 F.2d 808, 810 (1991) (internal quotation marks and emphasis omitted).
+
+The existence of a circuit conflict concerning the applicable standard of review is clear.  The courts of appeals themselves have explicitly recognized the conflict.  See Gandia-Maysonet, 227 F.3d at 5; Quinones, 97 F.3d at 475 n.3.8  This case, moreover, presents a suitable vehicle for this Court to address the standard-of-review question.  The court of appeals in this case clearly applied a harmless-error standard; that is, it required the government to prove that the error did not affect respondent's substantial rights in that respondent was otherwise aware of his right to counsel. Equally clearly, the court rejected the government's contention that respondent's failure to raise the claim in the district court amounted to a waiver (or, more accurately, a forfeiture) of that claim.  App., infra, 5a (citing Odedo, 154 F.3d at 940); cf. Olano, 507 U.S. at 733 (distinguishing waiver from forfeiture). 
+
+b.	The court of appeals erred in holding that the harmless-error, rather than plain-error, standard should be applied in this case.  The better reasoned approach, adopted by the majority of the circuits in reliance on well-settled forfeiture principles, applies the plain-error standard of review to Rule 11 claims not raised at trial.  The rationale is clear: the raise-or-forfeit principle serves important interests of judicial economy and fairness.  See Gandia-Maysonet, 227 F.3d at 5; cf. Wainwright v. Sykes, 433 U.S. 72, 88-89 (1977) (discussing the policies underlying a contemporaneous-objection rule).  Those defendants who raise a claim of error in the district court in the first instance are entitled to have the government bear the burden of proving harmlessness.  But "the bar rises-and the stiffer Olano plain-error test applies" to those defendants who forfeit their claim of error by failing to object before the district court, thereby stripping the trial court of any opportunity to resolve or cure the claimed error.  Gandia-Maysonet, 227 F.3d at 5.
+
+The court of appeals employed a different, and we believe faulty, rationale in reaching its contrary conclusion.  It reasoned that Federal Rule of Criminal Procedure 11(h)-which states that "[a]ny variance from the procedures required by this rule which does not affect substantial rights shall be disregarded"-"supersede[d] the normal [Rule 52] waiver rule" in all cases of claimed Rule 11 error.  App., infra, 5a.  The court of appeals' reliance on Rule 11(h) as a basis for departing from normal plain-error principles rests on a misunderstanding of the purpose of that Rule.  
+
+Before the 1983 enactment of Rule 11(h), a number of courts of appeals had read this Court's decision in McCarthy v. United States, 394 U.S. 459 (1969), to hold that all Rule 11 errors required reversal without a case-specific assessment of prejudice. Rule 11(h) "merely reject[ed] the extreme sanction of automatic reversal."  Fed. R. Crim. P. 11(h) advisory committee's note (1983 Amendment).  Rule 11(h) is thus best understood not as rejecting the applicability of plain-error review when no objection is lodged, but rather as simply overturning McCarthy and requiring a case-by-case assessment into whether the error "affect[ed] substantial rights"-similar to the case-by-case assessment required by Rule 52 of all other claims of error.  See Gandia-Maysonet, 227 F.3d at 6 (so describing the "narrow purpose" of Rule 11(h)); see also Olano, 507 U.S. at 731 (observing that "[n]o procedural principle is more familiar to this Court than that a constitutional right, or a right of any other sort, may be forfeited in criminal as well as civil cases by the failure to make a timely assertion of the right before a tribunal having jurisdiction to determine it") (internal quotation marks omitted).  Accordingly, only a properly preserved Rule 11 claim should be reviewed under a harmless-error standard on appeal; a Rule 11 claim not preserved in the district court should be reviewed under a plain-error standard.
+
+c.	Closely related to the standard of appellate review is the question of the showing that must be made to establish whether the defendant's substantial rights were affected by the trial court's deviation from Rule 11.  As we have noted (pp. 8-9, 11, supra), the court of appeals stated in this case that the government was required to prove, under a harmless-error analysis, that respondent was aware of his right to counsel at trial. The Fifth and Tenth Circuits have stated, however, that the defendant must show that the error affected his decision to plead guilty.  See p. 13 supra.  Similarly, the First Circuit, applying plain-error review, has indicated that the fundamental question is whether the error affected the defendant's decision to plead guilty. See Gandia-Maysonet, 227 F.3d at 6.
+
+The general test for assessing whether an error affected a defendant's substantial rights is whether the error was "prejudicial," i.e., whether it had an effect on "the outcome of the district court proceedings."  Olano, 507 U.S. at 734.  That test should apply to Rule 11 errors as well.  See Lyons, 53 F.3d at 1323.  In a case like this one, where the error was the omission of advice about a specific right, the proper means of applying the Olano test is to ask whether the Rule 11 error affected the defendant's decision to plead guilty.  If the defendant would have pleaded guilty even in the absence of the error, then that error had no effect on the defendant's substantial rights.9 
+
+Similar considerations inform the final aspect of the plain-error review in this context: whether the court of appeals should exercise its discretion to correct the error.  Cf. Johnson v. United States, 520 U.S. 461, 469 (1997).  As this Court observed in Olano, the plain-error standard requires the defendant to show that the error affected the "fairness, integrity, or public reputation of judicial proceedings."  507 U.S. at 732.  Under that standard, a defendant does not show plain error unless he shows that he would not have pleaded guilty in the absence of the error, that his plea lacked a factual basis, or that his guilty plea was constitutionally defective.  "In the taking of a guilty plea under Rule 11, the critical concerns are that the plea be voluntary and that there be an admission, colloquy, proffer, or some other basis for thinking that the defendant is at least arguably guilty."  Gandia-Maysonet, 227 F.3d at 6.  The specific advice of rights required by Rule 11(c) is not itself constitutionally required for acceptance of guilty pleas, but rather is intended to ensure that the defendant's plea is voluntary, intelligent, and supported by a factual basis.  See McCarthy, 394 U.S. at 465.  Accordingly, if a defendant acted knowingly and voluntarily in pleading guilty, and if the defendant was determined to plead guilty, such that the specific advice that the district failed to provide would have been insignificant to the defendant's plea decision or of no consequence in light of the sentence later imposed, then there is no basis for concluding that the omission affected the fairness, integrity, or reputation of the proceeding.
+
+2.	The court of appeals also held that, in considering whether a Rule 11 error "affect[ed] substantial rights," a reviewing court is confined to the four corners of the transcript of the plea colloquy proceeding, at least on direct appeal.  There is a disagreement among the circuits concerning the scope of the record that may be considered on appeal in these circumstances, and that issue likewise merits this Court's review.
+
+The Ninth Circuit, in which this case arose, confines itself strictly to the transcript of the plea hearing to determine whether the defendant was otherwise aware of the information omitted from the district court's Rule 11 colloquy (here, the fact that respondent had the constitutional right to the assistance of counsel at trial). App., infra, 6a.  In contrast, every other circuit that has considered this issue has held that the transcript of the plea colloquy is but one part of the record that may be considered in assessing whether a Rule 11 error affected the defendant's substantial rights.  For example, the Seventh and Eleventh Circuits have held that a written plea agreement signed by the defendant may be considered.  United States v. Jones, 143 F.3d 1417, 1420 (11th Cir. 1998) (failure to advise defendant of mandatory minimum sentence harmless in light of provision in written plea agreement specifying this information); United States v. Lovett, 844 F.2d 487, 492 (7th Cir. 1988) (failure to advise defendant of right to the assistance of counsel harmless in light of written plea agreement).  The Second Circuit similarly has held that a court may consider written submissions presented to the district court in support of a motion for a change of plea.  United States v. Maher, 108 F.3d 1513, 1520-1524 (1997).  The District of Columbia Circuit has held that a reviewing court may consider the transcripts of a defendant's arraignment and sentencing hearing.  United States v. Lyons, 53 F.3d 1321, 1322-1323 (1995) (failure to advise defendant of maximum possible fine harmless in light of advisement at arraignment and defendant's failure to express surprise at fine actually imposed at sentencing).  The Fifth Circuit has held that a reviewing court is entitled to consider post-plea materials that are "temporally relevant," including the transcript of the sentencing hearing, to assess whether a Rule 11 error is harmless.  United States v. Johnson, 1 F.3d 296, 302 (1993). 
+
+The majority rule in the courts of appeals, permitting review of the entire official record to determine whether a Rule 11 error violated a defendant's substantial rights, is more consistent with a proper understanding of both plain-error and harmless-error review, than is the Ninth Circuit's minority position.  As the Court observed in United States v. Young, 470 U.S. 1 (1985), "[e]specially when addressing plain error, a reviewing court cannot properly evaluate a case except by viewing such a claim against the entire record.  *  *  *  It is simply not possible for an appellate court to assess the seriousness of the claimed error by any other means."  Id. at 16 (emphasis added).  The same is true of harmless-error review.  See Fed. R. Crim. P. 52(a) advisory committee's note (observing that harmless-error rule is a restatement of prior law, which required reviewing court to "give judgment after an examination of the entire record before the court, without regard to technical errors, defects, or exceptions which do not affect the substantial rights of the parties") (emphasis added).
+
+The Ninth Circuit's rule that it will review only the transcript of the plea hearing to determine whether a defendant's substantial rights were affected by a Rule 11 error conflicts not only with the decisions of the other circuits that have considered that issue, but also with the plain intent of Rule 11(h).  The Advisory Committee Notes to Rule 11(h) explain that the question of harmless error should be resolved "solely on the basis of the Rule 11 transcript and the other portions (e.g., sentencing hearing) of the limited record made in such cases."  Fed. R. Crim. P. 11(h) advisory committee's note (1983 Amendment) (emphasis added) (internal quotation marks omitted).  Thus, the Advisory Committee clearly contemplated the scope and sources of record material that a reviewing court should consider, and rejected the narrow position embraced by the court of appeals in this case.  The court of appeals here gave no weight at all to that persuasive commentary.10 
+
+This case presents an appropriate vehicle for this Court to decide the scope of the record that a court of appeals may review in determining whether a Rule 11 error affected a defendant's substantial rights.  The facts of this case well demonstrate the deficiencies of the Ninth Circuit's anomalous rule.  Respondent, assisted by counsel, was clearly advised at both his initial appearance and his arraignment that his right to counsel extended to all stages of the case. He also signed an acknowledgment of rights form in which he was again informed of that right, and his counsel attested to his reasoned belief that respondent was familiar with, and understood, the rights explained in that acknowledgment.  The court of appeals nevertheless refused even to consider that record evidence in assessing whether respondent's "substantial rights" were affected.  There is no reason for the court of appeals to refuse to consider such probative evidence on the question of prejudice.11
+
+3.	The court of appeals' decision raises matters of significant and recurring importance to the continued efficient administration of the criminal justice system- a system that, this Court has recognized, relies heavily on guilty pleas.  See Santobello v. New York, 404 U.S. 257, 260 (1971) (describing plea bargaining as "an essential component of the administration of justice"); cf. Blackledge v. Allison, 431 U.S. 63, 71 (1977) ("[T]he fact is that the guilty plea and the often concomitant plea bargain are important components of this country's criminal justice system.").  Indeed, the vast majority of criminal cases in the federal system are resolved by guilty plea.12
+
+The enactment of Rule 11 was an important step towards standardizing the plea process and ensuring that guilty pleas satisfy constitutional standards.  Nonetheless, it remains regrettably the case that district courts do not always comply with the requirements of Rule 11 with the utmost strictness.  Sometimes courts fail to provide all of the information required by Rule 11 even when, as in this case, the prosecutor brings that omission to the attention of the court.  It is necessary, therefore, for the courts to develop a fair and efficient system for addressing claims of Rule 11 error, just as for addressing other claims of error that arise in the trial court.  A properly limited standard of appellate review for claims of error not raised at trial also prevents the government from suffering unfair surprise when a mistake could have been rectified in the trial court had it been brought to that court's attention.
+
+The application of a plain-error standard here, as in other contexts, would promote important interests in judicial economy and fairness by appropriately raising the appellate review bar in cases where counseled litigants fail to object to a claimed Rule 11 error.  As the facts of this case illustrate, a contemporaneous objection by respondent's counsel might well have cured the resulting defect.  Indeed, respondent's counsel had specific notice at the second plea hearing of the possibility of a Rule 11 error, in light of the prosecutor's statement in open court and the court's admission that it had not given an advisement about counsel because it did not believe one was necessary.  Counsel's failure to lodge a timely objection on that point thus warrants the application of the more rigorous plain-error standard of review.  And any review of the impact of the Rule 11 error should be considered on a full record, so that a just determination can be made whether respondent's guilty plea should stand despite the trial court's error. The Ninth Circuit's position that appellate review must be conducted on a truncated record warrants this Court's review.
+
+CONCLUSION
+
+The petition for a writ of certiorari should be granted.
+
+Respectfully submitted.
+
+         SETH P. WAXMAN
+ Solicitor General
+ JAMES K. ROBINSON
+ Assistant Attorney General
+ MICHAEL R. DREEBEN
+ Deputy Solicitor General
+ PAUL R.Q. WOLFSON
+ Assistant to the Solicitor
+ General
+ MICHAEL A. ROTKER
+ Attorney
+ DECEMBER 2000
+
+1	Because of a broken arm, respondent could not actually sign his name on this form; instead, he marked the signature line with the letter "X."  Gov't C.A. Supp. Ex. Rec. 19, 25.
+
+2	Federal Rule of Criminal Procedure 11(c)(2) provides that the court must inform the defendant, "if the defendant is not represented by an attorney, that the defendant has the right to be represented by an attorney at every stage of the proceeding and, if necessary, one will be appointed to represent the defendant" (emphasis added).  Rule 11(c)(3), however, requires the court to provide advice about the right "to the assistance of counsel" at trial without limiting the requirement to unrepresented defendants.
+
+3	In Odedo, the Ninth Circuit rejected the government's argument that a Rule 11 claim of error is "waived," and therefore subject only to plain-error review on appeal, if it is not preserved in the district court.  The court instead agreed with the decision in United States v. Lyons, 53 F.3d 1321, 1322 n.1 (D.C. Cir. 1995), that such claims, even if not preserved, are reviewed for harmless error on appeal.  See Odedo, 154 F.3d at 939-940.
+
+4	The government's motion was accompanied by the prosecutor's declaration, in which she explained that she first realized that the transcripts of respondent's initial appearance and arraignment proceedings might reflect respondent's awareness of his right to counsel at trial "[i]n preparation for and shortly before oral argument."  Decl. of Elaine Lu ¶ 4 (6/2/2000).  The prosecutor did not order the transcripts at that time because of the impending oral argument, but did have occasion to order them in the course of briefing a later motion by one of respondent's co-defendants to join in respondent's brief.  Id. at ¶¶ 6-8.
+
+5	The government had argued in its appellate brief that the court should consider the entire record, not just the plea proceeding, to make its prejudice inquiry.  See Gov't C.A. Br. 25-32. The government argued that Gastelum (on which Odedo had relied) stood for the proposition that an appellate court may consider only the plea proceeding to determine whether the district court complied with Rule 11, not that it is so limited in making the prejudice analysis.  Id. at 28.
+
+6	Pursuant to the government's unopposed motion under Federal Rule of Appellate Procedure 41(d)(2), the court stayed the issuance of its mandate pending the filing of this petition for a writ of certiorari.
+
+7	The first question presented by this petition, concerning the applicable standard of review, is also presented in the pending certiorari petition in Nogales v. United States, petition for cert. pending, No. 00-5231 (filed July 17, 2000).  In our response (at 9-13) to the petition in Nogales, we have explained that this case presents a more suitable vehicle for addressing the standard-of-review question for several reasons.  Those reasons include the presence of the second question in this case, which independently warrants this Court's review, the clarity of the court of appeals' holding in this case that the harmless-error standard applies, and the fact that Nogales is an unpublished opinion.  Accordingly, we have suggested that the petition in Nogales be held pending the Court's disposition of this case.
+
+8	Although the decisions in the courts of appeals have involved a wide array of Rule 11 claims, the courts have generally not distinguished among the kinds of claims in fashioning the standard of review; rather, they have treated the applicable standard of review governing claims of Rule 11 error raised first in the court of appeals as a unitary one.  For example, in United States v. Saxena, 229 F.3d 1 (2000), the First Circuit recently held that its decision in Gandia-Maysonet, supra, holding that an unpreserved claim of Rule 11(c)(1) error is reviewed under a plain-error standard, "clearly indicates" that Saxena's Rule 11(e)(2) claim of error likewise "must survive plain-error review."  Id. at 8 n.2.
+
+9	The inquiry whether the defendant would have pleaded guilty in the absence of the error is broader than the question whether the defendant was otherwise aware of the information that the district court failed to provide in the Rule 11 colloquy.  If the defendant was otherwise aware of that information (because, for example, he received the same information at an earlier court hearing) but nonetheless pleaded guilty, then it would follow that the district court's failure to provide him with the information again at the guilty plea colloquy did not affect the defendant's decision to plead guilty.  But there may well be circumstances in which a court could conclude that the defendant was sufficiently determined to plead guilty that he would have done so even in the absence of the specific information omitted from the Rule 11 colloquy.  In addition, there are cases in which a court could conclude that a Rule 11 error had no effect on the outcome of the proceedings (and thus had no effect on the defendant's substantial rights) even without a retrospective assessment of whether the defendant would have pleaded guilty without the error.  See, e.g., United States v. Raineri, 42 F.3d 36, 42-43 (1st Cir. 1994) (trial court's erroneous notice about the maximum sentence was harmless when the court imposed a sentence within the maximum term it had identified in the Rule 11 colloquy, and there was no reason to conclude that defendant had any expectation of a lesser penalty), cert. denied, 515 U.S. 1126 (1995); United States v. McCarty, 99 F.3d 383 (11th Cir. 1996) (district court's failure to mention possibility of restitution order during Rule 11 colloquy was harmless error, since defendant had notice that he might be required to pay a fine of even greater amount than the restitution that was ordered).
+
+10	While Advisory Committee notes accompanying promulgation of a Federal Rule are "not determinative" of the meaning of that Rule, this Court has long held that those notes are "of weight" in the Court's construction of a Federal Rule.  Torres v. Oakland Scavenger Co., 487 U.S. 312, 316 (1988) (quoting Mississippi Publ'g Corp. v. Murphree, 326 U.S. 438, 444 (1946)); see also United States v. Hyde, 520 U.S. 670, 676-677 (1997) (relying on advisory committee's note (1983 Amendment) accompanying Fed. R. Crim. P. 32(e)); United States v. Sells Eng'g, Inc., 463 U.S. 418, 428-429 (1983) (relying on advisory committee's note accompanying Fed. R. Crim. P. 6(e)).
+
+11	As the government noted in its rehearing petition, respondent's initial appearance and arraignment proceedings were not transcribed until after the court issued its initial opinion in this case.  As a result, the government moved to supplement the record with those materials when it filed its rehearing petition.  As respondent acknowledged below, "all these transcripts were in the district court record."  See Resp. Opp. to Pet. for Reh'g 3 n.1.  The court of appeals did not formally rule on the government's motion to supplement the record.  It appears that the court of appeals considered that motion to be moot or irrelevant in light of its decision, on rehearing, that it could not consider any information other than the transcript of the guilty plea hearing to determine whether respondent had been prejudiced by the Rule 11 error. App., infra, 6a-7a ("Thus, we cannot consider the government's claim that [respondent] learned of his right to counsel during earlier court proceedings.").
+
+12	Statistics compiled by the Department of Justice indicate that, in Fiscal Year 1999, 62,418 defendants in federal court were convicted upon a guilty plea, or 94.5% of the total number of 66,055 convicted; in Fiscal Year 1998, 56,896 defendants were convicted upon a guilty plea, or 93.3% of the total number of 60,958 convicted; and in Fiscal Year 1997, 52,514 defendants were convicted upon a guilty plea, or 92.8% of the total number of 56,570 convicted.
+
+ APPENDIX A
+
+ UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCU       
+
+No. 98-50385
+
+UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE
+
+v.
+
+ALPHONSO VONN, DEFENDANT-APPELLANT
+
+         Appeal from the United States District
+ Court for the Central District of California;
+ James M. Ideman, District Judge, Presiding
+ D.C. No. CR-97-00233-JMI
+
+ Argued and Submitted: Sept. 16, 1999
+ Filed: Sept. 14, 2000
+
+ORDER
+
+The opinion filed April 20, 2000, and reported at 211 F.3d 1109, is withdrawn and superseded by the attached opinion.  The petition for rehearing is otherwise denied.
+
+OPINION
+
+         Before: BROWNING, KOZINSKI and WARDLAW,
+ Circuit Judges.     
+
+KOZINSKI, Circuit Judge:
+
+We consider whether we must set aside a guilty plea because the district court failed to advise defendant of his right to be represented by counsel at trial.
+
+I
+
+On February 27, 1997, three men entered the Farmers and Merchants Bank in Long Beach, California, and attempted a daring, if ill-conceived, daytime robbery.  After announcing "[t]his is a holdup," two of the robbers drew guns and instructed everyone to get on the floor.  The third man, Vonn, leapt over the counter with a bag for the tellers to fill with money.  The three men then fled with a grand total of $209, proving yet again that crime doesn't pay.  Adding injury to insult, the three were arrested a short time later and police recovered the entire booty from Vonn's sock.
+
+Vonn was initially charged with armed bank robbery in violation of 18 U.S.C. § 2113(a) and (d) and chose to plead guilty.  As required by Rule 11(c) of the Federal Rules of Criminal Procedure, the court informed Vonn of the rights he was relinquishing: the right against self-incrimination, the right to trial by jury, the right to confront witnesses and the right to present evidence in his own behalf.  Absent from the litany of Rule 11(c) rights ticked off by the district court was the right to counsel at trial.  Cf. Fed. R. Crim P. 11(c)(3).
+
+The government then filed a superseding indictment charging Vonn with conspiracy to commit bank robbery in violation of 18 U.S.C. § 371 and carrying a firearm during a crime of violence in violation of 18 U.S.C. 
+
+§ 924(c).  Vonn pleaded guilty to these additional charges and the court again instructed him as to the rights he was giving up.  Again, the district judge failed to inform Vonn of his right to an attorney at trial as required by Rule 11(c)(3).  This time the government attempted to point out the court's error:
+
+Ms. Lu (for 	Your Honor?
+
+the government):
+
+The Court:	What?
+
+Ms. Lu:	If we could-I don't know remember hearing the Court inform the defendant of his right to assistance of counsel.
+
+The Court:	I didn't because [he] is represented by counsel.
+
+Reporter's Transcript of Proceedings, Change of Plea at 10-11.
+
+Vonn subsequently moved to withdraw his guilty plea on the gun charge, arguing that he was not guilty and his plea was the result of a mistake.  The court denied Vonn's motion.  In the Presentence Report, Vonn's probation officer recommended a prison term at the low end of the spectrum given "the minimal loss and [Vonn's] lack of criminal history."  Vonn was sentenced to a total of 97 months.  On appeal, he seeks to have all of his convictions set aside due to the district judge's failure to advise him of his right to counsel at trial.1
+
+II
+
+According to Rule 11, prior to accepting a guilty plea, "the court must address the defendant personally in open court and inform the defendant" of his rights.          Fed. R. Crim. P. 11(c) (emphasis added).  The Rule then goes on to list the specific rights the court must explain to the defendant.  If the district court fails to properly advise a defendant of his rights under Rule 11(c), we typically allow him to withdraw his guilty plea.  See United States v. Odedo, 154 F.3d 937, 939 (9th Cir. 1998) (holding that where "the district court violated the requirements of Rule 11" it was "necessary to remand so that [defendant] has the opportunity to enter a new plea").
+
+The government has all but conceded that the requirements of Rule 11 were not satisfied here. See Appellee's Brief at 1 (posing the issue presented as "[w]hether  .  .  .  the district court's failure explicitly to advise (sic) defendant of his right to the continued assistance of counsel at trial affected defendant's substantial rights").  Nevertheless, the government offers two arguments as to why Vonn ought not be allowed to withdraw his guilty plea.  The first is that he is precluded from raising his Rule 11 claim with respect to the firearms charge because he failed to raise it below in his motion to withdraw the plea.  Second, the government argues that the district court's failure to adhere strictly to the requirements of Rule 11(c)(3) was harmless error.
+
+A.	Waiver
+
+The government correctly points out that we do not normally consider issues raised for the first time on appeal.  See United States v. Rubalcaba, 811 F.2d 491, 493 (9th Cir. 1987) (refusing to "consider the merits" because defendant "failed to raise this claim below in his motion to withdraw his plea  .  .  .  [and] fail[ed] to satisfy any  .  .  .  exceptions").  However, we have held that this does not apply to Rule 11 errors.  Instead, Rule 11 has its own review mechanism, which supersedes the normal waiver rule.  See Odedo, 154 F.3d at 940, ("[T]he Rule 11(h) 'harmless error' standard applies to all Rule 11 errors, regardless of whether they were ever raised before the district court.").2  Thus, the case turns on our resolution of the government's second argument, that the district court's error was harmless.
+
+B.	Harmless Error
+
+Under Rule 11(h), we must disregard variances from the colloquy that do not "affect substantial rights."  Fed. R. Crim. P. 11(h).  We have interpreted this to mean that we must inquire whether the defendant was aware of his rights despite the judge's failure to advise him.  See United States v. Graibe, 946 F.2d 1428, 1435 (9th Cir. 1991) (requiring that government make "an affirmative showing on the record that the defendant was actually aware of the advisement" for the error to be harmless).
+
+In determining what the defendant knew, "we are limited to what the record of the plea proceeding contains."  Id. at 1434.  The requirements of Rule 11 are so easy to follow that we will not go beyond the plea proceeding in considering whether the defendant was aware of his rights.  See Odedo, 154 F.3d at 940 ("Our review is limited to the record of the plea proceeding."); United States v. Gastelum, 16 F.3d 996, 999 (9th Cir. 1994) ("This requirement ensures that a defendant is fully aware of his rights when his plea is entered-that he is aware of them at the time they are being waived."); United States v. Kennell, 15 F.3d 134, 138 (9th Cir. 1994) ("In making the critical inquiry into what Kennell actually knew at the time he entered his plea, we are limited to the contents of the record of the plea proceeding.").3  Thus, we cannot consider the government's claim that Vonn learned of his right to counsel during earlier court proceedings.
+
+The government suggests that the Assistant United States Attorney's reminder to the district court during the plea proceeding alerted the defendant to his right to assistance of counsel at trial.  See p. 1154 [3a], supra.  We sympathize with the government's position and recognize its good faith effort to correct the district court's error.  However, the transcript of the government's attempted correction does not yield the unequivocal evidence we would need before we could deem Vonn aware of his continuing right to counsel at trial.
+
+The prosecutor's statement was elliptical at best: "If we could-I don't know remember hearing the court inform the defendant of his right to assistance of counsel."  Reporter's Transcript of Proceedings, Change of Plea at 10-11.  For those familiar with the legal system, the import of the lawyer's statement is apparent: She was reminding the district court of defendant's right to representation of counsel at trial.  However, for an inexperienced criminal defendant, the statement could be baffling, as it does not mention the availability of counsel at trial.  And the district court's response to the government's reminder, "I didn't because [he] is represented by counsel," id. at 11, might confuse even an experienced criminal defendant.  We cannot assume that Vonn understood the point of the government's objection.
+
+The government also relies on cases from other circuits which appear to hold that a defendant who is represented by counsel at his plea hearing, is presumed to be aware of his right to counsel at trial.  See, e.g., United States v. Gomez-Cuevas, 917 F.2d 1521, 1526 (10th Cir. 1990) ("[T]here was no prejudice in the court's failure to advise Gomez he had a right to counsel because Gomez already was represented by counsel."); United States v. Lovett, 844 F.2d 487, 491 (7th Cir. 1988) ("Lovett was represented by an attorney.  Therefore, the district court was not required to inform Lovett that even if he could not afford one, an attorney could be appointed to assist him at trial."); United States v. Caston, 615 F.2d 1111, 1113-15 (5th Cir. 1980) (harmless error where court failed to explicitly advise defendant of right to assistance of counsel at trial); United States v. Saft, 558 F.2d 1073, 1080 (2d Cir. 1977) ("[I]t would defy reality to suppose that Saft had any doubts" about his appointed counsel's continuing to represent him at trial, because unlike "a defendant with retained counsel who might worry that his money might run out  .  .  .  .  there was no suggestion that [Saft's] counsel would abandon him if he went to trial.").
+
+While language in these cases supports the government's position, most rely upon evidence outside of the plea proceeding.4  This our precedent firmly precludes.  See pp. 1155-56 [6a], supra.  Gomez-Cuevas is the only case cited by the government where the fact that a defendant was represented at the plea hearing was deemed sufficient to support the inference that he knew of his right to counsel at trial.  See 917 F.2d at 1526.  However, it is also out of step with our case law, which requires "an affirmative showing on the record" that defendant was aware of his rights.  See Graibe, 946 F.2d at 1435.  Moreover, it is inconsistent with the structure of Rule 11.  Subsection (c)(3) of the rule specifies the rights of which defendant must be advised even if he is represented by counsel, and this includes the right to counsel at trial.  The drafters of the rule, thus, did not consider the admonition redundant simply because defendant is represented by counsel at the plea hearing.5  The fact that a criminal defendant has been assigned a lawyer for a plea hearing does not, standing alone, absolve the district judge of his responsibility to advise the defendant of his continuing right to an attorney at trial under Rule 11(c)(3).
+
+CONCLUSION
+
+Because the district court erred in advising Vonn of his rights under Rule 11(c)(3), and that error was not harmless, we vacate Vonn's sentence and guilty pleas and remand for further proceedings consistent with this opinion.
+
+VACATED and REMANDED. 
+
+1	Vonn also claims the district court erred in failing to warn him that statements he made in the change of plea hearing could be used against him in a future perjury prosecution.  Because we find the failure to advise him of the right to counsel to be dispositive, we need not address this claim.
+
+2	We note, moreover, that accepting the government's waiver argument would create a curious anomaly: We would be precluded from considering the failure to caution defendant of his right to counsel on the gun charge, as to which he made a motion to withdraw the plea (but failed to raise the rule 11 argument), but we would not be precluded from considering the issue with respect to the remaining counts, as to which defendant made no motion to withdraw the plea.
+
+3	United States v. Dawson, 193 F.3d 1107 (9th Cir. 1999), distinguished Gastelum, 16 F.3d 996, on the grounds that the court might look beyond the plea proceeding on habeas review, even though it would not on direct appeal.  See Dawson, 193 F.3d at 1110.  While we are not convinced the distinction makes sense, our case falls on the Gastelum side of the line.
+
+4	In Lovett, the court relied upon the defendant's prior dealings with the criminal justice system as suggesting his awareness of his right to counsel.  See Lovett, 844 F.2d at 492 ("[T]here is no suggestion in the record that Lovett did not know about his right to counsel at trial  .  .  .  through his own extensive experience as a criminal defendant.").  Likewise, Caston had been in the criminal justice system before and his experience supported the inference that he was familiar with his right to counsel at trial.  See Caston, 615 F.2d at 1115 ("[Caston] was an experienced defendant.  .  .  .").  Finally, in Saft, the court relied on evidence that the defendant was actually aware that his lawyer would continue to represent him at trial.  See Saft, 558 F.2d at 1080 ("Saft's affidavit in support of his motion to withdraw his guilty plea stated that prior to the opening of serious plea discussions in September 1976, 'my attorney and I had looked forward to trial as the ultimate forum for proving that I am not guilty of the crimes charged.'"
+
+5	By contrast, subsection (c)(2) of the rule lists certain advisements that the court may omit if the defendant is already represented.  See Fed. R. Crim. P. 11(c)(2).
+
+APPENDIX B
+
+         UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+ No. 98-50385
+
+ UNITED STATES OF AMERICA, PLAINTIFF-APPELLEE
+
+ v.
+
+ ALPHONSO VONN, DEFENDANT-APPELLANT
+
+ Appeal from the United States District
+ Court for the Central District of California
+ James M. Ideman, District Judge, Presiding
+ D.C. No. CR-97-00233-JMI
+
+ Argued and Submitted: Sept. 16, 1999
+ Filed: April 20, 2000
+
+ Before: BROWNING, KOZINSKI and WARDLAW,
+ Circuit Judges.
+
+KOZINSKI, Circuit Judge.
+
+We consider whether we must set aside a guilty plea because the district court failed to advise defendant of his right to be represented by counsel at trial.
+
+I
+
+On February 27, 1997, three men entered the Farmers and Merchants Bank in Long Beach, California, and attempted a daring, if ill-conceived, daytime robbery.  After announcing "[t]his is a holdup," two of the robbers drew guns and instructed everyone to get on the floor.  The third man, Vonn, leapt over the counter with a bag for the tellers to fill with money.  The three men then fled with a grand total of $209, proving yet again that crime doesn't pay.  Adding injury to insult, the three were arrested a short time later and police recovered the entire booty from Vonn's sock.
+
+Vonn was initially charged with armed bank robbery in violation of 18 U.S.C. § 2113(a) and (d) and chose to plead guilty.  As required by Rule 11(c) of the Federal Rules of Criminal Procedure, the court informed Vonn of the rights he was relinquishing: the right against self-incrimination, the right to trial by jury, the right to confront witnesses and the right to present evidence in his own behalf.  Absent from the litany of Rule 11(c) rights ticked off by the district court was the right to counsel at trial.  Cf. Fed. R. Crim P. 11(c)(3).
+
+The government then filed a superseding indictment charging Vonn with conspiracy to commit bank robbery in violation of 18 U.S.C. § 371 and carrying a firearm during a crime of violence in violation of 18 U.S.C.                          § 924(c).  Vonn pleaded guilty to these additional charges and the court again instructed him as to the rights he was giving up.  Again, the district judge failed to inform Vonn of his right to an attorney at trial as
+
+required by Rule 11(c)(3).  This time the government attempted to point out the court's error:
+
+Ms. Lu (for the	Your Honor?
+
+	government):
+
+The Court:	What?
+
+Ms. Lu:	If we could-I don't know remember hearing the Court inform the defendant of his right to assistance of counsel.
+
+The Court:	I didn't because [he] is represented by counsel.
+
+Reporter's Transcript of Proceedings, Change of Plea at 10-11.
+
+Vonn subsequently moved to withdraw his guilty plea on the gun charge, arguing that he was not guilty and his plea was the result of a mistake.  The court denied Vonn's motion.  In the Presentence Report, Vonn's probation officer recommended a prison term at the low end of the spectrum given "the minimal loss and [Vonn's] lack of criminal history."  Vonn was sentenced to a total of 97 months.  On appeal, he seeks to have all of his convictions set aside due to the district judge's failure to advise him of his right to counsel at trial.1
+
+II
+
+According to Rule 11, prior to accepting a guilty plea, "the court must address the defendant personally in open court and inform the defendant" of his rights.  Fed. R. Crim. P. 11(c) (emphasis added).  The Rule then goes on to list the specific rights the court must explain to the defendant.  If the district court fails to properly advise a defendant of his rights under Rule 11(c), we typically allow him to withdraw his guilty plea.  See United States v. Odedo, 154 F.3d 937, 939 (9th Cir. 1998) (holding that where "the district court violated the requirements of Rule 11" it was "necessary to remand so that [defendant] has the opportunity to enter a new plea").
+
+The government has all but conceded that the requirements of Rule 11 were not satisfied here.  See Appellee's Brief at 1 (posing the issue presented as "[w]hether  .  .  .  the district court's failure explicitly to advise (sic) defendant of his right to the continued assistance of counsel at trial affected defendant's substantial rights").  Nevertheless, the government offers two arguments as to why Vonn ought not be allowed to withdraw his guilty plea.  The first is that he is precluded from raising his Rule 11 claim with respect to the firearms charge because he failed to raise it below in his motion to withdraw the plea.  Second, the government argues that the district court's failure to adhere strictly to the requirements of Rule 11(c)(3) was harmless error.
+
+A.	Waiver
+
+The government correctly points out that we do not normally consider issues raised for the first time on appeal.  See United States v. Rubalcaba, 811 F.2d 491, 493 (9th Cir. 1987) (refusing to "consider the merits" because defendant "failed to raise this claim below in his motion to withdraw his plea  .  .  .  [and] fail[ed] to  satisfy any  .  .  .  exceptions").  However, we have held that this does not apply to Rule 11 errors.  Instead, Rule 11 has its own review mechanism, which supersedes the normal waiver rule.  See Odedo, 154 F.3d at 940, ("[T]he Rule 11(h) 'harmless error' standard applies to all Rule 11 errors, regardless of whether they were ever raised before the district court.").2  Thus, the case turns on our resolution of the government's second argument, that the district court's error was harmless.
+
+B.	Harmless Error
+
+Under Rule 11(h), we must disregard variances from the colloquy that do not "affect substantial rights."  Fed. R. Crim. P. 11(h).  We have interpreted this to mean that we must inquire whether the defendant was aware of his rights despite the judge's failure to advise him.  See, e.g., United States v. Dawson, 193 F.3d 1107, 1110 (9th Cir. 1999) (approving district court's examination of defendant's "recent experience in other criminal cases, which suggested that he knew the rights he waived by pleading guilty"); United States v. Graibe, 946 F.2d 1428, 1435 (9th Cir. 1991) (requiring that government make "an affirmative showing on the record that the defendant was actually aware of the advisement" for the error to be harmless).
+
+What evidence is there that Vonn was aware of his right to counsel at trial, even though the district court neglected to inform him of it?  The government points to the initial status conference where Vonn declared his intention to go to trial on the gun charge.  According to the government, the discussion during the conference, set out in the margin,3 indicates that all parties knew that Vonn would continue to be represented by Mr. Li, his appointed lawyer, at trial.  Furthermore, according to the government, the district court informed both lawyers of the trial date, which should have made clear to Vonn that Mr. Li was to appear on his behalf at that time.4
+
+Nothing in the transcript indicates that Vonn was aware of his continued right to counsel if he chose to go to trial.  The district court did not mention that right, nor did Vonn say anything, much less anything that clearly suggests he was aware of this right.  The brief conference between Vonn and his lawyer, as the district court and government counsel watched, was off the record and we have no clue as to what was said between them.  This hardly amounts to "an affirmative showing on the record that the defendant was actually aware of the advisement."  Graibe, 946 F.2d at 1435.
+
+The scheduling colloquy presents a closer question. Given some familiarity with how court proceedings are conducted, one would infer that when the court announces a future court appearance in the case, counsel are expected to be present unless specifically excused.  But Vonn had no prior criminal record, nor do we have any indication that he was familiar with courtroom proceedings.  We therefore cannot assume that he was aware of this convention.  The district judge certainly did not say anything like, "I expect both counsel to be here on that date," nor would we expect him to do so, as counsel would know to be present without any such admonition.  But the client is presumed not to know all the things counsel knows, which is why we have a Rule 11 colloquy.  Based on this record, we cannot say with confidence that Vonn knew that he was entitled to be represented by counsel at trial despite the court's failure to advise him of this fact.
+
+The government suggests that the Assistant United States Attorney's reminder to the district court alerted the defendant to his right to assistance of counsel at trial.  See p. 1111-1112 [12a], supra.  We sympathize with the government's position and recognize its good faith effort to correct the district court's error.  However, the transcript of the government's attempted correction does not yield the unequivocal evidence we would need before we could deem Vonn aware of his continuing right to counsel at trial.
+
+The prosecutor's statement was elliptical at best: "If we could-I don't know remember hearing the court inform the defendant of his right to assistance of counsel."  Reporter's Transcript of Proceedings, Change of Plea at 10-11.  For those familiar with the legal system, the import of the lawyer's statement is apparent: She was reminding the district court of defendant's right to representation of counsel at trial. However, for an inexperienced criminal defendant, the statement could be baffling, as it does not mention the availability of counsel at trial.  And the district court's response to the government's reminder, "I didn't because [he] is represented by counsel," id. at 11, might confuse an even more experienced criminal defendant. We cannot assume defendant here understood the government's attempted correction.
+
+The government also relies on cases from other circuits which appear to hold that a defendant who is represented by counsel at his plea hearing, is presumed to be aware of his right to counsel at trial.  See, e.g., United States v. Gomez-Cuevas, 917 F.2d 1521, 1526 (10th Cir. 1990) ("[T]here was no prejudice in the court's failure to advise Gomez he had a right to counsel because Gomez already was represented by counsel."); United States v. Lovett, 844 F.2d 487, 491 (7th Cir. 1988) ("Lovett was represented by an attorney.  Therefore, the district court was not required to inform Lovett that even if he could not afford one, an attorney could be appointed to assist him at trial."); United States v. Caston, 615 F.2d 1111, 1113-15 (5th Cir. 1980) (harmless error where court failed to explicitly advise defendant of right to assistance of counsel at trial); United States v. Saft, 558 F.2d 1073, 1080 (2d Cir. 1977) ("[I]t would defy reality to suppose that Saft had any doubts" about his appointed counsel's continuing to represent him at trial, because unlike "a defendant with retained counsel who might worry that his money might run out  .  .  .  . there was no suggestion that [Saft's] counsel would abandon him if he went to trial.").
+
+While these cases use language that supports the government's position, most did not rely solely on the fact that defendant was represented at the plea hearing.  In Lovett, there was other evidence that the defendant was aware of his right to counsel, including prior dealings with the criminal justice system.  See Lovett, 844 F.2d at 492 ("[T]here is no suggestion in the record that Lovett did not know about his right to counsel at trial  .  .  .  through his own extensive experience as a criminal defendant.").  Caston had been in the criminal justice system before and his experience supported the inference that he was familiar with his right to counsel at trial.  See Caston, 615 F.2d at 1115 ("[Caston] was an experienced defendant  .  .  .  .").  Finally, in Saft, there was evidence that the defendant was actually aware that his lawyer would continue to represent him at trial.  See Saft, 558 F.2d at 1080 ("Saft's affidavit in support of his motion to withdraw his guilty plea stated that prior to the opening of serious plea discussions in September 1976, 'my attorney and I had looked forward to trial as the ultimate forum for proving that I am not guilty of the crimes charged.'").
+
+In Vonn's case, nothing other than the fact that he was represented by counsel at the plea hearing supports the inference that he was aware of his right to counsel at trial.  Vonn has no criminal record and he made no statement that clearly disclosed his understanding that Mr. Li, his plea hearing lawyer, would continue to represent him if he chose to go to trial.
+
+Gomez-Cuevas is the only case cited by the government where the fact that a defendant was represented at the plea hearing was deemed sufficient to support the inference that he knew of his right to counsel at trial.  However, we consider it out of step with our case law which requires "an affirmative showing on the record" that defendant was aware of his rights. United States v. Graibe, 946 F.2d 1428, 1435 (9th Cir. 1991).  Moreover, it is inconsistent with the structure of Rule 11. Subsection (c)(3) of the rule specifies the rights of which defendant must be advised even if he is represented by counsel, and this includes the right to counsel at trial.  The drafters of the rule, thus, did not consider the admonition redundant simply because defendant is represented by counsel at the plea hearing.5  The fact that a criminal defendant has been assigned a lawyer for a plea hearing does not, standing alone, absolve the district judge of his responsibility to advise the defendant of his continuing right to an attorney at trial under Rule 11(c)(3).
+
+CONCLUSION
+
+Because the district court erred in advising Vonn of his rights under Rule 11(c)(3), and that error was not harmless, we vacate Vonn's sentence and guilty pleas and remand for further proceedings consistent with this opinion.
+
+VACATED and REMANDED. 
+
+1	Vonn also claims the district court erred in failing to warn him that statements he made in the change of plea hearing could be used against him in a future perjury prosecution.   Because we find the failure to advise him of the right to counsel to be dispositive, we need not address this claim.
+
+2	We note, moreover, that accepting the government's waiver argument would create a curious anomaly:  We would be precluded from considering the failure to caution defendant of his right to counsel on the gun charge, as to which he made a motion to withdraw the plea (but failed to raise the rule 11 argument), but we would not be precluded from considering the issue with respect to the remaining counts, as to which defendant made no motion to withdraw the plea.
+
+3
+
+The Court:	Oh.  Is that your understand [sic] Counsel? Do you and your client understand that the Government wants to pursue the gun allegation apparently?
+
+Mr. Li: 	Yes,  I do, Your Honor-
+
+The Court:	The Government's position is that Mr. Vonn personally used a firearm, right?
+
+Ms. Lu:  	Yes.
+
+The Court:	And he doesn't want to admit that.  So he would be admitting the armed bank robbery and admitting that somebody in the group used a gun but not necessarily it was he, right?
+
+Mr. Li: 	Yes, Your Honor.  Can I have a moment, Your Honor?
+
+The Court:	Yes.
+
+(Pause in the proceedings)
+
+Mr. Li: 	We will proceed, Your Honor.
+
+The Court:	Is there really any point in taking this plea?  If we're going to go through a whole, the jury is going to have to hear the whole case anyway then to figure out whether or not he used a gun.
+
+Mr. Li:	I understand, Your Honor.  But it's my client's desire to plead guilty to Count One.
+
+Reporter's Transcript of Proceedings, Status conference, Monday, May 12, 1997 at 3-4.
+
+4	
+
+The Court:	Let's see.  Jury trial is set for June 10th. We can just leave it on the calendar for June 10th, then, for trial.
+
+Mr. Li:  	Yes, your Honor.
+
+Ms. Lu: 	Very well.
+
+The Court:	That will be the order then.  The trial will remain as set for June 10th, on Count Two, and the sentencing date will remain as set by the Court.  We'll see you back here on June 10th.
+
+Reporter's Transcript of Proceedings, Status Conference, May 12, 1997 at 12-13.
+
+5	By contrast, subsection (c)(2) of the rule lists certain advisements that the court may omit if the defendant is already represented.  See Fed. R. Crim. P. 11(c)(2).
+
+        Brief
+
+              2000-0973.pet.aa.pdf
+              [PDF, ]

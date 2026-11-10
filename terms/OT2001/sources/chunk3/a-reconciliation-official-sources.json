@@ -1,0 +1,30 @@
+[
+  {
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep534/usrep534506/usrep534506.pdf",
+    "file": "terms/OT2001/sources/chunk3/swierkiewicz-official.pdf",
+    "pages": 10,
+    "sha256": "d1af6d0b85320194ceb1290fa5bd676f659c433c9bed9838b4cef45a5546cff0",
+    "text_file": "terms/OT2001/sources/chunk3/swierkiewicz-official.txt"
+  },
+  {
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep534/usrep534516/usrep534516.pdf",
+    "file": "terms/OT2001/sources/chunk3/porter-official.pdf",
+    "pages": 17,
+    "sha256": "ba703ea76b2ca3a12383c720bc819cbc6424864aefadbf5f9cb0f1d25e01eab6",
+    "text_file": "terms/OT2001/sources/chunk3/porter-official.txt"
+  },
+  {
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep534/usrep534533/usrep534533.pdf",
+    "file": "terms/OT2001/sources/chunk3/raygor-official.pdf",
+    "pages": 23,
+    "sha256": "323414bb87cf1398173ab2459ff2034e82177ff1729262c32f4e5cdc25c1ecbe",
+    "text_file": "terms/OT2001/sources/chunk3/raygor-official.txt"
+  },
+  {
+    "source": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep535/usrep535043/usrep535043.pdf",
+    "file": "terms/OT2001/sources/chunk3/young-official.pdf",
+    "pages": 12,
+    "sha256": "9fbbf12ad6953a60366d8147ed7f20177c5df22fd456a504a2061f87b9aa41c8",
+    "text_file": "terms/OT2001/sources/chunk3/young-official.txt"
+  }
+]

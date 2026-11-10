@@ -1,0 +1,90 @@
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
+
+§ 1367
+
+ant to this section shall not abate upon adjournment sine die by the Senate at the end of a Congress if the Senate or the committee or subcommittee of the Senate which issued the subpena or order certifies to the court that it maintains its interest in securing the documents, answers, or testimony during such adjournment.
+[(c) Repealed. Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359.]
+(d) The Senate or any committee or subcommittee of the Senate commencing and prosecuting a civil action or contempt proceeding under this section may be represented in such action by such attorneys as the Senate may designate.
+(e) A civil action commenced or prosecuted under this section, may not be authorized pursuant to the Standing Order of the Senate ‘‘authorizing suits by Senate Committees’’ (S. Jour. 572, May 28, 1928).
+(f) For the purposes of this section the term ‘‘committee’’ includes standing, select, or special committees of the Senate established by law or resolution.
+(Added Pub. L. 95–521, title VII, § 705(f)(1), Oct. 26, 1978, 92 Stat. 1879, § 1364; amended Pub. L. 98–620, title IV, § 402(29)(D), Nov. 8, 1984, 98 Stat. 3359; renumbered § 1365, Pub. L. 99–336, § 6(a)(1)(B), June 19, 1986, 100 Stat. 638; Pub. L. 104–292, § 4, Oct. 11, 1996, 110 Stat. 3460.)
+AMENDMENTS
+1996—Subsec. (a). Pub. L. 104–292 substituted ‘‘executive branch of the Federal Government acting within his or her official capacity, except that this section shall apply if the refusal to comply is based on the assertion of a personal privilege or objection and is not based on a governmental privilege or objection the assertion of which has been authorized by the executive branch of the Federal Government’’ for ‘‘Federal Government acting within his official capacity’’.
+1984—Subsec. (c). Pub. L. 98–620 struck out subsec. (c) which provided that in any civil action or contempt proceeding brought pursuant to this section, the court had to assign the action or proceeding for hearing at the earliest practicable date and cause the action or proceeding in every way to be expedited, and that any appeal or petition for review from any order or judgment in such action or proceeding had to be expedited in the same manner.
+EFFECTIVE DATE OF 1984 AMENDMENT
+Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as an Effective Date note under section 1657 of this title.
+EFFECTIVE DATE
+Section effective Jan. 3, 1979, see section 717 of Pub. L. 95–521, set out as a note under section 288 of Title 2, The Congress.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 2 section 288d.
+§ 1366. Construction of references to laws of the United States or Acts of Congress
+For the purposes of this chapter, references to laws of the United States or Acts of Congress do not include laws applicable exclusively to the District of Columbia.
+(Added Pub. L. 91–358, title I, § 172(c)(1), July 29, 1970, 84 Stat. 590, § 1363; renumbered § 1364, Pub.
+
+L. 95–572, § 6(b)(1), Nov. 2, 1978, 92 Stat. 2456; renumbered § 1366, Pub. L. 99–336, § 6(a)(1)(C), June 19, 1986, 100 Stat. 639.)
+§ 1367. Supplemental jurisdiction
+(a) Except as provided in subsections (b) and (c) or as expressly provided otherwise by Federal statute, in any civil action of which the district courts have original jurisdiction, the district courts shall have supplemental jurisdiction over all other claims that are so related to claims in the action within such original jurisdiction that they form part of the same case or controversy under Article III of the United States Constitution. Such supplemental jurisdiction shall include claims that involve the joinder or intervention of additional parties.
+(b) In any civil action of which the district courts have original jurisdiction founded solely on section 1332 of this title, the district courts shall not have supplemental jurisdiction under subsection (a) over claims by plaintiffs against persons made parties under Rule 14, 19, 20, or 24 of the Federal Rules of Civil Procedure, or over claims by persons proposed to be joined as plaintiffs under Rule 19 of such rules, or seeking to intervene as plaintiffs under Rule 24 of such rules, when exercising supplemental jurisdiction over such claims would be inconsistent with the jurisdictional requirements of section 1332.
+(c) The district courts may decline to exercise supplemental jurisdiction over a claim under subsection (a) if—
+(1) the claim raises a novel or complex issue of State law,
+(2) the claim substantially predominates over the claim or claims over which the district court has original jurisdiction,
+(3) the district court has dismissed all claims over which it has original jurisdiction, or
+(4) in exceptional circumstances, there are other compelling reasons for declining jurisdiction.
+(d) The period of limitations for any claim asserted under subsection (a), and for any other claim in the same action that is voluntarily dismissed at the same time as or after the dismissal of the claim under subsection (a), shall be tolled while the claim is pending and for a period of 30 days after it is dismissed unless State law provides for a longer tolling period.
+(e) As used in this section, the term ‘‘State’’ includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+(Added Pub. L. 101–650, title III, § 310(a), Dec. 1, 1990, 104 Stat. 5113.)
+REFERENCES IN TEXT
+The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in the Appendix to this title.
+EFFECTIVE DATE
+Section 310(c) of Pub. L. 101–650 provided that: ‘‘The amendments made by this section [enacting this section] shall apply to civil actions commenced on or after the date of the enactment of this Act [Dec. 1, 1990].’’
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in title 42 section 13981.
+
+§ 1368
+
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
+
+§ 1368. Counterclaims in unfair practices in international trade.
+The district courts shall have original jurisdiction of any civil action based on a counterclaim raised pursuant to section 337(c) of the Tariff Act of 1930, to the extent that it arises out of the transaction or occurrence that is the subject matter of the opposing party’s claim in the proceeding under section 337(a) of that Act.
+(Added Pub. L. 103–465, title III, § 321(b)(3)(A), Dec. 8, 1994, 108 Stat. 4946.)
+REFERENCES IN TEXT
+Section 337 of the Tariff Act of 1930, referred to in text, is classified to section 1337 of Title 19, Customs Duties.
+EFFECTIVE DATE
+Section applicable with respect to complaints filed under section 1337 of Title 19, Customs Duties, on or after the date on which the World Trade Organization Agreement enters into force with respect to the United States [Jan. 1, 1995], or in cases under section 1337 of Title 19 in which no complaint is filed, with respect to investigations initiated under such section on or after such date, see section 322 of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under section 1337 of Title 19.
+
+CHAPTER 87—DISTRICT COURTS; VENUE
+
+Sec.
+1391. 1392.
+[1393. 1394.
+1395. 1396. 1397. 1398. 1399. 1400.
+1401. 1402. 1403. 1404. 1405. 1406. 1407. 1408. 1409.
+1410.
+1411. 1412. 1413.
+
+Venue generally. Defendants or property in different districts
+in same State. Repealed.] Banking association’s action against Comp-
+troller of Currency. Fine, penalty or forfeiture. Internal revenue taxes. Interpleader. Interstate Commerce Commission’s orders. Partition action involving United States. Patents and copyrights, mask works, and de-
+signs. Stockholder’s derivative action. United States as defendant. Eminent domain. Change of venue. Creation or alteration of district or division. Cure or waiver of defects. Multidistrict litigation. Venue of cases under title 11. Venue of proceedings arising under title 11 or
+arising in or related to cases under title 11. Venue of cases ancillary to foreign proceed-
+ings. Jury trials. Change of venue. Venue of cases under chapter 5 of title 3.
+
+AMENDMENTS
+
+1998—Pub. L. 105–304, title V, § 503(c)(3), Oct. 28, 1998, 112 Stat. 2917 inserted ‘‘, mask works, and designs’’ in item 1400.
+1996—Pub. L. 104–331, § 3(b)(2)(B), Oct. 26, 1996, 110 Stat. 4069, which directed amendment of table of sections for chapter 37 by adding item 1413 at end, was executed by adding item 1413 at end of table of sections for chapter 87 to reflect the probable intent of Congress.
+1988—Pub. L. 100–702, title X, § 1001(a), Nov. 19, 1988, 102 Stat. 4664, struck out item 1393 ‘‘Divisions; single defendant; defendants in different divisions’’.
+1984—Pub. L. 98–353, title I, § 102(b), July 10, 1984, 98 Stat. 335, added items 1408 to 1412.
+1978—Pub. L. 95–598, title II, § 240(b), Nov. 6, 1978, 92 Stat. 2668, directed the addition of item 1408, ‘‘Bank-
+
+ruptcy appeals’’, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1968—Pub. L. 90–296, § 2, Apr. 29, 1968, 82 Stat. 110, added item 1407.
+CHAPTER REFERRED TO IN OTHER SECTIONS
+This chapter is referred to in title 42 section 3612.
+§ 1391. Venue generally
+(a) A civil action wherein jurisdiction is founded only on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant is subject to personal jurisdiction at the time the action is commenced, if there is no district in which the action may otherwise be brought.
+(b) A civil action wherein jurisdiction is not founded solely on diversity of citizenship may, except as otherwise provided by law, be brought only in (1) a judicial district where any defendant resides, if all defendants reside in the same State, (2) a judicial district in which a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) a judicial district in which any defendant may be found, if there is no district in which the action may otherwise be brought.
+(c) For purposes of venue under this chapter, a defendant that is a corporation shall be deemed to reside in any judicial district in which it is subject to personal jurisdiction at the time the action is commenced. In a State which has more than one judicial district and in which a defendant that is a corporation is subject to personal jurisdiction at the time an action is commenced, such corporation shall be deemed to reside in any district in that State within which its contacts would be sufficient to subject it to personal jurisdiction if that district were a separate State, and, if there is no such district, the corporation shall be deemed to reside in the district within which it has the most significant contacts.
+(d) An alien may be sued in any district. (e) A civil action in which a defendant is an officer or employee of the United States or any agency thereof acting in his official capacity or under color of legal authority, or an agency of the United States, or the United States, may, except as otherwise provided by law, be brought in any judicial district in which (1) a defendant in the action resides, (2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3) the plaintiff resides if no real property is involved in the action. Additional persons may be joined as parties to any such action in accordance with the Federal Rules of Civil Procedure and with such other venue requirements as would be applicable if the United States or one of its officers, employees, or agencies were not a party.
+
+

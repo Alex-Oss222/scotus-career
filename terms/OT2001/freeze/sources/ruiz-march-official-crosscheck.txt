@@ -1,0 +1,519 @@
+REVISED - March 22, 2001
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+No. 99-20228
+DAVID RUIZ; ET AL.,
+ Plaintiffs-Appellees-Cross-Appellants-Appellees,
+versus
+UNITED STATES OF AMERICA,
+Intervener Plaintiff-Appellee-Cross-Appellant,
+versus
+GARY L. JOHNSON, Director, Texas Department 
+of Criminal Justice, Institutional Division; ALLEN 
+B. POLUNSKY; CAROLE S. YOUNG; JOHN R. 
+WARD, Member, Texas Board of Criminal Justice;
+JOHN DAVID FRANZ; NANCY PATTON, Member,
+Texas Board of Criminal Justice, CAROL S. VANCE,
+Member, Texas Board of Criminal Justice; PATRICIA
+DAY; ALFRED C. MORAN; ALFRED M. 
+STRINGFELLOW, 
+Defendants-Appellants-Cross-Appellees,
+REPRESENTATIVE JOHN CULBERSON;
+SENATOR J. E. “BUSTER” BROWN,
+Intervener Defendants-Appellants-Cross-Appellees.
+Appeal from the United States District Court
+for the Southern District of Texas, Houston
+March 20, 2001
+1TDCJ-ID is the successor to TDC.
+2Rule 60(b)(5) provides that 
+2
+Before REYNALDO G. GARZA, STEWART, and DENNIS, Circuit Judges.
+CARL E. STEWART, Circuit Judge:
+Texas prison officials appeal from the district court’s denial of their motions to terminate
+prospective relief pursuant to 18 U.S.C. §§ 3626(b)(1) and (b)(2).  For the following reasons, we
+reverse and remand.     
+FACTUAL AND PROCEDURAL BACKGROUND
+The almost 30-year history of this case is well known within this circuit.  In 1972, David 
+Ruiz and other inmates (“inmates”) filed civil rights claims pursuant to 42 U.S.C. § 1983 against the
+director of the Texas Department of Corrections (“TDC”), seeking declaratory and injunctive relief
+for unconstitutional conditions and practices.  The claims were consolidated and certified as a class
+in 1974, and in 1980, the district court issued an opinion finding numerous constitutional violations.
+The court issued a consent decree in 1981 that this Court affirmed in part in 1982.  The parties
+continued to modify the remedial measures, and ultimately, the district court approved a proposed
+judgment by the parties in 1992.  This judgment replaced previous orders and compliance plans and
+resulted in the termination of the district court’s jurisdiction in certain substantive areas.  However,
+the court retained jurisdiction in other areas. 
+On March 25, 1996, the director of the Institutional Division of the Texas Department of
+Criminal Justice (“TDCJ-ID”)1 and members of the Texas Board of Criminal Justice (“the
+defendants”), filed a motion to vacate the 1992 judgment pursuant to Fed. R. Civ. P. 60(b)(5).2 One
+[o]n motion and upon such terms as are just, the court may relieve a party or a party’s
+legal representative from a final judgment, order, or proceeding [where] the judgment
+has been satisfied, released, or discharged, or a prior judgment upon which it is based
+has been reversed or otherwise vacated, or it is no longer equitable that the judgment
+should have prospective application.
+FED. R. CIV. P. 60(b)(5).       
+3Eventually, the defendants dropped their Rule 60(b)(5) motion.
+3
+month later, o n April 26, 1996, Congress enacted the Prison Litigation Reform Act (“PLRA”).
+Under the PLRA, federal courts may grant or terminate prospective relief in prison litigation, subject
+to delineated standards.  See 18 U.S.C. § 3626.  Courts may refuse to terminate prospective relief
+only upon making specific findings regarding the continued necessity of such relief.  See id.  
+Following the enactment of the PLRA, the defendants filed a motion to terminate the 1992
+consent decree pursuant to 18 U.S.C. § 3626 (b)(2), which provides for the immediate termination
+of prospective relief.3  Specifically, § 3626(b)(2) provides:
+(2) Immediate termination of prospective relief.  In any civil action with respect 
+to prison conditions, a defendant or intervener shall be ent itled to the immediate
+termination of any pro spective relief if the relief was approved or granted in the
+absence of a finding by the court that the relief is narrowly drawn, extends no further
+than necessary to correct the violation of the Federal right, and is the least intrusive
+means necessary to correct the violation of the Federal right.
+18 U.S.C. § 3626(b)(2).  Two years after the enactment of the PLRA, the defendants filed a
+subsequent motion under § 3626(b)(1)(A)(iii), the two-year termination provision of the PLRA.  That
+section provides:
+(1) Termination of prospective relief. . . (A) In any civil action with respect to prison
+conditions in which prospective relief is ordered, such relief shall be terminable upon
+the motion of any party or intervener . . .  
+(iii) in the case of an order issued on or before the date of enactment of the Prison
+Litigation Reform Act, 2 years after such date of enactment.
+4On October 28, 1998, the defendants petitioned this Court for a writ of mandamus to compel
+the district court to rule immediately on its motion to terminate prospective relief and to terminate
+extra-constitutional aspects of the 1992 judgment.  On November 4, 1998, the district court set a
+fact-finding hearing on the defendants’ motions to terminate prospective relief for January 21, 1999.
+This Court denied the petition for a writ of mandamus, but ordered the district court to rule on the
+defendants’ motions no later than March 1, 1999.  Having denied a similar petition by the defendants
+16 months prior, we stated: “We are dismayed by the amount of delay the district court has allowed
+for discovery related to the defendants’ motion to vacate.  We would be inclined to grant the writ of
+mandamus and order the district court to rule instanter, were we not aware that the district court has
+scheduled its evidentiary hearing in this matter just one month from now, on January 21, 1999.” 
+According to the district court, the fact-finding hearing was necessarily truncated to comply
+with this Court’s March 1st deadline, and it was forced to limit each party to 50 hours of testimony.
+      
+4
+18 U.S.C. § 3626(b)(1)(A)(iii).  Both termination provisions, pursuant to which the defendants filed
+their motions, are subject to a limitation provision, which states:
+(3) Limitation.  Prospective relief shall not terminate if the co urt makes written
+findings based o n the record that prospective relief remains necessary to correct a
+current and ongoing violation of the Federal right, extends no further than necessary
+to correct the violation of the Federal right, and that the prospective relief is narrowly
+drawn and the least intrusive means to correct the violation.
+18 U.S.C. § 3626(b)(3).
+After various disputes, which included appeals to this Court, on March 1, 1999, the district
+court declared that the PLRA’s termination provisions violate separation of powers principles and
+due process.4 Alternatively, the court found that TDCJ-ID suffers from systemwide constitutional
+violations in the areas of inmate protection, use of force, and administrative segregation.  The court
+made the alternative findings in the event this Court finds t he PLRA’s termination provisions
+constitutional.  The court did not find constitutional violations in the areas of medical and psychiatric
+care.
+On appeal, the defendants and the United States as Intervener-Plaintiff-Appellee-Cross-
+5Section 1292(a)(1) provides that
+[e]xcept as provided in subsections (c) and (d) of this section, the courts of appeal
+shall have jurisdiction of appeals from . . . [i]nterlocutory orders of the district courts
+of the United States . . . or of the judges thereof, granting, continuing, modifying,
+refusing or dissolving injunctions, or refusing to dissolve or modify injunctions, except
+where a direct review may be had in the Supreme Court.                                  
+5
+Appellant argue that the district court erred in finding the termination provisions of the PLRA
+unconstitutional.  The defendants also contend that the district court erred in its alternative finding
+of systemwide constitutional violations.  The inmates claim that this Court does not have jurisdiction
+over the alternative order and, if it does, the district court erred in finding no constitutional violations
+in the areas of medical and psychiatric care.      
+DISCUSSION
+I. Jurisdiction
+This Court asked the parties to brief the issue of our jurisdiction to hear the appeal of the
+district court’s order denying the defendants’ motions to terminate the 1992 consent decree.  The
+defendants and the inmates agree that this Court has jurisdiction over the denial of the motions to
+terminate on constitutional grounds under 28 U.S.C. § 1292(a)(1) 5 as a refusal to dissolve an
+injunction.  However, the inmates argue that the findings of Eighth Amendment violations in the areas
+of protection from harm, use of force, and administrative segregation are not appealable because they
+are a basis for directing the parties to confer and attempt to reach an agreement on a form of
+judgment remedying the violations, not a basis for denial of the motions.  The inmates further contend
+that the contingent alternative order is not appealable because it will become effective only if this
+Court reverses the district court’s decision on the statutory and constitutional issues.  According to
+the inmates, the alternative order merely establishes a process for replacing the final judgment with
+6Circuit court decisions upholding the constitutionality of the PLRA’s termination provisions
+include: Gilmore v. State of California, 220 F.3d 987 (9th Cir. 2000); Berwanger v. Cottey, 178 F.3d
+834 (7th Cir. 1999); Imprisoned Citizens Union v. Ridge, 169 F.3d 178 (3rd Cir. 1999); Nichols v.
+Hopper, 173 F.3d 820 (11th Cir. 1999); Benjamin v. Jacobson, 172 F.3d 144 (2nd Ci r. 1999) (en
+banc); Hadix v. Johnson, 133 F.3d 940 (6th Cir. 1998); Dougan v. Singletary, 129 F.3d1424 (11th
+Cir. 1997); Gavin v. Branstad, 122 F.3d 1081 (8th Cir. 1997); Inmates of Suffolk County Jail v.
+Rouse, 129 F.3d 649 (1st Cir. 1997); and Plyer v. Moore, 100 F.3d 365 (4th Cir. 1996).
+The Ninth Circuit withdrew its opinion holding that the termination provisions of the PLRA
+are unconstitutional, finding the motion before it to terminate a consent decree moot.  See Taylor v.
+United States, 181 F.3d 1017, 1018 (9th Cir. 1999).                                     
+6
+prospective injunctive relief and is only a predecessor to a final decree. 
+Both the primary and alternative orders give the parties an opportunity to attempt to reach
+an agreement on a proposed form of judgment.  Thus, the inmates’ argument that the alternative
+order is somehow different in t his respect is unavailing.  The district court expressly denied the
+motions to terminate on two grounds: (1) the constitutionality of the termination provisions of the
+PLRA and (2) ongoing constitutional violations in TDCJ-ID.  Thus, this Court has jurisdiction over
+the appeal of both orders under 28 U.S.C. § 1292(a)(1) as refusals to dissolve an injunction.        
+II. Constitutionality of the Termination Provisions of the PLRA              
+We review the district court’s determination of the constitutionality of the PLRA’s
+termination provisions de novo.  See C&B Sales & Service, Inc., 95 F.3d 1308, 1312 (5th Cir. 1996).
+The defendants and the United States argue that the district court erred in finding that the
+termination provisions of the PLRA violate separation of powers principles and due process.  We
+agree and find t hat the termination provisions are not unconstitutional.  In upholding the
+constitutionality of the PLRA’s termination provisions, we join each of our sister circuits that has
+considered this issue.6       
+7
+A. Separation of Powers
+The district court found that the two termination provisions of the PLRA violate separation
+of powers principles on two independent bases.  First, the court found that the two provisions require
+the reopening of final judgments entered by  Article III courts.  Second, the court found that the
+termination provisions unconstitutionally prescribe a rule of decision in a discrete group of Article
+III cases.  
+1. The District Court’s Finding That the Termination Provisions Require the
+Reopening of a Final Judgment Entered by an Article III Court
+The Supreme Court has established that the separation of powers principles rooted in Article
+III prohibit Congress from “retroactively commanding the federal courts to reopen final judgments.”
+Plaut v. Spendthrift Farm, Inc., 514 U.S. 211, 218-19, 115 S. Ct. 1447, 131 L. Ed. 2d 328 (1995).
+In Plaut, the plaintiffs’ federal securities fraud claim for monetary damages had been dismissed as
+untimely under the statute of limitations after the Supreme Court determined the applicable statute
+of limitations in cases like theirs in Lampf, Pleva, Lipkind, Prupis & Petigrow v. Gilbertson, 501 U.S.
+350, 111 S. Ct. 2773, 115 L. Ed. 2d 321 (1991).  Plaut, 514 U.S. at 213.  After Lampf, Congress
+passed a statute under which cases that had been dismissed under Lampf could be reinstated.  Id.  The
+Court found that the statute clearly violated separation of powers principles in that it was retroactive
+legislation “requir[ing] its own application in a case already finally adjudicated” and did “no more and
+no less than ‘reverse a determination once made, in a particular case.’” Id. at 225.  (quoti ng The
+Federalist No. 81, at 545).  In addressing the petitioners’ reliance on decisions upholding legislation
+that altered rights established in final judgments by non-Article III courts and decisions that “altered
+the prospective effect of injunctions entered by Article III courts,” the Court stated that “nothing in
+8
+our holding t oday calls them into question.”  Id. at 232.  The Court found that those cases
+“distinguish themselves.” Id.  In reference to cases wherein legislation had altered prospective
+injunctive relief, the Court cited Pennsylvania v. Wheeling & Belmont Bridge Co., (Wheeling Bridge
+II), a case decided by the Court in 1855.  Id. (citing Wheeling & Belmont Bridge Co., 59 U.S. (18
+How.) 421 (1855)).
+In Pennsylvania v. Wheeling & Belmont Bridge Co., (Wheeling Bridge I), the Court held that
+a bridge across the Ohio River was too low and obstructed navigation.  54 U.S. (13 How.) 518,
+521(1851).  Thereafter, Congress passed a statute that declared that the bridge was lawful.  Wheeling
+Bridge II, 59 U.S. (How.) at 429.  In response t o Pennsylvania’s argument that Congress had
+unconstitutionally attempted to annul the Court’s judgment in Wheeling Bridge I, the Court
+distinguished between monetary and injunctive relief:
+Now, we agree, if the remedy in this case had been an action at law, and a judgment
+rendered in favor of the plaintiff for damages, the right to these would have passed
+beyond the reach of the power of congress.  It would have depended, not upon the
+public right of the free navigation of the river, but upon the judgment of the court.
+The decree before us, so far as it respect [sic] the costs adjudged, stands upon the
+same principles, and is unaffected by the subsequent law.  But that part of the decree,
+directing the abatement of the obstruction, is executory, a continuing decree, which
+requires not only the removal of the bridge, but enjoins the defendants against any
+reconstruction or continuance.  Now, whether it is a future existing or continuing
+obstruction depends upon the question whether or not it interferes with the right of
+navigation.  If, in the mean time, since the decree, this right has been modified by the
+competent authority, so that the bridge is no longer an unlawful obstruction, it is quite
+plain the decree of the court cannot be enforced.                           
+Id. at 431-32.  Thus, because of the continuing nature of the injunction and because the lawfulness
+of the bridge depended on existing federal law, the Court found that Congress had not acted
+unconstitutionally in declaring the bridge a lawful structure.   
+In the present case, the district court found that the two termination provisions of the PLRA
+9
+violate separation of powers principles because they would mandate the revision of a final judgment
+entered by an Article III court.  According to the court, a consent decree is a final judgment “immune
+to legislative tampering.”  The court recognized that each circuit court that has considered the
+constitutionality of the termination pro visions has upheld them but also pointed out that several
+federal district courts had determined that the immediate termination provision is unconstitutional.
+According to the district court, “[t]he crux of the discrepancy between courts that have upheld and
+those that have struck down the termination provisions of the PLRA is the relative ‘finality’ of a
+consent decree.” 
+The court stated that the supporters of the co nstitutionality of the termination provisions
+“have seized on an overly narrow interpretation” of Wheeling Bridge II, which the Plaut Court cited.
+The district court found, however, that Wheeling Bridge II actually supports the finality of the 1992
+judgment in the present case because there Congress’s revision of its own law, as opposed to the
+Constitution, had affected the viability of pro spective relief.   Also, the district court found that
+Wheeling Bridge II emphasized the private/public rights distinction such that “[p]rospective relief of
+a public right-one established in the first place by Congress, such as the right to navigate a river-may
+. . . be altered by Congress’s revision of that underlying right.”  However, the court found that the
+consent decree in the instant case “involves private constitutional rights-those that Congress may not
+revise.”   
+The termination provisions do not violate separation of powers principles by requiring the
+reopening of a final judgment entered by an Article III court.  The district court was correct in its
+assertion that Congress may not set aside the final judgment of an Article III court by retroactive
+legislation.  However, the separation of powers doctrine does not proscribe legislation that limits the
+10
+prospective effect of injunctive relief, and the remaining portions of the 1992  judgment contain only
+prospective injunctive relief.  
+The district court misplaced its reliance on Wheeling Bridge II and Plaut.  The distinction
+between those two cases is that Congress cannot, consistent with the Constitution, modify final
+judgments containing no prospective relief but can constitutionally revise such judgments when they
+contain prospective relief.  Also, we do not find that the result in Wheeling Bridge II necessarily
+depended on the public/private rights dichotomy.  
+Moreover, we disagree with the district court’s assertion that Congress effectively infringed
+upon constitutional rights in its enactment of the termination provisions of the PLRA.  Under § 3626,
+a court may grant new relief or refuse to terminate existing relief if it specifically finds that a current
+and ongoing constitutional violation exists and that prospective relief is narrowly tailored to remedy
+that violation.  Thus, the PLRA simply restricts the court’s ability to enter or continue prospective
+relief unless it expressly finds constitutional violations. 
+While the Supreme Court has no t determined the constitutionality of the termination
+provisions of the PLRA, it has ruled on the constitutionality of § 3626(e)(2), the autom atic stay
+provision.  See Miller v. French, 530 U.S. 327, 120 S. Ct. 2246, 147 L. Ed. 2d 326 (2000).  Section
+3626(e)(2) provides:
+(2) Automatic Stay.  Any motion to modify or terminate prospective relief made
+under subsection (b) shall operate as a stay during the period--
+(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion
+made under paragraph (1) or (2) of subsection (b); or 
+(ii) beginning on the 180th day after such motion is filed, in the case of a motion made
+under any other law; and 
+(B) ending on the date the court enters a final order ruling on the motion.
+The Court found that the operation of the automatic stay is mandatory and thus precludes courts from
+11
+exercising their equitable powers to enjoin the stay.  Miller, 120 S. Ct. at 2260.  However, the Court
+determined that the automatic stay provision does not violate separation of powers principles by
+suspending or reopening the judgment of an Article III court.  Id. at 2258.  Furthermore, the Court
+concluded that § 3626(e)(2) does not violate the separation of powers by prescribing a rule of
+decision in cases pending before Article III courts.  Id. at 2259.  The Court expressly left open the
+question of whether the termination provisions are constitutional.  Id. at 2258. (“We note that the
+constitutionality of § 3626(b) is no t challenged here; we assume, without deciding that the new
+standards it pronounces are effective.”).      
+Although this Court has not directly addressed the constitutionality of the PLRA’s termination
+provisions, we cited decisions from other circuit courts upholding § 3626(b) in our rejection of a
+separation of powers challenge to part of the Telecommunications Act of 1996. See SBC
+Communications, Inc. v. FCC, 154 F.3d 226, 245-46 (5th Cir. 1998).  In SBC Communications, this
+Court stated that “it has lo ng been clear that Congress may change the law underlying ongoing
+equitable relief, even if, as in Wheeling itself, the change is specifically targeted at and limited in
+applicability to a particular injunction, and even if the change results in the necessary lifting of that
+injunction.”  Id. at 245.  We cited decisions from other circuits regarding the constitutionality of  the
+termination provisions of the PLRA as part of the “great weight of authority” for this proposition.
+Id. (“Obviously, Wheeling survives, as all of the circuit courts to consider separation of powers
+challenges to the Prison Litigation Reform Act of 1995 recently concluded.”).           
+ The inmates argue that Wheeling Bridge II and SBC Communications have no bearing on
+the present case.  They argue that monetary and injunctive relief are final judgments and point out that
+both are subject to modification or vacation under Fed. R. Civ. P. 60.  Moreover, they reason that
+12
+Plaut does not limit its separation of powers analysis to monetary judgments and urge that upholding
+the constitutionality of the PLRA’s termination provisions would deprive all injunctive decrees of
+finality, denigrating the judicial power of Article III courts.  We disagree with these assertions for
+reasons already stated.  
+We find that the district court erred in striking down the termination provisions as being in
+violation of the separation of powers principle prohibiting the reopening of final judgments by Article
+III courts.  When a court enters prospective injunctive relief and retains jurisdiction over the case, the
+judgment is not final.  As lo ng as the court retains the power to terminate or modify prospective
+injunctive relief in a particular case, Congress has the power to change the law and require that the
+change be applied with respect to the relief over which the court has retained power. 
+2. The District Court’s Finding That the Termination Provisions
+Unconstitutionally Prescribe a Rule of Decision in a Discrete Group of Article
+III Cases
+The separation of powers principles inherent in Article III prohibit Congress from adjudicating
+particular cases legislatively.  See United States v. Klein, 80 U.S. (13 Wall.) 128, 147  (1871).  The
+statute at issue in Klein allowed for the recovery of property seized during the Civil War only if the
+person seeking to recover the property proved that he did not give aid or comfort to the rebellion.
+Id. at 131.  In response to a case in which the Court found t hat a claimant  had participated in the
+rebellion but was later pardoned and was thus entitled to recover his property , Congress enacted
+legislation providing that pardons were inadmissible to support a claim for property seized during the
+war.  See id. at 133-34.  The Court found that the legislation was unconstitutional as it purported to
+“prescribe rules of decision to the Judicial Department of the government in cases pending before it.”
+Id. at 146.  In Plaut, the Court stated that “[w]hatever the precise scope of Klein, . . . later decisions
+13
+have made clear that its prohibition does not take hold when Congress ‘amend[s] applicable law.’”
+Plaut, 514 U.S. at 218 (quoting Robertson v. Seattle Audubon Soc’y, 503 U.S. 429,441(1992)).  
+Citing Klein, the district court found that the termination provisions infringed on the
+separation of powers because they were the result of Co ngress’s attempt to “prescribe a rule of
+decision in a discrete group of Article III cases.”  The court reasoned that under the PLRA, as with
+the unconstitutional legislation in Klein, courts must discontinue relief upon proof of certain evidence.
+That evidence, the court asserted, is “the absence of particular findings.”
+The district court criticized jurists who have “utilize[d] a tortured statutory interpretation to
+reach a far-fetched legal fiction” that Congress merely limited the remedial jurisdiction of federal
+courts in order to uphold the constitutionality of the termination provisions of the PLRA.   The court
+remarked that the legislative history of the PLRA indicates that “Congress not only knew of the
+constitutional problems with the statute, but passed the statute with the purpose of reopening and
+deciding judicially developed final judgments.”  The court further stated that “Congress’s clear intent
+to set aside judgments made by federal courts in prison litigation only validates the unconstitutionality
+of the PLRA under the Supreme Court’s decisions in Plaut and Klein.”           
+The district court erred in striking down the PLRA’s termination provisions as
+unconstitutionally prescribing a rule of decision in a discrete group of Article III cases.  By enacting
+the termination provisions of the PLRA, Congress has properly invoked its legislative authority to
+establish applicable standards and procedural rules for courts to grant or continue prospective relief
+regarding prison conditions.  Section 3626(b) is like any other statute in that it establishes a generally
+applicable legal rule and allows district courts to apply that rule to the facts of specific cases.
+Moreover, under § 3626(b), a court is not required to terminate existing prospective relief if it finds
+14
+that relief to be narrowly tailored to remedy a current and ongoing constitutional violation.  Thus, the
+PLRA’s termination provisions do not dictate results in cases pending before Article III courts.    
+B. Due Process 
+In the district court pro ceedings, the inmates argued that application of the termination
+provisions to the 1992 judgment would infringe upon their vested rights, thus violating due process.
+The court found that both the inmates’ separation of powers arguments and the due process argument
+regarding vested rights turn on the finality of the 1992 judgment and were therefore related.  The
+court found that “[f]or the same reasons that [it] granted plaintiffs’ separation of power arguments,
+. . . the PLRA violates plaintiffs’ due process rights by interfering with their vested rights i n the
+decree.”   
+On appeal, the defendants argue that a prospective injunction does not give rise to a due
+process challenge based on vested rights because it remains subject to modification.  The inmates
+argue that if they had known of the PLRA’s requirements when they negotiated the 1992 judgment,
+then they would have demanded stipulations assuring that the judgment would not be terminable or
+sought more stringent relief than that provided by the judgment.  They claim that they have vested
+rights in the 1992 judgment’s protections and that those protecti ons cannot be abrogated by
+retroactive legislation.      
+The district court correctly noted that both the inmates’ separation of powers and due process
+arguments turn on the finality of the 1992 judgment.  However,  the court erred in finding that the
+termination provisions violate due process.  Prospective relief does no t implicate due process
+concerns because it remains subject to modification.  Thus, the PLRA’s termination provisions do not
+violate due process.  
+15
+III. Estoppel 
+The inmates claim that the defendants are equitably estopped from arguing that the 1992
+judgment is unenforceable, as the consent decree prevented them from seeking more relief based on
+unconstitutional conditions.  They assert that despite the “blunt statutory language” of the PLRA and
+“its obvious purpose,” it did not abolish equitable principles.  We find no merit in the inmates’ equity-
+based arguments.  When enacting the PLRA, Congress was well aware of the role of consent decrees
+in prison litigation and that inmates as well as prison officials had probably yielded their respective
+positions in order to reach agreements.  Nevertheless, Congress implemented a statutory scheme
+whereby prison officials could request the district courts to terminate prospective relief that is no
+longer necessary.            
+IV. Section 3626(b)(3) Findings
+Although a district court’s decision to terminate or continue prospective relief is to be
+reviewed for an abuse of discretion, where the court’s decision to terminate or continue such relief
+“turns on the application of § 3626(b) of the PLRA, that interpretation is reviewed de novo.”  See
+Castillo v. Cameron County, Texas, 238 F.3d 339, 347 (5th Cir. 2001). 
+Under § 3626, unless a court makes specific written findings regarding the continuing
+necessity of prospective relief, it must terminate such relief.  Specifically, under § 3626(b)(3), a court
+may not terminate prospective relief if it makes written findings based on the record that such relief
+(1) “remains necessary to correct a current and ongoing violation of the Federal right,” (2) “extends
+no further than necessary to correct the violation of the Federal right,” and (3) “is narrowly drawn
+and t he least intrusive means to correct the violation.”  18 U.S.C. § 3626(b)(3).  The defendants
+argue that the district court erred in not making the findings required under § 3626(b)(3) and thus
+16
+the consent decree must be terminated.  
+Section 3626(b)(3) outlines specific standards to be followed when a district court considers
+whether to terminate a consent decree providing for prospective relief.  It requires “particularized
+findings, on a provision-by-provision basis, that each requirement imposed by the consent decree[ ]
+satisfies the need-narrowness-intrusiveness criteria, given the nature of the current and ongoing
+violation.”  Cason v. Seckinger, 231 F.3d 777, 785 (11th Cir. 2000).   It is not enough [for the district
+court] to simply state in conclusory fashion that the requirements of the consent decree[ ] satisfy
+those criteria.”  Id.  Rather,  “the district court should engage in specific, provision-by-provision
+examination of the consent decree, measuring each requirement against the statutory criteria.”  Id.
+To comply with the standards set forth in § 3626(b)(3), a district court should first give the
+parties an opportunity to present evidence regarding whether or not there are any existing
+unconstitutional conditions at the institution that is the subject of the consent decree.  See Castillo,
+238 F.3d at 355; Cason, 231 F.3d at 781-83.  Next, the court should review the record and determine
+whether there are indeed ongoing constitutional violations.   
+The court should then consider each provision of the consent decree in light of the current and
+ongoing constitutional violations, if there are any, and determine which aspects of the decree remain
+necessary to correct those violations.  For example, if the court finds a constitutional violation in the
+area of inmate protection, a section of the consent decree regarding staffing issues may be necessary
+if under staffing is contributing to the unconstitutional conditions.  However, if the excessive use of
+force is the only constitutional violation found, then a provision regarding crowding issues may no
+longer be necessary.  
+Finally, if there are remaining aspects of the decree which are still necessary, the court should
+17
+determine whether those parts of the decree are narrowly drawn and the least intrusive means to
+correct the applicable violation.  For example, with respect to a violation in the area o f inmat e
+protection, if a staffing provision remains necessary, it might not involve relief that is narrowly drawn
+and the least intrusive if it covers positions that are not commonly associated with the protection of
+inmates, such as security positions or certain administrative positions dealing with the reporting and
+investigation of complaints from inmates. 
+The procedure outlined above is mandated by § 3626(b)(3) and cannot be circumvented by
+a mere recitation of the key statutory language.  Instead, the requisite findings must be evinced in
+writing with respect to each remaining aspect of prospective relief.  See Cason, 231 F.3d at 785
+(finding that § 3626(b)(3) requires “[p]articularized findings, analysis, and explanations [to] be made
+as to the application of each criteria to each requirement imposed by the consent decrees”).
+Otherwise, the district court should terminate the unnecessary relief, assuming that the other
+requirements for termination under § 3626 are met.    
+Here, the district court conducted an evidentiary hearing and allowed the parties to present
+evidence regarding the exist ing conditions in TDCJ-ID.  Thus, the parties had an opportunity to
+present a current picture of TDCJ-ID.  The court also made numerous detailed findings in a lengthy
+memorandum opinion regarding the present state of TDCJ-ID and the constitutionality of its
+conditions.  However, the court failed to make the requisite findings under § 3626(b)(3).  Instead of
+assessing the continued necessity of each provision of the 1992 judgment, the district court, in a
+conclusory fashion and tracking the pertinent statutory language, merely stated that the relief
+contained in that judgment meets the standards outlined in § 3626(b)(3). 
+The defendants argue that because the district court failed to make the requisite § 3626(b)(3)
+18
+findings, this Court should reverse its order refusing to terminate the 1992 judgment and render
+judgment terminating all existing prospective relief and the district court’s jurisdiction.  We disagree
+that an o utright reversal, without a remand for further proceedings, is warranted.  Recently, this
+Court was faced with a scenario similar to the one presented by this case.  See Castillo, 238 F.3d at
+339.  In Castillo, the State of Texas appealed the district court’s denial of its motion to terminate
+injunctive relief that it had entered in a case brought by a class of pre-trial detainees and convicted
+inmates in the Cameron County jail.  Id. at 343.  This Court found that although the prospective relief
+was terminable under § 3626(b)(1), there was insufficient evidence in the record to support the
+required findings under § 3626(b)(3).  Id. at 353-55.  Moreover, we found that “although the
+language in the [district court’s order] track[ed] the requirements of § 3626(b)(3), it [did] not reach
+the needed level of particularized findings based on the conditions in the jail at the time termination
+was requested that is required by § 3626(b)(3).”  Id. at 354.  Thus, we concluded that “the best
+course of action” was to remand the case to the district court to hold an evidentiary hearing on the
+current constitutional condition of the jail and to the make the findings required under § 3626(b)(3).
+Id. at 355.
+In a Sixth Circuit case that was factually analogous to the present case, the court remanded
+the case to the district court to make the requisite findings outlined in § 3626(b)(3).  See Hadix v.
+Johnson, 228 F.3d 662 (6th Cir. 2000).  In Hadix, the district court purported to conditionally
+terminate certain provisions of a consent decree in a prison litigation case with a 20-year history.  Id.
+at 668.  However, the conditions imposed actually required the continuation of prospective relief, and
+the Sixth Circuit construed the court’s ruling as a refusal to terminate that relief.  Id.  The court then
+found that the district court had failed to make the requisite § 3626(b)(3) findings.  Id. at 670.  The
+19
+defendants argued that the Sixth Circuit should immediately terminate the consent decree rather than
+remand the case to the district court for more proceedings.  Id. at 672.   The Sixth Circuit rejected
+the defendants’ arguments and found that since the district court had not made the requisite §
+3626(b)(3) findings, a remand was warranted.  Id.  The court stated that “[w]hile the PLRA mandates
+swift resolution of motions to terminate consent decrees respecting prison conditions, and while the
+defendants are correct that there has been considerable delay in the district court, we must decline
+the defendants’ request.”  Id.  The court reversed the district court’s order  “insofar as it terminate[d]
+portions of the consent decree without giving the plaint iffs an opportunity to present evidence
+regarding current and ongoing constitutional violations, and insofar as it order[ed] the continuation
+of prospective relief without any finding that the relief [was] justified pursuant to the criteria set forth
+in § 3626(b)(3).”  Id. at 672-73.  See also, Cason, 231 F.3d at 783-86 (remanding prison litigation
+case and instructing the district court to hold an evidentiary hearing and make the particularized
+findings required by § 3626(b)(3) in assessing whether consent decrees should be terminated).  A
+similar result is warranted here.         
+The constitutional findings made by the district court were based on the evidence in the record
+concerning the current state of TDCJ-ID and are sufficient to permit the court to analyze the
+continued necessity of each provision of the 1992 judgment.  Thus, on remand, the court should
+make an assessment, in the manner described above, as to each provision of the 1992 judgment, in
+light of its findings of the unconstitutionality of various conditions in TDCJ-ID.  
+We recognize the need for an expeditious resolution to the termination motions brought by
+the defendants, particularly given the long duration of this case.  Indeed, we have already noted, in
+an appeal regarding matters in the current proceedings, our dismay at the delay by the district court
+20
+in disposing of the present issues.  Nevertheless, we are also mindful of the great amount of effort put
+into this case by the district court as well as the preeminent need for the court to continue to carefully
+and fairly consider the serious allegations by the inmates of unconstitutional conditions and treatment
+in the Texas prison system.  Thus, to strike a balance between these two competing concerns, we are
+imposing a 90-day deadline, from the date of the entry of this judgment, for the district court to make
+the findings required under § 3626(b)(3) or to terminate the 1992 judgment.  In our view, 90 days
+is a sufficient amount of time for the district court to make those findings, given that it has already
+considered the constitutionality of the current conditions in TDCJ-ID.  It is within the district court’s
+discretion to allow the parties some time within the 90-day period to attempt reach an agreement on
+a proposed form of judgment.                          
+CONCLUSION
+We find that the termination provisions of the PLRA do not violate separation of powers
+principles or due process and are t hus constitutional.  Also, we find that the defendants are not
+equitably estopped from arguing that the 1992 judgment is unenforceable.  We further find that the
+district court failed to make the requisite findings under § 3626(b)(3) in refusing to terminat e
+prospective relief in this case.  Accordingly, we REVERSE and REMAND this case fo r further
+proceedings consistent with this opinion.
+REVERSED AND REMANDED.  
+21
+Reynaldo G. Garza, Specially Concurring:
+I concur fully in the opinion by Judge Carl E. Stewart and I write separatel y to urge the
+district court below to end this case.  I am very familiar with the same from its very beginning.  
+This case was transferred by our court from the Eastern District to the Southern District of
+Texas because its main prison was in Huntsville, which is in the Southern District of Texas, together
+with most of the other Texas prisons.  
+I was Chief Judge of the So uthern District of Texas when this case was transferred to our
+court.  I knew the case would keep a judge tied up for months, and I could not  spare any of my
+judges to do so.  Shortly thereafter, I swore in five new judges to the Southern District of Texas at
+one time, which shows that the ones that were there were carrying a very heavy load.  I knew that
+my friend Judge W. Wayne Justice was familiar with the case and I talked to him about taking the
+case over.  He said he would if Chief Judge Joe Fisher of the Eastern District of Texas gave his
+consent.  I was able to get the consent of Chief Judge Fisher and I appointed Judge W. Wayne Justice
+to take over the trial of this case.  
+I remember the Attorney General’s Office asked that I call a special en banc court of the
+Southern District of Texas,  claiming that I did not have the authority to give the case t o Judge
+Justice.  By  an order t hat I entered, I refused the request and told them that I did not need the
+Attorney General of Texas to tell me what my duties as Chief Judge of The Southern District of
+Texas were.  Chief Judge John R. Brown had filed an order giving every district judge in Texas the
+right to sit in any o ther dist rict in Texas.  Judge W. Wayne Justice could sit, if assigned, in the
+Southern District of Texas.  Our Southern District owes a big debt of gratitude to Judge W. Wayne
+Justice.  
+22
+The fact that a consent decree was entered into shows that the conditions in the prisons of
+Texas needed to be addressed.  
+Judge Carl Stewart, in his opinion requires the district court to make the findings required
+under §3626(b)(3), or to terminate the 1992 judgment, and I write separately to urge Judge W.
+Wayne Justice to put an end to this case.   I am sure that the conditions that existed when the consent
+decree was entered no longer exist,  and I am sure many of those affected at the time are long gone
+from the penitentiary.  If any of the present prisoners have need for some kind of help, they can file
+another law suit against the Texas Prison System, but this case has to be ended.  I urge my good
+friend Judge W. Wayne Justice to do so if at all possible.     

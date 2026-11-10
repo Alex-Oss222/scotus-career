@@ -1,0 +1,176 @@
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT ___________
+
+No. 98-1732 ___________
+
+S.S., by and through Her Next
+
+*
+
+Friend and Guardian Ad Litem,
+
+*
+
+Ellen D. Jervis,
+
+*
+
+*
+
+Appellant,
+
+*
+
+*
+
+v.
+
+*
+
+*
+
+Michelle McMullen, Sherry Jacoby, *
+
+and Kathleen Barnett,
+
+*
+
+*
+
+Appellees, and
+
+* Appeal from the United States
+
+* District Court for the Western
+
+Cynthia M. Montgomery, Ph.D.,
+
+* District of Missouri.
+
+*
+
+Defendant.
+
+*
+
+*
+
+____________________________ *
+
+*
+
+National Association of Counties,
+
+*
+
+Association of Minnesota Counties, *
+
+Minnesota County Attorneys
+
+*
+
+Association, and County of Hennepin, *
+
+*
+
+Amici Curiae.
+
+*
+
+___________
+
+Submitted: January 14, 2000
+
+Filed: September 13, 2000 ___________
+
+Before WOLLMAN, Chief Judge, and McMILLIAN, RICHARD S. ARNOLD, JOHN R. GIBSON, BOWMAN, BEAM, LOKEN, HANSEN, MORRIS SHEPPARD ARNOLD, and MURPHY, Circuit Judges.1 ___________
+MORRIS SHEPPARD ARNOLD, Circuit Judge.
+This is an action to recover damages under 42 U.S.C. § 1983 for the violation of substantive due process rights. When S.S. appealed from the district court's dismissal of her complaint for failure to state a claim, a panel of our court reversed. See S.S. ex rel. Jervis v. McMullen, 186 F.3d 1066 (8th Cir. 1999), vacated (8th Cir. Sept. 30, 1999). We granted rehearing and vacated the panel opinion. We now affirm the order of the district court.2
+I. S.S. alleged in her complaint that three employees of the Missouri Division of Family Services acted unconstitutionally when they released her from state custody and returned her to her father, although they had notice that her father was allowing her to have contact with the known pedophile who subsequently sodomized her on at least two occasions. S.S. also alleged that, before her return to her father, the known pedophile himself called one of the defendants to complain that it was unfair to try to limit his contact with S.S.
+The locus classicus for determining whether these facts, if proved, would give rise to liability for a constitutional tort is DeShaney v. Winnebago County Department of Social Services, 489 U.S. 189 (1989). In that case, the Court approved summary
+1The Honorable Kermit E. Bye, United States Circuit Judge, did not participate in the consideration of this case.
+2The Honorable Scott O. Wright, United States District Judge for the Western District of Missouri.
+-2-
+
+judgment against Joshua DeShaney, who claimed that although the state removed him temporarily from the custody of his abusive father, it did not do so permanently, and that his father finally beat him so severely that he suffered permanent brain damage. Id. at 193. The Court emphasized that the constitutional right to be free from bodily harm is a right secured only against state actors, not against private ones: The purpose of the fourteenth amendment "was to protect the people from the State, not to ensure that the State protected them from each other." Id. at 196. In denying Joshua a recovery, the Court remarked that while the state may have been aware of the dangers that Joshua faced, "it played no part in their creation, nor did it do anything to render him any more vulnerable to them." Id. at 201.
+It is perhaps this last asseveration in DeShaney, namely, that the state did nothing to render the plaintiff more vulnerable to risks created by others, that has led some courts, including ours, to conclude that if the state acts affirmatively to place someone in a position of danger that he or she would not otherwise have faced, the state actor, depending on his or her state of mind, may have committed a constitutional tort. See, e.g., Gregory v. City of Rogers, Arkansas, 974 F.2d 1006, 1010 (8th Cir. 1992), cert. denied, 507 U.S. 913 (1993). While the correctness of that principle as a general matter is indisputable, we hold that it cannot give rise to liability in the present case for the simple reason that in returning S.S. to her father, the state did not increase the danger of significant harm to S.S.: It merely placed her back into the situation from which it had originally retrieved her.
+We think that DeShaney in fact speaks specifically to this kind of situation. The Court held there that the state was not liable to Joshua, because "when it returned him to his father's custody, it placed him in no worse position than that in which he would have been had it not acted at all; the State does not become the permanent guarantor of an individual's safety by once having offered him shelter." 489 U.S. at 201. Our previous cases have emphasized this aspect of DeShaney. For instance, in Wells v. Walker, 852 F.2d 368, 370 (8th Cir. 1988), cert. denied, 489 U.S. 1012 (1989), we
+-3-
+
+adverted to the proposition that a plaintiff in an action like the present one had to establish that "the state affirmatively place[d]" the plaintiff "in a position of danger [that he or she] would not otherwise have been in." It is true that two and a half years elapsed between the time that S.S. was taken from her father's custody and the time when she was returned to it, but we discern nothing in that interval that created a greater risk of abuse than the one that she would have faced had she never been taken from her father in the first place. In other words, the complaint contains no allegations that would justify a conclusion that by returning S.S. to her father the state created greater risks to her than the ones to which she was originally exposed.
+We are aware that a leading case involving arguably similar circumstances in another circuit reached a contrary result, see K.H. through Murphy v. Morgan, 914 F.2d 846 (7th Cir. 1990), but we think that its facts serve to distinguish it from our case. In K.H., 914 F.2d at 849, the plaintiff sought compensation for injuries received when she was removed from her parents and placed in the custody of a foster parent who was known to be a child abuser. The court, relying on DeShaney, concluded that K.H.'s complaint stated a claim because the state had, if K.H. proved her case, placed her in a situation of danger. Id. The court did not advert to the statement in DeShaney that liability cannot be predicated on the state's deliberate act that returns a child to a risk that he or she was previously subject to, but we think that that is because that part of the holding in DeShaney was inapposite. In K.H., 914 F.2d at 848-49, the state affirmatively exposed the plaintiff to a different danger from the one from which she was removed, that is, the state placed her in a foster home, and it was that act that was held to be actionable.
+We are mindful that drawing a distinction between exposing a child to a dangerous environment and returning her to an equally dangerous one may seem to some to be gratuitous. The line between action and inaction has been important in the law for centuries, but it has proven to be an elusive and thin one; so it is perhaps not surprising that cases on either side of that line will be so close factually that drawing
+-4-
+
+a legal distinction between them will often seem hard to justify. But we see the distinction nevertheless. While the state did do something here, or at least in the present procedural posture we assume that it did, in the peculiar circumstances of this case the state's act is the same as if it had done nothing. The distinction is one, moreover, that we think DeShaney requires us to draw. The district court was therefore correct in dismissing S.S.'s complaint.
+II. We see another insuperable difficulty lying in S.S.'s way to a recovery. Even if the state in this case had acted affirmatively to create a danger to S.S., we think that the district court would nevertheless have been obliged to dismiss her complaint because the state's action did not rise to the level of egregiousness that is required to support an action for a substantive due process violation.
+Assuming, as we must for present purposes, that the allegations in S.S.'s complaint are true, we think that they make out a case for negligence only. We come to this view not only because of the level of risk that a reasonable person would have assumed S.S. might be exposed to, but also because it was her father who was seeking custody of her. This last fact is one that must rest heavy in the balance in deciding the egregiousness of the defendants' conduct, because of the state's obligation to reunite children with their parents if possible; and we think that it serves to distinguish the case sharply from one in which the state delivered a child to, say, as in K.H., a foster home that presented the same level of risk that S.S. alleges here.
+In order to succeed, a complaint for a violation of substantive due process rights must allege acts that shock the conscience, and merely negligent acts cannot, as a constitutional matter, do that: To hold otherwise "would trivialize the centuries-old principle of due process of law." Daniels v. Williams, 474 U.S. 327, 332 (1986). Even if the state's activities could be said to have been grossly negligent or even reckless in the circumstances present here, we believe that S.S.'s constitutional claim must fail.
+-5-
+
+We have held more than once that gross negligence "is not actionable ... under § 1983." See Sellers by and through Sellers v. Baer, 28 F.3d 895, 902-03 (8th Cir. 1994), cert. denied, 513 U.S. 1084 (1995). While deliberate indifference, depending on the circumstances and the kind of deliberation and indifference involved, might well shock the conscience, see County of Sacramento v. Lewis, 523 U.S. 833, 850 (1998), we see no similarity between our case and the Supreme Court cases in which a complaint was held to state a claim for the deprivation of substantive due process rights.
+The Supreme Court's most recent pronouncement on relevant matters emphasizes that actionable cases must demonstrate a "level of ... abuse of power," id. at 846, or activity that was "so 'brutal' and 'offensive' that it did not comport with traditional ideas of fair play and decency," id. at 847, quoting Breithaupt v. Abram, 352 U.S. 432, 435 (1957), itself quoting Rochin v. California, 342 U.S. 165, 174 (1952). Viewing the plaintiff's allegations in a light most favorable to her recovery, we cannot say that they describe the kind of conduct that violates substantive due process rights. We are mindful that the acts that S.S. claims were perpetrated against her once she was returned to her father were utterly indecent and egregious; and we do not doubt that those acts themselves would shock the conscience. They certainly shock ours. But we focus here, not on those acts, but on the state's acts that S.S. says led to her injuries. We do not see how we could well hold those acts actionable without violating the Supreme Court's caveat against making "of the Fourteenth Amendment a font of tort law to be superimposed upon whatever systems may already be administered by the States," Paul v. Davis, 424 U.S. 693, 701 (1976).
+III. For the reasons indicated, we affirm the judgment of the district court.
+JOHN R. GIBSON, Circuit Judge, with whom WOLLMAN, Chief Judge, and McMILLIAN, Circuit Judge, join, dissenting.
+-6-
+
+The court today holds that DeShaney v. Winnebago County Department of Social Services, 489 U.S. 189 (1989), determines the outcome of this case. DeShaney's central holding is that state actors generally have no due process obligation to protect private parties from other private parties. 489 U.S. at 195-97. However, S.S. claims that she was harmed because of the reckless conduct of state actors who affirmatively endangered her. Because I believe her case differs crucially from the facts of DeShaney and its rationale, I would reverse the district court's dismissal of her complaint.
+I.
+According to her complaint, in January 1994 when S.S. was not quite three years old, she was taken into protective custody by the Missouri Division of Family Services. S.S.'s father had allegedly smeared human feces onto her face, S.S. had been locked in her bedroom for periods of time by her parents, and she had been sexually abused by an unknown person. The authorities had also substantiated several child abuse hotline calls regarding the parents' neglect of S.S. On April 5, 1994, the Circuit Court of Cass County, Missouri, placed S.S. in the Division’s permanent custody for placement in foster care.
+Defendants Michelle McMullen and Sherry Jacoby are social workers in the Division and were assigned to S.S.'s case in February and May of 1994, respectively. Defendant Kathleen Barnett supervised both McMullen and Jacoby at all times relevant to her complaint; she received and approved all dictation, correspondence, and written reports regarding S.S. While S.S. was in the Division's custody, McMullen permitted S.S.'s father to visit S.S. under McMullen's supervision. A convicted child molester, Joel Griffis, was present during three of these visits in the summer of 1995.
+The defendants later learned that Griffis was a child molester and that he presented a danger to S.S. First, McMullen received an anonymous phone call on
+-7-
+
+September 20, 1995, stating that a man named "Joel" had been convicted of numerous sex offenses and had "been around" S.S. and her father. Second, McMullen learned from numerous sources that S.S.'s father had allowed contact between Griffis and S.S. on nine occasions between October 1995 and August 1996. Third, in May 1996, McMullen received a copy of a psychological evaluation of S.S.'s father. In it, Dr. Gregory Sisk expressed concern that returning S.S. to her father's custody might endanger her welfare. Specifically, Dr. Sisk stated that a child in the care of S.S.'s father "could be at risk of abuse/neglect due to his beliefs about child rearing"; that the father "seems dangerously sympathetic with a known child sexual offender, which would appear to be a very risky behavior"; and that "plans toward reunification should proceed cautiously." Fourth, in July 1996, McMullen became aware of an anonymous child abuse hotline call stating that S.S. "had a rash 'down there' [and] that there is also a man who hangs around the household that S.S. calls grandpa and that he used to be a child molester." Although McMullen investigated this allegation by questioning S.S. at day care and visually examining her genital area, she neither contacted law enforcement authorities nor arranged to have S.S. examined by a medical professional. Fifth, McMullen received a telephone call from Griffis on August 13, 1996. During the call, Griffis stated that it was unfair for the Division to limit his contact with S.S.
+Jacoby was similarly aware of S.S.'s peril. She documented her awareness of the anonymous call to McMullen that warned the Division about Griffis's presence. Further, she was aware of a telephone call from S.S's foster mother to the Division on June 20, 1995. The foster mother stated that "S. told her over and over that she humps with her daddy, Jon." Jacoby also knew that S.S. had exhibited inappropriate sexual behaviors on at least three occasions. Other telephone calls informed Jacoby that S.S.'s father permitted Griffis to be in S.S.'s presence. Finally, Jacoby knew on December 19, 1995 that S.S. had a yeast infection and complained of "hurting in her vagina area."
+-8-
+
+Already having permitted S.S.'s father to have unsupervised visits with his daughter, McMullen, Jacoby, and Barnett permitted S.S. to live with her father on a full-time, "extended visit" basis starting March 8, 1996. S.S. remained on this basis until McMullen–just eight days after Griffis’s phone call and three months after Dr. Sisk’s report–requested the Cass County Circuit Court to release S.S. from State custody and to return legal custody to the child's father. On August 22, 1996, the court granted McMullen's request, returned S.S. to her father, and released the child from the court's jurisdiction. McMullen's dictation of that day's events recounts that she and her supervisor (Barnett) decided "that if something happens to S. because he [the father] knows what Joell [sic] has done in the past that he will be solely responsible."
+In February 1997, a caller to a Jackson County child abuse hotline alleged that Griffis had sexually molested S.S. on November 15, 1996 and January 15, 1997. Both incidents occurred during times that Griffis was living with S.S. and her father. Griffis was charged with two counts of first-degree statutory sodomy in Jackson County and two counts in Cass County. S.S.'s father was charged with four counts of felony child endangerment in Jackson County. As a result of the abuse that she suffered, S.S. was hospitalized for one week. She remained institutionalized at a Kansas City psychiatric facility when her guardian ad litem filed the instant complaint.
+II.
+DeShaney involved the substantive due process claim of the boy Joshua, who had been beaten repeatedly by his father. See 489 U.S. at 192-93. When Joshua was treated at a hospital for bruises and abrasions, the Department of Social Services recommended that the boy be placed in the hospital's temporary custody. See id. at 192. Three days later, a "Child Protection Team" (consisting of Department caseworkers among others) determined that there was insufficient evidence of child abuse and that Joshua should be returned to his father's custody. See id. Later, caseworkers from the Department continued to monitor the DeShaney home, observed
+-9-
+
+numerous suspicious injuries, and were twice informed of such injuries by emergency room personnel. However, caseworkers took no action to protect Joshua from his father. See id. at 192-93. Eventually, Joshua was beaten so severely that he suffered severe brain damage and was rendered profoundly retarded. See id. at 193. Joshua and his mother sued the Department and several of its employees for failing to protect Joshua from his father, but the Court held that the defendants had no duty under the Due Process Clause to protect the child. See id. at 195-97, 202.
+In contrast to DeShaney, this case primarily concerns S.S.'s right not to be injured by the state--essentially a "negative liberty"--a right that both pre-dates DeShaney and is conceptually distinct from the right to be protected by the state, the "positive" liberty that DeShaney limited.3 Judge Posner (now Chief Judge) explained the distinction in K.H. ex rel. Murphy v. Morgan, 914 F.2d 846, 848-49 (7th Cir. 1990):
+This is not a "positive liberties" case, like DeShaney, where the question was whether the Constitution entitles a child to governmental protection against physical abuse by his parents or by other private persons not acting under the direction of the state. The Supreme Court agreed with this court that there is no such entitlement. Here, in contrast, the state removed a child from the custody of her parents; and having done so, it could no more place her in a position of danger, deliberately and without justification, without thereby violating her rights under the due process
+3This court and others have recognized two exceptions to DeShaney's rule that state actors have no constitutional duty to protect people from each other: the "special relationship" exception and the "state-created danger"exception. See Norfleet ex rel. Norfleet v. Arkansas Dept. of Human Servs., 989 F.2d 289, 293 (8th Cir. 1993); Gregory v. City of Rogers, 974 F.2d 1006, 1010 (8th Cir. 1992) (en banc). These "exceptions" to DeShaney are sometimes cited in situations that should not fall under the DeShaney rule in the first place; in their pure form, the exceptions concern liability for failures to protect the victim, whereas I believe this case involves an affirmative act of harm. Therefore, I do not consider the exceptions applicable to this case.
+-10-
+
+clause of the Fourteenth Amendment than it could deliberately and without justification place a criminal defendant in a jail or prison in which his health or safety would be endangered, without violating his rights . . . under the cruel and unusual punishments clause . . . if he was a convicted prisoner, or the due process clause if he was awaiting trial.
+(citations omitted). Accord Bowers v. DeVito, 686 F.2d 616, 618 (7th Cir. 1982) ("There is a constitutional right not to be murdered by a state officer, . . . [b]ut there is no constitutional right to be protected by the state against being murdered by criminals or madmen.").
+The court today recognizes that we must distinguish between failure to protect the victim and affirmative acts of endangerment. Supra at 4. Where I differ with the court is deciding where to draw the line between action and inaction. Unlike the court, I do not believe DeShaney puts custody transfers on the inaction side of that line.
+The DeShaney plaintiffs did not attack the state's decision to transfer custody back to Joshua's father after the child's temporary emergency custody in the hospital. DeShaney offers no suggestion that the transfer itself was unwise, much less unconstitutional, given the defendants' knowledge at the time of the transfer. The DeShaney plaintiffs conceded that the state played no part in creating the danger that Joshua faced. See id. at 197; see also DeShaney ex rel. First v. Winnebago County Dept. of Social Servs., 812 F.2d 298, 303 (7th Cir. 1987) ("[T]here is no evidence that the Department was reckless in returning Joshua to the custody of his father back in January 1983."). Rather, the plaintiffs based their constitutional claim upon the state's conduct after the state had relinquished custody of the child. DeShaney rejected their claim, for
+[w]hile the State may have been aware of the dangers that Joshua faced in the free world, it played no part in their creation, nor did it do anything to render him any more vulnerable to them. That the State once took
+-11-
+
+temporary custody of Joshua does not alter the analysis, for when it returned him to his father’s custody, it placed him in no worse position than that in which he would have been had it not acted at all.
+489 U.S. at 201. This language must be taken in the context of a case in which the alleged due process violation happened after the state agency transferred custody. In contrast, S.S. claims that in the circumstances of her case, the transfer of custody was itself the due process violation.
+Although "the State does not become the permanent guarantor of an individual's safety by having once offered him shelter," DeShaney, 489 U.S. at 201, state actors who rescue children and then injure them may not defend on the ground that they had no duty to rescue the children in the first place.
+There is no duty to rescue a bystander in distress, but having rescued him from certain death you are not privileged to kill him. This is not to say that you assume responsibility for his future welfare. You do not. Our point is only that the absence of a duty to rescue does not entitle a rescuer to harm the person whom he has rescued.
+K.H., 914 F.2d at 849. See also Wood v. Ostrander, 879 F.2d 583, 591-95 (9th Cir. 1989) (denying qualified immunity defense to substantive due process claim where woman was raped after officer impounded her car and left her alone in known highcrime area).
+Therefore, even though children have no substantive due process right to be protected from abusive parents, the state may not itself subject children to abuse by knowingly delivering them into the hands of abusive care givers. See, e.g., K.H., 914 F.2d at 852 (recognizing right of child in state custody not to be handed over to foster parent or other custodian whom state knows or suspects to be child abuser); Nicini v. Morra, 212 F.3d 798, 808-15 (3d Cir. 2000) (equivalent of foster care creates special
+-12-
+
+relationship, but facts of particular case did not shock the conscience or show deliberate indifference).
+Our court today considers pivotal the distinction between exposing the child to new dangers and returning her to old ones. Supra at 4. Similarly, in K.H. Judge Posner recognized a right of children in state custody not to be handed over to abusive care givers, but distinguished cases where children are delivered back to their own parents. See K.H., 914 F.2d at 852-53. These distinctions, between new dangers and old and between foster parents and natural parents, are arbitrary. I believe the proper distinction is whether the state actors have so intervened in the child's situation that they can be said to have rescued the child from danger. At that point, the child's fate is in the state's hands, whether it decides to entrust him to stranger or kin, to new dangers or old. "Once the state acts to disturb the current custodial situation and assumes control over a child's life, the state may not create a dangerous condition for the child by knowingly or recklessly turning control of the child over to an abusive person, even if that person is a parent or other family member." Currier v. Doran, 23 F. Supp.2d 1277, 1281 (D.N.M. 1998) (emphasis added). Accord Ford v. Johnson, 899 F. Supp. 227, 233 (W.D. Pa. 1995) ("The fact that the child is placed with a parent as opposed to a foster parent should not change the standards by which social agencies and their employees conduct their investigations. It is important to remember that in the case at bar, Shawntee had not been in the custody of her father, but, rather, had been in the custody of CYS and was placed with her father by the court after a CYS investigation and recommendation."), aff'd without opinion, 116 F.3d 467 (3d Cir. 1997). Chief Judge Posner himself reasoned, in a case alleging child abuse by a father, that if the state officers "knowingly placed [the child] in a position of danger, they would not be shielded from liability by the decision in DeShaney." Bank of Illinois v. Over, 65 F.3d 76, 78 (7th Cir. 1995). This does not mean that the rescuer becomes responsible for later acts of others (that is a separate question), but for his own bad acts– in this case, knowingly exposing a small girl to a convicted child molester.
+-13-
+
+The defendants in this case did not merely fail to protect S.S. from Griffis. Instead, they affirmatively placed S.S. into Griffis's path. The complaint alleges that McMullen, Jacoby, and Barnett were fully aware of the risks to which they were subjecting S.S., but decided that those risks were the "sole responsibility" of S.S.'s father. I believe they were wrong in their legal assessment, as well as their moral one.
+III.
+The court today further holds that S. S. failed to allege acts sufficiently culpable to establish a violation of her substantive due process rights. The court concedes that "deliberate indifference, depending on the circumstances and the kind of deliberation and indifference involved, might well shock the conscience." Supra at 6 (quoting County of Sacramento v. Lewis, 523 U.S. 833, 850 (1998)). The court concludes, however, that S.S. has not pleaded facts amounting to anything more than negligence.
+Unlike negligence, "deliberate indifference" requires the actor's knowledge that a substantial risk of serious harm accompanies his course of action. See Farmer v. Brennan, 511 U.S. 825, 837 (1994) ( to meet "deliberate indifference" standard, prison official must know of and disregard excessive risk to inmate's health or safety); Davis v. Monroe County Bd. of Educ., 526 U.S.629, 648 (1999) (school officials are "deliberately indifferent" to sexual harassment of one student by another only when their response to it "is clearly unreasonable in light of the known circumstances") (emphasis added).
+S.S's complaint alleges that the defendants' actions evince a "deliberate and conscious indifference to the Plaintiff's safety and well-being and violate S.S.'s constitutional right to be reasonably safe from harm." The alleged facts show the defendants knew many facts indicating that S. S. was at risk. McMullen knew that S.S.'s father had exposed his daughter to a known sex offender (evidenced by the anonymous telephone call she received, Dr. Sisk's psychiatric evaluation, the
+-14-
+
+anonymous child abuse hotline call of July 1996, and Griffis's own complaints that his access to S.S. had been unfairly limited), while Jacoby documented her awareness of S.S.'s inappropriate sexual behaviors, S.S.'s complaints of pain in her genital area, various telephone calls to the Division that warned of Griffis's presence, and sexual abuse by S.S.'s father. More significantly, the allegations in the complaint imply that McMullen consciously appreciated the risk and chose to put S.S. in harm's way. McMullen herself wrote that she and her supervisor decided "that if something happens to S. because he [the father] knows what Joell [sic] has done in the past that he will be solely responsible." In his dissent in Kitzman-Kelley v. Warner, 203 F.3d 454, 461 (7th Cir. 2000), Chief Judge Posner hypothesized just this situation as a clear case of liability, in contrast to the mere negligence shown in the case before him: "It is not as if [the defendants] had entrusted [the child] to someone whom they knew to have a record as a child molester; that would be an example of conscious indifference to an obvious danger . . . ."
+Whether the defendants' deliberate indifference shocks the conscience presents a separate but related question. Lewis explored the continuum of "deliberately indifferent" conduct and held that "[d]eliberate indifference that shocks [the conscience] in one environment may not be so patently egregious in another." 523 U.S. at 850. Substantive due process therefore demands "an exact analysis of circumstances before any abuse of power is condemned as conscience shocking." Id. Lewis placed particular importance upon the state defendant's ability to actually deliberate upon his conduct before undertaking it. Id. at 851. Therefore, the reckless police pursuit of a fleeing motorist in Lewis did not "shock the conscience" when injuries were caused thereby, id. at 854, nor does a jailer's deliberately indifferent response to a prison riot establish an Eighth Amendment claim. Id. Prison officials' "deliberate indifference" toward a pretrial detainee's medical needs, on the other hand, can indeed implicate substantive due process. Id. at 851-52. Such liability "rests upon the luxury enjoyed by prison officials of having time to make unhurried judgments, upon the chance for
+-15-
+
+repeated reflection, largely uncomplicated by the pulls of competing obligations." Id. at 853.
+I believe that the defendants' conduct in this case resembles the actionable deliberate indifference of prison officials more closely than the non-actionable recklessness of police officers who pursue fleeing suspects at high speeds through crowded cities. Unlike the police officers in Lewis, the defendants faced no splitsecond decision in determining S.S.'s custody. To the contrary, S.S.'s complaint recounts the defendants' reflections upon the risk to which they willfully subjected S.S. The court's conscience should most certainly be shocked by the complaint before us. I therefore would reverse the dismissal of S.S.'s complaint.
+Accordingly, I respectfully dissent. A true copy.
+Attest: CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.
+-16-
+
+

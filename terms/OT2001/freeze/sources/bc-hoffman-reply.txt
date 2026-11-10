@@ -1,0 +1,1038 @@
+Supreme Court, U.S. 
+
+
+FILED 
+(?) 
+JAN 7 2002 
+
+
+In The 
+
+
+Supreme Court of the United States 
+
+
+° 
+
+
+HOFFMAN PLASTIC COMPOUNDS, INC., 
+
+
+Petitioner, 
+Vv. 
+
+
+NATIONAL LABOR RELATIONS BOARD, 
+
+
+Respondent. 
+
+
+. 
+
+
+On Writ of Certiorari To The United States Court of Appeals 
+For The District of Columbia Circuit 
+
+
+* 
+
+
+PETITIONER’S REPLY BRIEF 
+Ryan D. McCortney Maurice Baskin 
+Counsel of Record for Petitioner Venable, Baetjer, Howard & 
+Wendi J. Delmendo Civiletti LLP 
+Sheppard, Mullin, Richter & 1201 New York Ave., N.W. 
+Hampton Lip Suite 100 
+
+
+650 Town Center Dr., 4th Floor Washington, D.C. 20005 
+Costa Mesa, CA 92626-1925 (202) 962-4800 
+(714) 513-5100 
+
+
+mh 
+
+
+i 
+
+
+TABLE OF CONTENTS 
+PAGE 
+SOSA IEN ctiinnssersennishocsimnnmntanctetigntaniimnntaenensinndusven 1 
+SERIE cersiergrevenneasninintabiierinnitninaniindainniane 3 
+
+
+False Premise No. 1: Sure-Tan Denies Backpay Only 
+to Undocumented Aliens Who Leave the Country............ 3 
+
+
+False Premise No. 2: The Immigration Laws Require 
+an Award of Backpay to Castro...........cssssessesssesseessesesssseees 8 
+
+
+False Premise No. 3: Castro's Illegal Status Did Not 
+Prevent Him From Lawfully Mitigating His 
+
+False Premise No. 4: The After-Acquired Evidence 
+
+Rule Requires An Award of Backpay to Castro............... 16 
+
+
+False Premise No. 5: Failing to Award Backpay To 
+Castro Absolves Hoffman of a Violation of The 
+
+
+ii 
+TABLE OF AUTHORITIES 
+PAGE 
+CASES 
+ABF Freight Sys., Inc. v. NLRB, 
+
+Se Ci esecenesvensessnesinessocevcsnnecovenscesevsssnnsvenessvesesseses 1 
+Camp ov. Jeffer, Mangles, Butler & Marmaro, 
+
+41 Cal. Rptr.2d 329 (Cal. Ct. App. 1995) .......ccccssessereereesnes 17 
+Cedeno v. Montclair State Liniversity, 
+
+725 A.2d 38 (NJ. App. 1999), afd, 
+
+eS Ss INI ceccnsinocvsinreiswscescesennnecenssnssepenesesensessess 18 
+De Canas 0. Bica, 
+
+SE St SII xnnvareszanpcuvcissncsowssettesernsmmnensecssussecscssocsssness 10 
+Del Rey Tortilleria v. NLRB, 
+
+eRe Ee SP Ds BP GED cccsnenvesscsvvcnsccccussnsesncsnvesecossetensece 3 
+Hoffman Plastic Compounds, Inc. v. NLRB, 
+
+Be ee Oe es GED. ee P rcreezecseczncecocsccnzsnsnvecscvssesnvsnscreese 3 
+INS vo. Lopez-Mendoza, 
+
+Ss I FTI sccansnresceczctictnnscueicinecccservcsasssssceseressvecesees 5, 6 
+Justrite Mfg. Co., 238 N.L.R.B. 57 (1978) ......000ccceserseeseeeeseeneenees 7 
+McKennon vo. Nashville Banner Publishing Co., 
+
+ee Se CEE aitcrecsesrnnecsntinsorinnseresersnyescesapenccsnese 16, 17, 18 
+
+
+Montero v. INS, 
+Ee IL, SPEED P icvecinncinescnsesenconsnsteemasscssnanessosnseces 1 
+
+
+NLRB 0. A.P.R.A. Fuel Oil Buyers Group, Inc., 
+
+
+ET 14,15 
+NLRB v. Future Ambulette, Inc., 
+TE 7 
+NLRB v. IBEW Local Union 112, 
+EC 7 
+Sure-Tan v. NLRB, 
+I cocicnsirsiinicscenniinatinadinbesiendbeneenatinndinntes passim 
+U.S. v. Aid Maintenance Co, 
+8 O.C.A.H.O. 1023 (March 18, 1999), 1999 WL 497195 
+Seanad EU drenscttennicnenatenisietensscapisntecsedninbentetendmmseenemeeensentio 13 
+STATUTES AND REGULATIONS 
+Immigration and Nationality Act 
+ED 8,9 
+EL eee eT 8 
+fk 8,9 
+Pay I anerthnncnecedciieibainntinesscsctiitnepscumasenasiendzentandtinaitns 8,9 
+UT TIITITIhiiiinonertsintereaenndeteiesstnineniniaemmnianaiainimtataienes 1 
+Immigration Reform and Control Act of 1986 
+ane HITT ieensteircasicnstineenestenanaindiinciimetastbigucceieneetesscsnesniees 13 
+ke 1,9 
+Pub. L. No. 99-603, § 111, 100 Stat.3381..0...........ccceceseseseeees 11 
+EL a 1 
+EE 8 
+
+
+iv 
+OTHER 
+1 NLRB Casehandling Manual §10056.3 (June 1989)............. 15 
+Immigration and Naturalization Service, “IRCA 
+Employer Sanctions,” (November 13, 2001) .............::++0+ 9 
+
+
+NLRB General Counsel Memorandum 87-8, 
+(October 27, 1987), Westlaw 1987 WL 109409 
+EE BDI B IED cccecenasssnssncsncanerssecssscgnnesesemmemanenmqnesnensnensunsesatn Y 
+
+
+NLRB General Counsel Memorandum 88-9, 
+(September 1, 1988), Westlaw 1988 WL 236182 
+Fk ET 11 
+
+
+NLRB General Counsel Memorandum 98-15 
+(September 4, 1998), Westlaw 1998 WL 1806350 
+DEE FRIAR D ccacesscssvseccsssssecnsmmernsnensemmensnensiguessssnesansenssanen 10 
+
+
+Robert L. Jackson, Tyson Foods Is Indicted In Immigration 
+Smuggling, Los Angeles Times, December 20, 2001, at 
+
+
+BAB scccsscersecescescsssnsccossensrencsnecnsssussanensneussssnnsanseansansseneanmnppeenssenes 13 
+Tracey Eaton, JNS Fines Disney a Record $395,000, The 
+Orange County Register, May 6, 1993, at A1................-00+ 13 
+
+
+US. Dept. of Labor, Unemployment Insurance 
+. Program Letter No. 1-86, 51 Fed. Reg. 29713 
+(Aanggast FB, 1GBB) .cccccccccsssssccsosecesesenssesnsesssssesoesssssussnenessassesoese 8 
+
+
+Policy, Senate and House Committees on the 
+
+
+Judiciary, 97th Cong., LS. Immigration Policy and the 
+National Interest (Joint Comm. Print 1981), p. 65 ...........+. 11 
+
+
+1 
+
+
+INTRODUCTION 
+
+
+Jose Castro committed at least four criminal acts during his 
+extended illegal stay in the United States. First, he entered 
+this country illegally in violation of the INA. 8 U.S.C. § 1325. 
+Second, he obtained employment at Hoffman by presenting 
+fraudulent immigration documents in violation of the INA 
+and IRCA. 18 U.S.C. § 1546; 8 US.C. § 1324c. Third, he 
+committed perjury in violation of 18 U.S.C. § 1621 by lying 
+under oath about his identity during the NLRB’s compliance 
+proceeding. See, ABF Freight Sys., Inc. v. NLRB, 510 US. 317, 
+328-29 (1994). Fourth, he committed a continuing violation 
+of the INA by remaining in this country illegally during his 
+
+at Hoffman and for at least four years 
+thereafter. Montero v. INS, 124 F.3d 381, 385 (2d Cir. 1997). 
+And, finally, the record indicates that Castro compounded 
+his prior illegal conduct by continuing to use fraudulent 
+documents to obtain employment during the backpay 
+period. See infra pp. 14-15. Against this backdrop of 
+repeated criminal misconduct, this Court must consider 
+whether Hoffman's violation of the NLRA, a civil statute not 
+punitive in nature, justifies an award of backpay to an 
+undocumented alien who never was lawfully present or 
+lawfully entitled to work in this country during the backpay 
+period. Under Sure-Tan v. NLRB, 467 U.S. 883 (1984), and 
+this country’s immigration laws and policies, backpay must 
+be denied and the decision of the D.C. Circuit must be 
+reversed. 
+
+
+The Board and amici adopt a series of false premises to 
+convince this Court to affirm the D.C. Circuit's erroneous 
+decision. They contend that Sure-Jan denies backpay only 
+
+
+2 
+
+
+immigration laws that made Castro’s entry and continued 
+presence in this country illegal somehow entitle him to 
+backpay. They claim that, although Hoffman knew nothing 
+about Castro’s illegal status, backpay is necessary to deter 
+unscrupulous employers from unlawful employment 
+practices. They maintain that denying backpay to Castro lets 
+Hoffman off the hook for a violation of the NLRA, while at 
+the same time they trivialize Castro’s criminal misconduct. 
+And, they attempt to justify the D.C. Circuit’s erroneous 
+award of backpay to Castro by improperly applying the 
+after-acquired evidence and mitigation doctrines. 
+
+
+The D.C. Circuit's decision must be reversed, however, 
+because it conflicts with this country’s immigration laws and 
+this Court's holding in Sure-Tan. The INA made Castro's 
+presence in this country illegal and his employment 
+unauthorized. This Court in Sure-Tan properly accounted 
+for the INA by tolling backpay for an undocumented alien 
+during any period when the undocumented alien is not 
+legally entitled to be present and employed in this country. 
+By affirming the Board’s award of backpay to Castro, the 
+D.C. Circuit disregarded the INA and sent the message that 
+he who illegally enters this country, violates its laws and 
+successfully evades capture will be rewarded. This Court 
+should restore the proper balance between the immigration 
+laws and the NLRA by holding that Castro is not entitled to 
+
+
+peas in neta. § greet wigs. doers) apdhanmteagatantted 
+present and legally entitled to work in this country. 
+
+
+-—- 
+
+
+3 
+
+
+ARGUMENT 
+
+
+Undocumented Aliens Who Leave the 
+Country 
+
+
+The Board maintains that, because the Sure-Tan 
+discriminatees voluntarily departed the country on the first 
+day of the backpay period, Sure-Tan denies backpay only to 
+those undocumented aliens who leave the country as they 
+should, but justifies backpay to those undocumented aliens, 
+like Castro, who remain in the United States in violation of 
+the immigration laws.1 Brief for the NLRB (“Respondent's 
+Brief”), p. 17. The Board’s approach conflicts with Sure-Tar! s 
+plain language. Nowhere in Sure-Tan did this Court state 
+either expressly or implicitly that an undocumented alien's 
+mere physical presence was sufficient to entitle the 
+undocumented alien to backpay. 
+
+
+i The AFL-CIO urges the same conclusion, insisting footnote 11 of Sure- 
+Tan supports this result. Brief of the AFL-CIO, p. 28. This footnote 
+states, in part, “the Court of Appeals ‘estimated’ an period 
+of backpay «without any evidence whatsoever as to the period of time 
+these particular employees might have continued working before 
+apprehension by the INS and without affording petitioners any 
+opportunity to provide mitigating evidence.” Sure-7an, 467 U.S. at 901, 
+nll. This language Was intended only to highlight the speculative 
+nature of the Seventh Circuit's remedial award and to rebut Justice 
+Brennan's conclusion that “the Court of Appeals had estimated the 
+proper minimum backpay award with a fair degree of precision.” See, 
+Del Rey Tortilleria, Inc. v. NLRB, 976 F.2d 1115, 1120 (7 Cir. 1992); 
+Hoffman Plastic Compounds, Inc. v. NLRB, 237 F.3d 639, 654 n. 1 (D.C. 
+Cir. 2001) (J. Sentelle, dissenting). This Court quickly disposed of the 
+issues raised in footnote 11, however, by concluding that an 
+undocumented alien’s lack of legal presence and legal unavailability 
+for work deprives him of any backpay whatsoever. 467 U.S. at 903-04 
+(tolling backpay during such periods and noting the “probable 
+unavailability” of a backpay award). 
+
+
+4 
+
+
+iwstead, the Court repeatedly stated that backpay could not 
+be awarded based upon physical presence alone. At page 
+908 of the Sure-Tan decision, this Court held, “in computing 
+backpay, the employees must be deemed ‘unavailable’ for 
+work (and the accrual of backpay therefore tolled) during 
+any period when they were not /awfully entitled to be present 
+and employed in the United States.” 467 US. at 908 
+(emphasis added). At footnote 12, the Court repeated that 
+the employees would be deemed “’unavailable’ during any 
+period when they were not J/awfully present ...." Id. 
+(emphasis added). The Court continued, “We share the 
+Court of Appeals’ uncertainty concerning whether any of the 
+discharged employees will be able ... to establish at the 
+compliance proceedings that they were /aw/fully available for 
+employment during the backpay period.”  /d at 904 
+(emphasis added). Despite this uncertainty, the Court 
+stated, “The probable unavailability of the Act's more 
+effective remedies in light of the practical workings of the 
+immigration laws, however, simply cannot justify the 
+judicial arrogation of remedial authority not fairly 
+encompassed within the Act.” /2. 
+
+
+Justice Brennan criticized the Court for holding that 
+undocumented aliens are “employees” protected by th 
+NLRA, while at the same time “effectively depriv[ing] them 
+of any remedy ....” /d at 911. The Court responded to his 
+criticism as follows: 
+
+
+“This argument completely ignores the fact that today’s 
+decision leaves intact the cease and desist order imposed 
+by the Board, ..., one of the Act's traditional remedies for 
+discriminatory discharge cases. Were petitioners to 
+engage in similar illegal conduct, they would be subject 
+to contempt proceedings and penalties. This threat of 
+contempt sanctions thereby provides a significant 
+deterrent against future violations of the Act. At the 
+
+
+5 
+
+
+same time, we fully recognize that the reinstatement and 
+backpay awards afford both more certain deterrence 
+against unfair labor practices and more meaningful relief 
+for the illegally discharged employees. Nevertheless, we 
+remain bound to respect the directives of the INA as well 
+as the NLRA and to guard against judicial distortion of 
+the statutory limits placed by Congress on the Board's 
+remedial authority. Any other solution must be sought 
+in Congress and not the courts.” 
+
+
+/d. at 904, n.13. Thus, the Court was acutely aware that Sure- 
+Tan would be understood as broadly depriving 
+undocumented aliens of any backpay remedy. If the Court 
+did not intend that to be the interpretation, it would have 
+highlighted the limitations of its holding in response to 
+Justice Brennan’s criticism. But, the Court did no such thing. 
+Instead, the Court reaffirmed its intent to deny 
+undocumented aliens the more effective remedies of the 
+NLRA, because to do otherwise would conflict with the INA. 
+
+
+Acknowledging that Sure-Tan requires legal — not simply 
+physical ~— presence, the Board contends that, in 
+conditioning backpay upon legal presence, the Court sought 
+only to deter the Sure-Tan discriminatees from illegally 
+reentering this country to claim backpay awards. 
+Respondent's Brief, p. 23-24. The Board maintains that, 
+because Castro was physically present (albeit illegally) 
+during the backpay period, his continued illegal presence 
+was of no consequence. Apparently, the Board believes that, 
+while this Court is concerned with an undocumented alien’s 
+repeated illegal entry, it is singularly unconcerned with an 
+undocumented alien’s continued illegal presence. Petitioner 
+doubts that this Court is so cavalier about continuing 
+violations of this country’s immigration laws. See, NS v. 
+Lopez-Mendoza, 468 U.S. 1032, 1046 (1984) (refusing to apply 
+the exclusionary rule to deportation proceedings because 
+
+
+6 
+
+
+doing so would ignore an undocumented alien's continuing 
+violation of the immigration laws).2 
+
+
+Although the Sure-Tan Court never endorsed an award of 
+backpay to an undocumented alien based solely on the 
+alien’s illegal physical presence, the Board argues that such a 
+position is consistent with its longstanding availability 
+doctrine. Under this doctrine, backpay is tolled during any 
+period when the discriminatee removes himself from the 
+workforce because he is unavailable to work. Based on this 
+doctrine, the Board claims that this case is distinguishable 
+from those cases where it has denied backpay to employees 
+who are incarcerated or inducted into the armed forces 
+because such employees “are unavailable for work during 
+that period and could not physically enter the labor market 
+without breaking the law.” Respondent's Brief, p. 21. This 
+argument proves too much. Just like the incarcerated or 
+inducted individual, Castro could not enter the labor market 
+without breaking the law. Indeed, he entered the labor 
+
+
+market only by illegally entering this country and by 
+
+
+2 The Board mistakenly concludes that JNS v. Lopez-Mendoza, 468 US. 
+1032 (1984), signals this Court's approval of backpay awards to 
+undocumented aliens who are physically present in the United States. 
+Respondent's Brief, p. 24-25. In a footnote to Lepez-Mendoza, this Court 
+cited Sure-Tan for the proposition that an employer may be guilty of 
+an unfair labor practice “in his dealings with an alien notwithstanding 
+the alien's illegal presence in this country.” 468 U.S. at 1047 n.4. The 
+Court noted that, in such situations, “retrospective sanctions” may be 
+imposed but “prospective relief” must be denied. /d The Lopez- 
+Mendoza Court never mentioned backpay, however. And, because 
+Sure-Tan expressly denied backpay to undocumented aliens, it is 
+unlikely that the Lopez-Mendoza Court's reference to Sure-Tan 
+contemplated backpay. Instead, it is more likely that the Lopez- 
+Mendoza Court was referring to Sure-Tan’s cease and desist order, 
+which was the only “retrospective sanction” approve ' by the Court. 
+
+
+= 
+
+
+7 
+
+
+illegally presenting fraudulent employment documents to 
+secure a job at Hoffman. 
+
+
+As further support for its proposition that only physical, not 
+legal, unavailability tolls backpay, the Board cites a series of 
+cases where backpay was awarded to discriminatees even 
+though the discriminatees lacked a legal qualification to 
+perform the work for which they were hired. Respondent's 
+Brief, p. 21, n.12. Notably, none of these cases involve 
+employees who were completely disqualified by the INA or 
+IRCA from working for any employer as was Castro because 
+of his illegal status. Instead, in Justrite Mfg. Co., 238 N.L.R.B. 
+57 (1978), the discriminatee was disqualified from the job for 
+which she was hired because she was not yet eighteen years 
+old. There, the Board awarded backpay because the 
+employer knew of her legal disqualification prior to her 
+discharge, but the Board ordered backpay to commence only 
+after the discriminatee turned eighteen. In NLRB v. Future 
+Ambulette, Inc., 903 F.2d 140 (2d ‘ ts. 1990), backpay was 
+awarded to a truck driver who la~wed a valid driver's license 
+because the court determined that the employer knowingly 
+retained other drivers without valid licenses during the 
+backpay period. /d at 145 (“Since Howell could not legally 
+drive for this company without a valid license, he was 
+wronged only to the extent that the company failed to 
+employ him while continuing to employ other unlicensed 
+drivers.”). See also, NLRB v. IBEW Local Union 112, 992 F.2d 
+990, 995 (9th Cir. 1993) (backpay awarded to unlicensed 
+electrician in hiring hall case where union had dispatched 
+other unlicensed electricians). These cases are easily 
+distinguishable. As the Board determined, Hoffman did not 
+know about Castro's illegal status and did not knowingly 
+retain other undocumented aliens at the same time that it 
+discharged Castro. Appendix to Writ of Certiorari (“ App. ”) 
+84a-85a, and n.11. 
+
+
+Castro’s illegal status rendered him unavailable for work. 
+US. Dept. of Labor, Unemployment Insurance Program 
+Letter No. 1-86, 51 Fed. Reg. 29713 (August 20, 1986) (“an 
+alien must be legally authorized to work in the United States 
+to be considered ‘available for work.’”). Because Castro was 
+neither legally present nor lawfully entitled to employment 
+during the backpay period, he was not entitled to backpay. 
+Sure-Tan, 467 US. at 903. Thus, the D.C. Circuit’s decision to 
+enforce the Board’s backpay award to Castro must be 
+reversed. 
+
+
+Award of Backpay to Castro 
+
+
+Arguing that nothing in either the INA or IRCA expressly 
+prohibited Castro’s employment, the Board concludes that 
+awarding backpay to Castro actually “advances” the 
+immigration laws. Respondent's Brief, p. 35. The Board's 
+faulty conclusion is based on its misunderstanding of the 
+immigration laws. 
+
+
+The INA controls immigration by making unauthorized 
+entry into this country illegal and by authorizing entry for 
+
+of employment only in specific circumstances. 
+8US.C. §1182(a)(5) (formerly 8 US.C. § 1182(a)(14)); 
+8 U.S.C. § 1101(a)(15); 8 U.S.C. § 1325. For instance, a tourist 
+may legally enter this country on a tourist visa for pleasure 
+for a temporary period of time. But, the tourist visa does not 
+permit the visa holder to engage in employmer* during the 
+holder's stay. 8 U.S.C. § 1182(a)(5); 8 US.C. 1. '1(a)(15)(B); 
+see also, 8 C.F.R. § 274a.12 (list of classes of aliens authorized 
+to work). Rather, to legally enter this country and perform 
+work, the INA has long required an alien to hold an 
+immigrant or nonimmigrant visa that specifically authorizes 
+
+
+9 
+
+
+the alien to work in the United States. 8 U.S.C. § 1182(a)(5) : 
+8 U.S.C. § 1101(a)(15) . Thus, under the INA, aed or, 
+alone does not entitle an alien to perform work in this 
+country. The Sure-Tan Court appreciated this distinction 
+when it held that backpay would be tolled during any period 
+that an undocumented alien was not both legally present 
+and legally authorized to work. 467 US. at 903; see also, 467 
+US. at 893 (quoting from 8 U.S.C. § 1182(a)(14) that 
+
+immigrant aliens are therefore admitted to work in this 
+country only if they ‘will not adversely affect the wages and 
+working conditions of workers in the United States similarly 
+employed.””). 
+
+
+IRCA amplified the INA’s employment restrictions. With its 
+enactment in 1986, “IRCA corrected an unfair double 
+standard in immigration law that prohibited unauthorized 
+aliens from working in the United States, but permitted 
+employers to hire them.”2 Immigration and Naturalization 
+Service, “IRCA Employer Sanctions,” (November 13, 2001), 
+available at <http:/ / www.ins.usdoj.gov/ graphics /aboutins 
+
+/ history / sanctions.html>. So, while IRCA instituted new 
+penalties for employers who hire undocumented aliens,4 the 
+
+
+2 The ACLU insists that IRCA focuses solel 
+ACLU y on employer conduct. Brief 
+Amici Curiae of ACLU and Make the Road by Walking, Inc., p. 7. This 
+wh Ke nadb-ner IRCA also focuses on undocumented aliens by 
+pro iting them from obtaining employment by presenting fraudulent 
+immigration documents. 8 U.S.C. § 1324c. : 
+
+
+4 After IRCA was enacted, even the NLRB realized that IRCA required 
+the denial of backpay to undocumented aliens. NLRB General Counsel 
+Memorandum 87-8, p. 2 (October 27, 1987), Westlaw 1987 WL 109409 
+(N.L.R.B.G.C.) (stating that, with respect to undocumented workers 
+hired after 1986 who evince no intent to seek resident status, 
+eae nment and backpay would not be sought”). The Board has 
+
+changed its position, just as it changed its position with respect to 
+Sure-Tan. See NLRB General Counsel Memorandum 98-15 
+
+
+10 
+
+
+INA continued to prohibit aliens from working unless they 
+legally entered this country with the proper work 
+authorization. 
+
+
+Under both the INA and IRCA, Castro’s employment was 
+unlawful. He violated the INA by entering this country 
+illegally and by obtaining work without authorization. 
+Further, because IRCA forbade Hoffman from employing 
+him, Castro obtained employment at Hoffman only by 
+
+ting fraudulent immigration documents in violation of 
+the INA and IRCA. Although the INA and IRCA plainly 
+made Castro’s employment unlawful, the Board contends 
+that its backpay award to Castro somehow advances the 
+underlying policies of these immigration laws The Board's 
+contention is incomprehensible. 
+
+
+Even before IRCA, the “primary purpose in restricting 
+immigration [was] to preserve jobs for American workers. 
+Sure-Tan, 467 US. at 893. With the enactment of IRCA, 
+Congress recognized that the magnet that draws illegal 
+
+
+(September 4, 1998), Westlaw 1998 WL 1806350 (N.L.R.B.G.C.); Brief of 
+Petitioner p. 5-6, n.5. 
+
+
+5 Amici States of New York, Arizona, California, Hawaii, Massachusetts 
+and West Virginia, and the Commonwealth of Puerto Rico worry that 
+construing the INA and IRCA to preclude backpay to an 
+undocumented alien under the NLRA may result in the preemption of 
+state laws that provide monetary remedies to undocumented aliens 
+under other circumstances. Brief of Amici Curiae States of New York 
+et al., p. 15. This issue is not before the Court. And, even if this issue 
+were somehow relevant here, this Court has held that Congress, in 
+enacting the INA, did not preclude the states from regulating the 
+employment of undocumented aliens. De Canas v. Bica, 424 US. 351, 
+357 (1976) (“we will not presume that Congress, in enacting the INA, 
+intended to oust state authority to regulate the employment 
+relationship .. . .”). 
+
+
+—_—_—— 
+
+
+11 
+
+
+aliens to this country is wages. Yet, the Board advocates 
+giving Castro the very thing that drew him here in the first 
+place - money.¢ The Board cannot, and does not, explain 
+how awarding backpay to Castro will encourage him or 
+other undocumented aliens to cease their ongoing violation 
+of the immigration laws by leaving the country how it will 
+
+
+¢ The Board and amici draw support for their position from IRCA’s 
+legislative history, section 111 of IRCA, and a report from the Select 
+Commission on Immigration and Refugee Policy (“SCIRP Report”). As 
+Petitioner has previously explained, IRCA’s legislative history left 
+Sure-Tan’s remedial holding intact and, therefore, provides no 
+guarantee of backpay to undocumented aliens. Brief of Petitioner, p. 
+25-27. Until recently, the NLRB agreed. See NLRB General Counsel 
+Memorandum 88-9, p. 3 (September 1, 1988), Westlaw 1988 WL 236182 
+(N.L.R.B.G.C.) (“[T]he relevant committee report points out [that] Sure- 
+Tan was the existing law and that decision itself limited the remedial 
+powers of the NLRB. Clearly Congress did not intend to overrule 
+Sure-Tan.... [I]t is Sure-Tan, not IRCA, that limits the power of the 
+NLRB to order reinstatement and backpay to an employee who is not 
+‘entitled to be employed’ in the US.”). Similarly, section 111 of IRCA 
+fails to address backpay for undocumented aliens. Instead, this section 
+provides funds for law enforcement activities by the INS, the Wage 
+and Hour Division and the OFCCP to deter the employment of 
+undocumented aliens. The simple fact that the Wage and Hour 
+Division and the OFCCP may generally award backpay to authorized 
+workers, does not evince any Congressional intent to award an 
+undocumented alien backpay for a violation of the NLRA. Nor does 
+the SCIRP Report contain any evidence of a Congressional intent to 
+award backpay to undocumented aliens. This Report pre-dated IRCA 
+by five years. And, although the Report states that the Commission 
+discussed, but rejected “penalties that could be imposed on those who 
+seek undocumented/illegal employment,” nothing in the Report 
+suggests that a denial of backpay under the NLRA was even 
+considered. Select Commission on Immigration and Refugee Policy, 
+Senate and House Committees on the Judiciary, 97% Cong,, US. 
+Immigration Policy and the National Interest (joint Comm. Print 1981), p. 
+65. 
+
+
+2 Although the Board and amici contend that undocumented aliens do 
+
+
+not come to America for the protection of our labor laws, they cannot 
+dispute that the prospect of a backpay award encourages 
+
+
+12 
+
+
+i i how 
+deter other aliens from illegally entering the country, or 
+it will discourage undocumented aliens from using 
+fraudulent documents to obtain employment. 
+
+
+Instead of focusing on deterring undocumented aliens like 
+Castro from violating the immigration laws, the _— 
+focuses entirely on deterring employers from violating 
+
+NLRA. The Board and amici argue that denying backpay to 
+Castro will encourage unscrupulous employers® to hire 
+undocumented aliens in violation of IRCA so that the 
+employer can benefit by retaliating against the —_S 
+violation of the NLRA. As an initial matter, this argument is 
+misplaced in this case. There is no dispute that Hoffman 
+hired Castro without any knowledge of his illegal status? 
+
+
+law enforcement investigations...” Gatet of Acnich Custae Suten of 
+New York et. al., p. 3. Implicit in this concer is the adeiesion {ke 
+backpay is often the incentive that keeps undocumented aliens 
+
+
+country. 
+
+
+Because the arguments advanced by amici rest on the premise that 
+denying backpay to Castro will lead unscrupulous employers to hire 
+
+
+13 
+
+
+and, thus, Hoffman could not have benefited by retaliating 
+against Castro because of his status. Furthermore, if an 
+employer willfully violates IRCA, it is subject to substantial 
+civil and criminal penalties. The INS has demonstrated that 
+it will use these penalties to secure employer compliance. 
+For instance, the INS recently ordered Aid Maintenance to 
+pay nearly $106,000 in fines for IRCA violations. LS. v. Aid 
+Maintenance Co., 8 O.C.A.H.O. 1023 (March 18, 1999), 1999 
+WL 497195 (O.C.A.H.O.). Similarly, the INS assessed nearly 
+$400,000 in fines against Disneyland for alleged IRCA 
+violations. Tracey Eaton, JNS Fines Disney a Record $395,000, 
+The Orange County Register, May 6, 1993, at Al. And, just 
+last month, a federal grand jury indicted Tyson Foods for 
+alleged violations of the immigration laws. Robert L. 
+Jackson, Tyson Foods Is Indicted In Immigration Smuggling, Los 
+Angeles Times, December 20, 2001, at A1.20. 
+
+
+By focusing on the potential for unscrupulous employers to 
+violate tle NLRA, but ignoring Castro’s repeated violations 
+of the immigration laws, the Board and amici seek to elevate 
+
+
+The Board itself has rejected this contention, stating that “the record 
+clearly shows that the Respondent only hired Castro after he had 
+supplied, as the t required, documents that appeared to be 
+genuine and relate{d] to the person presenting them.” App. 85a; see 
+also, Respondent's Brief, p. 33 (“Petitioner did examine relevant 
+documents and did not know that Castro lacked authorization to work 
+in the United States either when it hired him or when it laid him off.”). 
+
+
+10 According to the Board and amici, these sanctions are insufficient to 
+
+
+deter some employers. However, they cannot explain how the simple 
+prospect of a backpay remedy will deter a rogue employer who is so 
+intent on breaking the law. In any event, Congress has determined that 
+the employer sanctions contained in § U.S.C. § 1324a are a sufficient 
+deterrent for a violation of IRCA. If the Board and amici believe that 
+
+I are insufficient, their remedy lies with Congress and not 
+this Court. Sure-Tan, 467 US. at 904 n.13. 
+
+
+14 
+
+
+the policies of the NLRA above the policies of the INA and 
+IRCA. The D.C. Circuit fell prey to this argument and its 
+decision must be reversed because, as this Court has taught, 
+the Board’s remedies must not conflict with the objectives of 
+the immigration laws. Sure-Tan, 467 US. at 903. Although 
+the remedy ordered in this case directly conflicts with the 
+INA and IRCA, it was possible for the Board to issue a 
+remedy that harmonized the NLRA and the immigration 
+laws. The Board could have simply treated backpay the 
+
+
+comply with the immigration laws. /d. 
+
+
+False Premise No.3: Castro’s Illegal Status Did Not 
+
+
+Although Castro never was legally present or legally 
+authorized to work at any time during the backpay period, 
+the Board maintains that Castro still lawfully mitigated his 
+
+
+On June 14, 1993, when asked at the compliance hearing 
+whether he was, af that time, legally authorized to work in 
+the United States, Castro testified, “I work with a birth 
+certificate ... the birth certificate was loaned to me so that I 
+can secure a job because I have no work.” Petitioner's 
+
+
+Supplement to the Deferred Appendix, p. 147 (filed with the 
+
+
+— —_— — ~~. oe eee 
+
+
+Se 
+
+
+15 
+
+
+D.C. Circuit August 13, 1999). The ALJ determined that 
+Castro used fraudulent documentation - not just to obtain 
+employment at Hoffman - but to obtain work in the United 
+States. App. 92a (Castro “testified that he uses the false 
+identification in order to work in this country.”) (emphasis 
+added). So, four years after his discharge from Hoffman, 
+Castro testified that he still used the fraudulent birth 
+certificate to obtain work. 
+
+
+In all likelihood, Castro was motivated to engage in these 
+repeated fraudulent acts in violation of the immigration laws 
+because of the very prospect of a backpay remedy. The 
+NLRB instructs its Board agents to advise potential 
+discriminatees of “their obligation to search for work and to 
+report all interim earnings, inasmuch as a failure to do so 
+may result in a loss or reduction of any backpay to which 
+they might be entitled in the event that their case is found to 
+be meritorious.” 1 NLRB Casehandling Manual §10056.3 
+(June 1989). Thus, by communicating with Castro regarding 
+his mitigation responsibilities, the Board likely encouraged 
+Castro’s continued illegal presencel2 and his repeated 
+fraudulent acts. 
+
+
+Because Castro could not lawfully be employed in the 
+United States, he could not lawfully mitigate his damages. 
+
+
+4 The Board speculates, without any evidentiary basis, that Castro 
+mitigated his damages by either securing interim employment with an 
+employer who failed t- comply with IRCA or with an employer who 
+was not legally obligated to verify his work authorization. 
+
+Respondent's Brief, p. 41-42, n.26 
+
+
+12 NLRB 0. A.P.RA. Fuel Oil Buyers Grp., Inc., 134 F.3d 50, 62 n.4 (2d Cir. 
+1997) (J. Jacobs, dissenting) (“Considering that NLRB proceedings can 
+span a whole decade, [backpay] is no small inducement to prolong 
+illegal presence in this country.”). 
+
+
+16 
+
+
+i i of his illegal 
+B y to Castro in disregard , 
+by creas tate 2 Cae Oe Setees Ce 
+continued illegal conduct and relieved him of his obligation 
+to mitigate. 
+
+
+False Premise No.4: The After-/ ‘red Evidence Rul 
+Castro 
+
+
+Banner Publishing Co., 513 U.S. 352 (1995). 
+
+
+McKennon, laintiff sued her former employer for age 
+peter mcommige oe plaintiff's deposition, the employer 
+learned for the first time that, prior to her discharge, the 
+plaintiff copied some of the employer's confidential financial 
+documents. 513 U.S. at 355. The employer argued that 
+plaintiff's misconduct was grounds for her termination and 
+that her misconduct deprived her of backpay or any other 
+remedy. /d. 
+
+
+This Court held: 
+
+
+m learns about employee wrongdoing 
+that would Ikad to a legitimate discharge, we cannot 
+require the employer to ignore the information .... The 
+beginning point in the trial court's formulation of a 
+remedy should be calculation of backpay from the date 
+
+
+17 
+
+
+of the unlawful discharge to the date the new 
+information was discovered. In determining the 
+appropriate order for relief, the court can consider taking into 
+further account extraordinary equitable circumstances that 
+affect the legitimate interests of either party.” 
+
+
+Id. at 362 (emphasis added). Thus, this Court acknowledged 
+that, in some situations, the employee’s misconduct justifies 
+denying all relief. 
+
+
+In at least two cases since McKennon, the state courts have 
+been confronted with the very circumstances that required 
+the complete denial of backpay envisioned by McKennon. In 
+Camp ov. Jeffer, Mangles, Butler & Marmaro, 41 Cal. Rptr.2d 329 
+(Cal. Ct. App. 1995), a law firm that represented the 
+Resolution Trust Corporation (“RTC”) unknowingly hired 
+two convicted felons. The RTC regulations required the law 
+firm to certify that none of its employees had ever been 
+convicted of a crime. In the course of discovery related to 
+the employees’ wrongful termination lawsuit, the law firm 
+learned of the employees’ convictions. The law firm argued 
+that the after-acquired evidence doctrine barred any 
+recovery. The California Court of Appeal agreed, stating: 
+
+
+“We appreciate that the facts in McKennon ... presented a 
+situation where balancing the equities should permit a 
+finding of employer liability ...12 However, the equities 
+compel a different result where an employee who is 
+disqualified from employment by government-imposed 
+
+
+13 In McKennon and the vast majority of cases that arise under the after- 
+: evidence doctrine, the employee misconduct amounts to no 
+more than a violation of the employer's internal policies. Here 
+however, Castro’s misconduct constituted repeated and continuing 
+violations of the immigration laws. 
+
+
+18 
+
+
+uirements nevertheless obtains a job by 
+misrepresenting the pertinent qualifications. ... Since the 
+Camps were not lawfully qualified for their jobs, they 
+cannot be heard to complain that they improperly lost 
+them. Given the nature of the misrepresentations, their 
+potential damage to Jeffer Mangles, and the fact that the 
+Camps were disqualified from employment by means 0 
+government requirements, the public policies of the state 
+are adequately served by barring the Camps claims.... 
+Id. at 339-40. 
+
+
+Similarly, in Cedeno v. Montclair State University, 725 A.2d 38 
+(NJ. adn 1999), affd 750 A2d 73 (NJ. 2000), bo 
+University learned during discovery that plaintiff, a pub 
+employee, had been convicted of a crime that wa 
+him from public employment. Relying on McKennon, . 
+court held that plaintiffs disqualification from employmen 
+disqualified him from receiving any relief for an alleged 
+_ wrongful termination. /d. at 42-43. 
+
+
+i i ter 
+The circumstances in this case present an even grea 
+justification for denying backpay than did the circumstances 
+in Camp and Cedeno. \n Camp and parcels ce csaaea 
+disqualified only from a particular category of employmen 
+In contrast, the immigration laws ay om pte yey 
+all employment. Accordingly, the Board and ee 
+Circuit should have applied the after-acquired evi 
+doctrine to bar backpay to Castro. 
+False Premise No.5; Failing to A 1 Bac] To Cast 
+
+The NLRA 
+
+
+of the 
+The Board and amici attempt to justify their disregard 
+immigration laws and their improper application of the 
+
+
+19 
+
+
+mitigation and after-acquired evidence doctrines by arguing 
+that denying backpay to Castro absolves Hoffman of its 
+violation of the NLRA. This argument is without merit. 
+Rather than absolve Hoffman of its violation, the Board 
+levied other significant remedies against Hoffman in this 
+case. The Board ordered Hoffman to cease and desist from 
+further violations of the Act, to offer reinstatement and 
+backpay to each of the other affected employees and to post 
+a notice regarding its remedial order. 
+
+
+Discounting the deterrent effect of a cease and desist order, 
+the Board claims that only backpay “provides the spur or 
+catalyst which causes employers and unions to self-examine 
+and to self-evaluate their employment practices.” 
+Respondent's Brief, p. 42. This Court has previously rejected 
+these same arguments. Indeed, in responding to Justice 
+Brennan’s criticism of its remedial holding in Sure-7an, the 
+Court described the cease and desist order as “one of the 
+Act's traditional remedies for discriminatory discharge 
+cases” and stated that “the threat of contempt sanctions” 
+associated with the cease and desist order “” provides a 
+significant deterrent against future violations.”14 467 US. 
+904 n.13. Thus, contrary to the argument advanced by the 
+Board and amici, this Court already has determined that a 
+cease and desist order was sufficient to deter Hoffman from 
+future violations of the NLRA. 
+
+
+4 Of course, in this case, there was additional deterrence in the form of 
+backpay awarded to the other discriminatees. Neither the Board nor 
+
+
+the amici explain how an additional award of backpay to Castro would 
+further vindicate the policies of the Act. 
+
+
+20 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the D.C. Circuit 
+Court of Appeals should be reversed. 
+
+
+Respectfully submitted, 
+Ryan D. McCortney Maurice Baskin 
+Counsel of Record for Petitioner Venable, Baetjer, Howard & 
+Wendi J. Delmendo Civiletti LLP 
+Sheppard, Mullin, Richter 1201 New York Ave., N.W. 
+Hampton LLP Suite 100 
+
+
+650 Town Center Dr., 4th Floor Washington, D.C. 20005 
+Costa Mesa, CA 92626-1925 (202) 962-4800 
+(714) 513-5100 
+
+

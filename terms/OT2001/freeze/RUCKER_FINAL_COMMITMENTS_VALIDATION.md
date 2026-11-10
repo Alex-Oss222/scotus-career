@@ -1,0 +1,21 @@
+# Rucker final independent-commitment validation
+
+Result: PASS for the bounded neutral/model handoff. The authoritative artifact is [RUCKER_FINAL_COMMITMENTS.md](../freeze/RUCKER_FINAL_COMMITMENTS.md); the [runtime copy](../runtime/RUCKER_FINAL_COMMITMENTS.md) is byte-identical.
+
+- SHA-256, both copies: `63d42083108e199fc89a538b6b8a32a08463f8c835c0a38ca5d8d848ebde88f1`.
+- Seven participating Associates have one statutory/due-process row, one added-claims row and one exact-join row each. Breyer has no active row or vote. All six defined components have seven direct joins at their expressly bounded scope. No remaining Justice's position or assignment is supplied.
+- The five substantive components are separately resolved: statutory authority; due process and Bennis; First Amendment association; Fourteenth Amendment intimate association; Excessive Fines. R6 separately states the preliminary-injunction remedy and individual remand limits.
+- The new association and fines comparisons identify each Justice's own eligible writing or join, the strongest competing path and narrower/broader join barriers. A common categorical disposition is not converted into a universal individual holding or a new constitutional defense.
+- Bennis retains actual ownership, nonparticipation, lack of knowledge, reasonable prevention, ordinary proof, meaningful opportunity and required relief once proved. Its limited automobile setting is neither silently extended to every tenancy nor replaced by discretionary mercy.
+- The statutory ground, mandatory lease inclusion and discretionary termination remain distinct. Actual lease geography, listed relationships, requested document access, hearing conditions, optional mitigation and the precise illegal-drug-use treatment option remain distinct.
+- Expressive activity is not inferred from household or guest status. Intimate association is not absorbed into expression. The record's failure to establish an actual direct burden is not rewritten as a finding of no hardship. Strict-scrutiny positions require their own infringement predicates.
+- Fine coverage, actual punitive extraction, excessiveness and state incorporation remain separate. Austin's substance-over-form rule and Bajakajian's governing framework are preserved; Double Jeopardy classification is not imported. No value, offense finding, incorporation holding or final individual eviction is invented.
+- The effective public-law copy through March 19 including Ruiz was reviewed at relevant scope. The restored Guest separate limits do not change the controlling immunity rule. No additional supplied earlier law changes the commitments. No later or same-day target result is used.
+- The earlier Rucker/S.S. freeze remains unchanged at SHA-256 `c72e6f2f7304505d6f4bf6f538934dae4441863aaafe787e0c4c44207898d20c`. Only its Rucker handoff is superseded. S.S. remains unchanged; Hoffman remains pending.
+- All 15 local artifact links resolve from both freeze and runtime locations. No placeholders or restricted service/location strings were found in the two handoffs or the newly saved official source files. Writes were confined to the authorized term subtree.
+
+## Source and context receipt
+
+The final neutral supplement, preflight, original exact statute/regulations, relevant additional law and five full prior public entries were reviewed. The official pre-divergence Lyng opinion was downloaded and mechanically extracted; all 26 pages including footnotes and dissent were read. Its participation and joins were verified rather than inferred. Long source language was not manually reconstructed in this handoff; earlier independently authored statutory/due-process rows were mechanically copied, excluding Breyer, with the remedy column label updated to R6.
+
+No target historical comparator, private target position, reconciliation, unsplit brief or private Record annex was opened. No linked private Record was followed and no target-outcome search was performed. The disclosed broad initial governing-file retrieval and a later short unrelated source-only Ragsdale passage from a stale line range are retained as truthful context qualifications; neither exposed excluded target material. This validation concerns the independent handoff, not later historical reconciliation, final compatibility, assignment or Court publication.

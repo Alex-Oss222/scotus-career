@@ -1,0 +1,603 @@
+Source: https://www.justice.gov/osg/brief/hud-v-rucker-oakland-housing-auth-v-rucker-brief-merits
+
+Nos. 00-1770 and 00-1781
+
+In the Supreme Court of the United States
+
+UNITED STATES DEPARTMENT OF HOUSING
+ AND URBAN DEVELOPMENT, PETITIONER
+
+v.
+
+PEARLIE RUCKER, ET AL.
+
+OAKLAND HOUSING AUTHORITY, ET AL., PETITIONERS
+
+v.
+
+PEARLIE RUCKER, ET AL.
+
+ON WRIT OF CERTIORARI 
+ TO THE UNITED STATES COURT OF APPEALS 
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE DEPARTMENT OF HOUSING
+ AND URBAN DEVELOPMENT 
+
+THEODORE B. OLSON
+ Solicitor General
+ Counsel of Record
+ ROBERT D. MCCALLUM, JR.
+ Assistant Attorney General
+ EDWIN S. KNEEDLER
+ Deputy Solicitor General
+ JAMES A. FELDMAN
+ Assistant to the Solicitor
+ General
+ BARBARA C. BIDDLE
+ HOWARD S. SCHER
+ Attorneys
+ Department of Justice
+ Washington, D.C. 20530-0001
+ (202) 514-2217
+
+         RICHARD A. HAUSER
+ General Counsel
+ CAROLE W. WILSON
+ Associate General Counsel
+ HOWARD M. SCHMELTZER
+ Assistant General Counsel
+ HAROLD J. RENNETT
+ Attorney
+ United States Department of
+ Housing and Urban
+ Development
+ Washington, D.C. 20410
+
+QUESTION PRESENTED
+
+Section 1437d(l)(6) of Title 42 of the United States Code provides that public housing leases must contain a clause stating that "any drug-related criminal activity on or off [the] premises engaged in by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy."
+
+The question presented is:
+
+Whether the lease clause provided for in 42 U.S.C. 1437d(l)(6) (Supp. V 1999) is violated by drug-related criminal activity of household members, regardless of whether it can be shown that the tenant knew, or had reason to know, of the drug-related activity.
+
+In the Supreme Court of the United States
+
+NO. 00-1770
+
+UNITED STATES DEPARTMENT OF HOUSING
+ AND URBAN DEVELOPMENT, PETITIONER
+
+v.
+
+PEARLIE RUCKER, ET AL.
+
+NO. 00-1781
+
+OAKLAND HOUSING AUTHORITY, ET AL., PETITIONERS
+
+v.
+
+PEARLIE RUCKER, ET AL.
+
+ON WRIT OF CERTIORARI
+ TO THE UNITED STATES COURT OF APPEALS
+ FOR THE NINTH CIRCUIT
+
+BRIEF FOR THE DEPARTMENT OF HOUSING
+ AND URBAN DEVELOPMENT
+
+OPINIONS BELOW
+
+The opinion of the en banc court of appeals (Pet. App. 1a-67a1) is reported at 237 F.3d 1113. The order of the court of appeals (Pet. App. 68a-69a) directing that the case be reheard en banc is reported at 222 F.3d 614. The opinion of the panel of the court of appeals (Pet. App. 70a-137a) is reported at 203 F.3d 627. The opinion of the district court (Pet. App. 138a-166a) is unreported.
+
+JURISDICTION
+
+The judgment of the court of appeals was entered on January 24, 2001. On April 11, 2001, Justice O'Connor extended the time within which to file a petition for a writ of certiorari to and including May 24, 2001, and the petition was filed on that date. The jurisdiction of this Court is invoked under 28 U.S.C. 1254(1).
+
+STATUTORY PROVISIONS INVOLVED
+
+42 U.S.C. 1437d(l) (1994 & Supp. V 1999) provides in pertinent part:
+
+(l) Leases; terms and conditions; maintenance; termination
+
+Each public housing agency shall utilize leases which-
+
+* * * * *
+
+(6) provide that any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants or any drug-related criminal activity on or off such premises, engaged in by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy.
+
+Other pertinent provisions of the United States Housing Act and regulations of the Department of Housing and Urban Development are set forth at Pet. App. 167a-172a and at App., infra, 1a-11a.
+
+STATEMENT
+
+This case concerns the meaning of a clause that the United States Housing Act requires each public housing agency (PHA) to include in leases of public housing units that receive federal housing assistance. The clause provides that drug-related criminal activity by specified individuals on or off the premises of the PHA is cause for termination of tenancy and hence ground for eviction. The Oakland Housing Authority (OHA) instituted eviction proceedings against four tenants pursuant to a lease clause compelled by that provision of the Housing Act. The tenants instituted this action in the United States District Court for the Northern District of California to obtain an injunction against OHA's state court eviction actions. The district court issued a preliminary injunction barring OHA from terminating any lease of a tenant for drug-related criminal activity that occurred outside the tenant's apartment if the tenant did not know of, or have reason to know of, that activity. The court of appeals, sitting en banc, affirmed the district court's decision.
+
+1. a. The United States Housing Act of 1937 (Housing Act), 42 U.S.C. 1437 et seq., authorizes the Secretary of Housing and Urban Development (HUD) to make loans or loan commitments to public housing agencies to help finance the development, acquisition, or operation of low-income housing projects by such agencies. 42 U.S.C. 1437b(a). In 1988 and 1990, Congress amended the Housing Act in an effort to keep drug-related activity out of public housing. Congress made the following findings concerning the seriousness of the drug problem affecting public housing:
+
+(1) the Federal Government has a duty to provide public and other federally assisted low-income housing that is decent, safe, and free from illegal drugs;
+
+(2) public and other federally assisted low-income housing in many areas suffers from rampant drug-related or violent crime;
+
+(3) drug dealers are increasingly imposing a reign of terror on public and other federally assisted low-income housing tenants;
+
+(4) the increase in drug-related and violent crime not only leads to murders, muggings, and other forms of violence against tenants, but also to a deterioration of the physical environment that requires substantial governmental expenditures;
+
+(5) local law enforcement authorities often lack the resources to deal with the drug problem in public and other federally assisted low-income housing, particularly in light of the recent reductions in Federal aid to cities.
+
+Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, § 5122, 102 Stat. 4301 (codified at 42 U.S.C. 11901 (1994 & Supp. V 1999)).2
+
+In light of those findings, Congress mandated that "[e]ach public housing agency shall utilize leases which" provide that
+
+a public housing tenant, any member of the tenant's household, or a guest or other person under the tenant's control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.
+
+§ 5101, 102 Stat. 4300.
+
+That provision was reworded in 1990 without substantive change concerning drug-related criminal activity. As amended, the provision required that public housing leases provide that any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the premises by other tenants or any drug-related criminal activity on or near such premises, engaged in by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy.
+
+Cranston-Gonzalez National Affordable Housing Act, Pub. L. No. 101-625, § 504, 104 Stat. 4185. The provision was again amended in 1996 by changing the phrase "on or near such premises" to "on or off such premises." Housing Opportunity Program Extension Act of 1996, Pub. L. No. 104-120, § 9(a)(2), 110 Stat. 836. As so amended, the provision is now codified at 42 U.S.C. 1437d(l)(6) (Supp. V 1999).3 See also 42 U.S.C. 1437d(l) (1994 & Supp. V 1999) (defining "drug-related criminal activity" to mean "the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use, of a controlled substance (as defined in [21 U.S.C. 802 (1994 & Supp. V 1999]").
+
+HUD's regulation establishing mandatory lease terms for public housing tenants closely tracks the statutory language. As recently amended, the regulation requires leases to impose an obligation on the tenant:
+
+(i) To assure that no tenant, member of the tenant's household, or guest engages in:
+
+(A) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or
+
+(B) Any drug-related criminal activity on or off the premises;
+
+(ii) To assure that no other person under the tenant's control engages in:
+
+(A) Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or
+
+(B) Any drug-related criminal activity on the premises.
+
+66 Fed. Reg. 28,776, 28,802 (May 24, 2001) (to be codified at 24 C.F.R. 966.4(f)(12)(i)). The regulations further state that "[t]he lease must provide that drug-related criminal activity engaged in on or off the premises by any tenant, member of the tenant's household or guest, and any such activity engaged in on the premises by any other person under the tenant's control, is grounds for the PHA to terminate tenancy." 66 Fed. Reg. at 28,803 (to be codified at 24 C.F.R. 966.4(l)(5)(i)(B)). See also id. at 28,803 (to be codified at 24 C.F.R. 966.4(l)(2)(i)(B)) ("The PHA may terminate the tenancy only for" certain lease violations, including "[f]ailure to fulfill household obligations, as described in" 24 C.F.R. 966.4(f)(12)(i)).
+
+b. When HUD issued its original regulations implementing Section 1437d(l)(6) shortly after its enactment, it made clear that a tenant's lease may be terminated for violation of the lease provision required by Section 1437d(l)(6) without regard to the tenant's knowledge of that activity.4 HUD explained that permitting the landlord to evict a tenant for breach of lease obligations is a "normal and ordinary incident of tenancy," and that permitting eviction based on the behavior of household members gives the tenant and other household members "a strong motive to avoid behavior which can lead to eviction." 56 Fed. Reg. 51,560, 51,566 (1991). In light of Congress's determination that drug crimes "are a special danger to the security * * * of public housing residents," id. at 51,566-51,567, HUD considered it appropriate that the "tenant should not be excused from contractual responsibility by arguing that [the] tenant did not know, could not foresee, or could not control behavior by other occupants of the unit," id. at 51,567.
+
+Thus, under HUD's interpretation, Section 1437d(l)(6) mandates a lease provision under which a PHA has "cause" to terminate a tenancy if the provision is violated, whether or not the tenant had knowledge of the drug-related criminal activity. But neither Section 1437d(l)(6) nor HUD's regulations require public housing authorities to terminate any tenancy. Instead, the decision whether to invoke the lease clause and evict a particular tenant is for the PHA to make. HUD's regulations provide that, in making that decision, "the PHA may consider all circumstances relevant to a particular case such as the seriousness of the offending action, the extent of participation by the leaseholder in the offending action, the effects that the eviction would have on family members not involved in the offending activity and the extent to which the leaseholder has shown personal responsibility and has taken all reasonable steps to prevent or mitigate the offending action." 66 Fed. Reg. at 28,803 (to be codified at 24 C.F.R. 966.4(l)(5)(vii)(B)); see also 24 C.F.R. 966.4(l)(5)(i) (2000) (predecessor regulation).
+
+2. In late 1997 and early 1998, the Oakland Housing Authority instituted eviction proceedings in state court against four public housing tenants who are plaintiffs in this case and respondents in this Court-Pearlie Rucker, Willie Lee, Barbara Hill, and Herman Walker. In each case, OHA alleged that the tenant had violated paragraph 9(m) of his or her lease, a provision that implements Section 1437d(l)(6) and that obligates the tenant to "assure that tenant, any member of the household, or another person under the tenant's control, shall not engage in * * * [a]ny drug-related criminal activity on or near the premises." Pet. App. 5a-6a; J.A. 20-21, 46. Each tenant had also signed an agreement stating that the tenant is "aware of" paragraph 9(m); that the tenant is "aware that any drug-related criminal activity on or off the premises * * * by myself or any member of my household is prohibited"; and that the tenant "understand[s] that if I or any member of my household or guests should violate this lease provision, my tenancy may be terminated and I may be evicted." J.A. 69 (Rucker); OHA C.A. E.R. 81 (Hill), 80 (Lee), 62 (Walker).
+
+Pearlie Rucker is a 63-year-old woman who has lived in public housing since 1985. OHA's complaint alleged that her daughter, who resides with her and is listed on her lease as a resident, was found with cocaine and a crack cocaine pipe three blocks from Rucker's apartment. OHA subsequently obtained a dismissal of the complaint without prejudice in February 1998. Pet. App. 6a, 141a; J.A. 13, 42.
+
+Willie Lee is 71 years old and has lived in public housing for more than 25 years. OHA's complaint alleged that Lee's grandson, who resides with her and is listed on her lease as a resident, was caught smoking marijuana in the apartment complex parking lot. Pet. App. 6a; J.A. 18, 34.
+
+Barbara Hill is 63 years old and has lived in public housing for more than 30 years. OHA's complaint alleged that Hill's grandson, who resides with her and is listed on her lease as a resident, was caught with Lee's grandson in the apartment complex parking lot and admitted smoking marijuana. Pet. App. 6a; J.A. 19, 31.
+
+Herman Walker is a disabled 75-year-old man who has lived in public housing for ten years. OHA's complaint alleged that on three instances within a two-month period, Walker's in-home caregiver and two others were found with cocaine in Walker's apartment. Each time, Walker was issued a notice of lease violation. After the third notice and OHA's initiation of the eviction action, Walker fired his caregiver. Pet. App. 6a; J.A. 15-17, 37-39.
+
+3. Following the institution of eviction proceedings against them in state court, the four tenants commenced this action in the United States District Court for the Northern District of California. They sought, inter alia, a preliminary injunction that would prohibit OHA from evicting any tenants without proof of "the tenant's personal participation in, prior knowledge of, and actual ability to prevent drug-related or other criminal activity." J.A. 24, 25.
+
+The district court issued a preliminary injunction prohibiting OHA "from terminating the leases of tenants * * * for drug-related criminal activity that does not occur within the tenant's apartment unit when the tenant did not know of, and had no reason to know of, the drug-related criminal activity." Pet. App. 165a-166a; see generally id. at 138a-166a. The injunction is not limited merely to the four tenants who had brought the case, but broadly applies to all "leases of tenants." Id. at 165a. The court also enjoined OHA from proceeding with any of the three eviction actions that remained pending in state court after the state eviction proceeding against Rucker was dismissed. Id. at 166a. The court noted, however, that OHA "is not preliminarily enjoined from evicting tenants * * * for drug-related criminal activity in the tenant's apartment, regardless of whether the tenant knew, or had reason to know, of the criminal activity," except for Walker, the validity of whose eviction, the court concluded, would turn on the Americans with Disabilities Act of 1990 (ADA), 42 U.S.C. 12101 et seq. Pet. App. 165a-166a; see also id. at 162a-163a.5
+
+4. A divided panel of the Ninth Circuit reversed the district court's decision and vacated the preliminary injunction. Pet. App. 70a-137a. The panel "concluded that the plain language of 42 U.S.C. § 1437d(l)(5), considered both by itself and in light of the broader statutory context, makes any drug-related criminal activity engaged in by a tenant, household member, or guest cause for termination regardless of whether the tenant knew of such activity." Id. at 107a. Judge William Fletcher dissented. Id. at 115a-137a.
+
+5. a. The court of appeals ordered rehearing en banc. Pet. App. 68a-69a. By a 7-4 vote, the en banc court affirmed the preliminary injunction. Id. at 1a-67a. The court held that "if a tenant has taken reasonable steps to prevent criminal drug activity from occurring, but, for a lack of knowledge or other reason, could not realistically exercise control over the conduct of a household member or guest, § 1437d(l)(6) does not authorize the eviction of such a tenant." Id. at 26a. Rejecting HUD's contrary interpretation of the statute, the court concluded that "Congress had an intention on the precise question at issue that is contrary to HUD's construction," and that therefore "HUD's interpretation is not entitled to deference" under Chevron. Id. at 11a.
+
+The court acknowledged that the text "does not compel either party's interpretation" because it "does not expressly address the level of personal knowledge or fault that is required for eviction, or even make it clear who can be evicted." Pet. App. 12a. The court was of the view, however, that to construe Section 1437d(l)(6) to permit eviction of tenants who did not know or have reason to know of the drug-related activity would "require PHAs to include an unreasonable term in their leases," in violation of 42 U.S.C. 1437d(l)(1), which prohibits "unreasonable" PHA lease terms. Id. at 15a.
+
+The court also noted that in 1988, when Congress first enacted what is now Section 1437d(l)(6), Congress amended a pre-existing civil forfeiture provision in 21 U.S.C. 881(a)(7) (1988) that already had an express "innocent owner" defense. The amendment added leasehold interests to the property subject to forfeiture when used to commit or facilitate a drug-related offense. See Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, § 5105, 102 Stat. 4301. The court "presume[d]" that Congress meant for the amended forfeiture provision and Section 1437d(l)(6) "to be read consistently." Pet. App. 17a.
+
+The court relied as well on a Senate Report discussing one version of a bill before Congress in 1990, when it amended Section 1437d(l)(6). The report stated that the committee "anticipates that each case will be judged on its individual merits" and that eviction of an unknowing tenant would neither be the "appropriate course," S. Rep. No. 316, 101st Cong., 2d Sess. 179 (1990), nor constitute "good cause" to evict, id. at 127.
+
+The court also expressed the view that HUD's interpretation of Section 1437d(l)(6) would lead to "absurd results." Pet. App. 21a. The court stated that "there was nothing more Pearlie Rucker could have done to protect herself from eviction"; that "the statute would * * * permit eviction * * * if a tenant's child was visiting friends on the other side of the country and was caught smoking marijuana"; and that "the provision would * * * authorize eviction if a household member had been convicted of a drug crime years earlier." Id. at 22a.
+
+Finally, the court held that the principle of construing a statute to avoid substantial constitutional concerns supported its result, because "[p]enalizing conduct that involves no intentional wrongdoing by an individual can run afoul of the Due Process Clause." Pet. App. 24a. The court distinguished Bennis v. Michigan, 516 U.S. 442 (1996), which permitted forfeiture of a wife's interest in a car because of her husband's use of the car to engage in sexual activities with a prostitute, conduct of which the wife was unaware. The court pointed out that the property in Bennis had been "used in criminal activity," while the leasehold interests here (with the exception of the one in Walker's case) had not been. Pet. App. 25a.
+
+In affirming the preliminary injunction, the court of appeals noted that the injunction does not necessarily bar OHA from pursuing evictions based on drug-related activities that occur in the tenant's unit, regardless of the tenant's knowledge (see Pet. App. 166a), characterizing that general preservation of OHA's authority as "creat[ing] a rebuttable presumption that a tenant controls what occurs in his or her unit." Id. at 29a. In addition, without otherwise analyzing the question of who should bear the burden of proof, the court stated that "OHA remains free to proceed with evictions for off-premises drug activities when it can prove the tenant knew or should have known of the activity." Pet. App. 28a (emphasis added); see also id. at 29a & n.10.
+
+b. Judge Sneed, joined by three other judges, dissented. Pet. App. 32a-67a. In his view, "[b]ecause the statute is clear on its face, HUD's interpretation is the only permissible construction." Id. at 33a. But he noted as well that "whether one accepts our contention that the statutory language is clear or the majority's argument that the language is silent, application of the Chevron test to the present controversy leads to the same conclusion." Id. at 33a-34a.
+
+Judge Sneed concluded that other statutory provisions supported HUD's construction of the statute. In his view, for example, the fact that Congress included an express "innocent owner" defense in the forfeiture statute underscored the significance of Congress's omission of any similar language in Section 1437d(l)(6). Pet. App. 42a-44a; see also id. at 40a-42a (analyzing 42 U.S.C. 1437d(c)(4)(A) (1994), discussed at pp. 31-32, infra).
+
+Judge Sneed also disputed the majority's contention that Section 1437d(l)(6) would impose an "unreasonable" lease term, in violation of Section 1437d(l)(1), if it permitted eviction of tenants who were ignorant of the drug-related conduct. Pet. App. 49a-55a. He explained that "requir[ing] proof of knowledge on the part of the tenant of the criminal activity of a guest is impractical" in any case in which the tenant was not found in the presence of the offender during the drug-related criminal activity, and that permitting eviction of such tenants gives the public housing authority "a credible deterrent against criminal activity." Id. at 51a. He also noted that "a provision permitting the eviction of unknowing tenants because of the wrongdoing of their household members or guests is a common and enforceable provision in leases between private owners of property and their tenants," and that fact "attests to [its] reasonableness." Id. at 54a.
+
+Finally, Judge Sneed concluded that Section 1437d(l)(6), without an "ignorant tenant" defense, is constitutional. Pet. App. 56a-64a. He explained that "[t]he failure to distinguish between the knowing and unknowing tenant need survive only minimal scrutiny," because "Congress must draw distinctions 'in order to make allocations from a finite pool of resources.'" Pet. App. 60a (quoting Lyng v. International Union, United Auto Workers of Am., 485 U.S. 360, 373 (1988)). In Section 1437d(l)(6), he reasoned, "Congress has limited the right to reside in public housing to those individuals who agree to accept responsibility for the drug-related criminal activity of their household members and guests." Id. at 58a. The provision thus "facilitates the eviction of truly culpable tenants, creates incentives for all tenants to report drug-related criminal activity, and provides a credible deterrent against criminal activity." Id. at 61a. And "[b]ecause the eviction provision is discretionary, the provision also motivates tenants to accept remedial actions short of eviction." Ibid. For those reasons, Judge Sneed concluded, Section 1437d(l)(6) is constitutional.
+
+SUMMARY OF ARGUMENT
+
+Section 1437d(l)(6) requires public housing leases to provide that "any drug-related criminal activity * * * engaged in by * * * any member of the tenant's household * * * shall be cause for termination of tenancy." HUD has interpreted that provision to authorize (but not to require) public housing authorities to terminate the tenancy of tenants whose household members have engaged in drug-related criminal activity, without requiring proof that the tenants knew or should have known of that activity. HUD's construction of Section 1437d(l)(6) is not only reasonable, but is the only permissible construction of the statute. Accordingly, it is controlling in this case, and the court of appeals' holding that Section 1437d(l)(6) authorizes eviction only if the tenant knew or should have known of the drug-related criminal activity should be reversed.
+
+I. The plain language of Section 1437d(l)(6) unambiguously authorizes eviction without regard to tenants' knowledge of the drug-related activity of guests or other persons under their control. It contains no term that can be read to make the authority to evict turn on the tenant's state of mind or knowledge. To the contrary, Congress precluded reading artificial qualifications or restrictions into Section 1437d(l)(6) by providing for termination of tenancy based on "any" drug-related criminal activity committed by "any" household member or "any" guest or other person under the tenant's control.
+
+The use of the term "under the tenant's control" does not support the court of appeals' restriction, for two reasons. As a matter of grammar that phrase applies only to "other person," not "any household member." Moreover, HUD has in any event consistently and authoritatively construed "under the tenant's control" to refer only to the tenant's control over the "other person's" access to the premises, not to require the likely unavailable proof that the tenant had control over the "other person's" specific conduct.
+
+II. Other tools of statutory construction support HUD's interpretation. Congress amended the civil forfeiture statute (which already contained an "innocent owner" exception) to authorize forfeiture of leasehold interests in the same legislation in which it enacted Section 1437d(l)(6). Congress thus had civil forfeiture (with its innocent owner defense) in its sights when it enacted Section 1437d(l)(6). Its decision not to include any language in Section 1437d(l)(6) that is remotely similar to the express "innocent owner" forfeiture defense demonstrates that no such "unknowing tenant" exception was intended.
+
+Two other paragraphs in Section 1437d(l)-one prohibiting "unreasonable" lease terms and the other permitting eviction only for "good cause"-were relied on by the court of appeals but provide no support for its conclusion. Congress's decision in Section 1437d(l)(6) to require inclusion of a lease term authorizing eviction of a tenant for a household member's drug-related criminal activity necessarily shows that Congress decided that such a term is not unreasonable and that a household member's participation in drug-related criminal activity is "good cause" for the tenant's eviction.
+
+While the court of appeals' holding that Section 1437d(l)(6) precludes eviction of unknowing tenants disserves Congress's avowed goal of ridding public housing of the "reign of terror" caused by the presence of drug criminals, construing Section 1437d(l)(6) to permit termination of tenancy without regard to the tenant's knowledge substantially advances that declared purpose. Section 1437d(l)(6) gives the tenant maximum incentive to find out about and address drug-related criminal activity engaged in by household members and others for whom the tenant is responsible. It avoids what would often be the insuperable enforcement problems that a PHA would face if the ability to remove a tenant turned on the PHA's ability to prove the tenant's knowledge of the drug-related criminal activity over the likely denials of knowledge by the tenant and the offender. It deters other potential drug criminals in public housing who are likely to become aware of the serious consequences of their activities and gives PHAs leverage to encourage tenants to bar drug criminals from their premises. Finally, because drug criminals pose a threat to their neighbors regardless of the tenant's knowledge of their activities, Section 1437d(l)(6) embodies the reasonable policy of authorizing PHAs to replace households who are the cause of that threat with some of the numerous households on public housing waiting lists who would not pose a similar threat.
+
+The legislative history of Section 1437d(l)(6) supports HUD's construction. In 1990, when Congress rewrote Section 1437d(l)(6), Congress was informed that the statute as originally enacted did not contain a knowledge or other state-of-mind defense, yet Congress did not alter the relevant terms to include such a defense. Moreover, Congress broadened Section 1437d(l)(6) to cover more drug-related criminal activities in 1996, five years after HUD had authoritatively construed the statute not to provide such a state-of-mind defense and after several courts rendered decisions sustaining HUD's construction. Because Congress is presumed to have been aware of governing executive and judicial branch constructions, it is presumed to have adopted them when it broadened Section 1437d(l)(6) in 1996 without inserting any language that could suggest a state-of-mind defense.
+
+The court of appeals purported to rely on the rule of constitutional avoidance to construe Section 1437d(l)(6) to include a knowledge requirement. That rule is inapplicable, however, because the terms of Section 1437d(l)(6) unambiguously preclude any such requirement. Moreover, Section 1437d(l)(6) poses no serious constitutional question. It is not a "penalty" provision, as the court of appeals suggested, but instead enforces what is a contractual warranty by the tenant that those for whom the tenant is responsible will not engage in drug-related criminal activities. Such terms are commonly enforced in similar contractual settings without any state-of-mind requirement. In addition, this Court held in Bennis v. Michigan, 516 U.S. 442 (1996), that a State may constitutionally forfeit a private property interest to which it had no previous connection, without a showing of fault by the owner. That holding applies a fortiori here, where the government is seeking to enforce a contractual commitment regarding property it owns.
+
+ARGUMENT
+
+SECTION 1437d(l)(6) REQUIRES THAT A PUBLIC HOUSING AUTHORITY BE ENTITLED UNDER ITS LEASES TO TERMINATE A TENANCY BASED ON THE ILLEGAL DRUG ACTIVITY OF HOUSEHOLD MEMBERS OR GUESTS, WITHOUT REGARD TO THE TENANT'S KNOWLEDGE OF THAT ACTIVITY
+
+This case turns on the meaning of 42 U.S.C. 1437d(l)(6) (Supp. V 1999). The fundamental principles governing the interpretation of that statutory provision are not in dispute. As the court of appeals explained, "[t]he parties agree that in interpreting § 1437d(l)(6), [the court must] apply the framework set forth in Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837 (1984)." Pet. App. 10a (alternate citation omitted). Under that framework, "[i]f the intent of Congress is clear, that is the end of the matter; for the court, as well as the agency, must give effect to the unambiguously expressed intent of Congress." Chevron, 467 U.S. at 842-843. On the other hand, if Congress has not directly addressed the issue or has done so ambiguously, the court may not "simply impose its own construction on the statute," but rather must determine whether the agency's construction is based on a permissible interpretation of the statute. Id. at 843.
+
+Under Chevron, HUD's longstanding interpretation of Section 1437d(l)(6)-which requires that public housing leases provide for termination of the tenancy in the event of drug-related activities of a household member or guest, without regard to the tenant's knowledge of those activities-is clearly valid. That interpretation ensures that local public housing officials have the authority they need to assure the families who make their homes in public housing that they will have a safe, drug-free environment.
+
+I. SECTION 1437d(l)(6) BY ITS TERMS REQUIRES THAT PUBLIC HOUSING AUTHORITIES HAVE DISCRETION TO TERMINATE TENANCY REGARDLESS OF THE TENANT'S KNOWLEDGE OF THE DRUG-RELATED CRIMINAL ACTIVITY
+
+"[T]he starting point in a case involving construction * * * of a statute[] is the language of the statute itself." United States Dep't of Treasury v. Fabe, 508 U.S. 491, 500 (1993). "The plainness or ambiguity of statutory language is determined by reference to the language itself, the specific context in which that language is used, and the broader context of the statute as a whole." Robinson v. Shell Oil Co., 519 U.S. 337, 341 (1997). Here, the lease clause required under the plain language of Section 1437d(l)(6) is violated when a household member engages in drug-related criminal activity, regardless of whether it can be shown that the tenant knew or had reason to know of that activity. Other provisions of the Housing Act confirm that reading. When the statute is read as a whole, that is the only conclusion that makes sense.6
+
+A. The Plain Language Of Section 1437d(l)(6) Precludes A Knowledge Requirement As A Prerequisite For Eviction
+
+In an effort to combat what it found to be a "reign of terror" imposed by drug dealers on public housing tenants, 42 U.S.C. 11901(3), Congress required in Section 1437d(l)(6) that public housing leases must provide that "any drug-related criminal activity on or off [the public-housing project's] premises, engaged in by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control, shall be cause for termination of tenancy." 42 U.S.C. 1437d(l)(6) (Supp. V 1999). Under that explicit language, there is "cause for termination of tenancy" whenever "any drug-related criminal activity" has been committed by the tenant, "any member of the tenant's household, or any guest or other person under the tenant's control."
+
+Even without regard to its repeated use of the term "any," Section 1437d(l)(6) contains no express or implied qualifications. If there has been drug-related criminal activity, and if that activity has been engaged in by a member of the tenant's household, it is a ground for termination of the tenancy and eviction. Had Congress intended to limit that consequence to only some criminal drug activities (such as those of which the tenant had knowledge), it surely would have said so. As HUD explained in promulgating the governing regulations shortly after Section 1437d(l)(6) was enacted, Congress made the determination that "[t]he tenant should not be excused from contractual responsibility [under the lease] by arguing that [the] tenant did not know, could not foresee, or could not control behavior by other occupants of the unit." 56 Fed. Reg. 51,560, 51,567 (1991).
+
+The use of the term "any" confirms the unqualified nature of the lease clause mandated by Section 1437d(l)(6). As this Court has explained, "the word 'any' has an expansive meaning, that is, 'one or some indiscriminately of whatever kind.'" United States v. Gonzales, 520 U.S. 1, 5 (1997) (quoting Webster's Third New International Dictionary 97 (1976)). Accordingly, when Congress required the lease provision to vest PHAs with authority to terminate a tenancy for "any drug-related criminal activity" by one of the specified persons (tenant, household member, etc.), it intended it to apply "indiscriminately" to drug-related criminal activity "of whatever kind." See also United States v. Monsanto, 491 U.S. 600, 606-609 (1989). Congress's use of the term "any," and the otherwise unqualified text, thus renders the lease clause "comprehensive," "broad and unambiguous," id at 609, and precludes limiting the ground for eviction to only a subcategory of instances of drug-related criminal activities-i.e., those that the tenant knew about, participated in, approved, or foresaw. See Burton, 2001 WL 1379724, at *2 ("HUD's interpretation is the only permissible construction of the statute.").
+
+B. Section 1437d(l)(6) Does Not Require A Public Housing Authority To Seek Eviction For A Lease Violation, But Instead Vests It With Discretion Whether To Invoke The Lease Termination Clause
+
+Section 1437d(l)(6) requires the lease provision to state that the specified drug activity is "cause for termination of tenancy," not that the public housing authority must invoke that clause and terminate the tenancy in all cases-or in any particular case-of drug-related criminal activity. HUD has consistently made clear that "[t]he fact that statutorily required lease provisions would allow PHAs to terminate tenancy under certain circumstances does not mean that PHAs are required to do so in each case where the lease would allow it." 66 Fed. Reg. 28,776, 28,782 (May 24, 2001). See also id. at 28,783 (PHAs "are neither required by law nor encouraged by HUD to terminate leaseholds in every circumstance in which the lease would give the PHA grounds to do so."); 56 Fed. Reg. at 51,567.
+
+HUD regulations provide that, in deciding whether to terminate the tenancy, "the PHA may consider all circumstances relevant to a particular case such as the seriousness of the offending action, the extent of participation by the leaseholder in the offending action, the effects that the eviction would have on family members not involved in the offending activity and the extent to which the leaseholder has shown personal responsibility and has taken all reasonable steps to prevent or mitigate the offending action." 66 Fed. Reg. at 28,803 (to be codified at 24 C.F.R. 966.4(l)(5)(vii)(B)); accord 24 C.F.R. 966.4(l)(5)(i) (2000) (similar, now superseded); see also Burton, 2001 WL 1379724, at *6 (Section 1437d(l)(6) "does not mandate eviction for all tenants whose household members or guests engage in drug-related criminal activity, but rather it permits their eviction, granting discretion to the PHAs to make this determination on a case-by-case basis.").7
+
+In this very case, OHA voluntarily ceased its effort to evict tenant Rucker, presumably based on a consideration of the factors enumerated by HUD. See p. 8, supra. As Judge Sneed recognized, leaving discretion with the public housing authority makes sense, both because it gives tenants an incentive "to accept remedial actions short of eviction," Pet. App. 61a, and because the local public housing authority is in the best position to assess the seriousness of a drug problem at a given housing complex and the contribution to that problem made by a particular tenant, other household members, and other persons connected with the unit.
+
+C. The Court Of Appeals Erred In Finding Ambiguity In The Text Of Section 1437d(l)(6) That Would Permit An "Unknowing Tenant" Defense
+
+The court of appeals purported to find several ambiguities in the language of Section 1437d(l)(6). That language, however, is not ambiguous with respect to whether there is an "unknowing tenant" defense under Section 1437d(l)(6).
+
+1. The court of appeals thought that Section 1437d(l)(6) is ambiguous because it "does not expressly address the level of personal knowledge or fault that is required for eviction." Pet. App. 12a. It is true that Section 1437d(l)(6) does not expressly address the tenant's level of personal knowledge, in the sense that it does not expressly condition eviction on any state of personal knowledge. That does not, however, lead to the conclusion that the language of Section 1437d(l)(6) is ambiguous on the point. Because Section 1437d(l)(6) applies without qualification in the event of "any drug-related criminal activity" by "any member of the tenant's household" or "any guest or other person under the tenant's control," the text of Section 1437d(l)(6) affirmatively precludes any such limitation. The fact that the mandatory lease clause reaches drug-related activity without regard to the tenant's knowledge, "even though it contains no express provisions to that effect, 'does not demonstrate ambiguity' in the statute: 'It demonstrates breadth.'" Monsanto, 491 U.S. at 609 (quoting Sedima, S.P.R.L. v. Imrex Co., 473 U.S. 479, 499 (1985)).
+
+The lease clause required by Section 1437d(l)(6) does not differ in this respect from clauses in many leases-or from other clauses in the very public housing leases at issue in this case. Leases frequently include provisions in which the tenant warrants to the landlord that certain conditions will be satisfied-whether regarding the tenant's behavior, the behavior of the tenant's visitors, the condition of the premises, or other factors. See, e.g., Minneapolis Public Hous. Auth. v. Lor, 591 N.W.2d 700, 704 (Minn. 1999) ("[A] lease is a form of contract. Unambiguous contract language must be given its plain and ordinary meaning, and shall be enforced by courts even if the result is harsh.") (footnotes omitted); Shepard v. Dye, 242 P. 381 (Wash. 1926).
+
+As with other contractual warranties, whether such clauses are breached does not typically turn on the reasons for the breach or the presence or absence of a particular mental state on the tenant's part. Indeed, the leases at issue in this case provide, for example, that the "[t]enant shall pay such charges for the repair of those damages which are beyond normal wear and tear to the dwelling unit, development buildings, facilities or common areas and for the cleaning and extermination made necessary by the action(s) or neglect of the Tenant, members of the household or guests." J.A. 52.8 See also J.A. 58-59, para. 9(k) (similar). The leases also provide that "Tenant is * * * responsible for causing members of the household and guests to comply with" a number of requirements, J.A. 57, para. 9, including "[t]o keep [the] dwelling unit and such other areas as may be assigned to the tenant * * * in a clean and safe condition," J.A. 58, para. 9(g), and "[t]o refrain from scattering rubbish, destroying, defacing, damaging or removing any part of the dwelling unit or development," J.A. 58, para. 9(j). None of those clauses requires a showing of knowledge or any other mental state on the part of the tenant. The lease clause required by Section 1437d(l)(6) operates in the same manner.
+
+2. The court of appeals also found that Section 1437d(l)(6) "does not * * * make it clear who can be evicted"-"the offending party only, or all persons on the lease." Pet. App. 12a. That is incorrect. The term "termination of tenancy" means termination of the leasehold interest. A tenancy is "[t]he possession or occupancy of land by right or title, esp. under a lease." Black's Law Dictionary 1477 (7th ed. 1999) (emphasis added).9 To terminate a tenancy is to terminate the lease.
+
+The Ninth Circuit's statutory analysis is mistaken for another reason. Even if the words "tenant" and "tenancy" could somehow be considered ambiguous standing alone, the Ninth Circuit failed to accord due deference to HUD's regulatory definition of those terms. HUD's regulations make clear that "tenant" and "tenancy" mean "leaseholder" and "leasehold," and that a "tenancy" is held only by the person "who executed the lease with the PHA as lessee of the dwelling unit." See 24 C.F.R. 966.53(f) (1991). Continuously since 1975, HUD regulations have used the terms "tenant," "member of the tenant's household," "guest," and "other persons under the tenant's control" to distinguish between the leaseholder/tenant, on the one hand, and authorized occupants listed on the lease or nonoccupants for whom the leaseholder is legally responsible, on the other. See 40 Fed. Reg. 33,402 (1975), promulgating 24 C.F.R. 866.4(a)(1)-(2), 866.4(f)(9)-(11); 24 C.F.R. 966.4(a)(1)-(2), 966.4(f)(9)-(11) (1987); 24 C.F.R. 966.4(a)(1)-(2), 966.4(f)(9)-(11) (2000). See also 53 Fed. Reg. 33,245-33,246 (1988). The leases in this case use the term "tenant" in exactly that sense to refer to the leaseholder. See J.A. 49. The HUD regulations interpreting "tenancy" to mean "leasehold" are entitled to Chevron deference.
+
+In addition, the Ninth Circuit's suggestion that Section 1437d(l)(6) leaves open the question of who may be evicted would make no sense whatever with respect to at least two of the four categories of enumerated persons-a "guest or other person under the tenant's control." A mere "guest" or "other person" has no "tenancy" in any conceivable sense of those words. Thus, if Section 1437d(l)(6) permitted "termination of tenancy" only of the "offending party," the statute would have no meaning at all when that "offending party" is a "guest or other person under the tenant's control." See, e.g., Bailey v. United States, 516 U.S. 137, 145 (1995) (a statute is read "with the assumption that Congress intended each of its terms to have meaning"). In short, "termination of tenancy" means termination of the leasehold interest, not simply a request that the offending party leave the premises.
+
+3. Finally, the court of appeals suggested that the phrase "under the tenant's control" in Section 1437d(l)(6) could mean that the tenant must "exercise * * * a restraining or directing influence over" the conduct of the person who engages in the drug-related activity. Pet. App. 12a. Thus, the court continued, it might be "implicit from the use of this wording that Congress intended tenants to be held accountable for the actions of those persons who are subject to their control" only in that sense and not where, "for lack of knowledge or other reason," the tenant "could not realistically be expected to exercise control over the conduct of another." Id. at 12a-13a. Indeed, the court ultimately adopted that reading of the statute. See id. at 26a. The court's reading, however, is inconsistent with the text of Section 1437d(l)(6) for two reasons.
+
+First, the phrase "under the tenant's control" does not apply in this case, which concerns drug-related criminal activities by members of the tenant's household. Section 1437d(l)(6) authorizes termination of the tenancy in the event of drug-related criminal activity "by a public housing tenant, any member of the tenant's household, or any guest or other person under the tenant's control" (emphasis added). The use of the disjunctive "or" before "guest" and again before "other person" means that the phrase "under the tenant's control" modifies only "other person" or, at most, "guest or other person." It cannot be read grammatically to modify each item on the list that precedes it. Cf. Arcadia v. Ohio Power Co., 498 U.S. 73, 79 (1990). In particular, "under the tenant's control" cannot be read to modify "household member."
+
+Second, even if Section 1437d(l)(6) authorized termination of the tenancy only for drug-related criminal activity by "household members" who are "under the tenant's control," a "household member" by definition satisfies that condition. As HUD explained when it promulgated its recent amendments to the governing regulations, "the question is one of legal control; by 'control,' the statute means control in the sense that the tenant has permitted access to the premises." 66 Fed. Reg. at 28,781. HUD has been consistent in that construction of "under the tenant's control" since the time it issued its first regulations implementing Section 1437d(l)(6) in 1991. See 56 Fed. Reg. at 51,562 ("The question * * * is whether the person in question was in the premises with consent of a household member at the time of the criminal activity in question."); cf. Udall v. Tallman, 380 U.S. 1, 16 (1965) (deference particularly appropriate for contemporaneous interpretation of statute by agency entrusted with its implementation). Thus, "household members" and "guests" are necessarily "under the tenant's control," within the meaning of Section 1437d(l)(6), because they have the permission or consent of the tenant (or a household member) to be present on public housing property. Housing Auth. of New Orleans v. Green, 657 So. 2d 552, 554-555 (Ct. App.) ("control" under Section 1437d(l)(6) is a matter of "access to the premises"), writ denied, 661 So. 2d 1355 (La. 1995), cert. denied, 517 U.S. 1169 (1996). The category of "other persons under the tenant's control" simply generalizes from "household members" and "guests" (who by definition are on public housing property premises with the tenant's or household member's consent) to others who are similarly present with the same consent.
+
+II. OTHER PRINCIPLES OF STATUTORY CONSTRUCTION CONFIRM THAT SECTION 1437d(l)(6) APPLIES WITHOUT REGARD TO THE TENANT'S KNOWLEDGE
+
+A. Related Statutory Provisions Confirm That Section 1437d(l)(6) Authorizes Termination Of The Tenancy Regardless Of The Tenant's Knowledge
+
+Related statutory provisions confirm that Section 1437d(l)(6) authorizes termination of the tenancy without regard to the tenant's knowledge of the drug-related criminal activity. The provisions cited by the court of appeals (Pet. App. 13a-19a) in support of an "unknowing tenant" exception in fact demonstrate that Congress knew how to include language that expressly provides tenants with state-of-mind and other defenses when it believed that such defenses were appropriate. They therefore buttress the conclusion that Congress's decision to enact Section 1437d(l)(6) without such defenses was deliberate and should be honored.
+
+1. Federal law authorizes civil forfeiture of "real property, including any right, title, and interest (including any leasehold interest) * * *, which is used * * * in any manner or part, to commit" a controlled substance offense. 21 U.S.C. 881(a)(7) (emphasis added). Federal law also, however, provides for a so-called "innocent owner" defense, 18 U.S.C. 983(d)(1) (2000), for "an owner who * * * did not know of the conduct giving rise to forfeiture." 18 U.S.C. 983(d)(2)(A)(i).10 Congress easily could have included a similar defense in Section 1437d(l)(6) in 1988. Indeed, in the same Act in which Congress originally enacted Section 1437d(l)(6), it also amended the pre-existing civil forfeiture provision in 21 U.S.C. 881(a)(7) (Supp. V 1987)-which already contained an "innocent owner" defense-to include the explicit reference to "any leasehold interest" among forfeitable property. Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, §§ 5101, 5105, 102 Stat. 4300, 4301. Congress therefore had both civil forfeiture and termination of tenancy for drug-related criminal activity in its sights when it enacted Section 1437d(l)(6). Yet it enacted Section 1437d(l)(6) without including anything comparable to the "innocent owner" defense that was in the civil forfeiture statute. See Russello v. United States, 464 U.S. 16, 23 (1983).
+
+The Ninth Circuit expressed the view that the purpose of eviction from public housing and forfeiture of a lease "is the same"-"the tenant loses the leasehold interest"-and that Congress therefore must have meant for there to be an "innocent tenant" defense under Section 1437d(l)(6). Pet. App. 17a. That conclusion is mistaken.
+
+As an initial matter, the inclusion of an express "innocent owner" defense in the civil forfeiture statute, which was enacted in 1984, see Act of Oct. 12, 1984, Pub. L. No. 98-473, Tit. II, § 306(a), 98 Stat. 2050, could not possibly establish what Congress intended four years later when it enacted the very different language of Section 1437d(l)(6) that contains no comparable provision for "innocent tenants." In any event, Section 1437d(l)(6) and civil forfeiture are very different mechanisms, such that Congress's decision to include an "innocent owner" defense in the latter but no "unknowing tenant" or "innocent tenant" defense in the former is entirely understandable. In seeking forfeiture of property, the government is acting solely in a law enforcement capacity, while in terminating a lease and seeking eviction of a tenant, the government is exercising its proprietary and contractual rights. Civil forfeiture is a mechanism by which the government may seize a private property interest to which it previously had no relationship at all; termination of a tenancy and eviction under Section 1437d(l)(6) is a mechanism by which the government takes back possession of property that it already owns when the leaseholder, by violating a term of the lease, has lost the contractual right to continued possession. And of course, 21 U.S.C. 881(a)(7) provides for forfeiture of a leasehold interest or other property to the United States, while Section 1437d(l)(6) provides for termination of the tenancy and reversion of possession to the local public housing authority.
+
+Because of those differences, as well as the greater procedural protections associated with eviction, see Pet. App. 43a-44a (Sneed, J., dissenting), Congress reasonably determined that an "innocent owner" defense to civil forfeiture was appropriate, while no comparable defense is appropriate in terminating a tenancy. Section 1437d(l)(6) requires the tenant to warrant to the government when entering into the lease that neither the tenant, members of the tenant's household, guests, or other persons under the tenant's control will engage in drug-related activity. See Burton, 2001 WL 1379724, at *4-*5. What is important to the government (and to other tenants) about that warranty is that the tenant makes good on his promise to prevent the unit from being a haven for drug users and dealers, not that the tenant act with (or without) any particular knowledge or state of mind.
+
+2. Two other provisions that were enacted at and around the time Congress enacted Section 1437d(l)(6) in 1988 and reworded it in 1990 further demonstrate that Congress knew how to mandate that consideration be given to a tenant's lack of knowledge of drug-related activity when it found it appropriate to do so. In both cases, Congress defined quite precisely the category of persons that were to be protected and the type of protection to be afforded. Like the forfeiture statute, these two provisions refute the court of appeals' notion that Congress intended to mandate an undefined "unknowing tenant" defense in Section 1437d(l)(6) entirely by implication.
+
+a. Section 1437d(l)(6) was originally enacted in October 1988 as part of the Anti-Drug Abuse Act of 1988, Pub. L. No. 100-690, § 5101, 102 Stat. 4300. Eight months later, Congress included in a supplemental appropriations act a one-year provision (which has not since been renewed) that prevented a PHA from evicting, as a result of any person's "drug-related criminal activity * * *[,] any other household member who [was] not involved in such activity," unless the latter was provided with an administrative grievance hearing prior to eviction. Dire Emergency Supplemental Appropriations and Transfers, Urgent Supplementals, and Correcting Enrollment Errors Act of 1989, Pub. L. No. 101-45, § 404, 103 Stat. 129. That provision accorded certain protection (though not a substantive defense to eviction) to tenants who were not personally involved in drug-related activity, so that they would not be summarily removed from the premises. In contrast to that one-year provision, Section 1437d(l)(6), which governs on a permanent basis, contains no similar language conferring any rights on such tenants.
+
+b. Another provision, enacted in 1990 as Section 501 of the Cranston-Gonzalez Act, Pub. L. No. 101-625, 104 Stat. 4079, and codified at 42 U.S.C. 1437d(c)(4)(A)(iii)(1994), addressed priorities for admission of individuals to PHA housing. It directed that any individual or family evicted from public housing "by reason of drug-related criminal activity" must be denied a preference for readmission for three years, but created an exception that allowed a PHA to waive that restriction for any member of a family of an individual who was barred by the principal clause if the PHA determined that the family member "clearly did not participate in and had no knowledge of such criminal activity."11 In enacting Section 501, Congress again specifically identified the special consideration it intended to allow in connection with drug-related criminal activity-i.e., a waiver of the bar to readmission following eviction-and precisely defined the class of persons it intended to qualify for that special consideration. The court of appeals erred in attempting to read a similar "unknowing tenant" exception into the unqualified language of Section 1437d(l)(6), which was revised and reenacted in Section 504 of the Cranston-Gonzalez Act and which governs the eviction (not subsequent readmission) of persons because of drug-related activities.12 Indeed, Section 501 itself confirms that persons who did not participate in and had no knowledge of the criminal activity are subject to eviction.
+
+3. The court of appeals believed that two other provisions of Section 1437d(l) support its view that an unknowing tenant cannot be evicted under Section 1437d(l)(6). Subsections (2) and (5) of Section 1437d(l) provide that PHAs "shall utilize leases which * * * do not contain unreasonable terms and conditions" and "which * * * require that the public housing agency may not terminate the tenancy except for serious or repeated violation of the terms or conditions of the lease or for other good cause." 42 U.S.C. 1437d(l)(2) and (5). The court of appeals stated that "reading section (l) as a 'harmonious whole' * * * requires us to presume that Congress also intended subsection (6) to be construed as a reasonable lease term and to permit eviction only if there is good cause." Pet. App. 13a-14a. The court recognized that the congressional "goal of providing safe and drug-free public housing is well served by * * * imposing a duty on tenants to take reasonable steps to control the drug or criminal activity of family members and guests or face eviction," but concluded that that goal would not be served by terminating the tenancy of tenants "who ha[ve] already taken all reasonable steps to prevent third-party drug activity." Id. at 14a.
+
+The court of appeals' conclusion that subsections (2) and (5) of Section 1437d(l) impose substantive limits on the scope of subsection (6) is wrong. Subsection (6) has independent force under Section 1437d(l)(6), and it expressly provides, without qualification, that drug-related criminal activity by a household member or other specified person is "cause" for termination of the tenancy. But even reading the three subsections together, it is evident that, by requiring that a specified term concerning termination of the tenancy for drug-related activity be placed in a lease, subsection (6) embodies Congress's legislative determination that the required term is "reasonable" for purposes of subsection (2) and that violation of that term constitutes "good cause" for termination of the tenancy under subsection (5). Indeed, subsection (6) expressly states that a violation of its terms is "cause" for termination. As HUD explained in 1991, "Congress specified that these types of criminal activity by household members are grounds for termination of tenancy (without the need for a separate inquiry as to whether such criminal activity constitutes serious or repeated lease violation or other good cause to evict)." 56 Fed. Reg. at 51,567. There is no basis for courts to second-guess that quite specific congressional judgment.
+
+Furthermore, if there were any tension between subsections (2) and (5) on the one hand and subsection (6) on the other (but see pp. 34-37, infra, discussing subsection (6) as a reasonable response to the crisis caused by drug criminals in public housing), it must be resolved in favor of subsection (6). Subsections (2) and (5) address the general run of circumstances in which a public housing authority may evict a tenant. The more specific terms of subsection (6) address the more specific (and especially serious) situation involving drug-related criminal activity. "[I]t is a commonplace of statutory construction that the specific governs the general." Morales v. Trans World Airlines, Inc., 504 U.S. 374, 384 (1992); see also Edmond v. United States, 520 U.S. 651, 657 (1997); Crawford Fitting Co. v. J.T. Gibbons, Inc., 482 U.S. 437, 445 (1987). Accordingly, subsection (6) should not be artificially limited, even if a court were to perceive it to be in some tension with the court's own view of what would be "reasonable" and "good cause" under subsections (2) and (5) as a general matter.
+
+B. Construing Section 1437d(l)(6) To Authorize Termination Of The Tenancy Without Regard To The Tenant's Knowledge Substantially Advances Congress's Declared Policy Of Eliminating Drug Criminals From Public Housing
+
+Unlike the construction adopted by the court of appeals, construing Section 1437d(l)(6) in accordance with its terms to permit eviction without regard to the state of mind of the tenant substantially advances Congress's declared goal of ridding public housing of drug criminals. Section 1437d(l)(6) grew out of a crisis in public housing, amply documented in congressional hearing testimony. See pp. 37-40, infra. When it enacted Section 1437d(l)(6), Congress made specific findings that "public and other federally assisted low-income housing in many areas suffers from rampant drug-related or violent crime," that "drug dealers are increasingly imposing a reign of terror on * * * low-income housing tenants," and that "the increase in drug-related and violent crime not only leads to murders, muggings, and other forms of violence against tenants, but also to a deterioration of the physical environment that requires substantial government expenditures." 42 U.S.C. 11901 (1994 & Supp. V 1999). Congress's response to the drug-related "reign of terror" in public housing projects was to arm PHAs with greater authority to remove those tenants who it believed should be held accountable for the problem. That response directly addresses the problem Congress identified, in at least four important ways:
+
+First, "if household member criminal activity is ground for termination, then the tenant has reason to try to control or prevent the activity." 56 Fed. Reg. at 51,567. Imposing that kind of legal responsibility on a tenant regardless of the tenant's knowledge or ability to restrain the offender in a particular instance ensures that the tenant has the maximum incentive to find out whether household members or guests are engaging in drug-relating criminal activity, to warn them of the serious consequences of their activity, and to take whatever other steps are necessary to protect the security of the housing project. In other areas of the law, it is well-settled that "strict liability" of that sort serves the function of maximizing incentives to learn of dangers and avoid harmful conduct. See, e.g., Pacific Mut. Life Ins. Co. v. Haslip, 499 U.S. 1, 14 (1991) ("Imposing liability without independent fault deters fraud more than a less stringent rule. It therefore rationally advances the [government's] goal."); United States v. Park, 421 U.S. 658, 670 (1975). Here, by giving greater incentives to a tenant whose knowledge or acquiescence in the drug-related criminal activity the PHA might later be unable to prove in court, Section 1437d(l)(6) helps rid public housing projects of the drug-related activities that deprive other residents of the safety and security to which they are entitled. By contrast, adding a knowledge requirement to Section 1437d(l)(6) would create a perverse incentive for tenants to remain ignorant of dangerous behavior by their household members and guests.
+
+Second, a requirement that termination of the tenancy and eviction be limited to cases in which the tenant's knowledge could be demonstrated would pose enormous enforcement difficulties, which likely would be sufficient to render any such provision of very limited value in restoring peace and security to public housing projects. Aside from the rare case in which the tenant is caught in the immediate presence of a household member or guest using or trafficking in drugs, a tenant threatened with eviction is likely to deny any knowledge of or ability to control drug-related criminal activity by others. Moreover, the household member or guest engaged in the drug-related activity is likely (if he does not invoke his Fifth Amendment privilege) to confirm the tenant's denials. See 56 Fed. Reg. at 51,567 ("[I]n practice it will be extremely difficult for the PHA to show that the tenant knew, could have foreseen, could have prevented, or failed to take all reasonable measures to prevent crime by a household member."); Burton, 2001 WL 1379724, at *6. Proving the knowledge of those who directly participate in criminal activity is difficult even for prosecutors who are armed with standard prosecutorial tools: the grand jury's subpoena power, the ability to induce co-conspirators to cooperate, and even the ability to conduct wiretaps and use other similar investigative techniques when appropriate. Public housing authorities have none of those tools. A rule under which eviction is possible only if the PHA can rebut the tenant's likely denials of knowledge would leave the PHA with insufficient ability to eliminate drug criminals-and those who harbor them-from the project.
+
+Third, household-wide responsibility for drug-related criminal activity serves other worthwhile objectives. It has a significant general deterrent effect on the drug-related criminal conduct of other persons in public housing, when they become aware that their conduct may have adverse impacts on their entire household. Moreover, as Judge Sneed explained, if a PHA has the power to terminate a tenancy, it has the bargaining power to obtain an agreement by the tenant to bar the individual engaged in the drug-related criminal activity from the premises when the PHA and leaseholder agree that that is the optimal result. See also 56 Fed. Reg. at 51,567 ("If a tenant cannot control criminal activity by a household member, the tenant can request that the PHA remove the person from the lease as an authorized unit occupant, and may seek to bar access by that person to the unit.").
+
+Fourth, even if a tenant is genuinely unaware of the household member's drug-related criminal activity, termination of the tenancy may nonetheless be an effective (even if sometimes harsh) measure. Whether or not the tenant had knowledge of or acquiesced in the drug-related activity, the presence on public housing premises of household members or guests who engage in such conduct poses a threat to the tenant's neighbors-who are the truly "innocent tenants"-and to the general peace and security of the project. As HUD has noted, "a family which does not or cannot control drug crime * * * is a threat to other residents and the project." 56 Fed. Reg. at 51,567. The demand for public housing units regularly far outstrips the supply. In Section 1437d(l)(6), Congress reasonably determined that this scarce public resource should be allocated to individuals whose household members and guests do not pose a threat to their neighbors, rather than to those whose household members and guests, with or without the tenant's knowledge, threaten their security.
+
+C. The Legislative History Supports HUD's Reading Of Section 1437d(l)(6)
+
+Where the language of the statute is plain and unambiguous on its face, as it is here, resort to legislative history to contravene that language is inappropriate. See, e.g., Gonzales, 520 U.S. at 6. An examination of the legislative history of Section 1437d(l)(6), however, in fact further confirms its meaning. Since its enactment in 1988, Section 1437d(l)(6) has been amended twice-in 1990 and 1996. Both times, Congress was on notice of the application of Section 1437d(l)(6) to tenants without proof of knowledge or other independent fault, and after 1991 it was on notice both of HUD's clear administrative construction of Section 1437d(l)(6) and of judicial decisions agreeing with HUD's construction. Congress's failure to alter the basic, non- knowledge-based text of the provision in these circumstances reinforces HUD's interpretation of the provision.
+
+1. As originally enacted in 1988, Section 1437d(l)(6) applied to "criminal activity, including drug-related criminal activity, on or near public housing premises," and it provided that "such criminal activity shall be cause for termination of tenancy." See p. 4, supra. It thus authorized termination of the tenancy without any suggestion that the tenant's knowledge was relevant-not only for "drug-related criminal activity"-but for "criminal activity" in general.
+
+As a section-by-section analysis of the Anti-Drug Abuse Act introduced by its sponsor in the Senate explained, Section 1437d(l)(6) "codifie[d] current HUD guidelines granting public housing agencies authority to evict tenants if they, their families, or their guests engage in drug-related criminal activity." 134 Cong. Rec. 32,692, 33,186 (1988). The "guidelines" mentioned were HUD regulations that had been promulgated on August 30, 1988, as part of an extensive revision of HUD rules.13 Section 1437d(l)(6) differed from the HUD regulations in some respects, in particular by broadening the grounds for termination of the tenancy when guests or other non-household members were involved in the criminal activity. But Section 1437d(l)(6) specifically adopted the approach of the HUD regulations that had authorized housing authorities to provide that drug-related crimes committed "by any household member, on or off the premises, shall be a violation of the lease, or other good cause for termination of tenancy." See note 13, supra.
+
+2. On July 20, 1989, a Senate Subcommittee held hearings on the drug problem in federally assisted housing. See Drugs in Federally Assisted Housing: Hearings on S. 566 Before the Subcomm. on Housing and Urban Affairs of the Senate Comm. on Banking, Housing, and Urban Affairs, 101st Cong., 1st Sess. (Senate Hearing). The American Civil Liberties Union submitted a statement that began by citing the recently enacted Section 1437d(l)(6). Id. at 76 n.2. The statement referred to the "problem * * * caused by the eviction of innocent family members." Id. at 77; see also id. at 86 ("First among our concerns is the plight of the innocent family member who might be evicted as a part of HUD's anti-drug crackdown."). The statement concluded that "PHAs should be restrained from imposing the sanction of eviction unless they can prove that a tenant had knowledge and actual control over the actions of a household member or third party." Id. at 90-91.14
+
+In 1990, aware of the application of Section 1437d(l)(6) to terminate the tenancy when a household member had engaged in criminal activity without a showing of knowledge or fault by the tenant, Congress amended Section 1437d(l)(6). The bill narrowed the category of prohibited non-drug criminal activity for which the tenant was to be held accountable to crimes that "threaten[] the health, safety, or right to peaceful enjoyment of the premises by other tenants." Cranston-Gonzalez National Affordable Housing Act, Pub. L. No. 101-625, § 504, 104 Stat. 4185. The bill left unchanged, however, the general application of Section 1437d(l)(6) to "[a]ny" drug-related criminal activity by members of the tenant's household, or guests or other persons under the tenant's control.
+
+3. In 1991, HUD adopted regulations implementing Section 1437d(l)(6). The preamble to the regulations, which has been extensively quoted above, see pp. 6-7, supra, made clear that HUD interpreted Section 1437d(l)(6) to permit termination of the tenancy regardless of the tenant's knowledge or fault. The preamble specifically noted that commenters had proposed "that the tenant should not be responsible if the criminal activity is beyond the tenant's control, if the tenant did not know or have reason to foresee the criminal conduct, if the tenant did not participate, give consent or approve the criminal activity, or if the tenant has done everything 'reasonable' to control the criminal activity." 56 Fed. Reg. at 51,566. HUD rejected those proposals, on the ground that "Congress specified that these types of criminal activity by household members are grounds for termination of tenancy (without the need for a separate inquiry as to whether such criminal activity constitutes serious or repeated lease violation or other good cause for eviction)." Id. at 51,567. The preamble to the regulations explained in detail the rationales for Congress's policy decision. See pp. 35-37, supra.
+
+4. In 1996, Congress once again amended Section 1437d(l)(6). By that time, it had been five years since HUD had adopted its regulations. Two state appellate courts and the only federal court of appeals to address the issue had agreed with HUD's interpretation; only a single intermediate state appellate court had disagreed.15 Nonetheless, Congress expanded, rather than contracted, the grounds for termination of the tenancy, by authorizing termination where the drug-related criminal activity took place "on or off"-rather than "on or near"-the public housing premises. That action is significant, because "Congress is presumed to be aware of an administrative or judicial interpretation of a statute and to adopt that interpretation when it re-enacts a statute without change." Lorillard v. Pons, 434 U.S. 575, 580 (1978); see also Lindahl v. Office of Personnel Management, 470 U.S. 768, 782 (1985); Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Curran, 456 U.S. 353, 381-382 (1982).16
+
+5. The court of appeals relied on two passages in the Senate committee report that accompanied the 1990 amendment. Neither support its interpretation. The report stated:
+
+The committee anticipates that each case will be judged on its individual merits and will require the wise exercise of humane judgment by the PHA and the eviction court. For example, eviction would not be the appropriate course if the tenant had no knowledge of the criminal activities of his/her guests or had taken reasonable steps under the circumstances to prevent the activity.
+
+S. Rep. No. 316, 101st Cong., 2d Sess. 179 (1990). The report also stated, in describing a parallel provision in the same bill concerning the Section 8 housing program, that "[t]he Committee assumes that if the tenant had no knowledge of the criminal activity or took reasonable steps to prevent it, then good cause to evict the innocent family would not exist." Id. at 127.17
+
+The passage in the committee report relied on by the court of appeals was discussing a Senate bill quite different from the one that was enacted. That bill would have imposed a considerably stricter standard of cause for eviction for drug-related crimes than Section 1437d(l)(6) (or the corresponding Section 8 provision, 42 U.S.C. 1437f(d)(1)(B)(iii)) as finally enacted. The Senate bill would have authorized termination of the tenancy only when the drug-related criminal activity "threatens the health or safety of, or right to quiet enjoyment of the premises by, other tenants." 136 Cong. Rec. 15,991, 16,012 (1990) (reproducing S. 566, 101st Cong., 2d Sess., §§ 521(f) and 714(a) (1990), as they passed the Senate). The Conference Report declined to accept that language from the Senate bill and instead adopted the unqualified language of Section 1437d(l)(6) concerning drug-related criminal activity. See H.R. Conf. Rep. No. 943, 101st Cong., 2d Sess. 418 (1990). Accordingly, the Senate Report is not a useful guide to congressional intent with regard to the meaning of Section 1437d(l)(6) as ultimately enacted.
+
+Even if the Senate Report were a useful guide to congressional intent, however, the passages on which the court of appeals relied merely recognize that PHAs (or Section 8 housing owners) have discretion in deciding whether, if at all, to evict tenants who have violated the Section 1437d(l)(6) lease provision, and urge the importance of a wise use of that discretion. See S. Rep. No. 316, supra, at 127 (quoting 54 Fed. Reg. 15,998 (1989) (HUD statement of policy that decision whether to terminate tenancy under Section 1437d(l)(6) remains a matter for "wise and humane judgment" by PHA). It is significant that the Senate Report, in discussing the public housing provision, stated that eviction of a tenant who had no knowledge or control over the drug-related criminal activity would not be "appropriate," not that it would be unauthorized or illegal. Congress's recognition of the existence of such discretion confirms-rather than refutes-the proposition that Section 1437d(l)(6) does not impose an absolute rule that a tenant's lack of knowledge precludes termination of the tenancy. Cf. 54 Fed. Reg. at 15,998 ("On the other hand, the statute makes it clear that PHAs have full authority to initiate eviction for violation of the prohibition on criminal activity when they consider such action to be justified.") (emphasis added).
+
+D. Construing Section 1437d(l)(6) According To Its Terms Does Not Lead To "Absurd Results"
+
+The Ninth Circuit also relied on the premise that applying the statute as written would lead to "absurd results," which in the court's view included eviction of tenants who in fact could not keep their household member from committing drug offenses, whose household member committed drug offenses at a place far removed from the public housing project, or whose household member committed a drug offense years ago. Pet. App. 21a-22a. For the reasons given above, see pp. 35-37, supra, Section 1437d(l)(6) embodies Congress's reasonable policy judgments concerning the steps that have to be taken to rid public housing projects of the "reign of terror" caused by the presence of drug criminals. 42 U.S.C. 11901(3). Section 1437d(l)(6) "facilitates the eviction of truly culpable tenants, creates incentives for all tenants to report drug-related criminal activity, and provides a credible deterrent against criminal activity." Pet. App. 61a (Sneed, J., dissenting). It therefore offers help and hope in combatting what Congress identified as a crisis situation, the foremost impact of which is on the truly innocent tenants in other units of the same project whose households in no way contribute to the problem. The fact that the court could speculate about potentially harsh results in some isolated instances in which a PHA could invoke the lease clause in no way suggests that Section 1437d(l)(6) would lead to such "absurd results" that HUD's construction of the statute in accordance with its terms is impermissible. Cf. Griffin v. Oceanic Contractors, Inc., 458 U.S. 564, 574-576 (1982).
+
+It should be emphasized as well that the results about which the court of appeals was concerned are unlikely to occur. A PHA would have little incentive, given its statutory mission, to evict a tenant who it believed is truly not culpable-at least if it would be harsh to do so-unless it concluded in the end that that course was justified by the other benefits that Section 1437d(l)(6) was intended to produce for the security of the housing complex and its tenants generally.
+
+Insofar as the court of appeals was concerned that Section 1437d(l)(6) would authorize eviction where the drug-related criminal activity was undertaken far from home, it is not unreasonable to believe that persons who commit drug offenses far from home will also commit (or have committed) similar offenses nearby. And insofar as the court of appeals was concerned that a tenancy could be terminated because of a drug offense committed by a household member or guest in the distant past, that prospect is remote. Section 1437d(l)(6), as construed by HUD, permits eviction only for drug-related criminal activity that occurs during the period that the individual is a household member or guest. See 56 Fed. Reg. at 51,562 ("The question under the HUD rule is whether the person in question was in the premises with consent of a household member at the time of the criminal activity in question, not whether the person was a guest at some time in the past."). Section 1437d(l)(6) is a reasonable, even if potentially stringent, measure intended to fulfill Congress's commitment "to provide public and other federally assisted low-income housing that is decent, safe, and free from illegal drugs." 42 U.S.C. 11901(1).
+
+E. The Principle Of Constitutional Avoidance Has No Application Here Because The Meaning Of Section 1437d(l)(6) Is Clear And That Provision Is Constitutional
+
+The Ninth Circuit erroneously relied on the principle of constitutional avoidance to reject HUD's construction of Section 1437d(l)(6). The court based its conclusion on the proposition that "[p]enalizing conduct that involves no intentional wrongdoing by an individual can run afoul of the Due Process Clause," and that "HUD's interpretation would permit tenants to be deprived of their property interest without any relationship to individual wrongdoing." Pet. App. 24a. Those principles have no application here.
+
+First, "the canon of constitutional avoidance has no application in the absence of statutory ambiguity." United States v. Oakland Cannabis Buyers' Coop., 121 S. Ct. 1711, 1719 (2001). The text and purposes of Section 1437d(l)(6) are clear, and they are bolstered by the deference due to HUD's administrative construction of the statute. In that situation, the doctrine of constitutional avoidance gives no warrant to alter the statute's terms.
+
+Second, "[s]tatutes should be interpreted to avoid serious constitutional doubts, * * * not to eliminate all possible contentions that the statute might be unconstitutional." Reno v. Flores, 507 U.S. 292, 314 n.9 (1993). Section 1437d(l)(6) does not raise a "serious" constitutional doubt. Contrary to the court of appeals' assumption, Section 1437d(l)(6) does not impose a penalty. Rather, it prescribes what is essentially a contractual warranty by the tenant that his household will not be the source of a potential hazard (the commission of drug-related criminal offenses or the harboring of persons who commit such offenses) to other tenants. The tenant is free to find other housing and thus not to make that warranty. In that respect, the lease provision in this case is no different from numerous other ordinary lease provisions, the violation of which do not turn on a showing of intent or fault by the breaching party beyond the fact of the breach itself. This Court held in Bennis v. Michigan, 516 U.S. 442 (1996), that a State constitutionally may forfeit an individual's interest in her own property to the State with no showing that she has engaged in any wrongdoing, intentional or otherwise. It follows a fortiori that a tenancy may be terminated for the tenant's failure to comply with a contractual provision to which she agreed in her lease, even if that failure was not independently blameworthy.
+
+The court of appeals attempted to distinguish Bennis on the ground that the property here-unlike the automobile in Bennis-was not itself "used in connection with the crime." Pet. App. 25a. Bennis did not turn on that factor. Moreover, although this Court stated prior to Bennis that it had never had the "occasion to decide * * * whether it would comport with due process to forfeit the property of a truly innocent owner," Austin v. United States, 509 U.S. 602, 617 n.10 (1993), Bennis at least held that property could be forfeited even if the owner was "in no way . . . involved in the criminal enterprise" and "had no knowledge that its property was being used in connection with or in violation of" the law. 516 U.S. at 450 (citation omitted). Similarly, a tenant whose public housing premises are used as a haven by those who engage in drug-related criminal activity may not be directly "involved in the criminal enterprise" and may have "no knowledge" of that enterprise, but nonetheless, like the owner of the automobile in Bennis, may constitutionally be required to retain responsibility. The rationale for the Bennis rule is in large part that forfeitures have a "deterrent purpose distinct from any punitive purpose." Id. at 452. The same is true of Section 1437d(l)(6).
+
+In any event, Section 1437d(l)(6) is constitutional because, as noted above, it provides for consensual lease clauses. This Court has never suggested that the government may enforce a term of a government contract only upon a showing that the breaching party was at fault in some way beyond his having committed the breach itself. Even in Calero-Toledo v. Pearson Yacht Leasing Co., 416 U.S. 663, 689 (1974), in which the Court stated in dicta that "it would be difficult to reject the constitutional claim of an owner whose property subjected to forfeiture had been taken from him without his privity or consent," the Court carefully recognized that "privity or consent"-which here is supplied by the tenants' agreement to the lease term required by Section 1437d(l)(6)-would be sufficient to defeat any constitutional claim. Cf. Lindsey v. Normet, 405 U.S. 56, 74 (1972) (there exists no "constitutional * * * right of a tenant to occupy the real property of [a tenant's] landlord beyond the term of his lease without the payment of rent or otherwise contrary to the terms of the relevant agreement," and "[a]bsent constitutional mandate, the assurance of adequate housing and the definition of landlord-tenant relationships are legislative, not judicial, functions.").
+
+F. Because HUD's Interpretation Of Section 1437d(l)(6) Is Reasonable, It Is Controlling If There Are Any Lingering Doubts
+
+For the reasons given above, even if Section 1437d(l)(6) were ambiguous on the issue, HUD's interpretation of that provision in accordance with what is at least its most natural meaning and Congress's purposes must be upheld. See Chevron, 467 U.S. at 843. As noted above, HUD adopted its construction of the statute shortly after it was enacted, and it has consistently adhered to that construction. The court of appeals no doubt disagreed with Congress's weighing of the competing policies and, in particular, Congress's determination that the risk of the clause's invocation in particular harsh circumstances is outweighed by the need to empower PHAs to rid public housing projects of those whose tenancy threatens the safety and security of their neighbors. But it is not the courts' place to second-guess Congress's policy judgments. See, e.g., Dunn v. Commodity Futures Trading Comm'n, 519 U.S. 465, 479, 480 (1997) ("there is an important public policy dispute-with substantial arguments favoring each side," but "these are arguments best addressed to the Congress, not the courts"). Insofar as Congress left any ambiguity on the question, Congress assigned to HUD-not to the courts-the authority to resolve it. See AT&T Corp. v. Iowa Utils. Bd., 525 U.S. 366, 397 (1999) ("Congress is well aware that the ambiguities it chooses to produce in a statute will be resolved by the implementing agency."). Even if it is not compelled by Congress's clear intent, HUD's construction is certainly reasonable. Therefore, it must be upheld.
+
+CONCLUSION
+
+The judgment of the court of appeals should be reversed.
+
+Respectfully submitted.
+
+THEODORE B. OLSON
+ Solicitor General
+ ROBERT D. MCCALLUM, JR.
+ Assistant Attorney General
+ EDWIN S. KNEEDLER
+ Deputy Solicitor General
+ JAMES A. FELDMAN
+ Assistant to the Solicitor
+ General
+ BARBARA C. BIDDLE
+ HOWARD S. SCHER
+ Attorneys
+
+         RICHARD A. HAUSER
+ General Counsel
+ CAROLE W. WILSON
+ Associate General Counsel
+ HOWARD M. SCHMELTZER
+ Assistant General Counsel
+ HAROLD J. RENNETT
+ Attorney
+ United States Department of
+ Housing and Urban
+ Development
+
+NOVEMBER 2001
+
+1 All citations to Pet. and Pet. App. are to the petition for certiorari and the appendix thereto in No. 00-1770.
+
+2 The words "or violent" were inserted after "drug-related" in paragraphs (2) and (4) by the Quality Housing and Work Responsibility Act of 1998, Pub. L. No. 105-276, §§ 586(b)(1) and (2)(A), 112 Stat. 2646. Additional findings were added by Section 586(b)(2)(B) of that Public Law.
+
+3 The provision was redesignated from paragraph (5) to paragraph (6) of Section 1437d(l) by Pub. L. No. 105-276, § 512(b)(1), 112 Stat. 2543.
+
+4 The original regulations required leases to impose an obligation on the tenant:
+
+To assure that the tenant, any member of the household, a guest, or another person under the tenant's control, shall not engage in:
+
+(A) Any criminal activity that threatens the health, safety, or right to peaceful enjoyment of the PHA's public housing premises by other residents or employees of the PHA, or
+
+(B) Any drug-related criminal activity on or near such premises.
+
+Any criminal activity in violation of the preceding sentence shall be cause for termination of tenancy, and for eviction from the unit.
+
+24 C.F.R. 966.4(f)(12)(ii) (2000).
+
+5 The court held that "[p]laintiffs may not state a claim under the ADA against HUD as the ADA does not apply to actions taken by the federal government." Pet. App. 153a. The court, however, permitted Walker's ADA claim to proceed against the Oakland defendants, id. at 156a-157a, and issued a preliminary injunction barring Walker's eviction with respect to his ADA claim, id. at 165a, 166a. The district court rejected Rucker's ADA claim on the ground that she does not allege that she is disabled. Id. at 155a. The court of appeals affirmed the preliminary injunction concerning Walker's ADA claim. Id. at 29a-31a. The ADA issue was not presented in HUD's petition, see Pet. 21 n.7, or in the Oakland Housing Authority's petition. See 00-1783 Pet. i (question presented referring only to the Housing Act), 4 n.3.
+
+6 As noted in the petition for certiorari, most of the lower federal and state courts to have addressed the question have held that eviction does not depend on the tenant's knowledge of the criminal activity. See Pet. 22 n.9 (citing cases). Since that time, the Eleventh Circuit has also definitively taken that position, in direct conflict with the Ninth Circuit's holding in this case. See Burton v. Tampa Hous. Auth., No. 00-13607, 2001 WL 1379724 (11th Cir. Nov. 7, 2001).
+
+7 In the preamble to its recently promulgated regulations, HUD noted the distinction between "specifically authorized actions" and "mandatory actions." 66 Fed. Reg. at 28,777. HUD explained that "[c]urrent illegal use of a drug" and "[p]ast eviction for drug-related criminal activity" are "the subject of * * * mandatory prohibition[s] on admission" to public housing, while "[c]ertain other drug-related criminal activity is required by statute to be included in the lease as a basis for eviction." Ibid. (emphasis added). HUD's reference to "[c]urrent illegal use of a drug" refers not to Section 1437d(l)(6), but to 42 U.S.C. 13661(b)(1)(A) (Supp. V 1999), which was enacted in 1998. See Quality Housing and Work Responsibility Act of 1998, Pub. L. No. 105-276, § 576, 112 Stat. 2639. That provision requires HUD to "establish standards that prohibit admission to" public housing or federally assisted housing "for any household with a member * * * who the public housing agency or owner determines is illegally using a controlled substance." 42 U.S.C. 13661(b)(1)(A) (Supp. V 1999). A related provision, 42 U.S.C. 13662(a) (Supp. V 1999), requires the use of lease provisions that "allow the agency or owner [of federally assisted housing] * * * to terminate the tenancy or assistance for any household with a member * * * who the public housing agency * * * determines is illegally using a controlled substance." By requiring the use of lease provisions that "allow" the termination of the tenancy, Section 13662(a), like Section 1437d(l)(6), vests the landlord with discretion whether to seek eviction in each case. Section 13662(a) differs from Section 1437d(l)(6) in that it applies only to illegal drug users, while Section 1437d(l)(6) applies also to illegal drug dealers.
+
+8 The lease of tenant Rucker is included in the Joint Appendix. The leases of the other tenants are in relevant respects identical.
+
+9 A "tenancy" may usefully be contrasted with an "occupancy," which is defined as "[t]he act, state or condition of holding, possessing, or residing in or on something." Black's Law Dictionary 1477 (7th ed. 1999) (emphasis added).
+
+10 At the time this case arose, the "innocent owner" defense was codified as part of 21 U.S.C. 881(a)(7) (1994), which provided that "no property shall be forfeited * * * by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner." That provision was replaced in 2000 by the general "innocent owner" defense to civil forfeiture in 18 U.S.C. 983(d), discussed in the text. See Civil Asset Forfeiture Reform Act of 2000, Pub. L. No. 106-185, §§ 2(a), 2(c), 114 Stat. 202, 210.
+
+11 The provision quoted in the text was replaced in 1999 by 42 U.S.C. 13661(b)(2)(A) (Supp. V 1999), which, inter alia, generally "prohibit[s] * * * admission to federally assisted housing for any household with a member * * * who * * * is illegally using a controlled substance." See note 7, supra.
+
+12 The Ninth Circuit was "hesitant" even to address the significance of Section 501 because it is no longer part of the Act. Pet. App. 19a. The significance of the provision, however, lies not in its current status, but rather in the fact that, because it was enacted in the very same Act as Section 1437d(l)(6), it demonstrates the error in construing the very different and unqualified language of Section 1437d(l)(6) to contain an entirely unexpressed unknowing tenant defense.
+
+13 See 53 Fed. Reg. 33,216, 33,306 (1988) ("The lease shall provide that the Tenant and other members of the Household * * * [s]hall not engage in criminal activity in the dwelling unit or premises, and shall prevent criminal activity in the unit or premises by guests, visitors, or other persons under control of Household members. * * * [T]he lease may provide that any of the following criminal activities by any Household member, on or off the premises, shall be a violation of the lease, or other good cause for termination of tenancy: (i) Any crime of physical violence to persons or property. (ii) Illegal use, sale or distribution of narcotics."). Shortly after both Houses of Congress had passed Section 1437d(l)(6) in October 1988, but before the President signed it on November 18, 1988, see 102 Stat. 4301, the entire package of HUD regulations was the subject of a temporary restraining order by a district court based on claims- unrelated to the substantive provisions quoted above-that the grievance provisions of the regulations would deny tenants certain procedural due process rights. National Tenants Org. v. Pierce, Civ. Action No. 88-3134 (D.D.C. Nov. 2, 1998). Section 1013 of the Stewart B. McKinney Homeless Assistance Amendments Act of 1988, Pub. L. No. 100-628, 102 Stat. 3224, which was signed into law on November 7, 1988, expressly permitted the HUD regulations to go into effect on an interim basis but required that the notice-and-comment period be reopened. On January 25, 1989, the district court in National Tenants Organization nonetheless issued a preliminary injunction barring implementation of the HUD regulations. In response, HUD ultimately withdrew the regulations on February 10, 1989. 54 Fed. Reg. 6886.
+
+14 A representative of the ACLU also testified, referring to "the effect of the accelerated eviction procedure on innocent family members, persons who themselves have not engaged in any criminal related activity, * * * but persons who would be subject to the severe sanction of being evicted from their apartment because they, too, happen to be residents in a unit that has been targeted for eviction." Senate Hearing 9. Other witnesses also testified about the policy of evicting tenants whose household members use drugs. See id. at 24 ("If you evict that youngster [who has been arrested for a drug offense], the entire family has to go out with them.") (testimony of Andres Garcia); id. at 25 ("[I]f an eviction policy is going to work it has to include the entire family.") (testimony of (now-Representative) James Moran, Mayor of Alexandria, Va.); id. at 44 ("My tenants are the ones that are saying throw out that family with the 18-year-old drug dealer.") (testimony of Richard Bowers, Jacksonville, Fla., housing official); id. at 48-49 (defense of policy of evicting the tenant without regard to knowledge by Mayor Moran). See also Drugs in Public Housing: Hearing Before the Permanent Subcomm. on Investigations of the Senate Comm. on Governmental Affairs, 101st Cong., 1st Sess. 18 (1989) (reference by Sen. Roth to household-wide eviction as "what the legislation adopted last year intended"); id. at 147, 149 (minority report discussing household-wide eviction policies in Omaha, Nebraska, and Wilmington, Delaware).
+
+15 See Housing Auth. of New Orleans v. Green, 657 So. 2d 552, 555 (Ct. App. 1995), writ denied, 661 So.2d 1355 (La.), cert. denied, 517 U.S. 1169 (1996); City of San Francisco Hous. Auth. v. Guillory, 49 Cal. Rptr. 2d 367, 372 (App. Dep't Super. Ct. 1995); Chavez v. Housing Authority of El Paso, 973 F.2d 1245, 1248 (5th Cir. 1992) (holding in case addressing non-drug crime provision of Section 1437d(l)(6) that "[t]he lease makes the tenant subject to eviction if any household member or guest conducts himself or herself in a manner inconsistent with the lease."). But see Charlotte Hous. Auth. v. Patterson, 464 S.E.2d 68, 72 (N.C. Ct. App. 1995) (must be showing of tenant's fault in case involving violent crime by household member).
+
+16 Congress reaffirmed its support for the principle of household-wide responsibility in legislation passed in 1998. See note 7, supra (discussing 42 U.S.C. 13661(b) and 42 U.S.C. 13662(a) (Supp. V 1999), which, respectively, bar "any household with a member * * * who * * * is illegally using a controlled substance" from admission to public housing, and authorize PHAs "to terminate the tenancy for any household with a member * * * who * * * is illegally using a controlled substance").
+
+17 The Report preceded that comment with the recognition that "the ultimate decision to evict a family 'remains a matter for good judgment by the PHA * * * based on the factual situation. The statutory policy does not restrict the PHA's * * * exercise of wise and humane judgment.'" S. Rep. No. 316, supra, at 127.
+
+APPENDIX
+
+1.	Section 13661 of Title 42 of the United States Code (Supp. V 1999) provides:
+
+§	13661.  Screening of applicants for Federally assisted housing
+
+(a)	Ineligibility because of eviction for drug crimes
+
+Any tenant evicted from federally assisted housing by reason of drug-related criminal activity (as such term is defined in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)) shall not be eligible for federally assisted housing during the 3-year period beginning on the date of such eviction, unless the evicted tenant successfully completes a rehabilitation program approved by the public housing agency (which shall include a waiver of this subsection if the circumstances leading to eviction no longer exist).
+
+(b)	Ineligibility of illegal drug users and alcohol abusers
+
+(1)	In general
+
+Notwithstanding any other provision of law, a public housing agency or an owner of federally assisted housing, as determined by the Secretary, shall establish standards that prohibit admission to the program or admission to federally assisted housing for any household with a member-
+
+(A)	who the public housing agency or owner determines is illegally using a controlled substance; or
+
+(B)	with respect to whom the public housing agency or owner determines that it has reasonable cause to believe that such household member's illegal use (or pattern of illegal use) of a controlled substance, or abuse (or pattern of abuse) of alcohol, may interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+(2)	Consideration of rehabilitation
+
+In determining whether, pursuant to paragraph (1)(B), to deny admission to the program or federally assisted housing to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member-
+
+(A)	has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
+
+(B)	has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
+
+(C)	is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
+
+(c)	Authority to deny admission to criminal offenders
+
+Except as provided in subsections (a) and (b) of this section and in addition to any other authority to screen applicants, in selecting among applicants for admission to the program or to federally assisted housing, if the public housing agency or owner of such housing (as applicable) determines that an applicant or any member of the applicant's household is or was, during a reasonable time preceding the date when the applicant household would otherwise be selected for admission, engaged in any drug-related or violent criminal activity or other criminal activity which would adversely affect the health, safety, or right to peaceful enjoyment of the premises by other residents, the owner, or public housing agency employees, the public housing agency or owner may-
+
+(1)	deny such applicant admission to the program or to federally assisted housing; and
+
+(2)	after the expiration of the reasonable period beginning upon such activity, require the applicant, as a condition of admission to the program or to federally assisted housing, to submit to the public housing agency or owner evidence sufficient (as the Secretary shall by regulation provide) to ensure that the individual or individuals in the applicant's household who engaged in criminal activity for which denial was made under paragraph (1) have not engaged in any criminal activity during such reasonable period.
+
+2.	Section 13662 of Title 42 of the United States Code (Supp. V 1999) provides:
+
+§ 13662.  Termination of tenancy and assistance for illegal drug users and alcohol abusers in Federally assisted housing
+
+(a)	In general
+
+Notwithstanding any other provision of law, a public housing agency or an owner of federally assisted housing (as applicable), shall establish standards or lease provisions for continued assistance or occupancy in federally assisted housing that allow the agency or owner (as applicable) to terminate the tenancy or assistance for any household with a member-
+
+(1)	who the public housing agency or owner determines is illegally using a controlled substance; or
+
+(2)	whose illegal use (or pattern of illegal use) of a controlled substance, or whose abuse (or pattern of abuse) of alcohol, is determined by the public housing agency or owner to interfere with the health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+(b)	Consideration of rehabilitation
+
+In determining whether, pursuant to subsection (a)(2), to terminate tenancy or assistance to any household based on a pattern of illegal use of a controlled substance or a pattern of abuse of alcohol by a household member, a public housing agency or an owner may consider whether such household member- 
+
+(1)	has successfully completed a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable);
+
+(2)	has otherwise been rehabilitated successfully and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable); or
+
+(3)	is participating in a supervised drug or alcohol rehabilitation program (as applicable) and is no longer engaging in the illegal use of a controlled substance or abuse of alcohol (as applicable).
+
+3.	Section 5.100 of Title 24 of the Code of Federal Regulations (promulgated by 66 Fed. Reg. 28,791 (May 24, 2001)) provides, in pertinent part:
+
+§ 5.100  Definitions.
+
+Covered person, for purposes of 24 CFR 5, subpart I, and parts 966 and 982, means a tenant, any member of the tenant's household, a guest or another person under the tenant's control.
+
+Guest, only for purposes of 24 CFR part 5, subparts A and I, and parts 882, 960, 966, and 982, means a person temporarily staying in the unit with the consent of a tenant or other member of the household who has express or implied authority to so consent on behalf of the tenant. The requirements of parts 966 and 982 apply to a guest as so defined.
+
+*     *     *     *     *
+
+Household, for purposes of 24 CFR part 5, subpart I, and parts, 960, 966, 882, and 982, means the family and PHA-approved live-in aide.
+
+*     *     *     *     *
+
+Other person under the tenant's control, for the purposes of the definition of covered person and for parts 5, 882, 966, and 982 means that the person, although not staying as a guest (as defined in this section) in the unit, is, or was at the time of the activity in question, on the premises (as premises is defined in this section) because of an invitation from the tenant or other member of the household who has express or implied authority to so consent on behalf of the tenant. Absent evidence to the contrary, a person temporarily and infrequently on the premises solely for legitimate commercial purposes is not under the tenant's control.
+
+4.	Section 960.102 of Title 24 of the Code of Federal Regulations (promulgated by 66 Fed. Reg. 28,799 (May 24, 2001)) provides in pertinent part:
+
+§ 960.102  Definitions.
+
+(a)	Definitions found elsewhere. (1) General definitions.  The following terms are defined in part 5, subpart A of this title:  *  *  *  guest, household[.]
+
+5.	Section 966.4 of Title 24 of the Code of Federal Regulations (promulgated by 66 Fed. Reg. 28,799 (May 24, 2001)) provides in pertinent part:
+
+	§ 966.4  Lease requirements.
+
+*     *     *     *     *
+
+(d)	Tenant's right to use and occupancy.  (1) The lease shall provide that the tenant shall have the right to exclusive use and occupancy of the leased unit by the members of the household authorized to reside in the unit in accordance with the lease, including reasonable accommodation of their guests.  The term guest is defined in 24 CFR 5.100.
+
+*     *     *     *     *
+
+(f)	Tenant's obligations. The lease shall provide that the tenant shall be obligated:  *  *  *
+
+(12) (i)  To assure that no tenant, member of the tenant's household, or guest engages in: 
+
+(A)	Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or 
+
+(B)	Any drug-related criminal activity on or off the premises;
+
+(ii)	To assure that no other person under the tenant's control engages in:
+
+(A)	Any criminal activity that threatens the health, safety or right to peaceful enjoyment of the premises by other residents; or
+
+(B)	Any drug-related criminal activity on the premises;
+
+(iii)	To assure that no member of the household engages in an abuse or pattern of abuse of alcohol that affects the health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+*     *     *     *     *
+
+(1)	*  *  *
+
+(2)	Grounds for termination of tenancy.  The PHA may terminate the tenancy only for: 
+
+(i)	Serious or repeated violation of material terms of the lease, such as the following:
+
+(A)	Failure to make payments due under the lease;
+
+(B)	Failure to fulfill household obligations, as described in paragraph (f) of this section;
+
+*     *     *     *     *
+
+(3)	Lease termination notice.  (i)  The PHA must give written notice of lease termination of:
+
+(A)	14 days in the case of failure to pay rent;
+
+(B)	A reasonable period of time considering the seriousness of the situation (but not to exceed 30 days):
+
+(1)	If the health or safety of other residents, PHA employees, or persons residing in the immediate vicinity of the premises is threatened; or
+
+(2)	If any member of the household has engaged in any drug-related criminal activity or violent criminal activity; or 
+
+(3)	If any member of the household has been convicted of a felony;
+
+(C)	30 days in any other case, except that if a State or local law allows a shorter notice period, such shorter period shall apply.
+
+*     *     *     *     *
+
+(5)	PHA termination of tenancy for criminal activity or alcohol abuse.
+
+(i)	Evicting drug criminals. (A) Methamphetamine conviction.  The PHA must immediately terminate the tenancy if the PHA determines that any member of the household has ever been convicted of drug-related criminal activity for manufacture or production of methamphetamine on the premises of federally assisted housing.
+
+(B)	Drug crime on or off the premises.  The lease must provide that drug-related criminal activity engaged in on or off the premises by any tenant, member of the tenant's household or guest, and any such activity engaged in on the premises by any other person under the tenant's control, is grounds for the PHA to terminate tenancy.  In addition, the lease must provide that a PHA may evict a family when the PHA determines that a household member is illegally using a drug or when the PHA determines that a pattern of illegal use of a drug interferes with the health, safety, or right to peaceful enjoyment of the premises by other residents.
+
+(ii)	Evicting other criminals.  (A) Threat to other residents.  The lease must provide that any criminal activity by a covered person that threatens the health, safety, or right to peaceful enjoyment of the premises by other residents (including PHA management staff residing on the premises) or threatens the health, safety, or right to peaceful enjoyment of their residences by persons residing in the immediate vicinity of the premises is grounds for termination of tenancy.
+
+(B)	Fugitive felon or parole violator.  The PHA may terminate the tenancy if a tenant is fleeing to avoid prosecution, or custody or confinement after conviction, for a crime, or attempt to commit a crime, that is a felony under the laws of the place from which the individual flees, or that, in the case of the State of New Jersey, is a high misdemeanor; or violating a condition of probation or parole imposed under Federal or State law.
+
+(iii)	Eviction for criminal activity. (A) Evidence.  The PHA may evict the tenant by judicial action for criminal activity in accordance with this section if the PHA determines that the covered person has engaged in the criminal activity, regardless of whether the covered person has been arrested or convicted for such activity and without satisfying the standard of proof used for a criminal conviction.
+
+(B)	Notice to Post Office.  When a PHA evicts an individual or family for criminal activity, the PHA must notify the local post office serving the dwelling unit that the individual or family is no longer residing in the unit.
+
+(iv)	Use of criminal record.  If the PHA seeks to terminate the tenancy for criminal activity as shown by a criminal record, the PHA must notify the household of the proposed action to be based on the information and must provide the subject of the record and the tenant with a copy of the criminal record before a PHA grievance hearing or court trial concerning the termination of tenancy or eviction.  The tenant must be given an opportunity to dispute the accuracy and relevance of that record in the grievance hearing or court trial.
+
+(v)	Cost of obtaining criminal record.  The PHA may not pass along to the tenant the costs of a criminal records check.
+
+(vi)	Evicting alcohol abusers.  The PHA must establish standards that allow termination of tenancy if the PHA determines that a household member has:
+
+(A)	Engaged in abuse or pattern of abuse of alcohol that threatens the health, safety, or right to peaceful enjoyment of the premises by other residents; or
+
+(B)	Furnished false or misleading information concerning illegal drug use, alcohol abuse, or rehabilitation of illegal drug users or alcohol abusers.
+
+(vii)	PHA action, generally.  (A) Assessment under PHAS.  Under the Public Housing Assessment System (PHAS), PHAs that have adopted policies, implemented procedures and can document that they appropriately evict any public housing residents who engage in certain activity detrimental to the public housing community receive points.  (See 24 CFR 902.43(a)(5).)  This policy takes into account the importance of eviction of such residents to public housing communities and program integrity, and the demand for assisted housing by families who will adhere to lease responsibilities.
+
+(B)	Consideration of circumstances.  In a manner consistent with such policies, procedures and practices, the PHA may consider all circumstances relevant to a particular case such as the seriousness of the offending action, the extent of participation by the leaseholder in the offending action, the effects that the eviction would have on family members not involved in the offending activity and the extent to which the leaseholder has shown personal responsibility and has taken all reasonable steps to prevent or mitigate the offending action.
+
+(C)	Exclusion of culpable household member.  The PHA may require a tenant to exclude a household member in order to continue to reside in the assisted unit, where that household member has participated in or been culpable for action or failure to act that warrants termination. 
+
+        Brief
+
+              2000-1770.mer.aa.pdf
+              [PDF, ]

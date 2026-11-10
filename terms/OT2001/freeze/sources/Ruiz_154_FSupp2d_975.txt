@@ -1,0 +1,877 @@
+154 F.Supp.2d 975 (2001) 
+David RUIZ, et al., Plaintiffs, 
+United States of America, Plaintiff-Intervenor, 
+v. 
+Gary JOHNSON, et al., Defendants, 
+Honorable John Culberson and Honorable J.E. "Buster" Brown, Defendant-Intervenors. 
+No. CIV. A. H-78-987. 
+United States District Court, S.D. Texas, Houston Division. 
+June 18, 2001. 
+Donna Brorby, San Francisco, CA, William Bennett Turner, San Francisco, CA, Gail J. Saliterman, San 
+Francisco, CA, for plaintiffs. 
+John Cornyn, Atty. Gen. of Texas, Andy Taylor, First Atty. Gen., Michael T. McCaul, Deputy Atty. Gen. 
+for Criminal Justice, Austin, TX, Gregory Coleman, Solicitor Gen., Austin, TX, Philip E. Marrus, Austin, 
+TX, Sharon Felfe, Austin, TX, Karen Ray, Austin, TX, Charles Eldred, Austin, TX, Robert B. Maddox, 
+Austin, TX, for defendants. 
+MEMORANDUM OPINION 
+Justice, Senior District Judge. 
+TABLE OF CONTENTS 
+ 
+    I. Introduction .......................................................... 980 
+ 
+   II. Background ............................................................ 980 
+       A. Development of the Case ............................................ 980 
+       B. The Fact-Finding Hearing, 1999 Memorandum Opinion and Order, and 
+           the Fifth Circuit's Remand Order .................................. 982 
+ 
+  III. Current and Ongoing Constitutional Violations ......................... 983 
+       A. Administrative Segregation ......................................... 984 
+       B. Inmate Safety ...................................................... 986 
+       C. Use of Force ....................................................... 986 
+       D. Medical and Psychiatric Services ................................... 987 
+ 
+   IV. Existing Prospective Relief: The 1992 Final Judgment .................. 988 
+       A. Staffing ........................................................... 988 
+       B. Support Services ................................................... 989 
+       C. Discipline ......................................................... 990 
+       D. Administrative Segregation ......................................... 991 
+       E. Use of Force ....................................................... 991 
+       F. Access to Courts.................................................... 994 
+       G. Visits ............................................................. 995 
+       H. Crowding ........................................................... 995 
+
+       I. Reporting; Monitoring by Plaintiffs' Counsel ....................... 996 
+       J. Defendants' Internal Monitoring .................................... 997 
+       K. Health Services .................................................... 997 
+       L. Death Row .......................................................... 999 
+ 
+    V. Proposed Modifications and New Prospective Relief ..................... 999 
+ 
+   VI. Conclusion ............................................................ 1000 
+I. INTRODUCTION 
+This civil action, now almost thirty years in existence, concerns the constitutionality of the practices and 
+conditions of the Texas Department of Criminal Justice-Institutional Division's (TDCJ-ID) prisons. After 
+a lengthy trial, it was held that these practices and conditions violated the Eighth and Fourteenth 
+Amendments to the U.S. Constitution in numerous respects, and relief was granted to the plaintiff class of 
+inmates. In 1992, a consent decree, which contained permanent injunctive relief in certain areas and 
+terminated relief and the court's jurisdiction in others, was adopted and issued as a final judgment. Since 
+1996, the defendants have sought to terminate this Final Judgment and the court's remaining oversight of 
+the Texas prison system. 
+Two years ago, an evidentiary hearing was had on the defendants' motions to terminate the final judgment 
+under the Prison Litigation Reform Act (PLRA).1 At that time, the court held that the termination 
+provisions were unconstitutional as violating the separation of powers doctrine and the prisoners' due 
+process rights. See Ruiz v. Johnson, 37 F.Supp.2d 855 (S.D.Tex.1999). In the alternative, the defendants' 
+motions were denied based on the current and ongoing constitutional violations in the TDCJ-ID's 
+facilities that were shown to exist in three major areas. Id. On appeal, the Fifth Circuit upheld the PLRA's 
+termination provisions and remanded for additional findings regarding the continuing vitality of the 1992 
+Final Judgment. The court now reconsiders the defendants' motions to terminate all prospective relief to 
+the plaintiff class. 
+II. BACKGROUND 
+A. Development of the Case 
+David Ruiz and other named state inmate plaintiffs initiated this civil action in 1972 alleging 
+unconstitutional practices and conditions in the Texas Department of Corrections' (TDC) prisons.2 Ruiz's 
+suit was consolidated with a number of others, and class action status was granted to the plaintiffs, who 
+                                                           
+1 The PLRA "establishes standards for the entry and termination of prospective relief in civil actions challenging 
+prison conditions." Miller v. French, 530 U.S. 327, 331, 120 S.Ct. 2246, 2250, 147 L.Ed.2d 326 (2000) ; see Pub.L. 
+No. 104-134, 110 Stat. 1321-66 (1996). In essence, the law aimed to limit federal court intervention in the operat ion 
+of correctional facilities and to curb frivolous inmate litigation. See Inmates of Suffolk County Jail v. Rouse, 129 
+F.3d 649, 655 (1st Cir.1997) (commenting further that PLRA intended to serve as "last rite" for many consent 
+decrees). The PLRA entitles parties to the termination of existing prospective relief relating to prison conditions, 
+unless the court makes written findings that such relief "remains necessary to correct a current and ongoing violation 
+of the Federal right, extends no further than necessary to correct the violation of the Federal right, and that the 
+prospective relief is narrowly drawn and the least intrusive means to correct the violation." 18 U.S.C. § 
+3626(b)(1)(3). 
+2 The TDC was succeeded by Texas Department of Criminal Justice (TDCJ) and the TDCJ -ID. 
+
+represented all past, present, and future inmates in the TDC. The inmate plaintiffs, joined by plaintiff-
+intervenor the United States, alleged that the TDC's conditions and practices violated the Eighth and 
+Fourteenth Amendments to the U.S. Constitution. The 159-day trial in 1978 and 1979 exposed the truly 
+horrendous living conditions of inmates inside the Texas prisons. See generally Ruiz v. Estelle, 503 
+F.Supp. 1265 (S.D.Tex. 1980). Based on extensive and detailed findings of fact, it was held that the 
+prisons were grossly overcrowded; that sanitation and recreational facilities were wholly inadequate; that 
+health care was inadequate; that hearing procedures for discipline were inadequate; that access to courts 
+was inadequate; and that fire safety and sanitation standards were in violation of state law and the 
+Constitution. Id. 
+On April 20, 1981, the court issued a consent decree which granted comprehensive injunctive relief in 
+areas such as inmate population/crowding, staffing, medical and psychological care, and health and 
+safety.3 See Ruiz v. Estelle, 679 F.2d 1115, 1165 (5th Cir.1982); Appendix A. A special master was 
+appointed to supervise and monitor the effectuation of court orders and the provisions of the consent 
+decree. See Ruiz, 503 F.Supp. at 1389-90. The parties spent the remainder of the 1980's negotiating 
+various remedial measures and returning to the court with stipulations and motions for certain relief. See 
+Ruiz v. Lynaugh, 811 F.2d 856, 857 (5th Cir.1987). In March 1990, the parties were ordered to negotiate a 
+comprehensive settlement of all remedial issues, which was submitted to the court two years later. 
+After an evidentiary hearing, the court approved the settlement in an order issued December 11, 1992. 
+This Final Judgment vacated and replaced numerous detailed orders and compliance plans. It terminated 
+the court's jurisdiction in nine substantive areas and continued permanent injunctive orders on eight 
+substantive issues — staffing, discipline, administrative segregation, use of force, access to courts, 
+crowding, health services, and death row. In March 1996, the defendants moved to vacate the Final 
+Judgment under Rule 60(b)(5) of the Federal Rules of Civil Procedure. They argued that their 
+"compliance with the Final Judgment, the public's interest, and the State of Texas' desire to exercise 
+autonomy over its institutions, mandate that any remaining vestiges of court involvement-however 
+passive-with the prison system, now be vacated."4 (Defs. Mot. to Vacate Final J., Mar. 25, 1996.) 
+The passage of the PLRA one month later made it possible for the defendants to file supplemental 
+motions to terminate prospective relief: first, under the PLRA's immediate termination provision, 18 
+U.S.C. § 3626(b)(2)5 (Defs.Mot., Sept. 5, 1996); and second, upon the expiration of the two-year period 
+after the date of the PLRA's enactment under 18 U.S.C. § 3626(b)(1)(A)(iii).6 (Defs.Mot., May 5, 1998.) 
+Plaintiffs opposed these motions on several grounds. They argued, inter alia, that the PLRA's termination 
+provisions violated the separation of powers doctrine; that the act violated the plaintiffs' due process and 
+                                                           
+3 Amended May 1, 1981. 
+4 Defendants withdrew their Rule 60(b)(5) motion to vacate in July, 1997.  
+5 Section 3626(b)(2) provides that "in any civil action with respect to prison conditions, a defendant or intervener 
+shall be entitled to the immediate termination of any prospective relief if the relief was approved or granted in the 
+absence of a finding by the court that the relief is narrowly drawn, extends no further than necessary to correct the 
+violation of a Federal right, and is the least intrusive means necessary to correct the viol ation of the Federal right." 
+6 Section 3626(b)(1)(A)(iii) provides that "in any civil action with respect to prison conditions in which prospective 
+relief is ordered, such relief shall be terminable upon the motion of any party or intervener, in the case of an order 
+issued on or before the date of enactment of the Prison Litigation Reform Act, two years after such date of 
+enactment." The relief ordered in the 1992 Final Judgment thus became eligible for termination on April 26, 1998.  
+
+equal protection rights; and, alternatively, that the Texas state prison system still suffered from 
+constitutional infirmities. See Ruiz, 37 F.Supp.2d at 870. 
+B. The Fact-Finding Hearing, 1999 Memorandum Opinion and Order, and the Fifth Circuit's Remand 
+Order 
+The court conducted an evidentiary hearing on the defendants' motions from January 21 to February 12, 
+1999. The primary purpose of the hearing was to receive evidence on whether any current and ongoing 
+constitutional violations existed that would require the continuation of the 1992 Final Judgment. See 18 
+U.S.C. § 3626(b)(3) (limitation of termination).7 In the court's view, such a hearing was absolutely 
+necessary prior to a ruling on termination.8 It would afford the parties an opportunity to submit evidence 
+on the remaining substantive areas of court supervision, those being: staffing, access to courts, health 
+services, support services to inmates, contact visitation, discipline, crowding, death row, administrative 
+segregation, internal monitoring and enforcement, and the use of force. 
+In a Memorandum Opinion issued March 1, 1999 ("1999 Memorandum Opinion") and accompanying 
+Order, the defendants' two motions to terminate the 1992 Final Judgment under the PLRA were denied. 
+Specifically, it was found that the termination provisions of the PLRA violated the separation of powers 
+doctrine and the due process clause of the U.S. Constitution. Ruiz, 37 F.Supp.2d at 882. The opinion also 
+included detailed findings of fact concerning current prison conditions based on the parties' evidence, and 
+it identified extant constitutional violations in the areas of administrative segregation, inmate safety and 
+the use of force. Id. at 885-940. 
+The accompanying order provided that if the PLRA was held to be constitutional on appeal, an alternative 
+order would be entered. Based on the specific findings contained in the Memorandum Opinion, this 
+Alternative Order identified systemic constitutional violations in the conditions of confinement in 
+administrative segregation, in the failure to provide reasonable safety to inmates against assault and 
+abuse, and in the excessive use of force by correctional officers in Texas prisons. It rendered inoperative 
+certain sections of the 1992 Final Judgment concerning access to courts, health services, and death row. 
+Finally, it ordered the parties to attempt to construct a remedial plan that would address the existing 
+constitutional violations and that would meet the rigors of the PLRA. 
+The defendants promptly appealed the court's decision to the United States Court of Appeals for the Fifth 
+Circuit. On March 20, 2001, the Fifth Circuit announced its ruling. See Ruiz v. Johnson, 243 F.3d 941 
+(5th Cir.2001). Disagreeing with this court's legal conclusions, the Fifth Circuit found the PLRA to 
+                                                           
+7 The PLRA includes the following proviso:  
+Prospective relief shall not terminate if the court makes written findings based on the record that prospective relief 
+remains necessary to correct a current and ongoing violation of the Federal right, extends no fu rther than necessary 
+to correct the violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive 
+means to correct the violation. 
+18 U.S.C. § 3626(b)(3). 
+8 This position was later embraced by the Fifth Circuit in a separate action. See Castillo v. Cameron County, Texas, 
+238 F.3d 339, 355 (5th Cir.2001) (holding that district court should afford parties opportunity to present evidence 
+regarding unconstitutional prison conditions subject to consent decree); see also Cason v. Seckinger, 231 F.3d 777, 
+781-83 (11th Cir.2000). 
+
+comport with the separation of powers doctrine and due process, thus validating the termination 
+provisions contained in 18 U.S.C. § 3626(b).9 Id. 
+On the issue of the applicability of the § 3626(b)(3) limits on termination and the nature of the Alternative 
+Order, the Fifth Circuit found that the district court had not made the required findings to sustain the 
+prospective relief contained in the 1992 Final Judgment. To that end, the court remanded with the 
+following instructions: 
+The [district] court should ... consider each provision of the consent decree in light of the current and 
+ongoing constitutional violations, if there are any, and determine which aspects of the decree remain 
+necessary to correct those violations.... 
+...[I]f there are remaining aspects of the decree which are still necessary, the court should determine 
+whether those parts of the decree are narrowly drawn and the least intrusive means to correct the 
+applicable violation.... 
+The procedure outlined above is mandated by § 3626(b)(3) and cannot be circumvented by a mere 
+recitation of the key statutory language. Instead, the requisite findings must be evinced in writing with 
+respect to each remaining aspect of prospective relief. Otherwise, the district court should terminate the 
+unnecessary relief, assuming that the other requirements for termination under § 3626 are met. 
+. . . . . 
+...[O]n remand, the court should make an assessment, in the manner described above, as to each provision 
+of the 1992 judgment, in light of its findings of the unconstitutionality of various conditions in TDCJ-ID. 
+Id. at 950-52 (citations omitted). Mindful of the Fifth Circuit's guidance, the court now proceeds to 
+outline its findings. 
+III. CURRENT AND ONGOING CONSTITUTIONAL VIOLATIONS 
+Since the court's most recent findings on prison conditions were announced, the Fifth Circuit has clarified 
+some significant principles governing the § 3626(b)(3) analysis. Concerning the existence of current and 
+ongoing violations of a federal right, the Fifth Circuit held that "a court must look at the conditions in the 
+jail at the time termination is sought, not at conditions that existed in the past or at conditions that may 
+possibly occur in the future." Castillo v. Cameron County, Texas, 238 F.3d 339, 354 (5th Cir.2001). 
+Importantly, the findings made by this court two years ago fully comply with this instruction. The 
+determinations of current and ongoing constitutional violations outlined in the 1999 Memorandum 
+Opinion rest solely upon the evidence presented at the hearing held that same year, which consisted of the 
+most recent data available on the conditions of the Texas prisons relevant to this civil action. Accordingly, 
+all findings of fact and conclusions of law set forth in the Memorandum Opinion regarding the current 
+and ongoing violations of the plaintiffs' constitutional rights are hereby adopted and incorporated. All 
+credibility determinations and rulings on evidentiary objections previously made by the court in the 
+termination proceedings, as outlined in the 1999 Memorandum Opinion, are similarly adopted and 
+incorporated. 
+                                                           
+9 In an unrelated action, the U.S. Supreme Court upheld the automatic stay provision of the PLRA, which imposes a 
+stay on any prospective relief thirty days after a motion for termination is filed under § 3626(b)(1) or (2). Miller v. 
+French, 530 U.S. 327, 120 S.Ct. 2246, 147 L.Ed.2d 326 (2000). It assumed, without deciding, that the standards for 
+termination of relief set forth in § 3626(b) were constitutionally sound. Id. at 347, 120 S.Ct. 2246. 
+
+The parties have urged the court to reconsider the findings made in its Memorandum Opinion. (Defs.' and 
+Def.-Intervenors' Post-Remand Mem.; Plfs.' Reply to Defs.' Post-Remand Mem.) It is determined that 
+such an exercise is unnecessary. The Fifth Circuit's remand order explicitly states that the evidentiary 
+record need not be re-opened.10 Further, upon full consideration of the parties' briefs, the court is not 
+persuaded that it erred in either its factual or legal findings set forth in the 1999 Memorandum Opinion.11 
+For purposes of completeness, the court's 1999 findings are briefly summarized below. All affirmative 
+findings of fact were based on credible evidence. Where constitutional violations were identified, they 
+were so proved by the plaintiffs by a preponderance of the evidence.12 
+A. Administrative Segregation 
+Two years ago, it was held that the extreme deprivations and repressive conditions of confinement in The 
+TDCJ-ID's administrative segregation units violated the prohibition against cruel and unusual punishment 
+contained in the Eighth Amendment to the U.S. Constitution, as to the plaintiff class generally and to the 
+subclass of mentally ill inmates housed in such confinement. Ruiz, 37 F.Supp.2d at 861. The court found 
+that "Texas's administrative segregation units are virtual incubators of psychoses — seeding illness in 
+otherwise healthy inmates and exacerbating illness in those already suffering from mental infirmities." Id. 
+at 907. According to TDCJ-ID policy, administrative segregation involves "separation of an offender 
+from the general population for the purpose of maintaining safety, security and order among general 
+population offenders and correctional personnel and within the prison institution." Id. at 908. Evidence 
+presented by the plaintiffs revealed that inmates in administrative segregation are completely deprived of 
+property,13 personal contact, and mental stimulus. Id. at 908. Experts reported that incidents of self-
+mutilation and incessant babbling and shrieking were almost daily events. Id. at 908. In three units, 
+plaintiff's expert witness Craig Haney, Ph.D., J.D., found that "high numbers of prisoners were living in 
+psychological distress and pain." Id. at 909. The picture he painted of some inmates' behavior in 
+administrative segregation was harrowing: 
+                                                           
+10 The panel expressed that "[t]he constitutional findings made by the district court were based on the evidence in the 
+record concerning the current state of TDCJ-ID and are sufficient to permit the court to analyze the continued 
+necessity of each provision of the 1992 judgment." Ruiz, 243 F.3d at 952. 
+11 As part of these proceedings on remand, the parties were requested to file a proposed form of final judgment and 
+briefs. (Order [Document No. 8952], Ap. 4, 2001.) Each side was permitted to respond to the other side's 
+submission. Defendants have moved to strike certain portions of the Plaintiffs' Reply and Amended Proposed Order, 
+arguing that the plaintiffs failed to limit their reply to the subject matter contained in the defendants' initial filing. 
+The defendants are primarily concerned with their lack of opportunity to respond to plaintiffs' assertions regarding 
+inmate health care. Since the court has declined to make new findings, defendants' motion shall be denied. In 
+addition, it is noted that the defendants could have moved under Local Rule 7 for leave to submit additional briefs, 
+which they did not do. 
+12 Prior to the 1999 evidentiary hearing, it was determined that the burden of showing extant constitutional 
+violations would fall on the plaintiffs. This position has since been adopted by the First Circuit. See Laaman v. 
+Warden, New Hampshire State Prison, 238 F.3d 14, 20 (1st Cir.2001); but see Gilmore v. People of the State of 
+California, 220 F.3d 987, 1008 (9th Cir.2000) (placing burden on state defendants). 
+13 Expert witness Chase Riveland could not identify any correctional purpose in denying inmates personal property 
+items such as books, soap, and deodorant. Ruiz, 37 F.Supp.2d at 911. 
+
+I'm talking about forms of behavior that are easily recognizable and that are stark in nature when you see 
+them, when you look at them, when you're exposed to them. In a number of instances, there were people 
+who had smeared themselves with feces. In other instances, there were people who had urinated in their 
+cells, and the urination was on the floor....There were many people who were incoherent when I 
+attempted to talk to them, babbling, sometimes shrieking, other people who appeared to be full of fury 
+and anger and rage and were, in some instances, banging their hands on the side of the wall and yelling 
+and screaming, other people who appeared to be simply disheveled, withdrawn and out of contact with the 
+circumstances or surroundings. Some of them would be huddled in the back corner of the cell and 
+appeared incommunicative when I attempted to speak with them. Again, these were not subtle diagnostic 
+issues. These were people who appeared to be in profound states of distress and pain. 
+. . . . . 
+The bedlam which ensued each time I walked out into one of those units, the number of people who were 
+screaming, who were begging for help, for attention, the number of people who appeared to be disturbed, 
+the existence, again, of people who were smeared with feces, the intensity of the noise as people began to 
+shout and ask, Please come over here. Please talk to me. Please help me. It was shattering. And as I 
+discussed this atmosphere with the people who worked here, I was told that this was an everyday 
+occurrence, that there was nothing at all unusual about what I was seeing. 
+Id. at 909-10. 
+In addition, it was found that a large majority of inmates being moved into the administrative segregation 
+system are immediately placed in the most severe level of restriction (Level III), rather than beginning at 
+a lower level and being moved up through the graduated system, if necessary. Ruiz, 37 F.Supp.2d at 911. 
+Finally, plaintiffs provided evidence, through the testimony of Dennis Michael Jurczak, M.D., that 
+administrative segregation is being used to warehouse mentally ill inmates in need of medical attention, 
+and that the repressive conditions of administrative segregation actually harm such inmates. Id. at 911-12. 
+Based on all the evidence, it was found that current and ongoing Eighth Amendment violations had been 
+established as to the conditions of confinement in administrative segregation, particularly in Levels II and 
+III, and regarding the practice of using administrative segregation to house mentally ill prisoners. Id. at 
+915. The level of deprivation of basic mental health needs marked by extreme social isolation and 
+reduced environmental stimulation were determined to violate the "evolving standards of decency that 
+mark progress of a maturing society." Id. at 914-15, quoting Rhodes v. Chapman, 452 U.S. 337, 346, 101 
+S.Ct. 2392, 69 L.Ed.2d 59 (1981). Similarly, the defendants' deliberate indifference to the risks posed by 
+subjecting mentally ill inmates to extended periods of confinement in administrative segregation was held 
+to be constitutionally infirm. Id. at 915. 
+B. Inmate Safety 
+In its 1999 Memorandum Opinion, this court identified a current and ongoing constitutional violation in 
+the failure of prison officials to ensure that inmates are not subjected to any punishment beyond that 
+which is necessary for the orderly control of the prison. Ruiz, 37 F.Supp.2d at 915. It was found that 
+members of the plaintiff class remain in conditions allowing a substantial risk of physical and sexual 
+abuse from other inmates. Id. at 861. This state of affairs was determined to be the result not of a lack of 
+sound policy, but rather The TDCJ-ID's failure to effectively implement such policy. Id. at 928. 
+
+Witnesses testified to the commonplace one-on-one and group-on-one inmate fights14 as well as sexual 
+assaults.15 Id. at 917-19. Safekeeping and protective custody were recognized as defective: inmates 
+seeking refuge from harm or threat of harm often had to subject themselves to punishment and 
+disciplinary measures by corrections officers in order to avoid harm from other inmates, since relief could 
+not be obtained through the grievance system. Id. at 922-23. Inmate testimony established that prison 
+officials are aware of the violence between and among the inmates, but that protection could not be 
+obtained absent evidence of injury. Id. at 925-26. 
+The court concluded with the following findings: 
+The plaintiffs have shown by a preponderance of the evidence both the objective and subjective elements 
+of an Eighth Amendment claim for failure to reasonably protect them from harm.... [T]he combination of 
+inmates who are routinely subjected to violence, extortion, and rape; of officers who are aware of inmate-
+on-inmate victimization but fail to respond to the victims; of high barriers preventing inmates from 
+seeking safekeeping or protective custody; and of a system that fails accurately to report, among other 
+data, instances of requests for safekeeping and sexual assaults; and, as well, the obviousness of the risk to 
+prison officials, when taken together, have the mutually enforcing effect of rendering prison conditions 
+cruel and unusual by denying inmates safety from their fellow inmates. 
+Id. at 928-29. 
+C. Use of Force 
+In 1999, the court was reacquainted with "the culture of sadistic and malicious violence that continues to 
+pervade the Texas prison system [and] violate[s] contemporary standards of decency." Id. at 929. As with 
+conditions of inmate safety, the abuse of use of force has resulted not from deficient policies,16 but from 
+the seeming inability of correctional officers to "keep their hands off prisoners." Id. at 932. 
+Plaintiffs' experts testified to the institution's reliance on "force or threat of force for the control of 
+people." Id. at 933. They cited examples of force being used simply to punish or hurt inmates, and 
+frequent pushing, shoving, and other unnecessary physical contact. Id. at 932-33. Plaintiffs' expert Allen 
+Breed, who had monitored the use of force in several other states, found Texas to be worse, in quantity 
+and degree, than any other system he had seen. Id. at 933. Evidence demonstrated that inmates are being 
+hit while in restraints;17 that they are being struck by officers with their fists18 — a practice deemed 
+                                                           
+14 Data showed 10.5 inmate-on-inmate assaults per 1,000 inmates for the year 1998. Id. at 916. 
+15 Exact figures on the number of inmate sexual assaults differ among sources. In 1998, the number of reported 
+assaults ranged from 81 to 107. Id. 
+16 In fact, one of plaintiffs' expert witnesses found TDCJ-ID policies and procedures governing use of force 
+concerns to be generally acceptable. Id. at 919. 
+17 Twenty-seven of eighty-two major use of force reports contained in Defs. Ex. 221 recorded force against 
+restrained inmates, with thirteen of those inmates being "slammed" or taken to the ground. Id. at 933. 
+18 For September 1998 at the Connolly unit, fourteen of the thirty-six use of force reports noted inmate injury and 
+five inmates had been struck by an officer with a fist. Id. at 934. 
+ 
+
+inappropriate by defendants' expert Gary DeLand; and that they suffer other injuries from officer actions. 
+Id. at 933-34. Monitoring, supervision, grievance, and investigations processes were found to be 
+inadequate to curb the excessive use of force. Id. at 936-39. The court determined that in numerous 
+examples brought before it, no justification for use of force by TDCJ-ID officers existed, or the force used 
+was disproportionate to the circumstances. The prevalence of excessive use of force was held to be cruel 
+and unusual punishment. Id. at 939. 
+D. Medical and Psychiatric Services 
+As explained during the 1999 hearing, two of the State of Texas's premier medical teaching institutions, 
+the University of Texas Medical Branch at Galveston (UTMB) and Texas Tech University Health 
+Sciences Center, currently provide treatment to inmates in state correctional facilities. Id. at 892. 
+Nevertheless, a number of systemic deficiencies has limited availability of sufficient medical treatment 
+for inmates across the state. Id. The court heard witness accounts of grossly inadequate medical and 
+psychiatric treatment. Plaintiffs' expert witnesses' health care audits also revealed a health care system 
+that stops short of providing adequate medical care to inmates. Id. 
+Specifically, the experts commented on the system's dependence on non-physicians to make medical 
+decisions, often beyond their expertise, and the low rate of physician review of those decisions;19 the 
+inadequate evaluation and referral system which is often marked by unacceptable delays in treatment; a 
+failure to follow-up with at-risk patients; general staff indifference to complaints; poor treatment of 
+diabetes including the failure to perform basic preventive tests against common complications; inadequate 
+access to medication and the lack of communication between treating hospitals and unit medical care 
+facilities; incidents of medically-based work restrictions being ignored by correctional officers; and the 
+general failure to self-monitor the quality of treatment being administered.20 Id. at 897-901. With respect 
+to psychiatric services, plaintiffs' experts again highlighted several deficiencies, including "not 
+recognizing or minimizing symptoms indicative of major mental illnesses;" failing to recognize 
+psychiatric needs; and a practice of unnecessarily changing diagnoses. Id. at 903-04. 
+The evidence presented, however, was insufficient to show that the defendants were deliberately 
+indifferent to the prisoners' physical and mental health needs, as required to prove a violation of the 
+Eighth Amendment.21 Id. at 906. While the court remains deeply disturbed by the current sub-par level of 
+medical treatment being provided by The TDCJ-ID to its inmates, a system-wide deliberate indifference 
+to health needs has not been shown to exist. 
+IV. EXISTING PROSPECTIVE RELIEF: THE 1992 FINAL JUDGMENT 
+                                                           
+19 In Texas, the rate of physician review is 10%, as compared to 100% in New Mexico. Ruiz, 37 F.Supp.2d at 897. 
+20 The TDCJ-ID has no formal tracking and reporting system to monitor and evaluate its health care. Id. at 901. 
+21 "Deliberate indifference to serious medical needs of prisoners constitutes the `unnecessary and wanton infliction 
+of pain' proscribed by the Eighth Amendment." Estelle v. Gamble, 429 U.S. 97, 104, 97 S.Ct. 285, 50 L.Ed.2d 251 
+(1976). It is an extremely high standard. See, e.g., Stewart v. Murphy, 174 F.3d 530 (5th Cir.1999) (finding no 
+Eighth Amendment violation where prison physician failed to follow non-prison surgeon's advice to transfer inmate 
+to another facility for physical therapy for his decubitus ulcers (bedsores), even though decubitus ulcers ultimately 
+caused inmate's death). 
+
+Defendants have moved for termination of the prospective relief granted in the 1992 Final Judgment 
+under two provisions of the PLRA: 18 U.S.C. § 3626(b)(1)(A)(iii), mandating termination two years after 
+the date of PLRA's enactment; and 18 U.S.C. § 3626(b)(2), mandating immediate termination. Pursuant to 
+Section 3626(b)(3), such relief shall not terminate where "prospective relief remains necessary to correct 
+a current and ongoing violation of the Federal right, extends no further than necessary to correct the 
+violation of the Federal right, and that the prospective relief is narrowly drawn and the least intrusive 
+means to correct the violation." Having concluded that current and ongoing constitutional violations exist 
+— detailed in the 1999 Memorandum Opinion and summarized above — the court must now undertake to 
+review the terms of the 1992 Final Judgment in light of those violations and the standards set forth by the 
+PLRA. This exercise entails a three-pronged evaluation of each provision of the 1992 Final Judgment. 
+Specifically, it must be determined whether the relief granted in each section: (1) remains necessary to 
+correct a current and ongoing violation of plaintiffs' rights; (2) extends no further than necessary to 
+correct the identified violation; and (3) is narrowly drawn and is the least intrusive means to correct the 
+identified violation. Any provision that cannot satisfy any one of these requirements must be terminated. 
+A. Staffing 
+Section II22 of the Final Judgment states in relevant part: 
+Defendants shall employ sufficient trained security and non-security staff to provide for and maintain the 
+security, control, custody and supervision of prisoners, taking account of the security and custody levels 
+for the prisoner population and the design of defendants' facilities. 
+There is no evidence in the record to demonstrate that Section II of the Final Judgment (1) "remains 
+necessary to correct a current and ongoing violation of the Federal right," (2) "extends no further than 
+necessary to correct the violation of the Federal right," and (3) "is narrowly drawn and the least intrusive 
+means to correct the violation." Section II should, therefore, be terminated. 
+Plaintiffs have argued that the violations identified in the area of inmate protection require the 
+continuation of the Section II staffing provision.23 The court's 1999 findings that relate directly to inmate 
+protection issues largely involve the defendants' failure to respond adequately to inmates' protection 
+needs, including their requests for protection. As articulated in their closing arguments during the 1999 
+evidentiary hearing, the plaintiffs charge that understaffing is a contributing factor of the failure to 
+provide adequate safety to inmates. A finding on the link between staffing and prisoner safety was not 
+made in the court's 1999 Memorandum Opinion, and upon careful review of the record, the court cannot 
+now discern evidence to support such a finding by a preponderance of the evidence.24 
+                                                           
+22 Section I of the Final Judgment lays out the purpose and scope of the order. It does not impose any independent 
+obligations on the TDCJ-ID and does not contain any prospective relief. Thus, it is not subj ect to termination and is 
+not before the court for review. 
+23 Actually, the plaintiffs have prosed a modified provision which would obligate the defendants to "employ 
+sufficient trained staff to comply with this Order." (Plfs. Prop. Order upon Remand from Ct. of Appeals, ¶ 3.)  
+24 In fact, one of plaintiffs' expert witnesses, Allen Breed, testified that he was unable to give an assessment of the 
+sufficiency of staffing levels. (Tr. at 1139 ("I cannot answer whether there are sufficient offi cers."); see also Test. 
+Chase Riveland, Tr. at 854 ("I actually made no judgment on staff in terms of custody staff.... I did not see [staff 
+ratios] as an issue related to the final order.").) 
+
+More specifically, the plaintiffs have argued that the inmate protection problems existing in today's state 
+prisons have been caused, in part, by the loss of two to three hundred classification case managers in 
+1995. Ruiz, 37 F.Supp.2d at 871. While found to be "plausible" and "a rational explanation" that the loss 
+of the classification case manger positions could be responsible for inmate-on-inmate assaults, the "causal 
+connection in this matter has not been proved by preponderance of the evidence." Id. at 925. Upon such 
+record, it is not possible to find necessary continued relief regarding staffing. 
+Because there is no evidence to link the number of security and non-security staff to the constitutional 
+violations identified by the court, the staffing provision fails the first prong of § 3626(b)(3). Section II, 
+Staffing, does not meet the need-narrowness-intrusiveness requirements of the PLRA and, thus, should be 
+terminated. 
+B. Support Services 
+Section III of the Final Judgment concerns the proper role of support services inmates and enjoins the 
+Institutional Division as follows: 
+No prisoner shall be permitted to exercise authority over another prisoner, to supervise another prisoner, 
+to convey orders or instructions from TDCJ-ID employees to another prisoner, to discipline another 
+prisoner, to count or assist in counting other prisoners, to obtain sensitive information about other 
+prisoners absent a state or federal court order or, except as required or permitted by the nature of the 
+prisoner's classification status or non-support service job or program assignment, to have special 
+privileges such as special or extra clothing, food, property, cell assignments or recreation. The purpose of 
+the restriction on sensitive information is to prevent a prisoner from gaining power or an advantage over 
+another prisoner as a result of obtaining information about the other prisoner. "Sensitive information" is 
+defined in Section I.G of the Stipulated Modification of Sections II.A and II.D of Amended Decree, but 
+this definition may be modified by the Board of Criminal Justice as appropriate and consistent with the 
+purpose of this paragraph III.25 
+There is no evidence in the record to demonstrate that Section III of the Final Judgment (1) "remains 
+necessary to correct a current and ongoing violation of the Federal right," (2) "extends no further than 
+necessary to correct the violation of the Federal right," and (3) "is narrowly drawn and the least intrusive 
+means to correct the violation." Based on the evidence adduced at the 1999 hearing, no findings were 
+made with regard to support services inmates, and Section III's requirements for support services inmates 
+relate in no way to the three ongoing constitutional violations identified by the court. 
+Considering Section III in light of the court's findings, there is no basis for retaining this provision of the 
+Final Judgment. As the Fifth Circuit held in Castillo, findings made in years past cannot constitute 
+evidence that there are current and ongoing constitutional violations in the present. Thus, the court cannot 
+rely on the 1980 findings to justify retaining relief because those findings do not relate to current and 
+ongoing violations. Because the inmates did not carry their burden of proving an ongoing constitutional 
+violation remedied by this provision of the Final Judgment, Section III, Support Services Inmates, should 
+be terminated. 
+                                                           
+25 This section abolished the "building tender" system in which certain inmates were used as auxiliary guards to 
+assist the civilian security forces in controlling prison units. This system had been established despite the existence 
+of a Texas statute expressly prohibiting the use of inmates in a supervisory or administrative capacity over other 
+inmates and forbidding any inmate to administer disciplinary action to another prisoner. See Tex. Gov't Code Ann. § 
+500.001 (2001) (previously codified at Tex.Rev.Civ.Stat.Ann. art. 6184K -1 (Vernon's Supp.1980)). 
+
+C. Discipline 
+Section IV of the Final Judgment addresses the disciplinary rules, procedures, and sanctions applicable to 
+inmates and enjoins the Institutional Division as follows: 
+Defendants shall comply with their own rules regarding the discipline of prisoners. Defendants' current 
+rules are the TDCJ-ID Disciplinary Rules and Procedures for Inmates, revised May, 1991. Only the Board 
+of Criminal Justice shall have the discretion to alter these rules. All disciplinary hearings that may result 
+in sanctions of solitary confinement or a loss of class or good time shall be tape recorded and the tape 
+preserved and made available to the prisoner or his counsel substitute for review on request for six 
+months after the hearings. Furthermore, defendants shall maintain in effect a staff counsel substitute 
+program and shall ensure that prisoners assigned to solitary confinement receive the full daily rations of 
+food [sic] and that all other prisoners receive, consistent with security requirements. 
+There is no evidence in the record to demonstrate that Section IV of the Final Judgment (1) "remains 
+necessary to correct a current and ongoing violation of the Federal right," (2) "extends no further than 
+necessary to correct the violation of the Federal right," and (3) "is narrowly drawn and the least intrusive 
+means to correct the violation." The court made no findings after the 1999 hearing with regard to inmate 
+discipline. Moreover, Section IV and its requirements concerning disciplinary procedures do not address 
+the three ongoing constitutional violations identified by the court. 
+Considering Section IV in light of the court's findings, there is no basis for retaining this provision of the 
+Final Judgment. Because the inmates did not carry their burden of proving a current and ongoing 
+constitutional violation remedied by this provision of the Final Judgment, Section IV, Discipline, should 
+be terminated. 
+D. Administrative Segregation 
+Section V.A.2 of the 1992 Final Judgment requires that "each prisoner assigned to administrative 
+segregation shall be housed in a single occupancy cell."26 There is no evidence in the record to 
+demonstrate that Section V of the Final Judgment (1) "remains necessary to correct a current and ongoing 
+violation of the Federal right," (2) "extends no further than necessary to correct the violation of the 
+Federal right," and (3) "is narrowly drawn and the least intrusive means to correct the violation." 
+The current and ongoing constitutional violations regarding administrative segregation run to the 
+conditions of confinement and the practice of using administrative segregation to house mentally ill 
+inmates. None of the evidence presented at the 1999 hearing suggests that single-celling is necessary to 
+remedy the identified constitutional violations on this issue. Further, it is undisputed that all 
+administrative segregation inmates are currently housed in single occupancy cells. (Defs. Ex. 17 at 11790; 
+Tr. at 867-68, 1758, 1902, 2740.) The current prospective relief is thus completely non-responsive to the 
+system's deficiencies in the area of administrative segregation. Section V, Administrative Segregation, 
+should, therefore, be terminated. 
+E. Use of Force 
+                                                           
+26 This subsection is the only remaining relief concerning administrative segregation in the Final Judgment. The 
+section's other obligations expired on December 31, 1992 pursuant to Section V.C of the Judgment.  
+
+Section VII of the Final Judgment contains the following injunction with regard to the use of force in 
+TDCJ-ID: 
+Defendants shall maintain and enforce written policies and procedures governing when and how force and 
+chemical agents are permitted to be used by TDCJ-ID personnel against prisoners, reporting and internal 
+investigation requirements when force is used or is alleged to have been used, and discipline of 
+employees for violations of the policies and procedures. The policies and procedures shall require that 
+only the minimum force and chemical agents reasonably believed to be necessary may be used, and shall 
+establish reasonable policies, procedures, and standards for the effective investigation of prisoners' 
+allegations of unnecessary or excessive uses of force and discipline of employees determined to have 
+violated the policies and procedures. Only the Texas Board of Criminal Justice shall have discretion to 
+alter the written policies and procedures. Until December 31, 1992, defendants shall notify the court and 
+counsel for plaintiffs no less than 30 days in advance of any proposed substantive modification of the 
+policies and procedures and the rationale for the modification. 
+There is sufficient evidence in the record to demonstrate that at least a portion of Section VII of the Final 
+Judgment (1) "remains necessary to correct a current and ongoing violation of the Federal right," (2) 
+"extends no further than necessary to correct the violation of the Federal right," and (3) "is narrowly 
+drawn and the least intrusive means to correct the violation." Accordingly, this section, as modified 
+below, shall continue. 
+The current and ongoing Eighth Amendment violation of excessive use of force by officers in the TDCJ-
+ID facilities is well-detailed in the 1999 Memorandum Opinion. See Ruiz, 37 F.Supp.2d at 929-40. As 
+noted therein, the "culture of sadistic and malicious violence" that continues to mark Texas's prisons has 
+resulted in a system-wide prevalence of resorting to force more often and to a greater degree than 
+necessary or constitutionally permitted. Id. at 929. 
+The parties agree that the TDCJ-ID policies governing use of force are adequate.27 Id. at 919, 932. 
+Plaintiffs' expert Allen Breed, for example, found that the TDCJ-ID policies and procedures governing 
+the use of force are generally acceptable. Id. In his expert report, Gary DeLand, who testified for the 
+defendants, concluded that "TDCJ-ID's policies, procedures, and practices generally meet or exceed ... 
+appropriate correctional standards in the are of use of force against prisoners." Id. at 932. Further, the 
+record shows that defendants are committed to maintaining written policies governing aspects of use of 
+force. (Plfs. Mem. in Support of Proposed Form of J., p. 11.) Therefore, the portion of Section VII 
+                                                           
+27 The existing TDCJ-ID use of force policies prohibit unnecessary and excessive force by requiring that  
+[a]ll reasonable steps shall be taken to reduce and prevent any incident or necessity for the Use of Force. In a given 
+situation, force is justified only when no reasonable alternative exists. When a situation requires the Use of Force, 
+only the minimum force reasonably believed necessary shall be used. In no event shall force be used to impose 
+discipline. Disciplinary sanctions for the violation of a TDCJ regulation or rule shall be imposed only pursuant to 
+such disciplinary procedures (Disciplinary Rules and Procedures for Offenders) as now exist or may be established 
+in the future. 
+(Defs. Ex. 24 at 11856.) 
+ 
+
+concerning the maintenance of policies shall be terminated, as it is no longer necessary to cure the 
+constitutional violation.28 
+A clear connection has been made, however, between the violation of the plaintiffs' rights against 
+excessive force and the generalized failure to implement and enforce TDCJ-ID's policies and procedures 
+governing the use of force. The parties' experts agreed that it is imperative that correctional officers use 
+force only as a last resort, not as a primary method of control or as punishment. Ruiz, 37 F.Supp.2d at 
+932-33. Yet the record establishes that this policy has not been implemented or enforced in TDCJ-ID's 
+facilities. The evidence shows pervasive quick reliance on threat of force and force as a primary method 
+of control and a failure by officers to use reasonable measures to try to avoid or minimize the use of force. 
+Id. at 932-34. The record also demonstrates a pattern of punitive "uncalled for `slamming,' hitting and 
+kicking" of prisoners by officers. Id. at 929. Finally, it was shown that prison officials abdicate their 
+responsibility in the area of supervision of use of force. Id. at 936-939. 
+To provide one example: although a violation of TDCJ-ID policy, the record shows several reported 
+incidents where inmates were "struck by officer with first." Id. at 934. In one such confrontation, an 
+officer hit a handcuffed inmate on the head with his closed fist after the inmate had spit in the officer's 
+face. The prisoner fell to the floor face down; the officer was not disciplined.29 Id. at 934. In another 
+incident, a corrections officer was disciplined with only a one-day suspension and nine months of 
+probation for kicking an inmate in the head while the inmate was lying on the ground in restraints. Id. at 
+934. 
+In the 1999 Memorandum Opinion, "an affirmative management strategy to permit the use of excessive 
+force for both punishment and deterrence" was recognized. Id. at 940. "[W]hile the Internal Affairs 
+Division goes through the motions of filing paperwork on cases, it seldom finds officer misconduct. The 
+result is to send a clear message to line staff that excessive force will be tolerated." Id. Indeed, both 
+plaintiffs' and defendants' experts and other witnesses attested that unless policies and procedures are 
+carried out, they have no meaning. Id. at 932. Based on the evidence presented at the 1999 hearing and 
+the findings contained in the Memorandum Opinion, it is found that a continued obligation to enforce 
+existing TDCJ-ID policies and procedure on the use of force is necessary to correct the current and 
+ongoing constitutional violation. 
+Consistent with the above-made findings, Section VII will be amended to read: 
+Defendants shall enforce written policies and procedures governing when and how force and chemical 
+agents are permitted to be used by TDCJ-ID personnel against prisoners, reporting and internal 
+                                                           
+28 Despite the obligation imposed on The TDCJ-ID by this court to maintain policies and procedures on when and 
+how chemical agents are permitted to be used against inmates, it was found that The TDCJ -ID has failed to develop 
+such policies regarding the use of pepper spray (or OC, for olio capsicum, gas). See Ruiz, 37 F.Supp.2d at 935. This 
+oversight alone does not require the continuation of the maintenance provision. The constitutional problem 
+identified by the court runs to the overuse and over dependence on the use of force-both physical and non-physical. 
+The plaintiffs have included a separate provision in their proposed form of judgment governing t he use and 
+administration of chemical agents, however, it has not been demonstrated that policies specific to the use of 
+chemical agents are necessary to correct the violation. 
+29 Defendants' witness Edward Ellis McElyea, chief of the administrative support bureau of the TDCJ Internal 
+Affairs Division, testified that if an officer pushed an inmate into his cell hard enough  to make him fall down and hit 
+something, a violation of the use of force plan was likely, whether the inmate sustained injuries or not. Id. at 937. 
+
+investigation requirements when force is used or is alleged to have been used, and discipline of 
+employees for violations of the policies and procedures. 
+Section VII, as tailored, extends no further than necessary to correct the violation. First, as recognized in 
+1999, the problem is system-wide and requires a remedy equally broad in scope. See id. at 933. The Fifth 
+Circuit has instructed, "[w]hether the data observed are sufficient to warrant a general conclusion must be 
+determined by logic and judgment.... This kind of conclusion is not a mixed question of fact and law or 
+one of legal inferences from the facts. It is instead one of the sufficiency of an evidentiary basis for a 
+factual conclusion." Ruiz v. Estelle, 679 F.2d at 1133. Here, the conclusion of a system-wide violation as 
+to use of force was based largely on the evidence provided by the expert witnesses who appeared in this 
+action. Plaintiffs' expert Allen Breed visited 18 prisons, representing about 32% of the total inmate 
+population of The TDCJ-ID, and each unit visit involved two to four days lasting between 12 to 14 hours 
+each day. Ruiz, 37 F.Supp.2d at 929. His evaluation involved a review of written use of force reports, 
+interviews of the inmates who were involved in the incident prompting the use of force report, and a 
+review of related medical files, if any. He also interviewed several inmates who had filed grievances or 
+were listed on administrative segregation rosters and certain prisoners identified by the plaintiffs' counsel. 
+Id. at 930. Plaintiffs' expert Chase Riveland toured and inspected 16 prisons, accounting for 25% of the 
+inmate population. He reviewed the medical files and interviewed inmates in 155 use of force cases. Id. at 
+931. Finally, defendants' expert in this area, Gary DeLand, toured three units spending approximately two 
+and a half hours at each facility, interviewed prison staff, and reviewed eight use of force reports. Id. 
+Based on these assessments and the logic and judgment of the court, it was determined that the 
+constitutional deficiencies identified are indeed present in the system at all levels. 
+The court is mindful that "systemwide injunctive relief may not be predicated on individual misconduct 
+that `is not part of a pattern of persistent and deliberate official policy.'" but "an institutional practice may 
+be sufficiently prevalent to warrant such relief even though it is not embodied in regulations or imposed 
+by official fiat." Ruiz v. Estelle, 679 F.2d 1115, 1154 (5th Cir.1982) (citations omitted), opinion amended 
+in part and vacated in part, 688 F.2d 266 (5th Cir.1982), cert. denied, 460 U.S. 1042, 103 S.Ct. 1438, 75 
+L.Ed.2d 795 (1983). Such an institutional practice has been identified. See generally Ruiz, 37 F.Supp.2d 
+at 932-40. 
+The modified provision is also narrowly drawn and is the least intrusive means to correct the violation. 
+The continuing obligation will only require The TDCJ-ID to effectuate its self-designed and self-imposed 
+commitments. The court cannot conceive of a less intrusive alternative, and neither party has proffered 
+one.30 
+The portion of Section VII, Use of Force, requiring enforcement of defendants' own policies and 
+procedures governing use of force meets the standards set forth in § 3626(b)(3) and shall continue. The 
+remaining portion of this section shall terminate. 
+F. Access to Courts 
+                                                           
+30 A similar remedial order was reviewed by the United States Court of Appeals for the District of Columbia Circuit 
+in Women Prisoners of the District of Columbia Department of Corrections v. District of Columbia,  93 F.3d 910 
+(D.C.Cir.1996). There, the district court had ordered compliance with the Department's established grievance 
+procedures. The circuit court found that such obligation was not unduly intrusive since it did "not impose any new 
+burdens on appellants; it simply requires appellants to observe their own policies and procedures in the running of 
+their prisons." Id. at 931. 
+
+Section VIII of the Final Judgment was ostensibly designed to protect inmates' exercise of their right of 
+access to the courts and enjoined the Institutional Division as follows: 
+Defendants shall maintain and enforce written policies and procedures permitting prisoners access to the 
+courts, lawyers, and public officials and agencies and providing for investigations of allegations of 
+retaliation for the exercise of such access. These policies and procedures shall be posted centrally in each 
+prison and a copy shall be provided to each prisoner when the prisoner arrives in defendants' custody. 
+Only the Texas Board of Criminal Justice shall have discretion to alter the policies and procedures. 
+After the 1999 hearing, the court made no findings regarding to access to courts. Section VIII and its 
+requirements for the access to courts program relate in no way to the three ongoing constitutional 
+violations identified by the court. Indeed, the court's March 1999 alternative order expressly states that, if 
+the PLRA's termination provisions are upheld on appeal — as they now have been—"the PLRA renders 
+inoperative certain sections of the Final Judgment entered herein in 1992, namely those sections 
+pertaining to ... access to courts." (Order [Docket # 8892] at 3.) 
+There is no evidence in the record to demonstrate that Section VIII of the Final Judgment (1) "remains 
+necessary to correct a current and ongoing violation of the Federal right," (2) "extends no further than 
+necessary to correct the violation of the Federal right," and (3) "is narrowly drawn and the least intrusive 
+means to correct the violation." Section VIII, Access to Courts, should, therefore, be terminated. 
+G. Visits 
+The policies and procedures governing visitation were addressed in Section XII of the Final Judgment, 
+which provided as follows: 
+Except as provided herein, defendants shall be relieved of the operation of all extant orders, plans and 
+stipulations with respect to visiting upon the court's final approval of this Final Judgment; provided, 
+however, that defendants shall continue to maintain a contact visiting program. 
+Absent specific written findings regarding the continuing necessity of prospective relief in the area of 
+visitation, it must be terminated. Based on the evidence adduced at the 1999 evidentiary hearing, the court 
+found constitutional violations in the areas of inmate protection, use of force, and administrative 
+segregation. No findings were made with regard to contact visitation or visitation generally. Moreover, 
+Section XII and its requirement of a contact visiting program relate in no way to the three ongoing 
+constitutional violations identified by the court. Even in the 1992 order approving the Final Judgment, it 
+was acknowledged that this relief could not be constitutionally required. There is no evidence in the 
+record to demonstrate that Section XII of the Final Judgment (1) "remains necessary to correct a current 
+and ongoing violation of the Federal right," (2) "extends no further than necessary to correct the violation 
+of the Federal right," and (3) "is narrowly drawn and the least intrusive means to correct the violation." 
+Considering Section XII in light of the court's findings, there is no basis for retaining this provision of the 
+Final Judgment. Because Plaintiffs did not carry their burden of proving a current and ongoing 
+constitutional violation necessarily remedied by this provision of the Final Judgment, Section XII, 
+Visiting, should be terminated. 
+H. Crowding 
+Section XIII of the Final Judgment, entitled "Crowding," is easily the longest and most detailed provision. 
+Its general goal was to ensure that The TDCJ-ID would cease the unconstitutional practice, identified 
+
+early in this civil action, of housing more inmates in areas than the areas were designed for, and housing 
+inmates in areas that were not designed for housing at all. These former practices included operating 
+prisons at 200% of their capacity, housing inmates in cell blocks occupied at double or triple their design 
+capacity, assigning four or five inmates to a cell, and making inmates sleep on the floor. 
+To remedy these unconstitutional practices, Section XIII did several things. It set maximum inmate 
+populations for the then-existing units. It placed requirements on how future units were to be built and 
+how to calculate their maximum unit populations. It required future units to provide approximately the 
+same amount of housing space per inmate as the then-current units. It stated how the population limits 
+change if parts of prisons are closed or renovated, or if permanent additions are made to existing prisons. 
+It also prohibited The TDCJ-ID from housing inmates in tents or in areas that are not designed for 
+housing, including runs, hall-ways, and converted day room and gymnasium space. In summary, Section 
+XIII generally ordered The TDCJ-ID to house inmates only in areas designed for housing and in the way 
+the housing areas are designed to be used. Section XIII was designed to ensure that The TDCJ-ID does 
+not unconstitutionally overcrowd its prisons. Consequently, if The TDCJ-ID abides by the limitations in 
+Section XIII, then The TDCJ-ID is not unconstitutionally overcrowded. 
+There is no evidence in the record to demonstrate that Section XIII of the Final Judgment (1) "remains 
+necessary to correct a current and ongoing violation of the Federal right," (2) "extends no further than 
+necessary to correct the violation of the Federal right," and (3) "is narrowly drawn and the least intrusive 
+means to correct the violation." Overcrowding of Texas' prisons was not identified as a current 
+constitutional problem in this court's 1999 Memorandum Opinion. Accordingly, provisions controlling 
+population density in the prisons cannot be continued for that reason. Instead, plaintiffs argue that certain 
+population caps are required to correct the identified violations concerning inmate safety. They seek to 
+maintain Section XIII.B, which sets population caps at various units and a systemwide cap, and Section 
+XII.D.1, which allows The TDCJ-ID to increase the systemwide population cap by building new units. 
+Plaintiffs' expert Chase Riveland acknowledged that the TDCJ-ID has complied with the letter and spirit 
+of the population caps since 1992. (Tr. 853-54.) Therefore, to the extent that inmate safety is adversely 
+affected by the current level of crowding, Section XIII does nothing to solve the problem. Moreover, the 
+court made no findings that would necessitate the continuation of any of the crowding provisions in its 
+1999 Memorandum Opinion, and it cannot now do so. Even if the court accepts that the levels of violence 
+and victimization it found to exist in the TDCJ-ID are a symptom of crowding, the court does not have 
+the evidence before it that would show that the caps currently called for in the Final Judgment are 
+appropriate and extend no further than necessary. 
+Considering Section XIII in light of the court's findings, there is no basis for retaining this provision of 
+the Final Judgment. Because Plaintiffs did not carry their burden of proving a current and ongoing 
+constitutional violation necessarily remedied by this provision of the Final Judgment, Section XIII, 
+Crowding, should be terminated. 
+I. Reporting; Monitoring by Plaintiffs' Counsel 
+Section XVI of the Final Judgment identifies defendants' reporting requirements and makes certain 
+provisions for prison access and inmate meetings by plaintiffs' counsel for purposes of monitoring 
+defendants' compliance with the continuing Final Judgment obligations. All terms of this section 
+terminated on or before June 1, 1993, when plaintiff class counsel were relieved of all obligations. The 
+plaintiffs have proposed that a slight modification of Section XVI.D be incorporated into the 
+accompanying order regarding termination. Although the court reappointed legal counsel for the plaintiff 
+class in 1996 to assist in the current proceedings, the order reappointing counsel did not revive this 
+
+section. Thus, any such remedial terms must be viewed as completely new relief, and available only if it 
+meets the requirements of § 3626(a). Section XVI remains terminated. 
+J. Defendants' Internal Monitoring 
+Section XVII of the Final Judgment served to ensure that the Institutional Division employed sufficient 
+staff to keep up with the reporting and monitoring requirements mandated by other parts of the judgment. 
+The Institutional Division was enjoined as follows: 
+Defendants shall continue to employ an adequate number and type of staff, whether denominated as 
+monitoring, auditing, administrative or other staff, at levels sufficient to ensure effective monitoring of all 
+TDCJ-ID rules, regulations, policies and practices related to each area addressed by this Final Judgment. 
+To justify the retention of this administrative staffing requirement, it must be necessary to correct one of 
+the three current and ongoing constitutional violations and also the least intrusive and most narrowly 
+drawn means to achieve that end. There is no evidence in the record to demonstrate that Section XVII of 
+the Final Judgment (1) "remains necessary to correct a current and ongoing violation of the Federal right," 
+(2) "extends no further than necessary to correct the violation of the Federal right," and (3) "is narrowly 
+drawn and the least intrusive means to correct the violation." The parties agree that this provision should 
+be terminated. 
+While conceding that the provision as currently phrased is non-responsive to the ongoing and current 
+constitutional violations, the plaintiffs advocate for modified relief in this area. (Plfs. Mem. in Support of 
+Proposed Form of J., pp. 5-9.) They have grouped this administrative staffing provision together with the 
+correctional staffing provision in Section II of the Final Judgment and propose that both sections be 
+replaced with a single obligation, that being: "Defendants shall employ sufficient trained staff to comply 
+with this Order." (Plfs. Prop. Order upon Remand from Ct. of Appeals, ¶ 3.) The only remaining 
+provision of the 1992 Final Judgment that will continue is the portion of Section VII requiring 
+enforcement of TDCJ-ID policies governing the use of force. Inherent in this obligation is the 
+employment of an adequate number of staff — administrative, security and non-security — to secure and 
+ensure effective implementation and enforcement of those policies and procedures. Accordingly, an 
+independent staffing requirement is unnecessary. Therefore, the court rejects plaintiffs' proposed modified 
+relief on the issue of staffing. Section XVII, Defendants' Internal Monitoring, should be terminated. 
+K. Health Services 
+Section XIX of the Final Judgment addressed the provision of medical and dental care to the inmates, 
+specifically enjoining the Institutional Division as follows: 
+A. Defendants shall comply with the provisions of the Consent Decree, April 20, 1981, pertaining to 
+medical and dental care, and shall maintain a system for the delivery of medical and dental care and other 
+health care services consistent with the provisions of the Comprehensive Medical Health Care Plan, as 
+modified and approved, Order on Defendants' Comprehensive Health Care Plan, January 2, 1985; Order 
+Concerning Defendants' Psychiatric Services Plan and Comprehensive Health Care Plan, January 3, 
+1986; Stipulation and Order — Accreditation of the Health System, May 29, 1985. 
+B. No supplemental relief is ordered, provided that: (1) defendants shall carefully monitor the timeliness 
+of access to unit health services (including medical, dental and psychiatric services) by walk-in and 
+written sick call procedures; such monitoring shall measure access against the guidelines set forth in the 
+"Discussion" of Standard P-35, Standards for Health Services in Prison, January 1987, National 
+
+Commission on Correctional Health, unless the guidelines are revised, in which care the monitoring shall 
+measure access against the revision; defendants promptly shall take corrective action on units that fail to 
+afford access consistent with theses guideline, which corrective action may, if necessary, include reducing 
+the number of prisoner population at units where no other steps succeed in bringing the unit into 
+compliance with the sick call standards; provided, however, deviations from these guidelines which result 
+from exercise of sound medical judgment shall not be deemed grounds for corrective action; (2) because 
+TDCJ-ID has chronically had a severe shortage of nurses, defendants promptly shall take all steps legally 
+available to them to offer competitive terms and conditions of employment and compensation to nurses 
+and maximize their ability to attract nurses to accept employment and compensation to nurses and 
+maximize their ability to attract nurses to accept employment; and (3) defendants shall continue 
+developing the Health Services Patient Liaison Program, including the development of comprehensive 
+policies and procedures for it, the assignment of sufficient staff to ensure that timely investigation of 
+inquiries concerning the health care needs and treatment of individual prisoners and the notification to 
+TDCJ-ID staff and prisoners of the function of the Patient Liaison Program. 
+* * * * * * 
+D. In the absence of a further order to the contrary, defendants shall be relieved of the operations of 
+paragraphs XIX.A and B on December 31, 1992, except that defendants shall: 
+1. Obtain and maintain accreditation of all its unit health care and regional medical facilities with the 
+National Commission on Correctional Health Care ("NCCHC") or a comparable and recognized 
+accreditation organization. 
+2. Ensure that no prisoner is assigned to do work that is contraindicated for his or her medical condition. 
+3. Ensure full access to health care for all prisoners, regardless of segregation status. 
+4. Ensure that no nonmedical staff may countermand any medical order regarding a prisoner's treatment, 
+work or other related circumstances. 
+5. Maintain health services (including medical, dental, rehabilitation and psychiatric) staffing and 
+facilities that enable timely delivery of health care to all prisoners received into their custody, consistent 
+with contemporary professional standards for correctional health care, and shall vigorously recruit for 
+employment the required health services staff and take all reasonable steps to keep TDCJ-ID competitive 
+in the recruitment of staff. 
+Sections XIX.A and XIX.B terminated on December 31, 1992, and the defendants were relieved of all 
+obligations under those provisions. Moreover, based on the evidence adduced at the 1999 evidentiary 
+hearing, this court specifically found that the provision of health services in the Institutional Division 
+meets constitutional standards. Ruiz, 37 F.Supp.2d at 892. There is no evidence in the record to 
+demonstrate that Section XIX of the Final Judgment (1) "remains necessary to correct a current and 
+ongoing violation of the Federal right," (2) "extends no further than necessary to correct the violation of 
+the Federal right," and (3) "is narrowly drawn and the least intrusive means to correct the violation." 
+Because Plaintiffs did not carry their burden of proving a current and ongoing constitutional violation 
+necessarily remedied by this provision of the Final Judgment, Section XIX, Health Services, including the 
+supplemental relief in Section XIX.D.1-.5, should be terminated. 
+L. Death Row 
+The final substantive section of the Final Judgment, Section XXI, mandated conditions on death row and 
+enjoined the Institutional Division as follows: 
+Defendants shall maintain a work and activity program for eligible death row prisoners and an activity 
+program for death row segregation prisoners. Death row segregation prisoners shall be assigned to single 
+
+occupancy cells. Defendants shall maintain an appropriate mix of single and double occupancy cells for 
+work capable death row prisoners; provided that a death row work capable prisoner not assigned to a 
+single cell may only be assigned to a double occupancy cell that is no less than 80 square feet. 
+Absent specific written findings regarding the continuing necessity of this provision of the Final 
+Judgment's grant of prospective relief, it must be terminated. Based on the evidence adduced at the 1999 
+evidentiary hearing, the court found constitutional violations in the areas of inmate protection, use of 
+force, and administrative segregation. No findings were made with regard to the conditions on death row. 
+Moreover, Section XXI and its requirements concerning death row relate in no way to the three ongoing 
+constitutional violations identified by the court. 
+Considering Section XXI in light of the violations identified by the court, there is no basis for retaining 
+this provision of the Final Judgment. There is no evidence in the record to demonstrate that Section XXI 
+of the Final Judgment (1) "remains necessary to correct a current and ongoing violation of the Federal 
+right," (2) "extends no further than necessary to correct the violation of the Federal right," and (3) "is 
+narrowly drawn and the least intrusive means to correct the violation." Section XXI, Death Row, should, 
+therefore, be terminated. 
+V. PROPOSED MODIFICATIONS AND NEW PROSPECTIVE RELIEF 
+As noted in the 1999 Memorandum Opinion, the scope of the evidentiary hearing and the review 
+undertaken in the litigation involving the defendants' motions to terminate was limited to the eight 
+substantive areas over which this court retains jurisdiction, those being: staffing, discipline, administrative 
+segregation, use of force, access to courts, crowding, health services and death row.31 Based exclusively 
+on the evidence presented at the hearing, three areas have been identified in which constitutional 
+violations persist. The relief previously granted and embodied in the 1992 Final Judgment in large part 
+fails to remedy these identified problems, as discussed in detail above. Accordingly, as the Fifth Circuit 
+suggested in Castillo, it is appropriate for the court to consider modified or new relief. See Castillo, 238 
+F.3d at 357 ("[S]hould the existing relief be terminated for failure to meet the requirements of § 
+3626(b)(3), the plaintiffs are entitled to seek new prospective relief, but that relief must also meet the 
+standards set forth in § 3626(a)."); see also Gilmore v. People of the State of California, 220 F.3d 987, 
+1008 (9th Cir. 2000) ("If the existing relief qualifies for termination under § 3626(b)(2), but there is a 
+current and ongoing violation, the district court will have to modify the relief to meet the Act's 
+standards."). 
+It is recognized that the defendants should be given "wide discretion within the bounds of constitutional 
+requirements" to correct the identified violations not otherwise addressed by the continuing provision of 
+the 1992 Final Judgment. Lewis v. Casey, 518 U.S. 343, 363, 116 S.Ct. 2174, 2179, 135 L.Ed.2d 606 
+(1996). Especially in light of the PLRA's requirement that any relief granted should be the least intrusive 
+measure available, the defendants should be given the first opportunity to decide how they will 
+accomplish the correction of the constitutional violation. See id. at 362-63, 116 S.Ct. 2174; 18 U.S.C. § 
+                                                           
+31 Defendants continue to argue that the evidence accepted and considered by the court as the basis of evaluating the 
+existence of ongoing constitutional violations ran beyond the scope of the 1992 Final Judgment. Despite their 
+contentions, it was clearly determined that the adduced evidence was, in fact, limited to the confines of the Final 
+Judgment and those issues over which the court maintains jurisdiction. Ruiz, 37 F.Supp.2d at 871; see also Ruiz v. 
+Estelle, 503 F.Supp. at 1390 ("Jurisdiction of this civil action will be retained, until such time as the court 
+determines that full and complete relief has been obtained for the plaintiff class.").  
+ 
+
+3626(a)(1)(A). Nevertheless, "the federal courts have the power, and the duty, to make their intervention 
+effective." Smith v. Sullivan, 611 F.2d 1039, 1044 (5th Cir.1980). 
+The parties are encouraged to work together to craft remedial measures that will respond effectively to the 
+identified constitutional violations and that will meet the standards set forth in § 3626(a)(1)(A). All 
+attempts should be made to provide the court with a joint proposed remedial order that corrects the 
+continuing injustices and establishes a time frame for final termination of the court's jurisdiction over the 
+Texas prison system. During negotiations, the plaintiffs should bear in mind the principles of deference to 
+the defendants discussed herein. However, it is noted that in the course of these remand proceedings, the 
+plaintiffs have already contemplated and fashioned potential remedial measures. Without opining on their 
+substance or ability to comport with the strict requirements of § 3626(a), it appears to the court that the 
+plaintiffs' proposed form of judgment may be a possible starting point for discussions between the parties. 
+The fact that the plaintiffs' submissions included a proposed termination of the court's jurisdiction on June 
+1, 2002, encourages the court that negotiations between the parties can be fruitful. 
+VI. CONCLUSION 
+It was surmised when the court began its involvement with this civil action that the course would be long 
+and arduous. Indeed, this civil action has become a history unto itself. Over the past twenty-nine years, 
+the TDCJ-ID has vastly improved the system that at one point was incapable of description — the 
+conditions so pernicious, and the inmates' pain and degradation so extensive. See Ruiz v. Estelle, 503 
+F.Supp. at 1390. Yet constitutional violations persist in the Texas prisons, as was determined by this court 
+two years ago. In three major areas — conditions of confinement in administrative segregation, the failure 
+to provide reasonable safety to inmates against assault and abuse, and the excessive use of force by 
+correctional officers in Texas prisons — today's prisoners remain victims of an unconstitutional system. 
+To the extent that the stipulated injunctive relief in the Final Judgment is responsive to these violations, it 
+must be continued. New relief must also be fashioned to correct the continuing violations of the plaintiffs' 
+constitutional rights. So long as these conditions persist, this civil action will remain alive. 

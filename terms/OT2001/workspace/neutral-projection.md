@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-Thirty-two Court events in chunks 1 and 2 are completed. The latest processed event date is 2002-02-20. The next eligible manifest matters are Porter v. Nussle and Swierkiewicz v. Sorema N. A. on 2002-02-26. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date. Chronological processing and authorship assignment order do not create legal priority. Romeu v. Cohen is completed at its February 19 position in the calendar; its prospective equality relief operates from that date.
+48 scheduled Court events in chunks 1–3 are completed; 76 inventory matters remain open. The latest processed event date is 2002-03-27. The next chunk begins with Barnhart v. Walton, Mickens v. Taylor and Steele v. Hamilton County Community Mental Health Board, also dated 2002-03-27. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Hoffman supplies no entering-law premise for those same-day matters. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -210,6 +210,134 @@ States may use the income-first method in the section 1396r-5(e)(2)(C) resource-
 
 Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#wisconsin-department-of-health-and-family-services-v-blumer-merits-2002-02-20).
 
+### Porter v. Nussle — 2002-02-26
+
+From February 26, 2002, individualized episodes of excessive force fall within section 1997e(a). The actual-availability and responsive-process conditions remain. The decision changes no grievance deadline or procedural-default rule and creates no free-standing futility exception; those matters are outside the categorical question reviewed.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#porter-v-nussle-merits-2002-02-26). [Record](../records/porter-v-nussle_merits_2002-02-26.md).
+
+**Current procedural stage:** The case returns through the Second Circuit for application of the exhaustion condition and the stated dismissal rule. Any genuinely preserved availability objection is resolved on supported facts. The constitutional force claim proceeds only through the sequence permitted by the governing statute.
+
+### Swierkiewicz v. Sorema N.A. — 2002-02-26
+
+From February 26, 2002, the ordinary Federal Rules govern these employment-discrimination complaints without a compulsory McDonnell Douglas checklist. Pleading sufficiency permits the case to proceed to the appropriate next stage; liability and evidentiary sufficiency remain governed by their distinct substantive and procedural rules.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#swierkiewicz-v-sorema-na-merits-2002-02-26). [Record](../records/swierkiewicz-v-sorema-na_merits_2002-02-26.md).
+
+**Current procedural stage:** The case returns through the Second Circuit with dismissal set aside for ordinary proceedings on the pleaded Title VII and ADEA claims. The lower courts apply the ordinary procedural rules as the case develops.
+
+### Guest v. Leis — 2002-02-27
+
+From February 27, 2002, restricted bulletin-board subscriber information receives the stated personal, account-specific inquiry; entrustment alone is not a categorical forfeiture. Six Justices support that rule for confidential credentials and five support its stated broader identifying-record scope. The eight-Justice objective immunity holding preserves the existing personal defense and its conduct-date inquiry. A newly recognized constitutional application does not itself defeat that defense, and personal immunity supplies no institutional defense.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#guest-v-leis-merits-2002-02-27). [Record](../records/guest-v-leis_merits_2002-02-27.md).
+
+**Current procedural stage:** The Sixth Circuit judgment is affirmed on the reviewed individual-capacity subscriber claims. The affected institutional and official-capacity subscriber claims return for personal privacy, actual acquisition, subscriber-specific lawful warrant scope, defendant capacity, applicable source of liability, policy or authorized-decision attribution, causation and preserved defenses under the stated rules. The other adjudicated branches remain undisturbed. The remand does not itself require a trial where an independently sufficient legal or undisputed factual ground resolves a claim.
+
+### Raygor v. Regents of University of Minnesota — 2002-02-27
+
+Section 1367(d)'s linked tolling protection excludes the specified nonconsenting State's immune supplemental state-law claims. The independent federal ADEA channel remains valid, and immunity remains claim-specific. The decision rests on statutory coverage, leaving constitutional power to enact a differently specified tolling rule undecided because that issue is unnecessary to this judgment.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#raygor-v-regents-of-university-of-minnesota-merits-2002-02-27). [Record](../records/raygor-v-regents-of-university-of-minnesota_merits_2002-02-27.md).
+
+**Current procedural stage:** The state limitations judgment stands, and this merits review concludes. The final federal dismissal remains undisturbed. Ordinary mandate procedure applies.
+
+### Delaney v. DeTella — 2002-03-04
+
+The binding conditions standard reaches knowing, unreasonable maintenance of the described prolonged exercise deprivation. On those assumed facts the personal defense fails under the law existing in 1996. Individual knowledge, actual response, authority, causation and recoverable injury remain matters for ordinary adjudication; no universal exercise timetable or blanket lockdown exception is created.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#delaney-v-detella-merits-2002-03-04). [Record](../records/delaney-v-detella_merits_2002-03-04.md).
+
+**Current procedural stage:** The Seventh Circuit's legal denial of qualified immunity is affirmed. The case returns for ordinary proceedings concerning each official's knowledge, response, authority and causal responsibility, and the injury and other predicates of the remedy sought. Proper later dispositive motions remain available. Factual disputes excluded from this interlocutory review receive no appellate resolution.
+
+### New York v. FERC / Enron Power Marketing, Inc. v. FERC — 2002-03-04
+
+Independent interstate transmission serving retail purchasers falls within the FPA transmission grant, subject to the retained facilities, entity, state-function and retail-wheeling boundaries. Section 206 remains mandatory upon its stated hearing and unlawfulness finding. This order's separate determination that compulsory retail unbundling was unnecessary sustains its limited remedy; neither the possession of regulatory power nor Enron's preference makes that additional remedy compulsory here. The Court establishes no permanent bundled-transmission exemption or general allocation of bundled-service jurisdiction.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#new-york-v-ferc-enron-power-marketing-inc-v-ferc-merits-2002-03-04). [Record](../records/new-york-v-ferc-enron-power-marketing-inc-v-ferc_merits_2002-03-04.md).
+
+**Current procedural stage:** The D.C. Circuit's judgment is affirmed in Nos. 00-568 and 00-809. The reviewed open-access requirements continue in force, and the request for compulsory additional unbundling in this proceeding is denied. This merits review concludes without an agency remand. Any later proceeding must rest on its own lawful authority, findings and explanation.
+
+### Ruiz v. United States (Ruiz v. Johnson) — 2002-03-04
+
+Prospective prison-decree duties remain subject to the separate statutory termination grounds and amended preservation test. Courts must perform the substantive duty-to-violation inquiry, permit necessary material proof and give effect to completed implementation. Consent, generalized injury findings, missing formulaic language and unavailable later filings supply no automatic answer. The legal standard applies from this decision; it neither establishes current prison conditions nor terminates the continuing action or authorizes proposed new relief.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#ruiz-v-united-states-ruiz-v-johnson-merits-2002-03-04). [Record](../records/ruiz-v-united-states-ruiz-v-johnson_merits_2002-03-04.md).
+
+**Current procedural stage:** The March 2001 appellate judgment is affirmed. The case returns through the Fifth Circuit for any further proceedings actually necessary and lawfully available under that judgment, accounting for the June 18 implementation. Resolve any preserved medical cross-appeal issue still requiring disposition through its actual procedural route; do not duplicate completed work, restart the old ninety-day period, revive withdrawn motions or automatically restore terminated terms. Independent review of June's determinations requires its own proper procedural basis.
+
+### United States v. Vonn — 2002-03-04
+
+Direct review of the forfeited Rule 11 omission uses Rule 52(b) and the relevant existing record. Eight Justices establish the defendant-burden and independent-discretion requirements, and all nine reject a colloquy-only effect inquiry. The judge's personal advice duty remains mandatory. Record-specific effect and justified correction are ordinary applications assigned to the court of appeals under that law.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#united-states-v-vonn-merits-2002-03-04). [Record](../records/united-states-v-vonn_merits_2002-03-04.md).
+
+**Current procedural stage:** The appellate judgment is vacated. On remand the Ninth Circuit must consider the relevant existing record under each Rule 52(b) condition and determine the resulting appellate relief. Other properly remaining issues, including the unresolved perjury-warning contention, retain their actual procedural footing. The mandate itself neither reinstates the convictions conclusively nor grants withdrawal of the pleas.
+
+### Young v. United States — 2002-03-04
+
+The stated three-year lookback excludes a prior bankruptcy stay that actually prohibited collection of the covered tax debt. Motive is immaterial to that legal disability. The tax's substantive burden and statutory priority categories remain unchanged, and other deadlines retain their own text and structure.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#young-v-united-states-merits-2002-03-04). [Record](../records/young-v-united-states_merits_2002-03-04.md).
+
+**Current procedural stage:** The First Circuit's nondischargeability judgment is affirmed. The prior stay is excluded from the lookback, and the surviving liability may be collected through otherwise lawful procedures. The reviewed dischargeability issue is concluded.
+
+### Edelman v. Lynchburg College — 2002-03-19
+
+An otherwise sufficient timely Title VII charge may be verified after the filing period under the lawful relation-back regulation. Seven Justices adopt the independent statutory explanation; two concur in the judgment on a reasonable delegated-choice rationale. Actual verification, timely initiation and charge sufficiency remain separate requirements. The ruling governs verification cure, leaving the underlying employment-practice accrual question to its own statutory analysis.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#edelman-v-lynchburg-college-merits-2002-03-19). [Record](../records/edelman-v-lynchburg-college_merits_2002-03-19.md).
+
+**Current procedural stage:** The case returns through the Fourth Circuit for analysis of whether the original letter was a charge, the preserved significance of later correspondence and the agency's ten-day notice failure, and any remaining defenses under the correct verification rule. Ordinary mandate procedure applies.
+
+### Milstein v. Cooley — 2002-03-19
+
+Absolute prosecutorial immunity continues to turn on the act performed. The pleaded investigation, personal accusing-witness report and press functions remain outside it; the specified legal advocacy remains protected despite allegations of knowing material falsehood. No new dishonesty exception changes that advocacy rule. The surviving claims proceed under ordinary substantive and procedural requirements, with qualified immunity reserved for its proper adjudication.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#milstein-v-cooley-merits-2002-03-19). [Record](../records/milstein-v-cooley_merits_2002-03-19.md).
+
+**Current procedural stage:** The case returns through the Ninth Circuit for further proceedings on the investigative creation, personal crime report, detective work and press claims. The lower courts apply the governing constitutional elements, personal causal responsibility, ordinary proof rules and supported defenses, including the reserved qualified-immunity question under the law governing it. The indictment, information-and-warrant submission and counsel-motion dismissals remain in force.
+
+### Ragsdale v. Wolverine World Wide, Inc. — 2002-03-19
+
+The challenged automatic no-count consequence cannot create an additional twelve-week FMLA entitlement without impairment of the employee's protected rights. Applicable notice obligations and claims for actual harmful interference retain their independent scope, as do greater company rights. The majority's rule invalidates this consequence rather than every designation rule, all prophylactic regulation or every equitable remedy without monetary loss.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#ragsdale-v-wolverine-world-wide-inc-merits-2002-03-19). [Record](../records/ragsdale-v-wolverine-world-wide-inc_merits_2002-03-19.md).
+
+**Current procedural stage:** The judgment against the asserted categorical additional-leave theory stands, and this merits review concludes. Ordinary mandate procedure applies. The decision establishes the stated limit on the regulation without reopening an unsupported alternative claim.
+
+### Zahrey v. Coffey — 2002-03-19
+
+Due process protects against an investigator's deliberate material corruption of the evidentiary process that actually causes unjustified confinement. The same official's subsequent protected use does not automatically erase his earlier actionable causal act. On the stated deliberate creation, intended use and actual deprivation allegations, the personal defense fails under 1996 law. Actual function and the ordinary elements, causation, injury and supported defenses remain for adjudication. The rule creates no liability for fabrication alone, no general malicious-prosecution entitlement and no exception to absolute immunity for advocacy. The litigated personal federal-officer action is preserved without adding an agency, corporate defendant or independent new damages category.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#zahrey-v-coffey-merits-2002-03-19). [Record](../records/zahrey-v-coffey_merits_2002-03-19.md).
+
+**Current procedural stage:** The case returns through the Second Circuit for further proceedings on the personal detention claim against Coffey. The lower court determines actual function and the supported constitutional, causal, injury and personal-defense issues under ordinary civil rules. A truthful independently sufficient detention basis or genuinely independent untainted intervention may defeat causation. Protected grand-jury and bail advocacy remain outside the actionable investigative theory. Compensation requires proved injury attributable to actionable conduct.
+
+### Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker — 2002-03-26
+
+Public-housing leases must permit termination for the statute's defined third-party conduct without a universal tenant-knowledge condition. Actual enforcement remains discretionary within the governing statute, actual lease and operative process. Ignorance alone supplies none of the four categorical constitutional objections rejected here. Due process, expressive and intimate association, and fines protections remain enforceable when their distinct application predicates are established. Bennis's defined property protection and Austin/Bajakajian's separate coverage and proportionality rules retain their force. The remedial ruling removes the invalid categorical injunction grounds while preserving supported individual proceedings; it creates no general innocence immunity or blanket constitutional approval of every eviction.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker-merits-2002-03-26). [Record](../records/department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker_merits_2002-03-26.md).
+
+**Current procedural stage:** The Ninth Circuit judgment is reversed in both dockets. On remand the preliminary injunction must be vacated to the extent specified in Judgment & Remedy. The courts must apply the actual leases and the operative statutory, regulatory and constitutional standards above to properly presented remaining matters. Any continued preliminary protection requires an independently supported ground and the ordinary preliminary-relief showing. Individual eviction proceedings remain subject to the applicable forum, proof and procedural conditions.
+
+### S.S. ex rel. Jervis v. McMullen — 2002-03-26
+
+Officials who actually control a child's custodial placement are subject to the stated substantive-due-process rule when they knowingly and unreasonably use that control to expose the child to a specifically appreciated serious danger despite a real opportunity to respond. Earlier exposure to the same danger and a general reunification objective supply no categorical defense to that affirmative act. The rule requires actual personal knowledge, authority, unreasonable disregard and attributable injury, preserves reasonable professional choices and ordinary nonprotection law, and leaves conduct-date immunity distinct. The independent August-request theory detached from actual custody remains open on the stated record ground; application of the settled custody rule to each proved act is ordinary adjudication.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#s-s-ex-rel-jervis-v-mcmullen-merits-2002-03-26). [Record](../records/s-s-ex-rel-jervis-v-mcmullen_merits_2002-03-26.md).
+
+**Current procedural stage:** The case returns through the Eighth Circuit for proceedings on the reviewed personal claim. The lower court must distinguish the March physical placement, later decisions within retained custody and the August judicial legal transfer; determine each official's information, authority, response and causal role; and address supported function-specific and qualified-immunity defenses under the law governing each act. The judicial order retains its proper force. Properly supported dispositive motions remain available, and relief depends on proved attributable injury under the governing civil rules.
+
+### Hoffman Plastic Compounds, Inc. v. NLRB — 2002-03-27
+
+An established antiunion discharge may carry the limited pre-discovery backpay consequence upheld here despite the employee's lack of authorization and original verification fraud. Labor coverage, the actual employer violation and the legality of a particular remedy remain separate questions. The award must stay within the governing monetary authority and ordinary remedial predicates; it neither guarantees all unauthorized workers backpay nor orders future employment. Immigration verification duties, knowing-employment prohibitions and independently applicable document sanctions remain enforceable. Actual calculation and mitigation objections require their own preserved factual and legal basis; neither blanket forfeiture nor an unsupported new administrative inquiry follows from the statutory dispute.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK3_PUBLIC_LAW.md#hoffman-plastic-compounds-inc-v-nlrb-merits-2002-03-27). [Record](../records/hoffman-plastic-compounds-inc-v-nlrb_merits_2002-03-27.md).
+
+**Current procedural stage:** The en banc judgment enforcing the limited Board order is affirmed. The $66,951 through the last quarter of 1992 remains payable with the order's specified interest and required withholding. Calculation of the separately remaining January 1–June 14, 1993 period proceeds within the existing Board framework, subject to applicable ordinary remedial requirements. This affirmance orders no additional explanation or evidentiary remand, no reinstatement and no postdiscovery accrual based on unauthorized continued employment. Other lawful labor relief and independent immigration proceedings retain their proper routes.
+
 ## Material published noncontrolling positions
 
 ### TRW Inc. v. Andrews — 2001-11-13
@@ -370,6 +498,140 @@ The dissent recognizes that (b)(1) is not a reciprocal nonattribution rule and t
 
 These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#wisconsin-department-of-health-and-family-services-v-blumer-merits-2002-02-20).
 
+### Porter v. Nussle — 2002-02-26
+
+[Record](../records/porter-v-nussle_merits_2002-02-26.md)
+
+No separate writing is filed.
+
+### Swierkiewicz v. Sorema N.A. — 2002-02-26
+
+[Record](../records/swierkiewicz-v-sorema-na_merits_2002-02-26.md)
+
+No separate writing is filed.
+
+### Guest v. Leis — 2002-02-27
+
+[Record](../records/guest-v-leis_merits_2002-02-27.md)
+
+**O'Connor, concurring in part and dissenting in part.** Confidential access credentials have an exclusion function materially different from ordinary provider records. She would vacate the categorical dismissal only at that scope and require a claimant-specific showing on remand. Names, addresses and other routine identifying information deliberately conveyed for administration ordinarily fall within Miller and Smith; expected confidentiality alone does not distinguish them. Ferguson and Denius require attention to what was entrusted and the actual use, but do not establish the broader account rule adopted by five Justices. She joins objective personal immunity and rejects a requirement of actual authoritative reliance.
+
+**Scalia, joined by Kennedy and Thomas, concurring in part and dissenting in part.** The three would affirm the subscriber-information judgment on the merits as well as on personal immunity. Miller and Smith do not depend on public dissemination: they address information voluntarily conveyed to a provider, often with an expectation of limited use. Calling the records digital or credential-related does not establish a constitutional distinction from that settled rule. Kyllo's protection of concealed home information does not control operational information held by a different person. Each claimant still must establish a personal interest and an intrusion; the existing equipment and private-message dispositions are distinct. The three join Part II's independent objective immunity ground.
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins the full privacy rule and both institutional remands but would also vacate personal immunity. After an actionable violation is established under the complete substantive rule, including its reasonable-factual-mistake allowances, he would require the official to identify binding precedent or enacted authority directly authorizing the challenged conduct, prove genuine reliance and show reasonable grounds for treating the permission as valid and applicable. An instruction accurately transmitting the authority may prove reliance; silence, unsettled law, departmental practice, general investigative authority or an ungrounded supervisor or prosecutor assurance would not. Knowing material falsification, concealed disqualifying facts or manufactured authority would defeat reasonable reliance. So would disregard of the authority's apparent limits, apparent unlawfulness under controlling constitutional principles, or a factual mistake already rejected under the substantive merits rule. The protection would include an unexpected change in controlling law that the official could not reasonably anticipate.
+
+He would overrule Harlow and Anderson only insofar as insufficiently clear law independently excuses a proven violation, disapprove Wilson to that extent and retain Elder's consideration of relevant law for the new inquiry. Section 1983's remedial commitment, in his view, warrants that change while concrete reliance protects legitimate official decisiveness. He acknowledges an additional factual inquiry and litigation cost; ordinary pleading and summary-judgment procedures would remain. A valid warrant may defeat the constitutional claim, but its existence alone does not prove actual reliance, and later litigation citations cannot establish the official's 1995 knowledge. A prior judgment granting personal immunity would not itself constitute authority permitting the underlying conduct. He would allow the officials to make the newly required showing on remand. His proposal would not reopen final judgments, change the plaintiff's other elements, create an institutional remedy, displace an independent statutory defense or decide a separate absolute immunity.
+
+### Raygor v. Regents of University of Minnesota — 2002-02-27
+
+[Record](../records/raygor-v-regents-of-university-of-minnesota_merits_2002-02-27.md)
+
+**Stevens, joined by Stone-Zsela, Souter and Breyer, dissenting.** Section 1367(d) protects a related claim actually asserted alongside an authorized federal controversy even when immunity prevents a federal merits judgment on that claim. The filing-related word asserted does work distinct from maintainable. The pending-period and thirty-day protection, subject to longer state tolling, preserve an otherwise available state forum rather than create a new cause, impose liability or waive immunity. The subsection (a) reference supplies original-jurisdiction and relatedness predicates; it need not make eventual adjudicability a further condition absent from the dismissal protection. Pennhurst therefore survives this reading. Kimel supplies the valid federal ADEA anchor, while Schacht keeps the supplemental defense claim-specific. Vermont Agency's exclusion from a sovereign-defendant action does not answer this different procedural effect. The dissent would reverse the categorical exclusion, leaving actual filing arithmetic and remaining independent defenses for the state court and leaving the federal judgment closed.
+
+**Stone-Zsela, separately dissenting.** Congress's authority to implement Article III, together with the Necessary and Proper Clause, permits this reasonable protection against forfeiture while a federal tribunal determines its authority over related claims. The clear statement needed to authorize a treasury judgment cannot be transferred without analysis to a rule preserving time in a state forum the State otherwise permits. Text and procedural structure support coverage: immunity dismissal does not erase the fact that the claim was asserted with a valid federal controversy. The Chief Justice would apply the enacted pending-period and thirty-day protection, subject to a longer state period, while preserving the State's distinct forum immunity, substantive defenses and any independent finality defense. His position supplies no new state cause of action, no authority to reopen the federal dismissal and no automatic finding that these state filings were timely. His proposed construction and remand do not command a majority.
+
+### Delaney v. DeTella — 2002-03-04
+
+[Record](../records/delaney-v-detella_merits_2002-03-04.md)
+
+
+
+### New York v. FERC / Enron Power Marketing, Inc. v. FERC — 2002-03-04
+
+[Record](../records/new-york-v-ferc-enron-power-marketing-inc-v-ferc_merits_2002-03-04.md)
+
+**Thomas, joined by Scalia and Kennedy, concurring in part and dissenting in part.** The three join the unbundled-transmission holding and affirmance in No. 00-568. They would vacate the Enron component and require FERC to reconsider under the proper statutory understanding. Interstate transmission does not cease to be transmission merely because a utility sells it with energy for one charge. Section 206's mandatory corrective duty must be assessed without a categorical jurisdictional exclusion. The agency's coexisting unnecessary-remedy statement is real, but insufficiently explained and independent of its contrary account of jurisdiction to justify the refusal. MCI requires compliance with actual statutory obligations; Gulf Power keeps coverage and an adequately reasoned regulatory choice separate; the reasoning requirements preserved in Mead cannot be satisfied by probable power or counsel's substitute explanation. The three would require an agency determination of the relevant discrimination and an appropriate lawful response. They do not find every bundled transaction unlawful, relieve Enron of its burden, or direct immediate adoption of the open-access tariff. Existing wholesale and unbundled-retail requirements would remain while the agency supplied the necessary explanation.
+
+### Ruiz v. United States (Ruiz v. Johnson) — 2002-03-04
+
+[Record](../records/ruiz-v-united-states-ruiz-v-johnson_merits_2002-03-04.md)
+
+No separate writing is filed.
+
+### United States v. Vonn — 2002-03-04
+
+[Record](../records/united-states-v-vonn_merits_2002-03-04.md)
+
+**Stevens, concurring in part and dissenting in part.** Stevens joins Part II's use of relevant material throughout the official record and agrees that the appellate judgment should be vacated. He rejects Parts I and III's transfer of the effect burden to the defendant. Rule 11 assigns the judge affirmative duties during a procedure in which an uninformed defendant may not recognize the missing advice. Its specific harmless-error provision should therefore leave the Government responsible for showing that the omission was harmless. McCarthy supplies the distinctive judicial obligation; Stevens's Olano dissent distinguishes procedural protections from easily measured outcome injury, and his Johnson join did not decide whether Rule 11(h) controls this separate plea procedure. He would remand for whole-record harmless-error review under Rule 11(h). Earlier recorded advisements may establish actual knowledge under that inquiry, but representation is not itself compliance, and neither automatic invalidation nor invented off-record advice follows from his position.
+
+### Young v. United States — 2002-03-04
+
+[Record](../records/young-v-united-states_merits_2002-03-04.md)
+
+
+
+### Edelman v. Lynchburg College — 2002-03-19
+
+[Record](../records/edelman-v-lynchburg-college_merits_2002-03-19.md)
+
+**Thomas, concurring.** He joins the Court on the understanding that section 713(a) expressly delegates procedural rulemaking, this regulation is reasonable, Title VII does not prohibit it and its promulgation complies with the Administrative Procedure Act. All four conditions matter. The rule completes verification of an existing timely charge; it neither waives a statutory deadline nor recognizes an unrestricted equitable power to excuse procedural requirements. His qualification accompanies his full join in the Court's explanation, rather than substituting a judgment-only ground.
+
+**O'Connor, joined by Scalia, concurring in the judgment.** Reading the provisions together most naturally calls for a verified charge within the filing period. But the statute does not expressly define charge in a way that unambiguously compels that reading. Section 713(a)'s procedural delegation therefore permits the EEOC's reasonable alternative, which preserves both timely initiation and later verified accountability. The rule's binding operation and notice-and-comment repromulgation in 1977 distinguish it from the revisable, nonbinding tariff letters addressed in Mead. Commercial Office Products supports deference on this technical agency procedure. The concurrence also questions how recognition of a possible future reasonable agency change can be reconciled with wholly reserving the deference issue. Neither Justice joins the assertion that the current rule is the best independent statutory reading. Both preserve actual verification, the employer's protection before a required merits response and the separate inquiry into whether the initial letter was a charge.
+
+### Milstein v. Cooley — 2002-03-19
+
+[Record](../records/milstein-v-cooley_merits_2002-03-19.md)
+
+Chief Justice Stone-Zsela concurs in part and dissents in part; no other Justice joins. He agrees that investigative fabrication, personal accusation, detective work and press statements lack absolute immunity. He also preserves immunity for the counsel motion and ordinary advocacy outside his proposed exception. He would vacate the remaining dismissal insofar as it categorically protects knowing material factual fabrication or deliberate false presentation causing an actionable deprivation.
+
+His exception requires knowing fabrication of a materially false fact, deliberate material falsification of an evidentiary record, or knowing presentation of such false facts; an independently actionable constitutional deprivation; the official's own responsibility; and the governing causal connection. Materiality concerns the fact's significance in authorizing or sustaining the deprivation. Error, disputed inference, adverse credibility, mistaken testimony, erroneous legal judgment, malicious motive, reversal of conviction and an unfavorable prosecution outcome do not suffice. The claimant retains ordinary proof burdens, and loss of immunity proves none of these elements.
+
+He would partially overrule Imbler and Fletcher, and Burns to the same extent, because the categorical advocacy bar defeats redress for deliberate manufacture of the factual premise constitutional process must test. He acknowledges Imbler's common-law account and the especially strong continuity owed a statutory precedent. He does not claim that historical immunity already contained the exception or that congressional silence enacted it.
+
+The strongest opposing interest belongs to honest prosecutors: easy accusations of deliberate falsity may be costly to disprove and chill independent advocacy. Criminal sanctions and discipline also supply real deterrence. Stone-Zsela accepts that his proposal increases discovery and litigation costs and weakens protection from suit; saying that no one may legitimately falsify evidence does not answer those costs. At this defined boundary, he gives greater weight to adjudicating a deliberately manufactured constitutional injury. Institutional planning around immunity is a real reliance interest, but no property title, completed transaction or final judgment must be undone. The change would govern this and future open cases without reopening final judgments.
+
+Crawford-El permits clarification, dispositive legal rulings, sequenced relevant discovery and ordinary summary judgment. It does not permit a new heightened evidentiary quantum or a requirement to prove knowledge before obtaining discovery necessary to prove it. These safeguards reduce costs without eliminating them. The claim remains act-specific, not a general dishonesty tort or entitlement to sue for every malicious prosecution. The counsel motion does not become actionable merely because the prosecutors allegedly wanted a conviction.
+
+He would remand for that bounded inquiry. Qualified immunity remains reserved and must be decided under the law actually governing it, including applicable intervening decisions; his proposed absolute-immunity change neither grants nor rejects that defense. Constitutional elements, personal participation, materiality, causation, damages and remaining defenses require independent adjudication. No separate witness immunity, independent constitutional privilege, municipal-liability rule, new interlocutory appeal or mandatory discovery or trial program is resolved.
+
+### Ragsdale v. Wolverine World Wide, Inc. — 2002-03-19
+
+[Record](../records/ragsdale-v-wolverine-world-wide-inc_merits_2002-03-19.md)
+
+**O'Connor, joined by Souter, Ginsburg and Breyer, dissenting.** The FMLA does not give an employer an unconditional right to count all qualifying company leave retroactively against the protected allotment. Section 2654 permits the Secretary to require timely designation as a condition on that counting. The rule identifies which leave consumes the statutory right, rather than creating a monetary award for every omission. Greater-benefit provisions and the need for usable notice support keeping undesignated company leave distinct from the statutory allotment.
+
+The rule's safeguards matter. Designation follows qualifying information; the ordinary two-business-day period permits extenuating circumstances. Later knowledge and provisional designation pending certification can permit the specified retrospective operation. The dissent does not treat every first-day failure as irreversible or require all company benefits to run sequentially. Nor does it assume that Ragsdale was eligible when she first stopped work in February; the supported eligibility date is the March extension.
+
+The majority's lack-of-prejudice objection, in the dissent's view, confuses the entitlement's lawful definition with the requirements for an actual award. A predictable designation rule makes leave usable without forcing an employee to reconstruct every hypothetical choice. Mourning supports appropriate prophylactic implementation, and Christensen's distinction between an advisory position and a valid regulation leaves this delegated rule open for independent evaluation. MCI's explicit filing duty and Sigmon Coal's missing liable-person category differ from the absence of an unconditional concurrent-counting command here.
+
+The four would reverse and remand to apply the undiminished entitlement and then determine the actual violation and appropriate relief under section 2617. They do not infer earlier work capacity, a medically available reduced schedule, actual monetary loss or automatic reinstatement from the omitted designation. Ragsdale's postdischarge request and December release retain their actual dates. Ordinary employer and employee notice obligations remain distinct, and no paid-leave finding is supplied.
+
+### Zahrey v. Coffey — 2002-03-19
+
+[Record](../records/zahrey-v-coffey_merits_2002-03-19.md)
+
+Justice Scalia dissents, joined by Justice Thomas. They would reverse the reinstatement of the reviewed personal damages claim because the asserted due-process boundary was not sufficiently clear in 1996. They do not decide that deliberate fabrication can never violate the Constitution or that a properly presented Fourth Amendment claim necessarily fails.
+
+Mooney, Pyle and Napue concern deliberate falsehood in the adjudication of guilt. Franks and Malley identify a specific seizure-based protection against material deception. Those authorities forcefully condemn the alleged conduct, but the present theory combines investigative fabrication, pretrial rather than postconviction custody, and the same official's later absolutely protected advocacy. Buckley separated immunity from an actionable constitutional injury and expressly reserved the latter. Albright produced distinct approaches to the constitutional source of a prosecution-related injury, not a settled general due-process rule.
+
+The adverse decision on remand in Buckley, 20 F.3d 789, and Rhodes, 939 F.Supp. 1256, demonstrate substantive uncertainty about a closely related theory. The objection is therefore more than the absence of a factual twin. Anderson requires particularized legal clarity; neither the moral wrongfulness of lying nor a later explanation of why the claim should succeed supplies that clarity at the conduct date. The dissenters would not make every circuit disagreement sufficient for immunity, but find this combination of source, injury and capacity uncertainties material. Later Fletcher and Clanton cannot settle the question retrospectively.
+
+Both Justices accept that title and subsequent advocacy do not transform a conceded investigative act into protected advocacy. They also preserve the distinction between lack of absolute immunity and constitutional or damages liability. Their proposed judgment rests on qualified immunity for this pleaded theory, leaves the ultimate scope of a properly presented constitutional claim open, and supplies neither approval of the alleged misconduct nor an extension of judgment to other defendants or excluded claims.
+
+### Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker — 2002-03-26
+
+[Record](../records/department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker_merits_2002-03-26.md)
+
+No separate writing is filed.
+
+### S.S. ex rel. Jervis v. McMullen — 2002-03-26
+
+[Record](../records/s-s-ex-rel-jervis-v-mcmullen_merits_2002-03-26.md)
+
+No separate writing is filed.
+
+### Hoffman Plastic Compounds, Inc. v. NLRB — 2002-03-27
+
+[Record](../records/hoffman-plastic-compounds-inc-v-nlrb_merits_2002-03-27.md)
+
+**O'Connor, dissenting, joined by Scalia, Kennedy and Thomas.** The dissent would reverse enforcement of this backpay category because it replaces earnings from an employment opportunity federal law made unavailable and Castro obtained through fraudulent verification. Section 10(c)'s public remedial purpose does not permit the Board to restore that lost-work premise in conflict with the independent federal employment scheme. The payment need not itself constitute hiring, and IRCA need not expressly repeal backpay, for that remedial conflict to matter.
+
+Southern Steamship requires the Board to respect the independent prohibition. Sure-Tan's legal-availability limit remains significant despite its different departure facts; the dissent's sufficient ground is the operative immigration scheme and the established original fraud and lack of authorization, not that precedent's sentence alone. ABF addressed misconduct that did not render the underlying employment federally unavailable and preserves only lawful remedial discretion. McKennon's later-discovered employer ground does not authorize compensation premised on employment forbidden by another enactment. Its actual-would-discharge requirement therefore does not resolve this different statutory bar.
+
+The discovery cutoff and denial of reinstatement prevent future employment, but do not remove the defect in replacement wages for the earlier unauthorized position. The majority's concern that employers may exploit this workforce is substantial. The established labor violation, cease-and-desist and notice obligations, and other lawful remedies nevertheless cannot supply authority for this conflicting wage-replacement category. Nor can a public deterrence objective alone overcome the remedial limit.
+
+The present-tense testimony supports continued-use concerns, but the dissent needs no finding that every interim job required new false documents, that the Board induced fraud, or that a particular post-1990 document violation occurred. It does not apply section 1324c to the original hiring. Its proposed reversal preserves NLRA coverage, the employer's violation, other lawful relief and independent immigration enforcement. It decides neither earned wages nor every remedy involving an unauthorized worker. It would return only for implementation of the backpay bar, not a new mitigation hearing or an additional punitive-remedy holding.
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -389,11 +651,13 @@ These published positions are noncontrolling at the stated scope. [Public opinio
 | Verizon Maryland Inc. v. Public Service Commission of Maryland / United States v. Public Service Commission of Maryland | 2002-05-20 | The historical record identifies O’Connor’s nonparticipation; no independent simulated participation order is supplied. | Establish participation at argument or submission and at decision; no simulated nonparticipation is established. |
 | Mathias v. WorldCom Technologies, Inc. | 2002-05-20 | The historical record identifies O’Connor’s nonparticipation. No separate simulated order is supplied. | Establish participation at argument or submission and at decision; no simulated nonparticipation is established. |
 
-All nine Justices are seated. Seniority is Stone-Zsela as Chief Justice, followed among the Associates by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Case-specific participation is determined at argument or submission and again at decision. No supplied neutral participation field establishes a case-specific simulated exclusion. O'Connor's three historical nonparticipation references are Run flags only; the [manifest](manifest.md#participation-flags-for-run) preserves their terms.
+All nine Justices are seated. Seniority is Stone-Zsela as Chief Justice, followed among the Associates by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Case-specific participation is determined at argument or submission and again at decision. The opening neutral participation fields alone established no exclusion; the completed Rucker Record now states the case-specific nonparticipation established during source validation. O'Connor's three historical nonparticipation references are Run flags only; the [manifest](manifest.md#participation-flags-for-run) preserves their terms.
 
 The August 3, 1994 allotment order remains in force: Stone-Zsela—District of Columbia, Fourth and Federal; Breyer—First; Ginsburg—Second; Souter—Third; Scalia—Fifth; Stevens—Sixth and Seventh; O'Connor—Eighth and Tenth; Kennedy—Ninth; Thomas—Eleventh. The Court's standing referral, signed-explanation and certification practice remains as stated in Standing State section 3.
 
 All nine Justices participated in each chunk 2 decision, including Gulf Power. Remaining case-specific flags require validation at their own events.
+
+Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated. Breyer took no part in the consideration or decision of these cases.
 
 ## Circuit allotments
 
@@ -447,6 +711,6 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 92 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 76 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.

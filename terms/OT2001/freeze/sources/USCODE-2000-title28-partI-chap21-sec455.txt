@@ -1,0 +1,84 @@
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
+
+§ 455
+
+action or proceeding and enumeration of the acts which may be performed by the court. This is in accord with Rules 45(c) and 56 of the new Federal Rules of Criminal Procedure which contain similar provisions with respect to criminal procedure both in the courts of appeals and in the district courts.
+Rules 6(c) and 77(a) of the Federal Rules of Civil Procedure contain provisions similar to the second and first paragraphs, respectively, of this section with respect to civil actions in district courts.
+AMENDMENTS
+1963—Pub. L. 88–139 substituted ‘‘expiration of sessions’’ for ‘‘terms’’ in section catchline, and ‘‘session’’ for ‘‘term’’ in text.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 460 of this title.
+§ 453. Oaths of justices and judges
+Each justice or judge of the United States shall take the following oath or affirmation before performing the duties of this office: ‘‘I, lll lll, do solemnly swear (or affirm) that I will administer justice without respect to persons, and do equal right to the poor and to the rich, and that I will faithfully and impartially discharge and perform all the duties incumbent upon me as lll under the Constitution and laws of the United States. So help me God.’’
+(June 25, 1948, ch. 646, 62 Stat. 907; Pub. L. 101–650, title IV, § 404, Dec. 1, 1990, 104 Stat. 5124.)
+HISTORICAL AND REVISION NOTES
+Based on title 28, U.S.C., 1940 ed., §§ 241, 372, and District of Columbia Code, 1940 ed., §§ 11–203, 11–303 (R.S.D.C., § 752, 18 Stat. pt. II, 90; Feb. 9, 1893, ch. 74, § 3, 27 Stat. 435; Mar. 3, 1901, ch. 854, § 223, 31 Stat. 1224; Mar. 3, 1911, ch. 231, §§ 136, 137, 257, 36 Stat. 1135, 1161; Feb. 25, 1919, ch. 29, § 4, 40 Stat. 1157).
+This section consolidates sections 11–203 and 11–303 of District of Columbia Code, 1940 ed., and section 372 of title 28, U.S.C., 1940 ed., with that portion of section 241 of said title 28 providing that judges of the Court of Claims shall take an oath of office. The remainder of said section 241 comprises sections 171 and 173 of this title.
+The phrase ‘‘justice or judge of the United States’’ was substituted for ‘‘justices of the Supreme Court, the circuit judges, and the district judges’’ appearing in said section 372, in order to extend the provisions of this section to judges of the Court of Claims, Customs Court, and Court of Customs and Patent Appeals and to all judges of any court which may be created by enactment of Congress. See definition in section 451 of this title.
+The Attorney General has ruled that the expression ‘‘any judge of any court of the United States’’ applied to the Chief Justice and all judges of the Court of Claims. (21 Op. Atty. Gen. 449.)
+AMENDMENTS
+1990—Pub. L. 101–650 substituted ‘‘under the Constitution’’ for ‘‘according to the best of my abilities and understanding, agreeably to the Constitution’’.
+EFFECTIVE DATE OF 1990 AMENDMENT
+Amendment by Pub. L. 101–650 effective 90 days after Dec. 1, 1990, see section 407 of Pub. L. 101–650, set out as a note under section 332 of this title.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in sections 153, 460, 631, 655 of this title.
+
+§ 454. Practice of law by justices and judges
+Any justice or judge appointed under the authority of the United States who engages in the practice of law is guilty of a high misdemeanor.
+(June 25, 1948, ch. 646, 62 Stat. 908.)
+HISTORICAL AND REVISION NOTES
+Based on title 28, U.S.C., 1940 ed., § 373 (Mar. 3, 1911, ch. 231, § 258, 36 Stat. 1161).
+Changes in phraseology were made.
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in section 460 of this title.
+§ 455. Disqualification of justice, judge, or magistrate judge
+(a) Any justice, judge, or magistrate judge of the United States shall disqualify himself in any proceeding in which his impartiality might reasonably be questioned.
+(b) He shall also disqualify himself in the following circumstances:
+(1) Where he has a personal bias or prejudice concerning a party, or personal knowledge of disputed evidentiary facts concerning the proceeding;
+(2) Where in private practice he served as lawyer in the matter in controversy, or a lawyer with whom he previously practiced law served during such association as a lawyer concerning the matter, or the judge or such lawyer has been a material witness concerning it;
+(3) Where he has served in governmental employment and in such capacity participated as counsel, adviser or material witness concerning the proceeding or expressed an opinion concerning the merits of the particular case in controversy;
+(4) He knows that he, individually or as a fiduciary, or his spouse or minor child residing in his household, has a financial interest in the subject matter in controversy or in a party to the proceeding, or any other interest that could be substantially affected by the outcome of the proceeding;
+(5) He or his spouse, or a person within the third degree of relationship to either of them, or the spouse of such a person:
+(i) Is a party to the proceeding, or an officer, director, or trustee of a party;
+(ii) Is acting as a lawyer in the proceeding; (iii) Is known by the judge to have an interest that could be substantially affected by the outcome of the proceeding; (iv) Is to the judge’s knowledge likely to be a material witness in the proceeding.
+(c) A judge should inform himself about his personal and fiduciary financial interests, and make a reasonable effort to inform himself about the personal financial interests of his spouse and minor children residing in his household.
+(d) For the purposes of this section the following words or phrases shall have the meaning indicated:
+(1) ‘‘proceeding’’ includes pretrial, trial, appellate review, or other stages of litigation;
+(2) the degree of relationship is calculated according to the civil law system;
+
+§ 456
+
+TITLE 28—JUDICIARY AND JUDICIAL PROCEDURE
+
+(3) ‘‘fiduciary’’ includes such relationships as executor, administrator, trustee, and guardian;
+(4) ‘‘financial interest’’ means ownership of a legal or equitable interest, however small, or a relationship as director, adviser, or other active participant in the affairs of a party, except that:
+(i) Ownership in a mutual or common investment fund that holds securities is not a ‘‘financial interest’’ in such securities unless the judge participates in the management of the fund;
+(ii) An office in an educational, religious, charitable, fraternal, or civic organization is not a ‘‘financial interest’’ in securities held by the organization;
+(iii) The proprietary interest of a policyholder in a mutual insurance company, of a depositor in a mutual savings association, or a similar proprietary interest, is a ‘‘financial interest’’ in the organization only if the outcome of the proceeding could substantially affect the value of the interest;
+(iv) Ownership of government securities is a ‘‘financial interest’’ in the issuer only if the outcome of the proceeding could substantially affect the value of the securities.
+(e) No justice, judge, or magistrate judge shall accept from the parties to the proceeding a waiver of any ground for disqualification enumerated in subsection (b). Where the ground for disqualification arises only under subsection (a), waiver may be accepted provided it is preceded by a full disclosure on the record of the basis for disqualification.
+(f) Notwithstanding the preceding provisions of this section, if any justice, judge, magistrate judge, or bankruptcy judge to whom a matter has been assigned would be disqualified, after substantial judicial time has been devoted to the matter, because of the appearance or discovery, after the matter was assigned to him or her, that he or she individually or as a fiduciary, or his or her spouse or minor child residing in his or her household, has a financial interest in a party (other than an interest that could be substantially affected by the outcome), disqualification is not required if the justice, judge, magistrate judge, bankruptcy judge, spouse or minor child, as the case may be, divests himself or herself of the interest that provides the grounds for the disqualification.
+(June 25, 1948, ch. 646, 62 Stat. 908; Pub. L. 93–512, § 1, Dec. 5, 1974, 88 Stat. 1609; Pub. L. 95–598, title II, § 214(a), (b), Nov. 6, 1978, 92 Stat. 2661; Pub. L. 100–702, title X, § 1007, Nov. 19, 1988, 102 Stat. 4667; Pub. L. 101–650, title III, § 321, Dec. 1, 1990, 104 Stat. 5117.)
+HISTORICAL AND REVISION NOTES
+Based on title 28, U.S.C., 1940 ed., § 24 (Mar. 3, 1911, ch. 231, § 20, 36 Stat. 1090).
+Section 24 of title 28, U.S.C., 1940 ed., applied only to district judges. The revised section is made applicable to all justices and judges of the United States.
+The phrase ‘‘in which he has a substantial interest’’ was substituted for ‘‘concerned in interest in any suit.’’
+The provision of section 24 of title 28, U.S.C., 1940 ed., as to giving notice of disqualification to the ‘‘senior circuit judge,’’ and words ‘‘and thereupon such proceed-
+
+ings shall be had as are provided in sections 17 and 18 of this title,’’ were omitted as unnecessary and covered by section 291 et seq. of this title relating to designation and assignment of judges. Such provision is not made by statute in case of disqualification or incapacity, for other cause. See sections 140, 143, and 144 of this title. If a judge or clerk of court is remiss in failing to notify the chief judge of the district or circuit, the judicial council of the circuit has ample power under section 332 of this title to apply a remedy.
+Relationship to a party’s attorney is included in the revised section as a basis of disqualification in conformity with the views of judges cognizant of the grave possibility of undesirable consequences resulting from a less inclusive rule.
+Changes were made in phraseology.
+AMENDMENTS
+1988—Subsec. (f). Pub. L. 100–702 added subsec. (f). 1978—Pub. L. 95–598 struck out references to referees in bankruptcy in section catchline and in subsecs. (a) and (e). 1974—Pub. L. 93–512 substituted ‘‘Disqualification of justice, judge, magistrate, or referee in bankruptcy’’ for ‘‘Interest of justice or judge’’ in section catchline, reorganized structure of provisions, and expanded applicability to include magistrates and referees in bankruptcy and grounds for which disqualification may be based, and inserted provisions relating to waiver of disqualification.
+CHANGE OF NAME
+Words ‘‘magistrate judge’’ substituted for ‘‘magistrate’’ in section catchline and wherever appearing in subsecs. (a), (e), and (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+EFFECTIVE DATE OF 1978 AMENDMENT
+Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy. For procedures relating to Bankruptcy matters during transition period see note preceding section 151 of this title.
+EFFECTIVE DATE OF 1974 AMENDMENT
+Section 3 of Pub. L. 93–512 provided that: ‘‘This Act [amending this section] shall not apply to the trial of any proceeding commenced prior to the date of this Act [Dec. 5, 1974], nor to appellate review of any proceeding which was fully submitted to the reviewing court prior to the date of this Act.’’
+SECTION REFERRED TO IN OTHER SECTIONS
+This section is referred to in sections 460, 653, 655 of this title; title 38 section 7264.
+§ 456. Traveling expenses of justices and judges; official duty stations
+(a) The Director of the Administrative Office of the United States Courts shall pay each justice or judge of the United States, and each retired justice or judge recalled or designated and assigned to active duty, while attending court or transacting official business at a place other than his official duty station for any continuous period of less than thirty calendar days (1) all necessary transportation expenses certified by the justice or judge; and (2) payments for subsistence expenses at rates or in amounts which the Director establishes, in accordance with regulations which the Director shall prescribe with the approval of the Judicial Conference of the United States and after considering the rates or amounts set by the Administrator of General
+
+

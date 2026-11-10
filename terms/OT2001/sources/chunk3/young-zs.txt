@@ -1,0 +1,26 @@
+YOUNG V. UNITED STATES
+LII
+Supreme Court
+YOUNG V. UNITED STATES (00-1567)
+233 F.3d 56, affirmed.
+Syllabus
+Opinion
+[ Scalia ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+YOUNG et ux. v. UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIRST CIRCUIT
+No. 00—1567. Argued January 9, 2002–Decided March 4, 2002
+If the Internal Revenue Service (IRS) has a claim for certain taxes for which the return was due within three years before the individual taxpayer files a bankruptcy petition, its claim enjoys eighth priority under 11 U.S.C. § 507(a)(8)(A)(i), and is nondischargeable in bankruptcy under §523(a)(1)(A). The IRS assessed a tax liability against petitioners for their failure to include payment with their 1992 income tax return filed on October 15, 1993. On May 1, 1996, petitioners filed a Chapter 13 bankruptcy petition, which they moved to dismiss before a reorganization plan was approved. On March 12, 1997, the day before the Bankruptcy Court dismissed the Chapter 13 petition, petitioners filed a Chapter 7 petition. A discharge was granted, and the case was closed. When the IRS subsequently demanded that they pay the tax debt, petitioners asked the Bankruptcy Court to reopen the Chapter 7 case and declare the debt discharged under §523(a)(1)(A), claiming that it fell outside §507(a)(8)(A)(i)’s “three-year lookback period” because it pertained to a tax return due more than three years before their Chapter 7 filing. The court reopened the case, but sided with the IRS. Petitioners’ tax return was due more than three years before their Chapter 7 filing but less than three years before their Chapter 13 filing. Holding that the “lookback period” is tolled during the pendency of a prior bankruptcy petition, the court concluded that the 1992 debt had not been discharged when petitioners were granted a discharge under Chapter 7. The District Court and the First Circuit agreed.
+Held: Section 507(a)(8)(A)(i)’s lookback period is tolled during the pendency of a prior bankruptcy petition. Pp. 3—11.
+(a) The lookback period is a limitations period subject to traditional equitable tolling principles. It prescribes a period in which certain rights may be enforced, encouraging the IRS to protect its rights before three years have elapsed. Thus, it serves the same basic policies furthered by all limitations periods: “repose, elimination of stale claims, and certainty about a plaintiff’s opportunity for recovery and a defendant’s potential liabilities.” Rotella v. Wood, 528 U.S. 549, 555. The fact that the lookback commences on a date that may precede the date when the IRS discovers its claim does not make it a substantive component of the Bankruptcy Code as petitioners claim. Pp. 2—6.
+(b) Congress is presumed to draft limitations periods in light of the principle that such periods are customarily subject to equitable tolling unless tolling would be inconsistent with statutory text. Tolling is appropriate here. Petitioners’ Chapter 13 petition erected an automatic stay under §362(a), which prevented the IRS from taking steps to collect the unpaid taxes. When petitioners later filed their Chapter 7 petition, the three-year lookback period therefore excluded time during which their Chapter 13 petition was pending. Because their 1992 tax return was due within that three-year period, the lower courts properly held that the tax debt was not discharged. Tolling is appropriate regardless of whether petitioners filed their Chapter 13 petition in good faith or solely to run down the lookback period. In either case, the IRS was disabled from protecting its claim. Pp. 6—8.
+(c) The statutory provisions invoked by petitioners–§§523(b), 108(c), and 507(a)(8)(A)(ii)–do not display an intent to preclude tolling here. Pp. 8—10.
+233 F.3d 56, affirmed.
+Scalia, J., delivered the opinion for a unanimous Court.

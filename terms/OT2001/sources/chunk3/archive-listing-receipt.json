@@ -1,0 +1,152 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (identifier:*00-1770* OR title:Rucker)",
+    "matches": 12,
+    "items": [
+      [
+        "micro_IA34086415_1898",
+        "Rucker v. First National Bank, 321 U.S. 769 (1944) (No. 571)"
+      ],
+      [
+        "micro_IA40385010_2254",
+        "Rucker v. Harford County, 502 U.S. 1097 (1992) (No. 91-1049)"
+      ],
+      [
+        "micro_IA40385004_2022",
+        "Rucker v. Bell, 434 U.S. 919 (1977) (No. 76-1789)"
+      ],
+      [
+        "micro_IA40385007_0740",
+        "Rucker Co. v. Shell Oil Co., 449 U.S. 1112 (1981) (No. 80-732)"
+      ],
+      [
+        "micro_IA40385014_0467",
+        "Department of Housing and Urban Development v. Rucker, 535 U.S. 125 (2002) (No. 00-1770)"
+      ],
+      [
+        "micro_IA40386015_0024",
+        "Rucker v. Potter, Postmaster General, 537 U.S. 967 (2002) (No. 01-10374)"
+      ],
+      [
+        "micro_IA40385014_0470",
+        "Oakland Housing Authority v. Rucker, 534 U.S. 813 (2001) (No. 00-1781)"
+      ],
+      [
+        "micro_IA40386002_1439",
+        "Rucker v. Citicorp Savings of Illinois, 519 U.S. 818 (1996) (No. 95-1963)"
+      ],
+      [
+        "per_scotus_1887_1306",
+        "Atterson W. Rucker, Plaintiff in Error, vs. Jerome B. Wheeler. 1887: Vol 1306"
+      ],
+      [
+        "micro_IA40386419_0054",
+        "Rucker v. Ohio (No. 710)"
+      ],
+      [
+        "micro_IA40386002_1326",
+        "Rucker v. Illinois Civil Service Commission, 518 U.S. 1019 (1996) (No. 95-1838)"
+      ],
+      [
+        "micro_IA40386016_2305",
+        "Rucker v. Potter (No. 06-1442)"
+      ]
+    ]
+  },
+  {
+    "query": "collection:us-supreme-court AND (identifier:*00-1595* OR title:Hoffman)",
+    "matches": 90,
+    "items": [
+      [
+        "micro_IA40385017_0187",
+        "Hoffman v. Eti-Quette Assaf Ltd., 474 U.S. 1001 (1985) (No. 84-1815)"
+      ],
+      [
+        "micro_IA40385003_2383",
+        "Gustafson v. Hoffman, 429 U.S. 806 (1976) (No. 75-1672)"
+      ],
+      [
+        "micro_IA40386006_0650",
+        "Hoffman v. Missouri Ex Rel. Foraker, 274 U.S. 21 (1927) (No. 225)"
+      ],
+      [
+        "micro_IA40385603_0691",
+        "Hoffman v. United States, 389 U.S. 843 (1967) (No. 349)"
+      ],
+      [
+        "micro_IA40385006_1230",
+        "Hoffman v. United States, 444 U.S. 1073 (1980) (No. 79-753)"
+      ],
+      [
+        "micro_IA40385015_0005",
+        "Arave v. Hoffman, 552 U.S. 117 (2008) (No. 07-110)"
+      ],
+      [
+        "micro_IA40386007_1496",
+        "Hoffman Controls Corp. v. Burgess-SAIA, Inc., 516 U.S. 1159 (1996) (No. 95-1069)"
+      ],
+      [
+        "micro_IA40386017_1045",
+        "Hoffman v. United Airlines, Inc., 130 S. Ct. 749 (2009) (No. 09-374)"
+      ],
+      [
+        "micro_IA40385012_0256",
+        "Hoffman v. Connecticut Dept. of Income Maintenance, 492 U.S. 96 (1989) (No. 88-412)"
+      ],
+      [
+        "micro_IA40386019_1717",
+        "Hoffman v. United States, 531 U.S. 879 (2000) (No. 00-193)"
+      ],
+      [
+        "micro_IA40386406_0058",
+        "United States v. Hoffman, 335 U.S. 77 (1948) (No. 97)"
+      ],
+      [
+        "per_scotus_1868_248",
+        "The People of the State of New York Ex Rel. The National Broadway Bank, Plaintiffs in Error, vs. John T. Hoffman, Mayor, and Richard T. Con-Nolly, Comptroller, Etc. 1868: Vol 248"
+      ],
+      [
+        "micro_IA40385019_0307",
+        "Hoffman v. United States, 484 U.S. 822 (1987) (No. 86-1909)"
+      ],
+      [
+        "per_scotus_1891_483",
+        "Mrs. Mary Corinne Warren Fleitas, Appellant, vs. Gilbert M. Richardson, Albert E. Shattuck, Frank Hoffman, et al. 1891: Vol 483"
+      ],
+      [
+        "per_scotus_1884_528-529",
+        "No. 528.-Louis A. Von Hoffman and William Mertens, copartners as L. Von Hoffman & Company, Appellants, vs. The United States. No. 529.-The United States, Appellants, vs. The Manhattan Savings Institution. 1884: Vol 528-529"
+      ],
+      [
+        "micro_IA40386006_0252",
+        "North Laramie Land Co. v. Hoffman, 268 U.S. 276 (1925) (No. 323)"
+      ],
+      [
+        "micro_IA40385011_0949",
+        "Hughes v. Hoffman, 465 U.S. 1023 (1984) (No. 83-793)"
+      ],
+      [
+        "micro_IA40385010_1038",
+        "Hoffman v. South Carolina, 464 U.S. 821 (1983) (No. 82-1942)"
+      ],
+      [
+        "micro_IA40386014_1865",
+        "Arave v. Hoffman, 534 U.S. 944 (2001) (No. 00-1775)"
+      ],
+      [
+        "micro_IA40386017_2163",
+        "Hoffman v. Sandia Resort & Casino, 562 U.S. 889 (2010) (No. 10-4)"
+      ]
+    ]
+  },
+  {
+    "query": "collection:us-supreme-court AND (identifier:*00-1514* OR title:Raygor)",
+    "matches": 1,
+    "items": [
+      [
+        "micro_IA40385014_0457",
+        "Raygor v. Regents of Univ. of Minn., 534 U.S. 533 (2000) (No. 00-1514)"
+      ]
+    ]
+  }
+]
