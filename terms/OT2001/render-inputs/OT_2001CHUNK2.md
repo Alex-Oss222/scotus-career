@@ -1,9 +1,6 @@
 # OT_2001CHUNK2 Render Input
 
-**October Term:** 2001. **Completed events:** 15. **Chronological range:** 2002-01-09 through 2002-02-20.
-
-**Stopped matters:**
-- Romeu v. Cohen: The independently presented federal UOCAVA equality claim and the existing dismissal of that claim lack a completed disposition. The matter remains open; no Court action has issued.
+**October Term:** 2001. **Completed events:** 16. **Chronological range:** 2002-01-09 through 2002-02-20.
 
 <!-- source-record: kelly-v-south-carolina_merits_2002-01-09.md -->
 ## Event
@@ -1147,6 +1144,114 @@ The case returns to the Tenth Circuit for proceedings consistent with the limite
 ## Source Notes
 
 20 U.S.C. §1232g(a)(4)(A), (B)(i); 42 U.S.C. §1983; Owasso Independent School District No. I-011 v. Falvo, No. 00-1073. The challenged practice is temporary peer grading and reporting, not later institutional retention.
+
+---
+
+<!-- source-record: romeu-v-cohen_merits_2002-02-19.md -->
+## Event
+
+Romeu v. Cohen. Decided February 19, 2002. On review of the Second Circuit's October 31, 2000 affirmance, explained September 6, 2001, at 265 F.3d 118; lower-court Nos. 00-6287 and 00-6303. The judgment on the pleadings dismissed the challenge to federal and New York presidential absentee eligibility. The question is whether those laws may preserve the former-state presidential franchise for otherwise qualified former residents abroad while completely excluding a comparable former resident who moves to Puerto Rico. Romeu seeks participation through New York's existing electors; Igartua De La Rosa presents the distinct question of territorial electoral allocation.
+
+## Participation
+
+All nine Justices participated: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+## Public Action
+
+The Court reverses dismissal of the federal and state equality claims and remands for prospective relief. The independent entitlement theories supply no additional ground for relief.
+
+## Judgment & Remedy
+
+| Component | Disposition and vote | Supporting | Opposing |
+|---|---|---|---|
+| Federal equality challenge to UOCAVA | Dismissal reversed; remanded for prospective declaratory relief, 5–4 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas, Breyer |
+| State equality challenge to New York Election Law §11-200(1) | Dismissal reversed; remanded for prospective injunctive relief, 5–4 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg | O'Connor, Scalia, Thomas, Breyer |
+
+The federal declaration, directed to the responsible federal officer, must state that UOCAVA's overseas-voter definitions in §1973ff-6(5)(B) and (C) may not be applied to deny an otherwise comparably qualified Romeu the presidential absentee eligibility preserved for former residents abroad solely because he resides in Puerto Rico. That direction includes the departure-linked former-domicile condition insofar as it recreates the same exclusion despite his last relevant state domicile in New York before moving to Puerto Rico. The declaration operates as applied; it does not deem Puerto Rico foreign or redefine the United States throughout the Act.
+
+The state injunction must prevent the responsible New York election official from denying an otherwise qualified Romeu access to the existing presidential absentee program because of Puerto Rico residence, abode or domicile, registration, or voting in local elections. It must also disapply the departure-from-the-United-States formulation insofar as that formulation would independently exclude him despite his last relevant state domicile in New York. These qualifications are unenforceable in this application; the decree does not delete them throughout every federal-election provision.
+
+The lower court must determine the remaining ordinary former-residence, age, registration and authentication facts and implement prospective equal access. A restriction against a second presidential vote remains permissible; Puerto Rico's local vote is not such a vote. New York may not equalize by withdrawing ballots required by UOCAVA's continuing overseas minimum. Relief operates through New York's existing electors, creates no territorial electors, orders no change to another State's program and reopens no completed election.
+
+The eight Associates reject the asserted independent travel, Article IV and general due-process entitlements. Stone-Zsela does not reach those theories. Their rejection is not a separate partial affirmance of either equality dismissal.
+
+## Opinion Topology
+
+| Writing | Author | Joined by | Relationship to judgment | Scope joined |
+|---|---|---|---|---|
+| Opinion of the Court, Part I | Souter | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Common threshold and statutory ground | Recurring prospective dispute; distinct federal and state claims; UOCAVA as a minimum |
+| Opinion of the Court, Parts II, III and V | Souter | Stone-Zsela, Stevens, Kennedy, Ginsburg | Supports reversal of both equality dismissals | State equality and injunction; federal equality and declaration; prospective remand and limits |
+| Opinion of the Court, Part IV | Souter | Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Rejects additional independent entitlement grounds | No permanent former-state franchise under the asserted travel, Article IV or general due-process theories; Stone-Zsela does not reach this part |
+| Concurring in part and dissenting in part | O'Connor | Scalia, Thomas, Breyer | Would affirm both equality dismissals; joins Parts I and IV | Domestic political membership and the limited overseas accommodation justify the distinctions |
+
+Stevens, Kennedy and Ginsburg join Souter's opinion in full. Each controlling part has a direct majority; no narrower-ground construction is needed.
+
+## Holdings
+
+### The prospective federal and state challenges remain distinct and reviewable
+
+**Rule and authority.** Completion of the 2000 election does not extinguish Romeu's recurring claim to prospective presidential absentee eligibility. UOCAVA sets a minimum for its covered overseas voters and does not prohibit broader state eligibility, but that floor does not itself dispose of the independently pleaded federal equality challenge. Part I, joined by all nine Justices, controls.
+
+**Controlling explanation.** Romeu seeks relief from continuing eligibility classifications, not alteration of the completed count. His alleged exclusion is personal, and prospective relief through the officials responsible for the existing absentee mechanism can redress it. The complaint separately challenges federal protection and state eligibility. Giving relief against the state rule does not make the federal merits dismissal an adjudication of a different claim or eliminate the need to decide that challenged classification here.
+
+### Equal protection reaches complete exclusion within the retained state presidential franchise
+
+**Rule and authority.** An applicant who establishes otherwise comparable qualification for New York's retained former-resident presidential electorate and complete exclusion from presidential participation because of relocation to Puerto Rico suffers a severe electoral burden. The State must show that its exclusion is narrowly drawn to advance a compelling electoral interest; the asserted membership, administrative and incremental-accommodation interests do not justify this exclusion. Part II, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg, controls the state holding and its as-applied relief.
+
+**Controlling explanation.** The State's authority to require residence does not answer unequal treatment within the former-resident franchise it has preserved. Prior New York qualification provides the relevant connection; the existing absentee mechanism and lack of another presidential ballot define the burden. Anderson supplies the inquiry into actual injury, precise interests and necessity. Burdick requires examination of the complete electoral system and demanding justification for severe burdens. Its reasonable-burden application does not govern a complete denial. McDonald concerned a record that did not establish exclusion from voting itself; this claim concerns presidential participation, not merely a preferred absentee method.
+
+Harper and Reynolds protect equality in the franchise government makes available. Domestic political membership is the dissent's strongest distinction, but local elections and selection of a Resident Commissioner supply no presidential opportunity. Preventing a second presidential vote can be addressed directly. Ordinary identification and former-residence checks remain available, so administrative concerns do not require this geographic denial. Incremental assistance to citizens abroad is legitimate, but it does not justify the complete exclusion under the applicable severe-burden standard. Concern about unequal opportunities among Puerto Rico residents does not cure unequal treatment within this existing former-state mechanism.
+
+The trigger is comparable prior qualification plus complete presidential exclusion, not territorial residence alone. The rule creates no permanent franchise for every emigrant and does not subject every residence or absentee requirement to strict scrutiny. McPherson preserves the state-based electoral allocation; the injunction operates within it.
+
+### The federal minimum must satisfy the same electoral equality requirement
+
+**Rule and authority.** Through the Fifth Amendment's equality protection, UOCAVA's preservation of presidential absentee eligibility for comparable former residents abroad cannot completely exclude Romeu solely because he resides in Puerto Rico unless the exclusion satisfies the same compelling-interest and narrow-tailoring requirement. It does not; a prospective as-applied declaration against the responsible federal officer is required. Part III, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg, controls.
+
+**Controlling explanation.** The federal law distributes mandatory protection of the same preserved presidential opportunity. Calling that protection a floor explains why New York may go further; it does not answer whether Congress has distributed the protection equally. The comparison and complete-exclusion trigger are the same as in the state claim. The lack of a second presidential ballot, continuing availability of qualification checks, and limited force of the domestic-membership and incremental-accommodation interests therefore have the same constitutional significance.
+
+Harris v. Rosario concerns Congress's territorial benefits distinction. Its deference in that setting does not supply the scrutiny for complete exclusion from this preserved presidential franchise. Territorial residence acquires no suspect status, and the Court does not adopt an alternative holding that the distinction fails ordinary rational-basis review. The holding concerns UOCAVA's application to this comparable former resident; the prospective declaration leaves the federal overseas minimum operative and preserves the existing allocation of electors.
+
+### The independent theories create no permanent right to the former State's ballot
+
+**Rule and authority.** The asserted Article IV, travel and general due-process theories do not independently entitle Romeu to carry New York electoral membership permanently after leaving the State. They supply no additional remedy on these facts; the Fifth Amendment equality claim is separately sustained. Part IV, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls this rejection. Stone-Zsela does not reach it.
+
+**Controlling explanation.** Saenz protects equal citizenship upon becoming a bona fide resident of a new State; it does not transfer a former State's franchise to a new domicile. Article IV's protection of interstate equality likewise supplies no general entitlement to remain in a former State's political electorate. The right to travel does not by itself preserve every electoral incident of the former residence. A general due-process entitlement adds no independent basis for the requested ballot. These limits do not defeat the separate equality claim: unequal treatment within a franchise that government actually preserves differs from an unconditional right to retain it. The Court rejects the independent theories without affirming either equality dismissal on that ground.
+
+## Precedent Treatment
+
+- **Anderson v. Celebrezze, 460 U.S. 780:** Its actual-burden, precise-interest and necessity inquiry is applied to the retained former-resident presidential opportunity.
+- **Burdick v. Takushi, 504 U.S. 428:** Its calibrated framework is extended to this selective former-resident franchise; its reasonable-burden application remains controlling in its complete-system setting.
+- **McDonald v. Board of Election Commissioners, 394 U.S. 802:** Distinguished because its record did not establish exclusion from voting itself; it remains authority for the absentee distinction it reviewed.
+- **Harper v. Virginia Board of Elections, 383 U.S. 663:** Its equality protection within an available franchise supports scrutiny of this selective distribution.
+- **Reynolds v. Sims, 377 U.S. 533:** Its protection of meaningful electoral equality supports the participation inquiry without creating territorial electors.
+- **Carrington v. Rash, 380 U.S. 89:** Its distinction between bona fide residence rules and impermissible electoral exclusions remains; it creates no permanent former-state franchise.
+- **McPherson v. Blacker, 146 U.S. 1:** Its state-based appointment structure remains in force; relief uses New York's existing electors.
+- **Harris v. Rosario, 446 U.S. 651:** Distinguished at its congressional-benefits holding; it is not overruled or made the rule for every territorial voting classification.
+- **Saenz v. Roe, May 17, 1999:** Its equal-citizenship rule at the new state residence remains; it supplies no independent permanent former-state electoral membership.
+- **Timmons v. Twin Cities Area New Party, April 28, 1997:** Its limited-burden holding within a system preserving meaningful electoral opportunities remains; it does not decide complete presidential exclusion.
+- **Schrader v. Blackwell, December 10, 2001:** Its holding on an official nomination designation with continuing candidate access is distinguished; the complete-system inquiry remains operative.
+- **The Bush election decisions:** Their adjudicated counting and institutional holdings remain; neither supplies a categorical answer to this former-resident eligibility classification.
+
+## Law After Decision
+
+New York's existing former-resident presidential absentee program and UOCAVA's corresponding federal protection are subject to electoral equality when an otherwise comparably qualified former resident is completely excluded because of relocation to Puerto Rico. Once that comparison and exclusion are established, the government must satisfy severe-burden scrutiny. The state and federal exclusions fail at that scope, with different prospective remedies against their responsible officials. Ordinary eligibility and authentication conditions and prevention of duplicate presidential voting remain enforceable.
+
+The independent travel, Article IV and general due-process theories establish no permanent former-state franchise. The judgment changes neither Article II's electoral allocation nor the federal minimum owed to covered overseas voters. Territorial statehood, congressional representation, a territorial allocation of electors and the terms of a future amended absentee program are outside the questions decided. Every decided component has controlling majority reasoning.
+
+## Separate Writings
+
+**O'Connor, joined by Scalia, Thomas and Breyer, concurring in part and dissenting in part.** The four would affirm both equality dismissals. Residence ordinarily identifies membership in a State's electorate. Congress and New York may accommodate former residents outside the domestic political system without extending the accommodation to people who establish membership in another domestic polity. Burdick, Timmons and Schrader permit meaningful electoral categories and require identification of the relevant electorate before the severity of a lost opportunity determines scrutiny. Saenz concerns equal citizenship in the new State, not a continuing former-state vote.
+
+The dissent acknowledges that Puerto Rico's local elections and Resident Commissioner do not replace presidential participation. That absence makes the exclusion consequential but does not establish continuing membership in New York's electorate. Domestic political membership and incremental overseas accommodation provide a rational basis for the distinction, without making territorial power unreviewable or every residence rule valid. UOCAVA is a federal floor, so New York could extend eligibility; that permission does not establish a constitutional duty to do so. The proposed decree's precision does not cure the majority's antecedent membership error. The four join the prospective-review and federal-floor conclusions and the rejection of independent permanent-membership, travel, Article IV and general due-process entitlements.
+
+## Procedure After Action
+
+The case returns through the Second Circuit for the prospective federal declaration, the state injunction and determination of the remaining ordinary qualifications under the rules stated above. The federal and state equality dismissals are reversed. Implementation must preserve the continuing overseas minimum and distinguish a prohibited second presidential vote from participation in local territorial elections. The completed election remains intact.
+
+## Source Notes
+
+Romeu v. Cohen, 265 F.3d 118 (2d Cir. 2001), lower-court Nos. 00-6287 and 00-6303; U.S. Const. art. II, §1, art. IV, §2, and amends. V and XIV; UOCAVA, then 42 U.S.C. §§1973ff–1973ff-6, including §1973ff-6's definitions; New York Election Law §11-200(1). The case arises on judgment on the pleadings; ordinary eligibility facts remain for determination on remand.
 
 ---
 

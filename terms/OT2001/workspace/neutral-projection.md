@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-Thirty-one Court events in chunks 1 and 2 are completed. The latest processed event date is 2002-02-20. The next eligible manifest matters are Porter v. Nussle and Swierkiewicz v. Sorema N. A. on 2002-02-26. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date. Chronological processing and authorship assignment order do not create legal priority. Romeu v. Cohen remains open at its February 19 position in the calendar, awaiting renewed control validation; no Court action or new effective date is inferred.
+Thirty-two Court events in chunks 1 and 2 are completed. The latest processed event date is 2002-02-20. The next eligible manifest matters are Porter v. Nussle and Swierkiewicz v. Sorema N. A. on 2002-02-26. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date. Chronological processing and authorship assignment order do not create legal priority. Romeu v. Cohen is completed at its February 19 position in the calendar; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -186,6 +186,18 @@ Temporary peer grading and immediate reporting in the described instructional pr
 
 Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#owasso-independent-school-district-no-i-011-v-falvo-merits-2002-02-19).
 
+### Romeu v. Cohen — 2002-02-19
+
+Souter's Parts II, III and V, joined by Stone-Zsela, Stevens, Kennedy and Ginsburg, control reversal of the federal and state equality dismissals. An otherwise comparably qualified former resident completely excluded from presidential participation by relocation to Puerto Rico may invoke electoral equality within New York's retained former-resident presidential mechanism. Once that comparison and exclusion are established, the government must show narrow tailoring to a compelling electoral interest. The asserted membership, administrative and incremental-accommodation interests fail at this scope. The Fifth Amendment governs the federal protection and the Fourteenth governs the state exclusion; territorial residence is not suspect and no alternative rational-basis holding is adopted.
+
+Anderson–Burdick review is extended to that preserved opportunity, retaining its calibrated scrutiny. McDonald is distinguished because its record did not establish total voting exclusion; Timmons and Schrader retain their meaningful-access holdings. Harper and Reynolds support equality within the available franchise; Carrington preserves valid residence rules without a permanent franchise; McPherson preserves state electoral allocation. Harris remains at its benefits holding. Saenz and the prior Bush holdings retain their source-specific reach.
+
+Part I has all nine joins: the recurring prospective dispute remains reviewable, the two claims remain distinct, and UOCAVA's minimum does not prohibit broader state eligibility or itself answer federal inequality. Part IV has all eight Associates' joins: travel, Article IV and general due process establish no independent permanent former-state entitlement. Stone-Zsela does not reach Part IV. This is not an additional partial affirmance, and no controlling rationale requires a narrower-ground construction.
+
+The remand requires a prospective federal declaration and state injunction against the respective responsible officials, ordinary qualification findings and implementation. Both forms of relief address the departure-linked domicile exclusion as applied; the state decree also prevents denial because of Puerto Rico residence, abode or domicile, registration or local voting. Ordinary former-residence, age, registration and authentication requirements and prevention of a second presidential vote remain. Local territorial voting is not a duplicate presidential vote. Federal overseas minimum obligations remain; relief creates no territorial electors, changes no other State's program and reopens no completed election. Future program amendments, territorial statehood, congressional representation and territorial electors are outside the decided questions.
+
+Exact holdings, proposition-level authority, precedent treatment, limits and remedy: [public law](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#romeu-v-cohen-merits-2002-02-19).
+
 ### Winn-Dixie Stores, Inc. v. Commissioner — 2002-02-20
 
 The four-of-seven exception is not a statutory safe harbor from substantive-sham scrutiny. This arrangement's accepted lack of both nontax business purpose and pretax profit potential supports the disallowance. Transactions with meaningful economic substance, mixed findings or an affirmative statutory incentive remain governed by their own legal and factual predicates.
@@ -340,6 +352,16 @@ The dissent recognizes that a differentiated list and a separate prospective tra
 
 These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#barnhart-v-sigmon-coal-co-merits-2002-02-19).
 
+### Romeu v. Cohen — 2002-02-19
+
+**O'Connor, joined by Scalia, Thomas and Breyer, concurring in part and dissenting in part.** The four would affirm both equality dismissals. Residence ordinarily identifies membership in a State's electorate. Congress and New York may accommodate former residents outside the domestic political system without extending the accommodation to people who establish membership in another domestic polity. Burdick, Timmons and Schrader permit meaningful electoral categories and require identification of the relevant electorate before the severity of a lost opportunity determines scrutiny. Saenz concerns equal citizenship in the new State, not a continuing former-state vote.
+
+The dissent acknowledges that Puerto Rico's local elections and Resident Commissioner do not replace presidential participation. That absence makes the exclusion consequential but does not establish continuing membership in New York's electorate. Domestic political membership and incremental overseas accommodation provide a rational basis for the distinction, without making territorial power unreviewable or every residence rule valid. UOCAVA is a federal floor, so New York could extend eligibility; that permission does not establish a constitutional duty to do so. The proposed decree's precision does not cure the majority's antecedent membership error. The four join the prospective-review and federal-floor conclusions and the rejection of independent permanent-membership, travel, Article IV and general due-process entitlements.
+
+Stone-Zsela joins the equality rules and prospective relief but does not reach the independent entitlement theories rejected by the eight Associates. That join limit supplies no contrary entitlement rule.
+
+These published positions are noncontrolling at the stated scope. [Public opinion account](../entering-law/OT_2001CHUNK2_PUBLIC_LAW.md#romeu-v-cohen-merits-2002-02-19).
+
 ### Wisconsin Department of Health and Family Services v. Blumer — 2002-02-20
 
 **Stevens, joined by Stone-Zsela, O'Connor and Scalia, dissenting.** The dissent would affirm the resources-first requirement and return the matter for a calculation using supported income and resource figures. Section (e)(2)(C) directs an increased resource allowance when the community spouse's protected income is inadequate. Predicting income from resources legally attributable to that spouse differs from predicting another person's optional payment. Section (d)(1)(B)'s posteligibility transfer does not add a prerequisite that the spouse depend on that payment before receiving the resource protection; denying eligibility can prevent the projected arrangement from beginning.
@@ -425,6 +447,6 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 93 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 92 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
-Romeu v. Cohen remains pending on its inherited grant. No merits or procedural Court action was entered for its scheduled February 19 event. Its calendar position requires a renewed control check before adjudication; it supplies no current law or published Justice position. This projection contains no private position or provisional vote.
+Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.
