@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-48 scheduled Court events in chunks 1–3 are completed; 76 inventory matters remain open. The latest processed event date is 2002-03-27. The next chunk begins with Barnhart v. Walton, Mickens v. Taylor and Steele v. Hamilton County Community Mental Health Board, also dated 2002-03-27. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Hoffman supplies no entering-law premise for those same-day matters. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
+62 scheduled Court events in chunks 1–4 are completed; 62 inventory matters remain open. The latest processed event date is 2002-05-13. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -338,6 +338,118 @@ Exact controlling propositions, proposition-level authority, qualifications, pre
 
 **Current procedural stage:** The en banc judgment enforcing the limited Board order is affirmed. The $66,951 through the last quarter of 1992 remains payable with the order's specified interest and required withholding. Calculation of the separately remaining January 1–June 14, 1993 period proceeds within the existing Board framework, subject to applicable ordinary remedial requirements. This affirmance orders no additional explanation or evidentiary remand, no reinstatement and no postdiscovery accrual based on unauthorized continued employment. Other lawful labor relief and independent immigration proceedings retain their proper routes.
 
+### Barnhart v. Walton — 2002-03-27
+
+The agency may administer the adult duration definitions through a twelve-month requirement for disabling inability and use actual substantial work before the relevant favorable finding notice in deciding initial eligibility. The holding sustains that reasonable delegated choice; it does not compel every future lawful implementation. The stated pre-award and post-twelve-month qualifications prevent converting entitlement into prior payment or a universal award prerequisite. Title II trial work retains its own scope and conditions.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#barnhart-v-walton-merits-2002-03-27). [Record](../records/barnhart_v_walton_merits_2002-03-27.md).
+
+**Current procedural stage:** Further proceedings implement the denial on the reviewed eligibility grounds. The Court preserves the established substantial-gainful-activity finding and the distinct qualifications stated in Holdings.
+
+### Mickens v. Taylor — 2002-03-27
+
+A known potential conflict and the judge's neglected inquiry do not themselves establish the adverse effect required for this conflict-based exception to ordinary prejudice. Holloway retains its distinct automatic-relief rule. The Court assumes Sullivan's route is available here without deciding its application to every successive representation. The existing no-adverse-effect determination defeats this claim within the granted question.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#mickens-v-taylor-merits-2002-03-27). [Record](../records/mickens_v_taylor_merits_2002-03-27.md).
+
+**Current procedural stage:** The habeas denial stands on the reviewed constitutional ground. The Court does not reopen the factual adverse-effect determination or direct another conflict inquiry. The broader successive-representation question remains outside the grant.
+
+### Steele v. Hamilton County Community Mental Health Board — 2002-03-27
+
+The federal nonemergency medication question remains unresolved by this action. Ohio's own judgment retains its existing force. Voluntary medication is not declared categorically to moot a treatment controversy.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#steele-v-hamilton-county-dig-2002-03-27). [Record](../records/steele_v_hamilton_county_dig_2002-03-27.md).
+
+**Current procedural stage:** Proceedings in this Court are concluded. A later request for compelled treatment must rest on its own lawful authority and then-existing facts. The last established treatment status is voluntary medication; present custody, renewed refusal, an operative authorization and supported same-patient recurrence likely to evade review are not established. The Court makes no definitive mootness finding.
+
+### Adams v. Florida Power Corp. — 2002-04-01
+
+This dismissal creates no Supreme Court rule accepting or rejecting ADEA disparate-impact liability. The judgment below retains its ordinary force.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#adams-v-florida-power-corp-dig-2002-04-01). [Record](../records/adams_v_florida_power_corp_dig_2002-04-01.md).
+
+**Current procedural stage:** The proceeding in this Court is concluded. The existing lower-court proceedings retain their procedural status.
+
+### Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas — 2002-04-01
+
+A government-secured sidewalk that substitutes for and continues an existing public street route under an enforceable passage obligation retains traditional-public-forum protection despite private title. This rule applies to that defined public route; it does not make commercial premises generally governmental. Existing content and neutral-management standards govern restrictions on the passage.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#venetian-casino-resort-v-local-joint-executive-board-merits-2002-04-01). [Record](../records/venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md).
+
+**Current procedural stage:** The Ninth Circuit judgment remains in force. Lawful neutral regulation may address actual obstruction and safety under the governing public-forum standards. The decision concerns this replacement boulevard route and extends no access order to the casino interior or unrelated private property.
+
+### Ashcroft v. Free Speech Coalition, No. 00-795 — 2002-04-16
+
+The two challenged definitions cannot support enforcement against the substantial protected expression they cover. Apparent minority without exploitation or obscenity does not suffice, and promotional characterization does not automatically transform a protected work into prohibited material. Independent actual-child, obscenity and unlawful-conduct rules retain their predicates. The identifiable-actual-minor category and a differently enacted unlawful-offer offense are outside this decision.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#ashcroft-v-free-speech-coalition-merits-2002-04-16). [Record](../records/ashcroft_v_free_speech_coalition_merits_2002-04-16.md).
+
+**Current procedural stage:** The judgment protecting the challengers against enforcement of §§2256(8)(B) and (D) remains in force. This merits review is concluded subject to the ordinary mandate; the surviving independent statutory categories remain enforceable on their own terms.
+
+### United States v. Craft, No. 00-1831 — 2002-04-17
+
+Michigan entireties restrictions do not defeat federal attachment to the taxpayer's existing beneficial rights considered together. The lien follows those actual rights, while their valuation, competing priorities, enforcement authority and the nondebtor spouse's independent interests retain separate legal work. The rule does not turn a bare future expectancy into property or assume identical marital-property law in every State.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#united-states-v-craft-merits-2002-04-17). [Record](../records/united_states_v_craft_merits_2002-04-17.md).
+
+**Current procedural stage:** Further proceedings determine valuation and lawful treatment of the escrow under the rights-specific attachment rule. The excluded transfer theory and the unrelated cross-appeal remain outside this review; the Court does not adopt either former lower-court remedial calculation as the attachment value.
+
+### A&M Records, Inc. v. Napster, Inc. — 2002-04-23
+
+Specific knowing material assistance and separately established financial benefit with practical supervision can support preliminary secondary liability for an ongoing service despite substantial lawful capability. Fair use remains contextual; open whole-recording redistribution on this record receives no categorical sampling, relocation or device exemption. Congress's §512 categories and relief limits remain independently enforceable. Effective injunctive relief must connect usable identification to feasible service action while preserving lawful exchange.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#a-and-m-records-v-napster-merits-2002-04-23). [Record](../records/a_and_m_records_v_napster_merits_2002-04-23.md).
+
+**Current procedural stage:** The lower court must frame a replacement preliminary injunction under the stated notice, actual-capability, lawful-use, equity and §512 requirements. The original restraint remains stayed until conformity. Further proceedings retain the ordinary distinction between preliminary findings and final liability; this decision does not presume a replacement order already issued.
+
+### Michigan v. Environmental Protection Agency — 2002-04-23
+
+Section 110 permits the bounded cost-informed implementation judgment after a demonstrated interstate pollution nexus. It neither mandates cost consideration nor generally imports cost into national-standard setting. States retain genuine selection among compliant source measures and programs, backed by the mandatory approval rule and a lawful federal-plan alternative. Congress supplied sufficient guidance for this assignment; administrative self-restraint cannot supply missing legislative limits. The one-hour review and the circuit's separate corrections define the judgment's reach.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#michigan-v-environmental-protection-agency-merits-2002-04-23). [Record](../records/michigan_v_environmental_protection_agency_merits_2002-04-23.md).
+
+**Current procedural stage:** The sustained portions of the budget framework remain operative, subject to the existing Wisconsin, Missouri and Georgia dispositions and the two notice remands. No additional agency remand follows from the three rejected categorical challenges. The separate eight-hour review remains stayed; ordinary mandate governs the reviewed proceeding.
+
+### Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, No. 00-1167 — 2002-04-23
+
+A temporary regulatory development restraint does not become a Lucas taking solely by treating its precise duration as a separate property interest. Contextual review remains for properly presented claims, including examination of duration, actual impact, expectations and governmental character. Temporary status is no immunity, while compensation for an independently established temporary taking remains required. This preserved categorical claim is concluded.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#tahoe-sierra-preservation-council-v-tahoe-regional-planning-agency-merits-2002-04-23). [Record](../records/tahoe_sierra_preservation_council_v_tahoe_regional_planning_agency_merits_2002-04-23.md).
+
+**Current procedural stage:** The categorical rejection stands. The owners' unappealed contextual ruling is not reopened, and the judgment does not adjudicate separately caused later restraints. This merits review ends subject to the ordinary mandate.
+
+### Universal City Studios, Inc. v. Corley — 2002-04-23
+
+Section 1201(a)(2) supplies a distinct trafficking prohibition with separate predicates and limited exceptions; fair-use defenses to infringement do not automatically defeat it. Code remains expression, while the demonstrated content-neutral circumvention function and the actual fitted injunction satisfy the governing scrutiny here. The defined linking safeguards suffice for this decree without becoming universal minimum elements. The concrete-record and preservation grounds leave materially different fair-use and public-domain applications to their own preserved facts.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#universal-city-studios-v-corley-merits-2002-04-23). [Record](../records/universal_city_studios_v_corley_merits_2002-04-23.md).
+
+**Current procedural stage:** The actual permanent injunction remains in force. This merits review concludes subject to ordinary mandate. A claim involving qualifying research, interoperability, security testing, a public-domain work or a concrete indispensable fair use requires its own preserved record and the governing statutory or constitutional elements.
+
+### Thompson v. Western States Medical Center — 2002-04-29
+
+The reviewed compounding speech conditions fail the existing reasonable-fit requirement. The Court establishes no independent failure of material advancement, categorical commercial-speech immunity or replacement compounding program. The Ninth Circuit's unreviewed nonseverability determination remains part of the affirmed judgment. Substantive drug-safety and manufacturing authority retains its independent scope.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#thompson-v-western-states-medical-center-merits-2002-04-29). [Record](../records/thompson_v_western_states_medical_center_merits_2002-04-29.md).
+
+**Current procedural stage:** The Ninth Circuit judgment is affirmed, subject to ordinary mandate administration. Its unreviewed nonseverability determination remains operative. Supreme Court review of the constitutional question is complete.
+
+### City of Los Angeles v. Alameda Books, Inc. — 2002-05-13
+
+The law permits this initial concentration inference while requiring the preserved classification, advancement, fit and expressive-access inquiries. The ordinance receives no final constitutional validation. Kennedy's more specific speech-preservation formulation remains his separate condition, and the dissent's present-record insufficiency conclusion does not become the Court's law.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#city-of-los-angeles-v-alameda-books-merits-2002-05-13). [Record](../records/city_of_los_angeles_v_alameda_books_merits_2002-05-13.md).
+
+**Current procedural stage:** The Ninth Circuit judgment is vacated, and the case is remanded for adjudication of the preserved classification, advancement, fit and expressive-access grounds consistently with the initial-inference holding. The courts must promptly reconsider existing injunctive relief under the governing standards. The ordinance is not finally upheld, and the vacatur alone supplies no automatic enforcement permission.
+
+### Henderson v. Norris — 2002-05-13
+
+Under the existing narrow proportionality rule, permanent imprisonment for this first conviction and materially equivalent tiny-sale conduct is unconstitutional. The conviction remains intact. The law establishes neither a general drug-weight schedule nor the replacement term. Pre-AEDPA independent legal review and Teague's separate finality requirement retain their distinct operation.
+
+Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#henderson-v-norris-merits-2002-05-13). [Record](../records/henderson_v_norris_merits_2002-05-13.md).
+
+**Current procedural stage:** The Eighth Circuit judgment is affirmed. Its implementing mandate begins Arkansas's ninety-day period for lawful resentencing under the conditional sentence-only writ, subject to ordinary mandate administration. The conviction remains in force. The Court specifies no maximum replacement term; lawful state sentencing must comply with the constitutional boundary announced here.
+
 ## Material published noncontrolling positions
 
 ### TRW Inc. v. Andrews — 2001-11-13
@@ -632,6 +744,116 @@ The discovery cutoff and denial of reinstatement prevent future employment, but 
 
 The present-tense testimony supports continued-use concerns, but the dissent needs no finding that every interim job required new false documents, that the Board induced fraud, or that a particular post-1990 document violation occurred. It does not apply section 1324c to the original hiring. Its proposed reversal preserves NLRA coverage, the employer's violation, other lawful relief and independent immigration enforcement. It decides neither earned wages nor every remedy involving an unauthorized worker. It would return only for implementation of the backpay bar, not a new mitigation hearing or an additional punitive-remedy holding.
 
+### Barnhart v. Walton — 2002-03-27
+
+[Record](../records/barnhart_v_walton_merits_2002-03-27.md)
+
+**Scalia, concurring in part and in the judgment.** Scalia joins Parts I and III, including the formal delegated-regulation ground, permissible duration and timing constructions, qualifications and reversal. He does not join Part II's additional reliance on sustained administrative interpretation. The formal rule and genuine delegation suffice; duration of an agency practice alone should not confer special controlling weight, and the status of old informal documents cannot be assumed. His position does not demand the Court's independent preferred construction or a new multifactor exception to the governing delegation rules.
+
+**Stone-Zsela, concurring.** The Chief joins the Court's permissible-construction holding and adds that the interpretation also survives independent reading. The lasting impairment must produce the inability that the definition describes; expected duration permits timely decisions, but does not require ignoring actual predecision substantial work. Trial-work protection does not itself create initial entitlement. The agency's longstanding, expert reasons deserve substantial persuasive weight because they fit those enacted distinctions, while its statutory rulemaking assignment and operative regulations separately establish actual delegated authority. This additional ground changes neither the Court's permission into a command nor the stated entitlement qualifications.
+
+### Mickens v. Taylor — 2002-03-27
+
+[Record](../records/mickens_v_taylor_merits_2002-03-27.md)
+
+**Stevens, dissenting.** Stevens would reverse the habeas denial and secure a new trial because the State appointed the murder victim's recent lawyer in a capital case without disclosure or the accused's informed acceptance, despite the judge's knowledge. The right to a meaningful lawyer-client relationship, counsel's disclosure obligation and the court's protective duty operate together. This exceptional State-created arrangement warrants presumed impairment under Cronic; Holloway, Sullivan and Wood supply the conflict safeguards, while Swidler preserves continuing confidentiality without proving any particular confidence. His rule concerns this undisclosed capital victim-counsel appointment, not every former-client relationship or ethical breach. He does not require another actual-conflict hearing before recognizing the constitutional entitlement.
+
+**Souter, dissenting.** Souter would reverse and require a new trial under the court's prospective duty to address a sufficiently identified risk before representation unfolds. When the judge already has adequate notice, Holloway's preventive protection should not depend solely on an objection from a potentially conflicted lawyer. The judge must inquire, secure an intelligent waiver or arrange replacement when warranted. Souter distinguishes that prospective duty from later discovery: he reads Wood's retrospective inquiry as requiring actual conflict and adverse effect, rather than supporting an actual-conflict-only remand here. His discussion of possible adverse effects supplies no decision of the factual issue outside the grant and no direction for another hearing.
+
+**Breyer, dissenting, joined by Ginsburg.** These Justices would reverse and secure a new trial on a narrower structural ground. The State supplied the recent criminal lawyer of the murder victim to defend the accused in a capital case; the immediate incompatibility, the capital proceeding's use of the victim's character and the State's creation of the arrangement produce a breakdown in the trial framework. Cronic and Fulminante support relief without reconstructing individual performance effects at that conjunction of facts. Young v. United States ex rel. Vuitton reinforces the concern for institutional fairness. They expressly leave the general relationship among Holloway, Sullivan and Wood unresolved and do not join Souter's general known-risk rule or an actual-conflict-only remand.
+
+Each dissent seeks the new-trial remedy through ordinary conditional habeas relief, permitting the State to retry with constitutionally adequate representation. None orders immediate unconditional release, acquittal or a new sentence alone. Their constitutional positions do not adjudicate an independently presented collateral defense on predicates absent from the question decided. Counsel maintained the narrower actual-conflict theory; the dissenters give their own legal answers to the granted conflict question and the requested new-trial remedy.
+
+### Steele v. Hamilton County Community Mental Health Board — 2002-03-27
+
+[Record](../records/steele_v_hamilton_county_dig_2002-03-27.md)
+
+None.
+
+### Adams v. Florida Power Corp. — 2002-04-01
+
+[Record](../records/adams_v_florida_power_corp_dig_2002-04-01.md)
+
+Chief Justice Stone-Zsela dissents. He would decide the certified statutory question, reverse the categorical bar and remand. The district court actually entered and certified that legal ruling, and neither it nor the circuit majority adopted a finding that the impact allegations were insufficient. The unassessed factual merits therefore do not prevent correcting the legal bar. He reads section 623(a)(2)'s effects-oriented classification language together with section 623(f)(1)'s reasonable-factors-other-than-age provision to permit a claim directed to a specifically identified neutral practice that causes an adverse age effect. The employee must identify that practice and establish causation; aggregate workforce disparity alone is insufficient. A proven reasonable nonage basis may justify the differentiation without showing that the practice was the only possible business choice. Hazen Paper reserved impact and does not foreclose that rule. The 1991 Title VII amendments do not justify importing their entire business-necessity scheme into the ADEA. On remand, the lower courts would assess the actual practice, causation, reasonable-factor justification and procedural requirements; recognizing the theory would not itself restore a class or establish liability. This is his dissenting position, not the Court's statutory holding.
+
+### Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas — 2002-04-01
+
+[Record](../records/venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md)
+
+Justice Scalia dissents, joined by Justice Thomas. They would reverse and remand because governmental responsibility for this speech exclusion has not been established. Their framework requires attribution before forum classification: Lebron's concrete structural predicate and the limits emphasized in Brentwood do not allow public benefit, traffic regulation or access covenants alone to substitute for governmental control. The agreement expressly preserves present private rights and requires dedication if the present walkway is later removed, altered or abandoned. In their view, that distinction shows that the State secured passage and safety while withholding a present public speech entitlement. The fact that the walkway replaces a former public route makes the contrary argument substantial, but does not supply control over the disputed exclusion. They do not independently classify the forum after rejecting attribution. Their proposed remand would permit ordinary disposition under that attribution rule, rather than direct arrests, award damages or resolve a taking.
+
+### Ashcroft v. Free Speech Coalition, No. 00-795 — 2002-04-16
+
+[Record](../records/ashcroft_v_free_speech_coalition_merits_2002-04-16.md)
+
+**Thomas, concurring in the judgment.** Thomas agrees with both invalidations but does not join the Court's principal reasoning. Enforcement of actual-child prohibitions is the Government's strongest concern. The present predictive showing does not establish a technological proof obstacle sufficient for this breadth, but practical impossibility of distinguishing fabricated from actual-child images could present a different constitutional question. An appropriate affirmative defense or another narrowly drawn restriction might matter on that demonstrated premise. He neither requires a particular future defense nor approves shifting the actual-child element through a current presumption. His agreement in judgment does not endorse a categorical foreclosure of every enforcement-based restriction affecting protected expression.
+
+**O'Connor, concurring in the judgment in part and dissenting in part; Scalia joins Part II of her writing only.** In Part I she agrees with invalidation of the youthful-adult application: adult performers' protected expression remains exposed because the limited adult defense does not reach ordinary possession. She separately agrees that (D)'s presentation category lacks an adequately justified compelling fit, particularly when describing adult performers as minors removes the defense. In Part II she would preserve (B) for wholly virtual images virtually indistinguishable from actual-child images. The narrow construction excludes cartoons, sculptures and plainly unreal depictions. Congress may respond to supported enforcement predictions before actual proof failure becomes universal; in her view the child-protection interest and limited application satisfy the constitutional inquiry. Broadrick and application-severability principles permit preserving that application without extending the adult defense to possession. Her vagueness conclusion is confined to the realistic-image construction. Scalia joins only this virtual-image sustaining ground, not her adult or presentation invalidations.
+
+**Scalia, dissenting.** Scalia would sustain both definitions under narrowing constructions. The statutory conduct requirement reaches actual or realistically simulated hardcore sexual acts, not merely a film's subject matter, and apparent minority means realistic images virtually indistinguishable from depictions of actual children. He adopts O'Connor's narrow virtual-image enforcement rationale but does not accept her adult-application invalidation. For (D), he reads offense scienter together with the definition to confine liability to knowing pandering by the responsible actor, excluding innocent downstream possession. Ginzburg supports the relevance of deliberate presentation to this confined transaction in his view. The Court regards that reading as alteration of a definition used in connected offenses and finds the remaining protected reach substantial. Scalia does not treat all nonobscene adult expression as unprotected or enlarge §2252A(c)'s defense.
+
+### United States v. Craft, No. 00-1831 — 2002-04-17
+
+[Record](../records/united_states_v_craft_merits_2002-04-17.md)
+
+**Thomas, dissenting, joined by Stevens and Scalia.** Section 6321 reaches property belonging to the taxpayer; it cannot create a distinct individual estate from inseparable marital ownership. Michigan gives the husband neither unilateral withdrawal nor a power to sell, partition or redirect the estate. Drye and National Bank of Commerce involved those actual powers over value, and therefore do not settle this case. Joint enjoyment and a veto on conveyance are meaningful benefits, but remain incidents of the marital entity's ownership rather than separately owned assets. The longstanding collection treatment supports this statutory caution; it does not replace the inquiry. The dissent does not make a creditor-exemption label conclusive or declare all restricted, nontransferable interests unreachable. It would affirm the attachment ruling without deciding a different tenancy, completed severance or separate income right.
+
+**Scalia, dissenting, joined by Thomas.** Entireties ownership also gives institutional security to the nondebtor spouse, including a spouse whose domestic contribution yields no separate income. Removing that protection through a new federal property classification counsels particular statutory caution. This additional ground neither finds that Mrs. Craft held that domestic role nor creates a general marital-assets exemption. Stevens joins the common statutory dissent, but not this additional writing.
+
+### A&M Records, Inc. v. Napster, Inc. — 2002-04-23
+
+[Record](../records/a_and_m_records_v_napster_merits_2002-04-23.md)
+
+No separate opinion is filed.
+
+### Michigan v. Environmental Protection Agency — 2002-04-23
+
+[Record](../records/michigan_v_environmental_protection_agency_merits_2002-04-23.md)
+
+**Scalia, concurring in part and dissenting in part, joined by Thomas.** The enacted criterion concerns amounts of pollution contributing to another State's nonattainment or interfering with maintenance. Cheapness of removal measures expense, not that pollution relationship. Congress's express economic techniques permit ways of meeting an authorized result; they do not authorize EPA to redefine the result through cost. MCI and the limiting-criteria analysis in Iowa Utilities Board require those enacted words to constrain agency choice independently; Chevron supplies no power to replace them. Walton's acceptance of reasonable formal implementation does not help when the disputed choice falls outside the statutory criterion. The two would remand the affected cost determination for agency reconsideration under the pollution standard, without imposing a unique significance number or requiring elimination of every molecule of interstate emissions. They would not preserve the same amount merely by renaming its stage.
+
+They join Part II because Train and the actual alternatives distinguish a lawful statewide result from compelled source selection. That join does not approve the challenged cost-derived amounts. Having resolved the rule on statutory grounds, they do not reach the constitutional sufficiency question. Their existing agreement that agency self-restraint cannot cure missing congressional guidance remains unaffected. The dissent preserves the separate geographic and notice corrections and chooses no judicial replacement budget.
+
+### Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, No. 00-1167 — 2002-04-23
+
+[Record](../records/tahoe_sierra_preservation_council_v_tahoe_regional_planning_agency_merits_2002-04-23.md)
+
+**Thomas, dissenting, joined by Scalia.** A complete suspension of economically beneficial use for a substantial defined period can take that present use even though ownership and future use remain afterward. Lucas protects the complete-deprivation category, and First English and Lucas's actual-period remedy distinguish whether a taking occurred from how long compensation runs. Later restoration limits compensation; it does not eliminate the earlier complete loss. The majority's whole-interest position recognizes future value, but in the dissent's view that value does not supply usable property during the defined prohibition.
+
+The two would reverse and remand for a sustained complete-deprivation determination, genuine background property or nuisance limitations and compensation for an actual taking within the challenged thirty-two months. They impose neither a numerical minimum duration nor a rule covering every ordinary permit-processing interval. The case-by-case Nevada Class 1–3 single-family approval possibility, unavailable to stream-environment-zone lands and California parcels, requires attention to the owners actually covered. The State must substantiate an antecedent background rule independently prohibiting the use under ordinary proof requirements; a new legislative harm declaration is insufficient. The abandoned Penn Central theory is not restored, and later plans or judicial restraints cannot be attributed to the two enactments through an unproved six-year causal extension. Their remedy concerns the actual established taking period, not presumed permanent value.
+
+### Universal City Studios, Inc. v. Corley — 2002-04-23
+
+[Record](../records/universal_city_studios_v_corley_merits_2002-04-23.md)
+
+No separate opinion is filed. The exact partial join is stated in Opinion Topology and the authority for Part V.
+
+### Thompson v. Western States Medical Center — 2002-04-29
+
+[Record](../records/thompson_v_western_states_medical_center_merits_2002-04-29.md)
+
+**Thomas, concurring.** He joins the full fit holding because these restrictions fail even the lesser Central Hudson test. He separately regards suppression of accurate product information to prevent its effect on willing listeners as the mechanism his 44 Liquormart position rejects. Drug safety is legitimate, but that objective does not itself justify withholding accurate information; direct drug controls remain distinct. His concurrence is not judgment-only agreement and does not supply the Court with a broader categorical rule.
+
+**Breyer, dissenting in part, joined by Stevens and Ginsburg.** The dissent would reverse the constitutional invalidation insofar as it rests on promotion to consumers. The statutory balance preserves medically needed preparations while preventing cumulative risks from a growing market of products that have not undergone approval. Product promotion can generate demand apart from a clinician's prior individualized assessment. Production caps, wholesale restrictions and controls on equipment or advance preparation may either exclude needed treatment or fail to address that demand. General service advertising and continuing physician involvement preserve meaningful channels. Under ordinary reasonable-fit review, the dissent therefore finds the consumer restriction proportionate despite its burden on truthful information. It reserves the distinct question of physician-directed promotion because that issue requires separate consideration; it neither sustains every communication restriction nor announces a benefit-condition exception to the First Amendment.
+
+### City of Los Angeles v. Alameda Books, Inc. — 2002-05-13
+
+[Record](../records/city_of_los_angeles_v_alameda_books_merits_2002-05-13.md)
+
+**Kennedy, concurring and joining the Court's opinion in full.** He accepts the initial inference only within a genuine dispersal theory. The ordinance must reduce harmful conditions while leaving the quantity and accessibility of protected expression substantially intact. Reducing speech or its audience, and thereby reducing associated harms, is not a permissible secondary-effects mechanism. Renton's land-use category and Turner's actual-operation inquiry permit a supported concentration inference, but the economic premise that the ordinance disperses rather than suppresses remains open to meaningful challenge. His illustrations supply no finding about patron numbers, successful relocation or business survival. This distinct necessary condition is not an additional majority holding.
+
+**Souter, dissenting, Part II, joined by Stevens, Ginsburg and Breyer.** Even assuming the genuine secondary-effects framework, the study fails to connect isolated combined operations with the harm caused by the concentration of separate establishments. Counting the bookstore and arcade as separate legal categories does not show more patrons or criminal opportunity in these small undivided premises. Compelling their separation may double operating costs and curtail expression without dispersing any demonstrated harm. That is an objection to the City's inferential bridge, not a finding that closure will occur. Renton permits relevant outside studies and ordinary experience, but the support must address the change being regulated; no perfect study is demanded. The dissent would preserve the businesses' declaration and injunction on this sufficient evidentiary ground.
+
+**Souter, dissenting, Part I, joined by Stevens and Ginsburg only.** Content-correlated regulation requires independent attention to actual effects and evidentiary safeguards against disguised suppression. O'Brien's nonsuppression premise and Erie's targeting rule prevent the selected adult-content category from receiving automatic deference. The separate evidence ground suffices for affirmance without a final classification ruling. Breyer does not join this broader account.
+
+### Henderson v. Norris — 2002-05-13
+
+[Record](../records/henderson_v_norris_merits_2002-05-13.md)
+
+**Kennedy, concurring in Part I and dissenting from Parts II–III, joined by O'Connor throughout the separate writing and by Thomas in the assumed-framework application only.** The dissent would restore denial of the sentencing claim. The tiny quantity, first conviction and lack of ordinary parole make the sentence severe, but the completed distribution offense and supported record do not meet the extraordinarily demanding threshold under Harmelin. Legislative judgments can account for distribution's preventive and social harms without measuring sentence length arithmetically by weight. The comparison evidence does not convert the exceptional severity into a constitutional prohibition. The dissent acknowledges the real difference from Harmelin's quantity and treats clemency as discretionary grace; it assumes neither a large enterprise nor prior convictions. Thomas's agreement assumes narrow proportionality for this disposition and does not adopt its constitutional foundation. Merits denial makes a separately unestablished new-rule bar unnecessary to these positions.
+
+**Scalia, concurring in Part I and dissenting from Parts II–III.** Harmelin's distinct textual and historical account rejects prison-duration proportionality as an independent requirement of the Cruel and Unusual Punishments Clause. The actual sentence and comparisons may present a sentencing-policy objection, but they do not establish the asserted constitutional right on his ground. His acceptance of the Excessive Fines inquiry in Bajakajian supplies no prison-duration rule. He accepts the controlling temporal law and does not rely on amended section 2254(d) or a fictitious criminal history. His rationale is distinct from the other dissenters' conclusion that this sentence passes a narrow proportionality test.
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -658,6 +880,36 @@ The August 3, 1994 allotment order remains in force: Stone-Zsela—District of C
 All nine Justices participated in each chunk 2 decision, including Gulf Power. Remaining case-specific flags require validation at their own events.
 
 Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg participated. Breyer took no part in the consideration or decision of these cases.
+
+Chunk 4 participation, established event by event:
+
+Barnhart v. Walton: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+Mickens v. Taylor: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+Steele v. Hamilton County Community Mental Health Board: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+Adams v. Florida Power Corp.: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+Ashcroft v. Free Speech Coalition, No. 00-795: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate at argument and decision.
+
+United States v. Craft, No. 00-1831: All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+A&M Records, Inc. v. Napster, Inc.: All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Michigan v. Environmental Protection Agency: All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, No. 00-1167: All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Universal City Studios, Inc. v. Corley: All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Thompson v. Western States Medical Center: All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+City of Los Angeles v. Alameda Books, Inc.: All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+Henderson v. Norris: All nine Justices participate at full merits submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
 ## Circuit allotments
 
@@ -711,6 +963,13 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 76 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 62 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.
+
+### Pending matters
+
+- **Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co. — April 1, 2002:** Decision remains pending. The corrected record includes continuing executive-committee membership, no preparation or approval of the organizational amicus submission, and only vague awareness. Completion requires validation of the controlling position against that record; no merits disposition or new procedure has issued.
+- **US Airways, Inc. v. Barnett — April 29, 2002:** Decision remains pending. A supported Court judgment and operative remand instruction have not been established. No merits holding, disposition, reargument order or terminal event has issued.
+
+These administrative status entries supply no vote, private position or new law. The matters remain open.

@@ -1,0 +1,1990 @@
+Source: https://archive.org/download/micro_IA40385014_0499/micro_IA40385014_0499%2006.%20Respondents%20Brief.pdf
+
+PAGE 1
+. 
+Supreme Court, U,& 
+16 
+FILED 
+JAN 4 1 2002 
+No. 01-344 
+In The 
+Supreme Court of the United States 
+. 
+TOMMY G. THOMPSON, 
+Secretary of Health and Human Services, et al., 
+Petitioners, 
+WESTERN STATES MEDICAL CENTER, et al., 
+Respondents. 
++ 
+On Writ Of Certiorari 
+To The United States Court Of Appeals 
+For The Ninth Circuit 
++ 
+BRIEF OF RESPONDENTS 
+S 
+Howarp M. HorrMANN 
+Counsel of Record 
+Jason T. Lunpy 
+Duane Morris LLC 
+227 W. Monroe St. — Suite 3400 
+Chicago, Illinois 60606 
+(312) 499-6700 
+Attorneys for Respondents 
+
+
+PAGE 2
+QUESTION PRESENTED FOR REVIEW 
+Whether the advertisement, promotion, and solicita- 
+tion restrictions contained in the Food and Drug Admin- 
+istration Modernization Act of 1997 violate the First 
+Amendment. 
+
+
+PAGE 3
+PARTIES TO THE PROCEEDING AND 
+CORPORATE DISCLOSURE STATEMENT 
+PURSUANT TO RULE 29.6 
+The Respondents are: Western States Medical Center 
+Pharmacy, a Nevada corporation*; Women’s International 
+Pharmacy, a Wisconsin corporation; Health Pharmacy, a 
+Wisconsin corporation; College Pharmacy, a Colorado 
+corporation; Wedgewood Village Pharmacy, a New Jersey 
+corporation; ApotheCure, a Texas corporation; and Lake- 
+side Pharmacy, a Tennessee corporation. 
+None of the Respondents has a parent corporation. 
+None of the Respondents has stockholders that are pub- 
+licly held companies owning 10% or more of the stock in 
+the corporation. 
+* TKG California Inc. d/b/a Kronos Pharmacy purchased 
+the assets of Western States Medical Center Pharmacy. TKG 
+California Inc. d/b/a Kronos Pharmacy is not a party hereto 
+but has an interest in the proceedings. TKG California Inc. 
+d/b/a Kronos Pharmacy and its parent, The Kronos Group, 
+Inc., and its parent, Exeter Life Sciences, Inc., are not publicly 
+held companies. 
+TABLE OF CONTENTS 
+QUESTION PRESENTED FOR REVIEW ............ 
+i 
+PARTIES TO THE PROCEEDING AND CORPORATE 
+DISCLOSURE STATEMENT PURSUANT TO RULE 
+EE 
+ES 
+ee 
+a 
+ere 
+ii 
+rs 
+bn cccucedeendeseneeseeseess 
+iii 
+TABLE OF AUTHORITIES ................. aeiaeens 
+vi 
+STATEMENT OF THE CASE...........ccscccccceees 
+1 
+Fe I cc cc cndenesedseesecocescsoescoces’ 
+1 
+i.) i Ct is ocrcceehsenpeneséeeseseesees 
+2- 
+C. 
+21 U.S.C. Section 353a, State Laws, and the 
+Absence of Restrictions on Compounding...... 
+5 
+SUMMARY OF ARGUMENT..................00055 
+12 
+DED stbceechesseetodeoncesasccesesctceeece 
+15 
+l. THE COURTS BELOW CORRECTLY HELD 
+THAT THE RESTRICTIONS ON TRUTHFUL 
+AND NON-MISLEADING ADVERTISEMENT 
+AND SOLICITATION CONTAINED IN SEC- 
+TIONS 353a(a) AND (c) VIOLATE THE FIRST 
+GEE Seccccccccccccescoccecescoccces 
+15 
+A. 
+Petitioners Have The Burden Of Satisfying 
+The Central Hudson Criteria............... 
+15 
+B. 
+Petitioners Have Not Shown That They 
+Have A Substantial Interest............... 
+18 
+C. Petitioners Have Not Shown That The 
+Restrictions On Respondents’ Truthful And 
+Non-Misleading Advertising And —— 
+Materially Advance Petitioners’ Assert 
+— PPPPPTTTITITITI TITTLE TTT 
+23 
+
+
+PAGE 4
+iv 
+TABLE OF CONTENTS - Continued 
+Page 
+1. FDA’s prior enforcement actions are 
+irrelevant to the unconstitutionality of 
+the challenged restrictions but do reveal 
+that the 
+FDA did not consider “com- 
+pounding” to be “manufacturing”... .. 
+23 
+2. The power to regulate compounding, a 
+commercial activity, does not include 
+the power to restrict advertising, pro- 
+moting and solicitating ............... 
+25 
+3. Patient need and physician judgment 
+drive demand for compounds, not 
+advertisement, promotion, and solicita- 
+GD ccccccvecccccccccscccesscccceceses 
+28 
+4. 
+Petitioners have not demonstrated that 
+the challenged speech restrictions will 
+materially prevent a circumvention of 
+the drug approval process ............ 
+29 
+5. FDAMA is so riddled with exceptions that 
+it cannot directly and materially advance 
+Petitioners’ asserted interest ............ 
+30 
+D. Section 353a Does Not Accomplish The 
+Asserted Ends In A Manner That Is No 
+More Extensive Than Necessary .......... 
+32 
+Il. PHARMACY COMPOUNDED DRUGS ARE 
+a 
+Be eee 
+34 
+A. The Inapplicability Of 21 U.S.C. § 321(p)(1) 
+And The Impossibility Of Clinical Trials For 
+COMUNE ooo cccccccccccccccccossscceses 
+35 
+B. The Effects Of 21 U.S.C. §§ 360(a)(1), 
+360(g)(1), And 374(a)(2)(A) ............4.- 
+37 
+C. 
+Petitioners’ Cases Do Not Apply ......... 
+40 
+Vv 
+TABLE OF CONTENTS - Continued 
+Page 
+D. The FDA’s Historical Hands-Off Approach 
+To Pharmacy Compounding .............. 
+42 
+E. Adequacy Of Existing Regulations And 
+PEE DON: cnncasaccocnccccesesecse 
+44 
+Ill. PETITIONERS CANNOT CONDITION EXEMP- 
+TION FROM THE FDA’S NEW DRUG 
+APPROVAL PROCESS ON RELINQUISHMENT 
+OF FIRST AMENDMENT RIGHTS ............ 
+45 
+SE antecdcessccuinecdshecadsccenécocees 
+48 
+
+
+PAGE 5
+vi 
+TABLE OF AUTHORITIES 
+Page 
+Cases 
+Bates v. State Bar of Arizona, 433 U.S. 350 (1977)..... 26 
+Burson v. Freeman, 504 U.S. 191 (1992)............ 17, 18 
+Carey v. Population Serv. Int'l, 431 U.S. 678 (1977) .... 26 
+Cedars North Towers Pharmacy, Inc. v. United States, 
+[1978-1979 Transfer Binder] Food Drug Cosm. L. 
+Rep. (CCH) { 38,200 (S.D. Fla. Aug. 28, 1978)....... 40 
+Central Hudson Gas & Elec. Corp. v. Public Serv. 
+Comm'n, 447 U.S. 557 (1980) ........ 12, 15, 16, 20, 32 
+Dolan v. City of Tigard, 512 US. 374 (1994)....... 45, 47 
+Edenfield v. Fane, 507 U.S. 761 (1993) ............. 16, 17 
+FDA v. Brown & Williamson Tobacco Corp., 529 U.S. 
+GD Ge ce cccccccesccscoscceseseccccessese 24, 35, 39 
+Florida Bar v. Went For It, Inc., 515 U.S. 618 (1995). .17, 18 
+44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484 
+1 EPPPPITTTTTTITITTT 
+TTT TITTLE passim 
+Greater New Orleans Broad. Ass‘n v. United States, 
+fis 
+fF 
+arr 26, 29, 30 
+Ibanez v. Florida Dep't of Bus. & Prof’! Regulation, 
+See GR. TD Gree ce ccccccscccccccsccsesces 16, 17, 30 
+Keyinshan v. Board of Regents, 385 U.S. 589 (1967) .... 48 
+Lorillard Tobacco Co. v. Reilly, 121 S$. Ct. 2404 
+Ne eee 
+cet onreees 17, 18, 34, 46 
+Munro v. Socialist Workers Party, 479 U.S. 189 
+GREED 0 co cccdccccccescccoscccesséosecccoceevescoess 18 
+vii 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Pearson 
+v. Shalala, 
+164 F.3d 650 (D.C. Cir. 
+Mi Antibeinandddsdbedeadebidecieabouked 24, 27, 28 
+Pharmanex v. Shalala, 221 F.3d 1151 (10th Cir. 2000) .... 42 
+Pickering v. Board of Educ., 391 U.S. 563 (1968)... .45, 47 
+Posadas de Puerto Rico Associates v. Tourism Co. of 
+es Pe Ge SD si cccccddccccenccuccececse 46 
+Professionals & Patients for Customized Care v. Sha- 
+lala, 56 F.3d 592 (5th Cir. 1995) ................ 24, 41 
+Professionals & Patients for Customized Care v. Sha- 
+lala, 847 F. Supp. 1359 (S.D. Tex. 1994)............ 24 
+Rubin 
+v. Coors Brewing Co., 514 U.S. 476 
+Pe ncdacccanianneencessesecsssaccese 26, 31, 32, 33 
+United States v. 9/1 KG. Container, 854 F.2d 173 (7th 
+Be MED Gas Sac noensdcnneccccnccccscdenedeneses 36, 42 
+United States v. Ortiz, 422 U.S. 891 (1975) ........ 34, 46 
+United States v. Rutherford, 442 U.S. 544 (1979)... .37, 43 
+United States v. Sene X Eleemosynary Corp., Inc., 479 
+F. Supp. 970 (S.D. Fla. 1979), aff'd, [1982-1983 
+Transfer Binder] Food Drug Cosm. L. Rep. 
+(CCH) ¥ 38,207 (11th Cir. 1983)................ 30, 41 
+United States v. United Foods, Inc., 121 S. Ct. 2334 
+SUG Sacecescesssvcceesececcsenscesesecoeenes 34, 46 
+USV Pharm. Corp. v. Weinberger, 412 U.S. 655 
+SEP Cov cecesccdvecengececesccasseessevececssocoes 42 
+Valley Broad. Co. v. United States, 107 F.3d 1328 (9th 
+GE BOSOD ccvccccceccccccccccessecscesecescesscces 26 
+Virginia State Bd. of Pharmacy v. Virginia Citizens 
+umer Council, Inc., 425 U.S. 748 (1976) ..... 26, 33 
+
+
+PAGE 6
+Vili 
+TABLE OF AUTHORITIES - Continued 
+Page 
+Washington Legal Found. v. Friedman, 13 F. Supp. 2d 
+Fe GE, FOO s ccc rccccccccecccscnccccecesces 24, 44 
+Washington Legal Found. v. Friedman, 36 F. Supp. 2d 
+BD Ge BONO cc ccccccencccesesssccesseccconces 24 
+Washington Legal Found. v. Henney, 56 F. Supp. 2d 
+81 (D.D.C. 1999), vacated at 202 F.3d 331 (D.C. 
+GER BSED cccccecceseccoguesessupesssceseesecevass 25 
+Weinberger v. Bentex Pharm., Inc., 412 U.S. 645 
+SIGE wc cvcesccsescuseccenscsocesceeeses 29, 37, 39, 42 
+Weinberger v. Hynson, Wescott & Dunning, Inc., 412 
+RP 
+ee 30, 35, 36, 37 
+Zauderer v. Office of Disciplinary Counsel, 471 U.S. 
+GD Gees 
+ccc cccccccccccesecncssseccccuses 16, 17, 30 
+CONSTITUTION, STATUTES AND REGULATIONS 
+US. Comet. AMMME. Fo .cccccccccccccccccsvccvces passim 
+Federal Food, Drug, and Cosmetic Act, 
+21 U.S.C. § 301 et seq. 
+21 U.S.C. § 321(p)(1) (1994)...... 4, 23, 34, 35, 36, 37 
+21 U.S.C. § 351(a)(2)(B) (Supp. V 1999)........... 5, 6 
+21 U.S.C. § 352(f)(1) (1994 & Supp. V 1999)...... 5, 6 
+21 U.S.C. § 353a (Supp. V 1999) .............. passim 
+21 U.S.C. § 353a(a) (Supp. V 1999)............ passim 
+21 U.S.C. § 353a(a)(1) (Supp. V 1999) .............. 5 
+21 U.S.C. § 353a(b) (Supp. V 1999).............006- 6 
+21 U.S.C. § 353a(b)(1)(C) (Supp. V 1999) ........... 6 
+ix 
+TABLE OF AUTHORITIES - Continued 
+Page 
+21 U.S.C. § 353a(b)(3)(B) (1994 & Supp. V 1999) ..7, 31 
+21 U.S.C. § 353a(b)(3)(B)(i) (Supp. V 1999) ......... 7 
+21 U.S.C. § 353a(b)(3)(B)(ii) (Supp. V 1999)......... 7 
+21 U.S.C. § 353a(c) (Supp. V 1999)............ passim 
+21 U.S.C. § 355 (1994 & Supp. V 1999)........... 5, 6 
+21 U.S.C. § 360(a)(1) (1994) .......... 8, 13, 37, 38, 40 
+21 U.S.C. § 360(g)(1) (1994) ..... 
+0... cceeee cues passim 
+21 U.S.C. § 360(g)(2) (1994)... 
+.. 0. ccccceeeeeeeuee 42 
+21 U.S.C. § 374(a)(2)(A) (1994) .... 20... 
+e0ee ees passim 
+Food and Drug Administration Modernization 
+Act of 1997, Pub. L. No. 105-115, 111 Stat. 2296 
+(21 U.S.C. 353a (Supp. V 1999) ............... passim 
+Wee. OUR. AR. BH GUN sc ccc ccccccccccccccccccs 12, 20 
+Wis. Stat. Ann. § 450.01(7).... 2.266666 
+cece eens 20, 38 
+Wis. Stat. Ann. § 450.01(13).......... 
+066 cece eee eens 20 
+MISCELLANEOUS 
+Compliance Policy Guide 7132.16 ................005. 1 
+Sen. Rep. No. 105-43 (1997)... 
+2.2... 65 ccc cece cece eens 3 
+143 Cong. Rec. S 9811-04 (daily ed. Sept. 24, 1997) ..4, 23 
+
+
+PAGE 7
+STATEMENT OF THE CASE 
+A. 
+Introduction 
+Petitioners’ brief raises issues unrelated to the First 
+Amendment and underscores what this case is not about. 
+It is not about dispensing unsafe, ineffective or “unrea- 
+sonable” quantities of compounded drugs, false or mis- 
+leading advertisement, or illegal activity. This case is 
+about absolute restrictions on truthful, non-misleading 
+advertisement and solicitation contained in the Food and 
+Drug Administration Modernization Act of 1997 
+(“FDAMA”), at 21 U.S.C. §§ 353a(a) and (c) (Supp. V 
+1999), that violate the First Amendment. 
+This case is before the Court after rulings on cross- 
+motions for summary judgment in the district court and 
+affirmed (in part) by the Ninth Circuit. Petitioners offered 
+no evidence establishing that the distribution of com- 
+pounded drugs poses a health risk or that Respondents’ 
+advertising creates demand for compounds. There is no 
+evidence that Respondents ever practiced pharmacy 
+other than in the regular course and in conformity with 
+federal and State laws. Petitioners’ sole “evidence” that 
+the dispensing of compounded prescription drugs caused 
+any alleged health risk was their reference to a double 
+hearsay anecdote in their own Compliance Policy Guide 
+7132.16 (“CPG”). (Pets.” App. 73a.)! Petitioners now 
+attempt to shore-up their barren record with hearsay 
+from websites (Pets.’ Br. 27, 34) and journal articles (Pets.’ 
+1 Cites to the appendix attached to Petitioners’ petition for 
+certiorari are designated “Pets.’ App. __..” cites to Petitioners’ 
+brief are designated “Pets.’ Br. __.” 
+
+
+PAGE 8
+Br. 28, 35) never presented below, the admissibility of 
+which has never been tested under the rules of evidence. 
+B. 
+Statement of Facts 
+Respondents are seven licensed pharmacies, located 
+in seven states, specializing in working with physicians 
+to compound drugs for individual patient needs. Respon- 
+dents advertise, promote and educate physicians and 
+patients about the availability of particular compounded 
+drugs, classes of drugs, and types of drugs. (Verified 
+Compl., { 27; Grp. Exh. 2 to Verified Compl.) 
+Compounding is the process whereby a pharmacist, 
+pursuant to a physician’s prescription, combines, mixes, 
+or alters ingredients to create a customized medication 
+for a patient for whom a manufactured drug is unavail- 
+able. The tripartite relationship under which this occurs, 
+i.e., the interplay between physician, patient and pharma- 
+cist, is referred to as the “triad.” (Verified Compl., { 29.) 
+This triad is in contrast to manufacturers who have no 
+relationship with either physician or patient, but manu- 
+facture for distribution to wholesalers and distributors, 
+do not customize for a patient’s unique medical needs, 
+and receive no physician prescriptions. Compounded 
+drugs are prescribed by physicians to address many med- 
+ical problems including cancer, infertility, PMS, meno- 
+pause, and pain. Pharmacy compounding is a customary 
+and required part of pharmacy practice, 
+a mandatory 
+subject in most pharmacy schools, and most, if not all, 
+State laws require that pharmacists be proficient in com- 
+pounding and maintain compounding equipment in their 
+pharmacies. (Verified Compl., {{ 19, 20, 31.) 
+Pharmacists compound a drug product when: manu- 
+factured drugs are unavailable; there is no commercially 
+available product to accomplish a desired medical objec- 
+tive (Verified Compl., { 21(a)); a patient is allergic to a 
+manufactured ingredient (Verified Compl., { 21(b)); a 
+manufactured drug is unavailable in an appropriate dose 
+(Verified Compl., { 21(c)); there is a need for carefully 
+calibrated hormone treatments for infertility, cancer, etc. 
+(Verified Compl., { 21(d)); and the patient requires an 
+alternative delivery system, e.g., injection, dermal patch, 
+suppository, etc. (Verified Compl., { 21(e).) Compounding 
+pharmacists do not compete with drug manufacturers but 
+provide drugs in the interstitial spaces where a manufac- 
+tured drug does not exist or is unsuitable. 
+Because of the specialization among and co-depen- 
+dence between compounding pharmacists and physi- 
+cians, it is vital that they establish contact and dialogue. 
+This is accomplished by Respondents’ advertisement and 
+solicitation, including presentations at medical conven- 
+tions. (Verified Compl., {1 28, 30.) Frequently, but for the 
+pharmacist’s consultation, neither physician nor patient 
+would be aware of the availability of dosages, drug deliv- 
+ery systems, or the ability to compound certain particular 
+drugs. (Verified Compl., { 23.) This consultation is a vital 
+component of the pharmacist’s role as a professional. 
+(Verified Compl., { 4.) 
+Compounding is not illegal under State or federal 
+law. “[A]ll States include compounding as a core compo- 
+nent of the profession of pharmacy.” Sen. Rep. No. 
+105-43, at 67 (1997). Before FDAMA (and to this day), 
+pharmacy practice and its component, compounding, 
+
+
+PAGE 9
+have been regulated by State law. By contrast, drug man- 
+ufacturing has been regulated by federal and State law. 
+See, e.g., 143 Cong. Rec. S 9811-04 at S 9839 (daily ed. 
+Sept. 24, 1997). The Food Drug and Cosmetic Act 
+(“FDCA”) specifically exempts pharmacies: 
+. which maintain establishments in confor- 
+mance with any applicable local laws regulating 
+the practice of pharmacy . 
+. . which are regularly 
+engaged in dispensing prescription drugs 
+... upon prescriptions of practitioners licensed 
+to administer such drugs . 
+. 
+. to patients under 
+the care of such practitioners in the course of 
+their professional practice and which do not, 
+either through a subsidiary or otherwise, manu- 
+facture, prepare, propagate, compound or proc- 
+ess drugs or devices for sale other than in the 
+regular course of their business of dispensing or 
+selling drugs or devices at retail. 
+21 U.S.C. § 374(a)(2)(A) (1994). See also 21 U.S.C. 
+§ 360(g)(1) (1994). Notwithstanding Petitioners’ argument 
+to the contrary, compounds are not mentioned or 
+included in the FDCA’s definition of “new drug” at 21 
+U.S.C. § 321(p)(1) (1994). 
+Prescriptions for compounded drugs, depending on 
+the Respondent, constitute between 60% and 90% of their 
+total prescription orders. (Verified Compl., { 26; see also, 
+Pets.’ App. 61a.) The volume of compounded drugs dis- 
+pensed is determined by physicians evaluating patients’ 
+needs. It is not increased by Respondents’ advertising 
+beyond pre-existing patient need. 
+_ 
+C. 
+21 U.S.C. Section 353a, State Laws, and the 
+Absence of Restrictions on Compounding 
+In 1997, Congress enacted § 127 of FDAMA, Pub. L. 
+No. 105-115, 111 Stat. 2296 (21 U.S.C. § 353a (Supp. V 
+1999)), which amended the FDCA by adding § 503(a), 
+codified at 21 U.S.C. § 353a (“Section 353a”). Section 353a 
+addressed compounded drugs and provided that 
+§§ 351(a)(2)(B), 352(f)(1) and 3552 of the FDCA shall not 
+apply to a drug product as long as: 
+e 
+No one compounds a drug product who is 
+not a licensed pharmacist or physician. 21 
+U.S.C. § 353a(a)(1) (Supp. V 1999). 
+¢ 
+No licensed pharmacist or physician dis- 
+penses a compounded drug unless it is in 
+response to a prescription order for an indi- 
+vidual patient or is based upon a history of 
+such valid prescription orders. 21 U.S.C. 
+§ 353a(a) (Supp. V 1999). 
+e 
+A pharmacist or physician only compounds a 
+drug product from a bulk substance that 
+complies with the standards of an applicable 
+United States Pharmacopoeia or National 
+Formulary monograph, but if such a mono- 
+graph does not exist, then from a list 
+approved or developed by the Secretary of 
+the United States Department of Health and 
+2 Section 351(a)(2)(B) established requirements for good 
+manufacturing practices. 21 U.S.C. § 351(a)(2)(B) (Supp. V 1999). 
+Section 352(f)(1) established the requirements for the labeling of 
+approved drugs, including directions for use. 21 U.S.C. 
+§ 352(f)(1) (1994 & Supp. V 1999). Section 355 establishes the 
+requirements for approval of new drugs. 21 U.S.C. § 355 (1994 & 
+Supp. V 1999). 
+
+
+PAGE 10
+Human Services. 21 U.S.C. § 353a(b) (Supp. V 
+1999). 
+e No physician or pharmacist compounds a 
+drug that has been withdrawn or removed 
+from the market and which appears on a list 
+published by the Secretary of the United 
+States Department of Health and Human Ser- 
+vices. 21 U.S.C. § 353a(b)(1)(C) (Supp. V 
+1999).3 
+Additionally, §§ 353a(a) and (c) required that Respon- 
+dents not engage in advertising and soliciting. Section 
+353a(a) provided in pertinent part: 
+Sections 351(a)(2)(B), 352(f)(1), and 355 of this 
+title shall not apply to a drug product if the 
+drug product is compounded for an identified 
+individual patient based on the unsolicited 
+receipt of a valid prescription order... 
+. 
+21 U.S.C. § 353a(a). Section 353a(c) provided: 
+(c) Advertising and Promotion. A drug may be 
+compounded under subsection (a) of this section 
+only if the pharmacy, licensed pharmacist, or 
+licensed physician does not advertise or pro- 
+mote the compounding of any particular drug, 
+class of drug, or type of drug. The pharmacy, 
+licensed pharmacist, or licensed physician may 
+3 Because Respondents believed that these provisions were 
+desirable and severable from the speech restrictions contained 
+in §§ 353a(a) and (c), Respondents argued below that if those 
+speech restrictions were found to be unconstitutional, the court 
+should sever and uphold the non-speech restrictions. The Ninth 
+Circuit rejected Respondents’ argument, reversed the district 
+court on this point, and invalidated FDAMA in its entirety. 
+(Pets.” App. 57a-59a.) 
+advertise and promote the compounding service 
+provided by the licensed pharmacist or licensed 
+physician. 
+21 US.C. § 353a(c). 
+Section 353a also provided for 
+a Memorandum of 
+Understanding (“MOU”) between the Food and Drug 
+Administration (“FDA”) and the States. 
+21 U.S.C. 
+§§ 353a(b)(3)(B)(i) and (ii) (Supp. V 1999). MOUs were to 
+provide that a compounding pharmacy dispensing inter- 
+state is subject to investigation and enforcement by both 
+the State in which the dispensing pharmacy is located 
+and the patient’s State. Prior to the enactment of 
+§ 353a(b)(3)(B), there were no restrictions on the amount 
+of compounded drugs that a pharmacy could dispense 
+interstate. In response to this lawsuit, Petitioners agreed 
+not to enforce the 5% and companion 19.9% MOU limita- 
+tions. (Defs. Opp’n to Pls.’ Mot. T.R.O., at 9.) Therefore, 
+there has never been a volume limitation under either 
+State or federal law on either interstate or intrastate dis- 
+pensing of compounded drugs. Even if the percentage 
+limitations had been enforced, realistically there would 
+have been no ban on interstate dispensing of compounds 
+because 20 pharmacies or a chain pharmacy could fill the 
+out-of-state demand, thereby legally nullifying any 
+restriction on interstate dispensing. The only activity 
+restricted by FDAMA was the advertisement, promotion, 
+and solicitation of the compounding of any particular 
+drug, class of drugs, or type of drugs, i.e., speech not 
+conduct. 
+
+
+PAGE 11
+The fundamental and express differences between 
+manufacturing and compounding are set forth in State 
+pharmacy laws and the FDCA, i.e., 21 U.S.C. §§ 360(a)( 
+(1994), 360(g)(1) (1994), amd 374(a)(2)(A) (1994). For 
+example, under § 360(a)(1), pharmacy compounding is 
+specifically excluded as it refers to drugs distributed 
+“ ... from the original place of manufacture to the person 
+who makes final delivery or sale to the ultimate con- 
+sumer... .” 21 U.S.C. § 360(a)(1). “Distribution” is 
+delivery by a manufacturer to a middleman, while “dis- 
+pensing” is the act of a pharmacist transferring the drug 
+directly to the patient pursuant to a prescription. Phar- 
+macy compounding results in dispensing. Manufacturing 
+and compounding are not defined in the FDCA, except to 
+the extent that §§ 360(g)(1) and 374(a)(2)(A) provide 
+benchmark characteristics and even then, for definitional 
+purposes, revert back to and rely on State laws. 
+All States define and regulate the practice of 
+pharmacy within their borders. Twenty-six States 
+4 Ala. Code § 34-23-1 et seq. (2001); Alaska Stat. § 8.80.003 et 
+seq. (Michie 2001); Ariz. Rev. Stat. Ann. § 32-1901 et seq. (West 
+2001); Ark. Code Ann. § 17-92-101 et seq. (Michie 2001); Cal [Bus. 
+Prof.] Code § 4000 et seq. (Deering 2001); Colo. Rev. Stat. Ann. 
+§ 12-22-01 et seq. (West 2001); Conn. Gen. Stat. § 20-570 et seq. 
+(2001); Del. Code Ann. Tit. 24, § 2501 et seq. (2001); D.C. Code 
+Ann. § 48-701 et seq. (2001); Fla. Stat. Ch. 465.001 et seq. (2001); 
+Ga. Code Ann. § 26-4-1 et seq. (Harrison 2001); Haw. Rev. Stat. 
+Ann. § 461-1 et seq. (Michie 2001); Idaho Code § 54-1701 et seq. 
+(Michie 2000); 225 Ill. Comp. Stat. Ann. 85/1 et seq. (West 2001); 
+Ind. Code Ann. § 25-26-13 et seq. (Michie 2001); lowa Code 
+§ 155A.1 et seq. (2001); Kan. Stat. Ann. § 65-1625 et seq. (2001); Ky. 
+Rev. Stat. Ann. § 315.002 et seq. (Michie 2001); La. Rev. Stat. Ann. 
+§ 1161 
+et seq. (West 2000); Me. Rev. Stat. Ann. Tit. 32 § 13701 et 
+also require that out-of-state pharmacies dispensing to 
+patients in their States register in their States and subject 
+themselves to their enforcement.5 States define 
+seq. (West 2001); Md. Code Ann., [Health Occ.] § 12-101 et seq. 
+(2001); Mass. Ann. Laws ch. 94C, § 1 et seq. (Law. Co-op. 2001); 
+Mich. Comp. Laws Ann. § 333.17701 et seq. (West 2001); Minn. 
+Stat. § 151.01 et seq. (2000); Miss. Code Ann. § 73-21-71 et seq. 
+(2001); Mo. Rev. Stat. § 338.010 et seq. (2001); Mont. Code Ann. 
+§ 37-7-101 et seq. (2001); Neb. Rev. Stat. Ann. § 71-1,142 et seq. 
+(Michie 2001); Nev. Rev. Stat. Ann. 639.001 et seq. (Michie 2001); 
+N.H. Rev. Stat. Ann. § 318.1 et seq. (2001); N.J. Stat. Ann. 
+§ 45:14-1 et seq. (West 2001); N.M. Stat. Ann. § 61-11-1 et seq. 
+(Michie 2001); N.Y. [Educ.] Law § 6800 et seq. (Consol. 2001); 
+N.C. Gen. Stat. § 90-85.2 et seq. (2000); N.D. Cent. Code 
+§ 43-15-01 et seq. (2001); Ohio Rev. Code Ann. § 4729.01 et seq. 
+(West 2001); Okla. Stat. tit. 59, § 353-1 et seq. (2001); Or. Rev. Stat. 
+§ 689.005 et seq. (1999); 63 Pa. Stat. Ann. § 390-1 et seq. (West 
+2001); R.I. Gen. Laws § 5-19.1-1 et seq. (2001); S.C. Code Ann. 
+§ 40-43-10 et seq. (Law. Co-op. 2001); S.D. Codified Laws 
+§ 36-11-1 et seq. (Michie 2001); Tenn. Code Ann. § 63-10-401 et 
+seq. (2001); Tex. [Occ.] Code Ann. § 551.001 et seq. (Vernon 2001); 
+Utah Code Ann. § 58-17a-101 et seq. (2001); Vt. Stat. Ann. tit. 26, 
+§ 2021 et seq. (2001); Va. Code Ann. § 54.1-3401 et seq. (Michie 
+2001); Wash. Rev. Code Ann. § 18.64.001 et seq. (West 2001); W. 
+Va. Code Ann. § 30-5-1 et seq. (Michie 2001); Wis. Stat. Ann. 
+§ 450.01 et seq. (West 2001); Wyo. Stat. Ann. § 33-24-101 et seq. 
+(Michie 2001). 
+5 Alaska Stat. § 8.80.158 (Michie 2001); Ark. Code Ann. 
+§ 17-92-401 (Michie 2001); Cal [Bus. Prof.] Code § 4112 (Deering 
+2001); Conn. Gen. Stat. § 20-627 (2001); Del. Code Ann. Tit. 24, 
+§ 2538 (2001); Fla. Stat. Ch. 465.0156 (2001); 225 Ill. Comp. Stat. 
+Ann. 85/16a (West 2001); Ind. Code Ann. § 25-26-17-3 (Michie 
+2001); lowa Code § 155A.13a (2001); Kan. Stat. Ann. § 65-1657 
+(2001); Ky. Rev. Stat. Ann. § 315.0351 (Michie 2001); Md. Code 
+Ann., [Health Occ.}] § 12-403 (2001); Minn. Stat. § 151.19 (2000); 
+Miss. Code Ann. § 73-21-106 (2001); Mont. Code Ann. § 37-7-703 
+(2001); Nev. Rev. Stat. Ann. 639.2328 (Michie 2001); N.M. Stat. 
+Ann. § 61-11-14.1 (Michie 2001); N.Y. [Educ.] Law § 6808-b 
+
+
+PAGE 12
+10 
+manufacturing® and 
+(Consol. 2001); N.C. Gen. Stat. § 90-85.21a (2000); N.D. Cent. 
+Code § 43-15-34.1 (2001); Okla. Stat. tit. 63, § 2-302 (2000); R.I. 
+Gen. Laws § 5-19.1-11 (2001); S.D. Codified Laws § 36-11-19.3 
+(Michie 2001); Va. Code Ann. § 54.1-3434.1 (Michie 2001); Wash. 
+Rev. Code Ann. § 18.64.360 (West 2001); Wyo. Stat. Ann. 
+§ 33-24-152 (Michie 2001). 
+An example is Illinois’ statute which provides that, “(t]he 
+Board shall require and provide for an annual nonresident 
+special pharmacy registration for all pharmacies located outside 
+of [Illinois] that dispense medications for Illinois residents and 
+mail, ship, or deliver prescription medications into [Illinois].” 
+225 Ill. Comp. Stat. Ann. 85/16a(b) (West 2001). 
+© Ala. Code § 34-23-1(11) (2001); Alaska Stat. § 8.80.480(15) 
+(Michie 2001); Ariz. Rev. Stat. Ann. § 32-1901(27) (West 2001); 
+Ark. Code Ann. § 20-64-201(5) (Michie 2001); Cal [Bus. Prof.]} 
+Code § 4033 (Deering 2001); Colo. Rev. Stat. Ann. § 12-22-102(17) 
+(West 2001); Conn. Gen. Stat. § 21-240(28) (2001); Del. Code 
+Ann. tit. 24, § 2502 (2001); D.C. Code Ann. § 48-701(3) (2001); 
+Fla. Stat. ch. 499.003(21) (2001); Ga. Code Ann. § 26-4-5(23) 
+(Harrison 2001); Haw. Rev. Stat. Ann. § 328-112 (Michie 2001); 
+Idaho Code § 54-1705(17) (Michie 2000); 225 Ill. Comp. Stat. 
+Ann. 120/15 (West 2001); Ind. Code Ann. § 16-18-2-216 (Michie 
+2001); Iowa Code § 124.101(16) (2001); Kan. Stat. Ann. 
+§ 65-1626(q) (2001); Ky. Rev. Stat. Ann. § 315.010(12) (Michie 
+2001); La. Rev. Stat. Ann. § 1164(25) (West 2000); Me. Rev. Stat. 
+Ann. tit. 32 § 13702(14) (West 2001); Md. Ann. Code art. 27, § 277 
+(2001); Mass. Ann. Laws ch. 94C, § 1 (Law. Co-op. 2001); Mich. 
+Comp. Laws Ann. § 333.17706(1) (West 2001); Minn. Stat. 
+§ 151.01(Subd. 14) (2000); Miss. Code Ann. § 73-21-73(s) (2001); 
+Mo. Rev. Stat. § 195.010(23) (2001); Mont. Code Ann. 
+§ 37-7-101(17) (2001); Neb. Rev. Stat. Ann. § 28-401(14) (Michie 
+2001); Nev. Rev. Stat. Ann. 639.009 (Michie 2001); N.H. Rev. Stat. 
+Ann. § 318.1(viii) (2001); N.J. Stat. Ann. § 24:6B-12(f) (West 
+2001); N.M. Stat. Ann. § 61-11-2(Q) (Michie 2001); N.Y. [Educ.] 
+Law § 6802(21) (Consol. 2001); N.C. Gen. Stat. § 90-87(15) (2000); 
+N.D. Cent. Code § 43-15-01(13) (2001); Ohio Rev. Code Ann. 
+11 
+compounding,” while neither is defined in the FDCA or 
+FDAMA. 
+§ 3715.01(14) (West 2001); Okla. Stat. tit. 59, § 351.1(20) (2001); 
+Or. Rev. Stat. § 689.005(19) (1999); 35 Pa. Stat. Ann. § 780-102 
+(West 2001); R.I. Gen. Laws § 5-19.1-2(n) (2001); S.C. Code Ann. 
+§ 40-43-30(29) (Law. Co-op. 2001); S.D. Codified Laws 
+§ 34-20B-1(11) (Michie 2001); Tenn. Code Ann. § 63-10-404(18) 
+(2001); Tex. [Occ.] Code Ann. § 551.003(23) (Vernon 2001); Utah 
+Code Ann. § 58-17a-102(22) (2001); Vt. Stat. Ann. tit. 18, 
+§ 4201(14) (2001); Va. Code Ann. § 54.1-3401 (Michie 2001); 
+Wash. Rev. Code Ann. § 18.64.011(20) (West 2001); W. Va. Code 
+Ann. § 30-5-1b(o0) (Michie 2001); Wis. Stat. Ann. § 450.01(13) 
+(2001); Wyo. Stat. Ann. § 35-7-1002(xiii) (Michie 2001). 
+7 Alaska Stat. § 8.80.480(3) (Michie 2001); Ariz. Rev. Stat. 
+Ann. § 32-1901(7) (West 2001); Colo. Rev. Stat. Ann. 
+§ 12-22-102(6) (West 2001); Conn. Gen. Stat. § 20-571(5) (2001); 
+Ga. Code Ann. § 26-4-5(4) (Harrison 2001); Haw. Rev. Stat. Ann. 
+§ 328-112 (Michie 2001); Idaho Code § 54-1705(17) (Michie 2000); 
+225 Ill. Comp. Stat. Ann. 85/3(0) (West 2001); Ky. Rev. Stat. Ann. 
+§ 315.010(5) (Michie 2001); La. Rev. Stat. Ann. § 1164(5) (2000); 
+Me. Rev. Stat. Ann. tit. 32 § 13702(2-A) (West 2001); Md. Code 
+Ann., [Health Occ.] § 12-101(d) (2001); Miss. Code Ann. 
+§ 73-21-73(c) (2001); Mont. Code Ann. § 37-7-101(7) (2001); Neb. 
+Rev. Stat. Ann. § 71-1,142(7) (Michie 2001); Nev. Rev. Stat. Ann. 
+639.0053 (Michie 2001); N.H. Rev. Stat. Ann. § 318.1(III-a) (2001); 
+N.M. Stat. Ann. § 61-11-2(C) (Michie 2001); N.C. Gen. Stat. 
+§ 90-85.3(c) (2000); N.D. Cent. Code § 43-15-01(3) (2001); Ohio 
+Rev. Code Ann. § 4729.01(C) (West 2001); R.I. Gen. Laws 
+§ 5-19.1-2(c) (2001); S.C. Code Ann. § 40-43-30(7) (Law. Co-op. 
+2001); S.D. Codified Laws § 36-11-2(5) (Michie 2001); Tenn. Code 
+Ann. § 63-10-404(4) (2001); Tex. [Occ.] Code Ann. § 551.003(9) 
+(Vernon 2001); Utah Code Ann. § 58-17a-102(6) (2001); Va. Code 
+
+
+PAGE 13
+12 
+\ 
+SUMMARY OF ARGUMENT 
+FDAMA’s advertisement and solicitation restrictions 
+fail this Court’s test for commercial speech restrictions 
+established in Central Hudson Gas & Elec. Corp. v. Public 
+Serv. Comm'n, 447 U.S. 557 (1980) and, therefore, violate 
+the First Amendment. The parties agree, here and in the 
+courts below, that Respondents’ advertisements and 
+solicitations are truthful and non-misleading. In the court 
+below, Petitioners agreed that the introduction of com- 
+pounds interstate was legal, a position they no longer 
+maintain in this Court. 
+Petitioners do not have a substantial interest in “pre- 
+venting manufacturing under the guise of compounding” 
+because Petitioners’ purported interest is based on a false 
+premise. The false premise is that pharmacy compound- 
+ing in compliance with State laws can ever be manufac- 
+turing or that they can be differentiated by volume. 
+Petitioners’ erroneous position disregards the differences 
+between manufacturing and compounding and falsely 
+attributes advertising and soliciting solely to manufactur- 
+ing. 
+In an attempt to achieve that goal, Section 353a 
+restricts truthful, non-misleading speech; however, 
+Respondents’ adve:ising and soliciting do not drive 
+demand for compounded drugs; patients’ needs as deter- 
+mined by physicians’ prescriptions drive that demand. 
+Advertising informs the physician of the availability of 
+Ann. § 54.1-3401 (Michie 2001); Wash. Rev. Code Ann. 
+§ 18.64.011(18) (West 2001); W. Va. Code Ann. § 30-5-1b(c) 
+(Michie 2001); Wis. Stat. Ann: § 450.01(3) (West 2001). 
+13 
+compounded drugs to satisfy a pre-existing patient need. 
+Moreover, the Petitioners, by their own admission, will 
+allow advertising of compounding services, just not of 
+particular compounded drugs, classes of drugs, or types 
+of drugs. Consequently, even were we to assume, 
+arguendo, that a restriction prohibiting advertising of ser- 
+vices and specific drugs, classes, and types could mea- 
+surably reduce the demand for compounded drugs, it is 
+doubtful that the FDAMA speech ban on specii'c drugs, 
+classes, and types could achieve that goal. Further, 
+regardless of the speech restrictions, the many exceptions 
+to FDAMA allow widespread dispensing of compounded 
+drugs such that the advertisement and solicitation restric- 
+tions do little to advance Petitioners’ asserted interest. 
+The absolute speech restrictions in §§ 353a(a) and (c) 
+are more extensive than necessary to accomplish Peti- 
+tioners’ purported interest. The Ninth Circuit correctly 
+recognized less intrusive options that would advance 
+Petitioners’ interest. For example, disclaimers explaining 
+that compounded drugs did not have FDA approval 
+would accomplish Petitioners’ interest without abridging 
+Respondents’ First Amendment rights. Petitioners ratio- 
+nalize that compounds are “new drugs” and, therefore, 
+must be put through a new drug approval process. 
+The FDCA never recognized compounds as new 
+drugs, and the FDA’s prior conduct is consistent with this 
+position. Pharmacy compounding is specifically 
+exempted from the FDCA by 21 U.S.C. §§ 360(a)(1), 
+360(g)(1), and 374(a)(2)(A). It is inconceivable that Peti- 
+tioners, other than for the purpose of this appeal, genu- 
+inely consider interstate dispensing of compounds illegal. 
+As Petitioners admit in their brief, they steadfastly and 
+
+
+PAGE 14
+14 
+historically have «cfrained from controlling or regulating 
+compounding, and openly acknowledge the desirability 
+of compounding in the niches where manufactured drugs 
+are unavailable. Petitioners assert that “[b]efore 1997, the 
+introduction of compounded new drugs into interstate 
+commerce - like the introduction of all other unapproved 
+new drugs - was unlawful in all circumstances.” (Pets.’ 
+Br. 18.) They are wrong and ignore the FDA’s own com- 
+plete lack of regulation or enforcement activity towards 
+pharmacies. 
+The advertisement and solicitation restrictions in Sec- 
+tion 353a do nothing more than prevent the dissemina- 
+tion of admittedly truthful, non-misleading information 
+to physicians and patients. Capping the volume of com- 
+pounds cannot be accomplished by restrictions on adver- 
+tising or soliciting. Such volume restrictions are provoked 
+by physicians’ judgments of patients’ needs. The informa- 
+tion disseminated is not just advertising, but also educa- 
+tional, i.e., it informs physicians and patients of what is 
+capable of being compounded. 
+Petitioners cannot condition exemption from FDCA 
+requirements on Respondents’ relinquishment of their 
+Constitutional rights because the First Amendment pro- 
+tects Respondents from the Petitioners’ attempt to regu- 
+late conduct by suppressing speech. 
+¢ 
+15 
+ARGUMENT 
+I. THE COURTS BELOW CORRECTLY HELD THAT 
+THE RESTRICTIONS ON TRUTHFUL AND NON- 
+MISLEADING ADVERTISEMENT AND SOLICITA- 
+TION CONTAINED IN SECTIONS 353a(a) AND (c) 
+VIOLATE THE FIRST AMENDMENT 
+A. 
+Petitioners Have The Burden Of Satisfying The 
+Central Hudson Criteria 
+The parties agree, and the courts below held, that 
+Respondents’ advertisements and solicitations constitute 
+commercial speech and that the First Amendment issues 
+in this case are controlled by Central Hudson and its 
+progeny. Petitioners also concede that Respondents’ 
+advertisements and solicitations are truthful and not mis- 
+leading.® (Pets.’ Br. 18.) For the restrictions on advertise- 
+ment and solicitation in §§ 353a(a) and (c) to pass First 
+Amendment scrutiny, they must satisfy the four Central 
+Hudson criteria: (1) the speech at issue must concern 
+lawful activity and not be inaccurate or misleading; (2) 
+the asserted governmental interest must be substantial; 
+(3) the law challenged must directly and materially 
+advance the asserted governmental interest; and (4) the 
+law must accomplish the asserted ends in a manner that 
+is not more extensive than necessary. 447 U.S. at 566. See 
+also 44 Liquormart, Inc. v. Rhode Island, 517 U.S. 484, 
+499-500, 529 (1996). 
+The parties also agree that “[t]he government has the 
+burden of justifying a commercial speech restriction.” 
+8 Samples of Respondents’ advertisements are in the 
+record. (Grp. Exh. 2 to Verified Compl.) 
+
+
+PAGE 15
+16 
+(Defs.’ Mot. Summ. J., at 12.) It has been difficult to pin 
+down Petitioners’ position as to whether the introduction 
+of compounds into interstate commerce is legal. In this 
+Court, they say it is “unlawful in all circumstances.” 
+(Pets’. Br. 18.) Yet, this is not the position that the district 
+court or the Ninth Circuit understood Petitioners to have 
+taken. The district court found, “lijn this case, Defen- 
+dants do not argue that the restrictions at issue involve 
+illegal activity; rather they contend that the targeted 
+speech is misleading.” (Pets.’ App. 32a; to the same effect, 
+see, Defs.’ Resp. to Interrogs., { 2.) The Ninth Circuit 
+held, “[o]n appeal, the government does not contend that 
+the prohibited speech is unlawful or misleading.” (Pets.’ 
+App. 5a.) The parties disagree whether Petitioners have 
+met their burden in showing that the soliciting and 
+advertising restrictions at issue satisfy the second, third 
+and fourth Central Hudson criteria. 
+Central Hudson requires that Petitioners may restrict 
+speech only upon a showing of a substantial interest and 
+that the restriction directly and materially advances the 
+substantial interest in a manner no more extensive than 
+necessary. 447 U.S. at 566. Mere speculation or conjecture 
+by the government in attempting to meet its burden will 
+not suffice. Edenfield v. Fane, 507 U.S. 761, 770-71 (1993). 
+“The State’s burden is not slight. . 
+. 
+. [It] must demon- 
+strate that the harms it recites are real and that its restric- 
+tions will in fact alleviate them to a material degree.” 
+Ibanez v. Florida Dep’t of Bus. & Prof’l Regulation, 512 U.S. 
+136, 143 (1994). Petitioners cannot satisfy their weighty 
+burden, as they have attempted to here, with arguments 
+that “amount to little more than unsupported assertions.” 
+Zauderer v. Office of Disciplinary Counsel, 471 U.S. 626, 649 
+— 
+ee 
+17 
+(1985); 44 Liquormart, Inc., 517 U.S. at 504; Edenfield, 507 
+U.S. at 769. 
+Petitioners suggest that this Court has sub silentio 
+overruled Edenfield, Ibanez and Zauderer and lessened 
+their burden to one based “solely on history, consensus, 
+and ‘simple common sense.’ ” (Pets.’ Br. 30.) Petitioners 
+base this claim upon Lorillard Tobacco Co. v. Reilly, 121 
+S. Ct. 2404 (2001). In Lorillard, this Court, relying on 
+Florida Bar v. Went For It, Inc., 515 U.S. 618 (1995) stated 
+that, “[w]e have permitted litigants to justify speech 
+restrictions by reference to studies and anecdotes pertain- 
+ing to different locales altogether, or even, in a case 
+applying strict scrutiny, to justify restrictions based solely 
+on history, consensus, and “simple common sense.” 121 
+S. Ct. at 2422, quoting Florida Bar v. Went For It, Inc., 515 
+U.S. at 628 (citations and internal quotations omitted). 
+However, in Florida Bar, unlike here, significant studies 
+were introduced at trial to support the problem 
+addressed. 515 U.S. at 635. Similarly, in Lorillard, this 
+Court’s review revealed substantial documentation of the 
+problem of underage use of smokeless tobacco and cigars. 
+121 S. Ct. at 2408. The record here is void of a basis in 
+common sense, let alone proof, that the speech restric- 
+tions directly and materially advance the government's 
+purported interest in lessening compounding activity. 
+In Florida Bar, this Court relied upon Burson v. Free- 
+man, 504 U.S. 191 (1992), and upheld the limited prohibi- 
+tion on the solicitation of votes within 100 feet of the 
+entrance to a polling place on election day. See Burson, 504 
+U.S. at 211. In balancing two important constitutional 
+rights, free speech and the right to vote, this Court said 
+
+
+PAGE 16
+18 
+that “because a government has such a compelling inter- 
+est in securing the right to vote freely and effectively, this 
+Court never has held a State ‘to the burden of demon- 
+strating empirically the objective effects on political sta- 
+bility that [are] produced’ by the voting regulation in 
+question.” Burson, 504 U.S. at 208, citing Munro v. Socialist 
+Workers Party, 479 U.S. 189, 195 (1986). Neither Lorillard, 
+Florida Bar, nor Burson support Petitioners’ contention 
+that “common sense” can substitute for evidence to sup- 
+port Petitioners’ claim that the dispensing of com- 
+pounded drugs significantly increases demand for 
+compounding beyond what it would otherwise be, 
+allegedly endangering health. “Such speculation certainly 
+does not suffice when the State takes aim at accurate 
+commercial information for paternalistic ends.” 44 Liquor- 
+mart, Inc., 517 U.S. at 507. 
+B. 
+Petitioners Have Not Shown That They Have A 
+Substantial Interest 
+Petitioners claim that the challenged restrictions on 
+truthful speech are justified because they advance Peti- 
+tioners’ interest to a material degree in “preventing com- 
+pounding that is tantamount to manufacturing” which, if 
+permitted, would threaten to undermine the new drug 
+approval process. (Pets.’ Br. 31; see also similar claims at 
+Pets.’ Br. 13, 14, 28, 33, 34, 35, 40, 43.) Petitioners never 
+define the point at which compounding ends and manu- 
+facturing begins, making the assessment impossible due 
+to want of necessary facts and criteria. 
+Petitioners’ argument is premised on an assumption 
+that compounding is capable of being done on a scale 
+19 
+tantamount to manufacturing. (Pets.’ Br. 28.) However, 
+regardless of volume, compounding can never be manu- 
+facturing and manufacturing can never be compounding. 
+They are not defined in Title 21 of the United States Code, 
+and notwithstanding Petitioners’ Interrogatory Answer, 
+“State law is irrelevant to this case” (Defs.’ Resp. to 
+Interrog. { 1), these terms are defined under State law. 
+Typically, States define manufacturing as the production 
+of a drug to meet an identified generalized patient need, 
+| 
+delivered to distributors and wholesalers who sell to 
+pharmacies which dispense to patients.? The manufac- 
+turer plays no role in the triad, receives no prescriptions, 
+and does not dispense. In contrast, under State laws, 
+pharmacists compound and dispense.” Hence, com- 
+pounding is incapable of ever being tantamount to manu- 
+facturing. Additionally, if and when demand for a 
+compound ever increases to a level where manufacturing 
+becomes practical (i.e., profitable), 
+a manufacturer may 
+bring it to market, whereupon pharmacies will stop mak- 
+ing it. Petitioners advocate that a characteristic of manu- 
+facturing is volume. No State or federal law supports this 
+leitmotif. 
+The FDCA and FDAMA do not define “compound- 
+ing” or “manufacturing” and State pharmacy codes do 
+not draw upon volume as a distinguishing characteristic. 
+For example, under the Wisconsin Pharmacy Code, “man- 
+ufacturing” is defined as the “distribution of the drug 
+. 
+.. from the original place of manufacture to the person 
+9 See footnote 
+6, supra. 
+10 See footnote 
+7, supra. 
+
+
+PAGE 17
+20 
+who makes final delivery or sale to the ultimate con- 
+sumer.” Wis. Stat. Ann. § 450.01(13). “Manufacturing” 
+contemplates distribution by an individual or entity 
+which is never the patient. “Compound” means to “mix, 
+combine or put together various ingredients or drugs for 
+the purpose of dispensing,” Wis. Stat. Ann. § 450.01(3), 
+and.“dispense” is defined as “to deliver a prescribed 
+drug . 
+. 
+. to an ultimate user... 
+. 
+” Wis. Stat. Ann. 
+§ 450.01(7). 
+Petitioners’ unsupported assertion, “that advertising 
+of particular drug products is a business practice that is 
+characteristic of manufacturing, but not of traditional 
+compounding by a pharmacy for an individual need” 
+(Pets.’ Br. 33) so that “[e]xpenditures on such advertising 
+therefore are a fair proxy for actual or intended large 
+scale manufacturing” (Pets.’ Br. 35) is belied by the phar- 
+macy codes of the 50 states. Even if manufacturers adver- 
+tise, it does not follow that pharmacies do not or that 
+patients and physicians should be prohibited from receiv- 
+ing truthful information. Blanket bans on commercial 
+speech are disfavored. See 44 Liquormart, Inc., 517 U.S. at 
+500-502, quoting Central Hudson, 447 U.S. at 566, n.9 
+(“[S]pecial concerns arise from ‘regulations that entirely 
+suppress commercial speech in order to pursue a non- 
+speech related policy.’ ”). 
+The district court’s opinion rejecting Petitioners’ 
+argument on this subject is a cogent statement of the 
+fallacy of the government's posit'on: 
+The court is not convinced, however, that [Peti- 
+tioners] have a substantial per vst y 
+caer 
+‘compounding 
+under the guise of manufactur- 
+ing.’ [Petitioners] have offered no definition of 
+21 
+either manufacturing or compounding, appar- 
+ently because the Modernization Act itself offers 
+no such definition. Thus, there is no coherent 
+way for this court to determine whether [Peti- 
+tioners] have a substantial interest in encourag- 
+ing one while limiting the other. In their 
+argument, [Petitioners] appear to equate high 
+volume distribution with manufacturing and 
+low volume distribution with compounding. In 
+their Motion, they insist that they must “limit 
+the volume of compounding because of the 
+increased health risks associated with a large 
+number of patients receiving drugs that are not 
+subject to the same quality control standards 
+that apply to ordinary manufactured drugs.” 
+[Petitioners}’ Motion at 21. This framework, 
+however, obviously cannot support [Peti- 
+tioners}’ asserted interest in preventing com- 
+pounding allegedly done under the guise of 
+manufacturing. First, it does nothing to clarify 
+the difference between manufacturing and com- 
+pounding. Furthermore, even were the distinc- 
+tion clear, this argument neither explains nor 
+supports 
+the contention 
+that there are 
+“increased health risks associated with a large 
+number of patients” receiving compounded 
+drugs, but that compounded drugs in small 
+quantities produce an overall benefit to the pub- 
+lic health. 
+If, on the other hand, [Petitioners] believe that 
+the relevant distinction is between those drugs 
+that are FDA approved and those that are not, 
+the court agrees that the FDA has a legitimate 
+interest in preventing pharmacists from circum- 
+venting FDA requirements by changing the 
+description of their products. To the extent this 
+
+
+PAGE 18
+22 
+is the basis for [Petitioners]’ distinction, the 
+court agrees that it is substantial. The problem 
+with this argument is that without more, it ulti- 
+mate’; -educes to equating manufacturing with 
+approv d drugs and compounding with unap- 
+proved drugs. At that point, any interest [Peti- 
+tioners] assert in making compounded drugs 
+available to individual patients is no long ten- 
+able. Therefore, on the facts before it, the court 
+is unable to either identify or acknowledge the 
+significance of the distinction between manufac- 
+tured and compounded drugs.* For this reason, 
+it cannot agree with [Petitioners] that the Gov- 
+ernment has a substantial interest in achieving 
+the imprecise and undefined balance it purpor- 
+tedly seeks here. 
+(Pets.’ App. 42a-44a.) 
+In reality, the practical difference in this 
+case between [Petitioners]’ notion of manufac- 
+turing and compounding may actually be 
+embodied by the precise issue the court must 
+address in this order. Specifically, it appears that 
+[Petitioners] would ae aewenyes Pyne men 
+combining as manufacturing, 
+pa 
+- 
+poy ererenar berber drug combining as com- 
+, i> Gane Ge Comeies Sy a 
+ing 
+to whether the pharmacist or other 
+8 
+nn Stn advertised, promoted or otherwise ini- 
+tiated the sale and use of the particular drug 
+product. Of course, to accept [Petitioners]’ dis- 
+tinction, and more importantly, to accept that 
+[Petitioners] have a substantial interest in pre- 
+serving this distinction, is to agree that [Peti- 
+tioners] have a substantial interest in preventing 
+23 
+pharmacists from advertising or promoting par- 
+ticular compounded drugs, because to allow 
+such promotion would be to allow pharmacists 
+to manufacture under the guise of compound- 
+ing. This conclusion begs the question before the 
+court, which is whether the speech restrictions 
+contained in § 353a are legitimate. 
+(Pets." App. 43a, n.9.) 
+C. 
+Petitioners Have Not Shown That The Restric- 
+tions On Respondents’ Truthful And Non-Mis- 
+leading Advertising And Soliciting Materially 
+Advance Petitioners’ Asserted Interests 
+1. FDA's prior enforcement actions are irrele- 
+vant to the unconstitutionality of the chal- 
+lenged restrictions but do reveal that the 
+FDA did not consider “compounding” to be 
+“manufacturing” "! 
+Petitioners argue that prior to the enactment of 
+FDAMA, the FDA was enforcing the law in a manner 
+consistent with FDAMA and that FDAMA merely 
+brought “the legal status of compounding in line with 
+FDA's longstanding enforcement policy of regulating 
+only drug manufacturing, not ordinary pharmacy com- 
+pounding.” (Pets.’ Br. 6, quoting 143 Cong. Rec. S 9811-04 
+at S 9839 (daily ed. Sept, 24, 1997) (Statement of Sen. 
+Kennedy).) Petitioners rely upon the CPG and cases cited 
+at page 36 of their brief to support their claim that before 
+‘! Respondents contest that the FDA has jurisdiction over 
+compounded drugs as they are not “new drugs” under 
+§ 321(p)(1), 
+and the FDA’s prior non-enforcement 
+is relevant to 
+the analysis of whether compounds are new drugs. 
+
+
+PAGE 19
+24 
+FDAMaA, the interstate dispensing of compounds was not 
+permitted. (Pets.’ Br. 6, 32-33, 36.) The cases cited by 
+Petitioners at page 36 of their brief are silent on the 
+proposition for which they have been cited and have 
+nothing to do with compounded drugs or truthful and 
+non-misleading advertisements. 
+Petitioners’ reliance on its own enforcement of the 
+FDCA before FDAMA to establish that its enforcement 
+met Constitutional standards is misplaced. First, the CPG 
+itself did not make the advertising or soliciting of com- 
+pounded drugs illegal. It was a statement of FDA enforce- 
+ment policy that itself revealed the FDA to have deemed 
+compounding not illegal manufacturing when conducted 
+in conformance with the nine CPG factors. Second, the 
+CPG was not law. It was merely an unenforceable internal 
+guide for FDA field agents. See Professionals & Patients for 
+Customized Care v. Shalala, 847 F. Supp. 1359, 1363-64 (S.D. 
+Tex. 1994), aff'd at 56 F.3d 592 (Sth Cir. 1995) (“PPCC”). As 
+the court in PPCC held, “a policy statement announces 
+the agency’s tentative intentions for the future.” 56 F.3d 
+at 596. 
+Courts have not hesitated to declare illegal the 
+enforcement policies of the FDA based on internal guide- 
+lines. See, e.g., FDA v. Brown & Williamson Tobacco Corp., 
+529 U.S. 120, 133 (2000) (invalidating FDA’s regulations 
+over tobacco); Pearson v. Shalala, 164 F.3d 650, 661 (D.C. 
+Cir. 1999) (invalidating on First Amendment grounds 
+FDA regulation regarding diet supplements); Washington 
+Legal Found. v. Friedman, 13 F. Supp. 2d 51, 74 (D.D.C. 
+1998) (invalidating on First Amendment grounds policies 
+of FDA and HHS restricting off-label uses of FDA- 
+approved drugs and devices); Washington Legal Found. v. 
+25 
+Friedman, 36 F. Supp. 2d 16 (D.D.C. 1999); Washington 
+Legal Found. v. Henney, 56 F. Supp. 2d 81, 87 (D.D.C. 1999) 
+(finding FDA’s policies restricting the dissemination of 
+articles and texts relating to off-label use in violation of 
+the First Amendment, vacated at 202 F.3d 331 (D.C. Cir. 
+2000) because FDA conceded on appeal that it had no 
+authority to prosecute manufacturers for violating a nor- 
+mative standard set forth in FDAMA or the guidelines for 
+continuing medical education). 
+2. The power to regulate compounding, a com- 
+mercial activity, does not include the power 
+to restrict advertising, promoting, and solic- 
+iting 
+If compounded drugs filled in response to a physi- 
+cian’s prescription are dangerous, then compounding 
+should be outlawed. Yet, State pharmacy codes and phar- 
+macy schools mandate compounding equipment and 
+skills, compounding is specifically exempted by federal 
+statutes, the FDA left compounding alone fur at least 59 
+years, and Petitioners praise compounding, conceding its 
+importance and necessity. Nonetheless, Petitioners strug- 
+gle to withhold truthful, non-misleading information 
+about an acclaimed and legal activity. 
+This Court has made it clear that the government 
+may not employ restrictions on accurate commercial 
+speech about lawful activity to regulate the underlying 
+activity which the government seeks to affect. As this 
+Court stated in 44 Liquormart: 
+.. 
+. we think it quite clear that banning speech 
+may sometimes prove far more intrusive than 
+
+
+PAGE 20
+26 
+banning conduct. 
+. 
+. 
+. In short, we reject the 
+assumption that words are necessarily less vital 
+to freedom than actions, or that logic somehow 
+proves that the power to prohibit an activity is 
+necessarily “greater” than the power to sup- 
+press speech about it. 
+517 U.S. at 511. See also Virginia State Bd. of Pharmacy v. 
+Virginia Citizens Consumer Council, Inc., 425 U.S. 748, 773 
+(1976) (holding that a State may not “completely suppress 
+the dissemination of concededly truthful information 
+about entirely lawful activity, fearful of that information’s 
+effect upon its disseminators and its recipients.”). 
+Petitioners argue that the advertising and soliciting 
+restrictions advance a substantial governmental interest 
+in that reducing advertising will reduce demand, thereby 
+protecting the public health from compounded drugs. 
+(Pets.’ Br. 35.) This Court has consistently rejected this 
+rationale as a justification for limitations upon advertis- 
+ing. See, e.g., 44 Liquormart, Inc., 517 U.S. at 500, n.10 
+(striking down two Rhode Island statutes that prohibited 
+the advertising of alcoholic beverage retail prices any- 
+where other than at point of purchase); Rubin v. Coors 
+Brewing Co., 514 U.S. 476, 491 (1995) (invalidating federal 
+statute that prohibited brewers from disclosing on labels 
+the alcoholic content of their beers); Virginia State Bd. of 
+Pharmacy v. Virginia Citizens Consumer Council, Inc., 425 
+U.S. 748, 772 (1975) (declaring unconstitutional a Virginia 
+statute that made it unprofessional for a pharmacist to 
+advertise the prices of prescription drugs). See also Valley 
+Broad. Co. v. United States, 107 F.3d 1328 (9th Cir. 1997); 
+Carey v. Population Serv. Int’l., 431 U.S. 678 (1977); Bates v. 
+State Bar of Arizona, 433 U.S. 350 (1977); but cf., Greater 
+27 
+New Orleans Broad. Ass'n v. United States, 527 U.S. 173, 
+188-89 (1999) (holding unconstitutional statute and regu- 
+lations that prohibited radio and television broadcasters 
+from carrying advertisements about privately operated 
+commercial casino gambling but recognizing govern- 
+ment’s interest in alleviating casino gambling’s social 
+costs by limiting demand). 
+The assertion that speech restrictions advance the 
+public health has been rejected by the D.C. Circuit in 
+Pearson v. Shalala, 164 F.3d 650 (D.C. Cir. 1999). In Pearson, 
+the FDA argued that the health of consumers was directly 
+advanced by barring health claims about dietary supple- 
+ments not approved by the FDA. Pearson, 164 F.3d at 656. 
+Here, in a rehash of their position rejected in Pearson, 
+Petitioners argue that the health of consumers is 
+advanced by barring all advertisements of compounded 
+drugs because they have not been approved by the FDA. 
+In rejecting the FDA’s argument in Pearson, the D.C. 
+Circuit wrote: 
+The government simply asserts its ‘common 
+sense judgment’ that the health of consumers is 
+advanced directly by barring any health claims 
+not approved by the FDA. Because it is not 
+claimed that the product is harmful, the govern- 
+ment’s underlying - if unarticulated - premise 
+must be that consumers have a limited amount 
+of either attention or dollars that could be 
+devoted to pursuing health through nutrition, 
+and therefore products that are not indisputably 
+health enhancing should be discouraged as 
+threatening to crowd out more worthy expendi- 
+tures. We are rather dubious that this simplistic 
+view of human nature or market behavior is 
+sound, but, in any event, it surely cannot be said 
+
+
+PAGE 21
+28 
+that this notion - which the government does 
+not even dare openly to set forth — is a direct 
+pursuit of consumer health; it would seem a 
+rather indirect route, to say the least. 
+164 F.3d at 656. 
+3. 
+Patient need and physician judgment drive 
+demand for compounds, not advertisement, 
+promotion, and solicitation 
+No matter how widely Respondents truthfully adver- 
+tise particular drugs, classes and types of drugs, patients 
+cannot obtain a compounded drug without a valid pre- 
+scription from a licensed physician. To the extent adver- 
+tising drives demand for compounds, the judgment of the 
+prescribing physician serves as a brake. Unlike consumer 
+products for which demand can be artfully hyped, adver- 
+tising compounded drugs merely informs physicians and 
+patients about the availability of compounds, but only to 
+meet a pre-existing medical need. In the triad, the phar- 
+macist is not a pitchman, but a learned professional. The 
+pharmacist educates the physician of treatment oppor- 
+tunities which the physician may then prescribe but only 
+upon diagnosis of a patient with that particular need. 
+Petitioners offered no evidence that Section 353a’s 
+advertisement and solicitation restrictions would directly 
+and materially further the government's goal to reduce 
+demands for compounds. As this Court observed when 
+considering gambling advertising, “[w]hile it is no doubt 
+fair to assume that more advertising would have some 
+29 
+impact on overall demand for gambling, it is also reason- 
+able to assume that much of that advertising would 
+merely channel gamblers to one casino, rather than 
+another.” Greater New Orleans Broad. Ass'n v. United States, 
+527 U.S. 173, 189 (1999). The speech restrictions in Section 
+353a do not directly and materially advance the govern- 
+ment’s purported interest. 
+4. 
+Petitioners have not demonstrated that the 
+challenged speech restrictions will mate- 
+rially prevent a circumvention of the drug 
+approval process 
+Petitioners claim that the speech and advertising 
+restrictions contained in §§ 353a(a) and (c) will prevent 
+circumventing the new drug approval process. Petitioners 
+rely upon Weinberger v. Bentex Pharm., Inc., 412 U.S. 645, 
+653 (1973), in which this Court noted “that it would be 
+‘inherently unfair’ to require compliance by one manu- 
+facturer with the new drug approval requirements ‘while 
+his competitors marketing similar drugs remain free to 
+violate the Act.’ ” (Pets.’ Br. 29.) Manufacturers and phar- 
+macists do not compete, and Petitioners offered no evi- 
+dence of this mythical competition. By definition, 
+pharmacies only compound in the absence of a suitable 
+manufactured product. (Verified Compl., { 21(a).) It ill 
+behooves Petitioners to complain that compounds bypass 
+the new drug approval process. Compounds were never 
+subject to the new drug approval process, which would 
+not have changed under FDAMA. The only change would 
+have been the imposition of First Amendment restrictions 
+which would not have directly and materially protected 
+the new drug approval process. 
+
+
+PAGE 22
+30 
+\ 
+Petitioners claim that the advertisement and solicita- 
+tion restrictions protect the public because public health 
+risk increases when more patients use compounded 
+drugs.!2 (Pets.’ Br. 30.) In the lower courts, Petitioners 
+based this claim on one anecdotal incident reported as 
+hearsay in the CPG. In this Court, Petitioners again rely 
+upon this isolated anecdotal incident. (Pets.’ Br. 28.) As 
+the court recognized in United States v. Sene X Eleemosyn- 
+ary Corp., Inc., 479 F. Supp. 970, 976 (S.D. Fla. 1979), aff'd, 
+[1982-1983 Transfer Binder] Food Drug Cosm. L. Rep. 
+(CCH) { 38,207 (11th Cir. 1983), such “anecdotal evi- 
+dence . 
+. 
+. is the poorest form of evidence.” In Weinberger 
+v. Hynson, Westcott & Dunning, Inc., this Court charac- 
+terized anecdotal evidence as “treacherous.” 412 U.S. 609, 
+629-630 (1973). Speculative conjecture will not satisfy 
+Petitioners’ burden in justifying the speech and advertis- 
+ing restrictions at issue. Ibanez v. Florida Dep't of Bus. & 
+Prof’! Regulation, 512 U.S. 136, 141-142 (1994); Zauderer v. 
+Office of Disciplinary Counsel, 471 U.S. 626, 647 (1985). 
+5. FDAMA is so riddled with exceptions that 
+it cannot directly and materially advance 
+Petitioners’ asserted interest 
+When a statutory or regulatory scheme is “so pierced 
+by exemptions and inconsistencies, [] the Government 
+cannot hope to exonerate it.” Greater New Orleans Broad. 
+Ass’n, 527 U.S. at 190. Petitioners’ aim is to suppress the 
+12 The cases relied upon by Petitioners at footnote 4 of their 
+brief are irrelevant here. They had nothing to do with 
+compounding by a licensed pharmacist, and none were First 
+Amendment cases. 
+31 
+volume of compounded drugs. Yet, regardless of the 
+speech restrictions, FDAMA permits widespread com- 
+pounding. 
+FDAMA permitted pharmacies to dispense unlimited 
+quantities of prescription drugs intrastate. Moreover, 
+nothing made it illegal for patients to cross state lines and 
+purchase compounds in a neighboring state, and FDAMA 
+did not prevent a physician from prescribing a compound 
+in any quantity or frequency. 
+The MOU provisions did nothing to stem interstate 
+dispensing. Pursuant to § 353a(b)(3)(B), if a compounding 
+pharmacist’s State did not enter into an MOU, a pharma- 
+cist could dispense compounds interstate up to 5% of 
+total prescription orders. With an MOU, the pharmacist 
+would be permitted to dispense compounds interstate up 
+to 19.9% of total prescription orders. 
+With their numerous sites, chain drug stores (Wal- 
+greens, CVS, etc.) could single-handedly endrun the per- 
+centages and supply 100% of the demand. Also, to avoid 
+the 5% or 19.9% limitations, pharmacies could merely 
+refer prescriptions over their limit to another pharmacy. 
+That pharmacies can dispense compounds without limits 
+but cannot advertise or solicit their compounds indicates 
+the irrationality of FDAMA’s regulatory scheme. See 
+Rubin v\ Coors Brewing Co., 514 U.S. 476, 488 ("The failure 
+to prohibit the disclosure of alcohol content in advertis- 
+ing, which would seem to constitute a more influential 
+weapon in any strength war than labels, makes no ratio- 
+nal sense if the Government's true aim is to suppress 
+strength wars.”). 
+
+
+PAGE 23
+32 
+FDAMA was ill-conceived because the 5% and 19.9% 
+represent a percentage of each pharmacy’s total prescrip- 
+tion orders. Pharmacies that compound as a specialty and 
+have few sales other than compounds would never have 
+a gross order figure from which to make the calculation, 
+because they would not be able to make a sale of a 
+compound without first making sales of non-com- 
+pounded drugs. 
+D. 
+Section 353a Does Not Accomplish The 
+Asserted Ends In A Manner That Is No More 
+Extensive Than Necessary 
+The Ninth Circuit correctly found that “the speech 
+restrictions fail the fourth Central Hudson factor; they are 
+more extensive than necessary to achieve the asserted 
+government interest.” (Pets.’ App. 10a.) In the district 
+court, Petitioners argued that the speech restrictions were 
+necessary to protect the public from being misled into 
+believing that they were taking prescription drugs that 
+had been approved by the FDA. (Defs.’ Mot. Summ. J. at 
+16-17.) This argument has since been abandoned. The 
+district court and the Ninth Circuit recognized that dis- 
+claimers could accompany compounded drugs, explain- 
+ing that they had not been FDA approved. The 
+availability of options which could advance Petitioners’ 
+asserted interests in a manner less intrusive of Respon- 
+dents’ First Amendment rights indicates that the speech 
+restrictions are more extensive than necessary. See Rubin 
+v. Coors Brewing Co., 514 U.S. at 491. 
+Petitioners now complain that disclaimers would not 
+prevent “widespread distribution of drugs that have not 
+33 
+been demonstrated to be safe and effective.” (Pets.’ Br. 
+45.) The disclaimer was in response to Petitioners’ lower 
+court argument that compounds are inherently mislead- 
+ing, i.e., that they somehow suggest FDA approval. The 
+speech restrictions are far broader than necessary, while 
+at the same time do little, if anything, to limit com- 
+pounded drugs. 
+Petitioners argue that the challenged restrictions on 
+truthful speech are limited intrusions upon advertising 
+and soliciting because the statute permits Respondents to 
+advertise “that they perform compounding services, that 
+they are experts in compounding, and that they stand 
+ready to fill prescriptions for compounded drug prod- 
+ucts.” (Pets.’ Br. 43.) The restrictions on truthful advertis- 
+ing and soliciting contained in § 353a(c) are absolute 
+restrictions upon truthful speech. Section 353a(c) pro- 
+vides that Respondents may not “advertise or promote 
+the compounding of any particular drug, class of drug or 
+type of drug.” 21 U.S.C. § 353a(c). It restricts all advertis- 
+ing and soliciting on those topics, whether made in the 
+pharmacy, at seminars, etc. Those restrictions prevent the 
+very types of advertisement and promotion that this 
+Court held could not be restricted in other cases. See, e.g., 
+44 Liguormart, Inc. v. Rhode Island, 517 U.S. 484 (1996); 
+Rubin v. Coors Brewing Co., 514 U.S. 476 (1995); Virginia 
+State Bd. of Pharmacy v. Virginia Citizens Consumer Council, 
+Inc., 425 U.S. 748 (1976). 
+
+
+PAGE 24
+34 
+II. PHARMACY COMPOUNDED DRUGS ARE NOT 
+NEW DRUGS 
+Although Petitioners did not so argue in the Ninth 
+Circuit, they now argue that the introduction of com- 
+pounds into interstate commerce is “unlawful in all cir- 
+cumstances.” (Pets.’ Br. 18.) Whether pharmacy 
+compounded drugs are “new drugs” and, hence, illegal to 
+introduce into interstate commerce is the easiest issue for 
+this Court because Petitioners represented in the Ninth 
+Circuit that they “do not contend on appeal that the 
+speech prohibited by section 353a concerns illegal activity 
+or is misleading.” (See Brief for Appellants in the Ninth 
+Circuit Court of Appeal, at 27, n.10.) This issue has no 
+place in this Court, as it was given token lip service in the 
+district court, was unsupported by law and evidence, and 
+expressly waived in the Ninth Circuit. Petitioners should 
+be held to that waiver, as they prevented the lower court 
+from deciding that issue. See Lorillard Tobacco Co. v. Reilly, 
+121 S. Ct. 2404, 2419 (2001) (“[W]e decline to reach an 
+issue that was not decided below”); United States v. United 
+Foods, Inc., 121 S. Ct. 2334, 2340 (2001) (declining to reach 
+argument not raised or addressed in the Court of Appeals 
+and rejecting claim that argument was embraced within 
+the question set forth in the petition for certiorari); United 
+States v. Ortiz, 422 U.S. 891, 896 (1975). 
+Petitioners’ original position was that Respondents’ 
+speech was inherently untruthful and misleading. (See 
+Defs.’ Resp. Interrog., { 2.) Petitioners shifted their argu- 
+ment and now contend that compounds are “new drugs” 
+pursuant to 21 U.S.C. § 321(p)(1) and, therefore, illegal to 
+35 
+introduce into interstate commerce without having satis- 
+fied the FDA’s new drug approval process. Alas, com- 
+pounding was never illegal under the FDCA and was not 
+treated as illegal by the FDA before the CPG or in the 
+CPG. 
+Petitioners’ jurisdiction to address compounds as 
+new drugs, if existent at all, would have to derive from 
+the “new drug” definition in 21 U.S.C. § 321(p)(1). This is 
+the foundation from which Petitioners maintain they can 
+extract the surrender of First Amendment rights. To con- 
+fer upon the FDA jurisdiction over compounds as “new 
+drugs,” there would have to be an explicit statutory grant 
+of authority. See, e.g., FDA v. Brown & Williamson, 529 U.S. 
+120 (2000). 
+A. 
+The Inapplicability Of 21 U.S.C. § 321(p)(1) 
+And The Impossibility Of Clinical Trials For 
+Compounds 
+Compounds are drugs, but not “new drugs.” The 
+determination of what is a new drug starts with an anal- 
+ysis of 21 U.S.C. § 321(p)(1), which requires expert eval- 
+uation for safety and effectiveness - an evaluation 
+Petitioners represent requires in excess of $200 million. 
+(Pets.’ Br. 26.) Petitioners point out that this would be 
+“uneconomical.” (Pets.’ Br. 27.) It would not only be 
+uneconomical but impossible. To satisfy the clinical trial 
+component of the approval process requires not only 
+untold millions of dollars, but a statistically valid sample. 
+Weinberger v. Hynson, Wescott & Dunning, Inc., 412 US. 
+609 (1973), demonstrates the impossibility of applying 
+§ 321(p)(1) to compounds because of the need to present 
+
+
+PAGE 25
+36 
+“substantial evidence of effectiveness” for a new drug, 
+which this Court held included “evidence consisting of 
+adequate and well controlled investigations, including 
+clinical investigations.” Hynson, 412 U.S. at 614, 617. See 
+also United States v. 9/1 KG. Container, 854 F.2d 173, 177 
+(7th Cir. 1988) (discussing veterinary drugs, the court 
+held that a new drug “ 
+. 
+. 
+. requires data from large 
+populations of animals and the application of powerful 
+statistical techniques.”) (emphasis added). The unavoid- 
+able dilemma, revealing these provisions incapable of 
+application to compounded drugs, is that compounded 
+drugs are patient-specific, typically varying in dose 
+levels, composition, and even delivery form from patient 
+to patient. 
+Petitioners’ references to § 321(p)(1) always omit crit- 
+ical, operative words and phrases. Petitioners always 
+only recite the “not generally recognized [] among 
+experts” portion, while always omitting the “to evaluate 
+the safety and effectiveness” portion. A key element of 
+§ 321(p)(1) is evaluation, and as Petitioners themselves 
+report, this takes not just vast sums of money, but a vast 
+patient database. (Pets.’ Br. 26-27.) This database will 
+never exist for compounds. Section 321(p)(1) requires 
+that, to qualify as a new drug, the expert recognition 
+comes after intense evaluation and, hence, must be capa- 
+ble of being evaluated. This “evaluation” is impossible 
+for compounds because compounds fill extemporaneous 
+needs not met by manufactured drugs and, consequentty, 
+would never generate a sufficiently sizeable statistical 
+base upon which to determine safety and efficacy to the 
+degree required for a new drug. This standard has never 
+37 
+been applied to compounds and, if it ever were, com- 
+pounds would be eliminated, other than on a purely 
+intrastate basis. 
+Petitioners’ own cases establish that the new drug 
+approval requirements cannot be applied to compounds. 
+See, e.g., Hynson, 412 U.S. at 618 (a test drug must be 
+“standardized as to identity, strength, quality, purity and 
+dosage form to give significance to the results of the 
+investigation”) (citation omitted); United States v. Ruther- 
+ford, 442 U.S. 544, 553 (1979) (effectiveness of new drug 
+must be “formed on substantial evidence”); Weinberger v. 
+Bentex Pharm., Inc., 412 U.S. 645, 652 (1973) (whether a 
+drug is a new drug “ 
+. 
+. 
+. depends in part on expert 
+knowledge and experience . 
+. 
+. based on controlled clini- 
+cal experimentation and backed by substantial support”). 
+These cases establish that compounds are categorically 
+incapable of being subjected to the intense investigation 
+required of new drugs. Compounds are not standardized, 
+as required by Hynson and, by definition, do not exist in 
+sufficient quantities for clinical trials. 
+B. The Effects Of 21 U.S.C. §§ 360(a)(i), 360(g)(1), 
+And 374(a)(2)(A) 
+Section 321(p)(1) does not mention compounds, while 
+other sections of Title 21 of the United States Code over- 
+whelming support the proposition that pharmacy com- 
+pounding, if compliant with these sections, is not covered 
+by the FDCA. See 21 U.S.C. §§ 360(a)(1), 360(g)(1), and 
+374(a)(2)(A). Petitioners acknowledge that § 321(p)(1) 
+applies only to manufacturers and distributors. Manufac- 
+turers and distributors must obtain approval, i.e., 
+
+
+PAGE 26
+38 
+undergo the referenced evaluation, must satisfy the FDA 
+that the drug is safe and effective, and must register, 
+report, and be inspected by the FDA. (Pets.’ Br. 2-3.) 
+There is no federal definition of manufacturing or 
+compounding. (See, Pets.’ App. 42a.) Their definitions are 
+left exclusively to the States,!3 which definitions do not 
+take into account volume or interstate activity. This 
+reliance on State enforcement and adoption of State defi- 
+nitions is expressly incorporated into §§ 360(a)(1), 
+360(g)(1), and 374(a)(2)(A). Against. this backdrop we 
+address §§ 360(a)(1), 360(g)(1), and 374(a)(2)(A). Section 
+360(a)(1) expressly provides that the registration require- 
+ment only applies to persons or entities who distribute 
+“from the original place of manufacture to the person 
+who makes final delivery or sale to the ultimate con- 
+sumer or user.” 21 U.S.C. § 360(a)(1).* This, without 
+more, completely excludes pharmacies, because it is they 
+which dispense to the ultimate consumer or user under 
+State laws and § 360(a)(1). 
+The complete exclusion from registration found in 
+§§ 360(a)(1) and (g)(1) is critical, as it immunizes phar- 
+macies from the FDCA’s jurisdiction if they dispense to 
+13 See footnotes 6 and 7, supra. 
+14 Compare the language of § 360(a)(1), “from the original 
+place of manufacture to the person who makes final delivery or 
+sale to the ultimate consumer or user” to the language in Wis. 
+Stat. Ann. § 450.01(7), “ ‘Dispense’ means to deliver a 
+prescribed drug . 
+. . to an ultimate 
+user. . . by or pursuant to the 
+prescription order of a practitioner, including the 
+compounding 
+. 
+. 
+. necessary to prepare the prescribed 
+drug . 
+. . for delivery.” 
+39 
+the ultimate consumer, pursuant to a physician’s pre- 
+scription, in conformity with State laws. Any entity that 
+does not need to register is beyond the FDA’s reach. In 
+FDA v. Brown & Williamson Tobacco, Corp., 529 U.S. 120 
+(2000), this Court held that, “[a] court-must therefore 
+interpret the statute as a symmetrical and coherent regu- 
+latory scheme, and fit, if possible, all parts into a harmo- 
+nious whole.” 529 U.S. at 133 (internal citations and 
+quotations omitted). There is no statutory grant in the 
+FDCA that gives the FDA jurisdiction over compounded 
+drugs as new drugs. As this Court found in Brown & 
+Williamson, 
+--- an administrative agency’s power to regulate 
+in the public interest must always be grounded 
+in a valid grant of authority from Congress. And 
+in our anxiety to effectuate the congressional 
+purpose of protecting the public, we must take 
+care not to extend the scope of the statute 
+beyond the point where Congress indicated it 
+would stop. 
+Id. at 151 (internal citations and quotations omitted). See 
+also Weinberger v. Bentex Pharm., Inc., 412 U.S. 645, 652 
+(1973) (“[pJarties, of course, cannot confer jurisdiction; 
+only Congress can do so”). 
+Here, not only is there no such grant, but the FDCA 
+explicitly excludes compounding pharmacies from regis- 
+tration and inspection. Once excluded from registration, 
+compounding cannot be manufacturing since manufac- 
+turers must register. If compounds were new drugs, then 
+the FDA would be entitled to' demand registration so as 
+to inspect the plant where the new drug is manufactured. 
+The identical, unequivocal provisions of §§ 360(g)(1) and 
+
+
+PAGE 27
+40 
+\ 
+374(a)(2)(A) further isolate pharmacies from the FDCA, 
+as long as they comply with these sections. 
+— 
+C. 
+Petitioners’ Cases Do Not Apply 
+Petitioners rely on cases which do not support the 
+proposition that pharmacy compounding in compliance 
+with State laws is either manufacturing or creates new 
+drugs. In Cedars North Towers Pharmacy, Inc. v. United 
+States, [1978-79 Transfer Binder] Food Drug Cosm. L. Rep. 
+(CCH) { 38,200 (S.D. Fla. Aug. 28, 1978), Cedars was 
+accused of packaging and shipping medications to physi- 
+cians, thereby presumably taking it out of the 
+§§ 360(a)(1), 360(g)(1), and 374(a)(2)(A) exemptions. The 
+court in Cedars set out factors which, in the context of the 
+case, it considered to be relevant in determining whether 
+Cedars was exempt under § 360(g)(1). Not one factor 
+related to a First Amendment restriction. Moreover, 
+Cedars advertised products at wholesale prices, hence, 
+not “at retail” as required by Sections 360(g)(1) and 
+374(a)(2)(A); and its products were also shipped exclu- 
+sively to physicians for resale and not to the ultimate 
+user. Cedars determined that a pharmacy is entitled to an 
+exemption and that it needed to determine whether 
+Cedars had “come dangerously close to crossing the line 
+separating a pharmacy 
+. 
+. 
+. from a manufacturer of 
+drugs. ...” Cedars determined that “the facts compel the 
+conclusion that Cedars had so clearly transcended the 
+level of normal pharmacy operation as to leave no ques- 
+tion. .. 
+. ” Cedars specifically held that “the uncontested 
+facts contained in the record required the conclusion that 
+Cedars is compounding and selling drugs other than the 
+41 
+regular course of the pharmacy dispensing and selling 
+drugs at retail.” 
+In Professionals & Patients for Customized Care v. Sha- 
+lala, 56 F.3d 592 (Sth Cir. 1995) (“PPCC”), the court held 
+that “[pJharmacies that practice traditional compounding 
+are regulated primarily by state law and the drugs that 
+they blend are exempt from many federai misbranding 
+provisions.” 56 F.3d at 593. PPCC recognized that phar- 
+macies may not compound and sell to third parties for 
+resale to patients without running the risk of losing their 
+status as an excluded retail entity. Id. at 594. PPCC did 
+not find that compounds are new drugs, but did find that 
+the FDA’s CPG was not a substantive rule. Id. Because it 
+was not a substantive rule, the CPG did not impose any 
+rights and obligations on pharmacies. Id. at 595. Notwith- 
+standing Petitioners’ self-serving reliance on the CPG as a 
+historical marker, to the extent PPCC has any relevance, it 
+is in the finding “ 
+. 
+. 
+. that traditional compounding 
+activity is not the subject of this CPG 7132.16.” Id. at 602. 
+In United States v. Sene X Eleemosynary Corp., Inc., 479 
+F. Supp. 970 (S.D. Fla. 1979), a manufacturer was trying to 
+parade as a pharmacy. While Sene X was compounding 
+after the receipt of a “prescription,” it was filled by one 
+pharmacy that compounded one product. Sene X, 479 
+F. Supp. at 979. It was not extemporaneous compounding 
+because the physician did not have any influence as to 
+the ingredients, dosage, or delivery form. Id. at 978-79. In 
+Sene X, the court noted that it did not address the issue 
+whether the customary practice of pharmacy is an exemp- 
+tion from the new drug provisions. Id. at 978. 
+
+
+PAGE 28
+42 
+Pharmanex v. Shalala, 221 F.3d 1151 (10th Cir. 2000) 
+dealt with manufacturers, and the FDCA’s pharmacy 
+exemption provisions were not an issue. It is clear the 
+case related to a manufacturer which made no pretense 
+otherwise. Pharmanex, 221 F.3d at 1153. In Weinberger v. 
+Bentex Pharm., Inc., 412 U.S. 645 (1973), the defendant was 
+not a pharmacy but a “drug marketer.” 412 U.S. at 647. 
+There is no mention of any pharmacy exemptions, and it 
+would be a fair read that it involved exclusively mar- 
+keters who either were or represented manufacturer(s). 
+Similarly, USV Pharm. Corp. v. Weinberger, 412 U.S. 655 
+(1973), was brought by a “drug marketer” but the Court 
+did not reveal whether the marketer was a manufacturer 
+or distributor for a manufacturer. However, since there 
+was no discussion of pharmacy compounding and a New 
+Drug Application had issued, it could not have beeqva 
+pharmacy compounding case. Id. at 664. In United States 
+v. 9/1 KG. Containers, 854 F.2d 173 (7th Cir. 1988), the 
+court held that § 360(g)(2) applies to all drugs made from 
+components that may be lawfully obtained and com- 
+pounded. 854 F.2d at 179. Therefore, compounding with 
+lawfully obtained ingredients is not prohibited conduct. 
+D. 
+The FDA‘s Historical Hands-Off Approach To 
+Pharmacy Compounding 
+Petitioners have never been able to explain or recon- 
+cile how they seek to preserve the availability of com- 
+pounded drugs (Pets.’ Br. 19), while at the same time 
+maintaining that before FDAMA, “the introduction of all 
+other unapproved new drugs - was unlawful in all cir- 
+cumstances” (Pets.’ Br. 18) or explain how restricting First 
+Amendment rights aids this reconciliation. Petitioners 
+43 
+argue that their historical 59-year inaction towards phar- 
+macy compounding is the result of a deliberate benign 
+forbearance. A more reasoned explanation for Petitioners’ 
+59-year inaction is their recognition that compounding, 
+compliant with the previously cited sections, was outside 
+its jurisdiction. 
+In Rutherford, this Court held that the FDA’s imple- 
+mentation scheme was a salient factor in considering 
+what the FDCA was intended to cover, and relied on the 
+fact that the FDA had never made an exception for drugs 
+for the terminally ill. 442 U.S. at 553. Likewise, the FDA 
+has an uninterrupted 59 plus year history of not requiring 
+compounds to be subjected to the new drug approval 
+process. It is as valuable to consider the FDA’s implemen- 
+tation history by omission as commission. 
+If this long-standing non-intervention was the conse- 
+quence of benevolent tolerance, then the FDA is admit- 
+ting that for generations it knowingly permitted illegal 
+activity. This 59-year period is itself expert evidence that 
+compounds are not new drugs. Petitioners admit the 
+“FDA's longstanding enforcement policy of regulating 
+only drug manufacturing, not ordinary pharmacy com- 
+pounding.” (Pets.’ Br. 6.) They further concede that the 
+FDA only took action when compounding was outside 
+the scope of normal pharmacy practice, meaning that if 
+compounding was within the scope of normal pharmacy 
+practice, the FDA did not take action because it was not 
+illegal under the FDCA, and the FDA had no jurisdiction. 
+Interference with the availability and sources for 
+compounds compromises the physicians’ prerogative to 
+prescribe and treat. Compounding is a physician driven 
+
+
+PAGE 29
+44 
+therapy. Petitioners permit physicians to prescribe com- 
+mercially av2ilable drugs for off label uses. Prescribing a 
+compound is akin to a physician prescribing off label 
+uses. See Washington Legal Foundation 
+v. Friedman, 13 
+F. Supp. 2d 51, 55 (D.D.C. 1998) (“A physician may pre- 
+scribe an approved drug for any medical condition, irre- 
+spective of whether FDA has determined that the drug is 
+safe and effective with respect to that illness.”). 
+E. Adequacy Of Existing Regulations And Patient 
+Protection 
+The absence of FDAMA does not create unreasonable 
+risks. If risk was a legitimate concern, then, as Judge Ezra 
+pointed out in his Opinion, the FDA could entirely pro- 
+hibit compounding. (Pets.’ App. 34a.) Further, if safety 
+and efficacy were indeed meaningful concerns, then First 
+Amendment restrictions are meaningless, as they afford 
+no protection. 
+: 
+The patient’s protections include the physician's 
+diagnosis and determination of appropriate therapy, issu- 
+ance of a prescription, evaluation of that prescription, 
+which includes application of her training and judgment 
+as a licensed professional, and collaboration between 
+them. In addition, the pharmacy codes and enforcement 
+activities of all the States in which the pharmacies are 
+located, and 26 States into which they dispense, provide 
+added protection. It is further telling that notwithstand- 
+ing their penchant for anecdotal “evidence,” Petitioners 
+offer no modern examples of problems with compounds. 
+Petitioners also never reference the FDA approved drugs 
+which proved unsafe after entering the market. 
+45 
+It is conceivable that some time, some pharmacy will 
+operate outside the exclusions set up in the FDCA and 
+beyond the scope of State laws. On that day, the FDA and 
+State authorities will be able to take enforcement action 
+against that pharmacy which took itself outside the 
+exemptions. However, this enforcement goal and scheme 
+is not advanced by the First Amendment restrictions. 
+It is irreconcilable for Petitioners to maintain that the 
+interstate dispensing of compounds is illegal under all 
+circumstances after Petitioners and Congress have rou- 
+tinely, historically, and consistently permitted, tolerated, 
+praised, protected and endorsed compounding in statutes 
+and in all briefs in this case. 
+III. PETITIONERS CANNOT CONDITION EXEMP- 
+TION FROM THE FDA’S NEW DRUG APPROVAL 
+PROCESS ON RELINQUISHMENT OF FIRST 
+AMENDMENT RIGHTS 
+Respondents maintain compounds are not new 
+drugs. In the event this Court disagrees with that conten- 
+tion, Respondents further maintain an exemption cannot 
+be conditioned on restrictions of First Amendment rights. 
+Petitioners assert that FDAMA’s exemption of com- 
+pounds from the FDCA’s new drug approval require- 
+ments is contingent upon pharmacies’ surrender of their 
+First Amendment right to advertise and solicit. (Pets.’ Br. 
+7-8, 18-19, 42-43.) Petitioners claim that the “government 
+may condition a benefit on their relinquishment of a 
+constitutional right if waiver of the right is reasonably 
+related to the benefit.” (Pets.’ Br. 42-43, citing Dolan v. City 
+of Tigard, 512 U.S. 374, 385, 391 (1994) and Pickering v. 
+
+
+PAGE 30
+46 
+Board of Educ., 391 U.S. 563, 568 (1968).) Petitioners did 
+not raise this argument anywhere below and, hence, this 
+Court should not reach that issue. See, e.g., Lorillard 
+Tobacco Co. v. Reilly, 121 S. Ct. 2404, 2420 (2001) (“We 
+decline to reach an issue that was not decided below.”); 
+United States v. United Foods, Inc., 121 S. Ct. 2334, 2340 
+(2001); United States v. Ortiz, 422 U.S. 891, 896 (1975). 
+The claim is based on false assumption as well as a 
+syllogism previously rejected by this Court. Petitioners’ 
+purported “exemption” of compounds is illusory. As dis- 
+cussed above (Part II, supra), by statute and FDA conduct, 
+compounds are not and have never been treated as “new 
+drugs.” Petitioners have attempted to create a hollow 
+bargain - that Respondents must forego their First 
+Amendment rights to advertise and solicit in exchange 
+for an exemption from regulation that is inapplicable in 
+the first place. To dispense compounds, Respondents 
+need not relinquish their First Amendment rights. 
+If, hypothetically, the Court were to find that com- 
+pounds are new drugs, Petitioners nonetheless cannot 
+condition an exemption upon Respondents’ relinquish- 
+ment of First Amendment rights. See 44 Liquormart Inc. v. 
+Rhode Island, 517 U.S. 484, 513 (1996) (Stevens, J., joined 
+by Kennedy, J., Thomas, J., and Ginsburg, J.) (“it does not 
+follow that conferral of the benefit may be conditioned on 
+the surrender of a constitutional right”). Although the 
+Court tolerated such a scheme in Posadas de Puerto Rico 
+Associates v. Tourism Co. of P.R., 478 U.S. 328 (1986), the 
+Court has since rejected Petitioners’ position as a false 
+syllogism. See 44 Liquormart, 517 U.S. at 510-14. 44 Liquor- 
+mart distinguished and disavowed that “greater-includes- 
+the-lesser” argument because “it is inconsistent with both 
+47 
+logic and well-settled doctrine.” 44 Liquormart, 517 US. at 
+514. In 44 Liquormart, the Court rejected the proposition 
+that the power to regulate commercial activity is greater 
+than the power to ban truthful, non-misleading commer- 
+cial speech. Id. at 511-12 (“The text of the First Amend- 
+ment makes clear that the Constitution presumes that 
+attempts to regulate speech are more dangerous than 
+attempts to regulate conduct. 
+. 
+. 
+. As a result, the First 
+Amendment directs that government may not suppress 
+speech as easily as it may suppress conduct. .. 
+. ”). 
+Recognizing that this Court rejected its argument in 
+44 Liquormart, Petitioners rework their words and try 
+again. Instead of asserting that the greater power to regu- 
+late conduct can justify réstricting speech related to that 
+conduct, Petitioners argue in this case that the speech 
+restrictions are a condition on an exemption from regulat- 
+ing the conduct. This gets Petitioners no farther. 
+FDAMA’s restriction on advertisement and solicitation as 
+a condition upon the alleged “exemption” violates the 
+First Amendment. 
+The cases upon which Petitioners rely in support of 
+the newly minted “relinquishment theory,” Dolan v. City 
+of Tigard, 512 U.S. 374 (1994) and Pickering v. Board of 
+Educ., 391 U.S. 563 (1968), do not support Petitioners’ 
+claim. Dolan raised no First Amendment issues, but was a 
+Fifth Amendment case that held that the government may 
+not require a person to give up the right to receive just 
+compensation when property is taken for public use. 512 
+U.S. at 385. In Pickering, this Court held that “the theory 
+that public employment which may be denied altogether 
+may be subjected to any conditions, regardless of how 
+unreasonable has been uniformly rejected.” 391 U.S. at 
+
+
+PAGE 31
+48 
+568, quoting citing Keyinshan v. Board of Regents, 385 U.S. 
+589, 605-606 (1967). These cases do not save Section 353a. 
+e 
+CONCLUSION 
+For all the foregoing reasons, it is respectfully sub- 
+mitted that the judgment of the Ninth Circuit Court of 
+Appeals be affirmed. 
+Respectfully Submitted, 
+Howarp M. HorrMANN 
+Counsel of Record 
+Jason T. Lunpy 
+Duane Morris LLC 
+227 W. Monroe — Suite 3400 
+Chicago, Illinois 60606 
+312/499-6700 
+Attorneys for Respondents 

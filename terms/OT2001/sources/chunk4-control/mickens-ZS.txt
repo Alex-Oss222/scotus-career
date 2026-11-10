@@ -1,0 +1,34 @@
+Source: https://www.law.cornell.edu/supct/html/00-9285.ZS.html
+
+MICKENS V. TAYLOR
+LII
+Supreme Court
+MICKENS V. TAYLOR (00-9285)
+240 F.3d 348, affirmed.Syllabus
+Opinion
+[ Scalia ]Concurrence
+[ Kennedy ]Dissent
+[ Stevens ]Dissent
+[ Souter ]Dissent
+[ Breyer ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+MICKENS v. TAYLOR, WARDEN
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+No. 00—9285.  Argued November 5, 2001–Decided March 27, 2002
+A Virginia jury convicted petitioner of the premeditated murder of Timothy Hall during or following the commission of an attempted forcible sodomy, and sentenced petitioner to death.  Petitioner filed a federal habeas petition alleging, inter alia, that he was denied effective assistance of counsel because one of his court-appointed attorneys had a conflict of interest at trial.  Petitioner’s lead attorney, Bryan Saunders, had represented Hall on assault and concealed-weapons charges at the time of the murder.  The same juvenile court judge who dismissed the charges against Hall later appointed Saunders to represent petitioner.  Saunders did not disclose to the court, his co-counsel, or petitioner that he had previously represented Hall.  The District Court denied habeas relief, and an en banc majority of the Fourth Circuit affirmed.  The majority rejected petitioner’s argument that the juvenile court judge’s failure to inquire into a potential conflict either mandated automatic reversal of his conviction or relieved him of the burden of showing that a conflict of interest adversely affected his representation.  The court concluded that petitioner had not demonstrated adverse effect.
+Held: In order to demonstrate a Sixth Amendment violation where the trial court fails to inquire into a potential conflict of interest about which it knew or reasonably should have known, a defendant must establish that a conflict of interest adversely affected his counsel’s performance.  Pp. 3—14.
+(a) A defendant alleging ineffective assistance generally must demonstrate a reasonable probability that, but for counsel’s unprofessional errors, the result of the proceeding would have been different.  Strickland v. Washington, 466 U.S. 668, 694.  An exception to this general rule presumes a probable effect upon the outcome where assistance of counsel has been denied entirely or during a critical stage of the proceeding.  The Court has held in several cases that “circumstances of that magnitude,” United States v. Cronic, 466 U.S. 648, 659, n. 26, may also arise when the defendant’s attorney actively represented conflicting interests.  In Holloway v. Arkansas, 435 U.S. 475, the Court created an automatic reversal rule where counsel is forced to represent codefendants over his timely objection, unless the trial court has determined that there is no conflict.  In Cuyler v. Sullivan, 446 U.S. 335, the Court declined to extend Holloway and held that, absent objection, a defendant must demonstrate that a conflict of interest actually affected the adequacy of his representation, 446 U.S., at 348—349.  Finally, in Wood v. Georgia, 450 U.S. 261, the Court granted certiorari to consider an equal-protection violation, but then remanded for the trial court to determine whether a conflict of interest that the record strongly suggested actually existed, id., at 273.  Pp. 3—7.
+(b) This Court rejects petitioner’s argument that the remand instruction in Wood, directing the trial court to grant a new hearing if it determined that “an actual conflict of interest existed,” id., at 273, established that where the trial judge neglects a duty to inquire into a potential conflict the defendant, to obtain reversal, need only show that his lawyer was subject to a conflict of interest, not that the conflict adversely affected counsel’s performance.  As used in the remand instruction, “an actual conflict of interest” meant precisely a conflict that affected counsel’s performance–as opposed to a mere theoretical division of loyalties.  It was shorthand for Sullivan’s statement that “a defendant who shows that a conflict of interest actually affected the adequacy of his representation need not demonstrate prejudice in order to obtain relief,” 446 U.S., at 349—350 (emphasis added).  The notion that Wood created a new rule sub silentio is implausible.  Moreover, petitioner’s proposed rule of automatic reversal makes little policy sense.  Thus, to void the conviction petitioner had to establish, at a minimum, that the conflict of interest adversely affected his counsel’s performance.  The Fourth Circuit having found no such effect, the denial of habeas relief must be affirmed.  Pp. 7—11.
+(c) The case was presented and argued on the assumption that (absent some exception for failure to inquire) Sullivan would be applicable to a conflict rooted in counsel’s obligations to former clients.  The Court does not rule upon the correctness of that assumption.  Pp. 11—14.
+240 F.3d 348, affirmed.
+Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Thomas, JJ., joined.  Kennedy, J., filed a concurring opinion, in which O’Connor, J., joined.  Stevens, J., filed a dissenting opinion.  Souter, J., filed a dissenting opinion.  Breyer, J., filed a dissenting opinion, in which Ginsburg, J., joined.

@@ -1,0 +1,335 @@
+Source: https://media.ca11.uscourts.gov/opinions/pub/files/199915306.MAN.pdf
+
+PAGE 1
+     *Honorable Frank J. Magill, U.S. Circuit Judge for the Eighth Circuit, sitting by designation.  
+     1Our sister, in her concurring opinion, concludes that we overreach by deciding the question of
+whether disparate impact claims are cognizable under ADEA as a matter of law.  She would find that the
+plaintiffs failed to adequately allege a disparate impact claim.  This position is inconsistent with the
+posture of the case.  The district court expressly made no findings of fact on the sufficiency of the
+allegations in the plaintiffs' complaint.  Indeed, because the district court certified only the question of
+law to us, a "pronouncement in the abstract" is required.  
+Wanda L. ADAMS, Leo L. Floyd, et al., Plaintiffs, Counter-defendants, Appellants,
+v.
+FLORIDA POWER CORP., Florida Progress Corporation, Defendants, Counter-claimants, Appellees.
+No. 99-15306.
+United States Court of Appeals,
+Eleventh Circuit.
+July 5, 2001.
+Appeal from the United States District Court for the Middle District of Florida.(No. 95-00123-CV-OC-10A),
+Wm. Terrell Hodges, Judge.
+Before BIRCH, BARKETT and MAGILL*, Circuit Judges.
+BIRCH, Circuit Judge:
+This case presents an issue of first impression in our circuit regarding whether a disparate impact
+theory of liability is available to plaintiffs sui ng for age discrimination under the Age Discrimination in
+Employment Act of 1967 ("ADEA"), 29 U.S.C. § 621 et seq.  The district court ruled as a matter of law that
+disparate impact claims cannot be brought under the ADEA. Because the question presents a controlling issue
+of law in the case, and the judge opined that ther e were substantial grounds for disagreement over his
+decision, he certified the question to us pursuant to 28 U.S.C. § 1292(b).1  We exercise our discretion to take
+the case and AFFIRM.
+I. BACKGROUND
+Florida Power Corporation ("FPC") operated as a publicly-regulated electric utility monopoly until
+1992, when Congress opened the industry to competition through the Energy Policy Act of 1992, 106 Stat.
+2776 (1992).  Florida Progress Corporation is its parent  corporation.  Wanda Adams and several other
+plaintiffs (the "Adams class") were terminat ed by FPC between 1992 and 1996, during a series of
+reorganizations the company states were necessary to maintain its competitiveness in the newly deregulated
+market.  Members of the Adams class sued FPC and its parent corporation claiming, inter alia, that FPC
+
+PAGE 2
+     2The court also found that the plaintiffs' disparate treatment claims were not sufficiently similar to
+support proceeding as a class.  Accordingly, the court held that the Adams class members would each
+have to pursue their individual remedies separately.  
+     3The district court's Order of Certification states the following:
+[W]hether I am right or wrong in ruling that the disparate impact theory of liability is
+unavailable to these Plaintiffs is a critical issue that ought to be resolved with finality
+before the Court can reasonably proceed with the management of this litigation toward
+trial ... The controlling question of law is whether the "disparate impact" theory or
+method of proving liability is applicable to claims brought under the [ADEA].
+R3-312, at 2-3 (internal citations omitted).  
+discriminated against them because of their age, in violation of the ADEA.
+In 1996, the district court conditionally certified a class of former FPC employees claiming age
+discrimination.  In August 1999, the district court d ecertified the class and ruled as a matter of law that a
+disparate impact theory of liability is not available to plaintiffs bringing suit under the ADEA.2 Because there
+is some conflict among the circuits and we had not ye t ruled on the availability of disparate impact claims
+under the ADEA, the district court certified the question to us pursuant to 28 U.S.C. § 1292(b).3  The court
+was careful to note that he made no findings of fact or assessment of whether the Adams class could produce
+evidence sufficient to state a claim for disparate impact.  Accordingly, the sole question before us is whether,
+as a matter of law, disparate impact claims may be brought under the ADEA.
+II. DISCUSSION
+ We review the district court's interpretation of a statute de novo.  United States v. Prosperi, 201 F.3d
+1335, 1342 (11th Cir.2000).  As with any question of statutory interpretation, we begin by examining the text
+to determine whether its meaning is clear.  "In construing a statute we must begin, and often should end as
+well, with the language of the statute itself."  Merritt v. Dillard Paper Co.,  120 F.3d 1181, 1185 (11th
+Cir.1997).  "Where the language Congress chose to express its intent is clear and unambiguous, that is as far
+as we go to ascertain its intent because we must presume that Congress said what it meant and meant what
+it said."  United States v. Steele, 147 F.3d 1316, 1318 (11th Cir.1998) (en banc), cert. denied, 528 U.S. 933,
+120 S.Ct. 335, 145 L.Ed.2d 261 (1999).
+ The language of the ADEA closely parallels that of Title VII.  See Lorillard v. Pons, 434 U.S. 575,
+584, 98 S.Ct. 866, 872, 55 L.Ed.2d 40 (1978) (noting th at "the prohibitions of the ADEA were derived in
+haec verba from Title VII.")  In fact, the sections forbidding discrimination are almost identical.  Compare
+29 U.S.C. § 623(a)(1) (ADEA) with 42 U.S.C. § 2000e-2(a)(1) (Title VII).  The Supreme Court has held that
+
+PAGE 3
+     4A disparate impact claim is one that "involve[s] employment practices that are facially neutral in
+their treatment of different groups but that in fact fall more harshly on one group than another and cannot
+be justified by business necessity."  Hazen Paper Co. v. Biggins, 507 U.S. 604, 609, 113 S.Ct. 1701,
+1705, 123 L.Ed.2d 338 (1993) (quoting Teamsters v. United States, 431 U.S. 324, 335-36 n. 15, 97 S.Ct.
+1843, 1855 n. 15, 52 L.Ed.2d 396 (1977)).  
+     5The Fourth, Fifth, and D.C. Circuits have not addressed this issue.  
+Title VII supports a cause of action for employment discrimination based on a disparate impact theory.4  See
+Griggs v. Duke Power Co., 401 U.S. 424, 431, 91 S.Ct. 849, 853, 28 L.Ed.2d 158 (1971).
+Several circuits have relied on the holding in Griggs to find that, because the language of the ADEA
+parallels Title VII, disparate impact claims also should be allowed under the ADEA.  See Geller v. Markham,
+635 F.2d 1027, 1032 (2d Cir.1980);  Smith v. City of Des Moines,  99 F.3d 1466, 1469-70 (8th Cir.1996);
+E.E.O.C. v. Borden's, Inc., 724 F.2d 1390, 1394-95 (9th Cir.1984).  In a case involving liquidated damages
+under the ADEA, the Supreme Court explicitly left open the question of "whether a disparate impact theory
+of liability is available under the ADEA." Hazen Paper Co. v. Biggins, 507 U.S. 604, 610, 113 S.Ct. 1701,
+1706, 123 L.Ed.2d 338 (1993).  The Second, Eighth, and Ninth Circuits have read Hazen literally and
+continue to allow disparate impact claims.  See Criley v. Delta Air Lines, Inc.,  119 F.3d 102, 105 (2d
+Cir.1997) (per curiam);  Lewis v. Aerospace Cmty. Credit Union, 114 F.3d 745, 750 (8th Cir.1997);  Frank
+v. United Airlines, Inc., 216 F.3d 845, 856 (9th Cir.2000);  E.E.O.C. v. Local 350, 998 F.2d 641, 648 n. 2 (9th
+Cir.1993).
+In contrast, the First, Third, Sixth, Seventh, and Tenth Circuits have questioned the viability of
+disparate impact claims under the ADEA post-Hazen.5  See Mullin v. Raytheon Co., 164 F.3d 696, 700-01
+(1st Cir.), cert. denied, 528 U.S. 811, 120 S.Ct. 44, 145 L.Ed.2d 40 (1999);  E.E.O.C. v. Francis W. Parker
+School, 41 F.3d 1073, 1076-77 (7th Cir.1994);  Ellis v. United Airlines, Inc.,  73 F.3d 999, 1006-07 (10th
+Cir.1996);  DiBiase v. SmithKline Beecham Corp., 48 F.3d 719, 732 (3d Cir.1995);  Lyon v. Ohio Educ. Ass'n
+and Prof'l Staff Union, 53 F.3d 135, 139 n. 5 (6th Cir.1995).  These cases rely on language in Hazen and other
+factors that suggest that disparate impact claims are not viable under the ADEA.
+ First, courts that question the viability of a disparate impact claim under the ADEA note that the text
+of the ADEA differs from Title VII in an importa nt respect.  Section 623(f)(1) of the ADEA explicitly
+provides that an employer may "take any action otherwise prohibited ... where the differentiation is based on
+reasonable factors other than age."  29 U.S.C. § 623(f)(1).  The First Circuit has reasoned that
+if the exception contained in section 623(f)(1) is not understood to preclude disparate impact liability,
+
+PAGE 4
+     6We note that the ADEA requires that the "other factor" be a reasonable one, while the Equal Pay Act
+finds "any other factor" acceptable.  Compare 29 U.S.C. § 623(f)(1) with 29 U.S.C. § 206(d)(1)(iv).  It
+could be argued that this difference distinguishes the ADEA from the Equal Pay Act, and supports the
+inference that the reasonableness requirement refers to the business necessity justification that, in Title
+VII cases, can be used to defend an employment qualification that has a disparate impact on employees in
+the protected class.  In light of the differences between the ADEA and Title VII discussed herein, we
+decline to draw such an inference.  
+it becomes nothing more than a bromide to the effect that "only age discrimination is age
+discrimination."  Such a circular construction w ould fly in the teeth of the well-settled canon [of
+statutory construction].
+Mullin, 164 F.3d at 702.
+In addition, the language of § 623(f)(1) is similar to language found in the Equal Pay Act. Section
+206(d)(1) of the Equal Pay Act provides that wage discrimination on the basis of gender is prohibited, unless
+the wage "differential [is] based on any other factor other than sex."  29 U.S.C. § 206(d)(1)(iv).  "The
+Supreme Court [has] interpreted section 206(d)(1) of the Equal Pay Act to preclude disparate impact claims."
+Ellis, 73 F.3d at 1008 (citing County of Washington, Ore. v. Gunther, 452 U.S. 161, 170-71, 101 S.Ct. 2242,
+2248-49, 68 L.Ed.2d 751 (1981));  Mullin, 164 F.3d at 702 (drawing same comparison). 6  The text of the
+ADEA is sufficiently distinguishable from Title VII as to raise doubts about extending the disparate impact
+theory of liability to ADEA cases.
+Turning to the legislative history, the Mullin and Ellis courts note that the ADEA was enacted after
+the Secretary of Labor issued a report on age discrimination.  Mullin, 164 F.3d at 702-03;  Ellis, 73 F.3d at
+1008.  The report, entitled The Older American Worker:  Age Discrimination in Employment  (1965),
+recommended that Congress ban arbitrary discrimination, such as disparate treatment based on stereotypical
+perceptions of the elderly, but that factors affecting older workers, such as policies with disparate impact, be
+addressed in alternative ways.  Ellis, 73 F.3d at 1008.  Thus, the history of the ADEA differs from the
+legislative history of Title VII, which the Supreme Court in Griggs relied on to find a cause of action for
+disparate impact.  See Griggs, 401 U.S. at 432, 91 S.Ct. at 854 (discussing the history of amendments to the
+bill and noting that for Title VII, Congress specifically "placed on the employer the burden of showing that
+any given requirement must have a manifest relationship to the employment in question.").
+Finally, while the Hazen Court left open the question of whether a disparate impact claim can be
+brought under the ADEA, language in the opinion suggests that it cannot.  First, the Court noted that
+"[d]isparate treatment ... captures the essence of what Congress sought to prohibit in the ADEA." Hazen, 507
+U.S. at 610, 113 S.Ct. at 1706.  In addition, the Court reiterated that, in making employment decisions, the
+
+PAGE 5
+     1We may affirm the district court's decision for reasons different than those stated by the district
+court.  See Sec. & Exch. Comm'n v. Chenery Corp., 318 U.S. 80, 88, 63 S.Ct. 454, 87 L.Ed. 626 (1943)
+(stating that the decision of the lower court must be affirmed if the result is correct even though the lower
+court relied upon a wrong ground or gave a wrong reason);  see also Turlington v. Atlanta Gas Light Co.,
+135 F.3d 1428, 1434 (11th Cir.1998).  
+use of factors correlated with age, such as pension status, did not rely on "inaccurate and stigmatizing
+stereotypes" and was acceptable.  Id. at 611, 113 S.Ct. at 1706-07.  That position is inconsistent with the
+viability of a disparate impact theory of liability, which requires no demonstration of intent, but relies instead
+on the very correlation between the factor used and the age of those employees harmed by the employment
+decision to prove liability.
+III. CONCLUSION
+The Second, Eighth, and Ninth Circuits allow disparate impact claims under the ADEA.  The First,
+Third, Sixth, Seventh, and Tenth do not.  We  find the reasoning of the Tenth Circuit in Ellis and the First
+Circuit in Mullin persuasive.  Accordingly, we find that disparate impact claims may not be brought under
+the ADEA, and AFFIRM.  
+BARKETT, Circuit Judge, specially concurring:
+I would affirm the district court's ruling in this case, but for reasons other than the one relied upon
+by the district court.1  I do not believe the complaint here pleads a disparate impact claim sufficient to qualify
+for class certification.  Thus, because I find that plainti ffs have sufficiently alleged only that they suffered
+disparate treatment, and the district court's denial of certification on the disparate treatment claim is not at
+issue on this appeal, I believe it is unnecessary and premature to address the question of whether disparate
+impact claims are cognizable under the ADEA.  I think it especially unwise because this question does not
+lend itself to a pronouncement in the abstract.
+The decision as to whether a disparate impact claim is available in an age discrimination case should
+be made on a case specific basis rather than on an  overreliance on decontextualized language from the
+Supreme Court's decision in Hazen Paper Co. v. Biggins, 507 U.S. 604, 113 S. Ct. 1701, 123 L.Ed.2d 338
+(1993).  The purposes of the ADEA, the Supreme Court's treatment of the issue in Hazen Paper,  and
+consideration of the various views of our sister courts, lead me to conclude that disparate impact can be pled
+and proved in an appropriate case unde r the ADEA, and that it cannot be said as a matter of law that this
+theory of recovery can never be used in an age discrimination case.
+First of all, the purpose of the ADEA, like the pur pose of Title VII and the ADA, is to eradicate
+
+PAGE 6
+     2Title VII requires an employer to demonstrate that the challenged practice is a job related business
+necessity.  42 U.S.C. § 2000e-2(k)(1)(A)(i).  The ADA defines discrimination as including the use of
+"selection criteria that screen out or tend to screen out an individual with a disability or a class of
+individuals with disabilities" unless such criteria are "shown to be job-related for the position in question
+and [are] consistent with business necessity."  42 U.S.C. § 12112(b)(6).  
+     3See, e.g., Belk v. Southwestern Bell Telephone Co., 194 F.3d 946, 951 (8th Cir.1999) (employer in
+ADA suit could raise business necessity defense to plaintiff's claim that employer's physical performance
+test has a disparate impact);  Davis v. City of Dallas, 777 F.2d 205, 208 (5th Cir.1985) (finding that city's
+requirement that applicants for police officer must have completed 45 semester hours of college credit
+with at least C average at accredited college or university, must not have history of recent or excessive
+marijuana use, and must not have been convicted of more than three hazardous traffic violations in
+preceding 12 months, were job related).  
+employment discrimination based on the stigmatizing stereotypes of age, race, gender or disability.  Disparate
+impact claims provide an avenue for members of protected classes to prove that discrimination occurred in
+the workplace when proof of motive is difficult or unavailable.  Beginning with Griggs v. Duke Power Co.,
+401 U.S. 424, 431, 91 S.Ct. 849, 28 L.Ed.2d 158 (1971), the Supreme Court recognized that although
+discriminatory intent could be hidden, even from the decisionmaker himself, its effects in the workplace could
+not.  Thus, Title VII "proscribes not only overt discrimin ation but also practices that are fair in form, but
+discriminatory in operation."  Id. at 431, 91 S.Ct. 849.  Accordingly, the Supreme Court interpreted Title VII
+to permit a member of a protected group to challenge facially neutral employment practices that perpetuate
+inequality by disproportionately burdening a protected class.
+However, pleading a disparate impact case only gets you into the courthouse.  An employer in every
+statutory context can defend a disparate impact case by citing a legitimate business necessity for the neutral
+policy at issue.2  Thus, in those cases where it can be shown that the decision causing the disparate impact
+was based on business necessity, the claim will be defeated.3  Disparate impact is not an easy theory to plead
+and prove in any context.  I believe that it is probably a more difficult claim to make under the ADEA than
+in a race or gender context because the impact of neutral policies which fall disproportionately on class
+members protected by the ADEA can be proven to be related to legitimate business reasons in more instances
+than those which might impact other protected groups.  See Hazen Paper, 507 U.S. at 610-11, 113 S.Ct. 1701.
+The majority, however, concludes that disparate impact claims are simply not viable because Section
+623(f)(1) of the ADEA specifically exempts a decision based on factors other than age, notwithstanding its
+similarity to Title VII. 29 U.S.C. § 623(f)(1).  But, as noted, in every statutory discrimination case, a decision
+based upon legitimate business necessity will never support a claim for liability.  Griggs itself recognized and
+repeatedly emphasized that disparate impact is a basis for relief only if the practice in question is not founded
+
+PAGE 7
+     4Edwards v. Shalala, 64 F.3d 601, 606 (11th Cir.1995) (" 'An agency's interpretation of an ambiguous
+provision within a statute it is authorized to implement is entitled to judicial deference.' ") (quoting Jones
+v. Runyon, 32 F.3d 1454, 1457-58 (10th Cir.1994));  see also Pauley v. BethEnergy Mines, Inc., 501 U.S.
+680, 696-98, 111 S.Ct. 2524, 115 L.Ed.2d 604 (1991);  Chevron USA, Inc. v. Natural Resources Defense
+Council, 467 U.S. 837, 866, 104 S.Ct. 2778, 81 L.Ed.2d 694 (1984).  
+     5EEOC guidelines interpret the "reasonable factor other than age" defense as limited only to factors
+justifiable as a "business necessity":
+(d) When an employment practice, including a test, is claimed as a basis for different
+treatment of employees or applicants for employment on the grounds that it is a "factor
+other than" age, and such a practice has an adverse impact on individuals within the
+protected age group, it can only be justified as a business necessity.  Tests which are
+asserted as "reasonable factors other than age" will be scrutinized in accordance with the
+standards set forth at Part 1607 of this Title.
+(e) When the exception of "a reasonable factor other than age" is raised against an
+individual claim of discriminatory treatment, the employer bears the burden of showing
+that the "reasonable factor other than age" exists factually.
+(f) A differentiation based on the average cost of employing older employees as a group
+is unlawful except with respect to employee benefit plants which qualify for the section
+4(f)(2) exception to the Act.
+29 C.F.R. § 1625.7 (2000).  
+     6After the Griggs decision, several courts extended disparate impact analysis to the ADEA. See, e.g.,
+Leftwich v. Harris-Stowe State College, 702 F.2d 686, 690 (8th Cir.1983);  Geller v. Markham, 635 F.2d
+1027 (2nd Cir.1980);  United Independent Flight Officers, Inc. v. United Air Lines, Inc., 572 F.Supp.
+1494, 1505 (N.D.Ill.1983).  Congress has amended the ADEA several times since Griggs.  See e.g., Age
+Discrimination in Employment Amendments of 1986, Pub.L. No. 99-592, 100 Stat. 3342 (1986); 
+Omnibus Budget Reconciliation Act of 1986, Pub.L. No. 99-509, § 9201, 100 Stat. 1874, 1973-75 (1986); 
+Consolidated Omnibus Budget Reconciliation Act of 1985, Pub.L. No. 99-272, § 9201(b), 100 Stat. 82,
+171 (1986);  Older Americans Act Amendments of 1984, Pub.L. No. 98-459, § 802, 98 Stat. 1792 (1984). 
+None of the amendments have limited or prohibited disparate impact analysis.  See also EEOC v.
+Governor Mifflin Sch. Dist., 623 F.Supp. 734, 740-41 (E.D.Pa.1985) (analyzing amendments to the
+on "business necessity," or lacks "a manifest relationship to the employment."  Id. at 431, 91 S.Ct. 849.
+Section 623(f)(1) of the ADEA adds nothing new.  Therefore, Section 623(f)(1) of the ADEA should not be
+interpreted as anything more than a statutory description of the business necessity defense.
+In fact, the EEOC interpretive guidelines, which are entitled to judicial deference,4 suggest that the
+"reasonable factors" defense in the ADEA works in  tandem with the business necessity defense in the
+disparate impact analysis.  These guidelines indicate that an employer may raise a "reasonable factors"
+defense to justify employment practices that "have an adverse impact on individuals within the protected age
+group."  See 29 C.F.R. § 1625.7(d) (1999). 5  In light of the parallels between the substantive provisions of
+the ADEA and Title VII, and in light of the fact that Congress has amended the ADEA several times but has
+never explicitly excluded disparate impact claims,6 a reasonable interpretation of Section 623(f)(1) is that it
+
+PAGE 8
+ADEA and finding no prohibition against disparate impact claims).  "Congress is presumed to be aware of
+an administrative or judicial interpretation of a statute and to adopt that interpretation when it re-enacts a
+statute without change."  Lorillard v. Pons, 434 U.S. 575, 580, 98 S.Ct. 866, 55 L.Ed.2d 40 (1978).  
+     7See Gunther, 452 U.S. at 170, 101 S.Ct. 2242 (noting that in comparison to Title VII, which permits
+disparate impact claims, the Equal Pay Act "was designed differently, to confine the application of the
+Act to wage differentials attributable to sex discrimination....  Equal Pay Act litigation, therefore, has
+been structured to permit employers to defend against charges of discrimination where their pay
+differentials are based on a bona fide use of 'other factors other than sex.' ");  Varner v. Illinois State
+University, 226 F.3d 927, 934 (7th Cir.2000) ("By providing a broad exemption from liability under the
+Equal Pay Act for any employer who can provide a neutral explanation for a disparity in pay, Congress
+has effectively targeted employers who intentionally discriminate against women.").  
+codifies the business necessity exception to disparate impact claims.
+I am unpersuaded by the majority's conclusion that  the the Supreme Court's determination that a
+similar provision in the Equal Pay Act ("EPA") precludes disparate impact claims.  See County of
+Washington, Ore. v. Gunther,  452 U.S. 161, 170-71, 101 S.Ct. 2242, 68 L.Ed.2d 751 (1981).  There are
+several problems with analogizing from the EPA to the ADEA.  First, this case concerns the substantive
+provisions of the ADEA, which have been recognized to share common substantive provisions as Title VII,
+and not the remedial provisions of  the ADEA which are similar to the remedial provisions of the EPA.
+Wallace v. Dunn Construction Co., 62 F.3d 374, 378 (11th Cir.1995).  Second, Section 206(d)(1) of the EPA
+permits discrepancies in wages paid to male and female workers for "any other factors other than sex."  29
+U.S.C. § 206(d)(1)(iv).  The EPA thus merely requires the employer to provide a neutral explanation for any
+disparity in pay.  The EPA's broad defense for empl oyers ensures that the Act targets only intentional
+purposeful discrimination.7  In contrast, under section 623(f)(1) of the ADEA, the employer must demonstrate
+the reasonableness of the neutral factor.  The ADEA's narrow limitation of liability ensures that the Act
+reaches all arbitrary age discrimination.
+Furthermore, I disagree with the majority's interpretation of Hazen Paper as precluding disparate
+impact claims under the ADEA. The Court in Hazen Paper took great care to say explicitly that that decision
+should not be read to address a disparate impact case:  "[W]e have never decided whether a disparate impact
+theory of liability is available under the ADEA, and we need not do so here."  Hazen Paper, 507 U.S. at 610,
+113 S.Ct. 1701.  In Hazen Paper, the neutral policy at issue was the termination of an employee who was
+close to vesting under his pension plan.  As the Court recognized, the policy could have affected "older" and
+"younger" workers alike.  The crucial fact underlying the Supreme Court's decision in Hazen Paper was that
+Hazen Paper decided to fire the plaintiff on the basis of his pension status which, under the company's policy,
+
+PAGE 9
+was based on years of service, not age.  The Court explained that "an employee's age is analytically distinct
+from his years of service."  Id. at 611, 113 S.Ct. 1701.
+An employee who is younger than 40, and therefore outside the class of older workers as defined by
+the ADEA, see 29 U.S.C. § 631(a), may have worked for a particular employer his entire career,
+while an older worker may have been newly hired.  Because age and years of service are analytically
+distinct, an employer can take account of one while ignoring the other, and thus it is incorrect to say
+that a decision based on years of service is necessarily "age based."
+Id. Accordingly, the claimant could not prevail when he was fired on this basis, even though he was 62 years
+old.  The Court held that the motivation to avoid the vesting of pension benefits was insufficient to state a
+disparate treatment claim under the ADEA because the evidence did not show that Hazen Paper's decision
+was based on the plaintiff's age.  Id. ("When the employer's decision is wholly motivated by factors other than
+age, the problem of inaccurate and stigmatizing stereotypes disappears.  This is true even if the motivating
+factor is correlated with age, as pension status typically is.").  However, the Court also made clear that:
+We do not preclude the possibility that an employer who targets employees with a particular pension
+status on the assumption that these employees are likely to be older thereby engages in age
+discrimination.  Pension status may be a proxy for age, not in the sense that the ADEA makes the two
+factors equivalent, but in the sense that the employer may suppose a correlation between the two
+factors and act accordingly.
+Id. at 612-13, 113 S.Ct. 1701 (citation omitted).  Thus, th e Court did not rule out the possibility that an
+employer's purported reliance on an age-proxy could reflect the type of "inaccurate and denigrating
+generalization about age" that the ADEA was designed to prohibit.  Id. at 612, 113 S.Ct. 1701.  For example,
+there is nothing in Hazen Paper that addresses a disparate impact challenge to an employer's insurance policy
+which might provide coverage for health problems affecting young employees, but exclude coverage for
+health problems affecting older employees (for example, a policy which covered braces but not dentures, or
+a policy generally covering progressive, neurodegenerative diseases except for Alzheimer's disease).  See also
+Arnett v. California Public Employees Retirement System,  179 F.3d 690 (9th Cir.1999), vacated and
+remanded on other grounds,  528 U.S. 1111, 120 S.Ct. 930, 145 L.Ed.2d 807 (2000) (plaintiffs' claim that
+employer's disability benefits program which discriminated on the basis of potential years of service, rather
+than actual years of service, adversely affected older workers stated a valid claim of disparate impact under
+the ADEA).  Furthermore, the Court explicitly stated that it did not consider a situation in which the
+employee's pension status is based on age, rather than years of service:
+[W]e do not consider the special case where an empl oyee is about to vest in pension benefits as a
+result of his age, rather than years of service and the employer fires the employee in order to prevent
+vesting.
+
+PAGE 10
+Hazen Paper, 507 U.S. at 613 (citation omitted).
+Finally, the majority is of the view that the legislative history of the ADEA suggests it was not
+enacted to address disparate impact claims, citing the report commissioned from the Secretary of Labor, The
+Older American Worker:  Age Discrimination in Employment (1965).  The report recommended that Congress
+prohibit "arbitrary discrimination," but that factor s which "affect older workers" be addressed through
+programmatic measures to improve opportunities for older workers.  Id. at 21-25.  That report differentiated
+between what it termed "arbitrary discrimination" based on age and problems resulting from factors that
+"affect older workers more strongly, as a group, than they do younger employees."  Id. at 5, 11.  The majority
+concludes that this precludes disparate impact claims because these are claims that only address "factors that
+affect older workers more strongly," not arbitrary discr imination.  But this begs the question.  The very
+question disparate impact analysis seeks to answer is whether the challenged policy that disproportionately
+impacts older workers is derived from a reasonable business judgment or whether the policy is the result of
+arbitrary discrimination.  Claimants should have the opportunity to prove it when it is the latter.
+                                                                                                                                                  

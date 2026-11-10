@@ -1,0 +1,362 @@
+Source: https://ecf.ca8.uscourts.gov/opndir/01/07/002203P.pdf
+
+PAGE 1
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT
+___________
+No. 00-2203
+___________
+Grover Henderson, *
+*
+Appellant, *
+*
+v. * Appeal from the United States
+* District Court for the Eastern
+Larry Norris, Director, * District of Arkansas.
+Arkansas Department *
+of Correction, *
+*
+Appellee. *
+___________
+Submitted: February 15, 2001
+Filed:   July 9, 2001
+___________
+Before WOLLMAN, Chief Judge, and BRIGHT and MORRIS SHEPPARD
+ARNOLD,  Circuit Judges.
+___________
+MORRIS SHEPPARD ARNOLD, Circuit Judge.
+An Arkansas state jury sentenced Grover Henderson to life imprisonment, see
+Ark. Code Ann. § 5-4-103(a), for the first offense of which he has ever been convicted,
+the delivery of .238 grams of cocaine base.  See Ark. Code Ann. § 5-64-401(a)(1)(i).
+He appealed, contending that his sentence was cruel and unusual punishment under the
+eighth amendment to the Constitution.  The Arkansas Supreme Court affirmed his
+conviction in a four-to-three decision.  See Henderson v. Arkansas, 322 Ark. 402, 411-
+PAGE 2
+-2-
+12, 910 S.W.2d 656, 660-61 (1995).  Mr. Henderson then petitioned for federal habeas
+corpus relief under 28 U.S.C. § 2254 raising the eighth amendment issue.  The district
+court denied Mr. Henderson's petition but granted him a certificate of appealability.
+We reverse and remand with directions to enter an order granting the writ.
+I.
+We review the district court's findings of fact for clear error and its conclusions
+of law de novo. See Richardson v. Bowersox, 188 F.3d 973, 977 (8th Cir. 1999), cert.
+denied, 529 U.S. 1113 (2000).  Because Mr. Henderson's habeas petition was filed
+before the effective date of the Antiterrorism and Effective Death Penalty Act of 1996
+(AEDPA), this appeal is subject to pre-AEDPA standards of review.  See Lindh v.
+Murphy, 521 U.S. 320, 336 (1997).  Even before passage of the AEDPA, we were of
+course obligated to defer to the factual findings of the state court.  See McDowell v.
+Leapley, 984 F.2d 232, 233 (8th Cir. 1993).  The state argues that deference must also
+be given to the state court's  resolution of federal questions of law and mixed questions
+of fact and law.  We disagree.
+In Miller v. Fenton, 474 U.S. 104, 111-12 (1985), the Supreme Court held that
+mixed questions of fact and law in habeas cases are reviewed de novo.  Here the state
+relies on Teague v. Lane, 489 U.S. 288, 310  (1989) (plurality opinion),  to argue that
+because  "new law" may not be applied in a habeas case, a federal court must defer to
+reasonable (although possibly erroneous) state court interpretations of federal law.  In
+pre-AEDPA habeas cases since Teague, however, we have reviewed state court
+interpretations of federal law  de novo, see, e.g., McIntyre v. Caspari, 35 F.3d 338, 342
+(8th Cir. 1994), cert. denied, 514 U.S. 1077 (1995), as well as state court conclusions
+regarding mixed questions of law and fact, see, e.g., McGurk v. Stenberg, 163 F.3d
+470, 473 (8th Cir. 1998), see also id. at 472 n.1, and  Reese v. Delo , 94 F.3d 1177,
+1183 (8th Cir. 1996), cert. denied, 520 U.S. 1257 (1997).
+PAGE 3
+-3-
+We believe that our application of de novo  review in pre-AEDPA cases is
+consistent with the view of a majority of justices in Williams v. Taylor, 529 U.S. 362
+(2000).  In Williams, two justices agreed that, before passage of the AEDPA, federal
+courts were to exercise "independent judgment" when addressing questions of law or
+mixed questions of law and fact, and that Teague had no effect on the standard of
+review.  See Williams, 529 U.S. 362, 400, 402 (2000) (opinion of O'Connor, J.).  Four
+other justices in Williams would have given no deference to state court determinations
+of federal law before or after AEDPA.  See id. at 383-84 (opinion of Stevens, J.).  We
+therefore apply a de novo standard of review to determine whether Mr. Henderson's
+punishment violates the eighth amendment.
+II.
+The eighth amendment to the Constitution provides that "[e]xcessive bail shall
+not be required nor excessive fines imposed, nor cruel and unusual punishments
+inflicted."  In Solem v. Helm, 463 U.S. 277, 279-81 (1983), the Supreme Court had
+before it a sentence of life imprisonment without parole that was imposed on a person
+who had passed a "no account" check and had committed six prior non-violent felonies.
+The Court held that the sentence was cruel and unusual, stating that although
+"[r]eviewing courts ... should grant substantial deference to the broad authority that
+legislatures necessarily possess in determining the types and limits of punishments and
+crimes," id. at 290, punishment is cruel and unusual if it is "grossly disproportionate"
+to the crime, id. at 291 n.17, see also id. at 303.
+In its most recent decision involving a proportionality review of a non-capital
+sentence under the eighth amendment, see Harmelin v. Michigan, 501 U.S. 957 (1991),
+the Supreme Court was sharply divided.  Five justices agreed that a mandatory sentence
+of life imprisonment without parole for possession of 672 grams of cocaine, which was
+the defendant's first offense, was not cruel and unusual.  See id. at 996.
+PAGE 4
+-4-
+Two of those justices would have overruled Solem and held that the eighth
+amendment does not provide for proportionality review in a non-capital case at all.  See
+Harmelin, 501 U.S. at 985, 994 (opinion of Scalia, J.).  Three other justices believed
+that proportionality review of a prison sentence exists under the eighth amendment, see
+id. at 997 (opinion of Kennedy, J.), but, emphasizing that a sentence is rarely "grossly
+disproportionate" to a crime, id. at 1005, they concluded that the defendant's sentence
+did not violate this standard, see id. at 1009.  Since Harmelin, our court and others
+have applied the principles outlined in Mr. Justice Kennedy's opinion to cases like the
+present one.  See, e.g., United States v. Gordon, 953 F.2d 1106, 1107 (8th Cir. 1992),
+cert. denied, 506 U.S. 1015 (1992); see also United States v. Jones , 213 F.3d 1253,
+1261 (10th Cir. 2000), and United States v. Harris, 154 F.3d 1082, 1084 (9th Cir.
+1998), cert. denied, 528 U.S. 830 (1999).
+III.
+In deciding whether a sentence is "grossly disproportionate" to a crime,
+Harmelin, 501 U.S. at 1005, we first compare the gravity of the offense committed to
+the harshness of the penalty imposed.  See id. at 1001-02 (opinion of Kennedy, J.).  To
+evaluate the severity of a crime, we consider the harm caused or threatened to the
+victim or to society and the culpability and degree of involvement of the defendant.  See
+Solem, 463 U.S. at 292.  In considering the culpability of the defendant, the court may
+look to the defendant's intent and motive in committing the crime.  See id. at 293.
+In assessing the seriousness of Mr. Henderson's crime, we first address the actual
+or potential harm that he caused to the victim or to society.  Although drug crimes
+generally are considered serious, see Harmelin , 501 U.S. at 1002 (opinion of
+Kennedy, J.), see also United States v. Meirovitz, 918 F.2d 1376, 1381 (8th Cir. 1990),
+cert. denied, 502 U.S. 829 (1991), we believe that it denies reality and contradicts
+precedent to say that all drug crimes are of equal seriousness and pose the same threat
+to society.  In Solem, 463 U.S. at 293, the Supreme Court remarked on the importance
+that the "absolute magnitude" of the crime may play in assessing the harm that it causes
+PAGE 5
+-5-
+or threatens, and the plurality in Harmelin, 501 U.S. at 1002, 1007-09 (opinion of
+Kennedy, J.), repeatedly emphasized the amount of cocaine involved in the crime in
+explaining why the defendant's sentence did not violate the eighth amendment.
+In Harmelin, Mr. Justice Kennedy observed that the 672 grams of pure cocaine
+that the defendant possessed had "a potential yield of between 32,500 and 65,000
+doses," id. at 1002, and that the state legislature could reasonably have decided that
+"this large an amount," id. at 1003, warranted a mandatory sentence of life without
+parole.  Id.  After referring to the  amount of cocaine, Mr. Justice Kennedy concluded
+that, given the crime's severity, an extended proportionality analysis was unnecessary.
+See id. at 1004-05.
+The pertinent statute in Harmelin mandated a life sentence without parole for
+possession of 650 grams of a "mixture" containing cocaine, see id. at 961 n.1 (opinion
+of Scalia, J.), and Mr. Justice Kennedy further noted that the defendant might have
+been prosecuted because he possessed "672.5 grams of undiluted cocaine" and other
+"trappings" of the drug trade, id. at 1008.  When explaining that the defendant's crime
+was much more serious than the crime in  Solem, Mr. Justice Kennedy referred to "the
+threat posed to the individual and society by possession of this large an amount of
+cocaine" (emphasis supplied), id. at 1003, and referred once more to the quantity of
+drugs involved in the defendant's crime in stating that state law gave notice of the
+penalty for the "possession of drugs in wholesale amounts," id. at 1008.
+In Mr. Henderson's case, in contrast to  the circumstances in Harmelin, the
+amount of drugs that Mr. Henderson sold was extraordinarily small:  The three "rocks"
+of cocaine base, or crack, weighed less than one-quarter of a gram, which is less than
+a hundredth of an ounce.  The weight or "absolute magnitude," Solem, 463 U.S. at 293,
+of the drugs involved in Harmelin was approximately 2,825 times the weight of the
+drugs possessed by Mr. Henderson, and nowhere near the 32,500 to 65,000 doses of
+PAGE 6
+-6-
+drugs involved in Harmelin.  The price obtained for Mr. Henderson's minimal amount
+of drugs was a mere $20.
+It is true that there was evidence that Mr. Henderson had sold two additional
+"rocks" of crack, but the jury was not instructed that it could take this conduct into
+account in fixing Mr. Henderson's sentence.  Even taking two additional "rocks" into
+account, moreover, the total amount would be only five "rocks."  As the district court
+noted, assuming that the "rocks" were equal in size, their total weight would be less
+than four-tenths of a gram, with a total value of about $33.33.  Although the state
+contends that the amount of drugs involved is irrelevant to our inquiry (and that life
+imprisonment passes eighth amendment muster here no matter how microscopic the
+amount of drugs), we do not believe that the Harmelin plurality's repeated references
+to quantity or Solem's reference, 463 U.S. at 293, to the "absolute magnitude" of the
+crime supports the state's contention.
+In assessing the proportionality of the punishment, we also consider the
+culpability of the defendant.  Mr. Henderson did not initiate the contact with the
+informant who bought the drugs or coerce the informant into buying them, and there
+was no evidence that he made any effort to sell this person any more than the
+.238 grams of cocaine base for which he was convicted.  There is no indication that
+Mr. Henderson engaged in violence or had any weapons, and, unlike the circumstances
+in Harmelin, 501 U.S. at 1008 (opinion of Kennedy, J.), no "trappings" of the drug
+trade are part of the record.
+We think it highly important, too, that Mr. Henderson had no prior convictions.
+Although the state correctly argues that it may impose a mandatory penalty without
+regard to prior convictions, see id. at 994-95, the Supreme Court has noted that
+recidivism is one consideration that may support the imposition of a severe penalty.
+See Rummel v. Estelle, 445 U.S. 263, 276 (1980).  Here Mr. Henderson had no prior
+PAGE 7
+-7-
+convictions, and thus recidivism does not support the harsh sentence.  Cf. Meirovitz,
+918 F.2d at 1379, 1381.
+In considering Mr. Henderson’s culpability, we also note that there was evidence
+offered at his trial that he attempted to prevent a prosecuting witness from testifying by
+providing him transportation and expenses to travel to another state.  The Arkansas
+Supreme Court held that this evidence was admissible to prove Mr. Henderson’s guilt,
+see Henderson, 322 Ark. at 408-09, 910 S.W.2d at 658-59, but we note that the court
+did not rely on that evidence as a basis for rejecting his eighth amendment challenge
+to his sentence, see id., 322 Ark. at 411-12, 910 S.W.2d at 660-61.  More significantly,
+we believe, the jury that sentenced Mr. Henderson was never instructed that it could
+consider this evidence when deciding upon his sentence.  Regardless of the abstract
+legal propriety of considering such evidence at sentencing, we will not presume for
+eighth amendment purposes that the jury in fact took this evidence into account when
+sentencing Mr. Henderson to life in prison.  Cf. Solem, 463 U.S. at 296, see also id. at
+296 n.21 (in recidivism case, courts evaluating proportionality of sentence "must focus
+on the principal felony -- the felony that triggers the life sentence").
+IV.
+We  next  consider the severity of the sentence.  See Harmelin , 501 U.S.
+at 1000-01 (opinion of Kennedy, J.).  In cases like this, the Supreme Court has
+acknowledged that there is a relevant difference between a life sentence with the
+possibility of parole and a life sentence  without the possibility of parole.  See Rummel,
+445 U.S. at 280-81.  The sentence given to Mr. Henderson, life imprisonment, is the
+harshest sentence given in Arkansas for all but two crimes, capital murder and treason.
+Only those convicted of these two crimes may be sentenced to death, or to what is
+termed life "without the possibility of parole," a sentence that precludes parole even if
+the governor commutes it to a term of years.  See Ark. Code Ann. § 5-4-104(b),
+§ 5-4-606, § 5-4-607(b), § 5-4-607(c).
+PAGE 8
+-8-
+With regard to all other life sentences, including Mr. Henderson's, the offender
+is not eligible for parole unless the governor in the exercise of clemency commutes the
+sentence to a term of years; the offender is then eligible for parole through the normal
+parole procedures.  See Ark. Code Ann. § 16-93-607(c)(1).  Arkansas's model jury
+instructions specifically state that "[p]ersons under sentence of life imprisonment are
+not eligible for parole," see Ark. Model Criminal Instructions 2d 9403 (1996), and the
+jury was so instructed in this case.
+Although the state asserts that over the years some offenders sentenced to life
+imprisonment in Arkansas have received a commutation from a governor of the state,
+we find nothing in the case papers that reveals the number of offenders who have
+sought a commutation or the number of years that those sentenced to life have served
+before being granted a commutation.  Furthermore, as the Supreme Court noted in
+Solem, 463 U.S. at 303 n.29, past practice with respect to commutations "is not a
+reliable indicator of future performance when the relevant decision is left to the
+unfettered discretion of each Governor."  The "heart of executive clemency ... is to
+grant clemency as a matter of grace," Ohio Adult Parole Authority v. Woodard, 523
+U.S. 272, 280-81 (1998) (plurality opinion), and clemency is "a favor which may be
+arbitrarily extended or withheld," Nelson v. Hall, 171 Ark. 683, 687, 285 S.W. 386,
+388 (1926).
+In Solem, 463 U.S. at 297, 300-03, 301 n.28, the Supreme Court found that the
+inherent distinction between parole and commutation was significant in this kind of
+case.  The defendant's sentence in Solem was described as life without parole, but the
+governor had the power to commute the sentence to a fixed term, after which the
+defendant would be eligible for parole after serving three-fourths of the new term.  See
+id. at 283.  The Court distinguished these circumstances from the life sentence given
+in Rummel, where the defendant could be eligible for parole in twelve years.  See id.
+at 302-03.
+PAGE 9
+-9-
+Although more commutations have been granted in Arkansas than in South
+Dakota (the state in question in Solem, see id. at 279), we believe that the distinction
+between parole and commutation addressed in Solem, id. at 300, is pertinent here:  "As
+a matter of law, parole and commutation are different concepts....  Parole is a regular
+part of the rehabilitative process.  Assuming good behavior, it is the normal expectation
+in the vast majority of cases."  The Court concluded, in contrast, that "[t]he possibility
+of commutation ... is little different from the possibility of executive clemency that
+exists in every case in which a defendant challenges his sentence under the Eighth
+Amendment," id. at 303.
+V.
+We infer, for the reasons indicated, that Mr. Henderson’s sentence is grossly
+disproportionate to his crime.  Before we can determine whether the eighth amendment
+was violated, however, we are required to make a further inquiry.  "[I]ntrajurisdictional
+and interjurisdictional analyses are appropriate ... in the rare case in which a threshold
+comparison of the crime committed and the sentence imposed leads to an inference of
+gross disproportionality," Harmelin, 501 U.S. at 1005 (opinion by Kennedy, J.).
+We first note that, with respect to Mr. Henderson's direct appeal to the Arkansas
+Supreme Court, the dissent, in which three of the seven judges joined, stated that "[t]his
+is the first time that a life sentence has been affirmed in this State where the defendant's
+crime was one offense and a first offense and where the quantity of drugs sold was such
+a minor amount," Henderson, 322 Ark. at 413, 910 S.W.2d at 661 (Brown, J.,
+dissenting).  The dissent went on to list other Arkansas decisions in which life
+sentences were affirmed, see id., 322 Ark. at 414-15, 910 S.W.2d at 662, but all of
+them involved repeat offenders or more serious crimes.  The dissent concluded that the
+sentence "was so wholly disproportionate to the nature of the offense as to shock the
+moral sense of the community," id., 322 Ark. at 413, 910 S.W.2d at 661.
+PAGE 10
+-10-
+In the district court, the state provided the names of two other offenders
+sentenced to life imprisonment in Arkansas for a first offense involving a minimal
+amount of drugs.  We note that one of these convictions was overturned on other
+grounds in a habeas corpus proceeding.  See Bragg v. Norris , 128 F. Supp. 2d 587
+(E.D. Ark. 2000).  As to the other named offender, Leonard Robinson, we observe that
+the state has stipulated that its prison records may not be complete or accurate.  Based
+on this statement, we are uncertain whether to give credence to the reference to
+Mr. Robinson, particularly because of the facts of Robinson v. State, 317 Ark. 407, 878
+S.W.2d 405 (1994).  According to this decision, a "Leon Ray" Robinson was convicted
+of "two counts of delivery of a controlled substance," id., 317 Ark. at 407, 878 S.W.2d
+at 405, was sentenced to fifteen years on the first count and to life imprisonment on the
+second, see id. , 317 Ark. at 408, 878 S.W.2d at 406, and "had a previous drug
+conviction," id., 317 Ark. at 410, 878 S.W.2d at 407.  We are further confused because
+the state's list of offenders who received a life sentence for drug offenses includes only
+one "Leon" Robinson and no one with a similar name.  In any event, the evidence
+indicates  that  Mr. Henderson's sentence as a first offender for delivery of less than
+one-quarter of a gram of crack is highly unusual and perhaps unique in Arkansas.
+As we have already said, life imprisonment is the harshest sentence available for
+almost any crime in Arkansas, including more obviously violent crimes.  Other felonies
+in Arkansas for which this is the most severe penalty available include first-degree
+murder, see Ark. Code. Ann. § 5-10-102, rape, see § 5-14-103, and kidnapping, see
+§ 5-11-102; see also § 5-4-104(c)(1), § 5-4-401(a)(1).
+We believe, moreover, that Arkansas's advisory sentencing guidelines, applicable
+to judicially imposed sentences for crimes that occurred after 1993 (the year of
+Mr. Henderson’s crime), provide further evidence of the gross disproportionality of his
+sentence.  Under those guidelines, a defendant convicted of Mr. Henderson's  offense
+for the first time would receive a presumptive sentence of three and one-half years, see
+Henderson, 322 Ark. at 416 n.1, 910 S.W.2d at 663 n.1 (Brown, J., dissenting),
+PAGE 11
+-11-
+although the ten-year statutory minimum would trump the guidelines in this instance,
+see id.   The guidelines are advisory only, and deviations may be supported by
+aggravating circumstances, such as witness intimidation or tampering with the
+evidence, see Ark. Code  Ann. § 16-90-804(d)(2)(J), see also Henderson, 322 Ark. at
+416 n.1, 910 S.W.2d at 663 n.1, but we believe that the striking contrast between the
+recommended three and one-half years and the life imprisonment that Mr. Henderson
+received supports our preliminary conclusion that his sentence violates the eighth
+amendment.
+It is also appropriate to compare Mr. Henderson's sentence with sentences
+imposed for the same crime in other jurisdictions.  See Solem , 463 U.S. at 291.
+Although the state contends in its brief that "such lengthy sentences ... are not
+uncommon in ... other jurisdictions for similar drug offenses," the state's contention is
+belied by the only two examples that it offers.  The state first cites a forty-year-old
+decision from Washington state upholding a sentence of life imprisonment for a first
+offense of possession of an unspecified amount of "narcotics," Washington v. Boggs,
+358 P.2d 124, 125 (Wash. 1961), but because the case does not reveal the amount of
+drugs involved, we do not find it persuasive here.
+In the second case, Carmona v. Ward, 576 F.2d 405, 407 (2d Cir. 1978), cert.
+denied, 439 U.S. 1091 (1979), the defendants were sentenced to indeterminate terms
+of four years to life and six years to life, but were eligible for parole after serving their
+minimum   terms,    see    id.   at  414.   The  Second  Circuit,  in  response  to  an
+eighth-amendment challenge, upheld the sentences in an opinion that emphasizes the
+availability of parole.  See id. at 413-14.
+We have located only three other states that permit a life sentence for a first
+offense involving the delivery of the amount of crack cocaine that Mr. Henderson sold,
+namely, Idaho,  Montana,  and Oklahoma.  See, respectively, Idaho Code § 37-
+2707(b)(5), § 37-2732(a)(1)(A); Mont. Code Ann. § 45-9-101(1), § 45-9-101(2), § 50-
+PAGE 12
+-12-
+32-101(b), § 50-32-101(18)(d),  § 50-32-224(1)(d);  and  Okla.  Stat.  Ann.  tit.  63,
+§ 2-101-8, § 2-101.26.c, § 2-206-A.4, § 2-401-A.1, § 2-401-B.1.  Many other states,
+in contrast, provide for a much lower maximum term for such an offense.  In Solem,
+463 U.S. at 300, the Court noted that one other state "merely authorized" life
+imprisonment  without  parole  in the circumstances present in that case.  See id. at 299-
+300.  The Court added, "We are not advised that any defendant [in that other state],
+whose prior offenses were so minor, actually has received the maximum penalty," id.
+at 300.
+Similarly, the three states that we have named "merely authorize[]," id., life
+imprisonment for a first-offense delivery of less than one-quarter of a gram of cocaine
+base.  And not only are we "not advised," id., that any defendant in Mr. Henderson's
+circumstances has ever received the maximum sentence in any of these states, the
+sentence of "life imprisonment" in these other jurisdictions, unlike Mr. Henderson's
+sentence, appears, with the possible exception of Idaho, to allow for parole without any
+prior action being required of the governor.  We note finally that under the federal
+sentencing guidelines Mr. Henderson would receive a sentence of only ten to sixteen
+months for his offense, see U.S.S.G. § 2D1.1(a)(3), § 2D1.1(c)(14), and that even if
+an enhancement were imposed for obstruction of justice, see § 3C1.1, his sentencing
+range would be fifteen to twenty-one months.
+VI.
+Based on our initial examination of the severity of the crime that Mr. Henderson
+committed and the harshness of the penalty that he received, we reached the
+preliminary conclusion that the penalty imposed in this particular case is grossly
+disproportionate to the crime.  Our comparison of the sentence imposed in this case
+with other sentences imposed in Arkansas and with sentences imposed for the same or
+similar crimes in other jurisdictions has done nothing to undermine our original
+conclusion:  In fact, we believe that the comparison provides strong support for the
+PAGE 13
+-13-
+inference that we originally drew.  We therefore conclude that Mr. Henderson's
+sentence violates the eighth amendment.
+We do not reach this conclusion lightly.  Only after careful consideration do we
+finally hold that this is one of those rare cases in which the sentence imposed is so
+harsh in comparison to the crime for which it was imposed that it is unconstitutional.
+Accordingly, we remand this case to the district court with directions  to enter
+an order granting the writ if, within ninety days following the issuance of our mandate,
+the state of Arkansas has not resentenced Mr. Henderson.
+A true copy.
+Attest:
+CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.

@@ -1,0 +1,172 @@
+{
+"responseHeader": {
+"status": 0,
+"QTime": 145,
+"params": {
+"query": "collection:us-supreme-court AND ((text:&quot;00-799&quot; OR text:&quot;00-799&quot; OR text__reviews:&quot;00-799&quot;) OR (text:Alameda OR text:Alameda OR text__reviews:Alameda))",
+"qin": "collection:us-supreme-court AND (&quot;00-799&quot; OR &quot;Alameda&quot;)",
+"fields": "identifier,title",
+"wt": "json",
+"rows": 50,
+"start": 0
+}
+},
+"response": {
+"numFound": 38,
+"start": 0,
+"docs": [
+{
+"identifier": "micro_IA40385020_2917",
+"title": "Wood v. Alameda County Superior Court, 498 U.S. 933 (1990) (No. 90-555)"
+},
+{
+"identifier": "micro_IA40386017_1230",
+"title": "DeOcampo v. Superior Court of California, Alameda County (No. 09-572)"
+},
+{
+"identifier": "micro_IA40385604_1321",
+"title": "District Council of Painters No. 16 v. Painters Union Local 127, 397 U.S. 972 (1970) (No. 963)"
+},
+{
+"identifier": "micro_IA40385606_0441",
+"title": "Hamilton v. California, 405 U.S. 978 (1972) (No. 71-548)"
+},
+{
+"identifier": "micro_IA40385607_0416",
+"title": "Newton v. California, 414 U.S. 819 (1973) (No. 72-1412)"
+},
+{
+"identifier": "micro_IA40385002_0797",
+"title": "Bryant v. California, 489 U.S. 1055 (1989) (No. 88-1226)"
+},
+{
+"identifier": "micro_IA40385004_1727",
+"title": "Houchins v. KQED, Inc., 438 U.S. 1 (1978) (No. 76-1310)"
+},
+{
+"identifier": "micro_IA40386015_2177",
+"title": "Alameda Films, S. A. v. Authors Rights Restoration Corp., 540 U.S. 1048 (2003) (No. 03-457)"
+},
+{
+"identifier": "micro_IA40385006_1995",
+"title": "Green v. County of Alameda, 446 U.S. 984 (1980) (No. 79-1627)"
+},
+{
+"identifier": "micro_IA40385020_3003",
+"title": "Sheehan v. California, 498 U.S. 1025 (1991) (No. 90-654)"
+},
+{
+"identifier": "micro_IA40386017_1226",
+"title": "DeOcampo v. Superior Court of California, Alameda County (No. 09-572)"
+},
+{
+"identifier": "micro_IA40385610_0870",
+"title": "Heisey v. County of Alameda, 352 U.S. 921 (1956) (No. 473)"
+},
+{
+"identifier": "micro_IA40386014_0523",
+"title": "Julien v. County of Alameda, 528 U.S. 1156 (2000) (No. 99-966)"
+},
+{
+"identifier": "micro_IA40386414_0143",
+"title": "Moor v. County of Alameda, 411 U.S. 693 (1973) (No. 72-10)"
+},
+{
+"identifier": "micro_IA40385017_2252",
+"title": "National Football League v. Oakland Raiders, Ltd., 469 U.S. 990 (1984) (No. 84-418)"
+},
+{
+"identifier": "micro_IA40386006_1433",
+"title": "Salguero v. California, 524 U.S. 938 (1998) (No. 97-1728)"
+},
+{
+"identifier": "micro_IA40385607_1800",
+"title": "California Highway Commission v. La Raza Unida, 417 U.S. 968 (1974) (No. 73-1375)"
+},
+{
+"identifier": "micro_IA40386016_1041",
+"title": "Velasquez v. Superior Court of California, Alameda County (No. 05-1596)"
+},
+{
+"identifier": "micro_IA40385020_3008",
+"title": "Wood v. Alameda County Superior Court, 498 U.S. 1025 (1991) (No. 90-661)"
+},
+{
+"identifier": "micro_IA40386008_0117",
+"title": "Central Pacific R. Co. v. Alameda County, 284 U.S. 463 (1932) (No. 258)"
+},
+{
+"identifier": "micro_IA40386016_1177",
+"title": "Phelps v. Alameda County (No. 06-67)"
+},
+{
+"identifier": "micro_IA40385605_0774",
+"title": "Leslie Salt Co. v. Alameda Conservation Ass'n, 402 U.S. 908 (1971) (No. 1405)"
+},
+{
+"identifier": "micro_IA40385006_1321",
+"title": "Alameda County Water District v. Sethy, 444 U.S. 1046 (1980) (No. 79-845)"
+},
+{
+"identifier": "micro_IA40385010_3156",
+"title": "City of Alameda v. Premier Communications Network, Inc., 469 U.S. 1073 (1984) (No. 84-602)"
+},
+{
+"identifier": "micro_IA40386415_0293",
+"title": "Weld v. California, 312 U.S. 684 (1941) (No. 635)"
+},
+{
+"identifier": "micro_IA40386016_2085",
+"title": "Whitaker v. Superior Court of California, Alameda County (No. 06-1035)"
+},
+{
+"identifier": "micro_IA40385011_2111",
+"title": "Bourke v. Schuman, 482 U.S. 906 (1987) (No. 86-1653)"
+},
+{
+"identifier": "micro_IA40385604_0485",
+"title": "Alameda Conservation Ass'n v. City of Alameda, 394 U.S. 906 (1969) (No. 987)"
+},
+{
+"identifier": "micro_IA40385603_1568",
+"title": "Connor v. California, 393 U.S. 838 (1968) (No. 236)"
+},
+{
+"identifier": "micro_IA40386015_0826",
+"title": "Federal Aviation Administration v. City of Alameda, 538 U.S. 1008 (2003) (No. 02-856)"
+},
+{
+"identifier": "micro_IA40385006_1838",
+"title": "Chamber of Commerce of the United States v. Legal Aid Society of Alameda County, 447 U.S. 921 (1980) (No. 79-1424)"
+},
+{
+"identifier": "micro_IA40385014_0428",
+"title": "City of Los Angeles v. Alameda Books, Inc., 536 U.S. 921 (2002) (No. 00-799)"
+},
+{
+"identifier": "micro_IA40385019_1649",
+"title": "Southland Corp. v. Superior Court of the County of Alameda, 486 U.S. 1056 (1988) (No. 87-1746)"
+},
+{
+"identifier": "micro_IA40385002_0389",
+"title": "Rowland v. Alameda County Probation Department, 488 U.S. 982 (1988) (No. 88-751)"
+},
+{
+"identifier": "micro_IA40385604_1407",
+"title": "Farmer v. Superior Court of California, 397 U.S. 1022 (1970) (No. 1229)"
+},
+{
+"identifier": "micro_IA40386006_0689",
+"title": "Whitney v. California, 274 U.S. 357 (1927) (No. 3)"
+},
+{
+"identifier": "micro_IA40385607_1619",
+"title": "Mills v. Superior Court, 416 U.S. 906 (1974) (No. 73-1236)"
+},
+{
+"identifier": "micro_IA40385606_1112",
+"title": "California Highway Commission v. La Raza Unida, 409 U.S. 890 (1972) (No. 71-1394)"
+}
+]
+}
+}

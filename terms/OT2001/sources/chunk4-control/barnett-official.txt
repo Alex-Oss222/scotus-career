@@ -1,0 +1,1504 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-535/pdf/USREPORTS-535-391.pdf
+
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+OCTOBER TERM, 2001                                     391
+
+Syllabus
+
+                US AIRWAYS, INC. v. BARNETT
+
+certiorari to the united states court of appeals for
+                           the ninth circuit
+
+     No. 00–1250. Argued December 4, 2001—Decided April 29, 2002
+
+After respondent Barnett injured his back while a cargo handler for peti-
+   tioner US Airways, Inc., he transferred to a less physically demanding
+   mailroom position. His new position later became open to seniority-
+   based employee bidding under US Airways’ seniority system, and em-
+   ployees senior to him planned to bid on the job. US Airways refused
+   his request to accommodate his disability by allowing him to remain in
+   the mailroom, and he lost his job. He then ﬁled suit under the Ameri-
+   cans with Disabilities Act of 1990 (ADA or Act), which prohibits an
+   employer from discriminating against “an individual with a disability”
+   who with “reasonable accommodation” can perform a job’s essential
+   functions, 42 U. S. C. §§ 12112(a) and (b), unless the employer “can
+   demonstrate that the accommodation would impose an undue hard-
+   ship on the operation of [its] business,” § 12112(b)(5)(A). Finding that
+   altering a seniority system would result in an “undue hardship” to
+   both US Airways and its nondisabled employees, the District Court
+   granted the company summary judgment. The Ninth Circuit reversed,
+   holding that the seniority system was merely a factor in the undue hard-
+   ship analysis and that a case-by-case, fact intensive analysis is required
+   to determine whether any particular assignment would constitute an
+   undue hardship.
+
+Held: An employer’s showing that a requested accommodation conﬂicts
+   with seniority rules is ordinarily sufﬁcient to show, as a matter of law,
+   that an “accommodation” is not “reasonable.” However, the employee
+   remains free to present evidence of special circumstances that makes a
+   seniority rule exception reasonable in the particular case. Pp. 396–406.
+      (a) Many lower courts have reconciled the phrases “reasonable ac-
+   commodation” and “undue hardship” in a practical way, holding that a
+   plaintiff/employee (to defeat a defendant/employer’s summary judgment
+   motion) need only show that an “accommodation” seems reasonable on
+   its face, i. e., ordinarily or in the run of cases. The defendant/employer
+   then must show special (typically case-speciﬁc) circumstances demon-
+   strating undue hardship in the particular circumstances. Neither US
+   Airways’ position—that no accommodation violating a seniority system’s
+   rules is reasonable—nor Barnett’s position—that “reasonable accom-
+   modation” authorizes a court to consider only the requested accom-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+392  US AIRWAYS, INC. v. BARNETT
+
+                                            Syllabus
+
+   modation’s ability to meet an individual’s disability-related needs—is a
+   proper interpretation of the Act. Pp. 396–402.
+
+      (b) Here, the question is whether a proposed accommodation that
+   would normally be reasonable is rendered unreasonable because the
+   assignment would violate a seniority system’s rules. Ordinarily the an-
+   swer is “yes.” The statute does not require proof on a case-by-case
+   basis that a seniority system should prevail because it would not be
+   reasonable in the run of cases that the assignment trump such a sys-
+   tem’s rules. Analogous case law has recognized the importance of se-
+   niority to employee-management relations, ﬁnding, e. g., that collectively
+   bargained seniority trumps the need for reasonable accommodation in
+   the linguistically similar Rehabilitation Act, see, e. g., Eckles v. Consoli-
+   dated Rail Corp., 94 F. 3d 1041, 1047–1048. And the relevant seniority
+   system advantages, and related difﬁculties resulting from violations
+   of seniority rules, are not limited to collectively bargained systems, but
+   also apply to many systems (like the one at issue) unilaterally imposed
+   by management. A typical seniority system provides important em-
+   ployee beneﬁts by creating, and fulﬁlling, employee expectations of fair,
+   uniform treatment—e. g., job security and an opportunity for steady and
+   predictable advancement based on objective standards—that might be
+   undermined if an employer were required to show more than the sys-
+   tem’s existence. Nothing in the statute suggests that Congress in-
+   tended to undermine seniority systems in such a way. Pp. 402–405.
+
+      (c) The plaintiff (here the employee) remains free to show that special
+   circumstances warrant a ﬁnding that, despite the seniority system’s
+   presence, the requested accommodation is reasonable on the particular
+   facts. Special circumstances might alter the important expectations
+   created by a seniority system. The plaintiff might show, for example,
+   that the employer, having retained the right to change the system
+   unilaterally, exercises the right fairly frequently, reducing employee
+   expectations that the system will be followed—to the point where the
+   requested accommodation will not likely make a difference. The plain-
+   tiff might also show that the system already contains exceptions such
+   that, in the circumstances, one further exception is unlikely to matter.
+   The plaintiff has the burden of showing special circumstances and must
+   explain why, in the particular case, an exception to the seniority system
+   can constitute a reasonable accommodation even though in the ordinary
+   case it cannot. Pp. 405–406.
+
+      (d) The lower courts took a different view of this matter, and neither
+   party has had an opportunity to seek summary judgment in accordance
+   with the principles set forth here. P. 406.
+
+228 F. 3d 1105, vacated and remanded.
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          393
+
+                                    Opinion of the Court
+
+   Breyer, J., delivered the opinion of the Court, in which Rehnquist,
+C. J., and Stevens, O’Connor, and Kennedy, JJ., joined. Stevens, J.,
+post, p. 406, and O’Connor, J., post, p. 408, ﬁled concurring opinions.
+Scalia, J., ﬁled a dissenting opinion, in which Thomas, J., joined, post,
+p. 411. Souter, J., ﬁled a dissenting opinion, in which Ginsburg, J.,
+joined, post, p. 420.
+
+   Walter E. Dellinger argued the cause for petitioner. With
+him on the briefs were Lawrence M. Nagin and Robert A.
+Siegel.
+
+   Claudia Center argued the cause for respondent. With
+her on the brief were William C. McNeill III, Eric Schnap-
+per, Todd Schneider, Guy Wallace, and Robert W. Rychlik.*
+
+   Justice Breyer delivered the opinion of the Court.
+
+   The Americans with Disabilities Act of 1990 (ADA or Act),
+104 Stat. 328, 42 U. S. C. § 12101 et seq. (1994 ed. and
+Supp. V), prohibits an employer from discriminating against
+an “individual with a disability” who, with “reasonable ac-
+commodation,” can perform the essential functions of the job.
+§§ 12112(a) and (b) (1994 ed.). This case, arising in the con-
+text of summary judgment, asks us how the Act resolves a
+potential conﬂict between: (1) the interests of a disabled
+worker who seeks assignment to a particular position as a
+“reasonable accommodation,” and (2) the interests of other
+workers with superior rights to bid for the job under an em-
+
+   *Briefs of amici curiae urging reversal were ﬁled for the Air Transport
+Association of America, Inc., et al. by John J. Gallagher and Margaret H.
+Spurlin; and for the Equal Employment Advisory Council et al. by Ann
+Elizabeth Reesman.
+
+   Briefs of amici curiae urging afﬁrmance were ﬁled for the American
+Federation of Labor and Congress of Industrial Organizations by Jona-
+than P. Hiatt, Deborah Greenﬁeld, James B. Coppess, Michael H. Gottes-
+man, and Laurence Gold; and for the National Employment Lawyers As-
+sociation et al. by Brian East and Paula A. Brantner.
+
+   Peter J. Petesch, Thomas J. Walsh, Jr., Timothy S. Bland, and David
+S. Harvey, Jr., ﬁled a brief for the Society for Human Resource Manage-
+ment as amicus curiae.
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+394  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+ployer’s seniority system. In such a case, does the accom-
+modation demand trump the seniority system?
+
+   In our view, the seniority system will prevail in the run
+of cases. As we interpret the statute, to show that a re-
+quested accommodation conﬂicts with the rules of a senior-
+ity system is ordinarily to show that the accommodation
+is not “reasonable.” Hence such a showing will entitle an
+employer/defendant to summary judgment on the question—
+unless there is more. The plaintiff remains free to present
+evidence of special circumstances that make “reasonable” a
+seniority rule exception in the particular case. And such
+a showing will defeat the employer’s demand for summary
+judgment. Fed. Rule Civ. Proc. 56(e).
+
+                                        I
+
+   In 1990, Robert Barnett, the plaintiff and respondent here,
+injured his back while working in a cargo-handling position
+at petitioner US Airways, Inc. He invoked seniority rights
+and transferred to a less physically demanding mailroom
+position. Under US Airways’ seniority system, that posi-
+tion, like others, periodically became open to seniority-
+based employee bidding. In 1992, Barnett learned that at
+least two employees senior to him intended to bid for the
+mailroom job. He asked US Airways to accommodate his
+disability-imposed limitations by making an exception that
+would allow him to remain in the mailroom. After per-
+mitting Barnett to continue his mailroom work for ﬁve
+months while it considered the matter, US Airways eventu-
+ally decided not to make an exception. And Barnett lost
+his job.
+
+   Barnett then brought this ADA suit claiming, among
+other things, that he was an “individual with a disability”
+capable of performing the essential functions of the mail-
+room job, that the mailroom job amounted to a “reasonable
+accommodation” of his disability, and that US Airways, in
+refusing to assign him the job, unlawfully discriminated
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          395
+
+                                    Opinion of the Court
+
+against him. US Airways moved for summary judgment.
+It supported its motion with appropriate afﬁdavits, Fed.
+Rule Civ. Proc. 56, contending that its “well-established”
+seniority system granted other employees the right to obtain
+the mailroom position.
+
+   The District Court found that the undisputed facts about
+seniority warranted summary judgment in US Airways’
+favor. The Act says that an employer who fails to make
+“reasonable accommodations to the known physical or mental
+limitations of an [employee] with a disability” discriminates
+“unless” the employer “can demonstrate that the accom-
+modation would impose an undue hardship on the opera-
+tion of [its] business.” 42 U. S. C. § 12112(b)(5)(A) (emphasis
+added). The court said:
+
+      “[T]he uncontroverted evidence shows that the USAir
+      seniority system has been in place for ‘decades’ and gov-
+      erns over 14,000 USAir Agents. Moreover, seniority
+      policies such as the one at issue in this case are common
+      to the airline industry. Given this context, it seems
+      clear that the USAir employees were justiﬁed in relying
+      upon the policy. As such, any signiﬁcant alteration of
+      that policy would result in undue hardship to both the
+      company and its non-disabled employees.” App. to Pet.
+      for Cert. 96a.
+
+   An en banc panel of the United States Court of Appeals
+for the Ninth Circuit reversed. It said that the presence of
+a seniority system is merely “a factor in the undue hardship
+analysis.” 228 F. 3d 1105, 1120 (2000). And it held that
+“[a] case-by-case fact intensive analysis is required to deter-
+mine whether any particular reassignment would constitute
+an undue hardship to the employer.” Ibid.
+
+   US Airways petitioned for certiorari, asking us to decide
+whether
+
+      “the [ADA] requires an employer to reassign a disabled
+      employee to a position as a ‘reasonable accommodation’
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+396  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+      even though another employee is entitled to hold the
+      position under the employer’s bona ﬁde and established
+      seniority system.” Brief for Petitioner i.
+
+The Circuits have reached different conclusions about the
+legal signiﬁcance of a seniority system. Compare 228 F. 3d,
+at 1120, with EEOC v. Sara Lee Corp., 237 F. 3d 349, 354
+(CA4 2001). We agreed to answer US Airways’ question.
+
+                                       II
+
+   In answering the question presented, we must consider
+the following statutory provisions. First, the ADA says
+that an employer may not “discriminate against a qualiﬁed
+individual with a disability.” 42 U. S. C. § 12112(a). Sec-
+ond, the ADA says that a “qualiﬁed” individual includes
+“an individual with a disability who, with or without reason-
+able accommodation, can perform the essential functions of ”
+the relevant “employment position.” § 12111(8) (emphasis
+added). Third, the ADA says that “discrimination” includes
+an employer’s “not making reasonable accommodations to
+the known physical or mental limitations of an otherwise
+qualiﬁed . . . employee, unless [the employer] can demon-
+strate that the accommodation would impose an undue hard-
+ship on the operation of [its] business.” § 12112(b)(5)(A)
+(emphasis added). Fourth, the ADA says that the term
+“ ‘reasonable accommodation’ may include . . . reassignment
+to a vacant position.” § 12111(9)(B).
+
+   The parties interpret this statutory language as applied to
+seniority systems in radically different ways. In US Air-
+ways’ view, the fact that an accommodation would violate the
+rules of a seniority system always shows that the accommo-
+dation is not a “reasonable” one. In Barnett’s polar opposite
+view, a seniority system violation never shows that an ac-
+commodation sought is not a “reasonable” one. Barnett con-
+cedes that a violation of seniority rules might help to show
+that the accommodation will work “undue” employer “hard-
+ship,” but that is a matter for an employer to demonstrate
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          397
+
+                                    Opinion of the Court
+
+case by case. We shall initially consider the parties’ main
+legal arguments in support of these conﬂicting positions.
+
+                                        A
+
+   US Airways’ claim that a seniority system virtually
+always trumps a conﬂicting accommodation demand rests
+primarily upon its view of how the Act treats workplace
+“preferences.” Insofar as a requested accommodation vio-
+lates a disability-neutral workplace rule, such as a seniority
+rule, it grants the employee with a disability treatment that
+other workers could not receive. Yet the Act, US Airways
+says, seeks only “equal” treatment for those with disabilities.
+See, e. g., 42 U. S. C. § 12101(a)(9). It does not, it contends,
+require an employer to grant preferential treatment.
+Cf. H. R. Rep. No. 101–485, pt. 2, p. 66 (1990); S. Rep.
+No. 101–116, pp. 26–27 (1989) (employer has no “obligation
+to prefer applicants with disabilities over other applicants”
+(emphasis added)). Hence it does not require the employer
+to grant a request that, in violating a disability-neutral rule,
+would provide a preference.
+
+   While linguistically logical, this argument fails to recog-
+nize what the Act speciﬁes, namely, that preferences will
+sometimes prove necessary to achieve the Act’s basic equal
+opportunity goal. The Act requires preferences in the form
+of “reasonable accommodations” that are needed for those
+with disabilities to obtain the same workplace opportuni-
+ties that those without disabilities automatically enjoy. By
+deﬁnition any special “accommodation” requires the em-
+ployer to treat an employee with a disability differently,
+i. e., preferentially. And the fact that the difference in
+treatment violates an employer’s disability-neutral rule
+cannot by itself place the accommodation beyond the Act’s
+potential reach.
+
+   Were that not so, the “reasonable accommodation” pro-
+vision could not accomplish its intended objective. Neutral
+ofﬁce assignment rules would automatically prevent the ac-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+398  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+commodation of an employee whose disability-imposed limi-
+tations require him to work on the ground ﬂoor. Neutral
+“break-from-work” rules would automatically prevent the
+accommodation of an individual who needs additional breaks
+from work, perhaps to permit medical visits. Neutral furni-
+ture budget rules would automatically prevent the accom-
+modation of an individual who needs a different kind of chair
+or desk. Many employers will have neutral rules governing
+the kinds of actions most needed to reasonably accommodate
+a worker with a disability. See 42 U. S. C. § 12111(9)(b) (set-
+ting forth examples such as “job restructuring,” “part-time
+or modiﬁed work schedules,” “acquisition or modiﬁcation of
+equipment or devices,” “and other similar accommodations”).
+Yet Congress, while providing such examples, said nothing
+suggesting that the presence of such neutral rules would
+create an automatic exemption. Nor have the lower courts
+made any such suggestion. Cf. Garcia-Ayala v. Lederle
+Parenterals, Inc., 212 F. 3d 638, 648 (CA1 2000) (requiring
+leave beyond that allowed under the company’s own leave
+policy); Hendricks-Robinson v. Excel Corp., 154 F. 3d 685,
+699 (CA7 1998) (requiring exception to employer’s neutral
+“physical ﬁtness” job requirement).
+
+   In sum, the nature of the “reasonable accommodation” re-
+quirement, the statutory examples, and the Act’s silence
+about the exempting effect of neutral rules together con-
+vince us that the Act does not create any such automatic
+exemption. The simple fact that an accommodation would
+provide a “preference”—in the sense that it would permit
+the worker with a disability to violate a rule that others
+must obey—cannot, in and of itself, automatically show that
+the accommodation is not “reasonable.” As a result, we re-
+ject the position taken by US Airways and Justice Scalia
+to the contrary.
+
+   US Airways also points to the ADA provisions stating that
+a “ ‘reasonable accommodation’ may include . . . reassignment
+to a vacant position.” § 12111(9)(B) (emphasis added). And
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          399
+
+                                    Opinion of the Court
+
+it claims that the fact that an established seniority system
+would assign that position to another worker automatically
+and always means that the position is not a “vacant” one.
+Nothing in the Act, however, suggests that Congress in-
+tended the word “vacant” to have a specialized meaning.
+And in ordinary English, a seniority system can give em-
+ployees seniority rights allowing them to bid for a “vacant”
+position. The position in this case was held, at the time
+of suit, by Barnett, not by some other worker; and that posi-
+tion, under the US Airways seniority system, became an
+“open” one. Brief for Petitioner 5. Moreover, US Airways
+has said that it “reserves the right to change any and all”
+portions of the seniority system at will. Lodging of Re-
+spondent 2 (US Air Personnel Policy Guide for Agents).
+Consequently, we cannot agree with US Airways about the
+position’s vacancy; nor do we agree that the Act would auto-
+matically deny Barnett’s accommodation request for that
+reason.
+
+                                        B
+
+   Barnett argues that the statutory words “reasonable ac-
+commodation” mean only “effective accommodation,” au-
+thorizing a court to consider the requested accommodation’s
+ability to meet an individual’s disability-related needs, and
+nothing more. On this view, a seniority rule violation, hav-
+ing nothing to do with the accommodation’s effectiveness,
+has nothing to do with its “reasonableness.” It might, at
+most, help to prove an “undue hardship on the operation of
+the business.” But, he adds, that is a matter that the stat-
+ute requires the employer to demonstrate, case by case.
+
+   In support of this interpretation Barnett points to Equal
+Employment Opportunity Commission (EEOC) regulations
+stating that “reasonable accommodation means . . . . [m]odiﬁ-
+cations or adjustments . . . that enable a qualiﬁed individual
+with a disability to perform the essential functions of [a] posi-
+tion.” 29 CFR § 1630(o)(ii) (2001) (emphasis added). See
+also H. R. Rep. No. 101–485, pt. 2, at 66; S. Rep. No. 101–116,
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+400  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+at 35 (discussing reasonable accommodations in terms of
+“effectiveness,” while discussing costs in terms of “undue
+hardship”). Barnett adds that any other view would make
+the words “reasonable accommodation” and “undue hard-
+ship” virtual mirror images—creating redundancy in the
+statute. And he says that any such other view would create
+a practical burden of proof dilemma.
+
+   The practical burden of proof dilemma arises, Barnett
+argues, because the statute imposes the burden of demon-
+strating an “undue hardship” upon the employer, while the
+burden of proving “reasonable accommodation” remains
+with the plaintiff, here the employee. This allocation seems
+sensible in that an employer can more frequently and easily
+prove the presence of business hardship than an employee
+can prove its absence. But suppose that an employee
+must counter a claim of “seniority rule violation” in order
+to prove that an “accommodation” request is “reasonable.”
+Would that not force the employee to prove what is in effect
+an absence, i. e., an absence of hardship, despite the stat-
+ute’s insistence that the employer “demonstrate” hardship’s
+presence?
+
+   These arguments do not persuade us that Barnett’s legal
+interpretation of “reasonable” is correct. For one thing,
+in ordinary English the word “reasonable” does not mean
+“effective.” It is the word “accommodation,” not the word
+“reasonable,” that conveys the need for effectiveness. An
+ineffective “modiﬁcation” or “adjustment” will not accom-
+modate a disabled individual’s limitations. Nor does an or-
+dinary English meaning of the term “reasonable accommo-
+dation” make of it a simple, redundant mirror image of the
+term “undue hardship.” The statute refers to an “undue
+hardship on the operation of the business.” 42 U. S. C.
+§ 12112(b)(5)(A). Yet a demand for an effective accommoda-
+tion could prove unreasonable because of its impact, not on
+business operations, but on fellow employees—say, because
+it will lead to dismissals, relocations, or modiﬁcation of em-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          401
+
+                                    Opinion of the Court
+
+ployee beneﬁts to which an employer, looking at the matter
+from the perspective of the business itself, may be rela-
+tively indifferent.
+
+   Neither does the statute’s primary purpose require Bar-
+nett’s special reading. The statute seeks to diminish or to
+eliminate the stereotypical thought processes, the thought-
+less actions, and the hostile reactions that far too often bar
+those with disabilities from participating fully in the Nation’s
+life, including the workplace. See generally §§ 12101(a)
+and (b). These objectives demand unprejudiced thought
+and reasonable responsive reaction on the part of employers
+and fellow workers alike. They will sometimes require
+afﬁrmative conduct to promote entry of disabled people into
+the work force. See supra, at 397–398. They do not, how-
+ever, demand action beyond the realm of the reasonable.
+
+   Neither has Congress indicated in the statute, or else-
+where, that the word “reasonable” means no more than
+“effective.” The EEOC regulations do say that reasonable
+accommodations “enable” a person with a disability to per-
+form the essential functions of a task. But that phrasing
+simply emphasizes the statutory provision’s basic objective.
+The regulations do not say that “enable” and “reasonable”
+mean the same thing. And as discussed below, no court of
+appeals has so read them. But see 228 F. 3d, at 1122–1123
+(Gould, J., concurring).
+
+   Finally, an ordinary language interpretation of the word
+“reasonable” does not create the “burden of proof ” dilemma
+to which Barnett points. Many of the lower courts, while
+rejecting both US Airways’ and Barnett’s more absolute
+views, have reconciled the phrases “reasonable accommoda-
+tion” and “undue hardship” in a practical way.
+
+   They have held that a plaintiff/employee (to defeat a
+defendant/employer’s motion for summary judgment) need
+only show that an “accommodation” seems reasonable on its
+face, i. e., ordinarily or in the run of cases. See, e. g., Reed
+v. LePage Bakeries, Inc., 244 F. 3d 254, 259 (CA1 2001)
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+402  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+(plaintiff meets burden on reasonableness by showing that,
+“at least on the face of things,” the accommodation will be
+feasible for the employer); Borkowski v. Valley Central
+School Dist., 63 F. 3d 131, 138 (CA2 1995) (plaintiff satisﬁes
+“burden of production” by showing “plausible accommoda-
+tion”); Barth v. Gelb, 2 F. 3d 1180, 1187 (CADC 1993) (inter-
+preting parallel language in Rehabilitation Act, stating that
+plaintiff need only show he seeks a “method of accommo-
+dation that is reasonable in the run of cases” (emphasis in
+original)).
+
+   Once the plaintiff has made this showing, the defendant/
+employer then must show special (typically case-speciﬁc)
+circumstances that demonstrate undue hardship in the par-
+ticular circumstances. See Reed, supra, at 258 (“ ‘undue
+hardship inquiry focuses on the hardships imposed . . . in the
+context of the particular [employer’s] operations’ ”) (quoting
+Barth, supra, at 1187); Borkowski, supra, at 138 (after plain-
+tiff makes initial showing, burden falls on employer to show
+that particular accommodation “would cause it to suffer an
+undue hardship”); Barth, supra, at 1187 (“undue hardship
+inquiry focuses on the hardships imposed . . . in the context
+of the particular agency’s operations”).
+
+   Not every court has used the same language, but their
+results are functionally similar. In our opinion, that practi-
+cal view of the statute, applied consistently with ordinary
+summary judgment principles, see Fed. Rule Civ. Proc. 56,
+avoids Barnett’s burden of proof dilemma, while reconciling
+the two statutory phrases (“reasonable accommodation” and
+“undue hardship”).
+
+                                       III
+
+   The question in the present case focuses on the relation-
+ship between seniority systems and the plaintiff ’s need to
+show that an “accommodation” seems reasonable on its face,
+i. e., ordinarily or in the run of cases. We must assume that
+the plaintiff, an employee, is an “individual with a disability.”
+He has requested assignment to a mailroom position as a
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          403
+
+                                    Opinion of the Court
+
+“reasonable accommodation.” We also assume that nor-
+mally such a request would be reasonable within the mean-
+ing of the statute, were it not for one circumstance, namely,
+that the assignment would violate the rules of a seniority
+system. See § 12111(9) (“reasonable accommodation” may
+include “reassignment to a vacant position”). Does that cir-
+cumstance mean that the proposed accommodation is not a
+“reasonable” one?
+
+   In our view, the answer to this question ordinarily is
+“yes.” The statute does not require proof on a case-by-case
+basis that a seniority system should prevail. That is be-
+cause it would not be reasonable in the run of cases that the
+assignment in question trump the rules of a seniority sys-
+tem. To the contrary, it will ordinarily be unreasonable for
+the assignment to prevail.
+
+                                        A
+
+   Several factors support our conclusion that a proposed ac-
+commodation will not be reasonable in the run of cases.
+Analogous case law supports this conclusion, for it has recog-
+nized the importance of seniority to employee-management
+relations. This Court has held that, in the context of a
+Title VII religious discrimination case, an employer need not
+adapt to an employee’s special worship schedule as a “reason-
+able accommodation” where doing so would conﬂict with the
+seniority rights of other employees. Trans World Airlines,
+Inc. v. Hardison, 432 U. S. 63, 79–80 (1977). The lower
+courts have unanimously found that collectively bargained
+seniority trumps the need for reasonable accommodation in
+the context of the linguistically similar Rehabilitation Act.
+See Eckles v. Consolidated Rail Corp., 94 F. 3d 1041, 1047–
+1048 (CA7 1996) (collecting cases); Shea v. Tisch, 870 F. 2d
+786, 790 (CA1 1989); Carter v. Tisch, 822 F. 2d 465, 469 (CA4
+1987); Jasany v. United States Postal Service, 755 F. 2d 1244,
+1251–1252 (CA6 1985). And several Circuits, though differ-
+ing in their reasoning, have reached a similar conclusion in
+the context of seniority and the ADA. See Smith v. Mid-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+404  US AIRWAYS, INC. v. BARNETT
+
+                                    Opinion of the Court
+
+land Brake, Inc., 180 F. 3d 1154, 1175 (CA10 1999); Feliciano
+v. Rhode Island, 160 F. 3d 780, 787 (CA1 1998); Eckles, supra,
+at 1047–1048. All these cases discuss collectively bargained
+seniority systems, not systems (like the present system)
+which are unilaterally imposed by management. But the
+relevant seniority system advantages, and related difﬁculties
+that result from violations of seniority rules, are not limited
+to collectively bargained systems.
+
+   For one thing, the typical seniority system provides im-
+portant employee beneﬁts by creating, and fulﬁlling, em-
+ployee expectations of fair, uniform treatment. These bene-
+ﬁts include “job security and an opportunity for steady and
+predictable advancement based on objective standards.”
+Brief for Petitioner 32 (citing Fallon & Weiler, Fireﬁghters
+v. Stotts: Conﬂicting Models of Racial Justice, 1984 S. Ct.
+Rev. 1, 57–58). See also 1 B. Lindemann & P. Grossman,
+Employment Discrimination Law 72 (3d ed. 1996) (“One of
+the most important aspects of competitive seniority is its
+use in determining who will be laid off during a reduction in
+force”). They include “an element of due process,” limiting
+“unfairness in personnel decisions.” Gersuny, Origins of Se-
+niority Provisions in Collective Bargaining, 33 Lab. L. J. 518,
+519 (1982). And they consequently encourage employees to
+invest in the employing company, accepting “less than their
+value to the ﬁrm early in their careers” in return for greater
+beneﬁts in later years. J. Baron & D. Kreps, Strategic
+Human Resources: Frameworks for General Managers 288
+(1999).
+
+   Most important for present purposes, to require the typi-
+cal employer to show more than the existence of a seniority
+system might well undermine the employees’ expectations of
+consistent, uniform treatment—expectations upon which the
+seniority system’s beneﬁts depend. That is because such a
+rule would substitute a complex case-speciﬁc “accommoda-
+tion” decision made by management for the more uniform,
+impersonal operation of seniority rules. Such management
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          405
+
+                                    Opinion of the Court
+
+decisionmaking, with its inevitable discretionary elements,
+would involve a matter of the greatest importance to em-
+ployees, namely, layoffs; it would take place outside, as well
+as inside, the conﬁnes of a court case; and it might well take
+place fairly often. Cf. ADA, 42 U. S. C. § 12101(a)(1) (esti-
+mating that some 43 million Americans suffer from physical
+or mental disabilities). We can ﬁnd nothing in the statute
+that suggests Congress intended to undermine seniority sys-
+tems in this way. And we consequently conclude that the
+employer’s showing of violation of the rules of a seniority
+system is by itself ordinarily sufﬁcient.
+
+                                        B
+
+   The plaintiff (here the employee) nonetheless remains free
+to show that special circumstances warrant a ﬁnding that,
+despite the presence of a seniority system (which the ADA
+may not trump in the run of cases), the requested “accommo-
+dation” is “reasonable” on the particular facts. That is be-
+cause special circumstances might alter the important expec-
+tations described above. Cf. Borkowski, 63 F. 3d, at 137
+(“[A]n accommodation that imposed burdens that would be
+unreasonable for most members of an industry might never-
+theless be required of an individual defendant in light of that
+employer’s particular circumstances”). See also Woodman
+v. Runyon, 132 F. 3d 1330, 1343–1344 (CA10 1997). The
+plaintiff might show, for example, that the employer, having
+retained the right to change the seniority system unilater-
+ally, exercises that right fairly frequently, reducing employee
+expectations that the system will be followed—to the point
+where one more departure, needed to accommodate an indi-
+vidual with a disability, will not likely make a difference.
+The plaintiff might show that the system already contains
+exceptions such that, in the circumstances, one further ex-
+ception is unlikely to matter. We do not mean these exam-
+ples to exhaust the kinds of showings that a plaintiff might
+make. But we do mean to say that the plaintiff must bear
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+406  US AIRWAYS, INC. v. BARNETT
+
+                                  Stevens, J., concurring
+
+the burden of showing special circumstances that make an
+exception from the seniority system reasonable in the par-
+ticular case. And to do so, the plaintiff must explain why,
+in the particular case, an exception to the employer’s senior-
+ity policy can constitute a “reasonable accommodation” even
+though in the ordinary case it cannot.
+
+                                       IV
+
+   In its question presented, US Airways asked us whether
+the ADA requires an employer to assign a disabled employee
+to a particular position even though another employee is
+entitled to that position under the employer’s “established
+seniority system.” We answer that ordinarily the ADA
+does not require that assignment. Hence, a showing that
+the assignment would violate the rules of a seniority sys-
+tem warrants summary judgment for the employer—unless
+there is more. The plaintiff must present evidence of that
+“more,” namely, special circumstances surrounding the par-
+ticular case that demonstrate the assignment is nonetheless
+reasonable.
+
+   Because the lower courts took a different view of the mat-
+ter, and because neither party has had an opportunity to
+seek summary judgment in accordance with the principles
+we set forth here, we vacate the Court of Appeals’ judgment
+and remand the case for further proceedings consistent with
+this opinion.
+
+                                                            It is so ordered.
+
+   Justice Stevens, concurring.
+
+   While I join the Court’s opinion, my colleagues’ separate
+writings prompt these additional comments.
+
+   A possible conﬂict with an employer’s seniority system is
+relevant to the question whether a disabled employee’s re-
+quested accommodation is “reasonable” within the meaning
+of the Americans with Disabilities Act of 1990. For that
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          407
+
+                                  Stevens, J., concurring
+
+reason, to the extent that the Court of Appeals concluded
+that a seniority system is only relevant to the question
+whether a given accommodation would impose an “undue
+hardship” on an employer, or determined that such a system
+has only a minor bearing on the reasonableness inquiry, it
+misread the statute.
+
+   Although the Court of Appeals did not apply the standard
+that the Court endorses today, it correctly rejected the
+per se rule that petitioner has pressed upon us and properly
+reversed the District Court’s entry of summary judgment
+for petitioner. The Court of Appeals also correctly held
+that there was a triable issue of fact precluding the entry of
+summary judgment with respect to whether petitioner vio-
+lated the statute by failing to engage in an interactive proc-
+ess concerning respondent’s three proposed accommodations.
+228 F. 3d 1105, 1117 (CA9 2000) (en banc). This latter hold-
+ing is untouched by the Court’s opinion today.
+
+   Among the questions that I have not been able to answer
+on the basis of the limited record that has been presented to
+us are: (1) whether the mailroom position held by respond-
+ent became open for bidding merely in response to a routine
+airline schedule change,1 or as the direct consequence of
+the layoff of several thousand employees; 2 (2) whether re-
+spondent’s requested accommodation should be viewed as
+an assignment to a vacant position,3 or as the maintenance
+of the status quo; 4 and (3) exactly what impact the grant of
+respondent’s request would have had on other employees.5
+
+   1 Brief for Respondent 3 (quoting Lodging of Respondent 7–8 (letter,
+dated Mar. 8, 1994, from petitioner’s counsel to Equal Employment Oppor-
+tunity Commission)).
+
+   2 Brief for Petitioner 5 (citing App. 21 (declaration in support of peti-
+tioner’s summary judgment motion)).
+
+   3 See post, at 409–410 (O’Connor, J., concurring).
+   4 See post, at 423 (Souter, J., dissenting).
+   5 See, e. g., ibid. (“There was no evidence in the District Court of any
+unmanageable ripple effects from Barnett’s request”).
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+408  US AIRWAYS, INC. v. BARNETT
+
+                                 O’Connor, J., concurring
+
+As I understand the Court’s opinion, on remand, respondent
+will have the burden of answering these and other questions
+in order to overcome the presumption that petitioner’s
+seniority system justiﬁed respondent’s discharge.
+
+   Justice O’Connor, concurring.
+
+   I agree with portions of the opinion of the Court, but I
+ﬁnd problematic the Court’s test for determining whether
+the fact that a job reassignment violates a seniority sys-
+tem makes the reassignment an unreasonable accommoda-
+tion under the Americans with Disabilities Act of 1990 (ADA
+or Act), 42 U. S. C. § 12101 et seq. (1994 ed. and Supp. V).
+Although a seniority system plays an important role in the
+workplace, for the reasons I explain below, I would prefer to
+say that the effect of a seniority system on the reasonable-
+ness of a reassignment as an accommodation for purposes of
+the ADA depends on whether the seniority system is legally
+enforceable. “Were it possible for me to adhere to [this be-
+lief] in my vote, and for the Court at the same time to [adopt
+a majority rule],” I would do so. Screws v. United States,
+325 U. S. 91, 134 (1945) (Rutledge, J., concurring in result).
+“The Court, however, is divided in opinion,” ibid., and if
+each Member voted consistently with his or her beliefs, we
+would not agree on a resolution of the question presented
+in this case. Yet “[s]talemate should not prevail,” ibid., par-
+ticularly in a case in which we are merely interpreting a
+statute. Accordingly, in order that the Court may adopt a
+rule, and because I believe the Court’s rule will often lead
+to the same outcome as the one I would have adopted, I join
+the Court’s opinion despite my concerns. Cf. Bragdon v.
+Abbott, 524 U. S. 624, 655–656 (1998) (Stevens, J., joined by
+Breyer, J., concurring); Olmstead v. L. C., 527 U. S. 581,
+607–608 (1999) (Stevens, J., concurring in part and concur-
+ring in judgment).
+
+   The ADA speciﬁcally lists “reassignment to a vacant posi-
+tion” as one example of a “reasonable accommodation.” 42
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          409
+
+                                 O’Connor, J., concurring
+
+U. S. C. § 12111(9)(B) (1994 ed.). In deciding whether an
+otherwise reasonable accommodation involving a reassign-
+ment is unreasonable because it would require an exception
+to a seniority system, I think the relevant issue is whether
+the seniority system prevents the position in question from
+being vacant. The word “vacant” means “not ﬁlled or oc-
+cupied by an incumbent [or] possessor.” Webster’s Third
+New International Dictionary 2527 (1976). In the context
+of a workplace, a vacant position is a position in which no
+employee currently works and to which no individual has
+a legal entitlement. For example, in a workplace without a
+seniority system, when an employee ceases working for the
+employer, the employee’s former position is vacant until a
+replacement is hired. Even if the replacement does not
+start work immediately, once the replacement enters into a
+contractual agreement with the employer, the position is
+no longer vacant because it has a “possessor.” In contrast,
+when an employee ceases working in a workplace with a
+legally enforceable seniority system, the employee’s former
+position does not become vacant if the seniority system enti-
+tles another employee to it. Instead, the employee entitled
+to the position under the seniority system immediately be-
+comes the new “possessor” of that position. In a workplace
+with an unenforceable seniority policy, however, an employee
+expecting assignment to a position under the seniority policy
+would not have any type of contractual right to the position
+and so could not be said to be its “possessor.” The position
+therefore would become vacant.
+
+   Given this understanding of when a position can properly
+be considered vacant, if a seniority system, in the absence of
+the ADA, would give someone other than the individual
+seeking the accommodation a legal entitlement or con-
+tractual right to the position to which reassignment is
+sought, the seniority system prevents the position from
+being vacant. If a position is not vacant, then reassignment
+to it is not a reasonable accommodation. The Act speciﬁ-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+410  US AIRWAYS, INC. v. BARNETT
+
+                                 O’Connor, J., concurring
+
+cally says that “reassignment to a vacant position” is a type
+of “reasonable accommodation.” § 12111(9)(B) (emphasis
+added). Indeed, the legislative history of the Act conﬁrms
+that Congress did not intend reasonable accommodation to
+require bumping other employees. H. R. Rep. No. 101–485,
+pt. 2, p. 63 (1990) (“The Committee also wishes to make clear
+that reassignment need only be to a vacant position—‘bump-
+ing’ another employee out of a position to create a vacancy
+is not required”); S. Rep. No. 101–116, p. 32 (1989) (same).
+
+   Petitioner’s Personnel Policy Guide for Agents, which
+contains its seniority policy, speciﬁcally states that it is
+“not intended to be a contract (express or implied) or other-
+wise to create legally enforceable obligations,” and that peti-
+tioner “reserves the right to change any and all of the stated
+policies and procedures in [the] Guide at any time, without
+advanc[e] notice.” Lodging of Respondent 2 (emphasis in
+original). Petitioner conceded at oral argument that its
+seniority policy does not give employees any legally enforce-
+able rights. Tr. of Oral Arg. 16. Because the policy did not
+give any other employee a right to the position respondent
+sought, the position could be said to have been vacant when
+it became open for bidding, making the requested accom-
+modation reasonable.
+
+   In Part II of its opinion, the Court correctly explains
+that “a plaintiff/employee (to defeat a defendant/employer’s
+motion for summary judgment) need only show that an
+‘accommodation’ seems reasonable on its face, i. e., ordi-
+narily or in the run of cases.” Ante, at 401. In other
+words, the plaintiff must show that the method of accommo-
+dation the employee seeks is reasonable in the run of cases.
+See ante, at 402 (quoting Barth v. Gelb, 2 F. 3d 1180, 1187
+(CADC 1993)). As the Court also correctly explains, “[o]nce
+the plaintiff has made this showing, the defendant/employer
+then must show special . . . circumstances that demonstrate
+undue hardship” in the context of the particular employer’s
+operations. Ante, at 402. These interpretations give ap-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          411
+
+                                   Scalia, J., dissenting
+
+propriate meaning to both the term “reasonable,” 42 U. S. C.
+§ 12112(b)(5)(A), and the term “undue hardship,” ibid., pre-
+venting the concepts from overlapping by making reason-
+ableness a general inquiry and undue hardship a speciﬁc in-
+quiry. When the Court turns to applying its interpretation
+of the Act to seniority systems, however, it seems to blend
+the two inquiries by suggesting that the plaintiff should have
+the opportunity to prove that there are special circumstances
+in the context of that particular seniority system that would
+cause an exception to the system to be reasonable despite
+the fact that such exceptions are unreasonable in the run
+of cases.
+
+   Although I am troubled by the Court’s reasoning, I believe
+the Court’s approach for evaluating seniority systems will
+often lead to the same outcome as the test I would have
+adopted. Unenforceable seniority systems are likely to in-
+volve policies in which employers “retai[n] the right to
+change the seniority system,” ante, at 405, and will often
+“contai[n] exceptions,” ibid. They will also often contain
+disclaimers that “reduc[e] employee expectations that the
+system will be followed.” Ibid. Thus, under the Court’s
+test, disabled employees seeking accommodations that would
+require exceptions to unenforceable seniority systems may
+be able to show circumstances that make the accommoda-
+tion “reasonable in the[ir] particular case.” Ante, at 406.
+Because I think the Court’s test will often lead to the correct
+outcome, and because I think it important that a majority of
+the Court agree on a rule when interpreting statutes, I join
+the Court’s opinion.
+
+   Justice Scalia, with whom Justice Thomas joins,
+dissenting.
+
+   The question presented asks whether the “reasonable ac-
+commodation” mandate of the Americans with Disabilities
+Act of 1990 (ADA or Act) requires reassignment of a disabled
+employee to a position that “another employee is entitled
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+412  US AIRWAYS, INC. v. BARNETT
+
+                                   Scalia, J., dissenting
+
+to hold . . . under the employer’s bona ﬁde and established
+seniority system.” Pet. for Cert. i; 532 U. S. 970 (2001).
+Indulging its penchant for eschewing clear rules that might
+avoid litigation, see, e. g., Kansas v. Crane, 534 U. S. 407, 423
+(2002) (Scalia, J., dissenting); TRW Inc. v. Andrews, 534
+U. S. 19, 35–36 (2001) (Scalia, J., concurring in judgment),
+the Court answers “maybe.” It creates a presumption that
+an exception to a seniority rule is an “unreasonable” accom-
+modation, ante, at 403, but allows that presumption to be
+rebutted by showing that the exception “will not likely make
+a difference,” ante, at 405.
+
+   The principal defect of today’s opinion, however, goes well
+beyond the uncertainty it produces regarding the relation-
+ship between the ADA and the inﬁnite variety of seniority
+systems. The conclusion that any seniority system can ever
+be overridden is merely one consequence of a mistaken inter-
+pretation of the ADA that makes all employment rules and
+practices—even those which (like a seniority system) pose
+no distinctive obstacle to the disabled—subject to sus-
+pension when that is (in a court’s view) a “reasonable” means
+of enabling a disabled employee to keep his job. That is a
+far cry from what I believe the accommodation provision of
+the ADA requires: the suspension (within reason) of those
+employment rules and practices that the employee’s disabil-
+ity prevents him from observing.
+
+                                        I
+
+   The Court begins its analysis by describing the ADA as
+declaring that an employer may not “ ‘discriminate against a
+qualiﬁed individual with a disability.’ ” Ante, at 396 (quot-
+ing 42 U. S. C. § 12112(a) (1994 ed.)). In fact the Act says
+more: an employer may not “discriminate against a qualiﬁed
+individual with a disability because of the disability of such
+individual. ” 42 U. S. C. § 12112(a) (1994 ed.) (emphasis
+added). It further provides that discrimination includes
+“not making reasonable accommodations to the known physi-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          413
+
+                                   Scalia, J., dissenting
+
+cal or mental limitations of an otherwise qualiﬁed individ-
+ual with a disability.” § 12112(b)(5)(A) (emphasis added).
+
+   Read together, these provisions order employers to modify
+or remove (within reason) policies and practices that burden
+a disabled person “because of [his] disability.” In other
+words, the ADA eliminates workplace barriers only if a dis-
+ability prevents an employee from overcoming them—those
+barriers that would not be barriers but for the employee’s
+disability. These include, for example, work stations that
+cannot accept the employee’s wheelchair, or an assembly-line
+practice that requires long periods of standing. But they do
+not include rules and practices that bear no more heavily
+upon the disabled employee than upon others—even though
+an exemption from such a rule or practice might in a sense
+“make up for” the employee’s disability. It is not a required
+accommodation, for example, to pay a disabled employee
+more than others at his grade level—even if that increment
+is earmarked for massage or physical therapy that would en-
+able the employee to work with as little physical discomfort
+as his co-workers. That would be “accommodating” the dis-
+abled employee, but it would not be “making . . . accommo-
+datio[n] to the known physical or mental limitations” of the
+employee, § 12112(b)(5)(A), because it would not eliminate
+any workplace practice that constitutes an obstacle because
+of his disability.
+
+   So also with exemption from a seniority system, which
+burdens the disabled and nondisabled alike. In particular
+cases, seniority rules may have a harsher effect upon the
+disabled employee than upon his co-workers. If the disabled
+employee is physically capable of performing only one task in
+the workplace, seniority rules may be, for him, the difference
+between employment and unemployment. But that does
+not make the seniority system a disability-related obstacle,
+any more than harsher impact upon the more needy disabled
+employee renders the salary system a disability-related ob-
+stacle. When one departs from this understanding, the
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+414  US AIRWAYS, INC. v. BARNETT
+
+                                   Scalia, J., dissenting
+
+ADA’s accommodation provision becomes a standardless
+grab bag—leaving it to the courts to decide which workplace
+preferences (higher salary, longer vacations, reassignment
+to positions to which others are entitled) can be deemed
+“reasonable” to “make up for” the particular employee’s
+disability.
+
+   Some courts, including the Ninth Circuit in the present
+case, have accepted respondent’s contention that the ADA
+demands accommodation even with respect to those ob-
+stacles that have nothing to do with the disability. Their
+principal basis for this position is that the deﬁnition of
+“reasonable accommodation” includes “reassignment to a va-
+cant position.” § 12111(9)(B). This accommodation would
+be meaningless, they contend, if it required only that the
+disabled employee be considered for a vacant position. The
+ADA already prohibits employers from discriminating
+against the disabled with respect to “hiring, advancement,
+or discharge . . . and other terms, conditions, and privileges
+of employment.” § 12112(a). Surely, the argument goes, a
+disabled employee must be given preference over a nondis-
+abled employee when a vacant position appears. See Smith
+v. Midland Brake, Inc., 180 F. 3d 1154, 1164–1165 (CA10
+1999) (en banc); Aka v. Washington Hospital Center, 156 F.
+3d 1284, 1304–1305 (CADC 1998) (en banc). Accord, EEOC
+Enforcement Guidance: Reasonable Accommodation and
+Undue Hardship Under the Americans with Disabilities Act,
+3 BNA EEOC Compliance Manual, No. 246, p. N:2479 (Mar.
+1, 1999).
+
+   This argument seems to me quite mistaken. The right to
+be given a vacant position so long as there are no obstacles
+to that appointment (including another candidate who is
+better qualiﬁed, if “best qualiﬁed” is the workplace rule)
+is of considerable value. If an employee is hired to ﬁll a
+position but fails miserably, he will typically be ﬁred. Few
+employers will search their organization charts for vacancies
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          415
+
+                                   Scalia, J., dissenting
+
+to which the low-performing employee might be suited.
+The ADA, however, prohibits an employer from ﬁring a per-
+son whose disability is the cause of his poor performance
+without ﬁrst seeking to place him in a vacant job where the
+disability will not affect performance. Such reassignment
+is an accommodation to the disability because it removes an
+obstacle (the inability to perform the functions of the as-
+signed job) arising solely from the disability. Cf. Bruff v.
+North Mississippi Health Services, Inc., 244 F. 3d 495, 502
+(CA5 2001). See also 3 BNA EEOC Compliance Manual,
+supra, at N:2478 (“[A]n employer who does not normally
+transfer employees would still have to reassign an employee
+with a disability”).
+
+   The phrase “reassignment to a vacant position” appears in
+a subsection describing a variety of potential “reasonable
+accommodation[s]”:
+
+         “(A) making existing facilities used by employees
+      readily accessible to and usable by individuals with disa-
+      bilities; and
+
+         “(B) job restructuring, part-time or modiﬁed work
+      schedules, reassignment to a vacant position, acqui-
+      sition or modiﬁcation of equipment or devices, appro-
+      priate adjustment or modiﬁcations of examinations,
+      training materials or policies, the provision of qualiﬁed
+      readers or interpreters, and other similar accommoda-
+      tions for individuals with disabilities.” § 12111(9) (em-
+      phasis added).
+
+Subsection (A) clearly addresses features of the workplace
+that burden the disabled because of their disabilities. Sub-
+section (B) is broader in scope but equally targeted at
+disability-related obstacles. Thus it encompasses “modiﬁed
+work schedules” (which may accommodate inability to work
+for protracted periods), “modiﬁcation of equipment and de-
+vices,” and “provision of qualiﬁed readers or interpreters.”
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+416  US AIRWAYS, INC. v. BARNETT
+
+                                   Scalia, J., dissenting
+
+There is no reason why the phrase “reassignment to a vacant
+position” should be thought to have a uniquely different
+focus. It envisions elimination of the obstacle of the current
+position (which requires activity that the disabled employee
+cannot tolerate) when there is an alternate position freely
+available. If he is qualiﬁed for that position, and no one else
+is seeking it, or no one else who seeks it is better qualiﬁed, he
+must be given the position. But “reassignment to a vacant
+position” does not envision the elimination of obstacles to the
+employee’s service in the new position that have nothing
+to do with his disability—for example, another employee’s
+claim to that position under a seniority system, or another
+employee’s superior qualiﬁcations. Cf. 29 CFR pt. 1630,
+App. § 1630.2(o), p. 357 (2001) (explaining “reasonable accom-
+modation” as “any change in the work environment or in the
+way things are customarily done that enables an individual
+with a disability to enjoy equal employment opportunities”
+(emphasis added)); Aka v. Washington Hospital Center,
+supra, at 1314–1315 (Silberman, J., dissenting) (interpreting
+“reassignment to a vacant position” consistently with the
+other accommodations listed in § 12111(9), none of which
+“even alludes to the possibility of a preference for the dis-
+abled over the nondisabled”).
+
+   Unsurprisingly, most Courts of Appeals addressing the
+issue have held or assumed that the ADA does not mandate
+exceptions to a “legitimate, nondiscriminatory policy” such
+as a seniority system or a consistent policy of assigning the
+most qualiﬁed person to a vacant position. See, e. g., EEOC
+v. Sara Lee Corp., 237 F. 3d 349, 353–355 (CA4 2001) (senior-
+ity system); EEOC v. Humiston-Keeling, Inc., 227 F. 3d 1024,
+1028–1029 (CA7 2000) (policy of assigning the most qualiﬁed
+applicant); Burns v. Coca-Cola Enterprises, Inc., 222 F. 3d
+247, 257–258 (CA6 2000) (policy of reassigning employees
+only if they request a transfer to an advertised vacant posi-
+tion); Cravens v. Blue Cross and Blue Shield of Kansas City,
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          417
+
+                                   Scalia, J., dissenting
+
+214 F. 3d 1011, 1020 (CA8 2000) (assuming reassignment is
+not required if it would violate legitimate, nondiscriminatory
+policies); Duckett v. Dunlop Tire Corp., 120 F. 3d 1222, 1225
+(CA11 1997) (policy of not reassigning salaried workers to
+production positions covered by a collective-bargaining unit);
+Daugherty v. El Paso, 56 F. 3d 695, 700 (CA5 1995) (policy
+of giving full-time employees priority over part-time em-
+ployees in assigning vacant positions).
+
+   Even the Equal Employment Opportunity Commission, in
+at least some of its regulations, acknowledges that the ADA
+clears away only obstacles arising from a person’s disability
+and nothing more. According to the agency, the term “rea-
+sonable accommodation” means
+
+         “(i) [m]odiﬁcations or adjustments to a job application
+      process that enable a qualiﬁed applicant with a disability
+      to be considered for the position such qualiﬁed applicant
+      desires; or
+
+         “(ii) [m]odiﬁcations or adjustments to the work envi-
+      ronment . . . that enable a qualiﬁed individual with a
+      disability to perform the essential functions of that posi-
+      tion; or
+
+         “(iii) [m]odiﬁcations or adjustments that enable a cov-
+      ered entity’s employee with a disability to enjoy equal
+      beneﬁts and privileges of employment as are enjoyed
+      by its other similarly situated employees without dis-
+      abilities.” 29 CFR § 1630.2(o) (2001) (emphasis added).
+
+See also 29 CFR pt. 1630, App. § 1630.9, at 364 (“reasonable
+accommodation requirement is best understood as a means
+by which barriers to . . . equal employment opportunity . . .
+are removed or alleviated”).
+
+   Sadly, this analysis is lost on the Court, which mistakenly
+and inexplicably concludes, ante, at 398, that my position
+here is the same as that attributed to US Airways. In re-
+jecting the argument that the ADA creates no “automatic
+exemption” for neutral workplace rules such as “break-
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+418  US AIRWAYS, INC. v. BARNETT
+
+                                   Scalia, J., dissenting
+
+from-work” and furniture budget rules, ante, at 397–398, the
+Court rejects an argument I have not made.
+
+                                       II
+
+   Although, as I have said, the uncertainty cast upon bona
+ﬁde seniority systems is the least of the ill consequences
+produced by today’s decision, a few words on that subject
+are nonetheless in order. Since, under the Court’s interpre-
+tation of the ADA, all workplace rules are eligible to be used
+as vehicles of accommodation, the one means of saving se-
+niority systems is a judicial ﬁnding that accommodation
+through the suspension of those workplace rules would be
+unreasonable. The Court is unwilling, however, to make
+that ﬁnding categorically, with respect to all seniority sys-
+tems. Instead, it creates (and “creates” is the appropriate
+word) a rebuttable presumption that exceptions to seniority
+rules are not “reasonable” under the ADA, but leaves it free
+for the disabled employee to show that under the “special
+circumstances” of his case, an exception would be “reason-
+able.” Ante, at 405. The employee would be entitled to an
+exception, for example, if he showed that “one more depar-
+ture” from the seniority rules “will not likely make a differ-
+ence.” Ibid.
+
+   I have no idea what this means. When is it possible for a
+departure from seniority rules to “not likely make a differ-
+ence”? Even when a bona ﬁde seniority system has multiple
+exceptions, employees expect that these are the only ex-
+ceptions. One more unannounced exception will invariably
+undermine the values (“fair, uniform treatment,” “job se-
+curity,” “predictable advancement,” etc.) that the Court
+cites as its reasons for believing seniority systems so im-
+portant that they merit a presumption of exemption. See
+ante, at 404.
+
+   One is tempted to impart some rationality to the scheme
+by speculating that the Court’s burden-shifting rule is
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          419
+
+                                   Scalia, J., dissenting
+
+merely intended to give the disabled employee an opportu-
+nity to show that the employer’s seniority system is in fact
+a sham—a system so full of exceptions that it creates no
+meaningful employee expectations. The rule applies, how-
+ever, even if the seniority system is “bona ﬁde and estab-
+lished,” Pet. for Cert. i. And the Court says that “to require
+the typical employer to show more than the existence of a
+seniority system might well undermine the employees’ ex-
+pectations of consistent, uniform treatment . . . .” Ante, at
+404. How could deviations from a sham seniority system
+“undermine the employees’ expectations”?
+
+   I must conclude, then, that the Court’s rebuttable pre-
+sumption does not merely give disabled employees the op-
+portunity to unmask sham seniority systems; it gives them
+a vague and unspeciﬁed power (whenever they can show
+“special circumstances”) to undercut bona ﬁde systems.
+The Court claims that its new test will not require excep-
+tions to seniority systems “in the run of cases,” ante, at 403,
+but that is belied by the disposition of this case. The Court
+remands to give respondent an opportunity to show that an
+exception to petitioner’s seniority system “will not likely
+make a difference” to employee expectations, ante, at 405,
+despite the following ﬁnding by the District Court:
+
+      “[T]he uncontroverted evidence shows that [petitioner’s]
+      seniority system has been in place for ‘decades’ and gov-
+      erns over 14,000 . . . Agents. Moreover, seniority poli-
+      cies such as the one at issue in this case are common to
+      the airline industry. Given this context, it seems clear
+      that [petitioner’s] employees were justiﬁed in relying
+      upon the policy. As such, any signiﬁcant alteration of
+      that policy would result in undue hardship to both the
+      company and its non-disabled employees.” App. to Pet.
+      for Cert. 96a.
+
+                                ***
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+420  US AIRWAYS, INC. v. BARNETT
+
+                                   Souter, J., dissenting
+
+   Because the Court’s opinion leaves the question whether
+a seniority system must be disregarded in order to accommo-
+date a disabled employee in a state of uncertainty that can
+be resolved only by constant litigation; and because it adopts
+an interpretation of the ADA that incorrectly subjects all
+employer rules and practices to the requirement of reason-
+able accommodation; I respectfully dissent.
+
+   Justice Souter, with whom Justice Ginsburg joins,
+dissenting.
+
+   “[R]eassignment to a vacant position, ” 42 U. S. C.
+§ 12111(9) (1994 ed.), is one way an employer may “reason-
+abl[y] accommodat[e]” disabled employees under the Ameri-
+cans with Disabilities Act of 1990 (ADA), 42 U. S. C. § 12101
+et seq. (1994 ed. and Supp. V). The Court today holds that
+a request for reassignment will nonetheless most likely be
+unreasonable when it would violate the terms of a seniority
+system imposed by an employer. Although I concur in the
+Court’s appreciation of the value and importance of seniority
+systems, I do not believe my hand is free to accept the major-
+ity’s result and therefore respectfully dissent.
+
+   Nothing in the ADA insulates seniority rules from the
+“reasonable accommodation” requirement, in marked con-
+trast to Title VII of the Civil Rights Act of 1964 and the Age
+Discrimination in Employment Act of 1967, each of which
+has an explicit protection for seniority. See 42 U. S. C.
+§ 2000e–2(h) (1994 ed.) (“Notwithstanding any other provi-
+sion of this subchapter, it shall not be an unlawful employ-
+ment practice for an employer to [provide different beneﬁts
+to employees] pursuant to a bona ﬁde seniority . . .
+system . . .”); 29 U. S. C. § 623(f) (1994 ed.) (“It shall not be
+unlawful for an employer . . . to take any action otherwise
+prohibited [under previous sections] . . . to observe the terms
+of a bona ﬁde seniority system [except for involuntary
+retirement] . . .”). Because Congress modeled several of the
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          421
+
+                                   Souter, J., dissenting
+
+ADA’s provisions on Title VII,1 its failure to replicate Title
+VII’s exemption for seniority systems leaves the statute am-
+biguous, albeit with more than a hint that seniority rules do
+not inevitably carry the day.
+
+   In any event, the statute’s legislative history resolves the
+ambiguity. The Committee Reports from both the House
+of Representatives and the Senate explain that seniority
+protections contained in a collective-bargaining agreement
+should not amount to more than “a factor” when it comes
+to deciding whether some accommodation at odds with the
+seniority rules is “reasonable” nevertheless. H. R. Rep.
+No. 101–485, pt. 2, p. 63 (1990) (existence of collectively
+bargained protections for seniority “would not be determi-
+native” on the issue whether an accommodation was rea-
+sonable); S. Rep. No. 101–116, p. 32 (1989) (a collective-
+bargaining agreement assigning jobs based on seniority
+“may be considered as a factor in determining” whether an
+accommodation is reasonable). Here, of course, it does not
+matter whether the congressional committees were right or
+wrong in thinking that views of sound ADA application could
+reduce a collectively bargained seniority policy to the level
+of “a factor,” in the absence of a speciﬁc statutory provision
+to that effect. In fact, I doubt that any interpretive clue
+in legislative history could trump settled law speciﬁcally
+making collective-bargaining agreements enforceable. See,
+e. g., § 301(a), Labor Management Relations Act, 1947, 29
+U. S. C. § 185(a) (permitting suit in federal court to enforce
+collective-bargaining agreements); Textile Workers v. Lin-
+coln Mills of Ala., 353 U. S. 448 (1957) (holding that § 301(a)
+expresses a federal policy in favor of the enforceability of
+labor contracts); Charles Dowd Box Co. v. Courtney, 368 U. S.
+
+   1 It is evident from the legislative history that several provisions of Title
+VII were copied or incorporated by reference into the ADA. See, e. g.,
+S. Rep. No. 101–116, pp. 2, 25, 43 (1989); H. R. Rep. No. 101–485, pt. 2,
+pp. 54, 76–77 (1990).
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+422  US AIRWAYS, INC. v. BARNETT
+
+                                   Souter, J., dissenting
+
+502, 509 (1962) (“Section 301(a) reﬂects congressional recog-
+nition of the vital importance of assuring the enforceability
+of [collective-bargaining] agreements”). The point in this
+case, however, is simply to recognize that if Congress consid-
+ered that sort of agreement no more than a factor in the
+analysis, surely no greater weight was meant for a senior-
+ity scheme like the one before us, unilaterally imposed by
+the employer, and, unlike collective-bargaining agreements,
+not singled out for protection by any positive federal statute.
+
+   This legislative history also speciﬁcally rules out the ma-
+jority’s reliance on Trans World Airlines, Inc. v. Hardison,
+432 U. S. 63 (1977), ante, at 403, a case involving a request
+for a religious accommodation under Title VII that would
+have broken the seniority rules of a collective-bargaining
+agreement. We held that such an accommodation would not
+be “reasonable,” and said that our conclusion was “sup-
+ported” by Title VII’s explicit exemption for seniority sys-
+tems. 432 U. S., at 79–82. The committees of both Houses
+of Congress dealing with the ADA were aware of this case
+and expressed a choice against treating it as authority under
+the ADA, with its lack of any provision for maintaining
+seniority rules. E. g., H. R. Rep. No. 101–485, pt. 2, at 68
+(“The Committee wishes to make it clear that the principles
+enunciated by the Supreme Court in TWA v. Hardison . . .
+are not applicable to this legislation”); S. Rep. No. 101–116,
+at 36 (same).2
+
+   2 The House Report singles out Hardison’s equation of “undue hardship”
+and anything more than a “de minimus [sic] cost” as being inapplicable to
+the ADA. By contrast, Hardison itself addressed seniority systems not
+only in its analysis of undue hardship, but also in its analysis of reasonable
+accommodation. 432 U. S., at 81, 84. Nonetheless, Congress’s disavowal
+of Hardison in light of the “crucial role that reasonable accommodation
+plays in ensuring meaningful employment opportunities for people with
+disabilities,” H. R. Rep. No. 101–485, pt. 2, at 68, renders that case singu-
+larly inappropriate to bolster the Court’s holding today.
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 391 (2002)                          423
+
+                                   Souter, J., dissenting
+
+   Because a unilaterally imposed seniority system enjoys no
+special protection under the ADA, a consideration of facts
+peculiar to this very case is needed to gauge whether Bar-
+nett has carried the burden of showing his proposed accom-
+modation to be a “reasonable” one despite the policy in force
+at US Airways. The majority describes this as a burden to
+show the accommodation is “plausible” or “feasible,” ante, at
+402, and I believe Barnett has met it.
+
+   He held the mailroom job for two years before learning
+that employees with greater seniority planned to bid for the
+position, given US Airways’s decision to declare the job “va-
+cant.” Thus, perhaps unlike ADA claimants who request
+accommodation through reassignment, Barnett was seeking
+not a change but a continuation of the status quo. All he
+asked was that US Airways refrain from declaring the posi-
+tion “vacant”; he did not ask to bump any other employee
+and no one would have lost a job on his account. There was
+no evidence in the District Court of any unmanageable ripple
+effects from Barnett’s request, or showing that he would
+have overstepped an inordinate number of seniority levels
+by remaining where he was.
+
+   In fact, it is hard to see the seniority scheme here as any
+match for Barnett’s ADA requests, since US Airways appar-
+ently took pains to ensure that its seniority rules raised no
+great expectations. In its policy statement, US Airways
+said that “[t]he Agent Personnel Policy Guide is not intended
+to be a contract” and that “USAir reserves the right to
+change any and all of the stated policies and procedures in
+this Guide at any time, without advanced notice.” Lodging
+of Respondent 2 (emphasis in original). While I will skip
+any state-by-state analysis of the legal treatment of em-
+ployee handbooks (a source of many lawyers’ fees) it is safe
+to say that the contract law of a number of jurisdictions
+would treat this disclaimer as fatal to any claim an employee
+535US2 Unit: $U42 [10-01-03 18:21:42] PAGES PGT: OPIN
+
+424  US AIRWAYS, INC. v. BARNETT
+
+                                   Souter, J., dissenting
+
+might make to enforce the seniority policy over an employ-
+er’s contrary decision.3
+
+   With US Airways itself insisting that its seniority system
+was noncontractual and modiﬁable at will, there is no reason
+to think that Barnett’s accommodation would have resulted
+in anything more than minimal disruption to US Airways’s
+operations, if that. Barnett has shown his requested accom-
+modation to be “reasonable,” and the burden ought to shift
+to US Airways if it wishes to claim that, in spite of surface
+appearances, violation of the seniority scheme would have
+worked an undue hardship. I would therefore afﬁrm the
+Ninth Circuit.
+
+   3 The Court would allow a plaintiff to argue that a particular system was
+so riddled with exceptions so as not to engender expectations of consistent
+treatment. Ante, at 405–406.
+

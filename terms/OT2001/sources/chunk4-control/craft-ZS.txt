@@ -1,0 +1,31 @@
+Source: https://www.law.cornell.edu/supct/html/00-1831.ZS.html
+
+UNITED STATES V. CRAFT
+LII
+Supreme Court
+UNITED STATES V. CRAFT (00-1831)
+233 F.3d 358, reversed and remanded.Syllabus
+Opinion
+[ O’Connor ]Dissent
+[ Scalia ]Dissent
+[ Thomas ]HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+UNITED STATES v. CRAFT
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+No. 00—1831.  Argued January 14, 2002–Decided April 17, 2002
+When respondent’s husband failed to pay federal income tax liabilities assessed against him, a federal tax lien attached to “all [of his] property and rights to property.”  26 U.S.C. § 6321.  After the notice of the lien was filed, respondent and her husband jointly executed a quitclaim deed purporting to transfer to her his interest in a piece of real property in Michigan that they owned as tenants by the entirety.  Subsequently, the Internal Revenue Service (IRS) agreed to release the lien and allow respondent to sell the property with half the net proceeds to be held in escrow pending determination of the Government’s interest in the property.  She brought this action to quiet title to the escrowed proceeds.  The Government claimed, among other things, that its lien had attached to the husband’s interest in the tenancy by the entirety.  The District Court granted the Government summary judgment, but the Sixth Circuit held that no lien attached because the husband had no separate interest in the entireties property under Michigan law, and remanded the case for consideration of an alternative claim not at issue here.  In affirming the District Court’s decision on remand, the Sixth Circuit held that its prior opinion on the issue whether the lien attached to the husband’s entireties property was the law of the case.
+Held: The husband’s interests in the entireties property constitute “property” or “rights to property” to which a federal tax lien may attach.  Pp. 3—15.
+(a) Because the federal tax lien statute itself creates no property rights, United States v. Bess, 357 U.S. 51, 55, this Court looks initially to state law to determine what rights the taxpayer has in the property the Government seeks to reach and then to federal law to determine whether such state-delineated rights qualify as property or rights to property under §6321, Drye v. United States, 528 U.S. 49, 58.  A common idiom describes property as a “bundle of sticks”–a collection of individual rights which, in certain combinations, constitute property.  State law determines which sticks are in a person’s bundle, but federal law determines whether those sticks constitute property for federal tax lien purposes.  In looking to state law, this Court must consider the substance of the state law rights, not the labels the State gives them or the conclusions it draws from them.  Pp. 3—4.
+(b) Michigan law gave respondent’s husband, among other rights, the right to use the entireties property, the right to exclude others from it, the right of survivorship, the right to become a tenant in common with equal shares upon divorce, the right to sell the property with respondent’s consent and to receive half the proceeds from such a sale, the right to encumber the property with respondent’s consent, and the right to block respondent from selling or encumbering the property unilaterally.  Pp. 4—8.
+(c) The rights Michigan law granted respondent’s husband qualify as “property” or “rights to property” under §6321.  The broad statutory language authorizing the tax lien reveals that Congress meant to reach every property interest that a taxpayer might have.  United States v. National Bank of Commerce, 472 U.S. 713, 719—720.  The husband’s rights of use, exclusion, and income alone may be sufficient to subject his entireties interest to the lien, for they gave him a substantial degree of control over the property.  See Drye, supra, at 61.  He also had the right to alienate the property with respondent’s consent.  The unilateral alienation stick is not essential to “property.”  Federal tax liens may attach to property that cannot be unilaterally alienated, United States v. Rodgers, 461 U.S. 677, and excluding such property would exempt a rather large amount of what is commonly thought of as property.  A number of the sticks in respondent’s husband’s bundle were presently existing, so it is not necessary to consider whether his survivorship right alone, which respondent claims is an expectancy, would qualify as property or rights to property.  Were this Court to reach a contrary conclusion, the entireties property would belong to no one for §6321 purposes because respondent had no more interest in the property than her husband.  Such a result seems absurd and would allow spouses to shield their property from federal taxation by classifying it as entireties property, facilitating abuse of the federal tax system.  Legislative history does not support respondent’s position that Congress did not intend that a federal tax lien attach to an entireties property interest.  And the common-law background of the tax lien statute’s enactment is not enough to overcome the broad language Congress actually used.  Pp. 8—14.
+(d) That Michigan makes a different choice with respect to state law creditors does not dictate the choice here.  Because §6321’s interpretation is a federal question, this Court is in no way bound by state courts’ answers to similar questions involving state law.  P. 14.
+233 F.3d 358, reversed and remanded.
+O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Kennedy, Souter, Ginsburg, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Thomas, J., joined.  Thomas, J., filed a dissenting opinion, in which Stevens and Scalia, JJ., joined.

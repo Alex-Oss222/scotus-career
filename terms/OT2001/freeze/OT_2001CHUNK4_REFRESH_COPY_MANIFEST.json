@@ -1,0 +1,52 @@
+[
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_REFRESH_NEUTRAL.md",
+    "bytes": 110742,
+    "sha256": "b4c7dd714f7a1d2cf08c7bb98e9205c52a926bb1030f5857323a2373f5c016ad"
+  },
+  {
+    "path": "terms/OT2001/entering-law/OT_2001CHUNK4_REFRESH.md",
+    "bytes": 336693,
+    "sha256": "cf689b2b285073c1db91c42dc89ac36320643e8bfac5419a130f67265cfc7fe0"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_REFRESH_WALTON_NEUTRAL.md",
+    "bytes": 40025,
+    "sha256": "f0bcafb0a26645fd923eea197dd24cabcb677eeb6e91ebdc9bafe3d65e81046f"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_REFRESH_MICHIGAN_NEUTRAL.md",
+    "bytes": 29655,
+    "sha256": "906fecb888331172845501f4fa8fbbdce49dd203fb192986faf7befed3597b40"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_REFRESH_THOMPSON_NEUTRAL.md",
+    "bytes": 25113,
+    "sha256": "1e6e29bff4f331500970b988b43d6101b9a979f123a0b7706a16f810b5070a22"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_REFRESH_BARNETT_NEUTRAL.md",
+    "bytes": 24250,
+    "sha256": "bb0aa3722ce69d4885b5f527945e0d324c424d3d1bee4c8522758ba8ddcea2cd"
+  },
+  {
+    "path": "terms/OT2001/entering-law/OT_2001CHUNK4_REFRESH_WALTON.md",
+    "bytes": 103219,
+    "sha256": "2076bf9cc7f276876fe05157c9af93becccda15192156b867b5c51c80831d2d3"
+  },
+  {
+    "path": "terms/OT2001/entering-law/OT_2001CHUNK4_REFRESH_MICHIGAN.md",
+    "bytes": 177602,
+    "sha256": "c89edd79fc7329429672edef3995b0da568b356c853d5e798a4a8015c8363b3a"
+  },
+  {
+    "path": "terms/OT2001/entering-law/OT_2001CHUNK4_REFRESH_THOMPSON.md",
+    "bytes": 162831,
+    "sha256": "8669519dca32514325267ca6ad51f726996e7911ed6060593f766e2784329d57"
+  },
+  {
+    "path": "terms/OT2001/entering-law/OT_2001CHUNK4_REFRESH_BARNETT.md",
+    "bytes": 162830,
+    "sha256": "6f26e21593a3b9d9673ce14d571540f2c656d6558841dfef493ce820b34bfb03"
+  }
+]

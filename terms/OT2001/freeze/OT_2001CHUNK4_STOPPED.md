@@ -1,0 +1,6 @@
+# Chunk 4 stopped matters
+
+- **Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co. — April 1, 2002:** Stone's application to the corrected continuing executive-committee membership requires renewed approval under Engine section 4. His approved mistaken-attribution rule expressly leaves continued organizational responsibility subject to appearance review. The corrected record retains no preparation or approval of the amicus submission and only vague awareness. A narrow revalidation question is pending. No Record or Court disposition has been issued for this matter.
+- **US Airways, Inc. v. Barnett — April 29, 2002:** No supported five-Justice judgment and operative mandate exists. Four support affirmance and ordinary further proceedings, three support vacatur with the seniority presumption and special-circumstances inquiry, and two support reversal with rejection of the demanded priority. The clean circulation audit found no supported change that reconciles those mandates. This is a multiway split, not an equal division. No Stone choice is missing; no reargument, dismissal, judgment, assignment or new procedural act is invented. The matter requires further supported consideration before adjudication.
+
+These remain open matters. Neither the scheduling inventory nor the internal stop supplies a terminal judicial event.

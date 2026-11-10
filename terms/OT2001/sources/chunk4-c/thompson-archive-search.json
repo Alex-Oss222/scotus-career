@@ -1,0 +1,24 @@
+{
+"responseHeader": {
+"status": 0,
+"QTime": 186,
+"params": {
+"query": "collection:us-supreme-court AND ((text:&quot;01-344&quot; OR text:&quot;01-344&quot; OR text__reviews:&quot;01-344&quot;) OR (text:&quot;Western States Medical&quot; OR text:&quot;Western States Medical&quot; OR text__reviews:&quot;Western States Medical&quot;))",
+"qin": "collection:us-supreme-court AND (&quot;01-344&quot; OR &quot;Western States Medical&quot;)",
+"fields": "identifier,title",
+"wt": "json",
+"rows": 50,
+"start": 0
+}
+},
+"response": {
+"numFound": 1,
+"start": 0,
+"docs": [
+{
+"identifier": "micro_IA40385014_0499",
+"title": "Thompson v. Western States Medical Center, 534 U.S. 1077 (2002) (No. 01-344)"
+}
+]
+}
+}

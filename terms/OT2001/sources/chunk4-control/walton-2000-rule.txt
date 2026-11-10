@@ -1,0 +1,1665 @@
+Source: https://www.govinfo.gov/content/pkg/FR-2000-07-11/pdf/00-17138.pdf
+
+42772  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+SOCIAL SECURITY ADMINISTRATION                 whether an individual is engaging in         gainful activity under these sections
+                                               substantial gainful activity. The NPRM       ‘‘without regard to the legality’’ of the
+20 CFR Parts 404 and 416                       included certain changes in proposed         work activity of the individual. We have
+                                               § § 404.1574(a)(3)–(6) and 416.974(a)(3)–    included in these final rules changes to
+[Regulations No. 4 and 16]                     (6) to clarify our policies on ‘‘subsidy.’’  § § 404.1571 and 416.971 to reflect these
+                                               In part because of public comments we        provisions of the Act. We have revised
+RIN 0960–AB73                                  received on the NPRM and because we          the first sentence of each of these
+                                               want to consider further issues with         sections to indicate that the work,
+Determining Disability and Blindness;          regard to our policies concerning on-        without regard to legality, that an
+Substantial Gainful Activity Guides            the-job subsidies provided by employers      individual has done during any period
+                                               and on-the-job assistance provided by        in which the individual believes that he
+AGENCY: Social Security Administration.        others, we have decided not to publish       or she is disabled may show that he or
+                                               final rules with regard to the proposals     she is able to work at the substantial
+ACTION: Final rules.                           on ‘‘subsidy’’ in proposed                   gainful activity level. We explain our
+                                               § § 404.1574(a)(3)–(6) and 416.974(a)(3)–    reasons for publishing these changes as
+SUMMARY: We are revising our rules to          (6). However, we are publishing final        final rules without notice-and-comment
+reflect amendments to the Social               rules for the remaining proposals in the     rulemaking at the end of this preamble.
+Security Act (the Act) concerning the          NPRM, some of which have been
+trial work period and the disability           modified in response to public                  We have revised §§ 404.1573(c) and
+insurance reentitlement period. We are         comments. We discuss in detail the           416.973(c) to explain in greater detail
+also clarifying certain standards we use       comments we received on the NPRM             what we mean by work under special
+to determine whether work is                   later in this preamble under ‘‘Public        conditions that take into account an
+substantial gainful activity and whether       Comments on Notice of Proposed               individual’s impairments. We added
+an individual is entitled to a trial work      Rulemaking.’’ In addition, in these final    information found in Social Security
+period, thereby further explaining how         rules, we have made certain changes          Ruling (SSR) 84–25, ‘‘Titles II and XVI:
+we determine disability under titles II        from the proposed rules for technical        Determination of Substantial Gainful
+and XVI of the Act.                            accuracy and, consistent with the            Activity If Substantial Work Activity Is
+                                               government’s ‘‘plain language’’              Discontinued or Reduced—
+EFFECTIVE DATE: These regulations are          initiative, to make our rules easier to      Unsuccessful Work Attempt’’ (Social
+effective August 10, 2000.                     read and understand. We have also            Security Rulings, Cumulative Edition,
+                                               included in these final rules several        1984, p. 92), to clarify these regulatory
+FOR FURTHER INFORMATION CONTACT:               additional amendments to our                 provisions. As discussed later in this
+Georgia E. Myers, SSA Regulations              regulations that, although not a part of     preamble, we also revised the paragraph
+Officer, Office of Process and Innovation      the proposals in the NPRM, are               in response to public comments.
+Management, L2109 West Low Rise                necessary to reflect amendments to the
+Building, Social Security                      Act relating to determinations of               We have amended §§ 404.1574(a) and
+Administration, 6401 Security                  substantial gainful activity or the          416.974(a) to add an expanded
+Boulevard, Baltimore, Maryland 21235–          counting of trial work period months.        description of how we determine
+6401, (410) 965–3632 or TTY 1–800–             These additional amendments affect           whether work performed by an
+988–5906. For information about                § § 404.15771 and 416.971, discussed         employee is substantial gainful activity,
+eligibility or filing for benefits, call our   below, and § § 404.1584(d) and               what we mean by subsidized work, and
+national toll-free number, 1–800–772–          404.1592(b), discussed later in this         how we determine the value of a
+1213 or TTY 1–800–325–0778, or visit           preamble.                                    subsidy. The changes reflect the
+our Internal web site, SSAOnline, at                                                        interpretations in SSR 83–33, ‘‘Titles II
+www.SSA.gov.                                      In these final rules, we have made        and XVI: Determining Whether Work Is
+                                               changes to § § 404.1571 and 416.971 to       Substantial Gainful Activity—
+SUPPLEMENTARY INFORMATION: These               reflect the provisions in sections           Employees’’ (Social Security Rulings,
+regulations explain how we determine           223(d)(4) and 1614(a)(3)(E) of the Act       Cumulative Edition, 1983, p. 209).
+whether a person is entitled to a period       that were added by section 201 of Public
+of trial work under title II of the Act and    Law (Pub. L.) 103–296, the Social               These final rules also make changes to
+whether a person is engaging in                Security Independence and Program            §§ 404.1574(b)(2), (b)(3), (b)(4), and
+substantial gainful activity under titles      Improvements Act of 1994. Under              (b)(6) and §§ 416.974(b)(2), (b)(3), (b)(4),
+II and XVI of the Act. The term                sections 223(d)(4) and 1614(a)(3)(E) of      and (b)(6) to clarify how we evaluate
+‘‘substantial gainful activity’’ combines      the Act, the Commissioner of Social          earnings from work in sheltered
+two concepts, substantial work activity        Security (the Commissioner) is required      workshops. In paragraphs (b)(2), (b)(3),
+and gainful work activity. Substantial         to establish by regulations the criteria     and (b)(6) of these sections, we provide
+work activity means work activity that         for determining when services                thresholds that demonstrate earnings
+involves doing significant physical or         performed by an individual or earnings       that ordinarily show that a person has
+mental activities, even if the work is         derived from services demonstrate an         engaged in substantial gainful activity
+done on a part-time basis or with less         individual’s ability to engage in            (paragraph (b)(2)), that a person has not
+activities, pay, or responsibilities than      substantial gainful activity. In general,    engaged in substantial gainful activity
+in past work. Gainful work activity            these sections of the Act provide that an    (paragraph (b)(3)), or that are not high or
+means work activity done for pay or            individual whose services or earnings        low enough to show whether a person
+profit. Work activity is gainful if it is the  meet the criteria established by the         has engaged in substantial gainful
+kind of work that is usually performed         Commissioner shall be found to be not        activity. Our intent is, and always has
+for pay or profit, whether or not a profit     disabled. The provisions added to the        been, that paragraphs (b)(3) and (b)(6)
+is realized.                                   Act by Pub. L. 103–296 provide, in           apply only to workers who are not in
+                                               general, that the Commissioner shall         sheltered workshops. This is because we
+   We published a notice of proposed           make determinations of substantial           ordinarily consider that individuals in
+rulemaking (NPRM) in the Federal                                                            sheltered workshops are not engaging in
+Register on March 6, 1995 (60 FR                                                            substantial gainful activity when they
+12166). In the NPRM, we proposed to                                                         do not earn more than the threshold
+make revisions to a number of sections
+that address our rules for determining
+
+VerDate 11<MAY>2000 16:03 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00002 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm06 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42773
+
+amounts in paragraph (b)(2). In other       ground of earnings for individuals in         to that of unimpaired self-employed
+words, we do not provide a ‘‘middle         competitive employment.                       persons in the community who were in
+ground’’ category for workers in                                                          the same or a similar business as their
+sheltered workshops, as we do for other        We have also added new                     means of livelihood. However, the word
+workers under paragraph (b)(6), in          §§ 404.1574(d) and 416.974(d) and             ‘‘severe’’ in our regulations is a term of
+recognition of the special circumstances    revised § 404.1592(b) to provide that we      art under §§ 404.1520 and 416.920 and
+of sheltered employment. We believe         will not consider volunteer work done         other regulations throughout subpart P
+that the final rules now state this         under programs mentioned in the               of part 404 and subpart I of part 416,
+longstanding policy more clearly. The       Domestic Volunteer Service Act of 1973,       and it does not have the same meaning
+final rules also state more clearly our     42 U.S.C. 5044, or the Small Business         that we intended in §§ 404.1575(c)(2)
+policy of evaluating sheltered workshop     Act, 15 U.S.C. 637, in determining            and 416.975(c)(2). Therefore, we have
+earnings that exceed the amount             whether an individual has performed           revised the final rules to make our
+specified in paragraph (b)(2) in the same   substantial gainful activity or, for          intent clear by changing the phrase
+way we evaluate non-sheltered               individuals receiving benefits under          ‘‘severely impaired’’ to ‘‘seriously
+workshop earnings.                          title II of the Act, services in the trial    impaired.’’ (For similar reasons, we are
+                                            work period. This exclusion is currently      making the same changes in
+   As a result of these clarifications in   stated in SSR 84–24, ‘‘Titles II and XVI:     §§ 404.1574(b)(4) and 416.974(b)(4).)
+our final regulations, we are rescinding    Determination of Substantial Gainful
+Acquiescence Ruling (AR) 87–4(8),           Activity For Persons Working In Special          We added to §§ 404.1574, 404.1575,
+Iamarino v. Heckler (Social Security        Circumstances—Work Therapy                    416.974, and 416.975 an explanation,
+Rulings, Cumulative Edition, 1987, p.       Programs in Military Service—Work             now found in SSR 84–25, of how we
+136; 55 FR 28302, August 31, 1987). We      Activity in Certain Government-               evaluate brief periods of work activity to
+issued this acquiescence ruling in          Sponsored Programs’’ (Social Security         determine if they should be considered
+response to a decision of the U.S. Court    Rulings, Cumulative Edition, 1984, p.         ‘‘unsuccessful work attempts.’’ The
+of Appeals for the Eighth Circuit in        87), and as required by the laws cited        rules provide, consistent with SSR 84–
+Iamarino v. Heckler, 795 F.2d 59 (8th       above.                                        25, that, ordinarily, work an individual
+Cir. 1986). In the absence of regulations                                                 has done will not show the ability to do
+explicitly addressing the issue, the court     We have also added new §§ 404.1574a        substantial gainful activity if, after
+in Iamarino held that, because our          and 416.974a to explain how we average        working for a period of 6 months or less,
+regulations provided a middle ground        earnings to determine if a person has         the individual was forced by his or her
+for evaluating earnings from competitive    been performing substantial gainful           impairment to stop working or to reduce
+(i.e., non-workshop) employment             activity and the periods used for             the amount of work so that earnings
+between specified upper and lower           averaging. These amendments are based         from such work fall below the
+limits, we must also provide a middle       on SSR 83–35, ‘‘Titles II and XVI:            substantial gainful activity earnings
+ground for evaluating sheltered             Averaging of Earnings in Determining          level. The work must also satisfy certain
+workshop earnings and not presume           Whether Work Is Substantial Gainful           other conditions described in the
+that an individual has engaged in           Activity’’ (Social Security Rulings,          regulations. The final rules also provide
+substantial gainful activity when           Cumulative Edition, 1983, p. 237), and        that we will not consider work
+sheltered workshop earnings exceed the      do not represent a change in practice.        performed at the substantial gainful
+upper substantial gainful activity                                                        activity level for more than 6 months to
+threshold amount. The revisions in             We have revised § § 404.1575(a) and        be an unsuccessful work attempt
+these final rules make clear in our         416.975(a) to explain the order in which      regardless of why it ended or why
+regulations that, ordinarily, we will find  we will apply the three tests used to         earnings were reduced to below the
+any individual, whether in competitive      determine whether self-employed               substantial gainful activity earnings
+or sheltered work, to be engaging in        persons have engaged in substantial           level.
+substantial gainful activity when his or    gainful activity. We also expanded the
+her earnings exceed the threshold for       discussion in §§ 404.1575(c) and                 The criteria for an unsuccessful work
+such earnings set out in                    416.975(c) of what we mean by                 attempt differ depending on whether the
+§§ 404.1574(b)(2) and 416.974(b)(2). We     substantial income for purposes of            work effort is for a duration of 3 months
+clarify that the middle ground of           determining whether a self-employed           or less or for a duration of between 3
+earnings for individuals in competitive     person has engaged in substantial             and 6 months. These amendments
+employment (i.e., the middle ground         gainful activity. These revisions are         reflect the interpretation in SSR 84–25.
+where we do not consider the earnings       based on SSR 83–34, ‘‘Titles II and XVI:
+to be high or low enough to show            Determining Whether Work Is                      In addition, we have added to
+whether a person has engaged in             Substantial Gainful Activity—Self-            § 404.1584(d) the substantial gainful
+substantial gainful activity) lies below    Employed Persons’’ (Social Security           activity earnings guidelines for
+the upper threshold for substantial         Rulings, Cumulative Edition, 1983, p.         evaluating the work activity of blind
+gainful activity in paragraph (b)(2) and    222), and do not represent a change in        persons under title II for the years 1983
+above a lower threshold in paragraph        practice.                                     through 2000. We also explain,
+(b)(3). Finally, we clarify that for                                                      consistent with section 223(d)(4)(A) of
+individuals who are employed in                We also made a nonsubstantive,             the Act, that effective with 1996, the
+sheltered workshops and whose               technical correction to final                 substantial gainful activity amount for
+earnings do not exceed the upper            §§ 404.1575(c)(2) and 416.975(c)(2) for       blind individuals is no longer linked to
+threshold above which we ordinarily         consistency of language within our            the monthly exempt amount under the
+find substantial gainful activity for all   regulations. Both the former rules and        retirement earnings test for individuals
+individuals, we will ordinarily find that   the NPRM stated that we would                 aged 65 to 69. Beginning 1996, increases
+there is not substantial gainful activity   consider self-employment income to be         in the substantial gainful activity level
+even when their earnings fall in the        ‘‘substantial’’ if it averaged less than the  for blind individuals depend only on
+range that would constitute the middle      amounts described in §§ 404.1574(b)(2)        the increases in the national average
+                                            and 416.974(b)(2) but was either              wage index. We are including this
+                                            comparable to what the individual             provision in § 404.1584(d) of the final
+                                            earned before he or she became                rules to reflect this statutory change,
+                                            ‘‘severely impaired’’ or was comparable
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00003 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42774  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+which resulted from amendments to the        requirement of section 223(d)(1)(A) of        months after the onset of the person’s
+Act made by section 102 of Pub. L. 104–      the Act and clarify the issues raised by      inability to work and the evidence
+121. We explain our reasons for              the courts in McDonald v. Bowen, 800          shows that the impairment currently
+publishing final rules to reflect this       F.2d 153 (7th Cir. 1986), amended on          prevents substantial gainful activity. We
+statutory change without notice-and-         rehearing, 818 F.2d 559 (7th Cir. 1987),      believe that Congress provided that
+comment rulemaking at the end of this        Walker v. Secretary of Health and             disability can be found based on an
+preamble.                                    Human Services, 943 F.2d 1257 (10th           impairment which ‘‘can be expected to
+                                             Cir. 1991), and Newton v. Chater, 92          last’’ 12 months simply to provide a
+   We have also included in these final      F.3d 688 (8th Cir. 1996). We have issued      means for us to adjudicate disability
+rules an amendment to § 404.1592(b) to       acquiescence rulings for each of these        claims without having to wait 12
+reflect an amendment to the definition       cases, and do not currently plan to           months from onset, rather than to
+of ‘‘services’’ in section 222(c)(2) of the  rescind the acquiescence rulings. (See        permit claims to be allowed in the face
+Act which applies in determining when        AR 88–3(7), McDonald v. Bowen, Social         of specific evidence that the claimant’s
+the trial work period has ended. Section     Security Rulings, Cumulative Edition,         impairment did not, in fact, prevent him
+222(c)(2) of the Act, as amended,            1988, p. 115, and 55 FR 28302, March          or her from engaging in substantial
+provides that, for purposes of the trial     31, 1988; AR 92–6(10), Walker v.              gainful activity for 12 continuous
+work period, ‘‘the term ‘services’ means     Secretary of Health and Human                 months.
+activity (whether legal or illegal) which    Services, Social Security Rulings,
+is performed for remuneration or gain or     Cumulative Edition, 1992, p. 91, and 57          Because section 222(c) provides that a
+is determined by the Commissioner of         FR 43007, September 17, 1992; and AR          trial work period shall begin with the
+Social Security to be of a type normally     98–1(8), Newton v. Chater, 63 FR 9037,        month in which a person becomes
+performed for remuneration or gain.’’        February 23, 1998.)                           entitled to title II disability benefits, a
+The parenthetical phrase ‘‘(whether                                                        claimant who does not become entitled
+legal or illegal)’’ was added to this           The trial work period is a period          to disability benefits cannot receive a
+provision of the Act by section 201 of       during which a person who becomes             trial work period. Under our
+Pub. L. 103–296. In these final rules, we    entitled to title II disability benefits may  interpretation of the duration
+are adding the same parenthetical            test his or her ability to work and still     requirement, a person cannot be found
+phrase to the definition of ‘‘services’’ in  be considered disabled. Under section         to be under a disability if he or she
+§ 404.1592(b). We explain our reasons        222(c)(3) of the Act, the trial work          performs work demonstrating the ability
+for publishing final rules to reflect this   period begins with the month an               to perform substantial gainful activity
+change without notice-and-comment            individual ‘‘becomes entitled’’ to title II   within 12 months after onset and before
+rulemaking at the end of this preamble.      disability benefits and generally ends        we have issued any notice of
+                                             after 9 months of work within a 60-           determination or decision finding
+   We also have revised the fourth           consecutive-month period whether or           disability. Because the person cannot
+sentence of § 404.1592(b) to explain in      not the 9 months are consecutive.             become entitled to disability benefits in
+clearer and more precise terms the type      Section 222(c) provides that any              this situation, there can be no trial work
+of activity that generally does not          services rendered during the trial work       period. On the other hand, if a claimant
+constitute ‘‘services’’ as that term is      period may not be considered in               returns to work before we have made a
+defined in section 222(c)(2) of the Act,     determining whether ‘‘disability has          determination or decision finding
+quoted above. This revision clarifies        ceased’’ during that period.                  disability, but more than 12 months
+that we generally do not consider work                                                     from onset, the duration requirement
+that is done without remuneration to be         In order to be found disabled under        may be satisfied (unless it is not
+‘‘services’’ for purposes of determining     section 223(d)(1)(A), an individual must      satisfied for some other reason, such as
+when the trial work period has ended if      be unable to engage in any substantial        medical improvement less than 12
+it is done merely as therapy or training     gainful activity by reason of a medically     months after onset), the claimant may
+or if it is work usually done in a daily     determinable physical or mental               become entitled to benefits, and the
+routine around the house or in self-care.    impairment which can be expected to           work may be protected by the trial work
+We have also added a new sentence at         result in death or ‘‘which has lasted or      period even though the work began
+the end of § 404.1592(b) to state that we    can be expected to last for a continuous      prior to a finding of disability.
+do not consider work as a volunteer in       period of not less than 12 months.’’
+the Federal programs described in            Under our longstanding interpretation            We have made several changes in
+§ 404.1574(d) in determining whether         of this provision, as reflected in SSR 82–    § 404.1592(d)(1) and (2), which describe
+an individual has performed services in      52, the duration requirement to               situations in which an individual is and
+the trial work period.                       establish disability will not be met and      is not entitled to a trial work period. We
+                                             a disability claim will be denied based       revised paragraph (d)(1) from the
+   We have revised § 404.1592(d) to          on evidence that, within 12 months after      proposed rule by replacing ‘‘receiving’’
+explain, consistent with SSR 82–52,          the onset of an impairment which              with ‘‘entitled to.’’ We made this change
+‘‘Titles II and XVI: Duration of             prevented substantial gainful activity        in order to clarify, consistent with our
+Impairment’’ (Social Security Rulings,       and before we have issued any notice of       discussion in the preambles to both the
+Cumulative Edition, 1982, p. 106), that      determination or decision finding             proposed rules and these final rules,
+a claimant is not entitled to a trial work   disability, the impairment no longer          that a person may be awarded a trial
+period when he or she performs work          prevents substantial gainful activity.        work period as part of the adjudication
+demonstrating the ability to engage in       Under these circumstances, it is not          of an initial application when he or she
+substantial gainful activity within 12       necessary to determine whether earlier        returns to work more than 12 months
+months after the onset of an impairment      in the 12-month period the impairment         from onset, but prior to the adjudication
+that otherwise could be the basis for a      was expected to prevent the                   and prior to the receipt of any disability
+finding of disability and before the date    performance of SGA for 12 months. We          benefits. We also made nonsubstantive
+of any notice of determination or            determine whether an impairment is            changes to paragraphs (d)(1) and
+decision making a finding of disability.     expected to prevent substantial gainful       (d)(2)(i) for greater consistency between
+These revisions, which do not represent      activity for 12 months only when the          these two paragraphs and made other
+a change in practice, are based on our       claim is being adjudicated within 12          slight technical changes to paragraph
+interpretation of the duration
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00004 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42775
+
+(d)(2) from the proposed rule for            an application for disability benefits.      ‘‘disabling impairment’’ as defined in
+additional clarity. None of these            We revised final § 404.1592(d)(2)(iv)        § 404.1511 of our regulations. This
+revisions is intended as a change in         from the language we proposed in the         statutory change is reflected in
+practice. As in the NPRM, we deleted         NPRM to avoid a possible interpretation      amendments to § § 404.321, 404.325 and
+the rule in prior paragraph (d)(2)(ii)       we had not intended that might have          404.1592a.
+which stated that an individual is not       precluded trial work periods for some
+entitled to a trial work period if he or     individuals who should be entitled to           Pub. L. 99–643, the Employment
+she is receiving disability insurance        trial work periods. We explain our           Opportunities for Disabled Americans
+benefits in a second period of disability    reasons for this revision in more detail     Act, required a number of changes in
+for which a waiting period was not           in the public comments section of this       the way we handle supplemental
+required. This deletion reflects section     preamble.                                    security income (SSI) cases under title
+5112 of Pub. L. 101–508.                                                                  XVI when a disabled person eligible for
+                                                We revised § 404.1592(e) to reflect a     SSI benefits works. Certain SSI
+   As in the NPRM, we added new              provision of section 5112 of Pub. L.         recipients who work despite otherwise
+paragraphs (d)(2)(ii), and (d)(2)(iii), and  101–508, the Omnibus Budget                  disabling impairments and begin to earn
+(d)(2)(iv) to § 404.1592 specifying          Reconciliation Act of 1990, which            amounts that would ordinarily represent
+additional circumstances in which an         provides that one of the conditions          substantial gainful activity will not have
+individual will not be entitled to a trial   under which the trial work period will       their earnings considered when
+work period. Final paragraph (d)(2)(ii)      end is the 9th month within a period of      determining whether they continue to
+provides that an individual who              60 consecutive months if that 9th month      be disabled. Pursuant to section 4 of
+performs work demonstrating the ability      is after December 1991. Prior to this        Pub. L. 99–643, the trial work period
+to engage in substantial gainful activity    statutory change, the trial work period      and the reentitlement period no longer
+during any required waiting period will      would end after 9 service months no          apply in SSI disability cases.
+not be entitled to a trial work period.      matter when they were completed.             Accordingly, we have deleted
+Paragraph (d)(2)(iii) incorporates the                                                    § § 416.973(f), 416.976(f)(2), 416.992,
+provision, discussed above in this              We amended § 404.1592a to clarify         416.992a, and 416.994(b)(3)(v), (b)(5)(i),
+preamble, that explains that an              that the earnings averaging and              the first paragraph of (b)(6)(i),
+individual who performs work                 unsuccessful work attempt criteria do        (b)(6)(i)(D), and (b)(6)(ii). We have
+demonstrating the ability to engage in       not apply in determining whether to pay      revised § § 416.901(m), 416.991, and
+substantial gainful activity within 12       benefits for any month during or after       416.1331(a) by removing references to
+months after onset and before the date       the reentitlement period after disability    the trial work period and reentitlement
+of any notice of determination or            has been determined to have ceased           period. (The rules for continuing
+decision finding disability will also not    because of the performance of                disability in § 416.994a for children
+be entitled to a trial work period. Both     substantial gainful activity. Those          under SSI did not need modification
+of these provisions were in the NPRM,        criteria do apply during and after the       because we took these changes in the
+although we did make several minor           reentitlement period in determining          law into account when we first
+clarifications to the language we            whether disability has ceased due to the     promulgated that regulation. See 56 FR
+proposed for paragraph (d)(2)(iii): We       performance of substantial gainful           5534 (February 11, 1991).) A substantial
+changed the word ‘‘which’’ to ‘‘that’’       activity.                                    gainful activity test is still necessary to
+and we expanded the word ‘‘decision’’                                                     establish an individual’s initial
+to the phrase ‘‘determination or                Based on several public comments,         eligibility for SSI benefits based on
+decision.’’ The latter was a technical       we revised the proposed rules to clarify     disability.
+change made for consistency with             our intent, especially in the provisions
+§ 404.901, which provides that the           of § 404.1592a(a). These amendments             Finally, we made a number of minor
+words ‘‘determination’’ and ‘‘decision’’     reflect and clarify our interpretations in   changes to conform the text of the
+are terms of art in our program              SSR 83–35 and SSR 84–25. They also           regulations in part 404 and part 416, for
+applicable to initial and reconsideration    clarify the averaging methodology issue      consistency, technical accuracy, and to
+determinations and administrative law        addressed in Conley v. Bowen, 859 F.2d       comply with Executive Order 12866 and
+judge or Appeals Council decisions,          261 (2d Cir. 1988). As a result of these     the President’s memorandum dated June
+respectively. The revision merely            clarifications to our regulations, we are    1, 1998, which requires us to write all
+rectifies an unintentional omission in       rescinding the Conley v. Bowen               rules in ‘‘plain language.’’ None of these
+the NPRM and will make clear that            Acquiescence Ruling, AR 93–2(2). Other       changes is intended to be a change in
+these rules apply at all levels of the       final rules also provide cross-references    practice.
+administrative review process. Finally,      to § 404.1592a in the explanations of the
+we made a revision to clarify that a         averaging and unsuccessful work              Public Comments on Notice of Proposed
+person may be entitled to a trial work       attempt policies contained in                Rulemaking
+period if he or she returns to substantial   § § 404.1574(c), 404.1574a, and
+gainful activity within 12 months of         404.1575(d).                                    When we published the NPRM in the
+onset and after receiving a notice of a                                                   Federal Register on March 6, 1995 (60
+determination or decision finding that          These regulations also reflect section    FR 12166), we provided interested
+he or she is disabled even in the            9010 of Pub. L. 100–203, the Omnibus         parties 60 days to submit comments. We
+relatively unusual situation in which        Budget Reconciliation Act of 1987,           received comments from 10 individuals
+that notice precedes the notice of a         which extended, as of January 1, 1988,       and organizations, including attorneys
+determination or decision awarding him       the reentitlement period from 15             and organizations representing the
+or her title II disability benefits.         months to 36 months. During this             interests of individuals with mental
+                                             period, the title II disability benefits of  impairments. We considered carefully
+   Final § 404.1592(d)(2)(iv) clarifies our  an individual whose benefits are             the comments we received on the
+rules, consistent with current               stopped because of substantial gainful       proposed rules in publishing these final
+§ 404.1592(e), that an individual cannot     activity may be reinstated without the       regulations.
+be entitled to a trial work period for any   need to file a new application if his or
+month prior to the month he or she files     her work falls below the substantial            As noted at the beginning of this
+                                             gainful activity level as long as the        preamble, we decided not to include in
+                                             individual continues to have a               these final regulations the changes
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00005 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42776  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+reflected in proposed § § 404.1574(a)(3)-  rules. Therefore, as we made further        dates in the past, thereby showing only
+(6) and 416.974(a)(3)-(6). We have         changes in the final rules in response to   ‘‘retroactive’’ cessations well in the past.
+retained, without change, existing         the comments, we were mindful of these
+§ § 404.1574(a)(3) and 416.974(a)(3). For  overall comments and tried to avoid            Response: We adopted the comment.
+these reasons, we have not responded to    giving the impression that the first        We changed the dates in § 404.325 and
+the comments we received on the            commenter received.                         throughout the final rules to be more
+proposed revisions that we have                                                        current. However, it should be
+withdrawn.                                 Specific Comments                           understood that with the passage of
+                                                                                       time, these dates will also fall farther
+   Also, there were a few comments that    Section 404.321 When a Period of            and farther in the past.
+were outside the scope of the NPRM and     Disability Begins and Ends
+these final rules. Some commenters                                                        Comment: The same commenter, and
+provided recommendations for revising         Comment: One commenter                   several others, suggested that we revise
+our overall work incentive provisions or   recommended that we revise                  § 404.325 to eliminate the possibility of
+changing the substantial gainful activity  § 404.321(c)(3) more substantively than     retroactive cessations of disability and
+amounts or revising a number of other      in the proposed rules, in which we          disability benefit payments under title II
+specific provisions in our rules that      proposed only to update the language to     based on substantial gainful activity.
+were not the subject of the proposed       delete the reference to the ‘‘15-month’’    One suggested that we not cease the
+rules. Although we did not summarize       reentitlement period. The commenter         payment of benefits under these
+or address these comments below            suggested that the regulation should be     circumstances earlier than the month
+because they are outside the scope of      revised to clarify that payment status      we send the beneficiary a notice stating
+these final rules, we have forwarded       may end during the reentitlement            that cash benefits are being stopped.
+them to the appropriate SSA                period, but that a period of disability     Another suggested that we not
+components for consideration.              cannot end due to substantial gainful       retroactively cease disability or cash
+                                           activity before the end of the              benefits based on work and earnings at
+   Also, in a separate regulatory action,  reentitlement period, and to make           the substantial gainful activity level
+we published final rules in the Federal    § 404.321 consistent with proposed          unless the person fails to report work
+Register on April 15, 1999 (64 FR 18566    § 404.325.                                  and earnings to us timely.
+and 64 FR 22903 April 28, 1999) to
+increase from $500 to $700 the average        Response: We did not adopt the              Response: We did not adopt the
+monthly earnings guidelines used to        comment. The ‘‘clarification’’ suggested    comments. Section 404.325 does not
+determine whether work done by a non-      by the commenter would have changed         deal specifically with the determination
+blind individual is substantial gainful    the meaning of the regulation and our       as to when a title II beneficiary’s
+activity. The change was effective July    intent, which is to provide that a          disability ceases due to the performance
+1, 1999.                                   ‘‘period of disability’’ under section 216  of substantial gainful activity. That
+                                           of the Act may end during the               determination is made under the
+   The rest of the comments, which we      reentitlement period, as required by the    provisions of § § 404.1594(d)(5), (g)(3)
+received on the NPRM and our               Act. Section 216(i)(2)(D) of the Act        and (g)(4) of the regulations. As
+responses to the comments, are set forth   provides that a period of disability will   pertinent here, these provisions of the
+below. Although we condensed,              end with the close of whichever of          regulations, which are based on section
+summarized, or paraphrased the             several months is the earliest. One such    223(d)(4) and (f) of the Act, provide that
+comments, we believe we have               month listed in section 216(i)(2)(D) is     we will find that an individual’s
+expressed the views accurately and have    ‘‘the month preceding * * * the first       disability ceased in the month in which
+responded to all of the relevant issues    month for which no benefit is payable       the individual demonstrated the ability
+raised.                                    by reason of section 223(e), where no       to engage in substantial gainful activity
+                                           benefit is payable for any of the           following completion of a trial work
+General Comments                           succeeding months during the 36-month       period, or if the individual is not
+                                           period referred to in such section [i.e.,   entitled to a trial work period, in the
+   Comment: One commenter was              the reentitlement period].’’ Thus,          month in which the individual does
+concerned about what appeared to be a      § 404.321(c)(3) reflects section            substantial gainful activity.
+‘‘negative tone’’ and ‘‘clear efforts to   216(I)(2)(D) of the Act. Section 404.325
+’tighten up’ the benefits of work          reflects the provision of section              Section 404.325 reflects the
+incentives’’ throughout the proposed       223(a)(1) of the Act, which defines the     provisions of section 223(a)(1) of the
+rules. Another commenter, who              ‘‘termination month’’ for purposes of       Act, as well as the parallel provision of
+identified herself as a disability         determining when entitlement to             section 202(d), (e) and (f) of the Act,
+beneficiary who has been attempting to     disability insurance benefits terminates.   which define the ‘‘termination month’’
+work, commented that the proposed          In some cases, entitlement to a period of   for the purpose of prescribing when
+rules reflected, though perhaps not        disability and entitlement to disability    entitlement to title II benefits based on
+sufficiently, her experiences, and         insurance benefits may end                  disability ends. In the absence of the
+praised the proposal to recognize some     simultaneously with the month               occurrence of another event specified in
+factors that ‘‘truly detract from’’        preceding the termination month.            the Act that requires the termination of
+substantial gainful activity.              However, under the Act, entitlement to      entitlement to benefits, the
+                                           a period of disability will end with an     aforementioned provisions of the Act
+   Response: It was certainly not our      earlier month if the above-quoted           provide that, subject to section 223(e) of
+intent to give the impression that we      provision of section 216(I)(2)(D) applies.  the Act (discussed below), entitlement
+discourage the attempts of our                                                         to title II benefits based on disability
+beneficiaries who want to work to gain     Section 404.325 The Termination             shall end with the month preceding the
+employment or that we were ‘‘tightening    Month                                       termination month. (See § § 404.316,
+up’’ on beneficiaries’’ efforts to try to                                              404.337 and 404.352.) Consistent with
+work. To the contrary, we are                 Comment: One commenter noted that        the provisions of 202(d), (e) and (f) and
+supporting on several fronts the efforts   the examples in the proposed rules used     223(a)(1) of the Act, § 404.325 provides
+of our beneficiaries who want to work                                                  that for an individual who completes a
+to gain employment. Our only intent                                                    trial work period and continues to have
+was to update and clarify our existing
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00006 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42777
+
+a disabling impairment, the termination      showing the ability to perform              Sections 404.1573(c) and 416.973(c) If
+month will be the third month following      substantial gainful activity.               Your Work is Done Under Special
+the earliest month in which the                                                          Conditions
+individual performs substantial gainful         However, in considering the
+activity or is determined able to perform    comment, we believe that the example           Comment: Two commenters, while
+substantial gainful activity, but that in    may not have been as clear as it could      agreeing with the policy in the proposed
+no event will the termination month          have been. Our policy, set out in final     rules, suggested that the rules could
+under these circumstances be earlier         § 404.1592a(a) and explained in more        discourage some individuals from trying
+than the first month after the end of the    detail below in our responses to            to work. The commenters suggested a
+reentitlement period described in            comments about that section, is that        reorganization of the paragraph and
+§ 404.1592a. Because entitlement to          when a person with a ‘‘disabling            additional language to be more positive
+disability benefits ends with the month      impairment’’ works, we will first           and send a more balanced message
+preceding the termination month, we          determine whether the work activity         about work.
+cannot pay benefits for months after the     shows that his or her disability has
+month preceding the termination              ceased; i.e., by the individual’s actual       Response: We revised our regulations
+month. This is so even if the                engagement in substantial gainful           based on these comments, although we
+termination month occurred in the past.      activity or by demonstrating the            did not use all of the specific language
+In addition, section 223(e)(1) states: ‘‘No  individual’s ability to engage in           proposed by the commenters.
+benefit shall be payable * * * for any       substantial gainful activity. When we
+month, after the third month, in which       consider whether the individual’s              Comment: Several commenters
+[the individual] engages in substantial      disability has ceased because of work,      suggested that we expand the list of
+gainful activity during the 36-month         we do apply our rules regarding             examples of special conditions in
+period following the end of (the             unsuccessful work attempts and              § § 404.1573(c) and 416.973(c). The
+individual’s) trial work period * * *.’’     averaging of earnings when they are         suggestions included special assistance
+Because the law specifies the month(s)       relevant to the determination. This does    from a job coach, counselor, or case
+for which benefits are not payable           not mean that we will wait 6 months to      manager in performing the work, and
+during the reentitlement period (i. e.,      see whether an individual who has           when the work is primarily
+any month, after the third month, in         returned to work will be successful; we     rehabilitative, the individual obtained
+which the beneficiary engages in             may decide that the earnings in a single    the job non-competitively, or the
+substantial gainful activity), an            month show that the individual is           duration of work was limited because of
+individual cannot be paid benefits for       engaging in substantial gainful activity    therapeutic considerations. However,
+any such nonpayment month(s), even if        or has the ability to do so. However, if    one commenter viewed the list of
+it occurred in the past.                     we have information showing that work       examples as exhaustive.
+                                             was an unsuccessful work attempt, we
+   Comment: One commenter did not            will not decide that the individual’s          Response: We did not add examples,
+understand the language of the first         disability has ceased because of the        but we revised the text of the
+example in proposed § 404.325 and            work activity.                              regulations in response to these
+suggested revisions to clarify it.                                                       comments to make clear that the list
+                                                Once we have determined that an          comprises only examples and ‘‘is not
+   Response: We adopted the comment.         individual’s disability has ceased          limited to’’ those examples. We decided
+However, the language recommended by         because of work activity, we believe that   not to add to the examples because they
+the commenter was inaccurate, so we          the Act requires us to consider months      are fairly general and the more specific
+did not use the exact language the           of work in isolation for purposes of        we make our examples, the more likely
+commenter suggested.                         establishing the termination month; that    our examples would be misinterpreted
+                                             is, we consider only what the earnings      as being exhaustive in nature.
+   Comment: One commenter                    show for the relevant month in which
+recommended that we delete or clarify        the individual works without regard to         Comment: One commenter stated that
+the proposed second example under            whether the work could have been an         there should be a better, clearer
+§ 404.325. The commenter suggested           unsuccessful work attempt and without       distinction made between the examples
+that we should not make a finding of         averaging the earnings with earnings        of special conditions in proposed
+substantial gainful activity unless the      from other months. Therefore, we are        § § 404.1573(c) and 416.973(c) and
+work activity is sustained for 6 months;     not revising the rules as the commenter     indicators of possible subsidy in
+that is, that we should always consider      suggested.                                  proposed § § 404.1574(a) and 416.974(a),
+whether the activity is an unsuccessful                                                  or that we should indicate how they are
+work attempt and average earnings, and          The second example in proposed and       related, if they are related.
+never consider a month of work in            prior § 404.325 presumed that we had
+isolation.                                   already determined that the individual         Response: As noted above, we
+                                             engaged in substantial gainful activity in  decided to withdraw the proposed
+   Response: We clarified the example in     the month in which he or she returned       changes reflected in proposed
+response to the comment, but we did          to work and that disability had ceased.     § § 404.1574(a)(3)–(6) and 416.974(a)(3)–
+not adopt the other suggestions to           However, based on the comment, we           (6), regarding subsidies. We also
+clarify the rule in the comment. The         realize that it could have been difficult   clarified the provisions of
+example in the proposed rule only            to understand, and we have clarified it     § § 404.1573(c) and 416.973(c) in these
+updated the example in the prior rule to     accordingly. We have also clarified the     final rules.
+reflect the change in duration of the        rules in final § 404.1592a(a) in response
+reentitlement period from 15 months to       to this comment and others, as well as      Sections 404.1574 and 416.974
+36 months and to use more recent dates.      other provisions throughout these final     Evaluation Guides if You Are an
+The example was correct in that it           rules, to make clear when we will apply     Employee
+provided that, under the Act, the            the provisions regarding unsuccessful
+termination month must be the third          work attempts and averaging of                 Comment: One commenter suggested
+month after the earliest month that we       earnings.                                   that in the first sentence under proposed
+determine an individual performs                                                         § § 404.1574(a)(1) and 416.974(a)(1) we
+substantial gainful activity or does work                                                should delete the clause ‘‘our primary
+                                                                                         consideration is the earnings that are
+                                                                                         derived from the work activity’’ and that
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00007 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42778  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+we should refocus our consideration           § 404.1592a(a) to explain when we will      included as a situation that may result
+away from earnings and onto the work          and will not consider the unsuccessful      in an unsuccessful work attempt. If an
+activity itself as the clearer indicator of   work attempt concept and the                individual’s inappropriate behavior at
+whether substantial gainful activity, or      provisions for averaging earnings during    work causes him or her to lose the job
+the ability to perform substantial gainful    and after a reentitlement period. We did    in 6 months or less, we may consider
+activity, exists.                             not make similar revisions to               this an unsuccessful work attempt. If the
+                                              §§ 416.974(c) and 416.975(d) because        employer tolerates the behavior or
+   Response: We did not delete the            we apply the rules in §§ 416.974 and        accommodates the individual by
+language, but we clarified our intent in      416.975 only in determining whether an      providing special circumstances or work
+response to the comment. The final            individual is initially eligible for SSI.   conditions, we would evaluate the value
+rules now provide that, generally, we         However, we did add sentences to            of the services and earnings to
+will first look at the individual’s           §§ 404.1574(a), 404.1575(a), 416.974(a),    determine whether the services are
+earnings, but we will further evaluate        and 416.975(a) to state expressly that all  substantial gainful activity.
+the individual’s work activity, if            of the provisions of these sections
+appropriate. The final rules clarify our      (including the provisions on                Sections 404.1574a and 416.974a
+longstanding interpretation that              unsuccessful work attempts) apply at        When and How we Will Average Your
+substantial gainful activity is shown         the time of the initial determination and   Earnings
+primarily by earnings from work,              throughout any appeals in connection
+irrespective of the severity of an            with the application.                          Comment: One commenter suggested
+individual’s impairment. However,                                                         that we should average earnings
+these rules also recognize that there are        Comment: Two commenters suggested        whenever we decide whether an
+some circumstances in which we should         that the existing limit on a period of      individual is doing substantial gainful
+not count all of an individual’s earnings.    substantial gainful activity that may be    activity, including during and after the
+For this reason, a new second sentence        considered an unsuccessful work             36-month reentitlement period. Another
+in paragraph (a)(1) of the final rules        attempt (i.e., 6 months or less) is too     commenter stated that the proposed
+provides that we will use an                  short. They suggested that the number       language for § 404.1574a was unclear
+individual’s earnings to determine            of months be increased to at least 9        with respect to whether averaging
+whether there is substantial gainful          months to be consistent with the 9-         applies when deciding whether an
+activity unless we have information           month trial work period.                    individual’s cash benefits should be
+from the individual, his or her                                                           terminated during and after the
+employer, or others that shows that we           Response: We did not adopt the           reentitlement period.
+should not count all of the earnings.         comments. The final rules reflect our
+                                              longstanding interpretation in SSR 84–         Response: We did not adopt the first
+   Comment: One commenter thought             25, and our experience which has been       comment. However, we clarified the
+that we should not determine that work        that 6 months is a sufficient time period   rules in § 404.1592a in response to both
+is at the substantial gainful activity level  to determine whether a work attempt         comments to make clear when we will
+until and unless a person earns over the      will be unsuccessful. We do not believe     average earnings during and after a
+substantial gainful level for a period of     that our interpretation on unsuccessful     reentitlement period. In addition, in
+at least 6 consecutive months.                work attempts is analogous to the 9-        response to other comments, in
+                                              month trial work period that is provided    § 404.1574a we updated the example
+   Response: We did not adopt the             under a specific provision of the Act.      and added a second example to better
+comment. It is reasonable to expect that      For example, the ‘‘6-months or less’’ for   show when we will average earnings
+in many instances an individual will          the unsuccessful work attempt refers to     during and after a reentitlement period.
+demonstrate the ability to work at the        a consecutive period of months. The         We will apply the rules on averaging
+substantial gainful activity level in         trial work period does not require work     earnings when we make an initial
+fewer than 6 months.                          to be in 9 consecutive months.              determination on an application for title
+                                                                                          II disability or title XVI blindness or
+Sections 404.1574(c), 404.1575(d),               Comment: One commenter requested         disability benefits and throughout any
+416.974(c), and 416.975(d) The                that we include inappropriate work          appeal the individual may request.
+Unsuccessful Work Attempt                     behavior as a basis for an unsuccessful
+                                              work attempt in §§ 404.1574(c)(4),             As we explain and clarify in the
+   Comment: Two commenters thought            404.1575(d)(4), 416.974(c)(4), and          examples in §§ 404.1574(a) and
+that it was not clear whether we would        416.975(d)(4). The commenter noted          404.1592a, we will apply the rules on
+consider if work was an unsuccessful          that although a person’s work product       averaging earnings when we evaluate
+work attempt at the time of an initial        or services may be acceptable to an         the work activity of a title II beneficiary
+application. One commenter noted that         employer or in a business, the behavior     to determine if his or her disability has
+it was unclear whether we would               may be so inappropriate that the            ceased during or after the reentitlement
+consider these rules at each point in the     individual may lose his or her job or       period due to the performance of
+appeals process if the claimant began to      business.                                   substantial gainful activity. We will not
+work after he or she filed an application                                                 average earnings after the first month
+but before he or she received a                  Response: We decided not to add this     that we determine an individual
+determination or decision on his or her       example because we believe that the         performed substantial gainful activity
+appeal.                                       examples given in our rules are general     during or after the reentitlement period.
+                                              enough to cover a multitude of              Thus, as we explain in §§ 404.1574a(d)
+   Response: We adopted the comments.         situations, including inappropriate work    and 404.1592a, we will not average a
+We revised §§ 404.1574(c) and                 behavior due to an impairment. Work         title II beneficiary’s earnings in
+404.1575(d) to clarify that we will apply     may be considered unsatisfactory for a      determining whether benefits should be
+the unsuccessful work attempt concept         number of reasons; one such reason is       paid for any month(s) during or after the
+when we make an initial determination         that a person exhibits inappropriate        reentitlement period that occurs after
+on an application for title II disability     behavior with work peers, supervisors       the month that we determined that
+benefits and throughout any appeal the        or the public to such a degree that it is   disability ceased because of the
+individual may request and to provide         harmful to the business. Unsatisfactory
+a cross-reference to the provisions of        work due to an impairment already is
+§ 404.1592a(a). We have revised
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00008 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42779
+
+performance of substantial gainful          engage in substantial gainful activity.’’    purposes if the activity ‘‘is performed
+activity.                                   Our regulations which provide for            for remuneration or gain or is
+                                            deducting impairment-related work            determined by the Commissioner of
+   Comment: One commenter stated that       expenses in determining whether an           Social Security to be of a type normally
+the example of averaging did not show       individual’s earnings show that he or        performed for remuneration or gain’’
+when earnings could be averaged and         she has engaged in substantial gainful       (emphasis added). Consistent with this
+asked that such an example be included.     activity are based on provisions of these    provision of the Act, our longstanding
+                                            same sections of the Act which               interpretation has been that when an
+   Response: We added a second              specifically require that impairment-        individual receives pay or profit in work
+example which illustrates completion of     related work expenses be excluded in         that is done as therapy or training, we
+the 9-month trial work period in a          determining whether an individual is         count that work as ‘‘services’’ for
+period of 10 consecutive months, when       able to engage in substantial gainful        purposes of counting months of a trial
+we will average earnings, and when it       activity by reason of his or her earnings.   work period. Conversely, we generally
+is not appropriate for us to average                                                     do not consider activity that is not
+earnings.                                      By contrast, the term ‘‘services’’ for    performed for pay or profit, and that is
+                                            purposes of counting trial work period       done merely as therapy or training (or
+   Comment: One commenter believed          months is specifically defined by            is the kind of activity usually done in
+that proposed § 416.974a, for averaging     statute. Section 222(c)(2) of the Act        a daily routine around the house or in
+earnings when determining whether an        provides that, for purposes of the trial     self-care), as ‘‘services’’ for purposes of
+individual is eligible for SSI disability   work period, ‘‘the term ‘services’ means     counting trial work period months. The
+benefits, was inconsistent with section     activity (whether legal or illegal) which    purpose of the revision in these final
+1619(a) of the Act.                         is performed for remuneration or gain or     rules is to clarify this intent.
+                                            is determined by the Commissioner of
+   Response: There is no inconsistency.     Social Security to be of a type normally        Comment: One commenter stated that
+Section 1619 of the Act applies to          performed for remuneration or gain.’’        work activity performed in sheltered
+individuals whom we find eligible           Under this definition, activity which is     workshops or other similar
+based on disability to receive benefits     performed for remuneration or gain           environments is ‘‘pre-vocational and/or
+for at least 1 month and who begin work     (e.g., wages, pay or profit) constitutes     training’’ in nature and should not be
+at the substantial gainful activity level   ‘‘services’’ for purposes of counting trial  considered ‘‘services’’ in determining
+in a subsequent month. We average           work period months whether or not an         trial work period months. Other
+earnings only to determine whether an       individual’s earnings are subsidized or      commenters thought that § 404.1592(b)
+individual is doing substantial gainful     the individual incurs impairment-            should be revised to exclude any
+activity at the time he or she applies for  related work expenses. Consequently,         activity that is ‘‘transitional
+SSI benefits to determine if the            consistent with the definition of            employment’’ from being considered
+individual is eligible for SSI benefits.    ‘‘services’’ in section 222(c)(2) of the     ‘‘services’’ for purposes of counting trial
+Once an individual is receiving SSI         Act, we do not consider subsidies or         work period months.
+benefits, we do not consider whether he     impairment-related work expenses
+or she is engaging in substantial gainful   when we determine whether an                    Response: We did not adopt the
+activity to determine whether he or she     individual has performed ‘‘services’’ for    comments. Whether activity performed
+continues to be eligible for benefits,      purposes of counting trial work period       by an individual constitutes ‘‘services’’
+consistent with the provisions of section   months.                                      for purposes of the trial work period is
+1619(a).                                                                                 determined on a case-by-case basis in
+                                               Comment: Another commenter                accordance with the criteria specified in
+Section 404.1592(b) What We Mean by         questioned the basis for the proposed        § 404.1592(b). Consistent with section
+Services                                    revision of the fourth sentence of           222(c)(2) of the Act, discussed above,
+                                            § 404.1592(b). The commenter                 § 404.1592(b) defines ‘‘services’’ to
+   Comment: One commenter stated that       interpreted the existing sentence to         mean any activity, whether or not it is
+subsidy and impairment-related work         mean that we generally do not consider       substantial gainful activity, ‘‘which is
+expenses should be considered to            certain work, such as work done as           done by a person in employment or self-
+reduce countable earnings when              therapy or training, to be ‘‘services’’      employment for pay or profit, or is the
+determining ‘‘services’’ for purposes of    even if the work is done for                 kind normally done for pay or profit.’’
+counting trial work period months.          remuneration. The commenter                  We use this standard to determine
+                                            expressed the view that the proposed         whether work activity performed by an
+   Response: Subsidy and impairment-        revision appeared to represent a change      individual, including work performed
+related work expenses are concepts          in policy in that it would exclude such      in a sheltered workshop or in
+which we use to reduce an employee’s        work from being considered ‘‘services’’      ‘‘transitional employment,’’ constitutes
+gross earnings in a month(s) in             only if the work is done ‘‘without           ‘‘services’’ for purposes of determining
+determining whether the work he or she      remuneration.’’                              when the trial work period has ended.
+has done or is doing is substantial                                                      The criteria in § 404.1592(b) apply
+gainful activity. Our regulations which        Response: The revision of the fourth      whether the activity is performed in
+provide for subtracting the value of any    sentence of § 404.1592(b) in these final     competitive employment, in a sheltered
+subsidy from an individual’s gross          rules is not a change in interpretation.     workshop, in ‘‘transitional
+earnings in determining whether the         Rather, it is intended to eliminate an       employment,’’ in some other type of
+individual’s earnings show that he or       ambiguity in the existing language that      supported or subsidized employment, or
+she has engaged in substantial gainful      could lead to a misinterpretation of the     in any other circumstance.
+activity are based on the rulemaking        provision. Because of the ambiguity,
+authority granted to the Commissioner       some, such as the commenter, may have        Section 404.1592(d) Who Is and Is Not
+of Social Security under sections           interpreted the existing provision in a      Entitled to a Trial Work Period
+223(d)(4)(A) and 1614(a)(3)(E) of the       manner that is inconsistent with the Act
+Act. These sections of the Act provide      and our intent. Section 222(c)(2) of the        Comment: Several commenters were
+that the Commissioner ‘‘shall by            Act provides that work activity is           critical of our proposed revisions to
+regulations prescribe the criteria for      ‘‘services’’ for trial work period           clarify that a claimant is not entitled to
+determining when services performed or
+earnings derived from services
+demonstrate an individual’s ability to
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00009 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42780  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+a trial work period when he or she          activity by reason of an impairment          are discussed in greater detail earlier in
+performs work demonstrating the ability     which can be expected to result in death     this preamble. We will disregard work
+to perform substantial gainful activity     or ‘‘to be of long-continued and             attempts lasting 6 months or less that do
+within 12 months after the alleged onset    indefinite duration.’’ It was not until      not demonstrate the ability to perform
+of disability and before we have issued     1965 that the Act was amended to             sustained substantial gainful activity
+any notice of determination or decision     broaden the protection provided by the       even if the unsuccessful work attempt
+finding disability. It was contended that   disability program by replacing the          occurs prior to adjudication of the claim
+this policy is based on an ‘‘overly         quoted language with the current 12-         for benefits.
+technical’’ statutory interpretation by     month duration requirement. Given the
+SSA and is ‘‘completely arbitrary in its    definition of disability in effect in 1960,     Comment: One commenter was
+application’’ because entitlement to a      it appears doubtful that Congress            critical of our proposed revisions to
+trial work period for similarly situated    intended for the trial work period to be     § 404.1592(d) that were intended to
+individuals can depend on whether SSA       available when a claimant had already        clarify and be consistent with the
+makes a determination on their claims       demonstrated the ability to perform          provisions of § 404.1592(e). The
+before or after they return to work.        substantial gainful activity by returning    commenter expressed the opinion that
+                                            to work before we issue a determination      ‘‘(t)he proposed regulation is arbitrary
+   Response: We did not adopt the           or decision making a finding of              because it treats persons differently, for
+comments. As noted in the NPRM, the         disability.                                  trial work period purposes, based on the
+revisions we are making clarify, but do                                                  fortuity of when they apply for
+not change, our interpretation set forth       With respect to the contention that       benefits.’’
+in SSR 82–52. Both the preambles to the     our policy is arbitrary because a
+NPRM and to these final regulations         claimant’s entitlement to a trial work          Response: The proposed revisions and
+provide a more detailed explanation and     period can be affected by the amount of      the final rules are consistent with our
+justification for that longstanding         time which passes before SSA                 longstanding regulations which, since
+interpretation than does SSR 82–52. As      adjudicates the claim or by when the         1968, have provided that a trial work
+those preambles explain, our                application is filed, we recognize that it   period may not begin prior to the month
+interpretation is based on the statutory    is possible for different outcomes to        in which the application for benefits is
+12-month duration requirement for           occur because of the amount of time          filed. See § 404.1592(e). These
+establishing disability. We believe that    needed to carefully and correctly            regulations are based on section 222(c)
+our interpretation is a reasonable one      adjudicate a particular claim. However,      of the Act, which provides that a trial
+that reflects congressional intent that     we believe that such outcomes on the         work period begins with the month in
+disability claims should not be allowed     relatively infrequent, but regrettable,      which a person becomes entitled to
+in the face of evidence that a claimant’s   occasions in which they occur, are a         disability benefits, and section
+impairment(s) did not prevent               reasonable consequence of a program          223(a)(1)(C) of the Act, which provides
+substantial gainful activity for 12         that was established by Congress in a        that, in order for a person to become
+consecutive months.                         way that would implement and                 entitled to disability benefits, he or she
+                                            accommodate two separate goals: (1)          must have filed an application for
+   The legislative history of the duration  The disability program should not result     benefits.
+requirement indicates the intent of         in the payment of disability benefits in
+Congress that the disability program not    cases of short-term, temporary                  However, in reviewing
+‘‘result in the payment of disability       disability, and (2) claimants whose          § 404.1592(d)(2)(iv) of the proposed
+benefits in cases of short-term,            impairments will prevent them from           regulations in connection with these
+temporary disability.’’ S. Rep. No. 404,    being able to engage in substantial          comments, we realized that the language
+89th Cong. 1st Sess. 98–99, reprinted in    gainful activity for at least a year should  we proposed could be misinterpreted to
+1965 U.S. Code Cong. & Ad. News 1943,       not be required to meet this duration        be more restrictive than we had
+2038–39. The requirement in the             requirement by waiting the full year         intended. The proposed rule provided
+statutory definition of disability of an    before they can be awarded and receive       that an individual would not be entitled
+inability to engage in any substantial      benefits. As the program was                 to a trial work period if he or she
+gainful activity by reason of an            established, both these goals are            performed work demonstrating the
+impairment ‘‘which has lasted or can be     accomplished except in the situation in      ability to engage in substantial gainful
+expected to last for a continuous period    which SSA awards benefits based on a         activity at any time after the onset of the
+of not less than 12 months’’ can most       finding that a claimant’s inability to       impairment(s) which prevented the
+reasonably be interpreted to mean that      engage in substantial gainful activity       individual from engaging in substantial
+the time of adjudication is the relevant    can be expected to last for at least 12      gainful activity but before the month the
+point of reference. If Congress had         months, and that prediction later turns      individual filed his or her application
+intended benefits to be awarded based       out to be incorrect. While an award of       for disability benefits. Taken literally,
+on evidence that a claimant’s               benefits in this situation could be          this could have prevented us from
+impairment(s) did not in fact prevent       viewed as inconsistent with the first        establishing trial work periods for some
+substantial gainful activity for 12         goal, such award is necessary in order       individuals we did not mean to exclude.
+continuous months, but only had been        to permit SSA to adjudicate disability       For example, taken literally, the
+expected to do so at some earlier point     claims and award benefits without            language could have been
+in the 12-month period, we believe that     having to wait 12 months from onset.         misinterpreted to exclude individuals
+Congress would have provided for a                                                       whose impairments were not disabling
+finding of disability based on an              Finally, some claimants can seek          at the time of their ‘‘onset’’ even though
+impairment(s) which was expected to         relief under the unsuccessful work           they were the impairments ‘‘which’’
+last 12 months, in addition to one which    attempt policy, which permits benefits       ultimately prevented the individuals
+can be expected to last 12 months.          to be awarded to a claimant who              from working. It might have also been
+                                            attempts to return to work if that work      misinterpreted to exclude individuals
+   Furthermore, at the time the trial       attempt turns out to be ‘‘unsuccessful’’     with episodic impairments, such as
+work period provision was enacted in        under the provisions of final                mental disorders, that permit them to
+1960, the Act defined disability as the     § § 404.1574(c) and 404.1575(d) which        work intermittently, who might have
+inability to engage in substantial gainful                                               worked in the past, and who might be
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00010 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42781
+
+entitled to a trial work period for         continue to test his or her ability to      calculate substantial gainful earnings on
+months after they have filed                work. At any time after the trial work      a month-by-month basis, we continue to
+applications. Therefore, we revised the     period ends and during and after the        consider any impairment-related work
+final rules to state more clearly our       reentitlement period, we will evaluate      expenses, subsidy, and special
+policy that we will not grant a trial work  any work and earnings to determine if       conditions and for self-employed
+period for any month prior to the month     it is substantial gainful activity and      individuals, unincurred business
+of application.                             requires a cessation of disability status.  expenses. If an individual’s disability
+                                            To make this decision, we will, if          benefits were reinstated during the
+Section 404.1592(e) When the Trial          applicable, average the work and            reentitlement period, they will
+Work Period Begins and Ends                 earnings over the actual period of time     terminate effective with the first month
+                                            that the individual worked. This may        he or she does substantial gainful
+   Comment: One commenter                   include work performed during the trial     activity after the reentitlement period.
+recommended that individuals who            work period or during or after the          This is because the individual has
+completed the trial work periods before     reentitlement period. We will also          already demonstrated the ability to
+January 1992 should be ‘‘grandfathered      consider whether the work was an            perform substantial gainful activity. We
+in.’’ The commenter stated that             unsuccessful work attempt and if there      believe this longstanding interpretation
+individuals who completed their trial       were any impairment-related work            is consistent with sections 223(a)(1) and
+work period prior to January 1992 are       expenses, subsidy, special conditions or    223(e)(1) of the Act. The intent of the
+not covered under the provisions of the     for self-employed individuals,              36-month reentitlement period is to
+law which state that the trial work         unincurred business expenses. In no         encourage disability beneficiaries to
+period must be completed within a           event will the cessation of disability      continue working after the 9-month trial
+consecutive 60-month period. Under          based on substantial gainful activity be    work period and after demonstrating the
+provisions effective January 1992, trial    earlier than the first month after the end  ability to do substantial gainful activity.
+work months for the period prior to the     of the 9-month trial work period.
+60-month period are not counted in the                                                     Comment: One commenter suggested
+current 60-month period. Another               If we determine that disability ceased   eliminating the reentitlement period
+commenter suggested that we should          based on substantial gainful activity,      time limit (creating an unending
+allow multiple trial work periods within    then entitlement to disability benefits     reentitlement period) to make it easier
+the same period of disability. Another      will terminate as of the third month        for title II beneficiaries to receive
+commenter suggested that we consider a      following the month we find that the        benefits again after their benefits end
+trial work period completed only when       individual began substantial gainful        because they did substantial gainful
+9 consecutive months of trial work are      activity, but in no event earlier than the  activity.
+performed.                                  first month after the end of the 36-
+                                            month reentitlement period. We will            Response: We did not adopt the
+   Response: Our longstanding               evaluate all work activity that occurs in   comment. The law specifically provides
+interpretation has been that the            or after the third month following the      a 36-month limit to the reentitlement
+statutory requirement for counting the 9    month that we determine disability          period. To make the changes suggested
+trial work period months in a               ceased based on substantial gainful         would require a change in the law.
+consecutive 60-month period, which          activity on a month-by-month basis.
+took effect January 1, 1992, does not       This is because an individual is due        Regulatory Procedures
+apply to beneficiaries who complete         payment for the month we find his or
+their trial work period before that date.   her disability ceased based on                 Pursuant to section 702(a)(5) of the
+We believe this policy is consistent with   substantial gainful activity and the two    Act, 42 U.S.C. 902(a)(5), the Social
+and supported by the statutory              succeeding months, whether or not the       Security Administration follows the
+language.                                   individual performs substantial gainful     Administrative Procedure Act (APA)
+                                            activity during those succeeding            rulemaking procedures specified in 5
+Section 404.1592a The Reentitlement         months. After those three months, an        U.S.C. 553 in the development of its
+Period                                      individual is not due benefits for any      regulations. The APA provides
+                                            month he or she performs substantial        exceptions to its NPRM procedures
+   Comment: One commenter                   gainful activity. However, he or she is     when an agency finds that there is good
+recommended that we clarify                 due benefits for any month during the       cause for dispensing with such
+§ 404.1592a to indicate when we would       reentitlement period in which he or she     procedures on the basis that they are
+apply the policies regarding the            does not engage in substantial gainful      impracticable, unnecessary, or contrary
+unsuccessful work attempt in the            activity. We do not apply the provisions    to the public interest. For the reasons
+reentitlement period. The commenter         regarding an unsuccessful work attempt      that follow, we have determined that
+also asked that we include an example.      in determining whether to pay benefits      under 5 U.S.C. 553(b)(B), good cause
+                                            for any month after the month disability    exists for waiving the NPRM procedures
+   Response: As already noted in            ceased based on substantial gainful         with respect to the following changes
+response to this and other comments,        activity. Also, we do not average           made to our regulations: (1) The changes
+we have revised § 404.1592a(a) in these     earnings. If we did, this could result in   made to § § 404.1571 and 416.971 to
+final rules to explain when we will and     paying an individual less than what he      reflect the provisions of sections
+will not consider the unsuccessful work     or she is due. Likewise, after the          201(a)(4)(A) and 201(b)(4)(A) of Pub. L.
+attempt and averaging policies during       reentitlement period ends, if we have       103–296; (2) the changes made to
+and after the reentitlement period. We      previously determined that disability       § 404.1592(b) to reflect the provisions of
+did not provide an example because we       ceased based on substantial gainful         section 201(a)(4)(B) of Pub. L. 103–296;
+believe the revised provisions are          activity during the reentitlement period,   and (3) the changes made to
+sufficiently clear.                         we must determine substantial gainful       § 404.1584(d) to reflect the provisions of
+                                            activity based on work and earnings on      section 102 of Pub. L. 104–121.
+   Beginning with the month following       a month-by-month basis. When we
+the 9th trial work period month, if an                                                     Sections 201(a)(4)(A) and 201(b)(4)(A)
+individual continues to have a disabling                                                of Pub. L. 103–296 amended sections
+impairment, he or she is entitled to a 36-                                              223(d)(4) and 1614(a)(3) of the Act,
+month reentitlement period. During the                                                  respectively, to provide that we shall
+reentitlement period, an individual may
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00011 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42782  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+make determinations of substantial           information about SSA’s work                    Federal Regulations are amended as set
+gainful activity with respect to services    incentives (and thus, better service).          forth below.
+performed by an individual ‘‘without         Also, we believe, that people with
+regard to the legality’’ of the services.    disabilities who are working or who             PART 404—FEDERAL OLD-AGE,
+Section 201(a)(4)(B) of Pub. L. 103–296      want to work will be better able to             SURVIVORS AND DISABILITY
+added the parenthetical phrase               understand the employment support               INSURANCE (1950– )
+‘‘(whether legal or illegal)’’ into the      provisions and better perform their
+definition of ‘‘services’’ in section        benefits and career planning in                 Subpart D—[Amended]
+222(c)(2) of the Act to provide that for     attempting to gain and keep
+trial work purposes ‘‘ ‘services’ means      employment, join America’s mainstream              1. The authority citation for subpart D
+activity (whether legal or illegal) which    and become more independent.                    of part 404 continues to read as follows:
+is performed for remuneration or gain or
+is determined by the Commissioner of         Regulatory Flexibility Act                         Authority: Secs. 202, 203 (a) and (b),
+Social Security to be of a type normally                                                     205(a), 216, 223, 225, 228(a)–(e), and
+performed for remuneration or gain.’’           We certify that these regulations will       702(a)(5) of the Social Security Act (42 U.S.C.
+These amendments to the Act became           not have a significant economic impact          402, 403 (a) and (b), 405(a), 416, 423, 425,
+effective on August 15, 1994, the date       on a substantial number of small entities       428(a)–(e), and 902(a)(5)).
+Pub. L. 103–296 was enacted. Section         because they affect only individuals
+102 of Pub. L. 104–121, enacted March        who are applying for or receiving title            2. Section 404.321 is amended by
+29, 1996, amended section 223(d)(4)(A)       II or title XVI benefits because of             revising paragraph (c)(3) to read as
+of the Act to provide that, for years after  disability or blindness. Therefore, a           follows:
+1995, an increase in the substantial         regulatory flexibility analysis, as
+gainful activity amount for blind            provided in the Regulatory Flexibility          § 404.321 When a period of disability
+individuals under title II of the Act        Act, as amended, is not required.               begins and ends.
+depends only on increases in the
+national average wage index.                 Paperwork Reduction Act                         * * * * *
+                                                                                                (c) * * *
+   Because the language of the statutory        These final rules impose no
+provisions added by these amendments         additional reporting or recordkeeping           * * * * *
+is clear and does not provide for any        requirements subject to Office of                  (3) If you perform substantial gainful
+discretionary policy, we believe that the    Management and Budget clearance. If
+use of notice-and-comment rulemaking         you have any questions on this issue,           activity during the reentitlement period
+procedures for the issuance of rules to      write to the Social Security                    described in § 404.1592a, the last month
+reflect these statutory provisions is        Administration, ATTN: Reports                   for which you received benefits.
+unnecessary. On this basis, good cause       Clearance Officer, 1–A–21 Operations
+exists for dispensing with such              Building, Baltimore, Maryland 21235–            * * * * *
+procedures under the APA.                    6401, and to the Office of Management
+Accordingly, we find that prior notice       and Budget, Paperwork Reduction                    3. Section 404.325 is revised to read
+and comment are unnecessary with             Project (0960–0483), Washington, DC             as follows:
+respect to these specific changes made       20503.
+to the rules.                                                                                § 404.325 The termination month.
+                                             (Catalog of Federal Domestic Assistance
+Executive Order 12866                        Program Nos. 96.001, Social Security-              If you do not have a disabling
+                                             Disability Insurance; 96.002, Social Security-  impairment, your termination month is
+   We have consulted with the Office of      Retirement Insurance; 96.004, Social            the third month following the month in
+Management and Budget (OMB), and             Security-Survivors Insurance; 96.006,           which your impairment is not disabling
+OMB has determined that these rules          Supplemental Security Income)                   even if it occurs during the trial work
+meet the criteria for a significant                                                          period or the reentitlement period. If
+regulatory action under Executive Order      List of Subjects                                you continue to have a disabling
+12866. Thus, OMB has reviewed these                                                          impairment and complete 9 months of
+rules. We believe that changes in the        20 CFR Part 404                                 trial work, your termination month will
+number of individuals affected by these                                                      be the third month following the earliest
+rules will be minimal and any                   Administrative practice and                  month you perform substantial gainful
+associated costs will be cost neutral. We    procedure, Death benefits, Disability           activity or are determined able to
+believe that based on these clarifications   benefits, Old-Age, Survivors and                perform substantial gainful activity;
+in our rules, any increase in the number     Disability Insurance, Reporting and             however, in no event will the
+of individuals found performing              recordkeeping requirements, Social              termination month under these
+substantial gainful activity and therefore   Security.                                       circumstances be earlier than the first
+not disabled or no longer disabled under                                                     month after the end of the reentitlement
+the Act will be offset by individuals        20 CFR Part 416                                 period described in § 404.1592a.
+who are working and found not
+performing substantial gainful activity         Administrative practice and                     Example 1: You complete your trial work
+and disabled because of certain              procedure, Aged, Blind, Disability              period in December 1999. You then work at
+adjustments that we make in calculating      benefits, Public assistance programs,           the substantial gainful activity level and
+earnings for substantial gainful activity    Reporting and recordkeeping                     continue to do so throughout the 36 months
+purposes. With these rules, we provide       requirements, Supplemental Security             following completion of your trial work
+clarifications and better descriptions of    Income (SSI).                                   period and thereafter. Your termination
+our interpretations of the Act. We                                                           month will be January 2003, which is the
+believe this will assist SSA personnel in       Dated: March 17, 2000.                       first month in which you performed
+providing our applicants and                                                                 substantial gainful activity after the end of
+beneficiaries with more accurate             Kenneth S. Apfel,                               your 36-month reentitlement period. This is
+                                                                                             because, for individuals who have disabling
+                                             Commissioner of Social Security.                impairments (see § 404.1511) and who work,
+                                                                                             the termination month cannot occur before
+                                                For the reasons set forth in the             the first month after the end of the 36-month
+                                             Preamble, subparts D and P of part 404          reentitlement period.
+                                             and subparts I and M of part 416 of
+                                             chapter III of title 20 of the Code of             Example 2: You complete your trial work
+                                                                                             period in December 1999, but you do not do
+                                                                                             work showing your ability to do substantial
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00012 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42783
+
+gainful activity during your trial work period       (4) You were able to work only             unsuccessful work attempt. Your
+or throughout your 36-month reentitlement         because of specially arranged                 earnings from an unsuccessful work
+period. In April 2003, 4 months after your        circumstances, for example, other             attempt will not show that you are able
+reentitlement period ends, you become             persons helped you prepare for or get to      to do substantial gainful activity. We
+employed at work that we determine is             and from your work;                           will use the criteria in paragraph (c) of
+substantial gainful activity, considering all of                                                this section to determine if the work you
+our rules in § § 404.1574 and 404.1574a. Your        (5) You were permitted to work at a        did was an unsuccessful work attempt.
+termination month will be July 2003; that is,     lower standard of productivity or
+the third month after the earliest month you      efficiency than other employees; or              (2) We consider only the amounts you
+performed substantial gainful activity.                                                         earn. When we decide whether your
+                                                     (6) You were given the opportunity to      earnings show that you have done
+Subpart P—[Amended]                               work despite your impairment because          substantial gainful activity, we do not
+                                                  of family relationship, past association      consider any income that is not directly
+   4. The authority citation for subpart P        with your employer, or your employer’s        related to your productivity. When your
+of part 404 continues to read as follows:         concern for your welfare.                     earnings exceed the reasonable value of
+                                                                                                the work you perform, we consider only
+   Authority: Secs. 202, 205(a), (b), and (d)–    * * * * *                                     that part of your pay which you actually
+(h), 216(i), 221(a) and (i), 222(c), 223, 225,                                                  earn. If your earnings are being
+and 702(a)(5) of the Social Security Act (42         7. Section 404.1574 is amended by          subsidized, we do not consider the
+U.S.C. 402, 405(a), (b), and (d)(h), 416(i),      revising paragraphs (a), introductory         amount of the subsidy when we
+421(a) and (i), 422(c), 423, 425, and             text, (a)(1), (a)(2), (b)(1), (b)(2),         determine if your earnings show that
+902(a)(5)); sec. 211(b), Pub. L. 104–193, 110     introductory text, (b)(3), introductory       you have done substantial gainful
+Stat. 2105, 2189.                                 text, (b)(4), and (b)(6), introductory text,  activity. We consider your work to be
+                                                  and by adding new paragraphs (c) and          subsidized if the true value of your
+   5. Section 404.1571 is amended by              (d) to read as follows:                       work, when compared with the same or
+revising the first sentence to read as                                                          similar work done by unimpaired
+follows:                                          § 404.1574 Evaluation guides if you are an    persons, is less than the actual amount
+                                                  employee.                                     of earnings paid to you for your work.
+§ 404.1571 General.                                                                             For example, when a person with a
+                                                     (a) We use several guides to decide        serious impairment does simple tasks
+   The work, without regard to legality,          whether the work you have done shows          under close and continuous
+that you have done during any period in           that you are able to do substantial           supervision, our determination of
+which you believe you are disabled may            gainful activity. If you are working or       whether that person has done
+show that you are able to work at the             have worked as an employee, we will           substantial gainful activity will not be
+substantial gainful activity level. * * *         use the provisions in paragraphs (a)          based only on the amount of the wages
+                                                  through (d) of this section that are          paid. We will first determine whether
+   6. Section 404.1573 is amended by              relevant to your work activity. We will       the person received a subsidy; that is,
+revising paragraph (c) to read as follows:        use these provisions whenever they are        we will determine whether the person
+                                                  appropriate, whether in connection with       was being paid more than the
+§ 404.1573 General information about work         your application for disability benefits      reasonable value of the actual services
+activity.                                         (when we make an initial determination        performed. We will then subtract the
+                                                  on your application and throughout any        value of the subsidy from the person’s
+* * * * *                                         appeals you may request), after you           gross earnings to determine the earnings
+   (c) If your work is done under special         have become entitled to a period of           we will use to determine if he or she has
+                                                  disability or to disability benefits, or      done substantial gainful activity.
+conditions. The work you are doing may            both.
+be done under special conditions that                                                           * * * * *
+take into account your impairment, such              (1) Your earnings may show you have           (b) Earnings guidelines. (1) General. If
+as work done in a sheltered workshop              done substantial gainful activity.
+or as a patient in a hospital. If your work       Generally, in evaluating your work            you are an employee, we first consider
+is done under special conditions, we              activity for substantial gainful activity     the criteria in paragraph (a) of this
+may find that it does not show that you           purposes, our primary consideration           section and § 404.1576, and then the
+have the ability to do substantial gainful        will be the earnings you derive from the      guides in paragraphs (b)(2), (3), (4), (5),
+activity. Also, if you are forced to stop         work activity. We will use your earnings      and (6) of this section. When we review
+or reduce your work because of the                to determine whether you have done            your earnings to determine if you have
+removal of special conditions that were           substantial gainful activity unless we        been performing substantial gainful
+related to your impairment and essential          have information from you, your               activity, we will subtract the value of
+to your work, we may find that your               employer, or others that shows that we        any subsidized earnings (see paragraph
+work does not show that you are able to           should not count all of your earnings.        (a)(2) of this section) and the reasonable
+do substantial gainful activity. However,         The amount of your earnings from work         cost of any impairment-related work
+work done under special conditions                you have done (regardless of whether it       expenses from your gross earnings (see
+may show that you have the necessary              is unsheltered or sheltered work) may         § 404.1576). The resulting amount is the
+skills and ability to work at the                 show that you have engaged in                 amount we use to determine if you have
+substantial gainful activity level.               substantial gainful activity. Generally, if   done substantial gainful activity. We
+Examples of the special conditions that           you worked for substantial earnings, we       will generally average your earnings for
+may relate to your impairment include,            will find that you are able to do             comparison with the earnings
+but are not limited to, situations in             substantial gainful activity. However,        guidelines in paragraphs (b)(2), (3), (4),
+which—                                            the fact that your earnings were not          and (6) of this section. See § 404.1574a
+                                                  substantial will not necessarily show         for our rules on averaging earnings.
+   (1) You required and received special          that you are not able to do substantial
+assistance from other employees in                gainful activity. We generally consider          (2) Earnings that will ordinarily show
+performing your work;                             work that you are forced to stop or to        that you have engaged in substantial
+                                                  reduce below the substantial gainful
+   (2) You were allowed to work                   activity level after a short time because
+irregular hours or take frequent rest             of your impairment to be an
+periods;
+
+   (3) You were provided with special
+equipment or were assigned work
+especially suited to your impairment;
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00013 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42784  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+gainful activity. We will consider that      meet the conditions described in               performance and these conditions were
+your earnings from your work activity as     paragraphs (c)(2), (3), (4), and (5), of this  removed.
+an employee (including earnings from         section. We will use the provisions of
+sheltered work, see paragraph (b)(4) of      this paragraph when we make an initial            (5) If you worked more than 6 months.
+this section) show that you have             determination on your application for          We will not consider work you
+engaged in substantial gainful activity      disability benefits and throughout any         performed at the substantial gainful
+if—* * *                                     appeal you may request. Except as set          activity earnings level for more than 6
+                                             forth in § 404.1592a(a), we will also          months to be an unsuccessful work
+   (3) Earnings that will ordinarily show    apply the provisions of this paragraph if      attempt regardless of why it ended or
+that you have not engaged in substantial     you are already entitled to disability         was reduced below the substantial
+gainful activity. Unless you work in a       benefits, when you work and we                 gainful activity earnings level.
+sheltered workshop or a comparable           consider whether the work you are
+facility (see paragraph (b)(4) of this       doing is substantial gainful activity or          (d) Work activity in certain volunteer
+section), we will generally consider that    demonstrates the ability to do                 programs. If you work as a volunteer in
+the earnings from your work as an            substantial gainful activity.                  certain programs administered by the
+employee will show that you have not                                                        Federal government under the Domestic
+engaged in substantial gainful activity         (2) Event that must precede an              Volunteer Service Act of 1973 or the
+if—* * *                                     unsuccessful work attempt. There must          Small Business Act, we will not count
+                                             be a significant break in the continuity       any payments you receive from these
+   (4) If you work in a sheltered            of your work before we will consider           programs as earnings when we
+workshop. If you work in a sheltered         that you began a work attempt that later       determine whether you are engaging in
+workshop or a comparable facility            proved unsuccessful. You must have             substantial gainful activity. These
+especially set up for persons with           stopped working or reduced your work           payments may include a minimal
+serious impairments, we will ordinarily      and earnings below the substantial             stipend, payments for supportive
+consider that your earnings from this        gainful activity earnings level because of     services such as housing, supplies and
+work show that you have engaged in           your impairment or because of the              equipment, an expense allowance, or
+substantial gainful activity if your         removal of special conditions that were        reimbursement of out-of-pocket
+earnings meet the levels in paragraph        essential to the further performance of        expenses. We will also disregard the
+(b)(2) of this section. Earnings from a      your work. We explain what we mean             services you perform as a volunteer in
+sheltered workshop or a comparable           by special conditions in § 404.1573(c).        applying any of the substantial gainful
+facility that are less than those indicated  We will consider your prior work to be         activity tests discussed in paragraph
+in paragraph (b)(2) of this section will     ‘‘discontinued’’ for a significant period      (b)(6) of this section. This exclusion
+ordinarily show that you have not            if you were out of work at least 30            from the substantial gainful activity
+engaged in substantial gainful activity      consecutive days. We will also consider        provisions will apply only if you are a
+without the need to consider the other       your prior work to be ‘‘discontinued’’ if,     volunteer in a program explicitly
+information in paragraph (b)(6) of this      because of your impairment, you were           mentioned in the Domestic Volunteer
+section regardless of whether they are       forced to change to another type of work       Service Act of 1973 or the Small
+more or less than those indicated in         or another employer.                           Business Act. Programs explicitly
+paragraph (b)(3) of this section. When                                                      mentioned in those Acts include
+your earnings from a sheltered                  (3) If you worked 3 months or less. We      Volunteers in Service to America,
+workshop or comparable facility are less     will consider work of 3 months or less         University Year for ACTION, Special
+than those indicated in paragraph (b)(2),    to be an unsuccessful work attempt if          Volunteer Programs, Retired Senior
+we will consider the provisions of           you stopped working, or you reduced            Volunteer Program, Foster Grandparent
+paragraph (b)(6) of this section only if     your work and earnings below the               Program, Service Corps of Retired
+there is evidence showing that you may       substantial gainful activity earnings          Executives, and Active Corps of
+have done substantial gainful activity.      level, because of your impairment or           Executives. We will not exclude under
+                                             because of the removal of special              this paragraph, volunteer work you
+* * * * *                                    conditions which took into account             perform in other programs or any
+   (6) Earnings that are not high or low     your impairment and permitted you to           nonvolunteer work you may perform,
+                                             work.                                          including nonvolunteer work under one
+enough to show whether you engaged in                                                       of the specified programs. For civilians
+substantial gainful activity. Unless you        (4) If you worked between 3 and 6           in certain government-sponsored job
+work in a sheltered workshop or a            months. We will consider work that             training and employment programs, we
+comparable facility (see paragraph (b)(4)    lasted longer than 3 months to be an           evaluate the work activity on a case-by-
+of this section), if your earnings, on the   unsuccessful work attempt if it ended,         case basis under the substantial gainful
+average, are between the amounts             or was reduced below substantial               activity earnings test. In programs such
+shown in paragraphs (b)(2) and (3) of        gainful activity earnings level, within 6      as these, subsidies often occur. We will
+this section, we will generally consider     months because of your impairment or           subtract the value of any subsidy and
+other information in addition to your        because of the removal of special              use the remainder to determine if you
+earnings, such as whether—                   conditions which took into account             have done substantial gainful activity.
+                                             your impairment and permitted you to           See paragraphs (a)(2)-(3) of this section.
+* * * * *                                    work and—
+   (c) The unsuccessful work attempt.—                                                         8. A new § 404.1574a is added to read
+                                                (i) You were frequently absent from         as follows:
+(1) General. Ordinarily, work you have       work because of your impairment;
+done will not show that you are able to                                                     § 404.1574a When and how we will
+do substantial gainful activity if, after       (ii) Your work was unsatisfactory           average your earnings.
+working for a period of 6 months or less,    because of your impairment;
+your impairment forced you to stop                                                             (a) If your work as an employee or as
+working or to reduce the amount of              (iii) You worked during a period of         a self-employed person was continuous
+work you do so that your earnings from       temporary remission of your                    without significant change in work
+such work fall below the substantial         impairment; or                                 patterns or earnings, and there has been
+gainful activity earnings level in                                                          no change in the substantial gainful
+paragraph (b)(2) of this section, and you       (iv) You worked under special
+                                             conditions that were essential to your
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00014 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42785
+
+activity earnings levels, we will average         period January 1997 and February 1997 with        this example, beginning July 1997, the third
+your earnings over the entire period of           the period beginning March 1997 because           month following the month of cessation, we
+work requiring evaluation to determine            there was a significant change in earnings        would evaluate all of Ms. M.’s work activity
+if you have done substantial gainful              and work activity beginning March 1997.           on a month-by-month basis (see
+activity. See § 404.1592a for information         Thus, the earnings of January 1997 and            § 404.1592a(a)).
+on the reentitlement period.                      February 1997 could not be averaged with
+                                                  those of March 1997 to reduce March 1997             9. Section 404.1575 is amended by
+   (b) If you work over a period of time          earnings below the substantial gainful            revising paragraphs (a) and (c) and
+during which the substantial gainful              activity level. After we determine that Mrs.      adding a new paragraph (d) to read as
+activity earnings levels change, we will          H.’s disability had ceased because of her         follows:
+average your earnings separately for              performance of substantial gainful activity,
+each period in which a different                  we cannot average her earnings to determine       § 404.1575 Evaluation guides if you are
+substantial gainful activity earnings             whether she is due payment for any month          self-employed.
+level applies.                                    during or after the reentitlement period.
+                                                  Beginning June 1997, the third month                 (a) If you are a self-employed person.
+   (c) If there is a significant change in        following the cessation month, we would           If you are working or have worked as a
+your work pattern or earnings during              evaluate all of Mrs. H.’s work activity on a      self-employed person, we will use the
+the period of work requiring evaluation,          month-by-month basis (see § 404.1592a(a)).        provisions in paragraphs (a) through (d)
+we will average your earnings over each                                                             of this section that are relevant to your
+separate period of work to determine if              Example 2: Ms. M. began receiving              work activity. We will use these
+any of your work efforts were                     disability insurance benefits in March 1992.      provisions whenever they are
+substantial gainful activity.                     In January 1995, she began selling cable          appropriate, whether in connection with
+                                                  television subscriptions by telephone             your application for disability benefits
+   (d) We will not average your earnings          solicitation, expending a minimum of time,        (when we make an initial determination
+in determining whether benefits should            for which she received $275 monthly. Ms. M.       on your application and throughout any
+be paid for any month(s) during or after          did not work in June 1995, and she resumed        appeals you may request), after you
+the reentitlement period that occurs              selling cable television subscriptions            have become entitled to a period of
+after the month disability has been               beginning July 1995. In this way, Ms. M. used     disability or to disability benefits, or
+determined to have ceased because of              up her 9-month trial work period during the       both. We will consider your activities
+the performance of substantial gainful            months of January 1995 through May 1995           and their value to your business to
+activity. See § 404.1592a for information         and July 1995 through October 1995. After         decide whether you have engaged in
+on the reentitlement period. The                  Ms. M.’s trial work period ended, we              substantial gainful activity if you are
+following examples illustrate what we             determined that she had not engaged in            self-employed. We will not consider
+mean by a significant change in the               substantial gainful activity during her trial     your income alone because the amount
+work pattern of an employee and when              work period. Ms. M.’s reentitlement period        of income you actually receive may
+we will average and will not average              began November 1995. In December 1995,            depend on a number of different factors,
+earnings.                                         Ms. M. discontinued her telephone                 such as capital investment and profit-
+                                                  solicitation work to take a course in             sharing agreements. We will generally
+   Example 1: Mrs. H. began receiving             secretarial skills. In January 1997, she began    consider work that you were forced to
+disability insurance benefits in March 1993.      work as a part-time temporary secretary in an     stop or reduce to below substantial
+In January 1995 she began selling magazines       accounting firm. Ms. M. worked, without any       gainful activity after 6 months or less
+by telephone solicitation, expending a            subsidy or impairment-related work                because of your impairment as an
+minimum of time, for which she received           expenses, at beginner rates. She earned $460      unsuccessful work attempt. See
+$225 monthly. As a result, Mrs. H. used up        in January 1997, $420 in February 1997, and       paragraph (d) of this section. We will
+her trial work period during the months of        $510 in March 1997. In April 1997, she had        evaluate your work activity based on the
+January 1995 through September 1995. After        increased her secretarial skills to journeyman    value of your services to the business
+the trial work period ended, we determined        level, and she was assigned as a part-time        regardless of whether you receive an
+that Mrs. H. had not engaged in substantial       private secretary to one of the vice presidents   immediate income for your services. We
+gainful activity during her trial work period.    of the firm. Ms. M.’s earnings increased to       determine whether you have engaged in
+Her reentitlement period began October 1995.      $860 per month effective April 1997. We           substantial gainful activity by applying
+In December 1995, Mrs. H. discontinued her        determined that Ms. M. was engaging in            three tests. If you have not engaged in
+telephone solicitation work to take a course      substantial gainful activity beginning April      substantial gainful activity under test
+in secretarial skills. In January 1997, she       1997 and that her disability ceased that          one, then we will consider tests two and
+began work as a part-time temporary               month, the first month of substantial gainful     three. The tests are as follows:
+secretary in a banking firm. Mrs. H. worked       activity after the end of the trial work period.
+20 hours a week, without any subsidy or           She is due payment for April 1997, May 1997          (1) Test One: You have engaged in
+impairment-related work expenses, at              and June 1997, because disability benefits        substantial gainful activity if you render
+beginner rates. She earned $285 per month in      terminate the third month following the           services that are significant to the
+January 1997 and February 1997. In March          earliest month in which she performs              operation of the business and receive a
+1997 she had increased her secretarial skills     substantial gainful activity (the month of        substantial income from the business.
+to journeyman level and was assigned as a         cessation). We averaged her earnings for the      Paragraphs (b) and (c) of this section
+part-time private secretary to one of the vice    period January 1997 through March 1997 and        explain what we mean by significant
+presidents of the banking firm. Mrs. H.’s         determined them to be about $467 per month        services and substantial income for
+earnings increased to $525 per month              for that period. We did not average earnings      purposes of this test.
+effective March 1997. We determined that          for the period January 1997 through March
+Mrs. H. was engaging in substantial gainful       1997 with earnings for the period beginning          (2) Test Two: You have engaged in
+activity beginning March 1997 and that her        April 1997 because there was a significant        substantial gainful activity if your work
+disability ceased that month, the first month     change in work activity and earnings              activity, in terms of factors such as
+of substantial gainful activity after the end of  beginning April 1997. Therefore, we found         hours, skills, energy output, efficiency,
+the trial work period. Mrs. H. is due payment     that the earnings for January 1997 through        duties, and responsibilities, is
+for March 1997, the month of cessation, and       March 1997 were under the substantial             comparable to that of unimpaired
+the following 2 months (April 1997 and May        gainful activity level. After we determine that   individuals in your community who are
+1997) because disability benefits terminate       Ms M.’s disability has ceased because she
+the third month following the earliest month      performed substantial gainful activity, we
+in which she performed substantial gainful        cannot average her earnings in determining
+activity. We did not average earnings for the     whether she is due payment for any month
+                                                  during or after the reentitlement period. In
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00015 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42786  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+in the same or similar businesses as       done will not show that you are able to        (i) You were frequently unable to
+their means of livelihood.                 do substantial gainful activity if, after   work because of your impairment;
+                                           working for a period of 6 months or less,
+   (3) Test Three: You have engaged in     you were forced by your impairment to          (ii) Your work was unsatisfactory
+substantial gainful activity if your work  stop working or to reduce the amount of     because of your impairment;
+activity, although not comparable to that  work you do so that you are no longer
+of unimpaired individuals, is clearly      performing substantial gainful activity        (iii) You worked during a period of
+worth the amount shown in                  and you meet the conditions described       temporary remission of your
+§ 404.1574(b)(2) when considered in        in paragraphs (d)(2), (3), (4), and (5) of  impairment; or
+terms of its value to the business, or     this section. We will use the provisions
+when compared to the salary that an        of this paragraph when we make an              (iv) You worked under special
+owner would pay to an employee to do       initial determination on your               conditions that were essential to your
+the work you are doing.                    application for disability benefits and     performance and these conditions were
+                                           throughout any appeal you may request.      removed.
+* * * * *                                  Except as set forth in § 404.1592a(a), we
+   (c) What we mean by substantial         will also apply the provisions of this         (5) If you worked more than 6 months.
+                                           paragraph if you are already entitled to    We will not consider work you
+income. We deduct your normal              disability benefits, when you work and      performed at the substantial gainful
+business expenses from your gross          we consider whether the work you are        activity level for more than 6 months to
+income to determine net income. Once       doing is substantial gainful activity or    be an unsuccessful work attempt
+we determine your net income, we           demonstrates the ability to do              regardless of why it ended or was
+deduct the reasonable value of any         substantial gainful activity.               reduced below the substantial gainful
+significant amount of unpaid help                                                      activity earnings level.
+furnished by your spouse, children, or        (2) Event that must precede an
+others. Miscellaneous duties that          unsuccessful work attempt. There must          10. Section 404.1584 is amended by
+ordinarily would not have commercial       be a significant break in the continuity    revising paragraph (d) to read as
+value would not be considered              of your work before we will consider        follows:
+significant. We deduct impairment-         you to have begun a work attempt that
+related work expenses that have not        later proved unsuccessful. You must         § 404.1584 Evaluation of work activity of
+already been deducted in determining       have stopped working or reduced your        blind people.
+your net income. Impairment-related        work and earnings below substantial
+work expenses are explained in             gainful activity because of your            * * * * *
+§ 404.1576. We deduct unincurred           impairment or because of the removal of        (d) Evaluation of earnings.—(1)
+business expenses paid for you by          special conditions which took into
+another individual or agency. An           account your impairment and permitted       Earnings that will ordinarily show that
+unincurred business expense occurs         you to work. Examples of such special       you have engaged in substantial gainful
+when a sponsoring agency or another        conditions may include any significant      activity. We will ordinarily consider
+person incurs responsibility for the       amount of unpaid help furnished by          that your earnings from your work
+payment of certain business expenses,      your spouse, children, or others, or        activities show that you have engaged in
+e.g., rent, utilities, or purchases and    unincurred business expenses, as            substantial gainful activity if your
+repair of equipment, or provides you       described in paragraph (c) of this          monthly earnings average more than the
+with equipment, stock, or other material   section, paid for you by another            amount(s) shown in paragraphs (d)(2)
+for the operation of your business. We     individual or agency. We will consider      and (3) of this section. We will apply
+deduct soil bank payments if they were     your prior work to be ‘‘discontinued’’      §§ 404.1574(a)(2), 404.1575(c), and
+included as farm income. That part of      for a significant period if you were out    404.1576 in determining the amount of
+your income remaining after we have        of work at least 30 consecutive days. We    your average earnings.
+made all applicable deductions             will also consider your prior work to be
+represents the actual value of work        ‘‘discontinued’’ if, because of your           (2) Substantial gainful activity
+performed. The resulting amount is the     impairment, you were forced to change       guidelines for taxable years before 1978.
+amount we use to determine if you have     to another type of work.                    For work activity performed in taxable
+done substantial gainful activity. We                                                  years before 1978, the average earnings
+will generally average your income for        (3) If you worked 3 months or less. We   per month that we ordinarily consider
+comparison with the earnings               will consider work of 3 months or less      enough to show that you have done
+guidelines in § § 404.1574(b)(2) and       to be an unsuccessful work attempt if it    substantial gainful activity are the same
+404.1574(b)(3). See § 404.1574a for our    ended, or was reduced below                 for blind people as for others. See
+rules on averaging of earnings. We will    substantial gainful activity, because of    § 404.1574(b)(2) for the earnings
+consider this amount to be substantial     your impairment or because of the           guidelines for other than blind
+if—                                        removal of special conditions which         individuals.
+                                           took into account your impairment and
+   (1) It averages more than the amounts   permitted you to work.                         (3) Substantial gainful activity
+described in § 404.1574(b)(2); or                                                      guidelines for taxable years beginning
+                                              (4) If you worked between 3 and 6        1978. For taxable years beginning 1978,
+   (2) It averages less than the amounts   months. We will consider work that          if you are blind, the law provides
+described in § 404.1574(b)(2) but it is    lasted longer than 3 months to be an        different earnings guidelines for
+either comparable to what it was before    unsuccessful work attempt if it ended,      determining if your earnings from your
+you became seriously impaired if we        or was reduced below substantial            work activities are substantial gainful
+had not considered your earnings or is     gainful activity, within 6 months           activity. Ordinarily, we consider your
+comparable to that of unimpaired self-     because of your impairment or because       work to be substantial gainful activity,
+employed persons in your community         of the removal of special conditions        if your average monthly earnings are
+who are in the same or a similar           which took into account your                more than those shown in Table I. For
+business as their means of livelihood.     impairment and permitted you to work        years after 1977 and before 1996,
+                                           and—                                        increases in the substantial gainful
+   (d) The unsuccessful work attempt.—                                                 activity guideline were linked to
+(1) General. Ordinarily, work you have                                                 increases in the monthly exempt
+                                                                                       amount under the retirement earnings
+                                                                                       test for individuals aged 65 to 69.
+                                                                                       Beginning with 1996, increases in the
+                                                                                       substantial gainful activity amount have
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00016 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42787
+
+depended only on increases in the                                 (2) You are not entitled to a trial work     12. Section 404.1592a is amended by
+national average wage index.                                   period—                                      revising paragraphs (a) and (b)(2) to read
+                                                                                                            as follows:
+TABLE I                                                           (i) If you are entitled to a period of
+                                                               disability but not to disability insurance   § 404.1592a The reentitlement period.
+Over                                               In year(s)  benefits, and you are not entitled to any
+                                                               other type of disability benefit under          (a) General. The reentitlement period
+$334 ............................................  1978        title II of the Social Security Act (i.e.,   is an additional period after 9 months of
+$375 ............................................  1979        child’s benefits based on disability, or     trial work during which you may
+$417 ............................................  1980        widow’s or widower’s benefits or             continue to test your ability to work if
+$459 ............................................  1981        surviving divorced spouse’s benefits         you have a disabling impairment, as
+$500 ............................................  1982        based on disability);                        defined in § 404.1511. If you work
+$550 ............................................  1983                                                     during the reentitlement period, we may
+$580 ............................................  1984           (ii) If you perform work                  decide that your disability has ceased
+$610 ............................................  1985        demonstrating the ability to engage in       because your work is substantial gainful
+$650 ............................................  1986        substantial gainful activity during any      activity and stop your benefits.
+$680 ............................................  1987        required waiting period for benefits;        However, if, after the month for which
+$700 ............................................  1988                                                     we found that your disability ceased
+$740 ............................................  1989           (iii) If you perform work                 because you performed substantial
+$780 ............................................  1990        demonstrating the ability to engage in       gainful activity, you stop engaging in
+$810 ............................................  1991        substantial gainful activity within 12       substantial gainful activity, we will start
+$850 ............................................  1992        months of the onset of the                   paying you benefits again; you will not
+$880 ............................................  1993        impairment(s) that prevented you from        have to file a new application. The
+$930 ............................................  1994        performing substantial gainful activity      following rules apply if you complete a
+$940 ............................................  1995        and before the date of any notice of         trial work period and continue to have
+$960 ............................................  1996        determination or decision finding that       a disabling impairment:
+$1,000 .........................................   1997        you are disabled; or
+$1,050 .........................................   1998                                                        (1) The first time you work after the
+$1,110 .........................................   1999           (iv) For any month prior to the month     end of your trial work period and
+$1,170 .........................................   2000        of your application for disability           engage in substantial gainful activity,
+                                                               benefits (see paragraph (e) of this          we will find that your disability ceased.
+   11. Section 404.1592 is amended as                          section).                                    When we decide whether this work is
+follows:                                                                                                    substantial gainful activity, we will
+                                                                  (e) When the trial work period begins     apply all of the relevant provisions of
+   a. By revising the first and last                           and ends. The trial work period begins       § § 404.1571–404.1576 including, but
+sentences of paragraph (b),                                    with the month in which you become           not limited to, the provisions for
+                                                               entitled to disability insurance benefits,   averaging earnings, unsuccessful work
+   b. Adding a new sentence to the end                         to child’s benefits based on disability or   attempts, and deducting impairment-
+of paragraph (b), and                                          to widow’s, widower’s, or surviving          related work expenses. We will find that
+                                                               divorced spouse’s benefits based on          your disability ceased in the first month
+   c. Revising paragraphs (d) and (e).                         disability. It cannot begin before the       after the end of your trial work period
+   The revisions and additions to                              month in which you file your                 in which you do substantial gainful
+§ 404.1592 read as follows:                                    application for benefits, and for widows,    activity, applying all the relevant
+                                                               widowers, and surviving divorced             provisions in § § 404.1571–404.1576.
+§ 404.1592 The trial work period.                              spouses, it cannot begin before
+                                                               December 1, 1980. It ends with the close        (2) (i) If we determine under
+* * * * *                                                      of whichever of the following calendar       paragraph (a)(1) of this section that your
+   (b) What we mean by services. When                          months is the earliest:                      disability ceased during the
+                                                                                                            reentitlement period because you
+used in this section, services means any                          (1) The 9th month (whether or not the     perform substantial gainful activity, you
+activity (whether legal or illegal), even                      months have been consecutive) in             will be paid benefits for the first month
+though it is not substantial gainful                           which you have performed services if         after the trial work period in which you
+activity, which is done by a person in                         that 9th month is prior to January 1992;     do substantial gainful activity (i.e., the
+employment or self-employment for pay                                                                       month your disability ceased) and the
+or profit, or is the kind normally done                           (2) The 9th month (whether or not the     two succeeding months, whether or not
+for pay or profit. * * * We generally do                       months have been consecutive and             you do substantial gainful activity in
+not consider work done without                                 whether or not the previous 8 months of      those succeeding months. After those
+remuneration to be ‘‘services’’ if it is                       services were prior to January 1992) in      three months, we will stop your benefits
+done merely as therapy or training or if                       which you have performed services            for any month in which you do
+it is work usually done in a daily                             within a period of 60 consecutive            substantial gainful activity. (See
+routine around the house or in self-care.                      months if that 9th month is after            §§ 404.316, 404.337, 404.352 and
+We will not consider work you have                             December 1991; or                            404.401a.) If your benefits are stopped
+done as a volunteer in the Federal                                                                          because you do substantial gainful
+programs described in § 404.1574(d) in                            (3) The month in which new                activity, they may be started again
+determining whether you have                                   evidence, other than evidence relating       without a new application and a new
+performed services in the trial work                           to any work you did during the trial         determination of disability if you stop
+period.                                                        work period, shows that you are not          doing substantial gainful activity in a
+                                                               disabled, even though you have not           month during the reentitlement period.
+* * * * *                                                      worked a full 9 months. We may find          In determining whether you do
+   (d) Who is and is not entitled to a trial                   that your disability has ended at any        substantial gainful activity in a month
+                                                               time during the trial work period if the     for purposes of stopping or starting
+work period. (1) You are generally                             medical or other evidence shows that         benefits during the reentitlement period,
+entitled to a trial work period if you are                     you are no longer disabled. See
+entitled to disability insurance benefits,                     § 404.1594 for information on how we
+child’s benefits based on disability, or                       decide whether your disability
+widow’s or widower’s or surviving                              continues or ends.
+divorced spouse’s benefits based on
+disability.
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00017 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42788  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+we will consider only your work in, or       benefits terminates (see §§ 404.321 and            16. Section 416.971 is amended by
+earnings for, that month. Once we have       404.325).                                       revising the first sentence to read as
+determined that your disability has                                                          follows:
+ceased during the reentitlement period          (b) * * *
+because of the performance of                   (2)(i) The last day of the 15th month        § 416.971 General.
+substantial gainful activity as explained    following the end of your trial work
+in paragraph (a)(1) of this section, we      period if you were not entitled to                 The work, without regard to legality,
+will not apply the provisions of             benefits after December 1987; or                that you have done during any period in
+§§ 404.1574(c) and 404.1575(d)                  (ii) The last day of the 36th month          which you believe you are disabled may
+regarding unsuccessful work attempts or      following the end of your trial work            show that you are able to work at the
+the provisions of § 404.1574a regarding      period if you were entitled to benefits         substantial gainful activity level. * * *
+averaging of earnings to determine           after December 1987 or if the 15-month
+whether benefits should be paid for any      period described in paragraph (b)(2)(i)            17. Section 416.973 is amended by
+particular month in the reentitlement        of this section had not ended as of             revising paragraph (c) and removing
+period that occurs after the month your      January 1988. (See §§ 404.316, 404.337,         paragraph (f) to read as follows:
+disability ceased.                           and 404.352 for when your benefits
+                                             end.)                                           § 416.973 General information about work
+   (ii) If anyone else is receiving monthly     13. Section 404.1594 is amended by           activity.
+benefits based on your earnings record,      revising the second sentence of
+that individual will not be paid benefits    paragraph (f)(7) and by revising                * * * * *
+for any month for which you cannot be        paragraph (g)(9) to read as follows:               (c) If your work is done under special
+paid benefits during the reentitlement
+period.                                      § 404.1594 How we will determine whether        conditions. The work you are doing may
+                                             your disability continues or ends.              be done under special conditions that
+   (3) The way we will consider your                                                         take into account your impairment, such
+work activity after your reentitlement       * * * * *                                       as work done in a sheltered workshop
+period ends (see paragraph (b)(2) of this       (f) Evaluation steps. * * *                  or as a patient in a hospital. If your work
+section) will depend on whether you             (7) * * * That is, we will assess your       is done under special conditions, we
+worked during the reentitlement period                                                       may find that it does not show that you
+and if you did substantial gainful           residual functional capacity based on all       have the ability to do substantial gainful
+activity. If you worked during the           your current impairments and consider           activity. Also, if you are forced to stop
+reentitlement period and we decided          whether you can still do work you have          or reduce your work because of the
+that your disability ceased during the       done in the past. * * *                         removal of special conditions that were
+reentitlement period because of your                                                         related to your impairment and essential
+work under paragraph (a)(1) of this          * * * * *                                       to your work, we may find that your
+section, we will find that your                 (g) The month in which we will find          work does not show that you are able to
+entitlement to disability benefits                                                           do substantial gainful activity. However,
+terminates in the first month in which       you are no longer disabled. * * *               work done under special conditions
+you engage in substantial gainful               (9) The first month you were told by         may show that you have the necessary
+activity after the end of the                                                                skills and ability to work at the
+reentitlement period (see § 404.325).        your physician that you could return to         substantial gainful activity level.
+(See § 404.321 for when entitlement to       work, provided there is no substantial          Examples of the special conditions that
+a period of disability ends.) When we        conflict between your physician’s and           may relate to your impairment include,
+make this determination, we will             your statements regarding your                  but are not limited to, situations in
+consider only your work in, or earnings      awareness of your capacity for work and         which—
+for, that month; we will not apply the       the earlier date is supported by
+provisions of §§ 404.1574(c) and             substantial evidence.                              (1) You required and received special
+404.1575(d) regarding unsuccessful                                                           assistance from other employees in
+work attempts or the provisions of           * * * * *                                       performing your work;
+§ 404.1574a regarding averaging of
+earnings. If we did not find that your       PART 416—SUPPLEMENTAL                              (2) You were allowed to work
+disability ceased because of work            SECURITY INCOME FOR THE AGED,                   irregular hours or take frequent rest
+activity during the reentitlement period,    BLIND AND DISABLED                              periods;
+we will apply all of the relevant
+provisions of §§ 404.1571–404.1576           Subpart I—[Amended]                                (3) You were provided with special
+including, but not limited to, the                                                           equipment or were assigned work
+provisions for averaging earnings,              14. The authority citation for subpart       especially suited to your impairment;
+unsuccessful work attempts, and              I of part 416 continues to read as
+deducting impairment-related work            follows:                                           (4) You were able to work only
+expenses, to determine whether your                                                          because of specially arranged
+disability ceased because you performed         Authority: Secs. 702(a)(5), 1611, 1614,      circumstances, for example, other
+substantial gainful activity after the       1619, 1631(a), (c) and (d)(1), and 1633 of the  persons helped you prepare for or get to
+reentitlement period. If we find that        Social Security Act (42 U.S.C. 902(a)(5),       and from your work;
+your disability ceased because you           1382, 1382c, 1382h, 1383(a), (c) and (d)(1),
+performed substantial gainful activity in    and 1383b); secs. 4(c) and 5, 6(c)–(e), 14(a)      (5) You were permitted to work at a
+a month after your reentitlement period      and 15, Pub. L. 98–460, 98 Stat. 1794, 1801,    lower standard of productivity or
+ended, you will be paid benefits for the     1802, and 1808 (42 U.S.C. 421 note, 423 note,   efficiency than other employees; or
+month in which your disability ceased        1382h note).
+and the two succeeding months. After                                                            (6) You were given the opportunity to
+those three months, your entitlement to         15. Section 416.901 is amended by            work, despite your impairment, because
+a period of disability or to disability      revising the second sentence of                 of family relationship, past association
+                                             paragraph (m) to read as follows:               with your employer, or your employer’s
+                                                                                             concern for your welfare.
+                                             § 416.901 Scope of subpart.
+                                                                                             * * * * *
+                                             * * * * *
+                                                (m) * * * We explain what your                  18. Section 416.974 is amended by
+                                                                                             revising paragraphs (a), introductory
+                                             responsibilities are in telling us of any       text, (a)(1), (a)(2), (b)(1), (b)(2),
+                                             events that may cause a change in your          introductory text, (b)(3), introductory
+                                             disability or blindness status and when         text (b)(4) and (b)(6), introductory text,
+                                             we will review to see if you are still
+                                             disabled. * * *
+
+VerDate 11<MAY>2000 16:07 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00018 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm06 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42789
+
+and by adding new paragraphs (c) and         you have done substantial gainful            especially set up for persons with
+(d) to read as follows:                      activity. We consider your work to be        serious impairments, we will ordinarily
+                                             subsidized if the true value of your         consider that your earnings from this
+§ 416.974 Evaluation guides if you are an    work, when compared with the same or         work show that you have engaged in
+employee.                                    similar work done by unimpaired              substantial gainful activity if your
+                                             persons, is less than the actual amount      earnings meet the levels in paragraph
+   (a) We use several guides to decide       of earnings paid to you for your work.       (b)(2) of this section. Earnings from a
+whether the work you have done shows         For example, when a person with a            sheltered workshop or a comparable
+that you are able to do substantial          serious impairment does simple tasks         facility that are less than those indicated
+gainful activity. If you are working or      under close and continuous                   in paragraph (b)(2) of this section will
+have worked as an employee, we will          supervision, our determination of            ordinarily show that you have not
+use the provisions in paragraphs (a)         whether that person has done                 engaged in substantial gainful activity
+through (d) of this section that are         substantial gainful activity will not be     without the need to consider the other
+relevant to your work activity. We will      based only on the amount of the wages        information in paragraph (b)(6) of this
+use these provisions whenever they are       paid. We will first determine whether        section regardless of whether they are
+appropriate in connection with your          the person received a subsidy; that is,      more or less than those indicated in
+application for supplemental security        we will determine whether the person         paragraph (b)(3) of this section. When
+income benefits (when we make an             was being paid more than the                 your earnings from a sheltered
+initial determination on your                reasonable value of the actual services      workshop or comparable facility are less
+application and throughout any appeals       performed. We will then subtract the         than those indicated in paragraph (b)(2)
+you may request) to determine if you are     value of the subsidy from the person’s       of this section, we will consider the
+eligible.                                    gross earnings to determine the earnings     provisions of paragraph (b)(6) of this
+                                             we will use to determine if he or she has    section only if there is evidence
+   (1) Your earnings may show you have       done substantial gainful activity.           showing that you may have done
+done substantial gainful activity.                                                        substantial gainful activity.
+Generally, in evaluating your work           * * * * *
+activity for substantial gainful activity       (b) Earnings guidelines.—(1) General.     * * * * *
+purposes, our primary consideration                                                          (6) Earnings that are not high or low
+will be the earnings you derive from the     If you are an employee, we first consider
+work activity. We will use your earnings     the criteria in paragraph (a) of this        enough to show whether you engaged in
+to determine whether you have done           section and § 416.976, and then the          substantial gainful activity. Unless you
+substantial gainful activity unless we       guides in paragraphs (b)(2), (3), (4), (5),  work in a sheltered workshop or a
+have information from you, your              and (6) of this section. When we review      comparable facility (see paragraph (b)(4)
+employer, or others that shows that we       your earnings to determine if you have       of this section), if your earnings, on the
+should not count all of your earnings.       been performing substantial gainful          average, are between the amounts
+The amount of your earnings from work        activity, we will subtract the value of      shown in paragraphs (b)(2) and (3) of
+you have done (regardless of whether it      any subsidized earnings (see paragraph       this section, we will generally consider
+is unsheltered or sheltered work) may        (a)(2) of this section) and the reasonable   other information in addition to your
+show that you have engaged in                cost of any impairment-related work          earnings, such as whether—
+substantial gainful activity. Generally, if  expenses from your gross earnings (see
+you worked for substantial earnings, we      § 416.976). The resulting amount is the      * * * * *
+will find that you are able to do            amount we use to determine if you have          (c) The unsuccessful work attempt—
+substantial gainful activity. However,       done substantial gainful activity. We
+the fact that your earnings were not         will generally average your earnings for     (1) General. Ordinarily, work you have
+substantial will not necessarily show        comparison with the earnings                 done will not show that you are able to
+that you are not able to do substantial      guidelines in paragraphs (b)(2), (3), (4),   do substantial gainful activity if, after
+gainful activity. We generally consider      and (6) of this section. See § 416.974a      working for a period of 6 months or less,
+work that you are forced to stop or to       for our rules on averaging earnings.         you were forced by your impairment to
+reduce below the substantial gainful                                                      stop working or to reduce the amount of
+activity level after a short time because       (2) Earnings that will ordinarily show    work you do so that your earnings from
+of your impairment to be an                  that you have engaged in substantial         such work fall below the substantial
+unsuccessful work attempt. Your              gainful activity. We will consider that      gainful activity earnings level in
+earnings from an unsuccessful work           your earnings from your work activity as     paragraph (b)(2) of this section and you
+attempt will not show that you are able      an employee (including earnings from         meet the conditions described in
+to do substantial gainful activity. We       sheltered work, see paragraph (b)(4) of      paragraphs (c)(2), (3), (4), and (5) of this
+will use the criteria in paragraph (c) of    this section) show that you have             section.
+this section to determine if the work you    engaged in substantial gainful activity
+did was an unsuccessful work attempt.        if—* * *                                        (2) Event that must precede an
+                                                                                          unsuccessful work attempt. There must
+   (2) We consider only the amounts you         (3) Earnings that will ordinarily show    be a significant break in the continuity
+earn. When we decide whether your            that you have not engaged in substantial     of your work before we will consider
+earnings show that you have done             gainful activity. Unless you work in a       you to have begun a work attempt that
+substantial gainful activity, we do not      sheltered workshop or a comparable           later proved unsuccessful. You must
+consider any income that is not directly     facility (see paragraph (b)(4) of this       have stopped working or reduced your
+related to your productivity. When your      section), we will generally consider that    work and earnings below the substantial
+earnings exceed the reasonable value of      the earnings from your work as an            gainful activity earnings level because of
+the work you perform, we consider only       employee will show that you have not         your impairment or because of the
+that part of your pay which you actually     engaged in substantial gainful activity      removal of special conditions that were
+earn. If your earnings are being             if—* * *                                     essential to the further performance of
+subsidized, we do not consider the                                                        your work. We explain what we mean
+amount of the subsidy when we                   (4) If you work in a sheltered            by special conditions in § 416.973(c).
+determine if your earnings show that         workshop. If you work in a sheltered         We will consider your prior work to be
+                                             workshop or a comparable facility            ‘‘discontinued’’ for a significant period
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00019 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42790  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+if you were out of work at least 30         volunteer in a program explicitly           § 416.975 Evaluation guides if you are self-
+consecutive days. We will also consider     mentioned in the Domestic Volunteer         employed.
+your prior work to be ‘‘discontinued’’ if,  Service Act of 1973 or the Small
+because of your impairment, you were        Business Act. Programs explicitly              (a) If you are a self-employed person.
+forced to change to another type of work    mentioned in those Acts include             If you are working or have worked as a
+or another employer.                        Volunteers in Service to America,           self-employed person, we will use the
+                                            University Year for ACTION, Special         provisions in paragraphs (a) through (d)
+   (3) If you worked 3 months or less. We   Volunteer Programs, Retired Senior          of this section that are relevant to your
+will consider work of 3 months or less      Volunteer Program, Foster Grandparent       work activity. We will use these
+to be an unsuccessful work attempt if       Program, Service Corps of Retired           provisions whenever they are
+you stopped working, or you reduced         Executives, and Active Corps of             appropriate in connection with your
+your work and earnings below the            Executives. We will not exclude under       application for supplemental security
+substantial gainful activity earnings       this paragraph volunteer work you           income benefits (when we make an
+level, because of your impairment or        perform in other programs or any            initial determination on your
+because of the removal of special           nonvolunteer work you may perform,          application and throughout any appeals
+conditions which took into account          including nonvolunteer work under one       you may request). We will consider your
+your impairment and permitted you to        of the specified programs. For civilians    activities and their value to your
+work.                                       in certain government-sponsored job         business to decide whether you have
+                                            training and employment programs, we        engaged in substantial gainful activity if
+   (4) If you worked between 3 and 6        evaluate the work activity on a case-by-    you are self-employed. We will not
+months. We will consider work that          case basis under the substantial gainful    consider your income alone because the
+lasted longer than 3 months to be an        activity earnings test. In programs such    amount of income you actually receive
+unsuccessful work attempt if it ended,      as these, subsidies often occur. We will    may depend on a number of different
+or was reduced below the substantial        subtract the value of any subsidy and       factors, such as capital investment and
+gainful activity earnings level, within 6   use the remainder to determine if you       profit-sharing agreements. We will
+months because of your impairment or        have done substantial gainful activity.     generally consider work that you were
+because of the removal of special           See paragraphs (a)(2)–(3) of this section.  forced to stop or reduce to below
+conditions which took into account                                                      substantial gainful activity after 6
+your impairment and permitted you to           19. A new § 416.974a is added to read    months or less because of your
+work and—                                   as follows:                                 impairment as an unsuccessful work
+                                                                                        attempt. See paragraph (d) of this
+   (i) You were frequently absent from      § 416.974a When and how we will average     section. We will evaluate your work
+work because of your impairment;            your earnings.                              activity based on the value of your
+                                                                                        services to the business regardless of
+   (ii) Your work was unsatisfactory           (a) To determine your initial            whether you receive an immediate
+because of your impairment;                 eligibility for benefits, we will average   income for your services. We determine
+                                            any earnings you make during the            whether you have engaged in
+   (iii) You worked during a period of      month you file for benefits and any         substantial gainful activity by applying
+temporary remission of your                 succeeding months to determine if you       three tests. If you have not engaged in
+impairment; or                              are doing substantial gainful activity. If  substantial gainful activity under test
+                                            your work as an employee or as a self-      one, then we will consider tests two and
+   (iv) You worked under special            employed person was continuous              three. The tests are as follows:
+conditions that were essential to your      without significant change in work
+performance and these conditions were       patterns or earnings, and there has been       (1) Test One: You have engaged in
+removed.                                    no change in the substantial gainful        substantial gainful activity if you render
+                                            activity earnings levels, your earnings     services that are significant to the
+   (5) If you worked more than 6 months.    will be averaged over the entire period     operation of the business and receive a
+We will not consider work you               of work requiring evaluation to             substantial income from the business.
+performed at the substantial gainful        determine if you have done substantial      Paragraphs (b) and (c) of this section
+activity earnings level for more than 6     gainful activity.                           explain what we mean by significant
+months to be an unsuccessful work                                                       services and substantial income for
+attempt regardless of why it ended or          (b) If you work over a period of time    purposes of this test.
+was reduced below the substantial           during which the substantial gainful
+gainful activity earnings level.            activity earnings levels change, we will       (2) Test Two: You have engaged in
+                                            average your earnings separately for        substantial gainful activity if your work
+   (d) Work activity in certain volunteer   each period in which a different            activity, in terms of factors such as
+programs. If you work as a volunteer in     substantial gainful activity earnings       hours, skills, energy output, efficiency,
+certain programs administered by the        level applies.                              duties, and responsibilities, is
+Federal government under the Domestic                                                   comparable to that of unimpaired
+Volunteer Service Act of 1973 or the           (c) If there is a significant change in  individuals in your community who are
+Small Business Act, we will not count       your work pattern or earnings during        in the same or similar businesses as
+any payments you receive from these         the period of work requiring evaluation,    their means of livelihood.
+programs as earnings when we                we will average your earnings over each
+determine whether you are engaging in       separate period of work to determine if        (3) Test Three: You have engaged in
+substantial gainful activity. These         any of your work efforts were               substantial gainful activity if your work
+payments may include a minimal              substantial gainful activity.               activity, although not comparable to that
+stipend, payments for supportive                                                        of unimpaired individuals, is clearly
+services such as housing, supplies and         20. Section 416.975 is amended by        worth the amount shown in
+equipment, an expense allowance, or         revising paragraphs (a) and (c) and         § 416.974(b)(2) when considered in
+reimbursement of out-of-pocket              adding a new paragraph (d) to read as       terms of its value to the business, or
+expenses. We will also disregard the        follows:                                    when compared to the salary that an
+services you perform as a volunteer in
+applying any of the substantial gainful
+activity tests discussed in paragraph
+(b)(6) of this section. This exclusion
+from the substantial gainful activity
+provisions will apply only if you are a
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00020 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations                                            42791
+
+owner would pay to an employee to do          be a significant break in the continuity   (f)(6) as paragraphs (f)(2) through (f)(5),
+the work you are doing.                       of your work before we will consider       respectively.
+                                              you to have begun a work attempt that
+* * * * *                                     later proved unsuccessful. You must        § 416.991 [Amended]
+   (c) What we mean by substantial            have stopped working or reduced your
+                                              work and earnings below substantial           22. Section 416.991 is amended by
+income. We deduct your normal                 gainful activity because of your           removing the parenthetical sentence.
+business expenses from your gross             impairment or because of the removal of
+income to determine net income. Once          special conditions which took into         § 416.992 [Removed and reserved]
+net income is determined, we deduct           account your impairment and permitted
+the reasonable value of any significant       you to work. Examples of such special         23. Section 416.992 is removed and
+amount of unpaid help furnished by            conditions may include any significant     reserved.
+your spouse, children, or others.             amount of unpaid help furnished by
+Miscellaneous duties that ordinarily          your spouse, children, or others, or       § 416.992a [Removed and reserved]
+would not have commercial value               unincurred business expenses, as
+would not be considered significant. We       described in paragraph (c) of this            24. Section 416.992a is removed and
+deduct impairment-related work                section, paid for you by another           reserved.
+expenses that have not already been           individual or agency. We will consider
+deducted in determining your net              your prior work to be ‘‘discontinued’’        25. Section 416.994 is amended as
+income. Impairment-related work               for a significant period if you were out   follows:
+expenses are explained in § 416.976. We       of work at least 30 consecutive days. We
+deduct unincurred business expenses           will also consider your prior work to be      a. By revising the section heading,
+paid for you by another individual or         ‘‘discontinued’’ if, because of your          b. Removing paragraph (b)(3)(v), and
+agency. An unincurred business                impairment, you were forced to change         c. By revising paragraphs (b)(5) and
+expense occurs when a sponsoring              to another type of work.                   (b)(6).
+agency or another person incurs                                                             The revisions to § 416.994 read as
+responsibility for the payment of certain        (3) If you worked 3 months or less. We  follows:
+business expenses, e.g., rent, utilities, or  will consider work of 3 months or less
+purchases and repair of equipment, or         to be an unsuccessful work attempt if it   § 416.994 How we will decide whether your
+provides you with equipment, stock, or        ended, or was reduced below                disability continues or ends, disabled
+other material for the operation of your      substantial gainful activity, because of   adults.
+business. We deduct soil bank payments        your impairment or because of the
+if they were included as farm income.         removal of special conditions which        * * * * *
+That part of your income remaining            took into account your impairment and         (b) * * *
+after we have made all applicable             permitted you to work.                        (5) Evaluation steps. To assure that
+deductions represents the actual value
+of work performed. The resulting                 (4) If you work between 3 and 6         disability reviews are carried out in a
+amount is the amount we use to                months. We will consider work that         uniform manner, that a decision of
+determine if you have done substantial        lasted longer than 3 months to be an       continuing disability can be made in the
+gainful activity. We will generally           unsuccessful work attempt if it ended,     most expeditious and administratively
+average your income for comparison            or was reduced below substantial           efficient way, and that any decisions to
+with the earnings guidelines in               gainful activity, within 6 months          stop disability benefits are made
+§§ 416.974(b)(2) and 416.974(b)(3). See       because of your impairment or because      objectively, neutrally, and are fully
+§ 416.974a for our rules on averaging of      of the removal of special conditions       documented, we will follow specific
+earnings. We will consider this amount        which took into account your               steps in reviewing the question of
+to be substantial if—                         impairment and permitted you to work       whether your disability continues. Our
+                                              and—                                       review may cease and benefits may be
+   (1) It averages more than the amounts                                                 continued at any point if we determine
+described in § 416.974(b)(2); or                 (i) You were frequently unable to       there is sufficient evidence to find that
+                                              work because of your impairment;           you are still unable to engage in
+   (2) It averages less than the amounts                                                 substantial gainful activity. The steps
+described in § 416.974(b)(2) but it is           (ii) Your work was unsatisfactory       are:
+either comparable to what it was before       because of your impairment;
+you became seriously impaired if we                                                         (i) Step 1. Do you have an impairment
+had not considered your earnings or is           (iii) You worked during a period of     or combination of impairments which
+comparable to that of unimpaired self-        temporary remission of your                meets or equals the severity of an
+employed persons in your community            impairment; or                             impairment listed in appendix 1 of
+who are in the same or a similar                                                         subpart P of part 404 of this chapter? If
+business as their means of livelihood.           (iv) You worked under special           you do, your disability will be found to
+                                              conditions that were essential to your     continue.
+   (d) The unsuccessful work attempt.—        performance and these conditions were
+(1) General. Ordinarily, work you have        removed.                                      (ii) Step 2. If you do not, has there
+done will not show that you are able to                                                  been medical improvement as defined
+do substantial gainful activity if, after        (5) If you worked more than 6 months.   in paragraph (b)(1)(i) of this section? If
+working for a period of 6 months or less,     We will not consider work you              there has been medical improvement as
+you were forced by your impairment to         performed at the substantial gainful       shown by a decrease in medical
+stop working or to reduce the amount of       activity level for more than 6 months to   severity, see step 3 in paragraph
+work you do so that you are no longer         be an unsuccessful work attempt            (b)(5)(iii) of this section. If there has
+performing substantial gainful activity       regardless of why it ended or was          been no decrease in medical severity,
+and you meet the conditions described         reduced below the substantial gainful      there has been no medical
+in paragraphs (d)(2), (3), (4), and (5) of    activity level.                            improvement. (See step 4 in paragraph
+this section.                                                                            (b)(5)(iv) of this section.)
+                                              § 416.976 [Amended]
+   (2) Event that must precede an                                                           (iii) Step 3. If there has been medical
+unsuccessful work attempt. There must            21. Section 416.976 is amended by       improvement, we must determine
+                                              removing paragraph (f)(2) and by           whether it is related to your ability to do
+                                              redesignating paragraphs (f)(3) through    work in accordance with paragraphs
+                                                                                         (b)(1)(i) through (b)(1)(iv) of this section;
+                                                                                         i.e., whether or not there has been an
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00021 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+42792  Federal Register / Vol. 65, No. 133 / Tuesday, July 11, 2000 / Rules and Regulations
+
+increase in the residual functional           will no longer be considered to be          conflict between your physician’s and
+capacity based on the impairment(s)           disabled.                                   your statements regarding your
+that was present at the time of the most                                                  awareness of your capacity for work and
+recent favorable medical determination.          (vi) Step 6. If your impairment(s) is    the earlier date is supported by
+If medical improvement is not related to      severe, we will assess your current         substantial evidence; or
+your ability to do work, see step 4 in        ability to engage in substantial gainful
+paragraph (b)(5)(iv) of this section. If      activity in accordance with § 416.961.         (vi) The first month in which you
+medical improvement is related to your        That is, we will assess your residual       failed without good cause to do what we
+ability to do work, see step 5 in             functional capacity based on all your       asked, when the rule set out in
+paragraph (b)(5)(v) of this section.          current impairments and consider            paragraph (b)(4)(ii) of this section
+                                              whether you can still do work you have      applies.
+   (iv) Step 4. If we found at step 2 in      done in the past. If you can do such
+paragraph (b)(5)(ii) of this section that     work, disability will be found to have      * * * * *
+there has been no medical improvement         ended.
+or if we found at step 3 in paragraph                                                     Subpart M—[Amended]
+(b)(5)(iii) of this section that the medical     (vii) Step 7. If you are not able to do
+improvement is not related to your            work you have done in the past, we will        26. The authority citation for subpart
+ability to work, we consider whether          consider one final step. Given the          M of part 416 continues to read as
+any of the exceptions in paragraphs           residual functional capacity assessment     follows:
+(b)(3) and (b)(4) of this section apply. If   and considering your age, education,
+none of them apply, your disability will      and past work experience, can you do           Authority: Secs. 702(a)(5), 1611–1615,
+be found to continue. If one of the first     other work? If you can, disability will be  1619 and 1631 of the Social Security Act (42
+group of exceptions to medical                found to have ended. If you cannot,         U.S.C. 902(a)(5), 1382–1382d, 1382h, and
+improvement applies, see step 5 in            disability will be found to continue.       1383).
+paragraph (b)(5)(v) of this section. If an
+exception from the second group of               (6) The month in which we will find         27. Section 416.1331 is amended by
+exceptions to medical improvement             you are no longer disabled. If the          revising paragraph (a) to read as follows:
+applies, your disability will be found to     evidence shows that you are no longer
+have ended. The second group of               disabled, we will find that your            § 416.1331 Termination of your disability
+exceptions to medical improvement             disability ended in the earliest of the     or blindness payments.
+may be considered at any point in this        following months.
+process.                                                                                     (a) General. The last month for which
+                                                 (i) The month the evidence shows that    we can pay you benefits based on
+   (v) Step 5. If medical improvement is      you are no longer disabled under the        disability is the second month after the
+shown to be related to your ability to do     rules set out in this section, and you      first month in which you are
+work or if one of the first group of          were disabled only for a specified          determined to no longer have a
+exceptions to medical improvement             period of time in the past;                 disabling impairment (described in
+applies, we will determine whether all                                                    § 416.911). (See § 416.1338 for an
+your current impairments in                      (ii) The month the evidence shows        exception to this rule if you are
+combination are severe (see § 416.921).       that you are no longer disabled under       participating in an appropriate
+This determination will consider all          the rules set out in this section, but not  vocational rehabilitation program, and
+your current impairments and the              earlier than the month in which we mail     § 416.261 for an explanation of special
+impact of the combination of these            you a notice saying that the information    benefits for which you may be eligible.)
+impairments on your ability to function.      we have shows that you are not              The last month for which we can pay
+If the residual functional capacity           disabled;                                   you benefits based on blindness is the
+assessment in step 3 in paragraph                                                         second month after the month in which
+(b)(5)(iii) of this section shows                (iii) The month in which you return      your blindness ends (see § 416.986 for
+significant limitation of your ability to     to full-time work, with no significant      when blindness ends). You must meet
+do basic work activities, see step 6 in       medical restrictions and acknowledge        the income, resources, and other
+paragraph (b)(5)(vi) of this section.         that medical improvement has occurred,      eligibility requirements to receive any of
+When the evidence shows that all your         and we expected your impairment(s) to       the benefits described in this paragraph.
+current impairments in combination do         improve (see § 416.991);                    We will also stop payment of your
+not significantly limit your physical or                                                  benefits if you have not cooperated with
+mental abilities to do basic work                (iv) The first month in which you fail   us in getting information about your
+activities, these impairments will not be     without good cause to follow prescribed     disability or blindness.
+considered severe in nature. If so, you       treatment, when the rule set out in
+                                              paragraph (b)(4)(iv) of this section        * * * * *
+                                              applies;
+                                                                                          [FR Doc. 00–17138 Filed 7–10–00; 8:45 am]
+                                                 (v) The first month you were told by
+                                              your physician that you could return to     BILLING CODE 4191–02–U
+                                              work, provided there is no substantial
+
+VerDate 11<MAY>2000 14:32 Jul 10, 2000 Jkt 190000 PO 00000 Frm 00022 Fmt 4701 Sfmt 4700 E:\FR\FM\11JYR2.SGM pfrm07 PsN: 11JYR2
+

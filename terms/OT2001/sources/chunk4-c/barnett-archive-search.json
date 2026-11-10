@@ -1,0 +1,220 @@
+{
+"responseHeader": {
+"status": 0,
+"QTime": 182,
+"params": {
+"query": "collection:us-supreme-court AND ((text:&quot;00-1250&quot; OR text:&quot;00-1250&quot; OR text__reviews:&quot;00-1250&quot;) OR (text:Barnett OR text:Barnett OR text__reviews:Barnett))",
+"qin": "collection:us-supreme-court AND (&quot;00-1250&quot; OR &quot;Barnett&quot;)",
+"fields": "identifier,title",
+"wt": "json",
+"rows": 50,
+"start": 0
+}
+},
+"response": {
+"numFound": 55,
+"start": 0,
+"docs": [
+{
+"identifier": "micro_IA40385608_2063",
+"title": "Brown v. Barnett, 425 U.S. 958 (1976) (No. 75-1268)"
+},
+{
+"identifier": "micro_IA40385006_2140",
+"title": "Barnett v. Alford, 446 U.S. 963 (1980) (No. 79-6376)"
+},
+{
+"identifier": "micro_IA40386416_2548",
+"title": "Lyle v. Atchison, Topeka & Santa Fe Railway Co., 339 U.S. 913 (1950) (No. 567)"
+},
+{
+"identifier": "per_scotus_1881_901",
+"title": "The United States, Appellant, vs. John Barnett and Benjamin F. Caldwell, Doing Business Under the Firm-Name and Style of J Barnett & Company. 1881: Vol 901"
+},
+{
+"identifier": "micro_IA40385014_0450",
+"title": "US Airways, Inc. v. Barnett, 535 U.S. 391 (2002) (No. 00-1250)"
+},
+{
+"identifier": "micro_IA40386004_0440",
+"title": "Baender v. Barnett, 255 U.S. 224 (1921) (No. 614)"
+},
+{
+"identifier": "micro_IA40386006_1753",
+"title": "Turbomeca, S. A. v. Barnett, 525 U.S. 827 (1998) (No. 97-2072)"
+},
+{
+"identifier": "micro_IA40385010_0737",
+"title": "Barnett v. Falvey, 464 U.S. 814 (1983) (No. 82-1636)"
+},
+{
+"identifier": "per_scotus_1891_764",
+"title": "Josiah Barnett, as Assignee, Appellant, vs. Patrick Η. Κιnney 1891: Vol 764"
+},
+{
+"identifier": "micro_IA43086415_0634",
+"title": "Barnett v. Reconstruction Finance Corp., 314 U.S. 641 (1941) (No. 212)"
+},
+{
+"identifier": "micro_IA34086415_1940",
+"title": "Aetna Life Insurance v. Barnett, 321 U.S. 781 (1944) (No. 641)"
+},
+{
+"identifier": "micro_IA40386005_0394",
+"title": "Barnett v. Kunkel, 264 U.S. 16 (1924) (No. 134)"
+},
+{
+"identifier": "per_scotus_1841_88",
+"title": "Barnett and Eliza Levy, Plaintiffs in Error, vs. Edmund and David Fitzpatrick. 1841: Vol 88"
+},
+{
+"identifier": "micro_IA40385009_1759",
+"title": "Barnett Banks, Inc. v. Konstand, 500 U.S. 910 (1991) (No. 90-1396)"
+},
+{
+"identifier": "micro_IA40385013_0604",
+"title": "Barnett Bank of Marion Cty., NA v. Nelson, 517 U.S. 25 (1996) (No. 94-1837)"
+},
+{
+"identifier": "micro_IA40386411_0042",
+"title": "United States v. Barnett, 376 U.S. 681 (1964) (No. 107)"
+},
+{
+"identifier": "micro_IA40385017_1345",
+"title": "Abrams v. Barnett, 521 U.S. 1114 (1997) (No. 96-1267)"
+},
+{
+"identifier": "micro_IA40386008_0062",
+"title": "Mott v. United States, 283 U.S. 747 (1931) (No. 78)"
+},
+{
+"identifier": "micro_IA40386009_0659",
+"title": "Barnett v. Farmon, 534 U.S. 1079 (2002) (No. 01-617)"
+},
+{
+"identifier": "micro_IA40385604_0900",
+"title": "Barnett v. United States, 395 U.S. 907 (1969) (No. 1221)"
+},
+{
+"identifier": "micro_IA34086415_1644",
+"title": "Barnett v. Maryland Casualty Co., 320 U.S. 740 (1943) (No. 110)"
+},
+{
+"identifier": "micro_IA40385003_0922",
+"title": "Barnett v. United States, 423 U.S. 1014 (1975) (No. 75-285)"
+},
+{
+"identifier": "micro_IA40385010_2068",
+"title": "Crowley v. Barnett Bank of Pasco County, 502 U.S. 1092 (1992) (No. 91-833)"
+},
+{
+"identifier": "micro_IA40386417_1292",
+"title": "Barnett v. Jenkins, 344 U.S. 836 (1952) (No. 261)"
+},
+{
+"identifier": "micro_IA40386014_1192",
+"title": "Bennett v. Barnett, 531 U.S. 875 (2000) (No. 00-91)"
+},
+{
+"identifier": "micro_IA40385005_0837",
+"title": "Hopper v. Barnett, 439 U.S. 1041 (1978) (No. 77-477)"
+},
+{
+"identifier": "micro_IA40386014_0804",
+"title": "Barnett v. United States, 529 U.S. 1111 (2000) (No. 99-1576)"
+},
+{
+"identifier": "micro_IA40385006_2605",
+"title": "Blum v. Caldwell, 452 U.S. 909 (1981) (No. 79-2034)"
+},
+{
+"identifier": "micro_IA40386006_1531",
+"title": "Bialczak v. Barnett, 524 U.S. 913 (1998) (No. 97-1833)"
+},
+{
+"identifier": "micro_IA40386417_1615",
+"title": "Terminal Railroad v. Barnett, 345 U.S. 956 (1953) (No. 673)"
+},
+{
+"identifier": "micro_IA40386418_0573",
+"title": "Barnett v. Terminal Railroad, 351 U.S. 953 (1956) (No. 914)"
+},
+{
+"identifier": "micro_IA40385009_2354",
+"title": "Barnett ex rel. Barnett v. Fairfax County School Board, 502 U.S. 859 (1991) (No. 91-62)"
+},
+{
+"identifier": "micro_IA40385011_0205",
+"title": "Barnett v. United States, 464 U.S. 992 (1983) (No. 83-203)"
+},
+{
+"identifier": "micro_IA40386016_1016",
+"title": "DeAtley v. Barnett, 127 S. Ct. 123 (2006) (No. 05-1569)"
+},
+{
+"identifier": "micro_IA40386005_1503",
+"title": "Barnett v. Department of Veterans Affairs, 525 U.S. 1106 (1999) (No. 98-922)"
+},
+{
+"identifier": "micro_IA40385605_0910",
+"title": "Barnett v. Illinois, 402 U.S. 929 (1971) (No. 1409)"
+},
+{
+"identifier": "micro_IA40386020_1754",
+"title": "Barnett v. Colorado, 543 U.S. 817 (2004) (No. 03-1637)"
+},
+{
+"identifier": "micro_IA40385003_1817",
+"title": "Brown v. Barnett, 425 U.S. 958 (1976) (No. 75-1268)"
+},
+{
+"identifier": "micro_IA40385604_1054",
+"title": "Barnett v. Texas, 396 U.S. 910 (1969) (No. 447)"
+},
+{
+"identifier": "micro_IA40385008_1734",
+"title": "Barnett v. Texas, 454 U.S. 806 (1981) (No. 81-5101)"
+},
+{
+"identifier": "micro_IA40385020_1508",
+"title": "Barnett v. Petro-Tex Chemical Corp., 497 U.S. 1025 (1990) (No. 89-1761)"
+},
+{
+"identifier": "micro_IA40385608_1440",
+"title": "Barnett v. United States, 423 U.S. 1014 (1975) (No. 75-285)"
+},
+{
+"identifier": "micro_IA40385010_3216",
+"title": "Barnett v. United Air Lines, Inc., 469 U.S. 1087 (1984) (No. 84-676)"
+},
+{
+"identifier": "micro_IA40385017_1257",
+"title": "First Advantage Insurance v. Green, 517 U.S. 1116 (1996) (No. 94-2130)"
+},
+{
+"identifier": "micro_IA40385009_1658",
+"title": "Jenkins v. Barnett Bank of Pensacola, 499 U.S. 960 (1991) (No. 90-1286)"
+},
+{
+"identifier": "micro_IA40386016_0964",
+"title": "Barnett v. United States (No. 05-1515)"
+},
+{
+"identifier": "per_scotus_1886_22",
+"title": "Mary Wall, Watson Wall, Susan B. Shoaff, John A. Shoaff, Byron Hueston Barnett, and James William Barnett, Appellants, vs. George P. Bissell, Abraham G. Barnett, Nancy C. Barnett, Susan M. Barnett, John E. Hill, et al. 1886: Vol 22"
+},
+{
+"identifier": "micro_IA34086415_1645",
+"title": "Continental Casualty Co. v. Barnett, 320 U.S. 740 (1943) (No. 219)"
+},
+{
+"identifier": "micro_IA40386010_1580",
+"title": "Barnett v. Denver Publishing Co., 535 U.S. 1056 (2002) (No. 01-1367)"
+},
+{
+"identifier": "micro_IA40386015_0352",
+"title": "Loskill v. Barnett Banks, Inc. Severance Pay Plan, 537 U.S. 1167 (2003) (No. 02-347)"
+}
+]
+}
+}

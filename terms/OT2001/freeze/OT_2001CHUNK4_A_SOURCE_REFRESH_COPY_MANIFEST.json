@@ -1,0 +1,27 @@
+[
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_SOURCE_REFRESH_MICKENS_NEUTRAL.md",
+    "bytes": 23832,
+    "sha256": "3a7ac341a26bb95c2fc950351e2936b599615aeb1c9d3bd53b32ddd4d970a2c1"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_SOURCE_REFRESH_WALTON_NEUTRAL.md",
+    "bytes": 71782,
+    "sha256": "c67760ab6b97f4abf54ddadf50077a45dfc4203b1c128f2d5e819414d5f6edf3"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_SOURCE_REFRESH_SAO_PAULO_NEUTRAL.md",
+    "bytes": 10340,
+    "sha256": "062ed3e539d5689bcb12c717f605cb4ead026ea8d94dbd0a1c7106a6b2970d24"
+  },
+  {
+    "path": "terms/OT2001/freeze/OT_2001CHUNK4_A_SOURCE_REFRESH_NEUTRAL.md",
+    "bytes": 106369,
+    "sha256": "86c3554f599b5de9febaec0a5d9357b52048377ef7558f9dd63ecb87a8f574f4"
+  },
+  {
+    "path": "terms/OT2001/sources/chunk4-control/walton-2000-rule-reading-order.txt",
+    "bytes": 156616,
+    "sha256": "f64382fc58d024db0cd67266f0b8f621613c8c835f5bc4db8fe747264aa3a27f"
+  }
+]

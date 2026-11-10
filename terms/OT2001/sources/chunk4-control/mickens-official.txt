@@ -1,0 +1,2282 @@
+Source: https://www.govinfo.gov/content/pkg/USREPORTS-535/pdf/USREPORTS-535-162.pdf
+
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+162  OCTOBER TERM, 2001
+
+     Syllabus
+
+                MICKENS v. TAYLOR, WARDEN
+
+certiorari to the united states court of appeals for
+                          the fourth circuit
+
+    No. 00–9285. Argued November 5, 2001—Decided March 27, 2002
+
+A Virginia jury convicted petitioner of the premeditated murder of Timo-
+   thy Hall during or following the commission of an attempted forcible
+   sodomy, and sentenced petitioner to death. Petitioner ﬁled a federal
+   habeas petition alleging, inter alia, that he was denied effective assist-
+   ance of counsel because one of his court-appointed attorneys had a con-
+   ﬂict of interest at trial. Petitioner’s lead attorney, Bryan Saunders, had
+   represented Hall on assault and concealed-weapons charges at the time
+   of the murder. The same juvenile court judge who dismissed the
+   charges against Hall later appointed Saunders to represent petitioner.
+   Saunders did not disclose to the court, his co-counsel, or petitioner that
+   he had previously represented Hall. The District Court denied habeas
+   relief, and an en banc majority of the Fourth Circuit afﬁrmed. The
+   majority rejected petitioner’s argument that the juvenile court judge’s
+   failure to inquire into a potential conﬂict either mandated automatic
+   reversal of his conviction or relieved him of the burden of showing that
+   a conﬂict of interest adversely affected his representation. The court
+   concluded that petitioner had not demonstrated adverse effect.
+
+Held: In order to demonstrate a Sixth Amendment violation where the
+   trial court fails to inquire into a potential conﬂict of interest about which
+   it knew or reasonably should have known, a defendant must establish
+   that a conﬂict of interest adversely affected his counsel’s performance.
+   Pp. 166–176.
+      (a) A defendant alleging ineffective assistance generally must demon-
+   strate a reasonable probability that, but for counsel’s unprofessional er-
+   rors, the result of the proceeding would have been different. Strick-
+   land v. Washington, 466 U. S. 668, 694. An exception to this general
+   rule presumes a probable effect upon the outcome where assistance of
+   counsel has been denied entirely or during a critical stage of the pro-
+   ceeding. The Court has held in several cases that “circumstances of
+   that magnitude,” United States v. Cronic, 466 U. S. 648, 659, n. 26, may
+   also arise when the defendant’s attorney actively represented conﬂicting
+   interests. In Holloway v. Arkansas, 435 U. S. 475, the Court created
+   an automatic reversal rule where counsel is forced to represent co-
+   defendants over his timely objection, unless the trial court has deter-
+   mined that there is no conﬂict. In Cuyler v. Sullivan, 446 U. S. 335,
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          163
+
+                                            Syllabus
+
+   the Court declined to extend Holloway and held that, absent objection,
+   a defendant must demonstrate that a conﬂict of interest actually af-
+   fected the adequacy of his representation, 446 U. S., at 348–349. Fi-
+   nally, in Wood v. Georgia, 450 U. S. 261, the Court granted certiorari to
+   consider an equal-protection violation, but then remanded for the trial
+   court to determine whether a conﬂict of interest that the record
+   strongly suggested actually existed, id., at 273. Pp. 166–170.
+
+      (b) This Court rejects petitioner’s argument that the remand instruc-
+   tion in Wood, directing the trial court to grant a new hearing if it deter-
+   mined that “an actual conﬂict of interest existed,” 450 U. S., at 273, es-
+   tablished that where the trial judge neglects a duty to inquire into a
+   potential conﬂict the defendant, to obtain reversal, need only show that
+   his lawyer was subject to a conﬂict of interest, not that the conﬂict
+   adversely affected counsel’s performance. As used in the remand in-
+   struction, “an actual conﬂict of interest” meant precisely a conﬂict that
+   affected counsel’s performance—as opposed to a mere theoretical divi-
+   sion of loyalties. It was shorthand for Sullivan’s statement that
+   “a defendant who shows that a conﬂict of interest actually affected the
+   adequacy of his representation need not demonstrate prejudice in order
+   to obtain relief,” 446 U. S., at 349–350 (emphasis added). The notion
+   that Wood created a new rule sub silentio is implausible. Moreover,
+   petitioner’s proposed rule of automatic reversal makes little policy
+   sense. Thus, to void the conviction petitioner had to establish, at a
+   minimum, that the conﬂict of interest adversely affected his counsel’s
+   performance. The Fourth Circuit having found no such effect, the de-
+   nial of habeas relief must be afﬁrmed. Pp. 170–174.
+
+      (c) The case was presented and argued on the assumption that (absent
+   some exception for failure to inquire) Sullivan would be applicable to a
+   conﬂict rooted in counsel’s obligations to former clients. The Court
+   does not rule upon the correctness of that assumption. Pp. 174–176.
+
+240 F. 3d 348, afﬁrmed.
+
+   Scalia, J., delivered the opinion of the Court, in which Rehnquist,
+C. J., and O’Connor, Kennedy, and Thomas, JJ., joined. Kennedy, J.,
+ﬁled a concurring opinion, in which O’Connor, J., joined, post, p. 176.
+Stevens, J., post, p. 179, and Souter, J., post, p. 189, ﬁled dissenting
+opinions. Breyer, J., ﬁled a dissenting opinion, in which Ginsburg, J.,
+joined, post, p. 209.
+
+   Robert J. Wagner, by appointment of the Court, 533 U. S.
+927, argued the cause for petitioner. With him on the briefs
+were Robert E. Lee and Mark E. Olive.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+164  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+   Robert Q. Harris, Assistant Attorney General of Virginia,
+argued the cause for respondent. With him on the brief was
+Randolph A. Beales, Attorney General.
+
+   Irving L. Gornstein argued the cause for the United
+States as amicus curiae urging afﬁrmance. On the brief
+were Solicitor General Olson, Assistant Attorney General
+Chertoff, Deputy Solicitor General Dreeben, Gregory G.
+Garre, and Joel M. Gershowitz.*
+
+   Justice Scalia delivered the opinion of the Court.
+
+   The question presented in this case is what a defendant
+must show in order to demonstrate a Sixth Amendment vio-
+lation where the trial court fails to inquire into a potential
+conﬂict of interest about which it knew or reasonably should
+have known.
+
+                                        I
+
+   In 1993, a Virginia jury convicted petitioner Mickens of
+the premeditated murder of Timothy Hall during or follow-
+ing the commission of an attempted forcible sodomy. Find-
+ing the murder outrageously and wantonly vile, it sentenced
+petitioner to death. In June 1998, Mickens ﬁled a petition
+for writ of habeas corpus, see 28 U. S. C. § 2254 (1994 ed. and
+Supp. V), in the United States District Court for the Eastern
+District of Virginia, alleging, inter alia, that he was denied
+effective assistance of counsel because one of his court-
+appointed attorneys had a conﬂict of interest at trial. Fed-
+eral habeas counsel had discovered that petitioner’s lead trial
+attorney, Bryan Saunders, was representing Hall (the vic-
+tim) on assault and concealed-weapons charges at the time
+of the murder. Saunders had been appointed to represent
+Hall, a juvenile, on March 20, 1992, and had met with him
+once for 15 to 30 minutes some time the following week.
+Hall’s body was discovered on March 30, 1992, and four days
+
+   *Kent S. Scheidegger ﬁled a brief for the Criminal Justice Legal Founda-
+tion as amicus curiae urging afﬁrmance.
+
+   Lawrence J. Fox ﬁled a brief for Legal Ethicists et al. as amici curiae.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          165
+
+                                    Opinion of the Court
+
+later a juvenile court judge dismissed the charges against
+him, noting on the docket sheet that Hall was deceased.
+The one-page docket sheet also listed Saunders as Hall’s
+counsel. On April 6, 1992, the same judge appointed Saun-
+ders to represent petitioner. Saunders did not disclose to
+the court, his co-counsel, or petitioner that he had previously
+represented Hall. Under Virginia law, juvenile case ﬁles are
+conﬁdential and may not generally be disclosed without a
+court order, see Va. Code Ann. § 16.1–305 (1999), but peti-
+tioner learned about Saunders’ prior representation when
+a clerk mistakenly produced Hall’s ﬁle to federal habeas
+counsel.
+
+   The District Court held an evidentiary hearing and denied
+petitioner’s habeas petition. A divided panel of the Court
+of Appeals for the Fourth Circuit reversed, 227 F. 3d 203
+(2000), and the Court of Appeals granted rehearing en banc,
+240 F. 3d 348 (2001). As an initial matter, the 7-to-3 en banc
+majority determined that petitioner’s failure to raise his
+conﬂict-of-interest claim in state court did not preclude re-
+view, concluding that petitioner had established cause and
+that the “inquiry as to prejudice for purposes of excusing
+[petitioner’s] default . . . incorporates the test for evaluating
+his underlying conﬂict of interest claim.” Id., at 356–357.
+On the merits, the Court of Appeals assumed that the juve-
+nile court judge had neglected a duty to inquire into a poten-
+tial conﬂict, but rejected petitioner’s argument that this
+failure either mandated automatic reversal of his conviction
+or relieved him of the burden of showing that a conﬂict of
+interest adversely affected his representation. Relying on
+Cuyler v. Sullivan, 446 U. S. 335 (1980), the court held that
+a defendant must show “both an actual conﬂict of interest
+and an adverse effect even if the trial court failed to inquire
+into a potential conﬂict about which it reasonably should
+have known,” 240 F. 3d, at 355–356. Concluding that peti-
+tioner had not demonstrated adverse effect, id., at 360, it
+afﬁrmed the District Court’s denial of habeas relief. We
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+166  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+granted a stay of execution of petitioner’s sentence and
+granted certiorari. 532 U. S. 970 (2001).
+
+                                       II
+
+   The Sixth Amendment provides that a criminal defendant
+shall have the right to “the Assistance of Counsel for his
+defence.” This right has been accorded, we have said, “not
+for its own sake, but because of the effect it has on the ability
+of the accused to receive a fair trial.” United States v.
+Cronic, 466 U. S. 648, 658 (1984). It follows from this that
+assistance which is ineffective in preserving fairness does
+not meet the constitutional mandate, see Strickland v. Wash-
+ington, 466 U. S. 668, 685–686 (1984); and it also follows that
+defects in assistance that have no probable effect upon the
+trial’s outcome do not establish a constitutional violation.
+As a general matter, a defendant alleging a Sixth Amend-
+ment violation must demonstrate “a reasonable probability
+that, but for counsel’s unprofessional errors, the result of the
+proceeding would have been different.” Id., at 694.
+
+   There is an exception to this general rule. We have
+spared the defendant the need of showing probable effect
+upon the outcome, and have simply presumed such effect,
+where assistance of counsel has been denied entirely or dur-
+ing a critical stage of the proceeding. When that has oc-
+curred, the likelihood that the verdict is unreliable is so high
+that a case-by-case inquiry is unnecessary. See Cronic,
+supra, at 658–659; see also Geders v. United States, 425 U. S.
+80, 91 (1976); Gideon v. Wainwright, 372 U. S. 335, 344–345
+(1963). But only in “circumstances of that magnitude” do
+we forgo individual inquiry into whether counsel’s inade-
+quate performance undermined the reliability of the verdict.
+Cronic, supra, at 659, n. 26.
+
+   We have held in several cases that “circumstances of that
+magnitude” may also arise when the defendant’s attorney
+actively represented conﬂicting interests. The nub of the
+question before us is whether the principle established by
+these cases provides an exception to the general rule of
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          167
+
+                                    Opinion of the Court
+
+Strickland under the circumstances of the present case. To
+answer that question, we must examine those cases in some
+detail.1
+
+   In Holloway v. Arkansas, 435 U. S. 475 (1978), defense
+counsel had objected that he could not adequately represent
+the divergent interests of three codefendants. Id., at 478–
+480. Without inquiry, the trial court had denied counsel’s
+motions for the appointment of separate counsel and had
+refused to allow counsel to cross-examine any of the defend-
+ants on behalf of the other two. The Holloway Court de-
+ferred to the judgment of counsel regarding the existence of
+a disabling conﬂict, recognizing that a defense attorney is in
+the best position to determine when a conﬂict exists, that he
+has an ethical obligation to advise the court of any problem,
+and that his declarations to the court are “virtually made
+
+   1 Justice Breyer rejects Holloway v. Arkansas, 435 U. S. 475 (1978),
+Cuyler v. Sullivan, 446 U. S. 335 (1980), and Wood v. Georgia, 450 U. S.
+261 (1981), as “a sensible [and] coherent framework for dealing with” this
+case, post, at 209 (dissenting opinion), and proposes instead the “categori-
+cal rule,” post, at 211, that when a “breakdown in the criminal justice
+system creates . . . the appearance that the proceeding will not reliably
+serve its function as a vehicle for determination of guilt and innocence,
+and the resulting criminal punishment will not be regarded as fundamen-
+tally fair,” ibid. (internal quotation marks omitted), reversal must be de-
+creed without proof of prejudice. This seems to us less a categorical rule
+of decision than a restatement of the issue to be decided. Holloway, Sul-
+livan, and Wood establish the framework that they do precisely because
+that framework is thought to identify the situations in which the convic-
+tion will reasonably not be regarded as fundamentally fair. We believe it
+eminently performs that function in the case at hand, and that Justice
+Breyer is mistaken to think otherwise. But if he does think otherwise,
+a proper regard for the judicial function—and especially for the function
+of this Court, which must lay down rules that can be followed in the innu-
+merable cases we are unable to review—would counsel that he propose
+some other “sensible [and] coherent framework,” rather than merely say-
+ing that prior representation of the victim, plus the capital nature of the
+case, plus judicial appointment of the counsel, see post, at 210, strikes him
+as producing a result that will not be regarded as fundamentally fair.
+This is not a rule of law but expression of an ad hoc “fairness” judgment
+(with which we disagree).
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+168  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+under oath.” Id., at 485–486 (internal quotation marks
+omitted). Holloway presumed, moreover, that the conﬂict,
+“which [the defendant] and his counsel tried to avoid by
+timely objections to the joint representation,” id., at 490, un-
+dermined the adversarial process. The presumption was
+justiﬁed because joint representation of conﬂicting interests
+is inherently suspect, and because counsel’s conﬂicting obli-
+gations to multiple defendants “effectively sea[l] his lips on
+crucial matters” and make it difﬁcult to measure the precise
+harm arising from counsel’s errors. Id., at 489–490. Hol-
+loway thus creates an automatic reversal rule only where
+defense counsel is forced to represent codefendants over his
+timely objection, unless the trial court has determined that
+there is no conﬂict. Id., at 488 (“[W]henever a trial court
+improperly requires joint representation over timely objec-
+tion reversal is automatic”).
+
+   In Cuyler v. Sullivan, 446 U. S. 335 (1980), the respondent
+was one of three defendants accused of murder who were
+tried separately, represented by the same counsel. Neither
+counsel nor anyone else objected to the multiple representa-
+tion, and counsel’s opening argument at Sullivan’s trial sug-
+gested that the interests of the defendants were aligned.
+Id., at 347–348. We declined to extend Holloway’s auto-
+matic reversal rule to this situation and held that, absent
+objection, a defendant must demonstrate that “a conﬂict of
+interest actually affected the adequacy of his representa-
+tion.” 446 U. S., at 348–349. In addition to describing the
+defendant’s burden of proof, Sullivan addressed separately
+a trial court’s duty to inquire into the propriety of a multiple
+representation, construing Holloway to require inquiry only
+when “the trial court knows or reasonably should know that
+a particular conﬂict exists,” 446 U. S., at 347 2—which is not
+
+   2 In order to circumvent Sullivan’s clear language, Justice Stevens
+suggests that a trial court must scrutinize representation by appointed
+counsel more closely than representation by retained counsel. Post, at
+184 (dissenting opinion). But we have already rejected the notion that
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          169
+
+                                    Opinion of the Court
+
+to be confused with when the trial court is aware of a vague,
+unspeciﬁed possibility of conﬂict, such as that which “inheres
+in almost every instance of multiple representation,” id., at
+348. In Sullivan, no “special circumstances” triggered the
+trial court’s duty to inquire. Id., at 346.
+
+   Finally, in Wood v. Georgia, 450 U. S. 261 (1981), three
+indigent defendants convicted of distributing obscene mate-
+rials had their probation revoked for failure to make the req-
+uisite $500 monthly payments on their $5,000 ﬁnes. We
+granted certiorari to consider whether this violated the
+Equal Protection Clause, but during the course of our consid-
+eration certain disturbing circumstances came to our atten-
+tion: At the probation-revocation hearing (as at all times
+since their arrest) the defendants had been represented by
+the lawyer for their employer (the owner of the business that
+purveyed the obscenity), and their employer paid the attor-
+ney’s fees. The employer had promised his employees he
+would pay their ﬁnes, and had generally kept that promise
+but had not done so in these defendants’ case. This record
+suggested that the employer’s interest in establishing a fa-
+vorable equal-protection precedent (reducing the ﬁnes he
+would have to pay for his indigent employees in the future)
+diverged from the defendants’ interest in obtaining leniency
+or paying lesser ﬁnes to avoid imprisonment. Moreover, the
+possibility that counsel was actively representing the con-
+ﬂicting interests of employer and defendants “was sufﬁ-
+ciently apparent at the time of the revocation hearing to im-
+pose upon the court a duty to inquire further.” Id., at 272.
+
+the Sixth Amendment draws such a distinction. “A proper respect for
+the Sixth Amendment disarms [the] contention that defendants who retain
+their own lawyers are entitled to less protection than defendants for whom
+the State appoints counsel . . . . The vital guarantee of the Sixth Amend-
+ment would stand for little if the often uninformed decision to retain a
+particular lawyer could reduce or forfeit the defendant’s entitlement to
+constitutional protection.” Sullivan, supra, at 344.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+170  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+Because “[o]n the record before us, we [could not] be sure
+whether counsel was inﬂuenced in his basic strategic deci-
+sions by the interests of the employer who hired him,” ibid.,
+we remanded for the trial court “to determine whether the
+conﬂict of interest that this record strongly suggests actually
+existed,” id., at 273.
+
+   Petitioner argues that the remand instruction in Wood es-
+tablished an “unambiguous rule” that where the trial judge
+neglects a duty to inquire into a potential conﬂict, the de-
+fendant, to obtain reversal of the judgment, need only show
+that his lawyer was subject to a conﬂict of interest, and need
+not show that the conﬂict adversely affected counsel’s per-
+formance. Brief for Petitioner 21.3 He relies upon the lan-
+
+   3 Petitioner no longer argues, as he did below and as Justice Souter
+does now, post, at 202 (dissenting opinion), that the Sixth Amendment
+requires reversal of his conviction without further inquiry into whether
+the potential conﬂict that the judge should have investigated was real.
+Compare 240 F. 3d 348, 357 (CA4 2001) (en banc), with Tr. of Oral Arg.
+23–25. Some Courts of Appeals have read a footnote in Wood v. Georgia,
+450 U. S., at 272, n. 18, as establishing that outright reversal is mandated
+when the trial court neglects a duty to inquire into a potential conﬂict of
+interest. See, e. g., Campbell v. Rice, 265 F. 3d 878, 884–885, 888 (CA9
+2001); Ciak v. United States, 59 F. 3d 296, 302 (CA2 1995). But see Brien
+v. United States, 695 F. 2d 10, 15, n. 10 (CA1 1982). The Wood footnote
+says that Sullivan does not preclude “raising . . . a conﬂict-of-interest
+problem that is apparent in the record” and that “Sullivan mandates a
+reversal when the trial court has failed to make [the requisite] inquiry.”
+Wood, supra, at 272, n. 18. These statements were made in response to
+the dissent’s contention that the majority opinion had “gone beyond”
+Cuyler v. Sullivan, see 450 U. S., at 272, n. 18, in reaching a conﬂict-of-
+interest due process claim that had been raised neither in the petition for
+certiorari nor before the state courts, see id., at 280 (White, J., dissenting).
+To the extent the “mandates a reversal” statement goes beyond the asser-
+tion of mere jurisdiction to reverse, it is dictum—and dictum inconsistent
+with the disposition in Wood, which was not to reverse but to vacate and
+remand for the trial court to conduct the inquiry it had omitted.
+
+   Justice Souter labors to suggest that the Wood remand order is part
+of “a coherent scheme,” post, at 194, in which automatic reversal is re-
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          171
+
+                                    Opinion of the Court
+
+guage in the remand instruction directing the trial court to
+grant a new revocation hearing if it determines that “an
+actual conﬂict of interest existed,” Wood, supra, at 273,
+without requiring a further determination that the conﬂict
+adversely affected counsel’s performance. As used in the
+remand instruction, however, we think “an actual conﬂict of
+interest” meant precisely a conﬂict that affected counsel’s
+performance—as opposed to a mere theoretical division of
+loyalties. It was shorthand for the statement in Sullivan
+that “a defendant who shows that a conﬂict of interest actu-
+ally affected the adequacy of his representation need not
+demonstrate prejudice in order to obtain relief.” 446 U. S.,
+at 349–350 (emphasis added).4 This is the only interpreta-
+
+quired when the trial judge fails to inquire into a potential conﬂict that
+was apparent before the proceeding was “held or completed,” but a de-
+fendant must demonstrate adverse effect when the judge fails to inquire
+into a conﬂict that was not apparent before the end of the proceeding, post,
+at 202. The problem with this carefully concealed “coherent scheme” (no
+case has ever mentioned it) is that in Wood itself the court did not decree
+automatic reversal, even though it found that “the possibility of a conﬂict
+of interest was sufﬁciently apparent at the time of the revocation hearing
+to impose upon the court a duty to inquire further.” 450 U. S., at 272
+(second emphasis added). Indeed, the State had actually notiﬁed the
+judge of a potential conﬂict of interest “ ‘[d]uring the probation revocation
+hearing.’ ” Id., at 272, and n. 20. Justice Souter’s statement that “the
+signs that a conﬂict may have occurred were clear to the judge at the close
+of the probation revocation proceeding,” post, at 201—when it became ap-
+parent that counsel had neglected the “strategy more obviously in the
+defendants’ interest, of requesting the court to reduce the ﬁnes or defer
+their collection,” post, at 198—would more accurately be phrased “the ef-
+fect of the conﬂict upon counsel’s performance was clear to the judge at
+the close of the probation revocation proceeding.”
+
+   4 Justice Stevens asserts that this reading (and presumably Justice
+Souter’s reading as well, post, at 201), is wrong, post, at 186–187; that
+Wood only requires petitioner to show that a real conﬂict existed, not
+that it affected counsel’s performance, post, at 187. This is so because we
+“unambiguously stated” that a conviction must be reversed whenever the
+trial court fails to investigate a potential conﬂict, post, at 186–187 (citing
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+172  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+tion consistent with the Wood Court’s earlier description of
+why it could not decide the case without a remand: “On the
+record before us, we cannot be sure whether counsel was
+inﬂuenced in his basic strategic decisions by the interests
+of the employer who hired him. If this was the case, the
+due process rights of petitioners were not respected . . . .”
+450 U. S., at 272 (emphasis added). The notion that Wood
+created a new rule sub silentio—and in a case where certio-
+rari had been granted on an entirely different question, and
+the parties had neither briefed nor argued the conﬂict-of-
+interest issue—is implausible.5
+
+   Petitioner’s proposed rule of automatic reversal when
+there existed a conﬂict that did not affect counsel’s perform-
+ance, but the trial judge failed to make the Sullivan-
+mandated inquiry, makes little policy sense. As discussed,
+the rule applied when the trial judge is not aware of the
+
+Wood footnote). As we have explained earlier, n. 3, supra, this dictum
+simply contradicts the remand order in Wood.
+
+   5 We have used “actual conﬂict of interest” elsewhere to mean what was
+required to be shown in Sullivan. See United States v. Cronic, 466 U. S.
+648, 662, n. 31 (1984) (“[W]e have presumed prejudice when counsel labors
+under an actual conﬂict of interest . . . . See Cuyler v. Sullivan, 446 U. S.
+335 (1980)”). And we have used “conﬂict of interest” to mean a division
+of loyalties that affected counsel’s performance. In Holloway, 435 U. S.,
+at 482, we described our earlier opinion in Glasser v. United States, 315
+U. S. 60 (1942), as follows:
+
+   “The record disclosed that Stewart failed to cross-examine a Govern-
+ment witness whose testimony linked Glasser with the conspiracy and
+failed to object to the admission of arguably inadmissible evidence. This
+failure was viewed by the Court as a result of Stewart’s desire to protect
+Kretske’s interests, and was thus ‘indicative of Stewart’s struggle to serve
+two masters . . . .’ [315 U. S.], at 75. After identifying this conﬂict of
+interests, the Court declined to inquire whether the prejudice ﬂowing from
+it was harmless and instead ordered Glasser’s conviction reversed.” (Em-
+phasis added.)
+
+Thus, the Sullivan standard is not properly read as requiring inquiry into
+actual conﬂict as something separate and apart from adverse effect. An
+“actual conﬂict,” for Sixth Amendment purposes, is a conﬂict of interest
+that adversely affects counsel’s performance.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          173
+
+                                    Opinion of the Court
+
+conﬂict (and thus not obligated to inquire) is that prejudice
+will be presumed only if the conﬂict has signiﬁcantly affected
+counsel’s performance—thereby rendering the verdict unre-
+liable, even though Strickland prejudice cannot be shown.
+See Sullivan, supra, at 348–349. The trial court’s aware-
+ness of a potential conﬂict neither renders it more likely that
+counsel’s performance was signiﬁcantly affected nor in any
+other way renders the verdict unreliable. Cf. United States
+v. Cronic, 466 U. S., at 662, n. 31. Nor does the trial judge’s
+failure to make the Sullivan-mandated inquiry often make it
+harder for reviewing courts to determine conﬂict and effect,
+particularly since those courts may rely on evidence and tes-
+timony whose importance only becomes established at the
+trial.
+
+   Nor, ﬁnally, is automatic reversal simply an appropriate
+means of enforcing Sullivan’s mandate of inquiry. Despite
+Justice Souter’s belief that there must be a threat of sanc-
+tion (to wit, the risk of conferring a windfall upon the defend-
+ant) in order to induce “resolutely obdurate” trial judges to
+follow the law, post, at 208, we do not presume that judges
+are as careless or as partial as those police ofﬁcers who need
+the incentive of the exclusionary rule, see United States v.
+Leon, 468 U. S. 897, 916–917 (1984). And in any event, the
+Sullivan standard, which requires proof of effect upon repre-
+sentation but (once such effect is shown) presumes prejudice,
+already creates an “incentive” to inquire into a potential con-
+ﬂict. In those cases where the potential conﬂict is in fact an
+actual one, only inquiry will enable the judge to avoid all
+possibility of reversal by either seeking waiver or replacing
+a conﬂicted attorney. We doubt that the deterrence of “judi-
+cial dereliction” that would be achieved by an automatic re-
+versal rule is signiﬁcantly greater.
+
+   Since this was not a case in which (as in Holloway) counsel
+protested his inability simultaneously to represent multiple
+defendants; and since the trial court’s failure to make the
+Sullivan-mandated inquiry does not reduce the petitioner’s
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+174  MICKENS v. TAYLOR
+
+                                    Opinion of the Court
+
+burden of proof; it was at least necessary, to void the convic-
+tion, for petitioner to establish that the conﬂict of interest
+adversely affected his counsel’s performance. The Court of
+Appeals having found no such effect, see 240 F. 3d, at 360,
+the denial of habeas relief must be afﬁrmed.
+
+                                       III
+
+   Lest today’s holding be misconstrued, we note that the
+only question presented was the effect of a trial court’s fail-
+ure to inquire into a potential conﬂict upon the Sullivan rule
+that deﬁcient performance of counsel must be shown. The
+case was presented and argued on the assumption that (ab-
+sent some exception for failure to inquire) Sullivan would
+be applicable—requiring a showing of defective perform-
+ance, but not requiring in addition (as Strickland does in
+other ineffectiveness-of-counsel cases), a showing of probable
+effect upon the outcome of trial. That assumption was not
+unreasonable in light of the holdings of Courts of Appeals,
+which have applied Sullivan “unblinkingly” to “all kinds of
+alleged attorney ethical conﬂicts,” Beets v. Scott, 65 F. 3d
+1258, 1266 (CA5 1995) (en banc). They have invoked the
+Sullivan standard not only when (as here) there is a conﬂict
+rooted in counsel’s obligations to former clients, see, e. g.,
+Perillo v. Johnson, 205 F. 3d 775, 797–799 (CA5 2000);
+Freund v. Butterworth, 165 F. 3d 839, 858–860 (CA11 1999);
+Mannhalt v. Reed, 847 F. 2d 576, 580 (CA9 1988); United
+States v. Young, 644 F. 2d 1008, 1013 (CA4 1981), but even
+when representation of the defendant somehow implicates
+counsel’s personal or ﬁnancial interests, including a book
+deal, United States v. Hearst, 638 F. 2d 1190, 1193 (CA9
+1980), a job with the prosecutor’s ofﬁce, Garcia v. Bunnell,
+33 F. 3d 1193, 1194–1195, 1198, n. 4 (CA9 1994), the teaching
+of classes to Internal Revenue Service agents, United States
+v. Michaud, 925 F. 2d 37, 40–42 (CA1 1991), a romantic “en-
+tanglement” with the prosecutor, Summerlin v. Stewart, 267
+F. 3d 926, 935–941 (CA9 2001), or fear of antagonizing the
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          175
+
+                                    Opinion of the Court
+
+trial judge, United States v. Sayan, 968 F. 2d 55, 64–65
+(CADC 1992).
+
+   It must be said, however, that the language of Sullivan
+itself does not clearly establish, or indeed even support, such
+expansive application. “[U]ntil,” it said, “a defendant shows
+that his counsel actively represented conﬂicting interests,
+he has not established the constitutional predicate for his
+claim of ineffective assistance.” 446 U. S., at 350 (emphasis
+added). Both Sullivan itself, see id., at 348–349, and Hol-
+loway, see 435 U. S., at 490–491, stressed the high probabil-
+ity of prejudice arising from multiple concurrent representa-
+tion, and the difﬁculty of proving that prejudice. See also
+Geer, Representation of Multiple Criminal Defendants: Con-
+ﬂicts of Interest and the Professional Responsibilities of the
+Defense Attorney, 62 Minn. L. Rev. 119, 125–140 (1978); Low-
+enthal, Joint Representation in Criminal Cases: A Critical
+Appraisal, 64 Va. L. Rev. 939, 941–950 (1978). Not all attor-
+ney conﬂicts present comparable difﬁculties. Thus, the Fed-
+eral Rules of Criminal Procedure treat concurrent represen-
+tation and prior representation differently, requiring a trial
+court to inquire into the likelihood of conﬂict whenever
+jointly charged defendants are represented by a single attor-
+ney (Rule 44(c)), but not when counsel previously repre-
+sented another defendant in a substantially related matter,
+even where the trial court is aware of the prior representa-
+tion.6 See Sullivan, supra, at 346, n. 10 (citing the Rule).
+
+   6 Federal Rule of Criminal Procedure 44(c) provides:
+   “Whenever two or more defendants have been jointly charged pursuant
+to Rule 8(b) or have been joined for trial pursuant to Rule 13, and are
+represented by the same retained or assigned counsel or by retained or
+assigned counsel who are associated in the practice of law, the court shall
+promptly inquire with respect to such joint representation and shall per-
+sonally advise each defendant of the right to the effective assistance of
+counsel, including separate representation. Unless it appears that there
+is good cause to believe no conﬂict of interest is likely to arise, the court
+shall take such measures as may be appropriate to protect each defend-
+ant’s right to counsel.”
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+176  MICKENS v. TAYLOR
+
+                                 Kennedy, J., concurring
+
+   This is not to suggest that one ethical duty is more or less
+important than another. The purpose of our Holloway and
+Sullivan exceptions from the ordinary requirements of
+Strickland, however, is not to enforce the Canons of Legal
+Ethics, but to apply needed prophylaxis in situations where
+Strickland itself is evidently inadequate to assure vindica-
+tion of the defendant’s Sixth Amendment right to counsel.
+See Nix v. Whiteside, 475 U. S. 157, 165 (1986) (“[B]reach of
+an ethical standard does not necessarily make out a denial of
+the Sixth Amendment guarantee of assistance of counsel”).
+In resolving this case on the grounds on which it was pre-
+sented to us, we do not rule upon the need for the Sullivan
+prophylaxis in cases of successive representation. Whether
+Sullivan should be extended to such cases remains, as far
+as the jurisprudence of this Court is concerned, an open
+question.
+
+                                ***
+
+   For the reasons stated, the judgment of the Court of
+Appeals is
+
+                                                                     Afﬁrmed.
+
+   Justice Kennedy, with whom Justice O’Connor joins,
+concurring.
+
+   In its comprehensive analysis the Court has said all that
+is necessary to address the issues raised by the question pre-
+sented, and I join the opinion in full. The trial judge’s
+failure to inquire into a suspected conﬂict is not the kind
+of error requiring a presumption of prejudice. We did not
+grant certiorari on a second question presented by peti-
+tioner: whether, if we rejected his proposed presumption, he
+had nonetheless established that a conﬂict of interest ad-
+versely affected his representation. I write separately to
+emphasize that the facts of this case well illustrate why a
+wooden rule requiring reversal is inappropriate for cases
+like this one.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          177
+
+                                 Kennedy, J., concurring
+
+   At petitioner’s request, the District Court conducted an
+evidentiary hearing on the conﬂict claim and issued a thor-
+ough opinion, which found that counsel’s brief representation
+of the victim had no effect whatsoever on the course of peti-
+tioner’s trial. See Mickens v. Greene, 74 F. Supp. 2d 586
+(ED Va. 1999). The District Court’s ﬁndings depend upon
+credibility judgments made after hearing the testimony of
+petitioner’s counsel, Bryan Saunders, and other witnesses.
+As a reviewing court, our role is not to speculate about coun-
+sel’s motives or about the plausibility of alternative litigation
+strategies. Our role is to defer to the District Court’s fac-
+tual ﬁndings unless we can conclude they are clearly errone-
+ous. See Lackawanna County District Attorney v. Coss,
+532 U. S. 394, 406 (2001) (opinion of O’Connor, J.). The Dis-
+trict Court found that Saunders did not believe he had any
+obligation to his former client, Timothy Hall, that would
+interfere with the litigation. See 74 F. Supp. 2d, at 606
+(“[T]he Court concludes that, as a factual matter, Saunders
+did not believe that any continuing duties to a former client
+might interfere with his consideration of all facts and options
+for his current client” (internal quotation marks and alter-
+ation omitted)). Although the District Court concluded
+that Saunders probably did learn some matters that were
+conﬁdential, it found that nothing the attorney learned was
+relevant to the subsequent murder case. See ibid. (“[T]he
+record here conﬁrms that Saunders did not learn any con-
+ﬁdential information from Hall that was relevant to Mickens’
+defense either on the merits or at sentencing” (emphasis de-
+leted)). Indeed, even if Saunders had learned relevant in-
+formation, the District Court found that he labored under
+the impression he had no continuing duty at all to his de-
+ceased client. See id., at 605 (“[T]he record here reﬂects
+that, as far as Saunders was concerned, his allegiance to Hall,
+‘[e]nded when I walked in the courtroom and they told me
+he was dead and the case was gone’ ”) (quoting Hearing
+Tr. 156–157, 218 (Jan. 13, 1999)). While Saunders’ belief
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+178  MICKENS v. TAYLOR
+
+                                 Kennedy, J., concurring
+
+may have been mistaken, it establishes that the prior repre-
+sentation did not inﬂuence the choices he made during the
+course of the trial. This conclusion is a good example of
+why a case-by-case inquiry is required, rather than simply
+adopting an automatic rule of reversal.
+
+   Petitioner’s description of roads not taken would entail
+two degrees of speculation. We would be required to as-
+sume that Saunders believed he had a continuing duty to the
+victim, and we then would be required to consider whether
+in this hypothetical case, the counsel would have been
+blocked from pursuing an alternative defense strategy. The
+District Court concluded that the prosecution’s case, coupled
+with the defendant’s insistence on testifying, foreclosed the
+strategies suggested by petitioner after the fact. According
+to the District Court, there was no plausible argument that
+the victim consented to sexual relations with his murderer,
+given the bruises on the victim’s neck, blood marks showing
+the victim was stabbed before or during sexual intercourse,
+and, most important, petitioner’s insistence on testifying at
+trial that he had never met the victim. See 74 F. Supp. 2d,
+at 607 (“[T]he record shows that other facts foreclosed pres-
+entation of consent as a plausible alternative defense strat-
+egy”). The basic defense at the guilt phase was that peti-
+tioner was not at the scene; this is hardly consistent with the
+theory that there was a consensual encounter.
+
+   The District Court said the same for counsel’s alleged der-
+eliction at the sentencing phase. Saunders’ failure to attack
+the character of the 17-year-old victim and his mother had
+nothing to do with the putative conﬂict of interest. This
+strategy was rejected as likely to backﬁre, not only by Saun-
+ders, but also by his co-counsel, who owed no duty to Hall.
+See id., at 608 (“[T]he record here dispels the contention that
+the failure to use negative information about Hall is attribut-
+able to any conﬂict of interest on the part of Saunders”).
+These facts, and others relied upon by the District Court,
+provide compelling evidence that a theoretical conﬂict does
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          179
+
+                                  Stevens, J., dissenting
+
+not establish a constitutional violation, even when the con-
+ﬂict is one about which the trial judge should have known.
+
+   The constitutional question must turn on whether trial
+counsel had a conﬂict of interest that hampered the represen-
+tation, not on whether the trial judge should have been more
+assiduous in taking prophylactic measures. If it were other-
+wise, the judge’s duty would not be limited to cases where
+the attorney is suspected of harboring a conﬂict of interest.
+The Sixth Amendment protects the defendant against an in-
+effective attorney, as well as a conﬂicted one. See Strick-
+land v. Washington, 466 U. S. 668, 685–686 (1984). It would
+be a major departure to say that the trial judge must step
+in every time defense counsel appears to be providing inef-
+fective assistance, and indeed, there is no precedent to sup-
+port this proposition. As the Sixth Amendment guarantees
+the defendant the assistance of counsel, the infringement of
+that right must depend on a deﬁciency of the lawyer, not of
+the trial judge. There is no reason to presume this guaran-
+tee unfulﬁlled when the purported conﬂict has had no effect
+on the representation.
+
+   With these observations, I join the opinion of the Court.
+
+   Justice Stevens, dissenting.
+
+   This case raises three uniquely important questions about
+a fundamental component of our criminal justice system—
+the constitutional right of a person accused of a capital of-
+fense to have the effective assistance of counsel for his de-
+fense.1 The ﬁrst is whether a capital defendant’s attorney
+
+   1 The Sixth Amendment provides: “In all criminal prosecutions, the ac-
+cused shall enjoy the right . . . to have the Assistance of Counsel for his
+defence.” This protection is applicable to state, as well as federal, crimi-
+nal proceedings. Gideon v. Wainwright, 372 U. S. 335 (1963). We have
+long recognized the paramount importance of the right to effective assist-
+ance of counsel. United States v. Cronic, 466 U. S. 648, 653–654 (1984)
+(“ ‘Of all the rights that an accused person has, the right to be represented
+by counsel is by far the most pervasive for it affects his ability to assert
+any other rights he may have’ ” (citation omitted)).
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+180  MICKENS v. TAYLOR
+
+                                  Stevens, J., dissenting
+
+has a duty to disclose that he was representing the defend-
+ant’s alleged victim at the time of the murder. Second, is
+whether, assuming disclosure of the prior representation, the
+capital defendant has a right to refuse the appointment of
+the conﬂicted attorney. Third, is whether the trial judge,
+who knows or should know of such prior representation, has
+a duty to obtain the defendant’s consent before appointing
+that lawyer to represent him. Ultimately, the question pre-
+sented by this case is whether, if these duties exist and if all
+of them are violated, there exist “circumstances that are so
+likely to prejudice the accused that the cost of litigating their
+effect in a particular case is unjustiﬁed.” United States v.
+Cronic, 466 U. S. 648, 658 (1984).
+
+                                        I
+
+   The ﬁrst critical stage in the defense of a capital case is
+the series of pretrial meetings between the accused and his
+counsel when they decide how the case should be defended.
+A lawyer cannot possibly determine how best to represent a
+new client unless that client is willing to provide the lawyer
+with a truthful account of the relevant facts. When an indi-
+gent defendant ﬁrst meets his newly appointed counsel, he
+will often falsely maintain his complete innocence. Truthful
+disclosures of embarrassing or incriminating facts are contin-
+gent on the development of the client’s conﬁdence in the un-
+divided loyalty of the lawyer. Quite obviously, knowledge
+that the lawyer represented the victim would be a substan-
+tial obstacle to the development of such conﬁdence.
+
+   It is equally true that a lawyer’s decision to conceal such
+an important fact from his new client would have comparable
+ramiﬁcations. The suppression of communication and trun-
+cated investigation that would unavoidably follow from such
+a decision would also make it difﬁcult, if not altogether im-
+possible, to establish the necessary level of trust that should
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          181
+
+                                  Stevens, J., dissenting
+
+characterize the “delicacy of relation” between attorney
+and client.2
+
+   In this very case, it is likely that Mickens misled his coun-
+sel, Bryan Saunders, given the fact that Mickens gave false
+testimony at his trial denying any involvement in the crime
+despite the overwhelming evidence that he had killed Timo-
+thy Hall after a sexual encounter. In retrospect, it seems
+obvious that the death penalty might have been avoided by
+acknowledging Mickens’ involvement, but emphasizing the
+evidence suggesting that their sexual encounter was consen-
+sual. Mickens’ habeas counsel garnered evidence suggest-
+ing that Hall was a male prostitute, App. 137, 149, 162, 169;
+that the area where Hall was killed was known for prostitu-
+tion, id., at 169–170; and that there was no evidence that Hall
+was forced to the secluded area where he was ultimately
+murdered. An unconﬂicted attorney could have put for-
+ward a defense tending to show that Mickens killed Hall only
+after the two engaged in consensual sex, but Saunders of-
+fered no such defense. This was a crucial omission—a ﬁnd-
+ing of forcible sodomy was an absolute prerequisite to Mick-
+ens’ eligibility for the death penalty.3 Of course, since that
+
+   2 Williams v. Reed, 29 F. Cas. 1386, 1390 (No. 17,733) (CC Me. 1824).
+Discussing the necessity of full disclosure to the preservation of the
+lawyer-client relationship, Justice Story stated: “I agree to the doctrine
+urged at the bar, as to the delicacy of the relation of client and attorney,
+and the duty of a full, frank, and free disclosure by the latter of every
+circumstance, which may be presumed to be material, not merely to the
+interests, but to the fair exercise of the judgment, of the client.”
+
+   3 At the guilt phase, the trial court judge instructed Mickens’ jury as
+follows: “If you ﬁnd that the Commonwealth has failed to prove beyond a
+reasonable doubt that the killing occurred in the commission of, or subse-
+quent to, attempted forcible sodomy . . . [but do ﬁnd a malicious, willful,
+deliberate, premeditated killing], then you shall ﬁnd the defendant guilty
+of ﬁrst degree murder. If you ﬁnd the defendant guilty of ﬁrst degree
+murder, then you shall ﬁx his punishment at: (1) Imprisonment for life;
+or (2) A speciﬁc term of imprisonment, but not less than twenty [20]
+years . . . .” App. 58–59.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+182  MICKENS v. TAYLOR
+
+                                  Stevens, J., dissenting
+
+strategy would have led to conviction of a noncapital offense,
+counsel would have been unable to persuade the defendant
+to divulge the information necessary to support such a de-
+fense and then ultimately to endorse the strategy unless he
+had earned the complete conﬁdence of his client.
+
+   Saunders’ concealment of essential information about his
+prior representation of the victim was a severe lapse in his
+professional duty. The lawyer’s duty to disclose his repre-
+sentation of a client related to the instant charge is not only
+intuitively obvious, it is as old as the profession. Consider
+this straightforward comment made by Justice Story in 1824:
+
+      “An attorney is bound to disclose to his client every ad-
+      verse retainer, and even every prior retainer, which may
+      affect the discretion of the latter. No man can be sup-
+      posed to be indifferent to the knowledge of facts, which
+      work directly on his interests, or bear on the freedom of
+      his choice of counsel. When a client employs an attor-
+      ney, he has a right to presume, if the latter be silent on
+      the point, that he has no engagements, which interfere,
+      in any degree, with his exclusive devotion to the cause
+      conﬁded to him; that he has no interest, which may be-
+      tray his judgment, or endanger his ﬁdelity.” Williams
+      v. Reed, 29 F. Cas. 1386, 1390 (No. 17,733) (CC Me.).
+
+Mickens’ lawyer’s violation of this fundamental obligation of
+disclosure is indefensible. The relevance of Saunders’ prior
+representation of Hall to the new appointment was far too
+important to be concealed.
+
+                                       II
+
+   If the defendant is found guilty of a capital offense, the
+ensuing proceedings that determine whether he will be put
+to death are critical in every sense of the word. At those
+proceedings, testimony about the impact of the crime on the
+victim, including testimony about the character of the victim,
+may have a critical effect on the jury’s decision. Payne v.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          183
+
+                                  Stevens, J., dissenting
+
+Tennessee, 501 U. S. 808 (1991). Because a lawyer’s ﬁdu-
+ciary relationship with his deceased client survives the cli-
+ent’s death, Swidler & Berlin v. United States, 524 U. S. 399
+(1998), Saunders necessarily labored under conﬂicting obliga-
+tions that were irreconcilable. He had a duty to protect the
+reputation and conﬁdences of his deceased client, and a duty
+to impeach the impact evidence presented by the prosecutor.4
+
+   Saunders’ conﬂicting obligations to his deceased client, on
+the one hand, and to his living client, on the other, were
+unquestionably sufﬁcient to give Mickens the right to insist
+on different representation.5 For the “right to counsel guar-
+anteed by the Constitution contemplates the services of an
+attorney devoted solely to the interests of his client,” Von
+Moltke v. Gillies, 332 U. S. 708, 725 (1948).6 Moreover, in
+my judgment, the right to conﬂict-free counsel is just as
+ﬁrmly protected by the Constitution as the defendant’s right
+
+   4 For example, at the time of Hall’s death, Saunders was representing
+Hall in juvenile court for charges arising out of an incident involving Hall’s
+mother. She had sworn out a warrant for Hall’s arrest charging him with
+assault and battery. Despite knowledge of this, Mickens’ lawyer offered
+no rebuttal to the victim-impact statement submitted by Hall’s mother
+that “ ‘all [she] lived for was that boy.’ ” Id., at 297.
+
+   5 A group of experts in legal ethics, acting as amici curiae, submit that
+the conﬂict in issue in this case would be nonwaivable pursuant to the
+standard articulated in the ABA Ann. Model Rules of Professional Con-
+duct (4th ed. 1999) (hereinafter Model Rule). Brief for Legal Ethicists
+et al. as Amici Curiae 16 (“[T]he standard test to determine if a conﬂict
+is non-waiveable is whether a ‘disinterested lawyer would conclude that
+the client should not agree to the representation under the circum-
+stances’ ” (quoting Model Rule 1.7, Comment 5)). Unfortunately, because
+Mickens was not informed of the fact that his appointed attorney was the
+lawyer of the alleged victim, the questions whether Mickens would have
+waived this conﬂict and consented to the appointment, or whether govern-
+ing standards of professional responsibility would have precluded him
+from doing so, remain unanswered.
+
+   6 Although the conﬂict in this case is plainly intolerable, I, of course, do
+not suggest that every conﬂict, or every violation of the code of ethics, is
+a violation of the Constitution.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+184  MICKENS v. TAYLOR
+
+                                  Stevens, J., dissenting
+
+of self-representation recognized in Faretta v. California,
+422 U. S. 806 (1975).7
+
+                                       III
+
+   When an indigent defendant is unable to retain his own
+lawyer, the trial judge’s appointment of counsel is itself a
+critical stage of a criminal trial. At that point in the pro-
+ceeding, by deﬁnition, the defendant has no lawyer to protect
+his interests and must rely entirely on the judge. For that
+reason it is “the solemn duty of a . . . judge before whom a
+defendant appears without counsel to make a thorough in-
+quiry and to take all steps necessary to insure the fullest
+protection of this constitutional right at every stage of the
+proceedings.” Von Moltke, 332 U. S., at 722.
+
+   This duty with respect to indigent defendants is far more
+imperative than the judge’s duty to investigate the possibil-
+ity of a conﬂict that arises when retained counsel represents
+either multiple or successive defendants. It is true that in
+a situation of retained counsel, “[u]nless the trial court knows
+or reasonably should know that a particular conﬂict exists,
+the court need not initiate an inquiry.” Cuyler v. Sullivan,
+446 U. S. 335, 347 (1980).8 But when, as was true in this
+
+   7 “[W]hen a defendant chooses to have a lawyer manage and present his
+case, law and tradition may allocate to the counsel the power to make
+binding decisions of trial strategy in many areas. . . . This allocation can
+only be justiﬁed, however, by the defendant’s consent, at the outset, to
+accept counsel as his representative. An unwanted counsel ‘represents’
+the defendant only through a tenuous and unacceptable legal ﬁction. Un-
+less the accused has acquiesced in such representation, the defense pre-
+sented is not the defense guaranteed him by the Constitution, for, in a
+very real sense, it is not his defense.” 422 U. S., at 820–821.
+
+   8 Part III of the Court’s opinion is a foray into an issue that is not impli-
+cated by the question presented. In dicta, the Court states that Sullivan
+may not even apply in the ﬁrst place to successive representations. Ante,
+at 175–176. Most Courts of Appeals, however, have applied Sullivan to
+claims of successive representation as well as to some insidious conﬂicts
+arising from a lawyer’s self-interest. See cases cited ante, at 174–175.
+We have done the same. See Wood v. Georgia, 450 U. S. 261 (1981) (apply-
+ing Sullivan to a conﬂict stemming from a third-party payment arrange-
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          185
+
+                                  Stevens, J., dissenting
+
+case, the judge is not merely reviewing the permissibility of
+the defendants’ choice of counsel, but is responsible for mak-
+ing the choice herself, and when she knows or should know
+that a conﬂict does exist, the duty to make a thorough in-
+quiry is manifest and unqualiﬁed.9 Indeed, under far less
+compelling circumstances, we squarely held that when a rec-
+ord discloses the “possibility of a conﬂict” between the inter-
+ests of the defendants and the interests of the party paying
+their counsel’s fees, the Constitution imposes a duty of in-
+quiry on the state-court judge even when no objection was
+made. Wood v. Georgia, 450 U. S. 261, 267, 272 (1981).
+
+                                       IV
+
+   Mickens had a constitutional right to the services of an
+attorney devoted solely to his interests. That right was vio-
+lated. The lawyer who did represent him had a duty to dis-
+close his prior representation of the victim to Mickens and
+to the trial judge. That duty was violated. When Mickens
+had no counsel, the trial judge had a duty to “make a thor-
+ough inquiry and to take all steps necessary to insure the
+fullest protection of ” his right to counsel. Von Moltke, 332
+
+ment). Neither we nor the Courts of Appeals have applied this standard
+“unblinkingly,” as the Court accuses, ante, at 174, but rather have relied
+upon principled reason. When a conﬂict of interest, whether multiple,
+successive, or otherwise, poses so substantial a risk that a lawyer’s repre-
+sentation would be materially and adversely affected by diverging inter-
+ests or loyalties and the trial court judge knows of this and yet fails to
+inquire, it is a “[c]ircumstanc[e] of [such] magnitude” that “the likelihood
+that any lawyer, even a fully competent one, could provide effective assist-
+ance is so small that a presumption of prejudice is appropriate without
+inquiry into the actual conduct of the trial.” Cronic, 466 U. S., at 659–660.
+
+   9 There is no dispute before us as to the appointing judge’s knowledge.
+The court below assumed, arguendo, that the judge who, upon Hall’s death,
+dismissed Saunders from his representation of Hall and who then three
+days later appointed Saunders to represent Mickens in the killing of Hall
+“reasonably should have known that Saunders labored under a potential
+conﬂict of interest arising from his previous representation of Hall.” 240
+F. 3d 348, 357 (CA4 2001). This assumption has not been challenged.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+186  MICKENS v. TAYLOR
+
+                                  Stevens, J., dissenting
+
+U. S., at 722. Despite knowledge of the lawyer’s prior rep-
+resentation, she violated that duty.
+
+   We will never know whether Mickens would have received
+the death penalty if those violations had not occurred nor
+precisely what effect they had on Saunders’ representation
+of Mickens.10 We do know that he did not receive the kind
+of representation that the Constitution guarantees. If
+Mickens had been represented by an attorney-impostor who
+never passed a bar examination, we might also be unable to
+determine whether the impostor’s educational shortcomings
+“ ‘actually affected the adequacy of his representation.’ ”
+Ante, at 171 (emphasis deleted). We would, however, surely
+set aside his conviction if the person who had represented
+him was not a real lawyer. Four compelling reasons make
+setting aside the conviction the proper remedy in this case.
+
+   First, it is the remedy dictated by our holdings in Hol-
+loway v. Arkansas, 435 U. S. 475 (1978), Cuyler v. Sullivan,
+446 U. S. 335 (1980), and Wood v. Georgia, 450 U. S. 261
+(1981). In this line of precedent, our focus was properly
+upon the duty of the trial court judge to inquire into a poten-
+tial conﬂict. This duty was triggered either via defense
+counsel’s objection, as was the case in Holloway, or some
+other “special circumstances” whereby the serious potential
+for conﬂict was brought to the attention of the trial court
+judge. Sullivan, 446 U. S., at 346. As we unambiguously
+stated in Wood, “Sullivan mandates a reversal when the
+trial court has failed to make an inquiry even though it
+‘knows or reasonably should know that a particular conﬂict
+
+   10 I disagree with the Court’s assertion that the inquiry mandated by
+Cuyler v. Sullivan, 446 U. S. 335 (1980), will not aid in the determination
+of conﬂict and effect. Ante, at 171. As we have stated, “the evil [of
+conﬂict-ridden counsel] is in what the advocate ﬁnds himself compelled to
+refrain from doing, . . . [making it] difﬁcult to judge intelligently the im-
+pact of a conﬂict on the attorney’s representation of a client.” Holloway
+v. Arkansas, 435 U. S. 475, 490–491 (1978). An adequate inquiry by the
+appointing or trial court judge will augment the record thereby making it
+easier to evaluate the impact of the conﬂict.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          187
+
+                                  Stevens, J., dissenting
+
+exists.’ ” 450 U. S., at 272, n. 18. It is thus wrong for the
+Court to interpret Justice Powell’s language as referring
+only to a division of loyalties “that affected counsel’s per-
+formance.” Ante, at 171, and n. 3 (emphasis deleted).11
+Wood nowhere hints of this meaning of “actual conﬂict of
+interest” 450 U. S., at 273, nor does it reference Sullivan
+in “shorthand,” ante, at 171. Rather, Wood cites Sullivan
+explicitly in order to make a factual distinction: In a circum-
+stance, such as in Wood, in which the judge knows or should
+know of the conﬂict, no showing of adverse effect is required.
+But when, as in Sullivan, the judge lacked this knowledge,
+such a showing is required. Wood, 450 U. S., at 272–274.12
+
+   11 The Court concedes that if Mickens’ attorney had objected to the ap-
+pointment based upon the conﬂict of interest and the trial court judge had
+failed to inquire, then reversal without inquiry into adverse effect would
+be required. Ante, at 173–174. The Court, in addition to ignoring the
+mandate of Wood, reads Sullivan too narrowly. In Sullivan we did not
+ask only whether an objection was made in order to ascertain whether
+the trial court had a duty to inquire. Rather, we stated that “[n]othing
+in the circumstances of this case indicates that the trial court had a duty
+to inquire whether there was a conﬂict of interest. The provision of sepa-
+rate trials for Sullivan and his codefendants signiﬁcantly reduced the po-
+tential for a divergence in their interests. No participant in Sullivan’s
+trial ever objected to the multiple representation. . . . On these facts,
+we conclude that the Sixth Amendment imposed upon the trial court no
+afﬁrmative duty to inquire into the propriety of multiple representation.”
+446 U. S., at 347–348.
+
+   It is also counter to our precedent to treat all Sixth Amendment chal-
+lenges involving conﬂicts of interest categorically, without inquiry into the
+surrounding factual circumstances. In Cronic, we cited Holloway as an
+example of a case involving “surrounding circumstances [making] it so
+unlikely that any lawyer could provide effective assistance that ineffec-
+tiveness was properly presumed without inquiry into actual performance
+at trial.” Cronic, 466 U. S., at 661, and n. 28. The surrounding circum-
+stances in the present case were far more egregious than those requiring
+reversal in either Holloway or Wood.
+
+   12 Because the appointing judge knew of the conﬂict, there is no need in
+this case to decide what should be done when the judge neither knows,
+nor should know, about the existence of an intolerable conﬂict. Neverthe-
+less the Court argues that it makes little sense to reverse automatically
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+188  MICKENS v. TAYLOR
+
+                                  Stevens, J., dissenting
+
+   Second, it is the only remedy that responds to the real
+possibility that Mickens would not have received the death
+penalty if he had been represented by conﬂict-free counsel
+during the critical stage of the proceeding in which he ﬁrst
+met with his lawyer. We should presume that the lawyer
+for the victim of a brutal homicide is incapable of establish-
+ing the kind of relationship with the defendant that is essen-
+tial to effective representation.
+
+   Third, it is the only remedy that is consistent with the
+legal profession’s historic and universal condemnation of the
+representation of conﬂicting interests without the full disclo-
+sure and consent of all interested parties.13 The Court’s
+novel and na¨ıve assumption that a lawyer’s divided loyalties
+
+upon a showing of actual conﬂict when the trial court judge knows (or
+reasonably should know) of a potential conﬂict and yet has failed to in-
+quire, but not to do so when the trial court judge does not know of the
+conﬂict. Ante, at 172–173. Although it is true that the defendant faces
+the same potential for harm as a result of a conﬂict in either instance, in
+the former case the court committed the error and in the latter the harm
+is entirely attributable to the misconduct of defense counsel. A require-
+ment that the defendant show adverse effect when the court committed
+no error surely does not justify such a requirement when the court did
+err. It is the Court’s rule that leads to an anomalous result. Under the
+Court’s analysis, if defense counsel objects to the appointment, reversal
+without inquiry into adverse effect is required. Ante, at 173–174. But
+counsel’s failure to object posed a greater—not a lesser—threat to Mick-
+ens’ Sixth Amendment right. Had Saunders objected to the appointment,
+Mickens would at least have been apprised of the conﬂict.
+
+   13 Every state bar in the country has an ethical rule prohibiting a lawyer
+from undertaking a representation that involves a conﬂict of interest
+unless the client has waived the conﬂict. University Publications of
+America, National Reporter on Legal Ethics and Professional Responsibil-
+ity, Vols. I–IV (2001) (reprinting the professional responsibility codes for
+the 50 States). See also Model Rule 1.7, at 91–92, Comments 3 and 4 (“As
+a general proposition, loyalty to a client prohibits undertaking representa-
+tion directly adverse to that client without that client’s consent. . . . Loy-
+alty to a client is also impaired when a lawyer cannot consider, recommend
+or carry out an appropriate course of action for the client because of the
+lawyer’s other responsibilities or interests”).
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          189
+
+                                   Souter, J., dissenting
+
+are acceptable unless it can be proved that they actually af-
+fected counsel’s performance is demeaning to the profession.
+
+   Finally, “justice must satisfy the appearance of justice.”
+Offutt v. United States, 348 U. S. 11, 14 (1954). Setting aside
+Mickens’ conviction is the only remedy that can maintain
+public conﬁdence in the fairness of the procedures employed
+in capital cases. Death is a different kind of punishment
+from any other that may be imposed in this country. “From
+the point of view of the defendant, it is different in both its
+severity and its ﬁnality. From the point of view of society,
+the action of the sovereign in taking the life of one of its
+citizens also differs dramatically from any other legitimate
+state action. It is of vital importance to the defendant and
+to the community that any decision to impose the death sen-
+tence be, and appear to be, based on reason rather than ca-
+price or emotion.” Gardner v. Florida, 430 U. S. 349, 357–
+358 (1977). A rule that allows the State to foist a murder
+victim’s lawyer onto his accused is not only capricious; it poi-
+sons the integrity of our adversary system of justice.
+
+   I respectfully dissent.
+
+   Justice Souter, dissenting.
+
+   A judge who knows or should know that counsel for a
+criminal defendant facing, or engaged in, trial has a potential
+conﬂict of interests is obliged to enquire into the potential
+conﬂict and assess its threat to the fairness of the proceed-
+ing. See Wheat v. United States, 486 U. S. 153, 160 (1988);
+Wood v. Georgia, 450 U. S. 261, 272 (1981); Cuyler v. Sulli-
+van, 446 U. S. 335, 347 (1980). Cf. Holloway v. Arkansas,
+435 U. S. 475, 484 (1978). Unless the judge ﬁnds that the
+risk of inadequate representation is too remote for further
+concern, or ﬁnds that the defendant has intelligently as-
+sumed the risk and waived any potential Sixth or Fourteenth
+Amendment claim of inadequate counsel, the court must see
+that the lawyer is replaced. See ibid.; Glasser v. United
+States, 315 U. S. 60, 70 (1942). Cf. Wheat, supra, at 162; Ad-
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+190  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+visory Committee’s Notes on 1979 Amendments to Fed. Rule
+Crim. Proc. 44(c), 18 U. S. C. App., p. 1655.
+
+   The District Judge reviewing the federal habeas petition
+in this case found that the state judge who appointed Bryan
+Saunders to represent petitioner Mickens on a capital mur-
+der charge knew or should have known that obligations
+stemming from Saunders’s prior representation of the vic-
+tim, Timothy Hall, potentially conﬂicted with duties entailed
+by defending Mickens.1 Mickens v. Greene, 74 F. Supp. 2d
+586, 613–615 (ED Va. 1999). The state judge was therefore
+obliged to look further into the extent of the risk and, if
+necessary, either secure Mickens’s knowing and intelligent
+assumption of the risk or appoint a different lawyer. The
+state judge, however, did nothing to discharge her constitu-
+tional duty of care. Id., at 614. In the one case in which
+we have devised a remedy for such judicial dereliction, we
+held that the ensuing judgment of conviction must be re-
+versed and the defendant afforded a new trial. Holloway,
+
+   1 The parties do not dispute that the appointing judge in this case knew
+or reasonably should have known that Saunders had represented Hall on
+assault and battery charges brought against him by his mother and a sepa-
+rate concealed-weapon charge at the time of his murder. Lodging to App.
+390, 393. The name “BRYAN SAUNDERS,” in large, handwritten let-
+ters, was prominently visible as the appointed lawyer on a one-page docket
+sheet four inches above where the judge signed her name and wrote: “Re-
+move from docket. Def[endant] deceased.” Id., at 390. The same judge
+then called Saunders the next business day to ask if he would “do her a
+favor” and represent the only person charged with having killed the vic-
+tim. App. 142. And, if that were not enough, Mickens’s arrest warrants,
+which were apparently before the judge when she appointed Saunders,
+charged Mickens with the murder, “ ‘on or about March 30, 1992,’ ” of
+“ ‘Timothy Jason Hall, white male, age 17.’ ” Mickens v. Greene, 74 F.
+Supp. 2d 586, 614 (ED Va. 1999). The juvenile-court judge, whom cir-
+cumstances had thrust into the unusual position of having to appoint coun-
+sel in a notorious capital case, certainly knew or had reason to know of
+the possibility that Saunders’s 14-day representation of the murder victim,
+up to the start of the previous business day, may have created a risk of
+impairing his representation of Mickens in his upcoming murder trial.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          191
+
+Souter, J., dissenting
+
+supra, at 491; see also Wood, supra, at 272, n. 18.    That
+should be the result here.
+
+                                        I
+
+   The Court today holds, instead, that Mickens should be
+denied this remedy because Saunders failed to employ a for-
+mal objection as a means of bringing home to the appointing
+judge the risk of conﬂict. Ante, at 173–174. Without an
+objection, the majority holds, Mickens should get no relief
+absent a showing that the risk turned into an actual conﬂict
+with adverse effect on the representation provided to Mick-
+ens at trial. Ibid. But why should an objection matter
+when even without an objection the state judge knew or
+should have known of the risk and was therefore obliged to
+enquire further? What would an objection have added to
+the obligation the state judge failed to honor? The majority
+says that in circumstances like those now before us, we have
+already held such an objection necessary for reversal, absent
+proof of actual conﬂict with adverse effect, so that this case
+calls simply for the application of precedent, albeit precedent
+not very clearly stated. Ante, at 171–172.
+
+   The majority’s position is error, resting on a mistaken
+reading of our cases. Three are on point, Holloway v.
+Arkansas, supra; Cuyler v. Sullivan, supra; and Wood v.
+Georgia, supra.
+
+   In Holloway, a trial judge appointed one public defender
+to represent three criminal defendants tried jointly. 435
+U. S., at 477. Three weeks before trial, counsel moved for
+separate representation; the court held a hearing and denied
+the motion. Ibid. The lawyer moved again for appoint-
+ment of separate counsel before the jury was empaneled,
+on the ground that one or two of the defendants were consid-
+ering testifying at trial, in which event the one lawyer’s abil-
+ity to cross-examine would be inhibited. Id., at 478. The
+court again denied his motion. Ibid. After the prosecution
+rested, counsel objected to the joint representation a third
+time, advising the court that all three defendants had de-
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+192  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+cided to testify; again the court refused to appoint separate
+lawyers. Id., at 478–480. The defendants gave inconsist-
+ent testimony and were convicted on all counts. Id., at 481.
+
+   This Court held that the motions apprised the trial judge
+of a “risk” that continuing the joint representation would
+subject defense counsel in the pending trial to the impossible
+obligations of simultaneously furthering the conﬂicting inter-
+ests of the several defendants, id., at 484, and we reversed
+the convictions on the basis of the judge’s failure to respond
+to the prospective conﬂict, without any further showing of
+harm, id., at 491. In particular, we rejected the argument
+that a defendant tried subject to such a disclosed risk should
+have to show actual prejudice caused by subsequent conﬂict.
+Id., at 488. We pointed out that conﬂicts created by multi-
+ple representation characteristically deterred a lawyer from
+taking some step that he would have taken if unconﬂicted,
+and we explained that the consequent absence of footprints
+would often render proof of prejudice virtually impossible.
+Id., at 489–491.
+
+   Next came Sullivan, involving multiple representation by
+two retained lawyers of three defendants jointly indicted but
+separately tried, 446 U. S., at 337. Sullivan, the defendant
+at the ﬁrst trial, had consented to joint representation by the
+same lawyers retained by the two other accused, because
+he could not afford counsel of his own. Ibid. Sullivan was
+convicted of murder; the other two were acquitted in their
+subsequent trials. Id., at 338. Counsel made no objection
+to the multiple representation before or during trial, ibid.;
+nor did the convicted defendant argue that the trial judge
+otherwise knew or should have known of the risk described
+in Holloway, that counsel’s representation might be impaired
+by conﬂicting obligations to the defendants to be tried later,
+446 U. S., at 343.
+
+   This Court held that multiple representation did not raise
+enough risk of impaired representation in a coming trial to
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          193
+
+                                   Souter, J., dissenting
+
+trigger a trial court’s duty to enquire further, in the absence
+of “special circumstances.” 2 Id., at 346. The most obvious
+special circumstance would be an objection. See Holloway,
+supra, at 488. Indeed, because multiple representation was
+not suspect per se, and because counsel was in the best posi-
+tion to anticipate a risk of conﬂict, the Court spoke at one
+point as though nothing but an objection would place a court
+on notice of a prospective conﬂict. Sullivan, 446 U. S., at
+348 (“[A] defendant who raised no objection at trial must
+demonstrate that an actual conﬂict of interest adversely af-
+fected his lawyer’s performance” (footnote omitted)). But
+the Court also explained that courts must rely on counsel in
+“large measure,” id., at 347, that is, not exclusively, and it
+spoke in general terms of a duty to enquire that arises when
+“the trial court knows or reasonably should know that a par-
+ticular conﬂict exists,” 3 ibid. (footnote omitted). Accord-
+
+   2 The constitutional rule binding the state courts is thus more lenient
+than Rule 44(c) of the Federal Rules of Criminal Procedure, which
+provides:
+
+   “Whenever two or more defendants have been jointly charged pursuant
+to Rule 8(b) or have been joined for trial pursuant to Rule 13, and are
+represented by the same retained or assigned counsel or by retained or
+assigned counsel who are associated in the practice of law, the court shall
+promptly inquire with respect to such joint representation and shall per-
+sonally advise each defendant of the right to the effective assistance of
+counsel, including separate representation. Unless it appears that there
+is good cause to believe no conﬂict of interest is likely to arise, the court
+shall take such measures as may be appropriate to protect each defend-
+ant’s right to counsel.”
+
+   See Wheat v. United States, 486 U. S. 153, 161 (1988).
+   3 By “particular conﬂict” the Court was clearly referring to a risk of
+conﬂict detectable on the horizon rather than an “actual conﬂict” that had
+already adversely affected the defendant’s representation. The Court
+had just cited and quoted Holloway v. Arkansas, 435 U. S. 475 (1978),
+which held that the judge was obligated to enquire into the risk of a pro-
+spective conﬂict, id., at 484. This reading is conﬁrmed by the Sullivan
+Court’s subsequent terminology: Because the trial judge in Sullivan had
+had no duty to enquire into “a particular conﬂict” upon notice of multiple
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+194  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+ingly, the Court did not rest the result simply on the failure
+of counsel to object, but said instead that “[n]othing in the
+circumstances of this case indicates that the trial court had
+a duty to inquire whether there was a conﬂict of interest,”
+ibid. For that reason, it held respondent bound to show
+“that a conﬂict of interest actually affected the adequacy of
+his representation.” Id., at 349.
+
+   The different burdens on the Holloway and Sullivan de-
+fendants are consistent features of a coherent scheme for
+dealing with the problem of conﬂicted defense counsel; a pro-
+spective risk of conﬂict subject to judicial notice is treated
+differently from a retrospective claim that a completed pro-
+ceeding was tainted by conﬂict, although the trial judge had
+not been derelict in any duty to guard against it. When
+the problem comes to the trial court’s attention before any
+potential conﬂict has become actual, the court has a duty to
+act prospectively to assess the risk and, if the risk is not too
+remote, to eliminate it or to render it acceptable through
+a defendant’s knowing and intelligent waiver. This duty is
+something more than the general responsibility to rule with-
+out committing legal error; it is an afﬁrmative obligation to
+investigate a disclosed possibility that defense counsel will
+be unable to act with uncompromised loyalty to his client.
+It was the judge’s failure to fulﬁll that duty of care to enquire
+further and do what might be necessary that the Holloway
+Court remedied by vacating the defendant’s subsequent con-
+viction. 435 U. S., at 487, 491. The error occurred when
+the judge failed to act, and the remedy restored the defend-
+
+representation alone, the convicted defendant could get no relief without
+showing “actual conﬂict” with “adverse effect.” 446 U. S., at 347–350.
+
+   Of course, a judge who gets wind of conﬂict during trial may have to
+enquire in both directions: prospectively to assess the risk of conﬂict if the
+lawyer remains in place; if there is no such risk requiring removal and
+mistrial, conversely, the judge may have to enquire retrospectively to see
+whether a conﬂict has actually affected the defendant adversely. See
+infra, at 202.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          195
+
+                                   Souter, J., dissenting
+
+ant to the position he would have occupied if the judge had
+taken reasonable steps to fulﬁll his obligation. But when
+the problem of conﬂict comes to judicial attention not pro-
+spectively, but only after the fact, the defendant must show
+an actual conﬂict with adverse consequence to him in order
+to get relief. Sullivan, supra, at 349. Fairness requires
+nothing more, for no judge was at fault in allowing a trial to
+proceed even though fraught with hidden risk.
+
+   In light of what the majority holds today, it bears repeat-
+ing that, in this coherent scheme established by Holloway
+and Sullivan, there is nothing legally crucial about an objec-
+tion by defense counsel to tell a trial judge that conﬂicting
+interests may impair the adequacy of counsel’s representa-
+tion. Counsel’s objection in Holloway was important as a
+fact sufﬁcient to put the judge on notice that he should en-
+quire. In most multiple-representation cases, it will take
+just such an objection to alert a trial judge to prospective
+conﬂict, and the Sullivan Court reafﬁrmed that the judge is
+obliged to take reasonable prospective action whenever a
+timely objection is made. 446 U. S., at 346. But the Court
+also indicated that an objection is not required as a matter
+of law: “Unless the trial court knows or reasonably should
+know that a particular conﬂict exists, the court need not ini-
+tiate an enquiry.” Id., at 347. The Court made this clear
+beyond cavil 10 months later when Justice Powell, the same
+Justice who wrote the Sullivan opinion, explained in Wood
+v. Georgia that Sullivan “mandates a reversal when the trial
+court has failed to make an inquiry even though it ‘knows or
+reasonably should know that a particular conﬂict exists.’ ”
+450 U. S., at 272, n. 18 (emphasis in original).
+
+   Since the District Court in this case found that the state
+judge was on notice of a prospective potential conﬂict, 74
+F. Supp. 2d, at 613–615, this case calls for nothing more than
+the application of the prospective notice rule announced and
+exempliﬁed by Holloway and conﬁrmed in Sullivan and
+Wood. The remedy for the judge’s dereliction of duty
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+196  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+should be an order vacating the conviction and affording a
+new trial.
+
+   But in the majority’s eyes, this conclusion takes insufﬁ-
+cient account of Wood, whatever may have been the sensible
+scheme staked out by Holloway and Sullivan, with a defend-
+ant’s burden turning on whether a court was apprised of a
+conﬂicts problem prospectively or retrospectively. The ma-
+jority says that Wood holds that the distinction is between
+cases where counsel objected and all other cases, regardless
+of whether a trial court was put on notice prospectively in
+some way other than by an objection on the record. See
+ante, at 172–174. In Wood, according to the majority, the
+trial court had notice, there was no objection on the record,
+and the defendant was required to show actual conﬂict and
+adverse effect.
+
+   Wood is not easy to read, and I believe the majority mis-
+reads it. The ﬁrst step toward seeing where the majority
+goes wrong is to recall that the Court in Wood said outright
+what I quoted before, that Sullivan “mandates a reversal
+when the trial court has failed to make an inquiry even
+though it ‘knows or reasonably should know that a particular
+conﬂict exists.’ ” 450 U. S., at 272, n. 18. This statement of
+a trial judge’s obligation, like the statement in Sullivan that
+it quoted, 446 U. S., at 347, said nothing about the need for
+an objection on the record. True, says the majority, but the
+statement was dictum to be disregarded as “inconsistent”
+with Wood’s holding. Ante, at 168–169, n. 2. This is a po-
+lite way of saying that the Wood Court did not know what it
+was doing; that it stated the general rule of reversal for fail-
+ure to enquire when on notice (as in Holloway), but then
+turned around and held that such a failure called for reversal
+only when the defendant demonstrated an actual conﬂict (as
+in Sullivan).
+
+   This is not what happened. Wood did not hold that in the
+absence of objection, the Sullivan rule governs even when a
+judge is prospectively on notice of a risk of conﬂicted counsel.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          197
+
+                                   Souter, J., dissenting
+
+Careful attention to Wood shows that the case did not in-
+volve prospective notice of risk unrealized, and that it held
+nothing about the general rule to govern in such circum-
+stances. What Wood did decide was how to deal with a pos-
+sible conﬂict of interests that becomes known to the trial
+court only at the conclusion of the trial proceeding at which
+it may have occurred, and becomes known not to a later
+habeas court but to the judge who handed down sentences
+at trial, set probation 19 months later after appeals were
+exhausted, and held a probation revocation proceeding 4
+months after that.4
+
+   The Wood defendants were convicted of distributing ob-
+scene material as employees of an adult bookstore and the-
+ater, after trials at which they were defended by privately
+retained counsel. 450 U. S., at 262–263. They were each
+ordered to pay ﬁnes and sentenced to 12-month prison terms
+that were suspended in favor of probation on the condition
+that they pay their ﬁnes in installments, which they failed to
+do. Id., at 263–264. The Wood Court indicated that by the
+end of the proceeding to determine whether probation should
+be revoked because of the defendants’ failure to pay, the
+judge was on notice that defense counsel might have been
+laboring under a conﬂict between the interests of the defend-
+ant employees and those of their employer, possibly as early
+as the time the sentences were originally handed down
+nearly two years earlier, App. 11–16 in Wood v. Georgia, O. T.
+1979, No. 79–6027 (Mar. 18, 1977, sentencing). See Wood,
+450 U. S., at 272 (“at the revocation hearing, or at earlier
+stages of the proceedings below”). The ﬁnes were so high
+that the original sentencing assumption must have been that
+the store and theater owner would pay them; defense counsel
+was paid by the employer, at least during the trial; the State
+
+   4 The same trial judge presided over each stage of these proceedings.
+See App. 11–41 in Wood v. Georgia, O. T. 1979, No. 79–6027.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+198  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+pointed out a possible conﬂict to the judge; 5 and counsel was
+attacking the ﬁnes with an equal protection argument, which
+weakened the strategy more obviously in the defendants’ in-
+terest, of requesting the court to reduce the ﬁnes or defer
+their collection. Id., at 272–273. This was enough, accord-
+ing to the Wood Court, to tell the judge that defense counsel
+may have been acting to further the owner’s desire for a
+test case on equal protection, rather than the defendants’
+interests in avoiding ruinous ﬁnes or incarceration. Ibid.
+
+   What is signiﬁcant is that, as this Court thus described
+the circumstances putting the judge on notice, they were not
+complete until the revocation hearing was ﬁnished (nearly
+
+   5 The State indicated that defense counsel labored under a possible con-
+ﬂict of interests between the employer and the defendants, but it was not
+the conﬂict in issue here, and so, from the Wood Court’s perspective, the
+State’s objection, though a relevant fact in alerting the judge like the fact
+of multiple representation in Cuyler v. Sullivan, 446 U. S. 335 (1980), was
+not sufﬁcient to put the judge on notice of his constitutional duty to en-
+quire into a “particular conﬂict,” id., at 347. State’s counsel suggested
+that in arguing for forgiveness of ﬁnes owing to inability to pay, defense
+counsel was merely trying to protect the employer from an obligation to
+the defendants to pay the ﬁnes. App. A to Brief in Opposition in Wood
+v. Georgia, O. T. 1979, No. 79–6027, at 14–15, 27–28 (transcript of Jan. 26,
+1979, probation revocation hearing). But as to forgiveness of the ﬁnes,
+the interests of the employer and defendants were aligned; the State’s
+lawyer argued to the court nonetheless that counsel’s allegiance to the
+employer prevented him from pressing the employer to honor its obliga-
+tion to pay, and suggested to the judge that he should appoint separate
+counsel to enforce it. Id., at 14. The judge did enquire into this alleged
+conﬂict and accepted defense counsel’s rejoinder that such a conﬂict was
+not relevant to a hearing on whether probation should be revoked for
+inability to pay and that any such agreement to pay ﬁnes for violating the
+law would surely be unenforceable as a matter of public policy. Id., at
+14–17. The majority is thus mistaken in its claim that the State’s objec-
+tion sufﬁced to put the court on notice of a duty to enquire as to the
+particular conﬂict of interest to the Wood Court, see ante, at 170–171, n. 3,
+unless the majority means to say that mention of any imagined conﬂict is
+sufﬁcient to put a judge on notice of a duty to enquire into the full universe
+of possible conﬂicts.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          199
+
+                                   Souter, J., dissenting
+
+two years after sentencing) and the judge knew that the law-
+yer was relying heavily on equal protection instead of argu-
+ments for leniency to help the defendants. The Court noted
+that counsel stated he had sent a letter to the trial court
+after sentencing, saying the ﬁnes were more than the defend-
+ants could afford, id., at 268, n. 13, a move obviously in the
+defendants’ interest. On the other hand, a reference to
+“equal protection,” which the Court could have taken as a
+reﬂection of the employer’s interest, did not occur until the
+very end of the revocation hearing. See App. A to Brief in
+Opposition in Wood v. Georgia, O. T. 1979, No. 79–6027, at 72
+(transcript of Jan. 26, 1979, probation revocation hearing).6
+The Wood Court also knew that a motion stressing equal
+protection was not ﬁled by defense counsel until two weeks
+after the revocation hearing, on the day before probation was
+to be revoked and the defendants locked up, App. 35–36 in
+Wood v. Georgia, O. T. 1979, No. 79–6027 (Joint Motions to
+Modify Conditions of Probation Order—Filed Feb. 12, 1979).
+450 U. S., at 268. Since, in the Court’s view, counsel’s em-
+phasis on the equal protection claim was one of the facts that
+
+   6 At one point, about a quarter of the way into the hearing, defense
+counsel said: “And I think the universal rule is in the United States, be-
+cause of the Fourteenth Amendment of the United States Constitution,
+legal protection, you cannot, or should not, lock up an accused for failure
+to pay a ﬁne; because of his inability or her inability to pay the ﬁne, if that
+person, and this is a crucial point, Your Honor, if that person, like to quote
+from Bennett versus Harper, was incapable of paying the ﬁne, rather than
+refusing and neglecting to do so.” App. A to Brief in Opposition in Wood
+v. Georgia, O. T. 1979, No. 79–6027, at 19. Defense counsel also cited two
+equal protection decisions of this Court, Tate v. Short, 401 U. S. 395 (1971),
+and Williams v. Illinois, 399 U. S. 235 (1970); it may very well be that he
+meant to say “equal protection” rather than “legal protection” or the latter
+was in fact a garbled transcription, but it seems unlikely that the Wood
+Court was referring to this statement when it said counsel “was pressing
+a constitutional attack rather than making the arguments for leniency,”
+450 U. S., at 272, because it was made to supplement, not replace, appeals
+to leniency based on the speciﬁc ﬁnancial situations of the individual
+defendants.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+200  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+together put the judge on notice of something amiss, and
+since the record shows that it was not clear that counsel was
+favoring the equal protection argument until, at the earliest,
+the very close of the revocation hearing, and more likely the
+day he ﬁled his motion two weeks later, the Court could only
+have meant that the judge was put on notice of a conﬂict that
+may actually have occurred, not of a potential conﬂict that
+might occur later.7 At that point, as the Court saw it, there
+were only two further facts the judge would have needed to
+know to determine whether there had been an actual dis-
+qualifying conﬂict, and those were whether a concern for the
+interest of the employer had weakened the lawyer’s argu-
+ments for leniency, and whether the defendants had been
+informed of the conﬂict and waived their rights to uncon-
+ﬂicted counsel.
+
+   This Court, of course, was in no position to resolve these
+remaining issues in the ﬁrst instance. Whether the lawyer’s
+failure to press more aggressively for leniency was caused
+by a conﬂicting interest, for example, had never been ex-
+plored at the trial level and there was no record to consult
+on the point.8 In deciding what to do, the Wood Court had
+
+   7 The phrasing of the remand instruction conﬁrms the conclusion that
+the Wood Court perceived the duty to enquire neglected by the judge as
+retrospective in nature: The “[state] court [on remand] should hold a hear-
+ing to determine whether the conﬂict of interest that this record strongly
+suggests actually existed at the time of the probation revocation or ear-
+lier.” Id., at 273. From the Court’s vantage point, another compelling
+reason for suspecting a conﬂict of interests was the fact that the employer
+apparently paid for the appeal, in which counsel argued the equal protec-
+tion question only, id., at 267, n. 11; but, of course, this would have been
+unknown to the judge at the revocation hearing.
+
+   8 There was certainly cause for reasonable disagreement on the issue.
+As Justice White pointed out, absent relevant evidence in the record, it
+was reasonable that the employer might have refused to pay because the
+defendants were no longer employees, or because it no longer owned adult
+establishments. Id., at 282–283, and n. 9 (dissenting opinion). Indeed,
+counsel said that he was no longer paid by the employer for his representa-
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          201
+
+                                   Souter, J., dissenting
+
+two established procedural models to look to: Holloway’s
+procedure of vacating judgment 9 when a judge had failed to
+enquire into a prospective conﬂict, and Sullivan’s procedure
+of determining whether the conﬂict that may well have oc-
+curred had actually occurred with some adverse effect.
+
+   Treating the case as more like Sullivan and remanding
+was obviously the correct choice. Wood was not like Hol-
+loway, in which the judge was put on notice of a risk before
+trial, that is, a prospective possibility of conﬂict. It was,
+rather, much closer to Sullivan, since any notice to a court
+went only to a conﬂict, if there was one, that had pervaded
+a completed trial proceeding extending over two years. The
+only difference between Wood and Sullivan was that, in
+Wood, the signs that a conﬂict may have occurred were clear
+to the judge at the close of the probation revocation proceed-
+ing, whereas the claim of conﬂict in Sullivan was not raised
+until after judgment in a separate habeas proceeding, see
+446 U. S., at 338. The duty of the Wood judge could only
+have been to enquire into the past (what had happened two
+years earlier at sentencing, the setting of probation 19
+months later, the ensuing failures to pay, and the testimony
+that had already been given at the revocation hearing), just
+like the responsibility of the state and federal habeas courts
+reviewing the record in Sullivan in postconviction proceed-
+ings, see 446 U. S., at 338–339. Since the Wood judge’s duty
+was unlike the Holloway judge’s obligation to take care for
+the future, it would have made no sense for the Wood Court
+to impose a Holloway remedy.
+
+   The disposition in Wood therefore raises no doubt about
+the consistency of the Wood Court. Contrary to the majori-
+
+tion of the defendants once they were put on probation, id., at 281, n. 7
+(White, J., dissenting).
+
+   9 In this case, the order would have been to vacate the commitment
+order based on the probation violation, and perhaps even the antecedent
+ﬁne. See id., at 274, n. 21 (majority opinion).
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+202  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+ty’s conclusion, see ante, at 168–169, n. 2, there was no ten-
+sion at all between acknowledging the rule of reversal to be
+applied when a judge fails to enquire into a known risk of
+prospective conﬂict, Wood, 450 U. S., at 272, n. 18, while at
+the same time sending the Wood case itself back for a deter-
+mination about actual, past conﬂict, id., at 273–274. Wood
+simply followed and conﬁrmed the pre-existing scheme es-
+tablished by Holloway and Sullivan. When a risk of con-
+ﬂict appears before a proceeding has been held or completed
+and a judge fails to make a prospective enquiry, the remedy
+is to vacate any subsequent judgment against the defendant.
+See Holloway, 435 U. S., at 491. When the possibility of
+conﬂict does not appear until a proceeding is over and any
+enquiry must be retrospective, a defendant must show actual
+conﬂict with adverse effect. See Sullivan, supra, at 349.
+
+   Wood, then, does not affect the conclusion that would be
+reached here on the basis of Holloway and Sullivan. This
+case comes to us with the ﬁnding that the judge who ap-
+pointed Saunders knew or should have known of the risk
+that he would be conﬂicted owing to his prior appointment
+to represent the victim of the crime, 74 F. Supp. 2d, at 613–
+615; see n. 1, supra. We should, therefore, follow the law
+settled until today, in vacating the conviction and affording
+Mickens a new trial.
+
+                                       II
+
+   Since the majority will not leave the law as it is, however,
+the question is whether there is any merit in the rule it now
+adopts, of treating breaches of a judge’s duty to enquire into
+prospective conﬂicts differently depending on whether de-
+fense counsel explicitly objected. There is not. The dis-
+tinction is irrational on its face, it creates a scheme of incen-
+tives to judicial vigilance that is weakest in those cases
+presenting the greatest risk of conﬂict and unfair trial, and
+it reduces the so-called judicial duty to enquire into so many
+empty words.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          203
+
+                                   Souter, J., dissenting
+
+   The most obvious reason to reject the majority’s rule
+starts with the accepted view that a trial judge placed on
+notice of a risk of prospective conﬂict has an obligation then
+and there to do something about it, Holloway, supra, at 484.
+The majority does not expressly repudiate that duty, see
+ante, at 167–168, which is too clear for cavil. It should go
+without saying that the best time to deal with a known
+threat to the basic guarantee of fair trial is before the trial
+has proceeded to become unfair. See Holloway, supra, at
+484; Glasser, 315 U. S., at 76. Cf. Pate v. Robinson, 383 U. S.
+375, 386–387 (1966) ( judge’s duty to conduct hearing as to
+competency to stand trial). It would be absurd, after all, to
+suggest that a judge should sit quiescent in the face of an
+apparent risk that a lawyer’s conﬂict will render representa-
+tion illusory and the formal trial a waste of time, emotion,
+and a good deal of public money. And as if that were not
+bad enough, a failure to act early raises the specter, con-
+fronted by the Holloway Court, that failures on the part of
+conﬂicted counsel will elude demonstration after the fact,
+simply because they so often consist of what did not happen.
+435 U. S., at 490–492. While a defendant can fairly be sad-
+dled with the characteristically difﬁcult burden of proving
+adverse effects of conﬂicted decisions after the fact when the
+judicial system was not to blame in tolerating the risk of
+conﬂict, the burden is indefensible when a judge was on no-
+tice of the risk but did nothing.
+
+   With so much at stake, why should it matter how a judge
+learns whatever it is that would point out the risk to any-
+one paying attention? Of course an objection from a
+conscientious lawyer sufﬁces to put a court on notice, as
+it did in Holloway; and probably in the run of multiple-
+representation cases nothing short of objection will raise the
+specter of trouble. But sometimes a wide-awake judge will
+not need any formal objection to see a risk of conﬂict, as the
+federal habeas court’s ﬁnding in this very case shows. 74
+F. Supp. 2d, at 613–615. Why, then, pretend contrary to fact
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+204  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+that a judge can never perceive a risk unless a lawyer points
+it out? Why excuse a judge’s breach of judicial duty just
+because a lawyer has fallen down in his own ethics or is short
+on competence? Transforming the factually sufﬁcient trig-
+ger of a formal objection into a legal necessity for responding
+to any breach of judicial duty is irrational.
+
+   Nor is that irrationality mitigated by the Government’s
+effort to analogize the majority’s objection requirement to
+the general rule that in the absence of plain error litigants
+get no relief from error without objection. The Government
+as amicus argues for making a formal objection crucial be-
+cause judges are not the only ones obliged to take care for
+the integrity of the system; defendants and their counsel
+need inducements to help the courts with timely warnings.
+Brief for United States as Amicus Curiae 9, 26–27. The
+fallacy of the Government’s argument, however, has been on
+the books since Wood was decided. See 450 U. S., at 265,
+n. 5 (“It is unlikely that [the lawyer on whom the conﬂict of
+interest charge focused] would concede that he had continued
+improperly to act as counsel”). The objection requirement
+works elsewhere because the objecting lawyer believes that
+he sights an error being committed by the judge or opposing
+counsel. See, e. g., United States v. Vonn, ante, at 72–73
+(error in judge’s Rule 11 plea colloquy). That is hardly the
+motive to depend on when the risk of error, if there is one,
+is being created by the lawyer himself in acting subject to a
+risk of conﬂict, 227 F. 3d 203, 213–217 (CA4 2000), vacated
+en banc, 240 F. 3d 348 (CA4 2001). The law on conﬂicted
+counsel has to face the fact that one of our leading cases
+arose after a trial in which counsel may well have kept silent
+about conﬂicts not out of obtuseness or inattention, but for
+the sake of deliberately favoring a third party’s interest over
+the clients, and this very case comes to us with reason to
+suspect that Saunders suppressed his conﬂicts for the sake
+of a second fee in a case getting public attention. While the
+perceptive and conscientious lawyer (as in Holloway) needs
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          205
+
+                                   Souter, J., dissenting
+
+nothing more than ethical duty to induce an objection, the
+venal lawyer is not apt to be reformed by a general rule that
+says his client will have an easier time reversing a conviction
+down the road if the lawyer calls attention to his own
+venality.10
+
+   The irrationality of taxing defendants with a heavier bur-
+den for silent lawyers naturally produces an equally irratio-
+nal scheme of incentives operating on the judges. The
+judge’s duty independent of objection, as described in Sulli-
+van and Wood, is made concrete by reversal for failure to
+honor it. The plain fact is that the specter of reversal for
+failure to enquire into risk is an incentive to trial judges to
+keep their eyes peeled for lawyers who wittingly or other-
+wise play loose with loyalty to their clients and the funda-
+mental guarantee of a fair trial. See Wheat, 486 U. S., at
+161. Cf. Pate, supra, at 386–387 (reversal as remedy for
+state trial judge’s failure to discharge duty to ensure compe-
+tency to stand trial). That incentive is needed least when
+defense counsel points out the risk with a formal objection,
+
+   10 The Government contends that not requiring a showing of adverse
+effect in no-objection cases would “provide the defense with a disincentive
+to bring conﬂicts to the attention of the trial court, since remaining silent
+could afford a defendant with a reliable ground for reversal in the event
+of conviction.” Brief for United States as Amicus Curiae 27. This argu-
+ment, of course, has no force whatsoever in the case of the venal conﬂicted
+lawyer who remains silent out of personal self-interest or the obtuse law-
+yer who stays silent because he could not recognize a conﬂict if his own
+life depended on it. And these are precisely the lawyers presenting the
+danger in no-objection cases; the savvy and ethical lawyer would comply
+with his professional duty to disclose conﬂict concerns to the court. But
+even assuming the unlikely case of a savvy lawyer who recognizes a poten-
+tial conﬂict and does not know for sure whether to object timely on that
+basis as a matter of professional ethics, an objection on the record is still
+the most reliable factually sufﬁcient trigger of the judicial duty to enquire,
+dereliction of which would result in a reversal, and it is therefore beyond
+the realm of reasonable conjecture to suggest that such a lawyer would
+forgo an objection on the chance that a court in postconviction proceedings
+may ﬁnd an alternative factual basis giving rise to a duty to enquire.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+206  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+and needed most with the lawyer who keeps risk to himself,
+quite possibly out of self-interest. Under the majority’s
+rule, however, it is precisely in the latter situation that the
+judge’s incentive to take care is at its ebb. With no objec-
+tion on record, a convicted defendant can get no relief with-
+out showing adverse effect, minimizing the possibility of a
+later reversal and the consequent inducement to judicial
+care.11 This makes no sense.
+
+   The Court’s rule makes no sense unless, that is, the real
+point of this case is to eliminate the judge’s constitutional
+duty entirely in no-objection cases, for that is certainly the
+practical consequence of today’s holding. The defendant has
+the same burden to prove adverse effect (and the prospect
+of reversal is the same) whether the judge has no reason to
+know of any risk or every reason to know about it short of
+
+   11 Lest anyone be wary that a rule requiring reversal for failure to en-
+quire when on notice would be too onerous a check on trial judges, a sur-
+vey of Courts of Appeals already applying the Holloway rule in no-
+objection cases shows a commendable measure of restraint and respect for
+the circumstances of fellow judges in state and federal trial courts, ﬁnding
+the duty to enquire violated only in truly outrageous cases. See, e. g.,
+Campbell v. Rice, 265 F. 3d 878, 887–888 (CA9 2001) (reversing conviction
+under Holloway when trial judge failed to enquire after the prosecutor
+indicated defense counsel had just been arraigned by the prosecutor’s of-
+ﬁce on felony drug charges); United States v. Rogers, 209 F. 3d 139, 145–
+146 (CA2 2000) (reversing conviction when District Court failed to enquire
+on notice that counsel for defendant alleging police misconduct was a po-
+lice commissioner); United States v. Allen, 831 F. 2d 1487, 1495–1496 (CA9
+1987) (ﬁnding Magistrate Judge had reasonably enquired into joint repre-
+sentation of 17 codefendants who entered a group guilty plea, but revers-
+ing because the District Court failed to enquire when defense counsel later
+gave the court a list “rank[ing] the defendants by their relative culpabil-
+ity”). Under the majority’s rule, the defendants in each of these cases
+should have proved that there was an actual conﬂict of interests that ad-
+versely affected their representation. Particularly galling in light of the
+ﬁrst two cases is the majority’s surprising and unnecessary intimation that
+this Court’s conﬂicts jurisprudence should not be available or is somehow
+less important to those who allege conﬂicts in contexts other than multiple
+representation. See ante, at 175.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          207
+
+                                   Souter, J., dissenting
+
+explicit objection.12 In that latter case, the duty explicitly
+described in Sullivan and Wood becomes just a matter of
+words, devoid of sanction; it ceases to be any duty at all.
+
+   As that duty vanishes, so does the sensible regime under
+which a defendant’s burden on conﬂict claims took account of
+the opportunities to ensure against conﬂicted counsel in the
+ﬁrst place. Convicted defendants had two alternative ave-
+nues to show entitlement to relief. A defendant might, ﬁrst,
+point to facts indicating that a judge knew or should have
+known of a “ ‘particular conﬂict,’ ” Wood, 450 U. S., at 272,
+n. 18 (quoting Sullivan, 446 U. S., at 347), before that risk
+had a chance to play itself out with an adverse result. If he
+could not carry the burden to show that the trial judge had
+fallen down in the duty to guard against conﬂicts prospec-
+
+   12 Requiring a criminal defendant to prove a conﬂict’s adverse effect in
+all no-objection cases only makes sense on the Court’s presumption that
+the Sixth Amendment right against ineffective assistance of counsel is at
+its core nothing more than a utilitarian right against unprofessional errors
+that have detectable effects on outcome. See ante, at 166 (“[I]t also fol-
+lows that defects in assistance that have no probable effect upon the trial’s
+outcome do not establish a constitutional violation”). On this view, the
+exception in Holloway for objection cases turns solely on the theory that
+“harm” can safely be presumed when counsel objects to no avail at the
+sign of danger. See ante, at 168. But this Court in Strickland v. Wash-
+ington, 466 U. S. 668, 693–694 (1984), held that a speciﬁc “outcome-
+determinative standard” is “not quite appropriate” and spoke instead of
+the Sixth Amendment right as one against assistance of counsel that “un-
+dermines the reliability of the result of the proceeding,” id., at 693, or
+“conﬁdence in the outcome,” id., at 694. And the Holloway Court said
+that once a conﬂict objection is made and unheeded, the conviction “must
+be reversed . . . even if no particular prejudice is shown and even if the
+defendant was clearly guilty.” 435 U. S., at 489 (internal quotation marks
+and citation omitted). What is clear from Strickland and Holloway is
+that the right against ineffective assistance of counsel has as much to do
+with public conﬁdence in the professionalism of lawyers as with the results
+of legal proceedings. A revelation that a trusted advocate could not place
+his client’s interest above the interests of self and others in the satisfaction
+of his professional responsibilities will destroy that conﬁdence, regardless
+of outcome.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+208  MICKENS v. TAYLOR
+
+                                   Souter, J., dissenting
+
+tively, the defendant was required to show, from the perspec-
+tive of an observer looking back after the allegedly conﬂicted
+representation, that there was an actual conﬂict of interests
+with an adverse effect. The ﬁrst route was preventive,
+meant to avoid the waste of costly after-the-fact litigation
+where the risk was clear and easily avoidable by a reasonably
+vigilant trial judge; the second was retrospective, with a
+markedly heavier burden justiﬁed when the judiciary was
+not at fault, but at least alleviated by dispensing with any
+need to show prejudice. Today, the former system has been
+skewed against recognizing judicial responsibility. The
+judge’s duty applies only when a Holloway objection fails to
+induce a resolutely obdurate judge to take action upon the
+explicit complaint of a lawyer facing impossible demands.
+In place of the forsaken judicial obligation, we can expect
+more time-consuming post-trial litigation like this, and if this
+case is any guide, the added time and expense are unlikely
+to purchase much conﬁdence in the judicial system.13
+
+   I respectfully dissent.
+
+   13 Whether adverse effect was shown was not the question accepted, and
+I will not address the issue beyond noting that the case for an adverse
+effect appears compelling in at least two respects. Before trial, Saunders
+admittedly failed even to discuss with Mickens a trial strategy of reason-
+able doubt about the forcible sex element, without which death was not a
+sentencing option. App. 211–213; see also id., at 219. In that vein, Saun-
+ders apparently failed to follow leads by looking for evidence that the
+victim had engaged in prostitution, even though the victim’s body was
+found on a mattress in an area where illicit sex was common. Id., at
+202–217; Lodging to App. 397–398. There may be doubt whether these
+failures were the result of incompetence or litigation strategy rather than
+a conﬂicting duty of loyalty to the victim or to self to avoid professional
+censure for failing to disclose the conﬂict risk to Mickens (though strategic
+choice seems unlikely given that Saunders did not even raise the possibil-
+ity of a consent defense as an option to be considered). But there is little
+doubt as to the course of the second instance of alleged adverse effect:
+Saunders knew for a fact that the victim’s mother had initiated charges of
+assault and battery against her son just before he died because Saunders
+had been appointed to defend him on those very charges, id., at 390 and
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          209
+
+                                   Breyer, J., dissenting
+
+   Justice Breyer, with whom Justice Ginsburg joins,
+dissenting.
+
+   The Commonwealth of Virginia seeks to put the petitioner,
+Walter Mickens, Jr., to death after having appointed to rep-
+resent him as his counsel a lawyer who, at the time of the
+murder, was representing the very person Mickens was ac-
+cused of killing. I believe that, in a case such as this one, a
+categorical approach is warranted and automatic reversal is
+required. To put the matter in language this Court has pre-
+viously used: By appointing this lawyer to represent Mick-
+ens, the Commonwealth created a “structural defect affect-
+ing the framework within which the trial [and sentencing]
+proceeds, rather than simply an error in the trial process
+itself.” Arizona v. Fulminante, 499 U. S. 279, 310 (1991).
+
+   The parties spend a great deal of time disputing how this
+Court’s precedents of Holloway v. Arkansas, 435 U. S. 475
+(1978), Cuyler v. Sullivan, 446 U. S. 335 (1980), and Wood v.
+Georgia, 450 U. S. 261 (1981), resolve the case. Those prece-
+dents involve the signiﬁcance of a trial judge’s “failure to
+inquire” if that judge “knew or should have known” of a “po-
+tential” conﬂict. The majority and dissenting opinions dis-
+pute the meaning of these cases as well. Although I express
+no view at this time about how our precedents should treat
+most ineffective-assistance-of-counsel claims involving an
+alleged conﬂict of interest (or, for that matter, whether
+Holloway, Sullivan, and Wood provide a sensible or coher-
+ent framework for dealing with those cases at all), I am con-
+vinced that this case is not governed by those precedents,
+for the following reasons.
+
+393. Yet Saunders did nothing to counter the mother’s assertion in the
+post-trial victim-impact statement given to the trial judge that “ ‘all [she]
+lived for was that boy,’ ” id., at 421; see also App. 219–222. Saunders
+could not have failed to see that the mother’s statement should be rebut-
+ted, and there is no apparent explanation for his failure to offer the rebut-
+tal he knew, except that he had obtained the information as the victim’s
+counsel and subject to an obligation of conﬁdentiality.
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+210  MICKENS v. TAYLOR
+
+                                   Breyer, J., dissenting
+
+   First, this is the kind of representational incompatibility
+that is egregious on its face. Mickens was represented by
+the murder victim’s lawyer; that lawyer had represented the
+victim on a criminal matter; and that lawyer’s representation
+of the victim had continued until one business day before the
+lawyer was appointed to represent the defendant.
+
+   Second, the conﬂict is exacerbated by the fact that it oc-
+curred in a capital murder case. In a capital case, the evi-
+dence submitted by both sides regarding the victim’s charac-
+ter may easily tip the scale of the jury’s choice between life
+or death. Yet even with extensive investigation in post-trial
+proceedings, it will often prove difﬁcult, if not impossible, to
+determine whether the prior representation affected defense
+counsel’s decisions regarding, for example: which avenues to
+take when investigating the victim’s background; which wit-
+nesses to call; what type of impeachment to undertake;
+which arguments to make to the jury; what language to use
+to characterize the victim; and, as a general matter, what
+basic strategy to adopt at the sentencing stage. Given the
+subtle forms that prejudice might take, the consequent difﬁ-
+culty of proving actual prejudice, and the signiﬁcant likeli-
+hood that it will nonetheless occur when the same lawyer
+represents both accused killer and victim, the cost of litigat-
+ing the existence of actual prejudice in a particular case can-
+not be easily justiﬁed. Cf. United States v. Cronic, 466 U. S.
+648, 657–658 (1984) (explaining the need for categorical ap-
+proach in the event of “actual breakdown of the adversarial
+process”).
+
+   Third, the Commonwealth itself created the conﬂict in the
+ﬁrst place. Indeed, it was the same judge who dismissed
+the case against the victim who then appointed the victim’s
+lawyer to represent Mickens one business day later. In
+light of the judge’s active role in bringing about the incom-
+patible representation, I am not sure why the concept of a
+judge’s “duty to inquire” is thought to be central to this case.
+No “inquiry” by the trial judge could have shed more light
+535US1 Unit: $U34 [09-18-03 15:56:48] PAGES PGT: OPIN
+
+Cite as: 535 U. S. 162 (2002)                          211
+
+                                   Breyer, J., dissenting
+
+on the conﬂict than was obvious on the face of the matter,
+namely, that the lawyer who would represent Mickens today
+is the same lawyer who yesterday represented Mickens’ al-
+leged victim in a criminal case.
+
+   This kind of breakdown in the criminal justice system cre-
+ates, at a minimum, the appearance that the proceeding will
+not “ ‘reliably serve its function as a vehicle for determina-
+tion of guilt or innocence,’ ” and the resulting “ ‘criminal pun-
+ishment’ ” will not “ ‘be regarded as fundamentally fair.’ ”
+Fulminante, supra, at 310. This appearance, together with
+the likelihood of prejudice in the typical case, is serious
+enough to warrant a categorical rule—a rule that does not
+require proof of prejudice in the individual case.
+
+   The Commonwealth complains that this argument “relies
+heavily on the immediate visceral impact of learning that a
+lawyer previously represented the victim of his current cli-
+ent.” Brief for Respondent 34. And that is so. The “vis-
+ceral impact,” however, arises out of the obvious, unusual
+nature of the conﬂict. It arises from the fact that the Com-
+monwealth seeks to execute a defendant, having provided
+that defendant with a lawyer who, only yesterday, repre-
+sented the victim. In my view, to carry out a death sen-
+tence so obtained would invariably “diminis[h] faith” in the
+fairness and integrity of our criminal justice system. Young
+v. United States ex rel. Vuitton et Fils S. A., 481 U. S. 787,
+811–812 (1987) (plurality opinion). Cf. United States v.
+Olano, 507 U. S. 725, 736 (1993) (need to correct errors that
+seriously affect the “ ‘fairness, integrity or public reputation
+of judicial proceedings’ ”). That is to say, it would diminish
+that public conﬁdence in the criminal justice system upon
+which the successful functioning of that system continues
+to depend.
+
+   I therefore dissent.
+

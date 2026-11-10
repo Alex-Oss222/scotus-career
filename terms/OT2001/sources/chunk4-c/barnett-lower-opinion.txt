@@ -1,0 +1,1676 @@
+Source: https://archive.org/download/micro_IA40385014_0450/micro_IA40385014_0450%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf
+
+APPENDIX A 
+UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+NO. 96-16669 
+D.C. No. CV-94-03874-DLJ 
+ROBERT BARNETT, 
+Plaintiff-Appellant, 
+V. 
+U.S. AiR, INC. 
+Defendant-Appellee 
+Appeal from the United States District Court for the North- 
+ern District 
+of California 
+D. Lowell Jensen, District Judge, Presiding 
+Filed October 
+4, 2000 
+Before: Procter Hug, Jr., Chief Judge, Mary M. Schroeder, 
+Betty 
+B. Fletcher, Harry Pregerson, 
+Diarmuid F. 
+O’Scannilain, Stephen S. Trott, Andrew J. Kleinfeld, A. Wal- 
+lace Tashima, Sidney R. Thomas, Raymond C. Fisher, 
+Ronald M. Gould, Circuit Judges. 
+Opinion by Judge B. Fletcher; 
+Gould, Circuit Judge, with whom Circuit Judge Thomas 
+- 
+joins, 
+ing; 
+O’Scanniain, Circuit Judge, with whom Circuit Judges Trott 
+and Kleinfeld join, Dissenting; 
+Trott, Circuit Judge, with whom Circuit Judges O’Scannlain 
+and Kleinfeld join, Dissenting 
+OPINION 
+B. FLETCHER, Circuit Judge: 
+
+
+PAGE 24
+2a 
+Robert Barnett brought suit under the Americans with 
+Disabilities Act (ADA) and he appeals the district court’s 
+dismissal on summary judgment of his claims. Barnett, who 
+suffered a serious back injury while on the job, argues that 
+U.S. Air discriminated against him by denying him accom- 
+modation, by failing to engage in the interactive process and 
+by retaliating against him for filing charges with the Equal 
+Employment Opportunity Commission (EEOC). This appeal 
+raises several issues of first impression in this circuit, includ- 
+ing the nature and scope of an employer’s obligation to en- 
+gage in the interactive process, whether reassignment is a 
+reasonable accommodation in the context of a seniority sys- 
+tem and the appropriate standard for evaluating retaliation 
+claims under the ADA. We reverse the district court’s grant 
+of summary judgment in favor of U.S. Air on all claims ex- 
+cept for the retaliation claim and we remand for trial. 
+Robert Barnett worked for ten years as a customer ser- 
+vice agent for U.S. Air and its predecessor Pacific Southwest 
+Airlines. In 1990, Barnett injured his back while working in 
+a cargo position for U.S. Air at San Francisco International 
+Airport. After returning from disability leave, Barnett found 
+that he could not perform all of the physical requirements of 
+handling freight. 
+Barnett used his seniority to transfer into 
+the company’s mail room. 
+In March and August of 1992, Barnett’s doctor and chi- 
+ropractor both recommended that he avoid heavy lifting and 
+excessive bending, twisting, turning, pushing and pulling, 
+and prolonged standing or sitting. The doctor concluded that 
+Barnett could perform the job requirements of the swing- 
+shift mail room position. Barnett learned in August of 1992 
+that two employees with greater seniority planned to exercise 
+their seniority nght to transfer to the mail room. 
+Once 
+bumped, 
+Barnett’s seniority would have limited him to 
+transferring to jobs in the cargo area. 
+Barnett wrote to his 
+3a 
+station manager, Robert Benson, on August 31, 1992 and 
+requested that he be allowed to stay in the mail room as a 
+reasonable accommodation 
+under the ADA. 
+U.S. Air did not respond to Bamett for five months but 
+allowed him to remain in the mail room for the period while 
+the company 
+was evaluating 
+his claims. On January 20, 
+1993, Benson, acting on behalf 
+of U.S. Air, informed Barnett 
+that he would be removed from the mail room and placed on 
+job injury leave. 
+There was no substantive discussion of 
+Barnett’s accommodation request. 
+Following the meeting, 
+Barnett sent Benson a second letter suggesting two alterna- 
+tive 
+of accommodating his disability. 
+Barnett pro- 
+posed either that U.S. Air provide him with special lifting 
+equipment in the cargo facility or that the cargo job be re- 
+structured so that he would do only warehouse office work. 
+Barnett filed formal charges of discrimination with the 
+EEOC in February of 1993. On March 4, 1993, Barnett re- 
+ceived a letter from U.S. Air’s Vice President of Human Re- 
+sources 
+denying 
+Barnett’s 
+alternative 
+requests 
+for 
+accommodation but informing him that he could bid for any 
+job within his restrictions. There is no evidence that Barnett 
+was qualified, without reasonable accommodation, for any 
+other position in San Francisco or elsewhere in the U.S. Air 
+system. 
+Barnett made no subsequent bids for any other 
+position. 
+In August of 1994, the EEOC issued a formal 
+determination that there was reason to believe that U.S. Air 
+had discriminated against Barnett by denying him reasonable 
+accommodation under the ADA. 
+After Barnett filed suit, the district court granted U.S. 
+Air’s motion for summary judgment for all claims except 
+Barnett’s claim that U.S. Air discriminated by not participat- 
+ing in the interactive process. Upon receiving supplementary 
+briefing, the district court granted summary judgment to U.S. 
+Air on the claim as well. Barnett, in his appeal, argues that 
+U.S. Air violated the ADA by failing to engage in the inter- 
+
+
+PAGE 25
+4a 
+active process, by failing to reassign him to the mail room, 
+by failing to provide other reasonable accommodation 
+and 
+by retaliating against him. 
+II 
+We review de novo the district court’s grant of summary 
+judgment. Bagdadi v. Nazar, 84 F.3d 1194, 1997 (9" Cir. 
+1996). In determining whether there are any genuine issues 
+of material fact, we must view the evidence in the light most 
+favorable to the nonmoving party. /d. 
+Barnett claims that U.S. Air had an obligation to engage 
+in an interactive process to identify possible reasonable ac- 
+commodations. Barnett further asserts that U.S. Air’s failure 
+to engage in this process gives rise to liability under the 
+ADA. The district court concluded that no employer is liable 
+for failing to engage in the interactive process but that U.S. 
+Air had sufficiently engaged in the interactive process to 
+avoid such liability 
+Although disabled Americans have played prominent 
+roles in our nation’s history, from the founders of our Consti- 
+tution to our longest serving President, they have also faced a 
+long history 
+of exclusion. Congress, 
+in the opening section 
+of the ADA, recognized that some “43,000,000 Americans 
+have one or more physical or mental disabilities” and that: 
+individuals with disabilities are a discrete and insular mi- 
+nority who have been faced with restrictions and limita- 
+tion, subjected to a history of purposeful unequal treat- 
+ment, and relegated to a position of political powerless- 
+ness in our society, based on characteristics that are be- 
+yond the control of such individuals and resulting from 
+stereotypic assumptions not truly indicative of the indi- 
+vidual ability of such individuals to participate in, and 
+contribute 
+to, society; 
+42 U.S.C. § 12101(a){7). 
+Sa 
+The ADA was designed to end the exclusion_of people 
+with disabilities from the workplace and from other realms 
+of social life. President George Bush explained upon sign- 
+ing the ADA: 
+Today, we’re here to rejoice in and celebrate an- 
+other ‘Independence 
+Day,” one that is long overdue. 
+With today’s signing of the landmark Americans for 
+[sic] Disabilities Act, every man, woman, and child 
+with a disability can now pass through once-closed 
+doors into a bright new era of equality, independence 
+and freedom ... Today’s legislation 
+brings us closer 
+to that day when no Americans will ever again be 
+deprived of their basic guarantees of life, liberty, and 
+the pursuit of happiness. 
+President George Bush, “Remarks on Signing the Ameri- 
+cans with Disabilities Act of 1990,” (July 26, 1990), re- 
+printed in Bernard D. Reams, Jr., et. al., eds., Disability Law 
+in the United States: A Legislative History of the Americans 
+with Disabilities Act of 1990, Public Law 101-336, Vol. I, 
+Document No. 9 (1992). 
+In introducing the ADA, Senator Harkin called the stat- 
+ute “a broad and remedial bill of rights for individuals with 
+disabilities. 
+It is their emancipation proclamation.” 
+135 
+Cong. Rec. S 4984 (May 9, 1989) (statement of Sen. 
+Harkin) reprinted in Disability Law, Vol. V1, Document No. 
+36. 
+Citing a nationwide poll, Senator Harkin pointed out 
+that sixty-six percent of working-age disabled persons who 
+are not working, or some 8.2 million persons, want to have a 
+job and that eighty-two percent of people with disabilities 
+would give up their government benefits in favor of fill-time 
+employment. 
+/d. at S 4985. 
+Thus, the workplace protec- 
+tions of the ADA are central to the Act’s goals of assuring 
+“equality of opportunity, full participation, independent liv- 
+ing, and economic self-sufficiency” for people with disabili- 
+ties. 42 U.S.C. § 12101(a\8). 
+
+
+PAGE 26
+6a 
+Title I of the ADA insures full opportunities for people 
+with disabilities in the workplace by requiring reasonable 
+accommodation of employees’ disabilities by their employ- 
+ers. 
+The ADA prohibits employers from discriminating 
+against a disabled employee’ by “not making reasonable 
+' The district court determined that Barnett was “disabled” under the 
+ADA and U.S. Air concedes that they did not raise this issue to the court 
+on appeal. 
+In his dissent, Judge O’Scanniain argues that U.S. Air has not 
+waived the issue of whether Barnett is “disabled.” However, 
+the law of 
+this circuit is that issues not raised in a party’s opening brief are waived. 
+See Paracaor Finance v. General Elec. Capital Corp., 96 F.3d 1151, 
+1168 (9" Cir. 1996) (Judge O’Scannlain 
+writing for the court). Only last 
+year, Judge O’Scannlain reaffirmed this principle as the law of our circuit 
+on at least three separate occasions. See Smith v. Marsh, 194 F.3d 1045, 
+1052 
+(9 Cir. 1999) (“arguments not raised by a party in its opening brief 
+are deemed waived.”); Brookfield Communications, Inc. v. West Coast 
+Entertainment Corp., 174 F.3d 1036, 1046 n.7 (9th Cir. 1999) (“Brook- 
+field chose not to argue its trademark dilution claim or its state law 
+causes of action in its opening brief. We accordingly 
+deem those issues 
+waived.”); Zukle v. Regents of University of California, 166 F.3d 1041, 
+1045 n.10 (9th Cir. 1999) (Zukle did not raise her race, sex or sexual 
+harassment claims in her opening brief; therefore she has waived any 
+appeal from the district court’s grant of summary judgment on these 
+claims.”). Issues are deemed waived, as Judge O’Scannlain has pointed 
+out, despite the existence of supplemental briefing. See Kreisner 
+v. City 
+of San Diego, | F.3d 775, 778 n.2 (9th Cir. 1993). 
+As we explained in Greenwood v. FAA, 28 F.3d 971, 977 (9th Cir. 
+1994) (internal citation omitted): “We review only issues which are ar- 
+gued specifically and distinctly in a party’s opening brief. We will not 
+manufacture arguments for appellant, and a bare assertion does not pre- 
+serve 
+a claim.” We have consistently regarded issues raised for the first 
+time in reply briefs as waived. See Omega Environmental, Inc. v. Gil- 
+barco, Inc., 127 F.3d 1157, 1167 (9th Cir. 1997); McMillan v. United 
+States, 112 F.3d 1040, 1047 (9” Cir. 1997). Thus, since U.S. Air failed 
+to raise the issue of Barnett’s “disability” in its opening and reply bref, 
+this issue was waived despite the filing of supplemental briefs. As U.S. 
+Air was fit to raise this issue before the district court, before our decision 
+7a 
+accommodations to the known physical or mental limita- 
+tions of an otherwise qualified individual with a disability 
+who is an applicant or employee, unless such covered entity 
+can demonstrate that the accommodation would impose an 
+undue hardship on the operation of the business of such 
+covered entity.” 42 U.S.C. § 12112(b)(5)/A). 
+The ADA 
+defines a “qualified individual with a disability” as “an indi- 
+vidual with a disability who, with or without reasonable ac- 
+commodation, can perform the essential functions of the 
+employment position that such individual holds or desires.” 
+42 U.S.C. § 12111(8). 
+U.S. Air argues that Barnett is not covered under the 
+ADA because he was not “qualified” for the cargo position 
+due to his disability. If Barnett could perform the essential 
+functions of the cargo position “with or without reasonable 
+accommodation” he would be qualified under the ADA. 42 
+in Thompson v. Holy Family Hospital, 121 F.3d 537 (9th Cir. 1997), 
+came down, it had the opportunity to raise the issue in a cross-appeal. 
+Furthermore, the facts of this case do not fit under our ruling in 
+Thompson. In Thompson, the only restriction imposed on the plaintiff 
+was a twenty five pound lifting restriction. Id. 
+at 539. In contrast here, 
+as the dissent concedes, Barnett faced further restrictions regarding pro- 
+longed standing or sitting and excessive or repeated bending, twisting, 
+ally the only “crucial limitation.” There is no basis in the record for this 
+conclusion. The question of whether Barnett is “disabled” is analytically 
+distinct from an analysis of the functions of the mail room position, 
+which the dissent appears to rely on. Nonetheless, 
+the job analysis of the 
+mail room position, which did not involve an assessment of the position’s 
+longed standing or sitting or excessive bending, stooping, pulling or 
+pushing ° 
+
+
+PAGE 27
+8a 
+U.S.C. § 12112(b)(5)(A). Furthermore, the statutory defini- 
+tion of a “qualified individual” covers individuals who can 
+perform the “essential functions” of a position which the 
+individual either “holds or desires.” Therefore, even if Bar- 
+nett could not perform the essential functions of the cargo 
+position, if he could perform the essential functions of an- 
+other position in the company which he “desires” he is cov- 
+ered under the ADA. The plain language of the statute re- 
+quires this reading of the statute. To read the statute other- 
+wise would render the word “desires” meaningless. 
+See 
+Gustasfon v. Alloyd Co., 513 U.S. 561, 574 (1995) (“the 
+Court will avoid a reading which renders some words alto- 
+gether redundant”). 
+Our conclusion that a “qualified indi- 
+vidual with a disability” includes individuals who could per- 
+form the essential functions of a reassignment position, with 
+or without reasonable accommodation, even if they cannot 
+perform the essential functions of the current position is 
+supported by nearly every circuit which has considered the 
+issue. 
+See Smith v. Midland Brake, Inc., 180 F.3d 1154, 
+1161-62 (10" Cir. 1999) (en banc) (collecting cases). 
+Barnett asserts that U.S. Air failed to fulfill its obliga- 
+tion to engage in an interactive process to find a reasonable 
+accommodation. 
+The legislative history makes clear that 
+employers are required to engage in an interactive process 
+with employees in order to identify and implement appro- 
+priate reasonable accommodations. 
+The Senate Report ex- 
+plained that: “A problem-solving approach should be used 
+to identify the particular tasks or aspects of the work envi- 
+ronment that limit performance and to identify possible ac- 
+commodations . 
+. 
+. employers first will consult with and in- 
+volve the individual with a disability in deciding on the ap- 
+propriate accommodation.” 
+S. Rep. No. 101-116, at 34 
+(1989); see also H.R. Rep. No. 101-485, pt. 2, at 65 (1990). 
+The ADA authorizes the EEOC to issue regulations im- 
+plementing the ADA. See 42 U.S.C. § 12116. The EEOC 
+9a 
+regulations outline the nature of the interactive process: 
+To determine the appropriate reasonable accommo- 
+dation it may be necessary for the [employer] to ini- 
+tiate an informal, interactive process with the quali- 
+fied individual with a disability in need of the ac- 
+commodation. This process should identify the pre- 
+cise limitations resulting from the disability and po- 
+tential reasonable accommodations that could over- 
+come those limitations. 
+29 C.F.R. § 1630.2(0)(3). 
+The phrase “may be necessary” is merely a recognition 
+that in some circumstances the employer and employee can 
+easily identify an appropriate reasonable accommodation. 
+Any doubt that the EEOC views the interactive process as a 
+mandatory obligation is resolved by the EEOC’s interpretive 
+guidance, which states that “the employer must make a rea- 
+sonable effort to determine the appropriate accommodation. 
+The appropriate reasonable accommodation is best deter- 
+mined through a flexible, interactive process that involves 
+both the employer and the [employee] with a disability.” 29 
+C.F.R. Pt. 1630, App. § 1620.9. The EEOC’s Enforcement 
+Guidance also specifies the nature of the interactive process: 
+“The employer and the individual with a disability should 
+engage in an informal process to clarify what the individual 
+needs and identify the appropriate accommodation.” EEOC 
+Enforcement Guidance: Reasonable Accommodation and 
+Undue Hardship Under the Americans with Disabilities Act, 
+EEOC Compliance Manual (CCH), § 902, No. 915.002 
+(March 1, 1999), at 5440. 
+The interactive process is triggered either by a request 
+for accommodation by a disabled employee or by the em- 
+ployer’s recognition of the need for such an accommoda- 
+tion. An employee requesting a reasonable accommodation 
+should inform the employer of the need for an adjustment 
+due to a medical condition using “’plain English’ and need 
+
+
+PAGE 28
+10a 
+not mention the ADA or use the phrase ‘reasonable accom- 
+modation.’”” /d. at 5438. In some circumstances, according 
+to the EEOC, the employee need not even request the ac- 
+commodation: “An employer should initiate the reasonable 
+accommodation interactive process without being asked if 
+the employer: (1) knows that the employee has a disability, 
+(2) knows, or has reason to know, that the employee is ex- 
+periencing workplace problems because of the disability, 
+and (3) knows, or has reason to know, that the disability 
+prevents the employee from requesting a reasonable ac- 
+commodation.” Jd. at 5459. 
+Almost all of the circuits to rule on the question have 
+held that an employer has a mandatory obligation to engage 
+in the interactive process and that this obligation is tiggered 
+either by the employee’s request for accommodation or by 
+the employer’s recognition of the need for accommodation. 
+See Fjellestad v. Pizza Hut of America, Inc., 188 F.3d 944, 
+952 (8 Cir. 1999) (“when the disabled individual requests 
+accommodation, it becomes necessary to initiate the interac- 
+tive process”); Smith, 180 F.3d at 1172 (holding that the 
+duty to engage in the interactive process is triggered once 
+the employee “convey([s] to the employer a desire to remain 
+with the company despite his or her disability and limita- 
+tions” and that “the obligation to engage in an interactive 
+process is inherent in the statutory obligation to offer a rea- 
+sonable accommodation to an otherwise qualified disabled 
+employee”); Taylor v. Phoenixville Sch. Dist., 184 F.3d 296, 
+315 (3d Cir. 1999) (holding that the employer’s duty to en- 
+gage in the interactive process is triggered “[o]nce the em- 
+ployer knows of the disability and the employee’s desire for 
+accommodations” and that the employer must “‘meet the 
+employee half-way’” by requesting additional information) 
+(quoting Bultemeyer v. Fort Wayne Community Schools, 
+100 F.3d 1281, 1285 (7" Cir. 1996)); Bultemeyer, 100 F.3d 
+at 1285 (“The employer has to meet the employee half-way, 
+and if it appears that the employee may need an accommo- 
+lla 
+dation but doesn’t know how to ask for it, the employer 
+should do what it can to help”); Taylor v. Principal Fin. 
+Group Inc., 93 F.3d 155, 165 (5 Cir. 1996) (“Thus, it is the 
+employee’s initial request for an accommodation which 
+triggers the employer’s obligation to participate in the inter- 
+active process of determining one”). 
+But see Willis v. 
+Conopco, 108 F.3d 282, 285 (11™ Cir. 1997) (holding that 
+the plaintiff must produce evidence that a reasonable ac- 
+commodation is available before an employer is obligated to 
+engage in the interactive process).’ 
+U.S. Air argues that Barnett bears the burden of demon- 
+strating the availability of a reasonable accommodation. To 
+put the entire burden for finding a reasonable accommoda- 
+tion on the disabled employee or, effectively, to exempt the 
+employer from the process of identifying reasonable ac- 
+commodation, conflicts with the goals of the ADA. 
+The 
+interactive process is at the heart of the ADA’s process and 
+essential to accomplishing its goals. It is the primary vehi- 
+cle for identifying and achieving effective adjustments 
+which allow disabled employees to continue working with- 
+out placing an “undue burden” on employers. 
+Employees 
+do not have at their disposal the extensive information con- 
+cerning possible alternative positions or possible accommo- 
+dations whieh employers have. Putting the entire burden on 
+the employee to identify a reasonable accommodation risks 
+? The First Circuit, in Jacques v. Clean-Up Group, Inc., 96 F.3d 506, 
+515 (1* Cir. 1996), opted for a case-by-case approach but explained that 
+“[t}here may well be situations in which the employer’s failure to engage 
+in an informal interactive process would constitute a failure to provide 
+reasonable accommodation that amounts to a violation of the ADA.” 
+Later cases have suggested that the employee bears the burden of show- 
+ing reasonable accommodation but have continued the case-by-case ap- 
+proach: “[t]hese are difficult, fact intensive, case-by-case analyses, ill- 
+served by per se rules or stereotypes.” 
+Garcia-Ayala v. Lederle Par- 
+enterals, Inc., 212 F.3d 638, 650 (1* Cir. 2000). 
+
+
+PAGE 29
+12a 
+shutting out many workers simply because they do not have 
+the superior knowledge of the workplace that the employer 
+has. 
+As the Third Circuit explained, since the regulations re- 
+quire the interactive process to identify appropriate accom- 
+modations, “it would make little sense to insist that the em- 
+ployee must have arrived at the end product of the interac- 
+tive process before the employer has a duty to participate in 
+that process.” 
+Taylor, 198 F.3d at 316. At the same time, 
+the employee holds essential information for the assessment 
+of the type of reasonable accommodation which would be 
+most effective.’ While employers have superior knowledge 
+regarding the range of possible positions and can more eas- 
+ily perform analyses regarding the “essential functions” of 
+each, employees generally know more about their own ca- 
+pabilities and limitations. 
+The statute further does not allow employers to avoid 
+reasonable accommodation absent a showing of undue hard- 
+ship. The ADA’s reasonable accommodation requirement 
+puts the burden on the employer to show that a proposed 
+* Under the Rehabilitation Act, the Fifth Circuit held that “the bur- 
+den of persuasion in proving inability to accommodate always remains 
+on the employer.” Prewitt v. United States Postal Serv., 662 F.2d 292, 
+308 (5* Cir. 1981). We followed the Fifth Circuit in holding that “the 
+burden of persuasion in proving inability to accommodate always re- 
+mains on the employer.” Mantolete v. Bolger, 767 F.2d 1416, 1424 (9” 
+Cir. 1985). However, our later cases under the Rehabilitation Act sug- 
+gested a higher burden for plaintiffs. See Buckingham v. United States, 
+998 F.2d 735, 740 (9" Cir. 1993) (“[P)laintiffs must only provide evi- 
+dence sufficient to make at least a facial showing that reasonable ac- 
+commodation is possible”); Mustofa v. Clark County Sch. Distr., 157 
+F.3d 1169, 1176 (9th Cir. 1998) (“{Plaintiff] bears the initial burden of 
+showing that ‘the suggested accommodation would, more probably than 
+not, have resulted in his ability to perform the essential functions of his 
+job”). 
+13a 
+accommodation will cause undue hardship.* See 42 U.S.C. 
+§ 12112(b\(5)(A) (an employer violates the ADA by “not 
+making reasonable accommodations . . . unless such covered 
+entity can demonstrate that the accommodation would im- 
+pose an undue hardship on the operation of the business of 
+such covered entity”.). 
+Therefore, we join explicitly with the vast majority of 
+our sister circuits in holding that the interactive process is a 
+mandatory rather than a permissive obligation on the part of 
+employers under the ADA and that this obligation is trig- 
+gered by an employee or an employee’s representative giv- 
+ing notice of the employee’s disability and the desire for 
+accommodating. In circumstances in which an employee is 
+unable to make such a request, if the company knows of the 
+existence of the employee’s disability, the employer must 
+assist in initiating the interactive process.” 
+We next turn to the requirements of the interactive proc- 
+ess. Both the legislative history and the EEOC regulations 
+detail the nature of the interaction required of employers and 
+employees. 
+The Senate Report outlined four steps which 
+* In analyzing undue hardship, the focus is on the impact of a possi- 
+ble accommodation on the employer. Conversely, in assessing reason- 
+able accommodations the primary focus is on whether the accommoda- 
+tion effectively allows a disabled employee to successfully perform the 
+job. 
+See 29 CFR. pt. 1630, App. § 1630.9. 
+* In keeping with the statutory requirements, employers must notify 
+applicants and employees of the reasonable accommodation provisions, 
+who is entitled to an accommodation and what is necessary to trigger the 
+interactive process. 
+See 42 U.S.C. § 121115 (“Every employer, em- 
+ployment agency, labor organization, or joint labor-management commut- 
+tee covered under this subchapter shall post notices in an accessible for- 
+mat to applicants, employees, and members describing the applicable 
+provisions of this chapter.”). 
+
+
+PAGE 30
+l4a 
+employers should follow when engaging in the interactive 
+process: 
+[T]he Committee believes the employer should con- 
+sider four informal steps to identify and provide an ap- 
+propriate accommodation. 
+The first informal step is to identify barriers to equal 
+opportunity. 
+This includes identifying and distinguish- 
+ing between essential and nonessential job tasks and as- 
+pects of the work environment of the relevant posi- 
+tion(s). 
+... Having identified the barriers to job performance 
+caused by the disability, the second informal step is to 
+identify possible accommodations. 
+... Having identified one or more possible accom- 
+modations, the third informal step is to assess the rea- 
+sonableness of each in terms of effectiveness and equal 
+opportunity. 
+... The final informal step is to implement the ac- 
+commodation that is most appropriate for the employee 
+and the employer and that does not impose an undue 
+hardship on the employer’s operation or to permit the 
+employee to provide his or her own accommodation if it 
+does not impose an undue hardship. 
+... The expressed choice of the applicant or em- 
+ployee shall be given primary consideration unless an- 
+other effective accommodation exists that would provide 
+a meaningful equal employment opportunity. 
+S. Rep. No. 101-116, at 35 (1989); see also H.R. Rep. No. 
+101-485, pt. 2, at 66 (1990). 
+The EEOC outlines the four steps critical to the interac- 
+tive process. Once a request for a reasonable accommoda- 
+tion has been made, the EEOC requires an employer to: 
+15a 
+(1) Analyze the particular job involved and determine 
+its purpose and essential functions; 
+(2) Consult with the individual with a disability to as- 
+certain the precise job-related limitations imposed by the 
+individual’s disability and how those limitations could 
+be overcome with a reasonable accommodation; 
+(3) In consultation with the individual to be accommo- 
+dated, identify potential accommodations and assess the 
+effectiveness each would have in enabling the individual 
+to perform the essential functions of the position and; 
+(4) Consider the preference of the individual to be ac- 
+commodated and select the implement the accommoda- 
+tion that is most appropriate for both the employee and 
+the employer. 
+29 C.F.R. Pt. 1630, App. § 1630.9. 
+The interactive process requires communication and 
+good-faith exploration of possible accommodations between 
+employers and individual employees. The shared goal is to 
+identify an accommodation that allows the employee to per- 
+form the job effectively. Both sides must communicate di- 
+rectly, exchange essential information® and neither side can 
+delay or obstruct the process. 
+See Smith, 180 F.3d at 1172 
+(“The interactive process includes good-faith communica- 
+tions between the employer and employee.”); Beck v. Uni- 
+* Under the Rehabilitation Act, employers were required to “gather — 
+sufficient information from the applicant and from qualified experts as 
+needed to determine what accommodations are necessary to enable the 
+applicant to perform the job safely.” Mantolete, 767 F.2d at 1423. We 
+note that an employer cannot ask an employee for documentation unre- 
+lated to establishing the existence of a disability and the necessity of ac- 
+commodation. Therefore, an employer generally cannot ask for an em- 
+ployee’s complete medical records because they are likely to contain 
+information unrelated to the disability at issue. See EEOC Enforcement 
+Guidance, EEOC Compliance Manual at 5440. 
+
+
+PAGE 31
+l6a 
+versity of Wis. Bd. of Regents, 75 F.3d 1130, 1135 (7™ Cir. 
+1996) (“A party that obstructs or delays the interactive proc- 
+ess is not acting in good faith. A party that fails to commu- 
+nicate, by way of initiation or response, may also be acting 
+in bad faith.”’). 
+In order to demonstrate good faith, employers can point 
+to cooperative behavior which promotes the identification of 
+an appropriate accommodation. 
+Employers should “meet 
+with the employee who requests an accommodation, request 
+information about the condition and what limitations the 
+employee has, ask the employee what he or she specifically 
+wants, show some sign of having considered employee’s 
+request, and offer and discuss available alternatives when 
+the request is too burdensome.” Taylor, 184 F.3d at 317. 
+The interactive process requires that employers analyze 
+job functions to establish the essential and nonessential job 
+tasks. 
+In order to identify the barriers to job performance, 
+employers must consult and cooperate with disabled em- 
+ployees so that both parties discover the precise limitations 
+and the types of accommodations which would be most ef- 
+fective. 
+The evaluation of proposed accommodations re- 
+quires further dialogue and an assessment of the effective- 
+ness of each accommodation, in terms of enabling the em- 
+ployee to successfully perform the job. See 29 C.F.R. Pt. 
+1630, App. § 1630.9. 
+Once the employer and employee have identified and 
+assessed the range of possible reasonable accommodations, 
+the legislative history directs that “the expressed choice of 
+the applicant shall be given primary consideration unless 
+another effective accommodation exists that would provide 
+a meaningful equal employment opportunity.” S. Rep. No. 
+101-116, at 35 (1989); see also H.R. Rep. No. 101-485, at 
+67 (1990). An appropriate reasonable accommodation must 
+be effective, in enabling the employee to perform the duties 
+of the position. 
+17a 
+We next turn to the consequences for employers who 
+fail to engage in the interactive process in good faith. The 
+Seventh Circuit held that “courts should attempt to isolate 
+the cause of the breakdown [in the interactive process] and 
+then assign responsibility” so that “[l]iability for failure to 
+provide reasonable accommodations ensues only where the 
+employer bears responsibility for the breakdown.” Beci:, 75 
+F3d. at 1135-37. 
+Most circuits have held that liability ensues for failure to 
+engage in the interactive process when a reasonable ac- 
+commodation would otherwise have been possible. 
+See 
+Smith, 180 F.3d at 1174; Taylor, 184 F.3d at 317-18; Bulte- 
+meyer, 100 F.3d at 1285; Principal, 93 F.3d at 165. The 
+range of possible reasonable accommodations, for purposes 
+of establishing liability for failure to accommodate, can ex- 
+tend beyond those proposed: 
+an employer who acts in bad faith in the interactive 
+process will be liable if the jury cah reasonably 
+conclude thai the employee would have been abie 
+to perform the job with accommodations. 
+In mak- 
+ing that determination, the jury is entitled to bear in 
+mind that had the employer participated in good 
+faith, there may have been other, unmentioned pos- 
+sible accommodations. 
+Taylor, 184 F.3d at 317-318. 
+A number of circuits have further held that an employer 
+cannot prevail at summary judgmez.i if there is a genuine 
+dispute as to whether the employer engaged in the interac- 
+tive process in good faith. See Fjellestad, 188 F.3d at 953 
+(“we find that summary judgment is typically precluded 
+when there is a genuine dispute as to whether the employer 
+acted in good faith and engaged in the interactive process of 
+seeking reasonable accommodations”); Taylor, 184 F 3d at 
+318 (“where there is a genuine dispute about whether the 
+employer acted in good faith, summary judgment will typi- 
+-_- 
+
+
+PAGE 32
+18a 
+cally be precluded”); Baert v. Euclid Beverage, Lid., 149 
+F.3d 626, 633-34 
+(7 Cir. 1998) (refusing 
+to grant an em- 
+ployer summary judgment because disputes of fact remained 
+about which party caused the breakdown in the interactive 
+process). 
+The interactive process is the key mechanism for facili- 
+tating the integration of disabled employees into the work- 
+place. Employers who reject this core process must face 
+liability when a reasonable accommodation would have 
+been possible. 
+Without the interactive process, many em- 
+ployees will be unable to identify effective reasonable ac- 
+commodations. Without the possibility of liability for failure 
+to engage in the interactive process, employers would have 
+less incentive to engage in a cooperative dialogue and to 
+explore fully the existence and feasibility of reasonable ac- 
+commodations. 
+The result would be less accommodation 
+and more litigation, as lawsuits become the only alternative 
+for disabled employees seeking accommodation. 
+This is a 
+long way from the framework of cooperative problem solv- 
+ing based on open and individualized exchange in the work- 
+place that the ADA intended. 
+Therefore, summary judg- 
+ment is available only where there is no genuine dispute that 
+the employer has engaged in the interactive process in good 
+faith. 
+We hold that employers, who fail to engage in the inter- 
+active process in good faith, face liability for the remedies 
+imposed by the statute if a reasonable accommodation 
+would have been possible. 
+We further hold that an em- 
+ployer cannot prevail at the summary judgment stage if 
+there is a genuine dispute as to whether the employer en- 
+gaged in good faith in the interactive process.’ 
+” If an employer fails to participate in or obstructs the interactive 
+process, injunctive relief is an available remedy to insure compliance 
+with the requirement of good faith interaction and to require reasonable 
+19a 
+In this case, Barnett triggered the interactive process ob- 
+ligation by communicating 
+to U.S. Air his desire for ac- 
+commodation 
+based on his disability. In fact, Barnett 
+went 
+even further and identified, in addition to assignment to the 
+mail room, at least two different accommodations which 
+might have allowed him to remain in the cargo facility. 
+However, U.S. Air appears not to have seriously considered 
+the suggestions. 
+U.S. Air rejected all three of Barnett’s proposed reason- 
+able accommodations and offered no practical alternatives. 
+The special lifting equipment Barnett requested for the 
+Cargo position may well have been an adequate reasonable 
+accommodation. 
+Barnett researched mechanical lifting de- 
+vices and proposed 
+that U.S. Air purchase 
+a low-tech device 
+to assist hirn in the loading and unloading of cargo. U.S. 
+Air’s only offer was for a forklift to lift individual suitcases. 
+Proposing the use of a forklift to lift an individual suitcase is 
+like giving Barnett a shotgun to swat a fly or a Phillips head 
+screwdriver for a flat screw. 
+U.S. Air might as well have 
+told Barnett to use a backhoe. That a tool performs 
+a similar 
+functions doesn’t make it a proper tool for a particular 
+job. 
+Barnett sought a mechanical accommodation to compensate 
+for his disability; U.S. Air, in effect, ignored his request. 
+Thus, U.S. Air’s failure to engage in the interactive process 
+foreclosed at least one potentially reasonable accommoda- 
+tion. 
+It is less clear whether Barnett’s other suggestion of 
+modifying the cargo position to require only desk work was 
+a reasonable accommodation. 
+Although U.S. Air argues 
+that this accommodation would require the elimination of 
+accommodation. See 42 U.S.C. § 12117(a) (making injunctive relief 
+available 
+under Title 1 of the ADA by incorporating 
+the remedies of § 
+2000e-5). 
+
+
+PAGE 33
+20a 
+essential functions of the cargo job, it may only have ‘e- 
+quired reassignment of functions among personnel. 
+Al- 
+though U.S. Air had performed a job analysis on the posi- 
+tion in 1992, for purposes of workers’ compensation, this 
+analysis did not involve an assessment of the position’s es- 
+sential functions. The duties of the cargo position were di- 
+vided between front office, warehouse and lifting cargo. 
+Not all cargo agents lifted cargo on any given day and em- 
+ployees were apparently allowed to trade job duties and 
+avoid lifting cargo. Yet, the title of the position is a general 
+one of “cargo agent.” Thus, there is a sufficient factual dis- 
+pute to require further proceedings to evaluate whether this 
+accommodation would have required any elimination of the 
+essential functions of the position. 
+U.S. Air rejected each of Barnett’s several proposed rea- 
+sonable accommodations and merely offered that Barnett 
+could apply for any position for which he was qualified 
+given his restrictions and for which he had sufficient senior- 
+ity. U.S. Air did not seek to have a dialogue with Barnett 
+but instead rejected his proposed accommodations 
+by letter. 
+The time between Barnett’s initial accommodation request 
+and U.S. Air’s rejection letter was nearly five months. This 
+delay and U.S. Air’s failure to communicate do not reflect 
+good faith engagement in the interactive process on the part 
+of U.S. Air. Nor is U.S. Air’s offer to Barnett to bid on 
+other jobs, a nght he already had, a reasonable accommoda- 
+tion of a disabled employee. 
+There is no evidence in the 
+record that Barnett was qualified for any other position, 
+without accommodation, in San Francisco or elsewhere in 
+the U.S. Air system. This is not a case where it is obvious 
+that no modification could enable the employee to perform 
+the essential functions of a job or where the employee has 
+caused the process to break down. Given U.S. Air’s failure 
+to engage in the interactive process, liability would be ap- 
+propriate if a reasonable accommodation would otherwise 
+have been possible. There remains conflicting evidence in 
+2la 
+the record as to whether a reasonable accommodation 
+with- 
+out undue hardship to the employer was possible. Thus, a 
+triable issue of fact exists on this issue. 
+Il 
+Barnett argues that it would have been a reasonable ac- 
+commodation for U.S. Air to allow him to remain in the mail 
+room, by making an exception to its seniority policy. The 
+ADA explicitly states that reasonable accommodation may 
+include reassignment. See 42 U.S.C. § 12111(9)(B). 
+The 
+key questions are whether a seniority system is a per se bar 
+to reassignment as a reasonable accommodation and whether 
+a disabled employee seeking reasonable accommodation 
+should have priority in reassignment. 
+The EEOC’s enforcement guidance makes it clear that 
+reassignment is a reasonable accommodation to which dis- 
+abled employees should have priority over non-disabled em- 
+ployees and even when transfers are normally not allowed: 
+The ADA requires employers to provide reasonable ac- 
+commodations to individuals with disabilities, including 
+reassignment, even though they are not available to oth- 
+ers. 
+Therefore, an employer who does not normally 
+transfer employees would still have to reassign an em- 
+ployee with a disability, unless it could show that the re- 
+assignment caused an undue hardship. 
+And, if an em- 
+ployer has a policy prohibiting transfers, it would have to 
+modify that policy in order to reassign an employee with 
+a disability, unless it could show undue hardship. 
+EEOC Enforcement Guidance, EEOC Compliance Manual 
+at 5454. 
+The EEOC explains that a modification in workplace 
+policy can be a reasonable accommodation, absent undue 
+hardship: “[Reassignment] must be provided to an employee 
+who, because of a disability, can no longer perform the es- 
+sential functions of his/her current position, with or without 
+
+
+PAGE 34
+22a 
+reasonable accommodation, unless the employer can show 
+that it would be undue hardship.” /d. at 5452. 
+U.S. Air argues that the ADA guarantees Barnett no 
+more than the opportunity to apply for and compete for re- 
+assignment. However, the EEOC leaves no doubt that reas- 
+signment involves more than a mere opportunity for dis- 
+abled employees to compete: “Reassignment means that the 
+employee gets the vacant position if s/he is qualified for it. 
+Otherwise, reassignment would be of little value and would 
+not be implemented as Congress intended.” /d. at 5456. 
+En banc decisions in several circuits adopt the EEOC’s 
+position. 
+In Aka v. Washington Hospital Center, 156 F.3d 
+1284 (D.C. Cir. 1998) (en banc), the D.C. Circuit, sitting en 
+banc, rejected the argument that reassignment entitles a dis- 
+abled employee to nothing more than a chance to compete 
+for a position. The D.C. Circuit explained that the view that 
+the ADA requires no priority for disabled employees in re- 
+assignment “misunderstand[s] both the text and legislative 
+history of the statute, and deviate[s] from the construction of 
+the statute by other circuits ... Indeed the ADA’s reference 
+to reassignment would be redundant if permission to apply 
+were all it meant.” /d. at 1304. 
+The Tenth Circuit, sitting en banc, also made clear that 
+the ADA’s “reassignment obligation must mean something 
+more than merely allowing a disabled person to compete 
+equally with the rest of the world” and pointed out that reas- 
+signment is “one of the forms of reasonable accommodation 
+specifically mentioned by the statute to be utilized if neces- 
+sary and reasonable to keep an existing disabled employee 
+employed by the company.” Smith, 180 F.3d at 1165. 
+The question of whether an employer’s unilaterally im- 
+posed seniority system trumps a disabled employee’s right 
+to reassignment has not been answered directly by any other 
+23a 
+circuit.* Although there is no legislative history specifically 
+on a seniority system outside of the collective bargaining 
+context, the legislative history that does exist argues against 
+* At best other circuits have opined in dicta as to what approaches 
+the courts should take. In Smith, 180 F.3d at 1176, the Tenth Circuit, in 
+discussing the various situations an employer might face in making a 
+reassignment 
+opined (although the issue was not before it) that “an indus- 
+try may have a well entrenched seniority system which, even though not 
+rooted in a collective bargaining agreement, is so well established that it 
+gives rise to legitimate expectations by other, more senior employees to a 
+job that the disabled employee might desire. Requiring 
+an employer to 
+disrupt and violate any such well-established reasonable exceptions of 
+seniority nights in order to favor a disabled employee in a job reassign- 
+ment could, at least under some circumstances, constitute a fundamental 
+and unreasonable altercation in the nature of the employer's business.” 
+The court cited in Aka at 156 F.3d at 1305, Aka liad at issue a dispute 
+over Aka’s job qualifications and the meaning of the collective bargain- 
+ing agreement that allowed the employer the latitude in some circum- 
+stances in reassignment of disabled employees after stating “It seems 
+clear that WHC [the employer] had power under Section 14.5 of the CBA 
+to reassign its disabled employees to vacant positions in at least some 
+circumstances.” /d. at 1303. It remanded for trial. The court voncluded 
+with this statement: “Given the large number of contingencies that could 
+preclude such a conflict, we see no need to address whether, if such a 
+conflict arose, the CBA of the ADA would give way in the circumstances 
+of this cases.” /d. at 1306. Aka refers to Dalton v. Subaru-Isuzu Automo- 
+bile, Inc., 141 F.3d 667(7th Cir. 1998). The issue before the Seventh 
+Circuit were the qualifications of disabled employees for available jobs: 
+“If any of the plaintiffs had been able to point to a particular job that was 
+filled by a temporary worker while the plaintiff 
+was on disability leave, 
+and then had been able to show that he of she could have done that job 
+consistent with the relevant qualifications, summary judgment would 
+have been wrong. 
+But no one was able to do so.” /d at 679-680. 
+In 
+dicta, it opined that the duties of the employer under the ADA to reassign 
+do not go so far as to extend [the duty to reassign] “to virtually every 
+other job in a company, from the president 
+to the janitors. Nothing ing 
+the ADA requires and employer to abandon its legitimate, nondiscrimina- 
+tory company policies defining job qualifications, prerequisites, and enti- 
+tlements to intra-company transfers.” /d. 
+
+
+PAGE 35
+24a 
+any per se rule barring reassignment in the context of 
+seniority systems. 
+The legislative history indicates that a collective bar- 
+gaining agreement can be a factor in determining the rea- 
+sonableness of an accommodation but rejects any per se bar. 
+As explained in the House Report: 
+if a collective bargaining agreement reserves cer- 
+tain jobs for employees with a given amount of 
+seniority, it may be considered as a factor in de- 
+termining whether it is a reasonable accommoda- 
+tion to assign an employee with a disability 
+without seniority to the job. 
+However, the 
+agreement would not be determinative on the is- 
+sue. 
+H.R. Rep. No. 101-485, pt. 2, at 63 (1990); see also S. Rep. 
+No. 101-116, at 32 (1989). In addition to rejecting a per se 
+bar, both reports envision that collective bargaining agree- 
+ments will incorporate provision allowing compliance with 
+the ADA “by ensuring that agreements negotiated after the 
+effective date of this title contain a provision permitting the 
+employer to take all actions necessary to comply with this 
+legislation.” Jd. 
+The EEOC aiso rejects any blanket rule that a collective 
+bargaining agreement trumps a reasonable accommodation: 
+“In the EEOC’s view, such a per se rule nullifies Congress’ 
+intent that undue hardship always be determined on a case- 
+by-case basis.” EEOC Guidance, EEOC Compliance Man- 
+ual at 5463. 
+Instead, the EEOC requires a fact specific 
+analysis which treats the collective bargaining agreement 
+(CBA) as another factor in judging undue hardships: 
+First, an employer should determine if it could 
+provide a reasonable accommodation that would 
+remove the workplace barrier without violating 
+the CBA. 
+If no reasonable accommodation ex- 
+25a 
+ists that avoids violating the CBA, then the ADA 
+requires an employer and a union, as a collective 
+bargaining representative, to negotiate in good 
+faith a variance to the CBA so that the employer 
+may provide a reasonable accommodation, ex- 
+cept if the proposed accommodation unduly bur- 
+dens the expectations of other workers (i.e., 
+causes undue hardship). 
+Undue hardship must 
+be assessed on a case-by-case basis to determine 
+the extent to which the proposed accommodation 
+would affect the expectations of other employ- 
+ees. Among the relevant factors to assess would 
+be the duration and severity of any adverse ef- 
+fects caused by granting a variance and the num- 
+ber of employees whose employment opportuni- 
+ties would be affected by the variance. 
+Id. 
+Both the legislative history and the EEOC reject any per 
+se rule barring reasonable accommodation even when reas- 
+signment would conflict with a collective bargaining agree- 
+ment.” Here, where there is no collective bargaining agree- 
+* Despite this guidance in the legislative history and the EEOC, most 
+circuits including our own have reached the opposite conclusion and held 
+that the ADA does not require an accommodation which conflicts 
+with a 
+collective bargaining agreement. 
+See Davis v. Florida Power & Light 
+Co., 205 F.3d 1301, 1307 (11 Cir. 2000); Willis v. Pacific Maritime 
+Assoc., 162 F.3d 561 (9th Cir. 1998); Feliciano v. State of Rhode Island, 
+160 F.3d 780,787 (1* Cir. 1998); Cassidy v. Detroit Edison Co., 138 F.3d 
+629, 634 (6 Cir. 1998); Kralik v. Durgin, 130 F.3d 76, 83 (3d Cir. 
+1997); Foreman v. Babcock & Wilcox Co., 117 F.3d 800, 810 (5 Cir. 
+1997); Eckles v. Consol. Rail Corp., 94 F.3d 1041, 1051 (7 Cir. 1996); 
+Milton v. Scrivner, Inc., 53 F.3d 1118, 1125 (10™ Cir. 1995); Benson v. 
+Northwest Airlines, 62 F.3d 1108, 1114 (8" Cir. 1995). Willis has been 
+held in abeyance pending the completion of the en banc proceedings in 
+this case. None of the cases listed in this foomote confronted the ques- 
+
+
+PAGE 36
+26a 
+ment, no bargained for rights are involved. 
+It would seem 
+that the seniority system without more should not bar reas- 
+signment. Without reassignment as a reasonable accommo- 
+dation, even in the context of a seniority system, the goals of 
+the ADA could easily be frustrated. Any per se rule barring 
+reassignment because of conflicts with a seniority system 
+would sharply limit the range of available accommodations 
+without any required showing of an undue burden on the 
+employer. In many cases this would eliminate the most ef- 
+fective or the only effective reasonable accommodation. 
+A per se bar conflicts with the basic premise of the 
+“ADA, which grounds accommodation in the individualized 
+needs of the disabled employee and the specific burdens 
+which such accommodation places on an employer. Only in 
+the vent of “undue hardship” can a seniority system be a bar 
+to reasonable accommodation. 42 U.S.C. § 12112(b)(5)(A). 
+The ADA defines “undue hardship” as “an action requiring 
+significant difficulty or expense.” 42 U.S.C. 12111(10)(A). 
+The statute offers a list of factors to be considered in ap- 
+praising whether there is undue hardship, including the cost 
+of the accommodation, the overall financial resources of the 
+company and the scope of the employer’s operations. 
+See 
+42 U.S.C. 12111(10)(B).'° While reassignment might con- 
+tion presented to us — we confront a seniority system not grounded in a 
+collective bargaining agreement. 
+'° The ADA has no language protecting the operation of a “bona fide 
+seniority system” similar to that which is included in Title VII. See 42 
+U.S.C. § 2000e-2(h). We note that the “undue hardship” standard in the 
+ADA is substantially more demanding than the hardship standard in Title 
+VII in the context of “reasonable accommodation” for the religion of 
+employees. 
+See Trans World Airlines v. Hardison, 432_U.S. 63, 84 
+(1977); Balint v. Carson City, Nevada, 180 F.3d 1047, 1053 (9” Cir. 
+1999) (en banc) (relying on Hardison in a religious discrimination claim 
+bought under Title VII). The legislative history supports this interpreta- 
+27a 
+stitute an undue burden in some cases, courts cannot assume 
+that which is the employer’s burden to prove. 
+We hold that reassignment is a reasonable accommoda- 
+tion and that a seniority system is not a per se bar to reas- 
+signment. However, a seniority system is a factor in the un- 
+due hardship analysis. A case-by-case fact intensive analy- 
+sis is required to determine whether any particular reas- 
+signment would constitute an undue hardship to the em- 
+ployer. If there is no undue hardship, a disabled employee 
+who seeks reassignment as a reasonable accommodation, if 
+reece 
+rae for a position, should receive the posi- 
+on rather 
+merely have an 
+rtuni 
+non-disabled pote ce 
+— 
+pie aniins 
+Summary judgment was inappropriate in this case. Bar- 
+nett initiated the interactive process and suggested remain- 
+ing in the mail room as his preferred accommodation. U.S. 
+Air did not show that the proposed accommodation was an 
+undue hardship. 
+Bamett already occupied the mail room 
+position at the time of his request for reasonable accommo- 
+dation. Therefore, permanently reassigning Barnett to the 
+mail room position as a reasonable accommodation did not 
+require “bumping” any other employee from the position. 
+While this accommodation would eliminate one position 
+tion. See S. Rep. No. 101-116 at 36 (1989) (“The Committee wishes to 
+make it clear that the principles enunciated by the Supreme Court in TWA 
+v. Hardison, 432 U.S. 63 (1977), are not applicable to this legislation. ); 
+see also H. Rep. No. 101-485, p. 2, at 68 (1990) (“By contrast, under the 
+ADA, reasonable accommodation must be provided unless they rise to 
+the level of ‘requiring significant difficulty or expense’ on the part of 
+the 
+employer, in light of the factors noted in the statute - i.e. a significantly 
+higher standard than that articulated in Hardison. This higher standard is 
+a in light of the crucial role that reasonable accommodation 
+plays in ensuring meaningful 
+lo 
+ti 
+amen 
+z 
+gful 
+employment opportunities for people with 
+
+
+PAGE 37
+28a 
+from the seniority bid process, U.S. Air has failed to dem- 
+onstrate that doing so would cause an undue hardship. 
+It 
+would need to demonstrate that accommodating Barnett in 
+this fashion would cause undue disruption in its seniority 
+system. 
+In its rebuttal, U.S. Air offered only the statement 
+of its Vice President of Human Resources, who feared a 
+“domino effect,’ and a copy of its seniority policy. Yet the 
+record provides no information concerning the number of 
+ADA claimants at U.S. Air, their seniority, or their need to 
+be accommodated by exceptions to he seniority rules.'’ 
+Mere speculation is insufficient to support summary judg- 
+ment that the requested accommodation would impose un- 
+due hardship. We hold that a triable issue of facts exists. 
+IV 
+Barnett claims that U.S. Air retaliated against him for his 
+request for accommodation by placing him on involuntary 
+job injury leave in January of 1993 and by terminating his 
+salary continuance in February of 1993. The district court 
+granted summary judgment to U.S. Air on this claim. 
+The ADA provides that: “[nJo person shall discriminate 
+against any individual because such individual has opposed 
+any act or practice made unlawful by this chapter.” 
+42 
+U.S.C. § 12203(a). The ADA further makes it “unlawful to 
+coerce, intimidate, threaten or interfere with any individual 
+in the exercise or enjoyment of, or on account of his or her 
+having exercised or enjoyed 
+. 
+. 
+. any night granted or pro- 
+tected by this chapter.” 42 U.S.C. § 12203 (b). 
+In order to resolve Barnctt’s retaliation claim, it is neces- 
+sary to establish a framework for analyzing retaliation claims 
+under the ADA. Most other circuits have adopted the Title 
+VII framework for analyzing ADA retaliation claims: 
+See 
+'! Interestingly, U.S. Air does provide an exception in its seniority 
+system for catastrophic illness. 
+29a 
+Sarno v. Douglas Elliman-Gibbons & Ives, Inc., 183 F.3d 
+155, 159 (2d Cir. 1999); Talanda v. KFC National Manage- 
+ment Co., 140 F.3d 1090, 1095 (7™ Cir. 1998); Sherrod v. 
+American Airlines, Inc., 132 F.3d 1112, 1122 (5" Cir. 1998); 
+Penny v United Parcel Service, 128 F.3d 408, 417 (6" Cir. 
+1997); Stewart v. Happy Herman's Cheshire Bridge, 117 
+F.3d 1278, 1287 (11" 
+Cir. 1997); Soileau v. Guilford of 
+Maine, Inc., 105 F.3d 12, 16 (1* Cir. 1997). 
+Adopting the Title VII framework incorporates a com- 
+prehensive body of law analyzing workplace retaliation. 
+This seems useful. 
+Therefore, we join our sister circuits in 
+adopting the Title VII retaliation framework for ADA re- 
+. taliation claims. 
+To establish a prima facie case of retaliation under the 
+ADA, a plaintiff must show (1) that he or she engaged in or 
+was engaging in activity protected by the ADA, (2) the em- 
+ployer subjected him or her to an adverse employment deci- 
+sion, and (3) that there was a causal link between the pro- 
+tected activity and the employer’s action. 
+See Yartzoff v. 
+Thomas, 809 F.2d 1371, 1375 (9th Cir. 1987). 
+The district court concluded that Barnett failed to make 
+out a prima facie case because he failed to demonstrate a 
+causal connection between his request for accommodation 
+and his involuntary placement on job injury leave. Barnett 
+produced sufficient evidence to make a causal connection 
+based on the temporal proximity of the adverse action and 
+his request for reasonable accommodation. See Jd. at 1376. 
+However, U.S. Air met its burden in offering a “legiti- 
+mate non-retaliatory explanation for its [employment] deci- 
+sions.” /d. After receiving Barnett’s request for accommo- 
+dation, U.S. Air created a temporary limited duty position for 
+him. After five months, U.S. Air put Barnett on job injury 
+leave. 
+Barnett failed to raise a genuine issue of fact suggesting 
+
+
+PAGE 38
+30a 
+that U.S. Air’s reason for putting him on job injury leave was 
+a mere pretext. U.S. Air may have been mistaken as to its 
+obligations under the ADA but it did keep Barnett in the lim- 
+ited duty position for twice the usual time. Absent evidence 
+that U.S. Air’s decision was for retaliatory reasons, Barnett’s 
+retaliation claim should not have survived summary judg- 
+ment. 
+V 
+We reverse the district court’s summary judgment dis- 
+missal of Barnett’s ADA discrimination claims. U.S. Air has 
+failed to engage in good faith in the interactive process. U.S. 
+Air should face liability for the remedies imposed by the 
+statute if reasonable accommodations would be possible 
+without an undue hardship to the company. 
+Barnett’s re- 
+quest to remain in the mail room was a reasonable accom- 
+modation absent proof of undue hardship and possible ac- 
+commodations in the cargo facility may have been reason- 
+able accommodations absent proof of undue hardship. Only 
+a trial can resolve the factual dispute over whether reason- 
+able accommodation can be made for Barnett. 
+Therefore, 
+Barnett’s discrimination claims should be remanded to the 
+district court’s summary judgment dismissal of Barnett’s re- 
+taliation claims is affirmed. 
+AFFIRMED 
+in part, REVERSED 
+in part and RE- 
+MANDED. 
+GOULD, Circuit Judge, with whom Circuit Judge Thomas, 
+joins, Concurring; 
+I concur in the court’s excellent opinion, but set forth my 
+views concerning the relationship between the demonstration 
+of reasonableness and undue hardship. The court’s opinion 
+touches upon the relationship between reasonable accommo- 
+dation and undue hardship. See Majority Op. at n. 4. I be- 
+lieve that a broader explication of this relationship is desir- 
+3la 
+able. 
+Under the statute, a reasonable accommodation 
+is one 
+that will allow the employee to perform the essential func- 
+tions of the job. An accommodation is reasonable if it will 
+work for the employee. Reasonableness has nothing to do 
+with the “difficulty or expense” that the employer will face 
+in making the accommodation. 
+The ADA defines “reasonable accommodation” with 
+examples of accommodations that self-evidently will assist 
+people with various disabilities to perform the essential func- 
+tions of their jobs. See 42 U.S.C. § 12111(9). Nothing in the 
+definition refers to the employer or to the effect on the em- 
+ployer of providing such accommodation. 
+See Steven 
+Miller, Disability Civil Rights and a New Paradigm for the 
+Twenty-First Century: The Expansion of Civil Rights Beyond 
+Race, Gender and Age, | U. Pa. J. Lab. & Employment L. 
+511, 519 (1998) (noting this distinction). 
+The statute’s definition of “discrimination” supports this 
+reading of “reasonable.” The ADA defines discrimination as 
+4 failure to provide a reasonable accommodation unless do- 
+ing so would result in undue hardship to the employer. Dis- 
+crimination 1s: “not making reasonable accommodations to 
+the known physical and mental limitations of an otherwise 
+qualified individual with a disability 
+. 
+. 
+. unless such [em- 
+ployer] can demonstrate that the accommodation would im- 
+pose an undue hardship on the operation of the business of 
+such covered entity.” 42 U.S.C. § 12112(b)(5)(A). 
+. 
+Undue hardship is defined as “an action requiring sig- 
+nificant difficulty or expense, when considered in light of the 
+factors 
+set 
+forth in subparagraph (B).” 
+42 U.S.C. § 
+12111(10) (emphasis added). 
+This definition expressly in- 
+cludes economic considerations and other difficulties for the 
+employer. 
+We must read a statute to give effect to each work in it, 
+
+
+PAGE 39
+32a 
+so that none are superfluous. See State v. Watkins, 939 F.2d 
+710, 715 (9" Cir. 1991). 
+The word “reasonable” in 42 
+U.S.C. § 12112(6)(5)(A) must refer to something 
+other than 
+the effects of the difficulty or expense on the employer of 
+providing 
+an accommodation. The statute makes sense only 
+if “reasonable” refers to the effects of the accommodation on 
+the employee’s ability reasonably to perform the essential 
+functions of the job and does not include effects of difficulty 
+or expense 
+on the employer. 
+This 
+relationship 
+between 
+the 
+demonstration 
+of 
+reasonableness 
+and undue hardship has several virtues. First, 
+it fits the ADA structure and follows the ADA text. Second, 
+it avoids the evident confusion in trying to give meaning to 
+both “undue hardship” and “reasonable” if “reasonable” 
+were to include the same effects on the employer as are con- 
+sidered in “undue hardship” And third, the employee 
+can 
+better determine what accommodation will work for him or 
+her, while the employer has greater access to information 
+about whether a particular accommodation will cause an un- 
+due hardship. 
+Under the statute’s express terms, the “difficulty or ex- 
+pense” of an accommodation should not be considered in 
+assessing “reasonable accommodation,” 
+but, rather, consid- 
+ered only in assessing “undue hardship.” 
+O'SCANNLAIN, Circuit Judge, with whom Circuit Judges 
+Trott and Kleinfeld join, dissenting: 
+The sweeping language and exalted tone of the court’s 
+wide-ranging opinion make clear that it aspires to offer a de- 
+finitive interpretation of the Americans with Disabilities Act 
+(ADA). 
+This might be less disturbing if this case actually 
+involved an American with a disability. 
+Because the court 
+reaches out to decide several important issues of first impres- 
+sion in a case without a proper plaintiff, | must respectfully 
+33a 
+dissent. 
+I 
+Robert Barnett suffers from back problems. Barnett’s 
+doctor has imposed upon him permanent restrictions that 
+prohibit him from excessive bending, twisting, and turning; 
+prolonged standing or sitting; and lifting twenty-five pounds 
+or more. Barnett claims that these restrictions prevent him 
+from serving in the cargo position but do not prevent him 
+from working in the swing-shirt mailroom position. The 
+functions of the mailroom position include occasional bend- 
+sitting; 
+and some lifting. 
+The crucial limitation imposed 
+upon Barnett, then, is the twenty-five pound lifting restric- 
+tion, because it is the only restriction that would prevent him 
+from handling cargo, oat wees et geaeeen hie Sian sete 
+ing in the mailroom. 
+The record evidence in this case clearly establishes that 
+Barnett is not disabled within the meaning of the ADA. In 
+Thompson v. Holy Family Hospital, 121 F./3d4 537 (9" Cir. 
+1997), we affirmed the summary judgment dismissal of an 
+ADA case on the ground that the plaintiff failed to create a 
+genuine issue of material fact as to her disability. Cynthia 
+Thompson, like Robert Barnett, suffered from back prob- 
+lems, and her doctor, like Barnett’s doctor, prohibited her 
+from lifting more than twenty-five pounds. See id. at 539. 
+The Thompson court found this limitation inadequate to es- 
+tablish a triable issue as to the plaintiff's disability. 
+Al- 
+though it acknowledged that lifting and working constitute 
+“major life activities” 
+for purposes of the ADA’s implement- 
+ing regulations, Thompson’s twenty-five pound lifting re- 
+striction did not constitute “the requisite evidence that she is 
+substantially limited with respect to these activities.” Jd. at 
+539-40 (expressing agreement with “{a] number of courts 
+(that) have held that lifting restrictions similar to Thomp- 
+son’s are not substantially limiting” (citing cases)). 
+Ai- 
+—
+
+
+PAGE 40
+34a 
+though Thompson’s lifting restrictions prevented her from 
+serving as a nurse performing “total patient care” duties, just 
+as Barnett’s identical lifting restriction prevented him from 
+serving in the cargo position, the panel held that “(the in- 
+ability to perform one particular job does not constitute [a 
+substantial] limitation” on the general ability to work. /d. at 
+540. 
+The similarities between Thompson and the instant case, 
+in terms of both the plaintiff's claimed disabilities and the 
+employer’s responses thereto, are striking. 
+Under Thomp- 
+son, it is clear that no genuine issue of material fact exists as 
+to Barnett’s disability. The district court’s grant of summary 
+judgment should be affirmed. 
+Il 
+The court addresses (or dodges) the question whether 
+Barnett is “disabled” under the ADA in a footnote, noting in 
+passing that the district court concluded that Barnett was 
+“disabled” 
+under the ADA and that U.S. Air did not raise the 
+issue of Barnett’s disability on appeal. 
+Maj. Op. at 12805 
+n.1. The failure of U.S. Air to file a cross-appeal, however, 
+in no way precludes us from affirming based on Barnett’s 
+failure to establish that he is disabled. Contrary 
+to the sug- 
+gestion in that footnote, it is well-settled that we may affirm 
+a grant of summary judgment based on any ground supported 
+by the record. See, e.g., Albertson's, Inc. v. Untied Food and 
+Commercial Workers Union, 157 F.3d 758, 760 n.2 (9" Cir. 
+1998); Intel Corp. v. Hartford Accident and Indem. Co., 952 
+F.2d 1551, 1556 (9 Cir. 1991). In Intel, the district court 
+granted Intel’s motion for summary judgment, holding, in 
+part, that Hartford, which had issued an insurance policy to 
+Intel, waived its reliance on one of the policy’s exclusions. 
+We affirmed the grant of summary judgment, but on a differ- 
+ent ground. We examined the policy’s exclusion, and held 
+that there was no material issue of fact as to the exclusions’ 
+application. See id. at 1561. 
+35a 
+Poe a 
+gram 
+yp 
+ty (or 
+in a separate 
+appeal, the parties 
+have had more than ample opportunity to brief and to argue 
+the issue in both the district court and this court. Before the 
+district court, U.S. Air argued that Barnett’s lifting restric- 
+tions did not render him disabled under the ADA; Barnett 
+opposed granting summary judgment on that basis. In a 
+fairly brief discussion, the district court determined that 
+summary judgment could not be properly granted on the is- 
+sue because of evidence showing Barnett’s back injury to be 
+“serious 
+and permanent.” 
+On August 
+26, 1996, Barnett filed his notice of appeal in 
+our court; U.S. Air did not file a cross-appeal.'? One year 
+later, 
+on August 8, 1997, we decided Thompson. In our or- 
+der filed September 16, 1997, we specifically directed the 
+parties to file supplemental briefs discussing Thompson. 
+These briefs were filed in advance of an oral argument be- 
+fore the three-judge panel, held on October 
+8, 1997. 
+In both the district court and this court, the parties have 
+had the opportunity to develop, and have actually developed, 
+the issue 
+of Barnett’s disability, 
+both before, and in light of, 
+Thompson. As a result, nothing bars us from taking the pru- 
+dential path and refraining from deciding weighty issues in a 
+weightless case. Cf Belotti v. Baird, 428 U.S. 132, 143-44 
+1976). In Belotti, the Court held that the district court should 
+have abstained from deciding 
+a constitutional issue, stating 
+that, “It is not entirely clear that appellants suggested the 
+same interpretation in the District Court as they suggest here. 
+Nevertheless, the fact that full arguments in favor of absten- 
+tion may not have been asserted in the District Court does 
+not bar this Court’s consideration of the issue.” 
+Jd. at 143 
+"? The fact that Thompson was decided well after the time for U.S. 
+Air to file a notice of appeal had passed may explain in 
+U.S. Air’ 
+failure to take a cross-appeal. 
+- 
+" 
+
+
+PAGE 41
+36a 
+n.10 (internal citation omitted). 
+Cf Delange v. Dustra 
+Const. Co., 183 F.3d 916, 919 n.3 (9th Cir. 1999) (recogniz- 
+ing that this circuit may exercise its discretion to review is- 
+sues raised for the first time on appeal). 
+Ill 
+Barnett’s case simply cannot bear the weight that the 
+court seeks to place upon it. A case so transparently lacking 
+in merit is an inappropriate vehicle for deciding multiple 
+questions of first impression concerning the proper construc- 
+tion of an important statute (and creating a circuit split in the 
+process, see maj. op. at 12821 n.8). The court has issued 
+what in effect amounts to a lengthy advisory opinion on the 
+ADA; when this case returns to the district court, the only 
+appropriate course of action wil! be to dispose of it under 
+Thompson. 
+Because Barnett is simply not disabled under the ADA, 
+the district court’s grant of summary judgment was proper 
+and should be affirmed. I respectfully dissent. 
+TROTT, 
+Circuit 
+Judge, 
+with 
+whom 
+Circuit 
+Judges 
+O’Scannlain and Kleinfeld join, dissenting: 
+In taking this case en banc, we ordered that our deceased 
+colleague Judge Charles Wiggin’s panel opinion be vacated. 
+With all respect, I cannot agree with the majority’s new 
+opinion for our court, and because | am unable to improve on 
+Judge Wiggin’s analysis of the important senionty system 
+issue in this case, I republish here his exceilent analysis from 
+his extirpated work. 
+Moreover, I am troubled by the regrettable position in 
+which we leave employers, employees, and the lawyers who 
+advise them in connection with these important and possibly 
+costly decisions. 
+To require them to deal with a seniority 
+system as “merely one factor” leaves them with no guidance, 
+37a 
+none at all. 
+This default portends litigation in every case 
+where a seniority system blocking the accommodation is re- 
+spected, and even possibly in cases where it is not, brought 
+in that instance by aggrieved persons earlier in line for the 
+job. 
+What to do with seniority systems in this context is a pol- 
+icy question for Congress, one which we as judges have no 
+authority or ability to resolve. We are left with legislation by 
+litigation, and we become a nation not of laws, but of law- 
+yers. 
+In any event, forced to decide, I go with Judge Wig- 
+gins, and I express posthumously my thanks for his usual 
+clear vision and remarkable service to our court. 
+Here is 
+how he saw it. 
+The ADA's ambiguous legislative history is of little help 
+in determining whether seniority policies should be treated 
+the same under the ADA and the Rehabilitation Act. On one 
+hand, there is evidence that Congress considered seniority 
+nghts to be merely one factor in reasonable accommodation 
+analysis under the ADA, rather than a dispositive factor. See 
+__S. Rep. No. 101-116, at 32 (1989) (“The collective bargain- 
+ing agreement could be relevant, however, in determining 
+whether a given accommodation is reasonable. For example, 
+if a collective bargaining agreement reserves certain jobs for 
+employees with a given amount of seniority, it may be con- 
+sidered as a factor in determining whether it is a reasonable 
+accommodation to assign an employee with a disability 
+without seniority to that job.”) H.R. Rep. No. 101-485, pt. 2, 
+at 
+63 
+(1990) 
+(same 
+language), 
+reprinted 
+in 
+1990 
+U.S.C.C.A.N. 303, 345. On the other hand, the House and 
+Senate Reports also state that reasonable accommodation 
+does not require “bumping” a more senior employee to cre- 
+~atea vacancy (although if the employer chose to do so, such 
+bumping would constitute reasonable accommodation). See 
+S. Rep. No. 101-116, at 32 (1989); H.R. Rep. No. 101-485, 
+pt. 2, at 63 (1990), reprinted in 1990 U.S.C.C._A.N. 303, 345. 
+
+
+PAGE 42
+38a 
+In the face of this ambiguity, I am persuaded by well- 
+reasoned opinions from other circuits that have concluded 
+that the ADA does not require an employer to give disabled 
+employees preference over nondisabled employees in hiring 
+and reassignment decisions. But this is precisely what Bar- 
+nett requests. 
+U.S. Air’s seniority system is a decades-old 
+system that controls the duty assignments, shifts, transfers, 
+holidays, etc. of U.S. Air’s approximately fourteen thousand 
+customer service agents. 
+Barnett does not claim that U.S. 
+Air’s policy is illegitimate and an excuse for unlawful dis- 
+crimination. 
+But Barnett does claim that U.S. Air should 
+have left him in the mailroom position, thus excepting him 
+from its seniority policy, because of his disability. Although 
+many ADA cases have held that reasonable accommodation 
+does not require exempting a disabled employee from a col- 
+lectively bargained seniority system, see, e.g., Foreman v. 
+Babcock & Wiicox, Co., 117 F.3d 800, 810 (Sth Cir. 1997); 
+Cochrum v. Old Ben Coal Co., 102 F.3d 908, 912-13 (7th 
+Cir. 196); Eckles v. Consolidated Rail Corp., 94 F.3d 1041, 
+1051 (7th Cir. 1996) (adopting a “per se” rule that reasonable 
+accommodation does not require “sacrificing the collectively 
+bargained, bona fide seniority rights of other employees”); 
+Benson v. Northwest Airlines, Inc., 62 F.3d 1108, 1114 (8th 
+Cir. 1995), Barnett argues that his case is different because 
+U.S. Air’s seniority policy is not the result of a collective 
+bargaining agreement. I reject this argument and agree with 
+a Fifth Circuit panel that, in dicta, founc Barnett’s claimed 
+distinction to be irrelevant. 
+In Foreman v. Babcock Wilcox 
+Co., 117 F.3d 800 (5th Cir. 1997); the Fifth Circuit rejected a 
+disabled employee’s claim that the ADA required his em- 
+ployer to reassign him to a new position evening the face of 
+a collectively bargained seniority provision that would pro- 
+hibit the requested transfers. 
+The Court rejected the em- 
+ployee’s argument, making clear that its decision was not 
+based on the special status of collective bargaining agree- 
+ments. 
+39a 
+[E]ven if there were no CBA in place, B & W would 
+not be obligated to accommodate Foreman by reas- 
+signing him to a new position. 
+“{W]Je do not read 
+the ADA as requiring affirmative action in favor of 
+individuals with disabilities, in the sense of requiring 
+disabled persons be given priority in hiring or reas- 
+signment over those who are not disabled. It prohib- 
+its employment discrimination against qualified in- 
+dividuals with disabilities, no more and no less. 
+Foreman, 117 F.3d at 810 (quoting Daugh 
+v. City 
+of El 
+Paso, 56 F.3d 695 (Sth Cir. 1995). 
+= 
+sind 
+I agree with the Daugherty court and the other circuits 
+that have interpreted the ADA as requiring no more than 
+equality among disabled and nondisabled employees in hiring 
+and reassignment decisions. 
+This principle was well articu- 
+lated by a recent Seventh Circuit panel: 
+While Congress enacted the ADA to establish a 
+“level playing field” for our nation’s disabled work- 
+ers, it did not do so in the name of discriminating 
+against persons free from disability. 
+Restated, the 
+ADA does not mandate a policy of “affirmative ac- 
+tion in favor of individuals with disabilities, in the 
+sense of requiring that disabled persons be given 
+priority in hiring or reassignment over those who are 
+not disabled.” 
+Malabarba v. Chicago Tribune Co., 149 F.3d 690, 700 (7th 
+Cir. 1998) (quoting Daugherty, 56 F.3d at 700); see also Dal- 
+ton v. Subaru-Isuzu Automotive, Inc., 141 F.3d 667, 679 (7th 
+Cir. 1998) (“[W]e have been unable to find a single ADA or 
+Rehabilitation Act case in which an employer has been re- 
+quired to reassign a disabled employee to a position when 
+such a transfer would violate a legitimate, nondiscriminatory 
+policy of the employer, and for good reason. 
+The contrary 
+rule would convert a nondiscrimination statute into a manda- 
+tory preference statute, a result which would be both incon- 
+
+
+PAGE 43
+40a 
+sistent with the nondiscriminatory aims of the ADA and an 
+unreasonable imposition on the employers and coworkers of 
+disabled employees.”) (internal citations omitted); Wernick v. 
+Federal Reserve Bank of New York, 91 F.3d 379, 384-85 (2d 
+Cir. 1996) (“Congress intended simply that disabled persons 
+have the same opportunities available to them as are available 
+to nondisabled persons.”); Duckett v. Dunlop Tire Corp., 120 
+F.3d 1222, 1225 (11th Cir. 1997) (“We are aware of no case 
+under either the ADA or the Rehabilitation Act where an em- 
+ployer has been required to transfer an employee to another 
+position where the employer (independent of concerns about 
+disability) has a business policy against the pertinent kind of 
+transfer.”) But see Aka v. Washington Hospital Center, 156 
+F.3d 1284, 1305 (D.C. Cir. 1998) (en banc) (noting that “[ajn 
+employer is not required to reassign a disabled employee in 
+circumstances ‘when such transfer would violate a legitimate, 
+nondiscriminatory policy of the employer,’ “but also arguing 
+against the dissent’s claim that the ADA “mandat[es] nothing 
+more than that the employer allow the disabled employee to 
+submit his application along with all of the other candi- 
+dates.”’). 
+Because Barnett’s proposed accommodation would vio- 
+late U.S. Air’s legitimate seniority policy, I find that the pro- 
+posed accommodation is unreasonable under the ADA. 
+4la 
