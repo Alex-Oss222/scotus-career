@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-62 scheduled Court events in chunks 1–4 are completed; 62 inventory matters remain open. The latest processed event date is 2002-05-13. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
+64 scheduled Court events in chunks 1–4 are completed; 60 inventory matters remain open. The latest processed event date is 2002-05-13. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -370,6 +370,28 @@ Exact controlling propositions, proposition-level authority, qualifications, pre
 
 **Current procedural stage:** The proceeding in this Court is concluded. The existing lower-court proceedings retain their procedural status.
 
+### Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co. — 2002-04-01
+
+[Record](../records/sao_paulo_v_american_tobacco_summary_2002-04-01.md)
+
+### Mistaken attribution and continuing organizational leadership
+
+**Holding and operative rule:** Section 455(a) does not require disqualification where a judge was mistakenly identified as an association's president in a motion to file an amicus brief, remained on its executive committee, took no part in preparing or approving the submission, and was only vaguely aware of the earlier case. The informed observer must weigh that genuine leadership role together with the established limits of participation; on these combined facts, the attribution does not reasonably call impartiality into question.
+
+**Authority:** The per curiam opinion is joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the same statutory rule, application and reversal with remand.
+
+**Controlling explanation:** The Court holds that the appearance inquiry must use the full facts. Liteky supplies the objective standard: an informed, detached observer considers the relevant circumstances together, without requiring proof of actual bias. Liljeberg likewise requires an informed assessment and keeps the existence of a violation distinct from the remedy for one. The mistaken presidential designation cannot be treated as true, but the judge's continuing executive-committee membership cannot be disregarded either.
+
+Organizational leadership can connect a person to an institutional position even without personal authorship. That is the defendants' strongest argument. Here, however, the established absence of preparation or approval and the judge's vague awareness materially limit what the observer can attribute to the judge. Treating this particular brief's advocacy as the judge's own despite those facts would give the organizational affiliation decisive weight it does not bear in this record. The conclusion rests on the objective circumstances, not the judge's assurance of fairness.
+
+Microsoft applies the same standard to supported outside conduct concerning live merits, credibility and relief. Those undisclosed discussions created a materially different relationship to the litigation. The distinction concerns the actual conduct and context; neither press contact nor intentional wrongdoing is a prerequisite to recusal. This decision creates no general exemption for organizational leaders or for people who did not write a submission. Actual participation, responsibility for an organization's position, financial interests and other supported relationships remain subject to the ordinary appearance standard. The circuit's disqualification ruling therefore cannot stand on this ground.
+
+- Liteky v. United States, 510 U.S. 540 (March 7, 1994): applies the controlling cumulative, informed-observer standard. The absence of actual bias does not defeat an appearance claim, and no additional intensity requirement governs this outside affiliation.
+- Liljeberg v. Health Services Acquisition Corp., 486 U.S. 847 (1988): applies its informed appearance inquiry and preserves the separate remedial assessment after a violation is established. Risks of injustice to the parties, injustice in other cases and harm to public confidence neither create an otherwise absent violation nor excuse an established one.
+- United States v. Microsoft Corp. (January 22, 2002): distinguishes its supported undisclosed discussions about the live litigation from the limited connection to advocacy established here. Its objective appearance rule and separate treatment of civil relief remain in force.
+
+Section 455(a)'s objective appearance standard remains unchanged. On the established combination of mistaken attribution, continuing committee leadership, no preparation or approval and vague awareness, disqualification is not required. The holding protects neither organizational affiliation categorically nor actual advocacy from ordinary appearance review. Liljeberg's remedial inquiry remains distinct from whether a violation exists.
+
 ### Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas — 2002-04-01
 
 A government-secured sidewalk that substitutes for and continues an existing public street route under an enforceable passage obligation retains traditional-public-forum protection despite private title. This rule applies to that defined public route; it does not make commercial premises generally governmental. Existing content and neutral-management standards govern restrictions on the passage.
@@ -433,6 +455,52 @@ The reviewed compounding speech conditions fail the existing reasonable-fit requ
 Exact controlling propositions, proposition-level authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK4_PUBLIC_LAW.md#thompson-v-western-states-medical-center-merits-2002-04-29). [Record](../records/thompson_v_western_states_medical_center_merits_2002-04-29.md).
 
 **Current procedural stage:** The Ninth Circuit judgment is affirmed, subject to ordinary mandate administration. Its unreviewed nonseverability determination remains operative. Supreme Court review of the constitutional question is complete.
+
+### US Airways, Inc. v. Barnett — 2002-04-29
+
+[Record](../records/us_airways_v_barnett_merits_2002-04-29.md)
+
+**Common authority:** Justice Breyer's Opinion of the Court is joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor and Kennedy. Those five direct joins control every holding below. The separate writings qualify or oppose the rule only to the extent expressly stated; no combination of dissenting grounds supplies additional authority.
+
+### Reasonable accommodation and undue hardship perform separate statutory work
+
+**Holding and operative rule:** An employee ordinarily satisfies the initial accommodation showing by identifying an accommodation reasonable on its face or in the run of cases, not merely one effective for that employee; once reasonableness is shown, the employer must demonstrate significant difficulty or expense in its particular operations under section 12111(10). A requested exception to a disability-neutral policy is not automatically outside the accommodation duty, and the expectation that another worker may obtain an open position under this noncontractual policy does not by itself make the position unavailable for the statutory inquiry.
+
+**Controlling explanation:** The Court holds that reasonable accommodation may require different treatment to provide an employee a workplace opportunity. Section 12111(9) expressly identifies possible reassignment to a vacant position and adjustment of policies. Its permissive examples do not make every requested preference reasonable, but they foreclose treating uniform enforcement alone as an answer. Nor does this policy's bidding expectation establish an incumbent who must be displaced: Barnett occupies the position, the employer declares it open for bidding, and the policy creates no contractual entitlement.
+
+Reasonable is an independent limit. An effective change may affect fellow employees in ways not captured by the employer's own operational expense. The ordinary first showing and the employer's particular hardship defense therefore do different work. This allocation does not require the employee to disprove every possible business burden. Garrett preserves the enacted distinction between accommodation and the employer's demonstrated significant-difficulty-or-expense defense. The latter considers the accommodation's nature and cost; facility resources, staffing, expenses and operational impact; the entity's overall resources, size and facilities; and workforce functions and the facilities' geographic, administrative and fiscal relationships.
+
+The contrary disability-created-obstacle theory would deny a seniority exception because the allocation applies to all workers. But the present accommodation responds to Barnett's inability to perform his former work, and reassignment and policy adjustment remain statutory possibilities. Reasonableness limits those possibilities without excluding the requested exception at the outset. This conclusion also rejects effectiveness alone as a complete test; the employer's actual seniority system must receive the independent consideration stated next.
+
+**Precedent treatment:** Garrett's separation of statutory conditions is preserved. Sutton, Murphy and Toyota retain their distinct coverage rules; none converts coverage into a right to a particular accommodation.
+
+### An established seniority system ordinarily defeats a conflicting request, subject to special circumstances
+
+**Holding and operative rule:** An employer's showing that a requested reassignment conflicts with an established seniority system ordinarily establishes that the accommodation is unreasonable and warrants summary judgment on that issue, including when management created the system. The employee may defeat that ground by presenting evidence of special circumstances making an exception reasonable in the particular case; the employee bears that showing, and the employer retains the separate undue-hardship defense if reasonableness is established.
+
+**Controlling explanation:** The Court holds that established seniority carries weight beyond its possible financial cost. Objective ordering gives employees expectations of fair treatment, job security and predictable advancement. Requiring the employer in every ordinary case to justify whether those expectations should yield would substitute discretionary accommodation decisions for the consistency on which the system depends. Those benefits can exist under a management-created policy as well as a collective agreement. Hardison supplies an analogy concerning the importance of seniority, not its different statute's hardship threshold or an automatic ADA exemption.
+
+The absence of an express ADA seniority exemption does not eliminate the word reasonable. Conversely, the independent force of reasonable does not make seniority absolute. The employee can show that the actual system weakens the expectation on which the ordinary inference rests. Examples include an employer's frequent exercise of reserved amendment authority, sufficiently reducing expectations of adherence, or existing exceptions whose nature makes one further exception unlikely to matter. The examples are nonexclusive, and no numerical frequency threshold is prescribed. Bare reserved amendment authority does not automatically establish such circumstances; the employee must explain why an exception is reasonable in the actual setting.
+
+The objection that this approach merges reasonableness with hardship overlooks their different subjects. The seniority inquiry concerns the character of the requested preference and employees' expectations; the employer's defense concerns significant difficulty or expense in its operations. The special-circumstances opportunity answers the reason for the ordinary seniority inference rather than requiring the employee to negate every operational burden. It remains a genuine evidentiary opportunity under ordinary summary-judgment principles, even for a bona fide system, not merely a chance to prove that the policy is a sham. Scalia and Thomas's contrary exclusion would foreclose that opportunity; Souter and Ginsburg's ordinary-inquiry approach would give seniority no comparable initial effect. The statute supports the qualified rule adopted here.
+
+**Precedent treatment:** Hardison is used for the bounded seniority analogy; its Title VII setting and hardship threshold remain distinct. No prior ADA holding is overruled: this decision resolves the previously open seniority question under Title I.
+
+### Remand applies the announced standard to the reviewed seniority claim
+
+**Holding and operative rule:** The seniority-accommodation judgment is vacated and remanded so that the parties may seek summary judgment under the Court's standard, with Barnett able to establish special circumstances and US Airways able to assert its separate statutory hardship defense. Independent unreviewed accommodation grounds and the affirmed retaliation judgment retain their existing procedural status.
+
+**Controlling explanation:** The lower courts applied different formulations: the District Court treated the system as establishing undue hardship, while the Court of Appeals placed seniority within a case-specific hardship inquiry. Neither applied the ordinary seniority inference together with the employee's opportunity to show special circumstances. The appropriate remedy is further consideration under the correct rule. Actual amendment practices, the character of exceptions and effects on employee expectations are application matters under that rule. The Court's limited seniority review supplies no basis to reopen the separate cargo, interactive-process or retaliation dispositions. A conflict with independently enforceable collective-bargaining obligations is outside the question presented by this noncontractual policy.
+
+**Precedent treatment:** Toyota and Waffle House preserve the distinction between a statutory rule and proof of the remaining claim and remedy conditions; their separate coverage and enforcement holdings are unchanged.
+
+- **Board of Trustees of the University of Alabama v. Garrett, February 21, 2001:** Preserves the distinct qualification, accommodation and demonstrated-hardship conditions; its state-employer enforcement holding supplies no seniority exemption.
+- **Trans World Airlines, Inc. v. Hardison, 432 U.S. 63:** Supplies a limited analogy about seniority expectations. Its Title VII protection of seniority and more-than-de-minimis hardship threshold do not become the ADA's rule.
+- **Sutton v. United Air Lines, Inc. and Murphy v. United Parcel Service, Inc., June 22, 1999; Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, January 8, 2002:** Their actual-disability rules remain separate from qualification and accommodation; the seniority decision neither changes those rules nor adjudicates the disputed coverage-preservation matter.
+- **EEOC v. Waffle House, Inc., January 15, 2002:** Its independent public-enforcement and remedy rules remain intact; permission to pursue statutory relief is distinct from establishing actual entitlement.
+- **Olmstead v. L.C., June 22, 1999, and PGA TOUR, Inc. v. Martin, May 29, 2001:** Their respective Title II resource and Title III fundamental-alteration rules retain their own predicates. Neither replaces Title I's reasonable-accommodation and undue-hardship inquiries.
+
+Under original ADA Title I, established seniority ordinarily makes a conflicting reassignment unreasonable, even under an employer-created system. The employee can establish special circumstances making an exception reasonable; that opportunity is substantive and nonexclusive. If reasonableness is established, the employer still bears the distinct significant-difficulty-or-expense defense. Neutrality alone does not immunize an employment policy, effectiveness alone does not establish reasonableness, and seniority is neither merely a hardship factor nor an absolute exemption. The rule takes effect April 29, 2002. Actual application and the remaining claim conditions proceed under these settled rules.
 
 ### City of Los Angeles v. Alameda Books, Inc. — 2002-05-13
 
@@ -776,6 +844,12 @@ None.
 
 Chief Justice Stone-Zsela dissents. He would decide the certified statutory question, reverse the categorical bar and remand. The district court actually entered and certified that legal ruling, and neither it nor the circuit majority adopted a finding that the impact allegations were insufficient. The unassessed factual merits therefore do not prevent correcting the legal bar. He reads section 623(a)(2)'s effects-oriented classification language together with section 623(f)(1)'s reasonable-factors-other-than-age provision to permit a claim directed to a specifically identified neutral practice that causes an adverse age effect. The employee must identify that practice and establish causation; aggregate workforce disparity alone is insufficient. A proven reasonable nonage basis may justify the differentiation without showing that the practice was the only possible business choice. Hazen Paper reserved impact and does not foreclose that rule. The 1991 Title VII amendments do not justify importing their entire business-necessity scheme into the ADEA. On remand, the lower courts would assess the actual practice, causation, reasonable-factor justification and procedural requirements; recognizing the theory would not itself restore a class or establish liability. This is his dissenting position, not the Court's statutory holding.
 
+### Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co. — 2002-04-01
+
+[Record](../records/sao_paulo_v_american_tobacco_summary_2002-04-01.md)
+
+No separate opinion is filed.
+
 ### Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas — 2002-04-01
 
 [Record](../records/venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md)
@@ -835,6 +909,20 @@ No separate opinion is filed. The exact partial join is stated in Opinion Topolo
 **Thomas, concurring.** He joins the full fit holding because these restrictions fail even the lesser Central Hudson test. He separately regards suppression of accurate product information to prevent its effect on willing listeners as the mechanism his 44 Liquormart position rejects. Drug safety is legitimate, but that objective does not itself justify withholding accurate information; direct drug controls remain distinct. His concurrence is not judgment-only agreement and does not supply the Court with a broader categorical rule.
 
 **Breyer, dissenting in part, joined by Stevens and Ginsburg.** The dissent would reverse the constitutional invalidation insofar as it rests on promotion to consumers. The statutory balance preserves medically needed preparations while preventing cumulative risks from a growing market of products that have not undergone approval. Product promotion can generate demand apart from a clinician's prior individualized assessment. Production caps, wholesale restrictions and controls on equipment or advance preparation may either exclude needed treatment or fail to address that demand. General service advertising and continuing physician involvement preserve meaningful channels. Under ordinary reasonable-fit review, the dissent therefore finds the consumer restriction proportionate despite its burden on truthful information. It reserves the distinct question of physician-directed promotion because that issue requires separate consideration; it neither sustains every communication restriction nor announces a benefit-condition exception to the First Amendment.
+
+### US Airways, Inc. v. Barnett — 2002-04-29
+
+[Record](../records/us_airways_v_barnett_merits_2002-04-29.md)
+
+**Chief Justice Stone-Zsela, concurring.** He joins the Court's opinion in full and emphasizes that the special-circumstances showing must be a real and practical opportunity. Evidence that the employer retains power to change the system, that exceptions are already frequent, or that one more exception is unlikely to matter can carry the employee's showing in the particular case. Those avenues must receive substantive consideration rather than being treated as a formality. His full join preserves the Court's requirement to explain the actual effect on seniority expectations; retained power alone is not an automatic entitlement, and the employer's separate hardship defense remains.
+
+**Justice Stevens, concurring.** He joins the full seniority presumption and remand. Seniority bears substantially on reasonableness, not only on hardship, but the employer's categorical position still fails. The existing interactive-process ground remains outside this seniority decision. Material application questions include why the mailroom position became open for bidding, whether the request is best understood as reassignment or continuation of the existing placement, and its actual effect on other employees. Barnett must answer the pertinent questions to establish special circumstances; the concurrence treats them as record-dependent inquiries, not a new mandatory checklist or findings in his favor.
+
+**Justice O'Connor, concurring.** She joins the Court's opinion in full while explaining her preferred legal-entitlement rule. A position is unavailable when another employee occupies it or has an enforceable entitlement to it; an expectation under a noncontractual seniority policy alone supplies no legal possessor. On that approach, this policy does not defeat Barnett's initial reasonable-accommodation showing, and US Airways would have to establish actual hardship. She objects that a particularized special-circumstances inquiry can blur the distinction between general reasonableness and the employer's particular hardship burden. She nevertheless adopts the Court's statutory rule because a common rule is necessary and the practical exception will often produce the same result as her preferred approach. Disclaimers, reserved authority and actual exceptions can weaken expectations; her concurrence does not find that every noncontractual system does so. Her full join includes the employee's meaningful opportunity and the separate employer defense.
+
+**Justice Scalia, dissenting, joined by Justice Thomas.** They would reverse the seniority ruling and return for a disposition rejecting the demanded priority. Reading sections 12112(a) and (b)(5)(A) together, they require reasonable removal of workplace obstacles that disability prevents an employee from overcoming. A standing requirement or inaccessible workstation can be such an obstacle even though expressed neutrally. A bona fide seniority allocation unrelated to disability is different: an exception grants priority over coworkers rather than removing the disability-created barrier. Reassignment still requires the employer to seek and offer a suitable vacant job within the lawful allocation instead of simply dismissing a worker unable to perform the former job. Their Martin and Olmstead positions support that distinction at their respective statutory scopes, without supplying a substitute Title I rule. They reject the Court's special-circumstances exception as both beyond the statutory duty and uncertain even for established systems. Their ground is not immunity for every neutral policy, and their proposed disposition preserves independent unreviewed claims.
+
+**Justice Souter, dissenting, joined by Justice Ginsburg.** They would affirm the rejection of employer summary judgment because Barnett has met the initial reasonableness showing, leaving US Airways to prove actual hardship. The ADA omits the express seniority protections found in Title VII and the ADEA; the committee reports likewise treat seniority as a consideration rather than a special exemption. Hardison's different statute and protected collective agreement do not justify a presumption for this employer's unilateral policy. They give reasonableness independent work through feasibility, suitability and the actual change requested. Barnett seeks to retain a job he performs, displaces no incumbent, and confronts a policy the employer disclaims as contractual and reserves power to change. Those circumstances satisfy the initial showing without establishing ultimate liability or eliminating evidence of operational disruption. They preserve the distinct federal force of enforceable labor contracts recognized in Lincoln Mills and Charles Dowd Box; no such agreement governs this request. The employer's proof of actual significant difficulty or expense, including concrete noncash effects, remains necessary under their view.
 
 ### City of Los Angeles v. Alameda Books, Inc. — 2002-05-13
 
@@ -911,6 +999,10 @@ City of Los Angeles v. Alameda Books, Inc.: All nine Justices participate at arg
 
 Henderson v. Norris: All nine Justices participate at full merits submission and decision: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
 
+Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co.: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate in the submission and decision.
+
+US Airways, Inc. v. Barnett: All nine Justices participate at argument and decision: Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
 ## Circuit allotments
 
 The August 3, 1994 order remains in force.
@@ -963,13 +1055,6 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
 | 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 62 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 60 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.
-
-### Pending matters
-
-- **Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co. — April 1, 2002:** Decision remains pending. The corrected record includes continuing executive-committee membership, no preparation or approval of the organizational amicus submission, and only vague awareness. Completion requires validation of the controlling position against that record; no merits disposition or new procedure has issued.
-- **US Airways, Inc. v. Barnett — April 29, 2002:** Decision remains pending. A supported Court judgment and operative remand instruction have not been established. No merits holding, disposition, reargument order or terminal event has issued.
-
-These administrative status entries supply no vote, private position or new law. The matters remain open.
