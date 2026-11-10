@@ -114,7 +114,7 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-10 by express user approval of the corrected-record version.
 * **Current-Through Baseline:** Controlling law through June 28, 2001. Apply any subsequently completed decision effective before this matter is decided.
 * **Conditions:** The stated jurisdictional, preservation and record limits apply. No alternative voting instruction is supplied.
 
@@ -128,11 +128,11 @@
 ### Issue 1: An informed observer and mistakenly attributed advocacy
 
 * **Threshold and Merits Reach:** The reviewed recusal ruling rests on an attributed organizational role whose correction is part of the record. The statutory question is therefore ready for application without reaching constitutional judicial-bias doctrine.
-* **Question Stone Resolves:** Whether a fully informed observer would reasonably doubt impartiality solely because of this mistaken appearance on the filing.
+* **Question Stone Resolves:** Whether a fully informed observer would reasonably doubt impartiality because of this mistaken appearance on the filing, considered together with her continuing executive-committee membership in the filing association, her lack of any part in preparing or approving the submission, and her only vague awareness of it.
 * **Stone's Legal Position:** Apply Liteky directly. No doctrinal change or heightened requirement of actual bias is proposed.
-* **Stone's Proposed Holding:** Section 455(a) does not require recusal on the basis of a mistaken, unauthorized attribution of advocacy when the informed observer knows that the judge held no stated role at the relevant time and neither prepared nor approved the submission. Those facts must be included in the objective appearance inquiry; they cannot be excluded to preserve the initial misleading impression.
-* **Reach Within the Question:** The rule governs the specified mistaken association. Actual advocacy, continued organizational responsibility, financial interest, or other supported relationships remain subject to the same appearance standard.
-* **Essential Reasoning and Record Application:** Section 455(a), applied through Liteky's informed-observer standard, supplies the complete answer. Liljeberg likewise requires consideration of all relevant circumstances; neither permits an observer to disregard established facts correcting the supposed association. Here the judge did not hold the attributed office, prepare the submission or approve it. Including those facts is objective application, not acceptance of a subjective assurance of impartiality. Stone reaffirms the appearance standard without requiring proof of actual bias. Its contextual character is necessary because an erroneous name on a form and actual participation in adverse advocacy create different appearances. The statute decides the matter, leaving no reason to announce a constitutional judicial-bias rule or a general exemption for organizational affiliations.
+* **Stone's Proposed Holding:** Section 455(a) does not require recusal on the basis of a mistaken, unauthorized attribution of advocacy together with the judge's continuing executive-committee membership in the filing association, when the informed observer also knows that she neither prepared nor approved the submission and had only vague awareness of it. Her genuine committee role receives weight, but on these combined facts it does not support a reasonable doubt about her impartiality. Those facts must be included in the objective appearance inquiry; they cannot be excluded to preserve the initial misleading impression.
+* **Reach Within the Question:** The rule governs the specified mistaken association. Actual advocacy, responsibility for or participation in the organization's position, financial interest, or other supported relationships remain subject to the same appearance standard.
+* **Essential Reasoning and Record Application:** Section 455(a), applied through Liteky's informed-observer standard, supplies the complete answer. Liljeberg likewise requires consideration of all relevant circumstances; neither permits an observer to disregard established facts correcting the supposed association. Here the judge did not hold the attributed office, prepare the submission or approve it; her continuing executive-committee membership is a genuine affiliation that the informed observer weighs, but with no participation and only vague awareness it does not reasonably identify her with this filing. Including those facts is objective application, not acceptance of a subjective assurance of impartiality. Stone reaffirms the appearance standard without requiring proof of actual bias. Its contextual character is necessary because an erroneous name on a form and actual participation in adverse advocacy create different appearances. The statute decides the matter, leaving no reason to announce a constitutional judicial-bias rule or a general exemption for organizational affiliations.
 * **Boundary or Reserved Question:** None.
 
 ## 54. Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas +
@@ -417,14 +417,15 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-10 by express user approval, with an authorized alternative judgment added.
 * **Current-Through Baseline:** Controlling law through June 28, 2001. Apply any subsequently completed decision effective before this matter is decided.
-* **Conditions:** The stated jurisdictional, preservation and record limits apply. No alternative voting instruction is supplied.
+* **Conditions:** The stated jurisdictional, preservation and record limits apply. The authorized alternative judgment stated below applies only if five votes do not support the affirmance.
 
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Affirm reversal of summary judgment and remand for the individualized inquiry stated below.
 * **Stone's Remedy and Remand Position:** Allow Barnett to establish a reasonable request and require US Airways to prove any particular undue hardship under the statute. Consider actual employee reliance and operational effects. Award no job, damages, or fees at this stage.
+* **Stone's Authorized Alternative Judgment:** If five votes do not support the affirmance stated above, Stone instead votes to vacate the judgment and remand, and joins in full the opinion holding that an employer's established seniority system ordinarily makes a conflicting reassignment unreasonable, while the employee remains free to show special circumstances that make the requested exception reasonable in the particular case, and the employer keeps its separate undue-hardship defense. He states separately his view that the special-circumstances showing is a real and practical opportunity, not a formality: evidence that the employer keeps the right to change the system, that exceptions are already frequent, or that one more exception is unlikely to matter can carry it.
 
 ## C. ISSUE POSITIONS
 

@@ -33,14 +33,15 @@
 
 ## A. STATUS
 
-* **Approval Status:** Approved.
+* **Approval Status:** Approved; renewed 2026-11-10 by express user approval, with an authorized alternative judgment added.
 * **Current-Through Baseline:** Controlling law through June 28, 2001. Apply any subsequently completed decision effective before this matter is decided.
-* **Conditions:** The stated jurisdictional, preservation and record limits apply. No alternative voting instruction is supplied.
+* **Conditions:** The stated jurisdictional, preservation and record limits apply. The authorized alternative judgment stated below applies only if five votes do not support the affirmance.
 
 ## B. JUDGMENT AND REMEDY
 
 * **Stone's Controlled Judgment or Disposition:** Affirm reversal of summary judgment and remand for the individualized inquiry stated below.
 * **Stone's Remedy and Remand Position:** Allow Barnett to establish a reasonable request and require US Airways to prove any particular undue hardship under the statute. Consider actual employee reliance and operational effects. Award no job, damages, or fees at this stage.
+* **Stone's Authorized Alternative Judgment:** If five votes do not support the affirmance stated above, Stone instead votes to vacate the judgment and remand, and joins in full the opinion holding that an employer's established seniority system ordinarily makes a conflicting reassignment unreasonable, while the employee remains free to show special circumstances that make the requested exception reasonable in the particular case, and the employer keeps its separate undue-hardship defense. He states separately his view that the special-circumstances showing is a real and practical opportunity, not a formality: evidence that the employer keeps the right to change the system, that exceptions are already frequent, or that one more exception is unlikely to matter can carry it.
 
 ## C. ISSUE POSITIONS
 
