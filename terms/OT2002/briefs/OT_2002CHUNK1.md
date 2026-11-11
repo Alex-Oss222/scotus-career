@@ -206,12 +206,12 @@ No Supreme Court merits disposition is verified. The historical anchor is the Ju
 #### A. CASE, RECORD, AND POSTURE
 
 * **Case Name / Citation:** *Old Person v. Brown*, 312 F.3d 1036; Ninth Circuit No. 02-35171.
-* **October Term / Entry Stage:** OT2002; certiorari screening after the December 4, 2002 appellate judgment.
-* **Simulated Event Date:** 2003-01-17; assigned certiorari-screening date within OT2002, after the December 4, 2002 judgment. This date establishes no historical petition or grant.
-* **Question Presented for Screening:** Whether a corrected §2 totality analysis supports affirmance despite the district court's mistaken proportionality calculation, and whether impending redistricting can defeat otherwise established liability.
+* **October Term / Entry Stage:** OT2002; merits review on certiorari granted January 17, 2003 to review the December 4, 2002 appellate judgment.
+* **Simulated Event Date:** 2003-06-26; merits decision on certiorari granted January 17, 2003 (sim-granted). These dates establish no historical petition or grant.
+* **Question Presented:** Whether a corrected §2 totality analysis supports affirmance despite the district court's mistaken proportionality calculation, and whether impending redistricting can defeat otherwise established liability.
 * **Judgment / Relief:** The Ninth Circuit affirmed judgment rejecting dilution in the remaining plaintiffs' legislative districts. Challengers seek reversal and declaratory or injunctive relief against Montana's 1992 plan.
 * **Material Record:** Four Native American voters reside in House Districts 73 and 85 and Senate Districts 37 and 43. The first appeal preserved rejection of intentional discrimination but established the *Gingles* preconditions and required renewed totality analysis. Further trial evidence covered the 1998 and 2000 elections. Discrimination, polarization, socioeconomic barriers, and racial appeals favored plaintiffs. Other findings concerned actual electoral success, non-tenuous boundary policies, and the absence of additional discriminatory election devices. Indian-preferred candidates represented both relevant House districts and one Senate district. Joey Jayne's 2000 victory was disputed as exceptional because she faced only a third-party general-election opponent.
-* **Threshold / Timing:** Personal injury in the plaintiffs' districts must precede merits review; evidence elsewhere may inform that injury without creating standing everywhere. Montana's replacement process was approaching. A later operative map could affect live relief and must be checked at intake. No participation issue is identified.
+* **Threshold / Timing:** Personal injury in the plaintiffs' districts must precede merits review; evidence elsewhere may inform that injury without creating standing everywhere. Montana's replacement process was approaching. A later operative map could affect live relief; its effect is decided on the record supplied. No participation issue is identified.
 
 #### B. LAW ENTERING THE CASE
 
@@ -237,7 +237,7 @@ The Ninth Circuit corrected the residence-only proportionality frame, treated di
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-Review may be declined without approving the merits. If granted, the Court could affirm the corrected factual assessment, or remand upon finding that remaining legal errors materially infected it. Proof of the prerequisites alone cannot justify judgment for plaintiffs. A merits victory would require consideration of currently available relief, not automatic shortened legislative terms or a prescribed racial tally.
+On the merits, the Court could affirm the corrected factual assessment, or remand upon finding that remaining legal errors materially infected it. Proof of the prerequisites alone cannot justify judgment for plaintiffs. A merits victory would require consideration of currently available relief, not automatic shortened legislative terms or a prescribed racial tally.
 
 **Plausible Holding Scope:** Clarify the distinction between opportunity, electoral success, and proportionality; retain case-specific totality and meaningful review for legal error. No universal geographic unit or numerical entitlement is necessary.
 
@@ -247,7 +247,7 @@ Ninth Circuit opinion; district findings; United States amicus brief; Gingles.
 
 #### F. CERTIORARI ADDENDUM
 
-**Screening:** The circuit judgment is final, but no live current-map controversy or square outcome-determinative circuit conflict is verified. Recurring proportionality and remedy questions carry importance, but the panel corrected the principal legal errors and independently sustained a fact-intensive judgment. The United States' circuit amicus role is not a Supreme Court invitation. Merits review requires a live controversy.
+**Grant:** Certiorari was granted January 17, 2003 (sim-granted) to review the final circuit judgment. Recurring proportionality and remedy questions carry importance, but the panel corrected the principal legal errors and independently sustained a fact-intensive judgment. The United States' circuit amicus role is not a Supreme Court invitation. Merits review requires a live controversy.
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
@@ -255,13 +255,13 @@ Ninth Circuit opinion; district findings; United States amicus brief; Gingles.
 
 **Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
 
-**Current-through baseline:** Governing decisions through June 28, 2002. **Review posture:** Certiorari screening after the December 4, 2002 appellate judgment. No historical petition, grant or certiorari vote is asserted. Any merits review requires a live controversy; a replacement map must be assessed for its actual effect on available relief.
+**Current-through baseline:** Governing decisions through June 28, 2002. **Review posture:** Merits review on certiorari granted January 17, 2003 (sim-granted) to review the December 4, 2002 appellate judgment; decision June 26, 2003. No historical petition, grant or certiorari vote is asserted. Any merits review requires a live controversy; a replacement map must be assessed for its actual effect on available relief.
 
 **Conditional authorship:** Once a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's proposed merits vote:** If the controversy is live, Stone would vote to affirm on the corrected totality assessment while rejecting the erroneous proportionality calculation and the use of approaching redistricting to deny otherwise established liability. He would support no additional-district mandate or injunction on this record. That is his conditional merits position; neither the petition decision nor the Court's merits outcome is assigned. His proposed rule would leave special elections available in a different proved case and would not treat a future map as an automatic cure of every outstanding claim.
+**Stone's proposed merits vote:** If the controversy is live, Stone would vote to affirm on the corrected totality assessment while rejecting the erroneous proportionality calculation and the use of approaching redistricting to deny otherwise established liability. He would support no additional-district mandate or injunction on this record. Neither the Court's merits outcome nor any colleague's vote is assigned. His proposed rule would leave special elections available in a different proved case and would not treat a future map as an automatic cure of every outstanding claim.
 
 #### C. ISSUE POSITIONS
 
