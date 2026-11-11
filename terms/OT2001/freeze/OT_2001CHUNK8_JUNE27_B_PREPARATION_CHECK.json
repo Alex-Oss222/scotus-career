@@ -1,0 +1,29 @@
+{
+  "preparation_sha256": "505a1923aa57aba72bbf1f89c348cc362ed1f08462780c4a257c4412a033dde8",
+  "explanation_words": [
+    227,
+    181,
+    95,
+    307,
+    81,
+    271,
+    196,
+    183,
+    88
+  ],
+  "all_explanations_at_most_350": true,
+  "relative_links_resolve": true,
+  "form_precedes_assignment": true,
+  "assignment_count_run": false,
+  "author_selected": false,
+  "record_written": false,
+  "global_projection_changed": false,
+  "input_sha256": {
+    "freeze/OT_2001CHUNK8_JUNE27_NEUTRAL.md": "e85131248cf62edcb432b01aca8939161de13cd86f8d18a34ddde7df0361eb8c",
+    "freeze/OT_2001CHUNK8_JUNE27_COMMITMENTS.md": "050d010402796d5982213f64e2748bbb628f2d4df19cca2b79d709027574b091",
+    "freeze/OT_2001CHUNK8_JUNE27_B_RECONCILED.md": "57e22675cda2963030e892694aec1171a34d34f9ca2a7cc9d68e3d18848732ed",
+    "runtime/OT_2001CHUNK8_JUNE27_B_STONE.md": "8347cbec71edf458cb024bf8c10440c24539da9bc9dbefd83e08994567c0943e",
+    "entering-law/OT_2001CHUNK8_JUNE27_ENTERING_LAW.md": "03fe29a96de4277703c3ece1f063e1ee971b429f61161c1bad562ec6402aa10c",
+    "entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md": "6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4"
+  }
+}

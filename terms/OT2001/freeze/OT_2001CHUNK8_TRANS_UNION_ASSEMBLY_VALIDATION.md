@@ -1,0 +1,11 @@
+# TRANS_UNION assembly validation
+
+The new Record passed its four opening labels, single bounded Public Projection and exact eleven-block order. Canonical controlling holdings and the projected Holdings block are identical after boundary whitespace. Explanation word counts: 97, 195, 267; all are within 350 words. The component judgment table has 9 supporting and 0 opposing votes among nine participants. The public opinion table supplies one counted signed lead author, Stevens.
+
+The form was fixed before the fresh count; actual preceding Record opinion tables supply all counts. Eligible authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Pool: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The selected author belongs to both. Last counted event: Ring v. Arizona, 2002-06-24, author Kennedy. Earlier tally statements were not counted authority.
+
+Manual source review matched the written-instructions and recipient-authorization routes separately; conditional firm-offer terms; residual information and inquiry-history limits; election delay, duration, cancellation and affiliate effect; system/publication duties; and separate user certification, written-solicitation notices, three-year retention and reasonable-procedures defense. The financial-purpose comparison acknowledges the same trait's disclosure without affirmative authorization and the real opt-out alternative. No compliance, advance individual notice, offer-value or unconditional-loan finding is made. Statutory context is kept distinct from controlling explanations and is not used to relocate reasoning beyond its ceiling.
+
+All eight relevant commitment rows and eight reconciliation rows are retained. No non-Stone position changes after the operative reconciliation, no fictional draft exchange occurs and no Marks aggregation supplies a vote. Relative links resolve; the public text contains no operator workflow or local-machine links. The exact Public Projection is mechanically copied to the matching per-case public-law handoff.
+
+This is local initial Record validation. Global term checks, workspace regeneration and chunk Render Input generation remain the operator's integration work. No public render is created.

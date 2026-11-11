@@ -1,0 +1,99 @@
+{
+  "status": "PASS",
+  "scope": "Initial presentation completion: one line per materially treated earlier decision.",
+  "review": "Operator reviewed every proposed role against the already-adopted explanation. The two refinements avoid new individual factual distinctions and an unnecessary sentencing-authority qualification.",
+  "records": [
+    {
+      "record": "terms/OT2001/records/board-of-education-v-earls_merits_2002-06-27.md",
+      "before_sha256": "91ada603f989207a681e6b4619617285f8a5fadbe3d818ef438abf6a9649a88b",
+      "after_sha256": "557a579d837b33b3aa0a738198eb00ea731fa624aa0971b320f02e841b03feb8",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 7,
+      "bullets_after": 11
+    },
+    {
+      "record": "terms/OT2001/records/harris-v-united-states_merits_2002-06-24.md",
+      "before_sha256": "f504fd092aa641cc6459dafa72cdd7f4117347d7ac5a9da7883d4914ab9da427",
+      "after_sha256": "390f05b0fa1733788aa62ef37c9939d15b32339f90c30e9a322a7e176cb69f8d",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 12,
+      "bullets_after": 14
+    },
+    {
+      "record": "terms/OT2001/records/hope-v-pelzer_merits_2002-06-27.md",
+      "before_sha256": "316bf53b1f49e1dd4d35a0d0c7eb02a774bed927fb7f636c25c36f6642b5d2c2",
+      "after_sha256": "26b769eae5b9b311e3d1de1922bf1403db91d6e1b32f813155fa74112b9a727d",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 9,
+      "bullets_after": 24
+    },
+    {
+      "record": "terms/OT2001/records/kirk-v-louisiana_merits_2002-06-24.md",
+      "before_sha256": "46553b3c8a3442f6d7a17224a32fa233de6e26c4684ba79415f14ffe9557ac49",
+      "after_sha256": "80169f3d949a8b569d19578914713ae88b74ec7da7b50408a872768d24660db2",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 6,
+      "bullets_after": 10
+    },
+    {
+      "record": "terms/OT2001/records/missouri-republican-party-v-lamb_merits_2002-06-27.md",
+      "before_sha256": "b927f8882bfd1e7cc068a66d441348f6b7f1a55354b18182f3648ed4e2e98bc5",
+      "after_sha256": "5fde795ddbcfb62e30bd7d3d103f5ffe861fe4cb6a7dc6e61edc0d84c0656b2c",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 8,
+      "bullets_after": 9
+    },
+    {
+      "record": "terms/OT2001/records/ring-v-arizona_merits_2002-06-24.md",
+      "before_sha256": "13999c933b9f76e292686ed583cd8adc0b519ceedc7a4c5287bacd88b295aa84",
+      "after_sha256": "2623e5b91ad2068f4d7f5f433baa4a66279208e9a0f1c081a55f6baa5d28e6cb",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 11,
+      "bullets_after": 13
+    },
+    {
+      "record": "terms/OT2001/records/trans-union-corp-v-ftc_merits_2002-06-24.md",
+      "before_sha256": "4f25724d84f193a32fca408043cc71f130475aaa3ffc8ae049ff18d694f98ed5",
+      "after_sha256": "88cc0aba4df489378a58d6145a9badb7a12f436776bd1fb7a5b4fb112bbe32a5",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 8,
+      "bullets_after": 9
+    },
+    {
+      "record": "terms/OT2001/records/united-states-v-angle_merits_2002-06-20.md",
+      "before_sha256": "00f430f3f730ed2e3daf66d79e6d84385b8260598fa6fd6bad11085533ec7d20",
+      "after_sha256": "1b725b17ba1002e019599c8d574544dd95850ca7458bef923d9c68fe988b06d5",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 11,
+      "bullets_after": 12
+    },
+    {
+      "record": "terms/OT2001/records/united-states-v-ruiz_merits_2002-06-24.md",
+      "before_sha256": "ba8d5929bd421a9914103238fced1d61d8da90dcd2d5362e96b8516c96e2814f",
+      "after_sha256": "76050717ce683aa447252e9cda5a518f70cb14794f7344763986c3a9bb2933e7",
+      "only_changed_block": "Public Projection / Precedent Treatment",
+      "holdings_judgment_opinions_internal_annex_byte_preserved": true,
+      "bullets_before": 8,
+      "bullets_after": 12
+    }
+  ],
+  "proposal": "tmp/ot2001_chunk8/precedent_line_replacements.json",
+  "unchanged_records": [
+    "terms/OT2001/records/bek-construction-co-v-nlrb_merits_2002-06-24.md",
+    "terms/OT2001/records/people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+    "terms/OT2001/records/republican-party-of-minnesota-v-white_merits_2002-06-27.md",
+    "terms/OT2001/records/zelman-v-simmons-harris_merits_2002-06-27.md"
+  ],
+  "all_other_record_bytes_preserved": true,
+  "existing_stage_handoffs_and_reading_copies_unchanged": true,
+  "stage_copy_status": "Existing entering-law copies remain the exact reading snapshots supplied to their stages, before this layout completion. Their legal content is unchanged. Fresh-review hashes for these nine Records identify the pre-layout bytes and are linked to the current bytes by this receipt. Final Render Input is generated from current Record Public Projections.",
+  "limitations": "This script proves the bounded text change and hash chain. The operator review, not the script, establishes that the separated descriptions add no doctrine or factual premise."
+}

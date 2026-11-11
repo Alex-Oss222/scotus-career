@@ -1,0 +1,31 @@
+Source: https://www.law.cornell.edu/supct/html/01-521.ZS.html
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+REPUBLICAN PARTY OF MINNESOTA et al. v. WHITE, CHAIRPERSON, MINNESOTA BOARD OF JUDICIAL STANDARDS, et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+
+ No. 01—521. Argued March 26, 2002–Decided June 27, 2002
+
+The Minnesota Supreme Court has adopted a canon of judicial conduct that prohibits a “candidate for a judicial office” from “announc[ing] his or her views on disputed legal or political issues” (hereinafter announce clause). While running for associate justice of that court, petitioner Gregory Wersal (and others) filed this suit seeking a declaration that the announce clause violates the First Amendment and an injunction against its enforcement. The District Court granted respondent officials summary judgment, and the Eighth Circuit affirmed. 
+
+Held: The announce clause violates the First Amendment. Pp. 4—22. 
+
+ (a) The record demonstrates that the announce clause prohibits a judicial candidate from stating his views on any specific nonfanciful legal question within the province of the court for which he is running, except in the context of discussing past decisions–and in the latter context as well, if he expresses the view that he is not bound by stare decisis. Pp. 4—8.
+
+ (b) The announce clause both prohibits speech based on its content and burdens a category of speech that is at the core of First Amendment freedoms–speech about the qualifications of candidates for public office. The Eighth Circuit concluded, and the parties do not dispute, that the proper test to be applied to determine the constitutionality of such a restriction is strict scrutiny, under which respondents have the burden to prove that the clause is (1) narrowly tailored, to serve (2) a compelling state interest. E.g., Eu v. San Francisco County Democratic Central Comm., 489 U.S. 214, 222. That court found that respondents had established two interests as sufficiently compelling to justify the announce clause: preserving the state judiciary’s impartiality and preserving the appearance of that impartiality. Pp. 8—9.
+
+ (c) Under any definition of “impartiality,” the announce clause fails strict scrutiny. First, it is plain that the clause is not narrowly tailored to serve impartiality (or its appearance) in the traditional sense of the word, i.e., as a lack of bias for or against either party to the proceeding. Indeed, the clause is barely tailored to serve that interest at all, inasmuch as it does not restrict speech for or against particular parties, but rather speech for or against particular issues. Second, although “impartiality” in the sense of a lack of preconception in favor of or against a particular legal view may well be an interest served by the announce clause, pursuing this objective is not a compelling state interest, since it is virtually impossible, and hardly desirable, to find a judge who does not have preconceptions about the law, see Laird v. Tatum, 409 U.S. 824, 835. Third, the Court need not decide whether achieving “impartiality” (or its appearance) in the sense of openmindedness is a compelling state interest because, as a means of pursuing this interest, the announce clause is so woefully underinclusive that the Court does not believe it was adopted for that purpose. See, e.g., City of Ladue v. Gilleo, 512 U.S. 43, 52—53. Respondents have not carried the burden imposed by strict scrutiny of establishing that statements made during an election campaign are uniquely destructive of openmindedness. See, e.g., Landmark Communications, Inc. v. Virginia, 435 U.S. 829, 841. Pp. 9—18.
+
+ (d) A universal and long-established tradition of prohibiting certain conduct creates a strong presumption that the prohibition is constitutional, see McIntyre v. Ohio Elections Comm’n, 514 U.S. 334, 375—377. However, the practice of prohibiting speech by judicial candidates is neither ancient nor universal. The Court knows of no such prohibitions throughout the 19th and the first quarter of the 20th century, and they are still not universally adopted. This does not compare well with the traditions deemed worthy of attention in, e.g., Burson v. Freeman, 504 U.S. 191, 205—206. Pp. 19—21.
+
+ (e) There is an obvious tension between Minnesota’s Constitution, which requires judicial elections, and the announce clause, which places most subjects of interest to the voters off limits. The First Amendment does not permit Minnesota to leave the principle of elections in place while preventing candidates from discussing what the elections are about. See, e.g., Renne v. Geary, 501 U.S. 312, 349. Pp. 21—22.
+
+247 F.3d 854, reversed and remanded.
+
+ Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, and Thomas, JJ., joined. O’Connor, J., and Kennedy, J., filed concurring opinions. Stevens, J., filed a dissenting opinion, in which Souter, Ginsburg, and Breyer, JJ., joined. Ginsburg, J., filed a dissenting opinion, in which Stevens, Souter, and Breyer, JJ., joined.

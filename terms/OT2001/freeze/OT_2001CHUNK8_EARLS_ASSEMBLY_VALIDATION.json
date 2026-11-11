@@ -1,0 +1,122 @@
+{
+  "case": "Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls",
+  "author": "Ginsburg",
+  "date": "2002-06-27",
+  "record": "board-of-education-v-earls_merits_2002-06-27.md",
+  "checks": {
+    "opening_labels": true,
+    "eleven_blocks": true,
+    "single_authoritative_holdings_copy": true,
+    "eight_reconciled_rows": true,
+    "exact_stone_copy": true,
+    "coalition_partition": true,
+    "fresh_count_pool": true,
+    "author_recognition": true,
+    "links": true,
+    "private_boundary": true,
+    "exact_public_law_copy": true,
+    "explanation_ceilings": true,
+    "exact_projection_bytes": true,
+    "source_receipt_hashes": true,
+    "final_relative_links": true,
+    "all_current_artifacts_clean": true,
+    "form_count_sequence_review": true
+  },
+  "coalitions": {
+    "Part I": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Parts II and III": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ],
+    "support": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ],
+    "oppose": [
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg"
+    ]
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 12,
+    "O'Connor": 12,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 12,
+    "Thomas": 12,
+    "Ginsburg": 12,
+    "Breyer": 13
+  },
+  "last_counted": {
+    "file": "united-states-v-ruiz_merits_2002-06-24.md",
+    "caption": "United States v. Ruiz",
+    "date": "2002-06-24",
+    "authors": [
+      "Breyer"
+    ]
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Souter",
+    "Ginsburg"
+  ],
+  "explanation_words": [
+    105,
+    191,
+    132
+  ],
+  "source_sha256": {
+    "freeze/OT_2001CHUNK8_EARLS_FORM.md": "34ba68648c1e9d6367e7a80d192f949054014d6708ee9d8bc1defb2cd0aabc61",
+    "freeze/OT_2001CHUNK8_EARLS_ASSIGNMENT.md": "49baa5c44dedcde2d7f5a6fc2e5a3bd5e9573d2b6e52800881d2ad9a09426832",
+    "freeze/OT_2001CHUNK8_EARLS_ASSIGNMENT_COUNTS.json": "d8273a84cdfeb97b9d38ff4d2aea0557b8be2eb43b897bf9a6b91a88200d1d4a",
+    "freeze/OT_2001CHUNK8_JUNE27_A_RECONCILED.md": "582641b9c1ea97f2cc9f3e100cb985f3378b374efdd947ea8f1f431a7406980a",
+    "runtime/OT_2001CHUNK8_JUNE27_A_STONE.md": "2e079a38e67941e15e540a6bf090f8c7d7f7b9a8227d3476a6fd4daba948849d",
+    "entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md": "6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4"
+  },
+  "record_sha256": "91ada603f989207a681e6b4619617285f8a5fadbe3d818ef438abf6a9649a88b",
+  "public_projection_sha256": "516535e7de91da9f7166ee4557118c2b77e9c66bb1ea3132a5fb18453727a939",
+  "integration": "Pending control; not certified by local assembly.",
+  "posture_check": "Initial validation clarifies the opening Result: return for declaratory and appropriate prospective relief; no existing injunction is asserted. Public Projection unchanged.",
+  "substantive_review": {
+    "status": "Assembler final review completed; no material compatibility or source gap identified.",
+    "authority_cutoff": "June 27, 2002.",
+    "same_day_order": "Administrative assignment sequence only; no same-day substantive priority.",
+    "independence": "This is local assembler validation, not an independent review or whole-term certification."
+  },
+  "metadata_note": "Removed the unrelated Hope conduct dates from this event cutoff; no Record or adjudicative change."
+}

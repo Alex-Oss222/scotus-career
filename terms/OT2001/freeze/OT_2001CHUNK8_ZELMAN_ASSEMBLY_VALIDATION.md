@@ -1,0 +1,11 @@
+# ZELMAN local assembly validation
+
+PASS. The initial Record has the four exact opening labels, one final bounded Public Projection and the exact eleven-block order. Internal controlling holdings and public Holdings are identical. Explanation word counts: 271, 196, 183, 88; each is within 350 words. Judgment component support is 5, 6 of nine, with named opposing partitions. The actual public opinion table supplies exactly one counted signed lead, Stevens.
+
+The fixed form precedes the fresh actual-table count. Eligible common authors: Stevens, O'Connor, Souter, Ginsburg, Breyer. Common pool: Stevens, O'Connor, Souter, Ginsburg, Breyer. Relevant Chief-assigned component pool: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, Breyer. The selected author is eligible and within both applicable pools. Last counted event: Republican Party of Minnesota v. White, 2002-06-27, author Scalia. The count uses actual Record opinion tables, including earlier same-day Records, without making those decisions entering law.
+
+The identical three-docket judgment preserves five-Justice partial affirmance and six-Justice categorical-relief vacatur/remand, with Stone seeking additional vacatur and three Associates seeking reversal. Six directly join the financing, actual-proof and corrective-remedy standards. Stevens assigns the partial-affirmance component, the Chief assigns the vacatur component, and the common author satisfies every proposition and both relevant pools. No historical author, Zobrest merits rule or Thomas incorporation ground is imported. Existing proof, prompt effective correction, lawful applications and Ohio severability retain their full qualifications.
+
+The eight independent rows and eight reconciled rows, including applicable historical-departure lines, are exact mechanically copied sections. No Associate commitment changed after reconciliation, no Stone fallback supplied a choice, and no fictitious circulation occurred. Relative links resolve and the public text contains no operator workflow. The exact public-law handoff is copied from the bounded Public Projection and checked for identity. This is local initial validation, not independent fresh review or global integration; no public render or global workspace change is made.
+
+Record SHA-256: `6cdb969d0341819c07b55e409d36259a0e662b3ae4ce839d1f7f8ba420dd9ceb`.

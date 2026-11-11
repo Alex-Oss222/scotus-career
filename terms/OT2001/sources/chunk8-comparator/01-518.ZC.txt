@@ -1,0 +1,21 @@
+Source: https://www.law.cornell.edu/supct/html/01-518.ZC.html
+
+536 U.S. ____ (2002)
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 01—518
+
+BE & K CONSTRUCTION COMPANY, PETITIONER v. NATIONAL LABOR RELATIONS BOARD et al.
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+[June 24, 2002]
+
+ Justice Scalia, with whom Justice Thomas joins, concurring.
+
+ Although the Court scrupulously avoids deciding the question (which is not presented in this case), I agree with Justice Breyer that the implication of our decision today is that, in a future appropriate case, we will construe the National Labor Relations Act (NLRA) in the same way we have already construed the Sherman Act: to prohibit only lawsuits that are both objectively baseless and subjectively intended to abuse process. See Professional Real Estate Investors, Inc. v. Columbia Pictures Industries, Inc., 508 U.S. 49, 60—61 (1993).
+
+ Choosing to make explicit what is implied, and then disagreeing with that result, Justice Breyer describes a number of differences between the NLRA and the Sherman Act, all of which suggest to him that a complainant enjoys greater First Amendment rights to file a lawsuit in the face of the latter than the former. Post, at 4—6 (opinion concurring in part and concurring in judgment). Missing from his list, however, is the most important difference of all, which suggests–indeed, demands–precisely the opposite conclusion. Under the Sherman Act, the entity making the factual determination whether the objectively reasonable suit was brought with an unlawful motive would have been an Article III court; even with that protection, we thought the right of access to Article III courts too much imperiled. Under the NLRA, however, the entity making the factual finding that determines whether a litigant will be punished for filing an objectively reasonable lawsuit will be an executive agency, the National Labor Relations Board. That this difference undermines Justice Breyer’s analysis, there can be no doubt. At the very least, it poses a difficult question under the First Amendment: whether an executive agency can be given the power to punish a reasonably based suit filed in an Article III court whenever it concludes–insulated from de novo judicial review by the substantial-evidence standard of 29 U.S.C. § 160(e), (f)–that the complainant had one motive rather than another. This makes resort to the courts a risky venture, dependent upon the findings of a body that does not have the independence prescribed for Article III courts. It would be extraordinary to interpret a statute which is silent on this subject to intrude upon the courts’ ability to decide for themselves which postulants for their assistance should be punished.
+
+ For this reason, I am able, unlike Justice Breyer, to join the Court’s opinion in full–including its carefully circumscribed statement that “nothing in our holding today should be read to question the validity of common litigation sanctions imposed by courts themselves,” ante, at 19 (emphasis added).

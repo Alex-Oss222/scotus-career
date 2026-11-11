@@ -1,0 +1,115 @@
+{
+  "case": "Ring v. Arizona",
+  "event": "2002-06-24",
+  "record": "ring-v-arizona_merits_2002-06-24.md",
+  "author": "Kennedy",
+  "checks": {
+    "opening_labels": true,
+    "eleven_public_blocks": true,
+    "kernel_public_holdings_identity": true,
+    "exact_public_law_copy": true,
+    "all_eight_reconciled_rows": true,
+    "unique_valid_coalitions": true,
+    "public_private_boundary": true,
+    "material_qualification_presence": true,
+    "exact_approved_stone_copy": true,
+    "exact_reconciled_audit_with_identified_assembly_supplement": true,
+    "judgment_roster_partition": true,
+    "proposition_counts": true,
+    "bek_included_kirk_excluded": true,
+    "final_partial_join_review": true,
+    "associate_assignment_authority": true,
+    "full_opinion_author_eligibility": true,
+    "fresh_count_excludes_later_transunion": true,
+    "stone_formal_vacatur_preserved": true,
+    "distinct_formal_disposition_partition": true,
+    "no_chief_pool_imposed_on_associate": true,
+    "current_public_law_identity": true
+  },
+  "explanation_words": [
+    263,
+    292,
+    96
+  ],
+  "coalitions": {
+    "Part I": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "Part II": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "Part III": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "judgment support": [
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment opposition": [
+      "Stone-Zsela",
+      "O'Connor"
+    ],
+    "eligible authors": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "appellate vacatur": [
+      "Stone-Zsela"
+    ],
+    "affirmance": [
+      "O'Connor"
+    ]
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 11,
+    "O'Connor": 12,
+    "Scalia": 12,
+    "Kennedy": 11,
+    "Souter": 12,
+    "Thomas": 12,
+    "Ginsburg": 12,
+    "Breyer": 12
+  },
+  "pool": "Not applicable: the Chief's mandatory pool does not bind this Associate assignment.",
+  "source_sha256": {
+    "freeze/OT_2001CHUNK8_HARRIS_RING_NEUTRAL.md": "2268feb82106fbaacc41c6aac0a2d018e70e707221fa0224fd9bb378bdc1265e",
+    "freeze/OT_2001CHUNK8_HARRIS_RING_COMMITMENTS.md": "2e5ea0cfc72961ce8e878ba9a607df504732f14dd6694cf5fbececa868ed15ea",
+    "freeze/OT_2001CHUNK8_HARRIS_RING_RECONCILED.md": "a120f3dbbac6ee27bf277a920d10a2ff9ea2c4b0c4951cd2b79eea8570d4a060",
+    "entering-law/OT_2001CHUNK8_HARRIS_RING_ENTERING_LAW.md": "8eeb78b74697c3d477df972a84f7f4bed6bd8ddcdaf8273162dbfe687a37cc18",
+    "runtime/OT_2001CHUNK8_HARRIS_RING_STONE.md": "51b2712f1ee2a177367dd05abe3d04a62c3bf2071e822e5f6307cc156a2ddc44",
+    "freeze/OT_2001CHUNK8_RING_FORM.md": "dc7e6cef648551c9764c3fe1e793c52395892f8495032eebac4a51f0500ec22b",
+    "freeze/OT_2001CHUNK8_RING_ASSIGNMENT_COUNTS.json": "6a1f9b0e7071d8ab0674e7f76720210d53f1f9eeb4efed3a1a0870d0c351e215",
+    "freeze/OT_2001CHUNK8_RING_ASSIGNMENT.md": "de27e41b62d6f5f798a5008e20e3c70bf4f35c983d389fddaf34a4a950c3e0f9"
+  },
+  "limitations": [
+    "Workspace integration and chunk-wide validation are performed separately by control.",
+    "No repository-history operation was performed by this assembly context."
+  ],
+  "record_sha256": "13999c933b9f76e292686ed583cd8adc0b519ceedc7a4c5287bacd88b295aa84",
+  "public_projection_sha256": "2277cd6d90d7dd9d68d6fa2b10acdc2cd2d51ea9fe4ee6023668cb17213933ae",
+  "final_semantic_review": "After initial-draft review, Stone's formal appellate-vacatur vote is preserved separately, Part III has six rationale joins and seven reversal votes, and Stevens independently assigns Kennedy after a fresh eligible count. Frozen commitments and Harris remain unchanged. Workspace integration remains pending control.",
+  "assignment_authority": "Stevens, senior participating Associate Justice in the seven-Justice reversal coalition; Stone-Zsela instead votes for appellate vacatur."
+}

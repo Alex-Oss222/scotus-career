@@ -1,0 +1,924 @@
+{
+  "before_date": "2002-06-27",
+  "before_case": "Republican Party of Minnesota v. White",
+  "counts": {
+    "Stone-Zsela": 12,
+    "Stevens": 12,
+    "O'Connor": 13,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 13
+  },
+  "counted_events": 112,
+  "author_credits": 112,
+  "last_counted_event": {
+    "file": "people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+    "caption": "People Who Care v. Rockford Board of Education, School District No. 205",
+    "date": "2002-06-27",
+    "authors": [
+      "O'Connor"
+    ]
+  },
+  "method": "Current Record public opinion tables; date precedes target or same-date case name sorts before target; summary/procedural/per-curiam events and separate writings excluded.",
+  "counted_event_list": [
+    {
+      "file": "brown-v-city-of-oneonta_merits_2001-11-13.md",
+      "caption": "Brown v. City of Oneonta",
+      "date": "2001-11-13",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "trw-inc-v-andrews_merits_2001-11-13.md",
+      "caption": "TRW Inc. v. Andrews",
+      "date": "2001-11-13",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "caption": "United States Postal Service v. Gregory",
+      "date": "2001-11-13",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "chickasaw-nation-v-united-states_merits_2001-11-27.md",
+      "caption": "Chickasaw Nation v. United States",
+      "date": "2001-11-27",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "church-of-scientology-international-v-behar_merits_2001-11-27.md",
+      "caption": "Church of Scientology International v. Behar",
+      "date": "2001-11-27",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "correctional-services-corp-v-malesko_merits_2001-11-27.md",
+      "caption": "Correctional Services Corp. v. Malesko",
+      "date": "2001-11-27",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+      "caption": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.",
+      "date": "2001-12-10",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "schrader-v-blackwell_merits_2001-12-10.md",
+      "caption": "Schrader v. Blackwell",
+      "date": "2001-12-10",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "united-states-v-knights_merits_2001-12-10.md",
+      "caption": "United States v. Knights",
+      "date": "2001-12-10",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "dusenbery-v-united-states_merits_2002-01-08.md",
+      "caption": "Dusenbery v. United States",
+      "date": "2002-01-08",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+      "caption": "Great-West Life & Annuity Insurance Co. v. Knudson",
+      "date": "2002-01-08",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "searles-v-van-bebber_merits_2002-01-08.md",
+      "caption": "Searles v. Van Bebber",
+      "date": "2002-01-08",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+      "caption": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams",
+      "date": "2002-01-08",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+      "caption": "Chao v. Mallard Bay Drilling, Inc.",
+      "date": "2002-01-09",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "kelly-v-south-carolina_merits_2002-01-09.md",
+      "caption": "Kelly v. South Carolina",
+      "date": "2002-01-09",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "riley-v-st-lukes-episcopal-hospital_merits_2002-01-09.md",
+      "caption": "Riley v. St. Luke's Episcopal Hospital",
+      "date": "2002-01-09",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "eeoc-v-waffle-house-inc_merits_2002-01-15.md",
+      "caption": "EEOC v. Waffle House, Inc.",
+      "date": "2002-01-15",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "in-re-cybernetic-services-inc_merits_2002-01-15.md",
+      "caption": "In re Cybernetic Services, Inc.",
+      "date": "2002-01-15",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "thomas-v-chicago-park-district_merits_2002-01-15.md",
+      "caption": "Thomas v. Chicago Park District",
+      "date": "2002-01-15",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "united-states-v-arvizu_merits_2002-01-15.md",
+      "caption": "United States v. Arvizu",
+      "date": "2002-01-15",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "national-cable-telecommunications-assn-inc-v-gulf-power-co_merits_2002-01-16.md",
+      "caption": "National Cable & Telecommunications Assn., Inc. v. Gulf Power Co.",
+      "date": "2002-01-16",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "kansas-v-crane_merits_2002-01-22.md",
+      "caption": "Kansas v. Crane",
+      "date": "2002-01-22",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "lee-v-kemna_merits_2002-01-22.md",
+      "caption": "Lee v. Kemna",
+      "date": "2002-01-22",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united-states-v-microsoft-corp_merits_2002-01-22.md",
+      "caption": "United States v. Microsoft Corp.",
+      "date": "2002-01-22",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "barnhart-v-sigmon-coal-co_merits_2002-02-19.md",
+      "caption": "Barnhart v. Sigmon Coal Co.",
+      "date": "2002-02-19",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "igartua-de-la-rosa-v-united-states_merits_2002-02-19.md",
+      "caption": "Igartua De La Rosa v. United States",
+      "date": "2002-02-19",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "owasso-independent-school-district-no-i-011-v-falvo_merits_2002-02-19.md",
+      "caption": "Owasso Independent School District No. I-011 v. Falvo",
+      "date": "2002-02-19",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "romeu-v-cohen_merits_2002-02-19.md",
+      "caption": "Romeu v. Cohen",
+      "date": "2002-02-19",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "winn-dixie-stores-inc-v-commissioner_merits_2002-02-20.md",
+      "caption": "Winn-Dixie Stores, Inc. v. Commissioner",
+      "date": "2002-02-20",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "wisconsin-department-of-health-and-family-services-v-blumer_merits_2002-02-20.md",
+      "caption": "Wisconsin Department of Health and Family Services v. Blumer",
+      "date": "2002-02-20",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "porter-v-nussle_merits_2002-02-26.md",
+      "caption": "Porter v. Nussle",
+      "date": "2002-02-26",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "swierkiewicz-v-sorema-na_merits_2002-02-26.md",
+      "caption": "Swierkiewicz v. Sorema N.A.",
+      "date": "2002-02-26",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "guest-v-leis_merits_2002-02-27.md",
+      "caption": "Guest v. Leis",
+      "date": "2002-02-27",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "raygor-v-regents-of-university-of-minnesota_merits_2002-02-27.md",
+      "caption": "Raygor v. Regents of University of Minnesota",
+      "date": "2002-02-27",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "delaney-v-detella_merits_2002-03-04.md",
+      "caption": "Delaney v. DeTella",
+      "date": "2002-03-04",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "new-york-v-ferc-enron-power-marketing-inc-v-ferc_merits_2002-03-04.md",
+      "caption": "New York v. FERC / Enron Power Marketing, Inc. v. FERC",
+      "date": "2002-03-04",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "ruiz-v-united-states-ruiz-v-johnson_merits_2002-03-04.md",
+      "caption": "Ruiz v. United States (Ruiz v. Johnson)",
+      "date": "2002-03-04",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "united-states-v-vonn_merits_2002-03-04.md",
+      "caption": "United States v. Vonn",
+      "date": "2002-03-04",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "young-v-united-states_merits_2002-03-04.md",
+      "caption": "Young v. United States",
+      "date": "2002-03-04",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "edelman-v-lynchburg-college_merits_2002-03-19.md",
+      "caption": "Edelman v. Lynchburg College",
+      "date": "2002-03-19",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "milstein-v-cooley_merits_2002-03-19.md",
+      "caption": "Milstein v. Cooley",
+      "date": "2002-03-19",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "ragsdale-v-wolverine-world-wide-inc_merits_2002-03-19.md",
+      "caption": "Ragsdale v. Wolverine World Wide, Inc.",
+      "date": "2002-03-19",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "zahrey-v-coffey_merits_2002-03-19.md",
+      "caption": "Zahrey v. Coffey",
+      "date": "2002-03-19",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker_merits_2002-03-26.md",
+      "caption": "Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker",
+      "date": "2002-03-26",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "s-s-ex-rel-jervis-v-mcmullen_merits_2002-03-26.md",
+      "caption": "S.S. ex rel. Jervis v. McMullen",
+      "date": "2002-03-26",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "barnhart_v_walton_merits_2002-03-27.md",
+      "caption": "Barnhart v. Walton",
+      "date": "2002-03-27",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "hoffman-plastic-compounds-inc-v-nlrb_merits_2002-03-27.md",
+      "caption": "Hoffman Plastic Compounds, Inc. v. NLRB",
+      "date": "2002-03-27",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "mickens_v_taylor_merits_2002-03-27.md",
+      "caption": "Mickens v. Taylor",
+      "date": "2002-03-27",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md",
+      "caption": "Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas",
+      "date": "2002-04-01",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "ashcroft_v_free_speech_coalition_merits_2002-04-16.md",
+      "caption": "Ashcroft v. Free Speech Coalition, No. 00-795",
+      "date": "2002-04-16",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united_states_v_craft_merits_2002-04-17.md",
+      "caption": "United States v. Craft, No. 00-1831",
+      "date": "2002-04-17",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "a_and_m_records_v_napster_merits_2002-04-23.md",
+      "caption": "A&M Records, Inc. v. Napster, Inc.",
+      "date": "2002-04-23",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "michigan_v_environmental_protection_agency_merits_2002-04-23.md",
+      "caption": "Michigan v. Environmental Protection Agency",
+      "date": "2002-04-23",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "tahoe_sierra_preservation_council_v_tahoe_regional_planning_agency_merits_2002-04-23.md",
+      "caption": "Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency, No. 00-1167",
+      "date": "2002-04-23",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "universal_city_studios_v_corley_merits_2002-04-23.md",
+      "caption": "Universal City Studios, Inc. v. Corley",
+      "date": "2002-04-23",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "thompson_v_western_states_medical_center_merits_2002-04-29.md",
+      "caption": "Thompson v. Western States Medical Center",
+      "date": "2002-04-29",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "us_airways_v_barnett_merits_2002-04-29.md",
+      "caption": "US Airways, Inc. v. Barnett",
+      "date": "2002-04-29",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "ashcroft_v_aclu_merits_2002-05-13.md",
+      "caption": "Ashcroft v. American Civil Liberties Union",
+      "date": "2002-05-13",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "city_of_los_angeles_v_alameda_books_merits_2002-05-13.md",
+      "caption": "City of Los Angeles v. Alameda Books, Inc.",
+      "date": "2002-05-13",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "henderson_v_norris_merits_2002-05-13.md",
+      "caption": "Henderson v. Norris",
+      "date": "2002-05-13",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "lapides_v_board_of_regents_merits_2002-05-13.md",
+      "caption": "Lapides v. Board of Regents of University System of Georgia",
+      "date": "2002-05-13",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "verizon_communications_v_fcc_merits_2002-05-13.md",
+      "caption": "Verizon Communications Inc. v. FCC",
+      "date": "2002-05-13",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "voting_integrity_project_v_keisling_merits_2002-05-13.md",
+      "caption": "Voting Integrity Project, Inc. v. Keisling",
+      "date": "2002-05-13",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "alabama_v_shelton_merits_2002-05-20.md",
+      "caption": "Alabama v. Shelton",
+      "date": "2002-05-20",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "brown_v_gilmore_merits_2002-05-20.md",
+      "caption": "Brown v. Gilmore",
+      "date": "2002-05-20",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "united_states_v_cotton_merits_2002-05-20.md",
+      "caption": "United States v. Cotton",
+      "date": "2002-05-20",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "verizon_maryland_v_public_service_commission_merits_2002-05-20.md",
+      "caption": "Verizon Maryland Inc. v. Public Service Commission of Maryland",
+      "date": "2002-05-20",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "Bell_v_Cone_Merits_2002-05-28.md",
+      "caption": "Bell v. Cone",
+      "date": "2002-05-28",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "compaq-computer-corp-v-commissioner_merits_2002-05-28.md",
+      "caption": "Compaq Computer Corp. v. Commissioner",
+      "date": "2002-05-28",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md",
+      "caption": "Federal Maritime Commission v. South Carolina State Ports Authority",
+      "date": "2002-05-28",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md",
+      "caption": "Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.",
+      "date": "2002-05-28",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "Gisbrecht_v_Barnhart_Merits_2002-05-28.md",
+      "caption": "Gisbrecht v. Barnhart",
+      "date": "2002-05-28",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md",
+      "caption": "In re Prudential Insurance Co. of America Sales Practice Litigation",
+      "date": "2002-05-28",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md",
+      "caption": "South Camden Citizens in Action v. New Jersey Department of Environmental Protection",
+      "date": "2002-05-28",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "holmes-group-inc-v-vornado-air-circulation-systems-inc_merits_2002-06-03.md",
+      "caption": "Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.",
+      "date": "2002-06-03",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "sec-v-zandford_merits_2002-06-03.md",
+      "caption": "SEC v. Zandford",
+      "date": "2002-06-03",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "united-states-v-mackby_merits_2002-06-03.md",
+      "caption": "United States v. Mackby",
+      "date": "2002-06-03",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "chevron-usa-inc-v-echazabal_merits_2002-06-10.md",
+      "caption": "Chevron U.S.A. Inc. v. Echazabal",
+      "date": "2002-06-10",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "devlin-v-scardelletti_merits_2002-06-10.md",
+      "caption": "Devlin v. Scardelletti",
+      "date": "2002-06-10",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "franconia-associates-v-united-states_merits_2002-06-10.md",
+      "caption": "Franconia Associates v. United States",
+      "date": "2002-06-10",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "jpmorgan-chase-bank-v-traffic-stream-bvi-infrastructure-ltd_merits_2002-06-10.md",
+      "caption": "JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd.",
+      "date": "2002-06-10",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "mckune-v-lile_merits_2002-06-10.md",
+      "caption": "McKune v. Lile",
+      "date": "2002-06-10",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "national-railroad-passenger-corp-v-morgan_merits_2002-06-10.md",
+      "caption": "National Railroad Passenger Corp. v. Morgan",
+      "date": "2002-06-10",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "united-states-v-bollin_merits_2002-06-10.md",
+      "caption": "United States v. Bollin",
+      "date": "2002-06-10",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "united-states-v-faasse_merits_2002-06-10.md",
+      "caption": "United States v. Faasse",
+      "date": "2002-06-10",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "united-states-v-farmer_merits_2002-06-10.md",
+      "caption": "United States v. Farmer",
+      "date": "2002-06-10",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "barnes-v-gorman_merits_2002-06-17.md",
+      "caption": "Barnes v. Gorman",
+      "date": "2002-06-17",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "carey-v-saffold_merits_2002-06-17.md",
+      "caption": "Carey v. Saffold",
+      "date": "2002-06-17",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "leventhal-v-knapek_merits_2002-06-17.md",
+      "caption": "Leventhal v. Knapek",
+      "date": "2002-06-17",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "ticknor-v-choice-hotels-international-inc_merits_2002-06-17.md",
+      "caption": "Ticknor v. Choice Hotels International, Inc.",
+      "date": "2002-06-17",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "united-states-v-drayton_merits_2002-06-17.md",
+      "caption": "United States v. Drayton",
+      "date": "2002-06-17",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "united-states-v-emerson_merits_2002-06-17.md",
+      "caption": "United States v. Emerson",
+      "date": "2002-06-17",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "united-states-v-fior-ditalia-inc_merits_2002-06-17.md",
+      "caption": "United States v. Fior D'Italia, Inc.",
+      "date": "2002-06-17",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "united-states-v-hooper_merits_2002-06-17.md",
+      "caption": "United States v. Hooper",
+      "date": "2002-06-17",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "watchtower-bible-tract-society-v-village-of-stratton_merits_2002-06-17.md",
+      "caption": "Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton",
+      "date": "2002-06-17",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "atkins-v-virginia_merits_2002-06-20.md",
+      "caption": "Atkins v. Virginia",
+      "date": "2002-06-20",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "christopher-v-harbury_merits_2002-06-20.md",
+      "caption": "Christopher v. Harbury",
+      "date": "2002-06-20",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "city-of-columbus-v-ours-garage-wrecker-service-inc_merits_2002-06-20.md",
+      "caption": "City of Columbus v. Ours Garage & Wrecker Service, Inc.",
+      "date": "2002-06-20",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "dadian-v-village-of-wilmette_merits_2002-06-20.md",
+      "caption": "Dadian v. Village of Wilmette",
+      "date": "2002-06-20",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "gonzaga-university-v-doe_merits_2002-06-20.md",
+      "caption": "Gonzaga University v. Doe",
+      "date": "2002-06-20",
+      "authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "file": "rush-prudential-hmo-inc-v-moran_merits_2002-06-20.md",
+      "caption": "Rush Prudential HMO, Inc. v. Moran",
+      "date": "2002-06-20",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "united-states-v-angle_merits_2002-06-20.md",
+      "caption": "United States v. Angle",
+      "date": "2002-06-20",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "utah-v-evans_merits_2002-06-20.md",
+      "caption": "Utah v. Evans",
+      "date": "2002-06-20",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "bek-construction-co-v-nlrb_merits_2002-06-24.md",
+      "caption": "BE&K Construction Co. v. NLRB",
+      "date": "2002-06-24",
+      "authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "file": "harris-v-united-states_merits_2002-06-24.md",
+      "caption": "Harris v. United States",
+      "date": "2002-06-24",
+      "authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "file": "ring-v-arizona_merits_2002-06-24.md",
+      "caption": "Ring v. Arizona",
+      "date": "2002-06-24",
+      "authors": [
+        "Kennedy"
+      ]
+    },
+    {
+      "file": "trans-union-corp-v-ftc_merits_2002-06-24.md",
+      "caption": "Trans Union Corp. v. Federal Trade Commission",
+      "date": "2002-06-24",
+      "authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "file": "united-states-v-ruiz_merits_2002-06-24.md",
+      "caption": "United States v. Ruiz",
+      "date": "2002-06-24",
+      "authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "file": "board-of-education-v-earls_merits_2002-06-27.md",
+      "caption": "Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls",
+      "date": "2002-06-27",
+      "authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "file": "hope-v-pelzer_merits_2002-06-27.md",
+      "caption": "Hope v. Pelzer",
+      "date": "2002-06-27",
+      "authors": [
+        "Souter"
+      ]
+    },
+    {
+      "file": "missouri-republican-party-v-lamb_merits_2002-06-27.md",
+      "caption": "Missouri Republican Party v. Lamb",
+      "date": "2002-06-27",
+      "authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "file": "people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+      "caption": "People Who Care v. Rockford Board of Education, School District No. 205",
+      "date": "2002-06-27",
+      "authors": [
+        "O'Connor"
+      ]
+    }
+  ]
+}

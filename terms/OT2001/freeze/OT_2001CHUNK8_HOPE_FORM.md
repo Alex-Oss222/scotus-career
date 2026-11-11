@@ -1,0 +1,13 @@
+# Hope: form and governing propositions before assignment
+
+Event: Hope v. Pelzer, No. 01-309; June 27, 2002; chunk 8.
+
+This decision is one signed plenary Opinion of the Court, on the granted fair-warning question. The form follows the substantive notice dispute and two-occasion application; no count or author determines it. There is no consolidation or division among lead authors.
+
+The tentative reversal coalition is Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Scalia and Thomas affirm the respondents' personal-immunity judgment. The seven share the complete lead propositions: (I) the granted review takes the supported, plaintiff-favorable constitutional premise of knowingly gratuitous painful restraint after necessity ceased, retaining individual participation, actual knowledge and causation; (II) objective conduct-specific fair warning may follow from an obvious application of preconduct law without a factual twin, with context, hierarchy, contrary law and express earlier reservations respected; (III) Gates and Ort supplied that warning for the assumed gratuitous attachment on both May 11 and June 7, with their different circumstances and named defendants kept separate; (IV) reversal of the similarity-based legal immunity judgment preserves ordinary proceedings concerning actual responsibility and independent defenses. Later method decisions supply no retroactive 1995 notice.
+
+The six reconciled Associates vote for the decree of reversal and ordinary further proceedings; Stone also expressly directs remand. The lead decree is reversal, with the common further-proceedings ground stated. Stone publishes a concurrence making his explicit remand direction clear. His direction is not converted into a vacatur or attributed as an express formal remand decree to the other six.
+
+Scalia and Thomas do not join the Court opinion. Their agreement that a factual twin is not invariably required does not answer their objections to the reading of the appellate decision, preconduct clarity or limited actual allegations. Thomas publishes the common dissent, with Scalia joining its immunity and attribution grounds; Thomas's distinct original-understanding reservation is identified as his own while he applies binding conditions law. Neither dissenter declares every fixed-restraint use lawful.
+
+Compatibility requires no material change in the final reconciled Associates. No circulation history is invented. The actual constitutional premise, granted scope and defendant-specific responsibility remain distinct. Complete explanation, source, temporal and remedy checks accompany the Record before the next assignment.

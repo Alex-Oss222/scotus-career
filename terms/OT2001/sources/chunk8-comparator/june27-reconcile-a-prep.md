@@ -1,0 +1,59 @@
+# June 27 historical-reconciliation preparation: Hope, Lamb, Earls
+
+Legal cutoff: June 27, 2002. This is source verification only. It proposes no current-case vote, judgment, opinion assignment, or join. Reconciliation awaits the released frozen commitments and the final June 24 law delta.
+
+## Scope and completeness
+
+Read Engine sections 3C, 7, and 14, the relevant supplied comparator, and the Hope/Earls source-control memorandum. Read the complete saved Cornell syllabus and every writing, including all footnotes, for Hope (01-309.ZS, ZO, ZD) and Earls (01-332.ZS, ZO, ZC, ZD, ZD1). Cross-checked the official reporter's Hope pages 732-734, 746-750, and 754 and Earls pages 825, 838, and 842. The prior source-control memorandum documents its broader reporter comparison; this receipt does not claim a new full reporter comparison.
+
+Retrieved the Eighth Circuit's complete eight-page Lamb opinion and read every page, including the separate opinion and its footnote. Saved `lamb-lower.pdf` and mechanically extracted `lamb-lower.txt` beside this receipt. Source: [Eighth Circuit, Nos. 00-1773/2686, November 2, 2001](https://ecf.ca8.uscourts.gov/opndir/01/11/001773P.pdf).
+
+No model commitments, private supplement, current Decision Record, full brief, or internal continuity file was read. The complete scheduled matters are accepted as properly before the Court; this receipt introduces no docket or filing gate. Factual recitations from the opinions remain judicial descriptions or allegations, as applicable, rather than independent examination of the underlying affidavits or exhibits.
+
+## Hope
+
+The historical Court reversed 6-3. Stevens wrote for O'Connor, Kennedy, Souter, Ginsburg, and Breyer. Thomas dissented with Rehnquist and Scalia. Both writings are complete, with no partial joins. The operative judgment says reversal, without an express remand command. Further proceedings remain possible; no liability or damages judgment was entered. The supplied comparator's added remand wording should not be repeated as the published decree.
+
+The majority's Part V reserves the sufficiency of attribution to the individual defendants and any defenses other than qualified immunity on the appellate court's ground. Its assumption on both occasions is extended attachment inflicting gratuitous discomfort after immediate danger or continued work refusal had ended. June's aggravations are not imported into May. Part V also explains that the core attachment under that assumption suffices; denied water, clothing, and bathroom access exacerbate the violation but are not essential to that stated ground.
+
+The majority distinguishes the fair-warning rule from its application. Anderson does not require identical prior conduct. Lanier explains that a general rule can give obvious notice, while preserving the qualification that a prior opinion expressly leaving an application open can require unusually specific authority. The majority then actually decides that the alleged conduct had adequate warning from the pre-1995 law, relying on Gates and Ort, with the regulation and DOJ report supplying their distinct supporting roles. Lanier's later explanation is not itself advance notice in 1995; Austin's later findings enter as record material, not as notice law.
+
+Thomas and Scalia expressly accept that obviously illegal conduct can defeat immunity without materially similar precedent. Their disagreement concerns application, the reading of the Eleventh Circuit, the restricted conduct attributed to each defendant, and the contrary indications a reasonable guard faced. They rely on Anderson, Malley, Farmer, the authorizing regulation, prior district decisions, and the differences between immediate coercion and gratuitous punishment. Thomas's original-understanding reservation about prison conditions expressly yields to application of existing doctrine in this case. It does not supply a categorical replacement holding.
+
+McClaran allegedly ordered May attachment; Pelzer allegedly participated in May attachment; Gates allegedly participated in May and June attachment. No June role is alleged against McClaran or Pelzer, and Gates is not alleged to have supervised the ensuing seven hours or personally caused the added June deprivations. Identity and factual conflicts identified in the dissent remain unresolved. The majority's broader notice decision does not settle them.
+
+The official reporter controls these small source discrepancies: majority note 1 reviews a grant of summary judgment; Thomas note 2 identifies June 7, not June 11. Thomas note 7 still quotes a pleading with the year 1997, although the narrative consistently identifies May 1995. Additionally, the official majority note 12, page 747, identifies Dale v. Murphy as No. CV-85-1091-H-S (S.D. Ala., February 4, 1986), correcting the different docket/date in the Cornell slip text. None is a new event or material fact assumption.
+
+Primary sources: [Court opinion](https://www.law.cornell.edu/supct/html/01-309.ZO.html), [Thomas dissent](https://www.law.cornell.edu/supct/html/01-309.ZD.html), [official reporter](https://www.govinfo.gov/content/pkg/USREPORTS-536/pdf/USREPORTS-536-730.pdf).
+
+## Earls
+
+The historical Court reversed 5-4. Thomas wrote for Rehnquist, Scalia, Kennedy, and Breyer. Breyer joined the whole opinion and concurred separately. O'Connor's short dissent, joined by Souter, also joined Ginsburg's dissent. Ginsburg's dissent was joined by Stevens, O'Connor, and Souter. There are no judgment-only or partial joins. The decree is reversal, without an express remand command.
+
+The majority relies substantially on historical Vernonia's characterization of school custody, voluntary extracurricular regulation, limited collection intrusion, restricted disclosure, and preventive health interests. It expressly rejects a required local epidemic, a fixed quantum of drug use, or proof of widespread drug use in the exact selected group. Its conclusion remains a balance for this particular policy, not permission for every school testing program. Athletics testing and reasonable-suspicion testing were outside the challenge; James's standing was unnecessary because Earls had standing.
+
+The escalation rules are distinct: the first positive permits continued participation with proof of counseling within five days of the parental meeting and another test two weeks later; the second imposes fourteen days' exclusion, four hours of counseling, and monthly testing; the third excludes for the remaining school year or eighty-eight school days, whichever is longer. The policy excludes law-enforcement use and ordinary academic/disciplinary consequences, but does not eliminate these participation consequences.
+
+Breyer emphasizes demand reduction, counseling, the schools' caretaking obligations, community deliberation, and avoidance of discriminatory suspicion-based targeting. He acknowledges genuine embarrassment and uncertainty about efficacy. Refusal costs participation rather than attendance. These considerations supplement his full join; they are not narrower controlling qualifications or unanimous-consent findings.
+
+O'Connor and Souter preserve opposition to historical Vernonia but also apply its balancing approach and find this policy fails. Ginsburg, joined by all four dissenters, treats athletic risks, communal undress, leadership in the local drug culture, fit, and careful confidentiality as material limits. Her summary-judgment objection concerns disputed implementation, not merely the written policy. Her final footnote observes that random testing was added to suspicion-based testing, so its supposed elimination of selective targeting did not describe the actual program. Stevens joined Ginsburg but not O'Connor's separate statement.
+
+The confidentiality question must distinguish what the written policy commands, alleged implementation, the majority's assessment of need-to-know access, and the dissent's objection to drawing favorable inferences for the School District at summary judgment. No opinion establishes that another student actually read the prescription information.
+
+Primary sources: [Court opinion](https://www.law.cornell.edu/supct/html/01-332.ZO.html), [Breyer concurrence](https://www.law.cornell.edu/supct/html/01-332.ZC.html), [O'Connor dissent](https://www.law.cornell.edu/supct/html/01-332.ZD.html), [Ginsburg dissent](https://www.law.cornell.edu/supct/html/01-332.ZD1.html), [official reporter](https://www.govinfo.gov/content/pkg/USREPORTS-536/pdf/USREPORTS-536-822.pdf).
+
+## Lamb
+
+This is only a lower-court comparator, not a historical Supreme Court merits vote. The November 2, 2001 Eighth Circuit judgment affirmed the District Court after the prior judgment had been vacated for reconsideration in light of historical Colorado II. Morris Sheppard Arnold wrote the opinion; Bowman joined; John R. Gibson agreed with the merits and application of Colorado II but withheld assent to the final reservation about a possible future discrimination action and dissented from leaving the interim injunction undissolved.
+
+The lower majority's historical premise is stronger than merely allowing consideration of federal experience. It treats Colorado II as establishing the challenged Missouri provisions' validity as a matter of law. Renton supplies its borrowed-evidence analogy; subjective legislative reliance on that evidence when enacting the statute is unnecessary. Its low-limit analysis applies historical Shrink's radical-effect formulation and finds no record showing that effect. It also relies on continuing independent-expression opportunities. These premises must be compared with the actual entering law; they are not automatically effective current rules.
+
+The substantive distinctions are actual cash and in-kind candidate-resource transfers versus independent expression; tacit arrangements versus explicit earmarking; admissibility and relevance of borrowed evidence versus its sufficiency; and circumvention risk versus fit and practical campaign capacity at the amounts chosen. The lower opinion does not reproduce the complete statutory text, so it supplies no independent basis for altering the neutral packet's statutory conditions.
+
+Part II rejects a claim that the numerical party ceiling became unenforceable when enforcement of the individual ceiling was enjoined. It distinguishes that argument from an alleged misleading-assurance theory not raised below. It likewise regards discriminatory enforcement as unpreserved and reserves any future action's merits. The supplied Supreme Court grant excludes the separate prior-restraint/reliance contention; neither it nor a hypothetical discrimination action becomes an additional granted question through this comparator.
+
+Gibson would dissolve the July 31, 2000 injunction pending appeal immediately and require the Party to justify continuation under ordinary stay/injunction factors, emphasizing likelihood of success. His footnote acknowledges that practical effect would await the mandate but regards immediate dissolution as the proper signal. The majority's merits affirmance must not be rewritten as an express immediate injunction dissolution. These details are historical posture only, and cannot establish an unprovided current injunction or new current procedural event.
+
+## Release condition
+
+Source preparation is complete for the assigned comparators. No reconciled determinations have been made. On release, examine the final frozen commitments and law delta, test each Associate's material historical match or departure against the neutral record and the Justice's date-eligible authorities, preserve distinct remedy positions, and state any concrete source limitation. Historical authorship and joinder remain evidence only; assembly determines current assignment and joins.

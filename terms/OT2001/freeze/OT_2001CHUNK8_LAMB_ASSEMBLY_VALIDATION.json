@@ -1,0 +1,123 @@
+{
+  "case": "Missouri Republican Party v. Lamb",
+  "author": "Stone-Zsela",
+  "date": "2002-06-27",
+  "record": "missouri-republican-party-v-lamb_merits_2002-06-27.md",
+  "checks": {
+    "opening_labels": true,
+    "eleven_blocks": true,
+    "single_authoritative_holdings_copy": true,
+    "eight_reconciled_rows": true,
+    "exact_stone_copy": true,
+    "coalition_partition": true,
+    "fresh_count_pool": true,
+    "author_recognition": true,
+    "links": true,
+    "private_boundary": true,
+    "exact_public_law_copy": true,
+    "explanation_ceilings": true,
+    "exact_projection_bytes": true,
+    "source_receipt_hashes": true,
+    "final_relative_links": true,
+    "all_current_artifacts_clean": true,
+    "form_count_sequence_review": true
+  },
+  "coalitions": {
+    "Parts I\u2013IV": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "support": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "oppose": [],
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 12,
+    "O'Connor": 12,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 13,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 13
+  },
+  "last_counted": {
+    "file": "hope-v-pelzer_merits_2002-06-27.md",
+    "caption": "Hope v. Pelzer",
+    "date": "2002-06-27",
+    "authors": [
+      "Souter"
+    ]
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Thomas",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Scalia",
+    "Kennedy",
+    "Thomas"
+  ],
+  "explanation_words": [
+    121,
+    184,
+    184,
+    127
+  ],
+  "source_sha256": {
+    "freeze/OT_2001CHUNK8_LAMB_FORM.md": "d5c6124eaa844b45763f4e993f3bb6cf773c56d227b66a22e2c3cfc4e79f2e4e",
+    "freeze/OT_2001CHUNK8_LAMB_ASSIGNMENT.md": "83cdc7c6419520c7d081336257b4ff84d105be1947e57fd2bb0a4e144ebeaaaa",
+    "freeze/OT_2001CHUNK8_LAMB_ASSIGNMENT_COUNTS.json": "f5994bf74b6c3013c8572e07d0237ecfe4306134230183ab9aec90ef72c4496d",
+    "freeze/OT_2001CHUNK8_JUNE27_A_RECONCILED.md": "582641b9c1ea97f2cc9f3e100cb985f3378b374efdd947ea8f1f431a7406980a",
+    "runtime/OT_2001CHUNK8_JUNE27_A_STONE.md": "2e079a38e67941e15e540a6bf090f8c7d7f7b9a8227d3476a6fd4daba948849d",
+    "entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md": "6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4"
+  },
+  "record_sha256": "b927f8882bfd1e7cc068a66d441348f6b7f1a55354b18182f3648ed4e2e98bc5",
+  "public_projection_sha256": "ebfe129de25edce12faffc48756a41e7d54bfa2034b34344dc312cd171b30a14",
+  "integration": "Pending control; not certified by local assembly.",
+  "substantive_review": {
+    "status": "Assembler final review completed; no material compatibility or source gap identified.",
+    "authority_cutoff": "June 27, 2002.",
+    "same_day_order": "Administrative assignment sequence only; no same-day substantive priority.",
+    "independence": "This is local assembler validation, not an independent review or whole-term certification."
+  },
+  "public_wording_review": "Removed four public source-history or inference references to interim relief during initial validation. The internal Record and frozen audit are unchanged; judgment, legal rules, joins, author and assignment counts are unchanged."
+}

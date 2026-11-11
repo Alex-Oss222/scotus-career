@@ -1,0 +1,84 @@
+{
+  "protected_files_unchanged": true,
+  "new_record_count": 15,
+  "records": [
+    {
+      "file": "bek-construction-co-v-nlrb_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "board-of-education-v-earls_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "harris-v-united-states_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "hope-v-pelzer_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "kirk-v-louisiana_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "missouri-republican-party-v-lamb_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "republican-party-of-minnesota-v-white_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "ring-v-arizona_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 0
+    },
+    {
+      "file": "stewart-v-smith_merits_2002-06-28.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "trans-union-corp-v-ftc_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "united-states-v-angle_merits_2002-06-20.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 3
+    },
+    {
+      "file": "united-states-v-bass_merits_2002-06-28.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 2
+    },
+    {
+      "file": "united-states-v-ruiz_merits_2002-06-24.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 1
+    },
+    {
+      "file": "zelman-v-simmons-harris_merits_2002-06-27.md",
+      "blocks": 11,
+      "component_arithmetic_rows": 2
+    }
+  ],
+  "errors": [],
+  "status": "PASS",
+  "limitations": "This check verifies structure, recognized arithmetic rows and preservation; legal and joinder review remain separate."
+}

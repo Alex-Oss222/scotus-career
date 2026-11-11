@@ -1,0 +1,341 @@
+Source: https://www.ca4.uscourts.gov/opinions/964662A.P.pdf
+
+OPINION ON REHEARING EN BANC
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+ 
+üUNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v. No. 96-4662ý
+COREY ANGLE,
+Defendant-Appellant. þ
+ 
+üUNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v. No. 96-4672ý
+JAMES EDWARD PHIFER, a/k/a Rick
+Daye,
+Defendant-Appellant. þ
+ 
+üUNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v. No. 99-4187ý
+JAMES EDWARD PHIFER, a/k/a Rick
+Daye,
+Defendant-Appellant. þ
+Appeals from the United States District Court
+for the Western District of North Carolina, at Statesville.
+Richard L. Voorhees, District Judge.
+(CR-94-41-V)
+Argued: February 27, 2001
+Decided: June 29, 2001
+
+Before WILKINSON, Chief Judge, and WIDENER, WILKINS,
+NIEMEYER, LUTTIG, WILLIAMS, MICHAEL, MOTZ,
+TRAXLER, KING, and GREGORY, Circuit Judges.
+Affirmed in part and vacated and remanded in part by published opin-
+ion. Judge Wilkins wrote the opinion, in which Judges Widener, Wil-
+liams, Michael, Motz, Traxler, and King joined. Chief Judge
+Wilkinson wrote an opinion concurring in part and concurring in the
+judgment. Judge Niemeyer wrote an opinion concurring in the judg-
+ment, in which Judge Gregory joined. Judge Luttig wrote an opinion
+concurring in the judgment. 
+COUNSEL
+ARGUED: Thomas Franklin Loflin, III, LOFLIN & LOFLIN, Dur-
+ham, North Carolina, for Appellant Angle; Robert Adams Blake, Jr.,
+LAW OFFICES OF JAMES F. WYATT, III, Charlotte, North Caro-
+lina, for Appellant Phifer. Nina Swift Goodman, UNITED STATES
+DEPARTMENT OF JUSTICE, Washington, D.C., for Appellee. ON
+BRIEF: James F. Wyatt, III, LAW OFFICES OF JAMES F.
+WYATT, III, Charlotte, North Carolina, for Appellant Phifer. Mark
+T. Calloway, United States Attorney, Frank D. Whitney, Assistant
+United States Attorney, Charlotte, North Carolina, for Appellee. 
+OPINION
+WILKINS, Circuit Judge: 
+We are convened en banc to consider challenges by Corey Angle
+and James Edward Phifer (collectively, "Appellants") to their sen-
+tences pursuant to Apprendi v. New Jersey, 530 U.S. 466 (2000). For
+the reasons set forth below, we conclude that neither Appellant has
+demonstrated plain error with respect to his Apprendi challenge. 
+2 UNITED STATES v. ANGLE
+
+I.
+Evidence at trial established that Appellants supplied various drug
+dealers in the area of Statesville, North Carolina, with cocaine and
+cocaine base. Phifer supplied dealers with varying amounts of narcot-
+ics, ranging from a few ounces to several kilograms. Angle operated
+on a more limited scale, providing dealers with only a few ounces at
+a time. Based upon the evidence presented at trial, Appellants were
+convicted of conspiracy to possess with the intent to distribute and to
+distribute cocaine and cocaine base, see 21 U.S.C.A. § 846 (West
+1999); Phifer was additionally convicted of two counts of money
+laundering, see 18 U.S.C.A. § 1956(a)(1)(B)(i) (West 2000). The drug
+trafficking count of the indictment did not allege a specific quantity
+of narcotics, and the jury was not instructed to make a finding regard-
+ing the quantity of drugs involved in the conspiracy. 
+Appellants were sentenced as follows. In calculating Angle’s sen-
+tencing range pursuant to the U.S. Sentencing Guidelines Manual
+(1995), the district court did not make specific findings regarding the
+amount of narcotics attributable to Angle. Rather, the court simply
+stated that "[o]n examination of the evidence and the preponderance
+thereof, the Court finds the amount of drugs attributable to [Angle]
+in this matter would give him a [base offense] Level 34." J.A. 456;
+see U.S.S.G. § 2D1.1(c)(3). Additional calculations resulted in a
+guideline range of 210-262 months imprisonment. The district court
+imposed a sentence of 210 months. 
+The district court determined that Phifer was responsible for at
+least 29 kilograms of cocaine and 3 kilograms of cocaine base, result-
+ing in a base offense level of 38 for the drug trafficking conviction.
+See U.S.S.G. § 2D1.1(c)(1). Further guideline calculations resulted in
+a guideline range of 292-365 months imprisonment. The district court
+imposed a sentence of 292 months on the drug trafficking conviction
+and concurrent sentences of 240 months on each of the money laun-
+dering convictions. 
+Angle and Phifer subsequently appealed, raising numerous chal-
+lenges to their convictions and sentences. While the appeal was pend-
+ing, the Supreme Court issued its decision in Apprendi. Based on
+Apprendi, Appellants argued for the first time on appeal that the dis-
+3UNITED STATES v. ANGLE
+
+trict court erred in failing to treat as an element the specific quantity
+of narcotics involved in the offense. A panel of this court agreed,
+holding that because a specific quantity of narcotics was not charged
+in the indictment, Appellants were subject to a maximum penalty of
+20 years imprisonment pursuant to 21 U.S.C.A. § 841(b)(1)(C) (West
+Supp. 2001). See United States v. Angle, 230 F.3d 113, 123 (4th Cir.
+2000). The panel determined that Phifer’s sentence of 292 months
+exceeded this maximum and was therefore erroneous under Apprendi;
+accordingly, the panel vacated Phifer’s sentence and remanded for
+resentencing to no more than 20 years imprisonment. See id. at 124.
+Because Angle’s sentence of 210 months was less than the applicable
+maximum penalty, the panel found no error under Apprendi. See id.
+at 123. The panel nevertheless vacated Angle’s sentence and
+remanded for more specific fact finding regarding the quantity of nar-
+cotics attributable to him. See id. at 124-25. The panel rejected the
+remainder of Appellants’ challenges. 
+We subsequently voted to vacate the panel decision and rehear the
+appeal en banc along with the appeal in United States v. Promise, No.
+99-4737, also decided today. For the reasons set forth below, we hold
+that neither Appellant has demonstrated plain error with respect to his
+challenge under Apprendi. We adopt the opinion of the panel regard-
+ing all other issues. Accordingly, we affirm Appellants’ convictions
+and Phifer’s sentence; however, we vacate Angle’s sentence and
+remand for more specific fact finding regarding the amount of drugs
+attributable to him for sentencing purposes. 
+II.
+Because neither Angle nor Phifer objected at trial to the failure of
+the district court to treat specific threshold drug quantities as elements
+of aggravated drug trafficking offenses,1 our review is for plain error.
+1"Specific threshold drug quantities" are those quantities of drugs set
+forth in 21 U.S.C.A. § 841(b)(1)(A), (b)(1)(B), a finding of which sub-
+jects a defendant to a sentence of ten years to life imprisonment
+(§ 841(b)(1)(A)) or five to 40 years imprisonment (§ 841(b)(1)(B)). See
+United States v. Promise, ___ F.3d ___, ___ n.1 (4th Cir. 2001) (en
+banc). 
+An "aggravated drug trafficking offense" is one that involves a specific
+threshold drug quantity. See id. 
+4 UNITED STATES v. ANGLE
+
+See Fed. R. Crim. P. 52(b); United States v. Olano, 507 U.S. 725,
+731-32 (1993). In order to demonstrate plain error, Appellants must
+show that an error occurred, that the error was plain, and that the error
+affected their substantial rights. See Olano, 507 U.S. at 732; United
+States v. Jackson, 124 F.3d 607, 614 (4th Cir. 1997). Even if Appel-
+lants can satisfy these requirements, correction of the error remains
+within our discretion, which we "should not exercise . . . unless the
+error ‘seriously affect[s] the fairness, integrity or public reputation of
+judicial proceedings.’" Olano, 507 U.S. at 732 (second alteration in
+original) (quoting United States v. Young, 470 U.S. 1, 15 (1985)). 
+Before turning to our consideration of whether Appellants can sat-
+isfy the requirements of plain error analysis, we pause to reiterate the
+relevant conclusions reached in Promise. In Promise, we held that
+Apprendi mandates that specific threshold drug quantities be treated
+as elements of aggravated drug trafficking offenses. See United States
+v. Promise, ___ F.3d ___, ___ (4th Cir. June 29, 2001). We further
+held that the district court plainly erred in failing to do so. See id. at
+___. 
+A.
+Turning first to Angle’s challenge, we conclude that he cannot
+demonstrate any Apprendi error committed by the district court.
+Angle was charged with conspiring to possess with the intent to dis-
+tribute and to distribute "a quantity of cocaine and cocaine base," J.A.
+52, and he does not dispute that the jury was properly charged as to
+the elements of this offense. Accordingly, Angle was charged with,
+and convicted of, conspiring to commit an offense involving an
+unspecified quantity of drugs. Because Angle’s sentence of 210
+months is less than the maximum penalty authorized by the facts
+found by the jury (240 months, see 21 U.S.C.A. § 841(b)(1)(C)), there
+was no error. 
+B.
+We next consider Phifer’s claim. Phifer was charged in the same
+indictment as Angle with conspiring to traffic in an unspecified quan-
+tity of drugs. Unlike Angle, however, Phifer was sentenced by the dis-
+trict court to a term of imprisonment greater than the 20-year
+5UNITED STATES v. ANGLE
+
+maximum penalty authorized by the facts found by the jury. As we
+held in Promise, the district court thus committed plain error. 
+We hold, however, that Phifer cannot demonstrate that the error
+affected his substantial rights. See Olano, 507 U.S. at 734. In order
+to make such a showing, Phifer must demonstrate that the error was
+prejudicial, i.e., that it "actually affected the outcome of the proceed-
+ings." United States v. Hastings, 134 F.3d 235, 240 (4th Cir. 1998).
+Thus, Phifer must establish that his 292-month sentence was longer
+than that to which he would otherwise be subject. 
+Phifer does not posit any way in which the error here, unlike a sim-
+ilar error in Promise, affected his substantial rights, and we can see
+none.2 This is so because the grand jury indicted, and the petit jury
+convicted, Phifer of three crimes, exposing him to a total statutory
+maximum prison term of 60 years. In the case of multiple counts of
+conviction, the sentencing guidelines instruct that if the total punish-
+ment mandated by the guidelines exceeds the statutory maximum of
+the most serious offense of conviction, the district court must impose
+consecutive terms of imprisonment to the extent necessary to achieve
+the total punishment. See U.S.S.G. § 5G1.2(d). For example, suppose
+a defendant is convicted of three offenses, each with a statutory maxi-
+mum term of five years (60 months) imprisonment. If the district
+court determines that the appropriate sentence under the guidelines is
+156 months, § 5G1.2(d) requires the imposition of consecutive terms
+on each count of conviction until the guideline punishment is
+achieved. 
+Applying these principles here, we conclude that Phifer’s substan-
+tial rights were not affected by the imposition of a 292-month term
+of imprisonment on the drug trafficking conviction. Had the district
+court been aware when it sentenced Phifer that the maximum penalty
+for his drug trafficking conviction was 20 years, § 5G1.2(d) would
+have obligated it to achieve the guideline sentence of 292 months
+imprisonment by imposing a term of imprisonment of 240 months or
+2Of course, if a defendant, in circumstances like Phifer’s, could dem-
+onstrate that a refusal to vacate his sentence and order resentencing could
+in some way affect his substantial rights, that would present a different
+case. 
+6 UNITED STATES v. ANGLE
+
+less on each count of conviction and ordering those terms to be served
+consecutively to achieve the total punishment mandated by the guide-
+lines. See United States v. Sturgis, 238 F.3d 956, 960-61 (8th Cir.
+2001) (holding that appellant was not prejudiced by imposition of
+sentence greater than statutory maximum because he was convicted
+of multiple counts and U.S.S.G. § 5G1.2(d) would have obligated the
+district court to achieve the same sentence through imposition of con-
+secutive sentences); United States v. White, 238 F.3d 537, 542-43 (4th
+Cir. 2001) (same); United States v. Page, 232 F.3d 536, 544-45 (6th
+Cir. 2000) (same), cert. denied, 121 S. Ct. 1389 (2001); see also
+United States v. Smith, 240 F.3d 927, 930 (11th Cir. 2001) (per
+curiam) (holding that imposition of sentences greater than statutory
+maximum on each of three counts did not affect appellants’ substan-
+tial rights because the sentences imposed did not "exceed the aggre-
+gate statutory maximum for the multiple convictions"); cf. United
+States v. White, 240 F.3d 127, 135 (2d Cir. 2001) (rejecting Apprendi
+challenge to imposition of consecutive sentences under § 5G1.2(d)
+because "the district court did not exceed the maximum for any indi-
+vidual count" and because there is "no constitutionally cognizable
+right to concurrent, rather than consecutive, sentences"). 
+Apprendi does not foreclose this result. Charles Apprendi "pleaded
+guilty to two counts (3 and 18) of second-degree possession of a fire-
+arm for an unlawful purpose and one count (22) of the third-degree
+offense of unlawful possession of an antipersonnel bomb." Apprendi,
+530 U.S. at 469-70 (citations omitted). Although the maximum pen-
+alty for each second-degree offense was 10 years, the trial court
+imposed a sentence of 12 years on count 18 pursuant to a finding, by
+a preponderance of the evidence, that Apprendi had a racially biased
+purpose in committing the offense. See id. Apprendi maintained that
+this increase in the maximum sentence violated his rights under the
+Due Process Clause. See id. Before the Supreme Court, the State of
+New Jersey argued that there was no error because the trial court
+could have achieved the same total sentence by imposing consecutive
+sentences on counts 3 and 18. See id. at 474. The Supreme Court
+rejected this argument, reasoning that "[t]he constitutional question
+. . . is whether the 12-year sentence imposed on count 18 was permis-
+sible, given that it was above the 10-year maximum for the offense
+charged in that count." Id.
+7UNITED STATES v. ANGLE
+
+Apprendi is not controlling. In the above-quoted passage, the
+Apprendi Court rejected New Jersey’s argument that there was no
+error in Apprendi’s sentence because the trial court could have
+imposed the same sentence even without a finding of racial bias.
+Here, in contrast, we have already concluded that there was error, and
+the only question is whether Phifer can demonstrate that the error
+prejudiced him. See Page, 232 F.3d at 545. For the reasons discussed
+above, he cannot make such a showing. 
+III.
+For the reasons set forth above, we conclude that neither Appellant
+has demonstrated plain error with respect to his challenge under
+Apprendi. As noted previously, we adopt the panel’s resolution of the
+remaining issues; consistent with the panel’s conclusion that the dis-
+trict court did not make adequate factual findings regarding the quan-
+tity of drugs attributable to Angle, we vacate his sentence and remand
+for further proceedings, noting that on remand the district court may
+not impose a term of imprisonment greater than 240 months. Other-
+wise, we affirm.
+AFFIRMED IN PART; VACATED AND
+REMANDED IN PART
+WILKINSON, Chief Judge, concurring in part, and concurring in the
+judgment: 
+I vote to affirm both Angle’s and Phifer’s convictions and Phifer’s
+sentence. I agree also that Angle’s sentence should be remanded for
+more specific fact finding on the quantity of drugs attributable to him
+for sentencing purposes. 
+I write separately to reiterate my position in United States v. Prom-
+ise, ___ F.3d ___, No. 99-4737 (4th Cir. June 29, 2001) (en banc)
+(Wilkinson, C.J., concurring in part, and concurring in the judgment),
+that 21 U.S.C. § 841(b) establishes a graduated sentencing scheme in
+which life imprisonment constitutes the maximum penalty. Thus, no
+Apprendi error occurred in either Angle’s or Phifer’s case. 
+8 UNITED STATES v. ANGLE
+
+Even if I were to assume that some plain error had occurred, I do
+not believe that Phifer’s substantial rights were affected for two inde-
+pendent reasons. See United States v. Olano, 507 U.S. 725 (1993)
+(holding that a plain error not raised at trial cannot be corrected by
+an appellate court unless it affects substantial rights). One reason is
+that spelled out by Judge Wilkins in his opinion today and previously
+in United States v. White, 238 F.3d 537, 542-43 (4th Cir. 2001). The
+second is that the evidence of drug quantity was more than sufficient
+to justify the sentence Phifer received. See Promise, ___ F.3d at ___
+(Wilkinson, C.J., concurring in part, and concurring in the judgment).
+NIEMEYER, Circuit Judge, concurring in the judgment: 
+Corey Angle was charged and convicted on one count of conspir-
+acy to traffic in an unspecified amount of cocaine and cocaine base,
+in violation of 21 U.S.C. §§ 846 and 841(a)(1). The district court sen-
+tenced Angle to 210 months imprisonment. Even under the interpreta-
+tion of § 841 that Judge Wilkins’ opinion adopts — an interpretation
+with which I do not agree — there would be no error under Apprendi
+v. New Jersey, 120 S. Ct. 2348 (2000), in sentencing Angle to 210
+months imprisonment. See United States v. Kinter, 235 F.3d 192, 201-
+02 (4th Cir. 2000). I agree, however, that a remand is necessary for
+factual findings on drug kind and quantity. 
+James Phifer was charged for drug trafficking in the same manner
+and for the same offense as was Angle. In addition, Phifer was
+charged and convicted of two counts of money laundering, in viola-
+tion of 18 U.S.C. § 1956(a)(1)(B)(i). The district court sentenced
+Phifer to 292 months imprisonment for the drug-trafficking count and
+to two concurrent 240-month terms of imprisonment for the money
+laundering counts. Even if the 292-month sentence was thought to be
+error under Apprendi because it exceeded the 240-month maximum
+for a conviction involving an unspecified amount of cocaine and
+cocaine base, that error should not be noticed under plain-error princi-
+ples because it did not affect Phifer’s substantial rights. The Sentenc-
+ing Guidelines require that the three sentences be imposed
+consecutively to achieve the 292-month sentence. See U.S.S.G.
+§ 5G1.2(d); United States v. White, 238 F.3d 537, 542-43 (4th Cir.
+2001). Therefore, I would affirm the judgment in Phifer’s case. 
+9UNITED STATES v. ANGLE
+
+I agree that on the other issues in these appeals, the panel opinion
+disposed of them properly. 
+Accordingly, I concur in the judgment. 
+Judge Gregory has authorized me to indicate that he joins this opin-
+ion. 
+LUTTIG, Circuit Judge, concurring in the judgment: 
+I would affirm both Angle’s and Phifer’s convictions and Phifer’s
+sentence for the reasons set forth in my opinion in United States v.
+Promise, ___ F.3d ___, No. 99-4737 (4th Cir. June 29, 2001) (en
+banc) (Luttig, J., concurring in the judgment). However, I do agree
+that Angle’s sentence should be remanded for more specific fact find-
+ing on the quantity of drugs attributable to him for sentencing pur-
+poses, and that the panel opinion properly disposed of the other issues
+presented in these appeals.
+10 UNITED STATES v. ANGLE

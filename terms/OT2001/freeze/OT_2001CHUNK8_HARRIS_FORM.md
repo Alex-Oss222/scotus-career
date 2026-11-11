@@ -1,0 +1,9 @@
+# Harris: form and propositions before assignment
+
+The plenary, argued merits decision warrants one signed lead opinion. Its statutory construction, application of Angle to the federal brandishing condition, and actual-record Rule 52(b) resolution require an explained precedential decision. It is separate from Ring because the statute, preservation, actual prejudice and sentencing remedy are different. These choices precede consideration of author counts.
+
+Part I construes amended section 924(c)(1)(A)'s brandishing provision as a mandatory sentencing condition, preserving the greater-minimum exception and complete intimidation definition. All nine support this statutory proposition. Part II applies Angle's binding-floor and federal charging rules, valid admission and lawful bench-waiver limits, and reasonable-doubt requirement. Part III applies all four Rule 52(b) conditions, with Harris's ordinary outcome-prejudice burden and an independent fairness/integrity/public-reputation correction inquiry, then vacates the firearm sentence and remands while preserving the conviction. Parts II and III have Stone-Zsela, Stevens, Scalia, Souter, Thomas and Ginsburg's support.
+
+O'Connor and Kennedy continue their outer-range objection and would reconsider Angle; Breyer maintains his independent objection to the Apprendi allocation without endorsing a logical minimum/maximum distinction. Their writings join Part I and dissent from the sentence-relief judgment. No further separate writing is necessary when the Court's reasoning already embodies the Justice's complete ground.
+
+Stone's approved intervening-law condition applies Angle's already effective holding; the opinion will not claim to overrule McMillan anew. His fixed sentencing and review qualifications are retained. No fallback supplies a rationale. No author or count has been selected in this artifact.

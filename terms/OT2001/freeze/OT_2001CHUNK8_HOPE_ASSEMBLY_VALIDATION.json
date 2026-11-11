@@ -1,0 +1,116 @@
+{
+  "case": "Hope v. Pelzer",
+  "author": "Souter",
+  "date": "2002-06-27",
+  "record": "hope-v-pelzer_merits_2002-06-27.md",
+  "checks": {
+    "opening_labels": true,
+    "eleven_blocks": true,
+    "single_authoritative_holdings_copy": true,
+    "eight_reconciled_rows": true,
+    "exact_stone_copy": true,
+    "coalition_partition": true,
+    "fresh_count_pool": true,
+    "author_recognition": true,
+    "links": true,
+    "private_boundary": true,
+    "exact_public_law_copy": true,
+    "explanation_ceilings": true,
+    "exact_projection_bytes": true,
+    "source_receipt_hashes": true,
+    "final_relative_links": true,
+    "all_current_artifacts_clean": true,
+    "form_count_sequence_review": true
+  },
+  "coalitions": {
+    "Parts I\u2013IV": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "support": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "oppose": [
+      "Scalia",
+      "Thomas"
+    ],
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 12,
+    "O'Connor": 12,
+    "Scalia": 12,
+    "Kennedy": 12,
+    "Souter": 12,
+    "Thomas": 12,
+    "Ginsburg": 13,
+    "Breyer": 13
+  },
+  "last_counted": {
+    "file": "board-of-education-v-earls_merits_2002-06-27.md",
+    "caption": "Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls",
+    "date": "2002-06-27",
+    "authors": [
+      "Ginsburg"
+    ]
+  },
+  "eligible": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter",
+    "Ginsburg",
+    "Breyer"
+  ],
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "O'Connor",
+    "Kennedy",
+    "Souter"
+  ],
+  "explanation_words": [
+    152,
+    179,
+    217,
+    143
+  ],
+  "source_sha256": {
+    "freeze/OT_2001CHUNK8_HOPE_FORM.md": "74a5c04a9e304130d489d09830ff27a4d2515c8fc88c0f376ba838ff95bf01a5",
+    "freeze/OT_2001CHUNK8_HOPE_ASSIGNMENT.md": "ed45575f004a939b70f3aac936940b8444f100e588e2338e365af96290d2e3b4",
+    "freeze/OT_2001CHUNK8_HOPE_ASSIGNMENT_COUNTS.json": "eb86f712ec172a43dca0567cad35e95b1d7ea31c4a6b25a5b5d4930c34300e58",
+    "freeze/OT_2001CHUNK8_JUNE27_A_RECONCILED.md": "582641b9c1ea97f2cc9f3e100cb985f3378b374efdd947ea8f1f431a7406980a",
+    "runtime/OT_2001CHUNK8_JUNE27_A_STONE.md": "2e079a38e67941e15e540a6bf090f8c7d7f7b9a8227d3476a6fd4daba948849d",
+    "entering-law/OT_2001CHUNK8_THROUGH_JUNE24_PUBLIC_LAW.md": "6cb1bd0339af44a23a47d02ea0e3ed153241a6a14a8bc549bd9d9e13619b52a4"
+  },
+  "record_sha256": "316bf53b1f49e1dd4d35a0d0c7eb02a774bed927fb7f636c25c36f6642b5d2c2",
+  "public_projection_sha256": "f8ff6a1f331891a96cfa5dd52713a0798337bf85a34e640d325c06bb80f2a09e",
+  "integration": "Pending control; not certified by local assembly.",
+  "substantive_review": {
+    "status": "Assembler final review completed; no material compatibility or source gap identified.",
+    "authority_cutoff": "June 27, 2002; Hope notice uses respective May 11 and June 7, 1995 conduct dates.",
+    "same_day_order": "Administrative assignment sequence only; no same-day substantive priority.",
+    "independence": "This is local assembler validation, not an independent review or whole-term certification."
+  }
+}

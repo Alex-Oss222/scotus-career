@@ -1,0 +1,53 @@
+{
+  "events": [
+    {
+      "case": "Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls",
+      "author": "Ginsburg",
+      "record": "records/board-of-education-v-earls_merits_2002-06-27.md",
+      "judgment_support": 5,
+      "judgment_oppose": 4,
+      "explanation_words": [
+        105,
+        191,
+        132
+      ],
+      "checks_passed": true
+    },
+    {
+      "case": "Hope v. Pelzer",
+      "author": "Souter",
+      "record": "records/hope-v-pelzer_merits_2002-06-27.md",
+      "judgment_support": 7,
+      "judgment_oppose": 2,
+      "explanation_words": [
+        152,
+        179,
+        217,
+        143
+      ],
+      "checks_passed": true
+    },
+    {
+      "case": "Missouri Republican Party v. Lamb",
+      "author": "Stone-Zsela",
+      "record": "records/missouri-republican-party-v-lamb_merits_2002-06-27.md",
+      "judgment_support": 9,
+      "judgment_oppose": 0,
+      "explanation_words": [
+        121,
+        184,
+        184,
+        127
+      ],
+      "checks_passed": true
+    }
+  ],
+  "sequence": [
+    "Earls form, count, assignment, Record, validation",
+    "Hope form, count, assignment, Record, validation",
+    "Lamb form, count, assignment, Record, validation"
+  ],
+  "unresolved_local_gaps": [],
+  "scope": "Three local Records and exact reading copies only; no global workspace, Render Input, public render or whole-term certification.",
+  "lamb_public_wording_review": "Four source-history/inference references removed; internal audit and all adjudicative commitments unchanged. Lamb temporal metadata corrected to June 27, 2002."
+}

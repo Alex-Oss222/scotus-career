@@ -1,0 +1,713 @@
+Source: https://www.ca4.uscourts.gov/Opinions/Published/964662.P.pdf
+
+Rehearing en banc granted by
+order filed 1/17/01; published
+opinion of 10/12/00 is vacated
+
+Filed: November 20, 2000
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+Nos. 96-4662(L)
+(CR-94-41-V)
+United States of America,
+Plaintiff - Appellee,
+versus
+Corey Angle, et al.,
+Defendants - Appellants.
+ORDER
+The court amends its opinion filed October 12, 2000, as
+follows:
+On page 15, second full paragraph, lines 6-7 -- the sentence
+is corrected to end “and proven beyond a reasonable doubt.”
+For the Court - By Direction
+/s/ Patricia S. Connor
+Clerk
+
+PUBLISHEDPUBLISHEDPUBLISHEDPUBLISHED
+UNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUIT
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v. No. 96-4662
+COREY ANGLE,
+Defendant-Appellant.
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 96-4672
+JAMES EDWARD PHIFER, a/k/a Rick
+Daye,
+Defendant-Appellant.
+UNITED STATES OF AMERICA,
+Plaintiff-Appellee,
+v.
+No. 99-4187
+JAMES EDWARD PHIFER, a/k/a Rick
+Daye,
+Defendant-Appellant.
+Appeals from the United States District Court
+for the Western District of North Carolina, at Statesville.
+Richard L. Voorhees, District Judge.
+(CR-94-41-V)
+Argued: October 29, 1999
+Decided: October 12, 2000
+
+Before WIDENER and MURNAGHAN,* Circuit Judges, and
+James H. MICHAEL, Jr., Senior United States District Judge
+for the Western District of Virginia, sitting by designation.
+_________________________________________________________________
+Affirmed in part, vacated in part, and remanded by published opinion.
+Senior Judge Michael wrote the opinion, in which Judge Widener
+joined.
+_________________________________________________________________
+COUNSELCOUNSELCOUNSELCOUNSEL
+ARGUED:ARGUED:ARGUED:ARGUED: James Frank Wyatt, III, Robert Adams Blake, Jr., LAW
+OFFICES OF JAMES F. WYATT, III, Charlotte, North Carolina, for
+Appellant Phifer; Thomas Franklin Loflin, III, LOFLIN & LOFLIN,
+Durham, North Carolina, for Appellant Angle. Frank DeArmon Whit-
+ney, Assistant United States Attorney, Charlotte, North Carolina, for
+Appellee. ON BRIEF:ON BRIEF:ON BRIEF:ON BRIEF: Mark T. Calloway, United States Attorney,
+Charlotte, North Carolina, for Appellee.
+_________________________________________________________________
+OPINIONOPINIONOPINIONOPINION
+MICHAEL, Senior District Judge:
+On December 6, 1994, a federal grand jury in the Western District
+of North Carolina indicted defendant-appellant James Edward Phifer
+a/k/a Rick Daye ("Phifer") and defendant-appellant Corey Eugene
+Angle ("Angle"), with John Henry Angle, Smith L. Turner, and Rob-
+ert Lee Smith on one count of conspiracy unlawfully to possess with
+intent to distribute, and to distribute, cocaine in violation of 21 U.S.C.
+§ 846. All five defendants were also indicted on one count of criminal
+forfeiture in violation of 21 U.S.C. § 853. In addition, the grand jury
+indicted Phifer on two counts of money laundering under 18 U.S.C.
+_________________________________________________________________
+* Judge Murnaghan heard oral argument in this case but died prior to
+the time the decision was filed. The decision is filed by a quorum of the
+panel pursuant to 28 U.S.C. § 46(d).
+                                2
+
+§ 1956 and one count of money laundering forfeiture under 18 U.S.C.
+§ 981. The government subsequently moved to supersede the indict-
+ment on July 12, 1995 to add an illegal gambling business count
+under 18 U.S.C. § 1955 and a firearms count against Phifer. Defen-
+dants Turner and Smith entered pleas of guilty to count one of the
+indictment.
+The jury trial of the three remaining defendants, Phifer, Angle, and
+John Henry Angle, began on October 23, 1995. After the government
+and the defense completed their cases, the district court ruled that the
+drug conspiracy count against all three defendants, as well as the two
+money laundering counts against Phifer, should go to the jury. The
+forfeiture matters, i.e. the count of criminal forfeiture as to all five
+defendants and the count of money laundering forfeiture under 18
+U.S.C. § 981 against Phifer, were bifurcated to await the resolution of
+the remaining counts by trial. The jury found both Phifer and Angle
+guilty of the count of drug conspiracy, found Phifer guilty of both
+counts of money laundering, and acquitted John Henry Angle of the
+count of drug conspiracy. On August 19, 1996, the district court sen-
+tenced Phifer to 292 months in custody and Angle to 210 months.
+This court has jurisdiction to hear the appeal of this matter pursuant
+to 28 U.S.C. § 1291. On appeal, the defendants make numerous chal-
+lenges to their convictions and sentences. After carefully considering
+the record in this case, the briefs, and the parties' arguments, this
+court affirms the district court in part and vacates and remands in part,
+for the reasons set out below.
+I.
+A. THE TRIAL
+After seven days of testimony, a jury convicted Phifer and Angle
+of conspiracy to possess with the intent to distribute, and to distribute,
+cocaine. The jury also convicted Phifer of two counts of money laun-
+dering pursuant to 18 U.S.C. § 1956 and ordered the forfeiture of his
+residence for its use in facilitating drug trafficking.
+During the trial, eight eyewitness co-conspirators testified against
+Phifer: Larry Reginald Cartledge, Robert Lee Smith, J. Lee Sturgis,
+                                3
+
+Robert "Snake" Chambers, Perry Jerome Knox, George Allen Scott
+Redman, Robert Lee Griffin, and Earl Leslie Gray. Five eyewitness
+co-conspirators testified against Angle: J. Lee Sturgis, Robert "Snake"
+Chambers, Robert Lee Griffin, Linda Peak Walker, and Earl Leslie
+Gray. In addition to the eyewitness testimony, numerous law enforce-
+ment officers testified about searches and undercover operations
+including: (1) the discovery of $14,000 in currency and an Uzi pistol
+in Phifer's bedroom in 1987, (2) the discovery of Phifer's palmprints
+on a container of cocaine in 1988, (3) a sting operation witnessed by
+an undercover agent in 1990 where Phifer sold cocaine to an infor-
+mant, (4) the seizure of $8500 in currency and a .38 caliber pistol
+from Angle during a takedown and arrest on March 1, 1993, (5) a pen
+register and long distance phone calls in 1993-94, (6) tax information
+and employment security records showing that Phifer and Angle had
+insufficient legitimate or reported income to support their standard of
+living, (7) the discovery of marked drug money in Angle's bedroom
+dresser, and (8) the seizure of assault weapons, pistols, and scanners
+on December 14, 1994.
+The prosecution supported this testimony regarding the drug con-
+spiracy with evidence of Phifer's laundering of his drug money into
+the purchase of two different vehicles in 1990, titling a red 1984 Cor-
+vette in his brother's name, titling a 1955 Chevy pickup truck in his
+mother's name, and switching the tags on the Chevy pickup truck.
+1. Cocaine Conspiracy Evidence
+Beginning as early as March of 1987 when law enforcement offi-
+cers searched Phifer's bedroom, and continuing until the date of their
+arrest on December 14, 1994, Phifer and Angle were central players
+in a cocaine and crack conspiracy operating in both Iredell and
+Rowan counties in mid-western North Carolina, particularly in and
+around the city of Statesville and the town of Cleveland. Over the
+eight-year period, the conspiracy involved as many as a dozen differ-
+ent conspirators and as much as thirty kilograms of powder cocaine
+and three kilograms of crack. Local authorities profiled Phifer as a
+major cocaine conspirator sometime in 1987; authorities believed
+Angle entered the conspiracy as early as 1990.
+Without setting out that testimony witness by witness, consider-
+ation of the record reveals eyewitness testimony and corroborating
+                                4
+
+evidence of actual drug transactions involving Phifer and Angle on
+various occasions, in sum extending over a period of years. The
+record testimony is also complete from an eyewitness seller who sold
+the two vehicles to Phifer. An eyewitness testified that Phifer often
+hid the cocaine in a can or similar container. There was direct evi-
+dence of Phifer carrying a pistol, and evidence of seeing a pistol in
+the laundry room of Phifer's residence during one of the drug deals.
+In addition, there was evidence of marked money being used in a drug
+deal and being found thereafter in a dresser drawer in Angle's resi-
+dence.
+Additionally, the prosecution introduced evidence buttressing the
+testimony of the eyewitnesses, including the incriminating evidence
+found in executing search warrants, palm prints of Phifer on a jar con-
+taining crack cocaine, sting operations, a search of Angle and his car,
+various income tax returns, pen registers, $2150 of marked money in
+a sum of $8099 found in Angle's bedroom during execution of a
+search warrant, and seizures of various weapons, two police scanners,
+and $2000 in currency found in executing a search of Phifer's bed-
+room. All this evidence tended to one degree or another to corroborate
+and state in greater detail the evidence of the various eye witnesses.
+2. Money Laundering Evidence
+In the summer of 1990, well within the time frame of the drug con-
+spiracy, Phifer purchased two vehicles from co-conspirator Larry
+Cartledge - a red 1984 Corvette and a 1955 Chevy pickup truck.
+Phifer titled the two cars in the names of his mother and brother,
+respectively. In the case of the 1955 Chevy pickup, Phifer apparently
+purchased a second 1955 Chevy pickup and switched license tags to
+prevent authorities from tracing the car. The jury found that the trans-
+actions were designed in part to conceal the fact that he was the true
+owner of the vehicles and convicted Phifer of both counts of launder-
+ing monetary instruments.
+B. SUPPRESSION HEARING
+During the trial, it became apparent that there was an error in the
+search warrant affidavit, leading Angle's counsel to move to suppress
+all evidence and the fruits thereof discovered during the search. The
+                                5
+
+court interrupted the trial and held an extensive suppression hearing.
+That hearing revealed that the warrant named a trailer to be searched
+which was not in fact the one intended to be searched, though the two
+trailers were located in close proximity to one another. The intended
+trailer was in fact the one that was searched, and the one in which
+incriminating evidence was found.
+The court found that an innocent mistake had been made in the
+affidavit for the search warrant, stemming from problems associated
+with communications between law enforcement agencies in States-
+ville, and Cleveland, North Carolina, and the Rowan and Iredell
+Counties' Sheriff's Offices, all of which agencies were attempting to
+keep informed as to the search and its progress.
+The court concluded that the mistaken identity of the trailer was an
+honest error, that the affidavit had been prepared and tendered in good
+faith, that the trailer intended to be searched was in fact the trailer
+which was searched, was the trailer occupied by Corey Angle, the
+intended target of the search, and was the trailer in which incriminat-
+ing evidence was found.
+The court concluded that the suppression motion should not be
+granted.
+C. SENTENCINGS
+Both Phifer and Angle were sentenced on August 19, 1996, and the
+district court filed their judgment and commitment orders on Septem-
+ber 23, 1996. At both sentencing proceedings, the government relied
+on a thorough and detailed presentence report ("PSR") prepared by
+Probation Officer Christine S. Nickel. The presentence reports' esti-
+mates of the drug quantities and drug types reasonably foreseeable to
+both Angle and Phifer were based on systematic analyses of the testi-
+mony of the witnesses and the admitted evidence.
+At Phifer's sentencing, the district court accepted the PSR's total
+offense level of 40 (a base offense level of 38 for the drug quantity
+with a two-point enhancement for possession of a firearm). The dis-
+trict court reduced the criminal history category to Category I from
+                                6
+
+the PSR's recommendation of Category II. Phifer faced an adjusted
+sentencing range of 292 to 365 months and the district court sen-
+tenced him to 292 months.
+At Angle's sentencing, the district court reduced the recommended
+base offense level from 38 to 34. With a two-point enhancement for
+the possession of a firearm, Angle's total offense level was 36. The
+government conceded to a criminal history category reduction from
+Category III to Category II because of confusion over Angle's crimi-
+nal record. This reduced Angle's sentencing range from 360 months
+to life to 210 to 262 months. The district court sentenced Angle to 210
+months.
+On August 26 and 27, 1996, Angle and Phifer, respectively, filed
+timely notices of appeal of their convictions and sentences. On March
+20, 1998 and again on March 3, 1999, the district court denied
+Phifer's motions for a new trial. Also on March 3, 1999, Phifer noted
+his appeal of the district court's denial of his new trial motions.
+On appeal, the defendants make various challenges to their convic-
+tions and sentences. First, Phifer alleges that the district court abused
+its discretion in failing to instruct the jury on the statute of limitations
+issue regarding the drug conspiracy. Second, Angle alleges that the
+district court committed reversible error in denying his motion to sup-
+press evidence derived from a search of his residence. Third, Angle
+contends that the district court erred in admitting into evidence photo-
+copies of marked currency. Fourth, Phifer argues that the district court
+was clearly erroneous when it failed to make specific findings in
+determining the drug quantity and drug type attributed to Phifer at his
+sentencing. Finally, Angle also alleges that the district court erred in
+determining the drug quantity and drug type attributed to Angle at his
+sentencing. Again, after carefully considering the record in this case,
+the briefs, and the parties' argument, this court affirms the district
+court's rulings in part but vacates and remands in part with respect to
+Phifer and Angle's sentencings.
+II.
+Defendant Phifer first contends that the district court erred in fail-
+ing to instruct the jury on the statute of limitations on the drug con-
+                                7
+
+spiracy charge. A district court's refusal to charge the jury on an
+instruction requested by a defendant constitutes reversible error only
+when the requested instruction: (1) is correct, (2) is not substantially
+covered by the court's charge to the jury, and (3) deals with some
+point in the trial so important that failure to give the requested instruc-
+tion seriously impairs the defendant's ability to conduct his defense.
+See United States v. Lewis, 53 F.3d 29, 32 (4th Cir. 1995). Further,
+for a court's refusal to give an instruction that involves a theory of
+defense to be reversible error, there has to be a foundation in the evi-
+dence for that theory. See Matthews v. United States, 485 U.S. 58, 63
+(1988); United States v. Hicks, 748 F.2d 854, 857 (4th Cir. 1984).
+Phifer argues that the issue of whether an offense occurred within
+the statute of limitations period is an issue for the jury to decide. By
+failing to instruct the jury on the statute of limitations, Phifer argues,
+he was deprived of his ability to argue a key theory of his defense -
+that if the drug conspiracy existed at all, it had terminated more than
+five years before December 6, 1994.
+The statute of limitations for a conspiracy charged pursuant to 21
+U.S.C. § 846 is five years. See 18 U.S.C. § 3282. The government,
+however, is not required to prove an overt act to demonstrate the exis-
+tence of a § 846 conspiracy. See United States v. Shabani, 513 U.S.
+10, 15 (1994). "A conspiracy is deemed to continue as long as its pur-
+poses have neither been abandoned nor accomplished, and no affirma-
+tive showing has been made that it has terminated." United States v.
+Arnold, 117 F.3d 1308, 1313 (11th Cir. 1997).
+In the present case, the district court expressly instructed the jury
+that to convict Phifer of Count I, the drug conspiracy charge, it
+"should first determine whether or not the conspiracy existed as
+alleged." (J.A. 632.) Because Count I alleged that the conspiracy
+existed from 1987 through "the present" - or the date of the original
+indictment, December 6, 1994 - and because the prosecution occurred
+within the five year period following December 6, 1994, it is not
+barred by any statutory limitation. The district court's instructions,
+taken as a whole, covered the point of law which Phifer complains the
+district court misinstructed. Phifer's allegation of error is without
+merit.
+                                8
+
+III.
+Defendant Corey Angle contends that the district court erred in
+failing to suppress the evidence discovered during a search of his
+home pursuant to a search warrant. Specifically, he sought to suppress
+the photocopy of the money seized which had been found in his
+dresser drawer. Angle contends that the officer knowingly made
+materially false representations to the issuing magistrate regarding the
+mobile home to be searched.
+As set forth above, at the suppression hearing during the middle of
+trial, the district court denied Angle's motion to suppress and was cor-
+rect in doing so. In United States v. Leon, 468 U.S. 897 (1984), the
+United States Supreme Court established the good faith exception to
+the exclusionary rule. The Supreme Court held that"the marginal or
+nonexistent benefits produced by suppressing evidence obtained in
+objectively reasonable reliance on a subsequently invalidated search
+warrant cannot justify the substantial costs of exclusion." Id. at 922.
+Nevertheless, the Court found that an "officer's reliance on the magis-
+trate's probable-cause determination and on the technical sufficiency
+of the warrant he issues must be objectively reasonable, and it is clear
+that in some circumstances the officer will have no reasonable
+grounds for believing that the warrant was properly issued." Id. at
+922-23 (citations omitted).
+None of the four situations outlined in Leon which would cause an
+officer's reliance on the validity of a search warrant to be unreason-
+able is applicable under the facts of this case. See id. at 923.
+Under Leon, the proper test of an officer's good faith is "whether
+a reasonably well trained officer would have known that the search
+was illegal despite the magistrate's authorization." Id. at 922 n.23.
+This objective test requires a determination of the knowledge of a rea-
+sonable officer, not an examination of an officer's subjective motives.
+See United States v. Clutchette, 24 F.3d 577, 582 (4th Cir. 1994);
+United States v. George, 971 F.2d 1113, 1123 (4th Cir. 1992). Here,
+the officer's actions in applying for and executing the challenged
+search warrant fall under Leon's good faith exception to the exclu-
+sionary rule.
+                                9
+
+As the district court found, it was objectively reasonable under the
+circumstances for the officer to have believed he had described the
+correct mobile home to search, and he did in fact search the correct
+mobile home. The officer knew that Angle was the target of the sting,
+and knew where Angle's mobile home was located. The district
+court's denial of Angle's motion to suppress is affirmed.
+IV.
+Corey Angle also contends that the district court erroneously
+admitted into evidence photocopies of marked money given to the
+undercover agent and of the seized money from the dresser drawer in
+Angle's residence under the best evidence rule. This court reviews the
+district court's evidentiary rulings for abuse of discretion. See Super-
+market of Marlinton, Inc. v. Meadow Gold Dairies, Inc., 71 F.3d 119,
+126 (4th Cir. 1995).
+The best evidence rule requires the admission of the"original" of
+a "writing" or "recording" to prove the content of the writing or
+recording. See Fed. R. Evid. 1002. The best evidence rule, however,
+also permits the admission of duplicates "unless (1) a genuine ques-
+tion is raised as to the authenticity or continuing effectiveness of the
+original or (2) in the circumstances it would be unfair to admit the
+duplicate in lieu of the original." Fed. R. Evid. 1003.
+The photocopy of the marked money that the detective made before
+she turned the money over to the undercover officer for use in the
+sting operation was the actual piece of evidence that she kept in her
+custody. She photocopied the $2400 and, in her own handwriting,
+wrote the date of July 15, 1994, on the photocopy. After she gave the
+money to the undercover officer, she faxed her photocopy to the
+Rowan County Sheriff's Office, and also gave to that office another
+copy of the original photocopy.
+Both the fax and the extra copy were used to compare the serial
+numbers of the money seized from Corey Angle's dresser drawer with
+the serial numbers of the money that was turned over to the under-
+cover officer for use in the sting operation. On $2150 of the $2400,
+the serial numbers were identical. Before the seized money was trans-
+                                10
+
+ferred, a photocopy of the seized money was made to keep for the
+records of the transferring office.
+The photocopy identified and introduced at trial as Exhibit 30 was
+in fact the "original" document that the detective used to convey the
+serial numbers of the marked money. Thus, the original writing as
+prepared by the detective, the photocopy of the marked money with
+the date written on the photocopy, was properly introduced into evi-
+dence and the trial court did not abuse its discretion.
+Angle has not raised any question of doubt about the authenticity
+or accuracy of the photocopy of the seized money, labeled Exhibit 35
+at trial, but rather has claimed that its use at trial was "unfair" because
+the jury was not able to view the actual money. The actual seized cur-
+rency was not available for admission at Angle's trial because it had
+been returned to the Iredell County Sheriff in the normal course of
+business six months after the seizure. There was never any dispute
+about whether the money was handled correctly or any dispute about
+a chain of custody on any of the photocopies. After the money was
+back in the hands of the Iredell County Sheriff's Department, months
+after the sting operation was complete, the money was placed back
+into official use in other undercover operations and therefore was not
+available for display at trial. Angle did not identify any prejudice that
+resulted from the district court's admission of Exhibit 35, other than
+the blanket assertion that the admission was "unfair." Exhibit 35 was
+properly introduced into evidence and the trial court did not abuse its
+discretion. The evidentiary rulings of the district court are affirmed.
+V.
+Both Phifer and Angle challenge the district court's findings in
+determining the drug quantity and drug type attributed to each of
+them at sentencing. Angle invokes the new Supreme Court case of
+Apprendi v. New Jersey, 120 S. Ct. 2348 (2000), as authority for the
+proposition that the judicial finding at sentencing of Angle's base
+offense level of 34 is inappropriate because corresponding facts nec-
+essary to support such a finding were not alleged in the indictment.
+Apprendi governs this case as to both defendants because Apprendi
+was decided while this case was on direct review. See Teague v. Lane,
+489 U.S. 288, 303-04 (1989).
+                                11
+
+The Court announced as a constitutional rule in Apprendi a princi-
+ple that had been suggested as one in Jones v. United States, 526 U.S.
+227, 243 n.6 (1999) [hereinafter Jones I] (questioning constitutional-
+ity of enhancing penalties through judicial findings by a preponder-
+ance of the evidence). In Apprendi, the Supreme Court held, "Other
+than the fact of a prior conviction, any fact that increases the penalty
+for a crime beyond the prescribed statutory maximum must be sub-
+mitted to a jury, and proved beyond a reasonable doubt." 120 S. Ct.
+at 2362. Under Apprendi, sentencing factors that support a specific
+sentence within the statutorily prescribed penalty range are still prop-
+erly submitted to a judge to be found by a preponderance of the evi-
+dence. See id. at 2359 n.11.
+In McMillan v. Pennsylvania, 477 U.S. 79 (1986), the Court first
+coined the term "sentencing factor" as distinct from an element of a
+crime: the former being something not found by a jury but affecting
+the sentence imposed by the judge. See Apprendi, 120 S. Ct. at 2360.
+Every element of a crime must be proven to a jury beyond a reason-
+able doubt. See United States v. Gaudin, 515 U.S. 506, 510 (1995),
+cited in Apprendi, 120 S. Ct. at 2356. In announcing the rule in
+Apprendi, the Court specifically noted that Apprendi neither overrules
+McMillan, see 120 S.Ct. at 2361 n.13, nor makes the term "sentencing
+factor" devoid of meaning, see id. at 2365 n.19. Ultimately, a court
+may still consider aggravating and mitigating factors that support a
+specific sentence within the statutorily prescribed range when sen-
+tencing a defendant, so long as the sentence imposed is not greater
+than the maximum statutory penalty for the statutory offense estab-
+lished by the jury's verdict. See id.
+Turning to the present matter, the issue presented is whether the
+different drug quantities attributed to Phifer and Angle at sentencing
+were elements that should have been proven to a jury beyond a rea-
+sonable doubt, or sentencing factors that were properly found by the
+district court judge by a preponderance of the evidence. In order to
+put the inquiry into perspective, a brief review of the relevant federal
+drug statutes is appropriate.
+Phifer and Angle were convicted of The Attempt and Conspiracy
+statute, 21 U.S.C. § 846, which makes the penalty for conspiring to
+commit certain offenses the same as the penalty for those offenses.
+                                12
+
+Generally, 21 U.S.C. § 841(a) defines the crime that was the object
+of the conspiracy: namely, making it unlawful for any person, know-
+ingly or intentionally, to manufacture, distribute, or dispense con-
+trolled or counterfeit substances. The penalties for violating § 841(a)
+are set forth in 21 U.S.C. § 841(b), which lists terms of imprisonment
+in § 841(b)(1)(A)-(D). The fallback imprisonment penalty for certain
+drug types is § 841(b)(1)(C), which states that "In the case of a con-
+trolled substance in schedule I or II . . . except as provided in subpara-
+graphs (A), (B), and (D), such person shall be sentenced to a term of
+imprisonment of not more than 20 years. . . ." Thus, under
+§ 841(b)(1)(C), regardless of the quantity of schedule I or II drug, a
+defendant convicted of a violation of § 841(a) is eligible for a term
+of imprisonment ranging from zero to twenty years. 1111 In the other pen-
+alty sections of § 841(b)(1), the term of imprisonment is linked to
+quantity of drugs. For example, in § 841(b)(1)(A), based on a finding
+of a particular amount of drugs, the term of imprisonment ranges from
+ten years to life.
+Historically, this court and all of her sister circuits have held that
+drug quantity is a sentencing factor, not an element of the crime. See
+United States v. Powell, 886 F.2d 81, 85 (4th Cir. 1989); United
+States v. Thomas, 204 F.3d 381, 384 (2d Cir. 2000); United States v.
+Hester, 199 F.3d 1287, 1291 (11th Cir. 2000); United States v. Wil-
+liams, 194 F.3d 100, 107 (D.C. Cir. 1999); United States v. Mabry,
+3 F.3d 244, 250 (8th Cir. 1993); United States v. Underwood, 982
+F.2d 426, 429 (10th Cir. 1992); United States v. Moreno, 899 F.2d
+465, 472-73 (6th Cir. 1990); United States v. Barnes, 890 F.2d 545,
+551 n.6 (1st Cir. 1989); United States v. Gibbs, 813 F.2d 596, 599-
+600 (3d Cir. 1987); United States v. Morgan, 835 F.2d 79, 81 (5th
+Cir. 1987); United States v. Normandeau, 800 F.2d 953, 956 (9th Cir.
+1986). After the Supreme Court noted in Jones I that precedent sug-
+gested that any fact, other than prior conviction, that could increase
+the penalty beyond the statutory maximum penalty, must be charged
+_________________________________________________________________
+1 1 1 1 The court notes that, although § 841(b)(1)(C) authorizes imprison-
+ment for not more than thirty years where death or serious bodily injury
+occurs and in particular cases of recidivism, these are not issues in the
+present case and the court does not address how Apprendi may apply in
+such cases. Accordingly, in this opinion the court refers to the statutory
+maximum of § 841(b)(1)(C) as not more than twenty years.
+                                13
+
+in the indictment, submitted to a jury, and proven beyond a reason-
+able doubt, see 526 U.S. at 243 n.6, circuit courts applying Jones I
+interpreted this opinion as a suggestion rather than an absolute rule.
+Thus, they continued to view drug quantity as a sentencing factor.
+See, e.g., United States v. Thomas, 204 F.3d 381, 384 (2d Cir. 2000)
+(holding that notwithstanding Jones I, drug quantity remains a sen-
+tencing factor); United States v. Williams, 194 F.3d 100, 107 (D.C.
+Cir. 1999) (maintaining precedent that drug quantity is a sentencing
+factor because "Jones [I] never ultimately resolved the constitutional
+doubts it raised"). Of particular interest is the Tenth Circuit case of
+United States v. Jones [hereinafter "Circuit Jones"], which analyzed
+the issue of drug quantity in light of the Supreme Court Jones I, hold-
+ing "Because Jones [I] `suggests' rather than establishes a new princi-
+ple of constitutional law, 119 S.Ct. at 1224 n.6, we adhere to the
+doctrine of stare decisis and decline to reexamine whether the penalty
+provisions of § 841(b)(1) violate the Fifth and Sixth Amendments."
+Circuit Jones, 194 F.3d 1178, 1186 (10th Cir. 1999), vacated, Jones
+v. United States, 120 S. Ct. at 2739 (2000)[hereinafter Jones II]. In
+Jones II, the Supreme Court vacated the judgment of Circuit Jones
+and remanded for further consideration in light of Apprendi. See
+Jones II, 120 S.Ct. 2739. The Supreme Court's remand of Circuit
+Jones indicates the possible or even likely view of the Court that
+Apprendi does change the traditional interpretation that drug quantity
+is always a sentencing factor.
+One of the traditional reasons for refusing to consider quantity as
+an element of a drug offense was based on the determination that, by
+listing the quantities in 21 U.S.C. § 841(b), labeled "penalties," rather
+than in 21 U.S.C. § 841(a), entitled "unlawful acts," Congress
+intended quantity to be a sentencing factor, not an element of the
+crime. However, the Court in Apprendi made clear that labels are an
+unacceptable solution to making the "constitutionally novel and elu-
+sive distinction between `elements' and `sentencing factors.'" 120
+S.Ct. at 2365 (citations omitted); see also Jones I, 526 U.S. at 233
+("The `look' of the statute . . . is not a reasonable guide to congressio-
+nal intentions."). The Court further explained, "the relevant inquiry is
+one not of form, but of effect--does the required finding expose the
+defendant to a greater punishment than that authorized by the jury's
+guilty verdict?" Apprendi, 120 S.Ct. at 2365. Accordingly, for the
+present matter, if the findings of particular drug quantities expose the
+                                14
+
+defendants to sentences greater than authorized by the jury's verdict
+of guilty under 21 U.S.C. § 846, then the requirement of Apprendi has
+not been satisfied.
+Phifer and Angle's convictions for violating § 846 make the penal-
+ties listed in § 841(b) applicable to them. There was no drug quantity
+charged in the indictment (J.A. 52) or submitted to the jury (J.A. 626-
+27). Accordingly, applying Apprendi, the jury's finding of a violation
+of § 846 authorizes sentences for the defendants under § 841(b)(1)(C)
+to terms of not more than twenty years.
+Pursuant to Apprendi, in order for imprisonment penalties under
+§ 841(b)(1)(A) or (B) to apply to the defendants, such that findings
+of particular drug quantities could expose them to imprisonment
+terms greater than § 841(b)(1)(C)'s catch-all statutory maximum of
+twenty years, the drug quantity must be treated as an element: charged
+in the indictment, submitted to a jury, and proven beyond a reason-
+able doubt. Where no drug quantity is charged in the indictment or
+found by a jury, but a jury has found a violation of § 841(a), the stan-
+dard statutory term of imprisonment is not more than twenty years.
+See § 841(b)(1)(C). In these cases, where the quantity is not charged,
+the drug amount is still a proper aggravating or mitigating factor to
+be considered by the judge in determining a sentence at or below the
+statutory maximum sentence. See Apprendi, 120 S. Ct. at 2359 n.11.
+Thus, the judge still may determine the amount of drugs by a prepon-
+derance of the evidence for the purposes of calculating the offense
+level and relevant conduct under the United States Sentencing Guide-
+lines. However, if the determination of the judge with respect to quan-
+tity leads to a suggested sentence range under the Sentencing
+Guidelines that is greater than the twenty year statutory maximum,
+the judge only may sentence at or below the statutory maximum pen-
+alty, i.e. not more than twenty years. See U.S.S.G. § 5G1.1(a).
+Angle received a sentence of 210 months for his violation of § 846.
+(J.A. 512.) Because Angle's sentence is not more than twenty years,
+the sentence comports with § 841(b)(1)(C), which is the applicable
+penalty for this case, as explained above. Contrary to Angle's position
+on appeal, consideration by the district court judge of the quantity of
+drugs in determining the appropriate sentence at or below the statu-
+tory maximum was proper under Apprendi, also explained above.
+                                15
+
+However, notwithstanding the finding that the district court was in
+compliance with Apprendi when it sentenced Angle, as detailed in the
+following section of the opinion, the district court must make addi-
+tional findings with respect to Angle's sentence. See infra Part VI.
+Phifer received a sentence of 292 months for his violation of § 846.2222
+(J.A. 504-05.) The court rejects Phifer's challenge to the district
+court's attribution of drug quantities, finding that the district court's
+attribution of quantities meriting a base offense level of 38 was
+proper. Thus, with respect to Phifer, the district court properly found
+a quantity of drugs that directed a sentence under the guidelines in the
+range of 292 to 365 months. However, by sentencing Phifer to 292
+months, it is clear that the district court did not sentence Phifer in
+accordance with the applicable statutory penalty of § 841(b)(1)(C), as
+explained above, which authorizes a term of imprisonment not more
+than twenty years. Rather, the district court's findings with respect to
+quantity make it likely that the defendant was sentenced under
+§ 841(b)(1)(A), which authorizes a maximum term of life imprison-
+ment. This court notes that, because the district court did not have
+benefit of Apprendi, the district court was reasonable, and followed
+this court's precedent, when the district court considered its findings
+of drug quantities attributable to Phifer a sentencing factor, thereby
+sentencing Phifer under § 841(b)(1)(A). However, this court's rule of
+Powell, 886 F.2d at 85, and its progeny, that drug quantity is a sen-
+tencing factor that may be proven by a preponderance of the evidence,
+must be abandoned to the extent that the rule is inconsistent with
+Apprendi. See, e.g., United States v. Aguayo-Delgado, 220 F.3d 926
+(8th Cir. 2000) (abandoning Eighth Circuit law upholding drug quan-
+tity as sentencing factor to the extent it does not comport with
+Apprendi). In light of Apprendi, drug quantity is an element of
+§ 841(b)(1)(A), because § 841(b)(1)(A) allows findings of quantity to
+expose defendants to greater penalties than the maximum penalties
+authorized in the fallback penalty provision for schedule I and II drug
+offenses, § 841(b)(1)(C).
+_________________________________________________________________
+2 2 2 2 Phifer also was sentenced to 240 months on each count under 18
+U.S.C. § 1956 (a)(1)(B)(i), to run concurrently with one another and with
+the sentence for the drug count. (J.A. 504-05.) These sentences are unaf-
+fected by this decision.
+                                16
+
+The district court's finding of the quantity of drugs attributable to
+Phifer suggested a term of imprisonment under the Sentencing Guide-
+lines that increased Phifer's term of imprisonment beyond the appli-
+cable statutory maximum. Under Apprendi, such factor must be found
+by a jury beyond a reasonable doubt if it is to be acted upon, or, pur-
+suant to U.S.S.G. § 5G1.1(a), the statutory maximum shall be consid-
+ered the guideline sentence. Although the district court judge did not
+have the benefit of Apprendi at the time of sentencing, the error of
+exceeding the twenty year statutory maximum is not harmless and
+must be corrected on re-sentencing. Phifer's sentence for the convic-
+tion of § 846 is vacated in light of Apprendi and the case is remanded
+for re-sentencing consistent with this opinion.
+VI.
+Finally, defendant Angle contends that his sentence should be
+vacated and his case remanded for re-sentencing with instructions that
+the district court make specific findings of fact proved by a prepon-
+derance of the evidence as to the type and amounts of cocaine attrib-
+utable to him. The PSR recommended that Angle be held responsible
+for at least 6.5 kilograms of cocaine powder and 3 kilograms of
+cocaine base, having a marijuana equivalency of 61,300 kilograms.
+Angle's PSR contains the exact same factual findings as the PSR
+compiled for Phifer, including reference to "several individuals previ-
+ously prosecuted for illegal drug distribution" who named Phifer as
+their source of cocaine, a description of how their testimony resulted
+in the number of grams of cocaine attributed to Phifer by Special
+Agent Boone, and specific references to the testimony of Earl Gray.
+(J.A. 664.) The PSR determined that Angle's base offense level is 38.
+Angle objected to the findings in the PSR with respect to its drug
+quantity determination, arguing that the testimony by the govern-
+ment's witnesses was unreliable. At his sentencing hearing, the dis-
+trict court heard argument from Angle challenging the drug quantity
+determination and the evidence relied upon by the probation officer
+in making those determinations. After hearing the response of the
+government, the district court stated that "on examination of the evi-
+dence and the preponderance thereof, the Court finds the amount of
+drugs attributable to the Defendant in this matter would give him a
+Level 34 base level instead of 38. Consequently, that changes the
+                                17
+
+Guidelines." (J.A. 456.) In its "Statement of Reasons" form attached
+to Angle's criminal judgment, the district court stated it adopted the
+factual findings and guideline application in Angle's PSR except that
+it sustained "defendant's objection to drug quantity and finds a base
+offense level of 34 rather than 38; finds criminal history category III
+overstates defendant's history and finds appropriate Criminal History
+to be II." (J.A. 517-18.)
+Unlike at Phifer's sentencing, the district court did not impliedly
+adopt the factual findings in the Angle's PSR regarding attributable
+drug weight, but instead determined that Angle deserved a lower base
+offense level than recommended in the PSR. However, the court did
+not specify the exact quantity nor the identity of the drugs involved,
+nor how it came to the conclusion that the defendant should have a
+base offense level of 34. Thus, with respect to defendant Angle, this
+court cannot conduct an effective appellate review of the district
+court's drug quantity determinations according to the proper stan-
+dards. See, e.g., United States v. Cook, 76 F.3d 596, 604 (4th Cir.
+1996) (holding government has burden of proof at sentencing to
+establish drug quantities attributed to a defendant by a preponderance
+of the evidence); United States v. Lamarr, 75 F.3d 964, 972 (4th Cir.
+1996) (base offense level in a drug conspiracy case is determined by
+the amount of drugs "reasonably foreseeable . . . within the scope of
+[the] unlawful agreement"); United States v. Uwaeme, 975 F.2d 1016,
+1018-19 (4th Cir. 1992) (holding accuracy is important but mathemat-
+ical precision is not required when determining reasonable approxi-
+mation of drug quantity for sentencing). This court remands the case
+so that the district court can make the required factual findings with
+respect to defendant Angle and the drug types and quantities attribut-
+able to him.
+VII.
+Upon review of the record in this case, the briefs, and the parties'
+argument, this court concludes that the district court did not abuse its
+discretion in failing to instruct the jury on the statute of limitations
+issue regarding the drug conspiracy. Second, the district court did not
+commit reversible error in denying defendant Angle's motion to sup-
+press evidence derived from a search of his residence. Third, the dis-
+trict court did not err in admitting into evidence photocopies of
+                                18
+
+marked currency and seized currency. Fourth, although the district
+court properly attributed drug quantities to Phifer establishing a base
+offense level of 38, it is error under Apprendi to allow judicial find-
+ings of quantity to cause the penalty to exceed the applicable statutory
+maximum penalty. Accordingly, Phifer's sentence with respect to the
+§ 846 conviction must be vacated and remanded for re-sentencing in
+light of Apprendi and in accordance with this opinion. Finally, the
+district court failed to determine the drug quantity and drug type attri-
+buted to Angle at his sentencing. Defendant Angle's case is remanded
+to the district court to make the necessary findings as to drug quantity
+and type.
+AFFIRMED IN PART, VACATED IN PART,
+AND REMANDED
+                                19

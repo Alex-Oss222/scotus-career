@@ -1,0 +1,106 @@
+{
+  "case": "Harris v. United States",
+  "event": "2002-06-24",
+  "record": "harris-v-united-states_merits_2002-06-24.md",
+  "author": "Scalia",
+  "checks": {
+    "opening_labels": true,
+    "eleven_public_blocks": true,
+    "kernel_public_holdings_identity": true,
+    "exact_public_law_copy": true,
+    "all_eight_reconciled_rows": true,
+    "unique_valid_coalitions": true,
+    "eligible_balance_pool_assignment": true,
+    "public_private_boundary": true,
+    "material_qualification_presence": true,
+    "exact_approved_stone_copy": true,
+    "exact_reconciled_audit_with_identified_assembly_supplement": true,
+    "judgment_roster_partition": true,
+    "proposition_counts": true,
+    "bek_included_kirk_excluded": true,
+    "final_partial_join_review": true
+  },
+  "explanation_words": [
+    171,
+    226,
+    285
+  ],
+  "coalitions": {
+    "Part I": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Parts II and III": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "judgment support": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "judgment opposition": [
+      "O'Connor",
+      "Kennedy",
+      "Breyer"
+    ],
+    "eligible authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ]
+  },
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 11,
+    "O'Connor": 12,
+    "Scalia": 11,
+    "Kennedy": 11,
+    "Souter": 12,
+    "Thomas": 12,
+    "Ginsburg": 12,
+    "Breyer": 12
+  },
+  "pool": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Souter",
+    "Thomas",
+    "Ginsburg"
+  ],
+  "source_sha256": {
+    "freeze/OT_2001CHUNK8_HARRIS_RING_NEUTRAL.md": "2268feb82106fbaacc41c6aac0a2d018e70e707221fa0224fd9bb378bdc1265e",
+    "freeze/OT_2001CHUNK8_HARRIS_RING_COMMITMENTS.md": "2e5ea0cfc72961ce8e878ba9a607df504732f14dd6694cf5fbececa868ed15ea",
+    "freeze/OT_2001CHUNK8_HARRIS_RING_RECONCILED.md": "a120f3dbbac6ee27bf277a920d10a2ff9ea2c4b0c4951cd2b79eea8570d4a060",
+    "entering-law/OT_2001CHUNK8_HARRIS_RING_ENTERING_LAW.md": "8eeb78b74697c3d477df972a84f7f4bed6bd8ddcdaf8273162dbfe687a37cc18",
+    "runtime/OT_2001CHUNK8_HARRIS_RING_STONE.md": "51b2712f1ee2a177367dd05abe3d04a62c3bf2071e822e5f6307cc156a2ddc44",
+    "freeze/OT_2001CHUNK8_HARRIS_FORM.md": "f417662a0334689bca14a9895629d7c1cc7ad487bffd4441c1212c192bd36c0f",
+    "freeze/OT_2001CHUNK8_HARRIS_ASSIGNMENT_COUNTS.json": "00a3e98ff6dab232326589f55f2084751beb869d70455e2c36b085d781f4b912",
+    "freeze/OT_2001CHUNK8_HARRIS_ASSIGNMENT.md": "b8a643bed668b7097e03e80e5b55b7b36c050eeb97749177ef0a5c1871dcb308"
+  },
+  "limitations": [
+    "Workspace integration and chunk-wide validation are performed separately by control.",
+    "No repository-history operation was performed by this assembly context."
+  ],
+  "record_sha256": "f504fd092aa641cc6459dafa72cdd7f4117347d7ac5a9da7883d4914ab9da427",
+  "public_projection_sha256": "2185712eff9ef23d75c03ae2d3b75d6d4b91327866d430487761582ccd8c0a84",
+  "final_semantic_review": "Completed before workspace integration: fixed core, actual record, authority dates, distinct burdens, mandate, publication and partial-join scope checked; no commitment, author, counted event or judgment changed."
+}

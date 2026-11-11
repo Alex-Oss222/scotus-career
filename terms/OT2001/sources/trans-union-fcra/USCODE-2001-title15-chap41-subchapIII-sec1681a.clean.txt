@@ -1,0 +1,569 @@
+
+1 So in original. Probably should be ‘‘creditworthiness,’’. 
+SUBCHAPTER III—CREDIT REPORTING 
+AGENCIES 
+SUBCHAPTER REFERRED TO IN OTHER SECTIONS 
+This subchapter is referred to in sections 6802, 6806 of 
+this title; title 18 section 1030; title 20 section 1080a; 
+title 50 section 436. 
+§ 1681. Congressional findings and statement of 
+purpose 
+(a) Accuracy and fairness of credit reporting 
+The Congress makes the following findings: 
+(1) The banking system is dependent upon fair 
+and accurate credit reporting. Inaccurate credit 
+reports directly impair the efficiency of the 
+banking system, and unfair credit reporting 
+methods undermine the public confidence which 
+is essential to the continued functioning of the 
+banking system. 
+(2) An elaborate mechanism has been devel-
+oped for investigating and evaluating the credit 
+worthiness,1
+credit standing, credit capacity, 
+character, and general reputation of consumers. 
+(3) Consumer reporting agencies have assumed 
+a vital role in assembling and evaluating con-
+sumer credit and other information on consum-
+ers. 
+(4) There is a need to insure that consumer re-
+porting agencies exercise their grave respon-
+sibilities with fairness, impartiality, and a re-
+spect for the consumer’s right to privacy. 
+(b) Reasonable procedures 
+It is the purpose of this subchapter to require 
+that consumer reporting agencies adopt reason-
+able procedures for meeting the needs of com-
+merce for consumer credit, personnel, insurance, 
+and other information in a manner which is fair 
+and equitable to the consumer, with regard to 
+the confidentiality, accuracy, relevancy, and 
+proper utilization of such information in accord-
+ance with the requirements of this subchapter. 
+(Pub. L. 90–321, title VI, § 602, as added Pub. L. 
+91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128.) 
+EFFECTIVE DATE 
+Section 504(d) of Pub. L. 90–321, as added by Pub. L. 
+91–508, title VI, § 602, Oct. 26, 1970, 84 Stat. 1136, provided 
+that: ‘‘Title VI [enacting this subchapter] takes effect 
+upon the expiration of one hundred and eighty days fol-
+lowing the date of its enactment [Oct. 26, 1970].’’ 
+SHORT TITLE 
+This subchapter known as the ‘‘Fair Credit Reporting 
+Act’’, see Short Title note set out under section 1601 of 
+this title. 
+§ 1681a. Definitions; rules of construction 
+(a) Definitions and rules of construction set 
+forth in this section are applicable for the pur-
+poses of this subchapter. 
+(b) The term ‘‘person’’ means any individual, 
+partnership, corporation, trust, estate, coopera-
+tive, association, government or governmental 
+subdivision or agency, or other entity. 
+(c) The term ‘‘consumer’’ means an individual. 
+(d) CONSUMER REPORT.— 
+(1) IN
+GENERAL.—The term ‘‘consumer re-
+port’’ means any written, oral, or other com-
+
+1 So in original. Probably should be ‘‘creditworthiness,’’. 
+munication of any information by a consumer 
+reporting agency bearing on a consumer’s 
+credit worthiness,1 credit standing, credit ca-
+pacity, character, general reputation, personal 
+characteristics, or mode of living which is 
+used or expected to be used or collected in 
+whole or in part for the purpose of serving as 
+a factor in establishing the consumer’s eligi-
+bility for— 
+(A) credit or insurance to be used pri-
+marily for personal, family, or household 
+purposes; 
+(B) employment purposes; or 
+(C) any other purpose authorized under 
+section 1681b of this title. 
+(2) EXCLUSIONS.—The term ‘‘consumer re-
+port’’ does not include— 
+(A) any— 
+(i) report containing information solely 
+as to transactions or experiences between 
+the consumer and the person making the 
+report; 
+(ii) communication of that information 
+among persons related by common owner-
+ship or affiliated by corporate control; or 
+(iii) communication of other information 
+among persons related by common owner-
+ship or affiliated by corporate control, if it 
+is clearly and conspicuously disclosed to 
+the consumer that the information may be 
+communicated among such persons and 
+the consumer is given the opportunity, be-
+fore the time that the information is ini-
+tially communicated, to direct that such 
+information not be communicated among 
+such persons; 
+(B) any authorization or approval of a spe-
+cific extension of credit directly or indi-
+rectly by the issuer of a credit card or simi-
+lar device; 
+(C) any report in which a person who has 
+been requested by a third party to make a 
+specific extension of credit directly or indi-
+rectly to a consumer conveys his or her deci-
+sion with respect to such request, if the 
+third party advises the consumer of the 
+name and address of the person to whom the 
+request was made, and such person makes 
+the disclosures to the consumer required 
+under section 1681m of this title; or 
+(D) a communication described in sub-
+section (o) of this section. 
+(e) The term ‘‘investigative consumer report’’ 
+means a consumer report or portion thereof in 
+which information on a consumer’s character, 
+general reputation, personal characteristics, or 
+mode of living is obtained through personal 
+interviews with neighbors, friends, or associates 
+of the consumer reported on or with others with 
+whom he is acquainted or who may have knowl-
+edge concerning any such items of information. 
+However, such information shall not include 
+specific factual information on a consumer’s 
+credit record obtained directly from a creditor 
+of the consumer or from a consumer reporting 
+agency when such information was obtained di-
+rectly from a creditor of the consumer or from 
+the consumer. 
+
+
+(f) The term ‘‘consumer reporting agency’’ 
+means any person which, for monetary fees, 
+dues, or on a cooperative nonprofit basis, regu-
+larly engages in whole or in part in the practice 
+of assembling or evaluating consumer credit in-
+formation or other information on consumers 
+for the purpose of furnishing consumer reports 
+to third parties, and which uses any means or fa-
+cility of interstate commerce for the purpose of 
+preparing or furnishing consumer reports. 
+(g) The term ‘‘file’’, when used in connection 
+with information on any consumer, means all of 
+the information on that consumer recorded and 
+retained by a consumer reporting agency regard-
+less of how the information is stored. 
+(h) The term ‘‘employment purposes’’ when 
+used in connection with a consumer report 
+means a report used for the purpose of evaluat-
+ing a consumer for employment, promotion, re-
+assignment or retention as an employee. 
+(i) The term ‘‘medical information’’ means in-
+formation or records obtained, with the consent 
+of the individual to whom it relates, from li-
+censed physicians or medical practitioners, hos-
+pitals, clinics, or other medical or medically re-
+lated facilities. 
+(j) DEFINITIONS RELATING
+TO CHILD SUPPORT 
+OBLIGATIONS.— 
+(1) OVERDUE
+SUPPORT.—The term ‘‘overdue 
+support’’ has the meaning given to such term 
+in section 666(e) of title 42. 
+(2) STATE OR LOCAL CHILD SUPPORT ENFORCE-
+MENT AGENCY.—The term ‘‘State or local child 
+support enforcement agency’’ means a State 
+or local agency which administers a State or 
+local program for establishing and enforcing 
+child support obligations. 
+(k) ADVERSE ACTION.— 
+(1) ACTIONS
+INCLUDED.—The term ‘‘adverse 
+action’’— 
+(A) has the same meaning as in section 
+1691(d)(6) of this title; and 
+(B) means— 
+(i) a denial or cancellation of, an in-
+crease in any charge for, or a reduction or 
+other adverse or unfavorable change in the 
+terms of coverage or amount of, any insur-
+ance, existing or applied for, in connection 
+with the underwriting of insurance; 
+(ii) a denial of employment or any other 
+decision for employment purposes that ad-
+versely affects any current or prospective 
+employee; 
+(iii) a denial or cancellation of, an in-
+crease in any charge for, or any other ad-
+verse or unfavorable change in the terms 
+of, any license or benefit described in sec-
+tion 1681b(a)(3)(D) of this title; and 
+(iv) an action taken or determination 
+that is— 
+(I) made in connection with an applica-
+tion that was made by, or a transaction 
+that was initiated by, any consumer, or 
+in connection with a review of an ac-
+count under section 1681b(a)(3)(F)(ii) of 
+this title; and 
+(II) adverse to the interests of the con-
+sumer. 
+(2) APPLICABLE
+FINDINGS, DECISIONS, COM-
+MENTARY, AND ORDERS.—For purposes of any 
+
+2 So in original. Probably should be ‘‘creditworthiness’’. 
+determination of whether an action is an ad-
+verse action under paragraph (1)(A), all appro-
+priate final findings, decisions, commentary, 
+and orders issued under section 1691(d)(6) of 
+this title by the Board of Governors of the 
+Federal Reserve System or any court shall 
+apply. 
+(l) FIRM OFFER OF CREDIT OR INSURANCE.—The 
+term ‘‘firm offer of credit or insurance’’ means 
+any offer of credit or insurance to a consumer 
+that will be honored if the consumer is deter-
+mined, based on information in a consumer re-
+port on the consumer, to meet the specific cri-
+teria used to select the consumer for the offer, 
+except that the offer may be further conditioned 
+on one or more of the following: 
+(1) The consumer being determined, based on 
+information in the consumer’s application for 
+the credit or insurance, to meet specific cri-
+teria bearing on credit worthiness 2 or insur-
+ability, as applicable, that are established— 
+(A) before selection of the consumer for 
+the offer; and 
+(B) for the purpose of determining whether 
+to extend credit or insurance pursuant to 
+the offer. 
+(2) Verification— 
+(A) that the consumer continues to meet 
+the specific criteria used to select the con-
+sumer for the offer, by using information in 
+a consumer report on the consumer, infor-
+mation in the consumer’s application for the 
+credit or insurance, or other information 
+bearing on the credit worthiness 2 or insur-
+ability of the consumer; or 
+(B) of the information in the consumer’s 
+application for the credit or insurance, to 
+determine that the consumer meets the spe-
+cific criteria bearing on credit worthiness 2 
+or insurability. 
+(3) The consumer furnishing any collateral 
+that is a requirement for the extension of the 
+credit or insurance that was— 
+(A) established before selection of the con-
+sumer for the offer of credit or insurance; 
+and 
+(B) disclosed to the consumer in the offer 
+of credit or insurance. 
+(m) CREDIT OR INSURANCE TRANSACTION THAT 
+IS NOT INITIATED BY THE CONSUMER.—The term 
+‘‘credit or insurance transaction that is not ini-
+tiated by the consumer’’ does not include the 
+use of a consumer report by a person with which 
+the consumer has an account or insurance pol-
+icy, for purposes of— 
+(1) reviewing the account or insurance pol-
+icy; or 
+(2) collecting the account. 
+(n) STATE.—The term ‘‘State’’ means any 
+State, the Commonwealth of Puerto Rico, the 
+District of Columbia, and any territory or pos-
+session of the United States. 
+(o) EXCLUDED
+COMMUNICATIONS.—A commu-
+nication is described in this subsection if it is a 
+communication— 
+(1) that, but for subsection (d)(2)(D) of this 
+section, would be an investigative consumer 
+report; 
+
+
+3 So in original. Probably should be ‘‘creditworthiness,’’. 
+(2) that is made to a prospective employer 
+for the purpose of— 
+(A) procuring an employee for the em-
+ployer; or 
+(B) procuring an opportunity for a natural 
+person to work for the employer; 
+(3) that is made by a person who regularly 
+performs such procurement; 
+(4) that is not used by any person for any 
+purpose other than a purpose described in sub-
+paragraph (A) or (B) of paragraph (2); and 
+(5) with respect to which— 
+(A) the consumer who is the subject of the 
+communication— 
+(i) consents orally or in writing to the 
+nature and scope of the communication, 
+before the collection of any information 
+for the purpose of making the communica-
+tion; 
+(ii) consents orally or in writing to the 
+making of the communication to a pro-
+spective employer, before the making of 
+the communication; and 
+(iii) in the case of consent under clause 
+(i) or (ii) given orally, is provided written 
+confirmation of that consent by the person 
+making the communication, not later than 
+3 business days after the receipt of the 
+consent by that person; 
+(B) the person who makes the communica-
+tion does not, for the purpose of making the 
+communication, make any inquiry that if 
+made by a prospective employer of the con-
+sumer who is the subject of the communica-
+tion would violate any applicable Federal or 
+State equal employment opportunity law or 
+regulation; and 
+(C) the person who makes the communica-
+tion— 
+(i) discloses in writing to the consumer 
+who is the subject of the communication, 
+not later than 5 business days after receiv-
+ing any request from the consumer for 
+such disclosure, the nature and substance 
+of all information in the consumer’s file at 
+the time of the request, except that the 
+sources of any information that is ac-
+quired solely for use in making the com-
+munication and is actually used for no 
+other purpose, need not be disclosed other 
+than under appropriate discovery proce-
+dures in any court of competent jurisdic-
+tion in which an action is brought; and 
+(ii) notifies the consumer who is the sub-
+ject of the communication, in writing, of 
+the consumer’s right to request the infor-
+mation described in clause (i). 
+(p) CONSUMER REPORTING AGENCY THAT COM-
+PILES AND MAINTAINS FILES ON CONSUMERS ON A 
+NATIONWIDE BASIS.—The term ‘‘consumer report-
+ing agency that compiles and maintains files on 
+consumers on a nationwide basis’’ means a con-
+sumer reporting agency that regularly engages 
+in the practice of assembling or evaluating, and 
+maintaining, for the purpose of furnishing con-
+sumer reports to third parties bearing on a con-
+sumer’s credit worthiness,3 credit standing, or 
+
+credit capacity, each of the following regarding 
+consumers residing nationwide: 
+(1) Public record information. 
+(2) Credit account information from persons 
+who furnish that information regularly and in 
+the ordinary course of business. 
+(Pub. L. 90–321, title VI, § 603, as added Pub. L. 
+91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128; 
+amended Pub. L. 102–537, § 2(b), Oct. 27, 1992, 106 
+Stat. 3531; Pub. L. 104–208, div. A, title II, § 2402, 
+Sept. 30, 1996, 110 Stat. 3009–426; Pub. L. 105–347, 
+§ 6(1)–(3), Nov. 2, 1998, 112 Stat. 3211.) 
+AMENDMENTS 
+1998—Subsec. (d)(2)(A)(iii). Pub. L. 105–347, § 6(1), 
+struck out ‘‘any’’ before ‘‘communication of other’’. 
+Subsec. (o)(1). Pub. L. 105–347, § 6(2), substituted 
+‘‘(d)(2)(D)’’ for ‘‘(d)(2)(E)’’. 
+Subsec. (o)(4). Pub. L. 105–347, § 6(3), substituted 
+‘‘and’’ for ‘‘or’’ at end. 
+1996—Subsec. (d). Pub. L. 104–208, § 2402(e), inserted 
+subsec. heading, designated existing provisions as par. 
+(1) and inserted heading, redesignated cls. (1) to (3) as 
+subpars. (A) to (C), respectively, added par. (2), and 
+struck out at end ‘‘The term does not include (A) any 
+report containing information solely as to transactions 
+or experiences between the consumer and the person 
+making the report; (B) any authorization or approval of 
+a specific extension of credit directly or indirectly by 
+the issuer of a credit card or similar device; or (C) any 
+report in which a person who has been requested by a 
+third party to make a specific extension of credit di-
+rectly or indirectly to a consumer conveys his decision 
+with respect to such request, if the third party advises 
+the consumer of the name and address of the person to 
+whom the request was made and such person makes the 
+disclosures to the consumer required under section 
+1681m of this title.’’ 
+Subsec. (k). Pub. L. 104–208, § 2402(a), added subsec. 
+(k). 
+Subsec. (l). Pub. L. 104–208, § 2402(b), added subsec. (l). 
+Subsec. (m). Pub. L. 104–208, § 2402(c), added subsec. 
+(m). 
+Subsec. (n). Pub. L. 104–208, § 2402(d), added subsec. 
+(n). 
+Subsec. (o). Pub. L. 104–208, § 2402(f), added subsec. (o). 
+Subsec. (p). Pub. L. 104–208, § 2402(g), added subsec. (p). 
+1992—Subsec. (j). Pub. L. 102–537 added subsec. (j). 
+EFFECTIVE DATE OF 1998 AMENDMENT 
+Pub. L. 105–347, § 7, Nov. 2, 1998, 112 Stat. 3211, pro-
+vided that: ‘‘The amendments made by this Act 
+[amending this section and sections 1681b, 1681c, 1681g, 
+1681i, 1681k, and 1681s of this title] shall be deemed to 
+have the same effective date [see section 2420 of Pub. L. 
+104–208, set out as a note below] as the amendments 
+made by section 2403 of the Consumer Credit Reporting 
+Reform Act of 1996 (Public Law 104–208; 110 Stat. 
+3009–1257 [3009–430]) [amending section 1681b of this 
+title].’’ 
+EFFECTIVE DATE OF 1996 AMENDMENT 
+Section 2420 of div. A of Pub. L. 104–208 provided that: 
+‘‘(a) IN GENERAL.—Except as otherwise specifically 
+provided in this chapter [chapter 1 (§§ 2401–2422) of sub-
+title D of title II of div. A of Pub. L. 104–208, see Short 
+Title of 1996 Amendment note set out under section 1601 
+of this title], the amendments made by this chapter 
+shall become effective 365 days after the date of enact-
+ment of this Act [Sept. 30, 1996]. 
+‘‘(b) EARLY COMPLIANCE.—Any person or other entity 
+that is subject to the requirements of this chapter may, 
+at its option, comply with any provision of this chapter 
+before the date on which that provision becomes effec-
+tive under this chapter, in which case, each of the cor-
+responding provisions of this chapter shall be fully ap-
+plicable to such person or entity.’’ 
+
+
+EFFECTIVE DATE OF 1992 AMENDMENT 
+Section 2(d) of Pub. L. 102–537 provided that: ‘‘The 
+amendments made by this section [enacting section 
+1681s–1 of this title and amending this section] shall 
+take effect on January 1, 1993.’’ 
+CONSTRUCTION OF 1996 AMENDMENT 
+Section 2421 of div. A of Pub. L. 104–208 provided that: 
+‘‘Nothing in this chapter [chapter 1 (§§ 2401–2422) of sub-
+title D of title II of div. A of Pub. L. 104–208, see Short 
+Title of 1996 Amendment note set out under section 1601 
+of this title] or the amendments made by this chapter 
+shall be considered to supersede or otherwise affect sec-
+tion 2721 of title 18, United States Code, with respect to 
+motor vehicle records for surveys, marketing, or solici-
+tations.’’ 
+SECTION REFERRED TO IN OTHER SECTIONS 
+This section is referred to in sections 1679b, 1681m, 
+1681t, 1692d, 1692e, 6803, 6806, 6827 of this title; title 12 
+section 2605; title 18 section 1030; title 26 sections 6103, 
+7603; title 31 sections 3701, 3711; title 38 section 5701; 
+title 42 section 666; title 50 section 438. 
+§ 1681b. Permissible purposes of consumer re-
+ports 
+(a) In general 
+Subject to subsection (c) of this section, any 
+consumer reporting agency may furnish a con-
+sumer report under the following circumstances 
+and no other: 
+(1) In response to the order of a court having 
+jurisdiction to issue such an order, or a sub-
+poena issued in connection with proceedings be-
+fore a Federal grand jury. 
+(2) In accordance with the written instructions 
+of the consumer to whom it relates. 
+(3) To a person which it has reason to believe— 
+(A) intends to use the information in con-
+nection with a credit transaction involving 
+the consumer on whom the information is to 
+be furnished and involving the extension of 
+credit to, or review or collection of an account 
+of, the consumer; or 
+(B) intends to use the information for em-
+ployment purposes; or 
+(C) intends to use the information in connec-
+tion with the underwriting of insurance in-
+volving the consumer; or 
+(D) intends to use the information in con-
+nection with a determination of the consum-
+er’s eligibility for a license or other benefit 
+granted by a governmental instrumentality 
+required by law to consider an applicant’s fi-
+nancial responsibility or status; or 
+(E) intends to use the information, as a po-
+tential investor or servicer, or current insurer, 
+in connection with a valuation of, or an as-
+sessment of the credit or prepayment risks as-
+sociated with, an existing credit obligation; or 
+(F) otherwise has a legitimate business need 
+for the information— 
+(i) in connection with a business trans-
+action that is initiated by the consumer; or 
+(ii) to review an account to determine 
+whether the consumer continues to meet the 
+terms of the account. 
+(4) In response to a request by the head of a 
+State or local child support enforcement agency 
+(or a State or local government official author-
+ized by the head of such an agency), if the per-
+son making the request certifies to the con-
+sumer reporting agency that— 
+
+(A) the consumer report is needed for the 
+purpose of establishing an individual’s capac-
+ity to make child support payments or deter-
+mining the appropriate level of such pay-
+ments; 
+(B) the paternity of the consumer for the 
+child to which the obligation relates has been 
+established or acknowledged by the consumer 
+in accordance with State laws under which the 
+obligation arises (if required by those laws); 
+(C) the person has provided at least 10 days’ 
+prior notice to the consumer whose report is 
+requested, by certified or registered mail to 
+the last known address of the consumer, that 
+the report will be requested; and 
+(D) the consumer report will be kept con-
+fidential, will be used solely for a purpose de-
+scribed in subparagraph (A), and will not be 
+used in connection with any other civil, ad-
+ministrative, or criminal proceeding, or for 
+any other purpose. 
+(5) To an agency administering a State plan 
+under section 654 of title 42 for use to set an ini-
+tial or modified child support award. 
+(b) Conditions for furnishing and using con-
+sumer reports for employment purposes 
+(1) Certification from user 
+A consumer reporting agency may furnish a 
+consumer report for employment purposes 
+only if— 
+(A) the person who obtains such report 
+from the agency certifies to the agency 
+that— 
+(i) the person has complied with para-
+graph (2) with respect to the consumer re-
+port, and the person will comply with 
+paragraph (3) with respect to the consumer 
+report if paragraph (3) becomes applicable; 
+and 
+(ii) information from the consumer re-
+port will not be used in violation of any 
+applicable Federal or State equal employ-
+ment opportunity law or regulation; and 
+(B) the consumer reporting agency pro-
+vides with the report, or has previously pro-
+vided, a summary of the consumer’s rights 
+under this subchapter, as prescribed by the 
+Federal Trade Commission under section 
+1681g(c)(3) of this title. 
+(2) Disclosure to consumer 
+(A) In general 
+Except as provided in subparagraph (B), a 
+person may not procure a consumer report, 
+or cause a consumer report to be procured, 
+for employment purposes with respect to 
+any consumer, unless— 
+(i) a clear and conspicuous disclosure has 
+been made in writing to the consumer at 
+any time before the report is procured or 
+caused to be procured, in a document that 
+consists solely of the disclosure, that a 
+consumer report may be obtained for em-
+ployment purposes; and 
+(ii) the consumer has authorized in writ-
+ing (which authorization may be made on 
+the document referred to in clause (i)) the 
+procurement of the report by that person. 

@@ -1,0 +1,11 @@
+# PEOPLE_WHO_CARE local assembly validation
+
+PASS. The initial Record has the four exact opening labels, one final bounded Public Projection and the exact eleven-block order. Internal controlling holdings and public Holdings are identical. Explanation word counts: 227, 181, 95; each is within 350 words. Judgment component support is 9 of nine, with named opposing partitions. The actual public opinion table supplies exactly one counted signed lead, O'Connor.
+
+The fixed form precedes the fresh actual-table count. Eligible common authors: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Common pool: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. Relevant Chief-assigned component pool: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer. The selected author is eligible and within both applicable pools. Last counted event: Missouri Republican Party v. Lamb, 2002-06-27, author Stone-Zsela. The count uses actual Record opinion tables, including earlier same-day Records, without making those decisions entering law.
+
+The full Freeman/Jenkins showing, district causal burden, separate retained-control inquiry, nonobstruction and discretionary partial withdrawal are preserved. Existing findings receive clear-error review; the displaced June 30 direction supplies no dissolution. The circuit anchor is not a historical Supreme Court vote. Thomas did not participate in Freeman, and the Jenkins dissent accepted the complete burden. The initial draft corrected its PLRA precedent date to March 4, 2002 before this acceptance.
+
+The eight independent rows and eight reconciled rows, including applicable historical-departure lines, are exact mechanically copied sections. No Associate commitment changed after reconciliation, no Stone fallback supplied a choice, and no fictitious circulation occurred. Relative links resolve and the public text contains no operator workflow. The exact public-law handoff is copied from the bounded Public Projection and checked for identity. This is local initial validation, not independent fresh review or global integration; no public render or global workspace change is made.
+
+Record SHA-256: `128576efa73e4199e08b896f68eb2450a7516398c7f3568e0704769cb1e11a8b`.

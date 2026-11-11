@@ -1,0 +1,244 @@
+Source: https://ecf.ca8.uscourts.gov/opndir/01/11/001773P.pdf
+
+--- Slip page 1 ---
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT
+___________
+Nos. 00-1773/2686
+___________
+Missouri Republican Party, A Political *
+Party Committee; Pierce for Auditor, *
+A Candidate Committee; Charles A. *
+Pierce; Marc Ellinger; Citizens for *
+Eric Zahnd, A Candidate Committee; *
+Eric Zahnd; Lee R. Keith; Citizens *
+to Elect Mike Reid, A Candidate *
+Committee; Michael J. Reid; and *
+Elaine Tschee Reid, *
+*
+    Appellees/Cross-Appellants, *
+*
+v. * Appeals from the United States
+* District Court for the Eastern
+Charles G. Lamb, In His Official * District of Missouri.
+Capacity as Executive Director of *
+the Missouri Ethics Commission; *
+Robert Gardner, In His Official *
+Capacity as Chair of the Missouri *
+Ethics Commission; Patricia Flood, *
+In Her Official Capacity as Vice-Chair *
+of the Missouri Ethics Commission; *
+Richard Adams, Elaine Spielbusch, *
+Donald Gann, and Mike Greenwell, In * 
+Their Official Capacity as Members *
+of the Missouri Ethics Commission; *
+and Jeremiah W. (Jay) Nixon, In His *
+Official Capacity as Missouri Attorney *
+General, *
+*
+    Appellants/Cross-Appellees. *
+
+--- Slip page 2 ---
+-2-
+___________
+Submitted:  September 10, 2001
+Filed:  November 2, 2001
+___________
+Before BOWMAN, JOHN R. GIBSON, and MORRIS SHEPPARD ARNOLD,
+Circuit Judges.
+___________
+MORRIS SHEPPARD ARNOLD, Circuit Judge.
+This is a suit to enjoin the enforcement of Mo. Rev. Stat. § 130.032.4 and
+§ 130.032.7, which limit the amount of cash and in-kind contributions that political
+parties may make to a candidate for public office, and provide penalties for violating
+the limitations that those statutes set.  The plaintiffs (a political party, candidate
+committees, and candidates for public office) asserted that these statutes violated their
+rights of free speech under the First Amendment.  When the district court refused to
+grant the plaintiffs relief, we reversed and remanded with instructions to the district
+court to enter an injunction.  See Missouri Republican Party v. Lamb, 227 F.3d 1070
+(8th Cir. 2000), cert. granted and opinion vacated sub nom. Nixon v. Missouri
+Republican Party, 121 S. Ct. 2584 (2001) (mem.).  The state of Missouri then sought
+a writ of certiorari from the United States Supreme Court; the Supreme Court granted
+the writ, vacated our judgment, and directed us to reconsider the case in light of
+Federal Election Comm'n v. Colorado Republican Fed. Campaign Comm., 121 S. Ct.
+2351 (2001) ( Colorado II ).  See Nixon , 121 S. Ct. at 2584.  Upon further
+consideration, we affirm the judgment of the district court.
+I.
+In Colorado II, the Court held that political parties' first amendment claims are
+entitled to no higher level of scrutiny than claims advanced by individuals or Political
+
+--- Slip page 3 ---
+-3-
+Action Committees, and that a state may constitutionally limit the amount of money
+that a party spends in coordination with its own candidate.  121 S. Ct. at 2366.  In
+upholding the limitations on party contributions found in 2 U.S.C.A. § 441a(d)(3), the
+Supreme Court held that there was sufficient evidence in the record before it to
+support a legislative judgment that unregulated party contributions served to
+circumvent the contribution limits imposed on individuals set out in 2 U.S.C.
+§ 441a(a).  "What a realist would expect to occur has occurred," the Court said.
+"Donors give to the party with the tacit understanding that the favored candidate will
+benefit."  Id. at 2367.  The Court observed that candidates raise money for parties
+with the understanding that the candidates will receive party support in proportion to
+the amount that they raise and that candidates use the promise of future party support
+as an inducement when soliciting money.  Id. at 2367-68.  The Court further held that
+2 U.S.C. § 441a(a)(8), which provides that contributions that "are in any way
+earmarked or otherwise directed through an intermediary or conduit to [a] candidate"
+are treated as contributions to the candidate, was not so effective a means of
+preventing circumvention that the First Amendment prevented resort to other means
+of prevention.  The Court believed that holding otherwise would ignore "the practical
+difficulty of identifying and directly combating circumvention under actual political
+conditions."  Id. at 2370.  "The earmarking provision," the Court concluded, "would
+reach only the most clumsy attempts to pass contributions through to candidates," and
+thus further regulation was constitutionally justifiable.  Id.
+This aspect of the Supreme Court's ruling in Colorado II  effectively
+undermines our previous conclusion that Missouri's limitations on parties'
+contributions to its candidates were unnecessary and thus unconstitutional because
+Missouri already had a law in place that prohibited earmarking agreements.  See
+Lamb, 227 F.3d at 1073.  The Missouri Republican Party argues vigorously, however,
+that there is no evidence in the present record that parties' contributions are in fact
+being used to circumvent Missouri's limitations on contributions by individuals, and
+that the state has therefore failed to carry its burden to justify the relevant regulation.
+
+--- Slip page 4 ---
+-4-
+We believe, however, that it is not necessary for the state to show that circumvention
+is actually occurring in Missouri, for the factual record developed in Colorado II
+suffices to justify Missouri's conclusion that means other than its earmarking
+prohibition are necessary to prevent circumvention. 
+In a closely analogous situation, the Court ruled that "[t]he First Amendment
+does not require [a legislative body], before enacting ... an ordinance, to conduct new
+studies or produce evidence independent of that already generated by other
+[legislative bodies], so long as whatever evidence the [legislative body] relies upon
+is reasonably believed to be relevant to the problem that the [legislative body]
+addresses."  City of Renton v. Playtime Theatres, Inc. , 475 U.S. 41, 51-52 (1986).
+While the state of Missouri of course did not rely on the evidence produced in
+Colorado II to justify its statute, it makes little constitutional sense to invalidate the
+statute when it would have been perfectly constitutional if it could have been shown
+that the Missouri legislature (in some collective sense?) had passed the statute with
+the proper frame of mind.  In other words, we think that a statute is constitutional if
+there is objective evidence of facts sufficient to render that statute valid, even if those
+facts were not operating subjectively in the minds of the legislators to motivate them
+when they enacted that statute.  Any other rule would prove unworkable because,
+among other things, the minds of legislators are largely unknowable, individual
+legislators have various motives for voting the same way on the same bill, and
+legislative history is nonexistent in many states.  
+In short, we think that the holding in Colorado II establishes as a matter of law
+the constitutionality of the Missouri statutes relevant here.  We note, too, that the
+evidence that the Court relied on in Colorado II  to uphold the federal statute was not
+in existence when FECA was passed: That evidence was produced by the Federal
+Election Commission and was based on its experience under FECA.  This serves to
+bolster our confidence in the view already expressed that no predicate record-making
+
+--- Slip page 5 ---
+-5-
+by the state of Missouri is necessary before the validity of its statute can be
+established.
+Nor can we say that the limits that Missouri has set on political contributions
+by parties, though they are much lower than those upheld in Colorado II, are so low
+that they violate the First Amendment.  The Supreme Court, in Nixon v. Shrink Mo.
+Gov't PAC , 528 U.S. 377, 397 (2000), quite emphatically held that the relevant
+question in the context is whether contribution limits are "so radical in effect as to
+render political association ineffective, drive the sound of a candidate's voice below
+the level of notice, and render contributions pointless."  Nothing in this record would
+indicate to us that these circumstances obtain in the state of Missouri at the present
+time.
+We close our consideration of this aspect of the case with the observation that
+the Missouri Republican Party, in common with other political parties in Missouri,
+continue to have substantial avenues for expressing their support of their candidates
+and for maintaining a political and ideological solidarity with them.  As the Court
+observed in Buckley v. Valeo, 424 U.S. 1, 21 (1976) (per curiam), "[a] limitation on
+the amount of money a person may give to a candidate ... does not in any way infringe
+the contributor's freedom to discuss candidates and issues."  The mode of discussion
+that the party chooses, moreover, may include advertising campaigns designated to
+promote issues and candidates, so long as those campaigns are not coordinated with
+those candidates.  "The independent expression of a political party's views is 'core'
+First Amendment activity no less than is the independent expression of individuals,
+candidates, or other political committees," Colorado Republican Fed. Campaign
+Comm. v. Federal Election Comm'n, 518 U.S. 604, 616 (1996) (opinion of Breyer, J.),
+and it is therefore not subject to limitation.  The Missouri Republican Party may
+"spend money in support of a candidate without legal limit so long as it spends
+independently."  Colorado II, 121 S. Ct. at 2366.
+
+--- Slip page 6 ---
+-6-
+II.
+The Missouri Republican Party asserts that a remand is necessary because the
+district court did not address its claim that its due process rights were violated when
+the Missouri Election Commission (MEC) misled the Party into believing that there
+were no enforceable limits on party contributions.  The Party asserts that the MEC
+told it that its contribution limits were ten times the limits on individual contributions,
+and, the Party claims, this statement led the Party to believe that there were no limits
+on its contributions because at the time that the MEC made the statement the limits
+on individual contributions had been enjoined.  That, the argument runs, the MEC
+was saying that there were no limits on Party contributions because 10 times infinity
+is infinity.
+It is true, as the Party says, that the district court did not address this claim, but
+we think that that was for a good reason: The Party never made this claim below.  Its
+claim, instead, was that the MEC violated due process when it calculated the limits
+on parties' contributions by multiplying the limits on individuals by ten because, in
+Shrink Mo. Gov't PAC v. Adams, 151 F.3d 763 (8th Cir. 1998), we had enjoined the
+enforcement of the statutes that set the limit on individuals.  We see no merit in this
+argument.  We had not enjoined the enforcement of Mo. Rev. Stat. § 130.032.4, the
+statute at issue here, and that statute set limits on parties at a figure that was
+numerically ten times that of the limits on individuals.  The fact that we had declared
+these latter limits unconstitutional had no bearing on the efficacy of the limits on
+parties and no effect on the MEC's right and duty to enforce those limits.  In other
+words, the MEC, pursuant to one statute, set numbers that were ten times the numbers
+that appeared in another statute; the fact that the enforcement of the latter statute had
+been enjoined as unconstitutional cannot furnish the basis for a constitutional claim,
+even if the limit chosen was not in conformity with state law.
+The Party argues, finally, that the district court erred in not addressing its
+contention that the spending limits were being enforced against it in a discriminatory
+
+--- Slip page 7 ---
+1 This may in some sense be a technical matter.  Lifting our injunction would
+not have effect until a mandate issues to the district court below.  But doing so would
+signal more strongly than our present opinion does that there is nothing before us to
+suggest that Missouri’s party contribution limits are other than fully enforceable. 
+-7-
+fashion: The Party maintains that the MEC has ignored violations of contribution
+limits by the Missouri Democratic Party and seven of that party's candidates.  But the
+Party never advanced this contention, either as a claim or as a defense, in the court
+below.  The court was therefore not obligated to deal with it.  We express no view on
+the ultimate merits of any action that the Party might bring in the future for
+discrimination against them in the enforcement of the relevant statutes.
+III.
+For the reasons indicated, the judgment of the district court is affirmed.
+JOHN R. GIBSON, Circuit Judge, concurring in part and dissenting in part.
+I concur with the court’s decision today, with its application of Federal
+Election Commission v. Colorado Republican Federal Campaign Committee , 121
+S.Ct. 2351 (2001) (Colorado II), and with its opinion except for the last sentence of
+Part II.  But in my view the court does not go quite far enough.  Two aspects of the
+court’s decision demonstrate a hesitation to give effect to Missouri’s constitutionally
+valid campaign finance statutes that I think is no longer appropriate. 
+The court should vacate today its injunctive order of July 31, 2000, preventing
+Missouri from enforcing Mo. Rev. Stat. §§ 130.032.4 and 130.032.7 (2000), its
+statutes regulating party contributions to candidates in state elections.  The State has
+requested that our injunctive order be vacated now.  Yet the court today allows the
+order to remain in force despite the destruction of its legal underpinning. 1
+
+--- Slip page 8 ---
+-8-
+Our July 31 order, issued over my dissent, was a one-sentence, summary grant
+of injunction barring enforcement of the party contribution limits pending this appeal.
+This order made no effort to comply with the standards required by the Supreme
+Court in Hilton v. Braunskill , 481 U.S. 770, 776-77 (1987), and applied in our
+decision in Shrink Missouri Government PAC v. Adams, 151 F.3d 763, 764 (8th Cir.
+1998), and numerous other cases, for determining when an injunction pending appeal
+may issue.  
+The Supreme Court’s Colorado II  decision and its order of June 29, 2001
+(which vacated our judgment and opinion of September 11, 2000, instructing the
+district court to enter a permanent injunctive order), returned the case to us for
+reconsideration.  Colorado II drastically altered the legal landscape that confronted
+the court when the original injunction pending appeal was issued.  The court today
+issues an opinion that decides the merits of the case against the Missouri Republican
+Party.  The injunction should therefore be dissolved.  The burden should be on the
+Party to demonstrate, inter alia , a likelihood of success on the merits (the “most
+important” factor in deciding whether an injunction should issue,  Adams, 151 F.3d
+at 764), should it seek to continue the injunction.  
+Finally, the last sentence in Part II of the court’s opinion first speculates on
+what action may be taken in the future in this litigation, and then disclaims any
+decision on it.  This is dictum, and I do not join in it.
+A true copy.
+Attest:
+CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT.

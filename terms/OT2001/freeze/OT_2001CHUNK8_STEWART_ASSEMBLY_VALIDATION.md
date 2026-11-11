@@ -1,0 +1,9 @@
+# STEWART local assembly validation
+
+PASS. The Record has four exact opening labels, one final bounded Public Projection and the exact eleven-block order. Canonical and public controlling holdings are identical. Controlling explanation counts are 209, 171, 147, each within 350 words. The judgment table names nine supporters and no opponent for each disposition component. The opinion table identifies the lead as per curiam and names no Justice as its author; extraction confirms zero signed-lead credits. No assignment count was needed or used to choose the form.
+
+Nine direct joins support all three independence and remedy propositions. The state construction and actual-order examination are distinct; the heightened personal-waiver qualification and assumed direct-review comparison are explicit. Adequacy already accepted below is not affirmatively reopened, valid cause remains unresolved, and no ineffective-assistance merits or automatic hearing follows. The formal decree is reversal with express remand.
+
+Each Associate appears once in the exact independent section and once in the exact reconciliation section; the complete approved Stone section is also an exact mechanical copy. All sixteen Associate rows and the applicable historical-comparison limitations remain. No historical numerical tally or named personal assent is inferred from unsigned texts. No non-Stone commitment changed after reconciliation, no fallback supplied a Stone choice, and no fictional circulation or source-gap default was added. Relative links resolve. The exact public-law handoff is mechanically copied from the bounded Public Projection and checked for identity. No global projection or render was changed.
+
+This is local initial validation, not an independent fresh review or term-wide check. Record SHA-256: `f7a7baa2d86042654af93332533d0837589f5f818fbd69497b70420b13208105`.

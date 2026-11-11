@@ -1,0 +1,886 @@
+{
+  "mode": "FINAL",
+  "new_record_count": 15,
+  "expected_record_count": 15,
+  "checks": {
+    "immutable_baseline": {
+      "entries": 166,
+      "changed": []
+    },
+    "assignment_counts": [
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_ANGLE_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-20",
+        "target_case": "United States v. Angle",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 11,
+          "O'Connor": 11,
+          "Scalia": 11,
+          "Kennedy": 11,
+          "Souter": 11,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 11
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_BEK_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-24",
+        "target_case": "BE&K Construction Co. v. NLRB",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 11,
+          "O'Connor": 11,
+          "Scalia": 11,
+          "Kennedy": 11,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_EARLS_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-27",
+        "target_case": "Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 13
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_HARRIS_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-24",
+        "target_case": "Harris v. United States",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 11,
+          "O'Connor": 12,
+          "Scalia": 11,
+          "Kennedy": 11,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_HOPE_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-27",
+        "target_case": "Hope v. Pelzer",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_LAMB_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-27",
+        "target_case": "Missouri Republican Party v. Lamb",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_PEOPLE_WHO_CARE_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-27",
+        "target_case": "People Who Care v. Rockford Board of Education, School District No. 205",
+        "counts_from_tables": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_RING_ASSIGNMENT_COUNTS.json",
+        "target_date": "2002-06-24",
+        "target_case": "Ring v. Arizona",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 11,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 11,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_RUIZ_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-24",
+        "target_case": "United States v. Ruiz",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_TRANS_UNION_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-24",
+        "target_case": "Trans Union Corp. v. Federal Trade Commission",
+        "counts_from_tables": {
+          "Stone-Zsela": 11,
+          "Stevens": 11,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_WHITE_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-27",
+        "target_case": "Republican Party of Minnesota v. White",
+        "counts_from_tables": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "different_fields": []
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_ZELMAN_ASSIGNMENT_COUNT.json",
+        "target_date": "2002-06-27",
+        "target_case": "Zelman v. Simmons-Harris",
+        "counts_from_tables": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 13,
+          "Scalia": 13,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "different_fields": []
+      }
+    ],
+    "bounded_precedent_layout_chain": {
+      "receipt": "terms/OT2001/freeze/OT_2001CHUNK8_PRECEDENT_LAYOUT_VALIDATION.json",
+      "proposal": "tmp/ot2001_chunk8/precedent_line_replacements.json",
+      "records": [
+        {
+          "record": "terms/OT2001/records/board-of-education-v-earls_merits_2002-06-27.md",
+          "before_sha256": "91ada603f989207a681e6b4619617285f8a5fadbe3d818ef438abf6a9649a88b",
+          "current_sha256": "557a579d837b33b3aa0a738198eb00ea731fa624aa0971b320f02e841b03feb8",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1,
+            1
+          ],
+          "bullet_counts": [
+            7,
+            11
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/harris-v-united-states_merits_2002-06-24.md",
+          "before_sha256": "f504fd092aa641cc6459dafa72cdd7f4117347d7ac5a9da7883d4914ab9da427",
+          "current_sha256": "390f05b0fa1733788aa62ef37c9939d15b32339f90c30e9a322a7e176cb69f8d",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1
+          ],
+          "bullet_counts": [
+            12,
+            14
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/hope-v-pelzer_merits_2002-06-27.md",
+          "before_sha256": "316bf53b1f49e1dd4d35a0d0c7eb02a774bed927fb7f636c25c36f6642b5d2c2",
+          "current_sha256": "26b769eae5b9b311e3d1de1922bf1403db91d6e1b32f813155fa74112b9a727d",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+          ],
+          "bullet_counts": [
+            9,
+            24
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/kirk-v-louisiana_merits_2002-06-24.md",
+          "before_sha256": "46553b3c8a3442f6d7a17224a32fa233de6e26c4684ba79415f14ffe9557ac49",
+          "current_sha256": "80169f3d949a8b569d19578914713ae88b74ec7da7b50408a872768d24660db2",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1
+          ],
+          "bullet_counts": [
+            6,
+            10
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/missouri-republican-party-v-lamb_merits_2002-06-27.md",
+          "before_sha256": "b927f8882bfd1e7cc068a66d441348f6b7f1a55354b18182f3648ed4e2e98bc5",
+          "current_sha256": "5fde795ddbcfb62e30bd7d3d103f5ffe861fe4cb6a7dc6e61edc0d84c0656b2c",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1
+          ],
+          "bullet_counts": [
+            8,
+            9
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/ring-v-arizona_merits_2002-06-24.md",
+          "before_sha256": "13999c933b9f76e292686ed583cd8adc0b519ceedc7a4c5287bacd88b295aa84",
+          "current_sha256": "2623e5b91ad2068f4d7f5f433baa4a66279208e9a0f1c081a55f6baa5d28e6cb",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1
+          ],
+          "bullet_counts": [
+            11,
+            13
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/trans-union-corp-v-ftc_merits_2002-06-24.md",
+          "before_sha256": "4f25724d84f193a32fca408043cc71f130475aaa3ffc8ae049ff18d694f98ed5",
+          "current_sha256": "88cc0aba4df489378a58d6145a9badb7a12f436776bd1fb7a5b4fb112bbe32a5",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1
+          ],
+          "bullet_counts": [
+            8,
+            9
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/united-states-v-angle_merits_2002-06-20.md",
+          "before_sha256": "00f430f3f730ed2e3daf66d79e6d84385b8260598fa6fd6bad11085533ec7d20",
+          "current_sha256": "1b725b17ba1002e019599c8d574544dd95850ca7458bef923d9c68fe988b06d5",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1
+          ],
+          "bullet_counts": [
+            11,
+            12
+          ],
+          "failures": []
+        },
+        {
+          "record": "terms/OT2001/records/united-states-v-ruiz_merits_2002-06-24.md",
+          "before_sha256": "ba8d5929bd421a9914103238fced1d61d8da90dcd2d5362e96b8516c96e2814f",
+          "current_sha256": "76050717ce683aa447252e9cda5a518f70cb14794f7344763986c3a9bb2933e7",
+          "outside_block_bytes_identical": true,
+          "exact_replacement_map_matches": true,
+          "replacement_occurrences": [
+            1,
+            1,
+            1
+          ],
+          "bullet_counts": [
+            8,
+            12
+          ],
+          "failures": []
+        }
+      ],
+      "stage_snapshot_policy": "Earlier per-case, combined, and through-stage copies retain stage-input bytes; no current-Record identity is demanded or asserted for them.",
+      "final_render_input_policy": "Exact identity must use the current Record Public Projection, including the completed treatment layout.",
+      "limitation": "This proves byte boundaries, recorded hashes, exact proposed replacements and bullet counts. It does not assess whether the text changes alter doctrine; the recorded operator review supplies that determination. The receipt's unchanged-file claims outside these nine before/current pairs are not independently reconstructed by this check."
+    },
+    "render_input_identity": {
+      "source_blocks": 15,
+      "checked": true
+    },
+    "holdings_internal_identity": [
+      {
+        "file": "united-states-v-angle_merits_2002-06-20.md",
+        "controlling_holdings": "single-copy incorporation: operator confirmed Public Holdings is the internal controlling section; duplicate text is not required",
+        "incorporation": null
+      },
+      {
+        "file": "bek-construction-co-v-nlrb_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "harris-v-united-states_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Law of the decision",
+        "incorporation": null
+      },
+      {
+        "file": "kirk-v-louisiana_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "ring-v-arizona_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Law of the decision",
+        "incorporation": null
+      },
+      {
+        "file": "trans-union-corp-v-ftc_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "united-states-v-ruiz_merits_2002-06-24.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "board-of-education-v-earls_merits_2002-06-27.md",
+        "controlling_holdings": "explicit single-copy incorporation; Public Holdings is the authoritative controlling section and redundant text is not required",
+        "incorporation": {
+          "paragraph_sha256": "cb17ce404a6de8a92d774a39cd0133c4e71d1a139e0b70c145785ff176a57be1",
+          "evidence": "express incorporation of Public Projection as authoritative controlling holding text"
+        }
+      },
+      {
+        "file": "hope-v-pelzer_merits_2002-06-27.md",
+        "controlling_holdings": "explicit single-copy incorporation; Public Holdings is the authoritative controlling section and redundant text is not required",
+        "incorporation": {
+          "paragraph_sha256": "cb17ce404a6de8a92d774a39cd0133c4e71d1a139e0b70c145785ff176a57be1",
+          "evidence": "express incorporation of Public Projection as authoritative controlling holding text"
+        }
+      },
+      {
+        "file": "missouri-republican-party-v-lamb_merits_2002-06-27.md",
+        "controlling_holdings": "explicit single-copy incorporation; Public Holdings is the authoritative controlling section and redundant text is not required",
+        "incorporation": {
+          "paragraph_sha256": "cb17ce404a6de8a92d774a39cd0133c4e71d1a139e0b70c145785ff176a57be1",
+          "evidence": "express incorporation of Public Projection as authoritative controlling holding text"
+        }
+      },
+      {
+        "file": "people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "republican-party-of-minnesota-v-white_merits_2002-06-27.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "zelman-v-simmons-harris_merits_2002-06-27.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "stewart-v-smith_merits_2002-06-28.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      },
+      {
+        "file": "united-states-v-bass_merits_2002-06-28.md",
+        "controlling_holdings": "exact controlling-holdings text contained in internal section: Controlling holdings",
+        "incorporation": null
+      }
+    ],
+    "links_and_anchors": [
+      {
+        "file": "terms/OT2001/records/united-states-v-angle_merits_2002-06-20.md",
+        "local_links_checked": 8
+      },
+      {
+        "file": "terms/OT2001/records/bek-construction-co-v-nlrb_merits_2002-06-24.md",
+        "local_links_checked": 7
+      },
+      {
+        "file": "terms/OT2001/records/harris-v-united-states_merits_2002-06-24.md",
+        "local_links_checked": 5
+      },
+      {
+        "file": "terms/OT2001/records/kirk-v-louisiana_merits_2002-06-24.md",
+        "local_links_checked": 5
+      },
+      {
+        "file": "terms/OT2001/records/ring-v-arizona_merits_2002-06-24.md",
+        "local_links_checked": 5
+      },
+      {
+        "file": "terms/OT2001/records/trans-union-corp-v-ftc_merits_2002-06-24.md",
+        "local_links_checked": 10
+      },
+      {
+        "file": "terms/OT2001/records/united-states-v-ruiz_merits_2002-06-24.md",
+        "local_links_checked": 6
+      },
+      {
+        "file": "terms/OT2001/records/board-of-education-v-earls_merits_2002-06-27.md",
+        "local_links_checked": 8
+      },
+      {
+        "file": "terms/OT2001/records/hope-v-pelzer_merits_2002-06-27.md",
+        "local_links_checked": 10
+      },
+      {
+        "file": "terms/OT2001/records/missouri-republican-party-v-lamb_merits_2002-06-27.md",
+        "local_links_checked": 8
+      },
+      {
+        "file": "terms/OT2001/records/people-who-care-v-rockford-board-of-education_merits_2002-06-27.md",
+        "local_links_checked": 14
+      },
+      {
+        "file": "terms/OT2001/records/republican-party-of-minnesota-v-white_merits_2002-06-27.md",
+        "local_links_checked": 13
+      },
+      {
+        "file": "terms/OT2001/records/zelman-v-simmons-harris_merits_2002-06-27.md",
+        "local_links_checked": 13
+      },
+      {
+        "file": "terms/OT2001/records/stewart-v-smith_merits_2002-06-28.md",
+        "local_links_checked": 10
+      },
+      {
+        "file": "terms/OT2001/records/united-states-v-bass_merits_2002-06-28.md",
+        "local_links_checked": 10
+      },
+      {
+        "file": "terms/OT2001/render-inputs/OT_2001CHUNK8.md",
+        "local_links_checked": 0
+      }
+    ],
+    "restricted_strings_and_local_links": {
+      "text_files_scanned": 304,
+      "nontext_files_not_decoded": [
+        "terms/OT2001/sources/chunk8-comparator/angle-enbanc.pdf",
+        "terms/OT2001/sources/chunk8-comparator/angle-lower.pdf",
+        "terms/OT2001/sources/chunk8-comparator/bass.pdf",
+        "terms/OT2001/sources/chunk8-comparator/bek.pdf",
+        "terms/OT2001/sources/chunk8-comparator/earls.pdf",
+        "terms/OT2001/sources/chunk8-comparator/harris.pdf",
+        "terms/OT2001/sources/chunk8-comparator/hope.pdf",
+        "terms/OT2001/sources/chunk8-comparator/kirk.pdf",
+        "terms/OT2001/sources/chunk8-comparator/lamb-lower.pdf",
+        "terms/OT2001/sources/chunk8-comparator/people-who-care-ca7-response.bin",
+        "terms/OT2001/sources/chunk8-comparator/people-who-care-ca7.pdf",
+        "terms/OT2001/sources/chunk8-comparator/people-who-care-lower.pdf",
+        "terms/OT2001/sources/chunk8-comparator/ring.pdf",
+        "terms/OT2001/sources/chunk8-comparator/ruiz.pdf",
+        "terms/OT2001/sources/chunk8-comparator/stewart.pdf",
+        "terms/OT2001/sources/chunk8-comparator/trans-union-lower.pdf",
+        "terms/OT2001/sources/chunk8-comparator/white.pdf",
+        "terms/OT2001/sources/chunk8-comparator/zelman.pdf"
+      ]
+    },
+    "copy_receipts": [
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_HARRIS_RING_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "source": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE24_SENTENCING_NEUTRAL_PENDING_ANGLE.md",
+            "digest_matches": [
+              "numbered-packets-trimmed"
+            ],
+            "exact_selected_text_in": [
+              "terms/OT2001/freeze/OT_2001CHUNK8_HARRIS_RING_NEUTRAL.md"
+            ]
+          },
+          {
+            "source": "terms/OT2001/entering-law/OT_2001CHUNK8_JUNE24_SENTENCING_ENTERING_LAW_PENDING_ANGLE.md",
+            "digest_matches": [
+              "trimmed-text",
+              "rstrip-text"
+            ]
+          },
+          {
+            "source": "terms/OT2001/entering-law/OT_2001CHUNK8_ANGLE_PUBLIC_LAW.md",
+            "digest_matches": [
+              "trimmed-text",
+              "rstrip-text"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE24_INDEPENDENT_NEUTRAL_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 111,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 114,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 115,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 116,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE24_NEUTRAL_PENDING_ANGLE_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 111,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 112,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 113,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 114,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 115,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 116,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE24_SENTENCING_NEUTRAL_PENDING_ANGLE_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 112,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 113,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_A_STONE_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 121,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          },
+          {
+            "inventory_row": 118,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          },
+          {
+            "inventory_row": 119,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_B_STONE_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 122,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          },
+          {
+            "inventory_row": 120,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          },
+          {
+            "inventory_row": 117,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section-plus-newline",
+              "rstrip-section-plus-newline"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE27_NEUTRAL_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 117,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 118,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 119,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 120,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 121,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 122,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2001/freeze/OT_2001CHUNK8_JUNE28_NEUTRAL_COPY_RECEIPT.md",
+        "checks": [
+          {
+            "inventory_row": 123,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          },
+          {
+            "inventory_row": 124,
+            "exact_section_present": true,
+            "digest_matches": [
+              "trimmed-section"
+            ]
+          }
+        ]
+      }
+    ],
+    "same_named_runtime_freeze_pairs": [
+      {
+        "file": "OT_2001CHUNK8_ANGLE_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_ANGLE_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_HARRIS_RING_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_HARRIS_RING_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE24_INDEPENDENT_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE24_INDEPENDENT_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE27_A_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE27_B_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE27_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE28_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_JUNE28_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_RECONCILED.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_TRANS_UNION_REFRESHED_COMMITMENTS.md",
+        "normalized_text_identical": true
+      },
+      {
+        "file": "OT_2001CHUNK8_TRANS_UNION_REFRESHED_RECONCILED.md",
+        "normalized_text_identical": true
+      }
+    ],
+    "record_snapshot": {
+      "record_paths": 127,
+      "changed_during_audit": []
+    }
+  },
+  "errors": [],
+  "notes": [],
+  "limitations": [
+    "No legal, vote-intent, joinder-scope, precedent, remedy, or source-sufficiency judgment is made.",
+    "Assignment counts use distinct signed lead authors per merits Record; independently separate lead opinions within one Record need operator confirmation.",
+    "Inline assignment prose is not certified when no supported JSON count artifact exists.",
+    "Remote URLs are not fetched. Fragment checks implement ordinary Markdown heading slugs and explicit HTML anchors.",
+    "Relative links are checked only in new Records and Render Input, not in copied source reading slices whose original link context may differ.",
+    "Text scans cover task scratch, chunk-named term/source artifacts, new Records, and shared workspace projections; unnamed source artifacts outside those paths must be added to the task scope.",
+    "Compressed/binary document text is not decoded; companion extracted text must be checked separately.",
+    "Copy receipts certify reproducible text or byte hashes and exact section presence only; they do not prove semantic stage isolation or availability at an earlier time.",
+    "Earlier stage snapshots are not required to equal later presentation-only Record layouts. The bounded layout hash chain is checked separately; final Render Input must equal current Records.",
+    "Repository-history operations and commit-existence checks are deliberately absent."
+  ],
+  "status": "PASS"
+}
