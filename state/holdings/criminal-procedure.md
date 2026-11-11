@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Criminal Procedure
 
@@ -3944,6 +3944,8 @@ Almendarez-Torres supplies the statutory aggravated-element and charging analogu
 
 **Proposition-level authority:** Part III of Thomas's opinion controls through seven direct joins: Thomas, Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, and Breyer. Scalia and Ginsburg do not join its classification and broader inference method; their actual-equivalent-findings approach remains separate.
 
+**Later-authority backlinks:** Ring v. Arizona, June 24, 2002, extends the qualified actual-verdict inquiry to its omitted statutory death-eligibility finding. The State bears the beyond-reasonable-doubt noncontribution burden, with actual-instruction, evidentiary-conflict and reliable-adjudication limits; this extension establishes no universal omitted-element or sentencing-error rule.
+
 ##### IV. The tax verdicts satisfy that inquiry on this charge and record
 
 **Holding:** The Government has established beyond a reasonable doubt that the materiality error did not contribute to the guilty verdicts on tax counts 86 and 87, because the actual charge and verdict establish the knowing, purposeful falsity of the specified annual-income totals and supply a reliable connection to those statements' role in administering the returns. The judgment sustaining those convictions is affirmed against the preserved instructional challenge; a generic false-return verdict or strong evidence alone does not establish the same result in another case.
@@ -4960,3 +4962,163 @@ For the distinct limits and surviving discretion under section 882(a), see Feder
 - Wisconsin Department of Revenue v. William Wrigley, Jr., Co.: its background triviality principle yields to the compact's contrary express command.
 - New York v. Hill: preserved at its actual authorized, express scheduling-agreement scope; it establishes no waiver of antishuttling protection from silence or perceived benefit.
 - Reed v. Farley: preserved as a collateral-review threshold and distinguished from direct enforcement of the compact's remedy.
+
+### Forfeited plea-colloquy error and the appellate record
+
+#### United States v. Vonn, 535 U.S. 55
+
+**Docket or dockets:** No. 00-973.
+
+**Decided:** March 4, 2002.
+
+##### I. Forfeited Rule 11 error is governed by Rule 52(b)
+
+**Holding:** A defendant who forfeits a Rule 11 objection must satisfy Rule 52(b): there must be error that is plain and affects substantial rights, ordinarily with the defendant bearing the effect burden, and correction remains discretionary only when the error seriously affects the fairness, integrity or public reputation of judicial proceedings. Rule 11(h) does not exempt this plea-taking omission from ordinary forfeiture review; intentional waiver remains distinct.
+
+**Proposition-level authority:** Part I of O'Connor's opinion has the direct support of Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Those eight votes control; Stevens dissents from this rule.
+
+**Limits and questions not reached:** The omitted personal warning remains error despite counsel's presence and the prosecutor's intervention. An objection directed to a different plea-withdrawal issue did not preserve this omission. Substantial-rights effect does not alone require correction, and actual innocence is not an additional prerequisite. The case concerns direct review of this forfeited rule violation, not every constitutional plea defect or collateral remedy.
+
+**Treatment of earlier authority:**
+
+- United States v. Olano: applied to Rule 11 forfeiture with its usual substantial-rights burden and independent discretionary condition; no automatic reversal, innocence requirement or comprehensive resolution of its reserved categories follows.
+- Johnson v. United States: applied at its actual forfeiture and discretionary-correction scope; its particular intervening-law application becomes no general guilt-based exception.
+- McCarthy v. United States: its mandatory personal-colloquy principle remains, while the later Rule 11(h) text precludes importing its automatic-reversal consequence into the present rules.
+- United States v. Young, 470 U.S. 1: applied to relevant whole-record review of the error's effect, not as permission to omit the required warning.
+- Boykin v. Alabama: its constitutional plea requirements remain distinct; this decision supplies no general constitutional-invalidity or collateral-review rule.
+
+##### II. Relevant portions of the existing record inform the error's effect
+
+**Holding:** In assessing the effect of the Rule 11 omission on substantial rights, a reviewing court may consider relevant information throughout the existing record, including earlier judicial rights advisements. Such information bears on actual understanding and effect; it neither cures the judge's omitted personal warning nor conclusively establishes understanding from representation or a signed form alone.
+
+**Proposition-level authority:** All nine Justices join Part II of O'Connor's opinion, giving direct unanimous authority independent of the division over burdens.
+
+**Material application:** The magistrate's two earlier counsel-right advisements and acknowledgments may inform understanding, subject to their content, timing and demonstrated comprehension. Representation or a signed form is not a conclusive substitute for the judge's personal duty.
+
+**Treatment of earlier authority:**
+
+- United States v. Olano: applied to Rule 11 forfeiture with its usual substantial-rights burden and independent discretionary condition; no automatic reversal, innocence requirement or comprehensive resolution of its reserved categories follows.
+- Johnson v. United States: applied at its actual forfeiture and discretionary-correction scope; its particular intervening-law application becomes no general guilt-based exception.
+- McCarthy v. United States: its mandatory personal-colloquy principle remains, while the later Rule 11(h) text precludes importing its automatic-reversal consequence into the present rules.
+- United States v. Young, 470 U.S. 1: applied to relevant whole-record review of the error's effect, not as permission to omit the required warning.
+- Boykin v. Alabama: its constitutional plea requirements remain distinct; this decision supplies no general constitutional-invalidity or collateral-review rule.
+
+##### III. The proper framework must first be applied below
+
+**Holding:** The Ninth Circuit's use of the wrong burden and its exclusion of relevant existing-record material require vacatur and remand. That court must apply all four Rule 52(b) conditions, including record-specific effect and the independent basis for discretionary correction, before deciding the appropriate appellate relief.
+
+**Proposition-level authority:** Part III of O'Connor's opinion has the same eight-Justice coalition as Part I. Stevens agrees with vacatur and remand for whole-record consideration but would apply the Government's harmlessness burden.
+
+**Limits and questions not reached:** The perjury-warning contention remains for its proper procedural treatment because it was unresolved below and outside the reviewed questions.
+
+**Operative remedy or transition:** The appellate judgment is vacated unanimously; eight Justices require application of all four Rule 52(b) conditions. The mandate neither conclusively reinstates the convictions nor authorizes plea withdrawal without that inquiry.
+
+### Conflicted counsel and the duty to inquire
+
+#### Mickens v. Taylor, 535 U.S. 162
+
+**Docket or dockets:** No. 00-9285.
+**Decided:** March 27, 2002.
+
+##### An omitted inquiry does not itself establish the adverse effect necessary here
+
+**Holding:** Outside the established circumstances requiring automatic relief, a trial court's failure to inquire into a particular potential conflict it knew or reasonably should have known about does not itself establish a Sixth Amendment violation. A defendant invoking the conflict-based relaxation of ordinary outcome prejudice must at least show that competing obligations adversely affected counsel's performance; that showing is different from proving a reasonable probability of a different verdict under Strickland.
+
+**Proposition-level authority:** Justice Kennedy's Opinion of the Court is joined in full by Chief Justice Stone-Zsela and Justices O'Connor, Scalia and Thomas. Those five directly adopt the rule, the confined application and affirmance. The four dissenters support a new trial on distinct grounds and do not establish a common alternative holding.
+
+**Limits and questions not reached:** Automatic relief under Holloway remains available for compelled conflicted joint representation after an adequate timely objection. Wood supplies no actual-conflict-only exemption from adverse effect here, and Cronic's exceptional loss-of-assistance conditions are not established by the omitted inquiry. The Court assumes Sullivan applies to this successive representation without deciding its application to every successive-representation category. Post-death confidentiality survives, but proves neither a particular confidence nor impaired performance. The separate factual challenge to the federal hearing's no-adverse-effect finding is outside the grant.
+
+**Operative remedy or transition:** Denial of habeas relief is affirmed on the reviewed conflict claim. The conviction and sentence stand; omitted inquiry alone requires neither a new trial nor another conflict hearing.
+
+**Treatment of earlier authority:**
+
+- **Holloway v. Arkansas, 435 U.S. 475:** Preserved for compelled joint representation over an adequate timely objection; its automatic remedy is not extended solely because the judge knew a potential conflict.
+- **Cuyler v. Sullivan, 446 U.S. 335:** Applied on the assumption favorable to Mickens that its relaxed-prejudice route is available; an actual conflict adversely affecting performance remains necessary here, without additional ordinary outcome prejudice.
+- **Wood v. Georgia, 450 U.S. 261:** Its inquiry obligation and actual-conflict requirement do not establish the proposed separate exemption from adverse effect in this setting.
+- **Strickland v. Washington, 466 U.S. 668:** Ordinary outcome prejudice remains distinct from the adverse-effect requirement under an applicable conflict exception.
+- **United States v. Cronic, 466 U.S. 648:** Its exceptional presumed-prejudice circumstances are not established merely by this unperformed inquiry.
+- **Swidler & Berlin v. United States:** Post-death confidentiality remains; its survival proves neither a particular confidence nor impairment of this defense.
+- **Both Williams v. Taylor decisions:** Constitutional entitlement, concealed-fact cause, factual development and state-merits review remain distinct; the federal hearing does not supply a state merits adjudication.
+
+#### United States v. Emerson, judgment below 270 F.3d 203
+
+**Docket or dockets:** Fifth Circuit No. 99-10331; no Supreme Court docket is established.
+**Decided:** 2002-06-17.
+
+For individual arms coverage, §922(g)(8)’s complete order predicates and this protective-adjudication application in United States v. Emerson, Fifth Circuit No. 99-10331, decided June 17, 2002, see Civil Rights — This protective adjudication supports the possession disability.
+
+##### The asserted ignorance-of-law ground does not support dismissal
+
+**Holding:** The Fifth Amendment does not require dismissal of this possession charge for lack of fair warning where the defendant previously signed a federal form specifically identifying the restraining-order disability, later knew of the operative order and its contents, and allegedly continued possessing the firearm more than sixty days after the order. The earlier warning is a concrete circumstance prompting inquiry, not conclusive proof of later recollection or a substitute for the Government's proof of every enacted offense element.
+
+**Proposition-level authority:** Souter's Part IV, joined by all seven other Associate Justices; eight direct rationale votes. Stone-Zsela agrees only with reversal of this dismissal ground.
+
+**Limits and questions not reached:** The signed purchase-form answer was correct when made before the injunction. This earlier warning and later knowledge of the order distinguish the asserted blanket ignorance-of-law defense; the divorce judge’s failure to add a warning is not dispositive. The ruling does not establish guilt, universal knowledge of the particular law, or satisfaction of any factual-knowledge element.
+
+**Operative remedy or transition:** Affirm reversal of the Fifth Amendment fair-warning dismissal unanimously. The single remaining count is returned for ordinary prosecution; dismissed counts are not revived.
+
+**Treatment of earlier authority:** Lambert is distinguished by the specific warning and known operative order; Staples and Bryan retain their offense-specific mental-state rules.
+
+#### United States v. Ruiz, 536 U.S. 622
+
+**Docket or dockets:** No. 01-595.
+**Decided:** June 24, 2002.
+
+##### The Constitution does not require advance impeachment disclosure for this plea agreement
+
+**Holding:** The Constitution does not require the Government to provide material impeachment information concerning informants or other witnesses before entering the plea agreement presented here. A competent defendant must actually understand the right relinquished, the charge and the constitutionally relevant consequences and act voluntarily; that requirement does not guarantee advance knowledge of every witness weakness or every fact useful to counsel's assessment.
+
+**Proposition-level authority:** Part II of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+
+**Limits and questions not reached:** The agreement’s continuing factual-innocence promise and ordinary plea safeguards form part of the setting, without proof of compliance or an automatic cure. The holding does not decide a supported claim of actual deception, ineffective assistance or an uninformed plea.
+
+**Treatment of earlier authority:** Brady v. Maryland, Bagley and Kyles retain their fair-trial disclosure protections, including combined preparation and impeachment uses and case-team responsibility; they do not establish this categorical preagreement timing duty. Strickler’s suppression and retrospective materiality inquiries remain distinct. Brady v. United States permits a knowing voluntary choice despite evidentiary uncertainty. Boykin, Godinez and Bousley preserve actual informed choice, competence and knowledge of the offense. Vonn’s separate judicial warning duties remain, without a finding of forfeiture here.
+
+##### The separate affirmative-defense term is not categorically invalid in this agreement
+
+**Holding:** In the context of the presented agreement, including its continuing promise to disclose information establishing factual innocence, the Constitution does not require advance provision of the identified affirmative-defense information as a prerequisite to the plea bargain. Affirmative-defense information is not equated with impeachment or factual innocence, and the holding does not decide a proved concealed dispositive defense, false representation, factual-innocence suppression, defective advice or an actual uninformed plea.
+
+**Proposition-level authority:** Part III of Breyer’s opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter and Ginsburg: seven direct rationale votes.
+
+**Limits and questions not reached:** A complete affirmative defense may matter despite admitted conduct and may lie outside the factual-innocence promise. The categorical timing claim fails on its merits; absence of a specific withheld item is not an independent holding that an unlawful bargaining condition cannot cause injury.
+
+The sentence-review and operative disposition holdings in United States v. Ruiz, No. 01-595, decided June 24, 2002, appear under Criminal Procedure: Sentencing and Capital Punishment.
+
+#### United States v. Bass, 536 U.S. 862
+
+**Docket or dockets:** No. 01-1471.
+**Decided:** June 28, 2002.
+
+##### Armstrong's confined Rule 16 source holding governs this request
+
+**Holding:** Rule 16(a)(1)(C)'s defense-preparation materiality branch does not authorize discovery to prepare this selective-prosecution challenge to the decision to prosecute; Armstrong's holding remains confined to that claim rather than every affirmative defense unrelated to guilt. The distinct intended-use and defendant-origin branches are not established on this record, and protective or sanction powers cannot create an otherwise missing disclosure duty.
+
+**Proposition-level authority:** Part I of the Court's per curiam opinion has six direct joins: O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg. Stone-Zsela and Breyer join only Parts II–III; Stevens concurs in the judgment on his separate ground.
+
+**Limits and questions not reached:** No alternative discovery source is categorically rejected or established. The following distinct Rule 16 triggers, exclusions and protections retain their own operation.
+
+Rule 16(a)(1)(C) concerns books, papers, documents, photographs, tangible objects, buildings or places within the Government's possession, custody or control. On a defendant's request, inspection and copying or photographing depend on one of three alternatives: materiality to preparation of the defense, intended use by the Government in its evidence in chief, or acquisition from or ownership by the defendant. Those triggers remain distinct.
+
+Paragraph (a)(2) excludes internal attorney or agent reports, memoranda and other Government documents connected with investigation or prosecution, except the disclosures provided by (a)(1)(A), (B), (D) and (E) concerning defendant statements, prior criminal records, examinations and tests, and expert testimony. Government witness statements are separately governed by 18 U.S.C. §3500; no witness-statement production question is resolved here. Paragraph (a)(3) preserves the separate grand-jury disclosure provisions of Rules 6, 12(i), 26.2 and (a)(1)(A). No grand-jury exception is invoked as the source here, and none is decided. These provisions do not establish that every requested aggregate, criterion or deliberative document belongs to the same category.
+
+Rule 16(d)(1) permits protective relief on sufficient showing, including an ex parte written showing whose full text must be sealed and preserved if relief is granted. Paragraph (d)(2) permits discovery, a continuance, exclusion and other just responses to noncompliance. These powers regulate an existing obligation; their existence is not a finding that a duty, exception, privilege or sanction predicate is established here.
+
+**Treatment of earlier authority:** Armstrong’s confined defense-preparation construction governs this selection challenge, without excluding every affirmative defense unrelated to guilt. The other two disclosure branches are not established; protective and sanction powers regulate a duty rather than create it.
+
+**Independent alternative holding:** Before obtaining discovery on this indirect racial-selection theory under an available lawful source, a defendant must present some credible evidence tending to show discriminatory effect and purpose, including a reliable inference of different treatment of relevantly similarly situated persons of another race at the challenged federal selection stage; this is less than a prima facie merits case. Grounded statistics, circumstantial comparisons and a specifically justified alternative when comparator names cannot reasonably be obtained may suffice without perfect identity, universal naming or a fixed matching checklist, but Bass's aggregate charging and completed-plea figures lack the required effect comparison.
+
+**Proposition-level authority for alternative holding:** Part II has eight direct joins: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stevens agrees that the present order fails through his distinct supported-pattern and bounded-discretion analysis, not by joining this entire rationale.
+
+**Limits, remedy, transition, or precedent treatment:** The effect defect independently defeats the present order; no separate purpose deficiency or ultimate finding of neutrality or discrimination is made. Local capital-eligible charging and national death authorization are distinct stages, and no local-only evidence rule follows. Completed plea figures combine offers and acceptance; Bass received and rejected an offer, without a finding of equal terms. Information asymmetry does not establish a missing comparative inference. Direct discriminatory admissions and whether they dispense with comparators remain undecided. Armstrong, Kimberlin and Klinger preserve attainable, grounded statistical or circumstantial comparisons without perfect identity or universal naming. Wayte and Wade preserve meaningful preliminary screening, not a completed-merits burden. McCleskey requires connection to the challenged decision without excluding statistics; Yick Wo preserves supported pattern inference. Brown v. City of Oneonta’s police-classification rule supplies no missing selection-discovery source or inference.
+
+##### The unsupported order cannot sustain its dependent death-notice sanction
+
+**Holding:** The Sixth Circuit's judgment sustaining the discovery order is reversed, and the refusal-based exclusion of the death notice loses its unsupported predicate and must be set aside. Ordinary pretrial proceedings continue; a later request remains possible only under an available lawful source, a sufficiently grounded preliminary showing and warranted proportionate protective conditions, without any directed new inquiry.
+
+**Proposition-level authority:** Part III of the per curiam opinion, joined by Stone-Zsela, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stevens agrees the dependent sanction falls on his distinct judgment ground.
+
+**Limits and questions not reached:** The proper sanction for refusing a valid discovery order and relief for proved discrimination are not decided. Restoring the ability to proceed with the notice resolves no guilt, capital-eligibility, punishment or execution question.
+
+**Operative remedy or transition:** Reverse the judgment sustaining the present order and set aside its dependent death-notice exclusion, 9–0. No evidence collection or hearing is directed; any different later request requires its own lawful source, sufficient foundation and appropriate protections.
+
+**Treatment of earlier authority:** Armstrong’s dependent-sanction and ordinary-proceeding principles apply. Carlisle confines supervision to governing legal authority; neither creates a disclosure duty or immunity from constitutional scrutiny.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Antitrust
 
@@ -467,3 +467,30 @@ For the RICO and fund-property holdings in Steamfitters, January 10, 2000, Third
 - California Dental Association v. Federal Trade Commission: applies restraint-specific consideration of effects and substantial explanations; no automatic full-market study or motive-only test follows.
 - NYNEX Corp. v. Discon, Inc.: preserves the distinction between injury to one supplier and injury to the competitive process; its section 1 categories are not converted into a new section 2 exemption.
 - Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc.: preserves the independent antitrust-injury requirement.
+
+### Platform and browser tying under the rule of reason
+
+#### United States v. Microsoft Corp.
+
+**Docket or dockets:** Lower-court Nos. 00-5212 and 00-5213; no Supreme Court docket supplied.
+**Decided:** 2002-01-22.
+
+For the recusal violation and civil relief in United States v. Microsoft Corp., January 22, 2002, lower-court Nos. 00-5212 and 00-5213, see Federal Courts: Immunities and Remedies — Civil relief after an appearance-of-impartiality violation.
+
+##### Competitive inquiry for the challenged Windows–Internet Explorer combination
+
+**Holding:** The challenged combination of a principal platform for third-party applications and complementary browser functionality, including its contractual and removal restrictions, must be evaluated under the rule of reason because the existing per se tying category does not reliably resolve the material integration and competitive questions presented. Courts must examine separate demand, conditioning, power, foreclosure and supported efficiencies for the actual restrictions; integration supplies neither immunity nor a presumption of justification, and an adequately supported inquiry may be abbreviated rather than invariably requiring a comprehensive market study.
+
+**Proposition-level authority:** Part I of Stone-Zsela's opinion has eight votes: Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stevens does not join the uniform category direction.
+
+**Operative remedy or transition:** OEM nonremoval restrictions and omission from the removal utility remain possible tying theories, with any additional relief separately justified. Plaintiffs may test the default-browser override's distinct browser-market effect despite rejection of its section 2 ground on the earlier record. Price bundling requires resolution of a positive browser-attributable price increment, including conflicting competitor-discount evidence, before weighing effects and benefits. Commingled code is not added as an independent trial tying basis. The attempted-monopolization reversal remains: plaintiffs may not renew tying theories dependent on a precise browser-market definition or independent entry barriers they failed to establish for that claim, apart from matters implicit in the tying arrangement itself. That restriction preserves this case's mandate rather than creating a universal antitrust rule.
+
+**Material application:** Benefits must be substantiated for each challenged restriction. Plaintiffs must establish net anticompetitive effect in browser competition; operating-system injury under section 2 does not itself establish section 1 browser injury. Useful application interfaces need not justify compulsory retention of the whole browser.
+
+**Treatment of earlier authority:**
+
+- Jefferson Parish Hospital District No. 2 v. Hyde, 466 U.S. 2: retains the independent-demand and ordinary tying elements; its categorical inference is distinguished for the platform combination presented.
+- Eastman Kodak Co. v. Image Technical Services (June 8, 1992): preserves evidence-based separate demand and rejection of categorical economic assumptions; the present decision grants no integration immunity or final liability finding.
+- California Dental Association v. FTC (May 24, 1999): applies its proportionate competitive inquiry and requirement to test a material explanation; no universal full-market study is imposed.
+- State Oil Co. v. Khan (November 4, 1997): applies its category-fit principle without extending its separate vertical maximum-price holding.
+- NYNEX Corp. v. Discon (December 14, 1998): applies its requirement to examine the actual competitive mechanism rather than extend a per se category by label.

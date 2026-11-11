@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Constitutional Structure
 
@@ -3658,3 +3658,129 @@ Kansas v. Colorado, May 15, 1995, is preserved: its pumping-liability and histor
 **Limits and questions not reached:** The binding component result creates no universal notice prerequisite. The Master's 1969 commencement is administered without inventing a day; December 16, 1985 is the initiating-request date, not January 1 or the later grant of leave. Ordinary postjudgment interest is outside these exceptions.
 
 **Operative remedy or transition:** The Master must calculate supported historical-dollar losses, conceded appropriate inflation and additional interest under the adopted method and periods, then prepare the judgment. No final amount, private distribution, new water-delivery requirement or revised Compact allocation is entered. Settled liability and the adopted component rules are not reopened.
+
+### False Claims Act relators and executive responsibility
+
+#### Riley v. St. Luke's Episcopal Hospital
+
+**Docket or dockets:** No Supreme Court docket supplied.
+**Decided:** 2002-01-09.
+
+##### Nonintervened prosecution of the partially assigned federal claim under the Take Care Clause
+
+**Holding:** A relator may prosecute the False Claims Act's partially assigned federal pecuniary claim after initial governmental declination without violating the Take Care Clause, where the relator has the Act's case-specific claimant role and the government retains the actual intervention, dismissal, settlement, participation, discovery and alternate-remedy powers with the qualifications set out below. The holding rests on that combined structure, not a general authority to transfer executive functions to private persons, and initial declination does not constitute approval of every later litigating act.
+
+**Proposition-level authority:** Justice Breyer's opinion, joined throughout by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Kennedy, Souter and Ginsburg, supplies seven direct votes for both constitutional holdings and their limits.
+
+**Material statutory qualifications:**
+
+| Provision | Governmental power and controlling qualification |
+|---|---|
+| Section 3730(b)(1) | Voluntary dismissal requires written consent and reasons from both the court and the Attorney General. |
+| Sections 3730(b)(2)–(4) | The complaint and written disclosure of substantially all material evidence and information possessed by the relator must reach the government. The complaint is filed in camera, remains sealed for at least sixty days, and is served on the defendant only when the court orders. The government may elect intervention within sixty days after receiving both the complaint and the material evidence and information; good cause supports extensions of the seal period. Before that period or an extension expires, the government must proceed and conduct the action or notify the court of declination, allowing the relator to conduct it. |
+| Section 3730(c)(1) | If the government proceeds, it has primary responsibility and is not bound by the relator's acts; the relator remains a party subject to subsection (c)(2)'s particular limits. |
+| Section 3730(c)(2)(A) | The government may dismiss over the relator's objection after notifying the relator of its motion and providing an opportunity for a hearing. The settlement standard in subparagraph (B) is not the dismissal standard. |
+| Section 3730(c)(2)(B) | Settlement over objection requires a hearing and the court's determination that the settlement is fair, adequate and reasonable under all the circumstances. Good cause permits an in-camera hearing. |
+| Section 3730(c)(2)(C) | Upon the government's showing that unrestricted relator participation would interfere with or unduly delay its prosecution, or would be repetitious, irrelevant or for harassment, the court may in its discretion limit participation, including witness numbers, testimony length or cross-examination. |
+| Section 3730(c)(2)(D) | On a defendant's distinct showing that unrestricted participation would be for harassment or cause undue burden or unnecessary expense, the court may limit the relator's participation. |
+| Section 3730(c)(3) | After declination, the relator conducts the case. At the government's request it receives all pleadings and deposition transcripts, with transcripts at its expense. The court may allow later government intervention for good cause without limiting the relator's status and rights. |
+| Section 3730(c)(4) | Whether or not the government proceeds, an in-camera showing that particular discovery would interfere with a criminal or civil investigation or prosecution arising from the same facts permits a stay of that discovery for no more than sixty days. An extension requires a further in-camera showing of reasonable diligence in the governmental investigation or proceedings and interference from the proposed discovery. This is not an indefinite stay of the whole case for any policy reason. |
+| Section 3730(c)(5) | The government may pursue an available alternate remedy, including administrative civil penalties, while preserving the relator's same rights in that proceeding. Findings or conclusions bind parties to the section 3730 action when finally determined on appeal to the appropriate federal court, when the time for such appeal expires, or when judicial review is unavailable. |
+
+**Limits and questions not reached:** No supported governmental dismissal, settlement, discovery or intervention request has been refused in this case. An actual judicial override of such a request remains for a record presenting it. Assigned financial injury supplies Article III standing but does not itself resolve either Article II question.
+
+**Treatment of earlier authority:**
+
+- **Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 U.S. 765:** Reaffirmed for assigned-claim standing and its distinct sovereign-State defendant limit; its express Article II reservation is resolved here for the bounded FCA mechanism, not retroactively attributed to that earlier judgment.
+- **Morrison v. Olson, 487 U.S. 654:** Applied for the executive-interference inquiry and the distinction between a limited-duration public office and this claimant; its independent-counsel arrangement is not made a universal control checklist.
+
+##### Whether the case-specific relator occupies an office requiring constitutional appointment
+
+**Holding:** A relator enforcing this partially assigned pecuniary claim under the False Claims Act is a private claimant with a defined litigation role, not the occupant of a continuing federal office requiring appointment under the Appointments Clause. The distinction turns on the position and actual functions: it is not established merely by the absence of salary, formal title, appointment or final adjudicative power, and it authorizes no private criminal prosecution, rulemaking or unrestricted sovereign coercive power.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg: seven Justices.
+
+**Operative remedy or transition:** Both Article II dismissal theories are rejected, preserving the Fifth Circuit's reversal of dismissal and ordinary merits remand. Appellate defense of the statute does not make the government a merits intervenor. Fraud, statutory defendant coverage and ordinary defenses remain unadjudicated; Vermont Agency's sovereign-State defendant limit survives.
+
+**Treatment of earlier authority:**
+
+- **Freytag v. Commissioner, 501 U.S. 868:** Applied for the actual statutory position and significant-duty inquiry; no salary or final-decision shortcut replaces it.
+- **Edmond v. United States, May 19, 1997:** Its actual combined-hierarchy approach to existing offices is preserved; the present threshold inquiry distinguishes a claimant from such an office.
+- **United States v. Hilario, March 19, 2001:** Its combined-control and actual-office inquiries remain in force; a judicially appointed United States Attorney is not equated with a private assignee.
+- **Landry v. FDIC, June 15, 2001:** Its continuing-office and significant-hearing-duty rule is preserved, including the rejection of final-order authority as indispensable; this civil claimant does not occupy that kind of position.
+
+### Legislative changes to prospective prison decrees
+
+#### Ruiz v. United States (Ruiz v. Johnson)
+
+**Docket or dockets:** Fifth Circuit No. 99-20228; reviewed judgment, 243 F.3d 941; no Supreme Court docket supplied.
+
+**Decided:** March 4, 2002.
+
+For *Ruiz v. United States (Ruiz v. Johnson)*, March 4, 2002, Fifth Circuit No. 99-20228, termination predicates, preservation findings and the bounded mandate appear under Federal Courts: Immunities and Remedies — PLRA termination and retention of prison relief.
+
+##### Congress may change the standards for future prison relief
+
+**Holding:** The PLRA may condition continued prospective prison relief on its termination and preservation criteria without reopening accrued damages or directing a finding that prison conditions are lawful. The State's consent to an earlier decree, and the prisoners' compromise in obtaining it, do not by themselves estop the State from invoking the later statute or create a vested right to unchanged future enforcement; courts must still afford a meaningful opportunity to present necessary proof and decide the statutory case.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** A concrete denial of a necessary material presentation remains subject to due-process review. A fifty-hour hearing allocation alone establishes none without identification of the excluded necessary proof and its consequence. No distinct promise never to invoke later law or independent accrued claim is established. The decision does not adopt a rule that prospective relief can never implicate due process.
+
+**Treatment of earlier authority:**
+
+Plyler v. Moore is applied to conditional prospective termination and the original statutory framework; its original-text treatment does not replace the later current-and-ongoing requirement.
+
+Inmates of Suffolk County Jail v. Rouse is applied to substantive original findings, bounded due process and the absence of an automatic hearing requirement; its factual and statutory predicates remain necessary.
+
+Benjamin v. Jacobson is applied to an actual opportunity for necessary current proof and the judicial termination inquiry; no proof-refusal finding is inferred merely from a hearing limit.
+
+Gavin v. Branstad and Hadix v. Johnson are applied to actual preservation findings and the failure of a contract label automatically to continue judicial duties; their conditional-remedy holdings remain in force.
+
+Robertson v. Seattle Audubon Society is applied to changed governing law that leaves adjudication to courts; no result under unchanged law is legislatively commanded here.
+
+Miller v. French is distinguished because its automatic-stay provision does not decide the separate termination inquiry or supply a stay in this case.
+
+### Congressional guidance for interstate air-pollution implementation
+
+#### Michigan v. Environmental Protection Agency
+
+**Docket or dockets:** Supreme Court docket not supplied; judgment below, 213 F.3d 663 (D.C. Cir. 2000).
+**Decided:** April 23, 2002.
+
+For the cost-permission and state-selection holdings in Michigan v. Environmental Protection Agency, April 23, 2002, judgment below 213 F.3d 663, see Environmental Law — Interstate air-pollution budgets and state implementation choice.
+
+##### Congress supplied the guidance; agency self-restraint supplies none
+
+**Holding:** The interstate provision constitutionally guides the authorized implementation judgment through identified pollutants, a demonstrated interstate relationship, downwind national-standard nonattainment or maintenance, significant-contribution limits and defined plan-adequacy/correction functions. EPA's present geographic restraint or chosen cost ceiling cannot cure a delegation lacking adequate congressional guidance.
+
+**Proposition-level authority:** Part III is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. These seven directly support constitutional sufficiency and the no-agency-cure application. Scalia and Thomas do not reach this issue.
+
+**Limits and questions not reached:** Section 110(k)(5) requires a revision necessary to correct substantial inadequacy, public findings and notice. EPA may set a reasonable submission deadline within eighteen months after notice, apply appropriate original-plan requirements and adjust applicable dates except an unelapsed Part D attainment date. Section 301 supplies no authority to replace Congress's objective. Ordinary review of an unexplained figure remains distinct from delegation sufficiency.
+
+**Operative remedy or transition:** Rejection of the categorical constitutional challenge is affirmed; the lower court's confined-exercise rationale cannot independently repair inadequate congressional guidance.
+
+**Treatment of earlier authority:**
+
+- **Whitman v. American Trucking Associations, Inc.:** Section 109's exclusion of implementation cost remains; the distinct §110 implementation question is resolved on its own text. Congress's guidance requirement and the independent no-agency-cure rule govern the constitutional analysis.
+
+### Commerce power and interstate child-support obligations
+
+#### United States v. Faasse
+
+**Docket or dockets:** Review of 265 F.3d 475 (Sixth Circuit en banc); no Supreme Court docket is supplied.
+**Decided:** June 10, 2002
+
+##### Whether Congress may punish the original Act's willful cross-border support default
+
+**Holding:** Congress may prohibit willful post-enactment nonpayment of a legally fixed past-due support obligation when the obligor and child reside in different States, because the prohibition protects the actual interstate payment obligation against obstruction. Under the original §228, the obligation must have remained unpaid longer than one year or exceed $5,000; these alternatives do not replace the different-State relationship, the operative State-law duty or willfulness.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by all eight other Justices, controls the rule, its application and affirmance. The common coalition is Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Limits and questions not reached:** The actual interstate payment duty supplies the connection; travel, flight, a completed transfer, use of a bank instrument and an evasion motive are not additional elements. General family-policy importance and downstream social costs cannot substitute for that connection. Earlier arrears may establish delinquency, but completed failures before October 25, 1992 cannot themselves constitute the federal crime. State creation and modification of the duty remain intact; the State order's validity and separate restitution calculation are outside the reviewed power challenge. Financial hardship is not equated with willful nonpayment.
+
+**Treatment of earlier authority:**
+
+- United States v. Mussari; United States v. Schroeder, decided June 30, 1997: applied directly; its interstate-payment ground, actual offense conditions, post-enactment limit and preservation of State authority remain controlling.
+- United States v. Lopez, decided April 26, 1995: applied to require the actual interstate mechanism before aggregation; general downstream consequences cannot supply a missing connection.
+- United States v. Morrison: preserved for the rejection of unconnected social-cost aggregation; the established cross-border payment duty supplies the distinct sufficient ground here.

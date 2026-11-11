@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Tort Law
 

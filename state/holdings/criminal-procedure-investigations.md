@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Criminal Procedure: Search, Seizure and Interrogation
 
@@ -486,6 +486,8 @@ The trial findings establish increased drug use and discipline difficulties, ath
 - New Jersey v. T.L.O., 469 U.S. 325: applied for school responsibilities and contextual reasonableness; its reservation of suspicionless searches is resolved only for this program.
 - Skinner v. Railway Labor Executives' Association, 489 U.S. 602: applied; a substantiated protective need can justify suspicionless testing after attention to actual privacy burdens and safeguards.
 - National Treasury Employees Union v. Von Raab, 489 U.S. 656: applied; special-needs balancing is contextual, not confined to a universally required catastrophic-risk category.
+
+**Later-authority backlinks:** Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls, June 27, 2002, resolves the reserved other-extracurricular question for the challenged nonathletic testing expansion, rejecting it for insufficient contextual justification on its record. Vernonia's athlete holding and limited facial prescription-verification holding remain intact; Earls does not categorically invalidate every differently supported nonathletic program.
 
 ##### The facial prescription-verification objection does not invalidate the policy
 
@@ -2039,3 +2041,349 @@ For reviewability and the state court's federal-law duty, see Federal Courts - R
 **Operative remedy or transition:** The suppression disposition and dependent conviction affirmance are vacated only to the extent necessary for the corrected inquiry. Exclusion follows if its predicates are met and no supported lawful ground defeats it. Rule 11(a)(2) permits conditional-plea withdrawal when the defendant prevails on appeal; the remand itself orders no exclusion, withdrawal, acquittal, release, discovery, new hearing, retrial or sentence.
 
 **Treatment of earlier authority:** Myers supplies the preserved-claim remand; Pinson’s different preservation posture is distinguished. Karo retains the untainted-warrant inquiry. Leon, Evans and Olano retain their actual predicates and limits; Rule 11(a)(2) retains its conditional-plea consequence.
+
+### Contextual suspicion and review of investigative vehicle stops
+
+#### United States v. Arvizu, 534 U.S. 266
+
+**Docket or dockets:** No. 00-1519.
+**Decided:** 2002-01-15.
+
+##### Contextual force of observations that have innocent explanations
+
+**Holding:** Reasonable suspicion for an investigative stop depends on an objective, particularized inference from the total circumstances known before the seizure; an observation cannot be excluded merely because it has an innocent explanation or would be insufficient alone. Courts must still test each proposed inference's factual basis and actual weight, so neither the number of observations nor an officer's unexplained intuition supplies the required justification.
+
+**Proposition-level authority:** Justice O'Connor's opinion is joined throughout by Chief Justice Stone-Zsela and Justices Stevens, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt all four holdings and their limits; Scalia separately qualifies the review discussion without withholding his application join.
+
+**Treatment of earlier authority:**
+
+- **Terry v. Ohio, 392 U.S. 1:** Applied for the objective, particularized reasonable-suspicion threshold and limited investigative-stop authority.
+- **United States v. Cortez, 449 U.S. 411:** Applied for assessment of the whole picture and rational, individualized connections among observations.
+- **Illinois v. Wardlow, January 12, 2000:** Its contextual method is applied; its actual insufficiency holding is distinguished by the additional sensor-linked bypass and vehicle-specific observations here. Its rejection of categorical location or flight permission remains intact.
+- **Florida v. J. L., March 28, 2000:** Its requirement of sufficient grounds before intrusion and rejection of retrospective contraband justification remain effective.
+
+##### Independent review of ultimate suspicion and protection of subsidiary facts
+
+**Holding:** Under Ornelas, appellate courts independently determine ultimate reasonable suspicion while reviewing historical facts, credibility and genuinely factual subsidiary inferences for clear error, and giving genuine due weight to grounded local and experiential inferences. That contextual weight does not create deference or a presumption of correctness for the officer's ultimate constitutional conclusion.
+
+**Proposition-level authority:** All nine join this application of the governing Ornelas allocation. Scalia's concurrence preserves his objection to that allocation's inferential formulation without withholding a present join.
+
+**Treatment of earlier authority:**
+
+- **Ornelas v. United States, 517 U.S. 690:** Applied for independent ultimate review, clear-error protection of facts and genuine contextual weight without a police-correctness presumption; no new review standard is adopted.
+
+##### Sufficiency of the supported sensor-linked bypass and occupant observations
+
+**Holding:** The sensor-linked checkpoint-bypass route, final bypass turn, timing context and particular occupant and apparent-cargo observations, assessed together with their ordinary explanations and the agent's actual experience, supplied a particularized basis for this brief investigative vehicle stop. The holding does not require a traffic offense, direct contraband observation or proof that criminal activity was more likely than an innocent explanation, and does not treat any one greeting, vehicle type or neighborhood as independently sufficient.
+
+**Proposition-level authority:** All nine join this record-specific sufficiency holding.
+
+**Material application:** The final bypass turn, route tracking and particular occupant and apparent-cargo observations supply the connection. Ordinary road uses, innocent explanations, a staffing change still about forty-five minutes away and the agent's actual local patrol and alien-stop experience remain part of the assessment. The relative's registration in a broadly described smuggling neighborhood contributes little and is unnecessary; later contraband supplies no justification.
+
+**Treatment of earlier authority:**
+
+- **United States v. Knights, December 10, 2001:** Distinguished because the probation status and search condition there are absent; its confined holding supplies no ordinary-driver exception.
+
+##### A lawful stop does not determine voluntary consent or the search's permissible scope
+
+**Holding:** The Ninth Circuit's judgment resting on the stop's illegality is reversed, and the case is remanded for proper appellate treatment of the preserved independent consent-voluntariness and scope issues. A lawful stop removes that taint ground but neither establishes voluntary consent nor determines its extent; the claimed exterior-only permission and disputed gun-hand interaction remain subject to their applicable review and preservation limits.
+
+**Proposition-level authority:** All nine adopt this complete disposition and bounded remand.
+
+**Operative remedy or transition:** The unlawful-stop ground is reversed. Applicable appellate review must address the preserved voluntariness and scope objections before the entire suppression denial or conviction is finally restored.
+
+### Known probation conditions and suspicion-based residential searches
+
+#### United States v. Knights, 534 U.S. 112
+
+**Docket or dockets:** No. 00-1260.
+
+**Decided:** December 10, 2001.
+
+##### A probation condition and particularized suspicion despite investigative purpose
+
+**Holding:** A warrantless search of a probationer's residence within a known, lawful search condition is reasonable when supported by particularized reasonable suspicion of criminal activity in the circumstances presented. Ordinary criminal-investigative purpose does not independently invalidate that combination; neither the condition alone nor reasonable suspicion alone supplies this holding.
+
+**Proposition-level authority:** Scalia's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The rationale is constitutional reasonableness, not blanket contractual consent or forfeiture of Fourth Amendment protection. Suspicionless residential searches are not decided. Purpose remains relevant in the distinct suspicionless and special-needs settings; scope, execution and exclusion rules remain independent.
+
+**Operative remedy or transition:** The investigative-purpose suppression judgment is reversed. Evidence is admissible if no independently preserved defect remains; any genuinely open factual or scope issue must be resolved under its own record and governing review standard.
+
+**Treatment of earlier authority:**
+
+- Griffin v. Wisconsin, 483 U.S. 868: the lawful supervisory relationship informs diminished privacy; special needs is not the exclusive possible justification.
+- Whren v. United States, 517 U.S. 806: objective assessment follows a demonstrated source of search authority; its traffic holding is not generally extended to every reasonable-suspicion search.
+- City of Indianapolis v. Edmond, 531 U.S. 32, and Ferguson v. City of Charleston, 532 U.S. 67: purpose remains material in their distinct suspicionless and special-needs settings.
+- Pennsylvania Board of Probation & Parole v. Scott, 524 U.S. 357: exclusion for the institution's unconstitutional supervisory search remains unchanged; this decision finds the bounded search reasonable.
+- Ornelas v. United States, 517 U.S. 690: the division between factual and ultimate legal review is applied unchanged.
+
+### Restricted account information and third-party entrustment
+
+#### Guest v. Leis
+
+**Docket or dockets:** Consolidated Sixth Circuit subscriber appeals, 255 F.3d 325; no Supreme Court docket supplied.
+
+**Decided:** February 27, 2002.
+
+For *Guest v. Leis*, February 27, 2002, consolidated subscriber appeals reported at 255 F.3d 325, the separate conduct-date personal-immunity holding appears under Federal Courts: Immunities and Remedies — Qualified immunity for subscriber-information searches.
+
+##### I. Limited account entrustment does not categorically extinguish subscriber privacy
+
+**Holding:** A user's limited entrustment of nonpublic subscriber information to a bulletin-board operator for account administration does not by itself extinguish a reasonable expectation of privacy. Confidential credentials and identifying records of a restricted account remain protected when the user actually expects confidentiality and the account's terms, functions and practices make that expectation reasonable; each claimant must establish a personal protected interest and an actual governmental intrusion.
+
+**Proposition-level authority:** Part I of Breyer's opinion is joined by Stone-Zsela, Stevens, Souter and Ginsburg, giving five direct votes for the complete rule. O'Connor also joins its application to confidential access credentials, giving that proposition six direct votes, but does not join its broader identifying-record scope. No aggregation under Marks is necessary.
+
+**Limits and questions not reached:** Confidentiality alone does not distinguish Miller and Smith; account terms, exclusion and identification functions, actual practices, the claimant's own interest and proved governmental acquisition matter. Publicly exposed information is not protected by this holding. Lawful evidence searches do not require suspicion that every record holder committed a crime. Equipment-seizure authority does not alone settle the offense-limited warrant's authority to examine each subscriber record.
+
+**Operative remedy or transition:** Vacate the categorical institutional or official-capacity privacy dismissal for credentials, 6–3, and other covered identifying records, 5–4. Apply the account-specific privacy and warrant inquiry together with the actual defendant, source-of-liability, attribution, causation and preserved-defense requirements. The separate statutory, equipment, particularity and unsupported private-message dispositions remain undisturbed; no institutional defendant or cause of action is created.
+
+**Treatment of earlier authority:**
+
+Katz v. United States supplies the personal reasonable-confidentiality inquiry, now applied to the specified restricted subscriber records.
+
+United States v. Miller and Smith v. Maryland retain their holdings for conveyed bank business records and dialed numbers. Their third-party rationale is limited against an automatic extension to all confidential credentials and identifying records of a restricted bulletin-board account; confidentiality alone remains insufficient.
+
+Minnesota v. Carter and Ferguson v. City of Charleston are applied at their retained-sharing and purpose-specific information boundaries, without creating a general rule for every third-party relationship.
+
+Zurcher v. Stanford Daily is applied to preserve lawful evidence searches without requiring suspicion of wrongdoing by every affected record holder.
+
+### Compelled prison-treatment disclosures and self-incrimination
+
+#### McKune v. Lile, 536 U.S. 24
+
+**Docket or dockets:** No. 00-1187.
+**Decided:** June 10, 2002
+
+##### Whether prison-treatment disclosures create protected further criminal exposure
+
+**Holding:** A prisoner retains the privilege against required disclosures that create genuine additional criminal exposure notwithstanding conviction, prior testimony or a claim of innocence. Qualified confidentiality and past nonprosecution do not remove that exposure; if immunity replaces the privilege, it must adequately protect against use and derivative use of compelled statements.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined throughout by Stone-Zsela, Stevens, Souter and Ginsburg, supplies five votes for both holdings and the affirmance. The dissenters also recognize the incriminating risk but disagree with the compulsion conclusion below.
+
+**Limits and questions not reached:** The required account risks uncharged-offense and perjury exposure; conviction, prior testimony and claimed innocence do not extinguish that privilege. Confidentiality permits child-abuse reporting, court-ordered release, protection of third parties, prevention of self-harm or harm to others, and disclosure concerning escape plans or improper staff relationships. Those exceptions and past nonprosecution supply no legal bar to criminal use. Prospective adjudication does not require waiting for prosecution, and the Court grants no immunity.
+
+**Treatment of earlier authority:**
+
+- Mitchell v. United States: retained privilege and limited waiver govern genuine further exposure; its sentencing-inference rule is not converted into a treatment-program rule.
+- Ohio v. Reiner: a claim of innocence does not extinguish supported incriminating risk.
+- Kastigar v. United States: adequate use and derivative-use protection may replace the privilege; no immunity is conferred here.
+
+##### Whether the combined transfer and confinement restrictions compel unprotected admissions
+
+**Holding:** The State may not automatically impose this material security-area transfer and combined confinement restrictions solely because a prisoner refuses disclosures carrying real criminal exposure without adequate protection against criminal use. The prospective restraint is affirmed at that scope, leaving voluntary treatment, sufficiently protected disclosures and independently justified classifications available without creating permanent rights to preferred housing or privileges.
+
+**Proposition-level authority:** Breyer's opinion commands the same five-Justice coalition identified above. O'Connor, Scalia, Kennedy and Thomas dissent from the compulsion determination and resulting affirmance.
+
+**Limits and questions not reached:** The rule concerns automatic Level III-to-Level I reductions in property, activities, visitation, earnings and expenditure privileges together with the security-area transfer. It does not depend on a finding of inevitable assault, particular increased danger, added sentence days, lost credits or automatic parole loss. Kansas may revise disclosures, supply sufficient criminal-use protection, offer voluntary treatment or make independently justified classifications. The decision creates no permanent housing entitlement, damages or sentence reduction, and leaves minor incentives, the separate testing claim and future evidentiary use undecided.
+
+**Treatment of earlier authority:**
+
+- Minnesota v. Murphy; Garrity v. New Jersey; Spevack v. Klein; Gardner v. Broderick; Lefkowitz v. Turley: substantial governmental penalties for protected silence supply the governing prohibition in their respective settings.
+- Ohio Adult Parole Authority v. Woodard: optional participation without an automatic penalty is distinguished.
+- Baxter v. Palmigiano: a supported disciplinary inference is distinguished from automatic punishment on silence alone.
+- Sandin v. Conner: the existing substantive-constraint and meaningful-deprivation due-process rule remains intact; the dissenting hardship proposal does not control this case.
+- Turner v. Safley: legitimate prison purposes remain relevant but do not alone dispose of an independent privilege penalty.
+
+### Restraint of potential substitute forfeiture assets
+
+#### United States v. Bollin (Gormley asset-restraint component)
+
+**Docket or dockets:** Review of 264 F.3d 391 (Fourth Circuit); no Supreme Court docket is supplied.
+**Decided:** June 10, 2002
+
+##### Whether §853(e) reaches untainted assets solely as potential substitute property
+
+**Holding:** Section 853(e), as incorporated by §982, authorizes preservation of the property identified by its reference to subsection (a); it does not authorize restraint of untainted potential substitute property merely because §853(p) may later require its forfeiture. A continuing restraint based solely on that enlargement must be vacated even when the request for release arises after conviction.
+
+**Proposition-level authority:** Part I of O'Connor's opinion of the Court is supported by all nine Justices: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. That common coalition controls both holdings and the complete statutory remedy.
+
+**Limits and questions not reached:** Substitution under §853(p) separately requires the defendant's act or omission to make qualifying property unavailable through inability to locate it despite due diligence, third-party transfer, sale or deposit, removal beyond jurisdiction, substantial diminution, or commingling not divisible without difficulty; other defendant property is then reachable only up to the qualifying value. Potential satisfaction does not transform it into subsection-(a) property. Liberal construction and dissipation concerns create no omitted restraint power. The $1.2 million verdict and substitution notice are not an order forfeiting the IRA.
+
+**Treatment of earlier authority:**
+
+- Libretti v. United States, decided November 7, 1995, Part I-B: applied to require the enacted property category and statutory predicates independently of agreement, conviction or a broad forfeiture objective; its remaining waiver and procedural holdings are unchanged.
+- United States v. Monsanto, 491 U.S. 600: distinguished because it addresses restraint of tainted forfeitable property and does not enlarge §853(e) to potential substitute assets.
+- Caplin & Drysdale, Chartered v. United States, 491 U.S. 617: preserved for the absence of a counsel-fee exemption for tainted forfeitable property; it supplies no missing restraint authority.
+- The Fourth Circuit's Billman analogy does not justify extending §853(e) beyond its subsection-(a) reference. The Court resolves the statute governing this restraint without adjudicating a separate RICO order.
+
+##### What release follows from the invalid restraint and what separate authority remains
+
+**Holding:** The Fourth Circuit's asset-restraint ruling is reversed, and the release motion is remanded with instructions to vacate the IRA restraint insofar as it rests solely on §853(e) and potential substitute status; the IRA must be released from that restraint unless the government obtains a distinct legally authorized postconviction order satisfying its actual predicates. Georgia garnishment protection cannot defeat authorized federal forfeiture, but federal supremacy does not supply missing federal restraint authority.
+
+**Proposition-level authority:** Part II of the same unanimous opinion controls the confined remedy and the federal-state distinction.
+
+**Limits and questions not reached:** Section 853(g) protects property actually ordered forfeited; it cannot substitute for the missing IRA forfeiture order. Any §853(p) order must independently satisfy its predicates. Georgia exemptions cannot defeat authorized federal forfeiture, while supremacy creates no absent federal grant. The unpreserved §982(b)(2) intermediary restriction concerns handled but unretained laundered property, except offense conduct involving three or more transactions totaling at least $100,000 in twelve months; its factual predicates and any lawful later consideration remain undecided, without an entitlement to reopen. The Court reaches no broader appellate-counsel right or precise $80,000 counsel payment; other convictions and judgment components stand. Georgia protects the IRA before payment and ordinarily shields paid benefits except the garnishable quarter, subject to any greater exemption.
+
+### Adversary review of seized assets needed for trial counsel
+
+#### United States v. Farmer
+
+**Docket or dockets:** Review of 274 F.3d 800 (Fourth Circuit); no Supreme Court docket is supplied.
+**Decided:** June 10, 2002
+
+For immediate appellate review of the hearing denial in United States v. Farmer, June 10, 2002, review of 274 F.3d 800, see Federal Courts — Collateral-order review of a seized-assets counsel claim.
+
+##### When a supported claim to legitimate seized funds requires an adversary hearing
+
+**Holding:** A criminal defendant who makes a substantial, specific showing that assets held in continuing civil seizure may be untainted and are needed to retain trial counsel is entitled to a prompt, focused adversary hearing on the disputed taint and actual financial need. Farmer's sworn submissions and the identified legitimate-property claim satisfy the hearing threshold.
+
+**Proposition-level authority:** Part I of Kennedy's opinion of the Court, unanimous, controls the hearing threshold, its application and the operative entitlement.
+
+**Limits and questions not reached:** Farmer's sworn need evidence and specifically identified legitimate-property assertion satisfy the substantial preliminary showing, not final proof of ownership or absence of taint. Warrants do not conclusively resolve the later claim. The government may dispute actual resources and the assets' connection to forfeiture; the hearing does not try the indictment.
+
+**Treatment of earlier authority:**
+
+- United States v. Monsanto, 491 U.S. 600: its reserved adversary-hearing issue is resolved at this supported post-seizure scope; lawful probable-cause restraint of tainted property remains available.
+- Caplin & Drysdale, Chartered v. United States, 491 U.S. 617: its rejection of a counsel-fee exemption for tainted forfeitable property remains intact; it does not turn a contested seizure into a final taint adjudication.
+
+##### Why due process requires this focused post-seizure hearing
+
+**Holding:** Under Mathews, the substantial and time-sensitive interest in retaining trial counsel with legitimate funds, the concrete risk of error in continued custody and the value of focused adversary testing require the hearing on this record, while the government's forfeiture interest permits a substantial initial showing and a hearing confined to the disputed property and need. Neither every seizure nor an unsupported request triggers an asset hearing.
+
+**Proposition-level authority:** Part II of Kennedy's opinion of the Court has eight direct joins: Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer. Scalia joins the operative hearing rule on his distinct post-seizure ground, not this Mathews explanation.
+
+**Limits and questions not reached:** The time-sensitive counsel interest, concrete disputed-property assertion and prolonged custody without a civil forfeiture action establish the need for testing here. Good preserves due process independently of the warrant but does not extend its civil-real-property prior-hearing rule to all movable assets. This explanation does not itself allocate the separate final release burden.
+
+**Treatment of earlier authority:**
+
+- Mathews v. Eldridge, 424 U.S. 319: applied by the eight-Justice Part II coalition to the actual private interest, error risk, value of focused testing and government burden.
+- United States v. James Daniel Good Real Property, decided December 13, 1993: its independent-process principle is applied; its ordinary prior-hearing rule remains confined to civil real property with its existing exigency qualification, and supplies no universal pre-seizure rule for movable assets.
+
+##### Who bears the confined burden for release of assets needed to retain trial counsel
+
+**Holding:** At the limited hearing Farmer must establish by a preponderance of the evidence that the particular assets needed for counsel are untainted and were seized without probable cause supporting continued forfeiture custody, and that he actually needs those same funds to retain counsel; the government may contest his other resources and present probable cause of taint. If he establishes that showing, the court must permit access to the legitimate funds required for counsel unless an independently established lawful basis prevents release; if he does not, this counsel-access claim supplies no release.
+
+**Proposition-level authority:** Part III of Kennedy's opinion of the Court has eight direct joins: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone-Zsela opposes the allocation of the taint burden to Farmer and does not join this part. His agreement that need must be proved by a preponderance does not become a join in the complete allocation.
+
+**Limits and questions not reached:** The initial substantial showing opens the hearing and remains distinct from the final preponderance showing for release. The ultimate burden in a forfeiture proceeding is unchanged. Living expenses, interest and final forfeiture merits lie outside the counsel-access question. The Court affirms the hearing entitlement unanimously and the adopted release allocation eight to one; Stone-Zsela does not join the latter.
+
+#### Leventhal v. Knapek, judgment below 266 F.3d 64
+
+**Docket or dockets:** Second Circuit No. 00-9306; no Supreme Court docket is established.
+**Decided:** 2002-06-17.
+
+##### Limited administrative access does not erase workplace privacy
+
+**Holding:** A public employee retains a reasonable expectation of privacy in an individually used office computer where actual access practices do not expose its contents generally. Government ownership, occasional maintenance or document access, and a rule against personal business use do not alone waive that privacy or authorize unrestricted contents searches.
+
+**Proposition-level authority:** Stone-Zsela's Part I, unanimous at this record-specific scope.
+
+**Material application:** An individually assigned computer in a private office remained private despite occasional technical access and a prohibition on personal business. The holding does not establish privacy in every workplace computer.
+
+**Treatment of earlier authority:** Bond and Guest are applied to the distinction between privacy coverage and justified acquisition, without extending their separate factual holdings to every workplace.
+
+##### A work-related investigation requires justification at inception and proportionate scope
+
+**Holding:** A public employer investigating work-related misconduct may inspect a protected workplace area without a warrant when reasonable grounds support the inquiry at inception and its measures remain reasonably related to that employment objective and not excessively intrusive in light of the suspected misconduct. Each follow-up examination requires its own justification from information lawfully obtained and the continuing work purpose; later discoveries cannot retroactively justify the first intrusion.
+
+**Proposition-level authority:** Stone-Zsela's Part II, joined by O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer; seven direct votes. Scalia does not join this framework, and Stevens does not approve the searches on the merits.
+
+**Limits and questions not reached:** The rule governs internal employment-misconduct investigation, not ordinary police evidence collection, general monitoring or unrelated personal contents. An anonymous complaint is assessed through its specificity, work connection and proposed intrusion; it is neither automatically sufficient nor automatically irrelevant. O'Connor v. Ortega's divided opinions did not already establish one unified rationale; this decision directly adopts the inception-and-scope framework.
+
+**Treatment of earlier authority:** Ortega's inception-and-scope approach receives seven direct votes here; Robinette and Arvizu retain their independent-justification requirements. Knights supplies no employee-consent fiction.
+
+##### These four inspections were reasonable
+
+**Holding:** The October 25, 1996 file-name inventory and the three limited February and April 1997 examinations of selected program directories and files were reasonably initiated and confined to the actual employment-misuse inquiry. The reviewed individual-capacity Fourth Amendment dismissal is therefore affirmed; the established search record does not include examination of personal tax-return contents.
+
+**Proposition-level authority:** Stone-Zsela's Part III, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight direct votes for this confined application. Stevens supports the judgment on personal immunity alone.
+
+**Material application:** The first inspection inventoried names without running programs or opening files. Its modest scope was justified by the work-specific complaint; the program names then lawfully obtained supported three targeted examinations. Later admissions supply no retrospective justification. Permission for outside tax work did not authorize departmental equipment use, and tolerance of nonstandard work software did not foreclose investigation of private use.
+
+**Limits and questions not reached:** The nonfinal disciplinary suppression ruling establishes no preclusion. The Court does not decide qualified immunity; that individual concurrence is not an alternative holding.
+
+**Operative remedy or transition:** Affirm the reviewed individual-capacity search dismissal, 9–0. Ungranted employment-benefit rulings and abandoned institutional monetary, May 2 seizure and other claims remain undisturbed.
+
+**Treatment of earlier authority:** Ortega's work-related justification is applied to the actual sequence. Bond and Guest preserve privacy without forbidding every justified employer inspection; no new computer exception or immunity rule is created.
+
+#### United States v. Drayton, 536 U.S. 194
+
+**Docket or dockets:** No. 01-631.
+**Decided:** 2002-06-17.
+
+##### Objective freedom to decline governs the bus encounter
+
+**Holding:** Police questioning aboard a bus is a seizure only when, considering the whole objectively communicated encounter, a reasonable passenger would not feel free to decline the requests or terminate the interaction. Constraints arising from the passenger's decision to travel are not themselves police restraint; absence of a refusal warning is relevant but neither necessary nor sufficient to establish seizure.
+
+**Proposition-level authority:** O'Connor's Part I, unanimous; the no-seizure application is separately divided.
+
+**Limits and questions not reached:** Physical obstruction is unnecessary to a seizure, and quiet requests do not establish its absence. Officer number, positioning, words and conduct must be assessed together. Undisclosed intent supplies neither an objective assurance nor police restraint.
+
+**Treatment of earlier authority:** Bostick and Robinette are applied without creating a mandatory warning or categorical bus rule; Bond's protection against additional physical intrusion remains distinct.
+
+##### Neither respondent was seized before the search
+
+**Holding:** The coordinated encounter did not objectively compel either Brown or Drayton to cooperate before the challenged searches: the officers used quiet requests, concealed their weapons, left the aisle passable, gave no command to remain and exercised no control over the passengers' tickets. Brown's arrest was relevant to the later request to Drayton but did not, in the circumstances of that request, itself detain him; the seizure-based suppression judgment is reversed.
+
+**Proposition-level authority:** O'Connor's Part II, joined by Scalia, Kennedy, Thomas and Breyer; five direct votes. Stone-Zsela, Stevens, Souter and Ginsburg dissent from this application.
+
+**Operative remedy or transition:** Reverse the seizure-based suppression judgment for both respondents and remand. Brown's conditional plea and Drayton's trial conviction retain their distinct procedural consequences; neither conviction is automatically reinstated by this judgment.
+
+**Limits and questions not reached:** Independent consent voluntariness and an unpresented Terry justification are not decided. Otherwise preserved and available issues retain their own requirements; discovered drugs supply no justification for earlier conduct.
+
+**Treatment of earlier authority:** Bostick's contextual rule is applied to each respondent; Arvizu preserves the separate consent inquiry. Knights supplies no advance passenger authorization or suspicion for this encounter.
+
+#### Kirk v. Louisiana, 536 U.S. 635
+
+**Docket or dockets:** No. 01-8419.
+**Decided:** June 24, 2002.
+
+##### Probable cause alone does not authorize entry into a home
+
+**Holding:** Police may not make a nonconsensual entry into a home to arrest or search on probable cause alone: an appropriate warrant or a valid exception must independently authorize entry. When officers rely on exigency, both probable cause and circumstances sufficient to justify immediate entry without a warrant must exist; an arrest and a search incident to it cannot supply the missing authority to cross the threshold.
+
+**Proposition-level authority:** Part I of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** The officers’ asserted destruction concern is not itself a finding of exigency. A later warrant does not retroactively authorize the initial intrusion.
+
+**Treatment of earlier authority:** Payton requires authority to cross the home threshold in addition to probable cause. McArthur’s confined preservation measure depended on particularized cause, destruction risk, limited execution and diligent warrant pursuit together, and creates no automatic entry authority. Kyllo preserves the distinction between advance authority and a later warrant without extending its technological-search holding. Welsh and Olson retain the requirement of an actual exigent justification.
+
+##### The omitted exigency and evidence inquiries require remand under the correct rule
+
+**Holding:** The Louisiana Court of Appeal's judgment is reversed insofar as it sustained the warrantless entry, arrest and search on probable cause alone, and the case is remanded for proceedings consistent with Payton. The receiving court must decide the actual exigency issue and address any properly remaining causal, independent-source and evidence consequences under their governing requirements; the conviction's ultimate disposition follows those determinations.
+
+**Proposition-level authority:** Part II of the per curiam opinion, joined by Stevens, O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Stone-Zsela joins the underlying rule and agrees remand is necessary but would vacate rather than reverse.
+
+**Limits and questions not reached:** Neither exigency nor its absence is finally established. Suppression and the conviction’s ultimate disposition depend on the remaining determinations; no automatic exclusion rule follows.
+
+**Operative remedy or transition:** Reverse the state appellate judgment insofar as it sustains entry, arrest and search on probable cause alone, and remand, 8–1. Any available independent-source ground requires determination whether the unlawful entry prompted the decision to seek the warrant or supplied information affecting issuance.
+
+**Treatment of earlier authority:** Murray permits genuinely independent later evidence, not a later-warrant cure for the original entry. Independence affecting admissibility does not validate the intrusion. Knights, Arvizu, Drayton and Leventhal remain confined to their probation, stop, bus-encounter and workplace settings and create no general home-entry exception.
+
+#### Board of Education of Independent School District No. 92 of Pottawatomie County v. Earls, 536 U.S. 822
+
+**Docket or dockets:** No. 01-332.
+**Decided:** June 27, 2002.
+
+##### School responsibility informs reasonableness without erasing the search
+
+**Holding:** Compelled urine collection and analysis are searches, and extracurricular participation does not waive Fourth Amendment protection. A claimed protective need beyond ordinary law enforcement must justify the actual program through a contextual assessment of the population, school responsibilities, concrete need and fit, bodily and informational intrusion, and operational safeguards; catastrophe, a numerical epidemic, safety-sensitive duties and exhaustion of alternatives are not universal prerequisites.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Ginsburg), unanimous.
+
+**Treatment of earlier authority:** Vernonia preserves search status and protection despite voluntary athletics, while T.L.O. recognizes school supervision subject to reasonableness. Chandler requires actual need and fit without a fixed checklist. Skinner and Von Raab preserve contextual protective-needs analysis. The nonpolice educational purpose distinguishes Edmond’s ordinary-crime program and Ferguson’s coordinated prosecution operation without itself validating this search.
+
+##### This nonathletic expansion lacks sufficient contextual justification
+
+**Holding:** On this record, the district's general drug concern and the students' competitive academic or cultural participation do not sufficiently justify suspicionless bodily testing of the challenged nonathletic groups, even with the written collection and use protections. The judgment rejecting this expansion is affirmed; the rule does not bar a differently supported program or disturb the separately sustained athlete program.
+
+**Proposition-level authority:** Part II of Ginsburg’s opinion, joined by Stone-Zsela, Stevens, O’Connor and Souter; five direct rationale votes.
+
+**Material application:** The challenged implemented nonathletic population includes competitive academic and cultural activities. Closed-stall collection with the monitor outside, confined access, nonpolice use, counseling and participation consequences receive weight but do not supply the missing relation between the group selected and bodily testing. The comparison is to the athlete program’s documented need, safety and communal-privacy circumstances, not a mandatory athlete-risk checklist.
+
+**Limits and questions not reached:** A differently supported nonathletic program is not categorically barred. The separate athlete program and reasonable-suspicion testing remain intact. James’s separate academic-eligibility standing question is not reached because Earls participates in the challenged activities.
+
+**Treatment of earlier authority:** Vernonia’s athlete application is distinguished while its contextual balance governs. Chandler reinforces actual fit without imposing exhaustion or least-intrusive-alternative requirements.
+
+##### Written safeguards receive weight without becoming findings of compliance
+
+**Holding:** Written confidentiality and use restrictions reduce the asserted intrusion, but supported contrary implementation evidence cannot be resolved for the district merely by assuming perfect compliance at summary judgment. Here the program's insufficient justification independently supports declaratory and appropriate prospective relief even on the district's stronger account of its safeguards, so no independent disclosure claim or automatic trial is created.
+
+**Proposition-level authority:** Part III of Ginsburg’s opinion, joined by Stone-Zsela, Stevens, O’Connor and Souter; five direct rationale votes.
+
+**Limits and questions not reached:** No actual reading of prescription information by another student is found. Any independent disclosure claim must satisfy its own preserved source, elements and remedy. The substantive fit defect is sufficient even on the district’s stronger safeguards account.
+
+**Operative remedy or transition:** Affirm the rejection of the challenged nonathletic expansion, 5–4, with declaratory and appropriate prospective relief; no damages award, independent disclosure judgment or compulsory trial follows.
+
+**Treatment of earlier authority:** Vernonia’s textually possible confidential prescription method was not a finding of actual practice. Its facial/actual distinction and ordinary summary-judgment treatment of supported implementation evidence remain. Knights, Arvizu, Drayton and Leventhal supply no general school-search exception or extracurricular waiver.

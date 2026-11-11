@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Administrative Law
 
@@ -1487,6 +1487,8 @@ Related questions in Newton County Wildlife Association v. Rogers, 1998-09-28, d
 
 **Proposition-level authority:** Scalia's Parts I–II are joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg. Six Justices control the general-authority and associated remand propositions; O'Connor, Thomas and Breyer dissent on their distinct allocation grounds.
 
+**Later-authority backlinks:** Verizon Communications Inc. v. FCC, May 13, 2002, resolves the reserved TELRIC methodology question within the statutory pricing framework; particular state rates and as-applied confiscation remain separate. The national-implementation and state-determination allocation is unchanged.
+
 ##### II. The rural-exemption and agreement rules require review within the correct allocation
 
 **Holding:** The categorical absence-of-federal-authority grounds for vacating Rules 51.405 and 51.303 and displacing otherwise lawful federal rules from state implementation cannot stand. Unresolved substantive objections return for review with the actual statutory rural-exemption, agreement-approval and state-law preservation limits intact.
@@ -1580,6 +1582,8 @@ Related questions in Newton County Wildlife Association v. Rogers, 1998-09-28, d
 
 
 For the other questions in AT&T Corp. v. Iowa Utilities Board, decided 1999-01-25, at the dockets stated above, see Federal Courts.
+
+**Later-authority backlinks:** Verizon Communications Inc. v. FCC, May 13, 2002, sustains Rule 51.315(c)–(f) at its enacted conditions and supported scope, resolving the affirmative-combination question left open here. The earlier existing-combination protection and independent necessity-and-impairment requirements remain intact.
 
 ### APA review of PTO factual findings
 
@@ -1972,3 +1976,268 @@ For Appalachian Power Co. v. EPA, decided May 29, 2001, D.C. Circuit Nos. 98-151
 **Limits and questions not reached:** Neither definitive classification commands a majority. The return rests on exclusion of permissible agency reasoning, not a missing product fact, a general right to first lower-court interpretation or a need for agency action. The distinct noncontrolling textual and deference grounds for sustaining the category do not combine into a Court construction.
 
 **Operative remedy or transition:** The Federal Circuit must independently classify the planners while considering the actual persuasive force of Customs' reasons. Any assessment or refund depends on that classification and entry calculations; no amount, new hearing, signature search or future rulemaking is required.
+
+### FCC pole-attachment coverage and mandatory rate formulas
+
+#### National Cable & Telecommunications Assn., Inc. v. Gulf Power Co., 534 U.S. 327
+
+**Docket or dockets:** Nos. 00-832 and 00-843.
+**Decided:** 2002-01-16.
+
+##### Mixed cable-Internet attachments within section 224's general coverage
+
+**Holding:** An attachment by a cable television system that satisfies 47 U.S.C. §224(a)(4) remains within the FCC's authority under §224(b) when it carries Internet service together with cable television. Sections 224(d) and (e) prescribe mandatory rates within their respective terms; they do not exhaust the broader attachment definition or permit the agency to evade an applicable formula.
+
+**Proposition-level authority:** Part I of Kennedy's opinion has the full support of Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Ginsburg and Breyer, supplying seven votes.
+
+**Limits and questions not reached:** Internet-service classification and a particular charge are not decided. Coverage does not permit evasion of either statutory rate formula when its conditions apply.
+
+**Treatment of earlier authority:**
+
+- AT&T Corp. v. Iowa Utilities Board (January 25, 1999): applies its separation of congressionally conferred FCC authority from the independent limits on particular implementing rules; its local-competition holdings remain intact.
+- United States v. Mead Corp. (June 18, 2001): preserves its actual-delegation requirement; the Court resolves section 224's coverage from its text without adding a deference holding.
+
+##### Qualifying wireless telecommunications equipment under the attachment definitions
+
+**Holding:** Section 224 covers an attachment by a provider offering telecommunications to the public for a fee, without excluding the provider's equipment because it serves wireless transmission. Both the attachment and its owner must satisfy the statutory definitions; the utility's wire-use condition does not impose a separate wire-only restriction on the attached provider's service.
+
+**Proposition-level authority:** All nine Justices join Part II of Kennedy's opinion.
+
+**Limits and questions not reached:** The exclusions for railroads, cooperatively organized persons and federal or state ownership remain. Section 224(a)(5)'s incumbent-local-exchange-carrier limit and section 224(c)'s allocation to qualifying state regulation remain operative. The holding covers qualifying poles, ducts, conduits and rights-of-way, not every separate wireless tower or property.
+
+**Operative remedy or transition:** Both categorical exclusions are reversed and remanded. Mixed-service reversal has seven votes; wireless reversal is unanimous. Properly remaining classification and rate-method objections must be resolved under the applicable statutory commands.
+
+### Federal electric-transmission authority and the scope of corrective orders
+
+#### New York v. FERC / Enron Power Marketing, Inc. v. FERC, 535 U.S. 1
+
+**Docket or dockets:** Nos. 00-568 and 00-809.
+
+**Decided:** March 4, 2002.
+
+##### I. The transmission grant includes unbundled interstate service for retail purchasers
+
+**Holding:** The Federal Power Act's separate grant over transmission of electric energy in interstate commerce includes independently supplied interstate transmission serving retail purchases. The wholesale limitation governs the separate sales grant; it does not narrow the transmission grant, and FERC may regulate the covered transmission's rates, terms and conditions without ordering a utility to begin retail wheeling.
+
+**Proposition-level authority:** All nine Justices join Part I of Stone-Zsela's Opinion of the Court. That direct unanimous coalition controls the category and the following limits.
+
+**Limits and questions not reached:** Independent interstate transmission already supplied voluntarily or under state direction is distinct from compelled retail wheeling. State siting, local reliability and retail-service functions remain. No particular tariff or facility classification is adjudicated, and no general deference rule is adopted.
+
+**Operative remedy or transition:** Affirm No. 00-568 unanimously; the reviewed transmission requirements remain effective within their statutory boundaries.
+
+**Limits and statutory qualifications:** Section 201(b)(1) retains state retail-sale authority and, except as the Act specifically provides otherwise, excludes facilities used for generation, local distribution, intrastate-only transmission or transmission of energy consumed wholly by the transmitter. Its preservation of lawful state authority over hydroelectric exports remains. Section 201(b)(2) applies sections 210, 211 and 212 and their enforcement to the entities those provisions cover; compliance with a section 210 or 211 order does not otherwise subject an entity to general FPA jurisdiction. Section 201(f)'s exclusion of federal, state and local governments, their agencies, authorities and instrumentalities, corporations wholly owned directly or indirectly by one or more of them, and their officials acting in duty remains unless a provision specifically refers to them.
+
+Section 212(g) prohibits orders inconsistent with state retail-marketing-area law. Section 212(h) prohibits an order conditioned on, or requiring, direct transmission to an ultimate consumer. Its separate rule for transmission to or for a resale entity permits the covered exception only when both conditions hold: the entity is a federal power marketing agency, TVA, a State or political subdivision or its agency, a corporation or association that has ever received a Rural Electrification Administration loan to provide electric service under the Rural Electrification Act of 1936, a person with a state- or local-law public electric-service obligation arising independently of contract alone, or a corporation or association wholly owned directly or indirectly by one or more of those listed entities; and it either served that consumer on October 24, 1992 or would deliver all the energy through transmission or distribution facilities it owns or controls. State and local authority over direct-to-consumer transmission remains preserved. Section 212(e) makes use of sections 210, 211, 213 or 212 unnecessary as a substitute for other lawful authority and, except as those sections provide, prevents them from limiting other Commission authority; it does not eliminate the retail-wheeling restrictions.
+
+**Treatment of earlier authority:**
+
+- AT&T Corp. v. Iowa Utilities Board: applied to distinguish an affirmative federal statutory assignment from the independent constraints on its exercise and the functions Congress preserves for States.
+- National Cable & Telecommunications Assn. v. Gulf Power Co.: applied to separate coverage from the validity of a particular regulatory method; its actual formula and classification limits remain.
+- United States v. Mead Corp.: its actual-delegation requirement remains; independent statutory construction resolves the transmission category without a new general deference holding.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co.: its prohibition on replacing an enacted mandatory obligation remains. This order's sufficient remedy does not dispense with section 206's triggered duty.
+- Good Samaritan Hospital v. Shalala: applied to considered administration within statutory commands and to the requirement of actual agency reasons; counsel's litigation assertions receive no substitute status.
+- Wisconsin Department of Health and Family Services v. Blumer: applied to distinguish permission to use a method from the independent circumstances in which the statute commands action; no general exemption from a corrective duty follows.
+
+##### II. This proceeding did not compel Enron's additional bundled-service remedy
+
+**Holding:** FERC could remedy the wholesale transmission-access discrimination established in this proceeding through the adopted open-access requirements while declining compulsory unbundling of bundled retail service on its independently sufficient determination that this additional remedy was unnecessary. Section 206 does require a lawful prospective determination and order after a hearing and finding that a jurisdictional rate, charge, classification or affecting rule, regulation, practice or contract is unjust, unreasonable, unduly discriminatory or preferential; the burden to prove that unlawfulness lies on the Commission or complainant, and the agency may not leave established discrimination uncorrected.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion has the direct support of Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer. Those six votes control. Scalia, Kennedy and Thomas would remand this component for corrected agency analysis.
+
+**Limits and questions not reached:** The agency actually gave both a bundled-retail jurisdictional characterization and an independently sufficient unnecessary-remedy determination. The latter sustains this refusal without adoption of a permanent bundled-transmission exemption. Counsel's litigation reasons cannot replace agency reasons. The universal allocation of bundled-service jurisdiction is not decided.
+
+**Operative remedy or transition:** Affirm No. 00-809, 6–3, and deny compulsory additional unbundling in this proceeding without an agency remand. The order supplies no approval of an individual tariff, retail price or facility classification.
+
+**Treatment of earlier authority:**
+
+- AT&T Corp. v. Iowa Utilities Board: applied to distinguish an affirmative federal statutory assignment from the independent constraints on its exercise and the functions Congress preserves for States.
+- National Cable & Telecommunications Assn. v. Gulf Power Co.: applied to separate coverage from the validity of a particular regulatory method; its actual formula and classification limits remain.
+- United States v. Mead Corp.: its actual-delegation requirement remains; independent statutory construction resolves the transmission category without a new general deference holding.
+- MCI Telecommunications Corp. v. American Telephone & Telegraph Co.: its prohibition on replacing an enacted mandatory obligation remains. This order's sufficient remedy does not dispense with section 206's triggered duty.
+- Good Samaritan Hospital v. Shalala: applied to considered administration within statutory commands and to the requirement of actual agency reasons; counsel's litigation assertions receive no substitute status.
+- Wisconsin Department of Health and Family Services v. Blumer: applied to distinguish permission to use a method from the independent circumstances in which the statute commands action; no general exemption from a corrective duty follows.
+
+### Medicaid spousal income and resource protection
+
+#### Wisconsin Department of Health and Family Services v. Blumer, 534 U.S. 473
+
+**Docket or dockets:** No. 00-952.
+**Decided:** 2002-02-20.
+
+##### Permissible income-first calculation at the community-spouse resource hearing
+
+**Holding:** At the preeligibility hearing under 42 U.S.C. §1396r-5(e)(2)(C), a State may consider the community spouse's expected posteligibility income, including support that may be transferred under subsection (d)(1)(B), before increasing the community spouse resource allowance. The statute permits income first; it does not require nationwide adoption or independently adjudicate every resources-first program.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Kennedy, Souter, Thomas and Breyer, supplies five direct votes for this construction, its statutory qualifications and the reversal.
+
+**Material statutory qualifications:** For the separate posteligibility attribution under (b)(2), a governing nontrust instrument may specify the allocation; otherwise income solely payable to one spouse is available to that spouse, jointly payable income is divided equally, and income shared with others follows the spouse's interest or half of the spouses' unspecified joint interest. Trust income follows the governing Medicaid trust provisions and the trust's allocation, or the parallel payment rules when no specific allocation appears. Nontrust income without an ownership instrument is divided equally. The institutionalized spouse may rebut the nontrust payment and no-instrument presumptions by a preponderance of evidence of different ownership. These rules do not turn a forecast into payment. Under (e)(2)(B), if either spouse establishes that exceptional circumstances causing significant financial duress require community-spouse income above the ordinary minimum monthly maintenance needs allowance, an amount sufficient to supply the necessary additional income must replace that allowance. Under (d)(5), when a court orders the institutionalized spouse to provide monthly income for the community spouse's support, the community spouse monthly income allowance must be at least the ordered amount. Those income-allowance adjustments remain distinct from (e)(2)(C)'s resource-increase command; none substitutes another provision's trigger or establishes that its conditions are met here.
+
+**Limits and questions not reached:** A forecast neither transfers income nor commands a transfer. Section 1396r-5(d)(1)(B) permits a posteligibility deduction only to the extent income is actually made available to or for the community spouse. Once inadequacy is shown under the lawful calculation, the resource increase is required. No extra consent, escrow or guarantee condition is imposed; no later payment, eligibility date or benefit amount is found.
+
+**Operative remedy or transition:** The judgment mandating resources first is reversed 5–4. Remaining calculations must use supported income and resources and respect the distinct attribution and actual-payment requirements.
+
+**Treatment of earlier authority:**
+
+- Good Samaritan Hospital v. Shalala, June 7, 1993: considered administration must fit the enactment, and a change of interpretation alone does not establish invalidity.
+
+##### Persuasive weight rather than controlling force of the agency materials
+
+**Holding:** The agency materials here receive the weight their reasoning earns rather than automatic controlling force. The Court independently concludes that income first is permissible; no new exception to, or abolition of, lawful delegated interpretive authority is adopted.
+
+**Proposition-level authority:** Ginsburg's opinion, joined by Kennedy, Souter, Thomas and Breyer: five Justices.
+
+**Material application:** The 1993 instruction required income first, the March 1994 clarification permitted income first or another reasonable interpretation pending a final rule, and the September 2001 publication remained proposed. They are not a single binding final command.
+
+**Treatment of earlier authority:**
+
+- United States v. Mead Corp., June 18, 2001: congressional delegation and exercise of interpretive authority remain prerequisites for controlling statutory force; these materials are considered for persuasion.
+- Christensen v. Harris County, May 1, 2000: an advisory interpretation's authority and persuasive quality remain distinct; optional conduct is not converted into a compulsory transfer.
+- Skidmore v. Swift & Co., 323 U.S. 134: the actual reasoning and experience receive the persuasive weight they earn.
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837: its role for lawful delegated choices remains; the independent construction here creates no broader revision.
+
+### Pending grievances and review of prior federal employee discipline
+
+#### United States Postal Service v. Gregory, 534 U.S. 1
+
+**Docket or dockets:** No. 00-758.
+
+**Decided:** November 13, 2001.
+
+##### Whether a pending grievance excludes earlier discipline from adverse-action review
+
+**Holding:** When reviewing a removal or other serious adverse action, the agency and the Board may consider earlier discipline while a contractual grievance remains pending, provided the independent review affords a meaningful opportunity to challenge the predicate and its material use. The Board's authority over the later adverse action includes incidental examination of relevant earlier discipline even when that minor action was not itself directly appealable to the Board.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices. Ginsburg concurs in the judgment on separate grounds.
+
+**Limits and questions not reached:** The Court does not decide the actual statutory or constitutional adequacy of Bolling's review formula. Seven Justices—Breyer, Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy and Souter—adopt nonpreservation as the reason for leaving that question open; Thomas does not join that rationale.
+
+**Operative remedy or transition:** The categorical exclusion judgment is vacated. A completed arbitral expungement must receive its legally required effect under the agreement and available procedures; the reviewing court must examine the warning's material role and the consequences of its late presentation and return the penalty to the Board where necessary. The own-motion reopening power is discretionary. Neither reopening, restoration of removal, waiver nor a replacement penalty is automatically ordered.
+
+##### Judicial review does not dilute the agency proof burden
+
+**Holding:** Under §7703(c), a court reviews the Board's administrative choice for arbitrary or capricious action, abuse of discretion, legal error, required procedures and substantial evidence; it may not replace a permissible review policy with its preferred categorical rule. That standard does not diminish the agency's own statutory proof obligation or make agency expertise controlling on statutory meaning.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter and Thomas; eight Justices. Ginsburg concurs in the judgment on separate grounds.
+
+**Treatment of earlier authority:**
+
+- Darby v. Cisneros (June 21, 1993): applied by analogy against an extra procedural prerequisite; its APA provision is not directly imposed on this personnel statute.
+- Citizens to Preserve Overton Park v. Volpe, 401 U.S. 402 (1971), and Motor Vehicle Manufacturers Assn. v. State Farm, 463 U.S. 29 (1983): applied to the bounds of judicial review of administrative judgment.
+- Director, OWCP v. Greenwich Collieries (June 20, 1994): applied to keep proof burdens distinct from reviewing deference.
+- Brown v. Gardner (December 12, 1994), Christensen v. Harris County (May 1, 2000), and United States v. Mead Corp. (June 18, 2001): preserved at their actual limits on administrative interpretation; no general conclusive-deference rule is created.
+- United States v. Chemical Foundation, 272 U.S. 1 (1926): regularity does not establish that a particular predicate or collateral-review formula is valid.
+
+### Disability duration and initial entitlement
+
+#### Barnhart v. Walton, 535 U.S. 212
+
+**Docket or dockets:** No. 00-1937.
+**Decided:** March 27, 2002.
+
+##### The agency may require twelve months of disabling inability
+
+**Holding:** Under the twelve-month branch of the adult disability definitions in 42 U.S.C. §§423(d)(1)(A) and 1382c(a)(3)(A), the agency may require that the impairment cause inability to engage in substantial gainful activity lasting, or expected to last, continuously for at least twelve months. The expected-death branch remains distinct; the Court sustains a permissible delegated construction rather than declaring it the only statutory implementation Congress allows.
+
+**Proposition-level authority:** Justice Souter's Opinion of the Court, Part I, is joined by all eight other Justices. All nine directly adopt the formal delegated-regulation ground, the functional-duration rule and its temporal qualification. Part II's additional contextual support is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Thomas, Ginsburg and Breyer; Scalia does not join that additional ground.
+
+**Limits and questions not reached:** Actual delegation under §405(a), incorporated into SSI by §1383(d)(1), and its exercise in binding regulations supply authority; longevity or expertise alone does not. The final July 2000 rule took effect August 10, 2000. Its authoritative interpretation may be used for antecedent statutory events without backdating a new legislative condition where clear contrary prior official guidance is absent. The sustained duration approach and 1995 proposal establish continuity here; no contrary assurance to Walton is shown. Title II's ordinary waiting condition is not imported into SSI.
+
+##### Actual work before a favorable disability finding may defeat the initial duration claim
+
+**Holding:** When work demonstrating substantial gainful activity resumes within twelve months after onset of the disabling impairment and before notice of a determination or decision finding disability, the agency may use that known event to reject an initial claim based on an earlier expectation of twelve-month inability. Section 422(c)'s trial-work protection presupposes qualifying Title II entitlement and does not independently establish a missing initial duration condition.
+
+**Proposition-level authority:** Part III of Souter's opinion is joined by all eight other Justices. All nine directly adopt the permissible timing construction, the qualifications below, and the disposition of Walton's two legal theories.
+
+**Limits and questions not reached:** A claimant returning to work more than twelve months after onset but before adjudication may qualify for trial-work protection if actual duration and the other entitlement conditions are satisfied; passage of twelve months alone does not cure disabling inability that ended earlier. A claimant returning within twelve months after onset, but after notice finding disability, may qualify even when that notice precedes the benefit-award notice. A disability finding, its notice, an award, payment and statutory entitlement are distinct; neither qualification requires prior payment. The separate exclusion for work during a required waiting period remains separate, and the pre-application exclusion concerns months before application, not permanent disqualification for every earlier work episode.
+
+Trial-work services are distinct from substantial gainful activity. The operative nine service months occur within sixty consecutive months and need not themselves be consecutive. New medical or other evidence independent of protected trial work may establish cessation under the governing rules before nine months; a repeated trial-work period is not created within the same period of disability or entitlement. Ordinary Title II insured status, application, age and the five-month waiting condition, including the qualifying prior-entitlement or cessation route within the statutory sixty-month window, remain separate conditions. The Title II trial-work scheme is not transferred to SSI. Statutory blindness, the separate child definition, genuinely unsuccessful work attempts and distinct reopening or reliance questions concerning a claimant with an existing favorable determination are outside the presented adult eligibility dispute.
+
+**Material application:** Walton's established substantial gainful activity resumed in October 1995 before a favorable finding notice. The later closed-period award was superseded on administrative review; the established work finding is not reopened.
+
+**Operative remedy or transition:** The challenged legal rulings are reversed and remanded to implement denial on the reviewed duration and trial-work eligibility grounds.
+
+**Treatment of earlier authority:**
+
+- **Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.:** Applied to a permissible choice within the agency's actual statutory assignment; the Court does not require its own sole preferred construction.
+- **United States v. Mead Corp.:** Applied through identified statutory delegation and actual exercise in binding implementing regulations; complexity, expertise or notice and comment alone does not establish authority.
+- **Smiley v. Citibank (South Dakota), N.A.:** Applied to qualified interpretive use for antecedent events without backdating a new legislative condition or disregarding clear contrary prior official guidance.
+- **Good Samaritan Hospital v. Shalala:** Preserves reasoned administrative choice within the assigned statutory scheme.
+- **Christensen v. Harris County:** Preserves the distinction between advice and delegated lawmaking; no blanket controlling status is conferred on every Social Security Ruling.
+- **Auer v. Robbins:** No extension is required; statutory authority and the actual regulations supply the ground.
+- **Wisconsin Department of Health and Family Services v. Blumer, Barnhart v. Sigmon Coal Co., Edelman v. Lynchburg College and Ragsdale v. Wolverine World Wide, Inc.:** Their distinct limits on agency authority and statutory consequences remain. Independent construction in another statute does not eliminate lawful delegated choice here.
+
+### Telecommunications cost methodology and necessary network-combination assistance
+
+#### Verizon Communications Inc. v. FCC, 535 U.S. 467
+
+**Docket or dockets:** Nos. 00-511, 00-555, 00-587, 00-590 and 00-602.
+**Decided:** May 13, 2002.
+
+For Verizon Communications, May 13, 2002, Nos. 00-511, 00-555, 00-587, 00-590 and 00-602, on the facial confiscation objection and preserved actual-rate review, see Property and Economic Rights.
+
+##### Whether section 252(d)(1) requires historical-cost reimbursement
+
+**Holding:** Section 252(d)(1) permits the FCC to adopt a reasonable forward-looking economic measure of the cost of providing an interconnection or network element; it does not require reimbursement of the incumbent's embedded investment or every historical expenditure. Rates must remain just, reasonable, cost-based and nondiscriminatory, with cost determined without reference to a rate-of-return or other rate-based proceeding; reasonable profit is permitted rather than independently guaranteed.
+
+**Proposition-level authority:** Scalia's opinion of the Court, Part I, unanimous.
+
+**Limits and questions not reached:** The statutory exclusion of rate-based proceedings does not forbid every consideration of historical expenditure under every lawful method. National implementation leaves the assigned state rate determinations intact.
+
+**Treatment of earlier authority:** AT&T's allocation of implementing authority is applied; Mead and Chevron require actual delegation and a reasonable choice within it. Their statutory-boundary requirements remain unchanged.
+
+##### Whether the efficient-technology and existing-wire-center methodology is lawful
+
+**Holding:** Section 51.505(b)(1)'s use of efficient currently available technology and the lowest-cost network configuration, retaining the incumbent's existing wire-center locations, reasonably implements §252(d)(1). The rule is restored with its incremental-cost and reasonable common-cost components, forward-looking capital cost and economic depreciation, element-specific stand-alone-cost ceiling, aggregate common-cost allocation requirement, excluded-cost categories and cost-study protections; its validity does not establish the lawfulness of every resulting charge.
+
+**Proposition-level authority:** Scalia's Part II, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas and Ginsburg; eight direct votes. Breyer dissents from this component.
+
+**Material application:** An element's incremental and allocated common costs cannot exceed the efficient firm's forward-looking stand-alone cost for that element, including corporate costs. Aggregate allocation must equal network-wide forward-looking common costs excluding retail costs. Embedded, retail and opportunity costs and subsidizing revenues are excluded. Incumbents must support offered rates with compliant cost studies. Rates outside proxy ranges or above ceilings require full and fair application in the prescribed proceeding, with notice, comment opportunity and a reviewable written record including studies considered.
+
+**Limits and questions not reached:** No individual rate is approved and no use of TELRIC under other statutes is ordered.
+
+**Operative remedy or transition:** The invalidation of §51.505(b)(1) is reversed and that methodology restored with its statutory and regulatory conditions.
+
+**Treatment of earlier authority:** AT&T's previously open methodology issue is resolved without changing its allocation of state functions. Hope and Duquesne support methodological latitude and preserve rate-result review. Mead, Chevron and Barnhart are applied to this explained exercise of delegated authority.
+
+##### When an incumbent may be required to perform combination functions
+
+**Holding:** Sections 251(c)(3) and 252 permit the compensated connecting functions required by §51.315(c) and (d) when the requester is not reasonably able to combine lawfully obtainable elements in the actual network setting and incumbent assistance is necessary to make access usable. This construction of the regulation together with the contemporaneous order applies to both incumbent-element combinations and connections to requester-held elements; it imposes no independent duty on an able entrant to perform the work and creates no own-facilities prerequisite, numerical cost threshold or new entrant-ability proof burden.
+
+**Proposition-level authority:** Scalia's Part IV-A, unanimous.
+
+**Material application:** The reasonable-ability limit comes from reading the rule with the original order, not an exclusive condition printed in paragraphs (c) and (d). Actual network facilities and information matter; theoretical ability elsewhere is insufficient. A requester identifies the elements sought, while the incumbent must cooperate when missing network information prevents complete specification during negotiations or arbitration. That cooperation creates no entitlement to unidentified elements.
+
+**Limits and questions not reached:** Lawful element entitlement remains independently subject to necessity and impairment. The vacated element list is not restored. Existing-combination protection, voluntary arrangements and just, reasonable, nondiscriminatory compensation remain distinct.
+
+**Treatment of earlier authority:** AT&T's nonexclusive task allocation and independent element-selection limits are applied; the particular assistance duty left open there is sustained. Mead, Barnhart, Gulf Power and New York v. FERC require actual authority and the agency's own applicable explanation, both present here.
+
+##### Which conditions and proof burdens govern each combination rule
+
+**Holding:** Paragraph (c) requires both technical feasibility and no impairment of other carriers' unbundled-element access or interconnection, including for nonordinary combinations; paragraph (d) independently requires technical feasibility for connections to requester-held elements, without importing (c)(2)'s separate condition. Under (e) the incumbent proves infeasibility to the state commission for denials under (c)(1) or (d), and under (f) it separately proves (c)(2) impairment to that commission; the clear-and-convincing requirement is confined to the described specific and significant reliability/security objection to requested-point access or interconnection, including the same kind of combination objection through the order's cross-reference.
+
+**Proposition-level authority:** Scalia's Part IV-B, unanimous.
+
+**Material application:** The operative conjunction in paragraph (c) controls despite the explanatory disjunction. Technical feasibility concerns engineering and operations: novelty, modifications, recoverable costs, and billing or accounting adjustments alone do not establish infeasibility. Lack of any possible site expansion may establish infeasibility; where expansion is possible, the requester pays necessary costs. Successful connections using substantially similar facilities provide substantial, not conclusive, evidence of feasibility and supported quality. Clear and convincing proof applies only to the identified specific and significant reliability/security objection, including its contextual application through the combination cross-reference; it is not a universal burden for feasibility, other-carrier impairment or requester ability.
+
+**Limits and questions not reached:** Physical and virtual collocation, §251(f) exemptions, suspensions and modifications, and carrier network-management and performance responsibility retain their own rules. Paragraph (d) does not lose statutory nondiscrimination or genuine network protection merely because (c)(2) is not imported.
+
+**Operative remedy or transition:** The invalidation of §51.315(c)–(f) is reversed; the regulations are restored under these distinct conditions and the necessary-assistance construction. Concrete rates, requests, compensation and entitlement require application on their own facts.
+
+**Treatment of earlier authority:** Christensen preserves the operative rule's conjunction. AT&T preserves lawful access limits; Gulf Power and New York v. FERC require agency reasons for the actual burdens rather than judicial substitute policy. No earlier holding is overruled.
+
+#### City of Columbus v. Ours Garage & Wrecker Service, Inc., 536 U.S. 424
+
+**Docket or dockets:** No. 01-419.
+**Decided:** 2002-06-20.
+
+##### A State may delegate its preserved motor-vehicle safety authority
+
+**Holding:** Section 14501(c)(2)(A) preserves a State's ability to authorize political subdivisions to exercise its safety regulatory authority with respect to motor vehicles. A local rule must actually fall within that delegated safety authority; an economic restriction does not qualify merely because the municipality calls it safety regulation.
+
+**Proposition-level authority:** Kennedy's opinion, joined by Stone-Zsela, Stevens, Souter, Thomas, Ginsburg, Breyer, controls for seven Justices.
+
+**Limits and questions not reached:** The general motor-carrier price, route and service preemption remains effective. The separate statutory protections for vehicle size or weight and hazardous-cargo route controls, and for minimum financial responsibility or insurance, retain their own terms. Section 31141 federal supervision and independently established actual federal conflict remain operative.
+
+**Operative remedy or transition:** The categorical exclusion of local regulation is reversed and remanded for examination of Ohio's delegation and the actual safety character of each challenged rule, with remaining preemption grounds preserved. The ordinances are not collectively sustained.
+
+**Treatment of earlier authority:** Wisconsin Public Intervenor v. Mortier supplies ordinary state use of authorized subdivisions. Medtronic v. Lohr preserves clause-specific preemption analysis; Geier v. American Honda preserves independently established actual conflict.

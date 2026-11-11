@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Election Law
 
@@ -2278,3 +2278,341 @@ For the continuing-controversy holding in Wood v. Meadows, June 11, 2001, Fourth
 - Timmons v. Twin Cities Area New Party: applied for proportionate preventive nomination administration in an accessible system; it remains neither pure rational-basis review nor permission to suppress competition.
 - Norman v. Reed and Moore v. Ogilvie: applied to the continuing election controversy and meaningful access; support screening remains permissible within the actual electorate.
 - Storer v. Brown: applied for the legitimate role of orderly candidate selection, without validating every deadline.
+
+### Constitutional allocation of presidential electors
+
+#### Igartua De La Rosa v. United States
+
+**Docket or dockets:** No Supreme Court docket supplied.
+**Decided:** 2002-02-19.
+
+##### Whether a federal court may order Puerto Rico to appoint presidential electors
+
+**Holding:** Article II allocates presidential electors to States, and the Twenty-Third Amendment separately allocates electors to the District of Columbia. Citizenship alone supplies Puerto Rico no additional electoral unit, number of electors or appointment-and-counting authority; a federal court therefore cannot order the territorial appointment and count sought here.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine direct votes for the rule and disposition.
+
+**Limits and questions not reached:** The rejected treaty and UOCAVA grounds were not appealed and are not revived. Congressional representation, territorial statehood and the local-law validity of Law 403 are outside the question reviewed. Participation through a former State's already allocated electors is a different claim.
+
+**Operative remedy or transition:** The First Circuit's vacatur and direction to dismiss the preserved territorial-elector claim with prejudice are affirmed unanimously. A locally authorized nonbinding vote and a distinct claim for absentee voting through an existing State's electors are not prohibited or adjudicated.
+
+**Limits and questions not reached:** The constitutional entitlement is rejected on its merits, not through a categorical political-question bar to territorial-rights litigation. No racial or cultural premise, general territorial immunity or reconsideration of unrelated Insular Cases holdings is adopted.
+
+**Treatment of earlier authority:**
+
+- McPherson v. Blacker, 146 U.S. 1: applied for Article II's allocation of elector appointment to States.
+- Rice v. Cayetano, February 23, 2000: its prohibition on racial exclusion from a public state electorate remains; it does not create another electoral unit.
+- U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill, May 22, 1995: fixed congressional qualifications remain distinct from creating an office or appointing unit.
+- Saenz v. Roe, May 17, 1999: equal citizenship on establishing bona fide residence in a State does not allocate presidential electors to a territory.
+- Bush v. Palm Beach County Canvassing Board, December 4, 2000, and Bush v. Gore, December 12, 2000: their rules for existing presidential appointment and counting retain their scope.
+
+### Equal access to a retained former-state presidential franchise
+
+#### Romeu v. Cohen
+
+**Docket or dockets:** Lower-court Nos. 00-6287 and 00-6303; no Supreme Court docket supplied.
+**Decided:** 2002-02-19.
+
+For prospective reviewability in Romeu v. Cohen, February 19, 2002, lower-court Nos. 00-6287 and 00-6303, see Federal Courts: Justiciability — Prospective review of recurring presidential absentee exclusion.
+
+##### UOCAVA as a federal minimum rather than a ceiling on state absentee eligibility
+
+**Holding:** UOCAVA sets a minimum for its covered overseas voters and does not prohibit broader state eligibility, but that floor does not itself dispose of the independently pleaded federal equality challenge.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by all nine Justices, controls.
+
+##### Equal protection reaches complete exclusion within the retained state presidential franchise
+
+**Holding:** An applicant who establishes otherwise comparable qualification for New York's retained former-resident presidential electorate and complete exclusion from presidential participation because of relocation to Puerto Rico suffers a severe electoral burden. The State must show that its exclusion is narrowly drawn to advance a compelling electoral interest; the asserted membership, administrative and incremental-accommodation interests do not justify this exclusion.
+
+**Proposition-level authority:** Part II of Souter's opinion, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg, controls the state holding and its as-applied relief.
+
+**Limits and questions not reached:** The trigger combines otherwise comparable former-state qualification with complete presidential exclusion. Territorial residence alone does not trigger strict scrutiny, and no permanent franchise for every emigrant is created. Ordinary identification, former-residence and authentication requirements remain available.
+
+**Operative remedy or transition:** The state injunction must prevent the responsible New York election official from denying an otherwise qualified Romeu access to the existing presidential absentee program because of Puerto Rico residence, abode or domicile, registration, or voting in local elections. It must also disapply the departure-from-the-United-States formulation insofar as that formulation would independently exclude him despite his last relevant state domicile in New York. These qualifications are unenforceable in this application; the decree does not delete them throughout every federal-election provision.
+
+The lower court must determine the remaining ordinary former-residence, age, registration and authentication facts and implement prospective equal access. A restriction against a second presidential vote remains permissible; Puerto Rico's local vote is not such a vote. New York may not equalize by withdrawing ballots required by UOCAVA's continuing overseas minimum. Relief operates through New York's existing electors, creates no territorial electors, orders no change to another State's program and reopens no completed election.
+
+**Treatment of earlier authority:**
+
+- **Anderson v. Celebrezze, 460 U.S. 780:** Its actual-burden, precise-interest and necessity inquiry is applied to the retained former-resident presidential opportunity.
+- **Burdick v. Takushi, 504 U.S. 428:** Its calibrated framework is extended to this selective former-resident franchise; its reasonable-burden application remains controlling in its complete-system setting.
+- **McDonald v. Board of Election Commissioners, 394 U.S. 802:** Distinguished because its record did not establish exclusion from voting itself; it remains authority for the absentee distinction it reviewed.
+- **Harper v. Virginia Board of Elections, 383 U.S. 663:** Its equality protection within an available franchise supports scrutiny of this selective distribution.
+- **Reynolds v. Sims, 377 U.S. 533:** Its protection of meaningful electoral equality supports the participation inquiry without creating territorial electors.
+- **Carrington v. Rash, 380 U.S. 89:** Its distinction between bona fide residence rules and impermissible electoral exclusions remains; it creates no permanent former-state franchise.
+- **McPherson v. Blacker, 146 U.S. 1:** Its state-based appointment structure remains in force; relief uses New York's existing electors.
+- **Timmons v. Twin Cities Area New Party, April 28, 1997:** Its limited-burden holding within a system preserving meaningful electoral opportunities remains; it does not decide complete presidential exclusion.
+- **Schrader v. Blackwell, December 10, 2001:** Its holding on an official nomination designation with continuing candidate access is distinguished; the complete-system inquiry remains operative.
+- **The Bush election decisions:** Their adjudicated counting and institutional holdings remain; neither supplies a categorical answer to this former-resident eligibility classification.
+
+##### The federal minimum must satisfy the same electoral equality requirement
+
+**Holding:** Through the Fifth Amendment's equality protection, UOCAVA's preservation of presidential absentee eligibility for comparable former residents abroad cannot completely exclude Romeu solely because he resides in Puerto Rico unless the exclusion satisfies the same compelling-interest and narrow-tailoring requirement. It does not; a prospective as-applied declaration against the responsible federal officer is required.
+
+**Proposition-level authority:** Part III of Souter's opinion, joined by Stone-Zsela, Stevens, Kennedy, Souter and Ginsburg, controls.
+
+**Operative remedy or transition:** The federal declaration, directed to the responsible federal officer, must state that UOCAVA's overseas-voter definitions in §1973ff-6(5)(B) and (C) may not be applied to deny an otherwise comparably qualified Romeu the presidential absentee eligibility preserved for former residents abroad solely because he resides in Puerto Rico. That direction includes the departure-linked former-domicile condition insofar as it recreates the same exclusion despite his last relevant state domicile in New York before moving to Puerto Rico. The declaration operates as applied; it does not deem Puerto Rico foreign or redefine the United States throughout the Act.
+
+**Limits and questions not reached:** The decision adopts no alternative rational-basis holding or suspect classification for territorial residence. The federal overseas minimum remains operative, with ordinary qualifications preserved.
+
+**Treatment of earlier authority:**
+
+- **Harris v. Rosario, 446 U.S. 651:** Distinguished at its congressional-benefits holding; it is not overruled or made the rule for every territorial voting classification.
+
+##### The independent theories create no permanent right to the former State's ballot
+
+**Holding:** The asserted Article IV, travel and general due-process theories do not independently entitle Romeu to carry New York electoral membership permanently after leaving the State. They supply no additional remedy on these facts; the Fifth Amendment equality claim is separately sustained.
+
+**Proposition-level authority:** Part IV of Souter's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, controls this rejection. Stone-Zsela does not reach it.
+
+**Limits and questions not reached:** Rejection of these independent entitlement theories neither affirms either equality dismissal nor defeats the separate equality holding. Statehood, congressional representation, territorial electors and a future amended absentee program are not decided.
+
+**Treatment of earlier authority:**
+
+- **Saenz v. Roe, May 17, 1999:** Its equal-citizenship rule at the new state residence remains; it supplies no independent permanent former-state electoral membership.
+
+### Official party designations and recognition requirements
+
+#### Schrader v. Blackwell
+
+**Docket or dockets:** No Supreme Court docket stated; reviewed judgment: 241 F.3d 783 (6th Cir. 2001).
+
+**Decided:** December 10, 2001.
+
+For Schrader v. Blackwell, December 10, 2001, concerning the continuing controversy, see Federal Courts: Justiciability — Recurring ballot-designation restrictions and election mootness.
+
+##### Ohio’s official party designation within its complete nomination system
+
+**Holding:** Under Anderson-Burdick, Ohio may condition this requested official party designation on compliance with its neutral party-recognition system where the complete nomination scheme leaves meaningful independent ballot access and opportunities for endorsement and campaigning. The actual burden is less than severe, and coherent nomination categories and reasonable preventive administration proportionately justify this application; empirical proof of prior disruption is not indispensable.
+
+**Proposition-level authority:** Thomas's opinion on the merits, joined by O'Connor, Scalia, Kennedy and Breyer; five Justices.
+
+**Limits and questions not reached:** Independent access and campaigning lessen rather than eliminate the associational burden. The Court adopts neither rational-basis review nor universal approval of affiliation restrictions or recognition thresholds. Verified affiliation does not compel redesign of the official recognized-party cue whenever alternative wording is feasible. More restrictive access and unsupported burdens remain subject to actual burden-and-fit review.
+
+**Operative remedy or transition:** The reviewed ballot-designation judgment is affirmed, 5–4.
+
+**Treatment of earlier authority:**
+
+- Anderson v. Celebrezze, 460 U.S. 780, and Burdick v. Takushi, 504 U.S. 428: the actual burden, precise interests and proportional fit remain controlling; no write-in presumption is transferred to labels.
+- Timmons v. Twin Cities Area New Party, No. 95-1608: its contextual nomination-system reasoning supports this bounded application, without universal approval of recognition restrictions.
+- Norman v. Reed, 502 U.S. 279: authorized expansion and independently qualified slate access remain protected; the present official status designation is distinguished.
+- Tashjian v. Republican Party of Connecticut, 479 U.S. 208, and Eu v. San Francisco County Democratic Central Committee, 489 U.S. 214: associational protection remains, without compelling every requested ballot format.
+
+### Advance casting and the federal final-selection date
+
+#### Voting Integrity Project, Inc. v. Keisling
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 259 F.3d 1169 (9th Cir. 2001).
+**Decided:** May 13, 2002.
+
+##### Whether advance congressional voting violates the federal election day
+
+**Holding:** Then-operative 2 U.S.C. §§1 and 7 do not preempt advance ballot casting when the State's congressional election remains open through the prescribed day and the final legal selection is completed on that day. Oregon's system, with continuing election-day voting, receipt required by that day and no earlier legally final winner, satisfies the rule; the same protection covers a materially equivalent advance-ballot feature, while a genuinely earlier final selection remains forbidden.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Material application:** Oregon accepts election-day votes and requires receipt by that day; no winner becomes legally final earlier. The proportion cast early is not controlling, and postponing counting or certification cannot cure an already final earlier selection.
+
+**Limits and questions not reached:** The decision neither extends the receipt deadline nor decides late ballots or an independent constitutional entitlement to a voting method. Federal presidential absentee provisions do not expressly authorize every congressional practice.
+
+**Operative remedy or transition:** Affirm the judgment rejecting congressional preemption; no replacement election calendar is required.
+
+**Treatment of earlier authority:** Foster v. Love is applied to distinguish preliminary participation from legally consummated congressional selection. Its prohibition of an early final election and its allowance for compatible preliminary proceedings remain controlling; no comprehensive code for all election procedures is created.
+
+##### Whether advance casting prematurely appoints presidential electors
+
+**Holding:** Then-operative 3 U.S.C. §1 fixes the day on which the State's presidential-elector selection is legally completed, rather than requiring each preliminary ballot act to occur that day. Advance casting under Oregon's election-day participation and receipt conditions does not appoint electors early; the rule does not authorize an earlier legally final appointment or decide ballots first received after the prescribed deadline.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous; this is an independent construction of 3 U.S.C. §1.
+
+**Material application:** Then-42 U.S.C. §1973aa-1(d) protects duly qualified residents absent from their district or unit on election day, and subsection (g) permits less restrictive practices. Those provisions coexist with common-day completion; they neither govern every federal office nor dispense with the appointment date. Universal advance voting does not require each voter to qualify independently under the federal absentee rule.
+
+**Limits and questions not reached:** No permission for late receipt, earlier final appointment or replacement of the enacted state scheme follows.
+
+**Operative remedy or transition:** Affirm rejection of presidential-election preemption on the existing receipt and election-day participation conditions.
+
+**Treatment of earlier authority:** Foster's completion distinction is applied by analogy while its congressional scope remains intact. No prior presidential timing decision is enlarged into a permission for late receipt, early final appointment or replacement of an enacted state scheme.
+
+#### Balderas v. Texas, 536 U.S. 919
+
+**Docket or dockets:** No. 01-1196.
+**Decided:** 2002-06-17.
+
+##### Capacity and independently sufficient grounds
+
+**Holding:** A preserved Section 2 district-formation claim by one protected group may satisfy the first Gingles condition in a lawful, geographically compact district either through a numerical majority or rigorous proof of dependable crossover support sufficient to elect the group's preferred candidates. Numerical exclusivity cannot defeat that supported alternative, but cohesion, majority bloc voting ordinarily sufficient to defeat the group's preferred candidates absent special circumstances such as an unopposed minority candidate, causation, and unequal opportunity under an independent totality inquiry remain necessary; an erroneous numerical screen warrants relief only when material to the disposition, and a genuinely independent sufficient lawful ground remains effective.
+
+**Proposition-level authority:** Stone-Zsela's signed opinion on summary direct appeal, joined by Stevens, Souter, Ginsburg and Breyer; five direct votes for the complete rule and limited mandate.
+
+**Material application:** The majority-linked explanation for rejecting the additional Latino-opportunity arrangement did not sufficiently identify a lawful independent disposition of the disputed capacity and geography evidence. Appellate explanations cannot supply missing trial-court findings. Rule 52(a) requires a reviewable application of the correct standard, not discussion of every exhibit.
+
+**Limits and questions not reached:** Electoral results do not conclusively prove dependable capacity, and geometric scores do not determine legal compactness. Facts about Plan 1099C cannot be transferred without support to Plan 1123C. Failure to prove cohesion between distinct minority groups does not resolve one group’s dependable outside support. The Court decides no distinct-group or influence-only entitlement, universal population denominator or statistical formula, and does not find the statutory elements proved.
+
+**Treatment of earlier authority:** Valdespino’s two capacity routes and survival of independent lawful grounds are applied. Gingles and Growe retain the causal conditions; De Grandy requires an independent totality inquiry without maximization or a proportionality safe harbor. Growe preserves priority for timely lawful state plans, and Voinovich permits compelled districts only to remedy proved violations. Federal authorship does not exempt a replacement map from Section 2.
+
+##### Remedy for the deficient explanation
+
+**Holding:** Because the majority-linked explanation does not sufficiently identify a lawful ground independently disposing of the appealed additional Latino-opportunity arrangement, the congressional judgment is vacated only insofar as it rejects that arrangement. The remand requires application of both capacity routes and the remaining statutory conditions with sufficiently identified findings, while Plan 1151C remains operative unless lawfully modified and any 2002 election already conducted under Plan 1151C is left undisturbed.
+
+**Proposition-level authority:** The same five-Justice opinion; the mandate is expressly reasoned, not inferred from an unexplained summary action.
+
+**Operative remedy or transition:** Vacatur reaches only rejection of the appealed arrangement and affected districts. Supported findings and the plaintiffs’ burden remain; supplementation follows ordinary procedural rules. The mandate requires neither an additional district nor general reopening of trial. The obsolete thirty-seat map does not revive, and the separate Texas House and Senate judgments remain unaffected.
+
+#### Utah v. Evans, 536 U.S. 452
+
+**Docket or dockets:** No. 01-714.
+**Decided:** 2002-06-20.
+
+For the June 20, 2002 holding in No. 01-714 on standing and likely redress after census transmission and certification, see Federal Courts: Justiciability.
+
+##### The Census Act permits this residual completion method
+
+**Holding:** Sections 141 and 195 permit hot-deck imputation that completes particular unresolved units with nearby comparable information after genuine mail and field enumeration. This residual method does not select a representative sample to substitute for enumeration of a larger unenumerated population, and §195 does not prohibit it; its small percentage alone supplies no permission.
+
+**Proposition-level authority:** Part II of Breyer's opinion of the Court is adopted by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven direct votes.
+
+**Limits and questions not reached:** The method completes identified unresolved address, occupancy and household-size entries after attempts to enumerate them individually. Function, rather than timing, randomness or small scale alone, distinguishes it from representative sampling. Materially different designs and a general permission-versus-duty construction of §195 remain undecided.
+
+**Treatment of earlier authority:** Department of Commerce v. United States House of Representatives: its permission for two identified designs remains intact; the four-Justice general construction does not control this independent method-specific analysis.
+
+##### The explained method reasonably serves enumeration and geographic representation
+
+**Holding:** The Enumeration Clause permits this residual imputation because it supplements a genuine population-counting effort and bears an explained reasonable relationship to enumeration and population-based representation. Locality and comparable housing type support the inference on this record without proof of quantified geographic superiority; a national-total improvement alone, a fixed percentage or unsupported geographic assumptions would not supply that relationship.
+
+**Proposition-level authority:** Part III of Breyer's opinion of the Court is adopted by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: six direct votes. Thomas opposes; O'Connor and Scalia do not reach this component.
+
+**Material application:** Nearby donors of comparable housing type supply the inference, and each unresolved unit remains at its own geographic location. The record does not establish quantified improvement in distributive accuracy; the method nevertheless has the required explained geographic relationship.
+
+**Limits and questions not reached:** Discriminatory manipulation, unsupported geographic proxies and the absence of genuine enumeration fall outside the permission. No freestanding APA merits claim is presented.
+
+**Operative remedy or transition:** The district-court judgment is affirmed and the challenged count and allocation remain in place. No replacement count, seat transfer or new census is ordered.
+
+**Treatment of earlier authority:** Wisconsin v. City of New York: applied without changing its reasonable-relationship standard or requiring empirical certainty. Department of Commerce v. United States House of Representatives: applied for constitutional permission to supplement a genuine enumeration with supported inference. Franklin v. Massachusetts: its supported counting choices remain consistent with this application; its separate administrative-review rule is unchanged.
+
+#### Page v. Bartels, 144 F. Supp. 2d 346 (judgment below)
+
+**Docket or dockets:** District-court No. 01-1733.
+**Decided:** 2002-06-20.
+
+##### The constitutional inquiry concerns a protected interest and the operation impairing it
+
+**Holding:** Racial consideration or predominance in a common territorial electorate does not itself establish a constitutional deprivation. The constitutional claims presented here must identify the governmental operation impairing a protected political interest and satisfy that claim's own elements; voters of every race receive the same protection, and Section 2 claims proceed independently on their statutory elements.
+
+**Proposition-level authority:** Part I of Stone-Zsela's signed opinion of the Court is adopted by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas do not join this part.
+
+**Limits and questions not reached:** Intentional dilution requires purpose, material impairment of protected electoral opportunity and causation. A participation claim requires an identified protected activity and concrete material impairment attributable to the challenged racial treatment or prohibited purpose; electoral defeat and total exclusion are unnecessary. A technical change or disappointment about political leverage is insufficient. No comprehensive rule for unpresented partisan or regional-separation theories is adopted.
+
+**Treatment of earlier authority:** Shaw v. Reno, Johnson v. Miller and Easley v. Cromartie: reaffirmed at their established territorial-design boundary and protection of independent injuries. The actual statutory inquiry remains governed by Section 2 and its own precedents.
+
+##### The statutory dilution claim fails on the relevant opposing-bloc evidence
+
+**Holding:** Section 2 does not require retention of a numerical-majority district where, on supported findings concerning the affected electorate and relevant nomination and election stages, challengers fail to establish opposing-bloc voting ordinarily sufficient to defeat the protected group's preferred candidates after considering relevant crossover support and special circumstances. Failure of that necessary condition disposes of this claim without deciding the first capacity condition or the remaining totality inquiry.
+
+**Proposition-level authority:** Part II of Stone-Zsela's signed opinion of the Court is adopted by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer: seven direct votes. Scalia and Thomas agree only in the statutory judgment on their noncoverage ground.
+
+**Material application:** Supported local election and nomination findings establish opportunity in Districts 27 and 34, even without Hispanic support. The decrease in District 27's Black voting-age population does not independently prove lost opportunity; gains elsewhere and a successful candidate's race would not answer the local inquiry.
+
+**Limits and questions not reached:** Plaintiffs bear the ordinary preponderance burden. Valdespino's rigorous-support requirement concerns reliability, not a heightened burden or compulsory research protocol. The first capacity condition, remaining totality inquiry, distinct-group aggregation and influence-only entitlement are not decided.
+
+**Treatment of earlier authority:** Gingles and Voinovich: applied to the independently necessary opposing-bloc condition. Valdespino: both capacity routes remain intact without a new capacity determination. De Grandy: preserved against maximization, numerical shortcuts and statewide-offset reasoning. Balderas: its limited-remand ruling does not displace the independently sufficient findings identified here.
+
+##### The intentional statutory claim also fails on this record
+
+**Holding:** The separately pleaded intentional Section 2 claim fails because supported findings establish neither purposeful diminution of minority voting rights nor the actual impairment asserted. This ground is separate from the results claim and does not make intent necessary for a Section 2 results violation.
+
+**Proposition-level authority:** Part II of Stone-Zsela's signed opinion of the Court is adopted by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer: seven direct votes. Scalia and Thomas agree only in the statutory judgment on their noncoverage ground.
+
+**Limits and questions not reached:** Racial awareness and changing population percentages do not alone establish purposeful diminution. Supported trial findings receive clear-error review, and the statutory results claim remains independent of intent.
+
+**Treatment of earlier authority:** The existing Section 2 results framework remains independent. Voinovich preserves claim-specific proof and does not make all statutory protection depend on purpose.
+
+##### The actual dilution and participation theories fail on supported findings
+
+**Holding:** Intentional dilution and materially unequal political participation require proof of the unlawful purpose or treatment, material impairment and causal connection belonging to the actual claim. The supported findings rejecting both loss of electoral opportunity and the separately alleged chilling of participation defeat these claims; the absence of established discriminatory purpose provides an additional ground.
+
+**Proposition-level authority:** The constitutional application in Stone-Zsela's signed opinion is adopted by all nine Justices: Part III addresses the Fourteenth Amendment and Part IV the Fifteenth Amendment. This complete agreement on the confined applications does not enlarge the five-Justice coalition for Part I.
+
+**Limits and questions not reached:** A prohibited purpose need not be sole or predominant. Once it is established as a substantial or motivating factor, the government must prove by a preponderance that materially the same decision would have occurred without it. That predicate was not established here. The separately rejected participation-chilling allegation cannot be answered solely by a candidate's ability to win; no developed separate due-process claim is presented.
+
+**Treatment of earlier authority:** Easley: its protection of independently asserted dilution and participation claims is applied; no reconsideration of the distinct territorial-design rule is necessary. Arlington Heights, Feeney and Brooks: their purpose and burden rules remain intact; no established prohibited-purpose predicate triggers the latter burden here.
+
+##### The Fifteenth Amendment claim fails without deciding dilution coverage
+
+**Holding:** Assuming the Fifteenth Amendment reaches the asserted dilution theory, the supported absence of purposeful racial abridgment defeats this claim. The Court leaves the broader coverage question open and affirms the denial of relief on this component.
+
+**Proposition-level authority:** The constitutional application in Stone-Zsela's signed opinion is adopted by all nine Justices: Part III addresses the Fourteenth Amendment and Part IV the Fifteenth Amendment. This complete agreement on the confined applications does not enlarge the five-Justice coalition for Part I.
+
+**Operative remedy or transition:** The final three-judge denial of injunctive relief on Counts I–IV is affirmed. The decision orders no redistricting, added district, election postponement or new trial, and supplies no immunity from another independently established wrong.
+
+**Treatment of earlier authority:** Voinovich: applied for the assumed-coverage, failed-purpose route; the Fifteenth Amendment coverage reservation remains effective.
+
+#### Robertson v. Bartels, 534 U.S. 1110
+
+**Docket or dockets:** No. 01-721; district-court No. 01-2024.
+**Decided:** 2002-06-20.
+
+For the June 20, 2002 holding in No. 01-721 rejecting the stated nonparty-preclusion ground, see Federal Courts.
+
+##### The territorial-design count identifies no independent constitutional deprivation
+
+**Holding:** Predominantly racial design of a common territorial electorate does not alone establish a Fourteenth Amendment deprivation. Even giving these plaintiffs the favorable reasonable inferences required on summary judgment, Count I identifies no independently cognizable denial or abridgment; the judgment denying relief on that count therefore stands.
+
+**Proposition-level authority:** Parts II and III of Stone-Zsela's signed opinion of the Court are adopted by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Limits and questions not reached:** The plaintiffs receive favorable reasonable racial-motive inferences under summary-judgment procedure; ordinary map shape or the existence of other criteria does not establish that race could not predominate. The governing substantive rule makes that disputed relative weight immaterial to the design-only claim. No second governmental act, electoral defeat or financial loss is required to show an independently cognizable wrong. The broader Fifteenth Amendment dilution-coverage question remains open.
+
+**Treatment of earlier authority:** Shaw, Miller and Easley: applied without changing the territorial-design boundary or protections for actual independent wrongs. Anderson v. Liberty Lobby: applied to favorable reasonable inferences, with materiality determined by the governing substantive law. Voinovich: its broader Fifteenth Amendment coverage reservation remains intact.
+
+##### The actual incumbent-prospect claim concerns the same territorial operation
+
+**Holding:** A claim that district boundaries favor minority incumbents' reelection prospects does not become a separate racial allocation of candidacy or civic rights merely by describing those prospects as an incumbent benefit. Count II identifies the composition of the common electorate and its expected political support, without an independent eligibility restriction or participation impairment, and fails under the same constitutional boundary.
+
+**Proposition-level authority:** Parts II and III of Stone-Zsela's signed opinion of the Court are adopted by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Limits and questions not reached:** The actual counts identify no separate racial ballot qualification, restriction on candidacy, entitlement to office, official racial ballot label or independent participation barrier. Independent discrimination is not excused because an incumbent has no right to a future term. Count III's separate residency dispute cannot enlarge this appeal.
+
+**Operative remedy or transition:** Denial of relief on Counts I and II is affirmed, 5–4, on the independent merits ground. The separate residency count is unaffected; no replacement plan, election change or new trial is required.
+
+**Treatment of earlier authority:** Easley: applied to the actual operation and preserved independent injuries. Anderson v. Martin: distinguished from common geographical composition. Adarand: preserved for an actual covered racial allocation, without using its justification rule to create one.
+
+#### Missouri Republican Party v. Lamb
+
+**Docket or dockets:** Eighth Circuit Nos. 00-1773 and 00-2686 (270 F.3d 567).
+**Decided:** June 27, 2002.
+
+##### Actual candidate resources remain distinct from independent and joint expression
+
+**Holding:** A State may regulate actual party-to-candidate resource transfers and genuine contribution conduits under the contribution standard: government must establish an objectively grounded, sufficiently important corruption or circumvention interest and a restriction closely drawn to it while preserving meaningful association and effective advocacy. Party identity, shared objectives, endorsement or ordinary access alone does not establish an actual candidate-resource connection or corruption; genuinely independent expression remains protected.
+
+**Proposition-level authority:** Part I. Opinion of the Court (Stone-Zsela), unanimous at the actual candidate-resource and genuine-conduit scope; Kennedy, Scalia and Thomas retain their separate view of joint expression without withholding a join here.
+
+**Treatment of earlier authority:** Buckley’s resource/independent-expression distinction and Colorado I’s actual candidate-connection requirement govern. Colorado II supplies neither a universal classification of jointly developed messages nor automatic validation of every party ceiling.
+
+##### The federal record establishes a relevant preventive interest beyond formal earmarking
+
+**Holding:** Relevant experience outside the State may establish an objective preventive justification without a completed local scandal, mandatory new local study or proof that legislators subjectively relied on that evidence when acting. Here the federal record establishes a materially relevant risk that tacit donor-party-candidate understandings and fundraising credits can circumvent valid candidate limits despite formal earmarking attribution; that resolved interest does not by itself establish close fit of Missouri's actual ceilings.
+
+**Proposition-level authority:** Part II of the unanimous opinion.
+
+**Limits and questions not reached:** The decision establishes the relevant preventive interest, not donor-specific attribution or corruption in every transfer. A tally, ordinary political agreement or access alone is insufficient.
+
+**Treatment of earlier authority:** Colorado II’s informal-circumvention record applies to tacit understandings and fundraising credits. Formal earmarking remains useful but is not an exclusive response. Renton’s outside-evidence analogy does not replace the contribution-specific constitutional test.
+
+##### Missouri must justify its actual ceilings while preserving meaningful association
+
+**Holding:** Missouri bears the separate burden to connect the supported circumvention risk to the actual operation and amounts of its challenged party ceilings, showing close fit that preserves meaningful chosen-party association and effective candidate-connected support. A federal ceiling's validity, unlimited independent spending or challengers' failure to prove that expression becomes practically inaudible does not discharge that burden; no fixed dollar floor or universal numerical safe harbor governs.
+
+**Proposition-level authority:** Part III of the unanimous opinion.
+
+**Treatment of earlier authority:** Russell requires government to justify actual operation and preserve meaningful association; Shrink’s supported statewide individual ceiling establishes no numerical safe harbor or challenger-impossibility burden. Day protects the chosen intermediary, without treating other speakers or channels as an answer. Colorado II’s particular federal Senate ceiling does not validate materially lower Missouri amounts as a matter of law. Daggett retains the affirmative government burden and Mariani the distinction between direct candidate resources and different financing arrangements.
+
+##### Vacatur requires a fit decision and corresponding relief within the presented scope
+
+**Holding:** The reviewed judgment cannot stand on automatic validation by Colorado II or a burden on challengers to prove practically ineffective expression. It is vacated and the case remanded for findings or record-based conclusions connecting the already supported mechanism to the actual Missouri ceilings, followed by appropriate relief for any limits the State cannot justify; adequate existing evidence may suffice without a new study or compulsory trial.
+
+**Proposition-level authority:** Part IV of the unanimous opinion.
+
+**Limits and questions not reached:** Severability requires its proper record. The separate reliance or prior-restraint contention and unpresented discrimination claim are outside review. No replacement dollar amount, blanket invalidation, retrospective liability or mandatory new evidence collection follows.
+
+**Operative remedy or transition:** Vacate and remand, 9–0. The already-established preventive interest is not reopened; the receiving court must justify actual ceilings and give appropriate relief for any that the State cannot sustain, using adequate existing proof where sufficient.

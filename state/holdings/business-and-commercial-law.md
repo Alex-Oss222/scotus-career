@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Business and Commercial Law
 
@@ -1234,6 +1234,8 @@ For the other questions in Atherton v. Federal Deposit Insurance Corporation, No
 
 **Treatment of earlier authority:** Exhibit Supply protects the actual surrender made to obtain the patent without making every amendment a universal estoppel.
 
+**Later-authority backlinks:** Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., May 28, 2002, adds a distinct rebuttable presumption concerning the scope surrendered after a qualifying narrowing amendment. The purpose-explanation burden and contextual protection for older prosecution records stated here remain unchanged; the two burdens are not merged.
+
 ##### Whether legal claim and surrender limits precede remaining infringement factfinding
 
 **Holding:** The court must determine claim meaning and enforce prosecution surrender before an asserted equivalent can establish infringement. Genuine factual equivalence disputes that remain legally available retain their ordinary place before the jury.
@@ -2159,3 +2161,316 @@ For the unanimous finality holding, see this case, No. 99-1235, December 11, 200
 - Holmes v. Securities Investor Protection Corp. retains factual and proximate causation for civil recovery.
 - United States v. Bestfoods supports separate corporate personality without supplying a RICO operator or vicarious-liability test.
 - Copperweld Corp. v. Independence Tube Corp. concerns the different antitrust conspiracy requirement and does not merge a natural person and corporate enterprise under §1962(c).
+
+### Fair Credit Reporting Act limitations and discovery
+
+#### TRW Inc. v. Andrews, 534 U.S. 19
+
+**Docket or dockets:** No. 00-1045.
+
+**Decided:** November 13, 2001.
+
+##### Whether the governing FCRA permits a general discovery extension
+
+**Holding:** The version of 15 U.S.C. §1681p governing these claims requires suit within two years from when liability arises. Its express extension permits suit within two years after discovery only when the defendant materially and willfully misrepresented information the Act required it to disclose to the individual and that information was material to establishing that defendant's liability to the individual; ignorance of a violation alone satisfies neither those conditions nor an additional general exception.
+
+**Proposition-level authority:** Ginsburg's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Breyer, controls this statutory construction, the exception's application and the limited nonreach below. Scalia and Thomas agree with the judgment on their separately stated ground.
+
+**Material application:** Andrews did not allege the material and willful misrepresentation of required information necessary for the express exception.
+
+**Limits and questions not reached:** Whether liability first arose with actual loss rather than disclosure is not decided because that distinct argument was first presented in this Court. The decision does not determine all willful-claim elements, establish the alleged loss date or prescribe a universal federal accrual rule.
+
+**Operative remedy or transition:** The general-discovery ruling is reversed. The first two disclosure claims cannot proceed on that theory. Remand confers no right to reopen the actual-loss theory, amend the complaint or obtain an accrual or exception hearing; ordinary preservation, waiver, mandate and procedural rules remain applicable.
+
+**Treatment of earlier authority:**
+
+- Andrus v. Glover Construction Co., 446 U.S. 608 (1980): applied for the significance of an expressly enumerated exception.
+- United States v. Menasche, 348 U.S. 528 (1955): applied to preserve operative work for the exception's enacted conditions.
+- Holmberg v. Armbrecht, 327 U.S. 392 (1946): its fraud/concealment rule is preserved; it does not establish the universal discovery rule urged here.
+- Urie v. Thompson, 337 U.S. 163 (1949): its latent-disease setting does not govern this express FCRA structure.
+- Rotella v. Wood (February 23, 2000) and Klehr v. A. O. Smith Corp. (June 19, 1997): their distinct RICO accrual, new-injury, unprovable-damage and concealment components remain at their actual scope.
+
+### Utility patents and the distinct plant-protection regimes
+
+#### J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., 534 U.S. 124
+
+**Docket or dockets:** No. 99-1996.
+
+**Decided:** December 10, 2001.
+
+##### Whether plant-specific protection excludes utility-patent eligibility
+
+**Holding:** Newly developed plants, including the corn varieties at issue, are not categorically excluded from 35 U.S.C. §101 because the Plant Patent Act or Plant Variety Protection Act also covers the subject. A claimant invoking utility protection must meet that statute's independent requirements; certificate-specific exceptions govern their own statutory right and do not create a general immunity from a valid utility patent.
+
+**Proposition-level authority:** Souter's opinion, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas and Ginsburg; seven Justices.
+
+**Limits and questions not reached:** Novelty, nonobviousness, disclosure and other independent patent requirements remain. The holding does not establish validity of each patent claim or enforceability of every sales restriction; administrative practice and legislative silence are not binding constructions.
+
+**Operative remedy or transition:** The categorical ineligibility defense is rejected and the Federal Circuit judgment affirmed, 7–2; independent patent and transaction issues retain their own requirements.
+
+##### The surviving certificate exceptions and amendment transition
+
+**Holding:** Concurrent utility eligibility does not rewrite the protection supplied by a plant-variety certificate. Former-law saved-seed protection and the amendments effective April 4, 1995 retain their enacted conditions and transition; no specific certificate, seed transaction or exception entitlement is adjudicated here.
+
+**Proposition-level authority:** The same seven-Justice opinion; the certificate boundaries form part of its coexistence holding.
+
+**Limits and questions not reached:** Under former §2543 as construed in Asgrow, reproductive sale protects seed genuinely saved for the farmer's own planting from authorized seed or its descendants, with seller and purchaser primarily farming for nonreproductive crop sales and compliance with state seed-sale law. Changed planting plans may permit sale of genuinely retained seed, but planned multiplication for marketing is not protected. Bona fide nonreproductive sales through customary channels retain independent protection; diversion by a buyer to planting carries deemed §2567 notice. Section 2544 separately protects plant breeding and bona fide research. None of these certificate provisions is an exception to a separate utility patent.
+
+**Operative remedy or transition:** The amended regime deletes the farmer-sales proviso from April 4, 1995. Section 14(a) generally preserves prior law for certificates issued before that date or applications then pending, subject to §14(b)'s refiling under amended terms while retaining the original §42 filing date and §14(c)'s notice identifying amended protection and sanctions for false or misleading claims or labels. No particular transaction, certificate or transition entitlement is adjudicated.
+
+**Treatment of earlier authority:**
+
+- Diamond v. Chakrabarty, 447 U.S. 303: its broad reading of §101 applies to qualifying human invention rather than a categorical exclusion of living subject matter.
+- Asgrow Seed Co. v. Winterboer, No. 92-2038: its former certificate saved-seed construction and transition limits remain; no utility-patent exception is derived from it.
+- In re Deuel, January 14, 1997: ordinary supported nonobviousness requirements remain distinct from category eligibility.
+- State Street Bank & Trust Co. v. Signature Financial Group, Inc., January 14, 1999: broad category language does not remove genuine statutory limitations or independent proof requirements.
+
+### Access-control trafficking and copyright defenses
+
+#### Universal City Studios, Inc. v. Corley
+
+**Docket or dockets:** Supreme Court docket not supplied; judgment below, 273 F.3d 429 (2d Cir. 2001).
+**Decided:** April 23, 2002.
+
+For Corley's expression and fitted-restraint holdings, April 23, 2002, judgment below 273 F.3d 429, see First Amendment — Functional software, purposeful links and copyright restraints; for its independent limited-times preservation holding, see Federal Courts — Preservation of a limited-times challenge.
+
+##### The separate trafficking prohibition has its own elements and exceptions
+
+**Holding:** Section 1201(a)(2) prohibits manufacture, importation, offering to the public, provision or other trafficking in a technology, product, service, device, component or part that is primarily designed or produced to circumvent effective access control over a work protected by the Copyright Act, has only limited commercially significant other purpose or use, or is marketed for that circumvention by the responsible person or a concerted actor with that person's knowledge; these are alternative predicates. Section 1201(c)(1) preserves infringement rights and defenses, including fair use, but does not supply a general defense to that independent trafficking prohibition.
+
+**Proposition-level authority:** Part I of Justice Thomas's Opinion of the Court is joined by all eight other Justices. All nine adopt the statutory rule, the application and the precise statutory limits below.
+
+**Limits and questions not reached:** Under (a)(1), the Librarian's periodic rulemaking may identify a class whose users are or are likely during the succeeding three years to be adversely affected in their noninfringing uses by the individual access prohibition. The published class exemption protects those users as to that class for the ensuing three years; (a)(1)(E) prohibits using that exemption or rulemaking determination as a defense to other provisions, including trafficking. The nonprofit library, archives or educational-institution exemption permits access to a commercially exploited copyrighted work solely to determine in good faith whether to acquire a copy solely for conduct permitted by the Copyright Act, and only when an identical copy is not reasonably available in another form; retention must last no longer than necessary and the accessed copy cannot be used for another purpose. For a library or archives, its collections must be open to the public or available both to affiliated researchers and other persons researching a specialized field. It expressly supplies no (a)(2) or (b) trafficking defense. Reverse engineering under (f) concerns a lawfully obtained right to use a program and elements not previously readily available to the person and necessary for interoperability of an independently created program with other programs; identification and analysis must be for that sole purpose and noninfringing. Necessary tools may be developed and employed for that analysis or interoperability, and information or means may be shared solely to enable that interoperability, without infringement or other illegality. Encryption research under (g) identifies and analyzes flaws or vulnerabilities in encryption applied to copyrighted works to advance knowledge or assist development of encryption products. Qualifying good-faith circumvention requires lawful acquisition of the encrypted copy, phonorecord, performance or display of a published work, necessity for that research, a good-faith effort to obtain authorization before circumvention, and no infringement or other applicable-law violation. Tools may be developed and employed solely for the researcher's own qualifying research and provided to a collaborator for qualifying research or verification. Qualification factors include whether dissemination reasonably advances knowledge or technology development rather than facilitating infringement or other illegality; legitimate study, employment, training or experience in encryption; and whether, with what documentation, and when the researcher informs the copyright owner of the findings. Security testing under (j) requires the owner or operator's authorization and the sole purpose of good-faith testing, investigation or correction of a system flaw; the act must not infringe or violate other applicable law. Qualification factors include whether information is used solely to promote the owner's or operator's security or shared directly with the developer, and whether its use or maintenance avoids facilitating infringement or other illegality, including privacy or security violations. Those are statutory factors rather than categorical prerequisites. Developing, producing, distributing or employing tools is permitted solely for qualifying testing, provided the means do not otherwise violate (a)(2). The findings do not establish that these defendants meet one of those distinct permissions. Their existence is not a factual finding that every legitimate scientific use is accommodated, nor a license to decide unpresented constitutional applications.
+
+**Material application:** Effective access control requires authorized information, process or treatment in ordinary operation; circumvention includes unauthorized decryption or bypass. The working DeCSS posting meets the designed-circumvention alternative. Section 1201(c)(2) preserves separate contributory and vicarious infringement law.
+
+**Operative remedy or transition:** The permanent posting restraint is affirmed at the demonstrated violation's scope.
+
+**Treatment of earlier authority:**
+
+- **Campbell v. Acuff-Rose Music, Inc.:** Fair use retains its integrated statutory role in infringement litigation; it is not transposed wholesale into a separately enacted trafficking defense.
+- **New York Times Co. v. Tasini:** Actual statutory rights and use permissions remain distinct; the value of a digital application alone does not create an unprovided permission.
+
+### Music-file exchanges and preliminary secondary copyright liability
+
+#### A&M Records, Inc. v. Napster, Inc.
+
+**Docket or dockets:** Supreme Court docket not supplied; judgment below, 239 F.3d 1004 (9th Cir. 2001).
+**Decided:** April 23, 2002.
+
+For Napster's separate §512 protections and fitted preliminary relief, April 23, 2002, judgment below 239 F.3d 1004, see Federal Courts: Immunities and Remedies — Copyright service protections and feasible injunctions.
+
+##### The preliminary fair-use defenses fail under the integrated factors
+
+**Holding:** On this supported preliminary record, unrestricted exchange of complete protected creative recordings with unrelated users is unlikely to be fair use under §107. Nontransformative whole-work copying and supported substitution for existing and developing markets outweigh the claimed sampling or relocation purposes; artist-authorized and otherwise lawful files remain lawful.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, unanimous; all nine join Parts I–VII and every qualification.
+
+**Limits and questions not reached:** The unchallenged prima facie infringement showing and the fair-use findings remain preliminary. The Court assumes, without deciding generally, that owners bear the preliminary burden of likely defeating fair use. The contrary survey was weighed, and supported substitution concerns actual college sales and a developing licensed-download market, not a presumed lost fee for every unlicensed use.
+
+##### Substantial lawful capability does not immunize specific ongoing assistance
+
+**Holding:** A service can incur contributory liability by knowingly providing material assistance to identified infringement, notwithstanding substantial noninfringing uses of its technology. Sony bars imputing the needed knowledge from capability alone; it does not immunize continuing materially assisting operation after specific knowledge.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, unanimous; all nine join Parts I–VII and every qualification.
+
+**Material application:** Notices identified more than 12,000 infringing files, continued availability followed purported account terminations, and the search/index functions materially assisted access. General awareness of copyrighted music is not knowledge of unauthorized copying, and present infringement percentages are not the exclusive lawful-capability measure.
+
+##### Financial benefit and actual supervision independently support preliminary vicarious liability
+
+**Independent alternative holding:** Vicarious liability separately requires a direct financial benefit from infringement and the right and practical ability to supervise it. Attraction of infringing recordings to the user base can satisfy the benefit element without direct transaction fees, while account exclusion and index control support supervision over the service's actual assistance; both elements are supported here at the preliminary stage.
+
+**Proposition-level authority for alternative holding:** Stevens's Opinion of the Court, unanimous; all nine join Parts I–VII and every qualification.
+
+**Limits and questions not reached:** The vicarious ground independently suffices at this preliminary stage; it does not replace contributory knowledge. Theoretical shutdown capacity creates no duty to inspect user contents the service cannot access or to guarantee prevention of unknown copying.
+
+##### The Audio Home Recording Act is confined to its defined coverage
+
+**Holding:** Section 1008 does not immunize this general-purpose computer service's open redistribution merely because users characterize copying as noncommercial. Its consumer-recording protection depends on the defined devices, media and recording acts.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, unanimous; all nine join Parts I–VII and every qualification.
+
+**Limits and questions not reached:** Under §1001(5), a digital musical recording is a material object containing, in digital form, only fixed sounds and related, relatively minor material, statements or instructions, from which the sounds and material can be perceived, reproduced or communicated directly or with a device. Entirely spoken-word recordings, including speech accompanied by merely incidental sounds, and objects containing computer programs are excluded; instructions constituting the fixed sounds and incidental material or bringing about their perception, reproduction or communication remain permitted. A digital audio recording device must be of a type commonly distributed to individuals for their use, whether separate or part of another machine, have a digital recording function designed or marketed primarily to make private digital audio copied recordings, and be capable of doing so. Professional model products and dictation, answering or other audio equipment designed and marketed primarily to fix nonmusical sounds are excluded. The service cannot detach the exemption from those conditions. This disposes of the asserted exemption without classifying every future dedicated player.
+
+##### Owner conduct supplies no abandonment, permission or copyright-misuse defense
+
+**Holding:** On this preliminary record, the owners' exploration of MP3 businesses does not establish intentional abandonment or permission for this service, and enforcing reproduction and distribution rights does not establish misuse extending copyright to unrelated property.
+
+**Proposition-level authority:** Stevens's Opinion of the Court, unanimous; all nine join Parts I–VII and every qualification.
+
+**Limits and questions not reached:** Express objections defeat the claimed permission inference; exploration of MP3 businesses or toleration alone establishes neither abandonment nor license. Later materially supported owner-conduct defenses remain available; final liability is not decided.
+
+**Treatment of earlier authority:**
+
+- **Campbell v. Acuff-Rose Music, Inc.:** The integrated four-factor inquiry governs; commerciality alone creates no dispositive presumption, and concrete substitution is distinct from mere loss of a fee for unlicensed use. The preliminary outcome does not require resolving the general burden allocation.
+- **Sony Corp. of America v. Universal City Studios, Inc., 464 U.S. 417:** Substantial noninfringing capability prevents imputed contributory liability from capability alone. Its private time-shifting application does not immunize public redistribution or specific ongoing assistance after knowledge.
+- **New York Times Co. v. Tasini:** Its separation of actual statutory rights, use permissions and individualized remedy remains; it supplies neither a general digital-use exemption nor a compulsory license.
+
+### Patent prosecution narrowing and the scope of surrendered equivalents
+
+#### Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co., 535 U.S. 722
+
+**Docket or dockets:** No. 00-1543.
+**Decided:** May 28, 2002.
+
+##### Which amendments trigger prosecution-history estoppel
+
+**Holding:** An amendment that actually narrows a claim to obtain the patent by satisfying a patentability requirement can create prosecution-history estoppel, including narrowing for a disclosure requirement. Actual narrowing is determined from the claim's legally operative scope before and after amendment in its patent and prosecution context; a voluntary change receives the same substantive inquiry, while a cosmetic or merely explanatory change is not automatically a surrender.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Incorporating a dependent-claim limitation can narrow the independent claim. A feature need not be independently novel, indispensable or demanded word for word by the examiner; each limitation still requires actual legal-scope and purpose analysis.
+
+**Treatment of earlier authority:** Warner-Jenkinson Co. v. Hilton Davis Chemical Co., March 3, 1997, is applied to actual limitation-specific surrender. Exhibit Supply Co. v. Ace Patents Corp., 315 U.S. 126 (1942), protects the actual concession without establishing an irrebuttable bar to all equivalents.
+
+##### Who must explain an otherwise unexplained required narrowing
+
+**Holding:** When required narrowing lacks a disclosed legally sufficient reason, the patentee seeking an equivalent bears the explanatory burden. After fair consideration, an inadequate explanation permits the rebuttable presumption of a patentability-related reason and estoppel at the limitation; a supported nonpatentability explanation must be considered, including in the context of an older prosecution record.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The rule creates no automatic patentability presumption for every voluntary textual edit and no entitlement to reopening, a hearing or repeated proof. Historical silence is not misconduct; nonexistent contemporaneous formulations are not required.
+
+**Treatment of earlier authority:** Warner-Jenkinson's explanation burden and older-record qualification are applied unchanged; no subjective bad-faith condition or automatic second evidentiary opportunity is added.
+
+##### Whether qualifying narrowing extinguishes every equivalent
+
+**Holding:** Once patentability-related narrowing is established, the patentee presumptively surrendered the asserted equivalent at the affected limitation. The patentee may rebut with a concrete, objectively supported basis, anchored in the prosecution, showing that the actual relinquishment did not encompass that variation—for example, that the equivalent was not reasonably foreseeable at the relevant prosecution stage, that the amendment's rationale related only tangentially to it, or that it could not reasonably have been described within the claim at that time.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The examples are neither automatic safe harbors nor a closed list or general fairness balance. Reliable technical or explanatory evidence outside the contemporaneous file may illuminate an older prosecution, but cannot contradict a public concession, delete a term or replace objective meaning with private intent. Procedure governs admissibility and further opportunity. Successful rebuttal removes only estoppel; failed rebuttal bars the asserted equivalent at that limitation. Neither result decides technical infringement.
+
+**Treatment of earlier authority:** Warner-Jenkinson is developed through the explicit rebuttable scope presumption while its purpose burden remains intact. Markman v. Westview Instruments, Inc., April 23, 1996, preserves judicial claim construction and useful technical evidence without dictating every appellate standard or a special hearing. Graver Tank & Manufacturing Co. v. Linde Air Products Co., 339 U.S. 605 (1950), retains protection against insubstantial substitutions within the legal claim boundaries.
+
+##### Whether the Stoll ring amendment qualifies as patentability narrowing
+
+**Holding:** Incorporating the pair-of-rings restriction into Stoll's replacement independent claim narrowed that claim and served a patentability purpose in the response to the §112 rejection. Festo's account that the old sealing means already distinguished the references does not defeat that trigger, although it may bear on whether the amendment's rationale encompassed the single-ring equivalent under the separate scope inquiry.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** No general means-plus-function construction or technical equivalence is decided. Whether the rings independently avoided prior art is unnecessary; the earlier sealing-means distinction can bear on scope but does not itself rebut surrender.
+
+**Treatment of earlier authority:** Warner-Jenkinson's actual-narrowing and patentability rule is applied to this specific claim and response; its preserved equivalents inquiry supplies the separate work on remand.
+
+##### Whether the Stoll magnetizable-sleeve amendment qualifies as patentability narrowing
+
+**Holding:** Adding magnetizable sleeve material to Stoll's replacement independent claim narrowed that claim in the documented patentability response. The earlier proffer of inventor nonintention, lack of independent necessity and attorney mistake does not establish a supported nonpatentability purpose for the attorney's actual submission or permit deletion of the issued restriction; the scope presumption applies to the nonmagnetizable-sleeve equivalent, subject to Festo's separate rebuttal burden.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The holding neither finds false testimony or disobedient intent nor depends on a supposed concession or historical silence. A supported nonpatentability reason could matter; the actual proffer did not explain the prosecuting attorney’s selection and instead sought deletion of the term.
+
+**Treatment of earlier authority:** Warner-Jenkinson's fair-consideration and public-claim rules are applied together. Its older-record qualification neither makes an explanation automatically sufficient nor guarantees another evidentiary opportunity.
+
+##### Whether the Carroll ring amendment qualifies as patentability narrowing
+
+**Holding:** Replacing Carroll's former independent claim with claim 9's express pair-of-rings limitation narrowed the claim as part of the combination submitted to distinguish the German reference and preserve patentability. The feature's alleged presence in the reference and the emphasis on other features do not defeat that trigger, although those particulars may bear on the scope of surrender of the single-ring equivalent.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Specification disclosure alone did not impose the new ring limitation on the old independent claim. Emphasis on magnets, end members and cushions may support a tangential scope showing, which Festo must establish; unrelated abandonment neither concedes nor rebuts surrender of this equivalent. Stoll’s distinct disclosure and sleeve history is not attributed to Carroll.
+
+**Treatment of earlier authority:** Warner-Jenkinson's limitation-specific surrender rule governs the trigger, while the separate scope presumption preserves the legal relevance of the particular amendment rationale to the accused substitute.
+
+##### How preservation and all-elements requirements constrain the remand
+
+**Holding:** A dispositive preservation ruling must identify the actual defense, procedural act and governing rule for the particular patent and stage. The separate requirement that every material claim element be satisfied remains operative; vacating the complete-bar judgment decides neither that objection nor the legally available infringement and remedy questions.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, unanimous; Warner-Jenkinson's separate no-bad-intent proposition retains its original eight-Justice authority.
+
+**Limits and questions not reached:** The Stoll exchanges do not establish general abandonment or a Carroll waiver. The reported absence of Carroll estoppel at summary judgment retains only its own procedural scope. Remaining factual infringement issues retain ordinary factfinder treatment.
+
+**Operative remedy or transition:** Vacate the Federal Circuit complete-bar judgment and remand for scope rebuttal at the three established narrowing triggers, properly presented preservation objections and remaining all-elements and infringement issues. The trigger determinations are not reopened. Neither an infringement judgment, damages, further hearing nor new evidence is automatic.
+
+**Treatment of earlier authority:** Warner-Jenkinson's element-specific equivalents rule remains controlling; overall similarity cannot erase a material limitation. Its existing no-bad-intent rule is not reconsidered, and retains that decision's eight-Justice authority.
+
+### Securities sales executing a concealed appropriation scheme
+
+#### SEC v. Zandford, 535 U.S. 813
+
+**Docket or dockets:** No. 01-147.
+**Decided:** June 3, 2002
+
+##### Whether a concealed plan to appropriate customers' assets has the required connection with securities sales
+
+**Holding:** A broker who, with the required scienter and in breach of a duty to customers, secretly sells their entrusted securities for a contemporaneously concealed purpose of appropriating the proceeds commits deception in connection with the sales under §10(b) and Rule 10b-5 when the liquidation is an integral means of executing that plan. No false statement about the securities' value is required, but the actual sales, deceptive conduct and operative connection must be established, together with the applicable interstate-means and Rule 10b-5 conditions; a later independently conceived misuse of proceeds from an honestly completed sale does not satisfy this rule.
+
+**Proposition-level authority:** Part I of Scalia's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer, commands nine votes for this complete statutory rule and its application to the alleged scheme.
+
+**Limits and questions not reached:** Broker status, custody, inferior management, fiduciary breach alone and temporal proximity do not establish the connection. Successful later conversion is not an additional connection element once the sale executes the concealed plan. Section 10(b)'s interstate condition requires use of interstate-commerce means or instrumentalities, the mails or a national securities-exchange facility. Rule 10b-5's prohibitions on fraudulent schemes, material misstatements or misleading omissions, and fraudulent practices retain their respective terms. Disclosed disloyalty without deception does not meet this rule; private-action reliance and loss elements are not automatically imported into this primary SEC enforcement action.
+
+**Treatment of earlier authority:**
+
+- Superintendent of Insurance of New York v. Bankers Life & Casualty Co., 404 U.S. 6: applied because fair-price execution does not remove fraud when the securities sale and diversion form one scheme.
+- Chiarella v. United States, 445 U.S. 222: applied to retain the duty needed to make silence deceptive.
+- Santa Fe Industries, Inc. v. Green, 430 U.S. 462: preserved; fiduciary unfairness alone is insufficient, while the pleaded scheme includes deception.
+- United States v. O'Hagan, decided June 25, 1997: its actual securities-use connection is applied to liquidation of customers' own entrusted securities, without making every conversion a securities violation.
+- Merrill Lynch, Pierce, Fenner & Smith, Inc. v. Kravitz, decided November 12, 1998: its knowingly false transactional-undertaking rule supports the distinction from later breach; its private reliance, causation and loss predicates retain their own scope.
+- Wharf (Holdings) Ltd. v. United International Holdings, Inc., decided May 21, 2001: applied for contemporaneous deception at the securities transaction, without treating these customers as purchasers of the option at issue there.
+
+##### Whether the pleaded integrated scheme requires reversal and reassessment of civil proof and relief
+
+**Holding:** Because the complaint alleges securities sales that execute the concealed appropriation scheme, the Fourth Circuit's categorical connection ruling cannot sustain dismissal of the reviewed §10(b)/Rule 10b-5 claim. The judgment is reversed and the case remanded for application of ordinary civil proof, issue-preclusion and remedial rules under the corrected connection standard; the wire-fraud convictions do not automatically establish every securities element or restore the prior injunction and $343,000 disgorgement.
+
+**Proposition-level authority:** Part II of Scalia's opinion of the Court has the same nine full joins and controls the reversal and bounded remand.
+
+**Limits and questions not reached:** The civil court must identify the issues necessarily determined by the wire-fraud convictions and independently apply the securities elements. The Court orders neither automatic restoration of the former injunction and $343,000 disgorgement nor unlimited discovery or a new hearing. Section 17(a) sufficiency is outside the review, the disclaimed excessive-trading theory is not revived, and Central Bank's distinct private assistance action remains intact.
+
+**Treatment of earlier authority:**
+
+- Central Bank of Denver, N.A. v. First Interstate Bank of Denver, N.A., decided April 19, 1994: its confined private affirmative-assistance action remains undisturbed; this claim concerns primary conduct in an SEC action.
+
+### Accrual after repudiation of federal prepayment promises
+
+#### Franconia Associates v. United States, 536 U.S. 129
+
+**Docket or dockets:** No. 01-455; related specified Grass Valley petitioners; reviewed Federal Circuit Nos. 99-5123 and 00-5094.
+**Decided:** June 10, 2002
+
+For the distinct Franconia taking-accrual question, June 10, 2002, No. 01-455, see Property and Economic Rights — Accrual of a taking under the federal rural-housing preservation regime.
+
+##### When the assumed future-prepayment contract claim accrues under §2501
+
+**Holding:** On the assumed undertaking to accept permitted prepayment when a borrower exercises the option, advance statutory repudiation does not inevitably start §2501's six-year period at enactment or implementation. The borrower may effectively elect to treat repudiation as breach; absent that election, the claim accrues when the promised performance is due and wrongly refused or otherwise breached, subject to the actual promise and any legally sufficient excuse for tender.
+
+**Proposition-level authority:** Part I of Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer, supplies nine votes for the rule and reversal of both reviewed contract limitations judgments.
+
+**Limits and questions not reached:** The unrestricted-prepayment undertaking is assumed solely for accrual review. Actual formation, authority, scope, effective election, due performance, tender or lawful excuse, refusal or other breach, defenses and filing intervals remain claimant-specific. The Perri request and response remain an affidavit with unresolved reconsideration-stage admissibility and effect. The 1992 extension to later loans does not restart accrual for these pre-1979 borrowers. Both reviewed contract limitations dismissals are reversed without a finding that every claim is timely, a damages award or compulsory acceptance of prepayment.
+
+**Treatment of earlier authority:**
+
+- Roehm v. Horst, 178 U.S. 1: ordinary anticipatory-repudiation election is applied without compulsory acceleration.
+- Mobil Oil Exploration / Marathon Oil: actual and anticipatory performance remain distinct; its restitution result supplies no automatic recovery here.
+- United States v. Winstar Corp. and Hercules Inc. v. United States: actual authorized contractual undertakings govern ultimate liability while sovereign legislative authority remains.
+- Bay Area Laundry: completion of an enforcement claim is distinguished from underlying obligation; its ERISA periods are not transplanted.
+- TRW and Young: no general discovery extension or stay-based tolling is imported into this accrual question.
+
+#### Ticknor v. Choice Hotels International, Inc., judgment below 265 F.3d 931
+
+**Docket or dockets:** Ninth Circuit No. 00-35048; no Supreme Court docket is established.
+**Decided:** 2002-06-17.
+
+##### Montana law governs the challenged clause
+
+**Holding:** Under Montana's adopted choice-of-law rule, chosen Maryland law yields on this enforceability issue only if Montana law would govern absent the effective choice, Montana has a materially greater interest in the particular issue, and enforcement of the chosen law would contradict a fundamental Montana policy. Those requirements are met by this locally performed hotel franchise and the established conflict with Montana's general policy against the proved oppressive term.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct votes for both questions.
+
+**Material application:** The relevant contacts include contracting, negotiation, performance, the property and the parties. The hotel and principal performance were in Montana; Ticknor was a Colorado resident who signed in Mexico, and the guarantors lived in South Dakota. Montana’s local property and obligations support the required greater interest and otherwise-governing law despite those out-of-state contacts. Mere disagreement with Maryland law would not establish the necessary fundamental-policy conflict.
+
+**Treatment of earlier authority:** First Options preserves ordinary judicial decision and review of antecedent contractual enforceability; no federal choice-of-law rule replaces Montana's governing conflicts predicates.
+
+##### The FAA preserves the established general unconscionability defense
+
+**Holding:** FAA §2 covers this interstate commercial franchise agreement but preserves a genuinely general contract defense applied equally to arbitration and other terms. Under Montana law, adhesion alone does not establish invalidity: the provision must fall outside the weaker party's reasonable expectations or, even within them, be unduly oppressive, unconscionable or contrary to public policy; the combined nonnegotiability, imposed distant forum and reservation of Choice's principal enforcement avenues establish oppression here and sustain denial of compulsion.
+
+**Proposition-level authority:** Stevens's opinion of the Court, joined by Stone-Zsela, Souter, Ginsburg and Breyer; five direct votes for both questions.
+
+**Material application:** Choice retained judicial enforcement for indemnification, collection of amounts owed under the agreement, and injunctions against unauthorized trademark use; it remained bound to arbitrate other claims. These are three actual carve-outs, not a complete exemption. Nonnegotiation, the imposed distant forum and the practical preservation of principal enforcement tools operated together; commercial experience and alternatives were relevant but not conclusive.
+
+**Limits and questions not reached:** The Court requires neither identical promises nor a universal rule against form contracts, distant arbitration or unequal remedies. The clause and incorporated rules establish no clear and unmistakable delegation of this clause-specific objection. Legal enforceability receives independent review and historical findings clear-error review. A prior voluntary arbitration demand did not amend the bargain; Green Tree creates no universal cost-development procedure here.
+
+**Operative remedy or transition:** Affirm denial of compulsion under this clause. The underlying contract action may proceed in the proper judicial forum; no contract liability, damages, rewritten arbitration term or invalidation of unrelated obligations follows. Guaranty and other party-specific matters retain their own limits.
+
+**Treatment of earlier authority:** Casarotto is applied to equal treatment and a proved general defense; First Options preserves the antecedent judicial inquiry; Green Tree is distinguished at its particular statutory-access and undeveloped-cost setting.

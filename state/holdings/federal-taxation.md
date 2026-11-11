@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Federal Taxation
 
@@ -1201,3 +1201,123 @@ For whether bankruptcy changes the ultimate persuasion burden assigned by the su
 - Christensen v. Harris County: preserves the difference between interpretation and amendment of operative regulatory terms, without adopting a general bar to administrative interpretation.
 - Gitlitz v. Commissioner: preserves its express income classification and sequencing holdings and rejects a policy override of those terms; it does not decide this separate taxpayer-account question by analogy alone.
 - United States v. Cleveland Indians Baseball Co.: distinguishes the established permissible wage-allocation interpretation there from the proposed initial member ceiling here; its deference holding remains effective within its own predicates.
+
+### Insurance-policy borrowing and substantive deduction requirements
+
+#### Winn-Dixie Stores, Inc. v. Commissioner
+
+**Docket or dockets:** Tax Court No. 05382-97; no Supreme Court docket supplied.
+**Decided:** 2002-02-20.
+
+##### Effect of section 264's four-of-seven exception on a borrowing arrangement lacking economic substance
+
+**Holding:** Compliance with the four-of-seven exception in the governing section 264(c)(1) removes the relevant section 264(a)(3) restriction on systematic premium-financing borrowing; it does not affirmatively confer a section 163 deduction or immunize the borrowing from the substantive-sham inquiry. Where accepted findings establish both no nontax business purpose and no prospect of pretax profit, that exception does not require the claimed interest and related fee deductions. The accepted four-of-seven compliance means that no portion of the annual premium was financed by policy borrowing in four of the first seven years.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, supplies nine direct votes for the statutory rule, narrow application and affirmance.
+
+**Limits and questions not reached:** Tax motivation alone does not establish a sham. The Court chooses no universal conjunctive or disjunctive economic-substance test for mixed findings and does not require every legislatively favored investment to earn a pretax profit. Economically independent insurance expenditures lie outside this decision.
+
+**Operative remedy or transition:** The reviewed 1993 deficiency and disallowance of interest and related fees are affirmed unanimously on accepted findings of both no nontax business purpose and no prospect of pretax profit; those historical findings are not reopened.
+
+**Treatment of earlier authority:**
+
+- Knetsch v. United States, 364 U.S. 361: applied to distinguish substantive indebtedness from formal borrowing that fails to supply the claimed deduction's economic substance; tax motive alone remains insufficient.
+- Gregory v. Helvering, 293 U.S. 465: applied for statutory substance rather than a general prohibition on arranging affairs to reduce tax.
+- Gitlitz v. Commissioner, January 9, 2001: its protection of enacted tax consequences is preserved alongside the independent requirements of the actual deduction; it supplies no immunity for this arrangement.
+
+### Federal tax liens and entireties rights
+
+#### United States v. Craft, 535 U.S. 274
+
+**Docket or dockets:** No. 00-1831.
+**Decided:** April 17, 2002.
+
+##### The actual entireties rights are federal rights to property
+
+**Holding:** After demand and nonpayment, §6321 reaches the taxpayer's existing Michigan entireties rights considered together—present use, exclusion, enjoyment of income, survivorship and participation in joint disposition—even though the whole estate cannot be conveyed or partitioned unilaterally and is shielded from ordinary separate creditors. The lien reaches those taxpayer rights and creates no ownership of the wife's independent rights; their value and lawful collection consequences require separate determination.
+
+**Proposition-level authority:** Justice Breyer's Opinion of the Court is joined by Stone-Zsela, O'Connor, Kennedy, Souter and Ginsburg. Those six directly adopt the attachment rule and all remedial limits.
+
+**Limits and questions not reached:** State law identifies the taxpayer's actual rights; federal law determines their lien classification. No single incident, bare future expectancy or unified state label decides every case. Attachment precedes the conveyance to the wife; the alternative fraudulent-transfer theory and unrelated cross-appeal remain outside review.
+
+**Operative remedy or transition:** The no-attachment judgment is reversed and remanded for valuation and lawful treatment of the escrow, preserving the wife's independent interests and applicable priority and enforcement protections. The agreed half escrow is not an adjudicated value; neither the former equal-share calculation nor the later $6,693 enhancement is adopted. Attachment supplies no automatic half recovery or sale.
+
+**Treatment of earlier authority:**
+
+- **Drye v. United States:** Its state-definition/federal-classification method governs the actual present rights; its unilateral inheritance power is an application, not an exclusive condition silently added to §6321.
+- **United States v. National Bank of Commerce, 472 U.S. 713:** Applied to distinguish state creditor limitations from federal lien classification.
+- **United States v. Bess, 357 U.S. 51:** Applied to identify the particular reachable economic interest without transferring other interests in the arrangement.
+- **United States v. Rodgers, 461 U.S. 677:** Enforcement and nondebtor protections retain their separate statutory requirements; attachment supplies neither an automatic sale nor a half-value allocation.
+- **United States v. Estate of Romani:** Its specific priority protections remain applicable on their own predicates after attachment.
+
+### Economic substance and consistent foreign-tax-credit accounting
+
+#### Compaq Computer Corp. v. Commissioner
+
+**Docket or dockets:** Fifth Circuit No. 00-60648; no Supreme Court docket is supplied.
+**Decided:** May 28, 2002
+
+##### Whether foreign withholding and the corresponding credit enter consistent profit computation
+
+**Holding:** A court independently reviews a transaction's legal characterization for federal tax purposes while reviewing its subsidiary historical findings for clear error. Where the taxpayer owns the dividend entitlement and bears the foreign tax liability, the pretax calculation includes the gross dividend, including withholding paid on the taxpayer's behalf; a worldwide after-tax calculation must also account for the corresponding legally available United States foreign tax credit.
+
+**Proposition-level authority:** Part I of Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine votes for this rule and its application.
+
+**Limits and questions not reached:** Subsidiary historical findings receive clear-error review; correcting their tax characterization does not replace the findings concerning limited investigation and promoter coordination. The computation yields approximately $1.894 million pretax and $1.25 million worldwide after-tax profit on this record, not a universal minimum-profit threshold.
+
+**Treatment of earlier authority:**
+
+- Old Colony Trust Co. v. Commissioner, 279 U.S. 716, 729: applied because withholding discharges Compaq's own tax liability and therefore forms part of its income.
+- Diedrich v. Commissioner, 457 U.S. 191, 199–200: applied for the same liability-discharge principle; payment by another does not remove the economic benefit from the taxpayer's income.
+
+##### Whether the actual receipt trades possess economic substance and sufficient business purpose
+
+**Holding:** The established purchase of Royal Dutch American Depository Receipts, acquisition of the dividend entitlement and resale must be recognized under the applicable income, capital-loss and foreign-tax-credit provisions: its actual return, acquired economic rights and market exposure establish economic substance and sufficient business purpose despite its tax objective. Substantive-sham scrutiny remains available, but tax motivation, rapid resale and the reduction of avoidable risk do not by themselves defeat recognition of this demonstrated arrangement.
+
+**Proposition-level authority:** Part II of Stevens's opinion of the Court, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine votes for the complete bounded holding.
+
+**Limits and questions not reached:** Recognition rests on genuine economic rights, actual return and market exposure, not nominal title or reported income alone. No safe harbor is created for nominal profit, fabricated trades, controlled circular pricing, nonexistent foreign liability or independent credit failures. Because substance and sufficient purpose are both present, the Court does not choose a universal conjunctive, disjunctive or factor-based formula for different records. The 1997 §901(k) holding-period rule does not govern this 1992 transaction or validate all earlier arrangements.
+
+**Treatment of earlier authority:**
+
+- Gregory v. Helvering, 293 U.S. 465: applied to retain the requirement of statutory substance; it does not make tax motivation alone disqualifying.
+- Knetsch v. United States, 364 U.S. 361: distinguished because this transaction acquired genuine market rights and an actual return; its treatment of economically empty borrowing remains in force.
+- Frank Lyon Co. v. United States, 435 U.S. 561, 580–584 & n.16: applied to genuine economic rights despite tax planning and to independent review of legal tax characterization with deference to subsidiary historical findings.
+- Winn-Dixie Stores, Inc. v. Commissioner, decided February 20, 2002: distinguished on its accepted absence of both economic predicates; its preservation of substance scrutiny, enacted tax consequences and transaction-specific assessment remains controlling.
+
+##### Whether recognition removes the sham-dependent deficiency, negligence penalty and contingent expense request
+
+**Holding:** Within the Commissioner's stipulation that the transaction's reporting is otherwise unchallenged, recognition removes the deficiency and §6662 negligence penalty insofar as they depend on the rejected substantive-sham adjustment, leaving only computation under the applicable statutory requirements. The contingent request to deduct transaction expenses if the transaction is disregarded has no operative work once the transaction is recognized.
+
+**Proposition-level authority:** Part III of Stevens's opinion of the Court has nine votes for the deficiency, penalty and bounded computation treatment: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Its concluding treatment of the contingent expense-deduction request has eight opinion votes: Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone-Zsela agrees with that disposition only.
+
+**Limits and questions not reached:** The disposition does not establish that limited investigation always constitutes reasonable care. Independent ownership, reporting and credit-limit objections are excluded by the Commissioner's stipulation; their statutory requirements remain effective. Further proceedings are confined to the applicable computation, without a new purpose trial or search for an unasserted disallowance theory.
+
+#### United States v. Fior D'Italia, Inc., 536 U.S. 238
+
+**Docket or dockets:** No. 01-463.
+**Decided:** 2002-06-17.
+
+##### Reasonable aggregate estimation may assess the employer's independent tax
+
+**Holding:** Sections 3111, 3121(q) and 6201 permit the IRS to assess an employer's own FICA liability through a reasonable aggregate estimate of taxable tip wages without first determining or assessing every employee's liability. Estimation implements the existing tax; it does not enlarge the statutory wage base.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy and Ginsburg; six Justices adopt both holdings.
+
+**Limits and questions not reached:** For subtitle F, §3121(q) treats omitted tips, including omissions from an inaccurate or incomplete employee statement, as paid when the Secretary makes notice and demand on the employer. Penalties and interest require a subsequent failure to pay the demanded amount timely; earlier underreporting alone does not trigger them. Section 6205’s regulated interest-free correction procedure does not condition this assessment power on an authorizing regulation, and initial reporting from employee statements does not foreclose later assessment of qualifying omitted tips.
+
+**Treatment of earlier authority:** Cleveland Indians separates tax computation, timing and benefit accounting; United Dominion applies the computation actually supplied by the governing scheme. Neither adds an employee-assessment prerequisite here.
+
+##### The estimate remains bounded by taxable wages and the actual litigation stipulation
+
+**Holding:** Reasonable aggregate estimation must retain the exclusion of noncash tips, the exclusion of cash tips below $20 for an employee in a calendar month, and the annual wage bases applicable to each tax component and employee for 1991 and 1992. A taxpayer may ordinarily challenge an estimate's reasonable factual foundation, but this restaurant's express stipulation forecloses an accuracy challenge in this case while preserving its unsuccessful statutory-authority argument.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Kennedy and Ginsburg; six Justices adopt both holdings.
+
+**Material application:** The IRS extrapolated from credit-card tips, applied the rate to receipts and deducted reported tips. Differences in cash tipping, below-threshold tips, annual ceilings, cash returned through card transactions or deducted card charges may expose an unreasonable foundation without exact reconstruction of every tip. These are possible defects rather than established errors in this stipulated case.
+
+**Limits and questions not reached:** The later removal of the Medicare wage ceiling and later tip credit do not govern 1991–1992. Independent employee liability, benefit allocation and exact penalty or interest amounts are not decided.
+
+**Operative remedy or transition:** Reverse and remand for judgment implementing statutory aggregate-assessment authority and the parties’ stipulation governing the refund and counterclaim. Conceded factual accuracy is not reopened.
+
+**Treatment of earlier authority:** Brockamp's distinct refund time and amount limits remain unchanged; permission to estimate neither expands refund jurisdiction nor suspends those limits.

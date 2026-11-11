@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Civil Rights
 
@@ -1136,6 +1136,8 @@ For the other questions in Planned Parenthood of Southeastern Pennsylvania v. Ca
 **Operative remedy or transition:** Reverse the categorical damages dismissal and remand for ordinary adjudication of liability, attribution, causation and compensable loss. No amount is awarded or prospective school-supervision order entered.
 
 **Treatment of earlier authority:** *Cannon v. University of Chicago*, 441 U.S. 677, supplies the established Title IX action and is not reopened. *Bell v. Hood*, 327 U.S. 678, supplies appropriate relief absent congressional limitation. *Davis v. Passman*, 442 U.S. 228, separates authority to sue from remedy. *J. I. Case Co. v. Borak*, 377 U.S. 426, opposes limiting relief merely because a statute does not enumerate remedies. *Guardians Association v. Civil Service Commission*, 463 U.S. 582, supplies intentional-discrimination remedial support without a single unified majority rationale. *Consolidated Rail Corp. v. Darrone*, 465 U.S. 624, supplies analogous monetary-relief support.
+
+**Later-authority backlinks:** Barnes v. Gorman, June 17, 2002, resolves punitive-damages availability for the Title VI remedies incorporated in §504 of the Rehabilitation Act and Title II of the ADA. It preserves Franklin’s compensatory holding and does not independently decide punitive availability in every other statutory channel.
 
 ##### Whether Spending Clause notice categorically bars compensation for the intentional Title IX violation alleged
 
@@ -6701,6 +6703,8 @@ For Sterling's exclusion of Hoban's factual-sufficiency contention from interloc
 
 **Treatment of earlier authority:** Love v. Pepersack and United States v. Hale preserve personal coverage independently of affiliation. United States v. Wright requires actual justification for the burden. Fraternal Order of Police v. United States's conviction-based official-use holding leaves this civil-order/private-possession application open and does not require criminal conviction universally.
 
+**Later-authority backlinks:** United States v. Emerson, June 17, 2002, extends the civil danger predicate to the defined threat-only protective adjudication following actual notice and a meaningful opportunity to contest specific violent-threat evidence under law requiring real protective necessity. Completed assault and an express credible-threat formula are unnecessary at that scope; Napier's adjudicated-violence application and Wright's burden-sensitive safeguards remain intact.
+
 ##### Whether this order-dependent possession disability satisfies intermediate scrutiny
 
 **Holding:** This disability, supported by adjudicated domestic violence and recurrence risk, hearing protections and dependence on an operative qualifying order, is a substantial regulation under Wright. It satisfies intermediate scrutiny because preventing armed recurrence is important, the conduct-based exclusion substantially fits that objective, and its defined operation does not unnecessarily or effectively eliminate protected activity; both convictions survive this Second Amendment challenge.
@@ -6789,3 +6793,370 @@ For Tuan Anh Nguyen v. INS, June 11, 2001, No. 99-2071, on severance, the former
 **Operative remedy or transition:** Rejection of the equality challenge is reversed; the discriminatory temporal condition cannot defeat transmission. The conditional statutory remedy is stated under Immigration — Citizenship after severance of a recognition deadline.
 
 **Treatment of earlier authority:** Virginia’s demanding substantial-fit review is applied without changing its scrutiny level. Miller’s fragmented merits outcome is not converted into a governing rule. Fiallo retains its admission-preference holding without a general extension to these citizenship conditions.
+
+### Deliberate deprivation of meaningful exercise in prison
+
+#### Delaney v. DeTella
+
+**Docket or dockets:** Seventh Circuit No. 00-4145; reviewed judgment, 256 F.3d 679.
+
+**Decided:** March 4, 2002.
+
+For *Delaney v. DeTella*, March 4, 2002, Seventh Circuit No. 00-4145, the interlocutory review and 1996 qualified-immunity holdings appear under Federal Courts: Immunities and Remedies — Assumed-fact review of prolonged exercise deprivation.
+
+##### II. The assumed deprivation satisfies binding Farmer
+
+**Holding:** Under the binding and unchallenged Farmer framework, prolonged denial of meaningful exercise in confinement inadequate for it violates the Eighth Amendment when it creates a substantial risk of serious harm that the responsible official actually appreciates and unreasonably disregards. The assumed six-month deprivation, known serious effects and lack of a reasonable response satisfy that legal standard; negligence, collective knowledge and duration alone do not.
+
+**Proposition-level authority:** Souter's unanimous opinion of the Court.
+
+**Material application:** The plaintiff-favorable six-month confinement account is assumed rather than found true. The cramped cell and shackled trips supply no meaningful exercise alternative on that account. A substantial known health risk need not mature into grave injury, although compensation retains its independent injury requirements.
+
+**Limits and questions not reached:** Actual personal awareness, responsibility and an unreasonable response remain essential. Short restrictions, acute prisoner-specific danger, unavoidable security needs, meaningful alternative exercise and reasonable protective measures require their own facts; a general lockdown label alone does not justify the assumed deprivation. Obviousness permits but does not compel a knowledge inference. Reasonable responses defeat deliberate-indifference liability even if harm follows. No nationwide exercise quota, least-restrictive-regimen duty or independent expansion of punishment doctrine is adopted.
+
+**Operative remedy or transition:** The legal denial of immunity is affirmed; individualized knowledge, response, authority, causation and injury remain subject to ordinary proof and supported dispositive defenses.
+
+**Treatment of earlier authority:**
+
+- Farmer v. Brennan: applied as binding conditions law; actual awareness, permissible circumstantial proof and reasonable-response protection remain intact.
+- Wilson v. Seiter: applied to keep seriousness and culpability distinct; harm alone does not establish a violation.
+- Harlow v. Fitzgerald and Anderson v. Creighton: their objective, particularized personal defense is retained; no actual-authoritative-reliance substitute is adopted.
+- Elder v. Holloway: applied to all relevant law existing when the officials acted; no identical-case or later-notice rule follows.
+- Johnson v. Jones and Behrens v. Pelletier: applied to preserve assumed-fact legal review and exclude evidentiary-sufficiency review.
+- Davenport v. DeRobertis, French v. Owens and Jamison-Bey v. Thieret: their preconduct exercise holdings inform particularized notice; Davenport's five-hour remedy becomes no national minimum.
+- Anderson v. Romero: its acute-security qualification remains; materially different alternatives and genuine security circumstances require their own assessment.
+- Saucier v. Katz and Guest v. Leis: the retained objective defense is applied without a mandatory merits-first sequence or a new reliance requirement; neither later decision supplies 1996 notice.
+- Searles v. Van Bebber: its distinct injury and remedy conditions remain for any properly presented compensation issue; it does not defeat constitutional sufficiency merely because grave physical injury is unproved.
+
+### FERPA coverage of instructional peer grading
+
+#### Owasso Independent School District No. I-011 v. Falvo, 534 U.S. 426
+
+**Docket or dockets:** No. 00-1073.
+**Decided:** 2002-02-19.
+
+##### Whether temporary peer grading constitutes institutional maintenance of education records
+
+**Holding:** Under 20 U.S.C. §1232g(a)(4)(A), student-related information must also be maintained by the institution or someone acting for it in the relevant recordkeeping capacity to constitute an education record. Classmates' temporary exchange and grading of papers, followed by immediate reporting of marks during this instructional exercise, does not itself satisfy that condition; teacher direction alone does not make the peer grader an institutional recordkeeper.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer, supplies nine direct votes for this coverage rule and its limits.
+
+**Limits and questions not reached:** Institutional maintenance requires neither a central repository, permanent storage, one custodian nor a particular place. The sole-possession exception retains its distinct function. Student possession does not categorically defeat coverage when a student actually performs institutional recordkeeping. Retained gradebooks and papers later collected for institutional retention are different conduct. Section 1983 enforceability is assumed only to reject this noncovered claim and creates no general FERPA private action. A substantial federal claim supplies jurisdiction; private statutory enforcement is a separate nonjurisdictional inquiry.
+
+**Operative remedy or transition:** The coverage judgment is reversed unanimously and remanded. Genuinely distinct retained-record conduct or surviving claims require their own adjudication.
+
+**Treatment of earlier authority:**
+
+- Blessing v. Freestone, April 21, 1997: the particular statutory right and enforcement vehicle remain separate inquiries; assuming an action here establishes neither.
+- Alexander v. Sandoval, April 24, 2001: its integrated Title VI prospective action is preserved and does not decide FERPA enforcement.
+- TRW Inc. v. Andrews, November 13, 2001: independent statutory requirements and exclusions retain their actual limiting work.
+
+**Later-authority backlinks:** Gonzaga University v. Doe, June 20, 2002, resolves the asserted Section 1983 enforcement of FERPA's nondisclosure provisions against the claimant through statute-specific six-Justice agreement. Owasso's education-record definition remains intact, and Gonzaga adopts no majority general formula equating a statutory right with intent to create a private remedy.
+
+### Functional impairment as a basis for civil commitment
+
+#### Kansas v. Crane, 534 U.S. 407
+
+**Docket or dockets:** No. 00-957.
+**Decided:** 2002-01-22.
+
+##### Serious difficulty controlling dangerous conduct under Kansas's commitment law
+
+**Holding:** Due process permits this form of civil commitment only upon proof of a serious present functional impairment producing serious difficulty controlling the dangerous conduct and substantially connected to the qualifying mental condition and demonstrated danger. Complete inability to control every act is unnecessary, but diagnosis and predicted recidivism alone do not distinguish an eligible person from a dangerous ordinary recidivist; Kansas must establish the required functional connection under its beyond-a-reasonable-doubt burden.
+
+**Proposition-level authority:** Breyer's opinion speaks for Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer, supplying seven votes for the full rule and its application remand.
+
+**Limits and questions not reached:** The functional showing remains required for this form of commitment regardless of whether the condition is described as emotional, cognitive or volitional. The Court classifies no particular emotional diagnosis as sufficient or insufficient; clinical terminology does not replace the required functional assessment. A new punishment adjudication, facial redesign of commitment, periodic-review procedures and treatment or alternative-placement requirements lie outside the grant. A preserved operational punishment objection requires Crane-specific facts and the independent Hendricks-Seling inquiry.
+
+**Material application:** Clinical categories do not decide the functional question. No mathematical measure, compulsory clinical label, universal instruction or complete involuntariness is required. Personality disorder is neither automatically sufficient nor categorically disqualifying.
+
+**Operative remedy or transition:** The complete-incapacity judgment is vacated 7–2. The Kansas courts must evaluate whether the verdict and evidence lawfully establish the required impairment beyond a reasonable doubt. The trial commitment is not automatically restored; if the requirement is not established, that order cannot stand, and a new proceeding needs independent lawful authority.
+
+**Treatment of earlier authority:**
+
+- Foucha v. Louisiana (May 18, 1992): applies its requirement of lawful present substantive custody predicates and its rejection of dangerousness alone after the psychiatric predicate has ended; narrower genuinely justified civil regimes remain possible.
+- Addington v. Texas, 441 U.S. 418: preserves its ordinary civil-commitment proof principles and recognition of clinical uncertainty; it does not lower Kansas's reasonable-doubt burden.
+- Kansas v. Hendricks / Hendricks v. Kansas (June 23, 1997): retains its as-applied retrospective-punishment holding. Its noncontrolling diagnostic discussion neither establishes today's control rule nor transfers findings from Hendricks to Crane.
+- Seling v. Young (January 17, 2001): preserves the cumulative civil-intent and punitive-operation inquiry and its distinct remedial predicates; it supplies no categorical invalidation or approval of Crane's commitment.
+
+### Intentional corruption of process causing pretrial confinement
+
+#### Zahrey v. Coffey
+
+**Docket or dockets:** Reviewed Second Circuit judgment, 221 F.3d 342; no Supreme Court docket supplied.
+
+**Decided:** March 19, 2002.
+
+For *Zahrey v. Coffey*, March 19, 2002, reviewed judgment 221 F.3d 342, the separate functional-causation and 1996 personal-immunity questions appear under Federal Courts: Immunities and Remedies — Investigative fabrication followed by protected advocacy.
+
+##### I. Deliberate corruption of the process causing confinement violates due process
+
+**Holding:** An investigating official violates due process by knowingly creating materially false evidence for use in legal proceedings and thereby causing an unjustified deprivation of physical liberty. The rule requires the official's own deliberate falsification, materiality and actual causal deprivation; a false statement alone, mistake, disputed inference, innocent receipt of another's falsehood, acquittal or unused fabricated evidence does not suffice.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: seven direct votes for the rule and its qualifications. Scalia and Thomas dissent on qualified immunity and do not join the constitutional rationale.
+
+**Limits and questions not reached:** Albright creates no majority rule displacing this independent procedural injury; no general substantive malicious-prosecution right, independent Fourth Amendment claim or Fourth Amendment duration rule is decided. Buckley's immunity classification alone does not establish constitutional injury. The favorable allegations remain unproved, and collective knowledge does not replace personal deliberate falsification.
+
+**Operative remedy or transition:** The personal detention claim may proceed subject to actual function, deliberate falsity, materiality, causal deprivation, injury and supported defenses. The existing federal-officer action gains no agency or corporate defendant and no independent new damages category.
+
+**Treatment of earlier authority:**
+
+- Mooney v. Holohan, Pyle v. Kansas and Napue v. Illinois: their deliberate process-deception principle is applied to materially caused pretrial confinement; acquittal does not erase that completed liberty injury.
+- Buckley v. Fitzsimmons: its investigative/advocacy separation remains controlling, while its reservation of constitutional injury is resolved only for the deliberate process-deception and actual confinement rule adopted here. It supplies no general fabrication tort.
+- Albright v. Oliver: its fractured judgment remains without a controlling rationale; no general substantive malicious-prosecution right or rule displacing every independent procedural claim is derived from it.
+- Franks v. Delaware and Malley v. Briggs: their preconduct material-deception rules inform the causal and notice analysis; legal process does not automatically insulate the person who corruptly procured it.
+- Fletcher v. Kalina and Clanton v. Cooper: their functional, personal-causation and remaining-defense distinctions are preserved. Neither creates retrospective notice, an advocacy dishonesty exception or a general Fourth Amendment duration rule.
+- Harlow v. Fitzgerald and Anderson v. Creighton: objective, particularized conduct-date immunity remains; no factual-twin requirement or actual-authoritative-reliance substitute is adopted.
+- Elder v. Holloway: applied to consideration of all relevant preconduct authority. Lanier, Guest and Delaney remain consistent with that inquiry and supply no later-created 1996 notice.
+- White v. Frank and Jones v. City of Chicago: their pre-1996 applications reinforce notice concerning personal corruption of process causing confinement. The adverse Buckley remand decision and Rhodes are considered but do not defeat clarity at the bounded scope held here.
+- Crawford-El v. Britton: ordinary proof and lawful case management remain; deliberate wrongdoing must be established through the applicable civil procedures.
+
+### Knowing exposure to danger through actual child-custody placement
+
+#### S.S. ex rel. Jervis v. McMullen
+
+**Docket or dockets:** Reviewed Eighth Circuit judgment, 225 F.3d 960; no Supreme Court docket supplied.
+
+**Decided:** March 26, 2002.
+
+For *S.S. ex rel. Jervis v. McMullen*, March 26, 2002, reviewed judgment 225 F.3d 960, the distinct function-specific and conduct-date defenses and limited reinstatement appear under Federal Courts: Immunities and Remedies — Personal defenses to a child-custody placement claim.
+
+##### I. Actual custodial placement is an affirmative act subject to review
+
+**Holding:** Officials exercising actual custody over a child may not knowingly use their placement authority to expose the child to a specifically appreciated serious danger through deliberate and unreasonable disregard when they have authority and a real opportunity to respond. Each defendant's knowing participation, authority, unreasonable choice and resulting attributable injury must be established; a prior encounter with the same danger does not categorically erase the official's later affirmative custodial act.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** Actual control and placement authority are necessary; nominal legal custody, supervision or a voluntary private choice alone is insufficient. No general protection, investigation, indefinite-custody or successful-reunification guarantee follows. Earlier private exposure and the biological relationship do not erase an allegedly culpable affirmative custodial choice.
+
+**Treatment of earlier authority:**
+
+- City of Florence v. Chipman / Stemler v. City of Florence: its unanimous direct-restraint rule is extended to the alleged use of actual protective-custody placement authority, preserving personal awareness, authority, opportunity, unreasonable disregard and attributable injury. Its separate 1994 notice determination does not decide these defendants' immunity.
+- DeShaney v. Winnebago County: retained for failures to protect people in private custody. Its return-to-prior-danger discussion does not categorically bar scrutiny of a separately culpable affirmative exercise of actual custody; a hypothetical absence of all state intervention does not erase that act.
+- Youngberg v. Romeo: applied for security arising from actual custody, without mechanically adopting every institutional professional-judgment rule.
+- Daniels v. Williams: its exclusion of negligence remains binding; an adverse result or incorrect prediction alone is insufficient.
+- County of Sacramento v. Lewis: its emergency-pursuit harmful-purpose rule is distinguished from considered custodial placement; real opportunity and competing obligations remain relevant, without a universal deliberate-indifference rule.
+- Farmer v. Brennan: its actual-awareness, permissible-inference and reasonable-response limits inform the analysis; no general prison-to-child-protection code is adopted.
+- Baby Richard v. Kirchner: its independent transition interest and fitted prospective procedure retain their bounded force. They do not establish this damages cause or supply notice before June 21, 1996.
+- Pinder v. Johnson and Uhlrig v. Harder: their distinctions and conduct-date immunity judgments remain intact; neither decides this current actual-custody application categorically.
+- Harlow v. Fitzgerald, Anderson v. Creighton and Elder v. Holloway: objective, individualized notice and consideration of relevant contemporaneous law remain governing principles.
+- Guest v. Leis, Delaney v. DeTella and Zahrey v. Coffey: their particular rights and notice conclusions remain distinct; later rulings supply no earlier notice for these custody acts. Zahrey preserves personal causation and possible independent intervening process without presuming deception here.
+- Milstein v. Cooley: actual-function analysis is preserved without automatically extending prosecutorial advocacy immunity to social-worker placement or recommendations.
+- Crawford-El v. Britton and Swierkiewicz v. Sorema N.A.: ordinary proof and lawful procedural management remain; neither an invented evidentiary gate nor automatic liability follows.
+
+##### II. The pleaded deliberate choice can satisfy constitutional culpability
+
+**Holding:** A considered custodial placement made with actual appreciation of a specific grave danger and deliberate, unreasonable disregard of a meaningful opportunity to avoid it can constitute the conscience-shocking abuse of custody that substantive due process forbids. On the detailed allegations here, intent to cause the eventual abuse is not indispensable, and the action cannot be dismissed by categorically treating the alleged official choice as negligence.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Limits and questions not reached:** A reasonable professional choice among lawful alternatives remains protected even if unsuccessful. Time to deliberate alone establishes neither awareness nor unreasonable response. The July investigation must be considered but proves neither reasonableness nor deliberate disregard merely by occurring. No fixed investigation protocol or right to the safest home is established.
+
+**Treatment of earlier authority:**
+
+- City of Florence v. Chipman / Stemler v. City of Florence: its unanimous direct-restraint rule is extended to the alleged use of actual protective-custody placement authority, preserving personal awareness, authority, opportunity, unreasonable disregard and attributable injury. Its separate 1994 notice determination does not decide these defendants' immunity.
+- DeShaney v. Winnebago County: retained for failures to protect people in private custody. Its return-to-prior-danger discussion does not categorically bar scrutiny of a separately culpable affirmative exercise of actual custody; a hypothetical absence of all state intervention does not erase that act.
+- Youngberg v. Romeo: applied for security arising from actual custody, without mechanically adopting every institutional professional-judgment rule.
+- Daniels v. Williams: its exclusion of negligence remains binding; an adverse result or incorrect prediction alone is insufficient.
+- County of Sacramento v. Lewis: its emergency-pursuit harmful-purpose rule is distinguished from considered custodial placement; real opportunity and competing obligations remain relevant, without a universal deliberate-indifference rule.
+- Farmer v. Brennan: its actual-awareness, permissible-inference and reasonable-response limits inform the analysis; no general prison-to-child-protection code is adopted.
+- Baby Richard v. Kirchner: its independent transition interest and fitted prospective procedure retain their bounded force. They do not establish this damages cause or supply notice before June 21, 1996.
+- Pinder v. Johnson and Uhlrig v. Harder: their distinctions and conduct-date immunity judgments remain intact; neither decides this current actual-custody application categorically.
+- Harlow v. Fitzgerald, Anderson v. Creighton and Elder v. Holloway: objective, individualized notice and consideration of relevant contemporaneous law remain governing principles.
+- Guest v. Leis, Delaney v. DeTella and Zahrey v. Coffey: their particular rights and notice conclusions remain distinct; later rulings supply no earlier notice for these custody acts. Zahrey preserves personal causation and possible independent intervening process without presuming deception here.
+- Milstein v. Cooley: actual-function analysis is preserved without automatically extending prosecutorial advocacy immunity to social-worker placement or recommendations.
+- Crawford-El v. Britton and Swierkiewicz v. Sorema N.A.: ordinary proof and lawful procedural management remain; neither an invented evidentiary gate nor automatic liability follows.
+
+##### III. Each placement act, information date and causal contribution must remain distinct
+
+**Holding:** Liability requires proof of each official's own knowing use of actual custodial placement authority and injury attributable to that act, assessed with the information and lawful options then available. Earlier physical placement, continued decisions during retained custody, and a later judicial transfer of legal custody cannot be treated as one undifferentiated act; an independent, untainted judicial decision may defeat attribution, while its existence does not establish that every earlier official choice was compelled.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court.
+
+**Material application:** The March 8, 1996 physical placement occurred while legal custody remained with the Division; the August 22 order later transferred legal custody. The alleged assaults followed that order. Each earlier act must therefore be linked to attributable later injury without assuming abuse during foster custody or pooling the defendants' knowledge.
+
+**Limits and questions not reached:** An independent August-request theory detached from actual custody remains open because the order's constraints and its relationship to custodial implementation are unestablished. Truthful recommendation, compelled implementation, discretionary placement and deliberate deception are distinct; no deception is presumed. Later information cannot establish what an official knew at the initial placement.
+
+**Treatment of earlier authority:**
+
+- City of Florence v. Chipman / Stemler v. City of Florence: its unanimous direct-restraint rule is extended to the alleged use of actual protective-custody placement authority, preserving personal awareness, authority, opportunity, unreasonable disregard and attributable injury. Its separate 1994 notice determination does not decide these defendants' immunity.
+- DeShaney v. Winnebago County: retained for failures to protect people in private custody. Its return-to-prior-danger discussion does not categorically bar scrutiny of a separately culpable affirmative exercise of actual custody; a hypothetical absence of all state intervention does not erase that act.
+- Youngberg v. Romeo: applied for security arising from actual custody, without mechanically adopting every institutional professional-judgment rule.
+- Daniels v. Williams: its exclusion of negligence remains binding; an adverse result or incorrect prediction alone is insufficient.
+- County of Sacramento v. Lewis: its emergency-pursuit harmful-purpose rule is distinguished from considered custodial placement; real opportunity and competing obligations remain relevant, without a universal deliberate-indifference rule.
+- Farmer v. Brennan: its actual-awareness, permissible-inference and reasonable-response limits inform the analysis; no general prison-to-child-protection code is adopted.
+- Baby Richard v. Kirchner: its independent transition interest and fitted prospective procedure retain their bounded force. They do not establish this damages cause or supply notice before June 21, 1996.
+- Pinder v. Johnson and Uhlrig v. Harder: their distinctions and conduct-date immunity judgments remain intact; neither decides this current actual-custody application categorically.
+- Harlow v. Fitzgerald, Anderson v. Creighton and Elder v. Holloway: objective, individualized notice and consideration of relevant contemporaneous law remain governing principles.
+- Guest v. Leis, Delaney v. DeTella and Zahrey v. Coffey: their particular rights and notice conclusions remain distinct; later rulings supply no earlier notice for these custody acts. Zahrey preserves personal causation and possible independent intervening process without presuming deception here.
+- Milstein v. Cooley: actual-function analysis is preserved without automatically extending prosecutorial advocacy immunity to social-worker placement or recommendations.
+- Crawford-El v. Britton and Swierkiewicz v. Sorema N.A.: ordinary proof and lawful procedural management remain; neither an invented evidentiary gate nor automatic liability follows.
+
+### Original ADA manual-task disability and underlying impairment
+
+#### Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, 534 U.S. 184
+
+**Docket or dockets:** No. 00-1089.
+
+**Decided:** January 8, 2002.
+
+##### Substantial limitation of performing manual tasks under the original ADA
+
+**Holding:** Under original 42 U.S.C. §12102(2)(A), an impairment substantially limits performing manual tasks when it prevents or severely restricts the individual from performing tasks central to most people's daily lives, with permanent or long-term impact. This is an individualized standard requiring considerable functional limitation, not complete incapacity or loss of virtually every manual ability; diagnosis alone is insufficient, and no numerical duration threshold applies.
+
+**Proposition-level authority:** Ginsburg's manual-task-standard and application portions, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer; eight Justices. Stone-Zsela does not join those portions.
+
+**Limits and questions not reached:** Permanent or long-term impact need not mean an incurable diagnosis. The rule does not make every major life activity a daily activity or disturb Bragdon's reproduction holding. Contemporaneous guidance informs the analysis without a decision about general binding agency authority.
+
+**Operative remedy or transition:** Williams's favorable partial summary judgment is set aside unanimously. The lower courts must apply the controlling manual-task and mitigation rules and ordinary summary-judgment principles. Toyota's own summary judgment is not reinstated because that request was outside the accepted question.
+
+##### Occupational categories do not establish a different major life activity
+
+**Holding:** Inability to perform a class of occupational tasks does not by itself establish substantial limitation in the separate major life activity of performing manual tasks. Workplace evidence remains relevant to the extent it proves limitation of the general manual functions at issue; ordinary household and self-care evidence must likewise be assessed without categorical conclusions.
+
+**Proposition-level authority:** Ginsburg's opinion on this severable proposition, joined by all eight other Justices.
+
+**Limits and questions not reached:** Sutton and Murphy's class-of-jobs inquiry governs working, not manual tasks. Workplace evidence is neither categorically excluded nor dispositive; retained household or self-care ability likewise supplies no automatic defense.
+
+##### Beneficial correction does not eliminate underlying-impairment coverage
+
+**Holding:** The manual-task inquiry assesses the individual's underlying substantial limitation without treating beneficial correction or medication as eliminating it. Individual proof remains required, and coverage remains distinct from qualification, accommodation and safety; the claimant need not stop treatment.
+
+**Proposition-level authority:** Ginsburg's opinion on this severable proposition, joined by all eight other Justices.
+
+**Treatment of earlier authority:**
+
+- Sutton v. United Air Lines, Inc., No. 97-1943, and Murphy v. United Parcel Service, Inc., No. 97-1992: the underlying-impairment rule is applied unchanged; beneficial mitigation does not defeat coverage, and the working-specific class inquiry does not define manual tasks.
+- Bragdon v. Abbott, 524 U.S. 624: individualized substantiality and the distinction from complete inability remain; its reproduction and direct-threat holdings are intact.
+- Albertson's, Inc. v. Kirkingburg, No. 98-591: its distinct safety-qualification rule remains; it supplies no manual-task or mitigation methodology.
+
+### Public-housing conditions and intimate relationships
+
+#### Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker, 535 U.S. 125
+
+**Docket or dockets:** Nos. 00-1770 and 00-1781.
+
+**Decided:** March 26, 2002.
+
+For these consolidated *Rucker* matters, March 26, 2002, Nos. 00-1770 and 00-1781, statutory lease scope, due process and the common remedy appear under Property and Economic Rights — Public-housing lease grounds, protected interests and eviction process.
+
+##### IV. Intimate association
+
+**Holding:** Family and genuinely intimate relationships receive protection independently of any expressive message. The statutory omission of tenant knowledge does not itself establish direct and substantial interference with a protected living arrangement or trigger strict scrutiny; the specified relationships rationally connect this categorical housing condition to the legitimate protection of safe, drug-free housing and other tenants' enjoyment.
+
+**Proposition-level authority:** Part IV of Thomas's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Souter and Ginsburg: seven rationale votes. Stone-Zsela agrees only in the judgment; Breyer does not participate.
+
+**Material application:** The tenancy condition covers qualifying conduct by the tenant, a household member, a guest or another person under the control of the tenant. Those occupancy relationships connect the categorical condition to protection of the dwelling and neighboring tenants.
+
+**Limits and questions not reached:** Optional continuation of occupancy with an offending member excluded is not a command to dissolve a family. The categorical record establishes neither the nature and strength of each asserted relationship nor compulsory severance or a particular direct burden. A properly shown direct and substantial burden must receive its own justification; the scrutiny governing an established fundamental parental infringement is not diluted.
+
+**Operative remedy or transition:** This categorical intimate-association claim supplies no independent basis for the injunction; actual supported individual claims retain their own predicates.
+
+**Treatment of earlier authority:**
+
+- MCI Telecommunications Corp. v. AT&T Co. is applied to preserve the enacted boundary of agency authority; it authorizes neither an added knowledge requirement nor authority beyond the actual statute.
+- Christensen v. Harris County is applied to distinguish statutory or regulatory permission from an extra compulsory condition.
+- Bennis v. Michigan remains binding in its defined innocent-interest category, including reasonable-prevention proof and required protection. A conditioned public tenancy is distinguished; a supported individual analogy remains open on the missing lease-interest and prevention facts.
+- Hurley v. Irish-American Gay, Lesbian and Bisexual Group of Boston is applied to actual expressive presentation and compelled alteration, not to guest status alone.
+- Boy Scouts of America v. Dale is applied for actual expressive impairment and its preserved direct-speech, genuine message-role and intimate-association protections. Its organizational formulation and noncontrolling stronger advocacy requirement do not become universal tenant tests.
+- Lyng v. International Union, UAW is applied to distinguish indirect household economic consequences from a substantial protected burden while preserving its recognition of actionable subtle interference.
+- Troxel v. Granville preserves actual parental choice; its fractured grounds do not establish universal strict scrutiny or a harm test for every family effect.
+- Shahar v. Bowers is applied to actual enduring intimate relationships beyond civil marriage and the real governmental interest; it supplies no unconditional right to this tenancy.
+- Austin v. United States preserves coverage of at least partly punitive property extraction despite civil form or remedial purpose. It does not make every loss of occupancy a fine.
+- United States v. Bajakajian preserves the distinct punitive-extraction threshold and gross-disproportionality inquiry; no exclusive instrumentality rule or new valuation formula is adopted.
+- United States v. Ursery, Department of Revenue of Montana v. Kurth Ranch and Hudson v. United States concern different Double Jeopardy classifications. Their tests do not displace Austin's separate fines inquiry.
+
+### Racial descriptions and purposeful investigative selection
+
+#### Brown v. City of Oneonta
+
+**Docket or dockets:** No Supreme Court docket stated; reviewed judgment: 221 F.3d 329 (2d Cir. 2000).
+
+**Decided:** November 13, 2001.
+
+##### Whether a victim description exempts deliberate racial selection from equal-protection review
+
+**Holding:** When officials intentionally select people for investigation by race, they use a racial classification even if a victim supplied that feature and no hostility is shown. The government must establish an important lawful investigative objective and a substantial, evidence-supported relationship between that objective and the actual selection, its coverage and burdens, including a supported response to concrete practicable alternatives offering comparable investigative value with materially less racial disadvantage.
+
+**Proposition-level authority:** O'Connor's opinion for all nine Justices controls the classification rule, its standard and the bounded remand.
+
+**Material application:** A reliable description's race, age, sex, injury, location and timing may support a fitted investigation. The actual sweep and burdens, including the alleged encounter with a woman, require examination. Testimony, records and reasonable inferences may establish fit; the rule requires neither a commissioned study nor universally the least restrictive means.
+
+**Limits and questions not reached:** Consent to questioning does not itself eliminate an intentional racial burden. Group membership alone does not prove an encounter, injury or a defendant's responsibility. Personal liability, coercion, immunity and relief remain separate inquiries; immunity depends on law at the September 1992 conduct, not retrospective notice from this decision.
+
+**Operative remedy or transition:** The equal-protection dismissal is reversed insofar as it rests on the categorical victim-description exemption. Independently resolved claims, existing Fourth Amendment dispositions and the university officials' earlier list-release immunity judgment remain intact.
+
+**Treatment of earlier authority:**
+
+- Adarand Constructors, Inc. v. Peña (June 12, 1995): extended to deliberate investigative selection; the common substantial-justification standard governs rather than strict scrutiny.
+- Engineering Contractors (1998) and City of Dallas (1999): applied for evidence-supported fit, actual burdens and concrete practicable alternatives.
+- Eisenberg (May 30, 2000): its acknowledgment of the binding common standard is preserved; its distinct educational component is not extended to criminal investigation.
+- Lesage (November 29, 1999): applied to keep the classification inquiry separate from individual causation, immunity and consequential relief.
+
+#### United States v. Emerson, judgment below 270 F.3d 203
+
+**Docket or dockets:** Fifth Circuit No. 99-10331; no Supreme Court docket is established.
+**Decided:** 2002-06-17.
+
+For the separate fair-warning dismissal ground in United States v. Emerson, Fifth Circuit No. 99-10331, decided June 17, 2002, see Criminal Procedure — The asserted ignorance-of-law ground does not support dismissal.
+
+##### The right belongs to the individual
+
+**Holding:** The Second Amendment protects an individual's keeping of an ordinary pistol independently of enrollment in an organized militia. That coverage remains subject to a restriction justified under the governing burden-sensitive framework; a civil protective order does not itself remove the individual from the guarantee.
+
+**Proposition-level authority:** Souter's Part I, unanimous.
+
+**Treatment of earlier authority:** Love, Hale, Wright and Napier are applied to personal coverage; none is displaced.
+
+##### The statute preserves alternative order predicates
+
+**Holding:** Section 922(g)(8) requires an order issued after a hearing of which the person received actual notice and at which the person had an opportunity to participate; the order must restrain harassment, stalking or threats against that person's intimate partner or a child of either person, or other conduct placing the partner in reasonable fear of bodily injury to the partner or child. The order must also either find a credible threat to the partner's or child's physical safety, or expressly prohibit using, attempting or threatening physical force against the partner or child reasonably expected to cause bodily injury. The express finding in subsection (C)(i) is not an element of the alternative in (C)(ii); statutory satisfaction remains distinct from the constitutionality of the resulting federal disability.
+
+**Proposition-level authority:** Souter's Part II, unanimous.
+
+**Material application:** The charged order is the September 14, 1998 injunction following a noticed evidentiary hearing, not the earlier ex parte order. Its bodily-injury and threatened-imminent-injury prohibitions supply the (C)(ii) alternative without an express (C)(i) finding. The federal commerce and knowledge elements remain independent requirements.
+
+**Treatment of earlier authority:** Napier is applied to the alternative statutory predicates and absence of a categorical criminal-conviction requirement.
+
+##### This protective adjudication supports the possession disability
+
+**Holding:** A force-prohibiting domestic-relations order entered after actual notice and meaningful opportunity to contest specific violent-threat evidence may supply a constitutionally sufficient civil danger predicate when the applicable law requires a real, nonspeculative protective necessity, the order addresses that threatened injury, and the federal disability depends on the operative order. On this record the restriction is a substantial regulation under Wright and satisfies intermediate scrutiny: it serves the important objective of preventing armed domestic injury, substantially relates to that objective, and does not unnecessarily or effectively eliminate protected activity beyond the justified individual disqualification.
+
+**Proposition-level authority:** Souter's Part III, joined by Stevens, O'Connor, Kennedy, Ginsburg and Breyer; six direct votes for the complete protective-predicate rule, scrutiny application and affirmance. Stone-Zsela, Scalia and Thomas do not join.
+
+**Material application:** The hearing included evidence of a threat to kill the wife’s friend communicated to her, not a finding that Emerson threatened to kill her. Texas law required actual protective necessity. Neither later unadjudicated allegations nor treating unrebutted testimony as an admission supports the holding. Modification and mandamus were available, but no direct interlocutory appeal; the order lasted until the divorce decree or further order, with no assumed fixed brief duration or guaranteed restoration.
+
+**Limits and questions not reached:** A safety label, temporary duration or availability of guns to others does not alone establish fit. The holding does not validate every divorce injunction. Constitutional review of the additional federal burden remains distinct from ordinary collateral relitigation of the domestic proceeding; Wright’s prohibition on general elimination of meaningful ordinary defensive home possession remains.
+
+**Operative remedy or transition:** Affirm reversal of the Second Amendment dismissal, 6–3, permitting ordinary prosecution of the sole remaining possession count subject to proof of every enacted element and otherwise available defenses. The four dismissed counts remain dismissed; no conviction or finding that every alleged threat occurred follows.
+
+**Treatment of earlier authority:** Napier is extended from adjudicated violence and recurrence to the defined threat-order predicate; Wright's intermediate-scrutiny requirements and categorical home boundary remain intact. Fraternal Order of Police's official-use holding is not made a rule for every private-possession case.
+
+#### Dadian v. Village of Wilmette, 269 F.3d 831 (judgment below)
+
+**Docket or dockets:** Northern District of Illinois No. 98 C 3731; no separate Supreme Court docket is supplied.
+**Decided:** 2002-06-20.
+
+##### Necessary reasonable access includes a supported exception to a driveway rule
+
+**Holding:** Under the FHAA and ADA Title II, a municipality must make a reasonable modification of its driveway restriction when the plaintiffs establish that it is necessary to afford a qualified resident equal housing access, subject to an established applicable defense. Actual usability for the particular resident governs necessity; a preferred or more valuable design alone is insufficient, and a genuinely equally effective alternative can defeat the asserted need.
+
+**Proposition-level authority:** Scalia's opinion is joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg, Breyer; all nine adopt the complete accommodation rule and application.
+
+**Material application:** The trial evidence of Mrs. Dadian's longstanding walking limitations and the comparative routes permitted findings of disability, necessity and reasonableness. The existing rear driveway did not conclusively establish equally usable access.
+
+**Limits and questions not reached:** Intentional discrimination need not independently support the relief because accommodation suffices. The evidentiary objections do not warrant a new trial; any error was harmless against the principal medical, personal and meeting evidence. No general entitlement to a front driveway follows.
+
+**Operative remedy or transition:** The accommodation judgment, property-specific front-driveway permit injunction and denial of post-trial relief are affirmed. The ordinance remains enforceable consistently with federal accommodation law; dismissed constitutional and individual-official claims remain dismissed.
+
+**Treatment of earlier authority:** PGA TOUR, Inc. v. Martin supplies individual statutory assessment, while its Title III fundamental-alteration defense remains distinct. Toyota and Barnett retain their separate definitions and employment context.
+
+##### The Village bears its objective safety defense; this instructional error was harmless
+
+**Holding:** A municipality asserting that the accommodation presents a direct threat must prove, through objective individualized evidence, a significant risk that reasonable accommodation cannot eliminate. Safety applies to accommodation as well as intentional discrimination; confining the instruction to the latter was error, but this jury's actual rejection of the same asserted threat makes that placement error harmless.
+
+**Proposition-level authority:** All nine join the same Court opinion on defense allocation, the error and its record-specific harmlessness.
+
+**Limits and questions not reached:** The plaintiffs retain the burden of proving disability, necessity and reasonable accommodation. The Village must connect its claimed danger to the actual driveway, driver and available mitigation; impaired walking alone does not establish unsafe driving. Harmlessness rests on this jury's actual rejection of this same defense, not a rule that any favorable verdict cures an omitted instruction.
+
+**Treatment of earlier authority:** Bragdon v. Abbott supplies objective individual assessment and the defense's evidentiary basis; Echazabal's workplace self-threat rule is not imported into municipal housing law.

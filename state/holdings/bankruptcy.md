@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Bankruptcy
 
@@ -830,3 +830,73 @@ For the other questions in McClellan Federal Credit Union v. Parker, decided 199
 **Limits and questions not reached:** The district court’s distinct claim-preclusion theory must satisfy its own governing rule; the remand may not rename opportunity as actual litigation. No general rule makes all bankruptcy consequences disappear upon dismissal. Whether an FDCPA claim may ever rest on a bankruptcy filing is outside the reviewed issue; statutory elements, litigation immunity and displacement remain for their own supported analysis.
 
 **Treatment of earlier authority:** Taylor retains the consequence of failing to object to a scheduled exemption within its actual deadline and extension conditions; it does not deem every unopposed assertion litigated. Semtek requires identifying the judgment’s source and particular effect, without transplanting its federal-diversity incorporation rule. Pioneer and Hartford Underwriters preserve the particular procedural mechanism, authorized claimant and remedy; no general equitable relief from nonobjection follows.
+
+### Patent collateral priority against a judicial-lien trustee
+
+#### In re Cybernetic Services, Inc.
+
+**Docket or dockets:** No Supreme Court docket supplied.
+**Decided:** 2002-01-15.
+
+##### Federal recording and the trustee's asserted priority over a nonownership patent lien
+
+**Holding:** Section 261's recording rule governs transfers of patent ownership rights, including a title-transferring mortgage, but does not require federal recording to perfect this stipulated nonownership collateral interest against the trustee's judicial-lien claim. A covered assignment, grant or conveyance is ineffective against a subsequent purchaser or mortgagee for value without notice unless recorded within three months of its date or before the subsequent purchase or mortgage; those conditions do not establish a universal federal perfection system for all patent encumbrances.
+
+**Proposition-level authority:** Chief Justice Stone-Zsela's opinion is joined throughout by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine directly adopt this and each following holding, including the independent grounds and limits.
+
+**Treatment of earlier authority:**
+
+- **Waterman v. Mackenzie, 138 U.S. 252:** Applied for classification by the ownership rights transferred; its actual title-transferring mortgage remains distinct from this nonownership interest.
+- **Littlefield v. Perry, 88 U.S. 205:** Applied for the distinction between an ownership conveyance and retained lesser rights; instrument labels alone do not decide the case.
+- **O'Melveny & Myers v. FDIC, 512 U.S. 79:** Applied for the need for an identified legal conflict before displacing ordinary state rules; national uniformity alone remains insufficient.
+- **J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., December 10, 2001:** Its coexistence of distinct statutory patent protections remains intact; it is not extended into a collateral-perfection rule.
+
+**Independent alternative holding:** A trustee invoking section 544(a)(1) has the position of a hypothetical judicial lien creditor at commencement, without regard to knowledge and whether or not such a creditor actually exists; that status is not a subsequent ownership-taking purchaser or title mortgagee protected by section 261. Independently of transaction coverage, the trustee's preserved status therefore supplies no federal recording priority over this earlier perfected interest.
+
+**Proposition-level authority for alternative holding:** All nine Justices join this independently sufficient federal ground.
+
+**Limits and questions not reached:** The section 544(a)(2) unsatisfied-execution theory and purchaser theory were not preserved, and no exceptional circumstances justified reaching them. Section 544(a)(3) concerns real property; it does not confer patent-purchaser status. Actual ownership transfers and contests with protected purchasers retain their separate statutory rules.
+
+##### Former California section 9104(a) and transaction-specific federal governance
+
+**Holding:** Former California Commercial Code section 9104(a) withdraws Article 9 only to the extent a federal statute governs the rights of the parties and affected third parties in the relevant transaction. Because section 261 does not govern this nonownership collateral interest against this judicial lien creditor, section 9104(a) does not displace the state perfection rules in this case.
+
+**Proposition-level authority:** All nine Justices join this separate state-law holding.
+
+##### Former California sections 9302(3)(a) and 9302(4) and an adequate substitute perfection system
+
+**Holding:** Former California Commercial Code sections 9302(3)(a) and 9302(4) replace Article 9 filing only with an adequate national-registration or other outside filing system applicable to perfection of the relevant security interest. A register for patents and ownership transfers, even when collateral documents may be accepted voluntarily, does not provide that system for this nonownership lien and does not require an additional PTO filing here.
+
+**Proposition-level authority:** All nine Justices join this independent state-law issue resolution.
+
+**Limits and questions not reached:** Former California law controls, not revised Article 9. Voluntary PTO acceptance of collateral papers does not establish a filing duty. The recording regulation's validity and copyright perfection are not decided.
+
+**Operative remedy or transition:** The stipulated properly executed and timely California filing preserves priority over the section 544(a)(1) trustee, and the priority and stay-relief judgment is affirmed unanimously. Permission to foreclose is not a completed foreclosure or transfer of patent ownership.
+
+### Suspension of the tax-priority lookback during a prior stay
+
+#### Young v. United States, 535 U.S. 43
+
+**Docket or dockets:** No. 00-1567.
+
+**Decided:** March 4, 2002.
+
+##### The three-year tax lookback excludes a prior legally disabling stay
+
+**Holding:** The three-year income-tax priority lookback in the applicable 11 U.S.C. section 507(a)(8)(A)(i), carried into dischargeability by section 523(a)(1)(A), is suspended for the interval during which a prior bankruptcy stay legally prevented collection of that same liability. This traditional suspension requires no bad-faith finding and does not extend the period for ordinary collection difficulty, every successive petition or every deadline in the Bankruptcy Code.
+
+**Proposition-level authority:** Breyer's Opinion of the Court is joined in full by all eight other Justices. Their direct unanimous agreement controls the rule, its statutory limits and the affirmance.
+
+**Material application:** The prior stay, beginning May 1, 1996 and continuing when Chapter 7 was filed March 12, 1997, is excluded from the interval measured from the October 15, 1993 return deadline. No abuse or fraud finding is required.
+
+**Limits and questions not reached:** Section 523(b) concerns debts actually excepted from a prior discharge, not the dismissed Chapter 13 case; section 108(c) addresses covered proceedings outside bankruptcy. No broader construction of section 108(c)(1) is necessary. The separate 240-day compromise rule does not make a legally disabled collection interval count under the three-year rule. Priority categories and the substantive tax burden remain unchanged.
+
+**Operative remedy or transition:** Affirm nondischargeability unanimously; collection remains subject to otherwise lawful procedures.
+
+**Treatment of earlier authority:**
+
+- Irwin v. Department of Veterans Affairs: its rebuttable traditional background is applied to the particular stay and lookback interaction; no universal deadline extension follows.
+- United States v. Brockamp: distinguished by the integrated tax-refund filing, allowance and payment-window structure and the incapacity extension there; both of its statutory bars retain their force.
+- United States v. Noland: applied to preserve Congress's priority categories while allowing lawful equity within the Code; no creditor class receives a new rank.
+- Raleigh v. Illinois Department of Revenue: its preservation of the substantive tax burden remains distinct from this federal dischargeability calculation.
+- TRW Inc. v. Andrews: its rejection of a general discovery extension under the governing FCRA remains; accrual or discovery and a later legal disability to collect are different questions.

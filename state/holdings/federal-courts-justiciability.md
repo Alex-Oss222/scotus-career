@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Federal Courts: Justiciability
 
@@ -2381,3 +2381,74 @@ For the deadline's constitutional validity in Wood v. Meadows, June 11, 2001, Fo
 **Treatment of earlier authority:**
 
 Norman v. Reed applies Moore v. Ogilvie to continuing, recurring election disputes that evade full review on the election timetable; the actual continuing interests and repeated litigation satisfy that rule here.
+
+### Prospective review of recurring presidential absentee exclusion
+
+#### Romeu v. Cohen
+
+**Docket or dockets:** Lower-court Nos. 00-6287 and 00-6303; no Supreme Court docket supplied.
+**Decided:** 2002-02-19.
+
+For the statutory floor, equality rules and prospective remedies in Romeu v. Cohen, February 19, 2002, lower-court Nos. 00-6287 and 00-6303, see Election Law — Equal access to a retained former-state presidential franchise.
+
+##### Reviewability of Romeu's distinct prospective federal and state claims
+
+**Holding:** Completion of the 2000 election does not extinguish Romeu's recurring claim to prospective presidential absentee eligibility.
+
+**Proposition-level authority:** Part I of Souter's opinion, joined by all nine Justices, controls.
+
+**Material application:** Personal exclusion under continuing classifications is redressable through the officials responsible for the existing absentee system. The request concerns prospective eligibility rather than reopening the completed count. Relief against the state rule does not eliminate the independently pleaded federal equality claim.
+
+### Recurring ballot-designation restrictions and election mootness
+
+#### Schrader v. Blackwell
+
+**Docket or dockets:** No Supreme Court docket stated; reviewed judgment: 241 F.3d 783 (6th Cir. 2001).
+
+**Decided:** December 10, 2001.
+
+For Schrader v. Blackwell, December 10, 2001, concerning the recognition-linked official designation, see Election Law — Official party designations and recognition requirements.
+
+##### Whether the completed election and restored party recognition end the controversy
+
+**Holding:** Completion of the election and the party's later recognition do not end this challenge to a recognition requirement capable of recurring against the continuing party plaintiff in elections too short for full review. The Court reaches the ballot-designation dispute under the capable-of-repetition exception.
+
+**Proposition-level authority:** Thomas's opinion on the threshold question, joined by all eight other Justices.
+
+**Material application:** The continuing party plaintiff is subject to periodic recognition requirements and has lost and regained recognition; recurrence can evade complete review within an election cycle.
+
+**Limits and questions not reached:** The earlier filing-deadline challenge is outside the accepted issue.
+
+**Treatment of earlier authority:** Timmons v. Twin Cities Area New Party supports review of a continuing nomination dispute; its distinct conditional-enactment setting is not imported.
+
+#### Utah v. Evans, 536 U.S. 452
+
+**Docket or dockets:** No. 01-714.
+**Decided:** 2002-06-20.
+
+For the June 20, 2002 holdings in No. 01-714 on statutory and constitutional permission for residual hot-deck imputation, see Election Law.
+
+##### Completed transmission does not defeat redress of the representation injury
+
+**Holding:** A State has standing to contest a census method that causes an identified loss of a House seat when authoritative relief concerning the responsible census determination would likely correct the allocation through the statutory sequence. Completed transmission and certification do not categorically bar correction of court-determined legal error in the count.
+
+**Proposition-level authority:** Part I of Breyer's opinion of the Court is adopted by all nine Justices.
+
+**Limits and questions not reached:** Likely redress rests on correction through the enacted allocation sequence, not a coercive presidential injunction or a general presumption that absent persons obey judicial advice. The President's APA status and susceptibility to coercive relief remain reserved; Utah need not prevail on illegality to establish standing.
+
+**Treatment of earlier authority:** Franklin v. Massachusetts: applied to likely redress through the allocation sequence. Wisconsin v. City of New York: applied to continuing representational injury. Department of Commerce v. United States House of Representatives: applied to plaintiff-specific injury rather than statutory authorization alone.
+
+#### Republican Party of Minnesota v. White, 536 U.S. 765
+
+**Docket or dockets:** No. 01-521.
+**Decided:** June 27, 2002.
+
+##### A continuing speech constraint presents a prospective controversy without completed discipline
+
+**Holding:** The continuing announce-clause restriction on the plaintiffs’ intended judicial-campaign speech presents a prospective controversy; completed disciplinary action is unnecessary.
+
+**Proposition-level authority:** Part II of the opinion of the Court (Scalia), joined by Stone-Zsela, O’Connor, Kennedy and Thomas.
+
+**Material application:** Wersal’s earlier complaint had been dismissed, but the continuing restraint and intended speech supported declaratory and prospective injunctive relief. No completed sanction is reviewed.
+
+The content-restriction holding and confined prospective remedy in Republican Party of Minnesota v. White, No. 01-521, decided June 27, 2002, appear under First Amendment.

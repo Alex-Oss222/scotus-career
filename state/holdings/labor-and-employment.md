@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Labor and Employment
 
@@ -2851,3 +2851,365 @@ For Garvey's timely review of the necessary antecedent ruling, see Federal Court
 **Operative remedy or transition:** Reverse the refusal to enforce concerning these nurses and remand to effectuate the existing order, subject only to genuinely preserved remaining enforcement issues. No new classification hearing, bargaining terms or backpay are ordered; political-subdivision and rehabilitation-counselor rulings remain undisturbed.
 
 **Treatment of earlier authority:** Allentown Mack Sales & Service, Inc. v. NLRB requires the announced lawful standard and whole-record support while respecting fairly conflicting views. Health Care & Retirement and Holly Farms sustain an actual supported agency rationale, not reasons supplied by the reviewing court.
+
+### Backpay for antiunion discharge of an unauthorized worker
+
+#### Hoffman Plastic Compounds, Inc. v. NLRB, 535 U.S. 137
+
+**Docket or dockets:** No. 00-1595.
+
+**Decided:** March 27, 2002.
+
+##### Limited monetary relief under the two statutes
+
+**Holding:** IRCA does not categorically withdraw the Board's NLRA §10(c) authority to award limited pre-discovery backpay for an established antiunion discharge, even where the worker lacked employment authorization and obtained the job through false verification documents. The Board may remedy that independent labor violation through a retrospective monetary award that orders no unlawful employment, denies reinstatement and ends the ordinary lost-work remedy at actual discovery of the employment bar; the award supplies neither work authorization nor immunity from separate sanctions.
+
+**Proposition-level authority:** Stevens's opinion, joined in full by Stone-Zsela, Souter, Ginsburg and Breyer. Their five votes establish this rule and enforcement of the actual limited order.
+
+**Limits and questions not reached:** The order remains restorative within section 10(c), not a punitive power or automatic entitlement for every unauthorized worker. Original verification fraud and evidence supporting continued use do not authorize future fraud through mitigation or the award. A preserved calculation, mitigation or explanation defect remains reviewable on its actual basis, but no such defect is established merely by rejecting the statutory accommodation. The labor violation is settled; neither each interim job's legality nor a new document tender at a named employer is adjudicated.
+
+**Operative remedy or transition:** Affirm enforcement, 5–4. The $66,951, interest required by the enforced order and required federal and state withholding cover through the final quarter of 1992; January 1–June 14, 1993 remains separately calculable under the existing order. No new total, additional explanation or evidentiary remand is ordered. Reinstatement is denied, no ordinary lost-work backpay accrues after June 14, 1993 based on continued unauthorized work, and independent sanctions remain available.
+
+**Operative statutory qualifications:** Section 10(c)'s affirmative remedial authority remains bounded by the NLRA and other applicable enactments. Its separate bar for an actual discharge for cause is not established by a reason discovered only after an antiunion discharge. Section 1324a separately prohibits covered knowing hiring or fee-based recruitment/referral, requires employment verification, and prohibits knowing continued employment of an unauthorized worker. Authorization is employment- and time-specific, turning on permanent-resident status or statutory or Attorney General authorization. Good-faith verification can defend the knowing-hire charge; it does not permit knowing continuation after discovery. No earlier immigration-law violation by Hoffman is adjudicated here.
+
+Section 1546(b) prohibits use, for employment verification, of identification known or reasonably understood not to have been lawfully issued for its possessor, false identification with that knowledge standard, or a false attestation. Its operative prohibition predates the 1988 hiring; the later five-year penalty does not govern the original act. Section 1324c applies only to violations on or after November 29, 1990, not the original tender; a later violation requires its own applicable act, knowledge, purpose and time predicates. Later benefit/application amendments and the 1996 deletion of the birth-certificate document category do not apply retroactively.
+
+Both document statutes retain exceptions for lawfully authorized investigative, protective or intelligence activity of federal, state or state-subdivision law-enforcement agencies or federal intelligence agencies. Section 1324c(b) separately preserves activity authorized by 18 U.S.C. chapter 224; section 1546(c) separately preserves activity authorized by title V of the Organized Crime Control Act of 1970. The latter provision's State definition includes the District of Columbia, commonwealths, territories and possessions. No such activity is implicated here. Neither statute generally criminalizes the worker's mere performance of work.
+
+**Treatment of earlier authority:**
+
+- ABF Freight System, Inc. v. NLRB is applied to preserve reviewable remedial discretion and reject automatic forfeiture for misconduct. It does not protect relief contrary to another statute, misconduct defeating a remedial predicate, or arbitrary or inadequately explained relief.
+- McKennon v. Nashville Banner Publishing Co. supplies an analogy separating an unlawful decision from later-known disqualification. Its actual-would-discharge requirement and ordinary pre-discovery backpay measure, subject to extraordinary equitable circumstances, remain intact; its ADEA rule does not decide the NLRA/IRCA interaction.
+- Sure-Tan, Inc. v. NLRB retains labor coverage and the duty to accommodate immigration law. Its departure, reentry and legal-availability setting is distinguished from this limited monetary order for a worker who remained here.
+- Southern Steamship Co. v. NLRB remains a limit on remedies conflicting with independent federal prohibitions. It does not bar this award, which directs no prohibited employment.
+- New York v. FERC / Enron Power Marketing, Inc. v. FERC preserves review of an actual agency-authority or explanation defect. The Board's identified accommodation is the legal choice presented, not an unexplained alternative requiring an additional remand.
+
+### Coal Act assignments and asset-successor liability
+
+#### Barnhart v. Sigmon Coal Co., 534 U.S. 438
+
+**Docket or dockets:** No. 00-1307.
+**Decided:** 2002-02-19.
+
+##### Whether direct asset succession authorizes assignment of a signatory's beneficiaries
+
+**Holding:** Sections 9701(c)(2) and 9706 do not authorize assigning a signatory operator's beneficiaries to an asset purchaser solely because it directly succeeded to that operator's business. A purchaser independently within an enumerated related-person class remains subject to the statute; the holding does not determine an independent contractual obligation or every contested meaning of successor.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg, controls the complete statutory rule, its limits and the affirmance.
+
+**Material statutory qualifications:** Section 9701(c)(2)(A) identifies the signatory's section 52(a) controlled-group members, including the signatory; a section 52(b) commonly controlled trade or business; and a coal-industry partnership or joint-venture interest with a signatory employing eligible beneficiaries, except an interest held solely as a limited partner. The successor sentence refers to these enumerated classes. Section 9701(c)(2)(B) measures the relationship on July 20, 1992, or immediately before an earlier cessation of business. Section 9706(a)'s priorities do not enlarge those classes. Section 9706(b)(2) separately permits post-enactment assignment transfer under its conditions, retaining transferor and related-person guarantees and requiring trustee notice; it does not automatically reach this earlier purchase.
+
+**Treatment of earlier authority:**
+
+- Russello v. United States, 464 U.S. 16: different language in related provisions supports the enacted distinction.
+- United States v. Ron Pair Enterprises, Inc., 489 U.S. 235: the statutory text governs despite a claimed policy anomaly.
+- Chickasaw Nation v. United States, November 27, 2001, and J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc., December 10, 2001: contextual reading preserves each provision's actual function; neither adds this successor category.
+
+##### Clear statutory assignment limits and the agency's revenue rationale
+
+**Holding:** The definite assignment classes cannot be enlarged by an administrative preference for preserving program revenue. Because that statutory limit resolves these assignments, the Court does not reach the unnecessary constitutional objections or decide an unestablished independent contractual ground.
+
+**Proposition-level authority:** Thomas's opinion, joined by Stone-Zsela, Scalia, Kennedy, Souter and Ginsburg: six Justices.
+
+**Operative remedy or transition:** The judgment setting aside the 86 assignments is affirmed insofar as they rest solely on direct asset succession. Independently proved statutory relationships and enforceable contracts remain effective on their own terms; lawful mechanisms for unassigned beneficiaries remain.
+
+**Treatment of earlier authority:**
+
+- United States v. Mead Corp., June 18, 2001: interpretive authority and persuasion remain distinct, and neither authorizes departure from clear liability conditions.
+- Eastern Enterprises v. Apfel, June 25, 1998: the limited assessment judgment and absence of a controlling affirmative constitutional rationale remain; the Coal Act is not invalidated as a whole.
+
+### Employment arbitration and federal statutory coverage
+
+#### EEOC v. Waffle House, Inc., 534 U.S. 279
+
+**Docket or dockets:** No. 99-1823.
+**Decided:** 2002-01-15.
+
+For the independent EEOC action and its conditional individual remedies in EEOC v. Waffle House, Inc., January 15, 2002, No. 99-1823, see Federal Courts: Immunities and Remedies — Individual relief in independent EEOC enforcement actions.
+
+##### FAA exclusion of Baker's employment arbitration agreement
+
+**Holding:** Circuit City's section 1 employment-contract exclusion covers Baker's employment arbitration agreement, so the FAA supplies no enforcement command or federal arbitration-policy ground for restricting this EEOC action or its remedies. The exclusion does not itself determine an independent state-law basis for enforcement between Baker and Waffle House.
+
+**Proposition-level authority:** Part I of Stevens's opinion, unanimous.
+
+**Treatment of earlier authority:**
+
+- **Circuit City Stores, Inc. v. Adams, March 21, 2001:** Applied for the employment-contract exclusion; Baker's employment agreement falls within that exclusion.
+- **First Options of Chicago, Inc. v. Kaplan:** Applied for actual assent; it supports but does not replace the independent statutory-remedy analysis.
+- **Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20:** Applied for the agency's preserved enforcement role; its securities-registration agreement does not govern the employment-contract exclusion.
+
+### FMLA designation failures and employee-specific relief
+
+#### Ragsdale v. Wolverine World Wide, Inc., 535 U.S. 81
+
+**Docket or dockets:** No. 00-6029.
+
+**Decided:** March 19, 2002.
+
+##### Missing designation cannot automatically create a new twelve-week allotment without impairment of protected leave rights
+
+**Holding:** The Secretary's implementation authority does not permit former 29 C.F.R. section 825.700(a)'s categorical consequence that undesignated qualifying leave never counts against the FMLA entitlement, thereby creating an additional twelve-week allotment without demonstrated impairment of statutory rights. An employee may obtain relief for a notice-related violation when the applicable duty, record and statutory remedy conditions establish harmful interference; invalidating this automatic consequence does not invalidate every notice duty or make all company leave invariably concurrent with statutory leave.
+
+**Proposition-level authority:** Kennedy's opinion is joined throughout by Stone-Zsela, Stevens, Scalia and Thomas. Those five direct joins control the rule, its limits and affirmance.
+
+**Material application:** More than twelve weeks of leave followed the district court's March 18 eligibility date; the reduced-hours or additional-leave request followed discharge and medical release came in December. No supported alternative use of protected leave lost through absent designation is shown.
+
+**Limits and questions not reached:** Other notice duties retain their own validity and scope. The Court does not invalidate all prophylactic regulation, make all company and statutory leave invariably concurrent, or condition every equitable remedy on monetary loss. Posted-notice penalties under section 2619 are distinct from individual designation.
+
+**Operative remedy or transition:** Affirm, 5–4, rejection of the automatic extra-allotment theory without reopening an unsupported alternative claim.
+
+**Operative entitlement and remedy limits:** The Act grants an eligible employee a total of twelve workweeks in a twelve-month period for qualifying family or medical leave. Greater contractual or company rights remain protected. Section 2617 requires a section 2615 violation affecting the employee. Recoverable lost compensation must result from that violation; absent compensation loss, actual monetary loss must directly result and is capped at twelve weeks' wages or salary. Interest is added to the compensation or monetary-loss amount, and liquidated damages equal that amount plus interest. The court may reduce liquidated liability when the employer proves both good faith and reasonable grounds. Appropriate equitable relief, including employment, reinstatement or promotion, is separately available; monetary loss is not an invariable prerequisite to every equitable remedy. These conditions cannot be replaced by the automatic additional-leave rule.
+
+**Material timing qualifications:** Former section 825.208 ordinarily required designation within two business days after the employer obtained qualifying information, absent extenuating circumstances. The employee need not name the Act but must give a qualifying reason, and inadequate information can require inquiry. Oral notice requires written confirmation by the next payday, or the following payday if the first is less than a week away. An employer with qualifying information that misses timely designation generally may designate only prospectively. Later-acquired information can permit retrospective counting of the qualifying period. Designation after return is barred except for two circumstances. When the employer first learns the reason upon return, retrospective designation with appropriate notice is permitted within two business days of return. An employee seeking retrospective protection from an unaware employer must also give the reason within two business days of return; without timely notice, the employee may not later assert protection for that absence. When the reason is known but qualification or certification, including a second or third opinion, is pending, the employer should provisionally designate and notify at the start of leave or when the reason becomes known. Confirmation makes the designation final; medical certifications failing to confirm a qualifying reason require withdrawal with written notice. Intermittent or reduced-schedule leave ordinarily requires one notice unless circumstances change. No retrospective exception is established on this record.
+
+**Treatment of earlier authority:**
+
+MCI Telecommunications Corp. v. American Telephone & Telegraph Co. is applied to require an implementing rule to preserve the enacted statutory scheme; no general hostility to prophylactic regulation is adopted.
+
+United States v. Mead Corp. and Christensen v. Harris County retain the distinction between delegated binding rules, advisory interpretations and statutory validity. A formal rulemaking grant does not authorize contradiction of the statute.
+
+Mourning v. Family Publications Service, Inc. is distinguished at the scope of its authorized prophylactic implementation; it supplies no unlimited power to alter the substantive entitlement and individual relief conditions.
+
+McKennon v. Nashville Banner Publishing Co. and EEOC v. Waffle House, Inc. are applied at the distinction between a violation and lawful individual relief. Neither supplies a direct FMLA damages formula or makes monetary loss necessary for every equitable remedy.
+
+New York v. FERC retains its separation of statutory authority, a mandatory corrective trigger and a sufficient actual agency remedy. Its FPA holding neither requires nor validates this different automatic counting consequence.
+
+Wisconsin Department of Health and Family Services v. Blumer and National Cable & Telecommunications Assn. v. Gulf Power Co. retain their requirements to respect actual statutory predicates and operative classifications; neither supplies a general regulatory exception to the FMLA's conditions.
+
+Raygor v. Regents of University of Minnesota and Young v. United States retain their statute-specific timing holdings. Neither establishes a universal rule against procedural protection or authorizes enlargement of every statutory benefit.
+
+### Later verification of a timely Title VII charge
+
+#### Edelman v. Lynchburg College, 535 U.S. 106
+
+**Docket or dockets:** No. 00-1072.
+
+**Decided:** March 19, 2002.
+
+##### A timely charge may receive later verification
+
+**Holding:** An otherwise sufficient Title VII charge filed within the applicable filing period may receive its required verification afterward through 29 C.F.R. section 1601.12(b), with the verification relating back to the timely charge. Verification remains mandatory and must protect the employer before it is obliged to answer the substance; the cure does not extend the filing deadline or turn a document that otherwise is not a charge into one.
+
+**Proposition-level authority:** Ginsburg's opinion is joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Breyer, giving seven direct votes for this independent statutory construction. O'Connor and Scalia support the same operative cure and judgment on their distinct delegated-choice ground; that rationale is not added to the Court's reasoning through vote aggregation.
+
+**Limits and questions not reached:** The procedural regulation is reasonable, consistent with Title VII and authorized by section 713(a), with Administrative Procedure Act compliance. Broader deference questions need not be resolved. Timely initiation, eventual oath and independent charge sufficiency remain separate requirements. Agency delay alone establishes neither a bar nor that the original document was insufficient.
+
+**Operative remedy or transition:** Reverse unanimously. Whether the timely November letter actually was a charge, the significance of later correspondence and the EEOC's ten-day notice failure, and other preserved defenses require the appropriate lower-court analysis.
+
+**Treatment of earlier authority:**
+
+Becker v. Montgomery is applied by analogy to distinguish completion of an existing timely filing from initiation of a late proceeding; its express cure rule is not transplanted into Title VII as independent authority.
+
+Zipes v. Trans World Airlines, Inc. supplies the distinction between the timely-charge condition and subject-matter jurisdiction, without deciding every processing requirement's classification.
+
+Love v. Pullman Co. and EEOC v. Commercial Office Products Co. inform the lay-initiated administrative process; they do not authorize disregard of the actual filing deadline or oath requirement.
+
+United States v. Mead Corp. and Christensen v. Harris County retain their distinctions between delegated legal force and persuasive interpretation. The Court's independent construction makes a broader deference ruling unnecessary; O'Connor and Scalia rely on the actual procedural delegation for their separate ground.
+
+Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit retains its source-based rejection of invented pleading requirements in its own field. Swierkiewicz v. Sorema N.A. governs the later federal complaint, not what constitutes a timely administrative charge.
+
+EEOC v. Waffle House, Inc. retains the distinction between statutory enforcement authority and the actual prerequisites for relief; it supplies no independent verification-timing rule.
+
+### OSHA workplace coverage and other-agency displacement
+
+#### Chao v. Mallard Bay Drilling, Inc., 534 U.S. 235
+
+**Docket or dockets:** No. 00-927.
+
+**Decided:** January 9, 2002.
+
+##### Actual regulatory exercise as the condition of OSHA displacement
+
+**Holding:** Under Occupational Safety and Health Act §4(b)(1), another federal agency displaces OSHA only by actually exercising statutory authority to prescribe or enforce occupational-safety or health standards affecting the relevant working conditions. Pertinent specific regulation or actual comprehensive regulation of the relevant category can suffice without word-for-word duplication; potential authority, unrelated vessel regulation or casualty investigation alone cannot establish whole-vessel or industry-wide displacement.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court.
+
+**Material application:** The Coast Guard neither prescribed pertinent standards nor actually regulated the relevant category comprehensively for the cited evacuation and emergency-response conditions on this uninspected inland barge. Its investigation and potential authority did not fill that gap.
+
+**Limits and questions not reached:** The case does not choose between hazard-based and area-based definitions of working conditions because neither yields displacement on this record. Uninspected status alone proves neither absence of regulation nor OSHA coverage in every maritime setting. No new deference rule is adopted.
+
+##### Work on the Louisiana barge as a workplace in a State
+
+**Holding:** Employment aboard this barge within Louisiana is employment in a workplace in a State under §4(a). Anchoring in navigable waters does not remove that workplace from the Act's geographic coverage; the independent other-agency exclusion remains governed by §4(b)(1)'s actual-exercise requirement.
+
+**Proposition-level authority:** O'Connor's unanimous opinion of the Court; an independent holding on the alternative coverage objection.
+
+**Operative remedy or transition:** The Fifth Circuit judgment is reversed on both statutory grounds. Implementation proceeds in the existing enforcement posture; the unchallenged citation merits retain their status.
+
+**Treatment of earlier authority:**
+
+- United States v. Mead Corp.: the distinction between statutory authority and its legally relevant exercise remains; agency expertise alone supplies no displacement. The present holdings rest on §§4(a) and 4(b)(1), not a new rule of interpretive deference.
+
+### ADA reassignment and established seniority
+
+#### US Airways, Inc. v. Barnett, 535 U.S. 391
+
+**Docket or dockets:** No. 00-1250.
+**Decided:** April 29, 2002.
+
+##### Reasonable accommodation and undue hardship perform separate statutory work
+
+**Holding:** An employee ordinarily satisfies the initial accommodation showing by identifying an accommodation reasonable on its face or in the run of cases, not merely one effective for that employee; once reasonableness is shown, the employer must demonstrate significant difficulty or expense in its particular operations under section 12111(10). A requested exception to a disability-neutral policy is not automatically outside the accommodation duty, and the expectation that another worker may obtain an open position under this noncontractual policy does not by itself make the position unavailable for the statutory inquiry.
+
+**Proposition-level authority:** Breyer's Opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor and Kennedy; five direct joins control the complete rule and remedy.
+
+**Limits and questions not reached:** Section 12111(9)'s reassignment and policy-adjustment examples are permissive, not commands to grant every preference. Hardship considers the accommodation's nature and cost; facility resources, staffing, expenses and operational impact; overall entity resources, size and facilities; and workforce functions and geographic, administrative and fiscal relationships. The employee need not negate every operational burden.
+
+##### An established seniority system ordinarily defeats a conflicting request, subject to special circumstances
+
+**Holding:** An employer's showing that a requested reassignment conflicts with an established seniority system ordinarily establishes that the accommodation is unreasonable and warrants summary judgment on that issue, including when management created the system. The employee may defeat that ground by presenting evidence of special circumstances making an exception reasonable in the particular case; the employee bears that showing, and the employer retains the separate undue-hardship defense if reasonableness is established.
+
+**Proposition-level authority:** Breyer's Opinion of the Court, joined in full by Stone-Zsela, Stevens, O'Connor and Kennedy; five direct joins control the complete rule and remedy.
+
+**Limits and questions not reached:** Special circumstances may include frequent exercises of amendment authority that weaken expectations of adherence, or existing exceptions whose nature makes another unlikely to matter. The examples are nonexclusive, with no numerical threshold; reserved amendment power alone is insufficient. The opportunity concerns actual reasonableness even in a bona fide system, not merely proof of sham. Conflict with independently enforceable collective-bargaining obligations is outside this noncontractual-policy question.
+
+**Operative remedy or transition:** The reviewed seniority judgment is vacated and remanded for renewed summary-judgment consideration under this rule, with Barnett's special-circumstances opportunity and US Airways' separate hardship defense preserved. The independent cargo-accommodation and interactive-process rulings and affirmed retaliation judgment retain their unreviewed status.
+
+**Treatment of earlier authority:**
+
+- **Board of Trustees of the University of Alabama v. Garrett, February 21, 2001:** Preserves the distinct qualification, accommodation and demonstrated-hardship conditions; its state-employer enforcement holding supplies no seniority exemption.
+- **Trans World Airlines, Inc. v. Hardison, 432 U.S. 63:** Supplies a limited analogy about seniority expectations. Its Title VII protection of seniority and more-than-de-minimis hardship threshold do not become the ADA's rule.
+- **Sutton v. United Air Lines, Inc. and Murphy v. United Parcel Service, Inc., June 22, 1999; Toyota Motor Manufacturing, Kentucky, Inc. v. Williams, January 8, 2002:** Their actual-disability rules remain separate from qualification and accommodation; the seniority decision neither changes those rules nor adjudicates the disputed coverage-preservation matter.
+- **EEOC v. Waffle House, Inc., January 15, 2002:** Its independent public-enforcement and remedy rules remain intact; permission to pursue statutory relief is distinct from establishing actual entitlement.
+- **Olmstead v. L.C., June 22, 1999, and PGA TOUR, Inc. v. Martin, May 29, 2001:** Their respective Title II resource and Title III fundamental-alteration rules retain their own predicates. Neither replaces Title I's reasonable-accommodation and undue-hardship inquiries.
+
+### ADA qualification standards protecting the worker's own health
+
+#### Chevron U.S.A. Inc. v. Echazabal, 536 U.S. 73
+
+**Docket or dockets:** No. 00-1406.
+**Decided:** June 10, 2002
+
+##### Whether the general ADA qualification defense authorizes the EEOC own-health regulation
+
+**Holding:** Under original ADA §12113(a), an employer may establish a job-related qualification standard consistent with business necessity, subject to the statute's reasonable-accommodation condition; subsection (b)'s threat-to-others example does not exhaust that general defense. The EEOC's formally promulgated own-health defense is a permissible exercise of its §12116 delegated authority, rather than a revision of §12111(3)'s statutory definition of a threat to others.
+
+**Proposition-level authority:** Part I of Kennedy's opinion of the Court, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer, supplies eight direct votes for the complete statutory/delegated-regulation ground. Stone-Zsela agrees with authorization on the independent statutory ground stated separately.
+
+**Limits and questions not reached:** The rule rests on an actual exercise of express delegated Title I rulemaking power; expertise alone supplies no authority. Paternalism cannot replace the significant occupational risk, individual evidence and accommodation requirements. An employee's willingness to accept danger does not automatically defeat a proved defense. No OSHA liability or freestanding safety exemption is decided.
+
+**Treatment of earlier authority:**
+
+- Haggar, Mead and Barnhart v. Walton: applied to an actual formal exercise of express delegated rulemaking authority, without allowing expertise alone to create power.
+
+##### What individualized evidence and accommodation conditions govern the own-health defense
+
+**Holding:** The own-health defense requires the employer to establish a significant risk of substantial harm arising from job performance that cannot be eliminated or reduced by reasonable accommodation, through an individualized assessment of present ability to perform essential functions safely. The assessment must rest on reasonable medical judgment using current medical knowledge or the best available objective evidence and must consider the risk's duration, nature and severity, likelihood, and imminence, alongside the statutory job-relatedness and business-necessity requirements.
+
+**Proposition-level authority:** Part II of Kennedy's opinion has all nine joins: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Limits and questions not reached:** The employer bears the defense burden; a diagnosis or sincerely held medical view alone does not suffice. Private employer physicians acquire no special public-health-authority weight under Bragdon. Disability coverage, essential-function qualification and the safety defense remain distinct; labeling safety an essential function cannot evade the defense conditions. A later declaration may evaluate knowledge available when the decision was made without relying on a later medical discovery.
+
+**Treatment of earlier authority:**
+
+- Bragdon v. Abbott: its objective individual method is applied; its public-health-authority discussion supplies no special weight to private employer physicians.
+- Sutton, Murphy and Toyota: their disability-coverage rules remain separate from qualification and safety on this assumed-coverage motion.
+- US Airways v. Barnett: its accommodation/hardship distinction remains intact; no seniority presumption is imported into medical risk.
+
+##### What remains for review after rejection of categorical regulatory invalidity
+
+**Holding:** The Ninth Circuit's categorical invalidation of the own-health defense is reversed, and the case is remanded for consideration of the unresolved challenge to Chevron's medical showing under the regulation and ordinary summary-judgment rules. Disability remains assumed for Chevron's motion, and the remand does not revive an accommodation argument not advanced against that motion, reopen Irwin's separate judgment, or automatically restore Chevron's summary judgment.
+
+**Proposition-level authority:** Part III of Kennedy's opinion has the same nine full joins as Part II.
+
+**Limits and questions not reached:** Disability is assumed only for Chevron's motion. Echazabal did not advance accommodation against that motion; his separate argument against Irwin does not reopen Irwin's judgment or create a preserved Chevron claim. The remand reviews the disputed medical showing under ordinary summary-judgment principles, orders no compulsory evidentiary hearing, and predetermines no employment result.
+
+### Title VII charge periods and a continuing hostile environment
+
+#### National Railroad Passenger Corp. v. Morgan, 536 U.S. 101
+
+**Docket or dockets:** No. 00-1614.
+**Decided:** June 10, 2002
+
+##### Whether related timely acts revive known completed discriminatory or retaliatory acts
+
+**Holding:** A known discrete discriminatory or retaliatory act must be charged within its own §706(e)(1) period, subject to independently established equitable grounds; a related later act or the present effect of the earlier act does not restart that period. The ordinary period is 180 days, extended where qualifying state or local proceedings were initially instituted to 300 days or thirty days after notice of their termination, whichever is earlier; the distinct statutory seniority-system triggers remain intact.
+
+**Proposition-level authority:** Part I of Thomas's opinion is joined by all eight other Justices. Parts I and III command nine votes; Part II commands six, as specified below.
+
+**Limits and questions not reached:** For an intentionally discriminatory seniority system, §706(e)(2) separately identifies adoption, becoming subject to the system, or injury from its application as occurrence triggers. That amendment supersedes Lorance only at its statutory scope. Section 706(g) bars backpay beginning more than two years before the charge; the ceiling does not revive an otherwise stale discrete claim. The record presents known acts and leaves concealed-act discovery timing undecided.
+
+**Treatment of earlier authority:**
+
+- Evans; Ricks: current effects do not restart the clock for a completed discriminatory decision.
+- Lorance: the 1991 seniority-system amendment supplies adoption, subjection and injury triggers at its stated scope.
+- TRW: its text-specific discovery construction supplies no general Title VII rule.
+
+##### Whether timely contributing conduct permits liability for the same continuing hostile environment
+
+**Holding:** A hostile-environment charge encompasses the whole connected unlawful practice when at least one act contributing to that same environment occurs within the applicable filing period, including earlier constituent conduct relevant to liability. Earlier actionability or knowledge alone does not sever that practice, but a later unrelated incident, a different environment or an intervening change ending the earlier practice does not revive it; discrete decisions retain their separate clocks.
+
+**Proposition-level authority:** Part II of Thomas's opinion is joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer, supplying six votes. O'Connor, Scalia and Kennedy dissent from this component.
+
+**Limits and questions not reached:** Actual continuity must be established through the conduct, participants, persistence and any material interruption; those considerations are not an exclusive checklist, and a mere empty interval is not necessarily dispositive. Protected-status causation, contextual severity or pervasiveness, and existing actual-aid employer-attribution requirements remain necessary. The Court does not find that every alleged event belongs to one environment; distinct discrete decisions keep their separate clocks, and the backpay ceiling and equitable defenses retain independent force.
+
+**Treatment of earlier authority:**
+
+- Harris; Oncale: the collective, contextual and protected-status nature of hostile conditions defines the relevant practice.
+- Rotella: delayed recognition of an old complete injury differs from occurrence of a continuing practice.
+- Andrade; Faragher; Harrison: employer attribution remains governed by the actual-aid framework; no general preventive-policy/nonuse defense is adopted.
+
+##### How equity, older background evidence and preserved trial objections affect further proceedings
+
+**Holding:** Waiver, estoppel and equitable tolling require their established grounds, and a prejudicial-delay defense requires lack of diligence and resulting prejudice; related acts or an internal complaint alone establish neither. Older conduct may be admissible background evidence without creating independent liability for a stale discrete claim, and the appellate court must address the limitations ruling's actual evidentiary and instructional consequences and preserved independent objections before determining the proper further proceedings.
+
+**Proposition-level authority:** Part III of Thomas's opinion is joined by all eight other Justices. Their common agreement requires further appellate work; the three Part II dissenters would also reject the connected-practice liability rule.
+
+**Limits and questions not reached:** A collateral grievance does not automatically extend filing; later verification under Edelman requires timely initiation, and Young supplies no general fairness extension. A prejudicial-delay defense requires both deficient diligence and resulting prejudice; the earlier internal complaint alone proves neither. The precise remedy for proved delay and application against the EEOC are not decided. No general preventive-policy/nonuse defense is adopted. The lower court must resolve actual evidentiary and instructional effects and preserved objections before ordering further proceedings; neither automatic reinstatement of the defense verdict nor an unconditional retrial of stale discrete claims follows.
+
+**Treatment of earlier authority:**
+
+- Zipes; Robbins & Myers: actual equitable grounds survive, but a collateral grievance supplies no automatic extension.
+- Edelman: later verification preserves timely initiation; it does not revive stale acts.
+- Young: actual legal-disability tolling is not a general fairness extension.
+
+#### Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355
+
+**Docket or dockets:** No. 00-1021.
+**Decided:** 2002-06-20.
+
+For the June 20, 2002 holding in No. 00-1021 on enforcement of the saved medical determination through ERISA benefits relief, see Federal Courts: Immunities and Remedies.
+
+##### Independent medical review regulates this insured coverage
+
+**Holding:** Illinois HMO Act §4-10 is saved from ERISA preemption as applied to this risk-bearing HMO: when the primary care physician and HMO disagree about the necessity of a covered service the physician proposes, it requires timely independent physician review and provision of the service if found medically necessary. The rule supplies an enforceable insured-coverage condition; the three insurance guideposts are not indispensable conjunctive requirements.
+
+**Proposition-level authority:** Ginsburg's signed opinion of the Court, adopted in full by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, controls with six votes.
+
+**Limits and questions not reached:** This holding concerns an HMO that bears its members' medical-cost risk and the insured coverage before the Court. It leaves the deemer clause's protection of self-funded plans intact and does not decide whether independent review separately transfers risk.
+
+**Treatment of earlier authority:** Metropolitan Life Insurance Co. v. Massachusetts: applied to substantive insurance-contract regulation. UNUM Life Insurance Co. of America v. Ward: extended from notice-prejudice to this limited medical-necessity term, preserving its nonconjunctive guideposts and separate conflict inquiry.
+
+#### BE&K Construction Co. v. NLRB, 536 U.S. 516
+
+**Docket or dockets:** No. 01-518.
+**Decided:** 2002-06-24.
+
+##### The Board's unsuccessful-suit and broad retaliation standard is invalid
+
+**Holding:** Section 8(a)(1) of the National Labor Relations Act does not authorize liability for a reasonably based but unsuccessful employer lawsuit merely because it sought to stop protected union activity or was accompanied by hostility toward the union. An unsuccessful result and that broad conception of retaliatory motive do not distinguish genuine pursuit of judicial relief from abuse, so an order resting on that standard cannot stand.
+
+**Proposition-level authority:** Part I of Justice O'Connor's Opinion of the Court; Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer directly adopt this confined proposition. The four limited joiners do not join the broader explanation in Part II.
+
+**Limits and questions not reached:** The decision does not establish that every underlying claim was reasonable or that a different abuse theory is proved.
+
+**Treatment of earlier authority:** Bill Johnson's Restaurants preserves protection of reasonably based pending suits; its completed-suit discussion cannot sustain the present standard. Professional Real Estate Investors distinguishes objective baselessness from an unsuccessful result in its single-suit antitrust setting.
+
+##### The statute receives a limiting construction to avoid serious petitioning concerns
+
+**Holding:** Section 8(a)(1)'s general prohibition on interference, restraint and coercion must be construed not to reach the entire class of reasonably based unsuccessful lawsuits brought with the broad retaliatory purpose used here, because that construction would burden substantial genuine petitioning and create serious First Amendment doubt. This statutory holding does not adopt the entire antitrust sham-litigation test as the NLRA's rule or invalidate section 8(a)(1).
+
+**Proposition-level authority:** Part II of Justice O'Connor's Opinion of the Court, joined by Stone-Zsela, Scalia, Kennedy and Thomas; five direct votes for this explanation and construction. Stevens, Souter, Ginsburg and Breyer withhold assent to this part.
+
+**Limits and questions not reached:** The Court leaves open a rule confined to an unsuccessful reasonably based suit that would not have been brought but for a retaliatory purpose to impose litigation costs regardless of outcome. Serial abuse, fraud and independently unlawful objectives require their own lawful rules and supported predicates. Court sanctions and statutes authorizing fees against losing litigants remain effective.
+
+**Treatment of earlier authority:** DeBartolo supplies the constitutional-avoidance method for the labor statute's general language. Bill Johnson's completed-suit discussion did not resolve this precise reasonable-suit category; Professional Real Estate Investors does not automatically impose the whole antitrust sham test on labor law.
+
+##### The enforcement judgment and dependent obligations fall on the rejected basis
+
+**Holding:** The Sixth Circuit's enforcement judgment is reversed, and the case is remanded for proceedings consistent with Parts I and II; the litigation-based cease-and-desist, notice and reimbursement obligations must be set aside to the extent they depend on the invalid standard. Reconsideration may proceed only on a properly preserved, legally sufficient ground supported by the record, rather than merely relabeling defeat and union hostility as abuse.
+
+**Proposition-level authority:** Part III of Justice O'Connor's Opinion of the Court; all nine Justices directly join this disposition and its limits.
+
+**Limits and questions not reached:** The general question of Board authority to award attorney's fees after a valid unfair-labor-practice finding is outside the question granted. The earlier lawsuit's adverse results and independent valid court sanctions remain undisturbed.

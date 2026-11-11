@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER — DOCTRINAL INDEX
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 The doctrinal volumes in this directory are the preferred reading source from OT1993 forward. Each proposition has one canonical doctrinal home. `state/HOLDINGS.md` remains a generated continuous compatibility view so existing links and closed-term references continue to resolve. The volumes and the compatibility view must be synchronized byte-for-byte at the section level before a term opens or closes.
 

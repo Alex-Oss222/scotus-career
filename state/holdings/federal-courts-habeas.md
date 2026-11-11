@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Federal Courts: Habeas and Collateral Review
 
@@ -1916,3 +1916,201 @@ For the other questions in INS v. St. Cyr, No. 00-767, decided June 25, 2001, se
 **Limits and questions not reached:** No independent prerequisite is preserved merely through a generic formula; an additional matter requires an actually raised and legally available basis. Other rejected claims and unrelated instructional theories are not reopened. No new retroactivity declaration, advisory ruling on a later application, freestanding innocence claim or Suspension Clause determination is needed.
 
 **Treatment of earlier authority:** Felker keeps actual statutory satisfaction distinct from authorization. Sullivan bars a harmless-error replacement for an established absent valid verdict; neither case makes passage through this gate equivalent to merits relief.
+
+### Adequacy of state continuance requirements as applied
+
+#### Lee v. Kemna, 534 U.S. 362
+
+**Docket or dockets:** No. 00-6933.
+**Decided:** 2002-01-22.
+
+##### Exceptional inadequacy of Missouri's written-motion and missing-witness rules
+
+**Holding:** A normally valid state procedural rule does not bar federal review when its application is exorbitant in the particular circumstances. Here the combined unexpected disappearance of subpoenaed witnesses who had attended trial, substantial prior presentation of the alibi and anticipated return, brief requested delay, and the trial judge's stated scheduling impediments make the additional written and repeated showings inadequate as a federal-review bar; the holding creates no general oral-motion or emergency exemption.
+
+**Proposition-level authority:** Souter's opinion speaks for Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, six Justices, on the complete rule and application.
+
+**Material procedural requirements:** Missouri Rule 24.09 requires a written motion and affidavit unless the adverse party consents to an oral application. Rule 24.10 separately requires materiality and diligence; the witness's identity and residence if known, or diligence to learn them; reasonable grounds to expect attendance or testimony within a reasonable time; the particular expected facts and absence of another available person who could prove them as fully; and absence not procured, consented to or contrived by the applicant, with good faith rather than vexation or delay. If an affidavit is considered insufficient, the court must permit amendment. The oral-application exception does not erase these information requirements, and opponent consent is not inferred from silence.
+
+**Limits and questions not reached:** The combined circumstances control; neither an unexpected absence, a scheduling observation nor prior testimony descriptions alone establishes this result. The Court finds no literal compliance and requires no judicial announcement of every defect.
+
+**Treatment of earlier authority:**
+
+- Coleman v. Thompson, 501 U.S. 722: applies its requirement of an independent and adequate state ground and preserves exceptions for genuinely adequate defaults; the present inadequacy ruling precedes those excuses.
+- Osborne v. Ohio, 495 U.S. 103: applies its distinction between useful presentation and purposeless repetition in the exceptional circumstances here; it supplies no general waiver of continuance requirements.
+- Ford v. Georgia, 498 U.S. 411: preserves fair notice and regular application as adequacy safeguards without making them conclusive in every application.
+
+##### Consequences of removing the inadequate default ground
+
+**Holding:** With this state ground inadequate, Lee need not additionally establish cause and prejudice to overcome that ground; the federal court must adjudicate his continuance claim under due process and any independently applicable habeas restriction. The state appellate court's procedural ruling does not become an adjudication of the federal claim's merits under 28 U.S.C. §2254(d) merely because it resolved the appeal.
+
+**Proposition-level authority:** The same six Justices join the bounded remand and its separation of adequacy from entitlement to relief.
+
+**Operative remedy or transition:** The default-based judgment is vacated 6–3. The continuance claim returns for its due-process merits and any independently applicable habeas limitation. The conviction remains effective; separate cause and innocence gateway rulings are not affirmatively reversed.
+
+**Limits and questions not reached:** The relatives' explanation for leaving and the truth of their proposed alibi remain disputed. Removing this default barrier establishes no underlying due-process violation, entitlement to a hearing or habeas relief.
+
+**Treatment of earlier authority:**
+
+- Trest v. Cain (December 9, 1997): applies its distinction between procedural default and jurisdiction; it supplies neither an automatic hearing entitlement nor the underlying due-process violation.
+- O'Sullivan v. Boerckel (June 7, 1999): preserves ordinary exhaustion through a state's normal review opportunities; the present adequacy holding does not dispense with otherwise applicable habeas requirements.
+
+### Pre-AEDPA review and a dictated proportionality application
+
+#### Henderson v. Norris
+
+**Docket or dockets:** Supreme Court docket not supplied; Eighth Circuit No. 00-2203, 258 F.3d 706 (2001).
+**Decided:** May 13, 2002.
+
+For Henderson's substantive offense-specific sentence holding, May 13, 2002, Eighth Circuit No. 00-2203, see Criminal Procedure: Sentencing and Capital Punishment — Gross disproportionality of permanent imprisonment for a first tiny-sale conviction.
+
+##### Pre-AEDPA independent legal review and Teague remain distinct inquiries
+
+**Holding:** Henderson's noncapital federal habeas application, filed before April 24, 1996, is governed by pre-AEDPA law rather than amended section 2254(d); supported factual findings retain the treatment required by the former law, while the federal constitutional legal question receives independent review. Teague does not substitute general deference to every reasonable state legal interpretation for that review, but relief still requires a result dictated by precedent when the conviction became final or an actually applicable retroactivity exception.
+
+**Proposition-level authority:** Part I of Justice Souter's Opinion of the Court is joined by all eight other Justices. All nine adopt this temporal and review distinction; only the five identified in Parts II–III adopt the separate old-rule and sentence-relief conclusions.
+
+**Limits and questions not reached:** The temporal holding concerns the ordinary chapter 153 amendments at issue, not every AEDPA provision. Rejection of the State's general-deference theory abolishes no Teague requirement and finds no independent waiver of a specifically developed new-rule defense.
+
+##### Existing law dictates the sentence-specific result
+
+**Holding:** The finding of gross disproportionality for this first conviction, this exceptionally small completed sale and life imprisonment without ordinary parole applies the law already established by Rummel, Solem and Harmelin before Henderson's conviction became final. Relief therefore depends on no new categorical first-offender exemption, drug-weight ceiling or retroactivity exception.
+
+**Proposition-level authority:** Part II of Justice Souter's Opinion of the Court is joined by Stone-Zsela, Stevens, Ginsburg and Breyer. All five support the complete old-rule conclusion and its stated boundaries. The four Justices who reject relief do not join it merely because they accept independent pre-AEDPA review.
+
+**Material application:** An old general principle alone is insufficient: the specific result must be dictated. Rummel's repeated convictions and meaningful parole are absent; Solem distinguishes executive grace from parole; Harmelin's large-scale quantity does not equate every retail sale with that offense. The comparative evidence corroborates an exceptional mismatch without creating a schedule.
+
+**Operative remedy or transition:** The conditional sentence-only writ is affirmed. Arkansas has ninety days after the Eighth Circuit issues its implementing mandate, subject to ordinary mandate administration, to impose a lawful replacement sentence before unconditional relief becomes operative. The conviction remains intact.
+
+**Treatment of earlier authority:**
+
+- Lindh v. Murphy: applied to exclude amended section 2254(d) from this pre-April 24, 1996 noncapital petition; no exemption from every AEDPA provision is announced.
+- Miller v. Fenton: applied to separate independent constitutional legal review from the former treatment of supported facts.
+- Teague v. Lane: applied as a distinct nonretroactivity limit, not a general deference standard; relief rests on an old-rule application, without reliance on an exception.
+- Graham v. Collins: applied only for the distinction between dictated application and extension of old law; its capital-mitigation result does not govern imprisonment duration.
+
+### Capital representation, complete adversarial failure and collateral review
+
+#### Bell v. Cone, 535 U.S. 685
+
+**Docket or dockets:** No. 01-400.
+**Decided:** May 28, 2002.
+
+##### Which section 2254 and Strickland standards govern the sentencing claim
+
+**Holding:** The July 1, 1997 federal application is governed by amended §2254. Clearly established constitutional law is measured at the relevant state merits adjudication; a state application must be objectively unreasonable, not merely incorrect, and ordinary Strickland prejudice requires a reasonable probability of a different result without an additional fundamental-unfairness or unreliability requirement for lawful mitigation.
+
+**Proposition-level authority:** Breyer's Part I, unanimous at the framework level; Stevens does not join the later applications.
+
+**Limits and questions not reached:** Contrary-to and unreasonable-application inquiries remain distinct. Judicial disagreement alone neither satisfies nor defeats objective unreasonableness. Later opinions create no professional duty at the April 1982 trial or constitutional law unavailable at the state merits date.
+
+**Treatment of earlier authority:** Lindh v. Murphy, June 23, 1997, supplies the application-date distinction. Williams v. Taylor (Terry Williams), 529 U.S. 362 (2000), supplies objective statutory review and rejection of an extra Fretwell hurdle for lawful mitigation. Strickland v. Washington, 466 U.S. 668 (1984), retains its separate performance and ordinary-prejudice requirements.
+
+##### Whether the mitigation and closing omissions amount to Cronic's complete failure
+
+**Holding:** Counsel's failure to call additional mitigation witnesses and waiver of closing do not amount to a complete failure of adversarial testing in this sentencing proceeding, where counsel substantively presented mitigation already in evidence, sought mercy, obtained favorable cross-examination and resisted damaging prosecution proof. The challenged choices require Strickland analysis; the conclusion neither excuses abandonment nor eliminates other recognized circumstances in which Cronic presumes prejudice.
+
+**Proposition-level authority:** Breyer's Parts II–IV, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight direct votes. Stevens dissents.
+
+**Limits and questions not reached:** The holding concerns actual substantive sentencing advocacy, not physical presence or a numerical count of acts. It does not make any activity sufficient to defeat every Cronic category.
+
+**Treatment of earlier authority:** United States v. Cronic, 466 U.S. 648 (1984), is applied to the claimed complete-failure category; its other recognized grounds for presumed prejudice remain. Strickland governs the particular alleged errors within this represented proceeding.
+
+##### Whether the confined tactical claim fails on an independently sufficient performance ground
+
+**Holding:** On the reviewed available-mitigation and closing-argument record, the state court's rejection of deficient performance was not an objectively unreasonable application of Strickland. That sufficient ground defeats this confined claim without an actual-prejudice determination; it does not decide distinct allegations of failure to investigate or develop mitigation, their default treatment, or every remaining sentencing ground.
+
+**Proposition-level authority:** Breyer's Parts II–IV, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight direct votes.
+
+**Material application:** The supported assessment includes reliance on experts already heard, the mother’s ineffective appearance, interviews, the absence of helpful omitted evidence on the reviewed record, and avoiding a particular unanswered prosecutorial rebuttal. A strategy label is not conclusive. Cozzolino permits actual rebuttal of mitigation, not indiscriminate bad-acts proof; Pritchett did not guarantee resentencing whenever any aggravator failed. Cone’s later direct-appeal ruling is not attributed to counsel’s trial-date knowledge.
+
+**Limits and questions not reached:** No witness-specific admissibility finding, endorsement of deliberately created appellate error, determination of actual prejudice, or resolution of distinct investigation and default allegations follows. Lee does not resolve the independent Tennessee procedural-ground and funding-cause questions.
+
+**Operative remedy or transition:** The Cronic-based sentence writ is reversed and the confined ordinary tactical claim rejected; the Court of Appeals must adjudicate the remaining properly pending sentence claims and distinct investigation/default issues under their own legal requirements. The convictions remain undisturbed, and no blanket reinstatement of the district court's entire sentencing judgment follows. Ordinary procedure governs necessary further proceedings; no evidentiary hearing or investigative funding is directed.
+
+**Treatment of earlier authority:** Williams and Strickland are applied to an independently sufficient, context-specific performance ground. Cozzolino v. State, 584 S.W.2d 765 (Tenn. 1979), and State v. Pritchett, 621 S.W.2d 127 (Tenn. 1981), retain their actual relevance and aggravator limits; Cone v. State, 665 S.W.2d 87 (Tenn. 1984), remains separately dated.
+
+#### Carey v. Saffold, 536 U.S. 214
+
+**Docket or dockets:** No. 01-301.
+**Decided:** 2002-06-17.
+
+##### Timely ordinary state review includes its intervals
+
+**Holding:** Under 28 U.S.C. §2244(d)(2), a properly filed state collateral application remains pending during timely continuation through the State's ordinary review process, including the interval before a timely filing at the next available level. California's successive-level original petitions qualify when they perform that review function; an abandoned or completed process, an unreasonable gap or an unrelated later attack does not receive interval exclusion merely because another collateral petition is possible.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Breyer; six direct votes for both holdings.
+
+**Limits and questions not reached:** Proper filing and actual pendency remain separate requirements. The rule covers timely continuation of ordinary state review rather than every extraordinary, repetitive or possible future collateral application.
+
+**Treatment of earlier authority:** Artuz and Duncan are applied without alteration; Boerckel supplies ordinary-review context. The previously open interval question is resolved at this functional, timely-continuation scope.
+
+##### State timeliness and the actual federal calculation remain necessary
+
+**Holding:** An alternative merits discussion does not establish timely state filing or override a valid independent state determination that the relevant interval was unreasonable. The Ninth Circuit must determine the California order's actual meaning, the applicable state timing standard, the supported reasons for this interval and the exact elapsed time, then recalculate the federal limitation without excluding any interval that fails the governing requirements.
+
+**Proposition-level authority:** The same six-Justice Court opinion. Scalia, Kennedy and Thomas also reject treating alternative merits language as conclusive of timeliness, but do not join the functional-pendency rule or mandate.
+
+**Material application:** The California Supreme Court's order referred both to merits and lack of diligence after an interval of roughly four and one-half months. No nationwide deadline or presumption that this particular interval is reasonable or late replaces the state-law inquiry.
+
+**Limits and questions not reached:** Certification or other lawful clarification may be used if needed; it is not automatically required. The decision does not grant equitable tolling, resolve the constitutional claims, or answer Artuz’s separate question whether an exception to an actual filing deadline can preserve proper filing.
+
+**Operative remedy or transition:** Vacate and remand for the state-timeliness determination and exact federal calculation. Independently preserved lawful commencement or equitable grounds remain subject to their own requirements. If none makes the application timely, dismissal as untimely is required; other habeas restrictions remain.
+
+**Treatment of earlier authority:** Artuz's filing-deadline-exception reservation remains; Duncan's independent timing rules remain. Lee's adequate-state-ground inquiry and Young's bankruptcy tolling do not determine statutory pendency here.
+
+#### Horn v. Banks, 536 U.S. 266
+
+**Docket or dockets:** No. 01-1385.
+**Decided:** 2002-06-17.
+
+##### A preserved nonretroactivity defense must be resolved before granting relief
+
+**Holding:** A federal habeas court may not grant a writ while leaving unresolved a properly preserved, applicable Teague defense capable of defeating relief. Section 2254(d) adds a condition to relief; satisfaction of that condition does not remove nonretroactivity review merely because the state court did not discuss it, and the requirement to justify a grant does not impose an inflexible sequence before every denial.
+
+**Proposition-level authority:** Unanimous per curiam opinion.
+
+**Limits and questions not reached:** The court must identify finality and the precise rule sought and decide whether prefinality precedent dictated it. A later publication date, changed facts or judicial disagreement alone does not establish newness. If the rule is new, both applicable exceptions remain: rules removing conduct, persons or punishments from the State’s substantive power, and watershed procedures essential to accuracy and fundamental fairness. The Court decides neither Mills’s newness nor either exception’s application.
+
+**Operative remedy or transition:** Reverse the omitted-defense ruling and set aside the resulting death-sentence habeas relief. Before a renewed grant, resolve Pennsylvania’s preserved nonretroactivity defense and any genuinely remaining requirement. The instructional merits, convictions and unrelated claims remain unadjudicated; no new penalty trial, sentence affirmance on an unexamined ground or execution is ordered.
+
+**Material application:** Pennsylvania preserved the defense in both federal courts. Satisfying §2254(d) could not replace that independent requirement. Nonretroactivity remains nonjurisdictional; this decision does not revive a forfeited defense or require its resolution before a denial on another sufficient ground.
+
+**Treatment of earlier authority:** Caspari and Williams are applied to distinct conditions for relief; Schiro and Lambrix retain their preservation and sequencing limits; Tyler's separate statutory gate is distinguished.
+
+#### Stewart v. Smith, 536 U.S. 856
+
+**Docket or dockets:** No. 01-339.
+**Decided:** June 28, 2002.
+
+##### The clarified waiver rule classifies rights without deciding their violation
+
+**Holding:** Under Arizona's authoritative construction of Rule 32.2(a)(3) for the 1995 petition, whether a claim requires personal, knowing, voluntary and intelligent waiver depends on the kind of right implicated; rights within that heightened-waiver category are not forfeited by mere omission. Identifying the category does not itself adjudicate the alleged federal violation, although a state procedural determination that actually depends on a federal constitutional ruling is not independent.
+
+**Proposition-level authority:** Part I of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** The Court accepts Arizona’s construction without converting state waiver categories into federal merits law. It assumes for decision that Ake’s direct-review independence standard applies to habeas and does not establish universal identity between those settings.
+
+**Treatment of earlier authority:** Ake excludes a procedural ground that actually depends on federal merits; Coleman retains separate adequacy and independence. Prouse distinguishes identifying a right from resting on a federal determination. Trest and Lambrix preserve procedural default’s nonjurisdictional character.
+
+##### The actual state order rests on omission and consideration of an excuse
+
+**Holding:** The state order applying Rule 32.2(a)(3) rests on Smith's omission of the sentencing ineffective-assistance claim from his earlier petitions and its rejection of the asserted office-affiliation excuse, rather than on adjudication of trial counsel's constitutional performance. Its colorability reference, read in that context, does not make this procedural ruling dependent on federal merits.
+
+**Proposition-level authority:** Part II of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** Rejecting the stated office-affiliation explanation for purposes of independence does not establish loyal representation, harmlessness of every institutional conflict or failure of every otherwise available cause theory.
+
+**Treatment of earlier authority:** Carey directs attention to the state order’s actual meaning, not an isolated merits reference. Mickens’s victim-counsel conflict setting supplies neither an automatic office-affiliation conflict nor a default excuse.
+
+##### Independence is settled, while genuinely remaining requirements retain their own force
+
+**Holding:** The Ninth Circuit's nonindependence ruling is reversed, and the case is expressly remanded for proceedings consistent with the independent character of this state ground. Adequacy was accepted below and is not affirmatively reopened; any properly preserved, legally available cause-and-prejudice or miscarriage-of-justice question retains its own requirements, and a valid, applicable, preserved and unexcused procedural bar must be enforced.
+
+**Proposition-level authority:** Part III of the per curiam opinion, unanimous.
+
+**Limits and questions not reached:** No valid-cause determination or underlying sentencing ineffective-assistance merits decision is made. Further proceedings do not automatically require an evidentiary hearing or reopen settled matters, and no writ, new sentencing proceeding or execution authority follows.
+
+**Operative remedy or transition:** Reverse the nonindependence judgment and remand, 9–0, preserving the accepted adequacy determination and only legally available remaining requirements and excuses.
+
+**Treatment of earlier authority:** Coleman’s cause-and-prejudice and miscarriage-of-justice exceptions retain independent requirements. Lee’s exceptional adequacy application does not reopen this accepted adequacy determination. Bell preserves genuinely pending issues without mandating inquiry, and Horn confirms that satisfying one habeas condition does not eliminate others.

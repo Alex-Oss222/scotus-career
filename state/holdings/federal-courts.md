@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Federal Courts
 
@@ -776,6 +776,8 @@ For the separate questions in United States v. Wells, No. 95-1228 decided Februa
 
 For Nebraska v. Wyoming, April 20, 1993, No. 108, Original, concerning interstate water decrees and equitable allocation, see **Property and Economic Rights — Interstate water decrees and equitable allocation**.
 
+**Later-authority backlinks:** Nebraska v. Wyoming, 534 U.S. 40, November 13, 2001, enters the complete Modified North Platte Decree and dismisses all claims, counterclaims and cross-claims brought in the case, including settled claims for which leave to file was or could have been sought, with prejudice. That operative settlement concludes the earlier leave and remand directions; it preserves the enforcement/modification distinction, Inland Lakes entitlement and distinction between canal-priority limits and absolute diversion caps. The replacement instrument is set out under Property and Economic Rights — Modified North Platte allocation and decree administration.
+
 #### Nebraska v. Wyoming
 
 **Docket or dockets:** No. 108, Original.
@@ -849,6 +851,8 @@ For the other questions in Nebraska v. Wyoming, decided May 30, 1995, No. 108, O
 - Nebraska v. Wyoming, April 20, 1993: applies distinct enforcement and modification burdens; modification requires clear and convincing real and substantial injury. Rule 56 remains a limited guide; leave is not proof.
 
 **Operative remedy or transition:** Overrule Wyoming's four exceptions unanimously and the United States' and Nebraska's exceptions to the Fourth Cross-Claim 8–1 (Thomas would sustain those two). Allow Nebraska Counts I–III and Wyoming Second–Fourth Counterclaims and Second–Fifth Cross-Claims only within the admitted scope; deny Nebraska Count IV without prejudice. Reject the First Counterclaim and First Cross-Claim only insofar as they seek the mass ceiling, preserving discrete below-Tri-State calls, priority bypasses and relevant waste defenses. Return the Glendo enforcement/modification, Laramie changed-condition and carriage-loss theories for proof before the Master. No injury, breach, new allocation, release quantity, revised formula, seasonal award, damages, priority or operating injunction is adjudicated.
+
+**Later-authority backlinks:** Nebraska v. Wyoming, 534 U.S. 40, November 13, 2001, enters the complete Modified North Platte Decree and dismisses all claims, counterclaims and cross-claims brought in the case, including settled claims for which leave to file was or could have been sought, with prejudice. That operative settlement concludes the earlier leave and remand directions; it preserves the enforcement/modification distinction, Inland Lakes entitlement and distinction between canal-priority limits and absolute diversion caps. The replacement instrument is set out under Property and Economic Rights — Modified North Platte allocation and decree administration.
 
 ### Exclusive original jurisdiction and private title litigation
 
@@ -1838,6 +1842,8 @@ For extraordinary and original relief in In re Maria Luisa Costell Gaydos, No. 9
 - Liljeberg: its separation of violation from remedy is preserved; its civil Rule 60(b)(6) procedure is not transplanted to this criminal direct appeal.
 
 **Operative remedy or transition:** The Eleventh Circuit judgment is affirmed, 9–0, under the five-Justice objective-appearance rule. No recusal violation is found, and no retrial, reassignment or remand is ordered.
+
+**Later-authority backlinks:** United States v. Microsoft Corp., January 22, 2002, applies the objective appearance rule to undisclosed press contacts and resolves the civil-remedy question on that record: reassignment and complete decree vacatur, with a tailored Liljeberg inquiry and reconsideration of materially inseparable liability foundations. Liteky's no-violation application and its reserved constitutional structural-error question remain unchanged.
 
 ### Party status and questions presented
 
@@ -4631,6 +4637,8 @@ For the other questions in American Airlines, Inc. v. Tice, decided 1999-06-10, 
 
 **Limits and questions not reached:** This is a rule for the presented derivative-settlement appeal, not a categorical prohibition of every nonparty appeal under every procedural regime. Section 1291 supplies the final-decision framework, Appellate Rule 3(c) concerns identification of appellants, Rule 23.1 governs the recognized objection role, and Rule 24 supplies intervention; neither §1291 nor Rule 3(c) is treated as expressly deciding every party-status category. The decision rests on actual participation and the absence of intervention, not on a finding that the institutions violated a notice or service condition.
 
+**Later-authority backlinks:** Devlin v. Scardelletti, June 10, 2002, recognizes appellate status for a timely objector whose own claim is bound by the mandatory class settlement before the Court. That distinct category does not change Felzen’s intervention requirement for the derivative-settlement appeal decided here.
+
 ##### 2. Intervention review and nonparty due-process protection remain distinct
 
 **Holding:** Requiring intervention for this settlement appeal does not foreclose review by an actual party or an appropriate appeal from an actual denial of intervention. Nor does it impose a general duty to intervene in another person's suit to preserve an otherwise independent claim: constitutional limits on binding genuinely unrepresented persons remain, without establishing an appellate entitlement or a collateral remedy in this case.
@@ -5679,6 +5687,8 @@ For the distinct stop, custody, impoundment and inventory rules and the bounded 
 
 **Treatment of earlier authority:** McCarthy v. Madigan's statutory-primacy rule is applied; its damages-only result survives where no statute imposes exhaustion, while the PLRA supplies the previously absent command for covered actions. McNeil v. United States enforces an express administrative sequence without importing the FTCA's separate exceptions or timing rules.
 
+**Later-authority backlinks:** Porter v. Nussle, February 26, 2002, No. 00-853, resolves the reserved excessive-force coverage question: section 1997e(a) reaches individual episodes of prison life as well as general conditions, subject to actual availability.
+
 ### Prisoner injury restrictions and postfiling release
 
 #### Harris v. Garner
@@ -5699,6 +5709,8 @@ For the distinct stop, custody, impoundment and inventory rules and the bounded 
 **Operative remedy or transition:** Affirm the en banc temporal ruling, preserving dismissal without prejudice of the six released plaintiffs' claims barred solely by section 1997e(e). Other requests are not newly dismissed and the remaining five plaintiffs receive no new relief.
 
 **Treatment of earlier authority:** McNeil v. United States preserves an enacted precommencement condition without importing the entire FTCA scheme. Semtek International Inc. v. Lockheed Martin Corp. prevents procedural rules from altering substantive statutory consequences. Mathews v. Diaz's later benefits-application cure and separate exhaustion waiver do not control this historical commencement condition. Artuz v. Bennett requires provision-specific analysis; Randell v. Johnson's bounded loss-of-custody-review rule creates no release-alone PLRA exception.
+
+**Later-authority backlinks:** Searles v. Van Bebber, January 8, 2002, resolves the reserved nominal- and punitive-damages questions and the preserved court-access and due-process objection at its bounded remedial scope. Harris's confinement-at-filing and injury-category holdings remain unchanged; Searles does not decide prospective or independent economic relief, other physical-injury thresholds or jurisdictional classification.
 
 ### Judicial estoppel and accepted interstate positions
 
@@ -5796,3 +5808,279 @@ For tribal tort authority and the final no-authority exhaustion disposition in N
 **Operative remedy or transition:** Affirmance requires implementation of the private-subsidy judgment, not a new operational government-speech inquiry. The advertising holding and statutory implementation are recorded under First Amendment — Compelled advertising in an independent market.
 
 **Treatment of earlier authority:** Yee and Lebron preserve the difference between an included argument and a new question and the Court’s discretion to decline a late alternative. Lebron’s governmental-actor status does not determine every funded message’s attribution. Keller and Rosenberger distinguish institutional or funding status from the character of particular expression.
+
+### Pleading employment-discrimination claims
+
+#### Swierkiewicz v. Sorema N.A., 534 U.S. 506
+
+**Docket or dockets:** No. 00-1853.
+
+**Decided:** February 26, 2002.
+
+##### The prima facie proof framework is not a pleading checklist
+
+**Holding:** A Title VII or ADEA complaint need not allege facts establishing every element of the McDonnell Douglas prima facie evidentiary framework. A short and plain account identifying the challenged employment decisions, their alleged prohibited basis and the grounds of the claim satisfies Rule 8 when it gives fair notice; this complaint does so.
+
+**Proposition-level authority:** Scalia's opinion, joined in full by the other eight Justices, supplies nine direct votes for both the rejection of the added pleading requirement and this complaint's sufficiency.
+
+**Limits and questions not reached:** The rule applies fair-notice pleading to the actual complaint; it neither validates every conclusory allegation nor relieves the claimant of proving discrimination. Rules 11 and 56 and lawful discovery controls remain applicable.
+
+**Operative remedy or transition:** Reversal sets aside dismissal of the Title VII and intentional-age-discrimination claims under the added prima facie pleading requirement; ordinary proceedings follow.
+
+**Treatment of earlier authority:**
+
+McDonnell Douglas Corp. v. Green remains a conditional framework for circumstantial proof; its elements are not transformed into universal pleading requirements.
+
+Trans World Airlines, Inc. v. Thurston supplies the direct-evidence distinction that makes the proposed universal checklist unsound.
+
+Leatherman v. Tarrant County Narcotics Intelligence and Coordination Unit is extended in its source-based procedural principle to this employment pleading requirement; its preserved immunity-pleading limits are unchanged.
+
+Crawford-El v. Britton is applied for ordinary procedural control without an invented motive burden or circular discovery barrier.
+
+Reeves v. Sanderson Plumbing Products, Inc. remains an evidentiary-sufficiency decision and does not supply an additional complaint requirement.
+
+Conley v. Gibson supplies the governing notice-pleading background.
+
+### Judicial disqualification and organizational advocacy
+
+#### Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co., 535 U.S. 229
+
+**Docket or dockets:** No. 01-835.
+**Decided:** April 1, 2002.
+
+##### Mistaken attribution and continuing organizational leadership
+
+**Holding:** Section 455(a) does not require disqualification where a judge was mistakenly identified as an association's president in a motion to file an amicus brief, remained on its executive committee, took no part in preparing or approving the submission, and was only vaguely aware of the earlier case. The informed observer must weigh that genuine leadership role together with the established limits of participation; on these combined facts, the attribution does not reasonably call impartiality into question.
+
+**Proposition-level authority:** The per curiam opinion is joined in full by Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the same statutory rule, application and reversal with remand.
+
+**Limits and questions not reached:** This is no exemption for organizational leaders or nonauthors. Actual participation, responsibility for an organizational position, financial interests and other supported relationships remain subject to the ordinary objective appearance inquiry. Neither press contact nor intentional wrongdoing is necessary. Whether a violation exists remains distinct from Liljeberg's remedial assessment.
+
+**Operative remedy or transition:** The recusal judgment is summarily reversed and remanded; disqualification on this asserted ground is removed, without resolving a genuinely different supported recusal ground.
+
+**Treatment of earlier authority:**
+
+- Liteky v. United States, 510 U.S. 540 (March 7, 1994): applies the controlling cumulative, informed-observer standard. The absence of actual bias does not defeat an appearance claim, and no additional intensity requirement governs this outside affiliation.
+- Liljeberg v. Health Services Acquisition Corp., 486 U.S. 847 (1988): applies its informed appearance inquiry and preserves the separate remedial assessment after a violation is established. Risks of injustice to the parties, injustice in other cases and harm to public confidence neither create an otherwise absent violation nor excuse an established one.
+- United States v. Microsoft Corp. (January 22, 2002): distinguishes its supported undisclosed discussions about the live litigation from the limited connection to advocacy established here. Its objective appearance rule and separate treatment of civil relief remain in force.
+
+### Preservation of a limited-times challenge
+
+#### Universal City Studios, Inc. v. Corley
+
+**Docket or dockets:** Supreme Court docket not supplied; judgment below, 273 F.3d 429 (2d Cir. 2001).
+**Decided:** April 23, 2002.
+
+For Corley's unanimous concrete-record constitutional grounds, April 23, 2002, judgment below 273 F.3d 429, see First Amendment — Functional software, purposeful links and copyright restraints.
+
+##### The limited-times contention independently fails preservation
+
+**Independent alternative holding:** Presentation only in a footnote below did not adequately present the limited-times challenge for this merits review; this independent ground also supports declining the abstract claim.
+
+**Proposition-level authority for alternative holding:** Part V is joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. Those eight adopt this independent preservation ground. Stone-Zsela joins the judgment and Part IV's concrete-record ground, but not Part V.
+
+**Limits and questions not reached:** This independently sufficient procedural ground supplies no merits rule permitting technological extension of copyright. The unanimous concrete-record ground rejecting the broader challenge remains distinct.
+
+### Original and supplemental jurisdiction after state removal
+
+#### Lapides v. Board of Regents of University System of Georgia, 535 U.S. 613
+
+**Docket or dockets:** No. 01-298.
+**Decided:** May 13, 2002.
+
+For Lapides, May 13, 2002, No. 01-298, on authorized-removal waiver and the independent State-defendant rule, see Federal Courts: Immunities and Remedies.
+
+##### Whether failure of the federal claim compels return of the state claims
+
+**Holding:** The court must establish original jurisdiction separately from the State's immunity and statutory defendant status. If original jurisdiction is absent, §1447(c)'s mandatory remand rule applies; if it existed and the federal claims are later dismissed, §1367(c)(3) permits discretionary treatment of remaining state claims, without compelling either retention or remand.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Failure of the State-directed §1983 claim does not by itself establish that original jurisdiction was absent. Individual defendants, their defenses and the actual federal anchors require separate treatment.
+
+**Operative remedy or transition:** The reversal returns these jurisdictional and claim-specific inquiries without ordering a state-court remand.
+
+**Treatment of earlier authority:** Schacht and Steel Co. distinguish jurisdiction from defenses and failure of a statutory merits theory.
+
+### Federal criminal jurisdiction and defective quantity allegations
+
+#### United States v. Cotton, 535 U.S. 625
+
+**Docket or dockets:** No. 01-687.
+**Decided:** May 20, 2002.
+
+For Cotton, May 20, 2002, No. 01-687, on the actual sentencing error, Rule 52(b) and denial of correction, see Criminal Procedure: Sentencing and Capital Punishment.
+
+##### Whether an omitted aggravating drug quantity removes section 3231 jurisdiction
+
+**Holding:** Omission of the aggravating drug quantity from an indictment charging a federal offense does not withdraw the district court's subject-matter jurisdiction under 18 U.S.C. §3231. Ex parte Bain is overruled only insofar as it treats this indictment defect as jurisdictional; the prohibition on substantive indictment amendment without grand-jury resubmission, except changes of form, remains.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, Part I, unanimous.
+
+**Limits and questions not reached:** Complete absence of a charging instrument is not decided. The superseding indictment remains operative; the original indictment and judicial findings cannot replace it.
+
+**Treatment of earlier authority:** Ex parte Bain is overruled only on the jurisdictional consequence of this defect; its substantive-amendment protection survives except for changes of form. Lamar and Williams distinguish adjudicative power from accusation sufficiency. Stirone and Russell retain preserved charging protections without requiring jurisdictional treatment of this forfeited omission.
+
+### Federal review of later state telecommunications commission action
+
+#### Verizon Maryland Inc. v. Public Service Commission of Maryland / United States v. Public Service Commission of Maryland, 535 U.S. 635
+
+**Docket or dockets:** Nos. 00-1531 and 00-1711.
+**Decided:** May 20, 2002.
+
+For Verizon Maryland and the consolidated United States case, May 20, 2002, Nos. 00-1531 and 00-1711, on prospective commissioner relief and distinct refund requests, see Federal Courts: Immunities and Remedies.
+
+##### Whether section 252(e)(6) excludes ordinary federal-question jurisdiction
+
+**Holding:** Assuming without deciding that the determination-review sentence of 47 U.S.C. §252(e)(6) does not cover this enforcement decision, it does not withdraw 28 U.S.C. §1331 jurisdiction over the substantial claim that the later commission order violates the Telecommunications Act or applicable federal rules. A purported federal claim fails this jurisdictional threshold if it clearly appears immaterial and made solely to obtain jurisdiction, or wholly insubstantial and frivolous; this complaint falls within neither exception.
+
+**Proposition-level authority:** Thomas's opinion of the Court, Parts I–III, joined by all nine Justices; the mandate's form has eight Associate votes.
+
+**Limits and questions not reached:** This is an action challenge, not an established state-commission failure to perform §252 responsibilities. Section 252(e)(6)'s first sentence exclusively channels that failure to FCC substitution and review; §252(e)(5) requires assumption within ninety days after notice. The separate determination-review sentence lacks that exclusivity. Section 252(e)(4)'s state-court-review exclusion and automatic-approval periods—ninety days for a negotiated agreement, thirty for an arbitrated one—do not withdraw §1331 here. Section 252(e)(3) preserves other state-law requirements notwithstanding paragraph (2), subject to §253. Full determination-review coverage and the eventual private cause of action are not decided.
+
+**Treatment of earlier authority:** Bell v. Hood distinguishes a substantial federal claim from ultimate merits entitlement, retaining both the immaterial-jurisdictional-pretext and wholly-insubstantial-and-frivolous exceptions.
+
+##### Whether a prior related state judgment bars this challenge to a later agency order
+
+**Holding:** The restriction on lower federal appellate review of state-court judgments does not bar this original federal challenge to the later commission action. Actual claim or issue preclusion remains a distinct question for adjudication at its proper scope.
+
+**Proposition-level authority:** Thomas's Part II, unanimous.
+
+**Material application:** The federal complaint challenges the later administrative order following an intervening federal development, not the prior Maryland judicial judgment.
+
+**Limits and questions not reached:** The Court supplies no lower-federal appellate authority over state judgments and decides no actual claim or issue preclusion.
+
+**Operative remedy or transition:** Both appellate judgments are vacated and the cases remanded by eight Associate votes; Stone-Zsela joins all threshold rules but would reverse. The earlier state judgment remains intact. Proper preclusion and remaining claim questions require their own adjudication.
+
+### Jurisdiction to enforce an incorporated settlement
+
+#### In re Prudential Insurance Co. of America Sales Practice Litigation
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 261 F.3d 355 (3d Cir. 2001).
+**Decided:** May 28, 2002.
+
+For Prudential, May 28, 2002, review of 261 F.3d 355 with no Supreme Court docket supplied, on the relitigation and aid-of-jurisdiction limits and removal of the evidence restriction, see Federal Courts: Immunities and Remedies.
+
+##### Whether retained settlement-enforcement jurisdiction authorizes a state-action injunction
+
+**Holding:** A federal court may enforce a settlement incorporated into its judgment or covered by an express retention of enforcement jurisdiction. That jurisdiction does not itself authorize an injunction against state proceedings or determine the scope of the release; the court must separately satisfy 28 U.S.C. §2283.
+
+**Proposition-level authority:** Scalia's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The judgment incorporated the release and expressly retained enforcement authority. No Act expressly authorizing this injunction is identified. Neither retained jurisdiction nor the All Writs Act supplies an exemption from §2283.
+
+**Treatment of earlier authority:** Kokkonen v. Guardian Life Insurance Co., 511 U.S. 375 (1994), is applied to the incorporated release and retained jurisdiction; it creates no independent Anti-Injunction Act exception.
+
+### Patent counterclaims and the proper appellate circuit
+
+#### Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc., 535 U.S. 826
+
+**Docket or dockets:** No. 01-408.
+**Decided:** June 3, 2002
+
+##### Whether a compulsory patent counterclaim supplies the specialized arising-under jurisdiction
+
+**Holding:** Under the then-operative 28 U.S.C. §§1295(a)(1) and 1338(a), a patent counterclaim alone, including a compulsory counterclaim, does not make an action arise under patent law when the plaintiff's well-pleaded complaint supplies no patent-law basis. The Federal Circuit therefore lacks the asserted specialized jurisdiction over this nonpatent Rule 54(b) judgment; that conclusion does not eliminate the district court's independent jurisdiction over Holmes's federal trade-dress action.
+
+**Proposition-level authority:** Part I of Stone-Zsela's opinion of the Court, joined by Stevens, Scalia, Kennedy, Souter, Thomas and Breyer, commands seven votes for the rule and application. O'Connor and Ginsburg agree with jurisdictional vacatur on the distinct ground described in their separate writing.
+
+**Limits and questions not reached:** The counterclaim may present an independent real controversy without supplying the statutory appellate allocation. No actual or constructive amendment of the plaintiff's complaint adding a patent claim is presented; the Court does not decide that consequence or fix appellate jurisdiction universally at initial filing. Patent infringement, trade-dress functionality and collateral-estoppel merits remain outside review. The incorporated jurisdictional grant permits qualifying mixed actions without changing the source-of-claim requirement. Its express exception leaves copyright-, mask-work- and trademark-only cases to regional review unless another qualifying §1338(a) claim supplies the specialized basis.
+
+**Treatment of earlier authority:**
+
+- Christianson v. Colt Industries Operating Corp., 486 U.S. 800: its well-pleaded-claim analysis is extended to exclude a counterclaim-only patent basis; its transfer remedy is applied, with its actual-amendment reservation retained.
+- Cardinal Chemical Co. v. Morton International, Inc., 508 U.S. 83: its independent-counterclaim and continuing-controversy holdings remain intact; they do not establish this specialized jurisdictional source.
+- TrafFix Devices, Inc. v. Marketing Displays, Inc.: its functionality rule is neither reached nor altered; substantive trade-dress law cannot supply missing appellate authority.
+
+##### Whether §1631 requires transfer of this timely appeal to the Tenth Circuit
+
+**Holding:** Section 1631 requires a court lacking jurisdiction to transfer an appeal when the receiving court could have heard it when originally noticed and transfer serves the interest of justice; the appeal then proceeds as though noticed in that court on its original notice date. Those conditions are satisfied here, so the Federal Circuit's judgment is vacated and that court must transfer the appeal to the Tenth Circuit.
+
+**Proposition-level authority:** Part II of Stone-Zsela's opinion of the Court, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, supplies nine votes for this rule, its application and the definite transfer mandate.
+
+**Limits and questions not reached:** The receiving court could hear the timely Rule 54(b) appeal under §§1291 and 1294(1). The substantial circuit precedent supporting the mistaken forum choice, absence of established abusive notice, and preservation of a timely appeal satisfy the interest of justice here; not every misdirected appeal necessarily qualifies. The Federal Circuit must transfer with the original notice date preserved. Vacatur and transfer do not affirm or reverse the district judgment for purposes of its separate conditional order.
+
+**Treatment of earlier authority:**
+
+- Rivet v. Regions Bank of Louisiana, decided February 24, 1998: its insistence on an actual jurisdictional source is applied without treating an affirmative counterclaim as merely a defense.
+- Caterpillar Inc. v. Lewis, decided December 10, 1996: distinguished because it preserves a judgment after actual jurisdiction arose; convenience or consent supplies no comparable authority here.
+
+### Appeal by a timely objector in a mandatory class
+
+#### Devlin v. Scardelletti, 536 U.S. 1
+
+**Docket or dockets:** No. 01-417.
+**Decided:** June 10, 2002
+
+##### Whether a mandatory-class member may appeal disposition of his own rights without intervention
+
+**Holding:** An unnamed member of a mandatory Rule 23 class who timely objects to approval of a settlement binding his own rights is a party for the limited purpose of appealing that approval without a further intervention prerequisite. The appellate-status dismissal must therefore be reversed and Devlin's preserved objections considered under ordinary appellate rules, without reopening the affirmed intervention denial or deciding the settlement's merits.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Breyer, supplies six direct votes for the rule, limits and remand. Scalia, Kennedy and Thomas dissent.
+
+**Limits and questions not reached:** Status is limited to the timely objector's approval appeal from binding adjudication of his own non-excludable claim. Ordinary preservation, appellate standing, deadlines and management remain necessary; no general control of the class follows. Optional-class appeals, unrelated interlocutory orders, settlement validity and pension entitlement are not decided. The affirmed intervention denial stays intact; the settlement remains subject to the approval appeal, without an award of benefits or damages.
+
+**Treatment of earlier authority:**
+
+- Felzen: its intervention requirement for an otherwise nonparty shareholder appealing a derivative settlement remains controlling; this mandatory adjudication of the member's own rights presents a different category.
+- Marino v. Ortiz, 484 U.S. 301: its ordinary intervention rule for outsiders is preserved.
+- Richards v. Jefferson County and Matsushita Electric Industrial Co. v. Epstein: valid representative binding remains necessary and does not itself confer universal appellate status.
+- Amchem Products, Inc. v. Windsor and Ortiz v. Fibreboard Corp.: certification and representation protections remain independent.
+- United Airlines, Inc. v. McDonald, 432 U.S. 385: its timely postjudgment intervention rule does not deem this application timely or reopen its denial.
+
+### Alienage jurisdiction over a dependent-territory corporation
+
+#### JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd., 536 U.S. 88
+
+**Docket or dockets:** No. 01-651.
+**Decided:** June 10, 2002
+
+##### Whether incorporation in the British Virgin Islands makes the corporation a United Kingdom subject
+
+**Holding:** A corporation organized under British Virgin Islands law is a subject of the United Kingdom under 28 U.S.C. §1332(a)(2) because the territory's corporate and governmental authority rests under United Kingdom sovereignty. That established relationship at commencement satisfies the foreign-subject category without treating the territory as an independent foreign state; other statutory jurisdictional requirements remain independently necessary.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. All nine adopt the rule and its reversal and remand.
+
+**Limits and questions not reached:** Jurisdiction rests on the established sovereign relationship at commencement, not forum consent, completed litigation, later nationality legislation or the territory's independent statehood. No universal associated-territory or natural-person nationality rule follows. The Court does not decide another corporation's principal place of business or §1332(c)'s separate reach to alien corporations. Reversal of the alienage dismissal leaves remaining preserved appellate matters and all other jurisdictional conditions for ordinary review.
+
+**Treatment of earlier authority:**
+
+- Caterpillar Inc. v. Lewis: actual statutory jurisdiction is necessary; litigation completion and convenience do not cure its continuing absence.
+- Rivet v. Regions Bank of Louisiana: the governing statutory source must supply adjudicatory power; another convenient basis cannot replace it.
+- Verizon Maryland Inc. v. Public Service Commission of Maryland: jurisdiction remains distinct from ultimate merits and relief; its federal-question holding does not determine alienage.
+
+### Collateral-order review of a seized-assets counsel claim
+
+#### United States v. Farmer
+
+**Docket or dockets:** Review of 274 F.3d 800 (Fourth Circuit); no Supreme Court docket is supplied.
+**Decided:** June 10, 2002.
+
+For the hearing threshold, due-process basis and conditional release allocation in United States v. Farmer, June 10, 2002, review of 274 F.3d 800 (Fourth Circuit), see Criminal Procedure: Search, Seizure and Interrogation — Adversary review of seized assets needed for trial counsel.
+
+##### Whether refusal of a hearing on seized assets needed for trial counsel is immediately appealable
+
+**Holding:** When a defendant substantially and specifically supports a claim that continuing civil seizure holds potentially untainted assets needed for trial counsel, denial of the requested focused hearing is subject to immediate review. The denial is immediately reviewable under the collateral-order rule when postponement until the end of trial would irretrievably lose the asserted counsel opportunity.
+
+**Proposition-level authority:** Part I of Kennedy's opinion of the Court, joined by all eight other Justices; all nine adopt reviewability at this scope.
+
+**Limits and questions not reached:** Immediate review protects this time-sensitive opportunity to retain counsel. It determines neither entitlement to release nor the final forfeiture merits and creates no appeal from every asset seizure.
+
+#### Robertson v. Bartels, 534 U.S. 1110
+
+**Docket or dockets:** No. 01-721; district-court No. 01-2024.
+**Decided:** 2002-06-20.
+
+For the June 20, 2002 holdings in No. 01-721 on territorial racial design and the actual incumbent-prospect claim, see Election Law.
+
+##### Political alignment and common requested relief do not bind these nonparties
+
+**Holding:** A prior judgment cannot bind different plaintiffs merely because they share political interests, request the same relief, know of the earlier case or could have sought intervention. The stated virtual-representation ground fails without constitutionally sufficient consent, control, genuine privity, authorized representation or another valid binding arrangement; agreement to admit testimony supplies none of those relationships by itself.
+
+**Proposition-level authority:** Part I of Stone-Zsela's signed opinion of the Court is adopted by all nine Justices.
+
+**Limits and questions not reached:** Shared political association, vigorous advocacy, adequate incentives, knowledge, public importance and tactical characterization do not establish representative authority or a general duty to intervene. Actual authorized representative and special remedial arrangements remain possible. Admission of Page testimony does not establish assent to its inferences.
+
+**Operative remedy or transition:** The stated preclusion rationale is rejected unanimously. Independent merits disposition makes an exploratory remand to construct a new relationship unnecessary; the agreement on preclusion adds no merits vote.
+
+**Treatment of earlier authority:** Richards and Hansberry: applied to the necessary authority for binding absent claimants. Devlin: distinguished because its appellants were already bound mandatory-class members, not political allies outside the litigation.

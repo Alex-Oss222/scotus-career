@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Environmental Law
 
@@ -517,3 +517,44 @@ For Commerce Clause limits and the existing-record inquiry governing private-lan
 **Operative remedy or transition:** The D.C. Circuit's whole-guidance vacatur is affirmed. Existing emissions and monitoring requirements, the 1992 regulation, lawful gap-filling and independently authorized stricter state requirements remain effective. Future lawful rulemaking remains available; the Court prescribes no substitute monitoring frequency, rule or permit condition.
 
 For this case's immediate reviewability under section 307(b), see Administrative Law - Reviewability of binding agency guidance, Appalachian Power Co. v. EPA, decided May 29, 2001, on the same six dockets.
+
+### Interstate air-pollution budgets and state implementation choice
+
+#### Michigan v. Environmental Protection Agency
+
+**Docket or dockets:** Supreme Court docket not supplied; judgment below, 213 F.3d 663 (D.C. Cir. 2000).
+**Decided:** April 23, 2002.
+
+For the delegation question in Michigan v. Environmental Protection Agency, April 23, 2002, judgment below 213 F.3d 663, see Constitutional Structure — Congressional guidance for interstate air-pollution implementation.
+
+##### This implementation provision permits bounded consideration of cost
+
+**Holding:** After EPA establishes the relevant connection between upwind emissions and another State's nonattainment or interference with maintenance, §110(a)(2)(D)(i)(I) permits the availability of highly cost-effective controls to inform the emissions reduction required under that interstate implementation duty. Cost is permitted, not required; it cannot itself establish the interstate nexus, authorize unrelated reductions or replace the enacted air-quality objective.
+
+**Proposition-level authority:** Part I of Chief Justice Stone-Zsela's Opinion of the Court is joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Those seven directly adopt this statutory rule and its qualifications.
+
+**Limits and questions not reached:** Section 110(a)(2)(D) requires adequate plan provisions consistent with Title I prohibiting emissions that significantly contribute to nonattainment in another State or interfere with maintenance by another State of the applicable national primary or secondary ambient air-quality standard. Significant contribution qualifies the nonattainment branch; the separate maintenance branch requires interference with maintenance. The adjacent significant-deterioration/visibility and §§115/126 compliance duties remain in their own settings and are not newly adjudicated here. Section 110(a)(2)(A) calls for enforceable limits and other means or techniques, including fees, marketable permits and emissions-right auctions, with necessary or appropriate schedules. Those methods do not independently authorize replacement of the statutory air-quality objective. Under §110(k)(5), correction follows substantial inadequacy to attain or maintain the relevant national standard, adequately mitigate the identified interstate transport or otherwise comply with the Act. To the extent EPA considers appropriate the finding subjects the State to requirements applicable when the deficient plan was developed and submitted; EPA may adjust applicable dates, but not an unelapsed Part D attainment date. Section 110(k)(5) requires public findings and notice and permits a reasonable submission deadline no later than eighteen months after notice. The federal-plan, approval and notice rules do not establish that a new statutory trigger has occurred or impose a new judicial deadline.
+
+**Material application:** The agency first identified interstate contribution from magnitude, frequency and relative modeled effects, then used controls estimated at no more than $2,000 per ton. Actual delegated plan-adequacy, correction and rulemaking authority supports a reasonable implementation choice; the categorical holding does not independently validate the precise benchmark or modeling.
+
+##### A lawful budget preserves state selection when real means remain
+
+**Holding:** A federally authorized statewide emissions budget does not unlawfully displace the States' control choices when actual options among sources and measures remain and the Act supplies lawful federal implementation instead of an unavoidable command to enact a prescribed state program. States need not adopt EPA's illustrative source mix or optional model trading program; the mandatory approval rule protects any submission meeting all applicable requirements.
+
+**Proposition-level authority:** All nine Justices join Part II of the Chief Justice's opinion at the lawful-budget level. Scalia and Thomas do not thereby approve cost-derived amounts they regard as unauthorized.
+
+**Limits and questions not reached:** The actual choices include stationary or mobile measures, EPA's optional trading model, a different state trading program or no trading. The EPA/OTAG conclusion that VOC controls are inadequate for this long-distance NOx problem is an agency finding, not a statutory ban; States may add VOC measures for local disbenefits. Section 110(c)(1) requires a federal plan within two years after the required missing/incomplete-plan finding or full/partial disapproval unless the State cures and obtains approval before promulgation. Section 110(k)(3) requires approval of a fully compliant submission; compliant portions may be approved and others disapproved, but complete compliance requires complete approval. No new trigger or judicial deadline is found.
+
+**Operative remedy or transition:** This judgment resolves the three categorical questions for the one-hour ozone standard. The eight-hour findings and their review remain stayed. The independent adequacy of the exact cost cutoff and particular unreviewed technical choices are outside the questions presented. The circuit's Wisconsin, Missouri and Georgia vacaturs/remands and its notice remands concerning the electric-generating-unit definition and the control level for large stationary internal-combustion engines remain intact. The sustained portions remain operative subject to those existing corrections; no additional agency remand is ordered on the three questions decided here.
+
+**Treatment of earlier authority:**
+
+- **Whitman v. American Trucking Associations, Inc.:** Section 109's exclusion of implementation cost remains; the distinct §110 implementation question is resolved on its own text. Congress's guidance requirement and the independent no-agency-cure rule govern the constitutional analysis.
+- **United States v. Mead Corp. and Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.:** Applied to actual delegated force and a reasonable resolution of genuine implementation ambiguity; formal procedure or institutional endorsement alone supplies neither authority nor validity.
+- **Barnhart v. Walton:** Its formal delegated-choice ground confirms permission for reasonable implementation within an actual assignment; it creates no presumption authorizing every cost factor or power from longstanding practice.
+- **Train v. Natural Resources Defense Council, Inc., 421 U.S. 60:** Its initial state source-control choice is applied; statutory choice remains independently protective even where the constitutional federal alternative exists.
+- **Union Electric Co. v. EPA, 427 U.S. 246:** Its rejection of economic infeasibility as a basis for refusing a qualifying state plan does not decide this distinct federal interstate-adequacy question.
+- **Arkansas v. Oklahoma:** Authorized federal interstate implementation and supported technical judgments retain their force; they do not supply authority apart from Congress's statutory assignment.
+- **MCI Telecommunications Corp. v. American Telephone & Telegraph Co.:** Its prohibition on replacing a mandatory statutory task with agency policy remains binding.
+- **AT&T Corp. v. Iowa Utilities Board and New York v. FERC:** Actual federal assignments, constraints on their exercise and preserved state functions remain distinct; neither decision supplies a general presumption of regulatory power.
+- **New York v. United States; Hodel v. Virginia Surface Mining & Reclamation Assn., 452 U.S. 264; FERC v. Mississippi, 456 U.S. 742:** Their distinction between lawful federal regulation with genuine state alternatives and compulsory state administration applies. The constitutional floor does not erase greater statutory means-choice protections.

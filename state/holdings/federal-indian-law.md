@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2000
-**Processed through:** June 28, 2001, after all 114 completed OT2000 Court events.
-**Edition:** November 9, 2026
+**Last completed October Term:** 2001
+**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
+**Edition:** November 11, 2026
 
 ## Federal Indian Law
 
@@ -746,3 +746,29 @@ For the separate Arizona I forfeiture, Docket 320 preclusion holdings and Fort Y
 **Treatment of earlier authority:** National Farmers and Iowa Mutual retain ordinary initial tribal examination where authority may exist, but cannot confer absent authority. Strate supports ending litigation in the unauthorized forum. Neztsosie's source-specific federal priority does not create general removal or automatic relief. Saucier leaves Harlow and Anderson's objective defense and conduct-date inquiry intact; later forum decisions do not establish notice for the 1990-1991 searches.
 
 For the section 1983 forum question in Nevada v. Hicks, No. 99-1994, decided June 25, 2001, see Federal Courts — Federal civil-rights claims in tribal tribunals.
+
+### IGRA reporting parity and substantive wagering taxes
+
+#### Chickasaw Nation v. United States, 534 U.S. 84
+
+**Docket or dockets:** No. 00-507.
+
+**Decided:** November 27, 2001.
+
+**Companion or consolidated matters:** The same construction and disposition govern the Chickasaw and Choctaw Nations.
+
+##### Whether IGRA imports chapter 35’s state wagering-tax exemption
+
+**Holding:** For Indian gaming conducted under IGRA or an effective Tribal-State compact entered under §2710(d)(3), §2719(d)(1) directs state-equivalent treatment of the Code provisions concerning reporting and withholding of taxes on gaming or wagering winnings. Its parenthetical chapter 35 reference does not extend that defined subject to chapter 35's substantive wagering excise and occupational taxes. Section 2719(d)(2) makes the subsection govern notwithstanding other law unless that law specifically cites the subsection; this priority applies only within (d)(1)'s scope.
+
+**Proposition-level authority:** Kennedy's opinion, joined by Stevens, Scalia, Thomas, Ginsburg and Breyer, supplies six direct votes for the complete construction and both affirmances.
+
+**Limits and questions not reached:** The Indian-law canon remains available for genuine residual ambiguity but does not overcome the resolved reporting-and-withholding scope. Chapter 35's independent definitions, exclusions, tax base and occupational-tax linkage retain their own operation; the judgment recognizes no general tribal federal-tax immunity.
+
+**Operative remedy or transition:** Both tribes' judgments rejecting the asserted IGRA exemption are affirmed, 6–3.
+
+**Treatment of earlier authority:**
+
+- United States National Bank of Oregon v. Independent Insurance Agents of America (June 7, 1993): applied to read the whole enacted provision; no general authority to rewrite statutory text is adopted.
+- Oklahoma Tax Commission v. Chickasaw Nation (June 14, 1995): its state-tax incidence, residence, source and treaty rules are distinguished from this federal statutory exemption.
+- Minnesota v. Mille Lacs Band of Chippewa Indians (March 24, 1999): its protective interpretation of retained tribal rights remains; it creates no exemption outside the scope of this resolved federal text.
