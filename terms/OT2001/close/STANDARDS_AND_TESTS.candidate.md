@@ -12578,7 +12578,7 @@ Waiver, estoppel and equitable tolling retain their established predicates. A pr
 
 **Present operation effective:** BE&K Construction Co. v. NLRB, June 24, 2002.
 
-**Exceptions and limits:** The full antitrust sham test is not adopted for the NLRA. Liability for a reasonably based suit brought only to impose litigation costs regardless of outcome, serial abuse, fraud and independently unlawful objectives remains unresolved at their distinct predicates. Court sanctions and fee-shifting statutes remain operative; the Board's general fee-award authority is not decided.
+**Exceptions and limits:** The full antitrust sham test is not adopted for the NLRA. Liability for an unsuccessful, reasonably based suit that would not have been brought but for a purpose to impose litigation costs regardless of outcome in retaliation for protected activity, serial abuse, fraud and independently unlawful objectives remains unresolved at their distinct predicates. Court sanctions and fee-shifting statutes remain operative; the Board's general fee-award authority is not decided.
 
 ## Bankruptcy
 
