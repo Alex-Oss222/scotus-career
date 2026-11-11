@@ -10,7 +10,7 @@
 
 **Entry event:** Initial consideration of a direct appeal under 28 U.S.C. §1253, with motions to dismiss or affirm. The jurisdictional statement was filed October 11, 2002; the reply December 13; the matter was distributed for January 10, 2003. That conference is the assigned entry event. No plenary grant or argument date is assumed. The merits analysis below is prepared for a retained appeal after appropriate briefing.
 
-**Simulated Event Date:** 2003-01-10; direct-appeal screening. Any later merits disposition requires the stated review predicates and briefing.
+**Simulated Event Date:** 2003-01-10; direct-appeal screening. Any later merits disposition requires briefing.
 
 **Questions presented, paraphrased:** Whether California's 2001 congressional districting violates equal protection through racial line-drawing or intentional dilution; and whether the challenged congressional and state-senate districts deny Latino voters equal electoral opportunity under §2. The jurisdictional statement's exact questions have not been retrieved. No plenary grant is established. Appellants seek reversal and relief against the boundaries; their earlier request to postpone the March 2002 primary was denied.
 
@@ -20,7 +20,7 @@ The statutory results challenges concerned CD28 and SD27. Proposed alternatives 
 
 For intentional dilution, the court assumed plaintiffs' intent evidence and admissibility objections in plaintiffs' favor. Although it questioned whether incumbency protection showed invidious purpose, **absence of purpose was not its dispositive ground**. It required effects resembling the third *Gingles* condition. CD51's internal electoral opportunity was conceded; the remaining asserted injury concerned voters excluded from that district.
 
-**Preservation:** The complaint contained VRA and Fourteenth Amendment counts; the constitutional count was understood to include both design and intentional-dilution theories. Footnote 25 expressly says an influence-district claim was not asserted. No standalone First Amendment count is identified. Discovery remained open, but plaintiffs did not request postponement of the summary-judgment decision. These are real limitations on changing theories, not findings that every participation argument was waived. The scope of the appeal must be checked against the missing jurisdictional statement. No material participation restriction or same-term dependency is identified.
+**Preservation:** The complaint contained VRA and Fourteenth Amendment counts; the constitutional count was understood to include both design and intentional-dilution theories. Footnote 25 expressly says an influence-district claim was not asserted. No standalone First Amendment count is identified. Discovery remained open, but plaintiffs did not request postponement of the summary-judgment decision. These are real limitations on changing theories, not findings that every participation argument was waived. No material participation restriction or same-term dependency is identified.
 
 #### B. LAW ENTERING THE CASE
 
@@ -42,7 +42,7 @@ For intentional dilution, the court assumed plaintiffs' intent evidence and admi
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-The Court may retain the appeal for briefing; affirm legally sufficient judgment components; or vacate a constitutional component if the court demanded the wrong injury. A participation-based constitutional rule could reach deliberate, material impairment of real political organization without establishing a seat entitlement. It could not silently create a pleaded First Amendment count, revive an expressly unasserted influence claim, or establish liability from racial percentages alone. Any remand must identify the affected voters, conduct, injury, causation, and unresolved evidence. The exact appellate questions and full summary-judgment submissions remain necessary to verify preservation and the scope of review.
+The Court may retain the appeal for briefing; affirm legally sufficient judgment components; or vacate a constitutional component if the court demanded the wrong injury. A participation-based constitutional rule could reach deliberate, material impairment of real political organization without establishing a seat entitlement. It could not silently create a pleaded First Amendment count, revive an expressly unasserted influence claim, or establish liability from racial percentages alone. Any remand must identify the affected voters, conduct, injury, causation, and unresolved evidence. Preservation and the scope of review are determined on the district opinion and the record supplied.
 
 #### E. SOURCES
 
@@ -54,13 +54,13 @@ The district opinion, especially 1213–15, 1233–45, 1245–51 and notes 5, 25
 
 **Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
 
-**Current-through baseline:** Governing decisions through June 28, 2002. **Scope:** Direct-appeal screening and the preserved constitutional effects question. The disposition below assumes that question is included in the jurisdictional statement; the public docket verifies the statement's filing, not its contents.
+**Current-through baseline:** Governing decisions through June 28, 2002. **Scope:** Direct-appeal screening and the preserved constitutional effects question.
 
-**Conditional authorship:** Once the stated review and jurisdictional predicates are met and a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
+**Conditional authorship:** Once a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's proposed vote:** Oppose summary affirmance of the entire judgment and seek plenary briefing on the constitutional effects question. If that question is properly presented for merits decision, Stone would vote to affirm the CD28 and CD51 design-only judgments, affirm the CD28 and SD27 Section 2 results judgments and the intentional statutory variants on the injury actually asserted, vacate and remand the CD28 intentional constitutional judgment, and affirm the CD51 constitutional judgment as presented. These are his requested dispositions, not an announced Court judgment.
+**Stone's proposed vote:** Oppose summary affirmance of the entire judgment and seek plenary briefing on the constitutional effects question. On the merits, Stone would vote to affirm the CD28 and CD51 design-only judgments, affirm the CD28 and SD27 Section 2 results judgments and the intentional statutory variants on the injury actually asserted, vacate and remand the CD28 intentional constitutional judgment, and affirm the CD51 constitutional judgment as presented. These are his requested dispositions, not an announced Court judgment.
 
 **Remedy Stone would support if his position is adopted:** A remand confined to the legal measure of constitutional injury. It does not find liability, prescribe a district, postpone an election, or order damages. The district court must assess admissibility, actual impairment, purpose, causation and any same-decision defense on the proper record. Additional proceedings are warranted only to the extent the erroneous effects threshold prevented adjudication of material evidence. If a violation is proved, declaratory and prospective injunctive relief must remove the actual impediment. California receives the initial opportunity to correct causal boundaries; a judicial map requires a demonstrated need and changes no more territory than the lawful cure requires.
 
@@ -114,8 +114,8 @@ The historical Supreme Court **summarily affirmed on January 13, 2003**, *Cano v
 #### A. CASE, RECORD, AND POSTURE
 
 * **Case Name / Citation:** *Montiel v. Davis*, 215 F. Supp. 2d 1279; S.D. Alabama No. 01-0447-BH-S.
-* **October Term / Entry Stage:** OT2002; assigned counterfactual direct-appeal merits review under 28 U.S.C. §1253, conditioned on a properly perfected appeal. No historical Supreme Court filing or argument is represented.
-* **Simulated Event Date:** 2003-01-13; assigned direct-appeal merits-review date within OT2002. A timely appeal and jurisdictional statement remain jurisdictional prerequisites; the date does not establish a historical filing.
+* **October Term / Entry Stage:** OT2002; assigned counterfactual direct-appeal merits review under 28 U.S.C. §1253. No historical Supreme Court filing or argument is represented.
+* **Simulated Event Date:** 2003-01-13; assigned direct-appeal merits-review date within OT2002. The date does not establish a historical filing.
 * **Question Presented:** Whether Alabama's 2001 legislative plans deny equal population-based representation or racial electoral equality, notwithstanding maximum deviations below ten percent.
 * **Question Granted:** No grant is verified.
 * **Judgment Under Review / Relief Requested:** Three-judge district court's July 8, 2002 summary judgment for defendants; challengers would seek reversal and an injunction against the legislative plans. Congressional and education-board claims had been severed.
@@ -137,7 +137,7 @@ The historical Supreme Court **summarily affirmed on January 13, 2003**, *Cano v
 
 **Controlling Law:** *Shaw v. Reno* (1993), *Johnson v. Miller* (1995), and *Easley v. Cromartie* (2001) reject territorial racial design alone as a constitutional deprivation. *Robertson v. Bartels* (June 20, 2002) applies that boundary to racial composition and incumbent-prospect claims while preserving independent restrictions on eligibility, candidacy, access, and participation. Its protection applies equally to voters and candidates of every race. Purposeful impairment remains actionable, and a partisan explanation supplies no categorical immunity. *Voinovich* and *Johnson v. De Grandy* (1994) preserve independent §2 proof and reject automatic maximization. *Balderas v. Texas* (June 17, 2002), applying *Valdespino* (1999), permits a preserved single-group district-capacity claim through a lawful compact majority district or rigorous proof of dependable crossover capacity. Neither route dispenses with cohesion, opposing bloc voting, causation, and independent totality, or defeats a genuinely independent sufficient lawful ground.
 
-**Other Governing Law / Open Point:** Fourteenth Amendment; §2, then 42 U.S.C. §1973, protects against racial denial of any citizen's voting rights. Its results inquiry does not require discriminatory intent. Whether a distinct, supported statutory dilution theory survives the pleaded population/design allegations requires the actual preserved record.
+**Other Governing Law / Open Point:** Fourteenth Amendment; §2, then 42 U.S.C. §1973, protects against racial denial of any citizen's voting rights. Its results inquiry does not require discriminatory intent. Whether a distinct, supported statutory dilution theory survives the pleaded population/design allegations is decided on the record supplied.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
@@ -147,9 +147,9 @@ The court expressly treated the under-ten-percent presumption as rebuttable, but
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-A proper direct appeal permits affirmance for evidentiary insufficiency, or remand if an erroneous burden excluded material proof. Missing personal injury requires jurisdictional disposition first. A genuine §2 count must receive its own analysis; failure of a design claim cannot decide it. Any relief must address proven population or electoral injury and allow a timely state cure.
+The direct appeal permits affirmance for evidentiary insufficiency, or remand if an erroneous burden excluded material proof. Missing personal injury requires jurisdictional disposition first. A genuine §2 count must receive its own analysis; failure of a design claim cannot decide it. Any relief must address proven population or electoral injury and allow a timely state cure.
 
-**Plausible Holding Scope:** A record-specific affirmance may clarify that smaller deviations remain challengeable without creating categorical partisan or racial immunity. A remand could reject an exclusive-purpose requirement while leaving ultimate liability open. The published opinion cannot substitute for verification of contested motion evidence.
+**Plausible Holding Scope:** A record-specific affirmance may clarify that smaller deviations remain challengeable without creating categorical partisan or racial immunity. A remand could reject an exclusive-purpose requirement while leaving ultimate liability open.
 
 #### E. SOURCES
 
@@ -161,13 +161,13 @@ District opinion and concurrence; §1253; Reynolds; Brown.
 
 **Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
 
-**Current-through baseline:** Governing decisions through June 28, 2002. **Jurisdictional condition:** A properly perfected direct appeal of the three-judge court's federal judgment. No historical Supreme Court filing or grant is established. The merits position addresses the record described in the published judgment; a materially different appellate record requires application of the same rules to that record.
+**Current-through baseline:** Governing decisions through June 28, 2002. **Review posture:** Direct appeal of the three-judge court's federal judgment. No historical Supreme Court filing or grant is established. The merits position addresses the record described in the published judgment.
 
-**Conditional authorship:** Once the stated review and jurisdictional predicates are met and a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
+**Conditional authorship:** Once a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's proposed vote:** If the direct appeal properly presents the described record, Stone would vote to affirm for insufficient proof and deny the requested invalidation and replacement of the legislative maps. This position supplies no Court outcome or majority. The congressional and education-board claims were severed and remain outside this judgment. If the appellate papers disclose a separately developed Section 2 claim omitted from the published account, its own evidence and disposition must be examined before the affirmance is extended to it; failure of a constitutional design claim cannot decide an independent statutory cause.
+**Stone's proposed vote:** Stone would vote to affirm for insufficient proof and deny the requested invalidation and replacement of the legislative maps. This position supplies no Court outcome or majority. The congressional and education-board claims were severed and remain outside this judgment. On the record supplied, no separately developed Section 2 claim alters the affirmance; failure of a constitutional design claim cannot decide an independent statutory cause.
 
 #### C. ISSUE POSITIONS
 
@@ -206,8 +206,8 @@ No Supreme Court merits disposition is verified. The historical anchor is the Ju
 #### A. CASE, RECORD, AND POSTURE
 
 * **Case Name / Citation:** *Old Person v. Brown*, 312 F.3d 1036; Ninth Circuit No. 02-35171.
-* **October Term / Entry Stage:** OT2002; hypothetical certiorari screening after the December 4, 2002 appellate judgment. No filed Supreme Court petition or question granted is verified.
-* **Simulated Event Date:** 2003-01-17; assigned hypothetical certiorari-screening date within OT2002, after the December 4, 2002 judgment. This date establishes no historical petition or grant.
+* **October Term / Entry Stage:** OT2002; certiorari screening after the December 4, 2002 appellate judgment.
+* **Simulated Event Date:** 2003-01-17; assigned certiorari-screening date within OT2002, after the December 4, 2002 judgment. This date establishes no historical petition or grant.
 * **Question Presented for Screening:** Whether a corrected §2 totality analysis supports affirmance despite the district court's mistaken proportionality calculation, and whether impending redistricting can defeat otherwise established liability.
 * **Judgment / Relief:** The Ninth Circuit affirmed judgment rejecting dilution in the remaining plaintiffs' legislative districts. Challengers seek reversal and declaratory or injunctive relief against Montana's 1992 plan.
 * **Material Record:** Four Native American voters reside in House Districts 73 and 85 and Senate Districts 37 and 43. The first appeal preserved rejection of intentional discrimination but established the *Gingles* preconditions and required renewed totality analysis. Further trial evidence covered the 1998 and 2000 elections. Discrimination, polarization, socioeconomic barriers, and racial appeals favored plaintiffs. Other findings concerned actual electoral success, non-tenuous boundary policies, and the absence of additional discriminatory election devices. Indian-preferred candidates represented both relevant House districts and one Senate district. Joey Jayne's 2000 victory was disputed as exceptional because she faced only a third-party general-election opponent.
@@ -247,7 +247,7 @@ Ninth Circuit opinion; district findings; United States amicus brief; Gingles.
 
 #### F. CERTIORARI ADDENDUM
 
-**Hypothetical screening only:** The circuit judgment is final, but no petition, live current-map controversy, or square outcome-determinative circuit conflict is verified. Recurring proportionality and remedy questions carry importance, but the panel corrected the principal legal errors and independently sustained a fact-intensive judgment. The United States' circuit amicus role is not a Supreme Court invitation. Merits review requires a properly presented federal question and a live controversy.
+**Screening:** The circuit judgment is final, but no live current-map controversy or square outcome-determinative circuit conflict is verified. Recurring proportionality and remedy questions carry importance, but the panel corrected the principal legal errors and independently sustained a fact-intensive judgment. The United States' circuit amicus role is not a Supreme Court invitation. Merits review requires a live controversy.
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
@@ -255,13 +255,13 @@ Ninth Circuit opinion; district findings; United States amicus brief; Gingles.
 
 **Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
 
-**Current-through baseline:** Governing decisions through June 28, 2002. **Review posture:** Hypothetical certiorari screening after the December 4, 2002 appellate judgment. No historical petition, grant or certiorari vote is asserted. Any merits review requires a live controversy and a properly presented question; a replacement map must be assessed for its actual effect on available relief.
+**Current-through baseline:** Governing decisions through June 28, 2002. **Review posture:** Certiorari screening after the December 4, 2002 appellate judgment. No historical petition, grant or certiorari vote is asserted. Any merits review requires a live controversy; a replacement map must be assessed for its actual effect on available relief.
 
-**Conditional authorship:** Once the stated review and jurisdictional predicates are met and a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
+**Conditional authorship:** Once a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone's proposed merits vote:** If the described federal question is properly before the Court in a live controversy, Stone would vote to affirm on the corrected totality assessment while rejecting the erroneous proportionality calculation and the use of approaching redistricting to deny otherwise established liability. He would support no additional-district mandate or injunction on this record. That is his conditional merits position; neither the petition decision nor the Court's merits outcome is assigned. His proposed rule would leave special elections available in a different proved case and would not treat a future map as an automatic cure of every outstanding claim.
+**Stone's proposed merits vote:** If the controversy is live, Stone would vote to affirm on the corrected totality assessment while rejecting the erroneous proportionality calculation and the use of approaching redistricting to deny otherwise established liability. He would support no additional-district mandate or injunction on this record. That is his conditional merits position; neither the petition decision nor the Court's merits outcome is assigned. His proposed rule would leave special elections available in a different proved case and would not treat a future map as an automatic cure of every outstanding claim.
 
 #### C. ISSUE POSITIONS
 

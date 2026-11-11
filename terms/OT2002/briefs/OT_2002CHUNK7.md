@@ -1444,11 +1444,11 @@ Governing law through June 28, 2002.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
-The following positions describe the specified appellate dispute; present adversity after settlement requires confirmation. The district court treated the use and disclosure restrictions as impermissible burdens on reporting public affairs even though it found statutory violations. WFAA argues that corruption by a public official is central political speech, that its independent investigation produced much of the story, and that the reporter did not physically operate the scanner. It also relies on initial legal advice and disputes statutory procurement, knowledge, and causation. Its proposed constitutional protection would prevent privacy statutes from suppressing truthful public-interest reporting after information reaches a newsroom. The Peavys answer that this was ongoing, nonconsensual interception of private conversations, that the reporter’s requests and instructions helped shape its continuation, and that public importance does not license unlawful acquisition. Their strongest rule ties liability to participation and proven statutory misconduct rather than to an unfavorable story. The United States intervened to defend the federal Act, while media amici emphasized the chilling effect on ordinary receipt and reporting. The participant distinction must be supported by evidence, not inferred solely from later publication.
+The following positions describe the specified appellate dispute; present adversity after settlement is determined on the record supplied. The district court treated the use and disclosure restrictions as impermissible burdens on reporting public affairs even though it found statutory violations. WFAA argues that corruption by a public official is central political speech, that its independent investigation produced much of the story, and that the reporter did not physically operate the scanner. It also relies on initial legal advice and disputes statutory procurement, knowledge, and causation. Its proposed constitutional protection would prevent privacy statutes from suppressing truthful public-interest reporting after information reaches a newsroom. The Peavys answer that this was ongoing, nonconsensual interception of private conversations, that the reporter’s requests and instructions helped shape its continuation, and that public importance does not license unlawful acquisition. Their strongest rule ties liability to participation and proven statutory misconduct rather than to an unfavorable story. The United States intervened to defend the federal Act, while media amici emphasized the chilling effect on ordinary receipt and reporting. The participant distinction must be supported by evidence, not inferred solely from later publication.
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-First determine the settlement’s effect. If no live controversy remains within the grant, terminate merits review on the applicable mootness ground, separately addressing the treatment of existing judgments. On confirmed live review, the Court could reject categorical First Amendment immunity for an active participant and remand for claim-specific adjudication, leaving defenses concerning statutory coverage, intent, independent sourcing, and damages available. It could conclude that particular acquisition claims do not exist under the applicable civil-remedy text and decline a constitutional ruling on those claims while addressing viable use or disclosure claims. It could recognize greater constitutional protection for an actually independent recipient, but that path would require a record determination that the particular defendant did not participate in the unlawful acquisition. A broad privilege for every truthful public-interest publication would require confronting the incentive to sponsor interceptions. No path authorizes damages without proof of a viable claim or treats every conversation on the tapes as a matter of public concern.
+First determine the settlement’s effect. If no live controversy remains within the grant, terminate merits review on the applicable mootness ground, separately addressing the treatment of existing judgments. If review remains live on the opinion below and the record supplied, the Court could reject categorical First Amendment immunity for an active participant and remand for claim-specific adjudication, leaving defenses concerning statutory coverage, intent, independent sourcing, and damages available. It could conclude that particular acquisition claims do not exist under the applicable civil-remedy text and decline a constitutional ruling on those claims while addressing viable use or disclosure claims. It could recognize greater constitutional protection for an actually independent recipient, but that path would require a record determination that the particular defendant did not participate in the unlawful acquisition. A broad privilege for every truthful public-interest publication would require confronting the incentive to sponsor interceptions. No path authorizes damages without proof of a viable claim or treats every conversation on the tapes as a matter of public concern.
 
 **Plausible Holding Scope:** A participant holding can reach media entities and other speakers who encourage or assist illegal interception while preserving independent investigation, lawful receipt, and claims unsupported by statutory elements. A nonparticipant rule must remain separate. Neither rule makes truth alone a defense to acquisition misconduct or makes public concern irrelevant to burdens on publication.
 
@@ -1470,9 +1470,9 @@ Governing law through June 28, 2002.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Retain the listed merits case for limited supplemental briefing and the settlement/dismissal record. Issue no merits mandate or new litigation remand before determining whether a live controversy remains. If live review is established, Stone’s proposed merits disposition is to affirm rejection of categorical First Amendment immunity for participation in the unlawful interception and preserve independently correct statutory dismissals.
+**Stone’s Controlled Judgment or Disposition:** Decide the reported settlement’s effect on a live controversy from the opinion below and the record supplied. Issue no merits mandate or new litigation remand before determining whether a live controversy remains. If live review is established, Stone’s proposed merits disposition is to affirm rejection of categorical First Amendment immunity for participation in the unlawful interception and preserve independently correct statutory dismissals.
 
-**Stone’s Remedy and Remand Position:** Require the parties to identify the settlement’s operative scope, any remaining relief within this grant, and any operative order affecting the remaining claims. Leave existing judgments and settlement obligations undisturbed during that inquiry. If the controversy is fully resolved, terminate merits review through the proper mootness disposition and consider the existing judgment separately under applicable law; no automatic vacatur is assumed. If a live claim remains, any later remand must be confined to that claim’s statutory elements and authorized relief.
+**Stone’s Remedy and Remand Position:** Determine from the opinion below and the record supplied the settlement’s operative scope, any remaining relief within this grant, and any operative order affecting the remaining claims. Leave existing judgments and settlement obligations undisturbed during that inquiry. If the controversy is fully resolved, terminate merits review through the proper mootness disposition and consider the existing judgment separately under applicable law; no automatic vacatur is assumed. If a live claim remains, any later remand must be confined to that claim’s statutory elements and authorized relief.
 
 #### C. ISSUE POSITIONS
 
@@ -1484,17 +1484,17 @@ Governing law through June 28, 2002.
 
 **Stone’s Legal Position:** Require a concrete surviving dispute and relief within the actual grant; do not invent a stay, an exception to mootness, or an unresolved claim.
 
-**Stone’s Proposed Holding:** The Court must establish the reported settlement’s operative effect before issuing a merits mandate. Limited supplemental briefing and the operative settlement/dismissal record are necessary on the information.
+**Stone’s Proposed Holding:** The Court must establish the reported settlement’s operative effect before issuing a merits mandate. That effect is determined on the opinion below and the record supplied.
 
 **Reach Within the Question:** The live posture of the expressly listed publisher-liability matter, not a separate malpractice or creditor controversy.
 
-**Essential Reasoning and Record Application:** The reported resolution names both WFAA and Riggs, the defendants in this appeal. A later dispute about legal advice or distribution of the settlement funds does not itself preserve the same First Amendment issue between the original parties. The assigned date does not erase the settlement, and the operative dismissal orders must be examined before directing further litigation.
+**Essential Reasoning and Record Application:** The reported resolution names both WFAA and Riggs, the defendants in this appeal. A later dispute about legal advice or distribution of the settlement funds does not itself preserve the same First Amendment issue between the original parties. The assigned date does not erase the settlement, and its effect is determined on the record supplied before directing further litigation.
 
-**Boundary or Reserved Question:** The precise release and dismissal terms, any preserved continuing interest, and any operative order affecting continued adjudication require the missing record.
+**Boundary or Reserved Question:** The precise release and dismissal terms, any preserved continuing interest, and any operative order affecting continued adjudication are determined on the record supplied.
 
 ##### Issue 2: Public concern does not immunize participating acquisition
 
-**Threshold and Merits Reach:** Not reached by the present interim disposition. This is Stone’s conditional substantive position if the supplemental record establishes a live participant-publisher dispute within the specified grant. A merits ruling cannot rest solely on the older appellate record after the reported settlement.
+**Threshold and Merits Reach:** This is Stone’s substantive position if the opinion below and the record supplied establish a live participant-publisher dispute within the specified grant. 
 
 **Question Stone Resolves:** Does the First Amendment immunize otherwise actionable use or disclosure by a news organization whose reporter encouraged or participated in the unlawful interception that supplied the information?
 
@@ -1506,7 +1506,7 @@ Governing law through June 28, 2002.
 
 **Essential Reasoning and Record Application:** A newsroom may investigate a trustee’s insurance dealings through records and interviews. That interest does not create authority to arrange nonconsensual access to private calls. Riggs’ directions concerning ongoing recording are materially different from receiving a completed unsolicited tip. Initial advice about legality may matter to a statutory mental state or available defense; it does not create a First Amendment license. Protecting the acquisition process also protects the private portions of conversations without adjudicating whether the allegations were politically useful or ultimately proved.
 
-**Boundary or Reserved Question:** The settlement’s unresolved scope and resulting dismissal orders prevent a current merits mandate. Nonparticipating receipt and publication remain outside the participant question. Any surviving statutory acts, mental states, and monetary remedies require an actual live record.
+**Boundary or Reserved Question:** A merits mandate issues only if the record supplied shows a live controversy after the settlement. Nonparticipating receipt and publication remain outside the participant question. Any surviving statutory acts, mental states, and monetary remedies require an actual live record.
 
 **Precedent, method, and scope:** Apply Bartnicki to its accepted nonparticipation premise and distinguish procurement or material participation in the interception. Public importance does not authorize an otherwise unlawful acquisition, while mere knowledge of a completed unlawful source is not participation. That source-sensitive distinction, not general balancing against the press, supplies the merits rule. The settlement question is antecedent and decisive until resolved: absent a continuing controversy the Court may address the appropriate jurisdictional disposition but may not issue an advisory publication holding.
 
@@ -1552,7 +1552,7 @@ Governing law through June 28, 2002.
 
 **Court and Judgment Under Review:** The Ninth Circuit reversed the district court's sovereign-immunity dismissal of the Title II claim. Rehearing was denied. The judgment permitted litigation to continue; it did not itself issue a medical license or award damages.
 
-**Relief Requested:** The Board initially sought reversal of the immunity ruling and now seeks dismissal of its writ. The United States consents to dismissal. Hason has filed an objection whose complete terms must be examined before resolving any request for damages or costs in this Court. The objection's docket description does not establish a right to a merits decision.
+**Relief Requested:** The Board initially sought reversal of the immunity ruling and now seeks dismissal of its writ. The United States consents to dismissal. Hason has filed an objection; any request for damages or costs in this Court is resolved on the record supplied. The objection's docket description does not establish a right to a merits decision.
 
 **Material Record:** Hason alleges disability discrimination in the denial of his application to practice medicine. At the dismissal stage, his allegations are not adjudicated facts establishing qualification, unlawful discrimination, causation, or a particular remedy. The Board's public-safety responsibility and Hason's individual condition do not become merits findings merely because the immunity question reached this Court.
 
@@ -1578,7 +1578,7 @@ Governing law through June 28, 2002.
 
 **Existing Rule's Reach:** The Court can end this proceeding without deciding the immunity merits. Withdrawal alone establishes neither mootness nor equitable entitlement to vacatur.
 
-**Open Point:** Whether the actual objection establishes an allowable monetary incident of dismissal. Its full text is necessary for an amount-specific determination.
+**Open Point:** Whether the actual objection establishes an allowable monetary incident of dismissal. 
 
 ##### Issue 2: Title II immunity, only if merits review continues
 
@@ -1598,11 +1598,11 @@ The Board's initial merits position invokes state immunity against the Title II 
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-The Court may dismiss the writ under Rule 46, disposing of a supported monetary objection under the applicable rules and leaving the circuit judgment intact. If a defect in the motion or a legally cognizable objection prevents immediate completion, the Court may obtain the limited material needed to resolve that problem. Continuing merits review requires a lawful basis after addressing the motion; the general importance of disability enforcement does not itself resolve that procedural issue.
+The Court may dismiss the writ under Rule 46, disposing of a supported monetary objection under the applicable rules and leaving the circuit judgment intact. Any defect in the motion or legally cognizable objection is resolved on the record supplied. Continuing merits review requires a lawful basis after addressing the motion; the general importance of disability enforcement does not itself resolve that procedural issue.
 
 **Plausible Holding Scope:** A procedural disposition of this writ, without a Title II abrogation holding, medical-licensing judgment, or vacatur of the decision below.
 
-**Uncertainty:** The docket establishes the objection's existence, not its complete legal and factual basis. A damages or costs determination must rest on that submission and the governing rules. No settlement, licensing concession, payment, or mootness finding may be inferred from the Board's withdrawal.
+**Uncertainty:** The docket establishes the objection's existence, not its complete legal and factual basis. A damages or costs determination rests on the record supplied and the governing rules. No settlement, licensing concession, payment, or mootness finding may be inferred from the Board's withdrawal.
 
 #### E. SOURCES
 
@@ -1618,7 +1618,7 @@ Governing law through June 28, 2002. Decide the withdrawal motion before conside
 
 **Stone's Controlled Judgment or Disposition:** Dismiss the writ under Rule 46. Do not affirm or reverse the Ninth Circuit's immunity ruling, vacate its judgment, or adjudicate the ungranted licensing-merits question.
 
-**Stone's Remedy and Remand Position:** Leave the Ninth Circuit's judgment and the resulting lower-court proceedings in place. Order no license, discrimination damages, accommodation, or injunction. Award no unsupported damages or costs in this Court; examine Hason's actual objection and resolve any properly established monetary entitlement under Rule 46 before finalizing that component. The docket entry recording the objection supports no particular amount or finding of litigation misconduct.
+**Stone's Remedy and Remand Position:** Leave the Ninth Circuit's judgment and the resulting lower-court proceedings in place. Order no license, discrimination damages, accommodation, or injunction. Award no unsupported damages or costs in this Court; resolve Hason's objection and any properly established monetary entitlement under Rule 46 on the record supplied. The docket entry recording the objection supports no particular amount or finding of litigation misconduct.
 
 #### C. ISSUE POSITIONS
 
@@ -1640,7 +1640,7 @@ Garrett supplies no reason to force this case into a merits decision. It recogni
 
 **Precedent Treatment and Scope:** Reaffirm the dismissal/vacatur distinction; apply Bancorp's remedial principle at that level and reserve its settlement-specific application absent proof of settlement. Preserve Garrett's actual Title I holdings and its Title II boundary. Announce no categorical immunity exception, heightened disability tier, licensing safe harbor, or prospective Title II rule.
 
-**Boundary or Reserved Question:** The immunity merits are unnecessary after dismissal. Substantive Title II limits on licensing were excluded from the grant. A particular monetary award on the dismissal motion requires the missing objection and supporting materials.
+**Boundary or Reserved Question:** The immunity merits are unnecessary after dismissal. Substantive Title II limits on licensing were excluded from the grant. A particular monetary award on the dismissal motion must be supported by the record supplied.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 

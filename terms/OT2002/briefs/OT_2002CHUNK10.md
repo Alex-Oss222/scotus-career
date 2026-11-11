@@ -545,8 +545,8 @@ Governing law through June 28, 2002.
 * **Court and Judgment Under Review:** The Second Circuit partly affirmed, partly vacated and partly reversed a district judgment granting declaratory and injunctive relief after trial. It required dismissal of elementary- and middle-school claims that had become moot and rejected the surviving high-school Earth Day rulings against the district. The original judgment also addressed other classroom activities and awarded $106,856.61 in fees and disbursements.
 * **Relief Requested:** The families seek restoration of relief against the challenged activities; the district seeks to preserve the appellate judgment. Review under the question presenteds concerns Earth Day and the asserted free-exercise burden, while the moot claims and dependent relief require explicit treatment.
 * **Material Record:** Families objected to several school activities, including presentations concerning Ganesha, worry dolls and Earth Day. At the high school, a student group and faculty adviser organized environmental events associated with the State’s Conservation Day requirement. The disputed gifts were speeches or metaphorical offerings of knowledge and wisdom, not an established sacrifice on an altar. The record described drums, a globe on poles and structures the appellate court identified as tepees. The district court inferred Earth worship and conflict with Catholic teaching, including from a remark about population. The appellate court found no adequate evidence that the high-school event taught Earth divinity or required worship. It also relied on undiscredited testimony that attendance was optional. A nature tape with an invocation belonged to a different school’s record and cannot be silently relocated to the high-school ceremony.
-* **Threshold, Preservation, and Vehicle Matters:** No plaintiff remained exposed to the elementary-school activities by trial; moves and graduation later eliminated the relevant middle-school exposure. General taxpayer status did not establish the measurable expenditure injury asserted as an alternative. No class action supplies absent pupils’ claims. The opinion identifies a live high-school controversy at its own 2001 event, but the available record do not establish continued enrollment or another redressable interest on May 19, 2003. That date-specific jurisdictional fact must be confirmed before a merits vote; do not invent graduation, continued attendance or a damages claim. Fees alone do not keep an otherwise moot merits dispute alive.
-* **Relevant Dates:** District judgment July 23, 1999; a family moved the next day; Second Circuit decision March 27, 2001; assigned event May 19, 2003. The two-year gap makes the high-school claim’s continuing status a material eligibility uncertainty.
+* **Threshold, Preservation, and Vehicle Matters:** No plaintiff remained exposed to the elementary-school activities by trial; moves and graduation later eliminated the relevant middle-school exposure. General taxpayer status did not establish the measurable expenditure injury asserted as an alternative. No class action supplies absent pupils’ claims. The opinion identifies a live high-school controversy at its own 2001 event, but the available record do not establish continued enrollment or another redressable interest on May 19, 2003. Decide that date-specific jurisdictional fact on the opinion below and the record supplied; do not invent graduation, continued attendance or a damages claim. Fees alone do not keep an otherwise moot merits dispute alive.
+* **Relevant Dates:** District judgment July 23, 1999; a family moved the next day; Second Circuit decision March 27, 2001; assigned event May 19, 2003. The two-year gap makes the high-school claim’s continuing status a jurisdictional question decided on the opinion below and the record supplied.
 * **Companion or Related Matters:** No separate companion matter is added to this closed list.
 * **Participation Matter:** No case-specific recusal or nonparticipation is identified. Historical participation is reported only in Section III.
 
@@ -581,7 +581,7 @@ The families argue that the ceremonial setting, gifts, references to Earth and a
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-Moot elementary and middle-school claims require jurisdictional disposition rather than merits approval of those activities. A live high-school claim permits rejection if the supported record establishes secular education without compelled exercise; an actual devotional finding would require applying Agostini and Lee without treating voluntariness as a cure. At the assigned date, a limited remand to establish the remaining claim’s status is appropriate if continued injury is not documented. Relief and fee treatment must track the claims actually within jurisdiction and any legally sustained merits result.
+Moot elementary and middle-school claims require jurisdictional disposition rather than merits approval of those activities. A live high-school claim permits rejection if the supported record establishes secular education without compelled exercise; an actual devotional finding would require applying Agostini and Lee without treating voluntariness as a cure. At the assigned date, the remaining claim’s status is decided on the opinion below and the record supplied. Relief and fee treatment must track the claims actually within jurisdiction and any legally sustained merits result.
 
 **Plausible Holding Scope:** Neither nature symbolism nor conflict with religious teaching alone establishes a constitutional violation. This proposition does not authorize school worship, declare every challenged activity secular or decide claims that are already moot.
 
@@ -599,24 +599,24 @@ Governing law through June 28, 2002.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Preserve the jurisdictional dismissal of the elementary and middle-school claims. Remand the remaining high-school branch for confirmation of a live controversy at the assigned event before a merits judgment is executed.
-* **Stone's Remedy and Remand Position:** No reinstatement of the broad injunction or fee award on the present incomplete jurisdictional record. If the high-school claim remains live, apply the legal positions below to its own supported facts; if it does not, dismiss it and address vacatur under ordinary mootness rules. Jurisdiction must be established before the merits can be adjudicated.
+* **Stone's Controlled Judgment or Disposition:** Preserve the jurisdictional dismissal of the elementary and middle-school claims. Decide on the opinion below and the record supplied whether the remaining high-school branch presents a live controversy at the assigned event before a merits judgment is entered.
+* **Stone's Remedy and Remand Position:** No reinstatement of the broad injunction or fee award. If the high-school claim remains live, apply the legal positions below to its own supported facts; if it does not, dismiss it and address vacatur under ordinary mootness rules. Jurisdiction must be established before the merits can be adjudicated.
 
 #### C. ISSUE POSITIONS
 
 ##### Issue 1: Threshold jurisdiction at the actual event
 
-* **Threshold and Merits Reach:** The absence of current exposure information controls whether the merits may be reached.
+* **Threshold and Merits Reach:** Whether a live controversy remains at the assigned event, decided on the opinion below and the record supplied, controls whether the merits may be reached.
 * **Question Stone Resolves:** May a 2001 statement of student standing substitute for a live 2003 claim?
-* **Stone's Legal Position:** No. Verify the actual continuing stake without inventing new students, damages or taxpayer expenditure.
-* **Stone's Proposed Holding:** The moot school-specific claims stay dismissed; the remaining claim requires confirmation of a presently redressable injury before merits adjudication.
-* **Reach Within the Question:** A narrow return for jurisdiction, not a new opportunity to litigate the entire curriculum.
+* **Stone's Legal Position:** No. Determine the actual continuing stake on the opinion below and the record supplied, without inventing new students, damages or taxpayer expenditure.
+* **Stone's Proposed Holding:** The moot school-specific claims stay dismissed; the remaining claim requires a presently redressable injury, determined on the opinion below and the record supplied, before merits adjudication.
+* **Reach Within the Question:** A narrow jurisdictional determination, not a new opportunity to litigate the entire curriculum.
 * **Essential Reasoning and Record Application:** Moves and advancement through school already eliminated major parts of the action. The later assigned date makes the remaining personal stake an essential fact. Neither the public importance of religion questions nor a fee dispute creates jurisdiction to decide them.
 * **Boundary or Reserved Question:** The current student status and proper appellate vacatur consequence are not fabricated.
 
 ##### Issue 2: The proposed merits rule for a live high-school claim
 
-* **Threshold and Merits Reach:** Reach only after the jurisdictional gate is met; the position is proposed rather than an operative merits disposition.
+* **Threshold and Merits Reach:** Reach once the high-school claim is held live on the opinion below and the record supplied.
 * **Question Stone Resolves:** Do the described symbolic gifts and religious disagreement establish worship or interference with exercise?
 * **Stone's Legal Position:** No on the high-school facts described here. Apply the current unified attribution/function inquiry and a separate exercise analysis.
 * **Stone's Proposed Holding:** A conservation program using metaphorical gifts and ceremonial forms does not establish religion absent supported governmental devotional function; conflicting secular ideas without compelled profession, targeting or another actual burden do not establish a free-exercise violation.
@@ -801,7 +801,7 @@ Governing law through June 28, 2002.
 
 ##### Issue 1: A lawful sovereign bargain and exact finality
 
-* **Threshold and Merits Reach:** Original jurisdiction and actual party agreement support decree review; verify the governing prior-order record before execution.
+* **Threshold and Merits Reach:** Original jurisdiction and actual party agreement support decree review on the record supplied.
 * **Question Stone Resolves:** Does the submitted settlement resolve this litigation within the Compact and the judicial role?
 * **Stone's Legal Position:** Yes on the described filed package. Approve the States’ own integrated implementation and claim compromise rather than impose a different allocation or administrative apparatus.
 * **Stone's Proposed Holding:** The lawful, nonseverable settlement is approved; covered historic claims end upon the specified certification, and the Master’s remaining authority extends only to the agreed model-completion procedures.
