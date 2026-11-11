@@ -1,19 +1,19 @@
 # Stone tracker: religion
 
-Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing for Establishment Clause claims appears only through its two landmark cases in section 2.8. Section 0 states Stone's prospective personal foundation for religion claims; it is distinct from the Court's completed holdings. Section 4 retains the questions framed against that completed record.
+Scope: the Establishment Clause (government prayer and religious displays, religion in the public schools, government aid and funding including vouchers, tax credits and school aid, and delegation of civic power to religious bodies), the Free Exercise Clause (Smith's general-applicability rule and its exceptions, religious targeting, discretionary exemptions), religious speakers in public forums and government programs (the Lamb's Chapel, Rosenberger and Good News Club line), the Religious Freedom Restoration Act (RFRA) and the Religious Land Use and Institutionalized Persons Act (RLUIPA), church autonomy and the ministerial exception, and Title VII religious accommodation as it bears on Groff. Taxpayer standing, mootness and effective relief appear in section 2.8, including lower-court vehicles that may develop those questions. Section 0 states Stone's prospective personal foundation for religion claims; it is distinct from the Court's completed holdings. Section 4 retains the questions framed against that completed record.
 
 Organization:
 0. Foundation for future cases: religion claims (Stone's personal doctrine).
 1. Completed cases.
-2. Reserved landmark cases, with their historical questions and blank fields for Stone's disposition and reasoning.
+2. One case sequence for current review and future intake, with historical questions where available and Stone's proposed positions where developed.
 3. The doctrine as it stands, how it operates, and where this Court departed from history.
-4. Questions to answer before the landmarks (questions only).
+4. Remaining questions and the records needed to resolve them.
 
-Section 3.3 sets out where funding doctrine stands in full, because Zelman v. Simmons-Harris (OT2001) is expected to come out differently from history and that difference will carry into the later funding and inclusion landmarks; sections 4.1 to 4.3 collect the questions that ripple raises.
+The completed-law boundary is June 28, 2002. Section 3.3 includes the decided Zelman rule and remedy. Section 2 keeps later cases in their historical review windows; an entry is a candidate for review, not a grant, an assigned majority, or a completed holding. The three OT2002 entries use expressly counterfactual review premises. Historical later opinions identify possible vehicles and their actual posture; they supply no present governing law.
 
 ## 0. Foundation for future cases: religion claims
 
-**Status.** This is Stone's prospective personal doctrine for religion claims. It consolidates his recorded positions and the refinements developed for future cases. It does not convert his separate writings into holdings of the Court, alter completed votes, or decide an unpresented case. Sections 1–3 retain the completed record and the Court's existing law. Section 4 remains an inventory of questions against that record; a question answered here for Stone is not thereby answered for the Court.
+**Personal foundation.** This is Stone's prospective doctrine for religion claims. It consolidates his recorded positions and the refinements developed for future cases. It does not convert his separate writings into holdings of the Court, alter completed votes, or decide an unpresented case. Sections 1–3 retain the completed record and the Court's existing law. Section 4 identifies remaining questions against that record; a proposed answer for Stone is not thereby a holding of the Court.
 
 The rules below state his position. The applications expressly labeled **inferences** explain how those rules would likely operate on the stated facts. A case-specific commitment, a different material fact, or an unresolved question of statutory authority may change the disposition.
 
@@ -149,13 +149,13 @@ Government may not finance institutional evangelism, condition unrelated benefit
 
 The constitutional baseline and statutory accommodation are separate. Stone first identifies the statute, its operative version, the covered claimant and government, the conduct regulated, and the authority supporting its application. A broad preference for religious freedom does not settle the validity of federal legislation.
 
-Under applicable RFRA protection, the claimant establishes protected religious exercise and a substantial governmental burden. Government must then demonstrate that applying that burden to the claimant serves a compelling interest through the least restrictive means. General assertions about the importance of a law do not replace the application-specific inquiry. The government's statutory burden includes evidence and persuasion. [RFRA rule](https://www.law.cornell.edu/uscode/text/42/2000bb-1); [burden definition](https://www.law.cornell.edu/uscode/text/42/2000bb-2).
+Under applicable RFRA protection, the claimant establishes protected religious exercise and a substantial governmental burden. Government must then demonstrate that applying that burden to the claimant serves a compelling interest through the least restrictive means. General assertions about the importance of a law do not replace the application-specific inquiry. The government's statutory burden includes evidence and persuasion. 42 U.S.C. §2000bb-1; 42 U.S.C. §2000bb-2(3).
 
 Sincerity does not conclusively establish a substantial burden. Stone identifies the actual legal requirement, sanctions, and connection to the claimant's conduct while avoiding judgments about theological correctness. Mere disapproval of another person's independent conduct is not automatically a governmental burden on the claimant's exercise.
 
 A lawful, effective alternative must be evaluated rather than presumed either available or impossible. Protecting other people's enforceable entitlements can supply a compelling interest, but government still carries the justification burden the statute assigns. Imagined, unauthorized, unfunded, or ineffective alternatives do not defeat a supported showing.
 
-For institutionalized-person claims covered by RLUIPA, substantial burdens receive the statute's compelling-interest and least-restrictive-means analysis. Alternative opportunities for exercise do not automatically justify restricting the particular practice. Neutral security and administration remain legitimate interests, tested against actual risks and alternatives. [Institutionalized-person provision](https://www.law.cornell.edu/uscode/text/42/2000cc-1).
+For institutionalized-person claims covered by RLUIPA, substantial burdens receive the statute's compelling-interest and least-restrictive-means analysis. Alternative opportunities for exercise do not automatically justify restricting the particular practice. Neutral security and administration remain legitimate interests, tested against actual risks and alternatives. 42 U.S.C. §2000cc-1.
 
 Religious land-use claims likewise require the applicable statutory provision and its jurisdictional conditions; religious status supplies neither immunity from genuine land-use rules nor permission for discriminatory exclusion. No later enactment or historical decision is treated as already controlling before its applicable date in the completed record.
 
@@ -183,7 +183,7 @@ Hardship depends on actual incremental expense, recurrence, qualified staffing, 
 
 Coworkers' earned entitlements and serious involuntary burdens receive protection under section 0.8. Ordinary fair scheduling changes are not equivalent to repeatedly forcing the same employees to surrender weekends or accept unsafe hours. Hostility toward religion is not hardship.
 
-No accommodation is required to eliminate an essential responsibility where no lawful, effective arrangement can cover it without substantial hardship or impermissible effects on others. Changed circumstances require evidence, not speculation about unlimited future requests. Equal consideration of secular conscience operates within the constitutional and statutory boundaries in section 0.9. [Title VII accommodation text](https://www.law.cornell.edu/uscode/text/42/2000e#j).
+No accommodation is required to eliminate an essential responsibility where no lawful, effective arrangement can cover it without substantial hardship or impermissible effects on others. Changed circumstances require evidence, not speculation about unlimited future requests. Equal consideration of secular conscience operates within the constitutional and statutory boundaries in section 0.9. 42 U.S.C. §2000e(j).
 
 ### 0.14 Evidence and administration of religion claims
 
@@ -253,6 +253,20 @@ These are **inferences from the foundation**, not completed dispositions. Each d
 The foundation supplies a usable substantive position without claiming that every procedural or statutory question is settled. Remaining decisions include the permissible reach of taxpayer standing; the constitutional power supporting a particular religious-accommodation enactment; the precise statutory coverage of an organization or conscience claim; the availability of damages against a specified defendant; and the extent to which a particular precedent must be retained, distinguished, or changed.
 
 Mixed expression, mixed employment roles, disputed separability, and competing access arrangements ordinarily require evidence applying the stated boundaries. Their difficulty does not justify reopening settled commitments to secular government, independent expression, equal conscience consideration, or protection of other people's legal entitlements.
+
+### 0.19 Developing and enforcing the financing boundary
+
+Stone's leading position should state the strongest rule that the actual dispute can support, with a reasoned narrower alternative where proof, jurisdiction or remedy imposes a real limit. He should not turn an unresolved claim into an advisory judgment or equate a legal development with an already secured Court majority. A categorical rule is warranted when the constitutional defect itself is categorical, such as the State's exercise of religious authority. Financing ordinarily requires a rule that identifies the public benefit and its actual function rather than a categorical religious-recipient ban.
+
+**Form does not decide financing.** An appropriation, restricted voucher, targeted credit, project-specific bond benefit or payment through a grantee can support the same forbidden purchase. Stone should identify the governmental act and the actual benefit before applying the financed-function rule. This proposed extension requires express treatment of the materially different relationships in Walz, Mueller, Witters and Hunt; it cannot declare them overruled by implication. Private capital or private selection is relevant to attribution and design but does not alone settle the constitutional function. Conversely, public involvement alone does not establish that the benefit finances devotion.
+
+**Custody and social services require two distinct protections.** No one may lose ordinary services, release opportunities, equal living conditions or legal entitlements because of refusal to worship. Even genuinely voluntary participation does not necessarily authorize public purchase of integrated religious rehabilitation or conversion. Actual secular treatment, independently separated from voluntary privately supported religion, remains eligible. The limited restoration-of-access exception for government-created dependency does not authorize the State to select evangelism as its correctional method.
+
+**Civil authority must remain civil.** The State may enforce objectively verifiable representations about private certification or a provider's promised services. It may not adopt a denomination's religious standard as its own civil command or let a religious contractor determine which legal entitlements beneficiaries receive by applying religious doctrine. Expert advice differs from final regulatory authority; meaningful public decision and review matter.
+
+**An enforceable right needs a lawful remedy.** Stone favors a bounded taxpayer channel for an identifiable governmental financing action alleged to violate the Establishment Clause's particular limitation. The legislature's use of a credit or the executive's selection of a recipient should not automatically defeat that channel. He must explain any extension of Flast and distinguish Valley Forge rather than assume a universal taxpayer suit. Nonfinancial, personal injuries remain independently available when proved. Jurisdiction remains indispensable.
+
+Payment does not automatically extinguish a dispute if a live prospective claim or legally authorized recovery against an actual party remains. But no court may invent a restitution claim, disregard sovereign immunity, compel an unreviewable enforcement choice or bind absent recipients to avoid mootness. Stone should test those limits against the actual requested relief, retaining a jurisdictional dismissal as the fallback when no effectual remedy survives. Effective cessation of proved violations remains the leading remedial aim; lawful severable uses, supported reliance and ordinary equitable limits govern the decree.
 
 ## 1. Completed cases
 
@@ -348,58 +362,80 @@ OT1999
 - Mitchell v. Helms
   > Held (Breyer for the Court; 9-0 on the violation, 8-1 on the remedy): A publicly administered program of instructional equipment and books violates the Establishment Clause where it actually finances religious instruction or religious use, and neutral allocation does not cure that. Equipment and books are not forbidden as a category, and the categorical declaration was vacated for relief at the proved scope.
 
-## 2. Reserved landmark cases
+OT2000
+- Freedom From Religion Foundation, Inc. v. City of Marshfield
+  > Held (Stone for six): A genuine fair-price conveyance did not end the City's continuing presentation of its surrounding park as the undifferentiated setting for its historical religious centerpiece. The corrective remand requires effective separation on land the City controls or another lawful measure while preserving the private owner's property and expression. Location, religious content and possible confusion alone establish no violation.
+- Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle
+  > Held: A bounded religious objection may identify eligibility for nonmedical care without itself establishing religion, and initial provider assessments are not a prohibited delegation where final public coverage authority and meaningful review remain. The judgment was vacated for application of the actual financed-function and public-control requirements. Stone joined that corrective judgment without joining the five-Justice remedial rationale; no automatic reopening, new hearing or repayment was ordered.
+- Good News Club v. Milford Central School
+  > Held (Breyer; eight on speech, six on establishment and relief): A school forum admitting comparable moral and character instruction may not exclude a private religious presentation because it uses prayer, Bible teaching, worship or an invitation to conversion. On the actual conditions of adult private leadership, parental permission, after-school meetings and no official adoption or pressure, equal access does not establish religion. Elementary-school age and a short interval after class do not independently establish sponsorship. Genuine neutral subject, activity and safety limits remain available.
+- Freiler v. Tangipahoa Parish Board of Education
+  > Held (Stone for six): The required disclaimer, read as a whole and in its instructional setting, used public teaching authority to preserve a biblical creation account; the injunction was affirmed. The holding does not prohibit academic discussion of religion, critical examination of science or every reference to a religious text.
+- K.D.M. v. Reedsport School District
+  > Held (Thomas; six on the constitutional rules): Religious location alone cannot disqualify a child from consideration for an independently controlled secular vision service available at comparable secular sites. The disability service must remain genuinely separate and subject to neutral criteria. Stone supported the corrective judgment without joining the separate five-Justice remedy rationale. The decision creates no automatic statutory entitlement to an onsite specialist.
 
-Questions are quoted from the Supreme Court's Questions Presented documents (supremecourt.gov/qp). For Good News Club (OT2000), Zelman (OT2001) and the Roman Catholic Diocese of Brooklyn application (OT2020), which have no question document online, the question comes from the Court's opinion: "as stated" follows the opinion's own statement, "as described" is a close paraphrase. Long preambles are omitted and marked.
+OT2001
+- Brown v. Gilmore
+  > Held (Kennedy for a unanimous Court): A compulsory seated period of silence is permissible when each pupil genuinely chooses private prayer, reflection or neither without religious direction, disclosure or pressure. Agostini's unified inquiry governs; official devotional implementation remains reviewable.
+- Watchtower Bible and Tract Society of New York, Inc. v. Village of Stratton
+  > Held: The village could not subject protected door-to-door religious and political advocacy to its broad advance permit and identification requirements. Ordinary rules protecting household choice, safety and genuinely commercial solicitation retain their appropriate scope; religious advocacy receives neither inferior protection nor a general exemption from neutral civil obligations.
+- Zelman v. Simmons-Harris
+  > Held (Souter for six, including Stone, throughout Parts I–IV): Restricted, provider-redeemable tuition payments that demonstrably purchase integrated devotional instruction violate the Establishment Clause despite neutral eligibility, parental selection and wider secular options. Religious affiliation, aggregate enrollment, possible diversion and incidental savings do not establish the defect. The judgments were affirmed at the demonstrated provider/payment scope, vacated insofar as relief extended categorically beyond it, and remanded for effective relief and Ohio severability. Lawful secular, tutorial and public-school applications remain protected; an adequate existing record requires neither reproof nor a compulsory new trial.
 
-Status says what this Court's law already does to each case: Open (nothing decided bears directly), Framed (decided law sets the terms but leaves the question), Partly answered, Reshaped (the question arrives in a different form because a predicate differs from history), or Collision (deciding it as history did would require overruling this Court's own holding).
+## 2. Current review and future cases
 
-### 2.1 On the OT2000 list
+Historical Supreme Court questions below retain their stated scope. They are historical reference points, not an assertion that those cases have already been granted or decided here. Proposed lower-court questions are identified as such. Future terms are intake windows based on the reported litigation, not fixed merits dates; timely petitions, finality, preserved questions, standing and a live remedy must be established before review. Later stages of the same controversy remain one entry.
 
-### OT2000: Good News Club v. Milford Central School, 533 U.S. 98 (No. 99-2036)
+The relationship labels describe the completed law: Open, Framed, Partly answered, Reshaped, or Collision. A proposed position is Stone's own; a different record, a narrower grant or a lawful threshold disposition can change the judgment. Unfilled future positions remain reserved. Each entry supplies one active place for that controversy, including later stages identified within it.
 
-Area: Religious speakers in school forums.
-Status: Partly answered. Good News/Good Sports Club v. Ladue (Souter, 8-1) held that a school opening an after-school period to moral and character-development activities may not exclude a club because its approach is religious, and (five votes) that equal access on those terms, with real private sponsorship, does not establish religion for an audience of 11 to 15 year olds attending with parental permission; Lamb's Chapel, Church on the Rock and Bronx Household (worship form alone cannot exclude in a broad community forum, 5-4) add to it. What remains is whether younger children (ages 6 to 12) meeting right after the school day change the attribution analysis. On the OT2000 list (June 11, 2001).
-Questions, as stated in the opinion: whether Milford Central School violated the free speech rights of the Good News Club when it excluded the Club from meeting after hours at the school; and whether any such violation is justified by Milford's concern that permitting the Club's activities would violate the Establishment Clause.
+### 2.1 Current OT2002 review
 
-Character recommended disposition:
+### OT2002: Steele v. Industrial Development Board, 301 F.3d 401
 
-Character recommended reasoning:
+Area: Project-specific tax-exempt bonds; actual financed function; municipal taxpayer standing.
+Review posture: Counterfactual review of the Sixth Circuit's August 14, 2002 judgment, with March 3, 2003 assigned for the merits. Historically, certiorari in Nos. 02-737 and 02-936 was denied on February 24, 2003, at 537 U.S. 1188. The present premise substitutes a timely merits review for that denial; it does not reopen a completed historical denial.
+Proposed question: Whether affirmative public issuance and tax qualification for a specific project require examination of the actual financed uses despite private capital and repayment, and whether these municipal taxpayers may obtain that review.
+Stone's proposed disposition: Sustain municipal taxpayer standing on the supported probability of a local fiscal effect, including the earlier finding that at least some improvements likely would have received taxable financing without these bonds. Reject categorical immunity for conduit bonds and the district court's institution-wide exclusion. Require effective relief against proved devotional financing while preserving actual secular uses and third-party contractual rights. If the existing record does not resolve material uses or safeguards, remand on those points.
+Stone's proposed reasoning: The 1994 standing decision, 39 F.3d 1182, identified a likely alternative taxable-financing path, supported in part by the university's need for facilities to maintain accreditation; no fixed revenue-loss amount is necessary or established. Independent Article III review must address that fiscal premise rather than call the injury an unsupported allegation. Stone would also explain a bounded extension covering affirmative project-specific governmental financing if the existing fiscal nexus were held insufficient. Extend the actual-function rule to the governmental benefit rather than assume that private investors remove all public responsibility. The loan's express prohibition on religious use matters; affiliation and integration elsewhere do not establish misuse of every financed asset. Hunt and Walz require distinctions, not silent abrogation. If both standing grounds fail, dismiss without an advisory merits injunction. If financed uses and effective restrictions are conclusively secular, sustain those uses while rejecting general bond immunity.
 
-Also on the OT2000 list, as vehicles: Freedom From Religion Foundation, Inc. v. City of Marshfield (February 27, 2001), on whether selling a religious statue and its parcel to a private group cures a violation when the parcel stays dedicated to public use inside a city park; Children's Healthcare Is a Legal Duty, Inc. v. Min De Parle (April 23, 2001), on Medicare and Medicaid payment for religious nonmedical care when eligibility turns on a religious objection to medical treatment, and on whether letting religious institutions make initial coverage decisions delegates governmental authority to religious bodies; Freiler v. Tangipahoa Parish Board of Education (June 18, 2001), on a required evolution disclaimer that refers to biblical creation; and K.D.M. v. Reedsport School District (June 25, 2001), on whether a State may withhold onsite special-education services solely because a child attends a religious school when services are offered at a nearby secular site.
+### OT2002: Commack Self-Service Kosher Meats, Inc. v. Weiss, 294 F.3d 415
+
+Area: Religious standards enforced as civil law; denominational authority; consumer protection.
+Review posture: Counterfactual review of the Second Circuit's May 21, 2002 judgment, with March 24, 2003 assigned for the merits. Historically, certiorari in Nos. 02-672 and 02-675 was denied on February 24, 2003, at 537 U.S. 1187; no historical merits grant is asserted.
+Proposed question: Whether government may prescribe Orthodox religious requirements as its civil kosher standard and require religious authorization in enforcing that standard.
+Stone's proposed disposition: Affirm relief against the enumerated challenged provisions, preserving the unchallenged identification, registration and labeling provisions. State the broader rule that government may police objective representations about private certification but cannot determine religious truth or give religious authorities final civil regulatory power.
+Stone's proposed reasoning: Apply Agostini's governmental-function inquiry, Kiryas Joel and Larkin. Fraud prevention and scienter do not cure the State's choice of a religious standard; the defect is the coercive public function. The narrower alternative reaches the same judgment from the express denominational requirements and rabbinic authorization without deciding every possible certification system. Neither route adjudicates a later replacement statute.
+
+### OT2002: Columbia Union College v. Oliver, 254 F.3d 496
+
+Area: Restricted higher-education grants; meaningful secular separation; equal eligibility.
+Review posture: Counterfactual review on the express premise that a timely petition concerning the June 26, 2001 judgment was retained for OT2002; April 21, 2003 is the assigned merits date. No historical late petition, reopening or Supreme Court merits decision is asserted. The earlier Clarke litigation is part of this controversy, not a separate intake item.
+Proposed question: Whether the specified Sellinger grant may fund demonstrably secular programs under enforceable use restrictions, accounts and audit authority despite the college's religious affiliation.
+Stone's proposed disposition: Affirm eligibility for the defined secular-program assistance under its lawful conditions. Reject neutral allocation or absence of past disbursement as automatic immunity from establishment review. If a material program-specific finding is actually missing, use a limited remand while preserving equal eligibility.
+Stone's proposed reasoning: The grant was not unrestricted: Maryland prohibited sectarian uses, excluded theological enrollment from the allocation measure, required annual expenditure affidavits and retained audit authority. Trial findings and the specified mathematics, science and health programs support genuine separation. Apply the same rule that bars integrated devotional purchases to protect independently identifiable secular work. Affiliation, hiring preferences and private worship elsewhere do not undo those findings. Extend K.D.M.'s equal-consideration principle without creating an entitlement to fund religion or an unconditional treasury award.
 
 ### 2.2 Government funding, aid and inclusion
-
-### OT2001: Zelman v. Simmons-Harris, 536 U.S. 639 (Nos. 00-1751, 00-1777, 00-1779)
-
-Area: Funding; vouchers.
-Status: Collision. Jackson v. Benson (O'Connor, six votes with Stone) held that neutral eligibility, parental selection and a parent's endorsement of a payment do not justify public payment for devotional instruction integrated into the funded schooling without reliable separation; Strout v. Albanese (Souter, 6-3) applied that to capped ordinary tuition, and Mitchell v. Helms (unanimous on the rule) holds that neutral allocation does not cure actual financing of religious use. History upheld Cleveland's scholarships, paid by checks parents endorsed to mostly religious schools, as a program of true private choice; deciding Zelman that way would require overruling or confining Jackson Part I and Strout, unless the program's wider secular options are held to distinguish them. Agostini expressly reserved voucher programs.
-Question, as stated in the opinion: whether this program offends the Establishment Clause of the United States Constitution.
-
-Character recommended disposition:
-
-Character recommended reasoning:
 
 ### OT2003: Locke v. Davey, 540 U.S. 712 (No. 02-1315)
 
 Area: Funding; refusals to fund devotional study.
-Status: Partly answered. Strout (six votes) holds that refusing public payment for integrated devotional instruction does not violate the Free Exercise Clause, whether or not the education is a central tenet, while reserving categorical rejection of genuinely severable secular work solely because the provider is religious. Whether Jackson's funded-function rule makes paying for a devotional theology degree not merely refusable but forbidden is open.
+Status: Partly answered. Strout (six votes) holds that refusing public payment for integrated devotional instruction does not violate the Free Exercise Clause, whether or not the education is a central tenet, while reserving categorical rejection of genuinely severable secular work solely because the provider is religious. Zelman confirms the prohibition on proved integrated devotional purchases; applying that rule to the particular theology-degree restriction and the student's actual course of study remains to be decided.
 > The Washington Constitution provides that no public money shall be appropriated or applied to religious instruction. Following this constitutional command, Washington does not grant college scholarships to otherwise eligible students who are pursuing a degree in theology. Does the Free Exercise Clause of the First Amendment require the state to fund religious instruction, if it provides college scholarships for secular instruction?
 
-Character recommended disposition:
+Stone's proposed disposition: Sustain a refusal to pay for an actual devotional-theology course of study; require a record-specific distinction between clergy formation and an otherwise secular course or religious institutional affiliation. If the restriction reaches a secular component independently eligible for support, confine the judgment or remand rather than sustain an undefined status disability.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Reaffirm Strout and Zelman: public purchase of religious formation is forbidden, not simply optional, when that is what the identified benefit buys. The student’s major, the actual degree requirements and the payment design matter. History and tradition may support the boundary but funded function carries decisive weight. The narrower alternative sustains this particular clergy-training restriction without declaring every theology course or religious student ineligible.
 
 ### OT2016: Trinity Lutheran Church of Columbia, Inc. v. Comer, 582 U.S. 449 (No. 15-577)
 
 Area: Funding; exclusion of religious institutions from secular programs.
-Status: Framed. Agostini permits government to buy independently identifiable secular work in a religious setting with enforceable controls, Mitchell holds that equipment is not forbidden as a category where secular use is reliably preserved, and Strout reserves whether a State may categorically reject genuinely severable secular work solely because the provider is religious. Nothing here forbids the grant itself; whether the Free Exercise Clause forbids the exclusion is open. K.D.M. v. Reedsport School District, on the OT2000 list, asks a related question about onsite special education.
+Status: Framed. Agostini permits government to buy independently identifiable secular work in a religious setting with enforceable controls, Mitchell holds that equipment is not forbidden as a category where secular use is reliably preserved, and Strout reserves whether a State may categorically reject genuinely severable secular work solely because the provider is religious. K.D.M. now rejects religious-site exclusion from consideration for an independently controlled secular service. The playground grant still requires its own funded-use analysis; neither a church-status bar nor a presumption that all capital assistance is secular follows.
 [Preamble omitted.]
 > Whether the exclusion of churches from an otherwise neutral and secular aid program violates the Free Exercise and Equal Protection Clauses when the state has no valid Establishment Clause concern.
 
-Character recommended disposition:
+Stone's proposed disposition: Protect equal consideration for a genuinely secular safety improvement; reject exclusion solely because the applicant is a church. If the grant actually finances a worship facility’s devotional function or cannot be operationally separated, preserve a use-based restriction or require findings rather than order unconditional payment.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Extend K.D.M. and apply Agostini and Mitchell to the actual resurfacing project. A playground can be an independently identifiable secular facility; church ownership does not convert every surface into ministry. Conversely, neutrality is no categorical capital-aid immunity. The narrower alternative is a remand for actual funded-use and access conditions. This record cannot support a rule requiring public financing of integrated religious instruction.
 
 ### OT2019: Espinoza v. Montana Department of Revenue, 591 U.S. 464 (No. 18-1195)
 
@@ -407,9 +443,9 @@ Area: Funding; tax-credit scholarships; state no-aid clauses.
 Status: Reshaped. History held that a State funding private-school scholarships may not exclude schools because they are religious. Here Jackson and Strout make public payment for integrated devotional instruction a federal Establishment Clause problem and hold a refusal to pay for it consistent with free exercise, while saying religious identity alone establishes no defect; whether a tax-credit scholarship is public payment at all is undecided (Mueller's general tax deduction survives as a distinct relationship), and taxpayer standing is undecided (section 2.8). If such scholarships count as public payment, history's result would collide with Jackson Part I.
 > Does it violate the Religion Clauses or Equal Protection Clause of the United States Constitution to invalidate a generally available and religiously neutral student-aid program simply because the program affords students the choice of attending religious schools?
 
-Character recommended disposition:
+Stone's proposed disposition: Reject a blanket religious-identity exclusion while preventing a targeted scholarship-credit program from financing proved integrated devotional schooling. Assess the actual state judgment, severability and available remedy before deciding whether equal treatment means lawful inclusion, removal of the unlawful applications or termination of the program.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Classify the program-created credit by its legal design and actual financing function rather than assume it is private merely because donors route it. Distinguish Mueller’s general deduction and address any contrary controlling rule explicitly. Religious status alone cannot decide eligibility; funded devotional use can. A narrower remand for financing, separation and severability is preferable to either compelled unlawful payments or categorical exclusion without proof.
 
 ### OT2021: Carson v. Makin, 596 U.S. 767 (No. 20-1088)
 
@@ -418,9 +454,9 @@ Status: Collision. Strout v. Albanese (Souter, 6-3, with Stone) decided this sam
 [Preamble omitted.]
 > Does a state violate the Religion Clauses or Equal Protection Clause of the United States Constitution by prohibiting students participating in an otherwise generally available student-aid program from choosing to use their aid to attend schools that provide religious, or "sectarian," instruction?
 
-Character recommended disposition:
+Stone's proposed disposition: Reaffirm Maine’s power and duty to withhold tuition that actually purchases integrated devotional schooling, while preserving eligibility for genuinely separated secular education under neutral criteria. Require proof of the schools’ relevant operations rather than disqualify affiliation alone.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Apply Strout, Jackson and Zelman. Restricted tuition does not become unrestricted private cash through parental choice, and a status/use slogan cannot resolve what the payment purchases. Existing actual-function limits protect both conscience and equal access. The narrower alternative sustains the exclusion as applied to the proved integrated schools without validating every possible application of the nonsectarian condition. Any proposed overruling must confront those holdings and reliance directly.
 
 ### OT2024: Oklahoma Statewide Charter School Board v. Drummond, 605 U.S. 165 (Nos. 24-394, 24-396)
 
@@ -432,9 +468,49 @@ Status: Framed. Jackson and Strout forbid public payment for integrated devotion
 
 No. 24-396 presents the same two questions.
 
-Character recommended disposition:
+Stone's proposed disposition: Sustain refusal to authorize public payment for an integrated devotional charter-school program if that funded function is established. Also resolve state action if necessary to answer a granted question or an independent governmental-teaching claim; do not assume that private incorporation decides either issue.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Reaffirm Zelman’s financing limit and distinguish independent private expression from the publicly commissioned educational product. State action requires the actual statutory delegation, public-school designation, authority and control; religious civil authority is an additional inquiry where the law genuinely delegates it. The narrow alternative resolves only the demonstrated financing conflict. The historical equally divided affirmance in 2025 creates no nationwide merits precedent or assumed coalition for a future decision.
+
+### Future intake, OT2003: Freedom From Religion Foundation, Inc. v. McCallum, 324 F.3d 880
+
+Area: Religious rehabilitation; corrections payments; meaningful private choice.
+Historical posture: The Seventh Circuit's April 2, 2003 opinion, with rehearing denied May 22, affirmed the Department of Corrections arrangement after a bench trial. The separate Department of Workforce Development funding had already been invalidated; the appeal did not reopen that favorable ruling. OT2003 is the candidate review window, not an OT2002 merits assignment.
+Proposed question: Whether genuinely voluntary selection of a religious halfway house is enough to validate public payment for a treatment program integrating Christianity, or whether the funded function must remain independently secular.
+Stone's proposed disposition: Reject private selection as a complete answer and require cessation of any proved public purchase of integrated devotional rehabilitation. Preserve independent secular treatment and genuine private religious access. Use existing findings before ordering additional fact development; do not invent a finding that every participant was coerced.
+Stone's proposed reasoning and alternative: Zelman supplies the financing principle; a noncoercive choice may defeat one claim without defeating the separate financing claim. The corrections record, referral practice, funded service and practical alternatives must be assessed separately. The narrower alternative remands solely for separation and funded-use findings while preserving established voluntariness findings. Government-created dependency permits meaningful religious access, not unrestricted subsidy of evangelism as treatment.
+
+### Future intake after March 8, 2005: American Jewish Congress v. Corporation for National and Community Service, 399 F.3d 351
+
+Area: AmeriCorps educational awards; service credits; religious teaching.
+Historical posture: The D.C. Circuit reversed the judgment against the challenged AmeriCorps arrangements. Review would require a timely petition from that judgment, not a present Supreme Court merits assumption.
+Proposed question: Whether awards calculated by qualifying service and assistance to participating programs publicly finance the actual religious teaching undertaken, or purchase independently identifiable secular service under effective controls.
+Stone's proposed disposition: Reject program neutrality and the participant's choice as automatic validation of compensation for devotional teaching. Require relief at the proved award, service-hour or program-support scope while preserving truly secular service and any genuinely unrestricted independent benefit.
+Stone's proposed reasoning and alternative: Distinguish the payment's legal purpose, what service earns it, and how program costs are paid. A ban on counting worship hours matters only if the qualifying work is operationally separate; institutional religious identity alone is insufficient. Reconcile Witters rather than treat every later educational award as a provider voucher. If the record does not establish the necessary financing connection, the narrower alternative requires findings on compensable work and actual restrictions instead of invalidating the whole AmeriCorps program.
+
+### Future intake, OT2007 or a timely later window: Americans United for Separation of Church and State v. Prison Fellowship Ministries, Inc., 509 F.3d 406
+
+Area: Publicly financed prison treatment; religion-conditioned advantages; restitution.
+Historical posture: The Eighth Circuit's December 3, 2007 decision sustained the constitutional objection to the financed InnerChange program while modifying relief, including the repayment issue. Merits, future operation and recovery of earlier payments are distinct questions.
+Proposed question: Whether prison funding and program benefits support an integrated religious rehabilitation undertaking, and which injunction and recovery remedies lawfully address the proved violation.
+Stone's proposed disposition: Preserve relief ending the proved religious purchase and any religion-conditioned prison advantages. State that a formally voluntary enrollment or per-person payment cannot cure that function. Address recovery through actual authority, notice, recipient participation, tracing and equitable considerations; do not automatically require repayment of every dollar.
+Stone's proposed reasoning and alternative: Apply Zelman and the government-created-dependency boundary. Effective secular treatment and private religious access remain possible; the State may not buy conversion as its correctional method. The narrower alternative affirms the constitutional and prospective result while remanding a genuinely unresolved recovery issue. The existence of a live restitution demand may prevent mootness, but its eventual success requires its own legal basis.
+
+### Future intake after May 28, 2009: American Atheists, Inc. v. City of Detroit Downtown Development Authority, 567 F.3d 278
+
+Area: Capital improvements; religious buildings; municipal standing and relief.
+Historical posture: The Sixth Circuit upheld inclusion of religious property in the downtown-improvement program and addressed live prospective and recovery claims. Certain unpaid disputed reimbursements and a recipient that was a party mattered to the jurisdictional analysis.
+Proposed question: Whether the identified improvements provide independent secular public infrastructure or finance a religious facility's devotional operation, and whether the actual party and payment posture supports effectual relief.
+Stone's proposed disposition: Require a project-specific financing inquiry rather than approve all grants from neutral eligibility or reject all grants to churches. Prohibit proved devotional financing while preserving genuinely separable secular work. Maintain jurisdiction over legally available relief against proper parties; no recovery from absent recipients is presumed.
+Stone's proposed reasoning and alternative: Extend the actual-function rule to capital assistance, distinguishing ordinary civic infrastructure from support for the worship undertaking itself. A window, sign, parking area or external repair needs its actual use and financing context; its label does not decide the case. The narrower alternative remands only materially unresolved projects. Municipal taxpayer doctrine and authorized recovery must be analyzed independently from the federal-taxpayer limitations in Hein or Laskowski.
+
+### Future intake after October 22, 2004: Eulitt v. Maine Department of Education, 386 F.3d 344
+
+Area: Maine tuition; equal protection; asserted third-party rights.
+Historical posture: The First Circuit affirmed summary judgment for Maine on the parents' equal-protection challenge. The parents' ability to assert a school's independent rights also mattered. This is a distinct later application of the Maine program, not another review of Strout's completed judgment.
+Proposed question: Whether equal protection requires payment for the identified integrated religious schooling and whether the parents may assert any separate rights belonging to the school.
+Stone's proposed disposition: Reaffirm the funded-function prohibition and sustain refusal of proved integrated devotional tuition, while rejecting an identity-only disability for independently secular services. Resolve the actual parents' claims and any legitimate third-party standing question before reaching absent institutions' rights.
+Stone's proposed reasoning and alternative: Apply Strout and Zelman without importing the historical neutrality-based Zelman result. Equal protection supplies no right to a prohibited public purchase; religious identity alone still supplies no defense for a discriminatory exclusion. The narrower alternative decides the parents' equal-protection claim on the established integrated use and reserves a genuinely different separable-service case. This entry remains separate from Carson's later grant and record.
 
 ### 2.3 Government prayer, displays and the governing test
 
@@ -456,9 +532,9 @@ Area: Displays; a Ten Commandments monument on capitol grounds.
 Status: Framed. No case here has decided a permanent government-owned monument. Robinson holds that government violates the Clause when the whole context of its continuing civic expression identifies it with a faith, that secular history and surrounding imagery do not necessarily cure that effect, and that a faith's symbol may not be a government's present civil identifier; it left historical buildings, exhibits, inherited coats of arms and similar acknowledgments to their own contexts. Pinette and Chabad govern genuinely private displays in forums actually opened.
 > Whether a large monument, 6 feet high and 3 feet wide, presenting the Ten Commandments, located on government property between the Texas State Capitol and the Texas Supreme Court, is an impermissible establishment of religion in violation of the First Amendment.
 
-Character recommended disposition:
+Stone's proposed disposition: Reject a categorical immunity for longstanding government-owned religious monuments. If the actual context makes the Commandments a present assertion of religious authority by the State, require cessation of that official function while preserving lawful historical presentation; use a focused remand if the decisive attribution facts remain unresolved.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Extend Robinson’s distinction between current civil identification and historical preservation through Agostini’s unified inquiry. Government ownership, placement, selection, text and contemporary operation combine; present official function is decisive. Age and a historical label do not cure religious adoption, but neither religious content nor location alone proves it. The narrower alternative addresses this monument’s demonstrated use without requiring destruction or deciding all memorials.
 
 ### OT2004: McCreary County v. American Civil Liberties Union of Kentucky, 545 U.S. 844 (No. 03-1693)
 
@@ -469,21 +545,21 @@ Status: Partly answered. Questions 3 and 4 meet a decided answer: Agostini (Ston
 > 3. Whether the Lemon test should be overruled since the test is unworkable and has fostered excessive confusion in Establishment Clause jurisprudence.
 > 4. Whether a new test for Establishment Clause purposes should be set forth by this Court when the government displays or recognizes historical expressions of religion.
 
-Character recommended disposition:
+Stone's proposed disposition: Preserve relief against a display that remains a governmental religious presentation despite cosmetic revision. Reject both permanent taint from every earlier act and automatic cleansing by adding secular documents; examine the operative arrangement and meaningful changes.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Reaffirm Agostini rather than revive an independent purpose or endorsement test. Earlier religious purpose is evidence of what the revised display now does, not an irrebuttable rule. Extend Robinson where current governmental authority still identifies with religious truth. The narrower alternative sustains the existing injunction on this record without prescribing a universal display formula or precluding a genuinely different historical exhibit.
 
 ### OT2009: Salazar v. Buono, 559 U.S. 700 (No. 08-472)
 
 Area: Displays; land transfer as a remedy; standing.
-Status: Framed. Robinson Part V requires ending present official use within a reasonable time while permitting accurate preservation of history, and holds that longevity does not justify indefinite official use; whether transferring the land to a private owner ends the government's use is open. Robinson also grounds standing in personal, repeated contact with the government's symbol; Question 1's theory (offense that the land is not open to other symbols) is untested. Freedom From Religion Foundation v. City of Marshfield, on the OT2000 list, presents a sale of a religious statue and its parcel.
+Status: Framed. Robinson Part V requires ending present official use within a reasonable time while permitting accurate preservation of history, and holds that longevity does not justify indefinite official use; Marshfield holds that a genuine transfer is insufficient when the municipality continues the identified official presentation. Robinson also grounds standing in personal, repeated contact with the government's symbol; Question 1's theory (offense that the land is not open to other symbols) is untested. Marshfield requires an effective operational separation while preserving genuine private ownership and expression; the federal transfer and injunction in this case require their own application.
 [Preamble omitted.]
 > 1. Whether respondent has standing to maintain this action where he has no objection to the public display of a cross, but instead is offended that the public land on which the cross is located is not also an open forum on which other persons might display other symbols.
 > 2. Whether, even assuming respondent has standing, the court of appeals erred in refusing to give effect to the Act of Congress providing for the transfer of the land to private hands.
 
-Character recommended disposition:
+Stone's proposed disposition: Require an effective cure of any established continuing official religious presentation; a paper transfer alone is insufficient. Respect the scope and finality of the prior injunction, the actual enforcement posture, Article III and the private transferee’s rights before deciding what further relief is lawful.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Apply Marshfield’s operational distinction: genuine title transfer can coexist with continued governmental adoption, but private ownership and expression cannot be destroyed merely to avoid possible confusion. If a live enforcement claim and the record establish continuing official responsibility, retain effective relief. The narrower alternative remands for those transfer and remedial facts. If no live injury or enforceable decree interest remains, dismiss rather than issue an advisory monument rule.
 
 ### OT2013: Town of Greece v. Galloway, 572 U.S. 565 (No. 12-696)
 
@@ -492,9 +568,9 @@ Status: Framed. Marsh v. Chambers (1983) is untouched, and Lee and Tanford expre
 [Preamble omitted.]
 > Whether the court of appeals erred in holding that a legislative prayer practice violates the Establishment Clause notwithstanding the absence of discrimination in the selection of prayer-givers or forbidden exploitation of the prayer opportunity.
 
-Character recommended disposition:
+Stone's proposed disposition: Hold government-selected prayer in the town’s official meeting impermissible where the town incorporates worship into the public exercise of civil authority. Confront Marsh expressly: narrow its historical exception if a material distinction supports that route, or overrule its authorization of official legislative worship to the extent necessary.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: The decisive principle is government’s own religious activity under Lee, Tanford and Agostini, strengthened by the position of citizens appearing for official action. Adult attendance, permission to abstain and evenhanded selection among faiths do not turn official prayer into private expression. The narrower alternative distinguishes a citizen-facing town meeting from Marsh’s internal legislative practice. Genuinely private observance remains protected; no rule requires official surveillance of its theology.
 
 ### OT2018: American Legion v. American Humanist Association, 588 U.S. 29 (Nos. 17-1717, 18-18)
 
@@ -509,9 +585,9 @@ No. 17-1717:
 No. 18-18:
 > Whether the Establishment Clause requires the removal or destruction of a 93-year-old memorial to American servicemen who died in World War I solely because the memorial bears the shape of a cross.
 
-Character recommended disposition:
+Stone's proposed disposition: Reject a presumption that age alone immunizes a government’s current religious identification. Determine whether this memorial’s actual operation is historical commemoration or continuing official religious presentation; if the latter is proved, require a lawful effective separation rather than assume removal or destruction is the only remedy.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Reaffirm Agostini, Robinson and Marshfield. Historical context and commemorative function are relevant evidence, with current governmental function decisive. Routine maintenance is not an independent entanglement violation, but financing may sustain an established official religious function. The narrower alternative resolves the particular ownership, use and remedial record without announcing that every cross-shaped memorial is unconstitutional. No new historical-practice test displaces existing law silently.
 
 ### OT2021: Kennedy v. Bremerton School District, 597 U.S. 507 (No. 21-418)
 
@@ -623,6 +699,14 @@ Status: Framed. Curtis (unanimous) found no burden where students may decline an
 Character recommended disposition:
 
 Character recommended reasoning:
+
+### Future intake after the 2013 appellate judgment: American Civil Liberties Union of Massachusetts v. United States Conference of Catholic Bishops, 705 F.3d 44
+
+Area: Public service contracts; religious control of benefits; mootness.
+Historical posture: The First Circuit vacated the district judgment concerning the expired anti-trafficking-services contract as moot. The vacated merits judgment at 821 F. Supp. 2d 474 is not an enduring appellate holding. A review premise must address expiration, continuing consequences, preserved relief and any actual prospect of recurrence.
+Proposed question: Whether an effective remedy or established mootness exception preserves review and, only if it does, whether government may give a religious contractor authority to limit publicly supported services according to its doctrine.
+Stone's proposed disposition: Reject any categorical assumption that a religious intermediary may determine beneficiaries' civil entitlements. First resolve whether this actual controversy remains live; if no effectual relief or applicable exception remains, dismiss without an advisory merits declaration. If live, prohibit the proved delegation or service restriction while preserving lawful independently secular delivery.
+Stone's proposed reasoning and alternative: Extend Kiryas Joel and the public-control distinction in Children's Healthcare only where the contract actually delegates civil authority or causes denial of an otherwise enforceable entitlement. A contractor's religious motivation alone does not prove either proposition. The narrower alternative resolves a concrete retained public duty or an actual funding condition without a universal contractor rule. The mere possibility of a similar future contract cannot manufacture jurisdiction.
 
 ### 2.6 RFRA and RLUIPA
 
@@ -763,7 +847,23 @@ Character recommended disposition:
 
 Character recommended reasoning:
 
-### 2.8 Taxpayer standing
+### Future intake after the amended 2011 judgment: Spencer v. World Vision, Inc., 633 F.3d 723
+
+Area: Title VII religious-employer exemption; secular jobs; statutory and constitutional boundaries.
+Historical posture: The amended Ninth Circuit decision sustained the employer's eligibility for 42 U.S.C. §2000e-1(a); the panel's concurrences and dissent disagreed about the proper institutional test. The employees performed technology, office, shipping and facilities work. This is an employment-exemption dispute, not itself an adjudicated public-grant restriction.
+Proposed question: Which organizations qualify for the enacted exemption, and whether the statutory criteria and any properly presented constitutional limitation permit the challenged religion-based dismissals.
+Stone's proposed disposition: Resist an exemption defined solely by a self-declared religious purpose, examining statutory institutional character and actual operations without deciding theological truth. Seek the strongest textually defensible protection for employees performing independent secular work. If the enacted exemption nevertheless covers those dismissals, confront Amos and the text candidly; a job-specific ministerial rule cannot silently replace the broader statute.
+Stone's proposed reasoning and alternative: Distinguish Young's constitutional protection for genuine religious leaders from Congress's separate employer exemption. Government funding or a nondiscrimination condition matters only if established and legally presented; no such condition is invented to change this case's outcome. The narrower alternative remands a genuinely unresolved eligibility issue or applies the statute while separately explaining the constitutional disagreement and the precise reconsideration sought. Religious inspiration does not alone make private employment state action.
+
+### Future intake after March 15, 2019: Gaylor v. Mnuchin, 919 F.3d 420
+
+Area: Ministers' cash housing allowances; tax equality; Article III and tax remedies.
+Historical posture: The Seventh Circuit reversed invalidation of 26 U.S.C. §107(2). The employees had pursued refund claims; the in-kind parsonage provision, §107(1), was not within the preserved appellate challenge. Earlier litigation without the necessary claimed benefit is not a separate current vehicle.
+Proposed question: Whether the cash housing allowance exemption is a justified administration of a general work-related housing rule or a religious-status privilege unavailable on comparable secular terms.
+Stone's proposed disposition: Invalidate a demonstrated religion-only cash tax privilege if its actual design cannot be justified as a bounded neutral accommodation; determine the lawful refund, declaratory and prospective remedy before choosing a decree. Preserve the statutory scope and do not decide the separate in-kind provision.
+Stone's proposed reasoning and alternative: Distinguish Walz's broad property-tax exemption and confront Texas Monthly and Amos in their actual settings. Compare §107(2)'s operation with the substantive conditions of ordinary employee housing exclusions; an asserted administrative convenience cannot alone erase the classification. The narrower alternative requires a supported comparison and resolves only the claimants' unequal treatment. No general taxpayer standing or judicial rewriting of all housing deductions follows.
+
+### 2.8 Taxpayer standing, mootness and remedies
 
 ### OT2006: Hein v. Freedom From Religion Foundation, 551 U.S. 587 (No. 06-157)
 
@@ -771,21 +871,29 @@ Area: Taxpayer standing (federal; Establishment Clause).
 Status: Open. This Court's Establishment Clause standing rulings require personal, concrete exposure: Robinson accepted repeated personal receipt of the city's seal and rejected general residence or taxation, and Ingebretsen recognized no general taxpayer standing.
 > Whether taxpayers have standing under Article III of the Constitution to challenge on Establishment Clause grounds the actions of Executive Branch officials pursuant to an Executive Order, where the plaintiffs challenge no Act of Congress, the Executive Branch actions at issue are financed only indirectly through general appropriations, and no funds are disbursed to any entities or individuals outside the government.
 
-Character recommended disposition:
+Stone's proposed disposition: Recognize standing for a sufficiently identified executive expenditure alleged to violate the Establishment Clause’s specific spending restraint; reject an automatic jurisdictional distinction between a special appropriation and executive use of general appropriations. Remand the merits unless the grant and developed record properly reach them.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: Extend Flast by focusing on the actual public expenditure and particular constitutional limitation while distinguishing Valley Forge’s generalized objection to other governmental action. The Executive cannot obtain categorical immunity merely from budget form, but taxpayers still must identify an expenditure, the alleged financing violation and relief that can redress it. The narrower alternative covers identifiable funded promotion rather than every executive statement. If Article III’s required nexus cannot be shown, jurisdictional dismissal remains necessary.
 
 ### OT2010: Arizona Christian School Tuition Organization v. Winn, 563 U.S. 125 (No. 09-987)
 
 Area: Taxpayer standing (state tax credits for religious-school tuition).
-Status: Open, as for Hein. The merits question Winn never reached, whether tax-credit scholarships are public financing, is question 9 below.
+Status: Open, as for Hein. The merits question Winn never reached, whether tax-credit scholarships are public financing, remains a separate merits inquiry under section 4.1.
 > 1. Do Respondents lack taxpayer standing because they do not allege, nor can they, that the Arizona Tuition Tax Credit involves the expenditure or appropriation of state funds?
 > 2. Is the Respondents' alleged injury-which is solely based on the theory that Arizona's tax credit reduces the state's revenue-too speculative to confer taxpayer standing, especially when considering that the credit reduces the state's financial burden for providing public education and is likely the catalyst for new sources of state income?
 > 3. Given that the Arizona Supreme Court has authoritatively determined, under state law, that the money donated to tuition granting organizations under Arizona's tax credit is private, not state, money, can the Respondents establish taxpayer standing to challenge the decisions of private taxpayers as to where they donate their private money?
 
-Character recommended disposition:
+Stone's proposed disposition: Reject a categorical standing bar solely because the targeted scholarship subsidy is delivered as a tax credit. Permit a sufficiently connected taxpayer challenge to the identified governmental financing design, then return any unreviewed merits and remedial issues to the proper court.
 
-Character recommended reasoning:
+Stone's proposed reasoning and alternative: The question is whether the State has created a dedicated financing benefit, not whether state accounting calls the donated dollars private. Extend the bounded Flast channel where the actual credit substitutes a state-directed benefit for revenue otherwise due; general objections to reduced tax receipts remain insufficient. Mueller’s deduction and Valley Forge require careful distinctions. The granted standing questions do not authorize automatic merits invalidation of scholarships. A narrower alternative requires findings about the credit’s legal operation and the requested relief.
+
+### Future intake, one controversy spanning 2006–2008: Laskowski v. Spellings, 443 F.3d 930; 546 F.3d 822
+
+Area: Completed disbursement; restitution; limits of taxpayer relief.
+Historical posture: The first Seventh Circuit decision allowed further consideration of direct recovery from the grantee; the Supreme Court vacated and remanded in light of Hein. The later decision dismissed after applying Hein's restrictive taxpayer-standing rule. The one-time grant had been paid and expired, and the plaintiffs conceded that their original request to enjoin payment was moot. These are successive stages of one dispute, not two independent queue entries.
+Proposed question: Whether a taxpayer with an otherwise sufficient constitutional claim can pursue legally authorized effectual recovery against a recipient that is an actual party after disbursement, and what source and limits govern that relief.
+Stone's proposed disposition: Reject payment alone as automatic immunity from review, but require an available claim and lawful remedy. Preserve a properly grounded direct recovery claim where it redresses the proved violation; do not order an agency to pursue a recovery committed to its unreviewable enforcement discretion. If no permissible relief remains on this record, dismiss.
+Stone's proposed reasoning and alternative: Explain the proposed Flast extension rather than assume taxpayer ownership of the Treasury. Recovery authority, private-party liability, recipient status, retained funds, notice and equitable limits are separate from the establishment merits. The narrower alternative remands only a genuinely unresolved remedial basis. A preference to hear the merits cannot invent restitution, undo a concession or bind nonparties. Hein's eventual disposition must be reconciled expressly if it has become controlling before this case is reached.
 
 ## 3. The doctrine as it stands
 
@@ -803,12 +911,12 @@ What this means for the coming landmarks: Lemon is alive here in a form history 
 
 The tests now live:
 - General Establishment Clause test: Lemon as modified by Agostini (one inquiry, three routes). Not live as separate tests: Lemon's independent prongs, an independent purpose test, an independent endorsement test.
-- Official worship: government may not organize worship or make it part of its own ceremony (Lee Part II, Ingebretsen Part II, Tanford, Chaudhuri Part II) or delegate an official religious choice to a student vote (Santa Fe); separately, school-directed religious exercise may not put students under substantial practical pressure (Lee's Kennedy concurrence, Ingebretsen Part III). A genuine moment of silence is permitted (Chaudhuri Part I).
+- Official worship: government may not organize worship or make it part of its own ceremony (Lee Part II, Ingebretsen Part II, Tanford, Chaudhuri Part II) or delegate an official religious choice to a student vote (Santa Fe); separately, school-directed religious exercise may not put students under substantial practical pressure (Lee's Kennedy concurrence, Ingebretsen Part III). A genuine moment of silence is permitted (Chaudhuri Part I; Brown v. Gilmore), including a seated school period with genuine private choice and no official religious direction.
 - Government religious identification: contextual affiliation and the ban on a faith's symbol as a present civil identifier (Robinson).
 - Civic acknowledgment: the voluntary Pledge with protected abstention (Sherman; Barnette).
-- Funding: the funded-function rule (Jackson, Strout, Mitchell); safeguarded secular services (Agostini Holding II); no categorical ban on equipment (Mitchell); the preserved Witters, Mueller and Rosenberger relationships. See 3.3.
+- Funding: the funded-function rule (Jackson, Strout, Mitchell, Zelman); safeguarded secular services (Agostini Holding II); no categorical ban on equipment (Mitchell); the preserved Witters, Mueller and Rosenberger relationships. See 3.3.
 - Civil authority: no allocation of general civil authority by religion and no anomalous denominational grant (Kiryas Joel); strict scrutiny for denominational classifications (Larson, preserved in Agostini).
-- Private speakers: viewpoint neutrality in forums actually opened (Lamb's Chapel, Good News/Good Sports, Rosenberger, Church on the Rock, Bronx Household); contextual attribution when an Establishment Clause defense is raised (Pinette, Chabad, Good News/Good Sports Part II); genuine pedagogy (Settle).
+- Private speakers: viewpoint neutrality in forums actually opened (Lamb's Chapel, Good News/Good Sports, Rosenberger, Church on the Rock, Bronx Household); contextual attribution when an Establishment Clause defense is raised (Pinette, Chabad, Good News/Good Sports Part II; Good News Club); genuine pedagogy (Settle), with Freiler forbidding the use of instructional authority to preserve a religious account as such.
 - Free exercise: Smith with Lukumi's neutrality, general-applicability and strict-scrutiny rules; a separate inquiry for public employees (Brown v. Polk County, Shahar); a burden threshold for optional school programs (Curtis).
 - RFRA (federal law only): substantial burden, then compelling interest by the least restrictive means as applied to the claimant.
 - Church autonomy: the ministerial-selection defense, on the merits (Young).
@@ -821,14 +929,14 @@ The question the Court asks. Since Agostini the Court asks what the public money
 
 Doctrine now:
 - Public money may not buy devotional instruction. Neutral eligibility, a parent's choice of school and a parent's endorsement of the check do not justify public payment for devotional instruction integrated into the funded schooling without reliable separation (Jackson v. Benson, O'Connor's Part I, six votes including Stone). A tuition cap does not separate the devotional function (Strout v. Albanese, Souter, 6-3). A publicly administered program that actually finances religious instruction or religious use as the funded function violates the Clause, and neutral allocation, public title or a secular label does not cure it (Mitchell v. Helms, Breyer, unanimous on this rule).
-- The defect must be proved, not presumed. A school's religious identity or location, its control of the item, the fungibility of money, possible diversion and incidental savings do not, alone or together, prove forbidden financing (Mitchell Holding 2; Agostini Holding II). Religious identity alone establishes no defect (Jackson, Strout).
+- The defect must be proved, not presumed. Zelman requires the supported provider/payment scope and rejects aggregate enrollment or wider secular alternatives as substitutes for actual-use analysis. A school's religious identity or location, its control of the item, the fungibility of money, possible diversion and incidental savings do not, alone or together, prove forbidden financing (Mitchell Holding 2; Agostini Holding II). Religious identity alone establishes no defect (Jackson, Strout).
 - Separated secular work may be bought. Government may pay for independently identifiable secular work in a religious setting with enforceable controls against devotional use and diversion. Agostini approved public Title I teachers giving remedial instruction on religious-school premises to children chosen on neutral criteria, under public supervision, with secular materials, with no team teaching or worship, and with controls against diversion; Aguilar's categorical ban was overruled and Ball's Shared Time rationale displaced, while Ball's Community Education judgment was not reopened. Separation must be real and accountable but need not mean separate governance or wholly separate staff. Equipment and library books are not forbidden as a category where secular use is reliably preserved; Meek and Wolman no longer control to the extent their reasoning condemned such aid by the recipient's character or presumed diversion (Mitchell Holding 3).
 - Preserved relationships. Witters (an individual's vocational benefit used at a religious school) and Mueller (a general tax deduction for school expenses) remain law for their own relationships, but neither automatically approves provider payments or tuition (Jackson, Strout), and Nyquist's limits are not displaced merely because money is routed through parents (Jackson). Rosenberger's printing benefit for an independently edited student publication remains valid on its controlled terms (Kennedy, 5-4, with Stone); it concerns financing of independently attributed expression, and a religious editorial viewpoint is not automatically purchased devotional instruction, but it authorizes no devotional expenditure generally.
 - Civil power. A State may not deliberately give general civil authority to a community chosen for its religion, even through elected lay officials (Kiryas Joel Part II-A, five votes with Stone), or give one denomination's community an anomalous grant of governmental power without neutral assurance of equal treatment (Part II-B, six votes). A State may accommodate religious needs beyond what free exercise requires (Amos), but accommodation does not cure such an allocation (Part II-C), and the decision preserved properly administered neutral services for the children involved.
-- Refusals to fund. A State may refuse to pay for integrated devotional instruction, and the refusal does not violate the Free Exercise Clause whether or not attending the school is a central religious tenet (Strout). A refusal may not rest on religious hostility or exclude religious speakers from a neutral private-expression forum, and Strout reserved whether a State may categorically reject genuinely severable secular work solely because the provider is religious.
+- Refusals to fund. A State may refuse to pay for integrated devotional instruction, and the refusal does not violate the Free Exercise Clause whether or not attending the school is a central religious tenet (Strout). A refusal may not rest on religious hostility or exclude religious speakers from a neutral private-expression forum, and K.D.M. rejects religious-site disqualification from consideration for an independently controlled secular service while preserving neutral criteria and statutory limits.
 - Remedy. Relief must address the established conflict and preserve lawful, severable applications; it does not require cutting off every payment or excluding every religious provider, and a categorical declaration cannot substitute for that scope inquiry (Jackson Part II; Mitchell Holding 4).
 
-What is undecided: any voucher program other than Jackson's provider-cost payment and Strout's capped tuition; whether parents' range of secular options matters; tax credits (Mueller covers a deduction, and taxpayer standing is undecided); what "reliable separation" a private religious school must show; whether the Free Exercise Clause forbids excluding religious providers from secular programs; religious charter schools; and whether a public service delivered to a child at a religious school (Zobrest's interpreter, onsite special education) is an Agostini service or purchased instruction. Two OT2000 vehicles reach these edges: K.D.M. v. Reedsport School District and Children's Healthcare Is a Legal Duty v. Min De Parle.
+What remains undecided: the particular legal and financial operation of targeted tax credits and bond assistance; taxpayer standing for those arrangements; new applications of reliable separation; religious charter-school state action; and distinct statutory eligibility or reimbursement claims. Zelman has decided that wider secular options do not cure proved integrated devotional tuition purchases. K.D.M. has decided the religious-site disability question for the independently controlled vision service, without creating an automatic onsite entitlement. Children's Healthcare has resolved the bounded eligibility and final-public-authority principles while requiring actual-function application; it does not establish that every care payment to a religious institution is permissible. Zobrest still supplies no Establishment Clause holding.
 
 Zobrest in plain terms. James Zobrest, who is deaf, attended a Catholic high school; the school district refused to supply a sign-language interpreter there under the federal disability-education law, so his parents paid for one and sued. The real Court (Rehnquist, 5-4) held that providing the interpreter would not violate the Establishment Clause, a ruling history later used as a bridge to its Agostini, Mitchell and Zelman decisions. Here the Court (O'Connor, joined by Stone, Blackmun, Stevens and Souter, 5-4) decided no Establishment Clause question: it sent the live reimbursement claim back so the lower courts could first decide whether federal law, the regulation or state law authorized or barred the service, holding that the absence of a federal duty is not itself a prohibition. White, Scalia, Kennedy and Thomas would have reached and rejected the Establishment Clause bar. Every later funding case here repeats that Zobrest supplies no Establishment Clause holding.
 
@@ -838,7 +946,7 @@ Strout v. Albanese in plain terms. Maine towns with no high school pay tuition f
 
 Mitchell v. Helms in plain terms. Chapter 2 of a federal education law lent library books, computers and other instructional equipment to schools in Jefferson Parish, Louisiana, including religious schools, in proportion to enrollment. The real Court (6-3) upheld the program: Justice Thomas's four-Justice plurality treated neutral aid as permissible even if diverted, and Justice O'Connor's controlling concurrence required proof of actual diversion to religious use and found the evidence insufficient. Here, on a factual premise adopted for the case (not a historical finding) that the program actually financed religious instruction or religious use, all nine Justices (Breyer writing) held that this violates the Establishment Clause and that neutral allocation does not cure it; they also held that equipment and library books are not forbidden as a category, displacing Meek and Wolman to that extent. The Court vacated the Fifth Circuit's categorical declaration (8-1) so relief can be fitted to the proved use; Stone would have affirmed invalidation as administered.
 
-How this differs from history. History built its funding law on neutrality and private choice: Zobrest (1993) approved an interpreter at a Catholic school, Agostini (1997) approved Title I teachers on religious premises, Mitchell (2000) upheld equipment aid, and Zelman (2002) upheld vouchers because parents, not government, directed the money. History then used the Free Exercise Clause to require inclusion: Trinity Lutheran (2017), Espinoza (2020) and Carson (2022) forbade excluding religious schools or religious uses from generally available aid, and in 2025 an equally divided Court left Oklahoma's rejection of a religious charter school in place. Here the chain is different at almost every link: Zobrest decided nothing, Agostini rests on a function inquiry rather than neutrality, Mitchell found a violation, and Jackson and Strout hold that private choice does not cure payment for devotional instruction and that a State may refuse it. A Zelman decision that departs from history will fit this Court's law; the later inclusion landmarks will arrive as collisions (Carson) or in reshaped form (Espinoza, Drummond).
+How this differs from history. History built its funding law on neutrality and private choice: Zobrest (1993) approved an interpreter at a Catholic school, Agostini (1997) approved Title I teachers on religious premises, Mitchell (2000) upheld equipment aid, and Zelman (2002) upheld vouchers because parents, not government, directed the money. History then used the Free Exercise Clause to require inclusion: Trinity Lutheran (2017), Espinoza (2020) and Carson (2022) forbade excluding religious schools or religious uses from generally available aid, and in 2025 an equally divided Court left Oklahoma's rejection of a religious charter school in place. Here the chain is different at almost every link: Zobrest decided nothing, Agostini rests on a function inquiry rather than neutrality, Mitchell found a violation, and Jackson and Strout hold that private choice does not cure payment for devotional instruction and that a State may refuse it. Zelman has now applied that law to Cleveland's restricted tuition and required relief at the proved provider/payment scope; the later inclusion landmarks will arrive as collisions (Carson) or in reshaped form (Espinoza, Drummond).
 
 ### 3.4 Government prayer and religious expression
 
@@ -874,7 +982,7 @@ Doctrine now: under Title VII (§2000e(j)) an employer must reasonably accommoda
 
 ### 3.10 Where this Court departed from history
 
-Results that differ: Zobrest (no Establishment Clause holding; history upheld the interpreter); Mitchell v. Helms (actual financed religious use held unconstitutional and the categorical declaration narrowed for relief; history upheld the program).
+Results that differ: Zobrest (no Establishment Clause holding; history upheld the interpreter); Mitchell v. Helms (actual financed religious use held unconstitutional and the categorical declaration narrowed for relief; history upheld the program); Zelman (demonstrated integrated devotional tuition purchases invalidated with relief confined to the proved scope; history upheld the voucher program).
 
 Same results, different reasoning: Lee (two independent five-vote grounds, sponsorship with Stone and pressure without him; 6-3, where history was 5-4 on coercion alone); Kiryas Joel (the civil-authority ground now has a majority; 7-2, where history was 6-3); Pinette (Stone's bounded access holding for seven, not history's plurality private-speech rule); Agostini (Lemon recast as one inquiry with three routes, not history's three Agostini criteria); Santa Fe (the official mechanism only, with no endorsement, purpose or coercion holding; 7-2, where history was 6-3).
 
@@ -882,131 +990,54 @@ Same results on substantially the same grounds: Lamb's Chapel, Lukumi, Rosenberg
 
 Cases the real Supreme Court never decided, so that the lower court's judgment stood in history. This Court changed the outcome below in Clearwater, Swanner, American Life League (RFRA only), Beadle, Settle, Ingebretsen (in part), Chalmers, Tanford, Shahar, Chaudhuri (official prayer), Bronx Household, Bauchman (in part), Jackson v. Benson, Adams and Browne. It left the outcome in place in Young (dismissal, recast as a merits ruling that recognizes the ministerial exception), Chabad, Good News/Good Sports, Sherman, Curtis, Hot Sexy, Brown v. Polk County, Robinson, Opuku-Boateng, Church on the Rock and Strout.
 
-Where the coming landmarks meet this Court's own holdings: Zelman and Carson collide with Jackson and Strout; Groff collides with Beadle and its successors; Kennedy v. Bremerton collides on method with Agostini's Holding I; Espinoza and American Legion arrive reshaped; Hosanna-Tabor, Good News Club, Newdow, Locke and McCreary arrive partly answered.
+Where the future cases meet the completed holdings: Carson confronts Strout and Zelman; Groff confronts Beadle and its successors; Kennedy v. Bremerton confronts Agostini's method; Espinoza, Drummond and American Legion arrive with materially different governing premises. K.D.M. informs Trinity Lutheran, Marshfield informs Buono, and Freiler informs curriculum disputes. Good News Club and Zelman are completed cases and are not future queue entries.
 
 Stone's distinctive positions, none controlling: Lee (joined only the sponsorship ground, not the pressure ground); Clearwater (would have affirmed the adverse disclosure and refund-policy rulings); Young (would have affirmed the dismissal on the corrected merits basis); Swanner and American Life League (dissenting with Stevens, Ginsburg and Breyer, would have affirmed the RFRA rejections on the government's application-specific justification); Chabad (concurred without joining the four-Justice decree-specific attribution inquiry); Beadle (dissent: the training and assignment burdens met Hardison's threshold); Sherman (dissent: a school-selected declaration that the nation stands under God is a religious proposition prescribed for children, so Lee's sponsorship principle applies); Chalmers (would have reversed and required trial); Bronx Household (would have affirmed narrowly, treating worship as a distinct excludable use); Bauchman (would have left the state-claim disposition undisturbed); Jackson (would have reversed and required relief preventing public payment for integrated devotional instruction through checks, vouchers, tax credits, reimbursements, provider-redemption instruments or any third-party route); Adams and Browne (would have affirmed the rejection of the tax objectors' RFRA claims, treating collection of each taxpayer's share of common funds as the government's interest); Mitchell (would have affirmed invalidation as administered rather than vacate). Stone wrote for the Court in Pinette, Opuku-Boateng, Church on the Rock, Agostini and Tanford.
 
-## 4. Questions to answer before the landmarks
+## 4. Remaining questions and necessary records
 
-Questions only. Under each, the landmarks it should be answered before.
+These questions concern unresolved applications or changes Stone may propose. They do not reopen completed judgments or create a second case sequence. Section 2 is the sole intake sequence. Section 0 supplies his personal answers where developed; an unadopted answer remains a proposal.
 
-### 4.1 The governing test
+### 4.1 Governmental function and proof
 
-1. Agostini made Lemon one inquiry with three routes. Is the funded-function rule of Jackson, Strout and Mitchell a specific prohibition that decides a case once a devotional purchase is shown (route one), or a product of the residual attribution-and-function inquiry (route three)? Who bears the burden of proving, or disproving, reliable separation? Mitchell held that affiliation and possible diversion cannot replace proof, and Jackson let the lower courts use the existing record.
-    > Answer before: OT2001, Zelman v. Simmons-Harris.
-2. Do displays, monuments and legislative prayer go through Agostini's single inquiry, or are Marsh v. Chambers and long historical practice an established permissible relationship (route two)? Agostini, Lee, Sherman and Tanford reserved legislative prayer, monuments and other public mottoes.
-    > Answer before: OT2004, Van Orden v. Perry; OT2004, McCreary County v. American Civil Liberties Union of Kentucky; OT2013, Town of Greece v. Galloway; OT2018, American Legion v. American Humanist Association.
-3. What work does purpose still do? Santa Fe revived neither an independent purpose test nor an independent endorsement test, but Agostini and Robinson treat purpose as evidence of function. Can a government's earlier religious purpose taint a later, revised display?
-    > Answer before: OT2004, McCreary County v. American Civil Liberties Union of Kentucky.
-4. Should the modified Lemon test stand, or give way to a test of historical practice and understanding? History took the second path and in 2022 declared Lemon abandoned; here Agostini's Holding I is a five-vote holding, so any change would be an express overruling. What would justify it, and what would replace the three routes?
-    > Answer before: OT2004, McCreary County v. American Civil Liberties Union of Kentucky; OT2018, American Legion v. American Humanist Association; OT2021, Kennedy v. Bremerton School District.
-5. Several decisions applied Lemon's former independent prongs before Agostini (Lamb's Chapel's establishment holding, Sherman's Pledge holding, Robinson Part III, Church on the Rock Part III). Do their results stand unchanged under the single inquiry, or must any be re-examined when the issue returns?
-    > Answer before: OT2003, Elk Grove Unified School District v. Newdow.
+- What identifiable governmental act, payment or authority is challenged? Agostini's unified inquiry governs; purpose, effects and institutional relationships supply evidence rather than independent fallback tests. A specific prohibition decides the case when its actual conditions are established.
+- What does the particular public benefit buy? Zelman resolves integrated devotional tuition and wider secular options. Credits, bonds, service awards and capital assistance still require their own legal-design and operational analysis; no financing form supplies automatic immunity or an automatic violation.
+- Does actual separation exist in content, funded duties, accounts and delivery? Separate corporate governance or wholly different personnel is not invariably required. Institutional identity, possible diversion and incidental savings cannot replace proof. Conversely, a bookkeeping designation cannot separate an inseparable devotional product.
+- Who bears which burden? A provider must establish eligibility and compliance where the program requires it; a constitutional challenger must prove the forbidden governmental function under the applicable litigation rules. The burdens are not interchangeable. Findings already sufficient for relief need not be proved again.
 
-### 4.2 Funding after Jackson, Strout and Mitchell
+### 4.2 Equal eligibility and secular services
 
-6. Cleveland's program offered community schools, magnet schools and public-school tutoring alongside scholarships. Jackson and Strout held parental choice no cure but did not decide whether the range of secular options matters. Does it matter at all, or does the Court look only at what each scholarship payment buys?
-    > Answer before: OT2001, Zelman v. Simmons-Harris.
-7. What must a religious school show to establish "reliable separation" of devotional instruction from publicly funded education? Agostini listed safeguards for public employees on religious premises, Jackson and Strout found none in integrated schools, and no case says what a private school must do. Stone's planned "Funding Wall" would require separation in governance, personnel, content and accounts, repayment for diversion and loss of funding when doctrine enters the funded work; is any of that the Court's standard, or Stone's alone?
-    > Answer before: OT2001, Zelman v. Simmons-Harris; OT2021, Carson v. Makin; OT2024, Oklahoma Statewide Charter School Board v. Drummond.
-8. Is the funded-function rule applied payment by payment, school by school or program-wide? If most participating schools integrate devotion, is the program invalid, or only the payments to those schools? Jackson required relief confined to the established conflict, with lawful severable applications preserved and no all-provider exclusion, and Mitchell required relief at the proved scope.
-    > Answer before: OT2001, Zelman v. Simmons-Harris.
-9. Is a tax credit for donations to a scholarship organization, or a tax deduction for tuition, public payment under the funded-function rule? Mueller's general deduction survives for its own relationship; Stone's separate opinion in Jackson (noncontrolling) would have reached tax credits.
-    > Answer before: OT2010, Arizona Christian School Tuition Organization v. Winn; OT2019, Espinoza v. Montana Department of Revenue.
-10. Is a publicly controlled service delivered to a child at a religious school (Zobrest's sign-language interpreter, onsite special education) an Agostini service that may be provided with safeguards, or purchased instruction? Zobrest's remand left the statutory and constitutional questions open; K.D.M. v. Reedsport School District, on the OT2000 list, presents onsite special education.
-    > Answer before: OT2001, Zelman v. Simmons-Harris.
-11. What remains of Nyquist, of Ball's Community Education holding, and of Meek and Wolman outside equipment categories? Jackson said Nyquist's limits are not displaced merely by routing money through parents, and Agostini and Mitchell displaced only parts of Ball, Meek and Wolman.
-    > Answer before: OT2001, Zelman v. Simmons-Harris.
-12. Rosenberger (Stone joined Kennedy's opinion) paid a printer for a religious student publication on controlled terms, and Jackson says a religious editorial viewpoint is not automatically purchased devotional instruction. Stone's planned principle that "space is access; money is financing" would let a program decline to pay for expression meant to bring its audience to a faith. Where is the line between a funded religious perspective and funded devotion, and does Rosenberger need to be confined?
-    > Answer before: OT2009, Christian Legal Society Chapter of the University of California, Hastings College of the Law v. Martinez.
-13. If a State funds charter schools entirely, is a religious charter school a state actor whose religious teaching is the government's own? Agostini forbids government to adopt doctrine as governmental truth, Kiryas Joel forbids handing civil authority to a body chosen for its religion, and Jackson forbids buying integrated devotional instruction. Which rule decides first?
-    > Answer before: OT2024, Oklahoma Statewide Charter School Board v. Drummond.
+- K.D.M. protects consideration of an independent secular service without religious-site disqualification; it does not guarantee every requested onsite service. What neutral program criteria, professional control and genuine alternatives govern a new claimant?
+- Is the proposed benefit an expressive forum, an individual communication service, unrestricted private cash, or public purchase of institutional education or ministry? Rosenberger, Mueller and Witters retain their defined relationships. A private-expression rule cannot automatically validate a commissioned religious service.
+- Does a state restriction bar integrated devotional use or disqualify religious people from otherwise eligible secular work? Status labels alone cannot answer that question. If an unconstitutional exclusion and an unconstitutional proposed use coexist, what lawful severance or equal-treatment remedy remains?
+- A religious charter claim may involve financing, government teaching and civil authority separately. Which issues are granted, which are necessary, and what statutory delegation and operational control are actually established?
 
-### 4.3 Refusing to fund and the Free Exercise Clause
+### 4.3 Custody, public contracts and religious authority
 
-14. Strout holds that refusing to pay for integrated devotional instruction does not violate the Free Exercise Clause. In a general scholarship program, is refusing to pay for a devotional theology degree merely permitted, or is the payment itself forbidden under Jackson?
-    > Answer before: OT2003, Locke v. Davey.
-15. Strout reserved "categorical rejection of genuinely severable secular work solely because its provider is religious." May a State exclude a church or religious school from a secular program, such as a playground-surfacing grant or onsite special education, because of what it is rather than what the money buys? K.D.M. v. Reedsport School District, on the OT2000 list, presents the question for special education.
-    > Answer before: OT2016, Trinity Lutheran Church of Columbia, Inc. v. Comer.
-16. Is the distinction between religious status and religious use workable under this Court's law? Jackson and Strout look to the function bought and say identity alone establishes no defect. Must a State that funds private schooling include religious schools that reliably separate devotional instruction, and may it exclude those that do not?
-    > Answer before: OT2019, Espinoza v. Montana Department of Revenue; OT2021, Carson v. Makin.
-17. May a State, under its own constitution, refuse aid to religious schools more broadly than the Establishment Clause requires? Strout sustained Maine's refusal of integrated devotional tuition while rejecting the lower court's reliance on whether attendance was a central religious tenet; no case decides a categorical state no-aid clause.
-    > Answer before: OT2003, Locke v. Davey; OT2019, Espinoza v. Montana Department of Revenue; OT2024, Oklahoma Statewide Charter School Board v. Drummond.
-18. Carson reaches the same Maine tuition program and nonsectarian condition that Strout decided 6-3. Is there any changed legal or factual premise that would justify reopening Strout, and how should the Court treat a petition that asks it to?
-    > Answer before: OT2021, Carson v. Makin.
+- Does a funded program supply independent secular treatment, purchase religious formation, or restore access impaired by government custody? These are materially different functions. Actual private choice may defeat coercion without resolving financing.
+- Do benefits, living conditions, release opportunities or effective access depend on religious participation? Is a proposed alternative actually available on materially equal terms? Ordinary voluntary religious access must remain protected when unlawful financing or pressure is stopped.
+- Does a contractor make initial professional assessments subject to final public authority, or possess civil power to enforce its religious doctrine against outsiders? Children's Healthcare permits the former within its actual safeguards; Kiryas Joel and Larkin bar the latter when proved.
+- Can neutral disclosures and enforcement of objectively verifiable commercial representations protect the public without government defining religious truth? A private certifier's judgment and a State's religious standard are not interchangeable.
 
-### 4.4 Government prayer, displays and religion in the curriculum
+### 4.4 Prayer, displays and private expression
 
-19. Lee and Tanford reserved adult legislative prayer, while Tanford and Chaudhuri forbid officially arranged prayer at a public university's functions even for adults free to abstain. Does Marsh v. Chambers survive as a distinct doctrine, and does it reach a town board before which citizens appear on their own business?
-    > Answer before: OT2013, Town of Greece v. Galloway.
-20. Sherman upheld a voluntary daily Pledge containing "under God" as a civic exercise, over Stone's dissent that it is a school-prescribed religious proposition. Does it govern a teacher-led Pledge for willing students, and who has standing to challenge one? Robinson and Ingebretsen require personal, concrete exposure.
-    > Answer before: OT2003, Elk Grove Unified School District v. Newdow.
-21. Robinson forbids a faith's symbol as a city's present civil identifier and holds that longevity does not justify continuing official use, while leaving historical buildings, exhibits and inherited coats of arms to their own contexts. How does that apply to a government-owned Ten Commandments monument, a county display revised after a challenge, or a decades-old memorial cross on public land?
-    > Answer before: OT2004, Van Orden v. Perry; OT2004, McCreary County v. American Civil Liberties Union of Kentucky; OT2018, American Legion v. American Humanist Association.
-22. Can a government cure an unconstitutional display by selling or transferring the land to a private owner? Robinson's remedy ends present official use while permitting historical preservation. Freedom From Religion Foundation v. City of Marshfield, on the OT2000 list, presents a sale of a religious statue and its parcel.
-    > Answer before: OT2009, Salazar v. Buono.
-23. When is a public employee's prayer at work private, and when is it the government's? Brown v. Polk County protects private religious expression against blanket religion-specific bans but says voluntary supervisor-led prayer is not automatically private; Lee, Ingebretsen and Santa Fe forbid school-organized prayer and school-directed pressure. Does a coach's prayer at midfield after a game, with students joining, fall on one side or the other?
-    > Answer before: OT2021, Kennedy v. Bremerton School District.
-24. When does a school's treatment of religion in the curriculum become instruction in belief? Settle and Bauchman protect genuine teaching that involves religion, and Edwards v. Aguillard bars teaching creation science. Is an evolution disclaimer that refers to biblical creation a religious message? Freiler v. Tangipahoa Parish Board of Education, on the OT2000 list, presents it.
-    > Answer before: no listed landmark.
+- Marsh remains existing law. If an adult legislative-prayer case cannot be materially distinguished, what portion should Stone propose to overrule, why, and what rule preserves private observance while ending governmental worship? History may inform meaning without giving every longstanding practice immunity.
+- Robinson and Marshfield distinguish current official religious presentation from historical preservation and genuine private property. What contemporary selection, control, use and corrective measures determine attribution? Age, location, content and possible misunderstanding alone do not settle it.
+- Good News Club has resolved the elementary-school after-hours forum on its actual private sponsorship and permission conditions. A future dispute must identify a material difference in official control, pressure, forum scope or activity rather than repeat the age question as undecided.
+- Brown v. Gilmore permits genuine private choice during silence; Freiler prohibits the proved official religious instructional function. New curriculum claims require actual profession, observance, penalties or a distinct statutory burden, not merely disagreement with an idea.
+- For employee prayer, identify personal conduct, official duties, control of the occasion, recruitment and practical pressure. Neither employment alone nor the employee's description of the act decides whether government organized it.
 
-### 4.5 Religious speakers, forums and government speech
+### 4.5 Standing, finality and effectual remedies
 
-25. Good News/Good Sports decided attribution for an audience of 11 to 15 year olds attending with parental permission. Do children aged 6 to 12 meeting right after school change the analysis, and does Bronx Household's worship rule apply in an elementary-school forum?
-    > Answer before: OT2000, Good News Club v. Milford Central School (on the OT2000 list).
-26. Can a valid Establishment Clause concern ever justify excluding a religious viewpoint from a forum the government actually opened? Lamb's Chapel, Pinette, Chabad, Church on the Rock and Bronx Household rejected categorical defenses but did not decide whether a proved establishment problem could justify viewpoint exclusion.
-    > Answer before: OT2000, Good News Club v. Milford Central School (on the OT2000 list); OT2021, Shurtleff v. City of Boston.
-27. When does government's acceptance of privately donated monuments, or its approval of privately proposed flags, make the expression the government's own rather than a forum? Robinson Part II looks to selection and adoption; Pinette and Chabad protect private displays in forums actually opened. If the expression is the government's, do Robinson's Establishment Clause rules then govern it?
-    > Answer before: OT2008, Pleasant Grove City v. Summum; OT2021, Shurtleff v. City of Boston.
-28. May a public university require a recognized religious student group to accept all comers as voting members and officers? Rosenberger separates recognition, facilities and money; Young protects a church's choice of its religious leaders, but only in the employment setting decided.
-    > Answer before: OT2009, Christian Legal Society Chapter of the University of California, Hastings College of the Law v. Martinez.
+- What injury gives the plaintiff a personal stake, and what particular financing action supports any requested taxpayer extension? Flast, Valley Forge and the separate municipal principles require explicit treatment. A merits preference cannot create standing.
+- Does a live prospective claim remain after payment, expiration or transfer? If only recovery remains, identify its cause of action or equitable authority, proper defendants, sovereign-immunity limits, actual funds or liability, and the legal basis for effectual relief. No automatic repayment or compelled agency enforcement follows.
+- Are recurrence, voluntary cessation or another recognized mootness exception actually established? A hypothetical future contract or a wish to preserve a favorable opinion is insufficient.
+- Relief must promptly stop the proved violation and preserve lawful severable applications. Existing findings may suffice; an uncertain unexamined application is neither authority to continue a proved violation nor to prohibit all recipients. Determine the actual decree, finality and nonparty rights before ordering changes.
 
-### 4.6 Free exercise
+### 4.6 Accommodation, institutional autonomy and equality
 
-29. Should Smith remain the rule for neutral, generally applicable laws? Lukumi and Boerne declined to reconsider it and American Life League applied it with six votes, but O'Connor and Souter reserved the broader question there.
-    > Answer before: OT2020, Fulton v. City of Philadelphia.
-30. What is comparable secular conduct? Lukumi held that substantial exemptions for comparable secular harm defeat general applicability but left the boundaries open. Is one comparable secular activity treated more favorably enough, is comparability measured against the risk the law regulates, and must the government show that precautions allowed elsewhere would fail for worship? Stone's planned principle measures comparability by the harm actually regulated; the question is what the Court will hold.
-    > Answer before: OT2020, Roman Catholic Diocese of Brooklyn v. Cuomo; OT2020, Fulton v. City of Philadelphia.
-31. When does a system of discretionary exemptions trigger strict scrutiny? Lukumi drew on Bowen v. Roy to require a compelling reason for denying religious hardship where secular reasons are assessed. Does a contract term allowing case-by-case exceptions count even if it has never been used?
-    > Answer before: OT2020, Fulton v. City of Philadelphia.
-32. Is official hostility toward religion, expressed by an adjudicating body or its members, itself a neutrality defect that voids the decision? Lukumi's discussion of enactment history drew no majority.
-    > Answer before: OT2017, Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Commission.
-33. Where a state public-accommodations or foster-care rule applies to a religious objector, what claim survives after Boerne removed RFRA from state law? Swanner's reasoning that commercial participation does not forfeit protection now operates only within RFRA's valid field.
-    > Answer before: OT2017, Masterpiece Cakeshop, Ltd. v. Colorado Civil Rights Commission; OT2020, Fulton v. City of Philadelphia.
-34. Does compulsory instruction contrary to parents' religion, without notice or an opt-out, burden their free exercise? Curtis found no burden in an optional program and reserved compulsory instruction; Hot Sexy found no parental-liberty veto and left the free exercise dismissal without a controlling rationale; Bauchman treated a genuine grade-neutral option to decline as decisive. Stone's planned principle treats an opt-out as an accommodation a legislature may grant rather than a constitutional requirement; the question is what the Court holds.
-    > Answer before: OT2024, Mahmoud v. Taylor.
-
-### 4.7 Delegation and denominational lines
-
-35. When does a public role given to a religious body, such as initial coverage decisions in a public health program, the operation of a charter school or a foster-care contract, become the delegation of civil authority that Kiryas Joel and Larkin forbid? Kiryas Joel did not condemn every special arrangement and preserved neutral services. Children's Healthcare Is a Legal Duty v. Min De Parle, on the OT2000 list, presents coverage decisions by religious institutions.
-    > Answer before: OT2020, Fulton v. City of Philadelphia; OT2024, Oklahoma Statewide Charter School Board v. Drummond.
-36. May eligibility for a public benefit or exemption turn on a religious objection, or on how religious an organization's activities are? Kiryas Joel and Larson forbid denominational preference, and Agostini keeps strict scrutiny for denominational classifications and forbids government to govern theology. Does a test asking whether a charity proselytizes or serves only its coreligionists discriminate among faiths?
-    > Answer before: OT2004, Cutter v. Wilkinson; OT2024, Catholic Charities Bureau, Inc. v. Wisconsin Labor and Industry Review Commission.
-
-### 4.8 RFRA and RLUIPA
-
-37. Is RFRA a valid exercise of congressional power as applied to federal law? Boerne decided only its State and local reach; Adams and Browne applied federal RFRA without deciding its validity.
-    > Answer before: OT2005, Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal.
-38. Does a statute requiring prisons to accommodate religious exercise violate the Establishment Clause? Agostini treats restoring exercise restricted by custody as an accommodation question, and Kiryas Joel and Amos allow accommodation beyond what free exercise requires, short of denominational allocation.
-    > Answer before: OT2004, Cutter v. Wilkinson.
-39. How specific must the government's RFRA showing be? This Court requires proof as applied to the claimant, with concrete alternatives and legally comparable exceptions, and held that a conceded collection interest and the need for uniform taxation do not complete it (Adams, Browne, Stone dissenting). Do congressional findings about a dangerous drug or a treaty obligation settle the showing?
-    > Answer before: OT2005, Gonzales v. O Centro Espirita Beneficente Uniao do Vegetal.
-40. Is a for-profit corporation a person exercising religion under RFRA, and how much weight do burdens on employees and other third parties carry? Swanner held that commercial participation does not forfeit protection; United States v. Lee and American Life League give third-party injury and access real weight; Stone dissented from both RFRA remands. Stone's planned principle that an accommodation may not shift costs onto identified third parties frames the question but does not answer it.
-    > Answer before: OT2013, Burwell v. Hobby Lobby Stores, Inc.; OT2015, Zubik v. Burwell; OT2019, Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania.
-41. Who decides whether a burden is "substantial": the claimant's account of moral complicity, or the court? No case here has found a substantial burden; each RFRA remand left it to be established.
-    > Answer before: OT2015, Zubik v. Burwell.
-42. Does RFRA authorize, or require, agencies to create religious exemptions from a statutory duty, and must they account for those who lose a statutory benefit? American Life League holds that RFRA reaches later federal statutes unless Congress expressly excludes it.
-    > Answer before: OT2019, Little Sisters of the Poor Saints Peter and Paul Home v. Pennsylvania.
-43. Does RFRA's "appropriate relief" include damages against individual federal officials? Clearwater and Swanner reserved retrospective monetary liability, and Browne left the relief language undecided.
-    > Answer before: OT2020, Tanzin v. Tanvir.
-44. How much deference do prison officials' security judgments receive under a least-restrictive-means test, including for grooming rules and for a spiritual adviser's presence, touch and audible prayer in the execution chamber?
-    > Answer before: OT2014, Holt v. Hobbs; OT2021, Ramirez v. Collier.
-
-### 4.9 Church autonomy, ministers and workplace accommodation
-
-45. Who is a minister? Young rested on an undisputed ministerial role and adopted no definition. Do function, title, training and commissioning each matter, and does teaching religion for part of the day suffice? Stone's planned principle (function over title, with the institution bearing the burden of showing the function) frames the question but does not answer it.
-    > Answer before: OT2011, Hosanna-Tabor Evangelical Lutheran Church and School v. Equal Employment Opportunity Commission; OT2019, Our Lady of Guadalupe School v. Morrissey-Berru.
-46. How far does the defense reach beyond Title VII selection claims: to retaliation under other statutes, to harassment and contract claims, and to a claimed fraud or collusion exception? Young left severable secular claims outside the defense and reserved fraud or collusion.
-    > Answer before: OT2011, Hosanna-Tabor Evangelical Lutheran Church and School v. Equal Employment Opportunity Commission.
-47. Does Hardison's more-than-de-minimis threshold remain the measure of undue hardship? Beadle, Brown v. Polk County, Opuku-Boateng and Chalmers apply it and Chalmers says no heightened standard replaces it. May burdens on coworkers count, given that Chalmers accepts concrete third-party burdens but not offense alone? Stone dissented in Beadle on the facts and would have required trial in Chalmers.
-    > Answer before: OT2022, Groff v. DeJoy.
+- Smith, Lukumi and applicable statutes require separate analyses. What comparable secular harm, discretionary exception, religious targeting or actual burden is shown? Free exercise protects conscience without a general exemption from ordinary civil law.
+- A statutory exemption, a ministerial defense and a public-contract condition have different sources and scopes. In an employment case, who qualifies under the enacted text, what duties are genuinely religious leadership, and which secular claims remain judicially manageable? Amos cannot be narrowed silently.
+- Where Stone seeks a stronger workplace accommodation standard than the completed Hardison line, identify the statutory reason for changing it and the precise displaced rule. Institutionally manageable expense differs from loss of another person's rights or serious involuntary burdens.
+- An accommodation must preserve affected people's enforceable entitlements and practical access. Available, lawful and effective alternatives matter; neither a claimant's sincerity nor a generalized appeal to third-party cost settles the statutory showing.
+- For tax treatment, compare the challenged exemption's actual conditions with the relevant secular provisions. Broad ordinary exemptions differ from a religious-status privilege; refund prerequisites, preserved provisions and lawful remedies limit the case that can be decided.
