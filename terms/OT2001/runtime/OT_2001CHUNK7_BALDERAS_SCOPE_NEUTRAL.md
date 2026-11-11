@@ -1,0 +1,11 @@
+# Balderas — appellate scope support
+
+The supplied event reviews the congressional judgment. That supplied limit remains the scope of this event. Historical papers also discussed the state Senate judgment; their presence does not enlarge the supplied review to a different map.
+
+The recovered appellants' jurisdictional statement identifies three questions: whether proposed districts with Latino majorities among registered voters satisfy the numerical capacity inquiry; whether the compactness rejection is consistent with the court's treatment of other districts; and whether the stated rejection of unequal opportunity is supported by adequate findings after trial. These are source-supported issues, not an inference from the broad trial complaint.
+
+For the congressional claim, appellants argue that their seven proposed South Texas districts had Latino registered-voter majorities and that the lower court applied an inadequately explained, more demanding population standard. They challenge the independence and adequacy of the compactness and totality explanations. The statement's description of its own proof is advocacy; this supplement makes no finding that the proposals meet every requirement, are geographically workable, or establish a violation.
+
+The source supports appellate presentation of the population-measure, compactness and findings issues. It does not by itself establish a separately proved crossover district, entitlement to an extra district, or the ultimate force of an appellee's contrary account. The governing capacity rule and the distinction between numerical and functional proof continue to come from the entering law. Any remand must identify the claims and evidence properly within the supplied congressional scope and apply the correct rule without converting an unsupported research inference into waiver, default, or a merits fact.
+
+Source: appellants' jurisdictional statement, questions presented and congressional discussion at printed pages 5–6 and 8–10, recovered from the docket's Records and Briefs collection. The complete source is retained by control in `sources/chunk7-comparator/balderas-paper-1.pdf` and its script-extracted text. This neutral supplement contains no later Court action or comparator.

@@ -6,7 +6,7 @@ The opening authorities are the [23 canonical Holdings volumes](../../../state/h
 
 The divergence point is October 7, 1991, when Chief Justice Alex-Lamar Stone-Zsela replaces Rehnquist. [Court Composition](../../../foundation/COURT_COMPOSITION.md) governs roster, seniority and allotments. No vacancy or oath-date condition applies at this opening.
 
-94 scheduled Court events in chunks 1–6 are completed; 30 inventory matters remain open. The latest processed event date is 2002-06-17. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
+112 scheduled Court events in chunks 1–6 and chunk 7 are completed; 15 inventory matters remain open. The latest processed event date is 2002-06-20. All uncoordinated matters on a shared date use the common entering-law baseline immediately before that date, including across chunk boundaries. Processing and authorship assignment order create no legal priority. Later uncoordinated matters sharing the latest event date use that date's common preceding baseline. Romeu remains completed at its February 19 calendar position; its prospective equality relief operates from that date.
 
 ## Current law available before the next event
 
@@ -608,7 +608,7 @@ Title VI's direct prospective action and §1983's individual-right inquiry remai
 
 Holdings, authority, qualifications, precedent treatment and remedy: [exact public law](../entering-law/OT_2001CHUNK5_PUBLIC_LAW.md#South-Camden-Citizens-in-Action-v-New-Jersey-Department-of-Environmental-Protection-Merits-2002-05-28).
 
-The next eligible scheduled group is 2002-06-17: Carey v. Saffold; Horn v. Banks; Leventhal v. Knapek; Ticknor v. Choice Hotels International, Inc.; United States v. Drayton; United States v. Emerson; United States v. Fior D'Italia, Inc.; United States v. Hooper. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.
+The next eligible scheduled group is 2002-06-20: United States v. Angle. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.
 
 ### Compaq Computer Corp. v. Commissioner — 2002-05-28
 
@@ -699,6 +699,114 @@ Exact public holding, authority, treatment and remedy: [public law](../entering-
 The broad advance-registration and permit system cannot govern the reviewed ordinary noncommercial religious and political advocacy. Free, routine issuance reduces some burdens but does not establish adequate fit for compulsory public identification and loss of spontaneous access to willing listeners. The rule preserves resident-controlled exclusion and targeted enforcement, and establishes neither a universal ban on permits nor an independent religious-exercise rule.
 
 Exact public holding, authority, treatment and remedy: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#watchtower-bible-tract-society-v-village-of-stratton-merits-2002-06-17).
+
+### Balderas v. Texas — 2002-06-17
+
+The congressional judgment and Plan 1151C stand. Existing single-group capacity law continues unchanged: dependable functional capacity may satisfy the first condition, but a claimant must establish the remaining statutory conditions and unequal opportunity. The action establishes no new capacity, compactness, totality or preservation test. The sufficiency of these findings has no majority explanation that can be extended into a general rule. Distinct-group coalition entitlement, influence-only entitlement and a universal population or statistical formula remain outside the question resolved here. No later New Jersey judgment is decided or predicted by this disposition.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#balderas-v-texas-summary-2002-06-17).
+
+### Carey v. Saffold — 2002-06-17
+
+Timely ordinary state collateral review remains pending between qualifying successive-level filings, including California original petitions performing that function. State timeliness and proper filing continue to constrain the exclusion. The decision settles the interval rule without finding this federal petition timely; that application and all remaining habeas requirements must be adjudicated separately. A merits reference creates no automatic timeliness override or new equitable entitlement.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#carey-v-saffold-merits-2002-06-17).
+
+### Horn v. Banks — 2002-06-17
+
+Existing habeas gates retain distinct functions. A favorable §2254(d) determination cannot support a grant while a preserved, potentially dispositive Teague defense remains unresolved. Courts may still deny relief on an independently sufficient ground without deciding every alternative. Both contemporary Teague exceptions and ordinary preservation requirements remain; the decision announces no new retroactivity or mitigation rule.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#horn-v-banks-merits-2002-06-17).
+
+### Leventhal v. Knapek — 2002-06-17
+
+Public-employer computer inspections are subject to retained privacy and a seven-Justice inception-and-scope rule for work-related misconduct investigations. Eight Justices uphold these limited inspections, with Scalia reaching that application under his separate employer rationale. No blanket computer, ownership, anonymous-tip or repeated-access exception results. Personal immunity remains governed by existing conduct-date law; it is not a controlling alternative ground for this merits judgment.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#leventhal-v-knapek-merits-2002-06-17).
+
+### Ticknor v. Choice Hotels International, Inc. — 2002-06-17
+
+FAA coverage does not displace this supported general-contract defense. Montana's complete conflicts requirements and substantive unconscionability test govern the actual clause; the Court adds no federal reciprocity requirement or universal rule against form contracts, distant arbitration or unequal remedies. The refusal to compel is confined to this bargain and proof; franchise liability and damages remain for ordinary adjudication.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#ticknor-v-choice-hotels-international-inc-merits-2002-06-17).
+
+### United States v. Drayton — 2002-06-17
+
+Bostick's contextual test continues unchanged, with this five-Justice no-seizure application to both respondents. The disposition removes the detention-taint basis of suppression and decides neither independent consent nor a new suspicion theory. Police number and positioning remain relevant; neither a passable aisle nor absence of a warning is a categorical rule.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-drayton-merits-2002-06-17).
+
+### United States v. Emerson — 2002-06-17
+
+Section 922(g)(8)'s force-prohibition alternative can rest on the defined threat-order adjudication without an express credible-threat sentence or completed assault. The six-Justice holding extends Napier at that scope; it does not validate every divorce injunction or replace Wright with general reasonableness. The operative hearing, actual protective legal standard, targeted injury restraint, federal burden and continuing order dependence remain material. Ordinary collateral relitigation and constitutional review of the additional federal restriction remain distinct. Statutory satisfaction does not conclusively establish constitutionality, and rejection of the present pretrial defenses does not establish criminal guilt.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-emerson-merits-2002-06-17).
+
+### United States v. Fior D'Italia, Inc. — 2002-06-17
+
+The IRS may reasonably estimate an employer's aggregate taxable tips without prior employee assessments. Each substantive exclusion, annual base and notice-and-demand timing rule remains enforceable. In a case presenting accuracy, the taxpayer may demonstrate that the method lacks a reasonable foundation. This case ends the categorical authority challenge on its stipulated factual submission.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-fior-ditalia-inc-merits-2002-06-17).
+
+### United States v. Hooper — 2002-06-17
+
+An after-arising community interest in these proved proceeds fails the vested-or-superior protection at the statutory time. Antecedent qualifying interests and qualifying purchases for value retain their separate protections, and successful statutory proof requires amendment of forfeiture. Independently lawful spousal property remains outside this confined judgment.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-hooper-merits-2002-06-17).
+
+### Atkins v. Virginia — 2002-06-20
+
+Established intellectual disability removes death as a lawful punishment. Conviction and lawful noncapital punishment remain available. Reliable implementation must evaluate intellectual functioning, adaptive limitations and developmental onset together. Detailed proof allocation, diagnostic procedure, retroactivity in another collateral case and other disability categories are outside the present resolution.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#atkins-v-virginia-merits-2002-06-20).
+
+### Christopher v. Harbury — 2002-06-20
+
+A backward-looking access theory cannot proceed without the identified arguable underlying action, causally lost opportunity and distinct available relief. The present complaint fails both identification and, even as clarified, the distinct-remedy requirement. Recognition of the assumed constitutional damages category remains unnecessary to the judgment.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#christopher-v-harbury-merits-2002-06-20).
+
+### City of Columbus v. Ours Garage & Wrecker Service, Inc. — 2002-06-20
+
+Authorized municipalities may exercise the State's saved motor-vehicle safety authority. Neither independent municipal sovereignty nor a general local economic-regulation exception follows. Each challenged provision requires its own authorization, safety and remaining-preemption analysis.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#city-of-columbus-v-ours-garage-wrecker-service-inc-merits-2002-06-20).
+
+### Dadian v. Village of Wilmette — 2002-06-20
+
+Necessary reasonable driveway modifications remain enforceable under the FHAA and ADA Title II on individual proof. The Village must substantiate an asserted direct threat; objective safety and effective alternatives remain relevant. The existing front-driveway permit relief stands without a general land-use exemption.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#dadian-v-village-of-wilmette-merits-2002-06-20).
+
+### Gonzaga University v. Doe — 2002-06-20
+
+The asserted FERPA nondisclosure claim cannot proceed through Section 1983 because these provisions do not establish the required judicially enforceable entitlement. Existing law continues to distinguish right creation, the enacted Section 1983 channel, implied statutory actions and incompatible remedial displacement. No broader rights formula commands five votes in this decision.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#gonzaga-university-v-doe-merits-2002-06-20).
+
+### Page v. Bartels — 2002-06-20
+
+The governing statutory framework permits changes to racial population shares when the actual results claim fails a necessary electoral condition; it creates neither a numerical safe harbor nor a right to maximize seats. The separately pleaded intentional statutory theory and the constitutional claims remain distinct, each resolved on its own supported failure of proof. Constitutional protection extends equally to every race and preserves material participation injury independently of election success. The existing territorial-design boundary remains unchanged.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#page-v-bartels-summary-2002-06-20).
+
+### Robertson v. Bartels — 2002-06-20
+
+The nonparty rule remains grounded in actual authority to bind a person's rights. The constitutional territorial-design rule covers the actual incumbent-prospect theory when the claimed benefit consists of the same district composition; it does not immunize a different racial allocation of eligibility, civic status or participation. Both claims can be rejected while assuming favorable racial-motive inferences, without resolving the disputed relative weight of motives or endorsing every rationale below.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#robertson-v-bartels-summary-2002-06-20).
+
+### Rush Prudential HMO, Inc. v. Moran — 2002-06-20
+
+The saved-insurance-condition rule now includes this mandatory independent determination of medical necessity within insured coverage. The resulting benefit is enforceable under §502(a)(1)(B), with the federal remedial limits unchanged. Neither HMO status nor the label independent review creates a general exemption from ERISA; the operation of another system and any actual federal conflict require their own analysis.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#rush-prudential-hmo-inc-v-moran-merits-2002-06-20).
+
+### Utah v. Evans — 2002-06-20
+
+Completed apportionment certificates do not make the responsible census determination immune from correction of legal error. The Census Act and Enumeration Clause permit the described residual, geographically grounded completion of a genuine enumeration. The constitutional reasonable-relationship standard is applied without requiring proof of perfect or guaranteed improvement. The decision adds this method-specific statutory permission without settling the general construction of §195 or authorizing every inference method.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#utah-v-evans-merits-2002-06-20).
 
 ## Material published noncontrolling positions
 
@@ -1292,6 +1400,134 @@ Thomas concurs in the judgment. His McIntyre concurrence grounds anonymous advoc
 
 Published authors and joins: [public law](../entering-law/OT_2001CHUNK6_PUBLIC_LAW.md#watchtower-bible-tract-society-v-village-of-stratton-merits-2002-06-17).
 
+### Balderas v. Texas — 2002-06-17
+
+**Stone-Zsela, concurring in the judgment.** Part I maintains Valdespino's two capacity routes and the surviving statutory conditions. Rigorous proof means reliable proof of dependability under the ordinary preponderance burden, not a higher burden, compulsory study, fixed winning percentage or permanent coalition. A single group's outside electoral support differs from aggregation of separate protected groups.
+
+Part II finds the appeal's majority-registration, compactness and findings objections insufficient to require vacatur. Appellants offered election-performance evidence, including reaggregated contests and cross-examination; their case was not devoid of functional proof. But they sought seven registered-voter-majority districts and argued that those proposals exceeded the existing majority threshold. Evidence offered to prove those districts effective does not itself establish that a preserved claim was rejected solely because a protected group lacked a numerical majority. No particular terminology is required to preserve an issue; the material legal objection must actually be presented.
+
+The lower court's findings about practical effectiveness and geography, read with the trial, independently sustain the judgment. Competing testimony addressed marginal districts, turnout and the proposed electorate; selected victories in Plan 1099C did not conclusively establish performance of every district in Plan 1123C. The geographic dispute included corridors, community relationships and subdivision boundaries, not shape alone. Comparative scores were relevant but did not compel a finding of workable geography. The findings are brief, yet identify grounds sufficient for review without adopting every appellate characterization of the testimony. The separate multigroup-cohesion finding does not answer a single-group crossover claim. Neither partisan convenience nor statewide gains could excuse proved local deprivation; the required violation was not established on the independent grounds here. Plan 1151C and the 2002 election under it remain undisturbed.
+
+**O'Connor, concurring in the judgment; Kennedy joins Part I only.** Part I regards the trial court's practical-effectiveness and geography findings as sufficient when read with the record. The competing testimony concerns whether the additional arrangement would yield actual electoral opportunity, including marginality, turnout and the proposed electorate. Registration majorities do not answer those questions, and a geometric comparison does not by itself establish lawful compactness. Rule 52(a) requires an intelligible factual basis; it does not require discussion of every exhibit. The opinion's brevity presents a serious objection, but these findings permit review and sustain the judgment. This conclusion requires neither a numerical safe harbor nor rejection of Valdespino. Voinovich supplies the distinction between a State's choices and a federally compelled district; De Grandy supplies the need for proof beyond the necessary conditions.
+
+In Part II, O'Connor also accepts the lower court's contextual totality determination as a sufficient basis for rejecting the requested additional district. That is an assessment of the actual opportunity shown in this record, not a conclusive defense based on statewide proportionality. Kennedy does not join this further account; his agreement is confined to the independent practical-effectiveness and geographic grounds in Part I.
+
+**Thomas, concurring in the judgment, joined by Scalia.** Consistent with their positions in Holder v. Hall and De Grandy, they conclude that Section 2 does not authorize the asserted judicial allocation of districts to remedy this form of vote dilution. That antecedent statutory ground is sufficient to affirm. They accept the court's authority to replace an unconstitutionally malapportioned plan, but they do not join either capacity route or a finding that these plaintiffs failed the governing dilution framework. The actual electoral-performance evidence does not answer their statutory objection.
+
+**Souter, dissenting, joined by Stevens, Ginsburg and Breyer.** Part I expressly accepts the existing capacity rule and independent-ground limits stated in Stone-Zsela's Part I. Part II would vacate only the congressional rejection of the appealed additional Latino-opportunity arrangement and remand for application of that rule with sufficiently identified findings. The appeal affirmatively presents performance evidence, comparative geography and an objection to the adequacy of the findings. Its majority-registration framing does not eliminate the need to determine what the court decided about that evidence under current law.
+
+The lower opinion links its conclusions to a majority-citizenship requirement and does not sufficiently explain why the proposed arrangement fails independently. The appellees' account of marginality and geography could support a lawful judgment, but cannot substitute for identifiable trial findings. Four selected victories do not prove dependable capacity, and a compactness score does not prove legal compactness; neither can be treated as absent. Plan 1099C testimony and Plan 1123C data must remain distinct. De Grandy requires an independent totality judgment, not repetition of a disputed capacity conclusion. The separate finding about cohesion between protected groups does not dispose of single-group outside support. The proposed remand would preserve supported findings and plaintiffs' burden, require explanation of any sufficient independent ground, and permit supplementation only under ordinary procedural rules. It would neither mandate an additional district nor reopen the entire trial or disturb the 2002 election under the operative plan.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#balderas-v-texas-summary-2002-06-17).
+
+### Carey v. Saffold — 2002-06-17
+
+**Kennedy, dissenting, joined by Scalia and Thomas.** Section 2244(d)(2) protects a pending application. Once a California original application is finally denied, a later petition initiating another original proceeding has not yet been filed during the gap. Artuz's application-level distinction and Duncan's attention to statutory categories support that reading. An actual timely appeal may continue disposition of the original application; California's later original petition is different. Functional resemblance and the policy favoring exhaustion cannot make a future application already pending. The dissent accepts that the State's selected procedure may consequently affect the federal calculation but regards that consequence as the enacted distinction. It agrees that an alternative merits ruling does not establish timely filing. It would reverse the interval-exclusion rule and return for the actual calculation, preserving independently available timing grounds on their own predicates.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#carey-v-saffold-merits-2002-06-17).
+
+### Leventhal v. Knapek — 2002-06-17
+
+**Scalia, concurring in part and in the judgment.** He joins retained privacy and the actual reasonableness determination, but not a general account making workplace privacy depend on unrestricted case-by-case managerial balancing. His Ortega concurrence protects government offices while allowing ordinary, reasonable searches that a private employer could undertake to retrieve work material or investigate workplace-rule violations. These confined program inspections meet that rule. They require neither police powers nor fictional blanket employee consent.
+
+**Stevens, concurring in part and in the judgment.** He joins retained privacy but maintains the objection to deliberate warrantless evidentiary investigation that he adopted in the Ortega dissent. The indirect complaint and subsequent inspections do not satisfy that view. He nevertheless affirms the personal judgment under Guest's governing objective immunity rule: the opposing Ortega plurality and concurrence supplied substantial support for such reasonable workplace investigations, so their unlawfulness was not clearly established in 1996–1997. His contrary constitutional view did not establish binding notice. Harlow, Anderson, Elder and Wilson require the actual conduct-date inquiry, not proof that the officers personally consulted precise authorizing precedent. Later privacy decisions supply no retrospective notice. This personal defense supplies no immunity to an institution or merits approval of every search.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#leventhal-v-knapek-merits-2002-06-17).
+
+### Ticknor v. Choice Hotels International, Inc. — 2002-06-17
+
+**O'Connor, dissenting, joined by Scalia, Kennedy and Thomas.** They accept FAA coverage, genuinely general defenses and Montana's complete conflicts rule. They disagree with the application. Supported nonnegotiability is not synonymous with oppression, and the agreement reserves only indemnification, money-collection and trademark-injunction claims, which may reflect distinct obligations. Choice remains bound to arbitrate other disputes. The commercial alternatives, actual expectations and practical effect require fuller and more accurate legal assessment. Casarotto does not invalidate every asymmetric clause, and First Options preserves clear-error review of historical findings rather than allowing an appellate assumption that addenda prove negotiation. Green Tree's insistence on a demonstrated impediment supports scrutiny of the actual defense, not categorical enforcement. They would remand for accurate, evenhanded conflicts and enforceability analysis, retaining supported findings and independent party limits; they would not compel automatic arbitration of every claim or guarantor.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#ticknor-v-choice-hotels-international-inc-merits-2002-06-17).
+
+### United States v. Drayton — 2002-06-17
+
+**Souter, dissenting, joined by Stone-Zsela, Stevens and Ginsburg.** They accept Bostick's objective totality inquiry and reject any indispensable refusal warning. They disagree about the combined message. An officer facing passengers from the front, two colleagues moving from the rear, close requests to seated passengers and announcement of an interdiction operation communicated expected submission before travel resumed. The driver's absence and travel arrangements supplied context, not police seizure by themselves. Quiet voices, concealed weapons and a passable aisle weigh for the Government but do not overcome that coordinated display. Both respondents were already subject to it before Brown's arrest; the arrest intensified the pressure on Drayton. No physical blockade or express command was necessary. Without an adequate independent justification, the continuous restraint was unlawful, and no release or intervening event separated the immediate searches from it. They would preserve suppression on that taint ground and return for the consequences appropriate to Brown's conditional plea and Drayton's trial conviction, without acquittal, an independent consent holding or a new Terry theory.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-drayton-merits-2002-06-17).
+
+### United States v. Emerson — 2002-06-17
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins individual coverage and the statutory alternatives. An actual civil danger adjudication may suffice without a criminal conviction or a particular formula, but complete private-possession disarmament burdens the core of the right. He would overrule Napier's intermediate-scrutiny classification to the extent it avoids strict scrutiny for that complete deprivation. Wright, in his view, requires a compelling protective interest, narrow tailoring and no comparably effective, materially less restrictive alternative.
+
+Preventing lethal domestic violence is compelling. The hearing, specific threat, bodily-injury restraint and Texas protective standard matter, but do not conclusively establish the fit of every-possession prohibition. He would return the constitutional application for assessment of actual individualized risk, duration, review mechanisms and supported narrower conduct or access restrictions. Such alternatives may be inadequate if continued firearm access preserves the danger; that must be assessed rather than assumed. Existing materials may suffice, with additional proceedings only if needed. If the Government makes the required showing the prosecution may proceed subject to all elements; otherwise the unconstitutional application must be dismissed. The remand would not automatically retry the divorce dispute. He agrees in the judgment rejecting the independent Fifth Amendment dismissal ground without joining its reasoning.
+
+**Scalia, concurring in part and dissenting in part, joined by Thomas.** They join coverage, the statutory alternatives and the fair-warning holding. Their Napier position requires actual justification of the full possession burden even where a civil order lawfully restrains violence. The hearing and Texas protective standard support a serious affirmance argument, but do not themselves complete that federal constitutional inquiry. They would vacate the arms application for restriction-specific review under Wright and Napier, considering the actual protective basis and operation of the entire disability. They do not require completed violence, a criminal conviction or the (C)(i) words, and do not adopt a rule that every individual restriction requires strict scrutiny. Nor do they find the hearing defective, disbelieve the wife or require automatic additional evidence. Ordinary further proceedings are permitted as needed; their proposed return is not immediate dismissal, acquittal or firearm restoration.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-emerson-merits-2002-06-17).
+
+### United States v. Fior D'Italia, Inc. — 2002-06-17
+
+**Souter, dissenting, joined by Scalia and Thomas.** Section 6201 authorizes assessment of the tax Congress imposed; it does not replace the employee-based taxable wages specified by Section 3121(q) with restaurant-wide receipts. The monthly exclusion, annual bases and notice-and-demand structure require determinations tied to the recipient before the employer's liability is computed from them. Estimates of particular employees' taxable wages remain possible. The dissent reserves whether a formal employee audit must precede the employer action; it does not adopt a collection or benefits-credit prerequisite. Accurate aggregate factual estimates do not resolve the disputed legal method, so the restaurant's stipulation does not concede authority. Cleveland Indians separates the applicable annual tax limits from other functions, while United Dominion's aggregation followed that different statutory scheme. The dissent would affirm the refund judgment on the employee-based determination ground, without finding numerical error or an abusive motive.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-fior-ditalia-inc-merits-2002-06-17).
+
+### United States v. Hooper — 2002-06-17
+
+No separate opinion is filed.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#united-states-v-hooper-merits-2002-06-17).
+
+### Atkins v. Virginia — 2002-06-20
+
+**Scalia, dissenting, joined by Thomas.** The domestic record does not establish the objective constitutional rejection required to overturn Penry. Fewer than half of capital-punishment States adopted the asserted rule, several enactments are recent or prospective, and their exceptions and definitions matter. States without capital punishment do not independently decide which offenders may be executed. The majority's independent penal judgment replaces legislative choice and juries' individual assessment; serious crimes and variation within the clinical class weaken a categorical culpability conclusion. Polling, foreign practice and professional submissions neither establish the controlling domestic legal standard nor provide a tested substitute. The dissent would preserve individualized mitigation and affirm against this categorical challenge; it does not resolve the contested diagnosis.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#atkins-v-virginia-merits-2002-06-20).
+
+### Christopher v. Harbury — 2002-06-20
+
+**Thomas, concurring in the judgment.** The Constitution does not impose the information duty asserted here: officials need not provide national-security information or answer informal requests in the claimed manner. That narrower objection suffices to reject this access count. The affirmative practical-assistance obligation addressed in Lewis concerned persons in custody and does not create this outside-custody duty. Thomas does not join the Court's assumed-right framework or its two alternative analyses, and does not assert a general license to obstruct actual judicial proceedings.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#christopher-v-harbury-merits-2002-06-20).
+
+### City of Columbus v. Ours Garage & Wrecker Service, Inc. — 2002-06-20
+
+**Scalia, dissenting, joined by O'Connor.** Congress expressly named States and political subdivisions in the broad prohibition and in selected exceptions but named only the State in this safety reservation. That difference should control. Mortier involved a statute lacking the same express institutional contrast, so ordinary delegation cannot erase the choice made here. The dissent would affirm the categorical exclusion of independent municipal regulations under this exception. It does not forbid local enforcement of valid state rules or purport to invalidate every generally applicable traffic law.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#city-of-columbus-v-ours-garage-wrecker-service-inc-merits-2002-06-20).
+
+### Dadian v. Village of Wilmette — 2002-06-20
+
+No separate opinion is filed.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#dadian-v-village-of-wilmette-merits-2002-06-20).
+
+### Gonzaga University v. Doe — 2002-06-20
+
+**Breyer, concurring in the judgment, joined by Souter.** This statute's broad education-record coverage, uncertain reach in practical administration and institutional policy-or-practice structure do not establish the asserted judicially enforceable privacy entitlement. That FERPA-specific conclusion is sufficient. A new general demand for language proving intent to authorize a private remedy would blur the separate question whether Congress already supplied enforcement through Section 1983. Administrative consistency informs the interpretation of this particular obligation; it does not independently extinguish a right already found.
+
+**Stone-Zsela, dissenting, joined by Stevens and Ginsburg.** FERPA identifies covered records, persons whose consent controls and authorized disclosures. Under Blessing, those terms define a manageable personal privacy entitlement. The policy-or-practice condition limits the violation; it does not make the student merely an incidental beneficiary. The protected education records contain information directly related to a student and are maintained by the institution or a person acting for it. Consent rights pass from the parent to the student upon reaching eighteen or attending a postsecondary institution. A claimant must still establish the required institutional policy or practice and an unauthorized disclosure under the enacted exceptions, together with Section 1983's independent predicates; the dissent does not decide any disputed statutory violation beyond the granted enforceability issue. Central correction and funding sanctions neither expressly exclude that channel nor supply an incompatible individual remedial substitute. Unlike Powell's regulation-created claim, the asserted entitlement arises from the statute. Sandoval addresses a different direct enforcement route; the absence of an implied FERPA action does not defeat Congress's existing Section 1983 remedy. State action is assumed solely within the grant limit. The dissent would affirm the federal enforceability ruling without adding damages or reopening state-law awards.
+
+**The four-Justice lead opinion.** Thomas, joined by O'Connor, Scalia, Kennedy, reads FERPA's policy-or-practice funding condition as an institutional obligation administered through federal oversight rather than the asserted individual nondisclosure entitlement. Mandatory wording, identified records and consent instructions do not alone change that statutory object. Blessing requires a particular individual right; Bruneau preserves Section 1983 once that right is established but does not create it here. This analysis does not make funding statutes categorically unenforceable, treat absence of an implied action as dispositive, or establish automatic administrative foreclosure. Breyer and Souter agree with the judgment under their narrower explanation and do not join the lead opinion.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#gonzaga-university-v-doe-merits-2002-06-20).
+
+### Page v. Bartels — 2002-06-20
+
+**Thomas, concurring in part and in the judgment, joined by Scalia.** They agree that the reviewed denial of relief should be affirmed and join the constitutional dispositions. They would reject the statutory district-allocation claim because Section 2 does not authorize that asserted entitlement. Their Valdespino and Balderas positions limit the statute to voting access, casting and counting rather than judicial allocation of districts. Conditional acceptance that ordinary factual review would sustain the judgment if the Gingles framework applied is not a direct join in the Court's statutory analysis or either capacity route. Their separate statutory ground does not establish a numerical-majority rule or displace the Court's governing framework.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#page-v-bartels-summary-2002-06-20).
+
+### Robertson v. Bartels — 2002-06-20
+
+**Kennedy, concurring in part and dissenting in part, joined by O'Connor, Scalia and Thomas.** They join rejection of the stated nonparty-preclusion ground but would vacate summary judgment on Counts I and II for consideration under their proposed predominant-racial-assignment rule. Following their Easley position, they regard governmental racial assignment as unequal treatment when race actually predominates, without requiring an additional electoral loss. Bartels's express minority-incumbent protection commitment permits a reasonable inference about racial priority. A regular map and the presence of other criteria do not conclusively defeat that inference on summary judgment. The proposed remand would assess the relative role of race and any required justification under ordinary procedure. It would not find predominance or a violation established, order new boundaries, or guarantee a trial. This opinion seeks reconsideration of the Court's territorial-design boundary; it does not describe that proposed rule as existing law.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#robertson-v-bartels-summary-2002-06-20).
+
+### Rush Prudential HMO, Inc. v. Moran — 2002-06-20
+
+**Thomas, dissenting, joined by Scalia and Kennedy.** The dissent would reverse the preemption ruling and return the benefits claim for determination through ERISA's process without treating the outside physician's decision as binding. It assumes that the State regulates insurance but concludes that the compulsory determination is an incompatible alternate remedial mechanism. Unlike the notice-prejudice condition sustained in UNUM, the reviewer determines the disputed obligation through an external adjudication that replaces the plan's decision. Pilot Life's remedial exclusivity and Great-West's insistence on the enacted enforcement boundaries remain decisive even when the subject is insured coverage. The dissent accepts ordinary saved insurance terms; its objection is the binding substitute process. It would neither decide medical necessity itself nor categorically deny Moran benefits.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#rush-prudential-hmo-inc-v-moran-merits-2002-06-20).
+
+### Utah v. Evans — 2002-06-20
+
+**O'Connor, concurring in part and dissenting in part, joined by Scalia.** They join the standing holding but would reverse under §195 and remand for lawful agency correction through the statutory sequence. In their view, donor information substitutes an inferred population for information never observed, and choosing donors late, nonrandomly or for only a small residual group does not remove the technique from the statutory sampling restriction. The prior permission for two other designs binds those designs but does not settle this different method. They reserve the constitutional question and would leave any corrected count and allocation to the lawful official process.
+
+**Thomas, concurring in part and dissenting in part.** He joins standing and statutory permission, agreeing that this imputation falls outside the statutory sampling restriction. He would nevertheless reverse because the Constitution requires an actual count rather than adding persons through donor inference, especially where the existence or occupancy of the unit is unresolved. He disagrees with extending Department of Commerce's constitutional permission and with its rejection of a count-based limit to the extent necessary. His position is a dissent from that governing premise, not a description of the current rule. He would remand for lawful agency correction rather than judicially specify a replacement number.
+
+Exact holdings, authority, precedent treatment and remedy: [public law](../entering-law/OT_2001CHUNK7_PUBLIC_LAW.md#utah-v-evans-merits-2002-06-20).
+
 ## Court, seniority and participation
 
 | Seniority | Justice | Office | Seat | Supreme Court service began | Current office began | Source and effective date |
@@ -1415,6 +1651,44 @@ US Airways, Inc. v. Barnett: All nine Justices participate at argument and decis
 
 **Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton:** All nine Justices participated at argument and decision.
 
+### Completed chunk 7 participation
+
+**Balderas v. Texas:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in consideration of the papers and the decision. There was no oral argument. No Justice is recused.
+
+**Carey v. Saffold:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**Horn v. Banks:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**Leventhal v. Knapek:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**Ticknor v. Choice Hotels International, Inc.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**United States v. Drayton:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**United States v. Emerson:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated in submission and decision. No Justice is recused.
+
+**United States v. Fior D'Italia, Inc.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision. No Justice is recused.
+
+**United States v. Hooper:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No Justice is recused.
+
+**Atkins v. Virginia:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No recusal or vacancy affects the case.
+
+**Christopher v. Harbury:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No recusal or vacancy affects the case.
+
+**City of Columbus v. Ours Garage & Wrecker Service, Inc.:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No recusal or vacancy affects the case.
+
+**Dadian v. Village of Wilmette:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No recusal or vacancy affects the case.
+
+**Gonzaga University v. Doe:** Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at submission and decision. No recusal or vacancy affects the case.
+
+**Page v. Bartels:** All nine Justices participated in consideration of the papers and decision.
+
+**Robertson v. Bartels:** All nine Justices participated in consideration of the papers and decision.
+
+**Rush Prudential HMO, Inc. v. Moran:** All nine Justices participated at argument and decision.
+
+**Utah v. Evans:** All nine Justices participated at argument and decision.
+
 ## Circuit allotments
 
 The August 3, 1994 order remains in force.
@@ -1464,11 +1738,11 @@ Companion and related-matter references identify scheduling relationships only. 
 | 2002-03-27 | OT_2001CHUNK3, OT_2001CHUNK4 | 48, 49, 50, 51 | Common baseline immediately before this date. |
 | 2002-05-13 | OT_2001CHUNK4, OT_2001CHUNK5 | 63, 64, 65, 66, 67, 68 | Common baseline immediately before this date. |
 | 2002-05-28 | OT_2001CHUNK5, OT_2001CHUNK6 | 74, 75, 76, 77, 78, 79, 80 | Common baseline immediately before this date. |
-| 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102 | Common baseline immediately before this date. |
-| 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110 | Common baseline immediately before this date. |
+| 2002-06-17 | OT_2001CHUNK6, OT_2001CHUNK7 | 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 127 | Common baseline immediately before this date. |
+| 2002-06-20 | OT_2001CHUNK7, OT_2001CHUNK8 | 103, 104, 105, 106, 107, 108, 109, 110, 125, 126 | Common baseline immediately before this date. |
 
-The [manifest](manifest.md) preserves the remaining 30 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
+The [manifest](manifest.md) preserves the remaining 15 inventory matters, source fields and participation flags. Before using current-term law for any later event, select only the date-eligible public propositions and positions relevant to that event.
 
 Romeu v. Cohen returns through the Second Circuit for prospective federal declaratory and state injunctive relief and ordinary eligibility determinations under its February 19 holding. No additional Court event is scheduled for that remand.
 
-The next eligible scheduled group is 2002-06-17: Carey v. Saffold; Horn v. Banks; Leventhal v. Knapek; Ticknor v. Choice Hotels International, Inc.; United States v. Drayton; United States v. Emerson; United States v. Fior D'Italia, Inc.; United States v. Hooper. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.
+The next eligible scheduled group is 2002-06-20: United States v. Angle. Those uncoordinated matters use the baseline immediately before that date. Opinion assignments separately follow effective date and alphabetical case order.

@@ -1,0 +1,60 @@
+UNITED STATES V. FIOR D’ITALIA, INC.
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+UNITED STATES V. FIOR D’ITALIA, INC. (01-463) 
+242 F.3d 844, reversed.
+Syllabus
+ Opinion
+ [ Breyer ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. FIOR D’ITALIA, INC.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 01—463.  Argued April 22, 2002–Decided June 17, 2002
+
+Employers must pay Federal Insurance Contribution Act (FICA) taxes, calculated as a percentage of the wages, including tips, that their employees receive.  26 U.S. C. §§3101, 3111, 3121(q).  An employee reports the tip amount to the employer, who sends copies of the reports to the Internal Revenue Service (IRS).  26 CFR § 31.6011(a)—1(a).  In 1991 and 1992, respondent Fior D’Italia restaurant paid FICA taxes based on the tip amount its employees reported, but the reports also showed that the tips listed on customers’ credit card slips far exceeded the reported amount.  The IRS made a compliance check and assessed additional FICA taxes using an “aggregate estimation” method, under which it examined the credit card slips; found the average percentage tip paid by those customers; assumed that cash-paying customers paid at same rate; calculated total tips by multiplying the tip rates by Fior D’Italia’s total receipts; subtracted the tips already reported; applied the FICA tax rate to the remainder; and assessed additional taxes owed.  After paying a portion of the taxes, Fior D’Italia filed this refund suit, claiming that the tax statutes did not authorize the IRS to use the aggregate estimation method, but required it to first determine the tips that each individual employee received and then use that information to calculate the employer’s total FICA tax liability.  Fior D’Italia agreed that it would not dispute the accuracy of the particular calculation in this case.  The District Court ruled for Fior D’Italia, and the Ninth Circuit affirmed.
+
+Held: The tax law authorizes the IRS to use the aggregate estimation method.  Pp. 3—14.
+
+    (a) An assessment is entitled to a legal presumption of correctness.  By granting the IRS assessment authority, 26 U.S. C. §6201(a) must simultaneously grant it power to decide how to make that assessment within certain limits, which are not exceeded when the IRS estimates tax liability using a reasonable method.  Pp. 3—5.
+
+      (b) The FICA statute’s language, taken as a whole, does not prevent using an aggregate estimation method.  Fior D’Italia claims that, because §3121(q) speaks in the singular–“tips received by an employee in the course of his employment”–an employer’s liability attaches to each individual payment, not when the payments are later summed and reported.  However, §3121(q) is a definitional section.  Sections 3111(a) and (b), which impose the tax, speak in the plural–“wages” paid to “individuals” by the employer “with respect to employment”–and thus impose liability for the totality of the “wages” paid, which totality, says the definitional section, includes each individual employee’s tips.  Pp. 5—6.
+
+      (c) Contrary to the Ninth Circuit’s view, there is no reason to read §446(b)–which authorizes the IRS to use estimation methods for determining income tax liability–or §6205(a)(1)–which authorizes the Secretary to adopt regulations prescribing mechanisms for employers to adjust FICA tax liability–as limiting the IRS’ authority to use an aggregate estimation method to compute in computing FICA tax liability.  Pp. 6—7.
+
+      (d) Certain features of an aggregate estimate–that it includes tips that should not count in calculating FICA tax, e.g., tips amounting to less than $20 per month; and that a calculation based on credit card slips can overstate the aggregate amount because, e.g., cash-paying customers tend to leave a lower percentage tip–do not show that the method is so unreasonable as to violate the law.  Absent Fior D’Italia’s stipulation that it would not challenge the IRS calculation’s accuracy, a taxpayer would be free and able to present evidence that the assessment is inaccurate in a particular case.  Pp. 7—10.
+
+      (e) The fact that the employer is placed in an awkward position by the requirement that it pay taxes only on tips reported by its employees, even when it knows those reports are inaccurate, does not make aggregate estimation unlawful.  Section 3121(q) makes clear that penalties will not attach and interest will not accrue unless the IRS actually demands the money and the restaurant refuses to pay the amount demanded in a timely fashion.  Pp. 9—11.
+
+      (f) Finally, even assuming that an improper motive on the IRS’ part could render unlawful its use of a statutorily permissible enforcement method in certain circumstances, Fior D’Italia has not shown that the IRS has acted illegally in this case.  It has presented a general claim that the aggregate estimation method lends itself to abusive agency action.  But agency action cannot be found unreasonable in all cases simply because of a general possibility of abuse, which exists in respect to many discretionary enforcement powers.  Pp. 11—13.
+
+242 F.3d 844, reversed.
+
+    Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Kennedy, and Ginsburg, JJ., joined.  Souter, J., filed a dissenting opinion, in which Scalia and Thomas, JJ., joined.

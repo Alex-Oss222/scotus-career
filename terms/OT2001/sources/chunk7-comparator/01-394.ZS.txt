@@ -1,0 +1,52 @@
+CHRISTOPHER V. HARBURY
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+CHRISTOPHER V. HARBURY (01-394) 
+233 F.3d 596, reversed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CHRISTOPHER, FORMER SECRETARY OF STATE, et al. v. HARBURY
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+ 
+No. 01—394.  Argued March 18, 2002–Decided June 20, 2002
+
+Respondent-plaintiff Harbury alleges that Government officials intentionally deceived her in concealing information that her husband, a Guatemalan dissident, had been detained, tortured, and executed by Guatemalan army officers paid by the Central Intelligence Agency (CIA), and that this deception denied her access to the courts by leaving her without information, or reason to seek information, with which she could have brought a lawsuit that might have saved her husband’s life.  In the District Court, Harbury raised against the CIA, State Department, National Security Council, and officials of each, common- and international-law tort claims, and claims under Bivens v. Six Unknown Fed. Narcotics Agents, 403 U.S. 388, on behalf of her husband’s estate, and on her own behalf for violation of, inter alia, her constitutional right of access to courts.  The District Court dismissed the Bivens claims.  With respect to the access-to-courts counts, the court held that Harbury had not stated a valid cause of action because (1) having filed no prior suit, she could only guess how the alleged cover-up might have prejudiced her rights to bring a separate action, and (2) the defendants would be entitled to qualified immunity.  Harbury appealed the dismissal of her Bivens claims, but the District of Columbia Circuit reversed only the dismissal of her Bivens claim against petitioners for denial of access to courts.
+
+Held: Harbury has not stated a claim for denial of judicial access.  Pp. 9—19.
+
+    (a) Access-to-courts claims fall into two categories: claims that systemic official action frustrates a plaintiff in preparing and filing suits at the present time, where the suits could be pursued once the frustrating condition has been removed; and claims of specific cases that cannot be tried, no matter what official action may be in the future.  Regardless of whether the claim turns on a litigating opportunity yet to be gained or an opportunity already lost, the point of recognizing an access claim is to provide some effective vindication for a separate and distinct right to seek judicial relief for some wrong.  Thus, the access-to-courts right is ancillary to the underlying claim, without which a plaintiff cannot have suffered injury by being shut out of court.  It follows that the underlying claim is an element that must be described in the complaint as though it were being independently pursued; and that, when the access claim (like this one) looks backward, the complaint must identify a remedy that may be awarded as recompense but not otherwise available in some suit that may yet be brought.  The underlying cause of action and its lost remedy must be addressed by allegations in the complaint sufficient to give the defendant fair notice.  The facts of this case underscore the need for care in stating a tenable predicate cause of action.  The alleged acts were apparently taken in the conduct of foreign relations by the National Government, and any judicial enquiry will raise concerns for the separation of powers in trenching on matters committed to the other branches.  Since the need to resolve such constitutional issues should be avoided where possible, the trial court should be in a position as soon as possible to know whether a constitutional ruling may be obviated because the denied access allegations fail to state a claim.  Pp. 9—14.
+
+      (b) Harbury’s complaint did not come even close to stating a constitutional denial-of-access claim upon which relief could be granted.  It did not identify the underlying cause of action that the alleged disruption had compromised, leaving the District Court and the defendants to guess as to the unstated action supposedly lost and at the remedy being sought independently of relief that might be available on the complaint’s other counts.  Harbury’s position did not improve when the Court of Appeals gave her counsel an opportunity at oral argument to supply the missing allegations.  He stated that she would have brought an action for intentional infliction of emotional distress as one wrong for which she could have sought the injunctive relief that might have saved her husband’s life.  But that does not satisfy the requirement that a backward-looking denial-of-access claim provide a remedy that could not be obtained on an existing claim, for the complaint’s counts naming the CIA defendants, including the Guatemalan officer who allegedly tortured and killed her husband, are among the tort claims that survived the motion to dismiss in the District Court.  Harbury can seek damages and possibly some sort of injunctive relief for the consequences of the infliction of emotional distress alleged in those counts, although she cannot obtain the order that might have saved her husband’s life.  But neither can she obtain such an order in her access claim, which therefore cannot recompense her for the unique loss she claims as a consequence of her inability to bring an intentional-infliction action earlier.  Pp. 14—19.
+
+233 F.3d 596, reversed and remanded.
+
+    Souter, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Scalia, Kennedy, Ginsburg, and Breyer, JJ., joined.  Thomas, J., filed an opinion concurring in the judgment.

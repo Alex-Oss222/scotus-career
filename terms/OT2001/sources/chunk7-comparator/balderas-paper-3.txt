@@ -1,0 +1,559 @@
+MAR 91 2002 
+Suprenze Codi, J.8. 
+FILED 
+| No. 01-1196 GLERK | 
+Iu the 
+Supreme Court of the Waited States 
+SIMON BALDERAS, ef al... 
+. Appellants, \ Ws 
+STATE OF TEXAS, ef al. 
+Appellees. 
+On Appeal from the United States District Court 
+for the Eastern District of Texas, Tyler Division 
+MOTION TO AFFIRM 
+JOHN CORNYN ANDY TAYLOR 
+Attorney General of Texas LOCKE LIDDELL & SApP LLP 
+JULIE CARUTHERS PARSLEY 600 Travis, Suite 3400 
+Solicitor General Houston, Texas 77002 
+Counsel of Record (713) 226-1400 
+LISA R. ESKOW ' 
+Assistant Solicitor General C. ROBERT HEATH 
+BICKERSTAFF, HEATH, SMILEY. 
+OFFICE OF THE ATTORNEY POLLAN, KEVER & MCDANIEL. 
+GENERAL ; OE A 
+P.O. Box 12548 816 Congivss Ave., Suite 1700 
+Austin, Texas 78711-2548 Austin, Texas 78701 
+(512) 936-1700 (512) 472-8021 
+COUNSEL FOR APPELLEES 
+
+
+1. 
+i 
+QUESTIONS PRESENTED 
+Whether Appellants can establish §2 liability regarding the 
+Texas Senate and congressional districts solely by drawing a 
+seventh majority Spanish-surname-registered-voter (SSRV) 
+border district that (a) subordinates the traditional districting 
+principle of compactness to race and (b) causes decreases in 
+Latino voting ‘strength in other existing SSRV-majority 
+districts, jeopardizing the districts’ effectiveness. 
+Whether Appellants can satisfy the first Gingles precondition 
+by drawing seven SSRV-majority Texas Senate districts that 
+must be intentionally underpopulated, based on race, to add the 
+seventh SSRV-majority district to the existing six. 
+Whether the three-judge court’s per curiam opinions—which 
+adequately state the factual and legal bases for the court’s 
+judgments in the congressional and Texas Senate redistricting 
+cases—violate Federal Rule of Civil Procedure 52(a). 
+
+
+il 
+LIST OF PARTIES 
+Although Appellants properly list Henry Cuellar, in his capacity 
+as Texas Secretary of State, as a party to the action below, he is not 
+a party to this appeal because the current Texas Secretary of State 
+is Gwyn Shea. 
+Former Texas Secretary of State Cuellar was originally named 
+in his official capacity as a defendant below, but he resigned from 
+office in late 2001. Geoffrey S. Connor then served as Acting 
+Secretary of State, and he automatically substituted for Secretary 
+Cuellar in the proceeding below. FED. R. Civ. P.25(d)(1). For this 
+appeal, however, the current Secretary of State, Gwyn Shea, is 
+automatically substituted, in her official capacity, for Acting 
+Secretary Connor. SuR_CT. R. 35.3. 
+
+
+TABLE OF CONTENTS 
+Page 
+Questions Presented .............2ccccceccsccscscceces 
+ieee iene eben esdeseicnevdeeses i 
+pba bncdeebiskedeesadeswesavaes ii 
+sl) Ue, rr ee ee iV 
+ES OS EGP ORS E ETE CE TELE ECT L ETL 
+ASQUMEM 2.2... w ccc ccc cere esc escccccncccccenes 2 
+I. The Questions Presented Are Not Substantial and the 
+Court Should Summarily Affirm ................--- 2 
+A. Appellants Mischaracterize the Basis for the Three- 
+Judge Court’s Rejection of Their §2 Claims .-.... 3 
+1. The three-judge court correctly rejected 
+Appellants’ request for a seventh SSRV border 
+district that subordinates the traditional 
+districting principle of compactness to race ... 3 
+2. The three-judge court correctly rejected 
+Appellants’ §2 claims under the “totality of the 
+circumstances,” finding that another effective 
+Latino district could not be drawn ........... 5 
+B. Appellants’ Seven Proposed SSRV Senate Districts 
+Are the Impermissible Product of Intentional, Race- 
+Based Underpopulation ..............-+-+-05- 8 
+Il. The Three-Judge Court’s Factual Findings Satisfy Rule 
+52 and Are Sufficient for Proper Appellate Review .. 11 
+keh ee kta seesweceee es 12 
+
+
+iV 
+TABLE OF AUTHORITIES 
+Cases - Page - 
+Abrams v. Jotenaem, SZUUS. TACIT) oon cca Sec ccsscenes 8 
+Burma Navigation Corp. v. Reliant Seahorse MV, | 
+ve ee oe | re Teorer errs 1] 
+ee 0. FONG, SAT UE. Fae CPO ven tniacek enews 4,5, 11 
+Folger Coffee Co. v. Olivebank, 201 F.3d 632 (CA5 2000) .. 11 
+Fee UTE, BEd Wie CPR CEOS. 5 nv ce vccnctendivbeass 9 
+Hunt v- Cromartie, 532 U.S. 234 (2001) .............0 000 4 
+Johnson v. De Grandy, 512 U.S. 997 (1994)... 2.0.2... 006. 6 
+Mahan v. Howell, 410 U.S. 315 (1973) .......... 0.220008. 9 
+Miller v. Johnson, 515 U.S. 900 (1995) ............24.6. 5; 0 
+Shaw v. Hunt, 517 U.S. 899 (1996) .....000. 2000 eee. tae 
+Shaw v. Reno, 509 U.S. 630 (1993) ............0.. 4,5, 8,11 
+Six Clinics Holding Corp, II v. Cafcomp Sys., Inc., 
+bpm oy a er re 12 
+Thornburg v. Gingles, 478 U.S. 30 (1986) ........... passim 
+Unt v. Aerospace Corp., 765 F.2d 1440 (CA9 1985) ....... 11 
+Urbain v. Knapp Bros. Mfg. Co., 217 F.2d 810 
+8 re eer rt ee Perry 12 
+Wesberry v. Sanders, 376 U.S. 1 (1964) ...............24. 9 
+| 
+
+
+Vv 
+Statutes, Rules, and Constitutional Provisions 
+Pom: R Cow. BaD ox dn sa sc seine ee ee ne . Wl 
+ow ae Re? eer rrre rrr rrr er re ee 1] 
+ew. Cr, BPRS nk ccaseese bs ascent en ee 12 
+Oe ty ee rer ro rer Tyr eye eT 5 l 
+Sem. CUR: IGS ons s vac Vaeeenen shee eee ii 
+
+
+
+
+In the 
+Suprenw Court of the United States 
+SIMON BALDERAS, ef al., 
+Appellants, 
+Vv. 
+STATE OF TEXAS, ef al., 
+Appellees. 
+On Appeal from the United States District Court 
+for the Eastern District of Texas, Tyter Division 
+MOTION TO AFFIRM 
+Pursuant to Supreme Court Rule 18.6, the State of Texas, Texas 
+Governor Rick Perry, and Texas Secretary of State Gwyn Shea 
+(collectively “the State”) move to affirm the judgment rendered by 
+the three-judge court on the ground that the questions presented are 
+so insubstantial as not to require further argument. Sup. CT. R. 18.6. 
+STATEMENT OF THE CASE 
+The State objects to the argumentative nature of Appellants’ 
+statement of the case and directs the Court to the statement of 
+proceedings set out in the three-judge court’s opinions as to the 
+congressional and Texas Senate plans, which are fair recitations of 
+the proceedings leading up to this appeal. J.S., App. at 1-4 
+(congressional plan), 21-24 (Texas Senate plan).' 
+1. Appellants’ Jurisdictional Statement will be cited as “J.S.” 
+
+
+2 
+ARGUMENT 
+I. THE QUESTIONS PRESENTED ARE NOT SUBSTANTIAL AND 
+THE COURT SHOULD SUMMARILY AFFIRM. 
+The three-judge court correctly rejected Appellants’ §2 claims 
+in the congressional and Texas Senate redistricting litigation. App., 
+at 11-12, 25-26. In each case, Appellants urged the creation of a 
+seventh majority Spanish-surname-registered-voter (SSRV) district 
+along the Texas border.’ To achieve this end, Appellants pulled 
+SSRV from other currently effective Latino districts and contorted 
+border population into a highly irregular, seventh SSRV district. 
+The three-judge court properly recognized the impermissibility of 
+Appellants’ approach, and this Court should summarily affirm 
+because: (1) a seventh SSRV border district cannot be created 
+without subordinating the traditional districting criteria of 
+compactness to race; (2) Appellants’ inability to demonstrate the 
+effectiveness of their seven proposed SSRV districts defeats their 
+§2 claims under the “totality of the circumstances” test; and (3) 
+Appellants’ §2 challenge to the Texas Senate districts, in particular, 
+2. Texas voters do not indicate their race or ethnic origin when 
+registering to vote; therefore, there is no official record of the number of 
+potential voters from different racial or language minority groups. The 
+Texas Secretary of State does, however, compare voter registration lists 
+to a list of common Spanish surnames and reports the number of Spanish- 
+surnamed, registered voters in each Texas precinct. 
+3. Appellants’ congressional and Texas Senate claims resemble each 
+other because they involve a similar number of districts: 32 congressional 
+seats and 31 Texas Senate seats. Consequently, essentially the same 
+number and type of minority districts can be drawn in congressional and 
+Texas Senate plans. Indeed, Appellants’ Jurisdictional Statement does 
+not present distinct §2 arguments regarding their congressional and Texas 
+Senate claims. Accordingly, the State will jointly address Appellants’ 
+congressional and Texas Senate claims unless otherwise indicated. 
+
+
+3 
+fails because their seven proposed districts must be intentionally 
+underpopulated to construct SSRV majorities, and this race-based 
+strategy offends equal-protection principles. 
+A. Appellants Mischaracterize the Basis for the Three- 
+Judge Court’s Rejection of Their §2 Claims. 
+Appellants erroneously state that the three-judge court “held 
+that Latinos were not naynerous enough to constitute a ‘majority’ in 
+an additional congressional district or an additional senate district” 
+even though SSRV population in the proposed districts was 50% or 
+greater. J.S., at 9 (emphasis added). They further mistakenly 
+conclude that the court imposed an additional, impermissible 
+requirement under Thornburg v. Gingles, 478 U.S. 30 (1986), that 
+SSRV population exceed a voter majority “by an immeasurable 
+amount.” /d. But no such thing occurred. 
+The three-judge court’s holding was not focused solely on 
+numerosity, as Appellants suggest. Instead, the court concluded 
+that “the Latino population is not sufficiently compact or numerous 
+to support another, effective majority Latino citizenship district.” 
+App., at 14 (congressional), 26 (Texas Senate). In other words, the 
+court identified two additional concerns—compactness and 
+effectiveness—that defeat Appellants’ §2 claims. And this Court’s 
+precedent fully supports the lower court’s reasoning. 
+1. Thethree-judge court correctly rejected Appellants’ 
+request for a seventh SSRV border district that 
+subordinates the traditional districting principle of 
+compactness to race. 
+The court’s first concern, compactness, renders Appellants’ 
+proposal impermissible on two levels. First, it demonstrates that 
+Appellants cannot satisfy the first precondition under Gingles, 
+which requires a §2 plaintiff to demonstrate that the protected 
+minority group is “sufficiently large and geographically compact 
+to constitute a majority in a single-member district.” 478 U.S., at 
+
+
+LY AONE SCE ven Sere NCE 
+4 
+50 (emphasis added). Second, it reveals that the creation of a 
+seventh Latino border district would impermissibly elevate race 
+over traditional districting principles, contravening Shaw v. Reno, 
+509 U.S. 630 (1993). 
+Along the Texas border, it is impossible to create a seventh 
+Latino district that is reasonably compact. Although border areas 
+have extensive Latino population, an additional Latino district 
+cannot be achieved without dividing a naturally compact Latino 
+population into separate components and then linking those 
+components to non-Latino population from unrelated communities 
+as much as two-hundred miles away. The racially manipulated, 
+non-compact configuration that emerges confirms that there is no 
+§2 obligation to construct a seventh Latino border district. “If, 
+because of the dispersion of the minority population, a reasonably 
+compact majority-minority district cannot be created, §2 does not 
+require a majority-minority district.” Bush v. Vera, 517 U.S. 952, 
+979 (1996); see also Shaw v. Hunt, 517 U.S. 899, 916 (1996) (“[A] 
+plaintiff must show that the minority group is ‘geographically 
+compact’ to establish §2 liability. No one looking at [North 
+Carolina] District 12 could reasonably suggest that the district 
+contains a ‘geographically compact’ population of any race. 
+Therefore, where that district sits, ‘there neither has been a wrong 
+nor can [there] be a remedy.”) (citations omitted). 
+Appellants contend that other equally or more non-compact 
+districts have existed in Texas’s past, J.S., at 19, but they fail to 
+recognize that lack of compactness raises Fourteenth Amendment 
+concerns when it results from race-based districting decisions. See 
+Shaw, 509 U.S., at 647 (noting that equal-protection concerns 
+would arise if a State “concentrated a dispersed minority population 
+in a single district by disregarding traditional districting principles 
+such as compactness, contiguity, and respect for political 
+subdivisions); see also, e.g., Hunt v. Cromartie, 532 U.S. 234 
+(2001); Bush, 517 U.S. 952; Miller v. Johnson, 515 U.S. 900 
+
+
+5 
+(1995).*. The three-judge court properly refused to create an 
+additional border district that would have contravened Shaw and its 
+progeny by subordinating compactness to race.” 
+2. The three-judge court correctly rejected Appellants’ 
+§2 claims under the “totality of the circumstances,” 
+finding that another effective Latino district could 
+not be drawn. 
+Appellants erroneously argue that the three-judge court imposed 
+a super-majority requirement under Gingles’s first prong when it 
+concluded that “the Latino population is not sufficiently compact 
+Or numerous to support another, effective majority Latino 
+4. These elongated SSRV border districts also pull in random 
+pockets of Anglo population to fill out thinly majority-Latino districts. 
+This type of practice was criticized in Bush in the context of “reach[ing] 
+out to grab small and apparently isolated minority communities” to 
+increase minority strength in a “bizarrely shaped district.” 517 U.S.., at 
+978. The same equal-protection principles preclude reaching out to grab 
+isolated pockets of Angle population to flesh out a district drawn to 
+spread an otherwise overly compact minority population. Pulling in 
+isolated pockets of Anglos is just as problematic as pulling in isolated 
+pockets of minorities, because in both instances traditional districting 
+criteria are subordinated to race. And that is the touchstone of an equal- 
+protection violation. See Shaw, 509 U.S., at 650 (noting that equal- 
+protection analysis is not dependent on the race of those burdened or 
+benefitted by a particular classification). 
+5. Although this Court has assumed that compliance with §2 would 
+be a compelling interest for purposes of strict scrutiny, see Bush, 517 
+U.S., at 977, that justification applies only when the creation of a 
+majority-minority district “is reasonably necessary to comply with §2.” 
+Id. No such necessity exists here, because “[i]f, because of the dispersion 
+of the minority population, a reasonably compact majority-minority 
+district cannot be created, §2 does not require a majority-minority 
+district.” Jd., at 979. 
+
+
+6 
+citizenship district” in Texas. App., at 14, 26; see also J.S., at 9. 
+But the court never stated that its “effectiveness” conclusion was a 
+Gingles prong-one issue. Rather, effectiveness is part of the 
+“totality of the circumstances” to be considered in evaluating 
+Appellants’ claim. See App., at 14-15, 26; see also, e.g., Johnson 
+v. De Grandy, 512 U.S. 997, 1009-13 (1994); Gingles, 478 U.S., at 
+43 (quoting §2(b) of the Voting Rights Act). 
+Although Appellants declare that the three-judge court 
+superimposed an effectiveness requirement onto Gingles’s first 
+prong, nothing in the court’s opinions supports this 
+characterization. And Appellants fail to explain why the court’s 
+“effectiveness” finding must be linked to Gingles’s first prong, 
+rather than the totality-of-the-circumstances test. Inexplicably, they 
+simply assume that is what the court did. See, e.g., J.S., at 13 n.3 
+(“Of course, the remainder of the Ging/es framework also applies 
+to such claims; however, with the exception of its conclusory 
+statement regarding the ‘totality of the circumstances,’ the District 
+Court here addressed only the first Gingles precondition.”). This 
+Court should reject Appellants’ attempt to distort the three-judge 
+court’s effectiveness finding into an incorrect application of 
+Gingles’s first prong. 
+The court’s effectiveness finding is consistent with the State’s 
+totality-of-the-circumstances arguments at trial. Specifically, the 
+State argued that §2 did not require the creation of an additional 
+Latino district—under the totality of the circumstances—because 
+there was no evidence that seven barely majority SSRV districts 
+would be effective at electing Latinos’ candidate of choice. There 
+had been testimony, for example, that existing congressional 
+District 23—with 53.2% SSRV—does not consistently elect 
+Latinos’ candidate of choice. Indeed, that district is currently 
+represented by a Republican, Henry Bonilla, even though statistics 
+show that the majority of Latino voters in District 23 consistently 
+vote for his Democratic opponents. Because Representative Bonilla 
+
+
+7 
+was able to attract some otherwise Democratic Latino voters, he 
+obtained a sufficient percentage to win the overall election. Thus, 
+District 23’s slim SSRV majority of 53.2% was ineffective for 
+purposes of electing the candidate preferred by the majority of the 
+district’s Latino voters. 
+Because Appellants proposed seven Latino districts with slim 
+SSRV majorities (due to the lack of sufficient population to create 
+seven districts with greater-than-marginal SSRV_ majorities), 
+Appellants’ plan raised effectiveness conce..:s similar to those 
+exemplified by District 23. Moreover, the seventh SSRV district 
+exists only because Appellants dangerously reduced the number of 
+Latinos in existing districts—jeopardizing the districts’ ability to 
+perform. Indeed, Congressman Charles Gonzalez testified that 
+districts are not effective when SSRV majorities are stretched too 
+thin—as they are in Appellants’ proposals. Appellants offered no 
+contrary electoral analysis that addressed, much less proved, the 
+effectiveness of their seven proposed districts. 
+In addition, Appellants’ strategy of stretching the existing six 
+SSRV-majority districts into a seventh creates problems under §5 
+of the Voting Rights Act. Indeed, the three-judge court expressly 
+noted this totality-of-the-circumstances concern in its Texas Senate 
+opinion: 
+“We further find that, under the totality of the 
+circumstances, the failure to create a seventh Latino 
+majority district will not prevent full and equal Latino 
+participation in the political process. Rather, creating such 
+a district would risk giving rise to retrogression in the 
+existing Latino majority districts.” App., at 26.° 
+6. Forexample, current Senate District 27 has an SSRV population 
+of 73.91%, but under Appellants’ Plan 1194-S that number drops more 
+than 20 percentage points to 52.13%. And under Appellants’ alternative 
+Plan 1206-S, District 27 drops even further to 50.45%. 
+
+
+8 
+Although federal-court plans may not be subject to preclearance, 
+this Court has nonetheless advised federal courts to follow §5 
+requirements in fashioning remedial plans. See, e.g., Abrams v. 
+Johnson, 521 U.S. 74, 96 (1997). The three-judge court correctly 
+recognized that transforming currently performing Latino districts 
+into nonperforming districts would raise §5 concerns, and it 
+appropriately rejected Appellants’ request for a seventh SSRV- 
+majority district. 
+B. Appellants’ Seven Proposed SSRV Senate Districts Are 
+the Impermissible Product of Intentional, Race-Based 
+Underpopulation. 
+Appellants’ Jurisdictional Statement does not distinguish their 
+§2 claims with respect to congressional and Texas Senate 
+- redistricting. | And, for the most part, this approach is 
+understandable because, in each context, the seven SSRV districts 
+Appellants requested were similar due to the comparable number of 
+districts in the two plans (i.e., 32 congressional and 31 Texas 
+Senate seats). 
+There is, however, one significant difference: an ideally 
+populated Texas Senate district contains more population than a 
+congressional district, since there is one fewer district across which 
+to spread Texas’s total population. And because of the increased 
+size of Texas Senate districts, it is possible to create seven majority 
+SSRV districts only if those districts are intentionally 
+underpopulated to enhance SSRV.’ Because such intentional, race- 
+based redistricting runs afoul of Shaw v. Reno and its progeny—and 
+because there is insufficient population to create seven SSRV 
+districts in the absence of race-based population adjustments—the 
+three-judge court correctly concluded that the “Latino population 
+7. For example, if a fully populated district contained 100 persons 
+of whom 48 are Spanish-surnamed registered voters, SSRV would be 
+48%. But if the district were intentionally underpopulated to contain 
+- only 95 persons, the same 48 Spanish-surnamed registered voters would 
+constitute an SSRV majority of 50.5%. 
+
+
+9 
+is not sufficiently compact or numerous to support another, 
+effective majority Latino citizenship district” in the Texas Senate 
+plan. App., at 26. 
+Ideal distritt_size—i.e., the per-district population that will 
+produce 31 equally populated Texas Senate districts—is the 
+appropriate starting point for analyzing Appellants’ §2 claim. 
+Indeed, it is the only truly objective benchmark against which to 
+measure Appellants’ allegations of vote dilution. See Holder vy. 
+Hall, 512 U.S. 874, 880 (1994) (plurality) (“[In] determining 
+whether the Gingles preconditions are met and whether the totality 
+of the circumstances supports a finding of liability, a court must 
+find a reasonable alternative practice as a benchmark against which 
+to measure the existing voting practice.”); see also id., at 887 
+(O’Connor, J., concurring) (noting the Court’s “general agreement” 
+that “courts must choose an objectively reasonable alternative 
+practice as a benchmark for the dilution comparison”). The ideal 
+population for -a Texas Senate district is 672,639—which is 
+approximately 3% larger than an ideal congressional district.* 
+Although an ideal Texas Senate district is larger than a 
+congressional district, the total available Latino population remains 
+. the same for the congressional and Texas Senate plans. And that 
+population—which was barely adequate to create seven SSRV 
+majorities in the smaller congressional districts—is insufficient to 
+create seven SSRV majorities in a fully populated Texas Senate 
+district. Indeed, SSRV majorities can be preserved only if Texas 
+Senate districts are intentionally underpopulated to more closely 
+resemble the size of a congressional district. And that is precisely 
+8. Texas’s 32 congressional districts are constitutionally required, 
+under Art. I, §2, to consist of equal population “as nearly as is 
+practicable.” Mahan v. Howell, 410 U.S. 315, 320 (1973) (quoting 
+Wesberry v. Sanders, 376 U.S. | (1964)). By contrast, the 31 Texas 
+Senate districts are subject to the population-equality demands of the 
+Fourteenth Amendment’s Equal Protection Clause, which is slightly less 
+rigorous. See, e.g., id., at 321-22. s 
+
+
+10 
+the race-based strategy that Appellants’ urged and that the three- 
+judge court correctly declined to follow. 
+All seven Latino districts in Appellants’ proposed Plan 1194-S 
+are underpopulated—including the four most underpopulated 
+districts in the State and five of the top six. Together, these districts 
+result in a total underpopulation of 26.49%—wmore than a quarter of 
+an ideal district. In other words, to achieve their goal of an 
+additional SSRV district, Appellants’ essentially stretched six and 
+three-fourths Texas Senate districts into seven.” This attempt to 
+satisfy Gingles’s population threshold through manipulation of 
+district size was properly rejected by the three-judge -court. 
+Because Appellants failed to demonstrate that seven SSRV districts 
+could be drawn under the proper benchmark—an ideally populated 
+Texas Senate district—they did not satisfy the first prong of 
+Gingles.'° Accordingly, the three-judge court correctly rejected | 
+their §2 claim. 
+Moreover, the court properly declined to embrace Appellants’ 
+strategy of intentional, race-based underpopulation. Such elevation 
+9. Appellants offered an alternative plan (1206-S) that was less 
+egregious, but it still produced an underpopulation of 19.38%—nearly 
+one-fifth of a district. 
+10. Appellants acknowledge that they framed their §2-claims in 
+terms of SSRV districts. J.S., at 17.6. Yet, at the same time they 
+complain that the three-judge court used the very standard they proposed 
+in its §2 analysis, rather than the Fifth Circuit’s-benchmark of citizen 
+voting age population (CVAP). J.S., at 15. This complaint is 
+disingenuous because Texas’s Latino CVAP numbers are not yet 
+available and, therefore, were neither offered by Appellants at trial nor 
+utilized in the three-judge court’s analysis. The closest proxy, SSRV, 
+was available because, as Appellants note, the Texas Secretary of State 
+collects and reports these statistics. J.S., at 14.4. And, under these 
+circumstances, Appellants chose to use SSRV numbers in framing their 
+§2 claims. The three-judge court did not disregard Fifth Circuit CVAP 
+precedent or impose an “unprecedented” burden under the first Gingles - 
+precondition, as Appellants erroneously contend. J.S., at 17. 
+_ ee 
+- . 
+
+
+1] 
+of race over traditional districting criteria offends equal-protection 
+principles. See, e.g., Bush, 517 U.S., at 958-59, 962-64; Miller, 515 
+U.S., at 905, 911-12; Shaw, 509 U.S., at 644-49.'' Because 
+Appellants cannot establish seven SSRV districts in the absence of 
+impermissible race-based underpopulation, this Court should 
+summarily affirm the lower court's judgment rejecting Appellants’ 
+§2 challenge to the Texas Senate districts. 
+Il. THE THREE-JUDGE COURT’S FACTUAL FINDINGS SATISFY 
+RULE 52 AND ARE SUFFICIENT FOR PROPER APPELLATE 
+REVIEW. 
+The Court should reject Appellants’ final argument that the 
+three-judge court failed to comply with Federal Rule of Civil 
+Procedure 52. The per curiam opinions in the Texas Senate and 
+congressional redistricting cases satisfy Rule 52 and permit proper 
+appellate review by “‘giv[ing] the reviewing court a clear 
+understanding of the factual basis for the decision.” Folger Coffee 
+Co. v. Olivebank, 201 F.3d 632, 635 (CAS 2000) (quoting Burma 
+Navigation Corp. v. Reliant Seahorse MV, 99 F.3d 652, 656 (CA5 
+1996)); Unt v. Aerospace Corp., 765 F.2d 1440, 1444 (CA9 1985) 
+(holding that remand was not necessary, even though findings did 
+not articulate specific factual bases for holding, because the basis 
+for the court’s decision was clear); see also FED. R. Civ. P. 52(a). 
+Moreover, even if the Court were to decide that the findings in 
+the per curiam opinions were somehow deficient, remand would not 
+be necessary because ““‘the failure of a District Court to comply 
+with Rule 52(a) in respect of findings of fact does not demand 
+reversal of the correct judgment . . . if a full understanding of the 
+11. As previously discussed, the Court has assumed that compliance 
+with §2 would be a compelling interest for purposes of strict 
+scrutiny—but only when the creation of the minority-majority district is 
+“reasonably necessary to comply with §2.” Bush, 517 U.S., at 977. No 
+such necessity exists with respect to the Texas Senate districts, because 
+Appellants did not demonstrate that the seven SSRV districts they request 
+are possible using the proper benchmark of an ideally populated district. 
+
+
+12 
+issues could be reached without the aid of findings even though 
+such findings would have been helpful.”” Six Clinics Holding 
+Corp, Il v. Cafcomp Sys., Inc., 119 F.3d 393, 400 (CA6 1997) 
+(quoting Urbain v. Knapp Bros. Mfg. Co., 217 F.2d 810, 815 (CA6 
+1954)). Because a full understanding of the issues is easily 
+obtained from the per curiam opinions, the Court should not reverse 
+and remand for additional factfindings in support of the lower 
+court’s Texas Senate and congressional judgments. 
+CONCLUSION 
+The Court should summarily affirm the judgments of the three- 
+judge court. Sup. CT. R. 18.12. 
+
+
+March 21, 2002 
+13 
+Respectfully submitted, 
+JOHN CORNYN 
+Attorney General of Texas 
+JULIE CARUTHERS PARSLEY 
+Solicitor General 
+Counsel of Record 
+LISA R. ESKOW 
+Assistant Solicitor General 
+OFFICE OF THE ATTORNEY GENERAL 
+P.O. Box 12548 
+Austin, Texas 78711-2548 
+(512) 936-1700 
+ANDY TAYLOR ’ 
+LOCKE LIDDELL & SAPP LLP 
+600 Travis, Suite 3400 
+Houston, Texas 77002 
+(713) 226-1400 
+C. ROBERT HEATH 
+BICKERSTAFF, HEATH, SMILEY, 
+POLLAN, KEVER & MCDANIEL, L.L.P- 
+816 Congress Ave., Suite 1700 
+Austin, Texas 78701 
+(512) 472-8021 
+COUNSEL FOR APPELLEES 

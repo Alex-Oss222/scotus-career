@@ -1,0 +1,49 @@
+# OT_2001CHUNK7
+
+## 126. Robertson v. Bartels
+
+# SECTION II: STONE POSITION SUPPLEMENT
+
+## A. STATUS
+
+* **Approval Status:** Approved by the author on November 10, 2026. Approval covers Stone's position in this case. It records no vote of any other Justice and no judgment of the Court.
+* **Current-Through Baseline:** Completed decisions through June 28, 2001.
+* **Conditions:** The position is approved. No Court judgment is recorded here.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Affirm the judgment for defendants on Counts I and II on the independently sufficient merits ground. Do not endorse binding these plaintiffs through shared political interests alone.
+* **Stone's Remedy and Remand Position:** Deny the requested redistricting injunction. Order no replacement map, election change, or new preclusion hearing. Leave Count III and its separate residency proceeding outside the mandate. Affirmance resolves these claims, not every possible challenge to the map.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: Nonparty preclusion
+
+* **Threshold and Merits Reach:** The court relied on preclusion. Stone addresses that rationale without treating it as Article III jurisdiction or inventing participation findings.
+* **Question Stone Resolves:** Whether political association, parallel objectives, and anticipated benefit from Page suffice to bind these different plaintiffs.
+* **Stone's Legal Position:** Reaffirm Richards; distinguish ordinary preclusion from representation inferred merely from aligned interests.
+* **Stone's Proposed Holding:** A nonparty may be bound only through a constitutionally sufficient basis for binding that person's rights. Political affiliation, competent advocacy by others, common requested relief, and notice of another action do not collectively replace that basis. The stated rationale therefore cannot independently support affirmance.
+* **Reach Within the Question:** Genuine consent, control, substantive privity, and authorized representative litigation remain effective. Actual control means participation in directing the earlier litigation, not merely a preference for its success. Representative authority requires a relationship authorizing and adequately protecting another's rights; earnest advocacy alone is insufficient.
+* **Essential Reasoning and Record Application:** Finality protects judgments against persons lawfully bound by them. It does not turn every voter who might benefit from invalidation into a represented party. An inference of binding authority from failure to intervene would recreate the intervention duty Richards rejects. The distinction between a public issue and a private financial interest does not erase personal voting rights. Precedent and due-process structure carry decisive weight; administrative efficiency cannot supply missing authority.
+* **Boundary or Reserved Question:** Whether additional facts establish an actual controlling or representative relationship remains undecided because those facts are not established and the independently sufficient merits ground requires no remand to obtain them.
+
+### Issue 2: Territorial racial design and incumbent treatment
+
+* **Threshold and Merits Reach:** Stone reviews the legal sufficiency of the two redistricting claims while giving plaintiffs favorable reasonable inferences, including the assumed racial motivation of the challenged choices. He does not affirm by deciding disputed motivation against them or treating failed merits proof as lack of standing.
+* **Question Stone Resolves:** Whether racial motivation in drawing District 34 and protecting some incumbents through electoral boundaries establishes the constitutional deprivation asserted here.
+* **Stone's Legal Position:** Reaffirm Shaw, Miller, and Easley. Resolve the presented territorial and incumbent claims through their distinction between territorial design and an independently prohibited operation.
+* **Stone's Proposed Holding:** Racial predominance in a common territorial electorate, including choices intended to improve particular incumbents' prospects, does not alone establish unequal constitutional eligibility, participation, or civic status. Calling favorable district composition a governmental benefit does not change that operation. Count II must nonetheless receive independent examination: if it actually establishes racial candidacy restrictions, unequal access, intentional dilution, or another recognized deprivation, the applicable claim governs. The identified record establishes no such separate operation; Counts I and II therefore fail.
+* **Reach Within the Question:** The same rule protects white and Black voters and candidates. It creates neither a right to a preferred racial composition nor immunity for racially discriminatory incumbent protection. The Fifteenth Amendment theory likewise identifies no racial exclusion from the electorate or separately supported abridgment. Voinovich's reservation concerning dilution coverage remains intact.
+* **Essential Reasoning and Record Application:** An operation is what the government makes a racial distinction do to a protected civic interest, not the motive alone. A material participation impairment changes the real opportunity to enter or use the political process; unfavorable electoral prospects do not automatically establish it. Inferior civic status means government-imposed unequal political membership, not an inference that shared racial composition assigns voters beliefs or reduces a representative's duties to others. Here the challenged mechanism is the composition of the electorate. No separate racial voting qualification, official participation designation, or supported interference with political access is identified. Stone does not infer that those other acts occurred, and he does not require a later defeat before examining one that is actually alleged and supported.
+
+  The absence of a right to reelection is insufficient reasoning by itself: government cannot discriminate unlawfully in allocating an opportunity merely because no applicant is guaranteed success. The decisive distinction is between an actual unequal allocation governed by its own rule and the shared territorial design governed by Miller. The combination of precedent, analysis of the governmental operation, and the summary-judgment rule resolves this case, with precedent decisive. No balancing of desirable representation against a proved civic deprivation occurs, and no numerical safe harbor follows. This clarification governs analogous design-only claims; unpresented partisan operations and purposeful regional segregation require their own records and legal questions.
+* **Boundary or Reserved Question:** The separately referred residency claim lies outside the reviewed judgment. The sufficiency of materially different eligibility, participation, or intentional-dilution facts is not decided because they are not established here. Fifteenth Amendment dilution coverage is unnecessary to resolve this design-only theory and remains reserved under Voinovich.
+
+## D. OPINION ASSIGNMENT
+
+* **When this note applies:** Each case is run separately. The other Justices' stances are run first, and Stone's approved position is applied afterward. This note is complete in itself and does not depend on any other case file.
+* **Counting rule:** The Court has nine Justices. Six make a quorum. Five make a majority. Count Stone as one vote for the test. If at least four of the other eight Justices agree with the test as applied to *Robertson v. Bartels*, five Justices agree, and **Stone writes the opinion for the Court and articulates the test in it**. If fewer than four of the other eight agree, this note assigns no opinion, and Stone's approved position stands as his own vote and reasoning. If fewer than six Justices participate, there is no quorum and nothing is assigned.
+* **What counts as agreeing with the test in this case:** A Justice agrees if that Justice's stance accepts each of the following. (1) A design-only claim fails even when racial motivation is assumed in the plaintiff's favor. (2) An actual racial allocation of eligibility, candidacy or access would be judged on its own elements. (3) Voters and candidates of every race have the same protection. Agreement with the judgment alone is not agreement with the test.
+* **The test, stated in full for this case file:** Government may take account of race or party when it organizes elections. The constitutional injury is what the State made that characteristic do to a person's place in the political community. It is never how heavily the characteristic weighed in the State's decision. A complaint that alleges only motive, predominance, district shape or composition states no claim. Standing is decided first and is not a merits element. The plaintiff must then prove a specific operation on that operation's own elements. For race the operations are Exclude, Mark, Burden and Dilute; a fifth, Segregate, is drafted and reserved. For party they are Foreclose and Entrench. Predominance and shape are evidence and nothing more. Relief removes the proved operation and goes no further, with the State acting first. Voting Rights Act claims proceed on their own elements and are never gated by this test.
+* **What Stone articulates in this case if he writes:** The principle and the rule that a design-only complaint states no claim, applied with motive assumed against the State. The contrast between the composition of an electorate and an operation such as Exclude or Mark. The rule that the same protection extends to every race. The separate holding under *Richards* that shared political interests do not bind nonparties. The limit that incumbent protection is not declared incapable of ever being a racial allocation.
+

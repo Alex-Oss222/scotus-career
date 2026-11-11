@@ -1,0 +1,97 @@
+[
+  {
+    "name": "balderas-paper-1",
+    "url": "https://archive.org/download/micro_IA40386010_1416/micro_IA40386010_1416%201.%20Jurisdictional%20Statement.pdf",
+    "pages": 89,
+    "characters": 132280
+  },
+  {
+    "name": "balderas-paper-2",
+    "url": "https://archive.org/download/micro_IA40386010_1416/micro_IA40386010_1416%202.%20Motion.pdf",
+    "pages": 52,
+    "characters": 66960
+  },
+  {
+    "name": "balderas-paper-3",
+    "url": "https://archive.org/download/micro_IA40386010_1416/micro_IA40386010_1416%203.%20Motion.pdf",
+    "pages": 20,
+    "characters": 28228
+  },
+  {
+    "name": "balderas-paper-4",
+    "url": "https://archive.org/download/micro_IA40386010_1416/micro_IA40386010_1416%204.%20Reply%20Brief.pdf",
+    "pages": 23,
+    "characters": 28844
+  },
+  {
+    "name": "balderas-paper-5",
+    "url": "https://archive.org/download/micro_IA40386010_1416/micro_IA40386010_1416%205.%20Reply%20Brief.pdf",
+    "pages": 40,
+    "characters": 53288
+  },
+  {
+    "name": "official-194",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536194/usrep536194.pdf",
+    "pages": 20,
+    "characters": 43260
+  },
+  {
+    "name": "official-214",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536214/usrep536214.pdf",
+    "pages": 24,
+    "characters": 51547
+  },
+  {
+    "name": "official-238",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536238/usrep536238.pdf",
+    "pages": 28,
+    "characters": 58641
+  },
+  {
+    "name": "official-266",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536266/usrep536266.pdf",
+    "pages": 7,
+    "characters": 14877
+  },
+  {
+    "name": "official-273",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536273/usrep536273.pdf",
+    "pages": 31,
+    "characters": 68344
+  },
+  {
+    "name": "official-304",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536304/usrep536304.pdf",
+    "pages": 51,
+    "characters": 103672
+  },
+  {
+    "name": "official-355",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536355/usrep536355.pdf",
+    "pages": 48,
+    "characters": 106571
+  },
+  {
+    "name": "official-403",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536403/usrep536403.pdf",
+    "pages": 21,
+    "characters": 45364
+  },
+  {
+    "name": "official-424",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536424/usrep536424.pdf",
+    "pages": 28,
+    "characters": 60415
+  },
+  {
+    "name": "official-452",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536452/usrep536452.pdf",
+    "pages": 64,
+    "characters": 135472
+  },
+  {
+    "name": "official-919",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep536/usrep536919/usrep536919.pdf",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

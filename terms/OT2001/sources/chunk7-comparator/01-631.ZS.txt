@@ -1,0 +1,54 @@
+UNITED STATES V. DRAYTON
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+UNITED STATES V. DRAYTON (01-631) 
+231 F.3d 787, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v.  DRAYTON et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+ 
+No. 01—631.  Argued April 16, 2002–Decided June 17, 2002
+
+The driver of the bus on which respondents were traveling allowed three police officers to board the bus as part of a routine drug and weapons interdiction effort.  One officer knelt on the driver’s seat, facing the rear of the bus, while another officer stayed in the rear, facing forward.  Officer Lang worked his way from back to front, speaking with individual passengers as he went.  To avoid blocking the aisle, Lang stood next to or just behind each passenger with whom he spoke.  He testified that passengers who declined to cooperate or who chose to exit the bus at any time would have been allowed to do so without argument; that most people are willing to cooperate; that passengers often leave the bus for a cigarette or a snack while officers are on board; and that, although he sometimes informs passengers of their right to refuse to cooperate, he did not do so on the day in question.  As Lang approached respondents, who were seated together, he held up his badge long enough for them to identify him as an officer.  Speaking just loud enough for them to hear, he declared that the police were looking for drugs and weapons and asked if respondents had any bags.  When both of them pointed to a bag overhead, Lang asked if they minded if he checked it.  Respondent Brown agreed, and a search of the bag revealed no contraband.  Lang then asked Brown whether he minded if Lang checked his person.  Brown agreed, and a pat-down revealed hard objects similar to drug packages in both thigh areas.  Brown was arrested.  Lang then asked respondent Drayton, “Mind if I check you?”  When Drayton agreed, a pat-down revealed objects similar to those found on Brown, and Drayton was arrested.  A further search revealed that respondents had taped cocaine between their shorts.  Charged with federal drug crimes, respondents moved to suppress the cocaine on the ground that their consent to the pat-down searches was invalid.  In denying the motions, the District Court determined that the police conduct was not coercive and respondents’ consent to the search was voluntary.  The Eleventh Circuit reversed and remanded based on its prior holdings that bus passengers do not feel free to disregard officers’ requests to search absent some positive indication that consent may be refused.  
+
+Held: The Fourth Amendment does not require police officers to advise bus passengers of their right not to cooperate and to refuse consent to searches.  Pp. 5—12.
+
+    (a) Among its rulings in Florida v. Bostick, 501 U.S. 429, this Court held that the Fourth Amendment permits officers to approach bus passengers at random to ask questions and request their consent to searches, provided a reasonable person would feel free to decline the requests or otherwise terminate the encounter, id., at 436.  The Court identified as “particularly worth noting” the factors that the officer, although obviously armed, did not unholster his gun or use it in a threatening way, and that he advised respondent passenger that he could refuse consent to a search.  Relying on this last factor, the Eleventh Circuit erroneously adopted what is in effect a per se rule that evidence obtained during suspicionless drug interdictions on buses must be suppressed unless the officers have advised passengers of their right not to cooperate and to refuse consent to a search.  Pp. 5—8.
+
+      (b) Applying Bostick’s framework to this case demonstrates that the police did not seize respondents.  The officers gave the passengers no reason to believe that they were required to answer questions.  When Lang approached respondents, he did not brandish a weapon or make any intimidating movements.  He left the aisle free so that respondents could exit.  He spoke to passengers one by one and in a polite, quiet voice.  Nothing he said would suggest to a reasonable person that he or she was barred from leaving the bus or otherwise terminating the encounter, or would indicate a command to answer his questions.  There were ample grounds to conclude that their encounter was cooperative and not coercive or confrontational.  There was no overwhelming show or application of force, no intimidating movement, no brandishing of weapons, no blocking of exits, no threat, and no command, not even an authoritative tone of voice.  Had this encounter occurred on the street, it doubtless would be constitutional.  The fact that an encounter takes place on a bus does not on its own transform standard police questioning into an illegal seizure.  See Bostick, supra, at 439—440.  Indeed, because many fellow passengers are present to witness officers’ conduct, a reasonable person may feel even more secure in deciding not to cooperate on a bus than in other circumstances.  Lang’s display of his badge is not dispositive.  See, e.g., Florida v. Rodriguez, 469 U.S. 1, 5—6.  And, because it is well known that most officers are armed, the presence of a holstered firearm is unlikely to be coercive absent active brandishing of the weapon.  Officer Hoover’s position at the front of the bus also does not tip the scale to respondents, since he did nothing to intimidate passengers and said or did nothing to suggest that people could not exit.  See INS v. Delgado, 466 U.S. 210, 219.  Finally, Lang’s testimony that only a few passengers refuse to cooperate does not suggest that a reasonable person would not feel free to terminate the encounter.  See id., at 216.  Drayton argues unsuccessfully that no reasonable person in his position would feel free to terminate the encounter after Brown was arrested.  The arrest of one person does not mean that everyone around him has been seized.  Even after arresting Brown, Lang provided Drayton with no indication that he was required to answer Lang’s questions.  Pp. 8—10.
+
+      (c) Respondents were not subjected to an unreasonable search.  Where, as here, the question of voluntariness pervades both the search and seizure inquiries, the respective analyses turn on very similar facts.  For the foregoing reasons, respondents’ consent to the search of their luggage and their persons was voluntary.  When respondents told Lang they had a bag, he asked to check it.  And when he asked to search their persons, he inquired first if they objected, thus indicating to a reasonable person that he or she was free to refuse.  Moreover, officers need not always inform citizens of their right to refuse when seeking permission to conduct a warrantless consent search.  See, e.g., Schneckloth v. Bustamonte, 412 U.S. 218, 227.  While knowledge of the right to refuse is taken into account, the Government need not establish such knowledge as the sine qua non of an effective consent.  Ibid.  Nor does a presumption of invalidity attach if a citizen consented without explicit notification that he or she was free to refuse to cooperate.  Instead, the totality of the circumstances controls, without giving extra weight to whether this type of warning was given.  See, e.g., Ohio v. Robinette, 519 U.S. 33, 39—40.  Although Lang did not give such a warning, the totality of the circumstances indicates that respondents’ consent was voluntary, and the searches were reasonable.  Pp. 10—12.
+
+231 F.3d 787, reversed and remanded.
+
+    Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Thomas, and Breyer, JJ., joined.  Souter, J., filed a dissenting opinion, in which Stevens and Ginsburg, JJ., joined.

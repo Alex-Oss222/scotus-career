@@ -1,0 +1,538 @@
+Office of the Solicitor General |  Emerson v. United States - Response | United States Department of Justice
+Skip to main content
+An official website of the United States government
+Here's how you know
+Here's how you know
+Official websites use .gov
+A
+.gov
+website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+A
+lock
+(
+Lock
+Locked padlock
+) or
+https://
+means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+DOJ Menu
+U.S. Department
+                            of Justice
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Utilities
+Our Offices
+Find Help
+Contact Us
+Search
+Menu
+Close
+About
+About
+Solicitors General 1870 - Present
+The Solicitor General in Historical Context
+Briefs
+Employment Opportunities
+FOIA
+Contact
+Our Offices
+Find Help
+Contact Us
+Main Menu
+U.S. Department of Justice
+About
+title="About"
+About
+The Attorney General
+Organizational Chart
+Budget & Performance
+History & Museum
+Privacy Program
+Our Work
+News
+title="News"
+News
+Press Releases
+Speeches
+Videos
+Photo Galleries
+Blogs
+Podcasts
+Resources
+title="Guidance & Resources"
+Resources
+Guidance Documents
+Forms
+Publications
+Information for Victims in Large Cases
+Justice Manual
+Business and Contracts
+Grants
+Employment
+Employment
+Why Justice ?
+Benefits
+DOJ Vacancies
+Legal Careers at DOJ
+Our Offices
+Find Help
+Contact Us
+Search
+Breadcrumb
+Justice.gov
+Office of the Solicitor General
+Briefs
+Emerson V. United States - Response
+Brief
+Emerson v. United States - Response
+Share
+Facebook
+X
+LinkedIn
+Email
+Docket Number
+No. 01-8780
+Supreme Court Term
+2001 Term
+Type
+Petition Stage Response
+Court Level
+Supreme Court
+No. 01-8780
+IN THE SUPREME COURT OF THE UNITED STATES
+TIMOTHY JOE EMERSON, PETITIONER
+v.
+UNITED STATES OF AMERICA
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+THEODORE B. OLSON
+Solicitor General
+Counsel of Record
+MICHAEL CHERTOFF
+Assistant Attorney General
+JOHN F. DE PUE
+Attorney
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+QUESTIONS PRESENTED
+1. Whether 18 U.S.C. 922(g)(8), which prohibits a person who is the subject of a domestic violence restraining order from possessing a firearm that has previously traveled in interstate commerce, is a permissible exercise of congressional power under the Commerce Clause.
+2. Whether Section 922(g)(8), as applied in this case, violates petitioner's rights under the Due Process Clause of the Fifth Amendment.
+3. Whether Section 922(g)(8) violates the Second Amendment right to keep and bear arms.
+IN THE SUPREME COURT OF THE UNITED STATES
+No. 01-8780
+TIMOTHY JOE EMERSON, PETITIONER
+v.
+UNITED STATES OF AMERICA
+ON PETITION FOR A WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+BRIEF FOR THE UNITED STATES IN OPPOSITION
+OPINIONS BELOW
+The opinion of the court of appeals (Pet. App. 34-160) is reported at 270 F.3d 203. The opinion of the district court (Pet. App. 1-33) is reported at 46 F. Supp. 2d 598.
+JURISDICTION
+The judgment of the court of appeals was entered on October 16, 2001. A petition for rehearing was denied on November 30, 2001 (Pet. App. 161). The petition for a writ of certiorari was filed on February 28, 2002. The jurisdiction of this Court is invoked under 28 U.S.C. 1254(1).
+STATEMENT
+A federal grand jury in the Northern District of Texas indicted petitioner for possessing a firearm while subject to a domestic violence restraining order, in violation of 18 U.S.C. 922(g)(8). The district court dismissed the indictment, holding that Section 922(g)(8) violates the Second and Fifth Amendments of the Constitution. Pet. App. 1-33. The court of appeals reversed and remanded the case for further proceedings.
+Id
+. at 34-160.
+1. On October 10, 1997, petitioner purchased a Beretta pistol from a federally licensed firearms dealer. Pet. App. 4; Gov't C.A. Br. 3. In connection with the transaction, he executed a "Firearms Transaction Record," ATF (Alcohol, Tobacco and Firearms) Form 4473. Pet. App. 47-48; Gov't C.A. Br. 3-4;
+id
+. at App. 1. Petitioner was required to certify that,
+inter alia
+, he was not subject to a court order restraining him from "harassing, stalking, or threatening an intimate partner or a child of such partner." Pet. App. 48 n.7; Gov't C.A. Br. App. 1, at 1. The form explained that, under 18 U.S.C. 922, a firearm could not lawfully be sold to or received by a person subject to a court order that "by its terms explicitly prohibits the use, attempted use or threatened use of physical force against [an] intimate partner or child that would reasonably be expected to cause bodily injury." Pet. App. 48 n.7; Gov't. C.A. Br. App. 1, at 2.
+On August 28, 1998, petitioner's wife filed a petition for divorce in a court of the State of Texas. She also sought a temporary injunction prohibiting petitioner from engaging in specified acts. The state court conducted an evidentiary hearing during which petitioner's wife presented testimony that petitioner had threatened to kill the man with whom she had been having an affair. On September 14, 1998, the court issued an order that prohibited petitioner from,
+inter alia
+, threatening his spouse to take unlawful action against any person; knowingly or recklessly causing bodily injury to his spouse or to a child of either party; and threatening his spouse or a child of either party with imminent bodily injury. Pet. App. 35-36 & n.4.
+On November 16, 1998, petitioner's wife and daughter visited petitioner's office to retrieve an insurance payment. During the meeting, petitioner got into an argument with his wife, pulled the Beretta pistol from his desk drawer, and told her that she should leave. Petitioner subsequently cocked the pistol and pointed it at his wife and daughter when his wife sought to enter a back room to retrieve their daughter's shoes. Gov't C.A. Br. 7; Pet. App. 159 (Parker, J. concurring).
+2. A federal grand jury indicted petitioner for possessing the Beretta pistol while subject to a domestic violence restraining order, in violation of 18 U.S.C. 922(g)(8). Section 922(g) provides that specified categories of persons may not "ship or transport in interstate or foreign commerce, or possess in or affecting commerce, any firearm or ammunition." Section 922(g)(8) imposes that prohibition on any person
+(8) who is subject to a court order that -
+(A) was issued after a hearing of which such person received actual notice and at which such person had an opportunity to participate;
+(B) restrains such person from harassing, stalking, or threatening an intimate partner of such person or child of such intimate partner of such person, or engaging in other conduct that would place an intimate partner in reasonable fear or bodily injury to the partner or child; and
+(C)(i) includes a finding that such person represents a credible threat to the physical safety of such intimate partner or child; or
+(ii) by its terms explicitly prohibits the use, attempted use or threatened use of physical force against such intimate partner or child that would reasonably be expected to cause bodily injury.
+18 U.S.C. 922(g)(8). A person who "knowingly violates" Section 922(g) is subject to criminal penalties. 18 U.S.C. 924(a)(2). Petitioner moved to dismiss the indictment, claiming that Section 922(g)(8) violates the Second, Fifth, and Tenth Amendments to the Constitution and exceeds Congress's authority under the Commerce Clause, Art. I, Section 8, Clause 3.
+The district court granted petitioner's motion to dismiss the indictment. Pet. App. 1-33. Relying on circuit precedent, the court rejected petitioner's contention that Section 922(g)(8) exceeds Congress's powers under the Commerce Clause and his claim that the statute intrudes on state prerogatives in violation of the Tenth Amendment.
+Id
+. at 3, 31-33. The court held, however, that Section 922(g)(8) violates petitioner's rights under the Second and Fifth Amendments.
+Id
+. at 4-30. The court found that the Second Amendment guarantees an individual right to possess firearms rather than simply protecting the right of the States to establish and maintain militias.
+Id
+. at 4-25. The court concluded that Section 922(g)(8) "is unconstitutional because it allows a state court divorce proceeding, without particularized findings of the threat of future violence, to automatically deprive a citizen of his Second Amendment rights."
+Id
+. at 26; see
+id
+. at 26-27. The court also held that "[b]ecause § 922(g)(8) is an obscure, highly technical statute with no
+mens rea
+requirement, it violates [petitioner's] Fifth Amendment due process rights to be subject to prosecution without proof of knowledge that he was violating the statute."
+Id
+. at 30; see
+id
+. at 28-30.
+3. The court of appeals reversed. Pet. App. 34-160.
+a. The court of appeals rejected petitioner's claim that the application of Section 922(g)(8) to his conduct violated his rights under the Due Process Clause of the Fifth Amendment. Pet. App. 45-49. The court observed that "there is no question that [petitioner] was aware that on November 16, 1998, he actively possessed a firearm of the kind covered by the statute while subject to the September 14, 1998 order."
+Id
+. at 47. The court explained that, under this Court's decisions, "the necessary
+mens rea
+in this context does not require knowledge of the law but merely of the legally relevant facts."
+Id
+. at 49.
+b. The court of appeals held that 18 U.S.C. 922(g)(8) is a permissible exercise of congressional power under the Commerce Clause because Section 922(g)(8) "only criminalizes the possession of firearms or ammunition 'in or affecting commerce.'" Pet. App. 49-50. The court noted that petitioner had "assumed, for purposes of his pretrial motion to dismiss on Commerce Clause grounds, that the pistol had traveled into Texas in interstate or foreign commerce at some time prior to his October 10, 1997, purchase of it in Texas."
+Id
+. at 50 n.8.
+c. The court of appeals held that application of Section 922(g)(8) did not violate petitioner's rights under the Second Amendment. Pet. App. 51-143. The court conducted a detailed textual and historical analysis of the Second Amendment (
+id
+. at 68- 134) and concluded that the Amendment "protects the right of individuals, including those not actually a member of any militia or engaged in active military service or training, to privately possess and bear their own firearms, such as the pistol involved here, that are suitable as personal, individual weapons."
+Id
+. at 134-135. The court explained, however, that the individual right to bear arms protected by the Second Amendment is subject to "limited, narrowly tailored specific exceptions or restrictions for particular cases that are reasonable and not inconsistent with the right of Americans generally to keep and bear their private arms as historically understood in this country."
+Id
+. at 136.
+The court of appeals rejected petitioner's claim that the restriction on firearms possession contained in 18 U.S.C. 922(g)(8)(C)(ii) violated his Second Amendment rights because that provision does not require an express judicial finding that the subject of a domestic violence restraining order presents a credible threat to the physical safety of a spouse or child. Pet. App. 137-143. The court explained that, in enacting Section 922(g)(8), "Congress legislated against the background of the almost universal rule of American law that" a plaintiff must demonstrate a likelihood of irreparable harm in order to obtain a temporary injunction.
+Id
+. at 138. The court also examined the relevant provisions of Texas law (
+id
+. at 139-140) and concluded that a domestic violence restraining order of the sort to which petitioner was subject "may not issue unless the issuing court concludes, based on adequate evidence at the hearing, that the party restrained would otherwise pose a realistic threat of imminent physical injury to the protected party."
+Id
+. at 142-143. The court held on that basis that "the nexus between firearm possession by the party so enjoined and the threat of lawless violence, is sufficient, though likely barely so, to support the deprivation, while the order remains in effect, of the enjoined party's Second Amendment right to keep and bear arms."
+Id
+. at 143. d. Judge Parker filed a separate concurring opinion. Pet. App. 155-160. Judge Parker would have declined to address the constitutional question whether the Second Amendment right to bear arms is an individual or collective right because resolution of that question was unnecessary to decide this case.
+Id
+. at 156. He observed that, "whatever the nature or parameters of the Second Amendment right, be it collective or individual, it is a right subject to reasonable regulation."
+Id
+. at 157-158. Judge Parker concluded that "Section 922(g)(8) is simply another example of a reasonable restriction on whatever right is contained in the Second Amendment."
+Id
+. at 158.
+ARGUMENT
+1. Petitioner contends that 18 U.S.C. 922(g)(8) exceeds Congress's powers under the Commerce Clause and that application of Section 922(g)(8) to his conduct violates his rights under the Second and Fifth Amendments. Whatever the merits of those claims, they do not warrant review at this time. The court of appeals reversed the dismissal of the indictment and remanded for further proceedings. If petitioner is acquitted at trial, or if any conviction is reversed on independent grounds, his constitutional challenges to Section 922(g)(8) will become moot. If petitioner is found guilty and his conviction is affirmed on appeal, he will be able to raise the instant claims - along with any other challenges petitioner might have to the judgment of conviction - at the conclusion of proceedings in the lower courts. Review by this Court is therefore unwarranted at the current interlocutory stage of the case. In any event, petitioner's claims are without merit and do not warrant further review.
+2. Petitioner contends (Pet. 6-9) that, in enacting Section 922(g)(8), Congress exceeded its authority "[t]o regulate commerce with foreign Nations and among the several States." U. S. Const. Art. 1, § 8, Cl. 3. That claim is incorrect. In its current form, 18 U.S.C. 922(g) identifies nine categories of persons, including those who are the subjects of domestic violence restraining orders, to whom firearms disabilities attach. It is unlawful for persons falling within those categories to "ship or transport in interstate or foreign commerce,
+or possess in or affecting commerce
+, any firearm or ammunition." 18 U.S.C. 922(g)(emphasis added).
+In
+United States
+v.
+Bass
+, 404 U.S. 336 (1971), the Court construed former 18 U.S.C. App. 1202(a)(1), which imposed criminal penalties on any convicted felon who "receives, possesses, or transports in commerce or affecting commerce . . . any firearm." 404 U.S.C. at 337. The Court held that the "in or affecting commerce" requirement applied to the possession as well as the transportation offense.
+Id
+. at 339-350. The Court indicated that its construction was justified because,
+inter alia
+, interpreting the statute to apply to firearm possession without an identifiable link to interstate commerce would "effect a significant change in the sensitive relation between federal and state criminal jurisdiction."
+Id
+. at 349. In its subsequent decision in
+Scarborough
+v.
+United States
+, 431 U.S. 563 (1977), the Court held that proof that a firearm had previously traveled in interstate commerce was sufficient to establish the jurisdictional element of the felon-in-possession statute.
+Id
+. at 575. The Court explained,
+inter alia
+, that a stricter nexus requirement would disserve congressional intent because "Congress was not particularly concerned with the impact on commerce except as a means to insure the constitutionality of" the provision.
+Id
+. at 575 n.11.
+The courts of appeals have relied on
+Bass
+and
+Scarborough
+in consistently rejecting constitutional challenges similar to petitioner's. See,
+e.g.
+,
+United States
+v.
+Bishop
+, 66 F.3d 569, 587 (3d Cir. 1995) ("although the Court in
+Scarborough
+did not explicate the constitutional underpinnings of its decision, it quite clearly found that a jurisdictional element like that in
+Scarborough
+ensured that each conviction had the requisite constitutional nexus with interstate commerce"), cert. denied, 516 U.S. 1032 (1995) and 516 U.S. 1066 (1996);
+United States
+v.
+Singletary
+, 268 F.3d 196, 201 (3d Cir. 2001) (this Court in
+Scarborough
+"presumed that the former § 1202(a) would survive constitutional scrutiny if the Government provided evidence to show that the firearm was possessed or transported in commerce."), cert. denied, 122 S. Ct. 1450 (2002);
+United States
+v.
+Chesney
+, 86 F.3d 564, 570-571 (6th Cir. 1996) (
+Scarborough
+and other decisions of this Court "indicate that a firearm that has been transported at any time in interstate commerce has a sufficient effect on commerce to allow Congress to regulate the possession of that firearm"), cert. denied, 520 U.S. 1282 (1997);
+United States
+v.
+Rawls
+, 85 F.3d 240, 243 (5th Cir. 1996) (Garwood, J., specially concurring) (this Court's affirmance in
+Scarborough
+"carr[ies] a strong enough implication of constitutionality to now bind us * * * on [the Commerce Clause] issue in this essentially indistinguishable case");
+United States
+v.
+McAllister
+, 77 F.3d 387, 389-390 (11th Cir.) (relying on
+Scarborough
+to establish "minimal nexus" requirement to satisfy the Commerce Clause), cert. denied, 519 U.S. 905 (1996);
+United States
+v.
+Bennett
+, 75 F.3d 40, 49 (1st Cir.) (relying on
+Scarborough
+to reject as "hopeless" the defendant's constitutional challenge to 18 U.S.C. 922(g)(1)), cert. denied, 519 U.S. 845 (1996);
+United States
+v.
+Sorrentino
+, 72 F.3d 294, 296 (2d Cir. 1995) (under
+Scarborough
+, "the Constitution requires only a minimal nexus that the firearm has been, at some time, in interstate commerce") (internal quotation marks omitted);
+United States
+v.
+Bell
+, 70 F.3d 495, 497 (7th Cir. 1995) (same).
+Petitioner contends (Pet. 7) that this Court's decisions in
+United States
+v.
+Lopez
+, 514 U.S. 549 (1995), and
+United States
+v.
+Morrison
+, 529 U.S. 598 (2000), "cast doubt on whether a firearm's mere passage through interstate commerce provides a sufficient nexus to bring possession of that firearm within the realm of Congressional regulation." The statutes at issue in those cases, however, are significantly different from 18 U.S.C. 922(g) or its predecessor, former 18 U.S.C. App. 1202(a). In
+Lopez
+, the Court held that the Gun-Free School Zones Act of 1990, 18 U.S.C. 922(q)(1)(A), which prohibited the possession of a firearm in a school zone, exceeded Congress's powers under the Commerce Clause. The Court expressly distinguished Section 922(q) from former 18 U.S.C. App. 1202(a), which it had construed in
+Bass
+, noting that "[u]nlike the statue in
+Bass
+, § 922(q) has no express jurisdictional element which might limit its reach to a discrete set of firearms possessions that additionally have an explicit connection with or effect on interstate commerce." 514 U.S. at 562.
+In
+Morrison
+, the Court invalidated 42 U.S.C. 13981, part of the Violence Against Women Act, which created a federal civil cause of action for suits alleging gender-based violence. 529 U.S. at 605-606. The court noted that "[l]ike the Gun-Free School Zones Act at issue in
+Lopez
+, § 13981 contains no jurisdictional element establishing that the federal cause of action is in pursuance of Congress's power to regulate interstate commerce."
+Id
+. at 613. The Court observed that an "'express jurisdictional element limiting [a statute's] reach to a discrete set of firearms possession that additionally have an explicit connection with or effect on interstate commerce' * * * may establish that the enactment is in pursuance of Congress' regulation of interstate commerce."
+Id
+. at 611-612 (quoting
+Lopez
+, 514 U.S. at 562). Every court of appeals to address the question has rejected the claim that
+Lopez
+and
+Morrison
+undermine the constitutionality of the felon-in-possession statute as that law was construed in
+Scarborough
+. See,
+e.g.
+,
+Singletary
+, 268 F.3d at 203-205;
+Smith
+, 101 F.2d at 215;
+United States
+v.
+Blais
+, 98 F.3d 647, 649 (1st Cir. 1996), cert. denied, 519 U.S. 1134 (1997);
+Chesney
+, 86 F.3d at 568- 569;
+McAllister
+, 77 F.3d at 389-390;
+Sorrentino
+, 72 F.3d at 296;
+Bell
+, 70 F.3d at 498. The courts of appeals have also uniformly rejected Commerce Clause challenges to Section 922(g)(8), and this Court has repeatedly denied review. See,
+e.g.
+,
+United States
+v.
+Baker
+, 197 F.3d 211, 218 (6th Cir. 1999), cert. denied, 528 U.S. 1197 (2000);
+United States
+v.
+Bostic
+, 168 F.3d 718, 722-724 (4th Cir.), cert. denied, 527 U.S. 1029 (1999);
+United States
+v.
+Cunningham
+, 161 F.3d 1343, 1345 (11th Cir. 1998);
+United States
+v.
+Wilson
+, 159 F.3d 280, 285-286 (7th Cir. 1998), cert. denied, 527 U.S. 1024 (1999);
+United States
+v.
+Pierson
+, 139 F.3d 501, 503 (5th Cir.), cert. denied, 525 U.S. 896 (1998). There is no reason for a different result here.
+3. Petitioner contends (Pet. 10-13) that application of Section 922(g)(8) to his conduct violates his rights under the Due Process Clause of the Fifth Amendment. That claim lacks merit.
+a. Relying on
+Lambert
+v.
+California
+, 355 U.S. 225 (1957), petitioner argues (Pet. 10-11) that Section 922(g)(8) violates the Due Process Clause because it does not require that the subject of a domestic violence restraining order be informed that continued possession of a firearm is unlawful. In
+Lambert
+, the Court observed that "[t]he rule that ignorance of the law will not excuse is deep in our law." 355 U.S. at 228 (citation and internal quotation marks omitted); accord,
+e.g.
+,
+Cheek
+v.
+United States
+, 498 U.S. 192, 199 (1991).
+Lambert
+recognized a limited exception to that principle, however, holding unconstitutional a municipal ordinance that made it a felony for a convicted felon to remain in the city for more than five days without registering. Observing that the proscribed conduct was "wholly passive" and "unaccompanied by any activity whatever, mere presence in the city being the test," the Court held that, "[w]here a person did not know of the duty to register and where there was no proof of the probability of such knowledge, he may not be convicted consistently with due process." 355 U.S. at 229-230.
+Petitioner's knowing possession of a firearm, by contrast, constitutes "active conduct, as distinct from the wholly passive failure to register that was at issue in
+Lambert
+."
+United States
+v.
+Hancock
+, 231 F.3d 557, 564 (9th Cir. 2000) (internal quotation marks omitted), cert. denied, 532 U.S. 989 (2001). And "[t]he fact that [petitioner] has been made subject to a domestic violence protection order provided him with notice that his conduct was subject to increased government scrutiny [so that] it is not reasonable for someone in his position to expect to possess dangerous weapons free from extensive regulation."
+Baker
+, 197 F.3d at 220; see also
+Hancock
+, 231 F.3d at 564 (person who committed domestic violence offense "removed himself from the class of ordinary and innocent citizens who would expect no special restrictions on the possession of a firearm") (internal quotation marks omitted);
+United States
+v.
+Hutzell
+, 217 F.3d 966, 968 (8th Cir. 2000) (an "individual's domestic violence conviction should itself put that person on notice that subsequent possession of a gun might well be subject to regulation"), cert. denied, 532 U.S. 944 (2001);
+United States
+v.
+Meade
+, 175 F.3d 215, 226 (1st Cir. 1999) ("a person who is subject to [a domestic violence restraining] order would not be sanguine about the legal consequences of possessing a firearm");
+Bostic
+, 168 F. 3d at 721 ("Like a felon, a person [subject to a domestic violence restraining order] cannot reasonably expect to be free from regulation when possessing a firearm").
+Finally, the decision in
+Lambert
+was based in part on the fact that "there was no proof of the probability of [the defendant's] knowledge" of the registration requirement.
+Lambert
+, 355 U.S. at 229. In contrast, when petitioner purchased his Beretta pistol, he filled out and signed an ATF Form 4473. Pet. App. 47-49; see Gov't C.A. Br. App. 1. That form gave petitioner express notice that a person subject to a domestic violence restraining order could not receive a firearm. Pet. App. 48 n.7; Gov't C.A. Br. App. 1, at 2. That warning belies petitioner's contention (Pet. 11) that he had no reason to inquire whether his continued possession of a firearm was lawful after the issuance of the domestic violence restraining order.
+b. Petitioner contends (Pet. 11-12) that he was effectively precluded from relinquishing possession of his firearm, as required by Section 922(g)(8), because relinquishment of possession would itself have violated (1) Section 922(g)(8)'s ban on "transport[ing]" weapons and (2) the decree of the domestic relations court, which barred petitioner from disposing of any property of the marital estate. Those arguments were not made in the courts below and therefore should not be considered here. See, e.g.,
+Pennsylvania Dept. Of Corrections
+v.
+Yeskey
+, 524 U.S. 206, 212-213 (1998) (collecting cases). The Bureau of Alcohol, Tobacco and Firearms has provided guidance to persons who have been disabled from possessing a firearm as to how to comply with the requirements of Section 922(g) and avoid the risk of prosecution thereunder. Specifically addressing persons with a domestic violence misdemeanor conviction covered under 18 U.S.C. 922(g)(9)), the Bureau "recommends that such persons transfer their firearms and ammunition to a third party who may lawfully receive and possess them, such as their attorney, a local police agency or a Federal firearms dealer." ATF Publication 5300.4,
+Federal Firearms Guide
+, 153 (Jan. 2000). If petitioner believes that such options were not lawfully available to him, he remains free to raise that contention at trial and, if necessary, on appeal from any judgment of conviction.
+c. Petitioner contends (Pet. 12-13) that Section 922(g)(8) violates his rights under the Fifth Amendment by depriving him of his property interest in a lawfully owned firearm without affording him notice and a hearing. Because that argument also was not raised in the courts below, it likewise does not warrant further consideration. In any event, the claim lacks merit.
+Section 922(g)(8) does not deprive the subject of a domestic violence restraining order of his property right in a previously possessed firearm. Instead, it simply forbids the subject from shipping, transporting, or possessing a firearm during the pendency of the restraining order. It is therefore permissible for such a person to sell his firearm to a person permitted to possess it, or to place the firearm in the custody of a third person while the order is in effect.
+Even if petitioner's loss of the right to possess a firearm during the pendency of the restraining order is regarded as a deprivation of "property" within the meaning of the Fifth Amendment, no constitutional violation occurred here. Section 922(g)(8) applies only when a domestic violence restraining order "was issued after a hearing of which such person received actual notice, and at which such person had an opportunity to participate." 18 U.S.C. 922(g)(8)(A). In the state court proceedings that culminated in the restraining order, petitioner's wife testified that he had made threatening phone calls. Pet. App. 35-36. Although petitioner was given the opportunity to do so, he declined either to cross-examine his wife or to present evidence that would refute her testimony or explain his conduct.
+Id
+. at 36. Because petitioner received notice and an opportunity to be heard before the state court entered the restraining order, his rights under the Due Process Clause were fully protected, even if the temporary ban on his possession of firearms imposed by Section 922(g)(8) is regarded as a deprivation of "property." See
+Wilson
+, 159 F.3d at 289 (holding that a hearing satisfying the requirements of Section 922(g)(8)(A) also satisfied requirements of due process).
+4. Petitioner contends (Pet. 13-16) that Section 922(g)(8) violates his Second Amendment right to keep and bear arms. The court of appeals held both that the Second Amendment protects an individual's right to possess a firearm (Pet. App. 134-135), and that the right is subject to "limited, narrowly tailored specific exemptions or restrictions for particular cases that are reasonable and not inconsistent with the right of Americans generally to individually keep and bear their private arms as historically understood in this country" (
+id
+. at 136). Applying that test, the court of appeals held, correctly, that Section 922(g)(8), which serves to prevent firearm possession by persons who have been judicially determined to pose a credible threat to the physical safety of a spouse or child, is a permissible limitation.
+Id
+. at 137-143. Petitioner identifies no case, and the government is aware of none, in which a court of appeals has found Section 922(g)(8) - or, for that matter, any other federal statutory restriction on private gun possession - to be violative of the Second Amendment. Petitioner's claim therefore does not warrant further review.
+Other courts of appeals have rejected Second Amendment challenges to various provisions of Section 922(g) on the ground that the Amendment protects the possession of firearms only in connection with state militia activity. See,
+e.g.
+,
+United States
+v.
+Napier
+, 233 F.3d 394, 402-404 (6th Cir. 2000);
+Hancock
+, 231 F.3d at 565-566;
+Gillespie
+v.
+City of Indianapolis
+, 185 F.3d 693, 710- 711 (7th Cir. 1999), cert. denied, 528 U.S. 1116 (2000);
+United States
+v.
+Smith
+, 171 F.3d 617, 624 (8th Cir. 1999). The court of appeals here rejected the analytic approach employed in those decisions, holding that the Second Amendment "protects the rights of individuals, including those not then actually a member of any militia or engaged in active military service or training, to privately possess and bear their own firearms, such as the pistol involved here, that are suitable as personal, individual weapons." Pet. App. 134-135; see also
+id
+. at 144. But while the courts of appeals are in disagreement concerning the abstract question whether the Amendment protects an individual right to bear arms for reasons unrelated to militia service, no circuit conflict exists on the constitutionality of any firearms prohibition contained within 18 U.S.C. 922.
+Petitioner argues (Pet. 14-16) that the court of appeals erred in failing to apply strict scrutiny in ruling on his Second Amendment challenge to Section 922(g)(8). Contrary to petitioner's suggestion (Pet. 15), however, the court of appeals did not purport to apply a relaxed standard of review. Rather, the court stated that, "as historically understood in this country," an individual's right to possess a firearm is subject to "limited, narrowly tailored specific exceptions or restrictions." Pet. App. 136. Where an injunction against violent conduct reflects the issuing court's determination that an individual poses "a real threat or danger of injury to" another,
+id
+. at 138, the court of appeals "conclude[d] that the nexus between firearm possession by the party so enjoined and the threat of lawless violence, is sufficient, though likely barely so, to support the deprivation, while the order remains in effect, of the enjoined party's Second Amendment right to keep and bear arms,"
+id
+. at 143. In any event, the court's analysis produced a result that is consistent with decisions of other courts of appeals that have upheld the constitutionality of Section 922(g)(8). Further review is therefore unwarranted.
+CONCLUSION
+The petition for a writ of certiorari should be denied.
+Respectfully submitted.
+THEODORE B. OLSON
+Solicitor General
+MICHAEL CHERTOFF
+Assistant Attorney General
+JOHN F. DE PUE
+Attorney
+MAY 2002
+APPENDIX
+[Seal Omitted]Office of the Attorney General
+Washington, D.C. 20530
+November 9, 2001
+MEMORANDUM TO ALL UNITED STATES' ATTORNEYS
+FROM:The Attorney General /s/ John Ashcroft
+RE:
+United States v. Emerson
+On October 16, 2001, the United States Court of Appeals for the Fifth Circuit issued its decision in
+United States v. Emerson
+. I am pleased that the decision upholds the constitutionality of 18 U.S.C. 922(g)(8) - which prohibits violent persons who are under domestic restraining orders from possessing firearms. By taking guns out of the hands of persons whose propensity to violence is sufficient to warrant a specific restraining order, this statute helps avoid tragic episodes of domestic violence. As I have stated many times, reducing gun crime is a top priority for the Department. We will vigorously enforce and defend existing firearms laws in order to accomplish that goal.
+Emerson
+is also noteworthy because, in upholding this statute, the Fifth Circuit undertook a scholarly and comprehensive review of the pertinent legal materials and specifically affirmed that the Second Amendment "protects the right of
+individuals
+, including those not then actually a member of any militia or engaged in active military service or training, to privately possess and bear their own firearms. . . ." The Court's opinion also makes the important point that the existence of this individual right does not mean that reasonable restrictions cannot be imposed to prevent unfit persons from possessing firearms or to restrict possession of firearms particularly suited to criminal misuse. In my view, the
+Emerson
+opinion, and the balance it strikes, generally reflect the correct understanding of the Second Amendment.
+The Department can and will continue to defend vigorously the constitutionality, under the Second Amendment, of all existing federal firearms laws. The Department has a solemn obligation both to enforce federal law
+and
+to respect the constitutional rights guaranteed to Americans. Because it may be expected that
+Emerson
+will be raised in any number of firearms case handled by this Department, it is important that the Department carefully assess the implications of the
+Emerson
+decision and how it interacts with existing circuit precedent. Accordingly, United States Attorney's Offices should promptly advise the Criminal Division of all cases in which Second Amendment issues are raised, and coordinate all briefing in those cases with the Criminal Division and the Solicitor General's office.
+As the Supreme Court has long observed, the mission of the Department "in a criminal prosecution is not that it shall win a case, but that justice shall be done."
+Berger v. United States
+, 295 U.S. 78, 88 (1935). Justice is best achieved, not by making any available argument that might win a case, but by vigorously enforcing federal law in a manner that heeds the commands of the Constitution.
+Brief
+2001-8780.resp.pdf
+[PDF,
+]
+Updated October 21, 2014
+Office of the Solicitor General
+950 Pennsylvania Ave. NW
+Washington DC 20530-0001
+202-514-2203
+Signup for Email Updates
+Social Media
+About
+Budget & Performance
+Archives
+FOIA
+Accessibility
+Legal Policies & Disclaimers
+Privacy
+For Employees
+Office of the Inspector General
+No FEAR Act Data
+EEO Policy Statement
+Vulnerability Disclosure
+Multilingual
+Vote.gov
+Have a question about Government Services?
+Contact USA.gov
+Top

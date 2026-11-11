@@ -1,0 +1,21 @@
+{
+  "record": "united-states-v-drayton_merits_2002-06-17.md",
+  "interface": "pass",
+  "explanation_word_counts": [
+    98,
+    190
+  ],
+  "holdings_projection_identity": "pass",
+  "judgment_components_checked": 1,
+  "links": "pass",
+  "assignment_counts": "fresh from actual preceding opinion tables",
+  "substantive_validation": [
+    "Stone fixed core and actual component joins checked",
+    "Frozen non-Stone dispositions and join limits preserved",
+    "Judgment, holdings, remedy and topology reconciled",
+    "Each operative condition, exception and alternative stated",
+    "Public projection eleven-block interface and holdings identity checked",
+    "Assignment uses form-first actual preceding-record recount"
+  ],
+  "history_verification": "operator pending"
+}

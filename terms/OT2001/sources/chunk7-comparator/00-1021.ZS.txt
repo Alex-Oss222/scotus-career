@@ -1,0 +1,60 @@
+RUSH PRUDENTIAL HMO, INC. V. MORAN
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+RUSH PRUDENTIAL HMO, INC. V. MORAN (00-1021) 
+230 F.3d 959, affirmed.
+Syllabus
+ Opinion
+ [ Souter ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+RUSH PRUDENTIAL HMO, INC. v. MORAN et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+
+ 
+No. 00—1021.  Argued January 16, 2002–Decided June 20, 2002
+
+Petitioner Rush Prudential HMO, Inc., a health maintenance organization (HMO) that contracts to provide medical services for employee welfare benefits plans covered by the Employee Retirement Income Security Act of 1974 (ERISA), denied respondent Moran’s request to have surgery by an unaffiliated specialist on the ground that the procedure was not medically necessary.  Moran made a written demand for an independent medical review of her claim, as guaranteed by §4—10 of Illinois’s HMO Act, which further provides that “[i]n the event that the reviewing physician determines the covered service to be medically necessary,” the HMO “shall provide” the service.  Rush refused her demand, and Moran sued in state court to compel compliance with the Act.  That court ordered the review, which found the treatment necessary, but Rush again denied the claim.  While the suit was pending, Moran had the surgery and amended her complaint to seek reimbursement.  Rush removed the case to federal court, arguing that the amended complaint stated a claim for ERISA benefits.  The District Court treated Moran’s claim as a suit under ERISA and denied it on the ground that ERISA preempted §4—10.  The Seventh Circuit reversed.  It found Moran’s reimbursement claim preempted by ERISA so as to place the case in federal court, but it concluded that the state Act was not preempted as a state law that “relates to” an employee benefit plan, 29 U.S. C. §1144(a), because it also “regulates insurance” under ERISA’s saving clause, §1144(b)(2)(a).
+
+Held: ERISA does not preempt the Illinois HMO Act.  Pp. 6—31.
+
+    (a) In deciding whether a law regulates insurance, this Court starts with a commonsense view of the matter, Metropolitan Life Ins. Co. v. Massachusetts, 471 U.S. 724, 740, which requires a law to “be specifically directed toward” the insurance industry, Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 50.  It then tests the results of the commonsense enquiry by employing the three factors used to point to insurance laws spared from federal preemption under the McCarran-Ferguson Act.  Pp. 6—18.
+
+          (1) The Illinois HMO Act is directed toward the insurance industry, and thus is an insurance regulation under a commonsense view.  Although an HMO provides healthcare in addition to insurance, nothing in the saving clause requires an either-or choice between healthcare and insurance.  Congress recognized, the year before passing ERISA, that HMOs are risk-bearing organizations subject to state insurance regulation.  That conception has not changed in the intervening years.  States have been adopting their own HMO enabling Acts, and at least 40, including Illinois, regulate HMOs primarily through state insurance departments.  Rush cannot submerge HMOs’ insurance features beneath an exclusive characterization of HMOs as health care providers.  And the argument of Rush and its amici that §4—10 sweeps beyond the insurance industry, capturing organizations that provide no insurance and regulating noninsurance activities of HMOs that do, is based on unsound assumptions.  Pp. 9—16.
+
+          (2) The McCarran-Ferguson factors confirm this conclusion.  A state law does not have to satisfy all three factors to survive preemption, and §4—10 clearly satisfies two.  The independent review requirement satisfies the factor that a provision regulate “an integral part of the policy relationship between the insurer and the insured.”  Union Labor Life Ins. Co. v. Pireno, 458 U.S. 119, 129.  Illinois adds an extra review layer when there is an internal disagreement about an HMO’s denial of coverage, and the reviewer both applies a medical care standard and construes policy terms.  Thus, the review affects a policy relationship by translating the relationship under the HMO agreement into concrete terms of specific obligation or freedom from duty.  The factor that the law be aimed at a practice “limited to entities within the insurance industry,” ibid., is satisfied for many of the same reasons that the law passes the commonsense test: It regulates application of HMO contracts and provides for review of claim denials; once it is established that HMO contracts are contracts for insurance, it is clear that §4—10 does not apply to entities outside the insurance industry.  Pp. 16—18.
+
+      (b) This Court rejects Rush’s contention that, even though ERISA’s saving clause ostensibly forecloses preemption, congressional intent to the contrary is so clear that it overrides the statutory provision.  Pp. 18—30.
+
+          (1) The Court has recognized an overpowering federal policy of exclusivity in ERISA’s civil enforcement provisions located at 29 U.S.C. § 1132(a); and it has anticipated that in a conflict between congressional polices of exclusively federal remedies and the States’ regulation of insurance, the state regulation would lose out if it allows remedies that Congress rejected in ERISA, Pilot Life, 481 U.S., at 54.  Rush argues that §4—10 is preempted for creating the kind of alternative remedy that this Court disparaged in Pilot Life, one that subverts congressional intent, clearly expressed through ERISA’s structure and legislative history, that the federal remedy displace state causes of action.  Rush overstates Pilot Life’s rule.  The enquiry into state processes alleged to “supplemen[t] or supplan[t]” ERISA remedies, id., at 56, has, up to now, been more straightforward than it is here.  Pilot Life, Massachusetts Mut. Life Ins. Co. v. Russell, 473 U.S. 134, and Ingersoll-Rand Co. v. McClendon, 498 U.S. 133, all involved an additional claim or remedy that ERISA did not authorize.  In contrast, the review here may settle a benefit claim’s fate, but the state statute does not enlarge the claim beyond the benefits available in any §1132(a) action.  And although the reviewer’s determination would presumably replace the HMO’s as to what is medically necessary, the ultimate relief available would still be what ERISA authorizes in a §1132(a) suit for benefits.  This case therefore resembles the claims-procedure rule that the Court sustained in UNUM Life Ins. Co. of America v. Ward, 526 U.S. 358.  Section 4—10’s procedure does not fall within Pilot Life’s categorical preemption.  Pp. 20—24.
+
+          (2) Nor does §4—10’s procedural imposition interfere unreasonably with Congress’s intention to provide a uniform federal regime of “rights and obligations” under ERISA.  Although this Court has recognized a limited exception from the saving clause for alternative causes of action and alternative remedies, further limits on insurance regulation preserved by ERISA are unlikely to deserve recognition.  A State might provide for a type of review that would so resemble an adjudication as to fall within Pilot Life’s categorical bar, but that is not the case here.  Section 4—10 is significantly different from common arbitration.  The independent reviewer has no free-ranging power to construe contract terms, but instead confines review to the single phrase “medically necessary.”  That reviewer must be a physician with credentials similar to those of the primary care physician and is expected to exercise independent medical judgment, based on medical records submitted by the parties, in deciding what medical necessity requires.  This process does not resemble either contract interpretation or evidentiary litigation before a neutral arbiter as much as it looks like the practice of obtaining a second opinion.  In addition, §4—10 does not clash with any deferential standard for reviewing benefit denials in judicial proceedings.  ERISA itself says nothing about a standard.  It simply requires plans to afford a beneficiary some mechanism for internal review of a benefit denial and provides a right to a subsequent judicial forum for a claim to recover benefits.  Although certain “discretionary” plan interpretations may receive deference from a reviewing court, see Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115, nothing in ERISA requires that medical necessity decisions be “discretionary” in the first place.  Pp. 24—30.
+
+230 F.3d 959, affirmed.
+
+    Souter, J., delivered the opinion of the Court, in which Stevens, O’Connor, Ginsburg, and Breyer, JJ., joined.  Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia and Kennedy, JJ., joined.

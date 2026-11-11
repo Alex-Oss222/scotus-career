@@ -1,0 +1,343 @@
+**Case and dockets:** Robertson v. Bartels; No. 01-721; district No. 01-2024.
+**Event and date:** Signed summary disposition on direct appeal, 2002-06-20; October Term 2001, chunk 7.
+**Result:** Affirmed, 5–4, on Counts I and II; the stated nonparty-preclusion ground is rejected unanimously.
+**Version / lineage:** Original decision.
+
+## Event, chronology and entering law
+
+Robertson v. Bartels, No. 01-721; district No. 01-2024. Summary disposition on direct appeal, June 20, 2002. On appeal from the three-judge District Court for the District of New Jersey. The Court considers the papers without oral argument. The challenged map was adopted April 11, 2001; this action began April 27; summary judgment was announced May 31 and explained June 18. The appeal concerns Count I's predominant-racial-design theory and Count II's alleged racial favoritism in incumbent protection through district lines. The court denied relief on nonparty-preclusion and alternative merits grounds. The plaintiffs were not parties to Page, although they agreed that its testimony could be admitted. The questions concern the authority to bind them and the legal sufficiency of their two constitutional claims. Count III's separate residency controversy is outside this appeal.
+
+The accepted inventory supplies the June 20 direct-review event without a new arrival, filing or grant verification condition. The Court decides on the papers through a reasoned signed summary opinion; no oral argument or plenary merits review is assumed. Balderas is effective from June 17 at its actual fractured scope. These same-day New Jersey matters share the pre-June 20 law baseline and supply no new precedent to each other.
+
+## Participation and lawful channel
+
+All nine Justices participate in submission and decision. Six make a quorum and five a majority. The reviewed final three-judge injunction denial supplies the direct-review channel under 28 U.S.C. sections 1253 and 2284. Article III exposure is distinct from the merits; nonparty preclusion is not a jurisdictional label.
+
+## Stone
+
+## A. STATUS
+
+* **Approval Status:** Approved by the author on November 10, 2026. Approval covers Stone's position in this case. It records no vote of any other Justice and no judgment of the Court.
+* **Current-Through Baseline:** Completed decisions through June 28, 2001.
+* **Conditions:** The position is approved. No Court judgment is recorded here.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone's Controlled Judgment or Disposition:** Affirm the judgment for defendants on Counts I and II on the independently sufficient merits ground. Do not endorse binding these plaintiffs through shared political interests alone.
+* **Stone's Remedy and Remand Position:** Deny the requested redistricting injunction. Order no replacement map, election change, or new preclusion hearing. Leave Count III and its separate residency proceeding outside the mandate. Affirmance resolves these claims, not every possible challenge to the map.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: Nonparty preclusion
+
+* **Threshold and Merits Reach:** The court relied on preclusion. Stone addresses that rationale without treating it as Article III jurisdiction or inventing participation findings.
+* **Question Stone Resolves:** Whether political association, parallel objectives, and anticipated benefit from Page suffice to bind these different plaintiffs.
+* **Stone's Legal Position:** Reaffirm Richards; distinguish ordinary preclusion from representation inferred merely from aligned interests.
+* **Stone's Proposed Holding:** A nonparty may be bound only through a constitutionally sufficient basis for binding that person's rights. Political affiliation, competent advocacy by others, common requested relief, and notice of another action do not collectively replace that basis. The stated rationale therefore cannot independently support affirmance.
+* **Reach Within the Question:** Genuine consent, control, substantive privity, and authorized representative litigation remain effective. Actual control means participation in directing the earlier litigation, not merely a preference for its success. Representative authority requires a relationship authorizing and adequately protecting another's rights; earnest advocacy alone is insufficient.
+* **Essential Reasoning and Record Application:** Finality protects judgments against persons lawfully bound by them. It does not turn every voter who might benefit from invalidation into a represented party. An inference of binding authority from failure to intervene would recreate the intervention duty Richards rejects. The distinction between a public issue and a private financial interest does not erase personal voting rights. Precedent and due-process structure carry decisive weight; administrative efficiency cannot supply missing authority.
+* **Boundary or Reserved Question:** Whether additional facts establish an actual controlling or representative relationship remains undecided because those facts are not established and the independently sufficient merits ground requires no remand to obtain them.
+
+### Issue 2: Territorial racial design and incumbent treatment
+
+* **Threshold and Merits Reach:** Stone reviews the legal sufficiency of the two redistricting claims while giving plaintiffs favorable reasonable inferences, including the assumed racial motivation of the challenged choices. He does not affirm by deciding disputed motivation against them or treating failed merits proof as lack of standing.
+* **Question Stone Resolves:** Whether racial motivation in drawing District 34 and protecting some incumbents through electoral boundaries establishes the constitutional deprivation asserted here.
+* **Stone's Legal Position:** Reaffirm Shaw, Miller, and Easley. Resolve the presented territorial and incumbent claims through their distinction between territorial design and an independently prohibited operation.
+* **Stone's Proposed Holding:** Racial predominance in a common territorial electorate, including choices intended to improve particular incumbents' prospects, does not alone establish unequal constitutional eligibility, participation, or civic status. Calling favorable district composition a governmental benefit does not change that operation. Count II must nonetheless receive independent examination: if it actually establishes racial candidacy restrictions, unequal access, intentional dilution, or another recognized deprivation, the applicable claim governs. The identified record establishes no such separate operation; Counts I and II therefore fail.
+* **Reach Within the Question:** The same rule protects white and Black voters and candidates. It creates neither a right to a preferred racial composition nor immunity for racially discriminatory incumbent protection. The Fifteenth Amendment theory likewise identifies no racial exclusion from the electorate or separately supported abridgment. Voinovich's reservation concerning dilution coverage remains intact.
+* **Essential Reasoning and Record Application:** An operation is what the government makes a racial distinction do to a protected civic interest, not the motive alone. A material participation impairment changes the real opportunity to enter or use the political process; unfavorable electoral prospects do not automatically establish it. Inferior civic status means government-imposed unequal political membership, not an inference that shared racial composition assigns voters beliefs or reduces a representative's duties to others. Here the challenged mechanism is the composition of the electorate. No separate racial voting qualification, official participation designation, or supported interference with political access is identified. Stone does not infer that those other acts occurred, and he does not require a later defeat before examining one that is actually alleged and supported.
+
+  The absence of a right to reelection is insufficient reasoning by itself: government cannot discriminate unlawfully in allocating an opportunity merely because no applicant is guaranteed success. The decisive distinction is between an actual unequal allocation governed by its own rule and the shared territorial design governed by Miller. The combination of precedent, analysis of the governmental operation, and the summary-judgment rule resolves this case, with precedent decisive. No balancing of desirable representation against a proved civic deprivation occurs, and no numerical safe harbor follows. This clarification governs analogous design-only claims; unpresented partisan operations and purposeful regional segregation require their own records and legal questions.
+* **Boundary or Reserved Question:** The separately referred residency claim lies outside the reviewed judgment. The sufficiency of materially different eligibility, participation, or intentional-dilution facts is not decided because they are not established here. Fifteenth Amendment dilution coverage is unnecessary to resolve this design-only theory and remains reserved under Voinovich.
+
+## D. OPINION ASSIGNMENT
+
+* **When this note applies:** Each case is run separately. The other Justices' stances are run first, and Stone's approved position is applied afterward. This note is complete in itself and does not depend on any other case file.
+* **Counting rule:** The Court has nine Justices. Six make a quorum. Five make a majority. Count Stone as one vote for the test. If at least four of the other eight Justices agree with the test as applied to *Robertson v. Bartels*, five Justices agree, and **Stone writes the opinion for the Court and articulates the test in it**. If fewer than four of the other eight agree, this note assigns no opinion, and Stone's approved position stands as his own vote and reasoning. If fewer than six Justices participate, there is no quorum and nothing is assigned.
+* **What counts as agreeing with the test in this case:** A Justice agrees if that Justice's stance accepts each of the following. (1) A design-only claim fails even when racial motivation is assumed in the plaintiff's favor. (2) An actual racial allocation of eligibility, candidacy or access would be judged on its own elements. (3) Voters and candidates of every race have the same protection. Agreement with the judgment alone is not agreement with the test.
+* **The test, stated in full for this case file:** Government may take account of race or party when it organizes elections. The constitutional injury is what the State made that characteristic do to a person's place in the political community. It is never how heavily the characteristic weighed in the State's decision. A complaint that alleges only motive, predominance, district shape or composition states no claim. Standing is decided first and is not a merits element. The plaintiff must then prove a specific operation on that operation's own elements. For race the operations are Exclude, Mark, Burden and Dilute; a fifth, Segregate, is drafted and reserved. For party they are Foreclose and Entrench. Predominance and shape are evidence and nothing more. Relief removes the proved operation and goes no further, with the State acting first. Voting Rights Act claims proceed on their own elements and are never gated by this test.
+* **What Stone articulates in this case if he writes:** The principle and the rule that a design-only complaint states no claim, applied with motive assumed against the State. The contrast between the composition of an electorate and an operation such as Exclude or Mark. The rule that the same protection extends to every race. The separate holding under *Richards* that shared political interests do not bind nonparties. The limit that incumbent protection is not declared incapable of ever being a racial allocation.
+
+**Final compatibility:** Stone rejects the stated preclusion rationale and affirms both reviewed merits counts under the independent territorial-operation ground, with favorable reasonable inferences. He joins all three parts and the bounded remedy. His Section D agreement condition has four Associate supporters at its stated scope; author selection follows the current Run instruction. No standing fallback is used.
+
+## Public judgment and opinions
+
+**Affirmed, 5–4, on Counts I and II.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
+
+All nine reject the stated basis for binding these plaintiffs to Page. That agreement supplies no additional merits vote. The denial of the redistricting injunction stands on the independent merits ground; Count III and its separate residency proceeding remain outside the mandate.
+
+| Writing | Author | Joins and scope |
+|---|---|---|
+| Opinion of the Court | Stone-Zsela | Part I: all other Justices. Parts II and III: Stevens, Souter, Ginsburg, Breyer. |
+| Concurrence in part and dissent in part | Kennedy | O'Connor, Scalia and Thomas; joins Part I, would vacate both merits counts under the proposed predominant-assignment rule |
+
+Part I concerns nonparty preclusion; Part II concerns Count I; Part III separately examines Count II's claimed incumbent benefit.
+
+## Controlling holdings
+
+### Political alignment and common requested relief do not bind these nonparties
+
+**Holding and operative rule:** A prior judgment cannot bind different plaintiffs merely because they share political interests, request the same relief, know of the earlier case or could have sought intervention. The stated virtual-representation ground fails without constitutionally sufficient consent, control, genuine privity, authorized representation or another valid binding arrangement; agreement to admit testimony supplies none of those relationships by itself.
+
+**Authority:** Part I of the signed opinion of the Court is joined by all nine Justices.
+
+**Controlling explanation:** The Court holds that the Page judgment does not bind these plaintiffs on the reasons the district court gave. Richards requires lawful authority to represent an absent person, and Hansberry preserves the due-process prerequisite to genuine representative adjudication. Shared political association, vigorous advocacy, adequate incentives and the public importance of a controversy do not establish that authority. Nor does describing the second suit as tactical create a general duty to intervene. The parties agreed to the use of Page testimony as evidence; they did not thereby agree to its inferences, authorize representation or consent to binding adjudication. The public character of map relief does not, without an actual authorized arrangement, turn ordinary litigation into a proceeding representing all interested voters. Devlin concerns persons already bound as members of a mandatory class and does not make these strangers members of one. Valid representative and special remedial arrangements remain possible, but none is supplied by the stated rationale. The independent merits ground permits disposition without an exploratory remand to construct a new preclusion relationship.
+
+**Precedent treatment:** Richards and Hansberry: applied to the necessary authority for binding absent claimants. Devlin: distinguished because its appellants were already bound mandatory-class members, not political allies outside the litigation.
+
+### The territorial-design count identifies no independent constitutional deprivation
+
+**Holding and operative rule:** Predominantly racial design of a common territorial electorate does not alone establish a Fourteenth Amendment deprivation. Even giving these plaintiffs the favorable reasonable inferences required on summary judgment, Count I identifies no independently cognizable denial or abridgment; the judgment denying relief on that count therefore stands.
+
+**Authority:** Parts II and III of the signed opinion of the Court are joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Controlling explanation:** The Court holds that the disputed weight of racial considerations is not material to the design-only claim under governing law. Shaw, Miller and Easley distinguish the motive for common district boundaries from an actual exclusion, dilution, unequal participation or other prohibited treatment. The Court assumes favorable reasonable inferences from Bartels's minority-incumbent protection commitment and does not decide that race could not have predominated merely because other criteria were also considered or the map had ordinary shape. Anderson v. Liberty Lobby requires those favorable inferences, but an inference about motive cannot supply a missing legal deprivation. The dissent would reconsider the governing boundary and treat predominant racial assignment itself as unequal treatment. The Court retains the distinction: membership in the resulting common electorate imposes no racial qualification or legally unequal civic status by itself. That conclusion requires neither a second governmental act nor electoral defeat or financial loss. The actual territorial theory also supplies no independent denial or abridgment for the pleaded Fifteenth Amendment theory; its broader dilution coverage need not be decided.
+
+**Precedent treatment:** Shaw, Miller and Easley: applied without changing the territorial-design boundary or protections for actual independent wrongs. Anderson v. Liberty Lobby: applied to favorable reasonable inferences, with materiality determined by the governing substantive law. Voinovich: its broader Fifteenth Amendment coverage reservation remains intact.
+
+### The actual incumbent-prospect claim concerns the same territorial operation
+
+**Holding and operative rule:** A claim that district boundaries favor minority incumbents' reelection prospects does not become a separate racial allocation of candidacy or civic rights merely by describing those prospects as an incumbent benefit. Count II identifies the composition of the common electorate and its expected political support, without an independent eligibility restriction or participation impairment, and fails under the same constitutional boundary.
+
+**Authority:** Parts II and III of the signed opinion of the Court are joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Controlling explanation:** The Court holds that the actual governmental operation, not the beneficiary label, determines this claim. The evidence of a commitment to protect minority incumbents receives its favorable inference; the Court neither approves every such preference nor excuses established racial discrimination because no incumbent owns a future term. Here the challenged benefit consists of the reelection prospects resulting from district lines. The record supplies no separate racial ballot qualification, restricted candidacy, office entitlement, official racial ballot label or independent participation barrier in Counts I or II. Anderson v. Martin concerns official racial electoral labeling and therefore addresses a different operation. Adarand supplies justification requirements for an actual covered racial allocation; it does not itself supply the missing deprivation here. Easley preserves review of unequal eligibility and materially unequal participation without demanding a changed winner, but those are not the actual basis of this count. The separate residency controversy in Count III cannot be borrowed to enlarge this appeal. Because the asserted benefit remains the same territorial composition, the disputed priority of motives does not require a trial under the governing rule.
+
+**Precedent treatment:** Easley: applied to the actual operation and preserved independent injuries. Anderson v. Martin: distinguished from common geographical composition. Adarand: preserved for an actual covered racial allocation, without using its justification rule to create one.
+
+## Precedent treatment
+
+- Richards v. Jefferson County: applied to lawful authority to bind absent claimants; political affinity, common objectives and failure to intervene supply no substitute. Its allowance for actual authorized representative and special remedial arrangements remains intact.
+- Hansberry v. Lee: genuine representation must meet due process.
+- Devlin v. Scardelletti (June 10, 2002): distinguished because its mandatory-class members were actually bound; it creates no representative relationship among these political allies.
+- Shaw v. Reno, Johnson v. Miller and Easley v. Cromartie: the territorial-design boundary is reaffirmed for both the direct design claim and the actual electorate-based incumbent-prospect theory. Their protection of independently cognizable wrongs remains intact.
+- Anderson v. Liberty Lobby: favorable reasonable inferences are preserved; materiality depends on the substantive cause.
+- Anderson v. Martin: official racial electoral labeling differs from the common geographical electorate challenged here.
+- Adarand Constructors, Inc. v. Peña: justification rules for an actual covered racial allocation remain effective and do not supply a missing deprivation.
+- Voinovich v. Quilter: the broader Fifteenth Amendment dilution-coverage question remains reserved.
+
+## Law after decision
+
+The nonparty rule remains grounded in actual authority to bind a person's rights. The constitutional territorial-design rule covers the actual incumbent-prospect theory when the claimed benefit consists of the same district composition; it does not immunize a different racial allocation of eligibility, civic status or participation. Both claims can be rejected while assuming favorable racial-motive inferences, without resolving the disputed relative weight of motives or endorsing every rationale below.
+
+## Continuity
+
+The nonparty rule remains grounded in actual authority to bind a person's rights. The constitutional territorial-design rule covers the actual incumbent-prospect theory when the claimed benefit consists of the same district composition; it does not immunize a different racial allocation of eligibility, civic status or participation. Both claims can be rejected while assuming favorable racial-motive inferences, without resolving the disputed relative weight of motives or endorsing every rationale below.
+
+**Kennedy, concurring in part and dissenting in part, joined by O'Connor, Scalia and Thomas.** They join rejection of the stated nonparty-preclusion ground but would vacate summary judgment on Counts I and II for consideration under their proposed predominant-racial-assignment rule. Following their Easley position, they regard governmental racial assignment as unequal treatment when race actually predominates, without requiring an additional electoral loss. Bartels's express minority-incumbent protection commitment permits a reasonable inference about racial priority. A regular map and the presence of other criteria do not conclusively defeat that inference on summary judgment. The proposed remand would assess the relative role of race and any required justification under ordinary procedure. It would not find predominance or a violation established, order new boundaries, or guarantee a trial. This opinion seeks reconsideration of the Court's territorial-design boundary; it does not describe that proposed rule as existing law.
+
+Count III remains separate, and the direct redistricting appeal is concluded.
+
+## Sources and status
+
+The [frozen neutral packet](../freeze/OT_2001CHUNK7_B_2_NEUTRAL.md), [frozen reconciliation](../freeze/OT_2001CHUNK7_B_2_RECONCILED.md) and [validation](../freeze/OT_2001CHUNK7_B_2_RECONCILED_VALIDATION.md) preserve the record and comparison. Complete lower opinion texts, including all notes, are saved as [Page](../runtime/research_june20/page_lower.txt) and [Robertson](../runtime/research_june20/robertson_lower.txt). The reconciler read both complete primary texts; no independent possession of original transcripts or exhibits is asserted. [Selected entering law](../entering-law/OT_2001CHUNK7_B_SELECTED.md), [current law](../entering-law/OT_2001CHUNK7_B_CURRENT.md) and [Balderas public law](../entering-law/OT_2001CHUNK7_BALDERAS_PUBLIC.md) supply the operative rules. Historical fact, existing law and present inference remain distinct. No historical individual Supreme Court vote is inferred from an unexplained order.
+
+Research cutoff: 2002-06-20; no later law or event supplies a premise. The Record is preserved in the Current Term State by durable filesystem handoff on November 10, 2026, subject to coordinated projection checks. Repository verification and commitment remain for the operator under the Run instruction.
+
+## Adaptive audit annex
+
+### Frozen independent commitments
+
+## Robertson v. Bartels — No. 01-721
+
+### Components and actual record
+
+Direct review reaches only summary judgment denying relief on Counts I and II. Count I challenges predominant racial territorial design; Count II alleges racial favoritism in protecting incumbents through the district lines. Count III's residency controversy and the separate single-judge judgment are outside this appeal. The defendants obtained judgment on both nonparty preclusion and alternative merits grounds. The two grounds remain independent, and agreement with one is not endorsement of the other.
+
+The parties agreed that Page testimony could be used in this case. They did not agree that these different plaintiffs were parties to Page, authorize representation, or adopt every inference and trial finding. The lower court relied on shared political association, common requested relief, filing a second suit rather than intervening, adequacy of the first counsel's incentive, and the public character of the dispute. These are the actual stated reasons; no actual-control, consent, representative proceeding or other valid binding relationship is invented. Footnote 6 expressly disclaims a conclusion that the tactics were improper.
+
+The merits record includes Bartels's stated determination not to adopt a plan substantially threatening minority incumbents' reelection and his interest in expanding minority opportunities. It also includes his detailed account of population equality, contiguity, compactness, intact municipalities and voting districts, political fairness and responsiveness, and voter continuity. The challenged District 34 combines municipalities of different demographic profiles; the three towns invoked as a common community were not all together under the former map. The plaintiffs' objection does not establish bizarre shape or violation of municipal boundaries. But absence of bizarre shape is not itself conclusive about motive or relative subordination, and considering several other factors is not logically equivalent to proving that race could not predominate.
+
+Count II's alleged benefit is favorable reelection prospects created by the electorate's composition. There is no reported separate race-based ballot qualification, restricted access to candidacy, office entitlement, official ballot label or independent participation barrier. The absence of a vested right to reelection is not by itself a defense to actual racial discrimination; the governing question remains what governmental operation allegedly treats the plaintiff unequally. The residency claim cannot be borrowed to supply a different operation in these counts.
+
+### Supported paths and strongest objections
+
+**Reject unsupported nonparty preclusion.** Richards requires constitutionally sufficient authority to bind; political affinity, common outcomes, adequate incentives and notice do not impose a general intervention duty. The strongest objection is the public nature of the relief and alleged coordinated sequencing. Richards preserves actual source-authorized representative arrangements and public-right mechanisms, but those predicates are not established merely by calling the controversy public or the litigation tactical. Agreement to admit evidence is not consent to binding adjudication. Devlin confirms that an actually bound mandatory-class member differs from a stranger; it does not create a class here.
+
+**Affirm on the existing constitutional boundary.** Even crediting racial motive, predominantly racial design of a shared territorial electorate does not itself constitute the deprivation under Shaw, Miller and Easley. The incumbent-prospect count identifies the same territorial mechanism, not a separate allocation of candidacy or civic rights. Its different beneficiary description does not eliminate the need for an independently cognizable wrong. The strongest objection is that an express minority-incumbent protection criterion is direct unequal treatment rather than a neutral line-drawing motive. The governing response is operation-specific: these actual counts challenge the composition and resulting electoral prospects, without an independent governmental benefit or restriction. The rule does not immunize all incumbent protection or all use of race.
+
+**Vacate under the four Easley dissenters' proposed rule.** Those Justices would reconsider the rule excluding predominant racial assignment itself, give the nonmovants the favorable inferences Rule 56 requires, and return both counts for assessment of the actual priority assigned to race and any legally required justification. The strongest counterargument is that the map follows ordinary criteria and the plaintiffs supplied no concrete refutation of those geometric and political facts. Under the proposed rule, a regular map and concurrent other criteria do not conclusively defeat a reasonable inference from the stated racial protection commitment. Neither a new trial nor invalidation follows automatically; ordinary proceedings would identify actual material disputes and the applicable justification. This route requires a candid departure from the controlling design-only rule, not a claim that an already established independent injury necessarily exists.
+
+### Individual commitments
+
+| Justice | Nonparty ground; judgment on Counts I and II | Justice-specific authority, sufficient ground and exact join limit |
+|---|---|---|
+| Stevens | Reject the stated nonparty bar; affirm summary judgment on both merits counts under existing law. | His unanimous Richards join requires actual representative authority, not political alignment or a supposed intervention duty. His Shaw/Miller and Easley majority joins distinguish common territorial design from actual civic inequality. Giving the evidence favorable inferences cannot create a legal injury from predominance alone. Count II's incumbent prospects arise from the same electorate, with no separate eligibility or participation allocation; he adopts no universal incumbent-protection immunity. |
+| O'Connor | Reject the nonparty bar; vacate Counts I and II for consideration under her preserved predominant-assignment position. | Her Richards join rejects association as authority to bind. Her Easley separate join retains the proposed cause even while insisting that racial awareness or a percentage alone is insufficient. The written minority-incumbent protection commitment is more specific than demographics; combined with the actual line-drawing challenge it permits a reasonable inference of racial priority that cannot be defeated merely by listing other criteria. She would require actual predominance and appropriate justification in further proceedings, not find them established or order a new map. Her position expressly seeks reconsideration of the controlling injury boundary. |
+| Scalia | Reject the nonparty bar; vacate both merits counts under the proposed predominant-assignment cause. | His Richards join supplies the nonparty rule. His Easley dissent join and earlier Miller separate position regard racial assignment as an equal-treatment injury when it actually predominates, without requiring an additional election loss. The direct racial protection criterion and opposed inferences require ordinary summary-judgment analysis under that proposed rule. He does not decide a statutory dilution count, aggregate minority groups or infer an entitlement to retain old district boundaries. |
+| Kennedy | Reject the nonparty bar; vacate both merits counts and dependent denial of relief for the limited proposed-rule inquiry. | His Easley separate opinion is the direct antecedent: common membership in the resulting electorate does not, in his view, answer the alleged governmental racial assignment. His Richards join independently rejects political association as privity. The lower opinion's inference from the existence of other considerations does not conclusively dispose of the evidence of racial priority; regular shape is evidentiary, not indispensable. He would preserve the actual counts for adjudication, not conclusively establish predominance, insufficient justification or an independent eligibility restriction. |
+| Souter | Reject nonparty preclusion; affirm both counts on the independent merits ground. | His Richards join requires a genuine binding relationship. His Miller and Easley majority joins maintain that purpose evidence must concern a cognizable governmental deprivation. Count II's benefit remains the electorate's makeup and expected electoral support, not a new office entitlement. He assumes the favorable racial-motivation inference for this legal determination; no adverse credibility or nonpredominance finding is necessary. |
+| Thomas | Reject the stated preclusion ground; vacate both merits counts under the proposed constitutional cause. | His Richards join and Devlin dissent distinguish actual binding representation from mere interested status. His Easley dissent join preserves predominant racial assignment as its own unequal treatment. He accepts the direct incumbent-protection evidence as sufficient to require evaluation of the relative role of race under the nonmovant's inference rule, while retaining demanding actual proof before liability. He joins no Section 2 proposition and no judgment that a future office belongs to its incumbent. |
+| Ginsburg | Reject the nonparty bar; affirm both merits counts under the governing territorial rule. | Her Richards join protects absent persons' claims; her Easley opinion requires identification of the actual protected interest and operation. The plaintiffs may challenge the same map without being bound to Page, but the actual counts remain design and electoral-prospect claims. The Court can reject those theories while assuming motive and without adopting the lower court's inference against predominance. Different actual exclusion, racial qualification or material participation facts would require their own analysis. |
+| Breyer | Reject the nonparty bar; affirm both counts on the existing-law merits ground. | His Richards and Easley majority joins preserve both a person's opportunity to litigate and the need for a cognizable wrong. The identical requested map relief does not establish representation. The actual incumbent-prospect theory supplies no additional operation beyond line drawing; disagreeing about the priority of motives cannot be material under the controlling rule without an independently cognizable injury. He requires this operation-specific limit, not a categorical endorsement of race-conscious incumbent favoritism. |
+
+### Frozen proposition scope and remedy
+
+All eight reject the stated virtual-representation basis. Four Associates affirm Counts I and II on existing constitutional law; O'Connor, Scalia, Kennedy and Thomas would vacate them under their proposed reconsideration of the territorial-injury rule. No final Court tally is assembled. The latter four support the same limited return and do not find racial predominance or a constitutional violation established. Their objection concerns the legal treatment of the actual evidence under their proposed cause, not a supposed missing pleading or required new filing.
+
+The four supporting affirmance assume favorable reasonable inferences concerning racial motivation and rest on a legal insufficiency: the common territorial electorate and favorable incumbent reelection prospects produced by those same district lines do not supply the independent injury required by the governing doctrine. This is neither a requirement of a second governmental act or monetary loss nor a rule exempting every actual race-based benefit from review. Anderson v. Martin's official racial electoral labeling remains distinct; Adarand's justification rule does not supply a missing allocation or injury. The broader Fifteenth Amendment coverage question is unnecessary where no independently cognizable denial or abridgment is established on the actual territorial theory.
+
+If the existing-law merits ground commands a majority, affirmance leaves the denial of relief intact while rejecting the preclusion reasoning; there is no need for an exploratory privity hearing or a remand to construct a new binding relationship. If the proposed constitutional path commands a majority, the return is limited to the actual Counts I and II under ordinary pleading, evidence and summary-judgment rules, with any relief following an established wrong and proper remedial scope. Neither path reaches Count III, a replacement plan, the validity of every map feature or a new election timetable. No inconsistent rationales may be combined into an invented controlling test.
+
+### Frozen historical reconciliation
+
+## Robertson v. Bartels
+
+### Preserved components and procedure
+
+Review reaches Counts I and II: predominant racial territorial design and alleged racial favoritism in incumbent protection through district lines. Count III's distinct residency issue and its single-judge disposition remain outside this appeal. There is no Section 2 count to decide. Rule 56 requires favorable reasonable inferences for the nonmovants; the agreement admitting Page testimony does not make Page's trial findings binding against these different parties or require agreement with its inferences.
+
+The lower court relied on two independent grounds: nonparty preclusion and merits insufficiency. Its actual preclusion grounds were association, common relief, litigation sequence, counsel's incentives and the public nature of the dispute. Its note 6 expressly disclaims a finding of improper tactics. The record supplies no actual-control, consent, representative proceeding or other binding relationship merely through those descriptions. On the merits, Bartels's minority-incumbent protection commitment and the detailed nonracial criteria both remain evidence. Neither bizarre shape nor consideration of multiple factors is a dispositive test for relative racial priority.
+
+### Final individual commitments
+
+| Justice | Nonparty ground | Judgment on both merits counts and individual basis |
+|---|---|---|
+| Stevens | Reject the stated preclusion rationale under his Richards join. | Affirm on the independent legal insufficiency of these actual territorial theories. His Shaw, Miller and Easley joins require a cognizable deprivation, not predominance alone. Even accepting favorable motive inferences, the incumbent count concerns the same electorate and expected support rather than another allocation of candidacy or civic rights. He joins no universal incumbent-protection immunity. |
+| O'Connor | Reject association, shared objectives and notice as authority to bind, under Richards. | Vacate Counts I and II for application of her proposed predominant-assignment cause. Her Easley separate join expressly preserves that position. The direct protection commitment can support a reasonable inference of racial priority despite regular boundaries and other factors. She seeks reconsideration of the controlling injury rule, not its covert replacement, and requires actual predominance and appropriate justification before liability. |
+| Scalia | Reject the same nonparty rationale under Richards. | Vacate both counts under the proposed predominant-assignment cause preserved in his Easley dissent join and earlier Miller separate position. The actual statement and favorable inference rule warrant consideration of relative racial priority under that proposed cause. He finds neither predominance nor a violation conclusively established, and joins no statutory dilution or old-boundary entitlement. |
+| Kennedy | Reject the stated bar under Richards; association is not privity. | Vacate both counts and their dependent denial of relief under the position expressed in his Easley separate opinion. A common resulting electorate does not, in his view, answer predominant governmental racial assignment. Other criteria and regular shape cannot alone resolve the contrary inference from the specific protection commitment. His proposed return neither establishes an independent eligibility restriction nor dictates a replacement map. |
+| Souter | Reject the stated preclusion rationale under Richards. | Affirm both counts on the existing territorial-injury rule. His Miller and Easley joins require a deprivation to which purpose evidence is legally relevant. He assumes favorable racial-motivation inferences rather than making an adverse factual finding. Changed incumbent prospects created by the same electorate do not supply an independent office entitlement or participation restriction. |
+| Thomas | Reject the bar under Richards, preserving genuine representation distinct from mere interest. | Vacate both counts under his Easley dissent position. His Devlin dissent does not turn these strangers into bound representatives or impose intervention. The racial protection commitment warrants ordinary factual evaluation under his proposed cause, with demanding actual proof before liability. He joins no Section 2 rule or incumbent right to retain office. |
+| Ginsburg | Reject the stated nonparty rationale under Richards. | Affirm both counts under her Easley opinion's operation-specific boundary. These plaintiffs may litigate without being bound to Page, but the actual design and electorate-based incumbent-prospect theories remain legally insufficient even with favorable motive inferences. An actual different racial qualification, exclusion or material participation barrier would require its own analysis; none is manufactured from Count III. |
+| Breyer | Reject the stated bar under Richards. | Affirm both counts under his Easley majority join. An opportunity to litigate does not eliminate the need for a cognizable wrong. The actual incumbent benefit is expected support generated by district composition, not a separately allocated right. He joins the confined legal disposition, not categorical approval of every race-conscious act benefiting an incumbent. |
+
+All eight reject the supplied nonparty-preclusion ground. Stevens, Souter, Ginsburg and Breyer affirm both merits counts. O'Connor, Scalia, Kennedy and Thomas would vacate both under their proposed reconsideration of the territorial-injury rule. No commitment or join changes in this reconciliation.
+
+### Grounds, adverse paths and limits
+
+**Nonparty preclusion: eight direct joins.** Shared political interests, a common desired injunction, notice, competent advocacy and a suit's public importance do not alone establish constitutionally sufficient authority to bind absent persons. Consent, actual control, genuine substantive privity, an authorized representative proceeding or another due-process-consistent arrangement can support binding effect on its actual predicates. They cannot be supplied by a virtual-representation label or a general obligation to intervene. The agreement admitting testimony is not consent to binding adjudication.
+
+Richards's allowance for genuine representative public-right proceedings does not authorize preclusion whenever litigation affects many voters. The lower court identified shared interests and incentives, not the missing representative authority. Its reliance on tactical sequence cannot substitute for that authority, especially where the court disclaimed improper tactics. The conclusion rejects the stated ground without declaring that every possible factual connection is disproved or directing an exploratory hearing to construct another basis. Devlin concerns persons actually bound in a mandatory class and creates no class or representative relationship here.
+
+**Merits: four direct joins for affirmance.** Under controlling Shaw, Miller and Easley, racial predominance in creating a shared territorial electorate does not by itself establish an independently cognizable deprivation. On Count I, favorable reasonable inferences about motive do not cure that legal defect. On Count II, the alleged favorable treatment consists of improving minority incumbents' expected reelection prospects through the same district boundaries and resulting electorate. Changing the beneficiary description does not create a separately allocated candidacy right, racial ballot qualification, civic status or material participation restriction on this record.
+
+The strongest objection is that an explicit racial promise of incumbent protection itself constitutes unequal treatment. The four answer by identifying the particular governmental operation: these counts challenge territorial composition and the electoral prospects arising from it. They do not require a second governmental act, monetary loss or electoral defeat to make all unequal treatment actionable. Nor do they reason that a person without a vested right to reelection can never suffer discrimination. The actual mechanism matters. Anderson v. Martin's official racial ballot treatment remains distinct; Adarand supplies justification for a covered racial allocation and does not create the missing deprivation from design alone. No general protection for racial favoritism in officeholding is announced.
+
+The four can affirm without adopting the lower court's nonpredominance inference or using Rule 52 deference appropriate to Page's different trial posture. For this legal ruling they assume the favorable reasonable motive inferences. The broader Fifteenth Amendment coverage question remains reserved; the actual territorial theory supplies no independently cognizable denial or abridgment under the governing boundary.
+
+**Proposed rule: four direct joins for limited vacatur.** O'Connor, Scalia, Kennedy and Thomas would reconsider the controlling exclusion of predominant racial assignment itself. Under that proposed cause, Bartels's commitment not to adopt a plan substantially threatening minority incumbents is more than a population number or mere awareness. Considered with the actual line-drawing challenge and favorable reasonable inferences, it requires genuine examination of relative racial priority rather than treating regular shape or the existence of other criteria as conclusive.
+
+The strongest adverse evidence is the detailed, unrebutted account of contiguity, compactness, boundaries, equality, political fairness and voter continuity. The four do not disregard it, recharacterize it as fictitious or infer that all ordinary criteria were abandoned. They conclude that those considerations do not necessarily answer whether race predominated under their proposed test. They would return both actual counts for ordinary proceedings addressing any material disputes and the necessary justification. No automatic trial, proven violation or new map follows. Their position is an express request to reconsider current law, not an assertion that current law already adopts their cause.
+
+### Remedy and historical reconciliation
+
+If the existing-law merits ground obtains a Court majority, affirmance leaves the denial of relief on Counts I and II intact while rejecting the preclusion reasoning. It requires no remand to invent representation. If the proposed constitutional path obtains a majority, the limited vacatur concerns those two counts and dependent relief under ordinary procedure; any eventual remedy must follow a proved wrong. Neither path reaches Count III, a new Section 2 count, the validity of all map features or an election timetable. The incompatible merits rationales cannot be merged into a supposed common narrower test.
+
+The historical summary affirmance provides strong evidence concerning the judgment but no disclosed individual choices and no majority adoption of either lower rationale. It therefore supports no claim that a named Associate historically joined virtual representation, found nonpredominance, or switched a vote here. The four affirming Associates reach an outcome consistent with that order through actual in-world constitutional law. The four proposed-vacatur commitments do not establish a contradiction with an undisclosed historical tally; they require their independently identified personal basis, which is their own actual Easley separate position and the preserved summary-judgment inference problem.
+
+The concrete changed legal premise is the simulated Shaw–Miller–Easley rule rejecting predominance alone, contrasted with the historical constitutional framework invoked below. For Stevens, Souter, Ginsburg and Breyer, their actual joins require a legal-injury inquiry even when motive is assumed. For O'Connor, Scalia, Kennedy and Thomas, their express Easley disagreement permits advocating reconsideration but does not make that proposal controlling. Richards independently controls each Justice's rejection of the stated preclusion basis; there is no disclosed historical personal vote from which to invent a departure. A summary order cannot erase either the actual current rule or the individual published disagreement with it.
+
+The full lower sources confirm rather than change the frozen record. No new material fact or cause requires clean-model refresh, and no additional source or filing condition remains.
+
+### Current instruction hierarchy
+
+The current Run instruction applies Engine section 8 balanced assignment to every assignment and controls over the older case-specific conditional authorship note. The case-specific instruction to articulate the supported test remains operative; its authorship direction supplies a preference only within the actual eligible balance pool. Neither the substantive test nor any colleague's join is enlarged to secure an author. Signed summary opinions are uncounted under the plenary-lead definition, but each actual Chief assignment still receives a fresh count and full eligible/pool statement.
+
+### Form and assignment
+
+**Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 11; Breyer 11.
+
+**Last counted event:** Gonzaga University v. Doe, 2002-06-20; Thomas. **Eligible authors:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Stone-Zsela.
+
+The fresh recount leaves all five fully eligible Justices at eleven; each is in the balance pool. Stone is selected for concrete coordination and formulation: the related New Jersey decisions must use the same distinction between racial motive and the actual protected interest while keeping Page's tried statutory and participation claims separate from Robertson's design-only and incumbent-prospect theories. His approved formulation also keeps unanimous Richards analysis separate from the five-Justice merits rule and answers the claimed incumbent benefit on its own operation. Ginsburg is the strongest alternative because her Easley opinion directly supplies that rule and she can carry every part. With equal counts, the case-specific preference and precise coordination of the supported formulation favor Stone; the older conditional note does not override the pool. Page supplies no new legal premise to this same-day case. No disagreement was invented or overcome to make the assignment, and the signed summary opinion adds no counted plenary lead.
+
+The [form receipt](../freeze/OT_2001CHUNK7_ROBERTSON_OPINION_FORM.md) preceded the [fresh recount](../freeze/OT_2001CHUNK7_ROBERTSON_ASSIGNMENT_COUNTS.json). Counts come from actual preceding Record opinion tables, with same-date alphabetical ordering, not earlier tallies.
+
+### Final compatibility
+
+Stone and four Associates—Stevens, Souter, Ginsburg and Breyer—meet each Section D case-specific agreement condition: design-only insufficiency with favorable motive inferences, separate treatment of actual eligibility/candidacy/access allocations, and equal protection for every race. All nine join the confined nonparty-preclusion holding. The four dissenters keep their express proposed reconsideration of the existing territorial rule and receive no invented join in it. Kennedy gives that shared separate writing because his own Easley explanation supplies the direct constitutional objection and proposed limited return. The three opinion parts can be carried by one of the five complete joiners. No full Exclude/Mark/Burden/Dilute/Segregate/Foreclose/Entrench taxonomy is adopted, and no new party or segregation doctrine is supplied. No material commitment changes in assembly; historical undisclosed votes are not inferred.
+
+## Public Projection
+
+## Event
+
+Robertson v. Bartels, No. 01-721; district No. 01-2024. Summary disposition on direct appeal, June 20, 2002. On appeal from the three-judge District Court for the District of New Jersey. The Court considers the papers without oral argument. The challenged map was adopted April 11, 2001; this action began April 27; summary judgment was announced May 31 and explained June 18. The appeal concerns Count I's predominant-racial-design theory and Count II's alleged racial favoritism in incumbent protection through district lines. The court denied relief on nonparty-preclusion and alternative merits grounds. The plaintiffs were not parties to Page, although they agreed that its testimony could be admitted. The questions concern the authority to bind them and the legal sufficiency of their two constitutional claims. Count III's separate residency controversy is outside this appeal.
+
+## Participation
+
+All nine Justices participated in consideration of the papers and decision.
+
+## Public Action
+
+The judgment denying relief on Counts I and II is affirmed in a signed summary opinion on the independent merits ground. The stated nonparty-preclusion rationale is rejected.
+
+## Judgment & Remedy
+
+**Affirmed, 5–4, on Counts I and II.**
+
+**Supporting:** Stone-Zsela, Stevens, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia, Kennedy and Thomas.
+
+All nine reject the stated basis for binding these plaintiffs to Page. That agreement supplies no additional merits vote. The denial of the redistricting injunction stands on the independent merits ground; Count III and its separate residency proceeding remain outside the mandate.
+
+## Opinion Topology
+
+| Writing | Author | Joins and scope |
+|---|---|---|
+| Opinion of the Court | Stone-Zsela | Part I: all other Justices. Parts II and III: Stevens, Souter, Ginsburg, Breyer. |
+| Concurrence in part and dissent in part | Kennedy | O'Connor, Scalia and Thomas; joins Part I, would vacate both merits counts under the proposed predominant-assignment rule |
+
+Part I concerns nonparty preclusion; Part II concerns Count I; Part III separately examines Count II's claimed incumbent benefit.
+
+## Holdings
+
+### Political alignment and common requested relief do not bind these nonparties
+
+**Holding and operative rule:** A prior judgment cannot bind different plaintiffs merely because they share political interests, request the same relief, know of the earlier case or could have sought intervention. The stated virtual-representation ground fails without constitutionally sufficient consent, control, genuine privity, authorized representation or another valid binding arrangement; agreement to admit testimony supplies none of those relationships by itself.
+
+**Authority:** Part I of the signed opinion of the Court is joined by all nine Justices.
+
+**Controlling explanation:** The Court holds that the Page judgment does not bind these plaintiffs on the reasons the district court gave. Richards requires lawful authority to represent an absent person, and Hansberry preserves the due-process prerequisite to genuine representative adjudication. Shared political association, vigorous advocacy, adequate incentives and the public importance of a controversy do not establish that authority. Nor does describing the second suit as tactical create a general duty to intervene. The parties agreed to the use of Page testimony as evidence; they did not thereby agree to its inferences, authorize representation or consent to binding adjudication. The public character of map relief does not, without an actual authorized arrangement, turn ordinary litigation into a proceeding representing all interested voters. Devlin concerns persons already bound as members of a mandatory class and does not make these strangers members of one. Valid representative and special remedial arrangements remain possible, but none is supplied by the stated rationale. The independent merits ground permits disposition without an exploratory remand to construct a new preclusion relationship.
+
+**Precedent treatment:** Richards and Hansberry: applied to the necessary authority for binding absent claimants. Devlin: distinguished because its appellants were already bound mandatory-class members, not political allies outside the litigation.
+
+### The territorial-design count identifies no independent constitutional deprivation
+
+**Holding and operative rule:** Predominantly racial design of a common territorial electorate does not alone establish a Fourteenth Amendment deprivation. Even giving these plaintiffs the favorable reasonable inferences required on summary judgment, Count I identifies no independently cognizable denial or abridgment; the judgment denying relief on that count therefore stands.
+
+**Authority:** Parts II and III of the signed opinion of the Court are joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Controlling explanation:** The Court holds that the disputed weight of racial considerations is not material to the design-only claim under governing law. Shaw, Miller and Easley distinguish the motive for common district boundaries from an actual exclusion, dilution, unequal participation or other prohibited treatment. The Court assumes favorable reasonable inferences from Bartels's minority-incumbent protection commitment and does not decide that race could not have predominated merely because other criteria were also considered or the map had ordinary shape. Anderson v. Liberty Lobby requires those favorable inferences, but an inference about motive cannot supply a missing legal deprivation. The dissent would reconsider the governing boundary and treat predominant racial assignment itself as unequal treatment. The Court retains the distinction: membership in the resulting common electorate imposes no racial qualification or legally unequal civic status by itself. That conclusion requires neither a second governmental act nor electoral defeat or financial loss. The actual territorial theory also supplies no independent denial or abridgment for the pleaded Fifteenth Amendment theory; its broader dilution coverage need not be decided.
+
+**Precedent treatment:** Shaw, Miller and Easley: applied without changing the territorial-design boundary or protections for actual independent wrongs. Anderson v. Liberty Lobby: applied to favorable reasonable inferences, with materiality determined by the governing substantive law. Voinovich: its broader Fifteenth Amendment coverage reservation remains intact.
+
+### The actual incumbent-prospect claim concerns the same territorial operation
+
+**Holding and operative rule:** A claim that district boundaries favor minority incumbents' reelection prospects does not become a separate racial allocation of candidacy or civic rights merely by describing those prospects as an incumbent benefit. Count II identifies the composition of the common electorate and its expected political support, without an independent eligibility restriction or participation impairment, and fails under the same constitutional boundary.
+
+**Authority:** Parts II and III of the signed opinion of the Court are joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer: five direct votes. O'Connor, Scalia, Kennedy and Thomas dissent from the merits disposition.
+
+**Controlling explanation:** The Court holds that the actual governmental operation, not the beneficiary label, determines this claim. The evidence of a commitment to protect minority incumbents receives its favorable inference; the Court neither approves every such preference nor excuses established racial discrimination because no incumbent owns a future term. Here the challenged benefit consists of the reelection prospects resulting from district lines. The record supplies no separate racial ballot qualification, restricted candidacy, office entitlement, official racial ballot label or independent participation barrier in Counts I or II. Anderson v. Martin concerns official racial electoral labeling and therefore addresses a different operation. Adarand supplies justification requirements for an actual covered racial allocation; it does not itself supply the missing deprivation here. Easley preserves review of unequal eligibility and materially unequal participation without demanding a changed winner, but those are not the actual basis of this count. The separate residency controversy in Count III cannot be borrowed to enlarge this appeal. Because the asserted benefit remains the same territorial composition, the disputed priority of motives does not require a trial under the governing rule.
+
+**Precedent treatment:** Easley: applied to the actual operation and preserved independent injuries. Anderson v. Martin: distinguished from common geographical composition. Adarand: preserved for an actual covered racial allocation, without using its justification rule to create one.
+
+## Precedent Treatment
+
+- Richards v. Jefferson County: applied to lawful authority to bind absent claimants; political affinity, common objectives and failure to intervene supply no substitute. Its allowance for actual authorized representative and special remedial arrangements remains intact.
+- Hansberry v. Lee: genuine representation must meet due process.
+- Devlin v. Scardelletti (June 10, 2002): distinguished because its mandatory-class members were actually bound; it creates no representative relationship among these political allies.
+- Shaw v. Reno, Johnson v. Miller and Easley v. Cromartie: the territorial-design boundary is reaffirmed for both the direct design claim and the actual electorate-based incumbent-prospect theory. Their protection of independently cognizable wrongs remains intact.
+- Anderson v. Liberty Lobby: favorable reasonable inferences are preserved; materiality depends on the substantive cause.
+- Anderson v. Martin: official racial electoral labeling differs from the common geographical electorate challenged here.
+- Adarand Constructors, Inc. v. Peña: justification rules for an actual covered racial allocation remain effective and do not supply a missing deprivation.
+- Voinovich v. Quilter: the broader Fifteenth Amendment dilution-coverage question remains reserved.
+
+## Law After Decision
+
+The nonparty rule remains grounded in actual authority to bind a person's rights. The constitutional territorial-design rule covers the actual incumbent-prospect theory when the claimed benefit consists of the same district composition; it does not immunize a different racial allocation of eligibility, civic status or participation. Both claims can be rejected while assuming favorable racial-motive inferences, without resolving the disputed relative weight of motives or endorsing every rationale below.
+
+## Separate Writings
+
+**Kennedy, concurring in part and dissenting in part, joined by O'Connor, Scalia and Thomas.** They join rejection of the stated nonparty-preclusion ground but would vacate summary judgment on Counts I and II for consideration under their proposed predominant-racial-assignment rule. Following their Easley position, they regard governmental racial assignment as unequal treatment when race actually predominates, without requiring an additional electoral loss. Bartels's express minority-incumbent protection commitment permits a reasonable inference about racial priority. A regular map and the presence of other criteria do not conclusively defeat that inference on summary judgment. The proposed remand would assess the relative role of race and any required justification under ordinary procedure. It would not find predominance or a violation established, order new boundaries, or guarantee a trial. This opinion seeks reconsideration of the Court's territorial-design boundary; it does not describe that proposed rule as existing law.
+
+## Procedure After Action
+
+The direct appeal concludes in affirmance on Counts I and II. The requested redistricting injunction is denied. The Court orders no replacement plan, election change or new preclusion hearing. The separate residency count and proceeding are unaffected.
+
+## Source Notes
+
+Robertson v. Bartels, 148 F. Supp. 2d 443, 445–459 (D.N.J. 2001); separate residency proceeding, 150 F. Supp. 2d 691. 28 U.S.C. §§1253, 2284; Fed. R. Civ. P. 56; U.S. Const. amends. V, XIV and XV. The evidentiary agreement allowed Page testimony to be used; it did not establish agreement with each inference or authorize representative adjudication. The lower opinion expressly declined to find that the litigation tactics were improper. Bartels's minority-incumbent protection commitment and his other districting criteria are both evidence, not findings that race did or did not predominate.

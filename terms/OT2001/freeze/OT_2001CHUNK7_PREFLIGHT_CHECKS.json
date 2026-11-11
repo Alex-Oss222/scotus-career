@@ -1,0 +1,16 @@
+{
+  "action": "check",
+  "exit_code": 0,
+  "stdout": "OK for non-history checks: OT2001; 0 warning(s)\n",
+  "stderr": "",
+  "inventory_rows": 127,
+  "skipped_checks": [
+    "commit-object existence verification"
+  ],
+  "history_verification": "SKIPPED",
+  "skipped_references": [
+    "241f3d783",
+    "251f3d869"
+  ],
+  "external_processes": 0
+}

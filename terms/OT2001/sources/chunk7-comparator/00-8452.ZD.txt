@@ -1,0 +1,498 @@
+ATKINS V. VIRGINIA
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+ATKINS V. VIRGINIA (00-8452) 
+260 Va. 375, 534 S. E. 2d 312, reversed and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Dissent
+ [ Rehnquist ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Rehnquist, C. J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 00—8452
+
+DARYL RENARD ATKINS, PETITIONER v. VIRGINIA
+
+ON WRIT OF CERTIORARI TO THE SUPREME COURT OF VIRGINIA
+
+[June 20, 2002]
+
+    Chief Justice Rehnquist, with whom Justice Scalia and Justice Thomas join, dissenting.
+
+     The question presented by this case is whether a national consensus deprives Virginia of the constitutional power to impose the death penalty on capital murder defendants like petitioner, i.e., those defendants who indisputably are competent to stand trial, aware of the punishment they are about to suffer and why, and whose mental retardation has been found an insufficiently compelling reason to lessen their individual responsibility for the crime.  The Court pronounces the punishment cruel and unusual primarily because 18 States recently have passed laws limiting the death eligibility of certain defendants based on mental retardation alone, despite the fact that the laws of 19 other States besides Virginia continue to leave the question of proper punishment to the individuated consideration of sentencing judges or juries familiar with the particular offender and his or her crime.  See ante, at 9—10.
+
+      I agree with Justice Scalia, post, at 1 (dissenting opinion), that the Court’s assessment of the current legislative judgment regarding the execution of defendants like petitioner more resembles a post hoc rationalization for the majority’s subjectively preferred result rather than any objective effort to ascertain the content of an evolving standard of decency.  I write separately, however, to call attention to the defects in the Court’s decision to place weight on foreign laws, the views of professional and religious organizations, and opinion polls in reaching its conclusion.  See ante, at 11—12, n. 21.  The Court’s suggestion that these sources are relevant to the constitutional question finds little support in our precedents and, in my view, is antithetical to considerations of federalism, which instruct that any “permanent prohibition upon all units of democratic government must [be apparent] in the operative acts (laws and the application of laws) that the people have approved.”  Stanford v. Kentucky, 492 U.S. 361, 377 (1989) (plurality opinion).  The Court’s uncritical acceptance of the opinion poll data brought to our attention, moreover, warrants additional comment, because we lack sufficient information to conclude that the surveys were conducted in accordance with generally accepted scientific principles or are capable of supporting valid empirical inferences about the issue before us.
+
+      In making determinations about whether a punishment is “cruel and unusual” under the evolving standards of decency embraced by the Eighth Amendment, we have emphasized that legislation is the “clearest and most reliable objective evidence of contemporary values.”  Penry v. Lynaugh, 492 U.S. 302, 331 (1989).  See also McCleskey v. Kemp, 481 U.S. 279, 300 (1987).  The reason we ascribe primacy to legislative enactments follows from the constitutional role legislatures play in expressing policy of a State.  “ ‘[I]n a democratic society legislatures, not courts, are constituted to respond to the will and consequently the moral values of the people.’ ”  Gregg v. Georgia, 428 U.S. 153, 175—176 (1976) (joint opinion of Stewart, Powell, and Stevens, JJ.) (quoting Furman v. Georgia, 408 U.S. 238, 383 (1972) (Burger, C. J., dissenting)).  And because the specifications of punishments are “peculiarly questions of legislative policy,” Gore v. United States, 357 U.S. 386, 393 (1958), our cases have cautioned against using “ ‘the aegis of the Cruel and Unusual Punishment Clause’ ” to cut off the normal democratic processes, Gregg, supra, at 176 (quoting Powell v. Texas, 392 U.S. 514, 533 (1968) (plurality opinion)).
+
+      Our opinions have also recognized that data concerning the actions of sentencing juries, though entitled to less weight than legislative judgments, “ ‘is a significant and reliable index of contemporary values,’ ” Coker v. Georgia, 433 U.S. 584, 596 (1977) (plurality opinion) (quoting Gregg, supra, at 181), because of the jury’s intimate involvement in the case and its function of “ ‘maintain[ing] a link between contemporary community values and the penal system,’ ” Gregg, supra, at 181 (quoting Witherspoon v. Illinois, 391 U.S. 510, 519, n. 15 (1968)).  In Coker, supra, at 596—597, for example, we credited data showing that “at least 9 out of 10” juries in Georgia did not impose the death sentence for rape convictions.  And in Enmund v. Florida, 458 U.S. 782, 793—794 (1982), where evidence of the current legislative judgment was not as “compelling” as that in Coker (but more so than that here), we were persuaded by “overwhelming [evidence] that American juries . . . repudiated imposition of the death penalty” for a defendant who neither took life nor attempted or intended to take life.
+
+      In my view, these two sources–the work product of legislatures and sentencing jury determinations–ought to be the sole indicators by which courts ascertain the contemporary American conceptions of decency for purposes of the Eighth Amendment.  They are the only objective indicia of contemporary values firmly supported by our precedents.  More importantly, however, they can be reconciled with the undeniable precepts that the democratic branches of government and individual sentencing juries are, by design, better suited than courts to evaluating and giving effect to the complex societal and moral considerations that inform the selection of publicly acceptable criminal punishments.
+
+      In reaching its conclusion today, the Court does not take notice of the fact that neither petitioner nor his amici have adduced any comprehensive statistics that would conclusively prove (or disprove) whether juries routinely consider death a disproportionate punishment for mentally retarded offenders like petitioner.**  Instead, it adverts to
+the fact that other countries have disapproved imposition of the death penalty for crimes committed by mentally retarded offenders, see ante, at 11—12, n. 21 (citing the Brief for The European Union as Amicus Curiae in McCarver v. North Carolina, O. T. 2001, No. 00—8727, p. 2).  I fail to see, however, how the views of other countries regarding the punishment of their citizens provide any support for the Court’s ultimate determination.  While it is true that some of our prior opinions have looked to “the climate of international opinion,” Coker, supra, at 596, n. 10, to reinforce a conclusion regarding evolving standards of decency, see Thompson v. Oklahoma, 487 U.S. 815, 830 (1988) (plurality opinion); Enmund, supra, at 796—797, n. 22 (1982); Trop v. Dulles, 356 U.S. 86, 102—103 (1958) (plurality opinion); we have since explicitly rejected the idea that the sentencing practices of other countries could “serve to establish the first Eighth Amendment prerequisite, that [a] practice is accepted among our people.”  Stanford, supra, at 369, n. 1 (emphasizing that “American conceptions of decency … are dispositive”) (emphasis in original).
+
+      Stanford’s reasoning makes perfectly good sense, and the Court offers no basis to question it.  For if it is evidence of a national consensus for which we are looking, then the viewpoints of other countries simply are not relevant.  And nothing in Thompson, Enmund, Coker, or Trop suggests otherwise.  Thompson, Enmund, and Coker rely only on the bare citation of international laws by the Trop plurality as authority to deem other countries’ sentencing choices germane.  But the Trop plurality–representing the view of only a minority of the Court–offered no explanation for its own citation, and there is no reason to resurrect this view given our sound rejection of the argument in Stanford.
+
+      To further buttress its appraisal of contemporary societal values, the Court marshals public opinion poll results and evidence that several professional organizations and religious groups have adopted official positions opposing the imposition of the death penalty upon mentally retarded offenders.  See ante, at 11—12, n. 21 (citing Brief for American Psychological Association et al. as Amici Curiae; Brief for American Association on Mental Retardation et al. as Amici Curiae; noting that “representatives of widely diverse religious communities . . . reflecting Christian, Jewish, Muslim, and Buddhist traditions … ‘share a conviction that the execution of persons with mental retardation cannot be morally justified’ ”; and stating that “polling data shows a widespread consensus among Americans … that executing the mentally retarded is wrong”).  In my view, none should be accorded any weight on the Eight Amendment scale when the elected representatives of a State’s populace have not deemed them persuasive enough to prompt legislative action.  In Penry, 492 U.S., at 334—335, we were cited similar data and declined to take them into consideration where the “public sentiment expressed in [them]” had yet to find expression in state law.  See also Stanford, 492 U.S., at 377 (plurality opinion) (refusing “the invitation to rest constitutional law upon such uncertain foundations” as “public opinion polls, the views of interest groups, and the positions adopted by various professional organizations”).  For the Court to rely on such data today serves only to illustrate its willingness to proscribe by judicial fiat–at the behest of private organizations speaking only for themselves–a punishment about which no across-the-board consensus has developed through the workings of normal democratic processes in the laboratories of the States.
+
+      Even if I were to accept the legitimacy of the Court’s decision to reach beyond the product of legislatures and practices of sentencing juries to discern a national standard of decency, I would take issue with the blind-faith credence it accords the opinion polls brought to our attention.  An extensive body of social science literature describes how methodological and other errors can affect the reliability and validity of estimates about the opinions and attitudes of a population derived from various sampling techniques.  Everything from variations in the survey methodology, such as the choice of the target population, the sampling design used, the questions asked, and the statistical analyses used to interpret the data can skew the results.  See, e.g., R. Groves, Survey Errors and Survey Costs (1989); 1 C. Turner & E. Martin, Surveying Subjective Phenomena (1984).
+
+      The Federal Judicial Center’s Reference Manual on Scientific Evidence 221—271 (1994) and its Manual for Complex Litigation §21.493 pp. 101—103 (3d ed. 1995), offer helpful suggestions to judges called upon to assess the weight and admissibility of survey evidence on a factual issue before a court.  Looking at the polling data (reproduced in the Appendix to this opinion) in light of these factors, one cannot help but observe how unlikely it is that the data could support a valid inference about the question presented by this case.  For example, the questions reported to have been asked in the various polls do not appear designed to gauge whether the respondents might find the death penalty an acceptable punishment for mentally retarded offenders in rare cases.  Most are categorical (e.g., “Do you think that persons convicted of murder who are mentally retarded should or should not receive the death penalty?”), and, as such, would not elicit whether the respondent might agree or disagree that all mentally retarded people by definition can never act with the level of culpability associated with the death penalty, regardless of the severity of their impairment or the individual circumstances of their crime.  Second, none of the 27 polls cited disclose the targeted survey population or the sampling techniques used by those who conducted the research.  Thus, even if one accepts that the survey instruments were adequately designed to address a relevant question, it is impossible to know whether the sample was representative enough or the methodology sufficiently sound to tell us anything about the opinions of the citizens of a particular State or the American public at large.  Finally, the information provided to us does not indicate why a particular survey was conducted or, in a few cases, by whom, factors which also can bear on the objectivity of the results.  In order to be credited here, such surveys should be offered as evidence at trial, where their sponsors can be examined and cross-examined about these matters.
+
+*    *    *
+
+    There are strong reasons for limiting our inquiry into what constitutes an evolving standard of decency under the Eighth Amendment to the laws passed by legislatures and the practices of sentencing juries in America.  Here, the Court goes beyond these well-established objective indicators of contemporary values.  It finds “further support to [its] conclusion” that a national consensus has developed against imposing the death penalty on all mentally retarded defendants in international opinion, the views of professional and religious organizations, and opinion polls not demonstrated to be reliable.  Ante, at 11—12, n. 21.  Believing this view to be seriously mistaken, I dissent.
+
+ APPENDIX TO OPINION OF REHNQUIST, C. J.
+
+Poll and survey results reported in Brief for American Association on Mental Retardation et al. as Amici Curiae in McCarver v. North Carolina, O. T. 2001, No. 00—8727, p. 3a—7a, and cited by the Court, ante, at 11—12, n. 21:
+
+STATE
+
+  POLL
+
+  DATE
+
+  RESPONSE
+
+  QUESTION
+
+  AR
+
+  Arkansans’ Opinion on the Death Penalty, Opinion Research Associates, Inc., Q. 13 (July 1992)
+
+  John DiPippa, Will Fairchild’s Death Violate the Constitution, or Simply Our Morality?, Arkansas Forum, Sept. 1993
+
+  1992
+
+  61% never appropriate
+
+  17% is appropriate
+
+   5% opposed to all executions
+
+  17% undecided
+
+  “Some people say that there is nothing wrong with executing a person who is mentally retarded.  Others say that the death penalty should never be imposed on a person who is mentally retarded.  Which of these positions comes closest to your own?”
+
+  AZ
+
+  Behavior Research Center, Survey 2000, Q. 3 (July 2000)
+
+  2000
+
+  71% oppose 
+
+  12% favor
+
+  11% depends
+
+   6% ref/unsure
+
+  “For persons convicted of murder, do you favor or oppose use of the death penalty when the defendant is mentally retarded?”
+
+  CA
+
+  Field Research Corp., California Death Penalty Survey, Q. 22 (Dec. 1989)
+
+  Frank Hill, Death Penalty For The Retarded, San Diego Union-Tribune, Mar. 28, 1993, at G3
+
+  1989
+
+  64.8% not all right
+
+  25.7% is all right
+
+   9.5% no opinion
+
+  “Some people feel there is nothing wrong with imposing the death penalty on persons who are mentally retarded depending on the circumstances.  Others feel the death penalty should never be imposed on persons who are mentally retarded under any circumstance.  The death penalty on a mentally retarded person is …?”
+
+  CA
+
+  Field Research Corp., California Death Penalty Survey, Q. 62D (Dec. 1997)
+
+  Paul Van Slambrouck, Execution and a Convict’s Mental State, The Christian Science Monitor, Apr. 27, 1998, at 1
+
+  1997
+
+  74% disagree
+
+  17% agree
+
+   9% no opinion
+
+  “Mentally retarded defendants should be given the death penalty when they commit capital crimes.”
+
+  CT
+
+  Quinnipac University Polling Institute, Death Penalty Survey Info., Q. 35 (April 23, 2001)
+
+  2001
+
+  77% no
+
+  12% yes
+
+  11% don’t know
+
+  “Do you think that persons convicted of murder who are mentally retarded should or should not receive the death penalty?”
+
+  FL
+
+  Amnesty International
+
+  Martin Dyckman, Death Penalty’s High Price, St. Petersburg Times, Apr. 19, 1992, at 3D
+
+  1986
+
+  71% opposed
+
+  [not provided]
+
+  GA
+
+  Georgia State University
+
+  Tracy Thompson, Executions of Retarded Opposed, Atlanta Journal, Jan. 6, 1987, at 1B
+
+  1987
+
+  66% opposed
+
+  17% favor
+
+  16% depends
+
+  [not provided]
+
+  LA
+
+  Marketing Research Inst., Loyola Death Penalty Survey, Q. 7 (Feb. 1993)
+
+  1993
+
+  77.7% no
+
+   9.2% yes
+
+  13% uncertain
+
+  “Would you vote for the death penalty if the convicted person is mentally retarded?”
+
+  LA
+
+   Louisiana Poll, Poll 104, Q. 9 (Apr. 2001)
+
+  2001
+
+  68% no
+
+  19% yes
+
+  11% no opinion
+
+   2% won’t say
+
+  “Do you believe mentally retarded  people, who are convicted of capital murder, should be executed?”
+
+  MD
+
+  Survey Research Center, University of Maryland, (Nov. 1988)
+
+  1988
+
+  82% opposed
+
+   8% favor
+
+  10% other
+
+  “Would you favor or oppose the death penalty for a person convicted of murder if he or she is mentally retarded?”
+
+  MO
+
+  Missouri Mental Retardation and Death Penalty Survey, Q. 5 (Oct. 1993)
+
+  1993
+
+  61.3% not all right
+
+  23.7% is all right
+
+  15% don’t know
+
+  “Some people feel there is nothing wrong with imposing the death penalty on persons who are mentally retarded depending on the circumstances.  Others feel that the death penalty should never be imposed on persons who are mentally retarded under any circumstances.  Do you think it IS or IS NOT all right to impose the death penalty on a mentally retarded person?”
+
+  NC/SC
+
+  Charlotte Observer-WMTV News Poll (Sept. 2000)
+
+  Diane Suchetka, Carolinas Join Emotional Debate Over Executing Mentally Retarded, Charlotte Observer, Sept. 13, 2000
+
+  2000
+
+  64% yes
+
+  21% no
+
+  14% not sure
+
+  “Should the Carolinas ban the execution of people with mental retardation?”
+
+  NM
+
+  Research & Polling Inc., Use of the Death Penalty Public Opinion Poll, Q. 2 (Dec. 1990)
+
+  1990
+
+  57.1% oppose
+
+  10.5% support
+
+  26.2% depends
+
+   6.1% don’t know
+
+  62% support the death penalty.  Asked of those that support it, “for which of the following do you support use of the death penalty…when the convicted person is mentally retarded?”
+
+  NY
+
+  Patrick Caddell Enterprises, NY Public Opinion Poll, The Death Penalty: An Executive Summary, Q. 27 (May 1989)
+
+  Ronald Tabak & J. Mark Lane, The Execution of Injustice: A Cost and Lack-of-Benefit Analysis of the Death Penalty, 23 LOY. L. A. L. Rev. 59, 93 (1989)
+
+  1989
+
+  82% oppose
+
+  10% favor
+
+   9% don’t know
+
+  “I’d like you to imagine you are a member of a jury.  The jury has found the defendant guilty of murder beyond a reasonable doubt and now needs to decide about sentencing.  You are the last juror to decide and your decision will determine whether or not the offender will receive the death penalty.  Would you favor or oppose sentencing the offender to the death penalty if…the convicted person were mentally retarded?”
+
+  OK
+
+  Survey of Oklahoma Attitudes Regarding Capital Punishment: Survey Conducted for Oklahoma Indigent Defense System, Q. C (July 1999)
+
+  1999
+
+  83.5% should not be executed
+
+  10.8% should be executed
+
+   5.7% depends
+
+  “Some people think that persons convicted of murder who are mentally retarded (or have a mental age of between  5 and 10 years) should not be executed.  Other people think that ‘retarded’ persons should be subject to the death penalty like anyone else.  Which is closer to the way you feel, that ‘retarded’ persons should not be executed, or that ‘retarded’ persons should be subject to the death penalty like everyone else?” 
+
+  TX
+
+  Austin American Statesman, November 15, 1988, at B3
+
+  1988
+
+  73% opposed
+
+  [not provided]
+
+  TX
+
+  Sam Houston State University, College of Criminal Justice, Texas Crime Poll On-line (1995)
+
+  Domingo Ramirez Jr. Murder Trial May Hinge on Defendant’s IQ, The Fort Worth Star-Telegram, Oct. 6, 1997, at 1
+
+  1995
+
+  61% more likely to oppose
+
+  “For each of the following items that have been found to affect people’s attitude about the death penalty, please state if you would be more likely to favor or more likely to oppose the death penalty, or wouldn’t it matter…if the murderer is severely mentally retarded?”
+
+  TX
+
+  Scripps-Howard Texas Poll: Death Penalty (Mar. 2001) 
+
+  Dan Parker, Most Texans Support Death Penalty, Corpus Christi Caller-Times, Mar. 2, 2001, at A1
+
+  2001
+
+  66% no
+
+  17% yes
+
+  17% don’t know/no answer
+
+  “Should the state use the death penalty when the inmate is considered mentally retarded?”
+
+  TX
+
+  Houston Chronicle (Feb. 2001)
+
+  Stephen Brewer & Mike Tolson, A Deadly Distinction: Part III, Debate Fervent in  Mental Cases, Johnny Paul Penry Illustrates a Lingering Capital Conundrum, The Houston Chronicle, Feb. 6, 2001, at A6
+
+  2001
+
+  59.9% no support
+
+  19.3% support
+
+  20.7% not sure/no answer
+
+  “Would you support the death penalty if you were convinced the defendant were guilty, but the defendant is mentally impaired?”
+
+  US
+
+  Harris Poll, Unfinished Agenda on Race, Q. 32 (Sept. 1988)
+
+  Saundra Torry, High Court to Hear Case on Retarded Slayer, The Washington Post, Jan. 11, 1989, at A6
+
+  1988
+
+  71% should not be executed
+
+  21% should be executed
+
+   4% depends
+
+   3% not sure/refused
+
+  “Some people think that persons convicted of murder who have a mental age of less than 18 (or the ‘retarded’) should not be executed.  Other people think that ‘retarded’ persons should be subject to the death penalty like everyone else.  Which is closer to the way you feel, that ‘retarded’ persons should not be executed, or that ‘retarded’ persons should be subject to the death penalty like everyone else?”
+
+  US
+
+  Yankelovich Clancy Shulman, Time/CNN Poll, Q. 14 (July 7, 1998)
+
+  Samuel R. Gross, Second Thoughts: Americans’ Views on the Death Penalty at the Turn of the Century, Capital Punishment and the American Future (Feb. 2001)
+
+  1989
+
+  61% oppose
+
+  27% favor
+
+  12% not sure
+
+  “Do you favor or oppose the death penalty for mentally retarded individuals convicted of serious crimes, such as murder?”
+
+  US
+
+  The Tarrance Group, Death Penalty Poll, Q. 9 (Mar. 1993)
+
+  Samuel R.  Gross, Update: American Public Opinion on the Death Penalty-It’s Getting Personal, 83 Cornell L. Rev. 1448, 1467 (1998)
+
+  1993
+
+  56% not all right
+
+  32% is all right
+
+  11% unsure
+
+  “Some people feel that there is nothing wrong with imposing the death penalty on persons who are mentally retarded, depending on the circumstances.  Others feel that the death penalty should never be imposed on persons who are mentally retarded under any circumstances.  Which of these views comes closest to your own?”
+
+  US
+
+  Public Policy Research, Crime in America, Q. 72 (July 1995
+
+  1995
+
+  67% likely to oppose
+
+   7% likely to favor
+
+  26% wouldn’t matter
+
+  “For each item please tell me if you would be more likely to favor the death penalty, more likely to oppose the death penalty or it wouldn’t matter…if it is true that the murderer is severely mentally retarded?”
+
+  US
+
+  Princeton Research, Newsweek Poll, Q. 16 (Nov. 1995)
+
+  Samuel R. Gross, Update: American Public Opinion on the Death Penalty-It’s Getting Personal, 83 Cornell L. Rev. 1448, 1468 (1998)
+
+  1995
+
+  83% oppose
+
+   9% favor
+
+   8% don’t know refused
+
+  “If the convicted person was…mentally retarded, would you favor or oppose the death penalty?”
+
+  US
+
+  Peter Hart Research Associates, Inc., Innocence Survey, Q. 12 (Dec. 1999)
+
+  1999
+
+  58% strongly/somewhat favor
+
+  26% strongly/somewhat oppose
+
+  12% mixed/neutral
+
+   4% not sure
+
+  “… .for each proposal I read, please tell me whether you strongly favor, somewhat favor, have mixed or neutral feelings, somewhat oppose, or strongly oppose that proposal… .prohibit the death penalty for defendants who are mentally retarded.”
+
+  US 
+
+  Peter Hart Research Associates, Inc., Innocence Survey, Q. 9 (Dec. 1999)
+
+  1999
+
+  72% much/somewhat less likely**
+
+  19% no difference
+
+   9% not sure
+
+  47% much less likely
+
+  25% somewhat less likely
+
+  “Suppose you were on a jury and a defendant was convicted of murder.  “Now it is time to determine the sentence.  If you knew that the defendant was mentally retarded or otherwise mentally impaired in a serious way, would you be much less likely to support the use of the death penalty in this specific case, somewhat less likely, or would it make no difference to you?”
+
+  US
+
+  Houston Chronicle, (Feb. 2001)
+
+  Stephen Brewer & Mike Tolson, A Deadly Distinction: Part III, Debate Fervent in Mental Cases, Johnny Paul Penry Illustrates a Lingering Capital Conundrum, The Houston Chronicle, Feb. 6, 2001, at A6
+
+  2001
+
+  63.8% no support
+
+  16.4% support
+
+  19.8% not sure/no answer
+
+  “Would you support the death penalty if you were convinced the defendant were guilty, but the defendant is mentally impaired?”
+
+       
+
+Notes
+
+*. * Apparently no such statistics exist.  See Brief for American Association on Mental Retardation et al. as Amici Curiae in McCarver v. North Carolina, O. T. 2001, No. 00—8727, p. 19, n. 29 (noting that “actions by individual prosecutors and by juries are difficult to quantify with precision”).  Petitioner’s inability to muster studies in his favor ought to cut against him, for it is his “heavy burden,” Stanford v. Kentucky, 492 U.S. 361, 373 (1989) (internal quotation marks omitted), to establish a national consensus against a punishment deemed acceptable by the Virginia Legislature and jury who sentenced him.  Furthermore, it is worth noting that experts have estimated that as many as 10 percent of death row inmates are mentally retarded, see R. Bonner & S. Rimer, Executing the Mentally Retarded Even as Laws Begin to Shift, N. Y. Times, Aug. 7, 2000, p. A1, a number which suggests that sentencing juries are not as reluctant to impose the death penalty on defendants like petitioner as was the case in Coker v. Georgia, 433 U.S. 584 (1977), and Enmund v. Florida, 458 U.S. 782 (1982).

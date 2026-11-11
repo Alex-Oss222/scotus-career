@@ -1,0 +1,126 @@
+{
+  "records": {
+    "CAREY": {
+      "record": "carey-v-saffold_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        120,
+        152
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 87,
+      "original_component_receipt": 1
+    },
+    "HORN": {
+      "record": "horn-v-banks_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        233
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": "Unsigned; no assignment count",
+      "original_component_receipt": 1
+    },
+    "LEVENTHAL": {
+      "record": "leventhal-v-knapek_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        79,
+        94,
+        165
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 88,
+      "original_component_receipt": 1
+    },
+    "TICKNOR": {
+      "record": "ticknor-v-choice-hotels-international-inc_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        111,
+        211
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 89,
+      "original_component_receipt": 1
+    },
+    "DRAYTON": {
+      "record": "united-states-v-drayton_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        98,
+        190
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 90,
+      "original_component_receipt": 1
+    },
+    "EMERSON": {
+      "record": "united-states-v-emerson_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        60,
+        96,
+        260,
+        104
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 91,
+      "original_component_receipt": 2
+    },
+    "FIOR": {
+      "record": "united-states-v-fior-ditalia-inc_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        197,
+        153
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 92,
+      "original_component_receipt": 1
+    },
+    "HOOPER": {
+      "record": "united-states-v-hooper_merits_2002-06-17.md",
+      "eleven_blocks": "pass",
+      "holdings_identity": "pass",
+      "explanation_words": [
+        176,
+        128
+      ],
+      "placeholder_check": "pass",
+      "assignment_recount": 93,
+      "original_component_receipt": 1
+    }
+  },
+  "emerson_independent_notice_assignment": "fresh matching recount; same counted lead",
+  "actual_after_june17_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 11,
+    "Thomas": 11,
+    "Ginsburg": 10,
+    "Breyer": 11
+  },
+  "actual_after_june17_last_event": {
+    "date": "2002-06-17",
+    "case": "Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton",
+    "file": "watchtower-bible-tract-society-v-village-of-stratton_merits_2002-06-17.md",
+    "authors": [
+      "Stevens"
+    ],
+    "excluded_forms": [],
+    "topology_rows": 2
+  },
+  "actual_after_june17_counted_opinions": 95,
+  "scope": "Eight new June 17 Records, their existing vote receipts, projection interface, explanation ceilings, links, placeholders and fresh actual preceding-table recounts. No workspace or render integration performed."
+}

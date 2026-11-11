@@ -1,0 +1,54 @@
+CAREY V. SAFFOLD
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+CAREY V. SAFFOLD (01-301) 
+250 F.3d 1262, vacated and remanded.
+Syllabus
+ Opinion
+ [ Breyer ]Dissent
+ [ Kennedy ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CAREY, WARDEN v. SAFFOLD
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+ 
+No. 01—301.  Argued February 27, 2002–Decided June 17, 2002
+
+The Antiterrorism and Effective Death Penalty Act of 1996 requires a state prisoner seeking federal habeas relief to file his petition within one year after his state conviction becomes final, 28 U.S.C. § 2244(d)(1)(A), but excludes from that period the time during which an application for state collateral review is “pending,” §2244(d)(2).  Respondent Saffold filed a state habeas petition in California seven days before the federal deadline.  Five days after the state trial court denied his petition, he filed a further petition in the State Court of Appeal.  Four and one-half months after that petition was denied, he filed a further petition in the State Supreme Court, which denied the petition on the merits and for lack of diligence.  The Federal District Court dismissed his subsequent federal habeas petition as untimely, finding that the federal statute of limitations was not tolled during the intervals between the denial of one state petition and the filing of the next because no application was “pending” during that time.  In reversing, the Ninth Circuit included the intervals in the “pending” period, and found that Saffold’s petition was timely because the State Supreme Court based its decision not only on lack of diligence but also on the merits.
+
+Held: 
+
+    1. As used in §2244(d)(2), “pending” covers the time between a lower state court’s decision and the filing of a notice of appeal to a higher state court.  Most States’ collateral review systems require a prisoner to file a petition in a trial court; then to file a notice of appeal within a specified time after entry of the trial court’s unfavorable judgment; and, if still unsuccessful, to file a further notice of appeal (or request for discretionary review) to the state supreme court within a specified time.  Petitioner warden seeks a uniform national rule that a state petition is not “pending” during the interval between a lower court’s entry of judgment and the timely filing of a notice of appeal in the next court, reasoning that the petition is not being considered during that time.  Such a reading is not consistent with the ordinary meaning of “pending,” which, in the present context, means until the completion of the collateral review process; i.e., until the application has achieved final resolution through the State’s postconviction proceedings.  Petitioner’s reading would also produce a serious statutory anomaly.  Because a federal habeas petitioner has not exhausted his state remedies as long as he has “the right under [state] law … to raise” in that State, “by any available procedure, the question presented,” §2254(c), and because petitioner’s interpretation encourages state prisoners to file their petitions before the State completes a full round of collateral review, federal courts would have to contend with petitions that are in one sense unlawful (because the claims have not been exhausted) but in another sense required by law (because they would otherwise be barred by the 1-year imitations period).  Pp. 3—5.
+
+      2. The same “pending” rule applies to California’s unique collateral review system, even though that system involves, not a notice of appeal, but the filing (within a “reasonable” time) of a further original state habeas petition in a higher court.  California’s system is not as special in practice as its terminology might suggest.  A prisoner typically will seek habeas review in a lower court and later seek appellate review in a higher court.  Thus, the system functions very much like that in other States, but for its indeterminate timeliness rule.  That rule may make it more difficult for federal courts to determine when a review application comes too late.  But the tolling provision seeks to protect the State’s interests, and the State can explicate timing requirements more precisely should that prove necessary.  In applying a federal statute that interacts with state procedural rules, this Court looks to how a state procedure functions, not its particular name.  California’s system functions in ways sufficiently like other state collateral review systems to bring intervals between a lower court decision and a filing in a higher court within the scope of “pending.”  Pp. 6—10.
+
+      3. The words “on the merits” by themselves do not indicate that Saffold’s petition was timely, but it is not possible to conclude that the Ninth Circuit was wrong in its ultimate conclusion.  The State Supreme Court may have included such words in its opinion for a variety of reasons.  And the Ninth Circuit’s willingness to take them as an absolute bellwether risks the tolling of the federal limitations period even when it is likely that the state petition was untimely, thus threatening the statutory purpose of encouraging prompt filings in order to protect the federal system from being forced to hear stale claims.  In reconsidering the timeliness issue, the Ninth Circuit is left to evaluate any special conditions justifying Saffold’s delay in filing in the state court and any other relevant considerations, and to decide whether to certify a question to the State Supreme Court to seek clarification of the state law.  Pp. 10—11.
+
+250 F.3d 1262, vacated and remanded.
+
+    Breyer, J., delivered the opinion of the Court, in which Stevens, O’Connor, Souter, and Ginsburg, JJ., joined.  Kennedy, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia and Thomas, JJ., joined.

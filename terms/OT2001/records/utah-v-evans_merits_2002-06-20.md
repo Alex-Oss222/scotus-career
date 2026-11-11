@@ -1,0 +1,287 @@
+**Case and dockets:** Utah v. Evans; No. 01-714.
+**Event and date:** Merits decision, 2002-06-20; October Term 2001, chunk 7.
+**Result:** Affirmed, 6–3; standing unanimous, statutory permission 7–2, constitutional validity six with Thomas opposed and O'Connor/Scalia reserving.
+**Version / lineage:** Original decision.
+
+## Event, chronology and entering law
+
+Utah v. Evans, No. 01-714. Merits decision, June 20, 2002. Argued March 27, 2002. On direct appeal from the three-judge District Court for the District of Utah. Utah challenges its loss of a marginal House seat from the 2000 census's hot-deck imputation. After mail and field efforts left some address, occupancy and household-size information unresolved, the Bureau used nearby comparable units to complete the missing information. Utah asserts standing and contests statutory permission and constitutional validity; North Carolina challenges redressability based on the completed certificate and defends the method. The district court sustained the method. No discriminatory manipulation was found.
+
+The pre-June 20 baseline is supplied by the selected and supplemental entering-law slices. Franklin, Wisconsin and Glavin control with their actual component coalitions. Glavin's general §195 interpretation remains noncontrolling; its two-design permission and constitutional rule are effective. No same-day case supplies law or a new record fact.
+
+## Participation and lawful channel
+
+All nine participate at argument and decision. Quorum is present and five votes are required for an ordinary majority. The statutory three-judge direct appeal is accepted as properly before the Court. Standing is resolved before the contested merits.
+
+## Stone
+
+## A. STATUS
+
+* **Approval Status:** Approved.
+* **Current-Through Baseline:** Law through June 28, 2001; position for 2002-06-20, subject to any actually effective intervening decision.
+* **Conditions:** Any intervening controlling decision must be applied or expressly addressed before the vote.
+
+## B. JUDGMENT AND REMEDY
+
+* **Stone’s Controlled Judgment or Disposition:** Affirm the district court after holding that Utah has standing and that the described hot-deck imputation is statutorily and constitutionally permissible on this record.
+* **Stone’s Remedy and Remand Position:** Leave the challenged count and allocation in place. Order no seat transfer, replacement dataset, presidential injunction, or new census. Preserve review of materially different or unlawfully implemented methods.
+
+## C. ISSUE POSITIONS
+
+### Issue 1: The representation injury remains judicially redressable
+
+* **Threshold and Merits Reach:** Resolve standing before contested merits. Utah identifies an actual marginal seat affected by the challenged method.
+* **Question Stone Resolves:** Whether completion of the official transmission sequence defeats likely redress.
+* **Stone’s Legal Position:** Apply Franklin v. Massachusetts and the distinct plaintiff-specific analysis of Department of Commerce v. United States House of Representatives.
+* **Stone’s Proposed Holding:** Utah’s concrete representation injury is redressable through authoritative relief concerning the responsible census determination; the statutes do not make a completed certificate categorically immune to correction of legal error.
+* **Reach Within the Question:** No order against the President is necessary, and no general promise of third-party obedience substitutes for the identified statutory chain.
+* **Essential Reasoning and Record Application:** The claimed error concerns the count that generates the allocation. The certification mechanism does not sensibly convert a legally erroneous input into an irreversible entitlement when the governing statutes do not say so. Existing precedent already recognizes this kind of official remedial sequence. The possible ultimate correctness of the count defeats the merits claim, not standing. The statutory chain and Franklin’s remedial holding are decisive. The completed certificate supplies no textually irreversible entitlement and therefore does not require reconsidering Franklin merely because correction would change the final seat.
+* **Boundary or Reserved Question:** Presidential APA status and coercive relief against the President are unnecessary and remain reserved.
+
+### Issue 2: Residual imputation is authorized without deciding every sampling question
+
+* **Threshold and Merits Reach:** The statute can be applied to the actual method without adopting the prior four-Justice general construction as law.
+* **Question Stone Resolves:** Whether §§141 and 195 permit completing unresolved unit information through this limited imputation.
+* **Stone’s Legal Position:** Apply the narrow statutory precedent and adopt a method-specific construction of the enacted enumeration authority.
+* **Stone’s Proposed Holding:** The Census Act permits the described hot-deck completion of unresolved enumeration information. It is not the selection of a representative sample to replace enumeration of a larger population, and §195 does not prohibit this residual inference method.
+* **Reach Within the Question:** No percentage alone makes a method lawful. The rule concerns the described design after mail and field enumeration, not every model or replacement sample census.
+* **Essential Reasoning and Record Application:** The Bureau attempts to identify and count the population unit by unit, then uses nearby comparable information where the record remains incomplete. Treating those gaps as necessarily zero is itself an inference, not a more literal count of established persons. Section 141 gives room for a supported completion method, and the distinct operation of §195 does not withdraw that authority here. The broader permission-versus-duty debate can remain open because this design does not require resolving it. The method’s operation and the terms of §§141 and 195 are decisive together: the Bureau fills particular unresolved units after attempted enumeration rather than selecting a representative population to stand for an unenumerated whole. The distinction is functional within the statute’s text, not a numerical safe harbor.
+* **Boundary or Reserved Question:** The general construction of §195’s apportionment language and materially different sampling designs remain outside the necessary holding.
+
+### Issue 3: An explained genuine enumeration may include supported inference
+
+* **Threshold and Merits Reach:** The constitutional standard is already established and does not require exclusively observed headcounts.
+* **Question Stone Resolves:** Whether the actual method bears a reasonable relationship to enumeration and population-based representation.
+* **Stone’s Legal Position:** Apply Wisconsin v. City of New York and Department of Commerce v. United States House of Representatives.
+* **Stone’s Proposed Holding:** The residual imputation method satisfies the Enumeration Clause on this explained record: it supplements a genuine population-counting effort and reasonably addresses unresolved information relevant to geographic representation.
+* **Reach Within the Question:** The holding does not excuse discriminatory manipulation, unsupported geographic assumptions, or absence of a genuine enumeration effort.
+* **Essential Reasoning and Record Application:** A final seat consequence makes the accuracy question consequential but does not change its legal standard. The Bureau’s choice compares a supported inference from nearby similar units with knowingly incomplete information, and the explanation relates that choice to counting the actual population. The limited residual use and the underlying enumeration effort support the judgment; they are evidence of this method’s fit, not a numerical constitutional exemption. The Hogan declaration’s numerical-accuracy priority and the absence of a demonstrated distributive-accuracy study are real limits. They preclude treating national-total improvement as a sufficient answer or finding that this design was proved geographically superior. They do not, however, show that the actual operation ignored geography: the donor was chosen for proximity and housing type, and the unresolved unit remained assigned to its own location. That explained design addresses geographic distribution while acknowledging uncertainty; treating all unresolved units as zero also creates a geographically uneven risk. The constitutional reasonable-relationship standard permits this supported choice without a guarantee or quantified proof of superiority. A showing that the Bureau knowingly selected an unrelated geographic proxy or disregarded a demonstrated distribution defect would require a different assessment. The established reasonable-relationship standard, applied to the explained design, is decisive. Historical census practice confirms that inference is not constitutionally forbidden, but supplies no independent exemption from a genuine effort to count persons and allocate them geographically.
+* **Boundary or Reserved Question:** No freestanding APA claim outside the preserved questions or alternative algorithm is adjudicated.
+
+**Final compatibility:** Stone joins Parts I, II and III and the affirmance in full. All three express positions are preserved, including geographic uncertainty, no numerical safe harbor and the limited scope of the statutory rationale. No standing fallback is used.
+
+## Public judgment and opinions
+
+**Affirmed, 6–3.**
+
+**Supporting:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia and Thomas.
+
+All nine find standing. Seven uphold statutory permission: the six supporting affirmance and Thomas; O'Connor and Scalia oppose. Six uphold constitutional validity: the affirming coalition; Thomas opposes, and O'Connor and Scalia do not reach that question. The challenged count and resulting allocation remain in place.
+
+| Writing | Author | Joins and scope |
+|---|---|---|
+| Opinion of the Court | Breyer | Part I: all other Justices. Part II: Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg. Part III: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg. |
+| Concurrence in part and dissent in part | O'Connor | Scalia; joins Part I, opposes Part II, reserves Part III |
+| Concurrence in part and dissent in part | Thomas | No other Justice; joins Parts I and II, opposes Part III |
+
+## Controlling holdings
+
+### Completed transmission does not defeat redress of the representation injury
+
+**Holding and operative rule:** A State has standing to contest a census method that causes an identified loss of a House seat when authoritative relief concerning the responsible census determination would likely correct the allocation through the statutory sequence. Completed transmission and certification do not categorically bar correction of court-determined legal error in the count.
+
+**Authority:** Part I of the opinion of the Court is joined by all nine Justices.
+
+**Controlling explanation:** The Court holds that Utah's identified marginal-seat loss is a concrete injury caused by the challenged method. Franklin recognizes likely redress through correction of the responsible census determination; Wisconsin applies that principle to representational injury, and Department of Commerce requires concrete injury for the particular plaintiff. Utah meets those requirements. North Carolina's certificate objection would make a legally erroneous census input irreversible, but the reporting and allocation statutes contain no such categorical command. The Court reads their sequence to permit correction of the underlying determination and the resulting certificate for legal error. Likely redress follows from that official sequence, without a coercive presidential injunction or a general assumption that absent persons obey judicial advice. Whether Utah proves illegality is a merits question and does not erase its standing. The President's APA status and susceptibility to coercive relief are unnecessary to this holding and remain reserved.
+
+**Precedent treatment:** Franklin v. Massachusetts: applied to likely redress through the allocation sequence. Wisconsin v. City of New York: applied to continuing representational injury. Department of Commerce v. United States House of Representatives: applied to plaintiff-specific injury rather than statutory authorization alone.
+
+### The Census Act permits this residual completion method
+
+**Holding and operative rule:** Sections 141 and 195 permit hot-deck imputation that completes particular unresolved units with nearby comparable information after genuine mail and field enumeration. This residual method does not select a representative sample to substitute for enumeration of a larger unenumerated population, and §195 does not prohibit it; its small percentage alone supplies no permission.
+
+**Authority:** Part II of the opinion of the Court is joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven direct votes.
+
+**Controlling explanation:** The Court holds that the method's actual operation fits the enacted enumeration authority. The Bureau attempts to identify and count units individually, then fills remaining address, occupancy and household-size gaps from nearby units of the same type. Treating unresolved entries as zero would itself infer an answer rather than count established persons more literally. Section 141 permits this supported completion of the count, and §195 does not withdraw that authority for this method. The contrary argument equates every inference from observed information with a representative sample. But this process completes identified residual units after attempted enumeration; it does not select a fraction of the population to stand for a larger unenumerated whole. The distinction rests on function, not merely timing, randomness or scale. Department of Commerce permits two particular sampling designs; its general permission-versus-duty construction of §195 did not command a majority. The Court therefore neither elevates that construction into law nor decides materially different sampling designs. The statutory claim fails on the described method itself.
+
+**Precedent treatment:** Department of Commerce v. United States House of Representatives: its permission for two identified designs remains intact; the four-Justice general construction does not control this independent method-specific analysis.
+
+### The explained method reasonably serves enumeration and geographic representation
+
+**Holding and operative rule:** The Enumeration Clause permits this residual imputation because it supplements a genuine population-counting effort and bears an explained reasonable relationship to enumeration and population-based representation. Locality and comparable housing type support the inference on this record without proof of quantified geographic superiority; a national-total improvement alone, a fixed percentage or unsupported geographic assumptions would not supply that relationship.
+
+**Authority:** Part III of the opinion of the Court is joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: six direct votes. Thomas opposes; O'Connor and Scalia do not reach this component.
+
+**Controlling explanation:** The Court holds that the Constitution does not require every counted fact to be personally observed. Department of Commerce rejects an exclusively physical-headcount rule, while Wisconsin requires a genuine enumeration and an explained relationship to population-based representation. The Bureau first attempted direct enumeration. For remaining gaps, it chose a geographically nearby donor of the same housing type and kept the unresolved unit at its own location. Those features connect the inference to geographic distribution rather than merely a larger national total. The Hogan declaration's numerical-accuracy priority and the absence of a study establishing improved distributive accuracy preclude a finding that this design was proved geographically superior. They do not establish that geography was ignored. The actual choice is between a supported local inference and treating unresolved entries as zero, which also carries geographically uneven error. Neither alternative guarantees perfection; the explained design satisfies reasonable-relationship review. The final-seat consequence does not change that standard. The small residual use is evidence of fit, not a constitutional safe harbor. Thomas's proposed count-based limit cannot supply the governing rule after Department of Commerce, though his disagreement remains stated separately. Discriminatory manipulation, unsupported geographic proxies and absence of a genuine enumeration effort remain outside this permission. No freestanding APA merits claim is before the Court.
+
+**Precedent treatment:** Wisconsin v. City of New York: applied without changing its reasonable-relationship standard or requiring empirical certainty. Department of Commerce v. United States House of Representatives: applied for constitutional permission to supplement a genuine enumeration with supported inference. Franklin v. Massachusetts: its supported counting choices remain consistent with this application; its separate administrative-review rule is unchanged.
+
+## Precedent treatment
+
+- Franklin v. Massachusetts, No. 91-1502 (June 26, 1992): applied to redress through correction of the responsible determination and allocation sequence; its independent finality and administrative-review rules remain unchanged.
+- Wisconsin v. City of New York, Nos. 94-1614, 94-1631 and 94-1985 (Mar. 20, 1996): applied to continuing representational injury and explained methodological choice reasonably related to enumeration and geographic representation.
+- Department of Commerce v. United States House of Representatives / Clinton v. Glavin, Nos. 98-404 and 98-564 (Jan. 25, 1999): applied to plaintiff-specific standing and constitutional permission for supported supplementation; its two-design statutory permission remains binding, while its general §195 construction remains a four-Justice position.
+
+## Law after decision
+
+Completed apportionment certificates do not make the responsible census determination immune from correction of legal error. The Census Act and Enumeration Clause permit the described residual, geographically grounded completion of a genuine enumeration. The constitutional reasonable-relationship standard is applied without requiring proof of perfect or guaranteed improvement. The decision adds this method-specific statutory permission without settling the general construction of §195 or authorizing every inference method.
+
+## Continuity
+
+Completed apportionment certificates do not make the responsible census determination immune from correction of legal error. The Census Act and Enumeration Clause permit the described residual, geographically grounded completion of a genuine enumeration. The constitutional reasonable-relationship standard is applied without requiring proof of perfect or guaranteed improvement. The decision adds this method-specific statutory permission without settling the general construction of §195 or authorizing every inference method.
+
+**O'Connor, concurring in part and dissenting in part, joined by Scalia.** They join the standing holding but would reverse under §195 and remand for lawful agency correction through the statutory sequence. In their view, donor information substitutes an inferred population for information never observed, and choosing donors late, nonrandomly or for only a small residual group does not remove the technique from the statutory sampling restriction. The prior permission for two other designs binds those designs but does not settle this different method. They reserve the constitutional question and would leave any corrected count and allocation to the lawful official process.
+
+**Thomas, concurring in part and dissenting in part.** He joins standing and statutory permission, agreeing that this imputation falls outside the statutory sampling restriction. He would nevertheless reverse because the Constitution requires an actual count rather than adding persons through donor inference, especially where the existence or occupancy of the unit is unresolved. He disagrees with extending Department of Commerce's constitutional permission and with its rejection of a count-based limit to the extent necessary. His position is a dissent from that governing premise, not a description of the current rule. He would remand for lawful agency correction rather than judicially specify a replacement number.
+
+The direct appeal concludes; the existing census count and allocation stand.
+
+## Sources and status
+
+Historical procedural facts and actual design: [official opinion text](../sources/chunk7-comparator/official-452.txt), including complete mixed writings verified by reconciliation. [Frozen reconciled commitments](../freeze/OT_2001CHUNK7_B_7_RECONCILED.md) correct the original statutory and constitutional topology. [Selected entering law](../entering-law/OT_2001CHUNK7_B_SELECTED.md) and [supplemental constitutional law](../entering-law/OT_2001CHUNK7_B_SUPPLEMENT.md) supply current authority. No empirical superiority is invented, and historical categorical sampling prohibition does not replace current law. The assembly uses the actual design and supported uncertainty rather than adding a new record premise.
+
+Research cutoff: 2002-06-20; no later law or event supplies a premise. The Record is preserved in the Current Term State by durable filesystem handoff on November 10, 2026, subject to coordinated projection checks. Repository verification and commitment remain for the operator under the Run instruction.
+
+## Adaptive audit annex
+
+### Frozen independent commitments
+
+## Utah v. Evans — No. 01-714
+
+**Neutral completion and refreshed law.** Franklin (June 26, 1992) preserves review of the Secretary's completed count and likely redress through the official allocation chain; Wisconsin (March 20, 1996) applies that rule and requires a reasonable relationship to enumeration and population-based representation. The census constitutional standard's present operation is Department of Commerce/Glavin (January 25, 1999): actual enumeration can include explained statistical supplementation. That decision permits the two described designs, but its general section 195 permission-versus-duty account had only four joins. It is neither a blanket statistical license nor the historical categorical sampling prohibition. No current-term decision changes those rules.
+
+The existing packet adequately states hot-deck imputation's local comparable-unit design, its residual role after genuine direct efforts, the marginal-seat effect, the absence of a discrimination finding, and the limits of the Hogan declaration. No empirical study establishing improved distributive accuracy is supplied or invented. The constitutional comparison is with treating genuinely unresolved entries as zero, not with a known perfectly accurate count. Geographic locality and matching address/occupancy/household information are actual methodological features; they supply a reasoned geographic connection without guaranteeing improved allocation in every State.
+
+**Supported alternatives.** Standing follows a concrete lost seat, causal method and likely correction through responsible officials; the objection based solely on completed certificates fails under the existing census redress rules. The statutory affirmance path treats residual unit-level imputation as completion of the attempted enumeration, distinct from selecting a sample to represent an unsurveyed population; its strongest objection is that both infer unobserved facts and section 195 protects apportionment from such substitution. Constitutional affirmance rests on the explained local-comparison method and avoidance of treating known unresolved units as zero, not an unsupported claim of proven superior distribution. Remand would be warranted if the actual explanation had no reasonable geographic connection; its counterargument is that the current method supplies that connection without an empirical certainty requirement. The previous sampling decision's precise scope must be respected on each path.
+
+| Justice | Disposition and sufficient ground | Individual authority and scope |
+|---|---|---|
+| Stevens | Find standing; affirm the method under statute and Constitution. | His unanimous Wisconsin merits opinion requires an explained geographic relationship rather than perfection. His Department of Commerce statutory and constitutional joins reject headcount exclusivity. Nearby comparable-unit completion after attempted enumeration reasonably addresses the remaining omissions; the absence of proof that every geographic share improves is not dispositive. He joins no numerical safe harbor. |
+| O'Connor | Find standing; affirm on this method's distinction from sampling and its reasonable enumeration relationship. | Her Glavin standing join and unanimous Wisconsin merits join supply review and the constitutional standard. Her prior statutory opposition to the two sampling designs is a real limit: this local residual inference does not replace actual attempted enumeration of an unsurveyed group. She can distinguish the method without adopting the previous plurality's general section 195 construction. She requires actual local comparable data, not a universal permission to estimate. |
+| Scalia | Find standing; reverse on the statutory ground and remand for lawful recalculation. | His Glavin standing join and Wisconsin merits join foreclose reliance on certification alone as a redress bar. His Glavin statutory opposition treats inference substituted for an uncounted number as within the apportionment restriction. The limited Glavin holding concerning two other designs governs those methods but does not automatically approve this materially different technique. He would retain his statutory construction for this unresolved method; his judgment does not require a constitutional holding or a specified seat transfer. |
+| Kennedy | Find standing; affirm statutory and constitutional validity of this bounded design. | His Franklin reviewability join, Wisconsin merits join and Glavin standing join support review. His Glavin statutory objection does not equate every local completion judgment with a representative sample. Here a genuine unit-by-unit attempt precedes localized completion, and the geographic relationship required by Wisconsin is reasonably explained. He does not join a claim that national-total improvement alone would be sufficient. |
+| Souter | Find standing; affirm. | His Department of Commerce opinion supports the two approved supplementation designs and explains genuine enumeration without literal headcount exclusivity. The present method independently satisfies section 141 and does not require adoption of his former four-vote general section 195 construction. His Franklin and Wisconsin joins require the actual method's explanation and continuing review; the nearby donor design supplies a rational geographic fit without a new empirical finding. |
+| Thomas | Find standing; reverse on the statutory ground and remand. | His Glavin standing and statutory-opposition positions preserve concrete representational review but reject using inference to create an apportionment number not actually determined. The two previously approved designs remain controlling in their narrow scope; he does not supply their limitation by silently overruling them. He joins the statutory-invalidity route here and reserves an independent constitutional headcount position because it is unnecessary to that judgment. |
+| Ginsburg | Find standing; affirm. | Her Glavin statutory and constitutional joins and unanimous Wisconsin merits join permit reasoned supplementation while demanding a genuine geographic relationship. Local comparability and residual completion supply that relationship; neither mere national-total improvement nor agency title alone would do so. She joins the bounded statutory distinction and no guaranteed-seat remedy. |
+| Breyer | Find standing; affirm. | His narrower Glavin statutory explanation permits actual supplementation without embracing every replacement census, and his Wisconsin and Glavin constitutional joins require an explained representation connection. The small residual role is contextual evidence, not a percentage exemption. Nearby comparable records make the choice a reasonable completion technique; the record's inability to prove exact geographic gains does not make zero the constitutionally required response. |
+
+**Frozen scope.** All eight find standing. Six affirm this method; Scalia and Thomas would reverse under the statute. The six directly join that section 141 permits this residual local-comparison completion of a genuine enumeration and section 195 does not prohibit it as the representative-sampling substitution urged by Utah. They also join the application of Wisconsin's reasonable-relationship rule: the actual local design and comparison with omission support enumeration and geographic representation without proof of universal improvement. The judgment supplies no universal statistical license, fixed error tolerance, judicially chosen dataset, new APA merits adjudication, presidential injunction or automatic seat transfer. The statutory dissent would require lawful agency correction through the ordinary sequence and would leave the corrected number to that process.
+
+### Frozen historical reconciliation
+
+## Utah v. Evans — No. 01-714
+
+The full source at 536 U.S. 452–515 includes O'Connor's mixed opinion, Thomas's mixed opinion joined by Kennedy, and Scalia's jurisdictional dissent. Those writings cannot be reduced to four identical merits dissents. O'Connor accepts standing, finds statutory prohibition and reserves constitutionality. Thomas and Kennedy accept standing and statutory permission but reject constitutionality. Scalia would dismiss for want of standing and supplies no historical statutory merits vote.
+
+Two actually changed legal premises matter. First, the effective Franklin and Wisconsin rulings preserve post-transmission review and likely correction of the underlying census determination, and Scalia personally joined those standing rulings. Second, the effective Glavin decision expressly rejects an exclusively physical-headcount constitutional requirement for its explained statistical design. Historically the constitutional issue remained open after the prior statutory sampling prohibition. In this simulation it has a governing rule. But Glavin's general Section 195 permission-versus-duty rationale received only four votes; only its permission for the two identified designs controls. Neither side may turn it into a universal sampling license or restore the historical categorical prohibition as Court law.
+
+| Justice | Reconciled position and concrete comparison |
+|---|---|
+| Stevens | Retain standing and affirm both merits components. His Wisconsin merits opinion and Glavin statutory/constitutional joins permit explained supplementation reasonably related to enumeration and geographic representation. The nearby comparable-unit completion process satisfies that standard; the historical majority alignment confirms the result, while the legal route must use the actual Glavin permission. |
+| O'Connor | Retain standing; correct to statutory reversal and reserve the Constitution. Her historical opinion specifically rejects the proposition that residual hot-deck imputation ceases to be sampling merely because the donor is selected late, nonrandomly or for a small fraction. Her simulated Glavin statutory opposition is retained, and that case's narrow permission for two other designs does not compel her agreement on this method. Her Wisconsin joinder does not decide the separate statutory question. She would apply her statutory objection to the present technique without denying the binding result for the previously approved designs. |
+| Scalia | Retain standing and the independently modeled statutory reversal. His own simulated Franklin and Wisconsin standing joins materially displace the historical objection to likely redress after completed transmission; his Glavin standing join reinforces the concrete representation requirement. Having reached the merits here, his retained Glavin statutory objection supports rejecting this different technique without undoing the two designs already approved. No historical statutory vote is invented. He reserves the Constitution and would require lawful agency correction through the statutory sequence. |
+| Kennedy | Retain standing and affirm both merits components, but make the changed constitutional premise explicit. Historically he joined Thomas's rejection of inferred counts under an exclusively actual-count conception. The governing Glavin constitutional holding now expressly rejects that exclusivity and leaves method-specific reasonable-relationship review. His own Wisconsin merits join supplies the standard he applies: a genuine attempt to enumerate followed by local same-type residual completion has a reasonable geographic connection. He adheres to that existing framework rather than reopening the categorical constitutional issue. The absence of a study proving improved distributive accuracy does not itself establish irrationality; national-total improvement alone would not suffice. |
+| Souter | Retain standing and affirm. His Franklin and Wisconsin joins preserve review; his Glavin statutory and constitutional reasoning supports bounded completion of a genuine enumeration. He does not promote his former four-vote general statutory construction into law. Historical majority alignment is compatible, but its reliance on a categorical prior sampling ban is not imported. |
+| Thomas | Retain standing; correct to statutory permission and constitutional opposition. His historical opinion expressly agrees that imputation is outside the statutory sampling prohibition, so his provisional transfer of the Glavin statutory objection to this distinct method lacks support. He instead retains his actual constitutional objection to adding persons by donor inference, particularly where the status of a unit itself is unresolved. He does not join the constitutional reasonable-relationship application. Unlike Kennedy, he does not treat the new Glavin rule as a reason to abandon that objection: his noncontrolling constitutional position refuses its extension and disagrees with its rejection of a count-based limit to the extent necessary. This is stated as dissent from the governing premise, not as a claim that an exclusive headcount rule is existing Court law. |
+| Ginsburg | Retain standing and affirm. Her Glavin statutory/constitutional and Wisconsin merits joins permit reasoned, geographically grounded supplementation. Local comparability and residual completion support this application without a claim of empirically guaranteed improvement. Her historical majority alignment confirms the disposition, subject to the changed entering law. |
+| Breyer | Retain standing and affirm. His narrower Glavin statutory explanation and constitutional join support this particular completion method without a blanket estimation license. His Wisconsin join requires the actual representation connection supplied by nearby comparable records. Historical majority alignment confirms the result but cannot supply the displaced historical prohibition as precedent. |
+
+**Why these corrections differ:** O'Connor's provisional explanation contradicts her actual detailed methodological argument without a premise that changes her statutory classification. Thomas's provisional statutory objection contradicts his express agreement on that component; prior opposition to other sampling methods does not cure that contradiction. Their grounds are therefore corrected. Kennedy faces a newly settled constitutional premise directly answering the categorical objection he historically joined; his existing Wisconsin commitment supplies a concrete application ground under the new rule. Scalia personally joined the simulated standing rulings that rejected the basis of his historical jurisdictional dissent. These are issue-specific comparisons, not uniform assumptions that prior dissenters must either accept or reject every later application of a precedent.
+
+**Frozen component scope:** all eight find a concrete seat injury, causation and likely redress through responsible census officials and the statutory allocation sequence. Neither transmission nor certificates automatically foreclose review; no coercive presidential injunction or general assumption about all absent nonparties is adopted. Six support statutory permission for this residual local-comparison completion of an attempted enumeration; O'Connor and Scalia oppose. Five support constitutional validity under the effective reasonable-relationship rule; Thomas opposes and the statutory dissenters reserve it. Those five are Stevens, Kennedy, Souter, Ginsburg and Breyer.
+
+The five affirm the district judgment sustaining the method. They require a genuine effort to enumerate, an explained local comparable-donor method and a reasonable relation to population-based representation. The small percentage is context, not a numerical safe harbor. The actual Hogan account does not establish empirically improved distributive accuracy, and no such finding is supplied. The comparison is with leaving genuinely unresolved entries uncounted, not with an available perfectly accurate census. No universal statistical license, imputation mandate, new APA merits adjudication, prescribed dataset or automatic seat transfer follows. The three favoring reversal would return for lawful agency correction through the official sequence, without judicially fixing a new count. Thomas's constitutional disagreement does not itself alter controlling Glavin law.
+
+**Historical departure:** Scalia reaches the merits because his own simulated Franklin and Wisconsin joins recognize likely post-transmission redress of the responsible census determination, a premise contrary to his historical standing objection. Kennedy sustains the constitutional application because the effective Glavin decision has already rejected the exclusive-headcount premise that his historical Thomas joinder adopted; his Wisconsin joinder supports application of the existing reasonable-relationship standard to the explained local residual method. Historical statutory votes are not inferred where no merits vote was expressed.
+
+### Form and assignment
+
+**Counts before assignment:** Stone-Zsela 11; Stevens 11; O'Connor 11; Scalia 11; Kennedy 11; Souter 11; Thomas 12; Ginsburg 12; Breyer 11.
+
+**Last counted event:** Rush Prudential HMO, Inc. v. Moran, 2002-06-20; Ginsburg. **Eligible authors:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer. **Balance pool:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer. **Assigner:** Stone-Zsela. **Chosen author:** Breyer.
+
+The full six-Justice coalition is eligible. Its minimum is eleven; Stone, Stevens, Kennedy, Souter and Breyer have eleven, Ginsburg twelve, and all six fall within the balance pool. Breyer is selected for the method-specific statutory and comparative-uncertainty work. His narrower Glavin explanation directly preserves permission for supported designs without adopting the four-Justice general Section 195 construction; the present opinion must maintain exactly that boundary while explaining why the local donor design meets constitutional review without a claim of proved geographic superiority. Souter is the strongest alternative because his Glavin opinion integrates standing, statute and Constitution and he can faithfully keep its noncontrolling general construction separate. At equal counts, Breyer's already stated narrow statutory account gives the concrete fit advantage for the residual-method question. Stone also supports every part but offers no greater advantage on that defined task. The frozen coalition already shares the governing formulation, so no invented objection, new join or expansion condition influences the choice.
+
+The [form receipt](../freeze/OT_2001CHUNK7_UTAH_OPINION_FORM.md) preceded the [fresh recount](../freeze/OT_2001CHUNK7_UTAH_ASSIGNMENT_COUNTS.json). Counts come from actual preceding Record opinion tables, with same-date alphabetical ordering, not earlier tallies.
+
+### Final compatibility
+
+Part I has nine direct joins; Part II has seven; Part III has six. Only the six who join every part are eligible for the indivisible signed lead. O'Connor and Scalia preserve their statutory objection and constitutional reservation; Thomas preserves statutory agreement and constitutional dissent. O'Connor states the shared statutory objection because her frozen method-specific classification argument supplies it; Thomas states his separate constitutional objection. No commitment changes during assembly and no new historical departure is created. The frozen historical-departure line identifies Scalia's standing change and Kennedy's constitutional change by their specific altered premises. No Marks synthesis is required.
+
+## Public Projection
+
+## Event
+
+Utah v. Evans, No. 01-714. Merits decision, June 20, 2002. Argued March 27, 2002. On direct appeal from the three-judge District Court for the District of Utah. Utah challenges its loss of a marginal House seat from the 2000 census's hot-deck imputation. After mail and field efforts left some address, occupancy and household-size information unresolved, the Bureau used nearby comparable units to complete the missing information. Utah asserts standing and contests statutory permission and constitutional validity; North Carolina challenges redressability based on the completed certificate and defends the method. The district court sustained the method. No discriminatory manipulation was found.
+
+## Participation
+
+All nine Justices participated at argument and decision.
+
+## Public Action
+
+The judgment of the District Court is affirmed.
+
+## Judgment & Remedy
+
+**Affirmed, 6–3.**
+
+**Supporting:** Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer.
+**Opposing:** O'Connor, Scalia and Thomas.
+
+All nine find standing. Seven uphold statutory permission: the six supporting affirmance and Thomas; O'Connor and Scalia oppose. Six uphold constitutional validity: the affirming coalition; Thomas opposes, and O'Connor and Scalia do not reach that question. The challenged count and resulting allocation remain in place.
+
+## Opinion Topology
+
+| Writing | Author | Joins and scope |
+|---|---|---|
+| Opinion of the Court | Breyer | Part I: all other Justices. Part II: Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg. Part III: Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg. |
+| Concurrence in part and dissent in part | O'Connor | Scalia; joins Part I, opposes Part II, reserves Part III |
+| Concurrence in part and dissent in part | Thomas | No other Justice; joins Parts I and II, opposes Part III |
+
+## Holdings
+
+### Completed transmission does not defeat redress of the representation injury
+
+**Holding and operative rule:** A State has standing to contest a census method that causes an identified loss of a House seat when authoritative relief concerning the responsible census determination would likely correct the allocation through the statutory sequence. Completed transmission and certification do not categorically bar correction of court-determined legal error in the count.
+
+**Authority:** Part I of the opinion of the Court is joined by all nine Justices.
+
+**Controlling explanation:** The Court holds that Utah's identified marginal-seat loss is a concrete injury caused by the challenged method. Franklin recognizes likely redress through correction of the responsible census determination; Wisconsin applies that principle to representational injury, and Department of Commerce requires concrete injury for the particular plaintiff. Utah meets those requirements. North Carolina's certificate objection would make a legally erroneous census input irreversible, but the reporting and allocation statutes contain no such categorical command. The Court reads their sequence to permit correction of the underlying determination and the resulting certificate for legal error. Likely redress follows from that official sequence, without a coercive presidential injunction or a general assumption that absent persons obey judicial advice. Whether Utah proves illegality is a merits question and does not erase its standing. The President's APA status and susceptibility to coercive relief are unnecessary to this holding and remain reserved.
+
+**Precedent treatment:** Franklin v. Massachusetts: applied to likely redress through the allocation sequence. Wisconsin v. City of New York: applied to continuing representational injury. Department of Commerce v. United States House of Representatives: applied to plaintiff-specific injury rather than statutory authorization alone.
+
+### The Census Act permits this residual completion method
+
+**Holding and operative rule:** Sections 141 and 195 permit hot-deck imputation that completes particular unresolved units with nearby comparable information after genuine mail and field enumeration. This residual method does not select a representative sample to substitute for enumeration of a larger unenumerated population, and §195 does not prohibit it; its small percentage alone supplies no permission.
+
+**Authority:** Part II of the opinion of the Court is joined by Stone-Zsela, Stevens, Kennedy, Souter, Thomas, Ginsburg and Breyer: seven direct votes.
+
+**Controlling explanation:** The Court holds that the method's actual operation fits the enacted enumeration authority. The Bureau attempts to identify and count units individually, then fills remaining address, occupancy and household-size gaps from nearby units of the same type. Treating unresolved entries as zero would itself infer an answer rather than count established persons more literally. Section 141 permits this supported completion of the count, and §195 does not withdraw that authority for this method. The contrary argument equates every inference from observed information with a representative sample. But this process completes identified residual units after attempted enumeration; it does not select a fraction of the population to stand for a larger unenumerated whole. The distinction rests on function, not merely timing, randomness or scale. Department of Commerce permits two particular sampling designs; its general permission-versus-duty construction of §195 did not command a majority. The Court therefore neither elevates that construction into law nor decides materially different sampling designs. The statutory claim fails on the described method itself.
+
+**Precedent treatment:** Department of Commerce v. United States House of Representatives: its permission for two identified designs remains intact; the four-Justice general construction does not control this independent method-specific analysis.
+
+### The explained method reasonably serves enumeration and geographic representation
+
+**Holding and operative rule:** The Enumeration Clause permits this residual imputation because it supplements a genuine population-counting effort and bears an explained reasonable relationship to enumeration and population-based representation. Locality and comparable housing type support the inference on this record without proof of quantified geographic superiority; a national-total improvement alone, a fixed percentage or unsupported geographic assumptions would not supply that relationship.
+
+**Authority:** Part III of the opinion of the Court is joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer: six direct votes. Thomas opposes; O'Connor and Scalia do not reach this component.
+
+**Controlling explanation:** The Court holds that the Constitution does not require every counted fact to be personally observed. Department of Commerce rejects an exclusively physical-headcount rule, while Wisconsin requires a genuine enumeration and an explained relationship to population-based representation. The Bureau first attempted direct enumeration. For remaining gaps, it chose a geographically nearby donor of the same housing type and kept the unresolved unit at its own location. Those features connect the inference to geographic distribution rather than merely a larger national total. The Hogan declaration's numerical-accuracy priority and the absence of a study establishing improved distributive accuracy preclude a finding that this design was proved geographically superior. They do not establish that geography was ignored. The actual choice is between a supported local inference and treating unresolved entries as zero, which also carries geographically uneven error. Neither alternative guarantees perfection; the explained design satisfies reasonable-relationship review. The final-seat consequence does not change that standard. The small residual use is evidence of fit, not a constitutional safe harbor. Thomas's proposed count-based limit cannot supply the governing rule after Department of Commerce, though his disagreement remains stated separately. Discriminatory manipulation, unsupported geographic proxies and absence of a genuine enumeration effort remain outside this permission. No freestanding APA merits claim is before the Court.
+
+**Precedent treatment:** Wisconsin v. City of New York: applied without changing its reasonable-relationship standard or requiring empirical certainty. Department of Commerce v. United States House of Representatives: applied for constitutional permission to supplement a genuine enumeration with supported inference. Franklin v. Massachusetts: its supported counting choices remain consistent with this application; its separate administrative-review rule is unchanged.
+
+## Precedent Treatment
+
+- Franklin v. Massachusetts, No. 91-1502 (June 26, 1992): applied to redress through correction of the responsible determination and allocation sequence; its independent finality and administrative-review rules remain unchanged.
+- Wisconsin v. City of New York, Nos. 94-1614, 94-1631 and 94-1985 (Mar. 20, 1996): applied to continuing representational injury and explained methodological choice reasonably related to enumeration and geographic representation.
+- Department of Commerce v. United States House of Representatives / Clinton v. Glavin, Nos. 98-404 and 98-564 (Jan. 25, 1999): applied to plaintiff-specific standing and constitutional permission for supported supplementation; its two-design statutory permission remains binding, while its general §195 construction remains a four-Justice position.
+
+## Law After Decision
+
+Completed apportionment certificates do not make the responsible census determination immune from correction of legal error. The Census Act and Enumeration Clause permit the described residual, geographically grounded completion of a genuine enumeration. The constitutional reasonable-relationship standard is applied without requiring proof of perfect or guaranteed improvement. The decision adds this method-specific statutory permission without settling the general construction of §195 or authorizing every inference method.
+
+## Separate Writings
+
+**O'Connor, concurring in part and dissenting in part, joined by Scalia.** They join the standing holding but would reverse under §195 and remand for lawful agency correction through the statutory sequence. In their view, donor information substitutes an inferred population for information never observed, and choosing donors late, nonrandomly or for only a small residual group does not remove the technique from the statutory sampling restriction. The prior permission for two other designs binds those designs but does not settle this different method. They reserve the constitutional question and would leave any corrected count and allocation to the lawful official process.
+
+**Thomas, concurring in part and dissenting in part.** He joins standing and statutory permission, agreeing that this imputation falls outside the statutory sampling restriction. He would nevertheless reverse because the Constitution requires an actual count rather than adding persons through donor inference, especially where the existence or occupancy of the unit is unresolved. He disagrees with extending Department of Commerce's constitutional permission and with its rejection of a count-based limit to the extent necessary. His position is a dissent from that governing premise, not a description of the current rule. He would remand for lawful agency correction rather than judicially specify a replacement number.
+
+## Procedure After Action
+
+The direct appeal concludes in affirmance. The challenged 2000 count and allocation remain operative. The Court orders no seat transfer, replacement dataset, presidential injunction or new census. Review of materially different or unlawfully implemented methods remains governed by the applicable statutory and constitutional standards.
+
+## Source Notes
+
+No. 01-714; 13 U.S.C. §§141(a)–(b), 195; 2 U.S.C. §2a(a)–(b); Pub. L. 105-119, Title II, §209; U.S. Const., Art. I, §2, as modified by the Fourteenth Amendment. The Hogan declaration does not establish empirically improved distributive accuracy. Geographic locality and matching housing type are features of the actual design; improved national totals alone do not establish the necessary geographic relationship.

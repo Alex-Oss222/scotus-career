@@ -1,0 +1,56 @@
+COLUMBUS V. OURS GARAGE & WRECKERSERVICE, INC.
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+COLUMBUS V. OURS GARAGE & WRECKERSERVICE, INC. (01-419) 
+257 F.3d 506, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CITY OF COLUMBUS et al. v. OURS GARAGE AND WRECKER SERVICE, INC., et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+ 
+No. 01—419.  Argued April 23, 2002–Decided June 20, 2002
+
+Federal law preempts prescriptions by “a State [or] political subdivision of a State … related to a price, route, or service of any motor carrier … with respect to the transportation of property,” 49 U.S.C. § 14501(c)(1).  Exceptions to this general rule provide that the preemption directive “shall not restrict the safety regulatory authority of a State with respect to motor vehicles,” §14501(c)(2)(A); “does not apply to the transportation of household goods,” §14501(c)(2)(B); and “does not apply to the authority of a State or a political subdivision of a State” to regulate “the price of for-hire motor vehicle transportation by a tow truck … performed without the prior consent … of the [towed vehicle’s] owner or operator,” §14501(c)(2)(C).  Petitioner Columbus, Ohio (City), extensively regulates the operation of tow trucks seeking to pick up vehicles within city limits.  Plaintiff-respondents, a tow-truck operator and a trade association of such operators, brought this suit to enjoin enforcement of the City’s tow-truck regulations on the ground that they were preempted by §14501(c)(1).  The Federal District Court granted the plaintiffs summary judgment.  The Sixth Circuit affirmed based on its earlier decision in Petrey v. Toledo, in which it held that city tow-truck regulations similar to those of Columbus were preempted.  Observing that §14501(c)(1)’s preemption rule explicitly applies to “a State [or] political subdivision of a State,” while the exception for safety regulations, §14501(c)(2)(A), refers only to the “authority of a State,” the Petrey court determined that the contrast in statutory language indicated that Congress meant to limit the safety exception to States alone.  This reading, the court further reasoned, was consistent with Congress’ deregulatory purpose of encouraging market forces by eliminating a myriad of complicated and potentially conflicting state regulations.  Yet another level of regulation at the local level, the court inferred, would be disfavored. 
+
+Held: Section 14501(c) does not bar a State from delegating to municipalities and other local units the State’s authority to establish safety regulations governing motor carriers of property, including tow trucks.  Pp. 5—16.
+
+    (a) Had §14501(c) contained no reference at all to “political subdivision[s] of a State,” §14501(c)(2)(A)’s exception for exercises of the “safety regulatory authority of a State” undoubtedly would have embraced both state and local regulation under Wisconsin Public Intervenor v. Mortier, 501 U.S. 597.  It was there held that the exclusion of political subdivisions cannot be inferred from a federal law’s express authorization to the “States” to take action, for such subdivisions are components of the very entity the statute empowers, and are created as convenient agencies to exercise such of the State’s powers as it chooses to entrust to them, id., at 607—608.  This case is a closer call than Mortier because, in contrast to §14501(c)(2)(A)’s singularly bare reference to “[s]tate” authority, almost every other provision of §14501 links States and their political subdivisions.  Nevertheless, that does not mean that Congress intended to limit the exception to States alone, as respondents contend.  Respondents rely on Russello v. United States, 464 U.S. 16, 23, in which the Court observed that, where particular language is included in one section of a federal statute but omitted from another, Congress is generally presumed to have acted intentionally and purposely.  Reading §14501(c)’s exceptions in combination and context, however, leads the Court to conclude that §14501 does not provide the requisite “clear and manifest indication that Congress sought to supplant local authority.”  Mortier, 501 U.S., at 611.  Section 14501(c)(2)(C) refers to the “authority of a State or a political subdivision of a State to enact or enforce” regulations in particular areas, wording which parallels that of §14501(c)(1).  Accord, §14501(c)(3).  This parallel structure does not imply, however, that §14501(c)(2)(A)’s concise statement must be read to use the term “State” restrictively.  In contrast to §§14501(c)(2)(C) and (c)(3), neither the safety exception, §14501(c)(2)(A), nor the exception for the transportation of household goods, §14501(c)(2)(B), refers to the “authority … to enact or enforce a law, regulation, or other provision.”  The Russello presumption–that the presence of a phrase in one provision and its absence in another reveals Congress’ design–grows weaker with each difference in the formulation of the provisions under inspection.  Furthermore, the Court notes, §14501(c)(1) preempts the power of both States and localities to “enact or enforce” rules related to the “price, route, or service of any motor carrier . . . with respect to the transportation of property”; reading the term “State” in §14501(c)(2)(A) to exclude localities would prevent those units not only from enacting such rules but also from enforcing them, even when such rules were enacted by the State legislature.  Finally, resort to the Russello presumption here would yield a decision at odds with our federal system’s traditional comprehension of the regulatory authority of a State.  Local governmental units are created to exercise such of the State’s powers as the State may entrust to them in its absolute discretion.  Mortier, 501 U.S., at 607—608.  In contrast to programs in which Congress restricts that discretion through its spending power, §14501(c)(2)(A) evinces a clear purpose to ensure that the preemption of States’ economic authority over motor carriers of property “not restrict” the preexisting and traditional state police power over safety, “a field which the States have traditionally occupied.”  Medtronic, Inc. v. Lohr, 518 U.S. 470, 485.  Preemption analysis “start[s] with the assumption that the historic police powers of the States were not to be superseded by the Federal Act unless that was the clear and manifest purpose of Congress.”  Ibid.  Because a State’s “safety regulatory authority” includes the choice to delegate power to localities, forcing a State to refrain from doing so would effectively “restrict” that very authority.  Absent a basis more reliable than statutory language insufficient to demonstrate a “clear and manifest purpose” to the contrary, federal courts should resist attribution to Congress of a design to disturb a State’s decision on the division of authority between the State’s central and local units over safety on municipal streets and roads.  Pp. 5—13.
+
+      (b) Contrary to the Sixth Circuit’s reading, declarations of deregulatory purpose in the statute and legislative history do not justify interpreting through a deregulatory prism aspects of the state regulatory process that Congress determined should not be preempted.  Giving §14501(c)(2)(A)’s safety exception the narrowest possible construction is resistible here, for that provision does not necessarily conflict with Congress’ deregulatory purposes.  The area Congress sought to deregulate was state economic regulation; the exemption in question is for state safety regulation.  Local regulation of tow-truck prices, routes, or services that is not genuinely responsive to safety concerns garners no exemption from preemption.  The construction of §14501 that respondents advocate, moreover, does not guarantee uniform regulation.  On their reading as on petitioners’, for example, a State could, without affront to the statute, pass discrete, nonuniform safety regulations applicable to each of its several constituent municipalities. Furthermore, §31141–which authorizes the Secretary
+of Transportation to void any state safety law or regulation upon finding that it has no safety benefit or would cause an unreason-
+able burden on interstate commerce–affords a means to prevent §14501(c)(2)(A)’s safety exception from overwhelming Congress’ deregulatory purpose.  Pp. 13—16.
+
+      (c) The Court expresses no opinion on whether Columbus’ particular regulations, in whole or in part, qualify as exercises of “safety regulatory authority” or otherwise fall within §14501(c)(2)(A)’s compass.  This question, which was not reached by the Sixth Circuit, remains open on remand.  P. 16.
+
+257 F.3d 506, reversed and remanded.
+
+    Ginsburg, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Kennedy, Souter, Thomas, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which O’Connor, J., joined.

@@ -1,0 +1,54 @@
+GONZAGA UNIV. V. DOE
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+GONZAGA UNIV. V. DOE (01-679) 
+143 Wash. 2d 687, 24 P.3d 390, reversed and remanded.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Breyer ]Dissent
+ [ Stevens ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+GONZAGA UNIVERSITY et al. v. DOE
+
+CERTIORARI TO THE SUPREME COURT OF WASHINGTON
+
+ 
+No. 01—679.  Argued April 24, 2002–Decided June 20, 2002
+
+As a student at petitioner Gonzaga University, a private educational institution in Washington State, respondent planned to become a public elementary schoolteacher in that State after graduation.  Washington at the time required all new teachers to obtain an affidavit of good moral character from their graduating colleges.  Petitioner League, Gonzaga’s teacher certification specialist, overheard one student tell another that respondent had engaged in sexual misconduct.  League then launched an investigation; contacted the state agency responsible for teacher certification, identifying respondent by name and discussing the allegations; and, finally, told him that he would not receive his certification affidavit.  Respondent sued Gonzaga and League in state court under, inter alia, 42 U.S. C. §1983, alleging a violation of the Family Educational Rights and Privacy Act of 1974 (FERPA), 20 U.S. C. §1232g, which prohibits the federal funding of schools that have a policy or practice of permitting the release of students’ education records without their parents’ written consent.  A jury awarded respondent compensatory and punitive damages on the FERPA claim.  The Washington Court of Appeals reversed in relevant part, concluding that FERPA does not create individual rights and thus cannot be enforced under §1983.  Reversing in turn, the State Supreme Court acknowledged that FERPA does not give rise to a private cause of action, but reasoned that the nondisclosure provision creates a federal right enforceable under §1983.  
+
+Held: Respondent’s action is foreclosed because the relevant FERPA provisions create no personal rights to enforce under §1983.  Pp. 3—15.
+
+    (a) This Court has never held, and declines to do so here, that spending legislation drafted in terms resembling FERPA’s can confer enforceable rights.  FERPA directs the Secretary of Education to enforce its nondisclosure provisions and other spending conditions, §1232g(f), by establishing an office and review board to investigate, process, review, and adjudicate FERPA violations, §1232g(g), and to terminate funds only upon determining that a recipient school is failing to comply substantially with any FERPA requirement and that such compliance cannot be secured voluntarily, §§1234c(a), 1232g(f).  In Pennhurst State School and Hospital v. Halderman, 451 U.S. 1, the Court made clear that unless Congress “speak[s] with a clear voice,” and manifests an “unambiguous” intent to create individually enforceable rights, federal funding provisions provide no basis for private enforcement by §1983, id., at 17, 28, and n. 21.  Since Pennhurst, the Court has found that spending legislation gave rise to rights enforceable under §1983 only in Wright v. Roanoke Redevelopment and Housing Authority, 479 U.S. 418, 426, 432, and Wilder v. Virginia Hospital Assn., 496 U.S. 498, 522—523, where statutory provisions explicitly conferred specific monetary entitlements upon the plaintiffs, and there was no sufficient administrative means of enforcing the requirements against defendants that failed to comply.  The Court’s more recent decisions, however, have rejected attempts to infer enforceable rights from Spending Clause statutes whose language did not unambiguously confer such a right upon the Act’s beneficiaries.  See, e.g., Suter v. Artist M., 503 U.S. 347, 363; Blessing v. Freestone, 520 U.S. 329, 340, 343.  Respondent’s attempt to read this line of cases to establish a relatively loose standard for finding rights enforceable by §1983 is unavailing.  Because §1983 provides a remedy only for the deprivation of “rights … secured by the [Federal] Constitution and laws,” it is rights, not the broader or vaguer “benefits” or “interests,” that may be enforced thereunder.  Thus, the Court further rejects the notion that its implied right of action cases are separate and distinct from its §1983 cases.  To the contrary, the former cases should guide the determination whether a statute confers rights enforceable under §1983.  Although the question whether a statutory violation may be enforced through §1983 is a different inquiry from that involved in determining whether a private right of action can be implied from a particular statute, Wilder, supra, at 508, n. 9, the inquiries overlap in one meaningful respect–in either case it must first be determined whether Congress intended to create a federal right, see Touche Ross & Co. v. Redington, 442 U.S. 560, 576.  For a statute to create private rights, its text must be phrased in terms of the persons benefited.  E.g., Cannon v. University of Chicago, 441 U.S. 677, 692, n. 13.  Once the plaintiff demonstrates that the statute confers rights on a particular class of persons, California v. Sierra Club, 451 U.S. 287, 294, the right is presumptively enforceable by §1983.  Conversely, where a statute provides no indication that Congress intends to create new individual rights, there is no basis for a private suit under §1983.  Pp. 3—11.
+
+      (b) There is no question that FERPA’s confidentiality provisions create no rights enforceable under §1983.  The provisions entirely lack the sort of individually focused rights-creating language that is critical.  FERPA’s provisions speak only to the Secretary, directing that “[n]o funds shall be made available” to any “educational … institution” which has a prohibited “policy or practice,” §1232g(b)(1).  This focus is two steps removed from the interests of individual students and parents and clearly does not confer the sort of individual entitlement that is enforceable under §1983.  E.g., Cannon, supra, at 690—693.  Furthermore, because FERPA’s confidentiality provisions speak only in terms of institutional “policy or practice,” not individual instances of disclosure, see §§1232g(b)(1)—(2), they have an “aggregate” focus, they are not concerned with whether the needs of any particular person have been satisfied, and they cannot give rise to individual rights, Blessing, supra, at 344.  The fact that recipient institutions can avoid termination of funding so long as they “comply substantially” with the Act’s requirements, §1234c(a), also supports a finding that FERPA fails to support a §1983 suit.  Id., at 335, 343.  References in §§1232g(b)(1) and (2) to individual parental consent cannot make out the requisite congressional intent to confer individually enforceable rights because each of those references is made in the context of describing the type of “policy or practice” that triggers a funding prohibition.  The conclusion that FERPA fails to confer enforceable rights is buttressed by the mechanism that Congress provided for enforcing FERPA violations.  The Secretary is expressly authorized to “deal with violations,” §1232g(f), and required to establish a review board to investigate and adjudicate such violations, §1232g(g).  For these purposes, the Secretary created the Family Policy Compliance Office, which has promulgated procedures for resolving student complaints about suspected FERPA violations.  These procedures squarely distinguish this case from Wright and Wilder, where an aggrieved individual lacked any federal review mechanism.  Finally, because FERPA prohibits most of the Secretary’s functions from being carried out in regional offices, §1232g(g), in order to allay the concern that regionalizing enforcement might lead to multiple interpretations of FERPA, it is implausible to presume that Congress nonetheless intended private suits to be brought before thousands of federal- and state-court judges.  Pp. 11—15.
+
+143 Wash. 2d 687, 24 P.3d 390, reversed and remanded.
+
+    Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined.  Breyer, J., filed an opinion concurring in the judgment, in which Souter, J., joined.  Stevens, J., filed a dissenting opinion, in which Ginsburg, J., joined.

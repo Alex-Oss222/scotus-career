@@ -1,0 +1,242 @@
+[
+  {
+    "docket": "01-631",
+    "files": [
+      {
+        "file": "01-631.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-631.ZS.html",
+        "characters": 8296
+      },
+      {
+        "file": "01-631.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-631.ZD.html",
+        "characters": 12456
+      },
+      {
+        "file": "01-631.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-631.ZO.html",
+        "characters": 22910
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-301",
+    "files": [
+      {
+        "file": "01-301.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-301.ZS.html",
+        "characters": 6270
+      },
+      {
+        "file": "01-301.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-301.ZD.html",
+        "characters": 22721
+      },
+      {
+        "file": "01-301.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-301.ZO.html",
+        "characters": 21888
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-463",
+    "files": [
+      {
+        "file": "01-463.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-463.ZS.html",
+        "characters": 5854
+      },
+      {
+        "file": "01-463.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-463.ZD.html",
+        "characters": 27349
+      },
+      {
+        "file": "01-463.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-463.ZO.html",
+        "characters": 25391
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-1385",
+    "files": [],
+    "errors": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-1385.ZS.html",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-1385.ZO.html",
+        "error": "HTTP Error 500: Internal Server Error"
+      }
+    ]
+  },
+  {
+    "docket": "01-679",
+    "files": [
+      {
+        "file": "01-679.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-679.ZS.html",
+        "characters": 8786
+      },
+      {
+        "file": "01-679.ZC.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-679.ZC.html",
+        "characters": 4413
+      },
+      {
+        "file": "01-679.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-679.ZD.html",
+        "characters": 22557
+      },
+      {
+        "file": "01-679.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-679.ZO.html",
+        "characters": 31959
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "00-8452",
+    "files": [
+      {
+        "file": "00-8452.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-8452.ZS.html",
+        "characters": 6112
+      },
+      {
+        "file": "00-8452.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-8452.ZD.html",
+        "characters": 26018
+      },
+      {
+        "file": "00-8452.ZD1.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-8452.ZD1.html",
+        "characters": 35747
+      },
+      {
+        "file": "00-8452.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-8452.ZO.html",
+        "characters": 34758
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "00-1021",
+    "files": [
+      {
+        "file": "00-1021.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-1021.ZS.html",
+        "characters": 9213
+      },
+      {
+        "file": "00-1021.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-1021.ZD.html",
+        "characters": 31885
+      },
+      {
+        "file": "00-1021.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/00-1021.ZO.html",
+        "characters": 61900
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-394",
+    "files": [
+      {
+        "file": "01-394.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-394.ZS.html",
+        "characters": 6155
+      },
+      {
+        "file": "01-394.ZC.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-394.ZC.html",
+        "characters": 1594
+      },
+      {
+        "file": "01-394.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-394.ZO.html",
+        "characters": 38081
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-419",
+    "files": [
+      {
+        "file": "01-419.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-419.ZS.html",
+        "characters": 9451
+      }
+    ],
+    "errors": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-419.ZD.html",
+        "error": "HTTP Error 503: Service Temporarily Unavailable"
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-419.ZO.html",
+        "error": "HTTP Error 503: Service Temporarily Unavailable"
+      }
+    ]
+  },
+  {
+    "docket": "01-714",
+    "files": [
+      {
+        "file": "01-714.ZS.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-714.ZS.html",
+        "characters": 13272
+      },
+      {
+        "file": "01-714.ZD.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-714.ZD.html",
+        "characters": 9989
+      },
+      {
+        "file": "01-714.ZO.txt",
+        "url": "https://www.law.cornell.edu/supct/html/01-714.ZO.html",
+        "characters": 47272
+      }
+    ],
+    "errors": []
+  },
+  {
+    "docket": "01-721",
+    "files": [],
+    "errors": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-721.ZS.html",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-721.ZO.html",
+        "error": "HTTP Error 503: Service Temporarily Unavailable"
+      }
+    ]
+  },
+  {
+    "docket": "01-1196",
+    "files": [],
+    "errors": [
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-1196.ZS.html",
+        "error": "HTTP Error 500: Internal Server Error"
+      },
+      {
+        "url": "https://www.law.cornell.edu/supct/html/01-1196.ZO.html",
+        "error": "HTTP Error 503: Service Temporarily Unavailable"
+      }
+    ]
+  }
+]

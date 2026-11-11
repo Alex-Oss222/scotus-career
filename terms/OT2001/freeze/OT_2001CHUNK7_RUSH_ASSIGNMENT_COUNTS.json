@@ -1,0 +1,1133 @@
+{
+  "before_date": "2002-06-20",
+  "before_case": "Rush Prudential HMO, Inc. v. Moran",
+  "counts": {
+    "Stone-Zsela": 11,
+    "Stevens": 11,
+    "O'Connor": 11,
+    "Scalia": 11,
+    "Kennedy": 11,
+    "Souter": 11,
+    "Thomas": 12,
+    "Ginsburg": 11,
+    "Breyer": 11
+  },
+  "last_event_counted": {
+    "date": "2002-06-20",
+    "case": "Gonzaga University v. Doe",
+    "file": "gonzaga-university-v-doe_merits_2002-06-20.md",
+    "authors": [
+      "Thomas"
+    ],
+    "excluded_forms": [],
+    "topology_rows": 3
+  },
+  "counted_opinions": 100,
+  "counted": [
+    {
+      "date": "2001-11-13",
+      "case": "Brown v. City of Oneonta",
+      "file": "brown-v-city-of-oneonta_merits_2001-11-13.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2001-11-13",
+      "case": "TRW Inc. v. Andrews",
+      "file": "trw-inc-v-andrews_merits_2001-11-13.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2001-11-13",
+      "case": "United States Postal Service v. Gregory",
+      "file": "united-states-postal-service-v-gregory_merits_2001-11-13.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Chickasaw Nation v. United States",
+      "file": "chickasaw-nation-v-united-states_merits_2001-11-27.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Church of Scientology International v. Behar",
+      "file": "church-of-scientology-international-v-behar_merits_2001-11-27.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Correctional Services Corp. v. Malesko",
+      "file": "correctional-services-corp-v-malesko_merits_2001-11-27.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2001-12-10",
+      "case": "J. E. M. Ag Supply, Inc. v. Pioneer Hi-Bred International, Inc.",
+      "file": "j-e-m-ag-supply-inc-v-pioneer-hi-bred-international-inc_merits_2001-12-10.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2001-12-10",
+      "case": "Schrader v. Blackwell",
+      "file": "schrader-v-blackwell_merits_2001-12-10.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2001-12-10",
+      "case": "United States v. Knights",
+      "file": "united-states-v-knights_merits_2001-12-10.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Dusenbery v. United States",
+      "file": "dusenbery-v-united-states_merits_2002-01-08.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Great-West Life & Annuity Insurance Co. v. Knudson",
+      "file": "great-west-life-annuity-insurance-co-v-knudson_merits_2002-01-08.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Searles v. Van Bebber",
+      "file": "searles-v-van-bebber_merits_2002-01-08.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-01-08",
+      "case": "Toyota Motor Manufacturing, Kentucky, Inc. v. Williams",
+      "file": "toyota-motor-manufacturing-kentucky-inc-v-williams_merits_2002-01-08.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Chao v. Mallard Bay Drilling, Inc.",
+      "file": "chao-v-mallard-bay-drilling-inc_merits_2002-01-09.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Kelly v. South Carolina",
+      "file": "kelly-v-south-carolina_merits_2002-01-09.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 5
+    },
+    {
+      "date": "2002-01-09",
+      "case": "Riley v. St. Luke's Episcopal Hospital",
+      "file": "riley-v-st-lukes-episcopal-hospital_merits_2002-01-09.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-15",
+      "case": "EEOC v. Waffle House, Inc.",
+      "file": "eeoc-v-waffle-house-inc_merits_2002-01-15.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-15",
+      "case": "In re Cybernetic Services, Inc.",
+      "file": "in-re-cybernetic-services-inc_merits_2002-01-15.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-01-15",
+      "case": "Thomas v. Chicago Park District",
+      "file": "thomas-v-chicago-park-district_merits_2002-01-15.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-01-15",
+      "case": "United States v. Arvizu",
+      "file": "united-states-v-arvizu_merits_2002-01-15.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-16",
+      "case": "National Cable & Telecommunications Assn., Inc. v. Gulf Power Co.",
+      "file": "national-cable-telecommunications-assn-inc-v-gulf-power-co_merits_2002-01-16.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-22",
+      "case": "Kansas v. Crane",
+      "file": "kansas-v-crane_merits_2002-01-22.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-22",
+      "case": "Lee v. Kemna",
+      "file": "lee-v-kemna_merits_2002-01-22.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-01-22",
+      "case": "United States v. Microsoft Corp.",
+      "file": "united-states-v-microsoft-corp_merits_2002-01-22.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 5
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Barnhart v. Sigmon Coal Co.",
+      "file": "barnhart-v-sigmon-coal-co_merits_2002-02-19.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Igartua De La Rosa v. United States",
+      "file": "igartua-de-la-rosa-v-united-states_merits_2002-02-19.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Owasso Independent School District No. I-011 v. Falvo",
+      "file": "owasso-independent-school-district-no-i-011-v-falvo_merits_2002-02-19.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-02-19",
+      "case": "Romeu v. Cohen",
+      "file": "romeu-v-cohen_merits_2002-02-19.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-02-20",
+      "case": "Winn-Dixie Stores, Inc. v. Commissioner",
+      "file": "winn-dixie-stores-inc-v-commissioner_merits_2002-02-20.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-02-20",
+      "case": "Wisconsin Department of Health and Family Services v. Blumer",
+      "file": "wisconsin-department-of-health-and-family-services-v-blumer_merits_2002-02-20.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-02-26",
+      "case": "Porter v. Nussle",
+      "file": "porter-v-nussle_merits_2002-02-26.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-02-26",
+      "case": "Swierkiewicz v. Sorema N.A.",
+      "file": "swierkiewicz-v-sorema-na_merits_2002-02-26.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-02-27",
+      "case": "Guest v. Leis",
+      "file": "guest-v-leis_merits_2002-02-27.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-02-27",
+      "case": "Raygor v. Regents of University of Minnesota",
+      "file": "raygor-v-regents-of-university-of-minnesota_merits_2002-02-27.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Delaney v. DeTella",
+      "file": "delaney-v-detella_merits_2002-03-04.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-03-04",
+      "case": "New York v. FERC / Enron Power Marketing, Inc. v. FERC",
+      "file": "new-york-v-ferc-enron-power-marketing-inc-v-ferc_merits_2002-03-04.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Ruiz v. United States (Ruiz v. Johnson)",
+      "file": "ruiz-v-united-states-ruiz-v-johnson_merits_2002-03-04.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-03-04",
+      "case": "United States v. Vonn",
+      "file": "united-states-v-vonn_merits_2002-03-04.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-04",
+      "case": "Young v. United States",
+      "file": "young-v-united-states_merits_2002-03-04.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Edelman v. Lynchburg College",
+      "file": "edelman-v-lynchburg-college_merits_2002-03-19.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Milstein v. Cooley",
+      "file": "milstein-v-cooley_merits_2002-03-19.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Ragsdale v. Wolverine World Wide, Inc.",
+      "file": "ragsdale-v-wolverine-world-wide-inc_merits_2002-03-19.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-19",
+      "case": "Zahrey v. Coffey",
+      "file": "zahrey-v-coffey_merits_2002-03-19.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-26",
+      "case": "Department of Housing and Urban Development v. Rucker / Oakland Housing Authority v. Rucker",
+      "file": "department-of-housing-and-urban-development-v-rucker-oakland-housing-authority-v-rucker_merits_2002-03-26.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-26",
+      "case": "S.S. ex rel. Jervis v. McMullen",
+      "file": "s-s-ex-rel-jervis-v-mcmullen_merits_2002-03-26.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Barnhart v. Walton",
+      "file": "barnhart_v_walton_merits_2002-03-27.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Hoffman Plastic Compounds, Inc. v. NLRB",
+      "file": "hoffman-plastic-compounds-inc-v-nlrb_merits_2002-03-27.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Mickens v. Taylor",
+      "file": "mickens_v_taylor_merits_2002-03-27.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-04-01",
+      "case": "Venetian Casino Resort, L.L.C. v. Local Joint Executive Board of Las Vegas",
+      "file": "venetian_casino_resort_v_local_joint_executive_board_merits_2002-04-01.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-04-16",
+      "case": "Ashcroft v. Free Speech Coalition",
+      "file": "ashcroft_v_free_speech_coalition_merits_2002-04-16.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-04-17",
+      "case": "United States v. Craft",
+      "file": "united_states_v_craft_merits_2002-04-17.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-04-23",
+      "case": "A&M Records, Inc. v. Napster, Inc.",
+      "file": "a_and_m_records_v_napster_merits_2002-04-23.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Michigan v. Environmental Protection Agency",
+      "file": "michigan_v_environmental_protection_agency_merits_2002-04-23.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Tahoe-Sierra Preservation Council, Inc. v. Tahoe Regional Planning Agency",
+      "file": "tahoe_sierra_preservation_council_v_tahoe_regional_planning_agency_merits_2002-04-23.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-04-23",
+      "case": "Universal City Studios, Inc. v. Corley",
+      "file": "universal_city_studios_v_corley_merits_2002-04-23.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-04-29",
+      "case": "Thompson v. Western States Medical Center",
+      "file": "thompson_v_western_states_medical_center_merits_2002-04-29.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-04-29",
+      "case": "US Airways, Inc. v. Barnett",
+      "file": "us_airways_v_barnett_merits_2002-04-29.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 6
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Ashcroft v. American Civil Liberties Union",
+      "file": "ashcroft_v_aclu_merits_2002-05-13.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 6
+    },
+    {
+      "date": "2002-05-13",
+      "case": "City of Los Angeles v. Alameda Books, Inc.",
+      "file": "city_of_los_angeles_v_alameda_books_merits_2002-05-13.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Henderson v. Norris",
+      "file": "henderson_v_norris_merits_2002-05-13.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 4
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Lapides v. Board of Regents of University System of Georgia",
+      "file": "lapides_v_board_of_regents_merits_2002-05-13.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Verizon Communications Inc. v. FCC",
+      "file": "verizon_communications_v_fcc_merits_2002-05-13.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-13",
+      "case": "Voting Integrity Project, Inc. v. Keisling",
+      "file": "voting_integrity_project_v_keisling_merits_2002-05-13.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Alabama v. Shelton",
+      "file": "alabama_v_shelton_merits_2002-05-20.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Brown v. Gilmore",
+      "file": "brown_v_gilmore_merits_2002-05-20.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-20",
+      "case": "United States v. Cotton",
+      "file": "united_states_v_cotton_merits_2002-05-20.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Verizon Maryland Inc. v. Public Service Commission of Maryland",
+      "file": "verizon_maryland_v_public_service_commission_merits_2002-05-20.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Bell v. Cone",
+      "file": "Bell_v_Cone_Merits_2002-05-28.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Compaq Computer Corp. v. Commissioner",
+      "file": "compaq-computer-corp-v-commissioner_merits_2002-05-28.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Federal Maritime Commission v. South Carolina State Ports Authority",
+      "file": "Federal_Maritime_Commission_v_South_Carolina_State_Ports_Authority_Merits_2002-05-28.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Festo Corp. v. Shoketsu Kinzoku Kogyo Kabushiki Co.",
+      "file": "Festo_Corp_v_Shoketsu_Kinzoku_Kogyo_Kabushiki_Co_Merits_2002-05-28.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-28",
+      "case": "Gisbrecht v. Barnhart",
+      "file": "Gisbrecht_v_Barnhart_Merits_2002-05-28.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-05-28",
+      "case": "In re Prudential Insurance Co. of America Sales Practice Litigation",
+      "file": "In_re_Prudential_Insurance_Co_of_America_Sales_Practice_Litigation_Merits_2002-05-28.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-28",
+      "case": "South Camden Citizens in Action v. New Jersey Department of Environmental Protection",
+      "file": "South_Camden_Citizens_in_Action_v_New_Jersey_Department_of_Environmental_Protection_Merits_2002-05-28.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-06-03",
+      "case": "Holmes Group, Inc. v. Vornado Air Circulation Systems, Inc.",
+      "file": "holmes-group-inc-v-vornado-air-circulation-systems-inc_merits_2002-06-03.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-03",
+      "case": "SEC v. Zandford",
+      "file": "sec-v-zandford_merits_2002-06-03.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-03",
+      "case": "United States v. Mackby",
+      "file": "united-states-v-mackby_merits_2002-06-03.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Chevron U.S.A. Inc. v. Echazabal",
+      "file": "chevron-usa-inc-v-echazabal_merits_2002-06-10.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Devlin v. Scardelletti",
+      "file": "devlin-v-scardelletti_merits_2002-06-10.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-10",
+      "case": "Franconia Associates v. United States",
+      "file": "franconia-associates-v-united-states_merits_2002-06-10.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-10",
+      "case": "JPMorgan Chase Bank v. Traffic Stream (BVI) Infrastructure Ltd.",
+      "file": "jpmorgan-chase-bank-v-traffic-stream-bvi-infrastructure-ltd_merits_2002-06-10.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-10",
+      "case": "McKune v. Lile",
+      "file": "mckune-v-lile_merits_2002-06-10.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-06-10",
+      "case": "National Railroad Passenger Corp. v. Morgan",
+      "file": "national-railroad-passenger-corp-v-morgan_merits_2002-06-10.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Bollin",
+      "file": "united-states-v-bollin_merits_2002-06-10.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Faasse",
+      "file": "united-states-v-faasse_merits_2002-06-10.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-10",
+      "case": "United States v. Farmer",
+      "file": "united-states-v-farmer_merits_2002-06-10.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Barnes v. Gorman",
+      "file": "barnes-v-gorman_merits_2002-06-17.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Carey v. Saffold",
+      "file": "carey-v-saffold_merits_2002-06-17.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Leventhal v. Knapek",
+      "file": "leventhal-v-knapek_merits_2002-06-17.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Ticknor v. Choice Hotels International, Inc.",
+      "file": "ticknor-v-choice-hotels-international-inc_merits_2002-06-17.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "United States v. Drayton",
+      "file": "united-states-v-drayton_merits_2002-06-17.md",
+      "authors": [
+        "O'Connor"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "United States v. Emerson",
+      "file": "united-states-v-emerson_merits_2002-06-17.md",
+      "authors": [
+        "Souter"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    },
+    {
+      "date": "2002-06-17",
+      "case": "United States v. Fior D'Italia, Inc.",
+      "file": "united-states-v-fior-ditalia-inc_merits_2002-06-17.md",
+      "authors": [
+        "Breyer"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "United States v. Hooper",
+      "file": "united-states-v-hooper_merits_2002-06-17.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Watchtower Bible & Tract Society of New York, Inc. v. Village of Stratton",
+      "file": "watchtower-bible-tract-society-v-village-of-stratton_merits_2002-06-17.md",
+      "authors": [
+        "Stevens"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Atkins v. Virginia",
+      "file": "atkins-v-virginia_merits_2002-06-20.md",
+      "authors": [
+        "Ginsburg"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Christopher v. Harbury",
+      "file": "christopher-v-harbury_merits_2002-06-20.md",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-20",
+      "case": "City of Columbus v. Ours Garage & Wrecker Service, Inc.",
+      "file": "city-of-columbus-v-ours-garage-wrecker-service-inc_merits_2002-06-20.md",
+      "authors": [
+        "Kennedy"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Dadian v. Village of Wilmette",
+      "file": "dadian-v-village-of-wilmette_merits_2002-06-20.md",
+      "authors": [
+        "Scalia"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Gonzaga University v. Doe",
+      "file": "gonzaga-university-v-doe_merits_2002-06-20.md",
+      "authors": [
+        "Thomas"
+      ],
+      "excluded_forms": [],
+      "topology_rows": 3
+    }
+  ],
+  "excluded_nonleads": [
+    {
+      "date": "2001-11-13",
+      "case": "Nebraska v. Wyoming",
+      "file": "nebraska-v-wyoming_decree_2001-11-13.md",
+      "authors": [],
+      "excluded_forms": [
+        "Order and modified decree"
+      ],
+      "topology_rows": 1
+    },
+    {
+      "date": "2001-11-27",
+      "case": "Adarand Constructors, Inc. v. Mineta",
+      "file": "adarand-constructors-inc-v-mineta_dig_2001-11-27.md",
+      "authors": [],
+      "excluded_forms": [
+        "Per curiam procedural explanation"
+      ],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-03-27",
+      "case": "Steele v. Hamilton County Community Mental Health Board",
+      "file": "steele_v_hamilton_county_dig_2002-03-27.md",
+      "authors": [],
+      "excluded_forms": [
+        "Procedural dismissal"
+      ],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-04-01",
+      "case": "Adams v. Florida Power Corp.",
+      "file": "adams_v_florida_power_corp_dig_2002-04-01.md",
+      "authors": [],
+      "excluded_forms": [
+        "Procedural dismissal"
+      ],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-04-01",
+      "case": "Sao Paulo State of the Federative Republic of Brazil v. American Tobacco Co.",
+      "file": "sao_paulo_v_american_tobacco_summary_2002-04-01.md",
+      "authors": [],
+      "excluded_forms": [
+        "Opinion of the Court"
+      ],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-05-20",
+      "case": "Mathias v. WorldCom Technologies, Inc.",
+      "file": "mathias_v_worldcom_technologies_dig_2002-05-20.md",
+      "authors": [],
+      "excluded_forms": [
+        "Per curiam opinion"
+      ],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Balderas v. Texas",
+      "file": "balderas-v-texas_summary_2002-06-17.md",
+      "authors": [],
+      "excluded_forms": [
+        "Unsigned summary order"
+      ],
+      "topology_rows": 5
+    },
+    {
+      "date": "2002-06-17",
+      "case": "Horn v. Banks",
+      "file": "horn-v-banks_merits_2002-06-17.md",
+      "authors": [],
+      "excluded_forms": [
+        "Per curiam opinion"
+      ],
+      "topology_rows": 1
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Page v. Bartels",
+      "file": "page-v-bartels_summary_2002-06-20.md",
+      "authors": [],
+      "excluded_forms": [
+        "summary decision"
+      ],
+      "topology_rows": 2
+    },
+    {
+      "date": "2002-06-20",
+      "case": "Robertson v. Bartels",
+      "file": "robertson-v-bartels_summary_2002-06-20.md",
+      "authors": [],
+      "excluded_forms": [
+        "summary decision"
+      ],
+      "topology_rows": 2
+    }
+  ],
+  "excluded_by_cutoff": [],
+  "parsed_records": 110,
+  "parser_mismatches": []
+}

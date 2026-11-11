@@ -1,0 +1,41 @@
+{
+  "NEUTRAL": {
+    "sources": [
+      "BALDERAS_REFRESHED_NEUTRAL",
+      "A_NEUTRAL",
+      "EMERSON_NEUTRAL",
+      "B_7_NEUTRAL",
+      "B_2_NEUTRAL"
+    ],
+    "sha256": "224b17ab0a00e4630e158a4d703984392d0cbb1b0d61f037297ced3c1f2fba51",
+    "runtime_copy": false
+  },
+  "COMMITMENTS": {
+    "sources": [
+      "BALDERAS_REFRESHED_COMMITMENTS",
+      "A_COMMITMENTS",
+      "EMERSON_COMMITMENTS",
+      "B_7_COMMITMENTS",
+      "B_2_COMMITMENTS"
+    ],
+    "sha256": "2b219023b86909279fbe55e4c202ec97b7d0ff4b6bfdeb4e401f41afa8ca9787",
+    "runtime_copy": true
+  },
+  "RECONCILED": {
+    "sources": [
+      "BALDERAS_RECONCILED",
+      "CAREY_RECONCILED",
+      "HORN_RECONCILED",
+      "LEVENTHAL_RECONCILED",
+      "TICKNOR_RECONCILED",
+      "DRAYTON_RECONCILED",
+      "EMERSON_RECONCILED",
+      "FIOR_RECONCILED",
+      "HOOPER_RECONCILED",
+      "B_7_RECONCILED",
+      "B_2_RECONCILED"
+    ],
+    "sha256": "5fd4f128684bd757c60cc1030927d9672b36f40896a43bda14064d22635dabfe",
+    "runtime_copy": true
+  }
+}

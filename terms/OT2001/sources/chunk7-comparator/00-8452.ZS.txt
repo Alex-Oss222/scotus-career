@@ -1,0 +1,56 @@
+ATKINS V. VIRGINIA
+
+ 
+
+		
+
+LII
+
+			 
+
+Supreme Court
+
+		
+
+ATKINS V. VIRGINIA (00-8452) 
+260 Va. 375, 534 S. E. 2d 312, reversed and remanded.
+Syllabus
+ Opinion
+ [ Stevens ]Dissent
+ [ Rehnquist ]Dissent
+ [ Scalia ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ATKINS v. VIRGINIA
+
+CERTIORARI TO THE SUPREME COURT OF VIRGINIA
+
+ 
+No. 00—8452.  Argued February 20, 2002–Decided June 20, 2002
+
+Petitioner Atkins was convicted of capital murder and related crimes by a Virginia jury and sentenced to death.  Affirming, the Virginia Supreme Court relied on Penry v. Lynaugh, 492 U.S. 302, in rejecting Atkins’ contention that he could not be sentenced to death because he is mentally retarded. 
+
+Held: Executions of mentally retarded criminals are “cruel and unusual punishments” prohibited by the Eighth Amendment.  Pp. 5—17.
+
+    (a) A punishment is “excessive,” and therefore prohibited by the Amendment, if it is not graduated and proportioned to the offense.  E.g., Weems v. United States, 217 U.S. 349, 367.  An excessiveness claim is judged by currently prevailing standards of decency.  Trop v. Dulles, 356 U.S. 86, 100—101.  Proportionality review under such evolving standards should be informed by objective factors to the maximum possible extent, see, e.g., Harmelin v. Michigan, 501 U.S. 957, 1000, the clearest and most reliable of which is the legislation enacted by the country’s legislatures, Penry, 492 U.S., at 331.  In addition to objective evidence, the Constitution contemplates that this Court will bring its own judgment to bear by asking whether there is reason to agree or disagree with the judgment reached by the citizenry and its legislators, e.g., Coker v. Georgia, 433 U.S. 584, 597.  Pp. 5—8.
+
+      (b) Much has changed since Penry’s conclusion that the two state statutes then existing that prohibited such executions, even when added to the 14 States that had rejected capital punishment completely, did not provide sufficient evidence of a consensus.  492 U.S., at 334.  Subsequently, a significant number of States have concluded that death is not a suitable punishment for a mentally retarded criminal, and similar bills have passed at least one house in other States.  It is not so much the number of these States that is significant, but the consistency of the direction of change.  Given that anticrime legislation is far more popular than legislation protecting violent criminals, the large number of States prohibiting the execution of mentally retarded persons (and the complete absence of legislation reinstating such executions) provides powerful evidence that today society views mentally retarded offenders as categorically less culpable than the average criminal.  The evidence carries even greater force when it is noted that the legislatures addressing the issue have voted overwhelmingly in favor of the prohibition.  Moreover, even in States allowing the execution of mentally retarded offenders, the practice is uncommon.  Pp. 8—12.
+
+      (c) An independent evaluation of the issue reveals no reason for the Court to disagree with the legislative consensus.  Clinical definitions of mental retardation require not only subaverage intellectual functioning, but also significant limitations in adaptive skills.  Mentally retarded persons frequently know the difference between right and wrong and are competent to stand trial, but, by definition, they have diminished capacities to understand and process information, to communicate, to abstract from mistakes and learn from experience, to engage in logical reasoning, to control impulses, and to understand others’ reactions.  Their deficiencies do not warrant an exemption from criminal sanctions, but diminish their personal culpability.  In light of these deficiencies, the Court’s death penalty jurisprudence provides two reasons to agree with the legislative consensus.  First, there is a serious question whether either justification underpinning the death penalty–retribution and deterrence of capital crimes–applies to mentally retarded offenders.  As to retribution, the severity of the appropriate punishment necessarily depends on the offender’s culpability.  If the culpability of the average murderer is insufficient to justify imposition of death, see Godfrey v. Georgia, 446 U.S. 420, 433, the lesser culpability of the mentally retarded offender surely does not merit that form of retribution.  As to deterrence, the same cognitive and behavioral impairments that make mentally retarded defendants less morally culpable also make it less likely that they can process the information of the possibility of execution as a penalty and, as a result, control their conduct based upon that information.  Nor will exempting the mentally retarded from execution lessen the death penalty’s deterrent effect with respect to offenders who are not mentally retarded.  Second, mentally retarded defendants in the aggregate face a special risk of wrongful execution because of the possibility that they will unwittingly confess to crimes they did not commit, their lesser ability to give their counsel meaningful assistance, and the facts that they are typically poor witnesses and that their demeanor may create an unwarranted impression of lack of remorse for their crimes.  Pp. 12—17.
+
+260 Va. 375, 534 S. E. 2d 312, reversed and remanded.
+
+    Stevens, J., delivered the opinion of the Court, in which O’Connor, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined.  Rehnquist, C. J., filed a dissenting opinion, in which Scalia and Thomas, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Rehnquist, C. J., and Thomas, J., joined.
