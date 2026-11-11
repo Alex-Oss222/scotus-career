@@ -1369,7 +1369,7 @@ Affirmance can rest on a supported generally applicable defense after the proper
 * **Citation or Docket:** 144 F. Supp. 2d 346 (D.N.J. 2001); district No. 01-1733. The earlier procedural appeal is 248 F.3d 175 (3d Cir. 2001).
 * **October Term:** 2001.
 * **Entry Stage and Event:** Proposed reconstruction of direct review under 28 U.S.C. § 1253 of the three-judge court's final judgment denying injunctive relief after trial. The earlier single-judge preliminary-injunction ruling is not the judgment under review.
-* **Simulated Event Date:** June 20, 2002.
+* **Simulated Event Date:** 2002-06-20 (supplied simulation assignment). The assigned date does not record a completed Court action.
 * **Question Presented:** Reconstructed from the tried claims, not quoted from a jurisdictional statement: (1) Whether the reduction of Black voting-age population in District 27, accompanied by changes to District 34, violates Voting Rights Act § 2 despite findings of continuing opportunity to elect Black voters' preferred candidates; (2) whether the map intentionally dilutes that opportunity or materially impairs political participation in violation of the Fourteenth Amendment; and (3) whether the asserted purposeful racial abridgment establishes the pleaded Fifteenth Amendment claim.
 * **Court and Judgment Under Review:** A three-judge District of New Jersey court entered final judgment for defendants and denied the requested injunction after an evidentiary trial.
 * **Relief Requested:** Prevent implementation of the legislative map and elections conducted under it. Any currently requested postponement, replacement boundaries or other prospective relief requires the actual appellate demand and election timetable; no later requested remedy is assumed.
@@ -1382,8 +1382,8 @@ Affirmance can rest on a supported generally applicable defense after the proper
 ## B. LAW ENTERING THE CASE
 
 * **Current Through:** Completed decisions through June 28, 2001, at the close of OT2000.
-* **Earlier Same-Term Decisions:** None supplied that changes the governing questions.
-* **Unresolved Same-Term Dependencies:** No proposed disposition in Robertson or Balderas is entering precedent.
+* **Earlier Same-Term Decisions:** Balderas is assigned to June 17, 2002. Any actually rendered holding must be considered within its scope; no completed same-term decision is supplied here.
+* **Unresolved Same-Term Dependencies:** Robertson shares the June 20 date; no earlier same-day decision sequence is established. Approved positions in related cases do not supply entering precedent.
 * **Institutional or Procedural Law:** Legal standards receive independent appellate review; supported trial findings receive Rule 52(a) clear-error review. Clear error permits correction of a mistaken factual finding, not a new appellate credibility trial. A factual finding produced by the wrong legal standard cannot become conclusive merely by being called a finding.
 
 ### Issue 1: Statutory electoral opportunity
@@ -1503,7 +1503,7 @@ Page v. Bartels, 144 F. Supp. 2d 346, 348–369 (D.N.J. 2001), especially the pr
 * **Citation or Docket:** 148 F. Supp. 2d 443 (D.N.J. 2001); district No. 01-2024; Supreme Court No. 01-721.
 * **October Term:** 2001.
 * **Entry Stage and Event:** Direct review of the three-judge court's judgment denying injunctive relief on the two redistricting counts, under 28 U.S.C. § 1253. No plenary argument is assumed.
-* **Simulated Event Date:** June 20, 2002.
+* **Simulated Event Date:** 2002-06-20 (supplied simulation assignment). No earlier same-day sequence relative to Page or Angle is established.
 * **Question Presented:** Reconstructed from the judgment, not quoted from an obtained jurisdictional statement: Whether shared political interests and requested relief permit Page to bind different plaintiffs; and whether the challenged territorial design, including alleged racial favoritism in protecting incumbents, establishes a Fourteenth or Fifteenth Amendment violation.
 * **Court and Judgment Under Review:** Three-judge District of New Jersey; summary judgment for defendants on Counts I and II, supported by nonparty preclusion and alternative merits grounds. Count III was referred to a single judge.
 * **Relief Requested:** Reversal and prospective relief against implementation of the challenged legislative map. The requested injunction does not itself identify a lawful replacement.
@@ -1516,8 +1516,8 @@ Page v. Bartels, 144 F. Supp. 2d 346, 348–369 (D.N.J. 2001), especially the pr
 ## B. LAW ENTERING THE CASE
 
 * **Current Through:** Completed decisions through June 28, 2001.
-* **Earlier Same-Term Decisions:** None assumed to resolve this matter.
-* **Unresolved Same-Term Dependencies:** A proposed Supreme Court position in Page has no precedential effect. The entered district judgment and evidence lawfully admitted here remain relevant in their own capacities.
+* **Earlier Same-Term Decisions:** Balderas is assigned to June 17, 2002, and concerns statutory review of a judicial congressional map. Any actually rendered holding must be considered within its scope; no completed same-term decision is supplied here.
+* **Unresolved Same-Term Dependencies:** Page shares the June 20 date and is not assumed to have been decided first. Its entered district judgment and evidence lawfully admitted here remain relevant in their own capacities.
 * **Institutional or Procedural Law:** Sections 1253 and 2284 govern the direct-review route. Rule 56 governs summary judgment: a fact is material if it could affect the result under the governing law; a dispute is genuine if the evidence permits a reasonable factfinder to rule for the nonmovant. The court does not weigh credibility or require plaintiffs to win disputed facts at this stage. Agreement to admit testimony does not establish agreement with every inference or confer authority to bind strangers to a prior judgment.
 
 ### Issue 1: Authority to bind nonparties
@@ -1622,8 +1622,8 @@ Robertson v. Bartels, 148 F. Supp. 2d 443, 445–459 (D.N.J. 2001), for the reco
 * **Case Name:** Balderas v. Texas.
 * **Citation or Docket:** Supreme Court No. 01-1196; Eastern District of Texas No. 6:01-CV-158, congressional redistricting opinion and judgment of November 14, 2001.
 * **October Term:** 2001.
-* **Entry Stage and Event:** Direct-appeal screening under 28 U.S.C. § 1253. The appeal concerns the congressional replacement plan; no grant of plenary consideration or oral-argument event is assumed.
-* **Simulated Event Date:** June 17, 2002.
+* **Entry Stage and Event:** Direct-appeal consideration under 28 U.S.C. § 1253 of the congressional replacement-plan judgment. The disposition depends on the preserved claim and independent grounds; no plenary argument is assumed.
+* **Simulated Event Date:** 2002-06-17 (supplied simulation assignment, after the April 2 responsive filings). The assignment records no completed merits judgment.
 * **Question Presented:** Reconstructed from the judgment and identified appeal: Whether rejecting additional Latino opportunity districts in the court-drawn congressional plan employed an impermissibly exclusive numerical-majority requirement, and whether independent compactness or totality findings nevertheless sustain the judgment on the claims and evidence properly preserved for review.
 * **Court and Judgment Under Review:** A three-judge Eastern District of Texas court adopted Plan 1151C for thirty-two congressional seats on November 14, 2001, rejected requests for additional minority opportunity districts, and directed entry of final judgment under Rule 54(b).
 * **Relief Requested:** Correction of the replacement congressional map to remedy asserted Latino vote dilution and corresponding prospective election relief. The claim does not seek revival of the obsolete thirty-seat map.
