@@ -262,7 +262,7 @@ Eight Justices approve the actual searches on the merits; Stevens affirms on obj
 
 #### Opinions
 
-STONE-ZSELA, C. J., delivered the opinion of the Court. SCALIA and STEVENS, JJ., filed opinions concurring in part and in the judgment.
+STONE-ZSELA, C. J., delivered the opinion of the Court, in which O'CONNOR, KENNEDY, SOUTER, THOMAS, GINSBURG, and BREYER, JJ., joined, in which SCALIA, J., joined as to Parts I and III, and in which STEVENS, J., joined as to Part I. SCALIA and STEVENS, JJ., filed opinions concurring in part and in the judgment.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -421,7 +421,7 @@ The opposing Justices would preserve suppression as the product of an unsupporte
 
 #### Opinions
 
-O'CONNOR, J., delivered the opinion of the Court. SOUTER, J., filed a dissenting opinion, in which STONE-ZSELA, C. J., and STEVENS and GINSBURG, JJ., joined; those Justices also joined Part I of the Court's opinion.
+O'CONNOR, J., delivered the opinion of the Court, in which SCALIA, KENNEDY, THOMAS, and BREYER, JJ., joined, and in which STONE-ZSELA, C. J., and STEVENS, SOUTER, and GINSBURG, JJ., joined as to Part I. SOUTER, J., filed a dissenting opinion, in which STONE-ZSELA, C. J., and STEVENS and GINSBURG, JJ., joined.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -499,7 +499,7 @@ The single remaining count returns to the district court. The dismissed counts a
 
 #### Opinions
 
-SOUTER, J., delivered the opinion of the Court. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
+SOUTER, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, KENNEDY, GINSBURG, and BREYER, JJ., joined, in which STONE-ZSELA, C. J., joined as to Parts I and II, and in which SCALIA and THOMAS, JJ., joined as to Parts I, II, and IV. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -626,8 +626,8 @@ BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and
 #### Precedent Treatment and Current Law
 
 - United States v. Cleveland Indians Baseball Co., April 17, 2001: preserves separate tax timing, annual wage bases and benefits questions; its lawful-regulation holding is not blanket deference to every estimate.
-- United Dominion Industries, Inc. v. United States, June 4, 2001: the actual enacted and regulatory computation governs; aggregation there does not authorize a different tax base here.
-- United States v. Brockamp, 519 U.S. 347 (1997): refund filing and amount limits retain their distinct force; no estimation rule is drawn from them.
+- United Dominion Industries, Inc. v. United States, June 4, 2001: the actual enacted and regulatory computation governs; aggregation there does not authorize a different tax base here. Neither United Dominion nor Cleveland Indians adds an employee-assessment prerequisite here.
+- United States v. Brockamp, 519 U.S. 347 (1997): refund filing and amount limits retain their distinct force; no estimation rule is drawn from them, and permission to estimate neither expands refund jurisdiction nor suspends those limits.
 - United States v. Craft, April 17, 2002: the substantive taxable interest and federal implementation remain distinct; the decision does not itself decide this FICA method.
 
 The IRS may reasonably estimate an employer's aggregate taxable tips without prior employee assessments. Each substantive exclusion, annual base and notice-and-demand timing rule remains enforceable. In a case presenting accuracy, the taxpayer may demonstrate that the method lacks a reasonable foundation. This case ends the categorical authority challenge on its stipulated factual submission.
@@ -976,7 +976,7 @@ All nine Justices participated.
 
 #### Opinions
 
-THOMAS, J., announced the judgment of the Court and delivered an opinion. BREYER, J., filed an opinion concurring in the judgment. STONE-ZSELA, C. J., filed a dissenting opinion.
+THOMAS, J., announced the judgment of the Court and delivered an opinion, in which O'CONNOR, SCALIA, and KENNEDY, JJ., joined. BREYER, J., filed an opinion concurring in the judgment, in which SOUTER, J., joined. STONE-ZSELA, C. J., filed a dissenting opinion, in which STEVENS and GINSBURG, JJ., joined.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
@@ -1302,7 +1302,7 @@ All nine find standing. Seven uphold statutory permission: the six supporting af
 
 #### Opinions
 
-BREYER, J., delivered the opinion of the Court. O'CONNOR, J., filed an opinion concurring in part and dissenting in part, in which SCALIA, J., joined. THOMAS, J., filed an opinion concurring in part and dissenting in part.
+BREYER, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, KENNEDY, SOUTER, and GINSBURG, JJ., joined, in which THOMAS, J., joined as to Parts I and II, and in which O'CONNOR and SCALIA, JJ., joined as to Part I. O'CONNOR, J., filed an opinion concurring in part and dissenting in part, in which SCALIA, J., joined. THOMAS, J., filed an opinion concurring in part and dissenting in part.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
