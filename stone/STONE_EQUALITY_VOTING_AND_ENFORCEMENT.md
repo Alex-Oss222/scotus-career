@@ -3431,3 +3431,125 @@ The questions below are editorial summaries, not quotations of official question
 **Reasoning.** The older plan distinguishes filling missing information about particular census units from substituting sampling for enumeration. It treats that distinction as consistent with fictional *Wisconsin v. City of New York* and *Commerce v. House*.
 
 **What the opinion must articulate.** Address standing separately; explain the method actually used and its fit with the statute and enumeration requirement. Do not infer the legality of every statistical method from approval of this one.
+
+## 7. Reproductive liberty, equal protection, and medical-care case watchlist
+
+### Status and chronology
+
+This watchlist preserves cases for future intake. It assigns no future winner, vote, opinion, or holding. A proposed Stone position is his own position until the Court actually adopts the relevant reasoning. Each future brief must identify the law then effective, the question actually presented, the preserved claims, the proper defendant, and the available remedy. Historical outcomes are comparison material, not instructions to reproduce or reverse them.
+
+The term labels below are planning windows. They do not assert a historical grant or establish that a petition is timely. A circuit or state judgment supplies a possible review vehicle only if jurisdiction, finality, preservation, standing, and a live controversy are established. Related cases are not automatically consolidated; different records and judgments retain their own questions.
+
+The OT2002 preparations include Owens, Newman, Lawall, Okpalobi, Bell, Harry, and Knussman, alongside the existing Conant brief. None supplies a future premise merely because it has been scheduled. Hibbs, State Farm, Westside Mothers, and the other OT2002 briefs likewise become governing authority only to the extent of the Court's actual decisions.
+
+### A. Viability and the constitutional basis of reproductive liberty
+
+The questions to preserve are why individualized viability matters to the protected liberty, whether a fixed previability deadline is a prohibition rather than a regulation, and how bodily integrity, fetal survival, medical knowledge, and administrable legal limits bear on those questions. The Court must distinguish a patient's continuing protected choice from a procedural deadline and address the government's strongest supported account of its interests. It must not assume a particular medical fact, viability date, or disposition before reviewing the record.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2012 or OT2013 | McCormack v. Hiedeman, 694 F.3d 1004 (9th Cir. 2012) | Distinguish direct criminal exposure of the pregnant person, medication-abortion restrictions, and the separate twenty-week law. The 2012 appeal includes a standing barrier to prospective review of the latter; it cannot simply be treated as an adjudication of that ban's constitutionality. |
+| OT2013 | Isaacson v. Horne, 716 F.3d 1213 (9th Cir. 2013) | Examine Arizona's twenty-week limit, its emergency protection, and the argument that an earlier opportunity to choose makes a later prohibition permissible. Identify the actual viability and medical record. |
+| OT2015 | Edwards v. Beck, 786 F.3d 1113 (8th Cir. 2015) | Assess the Arkansas twelve-week restriction under the law then controlling. Preserve distinct provisions, exceptions, severability, and the scope of relief. |
+| OT2015 | MKB Management Corp. v. Stenehjem, 795 F.3d 768 (8th Cir. 2015) | Assess the North Dakota cardiac-activity restriction and its relationship to viability. Compare with Edwards only after identifying the different enactments and records. |
+| OT2021 | Dobbs v. Jackson Women's Health Organization, 597 U.S. 215 (2022), reviewing 945 F.3d 265 (5th Cir. 2019) | Address the actual grant, Mississippi's fifteen-week prohibition, stare decisis, and any narrower proposed rule on the law then existing. Earlier watchlist entries supply no assumed holdings or votes. |
+
+### B. Applying the Casey framework evenhandedly
+
+Use the controlling version of the six-step analysis: identify prohibited interference; examine actual purpose; determine real burdens on the affected population; apply the consequence appropriate to those burdens; protect truthful communication and workable clinical judgment; and tailor relief. An ordinary regulation must receive its actual evidentiary and legal assessment. A prohibition, veto, or substantial obstacle cannot be relabeled as ordinary regulation. No case is assigned in advance to an “uphold” or “invalidate” column.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2003, early intake | Greenville Women's Clinic v. Commissioner, 317 F.3d 357 (4th Cir. 2002) | Confine review to the remaining delegation, Establishment Clause, and vagueness challenges and the State's cross-appeal concerning patient-identifying record disclosure under §102(F). Do not reopen general sanitation or access questions already disposed of in the earlier 222 F.3d 157 litigation. The panel opinion was reinstated November 15, 2002; verify the operative mandate and preservation. |
+| OT2004 | Women's Medical Professional Corp. v. Taft, 353 F.3d 436 (6th Cir. 2003) | Examine the procedure actually prohibited, the preserved alternatives, the wording and usability of the health exception, and medical disagreement. A statutory label does not establish either safety or an obstacle. |
+| OT2005 | Ayotte v. Planned Parenthood of Northern New England, 546 U.S. 320 (2006) | Determine the emergency protection required and whether authorized, severable relief can correct the violation. Separate generally permissible parental involvement from the operation of the challenged emergency restriction. |
+| OT2006 | Gonzales v. Carhart, 550 U.S. 124 (2007) | Examine the federal method restriction, uncertainty in the medical record, availability of alternatives, and health protection. Any comparison with Taft must account for the actual texts and then-effective holdings. |
+| OT2013 | Planned Parenthood Southwest Ohio Region v. DeWine, 696 F.3d 490 (6th Cir. 2012) | Separate dosing and administration requirements, the claims actually resolved, remaining proceedings, and the effect of the state court's statutory construction. Evidence of benefit and access must concern this record. |
+| OT2013 | Cline v. Oklahoma Coalition for Reproductive Justice, 571 U.S. 948 (2013); certified construction, 2013 OK 93, 313 P.3d 253 | The certified state-law answers address misoprostol and methotrexate, including ectopic-pregnancy treatment. Distinguish the state construction, the historical dismissal, and any independently proper merits route; do not assume that a dismissal itself decided federal merits. |
+| OT2014 | Planned Parenthood of Greater Texas Surgical Health Services v. Abbott, 748 F.3d 583 (5th Cir. 2014) | Examine the particular admitting-privileges and medication provisions, proof of access burdens, and the review standard. Do not attribute every later surgical-center claim to this judgment. |
+| OT2014 | Planned Parenthood Arizona, Inc. v. Humble, 753 F.3d 905 (9th Cir. 2014) | Compare actual medication protocols and medical evidence while preserving the preliminary-injunction posture and unresolved construction questions. |
+| OT2015 | Whole Woman's Health v. Hellerstedt, 579 U.S. 582 (2016) | Assess health justifications, actual closures and burdens, the relevant procedural history, and the lawful extent of relief. |
+| OT2018 | West Alabama Women's Center v. Williamson, 900 F.3d 1310 (11th Cir. 2018) | Examine restrictions on standard second-trimester care, the actual alternatives, safety evidence, and the patients affected. |
+| OT2019 | June Medical Services L.L.C. v. Russo, 591 U.S. 299 (2020) | Keep provider standing, waiver or preservation, the factual record, governing precedent, and the scope of any shared rationale separate. |
+| OT2018 | Box v. Planned Parenthood of Indiana & Kentucky, Inc., 587 U.S. 490 (2019) | Separate fetal-remains disposal from the distinct reasons-for-abortion restriction. The historical Court's treatment of one question does not decide the other. |
+| OT2020 or OT2021 | Preterm-Cleveland v. McCloud, 994 F.3d 512 (6th Cir. 2021) (en banc) | Examine the actual physician-knowledge and patient-reason restriction, the preserved constitutional questions, and access effects. |
+
+### C. Medically necessary care and independent bodily-integrity grounds
+
+Preserve the question whether government may prohibit an established, medically indicated intervention needed to avert death, grave physical injury, or substantial irreversible impairment, or impose a precondition unusable within the medical timeframe. Distinguish that question from a general entitlement to public funding, a right to every requested treatment, or access to scientifically unproven drugs. Identify the responsible government action and the lawful cause of action before reaching the proposed substantive protection.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2007 | Abigail Alliance for Better Access to Developmental Drugs v. von Eschenbach, 495 F.3d 695 (D.C. Cir. 2007) (en banc) | Distinguish investigational-drug access, evidence of efficacy and toxicity, the FDA's actual regulatory requirements, and any narrower liberty question properly presented. Do not announce an advisory rule for established therapies absent a proper controversy. |
+| OT2007 | Raich v. Gonzales, 500 F.3d 850 (9th Cir. 2007) | Separate the claimed medical necessity and liberty from federal statutory authority, the evidentiary record, and prior adjudications. A medical recommendation alone does not decide every constitutional or statutory issue. |
+| OT2005, OT2006, and OT2013 | Ayotte; Gonzales v. Carhart; Cline | Consider a separately presented bodily-integrity or emergency-care ground on the law then effective. Later 2007 decisions cannot retroactively supply a holding for an earlier event. A genuinely independent alternative ground needs its own elements, reasoning, record application, and supporting joins. |
+
+### D. Equal protection, pregnancy, and sex-role classifications
+
+Keep sex classification, discriminatory purpose, stereotyped treatment, statutory pregnancy protection, and remedial enforcement power analytically distinct. The relevance of Geduldig v. Aiello must be confronted on its actual holding and later treatment rather than bypassed by vocabulary. Neither biology alone nor invocation of equal citizenship resolves the standard of review.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2004 | Back v. Hastings on Hudson Union Free School District, 365 F.3d 107 (2d Cir. 2004) | Examine a public employer's alleged motherhood stereotypes under equal protection, the proof of discriminatory treatment, personal responsibility, and immunity. Do not assume that an express male comparator is always necessary or that every motherhood-related statement proves liability. |
+| OT2004 or OT2005 | Tucson Woman's Clinic v. Eden, 379 F.3d 531 (9th Cir. 2004) | Separate equal protection, abortion burdens, search, privacy, vagueness, and delegation. Use the amended opinion and preserve each judgment component. The existence and adequacy of Arizona's standards and judicial review are material to the delegation claim. |
+| OT2009 or OT2010 | Nelson v. Correctional Medical Services, 583 F.3d 522 (8th Cir. 2009) (en banc) | Examine restraint during labor under the actual Eighth Amendment and immunity questions. Do not insert an unpleaded equal-protection claim or collapse different defendants' conduct. |
+| OT2011 | Coleman v. Court of Appeals of Maryland, 566 U.S. 30 (2012) | Examine the FMLA self-care provision, the legislative record, Section 5 enforcement, and its relationship to pregnancy discrimination. Any proposed narrowing of Geduldig or distinction from Hibbs must be stated and justified. |
+| OT2016 | Sessions v. Morales-Santana, 582 U.S. 47 (2017) | Examine sex-based citizenship rules and the independent remedial choice after an equality violation. A finding of unequal treatment does not alone identify whether benefits extend or restrictions equalize. |
+
+### E. Truthful medical information and compelled speech
+
+Use a source-specific, evenhanded rule for clinicians and pregnancy centers. Separate truthful, nonmisleading, medically relevant informed consent from compelled ideological statements, unsupported causal claims, and unrelated notices. Each comparison requires the actual speech, audience, context, evidence, and enforcement mechanism.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2008 | Planned Parenthood Minnesota, North Dakota, South Dakota v. Rounds, 530 F.3d 724 (8th Cir. 2008) (en banc) | Examine the disclosures actually before the court, the statutory construction, and the evidentiary posture. |
+| OT2012 | Planned Parenthood Minnesota, North Dakota, South Dakota v. Rounds, 686 F.3d 889 (8th Cir. 2012) (en banc) | Examine the disputed suicide-risk language and the record's distinction between correlation and causation. Do not assume a medical proposition without reviewing the evidence. |
+| OT2013 | McCullen v. Coakley, 573 U.S. 464 (2014) | Assess public-sidewalk speech restrictions and available enforcement against obstruction and harassment under the appropriate First Amendment test. |
+| OT2015 | Stuart v. Camnitz, 774 F.3d 238 (4th Cir. 2014) | Examine compelled ultrasound display and narration, patient choice, and the distinction between an offer of information and compulsory delivery. |
+| OT2011 or as a later preserved comparison | Texas Medical Providers Performing Abortion Services v. Lakey, 667 F.3d 570 (5th Cir. 2012) | Preserve the contrasting statute and procedural posture. Do not treat a comparison with Stuart as consolidation or a new timely petition without a proper vehicle. |
+| OT2017 | National Institute of Family and Life Advocates v. Becerra, 585 U.S. 755 (2018) | Examine the different licensed and unlicensed-facility notices under their actual statutory and speech contexts. |
+| OT2019 | EMW Women's Surgical Center, P.S.C. v. Beshear, 920 F.3d 421 (6th Cir. 2019) | Apply the law then effective to Kentucky's actual ultrasound requirements and exceptions, without assuming that every difference from Stuart or NIFLA is immaterial. |
+
+### F. Interstate movement, speech, and territorial limits
+
+Distinguish travel, speech about lawful out-of-state activity, transactions, choice of law, criminal or civil punishment, and custody of minors. A state connection does not automatically authorize extraterritorial punishment; neither does the location of one transaction automatically resolve every territorial claim.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2007 | Planned Parenthood of Kansas & Mid-Missouri, Inc. v. Nixon, 220 S.W.3d 732 (Mo. 2007) (en banc) | Identify the final federal question, authoritative state construction, standing, and any adequate independent state ground. Separate counseling and referrals, actual transportation, adult travel, and lawful protection of minors' custody. |
+| OT2010 | Midwest Title Loans, Inc. v. Mills, 593 F.3d 660 (7th Cir. 2010) | Examine the regulated lending transaction, state contacts, and the actual constitutional source of the territorial limit. |
+| OT2015 | Sam Francis Foundation v. Christie's, Inc., 784 F.3d 1320 (9th Cir. 2015) (en banc) | Examine the resale-royalty law, out-of-state transactions, severability, and the distinct constitutional and statutory questions actually resolved. |
+
+### G. Meaningful review and government control of access
+
+A practical obstacle may be decisive to a time-sensitive right, but Article III, the proper defendant, sovereign immunity, and the cause of action still require independent analysis. Private enforcement does not itself establish either immunity from review or standing against officials who cannot enforce the challenged provision.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2004 or OT2005 | Tucson Woman's Clinic v. Eden, 379 F.3d 531 | Examine whether the actual delegation is standardless or whether enforceable state-law criteria and review constrain it. Keep this inquiry separate from the preserved access claim. |
+| OT2008 | Roe v. Crawford, 514 F.3d 789 (8th Cir. 2008) | Examine custody, transportation, funding responsibility, security justifications, and the operation of the challenged policy under the applicable prison and constitutional standards. |
+| OT2017 | Garza v. Hargan, 874 F.3d 735 (D.C. Cir. 2017) (en banc) | Examine custody, existing bypass authorization, timing, and responsibility in the emergency en banc order. The June 4, 2018 disposition in Azar v. Garza vacated and remanded for dismissal of Doe's individual injunctive claim as moot; preserve that limit and identify any distinct surviving claim before assigning later review. |
+| OT2021 | Whole Woman's Health v. Jackson, 595 U.S. 30 (2021) | Address each defendant's connection, the available review channel, immunity, and the distinction between access to federal court and an ultimate merits decision. Do not derive a universal injunction from disapproval of private enforcement. |
+
+### H. Independent statutory protections
+
+Identify the enacted text, regulated defendant, prerequisites, cause of action, remedial limits, and any displacement or preemption issue. A statutory claim does not depend on constitutional abortion doctrine merely because the medical context overlaps, but neither a constitutional interest nor general federal funding supplies a missing statutory element.
+
+| Planning window | Candidate opinion | Question and intake limit |
+|---|---|---|
+| OT2007 | In re Union Pacific Railroad Employment Practices Litigation, 479 F.3d 936 (8th Cir. 2007) | Examine the actual contraception coverage exclusion, comparators, Title VII, and the Pregnancy Discrimination Act. |
+| OT2008 | AT&T Corp. v. Hulteen, 556 U.S. 701 (2009) | Separate pregnancy-related service credits, the seniority system, temporal reach of the statute, and current administration. |
+| OT2014 | Young v. United Parcel Service, Inc., 575 U.S. 206 (2015) | Examine pregnancy accommodations, comparators, employer explanations, proof burdens, and the statutory text then operative. |
+| OT2013 | Planned Parenthood of Indiana, Inc. v. Commissioner, 699 F.3d 962 (7th Cir. 2012) | Examine Medicaid free choice of a qualified provider, the relevant funding provisions, Section 1983 enforceability, and the actual defendants and relief. |
+| OT2018 | Planned Parenthood of Gulf Coast, Inc. v. Gee, 862 F.3d 445 (5th Cir. 2017) | Verify the operative appellate opinion, subsequent rehearing or review, state qualification grounds, and the patients' actual statutory claim. |
+| OT2018 | Planned Parenthood of Kansas v. Andersen, 882 F.3d 1205 (10th Cir. 2018) | Compare the actual provider-disqualification record and enforcement route with Indiana and Gee; shared subject matter does not establish identical facts or relief. |
+| OT2016, background only absent a proper federal issue | Means v. United States Conference of Catholic Bishops, 836 F.3d 643 (6th Cir. 2016) | This reported appeal concerns ordinary negligence and personal jurisdiction against religious organizations and officials, not a direct EMTALA action against the treating hospital. It cannot carry a hospital-stabilization holding merely because the alleged injury arose during emergency pregnancy care. |
+
+The EMTALA question may be preserved through Harry and a later properly presented hospital case: whether the statutory emergency, knowledge, stabilization, transfer, admission, and remedial prerequisites are satisfied. A conflict with state law requires actual incompatibility and the governing preemption text. FDA approval, off-label prescribing, and state medical regulation require a separate statutory analysis; none establishes blanket preemption by assertion.
+
+### I. Intake requirements and source corrections
+
+Before placing a future matter on a term docket, verify the operative judgment and amendments; the petition and granted questions if any; finality and live relief; the factual and evidentiary record; the proper parties and enforcement connection; earlier proceedings in the same litigation; and the then-effective law. Preserve a neutral range of lawful outcomes. A case selected to test a doctrine is not required to produce a preferred result.
+
+The identified source corrections are substantive: McCormack's 2012 twenty-week claim has a standing limit; Tucson requires attention to the amended opinion and existing state-law constraints on hospital discretion; Cline's state-law certification and Supreme Court dismissal are distinct events; Means is not a direct EMTALA vehicle; and an OT2007 proposed foundation cannot become precedent for OT2005 or OT2006. Greenville remains reserved for early OT2003 consideration rather than being silently added to OT2002.
+
