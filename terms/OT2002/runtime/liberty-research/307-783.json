@@ -1,0 +1,793 @@
+{
+  "id": 11353061,
+  "name": "PLANNED PARENTHOOD OF SOUTHERN ARIZONA; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, v. Barbara LAWALL, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees. Planned Parenthood of Southern Arizona; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, Barbara Lawall, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees",
+  "name_abbreviation": "Planned Parenthood of Southern Arizona v. Lawall",
+  "decision_date": "2002-10-09",
+  "docket_number": "Nos. 01-16799, 01-16861",
+  "first_page": "783",
+  "last_page": "794",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "307 F.3d 783"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "9th Cir.",
+    "id": 8826,
+    "name": "United States Court of Appeals for the Ninth Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "462 U.S. 416",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189391
+      ],
+      "weight": 3,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "441"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0416-01"
+      ]
+    },
+    {
+      "cite": "462 U.S. 476",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6189648
+      ],
+      "weight": 3,
+      "year": 1983,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/462/0476-01"
+      ]
+    },
+    {
+      "cite": "95 L.Ed.2d 697",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6222105,
+        1148012
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01",
+        "/us/341/0001-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 739",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222105
+      ],
+      "weight": 4,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "745"
+        },
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 438",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722742
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "453",
+          "parenthetical": "\"If the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.\""
+        },
+        {
+          "parenthetical": "\"If the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.\""
+        },
+        {
+          "parenthetical": "\"If the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/405/0438-01"
+      ]
+    },
+    {
+      "cite": "638 F.2d 570",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        1357511
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "578"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/638/0570-01"
+      ]
+    },
+    {
+      "cite": "941 F.2d 780",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11718841
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/941/0780-01"
+      ]
+    },
+    {
+      "cite": "135 F.3d 1260",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11878174
+      ],
+      "pin_cites": [
+        {
+          "page": "1269"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/135/1260-01"
+      ]
+    },
+    {
+      "cite": "194 F.3d 954",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11559893,
+        11553119
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "958"
+        },
+        {
+          "page": "959"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/194/0954-01",
+        "/br/241/0954-01"
+      ]
+    },
+    {
+      "cite": "429 U.S. 589",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        7501
+      ],
+      "weight": 7,
+      "year": 1977,
+      "pin_cites": [
+        {
+          "page": "601-602"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/429/0589-01"
+      ]
+    },
+    {
+      "cite": "119 F.3d, 254",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        199877
+      ],
+      "pin_cites": [
+        {
+          "page": "263"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/119/0254-01"
+      ]
+    },
+    {
+      "cite": "934 F.2d 1462",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "pin_cites": [
+        {
+          "page": "1479"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "937 F.2d 434",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        10523804
+      ],
+      "pin_cites": [
+        {
+          "page": "439"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f2d/937/0434-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 747",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12915
+      ],
+      "weight": 5,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "766"
+        },
+        {
+          "page": "766-68"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/476/0747-01"
+      ]
+    },
+    {
+      "cite": "520 U.S. 292",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11651647
+      ],
+      "weight": 5,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "295"
+        },
+        {
+          "page": "297"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/520/0292-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 502",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217149
+      ],
+      "weight": 16,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "511-13",
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "page": "512"
+        },
+        {
+          "page": "513"
+        },
+        {
+          "page": "513"
+        },
+        {
+          "page": "513"
+        },
+        {
+          "page": "512"
+        },
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/497/0502-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 622",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184603
+      ],
+      "weight": 7,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "640-42",
+          "parenthetical": "\"Bellotti II\""
+        },
+        {
+          "parenthetical": "\"Bellotti II\""
+        },
+        {
+          "parenthetical": "\"Bellotti II\""
+        },
+        {
+          "page": "643-44"
+        },
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/443/0622-01"
+      ]
+    },
+    {
+      "cite": "428 U.S. 52",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176125
+      ],
+      "weight": 5,
+      "year": 1976,
+      "pin_cites": [
+        {
+          "page": "72-75"
+        },
+        {
+          "page": "75"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/428/0052-01"
+      ]
+    },
+    {
+      "cite": "410 U.S. 113",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11957048
+      ],
+      "weight": 3,
+      "year": 1973,
+      "pin_cites": [
+        {
+          "page": "153"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/410/0113-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480969
+      ],
+      "weight": 9,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "895"
+        },
+        {
+          "page": "882"
+        },
+        {
+          "page": "877"
+        },
+        {
+          "page": "883"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/505/0833-01"
+      ]
+    },
+    {
+      "cite": "281 F.3d 844",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        9395882
+      ],
+      "pin_cites": [
+        {
+          "page": "847"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/281/0844-01"
+      ]
+    },
+    {
+      "cite": "193 F.3d 1042",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11565656
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/193/1042-01"
+      ]
+    },
+    {
+      "cite": "180 F.3d 1022",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11668642
+      ],
+      "weight": 3,
+      "pin_cites": [
+        {
+          "page": "1027"
+        },
+        {
+          "page": "1025-27"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/180/1022-01"
+      ]
+    },
+    {
+      "cite": "130 F.3d 400",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11889522
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/130/0400-01"
+      ]
+    },
+    {
+      "cite": "942 F.Supp. 1578",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7656938
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/942/1578-01"
+      ]
+    },
+    {
+      "cite": "804 F.Supp. 1210",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        7409986
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/804/1210-01"
+      ]
+    },
+    {
+      "cite": "28 U.S.C. \u00a7 1291",
+      "category": "laws:leg_statute",
+      "reporter": "U.S.C.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "381 U.S. 479",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6172057
+      ],
+      "weight": 3,
+      "year": 1965,
+      "pin_cites": [
+        {
+          "page": "485"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/381/0479-01"
+      ]
+    },
+    {
+      "cite": "394 U.S. 557",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6176248
+      ],
+      "weight": 3,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "564",
+          "parenthetical": "stating that the Founders \"conferred, as against the Government, the right to be let alone - the most comprehensive of rights and the right most valued by civilized man\""
+        },
+        {
+          "parenthetical": "stating that the Founders \"conferred, as against the Government, the right to be let alone - the most comprehensive of rights and the right most valued by civilized man\""
+        },
+        {
+          "parenthetical": "stating that the Founders \"conferred, as against the Government, the right to be let alone - the most comprehensive of rights and the right most valued by civilized man\""
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/394/0557-01"
+      ]
+    },
+    {
+      "cite": "405 U.S. 438",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11722742
+      ],
+      "weight": 3,
+      "year": 1972,
+      "pin_cites": [
+        {
+          "page": "453",
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        },
+        {
+          "parenthetical": "citations omitted"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/405/0438-01"
+      ]
+    },
+    {
+      "cite": "941 F.2d 780",
+      "category": "reporters:federal",
+      "reporter": "F.2d",
+      "case_ids": [
+        11718841
+      ],
+      "pin_cites": [
+        {
+          "page": "796"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/f2d/941/0780-01"
+      ]
+    },
+    {
+      "cite": "476 U.S. 747",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12915
+      ],
+      "weight": 3,
+      "year": 1986,
+      "pin_cites": [
+        {
+          "page": "767-68"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/476/0747-01"
+      ]
+    },
+    {
+      "cite": "497 U.S. 502",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217149
+      ],
+      "weight": 13,
+      "year": 1990,
+      "pin_cites": [
+        {
+          "page": "511-13",
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "parenthetical": "\"Akron II\""
+        },
+        {
+          "page": "512"
+        },
+        {
+          "parenthetical": "emphasis added"
+        },
+        {
+          "page": "512"
+        },
+        {
+          "page": "513"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/497/0502-01"
+      ]
+    },
+    {
+      "cite": "443 U.S. 622",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6184603
+      ],
+      "weight": 13,
+      "year": 1979,
+      "pin_cites": [
+        {
+          "page": "642",
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "parenthetical": "plurality opinion"
+        },
+        {
+          "page": "639"
+        },
+        {
+          "page": "643"
+        },
+        {
+          "page": "643-44"
+        },
+        {
+          "page": "644"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/443/0622-01"
+      ]
+    },
+    {
+      "cite": "505 U.S. 833",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1480969
+      ],
+      "weight": 3,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "882"
+        }
+      ],
+      "opinion_index": 1,
+      "case_paths": [
+        "/us/505/0833-01"
+      ]
+    }
+  ],
+  "analysis": {
+    "cardinality": 1335,
+    "char_count": 36577,
+    "ocr_confidence": 0.668,
+    "pagerank": {
+      "raw": 1.5412199623735948e-07,
+      "percentile": 0.67291876862319
+    },
+    "sha256": "aa53772955244cba94a2b25e808ffcb620e55a134974bcd7ca5f0ddc62d371f8",
+    "simhash": "1:da2dae775287daf5",
+    "word_count": 5673
+  },
+  "last_updated": "2024-02-27T20:04:40.704540+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before LAY, FERGUSON, and TALLMAN, Circuit Judges."
+    ],
+    "parties": [
+      "PLANNED PARENTHOOD OF SOUTHERN ARIZONA; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, v. Barbara LAWALL, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees. Planned Parenthood of Southern Arizona; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, Barbara Lawall, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees."
+    ],
+    "opinions": [
+      {
+        "text": "OPINION\nTALLMAN, Circuit Judge:\nPlanned Parenthood of Southern Arizona and its corporate chapter, Planned Parenthood of Central and Northern Arizona, Inc., and David L. Child, M.D., (collectively \u201cPlanned Parenthood\u201d) challenge the facial validity of Arizona\u2019s parental consent abortion statute. We must decide whether the current incarnation of the statute\u2019s judicial bypass provision satisfies two constitutionally recognized rights of privacy \u2014 the right to make fundamental life decisions and the right to avoid disclosure of personal information. We hold that it does.\nThe district court denied Planned Parenthood\u2019s request for a declaratory judgment and for a permanent injunction enjoining enforcement of the statute, holding that the judicial bypass provision satisfies the Supreme Court\u2019s requirement of anonymity, does not place an undue burden on a young woman\u2019s freedom to terminate her pregnancy, and does not compromise her right to informational privacy. We have jurisdiction under 28 U.S.C. \u00a7 1291, and we affirm.\nI\nThe State of Arizona repeatedly has attempted to enact a parental consent abortion statute. Arizona\u2019s 1989 version of the statute was first held unconstitutional by the- United States District Court for the District of Arizona in 1992. The court enjoined enforcement of the statute on the grounds that the medical procedure provision was unconstitutionally vague, the definition of medical emergency was unconstitutionally narrow, and the judicial bypass procedure did not provide a minor with a constitutionally sufficient opportunity to obtain an expedited review. Planned Parenthood v. Neely, 804 F.Supp. 1210 (D.Ariz.1992).\nThe Arizona legislature amended and reenacted the parental consent abortion law in 1996, but the district court held that it failed to pass constitutional muster. Specifically, the court held that two provisions were unconstitutionally vague: the requirement that a request for judicial authorization for abortion without parental consent be determined \u201cpromptly\u201d and the standard regarding the minor\u2019s \u201cbest interest.\u201d Planned Parenthood v. Neely, 942 F.Supp. 1578 (D.Ariz.1996).\nOn appeal, we vacated the district court\u2019s decision without reaching the merits, holding that it was error for the district court to have allowed Planned Parenthood and Neely to supplement their complaint in the 1989 action in order to challenge the constitutionality of the 1996 statute. Planned Parenthood v. Neely, 130 F.3d 400 (9th Cir.1997). A new suit was subsequently commenced. The district court again found the statute unconstitutional and permanently enjoined its enforcement. We affirmed on appeal. Planned Parenthood v. Lawall, 180 F.3d 1022 (9th Cir.1999), amended on denial of reh\u2019g, 193 F.3d 1042 (9th Cir.1999).\nIn an attempt to harmonize the statute with our ruling, the Arizona legislature drafted yet another version of the statute. The most recent incarnation of section 36-2152 was scheduled to go into effect on July 14, 2000. On June 21, 2000, Planned Parenthood moved for a preliminary injunction, a permanent injunction, and a declaratory judgment holding the statute unconstitutional on the grounds that (1) it did not adequately protect the confidentiality of pregnant minors who seek judicial bypass, (2) its standards for proving maturity and \u201cbest interest\u201d were contrary to governing law, and (3) it failed to provide physicians with clear notice of what conduct was prohibited.\nPrior to a hearing on the merits, the district court entered a preliminary injunction enjoining the State of Arizona from enforcing the statute. On September 15, 2000, the district court heard Planned Parenthood\u2019s motions. While the court took the matter under advisement, it granted defendants\u2019 Motion in Limine to preclude the testimony of Dr. David Child regarding a particular breach of confidentiality pertaining to one of his former patients and ordered the preliminary injunction to remain in effect until the district court issued an order. On August 9, 2001, the district court denied Planned Parenthood\u2019s request for relief and dissolved the preliminary injunction. Enforcement of the statute was subsequently stayed pending appeal.\nOn this appeal, Planned Parenthood challenges the facial validity of a discrete portion of Arizona\u2019s judicial bypass proceeding \u2014 the confidentiality provision in Arizona\u2019s parental consent abortion law \u2014 \u2022 on the ground that it does not comport with Supreme Court anonymity requirements. Planned Parenthood also contends the confidentiality provision violates young women\u2019s informational privacy rights because it is not narrowly tailored to meet the state\u2019s interest. Appellees, a class of all prosecuting attorneys in the -State of Arizona, assert that Planned Parenthood misconstrues the breadth of the exception and that the confidentiality provision satisfies Supreme Court precedent. Appellees\u2019 argument is persuasive.\nII\nWe review de novo the legal question of whether a statutory provision is constitutional. See Taylor v. Delatoore, 281 F.3d 844, 847 (9th Cir.2002). In analyzing a facial challenge to an abortion statute, we apply the undue burden standard set forth in Planned Parenthood v. Casey, 505 U.S. 833, 895, 112 S.Ct. 2791, 120 L.Ed.2d 674 (1992). See Lawall, 180 F.3d at 1027.\nIII\nThe United States Supreme Court held in Roe v. Wade that the \u201cright of privacy ... founded in the Fourteenth Amendment\u2019s concept of personal liberty and restrictions upon state action ... is broad enough to encompass a woman\u2019s decision whether or not to terminate her pregnancy.\u201d 410 U.S. 113, 153, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973). Although Roe has been repeatedly challenged over the last three decades, the Supreme Court continues to respect and reaffirm the basic premise that a woman\u2019s right to choose includes the right to determine whether or not to terminate her pregnancy.\nA female minor also possesses a constitutionally protected right to choose. See Planned Parenthood v. Danforth, 428 U.S. 52, 72-75, 96 S.Ct. 2831, 49 L.Ed.2d 788 (1976). States may limit the rights of minors, however, by requiring parental involvement in the decision-making process. See Bellotti v. Baird, 443 U.S. 622, 640-42, 99 S.Ct. 3035, 61 L.Ed.2d 797 (1979) (\u201cBellotti II\u201d) (plurality opinion). If a state chooses to encourage parental involvement, such as requiring the parental consent of one or both parents, the Supreme Court has held that the state must provide an alternative or bypass procedure. See Danforth, 428 U.S. at 75, 96 S.Ct. 2831 (holding that a blanket provision giving parents \u201cabsolute power to overrule a determination ... to terminate the [minor\u2019s ] pregnancy\u201d is unconstitutional).\nWhen a state chooses as its alternative procedure to provide for a judicial bypass proceeding in which minors may obtain authorization for an abortion by court order, as Arizona has done, the Supreme Court has held that a pregnant minor must show that: (1) \u201cshe possesses the maturity and information to make her abortion decision, in consultation with her physician, without regard to her parents\u2019 wishes\u201d; (2) \u201ceven if she cannot make the abortion decision by herself\u2019 the abortion she desires is in her best interest; (3) \u201cthe procedure must insure the minor\u2019s anonymity\u201d; and (4) \u201ccourts must conduct a bypass procedure with expedition to allow the minor an effective opportunity to obtain the abortion.\u201d Ohio v. Akron Ctr. for Reproductive Health, 497 U.S. 502, 511-13, 110 S.Ct. 2972, 111 L.Ed.2d 405 (1990) (\u201cAkron II\u201d) (citing Bellotti II, 443 U.S. at 643-44, 99 S.Ct. 3035).\nPlanned Parenthood asserts that the district court erred in upholding Arizona\u2019s parental consent abortion law. It argues that the broad exception to the confidentiality requirement increases the likelihood that young women seeking judicial authorization for an abortion will have their confidentiality breached in violation of their Fourteenth Amendment right to decide whether to continue a pregnancy.\nPlanned Parenthood\u2019s challenge to the confidentiality provision contained in Arizona\u2019s parental consent abortion law implicates the third Bellotti II requirement \u2014 that the judicial proceeding, and any appeals that follow, be completed with anonymity. See Lambert v. Wicklund, 520 U.S. 292, 295, 117 S.Ct. 1169, 137 L.Ed.2d 464 (1997); Thornburgh v. Am. College of Obstetricians & Gynecologists, 476 U.S. 747, 766, 106 S.Ct. 2169, 90 L.Ed.2d 779 (1986), overr\u2019d in part on other grounds by Casey, 505 U.S. at 882, 112 S.Ct. 2791; Bellotti II, 443 U.S. at 644, 99 S.Ct. 3035. We hold that the Arizona confidentiality provision satisfies this standard.\nSection 36-2152(D) of the parental consent abortion statute provides:\nProceedings in the court under this section are confidential and have precedence over other pending matters. Members of the public shall not inspect, obtain copies of or otherwise have access to records of court proceedings under this section unless authorized by law. A judge who conducts proceedings under this section shall make in writing specific factual findings and legal conclusions supporting the decision and shall order a confidential record of the evidence to be maintained including the judge\u2019s own findings and conclusions. The minor may file the petition using a fictitious name. For purposes of this subsection, public does not include judges, clerks, administrators, professionals or other persons employed by or working under the supervision of the court or employees of other public agencies who are authorized by state or federal rule or law to inspect and copy closed court records.\nA.R.S. \u00a7 36-2152(D) (2000) (emphasis added). Similarly, section 36-2152(F) provides that a pregnant minor is entitled to an expedited confidential appeal. A young woman\u2019s confidentiality is also protected by A.R.S. \u00a7 38-504(B), which criminalizes an employee\u2019s disclosure of confidential documents. See Akron II, 497 U.S. at 512, 110 S.Ct. 2972 (upholding the constitutionality of an Ohio consent statute\u2019s anonymity provision and listing the state provision making it a criminal offense to disclose confidential documents as part of the state\u2019s effort to ensure a minor\u2019s anonymity).\nIn order to satisfy the Bellotti II anonymity requirement the Supreme Court has held that a statute must \u201ctake[ ] reasonable steps to prevent the public from learning of the minor\u2019s identity.\u201d Id. at 513, 110 S.Ct. 2972. Thus, complete anonymity is not critical to pass constitutional muster. See id. Indeed, we have held that \u201c[n]either complete anonymity nor any specific procedure for ensuring confidentiality is required.\u201d Glick v. McKay, 937 F.2d 434, 439 (9th Cir.1991), overruled on other grounds by Lambert, 520 U.S. at 297, 117 S.Ct. 1169.\nAs required by Akron II, a plain reading of the confidentiality provision in section 36-2152(D) reveals that the statute takes reasonable steps to protect a young woman\u2019s anonymity. The statute begins with a blanket statement that all judicial bypass proceedings are confidential and \u201cshall\u201d not be made public. The next sentence ensures that members of the general public may not access such information. The presiding judicial officer is also instructed to order that all records of evidence be confidentially maintained. To further protect a young woman\u2019s rights, the pregnant minor is permitted to use a fictitious name. Finally, the statute limits by category state personnel who may access such confidential information.\nDespite the above safeguards, Planned Parenthood contends that the exception to the term \u201cpublic\u201d fails to assure young women that the judicial bypass procedures will remain anonymous. The exception to the term \u201cpublic\u201d appears for the first time in the 2000 statute. Planned Parenthood argues that this newly created exception swallows the rule. We disagree.\nThe exception does not provide all court employees and other public agencies with the right to demand access to confidential documents. In fact, by the statute\u2019s very terms, the court retains discretion to allow access to those employees or personnel who need access to such information in order to perform their official duties. While we concede, as we must, that the exception is broader than other states\u2019 judicial-bypass procedures, this fact cannot serve as a basis for striking it down. The Supreme Court has explicitly held that the possibility of disclosure of information by state employees may not serve as the basis for a decision regarding the facial validity of a statute. See Akron II, 497 U.S. at 513, 110 S.Ct. 2972. See also Planned Parenthood Ass\u2019n v. Miller, 934 F.2d 1462, 1479 (11th Cir.1991) (\u201cThe fact that some public officials have access to the minor\u2019s court record does not compromise the record\u2019s confidentiality, nor does it mean that they will make unauthorized disclosures of it.\u201d).\nThus, while appellants would prefer a statute guaranteeing to every young woman complete confidentiality under all circumstances, such assurance is not required by law. Planned Parenthood\u2019s repeated reference to the fact that an employee, or someone under court supervision, may have disclosed confidential information regarding a pregnant minor, while disturbing, does not render the provision facially unconstitutional. We are addressing a facial challenge to the statute. As such we must consider whether the confidentiality exception on its face reasonably preserves a pregnant minor\u2019s confidential information. We hold that it does. The language of Arizona\u2019s parental consent abortion statute and the availability of criminal proceedings to punish unauthorized disclosures satisfies the third Bellotti II requirement and thus is consistent with Supreme Court case law. Accordingly, the statute does .not unduly burden a young woman\u2019s right to choose. See Manning v. Hunt, 119 F.3d, 254, 263 (4th Cir.1997).\nIV\nWe next consider whether the statute violates a young woman\u2019s privacy interest in avoiding disclosure of sensitive personal information. See Whalen v. Roe, 429 U.S. 589, 599 600, 97 S.Ct. 869, 51 L.Ed.2d 64 (1977). This interest, often referred to as the right to \u201cinformational privacy,\u201d Ferm v. United States Trustee (In re Crawford), 194 F.3d 954, 958 (9th Cir.1999), applies both when an individual chooses not to disclose highly sensitive information to the government and when an individual seeks assurance that such information will not be made public. See Whalen, 429 U.S. at 599 n. 24, 97 S.Ct. 869; Norman-Bloodsaw v. Lawrence Berkeley Lab., 135 F.3d 1260, 1269 (9th Cir.1998).\nLike the right to decide whether to terminate a pregnancy, the right to informational privacy \" 'is not absolute; rather, it is a conditional right which may be infringed upon a showing of proper governmental interest.\u2019 \u201d In re Crawford, 194 F.3d at 959 (quoting Doe v. Attorney Gen. of United States, 941 F.2d 780, 796 (9th Cir.1991)). Thus, in evaluating an informational privacy claim, the Court \u201cengage[s] in the delicate task of weighing competing interests to determine whether\u201d the state may properly disclose confidential information. Id. The following factors assist us in making such a determination:\nthe type of [information] requested, ... the potential for harm in any subsequent nonconsensual disclosure, ... the adequacy of safeguards to prevent unauthorized disclosure, the degree of need of access, and whether there is an express statutory mandate, articulated public policy, or other recognizable public interest militating toward access.\nId. (quoting United States v. Westinghouse Elec. Corp., 638 F.2d 570, 578 (3d Cir.1980)). It is the state\u2019s burden to demonstrate that \u201cits use of the information would advance a legitimate state interest and that its actions are narrowly tailored to meet the legitimate interest.\u201d Id.\nIt is undisputed that a court receives sensitive private information in a judicial bypass proceeding that is worthy of constitutional protection. See Eisenstadt v. Baird, 405 U.S. 438, 453, 92 S.Ct. 1029, 31 L.Ed.2d 349 (1972) (\u201cIf the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.\u201d) It is also undisputed that the disclosure of such information would cause significant harm. As we hold here, however, the statute provides young women with adequate protection to prevent unauthorized disclosure of personal information. See Whalen, 429 U.S. at 601-602, 97 S.Ct. 869 (\u201c[T]he remote possibility that judicial supervision of the evidentiary use of particular items of stored information will provide inadequate protection against unwarranted disclosures is surely not a sufficient reason for invalidating the entire patient-identification program.\u201d). Moreover, public interest militates in favor of pennitting authorized personnel to handle closed court records.\nAfter weighing these competing interests, we hold that section 36-2152 is sufficiently tailored and does not amount to an impermissible invasion of a young woman\u2019s right to informational privacy.\nV\nWe hold that the confidentiality provision of Arizona\u2019s parental consent abortion statute is constitutional because it does not invade a young woman\u2019s right of privacy on either of the grounds alleged by Planned Parenthood.\nAFFIRMED.\n. To the extent that the district court relied upon the standard of review in United. States v. Salerno, 481 U.S. 739, 745, 107 S.Ct. 2095, 95 L.Ed.2d 697 (1987), it was incorrect. We have held that Salerno is no longer the proper standard of review in light of Casey. See Lawall, 180 F.3d at 1025-27. Compare Casey, 505 U.S. at 877, 112 S.Ct. 2791 (\"[a] finding of an undue burden is a shorthand for the conclusion that a state regulation has the purpose or effect of placing a substantial obstacle in the path of a woman seeking an abortion of a nonviable fetus\u201d) (plurality opinion), with Salerno, 481 U.S. at 745, 107 S.Ct. 2095 (holding that in order to mount a successful facial challenge to a legislative act \u201cthe challenger must establish that no set of circumstances exists under which the Act would be valid\u201d).\n. When, as here, the distinction between confidentiality and anonymity do not appear to bear constitutional significance, the terms are considered interchangeable. See Akron II, 497 U.S. at 513, 110 S.Ct. 2972 (holding that this distinction has not made a difference in other Supreme Court cases).\n.We reject appellees' contention that this provision alone satisfies Bellotti ITs anonymity requirement. In Planned Parenthood Ass'n v. Ashcroft, the Supreme Court noted that a minor's confidentiality \u201cis assured by the statutory requirement that allows the minor to use her initials on the petition.\u201d 462 U.S. 476, 491 n. 16, 103 S.Ct. 2517, 76 L.Ed.2d 733 (1983). The Missouri statute is distinguishable, however, because it presumed that the proceedings are confidential unless one obtains a court order demonstrating a \"legitimate interest.\u201d Mo.Rev.Stat. \u00a7 211.321(1) (stating \"[r]ecords of juvenile court proceedings as well as all information obtained and social records prepared in the discharge of official duty for the court shall not be open to inspection or their contents disclosed, except by order of the court to persons having a legitimate interest therein ....\u201d). In addition, the Supreme Court held in Thornburgh that withholding a minor's name is not enough by itself to protect her anonymity where the publically available information could identify the minor. 476 U.S. at 766-68, 106 S.Ct. 2169. Because the potentially identifying information contained in the file is often so detailed that the absence of the minor\u2019s name will not protect her interests, the use of a fictitious name without more does not appear adequate to protect a pregnant minor\u2019s confidences.\n. The terms of the exception are derived from Rule 123(b)(ll) of Rules of the Arizona Supreme Court, which governs public access to judicial records in the State of Arizona.\n. The dissent is based on a concern that too many government employees and agencies will have access to the court records. But a woman\u2019s anonymity is not compromised by authorizing government agencies limited access to court records. Access does not necessarily mean disclosure. A judicial bypass procedure passes constitutional muster if it adequately protects against public disclosure of the woman\u2019s identity.\nIn Akron II, the Supreme Court considered the reasoning advanced by the dissent here. The plaintiffs in Akron II had \"maintain[ed] that the Ohio laws requiring court employees not to disclose public documents are irrelevant because the right to anonymity is broader than the right not to have officials reveal one\u2019s identity to the public at large.\" Akron II, 497 U.S. at 512, 110 S.Ct. 2972 (emphasis added). The Supreme Court rejected this argument and held that the statute in question satisfied the anonymity requirement because it \u201ctakes reasonable steps to prevent the public from learning of the minor\u2019s identity.\u201d Id. at 513, 110 S.Ct. 2972 (emphasis added). While we agree with the dissent that the right to privacy is critical and prevents government intrusion into a woman's right to choose, the Supreme Court has interpreted the anonymity requirement as mandating roadblocks to public knowledge of the minor's identity. Contrary to the conclusion of the dissent, we are confident that for purposes of constitutional analysis, the Arizona statute embraces the necessary protections by criminalizing the disclosure of confidential documents accessed in an employee's official capacity, labeling the proceedings \"confidential,\u201d and mandating that the public \u201cshall not\u201d have access to the judicial records.\n. Our holding is not dependent upon the manner in which the Arizona superior courts choose to apply the confidentiality provision to judicial bypass proceedings. There is no evidence on this record that the state courts will do anything but observe the statutory restrictions regarding confidentiality and protect a pregnant minor's privacy rights. Moreover, we expect that the Arizona superior courts will follow the plain meaning of the statutory provision and apply the provision constitutionally. See City of Akron v. Akron Ctr. for Reproductive Health, 462 U.S. 416, 441, 103 S.Ct. 2481, 76 L.Ed.2d 687 (1983), overruled on other grounds by Casey, 505 U.S. at 883, 112 S.Ct. 2791.",
+        "type": "majority",
+        "author": "TALLMAN, Circuit Judge:"
+      },
+      {
+        "text": "FERGUSON, Circuit Judge,\ndissenting.\nI dissent. The majority ignores the breadth of the exception in the Arizona confidentiality provision and upholds a facially invalid statute. In doing so, the majority has permitted the State of Arizona to unduly burden a young woman\u2019s right to choose whether to terminate a pregnancy. Simply put, the Supreme Court has mandated that \u201cBig Brother\u201d has no business snooping around this intensely private, constitutional right. Although the ramifications of today\u2019s holding are widespread, we will not see most of them because this statute and others like it will prevent numerous young women from exercising their constitutional right to terminate a pregnancy.\nA. Right to Choose\nThe Supreme Court has long respected a female minor\u2019s constitutional right to choose whether to terminate a pregnancy. Bellotti v. Baird, 443 U.S. 622, 642, 99 S.Ct. 3035, 61 L.Ed.2d 797 (1979) (plurality opinion) (hereinafter \u201cBellotti II\u201d). In recognizing this right, however, the Court has noted the unique circumstances facing a minor in this situation. Id. One of these circumstances is the interest of the State in encouraging parental involvement in this important decision. Id. at 639, 99 S.Ct. 3035. If the State chooses to require parental notification and consent, an alternative or bypass procedure must be provided to ensure that the right to choose is not unduly burdened. Id. at 643, 99 S.Ct. 3035.\nAs discussed by the majority, a bypass procedure in a consent statute must satisfy four requirements. Ohio v. Akron Center for Reproductive Health, 497 U.S. 502, 511-13, 110 S.Ct. 2972, 111 L.Ed.2d 405 (1990) (\u201cAkron II\u201d) (citing Bellotti II, 443 U.S. at 643-44, 99 S.Ct. 3035). At issue in this case is the requirement that \u201cthe procedure must insure the minor\u2019s anonymity.\u201d Id. at 512, 99 S.Ct. 3035 (citing Bellotti II, 443 U.S. at 644, 99 S.Ct. 3035). Without this requirement, there would be an \u201cunacceptable danger of deterring\u201d young women from exercising their \u201cpersonal, intensely private, right\u201d due to \u201cthe specter of public exposure and harassment.\u201d Thornburgh v. Am. College of Obstetricians & Gynecologists, 476 U.S. 747, 767-68, 106 S.Ct. 2169, 90 L.Ed.2d 779 (1986), overruled in part on other grounds by Planned Parenthood v. Casey, 505 U.S. 833, 882, 112 S.Ct. 2791, 120 L.Ed.2d 674 (1992); see Akron II, 497 U.S. at 512, 110 S.Ct. 2972.\nTurning to the Arizona statute at hand, section 36-2152(D) begins with two provisions regarding confidentiality. First, the section provides that \u201c[proceedings in the court under this section are confidential....\u201d Ariz.Rev.Stat. \u00a7 36-2152(D) (2001). Second, the section states that \u201c[mjembers of the public shall not inspect, obtain copies of or otherwise have access to records of court proceedings under this section unless authorized by law.\u201d Id. However, the section then lists a multitude of individuals who are not considered \u201cmembers of the public\u201d for purposes of the section. Id. The excluded individuals are \u201cjudges, clerks, administrators, professionals or other persons employed by or working under the supervision of the court or employees of other public agencies who are authorized by state or federal rule or law to inspect and copyclosed court records.\u201d Id. (emphasis added).\nThe exception emphasized above is unconstitutional and is the cause of my dissent. The scope of the exception is exceptionally broad, i.e., any employee from any state or federal agency can access the bypass proceeding files as long as they are authorized under law to review closed court records for any purpose. The plain language of the section does not identify the government agencies that will be able to access these records. Cf. Miss.Code Ann. \u00a7 41-41-61(1) (2001) (limiting disclosures of records to \u201cthe minor, her attorney and necessary court personnel\u201d). Nor does the section limit the purpose for which the government agencies may seek these records. Could agents of the Immigration and Naturalization Service, the Census Bureau, and the F\u00e9deral Bureau of Investigation access them? Because' the scope and the true breadth of this exclusion is unknown, the statute does not fulfill the anonymity requirement as set forth in Bellotti II and Akron II and should be held facially unconstitutional.\nFor the most part, the majority ignores the impact of this last sentence. Its silence is not surprising in light of the fact that the parties themselves cannot identify which employees from which agencies will be able to access the bypass proceeding files under the exclusion. What is surprising is the majority\u2019s mischaracterization of the section as a whole. The majority simply states that, under the statute, the court will retain \u201cdiscretion to allow access to those employees or personnel who need access to such information in order to perform their official duties.\u201d Maj. Op. at 788. However, this characterization does not fully examine or address the ability of agency employees to review the files. Although the court may control its own employees, it cannot necessarily control those of other agencies. This is particularly true when the statute specifically provides that they may access the bypass proceeding files as long as they are authorized to inspect closed court files. Appellees argue that we should interpret the statute as providing the state court with the discretion to determine which court employees and other agency officials are entitled to access to the confidential information. Although it is true that this Court must construe a statute to avoid the danger of unconstitutionality, here, it is impossible because of the plain language of the statute clearly provides otherwise.\nThe majority mistakenly relies on Akron II to support its determination that the statute is facially valid. The Ohio judicial bypass statute, which was upheld in Akron II, was considerably more protective of the minor\u2019s identity than the Arizona statute presently at issue. 497 U.S. at 512, 110 S.Ct. 2972 (holding that the statute fulfilled the anonymity requirement). The Ohio statute provided: \u201c \u2018The complaint and all other papers and records that pertain to an action commenced under this section shall be kept confidential and are not public records.\u2019\u201d Id. (quoting Ohio Rev.Code Ann. \u00a7 2151.85(F) (Supp.1988)). Unlike the Arizona statute, no exceptions were listed.\nThe majority points to the Court\u2019s statement in Akron II that it refused to base \u201ca decision on the facial validity of a statute on the mere possibility of unauthorized, illegal disclosure by state employees.\u201d Id. at 513, 110 S.Ct. 2972. The majority uses this language in support of its proposition that \u201cthe possibility of disclosure of information by state employees may not serve as the basis for a decision regarding the facial validity of a statute.\u201d Maj. Op. at 788. However, this argument puts the cart before the horse. Although it is true that the mere possibility of disclosure by state employees is not sufficient to find a bypass statute facially invalid, we must realize that the disclosures here are authorized by the statute itself. The Arizona statute is rendered facially unconstitutional by the fact that a multitude of governmental agency employees for any purpose and without specific judicial approval are authorized under the statute to inspect the records.\nB. Right to Informational Privacy\nAs described by the majority, this Court has considered five factors when evaluating a right to informational privacy claim. These factors include: (1) the type of information requested, (2) \u201cthe potential for harm in any subsequent non-consensual disclosure,\u201d (3) \u201cthe adequacy of safeguards to prevent unauthorized disclosure,\u201d (4) \u201cthe degree of need for access,\u201d and (5) \u201cwhether there is an express statutory mandate, articulated public policy, or other recognizable public interest militating toward access.\u201d Doe v. Attorney Gen., 941 F.2d 780, 796 (9th Cir.1991) (citation and internal quotation marks omitted).\nAlthough the majority recognizes the sensitive, private nature of the information and the significant harm that would be caused by disclosure of such information, it concludes that the statute protects against unauthorized disclosure and the public interest weighs in favor of permitting access. Because the majority fails to recognize the breadth of the statute\u2019s exception and cannot identify a public interest justifying the statute\u2019s scope, the majority errs in its task of weighing these factors.\nAs discussed above, the statute does not adequately protect against unauthorized disclosures. For example, the statute could have allowed for case-by-case judicial review of requests to inspect the files. Such a procedure would not place an undue burden on the courts since similar practices are used by courts when a party requests that a document is unsealed. In addition, other states have adopted such procedures in their judicial bypass proceedings. See, e.g., Mass. Gen. Laws ch. 112, \u00a7 12S (2002) (stating that all records \u201cshall be confidential and may not be released to any person except by the pregnant woman\u2019s written informed consent or by a proper judicial order\u201d) (emphasis added).\nFurthermore, although there may be a public interest that overrides the privacy interest at stake, it is certainly not pointed out by the majority. In fact, the majority has not provided any reason to justify why access by state and federal agency officials should intrude on the constitutional right to terminate a pregnancy. Perhaps this silence is caused by the fact that neither party can identify who will have access under this broad exception. No matter what the cause is, however, a young women\u2019s constitutional right to terminate a pregnancy cannot be burdened when the countervailing interests cannot be identified. Thus, in weighing these factors, section 26-2152 is not sufficiently tailored and amounts to an impermissible invasion of young women\u2019s right to informational privacy.\nIn its criticism of my dissent, the majority ignores the plain language of the statute, i.e., that access is not limited by either the court\u2019s discretion or by the purpose for which the employee seeks the documents. See Maj. Op. at 788-89 n. 5. Moreover, the majority apparently believes that it is of no constitutional concern that all judicial bypass proceeding records may be accessed by government officials who are permitted by law to review court records in other types of cases. The majority contends that the only issue of constitutional concern is public knowledge.\nThe majority forgets that one of the fundamental reasons for the right to privacy is freedom from unwarranted governmental intrusion. \u201cIf the right of privacy means anything, it is the right of the individual, married or single, to be free from unwarranted governmental intrusion into matters so fundamentally affecting a person as the decision whether to bear or beget a child.\u201d Eisenstadt v. Baird, 405 U.S. 438, 453, 92 S.Ct. 1029, 31 L.Ed.2d 349 (1972) (citations omitted); see also Stanley v. Georgia, 394 U.S. 557, 564, 89 S.Ct. 1243, 22 L.Ed.2d 542 (1969) (stating that the Founders \u201cconferred, as against the Government, the right to be let alone \u2014 the most comprehensive of rights and the right most valued by civilized man\u201d) (internal quotation marks and citation omitted). That right of privacy from governmental intrusion extends not only to the bedroom, see Griswold v. Connecticut, 381 U.S. 479, 485, 85 S.Ct. 1678, 14 L.Ed.2d 510 (1965), but to the courtroom in this case where the intensely private right is threatened by such intrusion. In other words, it is not only disclosure that is prohibited. It is intrusion itself. Although there are instances where a governmental interest will overcome the right to privacy, this is not the case before this Court. Simple curiosity or suspicion, the need to keep statistics, or the mere performance of government work is not enough to justify the intrusion permitted by the Arizona statute. The state must show a particularized, legitimate governmental need.\nIn sum, the broad exclusion fails to adequately protect the intensely private right of the minor, rendering Arizona Revised Statute \u00a7 26-2152 facially unconstitutional. Accordingly, I dissent.\n. These disclosures become even more disturbing in light of the potentially lenient ramifications for state employees who receive the documents outside the scope of his or her duties. Ariz.Rev.Stat. \u00a7 38-532(E) (2002) (stating that \"[a]n employee does not commit a prohibited personnel practice if he takes reprisal against an employee\u201d if the employee discloses confidential information) (emphasis added). Reprisal can take many forms. The employee may have a letter put in his or her file; he or she can be asked to take an unpaid leave; he or she might receive a good \"talking to.\u201d Such vague consequences are insufficient to protect the constitutional interests at stake.",
+        "type": "dissent",
+        "author": "FERGUSON, Circuit Judge,"
+      }
+    ],
+    "attorneys": [
+      "Eve C. Gartner, Planned Parenthood Federation of American, Inc., New York, NY, for the appellants.",
+      "Paula S. Bickett, Chief Counsel, Civil Appeals, Office of the Attorney General, Phoenix, AZ, for the appellees."
+    ],
+    "corrections": "",
+    "head_matter": "PLANNED PARENTHOOD OF SOUTHERN ARIZONA; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, v. Barbara LAWALL, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees. Planned Parenthood of Southern Arizona; Planned Parenthood of Central and Northern Arizona, Inc.; David L. Child, M.D., Plaintiffs-Appellants, Barbara Lawall, County Attorney for Pima County and as the representatives for all other County and City Attorneys; Janet Napolitano, Arizona Attorney General, Defendants-Appellees.\nNos. 01-16799, 01-16861.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted June 11, 2002.\nOct. 9, 2002.\nEve C. Gartner, Planned Parenthood Federation of American, Inc., New York, NY, for the appellants.\nPaula S. Bickett, Chief Counsel, Civil Appeals, Office of the Attorney General, Phoenix, AZ, for the appellees.\nBefore LAY, FERGUSON, and TALLMAN, Circuit Judges.\nThe Honorable Donald P. Lay, Senior United Slates Circuit Judge for the Eighth Circuit, sitting by designation."
+  },
+  "file_name": "0783-01",
+  "first_page_order": 811,
+  "last_page_order": 822
+}

@@ -1,0 +1,672 @@
+{
+  "id": 9409546,
+  "name": "COMMACK SELF-SERVICE KOSHER MEATS, INC., d/b/a Commack Kosher, Brian Yarmeisch and Jeffrey Yarmeisch, Plaintiffs-Appellees, v. Rabbi Luzer WEISS, as Director of the Kosher Law Enforcement Division of The New York State Department of Agriculture and Markets, Defendant-Appellant, Hon. Sheldon Silver, Abe Alper, Jon Greenfield, Jack Lee, Rabbi Moshe Portnoy, Richard Schwartz, Agudath Harabonim of the United States and Canada, Agudath Israel of America, National Council of Young Israel, Rabbinical Alliance Of America, Rabbinical Council of America, Torah Umesorah National Society of Hebrew Day School and Union of Orthodox Jewish Congregations of America, Intervenors-Defendants-Appellants",
+  "name_abbreviation": "Commack Self-Service Kosher Meats, Inc. v. Weiss",
+  "decision_date": "2002-05-21",
+  "docket_number": "Docket Nos. 00-9116, 00-9118",
+  "first_page": "415",
+  "last_page": "432",
+  "citations": [
+    {
+      "type": "official",
+      "cite": "294 F.3d 415"
+    }
+  ],
+  "court": {
+    "name_abbreviation": "2d Cir.",
+    "id": 8778,
+    "name": "United States Court of Appeals for the Second Circuit"
+  },
+  "jurisdiction": {
+    "id": 39,
+    "name_long": "United States",
+    "name": "U.S."
+  },
+  "cites_to": [
+    {
+      "cite": "95 L.Ed.2d 697",
+      "category": "reporters:federal",
+      "reporter": "L. Ed. 2d",
+      "case_ids": [
+        6222105,
+        1148012
+      ],
+      "year": 1987,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01",
+        "/us/341/0001-01"
+      ]
+    },
+    {
+      "cite": "481 U.S. 739",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6222105
+      ],
+      "weight": 2,
+      "year": 1987,
+      "pin_cites": [
+        {
+          "page": "745"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/481/0739-01"
+      ]
+    },
+    {
+      "cite": "N.Y. Agric. & Mkts. Law \u00a7 201",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "weight": 3,
+      "opinion_index": 0
+    },
+    {
+      "cite": "463 U.S. 783",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6200572
+      ],
+      "weight": 5,
+      "year": 1983,
+      "pin_cites": [
+        {
+          "page": "792"
+        },
+        {
+          "page": "792"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/463/0783-01"
+      ]
+    },
+    {
+      "cite": "366 U.S. 420",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        1285808
+      ],
+      "weight": 5,
+      "year": 1961,
+      "pin_cites": [
+        {
+          "page": "442"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/366/0420-01"
+      ]
+    },
+    {
+      "cite": "104 S.Ct. 1355",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        11337057
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/465/0668-01"
+      ]
+    },
+    {
+      "cite": "66 F.3d 1337",
+      "category": "reporters:federal",
+      "reporter": "F.3d",
+      "case_ids": [
+        11326227
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "1343-44"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f3d/66/1337-01"
+      ]
+    },
+    {
+      "cite": "114 S.Ct. 2481",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        39841
+      ],
+      "weight": 3,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/512/0687-01"
+      ]
+    },
+    {
+      "cite": "N.Y. Agrie. & Mkts. Law \u00a7 26",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "374 U.S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        8318
+      ],
+      "weight": 3,
+      "year": 1963,
+      "pin_cites": [
+        {
+          "page": "222"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/374/0203-01"
+      ]
+    },
+    {
+      "cite": "103 S.Ct. 505",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6192512
+      ],
+      "weight": 5,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/459/0116-01"
+      ]
+    },
+    {
+      "cite": "393 U.S. 440",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11317464
+      ],
+      "weight": 7,
+      "year": 1969,
+      "pin_cites": [
+        {
+          "page": "452",
+          "parenthetical": "Harlan, J., concurring"
+        },
+        {
+          "parenthetical": "Harlan, J., concurring"
+        },
+        {
+          "parenthetical": "Harlan, J., concurring"
+        },
+        {
+          "page": "451"
+        },
+        {
+          "page": "451-52"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0440-01"
+      ]
+    },
+    {
+      "cite": "330 U.S. 1",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        353633
+      ],
+      "weight": 3,
+      "year": 1947,
+      "pin_cites": [
+        {
+          "page": "15",
+          "parenthetical": "noting that the Establishment Clause prohibits passage of laws that \"aid one religion, aid all religions, or prefer one religion over another\""
+        },
+        {
+          "parenthetical": "noting that the Establishment Clause prohibits passage of laws that \"aid one religion, aid all religions, or prefer one religion over another\""
+        },
+        {
+          "parenthetical": "noting that the Establishment Clause prohibits passage of laws that \"aid one religion, aid all religions, or prefer one religion over another\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/330/0001-01"
+      ]
+    },
+    {
+      "cite": "393 U.S. 97",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        11310931
+      ],
+      "weight": 3,
+      "year": 1968,
+      "pin_cites": [
+        {
+          "page": "104",
+          "parenthetical": "\"[Government] may not aid, foster, or promote one religion or religious theory against another.\""
+        },
+        {
+          "parenthetical": "\"[Government] may not aid, foster, or promote one religion or religious theory against another.\""
+        },
+        {
+          "parenthetical": "\"[Government] may not aid, foster, or promote one religion or religious theory against another.\""
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/393/0097-01"
+      ]
+    },
+    {
+      "cite": "102 S.Ct. 1673",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "case_ids": [
+        6185638
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "246"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/456/0228-01"
+      ]
+    },
+    {
+      "cite": "492 U.S. 573",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6217400
+      ],
+      "weight": 3,
+      "year": 1989,
+      "pin_cites": [
+        {
+          "page": "605"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/492/0573-01"
+      ]
+    },
+    {
+      "cite": "129 N.J. 141",
+      "category": "reporters:state",
+      "reporter": "N.J.",
+      "case_ids": [
+        1368423
+      ],
+      "weight": 7,
+      "year": 1992,
+      "pin_cites": [
+        {
+          "page": "147",
+          "parenthetical": "citing Herman Wouk, This Is My God (1959), reprinted in The Life of Torah 98-99 (Jacob Neusner ed.1974); Rabbi Hayim Halevy Donin, To Be a Jew 102-04, 112-19 (1972); Rabbi J. David Bleich, Contemporary Halakie Problems 84-92 (1977)"
+        },
+        {
+          "parenthetical": "citing Herman Wouk, This Is My God (1959), reprinted in The Life of Torah 98-99 (Jacob Neusner ed.1974); Rabbi Hayim Halevy Donin, To Be a Jew 102-04, 112-19 (1972); Rabbi J. David Bleich, Contemporary Halakie Problems 84-92 (1977)"
+        },
+        {
+          "page": "167"
+        },
+        {
+          "page": "147"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/nj/129/0141-01"
+      ]
+    },
+    {
+      "cite": "92 L.Ed. 649",
+      "category": "reporters:federal",
+      "reporter": "L. Ed.",
+      "year": 1948,
+      "opinion_index": 0
+    },
+    {
+      "cite": "333 U.S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        6157820
+      ],
+      "weight": 2,
+      "year": 1948,
+      "pin_cites": [
+        {
+          "page": "212"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/333/0203-01"
+      ]
+    },
+    {
+      "cite": "397 U.S. 664",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12058013
+      ],
+      "weight": 3,
+      "year": 1970,
+      "pin_cites": [
+        {
+          "page": "668"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/397/0664-01"
+      ]
+    },
+    {
+      "cite": "521 U.S. 203",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        915883
+      ],
+      "weight": 3,
+      "year": 1997,
+      "pin_cites": [
+        {
+          "page": "233"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/521/0203-01"
+      ]
+    },
+    {
+      "cite": "530 U.S. 290",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        9413732
+      ],
+      "weight": 3,
+      "year": 2000,
+      "pin_cites": [
+        {
+          "page": "314",
+          "parenthetical": "internal quotation marks and citations omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and citations omitted"
+        },
+        {
+          "parenthetical": "internal quotation marks and citations omitted"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/530/0290-01"
+      ]
+    },
+    {
+      "cite": "91 S.Ct. 2135",
+      "category": "reporters:federal",
+      "reporter": "S. Ct.",
+      "year": 1971,
+      "opinion_index": 0
+    },
+    {
+      "cite": "N.Y. Agrie. & Mkts. \u00a7 201",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "455"
+        },
+        {
+          "page": "458"
+        },
+        {
+          "page": "459"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "403 U.S. 602",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        12027402
+      ],
+      "weight": 11,
+      "year": 1971,
+      "pin_cites": [
+        {
+          "page": "612"
+        },
+        {
+          "page": "612-13"
+        },
+        {
+          "page": "614"
+        },
+        {
+          "page": "612"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/403/0602-01"
+      ]
+    },
+    {
+      "cite": "106 F.Supp.2d 445",
+      "category": "reporters:federal",
+      "reporter": "F. Supp. 2d",
+      "case_ids": [
+        11198091
+      ],
+      "weight": 4,
+      "pin_cites": [
+        {
+          "page": "459"
+        },
+        {
+          "page": "452"
+        },
+        {
+          "page": "454-55, 457"
+        },
+        {
+          "page": "454-55"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp-2d/106/0445-01"
+      ]
+    },
+    {
+      "cite": "441 N.Y.S.2d 346",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.2d",
+      "pin_cites": [
+        {
+          "page": "348"
+        }
+      ],
+      "opinion_index": 0
+    },
+    {
+      "cite": "109 Misc.2d 1088",
+      "category": "reporters:state",
+      "reporter": "Misc. 2d",
+      "case_ids": [
+        779625
+      ],
+      "pin_cites": [
+        {
+          "page": "1090"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/misc2d/109/1088-01"
+      ]
+    },
+    {
+      "cite": "130 N.E. 921",
+      "category": "reporters:state_regional",
+      "reporter": "N.E.",
+      "opinion_index": 0
+    },
+    {
+      "cite": "230 N.Y. 629",
+      "category": "reporters:state",
+      "reporter": "N.Y.",
+      "case_ids": [
+        294358,
+        294327
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ny/230/0629-02",
+        "/ny/230/0629-01"
+      ]
+    },
+    {
+      "cite": "170 N.Y.S. 834",
+      "category": "reporters:state",
+      "reporter": "N.Y.S.",
+      "weight": 2,
+      "year": 1918,
+      "opinion_index": 0
+    },
+    {
+      "cite": "183 A.D. 595",
+      "category": "reporters:state",
+      "reporter": "A.D.",
+      "case_ids": [
+        5411206
+      ],
+      "weight": 2,
+      "year": 1918,
+      "pin_cites": [
+        {
+          "page": "597"
+        },
+        {
+          "page": "596"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/ad/183/0595-01"
+      ]
+    },
+    {
+      "cite": "986 F.Supp. 153",
+      "category": "reporters:federal",
+      "reporter": "F. Supp.",
+      "case_ids": [
+        65383
+      ],
+      "weight": 2,
+      "pin_cites": [
+        {
+          "page": "156"
+        }
+      ],
+      "opinion_index": 0,
+      "case_paths": [
+        "/f-supp/986/0153-01"
+      ]
+    },
+    {
+      "cite": "312 U.S. 496",
+      "category": "reporters:federal",
+      "reporter": "U.S.",
+      "case_ids": [
+        359292
+      ],
+      "weight": 3,
+      "year": 1941,
+      "opinion_index": 0,
+      "case_paths": [
+        "/us/312/0496-01"
+      ]
+    },
+    {
+      "cite": "N.Y. Agrie. & Mkts. Law \u00a7\u00a7 201",
+      "category": "laws:leg_act",
+      "reporter": "N.Y.",
+      "weight": 17,
+      "opinion_index": 0
+    }
+  ],
+  "analysis": {
+    "cardinality": 1845,
+    "char_count": 52630,
+    "ocr_confidence": 0.662,
+    "pagerank": {
+      "raw": 4.049060030706994e-07,
+      "percentile": 0.9076863168470439
+    },
+    "sha256": "5360e5d98b606c72d9c8a13caebddb2502d361c9105f083945942e1052c54883",
+    "simhash": "1:3acfc692cb8616af",
+    "word_count": 8287
+  },
+  "last_updated": "2024-02-27T17:41:49.320961+00:00",
+  "provenance": {
+    "date_added": "2019-08-29",
+    "source": "Harvard",
+    "batch": "2018"
+  },
+  "casebody": {
+    "judges": [
+      "Before MINER, LEVAL, and POOLER, Circuit Judges."
+    ],
+    "parties": [
+      "COMMACK SELF-SERVICE KOSHER MEATS, INC., d/b/a Commack Kosher, Brian Yarmeisch and Jeffrey Yarmeisch, Plaintiffs-Appellees, v. Rabbi Luzer WEISS, as Director of the Kosher Law Enforcement Division of The New York State Department of Agriculture and Markets, Defendant-Appellant, Hon. Sheldon Silver, Abe Alper, Jon Greenfield, Jack Lee, Rabbi Moshe Portnoy, Richard Schwartz, Agudath Harabonim of the United States and Canada, Agudath Israel of America, National Council of Young Israel, Rabbinical Alliance Of America, Rabbinical Council of America, Torah Umesorah National Society of Hebrew Day School and Union of Orthodox Jewish Congregations of America, Intervenors-Defendants-Appellants."
+    ],
+    "opinions": [
+      {
+        "text": "MINER, Circuit Judge.\nThe word \u201ckosher\u201d has been part of the vernacular for some time as a synonym for correct, genuine, or legitimate. See 8 Oxford English Dictionary 758 (1971). Its original meaning, however, lies in the centuries-old Jewish law of kashrut, the Hebrew noun from which \u201ckosher\u201d is derived. Kashrut encompasses the entire body of rules relating to foods that may be consumed as well as to the preparation of such foods. The Hebrew National company, a well-known purveyor of kosher hot dogs and other kosher food products, has long marketed its goods with the slogan, \u201c[w]e answer to a higher authority.\u201d Hebrew National, http://www.hebrewnational.com/. In New York, the principal authority to which it answers is the State\u2019s Department of Agriculture and Markets, which is charged with the enforcement of the New York statutes prohibiting intentional fraud in the sale of kosher food. Whether those statutes are violative of the First Amendment command that \u201c[the States] shall make no law respecting an establishment of religion,\u201d is the question before us on this appeal.\nDefendant-appellant Rabbi Luzer Weiss, Director of the Kosher Law Enforcement Division of the New York State Department of Agriculture and Markets (\u201cthe Department\u201d), and intervenors-defendants-appellants appeal from a summary judgment entered in the United States District Court for the Eastern District of New York (Gershon, J.) declaring that New York Agriculture & Markets Law sections 201-a, 201-b(l), 201-c,'201-e (2-a) and (3-c), 201-f, 201-h, and 26-a (\u201cthe challenged laws\u201d) on their face violate the Establishment Clause of the First Amendment, and enjoining the Department from enforcing those provisions. The challenged laws are some of New York\u2019s statutory provisions aimed at preventing fraud in the kosher food industry. Plaintiffs-appellees are Commack Self-Service Kosher Meats, Inc., d/b/a Commack Kosher, an entity in Com-mack, Long Island engaged in the meat business, and its owners, Brian and Jeffrey Yarmeisch (collectively, \u201cthe Yarmeisch-es\u201d). Over the last sixteen years, the Yar-meisches have been cited for violations of New York\u2019s kosher fraud laws on at least four occasions.\nIn January 1996, the Yarmeisches brought this action, claiming that the challenged laws violate the Establishment Clause of the First Amendment by defining \u201ckosher\u201d to mean food that is \u201cprepared in accordance with the orthodox Hebrew religious requirements.\u201d See, e.g., N.Y. Agrie. & Mkts. Law \u00a7\u00a7 201-a(l), 201-b(l) (McKinney 1991). The Yar-meisches also asserted a free exercise claim in which they contended that the challenged laws deprive non-Orthodox Jewish consumers of kosher food products of their First Amendment right to the free exercise of religion. Additionally, the Yar-meisches claimed that the challenged laws are unconstitutionally vague in violation of due process, and that, by reason of their irregular and arbitrary enforcement, they violate due process as applied. Lastly, the Yarmeisches sought to enjoin the Department from disseminating information concerning future violations of the challenged laws until after an alleged offender is prosecuted and found guilty. After both sides moved for summary judgment, the district court granted the Yarmeisches\u2019 motion, holding that the challenged laws on their face violate the Establishment Clause. The court found that (1) the challenged laws excessively entangle the state and religion because, in order to be enforced, the laws require the Department to refer to \u201corthodox Hebrew religious requirements,\u201d and (2) the laws have the impermissible effect of advancing Orthodox Judaism by requiring vendors of food products labeled \u201ckosher\u201d to conform to Orthodox kosher standards and thereby cause consumers of such products to purchase only products that are kosher under the Orthodox definition.\nFor the reasons that follow, we affirm.\nBACKGROUND\n1. The Facts\nThe Yarmeisches received their first civil citation for transgressing New York\u2019s kosher fraud laws following an inspection of their store by the Department on July 10, 1986. The Department\u2019s inspector, Max Goldgrab, seized for testing a package of veal spareribs that was labeled \u201csoaked and salted.\u201d The Department\u2019s analysis revealed that \u201cselected surface tissues [of the spareribs] do not contain added salt\u201d and thus that Commack Kosher was in violation of New York\u2019s kosher fraud laws. In a letter responding to the citation, the Yarmeisches claimed that Commack Kosher \u201chas always soaked and salted all the meats that state that they are soaked and salted. If this does not meet with the Hebrew orthodox religious requirements we need to know what the analysis was and what the standards should be.\u201d Despite this assertion, the Yarmeisches did not formally challenge the violation and paid a civil penalty fine in the amount of $600.\nThe Department inspected Commack Kosher again on January 7, 1987, and found another violation of New York\u2019s kosher fraud laws. This time the Department seized \u201ctwo ... packages of beef chuck side steaks,\u201d each of which was marked \u201csoaked and salted.\u201d The Department\u2019s \u201claboratory analysis did not reveal a significantly greater salt content in the outside surface of the steak than in the inside.\u201d The Department asserted that \u201c[h]ad the steak been properly soaked and salted[,] ... the analysis would have indicated that the outside surface of the steak ... had a measurably higher salt content than the inner part of the meat.\u201d The Department therefore concluded that \u201c[t]he defendant\u2019s steak was not soaked and salted according to orthodox Hebrew religious requirements and was improperly offered for sale and represented as such.\u201d Accordingly, the Department alleged violations of New York Agriculture and Markets Law section 201-a(l), which prohibits the sale of any food product represented to be \u201ckosher\u201d that has not been prepared \u201cin accordance with the orthodox Hebrew religious requirements,\u201d as well as section 201~c(l), which contains a similar prohibition. N.Y. Agrie. & Mkts. Law \u00a7\u00a7 201-a(l), 201-c(l). The Yarmeisches responded to the claimed violations in a letter dated April 29, 1987, which contained the following explanation of their soaking and salting method:\nWe take the side steak with the top and bottom fat left on the meat and soak it in water for one half hour, salt for one hour, and then rinse thoroughly. We then proceed to remove the fat and then face the meat (remove dark meat before packaging).\nThis is the procedure for all meat that is labeled soaked and salted, all of which is done under the direction of Rabbi Ber-man who has been supervising this establishment for approximately five years.\nRabbi Berman is a rabbi who adheres to the teachings of the Conservative branch of Judaism. The Yarmeisches\u2019 letter further explained that they believed their procedures for soaking and salting were in accordance with kosher requirements and requested that the Department \u201cexplain how [any problem with their procedures] can be rectified.\u201d The Department did not directly respond to their inquiry, but instead filed a verified civil complaint against the Yarmeisches. Ultimately, the Yar-meisches paid a $800 civil penalty fine as punishment for the 1987 violation.\nAfter a third inspection of Commack Kosher in April 1988, the Department quarantined lamb tongues on the ground that the tongues had not been properly soaked and salted. The specific allegation of wrongdoing was that the tongues were found soaking in a solution of salt water, which \u201cis improper preparation [that] rendered] the tongues irreversibly non \u201ckosher\u201d \u201d. The Yarmeisches challenged the Department\u2019s decision, stating that the tongues were properly soaked and salted as certified by their supervising rabbi. The Department countered with a letter to the Yarmeisches claiming that, in any event, the tongues had not been properly deveined in accordance with Orthodox Hebrew requirements. The Yarmeisches state that this charge is still pending, while the Department says that it considers the case closed and, if any charges are still pending, it will have them dismissed.\nThe Department inspected Commack Kosher again on February 22, 1998. A month later, the Department informed the Yarmeisches that by \u201coffering for sale poultry as kosher without the required markings on labels \u2018soaked and salted\u2019 or \u2018not soaked and salted,\u2019 \u201d the Yarmeisches had violated New York Agriculture and Markets Law section 201-a(2). The Department\u2019s letter directed the Yarmeisches to submit payment of a civil penalty in the amount of $11,100 within fifteen days to avoid the initiation of court proceedings against them. The Yarmeisches disputed the Department\u2019s allegations and claimed that, at the time of inspection, the poultry at issue had not been offered to the public for sale. The Department eventually withdrew the assessed violation.\nII. Procedural History\nOn January 16, 1996, about three years after their last assessed violation, the Yar-meisches brought this action against the Department in the United States District Court for the Eastern District of New York. They amended their complaint on April 15, 1996. The Yarmeisches claimed that by defining \u201ckosher\u201d to mean food that is \u201cprepared in accordance with orthodox Hebrew religious requirements,\u201d New York\u2019s kosher fraud laws violate the Establishment Clause. The Yarmeisches also brought free exercise and equal protection claims based on the allegation that the challenged laws equate \u201ckosher\u201d with \u201corthodox Hebrew religious requirements.\u201d Additionally, the Yarmeisches claimed that the challenged laws are unconstitutionally vague in violation of due process because they fail to define \u201corthodox Hebrew religious requirements.\u201d Arguing that the challenged laws fail to provide for proper training of state inspectors with respect to koshering, therefore leading to \u201cirregular, arbitrary and capricious ... inspection of kosher facilities by the Kosher Law Enforcement Division,\u201d the Yarmeisches claimed that, as applied, the challenged laws violate their due process rights. Finally, the Yarmeisches sought to enjoin the Department from disseminating information concerning future violations of the challenged laws to the public until after an alleged offender is prosecuted and found guilty, because to do otherwise violates due process and causes irreparable harm.\nOn October 18, 1996, the Department sought by motion to have the district court abstain from resolving the Yarmeisches\u2019 claims pursuant to Railroad Commission of Texas v. Pullman Co., 312 U.S. 496, 61 S.Ct. 643, 85 L.Ed. 971 (1941). In its motion, the Department, in a contention abandoned on appeal, claimed that the meaning of \u201ckosher\u201d under the challenged laws was an unresolved issue of New York law, and thus that the court should refrain from ruling on the laws\u2019 constitutionality. In an opinion and order dated December 15, 1997, the district court denied the motion because \u201c[t]he statutory provisions at issue in this case have been interpreted for decades as equating \u2018kosher\u2019 with \u2018prepared in accordance with orthodox Hebrew religious requirements.\u2019 \u201d Commack Self-Service Kosher Meats v. Rubin, 986 F.Supp. 153, 156 (E.D.N.Y.1997). The court based its finding on numerous decisions of New York courts dating as far back as 1918. See id. (citing People v. Atlas, 183 A.D. 595, 597, 170 N.Y.S. 834 (1st Dep\u2019t 1918), aff'd, 230 N.Y. 629, 130 N.E. 921 (mem.) (1921) (noting that \u201ckosher\u201d in the then-existing kosher fraud laws was used \u201cevidently in the ordinary sense in which it is used in the trade, which is to designate meat as having been prepared under ... the orthodox Hebrew requirements\u201d), and State v. Glassman, 109 Misc.2d 1088, 1090, 441 N.Y.S.2d 346, 348 (County Ct.1981) (\u201cThe issue in this case is whether the defendants \u2018with intent to defraud\u2019 represented that their frankfurters and salami were Kosher when in fact [they were not because they were] not prepared in accordance with the Orthodox Hebrew religious requirements.\u201d)).\nThe Yarmeisches moved for preliminary injunctive relief on June 9, 1998. On June 18, 1998, the district court denied the motion, but the parties agreed on the record that the Yarmeisches would be notified of any alleged violations of the challenged laws prior to the release of that information to the public. After the completion of discovery, on March 1, 1999, the interve-nors moved for summary judgment on the first six claims in the Yarmeisches\u2019 complaint, each of which attacked the challenged laws on their face. The Department moved for summary judgment on all the claims on June 7, 1999. Also on June 7, 1999, the Yarmeisches filed a cross-motion for summary judgment on all claims.\nIn an opinion and order dated July 28, 2000, the district court granted the Yar-meisches\u2019 motion and declared that \u201cN.Y. Agrie. & Mkts. Law \u00a7\u00a7 201-a, 201 \u2014 b(l), 201-c, 201-e(2 a) and (3-c), 201-f, 201-h and 26-a, on their face violate the Establishment Clause and are therefore unconstitutional.\u201d Commack Self-Service Kosher Meats, Inc. v. Rubin, 106 F.Supp.2d 445, 459 (E.D.N.Y.2000). The court began its analysis by explaining that New York\u2019s kosher fraud laws equate \u201ckosher\u201d with \u201cprepared in accordance with orthodox Hebrew religious requirements,\u201d rejecting for a second time the Department\u2019s contention that the laws are merely registration statutes that impose no \u25a0 definition of \u201ckosher.\u201d Id. at 452. The court then turned to an evaluation of the challenged laws under the test outlined in Lemon v. Kurtzman, 403 U.S. 602, 91 S.Ct. 2105, 29 L.Ed.2d 745 (1971). The court held the challenged laws unconstitutional because they create an excessive entanglement between the State and religion and imper-missibly advance religion.\nIn the district court\u2019s view, the challenged laws create an excessive entanglement because enforcement of the laws requires reference to religious tenets not contained in the statute. See Commack Self-Service, 106 F.Supp.2d at 454-55, 457. The court did not find an excessive entanglement \u201csimply because [the challenged laws] use a word of religious significance,\u201d but rather because \u201cthey require the sponsorship, financial support and active involvement of New York State in the daily monitoring of the compliance of vendors of kosher products with a set of religious dietary laws, which are incorporated by reference into the Challenged Laws.\u201d Id. at 454-55. Moreover, the court explained that \u201c[e]ven where the Challenged Laws describe some specific procedures that must be followed before a product may properly be called kosher, the procedures refer back to orthodox Hebrew religious requirements; for example, meat \u2018shall be washed in accordance with orthodox Hebrew religious requirements ... by a duly ordained orthodox rabbi or by a person authorized by him.\u2019 N.Y. Agrie. & Mkts. \u00a7 201-f.\u201d Id. at 455.\nAdditionally, the district court held that the challenged laws represent an impermissible state advancement of religion because (1) they require \u201cstate officials ... [to] enforc[e] a set of religious laws,\u201d id. at 458, and (2) the incorporation of Orthodox kosher standards \u201ccreates an impermissible symbolic union of church and state,\u201d id. at 459.(internal quotation marks omitted). The district court therefore held that the challenged laws on their face violate the Establishment Clause and, accordingly, did not address the Yarmeisches\u2019 other claims. The district court\u2019s judgment was entered on July 31, 2000, declaring the challenged laws unconstitutional and permanently enjoining the Department from enforcing them. This appeal followed.\nDISCUSSION\nI.New York\u2019s Kosher Fraud Statutes\nIn 1915, the New York legislature added to a penal statute prohibiting false labeling, a provision that was designed \u201cto prevent and punish fraud in the sale of [kosher] meats or [kosher] meat preparation.\u201d Atlas, 183 A.D. at 596, 170 N.Y.S. 834. New York\u2019s kosher fraud statutes presently are contained in Article 17 of the State\u2019s Agriculture and Markets Law entitled \u201cAdulteration, Packing, and Branding of Food and Food Products.\u201d Article 17 includes a number of provisions relating to various food items. Section 199-a(l) of Article 17 generally prohibits the sale of \u201cany article of food which is adulterated or misbranded.\u201d This case involves a constitutional challenge to the provisions of New York\u2019s kosher fraud laws that define \u201ckosher\u201d as \u201cprepared in accordance with orthodox Hebrew religious requirements,\u201d mandate adherence to those requirements, or are integral to the State\u2019s enforcement of such requirements. Those provisions are sections 201-a, 201 \u2014 b(l), 201-e, 201-e(2-a) and (3 \u2014 c), 201-f, 201-h, and 26-a.\nSection 201-a provides that:\n1. A person who, with intent to defraud, sells ... any ... article of food ... and falsely represents the same to be kosher or kosher for Passover ... or as having been prepared under ... the orthodox Hebrew religious requirements ... is guilty of a class A misdemeanor, except that ... provided said meat or meat preparations in violation has a retail value in excess of five thousand dollars, [a person] is guilty of a class E felony....\n2. All fresh meats, meat by-products, meat food products and poultry offered for sale at retail as kosher shall be marked on the label when packaged or by a sign when not packaged, with the words \u201csoaked and salted\u201d or \u201cnot soaked and salted\u201d as the case may be. Such words when marked on the label or by a sign shall be in letters at least as large as the letters of the words on the label or sign designating such meat, meat by-products, meat food products and poultry as kosher.\n3. Fresh meat, meat by-products, meat food products and poultry shall be defined as meat or poultry that has not been processed, except for salting and soaking. '\n4. Every person who sells or exposes for sale, at wholesale or retail, any kosher meat ... or poultry shall retain all records with respect to the origin of such kosher meat ... or poultry....\nN.Y. Agrie. & Mkts. Law \u00a7 201-a.\nSection 201 \u2014 b(l) is identical to section 201-a(l) except that it applies to the sale of food products in hotels and restaurants. Section 201-c, entitled \u201cFraudulent identification of food and food products,\u201d provides that no person shall \u201c[w]ilfully mark ... as kosher, or as kosher-style, or as having been prepared in accordance with the Hebrew orthodox religious requirements food or food products not kosher or not so prepared.\u201d Id. \u00a7 201-c(l). Section 201-c(2) prohibits the defacement or alteration of labels affixed to food products to indicate that they are \u201ckosher or have been prepared in accordance with the Hebrew orthodox religious requirements.\u201d Id. \u00a7 201-c(2). Section 201-c(3) forbids the sale, possession, or disposal of (1) any food product without its original slaughterhouse label, or (2) any food product to which such label has been fraudulently affixed. Id. \u00a7 201 \u2014 c(3).\nSection 201-e(2 a) provides that \u201c[i]n the event that non-prepackaged fresh meat or poultry is sold and delivered off-premises as Kosher the meat or poultry and the bill of sale, if any, rendered at the time of delivery shall have affixed to them a label or the printed words \u2018not soaked and salted\u2019 or \u2018soaked and salted' as the case may be.\u201d Id. \u00a7 201-e(2-a). Section 201-e(3-c) requires slaughterhouses that sell kosher food products to maintain records \u201cregarding the time, place, date, person or.organization supervising the slaughter of [an] animal and the number of animals slaughtered in accordance with orthodox.Hebrew religious requirements.\u201d Id. \u00a7 201-e(3 c).\nSection 201-f, captioned \u201cKosher meat or poultry,\u201d provides that:\n1. All meat or poultry which is sold ... and is represented as having been prepared in accordance with orthodox Hebrew religious requirements and which has not been soaked and salted immediately after slaughter on the premises where slaughtered:\n(a) shall have affixed to it a tag or plumba stating the date and time of day ... of slaughter; and\n(b) shall be washed in accordance with orthodox Hebrew religious requirements within seventy-two hours after slaughter, and within each subsequent seventy-two hour period, by a duly ordained orthodox rabbi or by a person authorized by him....\n2. No person shall- sell, offer or expose for sale any meat or poultry which is represented as having been prepared in accordance with orthodox Hebrew religious requirements, unless such meat or poultry is in compliance with subdivision one of this section.\n3. For purposes of this section:\n(a) [defining \u201cmeat\u201d]\n(b) [exempting liver from 1(b) ]\n4. All kosher poultry in the form of the whole bird shall be tagged with a plumba identifying it as kosher. Whole birds shall be so tagged at the original slaughterhouse.\n5.The commissioner shall promulgate rules and regulations as are necessary to implement the provisions of this section, including but not limited to, the type of kosher identification to be affixed to each of the parts of such meat and poultry.\nId. \u00a7 201-f.\nSection 201-h prohibits the \u201clabeling of] food or food products with the words parve or pareve or in any way ... indicating] that the food or food product may be used or consumed indiscriminately with meat, poultry or dairy products according to Orthodox-Hebrew requirements when such food or food products are impermissible for such use or consumption.\u201d Id. \u00a7 201-h.\nLastly, section 26-a establishes a nine-person advisory board on kosher law enforcement within the Department. The advisory board\u2019s members are appointed by the commissioner of the Department. The advisory board\u2019s role under the statute is\nto advise, counsel and confer with the commissioner on matters of policy in connection with the administration and enforcement of [the kosher fraud] laws ..., to consider all matters submitted to it by the commissioner, and on its own initiative to recommend to the commissioner such changes in the [kosher fraud] laws ... as may be deemed advisable ... and, with the consent of the commissioner, to submit for enactment by the legislature such draft or drafts of legislation imposing such further restrictions on the possession, sale and exposure for sale of kosher meats, meat preparations and food products, as may be deemed necessary.\nid. \u00a7 26-a(4).\nThe provisions outlined here are not all of New York\u2019s kosher fraud laws, but only those challenged by the Yarmeisches and held unconstitutional by the district court.\nII. The Lemon Test\nAs the Supreme Court has recently reiterated, in \u201ccases involving facial challenges on Establishment Clause grounds, ... we assess the constitutionality of an enactment by reference to the three factors first articulated in Lemon v. Kurtzman, 403 U.S. 602, 612, 91 S.Ct. 2135, 29 L.Ed.2d 745 (1971).\u201d Santa Fe Ind. Sch. Dist. v. Doe, 530 U.S. 290, 314, 120 S.Ct. 2266, 147 L.Ed.2d 295 (2000) (internal quotation marks and citations omitted). The Lemon factors require that a challenged law (1) have a valid secular purpose; (2) have a primary effect that neither advances nor inhibits religion; and (3) not foster excessive state entanglement with religion. 403 U.S. at 612-13, 91 S.Ct. 2105. We treat the excessive entanglement prong as a part of our \u201cinquiry into a statute\u2019s effect.\u201d Agostini v. Felton, 521 U.S. 203, 233, 117 S.Ct. 1997, 138 L.Ed.2d 391 (1997). We find the challenged laws do not pass constitutional muster under the Lemon test because they have a primary effect that both advances and inhibits religion.\nA. The Entanglement Factor\nHere the entanglement of the State and religious authorities is extensive and contributes to a primarily religious effect. The Supreme Court has explained that the Framers understood the First Amendment\u2019s prohibition on laws \u201crespecting an establishment of religion\u201d to preclude government \u201csponsorship [of religion], financial support [for religion], [or the] active involvement of the sovereign in religious activity,\u201d Walz v. Tax Commission, 397 U.S. 664, 668, 90 S.Ct. 1409, 25 L.Ed.2d 697 (1970). Like the Establishment Clause generally, the prohibition on excessive government entanglement with religion \u201crests upon the premise that both religion and government can best work to achieve their lofty aims if each is left free from the other within its respective sphere.\u201d Illinois ex rel. McCollum v. Bd. of Educ., 333 U.S. 203, 212, 68 S.Ct. 461, 92 L.Ed. 649 (1948).\nIt appears to us that the challenged laws excessively entangle government and religion because they (1) take sides in a religious matter, effectively discriminating in favor of the Orthodox Hebrew view of dietary requirements; (2) require the State to take an official position on religious doctrine; and (3) create an impermissible fusion of governmental and religious functions by delegating civic authority to individuals apparently chosen according to religious criteria.\nThe Department argues that the challenged laws do not excessively entangle the government with religion because \u201cno one disputes the meaning of the term \u2018kosher.\u2019\u201d There is ample evidence in the record to support the opposite conclusion. In a guide to observance of Jewish dietary law, published by the United Synagogue Commission on Jewish Education, author Samuel H. Dresner notes that\n[o]ver the years and in varying locales, rabbinic authorities' differed in their interpretations of specific laws [of kashrut ].... To cite a famous example: Sephardic Jews eat rice and legumes on Passover; Ashkenazic Jews do not. Ashkenazic Jews, by and large, do not eat the hindquarters of beef; Sephardic Jews do.\nSome of the decisions [regarding the laws of kashrut ] recorded [in this book] are not accepted by all authorities on Jewish law, notably decisions about wine, cheese, gelatin, swordfish and sturgeon. This is not a novel situation in the history of Jewish law. There have always been disagreements on various points.\nSamuel H. Dresner, The Jewish Dietary Laws 55-56 (1982).\nThe New Jersey Supreme Court, in striking down its state\u2019s kosher fraud laws as violative of the Establishment Clause, also rejected the State of New Jersey\u2019s claim that there is a consensus among the branches of Judaism regarding the proper standards for the preparation and sale of kosher food products: \u201c[T]here is considerable disagreement over what precepts or tenets truly represent the laws of kashrut. There are differences of opinion concerning the application and interpretation of the laws of kashrut both within Orthodox Judaism and between Orthodox Judaism and other branches of Judaism.\u201d Ran-Dav\u2019s County Kosher v. New Jersey, 129 N.J. 141, 147, 608 A.2d 1353 (1992) (citing Herman Wouk, This Is My God (1959), reprinted in The Life of Torah 98-99 (Jacob Neusner ed.1974); Rabbi Hayim Halevy Donin, To Be a Jew 102-04, 112-19 (1972); Rabbi J. David Bleich, Contemporary Halakie Problems 84-92 (1977)). For example, Orthodox Jews of the Se-phardic sect adhere to \u201cglatt\u201d kosher standards that are more stringent than those followed by other Orthodox Jews. Raphael Poliakoff, What Is Glatt Kosher?, Kashrus Newsletter, vol. 1, no. 5. As between different branches of Judaism, \u201cConservative and Orthodox rabbis differ sharply on many ... issues\u201d such as the kosher status of wine, cheese, sturgeon, and swordfish. Mark A. Berman, Kosher Fraud Statutes and the Establishment Clause: Are They Kosher?, 26 Col. J.L. & Soc. Probls. 1, 8 (1992). It is also widely recognized that \u201cthe strain between all three denominations [Orthodox, Conservative, and Reform] has increased in recent years.\u201d Id.\nWe find it indisputable that there are differences of opinion within Judaism regarding the dietary requirements of kash-rut. As a result, because the challenged laws interpret \u201ckosher\u201d as synonymous with the views of one branch, those of Orthodox Judaism, the State has effectively aligned itself with one side of an internal debate within Judaism. This it may not do. As the Supreme Court has stated: \u201cWhatever else the Establishment Clause may mean[,] ... it certainly means at the very least that government may not demonstrate a preference for one particular sect or creed.\u201d County of Allegheny v. ACLU Greater Pittsburgh Chapter, 492 U.S. 573, 605, 109 S.Ct. 3086, 106 L.Ed.2d 472 (1989). See also Larson, 456 U.S. at 244, 102 S.Ct. 1673 (\u201cThe clearest command of the Establishment Clause is that one religious denomination cannot be officially preferred over another.\u201d); Epperson v. Arkansas, 393 U.S. 97, 104, 89 S.Ct. 266, 21 L.Ed.2d 228 (1968) (\u201c[Government] may not aid, foster, or promote one religion or religious theory against another.\u201d); Everson v. Bd. of Educ., 330 U.S. 1, 15, 67 S.Ct. 504, 91 L.Ed. 711 (1947) (noting that the Establishment Clause prohibits passage of laws that \u201caid one religion, aid all religions, or prefer one religion over another\u201d). Thus, we find that the challenged laws\u2019 preference for the views of one branch of Judaism excessively entangles the State with religion in violation of the Establishment Clause.\nThe challenged laws also excessively entangle the State with religion because they require New York to adopt an official State position on a point of religious doctrine. The Department argues that this is not so for two reasons. First, the Department claims that the challenged laws \u201cmerely incorporate established trade standards that require the State to verify objective physical characteristics of food and whether food has been prepared or handled in certain ways.\u201d Second, the Department asserts that the \u201cintent to defraud\u201d requirement of the challenged laws eliminates the possibility that it will need to refer to religious authorities in enforcement proceedings. Because \u201cthe Department focuses primarily on ascertaining a vendor\u2019s basis for his or her good faith belief that the product being offered for sale is kosher,\u201d there is no \u201cneed [for the Department] to independently determine whether a product complies with kosher trade standards.\u201d We are unpersuaded by these contentions.\nIn order to assert that a food article does not conform to kosher requirements, New York must take an official position as to what are the kosher requirements. In doing so, the Department must either interpret religious doctrine or defer to the interpretations of religious officials in reaching its official position. The State thus impermissibly \u201cweigh[s] the significance and the meaning of disputed religious doctrine,\u201d Presbyterian Church in the U.S. v. Mary Elizabeth Blue Hull Mem\u2019l Presbyterian Church, 393 U.S. 440, 452, 89 S.Ct. 601, 21 L.Ed.2d 658 (1969) (Harlan, J., concurring), or \u201cemploy[s] religious organizations as an arm of the civil [government] to perform the function of interpreting and applying state standards,\u201d id. at 451, 89 S.Ct. 601.\nTo illustrate, in response to their third citation, the Yarmeisches filed a demand for a bill of particulars, requesting that the State set forth in detail certain Orthodox Hebrew religious requirements for kosher food preparation. In order to respond to this demand, State officials corresponded with various Department officials seeking information regarding the proper koshering requirements. For example, a letter sent by Earl S. Roberts, Assistant Attorney General, to Michael McCormick, Assistant Counsel for the Department, requested assistance in responding to the Yarmeisches\u2019 demand and instructed McCormick that \u201c[t]he [b]ill [of particulars] should describe briefly each requirement of the kosherizing, i.e. deveining, soaking, salting, and rinsing and identify the code of Jewish Law (Shulhan Arueh) by the tractate and sections which set forth these requirements in full detail.\u201d\nAnother letter, from Aaron Levine, a kosher food inspector with the Department, to Joan A. Kehoe, Counsel for the Department, set forth the relevant sections and chapters of Yoreh Deah, a book of Jewish laws, corresponding to the Yar-meisches\u2019 requests for more information regarding the kosher violations alleged against them in the verified complaint. Additionally, there are letters from Rabbi Rubin, an Orthodox rabbi who was then Director of the Division of Kosher Law Enforcement, clarifying various points raised by the Yarmeisches\u2019 demand. For example, one letter from \u25a0 Rabbi Rubin to Kehoe explains -that \u201c[i]f members of the legal community, whether in Agriculture or the Attorney General\u2019s office, want us to trace the origin of (halacha) Jewish law, they should re-phrase their question and ask where in the [16th century] codes of Jewish law is a particular law found,\u201d rather than earlier biblical or Talmudic sources.\nThe draft bill of particulars prepared by New York State in response to the Yarmeisches\u2019 request contains the following: \u25a0\n1) Veins that contain forbidden blood have to be removed [as] indicated in Section 65, chapter 1 through 5, referred to as laws for removing veins of forbidden blood (Yore Dayah) located in Shul-han Aruch.\nlb) Law of soaking and salting are in Shulhan Aruch (Yore Dayah chapter 1 through 21).\n3a) One blood vein on either side of a tongue has to be removed and the tip of a tongue has to be removed.\nThe Yarmeisches demand for a bill of particulars merely made more obvious a fact that would have been true even without the demand for a bill of particulars. The State authorities could not make a determination that the Yarmeisches\u2019 meat did not conform to kosher requirements without first having arrived at an official position on what the kosher requirements are. To do so excessively entangles the State with religion. See Presbyterian Church, 393 U.S. at 451-52, 89 S.Ct. 601.\nWe also find that the challenged laws fail the excessive entanglement inquiry because they run afoul of \u201cthe core rationale underlying the Establishment Clause[, which] is preventing \u2018a fusion of governmental and religious functions.\u2019 \u201d Larkin, 459 U.S. at 126, 103 S.Ct. 505 (quoting School District of Abington Township v. Schempp, 374 U.S. 203, 222, 83 S.Ct. 1560, 10 L.Ed.2d 844 (1963)). This prohibition is violated not only by the requirement that the State adopt an official position on a matter of religious doctrine, but also by the existence and activities of the Advisory Board.\nSection 26-a of the Agriculture and Markets Law establishes an \u201cadvisory board on kosher law enforcement\u201d that is required by statute \u201cto advise, counsel and confer\u201d with the Department commissioner on \u201cmatters of policy in connection with the administration and enforcement\u201d of the kosher fraud laws, \u201cand on its own initiative to recommend to the commissioner such changes in the [kosher fraud] laws or rules[,] ... and with the consent of the commissioner, to submit for enactment by the legislature such ... legislation ... as may be' deemed necessary.\u201d N.Y. Agrie. & Mkts. Law \u00a7 26-a(4).\nThe Department argues that the existence and activities of the Advisory Board do not conflict with the Establishment Clause because there is \u201ca complete absence of any Board involvement in enforcement activities.\u201d The Board is granted extremely broad powers \u201cto advise, counsel, and confer\u201d with the Department commissioner on policy matters related to enforcement issues and even to draft and submit proposed legislation. We therefore do not find to be wholly accurate the Department\u2019s contention that there is a \u201ccomplete absence\u201d of Board involvement with enforcement of the challenged laws. Although members of the Board do not directly participate in enforcement activities such as the actual inspection of kosher food establishments, issuance of citations, or pursuit of court action against alleged violators, we decline to take such a narrow view of the Board\u2019s involvement with enforcement of the challenged laws. To conclude otherwise, would be to exalt form over substance in light of the broad powers granted to the Board that substantially affect enforcement of the challenged laws.\nWhile we acknowledge that \u201csome limited and incidental entanglement between church and state authority is inevitable in a complex modern society,\u201d Larkin, 459 U.S. at 123, 103 S.Ct. 505, \u201c[w]here \u2018fusion\u2019 [of governmental and religious authority] is an issue, the difference lies in the distinction between a government\u2019s purposeful delegation on the basis of religion and a delegation on principles neutral to religion, to individuals whose religious identities are incidental to their receipt of civic authority.\u201d Grumet, 512 U.S. at 699, 114 S.Ct. 2481. In our case, the Board\u2019s purpose \u2014 to advise the Department regarding the requirements of Orthodox Jewish dietary laws \u2014 and the fact that, of the six rabbis on the Board, all are Orthodox, convince us that New York\u2019s delegation of authority to the Board was made on the basis of religion and not \u201con principles neutral to religion, to individuals whose religious identities are incidental to their receipt of civic authority.\u201d Id. at 699, 114 S.Ct. 2481.\nWe find it insignificant that section 26-a does not require that Board members be rabbis or even Orthodox Jews. Instead, we agree with the Fourth Circuit that\neven if membership [o]n the [Advisory Board] were not restricted to adherents of Orthodox Judaism, or even if there were no [Advisory Board] at all, [the laws\u2019] adoption of the Orthodox rules inevitably requires the intimate involvement of members of that faith, and the leaders of that faith, in discerning the applicable standard.\nBarghout v. Bureau of Kosher Meat & Food Control, 66 F.3d 1337, 1343-44 (4th Cir.1995). By creating a regime in which there is a combined exercise of civic and religious authority, the challenged laws violate the fundamental principle underlying the Establishment Clause, which is \u201cto prevent, as far as possible, the intrusion of either [government or religion] into the precincts of the other.\u201d Lemon, 403 U.S. at 614, 91 S.Ct. 2105.\nWe also note that one provision of the challenged laws, section 201 \u2014 f(l)(b), represents an extraordinary entanglement of government and religion. Section 201-f requires that meat represented as \u201chaving been prepared in accordance with orthodox Hebrew religious requirements,\u201d but not immediately soaked and salted after slaughtering, must be properly washed \u201cby a duly ordained orthodox rabbi or by a person authorized by him.\u201d N.Y. Agrie. & Mkts. Law \u00a7 201-f (emphasis added). That provision, therefore, compels a kosher food vendor to employ a rabbi of a particular branch of Judaism in certain circumstances. The Department conceded at oral argument on this appeal that this provision cannot withstand constitutional attack, but contends that we should sever this requirement from the remaining provisions, which are themselves constitutional. We decline to do so because we find this particular provision indicative of the many ways in which the challenged laws excessively entangle the State with religion.\nFor all these reasons, we find that the challenged laws excessively entangle the State of New York and religion, and therefore run afoul of the Establishment Clause.\nB. The Advancement of Religion Factor\nWe also find that the challenged laws fail the second prong of the Lemon test, which mandates that, to avoid conflict with the Establishment Clause, a principal or primary effect of a challenged law must neither advance nor inhibit religion. 403 U.S. at 612, 91 S.Ct. 2105. The challenged laws violate this prohibition because they (1) have a primary effect that both advances religion, by preferring the dietary restrictions of Orthodox Judaism over those of other branches, and inhibits religion, by effectively prohibiting other branches from using the kosher label in accordance with their religious beliefs, and (2) create an impermissible joint exercise of religious and civic authority that advances religion. We reach this conclusion for reasons similar to those that demonstrate excessive entanglement of government and religion.\nFirst, as discussed above, the challenged laws discriminate in favor of the Orthodox view regarding the dietary requirements of kashrut. Through these laws, the State has selected the views of one branch of Judaism, thereby placing its imprimatur on the religious views of the one to the exclusion of others. Moreover, the use of the State\u2019s enforcement authority to prevent labeling of food products that do not meet Orthodox Hebrew religious requirements as kosher confers a substantial benefit on Orthodox Jews and not on others. We find that this constitutes an impermissible advancement of religion in violation of the Establishment Clause.\nThe challenged laws are significantly different in both kind and degree from those laws the Supreme Court has held merely have an \u201cindirect, remote, or incidental benefit upon religion,\u201d Lynch, 465 U.S. at 683, 104 S.Ct. 1355 (internal punctuation omitted), and therefore do not advance religion. For example, in Lynch, the Court held that the inclusion of a creche within a Christmas holiday display comprised of many figures and decorations traditionally associated with Christmas did not confer a substantial and impermissible benefit on religion in general or on Christianity in particular because its \u201creason or effect merely happens to coincide or harmonize with the tenets of some ... religions.\u201d Id. at 682, 104 S.Ct. 1355 (quoting McGowan v. Maryland, 366 U.S. 420, 442, 81 S.Ct. 1101, 6 L.Ed.2d 393 (1961)). The Court reached the same conclusion regarding legislative prayers in Marsh v. Chambers, 463 U.S. 783, 792, 103 S.Ct. 3330, 77 L.Ed.2d 1019 (1983), and Sunday closing laws in McGowan, 366 U.S. 420, 81 S.Ct. 1101. None of the governmental actions challenged in those cases, however, involved the preference by government of one interpretation of sacred text over others.\nMoreover, unlike the governmental actions at issue in the above-cited cases, the kosher fraud laws also inhibit religion. This is so because, by defining \u201ckosher\u201d as synonymous with the views of only Orthodox Judaism, the State prohibits members of other branches of Judaism from using the kosher label in accordance with the dictates of their religious beliefs where their dietary requirements differ from those of Orthodox Judaism. As a result, kosher food vendors can only comply with the law, and thus avoid the risk of civil and criminal sanctions, when they accept a meaning of kosher as defined by religious views that are not their own. We find this to be an impermissible inhibition of religion.\nSecond, the fusion of governmental and religious authority discussed in relation to the excessive entanglement inquiry'\u2014State reliance on religious authorities and the establishment and activities of the Advisory Board\u2014creates a \u201cjoint exercise of ... authority [that] provides a significant symbolic benefit to religion in the minds of some by reason of the power conferred.\u201d Larkin, 459 U.S. at 125-26, 103 S.Ct. 505. The Supreme Court has held that even the mere appearance of such joint exercise \u201ccan be seen as having a \u2018primary\u2019 and \u2018principle\u2019 effect of advancing religion.\u201d Id. at 126, 103 S.Ct. 505. Here, the challenged laws, as described earlier, produce an actual joint exercise of governmental and religious authority. United exercises of authority of this kind are prohibited by the Establishment Clause because of the danger that the government\u2019s action will be \u201cperceived by [some] as an endorsement of their religious choices, or by [others] as a disapproval of their own.\u201d Grumet, 512 U.S. at 695, 114 S.Ct. 2481 (internal quotation marks omitted). Thus, by defining kosher according to the Orthodox view, the challenged laws \u201csymbolically plac[e] the government\u2019s official seal of approval on one religious view.\u201d Marsh, 463 U.S. at 792, 103 S.Ct. 3330 (internal quotation marks omitted).\nFor these reasons, we find that New York\u2019s kosher fraud laws at issue in this case both impermissibly advance and im-permissibly inhibit religion in violation of the Establishment Clause.\nC. The Secular Purpose Factor\nFinally, because the secular purpose prong of the Lemon test is often easily satisfied, and is uncontested by the parties here, we address it last. This prong rarely presents the greatest obstacle for laws attacked on Establishment Clause grounds because governmental action will only be found to lack a secular purpose where \u201cthere [is] no question that the statute or activity was motivated wholly by religious considerations.\u201d Lynch, 465 U.S. at 680, 104 S.Ct. 1355. The parties here do not dispute that the challenged laws were enacted for the secular purpose of protecting consumers from fraud in the kosher food market.\nWe agree with the New Jersey Supreme Court that a state has \u201ca valid interest in preventing fraud in the sale of any foods, including kosher foods.\u201d Ran-Dav\u2019s, 129 N.J. at 167, 608 A.2d 1353. This interest in protecting against fraud in the kosher food market extends to the general public. Indeed, Jewish consumers reportedly now make up less than thirty percent of the consumers of kosher food. See Frank Bru-\u00f1\u00ed, The Brave New World of Kosher; Foods Exert a Growing Appeal That Isn\u2019t Just for Jews, N.Y. Times, Nov. 15, 1996, at Bl. The remainder are Muslims and others with similar religious requirements, persons with special dietary restrictions, and those who simply prefer food bearing the kosher label as a symbol of purity. The State clearly has a valid secular interest in protecting from fraud all those who choose to consume kosher food products. We do note, however, that the challenged laws imperfectly accomplish this secular purpose because their avowed purpose is amply covered by the existing general fraud laws. Cf. Larkin, 459 U.S. at 124, 103 S.Ct. 505 (\u201c[T]hese valid secular objectives can be readily accomplished by other means.\u201d). For example, section 199-a(l) prohibits any misbranding of food, and therefore would penalize vendors who falsely represented their products to be kosher according to the standard described on the label. In other words, under the general statutory scheme governing fraud in the food industry, the State \u201ccan prevent fraud in the sale of kosher food in a less restrictive and neutral manner by simply requiring that any vendor engaged in the sale of kosher food state the basis on which the food is labeled kosher.\u201d Barghout, 66 F.3d at 1346 n. 15. Thus, the valid secular purpose articulated by the State can be accomplished by nondiscriminatory means that do not advance religion.\nIn sum, we find the New York kosher fraud laws challenged here unconstitutional on their face. Even assuming the challenged laws were enacted for a valid secular purpose, they violate the Establishment Clause by fostering excessive State entanglement with religion and by producing a primary effect that both advances and inhibits religion. Because w\u00e9 find the challenged laws unconstitutional on their face, we need not address the Yarmeisches\u2019 remaining arguments.\nCONCLUSION\nIn accordance with the foregoing, the judgment of the district court is affirmed.\n. Intervenors-defendants-appellants are the Honorable Sheldon Silver, Abe Alper, Jon Greenfield, Jack Lee, Rabbi Moshe Portnoy, Richard Schwartz, Agudath Harabonim of the United States and Canada, Agudath Israel of America, National Council of Young Israel, The Rabbinical Alliance of America, The Rabbinical Council of America, Torah Umesorah National Society of Hebrew Day Schools, and The Union of Orthodox Jewish Congregations of America (collectively, \u201cthe intervenors\u201d).\n. The New York Agriculture and Markets Law provides both criminal and civil penalties for violations of the kosher fraud law provisions. A violation constitutes a class A misdemeanor unless the food has a retail value in excess of five thousand dollars, in which case the violation is classified as a class E felony. N.Y. Agrie. & Mkts. Law \u00a7 201 d (McKinney 2001). Section 16(30) confers on the Department, and thus the commissioner, the authority to investigate, inspect, and supervise the sale of meat and meat preparations at establishments that are subject to the kosher law provisions and to make rules and regulations necessary for enforcement of those provisions. Id. \u00a7 16(30). Section 39 sets forth generally the civil penalties that the Department may impose for violations of any section of the Agriculture and Markets Law, including the kosher fraud provisions. Id. \u00a7 39. The attorney general is authorized to bring a civil suit to recover any penalties assessed by the commissioner. Id. \u00a7 44.\n. A detailed explication of the provisions challenged here is contained in Part I of the next section of this opinion. For now, it is sufficient to note that the heart of New York's kosher fraud statutes is the prohibition on the sale of food products falsely represented \u201cto be kosher ... or as having been prepared under ... the orthodox Hebrew religious requirements.\u201d N.Y. Agric. & Mkts. Law \u00a7 201-a(l). One of these requirements is that, after slaughter, meat must be \"koshered,\u201d through a procedure in which the meat is soaked and salted to draw out the blood. See, e.g., Ran-Dav\u2019s County Kosher, Inc. v. State of New Jersey, 129 N.J. 141, 147, 608 A.2d 1353 (1992).\n. On December 9, 1996, Magistrate Judge E. Thomas Boyle granted the motion of the in-tervenors for permissive intervention pursuant to Federal Rule of Civil Procedure 24(b)(2), provided that the Hon. Sheldon Silver be limited to intervention in his individual capacity.\n. Such publication is permitted by New York Agriculture & Markets Law section 201 j, which provides that after proper notification to the violator, certain information concerning the violation \"shall be available to the public.\u201d\n. For example, there are several provisions that require the identification or registration of the person or organization certifying a food product as kosher, see, e.g., N.Y. Agric. & Mkts. Law \u00a7\u00a7 201-g, 201-e(3), and 201-i, as well as several provisions requiring that food products represented as kosher be labeled as such, see, e.g., id. \u00a7\u00a7 201-e(l) and (2). None of these provisions were challenged by the Yarmeisches and thus are not at issue on this appeal.\n. Plaintiffs contend we should judge the constitutionality of these laws under the standard of strict scrutiny, as in Larson v. Valente, 456 U.S. 228, 246, 102 S.Ct. 1673, 72 L.Ed.2d 33 (1982), and defendants claim that, because this is a facial attack, we should apply the rule of United States v. Salerno, 481 U.S. 739, 745, 107 S.Ct. 2095, 95 L.Ed.2d 697 (1987), requiring the plaintiff to show that \"no set of circumstances exists under which the [statute] would be valid.\u201d We need not answer either question because we conclude for the reasons given that, as to both questions, the laws fail the test of constitutionality even using the assumptions that are most accommodating to the State.\n. The record on appeal does not make clear whether a final bill of particulars was delivered.",
+        "type": "majority",
+        "author": "MINER, Circuit Judge."
+      }
+    ],
+    "attorneys": [
+      "Robert Jay Dinerstein, Dinerstein & Lesser, P.C., Commack, NY, for Plaintiffs-Appellees.",
+      "Caitlin Halligan, First Deputy Solicitor General of the State of New York, New York, N.Y. (Eliot Spitzer, Attorney General of the State of New York, Michael Belo-havek, Deputy Solicitor General of the State of New York, on the brief, and Sa-chin Pandya, Assistant Solicitor General of the State of New York, of counsel), for Defendanb-Appellant.",
+      "Nathan Lewin, Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C., Washington, DC (Alyza D. Lewin, Noam B. Fischman, on the brief, and Dennis Rapps, National Jewish Commission on Law and Public Affairs, New York, NY, of counsel), for Intervenors-Defendants-Appellants.",
+      "Marc D. Stern, American Jewish Congress, New York, NY, for Amici Curiae American Jewish Congress and United Synagogue of Conservative Judaism."
+    ],
+    "corrections": "",
+    "head_matter": "COMMACK SELF-SERVICE KOSHER MEATS, INC., d/b/a Commack Kosher, Brian Yarmeisch and Jeffrey Yarmeisch, Plaintiffs-Appellees, v. Rabbi Luzer WEISS, as Director of the Kosher Law Enforcement Division of The New York State Department of Agriculture and Markets, Defendant-Appellant, Hon. Sheldon Silver, Abe Alper, Jon Greenfield, Jack Lee, Rabbi Moshe Portnoy, Richard Schwartz, Agudath Harabonim of the United States and Canada, Agudath Israel of America, National Council of Young Israel, Rabbinical Alliance Of America, Rabbinical Council of America, Torah Umesorah National Society of Hebrew Day School and Union of Orthodox Jewish Congregations of America, Intervenors-Defendants-Appellants.\nDocket Nos. 00-9116, 00-9118.\nUnited States Court of Appeals, Second Circuit.\nArgued June 28, 2001.\nDecided May 21, 2002.\nRobert Jay Dinerstein, Dinerstein & Lesser, P.C., Commack, NY, for Plaintiffs-Appellees.\nCaitlin Halligan, First Deputy Solicitor General of the State of New York, New York, N.Y. (Eliot Spitzer, Attorney General of the State of New York, Michael Belo-havek, Deputy Solicitor General of the State of New York, on the brief, and Sa-chin Pandya, Assistant Solicitor General of the State of New York, of counsel), for Defendanb-Appellant.\nNathan Lewin, Mintz, Levin, Cohn, Ferris, Glovsky & Popeo, P.C., Washington, DC (Alyza D. Lewin, Noam B. Fischman, on the brief, and Dennis Rapps, National Jewish Commission on Law and Public Affairs, New York, NY, of counsel), for Intervenors-Defendants-Appellants.\nMarc D. Stern, American Jewish Congress, New York, NY, for Amici Curiae American Jewish Congress and United Synagogue of Conservative Judaism.\nBefore MINER, LEVAL, and POOLER, Circuit Judges."
+  },
+  "file_name": "0415-01",
+  "first_page_order": 445,
+  "last_page_order": 462
+}

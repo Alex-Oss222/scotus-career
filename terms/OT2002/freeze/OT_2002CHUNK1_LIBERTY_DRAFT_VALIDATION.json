@@ -1,0 +1,64 @@
+[
+  {
+    "file": "commack-merits-2003-03-24.md",
+    "public_blocks": 11,
+    "holding_explanation_words": [
+      154,
+      123,
+      80
+    ],
+    "max_explanation": 154,
+    "kernel_projection_identical": true,
+    "assignment_pending": true
+  },
+  {
+    "file": "lawall-merits-2003-04-28.md",
+    "public_blocks": 11,
+    "holding_explanation_words": [
+      101,
+      195,
+      170,
+      123
+    ],
+    "max_explanation": 195,
+    "kernel_projection_identical": true,
+    "assignment_pending": true
+  },
+  {
+    "file": "newman-merits-2003-03-24.md",
+    "public_blocks": 11,
+    "holding_explanation_words": [
+      179,
+      194,
+      99
+    ],
+    "max_explanation": 194,
+    "kernel_projection_identical": true,
+    "assignment_pending": true
+  },
+  {
+    "file": "owens-merits-2003-02-24.md",
+    "public_blocks": 11,
+    "holding_explanation_words": [
+      154,
+      171,
+      134,
+      132
+    ],
+    "max_explanation": 171,
+    "kernel_projection_identical": true,
+    "assignment_pending": true
+  },
+  {
+    "file": "steele-merits-2003-03-03.md",
+    "public_blocks": 11,
+    "holding_explanation_words": [
+      136,
+      198,
+      100
+    ],
+    "max_explanation": 198,
+    "kernel_projection_identical": true,
+    "assignment_pending": true
+  }
+]
