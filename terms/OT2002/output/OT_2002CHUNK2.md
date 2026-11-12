@@ -940,7 +940,7 @@ Capital finality now protects the defined mandatory final life judgment after a 
 
 #### Source Notes
 
-No. 01-7574; 42 Pa. Cons. Stat. §9711; [reported proceedings, 537 U.S. 101](https://www.govinfo.gov/content/pkg/USREPORTS-537/pdf/USREPORTS-537-101.pdf). The first jury's numerical division supplies no unanimous finding rejecting an aggravator. The statutory life judgment, rather than an inferred factual acquittal, is the basis of the Court's holding.
+No. 01-7574; 42 Pa. Cons. Stat. §9711; reported proceedings, 537 U.S. 101. The first jury's numerical division supplies no unanimous finding rejecting an aggravator. The statutory life judgment, rather than an inferred factual acquittal, is the basis of the Court's holding.
 
 #### Mandate, Remedy, and Stage
 
