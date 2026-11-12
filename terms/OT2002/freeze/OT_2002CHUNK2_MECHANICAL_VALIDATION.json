@@ -1,0 +1,291 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md",
+      "author": "Ginsburg",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 0,
+        "Kennedy": 1,
+        "Souter": 0,
+        "Thomas": 1,
+        "Ginsburg": 0,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        250
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md",
+      "author": "Souter",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 0,
+        "Kennedy": 1,
+        "Souter": 0,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        340
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md",
+      "author": "Kennedy",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 1,
+        "Kennedy": 1,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        221
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md",
+      "author": "O'Connor",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 0,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        187,
+        171
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "AbdurRahman-v-Bell_merits_2002-12-10.md",
+      "author": "Ginsburg",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 1,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        97,
+        223,
+        207
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md",
+      "author": "Breyer",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 0
+      },
+      "explanation_words": [
+        220
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md",
+      "author": "O'Connor",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 1,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        154,
+        182,
+        220,
+        247,
+        172,
+        177,
+        101,
+        210
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "United-States-v-Bean_merits_2002-12-10.md",
+      "author": "Stone-Zsela",
+      "counts_before": {
+        "Stone-Zsela": 0,
+        "Stevens": 0,
+        "O'Connor": 2,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        268
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md",
+      "author": "Stevens",
+      "counts_before": {
+        "Stone-Zsela": 1,
+        "Stevens": 0,
+        "O'Connor": 2,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        182,
+        159,
+        123
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Borden-Ranch-Partnership-v-Army-Corps-of-Engineers_merits_2002-12-16.md",
+      "author": "O'Connor",
+      "counts_before": {
+        "Stone-Zsela": 1,
+        "Stevens": 1,
+        "O'Connor": 2,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        255,
+        253,
+        152
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Sattazahn-v-Pennsylvania_merits_2003-01-14.md",
+      "author": "Stevens",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 1,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        233
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Benson-v-Terhune_merits_2003-05-27.md",
+      "author": "Breyer",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 1,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "explanation_words": [
+        175,
+        235
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    }
+  ],
+  "paired_handoffs": [
+    "OT_2002CHUNK2_ACLA_SUPPLEMENT_COMMITMENTS.md",
+    "OT_2002CHUNK2_COMMITMENTS.md",
+    "OT_2002CHUNK2_ECONOMIC_COMMITMENTS.md",
+    "OT_2002CHUNK2_FRESH_COMMITMENTS.md",
+    "OT_2002CHUNK2_HABEAS_COMMITMENTS.md",
+    "OT_2002CHUNK2_RIGHTS_COMMITMENTS.md",
+    "OT_2002CHUNK2_ACLA_RECONCILED.md",
+    "OT_2002CHUNK2_ECONOMIC_RECONCILED.md",
+    "OT_2002CHUNK2_FRESH_RECONCILED.md",
+    "OT_2002CHUNK2_HABEAS_RECONCILED.md",
+    "OT_2002CHUNK2_RECONCILED.md",
+    "OT_2002CHUNK2_RIGHTS_RECONCILED.md"
+  ],
+  "protected_files_unchanged": 84,
+  "restricted_token_files": [],
+  "prohibited_link_files": [],
+  "unresolved_markdown_targets": [],
+  "public_render_created": false
+}

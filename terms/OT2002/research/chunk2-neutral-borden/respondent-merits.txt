@@ -1,0 +1,3679 @@
+** 
+19 
+
+
+No. 01-1243 | OCT 29 2002 
+—— ood 
+
+
+In the Supreme Court of the United States. 
+
+
+BORDEN RANCH PARTNERSHIP AND 
+ANGELO K. TSAKOPOULOS, PETITIONERS 
+
+
+v. 
+
+
+UNITED STATES ARMY CORPS OF ENGINEERS AND 
+ENVIRONMENTAL PROTECTION AGENCY 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+
+
+THOMAS L. SANSONETTI 
+Assistant Attorney General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+JEFFREY P. MINEAR 
+Assistant to the Solicitor 
+General 
+
+
+DAVID C. SHILTON 
+SYLVIA QUAST 
+Attorneys 
+
+
+Department of Justice 
+
+
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+No. 01-1243 
+
+
+In the Supreme Court of the United States 
+
+
+BORDEN RANCH PARTNERSHIP AND 
+ANGELO K. TSAKOPOULOS, PETITIONERS 
+
+
+U. 
+
+
+UNITED STATES ARMY CORPS OF ENGINEERS AND 
+ENVIRONMENTAL PROTECTION AGENCY 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE NINTH CIRCUIT 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+
+
+THOMAS L. SANSONETTI 
+Assistant Attorney General 
+
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+
+JEFFREY P. MINEAR 
+Assistant to the Solicitor 
+General 
+
+
+DAVID C. SHILTON 
+
+SYLVIA QUAST 
+Attorneys 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+QUESTIONS PRESENTED 
+
+
+Section 404 of the Federal Water Pollution Control Act 
+(Clean Water Act) regulates the discharge of dredged or fill 
+material into waters of the United States. 33 U.S.C. 1344. 
+Section 404(f) exempts from regulation the discharge of 
+dredged or fill material from “normal farming, silviculture, 
+and ranching activities,” but excepts from that exemption 
+any discharge that is “incidental to any activity having as its 
+purpose bringing an area of the navigable waters into a use 
+to which it was not previously subject, where the flow or cir- 
+culation of navigable waters may be impaired or the reach of 
+such waters be reduced.” 33 U.S.C. 1344(f). In this case, pe- 
+titioners engaged in “deep ripping,” which involves using 
+bulldozers to pull long metal shanks through the ground, to 
+convert grazing lands into lands suitable for cultivating 
+deep-rooted crops. In the process, petitioners filled two 
+acres of wetlands, which were indisputably waters of the 
+United States, with dirt, rock, sand, and biological matter. 
+The questions presented are: 
+
+1. Whether petitioners’ deep ripping resulted in dis- 
+charges of pollutants subject to regulation under Section 404. 
+
+
+2. Whether petitioners’ deep ripping qualified for the 
+conditional exemption from regulation under Section 404(f). 
+
+
+3. Whether each violation of the Clean Water Act should 
+be counted in determining the maximum civil penalty if sev- 
+eral violations occurred on a single day. 
+
+
+(I) 
+
+
+Opinions below 
+Jurisdiction 
+Statutory and regulatory provisions involved 
+Statement 
+
+A. The Clean Water Act 
+
+
+B. 
+C. 
+Summary of argument 
+Argument 
+
+
+I. 
+
+
+II. 
+
+
+TABLE OF CONTENTS 
+
+
+1. The 1972 Amendments 
+
+
+2. The 1977 Amendments 
+
+
+3. The 1987 Amendments 
+
+
+The Corp’s and EPA’s regulations 
+
+
+The facts of this case 
+
+
+Petitioners’ use of earthmoving equipment, 
+
+and biological matter, resulted in discharges of 
+pollutants subject to regulation under Section 
+404 of the Clean Water Act 
+
+
+A. The rock, sand, dirt, and biological matter 
+that petitioners used to fill the wetlands 
+
+
+are “pollutants” 
+
+
+B. Petitioners’ activities resulted in the “addi- 
+tion” of pollutants to waters of the United 
+States 
+
+
+C. Petitioners’ earthmoving equipment is a 
+“point source” 
+
+
+D. Section 404(f) indicates that even ordinary 
+plowing may result in the discharge of 
+pollutants 
+
+
+Section 404(f) does not exempt petitioners’ 
+process 
+
+
+(IID) 
+
+
+5 
+
+
+— o e . . = 
+
+
+IV 
+
+
+Table of Contents—Continued: 
+A. Petitioners’ deep ripping did not satisfy 
+the requirements of Section 404(f)(1) ................ 
+B. Petitioners’ deep ripping is subject to the 
+recapture provisions of Section 404(f)(2) .......... 
+III. The lower courts correctly calculated the maxi- 
+mum civil penalty 
+Conclusion 
+Addendum 
+
+
+TABLE OF AUTHORITIES 
+Cases: 
+
+
+Alameda County Assessor’s Parcels, In re, 672 
+F. Supp. 1278 (N. D. Cal. 1987) 
+Atlantic States Legal Found., Inc. v. Tyson Foods, 
+Inc., 897 F.2d 1128 (1990) 
+Avoyelles Sportsmen's League, Inc. v. Marsh, 715 
+F. 2d 897 (5th Cir. 1983) 
+Babbit v. Sweet Home Chapter of Communities, 515 
+U.S. 687 (1995) 
+Chemical Mfrs. Ass n v. Natural Res. Def. Council, 
+470 U.S. 116 (1985) 
+Chesapeake Bay Found., Inc. v. Gwaltney of Smith- 
+field, Ltd., 791 F 2d 304 (4th Cir. 1986), judg- 
+ment vacated, 484 U.S. 49 (1987) 
+Chevron U.S.A. Inc. v. Natural Res. Def. Council, 
+Inc., 467 U.S. 837 (1984) 
+Christensen v. Harris County, 529 U.S. 576 (2000) ........ 
+Commissioner v. Lundy, 516 U.S. 235 (1996) 
+EPA v. California ex rel. State Water Res. Control 
+Bd., 426 U.S. 2000 (1976) 
+EPA v. National Crushed Stone Ass u, 449 U.S. 64 
+(1980) 
+
+
+47 
+
+
+la 
+
+
+34 
+
+
+49 
+
+
+27, 28, 30, 34, 38, 46 
+
+
+49 
+
+
+1 
+
+
+V 
+Cases Continued: Page 
+
+Graver Tank & Mfg. v. Linde Air Prods. Co., 
+
+336 U.S. 271 (1949) 11, 42 
+Lexecon Inc. v. Milberg Weiss Bershad Hynes & 
+
+Lerach, 523 U.S. 26 (1998) 24 
+Minnehaha Creek Watershed Dist. v. Hoffman, 
+
+597 F.2d 617 (8th Cir. 1979) 36 
+
+
+National Mining Ass n v. United States Army 
+Corps of Eng’rs, 145 F.3d 1399 (D.C. Cir. 
+
+
+1998) 9, 30, 31-32 
+Pronsolino v. Nastri, 291 7.3d 1123 (9th Cir. 2002) ........ 33 
+Resource Invs., Inc. v. United States Army Corps 
+
+of Eng’rs, 151 F.3d 1162 (9th Cir. 1998) 28 
+Rybachek v. EPA, 904 F.2d 1276 (9th Cir. 1990). 30 
+Smith v. United States, 508 U.S. 223 (1993) 49 
+Solid Waste Agency v. United States Army Corps 
+
+of Engr’s, 531 U.S. 159 (2001) .. 3, 18 
+Tull v. United States, 481 U.S. 412 (1987) 50 
+
+
+United States v. Akers, 15 Envtl. L. Rep. (Envtl. 
+L. Inst.) 20,243 (E. D. Cal. Jan. 11, 1985), aff' d, 785 
+
+
+F. 2d 814 (9th Cir.), cert. denied, 479 U.S. 828 (1986) ..... 34, 
+38, 40, 46 
+United States v. Brace, 41 F.3d 117 (3d Cir. 1994), 
+
+cert. denied, 515 U.S. 1158 (1995) 38, 40, 46 
+United States v. Ceccolini, 485 U.S. 268 (1978) 11, 42 
+United States v. Deaton, 209 F.3d 331 (4th Cir. 
+
+2000) 4, 24, 29, 30, 34 
+United States v. Gonzales, 520 U.S. 1 (1997) 37 
+United States v. Holland, 373 F. Supp. 665 (M.D. 
+
+Fla. 1974) 4-5 
+United States v. Huebner, 752 F.2d 1235 (7th Cir.), 
+
+cert. denied, 474 U.S. 817 (1985) 38, 46 
+
+
+United States v. Larkins, 657 F. Supp. 76 (W. D. 
+Ky. 1987), aff d, 852 F. 2d 189 (6th Cir. 1988), cert. 
+denied, 489 U.S. 1016 (1989) 4, 34 
+
+
+VI 
+
+
+Cases—Continued: 
+United States v. M. C. C. of Fla., Inc., 772 F. 2d 
+
+1501 (11th Cir. 1985), vacated on other grounds, 
+
+481 U.S. 1034 (1987), readopted in relevant part, 
+
+848 F.2d 1133 (11th Cir. 1988) 
+
+
+United States v. Pozsgai, 999 F. 2d 719 (3d Cir. 
+1998), cert. denied, 510 U.S. 1110 (1994) 
+
+
+United States v. Riverside Bayview Homes, Inc., 
+474 US. 121 (1985) * 
+United States v. Sinclair Oil Co., 767 F. Supp. 200 
+D. Mont. 1990) 
+United States v. Smithfield Foods, Inc., 191 F.3d 
+516 (4th Cir. 1999), cert. denied, 531 U.S. 813 (2000) 
+United States v. Tilton, 705 F.2d 429 (11th Cir. 
+1983) 
+United States v. Wilson, 133 F.3d 251 (4th Cir. 
+1997) 
+United States v. Wiltberger, 18 U.S. (5 Wheat.) 76 
+(1820) 
+West Virginia Univ. Hosps., Inc. v. Casey, 
+499 U.S. 83 (1991) 
+
+
+Statutes and regulations: 
+Clean Water Act of 1977, Pub. L. No. 95-217, 91 Stat. 
+1566: 
+§ 67(a), 91 Stat. 1600 
+§ 67(b), 91 Stat. 1600 
+Debt Collection Improvement Act of 1996, Pub. L. 
+No. 104-134, 110 Stat. 1321 (31 U.S.C. 3701 note) 
+Federal Civil Penalties Inflation Adjustment Act of 
+1990, Pub. L. No. 101-410, 104 Stat. 890 (28 U.S.C. 
+2461 note) 
+Federal Water Pollution Control Act (Clean Water 
+Act), 33 U.S.C. 1251 et seq. 
+§ 101(a), 33 U.S.C. 1251(a) 
+§ 101(d), 33 U.S.C. 1251(d) 
+§ 208, 33 U.S.C. 1288 
+
+
+24 
+
+
+3, 4, 5, 27, 40 
+
+
+— 
+D 
+
+
+VII 
+
+
+Statutes and regulations: Page 
+§ 208(b)(2)(F), 33 U.S.C. 1288(b)(2)(F) 36 
+§ 301, 33 U.S.C. 1311 1, 1a 
+§ 301(a), 33 U.S.C. 1311(a) 3, 4, 18, 25, la 
+§ 309, 33 U.S.C. 1319 5, la 
+§ 309(d), 33 U.S.C. 1319(d) 8, 21, 22, 47, 48, la 
+§ 319, 33 U.S.C. 1329 33, 36 
+§ 404, 33 U.S.C. 1344 1, 4, 18, 39, 2a 
+§ 404(a), 33 U.S.C. 1344(a) 25, 27, 28, 2a 
+§ 404(e), 33 U.S.C. 1344(e) 7 
+§ 404(f), 33 U.S.C. 1344(f) ....... 7, 20, 36, 37-38, 39, 43, 2a 
+§ 404(f)(1), 33 U.S.C. 1344(f)(1) 38, 45, 2a 
+
+_§ 404(f)(1)(A), 33 U.S.C. 1344(f KUKA) 36, 38, 39, 2a 
+§ 404(f)(1)(B) 36 
+§ 404(f)(2), 33 U.S.C. 1344(f)(2) 21, 36, 38, 39, 
+
+43, 44, 45, 4a 
+§ 404(g)-(1), 33 U.S.C. 1344(g)-(/) 8 
+§ 404(s)(4), 33 U.S.C. 1344(s) 8 
+§ 501(a), 33 U.S.C. 1361(a) 8, 39 
+§ 502, 33 U.S.C. 1362 3, 4a 
+§ 502(6), 33 U.S.C. 1362(6) 4, 19, 24, 27, 4a 
+§ 502(7), 33 U.S.C. 1362(7) 4 
+§ 502(12), 33 U.S.C. 1362(12) 18, 25, 5a 
+§ 502(12)(A), 33 U.S.C. 1362(12)(A) 3, 4, 18 
+
+
+§ 502(14), 33 U.S.C. 1362014). 
+
+
+4, 6, 19, 32, 33, 35, 5a 
+
+
+Federal Water Pollution Control Act Amendment of 
+
+
+1972, Pub. L. No. 92-500, 86 Stat. 816: 
+
+
+§ 2: 
+86 Stat. 860 (33 U.S.C. 1319(d) (Supp. II 
+1972)) 5 
+86 Stat. 884 2 
+Resource Conservation and Recovery Act of 1976, 
+42 U.S.C. 6901 et seq. 29 
+Water Quality Act of 1987, Pub. L. No. 100-4, 
+§ 313(b)(1), 101 Stat. 45-46 3, 48 
+
+
+VIII 
+Statutes and regulations Continued: Page 
+16 U.S.C. 3822(b)(1)(D) 46 
+16 U.S.C. 3901(a) 5 
+33 C. F. R.: 
+
+Pt. 323 1, 8, 9 
+Section 323.2(c) 9, 19, 24, 28, 6a 
+Section 323.2(d)(1) (1994) 9, 19, 6a 
+Section 323.2(d)(1)(iii) 9, 6a 
+Section 323.2(e) 28, 6a 
+Section 323.2(e) (1997) 28 
+Section 323.2(e) (1994) 9, 19, 24, 28 
+Section 323.2(f) 9, 10, 41, 7a 
+Section 323.4(a)(1)(i) 10, 7a 
+Section 323.4(a)(1)(ii) 10, 20, 40, 41, 7a 
+Section 323.4(a)(1)(iii) 10 
+Section 323.4(a)(1)(iii)(D) 10, 20, 41, 42, 46, 7a 
+
+Pt. 330 5 
+
+40 C. F. R.: 
+
+Pt. 230 5 
+
+Pt. 232 1. 8, 9 
+Section 232.2 (1994) 9, 19, 20, 28, 9a 
+Section 232.2 9, 19, 24, 28 
+Section 232.3(c)(1)(i) 10, 10a 
+Section 232.3(c)(1)(ii) 10, 20, 40, 10a 
+Section 232.3(c)(1)(ii(B) 41, 10a-lla 
+Section 232.3(d) 10, lla 
+Section 232.3(d)(4) 10, 20, 41, 46, lla 
+
+Miscellaneous: 
+
+
+Army Corps of Engineers 1996 Memorandum to the 
+
+
+Field (Dec. 12, 1996) 
+
+
+10-11, 42, 14a-21a 
+
+
+Army Corps of Engineering Regulatory Guidance 
+
+
+Letter No. 86-01 (Feb. 11, 1986) 10, 42, 
+12a-13a 
+CRS, Library of Congress, A Legislative History of 
+the Clean Water Act of 1977 (1978): 
+Vol. 3 7, 37-38, 39, 
+
+
+45 
+Vol. 4 37, 39 
+
+
+IX 
+
+
+45 Fed. Reg. 62,732 (1980) 
+51 Fed. Reg. 41,232 (1986) 
+64 Fed. Reg. 25,123 (1999) 
+67 Fed. Reg. 31,142-31,143 (2002) 
+H.R. Conf. Rep. No. 830, 95th Cong., Ist Sess. 
+(1977) 
+H.R. Rep. No. 911, 92d Cong., 2d Sess. (1972) 
+H.R. Rep. No. 139, 95th Cong., Ist Sess. (1977) .. * 
+H.R. Rep. No. 1004, 99th Cong., 2d Sess. (1986) 
+Robert Percival et al., Environmental Regulation 
+(3d ed. 2000) 33, 42, 
+6 
+
+
+re | 
+
+
+won 
+S Bes BSwa 
+
+
+8. Rep. No. 414, 92d Cong., 2d Sess. (1972) 
+S. Rep. No. 370, 95th Cong., Ist Sess. (1977) noe Gee 
+Websters Third New International Dictionary 
+
+(1993) 
+
+
+BRIEF FOR THE RESPONDENTS 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1-22) is re- 
+ported at 261 F.3d 810. The district court’s amended order 
+on cross-motions for summary judgment (Pet. App. 28-56) 
+and its findings of fact and conclusions of law (Pet. App. 67- 
+121) are unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+August 15, 2001. A petition for rehearing was denied on No- 
+vember 28, 2001 (Pet. App. 208). The petition for a writ of 
+certiorari was filed on February 22, 2002, and granted on 
+June 10, 2002. The jurisdiction of this Court rests on 28 
+U.S.C. 1254(1). 
+
+STATUTORY AND REGULATORY 
+PROVISIONS INVOLVED 
+
+
+Pertinent provisions of the Clean Water Act (CWA), 33 
+U.S.C. 1251 et seg., are reprinted at Add., infra, 1a-5a. 
+Pertinent regulations of the Army Corps of Engineers, 33 
+C.F.R. Part 323, are reprinted at Add., infra, 6a-8a, and 
+those of the Environmental Protection Agency, 40 C. F. R. 
+Part 232, are reprinted at Add., infra, 9a-11a. 
+
+
+STATEMENT 
+
+
+Petitioners seek reversal of a court of appeals judgment 
+affirming a district court decision that petitioners violated 
+Sections 301 and 404 of the Clean Water Act, 33 U.S.C. 1311, 
+1344, by discharging dredged and fill material into waters of 
+the United States without a permit. Petitioners converted 
+approximately 924 acres of former grazing land into lands 
+suitable for cultivation of deep rooted crops by means of a 
+process known as “deep ripping,” which involves the use of 
+bulldozers pulling four-to-seven-foot-long metal shanks 
+
+
+(1) 
+
+
+2 
+
+
+through the ground to break up and redistribute essentially 
+impermeable subsurface materials. In doing so, they filled 
+two acres of wetlands with dirt, rock, sand, and biological 
+matter. Those wetlands are conceded to be waters of the 
+United States and therefore within the geographic scope of 
+Section 404’s permitting program. 
+
+Section 404 places no limitation on petitioners’ deep rip- 
+ping of the many acres surrounding the wetlands. However, 
+the United States Army Corps of Engineers (Corps) and the 
+Environmental Protection Agency (EPA) consistently and 
+repeatedly told petitioners that they needed to obtain a 
+Section 404 permit before engaging in deep ripping in the 
+wetlands themselves. Petitioners did not do so, and instead 
+they repeatedly engaged in deep ripping of wetland areas. 
+When the Corps and EPA continued to seek petitioners’ 
+compliance with Section 404’s requirements, petitioners 
+brought this lawsuit. EPA then counterclaimed that peti- 
+tioners had violated the Clean Water Act. The district court 
+rejected petitioners’ claim that their activities are not 
+subject to Section 404’s requirements. Because of the “rela- 
+tive seriousness” of the violations and petitioners’ “lack of 
+earnest effort to comply with the Act” (Pet. App. 117), the 
+court imposed a substantial civil penalty. The court of ap- 
+peals affirmed. 
+
+
+A. The Clean Water Act 
+
+
+The Clean Water Act establishes a comprehensive pro- 
+gram for regulation of pollution discharges, including the 
+discharge of dredged or fill materials into waters of the 
+United States. The Federal Water Pollution Control Act 
+Amendments of 1972 (the 1972 Amendments) established the 
+primary components of the current regulatory structure and 
+instituted the Section 404 permitting program. Pub. L. No. 
+92-500, § 2, 86 Stat. 884. Congress refined that program 
+through the Clean Water Act of 1977 (the 1977 Amend- 
+ments), which, among other things, created the Section 
+
+
+3 
+
+
+404(f) exemption for “normal farming, silviculture, and 
+ranching activities.” Congress explicitly excepted from that 
+exemption discharges that bring an area of waters of the 
+United States into a new use and that impair the flow or re- 
+duce the reach of such waters. Pub. L. No. 95-217, § 67(a)- 
+(b), 91 Stat. 1600. The Water Quality Act of 1987, Pub. L. 
+No. 100-4, § 313(d), 101 Stat. 45-46, retained the Section 404 
+regulatory structure, but increased the maximum civil pen- 
+alty for violations and clarified the method for calculating 
+penalties. 
+
+1. The 1972 Amendments. Congress enacted the 1972 
+Amendments “to restore and maintain the chemical, physical 
+and biological integrity of the Nation’s waters,” 33 U.S.C. 
+1251(a). See Solid Waste Agency (SWANCC) v. United 
+States Army Corps of Eng’rs, 531 U.S. 159, 166 (2001); 
+United States v. Riverside Bayview Homes, Inc., 474 US. 
+121, 132 (1985). That objective embraced “a broad, systemic 
+view of the goal of maintaining and improving water qual- 
+ity,” including preservation of “the natural structure and 
+function of ecosystems.” Id. at 132 (quoting H.R. Rep. No. 
+92-911, at 76 (1972)). “Protection of aquatic ecosystems, 
+Congress recognized, demanded broad federal authority to 
+control pollution, for Iwlater moves in hydrologic cycles and 
+it is essential that discharge of pollutants be controlled at the 
+source.” Id. at 132-133 (quoting S. Rep. No. 92-414, at 77 
+(1971)). 
+
+To achieve the stated objective, Congress set forth key 
+provisions that, for 30 years, have remained fundamental 
+features of the Clean Water Act. Congress declared in Sec- 
+tion 301(a) that, except as provided in other specified sec- 
+tions of the Act, “the discharge of any pollutant by any per- 
+son shall be unlawful.” 33 U.S.C. 1311(a). It set out relevant 
+definitions in Section 502 of the Act. See 33 U.S.C. 1362. 
+Congress defined the term “discharge of pollutants” to in- 
+clude “any addition of any pollutant to navigable waters from 
+
+
+4 
+
+
+any point source.” 33 U.S.C. 1362(12)(A). It defined the 
+term “pollutant” to include a wide variety of materials, in- 
+cluding “dredged spoil,” “biological materials,” “rock,” 
+“sand,” and “cellar dirt,” 33 U.S.C. 1362(6), and it broadly 
+defined the term “navigable waters” to mean “waters of the 
+United States.” 33 U.S.C. 1362(7). Furthermore, Congress 
+defined the term “point source” to mean “any discernible, 
+confined and discrete conveyance * * * from which pollut- 
+ants are or may be discharged.” 33 U.S.C. 1362(14). 
+As this Court has long recognized, Section 301(a) prohibits 
+a person from discharging dredged or fill materials from a 
+point source into wetlands that qualify as “waters of the 
+United States”—sometimes called “jurisdiciional wetlands” 
+—unless that person obtains a permit in accordance with 
+Section 404 of the Act. 33 U.S.C. 1311(a), 1344. See River- 
+side Bayview Homes, 474 U.S. at 123. As a Senate Commit- 
+tee has explained, Congress has charged the Corps with 
+responsibility for issuing Section 404 permits to 
+control the adverse effects caused by point source dis- 
+charges of dredged or fill material into the navigable wa- 
+ters including: (1) the destruction and degradation of 
+aquatic resources that results from replacing water with 
+dredged material or fill material; and (2) the contamina- 
+tion of water resources with dredged or fill material that 
+contains toxic substances. 
+S. Rep. No. 95-370, at 74 (1977). As Congress, the courts, 
+EPA, and the Corps have all long recognized, the Section 404 
+permitting process is crucial to preserving and restoring 
+aquatic ecosystems because wetlands “play a key role in pro- 
+tecting and enhancing water quality” and “serve significant 
+natural biological functions.” Riverside Bayview Homes, 474 
+U.S. at 133-135 (citing Corps statements and regulations). 
+
+
+y See, eg. United States v. Deaton, 209 F.3d 331, 336 (4th Cir. 2000); 
+United States v. Larkins, 657 F. Supp. 76, 86 (W. D. Ky. 1987), aff'd, 852 
+
+
+— i 
+
+
+5 
+
+
+Congress also provided mechanisms for erfurcing Section 
+301(a)’s discharge prohibition. Section 309 authorizes the 
+government to issue compliance orders, pursue judicial in- 
+junctive relief, and seek criminal and civil penalties. See 33 
+U.S.C. 1319. Section 309, as set out in the 1972 Amend- 
+ments, specified that any person who violated Section 301(a) 
+“shall be subject to a civil penalty not to exceed $10,000 per 
+day of such violation.” 33 U.S.C. 1319(d) (Supp. II 1972) (86 
+Stat. 860). 
+
+2. The 1977 Amendments. The 1977 Amendments were 
+“a major piece of legislation aimed at achieving ‘interim im- 
+provements within the existing framework’ of the Clean Wa- 
+ter Act.” Riverside Bayview Homes, Inc., 474 U.S. at 135 
+(quoting H.R. Rep. No. 95-139, at 1-2 (1977)). Congress held 
+extensive hearings on the implementation of the Clean Wa- 
+ter Act and specifically addressed, among other things, the 
+competing concerns that agricultural practices seriously de- 
+grade the Nation’s waters, but that extensive federal regula- 
+tion of agricultural practices could impose hardships on 
+farmers.” 
+
+Congress declined to exempt all agricultural lands or prac- 
+tices from regulation. Instead, it took carefully measured 
+steps to address specific problems. For example, Congress 
+made limited changes to the provisions of the 1972 Amend- 
+ments that addressed the term of art “point source.” See 
+
+
+F.2d 189 (6th Cir. 1988), cert. denied, 489 U.S. 1016 (1989); United States 
+v. Holland, 373 F. Supp. 665, 675 (M.D. Fla. 1974); 16 U.S.C. 3901(a); 40 
+C.F.R. Pt. 230. 
+
+2 As the Report of the Senate Committee on Environment and Public 
+Works noted, “{algriculture was demonstrated to be a major source of 
+pollution.” S. Rep. 95-370, at 9 (1977). But as the Report also noted, It Ihe 
+upland farming, forestry and normal development activity carried out 
+primarily by individuals and as part of family business or family farming 
+activity need not bear the burden of an effort directed primarily at regu- 
+lating the kinds of activities which interfere with the overall ecological 
+integrity of the Nation’s waters.” Id. at 10. 
+
+
+CWA § 502(14), 33 U.S.C. 1362(14). Congress retained the 
+specification that a “concentrated animal feeding operation” 
+is a point source, but it explicitly provided that the term 
+“point source” does not include “return flows from irrigated 
+agriculture.” See ibid. 
+
+The 1977 Amendments did not exempt any other agricul- 
+tural activity from the definition of “point source.” Congress, 
+however, did address the application of the Section 404 
+program to “normal farming, silviculture, and ranching 
+activities” through a new provision contained within Section 
+404 itself. Congress added a new subsection (f), which pro- 
+vides: 
+
+(1) Except as provided in paragraph (2) of this 
+subsection, the discharge of dredged or fill material- 
+
+(A) from normal farming, silviculture, and ranch- 
+ing activities such as plowing, seeding, cultivating, 
+minor drainage, harvesting for the production of food, 
+fiber, and forest products, or upland soil and water 
+conservation practices; 
+
+
+* * * * > 
+
+
+is not prohibited by or otherwise subject to 
+regulation under this section or section 1311(a) or 1342 
+of this title. * * * 
+
+(2) Any discharge of dredged or fill material into 
+the navigable waters incidental to any activity having 
+as its purpose bringing an area of the navigable 
+waters into a use to which it was not previously 
+subject, where the flow or circulation of navigable 
+waters may be impaired or the reach of such waters 
+
+
+The Senate Report indicates that “{tJhe current strategy in the act 
+to divide agriculture into point and nonpoint sources is effective with 
+regard to feedlots, but ineffective with regard to irrigation return flows.” 
+S. Rep. No. 95-370, at 9. 
+
+
+7 
+
+
+be reduced, shall be required to have a permit under 
+this section. 
+
+33 U.S.C. 1344(f). In other words, Congress recognized that 
+even “normal” farming activities, such as “plowing,” could 
+result in discharges of dredged or fill material into waters of 
+the United States. But it exempted those activities from the 
+Section 404(f) permitting process, provided that the activity 
+in question did not bring an area into a new use and impair 
+
+the flow or circulation, or reduce the reach, of those waters. 
+The 1977 Amendments also made other significant 
+changes to Section 404, adding subsections (d) through (t). 
+Those subsections, among other things, authorize the Corps 
+to issue “general permits on a State, regional, or nationwide 
+basis for any category of activities involving discharges of 
+dredged or fill material” if the Corps determines “the activi- 
+ties in such category are similar in nature, will cause only 
+minimal adverse environmental effects when performed 
+separately, and will have only minimal cumulative adverse 
+effect on the environment.” 33 U.S.C. 1344(e). They also 
+authorize individual States to administer their own permit 
+
+
+4 The legislative history reveals that Section 404(f) was a compromise 
+formulated by the Conference Committee, in response to divergent House 
+and Senate proposals, that struck a balance between the concerns of 
+agriculture and the congressional goal of wetlands protection. H.R. Conf. 
+Rep. No. 95-830, at 100-101 (1977). As Senator Muskie, the Senate 
+manager in conference, explained in the debate on the conference bill: 
+
+New subsection 404(f) provides that Federal permits will not be 
+required for those narrowly defined activities that cause little or no 
+adverse effects either individually or cumulatively. While it is under- 
+stood that some of these activities may necessarily result in 
+incidental filling and minor harm to aquatic resources, the exemp- 
+tions do not apply to discharges that convert extensive areas of 
+water into dry land or impede circulation or reduce the reach or size 
+of the water body. 
+
+
+3 CRS, Library of Congress, A Legislative History of the Clean Water Act 
+of 1977, at 474 (1978) (Leg. His.), (Sen. Muskie, Dec. 14, 1977). 
+
+
+8 
+
+
+programs for certain waters of the United States, 33 U.S.C. 
+1344(g)-(1), and authorize the Corps to take enforcement ac- 
+tion, including the pursuit of civil penalties, in response to 
+permit violations, 33 U.S.C. 1344(s). 
+
+8. The 1987 Amendments. Congress revisited the Clean 
+Water Act through the 1987 Amendments and made numer- 
+ous changes, but made only one significant change to Section 
+404. Recognizing the potentially serious consequences of 
+Clean Water Act violations, including Section 404 permit 
+violations, it increased the maximum penalty from “$10,000 
+per day of such violation” to “$25,000 per day for each viola- 
+tion.” 33 U.S.C. 1344(s)(4) (Section 404 permit violations); 
+see CWA § 309(d), 33 U.S.C. 1319(d) (other Clean Water Act 
+violations, including discharges without a permit). In chang- 
+ing the basis for computing the penalty, it also intended “to 
+clarify that each distinct violation is subject to a separate 
+daily penalty assessment of up to $25,000.” H.R. Rep. No. 
+99-1004, at 132 (1986).° 
+
+B. The Corps’ And EPA’s Regulations 
+
+The Corps and EPA share responsibility for implementing 
+the Section 404 program, and each has issued regulations, 
+following public notice and comment, identifying activities 
+that are subject to regulation. See CWA §§ 101(d), 501(a), 33 
+U.S.C. 1251(d), 1361(a). The pertinent Corps regulations, 
+which are set out primarily at 33 C.F.R. Pt. 323, address, 
+among other things, the types of dredge and fill activities 
+that require a Section 404 permit and the scope of Section 
+404(f)’s “normal farming” exemption. Parallel EPA regula- 
+tions are set out at 40 C.F.R. Pt. 232. 
+
+
+5 Pursuant to the Federal Civil Penalties Inflation Adjustment Act of 
+1990, Pub. L. No. 101-410, 104 Stat. 890 (28 U.S.C. 2461 note), as amended 
+by the Debt Collection Improvement Act of 1996, Pub. L. No. 104-134, 110 
+Stat. 1321 (31 U.S.C. 3701 note), the statutory maximum penalty for vio- 
+lations of the Clean Water Act was increased to $27,500 per day per vio- 
+lation for violations occurring after January 30, 1997. 
+
+
+9 
+
+
+The regulations applicable to this case define “dredged 
+material” to mean “material that is excavated or dredged 
+from waters of the United States.” 33 C.F.R. 323.2(c); 40 
+C.F.R. 232.2. At the relevant time, they defined the term 
+“discharge of dredged material” to mean “any addition of 
+dredged material into, including any redeposit of dredged 
+material within, the waters of the United States.” 33 C. F. R. 
+323.2(d)(1) (1994), 40 C. F. R. 232.2 (1994). Those discharges 
+include an addition or redeposit “which is incidental to any 
+activity, including mechanized landclearing, ditching, chan- 
+nelization, or other excavation.” 33 C. F. R. 323.2(d)(1)(iii); 40 
+C. F. R. 232.2. The Corps’ regulations defined “fill material” 
+to mean “any material used for the primary purpose of re- 
+placing an aquatic area with dry land or of changing the bot- 
+tom elevation of al] waterbody,” 33 C.F.R. 323.2(e) (1994), 
+while EPA’s regulations similarly defined that term to mean 
+“any ‘pollutant’ which replaces portions of the ‘waters of the 
+United States’ with dry land or which changes the bottom 
+elevation of a water body for any purpose,” 40 C. F. R. 232.2 
+(1994).’ The “discharge of fill material” means “the addition 
+of fill material into waters of the United States.” 33 C. F. R. 
+323.2(f); 40 C. F. R. 232.2. 
+
+The agencies’ regulations specifically acknowledge Section 
+404(f)’s “normal farming” exemption, repeating its terms 
+
+
+6 After the events at issue in this case, the agencies amended the 
+definition in response to National Mining Ass n v. United States Army 
+Corps of Eng’rs, 145 F.3d 1399 (D.C. Cir. 1998), to state “any addition of 
+dredged material into, including redeposit of dredged material other than 
+incidental fallback within, the waters of the United States.” 64 Fed. Reg. 
+25,123 (1999). 
+
+7 The agencies have since amended the definition of “fill material” to 
+state “the term fill material means material placed in waters of the United 
+States where the material has the effect of: (i) [rjeplacing any portion of a 
+water of the United States with dry land; or (ii) [cJhanging the bottom 
+elevation of any portion of a water of the United States.” 67 Fed. Reg. 
+31,142-31,143 (2002). 
+
+
+10 
+
+
+verbatim. 33 C. F. R. 323.4(a)(1)(i); 40 C. F. R. 232.3(c)(1)G). 
+They further state that, to fall under the exemption, the ac- 
+tivities in question “must be part of an established (i.e. on- 
+going) farming, silviculture, or ranching operation” and that 
+ſaletivities which bring an area into farming, silviculture, or 
+ranching use are not part of an established operation.” 33 
+C. F. R. 323.4(a)(1)(ii); 40 C. F. R. 232.3(c)(1)(ii). The regula- 
+tions define the terms “cultivating,” “harvesting,” minor 
+drainage,” “plowing,” and “seeding.” 33 C. F. R. 323.4(a)(1) 
+(iii); 40 C. F. R. 232.3(d). With respect to plowing, the regula- 
+tions state: 
+
+Plowing means all forms of primary tillage, including 
+moldboard, chisel, or wide-blade plowing, discing, har- 
+rowing and similar physical means utilized on farm, for- 
+est or ranch land for the breaking up, cutting, turning 
+over, or stirring of soil to prepare it for the planting of 
+crops. The term does not include the redistribution of 
+soil, rock, sand, or other surficial materials in a manner 
+which changes any area of the waters of the United 
+States to dry land. For example, the redistribution of 
+surface materials by blading, grading, or other means to 
+fill in wetland areas is not plowing. * * *. 
+
+33 C. F. R. 323. Ada) (I) (ii) D) see 40 C. F. R. 232.3(d)(4). The 
+regulations further state that Ipllowing as described above, 
+will never involve a discharge of dredged or fill material.” 
+Ibid. (emphasis added). Accord 33 C. F. R. 323.2(f) 
+
+The agencies have provided informal guidance as well. 
+The Corps issued Regulatory Guidance Letter No. 86-01 
+(Feb. 11, 1986), which reiterated its regulatory definition of 
+plowing. See Add., infra, 12a-13a. The Corps and EPA also 
+issued a Memorandum to the Field on December 12, 1996, 
+following the entry of an administrative order on consent in 
+this case, specifically addressing the application of Section 
+404 to “deep ripping” activities, such as those that precipi- 
+
+
+11 
+
+
+tated this dispute. Pet. App. 199-207; Add., infra, 14a- 21a. 
+The agencies noted that: 
+
+Deep-ripping and related activities are distinguish- 
+able from plowing and similar practices (e.g., discing, 
+harrowing) with regard to the purposes and circum- 
+stances under which it is conducted, the nature of the 
+equipment that is used, and its effect, including the par- 
+ticular impacts to the hydrology of the site. 
+
+Add., infra, 18a. They concluded that: 
+
+
+Deep-ripping and related activities in wetlands are 
+not part of a normal, ongoing activity, and therefore no* 
+exempt, when such practices are conduct d in associa- 
+tion with efforts to establish for the first time * * * 
+an agricultural, silvicultural, or ranching operation. 
+In addition, deep-ripping and related activities are not 
+exempt in circumstances where such practices would 
+trigger the “recapture” provision of Section 404(f)(2) 
+
+
+** * 
+
+
+Id. at 20a. 
+C. The Facts Of This Case 
+
+
+The district court based its decision on detailed findings of 
+fact, Pet. App. 67-92, which the court of appeals affirmed, id. 
+at 11-12. Petitioners largely disregard those findings, which 
+they have not challenged and which are not open to dispute 
+in this proceeding. See, e. g., United States v. Ceccolini, 435 
+U.S. 268, 273 (1978); Graver Tank & Mfg. v. Linde Air 
+Prods. Co., 336 U.S. 271, 275 (1949). The facts, as found by 
+the district court, and the undisputed facts set out in the dis- 
+trict court’s amended order granting partial summary judg- 
+ment (Pet. App. 28-56), are as follows: 
+
+1. In June 1993, petitioner Angelo K. Tsakopoulos, the 
+general partner of petitioner Borden Ranch Partnership, 
+
+Borden Ranch, an 8348-acre ranch located in Cali- 
+fornia’s Central Valley, for approximately $8.3 million. Pet. 
+
+
+12 
+
+
+App. 2, 68. The Ranch straddles Dry Creek, which forias the 
+border between Sacramento and San Joaquin Counties, and 
+had primarily been used as rangeland for cattle grazing. Id. 
+at 2, 44, 68; SER 76." Tsakopoulos intended to subdivide the 
+Ranch and sell individual parcels that would be suitable for 
+cultivation as vineyards and orchards, which would increase 
+the value of the property. Pet. App. 2, 47, 68. 
+
+To accomplish this goal, Tsakopoulos needed to address 
+the Ranch’s soil and hydrology. Portions of the subsurface 
+strata of the Ranch consisted of a dense, essentially imper- 
+meable layer of material, variously described as a “restric- 
+
+
+tive layer” or “claypan,” that prevented surface water from 
+
+
+reaching the depths required for cultivating vineyards or 
+orchards, which have deep root systems. Pet. App. 2-3, 44- 
+45, 69. Tsakopoulos planned to solve this problem through 
+“deep ripping,” which consisted of employing bulldozers or 
+tractors to drag four-to-seven-foot-long metal shanks 
+through the soil. Id. at 3, 35-36, 44-45, 69-70. Those shanks 
+would “gouge[] through the restrictive layer, disgorging soil 
+that is then dragged behind the ripper.” Id. at 3; see id. at 
+35-36, 44, 69-70. Deep ripping was neither necessary nor was 
+it utilized to maintain the Ranch lands for grazing, but it was 
+essential to prepare the area for its intended new use. Id. at 
+2-3, 44-45, 69. 
+
+As Tsakopoulos knew at the time he purchased the Ranch, 
+the property included not only upland, but also significant 
+hydrological features, including swales, intermittent drain- 
+ages, and vernal pools. Pet. App. 2, 68-69, 70.“ Those fea- 
+
+
+8 Some of the “bottom ground” along Dry Creek had also been used 
+for growing wheat, hay, alfalfa, tomatoes, sugar beets, beans, and corn, 
+but that part of the Ranch is not at issue in this case. Pet. App. 2, 68; 
+SER 76. See note 27, infra. 
+
+9 “A swale is a sloped wetland containing aquatic plant life which 
+allows passage of small animal life, slows peak water flows, filters water, 
+and minimizes erosion and/or sedimentation. A vernal pool is a low point 
+in the landscape underlain with a dense soil layer and wherein rainwater 
+
+
+— — 
+
+
+13 
+
+
+tures arise precisely because of the presence of the essen- 
+tially impermeable restrictive layer that prevents surface 
+water from penetrating deeply into the soil. Ibid. The 
+swales and drainages of interest in this case are hydrologi- 
+cally connected to creeks on the property, which in turn are 
+tributaries of the Cosumnes and Mokelumne Rivers. Id. at 
+69; ER 29 (wetland delineation of San Joaquin side of the 
+Ranch). 
+
+Deep ripping, particularly at the depth and on the scale 
+that Tsakopoulos planned, has a dramatic effect on the char- 
+acter of a wetland area. As the district court specifically 
+found, deep ripping “alters the movement of surface and 
+subsurface water in the ripped areas by moving earth, rock, 
+sand, and biological matter both horizontally and vertically. 
+This allows water to percolate to greater depths and limits 
+or destroys the ability of jurisdictional waters to retain wa- 
+ter.” Pet. App. 70. As a result of deep ripping, wetland fea- 
+tures can be—and is. this case were completely filled” and 
+“obliterated.” Id. at 87-88, 106. 
+
+Tsakopoulos, an experienced real estate developer who 
+had previously sought Section 404 permits, “was aware that 
+most or all of the [hydrologic] features constituted ‘waters of 
+the United States. Pet. App. 2, 70. The Corps expressly 
+informed him in mid-1993 that he would need to obtain a 
+Section 404 permit before deep ripping in those waters. Id. 
+at 70-71. Nevertheless, in October 1993, he initiated deep 
+ripping in wetlands without a permit on a portion of the 
+Ranch. Id. at 3, 71-72. The Corps attempted to resolve the 
+matter consensually and, in March 1994, granted Tsakopou- 
+
+
+collects. * * * Intermittent drainages are basically streams or water 
+courses with a defined bed and bank that generally transport water during 
+and after rains.” Pet. App. 69. 
+
+10 Petitioners do not contest that the swales and drainages at issue in 
+this proceeding are “waters of the United States” within the meaning of 
+the Clean Water Act. See Br. 2 n. I. 
+
+
+14 
+
+
+los an “after-the-fact” permit for that activity in exchange 
+for Tsakopoulos’s agreement to undertake certain mitigation 
+activities, including construction of 4.77 acres of seasonal 
+wetlands. Id. at 3, 72. 
+
+At a meeting in September 1994, Tsakopoulos informed 
+the Corps and EPA that he intended to resume deep ripping 
+uplands, and those agencies again informed Tsakopoulos that 
+he was not to deep rip in protected waters without a permit. 
+Pet. App. 3, 73. Nevertheless, the agencies discovered in 
+April 1995 that Tsakopoulos had undertaken more unper- 
+mitted deep ripping of wetlands. Id. at 3, 74. The Corps re- 
+sponded by issuing a cease-and-desist letter directing him to 
+stop deep ripping in waters of the United States. Id. at 3, 74. 
+Tsakopoulos submitted a permit application in May, and the 
+Corps sent him a permit by the end of the month. Id. at 74. 
+
+In summer 1995, Tsakopoulos initiated further deep rip- 
+ping on other parcels of the Ranch without a permit, and in 
+November 1995, the Corps issued another cease and desist 
+order. Pet. App. 3, 74-75. In May 1996, the government and 
+Tsakopoulos entered into an “administrative order on con- 
+sent” (AOC) to resolve the ongoing dispute, which implicated 
+49.1 acres of waters of the United States on the Sacramento 
+County side of the Ranch. Id. at 3, 77. Tsakopoulos agreed 
+to cease further discharges into waters of the United States 
+except in compliance with an appropriate authorization un- 
+der the Clean Water Act. Id. at 78. By the time of the AOC, 
+Tsakopoulos had deep ripped and sold 4,036 acres 
+of the Ranch for a total of approximately $16.2 million. Id. 
+at 77. 
+
+Despite the entry of the AOC, and the preparation of a 
+map specifically identifying the location of waters of the 
+United States, Tsakopoulos resumed deep ripping those wa- 
+ters without a permit in November 1996. Pet. App. 4, 76-77, 
+78, 79-80, 82-83. After EPA investigators visited the Ranch 
+in April 1997 and observed fully-engaged rippers at work in 
+
+
+15 
+
+
+jurisdictional wetlands, EPA issued an administrative order 
+finding that Tsakopoulos had violated the Clean Water Act. 
+Id. at 4, 83-84, 103." In a meeting later that month, the 
+agencies confronted Tsakopoulos with evidence of the viola- 
+tions, and he “then conceded that mistakes had been made.” 
+Id. at 11, 85.” 
+
+2. After the April 1997 meeting, petitioners initiated this 
+action challenging the authority of the Corps and EPA to 
+regulate deep ripping. EPA counterclaimed, seeking injunc- 
+tive relief and civil penalties for Clean Water Act violations 
+
+
+1! Petitioners assert that all deep ripping activities at issue in this 
+action were complete prior to December 1996. Br. 13. This assertion 
+conflicts with the district court’s finding that, e.g., “eyewitness evidence 
+reveals that, in April of 1997, deep ripping of unspecified jurisdictional 
+features occurred on parcel 8.” Pet. App. 103. The government did not 
+seek the higher penalty available for violations occurring after January 30, 
+1997, however, because it was not clear which of the wetlands were 
+affected by the April 1997 ripping, as opposed to the November 1996 
+ripping. Id. at 103-104. See also ER 630 J 13 (Tsakopoulos acknowledges 
+that he authorized spring 1997 deep ripping in parcel 8 on San Joaquin 
+County side of the Ranch). 
+
+12 Petitioners assert that, Irlelying on the Corps’ contradictory oral 
+and written advice differentiating among different forms of plowing based 
+on depth, Tsakopoulos tried to plow in ways the Corps told him would not 
+require permits.” Br. 12. The district court rejected that claim: 
+
+Tsakopoulos deliberately obfuscated his understanding of the Corps’ 
+guidance respecting driving over vernal pools and undermined the 
+Corps’ enforcement authority by wrongly stating the agency gave 
+him confusing guidance as to the nature of the contact he could have 
+with jurisdictional waters. He knew he was not authorized to deep 
+rip any jurisdictional features. 
+Pet. App. 114. See id. at 73 n.2 (Tsakopoulos’s “testimony [respecting 
+discing in vernal pools] was not veracious and is belied by the consistent 
+position federal officials expressed to Tsakopoulos on this matter.”); id. at 
+114 n.19 (“Tsakopoulos knew that the Corps’[] direction to him about his 
+activities on jurisdictional waters was clear and consistent.”); id. at 115 
+(“the evidence demonstrates that there was no serious effort to avoid 
+waters of the United States when deep rippers plowed nearly all of parcel 
+10”). 
+
+
+16 
+
+
+in connection with petitioners’ deep ripping activities in- 
+volving parcels 6, 8, 9, and 10 on the San Joaquin County side 
+of the Ranch, which had not been addressed through the 
+AOC. Pet. App. 4, 67, 86; see id. at 86-92 (describing those 
+parcels). Those four parcels comprise some 924 acres. See 
+id. at 76, 88, 89." 
+
+The parties moved for summary judgment, and the dis- 
+trict court granted partial summary judgment in favor of the 
+government. Pet. App. 28-56. The district court dismissed 
+petitioners’ claims, holding that petitioners’ activities were 
+subject to the Section 404 permitting process because they 
+“may cause discharge of fill material or pollutant into waters 
+of the United States.” Jd. at 41. The aistrict court further 
+held that petitioners’ activities did not qualify for Section 
+404(f)(1)’s normal farming exemption, id. at 42-47, and that, 
+even if they did, those activities were recaptured under Sec- 
+tion 404(f)(2), id. at 47-49. The district court determined, 
+however, that there remained disputed facts concerning the 
+extent and effects of particular instances of deep ripping. Ic 
+at 5, 41. 
+
+The district court resolved those factual issues after a 
+four-week bench trial at which the court heard evidence 
+from more than twenty witnesses and received hundreds of 
+documentary exhibits. Pet. App. 5; see id. at 67-121. The 
+district court determined that petitioners’ deep ripping had 
+filled approximately two acres of jurisdictional wetlands and 
+resulted in 358 violations, relying on the parties’ apparent 
+agreement that each pass of a ripper through a protected 
+wetland constitutes a separate violation. Id. at 5, 103, 104. 
+The court observed that It jhe relative seriousness of Tsako- 
+poulos’ violations and his lack of earnest effort to comply 
+with the Act merit a significant penalty.” Id. at 117. The 
+
+
+18 The government’s calculation of the acreage of those parcels rests, in 
+
+
+part, on petitioners’ responses to interrogatories, which are not part of the 
+record. 
+
+
+17 
+
+
+court therefore rejected Tsakopoulos’s proposal that, “if a 
+civil penalty is to be imposed, it should not exceed $97.26.” 
+Id. at 101. Nevertheless, the court did not assess its calcu- 
+lated maximum civil penalty of $8,950,000 and, instead, gave 
+petitioners the choice of paying a $1.5 million civil penalty or 
+paying a $500,000 penalty and restoring four acres of wet- 
+lands. Id. at 5, 105. Petitioners chose the latter option. Id. at 
+5, 127-133. 
+
+3. The court of appeals affirmed “the district court’s 
+holding that deep ripping in this context is subject to the ju- 
+risdiction of the Corps and the EPA.” Pet. App. 17. It noted 
+that the courts of appeals have consistently held that 
+redeposit of materials into waters of the United States can 
+constitute an “addition of a pollutant” under the Clean Water 
+Act. Id. at 6-8. The court of appeals also rejected petition- 
+ers’ contention that redeposits from a “plow” are not dis- 
+charges from a “point source.” Jd. at 8-9. The court rea- 
+soned that “(t]he statutory definition of a ‘point source’ (‘any 
+discernible, confined, and discrete conveyance’) is extremely 
+broad,” that other courts “have found that ‘bulldozers and 
+backhoes’ can constitute ‘point sources, and that the 
+combination of “bulldozers and tractors” pulling “large metal 
+prongs” also satisfies the statutory definition. Ibid. 
+
+The court of appeals concluded that petitioners’ deep rip- 
+ping was not exempt from regulation under Section 
+404(f)(1)’s normal farming exemption. Pet. App. 9-10. The 
+court observed that the exemption is subject to a “significant 
+qualifying provision,” because “even normal plowing can be 
+regulated under the Clean Water Act if it falls under this so- 
+called ‘recapture’ provision” in Section 404(f)(2). Id. at 9. 
+The court of appeals agreed with the district court that 
+“(cJonverting ranch land to orchards and vineyards is clearly 
+bringing the land ‘into a use to which it was not previously 
+subject,’ and there is a clear basis in this record to conclude 
+that the destruction of the soil layer at issue here constitutes 
+
+
+18 
+
+
+an impairment of the flow of nearby navigable waters.” Id. 
+at 10. The court accordingly “conclud[ed] that the deep rip- 
+ping at issue in this case is governed by the recapture provi- 
+sion” and that it was “entirely proper” for the government to 
+exercise jurisdiction over petitioners’ deep ripping. Ibid. 
+
+The court of appeals affirmed the district court’s calcula- 
+tion of the civil penalty. Pet. App. 12. It rejected petition- 
+ers’ argument that the Clean Water Act imposes a maximum 
+penalty of $25,000 for any day in which ripping violations 
+occurred, regardless of the total numbers of rippings in the 
+day. The court stated that the focus in the statutory penalty 
+provision “is clearly on each violation” and that a contrary 
+rule would encourage violators to “stack” violations on 
+particular days. Id. at 13. The court of appeals concluded 
+that petitioners’ other challenges to the civil penalty assess- 
+ment, none of which they raise here, lacked merit. Id. at 12. 
+
+The court of appeals reversed the district court’s findings 
+of Clean Water Act violations in one isolated vernal pool in 
+light of the government’s withdrawal of its enforcement 
+claim for that pool as a result of this Court’s decision in 
+SWANCC, 531 U.S. at 171. Pet. App. 10-11. The court 
+accordingly remanded the case to the district court for 
+recalculation of the civil penalty. Jd. at 17. Judge Gould dis- 
+sented. Id. at 18-22. He would have held “that the district 
+court erred in finding that the activities here required a 
+permit and otherwise violated the Clean Water Act.” Id. at 
+22. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. Petitioners discharged pollutants, specifically, dredged 
+and fill materials, into waters of the United States without a 
+permit, in violation of Sections 301(a) and 404 of the Clean 
+Water Act, 33 U.S.C. 1311(a), 1344. Section 502(12) defines 
+the “discharge of a pollutant” as the “addition of any pollut- 
+ant” from “any point source.” 33 U.S.C. 1362(12). Petition- 
+
+
+19 
+
+
+ers’ use of deep rippers—a form of earthmoving equip- 
+ment—to fill wetlands plainly meets that definition. 
+
+A. The material in question—rock, sand, dirt, and bio- 
+logical matter—falls squarely within Section 502(6)’s defini- 
+tion of a “pollutant,” which includes “dredged spoil,” “bio- 
+logical materials,” “rock,” and “sand.” 33 U.S.C. 1362(6). It 
+also falls within the conventional understanding and appli- 
+cable regulatory definitions of “dredged material,” which is 
+“material that is excavated or dredged from waters of the 
+United States,” 33 C.F.R. 323.2(c); 40 C.F.R. 232.2, and “fill 
+material,” which includes “any material” that is used for the 
+purpose of filling a wetland, 33 C. F. R. 323.2(e) (1994); 40 
+C. F. R. 232.2 (1994). 
+
+B. Petitioners’ deep ripping activities resulted in the 
+“addition” of the pollutants. The district court found that 
+those activities resulted in filling the wetlands through the 
+horizontal movement of material from adjacent uplands and 
+the vertical movement of material from beneath the wetland. 
+The district court did not credit petitioners’ factual claim 
+that its activities merely “turned soil in place” and “added 
+nothing.” Indeed, even if petitioners had merely ripped ma- 
+terials from within the wetlands and redeposited them there, 
+that activity would change the character of the removed 
+materials and result in the addition of a pollutant. The appli- 
+cable regulations state, and the courts have repeatedly held, 
+that the filling of a wetland through the removal and 
+redeposit of materials therein is a discharge of dredged ma- 
+terials. 33 C. F. R. 323.2(d)(1) (1994); 40 C. F. R. 232.2 (1994). 
+
+C. Petitioners’ use of deep rippers resulted i:. an addition 
+of pollutants “from a point source.” Section 502(14) defines a 
+“point source” as “any discernible, confined and discrete con- 
+veyance * * * from which pollutants are or may be dis- 
+charged.” 33 U.S.C. 1362(14). The earthmoving equipment 
+that petitioners employed meets that definition because it 
+constitutes an identifiable, limited, and distinct physical 
+
+
+means for adding dredged and fill materials to a wetland. 
+The courts of appeals have consistently treated earthmoving 
+equipment of this character as a point source. 
+
+D. Section 404(f)’s conditional exemption for “normal” 
+farming provides an additional textual indication that peti- 
+tioners’ activities, which they describe as mere “plowing,” 
+resulted in a discharge of a pollutant. 33 U.S.C. 1344(f). 
+Congress created that exemption precisely because it rec- 
+ognized that even “normal” farming activities, such as ordi- 
+nary “plowing,” could result in the discharge of a pollutant 
+within the meaning of the Clean Water Act. 
+
+II. Section 404(f) does not exempt petitioners’ deep rip- 
+ping from the Section 404 permitting process because peti- 
+tioners’ activity does not qualify as a “normal” farming activ- 
+ity under Section 404(f)(1)(A) and, even if it did, it would be 
+subject to the exception to that exemption, set out in Section 
+404(f(2). 33 U.S.C. 1344(f). 
+
+A. Petitioners’ activities do not satisfy the requirements 
+of Section 404(f)(1)(A) for two reasons. First, they are not 
+part of an ongoing farming operation. 33 C.F.R. 323.4(a)(1) 
+(ii); 40 C. F. R. 232.3(c)(1)(ii). The district court found that 
+there was no ongoing farming operation on the areas at issue 
+and that the deep ripping was necessary to prepare the area 
+for the change in use. Second, petitioners’ activity did not 
+meet the regulatory definition of plowing, which “does not 
+include the redistribution of soil, rock, sand, or other surficial 
+materials in a manner which changes any area of the waters 
+of the United States to dry land.” 33 C. F. R. 323.4(a)(1)(iii) 
+(D); see 40 C.F.R. 232.3(d)(4). Petitioners’ deep ripping ac- 
+tivities did exactly that. 
+
+B. Even if petitioners’ activities constituted “normal” 
+farming, they would not be exempt because those activities 
+had as their purpose “bringing an area of the navigable wa- 
+ters into a use to which it was not previously subject” and, as 
+a consequence of the resulting discharge of dredged and fill 
+
+
+21 
+
+
+materials, “the flow or circulation” of protected waters was 
+“impaired” and “the reach of such waters” was “reduced.” 33 
+U.S.C. 1344(f)(2). The district court found that petitioners 
+undertook their deep ripping activities to change the use of 
+the areas at issue and that those activities filled and de- 
+stroyed protected wetlands. 
+
+III. The lower courts correctly calculated the maximum 
+civil penalty that might be imposed in this case in accordance 
+with Section 309(d), which authorizes a penalty not to exceed 
+“$25,000 per day for each violation.” 33 U.S.C. 1319(d). Con- 
+trary to petitioners’ contentions, Section 309(d) does not cre- 
+ate a maximum penalty cap of $25,000 per day. Rather, by 
+its plain terms, Section 309(d) authorizes a daily penalty of 
+$25,000 per violation for those violations that continue for 
+more than one day. In this case, the district court correctly 
+treated each violation—viz., a pass of the ripper through a 
+protected wetland—as occurring on a single day and as sub- 
+ject to a maximum penalty of $25,000. That approach is con- 
+sistent with settled law. 
+
+ARGUMENT 
+
+Petitioners engaged in a practice known as “deep ripping” 
+to convert ranchland into farmland capable of supporting 
+deep-rooted crops. Section 404 does not prevent land devel- 
+opers and farmers from using that technique to excavate 
+claypan and similar subterranean soil strata from uplands. 
+Petitioners needed to obtain a Section 404 permit, however, 
+before employing that highly destructive technique in wa- 
+ters of the United States. Petitioners’ earthmoving ac- 
+tivities, which filled federally protected wetlands with rock, 
+sand, dirt, and biological matter, fall squarely within the 
+Clean Water Act’s prohibition of the unpermitted discharge 
+of pollutants from a point source. Those activities, which, in 
+the words of the trial court, “completely obliterated” nu- 
+merous wetlands, also clearly fall outside of Section 404(f)’s 
+exemption for normal farming activities that do not have as 
+
+
+their purpose bringing an area of waters of the United 
+States into a new use, changing the waters’ flow or circula- 
+tion or impairing their reach. The district court correctly 
+concluded that petitioners acted unlawfully, and it properly 
+calculated an appropriate civil penalty based on the Clean 
+Water Act’s specific direction that the maximum penalty 
+shali be “$25,000 per day for each violation,” 33 U.S.C. 
+1319(d), rather than petitioners’ preferred alternative of 
+$25,000 per day regardless of the number of violations that 
+occurred on a given day. 
+
+
+I. PETITIONERS’ USE OF EARTHMOVING EQUIP- 
+MENT, WHICH FILLED WETLANDS WITH 
+ROCK, SAND, DIRT, AND BIOLOGICAL MAT- 
+TER, RESULTED IN DISCHARGES OF POL- 
+LUTANTS SUBJECT TO REGULATION UNDER 
+SECTION 404 OF THE CLEAN WATER ACT 
+
+Petitioners analogize their deep ripping activities to ordi- 
+
+nary plowing, which they contend does not result in the “dis- 
+charge of a pollutant” within the meaning of the Clean Water 
+Act. Br. 20-31. The court of appeals and the district court 
+correctly rejected that argument. Petitioners’ characteriza- 
+tion of their deep ripping activities is inconsistent with the 
+district court’s factual findings, and petitioners’ legal argu- 
+ment is inconsistent with the Clean Water Act’s language, 
+structure, and purpose. Petitioners’ arguments are also in- 
+consistent with the regulations of the Corps and EPA, which 
+are entitled to substantial deference." 
+
+
+4 See, e. g., Chemical Mfrs. Ass'n v. Natural Res. Def. Council, 470 
+U.S. 116, 125 (1985) (EPA’s view of the Clean Water Act is “entitled to 
+considerable deference; and to sustain it, we need not find that it is the 
+only permissible construction that EPA might have adopted but only that 
+EPA’s understanding of this very ‘complex statute’ is a sufficiently 
+rational one to preclude a court from substituting its judgment for that of 
+EPA.”); accord EPA v. National Crushed Stone Ass'n, 449 U.S. 64, 83-84 
+(1980). 
+
+
+A. The Rock, Sand, Dirt, And Biological Matter That Peti- 
+tioners Used To Fill The Wetlands Are “Pollutants” 
+
+
+As the district court found, petitioners employed earth- 
+moving equipment—bulldozers fitted with “long metal 
+‘shanks”’—to “dig into the ground to a depth of five to seven 
+feet,” ripping up a “restrictive layer” of subsurface material. 
+Pet. App. 69-70. That practice 
+
+alters the movement of surface and subsurface water in 
+the ripped areas by moving earth, rock, sand, and bio- 
+logical matter both horizontally and vertically. This al- 
+lows water to percolate to greater depths and limits or 
+tea the ability of jurisdictional waters to retain wa- 
+
+
+Id. at 70. As the district court additionally found, petition- 
+ers’ practice of deep ripping “caused fill material to be dis- 
+charged into 35 hydrological features,” id. at 86, part- 
+ially or totally filling—and in some cases “completely oblit- 
+erat{ing]”—waters of the United States, id. at 87-92." 
+Petitioners incorrectly contend that the discharged mate- 
+rial—the “earth, rock, sand, and biological matter” (Pet. 
+App. 70)—is not a “pollutant” within the meaning of the 
+Clean Water Act. Br. 18, 20-21, 23-24. Petitioners face a 
+rreliminary obstacle to making that argument here because 
+they did not seek the court of appeals’ review of the district 
+court’s ruling on that question. See Pet. App. 36-37. In- 
+stead, they focused their appeal on whether deep ripping re- 
+sulted in an “addition” of the discharged material, arguing 
+that deep ripping “produces only incidental fallback.” See 
+Appellants’ C.A. Br. 23-32. The court of appeals correspond- 
+ingly addressed that issue. Pet. App. 6-9. Because petition- 
+ers did not properly preserve the question of whether 
+“earth, rock, sand, and biological matter” can constitute a 
+
+
+15 Petitioners’ amici are accordingly wrong in contending that It Ihe 
+discharge of fill material is not at issue in this case.” Nat’l Ass’n of Home 
+Builders Amicus Br. 10. 
+
+
+24 
+
+
+pollutant, petitioners have effectively conceded that those 
+materials meet the definition. The Court is under no obliga- 
+tion to revisit the matter. See Lexecon Inc. v. Milberg Weiss 
+Bershad Hynes & Lerach, 523 U.S. 26, 42 n.5 (1998). 
+
+In any event, the Clean Water Act makes abundantly 
+clear that those materials are pollutants. Section 502(6) ex- 
+pressly defines the term “pollutant” to include, among other 
+things, “dredged spoil,” “rock,” “sand,” and “biological mate- 
+rials.” 33 U.S.C. 1362(6). As Congress knew, the Corps has 
+recognized, and this case illustrates, dredged and fill mate- 
+rial typically consists of “earth, rock, sand, and biological 
+matter.” Pet. App. 70. See, e.g., United States v. Deaton, 
+209 F.3d 331, 335-336 (4th Cir. 2000); United States v. Pozs- 
+gai, 999 F.2d 719, 724 (3d Cir. 1993), cert. denied, 510 U.S. 
+1110 (1994); United States v. Tilton, 705 F.2d 429, 430 (11th 
+Cir. 1983); see also 33 C.F.R. 323.2(c) (defining “dredged 
+material” to mean “material that is excavated or dredged 
+from waters of the United States”); 33 C.F.R. 323.2(e) (1994) 
+(defining “fill material” as “any material used for the pri- 
+mary purpose of replacing an aquatic area with dry land or of 
+changing the bottom elevation of al] waterbody”) (emphasis 
+added); accord 40 C. F. R. 232.2 (EPA definitions).”* 
+
+That understanding is also confirmed by Sections 301 and 
+404, which, in tandem, regulate the discharge of dredged or 
+
+
+16 Contrary to petitioners’ suggestion (Br. 23), a substance need not be 
+a “waste” to be a pollutant. For example, a developer who seeks to fill 
+navigable waters to build a shopping center cannot avoid Section 404’s 
+permit requirement by using “native topsoil” as fill material (Br. 24), re- 
+ardless of whether that material is a “valuable natural resource” (ibid.). 
+Common fill materials, including “earth, sand, rock, and biological matter” 
+are generally not a “waste material of a human or industrial process” (Br. 
+23), but they qualify as “pollutants.” See, e. g., Deaton, 209 F.3d at 336; 
+United States v. Wilson, 133 F.3d 251, 259, 274 (ach Cir. 1997)(opinions of 
+Judges Niemeyer and Payne, respectively, recognizing that native soils 
+may constitute a pollutant); Avoyelles Sportsmen's League, Inc. v. Marsh, 
+715 F.2d 897, 924-925 (5th Cir. 1983). 
+
+
+fill materials. Section 301(a) provides that, except as in 
+compliance with” the Clean Water Act’s permitting provi- 
+sions, including Section 404, “the discharge of any pollutant 
+by any person shall be unlawful.” 33 U.S.C. 1311(a). Section 
+404(a) then states that the Corps may issue permits “for the 
+discharge of dredged or fill material.” 33 U.S.C. 1344(a). 
+Sections 301(a) and 404(a), read together, unmistakably ex- 
+press Congress’s understanding that the term “pollutant” 
+includes “dredged or fill material.” 
+
+B. Petitioners’ Activities Resulted In The “Addition” Of 
+
+Pollutants To Waters Of The United States 
+
+Petitioners next contend that their deep ripping activities 
+did not result in a “discharge of a pollutant” (33 U.S.C. 
+1362(12)) because it did not result in the “addition” of the 
+pollutants to the filled wetlands. Br. 17, 21-24. See CWA 
+§ 502(12), 33 U.S.C. 1362(12) (defining a “discharge of a pol- 
+lutant” as “any addition of any pollutant to navigable waters 
+from any point source”). That argument is wrong as a mat- 
+ter of fact and as a matter of law. 
+
+As the district court specifically found, petitioners’ exca- 
+vation activity resulted in the movement of the earth, rock, 
+sand, and biological matter “both horizontally and verti- 
+cally.” Pet. App. 70. That activity wrenched materials from 
+the uplands beside the wetlands and from the subterranean 
+claypan beneath them, partially or completely filling hydro- 
+logical features, in many cases leaving them “completely 
+obliterated.” Id. at 8, 87-92. Under any reasonable concep- 
+tion of the term “addition,” petitioners “added” materials to 
+the wetlands, which are now buried beneath the ripped up 
+materials. See, e. g., id. at 92 (“soil is mounded along where 
+the water in this part of the feature had flowed”). Indeed, 
+the district court found that petitioners’ rippers, in the 
+course of moving earth, rock, sand, and biological matter as 
+they crossed from uplands through waters of the United 
+
+
+26 
+
+
+States and back again, filled approximately two acres of 
+wetlands. Id. at 89, 92, 105.“ . 
+
+Petitioners contend that their filling of those wetlands 
+which are indisputably waters of the United States, should 
+not be viewed as resulting from an “addition” of fill material 
+because their activities merely “turn soil in place while add- 
+ing nothing and redepositing nothing.” Br. 21. According to 
+petitioners, “the plowed soil never loses contact with the 
+immediately-surrounding ground.” Ibid. The district court 
+however did not credit petitioners’ characterization of their 
+activities. Pet. App. 69- 70. See, e. g., id. at 89 (“upper swale 
+portions have been partially filled due to deep rippers plow- 
+= wi edge of the feature and depositing soil into the 
+swale”). 
+
+
+* The district eourt's findings of fact extensively document the extent 
+of fill in each wetland area. The following examples illustrate the damage 
+petitioners caused: (1) “Drainage 9 is an approximately 800-foot-long 
+intermittent drainage * * *. It has been completely filled by deep rip- 
+ping, discing, and the planting of vineyards” (Pet. App. 87); (2) “Drainage 
+10 is a 1,300-foot-long north/south intermittent drainage * * *. This 
+wetland also has been nearly completely obliterated due to several passes 
+by a deep ripper with its shank down, subsequent discing and planting 
+with vineyards” (ibid.); (3) “Drainage 34 * * * has been completely filled 
+after several passes with a fully-engaged deep ripper and subsequent 
+diseing and planting with grapes” (ibid.); (4) “Drainage 35 * * * has been 
+deep ripped, disced and planted with vineyards. It was approximately 700 
+feet long and has been completely filled“ (ibid.) (5) “[DJrainage 36 * * * 
+has been completely filled by deep ripping, discing and planting” (ibid.) 
+“{DJrainage 37 * * * also has been completely filled by deep ripping, 
+discing, and planting” (ibid.); (6) “[DIrainage 38 * * bas been similarly 
+filled” (id. at 87-88); (7) “[D]rainage 40 * is filled after deep ripping; 
+"os the east-west stretch [of thie drainage] is currently used as a dirt 
+road” (id. at 88); (8) “Drainage 19 * * * hals! been partially filled due to 
+deep rippers plowing to the edge of the feature and depositing soil into the 
+swale” (id. at 89); (9) ID lrainage 32 * * * has been deep ripped, disced 
+and planted. Reeultantly, this feature is nearly completely obliterated” 
+— — ms “A 103-foot-long portion of drainage 26 has been completely 
+
+il is mounded along where the in thi 
+— — ng water in this part of the feature 
+
+
+27 
+
+
+The district court’s findings regarding horizontal move- 
+ment of soil into the protected waters is a sufficient reason, 
+by itself, to conclude that the deep ripping activity resulted 
+in an addition for purposes of the Clean Water Act. Nor 
+does it matter whether the fill material was obtained from 
+uplands areas and subterranean strata a few feet away or a 
+few miles away—the hydrological and environmental effects 
+are the same. As the district court found, petitioners’ deep 
+ripping activities resulted in precisely the types of harms 
+that Congress sought to address through the Section 404 
+permitting process. See Riverside Bayview Homes, 474 US. 
+at 134-139. 
+
+Petitioners’ suggestion (Br. 24) that a “discharge” does 
+not occur unless the “addition” constitutes “new materials” 
+transported from a distant site cannot be reconciled with the 
+Clean Water Act’s terms. For example, the Act defines the 
+term “pollutant” to include “dredged spoil,” 33 U.S.C. 
+1362(6), and specifically regulates the discharge of “dredged 
+* * * materials,” 33 U.S.C. 1344(a), which typically involves 
+the excavation and deposition of the spoil within the same 
+water body. See, e. g., Avoyelles Sportsmen’s League, Inc. v. 
+
+Marsh, 715 F. 2d 897, 923-924 & n. 43 (5th Cir. 19838). 
+
+
+18 Petitioners filled waters of the United States, impairing and, in 
+many cases, completely destroying those features. Pet. App. 86-92, 105. 
+The district court found in this case that “the damage attributable to 
+[petitioners’) violations, including the diminished effectiveness of these 
+[wetland] features in filtering pollutants in the water system and the 
+decrease in exotic plant and animal life, will accumulate well into the 
+future.” Id. at 106. The court also found that “[petitioners’] contrary con- 
+tention that these features have not been significantly affected by the 
+plowing and deep ripping activity is unpersuasive.” Ibid. The court of 
+appeals credited the district court’s findings. Id. at 11-12, 17. 
+
+19 Dredged spoil, by definition, consists of material excavated from the 
+bottom of a waterbody or wet area. See Avoyelles, 715 F. 2d at 924 n.43; 33 
+C. F. R. 328.2(c) (“dredged material” means “material that is excavated or 
+dredged from waters of the United States”); accord 40 C. F. R. 232.2 (EPA 
+regulations). As a practical matter, la] requirement that all pollutants 
+
+
+28 
+
+
+Similarly, the Act’s broad prohibition on the unauthorized 
+discharge of “fill material,” 33 U.S.C. 1344(a), contemplates 
+that a wetland can be filled by ripping up the restrictive soil 
+layer that retains the water and depositing the resulting 
+spoil on top of the wetland. As the Corps and EPA have 
+long recognized, filling occurs when material, whatever its 
+source, is used to replace an aquatic area with dry land or to 
+change the bottom elevation of a waterbody. 33 C.F.R 
+323.2(e) (1994); 40 C. F. R. 232.2 (1994). See, e. g., — 
+715 F. 2d at 924-925 (“significant leveling” resulted in the 4 
+charge of “fill material’ into the wetlands”); United States v. 
+Sinclair Oil Co., 767 F. Supp. 200, 204 (D. Mont. 1990) (the 
+definition of “fill material” makes no distinction between in- 
+digenous and foreign materials).” 
+
+
+must come from outside sources would effectively remove the dredge-and- 
+fill prone from the statute.” Avoyelles, 715 F.2d at 924 n.43. 
+
+Petitioners contend that their deep ripping activities did not result 
+in a discharge of fill material because Corps regulations, until recently 
+amended, defined “fill material” to mean “any material used for the pri- 
+mary purpose of replacing an aquatic area with dry land or of changing the 
+bottom elevation of an [sic] waterbody.” 38 C.F.R. 323.2(e) (1997). Peti- 
+tioners contend that the “primary purpose” of their activity was simply 
+“to enhance and revitalize soil for planting new crops.” Br. 22. The 
+district court correctly concluded otherwise, finding that petitioners’ deep 
+ripping was designed to alter the hydrology of the ripped lands in a way 
+that “destroys the ability of jurisdictional waters to retain water.” Pet. 
+App. 70. See Avoyelles, 715 F. 2d at 924-925 (rejecting defendants’ char- 
+acterization of their landclearing activities, which in fact “chang[ed] the 
+bottom elevation of the waterbody” and “were designed to ‘replace the 
+aquatic area with dry land’”) (quoting 33 C. F. R. 323.2(e)). Petitioners are 
+also wrong in suggesting (Br. 8, 22) that the court of appeals’ decision here 
+is in tension with dicta in its decision in Resource Invs., Inc. v. United 
+States Army Corps of Eng’rs, 151 F.3d 1162 (9th Cir. 1998), which ad- 
+dressed the relationship between the Resource Conservation and Re- 
+covery Act of 1976 (RCRA), 42 U.S.C. 6901 et seg., and the Section 404 
+permitting process. That case involved a solid waste site leak collection 
+system that differs from the fill activities here. 
+
+
+29 
+
+
+Indeed, even if petitioners’ deep ripping activity had truly 
+done no more than remove materials from within a jurisdic- 
+tional wetland and redeposit them therein, the activity 
+would not be outside the purview of the Clean Water Act. 
+The Fourth Circuit has cogently explained why that is so in 
+United States v. Deaton, 209 F.3d 331 (2000). The Deatons 
+had hired a contractor to dig a ditch through a wetland area, 
+ignoring advice that they needed to obtain a Section 404 
+permit. 209 F.3d at 333. The contractor used a bulldozer and 
+other types of heavy machinery to pile dirt on either side of 
+the ditch within the wetland, utilizing a practice known as 
+sidecasting. Ibid. When the Deatons refused to comply with 
+the Section 404 permitting process, the government brought 
+a civil suit, and the Deatons challenged the need for a permit 
+on the ground (among others) that the excavation did not 
+result in a discharge of pollutants because there was “no net 
+increase in the amount of material present in the wetland.” 
+Id. at 335. A unanimous panel of the Fourth Circuit rejected 
+this argument, stating: 
+
+Contrary to what the Deatons suggest, the statute 
+does not prohibit the addition of material; it prohibits 
+“the addition of any pollutant.” The idea that there could 
+be an addition of a pollutant without an addition of mate- 
+rial seems to us entirely unremarkable, at least when an 
+activity transforms some material from a nonpollutant 
+into a pollutant, as occurred here. In the course of dig- 
+
+ging a ditch across the Deaton property, the contractor 
+removed earth and vegetable matter from the wetland. 
+Once it was removed, that material became “dredged 
+spoil,” a statutory pollutant and a type of material that 
+up until then was not present on the Deaton property. 
+It is of no consequence that what is now dredged spoil 
+was previously present on the same property in the less 
+threatening form of dirt and vegetation in an undis- 
+turbed state. What is important is that once that mate- 
+
+
+30 
+
+
+rial was excavated from the wetland, its redeposit in 
+
+
+that same wetland added a pollutant where none had 
+been before. 
+
+
+Id. at 335-336. 
+
+The same reasoning applies here. The materials within or 
+beneath the wetlands were not pollutants while in place; 
+they constituted the vegetation, soil, and subterranean clay- 
+pan that defined the wetlands and sustained their wetland 
+character. Those materials became pollutants when they 
+were ripped out and redeposited within the wetlands, 
+thereby destroying that character. 
+
+The court of appeals in this case acknowledged the logic of 
+Deaton and correctly recognized that the reasoning applies 
+with equal force to the facts here. Pet. App. 6-8. Indeed, the 
+courts of appeals have consistently recognized that a 
+redeposit of dredged or fill material can result in a discharge 
+of a pollutant. See Rybachek v. EPA, 904 F.2d 1276, 1285 
+(9th Cir. 1990) (dirt and gravel excavated from a streambed 
+for placer mining and then returned there); United States v. 
+M. C. C. of Fla., Inc., 772 F.2d 1501, 1503-1506 (1985) (up- 
+rooted and redeposited sea bottom material), vacated on 
+other grounds, 481 U.S. 1034 (1987), readopted in relevant 
+part, 848 F. 2d 1133 (11th Cir. 1988); Avoyelles, 715 F.2d at 
+923-925 (redeposit of trees and vegetation dug up during 
+land clearing). 
+
+Petitioners mistakenly argue (Br. 22) that the reasoning of 
+National Mining Ass’n (NMA) v. United States Army 
+Corps of Eng’rs, 145 F.3d 1399 (D.C. Cir. 1998), dictates a 
+different result. NMA involved a challenge to a regulation 
+known as the “Tulloch Rule,” which subjected certain re- 
+deposits of dredged material, known as “incidental fallback,” 
+to Clean Water Act regulation. Id. at 1402. As the court of 
+appeals explained, the term “incidental fallback” describes 
+de minimis redeposits of soil during dredging operations, 
+such as “when a bucket used to excavate material from the 
+
+
+31 
+
+
+bottom of a river, stream, or wetland is raised and soils or 
+sediments fall from the bucket back into the water.” Id. at 
+1402-1403. The court of appeals ruled that the Corps’ deci- 
+sion to subject incidental fallback to its permitting require- 
+ments exceeded the Corps’ authority to regulate the “addi- 
+tion” of “dredged material” into the waters of the United 
+States because “the straightforward statutory term ‘addi- 
+tion’ cannot reasonably be said to encompass the situation in 
+which material is removed from the waters of United States 
+and a small portion of it happens to fall back.” Id. at 1403- 
+1404. The court, however, expressly stated: 
+
+
+[W]e do not hold that the Corps may not legally regulate 
+some forms of redeposit under its §404 permitting 
+authority. We hold only that by asserting jurisdiction 
+over “any redeposit,” including incidental fallback, the 
+Tulloch Rule outruns the Corps’s statutory authority. 
+
+
+Id. at 1405. The court specifically distinguished cases such 
+as Avoyelles and Rybachek as not involving incidental fall- 
+back, but rather redeposits that may be regulated. Id. at 
+1406. 
+
+The court of appeals in this case correctly concluded that, 
+ſhlere, the deep ripping does not involve mere incidental 
+fallback, but constitutes environmental damage sufficient to 
+constitute a regulable redeposit.” Pet. App. 8 n.2. The court 
+of appeals’ conclusion rests solidly on the district court’s fac- 
+tual findings. Id. at 6-8, 70, 86-92, 105. The NMA court itself 
+specifically recognized that activities such as “plowing, ditch 
+maintenance, and the like” are distinguishable from the re- 
+lease of incidental fallback because they “may produce fall- 
+back, but they may also produce actual discharges, i.e., addi- 
+tions of pollutants.” Id. at 1405. No court has suggested that 
+activities such as petitioners’ deep ripping, which “totally 
+filled” and “completely obliterated” wetlands (Pet. App. 86- 
+
+
+32 
+
+
+92), would qualify as “de minimis” redeposits. NMA, 145 
+F.3d at 1403.” , 
+C. Petitioners’ Earthmoving Equipment Is A “Point 
+Source” 
+
+
+Petitioners contend (Br. 24-27) that the court of appeals 
+erred in holding that “plows” may constitute “point sources” 
+(Br. 24-27). The court of appeals correctly rejected peti- 
+tioners’ characterization of the activity involved here, which 
+reflects a misconception of the relevant facts and the con- 
+trolling legal principles. Pet. App. 8-9. 
+
+Section 502(14) of the Clean Water Act defines a “point 
+source” as “any discernible, confined and discrete convey- 
+ance * * * from which pollutants are or may be dis- 
+charged.” 33 U.S.C. 1362(14). The definition effectively dis- 
+tinguishes between pollution discharges that reach waters of 
+the United States from specific, readily identifiable sources 
+that can be practicably controlled through the Clean Water 
+Act’s permit processes, and pollution discharges that reach 
+those waters from diffuse sources that cannot be effectively 
+regulated through those permit regimes. Cf. EPA v. Cali- 
+
+
+2 Undaunted by the lower courts’ rejection of their claim that deep 
+ripping involves mere incidental fallback, petitioners now argue before 
+this Court that In lot even ‘incidental fallback’” occurred here. Br. 21. 
+Petitioners raise the new argument that deep ripping does not involve 
+incidental fallback on the theory that there is no redeposit if the soil 
+moved by deep ripping “never loses contact with the immediately- 
+surrounding ground.” Ibid. That argument is foreclosed because the 
+district court made no such finding of continuous contact, and petitioners 
+not only did not present the argument to the court of appeals, but they ad- 
+vanced a contradictory argument. See Appellants’ C.A. Br. 4, 23 (“ ‘deep 
+ripping’ ranchland to plant deeper-rooted crops (i. e., vineyards and 
+orchards) involves only ‘incidental fallback’,” “Plowing Ranchland 
+Produces Only ‘Incidental Fallback’”). In any event, petitioners’ 
+contention is wrong. The question of “contact” is irrelevant. For example, 
+a bulldozer grading a wetland pushes around dirt, and that dirt also 
+maintains contact with the immediately surrounding dirt. But the dirt is 
+still fill material, is still being redeposited, and is still a discharge. 
+
+
+33 
+
+
+fornia ex rel. State Water Res. Control Bd., 426 U.S. 200, 204 
+(1976). Classic examples of a “point source” are set out in 
+Section 502(14) and include, but are “not limited to,” any 
+pipe, ditch, channel, tunnel, conduit, well, discrete fis- 
+sure, container, rolling stock, concentrated animal feed- 
+ing operation, or vessel or other floating craft, from 
+which pollutants are or may be discharged. 
+
+
+U.S.C. 1 14). The Clean Water Act uses, but does not 
+22 —— “nonpoint source.” CWA §§ 208, 319, 33 
+U.S.C. 1288, 1329. The textbook examples, however, are 
+various forms of runoff, which reach — by — 
+over or percolating through topographical features. „e. g., 
+Robert — al., Environmental Regulation 630 (3d 
+ed. 2000); Pronsolino v. Nastri, 291 F.3d 1123, 1126 (9th Cir. 
+2002) (“Nonpoint sources of pollution are non-discrete 
+sources; sediment run-off from timber harvesting, for exam- 
+ple, derives from a nonpoint source.”). * 
+
+The deep ripping equipment that petitioners employed 
+bulldozers or tractors pulling 4-to-7 foot long metal shanks 
+that wrench out soil that is dragged behind the ripper (Pet. 
+App. 3, 35-36, 69-70)—falls squarely within the plain meaning 
+of a “point source.” As the district court found, petitioners 
+employed that earthmoving equipment to penetrate, break 
+up, and remove subterranean claypan, moving the disgorged 
+material “both horizontally and vertically” and depositing it 
+in wetlands. Ibid.; id. at 8-9, 86. That earthmoving equip- 
+ment is “discernible, confined and discrete,” 33 U.S.C. 
+1362(14), because it is readily identifiable, it occupies a speci- 
+fic physical space, and it is separate, and therefore distin- 
+guishable, from other sources of pollutants. It presents none 
+of the definitional difficulties that remove nonpoint sources, 
+such as sediment from timber harvesting or agricultural 
+
+stormwater runoff, from permitting requirements. The deep 
+ripping equipment is furthermore a “conveyance” from 
+which poilutants are discharged. Ibid. It moves earth, rock, 
+
+
+34 
+
+
+sand, and biological matter “both horizontally and vertically” 
+from upland and subterranean features, thereby filling the 
+wetland. Pet. App. 3, 8-9, 69-70, 86. 
+
+The deep ripping equipment at issue here is not meaning- 
+fully distinguishable from other types of earthmoving 
+equipment, such as dredges, graders, front-loading bulldoz- 
+ers, and backhoes, that dig up, transport, and deposit fill ma- 
+terial. The courts have consistently and uniformly treated 
+such equipment as point sources. See Pet. App. 8-9, 39-40; 
+Deaton, 209 F.3d at 333 (sidecasting through the use of a 
+backhoe, front-end loader, and bulldozer); United States v. 
+Akers, 785 F.2d 814, 817-820 (9th Cir.) (site preparation 
+using a grader, tractor pulling dises, and a ripper), cert. 
+denied, 479 U.S. (1986); Avoyelles, 715 F.2d at 922 
+(landclearing using bulldozers and backhoes); see also In re 
+Alameda County Assessor’s Parcels, 672 F. Supp. 1278, 
+1284-1285 (N.D. Cal. 1987)(same); United States v. Larkins, 
+657 F. Supp. 76, 78 n.2, 85 (W.D. Ky. 1987) (same).” 
+
+
+2 In their reply brief at the petition stage, petitioners claimed that 
+“(t}he government’s statement that Akers involved “rippers” is false.” 
+Pet. Reply Br. 4 (emphasis in original). Petitioners’ accusation is incor- 
+rect. The district court’s decision in Akers makes clear that a ripper was 
+used: 
+
+Various sections of the southern wetlands were disced with farm 
+
+equipment. Prior to the discing, the areas were ripped with a chisel 
+
+plow (or “ripper”) which was used to slice through the soil so that the 
+
+discing would more effectively pulverize the soil. 
+United States v. Akers, 15 Envtl. L. Rep. (Entl. L. Inst.) 20,243, 20,244 
+(E. D. Cal. Jan. 11, 1985), aff'd, 785 F.2d 814 (9th Cir.), cert. denied, 479 
+U.S. 828 (1986). That court issued a preliminary injunction enjoining the 
+defendant’s dredge and fill activities, declining his invitation “to look at 
+each of his earth-moving activities individually.” Id. at 20,245, 20,248. The 
+court of appeals affirmed that injunction. 785 F.2d at 823. Thus, the 
+government correctly characterized the facts in Akers. Indeed, the 
+government had informed petitioners of Akers’ facts in its brief n the 
+court of appeals, quoting the indented language from the district court’s 
+decision. See Gov't C.A. Br. 22 n.11. 
+
+
+Petitioners contend that the equipment at issue here is 
+merely a “plow” and that a plow does not qualify as a “point 
+source” because it lacks the “ability to confine, contain, and 
+concentrate, and then to carry and convey” pollutants “from 
+one discrete location to another.” Br. 25 (emphasis in origi- 
+nal). But the equipment at issue here is not a yeoman’s 
+“plow” that might be pulled by “horses and oxen” (Br. 26-27), 
+but rather powerful industrial earthmoving machinery. Peti- 
+tioners do not dispute that “bulldozers and backhoes” or 
+other equipment used for “major earthmoving, excavation, 
+and ditching functions” may constitute point sources. Br. 26. 
+Instead, they would have this Court draw an arbitrary dis- 
+tinction between heavy equipment that moves earth by 
+pushing a “grading blade” or lifting a “bucket,” and essen- 
+tially identical heavy equipment that moves earth by drag- 
+ging a “deep plow shank[]}” from behind. Br. 25-26, 27. 
+
+More fundamentally, the test is not whether the opera- 
+tional ripper has the “ability” to “confine, contain and con 
+centrate” pollutants (Br. 25), but rather whether it is a “dis- 
+cernible, confined and discrete conveyance” that discharges 
+pollutants into wetlands. See CWA § 502(14), 33 U.S.C. 
+1362(14). The rippers in this case meet that test. They are 
+not disqualified simply because they do not possess other im- 
+material characteristics of other point sources that are 
+designed to convey other types of materials—such as gases, 
+liquids, or slurries—through other means.” 
+
+
+2 Petitioners also characterize the longstanding regulatory distinction 
+between discharges from earthmoving equipment and discharges from 
+agricultural runoff as “the height of irrationality.” Br. 26. To the con- 
+trary, Congress’s exclusion of agricultural stormwater runoff and irri- 
+gation return flows from the definition of “point source” aptly illustrates 
+the difference Congress discerned between point source discharges that 
+may be regulated through the Clean Water Act’s permitting processes, 
+and other pollution discharges that Congress intended to be addressed 
+through other means, such as the Section 208(b) areawide waste treat- 
+
+
+D. Section 404(f) Indicates That Even Ordinary Plowing 
+May Result In The Discharge Of Pollutants 
+
+
+The Clean Water Act’s “normal farming” exemption, Sec- 
+tion 404(f), demonstrates that even ordinary plowing may 
+result in the “discharge of a pollutant” that is subject to 
+regulation under Section 404. Section 404(f)(1)(A) creates a 
+limited exemption from the Section 404 permitting require- 
+ments for “normal farming, silviculture, and ranching activi- 
+ties” including “plowing, seeding, cultivating,” and other 
+listed farming activities. 33 U.S.C. 1344(f)(1)(A). If farming 
+activities such as plowing never result in a discharge of a pol- 
+lutant for purposes of the Clean Water Act, as petitioners 
+assert (Br. 17), there would be no need to create an exemp- 
+tion for them. See Minnehaha Creek Watershed Dist. v. 
+Hoffman, 597 F. 2d 617, 626 (8th Cir. 1979) (A similar exemp- 
+tion for maintenance or emergency reconstruction, set out at 
+Section 404(f)(1)(B), “would be necessary only if such work is 
+generally subject to § 404 permitting requirements.”). 
+
+Section 404(f)(2)’s specific delineation of conditions under 
+which discharges from normal farming activities may still 
+require a Section 404 permit provides still further proof that 
+Congress understood that those activities could cause dis- 
+charges of dredged or fill material. 33 U.S.C. 1344(f)(2). If 
+petitioners are correct that farming activities cannot pro- 
+duce discharges, then they could not be recaptured in this 
+manner. Accordingly, Section 404(f)(2) expresses the clear 
+understanding that even “normal” farming activities remain 
+potentially subject to regulation as point source discharges. 
+It follows, a fortiori, that the extraordinarily destructive ac- 
+tivity in which petitioners engaged here also is subject to 
+such regulation. 
+
+
+ment management planning process. See 33 U.S.C. 1288(b)(2)(F); see also 
+CWA § 319, 33 U.S.C. 1329. 
+
+
+37 
+
+
+Petitioners rely heavily on statements from individual 
+legislators (Br. 36-39) in support of their assertion that Con- 
+gress did not mean what it said when it indicated that even 
+“normal” farming is potentially subject to regulation. But the 
+best evidence of congressional intent “is the statutory text 
+adopted by both Houses of Congress and submitted to the 
+President. Where that contains a phrase that is unambiguous 
+* * * we do not permit it to be expanded or contracted by 
+the statements of individual legislators or committees during 
+the course of the enactment process.” West Virginia Univ. 
+Hosps., Inc. v. Casey, 499 U.S. 83, 98-99 (1991). See, ¢.g., 
+United States v. Gonzales, 520 U.S. 1, 8 (1997) (“[wJhere 
+there is no ambiguity in the words, there is no room for con- 
+struction” (quoting United States v. Wiltberger, 18 U.S. (5 
+Wheat.) 76, 95-96 (1820) (Marshall, C. J.)). In any event, the 
+legislative history reinforces what is manifest from the text 
+itself: even normal farming activities can result in regulated 
+discharges. See, e. g., note 4, swpra.™ 
+
+
+* There is no merit to petitioners’ suggestion that the 1972 
+Amendments did not reach agricultural discharges. See, ¢.g., H.R. Rep. 
+No. 95-139, supra, at 23 (recognizing, in proposing a precursor of Section 
+404(f), that “[uJnder the existing section 404 program given its broadest 
+reach, all matters of agricultural and forestry activities could be subject to 
+Federal permit regulation”). Congress enacted Section 404(f), as part of 
+the 1977 Amendments, based on its conclusion that a carefully circum- 
+scribed agricultural exemption was warranted. Congress could have 
+adopted language that broadly exempted all farming activities from the 
+definition of a discharge of a pollutant, or from the definition of a point 
+source, as it did in the case of agricultural stormwater discharges and 
+irrigation return flows. But Congress elected not to do so. It could also 
+have phrased the Section 404(f) exemption more broadly, or it could have 
+elected not to include the recapture provision. Indeed, it considered such 
+approaches in crafting the 1977 Amendments. See, e.g., 4 Leg. His. 623- 
+624 (proposed Senate bill), 1159-1160 (proposed House bill), 1343 
+(proposed amendment of Rep. Edgar). But Congress ultimately settled on 
+Section 404(f) as enacted, which limits the normal farming exemption to 
+“narrowly defined activities that cause little or no adverse effects either 
+
+
+II. SECTION 404(f) DOES NOT EXEMPT PETI- 
+TIONERS’ DEEP RIPPING FROM THE SECTION 
+404 PERMITTING PROCESS 
+
+
+Petitioners contend (Br. 31-46) that their activities fell 
+within the Section 404(f) conditional exemption for normal 
+farming activities. 33 U.S.C. 1344(f). The courts of appeals 
+have uniformly recognized that, to qualify for the conditional 
+exemption, one must demonstrate “that proposed activities 
+both satisfy the requirements of Section 404(f)(1) and avoid 
+the recapture provision of Section 404(f)(2).” United States 
+v. Brace, 41 F.3d 117, 124 (8d Cir. 1994), cert. denied, 515 
+U.S. 1158 (1995); see Akers, 785 F. 2d at 819; Avoyelles, 715 
+F. 2d at 925. The courts of appeals have also uniformly held 
+that Congress intended the courts to apply the normal 
+farming exemption, as well as other exemptions under 
+Section 404(f)(1), as “narrow” exceptions to the generally 
+applicable pernutting requirements. Brace, 41 F.3d at 124, 
+125; Akers, 785 F.2d at 819; United States v. Huebner, 752 
+F.2d 1235, 1240-1241 (7th Cir.), cert. denied, 474 U.S. 817 
+(1985); Avoyelles, 715 F.2d at 925 n.44. 
+
+The district court held that the discharges from petition- 
+ers’ deep ripping required a Section 404 permit for two rea- 
+sons. First, they did not satisfy the requirements of Section 
+404(f)(1)(A), 33 U.S.C. 1344(f)(1)(A). Pet. App. 42-47. In par- 
+ticular, the district court held that petitioners’ activities did 
+not meet the regulatory description of a “normal” farming 
+activity or the regulatory definition of “plowing.” Ibid. Sec- 
+ond, even if they had, petitioners’ activities were recaptured 
+under Section 404(f)(2), because it was undisputed that peti- 
+tioners sought to convert use of the area from cattle ranch 
+ing to vineyard and orchard cultivation and that the deep 
+_ ripping for that purpose impaired the flow or circulation of 
+
+
+individually or cumulatively.” 3 Leg. His. at 474 (Sen. Muskie). See note 
+4, supra. 
+
+
+and reduced the reach of wetlands to the point that they 
+ceased to exist. Id. at 47-49. The court of appeals found it 
+unnecessary to reach the question whether petitioners en- 
+gaged in normal farming within the meaning of Section 
+404(1)(1)(A), concluding that their activities clearly fell with- 
+in the recapture provision of Section 404(f)(2). See id. at 9- 
+10. 
+
+
+A. Petitioners’ Deep Ripping Did Not Satisfy The Require- 
+ments Of Section 404(f)(1) 
+
+Congress has charged EPA and the Corps with responsi- 
+bility for implementing the Clean Water Act, including the 
+Section 404 permitting program. See CWA § 101(d), 83 
+U.S.C. 125 10d). Congress has also granted the Corps, impli- 
+eitly, and EPA, explicitly, the power to issue regulations for 
+administering the Act’s provisions. See CWA §§ 404, 501(a), 
+33 U.S.C. 1344, 1361(a). In accordance with Congress’s ex- 
+pectations, those agencies have issued regulations, after no- 
+tice and comment, delineating the scope of the exemption for 
+“normal” farming. CWA § 404(f), 33 U.S.C. 134400.“ : 
+
+The regulations provide that, to qualify as “normal 
+farming, the activity “must be part of an established (i.e., on- 
+going) farming * * * operation. * * * An operation ceases 
+to be established when the area on which it was conducted 
+has been converted to another use or has lain idle so long 
+
+
+25 Petitioners assert that Congress has defined the scope of “normal” 
+farming. Br. 32, n.20. Congress, however, has not provided definitions of 
+Section 404(f)’s operative terms, such as “normal” or “plowing. Instead, 
+Congress recognized that the scope of any farming exemption “must be 
+defined in regulations.” 4 Leg. His. 709 (S. Rep. No. 95-370, supra, at 76). 
+Petitioners also make much of the Corps’ regulations from 1975 and July 
+1977 (Br. 5-6), before Congress enacted the 1977 Amendments in 
+December 1977. But Congress did not adopt the Corps’ prior approach to 
+regulating agricultural activities when it adopted Section 404(f). The 
+Corps recognized that fact and proposed new regulations, 45 Fed. Reg. 
+62,732 (1980), which were later promulgated in final form, 51 Fed. Reg. 
+41,232 (1986), long before the events at issue here. 
+
+
+40 
+
+
+that modifications to the hydrological regime are necessary 
+to resume operation.” 33 C. F. R. 323.4(a)(1)(ii); see 40 C. F. R. 
+232.3(c)(1)(ii). The courts of appeals have long recognized 
+and applied the agency’s interpretation. See Brace, 41 F.3d 
+at 124- 125; Akers, 785 F.2d at 819.” 
+
+The question, accordingly, is whether petitioners’ activi- 
+ties “were within the meaning of the statutor, term ‘normal 
+farming activities’ as defined by the regulations.” Pet. App. 
+45 (quoting Brace, 41 F.3d at 127). The district court cor- 
+rectly concluded that they were not. Prior to petitioners’ 
+purchase of Borden Ranch in 1993, there was no ongoing 
+farming operation on the areas at issue in this case. See pp. 
+11-12 & n.8, supra. Rather, Borden Ranch had “primarily 
+been used as rangeland for the grazing of cattle.” Pet. App. 
+44. Although portions of Borden Ranch not at issue here had 
+previously been used “for the production of wheat, beets, 
+tomatoes, beans, and corn since approximately 1940, upland 
+crop production has not occurred on a regular basis.” Ibid. 
+Indeed, petitioners admitted that the land at issue “must be 
+deep ripped and disked before it will be suitable for planting 
+
+
+vineyards and orchards.” Jbid. As the district court ob- 
+served: 
+
+
+In other words, even if the subject wetlands and other 
+waters on Borden Ranch were previously farmed, “modi- 
+fications to the hydrological regime are necessary” to en- 
+able [petitioners] to now plant orchards and vineyards. 
+This evinces that [petitioners’] activities are not part of 
+an established farming operation. 
+
+
+26 The interpretation of EPA and the Corps coincides with the ordinary 
+meaning of “normal.” See Webster’s Third New International Dictionary 
+1540 (1993) (defining “normal,” in its most relevant sense, as “according to, 
+constituting, or not deviating from an established norm, rule, or principle: 
+conformed to a type, standard; regular”). That long-standing regulatory 
+interpretation is, of course, entitled to deference. See Riverside Bayview 
+Homes, 474 U.S. at 131; Chevron U.S.A. Inc. v. Natural Res. Def. Council, 
+Inc., 467 U.S. 837, 844 (1984); Pet. App. 45. 
+
+
+41 
+
+
+Id. at 45 (quoting 33 C. F. R. 323.406) (1) (ii): 40 C. F. R. 
+232.3(e)(1)(ii(B))." | 
+
+Furthermore, petitioners’ deep ripping also fails to satisfy 
+the Section 404(f)(1)(A) exemption because it did not con- 
+stitute “plowing” as that term is defined in the Corps and 
+EPA regulations: 
+
+
+Plowing means all forms of primary tillage, in- 
+cluding moldboard, chisel, or wide blade plowing, 
+discing, harrowing and similar physical means utilized 
+on farm, forest or ranch land for the breaking up, 
+cutting, turning over, or stirring of soil to prepare it for 
+the planting of crops. The term does not include the 
+redistribution of soil, rock, sand, or other surficial 
+materials in a manner which changes any area of the 
+waters of the United States to dry land. For example, 
+the redistribution of surface materials by blading, 
+grading, or other means to fill in wetland areas is not 
+plowing. * * * Plowing as described above will never 
+involve a discharge of dredged or fill material. 
+
+33 C. F. R. 323.4(a)(1)(iii)(D) (emphasis added); see 40 C.F.R. 
+d)(4) (same).” 
+and their amiei generally elide the emphasized 
+language when quoting the provision. See Br. 4, 18, 42; Am. 
+Farm Bur. Fed'n Br. 18; Cal. Farm Bur. Fed'n Br. 22 n.31. 
+
+
+2 Significantly, petitioners themselves submitted a declaration from 
+the — Borden Ranch stating that, aside from approximately 
+1200 acres of “bottom ground” along Dry Creek, which is not at issue here, 
+the balance of the land was used as rangeland to graze cattle in the 50- 
+plus years they owned the property before Tsakopoulos purchased it. 
+cor — regulatory definition of “plowing” applies, of course, to the use 
+of that term in other related regulatory provisions. For example, the 
+Corps’ definition of “discharge of fill material” states, among other things, 
+that Itjhe term does not include plowing, cultivating, seeding and har- 
+vesting for the production of food, fiber and forest products (See 
+§ 323.4 for the definition of these terms).” 33 C.F.R. 323.2(f). 
+
+
+* 
+
+
+42 
+
+
+The emphasized passage, however, has central relevance to 
+this case. The district court expressly found that petitioners’ 
+deep ripping—even if euphemistically characterized as mere 
+“plowing”—redistributed “earth, rock, sand, and biological 
+matter,” Pet. App. 70, converting waters of the United 
+States into dry land, id. at 86-92, 106. Although petitioners 
+and their amici imply that deep ripping is an innocuous ac- 
+tivity, it can completely destroy wetlands, and it did so in 
+this case. Ibid.” 
+
+The court of appeals affirmed the district court’s findings, 
+Pet. App. 11-12, and those findings should not be open to fur- 
+ther dispute here. E. g., Ceccolini, 435 U.S. at 273; Graver 
+Tank, 336 U.S. at 275. Thus, petitioners’ activities fall out- 
+side of the regulatory definition of “plowing” and outside of 
+ne Section 404(f)(1)(A) exemption.” 
+
+
+* Indeed, petitioners submitted a declaration below stating that, 
+before development of machinery powerful enough to pull the rippers 
+through the earth at the requisite depth, ER 453, “some areas were 
+blasted to remove the hardpan in order for deep rooted crops to be 
+grown.” Cook Decl. J 5(b). 
+
+% Petitioners contend (Br. 6, 43) that the Corps adopted a broader 
+definition of “plowing” through a Regulatory Guidance Letter (RGL) 
+dated February 11, 1986, that they have lodged with the Clerk of the 
+Court. See Add., infra, 12a-13a. But the RGL, which explicitly states that 
+Injot all activities involving the use of a plow, disc, or similar equipment 
+will satisfy the definition of plowing,” reiterates the definition of “plowing” 
+set forth in 33 C.F.R. 323.4(a)(1)(iii(D). Add., infra, 12a. At the same 
+time, petitioners attack (Br. 10-11, 44) a joint Corps and EPA “Memo- 
+randum To The Field,” dated December 12, 1996, which specifically 
+discussed the applicability of Section 404(f) to deep ripping. Add., infra, 
+14a-2la. The Memorandum advised agency field personnel on the 
+agencies’ application of Section 404(f) to deep ripping activities, tracking 
+Section 404(f) and the agencies’ regulations. Ibid. The agencies properly 
+issue such memoranda to provide guidance to their field personnel about 
+the application of pertinent regulations to recurring factual situations. As 
+petitioners acknowledge (Br. 44 n.25), the interpretations articulated 
+therein are entitled to the Court’s respect to the extent that they have the 
+“power to persuade.” Christensen v. Harris County, 529 U.S.-576, 587 
+(2000). In this case, the district court had no occasion to rely on the 
+
+
+43 
+
+
+B. Petitioners’ Deep Ripping Is Subject To The Recapture 
+Provisions Of Section 404(f)(2) 
+
+Even if petitioners’ deep ripping satisfied the require- 
+ments of Section 404(f)(1)(A), that activity would be subject 
+to the “recapture” provisions of Section 404(f)(2). See 33 
+U.S.C. 1344(f). The recapture provisions require a person to 
+obtain a Section 404 permit if (a) the person engages in a 
+“normal” farming activity “having as its purpose bringing an 
+area of navigable waters into a use to which it was not pre- 
+viously subject,” and (b) as a consequence of a resulting dis- 
+charge of dredged or fill material, “the flow or circulation of 
+navigable waters may be impaired or the reach of such wa- 
+ters be reduced.” 33 U.S.C. 1344(f)(2). The court of appeals 
+correctly concluded that those conditions are satisfied here. 
+
+The district court found that petitioners “s[ought] to con- 
+vert use of their land from ranching and grazing cattle to 
+growing vineyards and orchards.” Pet. App. 47. Further- 
+more, petitioners conceded “that the land must be deep 
+ripped and disked before it will be suitable for planting vine- 
+yards and orchards.” Id. at 44. Petitioners quite plainly in- 
+stituted their deep ripping activities to bring the area, in- 
+cluding the wetlands at issue in this case, into a use to which 
+they were not previously subject. Indeed, by the time of 
+trial, some of the wetlands in question had been completely 
+converted to dry land and had already been planted with 
+vineyards. Id. at 87-88, 91. 
+
+
+Memorandum. Pet. App. 4 n.1, 30 n.2. It also found that petitioners had 
+notice beginning in 1900-_tong before the Memorandum iseued—that their 
+activities were subject to Section 404’s permitting requirements. Id. at 71. 
+31 Petitioners suggest (Br. 10, 19, 33) that the wetlands in question had 
+been used to grow crops before they were deep ripped, but the district 
+court made no such finding, and there is no evidence in the record that 
+crops were grown on those areas or that they had been plowed in any way 
+for at least a half-century before petitioners purchased them. Pet. App. 
+44; SER 76. The only portions of the Borden Ranch cultivated for crops 
+before petitioners’ purchase lie along Dry Creek; they were not deep 
+
+
+44 
+
+
+The district court also found that petitioners’ deep ripping 
+for the purpose of land use conversion resulted in discharges 
+of dredged and fill material that impaired the flow or circula- 
+tion of the wetlands and reduced their reach, to the point 
+that they have been severely impaired or completely filled. 
+Pet. App. 48, 87-92. The court of appeals agreed, noting that 
+petitioners had “radically altered the hydrological regime of 
+the protected wetlands.” Jd. at 10. Accordingly, both courts 
+correctly concluded “that the deep ripping at issue in this 
+case is governed by the recapture provision” and therefore 
+subject to Section 404’s permitting requirements. Ibid.; see 
+id. at 47-49. | 
+
+Petitioners principally argue that Section 404(f)(2) applies 
+only if the farming activity in question is “merely ‘incidental’ 
+to some other activity whose purpose is to convert waters to 
+an upland use to which they were not previously subject.” 
+Br. 19; see Br. 33. But that is not what Section 404(f)(2) 
+says. Section 404(f)(2) addresses “discharge(s] of dredged or 
+fill material” that are “incidental” to the “activity” in ques- 
+tion. That “activity” is, of course, the “normal farming 
+* * * activit[y]” that would otherwise be exempt from the 
+permitting requirement. See Commissioner y. Lundy, 516 
+U.S. 235, 250 (1996) (invoking the statutory canon that “iden- 
+tical words used in different parts of the same act are in- 
+
+tended to have the same meaning”). Petitioners’ argument 
+(which they did not raise in the court of appeals) ignores the 
+plain terms of the statute. Section 404(f) says nothing about 
+recapturing a “normal” farming activity only when it is “in- 
+cidental” to some other unidentified activity that produces 
+still greater harm. Moreover, petitioners ignore that Section 
+
+
+ripped and are not at issue here. See notes 8 & 27, supra. Instead, the 
+area in question was used primarily as rangeland for grazing cattle. Pet. 
+App. 44. Furthermore, the district court did not find, and nothing in the 
+record would support an assertion, that cattle grazing continued in those 
+areas after they were converted to vineyards. 
+
+
+45 
+
+
+404(f)(1), which creates the exemption for normal farming 
+activity, begins with the phrase “Except as provided in 
+paragraph (2) of this subsection” (33 U.S.C. 1344(f)(1)), thus 
+reinforcing that Section 404(f)(2)’s exception to the exemp- 
+tion does indeed apply to normal farming activity, contrary 
+to the thrust of petitioners’ argument.” 
+Petitioners characterize the court of appeals as having 
+ruled that Section 404(f)(2)’s recapture provision would 
+apply to any alteration of the hydrology of a wetland. Br. 19, 
+35. That is not so. The court of appeals and the district 
+court each reached their conclusion based on an application 
+of Section 404(f)(2)’s specific requirements to the facts of this 
+case. They did not suggest, as petitioners and their amici 
+contend, that “any change in agricultural crop or 
+practice—even plowing crop land to lie fallow—would bring 
+any kind of plowing within federal regulation.” Br. 35; see 
+Am. Farm Bur. Fed’n Br. 10; Ca. Farm Bur. Fed’n Br. 16. 
+To the contrary, the court of appeals explicitly stated that 
+Section 404(f)(2) would not recapture the activities of a 
+
+
+In yet another new argument, petitioners suggest that the recapture 
+provision should apply only if the wetland at issue is brought “into a use to 
+which it was not previously subject” (33 U.S.C. 1344(f)(2)) in the sense 
+that the wetland was not “capable of or amenable to” the new use “in its 
+natural condition.” Br. 34. In other words, Section 404(f)(2) would allow 
+the filling of a wetland if the wetland had not been, but could have been, 
+put to the new use without being filled. See ibid. There is no reason to 
+think, however, that Congress intended to allow filling of wetlands so long 
+as the wetlands did not need to be filled. See 3 Leg. His. 474 (statement of 
+Sen. Muskie). Neither the Corps nor EPA, or any court, has endorsed the 
+counter-intuitive notion that wetlands may be destroyed so long as the 
+destruction is gratuitous. In any event, petitioners have already admitted 
+that the area in question in this case was not suitable for planting 
+vineyards and orchards “in its natural condition” (Br. 34) without deep 
+ripping and its concomitant conversion of wetlands to dry land. See Pet. 
+App. 44-45, 48. The argument, therefore, appears to be merely a variant, 
+in a new guise, of petitioners’ contention that deep ripping does not result 
+in the “addition” of pollutants to the filled wetlands. See pages 25-32, 
+supra (responding to that contention). 
+
+
+46 
+
+
+farmer seeking to change from one wetland crop to another. 
+Pet. App. 10. 
+
+Petitioners’ related claim (Br. 35-36) that the lower courts’ 
+ruling would preclude plowing historically ranched land for 
+the first time to improve the forage or to plant crops is also 
+incorrect. The agencies’ regulations allow many types of ag- 
+ricultural activity, including “plowing” as that term is de- 
+fined in the agencies regulations. See 33 C. F. R. 323.4(a)(1) 
+(ui) D) 40 C. F. R. 232. 30d) (4). In this case, however, peti- 
+tioners engaged in deep ripping that changed the use of 
+wetlands and incontrovertibly converted them to dry land. 
+The courts below correctly concluded that Section 404(f)(2) 
+does not allow that activity without a permit.“ 
+
+The lower court rulings in this case reflect long settled 
+law. The courts of appeals have consistently held that con- 
+verting from one type of use to another—e.g., from pasturing 
+of cattle and horses to cropping operations, from silviculture 
+to soybean production, or from wetlands farming to dryland 
+farming—can subject the activities in question to recapture 
+under Section 404(f)(2) if those activities result in significant 
+changes to the hydrology of protected waters. See Brace, 41 
+F. 3d at 129 (wetlands to dryland farming); Akers, 785 F.2d at 
+822-823 (same); Huebner, 752 F.2d at 1240 (cranberries to 
+barley, corn and other dryland crops); Avoyelles, 715 F.2d at 
+925 (forest to soybean production). Those decisions demon- 
+strate that the courts have followed an intensely factual, 
+case-by-case approach in determining the application of Sec- 
+tion 404(f)(2). The lower courts here followed that approach 
+and correctly recognized, consistent with the statute and 
+
+
+l Petitioners also claim, based on provisions in the Food Securi 
+of 1985, that “plowing” is not a wetland conversion activity. —— 
+Petitioners, however, have previously acknowledged below that the Food 
+Security Act is not applicable here. ER 431 n.14. Even if that Act were 
+otherwise applicable, petitioners’ deep ripping falls under 16 U.S.C. 
+3822(b)(1)(D), because it destroyſed] a natural wetland characteristic.” 
+
+
+47 
+
+
+settled law, that the deep ripping that occurred here was not 
+exempt from Section 404’s permitting requirements. 
+
+III. THE LOWER COURTS CORRECTLY CALCU- 
+LATED THE MAXIMUM CIVIL PENALTY 
+
+
+The district court properly determined petitioners’ civil 
+penalty for discharging dredged and fill material without a 
+permit in accordance with Section 309(d) of the Clean Water 
+Act, 23 U.S.C. 1319(d), which provides that the maximum 
+civil penalty shall be calculated by multiplying the maximum 
+penalty amount for each violation by the number of individ- 
+ual violations. See Pet. App. 16, 102-104. The court of ap- 
+peals affirmed the district court’s “careful analysis of the 
+penalty issue on the facts of this case,” noting that the pen- 
+alty was “significantly lower than the statutory maximum,” 
+and remanded only for a determination of “what, if any, re- 
+duction in the penalty is appropriate” with regard to the 
+vernal pool withdrawn from the case. Id. at 16, 17. 
+
+Section 309(d) provides that any person who violates See- 
+tion 301 of the Clean Water Act “shall be subject to a civil 
+penalty not to exceed $25,000 per day for each violation” and 
+specifies several factors to be considered in determining the 
+ultimate penalty amount. 33 U.S.C. 1319(d). It explicitly 
+recognizes that a single violation—such as a continuous dis- 
+charge of a pollutant from an outfall—may persist over a 
+long period of time and, in that situation, imposes a penalty 
+of $25,000 per day. In this case, the district court noted that 
+“(t]he parties apparently agree that each pass [of a ripper] 
+constitutes a separate violation,” Pet. App. 103, and it ac- 
+cordingly counted the number of times a deep ripper passed 
+through protected waters and multiplied that number by 
+$25,000, arriving at a maximum statutory penalty of 
+$8,950,000. Jd. at 103-104. That court also stated that “the 
+day on which a discharge occurred is the only day that will 
+be counted in determining the maximum penalty.“ Id. at 
+
+102-103. It then analyzed the factors identified in Section 
+
+
+48 
+
+
+309(d) and reduced that amount to $1.5 million, giving peti- 
+tioner Tsakopoulos the option, which he ultimately chose, to 
+reduce the penalty even further to $500,000, provided that 
+he agree to undertake restoration of four acres of wetlands. 
+See id. at 104-118, 129. 
+
+In the court of appeals, petitioners did not challenge the 
+district court’s determination that each pass of a deep ripper 
+through a protected wetland constituted a separate viola- 
+tion. Rather, they contended the: ction 309(d) provides a 
+maximum daily penalty amount, re, urdiess of the number of 
+violations that occur on each day. See Appellants’ C.A. Br. 
+57 (“This statute contemplates maximum penalties will be 
+calculated not in terms of ihe total number of individual vio- 
+lations of the same type, but, rather, in terms of daily viola- 
+tion units.”); Gov't C. A. Br. 51. The court of appeals cor- 
+rectly rejected that argument. Pet. App. 13-16. Contrary to 
+petitioners’ contentions (Br. 46-50), Section 309(d) states 
+that a maximum penalty of $25,000 shall be imposed “per day 
+for each violation,” 33 U.S.C. 1319(d)—not “per day for each 
+category of violation” or “per daily violation unit.” As the 
+court of appeals observed, “(t]he focus is clearly on each vio- 
+lation, and courts have consistently rejected attempts to 
+limit civil penalties to the number of days in which violations 
+occur.” Pet. App. 13. 
+
+Indeed, Congress specifically resolved this question in the 
+1987 Amendments. See Pub. L. No. 100-4, § 313(b)(1), 101 
+Stat. 45; p. 8, supra. Prior to February 3, 1987, Section 
+309(d) stated that violators “shall be subject to a civil pen- 
+alty not to exceed $10,000 per day of such violation.” Some 
+courts took the view that this language required a cap on to- 
+tal penalties of $10,000 per day. In response, Congress 
+amended Section 309(d) to its current form, not only to in- 
+crease the daily maximum, but “to clarify that each distinct 
+violation is subject to a separate daily penalty assessment of 
+up to $25,000.” H.R. Rep. No. 99-1004, at 132 (1986). Peti- 
+
+
+49 
+
+
+tioners’ interpretation would put in place the erroneous in- 
+terpretation that Congress rejected and would effectively 
+remove “for each violation” from the statutory text. 
+
+As the Eleventh Circuit correctly stated in Atlantic 
+States Legal Found., Inc. v. Tyson Foods, Inc., 897 F.2d 
+1128 (1990), “there is no daily cap of $25,000,” and “each ex- 
+cessive discharge of a pollutant on a given day will subject 
+the polluter to a $25,000 maximum fine.” Id. at 1139. The 
+court of appeals correctly followed that approach here. As 
+that court recognized, if petitioners’ contrary approach were 
+adopted, a defendant who committed multiple violations on a 
+single day would be subject to the same maximum penalty as 
+someone who committed only a single violation. Pet. App. 
+13. See United States v. Smithfield Foods, Inc., 191 F.3d 
+516, 527-528 (4th Cir. 1999) (noting that the construction 
+petitioners propose here would create a “strong disin- 
+centive” to discontinue violations), cert. denied, 531 U.S. 813 
+(2000). 
+
+Petitioners’ reliance (Br. 47-48) on Chesapeake Bay 
+Found., Inc. v. Gwaltney of Smithfield, Ltd., 791 F.2d 304 
+(4th Cir. 1986), is misplaced. This Court vacated that deci- 
+sion, 484 U.S. 49 (1987), and, in any event, it discusses a ver- 
+sion of Section 309(d) that is no longer in force. The statu- 
+tory provision at issue here—imposing a penaity of “$25,000 
+per day for each violation“ did not come into effect until 
+1987. Tyson Foods, 897 F.2d at 1138-1139. Moreover, the 
+court in Chesapeake Bay Foundation explicitly declined to 
+reach the question presented in this case. See Pet. App. 13- 
+14. 
+
+
+34 Petitioners also invoke the rule of lenity (Br. 49) in support of their 
+interpretation of Section 30%(d), which is a statutory provision that, on its 
+face, can have only civil application. This Court has never applied the rule 
+of lenity to that situation. See Babbitt v. Sweet Home Chapter of 
+Communities, 515 U.S. 687, 704 n.18 (1995). Moreover, even in the 
+criminal context, the “mere possibility of articulating a narrower 
+
+
+Contrary to petitioners’ contention (Br. 49-50), the court 
+of appeals identified a “logical stopping point” for deter- 
+mining the maximum civil penalty. It is the number of viola- 
+tions multiplied by the maximum penalty that can be as- 
+sessed for each violation. In any event, the maximum civil 
+penalty is only a benchmark. The district courts have dis- 
+cretion to impose a civil penalty that is less than the statu- 
+tory ceiling, based upon the various factors set forth in Sec- 
+tion 309(d). See Tull v. United States, 481 U.S. 412, 427 
+(1987) (Clean Water Act penalties are “highly discretion- 
+ary”). The district court acted well within its discretion in 
+this case. 
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be affirmed. 
+
+
+Respectfully submitted. 
+
+THEODORE B. OLSON 
+Solicitor G 
+
+THOMAS L. SANSONETTI 
+Assistant Attorney General 
+
+LAWRENCE G. WALLACE 
+Deputy Solicitor General 
+
+JEFFREY P. MINEAR 
+Assistant to the Solicitor 
+General 
+
+DAVID C. SHILTON 
+
+‘SYLVIA QUAST 
+Attorneys 
+
+OCTOBER 2002 
+
+
+~ 
+
+
+ADDENDUM 
+
+
+A. Pertinent Provisions of the Clean Water Act 
+Section 301, 33 U.S.C. 1311. Effiuent limitations 
+
+
+(a) Illegality of pollutant discharges except in com- 
+pliance with law 
+Except as in compliance with this section and sections 
+1312, 1316, 1317, 1328, 1342, and 1344 of this title, the 
+discharge of any pollutant by any person shall be unlawful. 
+
+
+Section 309, 33 U.S.C. 1319. Enforcement 
+
+
+(d) Civil penalties; factors considered in determining 
+amount 
+
+
+Any person who violates section 1311, 1312, 1316, 1317, - 
+1318, 1328, or 1345 of this title, or any permit condition or 
+limitation implementing any of such sections in a permit 
+issued under section 1342 of this title by the Administrator, 
+or by a State,, or in a permit issued under section 1344 of 
+this title by a State, or any requirement imposed in a pre- 
+treatment program approved under section 1342(a)(3) or 
+1342(b)(8) of this title, and any person who violates any order 
+issued by the Administrator under subsection (a) of this 
+section, shall be subject to a civil penalty not to exceed 
+$25,000 per day for each violation. In determining the 
+amount of a civil penalty the court shall consider the serious- 
+ness of the violation or violations, the economic benefit 
+
+
+1 80 in original. 
+
+
+(la) 
+
+
+2a 
+
+
+(if any) resulting from the violation, any history of such 
+violations, any good-faith efforts to comply with the 
+applicable requirements, the economic impact of the penalty 
+on the violator, and such other matters as justice may 
+require. For purposes of this subsection, a single operational 
+upset which leads to simultaneous violations of more than 
+one pollutant parameter shall be treated as a single violation. 
+
+
+Section 404, 33 U.S.C. 1344. Permits for dredged or 
+fill material 
+
+
+(a) Discharge into navigable waters at specified 
+disposal sites 
+
+
+The Secretary may issue permits, after notice and 
+opportunity for public hearings for the discharge of dredged 
+or fill material into the navigable waters at specified disposal 
+sites. Not later than the fifteenth day after the date an 
+applicant submits all the information required to complete an 
+application for a permit under this subsection, the Secretary 
+shall publish the notice required by this subsection. 
+
+
+(f) 2 „ 
+
+
+(1) Except as provided in paragraph (2) of this subsection, 
+the discharge of dredged or fill material- 
+
+
+(A) from normal farming, silviculture, and ranching 
+activities such as plowing, seeding, cultivating, minor 
+drainage, harvesting for the production of food, fiber, 
+and forest products, or upland soil and water con- 
+servation practices; 
+
+
+3a 
+
+
+(B) for the purpose of maintenance, including emer- 
+gency reconstruction of recently damaged parts, of cur- 
+rently serviceable structures such as dikes, dams, 
+levees, groins, riprap, breakwaters, causeways, and 
+bridge abutments or approaches, and transportation 
+structures; 
+
+
+(C) for the purpose of construction or maintenance of 
+farm or stock ponds or irrigation ditches, or the main- 
+tenance of drainage ditches; 
+
+
+(D) for the purpose of construction of temporary sedi- 
+mentation basins on a construction site which does not 
+include placement of fill material into the navigable 
+waters; 
+
+
+(E) for the purpose of construction or maintenance of 
+farm roads or forest roads, or temporary roads for mov- 
+ing mining equipment, where such roads are constructed 
+and maintained, in accordance with best management 
+practices, to assure that flow and circulation patterns 
+and chemical and biological characteristics of the navig- 
+able waters are not impaired, that the reach of the 
+navigable waters is not reduced, and that any adverse 
+effect on the aquatic environment will be otherwise 
+
+
+minimized; 
+
+
+(F) resulting from any activity with respect to which 
+a State has an approved program under section 
+1288(b)(4) of this title which meets the requirements of 
+subparagraphs (B) and (C) of such section, 
+
+
+is not prohibited by or otherwise subject to regulation 
+under this section or section 1311(a) or 1342 of this title 
+(except for effluent standards or prohibitions under sec- 
+tion 1317 of this title). 
+
+
+4a 
+
+
+(2) Any discharge of dredged or fill material into the 
+navigable waters incidental to any activity having as its 
+purpose bringing an area of the navigable waters into a use 
+to which it was not previously subject, where the flow or 
+circulation of navigable waters may be impaired or the reach 
+of such waters be reduced, shall be required to have a permit 
+under this section. 
+
+
+Section 502, 33 U.S.C. 1362. Definitions 
+
+
+Except as otherwise specifically provided, when used 
+in this chapter: 
+
+
+* * * * * 
+
+
+(6) The term “pollutant” means dredged spoil, solid 
+waste, incinerator residue, sewage, garbage, sewage sludge, 
+munitions, chemical wastes, biological materials, radioactive 
+materials, heat, wrecked or discarded equipment, rock, sand, 
+cellar dirt and industrial, municipal, and agricultural waste 
+discharged into water. This term does not mean (A) “sewage 
+from vessels or a discharge incidental to the normal opera- 
+tion of a vessel of the Armed Forces” within the meaning of 
+section 1322 of this title; or (B) water, gas, or other material 
+which is injected into a well to facilitate production of oil or 
+gas, or water derived in association with oil or gas 
+production and disposed of in a well, if the well used either to 
+facilitate production or for disposal purposes is approved by 
+authority of the State in which the well is located, and if such 
+State determines that such injection or disposal will not 
+
+
+result in the degradation of ground or surface water re- 
+sources. 
+
+
+5a 
+
+
+(12) The term “discharge of a pollutant” and the term 
+“discharge of pollutants” each means (A) any addition of any 
+pollutant to navigable waters from any point source, (B) any 
+addition of any pollutant to the waters of the contiguous zone 
+or the ocean from any point source other than a vessel or 
+other floating craft. 
+
+
+(14) The term “point source” means any discernible, 
+confined and discrete conveyance, including but not limited 
+to any pipe, ditch, channel, tunnel, conduit, well, discrete 
+fissure, container, rolling stock, concentrated animal feeding 
+operation, or vessel or other floating craft, from which pollu- 
+tants are or may be discharged. This term does not include 
+agricultural stormwater discharges and return flows from 
+
+
+irrigated agriculture. 
+* 6 „„ „ „ 
+
+
+(16) The term “discharge” when used without qualifica- 
+tion includes a discharge of a pollutant, and a discharge of 
+pollutants. 
+
+
+6a 
+
+
+B. Pertinent Regulations of the Army Corps 
+of Engineers 
+
+
+33 C. F. R. 323.2 Definitions. 
+* „ ñ„.„5 „ 
+
+
+(e) The term dredged material means material that is 
+excavated or dredged from waters of the United States. 
+
+
+* „„ ũ%4„üĩAu 
+33 C. F. R. 323.2 Definitions. [1994] 
+* * * * «& 
+
+
+(d)(1) Except as provided below in paragraph (d)(2), the 
+
+
+term discharge of dredged material means any addition of - 
+
+
+dredged materia! into, including any redeposit of dredged 
+material within, the waters of the United States. The term 
+includes, but is not limited to, the following: 
+
+
+(iii) any addition, including any redeposit, of dredged 
+material, including excavated material, into waters of the 
+United States which is incidental to any activity, including 
+mechanized landclearing, ditching, channelization, or other 
+excavation. 
+
+
+(e) The term fill material means any material used for 
+the primary purpose of replacing an aquatic area with dry 
+land or of changing the bottom elevation of an waterbody. 
+The term does not include any pollutant discharged into the 
+water primarily to dispose of waste, as that activity is 
+regulated under section 402 of the Clean Water Act. See 
+§ 823.3(c) concerning the regulation of the placement of pil- 
+ings in waters of the United States. 
+
+
+7a 
+
+
+(f) The term discharge of fill material means the addition 
+of fill material into waters of the United States. The term 
+generally includes, without limitation, the following 
+activities: Placement of fill that is necessary for the 
+construction of any structure in a water of the United States; 
+the building of any structure or impoundment requiring 
+rock, sand, dirt, or other material for its construction; site- 
+development fills for recreational, industrial, commercial, 
+residential, and other uses; causeways or road fills; dams and 
+dikes; artificial islands; property protection and/or reclama- 
+tion devices such as riprap, groins, seawalls, breakwaters, 
+and revetments; beach nourishment; levees; fill for 
+structures such as sewage treatment facilities, intake and 
+outfall pipes associated with power plants and subaqueous 
+utility lines; and artificial reefs. The term does not include 
+plowing, cultivating, seeding and harvesting for the pro- 
+duction of food, fiber, and forest products (See § 323.4 for the 
+definition of these terms). See § 323.3(c) concerning the 
+regulation of the placement of pilings in waters of the United 
+States. 
+
+
+33 C.F.R. 323.4 Discharges not requiring permits. 
+
+
+(a) General. Except as specified in paragraphs (b) and 
+(c) of this section, any discharge of dredged or fill material 
+that, may result from any of the following activities is not 
+prohibited by or otherwise subject to regulation under 
+section 404: 
+
+(0%) Normal farming, silviculture and ranching activi- 
+ties such as plowing, seeding, cultivating, minor drainage, 
+and harvesting for the production of food, fiber, and forest 
+products, or upland soil and water conservation practices, as 
+defined in paragraph (a)(1)(iii) of this section. 
+
+
+(ii) To fall under this exemption, the activities specified 
+in paragraph (a)(1)(i) of this section must be part of an 
+
+
+8a 
+
+
+established (i.e., on-going) farming, silviculture, or ranching 
+operation and must be in accordance with definitions in 
+§ 323.4(a)(1)(iii). Activities on areas lying fallow as part of a 
+conventional rotational cycle are part of an established 
+operation. Activities which bring an area into farming, 
+silviculture, or ranching use are not part of an established 
+operation. An operation ceases to be established when the 
+area on which it was conducted has been coverted to another 
+use or has lain idle so long that modifications to the 
+hydrological regime are necessary to resume operations. If 
+an activity takes place outside the waters of the United 
+States, or if it does not involve a discharge, it does not need a 
+section 404 permit, whether or not it is part of an established 
+farming, silviculture, or ranching operation. 
+
+
+(iii) * * * * 
+
+
+(D) Plowing means all forms of primary tillage, including 
+moldboard, chisel, or wide-blade plowing, discing, harrowing 
+and similar physical means utilized on farm, forest or ranch 
+land for the breaking up, cutting, turning over, or stirring of 
+soil to prepare it for the planting of crops. The term does not 
+include the redistribution of soil, rock, sand, or other surficial 
+materials in a manner which changes any area of the waters 
+of the United States to dry land. For example, the 
+redistribution of surface materials by blading, grading, or 
+other means to fill in wetland areas is not plowing. Rock 
+crushing activities which result in the loss of natural 
+drainage characteristics, the reduction of water storage and 
+recharge capabilities, or the overburden of natural water 
+filtration capacities do not constitute plowing. Plowing as 
+described above will never involve a discharge of dredged or 
+fill material. 
+
+
+9a 
+
+
+C. Pertinent Regulations of the Environmental 
+Protection Agency 
+
+
+40 C.F.R. 232.2 Definitions. [1994] 
+
+
+Discharge of dredged material. (1) Except as provided 
+below in paragraph (2), the term discharge of dredged mate- 
+rial means any addition of dredged material into, including 
+any redeposit of dredged material within, the waters of the 
+United States. The term includes, but is not limited to, the 
+following: 
+
+
+(iii)Any addition, including any redeposit, of dredged 
+material, including excavated material, into waters of the 
+United States which is incidental to any activity, including 
+mechanized landclearing, ditching, channelization, or other 
+excavation. 
+
+
+Discharge of fill material. (1) The term discharge of fill 
+material means the addition of fill material into waters of 
+the United States. The term generally includes, without 
+limitation, the following activities: Placement of fill that is 
+necessary for the construction of any structure in a water of 
+the United States; the building of any structure or im- 
+poundment requiring rock, sand, dirt, or other material for 
+its construction; site-development fills for recreational, in- 
+dustrial, commercial, residential, and other uses; causeways 
+or road fills; dams and dikes; artificial islands; property pro- 
+tection and/or reclamation devices such as riprap, groins, 
+seawalls, breakwaters, and revetments; beach nourishment; 
+levees; fill for structures such as sewage treatment facilities, 
+
+
+10a 
+
+
+intake and outfall pipes associated with power plants and 
+
+
+subaqueous utility lines; and artificial reefs. 
+
+
+Dredged material means material that is excavated or 
+dredged from waters of the United States. 
+
+
+Fill material means any “pollutant” which replaces 
+portions of the “waters of the United States” with dry land 
+or which changes the bottom elevation of a water body for 
+any purpose. 
+
+
+40 C. F. R. 232.3 Activities not requiring permits. 
+
+
+(c) The following activities are exempt from section 404 
+permit requirements, except as specified in paragraphs (a) 
+and (b) of this section: 
+
+(%) Normal farming, silviculture and ranching 
+activities such as plowing, seeding, cultivating, minor drain- 
+age, and harvesting for the production of food, fiber, and 
+forest products, or upland soil and water conservation prac- 
+tices, as defined in paragraph (d) of this section. 
+
+
+(iA) To fall under this exemption, the activities speci- 
+fied in paragraph (c)(1) of this section must be part of an 
+established (i.e., ongoing) farming, silviculture, or ranching 
+operation, and must be in accordance with definitions in 
+paragraph (d) of this section. Activities on areas lying fallow 
+as part of a conventional rotational cycle are part of an 
+established operation. 
+
+(B) Activities which bring an area into farming, silvi- 
+culture or ranching use are not part of an established opera- 
+tion. An operation ceases to be established when the area in 
+
+
+lla 
+
+
+which it was conducted has been converted to another use or 
+has lain idle so long that modifications to the hydrological 
+regime are necessary to resume operation. If an activity 
+takes place outside the waters of the United States, or if it 
+does not involve a discharge, it does not need a section 404 
+permit whether or not it was part of an established farming, 
+silviculture or ranching operation. 
+
+
+(d) For purpose of paragraph (c)(1) of this section, culti- 
+vating, harvesting, minor drainage, plowing, and seeding are 
+defined as follows: 
+
+
+(4) Plowing means all forms of primary tillage, including 
+moldboard, chisel, or wide-blade plowing, discing, harrowing, 
+and similar physical means used on farm, forest or ranch land 
+for the breaking up, cutting, turning over, or stirring of soil 
+to prepare it for the planting of crops. Plowing does not 
+include the redistribution of soil, rock, sand, or other surficial 
+materials in a manner which changes any area of the waters 
+of the United States to dryland. For example, the redistri- 
+bution of surface materials by blading, grading, or other 
+means to fill in wetland areas is not plowing. Rock crushing 
+activities which result in the loss of natural drainage 
+characteristics, the reduction of water storage and recharge 
+capabilities, or the overburden of natural water filtration 
+capacities do not constitute plowing. Plowing, as described 
+above, will never involve a discharge of dredged or fill 
+material. 
+
+
+12a 
+
+
+D. 1986 Regulatory Guidance Letter 
+Regulatory Guidance Letter 86-01 
+SUBJECT: Exemptions to CWA-Plowing 
+DATE: February 11, 1986 [LOGO] 
+EXPIRES: December 31, 1988 
+
+
+1. The purpose of this guidance is to clarify the 
+applicability of Section 404 to plowing. 
+
+
+2. Since 1975, Corps regulations have excluded “plowing 
+for production of food, fiber, and forest products” from 
+the definition of a discharge of dredged or fill material (33 
+CFR 323.2(j) and (1)). “Plowing” is defined in 33 CFR 
+323. 4d (1) (iii (D). 
+
+
+3. Plowing for the purpose of produeing food, fiber, and 
+forest produets and meeting the definition in Section 323.4 
+will never involve a discharge of dredged or fill material. 
+Such plowing ie not subject to any of the provisions of 
+Section 404 including the Section 404(f) exemption limita- 
+tions. Section 404(f) is applicable to those activities that do 
+involve a discharge but are statutorily exempted from the 
+need to obtain a 404 permit. 
+
+
+4. Not all activities involving the use of a plow, disc, or 
+similar equipment will satisfy the definition of plowing. For 
+example, using a plow to dry the surface of a peat beg to 
+facilitate mining is not plowing since it is not for the purpose 
+of producing food, fiber or forest products. Also, the use of a 
+plow to divert a braided stream feeding a wetland is not 
+plowing because the purpose is to change a water of the 
+United States to dry land. Thus, these activities are regu- 
+lated under Section 404 if they occur in a water of the United 
+States. 
+
+
+— — 
+
+
+13a 
+
+
+5. This guidance expires 31 December 1988 unless sooner 
+revised or reseinded. 
+FOR THE CHIEF OF ENGINEERS: 
+
+
+14a 
+
+
+E. 1996 Memorandum To The Field 
+
+
+[SEAL] Department ofthe Army [LOGO] 
+U.S. Army Corps of Engineers 
+United States Environmental Protection Agency 
+
+
+12 DEC 1996 
+
+
+MEMORANDUM TO THE FIELD 
+
+
+SUBJECT: Applicability of Exemptions under Section 
+404(f) to “Deep-Ripping” Activities in Wetlands 
+
+PURPOSE: The purpose of this memorandum is to clarify 
+the applicability of exemptions provided under Section 404(f) 
+of the Clean Water Act (CWA) to discharges associated with 
+“deep-ripping” and related activities in wetlands.’ 
+
+
+BACKGROUND: 
+
+
+1. Section 404(f)(1) of the CWA exempts from the permit 
+requirement certain discharges associated with normal 
+farming, forestry, and ranching practices in waters of the 
+United States, including wetlands. Discharges into waters 
+subject to the Act associated with farming, forestry, and 
+ranching practices identified under Section 404(f)(1) do not 
+require a permit except as provided under Section 404(f)(2). 
+
+
+2. Section 404(f)(1) does not provide a total, automatic ex- 
+emption for all activities related to agricultural, silvicultural, 
+or ranching practices. Rather, Section 404(f)(1) exempts 
+only those activities specifically identified in paragraphs (A) 
+through (F), and “other activities of essentially the same 
+character as named” [44 FR 34264]. For example, Section 
+
+
+characterizations of such practices have been developed in consultation 
+with experts at the U.S. Department of Agriculture (USDA), Netural Re- 
+sources Conservation Service. 
+
+
+15a 
+
+
+404(f)(1)(A) lists discharges of dredged or fill material from 
+“normal farming, silviculture, and ranching activities, such 
+as plowing, seeding, cultivating, minor drainage, harvesting 
+for the production of food, fiber, and forest products, or 
+upland soil and water conservation practices.” 
+
+
+3. Section 404(f)(1)(A) is limited to activities that are part 
+of an “established (i.e., ongoing) farming, silviculture, or 
+ranching operation.” This “established” requirement is in- 
+tended to reconcile the dual intent reflected in the legislative 
+history that although Section 404 should not unnecessarily 
+restrict farming, forestry, or ranching from continuing at a 
+particular site, discharge activities which could destroy 
+wetlands or other waters should be subject to regulation. 
+
+
+4. EPA and Corps regulations [40 CFR 230 and 33 CFR 
+320] and preamble define in some detail the specific “normal” 
+activities listed in Section 404(f)(1) (A). Three points may be 
+useful in the current context: 
+
+
+a. As explained in the preamble to the 1979 proposed 
+regulations, the words “such as” have been consistently 
+interpreted as restricting the section “to the activities 
+named in the statute and other activities of essentially 
+the same character as named,” and “preclude the 
+extension of the exemption . . . to activities that are 
+unlike those named.” [44 FR 34264]. 
+
+
+b. Plowing is specifically defined in the regulations not 
+to include the redistribution of surface material in a 
+manner which converts wetlands areas to uplands [See 
+40 CFR 233.35(a)(1)(Giii)(D)). 
+
+
+e. Discharges associated with activities that establish 
+an agricultural operation in wetlands where previously 
+ranching had been conducted, represents a “change in 
+use” within the meaning of Section 404(f)(2). Similarly, 
+
+
+16a 
+
+
+discharges that establish forestry practices in wet- 
+lands historically subject to agriculture also represent a 
+change in use of the site [See 40 CFR 233.35(c)]. 
+
+
+5. The statute includes a provision at Section 404(f)(2) that 
+“recaptures” or reestablishes the permit requirement for 
+those otherwise exempt discharges which: 
+a. convert an area of the waters of the U.S. to a new 
+use, and 
+
+
+b. impair the flow or circulation of waters of the U.S. or 
+reduce the reach of waters of the U.S. 
+
+
+Conversion of an area of waters of the U.S. to uplands 
+triggers both provisions (a) and (b) above. Thus, at a mini- 
+mum, any otherwise exempt discharge that results in the 
+conversion of waters of the U.S. to upland is recaptured 
+under Section 404(f)(2) and requires a permit. It should be 
+noted that in order to trigger the recapture provisions of 
+Section 404(f)(2), the discharges themselves need not be the 
+sole cause of the destruction of the wetland or other change 
+in use or sole cause of the reduction or impairment of reach, 
+flow, or circulation of waters of the U.S. Rather, the dis- 
+charges need only be “incidental to” or “part of” an activity 
+which is intended to or will forseeably bring about that 
+result. Thus, in applying Section 404(f)(2), one must consider 
+discharges in context, rather than isolation. 
+
+ISSUE: 
+
+
+1. Questions have been raised involving “deep-ripping” and 
+related activities in wetlands and whether discharges associ- 
+ated with these actions fall within the exemptions at Section 
+404(f)(1)(A). In addition, the issue has been raised whether, 
+if such activities fall within the exemption, they would be 
+recaptured under Section 404(f)(2). 
+
+
+17a 
+
+
+2. “Deep-ripping” is defined as the mechanical manipulation 
+of the soil to break up or pierce highly compacted, imperme- 
+able or slowly permeable subsurface soil layers, or other 
+similar kinds of restrictive soil layers. These practices are 
+typically used to break up these subsoil layers (e.g., imper- 
+meable soil layer, hardpan) as part of the initial preparation 
+of the soil to establish an agricultural or silvicultural opera- 
+tion. Deep-ripping and related activities are also used in 
+established farming operations to break up highly compacted 
+soil. Although deep-ripping and related activities may be 
+required more than once, the activity is typically not an 
+annual practice. Deep-ripping and related activities are 
+undertaken to improve site drainage and facilitate deep root 
+growth, and often occur to depths greater than 16 inches 
+and, in some cases, exceeding 4 feet below the surface. As 
+such, it requires the use of heavy equipment, including 
+bulldozers, equipped with ripper-blades, shanks, or chisels 
+often several feet in length. Deep-ripping and related activi- 
+ties involve extending the blades to appropriate depths and 
+dragging them through the soil to break up the restrictive 
+layer. 
+
+
+8. Conversely, plowing is defined in EPA and Corps 
+regulations [40 CFR 230 and 33 CFR 320] as “all forms of 
+primary tillage . . . used . . . for the breaking up, cutting, 
+turning over, or stirring of soil to prepare it for the planting 
+of crops” [40 CFR 232.3(d)(4)]. As a general matter, normal 
+plowing activities involve the annual, or at least regular, 
+preparation of soil prior to seeding or other planting activi- 
+ties. According to USDA, plowing generally involves the 
+use of a blade, chisel, or series of blades, chisels, or discs, 
+usually 8-10 inches in length, pulled behind a farm vehicle to 
+prepare the soil for the planting of annual crops or to support 
+an ongoing farming practice. Plowing is commonly used to 
+
+
+18a 
+
+
+break up the surface of the soil to maintain soil tilth and to 
+facilitate infiltration throughout the upper root zone. | 
+
+
+DISCUSSION: 
+
+
+1. Plowing in wetlands is exempt from regulation con- 
+sistent with the following circumstances: 
+
+
+a. it is conducted as part of an ongoing, established agri- 
+cultural, silvicultural or ranching operation; and 
+
+
+b. the activity is consistent with the definition of plow- 
+ing in EPA and Corps regulations [40 CFR 230 and 33 
+CFR 320 and 
+
+
+e. the plowing is not incidental to an activity that 
+results in the immediate or gradual conversion of wet- 
+lands to non-waters. 
+
+
+2. Deep-ripping and related activities are distinguishable 
+from plowing and similar practices (e.g., discing, harrowing) 
+with regard to the purposes and circumstances under which 
+it is conducted, the nature of the equipment that is used, and 
+its effect, including in particular the impacts to the 
+hydrology of the site. 
+
+
+a. Deep-ripping and related activities are commonly 
+conducted to depths exceeding 16 inches, and as deep as 
+6-8 feet below the soil surface to break restrictive soil 
+layers and improve water drainage at sites that have not 
+supported deeper rooting crops. Plowing depths, 
+according to USDA, rarely exceed one foot into the soil 
+and not deeper than 16 inches without the use of special 
+equipment involving special circumstances. As such, 
+deep-ripping and related activities typically involve the 
+use of specialized equipment, including heavy mecha- 
+nized equipment and bulldozers, equipped with elongated 
+ripping blades, shanks, or chisels often several feet in 
+length. Moreover, while plowing is generally associated 
+
+
+19a 
+
+
+with ongoing operations, deep-ripping and related 
+activities are typically conducted to prepare a site for 
+establishing crops not previously planted at the site. 
+Although deep-ripping may have to be redone at regular 
+intervals in some circumstances to maintain proper soil 
+drainage, the activity is typically not an annual or routine 
+practice. 
+
+
+b. Frequently, deep-ripping and related activities are 
+conducted as a preliminary step for converting a “natu- 
+ral” system or for preparing rangeland for a new use 
+such as farming or silviculture. In those instances, deep 
+ripping and related activities are often required to break 
+up naturally-occurring impermeable or slowly permeable 
+subsurface soil layers to facilitate proper root growth. 
+For example, for certain depressional wetlands types 
+such as vernal pools, the silica-cemented hardpan 
+(durapan) or other restrictive layer traps precipitation 
+and seasonal runoff creating ponding and saturation 
+conditions at the soil surface. The presence of these 
+impermeable or slowly permeable subsoil layers is 
+essential to support the hydrology of the system. Once 
+these layers are disturbed by activities such as deep- 
+ripping, the hydrology of the system is disturbed and the 
+wetland is often destroyed. 
+
+
+ce. In contrast, there are other circumstances where 
+activities such as deep-ripping and related activities are 
+a standard practice of an established on-going farming 
+operation. For example, in parts of the Southeast, where 
+there are deep soils having a high clay content, 
+mechanized farming practices can lead to the compaction 
+of the soil below the soil surface. It may be necessary to 
+break up, on a regular although not annual basis, these 
+restrictive layers in order to allow for normal root devel- 
+opment and infiltration. Such activities may require 
+
+
+20a 
+
+
+special equipment and can sometimes occur to depths 
+greater than 16 inches. However, because of particular 
+physical conditions, including the presence of a water 
+table at or near the surface for part of the growing 
+season, the activity typically does not have the effect of 
+impairing the hydrology of the system or otherwise 
+altering the wetland characteristics of the site. 
+
+
+CONCLUSION: 
+
+
+1. When deep-ripping and related activities are undertaken 
+as part of an established, ongoing agricultural silvicultural, 
+or ranching operation, to break up compacted soil layers and 
+where the hydrology of the site will not be altered such that 
+it would result in conversion of waters of the U.S. to upland, 
+such activities are exempt under Section 404(f)(1)(A). 
+
+
+2. Deep-ripping and related activities in wetiands are not 
+part of a normal ongoing activity, and therefore not exempt, 
+when such practices are conducted in association with efforts 
+to establish for the first time (or when a previously estab- 
+lished operation was abandoned) an agricultural, silvicultural 
+or ranching operation. In addition, deep-ripping and related 
+activities are not exempt in circumstances where such 
+practices would trigger the “recapture” provision of Section 
+404(f)(2): 
+
+
+a) Deep-ripping to establish a farming operation at a 
+site where a ranching or forestry operation was in place 
+is a change in use of such a site. Deep-ripping and 
+related activities that also have the effect of altering or 
+removing the wetland hydrology of the site would trig- 
+ger Section 404(f)(2) and such ripping would require a 
+permit. 
+
+
+b) Deep-ripping a site that has the effect of converting 
+wetlands to non-waters would also trigger Section 
+404(f)(2) and such ripping would require a permit. 
+
+
+21a 
+
+
+3. It is the agencies’ experience that certain wetland types 
+are particularly vulnerable to hydrological alteration as a 
+result of deep-ripping and related activities. Depressional 
+wetland systems such as prairie potholes, vernal pools and 
+playas whose hydrology is critically dependent upon the 
+presence of an impermeable or slowly permeable subsoil 
+layer are particularly sensitive to disturbance or alteration 
+of this subsoil layer. Based upon this experience, the 
+agencies have concluded that, as a general matter, deep- 
+ripping and similar practices, consistent with the descrip- 
+tions above, conducted in prairie potholes, vernal pools, 
+playas and similar depressional wetlands destroy the hydro- 
+logical integrity of these wetlands. In these circumstances 
+deep-ripping in prairie potholes, vernal pools, and playas is 
+recaptured under Section 404(f)(2) and requires a permit 
+under the Clean Water Act. 
+
+
+/s) ROBERT H. WAYLAND III 
+ROBERT H. WAYLAND III 
+Director 
+Office of Wetlands, Oceans and 
+
+Watersheds 
+U.S. Environmental Protection 
+
+
+Agency 
+
+
+s DANIEL R. BURNS _ 
+DANIEL R. BURNS, P.E. 
+Chief, Operations, Construction and 
+
+Readiness Division 
+Directorate of Civil Works 
+U.S. Army Corps of Engineers 
+
+

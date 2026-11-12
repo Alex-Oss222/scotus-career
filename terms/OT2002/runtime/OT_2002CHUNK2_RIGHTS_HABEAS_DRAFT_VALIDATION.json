@@ -1,0 +1,121 @@
+{
+  "status": "PASS",
+  "scope": "Four assembly drafts before lead assignment and final integration; no full-term check represented",
+  "checks": [
+    {
+      "filename": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md",
+      "errors": [],
+      "opening_labels": 4,
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        154,
+        182,
+        220,
+        247,
+        172,
+        177,
+        101,
+        210
+      ],
+      "judgment_counts": [
+        [
+          6,
+          3
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          9,
+          0
+        ],
+        [
+          9,
+          0
+        ]
+      ],
+      "placeholders": [
+        "@@ASSIGNMENT@@",
+        "@@LEAD@@",
+        "@@LEAD_JOINERS@@",
+        "@@VALIDATION@@"
+      ]
+    },
+    {
+      "filename": "Westside-Mothers-v-Haveman_merits_2002-12-10.md",
+      "errors": [],
+      "opening_labels": 4,
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        182,
+        159,
+        123
+      ],
+      "judgment_counts": [
+        [
+          9,
+          0
+        ]
+      ],
+      "placeholders": [
+        "@@ASSIGNMENT@@",
+        "@@LEAD@@",
+        "@@LEAD_JOINERS@@",
+        "@@VALIDATION@@"
+      ]
+    },
+    {
+      "filename": "Sattazahn-v-Pennsylvania_merits_2003-01-14.md",
+      "errors": [],
+      "opening_labels": 4,
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        233
+      ],
+      "judgment_counts": [
+        [
+          5,
+          4
+        ]
+      ],
+      "placeholders": [
+        "@@ASSIGNMENT@@",
+        "@@LEAD@@",
+        "@@LEAD_JOINERS@@",
+        "@@VALIDATION@@"
+      ]
+    },
+    {
+      "filename": "Benson-v-Terhune_merits_2003-05-27.md",
+      "errors": [],
+      "opening_labels": 4,
+      "projection_blocks": 11,
+      "holdings_identical": true,
+      "explanation_word_counts": [
+        175,
+        235
+      ],
+      "judgment_counts": [
+        [
+          9,
+          0
+        ]
+      ],
+      "placeholders": [
+        "@@ASSIGNMENT@@",
+        "@@LEAD@@",
+        "@@LEAD_JOINERS@@",
+        "@@VALIDATION@@"
+      ]
+    }
+  ],
+  "pending": "Root sequential assignment, placeholder replacement, durable record commitment and full-term validation"
+}

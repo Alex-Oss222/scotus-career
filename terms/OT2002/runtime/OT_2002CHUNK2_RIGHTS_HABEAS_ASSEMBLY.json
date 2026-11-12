@@ -1,0 +1,278 @@
+{
+  "status": "Four legal-form and compatibility drafts complete; lead assignment and final validation pending root integration",
+  "cases": [
+    {
+      "number": 25,
+      "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists; judgment below, 290 F.3d 1058.",
+      "date": "2002-12-10",
+      "filename": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md",
+      "form": "One signed plenary merits opinion with related but severable constitutional, jury-remedy, speech-injunction and derivative asset portions, chosen before any count. The five full-opinion supporters can each carry every controlling proposition; no split authorship is necessary. Chief Justice Stone-Zsela assigns the damages-remand, named-plaintiff, private-possession and asset-disposition portions because he joins those judgment majorities. Justice Stevens, the senior Associate in the related-person judgment majority, assigns that component because Stone dissents. A common eligible author may receive both assignments. Stone is ineligible to author the complete opinion because his constitutional floor, related-person limit and asset judgment-only agreement do not join its full reasoning.",
+      "assignment_authority": {
+        "damages_remand": "Stone-Zsela",
+        "named_plaintiff_injunction": "Stone-Zsela",
+        "related_person_coverage": "Stevens",
+        "private_possession": "Stone-Zsela",
+        "asset_restraint": "Stone-Zsela"
+      },
+      "judgment_components": [
+        {
+          "component": "Vacate damages and remand under purpose-or-knowledge rule",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Retain named-plaintiff specific-intent injunction",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Retain expressly connected related-person protection and vacate broader operation",
+          "supporting": [
+            "Stevens",
+            "O'Connor",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stone-Zsela",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Vacate possession-based surrender",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        },
+        {
+          "component": "Vacate existing blanket asset restraint",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        }
+      ],
+      "eligible_full_reasoning_authors": [
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "partial_joins": {
+        "context_attribution_coverage_possession": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "purpose_or_knowledge": [
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "actual_threat_and_named_equity": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "damages_rule_and_related_person": [
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "asset_dissolution_reasoning": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "asset_disposition_only": [
+          "Stone-Zsela"
+        ],
+        "new_security_on_damages_remand": [
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      },
+      "fixed_core_issues": "Stone recklessness differs from controlling purpose/knowledge, so damages judgment agreement does not join that rationale; named-plaintiff limit excludes related-person join; standing fallback only for distinct paragraph 4 asset disposition, without reason or eligibility.",
+      "fit_considerations": "Single author among five full joiners must coordinate independent constitutional review, jury/equity distinction and exact injunction/property consequences. Stevens supplies Claiborne attribution; O'Connor supplies Madsen fit; Souter supplies Hurley review; Ginsburg supplies expression and nuanced Grupo Mexicano remedy; Breyer supplies practical rule/remedy coordination. Related-person authority is Stevens, while Chief assigns other judgment components. No author selected."
+    },
+    {
+      "number": 22,
+      "case": "Westside Mothers v. Haveman; judgment below, 289 F.3d 852.",
+      "date": "2002-12-10",
+      "filename": "Westside-Mothers-v-Haveman_merits_2002-12-10.md",
+      "form": "One signed plenary merits opinion with three related statutory, officer-relief and remedial propositions, chosen before any author count. Every Justice can carry every controlling part in full. Chief Justice Stone-Zsela assigns because he joins the single judgment coalition. The concurrence is not a counted lead opinion.",
+      "assignment_authority": "Stone-Zsela for the complete opinion",
+      "judgment_components": [
+        {
+          "component": "Reviewed child-service enforcement and prospective-officer action",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        }
+      ],
+      "eligible_full_reasoning_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "partial_joins": [],
+      "fixed_core_issues": "No fallback; all Stone limits are part of the unanimous formulation.",
+      "fit_considerations": "Provision-specific statutory entitlement, separation of remedy and right, precise statutory triggers and officer relief. Stevens supplies Blessing expertise; Thomas supplies Bruneau/Verizon implementation; Stone supplies the approved integrated entitlement/remedy formulation. No author selected."
+    },
+    {
+      "number": 27,
+      "case": "Sattazahn v. Pennsylvania; No. 01-7574.",
+      "date": "2003-01-14",
+      "filename": "Sattazahn-v-Pennsylvania_merits_2003-01-14.md",
+      "form": "One signed plenary merits opinion on the complete final-life double-jeopardy question and sentence-only remedy, fixed before counts. All five majority Justices can carry every controlling part; an independent due-process Court holding is unavailable. Chief Justice Stone-Zsela assigns. Three separate writings perform distinct legal work and do not count as leads.",
+      "assignment_authority": "Stone-Zsela for the complete Court opinion",
+      "judgment_components": [
+        {
+          "component": "Reverse death judgment and impose life ceiling; conviction intact",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Thomas"
+          ]
+        }
+      ],
+      "eligible_full_reasoning_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "partial_joins": [],
+      "fixed_core_issues": "Stone uses approved sufficient double-jeopardy alternative for Court opinion; his independent due-process preference appears separately. No fallback. Preserve O'Connor/Kennedy nonjoins to Scalia/Thomas element explanation.",
+      "fit_considerations": "Capital finality, exact distinction between acquittal, deadlock and final statutory judgment, and sentence-only remedy. Stevens has the distinct Monge finality ground; Breyer has Jones statutory experience; Stone supplies the approved extension. No author selected."
+    },
+    {
+      "number": 28,
+      "case": "Benson v. Terhune; Ninth Circuit No. 01-16833; judgment below, 304 F.3d 874.",
+      "date": "2003-05-27",
+      "filename": "Benson-v-Terhune_merits_2003-05-27.md",
+      "form": "One signed plenary merits opinion applying the statutory gateway and actual medication record, fixed before counts. All nine join all controlling propositions and are eligible to carry the complete opinion. Chief Justice Stone-Zsela assigns. His separate proposed development is not a counted lead.",
+      "assignment_authority": "Stone-Zsela for the complete Court opinion",
+      "judgment_components": [
+        {
+          "component": "Affirm denial of new-trial habeas writ",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": []
+        }
+      ],
+      "eligible_full_reasoning_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "partial_joins": [],
+      "fixed_core_issues": "Stone's proposed information-right extension remains a separate concurrence; no fallback or retrospective replacement of eligible law.",
+      "fit_considerations": "Statutory temporal discipline, distinct legal/factual review and treatment-choice/trial-risk analysis. Breyer supplies Williams statutory expertise; O'Connor supplies Riggins/Weston implementation; Kennedy supplies Harper and trial-integrity analysis; Stone supplies the approved custody/remedy distinction. No author selected."
+    }
+  ]
+}

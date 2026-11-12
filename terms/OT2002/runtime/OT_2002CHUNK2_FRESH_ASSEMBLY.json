@@ -1,0 +1,307 @@
+[
+  {
+    "case": "Yellow Transportation, Inc. v. Michigan",
+    "date": "2002-11-05",
+    "filename": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md",
+    "form": "Form fixed before assignment: one signed lead opinion after plenary review, with a separate concurrence in the judgment because Stevens rejects the lead rationale. Neither disposition unanimity nor assignment counts erase that legal difference.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "components": [
+      {
+        "name": "Generic-fee ruling and reciprocity-preservation rule",
+        "disposition": "Reverse and remand for refund adjudication under the valid rule",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": []
+      }
+    ],
+    "eligible_full_reasoning_authors": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "partial_joins": [
+      {
+        "justice": "Stevens",
+        "scope": "Judgment only; express fee-system delegation rather than cap ambiguity"
+      }
+    ],
+    "separate_writings": [
+      {
+        "author": "Stevens",
+        "joins": [],
+        "type": "Concurrence in the judgment"
+      }
+    ],
+    "fixed_core_issue": "Stone's approved delegation-and-permissibility core supports the Court's confined cap-interpretation holding: the express grant permits reciprocity preservation consistently with the ceiling and benchmark even without a uniquely compelled cap reading. The opinion does not attribute Stevens's distinct rejection of cap interpretation to Stone. Stone joins every proposition and the limited remand; no fallback is used. His Mead qualification is preserved by identifying both the actual grant and its exercise. No refund amount or backward extension of the federal system is added.",
+    "fit_considerations": "The work is statutory permission within a real delegation, with a precise separation of the fee benchmark from registration periods and refund application. Kennedy's Haggar/Mead opinions supply concrete fit; Souter's Smiley writing supplies the explained-change distinction; O'Connor's statutory-setting commitments supply a careful boundary. Stone's approved cap/delegation formulation is fully compatible and he remains eligible, but his office or interest adds no automatic preference. No expansion is required to retain the eight full joins, and Stevens's distinct ground is not suppressed to enlarge the pool.",
+    "no_author_selected": true,
+    "no_assignment_counts_computed": true
+  },
+  {
+    "case": "Howsam v. Dean Witter Reynolds, Inc.",
+    "date": "2002-12-10",
+    "filename": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md",
+    "form": "Form fixed before assignment: one signed lead opinion after plenary review, with a concurrence in the judgment stating the materially different state-law ground. One author can carry the seven-member complete rationale; no split authorship is needed.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "components": [
+      {
+        "name": "NASD six-year eligibility decisionmaker",
+        "disposition": "Reverse and remand for arbitral resolution",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": []
+      }
+    ],
+    "eligible_full_reasoning_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "partial_joins": [
+      {
+        "justice": "Thomas",
+        "scope": "Judgment only; New York enforcement law and particular delegation"
+      }
+    ],
+    "separate_writings": [
+      {
+        "author": "Thomas",
+        "joins": [],
+        "type": "Concurrence in the judgment"
+      }
+    ],
+    "fixed_core_issue": "Stone's approved fixed core directly supports the seven-Justice procedural-allocation rationale and the limited remand. His actual-consent and contrary-contract qualifications are retained. He adopts no state-law-only alternative and uses no fallback. Thomas's distinct interpretation is not attributed to Stone; the final structure retains it as judgment-only concurrence. No timeliness, concealment, tolling or merits finding is added.",
+    "fit_considerations": "The work is an administrable consent/procedure allocation rule that honors the contract and preserves the genuine jurisdictional distinction. Breyer's First Options and Mastrobuono opinions supply directly pertinent contract-allocation craftsmanship; Souter's integrated-contract position and Stone's approved separation of foundational assent from procedural time administration offer compatible fit. All seven full joiners may faithfully carry the whole Court opinion. Thomas is ineligible to deliver its complete federal rationale, and O'Connor does not participate; no author is selected here.",
+    "no_author_selected": true,
+    "no_assignment_counts_computed": true
+  },
+  {
+    "case": "Abdur'Rahman v. Bell",
+    "date": "2002-12-10",
+    "filename": "AbdurRahman-v-Bell_merits_2002-12-10.md",
+    "form": "One signed lead with Court portions I, III, IV and a four-Justice Part II; two lower-channel rationales, no Marks synthesis; eight-to-one preservation of separate transfer appeal has two four-Justice grounds. Stone partially concurs and partially dissents.",
+    "assignment_authority": "Chief Justice Stone-Zsela for default-remand/common portions; Stevens for separate transfer-appeal-preservation component",
+    "components": [
+      {
+        "name": "Jan18/Feb11 categorical refusal of corrective remand in original Nos.98-6568/6569 for separable default-only request",
+        "disposition": "Vacate in part and remand",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Separate No.01-6504 transfer-appeal dismissal and certificate rulings",
+        "disposition": "Left undisturbed",
+        "support": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [
+          "Stone-Zsela"
+        ]
+      },
+      {
+        "name": "Actual authorization review No. 01-6487",
+        "disposition": "Dismiss review; leave authorization denial untouched",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": []
+      },
+      {
+        "name": "Four merits-treated claims and cumulative merits demand",
+        "disposition": "Exclude renewed merits adjudication from this Rule 60 remand",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": []
+      }
+    ],
+    "eligible_full_reasoning_authors": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "partial_joins": [
+      {
+        "justice": "Stone-Zsela",
+        "scope": "Parts I, III, IV and default-remand judgment; no Part II join; dissents from preserving separate transfer appeal/certificate rulings"
+      },
+      {
+        "justices": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "scope": "Part I and III renewed-merits exclusion only"
+      }
+    ],
+    "separate_writings": [
+      {
+        "author": "Stone-Zsela",
+        "joins": [],
+        "type": "Concurrence in part and dissent in part"
+      },
+      {
+        "author": "O'Connor",
+        "joins": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "type": "Concurrence in part and dissent in part"
+      },
+      {
+        "author": "Scalia",
+        "joins": [
+          "Thomas"
+        ],
+        "type": "Further concurrence in part and dissent in part"
+      }
+    ],
+    "fixed_core_issue": "Actual mixed motion falls within Stone's express procedural/renewed-merits conditional branches. Finality view is retained; he supports default-remand but opposes leaving transfer-appeal dismissal and certificate rulings undisturbed. No fallback or new Stone ground is used.",
+    "fit_considerations": "The lead must accurately coordinate the actual four lower orders, mixed motion, conditional Rule 60 classification, bar on authorization review and four-Justice existing-channel rationale. Ginsburg's Hohn and Slack opinions supply direct fit for separating review, certification and relief; Souter's Stewart writing supplies actual-threshold classification; Stevens's frozen process-only distinction supplies the remand accommodation, and Breyer supports every formulation. All four can carry the whole lead. Stone is ineligible for the whole lead because his approved final-transfer route does not join its Part II rationale; he can support its Court portions without rewriting that fixed ground. No count or assignment is selected here. Component-specific assignment authority is retained: Chief for default remand, Stevens for transfer-appeal preservation. The four eligible complete-opinion supporters are the common author intersection; one lead remains legally supported.",
+    "no_author_selected": true,
+    "no_assignment_counts_computed": true,
+    "component_assignment_authorities": [
+      {
+        "component": "Default-component remand and common rules",
+        "assigner": "Chief Justice Stone-Zsela"
+      },
+      {
+        "component": "Transfer-appeal dismissal and certificate preservation",
+        "assigner": "Stevens"
+      }
+    ]
+  },
+  {
+    "case": "Borden Ranch Partnership v. Army Corps of Engineers",
+    "date": "2002-12-16",
+    "filename": "Borden-Ranch-Partnership-v-Army-Corps-of-Engineers_merits_2002-12-16.md",
+    "form": "Form fixed before assignment: one signed lead merits opinion with a six-Justice full rationale and an eight-Justice joinder confined to the separate-discharge legal rule. Scalia’s concurrence in part and dissent in part, joined by Thomas, is necessary to distinguish their accepted counting principle from their rejected liability application. The separate counting proposition performs independent statutory work and is not created to alter author eligibility.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "components": [
+      {
+        "name": "Surviving drainage/swale liability and penalty-count application",
+        "disposition": "Affirm; preserve pool reversal and penalty recalculation",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Statutory separate-discharge legal counting rule",
+        "disposition": "Distinct discharges proved to violate the Act may count separately within one day",
+        "support": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposition": []
+      }
+    ],
+    "eligible_full_reasoning_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "partial_joins": [
+      {
+        "justices": [
+          "Scalia",
+          "Thomas"
+        ],
+        "scope": "Part III legal counting rule only; not liability, application or judgment"
+      }
+    ],
+    "separate_writings": [
+      {
+        "author": "Scalia",
+        "joins": [
+          "Thomas"
+        ],
+        "type": "Concurrence in part and dissent in part"
+      }
+    ],
+    "fixed_core_issue": "Stone joins the complete six-Justice reasoning and the judgment. His approved rule requires actual excavation, conveyance and redeposit, an actual point source, statutory new-use recapture and proof of every counted discharge. The formulation preserves each element separately: water-area conversion purpose and possible flow/circulation impairment or reach reduction are not reduced to crop change or harm alone. His record application relies on the found deposits and purposeful conversion of the affected wet areas. The pool, replacement penalty and any automatic restoration order remain excluded as approved. No fallback, broadened geographic rule or later guidance is added.",
+    "fit_considerations": "The opinion must state active addition and discrete conveyance separately from injury, and recapture purpose separately from crop change, while retaining the independent counting proposition. O'Connor's PUD No. 1 writing and her recorded statutory-trigger objection supply a concrete advantage in preserving the necessary limited formulation; Souter's Sweet Home opinion also supplies causal and statutory precision. Stone's approved act/purpose/remedy separation directly supports the complete formulation. All six full supporters remain eligible; no author may broaden the rule beyond O'Connor's recorded boundaries, and Scalia/Thomas are not eligible for the whole lead because they reject liability. The necessary accommodation is fully specified by the frozen reconciliation; no new circulation or vote change is assumed.",
+    "no_author_selected": true,
+    "no_assignment_counts_computed": true
+  }
+]

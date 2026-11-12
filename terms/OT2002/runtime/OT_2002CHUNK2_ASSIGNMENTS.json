@@ -1,0 +1,1419 @@
+[
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 0,
+      "Kennedy": 1,
+      "Souter": 0,
+      "Thomas": 1,
+      "Ginsburg": 0,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-11-04",
+      "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+      "authors": [
+        "Kennedy"
+      ],
+      "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      }
+    ],
+    "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+    "date": "2002-11-05",
+    "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Ginsburg",
+    "authority": "Chief Justice Stone-Zsela assigns the complete opinion because he joins its judgment and every governing proposition.",
+    "reason": "Fit controls. Ginsburg's Castano analysis supplies the actual-law-and-proof inquiry that this opinion must apply to the varied state claims, products and trial plan. Her authorship can explain why these certifications fail while preserving genuinely workable narrower proposals and substantive defenses. Thomas's Amchem analysis and Stone's Rhone-Poulenc work also fit; Ginsburg has the direct certification-framework advantage and a lower count than Thomas. Stone's narrower approved alternative is fully carried without self-assignment. No unresolved formulation objection requires expansion."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 0,
+      "Kennedy": 1,
+      "Souter": 0,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-11-05",
+      "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      }
+    ],
+    "case": "In re Dow Corning Corp.",
+    "date": "2002-11-05",
+    "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Souter",
+    "authority": "Chief Justice Stone-Zsela assigns the entire opinion because he joins its judgment and complete statutory rationale.",
+    "reason": "Fit controls. Souter's CF&I analysis directly addresses the limits of equitable alteration of the Code's statutory allocation, the central task in distinguishing lawful plan implementation from permanent extinction of independent unpaid recourse. His opinion can preserve Energy Resources and the construction provision accompanying section 524(g) without making either a source of this release power. Thomas's Hartford Underwriters and Noland work supplies a strong alternative, but his count is higher. Breyer's Energy Resources work also fits; Souter's allocation analysis gives a direct framework for the source-of-power question. Stone's approved separation of source, scope and remedy can be carried fully by Souter and supplies no superior authorship advantage. No remaining objection requires expansion."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 1,
+      "Kennedy": 1,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-11-05",
+      "case": "Syngenta Crop Protection, Inc. v. Henson",
+      "authors": [
+        "Scalia"
+      ],
+      "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      }
+    ],
+    "case": "Yellow Transportation, Inc. v. Michigan",
+    "date": "2002-11-05",
+    "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md",
+    "eligible": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Kennedy",
+    "authority": "Chief Justice Stone-Zsela assigns the complete Court opinion because he joins the judgment and all eight-Justice governing propositions. Stevens's judgment-only concurrence does not make him eligible for that rationale.",
+    "reason": "Fit controls. Kennedy's Haggar and Mead opinions distinguish actual delegated interpretive authority, statutory limits and factual application, the three tasks this fee-system case requires. His authorship can explain why the reciprocity rule is permissible without making it statutorily compelled or resolving Yellow's outstanding waiver and refund facts. Souter's Smiley work is a strong alternative for the agency's explained change; Kennedy offers the more direct delegation-and-application framework. Stone and the lower-count eligible Justices can carry the rule, but Kennedy's demonstrated work supplies this case-specific advantage. Stevens's contrary cap rationale remains separate; assignment neither manufactures a join nor uses authorship to erase the disagreement."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 0,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-11-05",
+      "case": "Yellow Transportation, Inc. v. Michigan",
+      "authors": [
+        "Kennedy"
+      ],
+      "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      }
+    ],
+    "case": "Sprietsma v. Mercury Marine",
+    "date": "2002-12-03",
+    "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "O'Connor",
+    "authority": "Chief Justice Stone-Zsela assigns the entire opinion because he joins the unanimous judgment and both controlling holdings.",
+    "reason": "Fit controls. O'Connor's acceptance of both the Myrick saving-clause analysis and Geier's actual-conflict inquiry supports the precise distinction this case requires: preserved state damages law remains subject to a demonstrated federal conflict, but the agency's insufficient-data decision establishes none. She can preserve each statutory exception and explain the legal significance of the actual agency record without turning nonregulation into a protected federal choice. Ginsburg's Myrick authorship and Stone's Geier work are strong alternatives. O'Connor has a lower count than Ginsburg and can carry Stone's approved statutory-and-record distinction equally faithfully; self-assignment supplies no additional case-specific advantage. No unresolved join objection calls for expansion."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 1,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-12-03",
+      "case": "Sprietsma v. Mercury Marine",
+      "authors": [
+        "O'Connor"
+      ],
+      "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      }
+    ],
+    "case": "Abdur'Rahman v. Bell",
+    "date": "2002-12-10",
+    "record": "AbdurRahman-v-Bell_merits_2002-12-10.md",
+    "eligible": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Ginsburg",
+    "authority": "Chief Justice Stone-Zsela assigns the default-remand and common-rule portions he supports. Stevens, the senior participating Associate in the eight-Justice coalition, assigns the separate transfer-appeal/certificate-preservation portion that Stone opposes. They assign one lead to a Justice who can carry all its portions; neither assigns from a coalition he does not join. Because the Chief assigns parts of this opinion, section 8's balance rule governs the common lead.",
+    "reason": "Fit controls the already-supported formulation. Ginsburg's Hohn and Slack opinions provide direct experience separating this Court's review, lower-court certification, threshold classification and entitlement to relief. Those distinctions are indispensable to keeping the original appellate orders, ordinary transfer appeal and actual authorization denial apart while separating ten defaulted claims from four merits-treated claims. Souter's Stewart analysis is a strong alternative for classification, but Ginsburg's combined review-and-certificate work better matches the full opinion. Stevens supports assigning that bounded corrective-remand account to Ginsburg because it preserves his process-only distinction and the original-proceeding route without importing Stone's finality theory; his different assignment authority is not treated as a Chief instruction. Stone is ineligible for the complete lead because he does not join Part II or preservation of the separate transfer appeal. No frozen commitment changes with authorship."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 0
+    },
+    "last_counted": {
+      "date": "2002-12-10",
+      "case": "Abdur'Rahman v. Bell",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      }
+    ],
+    "case": "Howsam v. Dean Witter Reynolds, Inc.",
+    "date": "2002-12-10",
+    "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Breyer"
+    ],
+    "author": "Breyer",
+    "authority": "Chief Justice Stone-Zsela assigns the seven-Justice Court rationale. Thomas agrees in the judgment on a distinct state-law ground and is not eligible to deliver that rationale; O'Connor does not participate.",
+    "reason": "Fit controls. Breyer's First Options and Mastrobuono opinions directly concern contractual allocation between courts and arbitrators, including the need to read the integrated agreement rather than presume a party's assent. That work supplies a concrete advantage in explaining why foundational consent remains judicial while this agreed forum's procedural eligibility rule belongs to the arbitrators, subject to an actual contrary agreement. Souter's integrated-contract analysis and Stone's approved assent/procedure distinction are strong alternatives; Breyer has a lower count than Souter and directly pertinent authorship, while Stone's objective is carried equally faithfully without self-assignment. Thomas's separate New York-law rationale remains intact."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 1,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 1
+    },
+    "last_counted": {
+      "date": "2002-12-10",
+      "case": "Howsam v. Dean Witter Reynolds, Inc.",
+      "authors": [
+        "Breyer"
+      ],
+      "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      }
+    ],
+    "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+    "date": "2002-12-10",
+    "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md",
+    "eligible": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Breyer"
+    ],
+    "author": "O'Connor",
+    "authority": "Chief Justice Stone-Zsela assigns the damages-remand, named-plaintiff injunction, possession and asset-disposition portions because he joins those judgment coalitions. Stevens, the senior participating Associate in the five-Justice related-person coalition, assigns that portion, from which Stone dissents. The same author can carry every portion; the Chief's participation in assignment makes the balance rule applicable to the common lead. Stone's partial reasoning joins and asset-only fallback do not establish full-author eligibility.",
+    "reason": "Fit controls. O'Connor's Madsen analysis and provision-specific injunction commitments directly serve the difficult work of preserving proved specific-intent threat relief while limiting persons, conduct, notice and remedy. Her full support for the purpose-or-knowledge rule also permits a faithful distinction between the judge's findings and the jury's defective instruction. Souter's Hurley work is a strong alternative for independent constitutional review; O'Connor's injunction analysis gives the more direct advantage across the several remedial portions. Stevens supports her authorship of the connected related-person protection because she accepts his personal-attribution limits and can state the required remedial connection without category-wide protection. The two assigners' respective coalitions remain distinct. No author change is used to convert Stone's recklessness position into the Court's culpability rule or to give his asset vote a reason."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 0,
+      "Stevens": 0,
+      "O'Connor": 2,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 1
+    },
+    "last_counted": {
+      "date": "2002-12-10",
+      "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+      "authors": [
+        "O'Connor"
+      ],
+      "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+      }
+    ],
+    "case": "United States v. Bean",
+    "date": "2002-12-10",
+    "record": "United-States-v-Bean_merits_2002-12-10.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "author": "Stone-Zsela",
+    "authority": "Chief Justice Stone-Zsela assigns the unanimous opinion and selects himself from the balance pool.",
+    "reason": "Fit supports self-assignment. Stone's approved formulation organizes the actual decision around three distinct propositions: the source of review requires an agency denial; the permission to receive additional evidence does not create initial judicial restoration authority; and agency primacy does not authorize expenditure barred by the appropriation. Personally writing that integrated source, review and remedy account preserves the precise relationship among those propositions, including the discretionary evidence exception and dismissal rather than a compelled agency merits decision. Scalia's Kokkonen and current Syngenta source-of-authority analysis is the strongest pool alternative, and can supply the jurisdictional distinction; Stone's formulation additionally coordinates the review exception and appropriations consequence without making practical futility a new jurisdictional source. Stone has the lower count. His eligibility rests on his express full position, not fallback, seniority or the importance of the case. Every Associate accepts the complete formulation, so no expansion or changed join is asserted."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 1,
+      "Stevens": 0,
+      "O'Connor": 2,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 1
+    },
+    "last_counted": {
+      "date": "2002-12-10",
+      "case": "United States v. Bean",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record": "United-States-v-Bean_merits_2002-12-10.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "United States v. Bean",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "United-States-v-Bean_merits_2002-12-10.md"
+      }
+    ],
+    "case": "Westside Mothers v. Haveman",
+    "date": "2002-12-10",
+    "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "author": "Stevens",
+    "authority": "Chief Justice Stone-Zsela assigns the entire unanimous Court opinion.",
+    "reason": "Fit controls. Stevens's provision-specific Blessing position supplies the inquiry needed to distinguish the particular child-service entitlements and their triggers from aggregate program duties, then keep the right, section 1983 remedy and prospective-officer route separate. The opinion must carefully connect screening, requested services and corrective treatment without turning every state-plan term into an individual right; that is the concrete work his frozen analysis supports. Thomas's Bruneau and Verizon analysis is a strong alternative for the enforcement and officer-relief portions. Stevens can coordinate those portions with the entitlement inquiry and has the lower count. Stone's approved integrated formulation is fully preserved, and Stevens can carry it equally faithfully with a lower count than the Chief. No new accommodation or withdrawn join requires expansion."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 1,
+      "Stevens": 1,
+      "O'Connor": 2,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 1
+    },
+    "last_counted": {
+      "date": "2002-12-10",
+      "case": "Westside Mothers v. Haveman",
+      "authors": [
+        "Stevens"
+      ],
+      "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "United States v. Bean",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "United-States-v-Bean_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Westside Mothers v. Haveman",
+        "authors": [
+          "Stevens"
+        ],
+        "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md"
+      }
+    ],
+    "case": "Borden Ranch Partnership v. Army Corps of Engineers",
+    "date": "2002-12-16",
+    "record": "Borden-Ranch-Partnership-v-Army-Corps-of-Engineers_merits_2002-12-16.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "O'Connor",
+    "authority": "Chief Justice Stone-Zsela assigns the complete six-Justice rationale and the common counting proposition. Scalia and Thomas's join confined to counting does not qualify them for the complete lead; Kennedy does not participate.",
+    "reason": "Expansion governs retention of the specified formulation, rather than the numerical closeness of the vote. O'Connor's frozen objection requires independently proved active conveyance and addition, not injury alone, and a discharge tied to conversion of the water area's use with the statutory possible physical effects, not crop change alone. Her PUD No. 1 analysis gives a concrete advantage in keeping the discharge trigger separate from broader activity regulation. She is in the balance pool and supplies the necessary accommodation; her authorship receives the rebuttable preference because that precise boundary preserves the actual join while carrying the other five complete supporters. Souter's Sweet Home analysis is a strong lower-count alternative for statutory causation, and Stone's approved act/purpose/remedy distinctions also support faithful drafting, but O'Connor's own recorded trigger objection makes her best positioned to state its limits without broadening them. No new vote or purported historical switch is invented."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 2,
+      "Stevens": 1,
+      "O'Connor": 3,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 1,
+      "Thomas": 1,
+      "Ginsburg": 2,
+      "Breyer": 1
+    },
+    "last_counted": {
+      "date": "2003-01-13",
+      "case": "Montiel v. Davis",
+      "authors": [
+        "Stone-Zsela"
+      ],
+      "record": "Montiel-v-Davis_merits_2003-01-13.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "United States v. Bean",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "United-States-v-Bean_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Westside Mothers v. Haveman",
+        "authors": [
+          "Stevens"
+        ],
+        "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-16",
+        "case": "Borden Ranch Partnership v. Army Corps of Engineers",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Borden-Ranch-Partnership-v-Army-Corps-of-Engineers_merits_2002-12-16.md"
+      },
+      {
+        "date": "2003-01-13",
+        "case": "Montiel v. Davis",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "Montiel-v-Davis_merits_2003-01-13.md"
+      }
+    ],
+    "case": "Sattazahn v. Pennsylvania",
+    "date": "2003-01-14",
+    "record": "Sattazahn-v-Pennsylvania_merits_2003-01-14.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "author": "Stevens",
+    "authority": "Chief Justice Stone-Zsela assigns the complete five-Justice double-jeopardy opinion. His separate due-process ground is not a holding of that coalition.",
+    "reason": "Fit controls. Stevens's distinct Monge finality analysis supplies the relevant craft for explaining why this completed capital life judgment differs from a noncapital sentencing determination, an ordinary mistrial and a jury acquittal. The opinion must openly state the Bullington extension rather than pretend the deadlock was an acquittal, then preserve the conviction while enforcing the life ceiling. Breyer's Jones work supplies a strong alternative for statutory sentencing structure; Stevens's finality reasoning more directly addresses the controlling distinction. Stone can carry the supported double-jeopardy formulation, but Stevens can achieve that approved alternative equally faithfully and has a lower count. The choice neither imports Stone's independent due-process theory nor treats disagreement about that theory as a majority resolution."
+  },
+  {
+    "counts": {
+      "Stone-Zsela": 2,
+      "Stevens": 3,
+      "O'Connor": 4,
+      "Scalia": 1,
+      "Kennedy": 2,
+      "Souter": 2,
+      "Thomas": 1,
+      "Ginsburg": 3,
+      "Breyer": 2
+    },
+    "last_counted": {
+      "date": "2003-04-28",
+      "case": "Planned Parenthood of Southern Arizona v. Lawall",
+      "authors": [
+        "Ginsburg"
+      ],
+      "record": "Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md"
+    },
+    "source_records": [
+      {
+        "date": "2002-10-15",
+        "case": "United States v. Nelson",
+        "authors": [
+          "Thomas"
+        ],
+        "record": "United-States-v-Nelson_merits_2002-10-15.md"
+      },
+      {
+        "date": "2002-11-04",
+        "case": "Popovich v. Cuyahoga County Court of Common Pleas",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Popovich-v-Cuyahoga-County-Court-of-Common-Pleas_merits_2002-11-04.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "In-re-Bridgestone-Firestone-Inc-Tires-Products-Liability-Litigation_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "In re Dow Corning Corp.",
+        "authors": [
+          "Souter"
+        ],
+        "record": "In-re-Dow-Corning-Corp_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Syngenta Crop Protection, Inc. v. Henson",
+        "authors": [
+          "Scalia"
+        ],
+        "record": "Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-11-05",
+        "case": "Yellow Transportation, Inc. v. Michigan",
+        "authors": [
+          "Kennedy"
+        ],
+        "record": "Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md"
+      },
+      {
+        "date": "2002-12-03",
+        "case": "Sprietsma v. Mercury Marine",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Sprietsma-v-Mercury-Marine_merits_2002-12-03.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Abdur'Rahman v. Bell",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "AbdurRahman-v-Bell_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Howsam v. Dean Witter Reynolds, Inc.",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Planned Parenthood of the Columbia/Willamette, Inc. v. American Coalition of Life Activists",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Planned-Parenthood-v-ACLA_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "United States v. Bean",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "United-States-v-Bean_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-10",
+        "case": "Westside Mothers v. Haveman",
+        "authors": [
+          "Stevens"
+        ],
+        "record": "Westside-Mothers-v-Haveman_merits_2002-12-10.md"
+      },
+      {
+        "date": "2002-12-16",
+        "case": "Borden Ranch Partnership v. Army Corps of Engineers",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Borden-Ranch-Partnership-v-Army-Corps-of-Engineers_merits_2002-12-16.md"
+      },
+      {
+        "date": "2003-01-13",
+        "case": "Montiel v. Davis",
+        "authors": [
+          "Stone-Zsela"
+        ],
+        "record": "Montiel-v-Davis_merits_2003-01-13.md"
+      },
+      {
+        "date": "2003-01-14",
+        "case": "Sattazahn v. Pennsylvania",
+        "authors": [
+          "Stevens"
+        ],
+        "record": "Sattazahn-v-Pennsylvania_merits_2003-01-14.md"
+      },
+      {
+        "date": "2003-02-24",
+        "case": "Planned Parenthood of the Rocky Mountains Services, Corp. v. Owens",
+        "authors": [
+          "Souter"
+        ],
+        "record": "Planned-Parenthood-of-the-Rocky-Mountains-v-Owens_merits_2003-02-24.md"
+      },
+      {
+        "date": "2003-03-03",
+        "case": "Steele v. Industrial Development Board of Metropolitan Government of Nashville and Davidson County",
+        "authors": [
+          "O'Connor"
+        ],
+        "record": "Steele-v-Industrial-Development-Board_merits_2003-03-03.md"
+      },
+      {
+        "date": "2003-03-24",
+        "case": "A Woman's Choice–East Side Women's Clinic v. Newman",
+        "authors": [
+          "Stevens"
+        ],
+        "record": "A-Womans-Choice-v-Newman_merits_2003-03-24.md"
+      },
+      {
+        "date": "2003-03-24",
+        "case": "Commack Self-Service Kosher Meats, Inc. v. Weiss",
+        "authors": [
+          "Breyer"
+        ],
+        "record": "Commack-Self-Service-Kosher-Meats-v-Weiss_merits_2003-03-24.md"
+      },
+      {
+        "date": "2003-04-28",
+        "case": "Planned Parenthood of Southern Arizona v. Lawall",
+        "authors": [
+          "Ginsburg"
+        ],
+        "record": "Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md"
+      }
+    ],
+    "case": "Benson v. Terhune",
+    "date": "2003-05-27",
+    "record": "Benson-v-Terhune_merits_2003-05-27.md",
+    "eligible": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "pool": [
+      "Stone-Zsela",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "author": "Breyer",
+    "authority": "Chief Justice Stone-Zsela assigns the entire unanimous Court opinion. His proposed information-right development remains a separate concurrence.",
+    "reason": "Fit controls. Breyer's Williams statutory analysis directly supplies the distinction between a contrary rule, unreasonable application and disagreement about the result, together with the source-and-date limits on clearly established law. Those boundaries must organize the treatment of actual information, voluntary ingestion, capacity and trial risk without converting one fact into another or retroactively importing a later development. Kennedy's Harper and trial-integrity analysis is the strongest pool alternative for the substantive treatment setting; Breyer offers the more direct advantage in coordinating that setting with the controlling habeas limits. Stone's approved custody/remedy distinction is fully carried, but his prospective information proposal gives no comparative advantage in explaining why the governing earlier law does not support this writ. All nine sustain the precise formulation; no broader consent rule or new join is inferred."
+  }
+]

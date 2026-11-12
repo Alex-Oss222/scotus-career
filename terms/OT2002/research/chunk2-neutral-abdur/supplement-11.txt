@@ -1,0 +1,799 @@
+No. 01-9094 
+
+
+a 
+
+
+Supreme Court 
+
+
+Supreme Suert, US. | 
+¥IULEB 
+
+
+IN THE . 
+
+
+of the Hnited States 
+
+
+Abu-Ali Abdur’ Rahman, 
+
+
+Petitioner, 
+Vv. 
+
+
+Ricky Bell, Warden, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals for the Sixth Circuit 
+
+
+SUPPLEMENTAL BRIEF OF PETITIONER 
+ABU-ALI ABDUR’RAHMAN 
+
+
+Bradley MacLean 
+
+Stites & Harbison PLLC 
+Suntrust Center, Suite 1800 
+424 Church St. 
+
+Nashville, TN 37219 
+
+
+Of Counsel: 
+
+James S. Liebman 
+
+435 W. 116th St., Box B-16 
+New York, NY 10027 
+
+
+October 31, 2002 
+
+
+Thomas C. Goldstein 
+Counsel of Record 
+
+Amy Howe 
+
+Goldstein & Howe, P.C. 
+
+4607 Asbury PI., N.W. 
+
+Washington, DC 20016 
+
+(202) 237-7543 
+
+
+William P. Redick, Jr. 
+P.O. Box 187 
+Whites Creek, TN 37189 
+
+
+CAPITAL CASE 
+SUPPLEMENTAL QUESTIONS PRESENTED 
+
+
+1. Did the Sixth Circuit have 
+district court’s order, dated November 27, 2001, 
+ing petitioner’s Rule 60(b) Motion to the Sixth 
+Circuit pursuant to 28 U.S.C. § 1631? 
+
+
+2. Did this Court have to review the Sixth 
+Circuit’s order, dated February 1 1, 2002, denying leave 
+to file a second habeas corpus petition? 
+
+
+ii ill 
+TABLE OF CONTENTS | TABLE OF AUTHORITIES 
+as | CASES 
+SUPPLEMENTAL QUESTIONS PRESENTED.................... i | Page(s) 
+pe 8 Ge i ili Banks v. United States, 167 F.3d 1082 (7th Cir. 1999)........ 10 
+STATUTES INVOLVED ..ssssssssessstsssessssssesnessensenesn ! | Davtone v. Culted States, STS U.S. 52 (1FG3) anoenevvneevnreone 
+: Begala v. PNC Bank, 214 F.3d 776 (6th Cir. 2000)............... 6 
+STATEMENT OF RELEVANT PROCEEDING.B................ | Bovee v. Coopers & Lybrand C.P.A., 272 F.3d 356 
+I. THE SIXTH CIRCUIT HAD JURISDICTION. ............ 4 | ‘ wy a eevee oem sesacensccenes - 
+‘oyd v. Unit tates, . > 
+I]. THIS COURT HAS JURISDICTION. .......sss+sssssssssse0 10 Calderon v. Thompson, 523 U.S. 538 (1998).........ccccccccecceeees a 
+CISC AIS cccceressescescoscsncencennnnensespestnneentaiaaanaal 10 Dunlap v. Litscher, 301 F.3d 873 (7th Cir. 2002)............0.. 4 
+Express Companies’ Cases, 108 U.S. 24 (1883)............0... 6,7 
+First National Bank of Salem v. Hirsch, 535 F.2d 343 
+CC EEE 6 
+Garrett v. United States, 178 F.3d 940 (7th Cir. 
+ESS AT 5 
+Goble v. Marsh, 684 F.2d 12 (D.C. Cir. 1982) ...........0cc0000. 7 
+Good v. Ohio Edison Co., 149 F.3d 413 (6th Cir. 
+ee ateiertrcerredenetnangensennmnenesenesneneeeuene 6 
+Graham v. Costello, 299 F.3d 129 (2d Cir. 2002) ................. 8 
+Graham v. Johnson, 168 F.3d 762 (Sth Cir. 1999) ................ 5 
+Haro-Arteaga v. United States, 199 F.3d 1195 (10th 
+SATE 8 
+In re Sims, 111 F.3d 45 (6th Cir. 1997).........ccccccccccceeseeeeeeees 7 
+Martinez-Villareal v. Stewart, 118 F.3d 628 (9th Cir. 
+EEE, TT 8 
+McQueen v. Scroggy, 99 F.3d 1302 (6th Cir. 1996) ......2, 5, 6 
+O'Sullivan v. Boerckel, 526 U.S. 838 (1999) .........cccccccccceeees l 
+Raineri v. United States, 233 F.3d 96 (ist Cir. 2000)............ 8 
+SEC v. Johnston, 143 F.3d 260 (6th Cir. 1998) 0.0.00... 6 
+Slack v. McDaniel, 529 U.S. 473 (2000)............cccccceeeeee 4,10 
+Stewart v. Martinez-Villareal, 523 U.S. 637 (1998)....4, 9, 10 
+Stome v. INS, $14 U.S. 386 (1995) .........0cs.ccceccsrccesssesecereees 5,6 
+
+
+Ukiah Adventist Hospital v. FTC, 981 F.2d 543 (D.C. 
+3 a stieteemersenenasensensenenesnsovcsnnsenncscousceusceeee 7 
+
+
+iV 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+United States v. Cronic, 466 U.S. 648 (1984)................. 5 
+STATUTES AND RULES 
+TN zs) 
+ee ie Oe EE crennesrnnentemnnmenemittinmnit | 
+ies OF SD cennnenmenrtemaimnniennieiniien 1,4,7 
+ere 1,2, 4,7 
+ee 8 
+ee ae Oe inrcieneeienesonnimmnennntiniel passim 
+a ie 0 crnscnernremenemenininiitianenedintils 1,7 
+rR passim 
+2d ee OR cccmencrceiimnenmitiien 10 
+Be tes Ut cnhinicstsecmmessnnenenecpianemententiinntinenemiaiien 1, 4, 6, 7 
+re N 7 
+Be ie OE cxrsneseremndensenmmeninsnnnnateninieabnmenieas 7 
+Pe i: Gee le Gi crerncnentetennennenmminennnen passim 
+eT 5 
+ne See 1,2,4 
+TREATISES 
+
+Hart & Wechsler’s The Federal Courts and the 
+
+Federal System (4th ed. 1996) ...............ccccesrcssrsseceeeeses 9 
+Moore’s Federal Practice 3d — Civil 
+
+ETI serianenemeneunsetengremmnnntannmennnmnineennmnmmmmtanindinnenias 4 
+
+NSU cnensessnnseniepemnnamnenenmnnenummnannnntimmanmmenantitl 6 
+
+St ner esnsesreneenesremenenannneapemanensmemnannannennnnetioes 6 
+
+
+STATUTES INVOLVED 
+This brief involves 28 U.S.C. §§ 1254(1), 1291, 1631, 
+2253, and 2244(b)(3), which are set forth in Appendix A. 
+
+
+STATEMENT OF RELEVANT PROCEEDINGS 
+
+The federal district court in this habeas corpus proceeding 
+held that it could not reach the merits of petitioner’s Due 
+Process claims of egregious prosecutorial misconduct because 
+petitioner had failed to ask the Tennessee Supreme Court for 
+leave to “appeal by permission” from an adverse decision on 
+those claims by the Tennessee Court of Criminal Appeals. 
+Although the granting of permission to appeal was 
+discretionary with Tennessee’s highest court, the federal district 
+judge concluded that a request for such permission was a state 
+remedy that had to be exhausted in order to preserve 
+petitioner’s Due Process contentions for federal habeas review. 
+
+As petitioner was preparing his brief on the habeas appeal 
+(filed Aug. 4, 1999), this Court decided O'Sullivan v. Boerckel, 
+526 U.S. 838 (1999). O'Sullivan held that unless state law 
+clearly says otherwise, discretionary review is part of the state’s 
+“ordinary” appellate process and must be exhausted. Jd. at 847. 
+
+The Sixth Circuit denied all habeas relief on September 13, 
+2000, and stayed its mandate pending certiorari proceedings. 
+JA 21, 134. During those proceedings, the Tennessee Supreme 
+Court issued Tenn. S. Ct. R. 39, “clarify[ing]” that 
+discretionary review in that court had not been part of the 
+state’s “routine[{]” appellate process at any time since July 1, 
+1967, when the Tennessee Court of Criminal Appeals was 
+created. JA 163. 
+
+This Court denied certiorari on October 9, 2001. Later that 
+day, petitioner asked the district court for an expedited status 
+conference, which was held the next day. At the conference, 
+petitioner orally moved for Rule 60(b) relief from the court’s 
+judgment, contending that the judgment had been premised on a 
+misunderstanding of state law that Rule 39 dispelled. In 
+argument, the court was informed of the established practice 
+
+
+allowing it to signify its disposition to grant the Rule 60(b) 
+
+
+2 
+
+
+motion, if indeed it was so inclined, and thereby obtain a 
+remand of the pending appeal for that purpose. The court asked 
+for briefing on the question whether petitioner’s 60(b) motion 
+was “successive.” 10/10/01 Tr. 2-4, 12-15, 25. 
+
+That same day, October 10, 2001, petitioner moved the 
+Sixth Circuit to withhold its mandate in the pending appeal 
+(Nos. 98-6568/9) and to “remand to the district court” to 
+determine whether, as he claimed, Rule 39 made “clear that [its 
+non-exhaustion] conclusion was erroneous.” JA 152, 154-56 & 
+n. 12 (noting Rule 60(b) proceedings in district court). The court 
+of appeals ordered the state to respond and withheld its 
+mandate until it denied the motion on February 11, 2002. JA 
+23, 27. 
+
+On November 27, 2001, the district court decided under 
+McQueen v. Scroggy, 99 F.3d 1302 (6th Cir. 1996), that a 
+“60(b) Motion must be construed as . . . a successive petition.” 
+Because that decision triggered 28 U.S.C. § 2244(b)(3)(A), 
+which deprives district courts of first-instance jurisdiction over 
+“a second or successive application,” the court transferred the 
+case to the court of appeals. JA 42 (citing 28 U.S.C. § 1631). 
+
+The court of appeals docketed the transferred case as “an 
+application for permission to file a successive petition,” 
+assigning it No. 01-6487. Petitioner immediately informed the 
+court of appeals that: (/) he “has not filed an application for a . 
+. . Successive petition” (original emphasis) and “never 
+intended” to file one or have his 60(b) motion “converted into” 
+one; (2) he therefore doubted whether the appellate court had 
+jurisdiction under § 2244(b)(3)(A), which requires an 
+
+“applicant [to] move . . . for an order authorizing” a “second or 
+successive application”. (3) he therefore had filed an appeal— 
+docketed as No. 01-6504—challenging the district court’s 
+decision that the 60(b) motion was “successive,” but “nor 
+appealing” the lower court’s further order transferring a 
+“successive petition”—in which he had no interest; and (4) the 
+Rule 39 issue could also “appropriately be addressed by 
+
+
+' Petitioner filed his written 60(b) motion and brief on Nov. 2, 2001. 
+
+
+| 
+
+
+3 
+
+
+granting Petitioner’s motion in Nos. 98-6568/9 to withhold the 
+mandate and to remand the case.” 12/1/01 Letter to Sixth 
+Circuit Clerk 2-3;12/6/01 Mot. to Hold [No. 01-6487] in 
+Abeyance 1-2; 12/5/01 Applic. for Certif. of Appealability 13; 
+12/20/01 Reply to Resp. 1-3. 
+
+In a January 18, 2002 order denying petitioner’s request for 
+a certificate of appealability in the 60(b) appeal (No. 01-6504), 
+the Sixth Circuit panel affirmed the district court’s decision that 
+“a Rule 60(b) motion is the equivalent of a successive petition.” 
+That ruling made it “proper[]” to go on in the “transferred” case 
+to consider “whether the Rule 60(b) motion satisfied the 
+gateway criteria of § 2244(b).” JA 36. 
+
+In a final order in all three cases on February 11, 2002,’ the 
+court denied the motion to remand and issued its mandate in the 
+original appeal (Nos. 98-6568/9); dismissed the 60(b) appeal ( 
+01-6504) on the basis of its January 18 ruling that the 60(b) 
+motion was “successive,” triggering the court’s authority under 
+§ 2244(b)(3)(A); and denied leave (not requested by petitioner) 
+to file a successive application (01-6487). JA 39. 
+
+On March 19, 2002, petitioner asked this Court for both a 
+writ of certiorari (01-9094) and an original writ of habeas 
+corpus (01-9095) to review the court of appeals’ January 18 
+and February 11 decisions affirming the district court’s ruling 
+that his 60(b) motion was “successive.” Petitioner sought 
+review of this ruling in the 60(b) appeal (No. 01-6504) and also 
+in the transferred case (No. 01-6487) to the extent that the latter 
+was the locus of the same ruling. Petitioner emphasized that he 
+“does not seek review of the Sixth Circuit's gatekeeping ruling 
+denying him ‘authorization’ to file a ‘second or successive’ 
+application.” He also asked the Court to review the denial of 
+his motion to remand the original appeal (Nos. 98-6568/9). 
+Cert. Pet. vi, 1 & n.1, 9-12 & n.5; Cert. Rep. 2-3; Habeas Pet. i. 
+
+The Court granted petitioner’s application for a stay of 
+execution and denied his original habeas petition on April 8, 
+
+
+. The Joint Appendix (at 38) contains a typographical error: it omits 
+docket no. 01-6487 from the matters in which the order was entered. 
+
+
+4 
+
+
+2002. On April 22, 2002, the Court granted certiorari on two 
+issues: Did the lower courts correctly rule that the 60(b) motion 
+was per se successive? Did the court of appeals correctly deny 
+the motion to remand the Rule 39 issue to the district court? 
+
+
+I. THE SIXTH CIRCUIT HAD JURISDICTION. 
+
+A. The question of the Sixth Circuit’s jurisdiction to 
+review the district court’s order of November 27 is like the 
+jurisdictional question decided in Stewart v. Martinez-Villareal, 
+523 U.S. 637 (1998). There the Court recognized that 
+jurisdiction turned upon a proper categorization of the nature of 
+the proceeding, and that the caiegorization question coincided 
+with the main issue in dispute between the parties on the merits. 
+Here petitioner’s submission on the merits is that his Rule 60(b) 
+motion was a permissible Rule 60(b) motion, not a “second or 
+successive habeas corpus application” requiring authorization 
+by the court of appeals before it could be filed in the district 
+court under 28 U.S.C. § 2244(b). Respondent’s submission is 
+that the motion was a second habeas application. The district 
+court accepted respondent’s categorization and therefore 
+rejected the motion, and transferred the case to the court of 
+appeals under 28 U.S.C. § 1631. If this ruling was wrong, the 
+court of appeals had jurisdiction to review it under 28 U.S.C. 
+§§ 1291 and 2253. 
+
+Rulings finally disposing of motions made under Fed. R. 
+Civ. P. 60(b) are “final decisions” appealable under § 1291. See 
+Moore’s Federal Practice 3d — Civil §60.68[1]. In habeas cases 
+they are “final order[s]” appealable under § 2253. See, e.g., 
+Dunlap v. Litscher, 301 F.3d 873, 875 (7th Cir. 2002) (court of 
+appeals “consolidated for decision three appeals from denial or 
+dismissal of motions under Rule 60(b) . . . that present similar 
+questions about the circumstances in which prisoners subject to 
+. . . [AEDPA] may file motions under Rule 60(b)”). 
+Specifically, a district court’s holding that a Rule 60(b) motion 
+or other filing constitutes a successor habeas petition is an 
+appealable order. See Slack v. McDaniel, 529 U.S. 473 (2000) 
+(determination by district court that habeas claims were 
+
+
+5 
+
+
+“second or successive” was reviewed on appeal by the Ninth 
+Circuit, then by this Court on certiorari); Garrett v. United 
+States, 178 F.3d 940 (7th Cir. 1999) (reversing the district 
+court’s finding that a § 2255 motion was successive); Graham 
+v. Johnson, 168 F.3d 762, 774-75 (Sth Cir. 1999) (holding that 
+dismissal for failure to seek court of appeals’ authorization to 
+file successor petition is an appealable final order when a 
+habeas petitioner challenges the applicability of § 2244(b) to 
+the petition); McQueen, 99 F.3d at 1334-35 (reviewing and 
+affirming the denial of a Rule 60(b) motion filed during the 
+pendency of appeal, when the district court found that the 
+motion constituted a successor petition and an abuse of the 
+writ). 
+
+Although (as in McQueen) petitioner’s original habeas 
+appeal was pending when he filed his 60(b) motion, that did not 
+deprive the district court of jurisdiction to consider the motion. 
+This Court has recognized that “the pendency of an appeal 
+does not affect the district court’s power to grant Rule 60 
+relief.” Stone v. INS, 514 U.S. 386, 401 (1995). 
+
+The modern view is that a pending appeal does not 
+preclude a district court from entertaining a Rule 60(b) 
+motion. . . . [A] litigant may file a Rule 60(b) motion in 
+the district court despite a pending appeal; the district 
+court may entertain the motion; it may deny the motion 
+on the merits; and if the district court is inclined to grant 
+the motion, the district court or the movant may inform 
+the court of appeals. The appellate court may then 
+remand the matter to the district court for the purpose of 
+granting the motion. 
+
+
+> The Court has similarly held that if a motion for a new trial is filed under 
+Federal Criminal Rule 33 while the direct appeal is pending, the district 
+court has “jurisdiction to entertain the motion and either deny the motion on 
+its merits, or certify its intention to grant the motion to the Court of Appeals, 
+which could then entertain a motion to remand the case.” United States v. 
+Cronic, 466 U.S. 648, 667 n.42 (1984). 
+
+
+6 
+
+
+Moore’s Federal Practice 3d — Civil §60.67[2][b].* Under this 
+now-standard procedure (called a “motion for a Hirsch remand” 
+in Sixth Circuit parlance, referring to First National Bank of 
+Salem v. Hirsch, 535 F.2d 343 (6th Cir. 1976)), a district court 
+has jurisdiction to consider and reject a Rule 60(b) motion 
+without any sort of leave or remand from the court of appeals 
+despite the pendency of an appeal.° And when it does, its “order 
+is appealable as a separate final order, and if the original appeal 
+is still pending, it would seem that the court of appeals can 
+consolidate the proceedings.” Stone, 514 U.S. at 401. 
+Equally clearly, the fact that the district court’s decision 
+barring petitioner’s Rule 60(b) motion as a successor habeas 
+petition within § 2244(b)(3)(A) took the form of an order 
+transferring the motion to the court of appeals made it no less a 
+“final order” appealable under 28 U.S.C. § 2253. Because 
+petitioner never did or could assert any claim that he was 
+eligible for authorization to file a successor petition, the district 
+court’s ruling dispatching him to the court of appeals for such 
+authorization was a final order in the classic definition of that 
+term: it “terminate[d] the litigation on the merits of the case, 
+and . . . [left] nothing to be done but to enforce by execution 
+what ha[d] been determined.” Express Companies’ Cases, 108 
+
+
+* Only the Ninth Circuit uses a different procedure. This is described and 
+criticized in Moore's Federal Practice 3d — Civil §60.67[2]{c]. 
+
+
+> See id. nn.4, 5 (collecting cases). Although the Sixth Circuit gives its 
+district judges discretion to decline to consider a motion for a Hirsch remand 
+(see SEC v. Johnston, 143 F.3d 260 (6th Cir. 1998)), it reviews district court 
+decisions that do consider such motions (see, e.g., Good v. Ohio Edison Co., 
+149 F.3d 413, 417 (6th Cir. 1998); Begala v. PNC Bank, 214 F.3d 776 (6th 
+Cir. 2000)), treating “[a] denial of a Hirsch remand . . . [motion as] 
+essentially a denial of a motion under Fed. R. Civ. P. 60(b)” (Bovee v. 
+Coopers & Lybrand C.P.A., 272 F.3d 356, 361 (6th Cir. 2001)). Notably, the 
+very case relied upon by the district court and the Sixth Circuit as the basis 
+for characterizing petitioner's 60(b) motion as a successor habeas 
+application, McQueen v. Scroggy, implicitly recognized the jurisdiction of 
+the district court to consider and deny a Rule 60(b) motion despite the 
+pendency of an appeal, and of the court of appeals to hear an appeal from 
+that decision. 
+
+
+7 
+
+
+U.S. 24, 28 (1883). While transfer orders that merely shift the 
+venue in which a party may obtain the relief he seeks are 
+generally not appealable, transfer orders that effectively bar a 
+party from receiving relief in any forum are subject to 
+immediate appeal. Compare Goble v. Marsh, 684 F.2d 12, 14 
+(D.C. Cir. 1982) (transfer order is appealable when rights may 
+be irreparably lost in the absence of immediate review) with 
+Ukiah Adventist Hosp. v. FTC, 981 F.2d 543, 546 (D.C. Cir. 
+1992) (transfer orders under 28 U.S.C. § 1631 are properly 
+viewed as nonappealable interlocutory orders when “the very 
+purpose of the transfer . . . is to allow the case to continue, 
+rather than terminating it”). Here, the transfer order did not 
+simply change the forum for adjudication of petitioner’s claims; 
+it completely foreclosed any consideration of those claims. 
+Thus, the order was final for purposes of the pertinent appeal 
+statutes, §§ 1291 and 2253. 
+
+B. In addition to the Sixth Circuit’s jurisdiction to review 
+the district court’s November 27, 2001 order under 28 U.S.C. 
+§§ 1291 and 2253, the circuit court also plainly had two other 
+sources of jurisdiction to decide the issues on which this Court 
+has granted certiorari: : 
+
+1. InJn re Sims, 111 F.3d 45 (6th Cir. 1997), the Sixth Cir- 
+cuit approved a practice under which a district court, when 
+presented with a post-AEDPA filing that the district court 
+deems to be a second or successive collateral-attack application 
+which has not been authorized by the court of appeals pursuant 
+to 28 U.S.C. § 2244(b)(3), may transfer the filing to the court of 
+appeals under 28 U.S.C. § 1631, so that the court of appeals can 
+consider whether to grant authorization. The Sims procedure, 
+like similar practices adopted in other circuits,° is designed to 
+
+
+° See, e.g., Boyd v. United States, 304 F.3d 813, 814 (8th Cir. 2002): “[W]e 
+encourage district courts, in dealing with purported Rule 60(b) motions 
+following the dismissal of habeas petitions, to employ a procedure whereby 
+the district court files the purported Rule 60(b) motion and then conducts a 
+brief initial inquiry to determine whether the allegations in the Rule 60(b) 
+motion in fact amount to a second or successive collateral attack under either 
+28 U.S.C. § 2255 or § 2254. If the district court determines the Rule 60(b) 
+
+
+8 
+
+
+provide a consistent, efficient method of routing to the courts of 
+appeals what appear to district judges to be successor post- 
+conviction pleadings that require “gatekeeper” screening. But, 
+of course, the district judges may sometimes be wrong in 
+regarding a particular pleading as “second or successive”; and, 
+if they are, the court of appeals is obliged to so hold and refuse 
+to accept the transfer. Graham v. Costello, 299 F.3d 129, 132 
+(2d Cir. 2002) (following transfer of a habeas petition to the 
+court of appeals, the court explains that “[b]efore addressing 
+whether Graham’s present habeas petition warrants our 
+authorization, we must first be certain that authorization is 
+required because his current petition is a ‘second or successive’ 
+application under 28 U.S.C. § 2244”); Martinez-Villareal v. 
+Stewart, 118 F.3d 628 (9th Cir. 1997) (when an inmate was 
+compelled to resort to the court of appeals for permission to file 
+a habeas petition as result of the district court’s erroneous 
+interpretation of § 2244, the court finds that § 2244’s 
+gatekeeping provisions do not apply and that a motion for 
+authorization is unnecessary; it thus remands to district court 
+for consideration of the merits of petitioner's claim).’ This is 
+simply an instance of the axiomatic proposition that “[a] federal 
+court always has jurisdiction to decide whether it has 
+
+
+motion is actually a second or successive habeas petition, the district court 
+should dismiss it for failure to obtain authorization from the Court of 
+Appeals or, in its discretion, may transfer the purported Rule 60(b) motion to 
+the Court of Appeals. Depending on which course of action the district court 
+chooses, the petitioner may either appeal! the dismissal of the purported Rule 
+60(b) motion or, if the district court has elected to transfer the purported 
+60(b) motion to the Court of Appeals, await the action of the Court of 
+Appeals.” 
+
+” See also, e.g., Haro-Arteaga v. United States, 199 F.3d 1195 (10th Cir. 
+1999) (after receiving transfer from district court, court of appeals rules that 
+district court erred in finding that it lacked jurisdiction to consider a § 2255 
+motion and remands for merits review); Raineri v. United States, 233 F.3d 
+96 (1st Cir. 2000) (court of appeals, following transfer of a § 2255 case to it, 
+holds that district court erred in concluding that the § 2255 motion was 
+governed by successive-petition provisions; it vacates the transfer order, 
+reverses the order of dismissal, and remands the case to the district court). 
+
+
+9 
+
+
+jurisdiction and, if it decides that it does not, to take appropriate 
+action.” Hart & Wechsler’s The Federal Courts and the Federal 
+System 1580-81 (4th ed. 1996). In the Martinez-Villareal case, 
+supra, this Court upheld its own jurisdiction on the premise that 
+the Ninth Circuit court of appeals had jurisdiction to decide 
+precisely this threshold question whether a post-conviction 
+filing was or was not “second or successive” so as to need 
+gatekeeper authorization under § 2244(b)(3)(A). 523 U.S. at 
+641-42. So, in the present case, the Sixth Circuit—when it 
+received petitioner’s case transferred from the district court and 
+was confronted with petitioner’s objection that the district court 
+had incorrectly held his 60(b) motion subject to § 2244(b)—had 
+the jurisdiction and the obligation to decide whether the district 
+judge or petitioner was right.® 
+
+2. Petitioner not only filed a 60(b) motion in the district 
+court but also filed a motion in the court of appeals—while his 
+original appeal was still pending in that court following this 
+Court’s denial of certiorari—asking the court-of appeals to 
+withhold its mandate and remand the case to the district court 
+for consideration of the issues presented by the 60(b) motion. 
+Uncontestably, the court of appeals had jurisdiction over the 
+motion filed with it. See, e.g., Bartone v. United States, 375 
+U.S. 52 (1963) (per curiam). And its consideration of the merits 
+of the request for a remand was constrained by AEDPA only if 
+what petitioner was seeking was tantamount to a second or 
+successive petition within § 2244(b), see Calderon v. 
+Thompson, 523 U.S. 538 (1998)}—the nub of the pair of 
+questions on which this Court has granted certiorari. 
+
+
+* As the court of appeals itself rightly recognized in its January 18, 
+2002 order (JA 36), it was obliged to determine de novo whether the 
+transferred motion was, in the words of Section 2244(b)(3)(A), a “second or 
+successive application” before it could take jurisdiction of the transferred 
+action. Had it ruled that the action was not second or successive, it would 
+have had either to grant the petitioner’s pending motion to remand and send 
+the action back to the district court, see supra at 7 & n.6 (collecting cases), 
+or to dismiss and invite the petitioner to refile in the district court, see, e.g., 
+Banks v. United States, 167 F.3d 1082, 1083 (7th Cir. 1999). 
+
+
+10 
+
+
+Il. THIS COURT HAS JURISDICTION. 
+
+Because, as we saw, the Sixth Circuit had jurisdiction to 
+determine whether petitioner’s motions to the district court and 
+to it were “second or successive habeas corpus application|[s}” 
+within the meaning of 28 U.S.C. § 2244(b), petitioner’s case 
+presenting those questions was “in” the court of appeals for 
+purposes of this Court’s jurisdiction under § 1254. 
+
+To be sure, Congress has denied this Court jurisdiction to 
+review a court of appeals’ “grant or denial of an authorization . 
+. . to file a second or successive application” for habeas corpus. 
+
+28 U.S.C. § 2244(b)(3)(E). But petitioner sought no such 
+authorization from the court of appeals, and he is not asking 
+this Court to review any question having to do with whether, if 
+his Rule 60(b) motion in the district court and his remand 
+motion in the court of appeals were “second or successive 
+habeas corpus application[s],” they would qualify for 
+authorization under the criteria of 28 U.S.C. § 2244(b). To the 
+contrary, petitioner seeks this Court’s review only of the 
+question whether his motions are “second or successive habeas 
+corpus application{s}.” The Court’s jurisdiction to decide that 
+anterior question has been settled by Slack v. McDaniel (which 
+was “in” the court of appeals on from a district court 
+order dismissing a habeas corpus petition on the theory—held 
+erroneous by this Court—that it was a successor petition) and 
+by Stewart v. Martinez-Villareal (which was “in” the court of 
+appeals by virtue of the court of appeals’ consideration whether 
+to transfer back to the district court a petition routed to it on a 
+similar theory—similarly held erroneous by this Court). 
+
+
+CONCLUSION 
+
+
+The court of appeals had jurisdiction and this Court has 
+jurisdiction to determine the issues on which certiorari was 
+
+
+granted. 
+
+
+Bradley MacLean 
+
+Stites & Harbison PLLC 
+Suntrust Center, Suite 1800 
+424 Church St. 
+
+Nashville, TN 37219 
+
+
+Of Counsel: 
+
+James S. Liebman 
+
+435 W. 116th St., Box B-16 
+New York, NY 10027 
+
+
+October 31, 2002 
+
+
+1] 
+
+
+Respectfully submitted, 
+
+
+Thomas C. Goldstein 
+Counsel of Record 
+
+Amy Howe 
+
+Goldstein & Howe, P.C. 
+
+4607 Asbury PI., N.W. 
+
+Washington, DC 20016 
+
+(202) 237-7543 
+
+
+William P. Redick, Jr. 
+P.O. Box 187 
+Whites Creek, TN 37189 
+
+
+APPENDIX A 
+Relevant Sections of the United States Code: 
+
+
+28 U.S.C. § 1254(1) (2002) 
+§ 1254. Courts of appeals; certiorari; certified questions 
+
+
+Cases in the courts of appeals may be reviewed by the Supreme 
+Court by the following methods: 
+
+
+(1) By writ of certiorari granted upon the petition of any party 
+to any civil or criminal case, before or after rendition of 
+judgment or decree; 
+
+
+28 U.S.C. § 1291 (2002) 
+§ 1291. Final decisions of district courts 
+
+
+The courts of appeals (other than the United States Court of 
+Appeals for the Federal Circuit) shall have jurisdiction of 
+appeals from all final decisions of the district courts of the 
+United States, the United States District Court for the District 
+of the Canal Zone, the District Court of Guam, and the District 
+Court of the Virgin Islands, except where a direct review may 
+be had in the Supreme Court. The jurisdiction of the United 
+States Court of Appeals for the Federal Circuit shall be limited 
+to the jurisdiction described in sections 1292(c) and (d) and 
+1295 of this title [28 USCS §§ 1292(c), (d), 1295). 
+
+
+28 U.S.C. § 1631 (2002) 
+§ 1631. Transfer to cure want of jurisdiction 
+
+
+Whenever a civil action is filed in a court as defined in section 
+610 of this title or an appeal, including a petition for review of 
+administrative action, is noticed for or filed with such a court 
+and that court finds that there is a want of jurisdiction, the court 
+shall, if it is in the interest of justice, transfer such action or 
+appeal to any other such court in which the action or appeal 
+
+
+2 
+
+
+could have been brought at the time it was filed or noticed, and 
+the action or appeal shall proceed as if it had been filed in or 
+noticed for the court to which it is transferred on the date upon 
+which it was actually filed in or noticed for the court from 
+which it is transferred. 
+
+
+28 U.S.C. § 2244(b)(3) (2002) 
+§ 2244. Finality of determination 
+
+
+(b) (3) (A) Before a second or successive application permitted 
+by this section is filed in the district court, the applicant shall 
+move in the appropriate court of appeals for an order 
+authorizing the district court to consider the application. 
+
+(B) A motion in the court of appeals for an order authorizing 
+the district court to consider a second or successive application 
+shall be determined by a three-judge panel of the court of 
+appeals. 
+
+(C) The court of appeals may authorize the filing of a second or 
+successive application only if it determines that the application 
+makes a prima facie showing that the application satisfies the 
+requirements of this subsection. 
+
+(D) The court of appeals shall grant or deny the authorization to 
+file a second or successive application not later than 30 days 
+after the filing of the motion. 
+
+(E) The grant or denial of an authorization by a court of appeals 
+to file a second or successive application shall not be 
+appealable and shall not be the subject of a petition for 
+rehearing or for a writ of certiorari. 
+
+
+28 USCS § 2253 (2002) 
+§ 2253. Appeal 
+
+
+(a) In a habeas corpus proceeding or a proceeding under section 
+2255 before a district judge, the final order shail be subject to 
+review, on appeal, by the court of appeals for the circuit in 
+
+
+which the proceeding is held. 
+(b) There shall be no right of appeal from a final order in a 
+proceeding to test the validity of a warrant to remove to another 
+district or place for commitment or trial a person charged with a 
+criminal offense against the United States, or to test the validity 
+of such person's detention pending removal proceedings. 
+(c)(1) Unless a circuit justice or judge issues a certificate of 
+appealability, an appeal may not be taken to the court of 
+appeals from-- 
+
+(A) the final order in a habeas corpus proceeding in which 
+the detention complained of arises out of process issued by a 
+State court; or 
+
+(B) the final order in a proceeding under section 2255. 
+
+(2) A certificate of appealability may issue under paragraph 
+(1) only if the applicant has made a substantial showing of the 
+denial of a constitutional right. 
+
+(3) The certificate of appealability under paragraph (1) shall 
+indicate which specific issue or issues satisfy the showing 
+
+
+required by paragraph (2). 
+
+

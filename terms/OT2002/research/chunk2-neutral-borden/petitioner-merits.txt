@@ -1,0 +1,2875 @@
+S. 
+eme Court, U. 
+FILED 
+
+
+No. 01-1243 | aus 26 200 
+
+
+In The 7K | 
+SUPREME COURT OF THE UNITED sTAgES 
+
+
+=—-_ 
+
+
+BORDEN RANCH PARTNERSHIP; 
+ANGELO K. TSAKOPOULOS, Petitioners, 
+
+
+Vv 
+
+
+UNITED STATES ARMY CORPS OF ENGINEERS; 
+UNITED STATES ENVIRONMENTAL PROTECTION 
+AGENCY, Respondents. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals 
+for the Ninth Circuit 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+TIMOTHY S. BISHOP 
+
+
+MAYER, BROWN, ROWE 
+
+
+& MAW 
+190 South LaSalle Street 
+Chicago, IL 60603 
+(312) 782-0600 
+
+
+EDMUND L. REGALIA 
+
+MILLER, STARR & 
+REGALIA 
+
+A Professional Law 
+
+Corporation 
+
+1331 N. California Blvd., 
+
+Fifth Floor 
+
+Post Office Box 8177 
+
+Walnut Creek, CA 94596 
+
+(925) 935-9400 
+
+
+ARTHUR F. COON 
+
+Counsel of Record 
+
+MILLER, STARR & 
+REGALIA 
+
+A Professional Law 
+
+Corporation 
+
+1331 N. California Blvd., 
+
+Fifth Floor 
+
+Post Office Box 8177 
+
+Walnut Creek, CA 94596 
+
+(925) 935-9400 
+
+
+KYRIAKOS TSAKOPOULOS 
+1451 Rocky Ridge Drive #611 
+Roseville, CA 95661 
+
+(916) 606-2641 
+
+
+Counsel for Petitioners 
+
+
+ae 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether deep plowing ranchland to plant deep-rooted 
+crops constitutes the “addition” of a “pollutant” (the plowed 
+soil) from a “point source” (the plow) so as to fall within the 
+regulation of Section 404 of the Clean Water Act. 
+
+
+2. Whether deep plowing ranchland which is farmable 
+in its natural state to plant deep-rooted crops is statutorily 
+exempt from regulation under Section 404(f)’s exemption for - 
+any discharge from “normal farming * * * activities such as 
+plowing.” 
+
+
+3. Whether the Clean Water Act’s civil penalty section, 
+authorizing penalties “not to exceed $25,000 per day for each 
+violation,” authorizes assessing the maximum daily penalty 
+for each time a plow crosses a seasonal drainage feature, 
+without regard to the number of days when such activity oc- 
+curred. 
+
+
+(I) 
+
+
+ili 
+
+
+TABLE OF CONTENTS 
+Page 
+
+PEE cniescrervensecrscensccsssemsnennesseiunsneets I 
+IPOD cccnececsnsenccsersnstnstemnmsenesenmnenmmtensionsinn l 
+ee nrereceasesennsemsesensenmnnnsienimnnnntunnentietianiiommuniaties l 
+STATUTORY AND REGULATORY PROVISIONS 
+Se OTE cncnicasenserecntnncnsagueantaninesmanenstenneimemmmensesmessenmees ] 
+SP ETTEIIIUED cocssomassnncrensessnnstecnmmcemenedenemeniensinnsenmeentitin l 
+A. The Statutory And Regulatory Scheme..................... 4 
+
+l. The Elements Of Section 404 
+
+PRRIIID, cocnerecrcscrssntsmnennnenetnnssnnequonsemmeneses 4 
+2. The CWA’S Farming Exclusions And 
+ee 9 
+
+3. The Penalty Provision ............:.:sccseseeeeeeee 11 
+B. Petitioners’ Plowing Activities On Borden 
+
+Ranch And The Corps’ Assertion Of 
+
+IED ereccerenssencenentavenvenemmsnsenesupamemeumenemean 1] 
+C. Petitioners’ Challenge To The Corps’ 
+
+Jurisdiction Over Plowing And The District 
+
+I Se nsnccscscssnseniscnsnnsonncnmnnenecieateesmaninnamants 14 
+D. The Ninth Circuit’s Divided Decision...................... 15 
+SUMMARY OF ARGUMENT............:cccccccsssecssesseesereeseeees 17 
+TTT ccnnevctnrnertnsmsasinsinentnieinmensnediiemimmmecsmpannenininis 20 
+1. DEEP PLOWING DOES NOT INVOLVE A 
+
+
+“DISCHARGE” OR “ADDITION” OF 
+“POLLUTANTS” FROM A “POINT 
+
+SOURCE” AND IS THEREFORE NOT 
+
+SUBJECT TO REGULATION UNDER 
+
+FOIE EFS i Oh cecnsssncscenssesssessnsssesessnnsnnenesssenst 20 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+A. Plowing Does Not Constitute An 
+“Addition” Of A “Pollutant” Under 
+
+
+The Plain Language Of The CWA........... 
+
+
+B. Plows Are Not CWA-Regulated 
+
+
+a 
+
+
+C. The Text, Structure, And Legislative 
+History Of The CWA Confirm That 
+Congress Intentionally Excluded 
+Agriculture From Section 404 
+
+
+0 
+
+
+THE CWA’S “FARMING EXEMPTIONS” 
+REAFFIRMED THE EXISTING 
+EXCLUSION OF “NORMAL FARMING 
+
+* * * AND RANCHING ACTIVITIES SUCH 
+AS PLOWING” FROM SECTION 404 
+
+
+EIS concuntsnsesrenieonnintenmensserenanemanennes 
+
+A. The Plain Language Of Section 
+404(f)(1)(A) Broadly Exempts The 
+Plowing Of Farmland Or Ranchland 
+
+
+To Plant Crops From Section 404 
+
+
+IIE cccccensesnenssntenstennemeeianeennmenenn 
+
+
+B. The Legislative History Confirms 
+Congress Intended To Clarify The 
+Existing Exclusion Of Plowing Under 
+
+
+ETE weer eee a ee 
+
+
+C. The Agencies’ Regulations Treat 
+Plowing As A “Non-Discharge” 
+Excluded Entirely From Section 404’s 
+Provisions, Including The “Recapture 
+
+
+TESTER OT ama EELS TTT 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+D. Expanding Section 404 To Cover 
+Deep Plowing For Crop Production Is 
+Contrary To Congress’ Explicit 
+Purpose To Preserve And Protect The 
+Primary Responsibilities Of States 
+
+
+EET SSE AT: Caren eee 
+
+
+THE CWA DOES NOT AUTHORIZE 
+IMPOSING MULTIPLE MAXIMUM 
+DAILY CIVIL PENALTIES FOR 
+VIOLATIONS OF THE SAME CATEGORY 
+BY THE SAME POINT SOURCE ON THE 
+
+
+IEE Eh « cxcesarevennentsenenenennansieiuemmcanenseniontens 
+CONCLUSION 
+
+
+46 
+
+
+vi 
+TABLE OF AUTHORITIES 
+Page 
+
+CASES 
+Avoyelles Sportsmen's League, Inc. v. Marsh, 
+
+715 F.2d 897 (Sth Cir. 1983)................ 16, 26, 27, 33, 36 
+Association to Protect Hammersley, Eld, and 
+
+Totten Inlets v. Taylor Resources, Inc., _ 
+
+F.3d ___, 2002 WL 1792498, *6 (9th Cir. 
+
+IIT ertentanesnseieninnntiieinnintatetasiadsanaaniiateniibinteeenesnmesntes 23, 25 
+Atlantic States Legal Foundation, Inc. v. Ty- 
+
+son Foods, 897 F.2d 1128 (11th Cir. 1990) ......47, 48, 49 
+Borden Ranch Partnership v. U.S. Army 
+
+Corps of Engin., 261 F.3d 810 (9th Cir. 
+
+SUITE) cxemecninnmententninmiennnnnnmenned passim 
+Chesapeake Bay Foundation v. Gwaltney of 
+
+Smithfield, 791 F.2d 304 (4th Cir. 1986)................ 47, 48 
+Chevron U.S.A., Inc. v. Natural Resources 
+
+Defense Council, 467 U.S. 837 (1984)........ 32, 43, 44, 45 
+Crandon v. United States, 494 U.S. 152 
+
+SEI vonencnamnennastensmnenemedatenenterastemaiantnimmpenseeenmmmmenesned 49 
+Circuit City Stores, Inc. v. Adams, 532 U.S. 
+
+SIE ceeesestnseregnrenannaitseientionnsimestiainsntapeintaniemuinemnenmmmaymennentanennets 37 
+Christensen v. Harris County, 529 U.S. 576 
+
+TTT ccencneeeunieniannansintnteadniatatiiesttiaiemnmenignaaaneaemmiiie 44-45 
+Downer v. U.S. By And Through Dept. of Ag- 
+
+riculture, 894 F.Supp. 1348 (D.S.D. 1995)............0000 33 
+Erlenbaugh v. United States, 409 U.S. 239 
+
+EP crseircnstaneteneternpenenenineuinniantnassmcmniieuseinimeaimenamecmenes 33-34 
+First American Bank of Virginia v. Dole, 763 
+
+Oe 49 
+Griffen v. Oceanic Contractors, Inc., 458 U.S. 
+
+Sua TEeniintnisiicnenianeaniainiaisianinniaastaiaiiiieimmentmmmmuseiias 26 
+
+
+Hawaii's Thousand Friends v. City and 
+County of Honolulu, 821 F Supp. 1368 (D. 
+SUUPEEE GU cvenittncsrestsceinntstniestmninnenitiatinimmnntneesiniema 47, 8 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+In re Alameda County Assessor's Parcel, 672 
+
+F.Supp. 1278 (N.D. Cal. 1987).............ccsccsssssssseesrseseees 27 
+In re Carsten, 211i B.R. 719 (Bkrtcy. D. Mont. 
+
+ne 33 
+National Mining Ass'n v. U.S. Army Corps of 
+
+Eng’rs., 145 F.3d 1399 
+
+J yD ee 2, 8, 14, 15, 21, 22, 23, 32, 37 
+Norfolk & Western R. Co. v. Train Dispatch- 
+
+Gb, GO GB. LTT CRGBE) cccsccccscscessesesessesssecessssessssesesenses 25 
+North Carolina Wildlife Federation v. Tul- 
+
+loch, Civ. No. C90-713-CIV-5-BO 
+
+0] 7 
+Resource Invs., Inc. v. U.S. Army Corps of 
+
+Eng’rs., 151 F.3d 1162 (9th Cir. 1998) .........ccceccsees 8, 22 
+Rybachek v. United States, 904 F.2d 1276 (9th 
+
+en 2, 15, 23 
+Solid Waste Agency of Northern Cook County 
+
+v. U.S. Army Corps of Eng’rs., 531 U.S. 
+
+2 | Se 2, 45, 46 
+Trinity Services, Inc. v. Marshall, 593 F.2d 
+
+vo) Jele | 25 
+United States v. Akers, 785 F.2d 814 (9th Cir. 
+
+SE 27 
+United States v. Amoco Oil Co., 580 F.Supp. 
+
+BOGS CWP. BD. Bp. BEBO cccccccccczssccsccscsssssssvsccssnesssssvesnssess 48 
+United States v. Bass, 404 U.S. 336 (1971) .......ccccsseeseeeeees 45 
+United States v. Deaton, 209 F.3d 331 (4th 
+
+o> 2, 15 
+United States v. Larkins, 657 F.Supp. 76 
+
+PU 27 
+United States v. Larkins, 852 F.2d 189 (6th 
+
+Se Fe hccncscnsnnssnssenesssrsemmnannmenmmennesememennts 27 
+
+
+Vili 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+_ United States v. Plaza Health Laboratories, 
+BiB, F FBG GED CBG Cae. 12GB) scecsccrcerececcecceveicccsseces 24, 29 
+United States v. Thompson/Center Arms 
+Company, 504 US. Ee 49 
+FEDERAL STATUTES AND 
+REGULATIONS 
+Clean Water Act Section 404 ...........cccccccssssesesesesseseseees passim 
+| 8 ED 34 
+Sn I iciteniiteeiicieniteterienieenemetiniiisineninions l 
+33 U.S.C. 
+Ee OnE 28, 45 
+TTT TTD INE 45 
+EIR TTI, 28 
+TLE LT TEE: 28 
+LTT: 25, 28 
+TT LT TAT ARE SAIN l 
+TT ETE, 28 
+TET LOTTIE 16 
+A a 11 
+TLL LAELIA? 49 
+einstein ciate idiaiaieeeniediaal 49 
+TELE 11, 20, 46, 48 
+TE OEE ELA LR ALA 45 
+| TSAR LLL Tae eet 38 
+TT EE TENT NEN a: 38 
+TLE ELLE LL 4 
+I RTE, 9, 32 
+TTT TI MR 22, 33, 34 
+TELNET L EDEL 23 
+ESATA TERETE: 3, 21 
+ETE LCT: 25, 38 
+EEN RT: 3, 21 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+33 C.F.R. 
+TINT ccteesesntneinccnneeenincidiantnnniaiememninembimemneniatiiaiens l 
+I TT sincera ietntcichiithiteneaidesetsiteeds adie ietiliaieaeniataasiee 7 
+SIL AIITAITcornesnemnnnsenernenemninemetiennannmmemninias 22 
+Sk eee 4, 22, 42, 43 
+tS ener 6 
+STII TCI scnnternennresnennmnennmiecnnmunmenmmmenmnendionsenl 6 
+SD TI intntreeenienneemmememeniinniannel 43 
+Section 323.4(a)(1)(i11)(D) ..........cccccecceeseeeeeeeeeeees 5, 22, 27 
+ENED cnccensenccersncumeeenemeneemenemmenen 9 
+40 C.F.R. 
+ee l 
+SIT ITT Toes erssersneinnatipmnemenmenniemepenemeineine 7 
+nee 5, 22, 27 
+ee 5 
+Fe Cee ereterntsseseeeemnnnmmenen 5 
+40 Fed. Re 
+I nencinenemeupenmenemsnensssnnsnnednemnnennerniaths ammenities 5 
+EI cxquensnnaseosensnnssntencentmesssiarenneneminumnemenntenneets 5 
+UE ctsnnsinenesnenncepmemneienmmmennemenmemNe 5 
+42 Fed. Reg 
+II cehsinetpetensnmemrenmmnsnspnmmianmnnnnssenminnnmaninenenteenes 5 
+TTT cnentensanteenntmmmenantsnenseantsennesneintenenimennennunensaitt 5, 6 
+SIT ncentunesstnnteseemeiennsnennetmmnenemensmentmnnee 5,6 
+Pe tencoemmenetsinncnntenneeminmeentniememene 5 
+ee St Gee eames 5 
+51 Fed. Reg 
+(SEI cxsereneszeseeusenmesevensnesnmmmmnnnsemanengnnnenmenemnnnnts 7 
+ie ierenensstenenennecnienesenenstenetrensineeeienememinnnenneen 7 
+58 Fed. Reg 
+SE ernsneneebanersserenesnesmeensssinemanemannemnememememianeesnint 7 
+(IIIT conavavesvenssssnensensvesserensereseenpienmnemmmentinemmnnnnennes 8 
+Siri cucssnssnssocpreenssssmnsnnstmnesnseeneemnenpenienmmnenmnesenemnsseiel 8 
+UIT corssesnssemensenesneciennesmenmnnmnnneeannets 7 
+GF Ges CR Fe ee eennencmnmannnmnnene 22 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+OTHER AUTHORITIES 
+Vol. 1, A LEGISLATIVE HISTORY OF THE 
+
+WATER POLLUTION CONTROL ACT 
+
+AMENDMENTS OF 1972 (hereafter “1972 
+
+1 8 Eh SASS ES ERE senna NaN 28 
+5 IEEE ener een ene NE NON Herre 28 
+- .. , Se REET Ever re eernen ee 28 
+2. 5 EEE SeenON Dn EE, 28 
+Oy I i 29 
+f 1) XL Eee: ener 29 
+I a 29 
+Oe i 29 
+I 29 
+1 1972 LEG. HIST. 178, 762-763, 812, 246, 
+
+I ai ialcet acacia ical enhincaditetiialeriaiiiatntin 30 
+2 1972 LEG. HIST. 1298, 1254, 1275, 1276 .............cc00000 30 
+2 1972 LEG. HIST. 1294, 1314, 1470, 
+
+ESSE IIAP eran eae TLR EN te ae OE 31 
+Vol. 3, “A LEGISLATIVE HISTORY OF 
+
+THE CLEAN WATER ACT OF 1977” 
+
+(1978) (hereafter “1977 LEG. HIST.”) at 
+
+= & 6  R & Sa IS rae ereerenne 36 
+gE NS OT 37 
+I a 38 
+3 1977 LEG. HIST. 420, 485, 524, 529, 644, 
+
+kL SRE Eien Woe meeme mene naerS 39 
+
+
+Eee Sy Es UP cccssenizisnsinesacenenisdentiiinniieemmnientin 38 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+4 1977 LAB, TERT Ob FOG cccccccccssececcseccescosecscessecssossssssseeses 36 
+4 1977 LEG. HIST. at 919-920 ............cccccocccssscsscersreesseeseess 37 
+4 1977 LEG. HIST. 1042-1043 ............csccssssssecsserseeeeeeneseees 41 
+
+
+Corps Issues Interim Rules For Discharges of 
+Dredged and Fill Materials, 5 Envtl. L. 
+Raw. BOI4S (19 7S) .nccccscsccscsscesesceseesccssnssenoscesscssssvossssossssse 5 
+
+
+Larry R. Bianucci & Rew R. Goodenow, The 
+Impact of Section 404 of the Clean Water 
+Act on Agricultural Land use, 10 U.C.L.A. 
+J. Envtl. L. & Pol’y 41 (1991) ..........cccssccrssssssseseseeeseeees 41 
+
+
+William Funk, The Court, the Clean Water 
+Act, and the Constitution: SWANCC and 
+Beyond, 31 Envtl. L. Rep. 10741 (2001) ..........s-seeseees 40 
+
+
+Margaret N. Strand, Federal Wetlands Law, 
+Part I, The Clean Water Act § 404 Pro- 
+gram, 23 Envtl. L. Rep. 10185 (1993) .........seceeeeeeeeenes 35 
+
+
+Benjamin H. Grumbles, Section 404(f) of the 
+Clean Water Act: Trench Warfare Over 
+Maintenance of Agricultural Drainage 
+Ditches, 17 Wm. Mitchell L. Rev. 1021 
+
+
+CRIED <censscssisccntenssistaniietmnnneestannsntensanmsemsommntsanmenenenumnantiete 2 
+American Heritage Dictionary Of The English 
+
+Language, New College Ed. (1975) ........:sscsesseeseeserees 33 
+Webster’s Dictionary Of The English Lan- 
+
+guage Unabridged (Encycl. ed. 1977) ........:ccsscesseeeeeeeeeees S 
+
+
+BRIEF FOR THE PETITIONERS 
+OPINIONS BELOW 
+
+
+The court of appeals’ opinion (Pet. App. 1-22) is reported 
+at 261 F.3d 810. The district court’s opinion on summary 
+judgment (Pet. App. 28-56) is unreported. Its decision after 
+the counterclaim trial (Pet. App. 67-121) is unofficially re- 
+ported at 1999 WL 1797329. 
+
+
+JURISDICTION 
+
+
+The court of appeals’ judgment was entered August 15, 
+2001. On November 28, 2001, the court of appeals denied 
+petitioners’ petition for rehearing en banc. Pet. App. 208. 
+The petition for writ of certiorari was filed on February 25, 
+2002, and granted on June 10, 2002. The jurisdiction of this 
+Court rests on 28 U.S.C. Section 1254(1). 
+
+
+STATUTORY AND REGULATORY 
+PROVISIONS INVOLVED 
+
+
+Relevant provisions of the Clean Water Act, 33 U.S.C. 
+Sections 1311 et seq., together with pertinent parts of the 
+relevant regulations, 40 C.F.R. Section 232, and 33 C.F.R. 
+Section 323, are reproduced at Pet. App. 209-218. The 
+Corps’ and EPA’s December 1996 Field Memorandum re- 
+garding deep plowing is set forth at Pet. App. 199. 
+
+
+STATEMENT 
+
+
+The fundamental issue in this case is whether a farmer 
+and rancher may deeply plow his agriculturally-zoned, semi- 
+arid ranchland to plant higher value crops without need of a 
+federal permit or, conversely, whether the U.S. Army Corps 
+of Engineers (“Corps’’) has jurisdiction to regulate such ac- 
+
+
+tivity under the Clean Water Act (“CWA” or “Act”).' The 
+Corps asserts that the traditional farming activity of plowing 
+alone of dry ground in areas of seasonal wetlands constitutes 
+the “addition” of “pollutants” (native soil) from a “point 
+source” (the plow) which is regulated under the “dredge and 
+fill” permit program it administers under CWA Section 404. 
+
+
+The Ninth Circuit majority (Gould, J., dissenting) upheld 
+the Corps’ expansive claim of jurisdiction over traditionally 
+local activities. It held that deep plowing — which does not 
+“add” or convey materials from any “point source,” and 
+merely results in native soil being turned within the same 
+general location — produces a “regulable redeposit” of the 
+plowed soil “pollutant” because it “constitutes environmental 
+damage sufficient to constitute a regulable redeposit.” Pet. 
+App. 8. The majority relied on the Ninth Circuit’s prior deci- 
+sion holding redeposits of processed materials extracted from 
+in stream placer mining operations are regulated, and a 
+Fourth Circuit decision holding “‘sidecasting” from backhoe 
+dredging to drain wetlands for residential subdivision con- 
+struction is regulated. Rybachek v. United States, 904 F.2d 
+1276, 1285 (9th Cir. 1990); United States v. Deaton, 209 
+F.3d 331, 333-336 (4th Cir. 2000). Pet. App. 6-8. Dissenting 
+Judge Gould would have followed the D.C. Circuit Court of 
+Appeals’ contrary decision in National Mining Ass'n v. U.S. 
+Army Corps of Eng’rs., 145 F.3d 1399, 1404 (D.C. Cir. 
+1998), and held “the return of soil in place after deep plowing 
+is not a ‘discharge of a pollutant.” Pet. App. 18. 
+
+
+' While this Court’s recent decision in Solid Waste Agency of 
+Northern Cook County v. U.S. Army Corps of Eng’rs. 
+(“SWANCC”), 531 U.S. 159 (2001), addressed the scope of geo- 
+graphic jurisdiction under the CWA, this case addresses the dis- 
+tinct issue of activities jurisdiction. See Benjamin H. Grumbles, 
+Section 404(f) of the Clean Water Act: Trench Warfare Over 
+Maintenance of Agricultural Drainage Ditches, 17 Wm. Mitchell 
+L. Rev. 1021, 1025 (1991) (distinguishing concepts of “activities” 
+and “geographic” jurisdiction). 
+
+
+inborn: 
+
+
+—_ 
+
+
+Despite the CWA’s express statutory exemption for any 
+“discharges” from “normal farming * * * and ranching ac- 
+tivities such as plowing,” Pet. App. 210, the Ninth Circuit 
+majority also held Section 404(f) “recaptures even normal 
+plowing” that prepares land for a new crop because 
+“{cjonverting ranch land to orchards and vineyards * * * 
+[brings] land ‘into a use to which it was not previously sub- 
+ject.”” Jd. at 10, 211. 
+
+
+The Ninth Circuit’s decision conflicts with the CWA’s 
+plain language, statutory scheme and legislative history, the 
+Corps’ authorized regulations and guidance, and principles 
+of federalism. Section 404 applies only to “discharges” of 
+“pollutants,” defined as “addition” of pollutants to navigable 
+waters from a “point source.” 33 U.S.C. §§ 1362(16), (12). 
+
+
+_ The activity of plowing alone does not “add” pollutants and 
+
+
+does not produce regulated point source “discharges.” To the 
+contrary, the relevant statutes, regulations and regulatory 
+guidance expressly exclude all forms of plowing from Sec- 
+tion 404 regulation, an exclusion clarified and confirmed by 
+Section 404(f)(1)’s “farming exemptions” and by abundant 
+legislative history evincing Congress never intended to 
+regulate plowing. No other case has invoked the facially- 
+narrow “recapture provision” to hold that any form of plow- 
+ing alone — as opposed to plowing conducted incidental to 
+and as a minor part of other activities primarily intended to 
+fill and dry out waters or wetlands — is a CWA-regulated ac- 
+tivity. 
+
+
+Congress did not intend to federalize regulation of tradi- 
+tionally local land use matters and agricultural activities 
+when it adopted the CWA. It did not envision when it en- 
+acted the CWA and its “farmer exemptions” that a farmer or 
+rancher desiring to plow his field to plant higher value crops 
+— anormal activity engaged in since colonial times, Pet. App. 
+18 — would require a federal permit for the “discharge” of 
+“pollutants” from a “point source” to do so. 
+
+
+A. The Statutory and Regulatory Scheme. 
+1. The Elements of Section 404 Jurisdiction. 
+
+
+CWA Section 404 authorizes the Corps to regulate “the 
+discharge of dredged or fill material into the navigable waters 
+at specified disposal sites.” 33 U.S.C. § 1344(a); Pet. App. 
+210. Section 301(a) provides that any such discharge requires 
+a permit. § 1311(a); Pet. App. 209. “Discharge” is defined as 
+“any addition of any pollutant to navigable waters from any 
+point source.” § 1362(16), (12); Pet. App. 212. As a prereq- 
+uisite to the existence of a regulated point source “dis- 
+charge,” the statute’s plain text requires an “addition” of a 
+“pollutant.” To “add” is “to join or unite (to) so as to in- 
+crease the number, size, quantity, etc.” Webster’s Dictionary 
+Of The English Language Unabridged (Encycl. ed. 1977), 
+p. 21. 
+
+
+The Corps’ regulations provide in pertinent part: 
+
+
+The term discharge of fill material means the addition 
+of fill material into waters of the United States. * * * 
+The term does not include plowing, cultivating, seed- 
+ing and harvesting for the production of food, fiber, 
+and forest products. 
+
+
+33 C.F.R. § 323.2(f), emph. added. The EPA’s and Corps’ 
+regulations defining “plowing” likewise expressly exclude it 
+from Section 404 regulation as a “non-discharge”: 
+
+
+Plowing means all forms of primary tillage, including 
+moldboard, chisel, or wide-blade plowing, discing, 
+harrowing, and similar physical means utilized on 
+farm, forest or ranch land for the breaking up, cut- 
+ting, turning over, or stirring of soil to prepare it for 
+the planting of crops. * * * Plowing as described 
+above will never involve a discharge of dredged or 
+fill material. 
+
+
+33 C.F.R. § 323.4(a)(1)(iii(D) (Corps regulation), emph. 
+added; Pet. App. 216; see id at 218, citing 40 C.F.R. 
+
+
+§ 232.3(d)(4) (parallel EPA regulation). 
+
+
+While the Corps’ initial regulations implementing the 
+1972 CWA did not address plowing,” interim final regula- 
+tions published in 1975 (40 Fed. Reg. 31320) and final regu- 
+lations published July 19, 1977 (42 Fed. Reg. 37122) ex- 
+pressly addressed and exempted materials produced or re- 
+sulting from “normal farming, silviculture, and ranching ac- 
+tivities, such as plowing, cultivating, seeding, and harvest- 
+ing” from the definitions of “dredged” or “fill material.” 40 
+Fed. Reg. at 31321, 31325; 42 Fed. Reg. at 37124, 37130, 
+37145. 
+
+
+The Corps’ 1975 and 1977 regulations excluding plowing 
+and other normal farming activities from the Section 404 
+program were in place prior to the 1977 CWA amendments 
+adding a statutory exemption for these activities. See 45 Fed. 
+Reg. 62732 (1980). As stated by Assistant Secretary of the 
+Army Victor Veysey in 1975 testimony to a House subcom- 
+mittee: ““We must dispel fallacies that the Corps is proposing 
+to regulate a farmer plowing his field.” See Corps Issues In- 
+terim Rules For Discharges of Dredged and Fill Materials, 5 
+Envtl. L. Rep. 10143 (1975). 
+
+
+As explained in the preamble to the Corps’ 1977 regula- 
+tions: 
+
+
+The [1975] regulations * * * identified certain types 
+of activities that were excluded from the program be- 
+cause they do not involve the discharge of dredged or 
+fill material into water. Plowing, seeding, cultivating, 
+and harvesting for the production of food, fiber, and 
+forest products were included in this list of excluded 
+activities. 
+
+
+? See 38 Fed. Reg. 12217 (1973); 39 Fed. Reg. 12115 (1974). 
+
+
+42 Fed. Reg. at 37124 (1977). As further explained by the 
+Corps: 
+
+
+We intended * * * to make it clear that activities such 
+as plowing, seeding, harvesting, cultivating and any 
+other activity by any industry that do not involve dis- 
+charges of dredged or fill material cannot be included 
+in the program. * * * We have * * * clarified our in- 
+tent by stating at the end of our definitions of “dis- 
+charge of dredged material” and “discharge of fill 
+material” that plowing, seeding, cultivating and har- 
+vesting for the production of food, fiber, and forest 
+products are not included in the Section 404 program. 
+
+
+42 Fed. Reg. at 37130 (1977); see id. at 37145 (definitions of 
+discharge of dredged and fill material at 33 C.F.R. § 323.2(1), 
+(n) excluding plowiny, etc.). 
+
+
+As confirmed in the Corps’ February 1986 Regulatory 
+Guidance Letter, No. 86-01 (“RGL 86-01”) on the subject: 
+
+
+Plowing for the purpose of producing food, fiber, 
+and forest products and meeting the definition in 
+Section 323.4 will never involve a discharge of 
+dredged or fill material. Such plowing is not subject 
+to any of the provisions of Section 404 including the 
+Section 404(f) exemption limitations. Section 404(f) is 
+applicable to those activities that do involve a dis- 
+charge but are statutorily exempted from the need to 
+obtain a 404 permit. (Emph. added.)’ 
+
+
+While plowing is not dredging,’ agencies and courts have 
+also addressed the meaning of “addition” in the context of 
+
+
+> RGL 86-01 has been lodged with the Clerk of the Court. 
+
+* Although the district court denied that dredging concepts and 
+regulations, including the reasoning of the National Mining case, 
+have any relevance to plowing activities, Pet. App. 38, fn. 7, the 
+Ninth Circuit majority relied wholly on dredging cases in affirm- 
+
+
+deciding whether incidental soil movement occurring during 
+dredging operations is regulated under Section 404. In the 
+preamble to its 1986 regulations, the Corps stated (51 Fed. 
+Reg. 41206, 41210 (1986)): 
+
+
+Section 404 clearly directs the Corps to regulate the 
+discharge of dredged material, not the dredging itself. 
+Dredging operations cannot be performed without 
+some fallback. However, if we were to define this 
+fallback as a ‘discharge of dredged material,’ we 
+would, in effect, be adding the regulation of dredging 
+to Section 404 which we do not believe was the intent 
+of Congress. We have consistently provided guidance 
+to our field offices since 1977 that incidental fallback 
+is not an activity regulated under Section 404. The 
+purpose of dredging is to remove material from the 
+water, not to discharge material into the water. 
+
+
+The EPA and Corps reversed this previously longstand- 
+ing position that “incidental fallback” is not a regulated “ad- 
+dition” by adopting regulations in 1993 redefining “discharge 
+of dredged material” at 33 C.F.R. § 323.2(d) and 40 C.F.R. 
+§ 232.2(e), as part of the settlement of North Carolina Wild- 
+life Federation v. Tulloch, Civ. No. C90-713-CIV-5-BO 
+(E.D.N.C. 1992). See 58 Fed. Reg. 45008. The so-called 
+“Tulloch Rule” purported to extend the Corps’ jurisdiction to 
+“Cajny addition, including any redeposit, of dredged material, 
+* * * into waters of the United States which is incidental to 
+any activity, including mechanized landclearing, ditchi 
+channelization, or other excavation.” 58 Fed. Reg. at 45037. 
+
+
+ing the judgment against petitioners. Pet. App. 6-7. Whether 
+“dredged” or “fill” material is involved, the “addition” requirement 
+for CWA Section 404 jurisdiction is the same. 
+
+* At the same time the EPA and Corps continued to acknowledge 
+several pertinent points. First, “EPA and the Corps agree * * * that 
+the presence of a ‘discharge’ into waters of the U.S. is an absolute 
+prerequisite to an assertion of regulatory jurisdiction under Section 
+
+
+In 1998, the D.C. Circuit struck down the Tulloch Rule, 
+holding that “incidental fallback” of native material from a 
+dredge bucket during aquatic dredging operations is not an 
+“addition” of pollutants and thus not a “discharge” regulated 
+under Section 404, because no materials are added and the 
+disturbed native materials fall back to their same general lo- 
+cation. National Mining, 145 F.3d at 1404. 
+
+
+In the case at bar, the courts below treated (1) plowing as 
+involving a “discharge” (and, hence, “addition”), (2) plowed 
+native soil as both a “pollutant” and “fill material,” and 
+(3) plows themselves as regulated “point sources.” “Pollut- 
+ants” within the Act include, inter alia, “dredged spoil, * * * 
+biological materials * * * rock, sand, cellar dirt * * * and ag- 
+ricultural waste discharged into water.” § 1362(6); Pet. App. 
+211. “Fill material” is material used for the “primary pur- 
+pose” of replacing an aquatic area with dry land or changing 
+the bottom elevation of a water body. Resource Invs., Inc. v. 
+U.S. Army Corps of Eng'’rs., 151 F.3d 1162, 1168 (9th Cir. 
+1998); National Mining, 145 F.3d at 1402, fh. 1. A “point 
+source” is “any discernible, confined and discrete convey- 
+ance, including but not limited to any pipe, ditch, channel, 
+tunnel, conduit, well, discrete fissure, container, rolling 
+stock, concentrated animal feeding operation, or vessel or 
+other floating craft, from which pollutants are or may be dis- 
+charged.” § 1362(14); Pet. App. 212, emph. added. 
+
+
+The “navigable waters” over which the Corps asserts ju- 
+risdiction on the semi-arid Borden Ranch are widely dis- 
+persed seasonal drainage swales and intermittent drainages. 
+These are shallow linear features ranging from several inches 
+to several feet wide, and up to several hundred feet long, 
+
+
+404.” 58 Fed. Reg. at 45011. Second, it is “flatly incorrect that this 
+rule would trigger Section 404 jurisdiction over a discharge based 
+upon the environmental effect of the associated activity.” Jbid. 
+Third, “We agree * * * that Section 404(f)(2) does not expand the 
+scope of activities subject to Section 404.” Jd. at 45012. 
+
+
+which carry stormwater runoff for brief periods only during 
+and after seasonal rains, and which ultimately drain to inter- 
+mittent streams, which themselves ultimately flow to tribu- 
+taries of navigable waters. Pet. App. 2; ER1011-12.° The 
+Corps defines wetlands as areas “inundated or saturated by 
+surface or ground water at a frequency and duration suffi- 
+cient to support, and that under normal circumstances do 
+support, a prevalence of vegetation typically adapted for life 
+in saturated soil conditions. Wetlands generally include 
+swamps, marshes, bogs, and similar areas.” 33 C.F.R. 
+§ 328.3(b). 
+
+
+2. The CWA’s Farming Exclusions and Exemptions. 
+
+
+Even though the Corps’ regulations already specifically 
+excluded normal farming activities from the Section 404 pro- 
+gram as not involving a “discharge,” in 1977, Congress 
+amended Section 404 to expressly codify and expand the 
+“farming exemptions” to exempt any “discharge” 
+
+
+from normal farming, silviculture, and ranching ac- 
+tivities such as plowing, seeding, cultivating, minor 
+drainage, harvesting for the production of food, fiber, 
+and forest products, or upland soil and water conser- 
+vation practices. (Emph. added.) 
+
+
+33 U.S.C. § 1344(f)(1)(A); Pet. App. 210. 
+
+
+Section 1344(f)(2)’s textually narrow “recapture” excep- 
+tion — which, as recognized by the Corps’ and EPA’s regula- 
+tions specifically defining “plowing” and the Corps’ RGL 
+86-01, does not apply to plowing because plowing involves 
+no “discharge” — requires a permit for: 
+
+
+® As cited herein, “ER” is the “Excepts of Record” from the Ninth 
+Circuit’s proceedings, “CR” is the Court Record, taken from the 
+district court’s Docketing Sheet, and “TE” is a district court Trial 
+Exhibit. 
+
+
+10 
+
+
+Any discharge of dredged or fill material into the 
+navigable waters incidental to any activity having as 
+its purpose bringing an area of the navigable waters 
+into a use to which it was not previously subject, 
+where the flow or circulation of navigable waters may 
+be impaired or the reach of such waters be reduced. 
+
+
+§ 1344(f)(2); Pet. App. 211, emph. added.’ 
+
+
+In conflict with two decades of its own regulations and 
+guidance, the Corps on December 12, 1996, for the first time 
+issued public guidance distinguishing “deep ripping” from 
+other forms of plowing. Corps/EPA Memorandum to the 
+Field., Pet. App. 4, 199-207. The 1996 Field Memorandum 
+was never adopted as a regulation through formal notice and 
+comment rulemaking procedures; it came nearly 20 years af- 
+ter the 1977 “farming exemption” amendments to the CWA, 
+and only after Tsakopoulos’ dedication of a 1418-acre pre- 
+serve and after all Borden Ranch plowing operations at issue 
+in this case had already occurred. Pet. App. 103; CR189, 
+ER1043:12-15; TE78, 80, 83, 85, 88; ER90, 97, 133, 148, 
+158, see CR204, ER909. 
+
+
+The 1996 Field Memorandum asserts that “Deep ripping 
+to establish a farming operation at a site where a ranching 
+* * * operation was in place is a change in use of such site.” 
+Pet. App. 206. On this basis, for the first time ever, the Corps 
+asserted that a form of plowing alone is subject to Section 
+404 regulation and that a mere change in crop — from forage 
+to grapes or apples — is a “change in use” coming within the 
+recapture provision. The Memorandum also appears to argue 
+that “deep ripping,” while it is concededly done to “break 
+up” soil “to prepare a site for establishing crops,” Pet. App. 
+
+
+’ The statute thus requires two separate elements for “recapture” of 
+discharges from an otherwise exempt activity: (1) a new use to 
+which the waters were not previously subject, and (2) consequent 
+and intended impairment of flow or reduction in reach of navigable 
+waters. 
+
+
+11 
+
+
+204, 202, is nonetheless “distinguishable from plowing” 
+based on where it occurs (sometimes in seasonal wetland ar- 
+eas), its depth, and its effects on site hydrology. Pet. App. 
+204-205. The Memo goes so far as to state that the hydro- 
+logical effect of deep plowing — and presumably any exempt 
+plowing — alone is sufficient to trigger the “recapture” provi- 
+sion, regardless of whether the area is brought into a use to 
+which it was not previously subject. See Pet. App. 206 (“al- 
+tering or removing the wetland hydrology of the site” alone 
+triggers recapture). 
+
+
+3. The Penalty Provision. 
+
+
+33 U.S.C. Section 1319(d), Pet. App. 209, authorizes 
+civil penalties “not to exceed $25,000 per day for each vio- 
+lation” for discharging pollutants without a permit. Similar 
+“per day of violation” language appears in the Act’s criminal 
+penalty provisions as well. 33 U.S.C. §1319(c). 
+
+
+B. Petitioners’ Plowing Activities On Borden Ranch and 
+the Corps’ Assertion of Jurisdiction. 
+
+
+The 8,400-acre Borden Ranch is agriculturally-zoned, 
+Central Valley land, located in Sacramento and San Joaquin 
+Counties, that is bisected by Dry Creek, the County Line. 
+Presently owned by Borden Ranch Partnership (“BRP”) 
+(Tsakopoulos is managing partner anc title holder) and its 
+vendees, the Ranch has historically been used for cattle 
+grazing, irrigated pasture, and growing wheat, hay, alfalfa, 
+and row crops. Since late 1993, portions have been deep 
+plowed and planted to vineyards and orchards. The Ranch 
+contains seasonal hydrological features such as swales and 
+intermittent drainages (both hereinafter “drainages”. 
+ER1011-12; Pet. App. 2-3. The Corps asserted jurisdiction 
+over these drainages as “navigable waters” and contended 
+that deep plowing rangeland in delineated “waters” dis- 
+charges dredged or fill material and requires a Section 404 
+permit. CR189, ER1013-1015; Pet. App. 3. 
+
+
+12 
+
+
+Despite the Act, their own regulations, and RGL 86-01, 
+which entirely exclude (as “non-discharges”) all forms of 
+plowing from Section 404 regulation, the Corps and EPA 
+purported to distinguish deep plowing from shallower plow- 
+ing for purposes of regulation. The Corps contended plowing 
+in seasonal wetlands to “root zone depth” is not regulated but 
+that deep plowing in the same areas is.* The Corps and EPA 
+contended that deep plowing would adversely affect “navi- 
+gable waters” by puncturing restrictive subsurface soil layers 
+believed integral to their inundation and functioning. TE30, 
+ER13-15, 20-21, TE31, Pet. App. 2-3. Relying on the Corps’ 
+contradictory oral and written advice differentiating among 
+different forms of plowing based on depth, Tsakopoulos tried 
+to plow in ways the Corps told him would not require per- 
+mits. CR204, ER921:8-16. 
+
+
+In response to Tsakopoulos’ questioning of the basis of 
+its authority to regulate his farming activities, the Corps — 
+itself in doubt — sought guidance from EPA in 1994 as to 
+whether the CWA’s “farming exemptions” applied to Tsako- 
+poulos’ deep plowing. TE21, ER7. Unsurprisingly, EPA en- 
+dorsed the Corps’ asserted jurisdiction, and the Corps in late 
+1994 again attempted to distinguish deep plowing from 
+shallow plowing at root zone depth, which it conceded was 
+authorized in areas of the Corps’ geographic jurisdiction un- 
+der the exemptions without a permit, and which one Corps 
+regulator testified was 18 to 24 inches into the soil. TE30, 
+ER13, CR204, ER910:18 — 911:2. Tsakopoulos authorized 
+further plowing under the Corps’ guidance until the winter 
+rainy season, when it is not possible to plow any areas 
+(whether “upland” or “wetland”) once the ground becomes 
+wet. CR204, ER909:3-6, CR226, ER981-983. 
+
+
+* TE30, ER13. The phrase “root zone depth” does not appear in the 
+Act or any Corps or EPA regulations, none of which purport to 
+
+
+distinguish between exempt and non-exempt forms of plowing by 
+depth. 
+
+
+13 
+
+
+In 1995, Corps and Federal Natural Resources Conserva- 
+tion Service (“NRCS”) officials met at the Ranch to discuss 
+Tsakopoulos’ plowing plans for that year. NRCS advised that 
+“deep-ripping” through drainages had no adverse hydrologi- 
+cal impact and was a good farm management practice. 
+CR204, ER915:11-20. The Corps nevertheless continued to 
+assert jurisdiction over deep plowing, but told Tsakopoulos 
+he could deep plow uplands and also cross “waters/wetlands” 
+provided that when he did so he raised the plow shank. TE31, 
+ER20, TE558, ER16; see Pet. App. 3. Tsakopoulos attempted 
+to comply. CR204, ER921:8-16. The Corps and EPA later 
+claimed noncompliance, however, and issued a November 
+1995 cease and desist order. Pet. App. 3; TE50, ER30. With- 
+out conceding wrongdoing, Tsakopoulos settled the alleged 
+1994 and 1995 plowing violations in May of 1996, by dedi- 
+cating a 1418-acre seasonal wetlands preserve in the heart of 
+Borden Ranch. Pet. App. 3-4, 165, 176; TE66, ER33, TE592, 
+ER6S5. 
+
+
+In September 1996, Corps and EPA officials provided 
+guidance for 1996 plowing on the Ranch and reconfirmed 
+that without a permit Tsakopoulos could deep plow uplands 
+and cross the narrow, dry and widely-dispersed drainages 
+with the plow shank raised. CR204, ER922-926. Tsakopou- 
+los again attempted to comply. TE617, ER96, TE615, ER88, 
+CR227, ER994-995, CR226, ER984-987. 
+
+
+Following completion of all plowing activities at issue in 
+this action (see TE78, 80, 83, 85, 88, ER90, 97, 133, 148, 
+158), the Corps issued the December 12, 1996 Field Memo- 
+randum, purporting to distinguish — for the first time ever in 
+any publicly available guidance — “deep ripping” from other 
+forms of plowing for purposes of regulation under Section 
+404. In light of the past difficulties, Borden Ranch applied in 
+late January 1997 for a CWA Section 404 permit for its re- 
+
+
+14 
+
+
+maining portions of Borden Ranch. Pet. App. 41, fn. 11, 81.” 
+After the 1996-1997 rainy season, the Ranch also resumed 
+shallow plowing (disking). Almost immediately, EPA repre- 
+sentatives unaware of the September 1996 guidance de- 
+scended on the site and saw shallow furrows through some 
+drainages (from raised deep plow shanks). CR226, 
+ER970:17-973:23; Pet. App. 4. Ignoring written and oral 
+concerns expressed by EPA’s Washington headquarters that 
+deep plowing might not produce jurisdictional discharges in 
+light of the district court’s then-recent National Mining deci- 
+sion, TE630, ER309, EPA Region 9 issued an April 1997 
+cease and desist order stopping all Borden Ranch activity in- 
+volving machinery crossing drainages, TE103, ER313; Pet. 
+App. 4, resulting in enormous economic damages to Borden 
+Ranch. 
+
+
+C. Petitioners’ Challenge To The Corps’ Jurisdiction 
+Over Plowing And The District Court’s Ruling. 
+
+
+Petitioners filed suit challenging the Corps’ and EPA’s 
+regulation of plowing activities on Borden Ranch. CRI, 
+ER328. The Government counterclaimed alleging CWA 
+violations by “filling waters of the United States.” CR7, 
+ER385; Pet. App. 4. ° The district court denied Tsakopou- 
+los’ summary judgment motion, and partially granted the 
+Government’s motion, leaving for trial the Counterclaim al- 
+leging CWA violations. Pet. App. 28-56, CR74, ER500-526; 
+Pet. App. 4-5. 
+
+
+* The Ranch had previously been issued “after-the-fact” permits by 
+the Corps authorizing the plowing previously done. Pet. App. 72, 
+74, 77-78. 
+
+'° The Government chose to stop processing Borden Ranch’s 
+pending CWA Section 404 permit application as a result of the 
+litigation, Pet. App. 41, fn. 11, and refused to further process it as a 
+possible means of resolving the dispute despite Borden Ranch’s 
+repeated requests that it do so. 
+
+
+15 
+
+
+Following a bench trial, the district court found 348 sepa- 
+rate deep plowing violations in 29 widely dispersed drainages 
+(aggregating “about 2 acres” in total area). Pet. App. 67-121. 
+Despite Tsakopoulos’ acknowledged efforts to follow the 
+Corps’ guidance, Pet. App. 143-144, the district court’s 
+finding that the violations “affected a relatively small area of 
+jurisdictional waters” (Pet. App. 105), and its finding that the 
+“acreage involved in these violations constitutes a miniscule 
+fraction of the total land converted to vineyards” (Pet. App. 
+109), the court nevertheless imposed a $1.5 million civil 
+penalty, although Tsakopoulos could, and did, elect to sub- 
+stitute a four-acre restoration project for $1 million of the 
+penalty. Pet. App. 5, 118." 
+
+
+D. The Ninth Circuit’s Divided Decision. 
+
+
+The Ninth Circuit in relevant part affirmed the district 
+court in a divided 2-1 decision. The majority reasoned that 
+this case was like Rybachek, 904 F.2d 1276, which held 
+placer mining, i.e., extracting raw materials from a stream, 
+processing them to remove gold, and later returning the 
+mining overburden to the stream at a distance from the origi- 
+nal location, constituted “addition” of a “pollutant” and 
+hence a “discharge.” It also relied on Deaton, 209 F.3d 331, 
+which held “sidecasting” materials from digging a 1240-foot 
+drainage ditch to drain wetlands for residential subdivision 
+construction produced a regulated “discharge.” Pet. App. 6- 
+8. The majority rejected petitioners’ argument that deep 
+plowing to prepare land for new crops is wholly unlike those 
+dredging activities and even less like an “addition” of pollut- 
+ants than the “incidental fallback” the D.C. Circuit in Na- 
+tional Mining held unregulated under Section 404. It distin- 
+
+
+'' Placing the matter in further perspective, under the Corps’ regu- 
+lations in effect at that time, as admitted by the Colonel in charge 
+of the Corps’ Sacramento office, up to one acre of wetlands could 
+be completely filled and destroyed without obtaining a CWA Sec- 
+tion 404 Permit. Aug. 24, 1999 Reporter’s Transcript, 127:4-8 
+(first day trial testimony of Corps’ Col. John-N: Reese). ~ 
+
+
+16 
+
+
+guished National Mining in a footnote, asserting deep plow- 
+ing “does not involve mere incidental fallback, but consti- 
+tutes environmental damage sufficient to constitute a regula- 
+ble redeposit.” Pet. App. 8, fn. 2. 
+
+
+Rejecting petitioners’ argument that plows are not “point 
+sources,” the Ninth Circuit relied on a Fifth Circuit case 
+holding “bulldozers and backhoes” can constitute “point 
+sources” where they are performing earthmoving, excavation 
+and ditching activities with engaged blades and shovels to 
+dry out water bodies. Pet. App. 8-9; see Avoyelles Sports- 
+men’s League, Inc. v. Marsh, 715 F.2d 897, 901, 920-921, 
+926-927 (Sth Cir. 1983). 
+
+
+The Ninth Circuit also rejected petitioners’ argument that 
+deep plowing is in any event exempt from regulation (and not 
+recaptured) under the CWA’s exemptions for “normal farm- 
+ing * * * and ranching activities such as plowing.” Pet. App. 
+9-10. The Court held that “even normal plowing can be 
+regulated under the [CWA] under the so-called ‘recapture’ 
+provision,” and that any farming activity that “changes a 
+wetland’s hydrological regime is non-exempt.” Jbid. 
+
+
+Finally, affirming the $1.5 million civil penalty, the Ninth 
+Circuit ignored conflicting authority in interpreting 33 U.S.C. 
+§ 1319, Pet. App. 209, to allow assessment of the maximum 
+daily penalty for each time a plow shank crossed a drainage 
+without regard to the number of days on which the activity 
+occurred. Pet. App. 13-16. 
+
+
+Dissenting, Judge Gould would have held “that the return 
+of soil in place after deep plowing” does not produce a regu- 
+lated “discharge” because it “does not involve any significant 
+removal or ‘addition’ of material to the site.” Pet. App. 18- 
+22. Judge Gould would also have held the farming exemp- 
+tions applicable to “deep plowing.” Pet. App. 21. He stated 
+the “crux of this case is that a farmer has plowed deeply to 
+improve his farm property to permit farming of fruit crops 
+
+
+17 
+
+
+* * * more profitable than grazing” and that farmers have 
+engaged in such agricultural pursuits “from the beginning of 
+our nation, and indeed in colonial times.” Pet. App. 18. In 
+Judge Gould’s view, the majority acted without clear Con- 
+gressional direction in prohibiting “a traditional form of 
+farming activity.” Pet. App. 20, 22. He complained that the 
+majority “makes new law by concluding that a plow is a 
+point source and that deep ripping includes discharge of pol- 
+lutants into protected waters,” and that “the judicial determi- 
+nation that a deep plowing technique constitutes a pollution 
+of navigable waters, with no prior adequate guidance from 
+Congress, goes beyond mere statutory interpretation.” Ac- 
+cording to Judge Gould, the majority’s holding rests on “an 
+agency power too unbounded or judicial law making, which 
+is worse.” Pet. App. 22. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+I. The CWA authorizes the Corps to regulate under its Sec- 
+tion 404 “dredge and fill” permitting program only those ac- 
+tivities which produce a “discharge” defined as an “addition” 
+of a “pollutant” (i.e., dredged spoil or fill material) from a 
+“point source.” These essential jurisdictional elements are 
+absent in the case of plowing, regardless of its depth, because 
+plowing breaks up, cuts, turns over and stirs native soil in . 
+place to prepare it for the planting of crops, and “adds” no 
+materials to the soil. Because it involves no “addition,” 
+plowing never involves a regulated “discharge,” as consis- 
+tently recognized by the Corps’ and EPA’s regulations and 
+by all relevant regulatory guidance until the December 1996 
+Field Memorandum, issued only after all plowing at issue 
+here had ceased. Recent authority from the D.C. Circuit 
+Court, which dissenting Judge Gould found persuasive, holds 
+even dredging activities which add nothing but merely pro- 
+duce “incidental fallback” of already-present native materials 
+back into the same general location do not produce “dis- 
+charges.” Plowing likewise moves soil in place, adding 
+
+
+18 
+
+
+nothing. Additionally, native soil turned in place is not a 
+“pollutant,” since it is naturally occurring in the same quanti- 
+ties and is not in any sense “waste.” 
+
+
+Nor do plows dragged through the soil reasonably fall 
+within the language of the statutory definition of “point 
+source,” because they are not “discernible, confined and dis- 
+crete conveyances” of pollutants. Soil broken up, turned over 
+and stirred by plows is moved in place, not “confined” or 
+concentrated within any “pipe, ditch, channel, tunnel, con- 
+duit, * * * [or] container,” through which it is gathered and 
+“conveyed” to another location. Plows are not “conveyances” 
+which carry and transport a farm’s or ranch’s valuable native 
+topsoil to another location, either by design or effect. No 
+prior case has ever held plowing alone to be a regulated ac- 
+tivity or a plow to be a point source. 
+
+
+The CWA’s text, structure and legislative history all con- 
+firm Congress intended to exclude agricultural sources of 
+water pollution from section 404 regulation by treating them 
+as “nonpoint” sources to be regulated through local manage- 
+ment plans developed by the States. Congress’ clear focus in 
+enacting the 1972 CWA was to eliminate additions of un- 
+treated or inadequately treated waste and toxic pollutants 
+from “end-of-pipe” sources, primarily inadequate municipal 
+sewage treatment facilities and industrial plants, to our na- 
+tion’s waters as part of the waste treatment process. 
+
+
+II. Congress emphatically reaffirmed and clarified the ex- 
+isting exclusion of plowing from regulation in the 1977 
+CWA “farming exemption” amendments in Section 
+404(f)(1)(A). Following these amendments, Corps and EPA 
+regulations continued to exclude plowing entirely from Sec- 
+tion 404 regulation as an activity which “will never involve a 
+discharge of dredged or fill material.” The Corps’ RGL 86- 
+01 stated “plowing is not subject to any of the provisions of 
+Section 404 including the Section 404(f) exemption limita- 
+
+
+19 
+
+
+tions,” thus recognizing plowing could never be “recaptured” 
+under Section 404(f)(2) based on any alleged effects on 
+“waters.” 
+
+
+The legislative history of the 1977 amendments confirms 
+Congress never intended to regulate plowing under Section 
+404 and did not consider it to involve point source dis- 
+charges. As to such activities, Congress’ intent was to reaf- 
+firm their existing exclusion from regulation through an ex- 
+press statutory exemption, so as to avoid any possible confu- 
+sion or future regulatory or judicial overreaching. 
+
+
+Even if plowing did involve a “discharge,” it is exempt 
+from regulation because the “normal farming” exemption 
+applies and the “recapture” provision does not. The plain text 
+of the recapture provision requires that significant navigable 
+waters purposely be converted to uplands so as to support an 
+otherwise exempt use to which they were not previously 
+subject in their natural state. In other words, filling a previ- 
+ously unplowable swamp, marsh or bog so that it could 
+thereafter be dry enough to be plowed and farmed would be 
+a “recaptured” activity to which any alleged “discharges 
+from plowing would be merely “incidental.” By contrast, 
+plowing semi-arid ranchland already used to grow forage, 
+which was always plowable and farmable in its natural state, 
+to plant new higher-value crops, is a primary, traditional and 
+normal farming and ranching activity. Plowing alone, like 
+tha. engaged in here by Borden Ranch, is not merely “inci- 
+dental” to some other activity whose purpose is to convert 
+waters to an upland use to which they were not previously 
+subject. The Corps’ and Ninth Circuit's interpretation of the 
+recapture provision to apply whenever plowing or other nor- 
+mal farming or ranching activity changes the hydrology of a 
+wetland would effectively swallow the exemption enacted by . 
+Congress. 
+
+
+20 
+
+
+Ill. The Ninth Circuit majority erred in calculating the 
+civil penalty by calculating each pass of the deep plow 
+through “waters,” rather than each day of plowing, as a sepa- 
+rate violation unit for which the maximum penalty of 
+“$25,000 per day of violation” could be imposed. 33 U.S.C. 
+§ 1319(d) contemplates maximum penalties will be calcu- 
+lated not in terms cf je ‘otal number of individual violations 
+of the same type cr cul _—_y, but in terms of daily violation 
+units. Since Tsakopoulos’ alleged violations here ail fell into 
+the same distinct category — “discharge” of native soil “fill” 
+from a plow without a permit — the number of daily viola- 
+tions of this category should have been totaled and multiplied 
+by $25,000 to reach the maximum penalty figure used as the 
+starting point for downward adjustment. The Ninth Circuit’s 
+contrary approach violates the rule of lenity, is arbitrary and 
+simply reads the “per day” language out of the statute based 
+on supposed “policy” goals which are inapposite to this con- 
+text, in which Mr. Tsakopoulos’ violations of the Act’s strict 
+liability scheme were neither alleged by the government nor 
+found by the district court to be intentional. 
+
+
+ARGUMENT 
+
+
+I. DEEP PLOWING DOES NOT INVOLVE A “DIS- 
+CHARGE” OR “ADDITION” OF “POLLUTANTS” 
+FROM A “POINT SOURCE” AND IS THEREFORE 
+NOT SUBJECT TO REGULATION UNDER CWA 
+SECTION 404. 
+
+
+The Ninth Circuit erred when it held that deep plowing 
+involves a “discharge” that “adds” pollutants from a “point 
+source” and thus requires a “dredge and fill” permit from the 
+Corps. Deep plowing neither “adds” materials to a wetland 
+under any reasonable interpretation of that word, nor are 
+plows in any of their varieties “point sources” which “con- 
+fine,” carry or “convey” “pollutants” from one location to 
+another in the manner of a pipe, ditch or container. Native 
+
+
+21 
+
+
+farm soil plowed to plant crops is not waste and, hence, not a 
+“pollutant.” The text, structure and legislative history of the 
+Act show Congress purposely excluded agricultural activities 
+as a class from Section 404’s regulation of “point sources” of 
+pollutants, and assigned to the States and their local agencies 
+primary responsibility for identifying, studying, planning, 
+and regulating with respect to such traditionally local land 
+use matters. 
+
+
+A. Plowing Does Not Constitute An “Addition” Of A 
+“Pollutant” Under The Plain Language of the CWA. 
+
+
+“Section 404(a) grants the Corps authority to issue per- 
+mits ‘for the discharge of dredged or fill material into the 
+navigable waters at specified disposal sites.” SWANCC, 531 
+U.S. at 163; Pet. App. 210. “Discharge” or “discharge of 
+pollutants” means “any addition of any pollutant to navigable 
+waters from any point source.” 33 U.S.C. § 1362(12), (16). 
+Pet. App. 212, 213. 
+
+
+The Ninth Circuit opinion concedes that “no new material 
+[is] ‘added’” to waters by deep plowing, yet holds that a 
+“pollutant” is nevertheless added because underlying “soil 
+was wrenched up, moved around, and redeposited some- 
+where else.” Pet. App. 8. In other words, plowing occurred. 
+
+
+Unlike regulated “point source” discharges, plowing does 
+not extract, hold, confine, collect or remove native materials 
+
+
+and then “redeposit” them. Not even “incidental fallback,” 
+held not to be a regulable discharge in National Mining, oc- 
+curs during plowing, since the plowed soil never loses con- 
+tact with the immediately-surrounding ground. Plows cut 
+through, break up and tum soil in place while adding nothing 
+and redepositing nothing.’ 
+
+
+'? As Judge Gould stated, “[bJecause deep ripping does not move 
+any material to a substantially different geographic location and 
+does not process such material for any period of time, Rybachek is 
+
+
+22 
+
+
+The Ninth Circuit’s decision also conflicts with applica- 
+ble Corps and EPA regulations. “Fill material,” as the appli- 
+cable regulations and common sense suggest, is material 
+moved in quantities to create dry land, fill a hole, build a 
+structure, or the like. 33 C.F.R. §323.2(e),(f). Any incidental 
+movement of soil during plowing simply does not fit this 
+language, as explicitly acknowledged by the Corps’ and 
+EPA’s regulations stating that plowing “will never involve a 
+discharge of dredged or fill material.” 33 C.F.R. 
+§ 323.4(a)(1)(iii(D); 40 C.F.R. § 232.3(d)(4); Pet. App. 216, 
+218. Previously, in Resource Invs., Inc. v. U.S. Army Corps 
+of Eng’rs, 151 F.3d at 1168 (9th Cir. 1998), the Ninth Circuit 
+held that a solid waste landfill leak detection and collection 
+system placed in wetlands did not constitute “fill material” 
+because its “primary purpose” was not to replace an aquatic 
+area with dry land or change the bottom elevation of a water 
+body. See also National Mining, 145 F.3d at 1401, fh. 1 
+
+
+(noting “primary purpose” requirement for defining “fill 
+
+
+material”).'? Under a “primary purpose” test, deep plowing 
+does not produce “fill material” where its purpose is to en- 
+
+
+hance and revitalize soil for planting new crops, as here. 
+
+
+The reasoning of National Mining is persuasive on the “ad- 
+dition” requirement. The D.C. Circuit there invalidated the 
+
+
+not controlling.” Pet. App. 20. Judge Gould recognized National 
+Mining could not be distinguished and was persuasive on the “ad- 
+dition” issue because plowing produces, at most, “incidental fall- 
+back” of native soil which cannot be held to be a “discharge.” 
+
+'? Subsequent to the Ninth Circuit’s decision, the Corps revised its 
+7 om defining “fill material” to eliminate the “primary pur- 
+
+requirement. See 67 Fed. Reg. 31129 (May 9, 2002), 
+
+cuenta 33 C.F.R. § 323.2(e). The new regulations are obviously 
+inapplicable to this case. They are also inconsistent with the ex- 
+press “purpose” requirement of the CWA’s “recapture provision.” 
+See 33 U.S.C. § 1344(f)(2) (recapture applies where purpose of 
+activity is converting wetland to use to which it was not previously 
+subject). In any event, even under the new rule, plowing would not 
+be regulated because it does not “discharge” a pollutant and does 
+not “replace” navigable waters. 
+
+
+23 
+
+
+Corps’ and EPA’s so-called “Julloch Rule,” purporting to 
+regulate any redeposit from any excavation activities, and 
+held: (1) “the straightforward statutory term ‘addition’ can- 
+not reasonably be said to encompass the situation in which 
+material is removed from the waters of the United States and 
+a small portion of it happens to fall back,” National Mining, 
+145 F.3d at 1404; and (2) such “incidental fallback” (which 
+occurs when material is dredged from a water, and some of it 
+falls back off the dredge bucket into the same general loca- 
+tion) is not a regulated “discharge.” Jd. at 1403. National 
+Mining distinguished Rybachek, 904 F.2d 1276 — which it 
+found was “the strongest authority for the agencies’ posi- 
+tion,” National Mining, 145 F.3d at 1406 — as involving a 
+regulable discharge which was the “discrete act of dumping 
+leftover material into the stream after it had been processed” 
+rather than the “incidental fallback of dirt and gravel” to its 
+original location. Jd., at 1406. The statute’s use of the word 
+“addition,” as well as the phrase “specified disposal sites,” 
+shows “that Congress had in mind either a temporal or geo- 
+graphic separation between excavation and disposal which 
+simply does not fit incidental fallback.” Jd., at 1410, Silber- 
+man, J., concurring. 
+
+
+Not only does deep plowing “add” nothing, but the soil it 
+moves in place is not a “pollutant” under the plain language 
+of 33 U.S.C. § 1362(6), Pet. App. 211. Productive soil is ob- 
+viously not “dredged spoil, incinerator residue, sewage, gar- 
+bage, sewage sludge, munitions, chemical wastes, radioactive 
+materials, heat, wrecked or discarded equipment, rock, sand, 
+cellar dirt,” or “industrial or municipal waste.” It is not 
+“biological materials” within any normal or reasonable con- 
+struction of that phrase, since it is not the “waste material of 
+a human or industrial process.” See Association to Protect 
+Hammersley, Eld, and Totten Inlets v. Taylor Resources, 
+Inc., _ F.3d __, 2002 WL 1792498, *6 (9th Cir. 2002) (opn. 
+by Gould, J.) (applying doctrine of ejusdem generis and 
+analyzing purpose of CWA in holding that the term “pollut- 
+
+
+24 
+
+
+ant” does not encompass naturally occurring biological mat- 
+ter such as shellfish chemicals, shells and feces emitted from 
+mussel harvesting raft). Native soil turned in place by plow- 
+ing is not “solid waste” or “agricultural waste,” either, be- 
+cause native topsoil is not waste at all, but, rather, a valuable 
+natural resource which is enhanced and revitalized for use in 
+growing crops, not discarded, by plowing. 
+
+
+In short, under the statute’s plain text requiring an “addi- 
+tion” of a “pollutant,” deep plowing is not a “discharge” 
+subject to Section 404’s permit requirements. There can be 
+no “addition” of “pollutants” from an activity where there is 
+no “addition” of material. Plowing does not add new materi- 
+als or “pollutants,” but merely cuts, breaks up and turns over 
+existing soil in place to prepare it for the planting of crops. 
+
+
+B. Plows Are Not CWA-Regulated “Point Sources.” 
+
+
+Another essential element of Section 404 permitting ju- 
+risdiction is that the “pollutant” must be “added” from a 
+“point source,” defined as “any discernible, confined and dis- 
+crete conveyance.” Pet. App. 212. This statutory definition 
+“evoke[s] images of physical structures and instrumentalities 
+that systematically act as a means of conveying pollutants 
+from an industrial source to navigable waterways.” United 
+States v. Plaza Health Laboratories, Inc., 3 F.3d 643, 646 
+(2d Cir. 1993). A plow is not a “point source” since it is nei- 
+ther “confined” nor a “container,” nor does it function as a 
+“conduit” or “conveyance” of pollutants/materials from one 
+location to another. No prior case has ever held a plow is a 
+“point source,” and there are no agency regulations support- 
+ing the treatment of plows as point sources. 
+
+
+The plain language of the statute defining “point source” 
+provides numerous illustrative examples, but plows are nei- 
+ther described nor listed in the statute, nor are they similar in 
+
+
+25 
+
+
+any significant respects to the numerous examples listed.’ 
+Plows lack the defining characteristics of any “discernible, 
+confined and discrete conveyance” such as a “pipe, ditch, 
+channel, tunnel, conduit, well, discrete fissure, container, 
+rolling stock, concentrated animal feeding operation, or ves- 
+sel or other floating craft, from which pollutants are or may 
+be discharged.” 33 U.S.C. § 1362(14). The common charac- 
+teristic present in all of these types of statutorily-listed “point 
+sources” — and lacking in plows — is their ability to confine, 
+contain and concentrate, and then to carry and convey — as a 
+conduit — pollutants from one discrete location to another. 
+Plows are not ejusdem generis’’ with the enumerated exam- 
+ples of a “confined and discrete conveyance.” Plows break 
+up, cut, stir and turn soil in place — they do not confine, con- 
+
+
+'* Given Congress’ concern for and intimate familiarity with agri- 
+cultural activities, and its careful treatment of the same in the 
+CWA, it is inconceivable that Congress would not have expressly 
+included “plows” among the illustrative examples of “point 
+sources” listed in 33 U.S.C. § 1362(14), either in 1972, 1977 or 
+thereafter, had it actually intended to regulate them as such. Regu- 
+lation of non-point source pollution is left primarily to the States. 
+E.g., 33 U.S.C. § 1288(b)(2)(F); see S. Rep. No. 95-370, at 76 
+(1977), reprinted in 1977 U.S.C.C.A.N. 4326, 4401 (normal farm- 
+ing activities to be regulated as non-point sources by State and lo- 
+cal agencies). 
+
+' “Of the same kind, class, or nature.” Black’s Law Dictionary 
+(1979 ed.), p. 464. “Under the principle of ejusdem generis, when 
+a general term follows a specific one, the general term should be 
+understood as a reference to subjects akin to the one with specific 
+enumeration.” Norfolk & Western R. Co. v. Train Dispatchers, 
+499 U.S. 117, 129 (1991). “It is a well-settled principle of statutory 
+construction that where specific words precede or follow general 
+words in an enumeration describing a particular subject, the gen- 
+eral words are construed to embrace only objects similar in nature 
+to those objects enumerated by the specific words.” Trinity Serv- 
+ices, Inc. v. Marshall, 593 F.2d 1250, 1258 (D.C. Cir. 1978), and 
+authorities cited; see also Association to Protect Hammersley, etc., 
+2002 WL at *6 (9th Cir. 2002) (applying ejusdem generis doctrine 
+to CWA’s statutory definition of “pollutant”). 
+
+
+26 
+
+
+tain, carry and convey it, in the fashion of a shovel, bucket, 
+backhoe, grading blade, or other “confined conveyance.” 
+
+
+Moreover — and setting aside for the moment the express 
+statutory exemption for plowing in Section 404(f)(1)(A) — 
+would make little sense to hold Congress intended to include 
+plows, sub silentio, in the definition of “point source” while 
+expressly exempting “agricultural stormwater discharges and 
+return flows from irrigated agriculture.” § 1362(14). To 
+regulate supposed individual “discharges” from instances of 
+plowing as “point source” discharges, while broadly ex- 
+empting all discharges constituting the “runoff” from all 
+plowed fields would be the height of irrationality. Where 
+construction of a statute would not only contravene its plain 
+language and defy common sense, but would lead to absurd 
+and irrational results, the Court should reject it. Griffen v. 
+Oceanic Contractors, Inc., 458 U.S. 564, 575 (1982) (“{I)n- 
+terpretations of a statute which would produce absurd results 
+are to be avoided if alternative interpretations consistent with 
+the legislative purpose are available.”) 
+
+
+The Ninth Circuit’s reliance on a Fifth Circuit case find- 
+ing “bulldozers and backhoes” may constitute “point 
+sources” is misplaced. In Avoyelles, bulldozers and backhoes 
+were not used for plowing but for major earthmoving, exca- 
+vation and ditching functions. 715 F.2d at 901, 920-921, 926- 
+927.'© The bulldozers and tractors (not backhoes) pulling 
+deep plows on the semi-arid Borden Ranch were indisputably 
+not engaged in grading, excavation or ditching, but were 
+simply using their motive power, as horses and oxen did in 
+earlier times, to drag normal farming implements — deep 
+
+
+'° In Avoyelles, the owner of a 20,000-acre tract leveled the prop- 
+erty, cut down timber and vegetation with bulldozers with shearing 
+blades, pushed, burned, raked and disked all these materials into 
+the land’s low spots to raise and level it, and further dug a drainage 
+ditch, for the express purpose of filling and drying out a swampy 
+Louisiana flood plain so that, thus altered from its natural state, it 
+could thereafter be plowed and farmed for soybeans. 
+
+
+27 
+
+
+plow shanks — through the soil to break it up, and turn it in 
+place, i.e, to plow to prepare for crops. 33 C.F.R. 
+§ 323. 4(a)(1)(iii)(D); 40 CFR. § 232. 3(d)(4). Neither 
+Avoyelles nor any other reported decision,'’ until Borden 
+Ranch, has held that plowing alone produces a “point source” 
+discharge.'* 
+
+
+C. The Text, Structure, And Legislative History Of 
+The CWA Confirm That Congress Intentionally Ex- 
+cluded Agriculture From Section 404 Regulation. 
+
+
+Section 101(b) of the CWA states: 
+
+
+“the policy of the Congress to recognize, preserve, 
+and protect the primary responsibilities and rights of 
+
+
+'” United States v. Akers, 785 F.2d 814, 816-817 (9th Cir. 1986) 
+involved “extensive [dike building], grading, leveling, drainage 
+and water diversion to convert [2,889 acres of] wetlands to farm- 
+land suitable for growing upland crops.” The Ninth Circuit there 
+refused to endorse the government’s extreme argument that 
+“discing of soil” considered in isolation was a “point source” dis- 
+charge. Jd. at 819-820 (holding farmer exemptions inapplicable 
+because court “cannot view Akers’ plowing, discing and seeding in 
+isolation” from the other activities). See also Jn re Alameda 
+County Assessor's Parcel, 672 F.Supp. 1278, 1281 (N.D. Cal. 
+1987) (“graders and a bulldozer” used “to spread earthen fill * * * 
+brought onto the property and dumped from large earth-moving 
+trailer trucks”); United States v. Larkins, 657 F.Supp. 76, 85 (W.D. 
+Ky. 1987) (“use of earthmoving equipment to construct earthen 
+dikes and levees on wetlands”); United States v. Larkins, 852 F.2d 
+189, 190 (6th Cir. 1988) (defendants “dug drainage ditches, cut 
+timber, blasted beaver dams, and began filling low spots” on 10-12 
+acres covered with knee deep water). 
+
+'® The issue is critical to the nation’s farmers and not limited to 
+deep plowing, as the agencies are now going beyond even their 
+own unauthorized December 1996 Field Memorandum and at- 
+tempting to regulate even the shallowest forms of plowing — in- 
+cluding disking — under the authority of the Borden Ranch deci- 
+sion. See, e.g., Pet. App. 41, 48 (district court summary judgment 
+order finds both deep ripping and disking are regulated). 
+
+
+28 
+
+
+States to prevent, reduce, and eliminate pollution, 
+[and] to plan the development and use (including 
+restoration, preservation, and enhancement) of land 
+and water resources. * * *” 
+
+
+33 U.S.C. § 1251(b); see Vol. 1, A LEGISLATIVE HISTORY OF 
+THE WATER POLLUTION CONTROL ACT AMENDMENTS OF 
+1972 (hereafter “1972 LEG. HisT.”) at 3, 765. 
+
+
+In addition to its provisions regulating “point source” 
+discharges through “command and control”-type permitting 
+requirements, the CWA directs the States to identify areas 
+with substantial water quality control problems and to de- 
+velop corresponding area-wide waste treatment management 
+plans. 33 U.S.C. § 1288(a),(b); 1 1972 LEG. HIST. 26-27. 
+Such plans must, inter alia, include “a process to (i) identify, 
+if appropriate, agriculturally and silviculturally related non- 
+point sources of pollution, including return flows from irn- 
+gated agriculture, and their cumulative effects, runoff from 
+manure disposal areas, and from land used for livestock and 
+crop production, and (ii) set forth procedures and methods 
+(including land use requirements) to control to the extent fea- 
+sible such sources.” 33 U.S.C. § 1288(b)(2)(F); see 1 1972 
+LEG. HIST. 28.'? The Administrator’s role under Sec- 
+tion 304(e) was limited, in relevant part, to issuing “informa- 
+tion including (1) guidelines for identifying and evaluating 
+the nature and extent of nonpoint sources of pollutants, and 
+(2) processes, procedures, and methods to control pollution 
+resulting from — (A) agricultural and silvicultural activities, 
+including runoff from fields and crop and forest lands.” 33 
+U.S.C. § 1314(f)(A); 1 1972 LEG. HIST. 38. 
+
+
+As summarized by one commentator, the CWA leaves 
+regulation of “nonpoint source pollution” primarily to the 
+
+
+'? The phrase “return flows from irrigated agriculture, and their 
+cumulative effects,” was added as part of the 1977 CWA amend- 
+ments. Pub. L. 95-217, § 33(a). 
+
+
+29 
+
+
+States, and “most pollution produced by agricultural activi- 
+ties comes from nonpoint sources.” Gerald A. Gould, Agri- 
+culture, Nonpoint Source Pollution, and Federal Law, 23 
+U.C. Davis |. Rev. 461, 462 (1990). Congress recognized the 
+problem of agricultural pollution, but “chose to address 
+[such] nonpoint source pollution primarily through the Sec- 
+tion 208 planning process.” Jbid. See also 1 1972 LEG. 
+HIST. 354 (Rep. Blatnik remarks re “agriculture and non- 
+point sources of discharge”); 430 (Rep. Cleveland remarks 
+that CWA does not prohibit agricultural runoff pollution); 
+645 (colloquy between Reps. Henderson and Wright that 
+“point source” definition covers “only those concentrated 
+animal feeding operations which would collect and concen- 
+trate waste for discharge through a definite point source out- 
+
+
+let”). 
+
+
+The 1972 CWA focused on municipal and industrial 
+“point source” discharges and excluded agriculture from this 
+category. See United States v. Plaza Health Laboratories, 
+Inc., 3 F.3d at 646-647, and numerous statutes and authorities 
+cited therein. The “singlemost” and “most widespread and 
+acute” problem addressed by the CWA was “inadequate mu- 
+nicipal sewage treatment.” 1 1972 LEG. HIST. 97 (Rep. 
+Jones). Foremost was the goal of eliminating “discharges” of 
+pollutants to navigable waters by 1985, and providing needed 
+municipal waste treatment facilities such that “streams and 
+rivers are no longer to be considered part of the waste treat- 
+ment process.” 1 1972 LEG. HIST. 120-121 (Sen. Muskie); 
+see id. at 132 (“Congress has said that it wants to see the end 
+of community and industrial discharges by 1985”) (Sen. 
+Williams). 
+
+
+To achieve its goals of eliminating discharges of waste 
+and toxic pollution from community and industrial point 
+sources, while leaving nonpoint source agricultural activities 
+for further study and state regulation, Congress employed the 
+specific terms discussed and analyzed above — “discharge,” 
+
+
+30 
+
+
+“addition” and “point source” — which have specific mean- 
+ings. As remarked by primary CWA sponsor Senator 
+Muskie: “The term ‘discharge’ is a word of art in the legis- 
+lation. It refers to the actual discharge from a point source 
+into the navigable waters, territorial seas or the oceans.” 1 
+1972 LEG. HIST. 178; see also id. at 762-763 (Rep. Blatnik 
+House Committee on Public Works Report emphasizing im- 
+portance of CWA’s definitional terms such as “discharge of a 
+pollutant” and “point source” which “have very specific and 
+technical meanings”); id. at 812. “Point sources” were envi- 
+sioned by Congress as affecting “a given stretch of water” 
+(id. at 246) (Rep. Harsha remarks on House Consideration of 
+Conference Committee Report), and being subject to “efflu- 
+ent limitations” made on the “basis of classes and categories 
+of point sources, as distinguished from a plant-by-plant de- 
+termination.” Jd. at 254 (Rep. Dingell, quoting Conference 
+Report at p. 121); id. at 789-791, 798 (referring to application 
+of “best practicable control technology” to industrial “end of 
+the pipe” point sources). 
+
+
+As stated by Senator Dole: “Most sources of agricultural 
+pollutants are generally considered to be nonpoint sources.” 
+2 1972 LEG. HIST. 1298. Numerous Legisiaiors, including 
+Senator Muskie, unanimously stated their views that the 
+CWA does not regulate agricultural activities as “point 
+source” discharges subject to the Act’s permitting require- 
+ments. /d. at 1254 (“The bill also requires the Administrator 
+to conduct research into better methods of controlling pollut- 
+ants from nonpoint sources such as agricultural runoff”) 
+(Sen. Muskie); 1275 (“I think we all recognize that the char- 
+acteristics of agricultural pollution and the best means of 
+controlling it are quite different from those associated with 
+urban/industrial pollution. Several portions of this bill apply 
+specifically to the control of pollutants from nonpoint agri- 
+cultural sources,” citing research and planning provisions of 
+CWA §§ 104(d)(1)(b), 105, 105(d) and 304(e)) (Sen. Eagle- 
+ton); 1276 (reference to “nonpoint sources, including agri- 
+
+
+31 
+
+
+cultural activities”) (Sen. Eagleton); 1294 (agricultural pol- 
+lution problems involve “nonpoint sources”; “nonpoint 
+source of pollution is one that does not confine its polluting 
+discharge to one fairly specific location, such as a sewer pipe, 
+a drainage ditch, or a conduit”) (Sen. Dole); 1314 (in dis- 
+cussing limited scope of CWA, Sen. Muskie comments that 
+effective technology is lacking to deal with nonpoint source 
+problems such as agricultural runoff, control of which would 
+involve land use controls); 1470 (Report of Senate Comm. 
+On Pub. Works No. 92-414, accompanying S. 2770 discuss- 
+ing agriculture generally as nonpoint source); 1513-1514 
+(supplemental views of Sen. Dole to same effect). 
+
+
+While the plain meanings of the terms “discharge,” “ad- 
+dition” and “point source” as set forth and defined in the text 
+of the CWA compel the conclusion that plowing does not 
+produce a “point source” discharge regulated under Section 
+404, that conclusion is also inescapable from a review of 
+those terms in the context of the structure and legislative 
+history of the 1972 CWA discussed above. This conclusion is 
+further buttressed by the later 1977 CWA amendments and 
+their legislative history. 
+
+
+Il. THE CWA’S “FARMING EXEMPTIONS” REAF- 
+FIRMED THE EXISTING EXCLUSION OF 
+“NORMAL FARMING * * * AND RANCHING AC- 
+TIVITIES SUCH AS PLOWING” FROM SECTION 
+404 REGULATION. 
+
+
+It is unnecessary to reach the issue of interpretation of the 
+CWA’s farming exemptions to decide this case in petitioners’ 
+favor if the Court concludes that deep plowing produces no 
+regulated point source “discharge” of “pollutants” so as to 
+fall under the Corps’ Section 404 permitting jurisdiction. 
+However, the plain language of Section 404(f), the agencies’ 
+own regulations and guidance, and the relevant legislative 
+history all powerfully reaffirm the conclusion that Congress 
+
+
+32 
+
+
+never intended to regulate plowing as a point source dis- 
+charge under Section 404. 
+
+
+A. The Plain Language of Section 404(f)(1)(A) 
+Broadly Exempts The Plowing Of Farmland or Ranch- 
+land to Plant Crops From Section 404 Regulation. 
+
+
+Congress’ 1977 amendments were intended to prevent 
+regulatory overreaching and make clear that no permit is re- 
+quired for any alleged “discharge” 
+
+
+from normal farming, silviculture, and ranching ac- 
+tivities such as plowing, seeding, cultivating, minor 
+drainage, harvesting for the production of food, fiber, 
+and forest products, or upland soil and water conser- 
+vation practices. 
+
+
+33 U.S.C. § 1344(f)(1)(A); Pet. App. 210. By use of the 
+phrase “such as” in the statute, Congress has defined “plow- 
+ing” as a “normal farming * * * and ranching activity.” *° 
+This broad exemption clearly shows “that Congress emphati- 
+cally did not want the law to impede these bucolic pursuits.” 
+National Mining, 145 F.3d at 1405. 
+
+
+Congress provided a facially narrow “recapture” provi- 
+sion removing from the exemption: 
+
+
+Any discharge of dredged or fill material into the 
+navigable waters incidental to any activity having as 
+its purpose bringing an area of the navigable waters 
+into a use to which it was not previously subject, 
+where the flow or circulation of navigable waters may 
+be impaired or the reach of such waters be reduced. 
+
+
+*° Where, as here, Congress has already directly spoken to the 
+topic by specifically defining statutory terms, such as “normal,” 
+conflicting regulatory definitions of the same term are not ac- 
+corded Chevron deference. Chevron U.S.A., Inc. v. Natural Re- 
+sources Defense Council, 467 U.S. 837, 842-843 (1984). 
+
+
+33 
+
+
+33 U.S.C. § 1344(f)(2); Pet. App. 211, emph. added. On its 
+face, this exception is not concerned with activities — like 
+like plowing productive farm or ranch land — that do not pro- 
+duce discharges. Nor does it address 1 change from one agri- 
+cultural crop to another, like the change here from pasture 
+and forage crop to orchard ‘vineyard crop. Rather, it addresses 
+intentional conversion of ‘unproductive wetlands to drylands 
+on a significant scale so as to enable normal farming activi- 
+ties which could not otherwise occur. In re Carsten, 211 B.R. 
+719, 735 (Bkrtcy. D. Mont. 1997) (recapture provision ad- 
+dresses extensive conversion of unproductive wetlands to 
+drylands on significant scale, not minor conversions of small 
+areas of marginal waters to uplands). 
+
+
+Thus, where activities are done for the primary purpose 
+of draining and drying out significant water bodies to convert 
+them to uplands capable of being farmed — i.e., the Avoyelles 
+situation — the exemption cannot be claimed on the grounds 
+that otherwise unregulated farming activities, such as plow- 
+ing, are later performed “incidental to,” i.e., as a “minor con- 
+comitant,” American Heritage Dictionary Of The English 
+Language, New College Ed. (1975), p. 665, of the primary 
+conversion project. This interpretation is compelled by the 
+plain language of the “farming exemptions,” Congress’ intent 
+to meaningfully exempt normal farming activities from oner- 
+ous federal regulation under the CWA’s “point source” pro- 
+gram, and related statutes.”! 
+
+
+*! Congress subsequently enacted so-cailed “Swampbuster” provi- 
+sions in the 1985 Food Security Act (“FSA”). 16 U.S.C. §§ 3821- 
+23; Pub. L. 99-198, 99 Stat. 1507. Under the FSA “there will be 
+liability for conversion of a wetland if it is manipulated ‘for the 
+purpose or to have the effect of making the land farmable.” 
+Downer v. U.S. By And Through Dept. of Agriculture, 894 F Supp. 
+1348, 1356 (D.S.D. 1995), emph. added, aff'd 97 F.3d 999 (8th 
+Cir.); see 16 U.S.C. § 3821(c) (listing “draining, dredging, filling, 
+leveling” — but not “plowing” — as wetland conversion activities). 
+Statutes in pari materia are construed together. Erlenbaugh v. 
+
+
+34 
+
+
+The Ninth Circuit held petitioners’ deep plowing ranch 
+land used to grow forage to plant vineyards and orchards in- 
+stead was not exempt and was “recaptured” because 
+“{cjonverting ranch land to orchards and vineyards is clearly 
+bringing the land ‘into a use to which it was not previously 
+subject.”” Pet. App. 10. But the statute does not refer to any 
+“new use.” The recapture provision’s first prong is satisfied 
+where a discharge is “incidental” to an activity “having as its 
+purpose bringing an area of the navigable waters into a use 
+to which it was not previously subject,” 33 U.S.C. 
+§ 1344(f)(2). Whether an area of “waters” is “subject” to 
+plowing and upland farming use prior to purposeful conver- 
+sion activities obviously depends on how wet it is and for 
+how long per growing season. Because of its natural charac- 
+ter, land may be readily “subject” to agricultural use without 
+ever having been actually subjected to such use. For exam- 
+ple, land containing soils classed as prime farmland, which 
+becomes paved over with a shopping mall, may well have 
+previously been “subject” to farming use, even though such 
+use never occurred, i.e., the land was not previously “sub- 
+jected” to such use. Likewise, one may be “subject” to the 
+laws of the land, or to the criticism of others, while never 
+having actually been “subjected” to either prosecution under 
+the laws or criticized by peers. By “previously subject” to, 
+Congress clearly meant previously capable of or amenable to 
+a use in its natural condition. 
+
+
+United States, 409 U.S. 239, 243 (1972); 2B Norman J. Singer, 
+Sutherland Statutory Construction § 51.02 (6th ed. 2000). “Wet- 
+lands” subject to being farmed by use of “normal cropping or 
+ranching practices” (i.e., plowing) as a result of their “natural con- 
+dition” (e.g., drought or, as here, regular dryness in a semi-arid 
+region throughout the long growing season) are not deemed con- 
+verted (i.e., brought into a use to which they were not already 
+subject) when so farmed. 16 U.S.C. § 3822(b). Accordingly, 
+merely plowing (without more) triggers neither FSA farm subsidy 
+ineligibility under “Swampbuster” nor CWA Section 404’s recap- 
+ture provision. 
+
+
+35 
+
+
+In addition, and contrary to the statutory language, the 
+court treated as an independent reason for recapture that 
+plowing activity altered the hydrology of a wetland. Pet. 
+App. 10. On that reasoning, amy change in agricultural crop 
+or practice — even plowing crop land to lie fallow — would 
+bring any kind of plowing within federal regulation. CWA 
+Section 404’s exemption for plowing, Pet. App. 218, would 
+be rendered virtually meaningless as a practical matter. As 
+observed by one commentor: 
+
+
+The § 404(f)(2) recapture provision must be given a 
+reasonable reading or it would swallow the exemp- 
+tions. Any of the exempted activities impair the wa- 
+ters to a degree, but the government does not require 
+a permit for those exempt activities that result in mi- 
+nor impacts to the nation’s waters, including wet- 
+lands. 
+
+
+Margaret N. Strand, Federal Wetlands Law, Part I, The 
+Clean Water Act § 404 Program, 23 Envtl. L. Rep. 10185, 
+10209 (1993). 
+
+
+The Corps and the Ninth Circuit effectively treat Section 
+404(f)(1) as a mere “grandfather” clause and assume Con- 
+gress meant to regulate under Section 404 all farming activi- 
+ties except those already being conducted in the very same 
+manner currently or in the recent past. Under this erroneous 
+view, the exemptions would not apply at all to plowing his- 
+torically ranched land for the first time either to improve the 
+forage (because plowing changes hydrology) or to plant non- 
+forage crops (because that is a change in use). This makes no 
+sense because the statute’s plain language tells us that by 
+definition the plowing of ranchland to plant crops is, in the 
+eyes of Congress, a normal farming and ranching activity 
+which is exempt from Section 404 regulation. See 
+§ 1344(f)(1)(A) (referring to “normal farming * * * and 
+ranching activities such as plowing * * * for the production 
+
+
+36 
+
+
+of food, fiber”). To hold that the very activity addressed and - 
+
+
+defined by the statute itself as a normal agricultural activity — 
+plowing ranchland to plant crops — is never “normal” nor ex- 
+empt flies in the face of the exemption’s plain meaning. 
+
+
+B. The Legislative History Confirms Congress In- 
+tended To Clarify The Existing Exclusion of Plowing Un- 
+der Section 404. 
+
+
+The CWA’s legislative history refutes the Ninth Circuit’s 
+crabbed interpretation of the “farming exemptions,” showing 
+that Congress did not newly exempt plowing from statutory 
+regulation mid-course, but that it never intended to regulate 
+mere plowing at all under the CWA. Senator Muskie, a pri- 
+mary CWA sponsor, Avoyelles, 715 F.2d at 915, explained 
+that the 1977 amendments “tr[y] to free from the threat of 
+regulation those kinds of man made activities which are suf- 
+ficiently de minimis as to merit general attention at the state 
+and local level and little or no attention at the national level.” 
+Vol. 3, “A LEGISLATIVE HISTORY OF THE CLEAN 
+WATER ACT OF 1977” (1978) (hereafter “1977 LEG. 
+HIST.”) at 645 (CR36, ER489) (Senate Report on S. 1952, 
+95th Cong.), emph added; see also id. (Vol. 4) at 924 (ER 
+492) (Sen. Domenici); 181 (ER482) (President’s comments); 
+289, 351, 524 (ER481, 483, 487) (Sen. Stafford). Where, as 
+here, plowing is a permitted farming activity under locally- 
+enacted agricultural zoning and other State and local regula- 
+tions, Congress intended the federal government to have no 
+permitting role under the CWA. 
+
+
+Senator Muskie recognized the 1972 CWA’s basic ob- 
+jective was “to eliminate toxic pollutants in toxic amounts” 
+from the nation’s waters, id., 426, ER484, and stated of the 
+“farming exemptions”: 
+
+
+The conferees agree to adopt the Senate amendment 
+that legislatively clarifies the exclusion of certain 
+activities that do not typically involve point source 
+
+
+37 
+
+
+discharges of dredged or fill material * * * The 
+conferees have adopted the Senate's explicit ap- 
+proach for clarifying that plowing, seeding, culti- 
+vating, harvesting, minor drainage, and soil and 
+water conservation practices performed on uplands 
+were not intended to require section 404 permits. 
+Such exemptions were provided by the Corps of En- 
+gineers’ regulations under the current law. [J] * * * 
+While it is understood that some of these activities 
+may necessarily result in incidental filling and minor 
+harm to aquatic resources, the exemptions do not ap- 
+ply to discharges that convert extensive areas of wa- 
+ter into dry land or impede circulation or reduce the 
+reach or size of the water body. 
+
+
+ER485, emph. added; 3 1977 LEG. HIST. 475; see also 4 
+1977 LEG. HIST. at pp. 919-920 (ER490-491) (Chafee 
+comments); see ER495, 494, 494. The legislative history 
+clearly shows Congress never intended to regulate pure 
+plowing under the CWA and never even considered it to pro- 
+duce “discharges.” 
+
+
+The Corps asserts, Opp. Br. at 13, that Congress would 
+not have expressly exempted plowing and other normal 
+farming activities in the 1977 CWA amendments unless it 
+believed such activities produced point source “discharges” 
+which were otherwise within the scope of Section 404.” 
+Yet, as amply illustrated by the National Mining court’s 
+pointed rejection of this position, 145 F.3d at 1405, and by 
+Senator Muskie’s above-quoted comments, Congress not un- 
+commonly takes a “belt and suspenders” approach to clari- 
+
+
+* This argument plays “ostrich to the substantial history behind 
+the amendment,” ignoring that “it is not ‘pointless’ to adopt a clari- 
+fying amendment in order to eliminate opposition to a bill,” or 
+indeed, in any circumstances where legislators believe clarification 
+is necessary because of the risk of regulatory misinterpretation. 
+Circuit City Stores, Inc. v. Adams, 532 U.S. 105, 128 (dis. opn. of 
+STEVENS, J.). 
+
+
+38 
+
+
+fying exclusions to reassure particular constituencies and 
+prevent regulatory overreaching.” 
+
+
+Moreover, the Legislative history suggests that whatever 
+Congress’ view with respect to whether other expressly ex- 
+empted activities — such as dam, levee and bridge mainte- 
+nance (§ 1344(f)(1)(B)), stock pond and irrigation ditch con- 
+struction or maintenance (§ 1344(f)(1)(c)) — actually pro- 
+duced “discharges,” it never believed that the normal farming 
+activities listed in Section 404(f)(1)(A) did so. Rather, in en- 
+dorsing the substance of Senator Muskie’s above-quoted 
+comments, other Legislators confirmed that the normal 
+farming amendment legislatively clarified an existing exclu- 
+sion from the Act. As echoed by Rep. Hammerschmidt: 
+
+
+On the positive side, we will now have for the first 
+time statutory recognition that normal farming, 
+ranching and silviculture activities do not belong in 
+this [Section 404] permit program. These exemptions 
+reemphasize that Congress never intended these ac- 
+tivities to be considered discharges of dredged or fill 
+material. 
+
+
+33 1977 LEG. HIST. 351, emph. added. See also, id. at 348 
+(Corps’ pre-existing regulations also made clear “that plow- 
+ing, seeding, cultivating, and harvesting for the production of 
+food, fiber, and forest products are not included in the Sec- 
+
+
+* For example, as noted by Representative Roberts: “Section 33 
+of the conference report exempts return flows from irrigated agri- 
+
+
+culture from all permit requirements under section 402 and recog-_ 
+
+
+nizes that this activity is not a point source within the meaning of 
+the [CWA].” 3 1977 LEG. HIST. 318, emph. added. Since, as 
+with Section 404, Section 402 requirements apply only to point 
+source discharges, under the government’s argument it would be 
+redundant to both define “point source” to exclude irrigation return 
+flows and also provide an express Section 402 permit exemption. 
+Yet that is the approach Congress took. See 33 U.S.C. §§ 1342(a), 
+(1)(1), 1362(14). 
+
+
+39 
+
+
+tion 404 program”) (Rep. Roberts); 420 (amendments clari- 
+fied that plowing and other normal farming activities did not 
+involve point source discharges and “were not intended to 
+require Section 404 permits”) (Rep. Harsha); 485 (conferees 
+agreed to adopt exemptions “to prevent over-regulation of 
+activities that have little or no effect on the aquatic environ- 
+ment. The bill includes the clarification that permits are not 
+required for certain normal farming activities such as plow- 
+ing and seeding which are not discharges of dredged or fill 
+material”) (Sen. Stafford); 524 (“Senate amendment to Sec- 
+tion 404 * * * clarifies the exclusion of activities that do not 
+involve point source discharges, such as plowing and upland 
+conservation activities”) (Sen. Baker); 529 (exemption “leg- 
+islatively clarifies the exclusion of certain activities that do 
+not involve point source discharge” and that “normal farm- 
+ing, ranching and silvicultural activities such as plowing 
+* * * were not intended to require 404 permits”) (Sen. Wal- 
+lop); 644, 869 (normal farming and similar activities “should 
+not and cannot be regulated by the Federal Government”) 
+(Sen. Muskie); 911 ( “plowing” is among the exempt “earth 
+moving activities that do not involve discharges of dredged 
+or fill materials into navigable waters”) (Sen. Stafford); 924 
+(Congress “never intended under Section 404 that the Corps 
+of Engineers be involved in the daily lives of our farmers, 
+realtors, people involved in forestry, anyone that is moving a 
+little bit of earth anywhere in this country that might have an 
+impact on navigable streams. We just did not intend that”) 
+(Sen. Domenici). 
+
+
+This understanding of Congress’ intent underlying the 
+Section 404(f)(1)(A) “farming exemptions” — as clarifying 
+certain activities’ non-regulated status — is explicitly con- 
+firmed in colorful language by one scholar otherwise critical 
+of this Court’s analysis of CWA geographic jurisdiction: 
+
+
+In addition to stock and farm ponds, irrigation ditches, 
+and temporary sedimentation ponds * * * § 404(f) also 
+
+
+exempts a number of activities that apparently have 
+nothing to do with water at all. Why would Congress 
+exempt them from § 404’s requirement for a permit to 
+discharge into navigable waters, however defined? 
+The legislative history indicates that Congress may 
+have wished to exclude certain activities from § 404 in 
+specific terms to reassure particular constituencies 
+even when it was otherwise clear that § 404 would not 
+reach those activities. For example, the House bill to 
+amend § 404 * * * exempted normal farming, sil- 
+viculture, and ranching activities * * *, activities that 
+clearly would not have been subject to the jurisdiction 
+of the section in any case. * * * In other words, in the 
+House at least, one stake through the heart of the vam- 
+pire was not considered enough. 
+
+
+William Funk, The Court, the Clean Water Act, and the Con- 
+stitution: SWANCC and Beyond, 31 Envtl. L. Rep. 10741, 
+10755 (2001), fns. omitted. 
+
+
+Nor does the legislative history, fairly read, support the 
+extremely narrow reading of the farming exemptions and 
+broad reading of the recapture clause espoused by the Corps. 
+In responding to Senator Dole’s concerns on behalf of his 
+agricultural constituents regarding whether minor drainage 
+and filling activities by farmers on low-lying areas to im- 
+prove crop production would require a Section 404 permit, 
+Senator Muskie answered in the negative, stating: 
+
+
+Mr. President, the drainage exemption is very clearly 
+intended to put to rest, once and for all, the fears that 
+permits are required for draining poorly drained farm 
+or forest land, of which millions of acres exist. No 
+permits are required for such drainage. Permits are 
+required only where ditches or channels are 
+dredged in a swamp, marsh, bog, or other truly 
+aquatic area. * * * The Corps[’] definition requires a 
+
+
+41 
+
+
+prevalence of aquatic vegetation and is intended to 
+describe only the true swamps and marshes that are 
+part of the aquatic ecosystem [{] The type of drain- 
+age you have described in many cases would not 
+require a permit since the drainage could be per- 
+formed without discharging dredged or fill mate- 
+rial in water, or would occur in areas that are not 
+true marshes or swamps intended to be protected 
+by Section 404. 
+
+
+4 1977 LEG. HIST. 1042-1043 (Sen. Muskie), emph. added. 
+
+
+It has not escaped some scholars’ attention that this leg- 
+islative history has either been ignored or misconstrued by 
+those courts which have in dicta “narrowed” the exemption: 
+
+
+The remarks quoted by the Court appear to enlarge 
+the exemption rather than narrow it. Senator 
+Muskie specifically stated several times that Section 
+404 jurisdiction was intended to apply only to true 
+swamps and marshes. His comments, which were 
+intended to placate Senator Dole, imply that nor- 
+mal farming operations were not intended to be 
+curtailed in the extensive fashion that has evolved 
+from the application of the CWA. 
+
+
+Larry R. Bianucci & Rew R. Goodenow, The Impact of Sec- 
+tion 404 of the Clean Water Act on Agricultural Land Use, 
+10 U.C.L.A. J. Envtl. L. & Pol’y 41, 58-59 (1991), emph. 
+added. 
+
+
+Requiring a farmer to undergo the far-reaching CWA 
+Section 404 permitting process in order to plow his or her 
+land for a new crop would entail significant burdens. Permits 
+require a “public interest review” as set forth in 33 C.F.R. 
+§ 320.4(a), which involves a “careful weighing” by the Corps 
+of general environmental concerns, wildlife values, land use, 
+
+
+42 
+
+
+water quality, food and fiber production, considerations of 
+property ownership, and a host of others. The farmer or 
+rancher regulated under Section 404 would be required to 
+engage in a lengthy and costly permitting process, hiring of 
+experts and filing of detailed documents, so that the Corps 
+can conduct what is essentially general land use regulation 
+and management. Virginia Albrecht and Bernard Goode, 
+Wetland Regulation in the Real World (1994), document 
+lengthy delays in processing Section 404 applications, ob- 
+serving that only 30% of permit applications are ultimately 
+approved. Most applications (63% in Albrecht & Goode’s 
+study) are withdrawn, usually because the Corps makes de- 
+mands that the applicant cannot or does not want to comply 
+with. Congress plainly inicnded that farmers and ranchers 
+engaged in normal farming activities not be subjected to such 
+burdens simply in order to make normal productive use of 
+their land. 
+
+
+C. The Agencies’ Regulations Treat Plowing As A 
+“Non-Discharge” Exciuded Entirely From Section 404’s 
+Provisions, Including The “Recapture Provision.” 
+
+
+The implementing agency regulations defining “plowing” 
+expressly exclude all plowing from CWA regulation. 33 
+C.F.R. Section 323.2(f), for example, provides “fill” is addi- 
+tion of material and never includes plowing. The Corps’ 
+regulations provide: 
+
+
+Plowing means all forms of primary tillage, in- 
+cluding moldboard, chisel, or wide-blade plowing, 
+discing, harrowing, and similar physical means used 
+on farm, forest or ranch land for the breaking up, 
+cutting, turning over, or stirring of soil to prepare it 
+for the planting of crops. * * * Plowing as described 
+above will never involve a discharge of dredged or 
+fill material. 
+
+
+43 
+
+
+Pet. App. 216, emph. added; see Pet. App. 218 (parallel EPA 
+regulation).”* 
+
+
+The regulations clarifying that plowing does not involve 
+a discharge, and is therefore excluded from Section 404 
+regulation, have been in effect continuously both prior to and 
+after the 1977 “farming exemption” amendments. See pp. 4- 
+6, supra. RGL No. 86-01, issued February 11, 1986 by the 
+Corps, and entitled “Exemptions to CWA — Plowing,” states 
+
+
+in pertinent part: 
+
+
+Plowing for the purpose of producing food, fiber, 
+and forest products and meeting the definition in 
+Section 323.4 will never involve a discharge of 
+
+
+4 The regulations also state that “plowing” “does not include the 
+redistribution of soil, rock, sand, or other surficial materials in a 
+manner which changes any area of the waters of the United States 
+0 dry land. For example, the redistribution of surface materials by 
+blading, grading, or other means to fill in wetlands is not plowing.” 
+Ibid. On its face, this language appears designed merely to distin- 
+guish grading, blading and other non-exempt purposeful wetlands 
+conversion activities from true plowing to prepare land for crops, 
+and to clarify that the definition of plowing does not encompass 
+such disparate earth-moving activities. To the extent the Govern- 
+ment misreads the language of its regulation to suggest that any 
+form of plowing used on farm or ranch land to break up, cut, turn 
+over and stir the soil to prepare it for crops could a/so constitute 
+the non-exempt “redistribution of surface materials * * * by other 
+means to fill in wetlands,” the suggestion renders the regulatory 
+definition hopelessly contradictory and unintelligible. Such a posi- 
+tion would mean that even plowing as defined in 33 C.F.R. § 
+323.2(a)(1)(iii)(D) will involve a discharge, depending on its ef- 
+fects on wetlands — a notion which directly conflicts with the 
+regulation’s concluding statement that “Plowing as described 
+above will mever involve a discharge.” The “redistribution” lan- 
+guage is not entitled to Chevron deference for at least two other 
+reasons: (1) plowing produces no “addition” from a “point source,” 
+and is by statute a non-regulated activity for that reason; and 
+(2) Congress has already spoken to the topic in the statute and leg- 
+islative history exempting plowing. 
+
+
+dredged or fill material. Such plowing is not subject 
+to any of the provisions of Section 404 including the 
+Section 404(f) exemption limitations. Section 404(f) 
+is applicable to those activities that do involve a dis- 
+charge but are statutorily exempted from the need to 
+obtain a 404 permit. 
+
+
+The Corps’ longstanding view as expressed in its regula- 
+tions and RGL 86-01 was absolutely correct. Pure plowing, 
+as properly defined to include any form of primary tillage 
+done to prepare soil for the planting of crops, was excluded 
+from Section 404 regulation from the very beginning. The 
+express exemption in the 1977 statutory amendments served 
+merely to emphatically reaffirm that existing exclusion in 
+order to prevent any possible regulatory overreaching. 
+
+
+The December 12, 1996 Field Memorandum — issued 
+some 10 years after RGL 86-01, almost 20 years after Con- 
+gress’ 1977 CWA amendments, and more than 20 years after 
+the Corps’ first regulations exempting plowing — is not only 
+in direct conflict with the statute, and the Corps’ own regula- 
+tions and prior guidance on plowing, but as already noted, 
+was issued only after completion of all plowing for which the 
+district court found violations in this case.”° 
+
+
+*® The belated and unsupported 1996 memo, by which the Corps 
+and EPA purported to abruptly reverse their previous position on 
+plowing with no relevant statutory or regulatory change, was 
+merely an attempted ex post facto justification for the agencies’ 
+unjustified treatment of Tsakopoulos and Borden Ranch for the 
+previous three years. The Memo was issued without legal justifi- 
+cation, without adequate empirical study or support, and without 
+notice and comment rule making procedures — like a desperate act 
+seeking to justify the actions of a rogue policeman who has already 
+arrested someone for the supposed violation of a non-existent law. 
+“[I)nterpretations contained in policy statements, agency manuals, 
+and enforcement guidelines * * * do not warrant Chevron-style 
+deference,” but are entitled to any respect commanded by their 
+“power to persuade.” Christensen v. Harris County, 529 U.S. 576, 
+
+
+45 
+
+
+D. Expanding Section 404 To Cover Deep Plowing 
+For Crop Production Is Contrary To Congress’ Explicit 
+Purpose to Preserve And Protect The Primary Responsi- 
+bilities Of States Over Land Use. 
+
+
+As this Court recently recognized in SWANCC, 531 U.S. 
+at 174, Congress in the CWA explicitly intended that States 
+were to retain traditional and primary power to regulate land 
+and water use. 33 U.S.C. § 1251(b). As recognized by the 
+CWA, farmers’ and ranchers’ agricultural land uses, includ- 
+ing activities like plowing, are traditional matters of state and 
+local, not federal, control. 33 U.S.C. §§ 1288, 1329; Pet. 
+App. 210, 212. Regulating the depth of agricultural plowing 
+intimately involves the regulation of land use — a matter 
+within traditional state and local power. The general policy of 
+the CWA is to study agriculture, but as a “nonpoint” source 
+whose regulation is left to the States. As Judge Gould aptly 
+observed, there is nothing approaching a clear statement or 
+indication in the CWA or its legislative history that Congress 
+intended to regulate plowing — in fact, quite the opposite is 
+true: the unambiguous plain language of the CWA, its leg- 
+islative history, and authorized agency implementing regula- 
+tions and guidance all clearly state plowing is entirely out- 
+side of Section 404’s provisions. Where administrative 
+statutory interpretation alters the federal-state framework by 
+permitting federal encroachment on traditional state powers, 
+courts do not apply the deferential standard of Chevron, 467 
+U.S. 837 (1984). SWANCC, 531 U.S. at 173. Rather, in such 
+cases, Congress must “convey its purpose clearly” or courts 
+will deem it not to “have significantly changed the federal 
+state balance.” Jd., quoting United States v. Bass, 404 U.S. 
+336, 349 (1971). 
+
+
+587 (2000). No such respect is due here, where the agencies’ 
+about-face conflicts with the plain statutory language and legisla- 
+tive history and impinges on traditional state powers. 
+
+
+The Ninth Circuit’s expansive and activist definition of 
+the terms “discharge,” “addition,” “point source” and “pol- 
+lutant,” and unwarranted narrow interpretation of the farming 
+exemptions, so as to include the pure plowing done in this 
+case within the Corps’ CWA Section 404 jurisdiction, sub- 
+stantially expands federal power to an unprecedented extent 
+at the expense of State and local authority. SWANCC forbids 
+this absent Congress’ clearly-expressed intent. As Judge 
+Gould stated: “If Congress intends to prohibit so natural a 
+farm activity as plowing, and even the deep plowing that oc- 
+curred here, Congress can and should be explicit. Although 
+we interpret the prohibition of the [CWA] to effectuate Con- 
+gressional intent, it is an undue stretch for us absent a more 
+clear directive from Congress, to reach and prohibit the 
+plowing done here, which seems to be a traditional form of 
+farming activity.” Pet. App. 19-20. 
+
+
+Ill. THE CWA DOES NOT AUTHORIZE IMPOSING 
+MULTIPLE MAXIMUM DAILY CIVIL PENAL- 
+TIES FOR VIOLATIONS OF THE SAME CATE- 
+GORY BY THE SAME POINT SOURCE ON THE 
+SAME DAY. 
+
+
+Even if plowing is a regulable activity under CWA Sec- 
+tion 404, the Ninth Circuit nevertheless erred when it held 
+the maximum CWA penalty was properly calculated by mul- 
+tiplying the number of passes the district court found were 
+made by the plow through each jurisdictional feature by the 
+statutory dollar amount, rather than multiplying the number 
+of days during which plowing “discharges” occurred in par- 
+ticular “waters” by the statutory dollar amount. Pet. App., 12- 
+16. 
+
+
+33 U.S.C. Section 1319(d), Pet. App. 209, authorizes 
+civil penalties “not to exceed $25,000 per day for each vio- 
+lation” against persons violating Section 1311(a) by dis- 
+charging pollutants without a permit. This statute contem- 
+
+
+47 
+
+
+plates maximum penalties will be calculated not in terms of 
+the total number of individual violations of the same type, 
+but, rather, in terms of daily violation units. The “top-down” 
+method of penalty assessment (employed here) involves cal- 
+culating the maximum statutory penalty by first finding how 
+many distinct categories of CWA violations occurred, and 
+then finding the number of days during which each category 
+occurred and multiplying the number of days by $25,000. 
+Chesapeake Bay Foundation v. Gwaltney of Smithfield, 791 
+F.2d 304, 314 (4th Cir. 1986), vacated and remanded on 
+other grounds, 484 U.S. 49 (§ 1319(d) speaks “in terms of 
+penalties per day of violation, rather than per violation.”); 
+Atlantic States Legal Foundation v. Tyson Foods, 897 F.2d 
+1128, 1139 (11th Cir. 1990) (“each distinct violation is sub- 
+ject to a separate daily penalty assessment of up to 
+$25,000”); Hawaii's Thousand Friends v. City and County of 
+Honolulu, 821 F.Supp. 1368, 1395 (D. Haw. 1993) (discuss- 
+ing top-down method of calculating number of categories and 
+“daily violations” to arrive at maximum penalty). 
+
+
+The Gwaltney court rejected defendant’s interpretation 
+there as untenable because it impermissibly calculated the 
+statutory maximum penalty “per violation,” rather than “per 
+day of violation.” Gwaltney, 791 F.2d at 314. The Ninth Cir- 
+cuit and district courts here, too, read the words “per day” 
+entirely out of the statute and impermissibly divided daily 
+“soil discharges” within a single category of violation into 
+hundreds of separate violations. Pet. App. 12-16. Under 
+Gwaltney, Tsakopoulos’ maximum penalty should have been 
+limited to, at most, the number of days during which the 
+same type of “point source discharges” of soil actually oc- 
+curred in waters. Counting as separate violation units the 
+number of times a single point source (i.e., a plow shank) 
+crossed a single jurisdictional feature during a single day 
+impermissibly converts a single daily violation unit of the 
+same activity into numerous sub-daily violation units and 
+illegally establishes the maximum penalty “per violation, 
+
+
+rather than per day of violation” — a result “inconsistent with 
+the language of § 1319(d).” Gwaltney, 791 F.2d at 314.” 
+
+
+Where the “violation unit” is measured by less than a sin- 
+gle day’s period of time — for example, an “hourly maximum 
+violation” occurring multiple times during the same day — the 
+CWA limits the maximum penalty to one day for all such 
+violations if they are of the same type. United States v. 
+Amoco Oil Co., 580 F.Supp. 1042, 1046, n. 1 (W. D. Mo. 
+1984), cited with approval by Tyson Foods, 897 F.2d at 
+1138, 1138-1139 (holding Congress amended § 1319(d)’s 
+language to its current “per day for each violation” to clarify 
+the statute in accordance with Amoco’s interpretation). 
+
+
+Tsakopoulos’ alleged violations all fell within the single 
+distinct category of alleged discharge of a single “pollutant” 
+— “fill” from native soil turned in place — from a “point 
+source” without a permit. Pet. App. 15. In performing its “top 
+down” analysis, the court should therefore have added the 
+number of daily violations of this category and multiplied 
+that total by $25,000. Hawaii's Thousand Friends, 821 
+F.Supp. at 1395. The Ninth Circuit admitted the fact that all 
+violations were of the same type made its penalty holding 
+problematic, Pet. App. 14-15, because the cases it relied on 
+imposed multiple penalties for “separate” violations on the 
+same day only where the violations are in different and dis- 
+tinct categories. Pet. App. 28. Nevertheless, despite extensive 
+evidence introduced by the Government in the form of daily 
+time records of the deep plow operators, the lower courts 
+
+
+*° The government incorrectly contends Gwaltney is irrelevant be- 
+cause it discusses a prior version of CWA § 309(d). Opp. Br. 20. 
+In fact, Atlantic States Legal Foundation, Inc. v. Tyson Foods, 897 
+F.2d 1128 (11th Cir. 1990), held Congress’ 1987 Amendment to 
+CWA § 309(d) (33 U.S.C. § 1319(d)), to which respondents refer, 
+was “intended to clarify that each distinct violation is subject to a 
+separate daily penalty assessment of up to $25,000”. Jd. at 1139, 
+add’] emph. added, quoting H.R. Rep. No. 99-1004, 99th Cong., 
+2d Sess. 132. 
+
+
+49 
+
+
+failed to engage in any analysis of the number of days on 
+which such plowing occurred and never even estimated the 
+number of daily violation units. CR189, ER1042-1043. 
+
+
+The Ninth Circuit majority admitted its approach was not 
+“free from difficulty,” but read the “per day” language out of 
+the statute anyway because of supposed “incentive prob- 
+lems.” Pet. App. 15. The rule of lenity compels a narrower, 
+more limited construction in accordance with past prece- 
+dents, however, since “[c]ivil penalties may be considered 
+‘quasi-criminal’ in nature,” First American Bank of Virginia 
+v. Dole, 763 F.2d 644, 651, fn. 6 (4th Cir. 1985), and sub- 
+stantially similar language -- “per day of violation” -- gov- 
+erns criminal penalties for negligent and intentional viola- 
+tions under 33 U.S.C. § 1319(c)(1), (2), as well.” Crandon 
+v. United States, 494 U.S. 152, 158 (1990) (rule of lenity is 
+“time-honored interpretive guideline” applied to resolve any 
+ambiguity in ambit of criminal statute’s coverage); United 
+States v. Thompson/Center Arms Company, 504 U.S. 505, 
+525 (1992) (“The main function of the rule of lenity is to 
+protect citizens from the unfair application of ambiguous pu- 
+nitive statutes”) (dis. opn. of Stevens, J.) The Ninth Cir- 
+cuit’s approach to interpretation not only violates the rule of 
+lenity, but it is arbitrary, since there is no logical stopping 
+
+
+2” It would seem anomalous to hold those prosecuted criminally for 
+numerous repeated violations of a single category on a single day 
+are subject to a /esser fine than those prosecuted civilly for the 
+same number of violations, on the basis that the civil statute allows 
+“stacking” while the criminal provision does not. The 7yson court 
+held the language “per day of such violation” meant the same thing 
+as the slightly differently worded “per day for each violation,” Ty- 
+son Foods, 897 F.2d at 1139, and the former phrase is essentially 
+equivalent to the criminal penalty “per day of violation” language. 
+Moreover, lenity is compelled by due process given the complete 
+failure of the CWA and agency regulations, or even any authorita- 
+tive interpretation thereof, to provide fair or adequate (or any) no- 
+tice to petitioners that their plowing conduct was regulated under 
+CWA Section 404 in the first place. E.g., Gates & Fox Co., Inc. v. 
+OSHRC, 790 F.2d 154, 155-157 (D.C. Cir. 1986) (Scalia, J.). 
+
+
+50 
+
+
+point for calculating daily penalty assessments. If each plow 
+has multiple shanks, why not assess a separate daily penalty 
+for each individual furrow created on each pass? And if each 
+furrow pass is a separate daily violation, why not each yard, 
+each foot, or each inch thereof? Nor is this arbitrary inter- 
+pretation of § 1319(d) fairly supported by otherwise “‘irra- 
+tional results” or the “policy goal of discouraging pollution.” 
+Pet. App. 15. 
+
+
+The Ninth Circuit’s rationales for imposing multiple 
+maximum daily penalties for repeated violation of the same 
+category on the same day necessarily presuppose a knowing 
+and intentional violator, and fail to account for the fact that 
+such violators are already subject to substantial additional 
+criminal penalties under the CWA, including first-time fines 
+up to $50,000 per day and three years imprisonment, see 
+§ 1319(c)(2) — clearly significant deterrents to intentional 
+misconduct.”* Since the criminal penalty provisions already 
+prescribed by Congress in § 1319(c) fully allay any supposed 
+“incentive” concerns, such concerns cannot support the Ninth 
+Circuit’s erroneous and arbitrary interpretation of § 1319(d)’s 
+civil penalty provision. 
+
+
+CONCLUSION 
+
+
+The judgment of the Court of Appeals should be re- 
+versed. 
+
+
+Respectfully submitted, 
+
+
+?® Tsakopoulos’ violations were neither alleged by the government 
+nor found by the district court to be intentional. Pet. App. 143-144. 
+
+
+TIMOTHY S. BISHOP 
+MAYER, BROWN, ROWE 
+& MAW 
+
+
+KYRIAKOS 
+TSAKOPOULOS 
+
+
+ARTHUR F. COON 
+Counsel of Record 
+
+
+MILLER, STARR 
+& REGALIA 
+
+
+EDMUND L. REGALIA 
+MILLER, STARR 
+
+& REGALIA 
+
+Counsel for Petitioners 
+
+
+August 2002 
+
+

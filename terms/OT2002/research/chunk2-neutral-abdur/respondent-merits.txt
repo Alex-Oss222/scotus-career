@@ -1,0 +1,2609 @@
+) rai 
+. 
+
+
+Afi ot ong oper? oo 
+» re 1 . 
+
+
+. 
+
+
+FO Sr 
+
+
+~ 
+
+
+oe e). 
+a Pa 
+
+
+Pa oe OES 2s 
+* Pkt oP i af 
+. 4 . 
+
+
+ae 2. 
+. ah lke Seles 
+
+' : e: pee 
+
+7 3, 
+
+’ 
+
+* 
+{ 
+/ 
+f r Oeees. Gi, 
+' i Ma 
+5 nig Pe 
+- F . 
+
+4 La 
+
+
+hs -——~ 
+
+
+(BEST AVAI 
+
+
+BLE COP 
+
+
+CAPITAL CASE 
+QUESTIONS PRESENTED 
+
+
+I. 
+
+
+Whether the Sixth Circuit erred in holding that 
+petitioner’s Rule 60(b) motion was a prohibited “second or 
+successive” habeas petition. 
+
+
+IT. 
+
+
+Whether the Sixth Circuit abused its discretion in 
+refusing to withhold its mandate (or remand to the district 
+court) after the denial of certiorari by this Court to enable 
+petitioner to challenge the district court’s procedural 
+default rulings that he did not appeal in the first instance. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+Page 
+STATEMENT OF THE CASE...............cssscccsssseeseeeees 1 
+SUMMARY OF THE ARGUMENT ...................00eseee 4 
+PS th) |) i 9 
+
+
+I. THE COURT OF APPEALS PROPERLY 
+HELD THAT PETITIONER’S RULE 60(B) 
+MOTION CONSTITUTED A “SECOND OR 
+SUCCESSIVE” PETITION BARRED UN- 
+DER 28 U.S.C. § 2244(D)...........ccccceeeeeeeeeeeenees 
+
+
+A. The District Court’s Prior Judgment, Rul- 
+ing That Petitioner’s Claims Were Pro- 
+cedurally Defaulted, “Counted” As a 
+First Petition and Rendered The Reas- 
+sertion of These Same Claims “Second or 
+Successive” Under § 2244(b)..................5 
+
+
+1- Prior Decisions of This Court And Es- 
+tablished Habeas Practice In the Vast 
+Majority of the Circuit Courts, Both 
+Before and After Enactment of 
+AEDPA, Support The Conclusion 
+That a Procedural Default Judgment 
+Is An Adjudication On the Merits And 
+“Counts” As a First Petition ............... 
+
+
+2. Interpreting “Second or Successive” 
+Applications to Include Subsequent 
+Applications Filed After a Prior Pro- 
+cedural Default Judgment Is Consis- 
+tent With The Purpose of AEDPA’s 
+Amendments to § 2244(b)................... 
+
+
+11 
+
+
+13 
+
+
+ili 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+
+
+3. Policy Concerns Underlying Federal 
+Habeas Corpus Review and the Final- 
+ity of Judgments Support the Inter- 
+pretation That A “Second or 
+Successive” Habeas Application In- 
+cludes a Subsequent Petition Filed 
+After a Prior Procedural Default 
+latin rrerenecnasennesscccscncooes 
+
+
+. Petitioner’s Rule 60(b)(6) Motion Is Prop- 
+
+
+erly Construed As the Functional 
+Equivalent of a Second or Successive 
+
+
+Habeas Corpus “Application” Under 28 
+EE 
+
+
+1. The Provisions of Fed.R.Ci*.P. 60(b) 
+Are Not Wholly Applicable In Habeas 
+tintin etcercinnnetessssscnqnsceee 
+
+
+2. Subjecting Rule 60(b) Motions That 
+Raise New Claims, New Evidence or 
+New Law To the Restrictions Against 
+Second or Successive Habeas Peti- 
+tions Is Consistent With Prior Deci- 
+sions of This Court and the Vast 
+Majority of the Circuit Courts............ 
+
+
+3. Petitioner’s Rule 60(b) Motion Raises 
+New Law to Reassert Previously Pre- 
+
+
+Il. THE COURT OF APPEALS DID NOT 
+ABUSE ITS DISCRETION IN REFUSING 
+TO WITHHOLD THE MANDATE, MODIFY 
+ITS JUDGMENT, OR REMAND THE CASE 
+TO THE DISTRICT COURT......................068: 
+
+
+23 
+
+
+26 
+
+
+27 
+
+
+32 
+
+
+36 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+Page 
+
+
+A. Petitioner’s Motion In the Court of Ap- 
+peals Was the Equivalent of a Request to 
+Recall the Mandate, Which Constituted a 
+“Second or Successive” Application Un- 
+der 28 U.S.C. § 2244(b)............cccccceeeeeeeees 40 
+
+
+B. The Court of Appeals’ Denial of the Mo- 
+tion Was Not Otherwise An Abuse of 
+
+
+TTT Te 45 
+I ii siniis iin neninetieniernnnininnanieaains 50 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+Page 
+CASES 
+
+Abdur’ Rahman v. Bell, 122 S. Ct. 386 (2001).................... 2 
+Adamson v. Lewis, 955 F.2d 614 (9th Cir. 1992)............... 41 
+Agostini v. Felton, 521 U.S. 203 (1997)............ccccccccceeeeeeees 30 
+Alphin v. Henson, 552 F.2d 1033 (4th Cir. 1977)............... 48 
+Bates v. Whitley, 19 F.3d 1066 (5th Cir. 1994)................... 17 
+Benton v. Washington, 106 F.3d 162 (7th Cir. 1996) ......... 18 
+Blair v. Armontrout, 976 F.2d 1130 (8th Cir. 1992)........... 35 
+Bolder v. Armontrout, 983 F.2d 98 (8th Cir. 1992)............ 36 
+Bonin v. Vasquez, 999 F.2d 425 (9th Cir. 1993)................. 35 
+
+Browder v. Dir., Dep't Corrections of Ill., 434 U.S. 
+
+foe 27, 28, 29, 31, 32 
+Bryant v. Ford Motor Co., 886 F.2d 1526 (9th Cir. 
+
+Pipi hincannscsntncitemacennmnemmimneenanseninneedinsannieiianimnamenianedite 41, 47 
+Burris v. Parke, 130 F.3d 782 (7th Cir. 1997) ....34, 35, 39, 42 
+Cain, In re, 137 F.3d 234 (5th Cir. 1998) .0...........ccccceeeeee 20 
+Calderon v. Thompson, 523 U.S. 538 (1998)............. passim 
+Carter v. United States, 150 F.3d 202 (2d Cir. 1998)......... 18 
+Caspari v. Bohlen, 510 U.S. 383 (1994) .............cccccccccceeeees 24 
+Castro v. United States, 290 F.3d 1270 (11th Cir. 
+
+SEIpU cfcxncarnatussnmemmnnentatasintonnmenieningateaniuscmsnsnmmeenseeecnenend 20 
+Caton v. Clarke, 70 F.3d 64 (8th Cir. 1995) ................. 17, 18 
+
+
+Clark v. Lewis, 1 F.3d 814 (9th Cir. 1993) .............ccceeceeeee 35 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Coleman v. Thompson, 501 U.S. 722 (1991)................ 15, 31 
+Coltec Indus., Inc. v. Hobgood, 280 F.3d 262 (3d Cir. 
+a 31 
+Cook, In re, 215 F.3d 606 (6th Cir. 2000).................0+. 15, 18 
+Dugger v. Johnson, 485 U.S. 945 (1988).............:ccccccceeeeees 37 
+Duncan v. Walker, 533 U.S. 167 (2001) ..............0ccccccceeeee 1l 
+Dunn v. Singletary, 168 F.3d 440 (11th Cir. 1999)............ 20 
+Federated Dep't Stores, Inc. v. Moitie, 452 U.S. 394 
+et crncnsennssnienensiosenmmensntnnaninntvsinneninsenmenemmeneanetenne 14 
+Felker v. Turpin, 101 F.3d 657 (11th Cir. 1996)........... 34, 35 
+Felker v. Turpin, 518 U.S. 651 (1996).............ccccccceeeee 20, 23 
+First Gibraltar Bank v. Morales, 42 F.3d 895 (5th 
+ee 47 
+Gomez v. U.S. District Ct. N.D. Calif., 503 U.S. 653 
+Gee naseenneennenenensncnnenmenmmmennmnegeimanemmatmesesmmannesen 33 
+Graham v. Costello, 299 F.3d 129 (2d Cir. 2002)............... 19 
+Gray-Bey v. United States, 209 F.3d 986 (7th Cir. 
+ee 34, 39 
+Guinan v. Delo, 5 F.3d 313 (8th Cir. 1993) ........................ 34 
+Harvey v. Horan, 278 F.3d 370 (4th Cir. 2002)............ 15, 18 
+Hawkins v. Evans, 64 F.3d 543 (10th Cir. 1995) ............... 17 
+Horn v. Banks, 122 S. Ct. 2147 (2002)..............cccccceeeeeeeeees 24 
+Howard v. Lewis, 905 F.2d 1318 (9th Cir. 1990) ...15, 16, 17 
+Hunt v. Nuth, 57 F.3d 1327 (4th Cir. 1995) ..............cc00000 34 
+Huron Holding Corp. v. Lincoln Mine Operating 
+Ue 19 
+
+
+Vii 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Johnson v. United States, 196 F.3d 802 (7th Cir. 
+
+Fira tanrtenensinasnmnsninnsiinninintentgnnitiininieimeiientinmmeemmanints 19 
+Jones v. Murray, 976 F.2d 169 (4th Cir. 1992) .................. 35 
+Jones v. State, No. 01C01-9402-CR-00079, 1995 WL 
+
+75427 (Tenn.Crim.App. Feb. 23, 1995) ...0............cccceeeeees 1 
+Jones v. Tennessee, 498 U.S. 908 (1990) ..............ccccceeeeeeeees 1 
+Jones v. Tennessee, 516 U.S. 1122 (1996) ............. cece 2 
+Klapprott v. United States, 335 U.S. 601 (1949) ............... 27 
+Kuhlman v. Thompson, 477 U.S. 436 (1986)..................0. 20 
+Kyles v. Whitley, 5 F.3d 806 (5th Cir. 1993)............00.0.000... 34 
+Lambrix v. Singletary, 520 U.S. 518 (1997) ................00 24 
+Landano v. Rafferty, 897 F.2d 661 (3d Cir. 1990).............. 35 
+Liljeberg v. Health Serv’s Acquisition Corp., 486 
+
+See CEUIET GE ccccninisciteininndisasetamiuninenipeiniadesesnnemenannensieel 27 
+Lindsey v. Thigpen, 875 F.2d 1509 (11th Cir. 1989).......... 35 
+Lopez v. Douglas, 141 F.3d 974 (10th Cir. 1998) ............... 34 
+Lorillard v. Pons, 434 U.S. 575 (1978) .0.........cccccccceeseeeeeees 17 
+Mathenia v. Delo, 99 F.2d 1476 (8th Cir. 1996)................. 34 
+McCleskey v. Zant, 499 U.S. 467 (1991) .0.......ccccceeceeeeeeeee 20 
+McKeesport Area School Dist. v. Pennsylvania Dep't 
+
+of Educ., 446 U.S. 970 (1980)...............ccccsesscccsessesereeeees 14 
+McQueen v. Scroggy, 99 F.3d 1302 (6th Cir. 1996)............ 34 
+Montana v. United States, 440 U.S. 147 (1979) ................ 16 
+Morris v. Adams-Millis Corp., 758 F.2d 1352 (10th 
+
+Tn TE esisstitnesivnnnenentetencimmestiuninstmememnnmeniememeenanel 31 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+O’Sullivan v. Boerckel, 526 U.S. 838 (1999).......... 37, 48, 49 
+Page, In re, 179 F.3d 1024 (7th Cir. 1999)................... 15, 18 
+Pitchess v. Davis, 421 U.S. 482 (1975)...........ccccccccceeeee 28, 31 
+Plaut v. Spendthrift Farm, Inc., 514 U.S. 211 (1995)........ 14 
+Rodriguez v. Mitchell, 252 F.3d 191 (2d Cir. 2001)......35, 36 
+Ruiz v. Norris, 104 F.3d 163 (8th Cir. 1997)................ 34, 39 
+Sanders v. United States, 373 U.S. 1 (1963)................ 18, 20 
+Sargent v. Columbia Forest Product, Inc., 75 F.3d 
+
+SPIPUITES Tciccnmisninne dapiisenensnnentennenemmsanasornsanid 47 
+Sawyer v. Whitley, 505 U.S. 333 (1992)........... 23, 41, 42, 45 
+Semtek Int'l Inc. v. Lockheed Martin Corp., 531 U.S. 
+
+Ie See rricxcenesentssntednssennstinctenesnemeetenenametetetmeees 13, 14 
+Shaw v. Delo, 971 F.2d 181 (8th Cir. 1992) ..........0.0........ 17 
+Silverburg v. Evitts, 993 F.2d 124 (6th Cir. 1993)............. 37 
+Slack v. McDaniel, 529 U.S. 473 (2000) ................... passim 
+Smith v. Armontrout, 888 F.2d 530 (8th Cir. 1989)........... 35 
+Smith v. Murray, 477 U.S. 527 (1986)...........::ccccccceeeeeeeees 24 
+State v. Jones, 789 S.W.2d 545 (1990) .0..........:cccccceseeceeeeeees 1 
+Stewart v. Martinez-Villareal, 523 U.S. 637 
+
+Goi enunssensnncsnscinesseenenengnemenenesesenneterin 10, 11, 12, 15, 16 
+Stone v. Powell, 428 U.S. 465 (1976) ............:cccccceesseeeeeeeees 19 
+Teague v. Lane, 489 U.S. 288 (1989)................ 23, 24, 36, 39 
+Thompson v. Calderon, 151 F.3d 918 (9th Cir. 1998)........ 34 
+Thompson v. Nixon, 272 F.3d 1098 (8th Cir. 2001)........... 34 
+
+
+Turner v. Artuz, 262 F.3d 118 (2d Cir. 2001) ..........00..000.... 15 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Tyler v. Cain, 533 U.S. 656 (2001) ...........ccccccceeeereeeeeeeeeees 39 
+United States v. Barela, 571 F.2d 1108 (9th Cir. 
+
+TE oncccsuvennpennssemmncenetanssemustonsenmessnntesenmtumensstesenstessteceed 47 
+United States v. Beggerly, 524 U.S. 38 (1998)..............:006 26 
+United States v. Rich, 141 F.3d 550 (5th Cir. 1998) ....34, 39 
+Villegas v. Johnson, 184 F.3d 467 (5th Cir. 1999) ............. 22 
+Wenger v. Frank, 266 F.3d 218 (3d Cir. 2001)...............000 49 
+White Consol. Indus., Inc. v. Westinghouse Elec. 
+
+Corp., 179 F.3d 403 (6th Cir. 1999)...........::ccccceeereeeeeeeees 46 
+Williams v. Whitley, 994 F.2d 226 (5th Cir. 1993)....... 35, 36 
+Wright v. West, 505 U.S. 277 (1992)........:ccccccceeserceeeeeeeeeeees 23 
+Zipfel v. Halliburton Co., 861 F.2d 565 (9th Cir. 
+
+iP csescunnsenenecenanssoceneensesonsneciansenesensensesen siuentecsvnnsenennonnts 47 
+
+STATUTES 
+BD TEI, © GB ecccccsccccosesencszscssssnensconsnsnssessscnscssssscscssessonsees 3 
+28 U.S.C. § 224AM(D) .....s-eerrercsrcercsrseserssrssrsnssessssssrsees passim 
+LF een 7, 17, 28, 49 
+Court RULES 
+PUB TARR GBGOD ccocesesecccccccccssssnsssccossccscececcccssnsessessoseseeses 46 
+Fed.R.App.P. 41(d (2) D) ..........:ccccceeeeeeseereeseeeeeeeeees 6, 40, 41 
+Pe GID cccececcocerensssrequscnesenenssesscsnessnasecsesscesconssnenes 14 
+Fed. R.Civ.P. 41(D)........::ccccccceseseserrreeeees satebeiemmpeiemmmmmennaniies 14 
+Fed.R.Civ.P. 52(D)...........c000000+ sesenadnmennenineesnsemmmmocanamneentts 28 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+I ideale ceil 28 
+SEITE TIITTTInstivbinsiaciiisieniailesndsinsianeiideatinicitipasiptndaiasisaiiintaaat passim 
+nN sista ace cibeenneebciceiidimeiiaeinictil 31 
+er i inccecetcarsiceicireeeiceneenteneslacidasinahincicaiemiat 30 
+ESSERE Serene meneey Conran passim 
+I eel 28, 32 
+Rule 9(b), Rules Governing Section 2254 .....................0008 17 
+Rule 11, Rules Governing Section 2254...................ccce00008 28 
+, |) nae 1, 49 
+I TIE ccc ctccteensecteesennecscieeecesointensszenees 49 
+I Ut icstcincsesicsianeticteneitieatssnishinaininapteensitaattnnintatiaaas passim 
+Tn CII iccteeeteerishicherieeeeiiniiaitariantinaiimeedeasentnaatiaetitain 9 
+MISCELLANEOUS 
+Antiterrorism and Effective Death Penalty Ac* of 
+1996, Pub. L. 104-132, 110 Stat. 1214 (1996) 
+SSUEEISTEETTET TI eicseehereiinnetiiencha heared taieidanbaeaeeenbieetiniaimnnia 10 
+141 Cong. Rec. S7803-01, 7877 (daily ed. June 7, 
+EER ENE ere orn net ee a RL SR ae, 21 
+Joint Explanatory Statement of the Committee of 
+Conference, H.Conf.Rep. No. 164-518, reprinted 
+Sb ee eI TTD sirniesiitindartiriineninistnbiiinininaidcesnniinatia 21 
+12 J. Moore, Moore’s Federal Practice (3d ed. 
+re cndenihiiniehaineidanlindathiiaa tania renin 27, 30, 31 
+
+
+18 J. Moore, Moore’s Federal Practice (3d ed. 2002) .........19 
+
+
+xi 
+TABLE OF AUTHORITIES — Continued 
+
+
+U.S. Dep’t of Justice, Bureau of Justice Statistics, 
+Prisoner Petitions Filed in U.S. District Courts, 
+2000, With Trends 1980-2000 (2002) ..............ccccceeseeeeees 25 
+
+
+U.S. Dep’t of Justice, Office of Justice Programs, 
+Federal Habeas Corpus Review, Challenging 
+
+
+State Court Criminal Convictions (1995) ..................06+ 25 
+16A C. Wright, A. Miller, & E. Cooper, Federal 
+Practice and Procedure (3d ed. 1999) ...............ccceeeeeeeees 41 
+
+
+1 
+
+
+STATEMENT OF THE CASE 
+
+
+In 1987, petitioner, then known as James Lee Jones, 
+was convicted of first degree murder, assault with intent to 
+commit first degree murder, and armed robbery. The jury 
+sentenced petitioner to death for the murder, finding three 
+aggravating circumstances: (1) the defendant was previ- 
+ously convicted of one or more felonies whose statutory 
+elements involved the use of violence to the person; (2) the 
+murder was especially heinous, atrocious or cruel in that it 
+involved torture or depravity of mind; and (3) the murder 
+was committed while the defend nt was engaged in 
+committing, or was attempting to commit, any first degree 
+murder or robbery. The Tennessee Supreme Court af- 
+firmed, State v. Jones, 789 S.W.2d 545 (1990), and this 
+Court denied certiorari. Jones v. Tennessee, 498 U.S. 908 
+(1990). 
+
+
+In 1991, petitioner filed a petition for state post- 
+conviction relief. The trial court denied the petition after 
+an evidentiary hearing, and the Tennessee Court of 
+Criminal Appeals affirmed in all respects. Jones v. State, 
+No. 01C01-9402-CR-00079, 1995 WL 75427 (Tenn.Crim. 
+App. Feb. 23, 1995). Petitioner then filed an application for 
+further appellate review with the Tennessee Supreme 
+Court under Tenn.R.App.P. 11. However, that application 
+did not present all the claims that petitioner had previ- 
+ously presented to the intermediate appellate court. (J.A. 
+54-9) The Tennessee Supreme Court denied review, Jones 
+
+
+' The trial court sentenced petitioner to two consecutive life terms 
+for the two remaining convictions. 
+
+
+2 
+
+
+v. State, 1995 WL 75427, and this Court denied certiorari. 
+Jones v. Tennessee, 516 U.S. 1122 (1996). 
+
+
+Petitioner filed in the district court a petition for 
+federal habeas corpus relief on April 23, 1996 (R. 1), and 
+an amended petition on December 2, 1996 (R. 42), chal- 
+lenging his convictions and sentences. The district court 
+issued an order granting the writ and vacating petitioner’s 
+death sentence on petitioner’s claim of ineffective assis- 
+tance of counsel at the sentencing phase. (J.A. 45, 46) The 
+district court denied relief on all other claims. Several of 
+these claims, including the claims at issue in this case, 
+were determined to be procedurally defaulted due to 
+petitioner’s failure to exhaust by presenting them to the 
+State’s highest court, as well as his inability to establish 
+cause and prejudice for the default or a fundamental 
+miscarriage of justice. (J.A. 53-60, 62, 68) Both petitioner 
+and the State appealed from the final judgment. However, 
+petitioner did not appeal any of the district court’s proce- 
+dural default rulings. (J.A. 37, 130, 155) 
+
+
+The court of appeals reversed the judgment granting 
+the writ as to petitioner's death sentence, but affirmed the 
+judgment in all other respects. (J.A. 134) Rehearing was 
+denied, (J.A. 20), but the court of appeals stayed the 
+mandate pending a petition for writ of certiorari. (J.A. 21) 
+
+
+On October 9, 2001, this Court denied the petition for 
+writ of certiorari. Abdur’Rahman v. Bell, 122 S.Ct. 386 
+(2001). The next day, petitioner filed in the Sixth Circuit a 
+“Motion to Withhold the Mandate and Grant Rehearing 
+En Banc or Remand for Further Proceedings,” (J.A. 22, 
+152), in which he sought, inter alia, reconsideration of 
+several prosecutorial misconduct claims previously denied 
+as procedurally defaulted. (J.A. 154-56) The motion relied 
+
+
+3 
+
+
+on Tenn.Sup.Ct.R. 39, promulgated by the Tennessee 
+Supreme Court on June 28, 2001, which provided that, 
+from and after July 1, 1967, a litigant “shall not be re- 
+quired” to present a claim of error to the Tennessee Su- 
+preme Court in order to exhaust state remedies for federal 
+habeas corpus purposes. (J.A. 278-79) 
+
+
+On November 2, 2001, petitioner filed a motion in the 
+district court under Fed.R.Civ.P. 60(b)(6), seeking relief 
+from the district court’s 1998 judgment denying habeas 
+relief. (J.A. 158) The Rule 60(b) motion likewise relied on 
+Rule 39 and sought reconsideration of fourteen individual 
+claims of prosecutorial misconduct (J.A. 165-66), ten of 
+which had been denied as procedurally defaulted. (J.A. 57- 
+8, 68)” 
+
+
+On November 27, 2001, the district court, concluding 
+that petitioner’s Rule 60(b) motion constituted a second or 
+successive petition subject to 28 U.S.C. § 2244(b), trans- 
+ferred the matter to the Sixth Circuit pursuant to 28 
+U.S.C. § 1631. (J.A. 40) The district court also declined to 
+issue a certificate of appealability on jurisdictional 
+grounds. (J.A. 43) On November 30, 2001, petitioner filed 
+a notice of appeal from the district court’s action on the 
+Rule 60(b) motion. (R. 268; J.A. 11) 
+
+
+On December 6, 2001, petitioner filed in the Sixth 
+Circuit a motion requesting (1) a certificate of appealabil- 
+ity from the district court’s action on his Rule 60(b) mo- 
+tion; (2) en banc consideration of his appeal therefrom; and 
+(3) consolidation with the previously filed motion to 
+
+
+* The district court had considered the substantive merits of the 
+remaining four claims and denied relief on that basis. (J.A. 50, 69) 
+
+
+4 
+
+
+withhold the mandate and to rehear or remand. (J.A. 28) 
+In the meantime, on January 15, 2002, the Tennessee 
+Supreme Court set April 10, 2002, as the date for execu- 
+tion of petitioner’s sentence. On January 18, 2002, a panel 
+of the Sixth Circuit denied the application for a certificate 
+of appealability and determined that the district court had 
+properly construed petitioner’s Rule 60(b) motion as a 
+second habeas corpus petition, subject to 28 U.S.C. 
+§ 2244(b). (J.A. 35-6) On February 11, 2002, the same 
+panel denied all of petitioner’s pending motions, including 
+his Rule 60(b) motion, which it construed as an application 
+for leave to file a second habeas corpus petition, as well as 
+his motion to withhold the mandate and for rehearing or 
+remand of his original appeal. (J.A. 38) 
+
+
+¢ 
+
+
+SUMMARY OF THE ARGUMENT 
+
+
+In 1998, as part of its adjudication of petitioner’s 
+federal habeas petition, the district court denied relief on 
+several of petitioner’s claims, ruling that they were proce- 
+durally defaulted and that petitioner had failed to estab- 
+lish cause and prejudice or a fundamental miscarriage of 
+justice. More than three years later, relying on the June 
+28, 2001, promulgation of a new rule — Tenn.Sup.Ct.R. 39 
+— petitioner sought to resurrect these claims by filing two 
+post-judgment motions: a motion in the district court 
+under Fed.R.Civ.P. 60(b)(6); and a motion to withhold the 
+mandate in the court of appeals. Both courts properly 
+rejected petitioner’s effort to utilize these procedures to 
+relitigate these habeas claims. 
+
+
+Petitioner’s Rule 60(b) motion was >roperly construed 
+as a “second or successive habeas corpus application” 
+
+
+5 
+
+
+under 28 U.S.C. § 2244(b) and, because it presented claims 
+that were presented in petitioner's first petition, 
+§ 2244(b\(1) required its dismissal. The prior determina- 
+tion by the district court that petitioner’s claims were 
+procedurally defaulted constituted a final, conclusive 
+adjudication of petitioner’s claims. Unlike a dismissal 
+without prejudice for failure to exhaust, a denial on 
+grounds of procedural default contemplates that the 
+petitioner cannot return to federal court in the future - 
+the claim is barred from federal habeas review. Prior 
+decisions of this Court, established habeas corpus practice, 
+and the language and purpose of the statute dictate the 
+conclusion that such an adjudication is on the merits and 
+counts as a first petition, thus rendering any subsequent 
+habeas petition “second or successive” within Congress’ 
+intended meaning of that phrase in § 2244(b). 
+
+
+Although petitioner styled his pleading as a motion 
+under Fed.R.Civ.P. 60(b\(6), and not as another habeas 
+petition, it nonetheless served as the functional equivalent 
+of a new petition. While Rule 60(b)(6) purports to provide 
+grounds for post-judgment relief on the basis of new law, 
+its provisions do not apply to petitioners in habeas corpus 
+cases because the practice for post-judgment habeas 
+litigation in reliance upon new law is fully set forth by 
+statute — 28 U.S.C. § 2244(b). 
+
+
+Petitioner’s Rule wu(bX6) motion reasserted his 
+procedurally defaulted habeas claims in reliance upon the 
+recent promulgation of Tenn.Sup.Ct.R. 39. That Rule 39 
+constitutes a new law cannot be seriously disputed; the 
+Rule did not even exist when petitioner’s claims were 
+previously adjudicated. Because the motion relied upon a 
+law that had not previously been considered by, or pre- 
+sented for consideration to, the district court, it was properly 
+
+
+6 
+
+
+regarded as a new habeas petition. Otherwise, petitioner 
+would have been able to sircumvent § 2244(b)’s restrictions 
+simply by styling his pleading as a Rule 60(b) motion. 
+
+
+In addition to his Rule 60(b) motion filed in the 
+district court, petitioner also filed in the court of appeals a 
+motion requesting that, in light of Rule 39, t!:« mandate be 
+withheld, that rehearing en banc be grantec’ Ww review the 
+procedurally defaulted claims or, in the alternative, that 
+the case be remanded to the district court for reconsidera- 
+tion of its procedural default rulings on the prosecutorial 
+misconduct claims. In this Court, he asserts that the court 
+of appeals abused its discretion in denying his motion. 
+
+
+But petitioner cannot demonstrate an abuse of discre- 
+tion for several reasons. First, because his motion was 
+filed in the court of appeals after this Court had denied 
+certiorari, and because Fed.R.App.P. 41(d)(2)D) requires a 
+court of appeals to “issue the mandate immediately when 
+a copy of a Supreme Court order denying the petition for a 
+writ of certiorari is filed,” the court of appeals had no 
+discretion to stay its mandate. Under these circumstances, 
+asking the court to stay its mandate was tantamount to 
+requesting a recall of the mandate. But a motion to recall 
+the mandate can be regarded as a second or successive 
+application under 28 U.S.C. § 2244(b). And in this case, 
+where petitioner's motion sought review of the district 
+court’s “merits” determination of procedural default on his 
+prosecutorial misconduct claims, the motion clearly 
+constituted such a second or successive application, which 
+was required to be dismissed under § 2244(b)(1). It neces- 
+sarily follows that the court of appeals’ denial of the 
+motion was not an abuse of discretion. 
+
+
+7 
+
+
+Second, even if petitioner’s motion was not subject to 
+§ 2244(b), petitioner cannot demonstrate an abuse of 
+discretion by the court of appeals in refusing to recall its 
+mandate. Because the recall of a mandate can be exercised 
+only in “extraordinary circumstances,” is a power held in 
+reserve only “against grave, unforeseen circumstances,” 
+and any use of the power disparages and frustrates the 
+finality essential to our system of criminal justice and the 
+federal balance, it can never be an abuse of discretion for a 
+court of appeals to refuse to recall its mandate. Further- 
+more, in order to warrant a recall of a mandate, a peti- 
+tioner must demonstrate that such an extraordinary act is 
+necessary to avoid “a miscarriage of justice” defined by 
+this Court’s habeas jurisprudence, i.e., “actual as com- 
+pared to legal innocence.” Resting solely upon a legal 
+argument that Rule 39 applied to his claims, petitioner’s 
+motion was devoid of any assertion of “actual innocence.” 
+
+
+Finally, even if petitioner’s appellate motion is viewed 
+simply as an ordinary motion — and not a motion to recall 
+the mandate and a second or successive application under 
+§ 2244(b) — the court of appeals did not abuse its discretion 
+by denying it. Petitioner had deliberately chosen pot to 
+challenge the aistrict court’s procedural default rulings in 
+his appeal, and, as the court of appeals correctly observed, 
+its decision “did not rest upon any procedural default.” 
+Because petitioner had chosen to abandon any challenge to 
+the procedural default determination and then asserted 
+the issue for the first time in his post-judgment motion, 
+the court of appeals cannot be faulted for refusing to grant 
+extraordinary relief on a question so belatedly raised. 
+
+
+Furthermore, application of Rule 39 would not have 
+revived his prosecutorial misconduct claims anyway. 
+“Available” state remedies must be exhausted under 28 
+
+
+8 
+
+
+U.S.C. § 2254 as a prerequisite for federal habeas corpus 
+review. Petitioner’s contention that Rule 39 makes a 
+discretionary application to the Tennessee Supreme Court 
+unavailable in criminal cases is belied by the plain text of 
+the rule itself. Rule 39 simply provides that a litigant 
+“shall not be required” to seek discretionary review in the 
+supreme court; it does not make such review unavailable. 
+But even if somehow the rule could be read to render such 
+review unavailable, the rule could not alter the objective 
+historical fact in this case that discretionary review was 
+available in 1995, when petitioner chose not to present his 
+prosecutorial misconduct claims to the Tennessee Supreme 
+Court. Because Rule 39 cannot resurrect petitioner’s 
+procedurally defaulted claims anyway, the court of appeals 
+did not abuse its discretion by refusing to consider them or 
+remand the matter to the district court. 
+
+
+¢ 
+
+
+ARGUMENT 
+
+
+I. THE COURT OF APPEALS PROPERLY HELD 
+THAT PETITIONER’S RULE 60(B) MOTION 
+CONSTITUTED A “SECOND OR SUCCESSIVE” 
+PETITION BARRED UNDER 28 U.S.C. § 2244(b).’ 
+
+
+Petitioner's Rule 60(b) motion reasserted several 
+claims for habeas corpus relief that were presented, along 
+with many others, in his original petition for habeas 
+corpus relief. Relief on these several claims had been 
+previously denied. (J.A. 60, 68)‘ 28 U.S.C. § 2244 provides, 
+in relevant part: 
+
+
+A claim presented in a second or successive ha- 
+beas corpus application under section 2254 that 
+was presented in a prior application shail be 
+
+
+* Petitioner’s lead argument (Pet. Br. 10), as well as the entire 
+
+
+’ argument of the amici brief in support of petitioner, relates to the 
+
+
+substantive merits of petitioner’s underlying constitutional claims. But 
+neither of the two questions before the Court, nor any “subsidiary 
+question fairly comprised therein,” U.S.Sup.Ct.R. 23(1Xc), implicates 
+the substance of petitioner’s underlying claims. Such arguments, 
+therefore, are irrelevant and inappropriate and should be disregarded. 
+Moreover, at least to the extent petitioner presented these claims to the 
+state trial and intermediate appellate courts, they have been found to 
+be without merit. See R. 9, Add. 15, p. 4; R. 9, Add. 11, T.R. p. 108. 
+
+* While petitioner’s Rule 60(b\6) motion reasserted claims that 
+had been previously denied on the basis of procedural] default, as well 
+as claims that had been previously denied as being without substantive 
+merit, the thrust of petitioner's argument in this Court is directed only 
+to the procedurally defaulted claims. Accordingly, respondent confines 
+his argument to those claims. 
+
+
+10 
+
+
+28 U.S.C. §2244(b\1). Accordingly, “[iJf [petitioner’s] 
+current request for relief is a ‘second or successive’ appli- 
+cation, then it plainly should have been dismissed.” 
+Stewart v. Martinez-Villareal, 523 U.S. 637, 642 (1998).° 
+Petitioner advances two primary arguments for why his 
+Rule 60(b)(6) motion is not a “second or successive applica- 
+tion” within the meaning of § 2244(b). First, he maintains 
+that, because these claims were denied in his original 
+habeas proceeding on the basis of a procedural default — in 
+his words, because they “were not adjudicated on the 
+merits” (Pet. Br. 24) — his motion is not “second or succes- 
+sive” at all. Second, he asserts that he is entitled to pursue 
+relief from the district court’s habeas judgment under 
+Fed.R.Civ.P. 60(b) (Pet. Br. 40-42), and that the “sub- 
+stance” of his Rule 60(b) motion was to “seek[ } an adjudi- 
+cation only of his claims ... set forth in his original 
+petition” (Pet. Br. 33), thus raising the issue of whether 
+petitioner’s Rule 60(b) motion is itself a new “application” 
+under § 2244(b). Petitioner’s arguments, however, are 
+unavailing on both scores.* 
+
+
+* Although petitioner has conceded that these “are not new claims,” 
+(J.A. 169), even construing them as such, they fai] to meet the require- 
+ments of § 2244(b)(2), as the Sixth Circuit ruled. (J.A. 36) 
+
+* Petitioner also argues that the provisions regarding second or 
+successive petitions set forth in 28 U.S.C. § 2244(b), as amended by the 
+Antiterrorism and Effective Death Penalty Act of 1996 (“AEDPA”), 
+Pub.L. 104-132, 110 Stat. 1214, do not apply to his Rule 60(b) motion 
+because his original petition was filed prior to the AEDPA’s effective 
+date. (Pet. Br. 27-28) But, as will be shown in Argument |B, infra, 
+because petitioner's Rule 60(b) motion constitutes a new habeas 
+application, which was filed on November 2, 2001, this argument fails. 
+See Martinez-Villareal, 523 U.S. at 640, 642 (applying AEDPA to decide 
+whether petition filed in 1997 was “second or successive” under the Act, 
+where original petition filed in 1993). Cf. Slack v. McDaniel, 529 U'S. 
+
+(Continued on following page) 
+
+
+11 
+
+
+A. The District Court’s Prior Judgment, Rul- 
+ing That Petitioner’s Claims Were Proce- 
+durally Defaulted, “Counted” As a First 
+Petition and Rendered The Reassertion of 
+These Same Claims “Second or Successive” 
+Under § 2244(b). 
+
+
+As a general matter, construction of statutory terms 
+begins with the language of the statute itself. Duncan v. 
+Walker, 533 U.S. 167, 172 (2001). Where, as here, claims 
+for habeas corpus relief are presented to a district court in 
+an original habeas petition, and relief is denied after an 
+evidentiary hearing, including the denial of certain claims 
+on the ground that the claims are barred by the peti- 
+tioner’s procedural default, logic would dictate that any 
+subsequent petition or application reasserting those same 
+claims would be “second or successive” under § 2244(b) 
+within the plain meaning of that phrase. See Stewart v. 
+Martinez-Villareal, 523 U.S. 637, 649 (Thomas, J., dissent- 
+ing) (under “plain meaning” of the statute, a -second 
+petition, raising the same claim presented in a first 
+petition that had been denied, was a “second or successive 
+habeas corpus application” under § 2244(b)). 
+
+
+But in Slack v. McDaniel, 529 U.S. 473 (2000), a 
+majority of this Court observed that “(t]he phrase ‘second 
+or successive petition’ is a term of art given substance in 
+our prior habeas corpus cases.” Jd., 529 U.S. at 486. From 
+
+
+473, 479, 486 (2000) (applying pre-AEDPA law to decide whether 
+petition filed in 1995 was “second or successive”). See also Calderon v. 
+Thompson, 523 U.S. 538, 545, 546, 553 (1998) (applying AEDPA to 
+motion to recall mandate filed in 1997, where first petition filed in 
+1990). 
+
+
+12 
+
+
+a review of prior decisions and the “established practice” 
+in pre-AEDPA habeas cases, the Slack Court held that “[a]) 
+habeas petition filed in the district court after an initial 
+habeas petition was unadjudicated on its merits and 
+dismissed for failure to exhaust state court remedies is not 
+a second or successive petition.” Jd., 529 U.S. at 485-86. In 
+so holding, the Court adhered to the analysis in Martinez- 
+Villareal, where a majority of the Court likewise held, 
+utilizing pre-AEDPA law to interpret AEDPA’s provisions, 
+that where a claim was previously dismissed as prema- 
+ture, a second attempt to assert the claim is not “second or 
+successive” under 28 U.S.C. § 2244(b). Id., 529 U.S. at 489 
+(citing Martinez-Villareal, 523 U.S. at 644). 
+
+
+Petitioner seizes upon the Court’s articulation of its 
+holding in Slack, and argues that, in his case too, because 
+his claims were procedurally defaulted, he did not receive 
+an “adjudication on the merits.” But petitioner reads too 
+much into the Court’s use of the “unadjudicated on its 
+merits” language. The words that immediately follow that 
+phrase in the Court’s opinion — “and dismissed for failure 
+to exhaust state remedies” — are important. If a habeas 
+petition that has been dismissed without prejudice for 
+failure to exhaust state remedies has not been adjudicated 
+on its merits, and thus does not “count” as a first habeas 
+petition so as to render a subsequent petition “second or 
+successive” under the intended meaning of that phrase in 
+§ 2244(b), then when has a petition or claim been adjudi- 
+cated on the merits so as to “count” as a first petition? The 
+language and legislative history of the statute, established 
+habeas practice both before and after enactment of 
+AEDPA, prior decisions of this Court, and the policies 
+underlying the enactment of AEDPA’s amendments to 
+§ 2244(b) all point to the conclusion that Congress 
+
+
+13 
+
+
+intended that any final and conclusive determination of a 
+habeas claim, i.e., a dismissal or denial with prejudice - 
+the converse of the Slack holding — should “count” as a 
+first petition and thus render any subsequently filed 
+petition “second or successive” under § 2244(b). 
+
+
+1. Prior Decisions of This Court And Es- 
+tablished Habeas Practice In the Vast 
+Majority of the Circuit Courts, Both Be- 
+fore and After Enactment of AEDPA, 
+Support The Conclusion That a Proce- 
+dural Default Judgment Is An Adjudica- 
+tion On the Merits And “Counts” As a 
+First Petition. 
+
+
+As this Court recently observed in Semtek Int'l Inc. v. 
+
+
+. Lockheed Martin Corp., 531 U.S. 497 (2001), the meaning 
+
+
+of “on the merits” has evolved over the years. The original 
+connotation of the phrase contemplated an adjudication 
+“that actually ‘passi[es] directly on the substance of [a 
+particular] claim before the court.’” Jd., 531 U.S. at 501-02 
+(quoting Restatement (Second) of Judgments § 19, Com- 
+ment a, p. 161 (1980)). To be sure, this Court has utilized 
+the phrase “on the merits” to refer to the substantive 
+merits of a claim. See, e.g., Slack, 529 U.S. at 484 (equat- 
+ing a court’s rejection of constitutional claims “on the 
+merits” with its having “reach[ed) the underlying constitu- 
+tional claims”). That the phrase carries this connotation no 
+doubt serves as the unstated premise of petitioner’s 
+contention that his procedurally defaulted claims were not 
+adjudicated “on the merits.” 
+
+
+But “on the merits” has also come to be applied to 
+judgments that do not pass upon the substantive merits of 
+a claim — those that instead are based on some other 
+
+
+14 
+
+
+ground that nevertheless finally determines the action. 
+Semtek, 531 U.S. at 502-03. For example, in Plaut v. 
+Spendthrift Farm, Inc., 514 U.S. 211 (1995), a case involv- 
+ing a provision of the Securities Exchange Act that pur- 
+ported to authorize the reopening of actions previously 
+dismissed as time-barred, the Court pointed out the 
+irrelevancy of the fact that the final judgments affected by 
+the statutory provision in question rested on a statute of 
+limitations bar: 
+The rules of finality, both statutory and judge 
+made, treat a dismissal on statute-of-limitations 
+grounds the same way they treat a dismissal for 
+failure to state a claim, for failure to prove sub- 
+
+
+stantive liability, or for failure to prosecute; as a 
+_ judgment on the merits. 
+
+
+Id., 514 U.S. at 228 (citing United States v. Oppenheimer, 
+242 U.S. 85, 87-88 (1918)) (emphasis added).’ In Semtek 
+itself, the Court held that an “adjudication on the merits” 
+under Fed.R.Civ.P. 41(b) is merely the converse of the 
+dismissal without prejudice provided for under 
+Fed.R.Civ.P. 41(a), i.e., a dismissal with prejudice.” 
+
+
+" See also Federated Dep't Stores, Inc. v. Moitie, 452 U.S. 394, 399 
+n.3 (1981) (“(t]he dismissal for failure to state a claim .. . is a “judgment 
+on the merits”); McKeesport Area School Dist. v. Peansylvania Dep't of 
+Educ., 446 U.S. 970, 971 (1980) (White, J., concurring) (“a ruling of 
+dismissal for want of a substantial federal question is a judgment on 
+the merits”). 
+
+* The Court in Slack, pointing to a court’s ability to dismiss with 
+prejudice under Rule 41(b) so as to avoid “vexatious litigation,” implied 
+that such a dismissal would bar further litigation under the successive 
+petition doctrine. Slack, 529 U.S. at 489. 
+
+
+15 
+
+
+The dismissal or denial of a habeas claim on the basis 
+of procedural default is properly included within this 
+latter category of adjudications on the merits. This conclu- 
+sion is dictated by the critical difference between the effect 
+of a dismissal of a claim without prejudice for failure to 
+exhaust state court remedies and the effect of a dismissal 
+or denial of a claim on grounds of procedural default. In 
+the former situation, the dismissal contemplates that the 
+petitioner could return to federal court at some point in 
+the future, either upon exhaustion of his claim in state 
+court or upon his claim becoming ripe. See Slack, 529 U.S. 
+at 486; Martinez-Villareal, 523 U.S. at 643. But when a 
+claim is denied for procedural default, the petitioner 
+cannot return to federal court — his claim is barred out- 
+right from federal habeas review, for “a state procedural 
+default of any federal claim will bar federal habeas unless 
+the petitioner demonstrates cause and actual prejudice.” 
+Coleman v. Thompson, 501 U.S. 722, 748 (1991). 
+
+
+Courts of appeals have pointed to this fundamental 
+distinction between dismissals without prejudice for 
+failure to exhaust and dismissals for procedural default to 
+hold that a “dismissal for procedural default is a dismissal 
+on the merits. It is critically different from a dismissal for 
+failure to exhaust which does not prevent federal habeas 
+review at a later date.” Harvey v. Horan, 278 F.3d 370, 380 
+(4th Cir. 2002). “Unlike a procedural default, a mere 
+failure to exhaust state remedies does not result in a 
+dismissal ‘on the merits’ and does not cause a forfeiture of 
+access to federal habeas review.” Jn re Cook, 215 F.3d 606, 
+608 (6th Cir. 2000). See also Turner v. Artuz, 262 F.3d 118, 
+122 (2d Cir.), cert. denied, 122 S.Ct. 569 (2001); Howard v. 
+Lewis, 905 F.2d 1318, 1322 (9th Cir. 1990); In re Page, 179 
+
+
+16 
+
+
+F.3d 1024, 1025 (7th Cir. 1999) (there is an “essential 
+distinction” between a dismissal “for technical procedural 
+reasons” and a dismissal “on the merits”). 
+
+
+Petitioner contends, however, that “[tJhis distinction 
+wholly lacks substance” (Pet. Br. 33) because, “‘{iJn both 
+situations, the habeas petitioner [did] ... not receive an 
+adjudication of his claim.’” (Pet. Br. 34 (quoting Martinez- 
+Villareal, 523 U.S. at 645)) But petitioner did receive an 
+adjudication of his claim — an adjudication that he has 
+failed properly to exhaust his claim; that he has failed to 
+demonstrate cause and prejudice or a fundamental mis- 
+carriage of justice; and that, consequently, his right to 
+obtain federal review of his claims is barred by the proce- 
+dural default. (J.A. 60, 62, 68) As the Ninth Circuit ex- 
+plained in Howard v. Lewis: 
+
+
+While a court, in dismissing a petition because of 
+state procedural default (and a failure to show 
+cause and prejudice), is not determining the mer- 
+its of the underlying claims, it is making a de- 
+termination on the merits that the underlying 
+claims will not be considered by a federal court 
+for reasons of comity. Such a determination 
+should be considered “on the merits” for purposes 
+of the successive petition doctrine. 
+
+
+905 F.2d at 1322 (citations omitted) (emphasis added). “A 
+fundamental precept of common-law adjudication ... is 
+that a ‘right, question or fact distinctly put in issue and 
+directly determined by a court of competent jurisdiction 
+... cannot be disputed in a subsequent suit between the 
+same parties or their privies.... ” Montana v. United 
+States, 440 U.S. 147, 153 (1979). 
+
+
+Indeed, every circuit court that has directly addressed 
+the issue has held, both before and after enactment of 
+
+
+17 
+
+
+AEDPA, that a dismissal or denial of a habeas claim on 
+grounds of procedural default constitutes an adjudication 
+“on the merits” for purposes of determining whether a 
+subsequent petition will be barred as second or successive. 
+Under pre-AEDPA law, the Fifth, Eighth, Ninth and Tenth 
+Circuits all held that a determination that a claim was 
+procedurally defaulted constituted an adjudication “on the 
+merits” under Rule 9(b) of the Rules Governing Section 
+2254 Proceedings in the United States District Courts.” 
+Insofar as the language “second or successive” appears in 
+both Rule 9(b) and in AEDPA amendments to § 2244(b),”° 
+Congress may be presumed to have had knowledge of this 
+interpretation of the phrase “on the merits” for purposes of 
+second or successive petitions when it enacted AEDPA in 
+1996. See Lorillard v. Pons, 434 U.S. 575, 581 (1978). 
+Since enactment of AEDPA, the Second, Fourth and Sixth 
+Circuits have followed the principle exemplified by these 
+cases, likewise holding that a procedural default ruling is 
+a judgment “on the merits” that renders any subsequent 
+
+
+* See Hawkins v. Evans, 64 F.3d 543, 547 (10th Cir. 1995); Bates v. 
+Whitley, 19 F.3d 1066, 1067 (5th Cir. 1994); Shaw v. Delo, 971 F.2d 181, 
+184 (8th Cir. 1992); Howard, 905 F.2d at 1323. See also Caton v. Clarke, 
+70 F.3d 64, 65 (8th Cir. 1995) (“[a] determination of an unexcused state 
+procedural bar is a final determination on the merits for purposes of 28 
+U.S.C. § 2244(b)”). 
+
+
+* Rule 9(b), promulgated in 1976, provides that “[a] second or 
+successive petition may be dismissed if the judge finds that it fails to 
+allege new or different grounds for relief and the prior determination 
+was on the merits or, if new and different grounds are alleged, the judge 
+finds that the failure of the petitioner to assert those grounds in a prior 
+petition constituted an abuse of the writ.” 
+
+
+18 
+
+
+petition “second or successive” under 28 U.S.C. § 2244(b).” 
+Furthermore, while the Seventh Circuit has not explicitly 
+so held, post-AEDPA decisions from that court reflect its 
+agreement that a procedural default judgment is a judg- 
+ment on the merits for purposes of applying § 2244(b).” 
+
+
+These cases serve to establish a majority rule among 
+the circuit courts of appeal — a rule that the Second Cir- 
+cuit, echoing the rationale employed by the Ninth Circuit 
+twelve years before,” recently had occasion to reiterate: 
+
+
+We consider the denial of procedurally defaulted 
+claims to be “on the merits” even though the un- 
+derlying merits of those claims are not reviewed 
+by any federal court because those claims, re- 
+gardless of their merit, can never establish a 
+
+
+" See Harvey, 278 F.3d at 379; Turner, 262 F.3d at 122; Jn re Cook, 
+215 F.3d at 608; Carter v. United States, 150 F.3d 202, 205-06 (2d Cir. 
+1998) (§ 2255). 
+
+
+" See In re Page, 179 F.3d at 1024 (distinguishing petitions 
+dismissed for “technical procedural reasons,” court noted that first 
+petition, which included procedurally defaulted claims, “was denied on 
+the merits”); Benton v. Washington, 106 F.3d 162, 164-65 (7th Cir. 1996) 
+(“a decision on the [substantive] merits is not essential to the existence 
+of a first petition;” while petitions dismissed for failure to pay filing fee 
+or to permit exhaustion should be disregarded, “any other outcome is 
+presumptively sufficient to bring § 2244(b) into play”). 
+
+
+" Sanders v. United States, 373 U.S. 1, 16 (1963), does not aid 
+petitioner's cause for two reasons. First, while the Sanders Court stated 
+that an “adjudication of the merits” is one that follows an evidentiary 
+hearing at which factual issues are resolved, Congress expanded that 
+definition in 1966 to further provide that controlling effect be given a 
+prior adjudication made “after a hearing on the merits of an issue of 
+law.” 28 U.S.C. § 2244(b) (1994). As discussed above, a procedural 
+default judgment is rendered “on the merits of an issue of law.” See 
+Caton, 70 F.3d at 65. Second, as discussed in the following section, 
+AEDPA struck all “on the merits” language from § 2244(b). 
+
+
+19 
+
+
+basis for habeas relief. Thus our distinction be- 
+tween petitions that are denied “on the merits” 
+and those that are not does not depend on 
+whether the federal court actually determined 
+the merits of the underlying claims but rather on 
+whether the prior denial of the petition conclu- 
+sively determined that the claims presented could 
+not establish a ground for federal habeas relief. 
+
+
+Graham v. Costello; 299 F.3d 129, 133 (2d Cir. 2002) 
+(extending principle to hold that denials of relief under the 
+Stone v. Powell” bar to review of a Fourth Amendment 
+claim is an adjudication on the merits) (emphasis added). 
+In short, as the lower courts have uniformly held, “(a} 
+petition that has reached final decision counts” for pur- 
+poses of § 2244(b)’s restrictions against “second or succes- 
+sive” applications. Johnson v. United States, 196 F.3d 802, 
+805 (7th Cir. 1999).” 
+
+
+* 428 U.S. 465 (1976). 
+
+
+* Petitioner contends that the procedural default judgment of the 
+district court in his case was not final until the appellate mandate was 
+issued. While it may be correct that an appeal transfers jurisdiction to 
+the court of appeals until issuance of the mandate, it is settled that 
+finality attaches for preclusion purposes at the time of the entry of 
+judgment in the district court, any appeal notwithstanding. See Huron 
+Holding Corp. v. Lincoln Mine Operating Co., 312 U.S. 183, 189 (1941). 
+See generally 18 J. Moore, Moore's Federal Practice, § 131.30(2)[b],{c}, 
+pp. 131-95 to -97 (3d ed. 2002). Moreover, petitioner did not appeal the 
+procedural default rulings of the district court, thus ensuring their 
+finality. Lastly, the appeal that petitioner did take had been decided, 
+and this Court had denied certiorari, when petitioner sought to 
+resurrect his procedurally defaulted claims. 
+
+
+20 
+
+
+2. Interpreting “Second or Successive” 
+
+
+Applications to Include Subsequent Ap- 
+plications Filed After a Prior Proce- 
+
+
+dural Default Judgment Is Consistent 
+With The Purpose of AEDPA’s Amend- 
+ments to § 2244(b). 
+
+
+Nothing in the language or history of AEDPA’s 
+amendments to 28 U.S.C. § 2244(b) evinces a Congres- 
+sional intent to exclude from the definition of a “second or 
+successive habeas corpus application” those applications 
+filed after a prior judgment of procedural default. The 
+clear purpose of these amendments was to enhance and 
+strengthen the pre-AEDPA restrictions on successive 
+petitions — not to relax them. In addition to codifying some 
+of the pre-existing limits on successive petitions, AEDPA 
+“further restricts the availability of relief to habeas peti- 
+tioners.” Felker v. Turpin, 518 U.S. 651, 664 (1996). See 
+Dunn v. Singletary, 168 F.3d 440, 442 (llth Cir. 1999) 
+(purpose of AEDPA’s gatekeeping provisions was “to 
+restrict habeas petitioners from taking multiple bites of 
+the apple”); accord Castro v. United States, 290 F.3d 1270, 
+1274 (11th Cir. 2002); In re Cain, 137 F.3d 234, 235 (5th 
+Cir. 1998). Pre-AEDPA law itself dictated that federal 
+courts limit consideration of subsequent habeas petitions 
+to “rare cases.” Kuhlman v. Thompson, 477 U.S. 436, 454 
+(1986). Marking yet another step in the ongoing evolution- 
+ary process of habeas corpus law,” Congress clearly 
+
+
+* Compare Sanders v. United States, 373 U.S. 1, 8 (1963) (“res 
+judicata is inapplicable in habeas proceedings”), with McCleskey v. 
+Zant, 499 U.S. 467, 486 (1991) (1966 amendments to § 2244(b) “estab- 
+lishe(d] a ‘qualified application of the doctrine of res judicata’”) and 
+with Felker v. Turpin, 518 U.S. 651, 664 (1996) (1996 amendments to 
+
+(Continued on following page) 
+
+
+21 
+
+
+intended, in enacting AEDPA, to limit post-judgment 
+litigation in habeas cases to even narrower circumstances. 
+
+
+This title incorporates reforms to curb the abuse 
+of the statutory writ of habeas corpus, and to ad- 
+dress the acute problems of unnecessary delay 
+and abuse in capital cases ... Successive peti- 
+tions must be approved by a panel of the court of 
+appeals and are limited to those petitions that 
+contain newly discovered evidence that would se- 
+riously undermine the jury’s verdict or that in- 
+volve new constitutional rights that have been 
+retroactively applied by the Supreme Court. 
+
+
+Joint Explanatory Statement of the Committee of Confer- 
+ence, H.Conf.Rep. No. 104-518, at 111, reprinted in 1996 
+U.S.C.C.A.N. 944 (emphasis added).” 
+
+
+§ 2244(b) “constitute a modified res judicata rule” and “the added 
+restrictions which the Act places on second habeas petitions are well 
+within the compass of this evolutionary process”). 
+" Immediately upon Senate passage of Senate Bill 735, which 
+would be subsequently enacted into law as AEDPA, Senator Dole made 
+the following statement regarding the legislation: 
+The most critical element of this bill . . . is the provision re- 
+forming the so-called habeas corpus rules. By imposing fil- 
+ing deadlines on al] death row inmates, and by limiting 
+condemned killers convicted in State or Federal court to one 
+Federal habeas petition — one bite of the apple — these land- 
+mark reforms will go a long, long way to streamline the 
+lengthy appeals process and bridge the gap between crime 
+and punishment in America. It is dead wrong that we must 
+wait 8, or 9, or even 10 years before a capital sentence is ac- 
+tually carried out. 
+
+141 Cong. Rec. S7803-01, 7877 (daily ed. June 7, 1995) (statement of 
+
+Sen. Dole) (emphasis added). 
+
+
+22 
+
+
+If there remained any doubt that Congress intended 
+to have a claim denied on procedural default grounds 
+“count” as a first habeas petition, Congress conclusively 
+removed it by jettisoning all “on the merits” language from 
+§ 2244(b). As noted above, the predecessor version of 
+§ 2244(b) provided, in pertinent part: 
+
+
+When after an evidentiary hearing on the merits 
+of a material factual issue, or after a hearing on 
+the merits of an issue of law, a person in custody 
+pursuant to the judgment of a State court has 
+been denied by a court of the United States ... 
+release from custody or other remedy on an ap- 
+plication for a writ of habeas corpus, a subse- 
+quent application for a writ of habeas corpus on 
+behalf of such person need not be entertained .. . 
+unless the application alleges and is predicated 
+on a factual or other ground not adjudicated on 
+the hearing of the earlier application for the 
+writ. ... 
+
+
+28 U.S.C. § 2244(b) (1994). The 1996 amendments com- 
+pletely reworked subsection (b), replacing it with subsec- 
+tions (b)(1) through (b\4). Subsection (b)(1) now provides: 
+
+
+A claim presented in a second or successive ha- 
+beas corpus application under section 2254 that 
+was presented in a prior application shall be 
+dismissed. 
+Period. “Congress enacted AEDPA against a backdrop of 
+federal habeas law dealing with procedurally barred 
+claims,” Villegas v. Johnson, 184 F.3d 467, 470 (5th Cir. 
+1999), and its intent on this point cannot have been any 
+plainer. A final determination of the claims is all that is 
+needed for the prior application to count as a first petition. 
+
+
+23 
+
+
+3. Policy Concerns Underlying Federal 
+Habeas Corpus Review and the Finality 
+of Judgments Support the Interpreta- 
+tion That A “Second or Successive” Ha- 
+beas Application Includes a Subsequent 
+Petition Filed After a Prior Procedural 
+Default Judgment. 
+
+
+This Court has often recognized that federal habeas 
+review of state court convictions “entails significant costs,” 
+Wright v. West, 505 U.S. 277, 293-94 (1992) (quoting Engle 
+v. Isaac, 456 U.S. 107, 126 (1982)), and that these costs, as 
+well as the countervailing benefits, namely, a state pris- 
+oner’s opportunity to obtain federal review of a state 
+court’s adjudication of federal constitutional questions, 
+“must be taken into consideration in defining the scope of 
+the writ.” Jd., 505 U.S. at 291. The procedural default 
+doctrine emanates from this cost-benefit analysis, as does 
+the Teague retroactivity bar,” as well as the successive 
+petition doctrine itself. Jd.; Sawyer v. Whitley, 505 US. 
+333, 338-39 (1992). In the final analysis, of course, “judg- 
+ments about the proper scope of the writ are ‘normally for 
+Congress to make.’” Felker v. Turpin, 518 U.S. 651, 664 
+(1996) (quoting Lonchar v. Thomas, 517 U.S. 314, 323 
+(1996)). 
+
+
+In the interest of preserving this balance, this Court 
+has encouraged, if not insisted, that federal courts sitting 
+in habeas review of state court judgments dispose of 
+presented claims on any available procedural grounds — 
+without reaching the underlying merits. While a proce- 
+dural bar issue need not “invariably” be resolved first, “it 
+
+
+* Teague v. Lane, 489 U.S. 288 (1989). 
+
+
+24 
+
+
+ordinarily should be.” Lambrix v. Singletary, 520 U.S. 518, 
+524 (1997). 
+
+
+[A]lthough federal courts at all times retain the 
+power to look beyond state procedural forfeitures, 
+the exercise of that power ordinarily is inappro- 
+priate unless the defendant succeeds in showing 
+both “cause” for noncompliance with the state 
+rule and “actual prejudice resulting from the al- 
+leged constitutional violation.” 
+
+
+Smith v. Murray, 477 U.S. 527, 533 (1986) (quoting Wain- 
+wright v. Sykes, 433 U.S. 72, 84 (1977); Murray v. Carrier, 
+477 U.S. 478, 485 (1986)) (emphasis added). It would be 
+strange indeed for a federal habeas court, having heeded 
+such directives and adjudicated a habeas claim or petition 
+on grounds of a state procedural default, to learn that such 
+a judgment is not a final adjudication “on the merits” and 
+thus is subject to endless relitigation by way of a subse- 
+quent habeas petition. Any habeas petitioner who can 
+assemble a new argument for why he now has cause and 
+prejudice or can now show a fundamental miscarriage of 
+justice to excuse his prior procedural default, could reliti- 
+gate the prior denial or dismissal of his claims. 
+
+
+Such a scenario would strip the federal judgment of 
+any sense of finality — a circumstance that offends the very 
+interest on which the procedural default doctrine is 
+grounded. See Smith, 477 U.S. at 533; Murray, 477 U.S. at 
+
+
+" See Caspari v. Bohlen, 510 U.S. 383, 389 (1994) (if State argues a 
+Teague retroactivity bar to habeas claim, “the court must apply Teague 
+before considering the merits of the claim”) (emphasis in original): 
+accord Horn v. Banks, 122 S.Ct. 2147 (2002). 
+
+
+ee 
+
+
+- Le Oe <n Ge h. 
+
+
+25 
+
+
+487.” It also would run counter to the treatment of such 
+judgments for purposes of appeal. See Slack, 529 US. at 
+484 (requiring additional showing to warrant eostitente of 
+appealability that correctness of district court's procedural 
+ruling is debatable). Moreover, such a scenario would fly in 
+the face of what Congress intended to accomplish when it 
+enacted AEDPA’s amendments to § 2244(b). But this is the 
+result that would attach if the phrase “second or succes- 
+sive” means that a prior application must have been 
+adjudicated on the substantive merits of the claims it 
+presented. 
+
+
+*® The potential ramifications of such a holding are by no means 
+atentnee. 6 1995 Justice Department report found that wr _ 
+5,000-plus habeas corpus claims reviewed were poener ag y- a 
+12% of these were dismissed on procedural default grounds. + ep 
+of Justice, Office of Justice Programs, Federal Habeas Corpus = 
+Challenging State Court Criminal Convictions 17 (1995). h- _* 
+respondent's experience suggests & far higher procedural fa - 
+percentage, particularly in capital cases — indeed, the report _ 
+cautioned against making generalizations from the study's res - dee 
+even these figures represent a sizable number of final ———-*~ 
+would no longer be “final.” In the year 2000, more than 21,000 — 
+petitions were filed by state prisoners; another 9,000 some-odd = _ 
+were filed by federal prisoners. U.S. Dep't of Justice, Bureau 0 — 
+Statistics, Prisoner Petitions Filed in U.S. District Courts, 2000, - 
+Trends 1980-2000 1 (Jan. 2002). Petitioner's insistence that : 
+circumstances are unique (Pet. Br. 45), overlooks any — ¢ 
+similarly situated Tennessee prisoners who would likewise 
+themselves free of the restrictions against successive petitions; they > 
+could then seek to reopen claims previously adjudicated as — y 
+defaulted. In that event, the Tennessee Supreme Court — - 
+succeeded in reducing its own discretionary review docket, but only a 
+the expense of the federal courts’ burgeoning habeas corpus docket. 
+
+
+26 
+
+
+B. Petitioner’s Rule 60(b)(6) Motion Is Prop- 
+erly Construed As the Functional Equiva- 
+lent of a Second or Successive Habeas 
+Corpus “Application” Under 28 U.S.C. 
+§ 2244(b). 
+
+
+Petitioner, of course, did not style the pleading he 
+subsequently filed in the district court, reasserting his 
+procedurally defaulted habeas claims, as a petition for writ 
+of habeas corpus. Instead, he styled this pleading a motion 
+for relief from judgment under Fed.R.Civ.P. 60(b)\6). 
+Petitioner maintains that such a pleading falls outside the 
+reach of § 2244(b)’s restrictions against second or succes- 
+sive inabeas applications. But because petitioner’s pleading 
+was, but for its title, the practical equivalent of a habeas 
+application, relying on a new law to reassert habeas 
+claims, the Sixth Circuit was correct to construe, and then 
+deny, it as a second or successive habeas corpus applica- 
+tion under § 2244(b). 
+
+
+Fed.R.Civ.P. 60(b) was originally adopted to provide “a 
+new system to govern requests to reopen judgments.” 
+United States v. Beggerly, 524 U.S. 38, 43 (1998). The Rule 
+provides that, “[oJn motion and upon such terms as are 
+just,” a court may relieve a party from a final judgment, 
+order or proceeding for the following reasons: . 
+
+
+(1) mistake, inadvertence, surprise, or excus- 
+able neglect; 
+
+
+(2) newly discovered evidence; 
+
+
+(3) fraud, misrepresentation, or other miscon- 
+duct of an adverse party; 
+
+
+(4) the judgment is void; 
+
+
+We athe te ae Bates 
+
+
+PO ae ~~ 
+
+
+Weeden 
+
+
+27 
+
+
+(5) the judgment has been satisfied, released, 
+discharged, or should ao longer have prospective 
+application, or a prior judgment on which it is 
+based has been reversed or vacated; or, 
+
+
+(6) any other reason justifying relief from the 
+operation of the judgment. 
+
+
+These six grounds are mutually exclusive and, despite the 
+“catch-all” nature of Clause (6), it may not be used as a 
+vehicle for circumventing clauses (1) through (5). Liljeberg 
+v. Health Serv’s Acquisition Corp., 486 U.S. 847, 863 and 
+n.11 (1988). Accordingly, a movant seeking relief under 
+Clause (6) — the ground invoked by petitioner — must 
+demonstrate “extraordinary circumstances.” Klapprott uv. 
+United States, 335 U.S. 601, 613 (1949). See generally 12 
+Moore’s Federal Practice § 60.48[1)-[3], pp. 60-166 to -171. 
+
+
+In Slack, 529 U.S. at 489, this Court observed, in 
+dicta, that the Federal Rules of Civil Procedure are appli- 
+cable in habeas proceedings “as a general matter.” At first 
+blush, then, Rule 60(b) would appear to provide a vehicle 
+to habeas petitioners for reopening and relitigating a 
+previously adjudicated habeas petition and thus avoiding 
+the clear intent of Congress in enacting AEDPA. But first 
+blushes usually fade, and this one does as well. 
+
+
+1. The Provisions of Fed.R.Civ.P. 60(b) Are 
+Not Wholly Applicable In Habeas Pro- 
+ceedings. 
+
+
+“(Tlhe Federal Rules of Civil Procedure apply in 
+habeas proceedings only ‘to the extent that the practice in 
+such proceedings is not set forth in statutes of the United 
+States and has heretofore conformed to the practice in civil 
+actions.’” Browder v. Dir., Dep’t of Corrections of IIl., 434 
+
+
+28 
+
+
+U.S. 257, 269 (1978) (quoting Fed.R.Civ.P. 81(a)(2)).” Put 
+another way, where the practice for habeas proceedings is 
+set forth by statute, that practice “takes precedence over 
+the Federal Rules.” Jd., 434 U.S. at 269 n.14. In Pitchess v. 
+Davis, 421 U.S. 482 (1975), for example, this Court held 
+that a new contention raised by a habeas petitioner in a 
+post-judgment motion was subject to the statutory re- 
+quirement that available state remedies be exhausted as a 
+precondition to consideration of a federal habeas petition.” 
+The Court relied upon the provisions of Fed.R.Civ.P. 
+81(a)(2) to reject the petitioner’s argument that the statu- 
+tory exhaustion requirements were inapplicable because 
+he had asserted his claim under Fed.R.Civ.P. 60(b): 
+
+
+Since the exhaustion requirement is statutorily 
+codified, even if Rule 60(b) could be read to apply 
+to this situation it could not alter the statutory 
+command. 
+
+
+Pitchess, 421 U.S. at 489. 
+
+
+Conversely, of course, where a federal statute does not 
+provide for the practice or procedure involved in a habeas 
+proceeding, the Federal Rules will govern. Three years 
+after its decision in Pitchess, this Court held, in Browder, 
+434 U.S. 257, that the time limits for filing motions to 
+reconsider under Fed.R.Civ.P. 52(b) and 59 applied in 
+habeas cases. While acknowledging that “some aspects of 
+the Federal Rules of Civil Procedure may be inappropriate 
+
+
+“ Rule 11 of the Rules Governing Section 2254 Proceedings in the 
+United States District Courts likewise provides that the Federal Rules 
+of Civil Procedure may be applied in habeas proceedings “to the extent 
+that they are not inconsistent with these rules.” 
+
+
+* See 28 U.S.C. § 2254(b) and (c) (1994). 
+
+
+RP BEL Oe Co WECM 
+
+
+29 
+
+
+for habeas proceedings,” the Court found that no habeas 
+statute addressed the timeliness of a motion to reconsider, 
+that the time limits set forth in the Civil Rules were “well- 
+suited” to the special character of habeas proceedings, and 
+tha‘ anplication of those time limits would be “thoroughly 
+consistent with the spirit of the habeas corpus statutes.” 
+Id., 434 U.S. at 271. 
+
+
+Petitioner’s case presents a far different scenario than 
+that involved in Browder. The practice for relitigating a 
+previously adjudicated habeas petition is comprehensively 
+set forth in a federal statute, namely, 28 U.S.C. § 2244(b). 
+In § 2244(b), Congress specifically limited such renewed 
+litigation by a habeas petitioner to that based either on 
+new evidence or new law, and it established specific and 
+restrictive standards to govern such litigation.” Where a 
+petitioner seeks to litigate a new claim, /.e., one “that was 
+not presented in a prior application,” he must show either 
+(1) that the claim relies on a new rule of constitutional 
+law, made retroactive by this Court, or (2) that the claim 
+relies on newly discovered evidence that would establish, 
+by clear and convincing evidence, that the petitioner would 
+not have been found guilty. 28 U.S.C. § 2244(b)(2). Other- 
+wise, the claim shall be dismissed. Jd. Where, as here, a 
+petitioner seeks to relitigate a prior claim, i.e., one “that 
+was presented in a prior application,” he may not. The 
+
+
+* Petitioner's reliance on instances in which the government has 
+utilized Rule 60(b) in a habeas case is misplaced. The government, of 
+course, is not pursuing habeas relief and therefore is not seeking to 
+circumvent § 2244(b)’s restrictions against a new “habeas corpus 
+application.” 
+
+
+30 
+
+
+Statute requires that it be dismissed. 28 U.S.C. 
+§ 2244(b)(1). 
+
+
+Moreover, to the extent that a direct conflict exists 
+between the provisions of 28 U.S.C. § 2244(b) and 
+Fed.R.Civ.P. 60(b), the two cannot mutually coexist. Rule 
+60(b\(2), while not at issue in this case, represents the 
+most obvious example of inconsistencies between the two 
+laws. That clause of the Rule provides, on its face, for 
+relief from judgment on the basis of newly discovered 
+evidence. But this rule runs headlong into § 2244(b)(2)’s 
+provisions for the litigation of new claims relying on newly 
+discovered evidence. Furthermore, Rule 60(b)\(2) runs 
+completely counter to § 2244(b)(1)’s provisions, which 
+prohibit any reliance by a petitioner on newly discovered 
+evidence to relitigate previously presented claims. 
+
+
+Rule 60(b)(6) — the ground on which petitioner based 
+his Rule 60(b) motion — likewise conflicts with § 2244(b) 
+insofar as the Rule provides for relief from judgment on 
+the basis of new law. While “[iJntervening developments in 
+the law by themselves rarely constitute the extraordinary 
+circumstances required for relief under Rule 60(b)(6),” 
+Agostini v. Felton, 521 U.S. 203, 239 (1997), changes in 
+decisional law, when combined with other factors, might 
+warrant relief, as may unexpected changes in statutory 
+law. See 12 Moore’s Federal Practice, § 60.48[5)[b]-[d], pp. 
+60-181 to -184, and cases cited. Indeed, petitioner’s 60(b) 
+motion, which relies on the intervening promulgation of 
+Tenn.Sup.Ct.R. 39, seeks to invoke relief under Clause (6) 
+on just such a basis. But again, any ability of a petitioner 
+to rely on new law as the basis for a motion under Rule 
+60(b\(6) conflicts directly with § 2244(b)(2), which restricts 
+litigation of new claims to those relying on new rules of 
+constitutional law that have been made retroactive. 
+
+
+Ne Ree en Mis Soe ( 
+
+
+POS ONL EAA WED Fe ee 
+
+
+ples 
+
+
+31 
+
+
+Similarly, because § 2244(b)(1)’s uncompromising terms 
+prohibit any reliance by a petitioner on new law to reliti- 
+gate previously presented claims, Rule 60(b)(6) also 
+creates a conflict with this provision of the habeas stat- 
+ute.” This inconsistency between the statute and the Civil 
+Rule demands that Rule 60(b) give way and that § 2244(b) 
+take precedence. Cf. Browder, 434 U.S. at 271. Accordingly, 
+where a habeas petitioner utilizes Rule 60(b) to raise new 
+claims, new evidence or new law, his motion is properly 
+construed as a second or successive habeas petition subject 
+to § 2244(b)’s restrictions. A contrary conclusion would 
+allow Rule 60(b) to “alter the statutory command.” 
+Pitchess, 421 U.S. at 489. 
+
+
+Deference to the primacy of § 2244(b)’s provisions in 
+the context of post-judgment habeas litigation makes 
+perfect sense from a policy standpoint. Rule 60(b) repre- 
+sents a “balancing of [the] need for justice against [the] 
+value of finality of judgments,” 12 Moore’s Federal Practice 
+§ 60.02[2], p. 60-21 n.6,” but it is necessarily a balance 
+that has been struck in the context of a typical civil case. 
+By contrast, habeas corpus review, as previously dis- 
+cussed, involves other costs and benefits that do not 
+present themselves in the typical civil case. See Coleman, 
+
+
+* To the extent that new law may also be relied upon as the basis 
+for a motion under Rule 60(b)(1) alleging “mistake, inadvertence, 
+surprise or excusable neglect” (see Morris v. Adams-Millis Corp., 758 
+F.2d 1352, 1358-59 (10th Cir. 1985) and cases cited; 12 Moore's Federal 
+Practice § 60.41([4)}{b], pp. 60-102 to -113), the same conflict exists 
+between the Civil Rule and the Habeas Statute. - 
+
+- Indus., Inc. v. Hobgood, 280 F.3d 262, 271 (3d Cir. 
+2002), poioney cert. filed, 71 U.S.L.W. 3093 (U.S. July 2, 2002) (No. 
+
+
+02-54). 
+
+
+32 
+
+
+501 U.S. at 747-48; see also Browder, 434 U.S. at 269 
+ee in recognition of the differences between 
+general civil litigation and habeas corpus proceedings.” 
+Fed.R.Civ.P. 81(a)(2) limits application a - Civil wl 
+where the practice is set forth by statute). As discussed 
+above, § 2244(b), particularly after its amendment by 
+AEDPA, represents Congress’ view- of the appropriate 
+balance to be struck in the habeas context when it comes 
+to allowing any additional litigation after a habeas peti- 
+tion has been decided. This balance ought not be upset by 
+overlaying and frustrating the statute's provisions with 
+— that have been established with other interests in 
+mind. 
+
+
+2. Subjecting Rule 60(b) Motions That 
+Raise New Claims, New Evidence or 
+New Law To the Restrictions Against 
+Second or Successive Habeas Petitions 
+a yeep With Prior Decisions of 
+
+is Court and the Vast 
+Circuit Courts. Ditiedicitin 
+
+
+This Court has previously expressed its unanimous 
+support for the proposition that a second or successive 
+habeas petition may not be filed under the guise of some 
+other post-judgment pleading. In Calderon v. Thompson 
+523 U.S. 538 (1998), a case involving a habeas petitioner's 
+motion in the Ninth Circuit Court of Appeals to recall the 
+mandate on the basis of new evidence, the Court deter- 
+mined that a habeas petitioner's motion to recall the 
+mandate on the basis of the merits of the underlying 
+decision can be regarded as a second or successive applica- 
+tion for purposes of § 2244(b). “Otherwise, petitioners 
+could evade the bar against relitigation of claims 
+
+
+33 
+
+
+presented in a prior application, § 2244(b)(1), or the bar 
+against litigation of claims not presented in a prior appli- 
+cation, § 2244(b)(2).” Id., 523 U.S. at 553.” See Gomez v. 
+U.S. Dist. Ct. N.D. Calif., 503 U.S. 653 (1992) (state 
+prisoner’s use of 42 U.S.C. § 1983 action to raise new claim 
+challenging method of execution was “an obvious attempt 
+to avoid” the bar against successive claims). 
+
+
+While the four-member minority in Calderon dis- 
+agreed regarding the appropriate standard that should 
+govern review of a circuit court's recall of its mandate, 
+even the dissenting opinion admits that “[a]ll would agree 
+_.. that the sua sponte recall of mandates could not be 
+condoned as a mechanism to frustrate the limitations on 
+second and successive habeas petitions.” Calderon, 523 
+U.S. at 569 (Souter, J., dissenting). In a footnote immedi- 
+ately following this statement, the dissent observes: 
+
+
+The Ninth Circuit itself seems to recognize that a 
+motion to recall the mandate filed by a petitioner 
+subsequent to a previous request for federal ha- 
+beas relief is analogous to a second or successive 
+petition that is subject to the constraints of the 
+Antiterrorism and Effective Death Penalty Act of 
+
+
+1996 (“AEDPA”). 
+
+
+Id., 523 U.S. at 569 n.1 (citing Nevius v. Sumner, 105 F.3d 
+453, 461 (9th Cir. 1996)). 
+
+
+* The majority went on to conclude, however, that § 2244(b/'s 
+restrictions did not apply because the mandate had been recalled on the 
+exclusive basis of the petitioner's first habeas petition Nevertheless, 
+the majority did hold that a sua sponte recall of the mandate under 
+such circumstances must be done in a manner consistent with the 
+objects of the statute. Calderon, 523 US. at 554. 
+
+
+34 
+
+
+The Ninth Circuit is far from alone in this view. 
+“Appellate courts agree that a post-judgment motion 
+under Fed.R.Civ.P. 60(b) in the district court, or the 
+equivalent motion in the court of appeals — which is to say, 
+a motion to recall the mandate — is a ‘second or successive’ 
+application for purposes of § 2244(b).” Burris v. Parke, 130 
+F.3d 782, 783 (7th Cir. 1997) (citing Ruiz v. Norris, 104 
+F.3d 163 (8th Cir. 1997); Felker v. Turpin, 101 F.3d 657 
+(11th Cir. 1996); Mathenia v. Delo, 99 F.3d 1476 (8th Cir. 
+1996)). See United States v. Rich, 141 F.3d 550, 551 (5th 
+Cir. 1998) (“there is a trend among circuit courts to look 
+beyond the formal title affixed to a motion if the motion is 
+the functional equivalent of a motion under § 2255”). 
+Indeed, every circuit court to have addressed this issue - 
+save one — has ruled that a post-judgment motion in a 
+habeas case, whether that motion be a Rule 60(b) motion 
+in the district court or a motion to remand or to recall the 
+mandate in the court of appeals, that raises new claims, 
+new evidence or new law is properly treated or construed 
+as the functional equivalent of a second or successive 
+habeas corpus petition.” 
+
+
+* See Thompson v. Nixon, 272 F.3d 1098, 1100 (8th Cir. 2001), cert. 
+dismissed, 122 S.Ct. 1988 (2002) (motion to recal] mandate: new law): 
+Gray-Bey v. United States, 209 F.3d 986, 988 (7th Cir. 2000) (motion to 
+recal] mandate; new claims); Thompson v. Calderon, 151 F.3d 918, 921 
+(9th Cir. 1998) (en banc) (60(b) motion; new evidence); Lopez v. Douglas, 
+141 F.3d 974, 975 (10th Cir. 1998) (60(b) motion; new law): Rich. 141 
+F.3d at 552 (60(b) motion; new law); Burris, 130 F.3d at 783 (motion to 
+recall mandate; new evidence); Felker, 101 F.3d at 660 (60(b) motion: 
+new evidence); McQueen v. Scroggy, 99 F.3d 1302, 1335 (6th Cir. 1996) 
+(60(b) motion; new claims); Hunt v. Nuth, 57 F.3d 1327, 1339 (4th Cir 
+1995) (60(b) motion; new claims); Guinan v. Delo, 5 F.3d 313, 317 (8th 
+Cir. 1993) (60(b) motion; new evidence); Kyles v. Whitley, 5 F.3d 806, 
+808 (5th Cir. 1993), rev'd on other grounds, 514 U.S. 419 (1995) (60(b) 
+
+(Contanued on following page) 
+
+
+35 
+
+
+These decisions are based on the same rationale 
+endorsed by all nine members of the Court in Calderon - 
+that a habeas petitioner should not be allowed to avoid the 
+restrictions against second or successive petitions. “Oth- 
+erwise the statute would be ineffectual. Instead of meeting 
+the requirements of § 2244(b), the petitioner would restyle 
+his request as a motion for reconsideration in the initial 
+collateral attack and proceed as if the AEDPA did not 
+exist.” Burris, 130 F.3d at 783. 
+
+
+Rule 60(b) cannot be used to circumvent re- 
+straints on successive habeas petitions. That was 
+true before the [AEDPA] was enacted, and it is 
+equally true, if not more so, under the new act. 
+
+
+Felker v. Turpin, 101 F.3d at 661. See Bonin v. Vasquez, 
+999 F.2d 425, 426 (9th Cir. 1993) (“a Rule 60(b) motion 
+following the entry of final judgment in a habeas case 
+raises policy concerns similar to those implicated by a 
+second petition”).” 
+
+
+motion; new claims); Clark v. Lewis, 1 F.3d 814, 825-26 (9th Cir. 1993) 
+(60(b) motion; new claim); Williams v. Whitley, 994 F.2d 226, 230 and 
+n.2 (5th Cir. 1993) (60(b) motion; new law); Blair v. Armontrout, 976 
+F2d 1130, 1134 (8th Cir. 1992) (60(b) motion; new claims), Jones 
+Murray, 976 F.2d 169, 173 (4th Cir 1992) (60(b) motion; new law), 
+Smith v. Armontrout, 888 F.2d 530, 540 (8th Cir 1989) ‘motion tw 
+remand: new claims); Lindsey v. Thigpen, 875 F.2d 1509, 1515 (11th Cir 
+1989) (60(b) motion and motion to recal] mandate; new law and new 
+claims). See also Landano v. Rafferty, 897 F.2d 661, 668 and n.10 (3d 
+Cir. 1990) (evaluating 60(b) motion as habeas petition to require 
+exhaustion and viewing reopening of habeas petition by this method 
+“problematic”). 
+
+” Rodriguez v. Mitchell, 252 F.3d 191, 198 (2d Cir 2001) stands 
+alone in the minority view But Rodriguez two rationales are not 
+persuasive. The first - that, unlike a habeas petition, a Rule 60(b 
+
+(Contanued on following page 
+
+
+36 
+
+
+3. Petitioner’s Rule 60(b) Motion Raises 
+New Law to Reassert Previously Pre- 
+sented Claims For Habeas Corpus Re- 
+lief. 
+
+
+Petitioner’s Rule 60(b) motion reintroduces several of 
+the habeas claims that were presented in his original 
+petition; it also raises and relies upon Tenn.Sup.Ct.R. 39 
+as support for doing so. It cannot be seriously disputed 
+that Rule 39 is a new law. The rule was promulgated by 
+the Tennessee Supreme Court on June 28, 2001; it did not 
+even exist at the time that petitioner's original petition 
+was filed or decided. Petitioner himself has admitted that 
+the promulgation of Rule 39 “made [the] Rule 60(b) motion 
+possible,” (J.A. 184 n.2); prior to the Rule’s promulgation, 
+petitioner had no basis for seeking to renew these claims. 
+
+
+motion “seeks only to vacate the federal! court judgment dismissing the 
+habeas petition” and thus “merely openis) the way for further 
+proceedings seeking ultimately to vacate the conviction,” id., 252 F.3d 
+at 198 — begs th: question. Even if a Rule 60(b) motion “merely .. 
+open(s) the way” ‘0 a renewed challenge to the state court conviction, it 
+is the very “way” that the restrictions against successive petitions were 
+intended to close. The second — that “the grounds asserted in support of 
+the motion under Rule 60(b) may well have nothing to do with the 
+alleged violations of federal mghts ... asserted as a basis for the 
+habeas,” id., 252 F.3d at 199 — ignores the fact that the habeas judg- 
+ment itself “may wel] have nothing to do with the alleged violations of 
+federal nghts asserted as a basis for habeas,” but is nonetheless a 
+final, conclusive judgment. It renders any new effort to relitigate it 
+“second or successive.” See Williams, 994 F.2d at 230 and n.2 (assertion 
+of new law to challenge dena] under Teague non-retroactivtty rule “best 
+viewed as yet another habeas petition”); Bolder v. Armontrout, 983 F.2d 
+98, 99 (8th Cir 1992) (assertion of new argument for cause to excuse 
+procedura! bar treated as “the equivalent of a second petition”). 
+
+
+37 
+
+
+Nonetheless, petitioner argues that Rule 39 is not a 
+new law at all; he contends that Rule 39 serves merely to 
+“clarify” existing law in Tennessee regarding what steps a 
+prisoner must take in state court in order to exhaust 
+available remedies for purposes of federal habeas review. 
+But even if petitioner were correct on this point — and he 
+most assuredly is not™ — his point is irrelevant. The only 
+relevant inquiry is whether some new matter — a new law, 
+new evidence, or a new claim — has been presented to the 
+court for consideration that was not previously before the 
+court when it entertained the original habeas application. 
+As this Court discussed in Calderon, 523 U.S. at 554, the 
+
+
+* There is no evidence to support petitioner's contention that, pror 
+to the promulgation of Rule 39, discretionary renew by the Tennessee 
+Supreme Court was in any way unavailable as part of the regular 
+appellate process or that a state prisoner did not need to pursue that 
+remedy in order to exhaust available state remedies for purposes of 
+federal habeas review. See Argument, Sec. II.B., infra. Indeed, even 
+before this Court's decision in O'Sullivan v. Boerckel, 526 U.S. 838 
+(1999). the rule in the Sixth Circuit was clearly to the contrary. See 
+Silverburg v. Evitts, 993 F.2d 124, 126 (6th Cir 1993). Petitioner, of 
+course, chose not to appeal the procedural! default rulings of the district 
+court - a choice that not only belies his current assertion that Rule 39 
+“reflects existing law” (Pet. Br 35), but that also warrants a conclusion 
+that petitioner has abused the writ. See Dugger v. Johnson, 485 US 
+945 (1988) (O’Connor, J., dissenting from denial of motion to vacate stay 
+of execution) (“the State is clearly correct to argue that the wnt of 
+habeas corpus is abused when a claim is raised in one petition, aban- 
+doned on appeal, and then raised again in a successive petition 
+
+
+38 
+
+
+crucial question is whether new matters have been consid- 
+ered, or presented for consideration, by the court. Noting 
+that the Ninth Circuit had been “specific in reciting that it 
+acted on the exclusive basis of [the petitioner’s) first 
+federal habeas petition,” and that this recitation “[was] not 
+disproved by consideration of matters presented in a later 
+filing,” id. (emphasis added), this Court ruled that the 
+Ninth Circuit’s recall of the mandate “did not contravene 
+the letter of AEDPA.” Jd. The Court pointed out, however, 
+that “had the court considered claims or evidence pre- 
+sented in [the petitioner’s] later filings, its action would 
+have been based on a successive application, and so would 
+be subject to § 2244(b).” Jd.” 
+
+
+The en banc court based its decision only on the 
+claims and evidence presented in Thompson's 
+first petition for federal habeas relief. Had it con- 
+sidered the additional evidence or claims presented 
+in Thompson's motion to recall the mandate, of 
+
+
+* Petitioner has previously focused on the Court's reference here to 
+a habeas court's consideration of “claims or evidence” in later filings, to 
+the exclusion of the Court's reference to “consideration of matters 
+presented in a later filing” (emphasis added), and Suggested that the 
+Court’s ruling in Calderon was limited to post-judgment motions 
+raising new claims or new evidence. But the Court's focus in Calderon 
+was clearly on whether the Ninth Circuit's recall of the mandate was 
+based exclusively on matters presented in the first habeas application, 
+as opposed to a second, i.e., the recal] motion. The Court made no 
+reference to new law simply because no new law was raised by Thomp- 
+son's recall motion. Indeed, there is no logical justification for treating a 
+post-judgment motion raising new claims or new evidence as a succes- 
+sive habeas application, but not so treating a like motion that renews 
+the request for habeas relief by raising a new law. The latter effort is 
+
+
+just as much the “second bite of the apple” that Congress sought to 
+prohibit. 
+
+
+39 
+
+
+course, its decision would have been subject to 
+§ 2244(b). 
+
+
+523 U.S. at 562. See Burris, 130 F.3d at 783-84, 785 
+(noting distinction between “readjudicat{ing] old argu- 
+ments” and “determin[ing] the effect of new evidence and 
+arguments”; “reassessing old theories in light of new 
+evidence” is a step forbidden by § 2244(b)). Thus, where a 
+Rule 60(b) motion relies on new law to assert or reassert 
+claims for habeas relief, the question is only whether that 
+law was presented as part of petitioner’s original petition. 
+
+
+Petitioner’s argument that Rule 39 is not “new” 
+addresses a different question. He is suggesting that Rule 
+39 does not announce “a new rule of law,” as under the 
+Teague” retroactivity analysis or under the analysis 
+required by 28 U.S.C. § 2244(b)(2). See Tyler v. Cain, 533 
+U.S. 656, 662 (2001). But this argument is beside the 
+point, because it does not address, much less alter, the fact 
+that petitioner did not present Rule 39 as part of his 
+original petition.” Indeed, his effort to resurrect claims in 
+that petition “rests upon a state procedural rule, adopted 
+three years after the district court’s judgment” (J.A. 36) 
+(emphasis added), and thus constitutes a new habeas 
+
+
+application. 
+
+
+" 489 U.S. 288 
+
+” See Gray-Bey, 209 F.3d at 989 (post-judgment motion relying on 
+new law treated as successive petition, but authorization to file same 
+denied because the new law “did not announce a new rule of constitu- 
+tional law”); Rich, 141 F.3d at 553 (same); Ruiz, 104 F.3d at 165 (same). 
+
+
+40 
+
+
+Il. THE COURT OF APPEALS DID NOT ABUSE 
+ITS DISCRETION IN REFUSING TO WITH- 
+HOLD THE MANDATE, MODIFY ITS JUDG- 
+MENT, OR REMAND THE CASE TO THE 
+DISTRICT COURT. 
+
+
+Petitioner contends that, regardless whether the court 
+of appeals erred in its treatment of his Rule 60(b) motion 
+as a second or successive habeas petition, it abused its 
+discretion in denying his “Motion to Withhold the Mandate 
+apd Grant Rehearing En Banc or Remand for Further 
+Proceedings.” The argument is without merit for a number 
+of reasons. 
+
+
+A. Petitioner’s Motion In the Court of Appeals 
+Was the Equivalent of a Request to Recall 
+the Mandate, Which Constituted a “Second 
+or Successive” Application Under 28 U.S.C. 
+§ 2244(b). 
+
+
+Following the disposition of the habeas case by the 
+three-judge panel on September 13, 2000, the court of 
+appeals denied rehearing and a suggestion for rehearing 
+en banc on December 22, 2000, but stayed the issuance of 
+the mandate pending a petition for a writ of certiorari. 
+This Court denied certiorari on October 9, 2001. Peti- 
+tioner’s motion, requesting that the mandate be withheld 
+and en banc rehearing granted or, in the alternative, that 
+the case be remanded to the district court for further 
+proceedings, was filed with the court of appeals the next 
+day. A copy of this Court’s order denying certiorari was 
+filed with the clerk of the court of appeals on October 16. 
+
+
+Rule 41(d)(2\D), Federal Rules of Appellate Proce- 
+dure, provides that “[t]he court of appeals must issue the 
+mandate immediately when a copy of a Supreme Court 
+
+
+41 
+
+
+order denying the petition for a writ of certiorari is filed.” 
+Thus, upon the filing of a copy of this Court's order on 
+October 16, the issuance of the mandate by the court of 
+appeals was a ministerial act that it was compelled to 
+perform under Rule 41(d)(2D). See also 16A C. Wright, A. 
+Miller, & E. Cooper, Federal Practice and Procedure 
+§ 3987.1, p. 744 (3d ed. 1999) (If the Supreme Court denies 
+certiorari, “the stay is automatically dissolved and the rule 
+directs that the court of appeals ‘must issue the mandate 
+immediately when a copy of a Supreme Court order 
+denying the petition for a writ of certiorari is filed” 
+Therefore, to stay the mandate following denial of certio- 
+rari is an extraordinary act tantamount to a decision by a 
+court of appeals to recall the mandate. Adamson v. Lewis, 
+955 F.2d 614, 619 (9th Cir. 1992) ‘en banc); Bryant v. Ford 
+Motor Co., 886 F.2d 1526, 1529 (9th Cir. 1989 
+
+
+While the courts of appeals are recognized to possess 
+an inherent power to recall their mandates, subject to 
+review for an abuse of discretion, the power can be exer- 
+cised only in “extraordinary circumstances.” Calderon, 523 
+U.S. at 549-50. “The sparing use of the power demon- 
+strates it is one of last resort, to be held in reserve against 
+grave, unforeseen contingencies.” Jd. at 550. A court of 
+appeals abuses its discretion when it recalls its mandate 
+to revisit the merits of an earlier decision denying habeas 
+corpus relief “unless it acts to avoid a miscarnage of 
+justice as defined by [this Court’s) habeas corpus jumspru- 
+dence.” Jd. at 558. “‘[T]he miscarriage of justice exception 
+is concerned with actual as compared to legal innocence.'” 
+Id. at 559 (quoting Sawyer v. Whitley, 505 U.S. 333, 339 
+(1992)). Thus, if the petitioner asserts his actual innocence 
+of the underlying crime, “he must show ‘it is more likely 
+
+
+42 
+
+
+than not that no reasonable juror would have convicted 
+him in light of the new evidence... .’” Jd. at 559 (quoting 
+Schlup v. Delo, 513 U.S. 298, 327 (1995)). If the petitioner 
+challenges his death sentence, “he must show by clear and 
+convincing evidence’ that no reasonable juror would have 
+found him eligible for the death penalty in light of the new 
+evidence.” Jd. at 559-60 (quoting Sawyer, 505 U.S. at 348). 
+
+
+As previously demonstrated in Argument I, a motion 
+to recall the mandate can be regarded as a second or 
+successive applicatior. for purposes of 28 U.S.C. § 2244(b). 
+Calderon, 523 U.S. at 553; Burris, 130 F.3d at 784 (“a 
+motion filed in the court of appeals after the time for 
+rehearing has expired (or rehearing has been sought and 
+denied) may be granted only if it meets the substantive 
+criteria of § 2244(b\2)”). Indeed, petitioner sought to 
+achieve the same thing by way of his motion filed in the 
+court of appeals as he sought by way of his Rule 60(b) 
+motion filed in the district court: the fifth ground in 
+petitioner’s motion in the Sixth Circuit also sought review, 
+in light of the adoption of the Tennessee Supreme Court's 
+Rule 39, of the district court’s determination that certain 
+prosecutorial misconduct claims were procedurally de- 
+faulted. Although the procedurally defaulted claims were 
+not part of the court of appeals’ judgment,” petitioner’s 
+motion bore all of the hallmarks of « motion for leave to 
+file a second or successive petition im the district court 
+under § 2244(b\3XB). And, for the reasons stated in Argu- 
+ment 1A1, supra, the district court's procedural default 
+
+
+” The court of appeals noted that “the decision of this court on 
+appeal from the judgment of the district court did not rest upon any 
+procedural default.” (J.A. 39) 
+
+
+43 
+
+
+ruling was a “merits” determination. Therefore, the 
+assertion that the district court’s resolution of the prosecu- 
+torial misconduct claims was incorrect was also on the 
+basis of the “merits.” Section 2244(b)(1) is clear that “[a) 
+claim presented in a second or successive habeas corpus 
+application under section 2254 that was presented in a 
+prior application shall be dismissed.” Because petitioner's 
+motion constituted a second or successive application 
+under § 2244(b)(1), it was required to be dismissed. It 
+necessarily follows that the court of appeals’ denial of the 
+motion could not have been an abuse of discretion. 
+
+
+But even if petitioner’s motion was not subject to 
+§ 2244(b), petitioner cannot demonstrate an abuse of 
+discretion by the court of appeals in refusing to recall its 
+mandate. The premise upon which Calderon rests is the 
+State’s interest in finality. This Court began its analysis in 
+Calderon by stressing the extraordinary nature of the act 
+of recalling the mandate “[iJn light of the ‘profound inter- 
+est in repose’ attaching to the mandate of a court of ap- 
+peals.” Calderon, 523 U.S. at 549-50 (quoting 16 C. 
+Wright, A. Miller, & E. Cooper, Federal Practice and 
+Procedure § 3938, p. 712 (2d ed. 1996)). Citing several 
+examples of the Court’s imposition of significant limits on 
+the discretion of federal courts to grant habeas relief, 
+Calderon, 523 U.S. at 554-55, the Court observed that 
+“[t]hese limits reflect our enduring respect for ‘the State's 
+interest in the finality of convictions that have survived 
+direct review within the state court system,” id. at 555 
+(quoting Brecht v. Abrahamson, 507 U.S. 619, 635 (1993)); 
+and that “(finality is essential to both the retributive and 
+the deterrent functions of criminal law,” “enhances the 
+quality of judging,” and “serves as well to preserve the 
+federal balance.” Calderon, 523 U.S. at 555. Focusing on a 
+
+
+44 
+
+
+federal court of appeals’ mandate, the Court recognized 
+that 
+
+
+[a] State’s interests in finality are compelling 
+when a federal court of appeals issues a mandate 
+denying federal habeas relief. At that point, hav- 
+ing in all likelihood borne for years “the signifi- 
+cant costs of federal habeas review,” the State is 
+entitled to the assurance of finality. When 
+lengthy federal proceedings have run their 
+course and a mandate denying relief has issued, 
+finality acquires an added moral dimension. Only 
+with an assurance of real finality can the State 
+execute its moral judgment in a case. Only with 
+real finality can the victims of crime move for- 
+ward knowing the moral judgment will be car- 
+ried out. To unsettle these expectations is to 
+inflict a profound injury to the “powerful and le- 
+gitimate interest in punishing the guilty,” an in- 
+terest shared by the State and the victims of 
+crime alike. 
+
+
+Id. at 556 (internal citations omitted). In cases where a 
+court of appeals recalls its mandate to revisit the merits of 
+its earlier decision denying habeas relief, “the State's 
+interests in finality are all but paramount, without regard 
+to whether the court of appeals predicates the recall on a 
+procedural misunderstanding or some other irregularity 
+occurring prior to its decision.” Jd. at 557. Because the 
+prisoner has already had extensive review of his claims, 
+absent a strong showing of actual innocence “the State’s 
+interests in actual finality outweigh the prisoner’s interest 
+in obtaining yet another opportunity for review.” Jd. 
+
+
+In this case, the court of appeals declined to recall its 
+mandate. A decision refusing to recall a mandate fosters, 
+rather than frustrates, the State’s “all but paramount” 
+
+
+45 
+
+
+interest in finality. Where a court of appeals refuses to 
+recall its mandate, there has been no abuse of discretion 
+under Calderon’s principles. Petitioner cannot demon- 
+strate an abuse of discretion by the court of appeals in 
+denying his motion. 
+
+
+Furthermore, even if subjected to Calderon’s abuse of 
+discretion test, the court of appeals’ refusal to recall the 
+mandate was not an abuse of discretion. In requesting 
+that the mandate be withheld, petitioner relied primarily 
+on an intervening procedural rule adopted by the Tennes- 
+see Supreme Court on the exhaustion of state remedies, 
+allegedly demonstrating that the district court had erred 
+in finding his prosecutorial misconduct claims proce- 
+durally defaulted. (J.A. 153) This ground was legal, not 
+factual, and, therefore, plainly insufficient to justify a 
+recall of the mandate under Calderon’s “actual innocence” 
+standard.” Calderon, 523 U.S. at 559 (“the miscarriage of 
+justice exception is concerned with actual as compared to 
+legal innocerce”) (quoting Sawyer, 505 U.S. at 339). 
+
+
+B. The Court of Appeals’ Denial of the Motion 
+Was Not Otherwise An Abuse of Discretion. 
+
+
+But even if petitioner’s motion is viewed simply as an 
+ordinary motion — and not a motion to recall the mandate 
+
+
+“ The motion’s other four grounds, asserting error in the panel's 
+disposition of the claim of ineffective assistance of counsel at the 
+sentencing phase, based upon alleged conflicts between the panel 
+decision and certain decisions of this Court, alleged conflicting decisions 
+of the Sixth Circuit, and perceived inconsistencies in the State's 
+arguments made in the court of appeals, were likewise legal, not 
+factual. 
+
+
+46 
+
+
+and a second or successive application under § 2244(b) - 
+the court of appeals did not abuse its discretion in denying 
+it. Contrary to petitioner’s assertions, the court of appeals 
+was not “obliged to give effect to” Rule 39. 
+
+
+In the first place, petitioner clearly waived his chal- 
+lenge to the district court’s procedural default ruling on 
+his prosecutorial misconduct claims when he did not 
+appeal the issue. He candidly admitted that he did not 
+challenge the district court’s procedural default determi- 
+nations, “principally because he had prevailed in the 
+district court, and also because substantial page limits 
+constrained the number of points he could raise.” (J.A. 
+155) Under prevailing Sixth Circuit precedent, by failing 
+to contest the district court’s denial of the prosecutorial 
+misconduct claims for procedural default, petitioner 
+' waived his right to appellate review of the claims. See 
+White Consol. Indus., Inc. v. Westinghouse Elec. Corp., 179 
+F.3d 403, 407-408 (6th Cir. 1999). See also Fed.R.App.P. 
+28(a) (requiring that an appellant's brief include “a state- 
+ment of the issues presented for review” and an “argu- 
+ment” containing “appellant’s contentions and the reasons 
+for them... .”). Indeed, in denying the motion, the court of 
+appeals clearly acknowledged that the issue had never 
+been before the court, remarking that “the decision of this 
+court on appeal from the judgment of the district court did 
+not rest upon any procedural default.” (J.A. 39) 
+
+
+* Petitioner prevailed in the district court only as to the death 
+sentence but not the conviction for first degree murder, and the 
+majority of his prosecutorial misconduct claims arise in connection with 
+the guilt phase of the trial. (J.A. 155) 
+
+
+47 
+
+
+Because petitioner had not even challenged the 
+district court’s procedural default ruling on appeal, and 
+because the issue was raised for the first time in peti- 
+tioner’s motion, the court of appeals cannot be faulted for 
+refusing to grant extraordinary relief.” Petitioner's sweep- 
+ing assertion that “the courts of appeals uniformly recog- 
+nize that the denial of certiorari does not affect their 
+power and duty to modify their judgments to account for 
+intervening legal developments” (Pet. Br. 39) ignores a 
+pertinent fact present in the decisions he cites: the issue 
+was before the court of appeals in the first place. In fact, in 
+all of the cases relied on by petitioner, the intervening 
+legal developments warranting extraordinary relief bore 
+directly on issues raised and thoroughly litigated in the 
+case before the court of appeals.” Here, by contrast, 
+
+
+* See United States v. Barela, 571 F.2d 1108, 1115 (9th Cir. 1978) 
+(Ferguson, J., dissenting) (viewing government's second petition for 
+rehearing as motion to recall mandate, but noting that, since question 
+presented was neither raised in omginal appeal nor on first petition to 
+rehear, “[e}ven viewing the present proceedings as a simple petition for 
+rehearing, we would be justified in declining to consider a question so 
+belatedly raised”). 
+
+
+” See, e.g., Sargent v. Columbia Forest Prod., Inc., 75 F.3d 86, 88- 
+90 (2d Cir. 1996) (after affirming dismissal of retaliatory discharge 
+claim based on court of appeals’ interpretation of state law, mandate 
+recalled to revisit issue following inconsistent decision by the state's 
+supreme court, when appellant “not only made the argument that 
+prevailed” in state supreme court, but “brought to our attention” that 
+case was pending there); First Gibraltar Bank v. Morales, 42 F.3d 895, 
+896-97 (5th Cir 1995) (after accepting appellant's federal preemption 
+argument, court of appeals vacates judgment prior to issuance of 
+mandate when new federal legislation makes clear no preemption of 
+state law); Bryant, 886 F.2d at 1527-30 (after concluding district court 
+lacked subject matter jurmsdiction, court of appeals vacates judgment 
+prior to issuance of mandate when intervening federal legislation 
+modifies jurisdictional requirements); Zipfel v Halliburton Co., 861 
+
+(Contanued on following page) 
+
+
+48 
+
+
+petitioner had never preserved for review the issues he 
+presented in his motion. Petitioner can hardly complain 
+that the court of appeals’ refusal to afford him extraordi- 
+nary relief was an abuse of discretion. 
+
+
+In any event, application of Rule 39 would not have 
+revived petitioner's prosecutorial misconduct claims 
+deemed procedurally defaulted by the district court for 
+petitioner's failure to present them to the Tennessee 
+Supreme Court. In Boerckel, this Court held that a discre- 
+tionary application to a state's highest court is ordinarily 
+an “available” state remedy which must be exhausted 
+under 28 U.S.C. § 2254(b) and (c) but that “there is noth- 
+ing in the exhaustion doctrine requiring federal courts to 
+ignore a state law or rule providing that a given procedure 
+is not available.” 526 U.S. at 847-48 (emphasis added). The 
+fatal flaw in petitioner's reasoning is that Rule 39 does not 
+make discretionary review unavailable in criminal cases. 
+
+
+Rule 39 provides, in pertinent part: 
+
+
+In ali appeals from criminal convictions or post- 
+conviction relief matters from and after July 1, 
+1967, a litigant shall not be required to petition 
+for rehearing or to file an application for permis- 
+s10Nn to appeal to the Supreme Court of Tennessee 
+following an adverse decision of the Court of 
+Criminal Appeals in order to be deemed to have 
+
+
+F.2d 565, 567-68 (9th Cir. 1988) (court of appeals recalls mandate after 
+Supreme Court decision demonstrates court applied wrong analysis to 
+appellant's claims); Alphin v. Henson, 552 F.2d 1033, 1034-36 (4th Cir 
+1977) (court vacates judgment pror to issuance of mandate in light of 
+intervening change in law regarding award of attorneys fees, where 
+“the subject of plaintiff 's claim to attorneys’ fees has been the subject of 
+lLiugation throughout”). 
+
+
+— “ 
+
+
+; 
+
+
+49 
+
+
+exhausted al! available state remedies respecting 
+a claim of error. Rather, when the claim has been 
+presented to the Court of Criminal! Appeals or 
+the Supreme Court, and relief has been denied, 
+the litigant shall be deemed to have exhausted 
+all available state remedies available for that 
+claim. 
+
+
+(emphasis added). This rule is simply a declaration by the 
+Tennessee Supreme Court that, in its view, an application 
+for permission to appeal to that court is unnecessary in 
+order to satisfy § 2254's exhaustion requirement. But 
+nothing in the rule makes discretionary review unavail- 
+able to criminal litigants. Indeed, an application for 
+permission to appeal under Rule 11, Tenn.R.App.P., 
+remains available to all] litigants: “an appeal by permission 
+may be taken from a final decision of the Court of Appeals 
+or the Court of Criminal Appeals to the Supreme Court 
+only on application and in the discretion of the Supreme 
+Court ... .” Rule ll(a), Tenn.R.App.P The Advisory 
+Commission Comment to Rule 11, amended after the 
+adoption of Rule 39, points out that Rule 39 “works no 
+change to Tenn.R.App.P 11 itself.” Moreover, even if Rule 
+39 could be said to have rendered discretionary review 
+under Rule 11 “unavailable” under Boerckel as of the date 
+of its promulgation, it cannot be applied retrospectively. 
+The Tennessee Supreme Court cannot alter the objective 
+historical fact that such review was available in 1995 — the 
+time of petitioner's state post-conviction appeal. See 
+Wenger v. Frank, 266 F.3d 218, 226 (3d Cir. 2001), cert. 
+denied, 122 S.Ct. 1364 (2002). Accordingly, because Rule 
+39 could not resurrect petitioner’s procedurally defaulted 
+prosecutorial misconduct claims, they would have been 
+
+
+50 
+
+
+dead on arriva! in the district court in the event of a 
+remand from the court of appeals 
+
+
+. 
+
+
+CONCLUSION 
+
+
+The judgments of the court of appeals should be 
+affirmed 
+
+
+Respectfully submitted, 
+
+
+PAUL G. SUMMERS 
+Attorney General & Reporter 
+State of Tennessee 
+
+
+MICHAEL E. MOORE 
+Solicitor Genera! 
+
+
+GORDON W. SMITH 
+Associate Solicitor Genera! 
+
+
+JOSEPH F. WHALEN 
+Assistant Attorney Genera! 
+Counsel of Record 
+
+425 Fifth Avenue North 
+Nashville, Tennessee 37202 
+(615) 532-7357 
+
+

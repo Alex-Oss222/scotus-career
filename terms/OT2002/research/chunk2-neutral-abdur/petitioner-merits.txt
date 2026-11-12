@@ -1,0 +1,3458 @@
+FILED 
+/ | Al 10 2 
+(8) 
+No. 01-9094 CLERK 
+IN THE 
+
+
+Supreme Court 
+
+
+of the United States 
+
+
+Abu-Ali Abdur’ Rahman, 
+
+
+Petitioner, 
+Vv. 
+
+
+Ricky Bell, Warden, 
+
+
+Respondent. 
+
+
+On Writ of Certiorari 
+to the United States Court of Appeals for the Sixth Circuit 
+
+
+BRIEF OF PETITIONER ABU-ALI ABDUR’ RAHMAN 
+
+
+Bradley MacLean 
+Stites & Harbison PLLC 
+
+
+Thomas C. Goldstein 
+(Counsel of Record) 
+
+
+Suntrust Center, Suite 1800 Amy Howe 
+
+
+424 Church St. 
+Nashville, TN 37219 
+
+
+Of Counsel: 
+
+James S. Liebman 
+
+435 W. 116th St., Box B-16 
+New York, NY 10027 
+
+
+July 10, 2002 
+
+
+Goldstein & Howe, P.C. 
+4607 Asbury PIl., NW 
+Washington, DC 20016 
+(202) 237-7543 
+
+
+William P. Redick, Jr. 
+P.O. Box 187 
+Whites Creek, TN 37189 
+
+
+CAPITAL CASE 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether the Sixth Circuit erred in holding, in square 
+conflict with decisions of this Court and of other circuits, that 
+every Rule 60(b) Motion constitutes a prohibited “second or 
+successive” habeas petition as a matter of law. 
+
+
+2. Whether a court of appeals abuses its discretion in re- 
+fusing to permit consideration of a vital intervening legal devel- 
+opment when the failure to do so precludes a habeas petitioner 
+from ever receiving any adjudication of his claims on the mer 
+its. 
+
+
+TABLE OF CONTENTS 
+Page 
+QUESTIONS PRESENTED ............:ssssssssssseesssesssessssesnsssneennes i 
+TABLE OF CORTTIIGTD cecccecccncesssccsvscssicescecenscscsaistmesiiaanin ii 
+TABLE OF AUTHORITIES .........:+::scssssessessesesssensssensseeseness iv 
+COIS BEI eccccsenccsereresesccsscicsicrmmnimmammma l 
+FOTAIIT IIE orcccenccvecseeinsonseenmmnecitiniinemmmmmmaa l 
+STATUTE AND RULES INVOLVED.........::::sessessssesseseeseens l 
+STATEMENT OF THE CASE .......:sesessessssessesessssessensenensensens l 
+I. PROCEEDINGS IN THE STATE COURTS. ........:0:00000: l 
+II. INITIAL PROCEEDINGS IN THE FEDERAL 
+COIS .cnccoccssesenoenmisititmn 3 
+Il. PROCEEDINGS RELATING TO TENNES- 
+SEE SUPREME COURT RULE 39 .......cscssssssseeseseeseenes 5 
+SUMMARY OF ARGUMENT......:.:se:sesssssssessssssseensneeneaneneess 8 
+ABTUIIGTIIOE osscccccccsscrcsxsessesesesnssiamiosaumimmama 10 
+
+
+I. THE RULINGS BELOW EQUATING PETI- 
+TIONER’S MOTION FOR RELIEF FROM 
+THE LOWER COURTS’ JUDGMENTS WITH 
+SUCCESSIVE HABEAS APPLICATIONS 
+FORECLOSE FEDERAL REVIEW OF A 
+COMPELLING CASE OF DENIAL OF DUE 
+PROCESS THROUGH DELIBERATE 
+PROSECUTORIAL FALSIFICATION AND 
+SUPPRESSION OF EVIDENCE CRITICAL 
+TO A FAIR SENTENCING DETERMINA- 
+
+
+iil 
+
+
+TABLE OF CONTENTS—Continued 
+
+
+Il. PETITIONER’S REQUESTS FOR A MERITS 
+ADJUDICATION OF HIS PREVIOUS, UN- 
+ADJUDICATED PROSECUTORIAL MIS- 
+
+CONDUCT CLAIMS ARE NOT, AS THE 
+
+SIXTH CIRCUIT ERRONEOUSLY HELD, 
+NONJUSTICIABLE “SECOND OR SUCCES- 
+
+SIVE” HABEAS CORPUS APPLICATIONS ............. 24 
+
+
+Il. PETITIONER IS ENTITLED TO AN ADJU- 
+DICATION OF THE MERITS OF HIS 
+PROSECUTORIAL MISCONDUCT CLAIMG............ 37 
+
+
+A. The Court of Appeals erred in refusing to 
+modify its judgment and remand the case to 
+the district court for further consideration 
+We Gee Bhat OF TOR 39D..........cceccocecceccececcecsescesessees 37 
+
+
+B. Petitioner was entitled to consideration of 
+his now demonstrably exhausted prosecuto- 
+nial misconduct claims under Fed. R. Civ. 
+
+
+CONCLUSION 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+Page(s) 
+Agostini v. Felton, 521 U.S. 203 (1997)..........cc00000+ 41, 45, 48 
+Alphin v. Henson, 552 F.2d 1033 (CA4) (per cu- 
+
+riam), cert. denied, 434 U.S. 823 (1977).........ccccccceeseee 39 
+Baldwin v. Alabama, 472 U.S. 372 (1985)...........c000000008 44, 45 
+Booker v. Singletary, 90 F.3d 440 (CA11 1996)................. 45 
+Bradley v. Richmond Sch. Bd., 416 U.S. 696 (1974) ........... 38 
+Brady v. Maryland, 373 U.S. 83 (1963) ...........sceseeeeeesees 17 
+Browder v. Director, 434 U.S. 257 (1978)..........cccccccseeeeenes 4) 
+Bryant v. Ford Motor Co., 886 F.2d 1526 (CA9 
+
+1989), cert. denied, 493 U.S. 1076 (1990).............0.000: 39 
+Calderon v. Thompson, 523 U.S. 538 (1998)..............-: 33, 38 
+Carey v. Saffold, 70 U.S.L.W. 4558 (June 17, 
+
+SED cenccnecnsectnsunnenmnetanstminiinenminmniente 32, 34, 35, 46 
+Cincinnati Ins. Co. v. Fritzbeyers, 151 F.3d 574 
+
+a 48 
+Coe v. State, 17 S.W.3d 191 (Temn. 1999) ..00.......ccccceeeeeees 48 
+Coleman v. Thompson, 501 U.S. 722 (1991) ..........c-000++ 34, 35 
+Commissioner v. Estate of Bedford, 325 U.S. 283 
+
+GT cccnsenseemeremnmemniemennmenmenenin 38 
+DeWeerth v. Baldinger, 38 F.3d 266 (CA2 1994) ............... 48 
+Elmore v. Henderson, No. 85 Civ. 0579, 1989 U.S. 
+
+Dist. LEXIS 8742 (S.D.N.Y. July 28, 1989)................. 44 
+Engle v. Isaac, 456 U.S. 107 (1982) ...........c.csseseeseseseeeseeenees 36 
+Felker v. Turpin, 101 F.3d 657 (CA11 1996) .............0cc000+ 32 
+First Gibraltar Bank v. Morales, 42 F.3d 895 (CAS 
+
+BE cencessunemmmnemeemmeneiniiinemenes 39 
+First Nat'l Bank of Salem v. Hirsch, 535 F.2d 343 
+
+0) 7 
+Ford v. Wainwright, 477 U.S. 399 (1986)...........c.0ceeseeeeees 28 
+Forman v. United States, 361 U.S. 416 (1960) ...............00: 38 
+Giglio v. United States, 405 U.S. 150 (1971)................. 17, 18 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Giles v. Maryland, 386 U.S. 66 (1967) ........cccccccccccceceeeeeeeees 18 
+Gomez v. United States District Court, 503 U.S. 653 
+Ee ee ee 41 
+Greenawalt v. Stewart, 105 F.3d 1268 (CA9 1997) 
+ee ae 
+Hamm v. City of Rock Hill, 379 U.S. 306 (1964)................ 38 
+Hannah v. Conley, 49 F.3d 1193 (1995) ..0......ccccccccceceseeeeeeee 34 
+High v. Zant, 916 F.2d 1507 (CA11 1990) .0........cccccccccceeees 43 
+Hunt v. Nuth, 57 F.3d 1327 (CA4 1995) .00......ccccccccecceeeeeeeeee 32 
+Immigration and Naturalization Serv. v. St. Cyr, 533 
+Ce 41 
+Jones v. Murray, 976 F.2d 169 (CA4 1992)..0.0...ccccccceceeeeees 43 
+Jones v State, CCA No. 01C01-9402-CR-00079, 
+1995 Tenn. Crim. App. LEXIS 140 (Tenn. 
+8 8 3 
+Kirby Forest Indus. v. United States, 467 U.S. 1 
+a aD 46 
+Klaprott v. United States, 335 U.S. 601 (1949) ....... 31, 40, 46 
+Kyles v. Whitley, 514 U.S. 419 (1995) ......... 17, 19, 21, 23, 24 
+Lairsey v. Advance Abrasives Co., 542 F.2d 928 
+fe Ne 48 
+Liljeberg v. Health Services Acquisition Corp., 486 
+Se I UT niacetiieeinesatiaenieiiceaniiteitiaiaimcenatienmantaiiamaata 41 
+Lindh v. Murphy, 521 U.S. 320°(1997) .....cccccecceseee0e- 9, 27, 28 
+Lonchar v. Thomas, 517 U.S. 314 (1996) .........ccccccccccceeeeeeee 31 
+Lords Landing Village Condo. Council of Unit 
+Owners v. Continental Ins. Co., 520 U.S. 893 
+reer eee 39, 46 
+Manhattan Cable Television, Inc. v. Cabledoctor, 
+Inc., 824 F. Supp. 34 (S.D.N.Y. 1993) .....0....cccccccceeceeee 48 
+Mary Ann Pensiero, Inc. v. Lingle, 847 F.2d 90 
+SUE TIT ricciernienaertpasienenienieticiasatibansnsitcemnaseiatinisuesinipiaiiiats 38 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+Mathenia v. Delo, 99 F.3d 1476 (CA8 1996), cert. 
+
+Gehed, FEB BS. CEE GSU ccsenssccsssessmccsvesssssssmseree: 32 
+Matos v. Portuondo, 33 F. Supp. 2d 317 (S.D.N.Y. 
+
+FIFE ccnnsccntnsnccnsenansnencesipenempsesnapemepemmnimmemmimavsecmessaee 43 
+McGrath v. Potash, 199 F.2d 166 (CADC 1952) ................ 48 
+Miller v. Pate, 386 U.S. 1 (1967) .............ccscccsecseseesseesseesees 17 
+Montalvo v. Putuondo, No. 97 Civ. 3336 (RWS), 
+
+2001 U.S. Dist. LEXIS 10686 (S.D.N.Y. July 
+
+ee 43 
+Mooney v. Holohan, 294 U.S. 103 (1935)..........cc0cccceeeeeeees 17 
+Napue v. Illinois, 360 U.S. 264 (1959)...........ccccccceeeeeeees 17, 18 
+O'Sullivan v. Boerckel, 526 U.S. 838 (1999)....... 5, 26, 35, 46 
+Overbee v. Van Waters & Rogers, 765 F.2d 578 
+
+ee 48 
+Pierce v. Cook & Co., 518 F.2d 720 (CA10 1975) 
+
+EE 48 
+Plaut v. Spendthrift Farm, 514 U.S. 211 (1995) .........c.000000 40 
+Reed v. Ross, 468 U.S. 1 (1984).............scscccsssssssseecsesssssssees 35 
+
+
+Ritter v. Smith, 811 F.2d 1398 (CA11 1987)... ......-..-0+044 
+Robles v. Senkowski, No. 97 Civ. 2798 (MGC), 
+
+
+1999 U.S. Dist. LEXTS 11 (S.D.N.Y. 1999)................. 43 
+Rodriguez v. Mitchell, 252 F.3d 191 (CA2 2001).......... 32, 43 
+Rose v. Lundy, 455 U.S. 509 (1982)...........cccccccescseereeeees 33, 34 
+Ross v. Artuz, 150 F.3d 97 (CA2 1998)............cccccccsesseeeesenees 43 
+Sanders v. United States, 373 U.S. 1 (1963) ........cc.cccceeeeeees 42 
+Sargent v. Columbia Forest Prods., 75 F.3d 86 
+
+a) 39, 48 
+Schlup v. Delo, 513 U.S. 298 (1995)........c.ccceesceeeseeeneees 41, 42 
+Slack v. McDaniel, 529 U.S. 473 (2000)........ 9, 28, 30, 32, 36 
+Smith v. Bennett, 365 U.S. 708 (1961) ...........cccccceeeeeeeceeeees 36 
+
+
+State v. Jones, 789 S.W.2d 545 (Tenn.), cert. de- 
+Me 2 
+
+
+Vill 
+
+
+TABLE OF AUTHORITIES—Coentinued 
+
+
+Page(s) 
+RULES 
+
+ae tails CEPT GPO IIT Aichiveshinnitnieisittneeinteripainnnasiinaaitanlinta passim 
+iil Caio il SP eneesseninncrennnecinemintnianniennesiiniiaiieaaeiiaiialamiaaaai 25 
+Tennessee Rule of Appellate Procedure 11................... passim 
+
+Advisory Cmte. Note, Tennessee Rule of Appellate 
+EEE III? Oilannctrentennsimmentintnemmecmetmaessansinimssnsl passim 
+Tennessee Supreme Court Rule 39 200.0.0.......ccccccccsseseeees passim 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—Continued 
+
+
+Page(s) 
+
+Stewart v. Martinez-Villareal, 523 U.S. 637 (1998) .9, 28, 29, 
+iciatiaaciiaataiaasiatteiasiniasiadiiaiaiaiianepiiemmmnmmmmpansine 31, 32, 33, 34, 49 
+Stringer v. Black, 503 U.S. 222 (1992) .......ccsesseerseeeeenenenes 36 
+Teague v. Lane, 489 U.S. 288 (1989)........cccccerserereererereerees 4] 
+Thomas v. American Home Prods., 519 U.S. 913 
+
+(1996) (per CUTIAID) ...........cccecceeeseeenseneensneseeneeseennenernes 39 
+Thompson v. Calderon, 151 F.3d 918 (CA9 1998)..........+++. 32 
+United States v. Ginsburg, 705 F. Supp. 1310 (N.D. 
+
+BED. 1DBDP oeccccccccnccsccscseccseccscrescscscsesesssosssssosssesossossscsocooees 45 
+United States v. Hernandez, 158 F. Supp. 2d 388 (D. 
+
+Del. 2001).......0.cssscessrereressersserersnssssssssssssssesessssssessesenseees 43 
+United States v. Ohio Power Co., 353 U.S. 98 
+
+(1957) (per CUTIATD) ...........cccereerereereeeesneseneeeeeeneeseeseess 40 
+United States v. Rich, 141 F.3d 550 (CAS 1998).............0+. 32 
+United States v. Schooner Peggy, 5 U.S. (1 Cranch) 
+
+163 (1BO1) ...ccccocecescosrecsecessosorsssccsosscsoossossossossossoosooseoosse 38 
+Vt. Agency of Nat. Res. v. United States ex rel. Stev- 
+
+ens, 529 U.S. 765 (2000)........-ccccccssseeeeceeereesseeenesennees 41 
+Whitmore v. Avery, 179 F.R.D. 252 (D. Neb. 1998).......... 43 
+Zipfel v. Halliburton Co., 861 F.2d 565 (CA9 1988)........... 39 
+
+STATUTES 
+
+28 U.S.C. § 1254(1).......ccccsccsrcsccsscsorsssesserssrssrssnsssrsssssssssssesees l 
+28 U.S.C. § 2241(OM(1)......-c-eccvccssssserserserrsrrsnsssncsessssssessessesnes 9 
+2B U.S.C. § 2244 .ncceccercsccscssscsccsccssscsorescsssrssesssssssssossosees 30, 32 
+28 U.S.C. § 2244(D).......cccccsecccerrserreereeenee 1, 25, 29, 30, 31, 37 
+28 U.S.C. § 2244(D)(1)....ccccceccceecereeeneennes 7, 25, 27, 28, 30, 31 
+2B U.S.C. § 22S .nnccccsccceccorserssesscocsccsocserssosesessessssssossosoooes 6, 30 
+28 U.S.C. § 2254(D).......c-ceccercssceorsorsvserssessnsenssrssscsscsscsssssees 26 
+2B U.S.C. § Z2SAQC).n0ccccccrccsecscccsccsecsscssccscssescossoosoes 4, 5, 23, 26 
+
+
+OPINIONS BELOW 
+
+
+The two orders of the district court transferring petitioner’s 
+Rule 60(b) motion to the court of appeals and holding that the 
+district court lacked jurisdiction to issue a certificate of appeal- 
+ability are unpublished and set forth at J.A. 40-44. The Sixth 
+Circuit’s judgments denying petitioner relief on his Rule 60(b) 
+motion and his motion to amend the judgment and remand his 
+prior appeal are embodied in a single unpublished order set 
+forth at J.A. 38-39, which incorporates a prior unpublished 
+order set forth at J.A. 35-37. The district court’s prior opinion 
+vacating petitioner’s death sentence is published at 999 F. Supp. 
+1073 (1998) and set forth at J.A. 45-100. The Sixth Circuit’s 
+divided opinion reversing is published at 226 F.3d 696 (2000) 
+and set forth at J.A. 101-151. 
+
+
+JURISDICTION 
+The court of appeals entered its order February 11, 2002. 
+The petition for certiorari was filed March 18 and granted April 
+22. The Court has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+STATUTE AND RULES INVOLVED 
+This case involves 28 U.S.C. § 2244(b); Federal Rule of 
+Civil Procedure 60(b); Tennessee Rule of Appellate Procedure 
+11(a); and Tennessee Supreme Court Rule 39. All are set forth 
+in Appendix A. 
+STATEMENT OF THE CASE 
+
+
+I. PROCEEDINGS IN THE STATE COURTS 
+
+1. In July 1987, petitioner Abu-Ali Abdur’Rahman (for- 
+merly James Lee Jones) was convicted in a Tennessee state 
+court for first-degree murder, assault with intent to murder, and 
+armed robbery. The jury and the state courts found that he and 
+his co-defendant, Devalle Miller, went to the apartment of 
+Patrick Daniels, a Nashville drug dealer, with intent to rob 
+Daniels. J.A. 48. The two men entered the apartment and bound 
+Daniels and his girlfriend, Norma Norman, with duct tape. 
+Daniels was stabbed six times with a butcher knife taken from 
+
+\ 
+
+
+2 
+
+
+the kitchen; four of the stabs penetrated his heart and caused a 
+large amount of blood to splatter on the walls and nearby ob- 
+jects; he died of these wounds. Jd. 103. Norman was also 
+stabbed several times in the back, but she survived. /d. 103. 
+
+
+At the sentencing phase of the trial, the prosecuting attor- 
+neys contended that petitioner had been “the sticker” (T.T. 
+1983), the knife-wielder, who killed Daniels “four different 
+times” (T.T. 1939). They relied on co-defendant Miller’s testi- 
+mony as a prosecution witness to this effect, assuring the jury 
+that “Miller told you the truth” (T.T. 1944). In aggravation, they 
+presented evidence of prior convictions for assault with a 
+deadly weapon and for killing a fellow inmate in a federal 
+reformatory (T.T. 1808-23). The jury found three aggravating 
+circumstances—petitioner had prior violent felony convictions; 
+Daniels’ murder was especially heinous, atrocious, and cruel; 
+and it was committed during a robbery—and sentenced peti- 
+tioner to death. Petitioner’s conviction and death sentence were 
+affirmed on direct appeal. State v. Jones, 789 S.W.2d 545 
+(Tenn.), cert. denied, 498 U.S. 908 (1990). 
+
+2. The issues now before this Court arise out of evidence, 
+first presented by petitioner in state and federal postconviction 
+proceedings, that the prosecution knowingly used false testi- 
+mony by Devalle Miller, other deliberately misleading fabrica- 
+tions, and a calculated strategy of concealment and deceit, to get 
+a death sentence by covering up “weaknesses” in the prosecu- 
+tion’s case for death. Prosecutor John Zimmermann’s multiple 
+acts of misconduct implementing this strategy are too numerous 
+to describe here; they are summarized at pages 10-24 below. 
+The rest of this Statement recounts the course of postconviction 
+proceedings bearing on the procedural question whether—as the 
+Sixth Circuit ultimately held—petitioner is now barred from 
+federal habeas corpus consideration of his prosecutorial mis- 
+
+
+conduct claims. 
+
+
+' The quotation is from a pretrial intra-office report by Zimmermann, 
+acknowledging the weaknesses. 
+
+
+3 
+
+
+3. Petitioner first sought state postconviction relief, raising 
+federal constitutional claims including ineffective assistance of 
+counsel, prosecutorial misconduct, and unconstitutional jury 
+instructions. The trial court rejected each of these claims. 
+
+
+Petitioner appealed as of right to the Tennessee Court of 
+Criminal Appeals, presenting the same federal constitutional 
+claims. That court rejected petitioner’s prosecutorial miscon- 
+duct claims, concluding that the evidence withheld by the 
+prosecution was not “favorable to the defense.” Jones v. State 
+CCA No. 01C01-9402-CR-00079, 1995 Tenn. Crim. App. 
+mene dh at “7 ae Crim. App. Feb. 23, 1995). Rejecting 
+
+aims as we 
+rire or , the court affirmed denial of postcon- 
+
+
+4. There is no appeal as of right to the Tennessee Supreme 
+Court in postconviction matters. Beyond the Court of Criminal 
+Appeals, the only possibility for review is controlled by Ten- 
+nessee Rule of Appellate Procedure 1 1(a) (“TRAP 11”), under 
+which the Supreme Court may grant leave to “appeal by per- 
+mission.” Pursuant to TRAP 11, petitioner’s counsel applied for 
+leave to appeal on the basis of petitioner’s claims of ineffective 
+assistance and a subset of prosecutorial misconduct claims. The 
+Tennessee Supreme Court denied the application (Jones v 
+State, No. 01C01-9402-CR-00079 (Tenn., filed Aug 28, 
+1995)), and this Court denied certiorari (516 U.S. 1122 ( 1996). 
+
+
+Il. INITIAL PROCEEDINGS IN TH RAL 
+COURTS ses 
+
+
+1. On April 23, 1996, petitioner filed a federal habeas cor- 
+pus petition. As amended, his petition asserted that he had 
+received ineffective assistance of counsel; that the jury was 
+pesca ag at sentencing; and that the integrity 
+
+€ sentencing phase of the trial was undermined b 
+prosecutorial misconduct. — 
+. The district court declined to consider the bulk of peti- 
+tioner s prosecutorial misconduct claims because they had not 
+been presented to the Tennessee Supreme Court in a request for 
+
+
+4 
+
+
+leave to appeal from the Court of Criminal Appeals on postcon- 
+viction review and thus were not exhausted for purposes of 28 
+U.S.C. § 2254(c). J.A. 53-54. Because the time to seek permis- 
+sion to appeal those claims to the Tennessee Supreme Court had 
+passed, the district court did not dismiss the claims without 
+prejudice and remit petitioner to the state courts. Instead, it held 
+the claims procedurally defaulted (J.A. 60) and proceeded to the 
+merits of his other issues. 
+
+The district court rejected petitioner’s challenge to the jury 
+instructions (J.A. 69) and his claim of ineffective assistance of 
+counsel at the guilt phase of his trial (J.A. 86-87). It upheld his 
+claim of ineffective assistance of counsel at the sentencing 
+phase. JA 87-100. The latter holding was based upon extensive 
+findings made after an evidentiary hearing held over respon- 
+dent’s objection. /d. 
+
+2. Respondent appealed to the Sixth Circuit on grounds 
+that challenged only the district court’s power to go beyond the 
+state court record or to find sentencing-phase prejudice without 
+going beyond the state court record. Petitioner cross-appealed, 
+challenging the district court’s conclusions with respect to the 
+jury instructions and the district court’s finding that he had not 
+been prejudiced by his counsel’s deficient performance at the 
+guilt phase of his trial. J.A. 122, 127, 130. 
+
+A panel of the Sixth Circuit rejected every contention made 
+by the parties. On respondent’s appeal, it held that the district 
+court did not lack discretion to conduct an evidentiary hearing. 
+J.A. 114-118, 143-144. A two-judge majority also rejected 
+petitioner’s claims on his protective cross-appeal. J.A. 123, 127, 
+
+130. The same majority then sua sponte reversed the district 
+court’s finding that petitioner had been prejudiced at sentencing 
+by his lawyer’s ineffective assistance, and it vacated the judg- 
+ment setting aside his death sentence. /d. 134. 
+
+Petitioner’s motion for rehearing and suggestion of re- 
+hearing en banc were denied. The Sixth Circuit did grant a stay 
+of its mandate to permit petitioner to seek certiorari. Thus, the 
+
+
+5 
+
+
+case was never remanded to the district court, and no final 
+judgment adverse to petitioner was entered in the district court. 
+
+
+3. On May 21, 2001, petitioner filed a petition for certio- 
+rari (“the 2001 Certiorari Petition”). He sought review of the 
+Sixth Circuit’s election to address the issue of prejudice sua 
+sponte, of the substance of the Sixth Circuit’s no-prejudice 
+ruling, and of the Sixth Circuit’s rejection of his protective 
+cross-appeal with respect to his jury-instruction claim. This 
+Court denied certiorari. 122 S. Ct. 386 (2001). 
+
+
+III. PROCEEDINGS RELATING TO TENNESSEE SU- 
+
+PREME COURT RULE 39 
+
+1. While petitioner’s case was being briefed in the Sixth 
+Circuit, this Court decided O'Sullivan v. Boerckel, 526 U.S. 
+838 (1999), holding that 28 U.S.C. § 2254(c) requires “‘state 
+prisoners to file petitions for discretionary review when that 
+review is part of the ordinary appellate review procedure in the 
+State.” 526 U.S. at 847. The principal interest protected by § 
+2254(c), the Court explained, is comity, which dictates “that 
+state prisoners must give the state courts one full opportunity to 
+resolve any constitutional issues by invoking one complete 
+round of the State’s established appellate review process.” Jd. 
+at 845. The Court recognized that its rule could create an “in- 
+creased burden [that] may be unwelcome in some state courts 
+because the courts do not wish to have the opportunity to re- 
+view constitutional claims before those claims are presented to 
+a federal habeas court,” but “note[d] that nothing in [its] deci- 
+sion . . . requires the exhaustion of any specific state remedy 
+when a State has provided that that remedy is unavailable.” Jd. 
+at 847. 
+
+
+“(IJn response to O'Sullivan”. (TRAP 11 Adv. Cmte. 
+Comment), the Tennessee Supreme Court adopted that Court’s 
+Rule 39 (“TSCR 39”) on June 28, 2001, while petitioner’s 2001 
+Certiorari Petition was pending. TSCR 39 explicitly 
+“clarif[ies]” existing law and applies to “all appeals from crimi- 
+nal convictions or post-conviction matters from and after July 
+
+
+6 
+
+
+1. 1967”—the date on which the state’s Court of Criminal 
+Appeals was created and when TRAP 11 went into effect. 
+
+
+TSCR 39 provides: 7 
+[A] litigant shall not be required to petition for re- 
+hearing or to file an application for permission to ap- 
+peal to the Supreme Court of Tennessee following an 
+adverse decision of the Court of Criminal Appeals in 
+order to be deemed to have exhausted all available 
+state remedies respecting a claim of error. Rather, 
+when the claim has been presented to the Court of 
+Criminal Appeals or the Supreme Court, and relief has 
+been denied, the litigant shall be deemed to have ex- 
+hausted all state remedies available for that claim. 
+
+As set forth in the TRAP 11 Advisory Committee Com- 
+ments, the purpose of TSCR 39 is to make clear that a — 
+tionary application for review in Tennessee 1s not an = e 
+remedy of the sort contemplated by the holding in O'Sullivan 
+“that in order to satisfy the exhaustion requirement of collateral 
+federal review under 28 U.S.C. § 2254, a state prisoner must 
+present his or her claims to the state supreme court for discre- 
+tionary review absent a state court rule or decision to the con- 
+trary.” TRAP 11 (Adv. Cmte. Comment). a 
+
+2. Immediately after this Court denied certiorari, petitioner 
+called the lower federal courts’ attention to TSCR 39 a 
+moved to pursue the claims that the district court had he 
+unexhausted without the benefit of the clarification of Tennes- 
+see law effected by TSCR 39: ead 7 
+
+a. On the day this Court denied certiorari, petitioner 
+moved the Sixth Circuit to modify its judgment and remand the 
+case to permit the district court to consider the effect of TSCR 
+39 on the district court’s earlier decision. 
+
+b. Petitioner also sought relief in the district court. Fed. R. 
+
+Civ. P. 60(b) permits a court to “relieve a party... from a final 
+judgment” under certain circumstances. In petitioner s case, no 
+final judgment had been entered and the case was still pending 
+
+
+7 
+
+
+in the court of appeals, which had not yet entered its mandate 
+following the denial of certiorari. Sixth Circuit precedent, 
+however, permits a party to seek relief in district court under 
+Rule 60(b) while a case is pending on appeal. The district court 
+may consider a Rule 60(b) motion and, if inclined to grant the 
+motion, issue an opinion inviting the court of appeals to remand 
+the case. See First Nat'l Bank of Salem v. Hirsch, 535 F.2d 343, 
+346 (CA6 1976). - 
+
+
+Within forty-eight hours of this Court’s order denying cer- 
+tiorari, petitioner secured a status conference to advise the 
+district court that a Rule 60(b) motion would be promptly filed 
+to address the impact of TSCR 39 upon petitioner’s prosecuto- 
+rial misconduct claims. Soon thereafter, petitioner filed the 
+motion, raising only those claims that had been contained in 
+
+
+petitioner’s initial habeas application and that the district court 
+had held unexhausted. 
+
+
+The district court concluded that it could not consider the 
+motion because it was bound by Sixth Circuit precedent holding 
+that a “Rule 60(b) Motion must be construed as an attempt by 
+the petitioner to file a second or successive [habeas] petition.” 
+J.A. 40. Pursuant to Sixth Circuit protocol, the district court 
+transferred the motion to the court of appeals for that court to 
+apply the gatekeeping criteria of 28 U.S.C. § 2244(b)(1) and 
+(2). J.A. 40. 
+
+3. In two summary orders, the Sixth Circuit denied peti- 
+tioner the benefit of TSCR 39. It held that the district court had 
+correctly treated petitioner’s Rule 60(b) motion as a “second or 
+successive” habeas application. It therefore ruled that the Rule 
+60(b) motion must be “dismissed” as raising only claims that 
+were “presented in a prior application.” See 28 U.S.C. 
+2244(b)(1). J.A. 35 (Order of Jan. 18, 2002). Finally, the Sixth 
+Circuit rejected petitioner’s request that it amend its judgment 
+
+
+8 
+
+
+to permit the district court to consider TSCR 39. J.A. 38 (Order 
+of Feb. 11, 2002).’ 
+
+
+SUMMARY OF ARGUMENT 
+
+
+Petitioner’s claims of prosecutorial misconduct are based 
+upon evidence of a shocking course of conduct deliberately 
+pursued by prosecuting attorney Zimmermann with the aim of 
+hiding acknowledged “weaknesses” in the prosecution’s case 
+for death by suppressing some facts and falsifying others to 
+produce a deceptive and grossly inaccurate picture of peti- 
+tioner’s culpability. These are flagrant violations of due process 
+that a federal court is obliged to rectify in habeas corpus pro- 
+ceedings if the state courts do not, and if a habeas petitioner has 
+properly exhausted state remedies. 
+
+The district court below initially failed to adjudicate these 
+claims on the merits because it believed that petitioner had not 
+exhausted his state remedies. That conclusion was based upon 
+a misunderstanding of state postconviction procedure which has 
+since been dispelled through an unmistakably clear declaration 
+of Tennessee law by the state’s highest court, acting in its 
+rulemaking capacity. The rule was promulgated to clarify that 
+applications for permission to appeal to the Tennessee Supreme 
+Court are not properly sought simply for federal exhaustion 
+purposes, because the Tennessee Supreme Court’s discretionary 
+jurisdiction is reserved for issues of general importance and is 
+not available for routine postconviction review. As a clarifica- 
+
+
+2 The Sixth Circuit decided petitioner's Rule 60(b) motion as an origi- 
+nal matter because the motion had been transferred by the district court. 
+Petitioner had sought review in the Sixth Circuit in three further ways: he 
+noticed an appeal to the Sixth Circuit; he sought a certificate of appealability 
+from the district court (which held that it lacked jurisdiction to grant the 
+certificate because the motion had already been transferred to the court of 
+appeals (J.A. 40)); and he sought a certificate of appealability from the court 
+of appeals. The Sixth Circuit concluded that no appeal would lie because the 
+motion had been transferred rather than decided by the district court. See 
+J.A. 38. The petition for certiorari asserts jurisdiction over all of the Sixth 
+Circuit's rulings. 
+
+
+9 
+
+
+tion of existing law, the rule was explicitly made applicable to 
+cases like petitioner’s, which had previously been processed 
+through the state’s postconviction procedure. It establishes 
+beyond cavil that petitioner did exhaust all available state reme- 
+dies for his federal claims. 
+
+
+The courts below erred in refusing to take account of this 
+clarification of state law when petitioner promptly brought it to 
+their attention and, in light of it, sought an adjudication of the 
+merits of his previously presented but unadjudicated prosecuto- 
+rial misconduct claims. The Sixth Circuit’s sole ground for the 
+refusal was that petitioner’s motions—one to the district court 
+for relief from judgment under Fed. R. Civ. P. 60(b), the other 
+to the court of appeals for a remand before issuance of its ap- 
+pellate mandate—were “second or successive habeas corpus 
+application{s]” raising a previously presented claim and there- 
+fore were subject to the mandatory-dismissal rule of 28 U.S.C 
+§ 2241(b)(1). This is dead wrong for two independently suffi- 
+cient reasons. First, motions like petitioner’s, made in a habeas 
+proceeding filed before AEDPA’s effective date, are not gov- 
+erned by AEDPA. Second, petitioner’s renewed request for one 
+and only one federal adjudication of claims not previously 
+determined on the merits would not be a “second or successive 
+habeas corpus application” within § 2241(b)(1) even if AEDPA 
+applied. Lindh v. Murphy squarely controls the first point; 
+Stewart v. Martinez-Villareal and Slack v. McDaniel control 
+the second. 
+
+Petitioner is now entitled to have his prosecutorial miscon- 
+duct claims heard on the merits. Because his habeas case had 
+not yet gone to final judgment but was still pending on appeal 
+when the Tennessee Supreme Court clarified Tennessee law, 
+petitioner comes within the rule that an appellate court’s man- 
+date ought not to flout the law as it is clearly understood at the 
+time the mandate issues. And independently of this, his prompt 
+motion for relief from a now demonstrably misinformed nonex- 
+haustion ruling—a ruling that the Tennessee Supreme Court has 
+clarified not only serves no state interest but disserves Tennes- 
+
+
+10 
+
+
+see’s interest in the proper functioning of its postconviction 
+process—brings his compelling due process claims within the 
+proper ambit of Rule 60(b)’s corrective office. 
+
+ARGUMENT 
+
+
+I. THE RULINGS BELOW EQUATING PETI- 
+TIONER’S MOTIONS FOR RELIEF FROM THE 
+LOWER COURTS’ JUDGMENTS WITH SUCCES- 
+SIVE HABEAS APPLICATIONS FORECLOSE 
+FEDERAL REVIEW OF A COMPELLING CASE OF 
+DENIAL OF DUE PROCESS THROUGH DELIBER- 
+ATE PROSECUTORIAL FALSIFICATION AND 
+SUPPRESSION OF EVIDENCE CRITICAL TO A 
+
+~ FAIR SENTENCING DETERMINATION. 
+
+The record establishes the following facts, discovered only 
+after trial, about Assistant District Attorney General John Zim- 
+mermann’s concealment of information and deceitful manipu- 
+lation of evidence in an all-out effort to obtain a death sentence 
+against petitioner:” 
+
+1. Zimmermann knew very well from the outset that—as 
+he testified below—Nashville jurors are “tougher to get death 
+sentences from” than other Tennessee jurors. H.T. 905. They 
+will not impose death verdicts unless, in Zimmermann’s words, 
+they can be “sure beyond a shadow of a doubt that the person 
+the state is seeking the death penalty on was in actuality respon- 
+sible for the murder.” Jd. To get the death penalty, the defendant 
+must be “the shooter or the sticker.” H.T. 907. Even then, “you 
+
+
+. The evidentiary record on this issue is complete, but no findings 
+were made by the state courts (which denied the prosecutorial misconduct 
+claims on the merits without comment) or the district court (which declined 
+to consider most of the claims). Here, we summarize what the district court 
+could properly find from the record. 
+
+For documentation of Assistant District Attorney General John Zim- 
+mermann’s extensive history of serious misconduct as a prosecutor, includ- 
+ing repeated findings by courts and disciplinary officials that his actions 
+violated basic ethical standards and constitutional norms, see Brief of Amici 
+Curiae Former Prosecutors James F. Neal et al. See also J.A. 254-260. 
+
+
+11 
+
+
+... have to explain everything to the jury” about aggravation 
+and the absence of mitigation. “They want that comfort.” H.T. 
+905. To give the jurors comfort on each of these points in peti- 
+tioner’s case, Zimmermann relied upon factual misrepresenta- 
+tion and concealment. 
+
+2. In a March 24, 1987 intra-office report, Zimmermann 
+listed several “Weaknesses in [the] Case” for “seek[ing the] 
+death penalty.” The only neutral witness, the surviving victim 
+Norma Norman, was blindfolded and “did not actually see” 
+who stabbed the deceased or herself. H. Ex. 42. The only other 
+witnesses to the stabbing were petitioner and the co-defendant 
+Devalle Miller, and “co-defendants . . . always want to point the 
+finger at each other.” /d.; H.T. 912. The finger could not con- 
+vincingly be pointed at petitioner because, during the incident, 
+he wore what Ms. Norman called a full-length, black “gangster 
+coat” (T.T. 1332-33, 1334, 1342-43),* and the “T.B.1. Lab 
+Report was unable to find any blood staining on the long wool 
+coat worn by [petitioner].” H. Ex. 42; see H. Ex. 9A. Zimmer- 
+mann recognized that, because “[p]hotographs of the decedent’s 
+house show blood spattering all over the kitchen” where the 
+killing took place, “if the defendant did wear his coat .. . he 
+obviously was not present when the stabbing occurred.” 
+
+
+Zimmermann was left in no doubt on this last point, in 
+light of: 
+
+e The autopsy, showing that Patrick Daniels was killed by 
+four stab wounds to the heart, one piercing the aorta—a 
+vessel “about the size of a garden hose” that “carries blood 
+from the heart to . . . the body”—and another piercing an 
+“artery carrying blood to the . . . heart.” H. Ex. 16; T.T. 
+1659. 
+
+
+* Police seized the “long black coat” at petitioner’s home shortly after 
+the incident. H. Ex. 12, at 485. 
+
+> H Ex. 42 (emphasis added). In his testimony below, Zimmermann 
+explained that “when you have a murder with this much blood splatter, you 
+would think some would have gotten on the defendant.” H.T. 917. 
+
+
+12 
+
+
+e Police reports by lead Detective Mark Garafola and others 
+“observ[ing] a large amount of blood splattering on items 
+near the victim [and] on the walls, bar, and divider.” H. Ex. 
+1-4. 
+
+e Consultation with Detective Garafola (see H. Ex. 110, 
+at 19), who reasoned that the blood splattering occurred 
+following each blow to the heart. H. Ex. 110, at 42-43 
+(“there was more than one wound and after the first one 
+there probably was blood spurting out of the first wound or 
+the second wound, and if you hit the second or third time 
+it would cause it to splatter”).° 
+Given this evidence, Zimmermann realized that there were 
+
+two, and only two, possible versions of what happened. “Either 
+
+the defendant removes his coat before he began to stab these 
+people . . . or if the defendant did wear this coat the entire time 
+
+he obviously was not present when the stabbing occurred.” H. 
+
+Ex. 42. The prosecution’s case for death depended on estab- 
+
+lishing the first of these two scenarios and excluding the sec- 
+
+ond. But then Devalle Miller was apprehended and complicated 
+
+
+© Below, Georgia’s Chief Medical Examiner, Dr. Kris Sperry, con- 
+firmed that each of the four stab wounds to the heart “would have resulted 
+in immediate blood coming forth profusely from the stab wound itself,” 
+turning into a “spray” with “each beat of the heart”; that each time the knife 
+was “pulled back,” “cast-off” blood would “spray . . . into the immediate 
+environment”; and that additional spray would be caused by “each subse- 
+quent” blow to the chest, causing blood “splatter to the area, the hand, the 
+knife, clothing that is on . . . like striking a wet sponge.” H.T. 37-39, 77. As 
+a result, any assailant squatting over the prone victim and stabbing him four 
+times in the heart “would have had blood from those wounds transferred to 
+his ... clothing,” particularly, “smears ... droplets and splatters ... 
+[c}lustered around the sleeve area of whatever hand was holding the knife.” 
+H.T. 37, 77. Dr. Sperry testified that the tests the Tennessee Bureau of 
+Investigation used to examine the coat were extremely sensitive and would 
+find any trace of blood that was present; and that blood stains cannot be 
+washed or dry-cleaned out of wool sufficiently to escape detection without 
+destroying what was, in fact, an intact coat. H.T. 35-36, 59-61. 
+
+
+13 
+
+
+Zimmermann’s task immeasurably by making him aware that 
+the first scenario simply was not true.’ 
+
+3. When Miller was initially questioned about the killing, 
+he gave Zimmermann and Garafola a three-hour oral confession 
+in which he admitted taking part in the assault but blamed the 
+stabbing on petitioner. See H. Ex. 51; T.T. 1612-14. As did Ms. 
+Norman, Miller repeatedly and consistently placed petitioner in 
+the long black coat at the scene.* According to Miller’s narra- 
+tive recounting of the events in his confession, as Zimmermann 
+recorded them in his report, petitioner at no time removed the 
+long black coat.’ Miller’s statement tracked the other evidence 
+available to Zimmermann. In a recorded statement to police 
+shortly after the events, Norma Norman’s daughter Shonta told 
+them she had “peeped” out of her bedroom into the kitchen on 
+one occasion—after the victim was stabbed but before he 
+died—and at that crucial moment, petitioner (the “light 
+skinned” man in “glasses”) “had on a wool coat.” Moreover, 
+because there was no blood on petitioner’s pants or shoes, 
+which were seized along with his coat, it was altogether un- 
+likely that he had stabbed the victim with or without the coat 
+on. H. Ex. 9A, 12, 16. 
+
+
+” Miller fled Nashville after the killing. He was captured in Pennsyl- 
+vania 14 months later. T.T. '487, 1605. Petitioner remained in Nashville and 
+was arrested at his job two days after the killing. H. Ex. 110, at 53-59. 
+
+
+8 Norma Norman: H. Ex. 4; T.T. 1332, 1333, 1334, 1342-43, 1348, 
+1364, 1366-67. Devalle Miller: H. Ex. 51 (at 160-61); T.T. 1451, 1454-55, 
+1462. 
+
+
+° HL Ex. 42. Although this part of Miller’s oral confession is tracked 
+and described in Zimmermann’s report, Zimmermann omitted it from an 
+hour-long videotaped interview of Miller that he conducted shortly after the 
+three-hour oral statement. See T.T. 1612-14; H. Ex. 51. The taped interview 
+was turned over to the defense as Jencks material, but Zimmermann’s report 
+(H. Ex. 42) was suppressed. Zimmermann’s report is Appendix B to this 
+brief. 
+
+'© H. Ex. 6. Norma Norman described hearing the assault on Patrick 
+Daniels and moments later hearing him choking on his blood. T.T. 1376-78; 
+H. Ex. 5. Shonta describes “peep[ing]” at the latter point. H. Ex. 6. 
+
+
+14 
+
+
+Still, Zimmermann was not without resources. When in- 
+vited to explain how petitioner could have stabbed the victim 
+four times in the heart and come away with no blood on his 
+clothes (see H. Ex. 42), “Miller stated that the stabbing of the 
+deceased did not produce the blood that was spattered, but that 
+the blood that was splattered occurred as the deceased gasped 
+for air after the defendant had gone to the second victim and 
+begun to stab her.” H. Ex. 42. This tale of Miller’s depended on 
+a premise—that no blood had splattered from Daniels’ wounds 
+during the repeated stabbings—which Zimmermann and Detec- 
+tive Garafola knew to be false, given the nature and number of 
+wounds and the blood shower each wound precipitated. But the 
+tale was enough for Zimmermann to run with if he could con- 
+ceal its lameness. 
+
+
+4. In sentencing-phase summation, the prosecuting attor- 
+neys conceded that “the main issue in this case was who was 
+the sticker, who wielded that knife.” T.T. 1944. To satisfy a 
+skeptical jury on this point despite what Zimmermann knew, he 
+systematically suppressed the truth and misrepresented the 
+facts: 
+
+e Despite discovery motions concededly obliging Zimmer- 
+mann (in his words) to turn over “anything favorable to the 
+defendant,” Zimmermann admittedly decided to withhold: 
+(1) all police reports describing the “large amount of blood 
+splattering on the items near the victim . . . on the walls, 
+bar and divider” (H. Ex. 1-4); (2) his own report conclud- 
+ing that unless petitioner took off his coat, “he obviously 
+was not present when the stabbing occurred” and describ- 
+ing Miller’s oral statement that dodged this dilemma by re- 
+counting the incredible tale “that the stabbing . . . did not 
+produce the blood that was spattered” (H. Ex. 42); and (3) 
+Shonta Norman’s statement that petitioner “had on a wool 
+coat” moments after the victim was stabbed (H. Ex. 6). 
+H.T. 903-04, 926-27, H. Ex. 41, 11, 60-63. 
+
+
+e Six months before Miller’s confession revealed the signifi- 
+cance of petitioner’s blood-free clothes, Zimmermann had 
+
+
+15 
+
+
+given petitioner’s original lawyer (Neal McAlpin) a copy 
+of the lab report finding no blood on the coat, pants, or 
+shoes. H. Ex. 19. But after Miller’s confession, when 
+Lionel Barrett replaced McAlpin and again asked for the 
+forensic reports (H. Ex. 39, 41, 63), Zimmermann withheld 
+the blood report (H.T. 930-31), giving Barrett instead an 
+inconclusive report about soil found on petitioner’s pants 
+and in the victim’s yard (H. Ex. 62). Barrett thus never 
+knew that a large amount of blood splattering was found 
+near the victim’s body, nor that petitioner’s clothes tested 
+negative for blood (H.T. 292). Tellingly, the prosecutors 
+realized—and remarked to Miller’s lawyer at the beginning 
+of trial—how surprisingly little Barrett knew about the 
+facts of the case." 
+
+
+e Zimmermann called Miller to testify to what Zimmermann 
+(and lead Detective Garafola) knew was “obviously” un- 
+true—that petitioner both wore the black coat and “squat- 
+ted over [the victim] stabbing him,” and that the blood 
+splattered only after the stabber had “backed up off the 
+
+
+' See H.T. 1040-41 (prosecutor Barnard “mentioned that he was sur- 
+prised how little Mr. Barrett knew or was aware of”; ruled hearsay as to what 
+Barrett knew but not as to what the state knew). Petitioner had also been 
+misinformed on the point. After his arrest, staff members of the mental health 
+facility where he was sent for evaluation told him based on false statements 
+by police that clothes found at his home had blood stains on them. See H. 
+Ex. 151 (at 2), 110 (ex. 77), 42. 
+
+
+The district court ruled (1) that Zimmermann’s failure to give Barrett 
+the blood report was not improper because the state had given McAlpin the 
+report (instead, Barrett was ineffective for not getting the file from McAIpin) 
+(J.A. 77, 83); and (2) that Barrett’s failure to retrieve the report from McA\l- 
+pin deprived petitioner of a “good argument” but was not by itself prejudicial 
+at the guilt phase — in part because of the possibility that petitioner took off 
+the coat. /d. 64. The district court’s rulings as to guilt-phase ineffective 
+assistance do not resolve petitioner’s claims of sentencing-phase prosecuto- 
+rial misconduct — particularly because the court refused to consider the 
+suppressed evidence indicating that petitioner wore the coat the whole time. 
+
+
+16 
+
+
+victim, a couple of feet, and just stood, you know.... 
+T.T. 1451, 1454-55, 1462, 1471, 1472." 
+
+
+e Because “Ms Norman did not actually see [petitioner]. . . 
+stab the deceased” and Zimmermann “needed an eyewit- 
+ness to the assault,” he “recommended .. . that a deal be 
+struck with Mr. Miller.” H. Ex. 42; H.T. 912, 932. Miller 
+had been charged with first-degree murder, assault with 
+intent to kill, and armed robbery, carrying a potential death 
+sentence or three consecutive life sentences and a mini- 
+mum ninety-year term without parole. H. Ex. 44. In a letter 
+to Miller’s lawyer after trial, Zimmermann described what 
+he had promised “in exchange for” Miller’s “agree[ment] 
+to testify against [petitionerj.” H. Ex. 92. Miller would be 
+permitted to plead to two offenses, “Second-Degree Mur- 
+der and Armed Robbery,” and would receive “concurrent 
+sentences” with parole eligibility in seven and a half years. 
+H. Ex. 92, 93 (at 8, 47); H.T. 1040-43,1050. But in a for- 
+mal pleading filed before petitioner’s trial, Zimmermann 
+described the promise as being only that the state “would 
+not seek the death penalty against Mr. Miller.” H. Ex. 67 
+(“No other promises, inducements, agreements, or other- 
+
+
+-!2 Miller testified that he “froze,” and petitioner ransacked the living 
+room, “throwing pillows everywhere.” T.T. 1467, 1469. Shonta Norman’s 
+suppressed statement says it was Miller who was “tearing paper and throw- 
+ing stuff all over the floor and tearing the pillow up.” H. Ex. 6. Miller 
+testified that petitioner stabbed the victim in the back while the victim was 
+face down. T.T. 1471-72. The forensic evidence shows “[t]here were no stab 
+wounds involving the back whatsoever”; “there is no evidence at all [that the 
+victim] was ever face down in any way, shape or form.” H.T. 48, 41-42, 72- 
+74. Miller testified that the splattering occurred when the victim thrashed 
+wildly, spraying blood “from his nose and mouth.” T.T. 1472-73. But see 
+H.T. 42, 57-58 (habeas testimony of Georgia Medical Examiner Sperry: the 
+victim “didn’t move appreciably . . . during the course of the stabbing and 
+immediately thereafter”; blood splatter “could not have been produced by 
+blood emanating from the decedent’s nose” or mouth; it only “occurred 
+during the course of the infliction of the stab wounds”). For Miller’s admis- 
+sion that he repeatedly lied to Zimmermann before trial to keep from 
+“look[ing] more involved,” see T.T. 1461, 1504, 1527-28, 1550-51, 1566. 
+
+
+— ———— 
+
+
+— 
+
+
+17 
+
+
+wise have been made or shall be made to Mr. Miller.”’). 
+Miller then testified repeatedly at trial that this was the 
+“only promise,” and Zimmermann gave color to the lie by 
+telling the jury in closing argument that Miller was “guilty 
+of first-degree murder.” H. Ex. 67; T.T. 1492-95, 1568-70, 
+1680 (emphasis added). 
+
+
+e Finally and most egregiously, having assured the jury that 
+“Devalle Miller told you the truth,” Zimmermann and his 
+partner argued explicitly in summation that petitioner did 
+two things that they knew could not both be true: Petitioner 
+“wore that coat . . . that gangster coat” (T.T. 1672-74); and 
+“at his hands—at his enjoyment,” he “kills [the victim] 
+four different times” (T.T. 1944, 1939, 1985). 
+
+5. Long before petitioner’s trial, this Court had unmistaka- 
+bly informed prosecutors that the rule of Due Process requires 
+them to give defense counsel all exculpatory evidence in their 
+files—whether bearing on sentence or guilt. Brady v. Maryland, 
+373 U.S. 83, 87-88 (1963). Their failure to do so violates the 
+Due Process Clause ““‘if there is a reasonable probability that, 
+had the evidence been disclosed to the defense, the result of the 
+{guilt or sentencing] proceeding would have been different.’” 
+Kyles v. Whitley, 514 U.S. 419, 433 (1995) (quoting United 
+States v. Bagley, 473 U.S. 667, 682 (1985)). 
+
+
+Even earlier than Brady this Court made it plain as a pike- 
+staff that prosecutors may not constitutionally “contrive[] a 
+conviction” or a capital sentence “through a deliberate decep- 
+tion of the court and jury.” Mooney v. Holohan, 294 U.S. 103, 
+112 (1935). This rule bans “the knowing use of false evidence” 
+and “false testimony” (Napue v. Illinois, 360 U.S. 264, 269 
+(1959)); advertent misrepresentation of the nature of physical 
+evidence (see Miller v. Pate, 386 U.S. 1, 7 (1967)); letting 
+“false evidence . . . go uncorrected when” a co-defendant mis- 
+states a deal he struck in return for testifying against the defen- 
+dant (Giglio v. United States, 405 U.S. 150, 153 (1971)); and 
+letting stand a witness’s evident falsehood that a “diligent” 
+defense lawyer would have impeached but the actual lawyer let 
+
+
+18 
+
+
+pass (see Giles v. Maryland, 386 U.S. 66, 74 (1967); id. at 82 
+(White, J., concurring)). In any of these situations, “[a] new tnal 
+is required if ‘the false testimony could . . . in any reasonable 
+likelihood have affected the judgment of the jury.” Giglio, 405 
+U.S. at 154 (quoting Napue, 360 U.S. at 271). 
+
+
+Assistant District Attorney General Zimmermann did all of 
+these things. He suppressed Devalle Miller’s and Shonta Nor- 
+man’s statements to police that petitioner wore the coat the 
+whole time. He suppressed four police reports revealing the 
+“large amount of blood splattering on items near the victim” 
+and thus the importance, in deciding who was the stabber, of 
+garments free of blood. He knowingly exploited defense coun- 
+sel’s lack of diligence in discovering the TBI report establishing 
+that petitioner’s coat and clothes were not stained with blood. 
+He presented Miller’s testimony that the blood splattering came 
+after the fact from the victim’s nose, though both he and his 
+chief detective knew that the splattering “was [from] blood 
+spurting out of the first wound or the second wound [when the 
+knife] hit . . . the second or third time” (H. Ex. 110, at 43), and 
+“obviously” (H. Ex. 42) “would have gotten on the defendant” 
+during the stabbing (H.T. 917). He misrepresented his deal with 
+Miller—a seven-and-a-half-year minimum, in place of what 
+could have been a ninety-year sentence without parole—to the 
+court, defense counsel, and the jury, and he let Miller make the 
+same misrepresentation under oath. In the end, Zimmermann 
+and his partner rested their case for death on the professed truth 
+of two factual propositions that they knew could not both be 
+true—that petitioner “had the gangster coat on” (T.T. 1673) and 
+that he killed the victim “at his hands—at his enjoyment” (T.T. 
+1985). 
+
+
+Zimmermann used each of these deceptive stratagems, be- 
+lieving that his chances of procuring a death sentence hinged 
+upon his ability to persuade the jury beyond any doubt that 
+petitioner was “the sticker.” He set about to, and he did, con- 
+struct the necessary tools of persuasion out of Devalle Miller’s 
+falsehoods and his own, while withholding evidence that would 
+
+
+19 
+
+
+have revealed the truth. Such a course of misconduct undoubt- 
+edly could have changed the outcome of petitioner’s sentencing 
+trial, and probably would have—or so the district court below 
+cou'd properly find if it is free to consider the merits of peti- 
+tioner’s prosecutorial misconduct claims. 
+
+
+6. Beyond whe wielded the knife, there were additional is- 
+sues of aggravation and mitigation to be resolved by the jury. 
+Zimmermann dealt with these issues as well through suppres- 
+sion and misrepresentation. 
+
+
+a. The most important aggravating circumstance (see 
+J.A.120) was petitioner’s 1972 conviction for killing a fellow 
+inmate at a federal reformatory. Outside of court, Zimmermann 
+repeatedly expressed concern that the aggravating potential of 
+this incident would be diminished by three facts: (1) As re- 
+vealed by the 1972 trial transcript, a letter from the prosecutor 
+in the 1972 case, and interviews with the FBI agents who in- 
+vestigated it, “this was ... a defensive killing because [peti- 
+tioner] was being the victim of a homosexual attack” (H. Ex. 
+42; see H. Ex. 15, 34, 45, 48, 49, 66); (2) A psychiatrist testified 
+at the 1972 tral that petitioner was insane at the time of the 
+offense due to a mental disease that caused him to lose control 
+under stress (H. Ex. 131, at 763, 766-70); (3) On these bases, 
+the jury had rejected first-degree murder and convicted of 
+second-degree; and the federal judge had recommended that 
+petitioner receive psychiatric care. /d. at 643. Zimmermann 
+proceeded to conceal these aspects of his 1972 aggravator by: 
+
+
+e Suppressing the 1972 tral transcript and the judgment 
+recommending psychiatric care.' 
+
+
+'> The district court ruled that Zimmermann’s withholding of the 1972 
+transcript violated his obligation to disclose exculpatory evidence, but that 
+this nondisclosure was not material “standing alone.” J.A. 73. On the Rule 
+60(b) motion now at issue, the materiality of any one act of nondisclosure by 
+Zimmermann would not be “considered . . . item by item” (Kyles v. Whitley, 
+514 U.S. at 437 & n.10 (1995)), but “collectively” (id.) in light of all Zim- 
+mermann’s acts of subterfuge, concealment, and misrepresentation. 
+
+
+20 
+
+
+Misrepresenting the contents of the 1972 transcript and 
+judgment in a letter to the psychiatrists who had been or- 
+dered by the trial judge to evaluate petitioner and report to 
+the court. Zimmermann told the psychiatrists that there was 
+“no evidence from the records submitted to us in that 
+[1972] proceeding that the defendant relied upon an in- 
+sanity defense at that trial.” H. Ex. 34; see H. Ex. 28, 36. 
+
+
+Falsely informing the same psychiatric evaluators that the 
+1972 incident did not involve homosexual threats and “‘was 
+a cold blooded premeditated murder” in a “gang” war in 
+the prison. H. Ex. 34. 
+
+
+Falsely informing defense counsel that if the defense 
+delved into the 1972 murder at tnal (which it thereupon did 
+not), an FBI agent “would testify that Petitioner’s 1972 
+conviction was the result of a ‘drug turf war,’ and not a 
+homosexually-related killing, as Petitioner contended.” 
+J.A. 85. As the district court found in addressing peti- 
+tioner’s ineffective-assistance claims, “the 1972 conviction 
+was not over drugs and gangs as represented by the prose- 
+cution to defense counsel. The murder concerned homo- 
+sexual conduct that the jury could have found more miti- 
+gating.” Jd. 
+
+Falsely assuring the jury in sentencing-phase summation 
+that the 1972 murder was “deliberate[] with malice afore- 
+thought” and involved no “psychiatric examination or... 
+extreme emotional disturbance or whatever.” T.T. 1979, 
+1982. 
+
+
+b. Additionally, to jigger the balance of aggravation 
+
+
+and mitigation: 
+
+
+Zimmermann contrived to enhance the aggravating power 
+of petitioner’s prior convictions by (1) promising he would 
+not pass indictments to the jurors, but then (2) passing to 
+the jury the indictment underlying petitioner’s 1970 juve- 
+nile conviction for assault, which revealed other charges. 
+
+
+21 
+
+
+The Tennessee Supreme Court ruled this gimmick “im 
+proper,” “border[ing] on deception,” but not ae—— <d 
+itself. 789 S.W.2d at 552. 
+
+
+Zimmermann suppressed a number of statements by Miller 
+saying that Miller and petitioner had not planned the Da- 
+niels incident themselves but were taking orders from their 
+employer Alan Boyd and his henchman William Beard, 
+who (as Zimmermann knew) supplied the guns used in the 
+incident, paid Miller to flee the jurisdiction, lied to police 
+about Miller’s departure, and (as the district court found) 
+were the leaders of “a nascent religious group that had as 
+its goal ‘cleaning up’ the African-American community by 
+eliminating illegal . . . drug dealing” (J.A. 74). According 
+to this evidence, Boyd and Beard cooked up the plan for 
+Miller and petitioner to intimidate the marijuana- and co- 
+caine-dealing victim as (in Zimmermann’s words) the 
+group’s “first vigilante mission” (H. Ex. 42). See T.T. 
+1800; H. Ex. 15, 57, 93, 110 (ex. 82); H.T. 1039, 1047. 
+Having suppressed the state’s failure to investigate these 
+leads (cf. Kyles, 514 U.S. at 442, 447), Zimmermann ar- 
+gued to the jury that petitioner had planned the incident 
+himself for entirely venal reasons and that his sentencing- 
+phase testimony about the religious organization was 
+“bunk.” T.T. 1837-48, 1982-83. 
+
+
+Knowing that the defense hoped to rely on emotional 
+distress and mental disorder as mitigating factors (H. Ex. 
+63, at 600), Zimmermann suppressed: (1) evidence sug- 
+gesting (as he described it) that petitioner “is plain wacko” 
+and revealing that petitioner “has a long history of institu- 
+tionalization . . . and at every juncture seems to be shrunk 
+two or three different ways” (H. Ex. 42); (2) the 1972 tnal 
+transcript and order recommending psychiatric care based 
+on evidence that he blacks out under stress and has a “*bor- 
+derline” psychosis (see J.A. 95); (3) two law enforcement 
+reports that after his arrest, petitioner “was crying . 
+
+would not respond to our questions .. . started to hit his 
+
+
+22 
+
+
+head on the table and then he jumped up still handcuffed to 
+the chair and banged his head up against the wall”; “started 
+to bang his head on the wall again”; and later “started 
+banging his head against the floor in the presence of Rev. 
+Turner,” requiring petitioner to be placed in a padded cell 
+on “suicide” watch (H. Ex. 7, 8). In an eve-of-trial motion 
+to bar the defense from mentioning petitioner’s mental 
+condition to the jury, Zimmermann misinformed the court 
+that the results of petitioner’s court-ordered psychiatric 
+evaluation (which had itself been skewed by Zimmer- 
+mann’s misrepresentations to the evaluators) “reflect no 
+[emphasis in original] diagnosis of any mental disease, de- 
+fect, emotional disturbance or even a personality disorder,” 
+aud that “the co-defendant . . . has no evidence of the same 
+either,” notwithstanding the diagnosis of petitioner as in- 
+sane in the suppressed 1972 transcript, and the prosecutors’ 
+own notations on their copy of Miller’s statement (in which 
+Miller said petitioner “went from day to night,” “was just 
+... babbling,” was acting “crazy,” and was “a maniac”) 
+that Miller’s description suggested “Insanity & [a] miti- 
+gating factor.” H. Ex. 73, 51 (at 166-67, 171, 177); H.T. 
+962. Then, in summation at the capital-sentencing phase, 
+Zimmermann baldly asserted that there was no evidence 
+“Of a psychiatric examination”—“you’re looking at a de- 
+praved man, not someone suffering from severe extreme 
+emotional disturbance, a depraved man.” T.T. 1981-82." 
+
+
+* “At the sentencing phase, petitioner testified that he could not re- 
+member what happened on the night of the killing. T.T. 1865, 1896. Peti- 
+tioner also testified: 
+
+I can’t give you — to you detail to detail on how things transpired 
+
+insofar as Mr. Daniel Patrick's (sic) death .. .. When I say that, 
+
+I mean — I'm saying that my mind — I’m not telling you that I was 
+
+crazy — I’m not saying that I am crazy. But what I am saying is, 
+
+I'm going to submut to the fact that I am the individual that com- 
+
+mutted these particular felonies or assaults upon these two people. 
+
+But I don’t remember — you know, | don’t remember too much of 
+
+why that all of a sudden came to me. All I know is that I’m the 
+
+
+23 
+
+
+7. It is plain that if the jurors had been reliably informed of 
+the facts that the prosecutor suppressed and misrepresented, 
+they would probably not have returned a death verdict by the 
+unanimous vote required under Tennessee law. See Kyles, 514 
+U.S. 419, 433. So petitioner’s claims of prosecutorial miscon- 
+duct are (at the very least) quite strong; and the question now 
+presented is whether he must be categorically barred from 
+receiving federal judicial consideration of their merits because, 
+at an earlier stage of this same federal habeas corpus proceed- 
+ing, he was barred from merits review by the district court’s 
+now-dispelled misunderstanding of an aspect of Tennessee 
+postconviction procedure as that bears upon the exhaustion 
+requirement of 28 U.S.C. § 2254(c). 
+
+
+man that stabbed Mr. Daniel Patricks (sic) and I'm the man that 
+assaulted Ms. Norma Jean Norman. 
+
+
+T.T. 1864-65. Petitioner's meandering and incoherent testimony leaves 
+entirely unclear whether he is saying he assaulted the victims; that a memory 
+of doing so had just that moment “all of a sudden came to me”; that he only 
+“submuts” that he commutted the assaults based on what “I learned from the 
+information you [the state] have given” (T.T. 1865, 1895-96); or that he 
+thought (as he at other points says) he was being asked to confirm what other 
+witnesses had said (see T.T. 1893). In the state's closing argument moments 
+after petitioner testified, the prosecutors did nor claim that petitioner had 
+admutted stabbing the victims, but instead were at pains to convince the jury 
+that petitioner wasn't crazy. TT. 1938, 1981-82. Likewise, the district court 
+found that petitioner “lost his composure” on the stand—crediting tesumony 
+
+
+by petitioner's trial lawyer that petitioner's bizarre behavior was “‘one of the 
+
+
+saddest things I have seen in my legal career” and that due to counsel's 
+“deficiencies,” petitioner “was not prepared to go on the stand, [and] .. . 
+
+
+because of . . . his mental health problems . . . he just broke down.” J.A. 96. 
+
+
+24 
+
+
+II. PETITIONER’S REQUESTS FOR A MERITS AD- 
+JUDICATION OF HIS PREVIOUS, UNADJUDI- 
+CATED PROSECUTORIAL MISCONDUCT 
+CLAIMS ARE NOT, AS THE SIXTH CIRCUIT ER- 
+RONEOUSLY HELD, NONJUSTICIABLE “SECOND 
+OR SUCCESSIVE” HABEAS CORPUS APPLICA- 
+TIONS. 
+
+
+The prosecutorial misconduct claims summarized in the 
+preceding pages were all presented to the district court below in 
+petitioner’s 1996 habeas corpus application but were not adju- 
+dicated on the merits.'° They were deemed unexhausted, and 
+thus procedurally barred, for failure to present them to the 
+Tennessee Supreme Court in an application for discretionary 
+appeal under TRAP 11. Immediately after the Tennessee Su- 
+preme Court promulgated TSCR 39, clarifying that TRAP 11 
+review was not, and never had been, an available state remedy 
+for petitioner, he promptly sought an adjudication of his previ- 
+
+
+ously presented, unadjudicated claims, both by a Rule 60(b)_ 
+
+
+motion in the district court and by a motion to the court of 
+appeals to remand to the district court for its consideration of 
+TSCR 39. 
+
+
+The Sixth Circuit closed both routes to the merits. It ac- 
+cepted respondent’s argument that “a Rule 60(b) motion is the 
+equivalent of a successive habeas corpus petition.” J.A. 38. It 
+also denied petitioner’s motion to remand his appeal—in which 
+no mandate had yet been entered—to permit the district court 
+to take account of the supervening effect of Rule 39. /d. 38 
+
+
+'S 4 few other, isolated claims of misconduct were adjudicated on the 
+merits because the district court found them exhausted. These were rejected 
+on the ground that the specific items of undisclosed or umproperly handled 
+information involved were not material, “standing alone.” J.A. 73. In con- 
+nection with Rule 60(b) consideration of the overwhelming bulk of peti- 
+tioner’s prosecutorial misconduct claims — those that the district court held 
+unexhausted — the materiality of a// of the items involved in the numerous 
+unadjudicated claims as well as the few adjudicated ones would have to be 
+assessed “collectively” under Kyles vy. Whitley, 514 U.S. 419 (1995). 
+
+
+25 
+
+
+Although the Sixth Circuit did not explain the latter ruling, it 
+presumably rested on the notion that the remand motion, too, 
+was equivalent to a successive habeas application for purposes 
+of 28 U.S.C. § 2244(b). The upshot was to categorically bar any 
+federal-court consideration of petitioner’s unadjudicated claims, 
+because 28 U.S.C. § 2244(b)(1) requires, without exception or 
+qualification, the dismissal of every “claim presented in a sec- 
+ond or successive habeas corpus application . . . that was pre- 
+sented in a prior application.” 
+
+The Sixth Circuit’s rulings are irreconcilable with this 
+Court’s precedents and with the basic principles of federal 
+habeas corpus law. 
+
+1. This is not a case in which petitioner has failed to do 
+anything required of him in order to preserve his prosecutorial 
+misconduct claims for federal review. From day one, he pur- 
+sued those claims in precise conformity with state and federal 
+law. Petitioner presented all of his federal constitutional 
+claims—including the prosecutorial misconduct claims—to the 
+state trial court and to the state Court of Cnminal Appeals on 
+postconviction review. He then followed the dictates of Tennes- 
+see law in seeking permission to appeal to the state supreme 
+court on some claims but not others. TRAP 11, like this Court’s 
+Rule 10, provides that permission to appeal will be granted only 
+in narrow, extraordinary circumstances, such as “(1) the need to 
+secur€ uniformity of decision, (2) the need to secure settlement 
+of important questions of law, (3) the need to secure settlement 
+of questions of public interest, and (4) the need for the exercise 
+of the Supreme Court’s supervisory authority.” TRAP 1 1(a). 
+These provisions tell the litigant or lawyer who respects them 
+that an application to Tennessee’s highest court is not an avail- 
+able remedy for each and every one of a convicted defendant’s 
+postconviction claims of federal constitutional error. Peti- 
+tioner’s counsel determined that the screening criteria of TRAP 
+11 were met only with respect to a subset of his federal consti- 
+tutional claims, which he raised in his motion for permission to 
+appeal. These did not include the bulk of his prosecutorial 
+
+
+26 
+
+
+misconduct claims, which had been resolved without discussion 
+by the Tennessee Court of Criminal Appeals and involved no 
+issues of general applicability precisely because Zimmermann’s 
+misbehavior was so extreme. 
+
+After the Tennessee Supreme Court denied petitioner leave 
+to appeal, he properly presented all of his federal constitutional 
+claims in his federal habeas corpus application. The district 
+court found that he had been denied effective assistance of 
+counsel at sentencing and accordingly vacated his death sen- 
+tence. But it declined to consider most of his claims of prose- 
+cutorial misconduct as an alternative or additional ground for 
+sentencing relief because it took the view that his failure to 
+include them in his TRAP 11 motion for permission to appeal 
+rendered them subject to the strictures of 28 U.S.C. § 2254(b), 
+forbidding habeas corpus relief when an “applicant has [not] 
+exhausted the remedies available in the courts of the State.” 
+This ruling supposed that an appeal by permission to the Ten- 
+
+
+nessee Supreme Court under TRAP 11 was a “remed[y] avail- _ 
+
+
+able” to petitioner within the meaning of § 2254(b) and its 
+companion provision, § 2254(c). 
+
+That supposition has been rendered entirely untenable by 
+supervening events. While petitioner’s case was pending in the 
+court of appeals on the state’s appeal and his protective cross- 
+appeal, this Court decided O ‘Sullivan v. Boerckel, holding that 
+a discretionary application to a state’s highest court is ordinanly 
+an “available” remedy which must be exhausted under 
+§ 2254(b) and (c) but that “there is nothing in the exhaustion 
+doctrine requiring federal courts to ignore a state law or rule 
+providing that a given procedure is not available.” 526 U.S. at 
+847-48. And while petitioner’s case was pending in this Court 
+on his 2001 Certiorari Petition, the Tennessee Supreme Court 
+accepted the option offered by O ‘Sullivan to make clear that the 
+monitory criteria of TRAP 11 reflect that court’s considered 
+policy that it does “not wish to have the opportunity to review 
+constitutional claims before those claims are presented to a 
+federal habeas court.” /d. at 847. It promulgated TSCR 39 as its 
+
+
+27 
+
+
+means of “clarif[ ying]” (TSCR Order (June 28, 2001)) that the 
+TRAP 11 criteria are not to be disregarded for the sake of fed- 
+eral habeas exhaustion, but that a convicted defendant in Ten- 
+nessee “exhaust[s] all available state remedies ... when the 
+claim has been presented to the Court of Criminal Appeals” 
+(TSCR 39). And, to clarify that this had always been the correct 
+interpretation of TRAP 11, the Tennessee Supreme Court ex- 
+pressly made Rule 39 applicable to all cases—past, present, and 
+future—processed under TRAP 11 since 1967 when the Court 
+of Criminal Appeals was created. 
+
+In light of TSCR 39, petitioner promptly moved (beginning 
+on the very day that his 2001 Certiorari Petition was denied) to 
+obtain a merits adjudication of the prosecutorial misconduct 
+claims that the district court had previously—and now demon- 
+strably incorrectly—held were not properly exhausted. 
+
+Again, as at every earlier stage of the proceedings, peti- 
+tioner faithfully followed the controlling dictates of state and 
+federal law in attempting to secure a single federal habeas 
+adjudication of these claims. The Sixth Circuit did not, and 
+could not, find otherwise or fault petitioner for his diligence and 
+perseverance in preserving the claims. Instead, the Sixth Circuit 
+foreclosed their consideration on the merits by mechanically 
+applying an iron-clad equation of any Rule 60(b) motion in a 
+habeas corpus proceeding with a “second or successive habeas 
+corpus application” that must be dismissed automatically under 
+28 U.S.C. § 2244(b)(1). 
+
+2. That equation is doubly wrong. It rests on two premises, 
+both of which are foreclosed by this Court’s precedents. The 
+first premise is that the successive-petition provisions of the 
+Antiterrorism and Effective Death Penalty Act of 1996 
+(“AEPDA”), current 28 U.S.C. § 2244(b)(1), apply to peti- 
+tioner’s Rule 60(b) motion. They do not, because petitioner’s 
+application for a writ of habeas corpus was filed in the district 
+court on April 23, 1996, prior to the effective date of AEDPA. 
+See Lindh v. Murphy, 521 U.S. 320, 336 (1997). Of course, 
+appellate proceedings instituted after AEDPA’s effective date 
+
+
+28 
+
+
+are governed by AEDPA’s appeal provisions (Slack v. McDan- 
+iel, 529 U.S. 473, 478 (2000)), but that is because they consti- 
+tute a distinct “case” on appeal which is “the relevant case for 
+a statute directed to appeals” (id. at 482). Even in post-AEDPA. 
+appeals, “Lindh requires a court of appeals to apply pre-AEDPA 
+law in reviewing [a] . . . trial court’s ruling” on issues presented 
+by a pre-AEDPA habeas petition. /d. at 481. And Rule 60(b) 
+motions come squarely within this dictate because the very 
+office of a Rule 60(b) motion is to correct an erroneous judg- 
+ment previously entered in the same case, and Rule 60(b) on its 
+face recognizes that the motion is not an “independent action” 
+or new case. “Because the question whether [petitioner’s Rule 
+60(b) motion is to be treated as a] ... second or successive 
+[habeas petition] implicates his right to relief in the trial court, 
+pre-AEDPA law governs.” /d. at 486. And Slack, as we shall 
+see, also clearly establishes that nothing in pre-AEDPA law 
+bars a Rule 60(b) motion in petitioner’s circumstances. 
+
+
+3. This Court has also authoritatively rejected the second 
+premise of the Sixth Circuit’s ruling equating petitioner’s Rule 
+60(b) motion with a successive habeas petition—the notion that 
+a federal habeas petitioner’s second attempt to secure relief on 
+a previously presented claim is eo ipso a “successive applica- 
+tion” within § 2244(b)(1) even when the claim was not adjudi- 
+cated on the merits at the first attempt. On this point, Stewart v. 
+Martinez-Villareal, 523 U.S. 637 (1998), and Slack v. McDan- 
+iel, supra, are controlling. In both of those cases, a federal 
+habeas corpus court declined to reach the merits of constitu- 
+tional claims on a procedural ground that subsequently ceased 
+to have force, and this Court held that the habeas applicant’s 
+renewed effort to obtain a single merits adjudication of his 
+otherwise properly preserved claims could not be turned away 
+as “second or successive.” 
+
+In Stewart, the federal district court had initially granted 
+Martinez-Villareal habeas relief on one claim but dismissed 
+another claim—that he was incompetent to be executed under 
+Ford v. Wainwright, 477 U.S. 399 (1986)—as premature. The 
+
+
+29 
+
+
+court of appeals reversed the grant of relief. Subsequently, 
+Martinez-Villareal tiled a motion in the district court “to reopen 
+his Ford claim,” which the district court held to be an imper- 
+missible “second or successive” petition. This Court ruled that 
+the district court had erred in so doing. Specifically, the Court 
+rejected the position that, because Martinez-Villareal “already 
+had one ‘fully-litigated habeas petition, the plain meaning of 
+§ 2244(b) as amended requires his new petition-to be treated as 
+successive.’” 523 U.S. at 643 (quoting Pet. Br. 12)). The error 
+in this position, the Court explained (id.), was its failure to 
+recognize that “the only claim on which [Martinez- Villareal] 
+... now seeks relief is the Ford claim that he presented to the 
+District Court, along with a series of other claims, in [his origi- 
+nal habeas application]”’: 
+
+This may have been the second time that respondent 
+
+had asked the federal courts to provide relief on his 
+
+Ford claim, but this does not mean that there were two 
+
+separate applications, the second of which was neces- 
+
+sarily subject to § 2244(b). There was only one appli- 
+
+cation for habeas relief, and the District Court ruled 
+
+(or should have ruled) on each claim at the time it be- 
+
+came ripe. Respondent was entitled to an adjudication 
+
+of all the claims presented in his earlier, undoubtedly 
+
+reviewable, application for federal habeas relief. 
+
+
+Id. (emphasis added). The Court thus distinguished the case 
+before it from “the situation where a prisoner raises a Ford 
+claim for the first time in a petition filed after the federal courts 
+have already rejected the prisoner’s initial habeas application.” 
+Id. at 645 n.*. 
+
+The Court in Stewart found particularly persuasive an 
+analogy to the proper treatment of habeas applications that are 
+dismissed for failure to exhaust state remedies, then re-filed 
+following exhaustion. In that circumstance, the subsequently 
+filed petition is not “successive.” 523 U.S. at 644. The Court 
+concluded that a claim previously dismissed on procedural 
+grounds such as prematurity “should be treated in the same 
+
+
+30 
+
+
+manner as the claim of a petitioner who returns to a federal 
+habeas court after exhausting state remedies.” /d. The critical 
+factor for the Court was that “in both situations, the habeas 
+petitioner does not receive an adjudication of his claim. To hold 
+otherwise would mean that a dismissal of a first habeas petition 
+for technical procedural reasons would bar the prisoner from 
+ever obtaining federal habeas review.” Id. at 645 (emphasis 
+added). 
+
+Slack posed the precise case that Stewart had contemplated 
+analogically. Slack’s 1991 federal habeas petition was dis- 
+missea for non-exhaustion. After exhausting his state remedies, 
+Slack filed a (numerically) second federal habeas petition in 
+1995: : 
+
+
+The District Court dismissed claims Slack failed to 
+raise in his 1991 petition based on its conclusion that 
+Slack’s 1995 petition was a second or successive ha- 
+beas petition. This conclusion was wrong. A habeas 
+petition filed in the district court after an initial habeas 
+petition was unadjudicated on its merits and dismissed 
+for failure to exhaust state remedies is not a second or 
+successive petition. 
+Slack, 529 U.S. at 485-86.'° And of course the very statutory 
+text of AEDPA points to this conclusion: Congress consistently 
+distinguished between “claims” and “applications” and pro- 
+scribed only successive applications, which is to say by neces- 
+sary implication that a habeas petitioner’s presentation of a 
+“claim” on two occasions does not, without more, trigger 
+§ 2244. See, e.g., 28 U.S.C. § 2244(b)(1) (“A claim presented 
+in a second or successive habeas application under section 2254 
+
+
+'© ‘It is true that Slack was decided under pre-AEDPA law. But Slack’s 
+reliance on the authority and reasoning of Stewart, coupled with Slack’s 
+express statement that “we do not suggest the definition of second or succes- 
+sive would be different under AEDPA,” 529 U.S. at 486, makes it quite clear 
+that Slack would have reached the same conclusion under AEDPA. 
+
+
+31 
+
+
+that was presented in a pnor application shall be dismissed.” 
+(emphasis added)). 
+
+4. The Sixth Circuit’s equation of a Rule 60(b) motion 
+with a successive habeas application even though the motion 
+raises only issues that were presented but unadjudicated in the 
+original application for the wnt would produce a result every bit 
+as “far reaching and seemingly perverse” as that condemned in 
+Stewart, 523 U.S. at 644. AEDPA’s § 2244(b)(1) categorically 
+requires that any claim presented in a second or successive 
+habeas application that was presented in a prior application 
+“shall be dismissed.” The Sixth Circuit’s equally categorical 
+holding in petitioner’s case, that every Rule 60(b) motion must 
+be treated as a successive application within § 2244(b), means 
+that no motions for relief from a habeas judgment can ever be 
+granted, even though the judgment was entered through mis- 
+take, fraud, or any of the other fundamental (though limited) 
+miscarriages of justice that invoke the traditional power of 
+courts in the Anglo-American tradition “to vacate judgments 
+whenever such action is appropriate to accomplish justice.” 
+Klaprott v. United States, 335 U.S. 601, 615 (1949). 
+
+
+Nothing in the text or legislative history of AEDPA sug- 
+gests that Congress intended to produce a result so impractically 
+fettering to the federal courts and profoundly unfair to the 
+parties before them. To the contrary, Congress adopted AEDPA 
+against the backdrop of this Court’s cousistent recognition that 
+a federal court’s refusal to consider claims presented in an 
+initial habeas petition “is a particularly serious matter,” for it 
+requires denying the “petitioner the protections of the Great 
+Writ entirely, risking injury to an important interest in human 
+liberty.” Lonchar v. Thomas, 517 U.S. 314, 324 (1996). Due to 
+the “importance of a first federal habeas petition,” this Court 
+has made clear that “it is particularly important that any rule 
+that would deprive inmates of all access to the writ should be 
+both clear and fair.” /d. at 330. AEDPA cannot be supposed to 
+have upset these traditional understandings sub silentio. Under 
+AEDPA, “[t]he writ of habeas corpus [still] plays a vital role in 
+
+
+32 
+
+
+protecting constitutional nights. In [enacting the statute] .. . 
+Congress expressed no intention to allow tral court procedural 
+error to bar vindication of substantial constitutional nights... .” 
+Slack, 529 U.S. at 483. 
+
+
+It is therefore not surprising that every other court of ap- 
+peals to consider the question has rejected the Sixth Circuit’s 
+holding in this case that a Rule 60(b) motion is categorically 
+forbidden as a successive habeas application. Other circuits 
+hold that Rule 60(b) motions never constitute successive appli- 
+cations (see Rodriguez ». Mitchell, 252 F.3d 191 (CA2 2001)), 
+or that such motions “may,” in specific circumstances, be 
+deemed successive applications (see, e.g., Thompson v. Cal- 
+deron, 151 F.3d 918, 923 n.3 (CA9 1998): “It suffices to say 
+that a bright line rule equating all Rule 60(b) motions with 
+successive habeas petitions would be improper.”’). The latter 
+courts focus on whether the Rule 60(b) motion seeks to evade 
+the prohibition against successive applications by (i) raising 
+new claims or evidence, or (ii) relitigating claims that have 
+already been decided on the merits. See Thompson v. Calderon, 
+151 F.3d at 921; United States v. Rich, 141 F.3d 550, 553 (CAS 
+1998); Felker v. Turpin, 101 F.3d 657, 660 (CA11 1996); 
+Mathenia v. Delo, 99 F.3d 1476 (CA8 1996), cert. denied, 521 
+U.S. 1123 (1997); Hunt v. Nuth, 57 F.3d 1327, 1339 (CA4 
+1995). It is the approach of these cases and the appropriate 
+construction of AEDPA, that, so long as a petitioner’s claims 
+are entirely set forth in his or her initial “application,” and s/he 
+does not seek a second merits adjudicwion of the claims, 
+“{t]here [is] oniy one application for habeas relief” (Stewart, 
+523 U.S. at 643-44), and Rule 60(b) consideration is available 
+because the petitioner in those circumstances asks only that the 
+district court “grant the original application” (Carey v. Saffold, 
+70 U.S.L.W. 4558, 4563 (June 17, 2002) (Kennedy, J., dissent- 
+ing)). 
+
+5. Under § 2244, as interpreted by this Court in Stewart, 
+petitioner’s attempts to secure relief on his unadjudicated 
+claims (the “TSCR 39 Claims’’) are not prohibited “successive” 
+
+
+33 
+
+
+habeas applications. Petitioner relies not upon the technical 
+form of his requests—i.e., the labels “petition for rehearing” in 
+the court of appeals and “Rule 60(b) motion” in the district 
+court—but upon their substance. Petitioner seeks an adjudica- 
+tion only of his claims of prosecutorial misconduct set forth in 
+his original habeas petition, which the district court never 
+considered on the merits. The factual predicate for those claims 
+was Stated in the onginal petition and developed at the eviden- 
+tiary hearing on that petition. Nothing petitioner seeks now to 
+have adjudicated either (i) goes beyond “the claims presented 
+in his earlier, undoubtedly reviewable, application,” Stewart, 
+523 U.S. at 643, or (ii) has yet been adjudicated on the merits 
+in federal court, compare Calderon v. Thompson, 523 U.S. 538, 
+554 (1998). 
+
+
+The only arguable distinction between this case and Stew- 
+art is that here the district court, after determining that peti- 
+tioner’s TSCR 39 claims were not exhausted, denied petitioner 
+relief on those claims rather than dismissing them “without 
+prejudice.” This distinction wholly lacks substance. Once again, 
+it is essential to look behind labels and to view the parallel 
+rulings in petitioner’s case and in Stewart in the context of 
+commonplace, customary federal habeas corpus practice. 
+
+
+Ordinarily, a petition that contains at least one unexhausted 
+claim must be dismissed without prejudice to permit exhaus- 
+tion. Rose v. Lundy, 455 U.S. 509 (1982). In petitioner’s case, 
+the district court held that petitioner’s TSCR 39 claims were not 
+properly exhausted. But the court also recognized that 
+“[p]etitioner may no longer present those claims to the state 
+court . . . because they would be barred by the statute of limita- 
+tions.”” Given that “[p]etitioner ha[d] no remedy currently avail- 
+able in state court,” the district court deemed the TSCR 39 
+claims to be procedurally defaulted; it dismissed them outnght 
+(id.); and it proceeded on to consider petitioner’s other chal- 
+lenges to his death sentence, one of which it sustained. In sup- 
+port of this practical approach, the district court cited and fol- 
+lowed the Sixth Circuit’s holding that “[{i]f a pnsoner fails to 
+
+
+34 
+
+
+present his claims to the state courts and he is now barred from 
+pursuing relief there, his petition should not be dismissed for 
+lack of exhaustion because there are simply no remedies avail- 
+able for him to exhaust.” Hannah v. Conley, 49 F.3d 1193, 
+1195-96 (1995). 
+
+Nothing about this treatment of the TSCR 39 claims con- 
+verts petitioner’s later requests for one merits ruling on them 
+into “successive applications” under the logic of Stewart. To the 
+contrary, the ruling denying the TSCR 39 claims because they 
+were unexhausted, and because no state procedures for ex- 
+hausting them remained open, produced the precise result, for 
+essentially the same reason, as the dismissal without prejudice 
+in Stewart: “[I]n both situations, the habeas petitioner [did] . . . 
+not receive an adjudication of his claim.” Stewart, 523 U.S. at 
+645. 
+
+
+6. Petitioner’s nght to an adjudication of his TSCR 39 
+claims is all the more apparent when this case is viewed within 
+the broader context of the historic role of federal habeas corpus 
+and the aim of the exhaustion doctrine in relation to that role. 
+Federal habeas corpus exists to correct federal constitutional 
+violations that the state courts have failed or declined to correct. 
+The exhaustion doctrine, in turn, “protect/s] the state courts’ 
+role in the enforcement of federal law and prevent[s] disruption 
+of state judicial proceedings.” Rose, 455 U.S. at 518-19. Thus, 
+this Court has recently confirmed that exhaustion “serves 
+AEDPA’s goal of promoting ‘comity, finality, and federalism,’ 
+by giving state courts ‘the first opportunity to review [a] ... 
+claim,’ and to ‘correct’ any ‘constitutional violation in the first 
+instance.’” Carey, 70 U.S.L.W. at 4560 (quoting Williams v. 
+Taylor, 529 U.S. 362, 436 (2000)). 
+
+
+In furtherance of these objectives, the federal habeas statute 
+
+
+leaves it to the states to define the post-conviction procedures _ 
+
+
+that a prisoner must exhaust as a predicate to pursuing federal 
+habeas relief. E.g., Coleman v. Thompson, 501 U.S. 722, 732 
+(1991) (a habeas petitioner must satisfy “the State’s procedural 
+requirements” for presenting federal constitutional claims); cf. 
+
+
+35 
+
+
+Carey, 70 U.S.L.W. at 4560 (“it is the State’s interests that 
+[AEDPA’s] . . . tolling provision seeks to protect, and the State, 
+through its Supreme Court decisions or legislation, can expli- 
+cate timing requirements more precisely should that prove 
+necessary”). Consequently, as this Court held in O'Sullivan, a 
+federal habeas petitioner is required to invoke “one complete 
+round of the State’s established appellate review process” (526 
+U.S. at 845), but, concomitantly, federal law does not require 
+“the exhaustion of any specific state remedy when a state has 
+provided that that remedy is unavailable” (id. at 847). 
+
+
+Tennessee, for its part, has long chosen not to provide a 
+nght of appeal to its state supreme court in post-conviction 
+matters. Instead, it has opted for a system in which the state’s 
+highest court reviews applications for permission to appeal and 
+grants them only in limited classes of cases involving important 
+legal issues. Litigants and lawyers are advised of these limits 
+and expected to respect them. See TRAP 11. Prior to this 
+Court’s decision in O ‘Sullivan, Tennessee had never explicitly 
+articulated the state’s view of the relationship between its dis- 
+cretionary application-for-permission process and the federal 
+exhaustion requirement. In response to O ‘Sullivan, however, 
+the state clarified that an application for permission to appeal is 
+not an “available” -emedy for purposes of preserving claims for 
+federal habeas corpus review. Rather, a defendant “exhaust(s] 
+all available state remedies . . . when the claim has been pre- 
+sented to the Court cf Criminal Appeals.” TSCR 39. And, 
+rather than adopting a new rule with prospective application, 
+the state pointedly declared that TSCR 39 reflects existing law, 
+applicable to “all appeals from criminal convictions or post- 
+conviction relief matters from and after July 1, 1967.” Jd. 
+
+
+Through rules such as TRAP 11 and TSCR 39, Tennessee 
+seeks to channel “the resolution of various types of questions to 
+the stage of the judicial process at which they can be resolved 
+most fairly and efficiently.” Coleman, 501 U.S. at 749 (quoting 
+Reed v. Ross, 468 U.S. 1, 10 (1984)). In particular, Tennessee 
+has now made plain that its long-standing system of screening 
+
+
+36 
+
+
+putative appeals can best achieve its aim—to preserve the 
+resources of its supreme court—by discouraging lawyers from 
+filing applications for permission to appeal that do not come 
+within the restricted categories of TRAP 11. And its promulga- 
+tion of TSCR 39 on June 28, 2001, has made particularly plain 
+that its procedures are designed to discourage the filing of 
+applications simply for the purpose of federal exhaustion— 
+applications that waste the time of the Tennessee Supreme 
+Court in reviewing claims that even the lawyers who tender 
+them do not believe meet the requirements of TRAP 11. 
+
+
+The clarification of Tennessee law effected by TSCR 39 
+established explicitly, authoritatively, and unequivocally that 
+the ground on which the district court had previously refused to 
+consider petitioner’s TSCR 39 claims was misguided. Petitioner 
+thereupon advised the courts below of the supervening promul- 
+gation of TSCR 39, and requested adjudication of the merits of 
+his federal claims that TSCR 39 had clarified were exhausted. 
+The ensuing persistence of the courts below in enforcing an 
+exhaustion rule contrary to Tennessee’s clear pronouncement of 
+the way it wants its own postconviction system to work is an 
+affront to that state’s self-determination and a subversion of its 
+interests. This is “a strange rule of federalism that ignores the 
+view of the highest court of a State as to the meaning of its own 
+law.” Stringer v. Black, 503 U.S. 222, 235 (1992). 
+
+
+Without the support of any state interest—and, indeed, in 
+the face of the Tennessee Supreme Court’s declaration that it 
+contravenes an important interest of the State of Tennessee— 
+the theory of exhaustion on which the district court refused to 
+consider petitioner's TSCR 39 claims can no longer be thought 
+to justify denying him a federal habeas corpus determination of 
+the merits of those claims. This Court has said repeatedly that 
+“(t]he wnt of habeas corpus indisputably holds an honored 
+position in our junsprudence” and remains “a bulwark against 
+convictions that violate ‘fundamental faimess.’”’ Engle v. Isaac, 
+456 U.S. 107, 126 (1982). See, e.g., Slack, 529 U.S. at 483; 
+Smith v. Bennett, 365 U.S. 708, 712 (1961). Petitioner has 
+
+
+37 
+
+
+properly preserved and pleaded claims of egregious violations 
+of fundamental fairness, and he should have a federal court's 
+adjudication of those claims. 
+
+
+Ill. PETITIONER IS ENTITLED TO AN ADJUDICA- 
+TION OF THE MERITS OF HIS PROSECUTORIAL 
+MISCONDUCT CLAIMS. 
+
+
+What we have said so far argues for reversal of the Sixth 
+Circuit's rulings rejecting petitioner’s Rule 60(b) motion and 
+his appellate remand motion on the grounds that these are 
+successive habeas applications barred by AEDPA’s § 2244(b). 
+If this Court decides no more than this, then it will presumably 
+remit the case to the two lower courts in which the respective 
+motions were presented, with appropmiate instructions for those 
+courts to consider the remaining procedural issues in the first 
+instance—whether the court of appeals should remand the 
+initial appeal to the district court, and whether the distnct court 
+should signify to the court of appeals its inclination to entertain 
+the Rule 60(b) motion. But we believe that this record affirma- 
+tively establishes petitioner’s entitlement to a merits adjudica- 
+tion of his TSCR 39 claims, and we urge this Court to so hold, 
+on either or both of the following grounds: First, because peti- 
+tioner promptly sought relief in the court of appeals before the 
+mandate issued on appeal following denial of his 2001 Certio- 
+rari Petition, the Sixth Circuit was obliged to modify its judg- 
+ment and to remand the case in light of the Tennessee Supreme 
+Court’s controlling pronouncement of state law in TSCR 39. 
+Second, under Fed. R. Civ. P. 60(b) petitioner is entitled to 
+“relief from [the] judgment” of the distnct court dismissing his 
+prosecutorial misconduct claims without consideration of their 
+menits. 
+
+A. The court of appeals erred in refusing to modify its 
+
+judgment and remand the case to the district court 
+for further consideration in the light of TSCR 39 
+
+Before the Sixth Circuit issued its mandate on appeal, the 
+Tennessee Supreme Court had promulgated TSCR 39, and 
+petitioner moved the court of appeals to modify the judgment 
+
+
+38 
+
+
+to take account of TSCR 39. It is hornbook law that until the 
+mandate is issued, the case “remains within the jurisdiction of 
+the court of appeals” (WRIGHT, ET AL., FEDERAL JURISDICTION 
+2d § 3987 (1999)) and the judgment is not “final” (id § 
+
+3987.1). An appellate court’s ruling is ineffective if “no man- 
+date was ever issued thereon” (Forman v. United States, 361 
+
+U.S. 416, 426 (1960)), for the mandate has “controlling signifi- 
+cance, for appellate purposes” (Commissioner v. Estate of 
+Bedford, 325 U.S. 283, 285-86 (1945)). See, e.g., Mary Ann 
+Pensiero, Inc. v. Lingle, 847 F.2d 90, 97 (CA3 1988) (“An 
+appellate court’s decision is not final until its mandate issues.”’). 
+And the fact that the mandate has not issued takes on even 
+greater significance in the context of federal habeas corpus, 
+because it is upon the issuance of the mandate that the state 1s 
+“entitled to the assurance of finality.” Calderon v. Thompson, 
+$23 U.S. 538, 556 (1998)."” 
+
+
+Given that the mandate had not issued at the time petitioner 
+sought relief in the court of appeals, and furthermore that no 
+judgment had been entered against petitioner by the district 
+court, the Sixth Circuit was obliged to give effect to TSCR 39. 
+It is a basic principle of appellate procedure that “a court is to 
+apply the law in effect at the time it renders its decision.” 
+Bradley v. Richmond Sch. Bd., 416 U.S. 696, 711-12 (1974). 
+“{I]f subsequent to the judgment and before the decision of the 
+appellate court, a law intervenes and positively changes the rule 
+which governs, the law must be obeyed, or its obligation de- 
+nied.” United States v. Schooner Peggy, 5 U.S. (1 Cranch) 103, 
+110 n.16 (1801) (Marshall, C.J.); see Hamm v. City of Rock 
+Hill, 379 U.S. 306, 312-14 (1964) (citing cases). This Court, for 
+
+
+” In consideration of the state's interest in finality, Calderon held that 
+a petitioner must make a “strong showing of ‘actua! imnocence’” in order to 
+justify a court of appeals recalling its mandate to “revisit the merits of its 
+earlier decision denying habeas relief.” 523 U.S. at 557. That standard is 
+inapposite here for the double reason that the mandate in petitioner's case 
+had not issued and petinoner does not seek reconsideration of a pnor ments 
+adjudication. 
+
+
+39 
+
+
+example, will vacate and remand a decision of a court of ap- 
+peals to give effect to an intervening change in state law, recog- 
+nizing that “a judgment of a federal court ruled by state law and 
+correctly applying that law as authoritatively declared by the 
+state courts when the judgment was rendered, must be reversed 
+on appellate review if in the meantime the state courts have 
+disapproved of their former rulings and adopted different ones.” 
+Lords Landing Village Condo. Council of Unit Owners v. Cont. 
+Ins. Co., 520 U.S. 893, 896 (1997) (per curiam). See also Tho- 
+mas Vv. Am. Home Prods., 519 U.S. 913 (1996) (per curiam). 
+
+
+Because of the controlling significance of the appellate 
+mandate, it makes no difference that petitioner requested that 
+the court of appeals amend its judgment after this Court had 
+denied the 2001 Certioran Petition. During the period in which 
+a petition for certiorari is pending in this Court, the lower courts 
+are powerless, or at the least very unlikely, to grant such a 
+request for relief. Petitioner properly moved the Sixth Circuit 
+to amend the judgment as soon as this Court denied certiorari. 
+In these circumstances, the courts of appeals uniformly recog- 
+nize that the denial of certiorari does not affect their power and 
+duty to modify their judgments to account for intervening legal 
+developments. See, e.g., Sargent v. Columbia Forest Prods., 75 
+F.3d 86 (CA2 1996); First Gibraltar Bank v. Morales, 42 F.3d 
+895 (CAS 1995); Bryant v. Ford Motor Co., 886 F.2d 1526 
+(CA9 1989), cert. denied, 493 U.S. 1076 (1990); Zipfel v. 
+Halliburton Co., 861 F.2d 565 (CA9 1988); Alphin v. Henson, 
+552 F.2d 1033 (CA4) (per curiam), cert. denied, 434 U.S. 823 
+(1977). 
+
+Manifestly, in the unique circumstances of this case, the 
+court of appeals erred in not amending its judgment to permit 
+the district court to consider the TSCR 39 claims. The promul- 
+gation of TSCR 39 after the district court’s rejection of those 
+claims for non-exhaustion but before the appellate mandate had 
+issued in petitioner’s case nullified completely, decisively, and 
+by a black-letter rule of unmistakable meaning and applicabil- 
+ity, the entire premise for the non-exhaustion ruling. With his 
+
+
+40 
+
+
+first and only federal habeas proceeding not yet final, petitioner 
+was entitled to the benefit of the Tennessee Supreme Court’s 
+correction of the fundamentally wrong premise upon which he 
+had been denied consideration of compelling evidence that his 
+death sentence was the product of unconscionable prosecutorial 
+contrivance in violation of due process. 
+B. Petitioner was entitled to consideration of his now 
+demonstrably exhausted prosecutorial misconduct 
+claims under Fed. R. Civ. P. 60(b) 
+
+
+Even if the court of appeals was not obliged to amend its 
+judgment, petitioner was entitled under Fed. R. Civ. P. 60(b) to 
+relief from the district court’s misguided ruling that his TSCR 
+39 claims were unexhausted, once the state law error underlying 
+that ruling was demonstrably established by a definite pro- 
+nouncement of the state’s highest court. 
+
+
+1. Rule 60(b) is the modern embodiment of the federal 
+courts’ inherent authority under Article II] of the Constitution 
+to exercise “power over [their] own judgments” (United States 
+v. Ohio Power Co., 353 U.S. 98, 99 (1957) (per curiam)), 
+including the power to correct those judgments. As such, the 
+Rule “does not provide a new remedy at all,” but rather is 
+“simply the recitation of pre-existing judicial power.” Plaut v. 
+Spendthrift Farm, 514 U.S. 211, 234-35 (1995). 
+
+This immemonial judicial power is traditionally flexible 
+and sufficiently resilient to take account of unforeseen contin- 
+gencies. “In simple English,” the Rule “vests power in courts 
+adequate to enable them to vacate judgments whenever such 
+action is appropriate to accomplish justice.” Kl/aprott v. United 
+States, 335 U.S. 601, 614-15 (1949). As this Court recently 
+confirmed, the Rule “reflects and confirms the courts’ own 
+inherent and discretionary power, ‘firmly established in English 
+practice long before the foundation of our Republic,’ to set 
+aside a judgment whose enforcement would work inequity.’” 
+Plaut, 514 U.S. at 233-24 (quoting Hazel-Atlas Glass Co. v. 
+Hartford-Empire Co., 322 U.S. 238, 244 (1944)). See also 
+
+
+41 
+
+
+Liljeberg v. Health Services Acquisition Corp., 486 U.S. 847, 
+863-64 (1988). 
+
+2. Rule 60(b) applies in habeas cases. The habeas jurisdic- 
+tion is essentially an equity forum (see, e.g., Schlup v. Delo, 
+513 U.S. 298, 319 (1995); Gomez v. United States District 
+Court, 503 U.S. 653, 653-54 (1992)), and it is inconceivable 
+that courts exercising such jurisdiction would not have the 
+inherent power traditionally possessed by all other courts to 
+correct their own judgments to avert injustice. Nothing in 
+AEDPA (or any other habeas statute enacted by Congress) 
+restricts the district courts’ authority to apply Rule 60(b). In- 
+stead, when enacting AEDPA, Congress crafted specific re- 
+strictions on the presentation of “successive” habeas applica- 
+tions, which are not applicable to petitioner’s case. See Part II, 
+supra."* In addition, this Court has limited the retroactive appli- 
+cation of supervening judicial decisions by the doctrine of 
+Teague v. Lane, 489 U.S. 288 (1989), which provides that “new 
+constitutional rules of cnminal procedure will not be applicable 
+to those cases which have become final before the new rules are 
+announced” (id. at 310). This Court has accordingly stated that 
+it is the Teague doctrine that constrains the application of Rule 
+60(b) in habeas cases. Agostini v. Felton, 521 U.S. 203, 239 
+(1997). Cf. Browder v. Director, 434 U.S. 257 (1978) (ex- 
+pressly holding that Fed. R. Civ. P. 52 and 59 apply on habeas 
+and suggesting that Rule 60(b) applies as well). 
+
+Nor is habeas a forum in which judgments are uniquely 
+immune from subsequent correction. To the contrary, it 1s a 
+
+
+ee 
+
+
+'§ Indeed, because Rule 60(b) embodies the federal courts’ inherent 
+power under the Constitution to correct erroneous and inequitable judg- 
+ments, the suggestion that Congress umplicitly restnicted the power in habeas 
+cases would raise a substantial constitutional question. Under the doctrine 
+of constitutional avoidance (see, e.g., /NS v. St. Cyr, 533 U.S. 289, 299-304 
+(2001); Vt. Agency of Nat. Res. v. United States ex rel. Stevens, 529 US 
+765, 787 (2000)), AEDPA could not properly be construed as umposing such 
+a restriction in the absence of an explicit and clear statement to that effect. 
+And of course AEDPA contains no such thing. 
+
+
+42 
+
+
+“familiar principle that res judicata is .applicable in habeas 
+proceedings,” for “{a]t common law, the denial by a court or 
+judge of an application for habeas corpus was not res judicata.” 
+Sanders v. United States, 373 U.S. 1, 7-8 (1963) (collecting 
+cases). Except to the extent expressly provided by Congress and 
+this Court’s junsprudence, “[c]onventional notions of finality 
+of litigation” do not constrain the wnt. /d. at 8. This Court’s 
+decisions accordingly “preclude application of strict rules of res 
+judicata” in habeas (Schlup, 513 U.S. at 319) anc instead em- 
+brace rules having the necessary flexibility to “accommodate[ | 
+both the systemic interests in finality, comity and conservation 
+of judicial resources, and the overnding individual interest in 
+doing justice in the ‘extraordinary case’”’ (id. at 322). 
+
+
+Thus, although Rule 60(b) may not be applied so as to cir- 
+cumvent the restrictions on successive applications or the 
+Teague doctrine, the Rule indisputably applies in habeas. That 
+has been the uniform conclusion of every court of appeals to 
+consider the question other than the Sixth Circuit in this case. 
+And that conclusion makes good practical sense. Distnct courts 
+confront a wide vanety of circumstances necessitating modifi- 
+cations to their judgments in habeas corpus cases, whether in 
+favor of the state or the petitioner. The broad authority con- 
+ferred by Rule 60(b) provides essential flexibility to adapt to 
+these circumstances. To take only the most obvious examples, 
+it cannot reasonably be disputed that a district court must retain 
+the power to correct a “mistake” in its judgment (Fed. R. Civ. 
+P. 60(b)(1)) or to modify or reverse a judgment that rests on 
+outnght fraud (id. 60(6)(3)). But the Sixth Circuit’s holding in 
+this case would deem even those most basic applications of the 
+Rule prohibited “successive” applications. 
+
+
+3. A comprehensive review of the lower courts’ decisions 
+applying Rule 60(b) in habeas proceedings demonstrates both 
+the need for the Rule in this context and the extraordinary 
+responsibility with which the courts have exercised the power 
+that the Rule embodies. Courts have wanly scrutinized claims 
+that intervening changes in the law justify relief from judg- 
+
+
+43 
+
+
+ment.'? They have also enforced stringent requirements to 
+assure that meritorious Rule 60(b) motions are filed promptly.” 
+In one case, a district court granted Rule 60(b) relief be- 
+cause its decision was erroneous and, by dismissing the petition 
+“without prejudice,” deprived the petitioner of any opportunity 
+to appeal. Whitmore v. Avery, 179 F.R.D. 252 (D. Neb. 1998). 
+In another, the court granted 60(b) relief to further consider the 
+habeas petitioner’s claims in light of evidence developed at a 
+hearing for a co-defendant. Montalvo v. Portuondo, No. 97 Civ. 
+3336 (RWS), 2001 U.S. Dist. LEXIS 10,686 (S.D.N.Y. July 30, 
+2001). It is settled, however, that the grant of habeas relief to a 
+co-defendant is not a sufficient ground to justify relief under 
+Rule 60(b). E.g., High v. Zant, 916 F.2d 1507 (CA11 1990). 
+
+
+Only two classes of cases have recurred: 
+
+
+e District courts sometimes discover that their dismissal of 
+a habeas petition rested on a legally erroneous standard, 
+such as an unduly stringent statute of limitations. When the 
+error becomes apparent, the court may reinstate the petition 
+under Rule 60(b), although it will carefully examine 
+whether the petitioner delayed in seeking relief.”' 
+
+e Habeas petitioners sometimes fail to receive notice that 
+their petitions have been dismissed. District courts scruti- 
+nize such claims carefully but, if satisfied that the peti- 
+
+
+'9 See, e.g., Jones v. Murray, 976 F.2d 169 (CA4 1992); United States 
+v. Hernandez, 158 F. Supp. 2d 388 (D. Del. 2001). 
+
+2 ‘See, e.g., Rodriguez v. Mitchell, 252 F.3d 191 (CA2 2001). 
+
+= This scenario occurred when the Second Circuit joined the other 
+courts of appeals in holding that habeas petitioners were entitled to a one- 
+year grace period to comply with AEDPA’s statute of limitations. Ross v. 
+Artuz, 150 F.3d 97 (1998). District courts that, based on prior circuit prece- 
+dent, had previously applied a more stringent timeliness standard to dismiss 
+habeas petitions, vacated their dismissals for petitioners who promptly 
+sought relief under Rule 60(b). See Matos v. Portuondo, 33 F. Supp. 2d 317 
+(S.D.N.Y. 1999); see also Robles v. Senkowski, No. 97 Civ. 2798 (MGC), 
+1999 U.S. Dist. LEXIS 11,565 (S.D.N.Y. July 30, 1999) (following Ross v. 
+Artuz, 150 F.3d 97 (CA2 1998)). 
+
+
+44 
+
+
+tioner is truly without fault, will apply Rule 60(b) to vacate 
+
+and re-enter a judgment in order to restart the petitioner’s 
+
+time to appeal.” 
+
+As a general provision of civil procedure, Rule 60(b) is, of 
+course, equally available to habeas respondents and petitioners. 
+Both state and federal government attorneys have successfully 
+availed themselves of the rule to reinstate criminal judgments 
+that federal habeas courts had improvidently overturned. In 
+Ritter v. Smith, the Eleventh Circuit had previously held that an 
+Alabama statute imposing a mandatory death sentence was 
+unconstitutional, and the court had issued its mandate. See 811 
+F.2d 1398, 1399-1400 (1987). The district court accordingly 
+entered an order requiring Alabama to resentence Ritter within 
+180 days. Jd. at 1400. One week later, this Court granted certio- 
+rari to resolve a conflict between the Eleventh Circuit’s deci- 
+sion invalidating the statute and a decision of the Alabama 
+Supreme Court upholding the statute. After this Court issued its 
+opinion holding that the statutory scheme was not facially 
+unconstitutional (Baldwin v. Alabama, 472 U.S. 372 (1985)), 
+the state’-which had received an extension of the time to re- 
+sentence Ritter—moved under Rule 60(b)(6) for relief from the 
+district court’s judgment on the basis of Baldwin. The district 
+court granted the motion and the Eleventh Circuit affirmed. The 
+court of appeals explained that “the circumstances [were] suffi- 
+ciently extraordinary to warrant relief under Rule 60(b)(6)” 
+(811 F.2d at 1401), not only because of the intervening change 
+in the law, but also because “the previous, erroneous judgment 
+of this court had not been executed” (id.), “there was only 
+minimal delay between the finality of the judgment and the 
+motion for Rule 60(b)(6) relief” (id. at 1402), there was a 
+
+
+22 Compare Elmore v. Henderson, No. 85 Civ. 0579, 1989 U.S. Dist. 
+LEXIS 8742 (S.D.N.Y. July 28, 1989) with Greenawalt v. Stewart, 105 F.3d 
+1268 (CA9 1997) (per curiam) (finding no extraordinary circumstances that 
+would justify vacating district court order denying habeas petition for failure 
+to exhaust all claims when pro se petitioner received timely notice of order 
+but failed to appeal). 
+
+
+45 
+
+
+“close relationship” between petitioner’s case and Baldwin 
+(id.), and “considerations of comity argue for the relief urged by 
+the state” (id. at 1403). In rejecting Ritter’s argument that states 
+are not entitled to Rule 60(b)(6) relief, the court observed that 
+“(were the roles in this case reversed, it is clear that [petitioner] 
+could have received the benefit of an intervening favorable 
+Supreme Court ruling.” /d. at 1404.” 
+
+
+Similarly, in United States v. Ginsburg, 705 F. Supp. 1310, 
+1325 (N.D. Ill. 1989), the district court had previously granted 
+relief on Ginsburg’s § 2255 motion, but the government filed a 
+motion to reconsider—which the district court construed as a 
+motion under Rule 60(b)(6)—.in light of subsequent, directly 
+contrary Seventh Circuit precedent. The district court acknow!l- 
+edged that post-judgment changes in law generally do not 
+warrant re-opening a case pursuant to Rule 60(b)(6). But em- 
+phasizing that “this is not an inexorable rule’” (quoting 11 
+WRIGHT & MILLER, FEDERAL PRACTICE AND PROCEDURE: CIVIL 
+§ 2864, at 223 (1973)), the court vacated its earlier order and 
+dismissed Ginsburg’s petition on the merits. Manifestly, if Rule 
+60(b)(6) were to be held inapplicable in the habeas context, that 
+would undermine state and federal interests as well as petition- 
+
+
+ers . 
+
+
+4. Although “[i}]ntervening developments in the law by 
+themselves rarely constitute the extraordinary circumstances 
+required for relief” under Rule 60(b) (Agostini v. Felton, 521 
+U.S. 203, 239 (1997)), petitioner’s case is truly extraordinary. 
+Not only are the equities exceptional, but the circumstances—a 
+state supreme court’s promulgation of a definitive procedural 
+rule that unquestionably demonstrates the error of a federal 
+habeas court’s decision barring consideration of the merits of a 
+manifestly substantial and otherwise properly preserved consti- 
+tutional claim—wiill rarely recur. 
+
+
+23 Compare Booker v. Singletary, 90 F.3d 440 (CA11 1996) (affirm- 
+ing denial of state’s Rule 60(b)(6) motion, based on intervening change in 
+law, when the state had not demonstrated “extraordinary circumstances”). 
+
+
+46 
+
+
+The district court’s dismissal of petitioner's TSCR 39 
+claims was “ruled by state law” (Lords Landing, 520 US. at 
+896) in the strong sense of depending entirely upon the federal 
+judge’s interpretation of the applicable state rule. The district 
+judge interpreted the state law rule to be that an application for 
+permission to appeal was an available remedy under Tennessee 
+law for purposes of the exhausiion doctrine because the state 
+courts had not expressly delineated the limitations of that rem- 
+edy or their implications for exhaustion. Unfortunately, the 
+district judge got Tennessee law exactly wrong. Recognizing 
+the possibility of such mistakes and seeking to avert their bur- 
+densome and harmful consequences under O'Sullivan, the 
+Tennessee Supreme Court has now acted to make them impos- 
+sible. TSCR 39 is a categorical and unambiguous pronounce- 
+ment by the state’s highest legal authority in its rulemaking 
+capacity that an application for permission to appeal is not, and 
+never has been, an available remedy under Tennessee postcon- 
+viction procedure. 
+
+Accordingly, this is not a case in which a federal habeas 
+applicant seeks to reopen a decision on the merits of any of his 
+claims or even to reopen a procedural preclusion ruling on the 
+basis of some supervening state court decision that requires 
+close reading and analysis to collate with previous state court 
+caselaw. To the contrary, TSCR 39 provides the rare kind of 
+“clear guidance from state law” that completely obviates the 
+need for complex or protracted “federal litigation.” Carey, 70 
+U.S.L.W. at 4564 (Kennedy, J., dissenting). Cf. Kirby Forest 
+Indus. v. United States, 467 U.S. 1, 18-19 (1984) (holding 60(b) 
+relief appropriate in light of the straightforward nature of a 
+change in circumstances). 
+
+This case presents additional extraordinary circumstances 
+that are generally absent when a losing party invokes an inter- 
+vening legal development as a basis for relief under Rule 60(b). 
+In combination, these circumstances justify relief under even 
+the most stringent standard of what “is appropriate to accom- 
+plish justice.” Klaprott, 335 U.S. at 615. Petitioner is sentenced 
+
+
+ml ct ili a 
+
+
+47 
+
+
+to death, and the judgment that he seeks to reopen is one 
+which—erroneously, as is now clear—foreclosed his single 
+opportunity to demonstrate in federal court that that sentence is 
+the product of a gross violation of due process. The state, by 
+contrast, would suffer little harm from the reopening of the 
+judgment. The only cost to the state—litigating petitioner’s 
+claims of prosecutonal misconduct once on the menits in federal 
+court, and on a record already made**—is the minimum cost 
+that attends every habeas petition, and is one that the federal 
+habeas statutes deem acceptable in order to enforce federal 
+constitutional nghts when, as in this case, the petitioner has 
+complied with his responsibility to properly present his claims 
+to the state and federal courts. 
+
+Equally important and unusual, institutional interests weigh 
+heavily in favor of granting petitioner Rule 60(b) relief. What- 
+ever interest the prosecution may have in enforcing petitioner’s 
+death sentence without federal adjudication of its constitution- 
+ality, that interest is counterbalanced by the state interest that 
+TSCR 39 and its explicit application to pre-promulgation cases 
+like petitioner’s were designed to promote. As we have noted 
+above, the enforcement of the district court’s errant non- 
+exhaustion ruling in this case disserves the very comity interests 
+that the ruling was supposed to serve when made. The district 
+court sought only to protect the Tennessee Supreme Court’s 
+opportunity to adjudicate petitioner’s federal constitutional 
+claims in the first instance. But TSCR 39 has now made clear 
+that the Tennessee Supreme Court regards that opportunity as 
+a disadvantage—as a profligate expenditure of the time and 
+labor it requires state supreme court justices to spend culling 
+claims that do not meet the state’s criteria for securing permis- 
+
+
+sion to appeal. 
+
+
+- Because the record is complete, there is no risk that delayed fact- 
+finding will adversely affect the quality of the evidence bearing on peti- 
+tioner’s TSCR 39 claims, to the detriment of either party or the inconven- 
+ience of the courts. 
+
+
+se ann ak NEO SNA ANNA, SSR SP Se RN NERY een rs We 
+
+
+48 
+
+
+Even absent such exceptional circumstances, when a fed- 
+eral ruling turns upon state law, the courts of appeals have 
+generally recognized that a federal court’s misapprehension of 
+the applicable state law rule may be remedied under Rule 60(b) 
+if it becomes apparent only after the ruling—especially when, 
+as here, the state event which makes the error manifest occurs 
+before the federal judgment has become final. Sargent v. Co- 
+lumbia Forest Products, Inc., 75 F.3d 86 (CA2 1996) (Winter, 
+J.),; Overbee v. Van Wailers & Rogers, 765 F.2d 578 (CA6 
+1985); Lairsey v. Advance Abrasives Co., 542 F.2d 928 (CAS 
+1976) (Godbold, J.); Pierce v. Cook & Co., 518 F.2d 720 
+(CA10 1975) (en banc); see also Cincinnati Ins. Co. v. 
+Fritzbeyers, 151 F.3d 574 (CA6 1998); McGrath v. Potash, 199 
+F.2d 166 (CADC 1952) (Prettyman, J.); Manhattan Cable 
+Television, Inc. v. Cabledoctor, Inc., 824 F. Supp. 34 (S.D.N.Y. 
+1993). On the other hand, if substantial time has passed after 
+the federal judgment became final, the equities may tip in favor 
+of denying Rule 60(b) relief. See, e.g., DeWeerth v. Baldinger, 
+38 F.3d 266 (CA2 1994). 
+
+
+The timeliness of petitioner’s Rule 60(b) motion thus takes 
+on considerable significance in demonstrating his entitlement 
+to relief. There is a stark contrast between this case and those in 
+which a Rule 60(b) movant seeks relief “years beyond” a final 
+judgment (Agostini, 521 U.S. at 256 (Ginsburg, J., dissenting)). 
+Less than forty-eight hours after this Court denied petitioner’s 
+2001 Certiorari Petition, he obtained a status conference and 
+advised the district court of his intention to file a Rule 60(b) 
+motion. And the motion itself was filed only three weeks 
+later—before the court of appeals issued its mandate; before the 
+district court entered any final judgment; and before this 
+Court’s denial of rehearing of its order denying certiorari, an 
+event that has special significance in Tennessee death penalty 
+jurisprudence because, under Tennessee law, it marks the first 
+time at which the state may set an execution date. See Tenn. S. 
+Ct. R. 12.4; Coe v. State, 17 S.W.3d 191, 192 (Tenn. 1999). 
+
+
+49 
+
+
+CONCLUSION 
+
+
+From the time petitioner’s postconviction counsel discov- 
+ered the unethical and unconstitutional machinations that prose- 
+cuting attorney John Zimmermann used to procure petitioner's 
+death sentence, they have brought these violations of due proc- 
+ess to the attention of the state and federal courts in compliance 
+with the rules of postconviction procedure of each court system, 
+and with unflagging diligence. The failure of the federal distnct 
+court to consider the merits of petitioner’s claims of prosecuto- 
+rial misconduct was a result of that court’s misunderstanding of 
+Tennessee postconviction procedure. The Tennessee Supreme 
+Court has since acted to eliminate any possible basis for such a 
+misunderstanding; and under this Court’s precedents—princi- 
+pally, Stewart v. Martinez-Villareal—there remains time to 
+rectify the consequences of the misunderstanding before they 
+become fatal. This Court should instruct the courts below to do 
+
+
+SO. 
+
+
+Respectfully submitted, 
+Bradley MacLean Thomas C. Goldstein 
+Stites & Harbison PLLC (Counsel of Record) 
+Suntrust Center, Suite 1800 Amy Howe 
+424 Church St. Goldstein & Howe, P.C. 
+
+
+4607 Asbury Pl., NW 
+Washington, DC 20016 
+Of Counsel: (202) 237-7543 
+
+James S. Liebman 
+
+435 W. 116th St., Box B-16 William P. Redick, Jr. 
+
+
+New York, NY 10027 P.O. Box 187 
+Whites Creek, TN 37189 
+
+
+Nashville, TN 37219 
+
+
+July 10, 2002 
+
+
+EES 
+
+
+APPENDIX A 
+
+
+la 
+RELEVANT STATUTORY PROVISION AND RULES 
+
+
+28 U.S.C. § 2244. Finality of determination 
+
+(b) (1) A claim presented in a second or successive habeas 
+corpus application under section 2254 that was presented in a 
+pnor application shall be dismissed. 
+
+(2) A claim presented in a second or successive habeas corpus 
+application under section 2254 ‘hat was not presented in a pnor 
+application shall be dismissed unless-- 
+
+(A) the applicant shows that the claim relies on a new rule of 
+constitutional law, madg retroactive to cases on collateral re- 
+view by the Supreme Court, that was previously unavailable; or 
+(B) (i) the factual predicate for the claim could not have been 
+discovered previously through the exercise of due diligence; 
+and 
+
+(ii) the facts underlying the claim, if proven and viewed in light 
+of the evidence as a whole, would be sufficient to establish by 
+clear and convincing evidence that, but for constitutional error, 
+no reasonable factfinder would have found the applicant guilty 
+of the underlying offense. 
+
+(3)(A) Before a second or successive application permitted by 
+this section is filed in the district court, the applicant shall move 
+in the appropriate court of appeals for an order authorizing the 
+district court to consider the application. 
+
+(B) A motion in the court of appeals for an order authorizing 
+the district court to consider a second or successive application 
+shall be determined by a three-judge panel of the court of ap- 
+peals. 
+
+(C) The court of appeals may authorize the filing of a second or 
+successive application only if it determines that the application 
+makes a prima facie showing that the application satisfies the 
+requirements of this subsection. 
+
+(D) The court of appeals shall grant or deny the authonzation to 
+file a second or successive application not later than 30 days 
+after the filing of the motion. 
+
+(E) The grant or denial of an authorization by a court of appeals 
+
+
+2a 
+
+
+to file a second or successive application shall not be appealable 
+and shall not be the subject of a petition for rehearing or for a 
+writ of certiorari. 
+
+(4) A district court shall dismiss any claim presented in a sec- 
+ond or successive application that the court of appeals has 
+authorized to be filed unless the applicant shows that the claim 
+satisfies the requirements of this section. 
+
+
+3a 
+
+
+Fed. R. Civ. P. 60. Relief from Judgment or Order 
+
+(b) Mistakes; Inadvertence; Excusable Neglect; Newly Discov- 
+ered Evidence; Fraud, Etc. On motion and upon such terms as 
+are just, the court may relieve a party or a party’s legal repre- 
+sentative from a final judgment, order, or proceeding for the 
+following reasons: (1) mistake, inadvertence, surprise, or ex- 
+cusable negiect; (2) newly discovered evidence which by due 
+diligence could not have been discovered in time to move for a 
+new trial under Rule 59(b); (3) fraud (whether heretofore de- 
+nominated intrinsic or extrinsic), misrepreseritation, or other 
+misconduct of an adverse party; (4) the judgment is void; (5) 
+the judgment has been satisfied, released, or discharged, or a 
+prior judgment upon which it is based has been reversed or 
+otherwise vacated, or it is no longer equitable that the judgment 
+should have prospective application; or (6) any other reason 
+justifying relief from the operation of the judgment. The motion 
+shall be made within a reasonable time, and for reasons (1), (2), 
+and (3) not more than one year after the judgment, order, or 
+proceeding was entered or taken. A motion under this subdivi- 
+sion (b) does not affect the finality of a judgment or suspend its 
+operation. This rule does not limit the power of a court to en- 
+tertain an independent action to relieve a party from a judgment, 
+order, or proceeding, or to grant relief to a defendant not actu- 
+ally personally notified as provided in Title 28, U.S.C., § 1655, 
+or to set aside a judgment for fraud upon the court. Wnits of 
+coram nobis, coram vobis, audita querela, and bills of review 
+and bills in the nature of a bill of review, are abolished, and the 
+procedure for obtaining any relief from a judgment shall be by 
+motion as prescribed in these rules or by an independent action. 
+
+
+4a 
+
+
+Tenn. App. Proc. Rule Rule 11. Appeal by Permission from 
+Appellate Court to Supreme Court. 
+
+(a) Application for Permission to Appeal; Grounds. -- An ap- 
+peal by permission may be taken from a final decision of the 
+Court of Appeals or Court of Cnminal Appeals to the Supreme 
+Court only on application and in the discretion of the Supreme 
+Court. In determining whether to grant permission to appeal, the 
+following, while neither controlling nor fully measuring the 
+court’s discretion, indicate the character of reasons that will be 
+considered: (1) the need to secure uniformity of decision, (2) 
+the need to secure settlement of important questions of law, (3) 
+the need to secure settlement of ques*ions of public interest, and 
+(4) the need for the exercise of the Supreme Court’s supervisory 
+authonty 
+
+
+Advisory Commission Comments 
+
+7. * 
+
+Pursuant to Rule 39, Rules of the Tennessee Supreme Court, an 
+appellant in a criminal case wil] be deemed to have exhausted 
+all available state remedies respecting a claim of error following 
+an adverse decision by the Court of Cnminal Appeals without 
+the necessity of filing a petition to rehear or an application for 
+permission to appeal under Tenn.R.App.P. | l(a). The Tennes- 
+see Supreme Court adopted Rule 39 in response to O ‘Sullivan 
+v. Boerckel , 526 U.S. 838 (1999), in which the U.S. Supreme 
+Court held that in order to satisfy the exhaustion requirement of 
+collatera! federal review under 28 U.S.C. § 2254, a state pnis- 
+oner must present his or her claims to the state supreme court 
+for discretionary review absent a state court rule or decision to 
+the contrary. This Advisory Commission Comment is to alert 
+attorneys to Rule 39, Rules of the Tenmessee Supreme Court, 
+which works no change to Tenn. R. App. P. 11 itself. 
+
+
+ee ae 
+
+
+Sa 
+
+
+IN THE SUPREME COURT OF TENNESSEE 
+AT NASHVILLE 
+
+
+IN RE: ORDER ESTABLISHING RULE 39, 
+RULES OF THE SUPREME COURT OF TENNESSEE: 
+EXHAUSTION OF REMEDIES 
+
+
+In 1967, the General Assembly created the Tennessee 
+Court of Criminal Appeals in order to reduce the appellate 
+backlog in criminal cases. In most criminal and post-conviction 
+cases, review of a final order of the Court of Criminal Ap- 
+peals is not a matter of nght, but of sound judicial discretion. 
+Permission to appeal will be granted by this Court only 
+where special and important reasons justify the exercise of 
+that discretionary review power, Tenn. R App. Proc. 11. We 
+recognize that criminal and post-conviction relief litigants 
+have routinely petitioned this Court for permission to appeal 
+upon the Court of Criminal Appeals’ denial of relief in order 
+to exhaust all available state remedies for purposes of federal 
+habeas corpus litigation. In order to clarify that denial of relief 
+by the Court of Criminal Appeals shall constitute exhaustion of 
+state remedies for federal habeas corpus purposes, we hereby 
+adopt the following Rule 39, Rules of the Supreme Court, as 
+stated below. 
+
+
+In all appeals from criminal convictions on post- 
+conviction relief matters from and after July 1, 1967, 
+a litigant shall not be required to petition for rehear- 
+ing or to file an application for permission to appeal 
+to the Supreme Court of Tennessee following an ad- 
+verse decision of the Court of Criminal Appeals in 
+order to be deemed to have exhausted al! available 
+state remedies respecting a claim of error. Rather, 
+when the claim has been presented to the Court of 
+Criminal Appeals or the Supreme Court, and relief 
+has been denied, the litigant shall be deemed to have 
+exhausted all available state remedies available for 
+that claim. On automatic review of capital cases by 
+
+
+ts 
+
+
+6a 
+
+
+the Supreme Court pursuant to Tennessee Code An- 
+notated, § 39-13-206, a claim presented to the Court 
+of Criminal Appeals shall be considered exhausted 
+even when such claim is not renewed in the Supreme 
+Court on automatic review. 
+
+
+FOR THE COURT: 
+
+
+Riley Anderson, Chief Justice 
+
+
+APPENDIX B 
+
+
+a vmedIUUY 
+
+
+707] 74a 3UTOd sy O2 SOeWT I eTdr3yTNW peseedep sey BHBurqqejys uebeq seuor 
+WO 28YUQ SOTJTISSQ URWAON “SW OWT pUe AUTOd styuy AY °*3ee3 ATeYUQ pue 
+(4, #l ~ symeq ayeyy putTyeq spuey ateyz Burputq pue weyy y30q ButpTosputta 
+‘edej JONpP ASUOCTATPUOS ATe YITM URWION “SW PUR peseerep aua 
+putq 03 uebeq useyy seUucr UsYy ACOTZ BYR UO STT OF URWION *sW puUe 
+Ppesesc5ep SY pezepAc puke 3eODS STYy AspuN woAzZ ANNO uNBAOCYS J3O-pemes 
+@ PeT{INd seuof UsYyM ASTTIW OF TTes 03 euenf{taew jo AuUNOWe TTeUs 
+
+e sonpoad o3 uebeq pesessep ey uotTysenb ut 3y6tu eu uO 
+
+
+*Auedwod Butyonaqy yey y3tm Butpueqs pooh ut 
+
+sem AjTjuerzedde peseersep sul *y90p ButpeotT eyQ uo Buty20m Auedwos 
+
+Sutyonaqy TeSOT e uITmM qol ewt A TINJ e eAeY PIP peseerep osuR 
+
+ySnoyzte ‘juewjzrzede sty worzz euen(tazew jo sHeq Texotu peTeseToym 
+
+. Ajquesedde peseesep ey yey mOYS SQ5ePz SUL *(WTY 203 37 
+
+396 pr[noS jeyy Apoqeulos meuy ey yey JUePUSzZep ey PTO peseerep 
+
+Oyu 3eYyQ Sufwte{[S ‘eutesod ut ATeep peseecsep ey 3eUR seTUeD 
+
+UBWION *SW YHNoYITe) Wty A20zZ eUTeDS05 jo eseyoand e dn yes peseesep 
+
+943 3e4Q peyAsenber pue seUucTe owes JUepUSzep sYyQ SUIT, PUOodeS 
+
+ey pue ‘sOnap Surseyoand aseyjanz jo esodand sy 1203 peseesep eu3 
+
+O32 peonpoaquT pue peseecsep ey 3 jo pusetaz e Aq s2ey3 3YyBnoraq useq 
+
+Sutaey owt} 3SAtT} eYyQ - SUOTSeDD0 snoTAeAd OM} UO esSNoY ATEeYR OF 
+
+useq pey seuor 3eyQ AZT3S93 PTNOM UeWAON *SW ‘eUeNfCTAeW jo AUNOWe 
+
+| {Tews e Surseysand jo sesodand eyj 1203 peseesep ey O23 ASTTIW 
+
+Sutonpoaquy jo esodand ey 3 103 ATqtsueqyso quem seuor *poomylTY 
+
+@ 9S8 3@ USAPTTYS OMQ S,URWION *SW YUITM PSATT CUM UeWAON eWAON 
+
+PUSTAZJTAIHO ut-sejJtT Sty pue ‘sTetued yOTIAAIed ‘pesescsep euQ ses OF 
+USM ASTTTW pUue SeUuCL *W'd OT punorze g9g6T ‘LT AAenaqeg uo 
+
+
+SLOWi “I 
+
+
+*etuealAsuued 
+‘eddtnbtyw ut eanqdes sty z9e7ze L8/LZ/E uo pe oTpuT sea 
+
+J®TTIW JUepUSszJep syL *Atne ATAze Jo sjep Tetaqz e YATM UOTSSNOsIp 
+Sutpued st esed eyL ‘j4UuepUuezJep eyQ AUeseradea OF peuTejea 
+
+useq MOU Sey 33022eG TeUOTT ‘UTAdTYOW Teen Aq pajueseradera ATAaewaz0S)g 
+*Azeqqoy peway pue ‘AanCur Arttpog yatm eerbeq 3Asatg euQ UT 
+
+ASPANW JIMWOD OF AUSZUI YITM ATNessy ‘se276eq ASATG ey UT Aepanw 
+
+4203 986T ‘TT AINE UO peAotput sem seuor juepUuSszep suUL 
+
+
+7a 
+
+
+Ajteued 
+yeep yees OF QUeIUT JO edTIOU JO BHBuT{TTIzZ AoZ uoTAeNTeASe ‘E6g-S 
+-98 ‘ASTTIW STTeAed prTozeH pue *ac¢ ‘seuor sey sower *vA 9323S :3u 
+
+
+L86T ‘eZ YOARW *aLvd 
+Jp wswnsoms uyor :woud 
+
+
+Aepes] wesel ‘praeurzeg setppg OL OWSW 
+
+
+sow 22, Prvse 2°87 97TH rye. pprnes ip Coyy 
+
+
+Pao f YAY 07 OK +> wes ../f PIS +z 108204 3 
+ey2 Qe3zs seucr ees ATTeNQOe OU PTP URWION *sH °(e) 
+
+
+peseesep 
+
+
+Kol a3SWO NI SASSENAVGM “II 
+
+
+a, If” jaa ‘O30 ‘uteBaeq eetd Aue jo seoueransse 
+ef ry sestwoad Aue 4noyAyA Quewe eqs Be ese eH “*LBET JO YOAeH 
+Uy PpeqIserzrze Ty3UN SeG6aeT Ae peuteuier pue ‘pTp ey yotya ‘Aep QeyQ 
+YIOM SARBST OF POUTWISIEP ASTTIW *2W JUTOd SsTYyA AW “Arey 03 306 03 
+200T}3 S43 3NO AOOYSs 02 eARYy ATQqeqorzd prtnom AseyQ Wey Q TeIzdsoy SYR 
+32 p2zen6 2zepun Atqytssod sea wytRIOTA sy SOUTS 2eUQ PezeIs SH *WseYyQ 
+AJJAUEPT PTNoCS eys esnedeq rey jo py2a 3656 pue Teyzdsoy ey Q oj 06 
+4 #\o3, SARU PTNOA ASTITW PUR ey 3eUQ PeQeQs seucocC ‘*uURWOA Hu0r4s Ares 
+sea Appelt eu 3eYyR PeYAewer SeUCL PUR PEATAANS WTROTA OYyQ QeYQ 
+oe} ey UO peqUeuN0S AsYyQ pue rz9YyQe603 420M ORUT Spor OMQ OYA OS 
+Kep Suyao{tTos eyL ‘*ucos uze6e 37 Op 02 eaey 03 Buzo6 e10m AeyQ 
+3ey3 ATYyICOWS OS WUEA ASepanu ey 3eYy3 WY PTOR seuoL WzeT Asyy 
+e347 33s ° : 2 aes AtTQuejaedde 
+T3298 STH “WTIOTA OY JJO QUBPUSZep SYR peTINd AeTTTW AUTOd QeYQ 
+Ae UdyA SsTeuez ey qeq{s Of UvBeq usyy pure pesvesep ey peqqeqs 
+nq £VH/1 SWTIOTA YIOq dn pedeQ seuocre ey eueds eyQ Suyanp jeyW sAes 
+*2@0A0MOH *OAROET pus edop s,uwtQ>OTA eYyR Qor ATduys 03 UOTWQUEQUT 
+eu2 UITA UT 3UeM AoyQ QyHzyU aeTNoTQAed styQ uO *AeAe URI PUL 
+peaeos 306 sy 3ey32 3Nq Sty Op O03 32eA0 Quem Ady AYySyu snoyzaead 
+®U2 322U2 PeTJT3SEe3 OH *pepwoTUN e10eM sUCdREeM YROG e10Je1943 PUL 
+sun5 ey UT SISTING OU S29M O70YR WeYQ SANS SXeW OF PeQURA ISTTIIW 
+‘IW ‘uty Butqqoa jo esodand ey3 203 wt{OTA eyQ ,buyrzeqsHueb, 
+Jo esodand ey 103 Jquewjaede s,wyt35TA |eyQ O65 03 pe yoTTOS 
+
+Ree SeA oy 3eyuR But 3e3s UOTSsezuOD {T{NzZ e eAeH ASTIIW °AW 
+
+paral 
+
+
+8a 
+
+
+6 . si . _ — *punoj oste 
+Pt ans sem souor Aq ur0M 3805 [OOM yORTq YROUeT [INJ Sy OSTe pue esned 
+wey STU UF WTQOTA ey Aq PETJTIUEPT SVM YOTYM SserQ3eW SF, UBPUSZeD 
+pny ey 2epun = @ S,seuccr 
+
+JO yozees y °**148/SZ/E UO peangqdeo sea AeTIIN ‘dneuzT oj0u4d 
+
+
+3ey3 UT wWTY PeTZTIAUePy UeWION *sW pue ‘dneuTT OCRVOYd e Uy peceTd 
+4S@ATRVTOA SFY WOIZ PeuTeqqo sem yderz6oj0ud e ‘eTTzZ uo Aoys Sow 
+
+/ sah @ GARY 3OU PTP ASTTIN °AW YBnoYUITY *yx20M OF peUuANQer AsASeU peYy 
+
+av pue paeog Buyystiqnd TeuoTIeN eYyQ worz Buyurow jeyQ ATsnoy2034sAu 
+2435/ 33°T pey ‘“ASTTTW eTTeaed ArzueH ‘eeAoTdwe puoses e& 3R43 
+wey 7779224098 FP OST@® S¥WA 2I “przeog Suryss{qnd TeUCTIeN eYyQ Qe SseUutTSsNq 
+O-an Sejd s @ pejser2e seA jue ep ey3 pue dneutT ojoud e 
+uy (935 Uy QURPUSezJEep Sey Pet TSATITsod uewi0 ‘seuor 4UuRepUezep 
+ay 30 ey} JO sweu syQ peTeeaer uoTIeHByAsSeAUL *33eT sQOefQns ey 
+pue pe ztnesse useq pey eys 29938 Sew pesOoTS pue peuedo 1200p e43 
+
+eut3 ATuo eyy Wey pUe pewI0z20ed e10M SQTNESSe SY ST}YA sestwead 
+
+842 33°T O32 perzeqQUe suo OU ey AJT3SE3 TT}4 eYysS “1200p yor 
+
+eyq Yy6noay i eAeeT puke AeQUNOD UEeYdITYyY ey JJO SABy SYQ SAGTIIEI 
+
+' $39efqns eyQ przeey sys ‘SNOyTISUOS [TT3S SETTYA “QUTOd sTYyQ Qe ‘yoORW 
+
+2ey O3UT peppequie eztuy ey? Ty3UN ATpeqQeeder URWION “SAW Qezs 
+
+©2 pepessoad useyA seuofr ‘*uoTIOe ey TTe peIeTIyUT pue szosse166e 
+
+ey, sem oyun souor sem 37 2eYQ pue sses0ad Bburdeq szyy Tre Suzanp 
+
+uez013 8q OF perevedde ASTTIW 3eYR PeTzTISeI eys ‘*Suyyew sea 
+
+ey spunos ey Aq BSuyAp sea oy J} se avedde pesessep ey pavey sys 
+
+
+Hd, 
+
+
+ave 
+
+
+q 
+
+
+4 
+
+
+ibys 
+
+
+wk 
+
+
+yw 
+
+
+8249000 
+
+
+UO ,998JAVOS, JO ouwu oyy Aq JTeswTy BSuyTTeS useq pey juepuezep 
+O42 OSES JULISUT O42 UL *SesUeZZ0 eseyR pez3TUMCD ey ewy3 
+
+O42 38 OURS PUL TEI PUBIS 032 JUeIedMOD PUNOZ Useq s,ey seses 
+UF 3Nq SABA 2UCI9ZZTP e243 20 OAR yuUNAUS ®q 02 Susees einjount 
+Azeae 28 pue suostad ey3 UF VOPIRVSTETeuUOTI{nNAzAQsuzy zo Ar03sTy 
+
+
+0°} 
+
+
+ie 
+
+
+tte 
+
+
+ey 
+
+
+-s6nap Gurttes do3s 
+
+
+Suct & sey eH ‘*pazea uzerd 
+
+
+38nf St seuce quepUezep euL 
+
+
+NOILIGNOD ‘IWLNGW S3NOCf INVGNGdg0 SHL ‘AI 
+
+
+| *SOSSOURTA 20430 83} YSnoIY, ©3e9S e432 03 UAOCUY 83983 
+31 TT® ATIOexe pexYOeIQ UOTSsezUOD s,2°eTT IN *PeATOAUy Y¥S0RSySeTE 
+
+
+' 
+*uoySyTea sty 
+
+
+wes Aue Sem e2042 2842 SeTUeP ASeTTTW UOTSsezUOD sty ur 
+
+
+3suyebe sem 3y soUTS S$300238 eYQ UO 
+
+
+OIUF PSESVOSep OY SIVOS Sty JO. TTe PIP ey 3eU3 
+
+
+aeAmet sty y6noryQ swyeto JURPUSZOP SYUL *SWTIOTA ey PeqqeIs pUP 
+
+
+~~ 
+
+
+Ost 
+5 
+
+
+Yh 
+
+
+03 
+
+
+@esnoy e423 perejUe-e12 .y5038 
+
+
+AORTA weS, JO eweu eyQ Aq TenpTaTpuT 
+
+
+GaouyUn UP PUR JUeW II2Ede SYy 3ZeT ASTTTmM pue ey yeU3 suyeTto 
+anq (3ufOd sztyQ 03 dn Buozqs os st wry 3suzebe Auowys S03 syQ couTs 
+Atsnozaqo) Suyedeq ey 2 JO ewt 3 ey 3e 3UeSead sea ey 3eyQ sr2eAMeT 
+STY O23 PUB ASOTZIJO STOAed syzy O23 pewyeTS sey 34UepUuezep euL 
+
+
+aSNZa30 SIH dO ANOGHL S,LNVONS490 SHL°III 
+
+
+*20y 9e3s 02 unBeq pue wyQ5 7A  DUODeS 
+
+
+242 02 eu0S pey juepUezep oy 3 2e8R3e aye 1203 pedse6 peseesep ey3 
+S@ PeAANDSSO ps|1e7RIeTds SeA Rey POOTq sy} 3eYR 3Nq perejjeds sea 
+32843 POCOTq eY43 soNpoad jou pPTp peseesep ey3 zo Surqqe3s eyQ AeYI 
+
+PEIFIS ASTITIW UOTSsezuoOS sty UL *pexI0M AUepUEezep EUR @lAsYA PrROCg 
+
+Sutysttqnd ey3 3e pesn eAp pez worzy ewes sjued s,jUuRpUezep eu3 
+
+
+UO SeTOTIAed pexr euL ‘utTeIs 
+
+
+SVA YOTYA 2} AeAO TTe sjoOds 
+843 JO YyYorRes eyQ Suyan 
+
+
+843 ‘OSTY ‘*peaansso Burqqe3 
+OY SWI SATIUS SY WVOS STY AVEA PTP AURPUEZEep eY3 3} 20 (unSjQ0Uus 
+
+
+8432 30 pT2a ue 305 Atsn 
+YOTYA) 32BOD AsyjouR YITA 8 
+JURPUSJep ey ‘peuReTS 3eOD 
+qeqs 03 ueBeq ey ez0zeq 3 
+*UeYDITy eUQ 2AeAOc TTe Bu 
+
+
+©u3 JO sydez5ojR0uqd ~-seuor fq 
+
+
+pootq Aue puyzz 03 eTqeun 
+
+
+pooTq uvuny AUB UTeQUODS 03 30U puNoOZ 
+Pet pey YOTYA QuewjIRede $s, jUBpUEezeD 
+Pp sjued y20M jo ated e peztes et Tod 
+S 843 USYA QUeseid jou sea ATsnoyAqgo 
+
+
+OFAqO eARY PTNOA sy scouts ATexXTT OU 
+StT0od ey Aq punoz 3e0D ey3 pesetde2 
+STY PRY JURPUSezZep ey ‘etdoed sesey3 
+
+BOD STY SeAOWsI QUePUEeZep eY3 Arz9SeYuIT” 
+F2033eds pootq Moys esnoy s,3Uepesep 
+UIOM 3805 TOOm BuoT ey3 uo Buyureqs 
+
+sea Q20dey qed *I*a*L °(5) 
+*leqORARYS 
+
+
+pooh sty 02 se Auowy seq jo Qunowe jUeSTZy;UBTS 30 AV TiqeTtyeae 
+643 pue p2z059e2 z0yad Aue jo esuesqe ey 30 esneseq 29°TTIW 3suTebe 
+
+
+Ay 
+
+
+Ajteued yjeep eu ensand 
+
+
+30U Op 8A ELA E! pusmmooe1 I *sUuoTIOW 
+
+
+Tey323-380d Aue pue Tez23 ,seuore Feqze Ajatez WyY 32023 TTT” 
+
+
+8M 3eYQ SoURANSSe ue ATduts 
+1 Aue ynNoyATA uoTssezuos 
+
+
+3nq ZUewesr6e upebaeq eetd sz 1Deds 
+STY UT YQAOJ Jos Asqjzew Jo yANIAQ 9sy3 
+
+
+A313s803 wty 3eT pue seuor WOAZ S8SBO STY ASsAZS 8A 3eUQ PUSUIODeA 
+I *ASTTIW “AW YITA OP 03 ARYA epToep AsnwW om *(q) 
+
+
+; wy 
+hay NE 629000 
+A pue ey ey pue 3208 STYyQ JO UOTSSTwW eQUeTTOTA YSsATZ SYR 920M 
+‘ WV Aeyd WEY SWTIOTA SYR PTOI JQuUePUSeJEep ey SAepanw eyQ jo sHSutuese 
+Me ws eu uo 3eUuL ‘*sBnap pue uot {nay Qsoad jo AQyUNUWMOD SYR PTA OF SEA 
+af 247300 FGO uyTew s,yoanyo ey pue AaqstTUuTW JO TedsoD eyy Jo yoanyD 
+y qv" 7, Uaeqseey {nos e432 SB UMOUX YOANYS MOU B PEYSTTQeISe YOOISHORTa 
+on 9 ot weS @ PUS ASTTIW “AW pue ey Jey SAepanw ey OF AOTAd Jey wTY 
+Iv A 2 PTO? quepuezep ey pue peSaeyoS sem ey raeqze AUuepPUsjJEep SYR PeITSTA 
+Ay? STTTAUSEN UT S29y ASOTJJO SOTOAed TeAepeg S,JURPUSzZeEp e4yQ ‘ TowWeRIAL 
+gf nol ‘*‘eesseuuel ‘eTTTAYSEN O39 SB86T ‘TZ AzeNAqeg UO perrezSUeIQ, SEM 
+eTozed sty T13qUN OCBeoTYyD UT peaTT ey ereyM ESET ‘EZ Aequieseqd UO 
+etdoed te1zepeg pooh ey3 Aq peTored sem juepuejep seul (* 2UuepToUT 
+STU JO STTeIEep pue s_oez ey OF Se AZTASEQ BWOD OF peer6e 
+Sey quewezeqS ey YOOR OYM QueBbY *I*a’d SYUL “WTRTS $, 3UBPUEezZEp 
+ey 3NqQer pue 3yNo sTYyR 3z2eeq AuoWT Seq ey JO AdyTAzOSURIR 
+ey puke UOTSSezUOD S,QUePUSezJep pue TeTI_ WeYQI JO AdTASSsURTR 
+eyuy peAtTerea eaey eM ‘*AepanW eeaBeq puodses Aaozy eoUeQUeS WNWTxeu 
+eu O02 WePUESezJEep ey pecduUeqUes eSpnl Tey23 EUR ‘Keuszoqaw *s*n 
+eyu2 03 Burtpacose ‘Aym st yoTYyA Azepanu pe _ezTpewead yno pure yNO 
+ue pue aem Bueb e ueyQ ezow Supyjou sem STYyQ 3eY4Q PTeSs eseo O43 
+peqnoesoad oym Aeuraojzqw *S*N eYL *yOe!RIe TeNxesowoY eB JO WTIOTA 
+eyi Suteq sem ey esnedseq SutTT}% eatsuezep e ATduts sem Sty 2e4 
+VTOJRALH SATIOSRZEC OF PewyTeTS QUepPUSzZep eYL) *WWeAANSUOD UNA OF 
+esuejues aeeXd ot e sntd eBbpne ey woaz esueques e377 e& Suyatesea 
+Azaeyqueyrued e JO epysuy uodeem ATpeep e jo esN SYyQ YITA pue 
+eei1bed pucdces ey i UT ASepANW JO ZLET UT PeROTAUOD SeM TeTAQ & 19935 
+pue s3ewuT A2syjoURe perAepanw quepuezep eyQ ‘etuTBataA ‘Sanqsiejed 
+ut AzetTqQue_TUSed TeAsepeg SYR 3e pe _erzsoraeouy STTUM *sieod 
+9 02 pb JO WI0R & OF peoduUSqUeS PUR OLET ‘6T AEQUeAON UO eeTd STY 
+©} jUeNSaAnd peqoTAUOD sem OH ‘*UOTIeTTeIsSUT Aze{TTywW e uo Areqqor 
+pewrze ue JO UOTSSTWWOS ey YITM 696T UT BSutUuUTBbeq Aaetjqueqtued ey3 
+UT UOTISZTTEUOTINATISUT JO paorea Huot e. sey QUuepPUszZep SUL 
+
+
+AYOLSIH SEUNOC LNWONSA3G °*A 
+
+
+*UOTRTPUOD Te US S,ASTTIW WNOQGe UZeDU0D OU ST e7eE4L 
+
+
+10a 
+
+
+‘ewes ey peqoefea oste Aan eyQ pue seuocr jo 
+
+esuezep Aqruesuy pewrteT> eyQ ATeqenbepe pez ynger yUyAYsS quewu2ea0c 
+
+euL ‘*pessessod ey YyoTYM Aoezep AO esSeeSsTp Te_ZUeW OU pUNoJ ey3 
+
+pue esTndwyt eTqTastTseza2y sem esuezep AjytuesUuT JeYyQ JO Aa0ey 3 eTos 
+
+eur *Ajtuesut jo uoseea Aq AqtT tN you peeTd ey ereymM TeTAQ 3SATZ 
+S$, jUepUezep eYyy JO AdyaoSUelQ e jo Adod e peateser eaey I 
+
+
+*sedetd O32 TTe 3 ANS pue AeSUTReYS B YOOR USeYyQ pue SAIOQTIEdWOS sty 
+
+jo euo zo Apog ey 3 peqeTTANW SdezJAeDS SASYM PeAaaNnsso sUSBDS WUSTOTA 
+OTReWTTS eyQ pue *d3e ‘SieAO syeQ ‘SieM Bnap ynoge eSueTOTA Yyonw 
+
+JO @eTAOW Be SBM BDeJABIS “*Aepanu ey OF zojtad aesejaess jo ede3 
+
+yt OSOPTA STY JUBPUSZEp Sey PeuROT ey 3eUI AZYISOEI TTT IISTA 3SatZ 
+y) S,2Uepusezep ey BuTAnp jUepedsep ey i OF JURPUSeZep eYyI eONpozIUy 
+od o4 uoszed jsatz ey pue ,eoezze cS, JTeswty SuyTTes 3dex qUuepUSzEep 
+ob 4% e@ud 3TNesse oy i JO OWT? OY IW “STTTAYSEN UT S294 SsoeUTSNG 
+(\ 7 Bnap ey ut eToOsnwu o3 BuyAaQqQ sem At queaedde pue s3e0219S 843 
+
+
+lla 
+
+
+089000 te 
+
+
+ey Sutanp uot IeArAesqo Asy OF se OF AJT3SER PTNOM UeWION *SW 
+
+2eUM PUR ‘UOTSSezZUOD STY UT pe zeIs ASTTIW 32eYM O03 AIORQOTpeAQUOD 
+
+Arte ynjtosqe euL *AaestzZzJO eTOAed sty OF WWeweRQeQSs snNoTAeld 
+
+STUY YITA BUSEASTSUODS “TeT23 Je Jou JT ‘eseyd AjTeued sy 3e ASeeT 
+
+ge Az1t3803 TTem Area Aew souor juepuezep eyL ‘*azoutm ATeatT QeTeA 
+
+e2emM uoTIedTOT_AAed ,sqURepUEeJep Sey pue uosired aseyjoue Aq pe jywuUOS 
+zepanw e UT SeoTTdwosce e1eM SsQUepUezJep eYuL *(S) 
+
+
+Q 
+
+
+SZOINVLSWNOMID ONILWOILIW ALTIWNGd HLW30 3IGISSOd GHL ‘IIA 
+
+
+*(URWION *SW JO Aepanw peqdweqje ey3 
+
+Se OWT SeWeS SYR 3e PEA QTWUIOD SeM WUSePEe5ep eYyR JO Aepanu eYyQ OSTe 
+
+pue Azeqqoa jo eBaeyo ey sqzcddns yotym ewoy ey woraz usyZeQ suezt 
+
+@29mM e1e4NR eSeS sty UT) Areqqoa ao Aaepanw eerBbep jasatz Aue *530 
+
+‘JO UOTSSTWWOS ey UT soTTdwooDe ue sem ‘Bur aqruwos uy pebebue 
+e1adm SQUePUSzeEp OY STTUM Pe zzTWMMIOD SeM ASpANw sYuL * (ZL) 
+
+
+(*930 
+
+‘snoinjz103 st pue Ajztaeadep seSueptae 31t peystTdwosse pey ey TT3uUN 
+
+dojys 30U PpTNOM pue wIY TIT 03 Surqydweqje sem juepUuezep ey 3eY43 
+
+MUX WTIOTA ey ereym ATaetNoTIAAaed sty exTT esed e ut sHutqqeys 
+
+eTdr3atTnw pue peqeedea eyQ yey UoTSNTOUOD e sjzaocddns sesseuuel Ut 
+
+MeT esed) putw jo Aqtaeadep Ao 81N{ZAOQ PeATOAUT YT Jey UT TeNas 
+ao ‘snotoojaje ‘snoutey ATTeT2edse sem Aaepanw eyL *(S) 
+
+
+*(aepanw ee160eq puoses jo pue Azeqqor pewrze Sur jjeqe pue 
+Butpte JO PpezOTAUOD Useq sey JUePUEeJep eYyR esed sty UT) UOSsied 
+@ O02 SUSTOTA JO 3eeIYR AO eSN sYyQ BuTATOAUT SeTUOTeZ e20W 10 
+euo JO pe RotTaAUOD ATsnoTaelzd sem seuor juRepUSzep eUuL *(Z) 
+
+
+cx 
+
+
+RlddW GINOD HOIHM SSONWLSWNOUID ONILWAVHSOW ALTIVNGd HLW3C "IA 
+‘ 960 
+Oo, any Avy’ °9 
+
+oy sus 21 av} Ww % € \ alan 
+
+
+euz OF TNIdGTey ST 3t Jey BHutTAres-jTeS SAOW ST QUeWEeRZeIS STY OSTe 
+pue s3y6ta Teuoyz3angzTAsuOS sty O37 se Arowew worz ATTeAo AUepUEezEepP 
+eu2 pestape ey 3ey3 Aes ATUO URS ToOWWRAL “AW SOUTS QUSUIEQZeIS STU 
+Butaatwpe ut AytnoyZZtp 3ee16 evaey ATqeqoad ptnom em) ‘*Aaepanu 
+
+®Y2 PesseugtTA ey 3eY Ie9TzZzO eToaed sty O23 peTUep SH “WTIOTA OYR 
+peraspanw useyj eAaey 3Ysnu puUe eSsNoYy Sy SepTSUT peuTewer 4OORS}HOeTa 
+wes 3eu2 3NQ ABO STY UT JTeM OF SSMOY SYQ 33°T ASTTIW pue 
+
+ey 2eYR ASDTJJO STOAed ey TTS OF UO QUEM BURPUSzZep SeYL “Woorpeq 
+©} 2ey perepzo 3nq UeWION *SW JO Suydeq Aue pTp ey 3eYyI PeTUeP 
+
+3nq edez 3°np yATA Jeez pue spuey s,juepesep ey puNocg A2eTTIW 
+
+
+T89000 | | *seuor UT sUuOoT OW 
+TeT23-3s0d pue TeTAQZ SYR ASRZe TIQUN ASTTIW *“AW UTA epeu oq 
+utebaeq eeTd ou Qeyz ‘zeyuzaNg ‘*seuor ysutebe AtTTNzyIANAQ A3}3809 
+O02 seei16e ASTIIW “AW 3eUQ AQUeAe OYA UT SeUOCL AUePUSezEep Aszje 
+
+ese sty Al pure ASTTIIW “AW AeAeS |ReRS SUR AeUL *(Z 
+
+
+*seuor jUuRepUezep ey yAsuTeBbe 
+Azjeued yyeep eyR yYees OF SOTIOU eTTZ e3e9S eu 3eUL *(T 
+
+
+SNOILVONGWWOOSY *XI 
+
+
+i 
+
+*TeTz22 eyQ JO UOT IAOCd AZAzocYS AsyjeA e oq [Tt eseyud AqTeued 
+| 942 Aepanw ee16eqd 3sAtg JO STpAnYy ey sewoczeao Aanf eyA eou0 
+SASTTEQ I “*ASTTIW WUeBPUSezJep-oOD pue UueWION *sW JO AUOWTISeQ ey 3 
+ueat6 Suozqs Azea AXOA ST AT 3NQ 3TTINB jo ensst eyQ UO ANYSs PUP 
+uedo 30U St ese> esyL *ATHXOTND Area epew sem AQTeued yeep eyQ jo 
+uot3senb ey soUusSOUUT 20 3TtTNB uo peerzBbe Aan eyQ azeqzy *ewTas 
+242 JO UOTSSTWWOS eY3 OF preBer YRITM PperezZJO SAeM SEedUeQSWNDIATO 
+SutzeSt3tw pue peyse3juos ATuBSty sea 3TtnB jo ensst eyuQ eseo 
+euz 3e4u3 UT 3yOTAM SeTzAeUDd “A O3e9S JO esed AjTeued yeep ey UT 
+
+sensst ey eYyMeuoS u1r0eQ3ed eased STU UT SEeNSST eUuL *(pP) 
+
+
+sueew utetd 3sne 
+
+3nq ,Azeis, JOU SeAM QUePUSezTep syQ 3eYUQ WOezJ SYR AsuUeW BHBuTSUTAUOCD 
+
+AlI@A & UT SORZETNOTIAS ASTTIW UOTSSezUOD sTYy UI *OXSeM UTeTd 
+
+st An6 ey yUTYR 3,UsSe0op Aanf eyQ 3euR Os AeA OoUlOS UT YRTA 3Teep 
+eq O02 eaey ATPeRGnopun TTA AUeweTS eoejaess euL *(q) 
+
+
+*siticw 
+
+ey UO TeTIQ eB We AZT3SEQ PTNOS Juepusezep eyQ esed sy $,3eY ZI 
+
+*"weyz JO eSNM ey eZTACYANe PTNOM ATAeeTS MeT [eUOTSTSep sessouueEL 
+
+yBnoy3zte yotym Auowt {seq s,3UepUezep eyuQ YoRedwT OF SUOTIOTAUOCD 
+aotad om 3 98yu3 esn sn jet 30u Aew zqany eGpner *(e) 
+
+
+12a 
+
+
+SW31d0uUd YZHLO “IIIA 
+
+
+“2uURpUeZep S43 
+Aq peraoygne eTotTzze pooh e s,3I *53e@ ‘ou ou e St 3eYyR pue sieg 
+putyeq dn pue ued noA se azotaeyeq Teutwtas ao shnap uy peaToaut 
+306 03 30u etTdoed Bunod Buyuzea QyGnoyq sues Area squeserder 
+yuoTYyM paeog BuTrystTqnd TeUCTIeN eYyR Je Buryz0mM eTTYyM peustTqnd 
+pey 2UBPUSTEp ey 3eYQ STITIAe Ue ST WTeTS sty Buy 33nqea osTy 
+*eues pue qQUeqedWwOS sem QUePUezJep ey 3eU PpepnNToUOCS ATsnowTUeUN 
+, Tre Aeyz pue uoTIeNTeAS ATeYyQ UT AsAsOSQeYM TTe 3e YO QTY ou 
+Sem exreuL *eses AqtTeued yjeep TetjUejOd e sem STYyR Wey pesTApe 
+em se gol yBnorzoy3 pue eatjasneyxe Area e ptp AsyR pue sesseuuel 
+STPPTIW 3&8 peazanooso sey seuor jUuepUezep eyQ jo Suryutays ATuo ey3 
+owt ut 3uToOd sty3 aw “AqQtoedeS TeqQuew peystutwtIq °*(g) 
+
+

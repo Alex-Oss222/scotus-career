@@ -1,0 +1,368 @@
+71
+OCTOBER TERM, 2002
+Syllabus
+UNITED STATES et al. v. BEAN
+certiorari to the united states court of appeals for
+the fifth circuit
+No. 01–704.
+Argued October 16, 2002—Decided December 10, 2002
+Because of respondent’s felony conviction, he was prohibited by 18 U. S. C.
+§922(g)(1) from possessing, distributing, or receiving ﬁrearms or ammu-
+nition.
+Relying on §925(c), he applied to the Bureau of Alcohol, To-
+bacco, and Firearms (ATF) for relief from his ﬁrearms disabilities.
+ATF returned the application unprocessed, explaining that its annual
+appropriations law forbade it from expending any funds to investigate
+or act upon such applications.
+Invoking §925(c)’s judicial review provi-
+sion, he ﬁled suit, asking the District Court to conduct its own inquiry
+into his ﬁtness to possess a gun and to issue a judicial order granting
+relief.
+The court granted the requested relief, and the Fifth Circuit
+afﬁrmed.
+Held: The absence of an actual denial by ATF of a felon’s petition pre-
+cludes judicial review under §925(c).
+The Secretary of the Treasury is
+authorized to grant relief from a ﬁrearms disability if certain precondi-
+tions are met, and an applicant may seek federal-court review if the
+Secretary denies his application.
+Ibid.
+Since 1992, however, the ap-
+propriations bar has prevented ATF, to which the Secretary has dele-
+gated this authority, from using appropriated funds to investigate or act
+upon the applications.
+Section 925(c)’s text and the procedure it lays
+out for seeking relief make clear that an actual decision by ATF on an
+application is a prerequisite for judicial review, and that mere inaction
+by ATF does not invest a district court with independent jurisdiction.
+Grammatically, the phrase “denied by the Secretary” references the Sec-
+retary’s decision on whether an applicant “will not be likely to act in a
+manner dangerous to public safety,” and whether “the granting of the
+relief would not be contrary to the public interest.”
+Such determina-
+tion can hardly be construed as anything but a decision actually denying
+the application.
+Under §925(c)’s procedure for those seeking relief, the
+Secretary, i. e., ATF, has broad authority to grant or deny relief, even
+when the statutory prerequisites are satisﬁed.
+This procedure shows
+that judicial review cannot occur without a dispositive decision by ATF.
+First, in the absence of a statutorily deﬁned standard of review for
+action under §925(c), the Administrative Procedure Act (APA) supplies
+the applicable standard.
+5 U. S. C. §§701(a), 706(2)(A).
+The APA’s “ar-
+bitrary and capricious” test, by its nature, contemplates review of some
+
+72
+UNITED STATES v. BEAN
+Opinion of the Court
+action by another entity.
+Second, both parts of §925(c)’s standard for
+granting relief—whether an applicant is “likely to act in a manner dan-
+gerous to public safety” and whether the relief is in the “public inter-
+est”—are policy-based determinations and, hence, point to ATF as the
+primary decisionmaker.
+Third, §925(c) allows the admission of addi-
+tional evidence in district court proceedings only in exceptional circum-
+stances.
+Congressional assignment of such a circumscribed role to a
+district court shows that the statute contemplates that a court’s deter-
+mination will heavily rely on the record and the ATF’s decision.
+In-
+deed, the very use in §925(c) of the word “review” to describe a court’s
+responsibility in this statutory scheme signiﬁes that it cannot grant re-
+lief on its own, absent an antecedent actual denial by ATF.
+Pp. 74–78.
+253 F. 3d 234, reversed.
+Thomas, J., delivered the opinion for a unanimous Court.
+Deputy Solicitor General Kneedler argued the cause for
+petitioners.
+With him on the briefs were Solicitor General
+Olson, Assistant Attorney General McCallum, Irving L.
+Gornstein, Mark B. Stern, and Thomas M. Bondy.
+Thomas C. Goldstein argued the cause for respondent.
+With him on the brief were Larry C. Hunter and Amy
+Howe.*
+Justice Thomas delivered the opinion of the Court.
+We consider in this case whether, despite appropriation
+provisions barring the Bureau of Alcohol, Tobacco, and Fire-
+arms (ATF) from acting on applications for relief from ﬁre-
+arms disabilities of persons convicted of a felony, a federal
+district court has authority under 18 U. S. C. §925(c) to grant
+such relief.
+I
+After attending a gun show in Laredo, Texas, respondent,
+Thomas Lamar Bean, a gun dealer, and his associates drove
+*Craig Goldblatt and Mathew S. Nosanchuk ﬁled a brief for the Vio-
+lence Policy Center as amicus curiae urging reversal.
+Briefs of amici curiae urging afﬁrmance were ﬁled for the Law Enforce-
+ment Alliance of America, Inc., by Richard E. Gardiner; and for the Sec-
+ond Amendment Foundation by William M. Gustavson.
+
+73
+Cite as: 537 U. S. 71 (2002)
+Opinion of the Court
+respondent’s vehicle to Nuevo Laredo, Mexico, for dinner.
+Bean v. Bureau of Alcohol, Tobacco and Firearms, 253 F. 3d
+234, 236 (CA5 2001).
+When Mexican ofﬁcials stopped the
+vehicle at the border, they found in the back, in plain view,
+approximately 200 rounds of ammunition.
+Ibid.
+According
+to respondent, he had instructed his associates to remove
+any ﬁrearms and ammunition from his vehicle, but inexplica-
+bly one box remained.
+Ibid.
+Respondent was convicted in
+a Mexican court of importing ammunition into Mexico and
+sentenced to ﬁve years’ imprisonment.
+Because of his felony conviction, respondent was prohib-
+ited by 18 U. S. C. §922(g)(1) from possessing, distributing,
+or receiving ﬁrearms or ammunition.
+Relying on §925(c),
+respondent applied to ATF for relief from his ﬁrearms disa-
+bilities.
+ATF returned the application unprocessed, explain-
+ing that its annual appropriations law forbade it from ex-
+pending any funds to investigate or act upon applications
+such as respondent’s.
+Respondent then ﬁled suit in the United States District
+Court for the Eastern District of Texas.
+Relying on the ju-
+dicial review provision in §925(c), respondent asked the Dis-
+trict Court to conduct its own inquiry into his ﬁtness to pos-
+sess a gun, and to issue a judicial order granting relief from
+his ﬁrearms disabilities.
+Respondent attached various afﬁ-
+davits from persons attesting to his ﬁtness to possess ﬁre-
+arms.
+After conducting a hearing, the court entered judg-
+ment granting respondent the requested relief.
+The Court
+of Appeals for the Fifth Circuit afﬁrmed, concluding that
+congressional refusal to provide funding to ATF for review-
+ing applications such as respondent’s “is not the requisite
+direct and deﬁnite suspension or repeal of the subject
+rights.”
+253 F. 3d, at 239.
+The Fifth Circuit then pro-
+ceeded to hold that the District Court had jurisdiction to
+review ATF’s (in)action.
+We granted certiorari.
+534 U. S.
+1112 (2002).
+
+74
+UNITED STATES v. BEAN
+Opinion of the Court
+II
+Under federal law, a person who is convicted of a felony is
+prohibited from possessing ﬁrearms.
+See §922(g)(1).
+The
+Secretary of the Treasury is authorized to grant relief from
+that prohibition if it is established to his satisfaction that
+certain preconditions are met.
+See §925(c).1
+An applicant
+may seek judicial review from a “United States district
+court” if his application “is denied by the Secretary.”
+Ibid.
+Since 1992, however, the appropriations bar has prevented
+ATF, to which the Secretary has delegated authority to act
+on §925(c) applications,2 from using “funds appropriated
+1 Title 18 U. S. C. §925(c) provides:
+“A person who is prohibited from possessing, shipping, transporting, or
+receiving ﬁrearms or ammunition may make application to the Secretary
+for relief from the disabilities imposed by Federal laws with respect to the
+acquisition, receipt, transfer, shipment, transportation, or possession of
+ﬁrearms, and the Secretary may grant such relief if it is established to
+his satisfaction that the circumstances regarding the disability, and the
+applicant’s record and reputation, are such that the applicant will not be
+likely to act in a manner dangerous to public safety and that the granting
+of the relief would not be contrary to the public interest.
+Any person
+whose application for relief from disabilities is denied by the Secretary
+may ﬁle a petition with the United States district court for the district in
+which he resides for a judicial review of such denial.
+The court may in
+its discretion admit additional evidence where failure to do so would result
+in a miscarriage of justice.
+A licensed importer, licensed manufacturer,
+licensed dealer, or licensed collector conducting operations under this
+chapter, who makes application for relief from the disabilities incurred
+under this chapter, shall not be barred by such disability from further
+operations under his license pending ﬁnal action on an application for relief
+ﬁled pursuant to this section.
+Whenever the Secretary grants relief to
+any person pursuant to this section he shall promptly publish in the Fed-
+eral Register notice of such action, together with the reasons therefor.”
+2 Respondent contends that congressional denial of funds to ATF did not
+eliminate the Secretary’s power to act on his application.
+In support,
+respondent notes that §925(c) refers to the action by “the Secretary.”
+That claim, however, is waived, as respondent raised it for the ﬁrst time
+in his brief on the merits to this Court.
+Even if considered on the merits, respondent’s argument faces several
+difﬁculties.
+First, it appears that the Secretary delegated to ATF the
+
+75
+Cite as: 537 U. S. 71 (2002)
+Opinion of the Court
+herein . . . to investigate or act upon applications for re-
+lief from Federal ﬁrearms disabilities under 18 U. S. C.
+[§]925(c).”
+Treasury, Postal Service, and General Govern-
+ment Appropriations Act, 1993, Pub. L. 102–393, 106 Stat.
+1732.3
+Accordingly, ATF, upon receipt of respondent’s peti-
+tion, returned it, explaining that “[s]ince October 1992, ATF’s
+annual appropriation has prohibited the expending of any
+funds to investigate or act upon applications for relief from
+Federal ﬁrearms disabilities.”
+App. 33–34.
+Respondent
+contends that ATF’s failure to act constitutes a “denial”
+within the meaning of §925(c), and that, therefore, district
+courts have jurisdiction to review such inaction.
+We disagree.
+Inaction by ATF does not amount to a “de-
+nial” within the meaning of §925(c).
+The text of §925(c) and
+exclusive authority to act on petitions brought under §925(c), see 27 CFR
+§§178.144(b) and (d) (2002); such delegation is not unreasonable.
+Second,
+even assuming the Secretary has retained the authority to act on such
+petitions, it is not clear that respondent would prevail were he to ﬁle a
+requisite action under 5 U. S. C. §706(1) (providing for judicial review to
+“compel agency action unlawfully withheld or unreasonably delayed”).
+Not only does the Secretary, by the explicit terms of the statute, possess
+broad discretion as to whether to grant relief, see infra, at 76–78, but
+congressional withholding of funds from ATF would likely inform his exer-
+cise of discretion.
+3 In each subsequent year, Congress has retained the bar on the use of
+appropriated funds to process applications ﬁled by individuals.
+Treasury
+and General Government Appropriations Act, 2002, Pub. L. 107–67, 115
+Stat. 519; Consolidated Appropriations Act, 2001, Pub. L. 106–554, 114
+Stat. 2763A–129; Treasury and General Government Appropriations Act,
+2000, Pub. L. 106–58, 113 Stat. 434; Treasury and General Government
+Appropriations Act, 1999, Pub. L. 105–277, 112 Stat. 2681–485; Treasury
+and General Government Appropriations Act, 1998, Pub. L. 105–61, 111
+Stat. 1277; Treasury, Postal Service, and General Government Appropria-
+tions Act, 1997, Pub. L. 104–208, 110 Stat. 3009–319; Treasury, Postal
+Service, and General Government Appropriations Act, 1996, Pub. L. 104–
+52, 109 Stat. 471; Treasury, Postal Service and General Government Ap-
+propriations Act, 1995, Pub. L. 103–329, 108 Stat. 2385; Treasury, Postal
+Service, and General Government Appropriations Act, 1994, Pub. L. 103–
+123, 107 Stat. 1228.
+
+76
+UNITED STATES v. BEAN
+Opinion of the Court
+the procedure it lays out for seeking relief make clear that
+an actual decision by ATF on an application is a prerequisite
+for judicial review, and that mere inaction by ATF does not
+invest a district court with independent jurisdiction to act
+on an application.
+Grammatically, the phrase “denied by the Secretary” ref-
+erences the Secretary’s decision on whether an applicant
+“will not be likely to act in a manner dangerous to public
+safety,” and whether “the granting of the relief would not
+be contrary to the public interest.”
+The determination
+whether an applicant is “likely to act in a manner dangerous
+to public safety” can hardly be construed as anything but
+a decision actually denying the application.4
+And, in fact,
+respondent does not contend that ATF actually passed on his
+application, but rather claims that “refusal to grant relief
+constitutes a literal, or at least a constructive, denial of the
+application because it has precisely the same impact on [the
+applicant] as denial on the merits.”
+Brief for Respondent 35
+(internal quotation marks and citations omitted).
+The procedure that §925(c) lays out for those seeking relief
+also leads us to conclude that an actual adverse action on
+the application by ATF is a prerequisite for judicial review.
+Section 925(c) requires an applicant, as a ﬁrst step, to peti-
+tion the Secretary and establish to the Secretary’s satisfac-
+tion that the applicant is eligible for relief.
+The Secretary,
+in his discretion, may grant or deny the request based on
+the broad considerations outlined above.
+Only then, if the
+4 Also counseling against construing failure to act as a denial for pur-
+poses of §925(c) is the fact that while the Administrative Procedure Act
+(APA) draws a distinction between a “denial” and a “failure to act,” see 5
+U. S. C. §551(13), an applicant may obtain judicial review under §925(c)
+only if an application is denied.
+See 2A N. Singer, Sutherland on Statutes
+and Statutory Construction §46:06, p. 194 (6th ed. 2000) (“The use of dif-
+ferent terms within related statutes generally implies that different mean-
+ings were intended”).
+
+77
+Cite as: 537 U. S. 71 (2002)
+Opinion of the Court
+Secretary denies relief, may an applicant seek review in a
+district court.
+This broad authority of the Secretary, i. e., ATF, to grant
+or deny relief, even when the statutory prerequisites are sat-
+isﬁed, shows that judicial review under §925(c) cannot occur
+without a dispositive decision by ATF.
+First, in the absence
+of a statutorily deﬁned standard of review for action under
+§ 925(c), the APA supplies the applicable standard.
+5
+U. S. C. §701(a).
+Under the APA, judicial review is usually
+limited to determining whether agency action is “arbitrary,
+capricious, an abuse of discretion, or otherwise not in accord-
+ance with law.”
+§706(2)(A).
+Application of the APA stand-
+ard of review here indicates that judicial review is predicated
+upon ATF’s dispositive decision: the “arbitrary and capri-
+cious” test in its nature contemplates review of some action
+by another entity, rather than initial judgment of the court
+itself.
+Second, both parts of the standard for granting relief point
+to ATF as the primary decisionmaker.
+Whether an appli-
+cant is “likely to act in a manner dangerous to public safety”
+presupposes an inquiry into that applicant’s background—a
+function best performed by the Executive, which, unlike
+courts, is institutionally equipped for conducting a neutral,
+wide-ranging investigation.
+Similarly, the “public interest”
+standard calls for an inherently policy-based decision best
+left in the hands of an agency.
+Third, the admission of additional evidence in district
+court proceedings is contemplated only in exceptional cir-
+cumstances.
+See 18 U. S. C. §925(c) (allowing, “in [district
+court’s] discretion,” admission of evidence where “failure to
+do so would result in a miscarriage of justice”).
+Congres-
+sional assignment of such a circumscribed role to a district
+court shows that the statute contemplates that a district
+court’s determination will heavily rely on the record and the
+decision made by ATF.
+Indeed, the very use in §925(c) of
+
+78
+UNITED STATES v. BEAN
+Opinion of the Court
+the word “review” to describe a district court’s responsibility
+in this statutory scheme signiﬁes that a district court cannot
+grant relief on its own, absent an antecedent actual denial
+by ATF.
+Accordingly, we hold that the absence of an actual denial of
+respondent’s petition by ATF precludes judicial review under
+§925(c), and therefore reverse the judgment of the Court of
+Appeals.
+It is so ordered.
