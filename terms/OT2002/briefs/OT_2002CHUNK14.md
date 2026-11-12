@@ -1678,3 +1678,110 @@ Because viewpoint discrimination resolves the issue, I would not decide whether 
 #### A. MERITS COMPARATOR
 
 The Fourth Circuit affirmed on April 29, 2002. Judge Williams wrote for Judges Traxler and Howard as well. The June 24 correction concerned citations. Rehearing en banc was denied September 20, 2002, with six judges voting against rehearing and five for it; the accompanying opinions at 305 F.3d 241 did not replace the panel judgment. No historical Supreme Court merits disposition is asserted. Later specialty-plate law is not attributed to OT2002.
+
+---
+
+## 180. Cano v. Davis
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+**Case:** *Maria Cano, et al. v. Gray Davis, Governor of California, et al.*, No. 02-577; October Term 2002. **Judgment below:** *Cano v. Davis*, 211 F. Supp. 2d 1208 (C.D. Cal. June 12, 2002), granting defendants summary judgment on every claim.
+
+**Entry event:** Merits decision of the direct appeal under 28 U.S.C. §1253. The jurisdictional statement was filed October 11, 2002, and the reply December 13. On January 10, 2003 the Court noted probable jurisdiction and retained the appeal for plenary briefing and argument. The merits decision is the assigned entry event. No historical plenary review, argument date, or merits opinion is asserted.
+
+**Simulated Event Date:** 2003-06-26; merits decision after probable jurisdiction was noted January 10, 2003. These dates establish no historical plenary review or decision.
+
+**Questions presented, paraphrased:** Whether California's 2001 congressional districting violates equal protection through racial line-drawing or intentional dilution; and whether the challenged congressional and state-senate districts deny Latino voters equal electoral opportunity under §2. The jurisdictional statement's exact questions have not been retrieved. Appellants seek reversal and relief against the boundaries; their earlier request to postpone the March 2002 primary was denied.
+
+**Material record:** The September 27, 2001 enactment created Congressional Districts 28 and 51 and State Senate District 27. Plaintiffs alleged that Latino neighborhoods were excluded from congressional districts to protect incumbents against Latino primary challengers. CD28's Latino voting-age share fell from approximately 60% to 49%. The evidence included testimony about the mapmaker's purposes and racial limits on district composition. Latino organizations also participated extensively in redistricting and secured changes.
+
+The statutory results challenges concerned CD28 and SD27. Proposed alternatives had Latino voting-age shares of 61.77% and 66.95%, respectively. Local citizen-voting-age data were unavailable, but the court found triable first and second *Gingles* conditions. It granted judgment on the **third** condition: local electoral evidence showed substantial crossover support; geographically overinclusive statewide studies did not establish regular defeat by a non-Latino voting bloc. CD28 included a racially polarized 1998 congressional primary, alongside substantial contrary electoral evidence.
+
+For intentional dilution, the court assumed plaintiffs' intent evidence and admissibility objections in plaintiffs' favor. Although it questioned whether incumbency protection showed invidious purpose, **absence of purpose was not its dispositive ground**. It required effects resembling the third *Gingles* condition. CD51's internal electoral opportunity was conceded; the remaining asserted injury concerned voters excluded from that district.
+
+**Preservation:** The complaint contained VRA and Fourteenth Amendment counts; the constitutional count was understood to include both design and intentional-dilution theories. Footnote 25 expressly says an influence-district claim was not asserted. No standalone First Amendment count is identified. Discovery remained open, but plaintiffs did not request postponement of the summary-judgment decision. These are real limitations on changing theories, not findings that every participation argument was waived. No material participation restriction is identified.
+
+#### B. LAW ENTERING THE CASE
+
+**Baseline:** Entering OT2002, before this matter; the following controlling decisions supply the governing rules.
+
+**Constitutional districting:** *Shaw v. Reno* (1993), *Johnson v. Miller* (1995), *Bush v. Vera* (1996), and *Easley v. Cromartie* (2001) reject territorial racial design alone as an equal-protection injury. They preserve properly presented intentional dilution and materially unequal participation, with their own elements. Race-conscious boundaries need not cause a second governmental act or an eventual electoral loss to implicate an independent right. *Robertson v. Bartels* (June 20, 2002) applies that distinction even when racial motivation is assumed in the claimant's favor: expected incumbent advantage from the composition of a common electorate is not itself an allocation of eligibility, candidacy, or access. The same protection against an independently established deprivation applies to voters and candidates of every race. These decisions preserve the participation right; they do not prescribe every evidentiary element for its application to a particular coalition impairment.
+
+*Brooks v. Barnes* (1999) retains purpose attributable to the challenged enactment and a separate causation inquiry: after a prohibited purpose is shown to be a substantial or motivating factor, defendants bear the same-enactment burden. *Arlington Heights*, 429 U.S. 252 (1977), and *Mt. Healthy*, 429 U.S. 274 (1977), supply the underlying framework.
+
+**Section 2:** The 1982 results provision, then 42 U.S.C. §1973, governs independently. *Balderas v. Texas* (June 17, 2002) applies *Valdespino* (June 17, 1999): one protected group may establish capacity in a lawful, geographically compact district either through a numerical majority or rigorous proof of dependable crossover support sufficient to elect its preferred candidates. Cohesion, relevant opposing bloc voting, causation, special circumstances, and an independent totality inquiry remain necessary; influence alone does not suffice. Balderas also preserves a genuinely independent sufficient lawful ground and requires remand for a numerical-screen error only when that error matters to the disposition. *De Grandy* (1994) rejects maximization and conclusive geographic offsets. Neither ruling converts discriminatory motive into automatic statutory liability. The status of a distinct intentional §2 theory is unresolved below.
+
+**Procedure:** Section 1253 provides direct review of the three-judge court's merits denial of injunctive relief. Summary judgment requires favorable reasonable inferences for plaintiffs, but not trial merely because motive is disputed when an independently necessary element lacks support.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+**Appellants:** Deliberately suppressing Latino electoral strength to shield incumbents cannot become lawful because some Latino-preferred candidates still win. They urged a less demanding effects showing for intentional discrimination, relying on *Garza v. County of Los Angeles*, 918 F.2d 763 (9th Cir. 1990). For statutory results, their alternatives, cohesive voting, primary evidence, and expert analysis allegedly demonstrate lost opportunity. Their CD51 theory, as reported, claims injury to excluded voters rather than disputing remaining voters' opportunity.
+
+**Appellees:** The plaintiffs must establish injury independently of racial intent. Actual local elections contradict the statutory bloc-voting premise; neither easier victories nor inclusion in a desired district is guaranteed. Traditional boundaries, incumbency, partisan considerations, and responsiveness to Latino organizations support the plan. The district court also rejected the design claims for insufficient departure from ordinary districting criteria, an alternative rationale distinct from its dilution analysis. No verified Supreme Court argument concession or Solicitor General submission is used.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+The Court may affirm legally sufficient judgment components or vacate a constitutional component if the court demanded the wrong injury. A participation-based constitutional rule could reach deliberate, material impairment of real political organization without establishing a seat entitlement. It could not silently create a pleaded First Amendment count, revive an expressly unasserted influence claim, or establish liability from racial percentages alone. Any remand must identify the affected voters, conduct, injury, causation, and unresolved evidence. Preservation and the scope of review are determined on the district opinion and the record supplied.
+
+#### E. SOURCES
+
+The district opinion, especially 1213–15, 1233–45, 1245–51 and notes 5, 25, 51, supplies the record and positions; the Supreme Court docket verifies pre-entry filings. Section 1253 supplies the review route.
+
+### SECTION II: STONE POSITION SUPPLEMENT
+
+#### A. LEGAL POSTURE
+
+**Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
+
+**Current-through baseline:** Governing decisions through June 28, 2002. **Scope:** The merits of the direct appeal, including the preserved constitutional effects question.
+
+**Conditional authorship:** Once a lawful quorum participates, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
+
+#### B. JUDGMENT AND REMEDY
+
+**Stone's proposed vote:** On the merits, Stone would vote to affirm the CD28 and CD51 design-only judgments, affirm the CD28 and SD27 Section 2 results judgments and the intentional statutory variants on the injury actually asserted, vacate and remand the CD28 intentional constitutional judgment, and affirm the CD51 constitutional judgment as presented. These are his requested dispositions, not an announced Court judgment.
+
+**Remedy Stone would support if his position is adopted:** A remand confined to the legal measure of constitutional injury. It does not find liability, prescribe a district, postpone an election, or order damages. The district court must assess admissibility, actual impairment, purpose, causation and any same-decision defense on the proper record. Additional proceedings are warranted only to the extent the erroneous effects threshold prevented adjudication of material evidence. If a violation is proved, declaratory and prospective injunctive relief must remove the actual impediment. California receives the initial opportunity to correct causal boundaries; a judicial map requires a demonstrated need and changes no more territory than the lawful cure requires.
+
+#### C. ISSUE POSITIONS
+
+##### Issue 1: Intentional racial obstruction of political participation
+
+**Question and legal move.** Stone applies equal protection's existing protection of meaningful political access to a district assignment deliberately used to impair actual association, realistic coalition-building or participation. Shaw, Miller, Easley and Robertson already distinguish design alone from independently cognizable participation injuries. This opinion makes explicit the proof needed for this application; it does not create a new right or treat earlier reservations as denial of that right. The governing right is equal protection. First Amendment association cases inform the interest by analogy and do not add an unpleaded cause of action.
+
+**Operation and distinct causes.** The participation claim is the coalition and association form of constitutional **Burden**: deliberate racial interference with materially equal access to political activity. Its proof requires the discriminatory purpose, concrete impairment, and causation specified below. Constitutional **Dilute**, when separately asserted, concerns intentional impairment of effective electoral opportunity and retains its own elements. Section 2 results liability is a distinct statutory inquiry that does not require constitutional purpose; this constitutional Burden claim creates no statutory influence-only entitlement.
+
+**Defined interests.** Political association means actual common activity, or concrete ongoing or ready-to-undertake efforts, to organize, nominate, campaign or participate. A realistic coalition-building opportunity is a grounded prospect of political cooperation identifiable from the community, electoral activity and available channels; a functioning organization is not always required. Material impairment means a practical restriction serious enough to change that activity or opportunity. Influence alone means a wish for greater electoral leverage, more favorable boundaries or more attentive representatives without such an identified restriction. A racial demographic label establishes none of these facts by itself.
+
+**Proposed holding and proof.** A claimant must identify and prove:
+
+1. The affected voters and the actual association, grounded coalition opportunity or electoral participation at issue, identifying the forum in which the impairment falls—primary election, another nomination process, general election, or other protected political activity. A primary is required in the account only when the claimed impairment occurs there.
+2. The challenged governmental assignment or practice and the concrete mechanism by which it materially impairs that protected activity.
+3. A discriminatory racial purpose that substantially motivated the action, rather than knowledge that the action would have a racial effect.
+4. Causation connecting the challenged action to the impairment suffered by those voters.
+
+Ordinary pleading and summary-judgment rules govern. The plaintiff ultimately bears the ordinary preponderance burden on those elements. Personal exposure, traceability and redressability remain separate jurisdictional requirements; residence somewhere in the State is not standing to attack every district. The claim does not require a previously winning district, inevitable electoral defeat, a fixed number of elections or loss of every opportunity to elect. Those demands would measure a participation injury solely by a different interest. Nor does discriminatory intent alone establish the required injury.
+
+**Purpose, causation and defenses.** Apply Arlington Heights's contextual inquiry, including sequence, departures, comparative treatment and credible explanations. Incumbency protection can be evidence of political purpose, but is no immunity for a proved decision to obstruct voters because of race. Racial hostility is unnecessary; the prohibited purpose is the racial impairment itself. Once the applicable motivating-factor showing is made, the State may prove that it would have taken materially the same lawful action without that purpose. It must show that it would, not merely could, have done so. Reaffirm the claim-specific same-decision framework of Brooks and Mt. Healthy. A proved deliberate denial of equal participation, surviving that defense, is not subjected to a second policy balance permitting officials to purchase it with other benefits.
+
+**Application to CD28.** The alleged reduction of Latino voters targeted primary competition. Evidence of success by Latino-preferred candidates in other contests matters, but does not conclusively answer whether this action impaired the identified voters' organization or realistic primary coalition. The district court assumed the challenged purpose evidence favorably to plaintiffs and disposed of intentional dilution for insufficient electoral effect. Its doubt about purpose was not the dispositive ground. Stone rejects the categorical substitution of the third Gingles condition for proof of this distinct constitutional injury. Plaintiffs still must identify their political activity and the practical mechanism of impairment; shared ethnicity and a preference for different lines cannot survive as substitutes.
+
+**Precedent and decisive method.** Reaffirm the design-only limitation and independent-injury protection of Shaw, Miller, Easley and Robertson. Apply the existing protection of real political access, using White v. Regester's account of practical access and Anderson v. Celebrezze's protection of electoral association as reasoned analogies. Distinguish Garza's developed fragmentation record from proof of these plaintiffs' facts. This combines constitutional principle, analogy and examination of the arrangement's actual operation. The decisive point is the mismatch between the asserted participation injury and the lower court's exclusive electoral-success measure. No new scrutiny tier or universal historical study is required.
+
+**Scope and reservation.** The rule is meant to govern comparable, proved racial participation impairments because a recurring effects error requires a usable legal answer. It makes explicit only that application of the existing protection. It does not adopt a separate segregation, racial-ballot-marking, candidacy-exclusion or partisan-entrenchment test without the necessary claim and record. Footnote 25's express absence of an influence-district claim remains controlling as to what was asserted. The appeal cannot be expanded by relabeling that omitted theory or by inventing a First Amendment count.
+
+##### Issue 2: Keep statutory opportunity and distinct districts separate
+
+**Section 2.** Reaffirm Gingles and De Grandy at their actual statutory scope. The results inquiry concerns unequal electoral opportunity under the statute; it does not require constitutional discriminatory purpose, and a constitutional participation claim is not a statutory prerequisite. The district court found triable first- and second-condition questions but insufficient local evidence of the necessary opposing bloc voting. Apply Balderas's treatment of Valdespino: dependable crossover capacity is a lawful first-condition route, but correcting a numerical screen warrants remand only when material and does not displace an independent lawful deficiency. Here the district court did not dispose of the results claims on a numerical-majority premise. Its third-condition analysis must examine the relevant electoral contest; success in a general election cannot automatically answer an impairment proved in nomination. On the local evidence and injury actually asserted, the independent third-condition deficiency remains dispositive. The asserted intentional statutory variants likewise lack sufficient support for the ability-to-elect injury actually advanced; Stone does not decide an unasserted participation-only statutory theory.
+
+**CD51.** Internal electoral opportunity was conceded. The excluded voters' preference for placement there establishes neither a right to those boundaries nor material impairment of their actual electoral activity. Affirm that judgment on the claim presented. The different CD28 result follows its distinct asserted mechanism and erroneous effects threshold, not a presumption favoring one district's residents.
+
+**Remedial boundary.** Neither successful statutory proof nor constitutional liability would entitle voters to a racial percentage, a guaranteed winner or proportional seats. The source and scope of any remedy follow the wrong proved. No same-term prepared position is treated as a holding.
+
+### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
+
+#### A. MERITS COMPARATOR
+
+The historical Supreme Court **summarily affirmed on January 13, 2003**, *Cano v. Davis*, 537 U.S. 1100, No. 02-577. No merits opinion, reasoning, individual vote tally, or dissent accompanied the disposition. It left the three-judge court's judgment intact; it should not be represented as an express endorsement of every passage in that court's opinion. The judgment issued February 12, 2003. Sources: official docket, January 13 order list, and United States Reports, volume 537, page 1100.

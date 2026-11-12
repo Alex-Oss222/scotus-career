@@ -8,7 +8,7 @@ Chunk 1 is complete: sixteen scheduled inventory matters produced nineteen event
 
 For each future event, entering law is the opening baseline plus only completed Records effective before that event. An earlier-dated event in an undecided later chunk supplies no law and creates no blocker. Unrelated same-date events share pre-date law. The express grant/summary sequences retain their coordinated dependency. Opinion-assignment counting separately includes same-date earlier cases in alphabetical order. Records control every projection.
 
-The manifest retains all 179 scheduled rows: sixteen completed and 163 open. Cano's scheduled screening is complete, but its retained appeal remains pending for unscheduled plenary consideration. Three original actions remain separately carried. No matter is stopped.
+The manifest retains all 180 scheduled rows: sixteen completed and 164 open. Cano's scheduled screening is complete; its retained appeal is scheduled for merits decision on June 26, 2003 as No. 180 in chunk 14. Three original actions remain separately carried. No matter is stopped.
 
 ## Completed public actions
 
@@ -268,7 +268,7 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 ## Pending procedure
 
-**Cano v. Davis, No. 02-577:** retained for plenary briefing and argument following the January 10 screening. No later event is scheduled. The three summary-review grants have completed companion dispositions. All lower-court and agency work follows the published remedies; no new Supreme Court date is implied.
+**Cano v. Davis, No. 02-577:** retained for plenary briefing and argument following the January 10 screening. Its merits decision is scheduled June 26, 2003. The three summary-review grants have completed companion dispositions. All lower-court and agency work follows the published remedies; no new Supreme Court date is implied.
 
 | Case or matter | Stage at opening | OT2002 event date | Status | Source |
 |---|---|---|---|---|
@@ -280,4 +280,4 @@ No further report, filing, deadline, or Court action is supplied.
 
 ## Future event controls
 
-The remaining 163 scheduled matters retain their dates and presentation order. Use only date-eligible completed Records. No unresolved adjudicative input or stopped matter arises from chunk 1. This projection contains public actions, controlling law, published separate positions and institutional setting only; Records remain authoritative.
+The remaining 164 scheduled events retain their dates and presentation order. Use only date-eligible completed Records. No unresolved adjudicative input or stopped matter arises from chunk 1. This projection contains public actions, controlling law, published separate positions and institutional setting only; Records remain authoritative.

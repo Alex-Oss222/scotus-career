@@ -8,7 +8,7 @@ Chunk 1 is complete: sixteen scheduled inventory matters produced nineteen event
 
 For each future event, entering law is the opening baseline plus only completed Records effective before that event. An earlier-dated event in an undecided later chunk supplies no law and creates no blocker. Unrelated same-date events share pre-date law. The express grant/summary sequences retain their coordinated dependency. Opinion-assignment counting separately includes same-date earlier cases in alphabetical order. Records control every projection.
 
-The manifest retains all 179 scheduled rows: sixteen completed and 163 open. Cano's scheduled screening is complete, but its retained appeal remains pending for unscheduled plenary consideration. Three original actions remain separately carried. No matter is stopped.
+The manifest retains all 180 scheduled rows: sixteen completed and 164 open. Cano's scheduled screening is complete; its retained appeal is scheduled for merits decision on June 26, 2003 as No. 180 in chunk 14. Three original actions remain separately carried. No matter is stopped.
 
 ## Completed Events and Admitted Sources
 
@@ -268,7 +268,7 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 The manifest and ledger identify the completed actions. Lower-court and agency remand work is governed by each Record; no additional Supreme Court return date is created. The three same-day grants are followed by completed summary review and are not open residues.
 
-**Cano v. Davis, No. 02-577:** probable jurisdiction noted January 10, 2003; retained for plenary briefing and argument. No argument or merits date is set. Its screening supplies no holding. Source: `terms/OT2002/records/Cano-v-Davis_direct-appeal-screening_2003-01-10.md`.
+**Cano v. Davis, No. 02-577:** probable jurisdiction noted January 10, 2003; retained for plenary briefing and argument. Its merits decision is scheduled June 26, 2003 (No. 180, chunk 14). Its screening supplies no holding. Source: `terms/OT2002/records/Cano-v-Davis_direct-appeal-screening_2003-01-10.md`.
 
 Unscheduled original-action carryovers remain at their opening stages:
 
@@ -280,7 +280,7 @@ Unscheduled original-action carryovers remain at their opening stages:
 
 No further report, filing, deadline, or Court action is supplied.
 
-The remaining 163 scheduled inventory matters are properly before the Court at their supplied events. The 93 marked lower-court additions retain their supplied identifiers for the coordinated term-close docket update; no missing filing or grant conditions their consideration.
+The remaining 164 scheduled inventory events are properly before the Court at their supplied events. The 93 marked lower-court additions retain their supplied identifiers for the coordinated term-close docket update; no missing filing or grant conditions their consideration.
 
 ## Blockers and Revalidation Needs
 

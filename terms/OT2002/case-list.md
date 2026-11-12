@@ -2,7 +2,7 @@
 
 **+ = a simulation-added lower-court merits case.** Lower-court identifiers are retained; no Supreme Court docket or historical grant is invented for these matters.
 
-179 distinct matters in 15 chunks. The first four entries are Cano v. Davis, Montiel v. Davis, Old Person v. Brown, and Georgia v. Ashcroft. Presentation order does not change the dates on which governing law becomes effective.
+179 distinct matters in 15 chunks; Cano v. Davis has two events, its direct-appeal screening in chunk 1 and its merits decision in chunk 14, for 180 scheduled events. The first four entries are Cano v. Davis, Montiel v. Davis, Old Person v. Brown, and Georgia v. Ashcroft. Presentation order does not change the dates on which governing law becomes effective.
 
 Each case contains one Neutral Modeling Packet, one Stone Position Supplement, and one Historical Comparator Supplement. The entering-law baseline is June 28, 2002. A prepared same-term position is not a judgment. Historical-calendar dates identify the review event being modeled; counterfactual placements do not assert an actual Supreme Court grant or decision. Every matter has an OT2002 review date. Assigned counterfactual dates are the matters’ scheduled review events; they do not establish historical filings, grants, or decisions.
 
@@ -10,7 +10,7 @@ Each case contains one Neutral Modeling Packet, one Stone Position Supplement, a
 
 Section II records Stone's proposed vote and legal reasoning. It does not declare a Court winner, forecast colleagues' votes, or establish a controlling holding. The Court's actual decision must be made independently before any proposed proposition is treated as its holding.
 
-All 179 Section II positions are approved by the user. Approval establishes Stone’s positions; it does not establish a judgment or votes of the Court.
+All 180 Section II positions are approved by the user. Approval establishes Stone’s positions; it does not establish a judgment or votes of the Court.
 
 Only Cano, Montiel, Old Person, and Georgia carry the special conditional writing direction: with a lawful quorum, if at least five Justices including Stone actually join his reasoning supporting the judgment on an issue decided, Stone writes and articulates those joined portions. A judgment-only vote does not adopt his reasoning; different propositions require their actual joins. Unjoined reasoning remains his own. No outcome, vote, or future precedent is assigned by this condition, and it does not extend to the other briefs.
 
@@ -22,7 +22,7 @@ Except for the four voting briefs preserved above, Section II states the stronge
 
 | No. | Case | Citation or docket | Review stage | Event date | Date basis | Area of law |
 |---:|---|---|---|---|---|---|
-| 1 | Cano v. Davis | No. 02-577; 211 F. Supp. 2d 1208 | Direct appeal; merits | 2003-01-10 | Direct-appeal screening | Equal protection; racial participation injury; Section 2 district dilution |
+| 1 | Cano v. Davis | No. 02-577; 211 F. Supp. 2d 1208 | Direct appeal; screening | 2003-01-10 | Direct-appeal screening | Equal protection; racial participation injury; Section 2 district dilution |
 | 2 | Montiel v. Davis + | 215 F. Supp. 2d 1279; No. 01-0447-BH-S | Direct appeal | 2003-01-13 | Assigned review date | Population equality; racial districting; independent Section 2 proof |
 | 3 | Old Person v. Brown + | 312 F.3d 1036; No. 02-35171 | Counterfactual federal merits | 2003-06-26 | Assigned review date | Section 2 totality; electoral opportunity; redistricting remedies |
 | 4 | Georgia v. Ashcroft | No. 02-182; 539 U.S. 461 | Direct-appeal merits | 2003-06-26 | Historical calendar | Section 5 nonretrogression; enforcement power; voter intervention |
@@ -262,6 +262,7 @@ Except for the four voting briefs preserved above, Section II states the stronge
 | 173 | Eichorn v. AT&T Corp. + | 248 F.3d 131 (3d Cir. 2001) | Counterfactual federal merits | 2003-06-30 | Assigned review date | Antitrust labor restraints; ERISA pension interference |
 | 174 | Bragg v. West Virginia Coal Association + | 248 F.3d 275 (4th Cir. 2001) | Counterfactual federal merits | 2003-06-30 | Assigned review date | Surface mining; prospective officer relief; federal statutory duties |
 | 175 | Sons of Confederate Veterans, Inc. v. Commissioner of the Virginia Department of Motor Vehicles + | 288 F.3d 610; rehearing 305 F.3d 241 | Counterfactual federal merits | 2003-06-23 | Assigned review date | Specialty plates; private expression; viewpoint discrimination; severance |
+| 180 | Cano v. Davis | No. 02-577; 211 F. Supp. 2d 1208 | Direct appeal; merits | 2003-06-26 | Assigned review date | Equal protection; racial participation injury; Section 2 district dilution |
 
 ## OT_2002CHUNK15
 
@@ -274,9 +275,9 @@ Except for the four voting briefs preserved above, Section II states the stronge
 
 ## Docket boundaries
 
-Emerson and Missouri Republican Party v. Lamb were completed in OT2001 and are not set for a second decision. The fourteen other completed OT2001 matters formerly carried here are also excluded. Old Person v. Cooney is the earlier appellate stage of the Brown litigation, not a separate matter. Cano and Georgia each appear once. Wilkins v. West is omitted as directed. DeRolph III presents only an unresolved state-law school-funding controversy without an established federal-review vehicle and is excluded from the federal docket.
+Emerson and Missouri Republican Party v. Lamb were completed in OT2001 and are not set for a second decision. The fourteen other completed OT2001 matters formerly carried here are also excluded. Old Person v. Cooney is the earlier appellate stage of the Brown litigation, not a separate matter. Georgia appears once; Cano is one matter with two scheduled events, Nos. 1 and 180. Wilkins v. West is omitted as directed. DeRolph III presents only an unresolved state-law school-funding controversy without an established federal-review vehicle and is excluded from the federal docket.
 
-Cano’s jurisdictional statement is docketed. Montiel and Old Person are sim-granted lower-court matters (+); no Supreme Court docket or grant is invented for them. Montiel is assigned January 13, 2003 for direct-appeal merits review; Old Person is granted January 17, 2003 and assigned June 26, 2003 for merits review. Gatewood, Eichorn, Bragg, Burdine, Amazon, and Holland are assigned June 30, 2003 for counterfactual merits review, retaining their listed order. These assignments fall within OT2002 and are distinct from historical Supreme Court events.
+Cano’s jurisdictional statement is docketed; its direct-appeal screening is January 10, 2003 and its merits decision is assigned June 26, 2003 in chunk 14. Montiel and Old Person are sim-granted lower-court matters (+); no Supreme Court docket or grant is invented for them. Montiel is assigned January 13, 2003 for direct-appeal merits review; Old Person is granted January 17, 2003 and assigned June 26, 2003 for merits review. Gatewood, Eichorn, Bragg, Burdine, Amazon, and Holland are assigned June 30, 2003 for counterfactual merits review, retaining their listed order. These assignments fall within OT2002 and are distinct from historical Supreme Court events.
 
 The three added briefs concluding Chunk 1 are Owens (February 24, 2003), Newman (March 24, 2003), and Lawall (April 28, 2003). Okpalobi, Bell, Harry, and Knussman are distributed through later chunks on March 31, April 22, May 19, and June 2 respectively. Those are assigned merits-review dates. Newman's historical certiorari denial under the Brizzi caption remains comparison material, not the disposition assigned to its merits review. Conant was already included and appears only once.
 
