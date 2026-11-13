@@ -1,0 +1,33 @@
+Source: https://www.law.cornell.edu/supct/html/01-653.ZS.html
+
+FCC V. NEXTWAVE PERSONAL COMMUNICATIONS INC.
+FCC V. NEXTWAVE PERSONAL COMMUNICATIONS INC. (01-653)
+254 F.3d 130, affirmed.
+Syllabus
+Opinion
+[ Scalia ]Concurrence
+[ Opinion of Stevens ]Dissent
+[ Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+FEDERAL COMMUNICATIONS COMMISSION v. NEXTWAVE PERSONAL COMMUNICATIONS
+INC. et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+No. 01—653.  Argued October 8, 2002–Decided January 27, 2003*
+Pursuant to provisions of the Communications Act of 1934 authorizing the Federal Communications Commission (FCC) to award spectrum licenses to small businesses through competitive bidding, and to allow them to pay for the licenses in installments, the FCC auctioned off certain broadband personal communications services licenses to respondents (hereinafter NextWave).  NextWave made a down payment on the purchase price, signed promissory notes for the balance, and executed agreements giving the FCC a first lien on, and security interest in, NextWave’s rights and interest in the licenses, which recited that they were conditioned upon the full and timely payment of all monies due the FCC, and that failure to comply with this condition would result in their automatic cancellation.  NextWave eventually filed for Chapter 11 bankruptcy protection and suspended payments to all creditors, including the FCC, pending confirmation of its reorganization plan.  The FCC objected to the plan, asserting that NextWave’s licenses had been canceled automatically when the company missed its first payment-deadline, and announced that NextWave’s licenses were available for auction.  The Bankruptcy Court invalidated the cancellation of the licenses as a violation of various Bankruptcy Code provisions, but the Second Circuit reversed, holding that exclusive jurisdiction to review the FCC’s regulatory action lay in the courts of appeals.  After the FCC denied NextWave’s petition for reconsideration of the license cancellation, the District of Columbia Circuit held that the cancellation violated 11 U.S.C. § 525(a), which provides: “[A] governmental unit may not … revoke … a license … to … a debtor … solely because such … debtor … has not paid a debt that is dischargeable in the case.”
+Held: Section 525 prohibits the FCC from revoking licenses held by a bankruptcy debtor upon the debtor’s failure to make timely payments to the FCC for purchase of the licenses.  It is undisputed that the FCC is a “governmental unit” that has “revoke[d]” a “license,” and that NextWave is a “debtor” under the Bankruptcy Act.  Pp. 7—15.
+(a) The Court rejects petitioners’ argument that the FCC did not revoke respondent’s licenses “solely because” of nonpayment under §525(a).  The fact that the FCC had a valid regulatory motive for its action is irrelevant.  Section 525 means nothing more or less than that the failure to pay a dischargeable debt must alone be the proximate cause of the cancellation, whatever the agency’s ultimate motive may be.  Pp. 7—8.
+(b) The FCC’s contention that regulatory conditions like full and timely payment are not properly classified as “debts” under §525(a) fails.  Under the Bankruptcy Code, “debt” means “liability on a claim,” §101(12), and “claim,” in turn, includes any “right to payment,” §101(5)(A).  The plain meaning of a “right to payment” is nothing more nor less than an enforceable obligation, regardless of the Government’s objectives in imposing the obligation.  E.g., Pennsylvania Dept. of Public Welfare v. Davenport, 495 U.S. 522, 559.  Also rejected is petitioners’ argument that NextWave’s obligations are not “dischargeable” under §525(a) because it is beyond the bankruptcy courts’ jurisdictional authority to alter or modify regulatory obligations.  Dischargeability is not tied to the existence of such authority.  The Bankruptcy Code states that confirmation of a reorganization plan discharges the debtor from any debt that arose before the confirmation date, 11 U.S.C. § 1141(d)(1)(A), and the only debts it excepts from that prescription are those described in §523, see §1141(d)(2).  Ohio v. Kovacs, 469 U.S. 274, 278.  Petitioners’ contention that the D. C. Circuit has no power to modify or discharge a debt is irrelevant to whether that court can set aside agency action that violates §525, which is all that it did when it prevented the FCC from canceling licenses because of failure to pay debts dischargeable by bankruptcy courts.  Pp. 8—10.
+(c) Finally, this Court’s interpretation of §525 does not, as petitioners contend, create a conflict with the Communications Act by obstructing the functioning of that Act’s auction provisions.  Nothing in those provisions demands that cancellation be the sanction for failure to make agreed-upon periodic payments or even requires the Commission to permit payment to be made over time.  What petitioners describe as a conflict boils down to nothing more than a policy preference on the FCC’s part for (1) selling licenses on credit and (2) canceling licenses rather than asserting security interests when there is a default.  Such administrative preferences cannot be the basis for denying NextWave rights provided by a law’s plain terms.  Pp. 10—11.
+254 F.3d 130, affirmed.
+Scalia, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Thomas, and Ginsburg, JJ., joined, and in which Stevens, J., joined as to Parts I and II.  Stevens, J., filed an opinion concurring in part and concurring in the judgment.  Breyer, J., filed a dissenting opinion.
+Notes
+*.  Together with No. 01—657, Arctic Slope Regional Corp. et al. v. NextWave Personal Communications Inc. et al., also on certiorari to the same court.

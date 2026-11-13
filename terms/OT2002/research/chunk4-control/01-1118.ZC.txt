@@ -1,0 +1,26 @@
+Source: https://www.law.cornell.edu/supct/html/01-1118.ZC.html
+
+SCHEIDLER V. NATIONAL ORGANIZATION FORWOMEN, INC.
+SCHEIDLER V. NATIONAL ORGANIZATION FORWOMEN, INC. (01-1118)
+267 F.3d 687, reversed.
+Syllabus
+Opinion
+[ Rehnquist ]Concurrence
+[ Ginsburg ]Dissent
+[ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+537 U.S. ____ (2003)
+SUPREME COURT OF THE UNITED STATES
+Nos. 01—1118 and 01—1119
+ON WRITS OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SEVENTH CIRCUIT
+[February 26, 2003]
+Justice Ginsburg, with whom Justice Breyer joins, concurring.
+I join the Court’s opinion, persuaded that the Seventh Circuit’s decision accords undue breadth to the Racketeer Influenced and Corrupt Organizations Act (RICO or Act).  As Justice Stevens recognizes, “Congress has enacted specific legislation responsive to the concerns that gave rise to these cases.”  Post, at 6 (dissenting opinion).  In the Freedom of Access to Clinic Entrances Act of 1994, 18 U.S.C. § 248 Congress crafted a statutory response that homes in on the problem of criminal activity at health care facilities.  See ante, at 9—10, and n. 9 (noting petitioners’ acknowledgment that at least some of the protesters’ conduct was criminal, and observing that “[t]he crime of coercion [a separate, and lesser offense than extortion] more accurately describes the nature of petitioners’ actions”).  Thus, the principal effect of a decision against petitioners here would have been on other cases pursued under RICO.**
+RICO, which empowers both prosecutors and private enforcers, imposes severe criminal penalties and hefty civil liability on those engaged in conduct within the Act’s compass.  See, e.g., §1963(a) (up to 20 years’ imprisonment and wide-ranging forfeiture for a single criminal violation); §1964(a) (broad civil injunctive relief); §1964(c) (treble damages and attorneys’ fees for private plaintiffs). It has already “evolv[ed] into something quite different from the original conception of its enactors,” Sedima, S. P. R. L. v. Imrex Co., 473 U.S. 479, 500 (1985), warranting “concern[s] over the consequences of an unbridled reading of the statute,”  id., at 481.  The Court is rightly reluctant, as I see it, to extend RICO’s domain further by endorsing the expansive definition of “extortion” adopted by the Seventh Circuit.
+Notes
+*. * In what can be regarded as a logical development from the error of analyzing a request for a COA like a merits appeal, some courts have simply allowed merits appeals to be taken without a COA–in flat contravention of 28 U.S.C. § 2253(c)(1)(A).  See, e.g., Bates v. Lee, 308 F.3d 411 (CA4 2002).

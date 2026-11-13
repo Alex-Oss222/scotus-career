@@ -1,0 +1,1466 @@
+Source: https://www.justice.gov/d9/osg/briefs/2002/01/01/2001-1118.mer.ami.pdf
+
+PAGE 1
+Nos. 01-1118 and 01-1119
+In the Supreme Court of the United States
+JOSEPH SCHEIDLER, ANDREW SCHOLBERG,
+TIMOTHY MURPHY, AND THE PRO-LIFE ACTION
+LEAGUE, INC., PETITIONERS
+v.
+NATIONAL ORGANIZATION FOR WOMEN, INC., ET AL .
+OPERATION RESCUE, PETITIONER
+v.
+NATIONAL ORGANIZATION FOR WOMEN, INC., ET AL .
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE
+THEODORE B. OLSON
+Solicitor General
+Counsel of Record
+MICHAEL CHERTOFF
+Assistant Attorney General
+MICHAEL R. DREEBEN
+Deputy Solicitor General
+LISA SCHIAVO BLATT
+Assistant to the Solicitor 
+General
+FRANK J. MARINE
+Attorney
+Department of Justice
+Washington, D.C. 20530-0001
+(202) 514-2217
+
+PAGE 2
+(I)
+QUESTIONS PRESENTED
+1. Whether private litigants may obtain equitable relief
+in a civil RICO action under 18 U.S.C. 1964.
+2. Whether a person’s wrongful use of force, violence,
+and fear to induce medical clinics to cease providing abortion
+services constitutes extortion under the Hobbs Act, 18
+U.S.C. 1951.
+
+PAGE 3
+(III)
+TABLE  OF  CONTENTS
+Page
+Interest of the United States ...................................................... 1
+Statutory provisions involved ..................................................... 2
+Statement ........................................................................................ 2
+Summary of argument .................................................................. 3
+Argument:
+I. RICO does not authorize a private cause of action
+for injunctive relief ......................................................... 6
+A. RICO’s text and structure vest exclusive
+authority in the Attorney General to sue for
+injunctive relief ........................................................ 6
+B. A comparison with the antitrust laws shows
+that Congress did not create a private
+injunctive action ...................................................... 9
+C. Policy considerations do not support a private
+right to injunctive relief under RICO ................. 14
+II. The Hobbs Act criminalizes wrongful uses
+of force, violence, or fear to obtain control
+over a business ................................................................ 15
+A. The right to control a business is property
+under the Hobbs Act .............................................. 15
+B. A defendant obtains a  property right when
+he secures control over the use of business
+assets ......................................................................... 21
+C. The application of the Hobbs Act in this case
+would not produce unwarranted expansion
+of liability .................................................................. 27
+Conclusion ....................................................................................... 30
+Appendix ......................................................................................... 1a
+
+PAGE 4
+IV
+TABLE  OF  AUTHORITIES
+Cases: Page
+Agency Holding Corp.  v.  Malley-Duff & Assocs.,
+483 U.S. 143 (1987) ............................................................ 12, 13
+Bell  v.  United States,  462 U.S. 356 (1983) ..................... 21, 28
+Brokerage Concepts, Inc.  v.  U.S. Healthcare, Inc.,
+140 F.3d 494 (3d Cir. 1998) ................................................... 29
+Buchanan  v.  Warley,  245 U.S. 60 (1917) ........................... 16
+Califano  v.  Yamasaki,  442 U.S. 682 (1979) ...................... 11
+California  v.  American Stores Co.,  495 U.S. 271
+(1990) .................................................................................... 10, 14
+Carpenter  v.  United States,  484 U.S. 19 (1987) ...... 19, 20, 26
+Cleveland  v.  United States,  531 U.S. 12 (2000) ................ 20
+County Court  v.  Allen,  442 U.S. 140 (1979) ...................... 22
+Crane  v.  Commissioner,  331 U.S. 1 (1947) ....................... 16
+Dobbins  v.  City of Los Angeles, 195 U.S. 223 (1904) ........ 16
+D.R. Wilder Mfg. Co.  v.  Corn Prods. Ref. Co.,
+236 U.S. 165 (1915) ...................................................... 10, 11, 14
+Estate of Cowart  v.  Nicklos Drilling Co., 505 U.S. 469
+(1992) ........................................................................................ 18
+Evans  v.  United States,  504 U.S. 255 (1992) ................. 17, 20,
+21, 25, 27
+Farmers’ & Mechanics’ Nat’l Bank  v.  Dearing,
+91 U.S. 29 (1875) ..................................................................... 11
+Florida Prepaid Postsecondary Educ. Expense Bd.  v.
+College Sav. Bank,  527 U.S. 627 (1999) ............................ 16
+Geddes  v.  Anaconda Copper Mining Co.,  254 U.S.
+590 (1921) ................................................................................. 10
+General Inv. Co.  v.  Lake Shore & Mich. S. Ry.,
+260 U.S. 261 (1922) ................................................................ 10
+Holmes  v.  Securities Investor Prot. Corp.,  503 U.S.
+258 (1992) ......................................................................... 9, 11, 12
+Kaiser Aetna  v.  United States,  444 U.S. 164
+(1979) ........................................................................................ 16
+Libertad  v.  Welch,  53 F.3d 428 (1st Cir. 1995) .................. 19
+
+PAGE 5
+V
+Cases—Continued: Page
+Loretto  v.  Teleprompter Manhattan CATV Corp.,
+458 U.S. 419 (1982) ................................................................ 16
+Marsh  v.  Nichols, Shepard & Co.,  128 U.S. 605
+(1888) ........................................................................................ 16
+Minnesota  v.  Northern Sec. Co.,  194 U.S. 48
+(1904) ........................................................................................ 10
+National Org. for Women, Inc.   v.  Scheidler,
+510 U.S. 249 (1994) .............................................................. 2, 24
+Northeast Women’s Ctr.  v.  McMonagle,  868 F.2d
+1342 (3d Cir. 1989) .................................................. 19, 21, 23, 24
+Paine Lumber Co.  v.  Neal,  244 U.S. 459 (1917) ........... 10, 11
+People  v.  Adelstein,  195 N.Y.S.2d 27 (App. Div. 1959),
+aff ’d, 169 N.E.2d 425 (N.Y. 1960) ....................................... 24
+People  v.  Barondess,  31 N.E. 240 (N.Y. 1892) ................. 17
+People  v.  Garland,  505 N.E.2d 239 (N.Y. 1987) ............... 18
+People  v.  Hughes,  32 N.E. 1105 (N.Y. 1893) ..................... 17
+People  v.  Spatarella,  313 N.E.2d 38 (N.Y. 1974) ............. 18
+People  v.  Weinseimer, 102 N.Y.S. 579 (App. Div.),
+aff ’d, 190 N.Y. 537 (1907) ..................................................... 17
+Perez  v.  United States,  402 U.S. 146 (1971) ...................... 26
+Perrin  v.  United States,  444 U.S. 37 (1979) ...................... 26
+Pfizer Inc.  v.  India,  434 U.S. 308 (1978) ............................ 9
+Religious  Tech. Ctr.  v.  Wollersheim,  796 F.2d 1076
+(9th Cir. 1986), cert. denied, 479 U.S. 1103 (1987) ......... 7, 13
+Reves  v.  Ernst & Young,  507 U.S. 170 (1993) ................... 9
+Rondeau  v.  Mosinee Paper Corp.,  422 U.S. 49 (1975) .... 26
+Russello  v.  United States, 464 U.S. 16 (1983) ................... 14
+Sedima, S.P.R.I.  v.  Imrex Co.,  473 U.S. 479
+(1985) ................................................................................ 7, 12, 13
+Texas Indus., Inc.  v.  Radcliff Materials, Inc.,
+451 U.S. 630 (1981) ................................................................ 9
+United States  v.  Albertson,  971 F. Supp. 837 (D.
+Del. 1997), aff ’d, 156 F.3d 1225 (3d Cir. 1998) .................. 29
+
+PAGE 6
+VI
+Cases—Continued: Page
+United States  v.  Arena,  180 F.3d 380 (2d Cir.
+1999), cert. denied, 531 U.S. 811 (2000) ...... 19, 21, 22, 23, 24
+United States  v.  Bonanno,  879 F.2d 20 (2d Cir.
+1989) ......................................................................................... 7
+United States  v.  Cerilli,  603 F.2d 415 (3d Cir.
+1979), cert. denied, 444 U.S. 1043 (1980) ........................... 24
+United States  v.  Cooper Corp.,  312 U.S. 600
+(1941) ........................................................................................ 10
+United States  v.  Craft,  122 S. Ct. 1414 (2002) .................. 16
+United States  v.  Enmons,  410 U.S. 396 (1973) ....... 17, 24, 27
+United States  v.  Fagan,  821 F.2d 1002 (5th Cir.
+1987), cert. denied, 484 U.S. 1005 (1988) ........................... 20
+United States  v.  Franks,  511 F.2d 25 (6th Cir.),
+cert. denied, 422 U.S. 1042 (1975) ................................... 19, 23
+United States  v.  Gambino,  566 F.2d 414 (2d Cir.
+1977), cert. denied, 435 U.S. 952 (1978) ......................... 23, 25
+United States  v.  General Motors Corp.,  323 U.S. 373
+(1945) ........................................................................................ 16
+United States  v.  Girard,  601 F.2d 69 (2d Cir.
+1979) ......................................................................................... 21
+United States  v.  Glasser,  443 F.2d 994 (2d Cir.),
+cert. denied, 404 U.S. 854 (1971) ......................................... 23
+United States  v.  Granberry,  908 F.2d 278 (8th Cir.
+1990), cert. denied, 500 U.S. 921 (1991) ............................. 20
+United States  v.  Green,  350 U.S. 415 (1956) ............. 5, 22, 25
+United States  v.  Hoelker,  765 F.2d 1422 (9th Cir.
+1985), cert. denied, 475 U.S. 1024 (1986) ........................... 19
+United States  v.  Lewis,  797 F.2d 358 (7th Cir.
+1986), cert. denied, 479 U.S. 1093 (1987) ....................... 19, 24
+United States  v.  Madeoy,  912 F.2d 1486 (D.C. Cir.
+1990), cert. denied, 498 U.S. 1105 (1991) ........................... 20
+United States  v.  Nadaline,  471 F.2d 340 (5th Cir.),
+cert. denied, 411 U.S. 951 (1973) ..................................... 19, 23
+United States  v.  Nardello,  393 U.S. 286 (1969) ................ 26
+United States  v.  National City Lines, Inc.,  337 U.S.
+78 (1949) ................................................................................... 26
+
+PAGE 7
+VII
+Cases—Continued: Page
+United States  v.  Nedley,  255 F.2d 350 (3d Cir. 1958) ...... 28
+United States  v.  Santoni,  585 F.2d 667 (4th Cir.
+1978), cert. denied, 440 U.S. 910 (1979) ......................... 19, 23
+United States  v.  Shyres,  898 F.2d 647 (8th Cir.),
+cert. denied, 498 U.S. 821 (1990) ......................................... 20
+United States  v.  Simpson,  950 F.2d 1519 (10th Cir.
+1991) ......................................................................................... 20
+United States  v.  Starks,  515 F.2d 112 (3d Cir. 1975) ....... 24
+United States  v.  Sturm,  870 F.2d 769 (1st Cir. 1989) ...... 29
+United States  v.  Tropiano,  418 F.2d 1069 (2d Cir.
+1969), cert. denied, 397 U.S. 1021 (1970) ....................... 19, 23
+United States  v.  Turkette,  452 U.S. 576 (1981) ................. 14
+United States  v.  Zappola,  677 F.2d 264 (2d Cir.),
+cert. denied, 459 U.S. 866 (1982) ......................................... 29
+United States  v.  Zemek,  634 F.2d 1159 (9th Cir.
+1980), cert. denied, 450 U.S. 916 (1981) ......................... 19, 23
+Statutes and regulations:
+Clayton Act, 15 U.S.C. 15 et seq.:
+§ 4, 15 U.S.C. 15(a) ................................................................. 4
+§ 16, 15 U.S.C. 26 ...................................................... 4, 10, 12, 13
+Freedom of Access to Clinic Entrances Act of 1994,
+Pub. L. No. 103-259, § 3, 108 Stat. 694 (18 U.S.C.
+248) ........................................................................................... 14
+18 U.S.C. 248(a) ................................................................. 15
+18 U.S.C. 248(c)(1)(B) ....................................................... 15
+18 U.S.C. 1341 ............................................................................ 19
+18 U.S.C. 1343 ............................................................................ 19
+Hobbs Anti-Racketeering Act:
+18 U.S.C. 1951 .................................................................. 2, 3, 1a
+18 U.S.C. 1951(a) ............................................................ 5, 15, 21
+18 U.S.C. 1951(b)(1) ............................................................... 28
+18 U.S.C. 1951(b)(2) .......................................... 15, 21, 27, 28-29
+Organized Crime Control Act of 1990, Pub. L.
+No. 91-452, § 904(a), 84 Stat. 947 ........................................ 9
+
+PAGE 8
+VIII
+Statutes and regulations—Continued: Page
+Racketeer Influenced and Corrupt Organizations Act,
+18 U.S.C. 1961 et seq.:
+18 U.S.C. 1962(c) ............................................................... 2
+18 U.S.C. 1963(c) ............................................................... 4
+18 U.S.C. 1964 .......................................................... 1, 2, 6, 2a
+18 U.S.C. 1964(a) ............................................ 3, 4, 6, 7, 8, 11
+18 U.S.C. 1964(b) .................................................. 3, 6, 7, 8, 11
+18 U.S.C. 1964(c) .................................................. 2, 3, 7, 8, 12
+Sherman Act, ch. 647, 26 Stat. 209 ........................................ 4
+§ 4, 26 Stat. 209-210 .................................................. 9, 10, 11
+§ 7, 26 Stat. 210 .................................................................. 9
+Travel Act, 18 U.S.C. 1952 ...................................................... 3
+N.Y. Penal Law (Consol. 1909):
+§ 850 .......................................................................................... 17
+§ 851 .......................................................................................... 17
+N.Y. Penal Law § 135.60 (McKinney 1997) ...................... 27, 28
+Miscellaneous:
+American Heritage Dictionary (3d ed. 1994) ...................... 21
+Black’s Law Dictionary (5th ed. 1979) ................................. 21
+W. Blackstone, Commentaries:
+Vol. 1  ....................................................................................... 16
+Vol. 4  ....................................................................................... 20
+2 J. Bishop, Criminal Law (9th ed. 1923) ............................. 20
+C. Bradley, NOW v. Scheidler:  RICO Meets the First
+Amendment,  (1994) Sup. Ct. Rev. 129 .............................. 24
+73 C.J.S., Property (1983) ........................................................ 16
+2 E. Coke, Institutes of the Laws of England (1832) ......... 20
+Commissioners of the Code, Proposed Penal Code
+of the State of New York (1865):
+§ 613 ..................................................................................... 17
+§ 614 ..................................................................................... 17
+91 Cong. Rec. 11,912 (1945) ..................................................... 25
+
+PAGE 9
+IX
+Miscellaneous—Continued: Page
+116 Cong. Rec. (1970):
+p. 27,739 ................................................................................... 12
+p. 35,228 ................................................................................... 13
+p. 35,346 ................................................................................... 13
+2 W. LaFave & A. Scott, Substantive Criminal
+Law (1986) ............................................................................... 28
+7 J. Murray, New English Dictionary (1909) ...................... 21
+(1909) ........................................................................................ 21
+Random House Dictionary (2d ed. 1987) ............................. 21
+1 W. Russell, Crimes and Misdemeanors (8th ed.
+1923) ......................................................................................... 20
+Webster’s New International Dictionary (1917) ................. 21
+3 F. Wharton, A Treatise on Criminal Law (1912) ............ 20
+
+PAGE 10
+(1)
+In the Supreme Court of the United States
+NO. 01-1118
+JOSEPH SCHEIDLER, ANDREW SCHOLBERG,
+TIMOTHY MURPHY, AND THE PRO-LIFE ACTION
+LEAGUE, INC., PETITIONERS
+v.
+NATIONAL ORGANIZATION FOR WOMEN, INC., ET AL .
+NO. 01-1119
+OPERATION RESCUE, PETITIONER
+v.
+NATIONAL ORGANIZATION FOR WOMEN, INC., ET AL .
+ON WRIT OF CERTIORARI
+TO THE UNITED STATES COURT OF APPEALS
+FOR THE SEVENTH CIRCUIT
+BRIEF FOR THE UNITED STATES
+AS AMICUS CURIAE
+INTEREST OF THE UNITED STATES
+The Racketeer Influenced and Corrupt Organizations Act
+(RICO), 18 U.S.C. 1964, authorizes the Attorney General of
+the United States to bring civil RICO suits for equitable
+relief.  The court of appeals held that private civil RICO
+plaintiffs may also seek such relief.  That holding could ad-
+versely affect the United States’ ability to obtain equitable
+relief such as disgorgement when both private parties and
+the government seek such relief for the same conduct.
+
+PAGE 11
+2
+The United States brings criminal prosecutions under the
+Hobbs Anti-Racketeering Act (Hobbs Act), 18 U.S.C. 1951,
+as well as criminal and civil RICO cases that rely on Hobbs
+Act violations as RICO predicate acts.  The United States
+has prosecuted various Hobbs Act violations based on a
+defendant’s wrongful obtaining of a victim’s property right
+to conduct a business in legitimate ways.
+STATUTORY PROVISIONS INVOLVED
+The relevant provisions of RICO, 18 U.S.C. 1964, and the
+Hobbs Act, 18 U.S.C. 1951, are set forth in an appendix to
+this brief.  App., infra, 1a-3a.
+STATEMENT
+1. Petitioners are individuals and organizations engaged
+in pro-life and anti-abortion activities.  Respondents are a
+national nonprofit organization that supports the legal avail-
+ability of abortions and two clinics that provide medical
+services, including abortions.  See National Org. for Women,
+Inc. (NOW)  v. Scheidler, 510 U.S. 249, 252 (1994); 01-1118
+Pet. App. 2a-3a.  In 1986, respondents brought this RICO
+action under 18 U.S.C. 1964(c) against petitioners and other
+defendants alleging, inter alia, that they conspired to force
+the closure of health care clinics that perform abortions, and
+that they did so through a pattern of racketeering activity
+that included acts of extortion in violation of the Hobbs Act.
+In 1991, the district court dismissed the RICO claims for
+failure to allege that the predicate acts or the RICO enter-
+prise were economically motivated.  The court of appeals
+affirmed that ruling.  This Court reversed and remanded,
+holding that RICO does not require proof that either the
+alleged racketeering enterprise or the predicate acts of
+racketeering had an economic motive.  NOW v. Scheidler,
+510 U.S. at 257.
+2. After trial, the jury returned a verdict for respondents
+on their substantive RICO claims under Section 1962(c).
+
+PAGE 12
+3
+The jury found that petitioners or persons associated with
+them had committed 21 violations of the Hobbs Act, 18
+U.S.C. 1951; 25 violations of state extortion law; four acts
+or threats of physical violence; 23 violations of the Travel
+Act, 18 U.S.C. 1952; and 23 attempts to commit one of
+those crimes.  01-1118 Pet. App. 5a, 159a-160a.  The jury
+awarded $31,455.64 to respondent Delaware Women’s
+Health Organization and $54,471.28 to Summit Women’s
+Health Organization.  Those damages were trebled pursuant
+to 18 U.S.C. 1964(c).  01-1118 Pet. App. 5a, 162a.  The district
+court subsequently entered a nation-wide injunction that
+enjoins petitioners, inter alia, from wrongfully inter fering
+with the right of clinics to conduct their business.  Id. at 5a,
+131a-141a.
+3. The Seventh Circuit affirmed.  01-1118 Pet. App. 1a-
+31a.  As relevant here, the court of appeals held that private
+parties may obtain injunctive relief under RICO.  Id. at 6a-
+14a.  The court also held that petitioners’ conduct constituted
+extortion under the Hobbs Act.  The court explained that
+“intangible property such as the right to conduct a business
+can be considered ‘property’ under the Hobbs Act.”  Id. at
+29a.  The court of appeals also rejected petitioners’ argument
+that they did not “obtain” any property.  Ibid.  The court
+reasoned that “an extortionist can violate the Hobbs Act
+without seeking or receiving money or anything else.  A loss
+to, or interference with the rights of, the victim is all that is
+required.”  Ibid.
+SUMMARY OF ARGUMENT
+I. RICO does not authorize private parties to seek in-
+junctive relief.
+A. Section 1964(a) authorizes courts to enter injunctive
+relief, and Section 1964(b) authorizes only the Attorney
+General to bring injunctive actions and to obtain temporary
+injunctive relief.  Section 1964(c) authorizes private parties
+to sue for treble damages and attorneys’ fees, but not for any
+
+PAGE 13
+4
+other relief.  The structure of those provisions indicates that
+Congress intended to vest the Attorney General with the ex-
+clusive authority to bring suit for injunctive relief.
+B. Congress’s intent not to authorize a private injunctive
+action is confirmed by the treatment of the issue under the
+antitrust laws.  The Sherman Act, 26 Stat. 209-210, created a
+public injunctive action and a private treble damages action.
+This Court interpreted that Act to foreclose a private
+injunctive action.  Because RICO tracks the language and
+structure of the Sherman Act, Congress is presumed to
+intend that RICO be similarly interpreted.
+That presumption is strengthened by comparison of RICO
+with the Clayton Act.  Section 4 of the Clayton Act (15
+U.S.C. 15(a)) carries forward the Sherman Act’s treble dam-
+ages provision, and Congress added a new provision, Section
+16 of the Clayton Act (15 U.S.C. 26), that expressly author-
+izes a private action for injunctive relief.  The fact that
+Congress used Section 4 of the Clayton Act as the template
+for RICO’s treble damages provision, 18 U .S.C. 1963(c),
+without also including a counterpart to Section 16 of the
+Clayton Act, compels the conclusion that Congress intended
+no such private injunctive right under RICO.
+C. RICO’s purposes are fully consistent with the absence
+of a private right to seek injunctive relief.  Congress author-
+ized wide-ranging injunctive relief in civil RICO actions,
+such as corporate reorganization and dissolution.  18 U.S.C.
+1964(a).  Congress logically vested the Attorney General
+with the exclusive authority to seek such relief.
+II. The Hobbs Act’s prohibition on extortion is violated
+by a defendant’s wrongful use of force, violence, or fear to
+obtain control over a business.
+A. Property under the Hobbs Act includes the tangible
+assets of a business as well as the right to control the use of
+those assets.  That conclusion flows from the settled under-
+standing of property generally recognized by this Court and
+
+PAGE 14
+5
+specifically recognized by New York courts in interpreting
+that State’s extortion statute, on which the Hobbs Act was
+modeled.  Accordingly, a business owner has a property
+right in controlling what products and services to offer to
+customers.
+B. A defendant commits extortion by seeking to obtain
+control over a victim’s business decisions by wrongful means.
+The Hobbs Act requires that a defendant “obtain[]” prop-
+erty, and defendant does so either by gaining physical
+possession over the property or by acquiring control over
+the use or disposition of the property. United States  v.
+Green, 350 U.S. 415 (1956).  When the property right at issue
+is the intangible right of a business to use its assets, the
+defendant obtains that property right by dictating or
+controlling the use of those assets, i.e., acquiring the power
+to determine what services or products the business will
+offer.  That form of obtaining property by extortion is
+exemplified by threats of violence by organized crime in
+order to wrest control over the operations of legitimate
+businesses.  The same is true when the defendant seeks
+control of a victim’s business to further the defendant’s non-
+economic ends.  And because the Hobbs Act covers attempts
+and conspiracies, 18 U.S.C. 1951(a), it is irrelevant whether
+the defendant succeeds in actually gaining control over the
+business.  A defendant thus commits extortion when he uses
+wrongful acts of violence, force, or fear in order to induce his
+victim to cede to him the power to control the victim’s
+business.
+
+PAGE 15
+6
+ARGUMENT
+I. RICO DOES NOT AUTHORIZE A PRIVATE CAUSE
+OF ACTION FOR INJUNCTIVE RELIEF
+A. RICO’s Text And Structure Vest Exclusive Author-
+ity In The Attorney General To Sue For Injunctive
+Relief
+RICO’s civil remedies provision, 18 U.S.C. 1964, author-
+izes two causes of action:  a public enforcement action for in-
+junctive relief by the Attorney General and a treble damages
+action by private parties.  The Attorney General’s right to
+sue for injunctive relief derives from Sections 1964(a) and
+(b), and those provisions, in combination, make the Attorney
+General’s right exclusive.
+1. Section 1964(a) grants district courts “jurisdiction to
+prevent and restrain violations” of RICO by issuing injunc-
+tive relief.  18 U.S.C. 1964(a).  Section 1964(a) does not, how-
+ever, provide for a cause of action for injunctive relief by a
+particular plaintiff.  Rather, the authority to seek such relief
+is found in Section 1964(b), which states that “[t]he Attorney
+General may institute proceedings under this section,” and
+that, “[p]ending final determination thereof,” the court may
+enter appropriate interim restraining orders.  18 U.S.C.
+1964(b).
+By empowering the Attorney General alone to institute
+proceedings “under this section,” Congress signaled its
+intent that the district court’s equitable jurisdiction under
+Section 1964(a) must be invoked by the Attorney General.
+Congress reinforced that only the Attorney General may
+seek equitable relief by providing that temporary equitable
+relief may be awarded “[p]ending final determination” of a
+proceeding brought by the Attorney General for permanent
+injunctive relief.  There is no corresponding provision that
+authorizes a private party to institute proceedings “under
+this section” or to seek temporary injunctive relief pending
+
+PAGE 16
+7
+final disposition of a claim.  Under Section 1964(a) and (b),
+therefore, the sole authority to seek final and interim injunc-
+tive relief against racketeering activities and enterprises is
+given to the Attorney General.
+Rather than authorize private civil RICO plaintiffs to seek
+equitable remedies, Congress in Section 1964(c) granted pri-
+vate parties the right to bring suit to recover treble damages
+and attorneys’ fees.  Section 1964(c) provides that “[a]ny
+person injured in his business or property by reason of a
+[RICO] violation  *  *  *  may sue  *  *  *  and shall recover
+threefold the damages he sustains and the cost of the suit,
+including a reasonable attorney’s fee.”  18 U.S.C. 1964(c).
+That provision has been construed to authorize private
+parties, and not the government, to seek treble damages.
+United States  v. Bonanno, 879 F.2d 20, 22-24 (2d Cir. 1989)
+(reasoning that the United States is not a “person” under
+Section 1964(c)); see also Sedima, S.P.R.I.  v. Imrex Co. , 473
+U.S. 479, 487 (1985) (observing that Section 1964(c) creates
+“a private treble-damages action”).
+Section 1964’s “inclusion of a single statutory reference to
+private plaintiffs, and the identification of a damages and
+fees remedy for such plaintiffs in [Section 1964(c)], logically
+carries the negative implication that no other remedy  was
+intended to be conferred on private plaintiffs.”  Religious
+Tech. Ctr. v. Wollersheim, 796 F.2d 1076, 1083 (9th Cir. 1986)
+(emphasis in original), cert. denied, 479 U.S. 1103 (1987).
+Coupled with the fact that Congress in Section 1964(b) ex-
+plicitly authorized the Attorney General to initiate proceed-
+ings to obtain equitable relief under Section 1964(a), but did
+not similarly grant private parties that right, the statute
+makes it clear that Congress did not authorize private
+parties to bring actions for equitable relief.
+
+PAGE 17
+8
+2. In concluding otherwise, the Seventh Circuit rea-
+soned:
+Given that the government’s authority to seek injunc-
+tions comes from the combination of the grant of a right
+of action to the Attorney General in § 1964(b) and the
+grant of district court authority to enter injunctions in
+§ 1964(a), we see no reason not to conclude, by parity of
+reasoning, that private parties can also seek injunctions
+under the combination of grants in § 1964(a) and (c).
+01-1118 Pet. App. 8a.  That analysis is flawed, however,
+because Section 1964(c)’s grant of a private treble damages
+action is not parallel to Section 1964(b)’s grant of a public
+injunctive action.  As explained, Section 1964(b) expressly
+grants the Attorney General the right to bring actions under
+“this section,” an obvious cross-reference to the court’s
+power to award injunctive relief under Section 1964(a).
+Section 1964(c), by contrast, is a free-standing, self-contained
+grant of a private right to recover treble damages.  The
+provision contains no express or implied reference to, or
+incorporation of, Section 1964(a).
+The court of appeals’ interpretation is also undermined by
+its recognition (01-1118 Pet. App. 14a) that Section 1964(b)
+grants only the government the right to seek preliminary
+injunctive relief.  Under the court of appeals’ reading of the
+statute, private parties may seek permanent injunctive relief
+but not temporary relief pending final resolution of their
+claims.  There is no reason, however, why Congress would
+have intended that highly anomalous result.  Rather, the
+logical interpretation of the statute is that Congress created
+a symmetrical statutory scheme under which the Attorney
+General may seek temporary and final injunctive relief, and
+private parties may seek treble damages.1
+                                                  
+1 Contrary to the court of appeals’ suggestion (01-1118 Pet. App. 10a),
+Congress’s statement that RICO should be “liberally” construed,
+
+PAGE 18
+9
+B. A Comparison With The Antitrust Laws Shows That
+Congress Did Not Create A Private Injunctive Action
+The statutory language that forms the closest antecedent
+for the remedial provisions in RICO is found in the antitrust
+laws.  At a time when Congress had provided no express
+authority for private antitrust plaintiffs to seek equitable
+relief, the antitrust laws were construed to preclude such
+relief.  The parallels between the antitrust laws at that time
+and the language of RICO support the same conclusion
+here–particularly since RICO lacks the explicit authority to
+seek private injunctive relief that Congress ultimately added
+to the antitrust laws.  RICO’s legislative history reveals that
+the statute’s omission of authority for private RICO plain-
+tiffs to seek equitable relief was deliberate.
+1. As this Court has explained, “[a] treble-damages re-
+medy for persons injured by antitrust violations was first
+provided in § 7 of the Sherman Act, and was re-enacted in
+1914 without substantial change as § 4 of the Clayton Act.”
+Pfizer Inc. v. India, 434 U.S. 308, 311 (1978); accord Holmes
+v. Securities Investor Prot. Corp ., 503 U.S. 258, 267 n.13
+(1992); Texas Indus., Inc.  v. Radcliff Materials, Inc. , 451
+U.S. 630, 644 n.16 (1981). 2  Section 4 of the Sherman Act also
+authorized courts to issue injunctive relief in actions brought
+                                                  
+Organized Crime Control Act of 1990, Pub. L. No. 91-452, § 904(a), 84 Stat.
+947, does not override RICO’s text, structure, and history (see pp. 6-13).
+That clause “is not an invitation to apply RICO to new purposes that Con-
+gress never intended.  Nor does the clause help us to determine what
+purposes Congress had in mind.  Those must be gleaned from the statute
+through the normal means of interpretation.”  Reves v. Ernst & Young ,
+507 U.S. 170, 183-184 (1993).
+2 Section 7 provided that “[a]ny person who shall be injured in his
+business or property  *  *  *  by reason of anything forbidden or declared
+to be unlawful by this act[] may sue therefor  *  *  *  and shall recover
+three fold the damages by him sustained, and the cost of suit, including a
+reasonable attorney’s fee.”  26 Stat. 210.
+
+PAGE 19
+10
+by the United States.  26 Stat. 209-210. 3  This Court
+repeatedly recognized that those provisions of the Sherman
+Act did not authorize private parties to bring suit for
+injunctive relief. 4  Private parties were not authorized to
+seek injunctive relief for violations of the antitrust laws until
+Congress passed Section 16 of the Clayton Act (15 U.S.C. 26)
+explicitly authorizing such a right.  California v. American
+Stores Co., 495 U.S. 271, 287 (1990) (“§ 4 of the Sherman Act,
+which authorizes equitable relief in actions brought by the
+United States, was reenacted as § 15 of the Clayton Act,
+while § 16 filled a gap in the Sherman Act by authorizing
+equitable relief in private actions.”); accord General Inv. Co.
+v. Lake Shore & Mich. S. Ry., 260 U.S. 261, 287 (1922).
+The Sherman Act thus “envisaged two classes of actions,
+—those made available only to the Government, *  *  *  and,
+in addition, a right of action for treble damages granted to
+redress private injury.”  United States  v. Cooper Corp. , 312
+U.S. 600, 608 (1941) (holding that the United States may not
+recover treble damages under the Sherman Act).  The Court
+reached that conclusion despite the fact “that there are no
+words of express exclusion of the right of individuals to act
+                                                  
+3 Section 4 of the Sherman Act provided that:
+The several circuit courts of the United States are hereby invested
+with jurisdiction to prevent and restrain violations of this act; and it
+shall be the duty of the several district attorneys of the United
+States, in their respective districts, under the direction of the
+Attorney-General, to institute proceedings in equity to prevent and
+restrain such violations.  *  *  *  [P]ending [a] petition and before final
+decree, the court may at any time make such temporary restraining
+order or prohibition as shall be deemed just in the premises.
+26 Stat. 209-210.
+4 General Inv. Co.  v. Lake Shore & Mich. S. Ry. , 260 U.S. 261, 286
+(1922); Geddes v. Anaconda Copper Mining Co. , 254 U.S. 590, 593 (1921);
+Paine Lumber Co.  v. Neal, 244 U.S. 459, 471 (1917); D.R. Wilder Mfg. Co.
+v. Corn Prods. Ref. Co. , 236 U.S. 165, 174 (1915); Minnesota v. Northern
+Sec. Co., 194 U.S. 48, 70-71 (1904).
+
+PAGE 20
+11
+in the enforcement of the statute, or of courts generally to
+entertain complaints on that subject.”  D.R. Wilder Mfg. Co.
+v. Corn Prods. Ref. Co. , 236 U.S. 165, 174 (1915).  The Court
+explained that “such exclusion must be implied  *  *  *  be-
+cause of the familiar doctrine that ‘where a statute creates a
+new offense and denounces the penalty, or gives a new right
+and declares the remedy, the punishment or the remedy can
+be only that which the statute prescribes.’ ”  Id. at 174-175
+(quoting Farmers’ & Mechanics’ Nat’l Bank v. Dearing, 91
+U.S. 29, 35 (1875)).5
+Although the Sherman Act authorizes public injunctive
+actions in one paragraph (Section 4), while RICO does so in
+two paragraphs (Section 1964(a) and (b)), the statutes are
+identical in the respects critical here.  First, both confer on
+courts “jurisdiction” to enjoin violations through permanent
+and injunctive relief, but expressly authorize only the
+Attorney General to seek such relief.  Second, both provide
+private parties a separate right to recover treble damages
+and attorneys’ fees, but no other forms of relief.  In light of
+the precedents construing the Sherman Act, Congress is
+presumed to be aware when it enacted RICO that, absent
+inclusion of an express private right to obtain injunctive
+relief, the language it selected would be construed to exclude
+such a right.  Holmes, 503 U.S. at 268 (construing the term
+                                                  
+5 For those reasons, respondents erred below in relying on the courts’
+“inherent powers to issue injunctions  *  *  *  absent the clearest con-
+gressional command to the contrary.”  Resp. C.A. Br. 39 (citing Califano
+v. Yamasaki, 442 U.S. 682, 705 (1979)).  That presumption is inapplicable
+here, where Congress passed RICO against the backdrop of this Court’s
+Sherman Act decisions that held that courts had no authority to award
+injunctive relief to private parties notwithstanding the absence of any
+“words of express exclusion” of that authority.  D.R. Wilder Mfg. Co. , 236
+U.S. at 174.  Indeed, the Court adhered to that conclusion despite argu-
+ments of dissenters that the courts had inherent equitable power to enjoin
+Sherman Act violations in suits by private parties.  See Paine Lumber
+Co., 244 U.S. at 473-477 (Pitney, J., dissenting).
+
+PAGE 21
+12
+“by reason of” in Section 1964(c) and observing that the
+Court “may fairly credit the 91st Congress, which enacted
+RICO, with knowing the interpretation federal courts had
+given the words earlier Congresses had used first in § 7 of
+the Sherman Act, and later in the Clayton Act’s § 4.”).
+Indeed, to authorize private antitrust plaintiffs to seek
+equitable relief, Congress enacted a separate section of the
+Clayton Act, Section 16.  RICO, however, lacks any pro-
+vision comparable to Section 16 of the Clayton Act.  Juxta-
+posed with Congress’s explicit modeling of RICO’s private
+treble damages provision “on the civil-action provision of the
+federal antitrust laws, § 4 of the Clayton Act,” Holmes, 503
+U.S. at 267, the absence of a counterpart to the Clayton Act’s
+Section 16 makes clear that Congress did not intend to
+create a private right to equitable relief under RICO.
+2. The legislative history of RICO confirms that Con-
+gress made a deliberate choice in omitting authority for a
+private injunctive action.  “The civil remedies in the bill
+passed by the Senate, S. 30, were limited to injunctive
+actions by the United States and became §§ 1964(a), (b), and
+(d).”  Sedima, 473 U.S. at 486-487; Agency Holding Corp.  v.
+Malley-Duff & Assocs. , 483 U.S. 143, 152 (1987) (same).
+“During hearings on S. 30 before the House Judiciary Com-
+mittee, Representative Steiger proposed the addition of a
+private-treble damages action” that was modeled after
+Section 4 of the Clayton Act.  Sedima, 473 U.S. at 487.  That
+amendment also would have authorized private parties to
+seek injunctive relief and the government to seek damages,
+as well as other procedural changes.  116 Cong. Rec. 27,739
+(1970).  When the Judiciary Committee responded by pass-
+ing only the private treble damages provision, Representa-
+tive Steiger complained that the bill did “not do the whole
+job,” since it “fail[ed] to provide  *  *  *  two important sub-
+stantive remedies included in the Clayton Act:  compen-
+satory damages to the United States when it is injured in its
+
+PAGE 22
+13
+business or property, and equitable relief in suits brought by
+private citizens.”  Id. at 35,228 (emphasis added).
+Representative Steiger subsequently offered another
+amendment, again to authorize a private injunctive action
+and a public damages action.  Sedima, 473 U.S. at 487; 116
+Cong. Rec. 35,228; id. at 35,346.  Concerned about “the
+potential consequences that this new remedy might have,”
+Representative Poff asked Representative Steiger to with-
+draw the amendment for further study by the Judiciary
+Committee, and Representative Steiger agreed.  Agency
+Holding Corp. , 483 U.S. at 154-155 (citing 116 Cong. Rec.
+35,346).
+Shortly after RICO was enacted, Senators Hruska and
+McClellan, RICO’s sponsors, introduced S. 16, a bill that
+again would have authorized damage actions by the United
+States and injunctive relief actions by private persons.
+Agency Holding Corp. , 483 U.S. at 155 (“[T]he purpose of
+[S. 16] was to broaden even further the remedies available
+under RICO.  In particular,  *  *  *  it would have further
+permitted private actions for injunctive relief.”).  The
+Senate, but not the House, passed S. 16, and therefore it
+never became law.  Wollersheim, 796 F.2d at 1086.
+Congress thus passed RICO without authorizing private
+injunctive actions despite repeated attempts to do so, and
+despite Congress’s explicit grant of such a right in Section 16
+of the Clayton Act.  Congress shortly thereafter rejected an
+amendment to RICO that would have added such a right.
+The clear current in the legislative history is that, consistent
+with RICO’s text, Congress intended to create a private
+right of action for only treble damages.
+
+PAGE 23
+14
+C. Policy Considerations Do Not Support A Private Right
+To Injunctive Relief Under RICO
+The purposes underlying RICO are fully consistent with
+limiting injunctive actions to suits brought by the Attorney
+General.  RICO was designed “to provide new weapons of
+unprecedented scope for an assault upon organized crime
+and its economic roots.”  Russello v. United States, 464 U.S.
+16, 26 (1983).  To eradicate that sustained criminal conduct,
+Congress expressly authorized district courts to enter wide-
+ranging injunctive relief, including divestiture and corporate
+reorganization and dissolution.  United States v. Turkette,
+452 U.S. 576, 585 (1981).  Corporate dissolution, however, is
+“a judgment of corporate death, which represent[s] the
+extreme rigor of the law.”  California v. American Stores
+Co., 495 U.S. at 289 (internal quotation marks and ellipses
+omitted).  It is therefore not surprising that Congress
+entrusted the Attorney General, acting with “official unity of
+initiative,” with the exclusive authority to obtain such relief.
+D.R. Wilder Mfg. Co. , 236 U.S. at 174.  As this Court ex-
+plained in discussing the Sherman Act, Congress wanted to
+“confine the right to question the legal existence of a cor-
+poration  *  *  *  to public authority sanctioned by the sense
+of public responsibility and not to leave it to individual action
+prompted it may be by purely selfish motives.”  Id. at 176.
+It is neither necessary nor appropriate to construe RICO
+implicitly to place those same remedies in private hands.
+Congress explicitly authorized a private right of damages
+under RICO and provided for a treble damages remedy as a
+deterrent against future harm.  In particular contexts when
+Congress has wished to go further and authorize private
+injunctive relief for a new statutory right, it has so provided.
+For instance, although the conduct at issue here pre-dates
+the Freedom of Access to Clinic Entrances Act of 1994
+(FACE), Pub. L. No. 103-259, § 3, 108 Stat. 694 (18 U.S.C.
+248), that Act expressly provides for suits by private
+
+PAGE 24
+15
+persons to obtain temporary and injunctive relief against
+threats or acts of force that interfere with the obtaining or
+providing of abortion services.  18 U.S.C. 248 (a) and
+(c)(1)(B).
+II. THE HOBBS ACT CRIMINALIZES WRONGFUL
+USES OF FORCE, VIOLENCE, OR FEAR TO OB-
+TAIN CONTROL OVER A BUSINESS
+The Hobbs Act makes it a crime for anyone who “in any
+way or degree obstructs, delays, or affects commerce or the
+movement of any article or commodity in commerce, by
+robbery or extortion or attempts or conspires so to do.”  18
+U.S.C. 1951(a).  The Act defines extortion as “the obtaining
+of property from another, with his consent, induced by
+wrongful use of actual or threatened force, violence, or fear,
+or under color of official right.”  18 U.S.C. 1951(b)(2).  Prop-
+erty under the Hobbs Act includes not only the tangible and
+intangible assets of a business but also the control over those
+assets.  A defendant obtains, or attempts to obtain, that
+property right when he wrongfully uses force, violence, or
+fear to secure, with the victim’s consent, effective control
+over decisions about the victim’s business.6
+A. The Right To Control A Business Is Property
+Under The Hobbs Act
+1. It was settled when Congress passed the Hobbs Act in
+1946 that the term “property” includes the exclusive right to
+control the use of business assets, such as buildings and
+                                                  
+6 The trial court instructed the jury that “property” includes (1) “a
+woman’s right to seek services from a clinic,” (2) “the right of the doctors,
+nurses, or other clinic staff to perform their jobs,” and (3) “the right of the
+clinics to provide medical services free from wrongful threats, violence,
+coercion, and fear.”  01-1118 Pet. App. 150a.  The court of appeals dis-
+cussed only the third basis for finding a property right, holding that “the
+right to conduct a business can be considered ‘property’ under the Hobbs
+Act.’ ”  Id. at 29a.  This brief addresses the validity of that holding.
+
+PAGE 25
+16
+equipment, in any legitimate manner.  It is “elementary”
+that “[p]roperty is more than the mere thing which a person
+owns,” and “consists of the free use, enjoyment, and disposal
+of a person’s acquisitions without control or diminution save
+by the law of the land.”  Buchanan v. Warley, 245 U.S. 60, 74
+(1917) (citing 1 W. Blackstone, Commentaries *127).  In
+other words, the “bundle of rights,” Kaiser Aetna  v. United
+States, 444 U.S. 164, 176 (1979), that constitutes property
+includes the exclusive “power over [the] use” of physical
+assets.  Marsh v. Nichols, Shepard & Co. , 128 U.S. 605, 612
+(1888).
+Because “[t]here can be no conception of property aside
+from its control and use,” 73 C.J.S. Property § 5, at 170
+(1983), this Court has recognized in a variety of contexts that
+the intangible right to use property is itself property.  See,
+e.g., United States  v. Craft, 122 S. Ct. 1414, 1423 (2002) (ob-
+serving that “essential property rights” include “the right to
+use the property”); Loretto v. Teleprompter Manhattan
+CATV Corp., 458 U.S. 419, 435 (1982) (“Property rights in a
+physical thing have been described as the rights ‘to possess,
+use, and dispose of it.’ ”) (quoting United States  v. General
+Motors Corp. , 323 U.S. 373, 378 (1945)); Crane  v. Commis-
+sioner, 331 U.S. 1, 6 (1947) (observing that “ordinary, every-
+day” understanding of “property” includes “the aggregate of
+the owner’s rights to control and dispose of [a physical]
+thing”); Dobbins v. City of Los Angeles , 195 U.S. 223, 236
+(1904) (describing constitutional rights “to use and enjoy
+property”).7
+                                                  
+7 In Florida Prepaid Postsecondary Education Expense Board  v.
+College Savings Bank , 527 U.S. 627, 672-675 (1999), the Court rejected an
+asserted property right based on a “generalized right to be secure in one’s
+business interests” free from a competitor’s false advertising, because that
+right lacked the element of exclusivity.  The Court did not address, much
+less reject, the principle repeatedly embraced by this Court in the cases
+
+PAGE 26
+17
+2. The principle that the right to control and use prop-
+erty is itself property accords with New York’s extortion
+statute on which Congress modeled the Hobbs Act.  Evans
+v. United States, 504 U.S. 255, 261 n.9, 264 (1992); accord
+United States  v. Enmons, 410 U.S. 396, 406 n.16 (1973).
+When Congress passed the Hobbs Act, New York law de-
+fined extortion as “the obtaining of property from another,
+with his consent, induced by a wrongful use of force or fear”
+and further provided that “[f]ear  *  *  *  may be induced by a
+threat  *  *  *  [t]o do an unlawful injury to  *  *  *  property.”
+N.Y. Penal Law §§ 850, 851 (Consol. 1909); accord Commis-
+sioners of the Code, Proposed Penal Code of the State of
+New York  §§ 613, 614 (1865).  In the earliest decision inter-
+preting the meaning of “property” under that statute, People
+v. Barondess, 31 N.E. 240, 241 (1892), New York’s highest
+court held that the term broadly extends to in tangible
+rights, and that an injury to a “business” in the form of work
+stoppages occasioned by a strike constitutes an injury to
+“property.”
+The court in Barondess reasoned that the extortion
+statute “has not employed” the term “property” “to apply
+*  *  *  solely to tangible articles  *  *  *  but it has included
+[the term] in its broad and unrestricted sense” “to include
+the business itself.  *  *  *  [F]or it has been said by Black-
+stone that property consists in the free use, enjoyment, and
+disposal of all the owner’s acquisitions, without any control
+or diminution, save only by the laws of the land .”  31 N.E. at
+241, 242 (emphasis added).  Other New York decisions that
+pre-date the passage of the Hobbs Act likewise have held
+that “property” includes the intangible rights of a business.
+People v. Hughes, 32 N.E. 1105 (N.Y. 1893); People v. Wein-
+seimer, 102 N.Y.S. 579, 614 (App. Div.) (“an injury to one’s
+business is an injury to property”), aff ’d, 190 N.Y. 537 (1907).
+                                                  
+cited above that the right to use and control property in a manner that is
+not prohibited by law is itself a property right.
+
+PAGE 27
+18
+While those decisions involved the meaning of the term
+“property” under the section of the statute defining wrong-
+ful acts inducing fear, there is no basis for a different
+meaning of the same word when used elsewhere in the same
+statute.  Estate of Cowart v. Nicklos Drilling Co. , 505 U.S.
+469, 479 (1992) (noting “basic canon of statutory construction
+that identical terms within an Act bear the same meaning”).
+Indeed, in People v. Spatarella, 313 N.E.2d 38, 39-40 (1974),
+New York’s highest court embraced that principle in holding
+that extortion applies to the obtaining of intangible property
+rights that are not capable of physical delivery.  In affirming
+a defendant’s extortion conviction for threatening personal
+injury to a garbage collector unless he stopped servicing a
+restaurant, the court in Spatarella  reasoned that its earlier
+decisions
+have construed the term ‘property’ for one purpose
+under the extortion statute, i.e., for the purpose of de-
+fining the kind of property which can be threatened, and
+consistently held the term to include intangible rights.
+We are not disposed to construe the term differently in
+defining the sort of property which can be demanded
+under pain of injury  *  *  *  within the contemplation of
+the statute.  Surely, the extortionist’s demand for the
+business itself, or a part of it, is, if anything, more
+egregious than the demand simply for money.
+313 N.E.2d at 40; see also People v. Garland, 505 N.E.2d 239
+(N.Y. 1987) (affirming extortion conviction of defendants
+who sought to obtain tenants’ intangible property right to
+occupy apartments).
+3. The term “property” in the Hobbs Act should receive
+a similar construction.  In passing the Hobbs Act, Congress
+legislated against a well-established background principle,
+recognized in decisions of this Court and the New York
+courts, that property, as stated by Blackstone, includes the
+intangible right of a business to freely use, enjoy, and control
+
+PAGE 28
+19
+its assets in any legitimate manner.  Consistent with that
+understanding, in the first appellate decision to consider the
+issue under the Hobbs Act, United States  v. Tropiano, 418
+F.2d 1069, 1076 (1969), cert. denied, 397 U.S. 1021 (1970), the
+Second Circuit held that defendants who threatened owners
+of a garbage removal company with physical violence unless
+the owners ceased soliciting customers in certain areas
+extorted the owners’ property “right to solicit business from
+anyone in any area without any territorial restrictions” by
+the defendants.  Every appellate court that has considered
+the issue since has held that “property” under the Hobbs Act
+includes the intangible right to control a business in any
+legitimate manner.8
+This Court has held in an analogous context that the ex-
+clusive right to control the use of corporate assets is itself
+property.  In Carpenter v. United States , 484 U.S. 19, 26
+(1987), the Court considered whether intangible property
+rights are protected under the mail and wire fraud statutes,
+which prohibit the use of the mails or of electronic trans-
+missions to execute “any scheme or artifice to defraud, or for
+obtaining money or property by means of false or fraudulent
+pretenses, representations, or promises.”  18 U.S.C. 1341,
+1343.  The Court held that “property” in those statutes
+includes the “right to exclusive use” of confidential business
+information, including control over the timing of the release
+                                                  
+8 E.g., United States  v. Arena, 180 F.3d 380, 393 (2d Cir. 1999), cert.
+denied, 531 U.S. 811 (2000); Libertad v. Welch, 53 F.3d 428, 444 n.13 (1st
+Cir. 1995); Northeast Women’s Ctr. v. McMonagle, 868 F.2d 1342, 1350 (3d
+Cir. 1989); United States v. Lewis , 797 F.2d 358, 364 (7th Cir. 1986), cert.
+denied, 479 U.S. 1093 (1987); United States v. Hoelker, 765 F.2d 1422, 1425
+(9th Cir. 1985), cert. denied, 475 U.S. 1024 (1986); United States v. Zemek,
+634 F.2d 1159, 1174 (9th Cir. 1980), cert. denied, 450 U.S. 916 (1981);
+United States  v. Santoni , 585 F.2d 667, 673 (4th Cir. 1978), cert. denied,
+440 U.S. 910 (1979); United States v. Franks, 511 F.2d 25, 32 n.8 (6th Cir.),
+cert. denied, 422 U.S. 1042 (1975); United States v. Nadaline, 471 F.2d 340,
+344 (5th Cir.), cert. denied, 411 U.S. 951 (1973).
+
+PAGE 29
+20
+of the information, “for exclusivity is an important aspect of
+confidential business information and most private property
+for that matter.”  484 U.S. at 26-27.  The lower courts
+construing the mail and wire fraud statutes similarly have
+held that the “right to control a thing, for example, money, is
+an integral part of the property right in the thing itself.”
+United States v. Granberry, 908 F.2d 278, 280 (8th Cir. 1990),
+cert. denied, 500 U.S. 921 (1991). 9  That analysis applies with
+equal force to the term “property” in the Hobbs Act.
+4. Nothing in the common law definition of extortion
+detracts from the conclusion that property under the Hobbs
+Act includes the exclusive right to control the use of busi-
+ness assets.  At common law, extortion was limited to
+corrupt acts by public officials for the performance of official
+duties.  Evans, 504 U.S. at 260.  While prosecutions typically
+involved the receipt of money, extortion was said to extend
+to the taking of any “thing of value.” 10  In passing the Hobbs
+                                                  
+9 Accord United States  v. Simpson, 950 F.2d 1519, 1523 (10th Cir.
+1991); United States v. Madeoy, 912 F.2d 1486, 1492-1493 (D.C. Cir. 1990),
+cert. denied, 498 U.S. 1105 (1991); United States  v. Shyres , 898 F.2d 647,
+652 (8th Cir.), cert. denied, 498 U.S. 821 (1990); United States  v. Fagan ,
+821 F.2d 1002, 1010 n.6 (5th Cir. 1987), cert. denied, 484 U.S. 1005 (1988);
+cf. Cleveland  v.  United States , 531 U.S. 12, 23 (2000) (concluding that a
+State’s regulatory rights to control and issue video poker licenses were
+not property because those rights involved only the “sovereign power to
+regulate”).
+10 1 W. Russell, Crimes and Misdemeanors  573-574 (8th ed. 1923)
+(“Extortion  *  *  *  signifies the unlawful taking by any officer, by colour
+of his office, of any money or thing of value.”); 2 J. Bishop, Criminal Law
+§ 401, at 331-332 (9th ed. 1923) (“In most cases, the thing obtained is
+money  *  *  *.  But probably anything of value will suffice.”); 3 F. Whar-
+ton, A Treatise on Criminal Law  § 1898, at 2095 (1912) (“it is enough if
+any valuable thing is received”); 2 E. Coke, Institutes of the Laws of
+England pt. 1, at 368b (1832) (“Extortion *  *  *  is a great misprision, by
+wresting or unlawfully taking by any officer, by colour of his office, any
+money or valuable thing.”); 4 W. Blackstone, Commentaries *141 (extor-
+tion is “an abuse of public justice, which consists in an officer’s unlawfully
+
+PAGE 30
+21
+Act, Congress “unquestionably expanded the common-law
+definition of extortion to include acts by private individuals
+pursuant to which property is obtained by means of force,
+fear, or threats.”  Id. at 261 (emphasis in original).  By
+explicitly defining extortion under the Hobbs Act to reach
+the obtaining of “property,” 18 U.S.C. 1951(b)(2), Congress
+expressed its intent to reach the acquisition of all forms of
+property, including intangible property rights, by wrongful
+acts of violence, force, or fear.
+B. A Defendant Obtains A Property Right When He
+Secures Control Over The Use Of Business Assets
+1. Under the Hobbs Act, a defendant “obtains” property
+when he acquires, takes, appropriates, gains, or gets the
+property right at issue by the proscribed wrongful acts. 11
+Because the Hobbs Act reaches attempts and conspiracies,
+18 U.S.C. 1951(a), an extortionist can be convicted even if he
+fails in his ultimate goal to obtain the property at issue.  See,
+e.g., Northeast Women’s Ctr. v. McMonagle , 868 F.2d 1342,
+1350 (3d Cir. 1989); United States v. Arena, 180 F.3d 380, 394
+(2d Cir. 1999), cert. denied, 531 U.S. 811 (2000).
+                                                  
+taking, by colour of his office, from any man, any money or thing of
+value.”).  The phrase “thing of value” is a term of art that includes
+intangible rights.  See, e.g., United States  v. Girard, 601 F.2d 69, 71 (2d
+Cir. 1979); cf. Bell v. United States, 462 U.S. 356, 360 (1983).
+11 Webster’s New International Dictionary  1485 (1917) (defining “ob-
+tain” as “[t]o get hold of by effort; to gain possession of; to procure; to
+acquire, in any way”); American Heritage Dictionary  1250 (3d ed. 1994)
+(“[t]o succeed in gaining possession of  *  *  *; acquire”); Random House
+Dictionary 1338 (2d ed. 1987) (“[t]o come into possession of; get, acquire,
+or procure, as through an effort or by a request”); Black’s Law Dictionary
+972 (5th ed. 1979) (“[t]o get hold of by effort; to get possession of; to pro-
+cure; to acquire, in any way”); 7 J. Murray, New English Dictionary  37
+(1909) (“[t]o come into the possession or enjoyment of (something) by one’s
+own effort, or by request; to procure or gain, as the result of purpose and
+effort; hence, generally, to acquire, get”).
+
+PAGE 31
+22
+When the property being extorted is a physical object,
+such as money, the defendant may obtain the property by
+gaining possession over it.  But where the property at issue
+is a business’s intangible right to exercise exclusive control
+over the use of its assets, the defendant obtains that prop-
+erty by obtaining control over the use of those assets.  Cf.
+County Court  v. Allen, 442 U.S. 140, 161-162 & n.21 (1979)
+(possession of drugs may be shown by proof of dominion and
+control).  A defendant thus may attempt to obtain property,
+i.e., control over the use of business assets, by threatening
+acts of violence in order to determine what products or
+services a business will offer, and to which customers.  See
+Arena, 180 F.3d at 394 (extortionist obtains property by
+controlling the fate of a business).
+2. The principle that a defendant may commit extortion
+by obtaining control over property is shown by this Court’s
+decision in United States  v. Green, 350 U.S. 415 (1956).  In
+that case, a union official was convicted of extortion for
+attempting to obtain from employers, by threats of violence,
+money in the form of wages to laborers for fictitious and
+unwanted services.  Id. at 417.  The trial court reversed the
+conviction based on its belief that the “Hobbs Act covers
+only the taking of property from another for the extor-
+tioner’s personal advantage.”  Id. at 418.  This Court found
+that interpretation “erroneous” and held that “extortion as
+defined in the statute in no way depends upon having a
+direct benefit conferred on the person who obtains the prop-
+erty.”  Id. at 420 (emphasis added).  Because the defendant in
+Green did not physically obtain any property from the vic-
+tims, the decision necessarily rests on the premise that the
+defendant satisfies the element of “obtaining property”
+under the Hobbs Act when he controls the disposition of the
+property that is taken from the defendant.
+3. When a defendant uses acts or threats of violence to
+gain control over the use of the victim’s business assets, the
+
+PAGE 32
+23
+property “obtain[ed]” is no different from the property ob-
+tained in cases where organized crime, by threats or vio-
+lence, forces a victim to abandon its business operations or
+otherwise wrongfully exerts control over the business.  E.g.,
+United States  v. Zemek, 634 F.2d 1159, 1174 (9th Cir. 1980)
+(defendants committed arson and threatened murder to
+force nightclub owner to close his business), cert. denied, 450
+U.S. 916 (1981); United States v. Gambino, 566 F.2d 414, 418
+(2d Cir. 1977) (defendants threatened to injure garbage
+collectors unless they ceased servicing certain accounts),
+cert. denied, 435 U.S. 952 (1978); Tropiano, 418 F.2d at 1076)
+(same); United States  v. Glasser, 443 F.2d 994, 997, 1007 (2d
+Cir.) (defendants destroyed windows installed by non-union
+glaziers to force store owners to use union glaziers), cert.
+denied, 404 U.S. 854 (1971).
+Although some courts have described the right being ex-
+torted as the victim’s right to solicit customers ( e.g., United
+States v. Nadaline, 471 F.2d 340, 344 (5th Cir.), cert. denied,
+411 U.S. 951 (1973); Tropiano, 418 F.2d at 1076)), the core
+property right that is given up by the victim and obtained by
+the defendant in those cases is the exclusive right to control
+the conduct of the business’s operations.  United States  v.
+Santoni, 585 F.2d 667, 673 (4th Cir. 1978) (finding that the
+“property extorted was the right of [the victim] to make a
+business decision [ i.e., to whom to award a subcontract] free
+from outside pressure wrongfully imposed”), cert. denied,
+440 U.S. 910 (1979); United States v. Franks, 511 F.2d 25, 32
+n.8 (6th Cir.) (finding that a defendant, who “ coerc[ed] a
+businessman into changing his establishments from non-
+union to union, or risk being bombed,” extorted the business-
+man “of his ‘property’ interest of an economic advantage, of
+using non-union labor, or of operating his business”), cert.
+denied, 422 U.S. 1042 (1975); accord Arena, 180 F.3d at 394;
+McMonagle, 868 F.2d at 1350; Zemek, 634 F.2d at 1174.
+
+PAGE 33
+24
+4. It is irrelevant under the Hobbs Act whether the
+defendant is motivated by an economic purpose, as the lower
+courts that have addressed the issue have correctly recog-
+nized.12  The text of the Hobbs Act contains no requirement
+of an economic motive.  Cf. NOW  v. Scheidler, 510 U.S. at
+257 (“[n]owhere [in the text of RICO] is there any indication
+that an economic motive is required”).  As explained, when a
+person uses force or threats to compel a business to cede
+control over what goods or services the business will offer,
+the defendant obtains the victim’s property by acquiring the
+power to decide how the business will be conducted.  That
+conclusion holds true whether or not the defendant has a
+profit-making objective.13
+                                                  
+12 United States  v. Lewis, 797 F.2d at 364 (“The extortionist  *  *  *
+does not have to intend to receive the funds demanded.  Thus, the de-
+fendant would have violated § 1951 if, for example, he had simply
+demanded that Johnson & Johnson burn $1 million in cash.”); United
+States v. Cerilli, 603 F.2d 415, 420 (3d Cir. 1979) (affirming extortion con-
+viction where defendant demanded money be paid to political party), cert.
+denied, 444 U.S. 1043 (1980); United States v. Starks, 515 F.2d 112, 124 (3d
+Cir. 1975) (“There is no exception to the Hobbs Act which permits
+extortion for [a religious] purpose.”); accord United States  v. Arena , 180
+F.3d at 394; McMonagle, 868 F.2d at 1350.
+13 Petitioners Scheidler et al. (01-1118 Pet. 23) cite commentary that
+asserts that pre-Hobbs Act New York law required the taking of property
+for a financial benefit.  C. Bradley, NOW v. Scheidler: RICO Meets the
+First Amendment , 1994 Sup. Ct. Rev. 129, 140.  The only authority cited
+for that proposition, however, is a New York decision holding that, in the
+labor context, a defendant could not be convicted of extortion to achieve
+legitimate labor goals unless he was attempting to obtain “a financial
+benefit for himself  *  *  *  and was not attempting in good faith to advance
+the cause of unionism.”  People v. Adelstein, 195 N.Y.S.2d 27, 28 (App.
+Div. 1959), aff’d, 169 N.E.2d 425 (N.Y. 1960).  The need to show financial
+benefit in the labor extortion context arises because of the general rule
+that pressure for legitimate labor ends is not extortion.  See Enmons, 410
+U.S. at 406 n.16 (discussing New York law, including Adelstein, and
+stating “[i]n short, when the objectives of the picketing changed from
+
+PAGE 34
+25
+A contrary conclusion would allow a defendant to hijack
+legitimate businesses by wrongful acts of violence, threats,
+or fear simply because the defendant had a non-economic
+objective.  That result would defeat the government’s strong
+interest in protecting interstate commerce under the Hobbs
+Act by prosecuting extortionists who are motivated by
+causes other than financial gain.  For instance, an economic
+motive requirement would immunize a defendant from
+prosecution under the Hobbs Act even though the defendant
+threatened acts of murder against a bank that loaned money
+to foreign nations whose policies the defendant opposed,
+against a retail store that sold products to which the
+defendant objected, or against any other business that used
+its land or other valuable property for a purpose that the
+defendant found unpalatable.
+Those acts have deleterious effects on interstate com-
+merce, whether or not the defendant directs the use of such
+property for his own financial gain.  To exempt such conduct
+from the Hobbs Act would retreat from the Act’s purpose to
+“protect the right of citizens of this country to market their
+products without any interference from lawless bandits.”
+Evans, 504 U.S. at 263 (quoting 91 Cong. Rec. 11,912 (1945)
+(remarks of Rep. Jennings)) see also United States  v.
+Gambino, 566 F.2d at 418 (The Hobbs Act “does not favor
+beatings as a means of controlling markets.”).  In sum, when
+the defendant uses wrongful force or threats to wrest control
+over the victim’s business decisions, the defendant obtains
+that property interest.
+5. Petitioners argue (01-1118 Pet. 15; 01-1119 Pet. 20)
+that the court of appeals dispensed with the “obtaining” ele-
+ment by concluding that “an extortionist can violate the
+Hobbs Act without either seeking or receiving money or
+anything else .”  01-1118 Pet. App. 29a (emphasis added).
+                                                  
+legitimate labor ends to personal payoffs, then the actions became
+extortionate”); cf. United States v. Green, supra.
+
+PAGE 35
+26
+The Hobbs Act does, of course, require an “obtaining of
+property” or an attempt to do so.  But that requirement is
+satisfied when, as in this case, a defendant threatens violence
+in order to force a victim to abandon his business or to cease
+selling a product or service.  In those instances, the defen-
+dant obtains the victim’s exclusive right to decide the use or
+disposition of business assets, a right that is itself property.
+Petitioners suggest (01-1118 Pet. 17 & n.8) that certain
+intangible property rights are “incapable” of being “ob-
+tained.”  That argument, however, conflicts with the ordi-
+nary meaning of the word “obtain” to mean “acquire.”  Note
+11, supra.  The argument also runs counter to this Court’s
+recognition that the intangible right to “control” is
+something that may be “obtained.” 14  Petitioners’ contention,
+if accepted, also would threaten unjustifiably to exempt from
+the Hobbs Act wrongful acts of violence to seize control over
+any number of valuable intangible property rights, such as
+confidential business information, trade secrets, patents,
+trademarks, and copyrights.  See pp. 19-20, supra (discuss-
+ing Carpenter, 484 U.S. at 26-27).  There is no basis for so
+limiting the statute.
+                                                  
+14 E.g. Rondeau v. Mosinee Paper Corp. , 422 U.S. 49, 54 (1975)
+(shareholder disclosed plans for company were he to “obtain control” of
+the company); Perez v. United States , 402 U.S. 146, 155 (1971) (loan
+sharking “is one way by which the underworld obtains control  of legiti-
+mate businesses”) (emphasis added); United States  v. Nardello , 393 U.S.
+286, 295 n.13 (1969) (“Extortion is typically employed by organized crime
+to enforce usurious loans, infiltrate legitimate businesses, and obtain con-
+trol of labor unions.”) (emphasis added); United States  v. National City
+Lines, Inc. , 337 U.S. 78, 79 (1949) (describing conspiracy to “obtain con-
+trol” of local transportation companies); see also Perrin v. United States ,
+444 U.S 37, 48 (1979) (bribery is “widely used in highly organized criminal
+efforts to infiltrate and gain control  of legitimate businesses”) (emphasis
+added).
+
+PAGE 36
+27
+C. The Application Of The Hobbs Act In This Case Would
+Not Produce Unwarranted Expansion Of Liability
+1. Petitioners contend (01-1118 Pet. 19-20 and 01-1119
+Pet. 21) that recognizing liability here would exceed the
+limits placed on the statute in United States  v. Enmons, 410
+U.S. 396 (1973).  Enmons held that the use of violence by
+striking union members, who damaged an employer’s utility
+transformer in an effort to obtain higher wages, was not
+“wrongful” under the Hobbs Act because the Act was not
+intended to “proscribe[] the use of force to achieve legitimate
+collective-bargaining demands.”  Id. at 408.  In petitioners’
+view, the Enmons defendants would be liable under the
+analysis necessary to impose liability here.  They reason that
+under such an analysis, the Enmons defendants “obtained”
+the employer’s property by damaging the transformer when
+they lacked any lawful claim to do so.
+That contention lacks merit.  Extortion requires the
+victim’s “consent, induced by wrongful” acts.  18 U.S.C.
+1951(b)(2) (emphasis added); see Evans , 504 U.S. at 255.
+Simple destruction of property, uncoupled with a demand
+that the victim “consent” to relinquish property, is therefore
+not extortion.  In addition, under Enmons, 410 U.S. at 399-
+410, even violent activity (which is ordinarily punishable
+under state law) is not “wrongful” within the meaning of the
+Hobbs Act if it is undertaken to further legitimate labor
+objectives; the Hobbs Act therefore would not apply even if
+the defendants had “obtained” property.
+2. Petitioners argue (01-1118 Pet. 23) that analyzing their
+conduct as extortion conflates that offense with the New
+York crime of coercion, which occurs when a defendant by
+wrongful acts “compels or induces a person to engage in
+conduct which the latter has a legal right to abstain from
+engaging in, or to abstain from engaging in conduct in which
+he has a legal right to engage.”  N.Y. Penal Law § 135.60
+(McKinney 1997).  They suggest that Congress therefore did
+
+PAGE 37
+28
+not intend to cover their conduct in the Hobbs Act.  The
+same conduct, however, may constitute both coercion and
+extortion.  The two crimes are “parallel” and “are similarly
+defined,” as coercion, “in essence, consists of compelling a
+person by intimidation to engage or refrain from engaging in
+certain conduct,” while extortion “is compelling a person by
+intimidation to turn over property.”  Ibid.  (practice com-
+mentary).  Accordingly, threats made to obtain control over
+how the victim will use his property will often constitute
+both coercion and extortion.15
+3. Contrary to petitioners’ claim (01-1118 Pet. 23 n.13),
+finding liability here would not criminalize, as robbery under
+the Hobbs Act, sit-ins and other protest activity that disrupt
+businesses.  Robbery is defined under the Act as “the unlaw-
+ful taking or obtaining of personal property from the person
+or in the presence of another.”  18 U.S.C. 1951(b)(1).  That
+definition carries with it the common law requirements of a
+physical taking and asportation of property.  See United
+States v. Nedley, 255 F.2d 350, 355-358 (3d Cir. 1958).  As
+aggravated larceny, robbery was also limited at common law
+to the physical taking of tangible personal property.  Bell v.
+United States , 462 U.S. 356, 360 (1983); 2 W. LaFave & A.
+Scott, Substantive Criminal Law  §§ 8.2, 8.4, 8.11 (1986)
+(LaFave & Scott).
+While robbery and extortion both involve the acquisition
+of property by force, they are different in critical respects.
+Unlike robbery, extortion is not limited to the physical
+taking and asportation of personal property from the victim
+and does not require his presence.  LaFave & Scott § 8.12(b).
+And unlike robbery, extortion requires the “consent” of the
+victim, albeit induced by wrongful acts of the defendant.  18
+                                                  
+15 In contrast, because extortion requires that the defendant
+obtain property, threats made (for example) to compel a person to
+vote for a certain candidate for public office would constitute
+coercion, but not extortion, since no property is involved.
+
+PAGE 38
+29
+U.S.C. 1951(b)(2).  Accordingly, a defendant who threatens
+violence to obtain a victim’s consent to release intangible
+property rights commits extortion, not robbery.16
+4. Finally, petitioners err in suggesting that the theory
+of extortion in this case could result in the prosecution of
+consumer boycotts (01-1118 Pet. 22) or of most social protest
+activity (01-1119 Pet. 20).  The Hobbs Act extends only to
+the “wrongful use of actual or threatened force, violence, or
+fear.”  18 U.S.C. 1951(b)(2).  This case involves the use of
+violence, force, and property destruction (01-1118 Pet. App.
+17a), which is inherently wrongful, United States v. Sturm,
+870 F.2d 769, 773 (1st Cir. 1989); United States  v. Zappola,
+677 F.2d 264 (2d Cir.), cert. denied, 459 U.S. 866 (1982), and
+is covered by the Hobbs Act.  The lower courts have recog-
+nized that threatening fear of economic loss (which consumer
+boycotts might involve) is not inherently wrongful under the
+Hobbs Act and is not covered where the victim has no right
+to be free from the pressure brought to bear by the
+defendant.  E.g., Sturm, 870 F.2d at 773; Brokerage Con-
+cepts, Inc. v. U.S. Healthcare, Inc. , 140 F.3d 494, 522-525 (3d
+Cir. 1998); see also United States  v. Albertson, 971 F. Supp.
+837, 849 (D. Del. 1997) (holding that it was not extortion for
+defendant to demand $20,000 from land developer in ex-
+change for dropping vehement opposition to land develop-
+ment), aff ’d, 156 F.3d 1225 (3d Cir. 1998).  Imposing liability
+for the defendant’s use of violence to secure control of the
+victim’s business decisions lies at the core of the Hobbs Act;
+it does not threaten to punish legitimate protest activity.
+                                                  
+16 Petitioners also err in arguing (01-1119 Pet. 21) that the court of
+appeals’ decision could lead to the robbery prosecution of a protester who
+incidentally damages a bystander’s glasses or pants.  Such conduct would
+lack both the elements of asportation and the intent to steal.
+
+PAGE 39
+30
+CONCLUSION
+The judgment of the court of appeals upholding the RICO
+injunction should be reversed and its holding that peti-
+tioners’ conduct was covered by the Hobbs Act should be
+affirmed.
+Respectfully submitted.
+THEODORE B. OLSON
+Solicitor General
+MICHAEL CHERTOFF
+Assistant Attorney General
+MICHAEL R. DREEBEN
+Deputy Solicitor General
+LISA SCHIAVO BLATT
+Assistant to the Solicitor 
+General
+FRANK J. MARINE
+Attorney
+JULY 2002
+
+PAGE 40
+(1a)
+APPENDIX
+1. Section 1951, of Title 18, U.S.C., provides in relevant
+part:
+§ 1951. Interference with commerce by threats or
+violence
+(a) Whoever in any way or degree obstructs, delays, or
+affects commerce or the movement of any article or com-
+modity in commerce, by robbery or extortion or attempts or
+conspires so to do, or commits or threatens physical violence
+to any person or property in furtherance of a plan or purpose
+to do anything in violation of this section shall be fined under
+this title or imprisoned not more than twenty years, or both.
+(b) As used in this section—
+(1) The term “robbery” means the unlawful taking
+or obtaining of personal property from the person or in
+the presence of another, against his will, by means of
+actual or threatened force, or violence, or fear of injury,
+immediate or future, to his person or property, or prop-
+erty in his custody or possession, or the person or prop-
+erty of a relative or member of his family or of anyone in
+his company at the time of the taking or obtaining.
+(2) The term “extortion” means the obtaining of
+property from another, with his consent, induced by
+wrongful use of actual or threatened force, violence, or
+fear, or under color of official right.
+(3) The term “commerce” means commerce within
+the District of Columbia, or any Territory or Possession
+of the United States; all commerce between any point in
+a State, Territory, Possession, or the District of Colum-
+
+PAGE 41
+2a
+bia and any point outside thereof; all commerce between
+points within the same State through any place outside
+such State; and all other commerce over which the
+United States has jurisdiction.
+*     *     *     *     *
+2. Section 1964, of Title 18, U.S.C., provides in relevant
+part:
+§ 1964 Civil remedies
+(a) The district courts of the United States shall have
+jurisdiction to prevent and restrain violations of section
+1962 of this chapter by issuing appropriate orders, in-
+cluding, but not limited to:  ordering any person to divest
+himself of any interest, direct or indirect, in any enter-
+prise; imposing reasonable restrictions on the future
+activities or investments of any person, including, but not
+limited to, prohibiting any person from engaging in the
+same type of endeavor as the enterprise engaged in, the
+activities of which affect interstate or foreign commerce;
+or ordering dissolution or reorganization of any enter-
+prise, making due provision for the rights of innocent
+persons.
+(b) The Attorney General may institute proceedings
+under this section. Pending final determination thereof,
+the court may at any time enter such restraining orders
+or prohibitions, or take such other actions, including the
+acceptance of satisfactory performance bonds, as it shall
+deem proper.
+(c) Any person injured in his business or property by
+reason of a violation of section 1962 of this chapter may
+sue therefor in any appropriate United States district
+
+PAGE 42
+3a
+court and shall recover threefold the damages he sustains
+and the cost of the suit, including a reasonable attorney’s
+fee, except that no person may rely upon any conduct that
+would have been actionable as fraud in the purchase or
+sale of securities to establish a violation of section 1962.
+*     *     *     *     *

@@ -1,0 +1,30 @@
+Source: https://www.law.cornell.edu/supct/html/01-1015.ZS.html
+
+MOSELEY V. V SECRET CATALOGUE, INC.
+MOSELEY V. V SECRET CATALOGUE, INC. (01-1015)
+259 F.3d 464, reversed and remanded.
+Syllabus
+Opinion
+[ Stevens ]Concurrence
+[ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+MOSELEY et al., dba VICTOR’S LITTLE SECRET v.
+V SECRET CATALOGUE, INC., et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+No. 01—1015.  Argued November 12, 2002–Decided March 4, 2003
+An army colonel sent a copy of an advertisement for petitioners’ retail store, “Victor’s Secret,” to respondents, affiliated corporations that own the VICTORIA’S SECRET trademarks, because he saw it as an attempt to use a reputable trademark to promote unwholesome, tawdry merchandise.  Respondents asked petitioners to discontinue using the name, but petitioners responded by changing the store’s name to “Victor’s Little Secret.”  Respondents then filed suit, alleging, inter alia, “the dilution of famous marks” under the Federal Trademark Dilution Act (FTDA).  This 1995 amendment to the Trademark Act of 1946 describes the factors that determine whether a mark is “distinctive and famous,” 15 U.S.C. § 1125(c)(1), and defines “dilution” as “the lessening of the capacity of a famous mark to identify and distinguish goods or services,” §1127.  To support their claims that petitioners’ conduct was likely to “blur and erode” their trademark’s distinctiveness and “tarnish” its reputation, respondents presented an affidavit from a marketing expert who explained the value of respondents’ mark but expressed no opinion concerning the impact of petitioners’ use of “Victor’s Little Secret” on that value.  The District Court granted respondents summary judgment on the FTDA claim, and the Sixth Circuit affirmed, finding that respondents’ mark was “distinctive” and that the evidence established “dilution” even though no actual harm had been proved.  It also rejected the Fourth Circuit’s conclusion that the FTDA “requires proof that (1) a defendant has [used] a junior mark sufficiently similar to the famous mark to evoke in … consumers a mental association of the two that (2) has caused (3) actual economic harm to the famous mark’s economic value by lessening its former selling power as an advertising agent for its goods or services,” Ringling-Bros.-Barnum & Bailey Combined Shows, Inc., v. Utah Div. of Travel Development, 170 F.3d 449, 461.
+Held:
+1. The FTDA requires proof of actual dilution.  Pp. 9—16.
+(a) Unlike traditional infringement law, the prohibitions against trademark dilution are not the product of common-law development, and are not motivated by an interest in protecting consumers.  The approximately 25 state trademark dilution laws predating the FTDA refer both to injury to business reputation (tarnishment) and to dilution of the distinctive quality of a trademark or trade name (blurring).  The FTDA’s legislative history mentions that the statute’s purpose is to protect famous trademarks from subsequent uses that blur the mark’s distinctiveness or tarnish or disparage it, even absent a likelihood of confusion.  Pp. 9—13.
+(b) Respondents’ mark is unquestionably valuable, and petitioners have not challenged the conclusion that it is “famous.”  Nor do they contend that protection is confined to identical uses of famous marks or that the statute should be construed more narrowly in a case such as this.  They do contend, however, that the statute requires proof of actual harm, rather than mere “likelihood” of harm.  The contrast between the state statutes and the federal statute sheds light on this precise question.  The former repeatedly refer to a “likelihood” of harm, rather than a completed harm, but the FTDA provides relief if another’s commercial use of a mark or trade name “causes dilution of the [mark’s] distinctive quality,” §1125(c)(1) (emphasis added).  Thus, it unambiguously requires an actual dilution showing.  This conclusion is confirmed by the FTDA’s “dilution” definition itself, §1127.  That does not mean that the consequences of dilution, such as an actual loss of sales or profits, must also be proved.  This Court disagrees with the Fourth Circuit’s Ringling Bros. decision to the extent it suggests otherwise, but agrees with that court’s conclusion that, at least where the marks at issue are not identical, the mere fact that consumers mentally associate the junior user’s mark with a famous mark is not sufficient to establish actionable dilution.  Such association will not necessarily reduce the famous mark’s capacity to identify its owner’s goods, the FTDA’s dilution requirement.  Pp. 13—15.
+2. The evidence in this case is insufficient to support summary judgment on the dilution count.  There is a complete absence of evidence of any lessening of the VICTORIA’S SECRET mark’s capacity to identify and distinguish goods or services sold in Victoria’s Secret stores or advertised in its catalogs.  The officer who saw the ad directed his offense entirely at petitioners, not respondents.  And respondents’ expert said nothing about the impact of petitioners’ name on the strength of respondents’ mark.  Any difficulties of proof that may be entailed in demonstrating actual dilution are not an acceptable reason for dispensing with proof of an essential element of a statutory violation.  Pp. 15—16.
+259 F.3d 464, reversed and remanded.
+Stevens, J., delivered the opinion for a unanimous Court with respect to Parts I, II, and IV, and the opinion of the Court with respect to Part III, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ, joined.  Kennedy J., filed a concurring opinion.

@@ -1,0 +1,33 @@
+# OT2002 chunk 4 — last-three assembly preparation
+
+Internal preparation only. No assignment, author selection, new count or Canonical Decision Record has been made for these matters. Scheidler's intervening February 26 disposition must be fixed before the chronological assignment sequence continues. Frozen non-Stone commitments and approved Stone positions remain unchanged.
+
+## March 4 — McClendon v. City of Columbia
+
+Form before counts: one signed lead opinion with a unanimous general notice-method part, an eight-Associate immunity-application part and a unanimous separate City disposition. Stone joins the notice-method and City parts and dissents from the personal-immunity affirmance. His own approved assessment finds apparent unlawfulness on the plaintiff-favorable deliberate-danger account; the Associates' different historical-notice assessment does not itself activate his conditional affirmance. His proposed affirmative-danger merits rule and detailed damages remand remain noncontrolling in his separate writing. The majority decides no new general noncustodial-danger merits rule.
+
+The common notice-method proposition permits relevant persuasive authority and obvious applications without a factual twin. The eight Associates' conduct-date application affirms personal immunity. The en banc court itself allowed sufficiently strong persuasive authority, so the new opinion must not claim to overturn a circuit-only rule actually adopted below. Describe the source question as decided and apply it, without falsely attributing a categorical mistake.
+
+The July 1993 notice inquiry preserves the affirmative transfer, plaintiff-favorable record and disputed protective explanation. Reed and Freeman provide the frozen direct preconduct analogies; the approved supplement additionally supplies the distinct Salas, Dwares, Wood, Grubbs and Nishiyama comparisons. Later Pinder, Uhlrig, Lanier, Lewis, Saucier, Hope, Saenz and custody cases may explain the method and current merits boundaries but supply no retroactive notice. The record does not establish knowing instrumental assistance to an intended attack as an undisputed fact. The City judgment stands on absence of a preserved independent basis to disturb it, not personal immunity.
+
+Whole-lead eligible set: the eight Associates, who support every part. Component assignment authority is Stevens for the individual-immunity opinion, including its unanimously supported notice-method proposition, because Stone does not join that judgment coalition. Stone assigns the unanimous City disposition. Apply the Chief's balance rule to his part and choose one author capable of every part from the permitted set once the intervening event is settled. No author selected here.
+
+## March 4 — Moseley v. V Secret Catalogue, Inc.
+
+Form before counts: one signed unanimous text-and-application opinion, with no legislative-history section. Scalia can join the entire operative opinion without abandoning his frozen methodological boundary. Kennedy may publish a full-join concurrence explaining protection of present and potential source-identifying capacity and reliable inference from probable consequences that establishes actual impairment before distinct downstream economic loss. That explanation cannot reduce the injury element to association or unproved likelihood.
+
+All nine support reversal of dilution summary judgment, removal of its dependent injunction and remand under actual-lessening proof. The claimant bears the ordinary preponderance burden; summary judgment requires proof free of a genuine material dispute. Direct and circumstantial proof are available; no universal lost-sales, survey or identical-mark prerequisite. Mere identity also creates no automatic liability. The association, junior-directed offense and general expert brand evidence do not show the missing injury here. The infringement rejection is not revived. A full tarnishment taxonomy remains outside this proof-based decision.
+
+All nine are eligible for the whole lead. No count or author choice made. Objective chronology supplied by control from the saved primary source receipt: No. 01-1015, argued November 12, 2002; decided March 4, 2003.
+
+## March 17 — National Electrical Manufacturers Association v. Sorrell
+
+Form before counts: one signed three-part lead with partial joins. Eight Associates join the disclosure rule; all nine join the territorial rule; Stone and six Associates join ordinary Pike review. Scalia and Thomas join the speech and territorial parts fully and concur in the Pike judgment only, preserving their assumed-framework position in a separate writing.
+
+The disclosure threshold must retain the actual difference: the frozen Associates authorize truthful, noncontroversial product/hazard disclosures reasonably related to a substantial health or environmental purpose and neither unjustified nor unduly burdensome. Stone's approved general rule uses a legitimate purpose. He does not join the Associates' general threshold or silently narrow his own rule. His fallback applies only if no general safe harbor is adopted, which is not this coalition. He concurs in the speech judgment on his own approved legitimate-purpose rule, states its full conditions and ordinary proof allocation, and joins the territorial and Pike portions. The actual Vermont purpose satisfies either view; the separate writing performs legal work by preserving the different general threshold.
+
+Opinion coalitions: disclosure — Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer (8); territorial — all nine (9); Pike — Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer (7). Judgment affirming vacatur and remand — all nine. No Marks synthesis is needed.
+
+Whole-lead eligible authors: Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; Stone's nonjoin of the disclosure part and Scalia/Thomas's nonjoins of the Pike rationale exclude them from whole-lead eligibility. One of the six can carry all parts, so division of authorship is unwarranted. Stone assigns because he supports every judgment component; counts and pool must be freshly established after the earlier Records exist.
+
+The opinion must preserve the interim posture, actual local-sale command, continuing final litigation, burden evidence, absence of an actual conflicting mandate and no categorical disparate-burden prerequisite for Pike. RCRA savings language is no automatic congressional authorization. No prior chunk-four decision supplies a material new-law premise in these fields; same-day McClendon and Moseley remain independent.

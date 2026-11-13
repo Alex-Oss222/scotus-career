@@ -1,0 +1,335 @@
+{
+  "new_records": 12,
+  "protected_files_checked": 288,
+  "new_text_files_checked": 84,
+  "assignment_checks": [
+    {
+      "record": "Brown-v-Li_merits_2003-01-22.md",
+      "counts": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 4,
+        "Souter": 2,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "lead_authors": [
+        "Souter"
+      ]
+    },
+    {
+      "record": "FCC-v-NextWave-Personal-Communications-Inc_merits_2003-01-27.md",
+      "counts": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "lead_authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "Konop-v-Hawaiian-Airlines-Inc_merits_2003-01-27.md",
+      "counts": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "lead_authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "California-First-Amendment-Coalition-v-Woodford_merits_2003-02-25.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "lead_authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "Cartwright-v-Barnes_merits_2003-02-25.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "Thomas"
+      ]
+    },
+    {
+      "record": "Harvey-v-Horan_merits_2003-02-25.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 3,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "O'Connor"
+      ]
+    },
+    {
+      "record": "Miller-El-v-Cockrell_merits_2003-02-25.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 3,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "Ginsburg"
+      ]
+    },
+    {
+      "record": "Washington-State-DSHS-v-Guardianship-Estate-of-Keffeler_merits_2003-02-25.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 3,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "Stevens"
+      ]
+    },
+    {
+      "record": "Scheidler-v-National-Organization-for-Women-Inc_merits_2003-02-26.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 3,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "Scalia"
+      ]
+    },
+    {
+      "record": "McClendon-v-City-of-Columbia_merits_2003-03-04.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 4
+      },
+      "lead_authors": [
+        "Breyer"
+      ]
+    },
+    {
+      "record": "Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md",
+      "counts": {
+        "Stone-Zsela": 3,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 5
+      },
+      "lead_authors": [
+        "Stone-Zsela"
+      ]
+    },
+    {
+      "record": "National-Electrical-Manufacturers-Association-v-Sorrell_merits_2003-03-17.md",
+      "counts": {
+        "Stone-Zsela": 4,
+        "Stevens": 4,
+        "O'Connor": 5,
+        "Scalia": 4,
+        "Kennedy": 4,
+        "Souter": 5,
+        "Thomas": 4,
+        "Ginsburg": 4,
+        "Breyer": 5
+      },
+      "lead_authors": [
+        "Kennedy"
+      ]
+    }
+  ],
+  "judgment_arithmetic": [
+    {
+      "record": "Brown-v-Li_merits_2003-01-22.md",
+      "component": "Judgment",
+      "vote": "8-1",
+      "named_support": 8,
+      "named_opposition": 1,
+      "valid": true
+    },
+    {
+      "record": "FCC-v-NextWave-Personal-Communications-Inc_merits_2003-01-27.md",
+      "component": "Judgment",
+      "vote": "8-1",
+      "named_support": 8,
+      "named_opposition": 1,
+      "valid": true
+    },
+    {
+      "record": "Konop-v-Hawaiian-Airlines-Inc_merits_2003-01-27.md",
+      "component": "Wiretap Act",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "Konop-v-Hawaiian-Airlines-Inc_merits_2003-01-27.md",
+      "component": "Stored Communications Act",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "California-First-Amendment-Coalition-v-Woodford_merits_2003-02-25.md",
+      "component": "Judgment",
+      "vote": "6-3",
+      "named_support": 6,
+      "named_opposition": 3,
+      "valid": true
+    },
+    {
+      "record": "Cartwright-v-Barnes_merits_2003-02-25.md",
+      "component": "Additional congressional qualification",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "Cartwright-v-Barnes_merits_2003-02-25.md",
+      "component": "First and Fourteenth Amendment access burden",
+      "vote": "5-4",
+      "named_support": 5,
+      "named_opposition": 4,
+      "valid": true
+    },
+    {
+      "record": "Harvey-v-Horan_merits_2003-02-25.md",
+      "component": "Judgment",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "Miller-El-v-Cockrell_merits_2003-02-25.md",
+      "component": "Judgment",
+      "vote": "8-1",
+      "named_support": 8,
+      "named_opposition": 1,
+      "valid": true
+    },
+    {
+      "record": "Washington-State-DSHS-v-Guardianship-Estate-of-Keffeler_merits_2003-02-25.md",
+      "component": "Judgment",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "Scheidler-v-National-Organization-for-Women-Inc_merits_2003-02-26.md",
+      "component": "Judgment",
+      "vote": "8-1",
+      "named_support": 8,
+      "named_opposition": 1,
+      "valid": true
+    },
+    {
+      "record": "McClendon-v-City-of-Columbia_merits_2003-03-04.md",
+      "component": "Carney's individual damages claim",
+      "vote": "8-1",
+      "named_support": 8,
+      "named_opposition": 1,
+      "valid": true
+    },
+    {
+      "record": "McClendon-v-City-of-Columbia_merits_2003-03-04.md",
+      "component": "City's separate judgment",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md",
+      "component": "Judgment",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    },
+    {
+      "record": "National-Electrical-Manufacturers-Association-v-Sorrell_merits_2003-03-17.md",
+      "component": "Judgment",
+      "vote": "9-0",
+      "named_support": 9,
+      "named_opposition": 0,
+      "valid": true
+    }
+  ],
+  "errors": [],
+  "repository_history": "Not checked; reserved to operator."
+}

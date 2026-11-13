@@ -1,0 +1,136 @@
+Page 459 TITLE 18—CRIMES AND CRIMINAL PROCEDURE  § 2702 
+1So in original. The word ‘‘of’’ probably should not appear. 
+Sec. 
+2702. Disclosure of contents. 
+2703. Requirements for governmental access. 
+2704. Backup preservation. 
+2705. Delayed notice. 
+2706. Cost reimbursement. 
+2707. Civil action. 
+2708. Exclusivity of remedies. 
+2709. Counterintelligence access to telephone toll  
+and transactional records. 
+2710. Wrongful disclosure of video tape rental or  
+sale records. 
+2711. Definitions for chapter. 
+AMENDMENTS 
+1988—Pub. L. 100–690, title VII, § 7067, Nov. 18, 1988, 102  
+Stat. 4405, which directed amendment of item 2710 by  
+inserting ‘‘for chapter’’ after ‘‘Definitions’’ was exe -
+cuted by making the insertion in item 2711 to reflect  
+the probable intent of Congress and the intervening re -
+designation of item 2710 as 2711 by Pub. L. 100–618, see  
+below. 
+Pub. L. 100–618, § 2(b), Nov. 5, 1988, 102 Stat. 3197, added 
+item 2710 and redesignated former item 2710 as 2711. 
+CHAPTER REFERRED TO IN OTHER SECTIONS 
+This chapter is referred to in section 2511 of this title. 
+§ 2701. Unlawful access to stored communica -
+tions 
+(a) OFFENSE.—Except as provided in subsection  
+(c) of this section whoever—  
+(1) intentionally accesses without authoriza -
+tion a facility through which an electronic  
+communication service is provided; or 
+(2) intentionally exceeds an authorization to  
+access that facility; 
+and thereby obtains, alters, or prevents author -
+ized access to a wire or electronic communica -
+tion while it is in electronic storage in such sys -
+tem shall be punished as provided in subsection  
+(b) of this section. 
+(b) P UNISHMENT.—The punishment for an of -
+fense under subsection (a) of this section is—  
+(1) if the offense is committed for purposes  
+of commercial advantage, malicious destruc -
+tion or damage, or private commercial gain—  
+(A) a fine of 1 under this title or imprison -
+ment for not more than one year, or both, in  
+the case of a first offense under this subpara-
+graph; and 
+(B) a fine under this title or imprisonment  
+for not more than two years, or both, for any 
+subsequent offense under this subparagraph;  
+and 
+(2) a fine of 1 under this title or imprison -
+ment for not more than six months, or both, in 
+any other case. 
+(c) EXCEPTIONS.—Subsection (a) of this section  
+does not apply with respect to conduct author -
+ized—  
+(1) by the person or entity providing a wire  
+or electronic communications service; 
+(2) by a user of that service with respect to  
+a communication of or intended for that user;  
+or 
+(3) in section 2703, 2704 or 2518 of this title. 
+(Added Pub. L. 99–508, title II, § 201[(a)], Oct. 21,  
+1986, 100 Stat. 1860; amended Pub. L. 103–322, title  
+XXXIII, § 330016(1)(K), (U), Sept. 13, 1994, 108  
+Stat. 2147, 2148.) 
+AMENDMENTS 
+1994—Subsec. (b)(1)(A). Pub. L. 103–322, § 330016(1)(U),  
+substituted ‘‘under this title’’ for ‘‘not more than  
+$250,000’’. 
+Subsec. (b)(2). Pub. L. 103–322, § 330016(1)(K), sub -
+stituted ‘‘under this title’’ for ‘‘not more than $5,000’’.  
+EFFECTIVE DATE 
+Section 202 of title II of Pub. L. 99–508 provided that:  
+‘‘This title and the amendments made by this title [en -
+acting this chapter] shall take effect ninety days after  
+the date of the enactment of this Act [Oct. 21, 1986] and  
+shall, in the case of conduct pursuant to a court order  
+or extension, apply only with respect to court orders or  
+extensions made after this title takes effect.’’ 
+SHORT TITLE OF 1988 A MENDMENT 
+Pub. L. 100–618, § 1, Nov. 5, 1988, 102 Stat. 3195, pro -
+vided that: ‘‘This Act [enacting section 2710 of this title 
+and renumbering former section 2710 as 2711 of this  
+title] may be cited as the ‘Video Privacy Protection  
+Act of 1988’.’’ 
+§ 2702. Disclosure of contents 
+(a) P ROHIBITIONS.—Except as provided in sub -
+section (b)—  
+(1) a person or entity providing an electronic 
+communication service to the public shall not  
+knowingly divulge to any person or entity the  
+contents of a communication while in elec -
+tronic storage by that service; and 
+(2) a person or entity providing remote com -
+puting service to the public shall not know -
+ingly divulge to any person or entity the con -
+tents of any communication which is carried  
+or maintained on that service—  
+(A) on behalf of, and received by means of  
+electronic transmission from (or created by  
+means of computer processing of commu -
+nications received by means of electronic  
+transmission from), a subscriber or customer 
+of such service; and 
+(B) solely for the purpose of providing  
+storage or computer processing services to  
+such subscriber or customer, if the provider  
+is not authorized to access the contents of  
+any such communications for purposes of  
+providing any services other than storage or  
+computer processing. 
+(b) E XCEPTIONS.—A person or entity may di -
+vulge the contents of a communication—  
+(1) to an addressee or intended recipient of  
+such communication or an agent of such ad -
+dressee or intended recipient; 
+(2) as otherwise authorized in section 2517,  
+2511(2)(a), or 2703 of this title; 
+(3) with the lawful consent of the originator  
+or an addressee or intended recipient of such  
+communication, or the subscriber in the case  
+of remote computing service; 
+(4) to a person employed or authorized or  
+whose facilities are used to forward such com -
+munication to its destination; 
+(5) as may be necessarily incident to the ren-
+dition of the service or to the protection of the 
+rights or property of the provider of that serv -
+ice; or 
+(6) to a law enforcement agency, if such con -
+tents—  
