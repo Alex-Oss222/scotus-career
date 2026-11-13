@@ -1,0 +1,20 @@
+[
+  {
+    "name": "riggs-crosscheck",
+    "url": "https://www.neochart.com/catalog/cases/sw3d/volume_87/0198_01/index.html",
+    "bytes": 17386,
+    "sha256": "bf44fa8176e311aaadab98619f03db9256ede31c8ea364b7fdeb52ab84c54950",
+    "source_sha256": "bf44fa8176e311aaadab98619f03db9256ede31c8ea364b7fdeb52ab84c54950",
+    "navigation_sanitized": false,
+    "status": "saved"
+  },
+  {
+    "name": "riggs",
+    "url": "https://openjurist.org/87/sw3d/198/jenkens-gilchrist-v-riggs-2005033",
+    "bytes": 377795,
+    "sha256": "553b598947bdf4402b2dc2ca33ec2da35ae01b44426e5772c8cb1feb3a6c0da8",
+    "source_sha256": "cc9d78ef0c2c8e640fa5309b5f91229c699303cd8dbc70ea58c9a4b5ad29cbc2",
+    "navigation_sanitized": true,
+    "status": "saved"
+  }
+]

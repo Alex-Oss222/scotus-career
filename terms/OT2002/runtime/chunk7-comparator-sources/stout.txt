@@ -1,0 +1,257 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+                    
+No. 00-60542
+                    
+WILMA NICOLE STOUT, on behalf 
+of herself and all others 
+similarly situated,
+Plaintiff-Appellant,
+versus
+BAXTER HEALTHCARE CORPORATION,
+Defendant-Appellee.
+                    
+Appeal from the United States District Court
+for the Northern District of Mississippi
+                    
+February 19, 2002
+Before GARWOOD, JOLLY and DeMOSS, Circuit Judges.
+GARWOOD, Circuit Judge:
+In this putative class action Plaintiff-Appellant Wilma Stout
+(Stout) sued Defendant-Appellee Baxter Healthcare Corp. (Baxter)
+pursuant to Title VII of the Civil Rights Act of 1964, as amended
+by the Pregnancy Discrimination Act of 1978 (PDA), 42 U.S.C. §
+
+1 Stout is only asserting a claim under the PDA; the Family and
+Medical Leave Act (FMLA), 29 U.S.C. §§ 2601-2654, is not at issue
+in this case.  The FLMA does not apply to employees, such as Stout, who
+have been employed less than twelve months or who have worked less than
+1,250 hours during the previous twelve months.  See 29 U.S.C. §
+2611(2)(A).  
+-2-
+2000e(k).1  Stout appeals a summary judgment in favor of Baxter and
+the denial of her cross motion for summary judgment.  Finding no
+error, we affirm.
+Facts and Proceedings Below
+Stout was hired by Baxter as a material handler in May of
+1998.  Pursuant to Baxter's standard policy, Stout was a
+probationary employee for the first ninety days of her employment.
+During this probationary period, Baxter evaluates new hires' job
+skills and performance.  Probationary employees are subject to a
+strict attendance policy: anyone who misses more than three days
+during the period is terminated.  Baxter does not provide vacation
+time or medical leave for probationary employees. 
+Stout, who was pregnant during the probationary period,
+received positive performance reviews and maintained a perfect
+attendance record during her first two months.  But, beginning on
+August 14, 1998, Stout was absent for more than three days of work
+after she experienced early labor and suffered a miscarriage that
+rendered her medically unable to work for over two weeks.  Stout
+notified her supervisor of her condition immediately, and provided
+a medical excuse a week later, but Baxter terminated Stout on
+
+-3-
+August 21 because her absenteeism was clearly in excess of that
+permitted during the probationary period.  
+After receiving a right-to-sue letter from the Equal
+Employment Opportunity Commission (EEOC), Stout sued Baxter
+claiming pregnancy discrimination under the PDA and alleging that
+she was fired “because of” her pregnancy and that Baxter's
+probationary attendance policy has a disparate impact on pregnant
+employees.  Baxter moved to dismiss, or, in the alternative, for
+summary judgment, arguing that Stout had failed to state a cause of
+action under the PDA and to create a genuine issue of material fact
+as to whether Baxter had discriminated against her on the basis of
+her pregnancy.  Stout also filed a motion for summary judgment on
+the issue of liability, arguing that Baxter had failed to raise a
+fact issue as to whether Stout was fired because of her pregnancy
+and whether Baxter's probationary policy had a disparate impact on
+pregnant women.  The district court denied Stout's motion but
+granted Baxter's motion for summary judgment.  
+Discussion
+We review a grant of summary judgment de novo.  Amburgey v.
+Corhart Refractories Corp., 936 F.2d 805, 809 (5th Cir. 1991).
+Summary judgment is appropriate “if the pleadings, depositions,
+answers to interrogatories, and admissions on file, together with
+the affidavits, if any, show that there is no genuine issue as to
+any material fact and that the moving party is entitled to a
+
+-4-
+judgment as a matter of law.” Fed. R. Civ. P. 56(c). 
+Title VII of the Civil Rights Act prohibits an employer from
+“discriminat[ing] against any individual with respect to ...
+compensation, terms, conditions, or privileges of employment,
+because of such individual's ... sex....” 42 U.S.C. § 2000e-
+2(a)(1).  The PDA amended Title VII by explicitly including
+discrimination based on pregnancy and related medical conditions
+within the definition of sex discrimination: 
+“The terms 'because of sex' or 'on the
+basis of sex' include, but are not limited to,
+because of or on the basis of pregnancy,
+childbirth, or related medical conditions; and
+women affected by pregnancy, childbirth, or
+related medical conditions shall be treated
+the same for all employment-related purposes
+... as other persons not so affected but
+similar in their ability or inability to
+work....”  
+42 U.S.C. § 2000e(k). Stout alleged that she was the victim of two
+types of discrimination prohibited by Title VII: disparate
+treatment and disparate impact.
+Disparate Treatment
+Stout's claim of disparate treatment has no merit.  She argues
+that she was fired “because of” her pregnancy.  But, to the
+contrary, all of the evidence in the record indicates that she “was
+fired because of her absenteeism, not because of her pregnancy.”
+Dormeyer v. Comerica Bank-Ill., 223 F.3d 579, 583 (7th Cir. 2000).
+There is no evidence she would have been treated differently if her
+absences had been due to some reason unrelated to pregnancy or if
+
+-5-
+she had been absent the same amount but not pregnant.  Baxter’s
+policy does not in any way mention or focus on pregnancy,
+childbirth or any related medical condition.  So far as here
+relevant, it merely limits the permissible absenteeism, on any
+basis, of all probationary employees.  Although Baxter's policy
+results in the dismissal of any pregnant or post-partum employee
+who misses more than three days of work during the probationary
+period, it equally requires the termination of any non-pregnant
+employee who misses more than three days.  There is no evidence in
+the record that Stout was treated any differently than any other
+employee who failed to comply with Baxter's probationary attendance
+policy.  Such a policy does not violate the PDA: “[T]he [PDA] does
+not protect a pregnant employee from being discharged for being
+absent from work even if her absence is due to pregnancy or to
+complications of pregnancy, unless the absences of nonpregnant
+employees are overlooked.”  Id. (collecting cases).  The district
+court properly granted Baxter's summary judgment motion with
+respect to her disparate treatment claim.
+Disparate Impact
+The Supreme Court has explained disparate impact in the
+following way: “[Disparate impact claims] involve employment
+practices that are facially neutral in their treatment of different
+groups but that in fact fall more harshly on one group than another
+and cannot be justified by business necessity.”  Int'l Brotherhood
+
+-6-
+of Teamsters v. United States, 97 S.Ct. 1843, 1854-55 n. 15 (1977)
+(citations omitted).  To establish a prima facie case of disparate
+impact, a plaintiff must both identify the employment practice that
+has the allegedly disproportionate impact and establish causation
+by offering statistical evidence to show that the practice in
+question has resulted in prohibited discrimination.  See Watson v.
+Ft. Worth Bank and Trust, 108 S.Ct. 2777, 2788 (1988).  Ordinarily,
+a prima facie disparate impact case requires a showing of a
+substantial “statistical disparity between protected and non-
+protected workers in regards to employment or promotion.”  Munoz v.
+Orr, 200 F.3d 291, 299-300 (5th Cir. 2000).
+Although normally a plaintiff must provide comparative
+statistical evidence demonstrating a disparity in impact of a
+particular policy, in Garcia v. Woman's Hospital of Texas, 97 F.3d
+810 (5th Cir. 1996), we held that a plaintiff could prove a prima
+facie disparate impact case without statistical evidence.  In
+Garcia, the plaintiff attempted to return to her job after
+complications from pregnancy required her to miss approximately one
+month of work.  Garcia's employer refused to allow her to return to
+work, on the grounds that her pregnancy disqualified her from being
+able to lift 150 pounds.  The hospital, Garcia's employer,
+contended that lifting 150 pounds was a bona fide job requirement,
+but admitted that it did not test Garcia's lifting capabilities
+when she was hired, that it did not test any current employees, and
+
+-7-
+that it also did not test job applicants.  Garcia argued that the
+lifting requirements were artificial and that no nurse was actually
+required to lift that amount as part of his or her work.  Id. at
+812.  At the conclusion of trial, the district court granted the
+hospital's Rule 50 motion on the basis that Garcia had failed to
+make out a claim for disparate treatment.  Even though Garcia had
+not provided any statistical comparison demonstrating a disparate
+impact, we remanded the case for further proceedings on this issue.
+We held that Garcia did not necessarily have to offer comparative
+statistical evidence to prove a prima facie disparate impact case:
+“If all or substantially all pregnant women would be advised by
+their obstetrician not to lift 150 pounds, then they would
+certainly be disproportionately affected by this supposedly
+mandatory job requirement for [employees] at the Hospital.
+Statistical evidence would be unnecessary if Garcia could establish
+this point.”  Id. at 813.  
+There is no evidence that Stout (or any other pregnant
+probationary employee) was treated any differently than any other
+probationary employee who missed work.  In fact, Stout repeatedly
+asserts in her brief that Stout was treated exactly the same as any
+other employee who was unable to work.  Stout's focus is on the
+policy itself; Stout claims that the policy affects all pregnant
+women and that therefore she has provided sufficient evidence to
+prove a prima facie disparate impact case.
+
+2 The PDA applies to “pregnancy, childbirth, [and] related medical
+conditions....”  42 U.S.C. § 2000e(k).
+-8-
+Stout has provided expert testimony that no pregnant woman who
+gives birth will be able to work for at least two weeks.  We agree
+with Stout that this does constitute evidence that “all or
+substantially all” pregnant women who give birth2 during the
+probationary period will be terminated.  Stout argues that under
+Garcia, she has provided evidence sufficient to establish a prima
+facie case of pregnancy discrimination.  If Stout's interpretation
+of Garcia was correct, we might agree.  However, we decline the
+invitation to expand Garcia to the extent Stout's argument
+requires. 
+ In effect, Garcia provides a procedural short cut to PDA
+plaintiffs.  In certain situations a Title VII plaintiff is
+relieved of a burden they would ordinarily bear: the production of
+statistical evidence comparing the effects of a challenged policy
+on protected and unprotected groups of employees.  However, when
+the Garcia rule is applied to cases (such as this one) in which a
+plaintiff challenges only an employer's limit on absenteeism the
+rule produces an effect which is contrary to the plain language of
+the statute.  It is the nature of pregnancy and childbirth that at
+some point, for a limited period of time, a woman who gives birth
+will be unable to work.  All job requirements, regardless of their
+nature, affect “all or substantially all pregnant women.”  If
+
+-9-
+Garcia is taken to its logical extreme, then every pregnant
+employee can make out a prima facie case against her employer for
+pregnancy discrimination, unless the employer grants special leave
+to all pregnant employees.  This is not the law–the PDA does not
+require preferential treatment of pregnant employees and does not
+require employers to treat pregnancy related absences more
+leniently than other absences.  Urbano v. Continental Airlines,
+Inc., 138 F.3d 204, 208 (5th Cir. 1998). 
+Accordingly, we are unwilling to extend the Garcia rule to
+those disparate impact claims, such as this one, in which the
+plaintiff's only challenge is that the amount of sick leave granted
+to employees is insufficient to accommodate the time off required
+in a typical pregnancy.  To hold otherwise would be to transform
+the PDA into a guarantee of medical leave for pregnant employees,
+something we have specifically held that the PDA does not do.  See
+id. at 206-08.  Such a rule would also be distinctly at odds with
+the language of the statute, which requires that pregnant employees
+be treated the same for all employment related purposes as other
+employees with respect to their ability or inability to work.  See
+42 U.S.C. § 2000e(k) ([Women affected by pregnancy] “shall be
+treated the same for all employment related purposes ... as other
+persons not so affected but similar in their ability or inability
+to work ....”) (emphasis added).  We therefore reject Stout's
+argument that she proved a prima facie disparate impact case simply
+
+-10-
+by showing that Baxter's policy affected all or substantially all
+pregnant women who would give birth during or near to their
+probationary period. 
+The present case does not involve any claim that any of
+Baxter's job requirements are not actual, legitimate requirements
+of the job.  Nor does Stout claim that Baxter's leave policy treats
+a class of disabilities which includes pregnancy less favorably
+than other classes of disabilities that do not include pregnancy.
+And, Stout has no evidence that Baxter has in any way applied its
+policy unevenly or has favored non-pregnant employees.  In the end,
+Stout's claim in this case is simply that she should have been
+granted medical leave that is more generous than that granted to
+non-pregnant employees.  This the PDA does not require.
+Conclusion
+The order of the district court granting summary judgment for
+Baxter is
+AFFIRMED.  

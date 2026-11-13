@@ -1,0 +1,27 @@
+ARCHER V. WARNER
+LII
+Supreme Court
+ARCHER V. WARNER (01-1418)
+283 F.3d 230, reversed and remanded.
+Syllabus
+Opinion
+[ Breyer ]Dissent
+[ Thomas ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+ARCHER et ux. v. WARNER
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+No. 01—1418. Argued January 13, 2003–Decided March 31, 2003
+A debt is not dischargeable in bankruptcy “to the extent” it is “for money … obtained by … fraud.” 11 U.S.C. § 523(a)(2)(A). Petitioners, the Archers, sued respondent Warner and her former husband in state court for (among other things) fraud connected with the sale of the Warners’ company to the Archers. In settling the lawsuit, the Archers executed releases discharging the Warners from all present and future claims, except for obligations under a $100,000 promissory note and related instruments. The Archers then voluntarily dismissed the lawsuit with prejudice. After the Warners failed to make the first payment on the promissory note, the Archers sued in state court. The Warners filed for bankruptcy, and the Bankruptcy Court ordered liquidation under Chapter 7. The Archers brought the present claim, asking the Bankruptcy Court to find the $100,000 debt nondischargeable, and to order the Warners to pay the sum. Respondent Warner contested nondischargeability. The Bankruptcy Court denied the Archers’ claim. The District Court and the Fourth Circuit affirmed. The latter court held that the settlement agreement, releases, and promissory note worked a kind of “novation” that replaced (1) an original potential debt to the Archers for money obtained by fraud with (2) a new debt for money promised in a settlement contract that was dischargeable in bankruptcy.
+Held: A debt for money promised in a settlement agreement accompanied by the release of underlying tort claims can amount to a debt for money obtained by fraud, within the nondischargeability statute’s terms. Pp. 3—8.
+(a) The outcome here is governed by Brown v. Felsen, 442 U.S. 127, in which (1) Brown filed a state-court suit seeking money that he said Felsen had obtained through fraud; (2) the court entered a consent decree based on a stipulation providing that Felsen would pay Brown a certain amount; (3) neither the decree nor the stipulation indicated the payment was for fraud; (4) Felsen did not pay; (5) Felsen entered bankruptcy; and (6) Brown asked the Bankruptcy Court to look behind the decree and stipulation and hold that the debt was nondischargeable because it was a debt for money obtained by fraud. Id., at 128—129. This Court found that, although claim preclusion would bar Brown from making any claim “ ‘based on the same cause of action’ ” that he had brought in state court, id., at 131, it did not prevent the Bankruptcy Court from looking beyond the state-court record and the documents terminating the state-court proceeding to decide whether the debt was a debt for money obtained by fraud, id., at 138—139. As a matter of logic, Brown’s holding means that the Fourth Circuit’s novation theory cannot be right. If reducing a fraud claim to settlement definitively changed the nature of the debt for dischargeability purposes, the nature of the debt in Brown would have changed similarly, thereby rendering that debt dischargeable. This Court’s instruction that the Bankruptcy Court could “weigh all the evidence,” id., at 138, would have been pointless, as there would have been nothing for the court to examine. Moreover, the Court’s statement in Brown that “the mere fact that a conscientious creditor has previously reduced his claim to judgment should not bar further inquiry into the true nature of the debt,” ibid., strongly favors the Archers’ position. Finally, Brown’s basic reasoning applies here. The Court noted that a change in the Bankruptcy Code’s nondischargeability provision indicated that “Congress intended the fullest possible inquiry” to ensure that “all debts arising out of” fraud are “excepted from discharge,” no matter their form. Ibid. Congress also intended to allow the determination whether a debt arises out of fraud to take place in bankruptcy court, not to force it to occur earlier in state court when nondischargeability concerns “are not directly in issue and neither party has a full incentive to litigate them.” Id., at 134. The only difference between Brown and this case–that the relevant debt here is embodied in a settlement, not in a stipulation and consent judgment–is not determinative, since the dischargeability provision applies to all debts that “aris[e] out of” fraud. Id., at 138. Pp. 3—7.
+(b) The Fourth Circuit remains free, on remand, to determine whether Warner’s additional arguments were properly raised or preserved, and, if so, to decide them. Pp. 7—8.
+283 F.3d 230, reversed and remanded.
+Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Scalia, Kennedy, Souter, and Ginsburg, JJ., joined. Thomas, J., filed a dissenting opinion, in which Stevens, J., joined.

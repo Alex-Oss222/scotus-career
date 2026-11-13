@@ -1,0 +1,1589 @@
+Present:  Carrico, C.J., Lacy, Hassell, Koontz, Kinser, and 
+Lemons, JJ., and Whiting, S.J. *
+ 
+BARRY ELTON BLACK 
+ 
+v.  Record No. 010123 
+ 
+COMMONWEALTH OF VIRGINIA 
+ 
+ 
+RICHARD J. ELLIOTT 
+ 
+v.  Record No. 003014  
+  OPINION BY JUSTICE DONALD W. LEMONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   November 2, 2001 
+COMMONWEALTH OF VIRGINIA 
+ 
+ 
+JONATHAN O’MARA 
+ 
+v.  Record No. 010038 
+ 
+COMMONWEALTH OF VIRGINIA 
+ 
+ 
+FROM THE COURT OF APPEALS OF VIRGINIA 
+ 
+ 
+In these appeals, we consider whether Code § 18.2-423, 
+which prohibits the burning of a cross with the intent of 
+intimidating any person or group of persons, impermissibly 
+infringes upon constitutionally protected speech.  The case of 
+Black v. Commonwealth involves a Ku Klux Klan rally on private 
+property with the permission of the owner, where a cross was 
+burned as a part of the ceremony.  The companion cases of 
+O’Mara v. Commonwealth and Elliott v. Commonwealth involve the 
+attempted burning of a cross in the backyard of the home of 
+                     
+* Justice Keenan did not participate in the hearing and 
+decision of this case. 
+
+James S. Jubilee (“Jubilee”), an African-American, without 
+permission.  We conclude that, despite the laudable intentions 
+of the General Assembly to combat bigotry and racism, the 
+selectivity of its statutory proscription is facially 
+unconstitutional because it prohibits otherwise permitted 
+speech solely on the basis of its content, and the statute is 
+overbroad. 
+FACTS AND PROCEEDINGS BELOW 
+ 
+The prosecutions of Richard J. Elliott (“Elliott”) and 
+Jonathan O’Mara (“O’Mara”) arose from a single incident in the 
+City of Virginia Beach.  On May 2, 1998, Elliott and O’Mara 
+attended a party at the home of David Targee (“Targee”).  
+Elliott told several people at the party that his neighbor, 
+Jubilee, had complained about the discharge of firearms in 
+Elliott’s backyard.  In response, Elliott suggested they burn 
+a cross in Jubilee’s yard.  
+ 
+Elliott, O’Mara, and Targee hastily constructed a crude 
+wooden cross in Targee’s garage.  While transporting the cross 
+to the Jubilee home, Elliott referred to Jubilee with a racial 
+epithet confirming Jubilee’s race.  Upon arriving at Jubilee’s 
+home, O’Mara put the cross in the ground and attempted to 
+light it. 
+ 
+In addition to the epithet, the record is replete with 
+references to Jubilee’s race.  In the Commonwealth’s motion 
+2
+
+for joinder of defendants in the Elliott and O’Mara cases, it 
+is stated: “Mr. James Jubilee is an African-American.”  A fire 
+investigator with the City of Virginia Beach testified that 
+Targee knew the Jubilees were black before he participated in 
+the cross burning.  Throughout the O’Mara and Elliott 
+prosecution, the Commonwealth referred to “burning a cross in 
+a black family’s yard.”  The questions of counsel and argument 
+to the court are replete with references to race and racism. 
+ 
+Pursuant to a plea agreement, O’Mara pled guilty to  
+attempted cross burning and conspiracy to commit cross 
+burning, and was sentenced to 90 days in jail and a $2500 fine 
+on each charge, with part of the time and fines suspended.  
+Under the plea agreement, O’Mara retained the right to appeal 
+the constitutionality of Virginia’s cross burning statute. 
+ 
+Elliott was also charged with attempted cross burning and 
+conspiracy to commit cross burning.  Upon his plea of not 
+guilty, a jury found him guilty of attempted cross burning, 
+but not guilty of conspiracy.  Elliott was sentenced to 90 
+days in jail and was fined $2500. 
+ 
+O’Mara and Elliott appealed to the Court of Appeals, 
+alleging that the Virginia cross burning statute violated the 
+free speech clauses of both the United States and Virginia 
+Constitutions.  The Court of Appeals affirmed the convictions, 
+holding that the statute “targets only expressive conduct 
+3
+
+undertaken with the intent to intimidate another, conduct 
+clearly proscribable both as fighting words and a threat of 
+violence.”  O’Mara v. Commonwealth, 33 Va. App. 525, 536, 535 
+S.E.2d 175, 181 (2000). 
+ 
+In the third case reviewed, Barry Elton Black (“Black”) 
+organized and led a Ku Klux Klan rally on August 22, 1998, in 
+Carroll County.  Following speeches filled with racial, 
+ethnic, and religious bigotry, a cross approximately 25 to 30 
+feet tall was ignited. 
+ 
+Black was indicted for violating Virginia’s cross burning 
+statute.  He moved for dismissal of the indictment on the 
+grounds that the statute was unconstitutional.  The trial 
+court denied Black’s motion and, upon conviction by a jury, 
+Black was sentenced to pay a fine of $2500. 
+ 
+Black appealed his conviction, and the Court of Appeals 
+affirmed the judgment of the trial court, “[f]or the reasons 
+stated in O’Mara v. Commonwealth.”  Black v. Commonwealth, 
+Rec. No. 1581-99-3, December 19, 2000, at 1. 
+THE CROSS BURNING STATUTE 
+ 
+Code § 18.2-423, the cross burning statute, provides 
+that: 
+ 
+It shall be unlawful for any person 
+or persons, with the intent of 
+intimidating any person or group of 
+persons, to burn, or cause to be burned, a 
+cross on the property of another, a 
+4
+
+highway or other public place.  Any person 
+who shall violate any provision of this 
+section shall be guilty of a Class 6 
+felony. 
+ 
+Any such burning of a cross shall be 
+prima facie evidence of an intent to 
+intimidate a person or group of persons. 
+ 
+ 
+Black1 contends that the cross burning statute is 
+unconstitutional because it engages in viewpoint and content 
+discrimination and it fails to incorporate the standards 
+articulated by the United States Supreme Court in Brandenburg 
+v. Ohio, 395 U.S. 444 (1969), concerning incitement to, and 
+likelihood of, imminent lawless action.  Additionally, Black 
+contends that the provision of the statute permitting an 
+inference of intent to intimidate from the mere act of burning 
+a cross, which excuses the Commonwealth from its proof 
+requirement for the establishment of a prima facie case, 
+further aggravates viewpoint and content discrimination and 
+violates the limitations prescribed in Brandenburg. 
+ 
+The geometric configuration of a single vertical bar 
+traversed by a single shorter horizontal bar has no unusual 
+inherent properties.  But its symbolic meaning is powerful.  
+For Christians, the symbol of the cross evokes remembrance of 
+the crucifixion of Christ.  Unfortunately, such powerful 
+                     
+1 Because of the similar constitutional challenges 
+presented in these consolidated cases, our references to 
+Black’s contentions shall be inclusive of those mounted by 
+O’Mara and Elliott. 
+5
+
+symbols are often subject to misappropriation.  As recognized 
+by Justice Clarence Thomas in his concurring opinion in 
+Capitol Square Review and Advisory Bd. v. Pinette, 515 U.S. 
+753, 770-71 (1995), the burning of a cross has acquired a 
+specific meaning: 
+  
+There is little doubt that the Klan’s 
+main objective is to establish a racist 
+white government in the United States.  In 
+Klan ceremony, the cross is a symbol of 
+white supremacy and a tool for the 
+intimidation and harassment of racial 
+minorities, Catholics, Jews, Communists, 
+and any other groups hated by the Klan.  
+The cross is associated with the Klan not 
+because of religious worship, but because 
+of the Klan’s practice of cross 
+burning. . . .  The Klan simply has 
+appropriated one of the most sacred of 
+religious symbols as a symbol of hate. 
+ 
+ 
+In 1952, in direct response to Ku Klux Klan activities in 
+Virginia,2 including incidents of cross burning, the General 
+Assembly enacted the predecessor statute to the law at issue 
+                     
+2 See Police Aid Requested by Teacher: Cross is Burned in 
+Negro’s Yard, Richmond News Leader, Jan. 21, 1949, at 19; 
+Cross Fired Near Suffolk Stirs Probe: Burning Second in Past 
+Week, Richmond Times-Dispatch, Jan. 23, 1949, § 2, at 1; Huge 
+Cross is Burned on Hill Just South of Covington, Richmond 
+Times-Dispatch, Apr. 14, 1950, at 6; Cross Burned at Manakin; 
+Third in Area, Richmond Times-Dispatch, Feb. 26, 1951, at 4; 
+Cross is Burned at Reedville Home, Richmond News Leader, Apr. 
+14, 1951, at 1; ‘State Might Well Consider’ Restrictions on Ku 
+Klux Klan, Governor Battle Comments, Richmond Times-Dispatch, 
+Feb. 6, 1952, at 7; Bill to Curb KKK Passed by the House, 
+Richmond Times-Dispatch, Mar. 8, 1952, at 5; Name Rider 
+Approved by House: Measure Now Goes to Battle, Richmond News 
+Leader, Feb. 23, 1952, at 1; Governor Backs Curb on Ku Klux  
+Activities, Richmond Times-Dispatch, Feb. 10, 1952, § 2, at 1. 
+6
+
+in these cases.3  The cross burning statute was amended on 
+several occasions, including an amendment expanding the sites 
+where cross burning may not take place, and the addition of 
+the inference of intent to intimidate from the mere act of 
+burning a cross for the purposes of establishing a prima facie 
+case under the statute.4
+SELECTIVE REGULATION OF SPEECH BASED UPON CONTENT 
+ 
+It is well established that non-verbal, symbolic 
+expression is “speech,” and is as fully protected by the First 
+Amendment to the United States Constitution as more 
+traditional means of communication.  See, e.g., Tinker v. Des 
+Moines Indep. Sch. Dist., 393 U.S. 503 (1969) (wearing of 
+black arm bands by high school students as a protest against 
+the war in Vietnam).  However pernicious the expression may 
+be, “[i]f there is a bedrock principle underlying the First 
+Amendment, it is that the government may not prohibit the 
+expression of an idea simply because society finds the idea 
+itself offensive or disagreeable.”  Texas v. Johnson, 491 U.S. 
+                     
+3 Code §  18.1-365 stated in pertinent part: 
+It shall be unlawful for any person or persons to place 
+or cause to be placed on the property of another in the 
+Commonwealth of Virginia a burning or a flaming cross or any 
+manner of exhibit in which a burning or flaming cross, real or 
+simulated, is a whole or a part, without first obtaining 
+written permission of the owner or occupier of the premises so 
+to do. 
+1952 Va. Acts ch. 483 § 2 at 777. 
+7
+
+397, 414 (1989).  Any question about the constitutional 
+infirmity of such selective proscription of speech was 
+resolved by the United States Supreme Court in the case of 
+R.A.V. v. City of St. Paul, 505 U.S. 377 (1992). 
+ 
+The Virginia cross burning statute is analytically 
+indistinguishable from the ordinance found unconstitutional in 
+R.A.V.  R.A.V. involved the prosecution of a teenager who, 
+with several other minors, allegedly assembled a crudely made 
+cross and burned the cross inside the fenced yard of a black 
+family.  Id. at 379.  The City of St. Paul prosecuted under 
+its Bias-Motivated Crime Ordinance, which provided: 
+Whoever places on public or private 
+property a symbol, object, appellation, 
+characterization or graffiti, including, 
+but not limited to, a burning cross or 
+Nazi swastika, which one knows or has 
+reasonable grounds to know arouses anger, 
+alarm or resentment in others on the basis 
+of race, color, creed, religion or gender 
+commits disorderly conduct and shall be 
+guilty of a misdemeanor. 
+ 
+St. Paul, Minn., Legis. Code § 292.02 (1990).  The trial court 
+held that the statute was unconstitutional, but the Minnesota 
+Supreme Court reversed, construing the St. Paul ordinance as 
+limited to conduct that amounts to “fighting words,” namely, 
+“conduct that itself inflicts injury or tends to incite 
+immediate violence . . . .”  In re Welfare of R.A.V., 464 
+                                                                
+4 See 1968 Va. Acts ch. 350 at 450; 1975 Va. Acts ch. 14 
+8
+
+N.W.2d 507, 510 (Minn. 1991).  Accepting the limited 
+construction placed upon the statute by the Minnesota Supreme 
+Court, the United States Supreme Court held that, even if the 
+expression reached by the ordinance was proscribable under the 
+“fighting words” doctrine, the ordinance was “facially 
+unconstitutional in that it prohibit[ed] otherwise permitted 
+speech solely on the basis of the subjects the speech 
+addresses.”  R.A.V., 505 U.S. at 381. 
+ 
+Noting that “[t]he First Amendment generally prevents 
+government from proscribing speech, or even expressive 
+conduct, because of disapproval of the ideas expressed,” the 
+Court observed that “[c]ontent-based regulations are 
+presumptively invalid.”  Id. at 382 (citations omitted).  
+Exceptions to the rule include: obscenity (e.g., Roth v. 
+United States, 354 U.S. 476 (1957)), defamation (e.g.,  
+Beauharnais v. Illinois, 343 U.S. 250 (1952)), and “fighting 
+words” (e.g., Chaplinsky v. New Hampshire, 315 U.S. 568 
+(1942)).  But simply because particular categories of speech 
+may be regulated does not mean that such regulation may 
+selectively discriminate on the basis of content.  As the 
+Court in R.A.V. stated: 
+And just as the power to proscribe 
+particular speech on the basis of a 
+noncontent element (e.g., noise) does not 
+                                                                
+at 90, ch. 15 at 174. 
+9
+
+entail the power to proscribe the same 
+speech on the basis of a content element; 
+so also, the power to proscribe it on the 
+basis of one content element (e.g., 
+obscenity) does not entail the power to 
+proscribe it on the basis of other content 
+elements. 
+R.A.V., 505 U.S. at 386. 
+ 
+ 
+The Commonwealth argues that the Virginia statute is 
+neutral because “Code § 18.2-423 applies equally to anyone who 
+burns a cross for the purpose of intimidating anyone.”  The 
+Commonwealth further dwells upon the phrase in R.A.V. which 
+states that “threats of violence are outside the First 
+Amendment.”  505 U.S. at 388.  This quotation is incomplete 
+and distorts the holding of R.A.V.  While a statute of neutral 
+application proscribing intimidation or threats may be 
+permissible, a statute punishing intimidation or threats based 
+only upon racial, religious, or some other selective content-
+focused category of otherwise protected speech violates the 
+First Amendment.  Id.
+ 
+Emphasizing the point, the Court in R.A.V., noted: 
+Thus, the government may proscribe libel; 
+but it may not make the further content 
+discrimination of proscribing only libel  
+critical of the government. 
+R.A.V., 505 U.S. at 384. 
+ 
+We have long held, for example, that 
+nonverbal expressive activity can be 
+banned because of the action it entails, 
+but not because of the ideas it expresses 
+10
+
+– so that burning a flag in violation of 
+an ordinance against outdoor fires could 
+be punishable, whereas burning a flag in 
+violation of an ordinance against 
+dishonoring the flag is not. 
+Id. at 386. 
+ 
+A State might choose to prohibit only that 
+obscenity which is the most patently 
+offensive in its prurience – i.e., that 
+which involves the most lascivious 
+displays of sexual activity.  But it may 
+not prohibit, for example, only that 
+obscenity which includes offensive 
+political messages. 
+Id. at 388. 
+ 
+And the Federal Government can criminalize 
+only those threats of violence that are 
+directed against the President, see 18 
+U.S.C. § 871 – since the reasons why 
+threats of violence are outside the First 
+Amendment (protecting individuals from the 
+fear of violence, from the disruption that 
+fear engenders, and from the possibility 
+that the threatened violence will occur) 
+have special force when applied to the 
+person of the President . . . .  But the 
+Federal Government may not criminalize 
+only those threats against the President 
+that mention his policy on aid to inner 
+cities. 
+Id.
+ 
+ 
+R.A.V. makes it abundantly clear that, while certain 
+areas of speech and expressive conduct may be subject to 
+proscription, regulation within these areas must not 
+11
+
+discriminate based upon the content of the message.5  In this 
+case, the Commonwealth seeks to proscribe expressive conduct 
+that is intimidating in nature, but selectively chooses only 
+cross burning because of its distinctive message.  As the 
+Court in R.A.V. succintly stated:  “the government may not 
+regulate use based upon hostility – or favoritism –towards the 
+underlying message expressed.”  Id. at 386. 
+ 
+While not specifically stating that “race, color, creed, 
+religion or gender” is the subject of proscription, the 
+absence of such language in the Virginia statute does not mask 
+                     
+5 It is important to note that R.A.V. did not interpret the 
+First Amendment to forbid “underinclusiveness.”  To the 
+contrary, the Court held that: 
+ 
+In our view, the First Amendment imposes 
+not an “underinclusiveness” limitation but 
+a “content discrimination” limitation upon 
+a State’s prohibition of proscribable 
+speech.  There is no problem whatever, for 
+example, with a State’s prohibiting 
+obscenity (and other forms of proscribable 
+expression) only in certain media or 
+markets, for although that prohibition 
+would be “underinclusive,” it would not 
+discriminate on the basis of content. 
+ 
+Id. at 387.  Of course, the subjects of the proscription 
+expressly stated in the St. Paul ordinance were symbols and 
+words, including a burning cross or a Nazi swastika, evoking 
+“anger, alarm or resentment in others on the basis of race, 
+color, creed, religion or gender.”  As the Court noted, 
+excluded from proscription was identical behavior with a 
+different subject, such as “political affiliation, union 
+membership, or homosexuality.”  Id. at 391.  The infirmity 
+addressed in R.A.V., as in the cases before this Court, was 
+12
+
+the motivating purpose behind the statutory prohibition of 
+cross burning.  The United States Supreme Court dealt with a 
+similar question in the “flag burning” cases.  In Texas v. 
+Johnson, Johnson was prosecuted under a statute making it 
+unlawful to intentionally or knowingly desecrate the United 
+States flag.  “Desecrate” was defined as “deface, damage, or 
+otherwise physically mistreat in a way that the actor knows 
+will seriously offend one or more persons likely to observe or 
+discover his action.”  491 U.S. at 400 (quoting Texas Penal 
+Code Ann. § 42.09 (1989)).  After the Supreme Court declared 
+the Texas statute unconstitutional, Congress enacted the Flag 
+Protection Act of 1989.  In subsequent litigation concerning 
+the Act, the government maintained that the absence of 
+language in the Act focusing upon the content of the actor’s 
+symbolic speech cured any constitutional problems.  The 
+Supreme Court disagreed in United States v. Eichman, 496 U.S. 
+310, 315 (1990)(internal quotations omitted), stating that, 
+“[a]lthough the [statute] contains no explicit content-based 
+limitation on the scope of prohibited conduct, it is 
+nevertheless clear that the Government’s asserted interest is 
+related to the suppression of free expression.” 
+                                                                
+not “underinclusiveness;” rather, it was the selective 
+discrimination in the ordinance based upon content. 
+13
+
+ 
+Similarly, considering the historical and current context 
+of cross burning, and the statute’s reliance on such context 
+for the provision of an inference of intent to intimidate from 
+the mere act of burning a cross, it is clear that the 
+Commonwealth’s interest in enacting the cross burning statute 
+is related to the suppression of free expression as well. 
+ 
+The virulent symbolism of cross burning has been 
+discussed in so many judicial opinions that its subject and 
+content as symbolic speech has been universally acknowledged.  
+For example, the Supreme Court of South Carolina declared a 
+statute6 with operative language similar to ours 
+unconstitutional and observed: “a burning cross historically 
+conveys ideas capable of eliciting powerful responses from 
+those engaging in the conduct and those receiving the 
+message.”  State v. Ramsey, 430 S.E.2d 511, 514 (S.C. 1993).  
+The Court of Appeals of Maryland also declared a statute7 with 
+                     
+6 S.C.CODE ANN. §  16-7-120 (1985) provided: 
+It shall be unlawful for any person to place or cause to be 
+placed in a public place in the State a burning or flaming 
+cross or any manner of exhibit in which a burning or flaming 
+cross, real or simulated, is the whole or a part or to place 
+or cause to be placed on the property of another in the State 
+a burning or flaming cross or any manner of exhibit in which a 
+burning or flaming cross, real or simulated, is the whole or a 
+part, without first obtaining written permission of the owner 
+or occupier of the premises so to do. 
+ 
+7 MD. ANN. CODE art.27, § 10A (1957, 1992 Repl. Vol.) 
+provided in pertinent part: 
+14
+
+operative language similar to ours unconstitutional and 
+observed: 
+Those who openly burn crosses do so fully 
+cognizant of the controversial racial and 
+religious messages which such acts impart.  
+Historically, the Ku Klux Klan burned 
+crosses to express hostility towards 
+blacks and other groups it disfavored, and 
+it is that idea which contemporary cross 
+burners aim to perpetuate. 
+ 
+State v. Sheldon, 629 A.2d 753, 757 (Md. 1993). 
+ 
+The historical context for the passage of the Virginia 
+cross burning statute is uncontrovertible.  In an atmosphere 
+of racial, ethnic, and religious intolerance, the General 
+Assembly acted to combat a particular form of intimidating 
+symbolic speech – the burning of a cross.  It did not 
+proscribe the burning of a circle or a square because no 
+animating message is contained in such an act. 
+ 
+Initially, the cross burning proscription extended only 
+to acts on property of another without permission.  In 1968, 
+the limitation concerning situs was removed, and in 1975, the 
+addition of language establishing prima facie evidence of 
+intent to intimidate from the mere act of burning a cross 
+reaffirmed the legislative context of the statute.  During 
+                                                                
+It shall be unlawful for any person or persons to burn or 
+cause to be burned any cross or other religious symbol upon 
+any private or public property within this State without the 
+express consent of the owner of such property and without 
+15
+
+oral argument, the Commonwealth maintained that the portion of 
+the statute proscribing the burning of a cross had nothing to 
+do with the motivation of the actor.  When asked how the 
+Commonwealth could justify the inference of intimidation 
+provided in the last sentence of the statute, the Commonwealth 
+relied upon the historical context of cross burning.  The 
+Commonwealth cannot have it both ways. 
+“SECONDARY EFFECTS” 
+ 
+As described above, the R.A.V. analysis begins with 
+categories of speech that may be subject to regulation and 
+holds that such regulation may not selectively discriminate on 
+the basis of content.  However, the Court in R.A.V. recognized 
+that some selective regulation of constitutionally protected 
+speech may be permissible if it is based upon the “secondary 
+effects” of speech rather than its content.  See Renton v. 
+Playtime Theatres, Inc., 475 U.S. 41 (1986).  In Renton, the 
+ordinance under review proscribed the location of an adult 
+motion picture theater within 1,000 feet of any residential 
+zone, single– or multiple–family dwelling, church, park, or 
+school.  Because the ordinance did not ban adult theaters 
+entirely, the Court held that the ordinance is “properly 
+                                                                
+first giving notice to the fire department which services the 
+area in which such burning is to take place. 
+16
+
+analyzed as a form of time, place, and manner regulation.”  
+Id. at 46. 
+ 
+The analysis used by the Court focused upon whether the 
+regulation was directed at the content of the protected speech 
+or at a legitimate area of government concern.  Determining 
+that the dominant motive of the ordinance was “to prevent 
+crime, protect the city’s retail trade, maintain property 
+values, and generally ‘protec[t] and preserv[e] the quality of 
+[the city’s] neighborhoods, commercial districts, and the 
+quality of urban life,’ the Court upheld the ordinance.  Id. 
+at 48.  The Court held that the regulation in Renton was 
+“aimed not at the content of the films shown at ‘adult motion 
+picture theatres,’ but rather at the secondary effects of such 
+theaters on the surrounding community.”  Id. at 47.  By 
+contrast, the legislative history of the Virginia cross 
+burning statute, the meaning afforded the expressive conduct, 
+and the provision of prima facia evidence of intent to 
+intimidate from the mere act of burning a cross, make it 
+abundantly clear that Code § 18.2-423 is aimed at regulating 
+content, not “secondary effects.” 
+OVERBREADTH ANALYSIS 
+ 
+As discussed herein, the majority opinion in R.A.V. holds 
+that certain categories of speech may be regulated, but the 
+government may not discriminate in its proscription within 
+17
+
+these categories on the basis of content.  The concurring 
+opinions in R.A.V. preferred a more traditional analysis 
+confined to the question whether the ordinance suffered from 
+overbreadth.  As Justice White noted, St. Paul’s ordinance was 
+unconstitutionally overbroad because: 
+Although the ordinance as construed 
+reaches categories of speech that are 
+constitutionally unprotected, it also 
+criminalizes a substantial amount of 
+expression that -- however repugnant -- is 
+shielded by the First Amendment.         
+Id. at 413 (J. White, concurring).  The Commonwealth’s cross 
+burning statute is similarly defective. 
+ 
+It is not simply the prospect of conviction under the 
+statute that renders it overbroad.  The enhanced probability 
+of prosecution under the statute chills the expression of 
+protected speech sufficiently to render the statute overbroad.  
+Virginia v. American Booksellers Ass’n, 484 U.S. 383, 392-93 
+(1988).  Threat of prosecution under a criminal statute “tends 
+to chill the exercise of First Amendment rights.”  North 
+Carolina Right to Life, Inc. v. Bartlett, 168 F.3d 705, 710 
+(4th Cir. 1999).  Self-censorship, “a harm that can be 
+realized even without an active prosecution,” inhibits free 
+speech.  Vermont Right to Life Committee, Inc. v. Sorrell, 221 
+F.3d 376, 382 (2nd Cir. 2000). 
+18
+
+ 
+Code § 18.2-423 provides in part that “any such burning 
+of a cross shall be prima facie evidence of an intent to 
+intimidate a person or group of persons.”  Assuming that the 
+act is done “on the property of another, a highway or other 
+public place,”8 the act of burning a cross alone, with no 
+evidence of intent to intimidate, will nonetheless suffice for 
+arrest and prosecution and will insulate the Commonwealth from 
+a motion to strike the evidence at the end of its case-in-
+chief.  That the trier of fact ultimately finds the actor not 
+guilty of the offense is little consolation after arrest and 
+prosecution for speech or expressive conduct that is otherwise 
+protected.  Arrest for, and prosecution of, otherwise 
+protected speech, with no evidence of a critical element of 
+the offense other than a statutorily supplied inference, 
+chills free expression.  Code § 18.2-423 sweeps within its 
+ambit for arrest and prosecution, both protected and 
+unprotected speech.  As such it is overbroad. 
+BRANDENBURG ISSUES 
+ 
+In R.A.V., the Court acknowledged that the narrow 
+construction placed upon the ordinance limited its application 
+to “fighting words,” a proper category of proscription.  
+                     
+8  
+The Virginia statute prohibits cross-burning “on the 
+property of another, a highway or other public place.”  
+Remarkably, it sweeps within its prohibition the act “on the 
+property of another” with or without permission. 
+19
+
+Nonetheless, the ordinance was declared unconstitutional 
+because of its selective application to only certain 
+expressions of fighting words.  Virginia’s cross burning 
+statute suffers from the same infirmity.  Because we hold that 
+the statute impermissibly proscribes otherwise protected 
+speech on the basis of content, and because the statute is 
+overbroad, it is unnecessary to address the remaining 
+challenges under Brandenburg.9
+CONCLUSION 
+ 
+Under our system of government, people have the right to 
+use symbols to communicate.  They may patriotically wave the 
+flag or burn it in protest; they may reverently worship the 
+cross or burn it as an expression of bigotry.  Neutrally 
+expressed statutes prohibiting vandalism, assault, and 
+trespass may have vitality for the prosecution of particularly 
+offensive conduct.  While reasonable prohibitions upon time, 
+place, and manner of speech, and statutes of neutral 
+application may be enforced, government may not regulate 
+speech based on hostility –or favoritism –towards the 
+underlying message expressed. 
+                     
+9 Additionally, because we resolve these questions under 
+the First Amendment to the United States Constitution, it is 
+unnecessary to address Elliott’s and O’Mara’s additional 
+argument that Article I, § 12 of the Virginia Constitution is 
+also violated. 
+20
+
+ 
+A statute selectively addressed to the content of 
+symbolic speech is not permitted under the First Amendment.  
+Additionally, a statute that sweeps within its ambit both 
+protected and unprotected speech is overbroad.  Accordingly, 
+we hold that Code § 18.2-423 violates the First Amendment of 
+the United States Constitution.  The convictions in each of 
+these appeals will be vacated and the indictments will be 
+dismissed. 
+Reversed and dismissed. 
+JUSTICE KINSER, with whom SENIOR JUSTICE WHITING joins, 
+concurring. 
+ 
+In the words of the dissent, I, too, “stand second to 
+none in my devotion to the First Amendment’s mandate that most 
+forms of speech are protected, irrespective of how repugnant 
+and offensive the message uttered or conveyed may be to 
+others.”  However, in contrast to the dissent, I cannot be 
+dissuaded from that devotion, and believe that the “fair 
+application of our jurisprudence” must include a fair and 
+proper application of the First Amendment.  Therefore, I fully 
+agree with the majority opinion.  I write separately to 
+address certain inferences and conclusions drawn by the 
+dissent. 
+ 
+Relying on the definition of the term “intimidation” set 
+forth in Sutton v. Commonwealth, 228 Va. 654, 663, 324 S.E.2d 
+21
+
+665, 670 (1985) (“intimidation . . . means putting a victim in 
+fear of bodily harm”), the dissent concludes that Code § 18.2-
+423 proscribes only conduct that constitutes “true threats.”  
+Expanding on that definition, the dissent then states that the 
+purpose of Code § 18.2-423 is “to proscribe physical acts 
+intended to inflict bodily harm upon the victims of such 
+acts.”  The dissent’s attempt to equate an intent to 
+intimidate with a “true threat” or a physical act intended to 
+inflict bodily harm has no legal basis and misconstrues the 
+decision in Sutton. 
+ 
+The issue in that case was whether there was sufficient 
+evidence to prove that the defendant engaged in sexual 
+intercourse with the victim against her will by intimidation.  
+228 Va. at 662, 324 S.E.2d at 669.  Noting that the General 
+Assembly had expanded the scope of the statute proscribing 
+rape to include “a prohibition against sexual intercourse with 
+a woman against her will by threat or intimidation,” as well 
+as by force, the Court explained that “[t]here is a difference 
+between threat and intimidation[,]” and that “[i]ntimidation 
+may occur without threats.”  Id. at 663, 324 S.E.2d at 669-70.  
+Thus, our established jurisprudence does not support the 
+proposition that Code § 18.2-423 proscribes only conduct that 
+constitutes “true threats.”  An act performed with the  intent 
+to intimidate, i.e., to place an individual in fear of bodily 
+22
+
+harm, does not rise to the same level as a threat (defined in 
+Sutton as “expression of an intention to do bodily harm,” 228 
+Va. at 663, 324 S.E.2d at 670), or a physical act intended to 
+inflict bodily harm. 
+For the same reason, Code § 18.2-423 does not satisfy the 
+principle enunciated in Brandenburg v. Ohio, 395 U.S. 444, 447 
+(1969), that “the constitutional guarantees of free speech and 
+free press do not permit a State to forbid or proscribe 
+advocacy of the use of force or of law violation except where 
+such advocacy is directed to inciting or producing imminent 
+lawless action and is likely to incite or produce such 
+action.”  Although reprehensible and offensive, the act of 
+burning a cross with the intent to intimidate is not 
+necessarily speech aimed at “producing imminent lawless 
+action.”  Id.  That proposition is borne out by the fact that 
+the cross burning for which Barry Elton Black was convicted 
+occurred on private property with the permission of the owner. 
+Even if the dissent were correct that Code § 18.2-423 
+proscribes only conduct that constitutes “true threats,” the 
+General Assembly cannot engage in content discrimination by 
+selectively prohibiting only those “true threats” that convey 
+a particular message.  R.A.V. v. City of St. Paul, 505 U.S. 
+377, 388 (1992).  Unfortunately, that is what the General 
+Assembly has done in Code § 18.2-423 by confining the 
+23
+
+proscription in that statute to the act of burning a cross.  
+The constitutional infirmity is not, as suggested by the 
+dissent, cured by the fact that the statute does not prohibit 
+all acts of burning a cross.  The statute’s content-based 
+discrimination still exists. 
+ 
+Finally, the dissent’s statement that the majority has 
+concluded that the Constitution of the United States prevents 
+the General Assembly from enacting a statute that prohibits 
+persons from burning a cross “in a manner that intentionally 
+places citizens in fear of bodily harm” misinterprets the 
+holding in the majority opinion.  I believe that a more 
+accurate characterization of the majority’s conclusion is that 
+the General Assembly may, in a statute of neutral application, 
+proscribe expressive conduct performed with the intent to 
+intimidate another individual, but that the General Assembly 
+may not selectively prohibit only certain acts of intimidation 
+based upon the content of the underlying message. 
+ 
+For these reasons, I respectfully concur. 
+ 
+JUSTICE HASSELL, with whom CHIEF JUSTICE CARRICO and JUSTICE 
+KOONTZ join, dissenting. 
+ 
+ 
+I dissent.  The majority opinion invalidates a statute 
+that for almost 50 years has protected our citizens from being 
+placed in fear of bodily harm by the burning of a cross.  The 
+majority concludes that the Constitution of the United States 
+24
+
+prohibits the General Assembly from enacting this statute.  I 
+find no such prohibition in either the Constitution of 
+Virginia or the Constitution of the United States.  Without 
+question, the framers of the First Amendment never 
+contemplated that a court would construe that Amendment so 
+that it would permit a person to burn a cross in a manner that 
+intentionally places citizens in fear of bodily harm. 
+ 
+I am concerned about the fair application of our 
+jurisprudence to every citizen and the proper interpretation 
+of our Federal and State Constitutions.  These same concerns 
+for fairness and the safety of our citizens were the very 
+basis for the General Assembly's decision to enact Code 
+§ 18.2-423 almost 50 years ago. 
+ 
+I stand second to none in my devotion to the First 
+Amendment's mandate that most forms of speech are protected, 
+irrespective of how repugnant and offensive the message 
+uttered or conveyed may be to others.  However, contrary to 
+the view adopted by the majority in these appeals, the First 
+Amendment does not permit a person to burn a cross in a manner 
+that intentionally places another person in fear of bodily 
+harm. 
+I. 
+A. 
+25
+
+ 
+Barry Elton Black was indicted by a Carroll County grand 
+jury for the burning of a cross with the intent to intimidate 
+in violation of Code § 18.2-423.  At the conclusion of a 
+trial, the jury found him guilty as charged in the indictment 
+and fixed his punishment at $2,500.  Black appealed the 
+circuit court's judgment confirming the jury's verdict to the 
+Court of Appeals, which affirmed his conviction.  Black v. 
+Commonwealth, Record No. 1581-99-3 (December 19, 2000). 
+ 
+The following evidence was presented during Black's 
+trial.  On August 22, 1998, H. Warren Manning, the Sheriff of 
+Carroll County, received a report that members of the Ku Klux 
+Klan intended to conduct a rally in Carroll County that 
+evening.  Later, Sheriff Manning drove his police car to the 
+site of the rally, where three men dressed in white robes and 
+hats approached him.  Sergeant Richard C. Clark, Jr., met 
+Sheriff Manning at the site of the rally. 
+ 
+Approximately 45 minutes later, after the rally started, 
+Sheriff Manning observed the Klan members burn a cross that 
+was approximately 25 to 30 feet tall.  Sheriff Manning 
+approached Black and inquired, "who [is] responsible for 
+burning the cross?"  Black responded that he was responsible 
+for burning the cross, and he was placed under arrest. 
+26
+
+ 
+The rally was conducted on property owned by Annabell 
+Sechrist.  She was present during the rally, and she had given 
+the Ku Klux Klan permission to burn the cross on her property. 
+ 
+Rebecca Sechrist, a Caucasian female, lived on property 
+adjacent to the property where the rally occurred.  Sechrist 
+observed the rally from her home.  In response to the 
+question, "[w]hat statements did you hear?", she testified:  
+"They . . . talked a lot about blacks - and I don't call [ ] 
+the word they called it . . . it started with an N and I 
+don't, I don't use that word, I'm sorry – but they talked real 
+bad about the blacks and the Mexicans and they talked about 
+how, one . . . guy got up and said that he would love to take 
+a .30/.30 and just random shoot the blacks and talked about 
+how they would like to send the blacks and the Mexicans back 
+from where they come from and talked about President Clinton 
+and Hillary Clinton and about the government funding money for 
+the, for the people that can't afford housing and stuff and 
+. . . how their tax paying goes to keep the black people up 
+and stuff like that." 
+ 
+Sechrist testified that she was "scared" as a result of 
+the rally.  She stated:  "I was scared our home would get 
+burned or something would happen to it.  We've got two . . . 
+kids and I was afraid that something would happen to them."  
+27
+
+In response to a question by defendant's counsel, Sechrist 
+testified:  "I think they were trying to scare me." 
+B. 
+ 
+Jonathan Stephen O'Mara was indicted by a grand jury in 
+the City of Virginia Beach for attempting to burn a cross with 
+the intent of intimidating a person or group of persons in 
+violation of Code § 18.2-423 and conspiracy to burn a cross in 
+violation of Code § 18.2-423.  O'Mara entered a guilty plea 
+that reserved his right to file an appeal challenging the 
+constitutionality of Code § 18.2-423. 
+ 
+The court fixed O'Mara's punishment at incarceration in 
+the jail for a term of 90 days and imposed a fine of $2,500 on 
+each of the charges.  O'Mara appealed the judgment to the 
+Court of Appeals, which affirmed his convictions.  O'Mara v. 
+Commonwealth, 33 Va. App. 525, 535 S.E.2d 175 (2000). 
+ 
+O'Mara entered into a stipulation of facts with the 
+Commonwealth, which was made a part of the record in the 
+circuit court.  The stipulation states:  "On May 2, 1998, 
+David Targee had approximately fifteen individuals, including 
+Jonathan O'Mara and Richard Elliott, at his residence in 
+Virginia Beach.  They were all consuming alcohol.  Elliott 
+complained to Targee and O'Mara about his neighbor and about 
+how he wanted to 'get back' at him.  It was suggested (not by 
+O'Mara) that they burn a cross in Elliott's neighbor's yard.  
+28
+
+O'Mara and Targee agreed, and they all went to Targee's garage 
+where a cross was built.  They all got in Targee's truck and 
+drove to Munden Point Road in Virginia Beach.  Targee was 
+driving, with O'Mara in the front passenger seat and Elliott 
+in the back seat.  Once there, Elliott handed the cross to 
+O'Mara, who also grabbed a can of lighter fluid and went 
+outside and placed the cross in the yard of Elliott's 
+neighbor.  He then poured lighter fluid on the cross, set it 
+on fire, and ran back to the car.  Targee drove them back to 
+his house.  The next morning, Elliott's neighbor, James 
+Jubilee, came out of his house and observed the partially 
+burned cross in his yard.  He broke the cross and placed [it] 
+in the garage.  He later called the police." 
+C. 
+ 
+A grand jury in the City of Virginia Beach indicted 
+Richard J. Elliott for attempting to burn a cross on the 
+property of James S. Jubilee with the intent of intimidating 
+any person or group of persons in violation of Code § 18.2-423 
+and conspiracy to burn a cross in violation of Code § 18.2-
+423.  At the conclusion of a trial, the jury found Elliott 
+guilty of attempted cross burning with the intent to 
+intimidate and fixed his punishment at 90 days incarceration 
+in jail and a fine of $2,500.  Elliott appealed the circuit 
+29
+
+court's judgment to the Court of Appeals, which affirmed his 
+conviction.  See O'Mara, 33 Va. App. 525, 535 S.E.2d 175. 
+ 
+The following evidence was adduced at the trial.  James 
+Jubilee resided at 2044 Munden Point Road in Virginia Beach.  
+One day, Mr. Jubilee told his next door neighbor, Mrs. 
+Elliott, that he was concerned because persons were 
+discharging firearms in her backyard.  Mrs. Elliott responded 
+that her husband maintained a firing range in the rear of her 
+yard. 
+ 
+On May 2, 1998, David Targee had a party at his home 
+where he entertained Jonathan O'Mara, Richard Elliott, and 
+others.  Richard Elliott, who had consumed alcoholic 
+beverages, mentioned that "his neighbors were complaining 
+about him shooting in his backyard . . . .  He wanted to get 
+back at them for doing it." 
+ 
+Later that evening, Targee, Elliott, and O'Mara went to 
+Targee's parents' garage and constructed a wooden cross.  
+After they had constructed the cross, they traveled by car to 
+Mr. Jubilee's home where O'Mara placed the cross in the yard 
+and ignited it.  The next morning between 8:15 and 8:30, Mr. 
+Jubilee saw the cross, which contained "burn spots."  He 
+picked it up and broke it. 
+ 
+Jennifer Luning, O'Mara's former "girlfriend," testified 
+that O'Mara admitted that he, Targee, and Richard Elliott had 
+30
+
+burned the cross.  "He had said that before they actually went 
+out and did it that there was a conversation taking place 
+about Richard had been complaining or the neighbors had been 
+complaining about shooting [guns] in the backyard." 
+ 
+Edwin Coyner, a fire investigator for the City of 
+Virginia Beach, testified that he interviewed Targee several 
+times.  Targee informed Coyner that "Richard Elliott had 
+complained about his neighbors because the neighbors had 
+complained about him shooting in the backyard."  
+II. 
+A. 
+ 
+The First Amendment of the Constitution of the United 
+States provides in part:  "Congress shall make no law . . . 
+abridging the freedom of speech."  Article I, § 12 of the 
+Constitution of Virginia states: 
+"That the freedoms of speech and of the press are 
+among the great bulwarks of liberty, and can never 
+be restrained except by despotic governments; that 
+any citizen may freely speak, write, and publish his 
+sentiments on all subjects, being responsible for 
+the abuse of that right; that the General Assembly 
+shall not pass any law abridging the freedom of 
+speech or of the press, nor the right of the people 
+peaceably to assemble, and to petition the 
+government for the redress of grievances." 
+ 
+ 
+The Fourteenth Amendment prohibits state action in 
+violation of the First Amendment.  The freedom of speech 
+guaranteed by Article I, § 12 of the Constitution of Virginia 
+31
+
+is co-extensive with the protections guaranteed by the First 
+Amendment of the Constitution of the United States. 
+ 
+Code § 18.2-423 states: 
+ 
+"It shall be unlawful for any person or 
+persons, with the intent of intimidating any person 
+or group of persons, to burn, or cause to be burned, 
+a cross on the property of another, a highway or 
+other public place.  Any person who shall violate 
+any provision of this section shall be guilty of a 
+Class 6 felony. 
+ 
+"Any such burning of a cross shall be prima 
+facie evidence of an intent to intimidate a person 
+or group of persons." 
+ 
+B. 
+ 
+We have held, since the birth of this Commonwealth, that 
+"the judiciary may and ought to adjudge a law unconstitutional 
+and void, if it be plainly repugnant to the letter of the 
+Constitution, or the fundamental principles thereof."  Kamper 
+v. Hawkins, 3 Va. (1 Va. Cas.) 20, 40 (1793).  However, 
+clearly engrained within our jurisprudence is the principle 
+that this Court  
+"can declare an act of the general assembly void 
+only when such act clearly and plainly violates the 
+[C]onstitution, and in such manner as to leave no 
+doubt or hesitation on our minds. 
+ 
+"This rule has been repeatedly declared by this 
+court. 
+ 
+. . . . 
+ 
+ 
+The presumption always is that the legislature 
+has judged correctly of its constitutional powers, 
+and the contrary must be clearly demonstrated before 
+a co-ordinate branch of the government can be called 
+32
+
+upon to interfere between the people and their 
+immediate representatives." 
+ 
+Commonwealth v. Moore, 66 Va. (25 Gratt.) 951, 953 (1875).  
+Indeed, we have repeatedly held that "[e]very act of the 
+legislature is presumed to be constitutional, and the courts 
+are powerless to declare an act invalid, except where it 
+appears beyond doubt that it contravenes some provision of the 
+State or Federal Constitution.  If we doubt we must sustain 
+its constitutionality."  Tobacco Growers Co-Operative Assoc. 
+v. Danville Warehouse Co., 144 Va. 456, 469, 132 S.E. 482, 486 
+(1926).  We restated this fundamental principle in Harrison v. 
+Day, 200 Va. 764, 770, 107 S.E.2d 594, 598 (1959): 
+"When the constitutionality of an act is challenged, 
+a heavy burden of proof is thrust upon the party 
+making the challenge.  All laws are presumed to be 
+constitutional and this presumption is one of the 
+strongest known to the law.  As we said in Almond v. 
+Day, 199 Va. 1, 6, 97 S.E.2d 824[, 828 (1957)]:  
+'. . . It is only where an act is plainly repugnant 
+to some constitutional provision that the courts can 
+declare it null and void.  If there be a reasonable 
+doubt whether the act violates the fundamental law, 
+that doubt must be resolved in favor of the act.' "  
+ 
+Accord Jefferson Green Unit Owners Assoc., Inc. v. Gwinn, 262 
+Va. 449, 459, 551 S.E.2d 339, 344 (2001); Motley v. Virginia 
+State Bar, 260 Va. 243, 247, 536 S.E.2d 97, 99 (2000); Finn v. 
+Virginia Retirement System, 259 Va. 144, 153, 524 S.E.2d 125, 
+130 (2000); Pulliam v. Coastal Emergency Services, 257 Va. 1, 
+9, 509 S.E.2d 307, 311 (1999); Mumpower v. Housing Authority, 
+33
+
+176 Va. 426, 443, 11 S.E.2d 732, 738 (1940); Antoni v. Wright, 
+63 Va. (22 Gratt.) 833, 882 (1872); Auditor of Public Accounts 
+v. Graham, 5 Va. (1 Call) 475, 476 (1798).  For some 
+inexplicable reason, the majority ignores this fundamental 
+principle. 
+C. 
+ 
+Black, O'Mara, and Elliott (the defendants), relying 
+principally upon R.A.V. v. City of St. Paul, 505 U.S. 377 
+(1992), argue that Code § 18.2-423 violates their right to 
+freedom of speech guaranteed by the First Amendment to the 
+Constitution of the United States and Article I, § 12 of the 
+Constitution of Virginia and that the Court of Appeals erred 
+by holding that the statute comported with these 
+constitutional provisions.  I disagree with the defendants. 
+ 
+Initially, I observe that Code § 18.2-423, by its express 
+terms, does not proscribe every act of burning a cross.  
+Rather, Code § 18.2-423 only proscribes the act of burning a 
+cross when such act is performed "with the intent of 
+intimidating any person or group of persons" and the act is 
+committed "on the property of another, a highway or other 
+public place."  In the context of our criminal statutes, 
+specifically Code § 18.2-61, we have defined intimidation as 
+acts which put the victim "in fear of bodily harm.  Such fear 
+must arise from the willful conduct of the accused, rather 
+34
+
+than from some mere temperamental timidity of the victim; 
+however, the fear of the victim need not be so great as to 
+result in terror, panic, or hysteria."  Sutton v. 
+Commonwealth, 228 Va. 654, 663, 324 S.E.2d 665, 669 (1985). 
+ 
+Thus, applying the clear and unambiguous language in Code 
+§ 18.2-423 in conjunction with our established definition of 
+intimidation, which the majority ignores, I conclude that Code 
+§ 18.2-423 only proscribes conduct which constitutes "true 
+threats."  And, I note that the United States Supreme Court, 
+in Watts v. United States, 394 U.S. 705, 707 (1969), approved 
+the facial constitutionality of a federal criminal statute 
+that prohibited someone from threatening the life of the 
+President of the United States.  It is well established that 
+true threats of violence can be proscribed by statute without 
+infringing upon the First Amendment. 
+Madsen v. Women's Health Center, Inc., 512 U.S. 753, 774 
+(1994); Nat'l Organization for Women, Inc. v. Scheidler, ___ 
+F.3d ___, ___ (7th Cir. 2001); Bauer v. Sampson, 261 F.3d 775, 
+782 (9th Cir. 2001); United States v. Rahman, 189 F.3d 88, 115 
+(2nd Cir.), cert. denied, sub nom. Nosair v. United States, 
+528 U.S. 982 (1999); United States v. Francis, 164 F.3d 120, 
+122-23 (2nd Cir. 1999); United States v. J.H.H., 22 F.3d 821, 
+825 (8th Cir. 1994).  However, I must continue this inquiry 
+regarding the constitutionality of Code § 18.2-423 because in 
+35
+
+R.A.V., supra, the Supreme Court held that the First Amendment 
+imposes certain limitations upon the regulation of speech and 
+expressive conduct, including true threats. 
+ 
+In R.A.V., the Supreme Court considered whether an 
+ordinance was facially invalid under the First Amendment.  In 
+R.A.V., the defendant, along with several other teenagers, 
+made a wooden cross and burned it in a yard owned by a black 
+family.  The defendant was convicted of violating the 
+following ordinance: 
+ 
+"Whoever places on public or private property a 
+symbol, object, appellation, characterization or 
+graffiti, including, but not limited to, a burning 
+cross or Nazi swastika, which one knows or has 
+reasonable grounds to know arouses anger, alarm or 
+resentment in others on the basis of race, color, 
+creed, religion or gender commits disorderly conduct 
+and shall be guilty of a misdemeanor." 
+ 
+The Supreme Court held that the ordinance was facially 
+unconstitutional because it prohibited otherwise permitted 
+speech solely on the basis of the content of the speech, even 
+though the Minnesota Supreme Court had concluded that the 
+ordinance only prohibited unprotected "fighting words."  
+R.A.V., 505 U.S. at 379-81. 
+ 
+The Supreme Court observed, however, that certain "areas 
+of speech can, consistently with the First Amendment, be 
+regulated because of their constitutionally proscribable 
+content (obscenity, defamation, etc.) – not that they are 
+36
+
+categories of speech entirely invisible to the Constitution, 
+so that they may be made the vehicles for content 
+discrimination unrelated to their distinctively proscribable 
+content.  Thus, the government may proscribe libel; but it may 
+not make the further content discrimination of proscribing 
+only libel critical of the government."  Id. at 383-84. 
+ 
+The Supreme Court explained: 
+ 
+"When the basis for the content discrimination 
+consists entirely of the very reason the entire 
+class of speech at issue is proscribable, no 
+significant danger of idea or viewpoint 
+discrimination exists.  Such a reason, having been 
+adjudged neutral enough to support exclusion of the 
+entire class of speech from First Amendment 
+protection, is also neutral enough to form the basis 
+of distinction within the class.  To illustrate:  a 
+State might choose to prohibit only that obscenity 
+which is the most patently offensive in its 
+prurience – i.e., that which involves the most 
+lascivious displays of sexual activity.  But it may 
+not prohibit, for example, only that obscenity which 
+includes offensive political messages.  See Kucharek 
+v. Hanaway, 902 F.2d 513, 517 (7th Cir. 1990), cert. 
+denied, 498 U.S. 1041 (1991).  And the Federal 
+Government can criminalize only those threats of 
+violence that are directed against the President, 
+see 18 U.S.C. § 871 – since the reasons why threats 
+of violence are outside the First Amendment 
+(protecting individuals from the fear of violence, 
+from the disruption that fear engenders, and from 
+the possibility that the threatened violence will 
+occur) have special force when applied to the person 
+of the President.  See Watts v. United States, 394 
+U.S. 705, 707 (1969). . . .  But the Federal 
+Government may not criminalize only those threats 
+against the President that mention his policy on aid 
+to inner cities.  And to take a final example . . . 
+a State may choose to regulate price advertising in 
+one industry, but not in others, because the risk of 
+fraud . . . is in its view greater there. . . .  But 
+37
+
+a State may not prohibit only that commercial 
+advertising that depicts men in a demeaning 
+fashion." 
+ 
+R.A.V., 505 U.S. at 388-89. 
+ 
+The Supreme Court also articulated a second basis which 
+would permit some degree of content-based discrimination. 
+ 
+"Another valid basis for according differential 
+treatment to even a content-defined subclass of 
+proscribable speech is that the subclass happens to 
+be associated with particular 'secondary effects' of 
+the speech, so that the regulation is 'justified 
+without reference to the content of the . . . 
+speech.'  Renton v. Playtime Theatres, Inc., 475 
+U.S. 41, 48 (1986) . . . .  A State could, for 
+example, permit all obscene live performances except 
+those involving minors.  Moreover, since words can 
+in some circumstances violate laws directed not 
+against speech, but against conduct . . . a 
+particular content-based subcategory of a 
+proscribable class of speech can be swept up 
+incidentally within the reach of a statute directed 
+at conduct, rather than speech. . . .  Where the 
+government does not target conduct on the basis of 
+its expressive content, acts are not shielded from 
+regulation merely because they express a 
+discriminatory idea or philosophy. 
+ 
+"These bases for distinction refute the 
+proposition that the selectivity of the restriction 
+is 'even arguably "conditioned upon the sovereign's 
+agreement with what a speaker may intend to say." '  
+Metromedia, Inc. v. San Diego, 453 U.S. 490, 555 
+(1981) . . . .  There may be other such bases as 
+well.  Indeed, to validate such selectivity (where 
+totally proscribable speech is at issue), it may not 
+even be necessary to identify any particular 
+'neutral' basis, so long as the nature of the 
+content discrimination is such that there is no 
+realistic possibility that official suppression of 
+ideas is afoot. . . .  Save for that limitation, the 
+regulation of 'fighting words,' like the regulation 
+of noisy speech, may address some offensive 
+instances and leave other, equally offensive, 
+instances alone." 
+38
+
+ 
+R.A.V., 505 U.S. at 389-90. 
+ 
+In invalidating the City of St. Paul's ordinance, the 
+Supreme Court stated that  
+"[a]lthough the phrase in the ordinance 'arouses 
+anger, alarm or resentment in others,' has been 
+limited by the Minnesota Supreme Court's 
+construction to reach only those symbols or displays 
+that amount to 'fighting words,' the remaining, 
+unmodified terms make clear that the ordinance 
+applies only to 'fighting words' that insult, or 
+provoke violence, 'on the basis of race, color, 
+creed, religion or gender.'  Displays containing 
+abusive invective, no matter how vicious or severe, 
+are permissible unless they are addressed to one of 
+the specified disfavored topics.  Those who wish to 
+use 'fighting words' in connection with other ideas 
+– to express hostility, for example, on the basis of 
+political affiliation, union membership, or 
+homosexuality – are not covered.  The First 
+Amendment does not permit St. Paul to impose special 
+prohibitions on those speakers who express views on 
+disfavored subjects."  
+ 
+Id. at 391. 
+ 
+Continuing, the Supreme Court explained: 
+ 
+"What we have here, it must be emphasized, is 
+not a prohibition of fighting words that are 
+directed at certain persons or groups (which would 
+be facially valid if it met the requirements of the 
+Equal Protection Clause); but rather, a prohibition 
+of fighting words that contain . . . messages of 
+'bias-motivated' hatred and, in particular, as 
+applied to this case, messages 'based on virulent 
+notions of racial supremacy.' " 
+ 
+Id. at 392 (citation omitted). 
+ 
+Contrary to the majority's opinion, Code § 18.2-423 does 
+not suffer from the defects contained in the ordinance at 
+39
+
+issue in R.A.V.  As previously stated, Code § 18.2-423 does 
+not prohibit every act of burning of a cross.  Rather, the 
+statute only prohibits the burning of a cross when such act is 
+performed with the intent to intimidate.  And, consistent with 
+our jurisprudence, the word "intimidate" means to place one in 
+fear of bodily harm.  Unlike the City of St. Paul's ordinance, 
+which targeted cross burning on the basis of race, color, 
+creed, religion or gender, Code § 18.2-423 does not contain 
+those limitations.  The conduct proscribed in the Virginia 
+statute applies to any individual who burns a cross for any 
+reason provided the cross is burned with the intent to 
+intimidate.  That point is best illustrated in O'Mara and 
+Elliott because these defendants burned a cross because they 
+were angry that their neighbor had complained about the 
+presence of a firearm shooting range in the Elliotts' yard, 
+not because of any racial animus. 
+ 
+Additionally, the Supreme Court pointed out in R.A.V. 
+that a valid basis for according differential treatment even 
+to a content-defined subclass of proscribable speech is when 
+the subclass happens to be associated with particular 
+secondary effects of the speech so that the regulation is 
+justified without reference to the content of the speech.  The 
+ordinance that the Supreme Court invalidated in R.A.V. 
+targeted any cross burning that "one knows or has reasonable 
+40
+
+grounds to know arouses anger, alarm or resentment."  505 U.S. 
+at 380. 
+ 
+By contrast, from its clear and unambiguous language, the 
+purpose of the Virginia statute, Code § 18.2-423, is not to 
+suppress repugnant ideas, but rather to proscribe physical 
+acts intended to inflict bodily harm upon the victims of such 
+acts.  Simply stated, the Virginia statute proscribes acts of 
+intimidation, but it does not prohibit persons from expressing 
+their views, irrespective of how repugnant or offensive those 
+views may be to others.  The Virginia statute does not 
+prohibit the burning of a cross so long as that act is 
+committed without an intent to place a person in fear of 
+bodily harm.  See also In re Steven S., 31 Cal. Rptr. 2d 644, 
+646, 647-48 (Cal. Ct. App. 1994) (statute proscribing the act 
+of "burn[ing] a cross on the private property of another for 
+the purpose of terrorizing the owner or occupant or in 
+reckless disregard of that risk" is not impermissible content-
+based prohibition on speech within the meaning of the First 
+Amendment); State v. Talley, 858 P.2d 217, 220, 225-27 (Wash. 
+1993) (statute proscribing cross burning that places another 
+person in reasonable fear of harm to his person or property 
+does not violate the First Amendment). 
+ 
+I recognize that the Supreme Court of South Carolina, in 
+State v. Ramsey, 430 S.E.2d 511 (S.C. 1993), invalidated a 
+41
+
+statute that prohibited the burning of a cross on the basis 
+that it contravened the First Amendment.  The South Carolina 
+statute, however, was significantly different from the 
+Virginia statute.  The South Carolina statute stated:  "It 
+shall be unlawful for any person to place or cause to be 
+placed in a public place in the State a burning or flaming 
+cross or any manner of exhibit in which a burning or flaming 
+cross, real or simulated, is the whole or a part . . . without 
+first obtaining written permission of the owner or occupier of 
+the premises so to do."  Id. at 514. 
+ 
+Unlike Code § 18.2-423, which proscribes the burning of a 
+cross with the intent of intimidating and, thus, prohibits 
+real threats, the South Carolina statute contained no similar 
+limitation.  The Supreme Court of South Carolina concluded 
+that its statute was enacted "in order to protect individuals 
+and society as a whole from the reprehensible messages often 
+sought to be symbolicly expressed by a burning cross."  
+Ramsey, 430 S.E.2d at 514.  As I have already explained, 
+Virginia's statute does not suffer from this constitutional 
+defect.  Thus, the differences between the Virginia statute 
+and the South Carolina statute are real and significant.  Yet, 
+the majority ignores the differences between Code § 18.2-423 
+and the South Carolina statute. 
+42
+
+ 
+I also observe that the Maryland Court of Appeals, in 
+State v. Sheldon, 629 A.2d 753, 755 (Md. 1993), held that a 
+Maryland statute violated the First Amendment because it 
+required those who wished to burn crosses or religious symbols 
+to "secure the permission of the property owner where the 
+burning is to occur and [to] notify the local fire department 
+before engaging in the burning."  That statute stated in part:   
+ 
+"It shall be unlawful for any person or persons 
+to burn or cause to be burned any cross or other 
+religious symbol upon any private or public property 
+within this State without the express consent of the 
+owner of such property and without first giving 
+notice to the fire department which services the 
+area in which such burning is to take place." 
+ 
+Id. at 755.  Unlike the Virginia statute, the Maryland statute 
+did not proscribe burning a cross with the intent of 
+intimidating, but rather, is content-based regulation of 
+expression.  The Maryland Supreme Court found "no way to 
+justify the cross burning statute without referring to the 
+substance of speech it regulates, because the statute does not 
+protect property owners or the community from unwanted fires 
+any more than the law already protected those groups before 
+the statute's enactment."  Id. at 755.  Yet, the majority 
+ignores these significant distinctions. 
+III. 
+ 
+Defendant Black argues that Code § 18.2-423 "does not 
+incorporate the requirements that the speech at issue be 
+43
+
+directed to the incitement of imminent lawless action, and 
+likely to produce such action, and as such is unconstitutional 
+under the standard of Brandenburg v. Ohio, and the Brandenburg 
+standard was not satisfied here."  I disagree with the 
+defendant.  The Supreme Court's decision in Brandenburg v. 
+Ohio, 395 U.S. 444 (1969) simply has no application here. 
+ 
+The Supreme Court considered the following facts in 
+Brandenburg.  Brandenburg, "a leader of a Ku Klux Klan group, 
+was convicted under the Ohio Criminal Syndicalism statute for 
+'advocat[ing] . . . the duty, necessity, or propriety of 
+crime, sabotage, violence, or unlawful methods of terrorism as 
+a means of accomplishing industrial or political reform' and 
+for 'voluntarily assembl[ing] with any society, group, or 
+assemblage of persons formed to teach or advocate the 
+doctrines of criminal syndicalism.' "  Id. at 444-45 
+(alteration in original). 
+ 
+Brandenburg placed a telephone call to a reporter on the 
+staff of a television station and invited the reporter to 
+attend a Ku Klux Klan rally that would be held at a certain 
+farm.  "[T]he reporter and a cameraman attended the meeting 
+and filmed the events.  Portions of the films were later 
+broadcast on the local station and on a national network."  
+Id. at 445.  The prosecutor relied upon the films and 
+testimony identifying the defendant as the person who 
+44
+
+communicated with the reporter and who spoke at the rally.  
+The prosecutor "also introduced into evidence several articles 
+appearing in the film, including a pistol, a rifle, a shotgun, 
+ammunition, a Bible, and a red hood worn by the speaker in the 
+films."  The only persons present at the rally other than the 
+participants were the newsmen who made the film.  Id. at 445-
+46. 
+ 
+The Supreme Court pointed out that "the constitutional 
+guarantees of free speech and free press do not permit a State 
+to forbid or proscribe advocacy of the use of force or of law 
+violation except where such advocacy is directed to inciting 
+or producing imminent lawless action and is likely to incite 
+or produce such action."  Id. at 447.  Continuing, the U.S. 
+Supreme Court stated that  
+"the mere abstract teaching . . . of the moral 
+propriety or even moral necessity for a resort to 
+force and violence, is not the same as preparing a 
+group for violent action and steeling it to such 
+action. . . .  A statute which fails to draw this 
+distinction impermissibly intrudes upon the freedoms 
+guaranteed by the First and Fourteenth Amendments.  
+It sweeps within its condemnation speech which our 
+Constitution has immunized from governmental 
+control." 
+ 
+Id. at 448. 
+ 
+The Supreme Court invalidated the Ohio Criminal 
+Syndicalism Act because neither the indictment nor the trial 
+court's instructions to the jury "refined the statute's bald 
+45
+
+definition of the crime in terms of mere advocacy not 
+distinguished from incitement to imminent lawless action."  
+Id. at 448-49. 
+ 
+In stark contrast to the Supreme Court's decision in 
+Brandenburg, we are not concerned here with abstract teaching 
+regarding the moral propriety or even moral necessity of 
+violence as a means for accomplishing political reform.  
+Rather, the subject of this case is Code § 18.2-423, a statute 
+which proscribes the burning of a cross with the intent to 
+intimidate, which we have held means to place the victim in 
+fear of bodily harm.  And, I note that the jury at defendant 
+Black's trial was specifically instructed that 
+ 
+"[i]ntimidate, as used in the term 'with the 
+intent to intimidate' means a motivation to 
+intentionally put a person or group of persons in 
+fear of bodily harm.  Such fear must arise from the 
+willful conduct of the accused, rather than from 
+some mere temperamental timidity of the victim; 
+however, the fear of the victim need not be so great 
+as to result in terror, panic, or hysteria." 
+ 
+ 
+I have already observed, in response to defendant's 
+counsel's questions at trial, Rebecca Sechrist testified that 
+she was afraid that her "home would get burned or something 
+would happen to it."  Moreover, defendant Black has never 
+challenged the sufficiency of the evidence to support the 
+jury's finding beyond a reasonable doubt that his acts placed 
+Sechrist in fear of bodily harm. 
+46
+
+IV. 
+ 
+Defendant Black argues that "[t]he provision of Code 
+§ 18.2-423 providing that the burning of a cross shall be 
+prima facie evidence of an intent to intimidate permits a jury 
+to find intimidation from the mere act of cross-burning alone, 
+in contravention of the First Amendment."  I disagree. 
+ 
+Code § 18.2-423 creates a statutory inference, and we 
+have stated that an "inference merely applies to the rational 
+potency or probative value of an evidentiary fact to which the 
+fact finder may attach whatever force or weight it deems 
+best."  Martin v. Phillips, 235 Va. 523, 526 n.1, 369 S.E.2d 
+397, 399 n.1 (1988).  Additionally, "inferences are never 
+allowed to stand against ascertained and established facts."  
+Ragland v. Rutledge, 234 Va. 216, 219, 361 S.E.2d 133, 135  
+(1987) (citing Southern Ry. v. Mays, 192 Va. 68, 76, 63 S.E.2d 
+720, 725, cert. denied, 342 U.S. 836 (1951)). 
+ 
+This statutory inference is a factor that the jury may 
+accept or reject in determining whether a defendant burned a 
+cross with the intent to intimidate a victim.  This inference 
+alone, however, is clearly insufficient to establish beyond a 
+reasonable doubt that a defendant burned a cross with the 
+intent to intimidate.  And, this statutory inference does not, 
+and cannot, absolve the Commonwealth of its burden to prove 
+each element of Code § 18.2-423 beyond a reasonable doubt. 
+47
+
+ 
+Moreover, the jury in Black's trial was specifically 
+instructed as follows: 
+"INSTRUCTION NO. 6 
+ 
+ 
+"THE COURT INSTRUCTS THE JURY THAT: 
+ 
+ 
+"The burden is upon the Commonwealth to prove 
+by the evidence beyond a reasonable doubt every 
+material and necessary element of the offense 
+charged.  It is not sufficient that the jury believe 
+the defendant's guilt probable, or more probable 
+than his innocence.  Suspicion or probability of 
+guilt, however strong, will not authorize a 
+conviction.  The evidence must prove his guilt 
+beyond a reasonable doubt.  The jury shall not 
+speculate or go outside the evidence to consider 
+what they think might have taken place, but you are 
+to confine your consideration to the evidence 
+introduced by the Commonwealth and the defense and 
+unless you believe that the guilt of Barry Elton 
+Black has been proved beyond a reasonable doubt as 
+to every material and necessary element of the 
+offense charged against him, then you shall find him 
+not guilty." 
+ 
+. . . . 
+ 
+ 
+"INSTRUCTION NO. 8 
+ 
+ 
+"THE COURT INSTRUCTS THE JURY THAT: 
+ 
+ 
+"The defendant is charged with the crime of 
+placing a burning cross in a public place with the 
+intent to intimidate.  The Commonwealth must prove 
+beyond a reasonable doubt each of the following 
+elements of that crime: 
+ 
+"(1) That the defendant burned or caused to be 
+burned a cross in a public place; and  
+ 
+"(2) That he did so with the intent to 
+intimidate any person or group of persons. 
+ 
+"If you find from the evidence that the 
+Commonwealth has proved beyond a reasonable doubt 
+each of the above elements of the offense as 
+charged, then you shall find the defendant guilty, 
+48
+
+but you shall not fix the punishment until your 
+verdict has been returned and further evidence has 
+been heard by you. 
+ 
+"If you find that the Commonwealth has failed 
+to prove beyond a reasonable doubt either or both of 
+the elements of the offense, then you shall find the 
+defendant not guilty." 
+ 
+As these jury instructions indicate, the Commonwealth was 
+required to prove each and every element of its case, 
+including the requirement of intimidation, beyond a reasonable 
+doubt. 
+V. 
+ 
+For the foregoing reasons, I would affirm the judgments 
+of the Court of Appeals. 
+ 
+49

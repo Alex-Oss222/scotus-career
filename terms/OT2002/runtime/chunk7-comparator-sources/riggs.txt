@@ -1,0 +1,170 @@
+87 S.W.3d 198 - Jenkens & Gilchrist v. Riggs | OpenJurist
+https://openjurist.org/87/sw3d/198/jenkens-gilchrist-v-riggs-2005033
+Public-domain · open source
+Menu
+Cases
+Code
+Courts
+Judges
+Dictionaries
+Books
+OpenJurist›Volume 87›S.W.3d›Page 198
+87 S.W.3d 198
+Jenkens & Gilchrist v. Riggs
+Texas Court of Appeals, 5th District (Dallas)
+Decided September 17, 2002
+Texas Court of Appeals, 5th District (Dallas) · decided 2002-09-17
+Cited by 4 later decisions — most recently September 2012
+4 state decisions
+Relies on Coker v. Coker · Myers v. Gulf Coast Minerals Management Corp. · Cantella & Co., Inc. v. Goodwin
+Good law ✅— No negative treatment on recordhow we know
+Decided 2002-09-17
+View the full empirical analysis of this case →
+¶1
+OPINION
+¶2
+Opinion By
+Justice KINKEADE.
+¶3
+Jenkens & Gilchrist, Paul C. Watler, and Timothy J. Goodwin (collectively referred to as “Jenkens”) bring an interlocutory appeal from the trial court’s denial of their motion to compel arbitration. In their interlocutory appeal, Jenkens raises two issues: (1) whether the Texas General Arbitration Act applies to this lawsuit; and (2) whether the arbitration agreement at issue requires arbitration of this lawsuit. Jenk-ens also brings a petition for writ of mandamus presenting two similar issues: (1) whether the Federal Arbitration Act applies to this lawsuit; and (2) whether the arbitration agreement at issue requires arbitration of this lawsuit. This Court consolidated the interlocutory appeal with the mandamus petition. Because we conclude the arbitration agreement does not apply to the claims in this lawsuit, we need not decide whether the Texas General Arbitration Act or the Federal Arbitration Act applies. We therefore deny the petition for writ of mandamus, and affirm the trial court’s order denying Jenkens’s motion to compel arbitration.
+¶4
+Factual Background
+¶5
+Robert Riggs was a television reporter employed by WFAA-TV, Inc. (“WFAA”) in Dallas. Riggs obtained tape recordings of cordless telephone conversations between Dan Peavy, who at that time was a trustee of the Dallas Independent School District (“DISD”), and others, including Eugene Oliver, an insurance agent. The recordings were made by Charles Harman, a neighbor of Peavy’s, using a police scanner, and suggested that Peavy was involved in possible public corruption.
+¶6
+After Harman offered the tapes to Riggs, Riggs met with WFAA’s producer, P.J. Ward, and news director, John Miller. They decided Riggs should investigate Peavy. Riggs and Miller then met with Watler, an attorney at Jenkens & Gilchrist, seeking advice on whether WFAA could legally broadcast the tapes. On at least two separate occasions, in December 1994 and January 1995, Watler advised them that, in his opinion, it was legal to intercept and record cordless telephone conversations. Riggs began making transcripts of the tapes and preparing memorandums and stories based on the contents of the tapes. A few months later, in March 1995, Watler revised his opinion as to the legality of the tapes, advising Riggs that the federal wiretap law had previously been amended to make it unlawful to intercept the radio portion of a cordless telephone call, but opining that WFAA could still use and broadcast the tapes because WFAA had lawfully obtained them.
+¶7
+The story of Peavy’s alleged corruption broke in 1995. In late July and early August, WFAA broadcast three stories regarding Peavy and DISD. It also broadcast follow-up reports. Although the intercepted tapes were not played in the broadcasts, the information in the tapes was used. In 1996, Peavy and Oliver were indicted for bribery and other offenses related to their dealings with the DISD. Peavy and Oliver were acquitted and then filed civil actions against Riggs, individually, and WFAA, claiming violations of federal and state wiretap laws. The lawsuit was ultimately resolved through a settlement in which Jenkens participated, with Jenkens and WFAA paying Peavy and Oliver $5,000,000.
+¶8
+*201
+After having voluntarily left WFAA, Riggs sued Jenkens, asserting causes of action arising from Jenkens’s erroneous advice regarding the tape recordings. In the course of discovery, Jenkens requested Riggs’s employment contract with WFAA. Based on an arbitration clause in the agreement that requires the arbitration of “any claims and disputes” between Riggs and WFAA and/or the “agents” of WFAA, Jenkens moved to compel arbitration. After hearing evidence and argument, the trial court denied the motion to compel arbitration and overruled Jenkens’s objections to evidence. The trial court also stayed the proceeding pending exhaustion of appellate remedies with regard to the denial of Jenkens’s motion to compel arbitration. Jenkens filed both a notice of appeal and a petition for writ of mandamus.
+¶9
+Arbitration Agreement
+¶10
+The sole issue in this appeal is whether the trial court erred in denying Jenkens’s motion to compel arbitration based on the employment agreement between Riggs and WFAA. Jenkens initially argues federal arbitration law applies to this action, but that, alternatively, Texas law applies. According to Jenkens, under either federal or Texas law, the trial court was required to submit the dispute to arbitration based on the employment agreement. Riggs, on the other hand, argues that regardless of which law applies, the employment agreement does not apply to this dispute because these claims are not covered by the arbitration clause. Because the issue of whether the employment agreement covers the claims at issue is dispositive here, we need not decide whether federal or Texas law applies.
+¶11
+When a court is called upon to determine whether a claim is subject to arbitration, the court must consider two issues: (1) whether a valid, enforceable arbitration agreement exists; and, if so, (2) whether the asserted claims fall within the scope of that agreement.
+Glazer’s Wholesale Distribs., Inc. v. Heineken U.S.A., Inc.,
+No. 05-99-01685-CV, 2001 WL 727351, at *6, — S.W.3d -, - (Tex.App.-Dallas June 29, 2001, pet. granted) (citing
+Dallas Cardiology Assocs., P.A. v. Mallick,
+978 S.W.2d 209, 212 (Tex.App.-Texarkana 1998, pet. denied)).
+¶12
+Here, neither party disputes the existence of a valid arbitration agreement. We therefore examine the terms of the arbitration agreement to determine whether it covers the dispute at issue in this lawsuit. Disputes regarding the interpretation of arbitration agreements are analyzed under standard contract construction principles.
+Leander Cut Stone Co. v. Brazos Masonry, Inc.,
+987 S.W.2d 638, 640 (Tex.App.-Waco 1999, no pet.). The agreement must be construed in its context and the intent of the parties ascertained by according the language its plain grammatical meaning.
+See Lyons v. Montgomery,
+701 S.W.2d 641, 643 (Tex.1985). Any doubts regarding the scope of an arbitration agreement should be resolved in favor of arbitration.
+Cantella & Co., Inc. v. Goodwin,
+924 S.W.2d 943, 944 (Tex.1996) (orig. proceeding). Although arbitration is encouraged, it is a contractual matter and, in the absence of an agreement to arbitrate, a party cannot be forced to forfeit the constitutional protections of the judicial system and submit its dispute to arbitration.
+Glazer’s,
+2001 WL 727351, at *5, at -. Because neither party has alleged the contract is ambiguous, the interpretation presents a question of law for the court to decide.
+See Coker v. Coker,
+650 S.W.2d 391, 393 (Tex.1983);
+Myers v. Gulf Coast Minerals Mgmt. Corp.,
+361 S.W.2d 193, 196 (Tex.1962).
+¶13
+*202
+The relevant language in the employment agreement is contained in the arbitration clause:
+Arbitration.
+In order to ensure the speedy, impartial resolution of all disputes between you and [WFAA] ... which relate to, or arise from the employment relationship, the parties agree to forego litigation ... and the parties consent to the final and binding arbitration of all claims and disputes which may arise between the parties including, but not limited to, disputes arising from your employment and the termination of your employment. Such claims and disputes will include any claims or disputes that [WFAA] may have against you, as well as those that you might have against [WFAA], its parent corporation, owners, affiliates, officers, directors, employees, and/or agents.
+¶14
+Jenkens argues the unambiguous language of the arbitration agreement encompasses Riggs’s claims against Jenkens, because at all times relevant to this lawsuit, Jenkens was acting as WFAA’s agent. According to Jenkens, the arbitration agreement covering “any claims or disputes” between Riggs and WFAA’s “agents” covers this dispute. In support of its argument, Jenkens cites Texas cases recognizing the general principle that attorneys are agents of their clients.
+See, e.g., Tex. Employers Ins. Assoc. v. Wermske,
+162 Tex. 540, 543, 349 S.W.2d 90, 93 (1961);
+Am. Home Assur. Co. v. Rodriguez,
+749 S.W.2d 897, 899 (Tex.App.-San Antonio 1988, no writ);
+Portnow v. Berg,
+593 S.W.2d 843, 845 (Tex.Civ.App.-Houston [1st Dist.] 1980, no writ).
+¶15
+Riggs responds that consideration of the entire arbitration agreement makes it clear the arbitration provision was intended to extend only to claims between Riggs and agents of WFAA whose conduct would render WFAA vicariously liable. We agree. The “parties,” as the term is used in the arbitration agreement, means the parties to the contract — Riggs and WFAA. Riggs and WFAA are the only parties who signed the contract and who agreed to submit their disputes to arbitration. Because Jenkens was not a party to the contract, claims arising from its conduct would fall within the ambit of the arbitration clause only if that conduct gave rise to vicarious liability on the party, WFAA.
+See Glazer’s,
+2001 WL 727351, at *5, at - (because arbitration is contractual matter, party cannot be forced to forfeit the constitutional protections of the judicial system and submit its disputes to arbitration). It follows that the term “agents” includes those persons for whom WFAA would be vicariously liable to Riggs. Both parties agree WFAA is not vicariously liable for the conduct of Jenk-ens in this ease.
+¶16
+Furthermore, the facts in this case show that Jenkens was acting more as an independent contractor for WFAA than as an agent in giving legal advice to Riggs. Although WFAA hired Jenkens to act as its legal counsel, the record shows Jenkens exercised its own discretion and judgment in giving legal advice to Riggs. In fact, because of the duty a lawyer owes to his client, the lawyer could never vest in a third person adequate control to render that third person vicariously liable for his conduct.
+See State Farm Mut. Auto. Ins. Co. v. Traver,
+980 S.W.2d 625, 627 (Tex.1998) (quoting
+Ingersoll-Rand Equip. Corp. v. Transp. Ins. Co.,
+963 F.Supp. 452, 454-55 (M.D.Pa.1997) (“The attorney’s ethical obligations to his or her client, the insured, prevent the insurer from exercising the degree of control necessary to justify the imposition of vicarious liability.”)). In this case, WFAA could not have exercised control over the legal advice Jenkens gave to Riggs.
+¶17
+*203
+Traver
+supports this holding.
+See Traver,
+980 S.W.2d at 627.
+Traver
+involved a claim that State Farm was vicariously liable for the negligence of attorneys it hired to represent a State Farm insured.
+See id.
+In analyzing whether State Farm would be vicariously hable for the conduct of the attorney it hired to represent an insured, the court applied the “right to control” test.
+Id.
+(key question in determining whether principal is vicariously ha-ble for conduct of agent is whether principal has right to control agent with respect to details of agent’s conduct). The court noted that a defense attorney, “as an independent contractor,” has discretion regarding the details of conducting a defense, and is not subject to the chent’s control regarding those details.
+Id.
+Moreover, because the lawyer must be loyal to the insured,
+see Employers Cas. Co. v. Tilley,
+496 S.W.2d 552, 558 (Tex.1973), the lawyer must always protect the interests of the insured if those interests would be compromised by the insurer’s instructions.
+Traver,
+980 S.W.2d at 627. “Under these circumstances, the insurer cannot be vicariously responsible for the lawyer’s conduct.”
+Id.
+¶18
+Our holding does not affect the general principle that lawyers are agents of their chents, but recognizes the unique relationship that arises when an attorney is hired by a third party, as in the insurance context.
+See id.
+We also recognize that in a case such as this, Jenkens could have been an agent for WFAA as to some tasks but not as to others.
+See, e.g., Robles v. Consol. Graphics, Inc.,
+965 S.W.2d 552, 558 (Tex.App.-Houston [14th Dist.] 1997, pet. denied) (op. on reh’g). We hold only that, because of the relationship between Jenk-ens, WFAA, and Riggs, WFAA cannot be vicariously liable for any actions Jenkens took in giving legal advice to Riggs. Consequently, Jenkens is not WFAA’s agent for purposes of the arbitration agreement.
+¶19
+We conclude the claims asserted in this lawsuit are not covered by the arbitration agreement. We deny Jenkens’s petition for writ of mandamus, and affirm the trial court’s order denying Jenkens’s motion to compel arbitration. Because of our disposition of this issue, we need not reach Jenkens’s other issues.
+SharePrint
+Download
+.txtPDF
+Copy
+URLCitation LinkBluebook
+Embed on your site
+iframeMarkdownPreview cardButton
+Hover to preview · click to copy the code
+Cite on WikipediaSearch Wikipedia →
+Report a problem
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel
+Status
+On appeal from Texas 134th Judicial District Court
+Court
+Texas Court of Appeals, 5th District (Dallas)
+/87/sw3d/198 · .json · Public domain
+The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+U.S. Government work · public domain · not legal advice
+With special thanks to
+Browse the record
+Cases
+Code
+Law Dictionary
+Federal Judges
+Courts
+Law Schools
+Named Statutes
+Founding Documents
+Books
+Citation Checker
+For developers + AI agents
+Developers & API
+/llms.txt
+JSON API
+♥ Support OpenJurist
+© 2026 OpenJurist♿ Accessibility
+Accessibility
+×
+These preferences are saved in your browser.
+Text size
+A− 100% A+
+High contrastDarker text, underlined linksReadable fontA wider, more legible typefaceReduce motionMinimise animations and transitions
+Reset to defaults Accessibility statement
+Contact Returns & Refunds Attributions Terms of Use Privacy Policy
+Report a problem with this page
+What went wrong?
+10 to 2,000 characters. 0 so far, 2,000 left.
+Your email (optional)
+Website
+We store your message, the page address, and your email only if you give it. We do not store your IP address.
+Send Cancel

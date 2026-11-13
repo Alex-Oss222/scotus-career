@@ -1,0 +1,296 @@
+[
+  {
+    "case": "Archer v. Warner",
+    "date": "2003-03-31",
+    "file": "Archer-v-Warner_merits_2003-03-31.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Reverse categorical novation discharge ruling and remand on the federal exception",
+        "supporting": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stevens",
+          "Thomas"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Nassau County v. Shain",
+    "date": "2003-03-31",
+    "file": "Nassau-County-v-Shain_merits_2003-03-31.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Affirm constitutional liability and reviewed nominal/declaratory relief",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Affirm individual liability against the asserted personal-immunity defense",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "alternative_positions": [
+          {
+            "justices": [
+              "Scalia",
+              "Kennedy",
+              "Thomas"
+            ],
+            "position": "Reverse on the constitutional merits; do not reach whether personal immunity would apply on the contrary constitutional premise."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Specht v. Netscape Communications Corp.",
+    "date": "2003-03-31",
+    "file": "Specht-v-Netscape-Communications-Corp_merits_2003-03-31.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Deny arbitration under the asserted SmartDownload agreements for the five users",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny requested formation trial",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny arbitration under the accepted Communicator licenses for these claims",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny compulsion of Specht on the asserted visitor-benefit theory",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Kentucky Association of Health Plans, Inc. v. Miller",
+    "date": "2003-04-02",
+    "file": "Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Reject categorical preemption of section 304.17A-270 under its actual terms",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Reject categorical preemption of section 304.17A-171(2) under its distinct conditions",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Reject the nonexempt self-insurer and MEWA definition objection",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Reject the administrative-only-HMO covered-entity objection",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

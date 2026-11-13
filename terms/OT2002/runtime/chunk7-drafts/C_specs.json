@@ -1,0 +1,369 @@
+[
+  {
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Black conviction vacatur affirmed",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Black indictment dismissal affirmed",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ],
+        "alternative_positions": [
+          {
+            "position": "Vacate dismissal and permit lawful retrial",
+            "justices": [
+              "Scalia"
+            ]
+          },
+          {
+            "position": "Reverse reviewed constitutional grounds and remand",
+            "justices": [
+              "Thomas"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Elliott attempted-cross-burning conviction and indictment judgments vacated and remanded",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Breyer"
+        ],
+        "opposing": [
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "alternative_positions": [
+          {
+            "position": "Affirm conviction vacatur and indictment dismissal",
+            "justices": [
+              "Kennedy",
+              "Souter",
+              "Ginsburg"
+            ]
+          },
+          {
+            "position": "Reverse reviewed constitutional grounds and remand",
+            "justices": [
+              "Thomas"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "OMara attempted-cross-burning and conspiracy conviction and indictment judgments vacated and remanded",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Breyer"
+        ],
+        "opposing": [
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "alternative_positions": [
+          {
+            "position": "Affirm all reviewed vacaturs and dismissals",
+            "justices": [
+              "Kennedy",
+              "Souter",
+              "Ginsburg"
+            ]
+          },
+          {
+            "position": "Reverse reviewed constitutional grounds and remand",
+            "justices": [
+              "Thomas"
+            ]
+          }
+        ]
+      }
+    ],
+    "case": "Virginia v. Black",
+    "date": "2003-04-07",
+    "file": "Virginia-v-Black_merits_2003-04-07.md"
+  },
+  {
+    "form": "procedural",
+    "countable": false,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": false,
+    "components": [
+      {
+        "name": "Dismiss review as moot",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny vacatur and preserve Fifth Circuit judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "case": "Peavy v. WFAA-TV, Inc.",
+    "date": "2003-04-07",
+    "file": "Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md"
+  },
+  {
+    "form": "procedural",
+    "countable": false,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": false,
+    "components": [
+      {
+        "name": "Grant Rule46 dismissal and preserve circuit judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny retention and appointed amicus",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny 85020 counsel fees under Rule46",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny ordinary brief-printing reimbursement",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny section1927 award",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Deny inherent-power fees and printing sanction",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "case": "Medical Board of California v. Hason",
+    "date": "2003-04-07",
+    "file": "Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md"
+  },
+  {
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Affirm Baxter treatment summary judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Vacate Baxter impact summary judgment and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Affirm denial of Stout liability crossmotion",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "case": "Stout v. Baxter Healthcare Corp.",
+    "date": "2003-05-19",
+    "file": "Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "name": "peavy-report",
+    "url": "https://www.rcfp.org/journals/the-news-media-and-the-law-spring-2002/texas-television-station-se/",
+    "bytes": 62213,
+    "sha256": "f4332117ee1cb5264bd2d34f7d534e32bad0c26b0b53bd0112c125339246833c",
+    "status": "saved"
+  },
+  {
+    "name": "guerrero",
+    "url": "https://openjurist.org/290/f3d/1210",
+    "bytes": 521446,
+    "sha256": "7f484f5f4b32f0c3886b6e2bcf220542970fcaa77145c27d06c781ad887dbc82",
+    "status": "saved"
+  },
+  {
+    "name": "hambrick",
+    "url": "https://www.ca4.uscourts.gov/Opinions/Unpublished/994793.U.pdf",
+    "bytes": 30205,
+    "sha256": "a3f16176a851a5e334b8e0b2b5a9547465ecdaa2a95c5dfe6e814794e87e376c",
+    "status": "saved"
+  },
+  {
+    "name": "stout",
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/00/00-60542.cv0.wpd.pdf",
+    "bytes": 35910,
+    "sha256": "6ba74b3417bcf65d05381b0b077b5240f87e4b3300f4c8e7483263b4f73f580c",
+    "status": "saved"
+  },
+  {
+    "name": "hason-docket",
+    "url": "https://www.supremecourt.gov/search.aspx?filename=/docketfiles/02-479.htm",
+    "bytes": 63149,
+    "sha256": "9239323e89b4d60b5c2182ab2262ce29b70e2d3cc5b2d65c22503fa2cefae8ed",
+    "status": "saved"
+  },
+  {
+    "name": "riggs",
+    "url": "https://static.case.law/sw3d/87/0198-01.html",
+    "status": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "hason-report",
+    "url": "https://www.raggededgemagazine.com/drn/hason022803.html",
+    "bytes": 14197,
+    "sha256": "ef2ca151492dbeea3bc15c9a7067f0c76dd2e7465dc6d6442f2ba7f7744e703e",
+    "status": "saved"
+  },
+  {
+    "name": "shain",
+    "url": "https://clearinghouse-umich-production.s3.amazonaws.com/media/doc/55613.pdf",
+    "bytes": 247690,
+    "sha256": "af3a0f6a5076d16a234ea69cc7a1357a9cf56e52fed4cf7e15c2099a8b53509c",
+    "status": "saved"
+  },
+  {
+    "name": "gerber",
+    "url": "https://openjurist.org/291/f3d/617",
+    "bytes": 500845,
+    "sha256": "b4317a54f6701d0c2f39a949e2d50faef8471973db487305c0b91d60848fe07a",
+    "status": "saved"
+  },
+  {
+    "name": "peavy",
+    "url": "https://www.ca5.uscourts.gov/opinions/pub/99/99-10272.cv0.wpd.pdf",
+    "bytes": 267090,
+    "sha256": "5d0b2733ed043ce2791fea735ed1eb3294c5f9ec06355dc5f33f4bc55aa8b45c",
+    "status": "saved"
+  },
+  {
+    "name": "specht",
+    "url": "https://openjurist.org/306/f3d/17",
+    "bytes": 603668,
+    "sha256": "84e620ca1269b901f3b2bee80962acd5d6fd636f565955a576d7fc3897458953",
+    "status": "saved"
+  }
+]

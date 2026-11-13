@@ -1,0 +1,26 @@
+[
+  {
+    "file": "freeze/OT_2002CHUNK7_NEUTRAL.md",
+    "sha256": "eaa1ff3f184a6336d43c70ecb86d7977e777453b6031545a46751cfba3bccab2"
+  },
+  {
+    "file": "freeze/OT_2002CHUNK7_A_NEUTRAL.md",
+    "sha256": "9a24f614d6bc817d9da2fd20e48c9e2bc793abf746965dbb8f67c20940ea058e"
+  },
+  {
+    "file": "freeze/OT_2002CHUNK7_B_NEUTRAL.md",
+    "sha256": "0e67466027a59233828fdd2a13338ae57dc8c480c961033ecf299a2c482a3591"
+  },
+  {
+    "file": "freeze/OT_2002CHUNK7_C_NEUTRAL.md",
+    "sha256": "42852060407c0eab2e0a4c348fc7020eab21f994b6d2b8b4ed1af57e988eeb62"
+  },
+  {
+    "file": "entering-law/OT_2002CHUNK7.md",
+    "sha256": "258e72870a054fbe01f8d185d7669b9b216637dec1fcad9d89fd15b53b8944d0"
+  },
+  {
+    "file": "entering-law/OT_2002CHUNK7_SAME_TERM.md",
+    "sha256": "f3b1814a8d1031877b28e6b6a931b25761e6c51343bc4d0b3ccf9c8187e03efd"
+  }
+]

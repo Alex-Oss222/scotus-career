@@ -1,0 +1,320 @@
+[
+  {
+    "case": "Gerber v. Hickman",
+    "date": "2003-03-25",
+    "file": "Gerber-v-Hickman_merits_2003-03-25.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Vacatur of the preserved federal procreative-liberty dismissal and Turner remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Leaving ungranted state-law and amendment rulings undisturbed",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Brown v. Legal Foundation of Washington",
+    "date": "2003-03-26",
+    "file": "Brown-v-Legal-Foundation-of-Washington_merits_2003-03-26.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Affirmance of compensation and programwide-injunction judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "People of Guam v. Guerrero",
+    "date": "2003-03-26",
+    "file": "People-of-Guam-v-Guerrero_merits_2003-03-26.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Reject independently broader Organic Act standard",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Sustain RFRA territorial coverage",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Vacate final rejection of RFRA defense and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Branch v. Smith",
+    "date": "2003-03-31",
+    "file": "Branch-v-Smith_merits_2003-03-31.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Affirm nonuse of the unprecleared state plan",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Reject later-period automatic-preclearance contention",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Vacate alternative Article I ground",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Affirm operative federal single-member remedy",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Thomas"
+        ]
+      }
+    ],
+    "assignment_authorities": {
+      "Parts I–IV": "Stone-Zsela",
+      "Part V, independent Connor sequencing": "Stone-Zsela"
+    }
+  },
+  {
+    "case": "United States v. Hambrick",
+    "date": "2003-03-31",
+    "file": "United-States-v-Hambrick_merits_2003-03-31.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "components": [
+      {
+        "name": "Vacatur of categorical suppression disposition and Guest remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Rejection of statutory suppression for a nonconstitutional violation alone",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

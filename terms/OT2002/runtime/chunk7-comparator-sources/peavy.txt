@@ -1,0 +1,2436 @@
+UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+_____________________
+No. 99-10272
+_____________________
+CARVER DAN PEAVY; SALLY PEAVY,
+Plaintiffs-Appellants/Cross-Appellees,
+versus
+WFAA-TV, INC.; ROBERT RIGGS,
+Defendants-Appellees/Cross-Appellants.
+_________________________________________________________________
+Appeals from the United States District Court
+for the Northern District of Texas
+_________________________________________________________________
+July 31, 2000
+Before POLITZ, JOLLY, and BARKSDALE, Circuit Judges.
+RHESA HAWKINS BARKSDALE, Circuit Judge:
+Primarily at issue is whether the First Amendment shields
+WFAA-TV, Inc., and its reporter, Robert Riggs, from liability for
+their “use” and “disclosure”, in violation of the Federal and Texas
+Wiretap Acts, of the contents of the Peavys’ cordless telephone
+conversations, illegally intercepted and recorded by the Harmans,
+with them providing the recordings to Riggs and with Riggs and WFAA
+having some participation concerning the interceptions, at least as
+to their extent.  Numerous other federal and state law issues are
+presented, including whether defendants “procured” or “obtained”
+the Harmans to make the interceptions, in violation of the Federal
+and Texas Acts, respectively, and whether the Federal Act even
+
+2
+permits a civil action for damages for such “procurement”.  The
+district court granted summary judgment for WFAA and Riggs,
+holding, inter alia:  the Harmans were neither so “procured” nor
+“obtained”; and even though defendants engaged in proscribed “use”
+and “disclosure”, the First Amendment trumps the two Acts.  We
+AFFIRM in part; REVERSE in part; VACATE in part; and REMAND.
+I.
+The facts are largely undisputed.  The following is drawn, in
+part, from the magistrate judge’s recommendation, adopted by the
+district court without a separate opinion.  Peavy v. Harman, 37 F.
+Supp. 2d 495, 502-04 (N.D. Tex. 1999).
+Carver Dan Peavy (Peavy) was elected a trustee for the Dallas
+Independent School District (DISD) in 1986, so serving until 1995.
+By the early 1990s, he controlled purchases of insurance for DISD
+employees.  He was a friend and business associate of Eugene
+Oliver, an insurance agent who had been convicted as an accomplice
+to murder.  The Peavys had been long involved in various, ongoing
+disputes with their neighbors, Charles and Wilma Harman.   Id. at
+502 n.2.
+In early December 1994, Charles Harman (Harman) acquired a
+police scanner, in order to monitor police activity in his
+neighborhood.  The first time he turned it on, he overheard a
+telephone conversation between Peavy and another neighbor, in which
+they discussed filing a class action against the Harmans.  Id. at
+
+3
+502.  Thereafter, Harman locked the scanner onto the frequency for
+the Peavys’ cordless telephone, and continued listening to their
+conversations.  Harman overheard conversations which he interpreted
+as threats to his safety, and some involved what he perceived to be
+public corruption on the part of Peavy involving insurance at DISD.
+Id.  Shortly thereafter, Harman began recording the intercepted
+conversations.  Id. 
+The Harmans claimed to have consulted with various law
+enforcement officials regarding the legality of intercepting and
+recording cordless telephone calls, and to have been told it was
+legal.  Id. (However, in a related proceeding, subsequent to the
+summary judgment in this case, the magistrate judge found that no
+one told the Harmans such interception was legal.  See Goodspeed v.
+Harman, 39 F. Supp. 2d 787, 793-94 (N.D. Tex. 1999).)
+Frustrated at the lack of police response to his reports of
+Peavy’s threats and public corruption, Harman contacted WFAA on 8
+December 1994, and spoke with one of its producers, P. J. Ward.
+Id. at 503.  Harman told Ward he had information about possible
+corruption by an elected official, who he eventually identified as
+Peavy.  Id.  Ward relayed the tip to Riggs, a WFAA investigative
+reporter.  Id. 
+Riggs telephoned Harman that afternoon.  Id.  Harman told
+Riggs he:  had proof Peavy was threatening to harm him and was
+involved in an insurance kickback scheme; was concerned for his
+
+4
+family’s safety; and wanted to talk to Riggs in person.  Id.  Riggs
+had never heard of Peavy and was not working on a story about DISD
+insurance. 
+The next day, Riggs went to the Harmans’ home.  Id.  They told
+him about their history with Peavy; hearing, with a police scanner,
+his threats and discussions of insurance kickbacks; and taping his
+conversations.  They told Riggs about the contents of overheard,
+but not recorded, conversations; played a tape of recorded
+conversations; and showed him the scanner.  Riggs knew the parties
+to those conversations were not aware of, and did not consent to,
+the interception and recording.
+Riggs claimed:  he asked Harman, at their initial meeting,
+whether it was legal to record the conversations; and Harman
+assured him his actions had been approved by the Dallas County
+District Attorney and the Dallas Police Department.  Id.  On the
+other hand, the Harmans claim Riggs told them he had consulted with
+WFAA’s attorney about the legality of the intercepts prior to their
+meeting.  Riggs denied then consulting counsel and stated he did
+not do so until a few days later.
+At their initial meeting, Harman asked Riggs whether he wanted
+a copy of the tape, as well as others he (Harman) might make in the
+future.  Id.  Riggs replied he did.  Id.  He also instructed the
+Harmans not to turn the tape recorder on and off while recording
+
+5
+intercepted conversations, and not to edit them, so that the tapes’
+authenticity could not be challenged.  Id. 
+Riggs took the tape of the intercepted conversations to WFAA;
+met with Ward and WFAA News Director John Miller; told them about
+his meeting with the Harmans; and played portions of the tape for
+them.  Id.  They agreed Peavy’s activities should be investigated.
+Id.  After that meeting, Riggs asked another WFAA employee to
+conduct research regarding the contents of the tape, and instructed
+Ward to conduct other research at DISD.  
+WFAA asked its outside legal counsel, Paul Watler, whether it
+was lawful for WFAA to receive tapes of the intercepted and
+recorded cordless telephone conversations.  At a meeting with Riggs
+and Miller on 12 December 1994, Watler advised he would have to
+double-check, but thought it legal to intercept and record cordless
+telephone conversations.  At a meeting at WFAA on 4 January 1995,
+Watler told Riggs:  it was legal to listen to, and record, cordless
+telephone conversations; and WFAA could legally accept and
+broadcast the tapes. 
+In February 1995, Ward and Watler decided to have portions of
+the tapes transcribed.  Ward selected for transcription those
+portions she believed would illustrate to Riggs, Miller, and Watler
+the evidence of public corruption and racial discrimination.  At
+Watler’s suggestion, Ward had them transcribed by a court reporter
+
+6
+in Austin, Texas, and took measures to ensure the confidentiality
+of the tapes and transcripts. 
+After the transcript was prepared, Ward made copies for
+Miller, Riggs, and Watler.  Ward and Riggs reviewed, edited, and
+corrected it.  Watler reviewed it to familiarize himself with the
+contents of the tapes so that he could advise WFAA on legal
+questions that might arise.  And, Riggs gave a copy of the
+transcript to the Harmans to review for accuracy. 
+In late February, Riggs began preparing a memorandum in which
+he formulated story outlines based on the contents of the tapes and
+his investigation of those contents. 
+By the end of that month, the Harmans had provided to WFAA 17
+more tapes of the Peavys’ conversations.  Id.  Ward listened to,
+and took notes about, each tape.  At Miller’s request, Ward
+prepared a memorandum regarding the persons, and another regarding
+the topics, mentioned on the tapes. 
+The 18 tapes WFAA received from Harman contained 188 telephone
+conversations between the Peavys and others.  Id.  Because the
+contents of those conversations are not particularly relevant to
+the issues at hand, it is not necessary to describe them in detail.
+Generally, they concern DISD insurance and Peavy’s conduct as a
+DISD trustee, a plan to sell cancer insurance to an entity other
+than DISD, and Peavy’s relationship with Oliver.  They also include
+offensive language, as well as conversations about intensely
+
+7
+personal matters which the participants obviously would never have
+discussed had they known of the interceptions.
+By late February 1995, Riggs had been informed by law
+enforcement sources for another story on which he was working that
+the Federal Wiretap Act had been amended to cover interception of
+cordless telephone calls.  Id.  Accordingly, he asked Watler to re-
+check his previous advice regarding the legality of using the
+intercepted conversations.  Id.  At WFAA’s request, Watler
+conducted further research and discovered that the law had been
+amended in October 1994 (about six weeks before the first Riggs-
+Harman meeting), to make it unlawful to intercept the radio portion
+of a cordless telephone call.  Id.  Pub. L. No. 103-414, §
+202(a)(1), 108 Stat. 4290, 4291 (codified as amended at 18 U.S.C.
+§ 2510(1) (deleting from definition of “wire communication”
+provision which excluded radio portion of cordless telephone
+communication that is transmitted between handset and base unit)).
+Watler immediately informed Miller of the amendment and
+advised WFAA not to accept any more tapes.  On 1 March, Watler met
+with Miller and Riggs and advised them his previous advice had been
+incorrect.  He opined that, in any event, the First Amendment took
+precedence over the wiretapping laws and that WFAA could still use,
+and broadcast (disclose), the tapes, because it had lawfully
+obtained them.  Nevertheless, he advised WFAA that the more
+conservative approach was not to accept additional tapes, not to
+
+8
+broadcast any tapes, not to disclose the contents of the tapes to
+third parties, and not to confront individuals about conversations
+on the tapes, unless the same information was available from other
+sources. 
+In addition, Watler advised WFAA to return the original tapes
+to Harman and tell him WFAA would not accept any more.  He also
+advised WFAA to provide him with all copies of the tapes,
+transcripts, and other materials related to the tapes’ contents.
+Ward forwarded the materials (except for her copy of the
+transcript, which she inadvertently did not include) to Watler.
+The tapes WFAA had received from Harman were returned to him by
+either Riggs or Ward on or about 1 March.  37 F. Supp. 2d at 504.
+Even after learning recording Peavy’s conversations was
+illegal, Harman continued to intercept them until his scanner was
+seized by the FBI in October 1995.  Id.  Harman told Riggs about
+the contents of at least one of these interceptions.  He also
+recorded at least one other, for which he pleaded guilty to
+violating the Federal Wiretap Act and paid a $5,000 fine.  Id. 
+At the earlier described 1 March meeting with Miller and
+Riggs, Watler also advised WFAA could continue to research Peavy
+and DISD insurance using other means.  Riggs and Ward continued
+their extensive investigation of Peavy and Oliver, such as
+requesting records from DISD and other governmental agencies;
+interviewing numerous individuals; investigating DISD’s insurance
+
+9
+providers; conducting background research and checks on Peavy and
+others; and reviewing past DISD campaign contributions, board and
+committee minutes, and insurance proposals.
+Between 31 July and 2 August 1995, WFAA broadcast three
+reports on Peavy’s alleged wrongdoing in connection with DISD
+insurance.  Id.  Although intercepted conversations were not played
+in the broadcasts, the district court held that, in violation of
+the Federal and Texas Wiretap Acts, WFAA and Riggs “disclosed”
+portions of the tapes’ contents during them.  Id. at 514.  After 2
+August, WFAA periodically broadcast follow-up reports on Peavy,
+Oliver, and DISD insurance.  Watler reviewed the broadcasts before
+they aired. 
+After Riggs learned of the illegality of the interceptions, he
+disclosed to federal law enforcement officials and a Dallas Police
+detective (apparently in August 1995) the tapes’ contents and other
+information from his investigation.  Riggs then advised the Harmans
+about those discussions. 
+In April 1996, Peavy and Oliver were indicted for bribery and
+other offenses related to DISD insurance.  Id. at 504.  They were
+acquitted of all charges.  Id. 
+In October 1996, the Peavys filed this action against WFAA and
+Riggs, claiming violations of Title III of the Omnibus Crime
+Control and Safe Streets Act of 1968, codified at 18 U.S.C. §§
+2510-2521, as amended by the Electronic Communications Privacy Act
+
+10
+of 1986 (Federal Wiretap Act); as well as making state law claims
+under TEX. CIV. PRAC. & REM. CODE § 123.001, et seq. (Texas Wiretap
+Act) and for, inter alia, civil conspiracy.   Separate actions
+filed by the Olivers against WFAA, Riggs, and Harman, and by the
+Peavys against the Harmans, were consolidated for pretrial
+purposes.  37 F. Supp. 2d at 504 n.6.
+Cross-motions for summary judgment were referred to the
+magistrate judge.  Id. at 502.  His October 1998 recommendation
+was, inter alia:  WFAA and Riggs violated the Federal and Texas
+Wiretap Acts by “using” and “disclosing” contents of illegal
+interceptions, id. at 513-15, but they should be awarded summary
+judgment because liability for their proscribed conduct would
+violate the First Amendment.  Id. at 518.  Summary judgment was
+also recommended for WFAA and Riggs on the Peavys’ other state law
+claims.  Id. at 521-25.  The district court adopted the
+recommendation.  Id. at 501.
+II.
+The Peavys claim the district court erred by:  holding
+defendants did not “procure” the interceptions by the Harmans, in
+violation of the Federal Act, or “obtain” them, in violation of the
+Texas Act; granting summary judgment against their civil conspiracy
+claims; applying strict scrutiny and, as a result, holding that the
+First Amendment shields WFAA and Riggs from liability under the
+“use” and “disclosure” provisions of the two Wiretap Acts; and
+
+11
+denying their motion to suppress the contents of the illegal
+interceptions.
+By cross-appeal, WFAA and Riggs (defendants) contest the
+holding they engaged in proscribed “use” and “disclosure”.
+Alternatively, 
+they 
+claim 
+the 
+Wiretap 
+Acts 
+are 
+facially
+unconstitutional for vagueness and overbreadth.
+The United States intervened on appeal, pursuant to 28 U.S.C.
+§ 2403(a) and FED. R. APP. P. 44, to defend the constitutionality of
+the Federal Wiretap Act.  And, an amicus brief was filed by
+numerous media entities, such as the National Broadcasting Company,
+Inc.
+We review the summary judgment de novo, using “the same
+criteria as the district court, viewing all facts, and the
+inferences to be drawn from them, in the light most favorable to
+the non-movants”.  Forsyth v. Barr, 19 F.3d 1527, 1533 (5th Cir.),
+cert. denied, 513 U.S. 871 (1994).  The judgment is proper if, in
+the light of the summary judgment record, “‘there is no genuine
+issue as to any material fact and ... the mov[ant] is entitled to
+a judgment as a matter of law.’”  Id. (quoting FED. R. CIV. P.
+56(c)).
+“[T]he substantive law will identify which facts are
+material”.  Anderson v. Liberty Lobby, Inc., 477 U.S. 242, 248
+(1986).  “Only disputes over facts that might affect the outcome of
+the suit under the governing law will properly preclude ... summary
+
+12
+judgment.”  Id.  “[A] dispute about a material fact is ‘genuine’
+... if the evidence is such that a reasonable jury could return a
+verdict for the nonmov[ant]”.  Id.
+A.
+The Federal Wiretap Act is violated if a person, inter alia,
+“procures any other person to intercept ... any wire, oral, or
+electronic communication”.  18 U.S.C. § 2511(1)(a) (emphasis
+added).  Under the Texas Wiretap Act, “[a] party to a communication
+may sue a person who ... [, inter alia,] obtains another to
+intercept ... the communication”.  TEX. CIV. PRAC. & REM. CODE §
+123.002(a)(1) (emphasis added). 
+The district court held defendants neither “procured”, in
+violation of the Federal Act, nor “obtained”, in violation of the
+Texas Act, the Harmans to intercept the Peavys’ communications,
+because the Harmans made an independent decision in which
+defendants did not actively participate.  Peavy, 37 F. Supp. 2d at
+512-13. 
+1.
+Defendants urge us to affirm the summary judgment on the
+ground, not addressed by the district court, that the Peavys did
+not timely plead a “procures” or “obtains” claim.  They maintain
+the former was not raised until in opposition to summary judgment;
+the latter, until in objections to the recommendation.
+
+13
+“A pleading which sets forth a claim for relief ... shall
+contain ... a short and plain statement of the claim showing that
+the pleader is entitled to relief”.  FED. R. CIV. P. 8(a).  “The form
+of the complaint is not significant if it alleges facts upon which
+relief can be granted, even if it fails to categorize correctly the
+legal theory giving rise to the claim.”  Dussouy v. Gulf Coast Inv.
+Corp., 660 F.2d 594, 604 (5th Cir. 1981).
+The amended complaint stated, inter alia, that defendants
+conspired 
+with 
+the 
+Harmans 
+“to 
+intercept” 
+the 
+Peavys’
+communications, “knowing or having reason to know” the contents
+were obtained through interception in violation of, inter alia, “18
+U.S.C. § 2511 and/or Chap. 123, TEX. CIV. PRAC. & REM. CODE”.
+“Procuring” and “obtaining” claims are stated.
+2.
+Alternatively, for the federal “procures” claim, defendants
+urge affirming summary judgment on the ground there is no private
+civil action for violation of that portion of § 2511(1)(a).
+a.
+The Peavys contend, incorrectly, that defendants “waived” this
+issue by not presenting it in district court.  Although the
+magistrate judge and district judge did not address this no-civil-
+action issue, defendants did raise it in response to the Peavys’
+objections to the recommendation.  
+
+14
+Even assuming the issue was not properly raised, we may
+consider a “purely legal claim” advanced for the first time on
+appeal, to support affirmance of a summary judgment, when “there
+are no countervailing reasons warranting remand to the district
+court”.  See F.D.I.C. v. Lee, 130 F.3d 1139, 1141-43 (5th Cir.
+1997) (affirming summary judgment on statutory ground raised by
+appellee for first time on appeal).
+Whether the Federal Act authorizes a private civil action for
+procurement is a legal issue of statutory interpretation, which
+requires no presentation of evidence.  Because the issue has been
+fully briefed, and the Peavys cannot claim prejudice, there are no
+“countervailing reasons” to preclude our considering it. 
+b.
+Defendants did not cite, nor have we found, any cases
+addressing the availability, under the Federal Act, of a civil
+procurement action.  Prior to its amendment in 1986, the provision
+authorizing civil damages stated, in pertinent part:
+Any 
+person 
+whose 
+wire 
+or 
+oral
+communication is intercepted, disclosed, or
+used in violation of this chapter shall (1)
+have a civil cause of action against any
+person who intercepts, discloses, or uses, or
+procures any other person to intercept,
+disclose, or use such communications, and (2)
+be entitled to recover from any such person
+[damages, attorney’s fees, and costs].
+18 U.S.C. § 2520 (1970) (emphasis added).
+
+15
+But, the “or procures any other person” language was deleted
+when the section was amended in 1986.  See Oceanic Cablevision,
+Inc. v. M.D. Elecs., 771 F. Supp. 1019, 1027 (D. Neb. 1991)
+(“[s]ection 103 of the Electronic Communications Privacy Act of
+1986[] amended § 2520 by eliminating the ‘or procures another
+person’ language of the statute and incorporating violations
+involving the interception, disclosure, or intentional use of
+electronic communications” (citing S. Rep. No. 541, 99th Cong., 2d
+Sess. 26-27, reprinted in 1986 U.S.C.C.A.N. 3555, 3580-81)).  
+As amended, § 2520 provides, in pertinent part, that
+any person whose wire, oral, or electronic
+communication is intercepted, disclosed, or
+intentionally used in violation of this
+chapter may in a civil action recover from the
+person or entity which engaged in that
+violation such relief as may be appropriate.
+18 U.S.C. § 2520(a) (Supp. 2000) (emphasis added).  Nevertheless,
+§ 2511(1)(a) continues to proscribe procuring another to intercept
+covered communications.  
+In short, the class of persons who may bring a civil action
+for violation of the Act is the same in both the original and
+amended 
+provisions: 
+ 
+those 
+with 
+covered 
+communications
+“intercepted, disclosed, or used” in violation of the Act.  But,
+those who may be held civilly liable are not the same.  The amended
+provision does not have the “procures any other person” language,
+extending civil liability to “the person or entity which engaged in
+that violation”, 18 U.S.C. § 2520(a) (Supp. 2000) (emphasis added).
+
+16
+And, the referenced “violation” is “intercepted, disclosed, or
+intentionally used”; there is no mention of “procures”.
+“When Congress acts to amend a statute, we presume it intends
+its amendment to have real and substantial effect.”  Stone v.
+I.N.S., 514 U.S. 386, 397 (1995).  The Peavys counter that the
+amendment did not take away an action for procurement, because the
+§ 2520(a) class of potential defendants is broad enough to cover
+persons who violate the Federal Act by procuring another to
+intercept; and the legislative history of the amendment does not
+indicate any intent to eliminate a civil claim for procurement.
+We disagree.  Section 2520(a)’s plain, unambiguous language
+authorizes a civil action by one whose covered “communication is
+intercepted, disclosed, or intentionally used in violation of this
+chapter”, from “the person or entity which engaged in that
+violation”.  18 U.S.C. § 2520(a) (Supp. 2000) (emphasis added).
+“Statutory construction must begin with the language employed by
+Congress and the assumption that the ordinary meaning of that
+language accurately expresses the legislative purpose.”  Park ’N
+Fly, Inc. v. Dollar Park & Fly, Inc., 469 U.S. 189, 194 (1985).
+Restated, we must assume Congress meant what it said in the
+amendment.  Accordingly, “that violation” refers only to illegal
+interception, disclosure, or use, and not to procuring interception
+by another.
+
+17
+This interpretation of § 2520(a) does not render superfluous
+the portion of § 2511(1)(a) prohibiting “procuring”; as noted, that
+proscription can be enforced through, inter alia, a criminal
+proceeding.  See BFP v. Resolution Trust Corp., 511 U.S. 531, 537
+(1994) (“it is generally presumed that Congress acts intentionally
+and purposely when it includes particular language in one section
+of a statute but omits it in another” (brackets, internal quotation
+marks, and citation omitted)).
+Because the plain language of the statute is unambiguous,
+resort to legislative history for its interpretation is not
+necessary.  See Andrews & Kurth L.L.P. v. Family Snacks, Inc.
+(Matter of Pro-Snax Distribs., Inc.), 157 F.3d 414, 425 (5th Cir.
+1998).  Moreover, even if the legislative history is silent
+regarding Congress’ intent, in the 1986 amendment, to take away a
+civil action for procurement, that silence does not make the
+amended statute ambiguous.  If Congress intended to retain the
+action, it failed to express that intent.  See id. (where language
+in statute was deleted in amendment, absence of legislative history
+did not render statute ambiguous; even if Congress intended to
+leave language intact, such intent was not reflected in
+unambiguous, amended statute). 
+Obviously, if Congress did not intend to delete a civil
+procurement action, it can amend § 2520(a).  But, it goes without
+
+18
+saying that we cannot do so.  The federal procurement claim was
+properly dismissed.
+c.
+But, even though there is no federal civil liability for
+“procurement”, such activity, as noted, is nevertheless unlawful,
+pursuant to § 2511(1)(a).  Accordingly, it may well be that
+procurement vel non remains an issue for trial.  For example, for
+damages purposes, procurement vel non may bear on the extent of
+defendants’ knowledge of the Harmans’ illegal interceptions.
+The following section concerning the Peavys’ “obtains” claim
+under the Texas Act is intertwined with procurement vel non under
+the Federal Act.  For the reasons stated in that section, we hold,
+contrary to the district court, that there is a material fact issue
+on procurement.
+3.
+For the Texas Act, the Peavys contend they are entitled to
+judgment as a matter of law, or, in the alternative, there is at
+least a material fact issue, on whether defendants “obtained” the
+Harmans’ interception of the Peavys’ conversations, by encouraging
+them to intercept calls, instructing them on recording techniques,
+requesting and picking up tapes of recorded conversations from
+them, and promising to expose Peavy’s wrongdoing.  Defendants
+respond that their association with the Harmans and receipt of the
+
+19
+tapes does not constitute “obtaining” the Harmans to make the
+interceptions. 
+a.
+The Texas Act does not define “obtains”; similarly, the
+parties did not cite, nor did we find, any Texas cases interpreting
+that term for purposes of the Act.  The parties’ briefs focus
+primarily on federal “procurement”.  According to the Peavys,
+“obtain” has essentially the same meaning as “procure”.  Defendants
+apparently agree:  they maintain the evidence and authorities cited
+in their discussion of the federal procurement claim also
+demonstrate they did not “obtain” the Harmans’ interceptions in
+violation of the Texas Act. 
+The Peavys cite the BLACK’S LAW DICTIONARY definition of “obtain”:
+“to get hold of by effort; to get possession of; to procure; to
+acquire, in any way”.  BLACK’S LAW DICTIONARY 1228 (rev. 4th ed., West
+1968) (emphasis added).  The Seventh Edition of BLACK’S contains no
+definition of the term.  Webster defines it as “to gain or attain
+possession or disposal of usu[ally] by some planned action or
+method” or “to bring about or call into being”.  WEBSTER’S THIRD NEW
+INTERNATIONAL DICTIONARY (UNABRIDGED) 1559 (1986).  See also THE NEW SHORTER
+OXFORD ENGLISH DICTIONARY 1970 (1993) (“Come into the possession or
+enjoyment of; secure or gain as the result of request or effort;
+acquire, get.”).
+
+20
+The Texas Court of Appeals has stated:  “In the absence of a
+statutory definition, statutory language is measured by common
+understanding and practices”.  Reeves v. State, 969 S.W.2d 471, 487
+(Tex. App. — Waco 1998), cert. denied, ___ U.S. ___, 119 S. Ct.
+1462 (1999); see also Carroll v. State, 911 S.W.2d 210, 220 (Tex.
+App. — Austin 1995) (“[i]n the absence of special definitions,
+statutory language can be measured by common understanding and
+practices or construed in the sense generally understood”).
+Carroll, 911 S.W.2d at 220, relied on dictionary definitions
+of “obtain” when construing the Texas statutory exclusionary rule,
+TEX. CODE CRIM. P. ANN. art. 38.23(a) (prohibiting admission at trial
+against accused in criminal case of evidence “obtained” in
+violation of federal or Texas law (emphasis added)).  See Reeves,
+969 S.W.2d at 487 (construing art. 38.23 and stating that “‘obtain’
+means to gain or attain by planned action or effort” (citing State
+v. Daugherty, 931 S.W.2d 268, 270-71 (Tex. Crim. App. 1996)));
+Ferguson v. State, 699 S.W.2d 381, 386 (Tex. App. — Fort Worth
+1985) (citing dictionary definitions in concluding that, although
+robbery statute uses term “obtain”, trial court’s use of terms
+“appropriate” and “acquire”, rather than “obtain”, in jury charge
+was not error).
+The Peavys contend “obtain” does not require any “active
+participation” in the interception, but only knowing participation
+in the overall scheme by which the communications were intercepted.
+
+21
+They maintain it is enough to knowingly condone another’s
+interceptions and advise him concerning them; or to implicitly
+encourage the interception by using the information for the
+interceptor’s benefit.
+In this regard, they urge applying the definition of aiding
+and abetting applied by the Supreme Court in Nye & Nissen v. United
+States, 336 U.S. 613 (1949), cited in the legislative history of
+the Federal Wiretap Act.  See S. Rep. No. 90-1097, 90th Cong., 2d
+Sess., reprinted in 1968 U.S.C.C.A.N. 2112, 2181.  In Nye, “aid and
+abet” was defined to mean “that a defendant in some sort associate
+himself with the venture, that he participate in it as in something
+that he wishes to bring about, that he seek by his action to make
+it succeed”.  Id. at 619 (internal quotation marks and citation
+omitted).
+Defendants respond that the Federal Act’s legislative history
+does not discuss or cite any particular language in Nye with
+approval, and does not equate “procure” with “aid and abet”.  They
+urge that “procure” (and, presumably, “obtain” for Texas Act
+purposes) means “actively bringing about, causing or instigating
+something to be done”.  Alternatively, they claim that, under the
+definition relied on by the Peavys, their conduct does not
+constitute “aiding and abetting” the interceptions. 
+Defendants assert there is no evidence they caused,
+instigated, or enlisted Harman to make the interceptions, or
+
+22
+participated in, or encouraged, them.  They note his interceptions
+started before Riggs contacted them, and continued after they
+stopped accepting tapes from him.
+The summary judgment record contains the following evidence
+pertinent to this “obtains”, as well as the “procures”, claim.  The
+Harmans acquired the scanner and, prior to contacting WFAA or
+meeting with Riggs, began intercepting and recording the Peavys’
+telephone conversations.  Defendants never provided Harman with
+equipment to assist in that.
+The Harmans called WFAA and met with Riggs, because they were
+frustrated with the lack of action by law enforcement authorities
+to whom they had reported Peavy’s conduct, and wanted it
+investigated and exposed. 
+When the Harmans asked Riggs whether he wanted a copy of the
+tape listened to at their initial meeting, and any future tapes
+they might make, he replied that he did.  Riggs instructed Harman
+not to turn the recorder on and off while listening to the
+intercepted conversations, and not to edit the tapes, to prevent
+authenticity challenges.
+As the Harmans made additional tapes, they called Riggs and
+told him.  Occasionally, he telephoned the Harmans to ask if
+additional tapes were available.  Riggs testified in his
+deposition:  he was very interested in obtaining any additional
+
+23
+information to further his investigation of Peavy; and he asked
+Harman to keep him aware of whatever else he was hearing. 
+Either Riggs or Ward picked up the tapes from the Harmans.
+Harman testified in his deposition:  when Riggs came to pick up
+tapes, he would listen to them at the Harmans’ home; he told Harman
+he would “look into” the contents of the tapes; and later told
+Harman he was “finding more stuff” based on such contents. 
+According to Mrs. Harman, Riggs and Harman, after their
+initial meeting, had “a lot” of telephone conversations.  After the
+Harmans learned recording the conversations was illegal and WFAA
+informed them it would not accept additional tapes, they continued
+intercepting the Peavys’ conversations, and continued telephone
+contact with Riggs.  Riggs also met with the Harmans in their home
+after they learned of the illegality. 
+On 1 March 1995, after Watler told Riggs, Miller, and Ward
+they could not accept additional tapes, Riggs called Harman and
+recorded their conversation, without Harman’s knowledge.  In that
+conversation, Riggs discussed the progress defendants had made on
+the story and assured Harman repeatedly that he and WFAA were going
+to continue working on the story. 
+Viewing this evidence in the light most favorable to the
+Peavys, we conclude that, although they are not entitled to summary
+judgment on this point, neither are defendants.  Construing
+“obtains” in the sense generally understood (gain or attain by
+
+24
+planned action or effort), a reasonable jury could find that, with
+the exception of the interceptions made by the Harmans prior to
+their contacting WFAA and Riggs, and possibly the interceptions
+made after Riggs informed Harman that WFAA would not accept
+additional 
+tapes, 
+defendants’ 
+interim 
+conduct 
+constituted
+“obtaining” the Harmans to intercept the Peavys’ conversations, in
+violation of the Texas Act (as well as “procuring” them in
+violation of the Federal Act).  
+At the very least, to the extent Riggs’ instructions regarding
+recording entire conversations caused the Harmans to intercept and
+record portions of conversations they otherwise would not have
+intercepted and recorded, a reasonable jury could conclude Riggs
+“obtained” (or “procured”) the Harmans’ interception of those
+discrete portions.
+A reasonable jury also could conclude that defendants’
+willingness to pursue the investigation and exposure of Peavy’s
+alleged wrongdoing — the purpose for which the Harmans contacted
+WFAA — encouraged the Harmans to continue intercepting, and
+recording, the Peavys’ conversations, even if it was not the sole
+motivation for their doing so.
+b.
+Another of defendants’ assertions about federal “procurement”
+appears to bear on the Peavys’ Texas “obtains” claim.  In a
+footnote to their contention there is no “procurement” action,
+
+25
+defendants conclusorily assert:  “if procurement is construed as
+broadly as [the Peavys] would have it, the ... provision also would
+be unconstitutional as applied ... and on its face”.  They cross-
+reference their contentions that the First Amendment shields them
+from liability for proscribed “use” and “disclosure”.
+Obviously, assuming defendants intend this to apply to the
+“obtains” claim, it is not adequately briefed.  In any event, it is
+without merit.  Defendants have essentially conceded the First
+Amendment would not bar an action against them for interception.
+There is no basis for distinguishing, for First Amendment purposes,
+between a person intercepting, on the one hand, and obtaining it
+through someone else, on the other. 
+B.
+For their state law civil conspiracy claim, and relying on the
+same evidence supporting their “obtains” claim, the Peavys contend
+they are entitled to summary judgment, or, in the alternative,
+there is at least a material fact issue whether defendants
+conspired with the Harmans to intercept the conversations.  Summary
+judgment was granted defendants on the ground there was no evidence
+of conspiracy — that defendants believed in good faith their
+activities were lawful.  Peavy, 37 F. Supp. 2d at 524-25.
+1.
+The Peavys contend ignorance or mistake of law is not a
+defense to civil conspiracy, so it is irrelevant whether defendants
+
+26
+knew their actions violated the Texas Act.  Defendants counter
+that, because civil conspiracy requires proof of specific intent,
+the Peavys must prove:  (1) Riggs knew his conduct was unlawful
+(they claim undisputed evidence establishes the contrary); and (2)
+Riggs entered into an agreement specifically intending to injure
+the Peavys (they claim there is no evidence of such an agreement).
+Civil conspiracy under Texas law is “a combination by two or
+more persons to accomplish an unlawful purpose or to accomplish a
+lawful purpose by unlawful means”.  Schlumberger Well Surveying
+Corp. v. Nortex Oil & Gas Corp., 435 S.W.2d 854, 856 (Tex. 1968)
+(internal quotation marks and citations omitted).  “The essential
+elements are:  (1) two or more persons; (2) an object to be
+accomplished; (3) a meeting of minds on the object or course of
+action; (4) one or more unlawful, overt acts; and (5) damages as
+the proximate result”.  Massey v. Armco Steel Co., 652 S.W.2d 932,
+934 (Tex. 1983).  Not at issue are the first, fourth, and fifth
+elements. 
+In Texas, “civil conspiracy requires specific intent”.
+Triplex Communications, Inc. v. Riley, 900 S.W.2d 716, 719 (Tex.
+1995).  Proof that a defendant “intend[ed] to engage in the conduct
+that resulted in the injury” is insufficient.  Id.  Instead, “[f]or
+a civil conspiracy to arise, the parties must be aware of the harm
+or wrongful conduct at the inception of the combination or
+agreement”.  Id.  “One without knowledge of the object and purpose
+
+27
+of a conspiracy cannot be a co-conspirator; he cannot agree, either
+expressly or tacitly, to the commission of a wrong which he knows
+not of”.  Schlumberger, 435 S.W.2d at 856.  “And, of course, one
+without knowledge of a conspiratorial plan or scheme to injure
+another by the commission of a particular wrong cannot share the
+intent to injure such other”.  Id. at 857.
+Based on the evidence discussed supra, a reasonable jury could
+find that defendants and the Harmans agreed to accomplish a lawful
+purpose (investigation and exposure of Peavy’s alleged wrongdoing),
+but undertook to do so, at least in part, by unlawful means
+(proscribed 
+interception, 
+use, 
+and 
+disclosure 
+of 
+Peavys’
+conversations).  It is undisputed that, from the inception of their
+association, Riggs knew the Harmans had intercepted and recorded
+the Peavys’ conversations without the knowledge of any of the
+parties to them.
+Thus, defendants were aware of the Harmans’ wrongful conduct.
+None of the cases cited by defendants supports their contention
+that Texas law requires additional proof they knew about the
+provisions that made such conduct illegal.  Moreover, Glenn H.
+McCarthy, Inc. v. Knox, 186 S.W.2d 832, 838 (Tex. App. – Galveston
+1945), rejects such a contention:
+Though 
+defendants did 
+not 
+know 
+of the
+illegality of the agreement, the purpose of
+the conspiracy is to be determined ordinarily
+by the quality of the acts to be performed
+under it....  It is therefore not a necessary
+
+28
+element that a party have knowledge of the
+illegality 
+of 
+the 
+end 
+which 
+would 
+be
+accomplished thereby.
+Id. at 838.
+Once again, while the Peavys are not entitled to summary
+judgment on this claim, neither are defendants.  A reasonable jury
+could find the requisite “meeting of the minds” based on the
+following evidence:  Riggs, knowing the circumstances under which
+the calls were intercepted, agreed to accept, from the Harmans,
+tapes of the interceptions and conduct an investigation of the
+contents in an effort to expose Peavy’s alleged wrongdoing, which
+Harman admitted was the purpose for his contacting WFAA and meeting
+with Riggs; and Riggs instructed Harman to record entire
+conversations, and to not edit tapes.
+2.
+Alternatively, defendants contend conspiracy liability would
+violate their First Amendment protections.  This contention is
+inadequately briefed.  In any event, we reject it for the same
+reasons we rejected their contention that the First Amendment
+precludes holding them liable, under the Texas Act, for “obtaining”
+the interceptions.
+C.
+Defendants’ cross-appeal challenges the holding they violated
+the “use” and “disclosure” provisions of the Federal and Texas
+Acts.  They maintain they are entitled to summary judgment on this
+
+29
+issue, or, in the alternative, that there is a material fact issue,
+precluding judgment as a matter of law on this point for the
+Peavys.
+This issue is addressed prior to considering the presented
+First Amendment issues because, obviously, we need not reach them
+if defendants did not violate these provisions.  See, e.g., County
+Court of Ulster County, N.Y. v. Allen, 442 U.S. 140, 154 (1979)
+(court has “strong duty to avoid constitutional issues that need
+not be resolved in order to determine the rights of the parties to
+the case under consideration”).
+The Federal Act permits a civil action against “any person”
+who “intentionally” discloses to another person or uses “the
+contents of any [covered] communication, knowing or having reason
+to know that the information was obtained through the interception
+of [a covered] communication in violation of this subsection”.  18
+U.S.C. § 2511(1)(c) and (d).  The Act defines “contents” as
+including “any information concerning the substance, purport, or
+meaning of that ... communication”.  18 U.S.C. § 2510(8).
+Similarly, the Texas Act provides:  “A party to a communication may
+sue a person who ... uses or divulges information that he knows or
+reasonably should know was obtained by interception of the
+communication”.  TEX. CIV. PRAC. & REM. CODE § 123.002(a)(2) (emphasis
+added).  For our purposes, “disclose” under the Federal Act and
+“divulge” under the  Texas Act are considered equivalent.  
+
+30
+The district court held defendants violated the Acts by
+“using” the contents of the illegally intercepted conversations to
+analyze, compile, make notes, and develop leads; and by
+“disclosing” those contents in their television broadcasts and to
+other persons.  Peavy, 37 F. Supp. 2d at 514-15.  On a multitude of
+grounds, 
+defendants 
+challenge 
+these 
+“used-and-disclosed”
+conclusions.
+1.
+a.
+First, 
+defendants 
+contend 
+that, 
+in 
+their 
+television
+broadcasts, they did not use or disclose the tapes’ contents,
+because the broadcasts were based entirely on sources independent
+of the tapes, and those sources “attenuated” the taint of the
+interceptions.  Defendants maintain they should not be forever
+barred from investigating all topics discussed in the intercepted
+conversations merely because they first learned of those topics as
+a result of the interceptions.
+The “attenuation doctrine” was developed in Fourth Amendment
+jurisprudence, for criminal cases, as an exception to the
+exclusionary rule.  See Wong Sun v. United States, 371 U.S. 471,
+485-88 (1963).  That rule generally prohibits admission of evidence
+obtained “during or as a direct result” of a search or seizure in
+violation of the Fourth Amendment.  Id. at 485.  But, under the
+attenuation doctrine, such evidence may be admissible if “the
+
+31
+connection between the lawless conduct of the police and the
+discovery of the challenged evidence has become so attenuated as to
+dissipate the taint”.  United States v. Ceccolini, 435 U.S. 268,
+274 (1978) (internal quotation marks and citation omitted).
+In correctly rejecting defendants’ reliance on this doctrine,
+the district court stated:  “The fact that Riggs later obtained the
+same information from independent sources” was irrelevant, Peavy,
+37 F. Supp. 2d at 514, because “the exclusionary rule does not
+excuse a substantive violation of the law”.  Id. at 514 n.17.
+Defendants’ reliance on cases addressing the suppression of
+wiretap evidence under the Federal Act exclusionary rule, § 2515
+(if communication intercepted, contents and evidence derived
+therefrom may not be received in evidence if such disclosure would
+violate Act), is misplaced in the context of whether defendants are
+liable for “use” and “disclosure”.  E.g., United States v. Smith,
+155 F.3d 1051, 1059-63 (9th Cir. 1998) (applying attenuation
+doctrine in resolving § 2515 suppression issue), cert. denied, 525
+U.S. 1071 (1999); United States v. Baranek, 903 F.2d 1068, 1072
+(6th Cir. 1990) (applying Fourth Amendment principles to resolve §
+2515 suppression issues).
+b.
+We reject Defendants’ claim that their television broadcasts
+did not constitute “disclosure” because much of the information in
+them was provided a week earlier in a television broadcast by
+
+32
+another station.  Defendants’ broadcasts included substantial
+information not broadcast by the other station.  For example, the
+other broadcast did not refer to Peavy’s plan to sell insurance to
+an entity other than DISD.  Moreover, this contention is
+inconsistent 
+with 
+defendants’ 
+television 
+broadcasts, 
+which
+frequently touted the exclusivity of their reporting and
+investigation.
+c.
+Nevertheless, we conclude there is a material fact issue
+whether, in their television broadcasts, defendants intentionally
+disclosed the contents of the illegal interceptions.  As discussed
+infra, this is independent of “use” liability.
+Defendants did not play interception-tapes in their television
+broadcasts.  Although the record contains considerable evidence
+that their entire investigation of Peavy and DISD insurance would
+not have occurred but for those tapes, and that some of the topics
+covered in their broadcasts were initially derived from them, that
+evidence is not uncontradicted.  There is also considerable
+evidence of their extensive investigation, and their reliance on
+sources independent of the intercepted contents for the material
+reported in those broadcasts.
+Therefore, a reasonable jury could conclude that, in their
+television broadcasts, defendants did not intentionally disclose
+
+33
+the intercepted contents, but instead disclosed information
+obtained from sources independent of them.
+Again, this point concerns only whether, in their television
+broadcasts, 
+defendants 
+intentionally 
+disclosed 
+intercepted
+contents, not whether they used the contents in their investigation
+or otherwise made other types of disclosures of those contents.  As
+discussed infra, the Wiretap Acts restrict the publication of
+information based solely on the means by which it was acquired.
+Accordingly, the Acts do not prohibit disclosure of information
+that might be contained in illegal interceptions, so long as such
+disclosed information is acquired by other, non-prohibited means.
+Therefore, if a jury finds defendants’ television broadcasts
+reported information obtained from sources independent of the
+tapes, defendants would not be liable, under the Wiretap Acts, for
+disclosing such information in their television broadcasts, even if
+the information so disclosed was also included in the contents of
+those intercepted communications.
+This distinction between “use” and “disclosure” gives effect
+to both provisions, and does not undermine their purposes.
+Prohibiting liability for disclosure, where it is based on sources
+independent of interceptions, does not create a market for the
+contents of interceptions.  This is because, as noted, the person
+making such disclosure still remains subject to punishment under
+
+34
+the Acts’ “use” provisions, if, for example, the intercepted
+communications are used to obtain such independent sources.
+Accordingly, the district court erred in holding as a matter
+of 
+law 
+that, 
+in 
+their 
+television 
+broadcasts, 
+defendants
+intentionally disclosed the contents of the Peavys’ conversations.
+2.
+Regarding defendants’ “use”, as well as their “disclosure” by
+means other than through a television broadcast, defendants claim,
+on five bases, exceptions, as a matter of law, to liability:  (a)
+newsgathering; (b) internal disclosure to corporate agents; (c)
+common-interest privilege; (d) disclosure to attorney for legal
+advice; and (e) disclosure to law enforcement officials.
+a.
+Defendants maintain “use” and “disclosure”, during their
+investigation and newsgathering, is not proscribed.  They do not
+deny that they used and, in a non-broadcast context, disclosed the
+contents of the interceptions.  Instead, they assert the court’s
+broad 
+interpretations 
+of “use” 
+and “disclosure” 
+seriously
+jeopardize vital First Amendment interests; and, to preserve them,
+we should construe the terms narrowly and conclude that exploring
+leads from lawfully obtained information is not proscribed “use” or
+“disclosure”.
+The only case cited in support is United States v. Smith:  “A
+lead ... is simply not enough to taint an entire investigation”.
+
+35
+155 F.3d at 1063.  As discussed supra, Smith is a criminal case in
+which Fourth Amendment principles were applied in discussing
+suppression under § 2515, the statutory exclusionary rule.  It
+offers no support for defendants’ narrow construction of “use” and
+“disclosure”.  Defendants’ First Amendment contentions are
+addressed infra.
+b.
+Defendants contend disclosures to WFAA employees of the
+contents of the interceptions are not actionable because a
+corporation cannot disclose information to itself.  They maintain
+this principle also applies to disclosures to their attorney,
+Watler, and to the person who transcribed portions of the
+interceptions, because both acted as WFAA’s agents.
+Defendants cite no authority for holding intra-organization
+disclosures are not violative of the Wiretap Acts.  The Acts
+authorize certain specified disclosures.  Such exceptions do not
+include the types made by defendants.  See 18 U.S.C. § 2517(1)
+(authorizing disclosure by “[a]ny investigative or law enforcement
+officer who, by any means authorized by this chapter, has obtained
+knowledge of the contents of any [covered] communication or
+evidence derived therefrom” to “another investigative or law
+enforcement officer to the extent that such disclosure is
+appropriate to the proper performance of the official duties of the
+officer making or receiving the disclosure”); 18 U.S.C. § 2517(3)
+
+36
+(authorizing disclosure by “[a]ny person who has received, by any
+means authorized by this chapter, any information concerning a
+[covered] communication, or evidence derived therefrom intercepted
+in accordance with the provisions of this chapter ... while giving
+testimony under oath or affirmation in any proceeding held under
+the authority of the United States or of any State or political
+subdivision thereof”); TEX. CIV. PRAC. & REM. CODE § 123.003(a)
+(authorizing disclosure by “switchboard operator or an officer,
+employee, or agent of a communication common carrier whose
+facilities are used in the transmission of a wire communication ...
+in the normal course of employment if engaged in an activity that
+is necessary to service or for the protection of the carrier’s
+rights or property”).
+Accordingly, such use and disclosure, during defendants’
+investigation and newsgathering, are proscribed by the Federal and
+Texas Acts.
+c.
+Defendants also maintain disclosures to WFAA employees and
+agents are protected by a “common interest” privilege.  That
+privilege, applicable in defamation cases, “attaches to statements
+which occur under circumstances wherein any one of several persons
+having a common interest in a particular subject matter may
+reasonably believe that facts exist which another, sharing that
+common interest, is entitled to know”.  Gaines v. CUNA Mut. Ins.
+
+37
+Soc’y, 681 F.2d 982, 986 (5th Cir. 1982) (citing case applying
+Texas law).
+Defendants acknowledge, however, that this privilege has not
+been applied in cases involving the Wiretap Acts.  This issue,
+raised in a footnote, is not adequately briefed.  In any event, for
+purposes of this case, the privilege is not available.  Neither Act
+authorizes disclosure in such circumstances.  See 18 U.S.C. §
+2517(1) and (3); TEX. CIV. PRAC. & REM. CODE § 123.003(a).
+d.
+Defendants contend that disclosure to their attorney, Watler,
+is not actionable, because they consulted him for legal advice.
+They rely on Nix v. O’Malley, 160 F.3d 343 (6th Cir. 1998), which
+recognized an implied “defense exception” to disclosure liability,
+pursuant to which the defendant had a privilege to disclose
+contents of an interception to his attorneys “to assist in the
+defense of the claims made against him”.  Id. at 351 (internal
+quotation marks omitted).  The Sixth Circuit cited with approval
+McQuade v. Michael Gassner Mechanical & Elec. Contractors, Inc.,
+587 F. Supp. 1183 (D. Conn. 1984), in which that court stated:
+To deny defendants’ counsel any possibility of
+investigating or rebutting the allegations on
+which [a] claim for punitive damages is based,
+or of discussing the contents of the tapes
+with their clients in the course of preparing
+a defense of [a] lawsuit, would be to convert
+the allegations of the complaint into a
+judgment.
+
+38
+587 F. Supp. at 1190.
+Defendants’ reliance on these cases is misplaced; their
+“disclosures” to Watler were not made for the purpose of defending
+against Wiretap Act claims.  Instead, they were made after he
+advised them (erroneously) that the Federal Act did not apply to
+cordless telephone communications.  
+There was no need for defendants to make the “disclosures” to
+Watler in order to obtain his legal advice on whether the Wiretap
+Acts proscribed such interception.  And, there is no evidence that,
+at that time, defendants or Watler contemplated the possibility of
+civil actions against defendants under the Federal or Texas Acts.
+In fact, the record does not indicate Watler was even aware of the
+existence of the Texas Act; it does not reflect that he ever
+advised defendants about it.
+e.
+(1)
+Defendants 
+claim 
+Riggs’ 
+“disclosures” to 
+federal 
+law
+enforcement authorities and the Dallas Police Department do not
+provide a basis for liability because those agents were already
+aware of the contents of the communications at the time Riggs
+discussed his investigation with them.  The record does not support
+this contention.
+In his deposition, Riggs admitted that ATF Agent Curtiss did
+not already know about the tapes before Riggs described their
+
+39
+contents to him.  And, he testified that, prior to their
+conversation, Dallas Police Detective Storey, to whom he also
+disclosed the contents of the communications, did not seem to know
+about them.
+(2)
+Alternatively, defendants contend Riggs’ “disclosures” to law
+enforcement officials were protected by a qualified privilege to
+report crimes.  As stated supra, the Federal and Texas Acts
+authorize “disclosure” only in specified, limited circumstances,
+none of which include the “disclosures” made by Riggs.
+In Rodgers v. Wood, 910 F.2d 444 (7th Cir. 1990), the court
+rejected a similar privilege claim, holding that the Federal Act
+provides “no support for recognizing [an] exception for the common
+law privileges protecting statements made to law enforcement agents
+in furtherance of criminal investigations”.  Id. at 447. 
+The very nature of the Act is to impose
+limitations on the effectiveness of law
+enforcement 
+agents 
+in 
+the 
+interests 
+of
+protecting the privacy of citizens....  The
+Act represents Congress’s careful balancing
+between the interests of the enforcement of
+criminal laws and the assurance of privacy in
+oral and wire communications.  To recognize a
+common law privilege as [defendant] suggests
+would upset that balance.
+Id.
+3.
+The Federal Act prohibits “intentionally” using or disclosing
+the contents of covered communications, “knowing or having reason
+
+40
+to know that the information was obtained through the interception”
+of such a communication in violation of the Act.  18 U.S.C. §
+2511(1)(c) and (d) (emphasis added).  Under the Texas Act, “a
+person who ... uses or divulges information that he knows or
+reasonably should know was obtained by interception of the
+communication” may be civilly liable.  TEX. CIV. PRAC. & REM. CODE §
+123.002(2) (emphasis added).
+Defendants assert that, in their “uses” and “disclosures”,
+they did not act “intentionally”, as required for liability,
+because, in good faith reliance on the advice of law enforcement
+officials and legal counsel, they did not know, or have reason to
+know, the conversations were intercepted illegally.  They insist
+they are not claiming “mistake of law”, in which a defendant
+asserts that his subjective, good faith belief in the lawfulness of
+his conduct excuses a violation of the law.  Instead, they contend
+their state of mind as to the legality of their conduct bears
+directly on whether they acted “intentionally”.
+The district court rejected that contention, relying on our
+court’s having “implicitly rejected a good faith defense”, Peavy,
+37 F. Supp. 2d at 511, in Forsyth, 19 F.3d at 1538 n.21 (knowledge
+element for use and disclosure liability requires proof defendant
+knew “1) the information used or disclosed came from an intercepted
+communication, and 2) sufficient facts concerning the circumstances
+of the interception such that the defendant could, with presumed
+
+41
+knowledge of the law, determine that the interception was
+prohibited in light of [the Act]” (quoting Thompson v. Dulaney, 970
+F.2d 744, 749 (10th Cir. 1992))).  Peavy, 37 F. Supp. 2d at 511.
+Defendants rely on United States v. Schilleci, 545 F.2d 519
+(5th Cir. 1977), to support their contention that the Federal Act
+requires proof of specific intent:  that defendants acted
+intentionally with the knowledge their conduct violated the Act.
+But, as the district court noted, the criminal defendant in
+Schilleci was charged with conspiracy to intercept wire and oral
+communications; and conspiracy is a specific intent crime.  Peavy,
+37 F. Supp. at 511 n.14.
+It is undisputed defendants knew that the information they
+used and disclosed came from interceptions.  It is also undisputed
+they were aware of sufficient facts concerning the circumstances of
+those interceptions such that they could, with presumed knowledge
+of the law, determine the interceptions were prohibited by law.
+Defendants contend, however, that the presumption they acted with
+knowledge of the law was overcome by proof of erroneous legal
+advice and reasonable reliance on the Harmans’ statements that law
+enforcement officials had told them the interception and recording
+were legal.  They maintain such reliance negates the mental state
+required for liability.
+Despite their insistence to the contrary, acceptance of
+defendants’ contentions would constitute recognition of an
+
+42
+ignorance or mistake of law defense to Federal and Texas Wiretap
+Act liability.  As the district court noted, our court, at least
+implicitly, rejected such a defense in Forsyth; and it has been
+rejected by numerous other courts.  E.g., Reynolds v. Spears, 93
+F.3d 428, 435-36 (8th Cir. 1996) (defendant’s reliance on incorrect
+advice from law enforcement officer not defense to liability under
+Federal Act); Williams v. Poulos, 11 F.3d 271, 285 (1st Cir. 1993)
+(rejecting good faith defense where defendant mistakenly believed
+use and disclosure authorized by statute); Thompson v. Dulaney, 970
+F.2d 744, 749 (10th Cir. 1992) (“defendant may be presumed to know
+the law”); Heggy v. Heggy, 944 F.2d 1537, 1541 (10th Cir. 1991)
+(rejecting “good faith” defense to Federal Act liability based upon
+mistake of law), cert. denied, 503 U.S. 951 (1992); United States
+v. McIntyre, 582 F.2d 1221, 1224-25 (9th Cir. 1978) (rejecting
+contention interception not “willful” because defendants believed
+in good 
+faith, 
+based 
+on advice from a law enforcement
+communications technician, that their conduct was legitimate). 
+We join those courts and reject an ignorance or mistake of law
+defense for disclosure or other use of communications illegally
+intercepted in violation of § 2511(1)(c) and (d) of the Federal Act
+and § 123.002(2) of the Texas Act.  Based on the existence of the
+Acts and their knowledge of the circumstances of the Harmans’
+interception, defendants, at a minimum, had reason to know the
+
+43
+interceptions were illegal.  They used and disclosed the contents
+of those interceptions purposefully, not inadvertently.
+4.
+Remaining are three “use” and “disclosure” issues:  two raised
+by defendants; one, by the Peavys.  We do not consider any of them,
+because they were not raised in the parties’ opening briefs.  E.g.,
+United States v. Jackson, 50 F.3d 1335, 1340 n.7 (5th Cir. 1995)
+(“It is well-settled that, generally, we will not consider issues
+raised for the first time in a reply brief.”).
+Defendants contend, for the first time in their reply brief,
+that “use” and “disclosure” damages are not permissible without
+proof of actual malice under the standard from New York Times Co.
+v. Sullivan, 376 U.S. 254, 279-80 (1964); and that, because the
+majority of the Peavys’ “use” and “disclosure” allegations were
+untimely, we should reverse the district court’s “use” and
+“disclosure” holding.  (Moreover, the untimeliness issue is not
+adequately briefed.  And, assuming it has any validity, it would
+seem to be a matter for the district court’s consideration for
+trial.)
+Likewise, in their brief as cross-appellees, rather than in
+their opening brief, the Peavys challenge the district court’s
+holding that listening to tapes, and reading transcripts, of
+interceptions was not a prohibited “use”.  (Moreover, as cross-
+appellees on this issue, they cannot seek to enlarge their rights
+
+44
+under the district court’s decision.  See Laker v. Vallette (Matter
+of Toyota of Jefferson, Inc.), 14 F.3d 1088, 1090 n.1 (5th Cir.
+1994).)
+D.
+Despite holding that defendants “used” and “disclosed” the
+interceptions in violation of the Wiretap Acts, based, in part, on
+concluding, as required by the Acts, that defendants knew, or had
+reason to know, the interceptions were in violation of the Acts,
+the district court nevertheless granted summary judgment for
+defendants on the use and disclosure claims, on the ground that
+imposition of liability would violate the First Amendment.  Peavy,
+37 F. Supp. 2d at 515-18.  In so doing, it applied the strict
+scrutiny analysis from The Florida Star v. B.J.F., 491 U.S. 524,
+533 (1989).  Peavy, 37 F. Supp. 2d at 515-16.
+One of the key bases underlying this First Amendment holding
+was the court’s conclusion that, although the Harmans intercepted
+illegally, defendants nevertheless “lawfully obtained” the contents
+of those interceptions because they neither participated in them
+nor procured/obtained the Harmans to do so.  Id. at 516-17.
+Therefore, in addressing the as-applied constitutionality of the
+“use” and “disclosure” provisions, the district court did not
+consider defendants’ participation concerning the interceptions,
+such 
+as 
+Riggs 
+advising 
+the 
+Harmans 
+to 
+record 
+complete
+conversations.  But, such participation, even if not rising to the
+
+45
+level of “procuring” or “obtaining” the Harmans to make the
+interceptions, is a factor that must be considered in our de novo
+review of the summary judgment awarded defendants on their claim
+that, on the facts in this case, the “use” and “disclosure”
+provisions are unconstitutional.
+Regarding such participation, there is a material fact issue
+for the Texas “obtains” claim.  And, even though the Peavys cannot
+bring an action/obtain damages if defendants, in violation of the
+Federal Act, “procured” the Harmans to make the interceptions, such
+“procurement” vel non (for which there is also a material fact
+issue) has a bearing on whether the contents of the interceptions
+were lawfully received by defendants.  If not lawfully received,
+this obviously changes the scope of the issue to be addressed for
+this as-applied challenge. 
+Because of the material fact issue on “procure/obtain” and the
+linkage of such conduct to whether defendants “lawfully received”
+the tapes, the as-applied constitutional issue arguably could be
+avoided now, by remanding it for reconsideration by the district
+court at trial.  Three considerations cut against doing so.
+First, as discussed infra, defendants’, especially Riggs’,
+participation concerning the interceptions, together with the other
+factors 
+considered 
+infra, 
+compels 
+our 
+upholding 
+the
+constitutionality of the “use” and “disclosure” provisions of the
+
+46
+Federal and Texas Acts.  In short, further evidence is not needed
+for this issue.
+Second, if we remanded this constitutional issue for trial
+(further evidence), in an attempt to avoid reaching it, our
+reaching it would probably simply be delayed, instead, and at great
+cost in time and expense to the parties and district court.
+Because of the summary judgment posture of this case, such
+avoidance of the constitutional issue at this stage would not be
+prudential.  “The flame is not worth the candle.”
+Third, and related to the second consideration, even if the
+Peavys prevail at trial on their Texas “obtains” claim, that would
+not obviate the necessity of the constitutionality of the “use” and
+“disclosure” provisions being addressed, because, notwithstanding
+whether defendants may be liable for damages for “obtaining”
+another to make the interceptions, in violation of the Texas Act,
+both Acts also authorize separate damages for each “use” or
+“disclosure” violation.  See Fultz v. Gilliam, 942 F.2d 396, 402
+(6th Cir. 1991) (“The text of the [Federal Act] plainly indicates,
+and its purpose necessitates, that a new and discrete cause of
+action accrue ... each time a recording of an unlawfully
+intercepted communication is played to a third party who has not
+yet heard it.”); Bess v. Bess, 929 F.2d 1332, 1334 (8th Cir. 1991)
+(plaintiff awarded damages for each of 12 days of interception, as
+well as additional statutory damages for use of contents).
+
+47
+In this respect, in permitted civil actions for violation of
+the Federal Act, “the court may assess as damages whichever is the
+greater of ... the sum of the actual damages suffered by the
+plaintiff and any profits made by the violator as a result of the
+violation; or ... statutory damages of whichever is the greater of
+$100 a day for each day of violation or $10,000”.  18 U.S.C. §
+2520(c)(2).  Punitive damages, reasonable attorney’s fees, and
+costs are also authorized.  18 U.S.C. § 2520(b).  Likewise, under
+the Texas Act, a person may recover, inter alia, $1,000 statutory
+damages, actual damages in excess of $1,000, punitive damages, and
+reasonable attorney’s fees and costs.  TEX. CIV. PRAC. & REM. CODE §
+123.004.
+Accordingly, the more narrow issue before us is whether, on
+the facts in this case, the First Amendment is violated by the
+Federal and Texas Acts, as applied to the use and disclosure of
+illegally intercepted communications about matters of public
+significance, by persons who:  knew, or had reason to know, the
+communications were intercepted in violation of the Acts; but who
+did not themselves make the interceptions; but who did have
+undisputed participation concerning the interceptions to the extent
+defendants did.
+1.
+a.
+
+48
+Defendants urge the district court was correct in applying
+strict scrutiny and concluding that, absent a government interest
+of the highest order, the First Amendment prohibits punishing the
+media for using and disclosing “lawfully-received”, truthful
+information about matters of public significance.  Therefore,
+defendants claim the “use” and “disclosure” provisions are
+unconstitutional as applied to them. (Their alternative, facial
+challenge to the constitutionality of those provisions, based on
+vagueness and overbreadth, is discussed infra.) 
+Of course, because defendants violated the use/disclosure
+provisions as a matter of law, as well as it being undisputed that
+defendants, especially Riggs, did participate to some extent
+concerning the interceptions, and as well as there being a material
+fact issue whether defendants “procured” or “obtained” the Harmans
+to make the interceptions, it is quite questionable, as discussed
+infra, that defendants “lawfully received” the intercepted
+contents.  In any event, they rely primarily on the Supreme Court’s
+decisions in Landmark Communications, Inc. v. Virginia, 435 U.S.
+829 (1978); Smith v. Daily Mail Publ’g Co., 443 U.S. 97 (1979); and
+Florida Star.
+Landmark concerned a newspaper indicted for violating a
+Virginia statute which proscribed divulging information about
+proceedings before a state judicial review commission authorized to
+hear complaints about judges’ disability or misconduct.  435 U.S.
+
+49
+at 830.  The newspaper accurately reported on an inquiry pending
+before the commission.  Id. at 831.
+The “narrow and limited question presented” was “whether the
+First Amendment permits the criminal punishment of third persons
+who are strangers to the inquiry, including the news media, for
+divulging or publishing truthful information regarding confidential
+proceedings of the [commission]”.  Id. at 837.  The Court held:
+“[T]he publication Virginia seeks to punish under its statute lies
+near the core of the First Amendment, and [Virginia’s] interests
+advanced by the imposition of criminal sanctions are insufficient
+to justify the actual and potential encroachments on freedom of
+speech and of the press which follow therefrom”.  Id. at 838.  
+The Court, however, was not “concerned with the possible
+applicability of the statute to one who secures the information by
+illegal means and thereafter divulges it”.  Id. at 837 (emphasis
+added).  (Again, there are material fact issues whether defendants
+“procured” or “obtained” the Harmans to make the illegal
+interceptions.)
+At issue in Daily Mail was a West Virginia statute which
+singled out newspapers for criminal sanctions if a juvenile
+offender’s name was published without written approval of the
+juvenile court.  443 U.S. at 98.  Through routine monitoring of a
+police radio frequency, two newspapers learned about the shooting
+death 
+of 
+a 
+student, 
+and 
+immediately 
+sent 
+reporters 
+and
+
+1In addition to citing Landmark, the Court cited Cox Broad.
+Corp. v. Cohn, 420 U.S. 469 (1975) (where rape victim’s name became
+known to public through official court records dealing with
+rapist’s trial, damages could not be recovered against newspaper
+for publishing victim’s name in violation of state statute that
+criminalized such publication); and Oklahoma Publ’g Co. v. District
+50
+photographers to the school where the incident occurred.  Id. at
+99.  Reporters there obtained the name of the alleged assailant, a
+minor, from witnesses, the police, and a prosecutor.  Id.  
+Both newspapers were indicted under the statute for publishing
+articles about the incident.  Id. at 99-100.  One did not mention
+the alleged shooter’s name in its first article, published the
+afternoon of the shooting, because of the statute’s prohibition;
+but, both named him in articles published the next day, after at
+least three different radio stations had broadcast his name.  Id.
+at 99-100. 
+The Court concluded that the statute did not satisfy the
+constitutional standards applied in Landmark.  Id. at 102.  “[Our]
+recent decisions demonstrate that state action to punish the
+publication 
+of 
+truthful 
+information 
+seldom 
+can 
+satisfy
+constitutional standards”, id.; and those opinions “suggest
+strongly that if a newspaper lawfully obtains truthful information
+about a matter of public significance then state officials may not
+constitutionally punish publication of the information, absent a
+need to further a state interest of the highest order”.  Id. at 103
+(emphasis added).1
+
+Court, 430 U.S. 308 (1977) (vacating injunction prohibiting news
+media from publishing name or photograph of juvenile, where,
+despite state statute closing juvenile trials to public, judge had
+permitted reporters and other members of public to attend court
+hearing, 
+because 
+state 
+cannot 
+constitutionally 
+restrain
+dissemination of truthful information in public domain).  Daily
+Mail, 443 U.S. at 102-03.  Although those “cases involved
+situations where the government itself provided or made possible
+press access to the information”, id. at 103, the Court said that
+factor was “not controlling”, id., because “[a] free press cannot
+be made to rely solely upon the sufferance of government to supply
+it with information”.  Id. at 104.
+51
+The Court stated that, “even assuming the statute served a
+state interest of the highest order [protecting anonymity of
+juvenile offenders], it does not accomplish its stated purpose”,
+because it applied only to newspapers, and thus did not prevent
+publication by other media.  Id. at 105.  The Court pointed out,
+however:  its holding was “narrow”; and no issue of privacy was
+involved.  Id.
+Florida Star concerned a Florida statute which made it
+unlawful to “print, publish, or broadcast ... [a sex offense
+victim’s name] in any instrument of mass communication”.  491 U.S.
+at 526 (internal quotation marks and citation omitted).  A
+newspaper published a rape victim’s name after obtaining it from a
+publicly released police report.  The newspaper was held liable in
+an action by the victim based on violation of the statute.  Id. at
+526.
+Although the Court ultimately concluded that such imposition
+of damages violated the First Amendment, it refused the newspaper’s
+
+52
+invitation to hold broadly “that the press may never be punished,
+civilly or criminally, for publishing the truth”.  Id. at 531.
+Instead, “the sensitivity and significance of the interests
+presented in clashes between First Amendment and privacy rights
+counsel relying on limited principles that sweep no more broadly
+than the appropriate context of the instant case”.  Id. at 533.
+The principle from Daily Mail was applied:  “[I]f a newspaper
+lawfully obtains truthful information about a matter of public
+significance then state officials may not constitutionally punish
+publication of the information, absent a need to further a state
+interest of the highest order”.  Id. (emphasis added; internal
+quotation marks and citation omitted).  In addition to “the
+overarching public interest, secured by the Constitution, in the
+dissemination of truth”, three additional considerations supported
+“[a]ccording the press the ample protection provided by that
+principle”.  Id. at 534 (internal quotation marks and citation
+omitted).
+First, “because the Daily Mail formulation only protects the
+publication of information which a newspaper has lawfully obtained,
+the government retains ample means of safeguarding significant
+interests upon which publication may impinge”.  Id. at 534
+(emphasis added; internal quotation marks and citation omitted).
+Especially significant for the purposes of the case at hand, the
+Court noted:  “To the extent sensitive information rests in private
+
+53
+hands, the government may under some circumstances forbid its
+nonconsensual acquisition, thereby bringing outside of the Daily
+Mail principle the publication of any information so acquired”.
+Id. (emphasis added). 
+Second, “punishing the press for its dissemination of
+information ... already publicly available is relatively unlikely
+to advance the interests in the service of which the State seeks to
+act”.  Id. at 535 (emphasis added).
+The third, and final, consideration supporting application of
+the Daily Mail principle was the “timidity and self-censorship
+which may result from allowing the media to be punished for
+publishing certain truthful information”.  Id. (internal quotation
+marks and citation omitted).  Such “fear of excessive media self-
+suppression” was applicable to “information released, without
+qualification, by the government”.  Id. at 535-36.
+Applying Daily Mail, the Court held the newspaper could not be
+held civilly liable, because:  (1) it had “lawfully obtained
+truthful information about a matter of public significance”, id.
+(emphasis added; internal quotation marks and citation omitted);
+and (2) although the state’s interests in protecting rape victims’
+privacy and physical safety and encouraging them to report sex
+offenses without fear of exposure are “highly significant
+interests”, 
+imposing 
+liability 
+for 
+publication 
+under 
+the
+circumstances of that case was “too precipitous a means of
+
+54
+advancing” those interests, id. at 537, because (a) the government
+provided the information to the media, which “ma[d]e it especially
+likely that, if liability were to be imposed, self-censorship would
+result”, id. at 538; (b) under the negligence per se standard
+applied by Florida courts, liability follows automatically from
+publication, without “a scienter requirement of any kind ...,
+engendering the perverse result that truthful publications
+challenged pursuant to this cause of action are less protected by
+the First Amendment than even the least protected defamatory
+falsehoods”, id. at 539; and (c) the statute was facially
+underinclusive, because it proscribed publication only by an
+“instrument of mass communication”, but not by other means, id. at
+540.
+The Court stressed the “limited” nature of its holding:
+We do not hold that truthful publication is
+automatically constitutionally protected, or
+that there is no zone of personal privacy
+within which the State may protect the
+individual from intrusion by the press, or
+even that a State may never punish publication
+of the name of a victim of a sexual offense.
+We hold only that where a newspaper publishes
+truthful information which it has lawfully
+obtained, punishment may lawfully be imposed,
+if at all, only when narrowly tailored to a
+state interest of the highest order, and that
+no such interest is satisfactorily served by
+imposing liability ... under the facts of this
+case.
+Id. at 541 (emphasis added).  
+
+55
+Footnote eight, extremely relevant to the case at hand,
+stated:  “The Daily Mail principle does not settle the issue
+whether, in cases where information has been acquired unlawfully by
+a newspaper or by a source, government may ever punish not only the
+unlawful acquisition, but the ensuing publication as well”.  Id. at
+535 n.8 (“unlawfully” emphasized in original; other emphasis
+added).
+b.
+The Peavys and the United States urge that distinctions
+between the Federal and Texas Acts and the statutes at issue in
+Florida Star, Daily Mail, and Landmark make inapplicable the
+analysis applied in those cases.  They rely heavily on the fact
+that those statutes, unlike the Wiretap Acts, restricted speech on
+the basis of content; penalized the disclosure of information
+without imposing any underlying limitation on its acquisition; and,
+in Florida Star, sanctioned the media for publishing information
+provided by the government.
+Pursuant to United States v. O’Brien, 391 U.S. 367 (1968), the
+Peavys and the United States claim the Wiretap Acts are subject
+only to intermediate First Amendment scrutiny, because they are
+content-neutral laws of general applicability, which do not single
+out the media for special burdens, and have only an incidental
+effect on its ability to gather and report the news.  They also
+
+56
+rely on Branzburg v. Hayes, 408 U.S. 665 (1972); and Cohen v.
+Cowles Media Co., 501 U.S. 663 (1991).
+In O’Brien, a person convicted for burning his draft card made
+a 
+First 
+Amendment 
+challenge 
+to 
+a 
+federal 
+statute 
+which
+criminalized, inter alia, such knowing destruction.  391 U.S. at
+370.  The statute was held constitutional, facially and as applied.
+Id. at 372.
+The Court noted that, on its face, the statute did not abridge
+free speech, but instead dealt “with conduct having no connection
+with speech”; and “there is nothing necessarily expressive”
+involved in O’Brien’s conduct.  Id. at 375.  It refused to “accept
+the view that an apparently limitless variety of conduct can be
+labeled ‘speech’ whenever the person engaging in the conduct
+intends thereby to express an idea”.  Id. at 376.  But, even
+assuming “the alleged communicative element in O’Brien’s conduct
+[was] sufficient to bring into play the First Amendment, it [did]
+not necessarily follow that the [card’s] destruction ... is
+constitutionally protected activity”.  Id.
+The statute was held to satisfy the level of scrutiny applied
+when “‘speech’ and ‘nonspeech’ elements are combined in the same
+course of conduct”.  Id. at 376-77.
+[A] government regulation is sufficiently
+justified if it is within the constitutional
+power of the Government; if it furthers an
+important 
+or 
+substantial 
+governmental
+interest; if the governmental interest is
+
+57
+unrelated 
+to 
+the 
+suppression 
+of 
+free
+expression; and if the incidental restriction
+on alleged First Amendment freedoms is no
+greater than is essential to the furtherance
+of that interest.
+Id. at 377.
+At issue in Branzburg was “whether requiring newsmen to appear
+and testify before ... grand juries abridges the freedom of speech
+and press guaranteed by the First Amendment”.  408 U.S. at 667.
+The reporters maintained that, in order to gather news, they often
+had to agree either not to identify the source of published
+information, or to publish only a portion of the facts revealed by
+him.  Id. at 679.
+In holding newsmen could be required to so testify, the Court
+pointed out it was not suggesting “news gathering does not qualify
+for First Amendment protection [, because] without some protection
+for seeking out the news, freedom of the press could be
+eviscerated”.  Id. at 681.  On the other hand, “[i]t is clear that
+the First Amendment does not invalidate every incidental burdening
+of the press that may result from the enforcement of civil or
+criminal statutes of general applicability”.  Id. at 682.
+Similarly, “[i]t has generally been held that the First Amendment
+does not guarantee the press a constitutional right of special
+access to information not available to the public generally”.  Id.
+at 684 (emphasis added).
+
+58
+The Court declined to “grant newsmen a testimonial privilege
+that other citizens do not enjoy”, because it “perceive[d] no basis
+for holding that the public interest in law enforcement and in
+ensuring effective grand jury proceedings is insufficient to
+override the consequential, but uncertain, burden on news gathering
+that is said to result from insisting that reporters, like other
+citizens, respond to relevant questions put to them in the course
+of a valid grand jury investigation”.  Id. at 690-91.
+Of particular interest for the case at hand is this
+observation:
+It would be frivolous to assert ... that the
+First Amendment, in the interest of securing
+news or otherwise, confers a license on either
+the reporter or his news sources to violate
+valid criminal laws.  Although stealing
+documents or private wiretapping could provide
+newsworthy information, neither reporter nor
+source is immune from conviction for such
+conduct, whatever the impact on the flow of
+news....  The Amendment does not reach so far
+as to override the interest of the public in
+ensuring that neither reporter nor source is
+invading the rights of other citizens through
+reprehensible conduct forbidden to all other
+persons.
+Id. at 691-92 (emphasis added).
+Cohen concerned “whether the First Amendment prohibits a
+plaintiff from recovering damages, under state promissory estoppel
+law, for a newspaper’s breach of a promise of confidentiality given
+to the plaintiff in exchange for information”.  501 U.S. at 665.
+
+2For illustrating such generally applicable laws, the
+enforcement of which have incidental effects on the media’s ability
+to gather and report news, Cohen cited the following cases, all but
+two of which concern commercial regulation:  University of Pa. v.
+E.E.O.C., 493 U.S. 182, 201-02 (1990) (must pay non-discriminatory
+taxes); Minneapolis Star & Tribune Co. v. Minnesota Comm’r of
+Revenue, 460 U.S. 575, 581-83 (1983) (same); Zacchini v. Scripps-
+Howard Broad. Co., 433 U.S. 562, 576-79 (1977) (may not publish
+copyrighted material without obeying copyright laws); Branzburg;
+Citizen Publ’g Co. v. United States, 394 U.S. 131, 139 (1969) (may
+not restrain trade in violation of antitrust laws); Oklahoma Press
+Publ’g Co. v. Walling, 327 U.S. 186, 192-93 (1946) (must comply
+with Fair Labor Standards Act); Associated Press v. United States,
+326 U.S. 1 (1945) (may not restrain trade in violation of antitrust
+laws); Murdock v. Pennsylvania, 319 U.S. 105, 112 (1943) (must pay
+non-discriminatory taxes); and Associated Press v. National Labor
+Relations Bd., 301 U.S. 103 (1937) (must comply with National Labor
+Relations Act).
+59
+Holding that it does not, the Court refused to apply the analysis
+used in Landmark, Daily Mail, and Florida Star.  Id. at 668-69.  
+Instead, controlling was “the equally well-established line of
+decisions holding that generally applicable laws do not offend the
+First Amendment simply because their enforcement against the press
+has incidental effects on its ability to gather and report the
+news”.  Id. at 669 (emphasis added).2  The Florida Star line of
+cases was distinguished on the ground that “the truthful
+information sought to be published must have been lawfully
+acquired.  The press may not with impunity break and enter an
+office or dwelling to gather news”.  Id. (emphasis added).
+“It is ... beyond dispute that the publisher of a newspaper
+has no special immunity from the application of general laws [and]
+has no special privilege to invade the rights and liberties of
+
+60
+others.”  Id. at 670 (internal quotation marks and citation
+omitted).  Therefore, “enforcement of such general laws against the
+press is not subject to stricter scrutiny than would be applied to
+enforcement against other persons or organizations”.  Id.
+Minnesota’s doctrine of promissory estoppel was “a law of
+general applicability”, because it did “not target or single out
+the press”, but was “generally applicable to the daily transactions
+of all the citizens of Minnesota”.  Id.  Accordingly, “[t]he First
+Amendment d[id] not forbid its application to the press”.  Id.
+Applying that estoppel doctrine to the newspapers would not
+punish them for publishing lawfully-obtained, truthful information,
+because “compensatory damages are not a form of punishment” and,
+“[i]n any event, ... the characterization of the payment makes no
+difference for First Amendment purposes when the law being applied
+is a general law and does not single out the press”.  Id.
+Florida Star and Daily Mail were distinguished:  “In those
+cases, the State itself defined the content of publications that
+would trigger liability”; in contrast, in Cohen, “[t]he parties
+themselves ... determine[d] the scope of their legal obligations,
+and any restrictions that may be placed on the publication of
+truthful information are self-imposed”.  Id. at 670-71.
+In addition, it was “not at all clear that [the newspaper]
+obtained Cohen’s name ‘lawfully’ ..., at least for purposes of
+publishing it”, because it obtained it “only by making a promise
+
+61
+... [it] did not honor”.  Id. at 671 (emphasis added).  The
+dissenting opinions’ suggestion “that the press should not be
+subject to any law ... which in any fashion or to any degree limits
+or restricts the press’ right to report truthful information” was
+rejected, because “[t]he First Amendment does not grant the press
+such limitless protection”.  Id.
+Cohen concluded that, if permitting a promissory estoppel
+claim had the effect of “inhibit[ing] truthful reporting because
+news organizations will have legal incentives not to disclose a
+confidential source’s identity even when that person’s identity is
+itself newsworthy”, then it was “no more than the incidental, and
+constitutionally insignificant, consequence of applying to the
+press a generally applicable law that requires those who make
+certain kinds of promises to keep them”.  Id. at 671-72. 
+c.
+Two recent cases from other circuits have addressed the level
+of scrutiny for the constitutionality vel non of the Federal Act:
+Bartnicki v. Vopper, 200 F.3d 109 (3d Cir. 1999), cert. granted, 68
+U.S.L.W. 3685, 3698 (U.S. 26 June 2000) (Nos. 99-1687 and 99-1728);
+Boehner v. McDermott, 191 F.3d 463 (D.C. Cir. 1999), petition for
+cert. filed, 68 U.S.L.W. 3686 (U.S. 25 Apr. 2000) (No. 99-1709).
+In Boehner, a Florida couple, using a radio scanner,
+intercepted 
+and recorded a telephone conversation 
+between
+Congressman Boehner, a Republican member of the House of
+
+62
+Representatives, and members of his Party.  191 F.3d at 464-65.
+The couple delivered the tape to Congressman McDermott, then the
+ranking Democratic member of the House Ethics Committee, explaining
+by cover letter the tape contained “a conference call heard over a
+scanner”.  Id. at 465.  Congressman McDermott gave copies of the
+tape to three newspapers, each of which published an article about
+the intercepted conversation.  Id.
+Congressman Boehner filed a civil action against Congressman
+McDermott (but not the newspapers) for violating § 2511(1)(c)
+(disclosure).  Id.  The district court agreed with Congressman
+McDermott that § 2511(1)(c), as applied to him, violated the First
+Amendment.  Id. at 466.  The court of appeals (split panel)
+reversed, applying intermediate scrutiny.  Id. 467-70.
+The majority opinion observed that “the O’Brien analysis
+applies to statutes containing generally applicable, content-
+neutral prohibitions on conduct that create incidental burdens on
+speech”.  Id. at 467.  Section 2511(1)(c) fit that description
+because, to the extent it proscribes disclosures which “entail
+constitutionally protected speech, the statute regulates it without
+reference to content”, id. at 468; and it furthers a substantial
+governmental interest unrelated to the suppression of free
+expression because, “rather than impinging on speech, ... [it]
+promotes the freedom of speech”.  Id.
+
+63
+The incidental restriction on speech imposed by § 2511(1)(c)
+was “no greater than is essential to the furtherance” of the
+government’s substantial interests:  “[W]ithout [that] prohibition
+..., the government would have no means to prevent the disclosure
+of private information, because criminals like [the intercepting
+Florida couple] can literally launder illegally intercepted
+information and there would be almost no force to deter exposure of
+any intercepted secret”.  Id. at 470 (internal quotation marks and
+citation omitted).
+The majority, for separate reasons, distinguished Florida
+Star.  One member concluded it had no application for a host of
+reasons, including:  § 2511(1)(c) is not directed at the press; it
+seeks 
+to 
+protect 
+the 
+privacy 
+of 
+private, 
+not 
+public,
+communications; and it has a scienter requirement.  Id. at 471-76.
+The other majority-member assumed, without deciding, that Florida
+Star “applies in principle” but, because Congressman McDermott did
+not lawfully obtain the tape, § 2511(1)(c) was subject to
+intermediate scrutiny as applied to him.  Id. at 479.
+For Bartnicki, as noted, the Court granted certiorari in June
+2000.  The case concerned an unknown person intercepting and
+recording a cellular telephone conversation, regarding a teachers’
+pay raise, between Kane, a teachers’ union president, and
+Bartnicki, a union negotiator.  200 F.3d at 113.  The anonymous
+interceptor left the tape in the mailbox of Yocum, the president of
+
+64
+a citizens’ organization opposed to the union’s proposals.  Id.
+After listening to the tape, Yocum gave copies to local radio
+stations, which broadcast parts of it.  Id.  
+Bartnicki and Kane sued Yocum and the media defendants for
+violating § 2511(1)(c) and (d) (disclosure and use), and similar
+provisions of a Pennsylvania statute.  Id.  Relying primarily on
+Cohen, the district court denied summary judgment for defendants,
+holding that the use and disclosure provisions were generally
+applicable laws that did not single out the media or purposefully
+restrict free expression, and could be applied to the media without
+offending the First Amendment.  Id. at 118.
+On interlocutory appeal, the Third Circuit panel majority
+rejected the media defendants’ contention that Daily Mail
+controlled, because Florida Star footnote eight, quoted supra and
+infra, “explicitly repudiated any suggestion that [Daily Mail]
+answers ... whether a statute that limits the dissemination of
+information obtained by means of questionable legality is subject
+to First Amendment scrutiny”.  Id. at 117 (emphasis added).  The
+court did not resolve whether the damages provisions of the Federal
+and Pennsylvania Acts were generally applicable laws, because the
+district court, “by suggesting that generally applicable laws do
+not require First Amendment scrutiny when applied to the press, ...
+read ... Cohen too broadly”.  Id.  at 118.  Instead, the court
+
+65
+interpreted Cohen to hold “that a law of general applicability,
+which neither targets nor imposes disproportionate burdens upon the
+press, is enforceable against the press to the same extent that it
+is enforceable against individuals or organizations”.  Id. at 119.
+As in the case at hand, the United States intervened in
+Bartnicki to defend the constitutionality of the Federal Wiretap
+Act.  It claimed the use and disclosure provisions are subject to
+intermediate scrutiny for two reasons:  (1) they are generally
+applicable laws imposing only incidental burdens on expression; and
+(2) to the extent the provisions restrict speech in particular
+cases, they do so in a content-neutral manner.  Id.  
+The court rejected the first contention:  “[W]hen a statute
+that regulates both speech and conduct is applied to an act of pure
+speech, that statute must meet the same degree of First Amendment
+scrutiny as a statute that regulates speech alone”.  Id. at 121.
+But, it agreed that the use and disclosure provisions are
+content-neutral, because the justification for proscribing such
+conduct — strengthening “the underlying ban on unauthorized
+interception, by denying the wrongdoer the fruits of his labor and
+by eliminating the demand for those fruits by third parties” —
+“does not rely on the communicative impact of speech”.  Id. at 123
+(emphasis added; internal quotation marks and citation omitted).
+Applying 
+intermediate 
+scrutiny, 
+the 
+court 
+held 
+the
+“government’s interest in protecting privacy by helping maintain
+
+66
+the confidentiality of [covered] communications ... is a
+significant state interest”.  Id. at 125 (internal quotation marks
+and citation omitted).
+In this regard, the use and disclosure proscriptions,
+according to United States, furthered government’s interests in
+protecting the privacy of covered communications in two ways:  “(1)
+by denying the wrongdoer the fruits of his labor and (2) by
+eliminating the demand for those fruits by third parties”.  Id.
+(internal quotation marks and citation omitted).  The court stated
+the first was inapplicable, because, unlike here, there was no
+evidence defendants encouraged or participated in the interception.
+Id.  Accordingly, with respect to the second, “[t]he connection
+between prohibiting third parties from using or disclosing
+intercepted material and preventing the initial interception is
+indirect at best”.  Id. at 125-26.  
+It concluded, therefore, that the use and disclosure
+provisions, as applied to defendants not connected with the
+interception, were not narrowly tailored to serve the government’s
+interests.  Id. at 126.  Because persons who indirectly
+participated in the interception could be punished under the
+statute, “the government’s desired effect can be reached by
+enforcement of existing provisions against the responsible parties
+rather than by imposing damages on these defendants”.  Id.
+
+67
+The court distinguished Boehner on the ground, among others,
+that, unlike Yocum, who found the tape of the intercepted
+conversation in his mailbox, Congressman McDermott, in Boehner,
+entered into a transaction with the interceptors when he accepted
+the tape from them.  Id. at 128-29. 
+On the facts in Bartnicki (obviously, quite different from
+those here), the court concluded “that the government’s significant
+interest in protecting privacy is not sufficient to justify the
+serious burdens the damages provisions of the Wiretapping Acts
+place on free speech”.  Id. at 129.  It therefore held the Acts
+“fail 
+the 
+test 
+of 
+intermediate 
+scrutiny 
+and 
+may 
+not
+constitutionally be applied to penalize the use or disclosure of
+illegally intercepted information where [, unlike here,] there is
+no allegation that the defendants participated in or encouraged
+that interception”.  Id. (emphasis added).
+d.
+In the light of the foregoing jurisprudence, we must decide
+what level of First Amendment scrutiny is appropriate in
+determining whether defendants can be subject to civil liability
+for use and disclosure of illegally-intercepted private telephone
+conversations, which they received directly from the interceptors,
+with full knowledge of the circumstances of the interceptions and
+with some participation concerning the interceptions.  None of the
+foregoing cases addressed this precise question.
+
+68
+Florida Star is similar to this case in that the Peavys are
+seeking to hold defendants civilly liable for, inter alia,
+publication of truthful information.  And, the governmental
+interests supporting the Federal and Texas Acts and the Florida
+statute are similar in that they seek to protect privacy;
+accordingly, this case, like Florida Star, involves balancing
+privacy and free press interests.
+But, Florida Star is distinguishable in numerous ways.  Unlike
+the Florida statute, which restricted speech on the basis of
+content, 
+the 
+Wiretap 
+Acts, 
+except 
+under 
+certain 
+limited
+circumstances not present here, prohibit use and disclosure of all
+illegal interceptions, irrespective of their subject matter.  The
+use and disclosure restrictions are instead based on the manner in
+which the information is acquired.
+The statutes at issue in Daily Mail and Landmark also were
+content-based restrictions on speech.  We recognize that the Court
+did not rely on the content-based nature of the statutes in
+deciding to apply strict scrutiny in those cases.  Nevertheless,
+that distinction exists and is worthy of note, inasmuch as content-
+based regulations of expression are subject to strict scrutiny,
+irrespective of whether they prohibit the publication of lawfully-
+obtained information.  See Turner Broad. Sys., Inc. v. F.C.C., 512
+U.S. 622, 642 (1994) (“Our precedents ... apply the most exacting
+
+69
+scrutiny to regulations that suppress, disadvantage, or impose
+differential burdens upon speech because of its content”).
+The statute in Florida Star targeted a segment of the media
+(“any instrument of mass communication”); but, the Federal and
+Texas Acts do not single out the media for special burdens.
+Instead, they apply to “any person” who uses or discloses
+illegally-intercepted communications, if he knows or has reason to
+know of the interception’s illegality.  Also unlike the Federal and
+Texas Acts, the Florida statute did not require proof of scienter.
+Moreover, none of the considerations underlying the Court’s
+application of the Daily Mail principle in Florida Star are present
+here.  The first consideration — government’s retention of ample
+means of safeguarding significant interests upon which publication
+may impinge — is inapplicable.  Unlike the reporter in Florida
+Star, who obtained the victim’s name from public records made
+available by the government (far from it), the contents of the
+Peavys’ conversations had not been entrusted to the government, but
+were instead given to defendants by private individuals who
+intercepted them illegally.  “To the extent sensitive information
+rests in private hands, the government may under some circumstances
+forbid its nonconsensual acquisition, thereby bringing outside of
+the Daily Mail principle the publication of any information so
+acquired”.  Florida Star, 491 U.S. at 534.
+
+70
+Moreover, in the light of our affirming that, as a matter of
+law, defendants violated the use and disclosure provisions, they
+knew or should have known the interceptions were illegal.  In
+addition, defendants had some participation concerning the
+interceptions.  (Moreover, there are material fact issues for
+whether they “procured” or “obtained” the Harmans to make the
+illegal interceptions.  This bears also on defendants’ knowledge of
+illegal interceptions.) Therefore, as noted, it is quite arguable
+that defendants did not lawfully receive the contents of the tapes.
+See Boehner, 191 F.3d at 479 (Ginsburg, J., concurring) (even if
+the receipt of the tape containing the illegally intercepted call
+was lawful, “[o]ne who obtains information in an illegal
+transaction, with full knowledge the transaction is illegal, has
+not ‘lawfully obtain[ed]’ that information in any meaningful
+sense”).
+The second Florida Star consideration — “the fact that
+punishing the press for its dissemination of information which is
+already publicly available is relatively unlikely to advance the
+interests in the service of which [government] seeks to act”, id.
+at 535 — is likewise inapplicable, because the contents of the
+Peavys’ conversations were not publicly available or in the public
+domain when defendants received, used, and disclosed them.
+The final Florida Star consideration — “the timidity and self-
+censorship which may result from allowing the media to be punished
+
+71
+for publishing certain truthful information”, id. (internal
+quotation marks and citation omitted) — presents a somewhat closer
+question.  Nevertheless, the Court’s concern in that respect seemed
+to be limited to “information released, without qualification, by
+the government”.  Id. at 536.  “A contrary rule, depriving
+protection to those who rely on the government’s implied
+representations of the lawfulness of dissemination, would force
+upon the media the onerous obligation of sifting through government
+... pronouncements to prune out material arguably unlawful for
+publication”.  Id.  Here, the only representation government has
+made regarding the lawfulness of use and disclosure of illegal
+interceptions is in the Federal and Texas Acts prohibiting such
+conduct.  Again, that prohibition applies only if the using or
+disclosing person does so “intentionally”, and “knows or has reason
+to know” the interceptions were illegal.
+Accordingly, the Acts do not impose an “onerous obligation” on
+the media.  Instead, it is subject to the obligation imposed on all
+citizens:  the duty not to use or disclose interceptions, knowing
+or having reason to know they were in violation of the Wiretap
+Acts.  
+In the light of that scienter requirement, we think it highly
+unlikely such an obligation will result in “timidity and self-
+censorship” because, as stated in the Bartnicki dissent:
+
+72
+One 
+would 
+suppose 
+that 
+a 
+responsible
+journalist ... would be unlikely to propose
+publication of a ... conversation without some
+effort to insure that [it] in fact took place
+and to authenticate the identities of the
+parties to [it].  As part of such an inquiry,
+the question whether the parties to the
+conversation had authorized its recording and
+release, or whether others had lawfully
+intercepted the conversation, would seem
+naturally 
+to 
+arise. 
+ 
+Moreover, 
+current
+technology would make it relatively easy to
+determine whether the conversation had been
+the subject of a prior press or broadcast
+report.
+Bartnicki, 200 F.3d at 135 (Pollak, J., dissenting).  These
+observations are all the more compelling here, in that defendants
+had some participation concerning the interceptions.
+Finally, and perhaps most important, is Florida Star footnote
+eight:  “The Daily Mail principle does not settle the issue
+whether, in cases where information has been acquired unlawfully by
+a newspaper or by a source, government may ever punish not only the
+unlawful acquisition, but the ensuing publication as well.”  Id. at
+535 n.8 (“unlawfully” emphasized in original; other emphasis
+added).  Expressly reserved was the question at issue here.  But,
+as a member of the majority observed separately in Boehner, the
+Branzburg Court may have shed some light on the answer to that
+question:  the First Amendment “does not reach so far as to
+override the interest of the public in ensuring that neither
+reporter nor source is invading the rights of other citizens
+through represensible conduct forbidden to other persons”.
+
+73
+Boehner, 191 F.3d at 473 (separate opinion of Randolph, J. (quoting
+Branzburg, 408 U.S. at 691-92) (emphasis added)).
+Likewise, the intermediate scrutiny cases advanced by the
+Peavys and the United States are distinguishable.  The statute at
+issue in O’Brien was targeted at conduct (proscribed knowingly
+destroying draft card) and imposed no restrictions on the media’s
+publication of truthful information.  And, the publication
+restriction in Cohen was self-imposed.
+Bartnicki and Boehner are also distinguishable.  Media
+liability for publication was not at issue in Boehner; and the
+media defendants in Bartnicki, unlike Riggs and WFAA, were not in
+any way involved with the interceptors, or the interceptions, but
+instead received the interceptions from a third party, in whose
+mailbox the anonymous interceptor had left the tape of the
+intercepted communications.
+Considering these cases, and the distinctions between them and
+the case at hand, we conclude that the use and disclosure
+provisions, as applied to Riggs and WFAA, must satisfy “the
+intermediate level of scrutiny applicable to content-neutral
+restrictions that impose an incidental burden on speech”.  Turner,
+512 U.S. at 662. 
+Along this line, we reject defendants’ contention that the
+Federal and Texas Acts impose more than an “incidental” burden on
+the gathering and reporting of news.  
+
+74
+According to defendants, a burden on the media can be
+characterized as “incidental” only if it indirectly affects
+newsgathering and publication, or subjects the media to non-
+discriminatory economic regulation.  Defendants claim the Acts
+directly affect newsgathering and reporting because they completely
+proscribe use and disclosure of all contents of interceptions.
+Defendants 
+interpret too broadly what 
+constitutes an
+“incidental” effect.  The Acts restrict use and disclosure of
+information based solely on the means by which it is acquired, and
+the restriction applies only if the using or disclosing person
+knows, or has reason to know, of the illegal manner of acquisition.
+Accordingly, the Acts do not prohibit gathering and publishing the
+same information, acquired from other sources.
+2.
+Under O’Brien’s intermediate scrutiny analysis, “a content-
+neutral regulation [such as the Federal and Texas Wiretap Acts]
+will be sustained if” the regulation
+furthers 
+an 
+important 
+or 
+substantial
+governmental interest; if the governmental
+interest is unrelated to the suppression of
+free 
+expression; 
+and 
+if 
+the 
+incidental
+restriction 
+on 
+alleged 
+First 
+Amendment
+freedoms is no greater than is essential to
+the furtherance of that interest.
+Turner, 512 U.S. at 662 (quoting O’Brien, 391 U.S. at 377).
+The Wiretap Acts satisfy intermediate scrutiny, according to
+the United States and the Peavys, because:  (1) the United States
+
+75
+and Texas each have a substantial interest in maintaining the
+confidentiality of private communications; (2) the use and
+disclosure proscriptions are unrelated to the suppression of
+speech, because liability is based on the means of acquisition of
+the information, rather than the content, and the Acts do not
+single out speech for special burdens, but prohibit all
+unauthorized uses and disclosures; and (3) the incidental burdens
+on speech are not impermissibly broad, because disclosure is not
+singled out for special burdens, and the Acts do not prohibit the
+use or disclosure of the same information obtained by non-
+prohibited means.
+The use and disclosure provisions, in defendants’ view, fail
+intermediate scrutiny because they impose an absolute, categorical
+ban on speech and expressive conduct, which burdens substantially
+more speech than is necessary to further government’s legitimate
+interests in protecting privacy.
+a.
+One of the “dual purposes” of the Federal Act is “protecting
+the privacy of [covered] communications”.  Gelbard v. United
+States, 408 U.S. 41, 48 (1972) (quoting S. Rep. No. 1097, 90th
+Cong., 2d Sess., 66 (1968)); see also United States v. Cianfrani,
+573 F.2d 835, 855 (3d Cir. 1978) (“protection of privacy was an
+overriding congressional concern” in enacting Federal Act).  It
+does so by proscribing not only unauthorized interception, §
+
+76
+2511(1)(a), but also the intentional use and disclosure of illegal
+interceptions, § 2511(c) and (d).  The purpose of the use and
+disclosure 
+proscriptions 
+is to 
+reinforce 
+the 
+interception
+proscription by “denying the wrongdoer the fruits of his conduct”,
+Fultz, 942 F.2d at 401, and by eliminating the demand for those
+fruits by third parties.  Boehner, 191 F.3d at 469-70.
+[P]rotection of the privacy of communications
+is vital to our society.  We depend upon the
+free interchange of ideas and information.
+And we are dedicated to the proposition that
+each 
+individual 
+should 
+be 
+free 
+from
+unwarranted 
+intrusion 
+into 
+his 
+private
+affairs.  Both these interests are threatened
+by 
+modern 
+techniques 
+of 
+electronic
+surveillance, 
+however, 
+since 
+it 
+is 
+now
+possible to record surreptitiously the most
+intimate conversations and to preserve them
+for later disclosure.  Only by governing
+strictly both authorization [of interception]
+and disclosure of intercepted communications
+did 
+Congress 
+believe 
+that 
+such 
+weighty
+interests could be protected adequately.
+Cianfrani, 573 F.2d at 856.
+The privacy interests protected by the Wiretap Acts are of
+constitutional dimension.  See Harper & Row Publishers, Inc. v.
+Nation Enters., 471 U.S. 539, 559 (1985) (although “essential
+thrust of the First Amendment is to prohibit improper restraints on
+the voluntary public expression of ideas”, there is “a concomitant
+freedom not to speak publicly, one which serves the same ultimate
+end as freedom of speech in its affirmative aspect” (emphasis in
+original)); Katz v. United States, 389 U.S. 347, 352-53 (1967)
+
+77
+(Fourth Amendment protects privacy of telephone conversation from
+governmental intrusion by electronic surveillance).
+And, the privacy interests sought to be protected by the
+Federal Act have been held to be “sufficiently weighty to justify
+some limitations in certain circumstances on the general right of
+access to court proceedings”.  Cianfrani, 573 F.2d at 856-57
+(ordering pretrial hearings closed to public to extent reasonably
+necessary to protect against disclosure of unlawfully intercepted
+communications).  See also In re Grand Jury, 111 F.3d 1066, 1074-75
+(3d Cir. 1997) (privacy interests protected by Federal Act confer
+standing on wiretapping victims to quash subpoena duces tecum
+served on interceptor, who was a witness in grand jury
+investigation in which one of wiretapping victims was target).
+In short, the United States and Texas have a substantial
+interest in protecting the confidentiality of private wire, oral,
+and electronic communications.
+b.
+And, that substantial interest is unrelated to the suppression
+of free expression.  The use and disclosure proscriptions are
+directed only at the means by which information is acquired.  They
+apply only if the targeted actor knows, or has reason to know, of
+the illegal means of acquisition.  And, they do not prohibit use
+and 
+disclosure 
+of 
+the 
+information 
+contained 
+in 
+illegal
+interceptions if such information is obtained from another source.
+
+78
+Indeed, protection of communications’ confidentiality encourages,
+rather than suppresses, free expression, because the proscriptions
+against interception, use, and disclosure offer assurance to
+communicating parties that they can speak freely.
+c.
+To satisfy the requirement that the incidental restriction on
+First Amendment freedom is no greater than essential to furtherance
+of the governmental interest, “a regulation need not be the least
+speech-restrictive means of advancing the Government’s interests.
+Rather, the requirement of narrow tailoring is satisfied so long as
+the regulation promotes a substantial government interest that
+would be achieved less effectively absent the regulation”.  Turner,
+512 U.S. at 662 (internal quotation marks and citations omitted).
+“Narrow tailoring in this context requires ... that the means
+chosen do not burden substantially more speech than is necessary to
+further the government’s legitimate interests”.  Id. (internal
+quotation marks and citation omitted).
+The 
+use 
+and 
+disclosure 
+proscriptions 
+do 
+not 
+burden
+substantially more speech than is necessary to further governmental
+interests in protecting the privacy of communications.  Those
+interests would be achieved less effectively in the absence of such
+proscriptions, because the invasion of privacy that occurs with
+interception does not then end, but continues anew and spreads with
+each disclosure or other use of the interception.
+
+79
+Prohibiting interception alone is not sufficient to protect
+the privacy of communications.  Without the use and disclosure
+proscriptions, government’s efforts to prohibit interception would
+be far less effective, because a person who illegally intercepts a
+conversation and wishes to disclose it to the public can do so, at
+no risk to himself, by simply anonymously providing the contents of
+the communication — by use of a tape or otherwise — to third
+parties, such as the media, who have an interest in disclosing, or
+otherwise using, those contents (as in Bartnicki).  Moreover, far
+greater damage to the interests sought to be protected results if,
+and when, such contents are paraded before the public through use
+and 
+disclosure 
+by 
+non-interceptors, 
+including 
+the 
+media.
+See Boehner, 191 F.3d at 468, 470.
+In sum, as applied to the facts in this case, including
+defendants’ knowing or having reason to know the interceptions were
+illegal 
+(to 
+include 
+their 
+participation 
+concerning 
+the
+interceptions 
+and 
+their 
+possible 
+“procures” 
+or 
+“obtains”
+violations), the use and disclosure provisions of the Federal and
+Texas Acts satisfy intermediate scrutiny, because:  they further
+substantial 
+governmental 
+interests 
+in 
+protecting 
+the
+confidentiality of private communications; those interests are
+unrelated to the suppression of free expression, but instead
+encourage it; and the incidental burdens on free expression are no
+greater than is essential to the furtherance of those interests,
+
+80
+which would be achieved far less effectively in the absence of the
+proscriptions. 
+E.
+We reject defendants’ alternative contention that the summary
+judgment should be affirmed because the Federal and Texas Acts are
+unconstitutionally vague and overbroad.
+1.
+The use and disclosure provisions give adequate notice of the
+conduct they prohibit, and are “not so vague that men of common
+intelligence must necessarily guess at [their] meaning”.  Broadrick
+v. Oklahoma, 413 U.S. 601, 607 (1973) (internal quotation marks and
+citation omitted).  As Riggs admitted in his deposition, there was
+nothing in the amended legislation that was vague or ambiguous;
+instead, Watler simply “missed the new legislation”.   Accordingly,
+if defendants misunderstood their legal obligations, it was because
+they and their attorney were unaware of the Acts’ terms, not
+because they were vague.  Defendants’ contention that the
+distinction between “use” and “disclose” is unclear carries very
+little weight; each is subject to the same proscriptions and
+exceptions, and triggers the same penalties.
+2.
+The Acts are not unconstitutionally overbroad, because they do
+not sanction a substantial amount of constitutionally protected
+speech.  The use and disclosure proscriptions do not prohibit such
+
+81
+conduct for information obtained by means other than illegal
+interceptions.  And, the scienter requirements ameliorate the
+possibility that the prohibitions will result in chilling a
+substantial amount of protected speech.
+F.
+As noted, under the statutory exclusionary rule, § 2515,
+contents of illegally intercepted communications, as well as
+evidence derived therefrom, are not admissible in “any trial” if
+disclosure would violate the Federal Act.  The Peavys contend the
+district court erred, in conjunction with the cross motions for
+summary judgment, by denying their motion to suppress the contents
+of the interceptions and evidence derived therefrom, and by
+allowing defendants to use such evidence to attack the Peavys’
+character and defend against their state law claims, as well as to
+support their (defendants’) affirmative defenses.
+In the light of our disposition of the other issues, we need
+not address this issue.  The suppression motion ruling was only for
+summary judgment purposes.  The district court has had no occasion
+to consider admissibility vel non of such evidence for trial.
+III.
+For the foregoing reasons, we AFFIRM the summary judgment
+insofar as it (1) dismissed the Peavys’ claim for damages, under
+the Federal Act, for defendants’ “procuring” the Harmans to make
+the interceptions, and (2) held, for  contexts other than for their
+
+82
+television broadcasts, that, in violation of the Federal and Texas
+Acts, defendants “used” and “disclosed” the contents of the
+intercepted communications; REVERSE the summary judgment insofar as
+it (1) applied strict scrutiny and (2) held that the First
+Amendment precludes, under the Federal and Texas Acts, holding
+defendants civilly liable for “use” and “disclosure”; VACATE the
+summary judgment insofar as it (1) held that, under the Federal
+Act, defendants had not “procured” the Harmans to make the
+interceptions (this being a separate issue from the correct
+dismissal of the procurement action for damages), (2) dismissed the
+Peavys’ claim, under the Texas Act, for so “obtaining” the Harmans,
+(3) dismissed the Peavys’ claim, under Texas law, for civil
+conspiracy, and (4) held that, in violation of the Federal and
+Texas Acts, defendants, in their television broadcasts, “disclosed”
+the contents of the interceptions; and REMAND for further
+proceedings consistent with this opinion. 
+AFFIRMED in part; REVERSED in part; 
+VACATED in part; and REMANDED   

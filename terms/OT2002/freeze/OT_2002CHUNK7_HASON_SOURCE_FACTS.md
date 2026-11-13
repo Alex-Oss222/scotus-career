@@ -1,0 +1,27 @@
+# Hason: source facts for neutral validation
+
+This handoff contains only the respondent's actual March 6, 2003 filing and its source status. It contains no disposition, opinion, judicial lineup, or judicial merits reasoning. Assertions below are the respondent's litigation positions, not findings or endorsed legal conclusions. The event cutoff is April 7, 2003.
+
+## Recovered filing
+
+**Source:** Michael J. Hason, *Objection to Motion to Dismiss Pursuant to Supreme Court Rule 46.2*, No. 02-479 (March 6, 2003), reproduced contemporaneously with a linked ten-page scan: [HTML transcription](https://www.raggededgemagazine.com/drn/chemerinsky%20obj%282%29.html); [scanned filing](https://www.raggededgemagazine.com/drn/obj%20%282%29.pdf). The official docket records receipt of Hason's objection on March 6, 2003, matching the filing's title and date. Full HTML transcription read and all ten scanned pages visually read. The PDF controls: the HTML omits the material footnote on PDF page 8, summarized below. The host is a contemporary disability-rights publication, rather than the Court's filing server; the document is the party's filing reproduced there, rather than the publication's commentary.
+
+The Internet Archive collection's own search was checked by docket and party name. Both identify item `micro_IA40386015_0475`. Its inventory contains the petition, opposition, joint appendix, petitioner's merits brief, United States brief, amici, and respondent's merits brief. No separately labeled withdrawal motion or objection appears in that inventory. No claim is made to have read those entire volumes or to have proved that the objection is absent from every combined scan.
+
+## Scope and requested monetary relief
+
+Hason expressly confines his Rule 46.2(a) objection to damages and costs in this Court. He does not stipulate to dismissal and expresses a preference for continued review, but frames the permitted objection as monetary. In footnote 1 on PDF page 8, however, he additionally urges the Court to exercise discretion to continue review despite his inability to oppose dismissal under Rule 46.2. This is an actual separately presented argument, not merely an unstated preference.
+
+He requests compensation for counsel's work preparing the opposition to certiorari, respondent's merits brief, and this objection: Erwin Chemerinsky reports 146 hours at $400, totaling $58,400; Mark Rosenbaum reports 48.4 hours at $550, totaling $26,620. The two claimed fees total $85,020. Hason also requests that the Board reimburse the Court's cost of printing his brief under his in-forma-pauperis status; the filing does not quantify that cost. He says the requested counsel sums omit research-assistant time and other attorneys' work. These are requested amounts, not a fee award or findings of reasonable hours/rates.
+
+## Actual grounds advanced
+
+1. Hason argues that the Board sought certiorari, completed briefing, and then sought withdrawal only about three weeks before argument without a change in law, facts, or circumstances. He characterizes the motion as a one-sentence request giving no reason. This is his characterization; it does not establish bad faith as a fact.
+2. He argues that unilateral late withdrawal permits strategic selection of a more favorable vehicle or avoidance after seeing opposing briefs, wastes litigation work, and threatens the integrity of the Court. He requests monetary relief both to compensate and to deter.
+3. He invokes Rule 46.2(a), arguing that its undefined reference to damages reaches time and expense caused by the withdrawal. He alternatively invokes 28 U.S.C. §1927 and the Court's inherent sanctioning power, citing *Chambers v. NASCO, Inc.*, 501 U.S. 32 (1991). These are separately asserted legal grounds and must be evaluated rather than silently equated.
+4. He represents that no settlement has occurred, despite his repeated settlement offers; his claims against the Board remain unresolved and dismissal of this review would return the litigation to the district court. He argues that withdrawal is neither settlement nor his prevailing in this Court. He discusses possible later reassertion of immunity and expressly describes waiver from withdrawal as uncertain; the filing does not establish waiver, licensing eligibility, underlying liability, or mootness.
+5. PDF page 8, footnote 1: Hason acknowledges that Rule 46.2 governs absent unanimous stipulation and that he cannot oppose dismissal under it in these circumstances. He nevertheless argues that the Rule does not require the Court to grant dismissal. He invokes the continuing controversy, the Board's refusal to settle, a significant circuit split, and completed briefing as grounds for the Court to retain the case. If the Board declines to pursue review, he suggests appointment of an amicus to present its position, citing *United States v. Dickerson*, 530 U.S. 428 (2000). This is advocacy for a lawful path that must be evaluated; it does not establish that any amicus was appointed or that review continued.
+
+## Framing caution
+
+The filing contains an apparent November 16 grant-date error; the official docket supplies November 18, 2002. Its historical legal characterizations are the advocate's arguments. No source in this handoff supplies an itemized printing bill, a finding of vexatious multiplication, a finding of bad faith, or an adjudication of the reasonableness of counsel's fee request. Those are not facts inferred from the objection's existence.

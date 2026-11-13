@@ -1,0 +1,16 @@
+[
+  {
+    "name": "riggs-casemine",
+    "url": "https://www.casemine.com/judgement/us/59147ab1add7b0493440fb6e",
+    "status": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "hason-objection-pdf",
+    "url": "https://www.raggededgemagazine.com/drn/obj%20(2).pdf",
+    "bytes": 318089,
+    "sha256": "a9f23b925dad81a0ea6d45977e727b482c2c3dc8981c178778e58a9ad5f67d98",
+    "source_sha256": "a9f23b925dad81a0ea6d45977e727b482c2c3dc8981c178778e58a9ad5f67d98",
+    "navigation_sanitized": false,
+    "status": "saved"
+  }
+]

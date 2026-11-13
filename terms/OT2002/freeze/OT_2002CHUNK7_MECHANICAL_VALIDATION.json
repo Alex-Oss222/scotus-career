@@ -1,0 +1,245 @@
+{
+  "events": [
+    {
+      "record": "Gerber-v-Hickman_merits_2003-03-25.md",
+      "components": 2,
+      "author": "O'Connor",
+      "prior_leads": 64,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter"
+      ],
+      "explanation_words": [
+        175,
+        84
+      ],
+      "sha256": "82b1da0408eb49586cc8c0d0eaba9c2d2936b9171fd45c8501820ffce74412fd"
+    },
+    {
+      "record": "Brown-v-Legal-Foundation-of-Washington_merits_2003-03-26.md",
+      "components": 1,
+      "author": "Souter",
+      "prior_leads": 66,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        114,
+        75,
+        176,
+        118
+      ],
+      "sha256": "e8d0b8da22a8329a0df83ead198d51a989116fc4b2aba2586f57c84b07532abb"
+    },
+    {
+      "record": "People-of-Guam-v-Guerrero_merits_2003-03-26.md",
+      "components": 3,
+      "author": "Stone-Zsela",
+      "prior_leads": 67,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Thomas"
+      ],
+      "explanation_words": [
+        104,
+        95,
+        204
+      ],
+      "sha256": "66e5de2358442c9b57a66e5a06a0c44594aecc7e9e0f827310c19dff060964c3"
+    },
+    {
+      "record": "Archer-v-Warner_merits_2003-03-31.md",
+      "components": 1,
+      "author": "Scalia",
+      "prior_leads": 68,
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        139,
+        199
+      ],
+      "sha256": "caff7e1080b8e9d18939dc01943608167daafd60f7ac1f99f846e6c3003a69b3"
+    },
+    {
+      "record": "Branch-v-Smith_merits_2003-03-31.md",
+      "components": 4,
+      "author": "Stevens",
+      "prior_leads": 69,
+      "pool": [
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "explanation_words": [
+        154,
+        103,
+        71,
+        167,
+        86,
+        96
+      ],
+      "sha256": "70040e73167ff14768cafde5727bcda5bc5a2a4e905aa82a5695b4c84298244f"
+    },
+    {
+      "record": "Nassau-County-v-Shain_merits_2003-03-31.md",
+      "components": 2,
+      "author": "Breyer",
+      "prior_leads": 70,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        170,
+        109,
+        130
+      ],
+      "sha256": "802b4e8a5949add885ec20cafb1fb4fb73f27790fee70dc7d75b8cec05ed19b4"
+    },
+    {
+      "record": "Specht-v-Netscape-Communications-Corp_merits_2003-03-31.md",
+      "components": 4,
+      "author": "Thomas",
+      "prior_leads": 72,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        168,
+        111,
+        127,
+        116
+      ],
+      "sha256": "52b505a30bd44b6aa31dab0479a0ef23110dfebb5faeb215181d2feb515ed016"
+    },
+    {
+      "record": "United-States-v-Hambrick_merits_2003-03-31.md",
+      "components": 2,
+      "author": "Ginsburg",
+      "prior_leads": 73,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        161,
+        111
+      ],
+      "sha256": "239b18fe73e89a307cf677b238977caadb6505d1e89c4aa82f5035019dd344d4"
+    },
+    {
+      "record": "Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md",
+      "components": 4,
+      "author": "Kennedy",
+      "prior_leads": 74,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        182,
+        113,
+        99,
+        98,
+        132,
+        120
+      ],
+      "sha256": "61fb857dea5b0ef2f77e300e4e6b450a48b218c0b04a1dda2c877a343effee17"
+    },
+    {
+      "record": "Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md",
+      "components": 6,
+      "explanation_words": [
+        165,
+        82,
+        90,
+        93
+      ],
+      "sha256": "bdbc9595775b36c1282af1ad605f9ef8f7728ec700aa807847c39d8fb6a198bc"
+    },
+    {
+      "record": "Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md",
+      "components": 2,
+      "explanation_words": [
+        144
+      ],
+      "sha256": "446ec8a3b416065c9c705b9bd5f7314a9c511b61813cd6ba4735e29eb851fa4c"
+    },
+    {
+      "record": "Virginia-v-Black_merits_2003-04-07.md",
+      "components": 4,
+      "author": "O'Connor",
+      "prior_leads": 75,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Breyer"
+      ],
+      "explanation_words": [
+        183,
+        169,
+        169
+      ],
+      "sha256": "7b79de784393c7db52caf7ebd08b80226d0bcc9f32941754032e06ff2adbcb48"
+    },
+    {
+      "record": "Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md",
+      "components": 3,
+      "author": "Stone-Zsela",
+      "prior_leads": 77,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens"
+      ],
+      "explanation_words": [
+        141,
+        218,
+        148,
+        125
+      ],
+      "sha256": "0d59b84db362a6647f102450008bf99cf201163c92c6cc1014714b3ac92d513f"
+    }
+  ],
+  "protected_files_unchanged": 150,
+  "records": 93,
+  "manifest_rows": 180,
+  "completed_scheduled_events": 90,
+  "stopped_rows": [],
+  "render_input_identity": true,
+  "restricted_text_files_checked": 190,
+  "history_verification": "Deferred to operator",
+  "negative_statement_check": "Qualitative result in chunk validation; not mechanically inferred"
+}

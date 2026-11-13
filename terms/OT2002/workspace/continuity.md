@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 6 have produced 80 completed event Records covering 77 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 7 is the next supplied chunk.
+Chunks 1 through 7 have produced 93 completed event Records covering 90 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 8 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 77 completed and 103 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
+The manifest preserves all 180 scheduled rows: 90 completed and 90 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
 
 ## Completed Events and Admitted Sources
 
@@ -86,9 +86,22 @@ The manifest preserves all 180 scheduled rows: 77 completed and 103 remaining. C
 | 2003-03-24 | Commack Self-Service Kosher Meats, Inc. v. Weiss | Affirmed, 9–0. | `terms/OT2002/records/Commack-Self-Service-Kosher-Meats-v-Weiss_merits_2003-03-24.md` |
 | 2003-03-25 | American Amusement Machine Association v. Kendrick | The Seventh Circuit judgment directing preliminary relief is affirmed, and the case is remanded for further proceedings. | `terms/OT2002/records/American-Amusement-Machine-Association-v-Kendrick_merits_2003-03-25.md` |
 | 2003-03-25 | Cuyahoga Falls v. Buckeye Community Hope Foundation | The constitutional portion of the Sixth Circuit judgment is reversed. The Fair Housing Act portion is vacated, and the case is remanded with directions to dismiss that claim with prejudice. | `terms/OT2002/records/Cuyahoga-Falls-v-Buckeye-Community-Hope-Foundation_merits_2003-03-25.md` |
+| 2003-03-25 | Gerber v. Hickman | Vacated and remanded on the preserved federal procreative-liberty claim, 7–2; ungranted rulings undisturbed. | `terms/OT2002/records/Gerber-v-Hickman_merits_2003-03-25.md` |
 | 2003-03-25 | Woodford v. Garceau | Ninth Circuit judgment granting habeas relief vacated, 5–4, and remanded for review under the applicable AEDPA merits standards. | `terms/OT2002/records/Woodford-v-Garceau_merits_2003-03-25.md` |
+| 2003-03-26 | Brown v. Legal Foundation of Washington | Affirmed, 6–3; compensation is zero on the adjudicated premise. | `terms/OT2002/records/Brown-v-Legal-Foundation-of-Washington_merits_2003-03-26.md` |
+| 2003-03-26 | People of Guam v. Guerrero | Affirmed in part, vacated in part and remanded, 9–0. | `terms/OT2002/records/People-of-Guam-v-Guerrero_merits_2003-03-26.md` |
+| 2003-03-31 | Archer v. Warner | The Court reverses the Fourth Circuit's categorical discharge ruling and remands. | `terms/OT2002/records/Archer-v-Warner_merits_2003-03-31.md` |
+| 2003-03-31 | Branch v. Smith | Nonuse of the state plan affirmed, 9–0; alternative Article I ground vacated, 9–0; federal single-member remedy affirmed, 7–2. | `terms/OT2002/records/Branch-v-Smith_merits_2003-03-31.md` |
+| 2003-03-31 | Nassau County v. Shain | The Court affirms the reviewed constitutional and qualified-immunity rulings and preserves the nominal and declaratory judgment. | `terms/OT2002/records/Nassau-County-v-Shain_merits_2003-03-31.md` |
 | 2003-03-31 | Okpalobi v. Foster | The vacatur of the broad injunction against the Governor and Attorney General is affirmed. The direction to dismiss their claims in their entirety is vacated, and the case is remanded for the specified limited inquiry. | `terms/OT2002/records/Okpalobi-v-Foster_merits_2003-03-31.md` |
+| 2003-03-31 | Specht v. Netscape Communications Corp. | The Court affirms denial of compelled arbitration and a stay for all six named plaintiffs, and rejects the requested remand for a formation trial. | `terms/OT2002/records/Specht-v-Netscape-Communications-Corp_merits_2003-03-31.md` |
+| 2003-03-31 | United States v. Hambrick | Suppression disposition vacated and remanded, 5–4; the conditional-plea conviction is not automatically reversed. | `terms/OT2002/records/United-States-v-Hambrick_merits_2003-03-31.md` |
+| 2003-04-02 | Kentucky Association of Health Plans, Inc. v. Miller | The Court affirms the Sixth Circuit's rejection of the preemption challenge and adopts the two-condition insurance-saving rule stated below. | `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md` |
+| 2003-04-07 | Medical Board of California v. Hason | The motion is granted and the writ dismissed under Rule 46 without damages and costs. The retention/amicus request and each asserted monetary remedy are denied. No tally or individual lineup is announced. | `terms/OT2002/records/Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md` |
+| 2003-04-07 | Peavy v. WFAA-TV, Inc. | The review is dismissed as moot. Vacatur is denied. No tally or individual lineup is announced. | `terms/OT2002/records/Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md` |
+| 2003-04-07 | Virginia v. Black | The judgment is affirmed as to Black and vacated and remanded as to Elliott and O'Mara. | `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md` |
 | 2003-04-28 | Planned Parenthood of Southern Arizona v. Lawall | Rejection of the challenge to necessary confidential internal handling is affirmed, 9–0; rejection of the outside-agency-access claims is vacated and remanded, 6–3. | `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md` |
+| 2003-05-19 | Stout v. Baxter Healthcare Corp. | The judgment is affirmed in part, vacated in part and remanded. | `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md` |
 | 2003-05-27 | Benson v. Terhune | The judgment denying the requested habeas relief is affirmed. | `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md` |
 | 2003-06-02 | Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395 | Child-search immunity judgment reversed, 7–2; entry and duplicative-due-process dispositions affirmed, 9–0; remanded with state claims treated independently. | `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
@@ -531,11 +544,47 @@ Source: `terms/OT2002/records/Cuyahoga-Falls-v-Buckeye-Community-Hope-Foundation
 
 A neutral petition mechanism does not itself attribute private discrimination to a city; a supported governmental-purpose connection remains necessary. A genuinely contested charter stay, administered in the circumstances established here, supplies a nonarbitrary basis for temporary delay even assuming a completed property interest. Administrative classification and prior approval alone do not make public referendum submission a substantive constitutional wrong; actual deprivations remain subject to ordinary constitutional limits. The abandoned FHA controversy ends with prejudice.
 
+### 2003-03-25 — Gerber v. Hickman
+
+Source: `terms/OT2002/records/Gerber-v-Hickman_merits_2003-03-25.md`.
+
+The pleaded class of privately arranged, no-contact marital procreation proposals receives Turner review rather than categorical dismissal as incompatible with confinement. Operational proof and justified prison restrictions determine the claim under that settled standard; an eventual injunction is governed by Lewis and the amended §3626 requirements.
+
 ### 2003-03-25 — Woodford v. Garceau
 
 Source: `terms/OT2002/records/Woodford-v-Garceau_merits_2003-03-25.md`.
 
 Effective March 25, 2003, genuine pre-enactment preparation and protective judicial action do not preserve former law for the identified §2254 adjudication provisions when the application requesting the writ was filed after enactment. Courts distinguish an actual merits request from prospective claims identified to support preparation. The application-specific rule coexists with lawful preapplication counsel and stay proceedings; each separate statutory temporal direction retains its own operation.
+
+### 2003-03-26 — Brown v. Legal Foundation of Washington
+
+Source: `terms/OT2002/records/Brown-v-Legal-Foundation-of-Washington_merits_2003-03-26.md`.
+
+Compulsory transfer of owned IOLTA interest and valuation of the client’s loss are distinct. Properly classified deposits incapable of net client earnings produce zero compensation under the actual-owner-loss measure; profitable funds require client-benefit investment, including feasible subaccounting as costs change. The five-Justice private-error holding confines the liability of these program respondents without treating a governmental command to pool profitable funds as lawful. A remedy for a small positive entitlement remains a separate legal question.
+
+### 2003-03-26 — People of Guam v. Guerrero
+
+Source: `terms/OT2002/records/People-of-Guam-v-Guerrero_merits_2003-03-26.md`.
+
+The specified Organic Act clauses retain the federal constitutional free-exercise standard. RFRA independently applies to Guam under territorial authority. Its defense protects actual religious exercise without a theological-compulsion requirement, through the claimant’s substantial-burden showing followed by the government’s application-specific compelling-interest and least-restrictive-means proof. The remaining shipment, supply and accommodation facts are matters of application under those settled rules.
+
+### 2003-03-31 — Archer v. Warner
+
+Source: `terms/OT2002/records/Archer-v-Warner_merits_2003-03-31.md`.
+
+A creditor may establish that an enforceable settlement debt remains within §523(a)(2)(A) despite the release of the original claims. Courts must distinguish the federal character of that debt from its contractual form and from independently operative defenses. The extent of nondischargeability follows the liability proved to arise from the qualifying acquisition under the existing fraud and reliance rules.
+
+### 2003-03-31 — Branch v. Smith
+
+Source: `terms/OT2002/records/Branch-v-Smith_merits_2003-03-31.md`.
+
+Covered state-court plans require actual §5 approval, and the specified information and State-administration rules govern the competing automatic-approval contentions. The Article I alternative is vacated. Section 2c governs a feasible judicial single-member remedy after legislative inaction, subject to the existing lawful-remedy and replacement conditions. Five Justices reject wholesale implied repeal of §2a(c), but its full surviving operation remains divided between the stated incompatible constructions. The seven-Justice feasible-map holding supplies the governing rule here without a narrowest-ground synthesis.
+
+### 2003-03-31 — Nassau County v. Shain
+
+Source: `terms/OT2002/records/Nassau-County-v-Shain_merits_2003-03-31.md`.
+
+For the identified intimate intake searches of misdemeanor-level detainees, individualized reasonable suspicion of concealed weapons or contraband is required, assessed from properly available facts within Bell's contextual balance. Judicial remand and general admission alone are insufficient. The responsible individual's fair warning is established on this July 1995 record, while the County's policy responsibility remains distinct from personal immunity. Prospective relief requires its own continuing controversy and lawful remedial scope.
 
 ### 2003-03-31 — Okpalobi v. Foster
 
@@ -543,11 +592,53 @@ Source: `terms/OT2002/records/Okpalobi-v-Foster_merits_2003-03-31.md`.
 
 Privately created tort liability does not by itself make every state executive a proper defendant. A concrete administrative deprivation within a sued officer's actual authority can, however, supply an effective partial prospective remedy despite continuing exposure to independent private claims. The operative complaint, plaintiff's benefit and each officer's statutory function must be matched. The current blanket officer restraint remains vacated while the preserved narrower theory receives that examination.
 
+### 2003-03-31 — Specht v. Netscape Communications Corp.
+
+Source: `terms/OT2002/records/Specht-v-Netscape-Communications-Corp_merits_2003-03-31.md`.
+
+Electronic conduct can accept contractual terms when ordinary law supplies actual or reasonable notice of the act's contractual meaning. An arbitration proponent must establish each person's agreement or an applicable nonsignatory basis and show that the actual bargain covers the asserted claims. A formation trial requires a preserved genuine dispute supported by evidence. Those rules permit enforcement of informed electronic bargains while requiring the separate notice, scope and direct-benefit predicates presented here.
+
+### 2003-03-31 — United States v. Hambrick
+
+Source: `terms/OT2002/records/United-States-v-Hambrick_merits_2003-03-31.md`.
+
+Existing Guest protection governs the account-specific question in this criminal case. The actual personal relationship and acquisition must be determined before constitutional authorization and exclusion. Section 2708 supplies no suppression remedy for a nonconstitutional disclosure violation alone; later evidence requires the separate causal and exclusion analysis.
+
+### 2003-04-02 — Kentucky Association of Health Plans, Inc. v. Miller
+
+Source: `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md`.
+
+Courts applying ERISA's insurance saving clause must ask whether the law targets entities engaged in insurance in their insurance activity and substantially affects the insurer-insured risk-pooling arrangement. Material coverage and network-access conditions can satisfy that rule without a separate actuarial transfer. Kentucky's two commands satisfy it under their distinct provider and coverage conditions, including the presented nonexempt-arrangement and administrative-only-HMO coverage. Actual federal exemptions, the deemer clause and ERISA's separate remedial requirements continue to control enforcement.
+
+### 2003-04-07 — Medical Board of California v. Hason
+
+Source: `terms/OT2002/records/Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md`.
+
+Rule 46 dismissal, monetary entitlement and treatment of the lower judgment retain their distinct requirements. The dismissal adds no Title II immunity or licensing holding because those questions are not reached. The Ninth Circuit judgment remains operative, and Hason's action may continue in the position that judgment created.
+
+### 2003-04-07 — Peavy v. WFAA-TV, Inc.
+
+Source: `terms/OT2002/records/Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md`.
+
+Existing mootness and equitable-vacatur rules govern the settled review. The Fifth Circuit judgment remains in place without a Supreme Court adjudication of its underlying wiretap or First Amendment grounds. The participant-publisher question remains outside this disposition because the parties' controversy has ended.
+
+### 2003-04-07 — Virginia v. Black
+
+Source: `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md`.
+
+The State may prohibit this viewpoint-independent method of intentional threatening intimidation, with proof of an actual serious threat and the statutory intent in context. Black's particular by-itself charge is constitutionally inadequate despite its general burden instructions. The Court's direct majorities establish those rules and the Elliott/O'Mara remand. The facial question remains fractured at the level described in Part III; the affirmed dismissal of Black's indictment binds the parties. Further proceedings for Elliott and O'Mara apply the constitutional requirements to the state law that validly remains and their different adjudicative records.
+
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
 Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md`.
 
 Necessary confidential bypass administration remains permissible. Additional authorized government access to intimate bypass records must have a sufficient legal connection among the information, audience and function, with fitted protection against unnecessary dissemination. This independent informational-privacy inquiry and any proved Casey access burden remain distinct. The actual outside permissions and their safeguards must be applied on remand; their legality is not settled by either a general confidentiality label or a hypothetical leak.
+
+### 2003-05-19 — Stout v. Baxter Healthcare Corp.
+
+Source: `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md`.
+
+Title VII's impact sequence applies to attendance practices affecting pregnancy, childbirth and related medical conditions. Uniform treatment after employees violate a cutoff does not answer the challenge to the cutoff's comparative effects. Medical and operational evidence may establish the necessary comparison without a mandatory statistical format; the particular evidence here permits the claim to continue. The claimant's causal proof, the employer's necessity defense, an available refused alternative, class requirements and relief retain their separate burdens and stages.
 
 ### 2003-05-27 — Benson v. Terhune
 
@@ -921,9 +1012,9 @@ The four would reverse the initial-stop ruling and remand to identify the eviden
 
 Source: `terms/OT2002/records/Norfolk-and-Western-Railway-Co-v-Ayers_merits_2003-03-10.md`.
 
-Kennedy dissents from the cancer-fear holding and damages affirmance, joined by O'Connor; Breyer joins the direct-relationship analysis subject to his further limitation. They read the traditional bodily-injury exception to require a direct relationship between the physical harm and emotional injury. Immediate fright and distress from the physical condition differ from reflection on an uncertain correlated disease. Common exposure and heightened cancer risk do not by themselves supply that relationship. Gottshall and Buckley require an independent boundary, and sincerity or seriousness alone does not answer the category objection. The Court's rule, they conclude, risks speculative valuation and diminishes resources for later serious disease. Their objection concerns the category the charge allowed, not an unrequested adjective. They would vacate damages and remand for proceedings under the narrower injury rule while preserving liability for proved asbestosis and its otherwise compensable consequences. They join the Court's entire indivisible-injury holding.
+Kennedy's partial dissent, joined by O'Connor and qualifiedly by Breyer, in Ayers on March 10, 2003, requires a direct relation between physical injury and emotional harm before ordinary bodily-injury damages encompass the fear. A common exposure and correlation between asbestosis and possible later cancer are insufficient for contemplative future-disease fear on that account. The independent Gottshall/Buckley restrictions and uncertainty of valuation would require a damages remand, preserving the underlying asbestosis-liability finding and full indivisible-injury responsibility. This is a proposed injury-category limit, not a claim that Norfolk preserved a seriousness-only instruction. It is noncontrolling.
 
-Breyer writes further because his position does not exclude every serious cancer fear. In addition to genuineness and seriousness, he would generally deny recovery only when all three conditions hold: development of the feared disease can neither be expected nor ruled out for many years; fear remains separately compensable if the disease occurs; and the feared risks are not significantly different in kind from the background risks everyone faces. If any condition is absent, that exclusion does not apply. Even when all three are present, unusually severe fear remains compensable if it significantly and detrimentally affects everyday life and work. Physical manifestations, psychiatric treatment and professional testimony are not universal conditions. He regards this boundary as responsive to the difficulty of valuing incremental future-risk fear and preserving compensation for later disease, notwithstanding the unpresented exact formulation. He seeks a damages remand under the complete rule, without deciding any worker's individual sufficiency or guaranteeing renewed recovery, and joins the indivisible-injury holding.
+Breyer's further partial dissent, on the same date, adds a generally applicable exclusion only when three conditions coincide: the feared disease's development can neither be expected nor ruled out for many years; fear remains separately compensable if that disease occurs; and the risks feared are not significantly different in kind from background risks everyone faces. Absence of any condition prevents that exclusion. Even when all coincide, unusually severe fear is compensable if it significantly and detrimentally impairs everyday life and work; physical manifestations, psychiatric treatment and professional testimony are not universal requirements. The rule would govern the recoverable category on his proposed damages remand, without a claimant-specific sufficiency finding or guaranteed new award. This complete qualification, as well as his valuation and compensation-preservation grounds, is noncontrolling.
 
 ### 2003-03-10 — Odom v. Antrican
 
@@ -977,13 +1068,57 @@ Source: `terms/OT2002/records/Cuyahoga-Falls-v-Buckeye-Community-Hope-Foundation
 
 His proposed rule protects completed standards-bound determinations, while leaving tentative approvals, ordinary legal mistakes, reasonable time for lawful judicial review, legislative zoning and legally bounded reconsideration outside that rule. The remand court would determine the legal entitlement and finality criteria and ask whether supported evidence at summary judgment permits the required findings. At trial the foundation would have to prove the historical conditions, municipal responsibility and causal deprivation by a preponderance; compensation would additionally require attributable loss proved by that standard. Any otherwise available nominal relief would require its own preserved basis and defenses. City responsibility would remain distinct from an individual's conduct-date immunity. His proposed administrative-entitlement rule and remand are noncontrolling.
 
+### 2003-03-25 — Gerber v. Hickman
+
+Source: `terms/OT2002/records/Gerber-v-Hickman_merits_2003-03-25.md`.
+
+**Stone-Zsela, concurring.** He joins the remand under Turner but would give stronger protection against complete prevention of a practicable, privately financed, no-contact method. Gerber would prove concrete feasibility by a preponderance at factfinding, with supported allegations accepted at the pleading stage. Officials would then substantiate an important penological objective and the actual operational need for complete refusal, including why workable safeguards do not address it. Routine handling restrictions would retain Turner review. Skinner’s protected choice, Turner’s surviving marital interests and Lewis’s insistence on actual institutional fit support that distinction, in his view. The practical permanence of the deprivation warrants more than ordinary deference to complete prevention; private payment still proves neither feasibility nor a violation.
+
+He would require timely consideration of collection and transport arrangements, costs, handling risks and safeguards before delay defeats the choice. If an unjustified total refusal is proved, officials should have a genuine initial opportunity to propose an effective accommodation. Any injunction must satisfy every §3626 finding, specify the supported method, responsible officials and compliance arrangements, and set a practicable implementation schedule. An unsupported proposal warrants no compelled service. The claim supplies neither conjugal access, public financing, guaranteed pregnancy nor sentence modification; a broader policy remedy requires proof of the broader violation and the applicable findings.
+
+**Scalia, dissenting, joined by Thomas.** Preserving marriage and reproductive capacity does not, in their view, create an entitlement to the institutional assistance required for conception during confinement. Turner protects compatible marital interests, while Glucksberg distinguishes an antecedent liberty from a claimed right to assistance. They would affirm this dismissal on that confined ground. Their position preserves protection against forced sterilization and a general marriage ban; it does not eliminate Turner review of rights actually retained.
+
 ### 2003-03-25 — Woodford v. Garceau
 
 Source: `terms/OT2002/records/Woodford-v-Garceau_merits_2003-03-25.md`.
 
-Souter dissents, joined by Ginsburg and Breyer. The counsel, protective-stay and merits statutes form a connected undertaking. Here the district court did more than open a docket or appoint counsel: before enactment it assessed identified issues as sufficiently substantial to protect preparation. They would retain the §2254 standards first used in that assessment throughout the later application. Lindh's contrast between the two statutory chapters supports that transition. Replacing the governing law after this judicial first look would detach protected preparation from the proceeding it serves and encourage incomplete applications filed merely to preserve a standard. They acknowledge that the specification anticipated a later petition; their ground does not relabel it as an application or depend on an entirely unexamined counsel request. They would leave the existing appellate relief judgment intact against the granted temporal challenge, without deciding the constitutional merits anew.
+Souter's dissent, joined by Ginsburg and Breyer, in Garceau on March 25, 2003, would attach former §2254 law to a continuing habeas undertaking once the court actually assessed prospects of habeas success in issuing or maintaining pre-enactment §2251 protection. It reads the related counsel, stay and merits provisions together and applies Lindh's structural transition inference at that first judicial assessment. It accepts the prospective character of the specification, does not require treating it as a completed application, and leaves an entirely unexamined appointment request outside the necessary ground. The proposal would preserve the existing appellate writ against the State's temporal objection without a new constitutional-merits adjudication. It is noncontrolling.
 
-Stone-Zsela dissents separately. He would count genuine judicial commencement of the capital preparation proceeding: before enactment the prisoner must invoke the statutory counsel and protective authority and the court must actually exercise it. Garceau's May motions and June appointment and extended stay satisfy that requirement. McFarland recognizes substantive judicial preparation, and Lindh and Carriger should extend to that legally recognized commencement rather than only a completed application. Section 2254's application language describes what will be adjudicated but does not alone resolve this transition. His rule rests on actual filings and judicial action, not intent or a caption, and preserves separately directed provisions and chapter 154's independent conditions. He would affirm against the temporal objection and preserve the appellate relief judgment within the granted scope. The statutory account supplies neither a fresh constitutional-merits ruling nor a constitutional right to permanently unchanged review law.
+Stone-Zsela's separate dissent, on the same date, would extend the Lindh/Carriger transition when a capital prisoner genuinely invokes statutory counsel and habeas-related protective authority before enactment and the court actually exercises it. Actual qualifying filings and judicial action must be established; private intent, a caption or an unrelated motion does not suffice. He treats the May/June 1995 commencement as sufficient and reads §2254's application language as identifying the object of merits adjudication without itself settling the connected statutory transition. McFarland's preparation right reinforces that construction but creates no constitutional entitlement to frozen law. Separate temporal commands and chapter 154 qualification remain distinct. He would preserve the existing appellate relief judgment against this temporal challenge, leaving any independent properly presented merits question within its actual scope. His proposed further extension is noncontrolling.
+
+### 2003-03-26 — Brown v. Legal Foundation of Washington
+
+Source: `terms/OT2002/records/Brown-v-Legal-Foundation-of-Washington_merits_2003-03-26.md`.
+
+**Stone-Zsela, concurring in part and in the judgment.** He joins the ownership and appropriation distinction, the public-use conclusion, and the actual-owner-loss disposition on the adjudicated premise. He emphasizes that a claimant asserting misclassification must establish actual net earning capacity, duration and necessary costs; a supported positive-loss claim must receive compensation analysis rather than automatic dismissal under this zero-loss judgment. Phillips makes actual generated interest the client’s property, while the Foundation’s aggregate gain does not measure what the client surrendered. He does not join the private-error limitation on respondents’ responsibility and supplies no categorical finding of State liability for a different deposit.
+
+**Scalia, dissenting, joined by Kennedy and Thomas.** Market value at appropriation presumptively governs, subject to established exceptions when market value cannot practicably be determined or would produce manifest injustice. Neither exception is established here. The earned monetary asset ordinarily has its face value even if an individual account could not have created it. Phillips and Webb’s protect that asset; hypothetical account or extraction costs cannot erase its constitutional value. A legitimate, independently owed actual-service charge remains possible, but this diversion is not established as such a charge. Even on a net-value theory, inability to earn outside IOLTA does not itself establish the costs of receiving actual pooled earnings, so factual inquiry is required. A private officer’s initial error also does not excuse the later governmental appropriation. They would vacate and remand for ownership, value and lawful relief, including the granted small-claim remedy question if a positive unpaid entitlement is established.
+
+**Kennedy, separately dissenting.** He joins Scalia’s dissent in full and adds that mandatory direction of pooled interest may prevent owners from supporting alternative legal-service viewpoints. Abood and Keller identify a potential compelled-support concern. He reserves that distinct First Amendment issue for appropriate litigation rather than resolving it in this takings case.
+
+### 2003-03-31 — Archer v. Warner
+
+Source: `terms/OT2002/records/Archer-v-Warner_merits_2003-03-31.md`.
+
+Thomas, joined by Stevens, dissents. He treats these broad releases and the replacement promise as a substantive extinguishment of the earlier liability, rather than a change in its instrument. In re Cohen requires existing liability legally connected to the fraudulent acquisition; for the dissenters, the voluntary settlement severed that connection. Brown v. Felsen permits examining the nature of a debt embodied in a consent judgment but does not require disregarding this substantive replacement. They would affirm the discharge ruling on that construction of the bargain. Their position concerns the legal effect of the settlement, not a finding that the underlying fraud allegations are true or false.
+
+### 2003-03-31 — Branch v. Smith
+
+Source: `terms/OT2002/records/Branch-v-Smith_merits_2003-03-31.md`.
+
+**Scalia, concurring in part and in the judgment, joined by Kennedy and Ginsburg.** They reconcile §§2a(c) and 2c by preserving constitutional applications of the older fallback only as a last resort: the election must be so imminent that no competent legislative or judicial actor can complete lawful districting without disrupting the electoral process. A feasible map must follow §2c and state policies insofar as consistent with superior law. Section 2a(c)’s reference to state law does not bar that judicial remedy, and Mississippi’s parallel fallback operates correspondingly. The actual federal map defeats both at-large demands. Paragraphs (1)–(4) ordinarily conflict with later population-equality requirements, though an unusual census requiring no constitutional district change is not impossible. They reject complete repeal and the partial dissent’s view that unfinished state process alone requires at-large elections.
+
+**Stevens, concurring in part and in the judgment, joined by Souter and Breyer.** They join the feasible-map rule and would hold that §2c impliedly repealed §2a(c) and preempted Mississippi’s at-large fallback. Under Posadas, the categorical later command both conflicts with the older at-large regime and comprehensively replaces it. The 1967 enactment history and the express, expired exception reinforce that conclusion: a State entitled to more than one Representative that had elected its Representatives at large in every prior election could do so for the Ninety-first Congress. Only Hawaii and New Mexico qualified, and the permission covered only the 1968 election. They reject the retained emergency exception rather than accepting it as an additional rationale for their judgment.
+
+**Stone-Zsela, concurring in part and in the judgment.** He resolves the statutes at the feasible-map scope: the later single-member command governs this available judicial remedy, while an unavoidable mapless emergency is beyond the required decision. He joins the statutory nonuse and adequate-ground vacatur but not the post-injunction administrative-clock rationale or the independent Connor ground. He would require a party seeking narrower relief than the operative election arrangement to demonstrate a complete lawful cure; a voter-by-voter exception cannot make an unlawful statewide plan usable. Officials should supply the operative map, actual submission and approval record and proposed replacement date. The court must prevent an election under an unapproved governmental change. A lawful precleared replacement should receive ordinary review of its actual effect and preserved independent objections, so the interim federal plan neither becomes permanent through inertia nor disappears on submission alone.
+
+**O’Connor, concurring in part and dissenting in part, joined by Thomas.** They join preclearance nonuse, rejection of later automatic approval, constitutional vacatur and the Connor sequencing ground. They would reverse the single-member remedy. Section 2a(c) remains operative until the State completes redistricting through its own prescribed process, including preclearance; §2c then governs remedial districting following that completion. The majority’s feasible-map approach and the retained-fallback concurrence’s imminence restriction lack that textual condition, in their view. They preserve the distinct state-process and federal-remedy roles and invoke avoidance of the asserted commandeering concern without declaring §2c unconstitutional. On remand, the at-large arrangement must satisfy independent constitutional and Voting Rights Act requirements; cumulative voting or another lawful method remains possible rather than mandatory winner-take-all voting.
+
+### 2003-03-31 — Nassau County v. Shain
+
+Source: `terms/OT2002/records/Nassau-County-v-Shain_merits_2003-03-31.md`.
+
+Scalia, joined by Kennedy and Thomas, agrees that immunity review must consider all relevant conduct-date law, but dissents from the constitutional ruling. Bell's contextual balance, in their view, permits the reasonable visual screening of persons entering common custody because contraband risks do not depend on the seriousness of a charge. Their institutional-security ground requires a reasonable search for protection; it does not rely on attributing uncommunicated police information to the searching officer. They would reverse the reviewed constitutional liability and remand for the consequences for relief dependent on it. On that merits disposition they do not decide whether the individual would have immunity if the search were unconstitutional.
 
 ### 2003-03-31 — Okpalobi v. Foster
 
@@ -992,6 +1127,34 @@ Source: `terms/OT2002/records/Okpalobi-v-Foster_merits_2003-03-31.md`.
 **Scalia, concurring in part and dissenting in part, joined by Thomas.** They join the common defendant-connection, effective-relief and broad-injunction holdings, but would affirm dismissal of both reviewed officers. Even assuming that the complaint asserts the narrower deprivation and that a plaintiff qualifies for the protection, the identified powers remain insufficient. The statutes assign relevant administration to the Board, commissioner, panel administrators and fund officials. The Governor's appointment power and germane-functions direction do not transfer each independent private-fund eligibility decision to him. The Attorney General's State-fund counsel and settlement duties do not establish power over the private-fund protection or patients' cause of action. Bennett requires an actual official coercive act, and Henderson's partial redress was tied to a barrier the sued administration could affect. In their view, searching these dispersed channels after the identified allocation is known risks finding a new controversy. They would dismiss the declaration as well because the described powers supply no operative adverse administrative relationship; they would not reach immunity or the abortion merits.
 
 **Stone-Zsela, concurring in part and dissenting in part.** He agrees that the broad injunction must remain vacated and that injury, official responsibility and operative relief are separate requirements. He would affirm defendant-specific dismissal without prejudice. The threatened private liability may be real, but these officials cannot extinguish patients' claims or direct state courts to reject them, and their appointment powers or a hypothetical fund decision do not establish an existing administrative action capable of curing the asserted injury. Young, Coeur d'Alene and Verizon preserve relief against a genuinely responsible officer; they do not authorize selection of any executive official. The Declaratory Judgment Act supplies neither jurisdiction nor binding effect on absent patients. He would require an actual adverse actor and remedy in a properly supported proceeding and would not infer an amended claim from possible future administrative action. His dismissal would leave immunity and the abortion merits unaddressed.
+
+### 2003-03-31 — United States v. Hambrick
+
+Source: `terms/OT2002/records/United-States-v-Hambrick_merits_2003-03-31.md`.
+
+**Stone-Zsela, concurring.** He joins the account-specific remand and would extend Guest to necessary entrustment of ordinary nonpublic identification and payment information. The claimant would identify the personal nonpublic relationship between the user and restricted account and the actual acquisition; public exposure or a materially different function could defeat that premise. The government would then establish applicable authorization or an exception, while suppression would still require its separate constitutional and causal predicates. Protection would follow restricted-account function rather than bargaining power over a provider’s boilerplate. Guest’s functional reasoning, and the limited bank-record and dialed-number holdings in Miller and Smith, support that extension in his view. It reaches the identifying relationship, not every provider file or a universal warrant requirement.
+
+He would require an acquisition-specific account of what was produced and the origins of later evidence, with the government substantiating asserted authorization, independence or attenuation under the applicable rule. A later signature alone would be insufficient. The court would exclude only what the constitutional remedy requires and then implement the conditional-plea consequences through ordinary criminal procedure.
+
+**O’Connor, dissenting, joined by Scalia, Kennedy and Thomas.** They accept Guest at its actual scope but regard the described identity, address, payment, telephone and Internet-address fields as ordinary service or business information rather than confidential access credentials or a proved protected identifying relationship. Hambrick has not carried the personal-interest burden on this record. Miller and Smith remain applicable at that limited scope. Invalid process and statutory confidentiality cannot themselves establish privacy, and the dissenters would affirm suppression denial without creating a universal provider-possession or noncontent exception.
+
+### 2003-04-02 — Kentucky Association of Health Plans, Inc. v. Miller
+
+Source: `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md`.
+
+Stone-Zsela concurs in part and in the judgment. He would apply UNUM's practical, nonmechanical guideposts to the insurer-directed changes in the actual coverage bargain. Network access affects promised care and the arrangement for furnishing and financing it; the plans' cost-control objection identifies the economic effect of insurance regulation rather than a reason to disregard the saving clause. Rush Prudential preserves saved coverage conditions and the federal benefits-remedy channel. He therefore supports saving the requirements within their lawful insurance scope but would retain the existing framework rather than replace it with two universal necessary conditions. He joins Part VI's deemer and independent enforcement boundaries. Particular disputed plan status must be established under applicable federal law. His agreement in judgment on the nonexempt self-insurer/MEWA definition objection and the administrative-only-HMO objection adds no separate rationale for those components.
+
+### 2003-04-07 — Virginia v. Black
+
+Source: `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md`.
+
+**Part III of the lead opinion: Stevens, O'Connor and Breyer; Stone-Zsela joins its facial-proof analysis.** These Justices conclude that the proof provision in its model-instruction operation reaches substantial protected expression. Cross burning has political and ritual uses, and treating the act alone as sufficient permits conviction across a substantial identifiable range of those uses. The problem reaches beyond a single erroneous instruction because the model instruction remains undisavowed. General proof directions do not remove its specific permission. The state court has yet to supply a final construction, and construction or severance remains for the distinct Elliott and O'Mara remands. Stevens, O'Connor and Breyer affirm Black's indictment dismissal on that present facial ground. Stone-Zsela concurs in that part of the judgment without joining its indictment rationale.
+
+**Scalia, concurring in part and dissenting in part; Thomas joins the facial-construction portion only.** Scalia accepts the confined offense, rejects present facial invalidation and would obtain an authoritative state construction. Prima facie evidence may be sufficient when unrebutted while leaving the jury obliged to weigh contrary evidence; possible misuse alone does not establish substantial overbreadth. Thomas joins that construction objection. Scalia separately concludes that Black's by-itself instruction leaves intolerable uncertainty whether the jury considered rebuttal notwithstanding Instructions 6 and 8. He would retain conviction vacatur, vacate the indictment dismissal and permit a retrial under a valid construction, subject to ordinary restrictions. Thomas does not join this instructional conclusion or retrial disposition.
+
+**Souter, concurring in the judgment as to Black and dissenting as to Elliott and O'Mara, joined by Kennedy and Ginsburg.** They would resolve the open content-selection question against this prohibition. The combination of a symbol-specific offense and evidentiary privilege presents a realistic danger that suppressing the associated ideology partly explains the selection. A cross can convey ideology, intimidation or both. The proof provision tilts doubtful cases toward punishment, and a general intimidation law can protect safety without this selection. They would affirm every reviewed conviction vacatur and indictment dismissal. Later removal of the proof clause cannot validate prosecutions under a law constitutionally defective when the conduct occurred.
+
+**Thomas, dissenting.** Thomas principally treats intentional cross burning as terrorizing conduct by a particular means. Alternatively, its history gives the permissive inference a rational basis under Allen, while the whole charge preserves the prosecution's burden and the jury's ability to reject the inference. He would reverse the reviewed constitutional grounds for vacatur and dismissal for each respondent and remand for remaining preserved matters, including O'Mara's plea consequences. His position requires statutory intimidating intent and does not make every political or ritual cross burning criminal.
 
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
@@ -1002,6 +1165,14 @@ Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_me
 **Stone-Zsela, concurring in part and dissenting in part.** He joins Parts I–III but would reverse approval of outside access insofar as the State has supplied no function-specific legal justification, and remand for an injunction against that access. Eligibility to inspect closed files is not a reason to obtain this minor’s identity and intimate account; penalties for unlawful leaks do not cure an unnecessarily broad lawful transfer. A genuine preexisting legal restriction may narrow the decree, but an expectation of responsible administration is insufficient. The remedy should preserve necessary internal handling and practical bypass access while preventing exposure lacking bounded authority. His position does not require a finding that the exception substantially obstructs abortions.
 
 **Scalia, concurring in part and dissenting in part, joined by Thomas.** They accept the permission for necessary confidential internal handling but would affirm rejection of both claims. Their Sheets and Paul P. positions reject the asserted broader substantive informational-privacy right. The statutory confidentiality command, fictitious-name option, separate authorization requirement and penalties make speculative misuse insufficient under their rule. They do not conclude that every future agency request is lawful or that a proved improper disclosure defeats every independently grounded claim. Their disagreement with the partial vacatur is therefore different from Stone-Zsela’s demand for more immediate protection.
+
+### 2003-05-19 — Stout v. Baxter Healthcare Corp.
+
+Source: `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md`.
+
+**Scalia, concurring in part and dissenting in part, joined by Kennedy and Thomas.** They accept that §703(k) reaches a properly proved pregnancy-related impact claim, with its enacted necessity and alternative burdens. They would nevertheless affirm Baxter's impact judgment because this record establishes Stout's individual injury and predictable exclusion of childbirth during probation without adequately proving the relevant comparative effect. The lack of an inevitable childbirth absence among other employees does not establish their actual relative ability to meet the total-absence limit, and the broader related-condition claim requires a supported relationship to the childbirth subgroup. They do not demand statistics in every case: reliable medical, operational or statistical evidence could supply the missing comparison. Their ground is proof insufficiency before the employer's defense is triggered, rather than immunity for uniformly enforced attendance policies.
+
+**Stone-Zsela, concurring.** Stone-Zsela joins the Court's evidence and statutory rulings. If a common unlawful cutoff is proved within a properly supported remedial claim, he would presume correction for the persons governed unless Baxter proves a narrower complete cure. That proposed remedial presumption would operate only after the independently applicable certification, individual-nexus and liability requirements are met. Relief would address causally supported injury, including lawful reinstatement or backpay, and prevent continued use of the proved unlawful cutoff within the appropriate scope. Baxter would first have an opportunity to propose a lawful attendance rule preserving proven job needs. A fitted decree would set a feasible implementation date and require the revised rule, employee notice and actual employment decisions to demonstrate compliance; failure to cure would permit enforcement. He treats a probation extension as a possible evidenced alternative and would permit judgment for Baxter if ordinary procedure ultimately leaves no genuine impact dispute or lawful further development. This conditional remedial approach is his separate position, not an additional holding of the Court.
 
 ### 2003-05-27 — Benson v. Terhune
 
@@ -1095,14 +1266,14 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 No further report, filing, deadline, or Court action is supplied.
 
-The remaining 103 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 90 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
 
 ## Blockers and Revalidation Needs
 
 No adjudicative blocker or stopped matter remains. Cano is an affirmatively retained appeal, not a stopped event. Repository-history verification and commitment remain reserved to the operator; no version-control command was invoked. This administrative deferral changes no vote, law or event status.
 
-Validation: `terms/OT2002/freeze/OT_2002CHUNK6_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
+Validation: `terms/OT2002/freeze/OT_2002CHUNK7_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/run_ot2002_no_git.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
 
 ## Source and Research Cutoff
 
-Each Record states its event-date research cutoff, source support and limitations. Chunk 6 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK6_CONTINUITY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.
+Each Record states its event-date research cutoff, source support and limitations. Chunk 7 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK7_CONTINUITY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.

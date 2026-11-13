@@ -1,0 +1,107 @@
+[
+  {
+    "name": "archer-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/01-1418.ZO.html",
+    "bytes": 19567,
+    "sha256": "1b53ede06e07399e0d33d866c2e738ac72340ae3cd6b2242770c28c71ec6485b",
+    "status": "saved"
+  },
+  {
+    "name": "branch-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/01-1437.ZO.html",
+    "bytes": 62143,
+    "sha256": "03346a6dd5be69336603f89a2106d123a5c6544be23d258656b5606ea8c88c73",
+    "status": "saved"
+  },
+  {
+    "name": "branch-ZX",
+    "url": "https://www.law.cornell.edu/supct/html/01-1437.ZX.html",
+    "bytes": 56233,
+    "sha256": "8413f8160931b5c69c1a11085866528fc75c6d4e6f67a836c1e58b039767837d",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZO.html",
+    "bytes": 52732,
+    "sha256": "09ac6413cc2bcf484bd18980433f1d522dd497c159f383b0a0303aaa9f0e8f2e",
+    "status": "saved"
+  },
+  {
+    "name": "kentucky-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/00-1471.ZO.html",
+    "bytes": 30188,
+    "sha256": "d394f9a7120abb26d176d11ea3f94d34809edae7cecc864613aaae7e00d7918b",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZX",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZX.html",
+    "bytes": 36332,
+    "sha256": "fb41686d603e67305859d4b1f7a5fedd7a23ae80bba65ca2a559c048e9bc09d0",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZC.html",
+    "bytes": 4523,
+    "sha256": "392b92f48e720aac478f01d9c3bb4b59625fab7e7ea7452575d23916042a9614",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZD.html",
+    "bytes": 33710,
+    "sha256": "82ff7b5dc0c78178a95a70518e2f6e09cea0f77f40b8a0cf5a68bbab2f1281c5",
+    "status": "saved"
+  },
+  {
+    "name": "branch-ZC1",
+    "url": "https://www.law.cornell.edu/supct/html/01-1437.ZC1.html",
+    "bytes": 21030,
+    "sha256": "39fce4115bedefcd93db43e44b8f85823f8f25a3d4674404f177d9c49586bc63",
+    "status": "saved"
+  },
+  {
+    "name": "brown-ZD1",
+    "url": "https://www.law.cornell.edu/supct/html/01-1325.ZD1.html",
+    "bytes": 5498,
+    "sha256": "3015c109854a4a21d82100c665a53a4f17275d49b76db4ad2f6c5c510a364586",
+    "status": "saved"
+  },
+  {
+    "name": "branch-ZC",
+    "url": "https://www.law.cornell.edu/supct/html/01-1437.ZC.html",
+    "bytes": 10021,
+    "sha256": "dd7041ff9132d2af7a76d4f9cccd2a42add6df7296accf4909114222c9200231",
+    "status": "saved"
+  },
+  {
+    "name": "brown-ZO",
+    "url": "https://www.law.cornell.edu/supct/html/01-1325.ZO.html",
+    "bytes": 53528,
+    "sha256": "a0eed12b74e0d5f8e713ca0f30fc174df8e74999d55f136f9db44b109da82c69",
+    "status": "saved"
+  },
+  {
+    "name": "brown-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/01-1325.ZD.html",
+    "bytes": 34840,
+    "sha256": "12ab5c11407217913e0194d197b904781084675f26046001deb90f07fbe3ac87",
+    "status": "saved"
+  },
+  {
+    "name": "archer-ZD",
+    "url": "https://www.law.cornell.edu/supct/html/01-1418.ZD.html",
+    "bytes": 15873,
+    "sha256": "b9c18c3de3bc5efccd68d3b3a7566fa4f20003374efd9f393a0085484d878c2f",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZX1",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZX1.html",
+    "bytes": 20514,
+    "sha256": "b9abf71ff91eeb161b396a7b27313a60197b1e2fc716de644be750452ae012d4",
+    "status": "saved"
+  }
+]

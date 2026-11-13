@@ -1,0 +1,751 @@
+273 F.3d 56 (2001)
+Ray E. SHAIN, Plaintiff-Appellee-Cross-Appellant,
+v.
+John ELLISON, (Shield No. 761), individually and as a Nassau County police officer; John
+Doe, individually and as an Assistant District Attorney of Nassau County; The County of
+Nassau, a Municipal Corporation; Joseph Jablonsky, Defendants-Appellants-Cross-
+Appellees,
+James H. Madden, individually and as a Judge of Nassau County, Defendant-Cross-
+Appellee.
+Docket Nos. 00-7061(L), 00-7069(XAP).
+Argued October 19, 2000.
+Decided October 19, 2001.
+United States Court of Appeals, Second Circuit.
+*58 *59 Robert L. Herbst, Herbst & Greenwald, LLP (Gayle Pollack, on the brief), New York, NY; Ray E. Shain,
+pro se, Williston Park, NY, for Plaintiff-Appellee-Cross-Appellant.
+58
+59
+Paul F. Millus, Snitow & Cunningham, LLP (Robert P. Devlin, on the brief), New York, NY, for Defendants-
+Appellants-Cross-Appellees County of Nassau and Joseph Jablonsky.
+Carol Fischer, Assistant Solicitor General (Eliot Spitzer, Attorney General of the State of New York, Robert E.
+Forte, Deputy Solicitor General, and Michael S. Belohlavek, Assistant Solicitor General, on the brief), New York,
+NY, for Cross-Appellee Judge James H. Madden.
+Herbst & Greenwald, LLP (Robert L. Herbst and Gayle Pollack of counsel), New York, NY, for Amici Curiae
+Putative Class Members in Augustin v. Jablonsky.
+Emery Cuti Brinckerhoff & Abady PC (Richard D. Emery, Matthew D. Brinckerhoff, John R. Cuti, and Nina
+Morrison, of counsel), New York, N.Y. for Amici Curiae 65,000 Class Members in Tyson v. City of New York and
+Plaintiffs in O'Day v. Nassau County.
+Daniel L. Greenberg, Sarah Kerr, John Boston, Laura Johnson, New York, NY, for Amicus Curiae Legal Aid
+Society.
+Michael D. Hess, Corporation Counsel of the City of New York (Larry A. Sonnenshein and Kathleen Alberton of
+counsel), New York, NY, for Amicus Curiae New York City Department of Correction.
+Before: CABRANES, POOLER, KATZMANN, Circuit Judges.
+POOLER, Circuit Judge:
+This appeal requires us to determine whether it was clearly established in July 1995 that corrections officers in a
+local correctional facility could not perform a strip search including a non-intrusive examination of body cavities
+on an individual arraigned on misdemeanor charges unless the officers had reasonable suspicion that the
+individual possessed contraband or weapons. We hold that after this court's decisions in Wachtler v. County of
+Herkimer, 35 F.3d 77 (2d Cir.1994), Walsh v. Franco, 849 F.2d 66 (2d Cir.1988), and Weber v. Dell, 804 F.2d 796
+(2d Cir.1986), no law enforcement officer reasonably could have believed that it was permissible to perform such
+a search absent individualized reasonable suspicion.
+BACKGROUND
+
+I. Shain's Arrest and Strip Search
+On July 29, 1995, Nassau County police *60 officers including Peter Ellison[1] responded to a 911 call from Dr.
+Donna Denier, who was then married to plaintiff Ray Shain, at the couple's residence. Denier showed Ellison a
+recently expired order of protection that required Shain to stay out of her bedroom. When Ellison realized that he
+could not arrest Shain for violation of the order of protection, he interviewed Denier because
+60
+[He] wanted to get a clearer picture of exactly what [Shain] did, to see if [he] could arrest him, if
+there was another charge that [he] could arrest him on besides the order of protection [and after
+the interview, he] determined that [he] could arrest him minus the order of protection, without it.
+Ellison testified that Denier told him Shain entered her room and threatened to rape her and that Ellison then
+believed he had probable cause to arrest Shain. In his police report, Ellison said:
+COMP REPORTS AT TIME AND PLACE OF OCCURRENCE LAYING IN HER BED READING
+WHEN HER HUSBAND ENTERED ROOM. SHE TOLD HIM SEVERAL TIMES TO LEAVE AND
+HE STATED AGAIN, "I'M GOING TO FUCK YOU". SHE TOLD HIM TO LEAVE AGAIN AND
+FEARING FOR HER SAFETY SHE LEFT THE ROOM AND CALLED THE POLICE
+Denier gave a more expansive account of her conversation with Ellison, claiming that she also told him that Shain
+previously had threatened her and been out of control and that he had thrown a table at her and swung a lamp at
+her on prior occasions.
+Ellison testified that when he arrested Shain for first degree harassment, a Class B misdemeanor, Shain acted in
+an agitated manner. Shain himself admitted that he did not turn over a pocket knife when he was asked to empty
+his pockets. After retrieving the pocket knife, Ellison transported Shain to the police station and "rear-cuffed" him
+to a manacle in a holding cell. Despite Shain's complaints that he had undergone a spinal fusion as an
+adolescent and was in severe pain, Ellison refused to take the cuffs off or to front cuff Shain. Ultimately, Ellison
+and another officer took Shain to the Nassau County Medical Center where a doctor who examined him reported
+that Shain was experiencing muscle spasms and lumbar sprain and ordered that he not be cuffed behind his
+back. Ellison spent the balance of the night at the central police station.
+The next day, Shain appeared before Judge James H. Madden, a District Court judge sitting as a Family Court
+judge, who arraigned Shain on Denier's family offense petition. Without holding a hearing, Judge Madden
+remanded Shain to Nassau County Correctional Center ("NCCC") without bond.
+Upon Shain's arrival at NCCC, Officer James Dantunono directed him to remove all his clothes and submit to a
+visual body cavity search. Dantunono looked in Shain's ears, his mouth, his hair and under his arms, and then
+made him turn around, bend over and spread his buttocks apart with his hands to facilitate a visual inspection of
+his rectum. Dantunono also directed Shain to hold up his external genitalia for inspection. Shain was again strip
+searched the next morning before he left to appear in Family Court. When Shain appeared in court, Family Court
+Judge Norman Feiden released him and allowed him to return to his home. Denier withdrew the Family Court
+petition on August 7, 1995. However, on or about August 28, *61 1995, the Nassau County District Attorney's
+Office filed harassment charges against Shain pursuant to N.Y. Penal Law § 240.26. Subsequently, these
+charges were dismissed pursuant to an adjournment in contemplation of dismissal.
+61
+II. NCCC's Strip Search Policy
+Although NCCC claims that it does not subject individuals charged with misdemeanors and minor offenses to a
+strip search unless it has reasonable suspicion that the arrestees are concealing contraband or they have been
+remanded to NCCC's custody by a court, the written policies governing strip searches require corrections officers
+to strip search each newly admitted inmate. In addition, all of the corrections officials who testified conceded that
+all newly admitted inmates were strip searched regardless of whether they were judicially remanded. Thus, while
+arrestees held briefly in holding cells may not have been strip-searched, all arrestees admitted to the jail were.
+
+III. District Court Proceedings
+Shain filed his lawsuit in the Eastern District of New York on July 29, 1996. In a second amended complaint dated
+July 7, 1997, Shain named Ellison; Judge Madden; "John Doe," an assistant district attorney; Joseph Jablonsky,
+the Sheriff of Nassau County; the County of Nassau and various anonymous corrections officers as defendants
+and requested damages for false arrest and imprisonment, malicious prosecution, abuse of process, the
+unconstitutional search of his person, assault and battery, and negligent and intentional infliction of emotional
+distress. He also sought a declaration that New York State Family Court Act § 155(2), which allowed his overnight
+incarceration without bail, and NCCC's strip search policy were unconstitutional and an injunction against their
+enforcement.
+On April 16, 1997, by stipulation and order, the district court dismissed all claims against Judge Madden, leaving
+him as a defendant in name only to permit Shain to continue his challenge to Section 155(2). On January 9,
+1998, the district court sua sponte dismissed Judge Madden as a defendant, finding that "[p]laintiff may not
+discontinue all claims against Judge Madden yet proceed to use him as a straw man to secure what is, in
+essence, an advisory opinion as to the constitutionality of § 155(2) of the Act."
+On December 31, 1998, defendants moved for summary judgment on all of Shain's claims. Shain cross-moved
+for partial summary judgment establishing the unconstitutionality of NCCC's strip search policy. In an oral
+decision, Judge Wexler granted defendants' motion to dismiss Shain's false arrest, malicious prosecution, and
+abuse of process claims but reserved the excessive force and strip search claims for trial. In a published opinion
+dated June 1, 1999, Judge Wexler granted Shain partial summary judgment establishing that the strip search
+policy was unconstitutional and that Jablonsky was not entitled to qualified immunity. See Shain v. Ellison, 53
+F.Supp.2d 564 (E.D.N.Y.1999). More specifically, the court stated:
+The policy of strip searching all misdemeanor and minor offense arrestees remanded to the
+NCCC, without requiring any suspicion that the remanded individual is concealing weapons or
+other contraband, violates the Fourth Amendment to the United States Constitution.
+Id. at 568. The court noted that NCCC presented evidence of security problems that might be triggered by an
+order prohibiting it from strip searching all arrestees entering the facility but believed itself prohibited from
+considering this evidence *62 by Weber v. Dell, 804 F.2d 796 (2d Cir.1986) and Walsh v. Franco, 849 F.2d 66 (2d
+Cir.1988). See id. at 567-68.
+62
+A jury heard Shain's excessive force claim and evidence related to damages on the strip search claim. It rejected
+the excessive force claim and awarded Shain no damages for the strip search. Shain then moved to set aside the
+verdict and, in the alternative, for a new trial. The court denied Shain's motion and entered a judgment granting
+Shain $1.00 in nominal damages, declaring the strip search policy to be unconstitutional, and dismissing the
+action on the merits.
+Defendants County of Nassau and Jablonsky appealed, arguing principally that (1) the district court erred by
+failing to give proper deference to NCCC's security concerns; (2) Weber and Walsh do not govern this case
+because NCCC's policy was limited to arrestees who had been judicially remanded; (3) defendants had
+reasonable suspicion that Shain might be concealing a weapon and thus Shain lacked standing to challenge
+NCCC's general policy; and (4) Jablonsky was entitled to qualified immunity because the law concerning strip
+searches of misdemeanor pre-trial detainees was unsettled. Shain, who is an attorney, has submitted two briefs
+on his cross-appeal. In his counseled brief, Shain defends the district court's strip search holding while arguing
+that the district court should have granted injunctive relief and a new trial on damages. In his pro se brief, Shain
+contends that the district court erred by failing to grant him summary judgment on his false arrest claim;
+dismissing the malicious prosecution, abuse of process, and false arrest claims; dismissing his claims against
+Judge Madden and failing to reach the issue of the constitutionality of Section 155(2); and declining to grant a
+new trial on the excessive force claim.
+
+Several Amici Curiae have submitted briefs on the strip search issue. The New York City Department of
+Correction, which has a strip search policy similar to NCCC's, seeks reversal of the district court's decision. Class
+counsel for the plaintiffs in Tyson v. City of New York, No. 97 Civ. 3762 (S.D.N.Y.) (JSM), and O'Day v. Nassau
+County, 99-CV-2844 (E.D.N.Y.) (DRH)(ARL) primarily request that the court not retreat from Weber and Walsh
+insofar as these decisions apply to pre-arraignment detainees who are the plaintiffs in these two lawsuits.
+Plaintiff's own counsel, who is also the attorney for the putative class members in Augustin v. Jablonsky,
+CV-00-3126 (E.D.N.Y.) (DRH)(ARL) has submitted a brief on their behalf in opposition to the strip search policy.
+Finally, the Legal Aid Society, which represents incarcerated individuals in New York, also has submitted a brief in
+opposition to NCCC's policy.
+DISCUSSION
+I. Strip Search Policy
+A. Legality and Qualified Immunity
+Although it appears likely that NCCC's strip search policy applied to all persons actually admitted to the jail
+whether they had been arraigned or not, we consider the legality of that policy as it applies to post-arraignment
+admittees to the jail because Shain himself was a post-arraignment admittee.
+Before Officer Dantunono searched Shain in July 1995, we had decided three cases relevant to the issue before
+us. In Weber, we considered a Monroe County Jail policy "calling for strip/body cavity searches of all arrested
+persons other than those placed in `holding cells,' which are the cells in which arrestees are sometimes placed
+when their release on bail is imminent." Weber, 804 F.2d at 799. The *63 police arrested plaintiff Ann Weber on
+misdemeanor charges of making a false complaint and resisting arrest. See id. After jail officials booked Weber,
+they required her to remove her clothing and "expose her body cavities for visual inspection." Id. We held "that
+the Fourth Amendment precludes prison officials from performing strip/body cavity searches of arrestees charged
+with misdemeanors or other minor offenses unless the officials have a reasonable suspicion that the arrestee is
+concealing weapons or other contraband based on the crime charged, the particular characteristics of the
+arrestee, and/or the circumstances of the arrest." Id. at 802. Although the defendants argued that their policy
+applied only to arrestees who could not make bail and thus were to be admitted to the general prison population,
+we found it unnecessary to remand for factual findings because "even the more narrowly drawn policy would be
+unconstitutional." Id. We also rejected defendants' request for qualified immunity because all the circuits that had
+addressed similar policies had found them to be unconstitutional and because we long had stressed the intrusive
+nature of body cavity searches. See id. at 803.
+63
+Walsh reaffirmed the Weber holding, see Walsh, 849 F.2d at 68-69, and Wachtler assumed Weber's applicability
+to the post-arraignment strip search of a person charged only with a misdemeanor. Wachtler, 35 F.3d at 81-82.
+We also found in Wachtler that the individual defendants were entitled to qualified immunity because the law did
+not clearly establish whether Wachtler's conduct was sufficient to trigger a reasonable suspicion. Id. at 81-82.
+However, we reinstated Wachtler's claims against the County of Herkimer pending a fuller development of the
+record. See id at 82. We said with respect to the County:
+If the standard procedure included routine strip-searches of misdemeanor arrestees, absent
+reasonable suspicion of weapons or contraband, and if no reasonable suspicion concerning
+Wachtler's possession of such items existed, then Wachtler would prevail.
+Id. (citing Weber, 804 F.2d at 802-03).
+Defendants contend that Wachtler does not indicate clearly that post-arraignment strip searches of persons
+charged with a misdemeanor are unconstitutional because the parties did not necessarily argue a distinction
+between pre- and post-arraignment searches. Be that as it may, we recognized that Wachtler had been arraigned
+and remanded to custody and nevertheless found that a policy that subjected him to a strip search without
+
+individualized reasonable suspicion would be unconstitutional. See id. at 79, 82. Because the unconstitutionality
+of a post-arraignment strip search absent reasonable cause was necessary to the court's holding in Wachtler, we
+reject defendants' argument.
+Defendants next argue that we must not read Wachtler to prohibit strip searches of persons arrested for a
+misdemeanor after they have been arraigned because this reading would conflict with two Supreme Court
+decisions, Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d 447 (1979), and Block v. Rutherford, 468 U.S.
+576, 104 S.Ct. 3227, 82 L.Ed.2d 438 (1984). In Bell, the Supreme Court considered the constitutionality of a
+policy that subjected pre-trial detainees to strip searches after a contact visit. It reasoned that "maintaining
+institutional security and preserving internal order and discipline are essential goals that may require limitation or
+retraction of the retained constitutional rights of both convicted prisoners and pretrial detainees." Bell, 441 U.S. at
+546, 99 S.Ct. 1861. Quoting Pell v. Procunier, 417 U.S. *64 817, 827, 94 S.Ct. 2800, 41 L.Ed.2d 495 (1974), the
+Court held that "in the absence of substantial evidence in the record to indicate that the officials have
+exaggerated their response to these considerations, courts should ordinarily defer to their expert judgment in
+such matters." Id. at 548, 99 S.Ct. 1861. Applying these principles, the Court upheld a visual, no-contact body
+cavity search of detainees after contact visits with persons from outside the institution. It said, "assuming for
+present purposes that ... pretrial detainees ... retain some Fourth Amendment rights upon commitment to a
+corrections facility, we nonetheless conclude that these searches do not violate that Amendment. The Fourth
+Amendment prohibits only unreasonable searches, and under the circumstances, we do not believe that these
+searches were unreasonable." Id. at 558, 94 S.Ct. 2800 (internal citations omitted).
+64
+In Block, the Supreme Court upheld jail policies prohibiting contact visits by pre-trial detainees and permitting jail
+authorities to conduct random searches of cells in the absence of their pre-trial detainee occupants. However, its
+holding rests on a due process analysis and thus adds little to the holding of Bell. See Block, 468 U.S. at 590,
+104 S.Ct. 3227; see also Weber, 804 F.2d at 800.
+In Weber, we said that Bell did not "read out of the Constitution the provision of general application that a search
+be justified as reasonable under the circumstances." Weber, 804 F.2d at 800. We also described three factors
+potentially supporting the determination that the Bell plaintiffs had no right to be free of a strip search: they
+already had been arraigned; they had failed to make bail; and they "had presumably chosen to receive visitors
+and to enjoy physical contact with them." Id. In Wachtler, we implicitly held that the mere fact of arraignment did
+not remove a misdemeanor arrestee from the purview of Weber and place him within the ambit of Bell. See 
+Wachtler, 35 F.3d at 79, 82. The Wachtler result is not at odds with Bell. First, the Bell court did not address the
+issue of whether persons charged only with misdemeanors must be treated differently from persons charged with
+felonies.[2] Second, and more important, Bell authorized strip searches after contact visits, where contraband
+often is passed. See Block, 468 U.S. at 586, 104 S.Ct. 3227. It is far less obvious that misdemeanor arrestees
+frequently or even occasionally hide contraband in their bodily orifices. Unlike persons already in jail who receive
+contact visits, arrestees do not ordinarily have notice that they are about to be arrested and thus an opportunity to
+00
+97
+hide something. For the exceptions  for example, a person who is allowed to visit the bathroom unescorted
+00
+97
+before an arrest  reasonable suspicion may well exist.
+*65 Finally, defendants argue that arraignment represents a crucial step in criminal proceedings that justifies
+heightened security measures. In Block, the Supreme Court said that "[t]he very fact of nonrelease pending trial
+... is a significant factor bearing on the security measures that are imperative to proper administration of a
+detention facility" because of the ease of obtaining bail or release on one's own recognizance. Block, 468 U.S. at
+583, 104 S.Ct. 3227. The same cannot be said of a misdemeanor arrestee in New York because he must be
+released on his own recognizance or granted bail. See N.Y.Crim. Proc. L. § 170.10(7). It is only because Denier
+proceeded civilly against Shain in Family Court that the judge could hold him without bail and without considering
+the statutory factors relevant to criminal detainees despite the fact that he was charged only with a misdemeanor.
+Compare N.Y. Fam. Ct. Act § 155(2) with N.Y.Crim. Proc. L. § 510.30(2)(a). Although a New York felony
+defendant's post-arraignment detention may well be an indicator of an increased security risk, a person charged
+with a misdemeanor who remains in jail in New York after arraignment probably does so because (a) he cannot
+afford the bail set; (b) he refuses to post bail; or (c) he was arraigned on a Family Court matter, see N.Y. Fam. Ct.
+Act. § 155, Douglas J. Besharov, Practice Commentary (discussing abuse of Section 155). None of these
+scenarios creates a reasonable suspicion that the alleged offender has secreted contraband or a weapon.
+65
+
+The dissent, albeit not the defendants or the amicus who supports defendants' position, argues that a separate
+line of Supreme Court cases employing a different analytical model controls the outcome of this appeal. These
+cases hold that a reasonable relation to a legitimate penological interest suffices to establish the constitutionality
+of a prison regulation. Washington v. Harper, 494 U.S. 210, 223, 110 S.Ct. 1028, 108 L.Ed.2d 178 (1990); O'Lone
+v. Estate of Shabazz, 482 U.S. 342, 349, 107 S.Ct. 2400, 96 L.Ed.2d 282 (1987); Turner v. Safley, 482 U.S. 78,
+87, 107 S.Ct. 2254, 96 L.Ed.2d 64 (1987). Between Walsh and Wachtler, we employed the Turner model to
+uphold the legality of a strip search that took place in a prison. Covino v. Patrissi, 967 F.2d 73 (2d Cir.1992).
+Covino, who had been charged with kidnapping a child under the age of sixteen, id. at 74 n. 1, was housed in a
+state correctional facility where he was commingled with sentenced inmates. Id. at 75. We upheld the pertinent
+regulation, which allowed random strip searches of inmates, despite Covino's pretrial detainee status because
+the regulation was "reasonably related to legitimate penological interests." Id. at 78 and n. 4. Turner, Washington,
+O'Lone and Covino each approved a regulation of a state correctional facility or prison, but NCCC is a local
+correctional facility or jail. A prison is "[a] state or federal facility of confinement for convicted criminals, esp
+[ecially] felons." BLACK'S LAW DICTIONARY 1213 (7th ed.1999). A jail, on the other hand, is "[a] place where
+persons awaiting trial or those convicted of misdemeanors are confined." Id. at 838. This distinction is reflected in
+New York where state correctional facilities, commonly referred to as prisons, house those convicted of the most
+serious crimes and local correctional facilities or jails house persons convicted of minor crimes and pre-trial
+detainees. See N.Y.Crim. Proc. L. § 430.20(2),(3); N.Y. Penal L. §§ 70.00(1), 70.15.
+Despite the limitation of Turner, Washington, O'Lone, and Covino to prison regulations and the substantial
+difference between jail and prison populations, the dissent contends that Turner implicitly overruled Weber. We
+disagree. We *66 start with the proposition that we have "no authority to depart from Second Circuit precedent,
+unless it has been overruled in banc or by the Supreme Court." Leecan v. Lopes, 893 F.2d 1434, 1443 (2d
+Cir.1990). Additionally, we should not lightly assume that two prior cases of this court are inconsistent, and we
+must accept a plausible reading of a case that renders it consistent with other Second Circuit precedent even
+where an alternative reading exists. See, e.g., Rocket Jewelry Box v. Noble Gift Packaging, 157 F.3d 174, 176
+(2d Cir.1998). Neither Turner nor Covino purports to address any issue other than prison regulations. Thus, these
+cases can be read consistently with Weber and its progeny by confining them to their facts and actual holdings.
+[3] The dissent's arguments for "assum[ing] that when the Turner Court developed the `reasonably related'
+standard, it intended for it to apply to facilities like NCCC" may be relevant to whether the Turner line of cases
+should be extended to jails by the Supreme Court, but they are not relevant to the question of whether Turner
+overruled Weber. [Dissent, infra, at 74]
+66
+The district court therefore correctly held that because it was clearly established in 1995 that persons charged
+with a misdemeanor and remanded to a local correctional facility like NCCC have a right to be free of a strip
+search absent reasonable suspicion that they are carrying contraband or weapons, Jablonsky was not entitled to
+qualified immunity. The illegality of the sheriff's policy also provides the necessary basis for affirming the County's
+liability. See Weber, 804 F.2d at 803 (holding Monroe County liable for strip search policy implemented by its
+sheriff).
+B. Standing
+Even assuming the illegality of NCCC's policy, defendants argue that Shain cannot complain because NCCC had
+reasonable suspicion concerning him based on the court remand and on facts known by law enforcement
+personnel other than Dantunono, the officer who actually performed the strip search. We disagree. Although
+searching officers may rely on information provided to them by their colleagues, see Velardi v. Walsh, 40 F.3d
+569, 574 (2d Cir.1994), there is no evidence that Ellison, who was employed by the Nassau County Police
+Department, or the officers who accompanied Shain to and from court, communicated any information to
+Dantunono. Thus, the only information Dantunono knew and the only fact NCCC required for a strip search was
+the fact of the remand.[4] This remand merely required NCCC to receive and detain Shain until his Family Court
+appearance and indicated that Shain had been charged under Article 8 of the Family Court Act. Because Article 8
+covers offenses ranging from disorderly conduct to assault, the remand itself could not provide reasonable and
+individualized suspicion. In fact, Lieutenant John Considine, commanding officer of NCCC's operations unit,
+
+conceded that the information in Shain's file would not have *67 provided reasonable suspicion that he
+possessed contraband.
+67
+C. The Injunction
+Although plaintiff requested an injunction against future enforcement of the blanket strip search policy, the district
+court judgment neither explicitly granted nor denied this request. Plaintiff's attorney objected to the proposed
+judgment, in part, on the basis that it did not address the injunction. Plaintiff now claims that the district court
+erred by failing to grant an injunction once the illegality of the strip search procedure was established. Defendants
+respond that the district court did not err because NCCC voluntarily suspended its policy pending appeal.
+However, the record before us is not adequate to determine whether injunctive relief is necessary, and the district
+court did not make findings of fact or conclusions of law relevant to the grant or denial of injunctive relief.
+Therefore, we remand to allow the district court to make the necessary findings and conclusions. See
+Fed.R.Civ.P. 52(a).
+D. Refusal of New Trial on Damages
+In his charge, the district judge instructed the jury that if it found defendants had violated Shain's constitutional
+rights but he had not suffered a compensable injury, it should award nominal damages not to exceed one dollar.
+The judge also instructed the jury that he previously had found defendants' strip search policy to be
+unconstitutional. When the jury returned its verdict, the court asked what compensatory and punitive damages
+the jury had awarded on the strip search claim and the foreman responded "Zero." The judge did not ask what
+nominal damages the jury had awarded. Plaintiff then moved to set aside the verdict and for a new trial, and the
+court denied both motions. However, the court did enter a nominal damages judgment of one dollar. On appeal,
+Shain argues only that the court should have granted him a new trial on damages.
+We review a district court's decision not to grant a new trial on damages solely for abuse of discretion. See 
+Amato v. City of Saratoga Springs, 170 F.3d 311, 314 (2d Cir.1999). The district court should not grant such a
+motion "unless [it] is convinced that the jury has reached a seriously erroneous result or that the verdict is a
+miscarriage of justice." Id. (internal quotation marks omitted). Shain cannot meet this high standard. He produced
+no objective medical or psychological testimony linking a psychological or physical injury to the strip search, and
+although he and his former girl friend testified that he was emotionally traumatized by the search, the jury was not
+required to credit this testimony. See id. at 314-15. Nor was it error for the court to correct the jury's verdict by
+entering a nominal damages award of one dollar since nominal damages are appropriate for the violation of a
+constitutional right. See Dawes v. Walker, 239 F.3d 489, 497 (2d Cir.2001) (collecting cases holding that it is error
+not to award nominal damages where a constitutional violation is established).
+II. False Arrest
+In order to make out a New York common law or Section 1983 claim for false arrest or imprisonment, plaintiff
+must demonstrate that defendant intended to confine him, he was conscious of the confinement, he did not
+consent to the confinement, and the confinement was not otherwise privileged. See Singer v. Fulton County
+Sheriff, 63 F.3d 110, 118 (2d Cir.1995). An arrest made on probable cause is privileged, and probable cause
+exists "when the arresting officer has *68 knowledge or reasonably trustworthy information sufficient to warrant a
+person of reasonable caution in the belief that an offense has been committed by the person to be arrested." Id.
+at 119 (internal quotation marks omitted). The officer may rely on the victim's allegations. See Martinez v.
+Simonetti, 202 F.3d 625, 634 (2d Cir.2000).
+68
+New York Penal Law § 240.25, which defines first degree harassment, states in relevant part:
+A person is guilty of harassment in the first degree when he or she intentionally and repeatedly
+harasses another person by following such person in or about a public place or places or by
+
+engaging in a course of conduct or by repeatedly committing acts which places such person in
+reasonable fear of physical injury.
+Ellison's report of the incident stated that Denier told him Shain entered her bedroom, refused several requests to
+leave, and threatened to rape her.[5] We find that Shain's alleged refusal to leave the room after repeated
+requests coupled with his alleged threat to rape Denier constituted a course of conduct that could reasonably
+have caused Denier to fear for her safety. See People v. Murray, 167 Misc.2d 857, 861, 635 N.Y.S.2d 928
+(N.Y.Crim.Ct.1995) (finding course of conduct within the meaning of the harassment statute where "[d]efendant
+walked along side the complainant to her office, barr[ed] her way when she sought to escape inside [and]
+continued to stalk her as she retreated up the street [and] forcibly prevent[ed] her from obtaining assistance from
+[a] parked van" although the conduct only lasted five to eight minutes). Therefore, we affirm the district court's
+dismissal of Shain's false arrest claim.
+III. Malicious Prosecution
+In order to sustain a claim for malicious prosecution, Shain must demonstrate, among other things, that the
+prosecution terminated in his favor. See, e.g., Murphy v. Lynn, 118 F.3d 938, 947 (2d Cir.1997). Because an
+adjournment in contemplation of dismissal is not considered to be a favorable termination, Shain cannot sustain
+his malicious prosecution claim based on the criminal proceeding. See id. at 949. Nor can Shain rely on Denier's
+withdrawal of her Family Court petition because Denier is not a defendant in this lawsuit. We therefore affirm the
+district court.
+IV. Abuse of Process
+"[A] malicious abuse of process claim lies against a defendant who (1) employs regularly issued legal process to
+compel performance or forbearance of some act (2) with intent to do harm without excuse or justification, and (3)
+in order to obtain a collateral objective that is outside the legitimate ends of the process." Cook v. Sheldon, 41
+F.3d 73, 80 (2d Cir.1994). Bringing a defendant before a judge for arraignment satisfies the first element. See id.
+To show improper motive, Shain relies on Ellison's testimony that he knew Denier from the hospital and that after
+he found the order of protection had expired, he interviewed her further to determine whether there was another
+basis to arrest Shain. These allegations do not show intent to do harm without excuse or justification. Ellison's
+superficial acquaintance with Denier hardly suggests improper motive, and his continuance of the investigation
+when he found the order of protection had expired was merely good *69 police work. The district court properly
+dismissed this claim.
+69
+V. Excessive Force
+Shain contends that he also is entitled to a new trial on his excessive force claim principally because the court
+instructed the jury that Ellison could use sufficient force to arrest Shain. As we have found that Ellison did have
+probable cause to arrest Shain, the charge was not erroneous. See Calamia v. City of New York, 879 F.2d 1025,
+1034-35 (2d Cir.1989). Shain also argues that the court abused its discretion by admitting Denier's testimony
+concerning his past abuse and her account of this abuse to Ellison. However, what Denier told Ellison was
+relevant to the jury's determination of whether Ellison used excessive force by rear cuffing Shain. Therefore, the
+district court did not abuse its discretion.
+VI. Judge Madden and Section 155(2) Claim
+The parties stipulated to dismiss all claims against Judge Madden but to keep him as a nominal defendant for the
+purpose of testing the constitutionality of Family Court Act § 155(2). The district court initially "so ordered" this
+stipulation but later dismissed the claims against Judge Madden in their entirety without directly ruling on
+plaintiff's claim that Section 155(2) is unconstitutional. The district court did not err because (1) at the time the
+court issued its sua sponte order (1) there was no realistic danger that Shain would face the same harm again
+
+and (2) there was no defendant against whom Shain could have recovered damages. Denier withdrew her Family
+Court petition on August 7, 1995, and there is no allegation that she ever filed another one. By the time Judge
+Wexler issued his order, the parties had been divorced for over a year. Because Shain could not show "that these
+same parties are reasonably likely to find themselves again in dispute over the issues raised in this appeal," he
+lacked a legally cognizable stake in seeking an injunction or a declaratory judgment. Muhammad v. City of New
+York Dep't of Corrections, 126 F.3d 119, 124 (2d Cir.1997) (internal quotation marks omitted). Nor could Shain
+have obtained damages from any of the defendants because Judge Madden is protected by judicial immunity, 
+see Stump v. Sparkman, 435 U.S. 349, 364, 98 S.Ct. 1099, 55 L.Ed.2d 331 (1978), and the remaining
+defendants bore no responsibility for Shain's continued incarceration after the judicial remand.
+CONCLUSION
+We affirm the district court's judgment except as to the failure to rule explicitly on Shain's request for injunctive
+relief against NCCC's strip search policy. With respect to that policy, we remand to the district court for further
+proceedings in accord with this opinion.
+KATZMANN, concurring:
+I join in Judge Pooler's opinion in this challenging case. Unlike Judge Cabranes in his thoughtful dissent, I believe
+it reaches the result required by the precedent of this Circuit with respect to the standard to be applied to cavity
+searches in cases such as this one. In short, Turner v. Safley, 482 U.S. 78, 89-90, 107 S.Ct. 2254, 96 L.Ed.2d 64
+(1987), and its progeny deal with prison regulations as they are applied to individuals charged with or convicted
+of felonies, while Weber v. Dell, 804 F.2d 796 (2d Cir.1986), Walsh v. Franco, 849 F.2d 66 (2d Cir.1988), and 
+Wachtler v. County of Herkimer, 35 F.3d 77 (2d Cir.1994), concern the treatment of misdemeanor arrestees being
+held in jails. Because there has been no explicit indication from the *70 Supreme Court that it would apply its
+"reasonably related to penological interests" standard (rather than a "reasonable suspicion" standard) to cases
+involving misdemeanor arrestees being held in jail, I believe we are compelled to follow Circuit precedent, which
+distinguishes between these two types of cases. As Wachtler was decided well after Turner, it appears to me that
+this Circuit's approach to such cases is unchanged after Turner. I write separately to emphasize that while this
+Circuit's choice to distinguish for these purposes either between misdemeanors and felonies or between jails and
+00
+97
+prisons is not necessarily persuasive to me  and in fact I am not sure either is a distinction I would make if I
+00
+97
+were considering the question in the first instance  I do think that these distinctions are required by our earlier
+precedents. Because these precedents have not, in my view, been squarely overruled, I believe we have no
+choice but to apply the "reasonable suspicion" standard to the facts of this case.
+70
+JOSÉ A. CABRANES, Circuit Judge, dissenting in part:
+I respectfully dissent from the majority's decision to evaluate the constitutionality of the cavity search at issue
+here under the "reasonable suspicion" standard we developed in Weber v. Dell, 804 F.2d 796, 802 (2d Cir.1986),
+rather than under the "reasonably related to legitimate penological objectives" standard subsequently articulated
+by the Supreme Court in Turner v. Safley, 482 U.S. 78, 89-90, 107 S.Ct. 2254, 96 L.Ed.2d 64 (1987).
+In reaching this decision, the majority subjects Nassau County to liability for having an assertedly unconstitutional
+cavity-search policy, and subjects an individual defendant to liability for implementing it. Moreover, the majority
+remands the cause for a determination as to whether the District Court should enjoin the Nassau County
+Correctional Center ("NCCC") from continuing to conduct a cavity search of all people admitted to the facility.
+The majority's decision is based on an artificial, untenable distinction between "prisons" and "jails," and creates a
+00
+97
+Circuit split where there was none  a Circuit split that calls out for resolution by the Supreme Court. In my view,
+the majority's decision finds no warrant in the Supreme Court's jurisprudence and, indeed, substantially and
+unnecessarily limits the reach of the leading Supreme Court cases in this area. In resolving the cavity-search
+issue as it does, the majority also requires, by what the majority holds are the dictates of the Constitution, that
+correctional facilities such as the NCCC be run in a manner that defies common sense.
+
+Accordingly, I dissent from the holding that the applicable standard to evaluate the constitutionality of a cavity
+search in a jail is "reasonable suspicion" rather than "reasonably related to a legitimate penological interest."[1] I
+write briefly to explain why.
+* * * * * *
+As the majority notes, in Weber v. Dell, 804 F.2d 796 (2d Cir.1986), we developed a standard for assessing the
+constitutionality of cavity searches of arrestees: The Constitution, we held, "precludes prison officials from
+performing ... cavity searches of arrestees charged with misdemeanors or other minor offenses unless the
+officials *71 have a reasonable suspicion that the arrestee is concealing weapons or other contraband based on
+the crime charged, the particular characteristics of the arrestee, and/or the circumstances of the arrest." Id. at
+802 (emphasis added). In Walsh v. Franco, 849 F.2d 66, 68-69 (2d Cir.1988), and Wachtler v. Herkimer County,
+35 F.3d 77, 81 (2d Cir.1994), we evaluated the constitutionality of cavity searches under Weber's "reasonable
+suspicion" standard.
+71
+Nearly one year after our decision in Weber, the Supreme Court held that "when a prison regulation impinges on
+inmates' constitutional rights, the regulation is valid if it is reasonably related to legitimate penological interests." 
+Turner v. Safley, 482 U.S. 78, 89-90, 107 S.Ct. 2254, 96 L.Ed.2d 64 (1987); see also Washington v. Harper, 494
+U.S. 210, 224, 110 S.Ct. 1028, 108 L.Ed.2d 178 (1990) (holding, inter alia, that "Turner applies to all
+circumstances in which the needs of prison administration implicate constitutional rights"); O'Lone v. Estate of
+Shabazz, 482 U.S. 342, 348, 107 S.Ct. 2400, 96 L.Ed.2d 282 (1987) (applying Turner and noting that "legitimate
+penological interests" include "deterrence of crime, rehabilitation of prisoners, and institutional security"). In 
+Covino v. Patrissi, 967 F.2d 73 (2d Cir.1992), we evaluated a cavity search under Turner's "reasonably related"
+standard, and held that an arrestee may, in some circumstances, be subjected to a cavity search "in the absence
+of a[n] ... individualized suspicion justifying the search," id.
+00
+97
+ at 77-78  that is, even when there is no "reasonable
+suspicion" of the kind required by Weber.
+The question here is this: Should we assess the constitutionality of the NCCC's cavity search policy ("policy")
+under Weber's "reasonable suspicion" standard (a standard we set forth) or under Turner's "reasonably related"
+standard (a standard the Supreme Court set forth)?
+00
+97
+The answer to this question, thus posed, seems obvious enough  Turner, as a case decided by the Supreme
+Court, must prevail. But resolving the question is complicated by the fact that, regrettably, our cases decided after
+Turner pull in different directions: Walsh and Wachtler suggest that Weber's "reasonable suspicion" standard is
+controlling here, and Covino suggests that Turner's "reasonably related" standard is governing.
+The majority sidesteps this difficulty by holding that the "reasonably related" standard is controlling where the
+relevant correctional facility is a "prison" (as was assertedly the case in Covino), and that we must apply the
+"reasonable suspicion" standard that we enunciated in Weber and its progeny where the relevant correctional
+facility is a "jail" (as was assertedly the case in Weber, Walsh, Wachtler, and, as the majority states, here). See
+MAJORITY OPINION, ante, at 66.
+At first glance, ordering our cases in this manner is appealing: As a general matter, it is the duty of panels
+reasonably to harmonize our precedents, see, e.g., Rocket Jewelry Box, Inc. v. Noble Gift Packaging, Inc., 157
+F.3d 174, 176 (2d Cir.1998) ("[E]very panel of this court is bound by the decisions of earlier panels...."), and the
+jail/prison distinction renders our caselaw internally coherent by shoe-horning all-but-contradictory lines of
+precedent into apparently distinct doctrinal categories.
+However, the distinction between these categories is illusory, and I believe that organizing our caselaw along the
+jail/prison axis is error.
+As an initial matter, the distinction drawn by the majority between jails and prisons is wholly unprecedented. The
+majority *72 points to no cases that differentiate between jails and prisons in the manner that it suggests, and our
+sister Circuits routinely apply Turner's "reasonably related" standard to cases involving jails.[2]
+72
+
+They do so with good reason: There is no basis in the Supreme Court's jurisprudence for limiting Turner's
+"reasonably related" standard to cases involving correctional institutions denominated "prisons." It is true, of
+course, that the "reasonably related" standard nominally applies to "prison regulations." See Turner, 482 U.S. at
+89, 107 S.Ct. 2254 (emphasis added). But the term "prison" is most frequently used generically to describe any
+00
+97
+00
+97
+government facility  including a "jail"  that function primarily as a place for the confinement of people involved
+in the criminal justice system. See BLACK'S LAW DICTIONARY 1194 (6th ed.1990) ("prison," first definition: "A
+public building or other place for the confinement of persons, whether as a punishment imposed by the law or
+otherwise in the course of the administration of justice") (emphasis added).[3]
+There is no indication that the Turner Court intended to depart from this well-settled, non-technical meaning of the
+word "prison."
+First, Turner's "reasonably related" standard, which, as noted, concerns "prison regulations," was itself based on
+four cases that concerned "prisoners' rights," see Turner, 482 U.S. at 86, 107 S.Ct. 2254: *73 (1) Pell v.
+Procunier, 417 U.S. 817, 94 S.Ct. 2800, 41 L.Ed.2d 495 (1974), (2) Jones v. North Carolina Prisoners' Union, 433
+U.S. 119, 97 S.Ct. 2532, 53 L.Ed.2d 629 (1977), (3) Bell v. Wolfish, 441 U.S. 520, 99 S.Ct. 1861, 60 L.Ed.2d 447
+(1979), and (4) Block v. Rutherford, 468 U.S. 576, 104 S.Ct. 3227, 82 L.Ed.2d 438 (1984). See Turner, 482 U.S.
+at 86-89, 107 S.Ct. 2254
+00
+97
+ (discussing these cases). Of these "prisoner's rights" cases, one case  Procunier
+00
+97
+00
+97
+concerned what the majority would call a "prison"; but another  Jones
+00
+97
+  involved both a prison and a jail, see 
+Jones, 433 U.S. at 122, 97 S.Ct. 2532,
+00
+97
+ and two of them  Block and 
+00
+97
+Bell  exclusively concerned jails, see 
+Block, 468 U.S. at 578-79, 104 S.Ct. 3227, Bell, 441 U.S. at 524, 99 S.Ct. 1861. This suggests that there is no
+distinction of constitutional magnitude between jails and prisons. If there were such a distinction, the Turner Court
+would not have elided the difference between "jail" cases and "prison" case by characterizing certain "jail" cases (
+Block, Bell, and perhaps Jones) as "prisoners' rights" case. See Turner, 482 U.S. at 86, 107 S.Ct. 2254. And
+similarly, the Turner
+00
+97
+ Court would not have  indeed, could
+00
+97
+ not have  derived from "jails" cases (Block, Bell, and
+perhaps Jones) a standard that does not apply to them, but that applies only to what the majority would term a
+"prison" case.
+73
+Second, it is clear from Turner's rationale that the "reasonably related" standard was not intended to apply only to
+those institutions encompassed in the majority's narrow definition of "prison." The Turner Court adopted the
+00
+97
+relatively deferential "reasonably related" standard as a means of accommodating two distinct imperatives  first,
+protecting individual rights; and second, recognizing that "the problems of prisons in America are complex and
+intractable, and ... are not readily susceptible of resolution by [judicial] decree." Id. at 85, 107 S.Ct. 2254. As the 
+Turner Court explained:
+Running a prison is an inordinately difficult undertaking that requires expertise, planning, and the
+commitment of resources, all of which are peculiarly within the province of the legislative and
+executive branches of government. Prison administration is, moreover, a task that has been
+committed to the responsibility of those branches, and separation of powers concerns counsel a
+policy of judicial restraint. Where a state penal system is involved, federal courts have ...
+additional reason to accord deference to the appropriate prison authorities.
+Id. at 84-85, 107 S.Ct. 2254. In other words, a basic purpose of the "reasonably related" standard is to prevent
+the federal courts from becoming overly involved in the administration of corrections-related facilities that have
+chronic problems that the judiciary is, comparatively speaking, poorly-positioned to solve.[4]
+*74 But facilities that fit this description are as likely to be denominated "jails" as "prisons." The NCCC is an apt
+example. It operates 365 days a year and 24 hours a day. When Mr. Shain was subjected to a cavity search
+there, the NCCC employed 950 corrections officers and housed, on an average day, 1,800 inmates. Every year,
+more than 14,000 people are introduced into the NCCC population. Of those who are housed at the NCCC, some
+have been sentenced to terms of one year or less; some have been sentenced to longer terms of imprisonment
+and are awaiting transfer to state-run correctional facilities in upstate New York; and others have been charged
+with a range of crimes, including violent felonies.
+74
+
+In short, the NCCC is a large, complex facility. Running it undoubtedly "requires expertise, planning, and the
+commitment of resources, all of which are peculiarly within the province of the legislative and executive branches
+of government," and it is therefore reasonable to assume that its problems, whatever they might be, are not
+"readily susceptible of resolution by [judicial] decree." Turner, 482 U.S. at 84-85, 107 S.Ct. 2254.
+Accordingly, the rationale for the "reasonably related" standard applies as forcefully to the NCCC as it would to a
+facility formally called a prison, and we must therefore assume that when the Turner Court developed the
+"reasonably related" standard, it intended for it to apply to facilities like the NCCC. But by introducing an artificial
+distinction between prisons and jails, the majority substantially limits Turner's
+00
+97
+ reach  and removes institutions
+like the NCCC from the ambit of the "reasonably related" standard.[5]
+The majority justifies its formalistic cabining of Turner
+00
+97
+  and its concomitant holding that it is Weber's "reasonable
+00
+97
+suspicion" standard that applies in jails  by reference to the "substantial difference between jail and prison
+populations." MAJORITY OPINION, ante, at 65-66. However, factors such as the composition of a facility's
+00
+97
+population  or, indeed, the composition of the portion of a facility's population subjected to a particular regulation
+00
+97 are fully amenable to analysis under the Turner standard. See, e.g., Covino, 967 F.2d at 79 (stating that "the
+nature of [the facility's] inmate population" supported the finding that there was "a legitimate and rational
+connection between the challenged searches ... and [the facility's] security *75 interests"); Michenfelder v.
+Sumner, 860 F.2d 328, 332-33 (9th Cir.1988) (noting, while upholding visual body-cavity searches of inmates
+housed in a facility's maximum security unit each time a prisoner entered or left his cell, that "[t]he searches are
+conducted on convicted prisoners in [the facility's] most restrictive unit" and "[e]levated security precautions are
+justified for prisoners placed in maximum security settings ..."). Indeed, because Turner requires that the interest
+identified by the government be "legitimate" and that there be a nexus between the restriction of a prisoner's
+constitutional rights and the interest, see 482 U.S. at 89-90, 107 S.Ct. 2254, facility regulations justified by
+00
+97
+00
+97
+penological goals applicable only to persons convicted of crimes  such as punishment  could not be imposed
+on pretrial detainees. In this case, however, the NCCC's asserted interest is facility security, which is a legitimate
+concern regardless of the status of the facility's population. See Mauro v. Arpaio, 188 F.3d 1054, 1059 & n. 1 (9th
+Cir.1999)(en banc).[6]
+75
+Another difficulty with the majority's holding is that it interprets the Constitution as requiring large, complex
+00
+97
+00
+97
+facilities such as the NCCC to be run less intelligently  and less safely  than ought to be the case. In deciding
+whether and under what circumstances to permit cavity searches, responsible correctional officials would
+presumably balance the rights of prisoners (which are impinged on by cavity searches) and the safety of staff and
+00
+97
+00
+97
+other prisoners (which is enhanced  at least somewhat  by cavity searches). In determining how this balance
+should be struck in the context of any particular facility, common sense dictates that a number of factors are
+relevant, including whether the facility is overcrowded; whether it is equipped with drug-sniffing dogs and metal
+detectors; whether it has been infiltrated by gangs; and whether prisoners have attempted previously to secrete
+contraband in a manner detectable only by cavity searches. Because the "reasonably related" standard envisions
+a flexible, multi-factor inquiry, see Turner, 482 U.S. at 89-91, 107 S.Ct. 2254, it would permit administrators to
+craft cavity search policies with an eye to each of these concerns.
+By contrast, the "reasonable suspicion" standard requires prison administrators to focus on only one set of
+00
+97
+variables  those related to reasonable suspicion itself. Accordingly, *76 the majority's application of the
+"reasonable suspicion" standard to jails means that administrators who manage facilities such as the NCCC will
+not be allowed to take into account any of the factors noted above. That makes no sense and, as I have argued,
+is not required by the Constitution.
+76
+* * * * * *
+The majority holds that we must assess the constitutionality of the cavity search at issue here under Weber's
+"reasonable suspicion" standard, not Turner's "reasonably related" standard. For the reasons stated above, I
+dissent.
+
+[1] Shain wrongly sued Officer Ellison as John Ellison.
+[2] In fact, the Court saw no basis for distinguishing between pretrial detainees and convicted inmates because 
+There is no basis for concluding that pretrial detainees pose any lesser security risk than convicted inmates.
+Indeed, it may be that in certain circumstances they present a greater risk to jail security and order. In the federal
+system, a detainee is committed to the detention facility only because no other less drastic means can
+reasonably assure his presence at trial. As a result, those who are detained prior to trial may in many cases be
+individuals who are charged with serious crimes or who have prior records. They also may pose a greater risk of
+escape than convicted inmates. This may be particularly true at facilities like the MCC, where the resident
+convicted inmates have been sentenced to only short terms of incarceration and many of the detainees face the
+possibility of lengthy imprisonment if convicted.
+Bell, 441 U.S. at 546 n. 28, 99 S.Ct. 1861 (internal citations omitted).
+[3] A panel of this court recently stated in dicta that "[p]enological interests are ... arguably not an appropriate
+guide for the pretrial detention of accused persons" because penological interests relate to convicted persons. 
+Benjamin v. Fraser, 264 F.3d 175, 187 n. 10 (2d Cir.2001). Because we applied Turner to the rights of a pretrial
+detainee who had been charged with a serious crime and who was commingled with sentenced inmates in a
+state prison in Covino, we do not rely solely on Shain's status as a pretrial detainee.
+[4] As noted previously, we accept for the sake of argument that NCCC did require a judicial remand, although
+the evidence appears to establish that it did not.
+[5] We adopt Ellison's account rather than Denier's more expansive description because the false arrest claim
+was dismissed on a motion for summary judgment.
+[1] I agree with the majority as to its disposition of plaintiff-appellee-cross-appellant Ray E. Shain's false arrest,
+malicious prosecution, abuse of process, and excessive force claims, as well as with its disposition of his
+challenge to the constitutionality of the Family Court Act § 155(2). As to these issues, I concur in the reasoning
+and result of the majority opinion.
+[2] See, e.g., Mauro v. Arpaio, 188 F.3d 1054, 1058-63 (9th Cir.1999); Friend v. Kolodzieczak, 923 F.2d 126,
+127-28 (9th Cir.1991); Siddiqi v. Leak, 880 F.2d 904, 908-10 (7th Cir.1989); see also, e.g., Rogers v. Arbisi, No.
+93 C 20237, 1996 WL 89346, at *5 (N.D.Ill. Feb.28, 1996); Muhammad v. City of N.Y. Dept. of Corrections, 904
+F.Supp. 161, 197 (S.D.N.Y.1995); Shaheed v. Winston, 885 F.Supp. 861, 867-68 (E.D.Va.1995), aff'd on other
+grounds 161 F.3d 3 (4th Cir.1998) (table); Pippins v. Adams County Jail, 851 F.Supp. 1228, 1234 (C.D.Ill.1994).
+[3] To be sure, "prison" is sometimes used in a manner that suggests a contrast with a "jail." See BLACK'S LAW
+DICTIONARY 1194 (6th ed.1990) ("prison," third definition: "institutions ... distinguished from ... jails"). But that is
+00
+97
+relatively rare. It is more common to treat "jail" and "prison"  both of which are non-technical terms to everyone
+00
+97
+other than students of penology  as virtual synonyms. See id. (defining "prison" in a manner that encompasses
+"jail"); id. at 834 ("jail," first non-"obsolete" definition: "prison"). Consider, for example, Weber. In the majority's
+typology, Weber concerns jails, not prisons. But we held there that "prison officials" may not take certain actions. 
+Weber, 804 F.2d at 802 (emphasis added); see also id. at 804 (describing the need "to defer to the judgment of 
+prison officials") (emphasis added). Any possible distinction between prisons and local jails apparently did not
+make an impression on the Weber panel, and, as the definitions quoted above suggest, the Weber panel's
+conflation of jail and prison is not merely a matter of linguistic imprecision. Rather, "jail" and "prison" are all-but
+interchangeable. 
+This said, to the extent that there is a sharp, commonly agreed-upon distinction between the terms, it is that
+prisons hold people convicted of crimes, and jails hold people merely charged with crimes. See BLACK'S LAW
+DICTIONARY at 834 (defining "jail"). But here, prisons and jails cannot be differentiated on this basis. The
+majority distinguishes Covino, in which we applied Turner's "reasonably related" standard, as a case that involved
+a prison, not a jail. See MAJORITY OPINION, ante, at 66. But the plaintiff in that case had not been convicted of
+00
+97
+a crime when he was searched  he had merely been charged with a crime. See Covino, 967 F.2d at 78 n. 4.
+
+Accordingly, if "prison" means a correctional facility that houses those convicted of crimes, as the majority
+suggests, Covino would have been a "jail" case, not a "prison" case, and we would have applied Weber's
+"reasonable suspicion" standard. But we did not do so; instead, we applied Turner's "reasonably related"
+standard. See Covino, 967 F.2d at 77-78; accord United States v. El-Hage, 213 F.3d 74, 81-82 (2d Cir.2000)
+(applying the Turner
+00
+97
+ standard in a "jail" setting  that is, to assess a pre-trial detainee's constitutional claim).
+[4] See Washington, 494 U.S. at 223-24, 110 S.Ct. 1028 (stating that adoption of the "reasonably related"
+standard in Turner "was based upon the need to reconcile our longstanding adherence to the principle that
+inmates retain at least some constitutional rights despite incarceration with the recognition that prison authorities
+are best equipped to make difficult decisions regarding prison administration"); cf. Turner, 482 U.S. at 89, 107
+S.Ct. 2254 ("Subjecting the day-to-day judgments of prison officials to an inflexible strict scrutiny analysis would
+seriously hamper their ability to anticipate security problems and to adopt innovative solutions to the intractable
+problems of prison administration. The rule would also distort the decisionmaking process, for every
+administrative judgment would be subject to the possibility that some court somewhere would conclude that it had
+a less restrictive way of solving the problem at hand. Courts inevitably would become the primary arbiters of what
+constitutes the best solution to every administrative problem, thereby unnecessarily perpetuat[ing] the
+involvement of the federal courts in affairs of prison administration.") (internal citations and quotation marks
+omitted).
+[5] As noted, by distinguishing our cases along a jail/prison axis, the majority hopes to reconcile our precedents
+with one another. See ante at 66. In this case, however, we need not attempt to do so. As a matter of logic, our
+application of Weber's "reasonable suspicion" standard in Walsh and Wachtler necessarily rested on a sub
+silentio holding that our decision in Weber survived the Supreme Court's subsequent decision in Turner. (I
+characterize this holding as sub silentio because neither Walsh nor Wachtler mention Turner, and there is no
+indication that the parties brought Turner to the attention of the Walsh or Wachtler panels.) But sub silentio
+holdings do not bind subsequent panels. See, e.g., Goldberger v. Integrated Res., Inc., 209 F.3d 43, 49 (2d
+Cir.2000); Getty Petroleum Corp. v. Bartco Petroleum Corp., 858 F.2d 103, 113 (2d Cir.1988). See generally 
+Webster v. Fall, 266 U.S. 507, 511, 45 S.Ct. 148, 69 L.Ed. 411 (1925) ("Questions which merely lurk in the
+record, neither brought to the attention of the court nor ruled upon, are not to be considered as having been so
+decided as to constitute precedents."). Moreover, when a panel bases a decision entirely on Circuit precedent
+00
+97
+that has been implicitly overruled by the Supreme Court  as I believe Weber was by Turner
+00
+97
+  panels of our
+Court need not hew to the panel decision. See, e.g., Zervos v. Verizon, 252 F.3d 163, 167 (2d Cir.2001)
+(collecting cases).
+[6] In expressing "doubt" in dicta over whether the use in Turner of the phrase "penological interests" limits its
+applicability to "persons convicted of crimes," the panel in Benjamin v. Fraser, 264 F.3d 175 (2d Cir.2001), cited
+Judge Kleinfeld's dissent from the en banc decision in Mauro. 264 F.3d at 187. Judge Kleinfeld, in turn, relied on
+a narrow definition of "penological" as "relating to the `theory and practice of prison management and criminal
+rehabilitation'" and meaning, "roughly," "penalty or punishment." 188 F.3d at 1068. Judge Kleinfeld found support
+for his belief that the Supreme Court used "penological" in this narrow sense in its recognition in Turner that
+rehabilitation is a legitimate penological interest. Id. at 1068 & n. 8 (citing Turner, 482 U.S. at 97-99, 107 S.Ct.
+2254). Judge Kleinfeld's analysis, however, fails to account for the reliance in Turner of facility security as the
+"penological interest" justifying a prohibition on inmate correspondence between institutions, see Turner, 482 U.S.
+at 91-92, 107 S.Ct. 2254, which reliance is inconsistent with his theory that "penological interests" are interests
+00
+97
+applicable only to prisoners convicted of crimes  after all, facilities housing prisoners may have legitimate
+security concerns regardless of whether those prisoners have yet been convicted of a crime. Indeed, the majority
+opinion in Mauro, in which the Ninth Circuit distinguished between penological interests that may be legitimately
+applied to pretrial detainees from those that may be legitimately applied only to those convicted of crimes, see
+188 F.3d at 1059 & n. 1, demonstrates the appropriate use of the Turner multi-factor framework to a regulation
+affecting pretrial detainees. See 188 F.3d at 1058-63.
+Save trees - read court opinions online on Google Scholar.

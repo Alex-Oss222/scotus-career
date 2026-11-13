@@ -1,0 +1,14 @@
+[
+  {
+    "file": "freeze/OT_2002CHUNK7_A_COMMITMENTS.md",
+    "sha256": "89d6ebabeda45b1e3d3161a7c911a1e874f69947354ce754f2301197643b2470"
+  },
+  {
+    "file": "freeze/OT_2002CHUNK7_B_COMMITMENTS.md",
+    "sha256": "1e87db2650533d1be6a1dd2bc4f575c3f79b8e40e23ff799bb20fe6a68d49209"
+  },
+  {
+    "file": "freeze/OT_2002CHUNK7_C_COMMITMENTS.md",
+    "sha256": "07f5f961f2ee7979e2d5ccb9e6168b5500f224dd6b6a555bd026d7c254c5e74e"
+  }
+]

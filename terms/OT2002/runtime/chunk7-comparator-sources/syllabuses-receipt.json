@@ -1,0 +1,37 @@
+[
+  {
+    "name": "archer-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/01-1418.ZS.html",
+    "bytes": 8992,
+    "sha256": "4b6d6768095216f9cb4ddeef69d67cfd04fa6cdebbcf7d4d2b4f3ccaf67d104f",
+    "status": "saved"
+  },
+  {
+    "name": "kentucky-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/00-1471.ZS.html",
+    "bytes": 8886,
+    "sha256": "f2a8b5ab49f9dc9f6921690e2c9399fc884d9332d71e075168bd11d44b619957",
+    "status": "saved"
+  },
+  {
+    "name": "branch-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/01-1437.ZS.html",
+    "bytes": 15239,
+    "sha256": "533c424552feb604e8f06da83cb8e29ba6b0bc9072a1a26b5a9fb2cf3cb0567f",
+    "status": "saved"
+  },
+  {
+    "name": "black-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/01-1107.ZS.html",
+    "bytes": 16097,
+    "sha256": "1da0441b257d08a3a6ebef8415e0f35a2608e3a35f8217ce761464c796de65ea",
+    "status": "saved"
+  },
+  {
+    "name": "brown-ZS",
+    "url": "https://www.law.cornell.edu/supct/html/01-1325.ZS.html",
+    "bytes": 13014,
+    "sha256": "31a6bcf7cec325a5fbd4120042afb3e7795114a6392f9266f4e7ead84160b131",
+    "status": "saved"
+  }
+]

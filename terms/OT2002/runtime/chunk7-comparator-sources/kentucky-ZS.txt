@@ -1,0 +1,28 @@
+KENTUCKY ASSN. OF HEALTH PLANS, INC. V. MILLER
+LII
+Supreme Court
+KENTUCKY ASSN. OF HEALTH PLANS, INC. V. MILLER (00-1471)
+227 F.3d 352, affirmed.
+Syllabus
+Opinion
+[ Scalia ]
+HTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+KENTUCKY ASSOCIATION OF HEALTH PLANS, INC., et al. v. MILLER, COMMISSIONER, KENTUCKY
+DEPARTMENT OF INSURANCE
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+No. 00—1471. Argued January 14, 2003–Decided April 2, 2003
+Petitioner health maintenance organizations (HMOs) maintain exclusive “provider networks” with selected doctors, hospitals, and other health-care providers. Kentucky has enacted two “Any Willing Provider” (AWP) statutes, which prohibit “[a] health insurer [from] discriminat[ing] against any provider who is … willing to meet the terms and conditions for participation established by the … insurer,” and require a “health benefit plan that includes chiropractic benefits [to] … [p]ermit any licensed chiropractor who agrees to abide by the terms [and] conditions … of the … plan to serve as a participating primary chiropractic provider.” Petitioners filed this suit against respondent, the Commissioner of Kentucky’s Department of Insurance, asserting that the AWP laws are pre-empted by the Employee Retirement Income Security Act of 1974 (ERISA), which pre-empts all state laws “insofar as they … relate to any employee benefit plan,” 29 U.S.C. § 1144(a), but saves from pre-emption state “law[s] … which regulat[e] insurance … ,” §1144(b)(2)(A). The District Court concluded that although both AWP statutes “relate to” employee benefit plans under §1144(a), each law “regulates insurance” and is therefore saved from pre-emption by §1144(b)(2)(A). The Sixth Circuit affirmed.
+Held: Kentucky’s AWP statutes are “law[s] … which regulat[e] insurance” under §1144(b)(2)(A). Pp. 3—12.
+(a) For these statutes to be “law[s] … which regulat[e] insurance,” they must be “specifically directed toward” the insurance industry; laws of general application that have some bearing on insurers do not qualify. E.g., Pilot Life Ins. Co. v. Dedeaux, 481 U.S. 41, 50. However, not all state laws “specifically directed toward” the insurance industry will be covered by §1144(b)(2)(A), which saves laws that regulate insurance, not insurers. Insurers must be regulated “with respect to their insurance practices.” Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355, 366. Pp. 3—4.
+(b) Petitioners argue that the AWP laws are not “specifically directed” towards the insurance industry. The Court disagrees. Neither of these statutes, by its terms, imposes any prohibitions or requirements on providers, who may still enter exclusive networks with insurers who conduct business outside the Commonwealth or who are otherwise not covered by the AWP laws. The statutes are transgressed only when a “health insurer,” or a “health benefit plan that includes chiropractic benefits,” excludes from its network a provider who is willing and able to meet its terms. Pp. 4—6.
+(c) Also unavailing is petitioners’ contention that Kentucky’s AWP laws fall outside §1144(b)(2)(A)’s scope because they do not regulate an insurance practice but focus upon the relationship between an insurer and third-party providers. Petitioners rely on Group Life & Health Ins. Co. v. Royal Drug Co., 440 U.S. 205, 210, which held that third-party provider arrangements between insurers and pharmacies were not “the ‘business of insurance’ ” under §2(b) of the McCarran-Ferguson Act. ERISA’s savings clause, however, is not concerned (as is the McCarran-Ferguson Act provision) with how to characterize conduct undertaken by private actors, but with how to characterize state laws in regard to what they “regulate.” Kentucky’s laws “regulate” insurance by imposing conditions on the right to engage in the business of insurance. To come within ERISA’s savings clause those conditions must also substantially affect the risk pooling arrangement between insurer and insured. Kentucky’s AWP statutes pass this test by altering the scope of permissible bargains between insurers and insureds in a manner similar to the laws we upheld in Metropolitan Life, UNUM, and Rush Prudential. Pp. 6—9.
+(d) The Court’s prior use, to varying degrees, of its cases interpreting §§2(a) and 2(b) of the McCarran-Ferguson Act in the ERISA savings clause context has misdirected attention, failed to provide clear guidance to lower federal courts, and, as this case demonstrates, added little to the relevant analysis. The Court has never held that the McCarran-Ferguson factors are an essential component of the §1144(b)(2)(A) inquiry. Today the Court makes a clean break from the McCarran-Ferguson factors in interpreting ERISA’s savings clause. Pp. 9—12.
+227 F.3d 352, affirmed.
+Scalia, J., delivered the opinion for a unanimous Court.
