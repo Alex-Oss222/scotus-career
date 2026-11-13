@@ -9,7 +9,7 @@
 | 2003-04-07 | LaVine v. Blaine School District | Merits decision | Affirmed in part, vacated in part, and remanded for exclusion proceedings and a specific file decree. |
 | 2003-04-07 | PacifiCare Health Systems, Inc. v. Book | Merits decision | Reversed and remanded for arbitration under the actual agreements. |
 | 2003-04-07 | State Farm Mutual Automobile Insurance Co. v. Campbell | Merits decision | Punitive judgment reversed; remanded for lawful redetermination, with liability and compensation preserved. |
-| 2003-04-22 | Boroff v. Van Wert City Board of Education | Merits decision | First Amendment judgment vacated in part and remanded; due-process disposition undisturbed. |
+| 2003-04-22 | Boroff v. Van Wert City Board of Education | Merits decision | First Amendment judgment vacated and remanded; due-process disposition undisturbed. |
 | 2003-04-22 | Clackamas Gastroenterology Associates, P.C. v. Wells | Merits decision | Reversed and remanded for necessary physician-status determinations and application of the established numerical premises. |
 | 2003-04-22 | Dole Food Co. v. Patrickson and the consolidated Dead Sea Companies matter | Merits decision and dismissal of writ | No. 01-593 dismissed as improvidently granted; rejection of asserted FSIA removal in No. 01-594 affirmed. |
 | 2003-04-22 | Jinks v. Richland County | Merits decision | Reversed and remanded for application of §1367(d) and remaining preserved issues affecting the verdict. |
