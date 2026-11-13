@@ -250,6 +250,7 @@ Except for the four voting briefs preserved above, Section II states the stronge
 
 | No. | Case | Citation or docket | Review stage | Event date | Date basis | Area of law |
 |---:|---|---|---|---|---|---|
+| 180 | Cano v. Davis | No. 02-577; 211 F. Supp. 2d 1208 | Direct appeal; merits | 2003-06-26 | Assigned review date | Equal protection; racial participation injury; Section 2 district dilution |
 | 164 | American Insurance Association v. Garamendi | 539 U.S. 396 | Historical Supreme Court review | 2003-06-23 | Historical calendar | Foreign affairs and insurance: federal displacement, commerce, and regulatory connection |
 | 165 | Green Tree Financial Corp. v. Bazzle | 539 U.S. 444 | Historical Supreme Court review | 2003-06-23 | Historical calendar | Arbitration: contractual authority for class proceedings and the decisionmaker |
 | 166 | Wiggins v. Smith | 539 U.S. 510 | Historical Supreme Court review | 2003-06-26 | Historical calendar | Capital habeas: mitigation investigation and sentencing prejudice |
@@ -262,7 +263,6 @@ Except for the four voting briefs preserved above, Section II states the stronge
 | 173 | Eichorn v. AT&T Corp. + | 248 F.3d 131 (3d Cir. 2001) | Counterfactual federal merits | 2003-06-30 | Assigned review date | Antitrust labor restraints; ERISA pension interference |
 | 174 | Bragg v. West Virginia Coal Association + | 248 F.3d 275 (4th Cir. 2001) | Counterfactual federal merits | 2003-06-30 | Assigned review date | Surface mining; prospective officer relief; federal statutory duties |
 | 175 | Sons of Confederate Veterans, Inc. v. Commissioner of the Virginia Department of Motor Vehicles + | 288 F.3d 610; rehearing 305 F.3d 241 | Counterfactual federal merits | 2003-06-23 | Assigned review date | Specialty plates; private expression; viewpoint discrimination; severance |
-| 180 | Cano v. Davis | No. 02-577; 211 F. Supp. 2d 1208 | Direct appeal; merits | 2003-06-26 | Assigned review date | Equal protection; racial participation injury; Section 2 district dilution |
 
 ## OT_2002CHUNK15
 
