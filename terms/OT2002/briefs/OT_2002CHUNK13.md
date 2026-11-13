@@ -594,7 +594,7 @@ Stone applies the contribution standard to this organization’s actual funding 
 
 * **October Term:** 2002
 
-* **Entry Stage and Event:** Merits review of the April 3, 2000 appellate judgment; the effect of the reported December 6, 2002 continuation on the present vehicle requires confirmation.
+* **Entry Stage and Event:** Merits review of the April 3, 2000 appellate judgment; the effect of the reported December 6, 2002 continuation on the present vehicle is determined on the opinions below and the record supplied.
 
 * **Simulated Event Date:** 2003-06-16 (assigned hearing order for additional review).
 
@@ -608,9 +608,9 @@ Stone applies the contribution standard to this organization’s actual funding 
 
 * **Material Record:** Bechhoefer’s letter identified him and included his address, contact information, employment, and association membership while reporting suspected criminal activity by others. An agent disclosed it to a local investigator implicated in the report. The initial dismissal treated the letter as principally about third parties; the 2000 appeal did not preserve the separate First Amendment retaliation claim. Alternative Privacy Act defenses were then undeveloped. The later reported proceedings establish that discovery did occur: the letter remained among unrelated papers in a desk drawer, no agency investigative file was opened, and it was not indexed or retrieved through an identifying filing system. The December 2002 court affirmed the resulting system-of-records judgment. Routine use was not the basis of that judgment because the disclosure’s law-enforcement purpose remained disputed. The available appellate orders do not establish whether review of the earlier judgment altered the effect of the later judgment.
 
-* **Threshold, Preservation, and Vehicle Matters:** Before a merits mandate, obtain the operative grant, mandates, and party positions concerning the December 2002 judgment and present redressability. No stay, vacatur, or frozen record is presumed. The definition of record is only one statutory element; a live dispute about that definition cannot simply be assumed after the agency’s later independent victory. The unappealed retaliation theory remains excluded.
+* **Threshold, Preservation, and Vehicle Matters:** Before a merits mandate, determine on the opinions below and the record supplied the effect of the December 2002 judgment on present redressability. No stay, vacatur, or frozen record is presumed. The definition of record is only one statutory element; a live dispute about that definition cannot simply be assumed after the agency’s later independent victory. The unappealed retaliation theory remains excluded.
 
-* **Relevant Dates:** The disclosure occurred on August 5, 1993. The specified appellate judgment is April 3, 2000; the second appellate judgment is December 6, 2002, before the June 16, 2003 assignment. Both lower-court proceedings are date eligible. The continuing effect of both judgments must be established before further merits review.
+* **Relevant Dates:** The disclosure occurred on August 5, 1993. The specified appellate judgment is April 3, 2000; the second appellate judgment is December 6, 2002, before the June 16, 2003 assignment. Both lower-court proceedings are date eligible. The continuing effect of both judgments is determined on the opinions below and the record supplied before further merits review.
 
 * **Companion or Related Matters:** No additional companion is separately briefed.
 
@@ -638,13 +638,13 @@ Stone applies the contribution standard to this organization’s actual funding 
 
 * **Existing Rule’s Reach:** The identified author’s personal details plainly concern him; a document may concern several people. Definitional coverage does not itself establish liability or a particular damages award.
 
-* **Open Point:** The substantive definition question is distinct from the current vehicle: whether this specified judgment remains live for review after the later independent system-of-records judgment must be established before the Court reaches it.
+* **Open Point:** The substantive definition question is distinct from the current vehicle: whether this specified judgment remains live for review after the later independent system-of-records judgment is decided on the opinions below and the record supplied before the Court reaches it.
 
 #### C. DECISION-MATERIAL LITIGATION POSITIONS
 
 * **Reasoning Below:** The specified 2000 judgment rejected a principal-subject restriction absent from the definition and remanded undeveloped defenses. After discovery, the later court affirmed the agency’s independent system-of-records defense; it did not retreat from the broad definition of record.
 
-* **Petitioner or Appellant:** On the specified question, the agency distinguishes information about a person from any document bearing a name and invokes other statutory limitations. The later judgment provides a concrete independent ground favoring the agency; whether any party still seeks review of the earlier judgment with a redressable interest requires supplemental confirmation.
+* **Petitioner or Appellant:** On the specified question, the agency distinguishes information about a person from any document bearing a name and invokes other statutory limitations. The later judgment provides a concrete independent ground favoring the agency; whether any party retains a redressable interest in review of the earlier judgment is decided on the opinions below and the record supplied.
 
 * **Respondent or Appellee:** On the specified question, Bechhoefer relies on actual personal details, not a bare name in unrelated prose. His original request for discovery was subsequently fulfilled in the historical litigation. Any present attempt to escape the system-of-records judgment must identify a preserved review route and cannot assume that victory on the definition alone restores his claim.
 
@@ -652,9 +652,9 @@ Stone applies the contribution standard to this organization’s actual funding 
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Threshold Paths:** Obtain supplemental briefing identifying the operative judgments and the effect of the pending review on them. If the later independent judgment remains effective and leaves no redressable dispute within the grant, dismiss or otherwise terminate this review without an advisory definition ruling. If the specified judgment remains live, decide only the preserved question and account for any still-effective later proceedings in the mandate.
+* **Threshold Paths:** Determine on the opinions below and the record supplied the operative judgments and the effect of the pending review on them. If the later independent judgment remains effective and leaves no redressable dispute within the grant, dismiss or otherwise terminate this review without an advisory definition ruling. If the specified judgment remains live, decide only the preserved question and account for any still-effective later proceedings in the mandate.
 
-* **Merits Paths, Judgment, and Remedy:** On a confirmed live review of the specified judgment, affirm its rejection of the principal-subject limitation or reverse if the enacted definition excludes the information. A definition-only affirmance does not establish a system of records or overturn the later independent judgment. No duplicate discovery remand is warranted without identifying what remains unresolved in the operative proceeding.
+* **Merits Paths, Judgment, and Remedy:** On a live review of the specified judgment, affirm its rejection of the principal-subject limitation or reverse if the enacted definition excludes the information. A definition-only affirmance does not establish a system of records or overturn the later independent judgment. No duplicate discovery remand is warranted without identifying what remains unresolved in the operative proceeding.
 
 * **Plausible Holding Scope:** The rule can cover a mixed-subject letter containing actual personal information, without holding that every document mentioning a person is necessarily a protected record about that person.
 
@@ -672,14 +672,14 @@ Record and proceedings: Bechhoefer v. United States Department of Justice, DEA, 
 
 #### A. LEGAL POSTURE
 
-The verified December 2002 system-of-records judgment may eliminate effective relief from review of the specified 2000 definition ruling. Stone’s present position is therefore interim; the conditional statutory analysis below is not an operative merits decision.
+The verified December 2002 system-of-records judgment may eliminate effective relief from review of the specified 2000 definition ruling. Stone therefore decides first, on the opinions below and the record supplied, whether it does; the statutory analysis below governs if review remains live.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Retain the matter for limited supplemental briefing on the operative judgments and present redressability. Issue no merits affirmance or reversal before that determination. If a live review of the specified judgment remains, Stone would affirm rejection of the principal-subject limitation.
-* **Stone’s Remedy and Remand Position:** Require the relevant grant, mandate, stay, and later-judgment history and identification of legally available relief within the grant. Leave existing judgments undisturbed during that inquiry. If the later independent judgment leaves no redressable controversy, terminate review without an advisory definition ruling; any necessary vacatur must rest on its actual procedural basis.
+* **Stone’s Controlled Judgment or Disposition:** Determine on the opinions below and the record supplied the operative judgments and present redressability. Issue no merits affirmance or reversal before that determination. If a live review of the specified judgment remains, Stone would affirm rejection of the principal-subject limitation.
+* **Stone’s Remedy and Remand Position:** Identify on the opinions below and the record supplied the legally available relief within the grant. If the later independent judgment leaves no redressable controversy, terminate review without an advisory definition ruling; any necessary vacatur must rest on its actual procedural basis.
 * **Remedial Reach:** The inquiry concerns this proceeding’s live claim. Definition coverage alone authorizes neither discovery already completed nor damages, reversal of an unreviewed independent judgment, or revival of the abandoned retaliation claim.
-* **Practical Relief:** Before any merits mandate, the Court must obtain the parties’ identified orders and explanations through a briefing schedule it sets, determine which judgments remain operative, and state the relief a favorable definition decision could actually provide. An unsupported assumption of a stay or frozen record is inadequate. If no relief is available, the case ends through the proper jurisdictional disposition; if it is, the mandate must preserve any independently effective system-of-records determination and specify only genuinely remaining proceedings.
+* **Practical Relief:** Before any merits mandate, the Court must determine on the opinions below and the record supplied which judgments remain operative, and state the relief a favorable definition decision could actually provide. An unsupported assumption of a stay or frozen record is inadequate. If no relief is available, the case ends through the proper jurisdictional disposition; if it is, the mandate must preserve any independently effective system-of-records determination and specify only genuinely remaining proceedings.
 
 #### C. ISSUE POSITIONS
 
@@ -688,18 +688,18 @@ The verified December 2002 system-of-records judgment may eliminate effective re
 * **Threshold and Merits Reach:** Discovery and a second judgment actually occurred. The party seeking merits review must establish a continuing redressable interest rather than rely on the original remand’s historical purpose.
 * **Question Stone Resolves:** Whether review of the earlier definition ruling can produce effective relief after the later independent agency victory.
 * **Stone’s Legal Position:** Apply existing live-case and mandate requirements; do not presume an unentered procedural order.
-* **Reach Calibration:** Narrow. The specific intervening judgment must be accounted for before deciding merits. An intermediate statutory mandate could be advisory. Confinement to an unexplained hold would leave the parties without the precise vehicle question they must answer.
-* **Stone’s Proposed Holding:** A merits mandate may issue only after the Court determines that the specified judgment remains reviewable with effective relief notwithstanding the later independent disposition. The missing operative orders and party positions require limited supplementation here, not a renewed factual assumption that discovery remains to be done.
+* **Reach Calibration:** Narrow. The specific intervening judgment must be accounted for before deciding merits. An intermediate statutory mandate could be advisory. Confinement to an unexplained hold would leave the parties without a ruling on the precise vehicle question.
+* **Stone’s Proposed Holding:** A merits mandate may issue only after the Court determines that the specified judgment remains reviewable with effective relief notwithstanding the later independent disposition. The Court makes that determination on the opinions below and the record supplied, not on a renewed factual assumption that discovery remains to be done.
 * **Reach Within the Question:** The inquiry concerns the actual grant and judgments, not the substantive correctness of an unpresented later appeal.
 * **Essential Reasoning and Record Application:** Record status and maintenance within a system of records are separate statutory elements. The later court affirmed the agency on the latter after actual discovery, so success on the first may no longer alter the outcome. A correct abstract interpretation cannot justify a useless remand or erase that judgment. The live-relief requirement is decisive.
 * **Precedent Treatment:** None. This applies the ordinary requirement of a live controversy and effectual relief rather than changing a merits precedent.
-* **Next-Case Guidance:** Courts must examine actual intervening judgments and mandates, not assume that pending review freezes every later proceeding. The supplemental orders determine the next procedural step here.
+* **Next-Case Guidance:** Courts must examine actual intervening judgments and mandates, not assume that pending review freezes every later proceeding. The opinions below and the record supplied determine the next procedural step here.
 * **Transition:** Not applicable.
-* **Boundary or Reserved Question:** The necessary grant, mandate, and procedural-effect materials are not established in the present record; that gap must be resolved before merits.
+* **Boundary or Reserved Question:** The procedural effect of the later judgment is determined on the opinions below and the record supplied before merits.
 
 ##### Issue 2: Conditional definition holding for actual personal information
 
-* **Threshold and Merits Reach:** This issue is reached only if supplementation confirms effective review of the specified judgment. It supplies Stone’s complete conditional legal position, not a present advisory decree.
+* **Threshold and Merits Reach:** This issue is reached only if review of the specified judgment remains effective on the opinions below and the record supplied. It supplies Stone’s complete conditional legal position, not a present advisory decree.
 * **Question Stone Resolves:** Whether predominant discussion of others excludes the author’s actual personal information from Privacy Act record coverage.
 * **Stone’s Legal Position:** Construe §552a(a)(4)’s personal-information requirement for this mixed-subject letter, drawing on Department of Defense v. FLRA’s treatment of address records without treating its disclosure holding as a prior decision of this definition question.
 * **Reach Calibration:** Intermediate. The statutory definition protects substantive personal details within mixed-subject documents. A broad every-name rule would erase the requirement that information concern the individual. A narrow principal-subject rule would remove protection from the same personal information depending on its surrounding prose.

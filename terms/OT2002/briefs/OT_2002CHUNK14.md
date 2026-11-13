@@ -46,7 +46,7 @@ For intentional dilution, the court assumed plaintiffs' intent evidence and admi
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-On merits review, the Court may affirm legally sufficient judgment components or vacate a constitutional component if the court demanded the wrong injury. A participation-based constitutional rule could reach deliberate, material impairment of real political organization without establishing a seat entitlement. It could not silently create a pleaded First Amendment count, revive an expressly unasserted influence claim, or establish liability from racial percentages alone. Any remand must identify the affected voters, conduct, injury, causation, and unresolved evidence. The unretrieved verbatim appellate questions and full summary-judgment submissions still limit verification of specific arguments and preservation; they do not return this retained merits event to screening.
+On merits review, the Court may affirm legally sufficient judgment components or vacate a constitutional component if the court demanded the wrong injury. A participation-based constitutional rule could reach deliberate, material impairment of real political organization without establishing a seat entitlement. It could not silently create a pleaded First Amendment count, revive an expressly unasserted influence claim, or establish liability from racial percentages alone. Any remand must identify the affected voters, conduct, injury, causation, and unresolved evidence. Specific arguments and preservation are determined on the district opinion and the record supplied; this retained merits event does not return to screening.
 
 #### E. SOURCES
 
@@ -1461,7 +1461,7 @@ Section 1257 finality precedes the speech merits. The separate disputed Article 
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-* **Threshold Paths:** Confirm which retrospective claims survived settlement and resolve the court entity's immunity and statutory status under the complete structural inquiry. Address any properly presented claim-specific invalidation defense under Heck and Randell’s actual custody-review-opportunity rule. The County claim can proceed independently of whether the court entity is immune. The grant does not authorize reopening class certification or the separate state-credit claim.
+* **Threshold Paths:** Determine on the opinion below and the record supplied which retrospective claims survived settlement and resolve the court entity's immunity and statutory status under the complete structural inquiry. Address any properly presented claim-specific invalidation defense under Heck and Randell’s actual custody-review-opportunity rule. The County claim can proceed independently of whether the court entity is immune. The grant does not authorize reopening class certification or the separate state-credit claim.
 
 * **Merits Paths, Judgment, and Remedy:** Affirming reinstatement permits fact development and adjudication of the two surviving claims, with damages available only after violation, attribution, fault where required and causation are proved. A supported valid-warrant finding could defeat the challenged warrantless-delay theory. An independently lawful nonappearance punishment could defeat the asserted poverty-based theory for that term. Immunity or lack of an attributable policy could defeat a particular defendant without making the underlying conduct constitutional. No branch warrants summary judgment for Alkire on the disputed record.
 
