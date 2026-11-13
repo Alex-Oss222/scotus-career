@@ -1,0 +1,47 @@
+Source: https://www.law.cornell.edu/supct/html/01-1127.ZS.html
+
+LOCKYER V. ANDRADE
+
+ LII
+
+ Supreme Court 
+
+LOCKYER V. ANDRADE (01-1127) 
+270 F.3d 743, reversed.
+Syllabus
+ Opinion
+ [ O’Connor ]Dissent
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+LOCKYER, ATTORNEY GENERAL OF CALIFORNIA v. ANDRADE
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 01—1127. Argued November 5, 2002–Decided March 5, 2003
+
+California charged respondent Andrade with two felony counts of petty theft with a prior conviction after he stole approximately $150 worth of videotapes from two different stores. Under California’s three strikes law, any felony can constitute the third strike subjecting a defendant to a prison term of 25 years to life. The jury found Andrade guilty and then found that he had three prior convictions that qualified as serious or violent felonies under the three strikes regime. Because each of his petty theft convictions thus triggered a separate application of the three strikes law, the judge sentenced him to two consecutive terms of 25 years to life. In affirming, the California Court of Appeal rejected his claim that his sentence violated the constitutional prohibition against cruel and unusual punishment. It found the Solem v. Helm, 463 U.S. 277, proportionality analysis questionable in light of Harmelin v. Michigan, 501 U.S. 957. It then compared the facts in Andrade’s case to those in Rummel v. Estelle, 445 U.S. 263–in which this Court rejected a claim that a life sentence was grossly disproportionate to the felonies that formed the predicate for the sentence, id., at 265–and concluded that Andrade’s sentence was not disproportionate. The California Supreme Court denied discretionary review. The Federal District Court denied Andrade’s subsequent habeas petition, but the Ninth Circuit granted him a certificate of appealability and reversed. Reviewing the case under the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), the latter court held that an unreasonable application of clearly established federal law under 28 U.S.C. § 2254(d)(1), occurs when there is clear error; concluded that both Solem and Rummel remain good law and are instructive in applying Harmelin; and found that the California Court of Appeal’s disregard for Solem resulted in an unreasonable application of clearly established Supreme Court law and was irreconcilable with Solem, thus constituting clear error.
+
+Held: The Ninth Circuit erred in ruling that the California Court of Appeal’s decision was contrary to, or an unreasonable application of, this Court’s clearly established law within the meaning of §2254(d)(1). Pp. 6—13.
+
+ (a) AEDPA does not require a federal habeas court to adopt any one methodology in deciding the only question that matters under §2254(d)(1)–whether a state court decision is contrary to, or involved an unreasonable application of, clearly established federal law. In this case, this Court does not reach the question whether the state court erred, but focuses solely on whether habeas relief is barred by §2254(d)(1). Pp. 6—7.
+
+ (b) This Court must first decide what constitutes such “clearly established” law. Andrade claims that Rummel, Solem, and Harmelin clearly establish a principle that his sentence is so grossly disproportionate that it violated the Eighth Amendment. Under §2254(d)(1), “clearly established Federal law” is the governing legal principle or principles set forth by this Court at the time a state court renders its decision. The difficulty with Andrade’s position is that the Court has not established a clear or consistent path for courts to follow in determining whether a particular sentence for a term of years can violate the Eighth Amendment. Indeed, the only “clearly established” law emerging from the Court’s jurisprudence in this area is that a gross disproportionality principle applies to such sentences. Because the Court’s cases lack clarity regarding what factors may indicate gross disproportionality, the principle’s precise contours are unclear, applicable only in the “exceedingly rare” and “extreme” case. Harmelin, supra, at 1001 (Kennedy, J., concurring in part and concurring in judgment). Pp. 7—9.
+
+ (c) The California Court of Appeal’s decision was not “contrary to, or involved an unreasonable application of,” the clearly established gross disproportionality principle. First, a decision is contrary to clearly established precedent if the state court applied a rule that contradicts the governing law set forth in this Court’s cases or confronts facts that are materially indistinguishable from a Court decision and nevertheless arrives at a different result. Williams v. Taylor, 529 U.S. 362, 405—406. Andrade’s sentence implicates factors relevant in both Rummel and Solem. Because Harmelin and Solem specifically stated that they did not overrule Rummel, it was not contrary to this Court’s clearly established law for the state court to turn to Rummel in deciding whether the sentence was grossly disproportionate. See Harmelin, supra, at 998 (Kennedy, J.). Also, the facts here fall in between Solem and Rummel but are not materially indistinguishable from either. Thus, the state court did not confront materially indistinguishable facts yet arrive at a different result. Second, under the “unreasonable application” clause, a federal habeas court may grant the writ if the state court identifies the correct governing legal principle but unreasonably applies it to the facts of the prisoner’s case. Williams v. Taylor, 529 U.S., at 413. The state court decision must be objectively unreasonable, not just incorrect or erroneous. Id., at 409, 410, 412. Here, the Ninth Circuit erred in defining “objectively unreasonable” to mean “clear error.” While habeas relief can be based on an application of a governing legal principle to a set of facts different from those of the case in which the principle was announced, the governing legal principle here gives legislatures broad discretion to fashion a sentence that fits within the scope of the proportionality principle–the “precise contours” of which are “unclear.” Harmelin, supra, at 998 (Kennedy, J.). And it was not objectively unreasonable for the state court to conclude that these “contours” permitted an affirmance of Andrade’s sentence. Cf., e.g., Riggs v. California, 525 U.S. 1114, 1115 (Stevens, J., dissenting from denial of certiorari). Pp. 9—13.
+
+270 F.3d 743, reversed.
+
+ O’Connor, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, and Thomas, JJ., joined. Souter, J., filed a dissenting opinion, in which Stevens, Ginsburg, and Breyer, JJ., joined.

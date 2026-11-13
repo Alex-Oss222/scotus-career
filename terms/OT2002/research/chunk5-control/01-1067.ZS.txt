@@ -1,0 +1,51 @@
+Source: https://www.law.cornell.edu/supct/html/01-1067.ZS.html
+
+UNITED STATES V. WHITE MOUNTAINAPACHE TRIBE
+
+ LII
+
+ Supreme Court 
+
+UNITED STATES V. WHITE MOUNTAINAPACHE TRIBE (01-1067) 
+249 F.3d 1364, affirmed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]Concurrence
+ [ Ginsburg ]Dissent
+ [ Thomas ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+UNITED STATES v. WHITE MOUNTAIN APACHE TRIBE
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FEDERAL CIRCUIT
+
+No. 01—1067. Argued December 2, 2002–Decided March 4, 2003
+
+Under Pub. L. 86—392, 74 Stat. 8 (1960 Act), the “former Fort Apache Military Reservation” is “held by the United States in trust for the White Mountain Apache Tribe, subject to the right of the Secretary of the Interior to use any part of the land and improvements.” The Secretary has exercised that right with respect to about 30 of the post’s buildings and appurtenances. The Tribe sued the United States for the amount necessary to rehabilitate the property occupied by the Government in accordance with standards for historic preservation, alleging that the United States had breached a fiduciary duty to maintain, protect, repair, and preserve the trust property. In its motion to dismiss, the Government acknowledged that, under the Indian Tucker Act, it was subject to the jurisdiction of the Court of Federal Claims with respect to certain Indian tribal claims, but stressed that the waiver operated only when underlying substantive law could fairly be interpreted as giving rise to a particular duty, breach of which should be compensable in money damages. The Government contended that jurisdiction was lacking here because no statute or regulation could fairly be read to impose a legal obligation on it to maintain or restore the trust property, let alone authorize compensation for breach. The Court of Federal Claims agreed and dismissed the complaint, relying primarily on United States v. Mitchell, 445 U.S. 535 (Mitchell I), and United States v. Mitchell, 463 U.S. 206 (Mitchell II). The court ruled that, like the Indian General Allotment Act at issue in Mitchell I, the 1960 Act created nothing more than a “bare trust,” with no predicate for finding a fiduciary obligation enforceable by monetary relief. The Federal Circuit reversed and remanded, on the understanding that the Government’s property use under the 1960 Act triggered a common-law trustee’s duty to act reasonably to preserve any property the Secretary chose to utilize, an obligation fairly interpreted as supporting a money damages claim. The court held that the 1960 Act’s provision for the Government’s exclusive control over the buildings actually occupied raised the trust to the level of Mitchell II, supra, at 225, in which this Court held that federal timber management statutes and regulations, under which the United States assumed “elaborate control” over tribal forests, identified a specific trust relationship enforceable by a damages award. 
+
+Held: The 1960 Act gives rise to Indian Tucker Act jurisdiction in the Court of Federal Claims over the Tribe’s suit for money damages against the United States. Pp. 4—12. 
+
+ (a) The Indian Tucker Act gives that court jurisdiction over Indian tribal claims that “otherwise would be cognizable … if the claimant were not an Indian tribe,” 28 U.S.C. § 1505 but creates no substantive right enforceable against the Government by a claim for money damages, e.g., Mitchell II, 463 U.S., at 216. A statute creates a right capable of grounding such a claim only if it “can fairly be interpreted as mandating compensation by the … Government for the damages sustained.” E.g., id., at 217. This “fair interpretation” rule demands a showing demonstrably lower than the standard for the initial waiver of sovereign immunity that is necessary to authorize a suit against the Government. It is enough that a statute creating a Tucker Act right be reasonably amenable to the reading that it mandates a right of recovery in damages. See id., at 218—219. While the premise to a Tucker Act claim will not be “lightly inferred,” id., at 218, a fair inference will do. Pp. 4—6. 
+
+ (b) The two Mitchell cases give a sense of when it is fair to infer a fiduciary duty qualifying under the Indian Tucker Act and when it is not. In Mitchell I, because the Allotment Act gave the Government no functional obligations to manage timber, 445 U.S., at 542—543, and to the contrary established that the Indian allotee, and not a representative of the United States, is responsible for using the land, ibid., the Court found that Congress did not intend to impose a duty on the Government to manage resources, id., at 542. In Mitchell II, however, because the statutes and regulations there considered gave the United States full responsibility to manage Indian resources and land for the Indians’ benefit, the Court held that they defined the contours of the United States’ fiduciary responsibilities beyond the “bare” or minimal level, and thus could fairly be interpreted as mandating compensation through money damages if the Government faltered in its responsibility. 463 U.S., at 224—226. Pp. 6—7. 
+
+ (c) The 1960 Act goes beyond a bare trust and permits a fair inference that the Government is subject to duties as a trustee and potentially liable in damages for breach. The statute expressly defines a fiduciary relationship in the provision that Fort Apache be held by the Government in trust for the Tribe, then proceeds to invest the United States with discretionary authority to make direct use of portions of the trust corpus. It is undisputed that the Government has to this day availed itself of its option. As to the property subject to the Government’s actual use, then, the United States has not merely exercised daily supervision but has enjoyed daily occupation, and so has obtained control at least as plenary as its authority over the timber in Mitchell II. Although the 1960 Act, unlike the statutes cited in that case, does not expressly subject the Government to management and conservation duties, the fact that the property occupied by the United States is expressly subject to a trust supports a fair inference that an obligation to preserve the property improvements was incumbent on the Government as trustee. See, e.g., Central States, Southeast & Southwest Areas Pension Fund v. Central Transport, Inc., 472 U.S. 559, 572. Thus, the Government should be liable in damages for breach. Mitchell II, supra, at 226. Pp. 7—9. 
+
+ (d) The Court rejects the Government’s three defenses. First, the argument that the 1960 Act specifically carved out of the trust the Government’s right to use the property it occupied is at odds with a natural reading of the 1960 Act, which provided that “Fort Apache” was subject to the trust, not that the trust consisted of only the property not used by the Secretary. Second, the argument that there is nothing in the 1960 Act from which an intent to provide a damages remedy is fairly inferable rests on a failure to appreciate either the role of trust law in drawing a fair inference or the scope of United States v. Testan, 424 U.S. 392, and Army and Air Force Exchange Service v. Sheehan, 456 U.S. 728, on which the Government relies. The Government’s assertion that an explicit provision for money damages is necessary to support every Tucker Act claim would leave Mitchell II wrongly decided, for there is no federal statute explicitly providing that inadequate timber management would be compensated through a suit for damages. More fundamentally, the Government’s position, if carried to its conclusion, would read the trust relation out of Indian Tucker Act analysis; if a specific provision for damages is needed, a trust obligation and trust law are not. Sheehan and Testan are not to the contrary; they were cases without any trust relationship in the mix of relevant fact, but with affirmative reasons to believe that no damages remedy could have been intended, absent a specific provision. Third, the Government is clearly wrong when it argues that prospective injunctive relief tailored to the situation, rather than the inference of a damages remedy, is the only appropriate remedy for maintenance failures. If the Government is suggesting that the recompense for run-down buildings should be an affirmative order to repair them, it is merely proposing the economic (but perhaps cumbersome) equivalent of damages. But if it is suggesting that relief must be limited to an injunction to toe the fiduciary mark in the future, it would bar the courts from making the Tribe whole for deterioration already suffered, and shield the Government against the remedy whose very availability would deter it from wasting trust property in the period before a Tribe has gone to court for injunctive relief. E.g., Mitchell II, supra, at 227. Pp. 9—12.
+
+249 F.3d 1364, affirmed and remanded.
+
+ Souter, J., delivered the opinion of the Court, in which Stevens, O’Connor, Ginsburg, and Breyer, JJ., joined. Ginsburg, J., filed a concurring opinion, in which Breyer, J., joined. Thomas, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia and Kennedy, JJ., joined.

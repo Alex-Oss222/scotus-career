@@ -1,0 +1,202 @@
+307 F.3d 471 - Adland v. Russ — 307 F.3d 471 | OpenJurist (https://openjurist.org/307/f3d/471/adland-v-russ)
+citeturn11view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/307/f3d/471/adland-v-russ","lineno":260}); Total lines: 424
+L225: Nevertheless, the Commonwealth contends that the disclaimers set forth in the Resolution, which will be on display along with the Ten Commandments, sufficiently offset the religious message of the Ten Commandments. To the extent Stone has not already foreclosed this argument, we find that the disclaimer is ineffective and that the language of the Resolution emphasizes, rather than downplays, the religious nature of the monument.
+L226: 【200†¶73】Initially, we note that neither Section 8 nor the preamble clauses contain an explicit disclaimer that the display of the Ten Commandments is not intended to advance or promote religion. Thus, while the Commonwealth emphasizes that the Resolution expressly disclaims any religious purpose, 【201†*489】these disclaimers are found in Section 2, the provision addressing the Ten Commandments in public schools, and Section 3, which concerns posting by a fiscal court, city council, or school board.
+L227: 【202†¶74】Instead of an express disclaimer, Section 8 provides an avowed statement of secular purpose. While such a statement may be sufficient to dilute religious endorsement, see Brooks, 【203†222 F.3d at 266】, the disclaimer implied in Section 8 is problematic. While it is not entirely clear how the Resolution will be portrayed on the display, the language of Section 8 is located on the very last page of the Resolution.
+L228: Unlike the disclaimer in Allegheny — a sign proclaiming “A salute to liberty” — a reader must do more than glance at the Resolution; he or she must read the fine print. See Allegheny, 【204†492 U.S. at 582】, 【135†109 S.Ct. 3086】. And in reading this print, the viewer must first encounter statements “The Bible is true,” and “The Bible is the word of life,” before he or she comes to any sort of disclaimer of religious purpose.
+L229: As the defendant recognizes, these statements, along with the other statements in preamble, have “religious meaning.” (Rep. Br. at 13). We therefore find that to the extent a disclaimer could mitigate the endorsement inherent in displaying the Ten Commandments on the State Capitol grounds, the Commonwealth’s current disclaimer is not only ineffective, but includes language expressly endorsing the Bible and Christianity.
+L230: 【205†¶75】Given that (1) the Commonwealth intends to display a document that is inherently religious, see Stone, 【115†449 U.S. at 41】, 【114†101 S.Ct.
+L231: 192】; (2) the display will be on the grounds of the State Capitol; (3) the format of the monument emphasizes the Commandments’ religious directives; (4) the Ten Commandments monument will be the largest monument in the display; (5) the intended “cultural and historical display” set forth in Section 8 lacks a readily discernible unifying theme, and; (6) the Resolution, which will be posted with the monument, tends to amplify the religious message, we hold that the defendant cannot comply with Section 8 without imper-missibly endorsing religion.
+L232: 【206†¶76】The ultimate effect of this endorsement is to send “the ancillary message to members of the audience who are nonadherents ‘that they are outsiders, not full members of the political community, and the accompanying message to adherents that they are insiders, favored members of the political community.’ ” Santa Fe Indep. Sch. Dist., 【207†530 U.S. at 309】-310, 【156†120 S.Ct. 2266】 (quoting Lynch, 【208†465 U.S. at 688】, 【85†104 S.Ct. 1355】 (O’Connor, J., concurring)).【209†5】
+L233: 
+L234: 【210†¶77】V.
+L235: 【211†¶78】We emphasize that in declaring Section 8 unconstitutional and permanently enjoining the defendant from complying with that statutory directive, we do not hold that the Commonwealth of Kentucky can never display the Ten Commandments or this monument in particular.
+L236: To the contrary, we believe that the Supreme Court’s opinion in Stone and Justice Stevens’ statements in Allegheny not only acknowledge that the Ten Commandments may be constitutionally displayed, they provide considerable guidance how they can be displayed. The plaintiffs also recognize this fact in that they have not advocated a ban on the public display of the Ten Commandments or any such extreme remedy.
+L237: Indeed, to their credit, they proposed a number of alternative displays in the dis【212†*490】trict court, including a historical display showcasing the various influences on our law by both secular and religious sources. While we cannot pass on the merits of plaintiffs’ proposals,- we are nevertheless confident that with careful planning and deliberation, and perhaps consultation with the- plaintiffs, the Commonwealth can permissibly display the monument in question.
+L238: 【213†¶79】VI.
+L239: 
+L240: 【214†¶80】For the foregoing reasons, we affirm the district court’s decision declaring Section 8 of the Kentucky Senate Resolution No. 57 unconstitutional under the Establishment Clause of the 【27†First Amendment】 and affirm its decision to permanently enjoin the defendant Commissioner of the Department for Facilities Management from complying with Section 8.
+L241: 
+L242: 【215†1】
+L243: 【216†¶81】. As recounted in a Seventh Circuit decision addressing an Establishment Clause challenge to an identical Ten Commandments monument in Elkhart, Indiana, the original impetus for the Eagles’ nationwide donation of Ten Commandments monuments came from E.J. Ruegmer, a juvenile court judge in Minnesota. 【217†Books v. City of Elkhart】, Indiana, 【218†235 F.3d 292, 294】 (7th Cir.2000), cert. denied, 【119†532 U.S. 1058】, 【119†121 S.Ct. 2209】, 【120†149 L.Ed.2d 1036】 (2001); see also Summum v.
+L244: City of Ogden, No. 01-4022, 2002 WL 1609753, at *1 (10th Cir. July 19, 2002). Judge Ruegmer was disillusioned by juvenile crime and believed that the Ten Commandments could provide a common code of conduct. Id.
+L245: 【219†2】
+L246: 【220†¶82】. In its brief, the defendant relies primarily on the language of Section 2, which deals 【127†*481】with displays of the Ten Commandments in public school classrooms, in emphasizing its secular purpose.
+L247: Its primary brief makes repeated references to the purpose set forth in Section 2 — "illustrating how the Bible and Ten Commandments have influenced the faith, morals, and character of American leaders who, in turn, have shaped American law, public policy, and institutions" — but only a single reference to Section 8, the provision actually at issue.
+L248: While we take note of the entire Resolution, including Section 2, in assessing context, our first inquiry into the Commonwealth's intent must be the secular purpose actually set forth in the challenged provision.
+L249: 【221†3】
+L250: 【222†¶83】. In evaluating the Commonwealth's avowed secular purpose, we do not rely on the comments attributed to State Senator Albert Robinson in a February 16, 2000, Louisville Courier Journal article. Cf. 【223†Wallace v. Jaffree】, 【224†472 U.S. 38, 74】, 【224†105 S.Ct.
+L251: 2479】, 【224†86 L.Ed.2d 29】 (1985) (O'Connor, J., concurring) ("It is particularly troublesome to denigrate an expressed secular purpose due to postenactment testimony by particular legislators or by interested persons who witnessed the drafting of the statute.”). State Senator Robinson is quoted as having said: "When the boat came to these great shores, it did not have an atheist, a Buddhist, a Hindu, a Muslim, a Christian and a Jew ... Ninety-eight percent plus of these people were Christians.”
+L252: 【225†¶84】Similarly, we do not rely on the fact that the district courts in Kentucky have recently addressed a number of challenges to Ten Commandments displays. While it is certainly plausible that the Kentucky Senate’s efforts to display the Ten Commandments were part of a larger Kentucky-wide campaign or part of a larger trend, there is not sufficient evidence in the record to link these various cases. See 【95†American Civil Liberties Union v. Grayson County】, Kentucky, No.
+L253: 4:01CV-202-M, 2002 WL 1558688, at *6 (W.D.Ky. May 13, 2002) (preliminarily enjoining display of Ten Commandments as part of "Foundations of American Law and Government” display in the Grayson County Courthouse); American Civil Liberties Union of Kentucky v. McCreary County, Kentucky, 【226†145 F.Supp.2d 845, 853】 (E.D.Ky.2001) (permanently enjoining display of Ten Commandments display in the McCreary and Pulaski County courthouses and the Harlan County schools); Doe v.
+L254: Musselman, 【227†96 F.Supp.2d 667】 (E.D.Ky.2000) (preliminarily enjoining Ten Commandments display in public schools); see also 【95†American Civil Liberties Union v. Rutherford County】, No. 3:02-0396, 2002 WL 1400202, at *13 (M.D.Tenn. June 21, 2002) (preliminarily enjoining .display of the Ten Commandments as part of the "Foundations of American Law and Government” display in the Rutherford County Courthouse); American Civil 【228†Liberties Union v.
+L255: Hamilton County, Tennessee】, 【229†202 F.Supp.2d 757, 767】 (E.D.Tenn.2002) (declaring Hamilton County's display of the Ten Commandments at the Hamilton County Courthouse and the Hamilton County City Courts Building unconstitutional).
+L256: 【230†4】
+L257: 【231†¶85】. Although plaintiffs contend that the Ten Commandments monument contains an exclusively Protestant version of the Ten Commandments, the Seventh Circuit's summary of the history of the monuments donated by the Eagles indicates that the version depicted on the monument was prepared with input from the Roman Catholic, Protestant and Jewish faiths. Books, 【218†235 F.3d at 294】-95. We need not resolve this factual dispute because it does not affect our conclusion in this case.
+L258: See Allegheny, 【232†492 U.S. at 615】, 【135†109 S.Ct. 3086】 (Blackmun, J.) (“The simultaneous endorsement of Judaism and Christianity is no less constitutionally infirm than the endorsement of Christianity alone.”).
+L259: 【233†5】
+L260: 
+L261: 【234†¶86】. Because we find that Section 8 does not have a valid secular purpose and that it has the impermissible effect of endorsing religion, we do not reach the question of whether Section 8 unconstitutionally entangles the Commonwealth with religion.
+L262: 
+L263: 【235†¶87】SARGUS, District Judge.
+L264: 【236†¶88】I concur in the opinion of Chief Judge Martin. I write separately to note that our decision is compelled by the Supreme Court’s decision in 【114†Stone v. Graham】, 【114†449 U.S. 39】, 【114†101 S.Ct. 192】, 【114†66 L.Ed.2d 199】 (1980) (per curiam) which found unconstitutional a Kentucky statute requiring the placement of the Ten Commandments in all public school classrooms. Further,
+L265: > [T]he Ten Commandments- are not in peril. They may be displayed in every church, synagogue, temple, mosque, home and storefront. They may be displayed on lawns and in corporate board rooms. Where this precious gift cannot, and should not, be displayéd as a religious text is on government property.
+L266: 【237†¶89】【238†Harvey v. Cobb County, Ga.】, 【238†811 F.Supp. 669, 670】 (N.D.Ga.1993) (emphasis added), aff'd 【239†15 F.3d 1097】 (11th Cir.), cert. denied, 【240†511 U.S. 1129】, 【240†114 S.Ct. 2138】, 【241†128 L.Ed.2d 867】 (1994).
+L267: 【242†¶90】Finally, as the majority opinion makes clear, the Ten Commandments, which played a most significant role in the development of positive law and western civilization, may be displayed on public property in the context of their historical significance. Our Constitution does not permit, however, a state to select or favor one religious creed over another.
+L268: 
+L269: 【243†¶91】BATCHELDER, Circuit Judge,
+L270: 
+L271: 【244†¶92】dissenting.
+L272: 【245†¶93】The majority today rules on the constitutionality of a historical and cultural display that is still being planned and has yet to be erected. Because the jurisdiction of the federal courts extends only to cases that are ripe for review, I respectfully dissent.
+L273: 
+L274: 【246†¶94】I.
+L275: 【247†¶95】Before this Court may address the plaintiffs’ contention that Section 8 of Senate Joint Resolution No. 57 violates the Establishment Clause, we must be certain that we have jurisdiction-that is, we must determine whether the plaintiffs present an actual “case” or “controversy” within the meaning of 【60†Article III】 of the Constitution. We review this question of federal jurisdiction de novo. 【248†Greater Detroit Res. Recovery Auth. v. United States EPA】, 【249†916 F.2d 317, 319】 (6th Cir.1990).
+L276: 【250†¶96】Of particular concern here is whether this case is ripe for review. “Ripeness is more than a mere procedural question; it is determinative of jurisdiction. If a claim is unripe, federal courts lack subject matter jurisdiction and the complaint must be dismissed. This deficiency may be raised sua sponte if not raised by the parties.” Bigelow v. Mich. Dep’t of Natural Res., 【251†970 F.2d 154, 157】 (6th Cir.1992) (quoting S. Pac. Transp. Co. v.
+L277: City of Los Angeles, 【252†922 F.2d 498, 502】 (9th Cir.1990)). See also 【10†Steel Co. v. Citizens for a Better Env’t】, 【253†523 U.S. 83, 93】, 【10†118 S.Ct. 1003】, 140 L.Ed.2d 【254†*491】210 (1998); 【255†Louisville & Nashville R.R. v. Mottley】, 【256†211 U.S. 149, 152】, 【255†29 S.Ct. 42】, 【255†53 L.Ed. 126】 (1908); 【257†Franzel v. Kerr Mfg. Co.】, 【258†959 F.2d 628, 630】 & n. 1 (6th Cir.1992).
+L278: “[R]ipeness doctrine is drawn both from 【60†Article III】 limitations on judicial power and from prudential reasons for refusing to exercise jurisdiction.” 【259†Reno v. Catholic Soc. Servs., Inc.】, 【259†509 U.S. 43, 57】 n. 18, 【259†113 S.Ct. 2485】, 【259†125 L.Ed.2d 38】 (1993). Although neither party to this appeal raised the issue of ripeness, I will address it.
+L279: 【260†¶97】The 【261†ripeness doctrine】 is designed to “prevent the courts, through avoidance of premature adjudication, from entangling themselves in abstract disagreements over administrative policies, and also to protect the agencies from judicial interference until an administrative decision has been formalized and its effects felt in a concrete way by the challenging parties.” 【262†Abbott Labs. v. Gardner】, 【262†387 U.S. 136, 148】-49, 【262†87 S.Ct.
+L280: 1507】, 【262†18 L.Ed.2d 681】 (1967), overruled on other grounds by 【11†Califano v. Sanders】, 【11†430 U.S. 99】, 【11†97 S.Ct. 980】, 【11†51 L.Ed.2d 192】 (1977). “Ripeness becomes an issue when a case is anchored in future events that may not occur as anticipated, or at all.” 【263†Nat’l Rifle Ass’n of Am. v. Magaw】, 【264†132 F.3d 272, 284】 (6th Cir.1997).
+L281: The Supreme Court has instructed that we are to make a two-fold inquiry: we must “evaluate both the fitness of the issues for judicial decision and the hardship to the parties of withholding court consideration.” Abbott Labs., 【265†387 U.S. at 149】, 【266†87 S.Ct. 1507】. A claim, to be ripe for review, must satisfy both criteria. 【267†Nationwide Mut. Ins. Co. v. Cisneros】, 【267†52 F.3d 1351, 1362】 (6th Cir.1995).
+L282: This circuit has interpreted the ripeness inquiry to include consideration of the likelihood that the harm complained of will actually occur; whether the record is sufficiently developed to make the case fit for judicial resolution; and hardship to the parties if relief is denied. Magaw, 【264†132 F.3d at 284】. As I shall explain, this case is not ripe.
+L283: 【268†¶98】The majority discusses a number of Supreme Court cases that provide guidance in determining whether a challenge to a religious display or figure erected on public property brought under the Establishment Clause is ripe for review. In 【114†Stone v. Graham】, 【269†449 U.S. at 39】, 【114†101 S.Ct. 192】, the Supreme Court ruled that a Kentucky statute requiring the posting of the Ten Commandments in each public school classroom violated the Establishment Clause.
+L284: While the Court, following Lemon, rejected the Commonwealth’s proffered secular purpose as “self-serving” and “not sufficient to avoid conflict with the 【27†First Amendment】,” id. at 41, 【114†101 S.Ct.
+L285: 192】 (citation omitted), it noted that this singular display of the Ten Commandments was entirely different from an integration of the Ten Commandments into the school curriculum, “where the Bible may constitutionally be used in an appropriate study of history, civilization, ethics, comparative religion, or the like.” 【114†Id.】 at 42, 【114†101 S.Ct. 192】 (citing 【121†Sch. Dist. of Abington Township v. Schempp】, 【270†374 U.S. 203, 225】, 【121†83 S.Ct. 1560】, 【121†10 L.Ed.2d 844】 (1963)).
+L286: 【271†¶99】The Supreme Court used similar reasoning in 【85†Lynch v. Donnelly】, 【272†465 U.S. at 668】, 【85†104 S.Ct. 1355】, where the Court upheld a town’s Christmas display consisting of a creche scene and a large variety of both religious and nonreligious items. 【85†Id.】 at 671, 【85†104 S.Ct. 1355】.
+L287: Finding an “unbroken history of official acknowledgment by all three branches of government of the role of religion in American life,” the Court reviewed the country’s history of governmental recognition of, and in fact, subsidizing of holidays having a religious significance, as well as the governmental acknowledgment of the country’s religious heritage. 【85†Id.】 at 674-77, 【85†104 S.Ct. 1355】.
+L288: The Court concluded that the constitution【273†*492】ality of the Christmas display must be determined by examining the display as a whole, and not by focusing inordinately on the creche scene, and viewed in that manner, the display did not offend the Establishment Clause. 【85†Id.】 at 680, 【85†104 S.Ct. 1355】.
+L289: In a concurring opinion, Justice O’Connor concluded that the town did not “intend” either to endorse Christianity or express disapproval of non-Christian religions, but wanted only to celebrate a “public holiday through its traditional symbols.” 【85†Id.】 at 691, 【85†104 S.Ct. 1355】 (O’Connor, J., concurring). Justice O’Con-nor analogized the nativity scene to a museum display of religious artifacts; the religious message is still communicated but there is no endorsement of the message by the museum.
+L290: 【85†Id.】 at 692, 【85†104 S.Ct. 1355】.
+L291: 【274†¶100】A locality’s holiday displays were again challenged in 【135†County of Allegheny v. American Civil Liberties Union】, 【135†492 U.S. 573】, 【135†109 S.Ct. 3086】, 【135†106 L.Ed.2d 472】 (1989). One display, which was held unconstitutional by the Court, was an unmistakably Christian nativity scene, while the other display, located outside another public building, consisted of a Christmas tree, a “Salute to Liberty” sign and a Chanukah menorah. 【135†Id.】 at 578, 【135†109 S.Ct. 3086】.
+L292: As the majority discusses above, the Court found the county’s nativity scene unconstitutional because there were no offsetting nonreligious displays to detract from its religious message, id. at 598-602, 【135†109 S.Ct. 3086】, but found that the Chanukah menorah and Christmas tree, in conjunction with the “Salute to Liberty” sign, conveyed a secular “winter-holiday” message, in Justice Blackman’s estimation. 【135†Id.】 at 616, 【135†109 S.Ct. 3086】 (Blackmun, J., opinion).
+L293: 【275†¶101】From Lynch and County of Allegheny we learn that public displays may, consistent with the Court’s interpretation of the Establishment Clause, have a religious component and religious symbolism so long as the message from the display is neither completely religious nor exclusive of other religions. The unconstitutional display in County of Allegheny was entirely Christian, whereas the permissible displays in that case and in Lynch were more inclusive and less overtly religious.
+L294: Applying that distinction, this circuit, in 【176†Doe v. City of Clawson】, 【176†915 F.2d 244】 (6th Cir.1990), upheld a nativity scene based on a number of factors, one of which was the presence of other, nonreligious figures and messages. Besides the traditional Holy Family figures, there was a Santa Claus figure, a Noel sign, and a number of other holiday decorations conveying an overall message of celebrating the holiday, but not the religious nature of the holiday. 【176†Id.】 at 248-49.
+L295: See also 【63†Washegesic v. Bloomingdale Pub. Schs.】, 【276†33 F.3d 679, 683】 (6th Cir.1994), cert. denied, 【277†514 U.S. 1095】, 【278†115 S.Ct. 1822】, 【279†131 L.Ed.2d 744】 (1995) (citing Stone for the propositions that the constitutional infirmity of posting the Ten Commandments resulted from the fact that the display was not integrated with other displays or a course of study).
+L296: 【280†¶102】After reviewing these precedents, I conclude that this claim is not ripe for adjudication. At this point the plaintiffs’ claim does not satisfy any of the factors set forth in Magaw, 【264†132 F.3d at 284】, namely: a likelihood that the harm complained of will actually occur; that the record is sufficiently developed to make the case fit for judicial resolution; and that the parties will suffer hardship if relief is denied.
+L297: First, because there is no evidence in the record to tell us what will comprise the “historical display” of which the Ten Commandments monument will be a part, I conclude that the plaintiffs have not demonstrated that the harm they complain of will ever come to pass, much less that the “injury in fact [is] certainly impending.” Magaw, 【281†132 F.3d at 280】. And without this 【282†*493】evidence, this Court lacks a factual basis upon which to make a determination of the display’s constitutionality.
+L298: 【283†¶103】Second, Section 8 contains no description of the content of the “historical and cultural display” into which the monument is to be incorporated, and to date, no such display has been assembled. We are left to speculate about whether that display will be sufficiently historical and cultural to offset the religious tone of the monument or whether the display of the monument will be forbidden because of an explicitly religious message.
+L299: The monument itself depicts the Ten Commandments as only one-albeit the most prominent one-of several messages, and in its implementation of Section 8, the Commonwealth might include in the display any number of other things relevant to the historical and cultural influences on the development of Kentucky law, which might well neutralize any message of endorsement of religion by the Commonwealth.
+L300: The Magna Charta, the 【284†Declaration of Independence】 and the Constitution of United States come immediately to mind, not to mention Daniel Boone, long rifles and Indians. An historical display containing numerous nonreligious items would be akin to the display upheld in Lynch, 465 U.S. at 687, 【85†104 S.Ct. 1355】 (O’Connor, J., concurring), where the Court found that the nonexclusive nature of the display evidenced the city’s desire to celebrate the holiday season.
+L301: 【285†¶104】Third, the plaintiffs have not shown that they would suffer any hardship now if relief is denied. They would not suffer any immediate economic harm, Abbott Labs., 【286†387 U.S. at 152】-53, 【9†87 S.Ct. 1507】, nor would they suffer risk of prosecution by the state, 【287†Babbitt v. United Farm Workers Nat’l Union】, 【288†442 U.S. 289, 298】-99, 【287†99 S.Ct. 2301】, 【287†60 L.Ed.2d 895】 (1979), nor would their constitutional speech or conduct be chilled, 【289†Virginia v. Am.
+L302: Booksellers Ass’n】, 【290†484 U.S. 383, 393】, 【289†108 S.Ct. 636】, 【289†98 L.Ed.2d 782】 (1988). Their worry that they might encounter a display in which the Ten Commandments monument is placed in such a way that it violates the Establishment Clause may be legitimate, but it is not legally cognizable at this point. See, e.g., 【291†Ohio Forestry Ass’n v. Sierra Club】, 【292†523 U.S. 726, 734】, 【291†118 S.Ct.
+L303: 1665】, 【291†140 L.Ed.2d 921】 (1998) (“[W]e do not find a strong reason why the [respondent] must bring its challenge now in order to get relief.”).
+L304: 【293†¶105】The Supreme Court’s recent decision in Sante Fe Independent 【156†School District v. Doe】, 【156†530 U.S. 290】, 【156†120 S.Ct. 2266】, 【156†147 L.Ed.2d 295】 (2000), supports this conclusion. In Sante Fe the Court ruled unconstitutional a system in which the school allowed the student body, through balloting, to determine whether an invocation would be given at school football games and who would give the invocation should the student body elect to have one. 【156†Id.】 at 296-98, 【156†120 S.Ct. 2266】.
+L305: Important for our purposes, the Court rejected the school district’s argument that the case was not ripe because no prayer had actually yet been given. 【156†Id.】 at 313-16, 【156†120 S.Ct. 2266】. The Court found that the case was ripe because an injury had occurred when the district enacted a policy which, on its face, revealed a purpose that itself violated the Establishment Clause. 【156†Id.】 at 313-17, 【156†120 S.Ct. 2266】.
+L306: The clear evidence of this purpose, the Court held, was the policy’s language using the religious term “invocation” with no secular alternatives, and the policy’s decision-making mechanism permitting the Christian majority to impose its views on the non-Christian minority. 【156†Id.】Here, no religious purpose is apparent on the face of Section 8 of Senate Joint Resolution No.
+L307: 57 because, as this opinion has explained, Section 8 calls for the Ten Commandments monument to be part of an historical and cultural display. See also 【294†*494】【295†Wheeler v. Barrera】, 【296†417 U.S. 402, 426】, 【295†94 S.Ct.
+L308: 2274】, 【295†41 L.Ed.2d 159】 (1974) (ruling that an Establishment Clause challenge to Title I funds, where the plaintiffs claimed that Title I would allow pubhcly paid teachers to be sent to parochial schools to teach, was not ripe because the state had a choice of many constitutional means with which to implement Title I).
+L309: 【297†¶106】The plaintiffs argue that because portions of Senate Joint Resolution 57 — other than Section 8 — contain overtly Christian references, and because Section 8 requires the historical display to include the Resolution itself, the display will not be able to survive an Establishment Clause challenge.
+L310: The plaintiffs’ complaint, however, challenged only Section 8 of the Resolution, and in the absence of any specific evidence detailing the composition of the display mandated by Section 8, we can only speculate whether in its final form, that display will offend the Constitution. A case requiring this kind of speculation for its resolution is not ripe.
+L311: Share Print
+L312: 
+L313: Download
+L314: 
+L315: .txt PDF
+L316: 
+L317: Copy
+L318: 
+L319: [Button: URL][Button: Citation Link][Button: Bluebook]
+L320: 
+L321: Embed on your site
+L322: 
+L323: iframe Markdown Preview card Button
+L324: 
+L325: Hover to preview · click to copy the code
+L326: 
+L327: Cite on Wikipedia【298†Search Wikipedia →†en.wikipedia.org】
+L328: 
+L329: Report a problem
+L330: 
+L331: What went wrong?
+L332: 
+L333: 10 to 2,000 characters. 0 so far, 2,000 left.
+L334: 
+L335: Your email (optional)[Input: Only if you would like a reply]
+L336: 
+L337: Website[Input]
+L338: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L339: 
+L340: [Button: Send][Button: Cancel ]
+L341: ### Court
+L342: 
+L343: 【3†Sixth Circuit Court of Appeals】
+L344: 
+L345: ### Judge
+L346: 
+L347:   * 【299†Boyce Ficklen Martin Jr.】
+L348: 
+L349: Chief Judge
+L350: ### Counsel
+L351: 
+L352:   * David A. Friedman (argued and briefed), American Civil Liberties Union of Kentucky, General Counsel, Louisville, KY, C. Laurie Griffith (briefed), Griffith Law Offices, Louisville, KY, for Plaintiffs-Appellees.
+L353: 
+L354:   * Scott White (briefed), Jennifer L. Carri-co (argued and briefed), Office of the Attorney General, Frankfort, KY, for Defendant-Appellant.
+L355: 
+L356:   * Edward L. White, III, Thomas More Center for Law & Justice, Ann Arbor, MI, for Amicus Curiae.
+L357:   * Edna J. Turner, Theodore H. Amshoff, Jr., Amshoff & Amshoff, Louisville, KY, for Defendants.
+L358: ### In the law dictionary
+L359: 
+L360: Defined terms used in this case
+L361: 
+L362:   * 【300†continuing obligation】
+L363:   * 【301†Establishment Clause】
+L364:   * 【302†establishment of religion】
+L365:   * 【303†monuments】
+L366:   * 【304†ripeness doctrine】
+L367: 
+L368: /307/f3d/471 · 【305†.json】 · Public domain
+L369: 
+L370: The empirical record of United States law. State and Federal court opinions, the U.S. Code, a multi-source dictionary, judges and courts - sourced from the public domain, analyzed in the open.
+L371: 
+L372: U.S. Government work · public domain · not legal advice
+L373: With special thanks to
+L374: 
+L375: Browse the record
+L376: 
+L377:   * 【306†Cases】
+L378:   * 【307†Code】
+L379:   * 【308†Law Dictionary】
+L380:   * 【309†Federal Judges】
+L381:   * 【310†Courts】
+L382:   * 【311†Law Schools】
+L383:   * 【312†Named Statutes】
+L384:   * 【313†Founding Documents】
+L385:   * 【314†Books】
+L386:   * 【315†Citation Checker】
+L387: 
+L388: For developers + AI agents
+L389: 
+L390:   * 【316†Developers & API】
+L391:   * 【317†/llms.txt】
+L392:   * 【318†JSON API】
+L393: 【319†♥ Support OpenJurist】
+L394: 
+L395: © 2026 OpenJurist♿ Accessibility
+L396: ## Accessibility
+L397: 
+L398: [Button: × ]
+L399: 
+L400: These preferences are saved in your browser.
+L401: 
+L402: Text size
+L403: 
+L404: [Button: A− ]100%[Button: A+ ]
+L405: 
+L406: High contrast Darker text, underlined links[Input]Readable font A wider, more legible typeface[Input]Reduce motion Minimise animations and transitions[Input]
+L407: 
+L408: [Button: Reset to defaults ] 【320†Accessibility statement】
+L409: 
+L410: 【321†Contact】 【322†Returns & Refunds】 【323†Attributions】 【324†Terms of Use】 【325†Privacy Policy】
+L411: 
+L412: Report a problem with this page
+L413: 
+L414: What went wrong?
+L415: 10 to 2,000 characters. 0 so far, 2,000 left.
+L416: 
+L417: Your email (optional)[Input: Only if you would like a reply]
+L418: 
+L419: Website[Input]
+L420: 
+L421: We store your message, the page address, and your email only if you give it. We do not store your IP address.
+L422: 
+L423: [Button: Send][Button: Cancel ]
+

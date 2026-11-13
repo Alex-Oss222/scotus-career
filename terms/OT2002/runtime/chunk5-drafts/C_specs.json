@@ -1,0 +1,188 @@
+[
+  {
+    "file": "United-States-v-Wagoner-County-Real-Estate_merits_2003-03-04.md",
+    "case": "United States v. Wagoner County Real Estate",
+    "date": "2003-03-04",
+    "form": "Signed Opinion of the Court",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_fit_order": [
+      "Breyer",
+      "Thomas",
+      "Ginsburg",
+      "Souter",
+      "Stone-Zsela",
+      "Kennedy",
+      "O'Connor",
+      "Stevens",
+      "Scalia"
+    ],
+    "recommended_fit_reasons": "Breyer has the closest adopted Mackby synthesis of proportionality, findings and remand; Thomas supplies Bajakajian comparison and review mechanics; Ginsburg and Souter can coordinate actual-conflict preemption with record-specific excessiveness. Stone is fully eligible under this approved position, including independent legal review. All nine can carry every proposition; fit operates only within the later counted pool."
+  },
+  {
+    "file": "Connecticut-Department-of-Public-Safety-v-Doe_merits_2003-03-05.md",
+    "case": "Connecticut Department of Public Safety v. Doe",
+    "date": "2003-03-05",
+    "form": "Signed Opinion of the Court, with a concurrence in the judgment",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_fit_order": [
+      "Souter",
+      "Kennedy",
+      "O'Connor",
+      "Ginsburg",
+      "Breyer",
+      "Stone-Zsela",
+      "Scalia",
+      "Thomas"
+    ],
+    "recommended_fit_reasons": "Souter can distinguish the legally operative risk conditions he articulated in W.P.; Kennedy can preserve Paul P. while explaining the unused-fact rule. O'Connor, Ginsburg and Breyer have complete compatible grounds. Stone can carry the assumed-interest disposition, unlike Stevens whose affirmative liberty/punishment premise supplies judgment agreement only. Choose within the later counted pool."
+  },
+  {
+    "file": "Ewing-v-California_merits_2003-03-05.md",
+    "case": "Ewing v. California",
+    "date": "2003-03-05",
+    "form": "Signed Opinion of the Court with three distinct dissents",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_fit_order": [
+      "Breyer",
+      "Souter",
+      "Ginsburg",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "recommended_fit_reasons": "Breyer has the frozen application-focused account of recidivism, actual severity and the narrow limit; Souter has the closest adopted Henderson synthesis. Ginsburg and Stevens fully support the confined application. Stone is fully eligible on his expressly authorized conditional as-applied ground. No author may add new comparison facts or generalize beyond the supported rule; select only within the later counted pool."
+  },
+  {
+    "file": "Lockyer-v-Andrade_merits_2003-03-05.md",
+    "case": "Lockyer v. Andrade",
+    "date": "2003-03-05",
+    "form": "Signed Opinion of the Court; unanimous review framework and five-Justice application and remedy",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": {
+      "Part I": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "Parts II-III": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_fit_order": [
+      "Souter",
+      "Breyer",
+      "Ginsburg",
+      "Stevens",
+      "Stone-Zsela"
+    ],
+    "recommended_fit_reasons": "Souter has the frozen aggregate-severity and second-increment ground; Breyer articulated the adopted Williams statutory framework and can preserve the distinct gateway and merits findings. Ginsburg, Stevens and Stone fully join both. All five are full-opinion eligible; the other four accept Part I only. Select within the later counted pool."
+  }
+]

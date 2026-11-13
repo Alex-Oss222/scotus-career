@@ -1,0 +1,43 @@
+Source: https://www.law.cornell.edu/supct/html/01-1231.ZS.html
+
+CONNECTICUT DEPT. OF PUBLIC SAFETY V. DOE
+
+ LII
+
+ Supreme Court 
+
+CONNECTICUT DEPT. OF PUBLIC SAFETY V. DOE (01-1231) 
+271 F.3d 38, reversed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Scalia ]Concurrence
+ [ Souter ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CONNECTICUT DEPARTMENT OF PUBLIC SAFETY et al. v. DOE, individually and on behalf of all others similarly situated
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+
+No. 01—1231. Argued November 13, 2002–Decided March 5, 2003
+
+Among other things, Connecticut’s “Megan’s Law” requires persons convicted of sexual offenses to register with the Department of Public Safety (DPS) upon their release into the community, and requires DPS to post a sex offender registry containing registrants’ names, addresses, photographs, and descriptions on an Internet Website and to make the registry available to the public in certain state offices. Respondent, a convicted sex offender who is subject to the law, filed a 42 U.S.C. § 1983 action on behalf of himself and similarly situated sex offenders, claiming that the law violates, inter alia, the Fourteenth Amendment’s Due Process Clause. The District Court granted respondent summary judgment, certified a class of individuals subject to the law, and permanently enjoined the law’s public disclosure provisions. The Second Circuit affirmed, concluding that such disclosure both deprived registered sex offenders of a “liberty interest,” and violated the Due Process Clause because officials did not afford registrants a predeprivation hearing to determine whether they are likely to be “currently dangerous.”
+
+Held: The Second Circuit’s judgment must be reversed because due process does not require the opportunity to prove a fact that is not material to the State’s statutory scheme. Mere injury to reputation, even if defamatory, does not constitute the deprivation of a liberty interest. Paul v. Davis, 424 U.S. 693. But even assuming, arguendo, that respondent has been deprived of a liberty interest, due process does not entitle him to a hearing to establish a fact–that he is not currently dangerous–that is not material under the statute. Cf., e.g., Wisconsin v. Constantineau, 400 U.S. 433. As the DPS Website explains, the law’s requirements turn on an offender’s conviction alone–a fact that a convicted offender has already had a procedurally safeguarded opportunity to contest. Unless respondent can show that the substantive rule of law is defective (by conflicting with the Constitution), any hearing on current dangerousness is a bootless exercise. Respondent expressly disavows any reliance on the substantive component of the Fourteenth Amendment’s protections, and maintains that his challenge is strictly a procedural one. But States are not barred by principles of “procedural due process” from drawing such classifications. Michael H. v. Gerald D., 491 U.S. 110, 120 (plurality opinion). Such claims “must ultimately be analyzed” in terms of substantive due process. Id., at 121. Because the question is not properly before the Court, it expresses no opinion as to whether the State’s law violates substantive due process principles. Pp. 4—6.
+
+271 F.3d 38, reversed.
+
+ Rehnquist, C. J., delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer, JJ., joined. Scalia, J., filed a concurring opinion. Souter, J., filed a concurring opinion, in which Ginsburg, J., joined. Stevens, J. (see No. 01—729), filed an opinion concurring in the judgment.

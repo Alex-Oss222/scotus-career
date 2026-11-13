@@ -1,0 +1,48 @@
+Source: https://www.law.cornell.edu/supct/html/01-6978.ZC.html
+
+EWING V. CALIFORNIA
+
+ LII
+
+ Supreme Court 
+
+EWING V. CALIFORNIA (01-6978) 
+Affirmed.
+Syllabus
+ Opinion
+ [ O’Connor ]Concurrence
+ [ Scalia ]Concurrence
+ [ Thomas ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+538 U.S. ____ (2003)
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 01—6978
+
+GARY ALBERT EWING, PETITIONER v. CALIFORNIA
+
+ON WRIT OF CERTIORARI TO THE COURT OF APPEAL OF
+CALIFORNIA, SECOND APPELLATE DISTRICT
+
+[March 5, 2003]
+
+ Justice Scalia, concurring in the judgment.
+
+ In my concurring opinion in Harmelin v. Michigan, 501 U.S. 984, 985 (1991), I concluded that the Eighth Amendment’s prohibition of “cruel and unusual punishments” was aimed at excluding only certain modes of punishment, and was not a “guarantee against disproportionate sentences.” Out of respect for the principle of stare decisis, I might nonetheless accept the contrary holding of Solem v. Helm, 463 U.S. 277 (1983)–that the Eighth Amendment contains a narrow proportionality principle–if I felt I could intelligently apply it. This case demonstrates why I cannot.
+
+ Proportionality–the notion that the punishment should fit the crime–is inherently a concept tied to the penological goal of retribution. “[I]t becomes difficult even to speak intelligently of ‘proportionality,’ once deterrence and rehabilitation are given significant weight,” Harmelin, supra, at 989–not to mention giving weight to the purpose of California’s three strikes law: incapacitation. In the present case, the game is up once the plurality has acknowledged that “the Constitution does not mandate adoption of any one penological theory,” and that a “sentence can have a variety of justifications, such as incapacitation, deterrence, retribution, or rehabilitation.” Ante, at 12 (internal quotation marks omitted). That acknowledgment having been made, it no longer suffices merely to assess “the gravity of the offense compared to the harshness of the penalty,” ante, at 15; that classic description of the proportionality principle (alone and in itself quite resistant to policy-free, legal analysis) now becomes merely the “first” step of the inquiry, ibid. Having completed that step (by a discussion which, in all fairness, does not convincingly establish that 25-years-to-life is a “proportionate” punishment for stealing three golf clubs), the plurality must then add an analysis to show that “Ewing’s sentence is justified by the State’s public-safety interest in incapacitating and deterring recidivist felons.” Ante, at 16.
+
+ Which indeed it is–though why that has anything to do with the principle of proportionality is a mystery. Perhaps the plurality should revise its terminology, so that what it reads into the Eighth Amendment is not the unstated proposition that all punishment should be reasonably proportionate to the gravity of the offense, but rather the unstated proposition that all punishment should reasonably pursue the multiple purposes of the criminal law. That formulation would make it clearer than ever, of course, that the plurality is not applying law but evaluating policy.
+
+ Because I agree that petitioner’s sentence does not violate the Eighth Amendment’s prohibition against cruel and unusual punishments, I concur in the judgment.

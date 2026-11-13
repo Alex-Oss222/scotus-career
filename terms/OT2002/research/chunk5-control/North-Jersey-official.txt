@@ -1,0 +1,2471 @@
+Source: https://www2.ca3.uscourts.gov/opinarch/022524.pdf
+
+PRECEDENTIAL□
+□
+       Filed October 8, 2002□
+□
+UNITED STATES COURT OF APPEALS□
+FOR THE THIRD CIRCUIT□
+□
+No. 02-2524□
+□
+NORTH JERSEY MEDIA GROUP, INC.;□
+NEW JERSEY LAW JOURNAL□
+□
+v.□
+□
+JOHN ASHCROFT, Attorney General□
+of the United States; MICHAEL CREPPY, HON.□
+□
+John Ashcroft, Attorney General of the□
+United States and Michael Creppy, Chief□
+Immigration Judge of the United States, Appellants□
+□
+On Appeal From the United States District Court□
+For the District of New Jersey□
+(D.C. Civ. No. 02-cv-00967)□
+District Judge: Honorable John W. Bissell, Chief Judge□
+□
+Argued: September 17, 2002□
+□
+Before: BECKER, Chief Judge, SCIRICA and□
+GREENBERG, Circuit Judges.□
+□
+(Filed: October 8, 2002)□
+□
+□
+□□
+□
+       ROBERT D. McCALLUM, JR.,□
+        ESQUIRE□
+       Assistant Attorney General□
+       CHRISTOPHER J. CHRISTIE,□
+        ESQUIRE□
+       United States Attorney□
+       GREGORY G. KATSAS, ESQUIRE□
+        (ARGUED)□
+       Deputy Assistant Attorney General□
+       SHARON SWINGLE, ESQUIRE□
+       ROBERT M. LOEB, ESQUIRE□
+       Attorneys, Appellate Staff□
+       United States Department of Justice□
+       Civil Division, Appellate Staff□
+       601 D Street, NW□
+       Washington, DC 20530-0001□
+□
+       Counsel for Appellants□
+□
+       STEVEN R. SHAPIRO, ESQUIRE□
+       LUCAS GUTTENTAG, ESQUIRE□
+       LEE GELERNT, ESQUIRE (ARGUED)□
+       American Civil Liberties□
+        Union Foundation□
+
+       Immigrants’ Rights Project□
+       125 Broad Street, 18th Floor□
+       New York, NY 10004□
+□
+       LAWRENCE S. LUSTBERG,□
+        ESQUIRE□
+       SHAVAR D. JEFFRIES, ESQUIRE□
+       Gibbons, Del Deo, Dolan,□
+        Griffinger & Vecchione□
+       One Riverfront Plaza□
+       Newark, NJ 07102-5497□
+□
+       EDWARD BAROCAS, ESQUIRE□
+       American Civil Liberties Union of□
+        New Jersey Foundation□
+       35 Halsey Street, Suite 4B□
+       Newark, NJ 07102□
+□
+                                2□
+□□
+□
+       DAVID COLE, ESQUIRE□
+       Georgetown University Law Center□
+       60 New Jersey Avenue, NW□
+       Washington, DC 20001□
+□
+       NANCY CHANG, ESQUIRE□
+       SHAYANA D. KADIDAL, ESQUIRE□
+       Center for Constitutional Rights□
+       666 Broadway, 7th Floor□
+       New York, NY 10012-2317□
+□
+       Counsel for Appellees□
+□
+       DAVID A. SCHULZ, ESQUIRE□
+       Clifford, Chance, Rogers & Wells□
+       200 Park Avenue□
+       New York, NY 10166□
+□
+       Counsel for Amicus-Appellees□
+□
+OPINION OF THE COURT□
+□
+BECKER, Chief Judge.□
+□
+This civil action was brought in the District Court for the□
+District of New Jersey by a consortium of media groups□
+seeking access to "special interest" deportation hearings□
+involving persons whom the Attorney General has□
+determined might have connections to or knowledge of the□
+September 11, 2001 terrorist attacks. This category was□
+created by a directive issued by Michael Creppy, the Chief□
+United States Immigration Judge, outlining additional□
+security measures to be applied in this class of cases,□
+including closing hearings to the public and the press.□
+Named as defendants in the suit were Attorney General□
+John Ashcroft and Chief Judge Creppy. The District Court□
+found for the media plaintiffs and issued an order enjoining□
+the Attorney General from denying access, from which he□
+now appeals.□
+
+□
+The District Court’s order was accompanied by an□
+opinion which provides the framework for this appeal, at□
+the heart of which lay a number of conclusions. First, the□
+Court held that the case was governed by the test□
+□
+                                3□
+□□
+□
+developed in Richmond Newspapers, Inc. v. Virginia, 448□
+U.S. 555 (1980), a murder case in which the trial judge had□
+ordered that the courtroom be cleared of all persons except□
+witnesses. In striking down the closure order, the Supreme□
+Court noted an "unbroken, uncontradicted history" of□
+public access to criminal trials in Anglo American law□
+running from "before the Norman Conquest" to the present.□
+It emphasized that it had not found "a single instance of a□
+criminal trial conducted in camera in any federal, state, or□
+municipal court during the history of this country." Id. at□
+565-73. The Supreme Court held that the right of the press□
+and public to attend criminal trials "is implicit in the□
+guarantees of the First Amendment." Id. at 580. While the□
+Court acknowledged the State’s argument that the□
+Constitution nowhere explicitly guarantees the public’s□
+right to attend criminal trials, it nonetheless held the right□
+implicit due to the fact that the Framers drafted the□
+Constitution against a backdrop of popular access.□
+□
+In its opinion in this case, the District Court rejected the□
+Government’s argument that administrative hearings in□
+general, and deportation hearings in particular, are not□
+subject to the Richmond Newspapers two-part"experience□
+and logic" test because they are of a fundamentally different□
+nature. Instead, the Court applied that test, which asks□
+first whether a particular proceeding has a history of□
+openness, and then whether openness plays a positive role□
+in that proceeding. With respect to the experience inquiry,□
+the District Court relied especially on a line of Third Circuit□
+cases which has applied Richmond Newspapers to find□
+access to a number of auxiliary criminal proceedings, as□
+well as to civil cases. The Court also relied on two cases in□
+which we applied Richmond Newspapers to determine□
+whether access should be granted to administrative□
+proceedings, although we concluded in each instance that□
+there was no access. In short, the District Court reasoned□
+that these cases supported application of Richmond□
+Newspapers, and, applying Richmond Newspapers, found□
+that there was a sufficient history of open deportation□
+proceedings to satisfy the Richmond Newspapers  experience□
+test.□
+□
+Turning to the logic prong, the District Court held that□
+policy considerations strongly favored media access.□
+□
+                                4□
+□□
+□
+Significantly, however, in evaluating the logic prong, the□
+Court did not consider the policies militating against media□
+access, including those identified in a declaration filed by□
+
+Dale Watson, Counterterrorism Chief of the Federal Bureau□
+of Investigation, which explained the danger of security□
+breaches entailed in opening the hearings. In brief, the□
+Watson Declaration represents that insight gleaned from□
+open proceedings might alert vigilant terrorists to the□
+United States’ investigative tactics and could easily betray□
+what knowledge the government does -- or does not--□
+possess. Watson submits that even details that seem□
+innocuous in isolation, such as the names of those□
+detained, might be pieced together by knowledgeable□
+persons within the terrorist network, who could in turn□
+shift activities to a yet-undiscovered terrorist cell. Because□
+immigration judges cannot be expected accurately to assess□
+the harm that might result from disclosing seemingly trivial□
+facts, Watson explains, seeking closure on a case-by-case□
+basis would ineffectively protect the nation’s interests.□
+□
+Although existing caselaw on the logic prong has□
+discussed only the policies favoring openness, we are□
+satisfied that the logic prong must consider the flip side of□
+the coin. Indeed, the Supreme Court seems to have□
+contemplated this, for in formulating the Richmond□
+Newspapers test it asked "whether public access plays a□
+significant positive role in the functioning of the particular□
+process in question." Press-Enterprise Co. v. Superior Court,□
+478 U.S. 1, 8 (1986) (emphasis added). Any inquiry into□
+whether a role is positive must perforce consider whether it□
+is potentially harmful. The District Court, however, failed to□
+consider the Watson Declaration under its logic inquiry,□
+examining it only in conjunction with the Newspapers’□
+argument that the Creppy Directive failed strict scrutiny, a□
+position that it endorsed.□
+□
+While we believe that the notion that Richmond□
+Newspapers applies is open to debate as a theoretical□
+matter, we must yield to the prior precedent of this Court,□
+and hence will apply it to the facts. We note, however, that□
+we are not bound by dicta in those decisions, including the□
+most far reaching, Whiteland Woods, L.P. v. Township of□
+West Whiteland, 193 F.3d 177 (3d Cir. 1999), which we□
+discuss at length infra.□
+□
+                                5□
+□□
+□
+The only Circuit to deal with these issues has resolved□
+them in favor of the media. See Detroit Free Press v.□
+Ashcroft, 2002 U.S. App. LEXIS 17646 (6th Cir. 2002).□
+However, we find ourselves in disagreement with the Sixth□
+Circuit. In our view the tradition of openness of deportation□
+proceedings does not meet the standard required by□
+Richmond Newspapers, or even its Third Circuit progeny.□
+Deportation procedures have been codified for□
+approximately 100 years but, despite their constant□
+reenactment during that time, Congress has never explicitly□
+guaranteed public access. Indeed, deportation cases□
+involving abused alien children are mandatorily closed by□
+statute, and hearings are often conducted in places□
+generally inaccessible to the public. While INS regulations□
+promulgated in 1964 create a rebuttable presumption of□
+
+openness for most deportation cases, we conclude that a□
+recently-created regulatory presumption of openness with□
+significant statutory exceptions does not present the type of□
+"unbroken, uncontradicted history" that Richmond□
+Newspapers and its progeny require to establish a First□
+Amendment right of access.□
+□
+The most difficult case for the government is FMC v.□
+South Carolina State Ports Authority, 122 S. Ct. 1864□
+(2002). In holding that state sovereign immunity bars an□
+administrative agency from adjudicating a private party’s□
+complaint against a nonconsenting state, the Supreme□
+Court recognized that "formalized administrative□
+adjudications were all but unheard of " during the Framers’□
+time. Id. at 1872. It nevertheless found that because□
+Federal Maritime Commission adjudications so strongly□
+resemble civil suits, they "are the type of proceedings from□
+which the Framers would have thought the States□
+possessed immunity when they agreed to enter the Union,"□
+id., and it concluded that state sovereign immunity applies.□
+□
+We recognize that, at least since the 1960s, formalized□
+deportation proceedings have borne an undeniable□
+procedural resemblance to civil trials, and that, read□
+broadly, Ports Authority’s language might therefore suggest□
+that the same First Amendment rights exist in each□
+context. While we find the issue debatable, as we explain□
+more extensively infra, we believe that Ports Authority’s□
+□
+                                6□
+□□
+□
+approach was inextricably tied to its underlying premise□
+that sovereign immunity shields nonconsenting states from□
+complaints brought by private persons, regardless of where□
+private persons bring those complaints. In contrast, we find□
+that there has never been a fundamental right of access to□
+all government proceedings. Even today, many are closed□
+by statute, including such frequent and important matters□
+as Social Security hearings. Without a fundamental right of□
+access comparable to nonconsenting states’ right to□
+freedom from private claims, we decline to loose Ports□
+Authority from its Eleventh Amendment moorings.□
+□
+We also disagree with the Sixth Circuit as to the import□
+of the Richmond Newspapers logic prong. We note□
+preliminarily that, in the jurisprudence developed thus far,□
+the logic prong does not appear to do much work in the□
+Richmond Newspapers approach, for we have not found a□
+case in which a proceeding passed the experience test□
+through its history of openness yet failed the logic test by□
+not serving community values. Under the reported cases,□
+the second prong of the Richmond Newspapers test has□
+been applied to inquire whether openness plays a positive□
+policy role in a given proceeding. But, as we have explained,□
+that calculus perforce must take account of the flip side --□
+the extent to which openness impairs the public good.□
+□
+This case arises in the wake of September 11, 2001, a□
+day on which American life changed drastically and□
+
+dramatically. The era that dawned on September 11th, and□
+the war against terrorism that has pervaded the sinews of□
+our national life since that day, are reflected in thousands□
+of ways in legislative and national policy, the habits of daily□
+living, and our collective psyches. Since the primary□
+national policy must be self-preservation, it seems□
+elementary that, to the extent open deportation hearings□
+might impair national security, that security is implicated□
+in the logic test. When it is factored in, given due□
+consideration to the attorney general’s statements of the□
+threat, we do not believe that the Richmond Newspapers□
+logic prong test favors the media either.□
+□
+As we will now explain in detail, we find that the□
+application of the Richmond Newspapers experience and□
+logic tests does not compel us to declare the Creppy□
+□
+                                7□
+□□
+□
+Directive unconstitutional. We will therefore reverse the□
+Order of the District Court.□
+□
+I. BACKGROUND□
+□
+A. The Creppy Directive□
+□
+Shortly after the attacks of September 11, 2001, the□
+President ordered a worldwide investigation into those□
+atrocities and related terrorist threats to the United States.□
+Over the course of this ongoing investigation, the□
+government has become aware of numerous aliens who are□
+subject to removal from the United States for violating□
+immigration laws. The Immigration and Naturalization□
+Service has detained and initiated removal proceedings□
+against many of these individuals.□
+□
+The Department of Justice, which oversees the INS, has□
+identified some aliens whose situations are particularly□
+sensitive and designated their hearings "special interest"□
+cases. According to Dale L. Watson, the FBI’s Executive□
+Assistant Director for Counterterrorism and□
+Counterintelligence, the designated aliens "might have□
+connections with, or possess information pertaining to,□
+terrorist activities against the United States." (Watson Dec.)□
+For example, special interest cases include aliens who had□
+close associations with the September 11 hijackers or who□
+themselves have associated with al Qaeda or related□
+terrorist groups.□
+□
+The Department of Justice has reviewed these□
+designations periodically and removed them in many cases□
+that it determined were less sensitive than previously□
+believed. For those cases that retain the "special interest"□
+designation, however, Chief Immigration Judge Creppy□
+issued a memorandum (the "Creppy Directive")□
+implementing heightened security measures.1 The Directive□
+_________________________________________________________________□
+□
+1. The Immigration and Nationality Act charges the Attorney General□
+
+with the "administration and enforcement" of"all [ ] laws relating to the□
+immigration and naturalization of aliens." 8 U.S.C. S 1103(a) (1994). The□
+Act authorizes the Attorney General to remove aliens from the United□
+States for various reasons, including violation of the immigration laws.□
+□
+                                8□
+□□
+□
+requires immigration judges "to close the hearing[s] to the□
+public, and to avoid discussing the case[s] or otherwise□
+disclosing any information about the case[s] to anyone□
+outside the Immigration Court." It further instructs that□
+"[t]he courtroom must be closed for these cases -- no□
+visitors, no family, and no press," and explains that the□
+restriction even "includes confirming or denying whether□
+such a case is on the docket or scheduled for a hearing." In□
+short, the Directive contemplates a complete information□
+blackout along both substantive and procedural□
+dimensions.□
+□
+In closing special interest deportation hearings, the□
+Government’s stated purpose is to avoid disclosing□
+potentially sensitive information to those who may pose an□
+ongoing security threat to the United States and its□
+interests. The Government represents that "if evidence is□
+offered about a particular phone number link between a□
+detainee and a number connected to a terrorist□
+organization or member," the terrorists "will be on notice□
+that the United States is now aware of the link" and "may□
+even be able to determine what sources and methods the□
+United States used to become aware of that link." (Watson□
+Declaration.) Equally important, however, is "information□
+that might appear innocuous in isolation [but that] can be□
+fit into a bigger picture by terrorist groups in order to□
+thwart the Government’s efforts to investigate and prevent□
+terrorism." (Id.) For example, information about how and□
+_________________________________________________________________□
+□
+Id. at S 1231. It also permits him to prescribe "such regulations . . . as□
+he deems necessary for carrying out his authority," id. at S 1103(a)(3),□
+and provides for removal proceedings to be conducted by immigration□
+judges within the Executive Branch "under regulations prescribed by the□
+Attorney General." Id.□
+□
+Pursuant to this authority, the Attorney General in 1964 promulgated□
+a regulation governing public access to removal and other administrative□
+hearings that has remained substantially unchanged. It mandates the□
+closure of certain hearings, such as those involving abused alien□
+children, and permits the closure of all other hearings to protect□
+"witnesses, parties, or the public interest." 8 C.F.R. 3.27 (2002) (modern□
+codification). The Creppy Directive was issued pursuant to this□
+regulation.□
+□
+                                9□
+□□
+□
+why special interest aliens were detained "would allow the□
+terrorist organizations to discern patterns and methods of□
+investigation"; information about how such aliens entered□
+the country "would allow the terrorist organization to see□
+
+patterns of entry, what works and what doesn’t"; and□
+information "about what evidence the United States has□
+against members of a particular cell collectively" would□
+reveal to the terrorist organization which of its cells have□
+been significantly compromised. (Id.)□
+□
+The Government offers a litany of harms that might flow□
+from open hearings. Most obviously, terrorist organizations□
+could alter future attack plans, or devise new, easier ways□
+to enter the country through channels they learn are□
+relatively unguarded by the Department of Justice. They□
+might also obstruct or disrupt pending proceedings by□
+destroying evidence, threatening potential witnesses, or□
+targeting the hearings themselves. Finally, if the□
+government cannot guarantee a closed hearing, aliens□
+might be deterred from cooperating with the ongoing□
+investigation. See infra.□
+□
+B. Present Litigation□
+□
+From November 2001 to February 2002, reporters for the□
+New Jersey Law Journal and Herald News ("the□
+Newspapers") were repeatedly denied docket information for□
+and access to deportation proceedings in Newark’s□
+Immigration Court. On March 6, 2002, the Newspapers□
+filed a federal court challenge to the Creppy Directive,□
+asserting that its mandated policy of closing every"special□
+interest" case precluded the case-by-case treatment the□
+First Amendment requires. They argued not only that□
+individualized inquiries are proper and practical, but also□
+that because the Directive permits special interest□
+detainees themselves to disseminate information concerning□
+their proceedings, its veil of secrecy is ineffective at best.2□
+_________________________________________________________________□
+□
+2. Although the Creppy Directive did not itself prohibit aliens and their□
+counsel from themselves disclosing information about special interest□
+hearings, a recently promulgated regulation authorizes immigration□
+judges to issue protective orders and seal records as necessary to protect□
+sensitive "law enforcement or national security information." See 67 Fed.□
+Reg. 36799, 36799 (May 28, 2002). As this regulation took effect on the□
+day the District Court rendered its decision, it played no role in that□
+opinion.□
+□
+                                10□
+□□
+□
+The District Court applied the two-part First Amendment□
+analysis set forth in Richmond Newspapers, Inc. v. Virginia,□
+448 U.S. at 555, and found that since the promulgation of□
+the modern immigration regulations, see 8 C.F.R.□
+S 242.16(a) (1964), there has been a "presumption of□
+openness for deportation proceedings," or at a minimum,□
+there has been "no tradition of their presumptive closure."□
+North Jersey Media Group, Inc. v. Ashcroft, 205 F.Supp. 2d□
+288, 300 (May 28, 2002). It held that this history of□
+presumed openness, coupled with the "abundant□
+similarities" between deportation proceedings and judicial□
+proceedings in the criminal and civil contexts, supported□
+the existence of a First Amendment right of access. Id. at□
+
+301. It further held that because the Creppy Directive’s□
+closures were categorical rather than narrowly-tailored, it□
+failed strict scrutiny. The District Court accordingly granted□
+the Newspapers’ motion and temporarily enjoined the□
+Directive’s operation, although it left open the possibility of□
+seeking closure in individual cases.□
+□
+In a subsequent order, the District Court denied the□
+Government’s motion for a stay pending appeal, and it□
+clarified that its injunction has nationwide scope, applies to□
+all proceedings regardless of whether plaintiffs seek to□
+attend, and requires proceedings to be open to all members□
+of the press and public. (Proceeding of June 5, 2002.) On□
+June 17, 2002, this Court granted expedited review of the□
+Government’s appeal but denied a stay. A week later,□
+however, the Supreme Court granted a stay of the District□
+Court’s injunction pending the final disposition of this□
+appeal. We note jurisdiction pursuant to 28 U.S.C.S 1331□
+and 28 U.S.C. S 1292(a)(1), and exercise plenary review over□
+the District Court’s legal conclusion that the First□
+Amendment guarantees a right of access to deportation□
+proceedings. See Rose Art Indus., Inc. v. Swanson, 235 F.3d□
+165 (3d Cir. 2000).□
+□
+II. APPLICABILITY OF RICHMOND NEWSPAPERS□
+□
+In finding a First Amendment right of access to□
+deportation hearings, the District Court employed the two-□
+part test set forth in Richmond Newspapers and its□
+progeny. The Government contends that the Richmond□
+□
+                                11□
+□□
+□
+Newspapers test, developed as it was for criminal trials,□
+has no proper application outside the judicial realm. It□
+argues in the alternative that even if Richmond Newspapers□
+provides the appropriate analytical framework, deportation□
+proceedings cannot run its "experience and logic" gauntlet.□
+□
+While we agree with the District Court’s conclusion that□
+Richmond Newspapers analysis is proper in the□
+administrative context, we disagree with its application and□
+hold that under that test, there is no First Amendment□
+right to attend deportation proceedings.□
+□
+A. Applicability to Article III Proceedings □
+□
+In Richmond Newspapers, 448 U.S. at 555, the Supreme□
+Court held that the press and public possess a First□
+Amendment right to attend criminal trials. In that seminal□
+case, the police arrested a man and tried him for murder.□
+During his fourth trial (the first had been reversed on□
+appeal, and the second and third were declared mistrials),□
+the defendant’s counsel moved that it be closed to the□
+public so as to avoid yet another instance of jury□
+contamination. The prosecutor had no objection, so the□
+judge ordered "that the Courtroom be kept clear of all□
+parties except the witnesses when they testify." Id. at 560.□
+Two newspaper reporters sought to vacate the closure order□
+
+on First Amendment grounds, arguing that the court had□
+made no evidentiary findings prior to issuing its order and□
+also had failed to consider other, less drastic measures□
+within its power to ensure a fair trial.□
+□
+The Supreme Court held that as "[t]he Bill of Rights was□
+enacted against the backdrop of the long history of trials□
+being presumptively open," id. at 575, the right of the press□
+and public to attend criminal trials "is implicit in the□
+guarantees of the First Amendment." Id. at 580. It therefore□
+struck down the closure order. Critical to the Court’s□
+holding was evidence of an "unbroken, uncontradicted□
+history" of public access to criminal trials in Anglo□
+American law running from "before the Norman Conquest"□
+to the present, and it emphasized that it had not found "a□
+single instance of a criminal trial conducted in camera in□
+any federal, state, or municipal court during the history of□
+this country." Id. at 565-73.□
+□
+                                12□
+□□
+□
+The Court also explained that this tradition of openness□
+was no "quirk of history"; rather, it had long been□
+recognized as an indispensable attribute of the trial□
+process. Id. at 569. The open trial "gave assurance that the□
+proceedings were conducted fairly to all concerned, and it□
+discouraged perjury, the misconduct of participants, and□
+decisions based on secret bias or partiality." Id. Equally□
+important was its prophylactic effect, which discouraged□
+vigilantism by "providing an outlet for community concern,□
+hostility, and emotion." Id. at 571.□
+□
+The Richmond Newspapers First Amendment right of□
+access to criminal trials, therefore, stemmed from an□
+"uncontradicted history, supported by reasons as valid□
+today as in centuries past." Id. at 573. In his pragmatic□
+concurrence, Justice Brennan concluded that:□
+□
+       [T]wo helpful principles may be sketched. First, the□
+       case for a right of access has special force when drawn□
+       from an enduring and vital tradition of public entree to□
+       particular proceedings or information. Such a tradition□
+       commands respect in part because the Constitution□
+       carries the gloss of history. More importantly, a□
+       tradition of accessibility implies the favorable judgment□
+       of experience. Second, the value of access must be□
+       measured in specifics. Analysis is not advanced by□
+       rhetorical statements that all information bears upon□
+       public issues; what is crucial in individual cases is□
+       whether access to a particular government process is□
+       important in terms of that very process.□
+□
+Id. at 589.□
+□
+Despite Justice O’Connor’s admonition that Richmond□
+Newspapers does not have "any implications outside the□
+context of criminal trials," Globe Newspaper Co. v. Superior□
+Court, 457 U.S. 596, 611 (1982), a majority of the Court□
+has since adopted Justice Brennan’s language as a test of□
+
+at least somewhat broader application. In Press-Enterprise□
+Co. v. Superior Court, 478 U.S. at 1 (Press-Enterprise II), the□
+Court held that there is a First Amendment right of access□
+to preliminary hearings. Id. at 13. In so doing, it formalized□
+what has come to be known as the Richmond Newspapers□
+"experience and logic" test:□
+□
+                                13□
+□□
+□
+       First, because a tradition of accessibility implies the□
+       favorable judgment of experience, we have considered□
+       whether the place and process have historically been□
+       open to the press and general public. . . . Second, in□
+       this setting the Court has traditionally considered□
+       whether public access plays a significant positive role□
+       in the functioning of the particular process in question.□
+□
+Id. at 8 (citations omitted). The Court recognized that□
+"[t]hese considerations of experience and logic are, of□
+course, related, for history and experience shape the□
+functioning of governmental processes." Id.  at 9.□
+Nevertheless, it made clear that relation is not tantamount□
+to equivalence, and it independently applied both prongs of□
+the test to preliminary proceedings.□
+□
+The Court first noted that, like criminal trials, pretrial□
+proceedings had long been "conducted before neutral and□
+detached magistrates [and had] been open to the public."□
+Id. at 10. Indeed, during Aaron Burr’s trial for treason in□
+1807, Chief Justice Marshall conducted a probable-cause□
+hearing in the Hall of the House of Delegates in Virginia,□
+the courtroom being too small to accommodate the throng□
+of interested citizens. Id. Although several states had□
+allowed preliminary hearings to be closed on the motion of□
+the accused, even in these states they had been□
+presumptively open and were closed only for cause shown.□
+See id. at n.3. The Court therefore concluded that open□
+preliminary hearings had been accorded the favorable□
+judgment of experience. Id. at 11 (citation omitted). It then□
+asked whether public access played a "particularly□
+significant positive role" in pretrial proceedings, and found□
+in the affirmative. "Because of its extensive scope, the□
+preliminary hearing is often the final and most important□
+step in the criminal proceeding." Id. at 12. In fact, in many□
+cases the preliminary hearing provides "the sole occasion□
+for public observation of the criminal justice system," and□
+the absence of a jury "makes the importance of public□
+access . . . even more significant." Id. at 12-13. Because□
+preliminary hearings passed both parts of the Richmond□
+Newspapers test, the Court found that the public has a□
+First Amendment right of access in that context. It had□
+reached the same conclusion regarding voir dire □
+□
+                                14□
+□□
+□
+examinations in Press-Enterprise Co. v. Superior Court, 464□
+U.S. 501 (1984) (Press-Enterprise I).□
+□
+
+Given that a majority of the Supreme Court has applied□
+the Richmond Newspapers framework to pretrial□
+proceedings and voir dire examinations, that approach□
+clearly is not confined to the criminal trial itself, although□
+each of the Supreme Court’s applications has arisen in the□
+criminal context. This Court has been less reticent in its□
+extensions. First, in Publicker Industries, Inc. v. Cohen, 733□
+F.2d 1059 (3d Cir. 1984), we applied Richmond Newspapers□
+and held that the First Amendment implicitly incorporates□
+a right of access to civil trials. Our conclusion rested on the□
+finding that "the public’s right of access to civil trials and□
+records is as well established as that of criminal□
+proceedings and records," id. at 1066, and we noted that□
+"[a]s early as 1685, Sir John Hawles commented that open□
+proceedings were necessary so that truth may be□
+discovered in civil as well as criminal matters." Id. at 1067□
+(citation omitted). We then found that, under the logic□
+prong, openness has similar salutary effects in civil and□
+criminal trials, and concluded that the same First□
+Amendment right of access extends to each.3 Id. at 1070.□
+□
+B. Applicability of Richmond Newspapers to□
+       Administrative Proceedings□
+□
+The Government contends that while Richmond□
+Newspapers properly applies to civil and criminal□
+proceedings under Article III, the Constitution’s text□
+militates against extending First Amendment rights to non-□
+Article III proceedings such as deportation. Its premise is□
+one of expressio unius est exclusio alterius:  Article III is□
+silent on the question of public access to judicial trials, but□
+_________________________________________________________________□
+□
+3. Although the Supreme Court has not addressed the right to attend□
+civil trials, each Court of Appeals to examine this question has□
+concluded that Richmond Newspapers applies and that a First□
+Amendment right exists. See, e.g., Westmoreland v. CBS, 752 F.2d 16,□
+23 (2d Cir. 1984); Rushford v. New Yorker Magazine, 846 F.2d 249 (4th□
+Cir. 1988); Brown & Williamson Tobacco Co. v. Federal Trade□
+Commission, 710 F.2d 1165 (6th Cir. 1983); In re Continental Illinois□
+Securities Litigation, 732 F.2d 1302 (7th Cir. 1984); Newman v. Graddick,□
+696 F.2d 796 (11th Cir. 1983).□
+□
+                                15□
+□□
+□
+the Sixth Amendment expressly incorporates the common□
+law tradition of public trials, thus supporting the notion□
+that the First Amendment likewise incorporates that□
+tradition for Article III purposes. (Gov’t Brief at 21-22.)□
+Articles I and II, conversely, do address the question of□
+access, and they do not provide for Executive or Legislative□
+proceedings to be open to the public.4  To the Government,□
+the absence of an explicit guarantee of access for Article I□
+and II proceedings (as exists in Article III) gives rise to a□
+distinction with a difference because, without an□
+incorporating provision parallel to the Sixth Amendment,□
+the Framers must have intended to deny the public access□
+to political proceedings.□
+□
+
+The Government’s suggestion is ultimately that we□
+should not apply Richmond Newspapers where the□
+Constitution’s structure dictates that no First Amendment□
+right applies, and should instead let the political branches□
+(here, the Executive, acting through the Justice□
+Department) determine the proper degree of access to□
+administrative proceedings. See Capital Cities Media, Inc. v.□
+Chester, 797 F.2d 1164, 1168 (3d Cir. 1986) (in banc)□
+(concluding that aside from limited requirements, the□
+Constitution leaves to the democratic process the regulation□
+of public access to the political branches).□
+□
+Our own jurisprudence precludes this approach. In□
+Publicker, for example, we found a First Amendment right□
+to attend civil trials, proceedings to which the Sixth□
+Amendment is entirely inapplicable. If an express provision□
+were necessary to incorporate into the Bill of Rights the□
+common law tradition of access to trials, Publicker would□
+have come out the other way, a result the Government does□
+not urge. Moreover, the Richmond Newspapers Court itself□
+apparently did not view the Sixth Amendment as a critical□
+_________________________________________________________________□
+□
+4. The only constitutionalized access requirement vis-a-vis the Executive□
+is that the President "from time to time give to the Congress Information□
+of the State of the Union." (U.S. Const. Art. II,S 3.) The Constitution also□
+requires Congress to publish a "regular Statement and Account of the□
+Receipts and Expenditures of all public Money," (U.S. Const. art. I, S 9,□
+cl. 7), and instructs each House of Congress to publish a journal of□
+proceedings from which it may withhold "such Parts as it may in [its]□
+Judgment require Secrecy." (U.S. Const. art. I,S 5, cl. 3).□
+□
+                                16□
+□□
+□
+incorporating provision. That case’s incorporation language□
+states only that "[t]he Bill of Rights was enacted against the□
+backdrop of the long history of trials being presumptively□
+open." Richmond Newspapers, 448 U.S. at 575. There is no□
+suggestion that the Sixth Amendment is crucial to the right□
+of access; indeed, this passage merely states that the□
+Framers assumed a common and established practice.□
+□
+At all events, after Publicker, the Sixth Amendment□
+cannot be the sole source of a First Amendment right of□
+access, and our precedents likewise foreclose the□
+Government’s attempt to confine the Richmond Newspapers□
+approach to the Article III context. In Capital Cities Media,□
+797 F.2d at 1164, we held that there was no First□
+Amendment right of public access to the records of a state□
+environmental agency, an administrative body. Although□
+the Government makes much of our "no-access"□
+conclusion, more important is our methodology, for we□
+found no First Amendment right only after applying the□
+Richmond Newspapers test. Reviewing the Supreme Court’s□
+relevant holdings, we summarized that "[t]he government□
+may not close government proceedings which historically□
+have been open unless public access contributes nothing of□
+significant value to that process or there is a compelling□
+state interest in closure and a carefully tailored resolution□
+
+of the conflict between that interest and First Amendment□
+concerns." Id. at 1173.□
+□
+Similarly, in First Amendment Coalition v. Judicial Inquiry□
+& Review Board, 784 F.2d 467 (3d Cir. 1986), we examined□
+a Pennsylvania law permitting access to records of the□
+Judicial Inquiry and Review Board only if that Board□
+recommended disciplinary measures against a judge in a□
+particular case. Plaintiff, a free speech advocacy group,□
+sought access to records of cases in which the Board did□
+not recommend a punishment. We again applied Richmond□
+Newspapers, though we found that "[t]hese administrative□
+proceedings, unlike conventional criminal and civil trials,□
+do not have a long history of openness," id.  at 472, and□
+therefore upheld the state law against plaintiff ’s First□
+Amendment right-of-access claim.5 Most recently, in□
+_________________________________________________________________□
+□
+5. The Government submits that First Amendment Coalition actually□
+stands for the opposite proposition: that we should not apply Richmond□
+□
+                                17□
+□□
+□
+Whiteland Woods, 193 F.3d at 177, we applied the□
+Richmond Newspapers analysis to determine whether a□
+citizen had a First Amendment right to videotape a□
+Township Planning Commission meeting. As in Capital□
+Cities Media and First Amendment Coalition , we denied the□
+right but only after going through the two-step analysis.□
+These precedents demonstrate that in this Court, Richmond□
+Newspapers is a test broadly applicable to issues of access□
+to government proceedings, including removal. In this one□
+respect we note our agreement with the Sixth Circuit’s□
+conclusion in their nearly identical case. See Detroit Free□
+Press v. Ashcroft, 2002 U.S. App. LEXIS 17646 (6th Cir.□
+2002). We now employ that test to determine whether the□
+press and public have a First Amendment right to attend□
+deportation hearings.□
+□
+III. UNDER RICHMOND NEWSPAPERS, IS THERE A□
+FIRST AMENDMENT RIGHT TO ATTEND DEPORTATION□
+HEARINGS?□
+□
+Richmond Newspapers requires that when a court□
+assesses a claimed First Amendment right of access, it□
+must "consider[ ] whether the place and process have□
+historically been open to the press and general public . . .□
+[and] whether public access plays a significant positive role□
+in the functioning of the particular process in question."□
+_________________________________________________________________□
+□
+Newspapers to any administrative proceeding. It asserts that when we□
+said "[t]hese administrative proceedings . . . do not have a long history□
+of openness," our emphasis was on "proceedings." Such an emphasis□
+would distinguish administrative proceedings from civil and criminal□
+trials, and would imply that no administrative proceeding could make□
+the historical showing necessary under Richmond Newspapers. But this□
+interpretation is both incorrect and misplaced. It is incorrect because the□
+prior sentence referred to the "fundamentally different procedures of□
+
+judicial disciplinary boards," id., so that when we said that "[t]hese□
+administrative proceedings" lacked history, we clearly referred only to□
+proceedings before judicial disciplinary boards and not to administrative□
+proceedings generally. It is misplaced because even if the Government□
+were correct that administrative proceedings generally lack history, that□
+argument properly addresses the "experience" prong of the Richmond□
+Newspapers test itself. Our immediate concern is the antecedent issue of□
+whether to apply that test.□
+□
+                                18□
+□□
+□
+Press-Enterprise II, 478 U.S. at 8. This language seems to□
+place the burden of proof on the party alleging a First□
+Amendment right. While we acknowledge a current□
+presumption of openness in most deportation proceedings,□
+we find that this presumption has neither the pedigree nor□
+uniformity necessary to satisfy Richmond Newspapers’s first□
+prong. We also conclude that under a logic inquiry properly□
+acknowledging both community benefits and potential□
+harms, public access does not serve a "significant positive□
+role" in deportation hearings.□
+□
+A. The "Experience" Test□
+□
+1. Is there an historical right of access to□
+government proceedings generally?□
+□
+In Richmond Newspapers, 448 U.S. at 575, the Supreme□
+Court acknowledged the State’s argument that the□
+Constitution nowhere explicitly guarantees the public’s□
+right to attend criminal trials, but it found that right□
+implicit because the Framers drafted the Constitution□
+against a backdrop of longstanding popular access to□
+criminal trials. Likewise, in Publicker, 733 F.2d at 1059, we□
+found a First Amendment right of access to civil trials□
+because at common law, such access had been "beyond□
+dispute."□
+□
+The history of access to political branch proceedings is□
+quite different. The Government correctly notes that the□
+Framers themselves rejected any unqualified right of access□
+to the political branches for, as we explained in Capital□
+Cities Media, 797 F.2d at 1168-1171, the evidence on this□
+point is extensive and compelling. We need not rescribe it□
+here, but a few snippets are instructive. At the Virginia□
+ratification convention, Patrick Henry was a leading□
+opponent of government secrecy. He said of the publication□
+clause: "[Congress] may carry on the most wicked and□
+pernicious of schemes under the dark veil of secrecy. The□
+liberties of a people never were, nor ever will be, secure,□
+when the transactions of their rulers may be concealed□
+from them." 3 Elliot’s Debates at 169-70 (J. Elliot ed. 1881).□
+Nevertheless, even Henry conceded that not all government□
+activities should be publicized, particularly those related to□
+"military operations or affairs of great consequence." Id. at□
+□
+                                19□
+□□
+□
+
+170. Thomas Jefferson agreed, noting that "[a]ll nations□
+have found it necessary, that for the advantageous conduct□
+of their affairs, some [executive] proceedings, at least,□
+should remain known to their executive functionary only."□
+Randall, 3 Life of Thomas Jefferson 211 (1858), reprinted in□
+Wiggins, Freedom or Secrecy 67-68 (1964).□
+□
+Congressional practice confirms that there is no general□
+right of public access to governmental proceedings or□
+information. The members of the First Congress did not□
+open their own proceedings to the public -- the Senate met□
+behind closed doors until 1794, and the House did likewise□
+until after the War of 1812.6See Watkins, Open Meetings□
+under the Arkansas Freedom of Information Act, 38 Ark. L.□
+Rev. 268, 271 & n.96. While both Houses thereafter opened□
+floor deliberations, committee sessions remained closed and□
+were not routinely opened to the public until the mid-□
+1970s. Id. at 272. Even today, the Senate operates under a□
+resolution limiting public access to "routine Senate records"□
+for 20 years after their creation and to "sensitive records,□
+such as investigative files" for 50 years after their creation,□
+and each Senate committee retains the right to extend that□
+access period for its own records. S. Rep. 474, 96th Cong.□
+2nd Sess., 126 Cong. Rec. S15209-10 (daily ed., Dec. 1,□
+1980). See generally Capital Cities Media, 797 F.2d at□
+1170-71.□
+□
+This tradition of closing sensitive proceedings extends to□
+many hearings before administrative agencies. For example,□
+although hearings on Social Security disability claims□
+profoundly affect hundreds of thousands of people□
+annually, and have great impact on expenditure of□
+government funds, they are open only to "the parties and to□
+other persons the administrative law judge considers□
+necessary and proper." 20 C.F.R. 404.944. Likewise,□
+administrative disbarment hearings are often presumptively□
+closed. See, e.g., 12 C.F.R. 19.199 (Office of Comptroller of□
+Currency); 12 C.F.R. 263.97 (Federal Reserve Board of□
+Governors). The Government lists more than a dozen other□
+_________________________________________________________________□
+□
+6. Indeed, it is interesting to note that our democracy was created behind□
+closed doors, as the delegates at the Constitutional Convention in□
+Philadelphia in 1787 excluded the public from their proceedings.□
+□
+                                20□
+□□
+□
+examples of mandatorily or presumptively closed□
+administrative proceedings. For instance, hearings on□
+charges of wrongdoing may often be closed at the□
+administrator’s discretion for "good cause," to protect the□
+"public interest," or under similar standards. See, e.g., 5□
+C.F.R. 185.132(d) (Office of Personnel Management); 10□
+C.F.R. 13.30(d) (Nuclear Regulatory Commission); 13 C.F.R.□
+142.21(d) (Small Business Administration); 28 C.F.R.□
+68.39(a) (Department of Justice); 31 C.F.R. 500.713(a)□
+(Office of Foreign Asset Control); 38 C.F.R. 42.30(d) (Office□
+of Veterans Affairs). Hearings on adverse passport decisions□
+by the Department of State "shall be private." 22 C.F.R.□
+
+51.87. See also 5 C.F.R. 2638.505(e)(2) (hearings on ethics□
+charges against government employees may be closed"in□
+the best interests of national security, the respondent□
+employee, a witness, the public or other affected persons");□
+10 C.F.R. 1003.62(a) (hearings before Department of Energy□
+Office of Hearings and Appeals may be closed at discretion□
+of administrator).□
+□
+Faced with this litany of administrative hearings that are□
+closed to the public, the Newspapers cannot claim a general□
+First Amendment right of access to government proceedings□
+without urging a judicially-imposed revolution in the□
+administrative state. They wisely avoid that tactic, at least□
+directly.7 Instead they submit that, despite frequent□
+closures throughout the administrative realm, deportation□
+proceedings in particular boast a history of openness□
+sufficient to meet the Richmond Newspapers requirement.□
+We now assess that claim, and find that we disagree.□
+□
+_________________________________________________________________□
+□
+7. Although the Newspapers do not argue directly for a general right of□
+access to government proceedings, they maintain that FMC v. South□
+Carolina Ports Authority, 122 S.Ct. 1864 (2002), compels us to recognize□
+the procedural similarities between civil trials and deportation hearings□
+and extend the same access rights to each. We find that this contention□
+turns, at least in part, on whether there is a fundamental right of access□
+to government proceedings comparable to nonconsenting states’□
+fundamental right to freedom from private suit. It is because we find no□
+such comparable right that FMC does not bind us here. See discussion□
+infra.□
+□
+                                21□
+□□
+□
+2. Is the history of open deportation proceedings□
+sufficient to satisfy the Richmond Newspapers □
+"experience" prong?□
+□
+For a First Amendment right of access to vest under□
+Richmond Newspapers, we must consider whether"the□
+place and process have historically been open to the press□
+and general public," because such a "tradition of□
+accessibility implies the favorable judgment of experience."□
+Press-Enterprise II, 478 U.S. at 8. Noting preliminarily that□
+the question whether a proceeding has been "historically□
+open" is only arguably an objective inquiry, we nonetheless□
+find that based on both Supreme Court and Third Circuit□
+precedents, the tradition of open deportation hearings is too□
+recent and inconsistent to support a First Amendment right□
+of access.□
+□
+The strongest historical evidence of open deportation□
+proceedings is that since the 1890s, when Congress first□
+codified deportation procedures, "[t]he governing statutes□
+have always expressly closed exclusion hearings, but have□
+never closed deportation hearings."8 (Newspapers’ Br. at 30-□
+31.) In 1893, the Executive promulgated the first set of□
+immigration regulations, which expressly stated that□
+exclusion proceedings shall be conducted "separate from□
+
+the public." See Treasury Dept., Immigration Laws and□
+Regulations 4 (Washington D.C., Gov’t Printing Office 1893).□
+Congress codified those regulations in 1903 and, since that□
+_________________________________________________________________□
+□
+8. Although both exclusion and deportation hearings are now formally□
+styled "removal" hearings, see Chi Thon Ngo v. INS, 192 F.3d 390, 394□
+& n.4 (3d Cir. 1999), significant differences exist between the two.□
+Exclusion proceedings occur when an applicant seeks entry into the□
+United States, whereas in deportation proceedings, the United States□
+seeks to expel a person who has already gained such entry. The□
+Supreme Court has consistently held that persons facing deportation□
+possess far greater legal rights than those contesting exclusion. See□
+Shaughnessy v. United States ex rel. Mezei, 345 U.S. 206, 212 (1953)□
+("[While] it is true that aliens who have once passed through our gates,□
+even illegally, may be expelled only after proceedings conforming to□
+traditional standards of fairness encompassed in due process of law, . . .□
+[a]n alien on the threshold of initial entry stands on a different footing.").□
+For clarity, we refer throughout this opinion to deportation and□
+exclusion, rather than removal.□
+□
+                                22□
+□□
+□
+time, it has repeatedly reenacted provisions closing□
+exclusion hearings.9 In contrast, although Congress codified□
+the regulations governing deportation proceedings in 1904□
+and has reenacted them many times since, it has never□
+authorized the general closure that has long existed in the□
+exclusion context.10□
+□
+The Newspapers submit that under the rule of□
+construction expressio unius est exclusio alterius,□
+_________________________________________________________________□
+□
+9. See, e.g., Act of March 3, 1903 S 25 (Ch. 1012, 32 Stat. 1213); Act of□
+February 20, 1907 S 25 (Ch. 1134, 34 Stat. 898); 1952 Immigration and□
+Nationality Act, 66 Stat. 163, SS 236, 242 (same); Treasury Department,□
+Immigration Laws and Regulations 3 (1893); Treasury Department,□
+Immigration Laws and Regulations 3 (1895); Treasury Department,□
+Immigration Laws and Regulations 3 (1898); Treasury Department,□
+Immigration Laws and Regulations 3 (1900); Treasury Department,□
+Immigration Laws and Regulations 3 (1902); Treasury Department,□
+Immigration Laws and Regulations 3 (1903); Bureau of Immigration,□
+Department of Commerce and Labor, Immigration Laws and Regulations□
+3, 9 (1904); Bureau of Immigration, Department of Commerce and Labor,□
+Immigration Laws and Regulations 3 (1906); Bureau of Immigration and□
+Naturalization, Department of Commerce and Labor, Immigration Laws□
+and Regulations 34 (1907); Bureau of Immigration, Department of Labor,□
+Immigration Laws; Rules of May 1, 1917, 33 (1919); 8 C.F.R. pts. 12 &□
+19 (1938); 8 C.F.R. pt. 150 (1941 Supp.); 12 Fed. Reg. 5108 (July 30,□
+1947); 8 C.F.R. pt. 130 (1949); 32 Fed. Reg. 9628 (1967) codified at 8□
+C.F.R. pt. 236 (1968).□
+□
+10. See, e.g., Act of March 3, 1903 S 25 (Ch. 1012, 32 Stat. 1213); Act□
+of February 20, 1907 S 25 (Ch. 1134, 34 Stat. 898); Act of May 10, 1920□
+(Ch. 174, 41 Stat. 593); Act of May 26, 1924 (Ch. 190, 43 Stat. 153);□
+1952 Immigration and Nationality Act, 66 Stat. 163,S 242; Bureau of□
+Immigration, Department of Commerce and Labor, Immigration Laws□
+and Regulations 3, 9 (1904); Bureau of Immigration and Naturalization,□
+
+Department of Commerce and Labor, Immigration Laws and Regulations□
+34 (1907); Bureau of Immigration, Department of Labor, Immigration□
+laws; Rules of May 1, 1917, 33 (1919); 8 C.F.R. pt. 19 (1938); 8 C.F.R.□
+pt. 150 (1941 Supp.); 9 Fed Reg. 11884 (Sept. 19, 1944) (amendment to□
+INS regulations governing deportation hearings, codified at 8 C.F.R. pt.□
+150 (1944 Supp.)); 10 Fed Reg. 8096 (Aug. 1, 1945) (codified at 8 C.F.R.□
+pt. 150 (1945 Supp)); 12 F3d Reg. 5114 (July 30, 1947) (codified at 8□
+C.F.R. pt. 150 (1947 Supp.)); 8 C.F.R. pt. 150 (1949); 17 Fed. Reg.□
+11512 (Dec. 19, 1952) (codified at 8 C.F.R. pt. 242 (1952)); 22 Fed. Reg.□
+9795 (Dec. 6, 1957) (codified at 8 C.F.R. pt. 242 (1958)); 22 Fed. Reg.□
+9519 (Nov. 28, 1957) (codified at 8 C.F.R. pt. 242 (1958)).□
+□
+                                23□
+□□
+□
+Congress’s practice of closing exclusion proceedings while□
+remaining silent on deportation proceedings creates a□
+presumption that it intended deportation proceedings to be□
+open. In support of this interpretation, they point out that□
+the current Justice Department regulations provide□
+explicitly that "[a]ll hearings, other than exclusion hearings,□
+shall be open to the public except that . . . [f]or the purpose□
+of protecting . . . the public interest, the Immigration Judge□
+may limit attendance or hold a closed hearing." 8 C.F.R.□
+3.27. From this they conclude that the regulations state□
+explicitly what the statutes had long said implicitly, namely□
+that deportation hearings are to be open unless an□
+individualized case is made for closure.□
+□
+But there is also evidence that, in practice, deportation□
+hearings have frequently been closed to the general public.□
+From the early 1900s, the government has often conducted□
+deportation hearings in prisons, hospitals, or private□
+homes, places where there is no general right of public□
+access.11 Even in recent times, the government has□
+continued to hold thousands of deportation hearings each□
+year in federal and state prisons. See H.R. Rep. No. 104-□
+469, pt. I, at 124 (1996). Moreover, hearings involving□
+abused alien children are closed by regulation no matter□
+where they are held, and those involving abused alien□
+spouses are closed presumptively. See 8 C.F.R. 3.27(c).□
+□
+We ultimately do not believe that deportation hearings□
+boast a tradition of openness sufficient to satisfy Richmond□
+Newspapers. In Richmond Newspapers itself, the Court□
+noted an "unbroken, uncontradicted history" of public□
+_________________________________________________________________□
+□
+11. The Newspapers contend that there is no evidence that hearings□
+conducted in hospitals, prisons, and private homes were closed to the□
+public. The Sixth Circuit agreed, concluding that this evidence does not□
+"even hint that the public could not attend a hearing [in these places]□
+. . . . Certainly, one could imagine family and friends being present."□
+Detroit Free Press, 2002 U.S. App. LEXIS 17646 at *68. While we agree□
+it is possible that some select non-party individuals might have been□
+present in such places, we are unwilling to assume that the general□
+public enjoyed unfettered access, a clearly counter-intuitive suggestion,□
+particularly since Richmond Newspapers, in asking whether "the place□
+and process have historically been open," seems to place the burden of□
+proof on the party claiming openness.□
+
+□
+                                24□
+□□
+□
+access to criminal trials in Anglo American law running□
+from "before the Norman Conquest" to the present, and it□
+emphasized that it had not found "a single instance of a□
+criminal trial conducted in camera in any federal, state, or□
+municipal court during the history of this country." 448□
+U.S. at 565, 572, 573 & n.9. Likewise, in Publicker, 733□
+F.2d at 1059, we found that access to civil trials at□
+common law was "beyond dispute."□
+□
+The tradition of open deportation hearings is simply not□
+comparable. While the expressio unius distinction between□
+exclusion and deportation proceedings is a tempting road to□
+travel, we are unwilling effectively to craft a constitutional□
+right from mere Congressional silence, especially when□
+faced with evidence that some deportation proceedings□
+were, and are, explicitly closed to the public or conducted□
+in places unlikely to allow general public access. Although□
+the 1964 Department of Justice regulations did create a□
+presumption of openness, a recent -- and rebuttable --□
+regulatory presumption is hardly the stuff of which□
+Constitutional rights are forged.□
+□
+The Newspapers contend, quite correctly, that at least□
+within the geographic confines of the Third Circuit, a□
+showing of openness at common law is not required. See,□
+e.g., United States v. Criden, 675 F.2d 550, 555 (3d Cir.□
+1982) (finding a right of access to pretrial hearings even□
+though no right existed at common law); United States v.□
+Simone, 14 F.3d 833, 838 (3d Cir. 1994) (finding a right□
+although no history predated 1980); Whiteland Woods, 193□
+F.3d at 181, (finding a "tradition of accessibility" based on□
+a recent statutory guarantee). We agree that under these□
+decisions a 1000-year history is unnecessary, and that in□
+some cases, largely limited to the criminal context,□
+relatively little history is required. These cases do not,□
+however, allow us to dispense with the Richmond□
+Newspapers "experience" requirement where history is□
+ambiguous or lacking, and to recognize a First Amendment□
+right based solely on the "logic" inquiry.□
+□
+In Criden, 675 F.2d at 552, the defendant requested that□
+the court conduct in camera his pretrial motion to suppress□
+evidence, and the court acquiesced. A reporter filed suit□
+alleging a First Amendment right to view those proceedings.□
+□
+                                25□
+□□
+□
+As Criden arose before Press-Enterprise II formalized the□
+Richmond Newspapers test, we were not bound to apply it,□
+and we stated that:□
+□
+       We do not think that historical analysis is relevant in□
+       determining whether there is a first amendment right□
+       of access to pretrial criminal proceedings. We recognize□
+       that, at common law, the public apparently had no□
+
+       right to attend pretrial criminal proceedings. On the□
+       other hand, there was no counterpart at common law□
+       to the modern suppression hearing . . . . [W]e proceed□
+       to examine the current role of the first amendment and□
+       the societal interests in open pretrial criminal□
+       proceedings.□
+□
+675 F.2d at 555. Although this language supports the□
+Newspapers’ contention that we have overlooked the□
+experience requirement in certain cases, it does not bind us□
+here. Criden arose in the criminal context, where First□
+Amendment rights of access had been found many times□
+previously. More importantly, in Criden we were not bound□
+to apply the Richmond Newspapers test because in□
+Richmond Newspapers itself, no approach commanded a□
+majority, and the Court had not yet decided Press-□
+Enterprise II. We are now obligated to apply that test, and□
+we have recognized that "the role of history in the access□
+determination" is "crucial." Capital Cities Media, 797 F.2d□
+at 1174.□
+□
+The Newspapers’ reliance on our decision in Simone, 14□
+F.3d at 833, is similarly misplaced. The District Court□
+believed that Simone allows us to find a First Amendment□
+right based solely on the logic prong where there is"neither□
+a clear history of openness nor one of closure," North Jersey□
+Media, 205 F.Supp. 2d at 300, but this greatly overstates□
+our holding. In assessing whether there is a right of access□
+to post-trial examinations of jury misconduct, we noted□
+that the only available evidence postdated 1980. We□
+recognized that evidence "of such recent vintage[does] not□
+establish a tradition of closure," Simone, 14 F.3d at 838,□
+and concluded that "the ‘experience’ prong of the ‘logic and□
+experience’ test provides little guidance." Id. We then found□
+a right while focusing mainly on the logic prong, but critical□
+to that giant step was our reflection that "[g]iven the□
+□
+                                26□
+□□
+□
+overwhelming historical support for access in other phases of□
+the criminal process, we are reluctant to presume that the□
+opposite rule applies in this case in the absence of a□
+distinct tradition to the contrary." Id. (emphasis added).□
+This logic effectively limits Simone’s scope to the criminal□
+context, or at least to those areas with "overwhelming□
+historical support for access." As discussed supra, the□
+tradition of public access in the administrative realm is□
+inconsistent at best, so we must rigorously apply both□
+prongs of the Richmond Newspapers test.□
+□
+Finally, despite our potentially misleading language in□
+Whiteland Woods, 193 F.3d at 177, that case has no proper□
+application here. Whiteland Woods, a real estate developer,□
+was denied permission to videotape a Township Planning□
+Commission meeting, and it sued for access. Although we□
+recognized that "[t]he primary issue on appeal is whether□
+there is a federal constitutional right to videotape public□
+meetings of a township planning commission," id. at 180□
+(emphasis added), we stated in passing that "[w]e have no□
+
+hesitation in holding Whiteland Woods had a constitutional□
+right of access to the Planning Commission meeting." Id. at□
+180-81. As the Planning Commission never actually denied□
+Whiteland Woods the access guaranteed by state law,□
+however, our broad statement was dicta and we do not□
+follow it here.□
+□
+Although we are confident that our precedents do not□
+allow us to find a First Amendment right of access to□
+deportation hearings absent strong historical evidence, the□
+Supreme Court’s recent ruling in FMC v. South Carolina□
+Ports Authority, 122 S.Ct. at 1864, gives us pause. In□
+holding that state sovereign immunity bars an□
+administrative agency from adjudicating a private party’s□
+complaint against a nonconsenting state, the Supreme□
+Court recognized that "formalized administrative□
+adjudications were all but unheard of " during the Framers’□
+time. Id. at 1872. It nevertheless found that because□
+Federal Maritime Commission adjudications "walk[ ], talk[ ],□
+and squawk[ ] like a civil lawsuit," id. at 1873 (quoting the□
+Court of Appeals decision), "they are the type of proceedings□
+from which the Framers would have thought the States□
+possessed immunity when they agreed to enter the Union."□
+□
+                                27□
+□□
+□
+Id. at 1872. The Court therefore concluded that state□
+sovereign immunity applies to administrative proceedings.□
+□
+Ports Authority had not been decided when the District□
+Court heard this case, and the Newspapers now assert that□
+it forces us to distinguish the procedures in deportation□
+hearings from those in civil trials before finding that□
+different rights exist in each context. Were this suggestion□
+correct, we would indeed be hard pressed to find□
+meaningful differences between the two types of□
+proceedings. A deportation proceeding is commenced with a□
+"Notice to Appear," see 8 C.F.R. S 239.1, a document□
+strongly resembling a civil complaint. In turn, a respondent□
+may proffer affirmative defenses. See Martinez-Montoya v.□
+INS, 904 F.2d 1018 (5th Cir. 1990). As in a civil trial, a□
+respondent has the right to be represented by counsel of□
+his choosing, see 8 C.F.R. S 240.3, and has the right to be□
+present during his hearing. See 8 U.S.C.S 1229a(b)(4). He□
+or she is also guaranteed an opportunity to cross-examine□
+witnesses and present evidence on his or her behalf.  Id.□
+While slight differences exist regarding such minor matters□
+as the admissibility of hearsay evidence, we agree that on□
+a procedural level, deportation hearings and civil trials are□
+practically indistinguishable.□
+□
+Despite these undeniable similarities, however, we do not□
+believe that the Supreme Court intended in Ports Authority□
+to import the full panoply of constitutional rights to any□
+administrative proceeding that resembles a civil trial. The□
+Court’s reasoning was based fundamentally on its enduring□
+presumption "that the Constitution was not intended to□
+‘raise up’ any proceedings against the States that were□
+‘anomalous and unheard of when the Constitution was□
+
+adopted.’ " Ports Authority, 122 S.Ct. at 1872 (quoting Hans□
+v. Louisiana, 134 U.S. 1, 18 (1890)). Put slightly differently,□
+the Court started from the premise that state sovereign□
+immunity shields nonconsenting states from complaints□
+brought by private persons, regardless of where private□
+persons bring those complaints. It then concluded that□
+since Federal Maritime Commission proceedings strongly□
+resemble civil trials to which state sovereign immunity□
+applies, the Framers would have intended the same right to□
+freedom from private suit to apply in each context.□
+□
+                                28□
+□□
+□
+In contrast, there is no fundamental right to attend□
+government proceedings underpinning the Newspapers’□
+alleged right to attend deportation proceedings. See□
+discussion supra. This is not a situation where the Framers□
+contemplated a perfectly transparent government, only to□
+have deportation proceedings, which they did not foresee,□
+jeopardize that intended scheme. This is also not a□
+situation involving allegations that the government assigned□
+to an administrative agency a function that courts□
+historically performed in order to deprive the public of an□
+access right it once possessed. And most importantly, this□
+is not a situation that risks affront to states’"residual and□
+inviolable sovereignty," id. at 1870 (quoting The Federalist□
+No. 39, p. 245 (C. Rossiter ed. 1961) (J. Madison)), the□
+concern that motivated the Ports Authority Court. We□
+therefore decline to loose the Ports Authority  analysis from□
+its Eleventh Amendment moorings. Instead of analogizing□
+procedures, the proper approach is that developed in□
+Richmond Newspapers, and as we have explained, under□
+that test we find an insufficient tradition of openness to□
+support the right.□
+□
+3. Relaxing the Richmond Newspapers experience□
+requirement would lead to perverse consequences.□
+□
+As we have explained in detail supra, there is no□
+fundamental right of access to administrative proceedings.□
+Any such access, therefore, must initially be granted as a□
+matter of executive grace.12 The Government contends that□
+by relaxing the need for a "1000-year tradition of public□
+access," (Gov’t Br. at 35), we would permanently□
+constitutionalize a right of access whenever an executive□
+agency does not consistently bar all public access to a□
+particular proceeding. We do not adopt this reasoning in its□
+_________________________________________________________________□
+□
+12. The Newspapers disagree, arguing that "the constitutional right of□
+access under the First Amendment does not, and could not, turn on□
+whether the legislature has chosen to supply that right." We believe this□
+reasoning to be precisely backwards, for Richmond Newspapers requires□
+a tradition of access before recognizing a constitutional right to that□
+access. Given that order of events, there must perforce be a period of□
+time during which access to a particular proceeding is not□
+constitutionally compelled, although during that period the executive□
+could, of course, grant access as a matter of grace.□
+□
+
+                                29□
+□□
+□
+entirety, for as we have discussed supra, we have□
+sometimes found a constitutional right of access to□
+proceedings that did not exist at common law. See, e.g.,□
+Simone, 14 F.3d at 837-40 (finding a public access right to□
+post-trial jury examinations).□
+□
+Nevertheless, we agree with the Government that a□
+rigorous experience test is necessary to preserve the "basic□
+tenet of administrative law that agencies should be free to□
+fashion their own rules of procedure." Vermont Yankee□
+Nuclear Power Corp. v. Natural Resources Defense Council,□
+Inc., 435 U.S. 519, 544 (1978). Were we to adopt the□
+Newspapers’ view that we can recognize a First Amendment□
+right based solely on the logic prong if there is no history□
+of closure, we would effectively compel the Executive to□
+close its proceedings to the public ab initio or risk creating□
+a constitutional right of access that would preclude it from□
+closing them in the future. Under such a system, reserved□
+powers of closure would be meaningless. It seems possible□
+that, ironically, such a system would result in less public□
+access than one in which a constitutional right of access is□
+more difficult to create.□
+□
+At all events, we would find this outcome incredible in an□
+area of traditional procedural flexibility, and we are□
+unwilling to reach it when a reasonable alternative is□
+present. By insisting on a strong tradition of public access□
+in the Richmond Newspapers test, we preserve□
+administrative flexibility and avoid constitutionalizing□
+ambiguous, and potentially unconsidered, executive□
+decisions.□
+□
+IV. DOES THE RICHMOND NEWSPAPERS"LOGIC"□
+PRONG, PROPERLY APPLIED, SUPPORT A RIGHT OF□
+ACCESS?□
+□
+Even if we could find a right of access under the□
+Richmond Newspapers logic prong, absent a strong showing□
+of openness under the experience prong, a proposition we□
+do not embrace, we would find no such right here. The logic□
+test compels us to consider "whether public access plays a□
+significant positive role in the functioning of the particular□
+process in question." Press-Enterprise II, 478 U.S. at 8. The□
+□
+                                30□
+□□
+□
+District Court observed that "there are abundant□
+similarities between these proceedings and judicial□
+proceedings in the criminal and civil contexts," and□
+concluded that "the same functional goals served by□
+openness in the civil and criminal judicial contexts would□
+be equally served in the context of deportation hearings."□
+North Jersey Media, 205 F.Supp. 2d at 301. As we have□
+discussed supra, we agree that deportation proceedings□
+look very much like judicial trials. As we will now explain,□
+however, we find that the logic inquiry has drifted from its□
+
+intended role and that, properly conceived, it does not□
+support openness in this case.□
+□
+In Press-Enterprise II, the case that formalized the□
+Richmond Newspapers test, the Court identified several□
+reasons that openness plays a significant positive role in□
+preliminary hearings. It recognized that "[b]ecause of its□
+extensive scope, the preliminary hearing is often the final□
+and most important step in the criminal proceeding," and□
+in many cases it "provides the sole occasion for public□
+observation of the criminal justice system." Id. at 12□
+(citation omitted). Similarly, it found that "the absence of a□
+jury, long recognized as an inestimable safeguard against□
+the corrupt or overzealous prosecutor and against the□
+compliant, biased, or eccentric judge, makes the□
+importance of public access to a preliminary hearing even□
+more significant." Id. at 12-13 (citations omitted).□
+Summarizing that "[d]enying the transcript of a [ ]□
+preliminary hearing would frustrate what we have□
+characterized as the ‘community therapeutic value’ of□
+openness," it concluded that a qualified First Amendment□
+right of access attaches to preliminary hearings. Id. at 13.□
+□
+In subsequent cases, this Court has noted six values□
+typically served by openness: "[1] promotion of informed□
+discussion of governmental affairs by providing the public□
+with the more complete understanding of the judicial□
+system; [2] promotion of the public perception of fairness□
+which can be achieved only by permitting full public view of□
+the proceedings; [3] providing a significant community□
+therapeutic value as an outlet for community concern,□
+hostility and emotion; [4] serving as a check on corrupt□
+practices by exposing the judicial process to public□
+□
+                                31□
+□□
+□
+scrutiny; [5] enhancement of the performance of all□
+involved; and [6] discouragement of perjury." Simone, 14□
+F.3d at 839.□
+□
+We agree with the District Court and the Sixth Circuit□
+that openness in deportation hearings performs each of□
+these salutary functions, but we are troubled by our sense□
+that the logic inquiry, as currently conducted, does not do□
+much work in the Richmond Newspapers test. We have not□
+found a case in which a proceeding passed the experience□
+test through its history of openness yet failed the logic test□
+by not serving community values. Under the reported□
+cases, whenever a court has found that openness serves□
+community values, it has concluded that openness plays a□
+"significant positive role" in that proceeding. But that□
+cannot be the story’s end, for to gauge accurately whether□
+a role is positive, the calculus must perforce take account□
+of the flip side -- the extent to which openness impairs the□
+public good. We note in this respect that, were the logic□
+prong only to determine whether openness serves some□
+good, it is difficult to conceive of a government proceeding□
+to which the public would not have a First Amendment□
+right of access. For example, public access to any□
+
+government affair, even internal CIA deliberations, would□
+"promote informed discussion" among the citizenry. It is□
+unlikely the Supreme Court intended this result.□
+□
+In this case the Government presented substantial□
+evidence that open deportation hearings would threaten□
+national security. Although the District Court discussed□
+these concerns as part of its strict scrutiny analysis, they□
+are equally applicable to the question whether openness, on□
+balance, serves a positive role in removal hearings. 13 We□
+find that upon factoring them into the logic equation, it is□
+_________________________________________________________________□
+□
+13. We recognize that, under our approach, there is an evidentiary□
+overlap between the Richmond Newspapers logic prong and the□
+subsequent "compelling government interest" strict scrutiny investigation□
+necessary upon a finding of a First Amendment access right.□
+Nonetheless, the inquiries are not redundant because it is possible for□
+openness to serve a positive role under a balanced logic prong even□
+though the government has a compelling interest in closure. This would□
+simply require that the policy rationales supporting openness be even□
+more compelling than those supporting closure.□
+□
+                                32□
+□□
+□
+doubtful that openness promotes the public good in this□
+context.□
+□
+The Government’s security evidence is contained in the□
+declaration of Dale Watson, the FBI’s Executive Assistant□
+Director for Counterterrorism and Counterintelligence.□
+Watson presents a range of potential dangers, the most□
+pressing of which we rescribe here.□
+□
+First, public hearings would necessarily reveal sources□
+and methods of investigation. That is information which,□
+"when assimilated with other information the United States□
+may or may not have in hand, allows a terrorist□
+organization to build a picture of the investigation."□
+(Watson Dec. at 4.) Even minor pieces of evidence that□
+might appear innocuous to us would provide valuable clues□
+to a person within the terrorist network, clues that may□
+allow them to thwart the government’s efforts to investigate□
+and prevent future acts of violence. Id.□
+□
+Second, "information about how any given individual□
+entered the country (from where, when, and how) may not□
+divulge significant information that would reveal sources□
+and methods of investigation. However, putting entry□
+information into the public realm regarding all‘special□
+interest cases’ would allow the terrorist organization to see□
+patterns of entry, what works and what doesn’t." Id. That□
+information would allow it to tailor future entries to exploit□
+weaknesses in the United States immigration system.□
+□
+Third, "[i]nformation about what evidence the United□
+States has against members of a particular cell collectively□
+will inform the terrorist organization as to what cells to use□
+and which not to use for further plots and attacks." Id. A□
+
+related concern is that open hearings would reveal what□
+evidence the government lacks. For example, the United□
+States may disclose in a public hearing certain evidence it□
+possesses about a member of a terrorist organization. If□
+that detainee is actually involved in planning an attack,□
+opening the hearing might allow the organization to know□
+that the United States is not yet aware of the attack based□
+on the evidence it presents at the open hearing. Id.□
+□
+Fourth, if a terrorist organization discovers that a□
+particular member is detained, or that information about a□
+□
+                                33□
+□□
+□
+plot is known, it may accelerate the timing of a planned□
+attack, thus reducing the amount of time the government□
+has to detect and prevent it. If acceleration is impossible, it□
+may still be able to shift the planned activity to a yet-□
+undiscovered cell. Id. at 7.□
+□
+Fifth, a public hearing involving evidence about terrorist□
+links could allow terrorist organizations to interfere with□
+the pending proceedings by creating false or misleading□
+evidence. Even more likely, a terrorist might destroy□
+existing evidence or make it more difficult to obtain, such□
+as by threatening or tampering with potential witnesses.□
+Should potential informants not feel secure in coming□
+forward, that would greatly impair the ongoing□
+investigation. Id.□
+□
+Sixth, INS detainees have a substantial privacy interest□
+in having their possible connection to the ongoing□
+investigation kept undisclosed. Id. at 8."Although some□
+particular detainees may choose to identify themselves, it is□
+important to note that as to all INS detainees whose cases□
+have been placed in the special interest category concerns□
+remain about their connection to terrorism, and specifically□
+to the worst attack ever committed on United States soil.□
+Although they may eventually be found to have no□
+connection to terrorist activity, discussion of the causes of□
+their apprehension in open court would forever connect□
+them to the September 11 attacks." Id. While this stigma□
+concern exists to some extent in many criminal□
+prosecutions, it is noteworthy that deportation hearings are□
+regulatory, not punitive, see Carlson v. Landon , 342 U.S.□
+524, 537 (1952), and there is often no evidence of any□
+criminal wrongdoing.□
+□
+Finally, Watson represents that "the government cannot□
+proceed to close hearings on a case-by-case basis, as the□
+identification of certain cases for closure, and the□
+introduction of evidence to support that closure, could itself□
+expose critical information about which activities and□
+patterns of behavior merit such closure." (Watson Dec. at 8-□
+9.) Moreover, he explains, given judges’ relative lack of□
+expertise regarding national security and their inability to□
+see the mosaic, we should not entrust to them the decision□
+□
+                                34□
+
+□□
+□
+whether an isolated fact is sensitive enough to warrant□
+closure.□
+□
+The Newspapers are undoubtedly correct that the□
+representations of the Watson Declaration are to some□
+degree speculative, at least insofar as there is no concrete□
+evidence that closed deportation hearings have prevented,□
+or will prevent, terrorist attacks.14 But the Richmond□
+Newspapers logic prong is unavoidably speculative, for it is□
+impossible to weigh objectively, for example, the community□
+benefit of emotional catharsis against the security risk of□
+disclosing the United States’ methods of investigation and□
+the extent of its knowledge. We are quite hesitant to□
+conduct a judicial inquiry into the credibility of these□
+security concerns, as national security is an area where□
+courts have traditionally extended great deference to□
+Executive expertise. See, e.g., Zadvydas v. Davis, 533 U.S.□
+678, 696 (2001) (noting that "terrorism or other special□
+circumstances" might warrant "heightened deference to the□
+judgments of the political branches with respect to matters□
+of national security"). See also Dep’t of the Navy v. Egan,□
+484 U.S. 518, 530 (1988) (noting that "courts traditionally□
+have been reluctant to intrude upon the authority of the□
+Executive in military and national security affairs"). The□
+assessments before us have been made by senior□
+government officials responsible for investigating the events□
+of September 11th and for preventing future attacks. These□
+officials believe that closure of special interest hearings is□
+necessary to advance these goals, and their concerns, as□
+expressed in the Watson Declaration, have gone□
+unrebutted. To the extent that the Attorney General’s□
+_________________________________________________________________□
+□
+14. The Newspapers contend that speculative evidence is insufficient to□
+withstand strict scrutiny. See Press-Enterprise II, 478 U.S. at 13□
+(requiring "specific, on the record findings"); Globe Newspaper, 457 U.S.□
+596, 609 (1982) (finding government interest insufficient to merit closure□
+without accompanying empirical support). While we acknowledge the□
+force of this contention, strict scrutiny is appropriate only after finding□
+a First Amendment right. Because we find no such right to attend□
+deportation hearings, the speculative nature is not fatal.□
+□
+                                35□
+□□
+□
+national security concerns seem credible, we will not lightly□
+second-guess them.15□
+□
+We are keenly aware of the dangers presented by□
+deference to the executive branch when constitutional□
+liberties are at stake, especially in times of national crisis,□
+when those liberties are likely in greatest jeopardy. On□
+balance, however, we are unable to conclude that openness□
+plays a positive role in special interest deportation hearings□
+at a time when our nation is faced with threats of such□
+profound and unknown dimension.□
+□
+V. CONCLUSION□
+
+□
+Whatever the outer bounds of Richmond Newspapers □
+might be, they do not envelop us here. Deportation□
+_________________________________________________________________□
+□
+15. It is worth clarifying that we do not here defer to the Executive on□
+the basis of its plenary power over immigration. We do not question that□
+the "power to expel or exclude aliens" is"a fundamental sovereign□
+attribute . . . largely immune from judicial control," Fiallo v. Bell, 430□
+U.S. 787, 792 (1977) (quoting Shaughnessy v. United States ex rel.□
+Mezei, 342 U.S. 206, 210 (1953)), for indeed there is no dispute as to the□
+government’s substantive power to expel the special interest detainees.□
+Rather, what is at stake is the means the government has chosen to□
+exercise that plenary power.□
+□
+In INS v. Chadha, 462 U.S. 919, 940-41 (1983), the Court heard a□
+challenge to Congress’s decision to create a one-House veto over certain□
+deportation decisions made by the Attorney General. In striking down□
+the legislative veto, the Court noted that "what is challenged here is□
+whether Congress has chosen a constitutionally permissible means of□
+implementing that power." Id. Most recently, in Zadvydas, 533 U.S. at□
+695-97, the Court held that despite the government’s plenary power to□
+expel immigrants, the Attorney General lacked the authority indefinitely□
+to detain non-citizens whose countries were unwilling to accept their□
+return, and it cited Chadha for the proposition that "Congress must□
+choose a constitutionally permissible means of implementing" its□
+immigration power. Id. at 695 (quoting Chada, 462 U.S. at 941-42). The□
+issue at stake in the Newspapers’ suit is not the Attorney General’s□
+power to expel aliens, but rather his power to exclude reporters from□
+those proceedings. This is plainly a constitutional challenge to the means□
+he has chosen to effect a permissible end, and under Zadvydas we owe□
+no executive deference. We defer only to the executive insofar as it is□
+expert in matters of national security, not constitutional liberties.□
+□
+                                36□
+□□
+□
+proceedings’ history of openness is quite limited, and their□
+presumption of openness quite weak. They plainly do not□
+present the type of "unbroken, uncontradicted history" that□
+Richmond Newspapers and its progeny require to establish□
+a First Amendment right of access. We do not decide that□
+there is no right to attend administrative proceedings, or□
+even that there is no right to attend any immigration□
+proceeding. Our judgment is confined to the extremely□
+narrow class of deportation cases that are determined by□
+the Attorney General to present significant national security□
+concerns. In recognition of his experience (and our lack of□
+experience) in this field, we will defer to his judgment. We□
+note that although there may be no judicial remedy for□
+these closures, there is, as always, the powerful check of□
+political accountability on Executive discretion.□
+□
+The importance of this case has not escaped us. As we□
+approached it, we were acutely aware that the□
+countervailing positions of the parties go to the heart of our□
+institutions, our national values, and the republic itself.□
+Commenting upon the great national dilemma in which this□
+case ineluctably embroils us -- the eternal struggle between□
+liberty and security -- a number of newspapers have□
+
+editorialized favorably upon Judge Keith’s eloquent□
+language in the Detroit Free Press case:□
+□
+       "Democracies die behind closed doors," . . ."When□
+       government begins closing doors, it selectively controls□
+       information rightfully belonging to the people. Selective□
+       information is misinformation."□
+□
+Others have been less impressed. Michael Kelly has□
+written in the Washington Post:□
+□
+       "Democracies die behind closed doors. So they do,□
+       sometimes. But far more democracies have succumbed□
+       to open assaults of one sort or another -- invasions□
+       from without, military coups and totalitarian□
+       revolutions from within -- than from the usurpation-□
+       by-in-camera-incrementalism that Judge Keith fears.□
+□
+       Democracy in America does at this moment face a□
+       serious threat. But it is not the threat the judge has in□
+       mind, at least not directly. It is true that last□
+       September’s unprecedented mass-slaughter of□
+□
+                                37□
+□□
+□
+       American citizens on American soil inevitably forced□
+       the government to take security measures that□
+       infringed on some rights and privileges. But these do□
+       not in themselves represent any real threat to□
+       democracy. A real threat could arise, however, should□
+       the government fail in its mission to prevent another□
+       September 11. If that happens, the public will demand,□
+       and will get, immense restrictions on liberties.□
+□
+Although Mr. Kelly ultimately sided with openness on a□
+case by-case basis, we find his quoted statements powerful.□
+They certainly seem appropriate to the decision to close the□
+deportation hearings of those who may have been affiliated□
+with the persons responsible for the events of September□
+11th, all of the known perpetrators of which were aliens.□
+And they are consonant with the reality that the persons□
+most directly affected by the Creppy Directive are the□
+media, not the aliens who may be deported. As always,□
+these aliens are given a heavy measure of due process --□
+the right to appeal the decision of the Immigration Judge□
+(following the closed hearing) to the Board of Immigration□
+Appeals (BIA) and the right to petition for review of the BIA□
+decision to the Regional Court of Appeals. See also INS v.□
+St. Cyr, 533 U.S. 289, 300 (2001) (noting that because the□
+Constitution "provides the Writ of Habeas Corpus shall not□
+be suspended, . . . some judicial intervention in deportation□
+cases is unquestionably required by the Constitution").□
+□
+Because we find that open deportation hearings do not□
+pass the two-part Richmond Newspapers test, we hold that□
+the press and public possess no First Amendment right of□
+access. In the absence of such a right, we need not reach□
+the subsequent questions whether the Creppy Directive’s□
+closures would pass a strict scrutiny analysis and whether□
+
+the District Court’s "national in scope" injunction was too□
+broad.□
+□
+The judgment of the District Court will be reversed.□
+□
+                                38□
+□□
+□
+SCIRICA, Circuit Judge, dissenting:□
+□
+At issue is not whether some or all deportation hearings□
+of special interest aliens should be closed, but who makes□
+that determination. The answer depends on how we□
+interpret the First Amendment of the Constitution.□
+□
+The Constitution is silent on the right to public access.□
+But the Supreme Court has framed a qualified right of□
+access that may be overcome by sound reasons. Because□
+no reason is more compelling than national security,□
+closure of special interest alien deportation hearings may□
+well be warranted.□
+□
+The Supreme Court’s test in Richmond Newspapers --□
+when a right of access attaches to a particular type of□
+proceeding and whether it may be overcome--applies here.□
+Therefore, I agree with the majority that this test applies to□
+deportation hearings.1 But I believe the requirements of□
+that test are met. Consequently, I would find a qualified□
+right of access to deportation hearings. Because I believe□
+that Immigration Judges can make these determinations□
+with substantial deference to national security, I would□
+affirm the District Court’s judgment.2 □
+□
+I. Experience□
+□
+The Supreme Court has articulated a functional inquiry□
+to determine whether "the place and process have□
+historically been open to the press and general public."□
+Press-Enterprise Co. v. Superior Court, 478 U.S. 1, 8 (1986)□
+("Press-Enterprise II"). Deportation hearings have a□
+consistent history of openness. Congress first adopted□
+immigration statutes at the end of the nineteenth century.□
+In so doing, Congress expressly closed exclusion□
+proceedings while leaving deportation hearings□
+presumptively open. For at least one hundred years,□
+deportation hearings have remained presumptively open to□
+the public.□
+_________________________________________________________________□
+□
+1. Accordingly, I agree with much of parts I and II of the court’s learned□
+opinion.□
+□
+2. At the same time, I would reverse the District Court’s injunction as it□
+applies nationwide. See Section IV, infra.□
+□
+                                39□
+□□
+□
+Department of Justice regulations, enacted in 1964,□
+provide express approval for presumptively open hearings.□
+
+See 8 C.F.R. S 242.16(a) (1964) ("All hearings, other than□
+exclusion hearings, shall be open to the public except that□
+. . . [f]or the purpose of protecting . . . the public interest,□
+the Immigration Judge may limit attendance or hold a□
+closed hearing."). Although deportation hearings have been□
+only presumptively open, Richmond Newspapers itself only□
+recognizes a qualified right of access for criminal□
+proceedings, which may be restricted by a countervailing□
+public interest. Richmond Newspapers, Inc. v. Virginia, 448□
+U.S. 555, 580-81 (1980); see also Press-Enterprise II, 478□
+U.S. at 10; Globe Newspaper v. Superior Court , 457 U.S.□
+596, 606-07 (1982).3□
+□
+The Supreme Court has noted that we must assess□
+history "because a tradition of accessibility implies the□
+favorable judgment of experience." Press-Enterprise II, 478□
+U.S. at 8 (internal quotation omitted); see also Globe□
+Newspaper, 457 U.S. at 605; Richmond Newspapers, 448□
+U.S. at 589 (Brennan, J., concurring). But this historical□
+assessment does not cabin our review only to proceedings□
+with a pre-constitutional history of openness.4 Other factors□
+may reveal a favorable judgment of experience for□
+presumptive access to deportation hearings.□
+□
+Notably, Press-Enterprise II relies upon nineteenth and□
+twentieth century history to find a tradition of openness for□
+criminal preliminary hearings. 478 U.S. at 10. In that case,□
+the Supreme Court observed that "[t]he vast majority of□
+States considering the issue have concluded that the same□
+_________________________________________________________________□
+□
+3. While exceptions exist for deportation hearings involving abused alien□
+children and spouses, criminal trials have similar exceptions (e.g., there□
+is no public right of access to juvenile criminal proceedings).□
+□
+4. Our Court of Appeals has not framed a bright-line test for determining□
+when a historical tradition is lengthy enough to satisfy Richmond□
+Newspapers’s experience prong. Our decisions suggest, however, that a□
+more than one hundred year history of openness is sufficient to justify□
+the conclusion that the experience prong has been satisfied. See, e.g.,□
+Whiteland Woods, L.P. v. Township of West Whiteland , 193 F.3d 177 (3d□
+Cir. 1999); United States v. Simone, 14 F.3d 833 (3d Cir. 1994); United□
+States v. Smith, 776 F.2d 1104 (3d Cir. 1985); Publicker Indus., Inc. v.□
+Cohen, 733 F.2d 1059 (3d Cir. 1984).□
+□
+                                40□
+□□
+□
+tradition of accessibility that applies to criminal trials□
+applies to preliminary proceedings." Id. at 10 n.3. These□
+state court decisions confirmed the value of openness and□
+the Supreme Court thus determined that "[o]pen□
+preliminary hearings . . . have been accorded the favorable□
+judgment of experience." Id. at 11 (quoting Globe□
+Newspaper, 457 U.S. at 605).□
+□
+Furthermore, the Supreme Court has recognized that the□
+Founders "could not have anticipated the vast growth of the□
+administrative state." Fed. Mar. Comm’n v. S.C. State Ports□
+Auth., 122 S. Ct. 1864, 1872 (2002). In South Carolina Ports□
+
+Authority, the Court observed that "formalized□
+administrative adjudications were all but unheard of in the□
+late 18th century and early 19th century." Id.5 For□
+administrative proceedings, therefore, it would appear that□
+the experience inquiry should consider the tradition of□
+access to a particular proceeding within the history of the□
+modern administrative state.6□
+□
+The Supreme Court also noted in South Carolina Ports□
+Authority that some administrative adjudications share□
+"numerous common features" with civil judicial□
+proceedings, including an adversarial nature. Id. at 1872-□
+73 (citing Butz v. Economou, 438 U.S. 478, 513 (1978)□
+(listing similarities between administrative and judicial□
+proceedings)). Based upon these similarities, the Court in□
+both South Carolina Ports Authority and Butz concluded□
+that constitutional principles applicable to civil trials were□
+_________________________________________________________________□
+□
+5. The Supreme Court has recognized that the"[m]ultiplication of federal□
+administrative agencies and expansion of their functions to include□
+adjudications which have serious impact on private rights [was] one of□
+the dramatic legal developments of the [first half of the twentieth□
+century]." Wong Yang Sung v. McGrath, 339 U.S. 33, 36-37 (1950).□
+□
+6. Congress crafted the system of deportation hearings during the early□
+years of the modern administrative state. See  1 Richard J. Pierce, Jr.,□
+Administrative Law Treatise S 1.4, at 9 (4th ed. 2002) (describing the□
+historical developments of administrative law); Marian L. Smith, An□
+Overview of INS History, in A Historical Guide to the U.S. Government□
+305, 305 (George Thomas Kurian ed., 1998) (detailing how the United□
+States did not begin to question its policy of "free and open immigration"□
+until the late 1800s). Since then, deportation hearings have remained□
+presumptively open.□
+□
+                                41□
+□□
+□
+relevant to the administrative proceedings at issue. 7□
+Deportation hearings share these common features. I agree□
+with the majority, therefore, that "on a procedural level,□
+deportation hearings and civil trials are practically□
+indistinguishable." Majority Op. at 28.8□
+□
+That the historical tradition supports access to□
+deportation hearings does not imply the existence of a□
+qualified right of access for all administrative proceedings.9□
+For example, Social Security benefits claim proceedings are□
+distinguishable. They "are inquisitorial rather than□
+adversarial," in that the Administrative Law Judge□
+undertakes multiple roles as the investigator, counselor,□
+and adjudicator. Sims v. Apfel, 530 U.S. 103, 110-11□
+(2000). The Supreme Court has identified the differences□
+between Social Security claims and other administrative□
+proceedings:□
+□
+       The differences between courts and agencies are□
+       nowhere more pronounced than in Social Security□
+       proceedings. Although many agency systems of□
+       adjudication are based to a significant extent on the□
+
+       judicial model of decisionmaking, the SSA is perhaps□
+       the best example of an agency that is not.□
+□
+Id. at 110 (internal quotations omitted). 10□
+_________________________________________________________________□
+□
+7. I agree with the majority that the South Carolina Ports Authority□
+holding may not extend "the full panoply of constitutional rights to any□
+administrative proceeding that resembles a civil trial." Majority Op. at□
+28. The Supreme Court left this question for another day. But its□
+comparison of administrative proceedings to civil trials remains□
+instructive.□
+□
+8. On this level, a deportation hearing "walks, talks, and squawks like a□
+civil lawsuit." South Carolina Ports Authority, 122 S. Ct. at 1873 (internal□
+quotation omitted).□
+□
+9. As the Supreme Court has noted, there is a distinction between liberty□
+and property interests in administrative hearings.  Wong Yang Sung, 339□
+U.S. at 50-51.□
+□
+10. Deportation hearings are adversarial proceedings that share many of□
+the features common to civil judicial proceedings that the Supreme□
+Court enunciated in South Carolina Ports Authority:□
+□
+       Federal administrative law requires that agency adjudication contain□
+       many of the same safeguards as are available in the judicial□
+□
+                                42□
+□□
+□
+Congress has provided for presumptively open□
+deportation proceedings from the moment that it first□
+enacted an immigration statutory framework. This century□
+of unbroken openness, especially within the nascent□
+tradition of the administrative state, "implies the favorable□
+judgment of experience" under the Richmond Newspapers□
+test.□
+□
+II. Logic□
+□
+Public access to deportation hearings serves the same□
+positive functions as does openness in criminal and civil□
+trials. But the logic inquiry cannot consist merely of a□
+recitation of the factors supporting open proceedings. "An□
+assertion of the prerogative to gather information must . . .□
+be assayed by considering the information sought and the□
+opposing interests invaded." Richmond Newspapers, 448□
+U.S. at 588 (Brennan, J., concurring); accord  Majority Op.□
+at 32 ("[T]he calculus must perforce take account of the flip□
+side--the extent to which openness impairs the public□
+good."). I agree with the majority that the District Court□
+erred in failing to consider the countervailing interest of□
+national security.□
+_________________________________________________________________□
+□
+       process. The proceedings are adversary in nature. They are□
+       conducted before a trier of fact insulated from political influence. A□
+       party is entitled to present his case by oral or documentary□
+       evidence, and the transcript of testimony and exhibits together with□
+
+       the pleadings constitutes the exclusive record for decision. The□
+       parties are entitled to know the findings and conclusions on all of□
+       the issues of fact, law, or discretion presented on the record.□
+□
+South Carolina Ports Authority, 122 S. Ct. at 1873 (quoting Butz, 478□
+U.S. at 513).□
+□
+The Supreme Court has held that deportation hearings require a□
+heightened standard of proof, suggesting their unique position within the□
+context of administrative proceedings. Woodby v. INS, 385 U.S. 276, 286□
+(1966) (requiring clear, unequivocal, and convincing evidence to support□
+the grounds for deportation). Conversely, many of the other□
+administrative proceedings cited by the government do not share as□
+many of the South Carolina Ports Authority common factors, and they□
+may contain other features--the protection of privacy, reputation, and□
+medical information--that counsel against access.□
+□
+                                43□
+□□
+□
+The issue in this case is "whether the press and public□
+have a First Amendment right to attend deportation□
+hearings." Majority Op. at 18. The logic analysis set forth□
+by the Supreme Court is directed at a particular structural□
+type of proceeding--in this case, deportation hearings--not□
+a subset based on specific designations such as terrorism.□
+In Globe Newspaper, the Court stated this point most□
+clearly. Appellees in that case sought to limit the Richmond□
+Newspapers analysis to rape trials. The dissent in Globe□
+Newspaper cited evidence of "a long history of exclusion of□
+the public from trials involving sexual assaults, particularly□
+those against minors." 457 U.S. at 614. The Court rejected□
+this suggestion, stating, "Whether the First Amendment□
+right of access to criminal trials can be restricted in the□
+context of any particular criminal trial, such as . . . a rape□
+trial, depends not on the historical openness of that type of□
+criminal trial but rather on the state interests assertedly□
+supporting the restriction."11Id. at 605 n.13.□
+□
+At this stage, we must consider the value of openness in□
+deportation hearings generally, not its benefits and□
+detriments in "special interest" deportation hearings in□
+particular. If a qualified right of access is found to attach to□
+deportation hearings generally, the analysis then turns to□
+whether particular issues raised in individual cases□
+override the general limited right of access.□
+□
+Were the logic analysis focused only on special interest□
+cases, I would agree that national security would likely□
+trump the arguments in favor of access. Although□
+paramount in certain deportation cases--like terrorism--□
+national security is not generally implicated in the panoply□
+of deportation hearings that occur throughout the United□
+States. There are many grounds for deportation--marriage□
+fraud, moral turpitude convictions, and aggravated felonies,□
+_________________________________________________________________□
+□
+11. Courts have consistently applied Richmond Newspapers in this way.□
+See, e.g., Press-Enterprise II, 478 U.S. at 9 (preliminary hearings); Press-□
+Enterprise Co. v. Superior Court, 464 U.S. 501, 508 (1984) ("Press-□
+
+Enterprise I") (criminal trial voir dire); Richmond Newspapers, 448 U.S. at□
+580 (criminal trials); Detroit Free Press v. Ashcroft, 2002 WL 1972919□
+(6th Cir. 2002) (detention hearings); First Amendment Coalition, 784 F.2d□
+at 473 (judicial review proceedings); Smith, 776 F.2d at 1112 (bills of□
+particular); Publicker, 733 F.2d at 1069-70 (civil trials).□
+□
+                                44□
+□□
+□
+to name a few--that do not ordinarily implicate national□
+security.12 See 8 U.S.C.S 1227(a).□
+□
+Accordingly, the demands of national security under the□
+logic prong of Richmond Newspapers do not provide□
+sufficient justification for rejecting a qualified right of□
+access to deportation hearings in general. To conclude□
+otherwise would permit concerns relevant only to a discrete□
+class of cases to determine there is no qualified right of□
+access to any of the broad range of deportation□
+proceedings, a departure from Richmond Newspapers.□
+Whether national security interests justify closure of□
+individual deportation hearings is a question properly□
+addressed in the next step’s more particularized inquiry.□
+□
+III. Government Interests□
+□
+Having found a qualified right of access to deportation□
+hearings, the question remains whether the government□
+has a sufficient justification to "override the qualified First□
+Amendment right of access" by application of the Creppy□
+Directive. Press-Enterprise II, 478 U.S. at 9.□
+□
+Where a qualified right of access has been found, courts□
+ordinarily have required a substantial showing to deny□
+access. "The presumption of openness may be overcome□
+only by an overriding interest based on findings that□
+closure is essential to preserve higher values and is□
+narrowly tailored to serve that interest." Press-Enterprise I,□
+464 U.S. at 510. There must be "a substantial probability"□
+that openness will interfere with these interests. Press-□
+Enterprise II, 478 U.S. at 14. Closure is appropriate only if□
+"reasonable alternatives to closure" are not available to□
+protect the government’s interests. Id. It bears noting,□
+_________________________________________________________________□
+□
+12. National security presents similar challenges in some criminal□
+prosecutions. See 50 U.S.C. S 1801 et seq. (authorizing the Foreign□
+Intelligence Surveillance Court to issue search warrants in closed□
+proceedings to protect national security). But national security interests□
+have not been sufficient to reject a qualified right of access to criminal□
+trials in general. Instead, if access can be limited, it is because "national□
+security concerns about confidentiality may sometimes warrant closures"□
+as a "countervailing interest[ ] . . . sufficiently compelling to reverse this□
+presumption of openness." Richmond Newspapers , 448 U.S. at 598 &□
+n.24 (Brennan, J., concurring).□
+□
+                                45□
+□□
+□
+however, that these cases have not considered the□
+
+deference due the government in matters involving national□
+security.□
+□
+The District Court found the Creppy Directive failed to□
+pass muster under this test because, inter alia, 13 it was□
+"not persuaded that the more narrow method of in camera□
+disclosure of sensitive evidence . . . is not an acceptable□
+means of avoiding a compromise of the government’s□
+investigation." N. Jersey Media Group, Inc. v. Ashcroft, 205□
+F. Supp. 2d 288, 302 (D.N.J. 2002).□
+□
+The government contends it is entitled to greater□
+deference than is captured in this test because of two□
+independent considerations. First, it contends it enjoys□
+broad deference in the immigration area. And second, it□
+argues the District Court erred in failing to afford it the□
+special deference due the political branches in matters□
+concerning national security.□
+□
+The District Court undervalued the deference due the□
+government in national security cases.14  Id. at 301-02.□
+Courts have consistently recognized the need for□
+"heightened deference to the judgments of the political□
+_________________________________________________________________□
+□
+13. The District Court also found the Creppy Directive inadequate to the□
+extent it is not fully effective at blocking public access to sensitive□
+information, since the information might become public by any of several□
+other means. N. Jersey Media Group, 205 F. Supp. 2d at 301. In my□
+view, the government’s rejoinder effectively disposes of this finding.□
+□
+14. Courts also must acknowledge the "immigration-related expertise of□
+the Executive Branch," and afford its judgments an appropriate level of□
+deference. Zadvydas v. Davis, 533 U.S. 678, 700 (2001). As the District□
+Court acknowledges, the government has traditionally enjoyed near-□
+plenary power to determine the substance of immigration law. Reno v.□
+Flores, 507 U.S. 292, 305 (1993); Yamayata v. Fisher, 189 U.S. 86, 100-□
+101 (1903). But the courts have been less likely to defer to the□
+government on procedural issues where constitutional rights may be□
+affected. Zadvydas, 533 U.S. at 695; INS v. Chadha, 462 U.S. 919, 941-□
+42 (1983). Even in this area, however, the Executive Branch is entitled□
+to a measure of deference given its primary responsibility over□
+immigration matters. Administrative law principles"counsel judges to□
+give expert agencies decisionmaking leeway in matters that invoke their□
+expertise." Zadvydas, 533 U.S. at 700. Therefore, executive decisions in□
+this area should be accorded a special degree of deference.□
+□
+                                46□
+□□
+□
+branches with respect to matters of national security" when□
+"terrorism or other special circumstances" are at issue.□
+Zadvydas, 533 U.S. at 696. A "principle of judicial□
+deference . . . pervades the area of national security."□
+Franklin v. Massachusetts, 505 U.S. 788, 818 (1992).□
+Consequently, courts have not demanded that the□
+government’s action be the one the court itself deems most□
+appropriate in "cases involving discrete categories of□
+governmental action in which there are special reasons to□
+defer to the judgment of the political branches." Church of□
+
+the Lukumi Babalu Aye, Inc. v. City of Hialeah, 508 U.S.□
+520, 570 n.5 (1993) (Souter, J., concurring); see also□
+Rostker v. Goldberg, 453 U.S. 57, 70 (1981).□
+□
+On the other hand, deference is not a basis for abdicating□
+our responsibilities under the First Amendment. Rostker,□
+453 U.S. at 67; United States v. United States Dist. Court,□
+407 U.S. 297 (1972) ("domestic security" not a sufficient□
+basis for relaxing warrant requirement; independent□
+assessment of surveillance needs by magistrate generally□
+required); New York Times Co. v. United States , 403 U.S.□
+713, 714 (1971); United States v. Robel, 389 U.S. 258, 264□
+(1967) ("Even the war power does not remove constitutional□
+limitations safeguarding essential liberties. . . . Implicit in□
+the term ‘national defense’ is the notion of defending those□
+values and ideals which set this Nation apart.") (internal□
+quotation omitted). At issue is whether the Creppy Directive□
+constitutes an impermissible restriction on the press and□
+public’s right of access to deportation hearings. Moreover,□
+there is no apparent reason to abandon the traditional□
+framework for assessing the relative force of the□
+government’s interests as against the right of access, so□
+long as deference is afforded the judgments of the Executive□
+Branch in these matters. Cf. Rostker, 453 U.S. at 70 ("We□
+do not think that the . . . law will be advanced by any□
+further ‘refinement’ in the applicable tests as suggested by□
+the Government" to accommodate deference in military□
+affairs.).□
+□
+In this case, the government’s asserted interest--national□
+security--is exceedingly compelling. Closure in some--or□
+perhaps all--special interest cases may be necessary and□
+appropriate. In fact, the Department of Justice regulations,□
+□
+                                47□
+□□
+□
+enacted in 1964, expressly authorize an Immigration Judge□
+to hold closed hearings to protect the public interest. But□
+the question remains whether the Creppy Directive’s□
+blanket closure rule--which removes the decision to close□
+the hearing from the Immigration Judge on a case-by-case□
+basis--is reasonably necessary for the protection of□
+national security.□
+□
+The government contends that a case-by-case closure of□
+removal proceedings would permit the release of sensitive□
+information, potentially revealing sources, patterns and□
+methods of investigation. But there is no reason that all of□
+the information related to a particular detainee cannot be□
+kept from public view. Even the initial determination to□
+close a proceeding--and to seal the entire record--can be□
+accomplished in camera and under seal. The government□
+need only make the required showing of special interest,□
+under seal to the Immigration Judge, subject to appellate□
+review. In making their determinations, Immigration Judges□
+should grant substantial deference to national security□
+interests. A similar procedural framework has proven□
+workable with criminal prosecutions.15 □
+□
+
+The government maintains that these protections would□
+be ineffective given the complexities in combating terrorism.□
+It contends that individual, seemingly innocuous pieces of□
+information, including a special interest alien’s name, could□
+be harmful to national security when compiled by terrorists□
+into a mosaic. This seems correct. Nevertheless, the□
+government could make the same argument to an□
+Immigration Judge, who could determine, with substantial□
+_________________________________________________________________□
+□
+15. The Classified Information Procedures Act provides for pretrial□
+conferences and motion hearings to determine limits on the use and□
+disclosure of classified and national security related information in□
+criminal prosecutions. 18 U.S.C. App. 3 SS 2-4, 6, 8. These proceedings□
+may be held in camera and, in certain circumstances, ex parte. Id. SS 2-□
+4, 6; United States v. Kilmavicius-Viloria, 144 F.3d 1249, 1260-61 (9th□
+Cir. 1998). Congress also has created the Foreign Intelligence□
+Surveillance Court to hold closed reviews of search warrant requests on□
+a case-by-case basis, rejecting a framework where the Department of□
+Justice makes its own judgments on these matters in national security□
+cases. 50 U.S.C. S 1801 et seq.□
+□
+                                48□
+□□
+□
+deference, that the apparently innocuous information□
+provides appropriate grounds for closure.□
+□
+The Watson Declaration also expresses the fear that open□
+deportation hearings could provide evidence to terrorists□
+that certain border crossings offer a greater chance for□
+illegal entry than others. At oral argument, government□
+counsel offered an intriguing hypothetical where open□
+hearings would reveal evidence that 0-of-30 terrorists had□
+entered the United States successfully through□
+Philadelphia, while the rate was 30-of-30 in New York City.□
+Here too, however, the government could make this□
+argument during a closed preliminary hearing at which the□
+Immigration Judge, with appropriate deference to national□
+security, could assess the government’s concerns about□
+publicizing patterns of information.□
+□
+The Creppy Directive and the pre-existing Department of□
+Justice regulations both accommodate the government’s□
+national security responsibilities. But a case-by-case□
+approach would permit an Immigration Judge to□
+independently assess the balance of these fundamental□
+values.16 Because this is a reasonable alternative, the□
+Creppy Directive’s blanket closure rule is constitutionally□
+infirm.17 As the Supreme Court reasoned in Globe□
+Newspaper:□
+□
+       We emphasize that our holding is a narrow one: that a□
+       rule of mandatory closure . . . is constitutionally□
+       infirm. In individual cases, and under appropriate□
+       circumstances, the First Amendment does not□
+       necessarily stand as a bar to the exclusion from the□
+       courtroom of the press and general public . . . . But a□
+_________________________________________________________________□
+□
+
+16. As noted, the Department of Justice regulations permit an□
+Immigration Judge to close deportation hearings in their entirety in order□
+to protect the public interest. This closure is broader in scope than what□
+is likely to occur in criminal prosecutions because immigration□
+proceedings call for greater deference to the government on matters of□
+national security.□
+□
+17. As noted, the Supreme Court held in Press-Enterprise II that a□
+restriction on a qualified right of access fails if there are "reasonable□
+alternatives to closure." 478 U.S. at 14.□
+□
+                                49□
+□□
+□
+       mandatory rule, requiring no particularized□
+       determinations in individual cases, is unconstitutional.□
+□
+457 U.S. at 611 n.27.□
+□
+The stakes are high. Cherished traditions of openness□
+have come up against the vital and compelling imperatives□
+of national security. Because I believe national security□
+interests can be fully accommodated on a case-by-case□
+basis, I would affirm that part of the District Court’s□
+judgment.□
+□
+IV. Nationwide Injunction□
+□
+The final issue is whether the scope of the District□
+Court’s nationwide injunction is overbroad. The grant of a□
+permanent injunction is reviewed for abuse of discretion.□
+Nutrasweet Co. v. Vit-Mar Enters., Inc., 176 F.3d 151, 153□
+(3d Cir. 1999). I would hold that the District Court abused□
+its discretion by issuing a nationwide injunction that bars□
+enforcement of the Creppy Directive in any special interest□
+proceeding and against any member of the general public□
+or press. A narrower remedy will provide full relief to□
+plaintiffs and allow other courts to explore this difficult□
+constitutional question.□
+□
+Generally, a plaintiff is only entitled to relief for itself.□
+Ameron, Inc. v. U.S. Army Corps of Eng’rs, 787 F.2d 875,□
+888 (3d Cir. 1986). In the First Amendment context,□
+"although the occasional case requires us to entertain a□
+facial challenge in order to vindicate a party’s right not to□
+be bound by an unconstitutional statute, we neither want□
+nor need to provide relief to nonparties when a narrower□
+remedy will fully protect the litigants." United States v. Nat’l□
+Treasury Employees Union, 513 U.S. 454, 477-78 (1995)□
+(citation omitted). In this case, injunctive relief should□
+apply only to those parties actually before the court if that□
+relief fully protects the litigants. See Ameron , 787 F.2d at□
+890.□
+□
+Furthermore, where the government is involved in□
+litigation, a court should not "thwart the development of□
+important questions of law by freezing the first final□
+decision rendered on a particular legal issue." United States□
+v. Mendoza, 464 U.S. 154, 160 (1984). Because□
+□
+
+                                50□
+□□
+□
+constitutional proscriptions frequently challenge□
+governmental action, different parties will likely assert the□
+same constitutional claim against the government. Id.□
+Where this happens, the Supreme Court has said that□
+"[a]llowing only one final adjudication would deprive this□
+Court of the benefit it receives from permitting several□
+courts of appeals to explore a difficult question before this□
+Court grants certiorari." Id.□
+□
+In this case, the only plaintiffs are North Jersey Media□
+Group and New Jersey Law Journal. An injunction□
+protecting these plaintiffs alone would remedy any violation□
+of plaintiffs’ First Amendment rights. Enjoining enforcement□
+of the Creppy Directive against other parties goes beyond□
+providing relief to plaintiffs, and it deprives the Supreme□
+Court of the opportunity to review the decisions of several□
+courts of appeals. For these reasons, I would reverse the□
+District Court’s nationwide injunction.□
+□
+A True Copy:□
+Teste:□
+□
+       Clerk of the United States Court of Appeals□
+       for the Third Circuit□
+□
+                                51

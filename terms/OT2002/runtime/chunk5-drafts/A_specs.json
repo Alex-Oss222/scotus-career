@@ -1,0 +1,251 @@
+[
+  {
+    "file": "Boeing-Co-v-United-States_merits_2003-03-04.md",
+    "case": "Boeing Co. v. United States",
+    "date": "2003-03-04",
+    "form": "signed opinion of the Court; one opinion for the consolidated dockets; straightforward dissent",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_pool_fit_order": [
+      {
+        "justice": "Kennedy",
+        "reason": "His Haggar, Mead, and United Dominion formulations distinguish actual delegated authority from the operative computation and directly meet this regulatory conflict."
+      },
+      {
+        "justice": "Ginsburg",
+        "reason": "Her source-specific joins support harmonizing the separate export-grouping and research-allocation texts without rewriting either."
+      },
+      {
+        "justice": "Breyer",
+        "reason": "His Fior D’Italia allocation reasoning explains an administrable category while preserving the statutory tax base."
+      },
+      {
+        "justice": "Stone-Zsela",
+        "reason": "The approved delegation-first analysis closely separates legal validity, functional research connection, and tax computation."
+      },
+      {
+        "justice": "Souter",
+        "reason": "His frozen position clearly explains the distinct work of pricing groups and expense classification."
+      },
+      {
+        "justice": "O'Connor",
+        "reason": "Her commitments preserve enforceable statutory boundaries while accepting lawful tax allocation."
+      },
+      {
+        "justice": "Stevens",
+        "reason": "His Yellow Transportation distinction supplies a precise actual-authority threshold."
+      }
+    ]
+  },
+  {
+    "file": "Clay-v-United-States_merits_2003-03-04.md",
+    "case": "Clay v. United States",
+    "date": "2003-03-04",
+    "form": "signed unanimous opinion of the Court; no separate writing",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_pool_fit_order": [
+      {
+        "justice": "Ginsburg",
+        "reason": "Her Lindh and Artuz opinions distinguish statutory context and procedural categories, directly answering the omission argument."
+      },
+      {
+        "justice": "O'Connor",
+        "reason": "Her Duncan opinion separates actual timing categories from other collateral requirements and gives the deadline a clear operational statement."
+      },
+      {
+        "justice": "Thomas",
+        "reason": "His frozen textual ground applies the specified finality event without substituting an unexpressed mandate trigger."
+      },
+      {
+        "justice": "Scalia",
+        "reason": "His Artuz and Duncan positions answer the statutory variation argument without an equitable extension."
+      },
+      {
+        "justice": "Stone-Zsela",
+        "reason": "The approved position cleanly separates the statutory clock from procedure and collateral relief."
+      },
+      {
+        "justice": "Kennedy",
+        "reason": "His deadline-focused commitment supplies a determinate finality event while preserving independent requirements."
+      },
+      {
+        "justice": "Souter",
+        "reason": "His contextual construction explains why the fuller neighboring text does not displace ordinary finality."
+      },
+      {
+        "justice": "Stevens",
+        "reason": "His established procedural distinctions support the ordinary direct-review meaning without a merits inference."
+      },
+      {
+        "justice": "Breyer",
+        "reason": "His frozen explanation connects the enacted term to the real review sequence and a predictable one-year calculation."
+      }
+    ]
+  },
+  {
+    "file": "United-States-v-Navajo-Nation_merits_2003-03-04.md",
+    "case": "United States v. Navajo Nation",
+    "date": "2003-03-04",
+    "form": "signed opinion of the Court; dissent with one expressly limited join",
+    "eligible_authors": [
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Scalia",
+    "recommended_pool_fit_order": [
+      {
+        "justice": "Ginsburg",
+        "reason": "Her source-first commitment most directly states why this approval regime differs from a statutory trust in government-used assets."
+      },
+      {
+        "justice": "Kennedy",
+        "reason": "His Chickasaw and Kiowa analyses separate the actual statutory subject from the authority to sue and the remedy."
+      },
+      {
+        "justice": "Scalia",
+        "reason": "His MCI and source-specific tribal-law positions give a precise answer to inferring compensable responsibility from purpose or misconduct."
+      },
+      {
+        "justice": "Thomas",
+        "reason": "His frozen ground consistently distinguishes legally assigned duties from practical governmental influence."
+      },
+      {
+        "justice": "Breyer",
+        "reason": "His reconciled position can explain why a functional loyalty concern still requires the particular substantive source."
+      }
+    ]
+  },
+  {
+    "file": "United-States-v-White-Mountain-Apache-Tribe_merits_2003-03-04.md",
+    "case": "United States v. White Mountain Apache Tribe",
+    "date": "2003-03-04",
+    "form": "signed opinion of the Court; dissent",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "opinion_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "judgment_coalition": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "recommended_pool_fit_order": [
+      {
+        "justice": "Souter",
+        "reason": "His Idaho analysis identifies the legal incidents of an enacted beneficial estate and his frozen ground connects preservation with defined control."
+      },
+      {
+        "justice": "Stone-Zsela",
+        "reason": "His approved formulation sharply separates statutory duty, compensation threshold, and asset-specific proof and remedy."
+      },
+      {
+        "justice": "O'Connor",
+        "reason": "Her source-sensitive commitment distinguishes this express occupied trust from an inference based on regulatory supervision."
+      },
+      {
+        "justice": "Stevens",
+        "reason": "His Mitchell positions support giving the expressed trust concrete preservation consequences."
+      },
+      {
+        "justice": "Breyer",
+        "reason": "His frozen functional explanation makes preservation an incident of the enacted relationship while keeping immunity separate."
+      },
+      {
+        "justice": "Ginsburg",
+        "reason": "Her source-first clarification carries the complete majority ground while preserving its threshold sequence."
+      }
+    ]
+  }
+]

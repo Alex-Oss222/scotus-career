@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 4 have produced 55 completed event Records covering 52 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 5 is the next supplied chunk.
+Chunks 1 through 5 have produced 67 completed event Records covering 64 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 6 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 52 completed and 128 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
+The manifest preserves all 180 scheduled rows: 64 completed and 116 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
 
 ## Completed public actions
 
@@ -27,6 +27,7 @@ The manifest preserves all 180 scheduled rows: 52 completed and 128 remaining. C
 | 2002-11-05 | In re Dow Corning Corp. | The Sixth Circuit's judgment is vacated insofar as it recognizes the disputed permanent-release authority, and the matter is remanded. | `terms/OT2002/records/In-re-Dow-Corning-Corp_merits_2002-11-05.md` |
 | 2002-11-05 | Syngenta Crop Protection, Inc. v. Henson | The Eleventh Circuit’s jurisdictional judgment is affirmed. | `terms/OT2002/records/Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md` |
 | 2002-11-05 | Yellow Transportation, Inc. v. Michigan | The judgment of the Michigan Supreme Court is reversed, and the case is remanded. | `terms/OT2002/records/Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md` |
+| 2002-11-18 | Henderson v. Stalder | The judgment is affirmed in part, vacated in part, and the case is remanded. | `terms/OT2002/records/Henderson-v-Stalder_merits_2002-11-18.md` |
 | 2002-12-03 | Sprietsma v. Mercury Marine | The Illinois Supreme Court's preemption judgment is reversed and the case is remanded. | `terms/OT2002/records/Sprietsma-v-Mercury-Marine_merits_2002-12-03.md` |
 | 2002-12-10 | Abdur'Rahman v. Bell | The January 18 and February 11 orders are vacated only insofar as they categorically refuse corrective remand of the separable default-reopening request in original appellate Nos. 98-6568/6569. The case is remanded for separation and lawful processing of that request. The distinct transfer-appeal dismissal and certificate denial in No. 01-6504 remain undisturbed. Review of the actual authorization denial is dismissed. | `terms/OT2002/records/AbdurRahman-v-Bell_merits_2002-12-10.md` |
 | 2002-12-10 | Howsam v. Dean Witter Reynolds, Inc. | The Tenth Circuit's judgment is reversed, and the case is remanded for proceedings consistent with arbitral resolution of the NASD eligibility issue. | `terms/OT2002/records/Howsam-v-Dean-Witter-Reynolds-Inc_merits_2002-12-10.md` |
@@ -59,8 +60,19 @@ The manifest preserves all 180 scheduled rows: 52 completed and 128 remaining. C
 | 2003-02-25 | Washington State Department of Social and Health Services v. Guardianship Estate of Keffeler | The Court reverses the categorical §407 ruling and remands the resulting relief for treatment consistent with the surviving properly presented claims. | `terms/OT2002/records/Washington-State-DSHS-v-Guardianship-Estate-of-Keffeler_merits_2003-02-25.md` |
 | 2003-02-26 | Scheidler v. National Organization for Women, Inc. | The Court reverses the reviewed RICO judgment and vacates its associated treble damages and nationwide injunction in both consolidated dockets. | `terms/OT2002/records/Scheidler-v-National-Organization-for-Women-Inc_merits_2003-02-26.md` |
 | 2003-03-03 | Steele v. Industrial Development Board of Metropolitan Government of Nashville and Davidson County | Affirmed in part, vacated in part, and remanded, 7–2. | `terms/OT2002/records/Steele-v-Industrial-Development-Board_merits_2003-03-03.md` |
+| 2003-03-04 | Adland v. Russ | The judgment is affirmed. | `terms/OT2002/records/Adland-v-Russ_merits_2003-03-04.md` |
+| 2003-03-04 | Boeing Co. v. United States | The Court affirms the judgments in both consolidated dockets. | `terms/OT2002/records/Boeing-Co-v-United-States_merits_2003-03-04.md` |
+| 2003-03-04 | Clay v. United States | The Court reverses the Seventh Circuit and remands for further proceedings on Clay’s motion. | `terms/OT2002/records/Clay-v-United-States_merits_2003-03-04.md` |
 | 2003-03-04 | McClendon v. City of Columbia | The Court affirms Carney's judgment on qualified immunity and preserves the City's independent judgment. | `terms/OT2002/records/McClendon-v-City-of-Columbia_merits_2003-03-04.md` |
 | 2003-03-04 | Moseley v. V Secret Catalogue, Inc. | The Court reverses the dilution summary judgment, vacates its dependent injunction and remands. | `terms/OT2002/records/Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md` |
+| 2003-03-04 | North Jersey Media Group, Inc. v. Ashcroft | The judgment is vacated and the case is remanded. | `terms/OT2002/records/North-Jersey-Media-Group-Inc-v-Ashcroft_merits_2003-03-04.md` |
+| 2003-03-04 | United States v. Navajo Nation | The Court reverses the Federal Circuit and remands for proceedings consistent with rejection of the asserted IMLA damages theory. | `terms/OT2002/records/United-States-v-Navajo-Nation_merits_2003-03-04.md` |
+| 2003-03-04 | United States v. Wagoner County Real Estate | The Court affirms the judgment on the two reviewed federal questions. | `terms/OT2002/records/United-States-v-Wagoner-County-Real-Estate_merits_2003-03-04.md` |
+| 2003-03-04 | United States v. White Mountain Apache Tribe | The Court affirms the Federal Circuit and remands for further proceedings in the Court of Federal Claims. | `terms/OT2002/records/United-States-v-White-Mountain-Apache-Tribe_merits_2003-03-04.md` |
+| 2003-03-05 | Connecticut Department of Public Safety v. Doe | The Court reverses the procedural-due-process judgment and its dangerousness-hearing injunction. | `terms/OT2002/records/Connecticut-Department-of-Public-Safety-v-Doe_merits_2003-03-05.md` |
+| 2003-03-05 | Ewing v. California | The Court reverses the sentence and remands for lawful resentencing. | `terms/OT2002/records/Ewing-v-California_merits_2003-03-05.md` |
+| 2003-03-05 | Lockyer v. Andrade | The Court affirms entitlement to conditional sentence relief and remands for its implementation. | `terms/OT2002/records/Lockyer-v-Andrade_merits_2003-03-05.md` |
+| 2003-03-05 | Tenafly Eruv Association, Inc. v. Borough of Tenafly | The judgment directing preliminary protection is affirmed, and the case is remanded for its implementation and further proceedings. | `terms/OT2002/records/Tenafly-Eruv-Association-Inc-v-Borough-of-Tenafly_merits_2003-03-05.md` |
 | 2003-03-17 | National Electrical Manufacturers Association v. Sorrell | The Court affirms vacatur of the preliminary injunction and remands. | `terms/OT2002/records/National-Electrical-Manufacturers-Association-v-Sorrell_merits_2003-03-17.md` |
 | 2003-03-24 | A Woman's Choice–East Side Women's Clinic v. Newman | Reversed and remanded for restoration and implementation of the limited in-person-delivery injunction, 6–3. | `terms/OT2002/records/A-Womans-Choice-v-Newman_merits_2003-03-24.md` |
 | 2003-03-24 | Commack Self-Service Kosher Meats, Inc. v. Weiss | Affirmed, 9–0. | `terms/OT2002/records/Commack-Self-Service-Kosher-Meats-v-Weiss_merits_2003-03-24.md` |
@@ -151,6 +163,12 @@ All Writs and ancillary-enforcement theories cannot remove an action lacking ind
 Source: `terms/OT2002/records/Yellow-Transportation-Inc-v-Michigan_merits_2002-11-05.md`.
 
 Qualifying reciprocity remains part of the benchmark under the ICC's valid replacement-system rule. Generic statewide rates alone cannot displace that rule. Carrier-specific qualification, the correct registration period, preserved later-criterion questions and the refund calculation remain ordinary application work. The decision changes no general administrative-deference framework and makes no statutory entitlement out of every informal concession.
+
+### 2002-11-18 — Henderson v. Stalder
+
+Source: `terms/OT2002/records/Henderson-v-Stalder_merits_2002-11-18.md`.
+
+Personal exclusion from a governmental participation opportunity may be redressed by ending the challenged unequal treatment even when the claimant will receive neither the favored message nor the grant. Courts must apply that rule claimant by claimant to the pleaded opportunity, causal barrier and lawful relief. The threshold inquiry preserves separate taxpayer, religious and statutory jurisdictional requirements; renewed interim protection requires its own supporting findings.
 
 ### 2002-12-03 — Sprietsma v. Mercury Marine
 
@@ -344,6 +362,24 @@ Source: `terms/OT2002/records/Steele-v-Industrial-Development-Board_merits_2003-
 
 Government-issued project bonds do not create a categorical escape from financed-function review. Lower courts must examine the supported uses and practical restrictions, preserving lawful secular financing and correcting proved devotional financing. Municipal standing here rests on a supported probable local fiscal effect; no general standing rule based on objection to public financing is adopted.
 
+### 2003-03-04 — Adland v. Russ
+
+Source: `terms/OT2002/records/Adland-v-Russ_merits_2003-03-04.md`.
+
+A government’s historical presentation of religious material is evaluated by its actual attribution and function under Agostini. An official display that proclaims religious teaching as the foundation of present civil authority crosses the constitutional line even when labeled historical and surrounded by secular memorials. The permanent restraint here governs Kentucky’s identified Section 8 arrangement; a different historical proposal is subject to the same functional inquiry.
+
+### 2003-03-04 — Boeing Co. v. United States
+
+Source: `terms/OT2002/records/Boeing-Co-v-United-States_merits_2003-03-04.md`.
+
+The governing DISC and FSC provisions permit Treasury's research-specific allocation across the applicable transportation-equipment category for these tax years. The taxpayer's accepted transaction grouping determines how the pricing alternatives are applied, while the incorporated research rule supplies the expense allocation. The delegation-first method remains the governing review rule; this decision adds the answer to the particular grouping and allocation conflict.
+
+### 2003-03-04 — Clay v. United States
+
+Source: `terms/OT2002/records/Clay-v-United-States_merits_2003-03-04.md`.
+
+For federal convictions affirmed on direct appeal without a certiorari petition, the ordinary §2255 one-year period runs from expiration of the time to seek certiorari. Courts must use that lawful expiration date in the statutory calculation. The rule resolves the finality trigger that produced the dismissal here and governs comparable pending disputes under that trigger.
+
 ### 2003-03-04 — McClendon v. City of Columbia
 
 Source: `terms/OT2002/records/McClendon-v-City-of-Columbia_merits_2003-03-04.md`.
@@ -355,6 +391,54 @@ Qualified-immunity review considers relevant persuasive law and obvious applicat
 Source: `terms/OT2002/records/Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md`.
 
 The 1995 Act requires actual dilution rather than likelihood alone, while allowing ordinary direct and circumstantial proof before distinct economic loss. Association is evidence of recognition, not automatically impairment. The current record cannot support the dilution judgment or its injunction.
+
+### 2003-03-04 — North Jersey Media Group, Inc. v. Ashcroft
+
+Source: `terms/OT2002/records/North-Jersey-Media-Group-Inc-v-Ashcroft_merits_2003-03-04.md`.
+
+Qualified public and press access covers adversarial deportation adjudication. Officials must substantiate necessary closure through a protected, reviewable determination of the threatened interest, fit and reasonable alternatives; common investigative evidence and complete closure remain available when justified. Special-interest designation alone cannot provide that determination. Preliminary protection and its reach must be adjudicated under this right, the remaining equitable requirements and the plaintiffs’ established injury.
+
+### 2003-03-04 — United States v. Navajo Nation
+
+Source: `terms/OT2002/records/United-States-v-Navajo-Nation_merits_2003-03-04.md`.
+
+The identified IMLA coal-lease approval and royalty provisions do not support the compensable fiduciary duty asserted in this claim. The Indian Tucker Act's waiver remains distinct from the substantive source; alleged interference with tribal bargaining must be tied to a legally established duty before this monetary liability can follow. That source-specific determination governs the case on remand.
+
+### 2003-03-04 — United States v. Wagoner County Real Estate
+
+Source: `terms/OT2002/records/United-States-v-Wagoner-County-Real-Estate_merits_2003-03-04.md`.
+
+A conflicting state homestead exemption cannot defeat a federal §881(a)(7) forfeiture that satisfies the applicable federal conditions. The punitive exaction remains subject to gross-disproportionality review on supported material findings. The federal statutory liability and the constitutional amount are separate determinations; the remand supplies the factual and remedial work needed to apply the existing constitutional rule to Lees's interest.
+
+### 2003-03-04 — United States v. White Mountain Apache Tribe
+
+Source: `terms/OT2002/records/United-States-v-White-Mountain-Apache-Tribe_merits_2003-03-04.md`.
+
+An express statutory trust over identified tribal property, coupled with the Government's retained and exercised use or control, carries reasonable preservation responsibility for that controlled property and supports compensation for breach-caused loss. The waiver/source distinction remains intact. Lower courts must identify the legally entrusted assets and responsibility before applying trust principles, then determine breach and loss under the established duty.
+
+### 2003-03-05 — Connecticut Department of Public Safety v. Doe
+
+Source: `terms/OT2002/records/Connecticut-Department-of-Public-Safety-v-Doe_merits_2003-03-05.md`.
+
+For a registrant in Doe's position, procedural due process requires an opportunity to contest material authorizing facts, not current dangerousness when that fact cannot change the applicable conviction-based inclusion. W.P.'s protections for legally operative risk determinations and Paul P.'s independent residential-disclosure safeguards retain their separate force. The substantive-due-process claim was expressly disavowed and remains outside this decision.
+
+### 2003-03-05 — Ewing v. California
+
+Source: `terms/OT2002/records/Ewing-v-California_merits_2003-03-05.md`.
+
+The narrow proportionality principle invalidates this offense, serious-prior-record and minimum-sentence combination. Recidivism receives substantial weight while the present offense and actual release minimum retain constitutional significance. California retains authority to impose a substantial lawful enhancement; the replacement term is determined through resentencing under that limit.
+
+### 2003-03-05 — Lockyer v. Andrade
+
+Source: `terms/OT2002/records/Lockyer-v-Andrade_merits_2003-03-05.md`.
+
+Section 2254(d)(1) remains an objective restriction distinct from the underlying constitutional claim. This actual fifty-year minimum for the two low-value thefts, with the serious priors and separate occasions considered, crosses both boundaries. Courts must assess the sentence as imposed and identify the earlier substantive holding before independently establishing the statutory defect, actual violation and available remedy. Present review-method cases do not move the date of the substantive law governing the state adjudication.
+
+### 2003-03-05 — Tenafly Eruv Association, Inc. v. Borough of Tenafly
+
+Source: `terms/OT2002/records/Tenafly-Eruv-Association-Inc-v-Borough-of-Tenafly_merits_2003-03-05.md`.
+
+Actual administration governs religious neutrality. Municipalities must justify selective burdens on religious attachments under strict scrutiny when substantial comparable uses are tolerated, and the comparison must follow the real safety, property and visual interests invoked. Equal treatment of this privately maintained eruv is compatible with the Establishment Clause. The association receives interim protection under those rules while the merits and any permanent relief proceed.
 
 ### 2003-03-17 — National Electrical Manufacturers Association v. Sorrell
 
@@ -644,6 +728,20 @@ Source: `terms/OT2002/records/Steele-v-Industrial-Development-Board_merits_2003-
 
 **Scalia, dissenting, joined by Thomas.** The dissent accepts the finding that some taxable borrowing probably would have occurred. Its objection is legal: Frothingham’s municipal exception concerns the taxpayer’s relation to municipal moneys, while this arrangement uses private capital, private repayment and no public guarantee. A probable tax on a different transaction does not create a proprietary interest in revenue never owed under the actual transaction. Under Lujan’s injury rule and the dissenters’ Laidlaw position, the action should be dismissed before reaching establishment. Their requested remedy is vacatur of the merits adjudications and jurisdictional dismissal.
 
+### 2003-03-04 — Adland v. Russ
+
+Source: `terms/OT2002/records/Adland-v-Russ_merits_2003-03-04.md`.
+
+- Kennedy, joined by Scalia and Thomas; dissent in Adland v. Russ, March 4, 2003: the identified monument, attributed historical statements and civic memorial setting constitute permissible commemoration rather than adoption of theology as current governmental truth. Governmental attribution alone is insufficient; the dissent would dissolve this injunction under Agostini while preserving its prohibition on actual official religious adoption. This is noncontrolling application and remedial disagreement.
+
+Kennedy, joined by Scalia and Thomas, agrees that the plaintiffs’ prospective encounter and the sufficiently defined proposal permit review. He also applies Agostini’s distinction between historical explanation and official religious adoption. The disagreement concerns the function of this arrangement. In the dissent’s view, the inherited artifact, attributed statements of historical figures and civic memorial setting commemorate the asserted contribution of religion to law rather than adopt the monument’s theology as present governmental truth. Public attribution settles whose presentation it is, but does not settle what it does. Robinson’s continuing civic-seal prohibition does not turn every official acknowledgment of religious influence into a profession of faith; neither that decision nor Agostini demands an academically complete legal-history exhibit. The religious language requires consideration, but the dissent reads the resolution as a historical account rather than an invitation to accept religious commands through current civil authority. Kennedy would dissolve the injunction against the described proposal. This reasoning does not depend on coercion as the exclusive Establishment Clause rule.
+
+### 2003-03-04 — Boeing Co. v. United States
+
+Source: `terms/OT2002/records/Boeing-Co-v-United-States_merits_2003-03-04.md`.
+
+Scalia’s March 4, 2003 dissent, joined by Thomas, reads the specific export-grouping provisions as controlling cost attribution as well as pricing; a generic research category may not defeat that accepted choice. Immediate deduction of research with no current receipts is not itself a sufficient objection to the chosen attribution class. The writing would reverse both consolidated dockets and require consistent computation, with amounts proved in the refund process. These propositions are noncontrolling. No additional separate position is published.
+
 ### 2003-03-04 — McClendon v. City of Columbia
 
 Source: `terms/OT2002/records/McClendon-v-City-of-Columbia_merits_2003-03-04.md`.
@@ -657,6 +755,48 @@ Stone distinguishes DeShaney's omission, Pinder's assurances and Uhlrig's reserv
 Source: `terms/OT2002/records/Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md`.
 
 Moseley v. V Secret Catalogue, Inc., March 4, 2003 — Kennedy concurs, joined by no other Justice, while joining the Court's opinion in full. The famous mark's protected identifying capacity has present and potential value. Reliable evidence of probable consequences can support an inference of actual weakening and permit prompt equitable protection before distinct lost sales or other downstream harm occurs. Actual dilution therefore need not mean destruction of the mark or an impractical exclusive evidence format. His point preserves the enacted actual-impairment requirement; mere association or unsupported likelihood is insufficient. This additional explanation is noncontrolling.
+
+### 2003-03-04 — North Jersey Media Group, Inc. v. Ashcroft
+
+Source: `terms/OT2002/records/North-Jersey-Media-Group-Inc-v-Ashcroft_merits_2003-03-04.md`.
+
+- Stone-Zsela; concurrence in North Jersey Media Group, Inc. v. Ashcroft, March 4, 2003: would presume relief reaches those governed by a proved common closure practice unless officials establish a narrower complete cure; would require the identified practical closure procedure and continuing justification. This additional remedial presumption and burden are noncontrolling.
+
+Stone-Zsela joins the Court’s opinion and would additionally presume that relief against a proved common closure practice reaches those governed by that practice unless officials show that a narrower decree completely cures the violation. The actual preliminary showing and adjudicated group would determine the decree’s reach. He would require a workable procedure before further designation-only exclusion: officials identify the protected information, proposed portions and duration, address reasonable alternatives and obtain a reasoned ruling. Short protective closure could preserve sensitive material pending expedited review. Continuing restrictions would require periodic justification; an inadequate basis would require reopening the relevant portion subject to review protecting unresolved classified material. This proposed allocation of the remedial burden is additional to the Court’s common ground.
+
+- O’Connor, joined by Scalia and Thomas; dissent, same case and date: the administrative openness tradition and procedural analogy do not establish the asserted First Amendment right in this proceeding; would affirm reversal of the First Amendment preliminary injunction on that ground. This is noncontrolling.
+
+O’Connor, joined by Scalia and Thomas, would affirm the reversal of the First Amendment preliminary injunction. Adversarial removal adjudication offers a stronger analogy to a courtroom than the prison preparations at issue in Woodford, but the dissent finds its administrative history insufficient to establish the asserted constitutional entitlement. The regulatory presumption of openness, statutory silence and procedural resemblance demonstrate reasons for public hearings without themselves supplying the historical constitutional foundation required by the access precedents. El Vocero addressed an already protected type of criminal adjudication across jurisdictions. The dissent preserves that distinction and does not decide whether this directive would satisfy closure scrutiny if a right attached. Its ground is absence of the established right in this proceeding, not Executive power to extinguish an established right by invoking security. It would leave any independently preserved regulatory question to its own proper adjudication.
+
+### 2003-03-04 — United States v. Navajo Nation
+
+Source: `terms/OT2002/records/United-States-v-Navajo-Nation_merits_2003-03-04.md`.
+
+Souter’s dissent, Part I, joined by Stone-Zsela, Stevens, and O’Connor, March 4, 2003, recognizes a compensable duty of loyal administration within legally necessary lease approval and review: the Secretary may not secretly favor the private counterparty and knowingly approve the distorted bargain. It would require proof of breach, the lawful economic outcome, and loss. Part II, joined by Stevens and O’Connor, additionally would require withholding approval when there is good reason to doubt a royalty is within a reasonable market range. Both constraints preserve tribal negotiation and reject a guaranteed maximum royalty. Stone’s join is confined to Part I. Both parts are noncontrolling. The majority’s contrary source determination governs current law.
+
+### 2003-03-04 — United States v. White Mountain Apache Tribe
+
+Source: `terms/OT2002/records/United-States-v-White-Mountain-Apache-Tribe_merits_2003-03-04.md`.
+
+Kennedy’s March 4, 2003 dissent, joined by Scalia and Thomas, reads the use reservation as capable of limiting the beneficial estate without undertaking maintenance at public expense; factual occupation and common-law analogy cannot supply an absent enacted duty. It also contests the step from a preservation obligation to personal funding liability given ordinary trustee indemnification. Those propositions are noncontrolling. The Ginsburg–Breyer source-first clarification is adopted by the complete Court coalition and generates no separate noncontrolling writing.
+
+### 2003-03-05 — Connecticut Department of Public Safety v. Doe
+
+Source: `terms/OT2002/records/Connecticut-Department-of-Public-Safety-v-Doe_merits_2003-03-05.md`.
+
+Connecticut Department of Public Safety v. Doe, March 5, 2003: Stevens's concurrence in the judgment recognizes a liberty burden and punitive operation in substantial registration duties and official stigma. A constitutionally adequate conviction proceeding supplies process for lawful prospective conviction-based burdens, so the dangerousness hearing is unnecessary. His affirmative foundation and prospective/retrospective distinction are noncontrolling; they do not decide an unpresented retrospective or substantive claim. The complete published summary appears in the Public Projection's Separate Writings block.
+
+### 2003-03-05 — Ewing v. California
+
+Source: `terms/OT2002/records/Ewing-v-California_merits_2003-03-05.md`.
+
+Ewing v. California, March 5, 2003: Kennedy, joined by O'Connor, would uphold the sentence under narrow gross proportionality because actual serious recidivism and parole eligibility permit the incapacitative judgment and defeat the exceptional initial inference. Scalia would affirm on his rejection of prison-duration proportionality and the administrability objection. Thomas independently rejects the constitutional foundation and a stare decisis obligation to retain Solem, without an assumed-application join. These are noncontrolling; the complete substantive summaries and exact joins appear in the Public Projection's Separate Writings block.
+
+### 2003-03-05 — Lockyer v. Andrade
+
+Source: `terms/OT2002/records/Lockyer-v-Andrade_merits_2003-03-05.md`.
+
+Lockyer v. Andrade, March 5, 2003: O'Connor's partial dissent, joined by Scalia, Kennedy and Thomas, accepts the statutory framework and full aggregate but considers the state result a reasonable application of the earlier law in light of serious recidivism, separate crimes and parole possibility. It would deny the writ without affirmatively deciding the sentence's constitutionality on direct review. Scalia and Thomas's join is statutory and does not endorse the proportionality foundation. These positions are noncontrolling; the complete published explanation and joins appear in the Public Projection's Separate Writings block.
 
 ### 2003-03-17 — National Electrical Manufacturers Association v. Sorrell
 
@@ -766,4 +906,4 @@ No further report, filing, deadline, or Court action is supplied.
 
 ## Future event controls
 
-The remaining 128 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 116 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.

@@ -1,0 +1,209 @@
+{
+  "events": [
+    {
+      "record": "Henderson-v-Stalder_merits_2002-11-18.md",
+      "author": "Thomas",
+      "prior_leads": 6,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        212,
+        175
+      ],
+      "sha256": "24bf535d71663ab2559d9b954ef8f664c6c96eb39e2a8802b5e72975f9b3889a"
+    },
+    {
+      "record": "Adland-v-Russ_merits_2003-03-04.md",
+      "author": "Breyer",
+      "prior_leads": 38,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        114,
+        264
+      ],
+      "sha256": "ce36e250c4cb28c5e826177ff4c48568da7f3c5e4183397337d053480a9da96d"
+    },
+    {
+      "record": "Boeing-Co-v-United-States_merits_2003-03-04.md",
+      "author": "Kennedy",
+      "prior_leads": 39,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Kennedy",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        199,
+        182
+      ],
+      "sha256": "b331fe7184b575cccaf07feafa222712d35f137422d0522029fda9bdba4a7157"
+    },
+    {
+      "record": "Clay-v-United-States_merits_2003-03-04.md",
+      "author": "Ginsburg",
+      "prior_leads": 40,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        226
+      ],
+      "sha256": "a9ce994750f1a2b88bf486c2871a6ec137d2e50d3dbb273f4d71e145d80b852b"
+    },
+    {
+      "record": "North-Jersey-Media-Group-Inc-v-Ashcroft_merits_2003-03-04.md",
+      "author": "Kennedy",
+      "prior_leads": 43,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Kennedy",
+        "Souter",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        193,
+        187,
+        146
+      ],
+      "sha256": "c4202e1ad8efe40b78234cd20924a88964dce0be097a964b35b7b8412f46b124"
+    },
+    {
+      "record": "United-States-v-Navajo-Nation_merits_2003-03-04.md",
+      "author": "Ginsburg",
+      "prior_leads": 44,
+      "pool": [
+        "Scalia",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        216
+      ],
+      "sha256": "eab0247ccad0d84433131fdc4fc6b3c2acf2f5643251b855c511d2db321ccb0f"
+    },
+    {
+      "record": "United-States-v-Wagoner-County-Real-Estate_merits_2003-03-04.md",
+      "author": "Thomas",
+      "prior_leads": 45,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Souter",
+        "Thomas"
+      ],
+      "explanation_words": [
+        157,
+        240
+      ],
+      "sha256": "b4887aba6c61a8f3bd26510f348d54f6a361c9a003839383786d90c51d837ab9"
+    },
+    {
+      "record": "United-States-v-White-Mountain-Apache-Tribe_merits_2003-03-04.md",
+      "author": "Souter",
+      "prior_leads": 46,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Souter"
+      ],
+      "explanation_words": [
+        223,
+        240
+      ],
+      "sha256": "a77202199128c71c39c4ca35a6977a0ad6110892ed2db87282ff6feb41ede24f"
+    },
+    {
+      "record": "Connecticut-Department-of-Public-Safety-v-Doe_merits_2003-03-05.md",
+      "author": "Stone-Zsela",
+      "prior_leads": 47,
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Scalia"
+      ],
+      "explanation_words": [
+        202
+      ],
+      "sha256": "1ac290c5391b7e1a76f6fb1e63e2ecf251547478030897d4c99b5fea15c24410"
+    },
+    {
+      "record": "Ewing-v-California_merits_2003-03-05.md",
+      "author": "Stevens",
+      "prior_leads": 48,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens"
+      ],
+      "explanation_words": [
+        267
+      ],
+      "sha256": "59db2cca3d371257d7a8fa595161722cef577bcf588237c860deba7b5333c6dc"
+    },
+    {
+      "record": "Lockyer-v-Andrade_merits_2003-03-05.md",
+      "author": "Souter",
+      "prior_leads": 49,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        144,
+        236,
+        163
+      ],
+      "sha256": "15806ec43bfb54d9386e591821f98bd5a60b5a3494f7dce5304fb1f6a395db55"
+    },
+    {
+      "record": "Tenafly-Eruv-Association-Inc-v-Borough-of-Tenafly_merits_2003-03-05.md",
+      "author": "Scalia",
+      "prior_leads": 50,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia"
+      ],
+      "explanation_words": [
+        224,
+        143
+      ],
+      "sha256": "afe6a237dd68ff881ba036b68e90d71aaf95974e802070b2a15fd4629511c646"
+    }
+  ],
+  "protected_files_unchanged": 119,
+  "handoff_hashes_verified": 17,
+  "record_count": 67,
+  "manifest_rows": 180,
+  "completed_scheduled_events": 64,
+  "remaining": 116,
+  "stopped": 0,
+  "render_input_exact": true,
+  "restricted_text_files_checked": 122,
+  "history_reference_check": "Not performed; reserved to operator",
+  "negative_statement_check": "Qualitative result documented in chunk validation; this script does not evaluate legal formulation"
+}

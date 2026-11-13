@@ -1,0 +1,59 @@
+Source: https://www.law.cornell.edu/supct/html/01-6978.ZS.html
+
+EWING V. CALIFORNIA
+
+ LII
+
+ Supreme Court 
+
+EWING V. CALIFORNIA (01-6978) 
+Affirmed.
+Syllabus
+ Opinion
+ [ O’Connor ]Concurrence
+ [ Scalia ]Concurrence
+ [ Thomas ]Dissent
+ [ Stevens ]Dissent
+ [ Breyer ]
+
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+EWING v. CALIFORNIA
+
+CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA, SECOND APPELLATE DISTRICT
+
+No. 01—6978. Argued November 5, 2002–Decided March 5, 2003
+
+Under California’s three strikes law, a defendant who is convicted of a felony and has previously been convicted of two or more serious or violent felonies must receive an indeterminate life imprisonment term. Such a defendant becomes eligible for parole on a date calculated by reference to a minimum term, which, in this case, is 25 years. While on parole, petitioner Ewing was convicted of felony grand theft for stealing three golf clubs, worth $399 apiece. As required by the three strikes law, the prosecutor formally alleged, and the trial court found, that Ewing had been convicted previously of four serious or violent felonies. In sentencing him to 25 years to life, the court refused to exercise its discretion to reduce the conviction to a misdemeanor–under a state law that permits certain offenses, known as “wobblers,” to be classified as either misdemeanors or felonies–or to dismiss the allegations of some or all of his prior relevant convictions. The State Court of Appeal affirmed. Relying on Rummel v. Estelle, 445 U.S. 263, it rejected Ewing’s claim that his sentence was grossly disproportionate under the Eighth Amendment and reasoned that enhanced sentences under the three strikes law served the State’s legitimate goal of deterring and incapacitating repeat offenders. The State Supreme Court denied review.
+
+Held: The judgment is affirmed.
+
+Affirmed.
+
+ Justice O’Connor, joined by The Chief Justice and Justice Kennedy, concluded that Ewing’s sentence is not grossly disproportionate and therefore does not violate the Eighth Amendment’s prohibition on cruel and unusual punishments. Pp. 8—18.
+
+ (a) The Eighth Amendment has a “narrow proportionality principle” that “applies to noncapital sentences.” Harmelin v. Michigan, 501 U.S. 957, 996—997 (Kennedy, J., concurring in part and concurring in judgment). The Amendment’s application in this context is guided by the principles distilled in Justice Kennedy’s concurrence in Harmelin: “[T]he primacy of the legislature, the variety of legitimate penological schemes, the nature of our federal system, and the requirement that proportionality review be guided by objective factors” inform the final principle that the “Eighth Amendment does not require strict proportionality between crime and sentence [but] forbids only extreme sentences that are ‘grossly disproportionate’ to the crime.” Id., at 1001. Pp. 8—11.
+
+ (b) State legislatures enacting three strikes laws made a deliberate policy choice that individuals who have repeatedly engaged in serious or violent criminal behavior, and whose conduct has not been deterred by more conventional punishment approaches, must be isolated from society to protect the public safety. Though these laws are relatively new, this Court has a longstanding tradition of deferring to state legislatures in making and implementing such important policy decisions. The Constitution “does not mandate adoption of any one penological theory,” id., at 999, and nothing in the Eighth Amendment prohibits California from choosing to incapacitate criminals who have already been convicted of at least one serious or violent crime. Recidivism has long been recognized as a legitimate basis for increased punishment and is a serious public safety concern in California and the Nation. Any criticism of the law is appropriately directed at the legislature, which is primarily responsible for making the policy choices underlying any criminal sentencing scheme. Pp. 11—15.
+
+ (c) In examining Ewing’s claim that his sentence is grossly disproportionate, the gravity of the offense must be compared to the harshness of the penalty. Even standing alone, his grand theft should not be taken lightly. The California Supreme Court has noted that crime’s seriousness in the context of proportionality review; that it is a “wobbler” is of no moment, for it remains a felony unless the trial court imposes a misdemeanor sentence. The trial judge justifiably exercised her discretion not to extend lenient treatment given Ewing’s long criminal history. In weighing the offense’s gravity, both his current felony and his long history of felony recidivism must be placed on the scales. Any other approach would not accord proper deference to the policy judgments that find expression in the legislature’s choice of sanctions. Ewing’s sentence is justified by the State’s public-safety interest in incapacitating and deterring recidivist felons, and amply supported by his own long, serious criminal record. He has been convicted of numerous offenses, served nine separate prison terms, and committed most of his crimes while on probation or parole. His prior strikes were serious felonies including robbery and residential burglary. Though long, his current sentence reflects a rational legislative judgment that is entitled to deference. Pp. 15—18.
+
+ Justice Scalia agreed that petitioner’s sentence does not violate the Eighth Amendment’s prohibition against cruel and unusual punishments, but on the ground that that prohibition was aimed at excluding only certain modes of punishment. This case demonstrates why a proportionality principle cannot be intelligently applied, and why Solem v. Helm, 463 U.S. 277, should not be given stare decisis effect. Pp. 1—2.
+
+ Justice Thomas concluded that petitioner’s sentence does not violate the Eighth Amendment’s prohibition against cruel and unusual punishments because the Amendment contains no proportionality principle. P. 1.
+
+ O’Connor, J., announced the judgment of the Court and delivered an opinion, in which Rehnquist, C. J., and Kennedy, J., joined. Scalia, J., and Thomas, J., filed opinions concurring in the judgment. Stevens, J., filed a dissenting opinion, in which Souter, Ginsburg, and Breyer, JJ., joined. Breyer, J., filed a dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined.

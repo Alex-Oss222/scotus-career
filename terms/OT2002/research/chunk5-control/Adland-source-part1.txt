@@ -1,0 +1,164 @@
+307 F.3d 471 - Adland v. Russ — 307 F.3d 471 | OpenJurist (https://openjurist.org/307/f3d/471/adland-v-russ)
+citeturn10view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://openjurist.org/307/f3d/471/adland-v-russ","lineno":null}); Total lines: 424
+L0: Public-domain · open source
+L1: 
+L2: Menu
+L3: 
+L4: 【0†OpenJurist】›【1†Volume 307】›【2†F.3d】›Page 471
+L5: 
+L6: 307 F.3d 471
+L7: 
+L8: Docket No. 00-6139.
+L9: # Adland v. Russ
+L10: 
+L11: 【3†Sixth Circuit Court of Appeals】
+L12: 
+L13: Argued Nov. 2, 2001.
+L14: 
+L15: Decided and Filed Oct. 9, 2002.
+L16: 
+L17: 【3†Sixth Circuit Court of Appeals】 · decided 2002-10-09
+L18: 
+L19: Cited by 84 later decisions (1 by the Supreme Court) — most recently February 2019 · most notably 【4†Mellen v. Bunting】 (2003), 【5†Glassroth v. Moore】 (2003)
+L20: 
+L21: 46 federal appellate · 5 district · 1 state decisions
+L22: 
+L23: 4 counsel of record
+L24: 
+L25: Key passage — most relied on by later courts
+L26: > “whether an objective observer, acquainted with the text, legislative history, and implementation of the enactment would view it as state endorsement of religion.”
+L27: quoted by 3 later decisions, including 【6†Jon B. Cutter J. Lee Hampton, United States of America, Intervenor-Appellee v. Reginald Wilkinson David Schwartz Nicholas G. Menedez L.C. Coval K.L. Brown George D. Alexander Dianne Walker Jim Erwin Ron Carnein Rudy Pringle Walter Lowery, John Miller, United States of America, Intervenor-Appellee v. Reginald Wilkinson David Schwartz Terry Collins Cheryl Hart Charles R. Griffin Charles Griffin, Chaplain, John W.
+L28: Gerhardt, United States of America, Intervenor-Appellee v. Alan Lazaroff, Warden Kenneth Byers Don Wilson Mary Henderson Sherry Williamson Kristina Hackett Steven Weingart Ron Clifton Robert Englund Charles Conrad Stacha Doty Jack Taylor William Blaney Carol Martin June Coleman Dave Morris Vance York Susan Coolie Stephanie Walker Rachel Hettinger Kenneth E. McDonald】, 【7†Cutter】
+L29: > “The purpose prong of the Lemon test asks whether government's actual purpose is to endorse or disapprove of religion.”
+L30: quoted by 3 later decisions, including 【6†Jon B. Cutter J. Lee Hampton, United States of America, Intervenor-Appellee v. Reginald Wilkinson David Schwartz Nicholas G. Menedez L.C. Coval K.L. Brown George D. Alexander Dianne Walker Jim Erwin Ron Carnein Rudy Pringle Walter Lowery, John Miller, United States of America, Intervenor-Appellee v. Reginald Wilkinson David Schwartz Terry Collins Cheryl Hart Charles R. Griffin Charles Griffin, Chaplain, John W.
+L31: Gerhardt, United States of America, Intervenor-Appellee v. Alan Lazaroff, Warden Kenneth Byers Don Wilson Mary Henderson Sherry Williamson Kristina Hackett Steven Weingart Ron Clifton Robert Englund Charles Conrad Stacha Doty Jack Taylor William Blaney Carol Martin June Coleman Dave Morris Vance York Susan Coolie Stephanie Walker Rachel Hettinger Kenneth E. McDonald】, 【8†Freethought Society of Greater Philadelphia】
+L32: Relies on 【9†Abbott Laboratories v. Gardner】 · 【10†Steel Co. v. Citizens for a Better Environment】 · 【11†Califano v. Sanders】
+L33: 
+L34: Good law ✅— No negative treatment on record【12†how we know】
+L35: 
+L36: Decided 2002-10-09
+L37: 
+L38: 【13†View the full empirical analysis of this case →】
+L39: 
+L40: 【14†¶1】【15†*474】David A. Friedman (argued and briefed), American Civil Liberties Union of Kentucky, General Counsel, Louisville, KY, C. Laurie Griffith (briefed), Griffith Law Offices, Louisville, KY, for Plaintiffs-Appellees.
+L41: 【16†¶2】Scott White (briefed), Jennifer L. Carri-co (argued and briefed), Office of the Attorney General, Frankfort, KY, for Defendant-Appellant.
+L42: 
+L43: 【17†¶3】Edward L. White, III, Thomas More Center for Law & Justice, Ann Arbor, MI, for Amicus Curiae.
+L44: 
+L45: 【18†¶4】Edna J. Turner, Theodore H. Amshoff, Jr., Amshoff & Amshoff, Louisville, KY, for Defendants.
+L46: 
+L47: 【19†¶5】Before: MARTIN, Chief Circuit Judge; BATCHELDER, Circuit Judge; SARGUS, District Judge.【20†*】
+L48: 
+L49: 【21†*】
+L50: 【22†¶6】 The Honorable Edmund A. Sargus, Jr., United States District Judge for the Southern District of Ohio, sitting by designation.
+L51: 
+L52: 【23†¶7】OPINION
+L53: 
+L54: 【24†¶8】BOYCE F. MARTIN, JR., Chief Circuit Judge.
+L55: 【25†¶9】On April 21, 2000, Kentucky Governor Paul E. Patton signed into law Senate Joint Resolution No.
+L56: 57, a resolution “relating to the display of historic documents that include a depiction of the Ten Commandments.” The Resolution contains two primary substantive provisions — Section 2, which authorizes a public school teacher to post the Ten Commandments in a classroom when incorporated into a historical display, and Section 8, which directs the Department for Facilities Management to 【26†*475】“relocate the monument inscribed with the Ten Commandments which was displayed on the Capitol grounds for nearly three decades to a permanent site on the Capitol grounds near Kentucky’s floral clock to be made part of a historical and cultural display including the display of this order to remind Kentuckians of the Biblical foundations of the laws of the Commonwealth.” Plaintiffs, Rabbi Jonathan Adland, Reverend Johanna Bos, Reverend James Jerrell Greenlee, Reverend Gilbert Schroerlucke, the American Civil Liberties Union of Kentucky and its executive director Jeff Vessels, filed suit seeking to permanently enjoin the defendant Armand Russ, Commissioner of the Commonwealth of Kentucky Department for Facilities Management, from complying with Section 8.
+L57: By agreement of the parties, the district court heard the matter on the merits. In a careful and thoughtful opinion, the district court declared Section 8 of Kentucky Senate Joint Resolution Number 57 unconstitutional under the Establishment. Clause of the 【27†First Amendment】 and permanently enjoined the defendant from complying with Section 8. We AFFIRM.
+L58: 【28†¶10】I.
+L59: 
+L60: 【29†¶11】A.
+L61: 
+L62: 【30†¶12】The Ten Commandments monument was presented to the Commonwealth by the Fraternal Order of Eagles, a national service organization dedicated to promoting liberty, truth and justice, in 1971.【31†1】 In offering to donate the monument to the Commonwealth, the Eagles explained in a March 14,1971, letter that:
+L63: > Most of today’s younger generation either have not seen the Ten Commandments or have not been taught them. In our opinion the youth of today is in dire need of learning the simple laws of God if we are to attain love-and charity necessary to create peace among the peoples of all nations.
+L64: 
+L65: 【32†¶13】The granite monument, which is over six feet tall and almost four feet wide, bears an inscription of the following version of the Ten Commandments:
+L66: 
+L67: > I AM the LORD thy God.
+L68: > Thou shalt have no other gods before me.
+L69: 
+L70: > Thou shalt not make to thyself any graven images.
+L71: 
+L72: > Thou shalt not take the name of the Lord thy God in vain.
+L73: 
+L74: > Remember the Sabbath day, to keep it holy.
+L75: 
+L76: > Honor thy father and thy mother, that thy days may be long upon the land which the Lord thy God giveth thee.
+L77: 
+L78: > Thou shalt not kill.
+L79: 
+L80: > Thou shall not commit adultery.
+L81: 
+L82: > Thou shall not steal.
+L83: 
+L84: > Thou shalt not bear false witness against thy neighbor.
+L85: 
+L86: > Thou shalt not covet thy neighbor’s house.
+L87: > Thou shalt not covet thy neighbor’s wife, nor his manservant, nor his maidservant, nor his cattle, nor anything that is thy neighbor’s.
+L88: 【33†¶14】【34†*476】At the top of the monument, there are two small tablets containing ancient Hebrew script. Surrounding these tablets is a floral design, and between the tablets is the all-seeing eye, similar to the one depicted on the dollar bill. Immediately below the eye is an American eagle grasping the American flag.
+L89: Below the text of the monument are two small Stars of David, and in the center of the stars is a similarly-sized symbol representing Christ: two Greek letters, Chi and Rho, superimposed upon each other. At the base of the monument is a small scroll, which reads: “Presented to the Commonwealth of Kentucky by Kentucky State Aerie Fraternal Order of Eagles 1971.”
+L90: 【35†¶15】Contrary to the statement in Section 8 of the Resolution, the district court found that the monument was displayed on Capitol grounds until approximately 1980. It was removed to make room for construction on the Capitol grounds and has remained in storage since that time.
+L91: 
+L92: 【36†¶16】B.
+L93: 【37†¶17】The Resolution contains a preamble consisting of seventeen “Whereas” clauses that recite the Senate’s purpose in enacting this Resolution. Ten of the clauses quote famous Americans-Samuel Adams, Fisher Ames, 【38†George Washington】, 【39†Andrew Jackson】, 【40†John Quincy Adams】, Abigail Adams, Woodrow Wilson, and Jimmy Carter-professing their beliefs in the Bible, God, or Christianity. For example, the Resolution quotes 【39†Andrew Jackson】’s May 29,1845, statement:
+L94: > My lamp of life is nearly out, and the last glimmer has come. I am ready to depart when called. The Bible is true. The principles and statutes of that Holy Book have been the rule of my life, and I have tried to conform to its spirit as nearly as possible. Upon that sacred volume I rest my hope for eternal salvation, through the merits and blood of our blessed Lord and Savior, Jesus Christ.
+L95: 【41†¶18】Similarly, the Resolution quotes 【38†George Washington】’s September 19, 1796, declaration: “Of all the dispositions and habits which lead to political prosperity, religion and morality are indispensable supports.” The Resolution also quotes Woodrow Wilson’s statement:
+L96: > The Bible is the word of life. I beg that you will read it and find this out for yourselves...
+L97: .You will find it full of real men and women not only, but also of things you have wondered about and had been troubled about all your life, as men have been always; and the more you read, the more it will become plain to you what things are worthwhile and what are not, what things make men happy — loyalty, right dealings, speaking the truth, readiness to give everything for what they think their duty, and most of all, the wish that they may have the real approval of the Christ, who gave everything for them...
+L98: .When you have read the Bible, you will know it is the Word of God, because you will have found it the key to your own heart, your own happiness, and your own duty.
+L99: 【42†¶19】In addition, the Resolution also employs quotes from a 1892 United States Supreme Court decision which, viewed in isolation, conclude that the Supreme Court has declared the United States to be a “Christian nation.” Four other clauses incorporate miscellaneous quotations regarding God or the Bible in pre-Revolutionary legislative sources or in Kentucky law.
+L100: One of the clauses also references the presence of the Ten Commandments in the United States Supreme Court chambers as part of a frieze containing several historical law givers.
+L101: 【43†¶20】Section 8 of the Resolution directs that the monument be relocated to the Capitol grounds, the seat of the Commonwealth’s 【44†*477】government, near Kentucky’s Floral Clock, a large clock planted with 13,000 Alter-nanthera and Santolina plants. The clock is thirty-four feet in diameter and weighs 200,000 pounds, and according to the Commonwealth, it is one of the largest clocks in the world.
+L102: The Floral Clock area is a prominent and central feature on the Capitol grounds which can be seen from the circular drive leading up to the Capitol plaza and the public parking area.
+L103: 【45†¶21】According to Section 8, the Ten Commandments monument will be part of a “historical and cultural display.” The Resolution does not delineate the specific components of this display, but the Commonwealth in its brief clarifies that this display will consist of the “markers, signs and monuments” in the “historical garden area surrounding the Kentucky Floral Clock.” (Appellant’s Brief at 7).
+L104: These markers include: (1) a Kentucky Historical Society memorial sign commemorating “A Civil War Reprisal” and describing in detail a Kentucky Civil War event on the location; (2) a ‘Welcome to Kentucky” bronze plaque; (3) the Kentucky Coffee Tree Marker commemorating Joe Cross Crea-son, Sr., humorist, author and journalist; (4) the Freedom Tree Marker memorializing Kentucky Vietnam Prisoners of War; (5) a .stone marker in memory of Charles Wickliffe, Finance and Administration Cabinet, 1960-1995; (6) a plaque in memory of Governor Bert Combs, in recognition of courageous leadership, 1959-1963; and, (7) a memorial for John Stony Spicer, Physical Plant Director, 1958-1988.
+L105: As the Commonwealth states in its reply brief, “Together with these surrounding markers and memorials, the monument will be one ‘part of a historical and cultural display’ established by. the Resolution.” (Appellant’s Reply Brief at 10-11).
+L106: 【46†¶22】If the Ten Commandments monument was re-located to this area it would be the largest monument in the area, except for the Floral Clock. Both the Floral Clock and the Ten Commandments monument would be visible to motorists driving on the road between the Capitol and the Capitol Annex.
+L107: 
+L108: 【47†¶23】II.
+L109: 【48†¶24】In reviewing a district court’s grant of a permanent injunction, we review the district court’s conclusions of law and its findings of constitutional, or ultimate, facts de novo. See 【49†Grutter v. Bollinger】, 【50†288 F.3d 732, 743】 (6th Cir.2002). We review the district court’s findings of subsidiary facts for clear error. 【51†Deja Vu v. Metro. Gov’t of Nashville】, 【52†274 F.3d 377, 389】 (6th Cir.2001).
+L110: Factual findings are clearly erroneous only if this court is “left with the definite and firm conviction that a mistake has been committed.” 【53†United States v. Hopkins】, 【53†295 F.3d 549, 551】 (6th Cir.2002).
+L111: 【54†¶25】III.
+L112: 【55†¶26】In the district court, the defendant argued that the plaintiffs lacked standing to pursue this action. Although they do not raise this argument on appeal, we must nevertheless verify that the plaintiffs had standing to pursue this action in the district court. See Harker v.
+L113: Troutman (In re Troutman Enters., Inc.), 【56†286 F.3d 359, 364】 (6th Cir.2002) (“Standing is a jurisdictional element and we are under a 【57†continuing obligation】 to verify our jurisdiction over a particular case.”); see also CDI Info. Servs. v. Reno, 【58†278 F.3d 616, 618】 (6th Cir.2002) (noting that it is “incumbent” on the court “to verify the existence of subject matter jurisdiction”).
+L114: 【59†¶27】In order to meet 【60†Article III】 standing requirements, a party must show (1) actual or threatened injury which is (2) fairly traceable to the challenged action 【61†*478】and (3) a substantial likelihood the relief requested will redress or prevent the plaintiffs injury. Deja Vu, 【62†274 F.3d at 384】. In 【63†Washegesic v.
+L115: Bloomingdale Public Schools】, 【64†33 F.3d 679, 681】 (6th Cir.1994), we held that a high school graduate had standing to challenge his high school alma mater’s display of a portrait of Jesus Christ because he continued to visit the school and encounter the portrait. We noted that “[t]he use of governmental authority to encourage a sectarian religious view is a sufficient injury if directed toward the plaintiff.” 【64†Id.】 at 682; see also 【65†Suhre v.
+L116: Haywood County】, 【65†131 F.3d 1083, 1088】 (4th Cir.1997) (“The cognizable injury caused by personal contact with a public religious display may thus satisfy the injury-in-fact requirement for standing to bring an 【66†Establishment Clause】 case.”); Murray v. City of Austin, 【67†947 F.2d 147, 151】 (5th Cir.1991) (ruling that plaintiff had standing to challenge City’s inclusion of a cross in municipal logo); 【68†Saladin v.
+L117: City of Milledgeville】, 【69†812 F.2d 687, 691】-93 (11th Cir.1987) (holding that plaintiffs had standing because plaintiffs were directly confronted by presence of word “Christianity” on the city seal.) An Establishment Clause plaintiff need not allege that he or she avoids, or will avoid, the area containing the challenged display. As the Fourth Circuit noted:
+L118: > Compelling plaintiffs to avoid public schools or buildings is to impose on them a burden that no citizen should have to shoulder. A public school or county courthouse exists to serve all citizens of a community, whatever their faith may be. Rules of standing that require plaintiffs to avoid public places would make religious minorities into outcasts.
+L119: Forcing an Establishment Clause plaintiff to avoid the display of which he complains in order to gain standing to challenge it only imposes an extra penalty on individuals already alleged to be suffering a violation of their constitutional rights.
+L120: 【70†¶28】Suhre, 【71†131 F.3d at 1088】.
+L121: 【72†¶29】The complaint, which the individual plaintiffs each verified, indicates that Rabbi Adland, Reverend Bos, Reverend Greenlee, Reverend Schroerlucke and Executive Director Vessels frequently travel to the State Capitol to engage in political advocacy for a variety of organizations and that they will endure direct and unwelcome contact with the Ten Commandments monument. In light of Washegesic, we conclude that the plaintiffs satisfy the injury-in-fact requirement.
+L122: We also find that the this injury is plainly caused by the defendant’s statutory directive to erect the Ten Commandments and that, an injunction can redress plaintiffs’ injury. Thus, we are satisfied that the individual plaintiffs had standing to pursue this action in the district court.
+L123: 【73†¶30】As to the American Civil Liberties Union, an organization has standing to sue on behalf of its members “when (a) its members otherwise have standing to sue in their own right; (b) the interests it seeks to protect are germane to the organization’s purpose; and (c) neither the claim asserted nor the relief requested requires participation of individual members in the lawsuit.” 【74†Hunt v. Washington State Apple Adver. Comm.】, 【75†432 U.S. 333, 343】, 【74†97 S.Ct. 2434】, 【74†53 L.Ed.2d 383】 (1977).
+L124: First, various members of the American Civil Liberties Union travel to the Capitol, all of whom would come into direct, unwelcome contact with the monument.
+L125: Second, according to a declaration attached to the complaint, the ACLU advocates the separation of church and state and has “devoted substantial effort and resources to defending what 【76†Thomas Jefferson】 called ‘the wall of separation between church and state’ created by the two religion clauses 【77†*479】of the 【27†First Amendment】.” Thus, this suit furthers the organization’s interest. Third, there does not appear to be any basis to require the participation of all 1,800 Kentucky ACLU members.
+L126: Accordingly, we find that the ACLU had organizational standing to seek relief in the district court.
+L127: 【78†¶31】IV.
+L128: 【79†¶32】The Establishment Clause of the 【27†First Amendment】, made applicable to states through the 【80†Fourteenth Amendment】, see 【81†Everson v. Bd. of Educ.】, 【82†330 U.S. 1, 8】, 【82†67 S.Ct. 504】, 【82†91 L.Ed. 711】 (1947), provides that “Congress shall make no law respecting any 【83†establishment of religion】.” U.S. Const., Amend. I.
+L129: “The Establishment Clause, at the very least, prohibits government from appearing to take a position on questions of religious beliefs or from ‘making adherence to a religion relevant in any way to a person’s standing in the political community.’ ” 【84†County of Allegheny v. American Civil Liberties Union】, 【84†492 U.S. 573, 594】, 【84†109 S.Ct. 3086】, 【84†106 L.Ed.2d 472】 (1989) (quoting 【85†Lynch v. Donnelly】, 【85†465 U.S. 668】, 【85†104 S.Ct. 1355】, 【85†79 L.Ed.2d 604】 (1984)).
+L130: 【86†¶33】Whether a particular government action violates the Establishment Clause depends on the test set forth in 【87†Lemon v. Kurtzman】, 【87†403 U.S. 602】, 【87†91 S.Ct. 2105】, 【87†29 L.Ed.2d 745】 (1971). While we have recognized that individual Supreme Court justices have expressed reservations regarding the Lemon test, see 【88†American Civil Liberties Union of Ohio v. Capitol Square Review & Advisory Bd.】, 【89†243 F.3d 289, 306】 & n.
+L131: 15 (6th Cir.2001) (collecting opinions), we are an intermediate federal court and are bound to follow this test until the Supreme Court explicitly overrules or abandons it. See Grutter, 【50†288 F.3d at 743】.
+L132: 【90†¶34】Under the Lemon test, we consider whether (1) the government activity in question has a secular purpose, (2) whether the activity’s primary effect advances or inhibits religion, and (3) whether the government activity fosters an excessive entanglement with religion. Lemon, 【91†403 U.S. at 612】, 【87†91 S.Ct. 2105】.
+L133: Although this remains the original formulation, we have recognized that in recent years, the Supreme Court has applied what is known as the “endorsement” test, which looks to whether a reasonable observer would believe that a particular action constitutes an endorsement of religion by the government. See 【92†Granzeier v. Middleton】, 【93†173 F.3d 568, 573】 (6th Cir.1999) (collecting cases); Hawley v. City of Cleveland, 【94†24 F.3d 814, 817】 (6th Cir.1994).
+L134: While we have variously interpreted the endorsement test as a refinement or modification of the first and second prongs, see 【95†American Civil Liberties Union v. City of Birmingham】, 【96†791 F.2d 1561, 1563】 (6th Cir.1986), a clarification of the first prong, see 【97†Chaudhuri v. State of Tennessee】, 【98†130 F.3d 232, 236】 (6th Cir.1997), and as a modification of the entire Lemon test, see Pinette v. Capitol Square Review & Advisory Bd., 【99†30 F.3d 675, 678】-79 (6th Cir.1994) aff'd, 【100†515 U.S.
+L135: 753】, 【100†115 S.Ct. 2440】, 【100†132 L.Ed.2d 650】 (1995), we follow our en banc decision in Americans United for Separation of Church and 【101†State v. City】 of Grand Rapids, 【101†980 F.2d 1538】 (6th Cir.1992), and the recent panel decisions in 【102†Brooks v. City of Oak Ridge】, 【103†222 F.3d 259, 264】 (6th Cir.2000), cert. denied, 【104†531 U.S. 1152】, 【104†121 S.Ct. 1097】, 【105†148 L.Ed.2d 970】 (2001), and Granzeier, and treat the endorsement test as a refinement of the second Lemon prong.
+L136: 【106†¶35】A.
+L137: 【107†¶36】“The purpose prong of the Lemon test asks whether government’s actual purpose is to endorse or disapprove of religion.” 【108†Edwards v. Aguillard】, 482 U.S. 【109†*480】578, 585, 【108†107 S.Ct. 2573】, 【108†96 L.Ed.2d 510】 (1987) (quoting Lynch, 【110†465 U.S. at 690】, 【85†104 S.Ct. 1355】 (O’Connor, J., concurring)).
+L138: Such an intention to promote religion is plain when the State enacts a law to serve a religious purpose, either through the promotion of religion in general or the advancement of a particular religious belief. 【85†Id.】Although a “totally secular purpose is not required,” City of Birmingham, 【111†791 F.2d at 1565】, it is clear that the secular purpose “requirement is not satisfied ... by the mere existence of some secular purpose, however dominated by religious purposes.” Lynch, 【110†465 U.S.
+L139: at 690】-91, 【85†104 S.Ct. 1355】 (O’Connor, J., concurring). While we accord some deference to the Commonwealth’s avowed intention, it nevertheless remains our task to “distinguish a sham secular purpose from a sincere one.” Santa Fe Indep. Sch. Dist. v. Doe, 【112†530 U.S. 290, 308】, 【112†120 S.Ct. 2266】, 【112†147 L.Ed.2d 295】 (2000).
+L140: 【113†¶37】In 【114†Stone v. Graham】, 【115†449 U.S. 39, 41】-42, 【114†101 S.Ct. 192】, 【116†66 L.Ed.2d 199】 (1980) (per curiam), the Supreme Court summarily struck down a Kentucky statute requiring schools to post copies of the Ten Commandments in each classroom.
+L141: Each display of the Ten Commandments was to be posted with the statement: “The secular application of the Ten Commandments is clearly seen in its adoption as the fundamental legal code of Western Civilization and the 【117†Common Law】 of the United States.” Id. at 41, 【116†101 S.Ct. 192】 (quoting 1978 Ky. Act, ch. 436, § 158.178 (1980)).
+L142: The Court rejected this avowed secular purpose, explaining that: “The Ten Commandments are undeniably a sacred text in the Jewish and Christian faiths, and no legislative recitation of a supposed secular purpose can blind us to the fact.” Id. at 41, 【116†101 S.Ct. 192】; see also 【118†Books v. City of Elkhart】, Indiana, 【118†235 F.3d 292, 302】 (7th Cir.2000), cert. denied, 【119†532 U.S. 1058】, 【119†121 S.Ct.
+L143: 2209】, 【120†149 L.Ed.2d 1036】 (2001) (finding that the Ten Commandments, standing alone, cannot be stripped of “their religious, indeed sacred, significance and characterized as a moral or ethical document”); see generally 【121†School Dist. of Abington Township v. Schempp】, 【122†374 U.S. 203, 223】, 【123†83 S.Ct.
+L144: 1560】, 【123†10 L.E.2d 844】 (1963) (holding unconstitutional a statute “requiring the selection and reading at the opening of the school day of verses from the Holy Bible and the recitation of the Lord’s Prayer by the students in unison,” despite the proffer of such secular purposes as “the promotion of moral value, the contradiction to the materialistic trends of our times, the perpetuation of our institutions and the teaching of literature.”).
+L145: The Ten Commandments “do not confine themselves to arguably secular matters, such as honoring one’s parents, killing or murder, adultery, stealing, false witness, and covetousness.” Stone, 【115†449 U.S. at 41】-42, 【114†101 S.Ct. 192】 (internal citations omitted). “Rather the first part of the Commandments concerns the religious duties of believers; worshipping the Lord God alone, avoiding idolatry, not using the Lord’s name in vain, and observing the Sabbath Day.” 【114†Id.】 at 42, 【114†101 S.Ct. 192】.
+L146: Although it rejected Kentucky’s avowed secular purpose, Stone acknowledged that the Ten Commandments could be integrated into a school curriculum as part of a larger study of “history, civilization, ethics, comparative religion” and similar subjects. 【124†449 U.S. at 42】, 【114†101 S.Ct. 192】.
+L147: 【125†¶38】Section 8 provides that the Commonwealth intends to display the Ten Commandments “to remind Kentuckians of the Biblical foundations of the laws of the Commonwealth.”【126†2】 In light of Stone, 【127†*481】we are compelled to conclude that this avowed secular purpose, which is essentially the same secular purpose that the Com-momvealth of Kentucky put forth in Stone, is insufficient, standing alone, to satisfy the secular purpose requirement.
+L148: This does not end our inquiry, however, for as the Supreme Court recognized in Stone, context is critically important in evaluating a state’s proffered secular purpose. See id.; see also 【128†Indiana Civil Liberties Union v. O’Bannon】, 【129†259 F.3d 766, 771】 (7th Cir.2001), cert. denied, 【130†534 U.S. 1162】, 【130†122 S.Ct.
+L149: 1173】, 【130†152 L.Ed.2d 117】 (2002) (“Beyond assessing the purpose expressly articulated by the state, we ensure that the stated secular purpose is legitimate by also examining the context and the content of the display.”). In assessing the Commonwealth’s avowed secular purpose, we look to (1) the language of Section 8; (2) the language of the entire Resolution, with particular attention to the preamble clauses; and (3) the intended physical context of the Ten Commandments monument.
+L150: 【131†¶39】1.
+L151: 【132†¶40】While Section 8 indicates that the Monument will be part of a cultural and historical display, the Resolution makes no mention of the other components of this display. Indeed, the Commonwealth did not reveal the contents of this display until it was in the midst of litigation.
+L152: In our view, this indicates that the other components of the display are an afterthought, at best, secondary in importance to the Ten Commandments, and suggests that the Commonwealth acted with a predominantly religious purpose.
+L153: 【133†¶41】In examining Section 8, we also note that it codifies only the influence of the Ten Commandments on the law of the Commonwealth. Indeed, Section 7 of the Resolution states that the Commonwealth considers the Ten Commandments “to be the precedent legal code of the Commonwealth” (emphasis added). Compare Books, 【119†532 U.S. 1058】, 【119†121 S.Ct.
+L154: at 2211】, 【120†149 L.Ed.2d 1036】 (Rehnquist, C.J., dissenting from denial of certiorari) (noting that the Commandments “have made a substantial contribution to our secular legal code”) (emphasis added). In this respect, the Ten Commandments monument is unlike the frieze on the wall of the Supreme Court, which depicts Moses carrying the Ten Commandments alongside Confucius, Mohammed, Caesar Augustus, William Blackstone, Napoleon Bonaparte, and John Marshall. See Allegheny, 【134†492 U.S.
+L155: at 652】, 【135†109 S.Ct. 3086】 (Stevens, J, concurring in part and dissenting in part). While the Commonwealth need not commemorate every arguable historical influence on the laws of the Commonwealth or keep current with the views of every scholar to ensure compliance with the Establishment Clause, we cannot ignore its decision to focus only on the “Biblical foundations” of the law. Of course, our concern is with religious liberty, not intellectual or academic orthodoxy.
+L156: We have neither the desire nor the authority to resolve disputes about whether the Commonwealth’s legal system owes more to the Magna Carta or the Code of Hammu【136†*482】rabi than the Ten Commandments. But that said, in addressing the Commonwealth’s avowed secular purpose for displaying an overtly religious symbol such as the Ten Commandments, we cannot ignore the Commonwealth’s adoption of a view that emphasizes a single religious influence to the exclusion of all other religious and secular influences.
+L157: See Books, 【119†532 U.S. 1058】, 【119†121 S.Ct. at 2211】, 【120†149 L.Ed.2d 1036】 (Rehnquist, C.J., dissenting from denial of certiorari) (noting that the Commandments “have made a substantial contribution to our secular legal code”).
+L158: 【137†¶42】2.
+L159: 【138†¶43】As to legislative context, the Resolution, which is to be posted on the Ten Commandments monument, sets forth a series of seventeen introductory “Whereas” clauses. Ten of these clauses include quotations from famous Americans extolling the virtues of religion, Christianity and the Bible. Supra Section I.B. These statements, as the defendant concedes, undoubtedly have a “religious meaning.” (Rep. Br. at 13).
+L160: Nevertheless, the defendant contends the preamble clauses are intended to “illustrate the religious thoughts of our nation’s leaders and the Bible’s influence on law and public policy.” According to the defendant, “[i]n that special function, the quotes and references achieve the Commonwealth’s secular goal by commemorating how the Bible and Ten Commandments influenced a nation.” The primary problem with the defendant’s position is that it is notably absent from the preamble.
+

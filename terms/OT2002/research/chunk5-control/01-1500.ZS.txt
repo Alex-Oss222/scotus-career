@@ -1,0 +1,45 @@
+Source: https://www.law.cornell.edu/supct/html/01-1500.ZS.html
+
+CLAY V. UNITED STATES
+
+ LII
+
+ Supreme Court 
+
+CLAY V. UNITED STATES (01-1500) 
+30 Fed. Appx. 607, reversed and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]
+
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CLAY v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT
+
+No. 01—1500. Argued January 13, 2003–Decided March 4, 2003
+
+Petitioner Clay was convicted of arson and a drug offense in Federal District Court. The Seventh Circuit affirmed his convictions on November 23, 1998, and that court’s mandate issued on December 15, 1998. Clay did not file a petition for a writ of certiorari. The time in which he could have done so expired 90 days after entry of the Court of Appeals’ judgment and 69 days after issuance of its mandate. One year and 69 days after the Court of Appeals issued its mandate, and exactly one year after the time for seeking certiorari expired, Clay filed a motion for postconviction relief under 28 U.S.C. § 2255. Such motions are subject to a one-year time limitation that generally runs from “the date on which the judgment of conviction becomes final.” §2255, ¶6(1). Relying on Circuit precedent, the District Court stated that when a federal prisoner does not seek certiorari, his judgment of conviction becomes final for §2255 purposes upon issuance of the court of appeals’ mandate. Because Clay filed his §2255 motion more than one year after that date, the court denied it as time barred. The Seventh Circuit affirmed.
+
+Held: For the purpose of starting the clock on §2255’s one-year limitation period, a judgment of conviction becomes final when the time expires for filing a petition for certiorari contesting the appellate court’s affirmation of the conviction. Pp. 4—9.
+
+ (a) Finality has a long-recognized, clear meaning in the postconviction relief context: Finality attaches in that setting when this Court affirms a conviction on the merits on direct review or denies a petition for a writ of certiorari, or when the time for filing a certiorari petition expires. See, e.g., Caspari v. Bohlen, 510 U.S. 383, 390. Because the Court presumes “that Congress expects its statutes to be read in conformity with this Court’s precedents,” United States v. Wells, 519 U.S. 482, 495, the Court’s unvarying understanding of finality for collateral review purposes would ordinarily determine the meaning of “becomes final” in §2255. Pp. 4—5.
+
+ (b) Supporting the Seventh Circuit’s judgment, the Court’s invited amicus curiae urges a different determinant, relying on verbal differences between §2255 and §2244(d)(1), which governs petitions for federal habeas corpus by state prisoners. Where §2255, ¶6(1), refers simply to “the date on which the judgment of conviction becomes final,” §2244(d)(1)(A) speaks of “the date on which the judgment became final by the conclusion of direct review or the expiration of the time for seeking such review.” When “Congress includes particular language in one section of a statute but omits it in another section of the same Act, it is generally presumed that Congress acts intentionally and purposely in the disparate inclusion or exclusion.” Russello v. United States, 464 U.S. 16, 23. Invoking the maxim recited in Russello, amicus asserts that “becomes final” in §2255, ¶6(1), cannot mean the same thing as “became final” in §2244(d)(1)(A); reading the two as synonymous, amicus maintains, would render superfluous the words “by the conclusion of direct review or the expiration of the time for seeking such review”–words found only in the latter provision. If §2255, ¶6(1), explicitly incorporated the first of §2244(d)(1)(A)’s finality formulations, one might indeed question the soundness of interpreting §2255 implicitly to incorporate §2244(d)(1)(A)’s second trigger as well. As written, however, §2255 leaves “becomes final” undefined. Russello hardly warrants a decision that would hold the §2255 petitioner to a tighter time constraint than the petitioner governed by §2244(d)(1)(A). An unqualified term, Russello indicates, calls for a reading surely no less broad than a pinpointed one. Moreover, one can readily comprehend why Congress might have found it appropriate to spell out the meaning of “final” in §2244(d)(1)(A) but not in §2255. Section §2244(d)(1) governs petitions by state prisoners. In that context, a bare reference to “became final” might have suggested that finality assessments should be made by reference to state law rules. Those rules may differ from the general federal rule and vary from State to State. The qualifying words in §2244(d)(1)(A) make it clear that finality is to be determined by reference to a uniform federal rule. Section 2255, however, governs only petitions by federal prisoners; within the federal system there is no comparable risk of varying rules to guard against. Pp. 5—8.
+
+ (c) Section 2263–which prescribes a limitation period for certain habeas petitions filed by death-sentenced state prisoners–does not alter the Court’s reading of §2255. First, amicus’ reliance on §2263 encounters essentially the same problem as does his reliance on §2244(d)(1)(A): Section 2255,¶6(1), refers to neither of the two events that §2263(a) identifies as possible starting points for the limitation period–“affirmance of the conviction and sentence on direct review” and “the expiration of the time for seeking such review.” Thus, reasoning by negative implication from §2263 does not justify the conclusion that §2255, ¶6(1)’s limitation period begins to run at one of those times rather than the other. Second, §2263(a) ties the applicable limitation period to “affirmance of the conviction and sentence,” while §2255, ¶6(1), ties the limitation period to the date when “the judgment of conviction becomes final.” “The Russello presumption … grows weaker with each difference in the formulation of the provisions under inspection.” Columbus v. Ours Garage & Wrecker Service, Inc., 536 U.S. 424, 435—436. Pp. 8—9.
+
+30 Fed. Appx. 607, reversed and remanded.
+
+ Ginsburg, J., delivered the opinion for a unanimous Court.
