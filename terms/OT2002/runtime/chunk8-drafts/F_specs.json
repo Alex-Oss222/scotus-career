@@ -1,0 +1,196 @@
+[
+  {
+    "case": "LaVine v. Blaine School District",
+    "date": "2003-04-07",
+    "file": "LaVine-v-Blaine-School-District_merits_2003-04-07.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "components": [
+      {
+        "name": "Vacate defense judgment on initial exclusion",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Vacate defense judgment on continued exclusion",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Preserve fitted correction-or-removal relief",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Vacate blanket prohibition on all negative documentation",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "State Farm Mutual Automobile Insurance Co. v. Campbell",
+    "date": "2003-04-07",
+    "file": "State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md",
+    "form": "signed plenary",
+    "assigner": "Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "chief_assigns_any": false,
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "components": [
+      {
+        "name": "Set aside punitive judgment and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ]
+      },
+      {
+        "name": "Formal reversal and substantive excessiveness determination",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Scalia",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "alternative_positions": [
+          {
+            "justices": [
+              "Stone-Zsela"
+            ],
+            "position": "Vacate and remand on independent territorial ground"
+          },
+          {
+            "justices": [
+              "Scalia",
+              "Thomas",
+              "Ginsburg"
+            ],
+            "position": "Affirm punitive judgment"
+          }
+        ]
+      },
+      {
+        "name": "Preserve liability and compensation",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+# Clackamas additive count draft validation
+
+Only the unpublished Clackamas draft was changed. The three other C drafts, C_specs.json and original C_VALIDATION.md remain byte-identical. All original freeze artifacts remain unchanged. The original classification reconciliation is copied verbatim with explicit notice that its calendar-year and independent ordinary-staff count reservations are superseded; the final additive count reconciliation is also copied mechanically. The approved Stone supplement remains verbatim.
+
+The updated kernel and Public Projection fix the applicable years at 1996 and 1997 from Wells's 1997 termination and apply the undisputed aggregate dependence of the numerical defense on physician status. They do not infer exactly fourteen ordinary employees every day. Necessary physician classification remains the six Associates' mandate, and sufficient physician employment may end classification; Stone's all-four sequence remains distinct. Ginsburg and Breyer resolve both status and numerosity against the clinic in both years. Classification votes and whole-lead eligibility are unchanged.
+
+Completed checks: eleven ordered Public Projection blocks; identical internal and public Holdings; nine-person 7-2 judgment partition; six whole-opinion eligible Associates; one assignment placeholder; explanations of 192, 175, 177 words, each within 350; no public workflow markers; restricted-term scan empty; all unaffected draft/spec hashes unchanged. The five-block negative-statement review is updated in the draft: necessary operative qualifications are retained, established count premises are affirmative, and invented source-limited reservations are removed from the current kernel and Public Projection.
+
+Pending: fresh count-scope review, coordinated serial assignment, publication and whole-term validation. This is an unpublished draft revision, not a change to an adjudication.

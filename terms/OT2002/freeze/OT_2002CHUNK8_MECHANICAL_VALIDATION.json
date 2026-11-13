@@ -1,0 +1,275 @@
+{
+  "events": [
+    {
+      "record": "Boisson-v-Banian-Ltd_merits_2003-04-07.md",
+      "components": 6,
+      "author": "O'Connor",
+      "prior_leads": 75,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "explanation_words": [
+        184,
+        151,
+        179
+      ],
+      "sha256": "e5e761065e79b3d310558eee1ee6a62031889c07bfc3c730ca79bc105ce8610e"
+    },
+    {
+      "record": "First-Unitarian-Church-of-Salt-Lake-City-v-Salt-Lake-City-Corp_merits_2003-04-07.md",
+      "components": 6,
+      "author": "Stone-Zsela",
+      "prior_leads": 76,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Thomas"
+      ],
+      "explanation_words": [
+        173,
+        156,
+        138
+      ],
+      "sha256": "e9504e7800b4bcdfab27597355451687ee41be3af6545383d52533e2c86b7f52"
+    },
+    {
+      "record": "LaVine-v-Blaine-School-District_merits_2003-04-07.md",
+      "components": 4,
+      "author": "Stevens",
+      "prior_leads": 77,
+      "pool": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        172,
+        129,
+        145
+      ],
+      "sha256": "4a353965436598a44f737692003a49abf248972570f9a5a6b7a31d853e16512a"
+    },
+    {
+      "record": "PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md",
+      "components": 1,
+      "author": "Scalia",
+      "prior_leads": 78,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        250
+      ],
+      "sha256": "afb0302d65091126bcd4e508ebad2f066484514d66d80cc85cd9affd34737cb8"
+    },
+    {
+      "record": "State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md",
+      "components": 3,
+      "author": "Kennedy",
+      "prior_leads": 79,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Breyer"
+      ],
+      "explanation_words": [
+        140,
+        83,
+        147,
+        145,
+        230
+      ],
+      "sha256": "8092c223cfaeddfac99aa10ad81faa503993f0c6a91acddc30bad7f24b2e8ad2"
+    },
+    {
+      "record": "Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md",
+      "components": 4,
+      "author": "Souter",
+      "prior_leads": 81,
+      "pool": [
+        "Stevens",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        155,
+        136,
+        239,
+        141
+      ],
+      "sha256": "a6241bce5734d564e71c364b387a5c7ceb18e37f7c15155e952fa9eb55099e49"
+    },
+    {
+      "record": "Clackamas-Gastroenterology-Associates-PC-v-Wells_merits_2003-04-22.md",
+      "components": 1,
+      "author": "Thomas",
+      "prior_leads": 82,
+      "pool": [
+        "Stevens",
+        "Scalia",
+        "Thomas"
+      ],
+      "explanation_words": [
+        192,
+        175,
+        177
+      ],
+      "sha256": "42d205657f399253dfc5e3fa6d332f51c37e0612231310f825ea6a765d4ec05e"
+    },
+    {
+      "record": "Dole-Food-Co-v-Patrickson_merits_2003-04-22.md",
+      "components": 3,
+      "author": "Scalia",
+      "prior_leads": 83,
+      "pool": [
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        153,
+        226
+      ],
+      "sha256": "f17d24f88c680fbc31fd10bebc5d566ba14e6ebc0f4eab5ab9ced5a7e270b9ff"
+    },
+    {
+      "record": "Jinks-v-Richland-County_merits_2003-04-22.md",
+      "components": 1,
+      "author": "Stone-Zsela",
+      "prior_leads": 84,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        279
+      ],
+      "sha256": "a0e396566a19ffaefaf870d863830170e36f487418f870696364107bb2febec3"
+    },
+    {
+      "record": "Trans-Union-LLC-v-Federal-Trade-Commission_merits_2003-04-22.md",
+      "components": 9,
+      "author": "Breyer",
+      "prior_leads": 85,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        125,
+        94,
+        133,
+        140,
+        131,
+        116,
+        238,
+        115
+      ],
+      "sha256": "15e7181202748ecae8e25b6d14785bcbb78412eccb0d3aedad153726a3bab90d"
+    },
+    {
+      "record": "Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md",
+      "components": 2,
+      "author": "Ginsburg",
+      "prior_leads": 86,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        131,
+        169,
+        139
+      ],
+      "sha256": "45e6b690d45ca10df1e1c91b1a8046954bc9e969ce27109387fe0492847cb36a"
+    },
+    {
+      "record": "Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md",
+      "components": 1,
+      "author": "Stevens",
+      "prior_leads": 87,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        187
+      ],
+      "sha256": "705ef004b9db5028fa32d4d4deba51e3bdd55da33ea626c48097cd273e4635f7"
+    },
+    {
+      "record": "Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md",
+      "components": 2,
+      "author": "Thomas",
+      "prior_leads": 91,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "explanation_words": [
+        155,
+        223,
+        116
+      ],
+      "sha256": "443178a8a6e60e4176b4ad196bb7fd212c1d261208c1eb700e6753b1b4e26158"
+    }
+  ],
+  "protected_files_unchanged": 406,
+  "records": 106,
+  "manifest_rows": 180,
+  "completed_scheduled_events": 103,
+  "stopped_rows": [],
+  "render_input_identity": true,
+  "restricted_text_files_checked": 179,
+  "history_verification": "Deferred to operator",
+  "negative_statement_check": "Qualitative result in chunk validation; not mechanically inferred"
+}

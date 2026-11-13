@@ -1,0 +1,48 @@
+DOLE FOOD CO. V. PATRICKSON
+
+LII
+
+Supreme Court		 
+
+DOLE FOOD CO. V. PATRICKSON (01-593) 
+No. 01—593, certiorari dismissed; No. 01—594, affirmed.  Reported below: 251 F.3d 795.
+Syllabus
+ Opinion
+ [ Kennedy ]Other
+ [ Opinion of Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+DOLE FOOD CO. et al. v. PATRICKSON et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 01—593.  Argued January 22, 2003–Decided April 22, 2003* 
+
+Plaintiffs filed a state-court action against Dole Food Company and others (Dole petitioners), alleging injury from chemical exposure.  The Dole petitioners impleaded petitioners Dead Sea Bromine Co. and Bromine Compounds, Ltd. (collectively, the Dead Sea Companies).  The Dole petitioners removed the action to federal court under 28 U.S.C. § 1441(a), arguing that the federal common law of foreign relations provided federal-question jurisdiction under §1331.  The District Court agreed it had jurisdiction, but dismissed the case on other grounds.  As to the Dead Sea Companies, the court rejected their claim that they are instrumentalities of a foreign state (Israel) as defined by the Foreign Sovereign Immunities Act of 1976 (FSIA), and are therefore entitled to removal under §1441(d).  The Ninth Circuit reversed.  As to the Dole petitioners, it held removal could not rest on the federal common law of foreign relations.  Regarding the Dead Sea Companies, the court noted, but declined to answer, the question whether status as an instrumentality of a foreign state is assessed at the time of the alleged wrongdoing or at the time suit is filed.  It held that the Dead Sea Companies, even at the earlier date, were not instrumentalities of Israel because they did not meet the FSIA’s instrumentality definition.
+
+Held: 
+
+    1. The writ of certiorari is dismissed in No. 01—593, as the Dole petitioners did not seek review in this Court of the Ninth Circuit’s ruling on the federal common law of foreign relations.  P. 3.
+
+      2. A foreign state must itself own a majority of a corporation’s shares if the corporation is to be deemed an instrumentality of the state under the FSIA.  Israel did not have direct ownership of shares in either of the Dead Sea Companies at any time pertinent to this action.  Rather, they were, at various times, separated from Israel by one or more intermediate corporate tiers.  As indirect subsidiaries of Israel, the companies cannot come within the statutory language granting instrumentality status to an entity a “majority of whose shares or other ownership interest is owned by a foreign state or political subdivision thereof.”  §1603(b)(2).  Only direct ownership satisfies the statutory requirement.  In issues of corporate law structure often matters.  The statutory reference to ownership of “shares” shows that Congress intended coverage to turn on formal corporate ownership.  As a corporation and its shareholders are distinct entities, see, e.g., First Nat. City Bank v. Banco Para el Comercio Exterior de Cuba, 462 U.S. 611, 625, a corporate parent which owns a subsidiary’s shares does not, for that reason alone, own or have legal title to the subsidiary’s assets; and, it follows with even greater force, the parent does not own or have legal title to the subsidiary’s subsidiaries.  The veil separating corporations and their shareholders may be pierced in certain exceptional circumstances, but the Dead Sea Companies refer to no authority for extending the doctrine so far that, as a categorical matter, all subsidiaries are deemed to be the same as the parent corporation.  Various federal statutes refer to “direct or indirect ownership.”  The absence of this language in §1603(b) instructs the Court that Congress did not intend to disregard structural ownership rules here.  That section’s “other ownership interest” phrase, when following the word “shares,” should be interpreted to refer to a type of interest other than stock ownership.  Reading the phrase to refer to a state’s interest in entities further down the corporate ladder would make the specific reference to “shares” redundant.  The fact that Israel exercised considerable control over the companies may not be substituted for an ownership interest, since control and ownership are distinct concepts, and it is majority ownership by a foreign state, not control, that is the benchmark of instrumentality status.  Pp. 4—8.
+
+      3. Instrumentality status is determined at the time of the filing of the complaint.  Construing §1603(b)(2) so that the present tense in the provision “a majority of whose shares … is owned by a foreign state” has real significance is consistent with the longstanding principle that the Court’s jurisdiction depends upon the state of things at the time the action is brought.  E.g., Keene Corp. v. United States, 508 U.S. 200, 207.  The Dead Sea Companies’ attempt to compare foreign sovereign immunity with other immunities that are based on a government officer’s status at the time of the conduct giving rise to the suit is inapt because the reason for those other immunities does not apply here.  Unlike those immunities, foreign sovereign immunity is not meant to avoid chilling foreign states or their instrumentalities in the conduct of their business but to give them some protection from the inconvenience of suit as a gesture of comity, Verlinden B. V. v. Central Bank of Nigeria, 461 U.S. 480, 486.  Because any relationship recognized under the FSIA between the Dead Sea Companies and Israel had been severed before suit was commenced, the companies would not be entitled to instrumentality status even if their theory that such status could be conferred on a subsidiary were accepted.  Pp. 9—11.
+
+No. 01—593, certiorari dismissed; No. 01—594, affirmed.  Reported below: 251 F.3d 795.
+
+    Kennedy, J., delivered the opinion for a unanimous Court with respect to Parts I, II—A, and II—C, and the opinion of the Court with respect to Part II—B, in which Rehnquist, C. J., and Stevens, Scalia, Souter, Thomas, and Ginsburg, JJ., joined.  Breyer, J., filed an opinion concurring in part and dissenting in part, in which O’Connor, J., joined.
+
+Notes
+
+*.   Together with No. 01—594, Dead Sea Bromine Co., Ltd., et al. v. Patrickson et al., also on certiorari to the same court.

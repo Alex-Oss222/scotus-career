@@ -1,0 +1,43 @@
+JINKS V. RICHLAND COUNTY
+
+LII
+
+Supreme Court		 
+
+JINKS V. RICHLAND COUNTY (02-258) 
+349 S. C. 298, 563 S. E. 2d 104, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]Concurrence
+ [ Souter ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+JINKS v. RICHLAND COUNTY, SOUTH CAROLINA, 
+et al.
+
+CERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA
+
+No. 02—258.  Argued March 5, 2003–Decided April 22, 2003 
+
+Title 28 U.S.C. § 1367 determines whether a federal district court with jurisdiction over a civil action may exercise supplemental jurisdiction over other claims forming part of the same Article III “case or controversy.”  If the court declines to exercise such jurisdiction, the claims will be dismissed and must be refiled in state court.  To prevent the limitations period on those claims from expiring while they are pending in federal court, §1367(d) requires state courts to toll the period while a supplemental claim is pending in federal court and for 30 days after its dismissal unless state law provides for a longer tolling period.  Petitioner filed a federal-court action claiming that respondent county and others violated 42 U.S.C. § 1983 in connection with her husband’s death.  She also asserted supplemental claims for wrongful death and survival under South Carolina law.  The District Court granted defendants summary judgment on the §1983 claim and declined to exercise jurisdiction over the state-law claims.  Petitioner then filed the supplemental claims in state court and won a wrongful-death verdict against respondent.  The State Supreme Court reversed, finding the state-law claims time-barred.  Although they would not have been barred under §1367(d)’s tolling rule, the court held §1367(d) unconstitutional as applied to claims brought in state court against a State’s political subdivisions.
+
+Held: Section 1367(d)’s application to claims brought against a State’s political subdivisions is constitutional.  Pp. 4—10.
+
+    (a) The Court rejects respondent’s contention that §1367(d) is facially invalid because it exceeds Congress’s enumerated powers.  Rather, it is necessary and proper for executing Congress’s power “[t]o constitute Tribunals inferior to the supreme Court,” Art. I, §8, cl. 9, and assuring that those tribunals may fairly and efficiently exercise “the judicial power of the United States,” Art. III, §1.  As to “necessity”: It suffices that §1367(d) is conducive to the administration of justice in federal court and is plainly adapted to that end.  See McCulloch v. Maryland, 4 Wheat. 316, 421.  And as to propriety: contrary to respondent’s claim, §1367(d) does not violate state-sovereignty principles by regulating state-court procedures.  Pp. 4—8.
+
+      (b) Also without merit is respondent’s contention that §1367(d) should not be interpreted to apply to claims brought against a State’s political subdivisions.  Congress lacks Article I authority to override a State’s immunity from suit in its own courts, see Alden v. Maine, 527 U.S. 706, but it may subject a municipality to suit in state court if that is done pursuant to a valid exercise of its enumerated powers, see id., at 756.  This is merely the consequence of those cases, which respondent does not ask the Court to overrule, holding that municipalities do not enjoy a constitutionally protected immunity from suit.  And any suggestion that an “unmistakably clear” statement is required before an Act of Congress may expose a local government to liability cannot possibly be reconciled with Monell v. New York City Dept. of Social Servs., 436 U.S. 658.  Pp. 9—10.
+
+349 S. C. 298, 563 S. E. 2d 104, reversed and remanded.
+
+    Scalia, J., delivered the opinion for a unanimous court.  Souter, J., filed a concurring opinion.

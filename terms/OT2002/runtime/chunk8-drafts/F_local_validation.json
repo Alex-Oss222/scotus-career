@@ -1,0 +1,25 @@
+[
+  {
+    "file": "LaVine-v-Blaine-School-District_merits_2003-04-07.md",
+    "errors": [],
+    "explanation_words": [
+      172,
+      129,
+      145
+    ],
+    "record_interface": "pass"
+  },
+  {
+    "file": "State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md",
+    "errors": [],
+    "explanation_words": [
+      140,
+      83,
+      147,
+      145,
+      230
+    ],
+    "record_interface": "pass",
+    "reviewer_fixes": "Two scope/negative-statement edits and mandatory Stone reinstatement condition applied; internal/public Holdings remain identical."
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "file": "Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md",
+  "record_sha256": "9d4eb064da1e8e79ae2da89fb82c8175b83506d66af5671f0693239e7a4e13bd",
+  "source_hashes": {
+    "runtime\\OT_2002CHUNK8_BOROFF_STONE.md": "c9bb17928a4e3404ff357221d0ca79a42578f1a1f9242200b21019f168bd53d7",
+    "freeze\\OT_2002CHUNK8_BOROFF_RECONCILED.md": "b801d047808dcbc261185387e8123a2ea90e5683dd6f2a624419fd8daf65bec2",
+    "freeze\\OT_2002CHUNK8_BOROFF_VALIDATED_NEUTRAL.md": "29ade19f57cf02fb0245002802853f21c7c59380fca147c49bfb9414ce939d27"
+  },
+  "exact_approved_copy": true,
+  "exact_eight_row_reconciliation_copy": true,
+  "eleven_block_order": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "holdings_identity": true,
+  "component_partitions": true,
+  "explanation_words": [
+    155,
+    136,
+    239,
+    141
+  ],
+  "negative_statement_review": "Passed within drafted five-block scope; final independent review remains.",
+  "assignment": "No author selected; Stevens assigns as senior Associate of the exact formal-vacatur coalition. Shared operative relief does not change that assignment authority.",
+  "record_interface": "pass",
+  "errors": []
+}

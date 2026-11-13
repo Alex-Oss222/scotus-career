@@ -1,0 +1,57 @@
+[
+  {
+    "case": "First Unitarian Church of Salt Lake City v. Salt Lake City Corp.",
+    "holdings_identity": true,
+    "public_blocks": 11,
+    "explanation_word_counts": [
+      173,
+      156,
+      138
+    ],
+    "component_rosters": "pass",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "exact_approved_copy": true,
+    "exact_frozen_copy": true,
+    "public_metadata_boundary": true
+  },
+  {
+    "case": "Trans Union LLC v. Federal Trade Commission",
+    "holdings_identity": true,
+    "public_blocks": 11,
+    "explanation_word_counts": [
+      125,
+      94,
+      133,
+      140,
+      131,
+      116,
+      238,
+      115
+    ],
+    "component_rosters": "pass",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "exact_approved_copy": true,
+    "exact_frozen_copy": true,
+    "public_metadata_boundary": true
+  }
+]

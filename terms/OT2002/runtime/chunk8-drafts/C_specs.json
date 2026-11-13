@@ -1,0 +1,219 @@
+[
+  {
+    "case": "Clackamas Gastroenterology Associates, P.C. v. Wells",
+    "date": "2003-04-22",
+    "file": "Clackamas-Gastroenterology-Associates-PC-v-Wells_merits_2003-04-22.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "chief_assigns_any": true,
+    "countable": true,
+    "components": [
+      {
+        "name": "Reverse categorical classification and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "opposing": [
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Women's Medical Center of Northwest Houston v. Bell",
+    "date": "2003-04-22",
+    "file": "Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "countable": true,
+    "components": [
+      {
+        "name": "Dissolved volume-classification injunction",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Preserved injunction against three subjective regulations",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Franchise Tax Board of California v. Hyatt",
+    "date": "2003-04-23",
+    "file": "Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "countable": true,
+    "components": [
+      {
+        "name": "Reject compelled California immunity for intentional torts",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Gorski v. New Hampshire Department of Corrections",
+    "date": "2003-05-27",
+    "file": "Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md",
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "countable": true,
+    "components": [
+      {
+        "name": "Reinstatement of hostile-environment claim",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Preservation of transfer summary judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

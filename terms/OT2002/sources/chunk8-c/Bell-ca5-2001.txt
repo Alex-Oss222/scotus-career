@@ -1,0 +1,681 @@
+--- PAGE 1 ---
+*  District Judge of the Western District of Texas, sitting
+by designation.
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+ _______________________________
+No. 00-20037
+ _______________________________
+WOMEN’S MEDICAL CENTER OF NORTHWEST HOUSTON; ROBERT P. KAMINSKY,
+M.D., on behalf of themselves and the patients they serve; DENTON 
+HEALTH SERVICES FOR WOMEN; AUSTIN WOMEN’S HEALTH CENTER, P.A.;
+LAMAR ROBINSON, M.D.; FRED W. HANSEN, M.D.; L. TAD DAVIS, M.D.;
+MARY E. SMITH, M.D.,
+Plaintiffs-Appellees,
+v. 
+DR. CHARLES E. BELL, Acting Texas Commissioner of Health; JOHN
+CORNYN, Texas Attorney General,
+Defendants-Appellants.
+ _________________________________________________
+Appeal from the United States District Court
+for the Southern District of Texas
+ _________________________________________________
+April 13, 2001
+Before WIENER and STEWART, Circuit Judges, and SMITH,* District
+Judge.
+WIENER, Circuit Judge:
+Plaintiffs-Appellees (“the plaintiffs”) filed suit to
+challenge recent amendments to Texas law that for the first time
+require them to license their medical offices as abortion
+facilities.  The district court entered a preliminary injunction
+against enforcement of the amendments, concluding that they violate
+
+--- PAGE 2 ---
+1  Texas Abortion Facility Reporting and Licensing Act, Tex.
+Health & Safety Code §§ 245.001-245.022.
+2
+the plaintiffs’ equal protection rights.  The court’s injunction
+also prohibits enforcement of three companion regulations that were
+found to be unconstitutionally vague.  We reverse the district
+court’s injunction of enforcement of the amendments grounded in
+equal protection, but affirm the court’s injunction prohibiting
+enforcement of the regulations grounded in unconstitutional
+vagueness.
+I.
+FACTS AND PROCEEDINGS
+The plaintiffs are Texas physicians who brought this action on
+behalf of themselves and their patients pursuant to 42 U.S.C.
+§ 1983.  They challenge the constitutionality of 1999 amendments
+that require them to comply with the Texas Abortion Facility
+Reporting and Licensing Act, which dates to 1985.1  The amendments
+changed the threshold for facilities that must be licensed from
+those “used primarily for the purpose of performing abortions” ——
+that is, where at least 51 percent of patients treated in a
+calendar year receive abortions —— to those in which more than 300
+abortions are performed in any twelve-month period.  Facilities in
+which fewer abortions are performed remain exempt from the
+licensing requirements.
+The record in this case reveals that as of 1999, Texas had
+between 51 and 59 non-hospital abortion providers, comprising: (a)
+
+--- PAGE 3 ---
+2  A fifth doctor, Mary E. Smith of Denton, also was a
+plaintiff, but ceased providing abortions at her private office
+while this appeal was pending and has been dismissed as a party
+to the case.
+3
+31 licensed abortion facilities; (b) a single-digit “handful” of
+physicians providing fewer than ten abortions per year in their
+offices; (c) seven physicians performing more than ten but fewer
+than 300 abortions per year in their offices; and (d) twelve
+physicians, or some 20 percent of the total, who for the first time
+would be required to be licensed as a result of the amendments
+because each provides more than 300 abortions per year (the new
+threshold) in their offices, even though in each of these offices
+abortion patients constitute less than 51 percent of all patients
+treated (the old threshold).  Four of these twelve physicians are
+the plaintiffs in this case.2
+To summarize briefly several of the principal requirements of
+the amended Abortion Facility Reporting and Licensing Act and its
+regulations, a licensed abortion facility must:
+• Prominently post its license and provide each woman who
+initially consults the facility with a written statement about a
+toll-free telephone number maintained by the Texas Department of
+Health, which patients can call for information about a facility’s
+license status, inspection violations, and penalties or other
+discipline imposed against it.
+• Maintain a written Quality Assurance program, implemented by
+a Quality Assurance committee of at least four members, including
+
+--- PAGE 4 ---
+3  The regulations were revised in 1997, adding the
+provisions on quality assurance and patients’ rights, among other
+changes.  See 25 Tex. Admin. Code. §§ 139.1-139.60.
+4  Facilities must maintain a total of nine administrative,
+nine clinical, and three additional written policies, covering at
+least thirty different subjects.  25 Tex. Admin. Code § 139.41.
+4
+a physician and a nurse, who must meet at least quarterly.3
+• Develop a written staff orientation and training program and
+written infection control policies and procedures.4
+• Be subject to annual and surprise on-site surveys by state
+inspectors.
+• Employ staff with specific qualifications, including a
+physician and a registered nurse or licensed vocational nurse.
+In addition, a physician applying for a license must provide
+personal information, including his home address, Social Security
+number, date of birth, driver’s license number, and Texas physician
+license number.  The initial licensing fee is $1,000, the first
+annual fee is $1,500, and the annual renewal fee is $2,500.  Under
+the 1999 amendments, operation of an abortion facility without a
+license is a Class A misdemeanor, punishable by a jail sentence of
+up to one year and a fine of up to $4,000, or both.  Civil and
+administrative penalties of $100 to $2,500 per day also may be
+assessed for violations of the statute and regulations.
+The practices of the plaintiff physicians vary, but as a group
+they administer their offices less formally than the regulations
+require.  They insist that many of the administrative mandates in
+the 1999 amendments are unnecessary to their practices.  Some
+
+--- PAGE 5 ---
+5
+plaintiffs testified that they will have to charge their abortion
+patients as much as $100 more per procedure to cover the expenses
+associated with meeting the licensing requirements.  The plaintiffs
+testified that they believe their private-office setting offers
+patients greater confidentiality, fewer confrontations with
+protesters, and a more personalized, supportive atmosphere than do
+abortion clinic settings.  Some also objected to the rule that they
+must prominently display their abortion facility licenses at their
+offices, fearing that will offend some obstetrical and male
+patients and thereby damage their practices.
+The only plaintiff who testified that he will stop performing
+abortions in his private office altogether rather than seek a
+license is Dr. Fred Hansen, an obstetrician/gynecologist with a
+private gynecology practice in Austin who performs approximately
+950 to 1,050 abortions per year.  Abortion is one of many
+gynecological procedures Dr. Hansen provides to his patients.
+Nearly all of his abortion patients are referred to him by other
+physicians, many for medically indicated abortions resulting from
+profound fetal defects discovered in wanted pregnancies after the
+fifteenth week.  Dr. Hansen testified that he is the only physician
+in Austin who provides abortions in a private office after the
+fifteenth week of pregnancy.  His staff consists of one part-time
+and three full-time employees.  Dr. Hansen expressed the belief
+that if he were to seek licensing and comply with the continuing
+requirements of licensing, patient care would suffer as a result of
+
+--- PAGE 6 ---
+5  Any physician who executed an affidavit attesting that
+the number of patients for whom he performed abortions
+represented less than 51 percent of his patients during the
+previous calendar year was exempt from the licensing
+requirements.
+6
+his and his staff’s spending additional time on unnecessary
+administrative tasks.
+Evidence heard by the district court regarding the
+Legislature’s purpose in enacting the 1999 amendments reflects that
+state Sen. Chris Harris filed a Senate bill that would have
+required all physicians performing more than 10 abortions per year
+to become licensed.  Sen. Harris stated that he was motivated by
+ongoing concerns about abortion safety, and by data that he
+interpreted as showing that some physicians were performing large
+numbers of abortions but escaping the licensing act through the 51
+percent “loophole.”5  Sen. Harris stated that he did not want to
+limit abortion rights, but did want to protect the health and
+safety of women receiving abortions.
+Among those testifying in opposition to the bill was Peggy
+Romberg, executive director of the Texas Family Planning
+Association, who stated that she opposed the bill’s 10-abortion
+trigger.  In response to questioning by Sen. Harris, she stated
+that “my bottom ceiling would be about 300, of OB/GYN that provides
+abortion services that would be essentially about one a working
+day.”  Ms. Romberg told Sen. Harris that the number 300 would be
+“more acceptable” to the abortion rights community than setting the
+threshold at ten, and later said she suggested the number 300 as a
+
+--- PAGE 7 ---
+6  There is no official legislative history on the House
+bill.  The district court denied the plaintiffs’ motion to strike
+the testimony of Sen. Harris and Rep. Van de Putte as
+inadmissible subsequent legislative history.  The court noted
+that, in determining the legislative purpose in passing the
+statute, it would rely primarily on the official legislative
+history in the record and give lesser weight to the legislators’
+testimony.  The official legislative history includes a
+transcript of a Senate Human Services Committee meeting in which
+the 1999 amendments to the Abortion Facility Reporting and
+Licensing Act were introduced as a Senate bill, and materials
+documenting the 1997-98 ad hoc committee process that promulgated
+the abortion licensing regulations found in 25 Tex. Admin. Code.
+§§ 139.1-139.60.
+7  Rep. Van de Putte testified as follows about her view on
+setting the licensing threshold at 300 abortions per year:
+7
+“political compromise” with no medical, health, or safety basis.
+Sen. Harris’s bill did not pass, but similar language
+regulating physicians who perform 300 or more abortions per year
+was added by Rep. Leticia Van de Putte to a lengthy House bill
+dealing with general health department matters.  That bill was
+adopted by both chambers and took effect September 1, 1999.
+Previously exempt physicians were not required to be licensed until
+Jan. 1, 2000.  Rep. Van de Putte, who characterizes herself as
+“adamantly pro-choice,” testified that she discussed the number 300
+with pro-choice advocates and heard no objections.6  She sought “a
+number that would not preclude access for women in this state to
+seek that procedure, but keeping in mind that we wanted to have as
+our goal [the] health and safety of the women.”  Rep. Van de Putte
+also testified that she was influenced in supporting the bill by
+twenty years of experience as a practicing pharmacist, during which
+she counseled and dispensed medication to abortion patients.7
+
+--- PAGE 8 ---
+I rationalized that if a physician did one a day for
+the number of working days, if you take 52 weeks out of
+the year, and you know, you get five working days, that
+would leave us with about 260 working days a year. 
+Take off maybe about ten for holidays, that would leave
+you at 250.  So averaging out even one a day would
+leave you with 250.  And I felt that with an adequate
+buffer zone of an additional 50, would leave us with
+300 so that a physician in their office, I felt, could
+comply with that number of procedures being done and
+giving adequate care to those women who seek that
+procedure.
+8  505 U.S. 833 (1992).
+8
+Following a two-day hearing, the district court granted the
+plaintiffs’ motion for preliminary injunction barring the
+defendants from enforcing the 1999 amendments or the three
+challenged regulations pending a full review of the case on the
+merits.  The court found that the plaintiffs had shown a
+substantial likelihood of success with respect to their claims that
+the amendments violate their equal protection rights and are
+unconstitutionally vague, but not on the claim that the amendments
+violate the due process rights of the plaintiffs’ patients.
+More specifically, the court found that, under Planned
+Parenthood of Southeastern Pennsylvania v. Casey,8 the plaintiffs
+had not shown a substantial likelihood of success on the merits of
+their claim that the 1999 amendments impose an undue burden on a
+woman’s right to abortion.  The court concluded that the 1999
+amendments were not passed for an improper purpose, and that there
+was no evidence of any legislative intent to place obstacles in the
+paths of women seeking abortions.  The court also found that the
+
+--- PAGE 9 ---
+9  The court concluded that the doctors did not plead an
+equal protection claim on behalf of their patients.
+9
+benefits sought by the state in enacting the amendments justified
+the increased costs that might be borne by physicians or patients,
+or by Dr. Hansen’s likely decision to stop performing abortions in
+his office rather than become licensed.  The court concluded that
+the amendments do not have the purpose or effect of creating an
+undue burden on the right of Texas women to seek an abortion, and
+therefore do not unconstitutionally deny them due process .  The
+court thus denied an injunction grounded in substantive due process
+because the plaintiffs had failed to show, on behalf of their
+patients, a substantial likelihood of success on their Fourteenth
+Amendment due process claim.
+The court reached the opposite conclusion on the plaintiffs’
+equal protection claim.  The court applied rational basis review to
+the physicians’ assertion that they had been denied equal
+protection of the law.9  These plaintiffs challenged two
+legislative classifications: (1) physicians who perform abortions
+in their offices and those who perform other, comparable surgical
+procedures in theirs, and (2) physicians who perform more than 300
+abortions per year in their offices and those who perform 300 or
+fewer per year in theirs.
+As to the first classification, the court noted that Texas’s
+abortion licensing regulatory scheme, which has been in place since
+1985, is not being challenged in this case and must be presumed to
+
+--- PAGE 10 ---
+10  Citing Harris County, Tex. v. CarMax Auto Superstores
+Inc., 177 F.3d 306, 321 (5th Cir. 1999).
+11  Citing Romer v. Evans, 517 U.S. 620, 632 (1996).
+10
+be constitutional.10  Recognizing that the Legislature reasonably
+could conclude that women receiving abortions in “high-volume”
+physician offices need more protection than patients undergoing
+other surgical procedures in such offices, the court held that the
+classification distinguishing physicians who perform abortions in
+their offices from those who perform different but comparable
+surgical procedures in theirs bears a rational relationship to a
+legitimate state end.11
+Turning to the second classification, which distinguishes
+office practitioners who perform more than 300 abortions per year
+from those who perform 300 or fewer per year, the court concluded
+that indeed the plaintiffs had shown a substantial likelihood of
+success on their equal protection claim.  The court found that the
+record demonstrates no rational connection between 300 abortions
+and the risks associated with high-volume abortion clinics; neither
+does it contain any evidence that the twelve physicians who would
+be newly licensed under the 1999 amendments ever gave substandard
+care to any abortion patient or had any problems with patient
+infections.  The court wrote that “the evidence amply supports the
+proposition that the cutoff would have to be significantly higher
+than 300 to be held rational.”
+Considering testimony that abortion clinics might provide as
+
+--- PAGE 11 ---
+12  Quoting Gregory v. Ashcroft, 501 U.S. 452, 473 (1991).
+13  25 Tex. Admin. Code. §§ 139.1-139.60.  The challenged
+provisions were added to the abortion licensing regulations
+during a 1997 revision that became effective Aug. 13, 1998.  They
+11
+many as 35 abortions each working day, wrote the court, one
+abortion per day cannot be regarded rationally as a heavy workload,
+so that “[t]his ‘one a day’ rationale cannot be reconciled with the
+State’s argument that some physicians may be providing so many
+abortions that they are unable to adequately take care of
+patients.”  Furthermore, noted the court, a physician in a general
+gynecological practice who sees twenty patients and performs only
+one abortion per day would devote just five percent of his practice
+to abortion.  The court held:
+It cannot be rational to conclude that a physician
+performing an average of one abortion a day as part of a
+general gynecological practice is thereby subjecting his
+patients to the “high volume” risks cited by the state.
+The Court must conclude that “the facts on which the
+classification is based could not reasonably be conceived
+to be true by the decisionmaker.”12
+Based on its determination that the legislative distinction between
+physicians’ offices in which more than and fewer than 300 abortions
+are performed each year bears no rational relationship to a
+legitimate state end, the district court concluded that the
+plaintiffs had shown a substantial likelihood that they would
+succeed on the merits of their equal protection claim.
+The court reached the same conclusion regarding the
+plaintiffs’ claim that three provisions of the Texas abortion
+licensing regulations are unconstitutionally vague.13  Those
+
+--- PAGE 12 ---
+were challenged by plaintiffs because they would first become
+applicable to them under the 1999 amendments to the licensing
+statute.
+12
+provisions, found in 25 Tex. Admin. Code, are: (1) § 139.51(1),
+requiring a physician licensed as an abortion provider to “ensure
+that all patients . . . are cared for in a manner and in an
+environment that enhances each patient’s dignity and respect in
+full recognition of her individuality”; (2) § 139.51(2), requiring
+physicians to ensure that each patient will “receive care in a
+manner that maintains and enhances her self-esteem and self-worth”;
+and (3) § 139.2(43), which defines the standard of “quality” care
+as “[t]he degree to which care meets or exceeds the expectations
+set by the patient.”
+The court credited testimony from a defense witness who helped
+draft the provision that there is no objective way to measure
+whether a physician has “enhanced” a patient’s dignity and self-
+esteem, and also that, as abortion is almost always a negative
+experience for the patient, it is unrealistic to hold physicians to
+those requirements under threat of civil and criminal penalties.
+In addition, the court found the definition of “quality” to be
+vague because it is couched in terms of the “expectations set by
+the patient,” meaning the required standard of care would differ
+from patient to patient.  The court found all three challenged
+sections of the regulations unconstitutionally vague, and concluded
+that the plaintiffs had established a substantial likelihood of
+success on their vagueness challenges to the provisions of the
+
+--- PAGE 13 ---
+14  Hoover v. Morales, 164 F.3d 221, 224 (5th Cir. 1998);
+Valley v. Rapides Parish Sch. Bd., 118 F.3d 1047, 1051 (5th Cir.
+1997); Sunbeam Prods., Inc. v. West Bend Co., 123 F.3d 246, 250
+(5th Cir. 1997).
+15  Sugar Busters LLC v. Brennan, 177 F.3d 258, 265 (5th
+Cir. 1999); Hoover v. Morales, 164 F.3d at 224.  The four
+elements of a preliminary injunction are (1) substantial
+likelihood of success on the merits; (2) substantial threat that
+plaintiff will suffer irreparable injury; (3) injury outweighs
+any harm the injunction might cause the defendant; and (4)
+injunction is in the public interest.  Hoover, 164 F.3d at 224.
+13
+regulations in question, infringing the plaintiffs’ rights to due
+process.
+Finally, the court found that the threat of irreparable injury
+to the plaintiffs was substantial, that it outweighed any harm that
+the defendants might experience from a preliminary injunction, and
+that an injunction would not disserve the public interest.  The
+defendants timely appealed the district court’s interlocutory
+ruling pursuant to 28 U.S.C. § 1292(a)(1).
+II.
+ANALYSIS
+A. Standard of Review
+A district court’s grant of a preliminary injunction is
+reviewed for abuse of discretion.14  Each of the four elements
+required to support a preliminary injunction, including substantial
+likelihood of success on the merits, presents a mixed question of
+fact and law. Findings of fact are reviewed only for clear error;
+legal conclusions are subject to de novo review.15  Although the
+ultimate decision whether to grant or deny a preliminary injunction
+
+--- PAGE 14 ---
+16  Hoover, 164 F.3d at 224.
+17  Campbell v. St. Tammany’s Sch. Bd., 206 F.3d 482, 484
+(5th Cir. 2000), reh’g denied, 231 F.3d 937 (5th Cir. 2000),
+petition for cert. filed, 69 U.S.L.W. 3514 (U.S. Jan. 24, 2001)
+(No. 00-1194); United States v. Monroe, 178 F.3d 304, 308 (5th
+Cir. 1999), cert. denied, 528 U.S. 1010 (1999).
+18  Plaintiffs-Appellees do not appeal the district court’s
+finding that the 1999 amendments place no undue burden on Texas
+women seeking an abortion.
+19  See, e.g., Romer, 517 U.S. at 632-33; City of Cleburne,
+Tex. v. Cleburne Living Ctr., Inc., 473 U.S. 432, 446 (1985);
+Dep’t of Agric. v. Moreno, 413 U.S. 528, 533 (1973).
+14
+is reviewed only for abuse of discretion, a decision grounded in
+erroneous legal principles is reviewed de novo.16  The standard of
+review is no different for our consideration of the district
+court’s determination that three regulations are unconstitutionally
+vague.17
+B. The 300-Abortion Threshold
+The record contains no evidence of anti-abortion animus, and
+no evidence that the 1999 amendments were passed in an attempt to
+limit abortion access or for any other improper purpose. 18
+Therefore, the district court correctly chose to evaluate the 1999
+amendments as health and safety regulations subject to rational
+basis review.19  On de novo review, however, we disagree with the
+district court’s conclusion that the plaintiffs are likely to
+succeed on the merits of their equal protection claim.
+All that is required to survive rational basis review is a
+showing that the classification under examination conceivably could
+be related to a legitimate governmental purpose.  The court found
+
+--- PAGE 15 ---
+20  See Gregory v. Ashcroft, 501 U.S. 452, 473 (1991)
+(noting that a law setting 70 as the retirement age for state
+judges “is founded on a generalization.  It is far from true that
+all judges suffer significant deterioration in performance at age
+70.  It is probably not true that most do.  It may not be true at
+all.  But a State does not violate the Equal Protection clause
+merely because the classifications made by its laws are
+imperfect.”) (internal quotation omitted); see also City of New
+Orleans v. Dukes, 427 U.S. 297, 298 (1976) (upholding ordinance
+banning all pushcart vendors from the Vieux Carre, but exempting
+those who had operated for eight or more years).
+21  222 F.3d 157 (4th Cir. 2000), cert. denied, 2001 WL
+178202, 69 U.S.L.W. 3382 (U.S. Feb. 26, 2001) (No. 00-798).
+15
+—— correctly, we believe —— that the 1999 amendments have the
+legitimate state purpose of protecting the health of Texas women.
+The court’s inquiry, therefore, is properly limited to whether a
+classification based on the number of abortions performed at a
+facility rationally serves that general purpose.  Here, the answer
+clearly is “yes.”  Because without violating the Constitution, the
+State could have required all abortion providers to be licensed, it
+rationally could set an annual 300-abortion “floor” as an
+accommodation to private physicians who provide a number of
+abortions that the government considers to be too few to require
+licensing.  Whether the court agrees with the accuracy of the line
+of demarcation drawn by the Legislature to distinguish the
+classification is of no great moment.20
+Our holding today is consonant with the Fourth Circuit’s
+recent decision in Greenville Women’s Clinic v. Bryant, a case
+closely analogous to this one.21  Greenville concerns South
+Carolina’s 1995 amendment of its abortion clinic licensing statute.
+
+--- PAGE 16 ---
+22  Id. at 159-60.
+23  Id. at 174 (citing Mass. Bd. of Ret. v. Murgia, 427 U.S.
+307, 314 (1976) (upholding mandatory police retirement age of
+50)).
+24  Id.
+16
+That statute, which previously applied only to clinics in which
+second-trimester abortions are performed, was expanded by this
+amendment to cover every facility in which five or more first-
+trimester abortions are performed in one month. 22  The district
+court issued a preliminary injunction and, after a bench trial,
+held in part that the South Carolina amendment violated the equal
+protection rights of the plaintiff physicians.  The Fourth Circuit
+reversed, writing:
+When it is recognized that the State interest is in
+regulating those facilities that are in the business of
+providing abortions, drawing the line at those performing
+five abortions per month is rational.  While anyone could
+say that it is just as rational to draw the line at ten
+abortions per month or three abortions per month, this
+type of line-drawing is typically a legislative function
+and is presumed valid.  Indeed, line-drawing of this type
+is not only typical of legislation, it is necessary.23
+The Greenville court gave examples of several types of legislation
+that draw similar lines, including the application of the Americans
+With Disabilities Act to companies with 15 or more employees but
+not to those with 14 or fewer employees; and a state’s grant of
+drivers’ licenses to persons age sixteen or older but not to those
+under sixteen.24  The Fourth Circuit concluded:
+In this case, South Carolina elected to regulate the
+business of providing abortions and determined that five
+per month would distinguish the abortion clinic from the
+
+--- PAGE 17 ---
+25  Id. at 175 (emphasis added).
+26  The court wrote:  “[I]t is not rational to assume that a
+physician providing 300 abortions per year will expose his
+patients to ‘high volume’ risks similar to those of a typical
+abortion clinic. . . . This ‘one a day’ rationale cannot be
+reconciled with the state’s argument that some physicians may be
+providing so many abortions that they are unable to adequately
+take care of patients.”
+17
+facility performing abortions incidental to another
+medical practice.  The selection of this number is
+reasonably related to the State’s legitimate interest in
+promoting and protecting the health of women visiting
+abortion clinics, and therefore the actual placement of
+the line is not a decision that the courts may
+second-guess.25
+In the instant case, the district court mistakenly focused on
+whether the office of a physician who provides more than 300
+abortions per year resembles the “high-volume” abortion clinics
+previously subject to licensure.26  The appropriate question is not
+confined to whether the limit meets the legislative purpose of
+regulating high-volume, risky, or overburdened abortion facilities;
+rather, the 1999 amendments are constitutional if they serve any
+appropriate state goal.  The amendments require Texas physicians
+who perform abortions in their offices to comply with licensing
+standards that cover issues such as staffing, infection control,
+and inspection by state officials.  Such issues do bear a rational
+relationship to the legitimate state interest of protecting patient
+health and welfare.  Through its Legislature, the State acted
+within its power in choosing to exempt physicians whom it deems to
+perform such a limited number of abortions as posing a lesser
+hazard to health.  The determination made here by state officials
+
+--- PAGE 18 ---
+27  McDonald v. Bd. of Election Comm’rs of Chi., 394 U.S.
+802, 809 (1969).
+28  Romer, 517 U.S. at 632.
+18
+cannot be said to be “based on reasons totally unrelated to the
+pursuit of [their] goal.”27
+In Romer v. Evans, the Supreme Court held that the search for
+the link between a classification and its objective “marks the
+limits of our own authority.  In the ordinary case, a law will be
+sustained if it can be said to advance a legitimate government
+interest, even if the law seems unwise or works to the disadvantage
+of a particular group, or if the rationale for it seems tenuous.”28
+The link that we identify today is the one between the
+classification (doctors who annually perform a number of abortions
+that lawmakers consider to be sufficiently high to justify
+regulating) and the objective (protecting the safety of abortion
+patients).  In the absence of the heightened bar of a fundamental
+right or suspect class, or any evidence of animus, the district
+court exceeded its authority by reviewing the propriety of the cut-
+off number selected by the Legislature.  Deciding the optimal
+number of abortions to trigger the licensing requirement is a
+legislative function, and any redress for an improvidently chosen
+number must come through the democratic process, not the courts.
+The district court erroneously concluded as a matter of law that
+the 1999 amendments are substantially likely to fail rationality
+review, and thus abused its discretion by granting a preliminary
+
+--- PAGE 19 ---
+29  Smith v. Goguen, 415 U.S. 566, 572 n.8 (1974) (quoting
+Connally v. Gen. Constr. Co., 269 U.S. 385, 391 (1926)).
+30  Grayned v. City of Rockford, 408 U.S. 104, 108-09
+(1972).
+31  Margaret S. v. Edwards, 794 F.2d 994, 999 (5th Cir.
+1986) (quoting Ferguson v. Estelle, 718 F.2d 730, 735 (5th Cir.
+1983)).
+19
+injunction grounded in the subject numerical classification.
+C. Vagueness
+The Fourteenth Amendment’s guarantee of Due Process proscribes
+laws so vague that persons “of common intelligence must necessarily
+guess at [their] meaning and differ as to [their] application.” 29
+A law is unconstitutionally vague if it (1) fails to provide those
+targeted by the statute a reasonable opportunity to know what
+conduct is prohibited, or (2) is so indefinite that it allows
+arbitrary and discriminatory enforcement.30  We have held that “[a]
+state’s legislative enactment is void for vagueness under the due
+process clause of the fourteenth amendment if it ‘is inherently
+standardless, enforceable only on the exercise of an unlimited, and
+hence arbitrary, discretion vested in the state.’”31
+Again, the provisions of three regulations found in 25 Tex.
+Admin. Code that the district court held to be unconstitutionally
+vague are: (1) § 139.51(1), requiring a physician licensed as an
+abortion provider to “ensure that all patients . . . are cared for
+in a manner and in an environment that enhances each patient’s
+dignity and respect in full recognition of her individuality”;
+(2) § 139.51(2), requiring physicians to ensure that each patient
+
+--- PAGE 20 ---
+32  See 25 T.A.C. § 139.33(c); Tex. Health & Safety Code
+§ 245.014.
+33  United States v. Clinical Leasing Serv., Inc., 925 F.2d
+120, 122 (5th Cir. 1991) (quoting Kolender v. Lawson, 461 U.S.
+352, 357 (1983)).
+20
+will “receive care in a manner that maintains and enhances her
+self-esteem and self-worth”; and (3) § 139.2(43), which defines the
+standard of “quality” care as “[t]he degree to which care meets or
+exceeds the expectations set by the patient.”  None of these
+provisions carries a criminal penalty for its violation alone,
+although operating an abortion facility without a license is a
+Class A misdemeanor.32  The regulations do, however, carry
+potentially significant civil and administrative penalties,
+including fines and license revocation, which can be characterized
+as quasi-criminal.  A quasi-criminal statute must define its terms
+“‘with sufficient definiteness that ordinary people can understand
+what conduct is prohibited and in a manner that does not encourage
+arbitrary and discriminatory enforcement.’”33
+We agree with the district court that each of these three
+regulations is unconstitutionally vague on its face because it
+impermissibly subjects physicians to sanctions based not on their
+own objective behavior, but on the subjective viewpoints of others.
+Each of these three provisions measures compliance by the
+subjective expectations or requirements of an individual patient as
+to the enhancement of her dignity or self-esteem.  Even a state’s
+witness who had helped draft the provisions conceded that there are
+
+--- PAGE 21 ---
+34  Vill. of Hoffman Estates v. Flipside, Hoffman Estates,
+Inc., 455 U.S. 489, 503 (1982).
+35  See Colautti v. Franklin, 439 U.S. 379, 391 (1979).
+36  See Hill v. Colorado, 530 U.S. 703, 120 S. Ct. 2480,
+2498 (2000) (noting that “speculation about possible vagueness in
+hypothetical situations not before the Court will not support a
+facial attack on a statute when it is surely valid ‘in the vast
+majority of its intended applications’”) (quoting United States
+v. Raines, 362 U.S. 17, 23 (1960)).
+21
+no objective criteria for assessing compliance with the
+“enhancement” provisions, undermining the efficacy of the
+administrative process from which licensees may seek clarification.
+These provisions fail to “afford[ ] fair warning of what is
+proscribed.”34
+It is no solace that, as the defendants note, no abortion
+facility has yet been subjected to civil or criminal penalties for
+violating these regulatory provisions.  Especially in the context
+of abortion, a constitutionally protected right that has been a
+traditional target of hostility, standardless laws and regulations
+such as these open the door to potentially arbitrary and
+discriminatory enforcement.35  We hold that these regulations cannot
+be validly used in their intended applications, and that therefore
+the plaintiffs have established a substantial likelihood of success
+on their vagueness challenge to the subject provisions.36  We also
+affirm the district court’s conclusion that the plaintiffs have
+satisfied the other three preliminary injunction requirements as to
+
+--- PAGE 22 ---
+37  We further note that the defendants do not challenge the
+severability of the three enjoined provisions.  See, e.g., 
+Leavitt v. Jane L., 518 U.S. 137, 139 (1996).
+22
+these regulations.37
+III.
+CONCLUSION
+We acknowledge the concern expressed by the physicians who are
+the plaintiffs in this case, particularly Dr. Hansen, that their
+abortion patients have the opportunity to obtain personal care in
+a confidential setting, and without paying for unnecessary
+administrative costs.  Nevertheless, our role in evaluating the
+plaintiffs’ substantial likelihood of success on their equal
+protection claim is limited to reviewing whether the annual 300-
+abortion threshold set by the state for subjecting abortion
+facilities to licensing bears some rational relationship to the
+state interest in protecting the health and welfare of Texas
+abortion patients.  We conclude that it does.  Any scrutiny beyond
+that is necessarily left to the Legislature, not the courts.
+Consequently, we must vacate the preliminary injunction prohibiting
+enforcement of the Texas abortion licensing statute, Tex. Health &
+Safety Code §§ 245.001-245.023 as amended in 1999.
+We agree with the district court, however, that the plaintiffs
+have shown a substantial likelihood of success on their vagueness
+challenge to three contested provisions of the licensing
+regulations.  We therefore affirm the preliminary injunction
+granted by the district court with regard to those regulations,
+
+--- PAGE 23 ---
+23
+ordering that Texas Commissioner of Health William R. Archer III
+and Texas Attorney General John Cornyn, in their official
+capacities, are enjoined from enforcing 25 Tex. Admin. Code
+§§ 139.2(43), 139.51(1), and 139.51(2) pending a full trial on the
+merits of this case.
+AFFIRMED in part; REVERSED in part; and REMANDED to the district
+court for continued proceedings consistent with this opinion.

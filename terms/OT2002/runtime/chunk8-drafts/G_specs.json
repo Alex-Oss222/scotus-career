@@ -1,0 +1,113 @@
+[
+  {
+    "case": "Boroff v. Van Wert City Board of Education",
+    "date": "2003-04-22",
+    "file": "Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md",
+    "form": "signed plenary",
+    "assigner": "Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": false,
+    "countable": true,
+    "participants": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "components": [
+      {
+        "name": "Set aside initial-shirt adverse speech judgment and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Set aside subsequent-shirt adverse speech judgment and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Formal partial vacatur of speech judgment",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ],
+        "alternative_positions": [
+          {
+            "justices": [
+              "Stone-Zsela"
+            ],
+            "position": "Reverse speech judgment and remand"
+          }
+        ]
+      },
+      {
+        "name": "Preserve due-process disposition",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

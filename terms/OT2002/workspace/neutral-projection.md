@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 7 have produced 93 completed event Records covering 90 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 8 is the next supplied chunk.
+Chunks 1 through 8 have produced 106 completed event Records covering 103 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 9 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 90 completed and 90 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
+The manifest preserves all 180 scheduled rows: 103 completed and 77 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
 
 ## Completed public actions
 
@@ -97,12 +97,25 @@ The manifest preserves all 180 scheduled rows: 90 completed and 90 remaining. Ca
 | 2003-03-31 | Specht v. Netscape Communications Corp. | The Court affirms denial of compelled arbitration and a stay for all six named plaintiffs, and rejects the requested remand for a formation trial. | `terms/OT2002/records/Specht-v-Netscape-Communications-Corp_merits_2003-03-31.md` |
 | 2003-03-31 | United States v. Hambrick | Suppression disposition vacated and remanded, 5–4; the conditional-plea conviction is not automatically reversed. | `terms/OT2002/records/United-States-v-Hambrick_merits_2003-03-31.md` |
 | 2003-04-02 | Kentucky Association of Health Plans, Inc. v. Miller | The Court affirms the Sixth Circuit's rejection of the preemption challenge and adopts the two-condition insurance-saving rule stated below. | `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md` |
+| 2003-04-07 | Boisson v. Banian, Ltd. | The Second Circuit's mixed judgment is affirmed, preserving the limited remedies remand. | `terms/OT2002/records/Boisson-v-Banian-Ltd_merits_2003-04-07.md` |
+| 2003-04-07 | First Unitarian Church of Salt Lake City v. Salt Lake City Corp. | The Court affirms the judgment protecting expression on the retained public pedestrian easement. | `terms/OT2002/records/First-Unitarian-Church-of-Salt-Lake-City-v-Salt-Lake-City-Corp_merits_2003-04-07.md` |
+| 2003-04-07 | LaVine v. Blaine School District | The Court affirms in part, vacates in part, and remands. | `terms/OT2002/records/LaVine-v-Blaine-School-District_merits_2003-04-07.md` |
 | 2003-04-07 | Medical Board of California v. Hason | The motion is granted and the writ dismissed under Rule 46 without damages and costs. The retention/amicus request and each asserted monetary remedy are denied. No tally or individual lineup is announced. | `terms/OT2002/records/Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md` |
+| 2003-04-07 | PacifiCare Health Systems, Inc. v. Book | The Eleventh Circuit judgment is reversed and the case remanded for arbitration in accordance with the actual agreements. | `terms/OT2002/records/PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md` |
 | 2003-04-07 | Peavy v. WFAA-TV, Inc. | The review is dismissed as moot. Vacatur is denied. No tally or individual lineup is announced. | `terms/OT2002/records/Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md` |
+| 2003-04-07 | State Farm Mutual Automobile Insurance Co. v. Campbell | The Court reverses the punitive judgment and remands. Five Justices vote to reverse; the Chief Justice concurs in setting aside the award and remanding but would vacate. Three Justices would affirm. | `terms/OT2002/records/State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md` |
 | 2003-04-07 | Virginia v. Black | The judgment is affirmed as to Black and vacated and remanded as to Elliott and O'Mara. | `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md` |
+| 2003-04-22 | Boroff v. Van Wert City Board of Education | The Court vacates the Sixth Circuit judgment insofar as it affirms summary judgment for defendants on the First Amendment claim and remands. The due-process disposition remains undisturbed. The Chief Justice would reverse the speech component; all nine agree that it must be set aside and remanded. | `terms/OT2002/records/Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md` |
+| 2003-04-22 | Clackamas Gastroenterology Associates, P.C. v. Wells | Reversed and remanded, 7-2; necessary physician classification and its established numerical consequences. | `terms/OT2002/records/Clackamas-Gastroenterology-Associates-PC-v-Wells_merits_2003-04-22.md` |
+| 2003-04-22 | Dole Food Co. v. Patrickson | The writ in No. 01-593 is dismissed as improvidently granted; the Ninth Circuit judgment in No. 01-594 is affirmed. | `terms/OT2002/records/Dole-Food-Co-v-Patrickson_merits_2003-04-22.md` |
+| 2003-04-22 | Jinks v. Richland County | The South Carolina Supreme Court's limitations judgment is reversed and the case remanded for remaining preserved issues affecting the verdict. | `terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md` |
+| 2003-04-22 | Trans Union LLC v. Federal Trade Commission | The Court affirms the judgment sustaining the ripe challenged rules and withholding both aggregate-use merits questions as unripe. | `terms/OT2002/records/Trans-Union-LLC-v-Federal-Trade-Commission_merits_2003-04-22.md` |
+| 2003-04-22 | Women's Medical Center of Northwest Houston v. Bell | Fifth Circuit mixed preliminary-injunction judgment affirmed, 9-0 on each component; remanded. | `terms/OT2002/records/Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md` |
+| 2003-04-23 | Franchise Tax Board of California v. Hyatt | Affirmed, 9-0; intentional-tort proceedings may continue; negligence dismissal stands. | `terms/OT2002/records/Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md` |
 | 2003-04-28 | Planned Parenthood of Southern Arizona v. Lawall | Rejection of the challenge to necessary confidential internal handling is affirmed, 9–0; rejection of the outside-agency-access claims is vacated and remanded, 6–3. | `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md` |
 | 2003-05-19 | Stout v. Baxter Healthcare Corp. | The judgment is affirmed in part, vacated in part and remanded. | `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md` |
 | 2003-05-27 | Benson v. Terhune | The judgment denying the requested habeas relief is affirmed. | `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md` |
+| 2003-05-27 | Gorski v. New Hampshire Department of Corrections | Affirmed, 9-0 on each component; harassment reinstated and transfer summary judgment preserved. | `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md` |
 | 2003-06-02 | Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395 | Child-search immunity judgment reversed, 7–2; entry and duplicative-due-process dispositions affirmed, 9–0; remanded with state claims treated independently. | `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
 | 2003-06-26 | Georgia v. Ashcroft, No. 02-182 | The denial of preclearance for the original Senate plan and the order permitting the four voters to intervene are affirmed. | `terms/OT2002/records/Georgia-v-Ashcroft_merits_2003-06-26.md` |
@@ -610,11 +623,35 @@ Source: `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_
 
 Courts applying ERISA's insurance saving clause must ask whether the law targets entities engaged in insurance in their insurance activity and substantially affects the insurer-insured risk-pooling arrangement. Material coverage and network-access conditions can satisfy that rule without a separate actuarial transfer. Kentucky's two commands satisfy it under their distinct provider and coverage conditions, including the presented nonexempt-arrangement and administrative-only-HMO coverage. Actual federal exemptions, the deemer clause and ERISA's separate remedial requirements continue to control enforcement.
 
+### 2003-04-07 — Boisson v. Banian, Ltd.
+
+Source: `terms/OT2002/records/Boisson-v-Banian-Ltd_merits_2003-04-07.md`.
+
+For visual arrangements containing common material, courts must protect the original relationships and compare whether those relationships were copied. Minimal creativity and independent creation remain the originality requirements; neither novelty nor ownership of the ingredients is required. These six comparisons establish two infringements of one protected work, with relief determined under the applicable statutory unit and remedy conditions.
+
+### 2003-04-07 — First Unitarian Church of Salt Lake City v. Salt Lake City Corp.
+
+Source: `terms/OT2002/records/First-Unitarian-Church-of-Salt-Lake-City-v-Salt-Lake-City-Corp_merits_2003-04-07.md`.
+
+A retained municipal pedestrian through-route with this continued public function carries traditional-forum protection despite private ownership of the surrounding land. The City must apply the governing content, viewpoint and neutral-regulation standards to the easement. The categorical owner-selective prohibition is unenforceable throughout that route, and the mandate requires entry and implementation of the declaration and injunction below. The Church's surrounding premises and independently attributed expression remain private. The abandoned whole-plaza theory lies outside this judgment; independent theories unnecessary to the full speech remedy and the distinct transaction claims identified in the holdings remain undecided.
+
+### 2003-04-07 — LaVine v. Blaine School District
+
+Source: `terms/OT2002/records/LaVine-v-Blaine-School-District_merits_2003-04-07.md`.
+
+Personal student expression remains governed by Tinker's concrete forecast rule when officials undertake a temporary safety response. A genuine continuing connection to the safety concern is required, and the actual-cause and same-decision rules apply independently. The exclusion judgment returns for further proceedings with no controlling rationale for the decision to reopen it. A continuing unqualified accusation maintained after accepted clearance requires correction or removal when it burdens the protected expression as this letter does. Accurate historical records remain permissible, and the injunction must fit the specific continuing injury.
+
 ### 2003-04-07 — Medical Board of California v. Hason
 
 Source: `terms/OT2002/records/Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md`.
 
 Rule 46 dismissal, monetary entitlement and treatment of the lower judgment retain their distinct requirements. The dismissal adds no Title II immunity or licensing holding because those questions are not reached. The Ninth Circuit judgment remains operative, and Hason's action may continue in the position that judgment created.
+
+### 2003-04-07 — PacifiCare Health Systems, Inc. v. Book
+
+Source: `terms/OT2002/records/PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md`.
+
+Courts must enforce the agreed arbitral forum where refusal rests solely on the unestablished premise that these ambiguous damages restrictions necessarily eliminate RICO relief. Initial arbitral construction and an independently authorized challenge to a concrete statutory conflict remain distinct stages. The validity of an established essential-remedy waiver remains open on this record.
 
 ### 2003-04-07 — Peavy v. WFAA-TV, Inc.
 
@@ -622,11 +659,59 @@ Source: `terms/OT2002/records/Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md
 
 Existing mootness and equitable-vacatur rules govern the settled review. The Fifth Circuit judgment remains in place without a Supreme Court adjudication of its underlying wiretap or First Amendment grounds. The participant-publisher question remains outside this disposition because the parties' controversy has ended.
 
+### 2003-04-07 — State Farm Mutual Automobile Insurance Co. v. Campbell
+
+Source: `terms/OT2002/records/State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md`.
+
+Punitive awards remain subject to independent constitutional excessiveness review, in addition to meaningful amount review and fair procedure. The Court supplies qualified single-digit guidance with express exceptions and recognizes that substantial compensation may bring the permissible ratio toward equality; the amount remains tied to the conduct and harm proved. Connected pattern evidence may illuminate culpability, while independent dissimilar grievances cannot furnish additional punishment. Territorial limits and the distinction between evidence and punishment remain operative. Utah must redetermine this award under those rules, with the case-specific guidance that an amount at or near compensation is likely appropriate. Liability and compensation retain their existing force.
+
 ### 2003-04-07 — Virginia v. Black
 
 Source: `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md`.
 
 The State may prohibit this viewpoint-independent method of intentional threatening intimidation, with proof of an actual serious threat and the statutory intent in context. Black's particular by-itself charge is constitutionally inadequate despite its general burden instructions. The Court's direct majorities establish those rules and the Elliott/O'Mara remand. The facial question remains fractured at the level described in Part III; the affirmed dismissal of Black's indictment binds the parties. Further proceedings for Elliott and O'Mara apply the constitutional requirements to the state law that validly remains and their different adjudicative records.
+
+### 2003-04-22 — Boroff v. Van Wert City Board of Education
+
+Source: `terms/OT2002/records/Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md`.
+
+Schools must justify restrictions on personal expression through an applicable lawful category and supported facts, rather than a general power to suppress ideas contrary to educational values. Artist association and contextual evidence receive their actual evidentiary weight. Impermissible viewpoint causation and a genuine same-decision defense remain distinct inquiries. The existing judgment covering the first shirt and later restrictions returns for renewed adjudication under those rules; the due-process disposition retains its final status. The remand resolves maintained claims, attribution, defenses and live remedies through ordinary proceedings.
+
+### 2003-04-22 — Clackamas Gastroenterology Associates, P.C. v. Wells
+
+Source: `terms/OT2002/records/Clackamas-Gastroenterology-Associates-PC-v-Wells_merits_2003-04-22.md`.
+
+Working owners under the ADA's circular definition must be classified through the complete actual relationship. Collective governance and employee service may coexist. Coverage then follows genuine employment relationships over the statutory days and weeks. Lower courts must give the clinic's concrete employment evidence and proprietor evidence their actual weight, resolve only coverage-material questions under the Court's mandate, and continue with the action according to the resulting coverage determination.
+
+### 2003-04-22 — Dole Food Co. v. Patrickson
+
+Source: `terms/OT2002/records/Dole-Food-Co-v-Patrickson_merits_2003-04-22.md`.
+
+An asserted FSIA majority-ownership status must exist when suit is filed. The sovereign or political subdivision must itself hold the majority shares or other ownership interest; intermediate share ownership alone does not satisfy that branch. The separate organ branch and the other statutory conditions remain available on their own terms. The filing-time and direct-ownership grounds each control through their identified direct majorities.
+
+### 2003-04-22 — Jinks v. Richland County
+
+Source: `terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md`.
+
+Section 1367(d) validly protects its qualifying claims on the enacted terms, including covered claims against a county. State courts must honor that protection when adjudicating their own substantive causes of action. Raygor continues to exclude immune state-law claims outside the supplemental grant. The federal time rule applies in still-open cases within its scope; remaining trial objections and ordinary remedy questions remain for the competent state court.
+
+### 2003-04-22 — Trans Union LLC v. Federal Trade Commission
+
+Source: `terms/OT2002/records/Trans-Union-LLC-v-Federal-Trade-Commission_merits_2003-04-22.md`.
+
+Credit-bureau activity within the incorporated financial category is subject to the GLBA privacy rules at their actual significant-engagement and statutory limits. Financial-relationship information and lists derived using protected information retain their protection, while genuinely independent public information follows the stated exclusions. The original receipt route controls reuse: exception-based access remains purpose-bound, and outside-exception receipt preserves its own-use permission subject to applicable contractual limits, while redisclosure follows the originator's lawful permissions and the actual consumer election. The account-number marketing rule has its separate recipient exception and regulatory qualifications. These ripe restrictions are enforceable under both the statute and the independent commercial-speech analysis. The statutory and constitutional questions concerning production of aggregate or blind data remain open until a concrete, ripe application presents them. Lower courts apply the defined rules and exceptions to particular sources, uses and transactions; the statutory permissions do not themselves establish actual compliance.
+
+### 2003-04-22 — Women's Medical Center of Northwest Houston v. Bell
+
+Source: `terms/OT2002/records/Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md`.
+
+The annual-volume classification survives the reviewed ordinary equal-protection challenge. The three specified subjective regulations remain subject to preliminary restraint, while separable objective licensing requirements may operate. Protected-access claims retain their distinct governing law and must rest on the actual operation and evidence of the requirement challenged. Further merits proceedings preserve the difference between an interim likelihood determination and final adjudication.
+
+### 2003-04-23 — Franchise Tax Board of California v. Hyatt
+
+Source: `terms/OT2002/records/Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md`.
+
+A forum with a legitimate local connection may use its evenhanded intentional-tort policy despite a sister State's broader statutory immunity. Core sovereign activity alone does not give that legislation compulsory extraterritorial force. Actual judgments continue to receive the recognition their lawful adjudicative effect requires. In this action the intentional-tort claims proceed under ordinary standards and the negligence dismissal stands.
 
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
@@ -645,6 +730,12 @@ Title VII's impact sequence applies to attendance practices affecting pregnancy,
 Source: `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md`.
 
 The existing habeas framework and medication protections are applied without change. This supported record establishes no entitlement to a new-trial writ under the eligible law. Capacity, treatment choice and trial effects remain distinct; the decision creates no general immunity for inadequate medical information and no new affirmative-information rule. Stone-Zsela's proposed development remains noncontrolling.
+
+### 2003-05-27 — Gorski v. New Hampshire Department of Corrections
+
+Source: `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md`.
+
+Pregnancy-based hostile-environment claims receive Title VII's ordinary causation, environment, pleading and attribution rules. Representative allegations giving fair notice permit ordinary development; a distinct evidentiary failure on transfer does not turn them into an exhausted harassment record. Ultimate liability requires the complete substantive and attribution showings, and the transfer judgment remains effective on this developed record.
 
 ### 2003-06-02 — Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395
 
@@ -1144,6 +1235,44 @@ Source: `terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_
 
 Stone-Zsela concurs in part and in the judgment. He would apply UNUM's practical, nonmechanical guideposts to the insurer-directed changes in the actual coverage bargain. Network access affects promised care and the arrangement for furnishing and financing it; the plans' cost-control objection identifies the economic effect of insurance regulation rather than a reason to disregard the saving clause. Rush Prudential preserves saved coverage conditions and the federal benefits-remedy channel. He therefore supports saving the requirements within their lawful insurance scope but would retain the existing framework rather than replace it with two universal necessary conditions. He joins Part VI's deemer and independent enforcement boundaries. Particular disputed plan status must be established under applicable federal law. His agreement in judgment on the nonexempt self-insurer/MEWA definition objection and the administrative-only-HMO objection adds no separate rationale for those components.
 
+### 2003-04-07 — First Unitarian Church of Salt Lake City v. Salt Lake City Corp.
+
+Source: `terms/OT2002/records/First-Unitarian-Church-of-Salt-Lake-City-v-Salt-Lake-City-Corp_merits_2003-04-07.md`.
+
+Chief Justice Stone-Zsela concurs, joining the Court's opinion in full. He would also apply a complete-policy-cure presumption when a proved common policy violates the rights of those it governs: all governed users receive protection unless the responsible parties show that a narrower measure completely cures the violation. Genuine standing and equitable limits continue to apply. Here exemptions for named speakers would leave the common deprivation operating, so the prohibition must cease throughout the retained easement. On implementation, the district court should identify the easement and prohibited enforcement in its decree, and assess actual restrictions and exclusion practices as evidence of compliance. Continued enforcement of the invalid ban calls for enforcement of the fitted injunction rather than a succession of speaker-specific exemptions. His proposed presumption supplies an additional remedial ground for the same easement-wide disposition; it does not enlarge the public property interest.
+
+### 2003-04-07 — LaVine v. Blaine School District
+
+Source: `terms/OT2002/records/LaVine-v-Blaine-School-District_merits_2003-04-07.md`.
+
+**Stone-Zsela, concurring in part and in the judgment of remand on exclusion.** He joins Parts I.A and III. A supported initial safety inquiry does not establish the necessity of the whole ensuing exclusion. Officials must identify contemporaneous facts, their reliability and relationship to present risk, and why continuing removal instead of a workable protective alternative is needed as material information changes. Tinker supplies that continuing justification requirement; ACLA's civil-threat rule supplies no criminal prerequisite, and Boring's institutional curriculum rule does not govern this poem. He would assess the initial evaluation, further visits and favorable conclusion in sequence, without a universal timetable. Noncommitment alone does not establish safety, but the inquiry's justified beginning cannot conclusively validate all seventeen missed school days. He would sustain a prompt, proportionate and necessary interval if conclusively established. His ground requires further review here. The record cure must incorporate the completed inquiry and may preserve accurate history; the district court should inspect the result before the unsupported characterization is used as an adverse determination. Damages and conduct-date immunity remain subject to ordinary proof and defenses.
+
+**O'Connor, concurring in part and dissenting in part, joined by Scalia, Kennedy and Thomas on exclusion.** These four Justices accept the actual-cause rule but would affirm the defense judgment. Newell actually considered individualized information, school personnel sought help through several public agencies, and the district funded the agreed examination and allowed prompt return after favorable advice. Dewitt's conclusion against commitment is genuine counterevidence but answers a different question. Haney's categorical testimony and the original letter's disciplinary wording do not, in their view, create a material dispute about Newell's actual limited preventive decision. The emergency mechanism itself used an expulsion label. Henerey's actual-process holding shows that a supported lawful ground can be established on summary judgment. Their position sustains this assessment course, not a fixed permissible seventeen-day exclusion. O'Connor and Kennedy join the Court's separate correction-or-removal holding because the limited safety response cannot justify the later unqualified lasting account.
+
+**Scalia, dissenting from file relief, joined by Thomas.** These Justices distinguish an actual continuing speech sanction from an incomplete record of a justified safety response. The omitted later developments and possible reputational consequences do not establish a new punitive act on this record. Tinker does not create an automatic constitutional completeness requirement for administrative history. They would reverse the file injunction; they do not defend an actually false present-danger finding or renewed punishment of protected expression.
+
+### 2003-04-07 — PacifiCare Health Systems, Inc. v. Book
+
+Source: `terms/OT2002/records/PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md`.
+
+**Stone-Zsela, concurring in the judgment.** The Chief Justice would ordinarily vacate and remand for agreement-specific judicial examination of a concrete claim that the compelled forum disables an essential federal remedy. The objector must identify an actual restriction; the proponent must establish the agreement and any valid, clear and unmistakable delegation covering that objection. A preserved challenge to the delegation itself remains judicial. Broad arbitration language and Howsam's forum-timing presumption do not establish delegation of this distinct question.
+
+Absent such a delegation, he would have the court construe the actual agreements and incorporated terms, develop only genuinely material preserved disputes that prevent decision, and determine whether each restriction eliminates an essential remedy. A sufficient contractual record calls for decision without an unnecessary hearing. Mastrobuono requires contextual reading, and RICO trebling cannot be excluded merely by labeling it punitive. A preserving agreement would be enforced. A clear disabling term would require lawful severance under the bargain and ordinary law before compulsion; if no lawful arbitral forum remains, litigation would continue in court. This rule would extend First Options and Green Tree's protection of effective statutory access while keeping Howsam's ordinary procedural category intact. A valid delegation would change the initial decisionmaker, with later review confined to an independently authorized route.
+
+Because the Court treats the particular disputed restrictions as arbitral merits construction, he accepts reversal of a refusal to compel resting solely on assumed exclusion. His agreement preserves an actually available lawful challenge to a construction eliminating federal entitlement, subject to the authority and conditions governing that challenge; ambiguity does not permanently insulate a disabling construction. He joins the judgment on that narrower basis and does not join the Court's allocation rationale. His preferred judicial-gateway rule is a distinct proposed ground, not the Court's holding.
+
+### 2003-04-07 — State Farm Mutual Automobile Insurance Co. v. Campbell
+
+Source: `terms/OT2002/records/State-Farm-Mutual-Automobile-Insurance-Co-v-Campbell_merits_2003-04-07.md`.
+
+**Stone-Zsela, concurring in part and in the judgment setting aside the award.** He joins the territorial prohibition and permissible-evidence distinction in Part II. He would narrow BMW and Cooper Industries by removing independent federal substantive recalculation of punitive amounts, while retaining fair notice, fair procedure, lawful claim and territorial objects, meaningful judicial examination and authority to correct an arbitrary amount. Oberg requires review of the amount itself, not merely entitlement or a recital that punishment has evidentiary support. A multiplier may trivialize deliberate risk when realized loss is small and enlarge punishment mechanically when compensation rises; ratios and wealth alone do not justify a sanction. He would additionally bar using these plaintiffs' action to punish absent persons' separate injuries, while permitting relevant recurring conduct to show culpability. BMW's existing territorial rule independently forbids the dissimilar nationwide punishment reflected here. He therefore would vacate, preserve liability and compensation, and remand. With BMW and Cooper Industries remaining governing law, their guidepost and independent-review requirements govern the corrected award. Before reinstatement Utah must identify the wrong, supported harm or risk, permissible culpability evidence and prohibited punishment objects removed, and meaningfully examine the amount. If the record cannot reliably separate lawful punishment, he would require a new punitive proceeding; proper state remittitur remains available. He selects no replacement sum, single-digit ceiling or one-to-one ratio.
+
+**Scalia, dissenting, joined by Thomas.** They would affirm because due process protects traditional adjudication and meaningful judicial review of state-law punitive limits, not an independent federal entitlement to a different dollar amount. Utah supplied actual review at the trial and appellate levels. Restoration of the jury's sum does not show that the safeguard was removed. Their TXO and BMW positions distinguish procedure from substantive numerical supervision. Scalia's Oberg explanation rests on enforcing state-prescribed limits through traditional review; Thomas relies on his own Oberg Court join and TXO position, without joining Scalia's separate Oberg explanation. Their Cooper Industries votes accepted BMW for the limited question of appellate review, not its substantive foundation. They reject the Court's amount invalidation and its new nexus-based substantive constraint, while preserving meaningful review and lawful enforcement of state limits.
+
+**Ginsburg, dissenting.** She would affirm out of respect for state adjudication and the complete local record, without joining the categorical objection to every substantive constitutional protection. Her BMW and Oberg positions leave room for a properly presented extreme excessiveness claim. Here the trial evidence ties national management and its payout program directly to the Campbells: Summers's testimony, Brown's conduct, Utah payout targets, the handbook, alteration of the file and destruction affecting this litigation support intentional, recurrent, difficult-to-detect misconduct against vulnerable people. The state courts examined the amount and possessed correctional authority. A 145-to-one ratio, considered apart from that record, does not justify federal replacement of their judgment. She opposes numerical controls that undervalue the demonstrated wrongdoing. The Court's recognition of the local nexus does not answer her institutional and amount objections.
+
+**Breyer, concurring.** He joins the complete Court opinion and supplies an additional explanation drawn from his BMW position. A procedurally regular award ordinarily deserves a strong presumption of validity, but that does not immunize a sum whose applied criteria fail to constrain discretion and whose magnitude is grossly disconnected from legitimate punitive objectives. Actual hearings and state review occurred here. Entitlement, wealth and general incentive claims nevertheless do not explain this amount. A supported economic account can discipline a sanction; the one-in-50,000 testimony is not a verified calculation of detection or proved similar injuries. His explanation adds no compulsory economic model, sixth guidepost or prescribed retrial.
+
 ### 2003-04-07 — Virginia v. Black
 
 Source: `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md`.
@@ -1155,6 +1284,48 @@ Source: `terms/OT2002/records/Virginia-v-Black_merits_2003-04-07.md`.
 **Souter, concurring in the judgment as to Black and dissenting as to Elliott and O'Mara, joined by Kennedy and Ginsburg.** They would resolve the open content-selection question against this prohibition. The combination of a symbol-specific offense and evidentiary privilege presents a realistic danger that suppressing the associated ideology partly explains the selection. A cross can convey ideology, intimidation or both. The proof provision tilts doubtful cases toward punishment, and a general intimidation law can protect safety without this selection. They would affirm every reviewed conviction vacatur and indictment dismissal. Later removal of the proof clause cannot validate prosecutions under a law constitutionally defective when the conduct occurred.
 
 **Thomas, dissenting.** Thomas principally treats intentional cross burning as terrorizing conduct by a particular means. Alternatively, its history gives the permissive inference a rational basis under Allen, while the whole charge preserves the prosecution's burden and the jury's ability to reject the inference. He would reverse the reviewed constitutional grounds for vacatur and dismissal for each respondent and remand for remaining preserved matters, including O'Mara's plea consequences. His position requires statutory intimidating intent and does not make every political or ritual cross burning criminal.
+
+### 2003-04-22 — Boroff v. Van Wert City Board of Education
+
+Source: `terms/OT2002/records/Boroff-v-Van-Wert-City-Board-of-Education_merits_2003-04-22.md`.
+
+**Stone-Zsela, concurring in part and in the result.** The Chief Justice joins the personal-speech rule, causation framework and conclusion that the current defense judgment cannot stand. He would reverse that judgment on the presented First Amendment claim and remand, while preserving the due-process disposition. In the separate viewpoint inquiry, he requires Boroff to prove by a preponderance that protected expression substantially or materially motivated the exclusion, and defendants to establish by a preponderance that the same exclusion would have occurred on a genuinely lawful ground without that protected expression. Settle and Mt. Healthy preserve genuinely proved independent lawful cause, not an imagined alternative or a relabeling of disapproval.
+
+He would additionally presume a policy-wide cure if further adjudication establishes both a uniform unlawful viewpoint policy and prospective standing: those governed by the policy must receive protection unless defendants demonstrate that a narrower remedy completely cures the violation. A proved continuing policy violation must be removed through a specific enforceable order. The predicate findings and jurisdictional requirements govern that proposed relief. The current remand determines live requested remedies and defendant-specific responsibility; loss of prospective relief alone does not extinguish a viable retrospective claim.
+
+### 2003-04-22 — Clackamas Gastroenterology Associates, P.C. v. Wells
+
+Source: `terms/OT2002/records/Clackamas-Gastroenterology-Associates-PC-v-Wells_merits_2003-04-22.md`.
+
+**Stone-Zsela, concurring in part and in the judgment.** The Chief Justice agrees with the complete common-law rule, the relationship-based count and reversal of the categorical corporate judgment. He would direct classification of all four physician relationships before the statutory count, including their actual authority, supervision and working arrangements. Wells must establish statutory coverage by a preponderance, and neither party should receive summary judgment while a genuine material control dispute remains. His direction differs from the Court's permission to omit remaining physician classifications once sufficient qualifying physician employment establishes the statutory minimum. He applies the established 1996-1997 window and reported aggregate workforce premise after the required classifications.
+
+He applies Christensen's distinction between persuasive advisory reasoning and controlling deference to the EEOC guidance. The six considerations assist Darden because they reveal actual control, but do not displace other material agency incidents. Walters supplies counting only after classification, without transplanting Title VII's separate exclusions. A supported threshold failure warrants judgment on that ground; satisfaction of coverage and other prerequisites permits adjudication of the discrimination claim. The standard concerns working owners under this statutory definition; a materially different definition requires its own construction.
+
+**Ginsburg, concurring in part and dissenting in part, joined by Breyer.** They accept the complete relationship and counting rules but find the combined record sufficient to classify these four physicians as employees now. Their professional services, employment contracts, salaries and bonuses, corporate work premises, required standards and manager reporting establish an employment role compatible with collective ownership and shared profits. Johnson & Higgins supplies the dual-role principle, not an automatic rule attached to incorporation. Personal malpractice responsibility differs from general exposure to the business's losses. The ERISA and workers' compensation acknowledgments reinforce this reading of the arrangement without creating estoppel or an ADA concession. The possibility of further detail concerning control does not outweigh the established combination. They would affirm the appellate reversal of summary judgment on this actual-relationship ground. Counting all four with the reported ordinary staff yields at least eighteen qualifying relationships for twenty-eight full weeks in 1996 and thirty-seven in 1997, resolving the numerical objection against the clinic in both relevant years. Further proceedings would address only genuinely remaining issues, with employee status and numerosity resolved.
+
+### 2003-04-22 — Dole Food Co. v. Patrickson
+
+Source: `terms/OT2002/records/Dole-Food-Co-v-Patrickson_merits_2003-04-22.md`.
+
+**Stone-Zsela, concurring in part and in the judgment.** He joins the filing-time portion and both docket dispositions. The terminated ownership relationship defeats the companies' asserted status regardless of whether a current indirect interest could qualify. In his view, the Court should stop with that complete ground rather than decide the presented corporate-tier question. Keene supports filing-time discipline, but the FSIA's own present-tense status and existing-sovereign-relationship function supply the construction. Weltover and Nelson require the actual statutory category, and Bancec's separate-identity rule does not itself answer timing. His opinion leaves the distinct organ branch and any genuinely preserved independent jurisdictional source to their own requirements.
+
+**Breyer, joined by O'Connor, concurring in part and dissenting in part.** They join the filing-time portion and both decrees but reject the direct-only construction. In their view, other ownership interest includes the foreign nation's legal interest through a corporate parent owning the subsidiary. The ordinary legal meaning of ownership depends on context, and separate identity for assets or liability does not by itself determine entitlement to the statutory federal forum. Bancec preserves the distinct liability question; the FSIA expressly accords sovereign-related forum protections to separate governmental corporations. The reasons for those protections persist when a nation organizes an enterprise through intermediate tiers. The phrase shares or other ownership interest does not expressly impose the majority's direct-only limitation. Their position concerns a legally owned corporate chain, not control alone, and preserves the independent organ branch and the remaining statutory conditions. Because the sovereign relationship ended before filing, their interpretation nevertheless produces the same judgment in No. 01-594.
+
+### 2003-04-22 — Trans Union LLC v. Federal Trade Commission
+
+Source: `terms/OT2002/records/Trans-Union-LLC-v-Federal-Trade-Commission_merits_2003-04-22.md`.
+
+Justice Thomas concurs, joining the Court's opinion in full. He retains his broader reservation about treating commercial expression as having less constitutional value, but accepts the Court's complete Central Hudson/Fox analysis of this application. The operative distinction concerns exploiting information obtained through a confidential financial relationship, rather than withholding truthful product information to influence consumers for their own good. The actual source, purpose, consumer-election and transfer limits sustain the result; corporate identity or payment alone would not classify expression or supply the justification.
+
+### 2003-04-22 — Women's Medical Center of Northwest Houston v. Bell
+
+Source: `terms/OT2002/records/Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md`.
+
+**Stone-Zsela, concurring.** The Chief Justice joins the Court's classification, vagueness and procedural holdings. For the common standardless sanctioning defect, he would presumptively protect persons governed by the same demonstrated threat unless officials establish a narrower complete interim cure, subject to the actual parties, standing and supported preliminary findings. The decree should identify the three provisions and prohibit their use as grounds for penalties or licensing sanctions while separable objective rules remain enforceable. Officials may propose lawful clarification through the proper process; its actual binding effect must be tested before relief is dissolved. An assurance of future guidance does not cure present exposure.
+
+He also explains the inquiry for any access claim properly pending at the later merits stage. Evidence must connect a particular requirement to delayed clinically necessary care or another concrete added burden. Under Owens, alternatives must actually provide timely suitable care, and protection cannot be reduced to imminent death. Hansen's account of medically indicated treatment makes that clinical fit material. Newman requires justification of a proved additional encounter and an answer to concrete adequate alternatives; ordinary prospective proof requires neither completed loss of care nor a universal causal percentage.
+
+Casey's full framework governs: determine the actual duty and purpose, added interference and affected population; reject baseline violations, obstructive purpose or substantial obstacles; require compelling justification and narrow tailoring for remaining severe interference, and substantiated justification, fit and an answer to practicable substantially less burdensome alternatives for remaining meaningful interference; protect clinical judgment and truthful communication; and fit relief to the proved requirement and impairment. This conditional merits analysis preserves the unappealed interim ruling and requires the missing access facts to be established in their proper proceedings.
 
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
@@ -1270,4 +1441,4 @@ No further report, filing, deadline, or Court action is supplied.
 
 ## Future event controls
 
-The remaining 90 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 77 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.

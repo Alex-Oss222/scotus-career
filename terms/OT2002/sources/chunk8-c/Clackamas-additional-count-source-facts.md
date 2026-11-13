@@ -1,0 +1,5 @@
+# Clackamas: additional objective record recitation
+
+Source: 538 U.S. 440, introductory record description. This paragraph is copied mechanically from the saved primary text. It reports employment dates, the asserted coverage defense and the undisputed dependence of its accuracy on physician status. It conveys no Supreme Court result, vote or adopted rationale.
+
+Petitioner, Clackamas Gastroenterology Associates, P. C., is a medical clinic in Oregon.  It employed respondent, Deborah Anne Wells, as a bookkeeper from 1986 until 1997.  After her termination, she brought this action against the clinic alleging unlawful discrimination on the basis of disability under Title I of the ADA.  Petitioner denied that it was covered by the Act and moved for summary judgment, asserting that it did not have 15 or more employees for the 20 weeks required by the statute.  It is undisputed that the accuracy of that assertion depends on whether the four physician-shareholders who own the professional corporation and constitute its board of directors are counted as employees.

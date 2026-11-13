@@ -1,0 +1,33 @@
+# OT2002 chunk 8 — validation
+
+## Result and scope
+
+All thirteen scheduled matters are completed in durable Decision Records. No matter is stopped. The generated Render Input contains thirteen exact Public Projections, dated April 7 through May 27, 2003. Public rendering remains a separate task. No prior adjudication, approved brief, opening tracker or governing file was changed.
+
+The four current-term projections are synchronized: 106 completed event Records; 103 of 180 scheduled inventory events completed; 77 remaining. Cano retains its separately scheduled merits event, and the three original-action carryovers keep their opening stages. No Admitted Source Record was added.
+
+## Completed deterministic checks
+
+The reviewed adapter executed the standard term check's non-history work, including opening Holdings-volume synchronization, runtime split freshness, Record interfaces, Public Projection and generated Render Input identity, and applicable inventory and projection checks. Its complete output is `OT_2002CHUNK8_CHECK_TERM.txt`. The separate mechanical report verifies all thirteen component partitions, actual opinion authors, fresh assignment counts and pools, explanation ceilings, protected baseline digests, generated identity, expected term totals and absence of a chunk public render. All 406 protected baseline files remain byte-identical.
+
+Assignments were made one at a time in effective-date and alphabetical same-date order. Every count was rebuilt from actual opinion tables of eligible earlier Records, including earlier new Records. The author chosen for every lead is in the recorded balance pool. State Farm's internal assignment authority was clarified to Stevens for its exact reversal coalition; Kennedy, the counts and the entire public adjudication remain unchanged. Boroff likewise assigns through Stevens's exact vacatur coalition. The authority receipt and independent review document the distinction between formal decrees and shared operative relief.
+
+All scoped handoffs retain their frozen sources and digests. The aggregate commitments and reconciliation are mechanically copied selections with the Clackamas count supersession expressly identified. Original neutral/comparator/approved-position splits remain generated from the unchanged brief. Source copies preserve provenance, source-qualified allegations, statutory exceptions and permission/obligation distinctions. The official Boroff opinion was visually cross-checked in full after its legacy text layer failed; no material discrepancy was found.
+
+## Completed substantive checks
+
+The independent reviews listed below and the Records' adaptive annexes verify the approved Stone core, conditions and alternatives; each Associate's final grounds and joins; historical reconciliation; exact disposition and remedy; every controlling coalition; precedent treatment; and resulting law. Added lower-court matters use their actual supplied record and accepted scheduled review channel without an invented historical Supreme Court docket. Material supplemental facts were returned through neutral validation, fresh affected modeling and separate reconciliation before assembly.
+
+PacifiCare has eight participants because Thomas did not participate. LaVine's exclusion remand is five to four without a controlling application rationale; its general rules and seven-Justice file remedy retain their own authority. Clackamas distinguishes the necessary-classification majority mandate, the dissent's resolved employee/count application and Stone's all-four instruction. State Farm preserves five reversal votes, Stone's vacatur and three affirmance votes, with six votes for operative set-aside/remand and only five for qualified proportionality guidance. Dole preserves nine votes on the two docket decrees and filing-time rule, six ownership votes, two contrary ownership votes and Stone's nonreach. Boroff preserves eight formal vacatur votes and Stone's reversal while distinguishing common substantive joins and his additional conditional remedial position.
+
+LaVine's completed April 7 public law entered Boroff through a clean neutral refresh. Only completed earlier-effective law enters each event; assignment sorting does not turn unrelated same-day holdings into entering law. The two continuity reviews found no material displacement requiring correction of the seven already completed later adjudications. Final Boroff identity verification is recorded in its continuity receipt.
+
+## Section 15 negative-statement check
+
+PASS. Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action, together with their internal source sections, were reviewed under Section 8's complete-resolution rule. The prepublication reviews removed the identified redundant or artificial reservations and preserved the actual legal work of the retained limits. Retained negative formulations identify genuine presented nonreach or fractured authority, relief sought or ordered below, surviving lower-judgment status, or an operative limit that the disposition alone would not convey. A qualification preventing a categorical cap, an inaccurate source inference or an unsupported extension states the rule's actual scope rather than an inventory of unawarded relief. Separate proposals are presented in topology and separate-writing summaries, apart from concise controlling answers to actual contrary grounds. No excluded negative statement remains identified. This is a qualitative review result, not a keyword-test inference.
+
+## Review evidence and remaining operator work
+
+Independent substantive receipts: A_INDEPENDENT_REVIEW; FIRST_UNITARIAN_REVIEW; TRANS_UNION_REVIEW; C_INDEPENDENT_REVIEW with CLACKAMAS_COUNT_REVIEW; LAVINE_REVIEW; STATE_FARM_REVIEW; BOROFF_REVIEW. Assignment authority: ASSIGNMENT_AUTHORITY_REVIEW and ASSIGNMENT_AUTHORITY_CHECK.json. Continuity: CONTINUITY_REVIEW and BOROFF_CONTINUITY_REVIEW. These names use the `OT_2002CHUNK8_` prefix in this folder. Stage boundaries, repaired exposure disclosures and final authority routes are indexed in STAGE_HANDOFFS.md under the same prefix.
+
+No repository command was executed. Commit-hash existence, repository-history verification and commitment are expressly deferred to the operator. The standard-check adapter suppresses only that forbidden history operation and labels its report accordingly; this is not a full provenance pass. The administrative deferral is not a missing judicial filing or an adjudicative blocker. All final substantive, structural and non-history checks are complete.

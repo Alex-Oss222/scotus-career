@@ -1,0 +1,19 @@
+[
+  {
+    "name": "First_Unitarian_308_F3d_1114",
+    "url": "https://law.resource.org/pub/us/case/reporter/F3/308/308.F3d.1114.01-4111.html",
+    "sha256": "19a336b16f30a2b63d0bd6dda7027500f0c4b325a1bda64e492bf20976def458",
+    "text_characters": 62615
+  },
+  {
+    "name": "First_Unitarian_308_F3d_1114_crosscheck",
+    "url": "https://caselaw.findlaw.com/court/us-10th-circuit/1160780.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "Trans_Union_295_F3d_42",
+    "url": "https://www.govinfo.gov/content/pkg/USCOURTS-caDC-01-05202/pdf/USCOURTS-caDC-01-05202-0.pdf",
+    "sha256": "2a798f531508a44e8e49b302df0d3028b90a80aea019057be1272ea1789a4a1e",
+    "text_characters": 32192
+  }
+]

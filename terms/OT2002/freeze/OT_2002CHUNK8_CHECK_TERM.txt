@@ -1,0 +1,3 @@
+Sectioned inventory: 180 scheduled events, one manifest row each.
+OK (non-Git checks only): OT2002; 0 warning(s)
+DEFERRED: commit-hash existence was not verified (0 distinct candidate references). No Git command was executed. This is not a full provenance pass.

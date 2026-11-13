@@ -1,0 +1,36 @@
+PACIFICARE HEALTH SYSTEMS, INC. V. BOOK
+
+LII
+
+Supreme Court		 
+
+PACIFICARE HEALTH SYSTEMS, INC. V. BOOK (02-215) 
+285 F.3d 971, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+PACIFICARE HEALTH SYSTEMS, INC., et al. v. BOOK et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 02—215.  Argued February 24, 2003–Decided April 7, 2003 
+
+Respondent physicians filed suit alleging that managed-health-care organizations, including petitioners, violated, inter alia, the Racketeer Influenced and Corrupt Organizations Act (RICO) by failing to reimburse them for health-care services that they had provided to patients covered by the organizations’ plans.  Petitioners moved to compel arbitration.  The District Court refused to compel arbitration of the RICO claims on the ground that the arbitration clauses in the parties’ agreements prohibited awards of “punitive damages,” and hence an arbitrator lacked authority to award treble damages under RICO.  Accordingly, the court deemed the arbitration agreements unenforceable with respect to those claims.  The Eleventh Circuit affirmed.
+
+Held: It is unclear whether the agreements actually prevent an arbitrator from awarding treble damages under RICO.  This Court’s cases have placed different statutory treble damages provisions on different points along the spectrum between purely compensatory and strictly punitive awards.  In particular, the Court has repeatedly acknowledged that RICO’s treble-damages provision is remedial in nature, and it is not clear that the parties intended the term “punitive” to encompass claims for treble damages under RICO.  Since the Court does not know how the arbitrator will construe the remedial limitations, the questions whether they render the parties’ agreement unenforceable and whether it is for courts or arbitrators to decide enforceability in the first instance are unusually abstract.  It would be premature for the Court to address them; the proper course is to compel arbitration.  Pp. 2—6.
+
+285 F.3d 971, reversed and remanded.
+
+    Scalia, J., delivered the opinion of the Court, in which all other Members joined, except Thomas, J., who took no part in the consideration or decision of the case.

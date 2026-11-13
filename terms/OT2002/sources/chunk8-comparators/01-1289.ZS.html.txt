@@ -1,0 +1,54 @@
+STATE FARM MUT. AUTOMOBILE INS. CO.V. CAMPBELL
+
+LII
+
+Supreme Court		 
+
+STATE FARM MUT. AUTOMOBILE INS. CO.V. CAMPBELL (01-1289) 
+___ P.3d ___, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]Dissent
+ [ Scalia ]Dissent
+ [ Thomas ]Dissent
+ [ Ginsburg ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+STATE FARM MUTUAL AUTOMOBILE INSURANCE CO. v. CAMPBELL et al.
+
+CERTIORARI TO THE SUPREME COURT OF UTAH
+
+No. 01—1289.  Argued December 11, 2002–Decided April 7, 2003 
+
+Although investigators and witnesses concluded that Curtis Campbell caused an accident in which one person was killed and another permanently disabled, his insurer, petitioner State Farm Mutual Automobile Insurance Company (State Farm), contested liability, declined to settle the ensuing claims for the $50,000 policy limit, ignored its own investigators’ advice, and took the case to trial, assuring Campbell and his wife that they had no liability for the accident, that State Farm would represent their interests, and that they did not need separate counsel.  In fact, a Utah jury returned a judgment for over three times the policy limit, and State Farm refused to appeal.  The Utah Supreme Court denied Campbell’s own appeal, and State Farm paid the entire judgment.  The Campbells then sued State Farm for bad faith, fraud, and intentional infliction of emotional distress.  The trial court’s initial ruling granting State Farm summary judgment was reversed on appeal.  On remand, the court denied State Farm’s motion to exclude evidence of dissimilar out-of-state conduct.  In the first phase of a bifurcated trial, the jury found unreasonable State Farm’s decision not to settle.  Before the second phase, this Court refused, in BMW of North America, Inc. v. Gore, 517 U.S. 559, to sustain a $2 million punitive damages award which accompanied a $4,000 compensatory damages award.  The trial court denied State Farm’s renewed motion to exclude dissimilar out-of-state conduct evidence.  In the second phase, which addressed, inter alia, compensatory and punitive damages, evidence was introduced that pertained to State Farm’s business practices in numerous States but bore no relation to the type of claims underlying the Campbells’ complaint.  The jury awarded the Campbells $2.6 million in compensatory damages and $145 million in punitive damages, which the trial court reduced to $1 million and $25 million respectively.  Applying Gore, the Utah Supreme Court reinstated the $145 million punitive damages award.  
+
+Held: A punitive damages award of $145 million, where full compensatory damages are $1 million, is excessive and violates the Due Process Clause of the Fourteenth Amendment.  Pp. 5—19.
+
+    (a) Compensatory damages are intended to redress a plaintiff’s concrete loss, while punitive damages are aimed at the different purposes of deterrence and retribution.  The Due Process Clause prohibits the imposition of grossly excessive or arbitrary punishments on a tortfeaser.  E.g., Cooper Industries, Inc. v. Leatherman Tool Group, Inc., 532 U.S. 424, 433.  Punitive damages awards serve the same purpose as criminal penalties.  However, because civil defendants are not accorded the protections afforded criminal defendants, punitive damages pose an acute danger of arbitrary deprivation of property, which is heightened when the decisionmaker is presented with evidence having little bearing on the amount that should be awarded.  Thus, this Court has instructed courts reviewing punitive damages to consider (1) the degree of reprehensibility of the defendant’s misconduct, (2) the disparity between the actual or potential harm suffered by the plaintiff and the punitive damages award, and (3) the difference between the punitive damages awarded by the jury and the civil penalties authorized or imposed in comparable cases.  Gore, supra, at 575.  A trial court’s application of these guideposts is subject to de novo review.  Cooper Industries, supra, at 424.  Pp. 5—8.
+
+      (b) Under Gore’s guideposts, this case is neither close nor difficult.  Pp. 8—18.
+
+          (1) To determine a defendant’s reprehensibility–the most important indicium of a punitive damages award’s reasonableness–a court must consider whether: the harm was physical rather than economic; the tortious conduct evinced an indifference to or a reckless disregard of the health or safety of others; the conduct involved repeated actions or was an isolated incident; and the harm resulted from intentional malice, trickery, or deceit, or mere accident.  Gore, 517 U.S., at 576—577.  It should be presumed that a plaintiff has been made whole by compensatory damages, so punitive damages should be awarded only if the defendant’s culpability is so reprehensible to warrant the imposition of further sanctions to achieve punishment or deterrence.  Id., at 575.  In this case, State Farm’s handling of the claims against the Campbells merits no praise, but a more modest punishment could have satisfied the State’s legitimate objectives.  Instead, this case was used as a platform to expose, and punish, the perceived deficiencies of State Farm’s operations throughout the country.  However, a State cannot punish a defendant for conduct that may have been lawful where it occurred, id., at 572.  Nor does the State have a legitimate concern in imposing punitive damages to punish a defendant for unlawful acts committed outside of its jurisdiction.  The Campbells argue that such evidence was used merely to demonstrate, generally, State Farm’s motives against its insured.  Lawful out-of-state conduct may be probative when it demonstrates the deliberateness and culpability of the defendant’s action in the State where it is tortious, but that conduct must have a nexus to the specific harm suffered by the plaintiff.  More fundamentally, in relying on such evidence, the Utah courts awarded punitive damages to punish and deter conduct that bore no relation to the Campbells’ harm.  Due process does not permit courts to adjudicate the merits of other parties’ hypothetical claims under the guise of the reprehensibility analysis.  Punishment on these bases creates the possibility of multiple punitive damages awards for the same conduct, for nonparties are not normally bound by another plaintiff’s judgment.  For the same reasons, the Utah Supreme Court’s decision cannot be justified on the grounds that State Farm was a recidivist.  To justify punishment based upon recidivism, courts must ensure the conduct in question replicates the prior transgressions.  There is scant evidence of repeated misconduct of the sort that injured the Campbells, and a review of the decisions below does not convince this Court that State Farm was only punished for its actions toward the Campbells.  Because the Campbells have shown no conduct similar to that which harmed them, the only relevant conduct to the reprehensibility analysis is that which harmed them.  Pp. 8—14.
+
+          (2) With regard to the second Gore guidepost, the Court has been reluctant to identify concrete constitutional limits on the ratio between harm, or potential harm, to the plaintiff and the punitive damages award; but, in practice, few awards exceeding a single-digit ratio between punitive and compensatory damages will satisfy due process.  See, e.g., Gore, supra, at 581.  Single-digit multipliers are more likely to comport with due process, while still achieving the State’s deterrence and retribution goals, than are awards with 145-to-1 ratios, as in this case.  Because there are no rigid benchmarks, ratios greater than those that this Court has previously upheld may comport with due process where a particularly egregious act has resulted in only a small amount of economic damages, Gore, supra, at 582, but when compensatory damages are substantial, then an even lesser ratio can reach the outermost limit of the due process guarantee.  Here, there is a presumption against an award with a 145-to-1 ratio; the $1 million compensatory award for a year and a half of emotional distress was substantial; and the distress caused by outrage and humiliation the Campbells suffered is likely a component of both the compensatory and punitive damages awards.  The Utah Supreme Court sought to justify the massive award based on premises bearing no relation to the award’s reasonableness or proportionality to the harm.  Pp. 14—18.
+
+          (3) The Court need not dwell on the third guidepost.  The most relevant civil sanction under Utah state law for the wrong done to the Campbells appears to be a $10,000 fine for an act of grand fraud, which is dwarfed by the $145 million punitive damages award.  The Utah Supreme Court’s references to a broad fraudulent scheme drawn from out-of-state and dissimilar conduct evidence were insufficient to justify this amount.  P. 18.
+
+      (c) Applying Gore’s guideposts to the facts here, especially in light of the substantial compensatory damages award, likely would justify a punitive damages award at or near the compensatory damages amount.  The Utah courts should resolve in the first instance the proper punitive damages calculation under the principles discussed here.  Pp. 18—19.
+
+___ P.3d ___, reversed and remanded.
+
+    Kennedy, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Souter, and Breyer, JJ., joined.  Scalia, J., Thomas, J., and Ginsburg, J., filed dissenting opinions.

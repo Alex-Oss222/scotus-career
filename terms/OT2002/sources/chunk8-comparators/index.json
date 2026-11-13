@@ -1,0 +1,110 @@
+[
+  {
+    "case": "Pacificare",
+    "url": "https://www.law.cornell.edu/supct/html/02-215.ZS.html",
+    "file": "02-215.ZS.html.txt",
+    "characters": 2699
+  },
+  {
+    "case": "Pacificare",
+    "url": "https://www.law.cornell.edu/supct/html/02-215.ZO.html",
+    "file": "02-215.ZO.html.txt",
+    "characters": 12380
+  },
+  {
+    "case": "StateFarm",
+    "url": "https://www.law.cornell.edu/supct/html/01-1289.ZS.html",
+    "file": "01-1289.ZS.html.txt",
+    "characters": 9917
+  },
+  {
+    "case": "StateFarm",
+    "url": "https://www.law.cornell.edu/supct/html/01-1289.ZD.html",
+    "file": "01-1289.ZD.html.txt",
+    "characters": 1282
+  },
+  {
+    "case": "StateFarm",
+    "url": "https://www.law.cornell.edu/supct/html/01-1289.ZD1.html",
+    "file": "01-1289.ZD1.html.txt",
+    "characters": 1130
+  },
+  {
+    "case": "StateFarm",
+    "url": "https://www.law.cornell.edu/supct/html/01-1289.ZD2.html",
+    "file": "01-1289.ZD2.html.txt",
+    "characters": 19006
+  },
+  {
+    "case": "StateFarm",
+    "url": "https://www.law.cornell.edu/supct/html/01-1289.ZO.html",
+    "file": "01-1289.ZO.html.txt",
+    "characters": 35856
+  },
+  {
+    "case": "Clackamas",
+    "url": "https://www.law.cornell.edu/supct/html/01-1435.ZS.html",
+    "file": "01-1435.ZS.html.txt",
+    "characters": 3781
+  },
+  {
+    "case": "Clackamas",
+    "url": "https://www.law.cornell.edu/supct/html/01-1435.ZD.html",
+    "file": "01-1435.ZD.html.txt",
+    "characters": 7863
+  },
+  {
+    "case": "Clackamas",
+    "url": "https://www.law.cornell.edu/supct/html/01-1435.ZO.html",
+    "file": "01-1435.ZO.html.txt",
+    "characters": 22599
+  },
+  {
+    "case": "Jinks",
+    "url": "https://www.law.cornell.edu/supct/html/02-258.ZS.html",
+    "file": "02-258.ZS.html.txt",
+    "characters": 4184
+  },
+  {
+    "case": "Jinks",
+    "url": "https://www.law.cornell.edu/supct/html/02-258.ZC.html",
+    "file": "02-258.ZC.html.txt",
+    "characters": 633
+  },
+  {
+    "case": "Jinks",
+    "url": "https://www.law.cornell.edu/supct/html/02-258.ZO.html",
+    "file": "02-258.ZO.html.txt",
+    "characters": 18831
+  },
+  {
+    "case": "Dole",
+    "url": "https://www.law.cornell.edu/supct/html/01-593.ZS.html",
+    "file": "01-593.ZS.html.txt",
+    "characters": 6750
+  },
+  {
+    "case": "Dole",
+    "url": "https://www.law.cornell.edu/supct/html/01-593.ZO.html",
+    "file": "01-593.ZO.html.txt",
+    "characters": 20098
+  },
+  {
+    "case": "Dole",
+    "url": "https://www.law.cornell.edu/supct/html/01-593.ZX.html",
+    "file": "01-593.ZX.html.txt",
+    "characters": 14386
+  },
+  {
+    "case": "Hyatt",
+    "url": "https://www.law.cornell.edu/supct/html/02-42.ZS.html",
+    "file": "02-42.ZS.html.txt",
+    "characters": 5393
+  },
+  {
+    "case": "Hyatt",
+    "url": "https://www.law.cornell.edu/supct/html/02-42.ZO.html",
+    "file": "02-42.ZO.html.txt",
+    "characters": 19842
+  }
+]
