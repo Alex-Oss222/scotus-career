@@ -992,7 +992,7 @@ Okpalobi v. Foster, 244 F.3d 405 (5th Cir. 2001) (en banc), No. 98-30228; La. Re
 
 #### Mandate, Remedy, and Stage
 
-The action returns for the officer-specific administrative-claim inquiry stated in Holdings. The broad Governor and Attorney General injunction remains vacated during that inquiry; any narrower declaration or injunction must rest on the resulting jurisdictional, merits and remedial determinations.
+The action returns for the officer-specific administrative-claim inquiry stated above. The broad Governor and Attorney General injunction remains vacated during that inquiry; any narrower declaration or injunction must rest on the resulting jurisdictional, merits and remedial determinations.
 
 **End of entry: Okpalobi v. Foster, merits decision, March 31, 2003.**
 
