@@ -1,0 +1,198 @@
+[
+  {
+    "case": "Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc.",
+    "date": "2003-03-05",
+    "file": "Johnson-and-Johnston-Associates-Inc-v-RE-Service-Co-Inc_merits_2003-03-05.md",
+    "form": "Signed lead after full merits submission: a new recurring legal boundary between retained equivalents and expressly unclaimed disclosure requires a reasoned opinion. The form and single-opinion structure are fixed before any author or count is selected.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The work is a precise integrated-instrument boundary, preserving conceded equivalence and separating specification disclosure from Festo surrender. Souter's Markman/Vitronics reasoning fits construction; Ginsburg's Warner-Jenkinson/Festo reasoning fits the distinct equivalents limits; Stevens, O'Connor, Scalia, Kennedy, Thomas and Breyer each fully support the same bounded objective rule and can state it without new technical inquiries. Stone's approved specific-disclosure formulation gives him concrete fit on separating legal availability from residual infringement facts. No expansion or extra part is needed; the serial pool determines which comparative strengths are eligible for choice.",
+    "components": [
+      {
+        "name": "Expressly disclosed steel and dependent awards",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Cook County v. United States ex rel. Chandler",
+    "date": "2003-03-10",
+    "file": "Cook-County-v-United-States-ex-rel-Chandler_merits_2003-03-10.md",
+    "form": "Signed lead after plenary argument: statutory construction resolves the municipality question expressly left open by Vermont Agency and explains the remedy amendment. One opinion carries both linked holdings before author selection.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The work distinguishes a covered municipal corporation from a sovereign State and separates original coverage from a later remedial amendment. Scalia's Vermont Agency structure, Souter's corporate-statute analysis, Breyer's Riley mechanism analysis and Stone's approved separation of authority, proof and remedy offer concrete fit. Stevens, O'Connor, Kennedy, Thomas and Ginsburg also directly accept all common propositions. The multiplier must retain its mixed functions without a fictitious exclusively-compensatory account. No expansion disagreement requires a particular writer; choose only after the serial recount.",
+    "components": [
+      {
+        "name": "County coverage under the False Claims Act",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Norfolk & Western Railway Co. v. Ayers",
+    "date": "2003-03-10",
+    "file": "Norfolk-and-Western-Railway-Co-v-Ayers_merits_2003-03-10.md",
+    "form": "Signed lead after plenary argument, with two substantive parts because the two legal questions have different proposition coalitions. A single writer can carry both; the partial dissents perform independently supported legal work. This form precedes counts and author choice.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "fit_notes": "The work reconciles the manifested-disease category with Gottshall/Buckley, states real proof conditions without unpreserved retrial, and keeps causal contribution separate from indivisibility. Ginsburg's bodily-injury and allocation analysis offers direct fit; Thomas's prior opinions enable precise retained injury boundaries; Souter's common-law development method fits both questions; Scalia's exact category join can preserve their scope; Stevens's substantiated-injury position and Stone's approved disease/fear and allocation distinction also support all propositions. The majority is already settled; no unsupported expansion is needed. Compare only members of the freshly recounted pool, and retain the six-versus-nine part topology.",
+    "components": [
+      {
+        "name": "Present cancer fear associated with asbestosis",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Kennedy",
+          "Breyer"
+        ]
+      },
+      {
+        "name": "Nonrailroad-exposure apportionment",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Woodford v. Garceau",
+    "date": "2003-03-25",
+    "file": "Woodford-v-Garceau_merits_2003-03-25.md",
+    "form": "Signed lead after plenary argument: the unresolved statutory transition requires a precise §2254-specific rule and a single controlling opinion with two distinct dissenting grounds. The five complete lead joiners can carry every proposition. Form is fixed before assignment; the Chief is outside the controlling judgment coalition, so Stevens assigns as its senior participating Associate.",
+    "assigner": "Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "fit_notes": "Stevens assigns from the five-Justice application-date coalition. The concrete work is preserving real McFarland preparation while selecting the §2254 application's adjudicatory law. O'Connor's before-and-after §2254 reasoning supplies the precise formulation answering the recorded objection; Stevens's McFarland and Carriger work can distinguish their functions; Kennedy's preservation of preparation supports the same bounded account; Scalia and Thomas support application-centered construction without needing a universal commencement rule. The direct-join accommodation favors faithful statutory precision, not a split opinion or historical author. Stone is ineligible because his approved actual position opposes the rule; his conditional alternative has not activated.",
+    "components": [
+      {
+        "name": "Temporal law governing the merits application and existing writ judgment",
+        "disposition": "Vacate and remand under AEDPA",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ]
+  }
+]

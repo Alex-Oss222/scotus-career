@@ -1,0 +1,55 @@
+Source: https://www.law.cornell.edu/supct/html/01-1269.ZS.html
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ CUYAHOGA FALLS V. BUCKEYE COMMUNITYHOPE FOUNDATION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ CUYAHOGA FALLS V. BUCKEYE COMMUNITYHOPE FOUNDATION (01-1269) 263 F.3d 627, reversed in part, vacated in part, and remanded. Syllabus Opinion [ O’Connor ] Concurrence [ Scalia ] HTML version PDF version HTML version PDF version HTML version PDF version 
+ 
+ 
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES 
+ CITY OF CUYAHOGA FALLS, OHIO, et al. v. BUCKEYE COMMUNITY HOPE FOUNDATION et al. 
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT 
+ No. 01—1269. Argued January 21, 2003–Decided March 25, 2003 
+
+ 
+
+ After the City Council of Cuyahoga Falls, Ohio (hereinafter City), passed a site-plan ordinance authorizing construction of a low-income housing complex by respondents–a nonprofit corporation dedicated to developing affordable housing and related parties–a group of citizens filed a formal petition requesting that the ordinance be repealed or submitted to a popular vote. Pursuant to the City’s charter, the referendum petition stayed the site plan’s implementation until its approval by the voters. An Ohio court denied respondents an injunction against the petition, and the city engineer, on advice from the city law director, denied their request for building permits. The voters eventually passed the referendum, thus repealing the ordinance. Subsequently, the Ohio Supreme Court declared the referendum invalid under Ohio’s Constitution, the City issued the building permits, and construction commenced. While the state litigation was still pending, respondents filed a federal suit against the City and its officials, seeking an injunction ordering the City to issue the building permits, as well as declaratory and monetary relief. They claimed that by submitting the site plan to voters, the City and its officials violated the Equal Protection and Due Process Clauses of the Fourteenth Amendment , as well as the Fair Housing Act. The District Court, inter alia, denied the City’s summary judgment motion. After the Ohio Supreme Court invalidated the referendum, thus reducing the federal action to a claim for damages for the construction delay, the District Court granted the City and its officials summary judgment. In reversing, the Sixth Circuit found that respondents had produced sufficient evidence to go to trial on the allegation that the City, by allowing the petition to stay the site plan’s implementation, gave effect to the racial bias reflected in the public’s opposition to the project; that respondents had stated a valid Fair Housing Act claim because the City’s actions had a disparate impact based on race and family status; and that a genuine issue of material fact existed as to whether the City had engaged in arbitrary and irrational government conduct in violation of substantive due process. 
+ Held: 
+ 1. Respondents have not presented an equal protection claim that can survive summary judgment. Proof of racially discriminatory intent is required to show an Equal Protection Clause violation. Arlington Heights v. Metropolitan Housing Development Corp., 429 U.S. 252 , 265. Because respondents claim injury from the referendum petitioning process, not from the referendum itself–which never went into effect–cases in which this Court has subjected enacted, discretionary measures to equal protection scrutiny and treated decisionmakers’ statements as evidence of intent, see e.g., Cleburne v. Cleburne Living Center, Inc., 473 U.S. 432 , 448, are inapposite. Neither of the official acts respondents challenge reflects the intent required to support equal protection liability. In submitting the referendum petition to the public, the City acted pursuant to the requirement of its charter, which sets out a facially neutral petitioning procedure, and the city engineer, in refusing to issue the permits, performed a nondiscretionary, ministerial act consistent with the City Charter. Respondents point to no evidence suggesting that these acts were themselves motivated by racial animus. While they and the Sixth Circuit cite evidence of allegedly discriminatory voter sentiment, statements made by private individuals during a citizen-driven petition drive do not, in and of themselves, constitute state action for Fourteenth Amendment purposes. And respondents did not offer evidence that the private motives behind the referendum drive are fairly attributable to the state. See Blum v. Yaretsky, 457 U.S. 991 , 1004. In fact, by adhering to charter procedures, city officials enabled public debate on the referendum to take place, thus advancing significant First Amendment interests. Respondents’ alternate theory–that city officials acted in concert with private citizens to prevent the complex from being built because of the race and family status of the likely residents–was not addressed below and apparently was disavowed by respondents at oral argument. Moreover, respondents never articulated a cognizable legal claim on such grounds. Pp. 5—8. 
+ 2. Subjecting the ordinance to the City’s referendum process did not constitute arbitrary government conduct in violation of substantive due process. Both of respondents’ due process claims lack merit. First, the city engineer’s refusal to issue the building permits while the petition was pending in no sense constituted egregious or arbitrary government conduct denying respondents the benefit of the site plan. In light of the charter’s provision that no challenged ordinance can go into effect until approved by the voters, the law director’s instruction to the engineer represented an eminently rational directive. Indeed, the site plan, by law, could not be implemented until the voters passed on the referendum. Respondents’ second theory–that the city’s submission of an administrative land-use determination to the charter’s referendum procedures constituted per se arbitrary conduct–has no basis in this Court’s precedent. The people retain the power to govern through referendum with respect to any matter, legislative or administrative, within the realm of local affairs. Eastlake v. Forest City Enterprises, Inc., 426 U.S. 668 , 674, n. 9. Though a referendum’s substantive result may be invalid if it is arbitrary or capricious, respondents do not challenge the referendum itself. Pp. 8—10. 
+ 3. Because respondents have abandoned their Fair Housing Act disparate impact claim, the Sixth Circuit’s disparate impact holding is vacated and the case is remanded with instructions to dismiss the relevant portion of the complaint. P. 10. 
+ 263 F.3d 627, reversed in part, vacated in part, and remanded. 
+ O’Connor, J., delivered the opinion for a unanimous Court. Scalia, J., filed a concurring opinion, in which Thomas, J., joined. 
+ 
+
+
+
+

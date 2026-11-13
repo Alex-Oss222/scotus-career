@@ -1,0 +1,264 @@
+{
+  "events": [
+    {
+      "record": "Johnson-and-Johnston-Associates-Inc-v-RE-Service-Co-Inc_merits_2003-03-05.md",
+      "author": "Scalia",
+      "prior_leads": 49,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        237
+      ],
+      "sha256": "fde41cb8507c98aa6deaac3a7e4aace67a8941cb899edeb8778b1c324f2e549d"
+    },
+    {
+      "record": "Smith-v-Doe_merits_2003-03-05.md",
+      "author": "O'Connor",
+      "prior_leads": 51,
+      "pool": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        216
+      ],
+      "sha256": "8c421fe335b9801b62c707ad364d8c1945c551e4df361c37c442c02d8e09118c"
+    },
+    {
+      "record": "United-States-v-Bach_merits_2003-03-05.md",
+      "author": "Stone-Zsela",
+      "prior_leads": 53,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        252
+      ],
+      "sha256": "4ab9090a53e51a777f6d7e0c95d54b80f0eeac1a6b18f442e26014a63b9579af"
+    },
+    {
+      "record": "United-States-v-Wheat_merits_2003-03-05.md",
+      "author": "Breyer",
+      "prior_leads": 54,
+      "pool": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Breyer"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        166,
+        237
+      ],
+      "sha256": "192add9fbbd3a0a7e3784c235ac596e263b4e4a64d95cebc026439dca3705c2a"
+    },
+    {
+      "record": "Cook-County-v-United-States-ex-rel-Chandler_merits_2003-03-10.md",
+      "author": "Stevens",
+      "prior_leads": 55,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        209,
+        177
+      ],
+      "sha256": "986af4af37d05b1b755a60d9b39b89aff668d1114828852dbbfd1f591a11684c"
+    },
+    {
+      "record": "Norfolk-and-Western-Railway-Co-v-Ayers_merits_2003-03-10.md",
+      "author": "Ginsburg",
+      "prior_leads": 56,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components_checked": 2,
+      "explanation_words": [
+        236,
+        216
+      ],
+      "sha256": "5433ab769644e3316eaf06fbe178033d296218636c7b988a36054b940339e54b"
+    },
+    {
+      "record": "Odom-v-Antrican_merits_2003-03-10.md",
+      "author": "Thomas",
+      "prior_leads": 57,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        123,
+        107,
+        85
+      ],
+      "sha256": "6e93f496397a87f507f0fca86e455b9af6cdd21a707f6df105b8a3c51906fab1"
+    },
+    {
+      "record": "United-States-v-Buckland_merits_2003-03-10.md",
+      "author": "Scalia",
+      "prior_leads": 58,
+      "pool": [
+        "Stevens",
+        "Scalia",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components_checked": 2,
+      "explanation_words": [
+        174,
+        220,
+        209
+      ],
+      "sha256": "437c39b94b2fbbdd66060b3adfdcec2b8e01b125fb47603eb1f22047d300f5c2"
+    },
+    {
+      "record": "American-Amusement-Machine-Association-v-Kendrick_merits_2003-03-25.md",
+      "author": "Ginsburg",
+      "prior_leads": 62,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        93,
+        213,
+        93
+      ],
+      "sha256": "340ad98f86cb147d9c516a00b8030e83499852c59ca1edc1c16414dd699b1558"
+    },
+    {
+      "record": "Cuyahoga-Falls-v-Buckeye-Community-Hope-Foundation_merits_2003-03-25.md",
+      "author": "Kennedy",
+      "prior_leads": 63,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas"
+      ],
+      "components_checked": 3,
+      "explanation_words": [
+        135,
+        158,
+        152,
+        60
+      ],
+      "sha256": "c823061fe9bc720d803587e2e494ac75ca88d3a324ec4c5e5e89847dbd138835"
+    },
+    {
+      "record": "Woodford-v-Garceau_merits_2003-03-25.md",
+      "author": "O'Connor",
+      "prior_leads": 64,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Thomas"
+      ],
+      "components_checked": 1,
+      "explanation_words": [
+        275
+      ],
+      "sha256": "351ff17240a9a242ada76761705fd2a72a65602e52c7095c63eb76c6886549c6"
+    },
+    {
+      "record": "Okpalobi-v-Foster_merits_2003-03-31.md",
+      "author": "Souter",
+      "prior_leads": 65,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "components_checked": 3,
+      "explanation_words": [
+        101,
+        99,
+        135
+      ],
+      "sha256": "8a95c6a446c12a52489168829d22fb0731c488d0f1cbb2f09209762f50a85e42"
+    },
+    {
+      "record": "Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md",
+      "author": "Kennedy",
+      "prior_leads": 69,
+      "pool": [
+        "Stevens",
+        "Kennedy",
+        "Souter"
+      ],
+      "components_checked": 4,
+      "explanation_words": [
+        73,
+        141,
+        232,
+        75,
+        57,
+        61
+      ],
+      "sha256": "77ad1ee99984d1dc1b0abc15ad133a11df53c297801fd0ebaad3f2a31b50a11f"
+    }
+  ],
+  "protected_files_unchanged": 136,
+  "handoff_hashes_verified": 47,
+  "record_count": 80,
+  "manifest_rows": 180,
+  "completed_scheduled_events": 77,
+  "remaining": 103,
+  "stopped": 0,
+  "render_input_exact": true,
+  "restricted_text_files_checked": 203,
+  "history_reference_check": "Not performed; reserved to operator",
+  "negative_statement_check": "Qualitative result documented in chunk validation; this script does not evaluate legal formulation"
+}

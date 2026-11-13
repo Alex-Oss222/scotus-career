@@ -1,0 +1,9 @@
+# Neutral source extract: garceau
+
+Source: https://www.law.cornell.edu/supct/html/01-1862.ZO.html
+
+Objective statute and record recitations copied by script from saved source; current Court outcome, opinion grounds and lineup excluded. Earlier historical Court-action recitals excluded.
+
+On May 12, 1995, respondent filed a motion for the appointment of federal habeas counsel and an application for a stay of execution in the United States District Court for the Eastern District of California. The District Court promptly issued a 45-day stay of execution. On June 26, 1995, the District Court appointed counsel and extended the stay of execution for another 120 days. On August 1, 1995, the State filed a motion to vacate the stay, in part because respondent had failed to file a “specification of nonfrivolous issues,” as required by local court rules. Brief for Respondent 2. Respondent cured that defect, and, on October 13, 1995, the District Court denied the State’s motion and ordered that the habeas petition be filed within nine months. Respondent filed his application for habeas relief on July 2, 1996.
+
+Although respondent’s habeas application was filed after AEDPA’s effective date, the District Court, following Circuit precedent, concluded that the application was not subject to AEDPA. See App. to Pet. for Cert. 31—32 (citing Lindh , supra; Calderon v. United States Dist. Ct. for the Central Dist. of Cal., 163 F.3d 530, 540 (CA9 1998) (en banc)). On the merits, however, the District Court ruled that respondent was not entitled to habeas relief. The Court of Appeals for the Ninth Circuit reversed. Like the District Court, the Ninth Circuit concluded AEDPA does not apply to respondent’s application. 275 F.3d 769, 772, n. 1 (2001). Unlike the District Court, however, the Ninth Circuit granted habeas relief for reasons that are not relevant to our discussion here. Id. , at 777—778.

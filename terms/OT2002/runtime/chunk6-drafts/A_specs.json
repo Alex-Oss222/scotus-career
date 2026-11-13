@@ -1,0 +1,208 @@
+[
+  {
+    "form": "Signed single Opinion of the Court; plenary resolution of a new bounded execution question on a common nine-Justice rationale, fixed before counts.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The legal work separates search authority, protected account interest, technical execution and the statutory actor. Kennedy supplies the Ortiz/Hurtado search distinction; Breyer supplies Guest account-function analysis; Stone supplies Ayeni purpose and current bounded formulation and authored current-term Konop with all nine joins. All eligible members can carry the common opinion. Compare these concrete strengths within the serially determined pool; no expansion objection remains.",
+    "components": [
+      {
+        "name": "Provider-material suppression ruling",
+        "disposition": "Affirm circuit reversal of suppression",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "case": "United States v. Bach",
+    "date": "2003-03-05",
+    "file": "United-States-v-Bach_merits_2003-03-05.md"
+  },
+  {
+    "form": "Signed opinion announcing judgment; unanimous framework Part I and four-Justice plurality application Parts II\u2013III, with Souter judgment-only on application; form follows genuine premise and burden differences before counts.",
+    "assigner": "O'Connor",
+    "eligible_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas"
+    ],
+    "fit_notes": "The lead must distinguish mixed codification and notice duties from established civil design, then perform cumulative operation review without relying on historical statutory-face reasoning. O'Connor's Ursery opinion and full current commitments address that sequence; Kennedy's Paul P. authorship offers a concrete advantage separating informational privacy from punishment; Scalia and Thomas fully accept operational review through Seling. No numerical accommodation can absorb Souter's actual-intent difference. The senior Associate's assignment must rest on her supported priorities, not copied historical authorship.",
+    "components": [
+      {
+        "name": "Ex Post Facto judgment",
+        "disposition": "Reverse and remand",
+        "supporting": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Stevens",
+          "Ginsburg",
+          "Breyer"
+        ]
+      }
+    ],
+    "case": "Smith v. Doe",
+    "date": "2003-03-05",
+    "file": "Smith-v-Doe_merits_2003-03-05.md"
+  },
+  {
+    "form": "Signed lead with unanimous governing framework and five-Justice application; plenary sufficiency dispute needs one dissent, all fixed before counts.",
+    "assigner": "O'Connor",
+    "eligible_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "fit_notes": "The legal work explains why specific temporal and moving-route details support wrongdoing reliability without invoking danger alone. O'Connor's Arvizu opinion offers a direct contextual-inference and review fit. Kennedy's White and Wardlow/Valentine positions support this inference; Breyer can explain why actual visible unlawful maneuvers differ from his earlier insufficiency settings. Scalia and Thomas carry the complete limited rationale as well. Associate assignment follows O'Connor's own supported judgment, with no historical author transfer.",
+    "components": [
+      {
+        "name": "Initial traffic stop",
+        "disposition": "Affirm reviewed judgment against initial-stop challenge",
+        "supporting": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg"
+        ]
+      }
+    ],
+    "case": "United States v. Wheat",
+    "date": "2003-03-05",
+    "file": "United-States-v-Wheat_merits_2003-03-05.md"
+  },
+  {
+    "form": "Single signed lead; common author can carry unanimous statutory part, six-Justice binding-range propositions and five-Justice entered appellate remedy; genuine partial joins require topology, not an artificial author split.",
+    "assigner": "Stone-Zsela and Stevens",
+    "chief_assigns_any": true,
+    "assignment_authorities": {
+      "Part I": "Stone-Zsela",
+      "Parts II\u2013III": "Stevens"
+    },
+    "eligible_authors": [
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "fit_notes": "The opinion separates statutory preservation, offense-date quantity grades, statutory-threshold Cotton analysis, mandatory-range Angle analysis and the precise sentence-preserving remand. Souter's Angle opinion supplies direct fit for the defective aggregate and remaining-review remedy. Scalia's Jones carjacking and Harris opinions supply strong fit for grade procedure and distinct correction conditions; Thomas's Neder opinion supports accurate separation of adjudication and appellate review. Stevens and Ginsburg fully support the same distinctions and remedy. No expansion is needed, and Stone is not eligible because he rejects Part III's governing remedy and rationale. Compare full supporters within the Chief-governed serial pool; do not let proposition joins alter component assignment authority.",
+    "components": [
+      {
+        "name": "Facial validity of quantity grades",
+        "disposition": "Affirm rejection of facial challenge",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Sentencing appellate judgment and remedy",
+        "disposition": "Vacate appellate sentence affirmance; remand remaining Rule 52(b) review; sentence remains pending inquiry",
+        "supporting": [
+          "Stevens",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Kennedy",
+          "Breyer"
+        ],
+        "alternative_positions": [
+          {
+            "position": "Affirm sentence",
+            "justices": [
+              "O'Connor",
+              "Kennedy",
+              "Breyer"
+            ]
+          },
+          {
+            "position": "Vacate sentence immediately and remand lawful resentencing",
+            "justices": [
+              "Stone-Zsela"
+            ]
+          }
+        ]
+      }
+    ],
+    "case": "United States v. Buckland",
+    "date": "2003-03-10",
+    "file": "United-States-v-Buckland_merits_2003-03-10.md"
+  }
+]

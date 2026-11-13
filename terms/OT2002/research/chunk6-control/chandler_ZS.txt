@@ -1,0 +1,54 @@
+Source: https://www.law.cornell.edu/supct/html/01-1572.ZS.html
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ COOK COUNTY V. UNITED STATES EX REL.CHANDLER 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ COOK COUNTY V. UNITED STATES EX REL.CHANDLER (01-1572) 277 F.3d 969, affirmed. Syllabus Opinion [ Souter ] HTML version PDF version HTML version PDF version 
+ 
+ 
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES 
+ COOK COUNTY, ILLINOIS v. UNITED STATES ex rel. CHANDLER 
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SEVENTH CIRCUIT 
+ No. 01—1572. Argued January 14, 2003–Decided March 10, 2003 
+
+ 
+
+ Under the False Claims Act (FCA), “[a]ny person” who, inter alia, “knowingly presents, or causes to be presented, to an officer or employee of the United States Government … a false or fraudulent claim for payment or approval,” 31 U.S.C. § 3729 (a)(1), is liable to the Government for a civil penalty, treble damages, and costs, §3729(a). Although the Attorney General may sue under the FCA, a private person, known as a relator, may also bring a qui tam action “in the name of the Government.” §3730(b). The relator must inform the Justice Department of her intentions and keep the pleadings under seal while the Government decides whether to intervene and do its own litigating. §3730(b)(2). If the claim succeeds, the relator’s share may be up to 30 percent of the proceeds of the action, plus reasonable expenses, costs, and attorney’s fees. §3730(d). This case involves a National Institute of Drug Abuse research grant to Cook County Hospital for a study that was later administered by a nonprofit research institute affiliated with the hospital. Respondent Chandler, who ran the study for the institute, filed this qui tam action, claiming that Cook County (hereinafter County) and the institute had submitted false statements to obtain grant funds in violation of §3729(a)(1). After this Court held in Vermont Agency of Natural Resources v. United States ex rel. Stevens, 529 U.S. 765 , that States are not “persons” subject to FCA qui tam actions, the District Court granted the County’s motion to dismiss the claims against it. The court held that the County, like a State, could not be subjected to treble damages, which Stevens described as “essentially punitive,” id., at 784. The Seventh Circuit distinguished Stevens and reversed. 
+ Held: Local governments are “persons” amenable to qui tam actions under the FCA. Pp. 4—14. 
+ (a) While §3729 does not define the term “person,” its meaning has remained unchanged since the original FCA was passed in 1863. Stevens , supra , at 783, n. 12. There is no doubt that the term then extended to corporations. Indeed, this Court as early as 1826 in United States v. Amedy, 11 Wheat. 392, 412, recognized the presumption that “person” also includes “persons politic and incorporate.” Essentially conceding that private corporations were taken to be persons when the FCA was passed in 1863, the County argues that municipal corporations were not so understood until six years later, when the Court decided Cowles v. Mercer County, 7 Wall. 118. Cowles , however, was not an extension of principle but a natural recognition of the common understanding that municipal corporations and private ones were to be treated alike in terms of their legal status as persons capable of suing and being sued. This explains how the Court in Cowles could conclude “automatically and without discussion” that municipal corporations, like private ones, “should be treated as natural persons for virtually all purposes of constitutional and statutory analysis.” Monell v. New York City Dept. of Social Servs., 436 U.S. 658 , 687—688. Of course, the meaning of “person” recognized in Cowles was only a presumptive one, but neither the history nor the text of the original FCA provides contextual evidence that Congress intended to exclude municipalities from the class of “persons” covered by the FCA in 1863. Pp. 4—8. 
+ (b) The False Claims Amendments Act of 1986 did not repeal municipal liability. As part of an effort to modernize the FCA, the 1986 amendments raised the ceiling on damages recoverable under §3729(a) from double to treble. Relying on the common law presumption against punitive damages for municipalities, see Newport v. Fact Concerts, Inc., 453 U.S. 247 , 259—260, and n. 21, and on this Court’s statement in Stevens, supra, at 784, 785, that the change from double to treble damages turned what had been a “remedial” provision into an “essentially punitive” one, the County argues that, even if municipalities were covered by the term “person” from 1863 to 1986, Congress’s adoption of a “punitive” remedy entailed the elimination of municipal liability in 1986. It does not follow from Stevens, however, that the punitive feature of FCA damages has the force to show congressional intent to repeal implicitly the existing definition of “person.” To begin with, the FCA’s damages multiplier has a compensatory function as well as a punitive one. Most obviously, the statute’s qui tam feature means that as much as 30 percent of the Government’s recovery may go to a private relator who began the action. Even when there is no qui tam relator to be paid, liability beyond actual damages may be necessary for full recovery, since the FCA has no separate provision for prejudgment interest or consequential damages. The force of the treble damages remedy’s “punitive” nature in arguing against municipal liability is not as robust as it would be if that remedy were a pure penalty in all cases. What is more, treble damages certainly does not equate with classic punitive damages, which leaves the jury with open-ended discretion over the amount, and so raises two concerns specific to municipal defendants: that local government’s taxing power will make it an easy target for an unduly generous jury and that blameless or unknowing taxpayers will be unfairly taxed for the wrongdoing of local officials. Neither of these concerns is serious in FCA cases. The presumption against punitive damages thus brings only limited vigor to the County’s aid. Working against the County’s position, however, is a different presumption, this one at full strength: the “cardinal rule … that repeals by implication are disfavored.” Posadas v. National City Bank, 296 U.S. 497 , 503. Inferring repeal of municipal liability from the increase in the damages ceiling from double to triple would be difficult in the abstract, but it is impossible given that the basic purpose of the 1986 amendments was to make the FCA a more useful tool against fraud in modern times. Whether or not this was true in 1863, local governments now often administer or receive federal funds. It is simply not plausible that Congress intended to repeal municipal liability sub silentio by the very Act it passed to strengthen the Government’s hand in fighting false claims. Pp. 8—13. 
+ 277 F.3d 969, affirmed. 
+ Souter, J., delivered the opinion for a unanimous Court. 
+ 
+
+
+
+

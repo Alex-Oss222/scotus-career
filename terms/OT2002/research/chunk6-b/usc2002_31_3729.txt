@@ -1,0 +1,55 @@
+U.S.C. Title 31 - MONEY AND FINANCE
+31 U.S.C.
+United States Code, 2002 Edition
+Title 31 - MONEY AND FINANCE
+SUBTITLE III - FINANCIAL MANAGEMENT
+CHAPTER 37 - CLAIMS
+SUBCHAPTER III - CLAIMS AGAINST THE UNITED STATES GOVERNMENT
+Sec. 3729 - False claims
+From the U.S. Government Publishing Office, www.gpo.gov
+§3729. False claims
+(a) Liability for Certain Acts.—Any person who—
+(1) knowingly presents, or causes to be presented, to an officer or employee of the United States Government or a member of the Armed Forces of the United States a false or fraudulent claim for payment or approval;
+(2) knowingly makes, uses, or causes to be made or used, a false record or statement to get a false or fraudulent claim paid or approved by the Government;
+(3) conspires to defraud the Government by getting a false or fraudulent claim allowed or paid;
+(4) has possession, custody, or control of property or money used, or to be used, by the Government and, intending to defraud the Government or willfully to conceal the property, delivers, or causes to be delivered, less property than the amount for which the person receives a certificate or receipt;
+(5) authorized to make or deliver a document certifying receipt of property used, or to be used, by the Government and, intending to defraud the Government, makes or delivers the receipt without completely knowing that the information on the receipt is true;
+(6) knowingly buys, or receives as a pledge of an obligation or debt, public property from an officer or employee of the Government, or a member of the Armed Forces, who lawfully may not sell or pledge the property; or
+(7) knowingly makes, uses, or causes to be made or used, a false record or statement to conceal, avoid, or decrease an obligation to pay or transmit money or property to the Government,
+is liable to the United States Government for a civil penalty of not less than $5,000 and not more than $10,000, plus 3 times the amount of damages which the Government sustains because of the act of that person, except that if the court finds that—
+(A) the person committing the violation of this subsection furnished officials of the United States responsible for investigating false claims violations with all information known to such person about the violation within 30 days after the date on which the defendant first obtained the information;
+(B) such person fully cooperated with any Government investigation of such violation; and
+(C) at the time such person furnished the United States with the information about the violation, no criminal prosecution, civil action, or administrative action had commenced under this title with respect to such violation, and the person did not have actual knowledge of the existence of an investigation into such violation;
+the court may assess not less than 2 times the amount of damages which the Government sustains because of the act of the person. A person violating this subsection shall also be liable to the United States Government for the costs of a civil action brought to recover any such penalty or damages.
+(b) Knowing and Knowingly Defined.—For purposes of this section, the terms “knowing” and “knowingly” mean that a person, with respect to information—
+(1) has actual knowledge of the information;
+(2) acts in deliberate ignorance of the truth or falsity of the information; or
+(3) acts in reckless disregard of the truth or falsity of the information,
+and no proof of specific intent to defraud is required.
+(c) Claim Defined.—For purposes of this section, “claim” includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.
+(d) Exemption From Disclosure.—Any information furnished pursuant to subparagraphs (A) through (C) of subsection (a) shall be exempt from disclosure under section 552 of title 5.
+(e) Exclusion.—This section does not apply to claims, records, or statements made under the Internal Revenue Code of 1986.
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 978; Pub. L. 99–562, §2, Oct. 27, 1986, 100 Stat. 3153; Pub. L. 103–272, §4(f)(1)(O), July 5, 1994, 108 Stat. 1362.)
+Historical and Revision Notes
+Revised SectionSource (U.S. Code)Source (Statutes at Large)
+3729
+31:231.
+R.S. §3490.
+In the section, before clause (1), the words “a member of an armed force of the United States” are substituted for “in the military or naval forces of the United States, or in the militia called into or actually employed in the service of the United States” and “military or naval service” for consistency with title 10. The words “is liable” are substituted for “shall forfeit and pay” for consistency. The words “civil action” are substituted for “suit” for consistency in the revised title and with other titles of the United States Code. The words “and such forfeiture and damages shall be sued for in the same suit” are omitted as unnecessary because of rules 8 and 10 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clauses (1)–(3), the words “false or fraudulent” are substituted for “false, fictitious, or fraudulent” and “Fraudulent or fictitious” to eliminate unnecessary words and for consistency. In clause (1), the words “presents, or causes to be presented” are substituted for “shall make or cause to be made, or present or cause to be presented” for clarity and consistency and to eliminate unnecessary words. The words “officer or employee of the Government or a member of an armed force” are substituted for “officer in the civil, military, or naval service of the United States” for consistency in the revised title and with other titles of the Code. The words “upon or against the Government of the United States, or any department of the United States, or any department or officer thereof” are omitted as surplus. In clause (2), the word “knowingly” is substituted for “knowing the same to contain any fraudulent or fictitious statement or entry” to eliminate unnecessary words. The words “record or statement” are substituted for “bill, receipt, voucher, roll, account, claim, certificate, affidavit, or deposition” for consistency in the revised title and with other titles of the Code. In clause (3), the words “conspires to” are substituted for “enters into any agreement, combination, or conspiracy” to eliminate unnecessary words. The words “of the United States, or any department or officer thereof” are omitted as surplus. In clause (4), the words “charge”, “or other”, and “to any other person having authority to receive the same” are omitted as surplus. In clause (5), the words “document certifying receipt” are substituted for “certificate, voucher, receipt, or other paper certifying the receipt” to eliminate unnecessary words. The words “arms, ammunition, provisions, clothing, or other”, “to any other person”, and “the truth of” are omitted as surplus. In clause (6), the words “arms, equipments, ammunition, clothes, military stores, or other” are omitted as surplus. The words “member of an armed force” are substituted for “soldier, officer, sailor, or other person called into or employed in the military or naval service” for consistency with title 10. The words “such soldier, sailor, officer, or other person” are omitted as surplus.
+References in Text
+The Internal Revenue Code of 1986, referred to in subsec. (e), is classified generally to Title 26, Internal Revenue Code.
+Amendments
+1994—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
+1986—Subsec. (a). Pub. L. 99–562, §2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
+Subsec. (a)(1). Pub. L. 99–562, §2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
+Subsec. (a)(2). Pub. L. 99–562, §2(3), inserted “by the Government” after “approved”.
+Subsec. (a)(4). Pub. L. 99–562, §2(4), substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
+Subsec. (a)(5). Pub. L. 99–562, §2(5), substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
+Subsec. (a)(6). Pub. L. 99–562, §2(6), substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
+Subsec. (a)(7). Pub. L. 99–562, §2(7), added par. (7).
+Subsecs. (b) to (e). Pub. L. 99–562, §2(7), added subsecs. (b) to (e).
+Increased Penalties for False Claims in Defense Procurement
+Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
+[Section 931(c) of Pub. L. 99–145 provided that section 931(b) is applicable to claims made or presented on or after Nov. 8, 1985.]
+Section Referred to in Other Sections
+This section is referred to in sections 3730, 3731, 3732, 3733 of this title; title 10 section 2324; title 15 sections 637, 657a; title 20 section 1078–9; title 41 section 256; title 42 section 1395i.

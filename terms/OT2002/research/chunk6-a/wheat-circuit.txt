@@ -1,0 +1,915 @@
+1  The Honorable Andrew W. Bogue, United States District Judge for the
+District of South Dakota, sitting by designation.
+2  The Honorable Richard W. Goldberg, Judge of the United States Court of
+International Trade, sitting by designation.
+3  Pursuant to 28 U.S.C. § 46(b), the Chief Judge certified the existence of a
+judicial emergency necessitating the designation of a panel consisting of fewer than
+two members of the Court of Appeals.
+United States Court of Appeals
+FOR THE EIGHTH CIRCUIT
+___________
+No. 00-3457
+___________
+United States of America, *
+*
+Appellee, *
+*   Appeal from the United States
+v. *   District Court for the 
+*   Northern District of Iowa
+Wade Allen Wheat, *  
+*  
+Appellant. *
+___________
+Submitted:  April 10, 2001
+                                              Filed: December 28, 2001 (Corrected: 01/04/02)
+___________
+Before LOKEN, Circuit Judge, BOGUE,1 District Judge, and GOLDBERG,2
+Judge.3
+___________
+GOLDBERG, Judge.
+4  The Honorable Mark W. Bennett, Chief Judge, United States District Court
+for the Northern District of Iowa.
+-2-
+Wade Allen Wheat appeals from his conviction on one count of possession
+of cocaine base (“crack”).  He argues, inter alia, that the district court4 erred in
+denying his motion to suppress, and that, even if his conviction were lawful, his
+sentence is unconstitutional in light of the Supreme Court’s decision in Apprendi
+v. New Jersey, 530 U.S. 466 (2000).  Because we find that the District Court
+properly denied Wheat’s motion to suppress and that the Apprendi error was
+harmless, we affirm.
+I. FACTUAL AND PROCEDURAL BACKGROUND
+On May 3, 1996, a motorist used his cellular phone to place a 9-1-1 call to
+the Blairsburg, Iowa Police Department.  The caller reported that a tan- and cream-
+colored Nissan Stanza or “something like that,” whose license plate began with the
+letters W-O-C, was being driven erratically in the northbound lane of Highway
+169, eight miles south of Fort Dodge, Iowa.  The caller complained that the Nissan
+was passing on the wrong side of the road, cutting off other cars, and otherwise
+being driven as if by a “complete maniac.”  The 9-1-1 operator did not ask the
+caller to identify himself.
+Police dispatchers relayed the caller’s tip to patrolling officers.  Shortly
+thereafter, Officer Paul Samuelson observed a tan Nissan Maxima whose license
+plate began with the letters W-O-C, stopped in the northbound lane of Highway
+169 at the intersection of Highway 20.  The Nissan made a right turn, and Officer
+Samuelson stopped it immediately, without having observed any incidents of
+erratic driving.  He obtained the driver’s licenses of the driver and Wheat, who
+was sitting in the front passenger seat; there were no other passengers.  A check
+disclosed that Wheat’s license was suspended but that notice of the suspension had
+-3-
+never been served.  Because Officer Samuelson was unfamiliar with the procedure
+for service, he radioed Officer Aaron Anderson, whom he already had an
+appointment to meet, to request assistance at the scene.
+Shortly after Officer Anderson arrived, a dispatcher radioed Officer
+Samuelson to inform him that the suspension had in fact already been served. 
+However, because Officer Samuelson had noticed that the driver’s hands were
+fidgeting, he asked Officer Anderson whether he had any previous experience with
+the driver.  Officer Anderson told Officer Samuelson that the driver had a history
+of drug problems and that he had run from the police on several occasions.  On the
+basis of this information, and after informing Wheat that the suspension did not
+need to be served, Officer Samuelson requested and received permission from the
+driver to search the vehicle.  At Officer Samuelson’s request, the driver exited the
+vehicle.
+As Officer Samuelson was walking around toward the passenger side,
+Wheat opened his door and exited the vehicle on his own initiative.  When Officer
+Samuelson reached the passenger side, he noticed a dry brown paper bag from a
+McDonald’s restaurant at Wheat’s feet.  Because it was raining during the duration
+of the stop, the dryness of the bag was remarkable.  Suspecting that Wheat had just
+discarded the bag, Officer Samuelson retrieved it, and found that it held four
+smaller plastic bags containing what appeared to be a controlled substance.  A
+further search of the vehicle also revealed a small quantity of marijuana.  Around
+fifteen minutes after he first pulled them over, Officer Samuelson arrested both the
+driver and Wheat for possession of controlled substances.  Subsequent laboratory
+testing proved the contents of the plastic bags to be 63.03 grams of crack cocaine.
+Wheat was indicted by a grand jury on one count of possession with intent
+to distribute more than 50 grams of a mixture or substance containing cocaine
+base, in violation of 21 U.S.C. § 841(b)(1)(A)(iii) (1994).  He pled not guilty and
+-4-
+filed a motion to suppress all evidence obtained and statements made at the May 3,
+1996 vehicle stop.  The motion was denied.
+In a two-day jury trial beginning March 10, 1997, the appellant was found
+not guilty of possession with intent to distribute, but was convicted on the lesser
+included offense of simple possession of cocaine base, pursuant to 21 U.S.C. §
+844(a).  The district court sentenced the appellant to 110 months imprisonment. 
+After several procedural twists and turns not relevant to the issues before us now,
+this appeal followed. 
+II. DISCUSSION
+Wheat’s principal contentions are that the district court erred by denying his
+motion to suppress all evidence obtained as a result of the May 3, 1996 stop of the
+vehicle in which he was a passenger, and, failing the success of that argument, that
+his 110-month sentence is unconstitutional in light of the Supreme Court’s
+subsequent decision in Apprendi v. New Jersey, 530 U.S. 466 (2000).
+A. The District Court Properly Denied the Motion to Suppress 
+We conduct a de novo review of the district court’s denial of the motion to
+suppress.  Ornelas v. United States, 517 U.S. 690, 699 (1996).  However, we
+review the findings of historical fact that underlie the district court’s decision for
+clear error, and afford “due weight” to the inferences drawn from those facts by
+the district court and the participating law enforcement officers.  Id. ; see also
+United States v. Ball, 90 F.3d 260, 262 (8th Cir. 1996).
+Wheat argues that the anonymous 9-1-1 call could not give rise to
+reasonable suspicion sufficient to justify an investigatory stop under Terry v.
+Ohio, 392 U.S. 1 (1968), because Officer Samuelson never witnessed any traffic
+5  Before this Court, Wheat does not suggest, as he did before the district court,
+that the search of the paper McDonald’s bag was unlawful.  As the government
+nonetheless takes the trouble to argue in its brief to the Court, such an argument
+would fail, as Wheat had no legitimate expectation of privacy in the surface of the
+pavement near his car.  United States v. Dawdy, 46 F.3d 1427, 1430 (8th Cir. 1995).
+-5-
+violation actually in progress or about to occur.  Wheat also argues that he and the
+driver of the Nissan should have been allowed to leave the scene immediately after
+Officer Samuelson discovered that no license suspension needed to be served. 5
+1. Officer Samuelson Had Reasonable Suspicion to Initiate the Stop
+When a law enforcement officer directs a motor vehicle to stop by the side
+of the road and detains its occupants for questioning, such an investigatory stop
+constitutes a search and seizure under the Fourth and Fourteenth Amendments,
+“even though the purpose of the stop is limited and the resulting detention quite
+brief.”  Delaware v. Prouse, 440 U.S. 648, 653 (1979); accord Whren v. United
+States, 517 U.S. 806, 809-10 (1996); see also Thomas v. Dickel, 213 F.3d 1023,
+1024 (8th Cir. 2000). Under Terry and its progeny, “[a]n investigatory stop is
+permissible under the Fourth Amendment if supported by reasonable suspicion.” 
+Ornelas v. United States, 517 U.S. 690, 693 (1996); see also United States v.
+Sharpe, 470 U.S. 675, 682 (1985) (applying Terry to investigatory stop of
+vehicle); United States v. Bell, 183 F.3d 746, 749 (8th Cir. 1999) (“An
+investigative stop does not violate the Fourth Amendment if the police have
+reasonable suspicion that the vehicle or its occupants are involved in criminal
+activity.”).  If the investigatory stop is not justified by reasonable suspicion or if
+the investigating officers exceed the stop’s proper scope, any evidence derived
+from the stop is inadmissible at trial.  See, e.g., Wong Sun v. United States, 371
+U.S. 471, 484 (1963); United States v. Ramos, 42 F.3d 1160, 1164 (8th Cir. 1994). 
+A passenger in a motor vehicle has standing to challenge the stop of that vehicle. 
+See United States v. Lyton, 161 F.3d 1168, 1170 (8th Cir. 1998). 
+-6-
+Because reasonable suspicion is a less demanding standard than the
+probable cause required for an arrest, it “can arise from information that is less
+reliable than that required to show probable cause,” including an anonymous tip. 
+Alabama v. White, 496 U.S. 325, 330 (1990).  Whether an anonymous tip suffices
+to give rise to reasonable suspicion depends on both the quantity of information it
+conveys as well as the quality, or degree of reliability, of that information, viewed
+under the totality of the circumstances.  Id.  “[I]f a tip has a relatively low degree
+of reliability, more information will be required to establish the requisite quantum
+of suspicion than would be required if the tip were more reliable.”  Id.  
+In White, the Supreme Court considered whether the requisite quantum of
+suspicion was established by an anonymous tip claiming that a named individual
+would leave a specific apartment at a particular time and transport an ounce of
+cocaine in a brown Plymouth station wagon with a broken tail light to a specific
+motel.  Id. at 327.  The Court stated that the tip itself provided virtually no
+indication that the caller was honest or that the tip was reliable, as it gave no basis
+for its predictions.  Id. at 329.  However the Court held that visual corroboration
+by law enforcement officers of most aspects of the tip, including the suspect’s sex,
+the time of her departure, the vehicle she drove, and her apparent destination, gave
+the tip sufficient indicia of reliability.  Id. at 332 (“When significant aspects of the
+caller’s predictions were verified, there was reason to believe not only that the
+caller was honest but also that he was well informed, at least well enough to justify
+the stop.”).
+Subsequent to White, with respect to two categories of anonymous tips,
+lower courts tended to find reasonable suspicion even where such tips lacked
+personal corroboration by law enforcement officers of any predictive elements. 
+First, several federal appellate courts held that verification by police of the
+innocent details of a tip, such as the suspect’s description, could amount to
+reasonable suspicion when the principal allegation of the tip was that the suspect
+6  Presumably because traffic violations are adjudicated in state rather than
+federal court, there is a paucity of reported federal court decisions concerning Fourth
+Amendment challenges to Terry stops based on anonymous tips of erratic driving.
+-7-
+was armed with a gun and presented a potentially immediate danger.  See, e.g.,
+United States v. Clipper, 973 F.2d 944, 946-51 (D.C. Cir. 1992); United States v.
+Bold, 19 F.3d 99, 102-04 (2d Cir. 1994); United States v. DeBerry, 76 F.3d 884,
+885-87 (7th Cir. 1996); United States v. Gibson , 64 F.3d 617, 619-25 (11th Cir.
+1995); see also United States v. Roberson, 90 F.3d 75, 81 n.4 (3d Cir. 1996)
+(speculating in dicta that “a different rule may apply” if an anonymous tip alleged
+that the suspect possessed a weapon rather than drugs).  The courts agreed that the
+suspect’s alleged possession of a firearm was an important factor to be considered
+in weighing the totality of the circumstances, because the “element of imminent
+danger distinguishes a gun tip from one involving possession of drugs.”  Clipper ,
+973 F.2d at 951; accord DeBerry, 76 F.3d at 886 (“Armed persons are so
+dangerous to the peace of the community that the police should not be forbidden
+to follow up a tip that a person is armed, and as a realistic matter this will require a
+stop in all cases.”); Bold, 19 F.3d at 104; Gibson, 64 F.3d at 624.  The courts
+recognized that “an officer who corroborates every item of information reported
+by an anonymous tipster other than actual possession is left with an unappealing
+choice.  He must either stop and frisk the individual, or wait to see if he ultimately
+brandishes or uses the firearm.”  Gibson, 64 F.3d at 624 (internal quotation marks
+and citations omitted) (citing Clipper, 973 F.2d at 951).
+The second category of tips for which courts declined to require
+corroboration of their predictive elements concerned a different type of potentially
+immediate threat, and the one at issue in this case: an apparently drunk or reckless
+driver.  Thus, a number of state supreme and intermediate appellate courts 6 held
+that law enforcement officers could pull over a vehicle for an investigatory stop
+based on a contemporaneous tip of erratic driving that accurately described a
+-8-
+given vehicle, even where the officer did not personally witness any moving
+violations and therefore lacked probable cause to make an arrest.  See, e.g. , State
+v. Melanson, 140 N.H. 199, 200-03, 665 A.2d 338, 339-41 (1995); State v.
+Sampson, 669 A.2d 1326, 1327 (Me. 1996); State v. Lamb, 168 Vt. 194, 196-203,
+720 A.2d 1101, 1102-06 (1998); State v. Slater , 267 Kan. 694, 696-706, 986 P.2d
+1038, 1041-46 (1999); see also State v. Markus, 478 N.W.2d 405 (Iowa Ct. App.
+1991); State v. Smith, 638 N.E.2d 1353 (Ind. Ct. App. 1994); People v. Rance, 644
+N.Y.S.2d 447, 227 A.D.2d 936 (N.Y. App. Div. 1996); Kaysville City v. Mulcahy,
+943 P.2d 231 (Utah Ct. App. 1997).  But see McChesney v. State, 988 P.2d 1071,
+1075-78 (Wyo. 1999) (3-2 decision) (holding that corroboration only of color,
+make, and direction of suspect vehicle anonymously reported to be weaving and
+dangerously passing other cars did not give rise to reasonable suspicion where
+officer did not personally witness erratic driving after trailing vehicle a substantial
+distance); State v. Miller, 510 N.W.2d 638, 640-45 (N.D. 1994) (holding that tip
+that driver in fast-food restaurant’s drive-up lane “could barely hold his head up”
+and was possibly drunk could not create reasonable suspicion because it was
+“short on reliability, . . . short on specifics,” and uncorroborated by police officer); 
+State v. Lee, 282 Mont. 391, 393-96, 938 P.2d 637, 638-40 (1997) (holding that
+anonymous caller’s “belief” that driver was under influence of alcohol and was
+speeding, without any indication that the caller’s belief was based on personal
+observation of drinking, speeding, or erratic driving, did not justify investigatory
+stop); see also State v. Villegas-Varela, 132 Or. App. 112, 114-19, 887 P.2d 809,
+810-13 (1994) (holding that anonymous tip that did not give location or direction
+of suspect car that was ultimately not stopped until more than an hour later did not
+give rise to reasonable suspicion).  In addition to the fact that in the erratic driving
+context the tipster is almost invariably claiming to describe contemporaneously
+perceived behavior, see, e.g., Melanson, 140 N.H. at 202, 665 A.2d at 340, courts
+tended to agree that, as in the gun possession cases, the exigency of the situation
+demanded an immediate law enforcement response.  See, e.g., id. at 203, 665 A.2d
+at 340.
+-9-
+Last year, however, the Supreme Court appeared to curtail the argument that
+a purported threat of imminent danger necessarily lessens the government’s
+burden in an analysis of the reliability of an anonymous tip.  In Florida v. J.L. , 529
+U.S. 266 (2000), a decision not cited by the parties to the instant case, the Court
+considered whether an anonymous tip that a person is carrying a gun is sufficient
+to justify a Terry stop and frisk.  An anonymous caller had reported that a young
+black male wearing a plaid shirt and standing at a particular bus stop was carrying
+a gun; the caller did not identify himself or explain whence he knew such
+information.  Id. at 268, 271.  Police officers responding to the call spotted a
+young black male in a plaid shirt at the designated bus stop and, though they saw
+no firearm and had no reason to suspect the individual or his companions of illegal
+conduct, nevertheless stopped and frisked him, seizing a gun.  Id.  at 268.  
+A unanimous Court held that the stop-and-frisk was unconstitutional, as
+“the bare report of an unknown, unaccountable informant who neither explained
+how he knew about the gun nor supplied any basis for believing he had inside
+information about” the suspect lacked even the “moderate indicia of reliability
+present in White.”  Id. at 271.  The Court expressly rejected both the argument that
+the officers’ confirmation of the suspect’s visual attributes provided sufficient
+corroboration of the tip, id. at 271-72, and the argument that an “automatic firearm
+exception” should apply to the standard Terry analysis.  Id. at 272.  While
+recognizing the danger posed by firearms, the Court expressed its fears that an
+automatic exception would facilitate harassment based on false tips, and that a
+similar exception would be claimed for “bare-boned tips about narcotics,” since
+those who possess large quantities of drugs are frequently assumed to be armed. 
+See id. at 272-73.  At the same time, the Court declined 
+to speculate about the circumstances under which the danger alleged
+in an anonymous tip might be so great as to justify a search even
+without a showing of reliability.  We do not say, for example, that a
+report of a person carrying a bomb need bear the indicia of reliability
+-10-
+we demand for a person carrying a firearm before the police can
+constitutionally conduct a frisk.  Nor do we hold that public safety
+officers in quarters where the reasonable expectation of Fourth
+Amendment privacy is diminished, such as airports and schools,
+cannot conduct protective searches on the basis of information
+insufficient to justify searches elsewhere.
+Id. at 273-74 (citations omitted).
+The question we now face is whether, in light of J.L., an anonymous tip
+about the dangerous operation of a vehicle whose innocent details are accurately
+described may still possess sufficient indicia of reliability to justify an
+investigatory stop by a law enforcement officer who does not personally observe
+any erratic driving.  Recognizing the complexity of this issue, we answer
+affirmatively, and hold that under the totality of the circumstances of this case,
+Officer Samuelson had reasonable suspicion to detain the car in which Wheat was
+a passenger.
+In reaching this conclusion, we have been influenced by the reasoning
+employed by those state courts that have already considered the issue.  The
+Supreme Courts of Vermont, Iowa, and Wisconsin have held that J.L. does not
+prevent an anonymous tip concerning erratic driving from acquiring sufficient
+indicia of reliability to justify a Terry stop, even when the investigating officer is
+unable to corroborate that the driver is operating the vehicle recklessly and
+therefore unlawfully.
+In the first such decision by a state high court, State v. Boyea , 765 A.2d 862
+(Vt. 2000), cert. denied, 121 S. Ct. 2524 (2001), the Supreme Court of Vermont
+affirmed by a 3-2 vote the denial of a motion to suppress where the investigating
+officer’s sole initial basis for detaining the motorist was an anonymous tip, relayed
+by a police dispatcher, describing a “blue-purple Volkswagen Jetta with New York
+-11-
+plates, traveling south on I-89 in between Exits 10 and 11, operating erratically.” 
+Id. at 863, 868.  Although the court admitted that the case was close, see id.  at 867
+n.7, it distinguished J.L. on several grounds.  First, it stated that the informant’s
+accurate description of the vehicle and correct prediction of its location, just
+minutes before the stop, gave the tip greater reliability than the bare-bones tip in
+J.L.  Second, the court observed that “[i]n contrast to the report of an individual in
+possession of a gun, an anonymous report of an erratic or drunk driver on the
+highway presents a qualitatively different level of danger, and concomitantly
+greater urgency for prompt action.”  Id. at 867.  The court noted that whereas
+police confronted with a report of a concealed gun could quietly observe the
+suspect “for a reasonable period of time without running the risk of death or injury
+with every passing moment[, a]n officer in pursuit of a reportedly drunk driver on
+a freeway does not enjoy such a luxury.”  Id.  Thus, such a driver is not unlike the
+“bomb” for which, as the Supreme Court suggested in J.L., a laxer standard of
+reliability may apply.  Id.  Finally, the court reasoned that the liberty interest
+implicated by a simple motor vehicle stop was weaker than the “hands-on
+violation of the person” that occurred in J.L..  Id. at 868.
+A very similar analysis informed the decision of the Supreme Court of Iowa
+in State v. Walshire, 634 N.W.2d 625 (Iowa 2001).  The court found that because
+a tip about erratic driving describes not concealed criminal activity, as in J.L. , but
+rather “illegality open to public observation,” it therefore “demonstrated the
+tipster’s basis of knowledge” and its reliability could be demonstrated through
+corroboration of innocent details.  Id. at 627-28.  Unlike the unknown informant in
+J.L., who “neither explained how he knew about the gun nor supplied any basis for
+believing he had inside information,” 529 U.S. at 271, the caller in Walshire made
+it clear that he or she was a private citizen eyewitness to an ongoing crime.  634
+N.W.2d at 629.  The court also agreed with the Boyea court that the imminent
+danger of drunk driving “might call for a relaxed threshold of reliability,” and that
+-12-
+the intrusion on privacy interests is slight in a vehicle stop as compared to a pat-
+down on a public street.  Id. at 630. 
+The Supreme Court of Wisconsin has also upheld an investigatory stop of a
+vehicle based on an anonymous tip alleging erratic driving, albeit under somewhat
+stronger factual circumstances.  In State v. Rutzinski, 241 Wis. 2d 729, 623
+N.W.2d 516 (2001), the court considered the reliability of the tip provided by an
+unidentified motorist calling from a cell phone, contemporaneously describing a
+black pickup truck that was weaving within its lane, variously driving too fast or
+too slow, and tailgating.  Id. at 733, 623 N.W.2d at 519.  Although the
+investigating officer did not personally observe any such erratic driving, id.  at 734,
+623 N.W.2d at 519, the court affirmed the denial of the motion to suppress, on
+three grounds.  First, the court found that although the caller was never identified,
+he or she did indicate during the phone tip that he or she was in the car directly in
+front of the offending vehicle, and would therefore have been aware of the
+possibility that the police could have traced his or her identity by recording his or
+her license plate number.  Id. at 747, 623 N.W.2d at 525.  Next, the court
+recognized that the caller explained that “he or she was making personal
+observations of the [suspect driver’s] contemporaneous actions,” unlike the caller
+in J.L..  Id. at 748, 623 N.W.2d at 526.  Finally, like the Boyea court, the court
+acknowledged that the tip in question suggested that the suspect “posed an
+imminent threat to the public’s safety.”  Id. at 748-49, 623 N.W.2d at 526.  The
+court emphasized that it did not advocate a blanket exception to the reliability
+requirement for tips concerning alleged drunk driving, but at the same time clearly
+stated that the “extraordinary danger” of drunk driving meant that any allegation
+thereof had to be seriously considered in weighing the totality of the
+circumstances.  Id. at 751, 623 N.W.2d at 527.
+A handful of lower state courts to have considered this issue in light of J.L.
+have reached a different conclusion, however.  In Commonwealth v. Lubiejewski ,
+-13-
+49 Mass App. Ct. 212, 729 N.E.2d 288 (2000), a Massachusetts appeals court held
+that an anonymous cellular phone call claiming that a pickup truck had been
+driving on the wrong side of the road could not justify an investigatory stop.  Id.  at
+213-17, 729 N.E.2d at 290-93.  Although the trooper had corroborated all the
+innocent details about the truck, including its license plate number, he had not
+personally witnessed any erratic driving, and the caller had already told the
+dispatcher that the truck had returned to the correct side of the road, so “the
+emergency had ended.”  Id. at 215, 729 N.E.2d at 292.  In State v. Boyle, 793
+So.2d 1281 (La. Ct. App. 2001), a divided Louisiana appeals court held that an
+anonymous tip that the driver of a particular pick-up truck was intoxicated did not
+justify a Terry stop of the suspect in his own driveway.  Id. at 1284-85.  The court
+focused on the fact that the officers had not witnessed any criminal activity or
+unusual driving, and on the fact that the stop took place on the suspect’s private
+property.  Id. at 1284.  In Washington v. State, 740 N.E.2d 1241 (Ind. Ct. App.
+2001), an Indiana appeals court reversed the denial of a motion to suppress
+marijuana seized during an investigatory stop of a vehicle made pursuant to
+anonymous tip that the driver was possibly drunk, because the officer had not
+personally observed any dangerous driving during the two miles he followed the
+car, and had not corroborated any detailed predictions of the suspect’s future
+behavior.  Id. at 1243-1246.  And in Stewart v. State, 22 S.W.3d 646 (Tex. Ct.
+App. 2000), a Texas appeals court held that an anonymous tip that a driver had
+appeared highly intoxicated while entering the vehicle did not justify a stop,
+because the description of the suspect was so general that the court questioned
+whether the officer was certain he had stopped the correct suspect, and the officer
+had not witnessed any erratic driving.  Id. at 648-50.  However, in State v. Marks,
+2000 WL 33298878 (Conn. Super. Ct. Dec. 7, 2000), a Connecticut trial court
+denied a motion to suppress a stop based on an anonymous tip of erratic driving,
+even though the officer witnessed no unlawful driving and the tipster refused to
+identify himself, because the tip took the form of a five-minute 9-1-1 call wherein
+the caller “clearly relay[ed] his first hand observations as events [we]re unfolding
+7  Although the caller misidentified the model of the vehicle as a Stanza, rather
+than as a Maxima, he expressed reservation, saying that it was “something like that.”
+In all other respects his identification of the vehicle was correct. 
+-14-
+before him,” describing in extensive detail “every erratic move” of the suspect’s
+car.  Id. at *5.
+From these cases, and upon further reflection, we believe the following
+considerations to be integral to a determination of whether an anonymous tip of
+erratic driving may justify an investigatory stop.  In so doing, we bear in mind the
+Supreme Court’s instruction that “[r]easonable suspicion, like probable cause, is
+dependent upon both the content of information possessed by police and its degree
+of reliability.  Both factors--quantity and quality--are considered in the ‘totality of
+the circumstances.’”  White, 496 U.S. at 330 (quoting United States v. Cortez, 449
+U.S. 411, 417 (1981)).
+First, the anonymous tipster must provide a sufficient quantity of
+information, such as the make and model of the vehicle, its license plate numbers,
+its location and bearing, and similar innocent details, so that the officer, and the
+court, may be certain that the vehicle stopped is the same as the one identified by
+the caller.  The time interval between receipt of the tip and location of the suspect
+vehicle, though going principally to the question of reliability, may also be a factor
+here.  Although the J.L. Court focused on deficiencies in the quality, rather than in
+the quantity, of the information contained in the tip at issue in that case, we think
+it significant that that tip only spoke of a young black male wearing a plaid shirt,
+standing at a particular bus stop.  See J.L., 529 U.S. at 268.  That is a rather
+generic description, and the possibility for confusion of the suspect’s identity was
+compounded by the fact that the police only responded “sometime” later; the
+record did not disclose how long.  Id.  By contrast, in the instant case, the caller
+identified the color and make of the vehicle, named the first three letters of its
+license plate, and gave its location and direction. 7  Compare Boyea, 765 A.2d at
+8  The rationale for allowing less rigorous corroboration of tips alleging erratic
+driving is that the imminent danger present in this context is substantially greater (and
+more difficult to thwart by less intrusive means) than the danger posed by a person
+in possession of a concealed handgun.  Therefore, the moving violation or violations
+alleged must suggest real exigency.  An allegation of erratic driving will generally
+pass this test since it strongly suggests that the driver is operating under the influence
+of alcohol or drugs and is unable to control his vehicle.  So too would an anonymous
+tip of drag racing or a game of “chicken”; at the other end of the spectrum, a report
+of a vehicle being driven one mile per hour over the posted limit would almost
+certainly not.  But we need not delimit the offenses that might give rise to reasonable
+suspicion, and indeed we cannot, for the inquiry must always be undertaken on a
+case-by-case basis under the totality of the circumstances.  In all cases, however, the
+more extensive the description of the alleged offense, the greater the likelihood that
+the tip will give rise to reasonable suspicion.
+-15-
+863 (caller accurately described a “blue-purple Volkswagen Jetta with New York
+plates, traveling south on I-89 in between exits 10 and 11"), with  Stewart, 22
+S.W.3d at 649 (“[G]iven the generality of the radioed description, it is not clear
+that the officer could even be sure that the automobile was being driven by the
+man seen to [appear drunk] by the informer.”).  See also Terry, 392 U.S. at 21 n.18
+(“Th[e] demand for specificity in the information upon which police action is
+predicated is the central teaching of this Court’s Fourth Amendment
+jurisprudence.”).  Officer Samuelson effected a stop within minutes of the 9-1-1
+call, and at the suppression hearing, he testified that he “knew right away that that
+was the vehicle.”  Tr. of Hr’g on Mot. to Suppress, at 20.  We think that the
+information in the tip identifying the recklessly driven vehicle was sufficiently
+copious and precise.
+The tip must also contain a sufficient quantity of information to support an
+inference that the tipster has witnessed an actual traffic violation that compels an
+immediate stop.8  A law enforcement officer’s mere hunch does not amount to
+reasonable suspicion, see Terry, 392 U.S. at 27; Illinois v. Wardlow, 528 U.S. 119,
+123-24 (2000); a fortiori, neither does a private citizen’s.  Cf. Miller, 510 N.W.2d
+-16-
+at 640-45 (holding that tip that driver in fast-food restaurant’s drive-up lane “could
+barely hold his head up” and was possibly drunk could not create reasonable
+suspicion in part because it was “short on specifics”); Lee, 282 Mont. at 393-96,
+938 P.2d at 638-40 (holding that anonymous caller’s “belief” that driver was under
+influence of alcohol and was speeding, without any indication that the caller’s
+belief was based on personal observation of drinking, speeding, or erratic driving,
+did not justify investigatory stop).  In the instant case, the anonymous caller
+specifically alleged that he had personally observed several different traffic
+violations involving erratic driving.  See  Iowa Code §§ 321.299 et seq. (2001)
+(regulating proper methods of passing and overtaking another vehicle); Iowa Code
+§ 321.277 (2001) (making reckless driving a simple misdemeanor).
+The second and far more difficult consideration concerns the quality, or
+degree of reliability, of the information conveyed in an anonymous tip.  In J.L. , the
+Court found the anonymous tip unreliable because it “provided no predictive
+information and therefore left the police without means to test the informant’s
+knowledge or credibility.”  529 U.S. at 271.  In the context of an anonymous tip of
+erratic driving, however, the first challenge is to identify the predictive element of
+the tip that must be corroborated.  Is it that the vehicle is being driven
+dangerously?  Wholly aside from the public safety considerations discussed infra ,
+this seems too stringent, because a police officer who corroborated the claim of
+reckless driving would then have not merely reasonable suspicion to justify an
+investigatory stop, but probable cause to make an arrest.  See  United States v. Bell,
+86 F.3d 820, 822 (8th Cir. 1996) (“[A]ny traffic violation, even a minor one, gives
+an officer probable cause to stop the violator.”); accord United States v. Neumann,
+183 F.3d 753, 755-56 (8th Cir. 1999); see also  Iowa Code § 321.277.  Thus, police
+would lose the intermediate step of investigatory stops based on reasonable
+suspicion.  We think that under the proper circumstances Terry stops strike a
+careful balance between society’s interest in crime prevention and the individual
+9  Under Iowa law, a peace officer who has probable cause to believe a traffic
+violation has been committed may, at her discretion, make a full-blown custodial
+arrest of the suspect.  See  Iowa Code § 321.485(1)(a) (2001).  A constitutional
+scheme that absolutely forbade peace officers from immediately stopping a vehicle
+reported to be dangerous, in order to ask a few questions of the driver, but encouraged
+them to watch that same vehicle like hawks for the slightest violation of any of the
+manifold motor vehicle regulations, and thereupon permitted them to make a full
+custodial arrest, would do no service to individual liberties.  Officers would have
+incentive to issue citations or make arrests for very minor moving violations they
+might otherwise overlook, in order to have some pretext to get a reportedly drunk
+driver off the road.  To do so would be perfectly constitutional, see Whren v. United
+States, 517 U.S. 806, 813 (1996), yet not something that we think the courts should
+encourage.
+10  Curiously, however, in White, which formed a cornerstone of the analysis
+in J.L., none of the predictive information corroborated proved that the tipster had
+knowledge of con cealed criminal activity, a fact not lost on the dissent or on other
+commentators.  See White, 496 U.S. at 333 (Stevens, J., dissenting) (“An anonymous
+neighbor’s prediction about somebody’s time of departure and probable destination
+is anything but a reliable basis for assuming that the commuter is in possession of an
+-17-
+citizen’s interest in remaining free from wanton government interference, and we
+are loath to see their use foreclosed in this context. 9
+Alternatively, the predictive information to be corroborated might be no
+more than that a vehicle matching a certain description will pass a certain
+waypoint on a specific road at an approximate time.  However, the Supreme Court
+precluded this approach in J.L., at least with respect to gun possession cases. 
+While acknowledging that corroboration of the suspect’s “readily observable
+location and appearance” does assure that the police have stopped the person that
+the tipster meant to accuse, the Court stated that “[s]uch a tip . . . does not show
+that the tipster has knowledge of concealed criminal activity.  The reasonable
+suspicion here at issue requires that a tip be reliable in its assertion of illegality,
+not just in its tendency to identify a determinate person.”  J.L., 529 U.S. at 272.10
+illegal substance.”); 4 La Fave, Search and Seizure § 9.4(h), at 224-25 (3d ed. 1996)
+(criticizing the majority opinion for crediting “‘the caller’s ability to predict
+respondent’s future behavior,’ even when . . . that behavior--as far as the surveilling
+officers can tell--is both routine and nonsuspicious”)  (emphasis in original; footnotes
+deleted).
+-18-
+A careful reading of the Supreme Court’s Fourth Amendment jurisprudence
+suggests that this emphasis on the predictive aspects of an anonymous tip may be
+less applicable to tips purporting to describe contemporaneous, readily observable
+criminal actions, as in the case of erratic driving witnessed by another motorist. 
+White did not create a rule requiring that a tip predict future action, United States
+v. Johnson, 64 F.3d 1120, 1125 (8th Cir. 1995), and neither did J.L. .  As we have
+previously acknowledged, “[s]uch a rule would be contrary to the line of cases
+holding that reasonable suspicion must be judged on the totality of the
+circumstances.”  Id. at 1125 n.3.  The Supreme Court has long emphasized that a
+primary determinant of a tipster’s reliability is the basis of his knowledge.  See
+Illinois v. Gates, 462 U.S. 213, 230 (1983) (“[A]n informant’s ‘veracity,’
+‘reliability,’ and ‘basis of knowledge’ are all highly relevant in determining the
+value of his report. . . . [T]hese elements should [not] be understood as entirely
+separate and independent requirements to be rigidly exacted in every case . . . . 
+Rather, . . . they should be understood simply as closely intertwined issues.”);
+accord White, 496 U.S. at 328-29.  Unlike with clandestine crimes such as
+possessory offenses, including those involving drugs or guns, where corroboration
+of the predictive elements of a tip may be the only means of ascertaining the
+informant’s basis of knowledge, in erratic driving cases the basis of the tipster’s
+knowledge is likely to be apparent.  Almost always, it comes from his eyewitness
+observations, and there is no need to verify that he possesses inside information. 
+As the court reasoned in Boyea:
+The offense alleged here did not involve a concealed crime--a
+possessory offense.  What was described in the police dispatch to the
+-19-
+arresting officer was a crime in progress, carried out in public,
+identifiable and observable by anyone in sight of its commission. 
+Unlike the tip alleged in White--that White was carrying narcotics--
+. . . here a total stranger could have observed defendant’s driving
+abilities.  No intimate or confidential relationship was required to
+support the accuracy of the observation.  The caller simply reported a
+contemporaneous observation of criminal activity taking place in his
+line of sight.
+765 A.2d at 875 (Skoglund, J., concurring) (emphasis in original).  See also
+Walshire, 634 N.W.2d at 627-28 (“[T]he information provided here did not
+concern concealed criminal activity, but rather illegality open to public
+observation.  The tip here demonstrated the tipster’s basis of knowledge: the caller
+observed the defendant driving in an erratic manner.”); Rutzinski, 241 Wis. 2d at
+748, 623 N.W.2d at 526 (“Unlike the caller in J.L., the informant in this case
+provided the police with verifiable information indicating his or her basis of
+knowledge.  The informant explained that he or she was making personal
+observations of Rutzinski’s contemporaneous actions.”).  Cf. United States v.
+Armstead, 112 F.3d 320, 322 n.3 (8th Cir. 1997) (rejecting contention that
+anonymity of airline agent made his or her tip about a drug courier unreliable, as
+“[t]he exact identity of the airline’s agent is unimportant: it is enough that she or
+he worked for the airline, . . . and would therefore have accurate information”).
+By way of contrast, in White corroboration of the predictive aspects of the
+tip was the only means of confirming the tipster’s basis of knowledge.  See 496
+U.S. at 332 (“[T]he caller’s ability to predict respondent’s future behavior . . .
+demonstrated inside information . . .  [that t]he general public would have had no
+way of knowing . . . .  [A] person with access to [information about an individual’s
+itinerary] is likely to also have access to reliable information about that
+individual’s illegal activities.”) (emphasis in original).  And in J.L., the tip lacked
+any predictive elements that would suggest the tipster was in a special position to
+know about the suspect’s clandestine lawbreaking.  529 U.S. at 271 (“All the
+11  Significantly, in our common law contemporaneous accounts of situations
+have long been regarded as especially credible, and thus exempt from the hearsay rule
+as present sense impressions, one aspect of the concept of res gestae .  See Jon R.
+Waltz, The Present Sense Impression Exception to the Rule Against Hearsay: Origins
+and Attributes, 66 Iowa L. Rev. 869, 870-75 (1981) (explaining that this principle is
+not, as often assumed, of recent origin, but rather dates back centuries).  This
+exception is of course now codified at Fed. R. Evid. 803(1) (excluding from the
+hearsay rule “[a] statement describing or explaining an event or condition made while
+the declarant was perceiving the event or condition,” regardless whether the declarant
+is available as a witness).  Although the declarant must have been a percipient
+witness, i.e., “one who was in a position to perceive the event or condition which his
+declaration purports to describe,” he need not be identified so long as there is no
+doubt that a declaration was actually made.  Waltz, 66 Iowa L. Rev. at 877-78. 
+-20-
+police had to go on in this case was the bare report of an unknown, unaccountable
+informant who neither explained how he knew about the gun nor supplied any
+basis for believing he had inside information.”).  Although the tipster did provide
+an ostensibly contemporaneous account of the suspect’s actions, inasmuch as he
+stated that the suspect was standing at a certain bus stop, he neither alleged that he
+was observing any crime nor even explained how he knew that the suspect carried
+a gun.  See id. at 272 (“[The tip in question] does not show that the tipster has
+knowledge of concealed criminal activity.  The reasonable suspicion here at issue
+requires that a tip be reliable in its assertion of illegality . . . .”).  We think that an
+anonymous tip conveying a contemporaneous observation of criminal activity
+whose innocent details are corroborated is at least as credible as the one in White ,
+where future criminal activity was predicted, but only innocent details were
+corroborated.11  
+We recognize the danger that, as with any anonymous tip, even a
+supposedly contemporaneous account of erratic driving could be a complete work
+of fiction, created by some malicious prankster to cause trouble for another
+motorist.  Indeed, in J.L. the Supreme Court declined to adopt an automatic
+firearm exception to the corroboration requirement for this very reason.  See  529
+-21-
+U.S. at 272.  However, with respect to anonymous reports of erratic driving that
+seem otherwise credible under the totality of the circumstances, we think that the
+risk of false tips is slight compared to the risk of not allowing the police
+immediately to conduct an investigatory stop, for several reasons.
+First, the risk that law enforcement officers themselves will fabricate such a
+tip in order to harass innocent motorists is negligible.  Where, as in this case, the
+tip originates in the form of a 9-1-1 call, and is subsequently broadcast over the
+police radio channel, there is no chance that the investigating officer has invented
+the tip, a fear expressed in other circumstances by some commentators.  See, e.g.,
+4 La Fave, Search and Seizure § 9.4(h), at 227 (criticizing the Supreme Court’s
+decision in Adams v. Williams, 407 U.S. 143 (1972), where the Court upheld an
+investigatory stop based on a tip allegedly provided by informant known to officer
+but otherwise never identified, on the grounds that it facilitates police
+fabrications).  That leaves the possibility of malicious hoaxes perpetrated by
+private citizens.  We wholeheartedly endorse efforts such as those mentioned by
+Justice Kennedy in his concurrence in J.L., see 529 U.S. at 276, to encourage law
+enforcement to use instant caller identification technology or otherwise to try to
+identify anonymous tipsters, in order to increase the reliability of such tips.  In the
+instant case, however, we confront a situation where the 9-1-1 operator failed to
+ask the caller for his identity, and the caller did not volunteer such information.
+We must therefore decide whether that oversight, and the consequent
+possibility that the allegation of erratic driving was groundless, destroyed the
+reliability of the tip in question.  From Terry, we know that  
+[i]n order to assess the reasonableness of Officer [Samuelson’s]
+conduct as a general proposition, it is necessary first to focus upon
+the governmental interest which allegedly justifies official intrusion
+upon the constitutionally protected interests of the private citizen, for
+there is no ready test for determining reasonableness other than by
+12  We do not  suggest that the impracticality of conducting a consensual
+interview obviates the requirement of reasonable suspicion, but we do think it is a
+factor to be considered in weighing the government’s interest.
+-22-
+balancing the need to search [or seize] against the invasion which the
+search [or seizure] entails.
+Terry, 392 U.S. at 20-21 (initial brackets added; subsequent brackets in original;
+internal quotation marks deleted).  In cases of possible drunk driving, we think
+that the governmental interest in effecting an immediate investigatory stop is very
+strong, and the intrusion upon the constitutionally protected interests of the private
+citizen, although also significant, is comparatively less so.
+ An erratic and possibly drunk driver poses an imminent threat to public
+safety.  See Rutzinski, 241 Wis. 2d at 748-51, 623 N.W.2d at 526-27.  Of course,
+arguably so too does a citizen armed with a gun, yet the Supreme Court firmly
+declined to adopt an automatic firearm exception to the reliability requirement on
+that basis.  J.L., 529 U.S. at 272.  However, there is a critical distinction between
+gun possession cases and potential drunk driving cases.  In the possessory offense
+cases, law enforcement officers have two less invasive options not available to
+officers responding to a tip about a drunk driver.  First, they may initiate a simple
+consensual encounter, for which no articulable suspicion is required.  See  Florida
+v. Rodriguez, 469 U.S. 1, 5-7 (1984) (per curiam).  Needless to say, that is not
+possible when the suspect is driving a moving vehicle. 12
+Alternatively, officers responding to a tip about a possessory violation may
+quietly observe the suspect for a considerable length of time, watching for other
+indications of incipient criminality that would give them reasonable suspicion to
+make an investigatory stop--as, for example, in Terry, where an experienced
+officer witnessed several men casing a joint.  392 U.S. at 5-7.  By contrast, where
+an anonymous tip alleges erratic and possibly drunk driving, a responding officer
+13  Consequently, when the officer does not  effect an immediate stop of a
+potentially drunk driver, the force of this justification rapidly diminishes.  See, e.g.,
+McChesney, 988 P.2d at 1075-78 (finding no reasonable suspicion where officer did
+not personally witness erratic driving after trailing vehicle a substantial distance);
+Boyle, 793 So.2d at 1282-85 (Terry  stop not justified where police caught up with
+suspect in his own driveway);  Washington v. State, 740 N.E.2d at 1243-46 (finding
+no reasonable suspicion where officer had not personally observed any dangerous
+driving during the two miles he followed the car). 
+-23-
+faces a stark choice.  As the Boyea court noted, he can intercept the vehicle
+immediately and ascertain whether its driver is operating under the influence of
+drugs or alcohol.  765 A.2d at 862.  Or he can follow and observe, with three
+possible outcomes: the suspect drives without incident for several miles; the
+suspect drifts harmlessly onto the shoulder, providing corroboration of the tip and
+probable cause for an arrest; or the suspect veers into oncoming traffic, or fails to
+stop at a light, or otherwise causes a sudden and potentially devastating accident. 
+Id.  In contradistinction to J.L., where the suspect was merely standing at the bus
+stop, in this context the suspect is extremely mobile, and potentially highly
+dangerous.  See Boyea, 765 A.2d at 867 (“[A] drunk driver is not at all unlike a
+‘bomb,’ and a mobile one at that.”).  Thus, we think that there is a substantial
+government interest in effecting a stop as quickly as possible. 13
+That interest must be balanced against the individual’s right to remain free
+from unreasonable government intrusion.  See Terry, 392 U.S. at 20-21.  We
+readily acknowledge that citizens have a liberty interest in proceeding unmolested
+along public highways and that investigatory stops create a substantial intrusion
+on that interest.  See Delaware v. Prouse, 440 U.S. 648, 657 (1979) (noting that
+vehicular stops interfere with freedom of movement, are inconvenient, consume
+time, and may create substantial anxiety).  At the same time, we think that such
+stops are considerably less invasive, both physically and psychologically, than the
+frisk on a public corner that was at issue in J.L..  See Boyea, 765 A.2d at 868
+(reasoning that the liberty interest implicated by a vehicular stop is weaker than
+-24-
+the “hands-on violation of the person” of the public frisk in J.L.); Walshire, 634
+N.W.2d at 630.  Recognizing the “magnitude of the drunken driving problem,” the
+Supreme Court has approved the use by law enforcement of brief roadside sobriety
+checkpoints.  See Michigan Dep’t of State Police v. Sitz, 496 U.S. 444, 451
+(1990).  We rather doubt that a like recognition of the dangers of illegal handguns
+would lead the Court to approve a scheme of randomly placed magnetometers
+(“metal detectors”) on public sidewalks, even in high-crime neighborhoods. 
+After careful consideration of all of the above factors, we find that the initial
+stop of the vehicle in which Wheat was a passenger was not unreasonable under
+the totality of the circumstances.  An anonymous caller provided an extensive
+description of a vehicle that, based on his contemporaneous eyewitness
+observations, he believed was being operated dangerously, and cited specific
+examples of moving violations.  When Officer Samuelson caught up with the
+vehicle minutes later while it was stopped at an intersection, he corroborated all its
+innocent details, confirming that it was the one identified by the tipster.  Within
+seconds after the vehicle resumed motion, Officer Samuelson effected an
+immediate investigatory stop, rather than allow it to proceed and potentially
+endanger other vehicles.  Under the totality of the circumstances, he had
+reasonable suspicion to do so, and the stop was valid under the Fourth and
+Fourteenth Amendments.  
+2.  On Plain Error Review, Wheat Cannot Show That He Was
+Unreasonably Detained After Officer Samuelson Discovered That the
+Suspension Did Not Need to Be Served
+Wheat also claims that “after Samuelson discovered that no DOT
+suspension needed to be served, Wheat should have been allowed to leave the
+scene immediately.”  Wheat’s Brief, at 16.  However, Wheat failed to make this
+argument before the district court.  See infra.  Reviewing it now for plain error, see
+-25-
+Fed. R. Crim. Pro. 52(b); Johnson v. United States, 520 U.S. 461, 465-66 (1997),
+we find it to be without merit.  As the district court discussed in a footnote:
+Defendant Wheat does not contend that he was unreasonably detained
+after Officer Samuelson learned that he did not have to serve a license
+suspension on him.  Nor would such an argument have any merit. 
+Immediately after learning that he did not have to serve the license
+suspension on Wheat, Officer Samuelson and Officer Anderson left
+Samuelson’s patrol car, returned Wheat’s license[,] and informed him
+that he did not need to be served with the license suspension. 
+Immediately after informing Wheat of these events, Officer
+Samuelson turned to McDonald and requested consent to search the
+Nissan.
+Gov’t App., at 51, Order Adopting Report and Recommendation, at 19 n.7
+(emphasis in original). 
+We must accept these findings of historical fact except upon a showing that
+they are clearly erroneous, Ornelas v. United States, 517 U.S. 690, 699 (1996), and
+Wheat has offered no evidence to that end.  Moreover, we agree with the district
+court’s legal conclusions.  “After making a valid Terry stop, police officers must
+diligently work to confirm or dispel their suspicions in a short period of time.” 
+United States v. Bell, 183 F.3d 746, 749 (8th Cir. 1999).  In this case, Officer
+Samuelson worked diligently to ascertain whether or not the license suspension
+needed to be served; after learning that it did not, he immediately informed Wheat
+of that fact.  At most, there occurred a momentary conference between Officer
+Samuelson and Officer Anderson about the latter’s previous encounters with the
+driver.  The district court did not err, let alone commit plain error, by denying
+Wheat’s motion to suppress.
+-26-
+B. The Apprendi  Error Was Harmless
+Wheat next claims that his sentence of 110 months is unconstitutional in
+light of the Supreme Court’s decision in Apprendi v. New Jersey, 530 U.S. 466
+(2000).  In Apprendi, the Supreme Court held that “[o]ther than the fact of a prior
+conviction, any fact that increases the penalty for a crime beyond the prescribed
+statutory maximum must be submitted to a jury, and proved beyond a reasonable
+doubt.”  Id. at 490.  We have consistently extended this holding to federal drug
+cases applying 21 U.S.C. § 841 (1994), the statute criminalizing possession with
+intent to distribute controlled substances.  See, e.g. , United States v. Aguayo-
+Delgado, 220 F.3d 926, 932-33 (8th Cir. 2000), cert. denied , 531 U.S. 1026
+(2000); United States v. Sheppard, 219 F.3d 766, 767 (8th Cir. 2000), cert. denied,
+531 U.S. 1200 (2001).
+Wheat’s indictment charged him with possession with intent to distribute
+more than 50 grams of cocaine base under §§ 841(a)(1) and (b)(1)(A), but the jury
+acquitted him of that charge and convicted him of the lesser included offense of
+simple possession of cocaine base under 21 U.S.C. § 844(a) (1994) instead. 
+Although this is the first time we have had to consider the application of Apprendi
+to § 844, the task is functionally no different than with respect to § 841.  A
+conviction of simple possession of a controlled substance under § 844 may be
+punished by a term of imprisonment not to exceed one year, or two years if the
+individual, like Wheat, has previously been convicted of any drug offense under
+any state law or under Chapter 13 of Title 21 of the United States Code.  21 U.S.C.
+§ 844(a).  However, § 844 also provides special enhanced penalties where the
+controlled substance in question is cocaine base and certain specified quantities
+are possessed, depending on the existence and number of prior convictions under
+§ 844(a).  See id.  For individuals such as Wheat who have no prior convictions
+under § 844(a), the statute provides that possession of cocaine base in an amount
+exceeding five grams is punishable by a term of imprisonment not less than five
+14  We note, however, that in a case presenting nearly identical factual
+circumstances, the Fourth Circuit held that no Apprendi  error whatsoever had
+occurred, reasoning that the jury had  made a quantity finding.  In United States v.
+Brooks, 7 Fed. Appx. 248, 252 (4th Cir. 2001) (per curiam), cert. denied, 122 S. Ct.
+-27-
+years and not more than twenty years.  See id.  Wheat argues that because the jury
+was not instructed to make a finding with respect to drug quantity, his sentence of
+110 months considerably exceeds the two year maximum permitted under § 844(a)
+where no quantity of cocaine base is determined.
+Although Apprendi was handed down after Wheat’s conviction and
+sentencing, because his case is on direct appeal, we must apply it retroactively. 
+United States v. Anderson, 236 F.3d 427, 429 (8th Cir. 2001) (citing Griffith v.
+Kentucky, 479 U.S. 314, 328 (1987)), cert. denied, 122 S. Ct. 356 (2001). 
+However, because Wheat “agreed that the quantity of [cocaine base] that he was
+alleged to possess was [63.03 grams], and did not object to the admission of such
+evidence at trial or to the court’s imposing a sentence based upon its own finding
+of quantity, our review is for plain error.”  United States v. Poulack, 236 F.3d 932,
+937 (8th Cir. 2001), cert. denied, 122 S. Ct. 148 (2001).  Under that standard, 
+before an appellate court can correct an error not raised at trial, there
+must be (1) error, (2) that is plain, and (3) that affects substantial
+rights.  If all three conditions are met, an appellate court may then
+exercise its discretion to notice a forfeited error, but only if (4) the
+error seriously affects the fairness, integrity, or public reputation of
+judicial proceedings.
+Johnson v. United States, 520 U.S. 461, 466-67 (1997) (citations, brackets, and
+internal quotation marks omitted); see also Fed. R. Crim. Pro. 52(b).
+We begin our analysis by assuming, as the government concedes, that plain
+error has occurred.14  Wheat was properly charged with a specific quantity of drugs
+261 (2001), the court considered the appeal of an individual arrested while in
+possession of 13.11 grams of crack and, like Wheat, indicted under § 841(b)(1)(A),
+but convicted only of the lessor included offense under § 844(a).  The appellant was
+charged in his indictment with possession with intent to distribute more than five
+grams of crack.  Id.  Because jurors were instructed that to convict him of the lesser
+included offense they had to find beyond a reasonable doubt that he had “possessed
+the controlled substance described in the indictment,” the court held that the
+instruction required the jury to find beyond a reasonable doubt that the appellant
+possessed more than five grams.  Id.   Therefore, the jury had effectively made a
+specific finding on the element of quantity, and the conviction accordingly satisfied
+Apprendi.  Id.
+In the instant case, Wheat’s indictment charged him with possession with intent
+to distribute more than 50 grams, and the jury instruction with respect to the lesser
+included offense was identical to the one in Brooks --i.e., the jury had to find that
+Wheat had “intentionally possessed the controlled substance described in the
+indictment.”  Gov’t App., at 82, Final Instruction No. 18--Lesser Included Offense.
+Brooks is therefore directly on point.  However, expressing neither approval nor
+disapproval, we decline to follow it at this time, as the law of our own circuit provides
+sufficient grounds on which to affirm Wheat’s conviction.
+15  The verdict form is simple, not special.  The record on appeal does not
+include a copy of Jury Instruction No. 17, Elements of the Offense.  However, the
+government has conceded that the jury did not make a particular finding with respect
+to quantity.
+-28-
+in the indictment.  However, the jury was apparently not instructed to consider the
+quantity charged as an element of the offense,15 and the relevant quantity was
+therefore determined only at sentencing.  Because failure to submit the element of
+quantity to the jury would be error today, it was error then, and the first prong of
+plain error review is satisfied.  See Johnson, 520 U.S. at 467.  The second element
+of the test is likewise met.  “[I]n a case such as this--where the law at the time of
+trial was settled and clearly contrary to the law at the time of appeal--it is enough
+that an error be ‘plain’ at the time of appellate consideration.”  Id. at 468.
+16  See, e.g., Sentencing Tr., at 5 (responding affirmatively to court’s question
+that quantity was 63 grams), 28 (“There’s no doubt that it was 63 grams.”).
+-29-
+The government argues that Wheat cannot pass the third and fourth prongs
+of the clear error test.  It relies on decisions of other circuits, e.g. , United States v.
+Swatzie, 228 F.3d 1278 (11th Cir. 2000), cert. denied, 121 S. Ct. 2600 (2001), as
+well as our own decision in Anderson, 236 F.3d 427, decided under the closely
+related harmless error standard, wherein Apprendi errors have been held harmless
+where overwhelming evidence of the quantity was adduced at trial, such that no
+rational jury could have reached a verdict of conviction and yet not found that
+quantity of drugs had it been charged to do so.  Because the only  drugs at issue in
+this case were the 63.03 grams of cocaine base found in the McDonald’s bag, and
+because Wheat did not contest that quantity of drugs at trial, see  Trial Tr., at 64-
+69, and repeatedly conceded its accuracy at the sentencing hearing, 16 no rational
+jury could have convicted him of possession of cocaine base except by reference
+to the 63.03 grams of cocaine base.  See Anderson, 236 F.3d at 430.
+At oral argument, Wheat pursued a novel line of argument.  Returning to a
+theme he had adopted at the sentencing hearing, he argued that the Apprendi  error
+cannot be held harmless precisely because the jury that tried him was not rational. 
+Specifically, Wheat argues that 63.03 grams can only be considered to be a
+distribution-level quantity of cocaine base, yet the jury expressly declined to
+convict him of possession with intent.  It therefore acted irrationally, and the
+verdict arrived at could only be a compromise or a form of nullification.  In these
+circumstances, Wheat argues, the court simply cannot presume to state what the
+jury would have done had it been instructed to consider quantity as an element of
+the offense.  
+We cannot accept this admittedly creative argument for two reasons.  First,
+we do not think that the jury verdict was irrational.  In order to prove a violation of
+-30-
+§ 841(a), the government had to prove that Wheat had the specific intent to
+distribute the cocaine base.  United States v. Franklin , 728 F.2d 994, 998 (1984). 
+Although intent to distribute may be inferred solely from possession of a large
+quantity of a controlled substance, id.; United States v. Gonzalez-Rodriguez, 239
+F.3d 948, 951 (8th Cir. 2001), the government always bears the burden of proof on
+this issue.  Gonzalez-Rodriguez, 239 F.3d at 951.  In Franklin, we reversed a
+conviction for possession with intent to distribute where the defendant did not
+dispute that he knowingly and intentionally possessed 35 grams of 42 percent pure
+cocaine at the time of his arrest.  728 F.2d at 998.  We held that as a matter of law,
+because the cocaine was not packaged in a manner consistent with distribution,
+and the government offered no evidence of distribution paraphernalia, amounts of
+cash, weapons, or other indicia of distribution, the evidence of mere possession of
+35 grams was insufficient to support an inference of possession with intent to
+distribute.  Id. at 1000.  We therefore remanded with instructions to enter a
+judgment for simple possession under § 844(a).  Id. at 1000-01.
+We have scrutinized the trial transcript in the instant case and have found
+the government’s evidence on the issue of intent to distribute to be
+underwhelming.  The only extrinsic evidence the government produced was that
+Wheat was in possession of $250 in cash at the time of his arrest.  See  Trial Tr., at
+29.  On cross-examination of the government’s witnesses, Wheat’s counsel
+emphasized the point that no drug notes or drug paraphernalia were seized.  See
+id., at 38-39, 51.  Nor, as Wheat’s counsel observed out of the hearing of the jury,
+did the government’s witnesses testify that the amount of cocaine seized was a
+quantity typically associated with distribution.  See id., at 81.  The evidence
+presented showed only that Wheat possessed four large chunks of cocaine base,
+not packaged in distribution-level quantities.  Although the jury could have
+inferred that 63.03 grams is a quantity sufficiently large that Wheat intended to
+distribute it, we can hardly aver that it was irrational not to have done so.  Indeed,
+Wheat’s jury is not unique in acquitting under § 841(a) but convicting under §
+-31-
+844(a) where the quantity would have supported a determination either way.  See,
+e.g., Brooks, 7 Fed. Appx. at 249-52 (13.11 grams of crack).
+Moreover, even if we suspected that the jury had reached a compromise
+verdict, the Supreme Court does not direct us to try to go into the mind of the jury
+to glean evidence of irrational jury behavior.  In Neder, the Court framed the
+question for the reviewing court thus: “Is it clear beyond a reasonable doubt that a
+rational jury would have found the defendant guilty absent the error?”  527 U.S. at
+18 (emphasis added).  Indeed, guessing about the jury’s rationale is precisely what
+courts must not do.  We must accept the verdict that the jury handed down, which
+was a conviction on the count of simple possession of cocaine base, and the only
+evidence of cocaine base in this case was the 63.03 grams in the McDonald’s bag. 
+Wheat never contested the accuracy of the quantity measurement at trial, and
+repeatedly conceded its accuracy at sentencing.  As no rational jury could have
+convicted Wheat of possession of cocaine base yet found him responsible for less
+than five grams, any Apprendi error did not affect Wheat’s substantial rights; nor
+did it seriously affect the fairness, integrity, or public reputation of his trial.  See
+Poulack, 236 F.3d at 937-38 (holding that defendant’s substantial rights were
+unaffected where quantity was charged in the indictment, the defendant stipulated
+to quantity at trial, and defendant’s counsel conceded accuracy of court’s
+determination of quantity at sentencing); United States v. Nelson , 9 Fed. Appx.
+583, 584 (8th Cir. 2001); but cf. United States v. Frazier, -- F.3d --, 2001 WL
+1359243, at *14 (8th Cir. Nov. 6, 2001) (holding that although defendants’
+substantial rights were affected, “[b]ecause the evidence overwhelmingly
+establishes a quantity of drug sufficient to authorize the sentences imposed, we
+conclude the jury’s failure to find the amount of heroin did not seriously affect the
+fairness, integrity, or public reputation of the proceedings”); United States v.
+Soltero-Corona, 258 F.3d 858, 860 (8th Cir. 2001).
+-32-
+III. CONCLUSION
+The district court properly denied Wheat’s motion to suppress, and any
+Apprendi error is harmless.  We have considered Wheat’s remaining arguments
+and find them to be without merit.  The judgment of conviction is affirmed.
+A true copy. 
+Attest:
+CLERK, U.S. COURT OF APPEALS, EIGHTH CIRCUIT. 

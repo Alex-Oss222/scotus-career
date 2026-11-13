@@ -1,0 +1,54 @@
+Source: https://www.law.cornell.edu/supct/html/01-1862.ZS.html
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ WOODFORD V. GARCEAU 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ WOODFORD V. GARCEAU (01-1862) 275 F.3d 769, reversed and remanded. Syllabus Opinion [ Thomas ] Concurrence [ O’Connor ] Dissent [ Souter ] HTML version PDF version HTML version PDF version HTML version PDF version HTML version PDF version 
+ 
+ 
+ Syllabus 
+ NOTE: Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued. The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader. See United States v. Detroit Timber & Lumber Co ., 200 U.S. 321 , 337. 
+ SUPREME COURT OF THE UNITED STATES 
+ WOODFORD, WARDEN v. GARCEAU 
+ CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT 
+ No. 01—1862. Argued January 21, 2003–Decided March 25, 2003 
+
+ 
+
+ Amendments made to 28 U.S.C., ch. 153, by the Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) do not apply to cases pending in federal court on April 24, 1996–AEDPA’s effective date. Lindh v. Murphy, 521 U.S. 320 . Respondent was convicted of first-degree murder and sentenced to death in California state court. After his petition for state postconviction relief was denied, he moved for the appointment of federal habeas counsel and a stay of execution in Federal District Court on May 12, 1995, and later filed a federal habeas application on July 2, 1996. Although he filed the habeas application after AEDPA’s effective date, the District Court concluded, inter alia, that it was not subject to AEDPA because his motions for counsel and a stay were filed prior to that date. The Ninth Circuit agreed that the application was not subject to AEDPA, but reversed for reasons not relevant here. 
+ Held: For purposes of applying the Lindh rule, a case does not become “pending” until an actual application for habeas relief is filed in federal court. Respondent’s application is subject to AEDPA’s amendments because it was not filed until after AEDPA’s effective date. Pp. 2—8. 
+ (a) Because of AEDPA’s heavy emphasis on the standards governing the review of a habeas application’s merits, the Court interprets the Lindh rule in view of that emphasis. Thus, whether AEDPA applies to a state prisoner turns on what was before a federal court on AEDPA’s effective date. If, on that date, the state prisoner had before a federal court a habeas application seeking an adjudication on the merits of the prisoner’s claims, then AEDPA does not apply. Otherwise, an application filed after AEDPA’s effective date should be reviewed under AEDPA, even if other filings by that same applicant– e.g., a request for the appointment of counsel or a motion for a stay of execution–were presented to a federal court prior to AEDPA’s effective date. A review of the amended chapter 153 supports this conclusion. For example, 28 U.S.C. § 2254 (e)(1) provides that, “[i]n a proceeding instituted by an application for a writ of habeas corpus by a person in custody pursuant to the judgment of a State court, a determination of a factual issue made by a State court shall be presumed to be correct.” (Emphasis added.) Under the Ninth Circuit’s view, that presumption would rarely apply in a capital case, as §2254(e)(1) would be applicable only to those capital prisoners who did not need counsel and did not seek a stay. AEDPA’s text, however, contains no indication that §2254(e)(1) was intended to have such a limited scope. Nor is it reasonable to believe that Congress meant for a capital prisoner to avoid application of §2254(e)(1)’s stringent requirements simply by filing a request for counsel or a motion for a stay before filing an actual habeas application. Finally, the procedural rules governing §2254 cases reinforce the Court’s view. The Federal Rules of Civil Procedure apply in the habeas context to the extent that they are not inconsistent with the Habeas Corpus Rules. Because nothing in the Habeas Rules contradicts Federal Rule of Civil Procedure 3–“[a] civil action is commenced by filing a complaint”–the logical conclusion is that a habeas suit begins with the filing of a habeas application, the equivalent of a complaint in an ordinary civil case. Pp. 2—6. 
+ (b) As the task here is to apply Lindh to an action under chapter 153, respondent’s request to look at provisions in chapter 154 is inapposite. Moreover, his reliance on McFarland v. Scott, 512 U.S. 849 , which involved the interpretation of §2251, not §2254, and must be understood in light of the Court’s concern to protect the right to counsel contained in 18 U.S.C. § 848 (q)(4)(B), and Hohn v. United States, 524 U.S. 236 , which says nothing about whether a request for counsel or motion for a stay suffices to create a “case” that is “pending” within the Lindh rule’s meaning, is misplaced. Pp. 6—7. 
+ 275 F.3d 769, reversed and remanded. 
+ Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Scalia, and Kennedy, JJ., joined. O’Connor, J., filed an opinion concurring in the judgment. Souter, J., filed a dissenting opinion, in which Ginsburg and Breyer, JJ., joined. 
+ 
+
+
+
+

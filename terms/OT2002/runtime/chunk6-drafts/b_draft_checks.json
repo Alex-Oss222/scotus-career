@@ -1,0 +1,56 @@
+{
+  "status": "Draft structure and scope checks passed; final serial assignment, publication and term-wide validation remain.",
+  "records": [
+    {
+      "case": "Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc.",
+      "controlling_explanation_words": [
+        237
+      ],
+      "components": [
+        "9–0"
+      ],
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "assignment_placeholders": 1
+    },
+    {
+      "case": "Cook County v. United States ex rel. Chandler",
+      "controlling_explanation_words": [
+        209,
+        177
+      ],
+      "components": [
+        "9–0"
+      ],
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "assignment_placeholders": 1
+    },
+    {
+      "case": "Norfolk & Western Railway Co. v. Ayers",
+      "controlling_explanation_words": [
+        242,
+        216
+      ],
+      "components": [
+        "6–3",
+        "9–0"
+      ],
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "assignment_placeholders": 1
+    },
+    {
+      "case": "Woodford v. Garceau",
+      "controlling_explanation_words": [
+        275
+      ],
+      "components": [
+        "5–4"
+      ],
+      "public_blocks": 11,
+      "holdings_identity": true,
+      "assignment_placeholders": 1
+    }
+  ]
+}

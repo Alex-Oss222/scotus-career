@@ -1,0 +1,7 @@
+# Smith neutral supplementary record facts
+
+Published record recitation quoting Doe v. Otte, 259 F.3d 979, 983 (9th Cir. 2001), and Brief for Respondents 1; mechanically copied from the saved source. Root retains source provenance in research/chunk6-control.
+
+John Doe I, for example, pleaded nolo contendere to a charge of sexual abuse of a minor nine years before the Alaska Act was enacted. He successfully completed a treatment program, and gained early release on supervised probation in part because of his compliance with the program’s requirements and his apparent low risk of re-offense. Brief for Respondents 1. He subsequently remarried, established a business, and was reunited with his family. Ibid . He was also granted custody of a minor daughter, based on a court’s determination that he had been successfully rehabilitated. See Doe v. Otte , 259 F.3d 979, 983 (CA9 2001). The court’s determination rested in part on psychiatric evaluations concluding that Doe had “a very low risk of re-offending” and is “not a pedophile.” Ibid (internal quotation marks omitted).
+
+This is the identified custody-court finding and accompanying psychiatric evidence concerning Doe I, not a new finding that all registrants have been rehabilitated or that the Alaska classification necessarily is punitive. It supplements the prior source extract and requires clean neutral validation before modeling relies on it.

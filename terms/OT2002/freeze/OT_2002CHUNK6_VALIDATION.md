@@ -1,0 +1,63 @@
+# OT2002 chunk 6 validation
+
+## Result and completed work
+
+All thirteen scheduled chunk 6 events are completed. No matter is stopped and no adjudicative or research blocker remains. Thirteen original Canonical Decision Records, their generated Render Input and all four coordinated workspace projections are present. The term now has 80 event Records covering 77 of 180 scheduled events, with 103 remaining. The three original-action carryovers retain their prior stages. Public rendering remains a separate task.
+
+| Matter | Disposition and exact vote | Lead author |
+|---|---|---|
+| Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc. | Federal Circuit affirmed, 9–0; the expressly disclosed steel substitute cannot support equivalents infringement under claims 1 and 2 of Patent No. 5,153,050, and the dependent willfulness and monetary awards remain removed. | Scalia |
+| Smith v. Doe | Reverse the Ex Post Facto judgment and remand, 5–4. | O'Connor |
+| United States v. Bach | Affirm the Eighth Circuit judgment, 9–0. | Stone-Zsela |
+| United States v. Wheat | Affirm the reviewed judgment against the initial-stop challenge, 5–4. | Breyer |
+| Cook County v. United States ex rel. Chandler | Seventh Circuit affirmed, 9–0; Cook County is a person subject to the private-relator False Claims Act action, which proceeds under the operative liability and remedial provisions. | Stevens |
+| Norfolk & Western Railway Co. v. Ayers | Judgments affirmed; cancer-fear component, 6–3; rejection of nonrailroad-exposure apportionment, 9–0. | Ginsburg |
+| Odom v. Antrican | Fourth Circuit judgment affirmed, 9–0; immunity rejected and limited appeal concluded. | Thomas |
+| United States v. Buckland | Reject the facial challenge unanimously; vacate the appellate sentence affirmance and remand for remaining plain-error review by five votes, with three for affirmance and Stone-Zsela for immediate sentence vacatur. | Scalia |
+| American Amusement Machine Association v. Kendrick | Preliminary-relief judgment affirmed, 9–0; eight join the demanding-scrutiny rationale and O’Connor uses a narrower ground. | Ginsburg |
+| Cuyahoga Falls v. Buckeye Community Hope Foundation | Constitutional judgment reversed (equal protection 9–0; due process 8–1); abandoned FHA adjudication vacated for dismissal with prejudice, 9–0. | Kennedy |
+| Woodford v. Garceau | Ninth Circuit judgment granting habeas relief vacated, 5–4, and remanded for review under the applicable AEDPA merits standards. | O'Connor |
+| Okpalobi v. Foster | Broad officer injunction remains vacated, 9–0; complete officer dismissal vacated for bounded remand, 6–3. | Souter |
+| Center for Reproductive Law and Policy v. Bush | Speech and equality dismissal reversed on five-Justice merits mandate; Stone separately votes to vacate; notice dismissal affirmed 9–0; derivative international dismissal vacated 6–3. | Kennedy |
+
+## Stages and source completeness
+
+The approved brief was mechanically split immediately before the Run. Independent neutral/model contexts received scoped neutral records, date-eligible law and public prior positions; historical reconciliation received frozen commitments and the comparator without the private position; assembly introduced the approved private position only after final reconciliation. Final handoffs, their supersession order and actual preparation exposure limitations are identified in OT_2002CHUNK6_HANDOFF_INDEX.md. Fresh replacement validators or modeling contexts handled the affected Bach, Chandler and Cuyahoga preparation incidents before affected final commitments were accepted. No single-conversation fallback or claim of uninterrupted blindness is made.
+
+The sources preserve actual instructions and preservation in Ayers, the prospective specification and genuine preliminary assessment in Garceau, Smith's actual reporting and public-access operation, Cuyahoga's independently maintained administrative-referral claim and abandonment remedy, and Okpalobi's competing complaint and officer-power accounts. Published recitations and allegations retain their proper evidentiary status; unavailable originals establish no litigant default. Every scheduled matter was treated as properly before the Court, and all approved private positions were treated as approved. No vote or event depended on verifying a historical grant or filing.
+
+The final CRLP audit restored the unused-or-unsuccessful-family-planning trigger in the advice example, kept encouragement as a separate branch, and preserved the four-part passive-referral exception. The exact correction and actual earlier-law comparison were reviewed in the scoped no-private-position CRLP_FINAL_RECONCILED addendum. All eight Associate judgments, grounds and joins remain unchanged. Odom's relevant existing child-benefit conditions were copied from the saved entering-law source; CRLP's award definitions, exceptions, distinct fund-use rules, monitoring and refund conditions, written-verification protection and permissive omissions are stated in their own terms. Long exact source passages were copied from saved sources mechanically rather than retyped.
+
+During initial Run publication review, the full Henderson authority caption in the new Okpalobi and CRLP assembly text was normalized to Henderson v. Stalder, November 18, 2002. The intended participation-barrier, partial-redress and jurisdiction rules were already the actual Stalder rules. No rule, vote, remedy or prior adjudication changed; the dependent public reading slice was regenerated.
+
+## Coalitions, approved position and assignments
+
+Independent A, B and C assembly reviews tested every judgment component, proposition coalition, partial join and substantive separate writing against the final frozen grounds and approved position. Smith has a unanimous abstract framework but four application-plurality votes and Souter's independent judgment route; no five-Justice application synthesis is claimed. Buckland has nine statute-validity votes, six binding-range proposition joins, five for the entered limited appellate remand, three for sentence affirmance and one for immediate sentence vacatur. CRLP has five votes for its exact speech/equality mandate, Stone's distinct scrutiny-remand position and three affirmance votes; its separate international remand has six votes and the standing and notice rulings are unanimous. These relationships are not flattened into compound majority counts.
+
+The Chief's leading positions remain active where their stated factual/legal conditions persist; a contrary majority alone activates no conditional alternative. No standing fallback was needed. Odom and Kendrick retain his distinct conditional remedial presumptions in noncontrolling concurrences. Routine transition restatements are not published as separate legal work.
+
+Opinion form, governing propositions and full-join eligibility preceded author choice. Each assignment was made serially in effective-date and alphabetical case-name order and freshly recounted from actual current-term opinion topologies, including earlier-written current-Run Records. Existing assignment tallies were not used as count authority. Component-specific assigners are stated for Buckland, Cuyahoga, Okpalobi and CRLP. The Chief-governed pool applies to each lead of which he assigns any part. Each selected author satisfies the applicable pool, and every assignment states all nine counts, the last counted event, eligible members, pool and concrete fit or accommodation. Assignment receipts and the mechanical validation independently reproduce the counts from the final opinion topologies.
+
+## Chronology and current law
+
+Substantive entering law includes only completed Records effective strictly before each event. Unrelated same-day events share the pre-date law even though assignment counts include alphabetically earlier cases that day. An earlier-dated undecided matter supplies no law or blocker. The generated SAME_RUN_BEFORE slices copy actual completed public projections; the actual March 31 Okpalobi rule was compared before June 16 CRLP completion. USAID's alleged operative certification and sanction powers supply the official connection that Okpalobi requires; persuasive influence over absent private claimants is not the remedial theory.
+
+The independent continuity review checks all thirteen new decisions and eight preexisting later-dated Records. No material dependent premise is displaced. In particular, Garceau leaves Benson's post-enactment application under AEDPA; Bach's technical warrant execution and Wheat's limited driving-stop ground do not alter Roe's child-search and conduct-date notice premises. The preexisting June 26 decisions remain the latest completed effective events. All preexisting Records and frozen adjudications remain unchanged.
+
+## Section 15 negative-statement check
+
+Passed after qualitative review of Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action, and their internal source sections, under Engine section 8. Retained negatives state an actual legal reservation, relief sought and withheld, surviving judgment or order status, an adopted operative limit, or a necessary response to the principal contrary ground. Alleged and assumed facts remain distinguished from findings. Private directions satisfied by the disposition are not repeated as public disclaimers. Remand work is stated fully once and otherwise cross-referenced; ordinary implementation is not described as unresolved law.
+
+Resolved formulation defects: Garceau's unnecessary denial of dissent aggregation; Ayers's hypothetical instruction disclaimer; Buckland's ordinary separate-writing transition and unrequested further-aggravated-proceeding disclaimer; Kendrick's bare nonadoption contrast; Cuyahoga's audit-style inferred-authority sentence; and CRLP's redundant appropriation/continued-award disclaimer. Kendrick's tailoring rule requires inadequacy of materially less restrictive means, not mere consideration. These repairs preserve the approved positions, final votes, operative rules and remedies. The three independent review files retain their detailed findings and verified repairs.
+
+## Deterministic checks and administrative limits
+
+- The scoped execution of tools/check_term.py passed with zero warnings, including synchronized Holdings volumes, runtime split freshness, fixed Record interfaces, public projection identity and manifest/Render Input coverage. The sectioned inventory adapter separately verifies all 180 rows.
+- All thirteen four-label headers and eleven-block Public Projections pass. The Render Input was generated by tools/build_render_input.py and matches each source projection exactly; it was not independently authored.
+- Every component has nine distinct participating names with no overlapping disposition sets. Partial and three-way relationships are checked against the opinion topology rather than inferred from totals.
+- All ordinary controlling explanations are within 350 words. Operative statutory conditions and remand instructions are distinct from the explanation body and are not relocated reasoning.
+- The protected baseline of 136 governing, state, tool, approved-input, prior-Record and prior-output files is byte-identical. Frozen-stage hashes and identical runtime/freeze aggregates pass. New text was screened for restricted service strings and machine links. The locked top-level directory was not accessed. Writes are confined to the term and ignored scratch directory.
+- Ledger rebuilding preserves existing rows and metadata, appends the thirteen new Records, and labels new history verification as deferred. Manifest rebuilding preserves the complete inventory and existing carryovers. Continuity and neutral projections are cumulative copies of effective public actions, law and published positions.
+- No version-control command was run. Commit-reference existence and repository commitment were deliberately excluded from the scoped checker at the user's direction and remain for the operator. This is an administrative verification limit, not an adjudicative blocker. The unmodified infrastructure checker and reconstruction tools were loaded through scoped in-memory adapters where required.
+
+Durable evidence: OT_2002CHUNK6_CHECK_TERM.txt, OT_2002CHUNK6_MECHANICAL_VALIDATION.json, OT_2002CHUNK6_ASSIGNMENT_RECEIPTS.json, OT_2002CHUNK6_HANDOFF_HASHES.json, the three INDEPENDENT_REVIEW files, OT_2002CHUNK6_CRLP_FINAL_RECONCILED.md and OT_2002CHUNK6_CONTINUITY_REVIEW.md.

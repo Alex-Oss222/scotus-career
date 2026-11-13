@@ -1,0 +1,359 @@
+[
+  {
+    "case": "Odom v. Antrican",
+    "date": "2003-03-10",
+    "file": "Odom-v-Antrican_merits_2003-03-10.md",
+    "form": "Signed opinion of the Court after full merits submission; one common immunity rationale and limited-review holding. All nine can join every operative proposition.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "Coordinate federal-law source, responsible-officer relief and provision-specific entitlement without enlarging an interlocutory appeal. Stevens has authored the controlling individual-right distinction; Thomas has articulated the officer inquiry; Stone can perform the same authority/merits/remedy separation. Every full joiner is eligible; no author or count is selected.",
+    "components": [
+      {
+        "name": "Immunity and pendent-review judgment",
+        "disposition": "Affirm; return for remaining proceedings",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Cuyahoga Falls v. Buckeye Community Hope Foundation",
+    "date": "2003-03-25",
+    "file": "Cuyahoga-Falls-v-Buckeye-Community-Hope-Foundation_merits_2003-03-25.md",
+    "form": "Signed opinion with distinct equal-protection, actual-delay, administrative-referendum and statutory-abandonment holdings. Eight Associates carry the complete rationale; Stone joins only the first and fourth and separately dissents on due process.",
+    "assigner": "Stone-Zsela and Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The complete opinion must distinguish public referendum authority from arbitrary deprivation, test completed entitlement without procedural erasure, and keep purpose proof apart from statutory abandonment. Stevens supplies the strongest earlier concern about individualized adjudication; Kennedy supplies contextual executive-conduct analysis; Breyer supplies entitlement/procedure separation. Every Associate can carry the compatible common grounds. Component assignment authority is preserved.",
+    "components": [
+      {
+        "name": "Equal protection",
+        "disposition": "Reverse; restore summary judgment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Actual delay and administrative submission",
+        "disposition": "Reverse; restore summary judgment",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ]
+      },
+      {
+        "name": "Abandoned FHA claim",
+        "disposition": "Vacate; dismiss with prejudice",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "chief_assigns_any": true,
+    "assignment_authorities": {
+      "Equal protection and abandonment holdings": "Stone-Zsela",
+      "Actual delay and administrative submission holdings": "Stevens"
+    }
+  },
+  {
+    "case": "American Amusement Machine Association v. Kendrick",
+    "date": "2003-03-25",
+    "file": "American-Amusement-Machine-Association-v-Kendrick_merits_2003-03-25.md",
+    "form": "Signed Court opinion with a severable demanding-scrutiny holding and O\u2019Connor\u2019s substantive judgment concurrence; all nine support the same preliminary remedy.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The opinion requires analysis of expressive media, precise ordinance coverage and imperfect causal evidence, while separating interim likelihood from final science. Ginsburg\u2019s operative expression opinions, Kennedy\u2019s private-expression reasoning and Breyer\u2019s treatment of predictive evidence offer concrete fit; Stone\u2019s own scrutiny formulation is compatible. Any full joiner can carry every proposition.",
+    "components": [
+      {
+        "name": "Challenged violence branch preliminary relief",
+        "disposition": "Affirm direction to enter fitted preliminary injunction",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  },
+  {
+    "case": "Okpalobi v. Foster",
+    "date": "2003-03-31",
+    "file": "Okpalobi-v-Foster_merits_2003-03-31.md",
+    "form": "Signed Court opinion resolving distinct broad-injunction and officer-dismissal components, with six complete joins and three partial joins. Two separate dismissal rationales perform distinct legal work.",
+    "assigner": "Stone-Zsela and Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The complete lead must distinguish coercive and declaratory relief, private liability and administrative deprivation, and the separate statutory functions of each officer. Stevens and Souter offer concrete officer-relief and partial-remedy fit; O\u2019Connor\u2019s demand for precise function helps articulate the remand conditions; Breyer\u2019s practical-remedy analysis must remain legally anchored. All six complete joiners can carry the full opinion.",
+    "components": [
+      {
+        "name": "Broad Governor/Attorney General injunction",
+        "disposition": "Affirm vacatur",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Governor dismissal direction",
+        "disposition": "Vacate and limited remand",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Attorney General dismissal direction",
+        "disposition": "Vacate and limited remand",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "chief_assigns_any": true,
+    "assignment_authorities": {
+      "Broad Governor/Attorney General injunction": "Stone-Zsela",
+      "Governor dismissal direction": "Stevens",
+      "Attorney General dismissal direction": "Stevens"
+    }
+  },
+  {
+    "case": "Center for Reproductive Law and Policy v. Bush",
+    "date": "2003-06-16",
+    "file": "Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md",
+    "form": "Signed opinion of the Court with five complete joins, unanimous threshold and notice parts, six-Justice international-law part, and a distinct Stone qualified judgment concurrence. Direct five-Justice support supplies the merits law without a Marks construction.",
+    "assigner": "Stone-Zsela and Stevens",
+    "eligible_authors": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The lead must preserve the precise funding architecture and exceptions, domestic injury and third-party causation, independent-expression function and exact distinction between five-Justice invalidity and Stone\u2019s conditional scrutiny. Ginsburg\u2019s Velazquez function analysis, Kennedy\u2019s private-expression distinction, and Breyer\u2019s selective-funding limits each offer concrete fit. Any of the five full joiners can carry the complete lead; Stone\u2019s different merits mandate makes him ineligible.",
+    "components": [
+      {
+        "name": "Jurisdiction and own-injury standing",
+        "disposition": "Resolve and recognize pleading sufficiency",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Speech and equality exact merits mandate",
+        "disposition": "Reverse and remand under settled outside-program rule",
+        "supporting": [
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "name": "Separate notice theory",
+        "disposition": "Affirm dismissal",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Dependent international-law claim",
+        "disposition": "Vacate derivative dismissal and remand for independent inquiry",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "chief_assigns_any": true,
+    "assignment_authorities": {
+      "Jurisdiction, standing and notice holdings": "Stone-Zsela",
+      "Speech and equality holdings and exact mandate": "Stevens",
+      "International-law disposition": "Stone-Zsela"
+    },
+    "compatibility_clearance": "Final scoped advice-qualification and actual-law audit complete; all eight Associate commitments unchanged."
+  }
+]

@@ -1,0 +1,676 @@
+               PUBLISHED
+
+UNITED STATES COURT OF APPEALS
+
+                   FOR THE FOURTH CIRCUIT
+
+SAMUEL ANTRICAN, minor; ALANA            
+
+ANTRICAN, minor, by their next
+
+friend Angela Antrican; JESHOD
+
+HUGHES, minor; EMANI TATUM,
+
+minor, by their next friend Thea
+
+Gilbert; ARIELLE MCCREE, minor, by
+
+her next friend Sherry McCree;
+
+AUSTIN BROOKS, minor, by his next
+
+friend Marty Greer, on behalf of
+
+themselves and all others similarly
+
+situated,  Plaintiffs-Appellees, 
+
+                                           No. 01-1693
+
+           v.
+
+CARMEN HOOKER ODOM, Secretary of
+the North Carolina Department of
+Health and Human Services; NINA
+M. YEAGER, Director of the North
+Carolina Division of Medical
+Assistance,
+
+                 Defendants-Appellants.
+
+UNITED STATES OF AMERICA,
+
+               Amicus Curiae. 
+
+     Appeal from the United States District Court
+for the Eastern District of North Carolina, at Raleigh.
+
+           Malcolm J. Howard, District Judge.
+                      (CA-00-173-4-4H)
+
+               Argued: February 26, 2002
+
+               Decided: May 9, 2002
+2  ANTRICAN v. ODOM
+
+   Before NIEMEYER and HAMILTON, Circuit Judges, and
+      Raymond A. JACKSON, United States District Judge
+                 for the Eastern District of Virginia,
+                         sitting by designation.
+
+Affirmed by published opinion. Judge Niemeyer wrote the opinion,
+in which Senior Judge Hamilton and Judge Jackson joined.
+
+                                   COUNSEL
+
+ARGUED: Ronald Moore Marquette, Special Deputy Attorney Gen-
+eral, NORTH CAROLINA DEPARTMENT OF JUSTICE, Raleigh,
+North Carolina, for Appellants. Martha Jane Perkins, NATIONAL
+HEALTH LAW PROGRAM, Chapel Hill, North Carolina, for Appel-
+lees. Alisa Beth Klein, Appellate Staff, Civil Division, UNITED
+STATES DEPARTMENT OF JUSTICE, Washington, D.C., for
+Amicus Curiae. ON BRIEF: Roy Cooper, North Carolina Attorney
+General, Robert J. Blum, Special Deputy Attorney General, Emery E.
+Milliken, Assistant Attorney General, NORTH CAROLINA
+DEPARTMENT OF JUSTICE, Raleigh, North Carolina, for Appel-
+lants. Reid C. Adams, Jr., WOMBLE, CARLYLE, SANDRIDGE &
+RICE, Winston-Salem, North Carolina; Garth Gersten, WOMBLE,
+CARLYLE, SANDRIDGE & RICE, Research Triangle Park, North
+Carolina; Carlene McNulty, NORTH CAROLINA JUSTICE &
+COMMUNITY DEVELOPMENT CENTER, Raleigh, North Caro-
+lina, for Appellees. Robert D. McCallum, Jr., Assistant Attorney Gen-
+eral, John Stuart Bruce, United States Attorney, Mark B. Stern,
+Appellate Staff, Civil Division, UNITED STATES DEPARTMENT
+OF JUSTICE, Washington, D.C., for Amicus Curiae.
+
+                                    OPINION
+
+NIEMEYER, Circuit Judge:
+
+   Several North Carolina Medicaid beneficiaries commenced this
+class action under 42 U.S.C. § 1983 against North Carolina State offi-
+ANTRICAN v. ODOM  3
+
+cials to obtain (1) a declaratory judgment that dental screening and
+treatment services provided to minors in North Carolina under the
+Medicaid program are inadequate and fail to comply with the require-
+ments of the Medicaid Act and (2) an injunction requiring the State
+officials to comply with the Medicaid Act by making dental screening
+and treatment promptly available. The district court, relying on Ex
+Parte Young, 209 U.S. 123 (1908), denied the North Carolina State
+officials' motion to dismiss based on Eleventh Amendment immunity.
+The court also rejected the officials' other jurisdictional challenges.
+On this interlocutory appeal, we affirm the district court's ruling on
+Eleventh Amendment immunity, and we decline to exercise pendent
+appellate jurisdiction over the other grounds on which the State offi-
+cials relied to support their motion to dismiss the complaint.
+
+I
+
+   The plaintiffs, who are minors, allege in their complaint that they
+have been denied the dental care prescribed by Title XIX of the Social
+Security Act, known as the "Medicaid Act." Noting that only 16% of
+North Carolina's dentists participate in the Medicaid program, they
+allege that they are unable to locate local dentists who are willing to
+treat them in exchange for Medicaid reimbursement. They assert that
+Medicaid beneficiaries in North Carolina generally must conduct
+extensive searches and travel long distances to locate and utilize the
+services of a dentist who will accept Medicaid reimbursement.
+
+   Describing their own experiences, Emani Tatum, 3, alleges that she
+has had to travel two hours each way to utilize the services of a den-
+tist. While a dental clinic closer to her provided an initial screening,
+that clinic was unable to provide ongoing care. As a result of the inac-
+cessibility of prompt and adequate care, she has had to have extensive
+dental care, including three fillings and two crowns. JeShod Hughes,
+9, alleges that he has had similar difficulties in obtaining treatment.
+Arielle McCree, 6, alleges that her mother contacted the local Depart-
+ment of Social Services to find a dentist, only to be referred to the
+public health clinic, which was unable to provide dental services. The
+Department of Social Services then could not provide the name of any
+dentist for McCree who would accept Medicaid reimbursement.
+McCree's mother eventually located a dentist an hour away. Austin
+Brooks, 6, alleges that his grandmother contacted numerous dentists
+4  ANTRICAN v. ODOM
+
+in his area, but none would accept Medicaid. Because he could not
+locate a dentist in his area, he could not receive preventive dental
+treatment. When he began experiencing oral pain, his grandmother
+located a dentist three hours away. Because of the lack of preventative
+dental care, Brooks has had to have four of his front teeth pulled and
+several of his remaining teeth capped.1
+
+   Because of their inability to receive adequate dental care, these
+plaintiffs, through their parents, guardians, or next friends, com-
+menced this action on behalf of themselves and on behalf of others
+similarly situated against Carmen Hooker Buell, Director of the North
+Carolina Department of Health and Human Services, and Nina M.
+Yeager, Director of the North Carolina Division of Medicaid Assis-
+tance, in their official capacities.2 Plaintiffs allege that the defendants
+have: (1) denied North Carolina Medicaid beneficiaries equal access
+and quality care, in violation of 42 U.S.C. § 1396a(a)(30)(A) and 42
+
+   1With respect to the two Antrican plaintiffs, the parties agree that they
+are not presently eligible for benefits under the Medicaid program and
+that they will be dismissed from this action.
+
+   2North Carolina has chosen to participate in the federal Medicaid pro-
+gram and, therefore, agrees to follow the requirements of the Medicaid
+Act and accept federal funding for its Medicaid program. N.C. Gen. Stat.
+Ann. § 108A-56. Buell and Yeager are the North Carolina officials
+charged with administering the North Carolina Medicaid program.
+
+   Generally, the Medicaid Act provides conditional federal financial
+assistance to states that choose to participate in the Medicaid program.
+See 42 U.S.C. § 1396 et seq. The purpose of the program is to enable
+states "to furnish . . . medical assistance on behalf of families with
+dependent children . . . whose income and resources are insufficient to
+meet the costs of necessary medical services," and funds are available to
+"States which have submitted, and had approved by the Secretary [of the
+United States Department of Health and Human Services], State plans
+for medical assistance." 42 U.S.C. § 1396. States are not required to par-
+ticipate in the Medicaid program, but if they choose to participate, and
+succeed in having their plans approved by the Secretary, they must
+implement and operate Medicaid programs that comply with detailed
+federally mandated standards. See 42 U.S.C. § 1396a. If a participating
+State fails to comply with federal standards, the Secretary may withhold
+federal funding from the State until it brings its plan back into compli-
+ance with those standards. See 42 U.S.C. § 1396c.
+ANTRICAN v. ODOM  5
+
+C.F.R. § 447.204; (2) failed to ensure statewide availability of dental
+services, in violation of 42 U.S.C. § 1396a(a)(1) and 42 C.F.R.
+§ 431.50; (3) denied North Carolina Medicaid beneficiaries timely
+dental care, in violation of 42 U.S.C. § 1396a(a)(8) and 42 C.F.R.
+§ 435.930; (4) denied Medicaid beneficiaries a free choice of dental
+care providers, in violation of 42 U.S.C. § 1396a(a)(23) and 42 C.F.R.
+§ 431.51; (5) denied Medicaid beneficiaries dental care that is compa-
+rable to the care available to non-Medicaid patients, in violation of 42
+U.S.C. § 1396a(a)(10)(B) and 42 C.F.R. §§ 440.230, 440.240; and (6)
+denied Medicaid beneficiaries proper access to early screening and
+treatment services, in violation of 42 U.S.C. §§ 1396a(a)(10)(A),
+1396a(a)(43), 1396d(a)(4)(B), 1396d(R), and 42 C.F.R. § 441.50 et
+seq.
+
+   For relief, the plaintiffs request (1) a judgment declaring that "the
+Defendants' failure to insure the availability of dental services vio-
+lates Plaintiffs' rights under the Social Security Act . . . and its imple-
+menting rules and regulations" and (2) an injunction requiring the
+defendants to "make needed dental services immediately available to
+Medicaid beneficiaries in their respective localities" and requiring the
+defendants "to comply with the Federal statutes, rules, and regula-
+tions" governing Medicaid programs.
+
+   The North Carolina officials filed a motion to dismiss the plain-
+tiffs' complaint, asserting Eleventh Amendment immunity, a lack of
+standing, and the failure of the complaint to state a claim under 42
+U.S.C. § 1983 upon which relief can be granted. From the district
+court's order denying their motion, the North Carolina officials filed
+this interlocutory appeal, challenging the district court's ruling deny-
+ing them Eleventh Amendment immunity. They also ask this court to
+exercise pendent appellate jurisdiction over the other rulings made by
+the district court.
+
+II
+
+   The district court's order denying State officials Eleventh Amend-
+ment immunity is an immediately appealable order, see Puerto Rico
+Aquaduct & Sewer Auth. v. Metcalf & Eddy, Inc., 506 U.S. 139, 144
+(1993), and our review of this order is de novo, see CSX Transp., Inc.
+v. Bd. of Pub. Works, 138 F.3d 537, 541 (4th Cir. 1998).
+6  ANTRICAN v. ODOM
+
+   The North Carolina officials contend that, because they have been
+sued in their official capacities, they are entitled to sovereign immu-
+nity under the Eleventh Amendment to the Constitution. They argue
+that the exception to such immunity, described in Ex Parte Young,
+209 U.S. 123 (1908), is not applicable.
+
+   The Ex Parte Young exception to Eleventh Amendment immunity
+is designed to preserve the constitutional structure established by the
+Supremacy Clause. Thus, it allows private citizens, in proper cases,
+to petition a federal court to enjoin State officials in their official
+capacities from engaging in future conduct that would violate the
+Constitution or a federal statute. See Ex Parte Young, 209 U.S. at 159
+(enjoining enforcement of a State statute found to violate the U.S.
+Constitution); Green v. Mansour, 474 U.S. 64, 68 (1985) (applying
+Ex Parte Young to an action involving State violation of a federal stat-
+ute). This exception to sovereign immunity is based on the notion,
+often referred to as "a fiction," that a State officer who acts in viola-
+tion of the Constitution is "stripped of his official or representative
+character and is subjected in his person to the consequences of his
+individual conduct." Ex Parte Young, 209 U.S. at 160. A State officer
+acting in violation of federal law thus loses "the `cloak' of State
+immunity," Bragg v. West Virginia Coal Mining Ass'n, 248 F.3d 275,
+292 (4th Cir. 2001), cert. denied, 122 S. Ct. 920 (2002), because in
+such a situation, "[t]he State has no power to impart to [the official]
+any immunity from responsibility to the supreme authority of the
+United States." Ex Parte Young, 290 U.S. at 160.
+
+   But "just because a private citizen's federal suit seeks declaratory
+injunctive relief against State officials does not mean that it must
+automatically be allowed to proceed under an exception to the Elev-
+enth Amendment protection." Bell Atlantic Md., Inc. v. MCI World-
+Com, Inc., 240 F.3d 279, 294 (4th Cir. 2001), cert. granted sub nom.
+Verizon Md. v. Pub. Serv. Comm'n, 121 S. Ct. 2548 (U.S. June 25,
+2001) (No. 00-1531), and United States v. Pub. Serv. Comm'n, 121
+S. Ct. 2548 (U.S. June 25, 2001) (No. 00-1711). "Such `empty for-
+malism' would improperly sacrifice the `real interests served by the
+Eleventh Amendment.'" Id. (quoting Idaho v. Coeur d'Alene Tribe,
+521 U.S. 261, 270 (1997)). As we explained in Bell Atlantic Md., in
+applying the Ex Parte Young exception to Eleventh Amendment
+immunity, we must evaluate the respective State and federal interests,
+ANTRICAN v. ODOM  7
+
+applying Ex Parte Young narrowly "so as not unduly to erode the
+important underlying doctrine of sovereign immunity" while still pro-
+tecting the supremacy of federal law. Bell Atlantic Md., 240 F.3d at
+294.
+
+   Arguing that this case traverses the narrow limits of the Ex Parte
+Young exception in several respects, the North Carolina officials
+assert that the exception does not apply because: (1) this suit requires
+expenditures of money from North Carolina's treasury and therefore
+the injunctive relief requested is not actually prospective; (2) the
+plaintiffs have not alleged an ongoing violation of federal law; (3) the
+law that plaintiffs allege has been violated is State law, not federal
+law; (4) the Medicaid Act was adopted under the Spending Clause
+and implemented through the voluntary participation of the States,
+making its prerequisites unenforceable under the Supremacy Clause
+-- the fundamental reason for the Ex Parte Young exception; (5) the
+plaintiffs' action is actually against the State and not against the indi-
+viduals and, in any event, violates the State's special sovereignty
+interests; (6) application of the Ex Parte Young exception would alter
+the remedial scheme explicitly selected by Congress to enforce the
+Medicaid Act; and (7) the rights that plaintiffs seek to enforce are dis-
+cretionary in nature, not ministerial, and therefore are not subject to
+the Ex Parte Young exception.
+
+   We address, in turn, each of the reasons advanced by the North
+Carolina officials for not applying the Ex Parte Young exception to
+Eleventh Amendment immunity.
+
+A
+
+   The North Carolina officials contend first that this action does not
+fall within the Ex Parte Young exception because the type of relief
+sought is, at its core, not truly prospective. They assert that, while the
+plaintiffs phrase their request in terms of prospective injunctive relief,
+they actually seek an order directing the State to raise the Medicaid
+reimbursement rates paid to participating dentists, thereby adversely
+affecting the State's treasury. In response, plaintiffs point out that,
+although raising rates may be a method for inducing more dentists to
+participate in the Medicaid program, the plaintiffs' complaint does not
+demand a particular methodology. Rather, it simply "requests injunc-
+8  ANTRICAN v. ODOM
+
+tive relief to require the state officials to take steps to comply with a
+number of separate and varied Medicaid provisions."
+
+   We believe that the issue, as framed by the parties' positions, does
+not properly focus on the relevant question. It is true, as both parties
+acknowledge, that, as an exception to Eleventh Amendment immu-
+nity, Ex Parte Young actions must seek only prospective injunctive
+relief. But simply because the implementation of such prospective
+relief would require the expenditure of substantial sums of money
+does not remove a claim from the Ex Parte Young exception. Ex
+Parte Young "permits federal courts to enjoin state officials to con-
+form their conduct to requirements of federal law, notwithstanding a
+direct and substantial impact on the state treasury." Milliken v. Brad-
+ley, 433 U.S. 267, 289 (1977); cf. Edelman v. Jordan, 415 U.S. 651,
+668 (1974) (reversing a retroactive award of monetary relief because
+"it [was] in practical effect indistinguishable in many aspects from an
+award of damages against the State"). Thus, the focus on an injunc-
+tion's impact on the State's treasury is misdirected. Rather, the proper
+focus must be directed at whether the injunctive relief sought is pro-
+spective or retroactive in nature.
+
+   This distinction comes from the Supreme Court's holdings in Edel-
+man and Milliken. In Edelman, the Supreme Court determined that the
+relief sought infringed on sovereign immunity under the Eleventh
+Amendment because the plaintiffs sought a retroactive payment of
+benefits that were found to have been wrongfully withheld from
+proper recipients. 415 U.S. at 668. In the later-decided Milliken case,
+however, the Court upheld an injunction entered in a school desegre-
+gation case that ordered the State to pay one half of the costs attribut-
+able to certain educational programs ordered as part of a
+desegregation decree. The Court found that "[t]he decree . . . fit[ ]
+squarely within the prospective-compliance exception reaffirmed by
+Edelman. That exception . . . permits federal courts to enjoin state
+officials to conform their conduct to requirements of federal law, not-
+withstanding a direct and substantial impact on the state treasury."
+Milliken, 433 U.S. at 289. Thus, our inquiry must focus, not on
+whether the injunctive relief sought would have an impact on the
+State treasury, but on the prospective-retroactive distinction as delin-
+eated by Edelman and Milliken.
+ANTRICAN v. ODOM  9
+
+   We conclude that the relief sought in this case is prospective in
+nature and, therefore, is of the type that falls within the Ex Parte
+Young exception. The plaintiffs requested an injunction mandating
+that in the future, State officials bring the North Carolina Medicaid
+program into compliance with the Medicaid Act. This mandate might
+potentially impact the State treasury, but it is nonetheless prospective.
+
+B
+
+   The North Carolina officials next contend that plaintiffs' suit has
+failed to allege an ongoing or continuing violation of federal law, as
+is necessary to invoke the Ex Parte Young exception. These officials
+maintain that "[e]ach plaintiff, according to the complaint, is currently
+a Medicaid recipient who is receiving dental treatment by a dentist or
+clinic that accepts Medicaid patients at the current Medicaid reim-
+bursement rate" and that, therefore, even though violations may have
+occurred in the past, they are not ongoing.
+
+   While the North Carolina officials correctly note that the Ex Parte
+Young exception requires the allegation of an ongoing violation of
+federal law, see Idaho v. Coeur d'Alene Tribe, 521 U.S. 261, 281
+(1997), their argument misreads the substance of the plaintiffs' com-
+plaint. The plaintiffs do not rest their complaint on any claim that they
+have been entirely unable to find dentists in North Carolina who will
+accept Medicaid reimbursement or that they have not received some
+treatment. Rather, they claim that North Carolina has failed, and con-
+tinues to fail, to operate a Medicaid program under which beneficia-
+ries can "obtain prompt and adequate dental services" on an ongoing
+basis, as would be available to the general population. They allege
+that because a large proportion of dentists do not participate in the
+Medicaid program, beneficiaries, such as themselves, have to travel
+long distances to find Medicaid-participating dentists. If true, these
+claims allege ongoing violations of: 42 U.S.C. § 1396a(a)(30)(A),
+requiring States to "provide such methods and procedures relating to
+the utilization of, and the payment for, care and services available
+under the plan as . . . are sufficient to enlist enough providers so that
+care and services are available under the plan at least to the extent
+that such care and services are available to the general population
+in the geographic area" (emphasis added); and 42 U.S.C.
+§ 1396a(a)(8), requiring States to "provide that all individuals wishing
+10  ANTRICAN v. ODOM
+
+to make application for medical assistance under the plan shall have
+opportunity to do so, and that such assistance shall be furnished with
+reasonable promptness to all eligible individuals" (emphasis added).
+We thus conclude that the plaintiffs' complaint is not defective for
+failing to allege ongoing violations of federal law.
+
+    C
+
+   In the same vein, the North Carolina officials assert that this action
+seeks to enforce State law, not federal law. They contend that this
+action seeks to challenge the State's participation in the Medicaid pro-
+gram and not to vindicate the supremacy of federal law, arguing that
+"[m]erely because a State enacts a program that complies with federal
+guidelines or requirements, the program's requirements do not
+thereby become or constitute federal law for purposes of Ex Parte
+Young." For support, the North Carolina officials rely on our decision
+in Bragg, 248 F.3d 275, where we held that private parties could not
+bring an Ex Parte Young action against State officials seeking to com-
+pel their compliance with surface mining regulations because the
+directly applicable standards were supplied by West Virginia law.
+
+   Again, the North Carolina officials correctly observe that the Ex
+Parte Young exception does not apply to actions against State offi-
+cials seeking to compel their compliance with State law. See Penn-
+hurst State Sch. & Hosp. v. Haldeman, 465 U.S. 89, 106 (1984) ("We
+conclude that Young and Edelman are inapplicable in a suit against
+state officials on the basis of state law"); Bragg, 248 F.3d at 295-96.
+In Bragg, for instance, West Virginia State officials were sued under
+the Surface Mining Control and Reclamation Act of 1977. That Act
+permits states, such as West Virginia, to enact their own laws and thus
+obtain "primacy" status. Under the Surface Mining Act, a State with
+primacy status has exclusive control over the regulation of surface
+mining, so long as the State law fulfills minimum national standards.
+248 F.3d at 293-94. We concluded that in that context "any injunction
+against State officials to enforce this provision would command them
+to comport with the State's own law, not federal law, because only
+the State law [was] operative and directly regulate[d] the issuance of
+[mining] permits." Id. at 296. Therefore, in that context, the Ex Parte
+Young exception did not apply.
+ANTRICAN v. ODOM  11
+
+   But the Medicaid Act is not analogous to the Surface Mining Act.
+It does not grant to the States exclusive jurisdiction over their Medic-
+aid programs. Rather, it requires States to have their plans approved
+by the supervising federal agency and to adhere to strict federal
+guidelines. 42 U.S.C. §§ 1396, 1396a. States that do not maintain
+their plans in compliance with the federal guidelines are denied con-
+tinuing Medicaid funding from the federal government. 42 U.S.C.
+§ 1396c. Thus, these federal standards remain the directly applicable
+standards with which the States must comply in order to receive fed-
+eral Medicaid funding. Because the plaintiffs are seeking to enforce
+these directly applicable federal standards, the principles of Pennhurst
+and Bragg do not apply to remove this action from the Ex Parte
+Young exception.
+
+D
+
+   The North Carolina officials next contend that the Medicaid Act,
+as Spending Clause legislation, is not "supreme" law and therefore
+does not fall within Ex Parte Young's defining purpose, which is to
+"give life to the Supremacy Clause." Bragg, 248 F.3d at 292 (quoting
+Green, 474 U.S. at 68). They argue that "Spending Power enactments
+do not constitute the supreme authority of the United States, because
+the Constitution grants the Federal Government no power of compul-
+sion under the Spending Clause." Indeed, the Medicaid program itself
+is a voluntary one and States could just as well adopt their own pro-
+gram. Thus, they conclude, the State and federal governments are on
+"equal constitutional footing," and neither has the power to compel
+the other. See Westside Mothers v. Haveman, 133 F. Supp.2d 549,
+562 (E.D. Mich. 2001) (appeal pending) (holding that "because con-
+gressional enactments pursuant to the Spending Power that set forth
+the terms of federal-state cooperative agreements depend on the vol-
+untary agreement of participating States and are not within the ambit
+of the Supremacy Clause, they are not the supreme law of the land,
+and suits cannot be brought against State officials under Ex Parte
+Young to enforce those requirements").
+
+   The North Carolina officials' novel position is, however, at odds
+with existing, binding precedent. The Supreme Court has noted that,
+"[a]lthough participation in the Medicaid program is entirely optional,
+once a State elects to participate, it must comply with the require-
+12  ANTRICAN v. ODOM
+
+ments of Title XIX [the Medicaid Act]." Harris v. McRae, 448 U.S.
+297, 301 (1980). Thus, for those States that opt to participate in the
+program, the requirements of the Medicaid Act are mandatory. Con-
+sistent with this conclusion, the Supreme Court has treated the Medic-
+aid Act as "supreme" law and has invalidated conflicting State law
+under the Supremacy Clause. See Dalton v. Little Rock Family Plan-
+ning Servs., 516 U.S. 474, 478 (1996) (remanding for the entry of an
+injunction against the enforcement of State law to the extent that it
+conflicted with the Medicaid Act); see also Randall v. Lukhard, 729
+F.2d 966 (4th Cir. 1984) (en banc) (adopting holding from Randall v.
+Lukhard, 709 F.2d 257, that a Virginia rule was invalid because it
+conflicted with a provision of the Medicaid Act).
+
+   We are constrained to follow these precedents and thus conclude
+that the plaintiffs properly alleged an ongoing violation of supreme
+federal law.
+
+    E
+
+   The North Carolina officials next contend that "[a]ny injunctive
+relief ordered against the official defendants in this case would actu-
+ally be directed at North Carolina, something clearly forbidden by the
+Eleventh Amendment," and that the State is, therefore, the "real party
+in interest."
+
+   This assertion, however, applies to every Ex Parte Young action.
+Injunctive relief of the type sought in this case will almost always, in
+some sense, affect the State itself. See Coeur d'Alene Tribe, 521 U.S.
+at 269 (noting that "[w]hen suit is commenced against state officials,
+even if they are named and served as individuals, the State itself will
+have a continuing interest in the litigation whenever state policies or
+procedures are at stake. This commonsense observation of the State's
+real interest when its officers are named as individuals has not
+escaped notice or comment from this Court, either before or after
+Young"). In fact, in Ex Parte Young itself, the actual defendant was
+the State Attorney General; yet the effect of the case was to nullify
+a State statute because the Court ordered the Attorney General not to
+enforce the statute. See generally 209 U.S. 123.
+
+   Similarly, in this case, even though the actual defendants are the
+State officials who oversee North Carolina's Medicaid program, the
+ANTRICAN v. ODOM  13
+
+relief requested would necessarily require North Carolina itself to
+change its Medicaid program to come into compliance with the Med-
+icaid Act. While such an order might result in an intrusion on North
+Carolina's sovereignty, it would be precisely the type of order that is
+allowed under Ex Parte Young and its progeny. See Rehabilitation
+Ass'n of Va., Inc. v. Kozlowski, 42 F.3d 1444, 1449 (4th Cir. 1994)
+(rejecting Virginia's claim that the State was the real party in interest
+because "[t]he suit [sought] prospective, injunctive relief only, rather
+than any form of retroactive compensatory damages, and [was]
+brought against Kozlowski, not the State").
+
+   As part of their argument that plaintiffs' complaint is actually
+directed at the State, rather than at State officials, the North Carolina
+officials also contend that the plaintiffs' requested relief would under-
+mine North Carolina's "special sovereignty interests." They argue that
+North Carolina has a "special sovereignty interest in being able to
+decide the extent to which its limited Medicaid funds will be used for
+optional Medicaid services . . . or be spent to compensate dentists and
+other health care providers who choose to participate in Medicaid,"
+and that an infringement on this interest makes the Ex Parte Young
+exception to Eleventh Amendment immunity inapplicable in this case.
+
+   In Coeur d'Alene Tribe, the Supreme Court recognized that in
+some cases, special sovereignty interests will prevent an otherwise
+proper Ex Parte Young action from proceeding against State officials.
+The Court determined that Ex Parte Young did not apply in that case
+because the suit "would divest the State of its sovereign control over
+submerged lands, lands with a unique status in the law and infused
+with a public trust the State itself is bound to respect." Coeur d'Alene
+Tribe, 521 U.S. at 283. Thus, the Court determined that "[u]nder these
+particular and special circumstances," the Ex Parte Young exception
+to sovereign immunity was inapplicable. Id. at 287.
+
+   Similarly, we have recognized the applicability of the "special sov-
+ereignty interest" exception in circumstances when quasi-judicial state
+officers were sued in federal court to answer to assertions that they
+made the wrong decision in deciding a matter within their jurisdic-
+tion. Bell Atlantic Md., 240 F.3d at 294. We noted that "the scope of
+interests that Ex Parte Young protects in preventing violations of fed-
+14  ANTRICAN v. ODOM
+
+eral law must be carefully circumscribed so as not unduly to erode the
+important underlying doctrine of sovereign immunity." Id.
+
+   This case, however, does not present a special sovereignty interest
+that would allow North Carolina to use its sovereign immunity shield
+to avoid an otherwise proper Ex Parte Young action. Rather, it
+involves a federally designed healthcare program in which the federal
+government has invited the States to participate if they agree to cer-
+tain federally established conditions. "A state's interest in administer-
+ing a welfare program at least partially funded by the federal
+government is not such a core sovereign interest as to preclude the
+application of Ex Parte Young." J.B. ex rel. Hart v. Valdez, 186 F.3d
+1280, 1287 (10th Cir. 1999); cf. TFWS, Inc. v. Schaefer, 242 F.3d
+198, 205-06 (4th Cir. 2001) (holding that "Maryland's power under
+the Twenty-first Amendment is not as basic or exclusive as a state's
+territorial right to its submerged land," and concluding that the State's
+power under that amendment does not qualify as a special State sov-
+ereignty interest under Coeur d'Alene Tribe). North Carolina elected
+to participate in the federal Medicaid program and, therefore, to be
+bound by the requirements of the Medicaid Act. In doing so, the State
+agreed to the conditions of participation, including the possibility that
+if it failed to conform to the program as established by federal law,
+it faced the risk of being ordered by a federal court to correct the
+problems in its system. If the State did not want to face this federal
+involvement, it was free to decline federal funds and operate a State
+program for medical assistance using its own standards or to decline
+to operate such a program at all.
+
+   Although North Carolina may retain a special sovereignty interest
+in choosing whether to participate in the Medicaid program, once it
+elects to participate, it is not entitled to assert that interest to insulate
+itself from the requirements of the federal program.
+
+    F
+
+   The North Carolina officials next contend that in enacting the Med-
+icaid Act, Congress provided a remedy that should displace any Ex
+Parte Young action that seeks to compel State compliance with the
+Medicaid Act. They note that under the Medicaid Act, withholding
+federal funds is the statutory sanction for noncompliance.
+ANTRICAN v. ODOM                                 15
+
+   It is true that in Seminole Tribe of Florida v. Florida, 517 U.S. 44
+(1996), the Supreme Court held that "where Congress has prescribed
+a detailed remedial scheme for the enforcement against a State of a
+statutorily created right, a court should hesitate before casting aside
+those limitations and permitting an action against a state officer based
+upon Ex Parte Young." Id. at 74. But in designing an act in which a
+State could participate entirely or not at all, such as the Medicaid Act,
+Congress has not prescribed a detailed remedial scheme for dealing
+with noncompliance with the Act once a State elects to participate. On
+the contrary, the Supreme Court has concluded that the Medicaid Act
+does not provide the type of detailed remedial scheme that would sup-
+plant an Ex Parte Young action. See Wilder v. Va. Hosp. Ass'n, 496
+U.S. 498, 521-22 (1990) (holding that neither the provisions of the
+Medicaid Act authorizing the secretary to withhold approval of plans
+or to curtail federal funds to States whose plans are not in compliance
+with the Act, nor the required State administrative system allowing
+for appeals of reimbursement rates could be "considered sufficiently
+comprehensive to demonstrate a congressional intent to withdraw the
+private remedy of § 1983"); see also Md. Psychiatric Soc'y v. Wasser-
+man, 102 F.2d 717, 719 n.* (4th Cir. 1996) (rejecting the argument
+that the Medicaid Act has a detailed remedial scheme evidencing con-
+gressional intent to foreclose Ex Parte Young actions brought to com-
+pel State officials to comply with the requirements of the Act).
+
+Accordingly, we find no merit in this argument.
+
+G
+
+   Finally, the North Carolina officials argue that this action is not a
+proper Ex Parte Young action because it involves discretionary, not
+ministerial, acts by State officials. See Ex Parte Young, 209 U.S. at
+158 ("There is no doubt that the court cannot control the exercise of
+the discretion of an officer. It can only direct affirmative action where
+the officer having some duty to perform not involving discretion, but
+merely ministerial in its nature, refuses or neglects to take such
+action").
+
+   This argument lacks merit because the Medicaid Act does not pro-
+vide participating States with discretion to deny dental screening and
+treatment as specified in the Act. To the contrary, the Medicaid Act
+16  ANTRICAN v. ODOM
+
+clearly mandates that a State provide a certain level and quality of
+dental care. In light of this duty, a federal court can "direct [the] affir-
+mative action [of complying with this duty]," and plaintiffs' allega-
+tions, if true, demonstrate that North Carolina State officers have
+"refuse[d] or neglect[ed] to take such action." Id. at 158; see also
+Lewis v. N.M. Dep't of Health, 261 F.3d 970, 976 (10th Cir. 2001)
+(allowing an Ex Parte Young challenge to New Mexico's Medicaid
+program to proceed despite an assertion that the claim impacted dis-
+cretionary acts by State officials because the action requested only an
+order that State officials "comply with federal law," not how to use
+their discretion in complying).
+
+   In this case the plaintiffs seek only an order requiring North Caro-
+lina officials to comply with the mandates of the Medicaid Act to pro-
+vide a specified type and level of care, not how to exercise any
+discretion conferred by that Act.
+
+    III
+
+   For the foregoing reasons, we affirm the district court's order deny-
+ing the North Carolina officials' motion to dismiss this case on the
+basis of Eleventh Amendment immunity. We conclude, as did the dis-
+trict court, that this action, as defined by the complaint, falls within
+the exception to that immunity provided by Ex Parte Young.
+
+   We decline to consider the other jurisdictional questions raised by
+the defendants at this stage of the proceedings. These issues are not
+"inextricably intertwined" with North Carolina's Eleventh Amend-
+ment immunity claim, nor is consideration of these issues "necessary
+to ensure meaningful review of the . . . immunity question." Taylor
+v. Waters, 81 F.3d 429, 437 (4th Cir. 1996); see also Swint v. Cham-
+bers County Comm'n, 514 U.S. 35, 50-51 (1995).
+
+                      AFFIRMED
+

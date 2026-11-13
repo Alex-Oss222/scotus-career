@@ -1,0 +1,4 @@
+wheat-circuit.pdf: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'media.ca8.uscourts.gov'. (_ssl.c:1081)>; https://media.ca8.uscourts.gov/opndir/01/12/003457P.pdf
+section-841-1994.pdf: Stream has ended unexpectedly; https://www.govinfo.gov/content/pkg/USCODE-1994-title21/pdf/USCODE-1994-title21-chap13-subchapI-partD-sec841.pdf
+buckland-circuit.html: HTTP Error 403: Forbidden; https://openjurist.org/289/f3d/558/united-states-v-buckland
+Follow-up: wheat-circuit.pdf successfully retrieved from https://ecf.ca8.uscourts.gov/opndir/01/12/003457P.pdf; 32 pages; full extracted text saved and read. Failed section-841 response was HTML, not PDF; misleading artifact removed. Buckland report cross-check used the reported primary judicial text through browser retrieval, not a saved full opinion.

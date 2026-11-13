@@ -1,0 +1,33 @@
+# OT2002 chunk 6 B independent assembly review
+
+## Scope and result
+
+Independent review of the four uncommitted drafts identified by `runtime/chunk6-drafts/b_specs.json`, against frozen `OT_2002CHUNK6_B_RECONCILED.md`, approved `runtime/OT_2002CHUNK6_B_STONE.md`, and the relevant neutral source-fact handoffs. The governing review standards were AGENTS.md, Engine §§8, 11 and 15, and the Render Contract. This is an assembly review, not new modeling or reconciliation. It creates no vote, opinion assignment, adjudication or public render.
+
+No unresolved substantive or completeness defect was found within this scope after the two formulation changes below. Final author selection, serial opinion counts, publication, generated Render Input identity and the term-wide check remain the publishing operator's work.
+
+## Findings resolved during review
+
+1. Garceau's internal and public Holdings authority statement unnecessarily denied aggregation of dissenting rationales. No such competing authority theory required a public answer. The operator removed that audit-style sentence from both copies.
+2. Ayers's internal and public first controlling explanation disclaimed endorsement of every possible reasonable-fear instruction. That hypothetical disclaimer added nothing to the actual preservation limits. The operator removed that clause while retaining the substantive rule that diagnosis does not prove fear and the supported account of unpresented instructions and individual sufficiency review.
+
+Both changes were verified in the updated files. The eleven Public Projection headings now have the required second-level form and exact order. The earlier assembly-draft status paragraphs have been replaced; none remains. Lead-author and assignment placeholders are intentional pending serial assignment, not substantive gaps concealed by this review.
+
+## Matter-specific conclusions
+
+| Matter | Judgment and opinion support | Completeness and remedy review |
+|---|---|---|
+| Johnson & Johnston | Nine affirm and directly join the same objective express-disclosure rule. | The specific disclosure, claim omission, court-decided legal effect, and absence of subjective-intent, reliance or separate-patentability requirements match the frozen ground and Stone. Accepted factual equivalence is preserved. The Graver Tank distinction accurately separates original broader issued claims from surviving narrower claims; Festo remains amendment-based. Noninfringement and removal of dependent awards are traced to the legal bar. Separate-patent rights and settled proceedings retain their stated status. |
+| Chandler | Nine affirm and directly join original municipal personhood and continued coverage after the remedial amendment. | The civil/criminal distinction, county corporate status, sovereign-State distinction, Newport analogy and mixed functions of trebling are preserved. The draft does not import a different Vermont Agency rationale. Coverage leads to ordinary proof, defenses and lawful relief; allegations remain allegations. No cooperation-reduction or numerical relator-share rule is invoked incompletely. |
+| Ayers | Fear: six direct joins and three opposing votes. Allocation: all nine direct joins. O'Connor, Kennedy and Breyer join only the allocation part. | Manifested disease, actual genuine and serious present fear, causation, burden of proof and limits on future-disease compensation are explicit. Actual preservation facts support affirmance without a new individual severity finding. The indivisible-injury rule retains causal contribution, real divisibility, employee fault, the safety-statute exception, settlement credits and independently governed contribution or indemnity. Kennedy's direct-relationship category objection and Breyer's additional three concurrent conditions, exception for unusually severe impairment, and absence of universal clinical-proof prerequisites are separately preserved. Existing adjusted judgments survive; opposing remedies remain damages vacatur and remand, not defeat of underlying asbestosis liability. |
+| Garceau | Five direct joins support the application-specific rule; four oppose. Souter, Ginsburg and Breyer share the first-preliminary-assessment ground; Stone's broader genuine-commencement ground remains separate. | O'Connor's express join barriers are honored: actual preparatory jurisdiction and preliminary assessment are acknowledged, and no universal commencement rule is adopted. The prospective specification remains distinct from the July 1996 merits application. Stone's conditional alternative is not activated merely by the opposing majority. Vacatur removes the existing appellate relief judgment and requires AEDPA review; the remand is not an adjudication denying the writ. The additional merits request is expressly withheld outside the granted question. Prior counsel and protective authority retain their independent basis. |
+
+## Source and projection checks
+
+The review read B_NEUTRAL_ADDENDUM, CHANDLER_SOURCE_FACTS, CHANDLER_VALIDATED_NEUTRAL, AYERS_SOURCE_FACTS, AYERS_PRESERVATION_FACTS, GARCEAU_SOURCE_FACTS, GARCEAU_SPECIFICATION, GARCEAU_PRELIMINARY_FACTS and B_SUPPLEMENT_VALIDATED_NEUTRAL. Their distinctions between allegations, published procedural recitations, prospective filings, actual preliminary adjudication and absent individual sufficiency questions are preserved. No additional source premise was needed to test these drafts against the frozen conclusions.
+
+The five designated public blocks and their substantive internal counterparts were reviewed under Engine §8. Retained negative statements perform operative-rule, actual contrary-argument, supported nonreach, requested-relief or surviving-judgment work. Garceau's express preparatory-authority limits are also conditions of its complete five-Justice join. The review found no remaining prohibited hypothetical disclaimer in those blocks.
+
+An independent script verified, for each updated draft: exactly eleven Public Projection headings in Contract order; exact identity of internal Controlling law and public Holdings; nine distinct participants and no overlap between supporting and opposing component sets in the specification; and absence of the two removed phrases and stale draft-status paragraph. Manual comparison confirmed those component sets against the Record's named coalitions and frozen handoffs. Ordinary controlling-explanation word counts are Johnson & Johnston 237; Chandler 209 and 177; Ayers 236 and 216; Garceau 275. Every explanation is below the 350-word ceiling.
+
+No draft Record was edited by this reviewer. This review did not perform repository-history operations or final assignment validation.
