@@ -142,6 +142,8 @@ Answer each question Stone reaches as a whole: whether the right, power, or caus
 
 Breadth is calibrated, not defaulted. Neither narrowness nor breadth is a virtue in itself. The reach is the one Stone's commitments and the case's needs call for, anywhere from confined to this record to a rule that reshapes the area. It rests on what Stone has actually held and written in this area, the method he uses, the breadth a Justice with his record would realistically write here, and what is needed to resolve this dispute and the recurring problem it represents. Do not narrow to avoid controversy or to anticipate colleagues' votes; do not broaden past what Stone's reasoning supports.
 
+Prefer one administrable test to layered definitions. Add a distinction only if it changes the result in this case or a lower court needs it to apply the rule.
+
 Repeat for each issue Stone lawfully reaches:
 
 ### Issue [number]: [short description]
@@ -150,14 +152,16 @@ Repeat for each issue Stone lawfully reaches:
 * **Question Stone Resolves:** [the question as presented; narrow it only if the Court must]
 * **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it; say which]
 * **Reach Calibration:** [one of: confined to this record / narrow / intermediate / broad / sweeping (reshapes the area, may overrule). State its basis in Stone's prior positions or method and in what the case needs. Then give one sentence on why not one step broader and one on why not one step narrower.]
-* **Stone's Proposed Holding:** [the complete answer: the controlling rule at the level of generality Stone's reasoning supports, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
+* **Stone's Proposed Holding:** [the complete answer, leading with Stone's whole position: the controlling rule at the level of generality Stone's reasoning supports, its elements, who bears each burden and at what standard, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
 * **Reach Within the Question:** [the persons, conduct, claims, or statutes the rule covers and any it excludes]
-* **Next-Case Guidance:** [how the rule decides the nearest unsettled fact patterns its reasoning reaches; and for any question left open on a Boundary ground, which existing rule keeps governing it meanwhile]
+* **Next-Case Guidance:** [how the rule applies to the nearest fact patterns its reasoning reaches, stated as part of the rule's scope and not as a decision of a case not before the Court; and for each question left open on a Boundary ground, an interim instruction in the form "Until this Court decides [X], courts apply [Y]," where Y is existing law or the rule this holding states]
 * **Essential Reasoning and Record Application:** [compact but complete]
 * **Boundary or Reserved Question:** [only a question that lies outside the question presented, was not raised or preserved, or needs facts the record lacks; name which ground applies. Otherwise "None."]
-* **Approved Conditional Position or Fallback:** [only if one actually exists, for example an alternative judgment vote if five votes do not support Stone's own disposition]
+* **Approved Conditional Position or Fallback:** [only if one actually exists, for example an alternative judgment vote if five votes do not support Stone's own disposition. A fallback is narrower and labeled as such; the lead position above is never pre-narrowed to match it]
 
 If Stone proposes changing current law, identify what current law is, what he would change, the replacement proposition, and what remains unchanged. If Stone treats a rule as existing law, confirm that entering law actually adopted it rather than reserved it; otherwise state it as a new holding.
+
+When three or more bounded rules in entering law govern the same question, say so and state whether Stone would restate them as one test, naming each rule he would fold in or overrule.
 
 ## D. CERTIORARI POSITION
 
