@@ -90,33 +90,31 @@ Boeing Co. v. United States, 537 U.S. 437 The reported proceedings support the r
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Affirm the Ninth Circuit’s judgment in both consolidated dockets. Sustain the allocation regulation in No. 01-1209; the condition for changing Boeing Sales Corporation’s favorable judgment in No. 01-1382 does not occur.
-
-**Stone’s Remedy and Remand Position:** Leave the favorable Boeing Sales Corporation judgment intact because the stipulated condition for its reversal does not occur. Deny restoration of the district-court refund award on the asserted product-line theory. Any remaining computational matters must apply the valid broad-category allocation for the relevant tax years.
+* **Stone's Controlled Judgment or Disposition:** Affirm in both consolidated dockets: sustain the regulation in No. 01-1209 and leave Boeing Sales Corporation’s favorable judgment intact in No. 01-1382 because the condition for changing it does not occur.
+* **Stone's Remedy and Remand Position:** Deny restoration of Boeing’s refund on the asserted product-line allocation theory. Any unresolved computation must use the valid regulation and provisions applicable to 1979–1987; no new tax liability or refund amount is selected.
+* **Remedial Reach:** The consolidated tax judgments and their actual conditional relationship. No unlawful government policy is found, so no general injunction or policy-cure presumption applies.
+* **Practical Relief:** The lower court and revenue authorities must implement the affirmed allocation rule in any remaining tax-year computation and preserve the companion judgment required by the stipulation. Boeing must substantiate any remaining refund entitlement and amount through the ordinary refund proceeding; the government must disclose the operative calculation for adjudication. A computational dispute receives resolution under the mandate, not restoration of the rejected allocation method.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Research allocation
+##### Issue 1: Delegated allocation of research supporting a product category
 
-**Threshold and Merits Reach:** Reach statutory authority and validity because the refund judgment depends on them.
+* **Threshold and Merits Reach:** Statutory authority and validity control the refund theory; the cross-petition requests only a conditional consequence.
+* **Question Stone Resolves:** May Treasury allocate research across the transportation-equipment category rather than exclusively to individual airplane projects?
+* **Stone's Legal Position:** Apply Haggar as clarified by Mead, including actual delegation and statutory boundaries.
+* **Reach Calibration:** Intermediate: resolve the challenged allocation method. Broader approval of unrelated categories abandons statutory limits; narrower project-only allocation imposes a restriction Congress did not enact.
+* **Stone's Proposed Holding:** Within the delegated research-allocation function, Treasury may reasonably allocate research expenses to the broader technological category they can support when the export provisions do not require exclusive product-line allocation. The court independently identifies statutory authority and limits before respecting the reasonable formal regulation; regulatory validity is a legal question, not a preponderance contest. Boeing’s project accounting does not establish a contrary statutory command, and the broad-category rule validly governs this refund theory.
+* **Reach Within the Question:** The operative research-expense regulation and export calculations for the years at issue, not every agency view or expense classification.
+* **Next-Case Guidance:** Identify the actual delegation and the expense’s reasonable connection to the chosen category. Until a distinct tax issue is adjudicated, its applicable statute and tax-year rules govern rather than a generalized preference for broad allocation.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Haggar respects a reasonable formal regulation within actual statutory delegation; Mead distinguishes such lawmaking from expertise alone, and MCI prevents ambiguity from creating missing authority. Research on a failed project can yield knowledge useful across transportation equipment even without its own receipts. That functional account supports the authorized choice; it does not create the delegation. The specialized export formula does not mandate Boeing’s contrary placement of costs. Statutory structure is decisive.
+* **Precedent Treatment:** Reaffirm Haggar and Mead’s delegation-first method, preserve MCI’s statutory boundary, and distinguish Christensen’s nonbinding advice.
+* **Boundary or Reserved Question:** Any remaining arithmetic or independent tax issue needs the lower-court record and is outside the allocation question.
 
-**Question Stone Resolves:** Whether the enacted scheme permits Treasury to allocate indirect research expenses over the transportation-equipment category.
-
-**Stone’s Legal Position:** Reaffirm Haggar as clarified by Mead; apply the actual delegation and statutory-boundary inquiry to the regulation.
-
-**Stone’s Proposed Holding:** The export-income provisions do not require Boeing’s exclusive product-line method. Within the delegated allocation function, Treasury may reasonably treat research as supporting the broader technological category and allocate costs accordingly.
-
-**Reach Within the Question:** The holding covers the challenged research-allocation regulation and relevant export-tax calculations. It does not validate a category unrelated to the expense or override a statutory command for a different calculation.
-
-**Essential Reasoning and Record Application:** An unsuccessful airplane project can generate usable engineering knowledge without yielding its own receipts. The statute’s export benefit depends on a net-income measure, not the taxpayer’s preferred placement of research costs. The specialized provisions do not demonstrate the asserted prohibition on broad indirect allocation. Under Haggar and Mead, that lawful regulatory choice is enough to reject the refund theory.
-
-**Boundary or Reserved Question:** Exact refund arithmetic and any independent preserved tax issues require the lower-court record and are outside the allocation question.
-
-**Precedent, method, and scope:** Reaffirm Haggar and Mead: a court first determines whether Congress authorized the rulemaking choice and whether the regulation remains within the statute. This regulation exercises delegated allocation authority, unlike a nonbinding letter entitled only to persuasive consideration. Statutory structure and actual delegation carry decisive weight. Research can support the broader product class even when one project fails; that functional account makes the chosen allocation reasonable within the delegation rather than creating the delegation. Stone sustains this regulation without announcing that every broad expense category is permissible. The proper tax-year calculation must still follow the enacted provisions and valid rule.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -222,33 +220,31 @@ United States v. White Mountain Apache Tribe, 537 U.S. 465 The reported proceedi
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Affirm the Federal Circuit and permit the monetary claim to proceed.
-
-**Stone’s Remedy and Remand Position:** Remand through the Federal Circuit for identification of federally controlled trust assets, the preservation duty applicable to them, breach, causation, and proven monetary loss. Award no fixed restoration sum at this stage.
+* **Stone's Controlled Judgment or Disposition:** Affirm the Federal Circuit and permit the Tribe’s monetary claim to proceed in the Court of Federal Claims.
+* **Stone's Remedy and Remand Position:** Recognize a compensable preservation duty for identified property held in the express trust and used or controlled by the government. Remand for asset-specific duty application, breach, causation and money loss; award no restoration sum at this threshold stage.
+* **Remedial Reach:** The Tribe’s loss attributable to the federally controlled trust assets. The judgment supplies neither a general tribal-property damages action nor jurisdiction for an unrequested policy injunction.
+* **Practical Relief:** The claims court must identify the assets and periods of federal control, determine the applicable preservation obligation and compare actual condition with lawful performance. The Tribe must prove breach, causation and compensable loss by a preponderance of the evidence; the government may contest condition, attribution and valuation. If proved, enter an enforceable money judgment for the supported loss under the court’s statutory authority, rather than an unenforceable declaration of trusteeship or an automatic modernization plan.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Preservation of occupied trust property
+##### Issue 1: Express trust and retained control carry preservation responsibility
 
-**Threshold and Merits Reach:** Reach the substantive-source and monetary-jurisdiction questions; defer actual breach adjudication because it has not occurred.
+* **Threshold and Merits Reach:** The Indian Tucker Act supplies the channel and waiver; the 1960 enactment must independently supply a duty fairly supporting compensation.
+* **Question Stone Resolves:** Does the trust coupled with retained federal use support a monetary preservation claim?
+* **Stone's Legal Position:** Apply Mitchell’s source-specific framework to this unresolved express-trust relationship.
+* **Reach Calibration:** Intermediate: identify an incident of actual trust control. Broader fiduciary tort liability lacks an enacted source; narrower bare-title treatment ignores the use and control Congress retained.
+* **Stone's Proposed Holding:** An express statutory trust over identified tribal property, coupled with retained federal use and control, imposes a duty to preserve the controlled property and fairly supports money damages for loss caused by breach. The Tribe must identify that statutory relationship and its assets; fair inference of compensation is a legal threshold, not proof that every restoration claim is meritorious. The express trust and retained occupancy meet that threshold here.
+* **Reach Within the Question:** Controlled trust assets and attributable preservation loss, not all tribal property, unlimited modernization or a guarantee of a preferred historic condition.
+* **Next-Case Guidance:** Locate the enacted trust and assigned control before using trust principles to define a duty. Until asset-specific breach and loss are found, jurisdiction does not establish monetary liability.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Mitchell I rejects a monetary claim from bare title alone; Mitchell II examines legally assigned management responsibilities. The 1960 Act expressly identifies both beneficiary and federal use, so treating the reservation as permission for destructive neglect would sever authority from the trust it qualifies. Common-law preservation explains that bounded responsibility. Text and legally assigned control are decisive; occupancy is trustee control, not an automatic physical-taking rule.
+* **Precedent Treatment:** Reconcile Mitchell I and II through the enacted relationship and control, without deriving substantive liability from the Indian Tucker Act alone.
+* **Boundary or Reserved Question:** Control of particular assets, condition, breach, causation and valuation require findings absent from the jurisdictional ruling.
 
-**Question Stone Resolves:** Whether Congress’s express trust and retained federal use make preservation a compensable fiduciary obligation.
-
-**Stone’s Legal Position:** Apply the source-specific trust framework and propose its concrete application to this statutory relationship.
-
-**Stone’s Proposed Holding:** When Congress expressly holds identified property in trust for a tribe and retains federal use and control, the government must exercise that use consistently with a trustee’s duty to preserve the controlled property. A claim for loss caused by breach fairly supports monetary relief under the Indian Tucker Act.
-
-**Reach Within the Question:** The duty concerns the trust assets under federal use or control and losses attributable to that responsibility. It does not promise unlimited modernization or impose responsibility for all tribal property.
-
-**Essential Reasoning and Record Application:** The express trust identifies the beneficiary, and retained occupancy supplies practical authority over preservation. Reading the use reservation as permission for destructive neglect would sever the authority from the legal relationship Congress created. Common-law preservation principles specify the obligation within that enacted relationship; they do not substitute for an absent source.
-
-**Boundary or Reserved Question:** Asset-specific control, breach, causation, and valuation require findings the jurisdictional record lacks.
-
-**Precedent, method, and scope:** Apply and reconcile Mitchell I and Mitchell II by identifying the specific enacted relationship before drawing on trust principles. The Indian Tucker Act supplies the jurisdictional and immunity channel, while the 1960 Act's express trust and retained federal occupancy supply the substantive duty. Neither statute alone establishes every claimed loss. Text and legally assigned control are decisive; common-law preservation principles explain an incident of that control rather than inventing a freestanding federal fiduciary tort. This is a rule for identified trust property the government actually uses or controls. It is not a physical-occupation taking rule: occupancy matters as trustee control, not as an automatic constitutional duty to pay for taking private property. Breach and compensable loss still require adjudication.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -310,7 +306,7 @@ United States v. White Mountain Apache Tribe, 537 U.S. 465 The reported proceedi
 
 ##### Issue 1: Access to removal adjudication
 
-**Controlling Law:** No controlling decision authorizes categorical closure of these hearings. Richmond Newspapers, Globe Newspaper, and Press-Enterprise supply the established public-access framework and the distinction between a qualified right and justified closure.
+**Controlling Law:** No controlling decision authorizes categorical closure of these hearings. Richmond Newspapers, Globe Newspaper, Press-Enterprise and El Vocero supply the established public-access framework and the distinction between a qualified right and justified closure. El Vocero examines the type of proceeding rather than one jurisdiction’s practice and requires particularized justification after reasonable alternatives are considered.
 
 **Current Reusable Doctrine:** Examine the proceeding’s tradition of openness and the positive role of access; if a qualified right attaches, require a sufficiently demonstrated interest, fitting restrictions, and consideration of alternatives. Distinguish access to adjudication from access to all investigative files.
 
@@ -350,35 +346,31 @@ North Jersey Media Group, Inc. v. Ashcroft, 308 F.3d 198 The reported proceeding
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Reverse the categorical denial of a qualified access right and remand for tailored preliminary relief.
-
-**Stone’s Remedy and Remand Position:** Require the government to justify closure of proceedings or protected portions with findings that may rely on sealed submissions where necessary. Enjoin designation alone as a sufficient reason for closure; allow expedited security applications and protect genuinely sensitive material pending their resolution.
+* **Stone's Controlled Judgment or Disposition:** Reverse the categorical denial of qualified access and remand for tailored preliminary relief against designation-only closure.
+* **Stone's Remedy and Remand Position:** Remand for determination of the remaining preliminary-relief predicates under the recognized access right. If those predicates are satisfied, enjoin reliance on special-interest designation alone and require supported closure decisions for hearings or identified portions, while allowing sealed submissions and justified temporary protection pending expedited review. If interim relief is denied on an independent equitable ground, the court must explain that ground and proceed promptly with the merits; it cannot treat categorical designation as constitutionally sufficient. No removal judgment is altered.
+* **Remedial Reach:** The challenged categorical closure mechanism within the court’s remedial jurisdiction. Stone would apply a proposed presumption that relief reaches a proved common closure practice and those it governs unless officials demonstrate a narrower complete cure; the preliminary decree must reflect the showing made and the adjudicated group, not all immigration records or investigations.
+* **Practical Relief:** The remand court must promptly resolve the remaining interim-relief prerequisites. If an injunction is warranted, it must put a procedure in place before further designation-only exclusion: officials seeking closure must submit the security basis, identify the portions and duration, address alternatives and obtain a reasoned ruling. A short protective closure may preserve genuinely sensitive material while that application is resolved promptly on a court-set schedule. The order must require access to unprotected portions and periodic justification of continuing restrictions; missing or inadequate justification requires reopening the relevant portion, subject to review rather than unilateral disclosure of unresolved classified material.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Qualified access and closure
+##### Issue 1: Qualified access with supported security closure
 
-**Threshold and Merits Reach:** Reach the public’s access claim and the directive’s categorical mechanism, while preserving the preliminary posture.
+* **Threshold and Merits Reach:** The public’s hearing-access claim is distinct from a detainee’s rights; decide the recurring rule while respecting the preliminary record and equitable requirements.
+* **Question Stone Resolves:** May national-security designation categorically close removal adjudication?
+* **Stone's Legal Position:** Propose an extension of the established experience-and-function access doctrine to removal hearings.
+* **Reach Calibration:** Intermediate: the adjudicative category needs a workable access rule. Broader investigative-file access exceeds the claim; narrower designation deference eliminates meaningful closure review.
+* **Stone's Proposed Holding:** The public and press have qualified access to removal adjudication; the government must justify closure through an overriding interest likely to be prejudiced, a narrowly fitted restriction, consideration of reasonable alternatives and adequate findings. Applicants for preliminary relief retain its applicable likelihood and equitable burdens; once protected access is established, officials must substantiate closure. A designation alone cannot prove necessity for every hearing and every portion.
+* **Reach Within the Question:** Adjudicative hearings and their closure, including supported partial, temporary or identity-protective measures; not unrestricted investigative information.
+* **Next-Case Guidance:** Until particular classified applications are adjudicated, use protected submissions and justified temporary restrictions while applying the stated closure standard. Security expertise receives weight but cannot replace an explanation connecting the threatened harm to the information withheld.
+* **Transition:** Under Harper, the new federal rule applies to these parties and all cases still open on direct review. Reynoldsville preserves independent immunity, procedural and remedial limits, not selective prospectivity based solely on reliance. Final judgments are not reopened, and collateral relief requires its own governing authorization.
+* **Essential Reasoning and Record Application:** Richmond Newspapers, Press-Enterprise and El Vocero assess historical openness and the contribution of public observation. Under El Vocero, the relevant history concerns removal adjudication as a type of proceeding, not solely the recent special-interest subclass created by the closure directive; a new designation cannot itself erase the history whose relevance is being assessed. Removal hearings have an established regulatory practice of openness, shorter and less uniform than criminal trials, and an adjudicative function in which scrutiny checks factual error and arbitrary action. Their convergence supports Stone’s extension without inventing a Founding-era tradition. Aggregated intelligence can create genuine danger, but sealed findings, partial access and delay permit assessment without indiscriminate disclosure. The public adjudicative function informed by actual practice is decisive.
+* **Precedent Treatment:** Extend Richmond Newspapers, Press-Enterprise and El Vocero to this category, retaining their proceeding-type inquiry, qualified character and supported-closure requirements rather than creating an absolute administrative-access right.
+* **Boundary or Reserved Question:** Specific classified material and applications need facts and protected findings absent from this general record.
 
-**Question Stone Resolves:** Whether removal adjudication permits categorical secrecy based solely on special-interest designation.
-
-**Stone’s Legal Position:** Extend the established qualified-access framework to removal adjudication; the extension is Stone’s holding in this case, not a previously settled application.
-
-**Stone’s Proposed Holding:** The public and press have a qualified right of access to removal adjudication. A national-security label alone cannot extinguish it. Closure must rest on a supported need, a restriction fitted to that need, and consideration of workable less restrictive means; findings may protect the sensitive information they evaluate.
-
-**Reach Within the Question:** The rule covers adjudicative hearings and their closure, not unrestricted access to investigative files. It permits partial, temporary, and identity-protective restrictions when justified.
-
-**Essential Reasoning and Record Application:** Removal hearings apply law to persons through an adjudicative process whose accuracy and legitimacy benefit from scrutiny. The executive’s capacity to combine information does not explain why every issue, identity, and proceeding must remain closed without assessment. Protected judicial review can respect expertise while testing necessity. A categorical designation supplies neither that review nor a meaningful stopping point.
-
-**Boundary or Reserved Question:** Specific classified information and particular closure applications require facts and protected findings not available in this record.
-
-**Precedent, method, and scope:** Extend Richmond Newspapers and Press-Enterprise's qualified-access principle to removal adjudication through the experience-and-logic inquiry. Experience asks whether the relevant kind of proceeding has generally been open; logic asks whether public access contributes materially to its proper operation. The regulatory history of open deportation hearings is substantial but shorter and less uniform than the criminal-trial tradition. Stone does not invent a Founding-era tradition or treat every executive proceeding as a courtroom. Combining historical practice and functional reasoning, he gives decisive weight to their convergence in an established public adjudicative process: these hearings determine an individual's legal status through evidence and adjudication, and scrutiny can expose error and arbitrary treatment. The novelty of this application is express.
-
-**Closure burden and remedy:** Once that qualified right applies, government must identify an overriding interest likely to be prejudiced by access, show that closure is narrowly fitted, consider reasonable alternatives, and support the order with adequate findings. Security and intelligence aggregation can satisfy the interest requirement; designation alone cannot establish necessity for every hearing and every part of it. Sealed explanations and temporary protection preserve genuine secrets while allowing judicial assessment. This extension decides a recurring category squarely before the Court, while the preliminary record supports tailored protection rather than an order opening every classified submission.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -484,31 +476,32 @@ United States v. Navajo Nation, 537 U.S. 488 The reported proceedings support th
 
 #### A. LEGAL POSTURE
 
-Stone's principal position and the expressly identified alternative below are his proposed vote and reasoning. Governing law remains distinct from the rule he proposes; neither position assumes another Justice's vote. The baseline is law effective through June 28, 2002, subject to an actually decided intervening matter.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Principal disposition:** Affirm the Federal Circuit's rejection of categorical dismissal and remand for adjudication of breach, causation and compensable loss under the specific lease-approval duty. Do not award a twenty-percent royalty, treat the preliminary adjustment as final, or guarantee the Nation the best conceivable bargain.
-
-**Alternative disposition:** If the identified leasing provisions are construed as assigning no beneficiary-protective duty in this approval process, reverse this damages theory, preserving only independently pleaded and legally available grounds. That narrower source-based position is stated below.
+* **Stone's Controlled Judgment or Disposition:** Affirm rejection of categorical dismissal and remand the Nation’s identified lease-approval damages theory.
+* **Stone's Remedy and Remand Position:** Adjudicate breach of the bounded approval duty, causal economic consequences and compensable loss. Do not award a twenty-percent royalty or treat the subordinate adjustment as final; retain only actually preserved independent sources if the stated theory fails.
+* **Remedial Reach:** The Nation’s loss from misuse of the legally assigned approval and appeal function. This is a monetary claim concerning an identified lease, not a decree supervising all federal tribal relations or future negotiations.
+* **Practical Relief:** The claims court must determine the Secretary’s actual intervention and compare the lawful approval process with the outcome proved to have followed. The Nation must prove breach, causation and the amount of loss by a preponderance of the evidence, including why the lawful process would have produced a better economic result. The government may contest the negotiation trajectory and valuation. A supported money judgment cures the proven loss; no unexplained adoption of the preliminary twenty-percent figure substitutes for that inquiry.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Approval authority over the tribal bargain carries a bounded duty of loyalty
+##### Issue 1: Loyal administration of the specific approval authority
 
-Stone would hold that the Indian Mineral Leasing Act's mandatory federal approval of a tribal lease, together with the operative approval regulations, assigns a specific responsibility to exercise that authority for its legally protected tribal purpose. The Secretary cannot use control of the approval and administrative appeal to secretly favor the private lessee and impair the Nation's informed bargaining. That obligation is narrower than managing every aspect of the mine or securing the highest royalty, but it is an obligation rather than an empty signature requirement.
+* **Threshold and Merits Reach:** Identify the IMLA duty before considering whether the Indian Tucker Act permits compensation; alleged unfairness alone cannot supply the source.
+* **Question Stone Resolves:** Do mandatory lease approval and the operative regulations impose a compensable obligation against secretly favoring the lessee in that process?
+* **Stone's Legal Position:** Propose the bounded source-specific construction left open by Mitchell: loyalty within the assigned approval function, not general commercial management.
+* **Reach Calibration:** Intermediate: legal control carries responsibility within its actual purpose. Broader highest-royalty or comprehensive-management duties lack this source; narrower empty-signature treatment disconnects consequential authority from its tribal-protective function.
+* **Stone's Proposed Holding:** Where the IMLA and operative approval regulations assign legally necessary control of a tribal lease’s approval and administrative review, the government must exercise that function loyally rather than secretly use it to favor the private counterparty; loss caused by breach fairly supports compensation under the Indian Tucker Act. The Nation must identify the applicable source and function, a legal threshold satisfied here, and then prove breach and causal loss. The rule guarantees neither a particular royalty nor the best bargain.
+* **Reach Within the Question:** The legally assigned approval and review function for this lease, not all bargaining advice or general federal influence.
+* **Next-Case Guidance:** Identify the source, assigned function and alleged misuse before drawing a fiduciary inference. Until breach and economic loss are established, the recognized duty supports adjudication, not an award.
+* **Transition:** Under Harper, the new federal rule applies to these parties and all cases still open on direct review. Reynoldsville preserves independent immunity, procedural and remedial limits, not selective prospectivity based solely on reliance. Final judgments are not reopened, and collateral relief requires its own governing authorization. The construction governs this open monetary claim; independent statutory jurisdiction and proof limits remain necessary, and final lease judgments are not reopened.
+* **Essential Reasoning and Record Application:** Mitchell I requires more than general trust language; Mitchell II recognizes duties grounded in the actual statutory allocation. Mandatory approval and control of the pending royalty appeal provide a specific function here. Trust loyalty explains why that control cannot secretly undermine informed tribal bargaining; it does not transform the Secretary into the mine’s commercial manager. The private meeting, delay and subsequent bargain are evidence requiring adjudication, not proof of a final right to twenty percent. Statutory structure is decisive; fiduciary principles specify its incident. White Mountain Apache involves a different source and need not be assumed decided.
+* **Precedent Treatment:** Apply the source-first reconciliation of Mitchell I and II; reject a categorical demand for comprehensive management before any narrower assigned fiduciary function can carry compensation. Preserve the Indian Tucker Act’s distinction between waiver and substantive duty.
+* **Boundary or Reserved Question:** Actual breach, the lawful process’s probable outcome and loss require findings; distinct treaty or statutory grounds require preservation and identification.
+* **Conditional Position or Fallback:** If the operative provisions assign only stated approval conditions and no beneficiary-protective loyalty duty, reverse this damages theory while preserving legally available independent pleaded grounds. Stone rejects that lead reading because it empties legally consequential approval control of its assigned protective function, but acknowledges that misconduct cannot replace a missing money-mandating source.
 
-Apply Mitchell's source requirement to the actual statutory relationship. The Act makes federal approval necessary to the lease's effectiveness and gives the Secretary legally consequential control over the disputed royalty process. Ordinary fiduciary principles explain loyalty and fair dealing within that assigned responsibility. They do not create a general cause of action from the federal-tribal relationship alone. Tribal self-determination is reinforced by requiring an official with veto and appellate power not to undermine the Tribe's choice through undisclosed intervention.
-
-##### Issue 2: A defined fiduciary breach can support compensation without an express damages sentence
-
-The Indian Tucker Act supplies the jurisdictional channel and waiver. Once the identified source creates this fiduciary duty concerning the Nation's economic property, compensation for loss caused by disloyal administration is fairly inferable under the trust framework. Congress need not separately enumerate a damages action for every incident of the obligation it assigned. The claim therefore survives the threshold motion.
-
-The secret meeting, direction to delay and subsequent negotiations are relevant to breach and causation, not a conclusive calculation. The Nation must establish what the lawful process would have produced sufficiently to prove compensable loss; a favorable subordinate decision does not automatically establish entitlement to its proposed percentage. The government can contest attribution, the course of negotiation and the amount. A remand on those matters preserves the difference between recognizing responsibility and imposing an unproved commercial guarantee.
-
-**Precedent, combination and scope:** Reconcile Mitchell I and Mitchell II by identifying a specific legal function before applying trust principles. Unlike a claim based solely on generalized federal influence, this theory concerns use of mandatory approval authority over an identified tribal asset. Statutory structure carries decisive weight; fiduciary function explains the duty's content. White Mountain Apache concerns different statutory property and occupancy and need not be assumed decided to support this reasoning. No comprehensive federal management requirement should erase a narrower duty attached to authority Congress actually conferred.
-
-**Reasoned narrower alternative:** The former position reads the Act as leaving bargaining wholly to the Nation and imposing only the approval conditions expressly specified, without a compensable loyalty obligation. On that construction, practical intervention and disapproval of the conduct cannot invent a money-mandating source, so this theory must be dismissed. Stone preserves that alternative if the source is so construed, but rejects it as his principal reading because it disconnects consequential federal control from the protective purpose that justifies imposing that control on tribal transactions.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -572,7 +565,7 @@ The secret meeting, direction to delay and subsequent negotiations are relevant 
 
 ##### Issue 1: Governmental presentation of religious text
 
-**Controlling Law:** Agostini replaces separate Lemon prongs with a unified assessment of the government’s actual function, legal attribution, and the relationship established. Robinson v. City of Edmond prohibits government’s identification of its civil authority with a faith; its older independent purpose/effects formulation must be read as modified by Agostini. Santa Fe confirms that actual institutional operation controls rather than labels alone.
+**Controlling Law:** Agostini retains Lemon as modified into one inquiry with three routes: a controlling specific prohibition or distinct doctrine; an established permissible relationship; or, if neither resolves a legally sufficient claim, attribution and function under ordinary procedure. Purpose, effects and entanglement are evidence, not independent prongs. Robinson v. City of Edmond prohibits government’s identification of its civil authority with a faith; its older independent purpose/effects formulation must be read as modified by Agostini. Santa Fe confirms that actual institutional operation controls rather than labels alone.
 
 **Current Reusable Doctrine:** Ask whether the state is conducting historical explanation, accommodating private expression, or adopting, promoting, or organizing religious observance or profession. Purpose, setting, text, and design are evidence of that function, not independently dispositive prongs.
 
@@ -612,33 +605,31 @@ Adland v. Russ, 307 F.3d 471 The reported proceedings support the record and pro
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Affirm the injunction against the proposed Section 8 placement, using the unified functional rule rather than an independent religious-purpose test.
-
-**Stone’s Remedy and Remand Position:** Prevent implementation of the challenged official presentation. Do not order destruction or prohibit accurate historical preservation and explanation in a materially different proposal. Leave the unchallenged school provision outside the judgment.
+* **Stone's Controlled Judgment or Disposition:** Affirm the permanent injunction against the proposed Section 8 placement under the unified functional Establishment Clause rule.
+* **Stone's Remedy and Remand Position:** Prevent implementation of the challenged official religious presentation. Preserve the artifact and the possibility of a materially different historical explanation; leave the unchallenged school provision outside the judgment.
+* **Remedial Reach:** The proved unconstitutional Section 8 proposal and the persons subjected to that official presentation. Stone would presume relief against the proposal as a whole unless officials show a narrower complete cure; this proposed remedial rule does not prohibit every public display of the artifact.
+* **Practical Relief:** Officials must not relocate and present the monument under the enjoined proposal when the mandate takes effect. Compliance is measured by the authorized location, explanatory text and actual governmental framing, not merely renaming the exhibit historical. A genuinely different proposal may be assessed through the ordinary process for compliance or modification; implementing the same religious identification with cosmetic changes remains enforceable under the injunction. No destruction or removal of an invented completed installation is ordered.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Official adoption rather than historical explanation
+##### Issue 1: Governmental function distinguishes history from religious adoption
 
-**Threshold and Merits Reach:** Reach the proposed governmental use on the record supporting permanent relief.
+* **Threshold and Merits Reach:** A concrete authorized proposal supports review; apply the correct unified method rather than the lower court’s separate-purpose shortcut.
+* **Question Stone Resolves:** Does the proposed capitol presentation explain history or identify civic authority with religious profession?
+* **Stone's Legal Position:** Apply Agostini’s modification of the establishment framework and Robinson’s civic-identification limit.
+* **Reach Calibration:** Narrow in factual application, categorical once official religious adoption is established. Broader exclusion of sacred texts would suppress legitimate history; narrower focus on a single purpose statement would ignore the actual presentation.
+* **Stone's Proposed Holding:** Government may preserve and explain religious artifacts but may not present religious commands as its own authoritative foundation for civil membership or legitimacy. The challengers must establish the proposal’s actual governmental attribution and religious-identification function from its text, setting and design. Once that prohibited function is established, Agostini’s specific-prohibition route resolves the claim; historical preservation cannot justify adopting religious commands as governmental truth. If instead the actual relationship is independent private access or contextual historical explanation, that relationship must be evaluated on its own terms, without treating religious content as sufficient liability. Here the biblical-foundations framing, prominent prescriptive text and actual proposed setting establish official religious identification, not merely historical explanation.
+* **Reach Within the Question:** The government’s own adopted message, not private access, accurate discussion of religious history or all future use of this monument.
+* **Next-Case Guidance:** Examine present selection and framing rather than counting secular objects. Until a different historical proposal is presented, apply Agostini and Robinson to its actual function without presuming this artifact always unlawful.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Agostini’s modified Lemon inquiry first asks whether an existing prohibition or permissible relationship resolves the conduct. Robinson’s unanimous alternative prohibits deliberate, pervasive use of a faith symbol as a permanent civic identifier; it does not categorically adjudicate monuments or historical exhibits. Its narrower principle is relevant here because Kentucky’s own biblical-foundations framing presents the prescriptive text as a basis of civil legitimacy, bringing the proposal within the prohibition on official religious adoption. The decision thus rests on the proved governmental function, not merely ownership, one legislator’s purpose or a secular-object count. Santa Fe similarly looks to institutional operation rather than labels. The resolution supplies official framing, and the monument’s long storage undermines a claimed continuous-display tradition. Good News Club protects private equal access, unlike this state-selected official message. Attribution and function are decisive; religious content alone is not.
+* **Precedent Treatment:** Apply Agostini and Robinson as one functional inquiry and Santa Fe’s attention to operation; distinguish Good News Club’s private speaker.
+* **Boundary or Reserved Question:** The unchallenged school provision and a materially different, fully specified historical exhibit are outside this question.
 
-**Question Stone Resolves:** Whether the state’s proposed capitol presentation makes religious commands part of its own account of civic authority.
-
-**Stone’s Legal Position:** Apply Agostini and Robinson, with Agostini’s modification of the older separate-prong method.
-
-**Stone’s Proposed Holding:** Government may preserve and explain religious artifacts, but may not present a prescriptive religious text as an officially endorsed foundation to which citizens’ civil order is tied. This proposal’s framing, placement, and stated message establish the latter function.
-
-**Reach Within the Question:** The rule governs the state’s own adoption and presentation. It does not exclude religious history, private religious speech, or a properly explanatory display merely because a sacred text appears.
-
-**Essential Reasoning and Record Application:** The resolution supplies the state’s account of what this display is meant to do. Its biblical-foundations message and prominent prescriptive monument are not neutralized by calling the collection historical. The inaccurate continuous-display premise further weakens an asserted preservation rationale. Purpose corroborates the observable governmental function; it is not a substitute for examining that function.
-
-**Boundary or Reserved Question:** A different, fully specified historical exhibit and the unchallenged school-display provision are outside the question and record.
-
-**Precedent, method, and scope:** Reaffirm the functional Establishment Clause rule adopted in Agostini and Robinson, using purpose as evidence of what the government actually presents rather than as a mechanically separate veto. Distinguish private access under Good News Club: Kentucky selects, places and explains this monument as its own official message. The adopted civic message is decisive; religious content alone is not. By presenting the commands as an authoritative foundation for citizens' civil order, the State crosses the boundary between historical explanation and religious adoption. This is a categorical constitutional limit once that function is established, not balancing the number of accompanying secular objects against a religious text. The injunction addresses this proposal because a materially explanatory presentation would require a different record.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -742,33 +733,31 @@ Clay v. United States, 537 U.S. 522 The reported proceedings support the record 
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Reverse the limitations dismissal.
-
-**Stone’s Remedy and Remand Position:** Remand for treatment of Clay’s motion as timely under the finality trigger and for adjudication of remaining procedural defenses and merits. Grant no substantive collateral relief at this stage.
+* **Stone's Controlled Judgment or Disposition:** Reverse the limitations dismissal and remand Clay’s §2255 motion as timely under the ordinary finality trigger.
+* **Stone's Remedy and Remand Position:** Require consideration of remaining properly raised procedural defenses and collateral merits. Do not grant a writ, new trial, release or permission for a successive motion.
+* **Remedial Reach:** Clay’s initial motion and its finality calculation. The interpretation governs comparable pending disputes but does not automatically reopen final collateral dismissals.
+* **Practical Relief:** The district court must remove mandate issuance as the clock’s starting event, calculate from expiration of the ordinary certiorari opportunity and proceed to unresolved grounds. It may not again dismiss this motion under the rejected timing rule. If another bar is invoked, it must decide that bar independently and permit the response required by ordinary procedure; substantive relief follows only if the collateral claim establishes it.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: The end of available direct review
+##### Issue 1: Available direct review must end before this clock begins
 
-**Threshold and Merits Reach:** Reach the ordinary statutory trigger; do not reach tolling or merits.
+* **Threshold and Merits Reach:** Decide the statutory trigger without relying on the government’s concession or reaching unnecessary tolling.
+* **Question Stone Resolves:** Does the mandate or certiorari-period expiration establish finality when no certiorari petition is filed?
+* **Stone's Legal Position:** Resolve the open statutory trigger through the established direct-review meaning of finality.
+* **Reach Calibration:** Intermediate: a clear rule for the ordinary appellate sequence. Broader reopened-review rules lack a vehicle; narrower mandate timing calls a judgment final while direct review remains available.
+* **Stone's Proposed Holding:** For a federal conviction affirmed on direct appeal without a certiorari petition, §2255 finality occurs when the time to seek certiorari expires. The dates and ordinary review period, not an evidentiary likelihood or equitable preference, determine the statutory calculation. Clay filed within one year of that event and therefore defeats this limitations ground.
+* **Reach Within the Question:** The ordinary affirmance/no-petition sequence, leaving alternate statutory triggers and successive-motion requirements intact.
+* **Next-Case Guidance:** Use the lawful certiorari expiration date rather than the return of appellate jurisdiction. Until unusual reopening or extension questions are presented, apply the statute’s actual triggers and applicable review-time rules without invented tolling.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Griffith and Caspari treat the end of direct review and its available time as finality in related settings. The mandate performs a different procedural function and cannot extinguish remaining Supreme Court review. Different wording in a neighboring statute does not establish an instruction to conflate them. Statutory context is decisive; administrative clarity confirms the rule without creating it.
+* **Precedent Treatment:** Apply the ordinary finality reflected in Griffith and Caspari; distinguish Lindh’s separate temporal question. No equitable-tolling holding is necessary.
+* **Boundary or Reserved Question:** Extensions, reopened appeals, alternate accrual and the collateral merits are outside the granted ordinary-trigger question.
 
-**Question Stone Resolves:** Whether a conviction can be final while the ordinary opportunity to seek certiorari remains open.
-
-**Stone’s Legal Position:** Propose a statutory holding on the unresolved trigger, applying the existing limitations structure.
-
-**Stone’s Proposed Holding:** When direct appellate review affirms a federal conviction and no certiorari petition is filed, finality for the initial §2255 limitation occurs when the time to seek certiorari expires. Clay’s motion is therefore timely on the stated dates.
-
-**Reach Within the Question:** The rule governs this ordinary direct-review sequence. It does not alter the statute’s alternative triggers or the independent restrictions on successive motions.
-
-**Essential Reasoning and Record Application:** The mandate determines the appellate court’s procedural control; it does not end the Supreme Court review opportunity. “Final” carries that direct-review context. Different elaboration in a neighboring provision does not establish a command to choose a procedural event that leaves direct review available. The government’s concession is consistent with, but not a substitute for, this reading.
-
-**Boundary or Reserved Question:** Unusual extensions, reopened review, and the substantive grounds of Clay’s motion are outside the question or lack the necessary record.
-
-**Precedent, method, and scope:** Reaffirm the ordinary direct-review meaning of finality reflected in Griffith and Caspari, and reconcile §2255 with the availability of certiorari review under the Court's rules. Statutory context is decisive. The appellate mandate returns authority to the lower court, but it does not eliminate the remaining opportunity to seek Supreme Court direct review. A clear expiration-date rule provides an administrable starting point for prisoners and courts without discretionary balancing. The holding governs federal convictions affirmed on appeal when no certiorari petition is filed. It does not extend the clock for an untimely petition, decide a separate statutory accrual provision, or create equitable tolling without its own predicates.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -822,9 +811,9 @@ Clay v. United States, 537 U.S. 522 The reported proceedings support the record 
 
 #### B. LAW ENTERING THE CASE
 
-* **Current-Through Baseline:** Governing decisions through June 28, 2002.
+* **Current-Through Baseline:** Governing decisions through June 28, 2002, together with the relevant December 3, 2002 preemption holding.
 
-* **Earlier Same-Term Decisions:** None identified as controlling this review.
+* **Earlier Same-Term Decisions:** Sprietsma v. Mercury Marine (December 3, 2002) distinguishes a failure to impose a federal equipment requirement from an operative federal command or deliberate safety arrangement whose implementation would actually conflict with state law.
 
 * **Unresolved Same-Term Dependencies:** None identified.
 
@@ -832,7 +821,7 @@ Clay v. United States, 537 U.S. 522 The reported proceedings support the record 
 
 ##### Issue 1: Federal forfeiture and the asserted homestead exemption
 
-* **Controlling Law:** Cipollone v. Liggett Group and Geier v. American Honda Motor Co. require identification of the operative federal command and actual conflict. Neither federal regulatory involvement nor an asserted desire for uniformity alone extinguishes state law. No controlling decision creates a federal homestead exemption from this forfeiture statute.
+* **Controlling Law:** Cipollone v. Liggett Group and Geier v. American Honda Motor Co. require identification of the operative federal command and actual conflict. Neither federal regulatory involvement nor an asserted desire for uniformity alone extinguishes state law. Sprietsma rejects inferring an affirmative federal protection from the agency’s evidence-based decision not to require equipment; an actual conflicting federal command remains material. No controlling decision creates a federal homestead exemption from this forfeiture statute.
 
 * **Current Reusable Doctrine:** The current preemption standards distinguish an enacted displacement rule or demonstrated conflict from general field occupation. A state-created property interest and a state exemption from enforcement perform different functions.
 
@@ -872,7 +861,7 @@ Clay v. United States, 537 U.S. 522 The reported proceedings support the record 
 
 * **Threshold Paths:** Resolve the identified threshold objections before any merits ruling; if none succeeds, reach only the preserved questions.
 
-* **Merits Paths, Judgment, and Remedy:** A state-exemption holding could terminate forfeiture of the protected interest if the federal statute leaves that exemption operative. A conflict holding permits the federal action but leaves constitutional limits intact. If the existing record and findings establish proportionality, the decree may be sustained; if they establish gross disproportionality, relief must reach the excessive exaction. Where material factual predicates remain unresolved, a limited remand for findings and a fresh constitutional conclusion is available without an automatic new jury trial or property-return order.
+* **Merits Paths, Judgment, and Remedy:** A state-exemption holding could terminate forfeiture of the protected interest if the federal statute leaves that exemption operative. A conflict holding permits the federal action but leaves constitutional limits intact. Unlike the absence of a requirement in Sprietsma, §881(a)(7) affirmatively authorizes the federal remedy upon its own conditions; the asserted homestead bar would defeat that remedy rather than supplement an unregulated safety question. If the existing record and findings establish proportionality, the decree may be sustained; if they establish gross disproportionality, relief must reach the excessive exaction. Where material factual predicates remain unresolved, a limited remand for findings and a fresh constitutional conclusion is available without an automatic new jury trial or property-return order.
 
 * **Plausible Holding Scope:** Federal displacement of the asserted Oklahoma exemption in a § 881(a)(7) action, and a record-based excessiveness determination for this residence. No general federal occupation of property law, universal innocent-owner rule, or fixed residential-forfeiture ceiling is necessary.
 
@@ -888,49 +877,45 @@ Clay v. United States, 537 U.S. 522 The reported proceedings support the record 
 
 #### A. LEGAL POSTURE
 
-* **Current-Through Baseline:** Governing decisions through June 28, 2002.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the judgment on the two granted questions: reject the Oklahoma homestead exemption as a bar to this federal statutory forfeiture and preserve the remand for a proper Excessive Fines determination. Do not affirm the ultimate forfeiture amount.
-
-* **Stone’s Remedy and Remand Position:** Return the case for identification of the property interest and value actually taken, the offenses and conduct supporting forfeiture, Lees’s relevant culpability, the gravity and harm of that conduct, and the penalties pertinent to it. Use existing evidence and findings where adequate; receive further evidence only where needed and procedurally permissible. If the requested exaction is grossly disproportionate, deny or limit it through a remedy authorized by the governing law. Do not select a new dollar amount, presume a fractional exemption, reopen unrelated trial rulings, or direct a second trial merely because a remand occurs.
+* **Stone's Controlled Judgment or Disposition:** Affirm rejection of the state homestead bar and preserve the remand for a proper Excessive Fines determination; do not affirm the ultimate exaction.
+* **Stone's Remedy and Remand Position:** Require supported findings on the actual property interest and value, forfeiture-related conduct, Lees’s legally relevant culpability, harm and pertinent penalties. Use adequate existing evidence, receive additional evidence only when needed and procedurally permissible, then deny or limit a grossly disproportionate forfeiture through an authorized remedy.
+* **Remedial Reach:** This property interest and the two granted questions. No statewide property-policy violation is established; the original forfeiture verdict and unrelated trial rulings are not automatically reopened.
+* **Practical Relief:** The remand court must preserve its ability to give effective relief while excessiveness remains unresolved, addressing any proposed disposition of the property under existing procedural authority rather than assuming a sale already occurred. It must make reviewable findings and a fresh constitutional conclusion before enforcing the final exaction. If excessive, it must identify the authorized limitation or denial and its practical effect on title or proceeds; if not, explain why the supported wrongdoing justifies the amount. No fixed percentage is invented.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: State homestead protection
+##### Issue 1: The federal command displaces the conflicting exemption
 
-* **Threshold and Merits Reach:** The preserved issue is necessary to the requested judgment and can be resolved on the reported record.
+* **Threshold and Merits Reach:** Statutory coverage precedes constitutional amount review; apply the offense-date regime without substituting CAFRA.
+* **Question Stone Resolves:** Can Oklahoma’s homestead exemption defeat otherwise authorized §881(a)(7) forfeiture?
+* **Stone's Legal Position:** Apply actual-conflict preemption rather than field occupation.
+* **Reach Calibration:** Intermediate: resolve the conflict with this federal remedy. Broader displacement of property law exceeds §903; narrower state immunity defeats Congress’s applicable command.
+* **Stone's Proposed Holding:** A state homestead exemption cannot withdraw property that satisfies §881(a)(7)’s federal forfeiture conditions from that federal remedy, subject to its own defenses and constitutional limits. The government’s authority still depends on those federal predicates under the applicable pre-CAFRA scheme; preemption is a legal question and does not alter the verdict or burden allocation already governing them.
+* **Reach Within the Question:** The asserted Oklahoma immunity from this federal process, not distinct federal title, treaty or constitutional protection.
+* **Next-Case Guidance:** Identify the operative federal command and actual conflict rather than invoke uniformity. Until a distinct federal protection is properly presented, the offense-date federal coverage and defenses control.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Cipollone and Geier require enacted displacement or actual conflict. Section 903 rejects field occupation but preserves positive conflict; adding an absolute state exemption to “all real property” and the enacted owner defense creates that conflict. Sprietsma forbids manufacturing a federal protection from regulatory inaction; this case instead presents an enacted forfeiture command and a state immunity that would prevent its operation. The distinction supports conflict only where the federal forfeiture predicates are established, not displacement of all state property law. Ownership defines the interest at stake but does not itself immunize enforcement.
+* **Precedent Treatment:** Apply Cipollone and Geier’s conflict inquiry and distinguish Sprietsma’s nonrequirement from an affirmative statutory remedy. Preserve §903’s refusal to occupy the entire field.
+* **Boundary or Reserved Question:** No tribal-trust title or treaty immunity is established in this grant.
 
-* **Question Stone Resolves:** Does the asserted state exemption prevent a federal § 881(a)(7) forfeiture of otherwise covered real property?
+##### Issue 2: A punitive forfeiture requires a reviewable proportionality comparison
 
-* **Stone’s Legal Position:** No. The conflict is with the federal command’s application to the actual property, not with the existence of Oklahoma homestead law for other purposes.
+* **Threshold and Merits Reach:** Austin covers this statutory forfeiture. The judge’s conclusory statement cannot support independent constitutional review.
+* **Question Stone Resolves:** Do the existing findings justify forfeiting the residential interest?
+* **Stone's Legal Position:** Apply Austin and Bajakajian, requiring findings on material rather than mechanically universal considerations.
+* **Reach Calibration:** Confined to the deficient findings, with an intermediate proportionality rule. Broader residential immunity lacks a basis; narrower acceptance of an unexplained conclusion defeats review.
+* **Stone's Proposed Holding:** A partly punitive residential forfeiture must withstand gross-disproportionality review on supported findings concerning the exaction and the wrongdoing material to it. Lees must establish constitutional excessiveness, while statutory forfeiture proof retains its separate offense-date allocation; legal proportionality receives independent review and supported facts clear-error review. The appraisal, general verdict and unexplained oral ruling do not identify a sufficient comparison here.
+* **Reach Within the Question:** This punitive exaction, preserving the distinction among statutory nexus, owner defenses and constitutional amount.
+* **Next-Case Guidance:** Compare actual value with the supported offense, owner relationship, culpability, harm and pertinent penalties where material; instrumentality or a maximum-fine figure alone is not conclusive. Until missing findings are made, no appellate inference supplies them.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Austin rejects an in-rem escape from the Excessive Fines Clause. Bajakajian supplies gross disproportionality and separate legal/factual review, not an exhaustive checklist. The grandson’s activity cannot automatically determine Lees’s culpability; the reported $136,000 appraisal is not itself the final valuation or constitutional answer. These missing connections require findings, not a judicially invented ratio.
+* **Precedent Treatment:** Reaffirm Austin’s coverage and apply Bajakajian’s comparison and review standards. Preserve Bennis’s qualified automobile-interest holding without making it a general rule permitting innocent-owner forfeiture.
+* **Boundary or Reserved Question:** Valuation, relevant wrongdoing and owner relationship require findings. Unrelated instruction and impeachment rulings are outside review.
 
-* **Stone’s Proposed Holding:** A state homestead exemption cannot exclude real property from § 881(a)(7) when that property satisfies the federal forfeiture conditions and no federal exemption or other controlling federal protection applies.
-
-* **Reach Within the Question:** Resolve the first question for the United States while preserving federal statutory and constitutional owner protections.
-
-* **Essential Reasoning and Record Application:** Congress selected all real property used in the specified wrongdoing and stated an owner defense. Importing an additional state immunity would deny the federal remedy for property within that command. Section 903’s rejection of field occupation does not protect an actual conflict. This conclusion neither decides disputed culpability nor makes home ownership an aggravating circumstance.
-
-* **Boundary or Reserved Question:** No tribal-trust title, treaty immunity, or other distinct federal restriction is established or decided.
-
-##### Issue 2: Excessiveness and the deficient findings
-
-* **Threshold and Merits Reach:** The preserved issue is necessary to the requested judgment and can be resolved on the reported record.
-
-* **Question Stone Resolves:** Can this forfeiture be upheld on the district court’s unexplained conclusion?
-
-* **Stone’s Legal Position:** No. The legal conclusion needs factual predicates adequate for independent review; a recital of the standard supplies none.
-
-* **Stone’s Proposed Holding:** For a partly punitive § 881(a)(7) residential forfeiture, the court must evaluate gross disproportionality using supported findings on the matters material to the comparison. Here the absent valuation, offense, culpability, and penalty analysis prevents affirmance of the exaction.
-
-* **Reach Within the Question:** Resolve the second question through a limited findings remand, without holding the whole residence necessarily immune or necessarily forfeitable.
-
-* **Essential Reasoning and Record Application:** A $136,000 reported appraisal, a general verdict against the owner, and evidence of drug activity do not themselves identify the gravity against which the forfeiture is measured. The grandson’s conduct cannot be attributed without the legally relevant connection to Lees and the property. Serious drug activity may ultimately justify the forfeiture, but the present conclusion does not show why. The remand follows Austin v. United States and United States v. Bajakajian without converting their relevant considerations into a universal checklist.
-
-* **Boundary or Reserved Question:** Bennis v. Michigan is preserved at its actual qualified automobile-interest scope. No new residential innocent-owner holding or automatic reopening of the rejected statutory defense is adopted.
-
-**Precedent, method, and scope.** Apply conflict preemption to the enacted forfeiture command; this statutory ground does not occupy the whole field of homestead law. Reaffirm Austin's punitive-exaction coverage and Bajakajian's gross-disproportionality standard. The latter is a contextual comparison of the exaction with the supported offense, culpability and harm, not a fixed ratio or an automatic residential exemption. The missing facts require remand because independent review cannot proceed from an unexplained conclusion.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1036,33 +1021,31 @@ Connecticut Department of Public Safety v. Doe, 538 U.S. 1 The reported proceedi
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Reverse the procedural-due-process judgment and the injunction resting on it.
-
-**Stone’s Remedy and Remand Position:** Remove the requirement of a current-dangerousness hearing as a condition of conviction-based disclosure. Preserve only independently pleaded and preserved claims for ordinary consideration; do not create or decide a new substantive claim on remand.
+* **Stone's Controlled Judgment or Disposition:** Reverse the procedural-due-process judgment and the injunction requiring a current-dangerousness hearing.
+* **Stone's Remedy and Remand Position:** Remove that hearing prerequisite for the undisputed conviction-based inclusion. Consider only independently pleaded and preserved claims, if any; do not create the substantive-due-process claim expressly disavowed here.
+* **Remedial Reach:** The adjudicated procedural theory and dependent restraint. No unlawful disclosure policy is established by this holding, so the proposed policy-cure presumption supplies no independent injunction.
+* **Practical Relief:** The lower court must dissolve the current-dangerousness condition and identify any surviving independent basis for relief from the actual pleadings. Connecticut may implement the conviction-based rule subject to independently applicable law; this judgment neither finds Doe dangerous nor authorizes suppression of a genuine dispute about an actual inclusion criterion. No new hearing program, damages or remand cause of action is ordered.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Material facts and the requested hearing
+##### Issue 1: Procedure addresses the facts legally authorizing the deprivation
 
-**Threshold and Merits Reach:** Reach only the procedural question presented; assume the asserted protected interest without resolving its full source.
+* **Threshold and Merits Reach:** Assume a protected interest for this disposition; the unused dangerousness fact resolves the procedural claim without deciding substantive validity.
+* **Question Stone Resolves:** Must the State hold a dangerousness hearing when conviction alone triggers inclusion?
+* **Stone's Legal Position:** Apply the predicate-focused procedural framework and distinguish the actual risk-based rule in W.P.
+* **Reach Calibration:** Narrow: resolve the requested procedure, not all registration burdens. Broader approval of dissemination reaches disavowed claims; narrower mandatory risk hearings create an exception the procedural claim cannot supply.
+* **Stone's Proposed Holding:** Due process does not require a hearing to contest current dangerousness when an undisputed qualifying conviction alone authorizes inclusion and the State has made no operative individual risk finding. The claimant must identify a disputed fact material to the authorized deprivation; Doe’s proposed proof cannot change inclusion under this rule. This conclusion assigns no risk-proof burden because risk is not the statutory predicate.
+* **Reach Within the Question:** Hearings on legally immaterial facts, preserving adequate process for disputed actual criteria and independent privacy protections.
+* **Next-Case Guidance:** Identify what finding legally causes the deprivation. Until a preserved substantive or Paul P. claim is adjudicated, apply its existing doctrine without manufacturing a dangerousness exception through procedure.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** W.P. required State risk persuasion because risk grading and audience were legally operative; transplanting that burden here would rewrite the substantive trigger. Paul P. separately protects certain compiled nonpublic current information and its audience relationship, not a universal dangerousness hearing. Serious reputational consequences explain the asserted interest but do not make an unused fact legally material. The operative predicate is decisive.
+* **Precedent Treatment:** Distinguish W.P.’s risk-based scheme and preserve Paul P.’s independent disclosure-safeguard holding; no generalized rejection of procedural or informational privacy rights follows.
+* **Boundary or Reserved Question:** Substantive due process was expressly disavowed. Independent privacy claims require their own preservation and record; they are not created on remand.
 
-**Question Stone Resolves:** Whether due process requires an adjudication that cannot alter inclusion under the operative rule.
-
-**Stone’s Legal Position:** Apply the existing predicate-focused procedural framework and distinguish W.P. on its actual legal trigger.
-
-**Stone’s Proposed Holding:** Procedural due process does not require a hearing on current dangerousness when conviction alone authorizes inclusion and that conviction is undisputed. The claimant must challenge the substantive trigger through the appropriate preserved claim if he seeks a dangerousness exception.
-
-**Reach Within the Question:** The rule excludes hearings on legally immaterial facts. It retains process concerning disputed inclusion predicates and leaves separately grounded informational-privacy protections intact.
-
-**Essential Reasoning and Record Application:** The serious practical consequences of publication explain why the claimed interest matters, but they do not determine which question a hearing must answer. Connecticut has not made a risk finding and then prevented a challenge to it. W.P. required risk proof because the State’s own law made risk and audience tailoring operative. Converting that result into a universal hearing would change the substantive scheme through procedural terminology.
-
-**Boundary or Reserved Question:** Substantive due process was expressly disavowed; an independent challenge under Paul P. requires its own preserved claim and record.
-
-**Precedent, method, and scope:** Reaffirm procedural due process's connection between a hearing and a fact legally material to the deprivation; distinguish W.P. v. Verniero, where the legal scheme made present risk and notification scope operative. A protected interest, the legally relevant predicate, and adequate process are distinct questions. The statutory predicate is decisive here. The absence of a dangerousness hearing cannot invalidate a conviction-based rule merely by assuming the substantive Constitution requires a dangerousness exception. Stone's concern with severe, continuing registration burdens would require an independently justified substantive rule before it could make such a hearing necessary. That substantive claim was disavowed in this case. Deciding narrowly therefore preserves the distinction between the procedural question actually granted and a new restriction on continued disclosure that this record and pleading do not present.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1166,33 +1149,31 @@ Tenafly Eruv Association, Inc. v. Borough of Tenafly, 309 F.3d 144 The reported 
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Affirm the requirement of preliminary protection against selective removal of the eruv.
-
-**Stone’s Remedy and Remand Position:** Direct preliminary relief preventing the Borough from enforcing the attachment ban discriminatorily against the lechis while the action proceeds. Permit genuinely neutral, supported safety conditions and later adjudication of the permanent remedy.
+* **Stone's Controlled Judgment or Disposition:** Affirm the requirement of preliminary protection against selectively removing the eruv’s lechis and remand for entry or maintenance of fitted interim relief.
+* **Stone's Remedy and Remand Position:** Bar discriminatory enforcement against the identified attachments while the merits proceed. Permit genuinely neutral, supported safety conditions and preserve final adjudication; create no irrevocable easement or exemption from all attachment rules.
+* **Remedial Reach:** The challenged selective removal practice and its affected eruv users. At final judgment, Stone would presume correction of a proved common practice for those it governs unless the Borough demonstrates a narrower complete cure; this proposed remedial rule does not convert preliminary likelihood into a final systemwide liability finding.
+* **Practical Relief:** Before carrying out the challenged removal, the Borough must suspend its discriminatory removal direction and instruct the responsible enforcers accordingly. Existing markers remain subject to lawful, comparably applied safety requirements; compliance is shown by those directions and actual enforcement treatment. A changed policy must be evaluated on its real comparators and risks, not its neutral label. Disobedience of the interim decree permits enforcement while the merits and permanent remedy are adjudicated.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Equal treatment in actual administration
+##### Issue 1: Actual enforcement must be religiously neutral
 
-**Threshold and Merits Reach:** Reach Free Exercise and the asserted Establishment Clause justification. A separate expressive-speech holding is unnecessary.
+* **Threshold and Merits Reach:** Resolve Free Exercise and the claimed establishment necessity; no separate expressive-speech classification is needed.
+* **Question Stone Resolves:** May the Borough demand eruv removal while tolerating comparable attachments?
+* **Stone's Legal Position:** Apply Lukumi’s actual-operation rule and Agostini’s private/government distinction.
+* **Reach Calibration:** Intermediate: informal selectivity matters as much as written exceptions. Broader permanent religious exemption exceeds the violation; narrower text-only review ignores the policy actually enforced.
+* **Stone's Proposed Holding:** An attachment rule selectively burdening an eruv while tolerating conduct presenting comparable asserted harms must satisfy strict scrutiny. The association must substantiate selectivity and the applicable preliminary-relief requirements; once shown, the Borough must establish a compelling interest and narrow tailoring. Comparability concerns safety, property and visual risks; size and duration matter insofar as they change those risks, while religious meaning alone supplies no relevant distinction. On this record the exceptions undermine the asserted necessity for the selective removal.
+* **Reach Within the Question:** The actual enforcement practice, while preserving genuine harm-related distinctions and prospectively evenhanded rules.
+* **Next-Case Guidance:** Compare attachments against the interest the Borough invokes. Until a materially changed policy or final remedy is adjudicated, preserve interim equal treatment without treating tolerance as religious sponsorship.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Lukumi examines text, exceptions and operation; Smith’s protection of neutral general laws does not shield selective administration. The eruv is a religious boundary and its lechis are small markers; permission for private observance does not make the Borough its religious author. Under Agostini’s established-permissible-relationship route, the actual private use is assessed against Good News Club’s distinction between administering access and governmental religious adoption. Here the association maintains the religious boundary, the utilities permit the attachments and no Borough profession, recruitment or devotional activity is shown. Allowing comparable attachments therefore does not supply an establishment necessity for selective removal. The utilities’ consent does not waive municipal law but removes no constitutional constraint from municipal enforcement. Actual risk comparison is decisive in triggering scrutiny; the received scrutiny then supplies the justification standard.
+* **Precedent Treatment:** Apply Lukumi and preserve Smith for genuinely neutral general rules. Apply Agostini and distinguish private permission from official adoption, consistent with Good News Club.
+* **Boundary or Reserved Question:** The complete attachment inventory, changed policies and permanent relief require further proceedings; no finding of every official’s personal motive is necessary.
 
-**Question Stone Resolves:** Whether a municipality can exclude religious boundary attachments while tolerating comparable attachments under its actual policy.
-
-**Stone’s Legal Position:** Apply Lukumi and the distinction between private activity and governmental religious adoption.
-
-**Stone’s Proposed Holding:** A municipality cannot enforce an attachment rule against an eruv while permitting comparable attachments that present the same asserted property or visual concerns, unless the selectivity satisfies strict scrutiny through a compelling interest and narrow tailoring. The described enforcement fails that requirement.
-
-**Reach Within the Question:** The rule covers actual exceptions and practice, including informal permission. It preserves materially different safety treatment and a genuinely evenhanded attachment policy.
-
-**Essential Reasoning and Record Application:** The relevant burden arises from government’s selective demand for removal. Tolerating a privately maintained boundary does not make the Borough a religious participant. The record’s existing exceptions undermine the claim that eruv removal is necessary to preserve an otherwise uniform prohibition. Equal treatment addresses the legal defect without requiring public religious sponsorship.
-
-**Boundary or Reserved Question:** Any materially changed policy and final permanent-relief findings lie outside the current preliminary record.
-
-**Precedent, method, and scope:** Reaffirm Lukumi's attention to actual administration and apply strict scrutiny once comparable secular attachments are permitted while religious practice is singled out. Strict scrutiny requires a compelling interest and narrow tailoring to that interest; aesthetic uniformity and property control cannot justify selective removal when the Borough tolerates attachments producing the same asserted harms. Comparability is measured by the regulated risk, not whether two objects have identical religious meanings. An eruv is a religiously significant boundary, and lechis are the small markers attached to poles to define it; allowing private markers neither converts the Borough nor requires anyone to observe the boundary. The functional comparison is decisive in showing lack of general applicability, after which the received scrutiny supplies the rule. Preliminary relief protects against the proved selectivity while permitting supported, evenhanded safety conditions.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1256,7 +1237,7 @@ Tenafly Eruv Association, Inc. v. Borough of Tenafly, 309 F.3d 144 The reported 
 
 ##### Issue 1: Proportionality in recidivist imprisonment
 
-**Controlling Law:** Rummel v. Estelle, Solem v. Helm and the fractured decision in Harmelin v. Michigan provide the inherited noncapital proportionality authorities. Harmelin rejects a mandatory individualized-sentencing requirement outside the capital context; the proportionality reasoning must be attributed to the Justices who actually adopted it rather than described as a single majority formula. No decision in Ewing itself governs this predecision review.
+**Controlling Law:** Rummel v. Estelle, Solem v. Helm and the fractured decision in Harmelin v. Michigan provide the inherited noncapital proportionality authorities. Harmelin rejects a mandatory individualized-sentencing requirement outside the capital context; the proportionality reasoning must be attributed to the Justices who actually adopted it rather than described as a single majority formula. Henderson v. Norris holds life without ordinary parole grossly disproportionate for the specified first tiny-sale conviction under the surviving narrow proportionality principle. It requires attention to actual offense, offender and release prospects, but does not decide a sentence supported by Ewing’s serious prior convictions.
 
 **Current Reusable Doctrine:** Assess the gravity of the present offense with legally relevant recidivism, the severity and practical operation of the punishment, and genuinely informative sentencing comparisons. Gross disproportionality is a constitutional limit, not ordinary disagreement over the best sentence.
 
@@ -1295,39 +1276,35 @@ Ewing v. California, 538 U.S. 11 The reported proceedings support the record and
 * United States amicus merits brief, question presented, No. 01-6978.
 
 ### SECTION II: STONE POSITION SUPPLEMENT
+
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002; any material same-term dependency is identified in Section I.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Stone’s Controlled Judgment or Disposition:** Reverse the sentence as applied and remand for resentencing; leave the theft conviction intact.
-
-**Stone’s Remedy and Remand Position:** Require a constitutionally proportionate sentence that may account substantially for the established prior crimes. Do not select a precise term, order immediate release, or invalidate the recidivist statute in every application.
+* **Stone's Controlled Judgment or Disposition:** Reverse the sentence as grossly disproportionate as applied and remand for lawful resentencing; preserve the theft conviction.
+* **Stone's Remedy and Remand Position:** Require California to replace the twenty-five-years-to-life sentence with a proportionate lawful sentence that may substantially account for the established priors. Select no precise term and do not invalidate every three-strikes application. Henderson’s ninety-day conditional habeas remedy does not supply a mandatory deadline on this direct appeal; the state remand must provide a reasonable, enforceable resentencing schedule under its own procedure.
+* **Remedial Reach:** Ewing’s sentence. The constitutional reasoning governs analogous open cases through ordinary adjudication, but the mandate does not resentence absent prisoners or abolish the statute.
+* **Practical Relief:** The state court must conduct resentencing within a reasonable period fixed through the remand process, identifying the actual minimum and applying the present-offense anchor and established priors. A lawful new sentencing judgment demonstrates compliance; repeating the invalid punishment under a different label does not. Unjustified failure to resentence requires enforcement through the available judicial process, while the surviving conviction and valid custody authority prevent an automatic immediate-release order.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Proportionate punishment with recidivism
+##### Issue 1: Recidivism aggravates but does not replace the present offense
 
-**Threshold and Merits Reach:** Reach the as-applied Eighth Amendment question on direct review.
+* **Threshold and Merits Reach:** This is direct review of the actual sentence; §2254(d) does not restrict this judgment.
+* **Question Stone Resolves:** Do these serious priors justify a twenty-five-year minimum and possible life term for this theft?
+* **Stone's Legal Position:** Apply the preserved gross-disproportionality limit and state its recurring recidivist operation without treating Harmelin’s fractured reasoning as a majority formula.
+* **Reach Calibration:** Intermediate in rule, narrow in disposition. Broader fixed ratios create a national sentencing schedule; narrower unexplained recidivist deference makes the current offense disappear.
+* **Stone's Proposed Holding:** A recidivist sentence must retain a constitutionally defensible relation to the present offense: priors aggravate its gravity but cannot substitute wholesale for it, and the actual minimum before meaningful release must be assessed. The challenger must establish gross disproportionality, not merely a preferable sentence. First compare gravity, including the proved priors, with actual severity; where that comparison indicates gross disproportionality, informative intra- and interjurisdictional comparisons test the inference. This $1,197 nonviolent theft, even with the burglaries and robbery, cannot justify this twenty-five-year minimum and life tail.
+* **Reach Within the Question:** The actual offense, serious prior record and punishment; substantial enhancements and imprisonment for property crime remain permissible.
+* **Next-Case Guidance:** Assess the real minimum rather than the life label or a promise of discretionary leniency, giving priors genuine but bounded weight. California must choose the replacement sentence under valid law and the constitutional limit, not a judicially invented numerical ceiling.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Rummel permits serious recidivist punishment but gives meaningful parole availability significance; Solem preserves proportionality despite prior convictions. Harmelin rejects mandatory individualized noncapital sentencing and its narrower proportionality reasoning must be attributed accurately. Read together, these authorities support one gross-disproportionality inquiry rather than parallel cumulative tests. The present theft remains the occasion for punishment, and a quarter-century minimum is extreme despite the prior serious conduct. State discretion to dismiss strikes does not constitutionalize the sentence actually chosen. Henderson v. Norris confirms that this remains an enforceable, offense-specific constitutional limit: its first conviction, tiny completed sale and absence of ordinary parole were decisive together. Ewing’s robbery and burglaries and eventual parole eligibility materially distinguish that holding, so Stone cannot obtain reversal merely by calling the present theft small or nonviolent. He instead concludes that even after giving those aggravating differences their actual weight, the quarter-century minimum retains the exceptional mismatch the governing inquiry forbids. The actual gravity-severity relationship is decisive. Comparative law confirms rather than replaces that conclusion: California’s ordinary maxima for a nonrecidivist’s arson causing great bodily injury and voluntary manslaughter were nine and eleven years, respectively, under Penal Code §§451(a) and 193. Those offenders lack Ewing’s record, so that comparison is informative rather than conclusive. New Jersey’s recidivist extended term for comparable theft was five to ten years under §§2C:43–7(a)(4) and 2C:44–3(a), showing that serious priors can receive substantial effect without this minimum. Sims v. State upheld an even harsher Nevada recidivist theft sentence; Stone acknowledges that contrary comparator rather than claims unanimity. Neither another State’s leniency nor its severity sets the constitutional boundary, but the combined comparisons support the gravity-severity inference here.
+* **Precedent Treatment:** Reconcile Rummel, Solem and the narrow proportionality reasoning in Harmelin through Henderson v. Norris’s controlling offense-specific application. Distinguish Henderson’s first-offender and no-parole facts while applying its insistence on actual gravity, punishment and corroborative comparisons; adopt no categorical theft ceiling or uniform majority formula.
+* **Boundary or Reserved Question:** The precise lawful replacement term is committed to state sentencing law and requires the resentencing determination; no collateral-review question is presented.
+* **Conditional Position or Fallback:** Reverse on the particular theft, priors and minimum alone if the broader recidivist formulation is not adopted. Stone prefers the general explanation because future courts need to know why recidivism does not end proportionality review; either route preserves the same sentence-only remedy.
 
-**Question Stone Resolves:** Whether these prior convictions justify the twenty-five-year minimum for this present theft.
-
-**Stone’s Legal Position:** Apply the gross-disproportionality limitation preserved in Solem, Rummel and Harmelin, and resolve its application to this offense, recidivist record and minimum term.
-
-**Stone’s Proposed Holding:** Recidivism legitimately increases punishment, but it does not dissolve the required relation to the present offense. A minimum of twenty-five years with potential life imprisonment for this nonviolent $1,197 theft is grossly disproportionate even considering the qualifying burglaries and robbery.
-
-**Reach Within the Question:** The proposed rule resolves this offense, minimum term, and prior record. It permits severe enhancements for repeated serious crimes and does not categorically exempt property offenses from imprisonment.
-
-**Essential Reasoning and Record Application:** The present offense identifies what the State is now punishing. Prior convictions show persistence and justify a substantial increase, but the minimum term approaches punishments for far graver present violence. Neither discretionary charging nor the sentencing court’s refusal to dismiss strikes supplies the missing constitutional fit. Incapacitation is a legitimate aim with constitutional limits, not a reason every predictive punishment becomes proportionate.
-
-**Boundary or Reserved Question:** A precise replacement sentence is for the state court under valid law and is not fixed by this record or question.
-
-**Precedent, method, and scope:** Reaffirm the Eighth Amendment's gross-disproportionality limit rather than adopting a rule against recidivist punishment. Reconcile Solem's attention to gravity, severity and comparisons with the narrow proportionality approach described in Harmelin. Rummel involved materially different parole availability and does not make every life-tail recidivist term valid. Stone first weighs the actual twenty-five-year minimum against this nonviolent theft, giving the burglaries and robbery real aggravating weight; he then uses comparative punishment as a check on the inference of gross disproportionality, not a national sentencing schedule. The relationship between this present offense, this record and this minimum is decisive. The case is on direct review, so AEDPA's additional habeas restriction does not control as it may in Andrade. The Constitution sets the outer limit; California selects the lawful replacement sentence. This as-applied holding requires no universal ceiling for property offenses.
-
-**Principal rule for comparable recidivist sentences:** The present offense remains the indispensable anchor for proportionality review. Prior crimes can substantially increase punishment, but cannot be substituted wholesale for the new offense or counted as though the State were sentencing those completed crimes again. Courts must examine the actual minimum before meaningful release and the combined punishment, not only its statutory label. Once the gravity-to-severity comparison creates an inference of gross disproportionality, relevant intra- and interjurisdictional comparisons test that inference. This preserves the narrow gross-disproportionality standard while making its operation explicit; it creates no categorical immunity for nonviolent crime and no fixed sentencing ratio.
-
-**Narrower alternative:** Stone would preserve the earlier judgment confined to this $1,197 theft, the established robbery and burglary priors, and the twenty-five-year minimum, without announcing the foregoing general formulation. That result is independently warranted by the extreme mismatch and meaningful distinction from Rummel's release prospects. He prefers the broader explanation because recidivism must receive substantial but bounded legal weight in later cases, rather than function as an unexplained exception to constitutional review. The replacement sentence remains California's responsibility under either formulation.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1381,15 +1358,15 @@ Ewing v. California, 538 U.S. 11 The reported proceedings support the record and
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** Law effective through June 28, 2002. An undecided same-term case supplies no controlling holding.
+**Current Through:** Governing decisions through June 28, 2002, together with Early v. Packer and Woodford v. Visciotti, effective November 4, 2002.
 
-**Earlier Same-Term Decisions:** None identified as controlling this review.
+**Earlier Same-Term Decisions:** Early v. Packer and Woodford v. Visciotti apply §2254(d) to the actual state reasoning and whole supported record. Missing citations or imprecise shorthand alone do not establish unreasonableness; neither formal correctness nor generality of the governing rule immunizes an objectively unreasonable application.
 
 **Unresolved Same-Term Dependencies:** Ewing v. California presents a separate direct-review question on the same date. Its eventual direct-review holding could inform current proportionality analysis, but a new holding would not automatically become clearly established law at Andrade’s earlier state adjudication.
 
 ##### Issue 1: Proportionality on federal habeas review
 
-**Controlling Law:** Terry Williams v. Taylor separates contrary-to and unreasonable-application review and rejects both a mere-error standard and a test that counts judges who find an interpretation reasonable. Its governing inquiry remains objective unreasonableness.
+**Controlling Law:** Terry Williams v. Taylor separates contrary-to and unreasonable-application review and rejects both a mere-error standard and a test that counts judges who find an interpretation reasonable. Its governing inquiry remains objective unreasonableness. Early rejects citation-based habeas error and a necessary factual-twin rule while examining the actual constitutional context. Visciotti requires assessment of the whole state opinion and supported sentencing record, not isolated wording or an independent preferred result. Those statutory-review holdings do not add substantive proportionality law to the earlier state-adjudication date.
 
 **Current Reusable Doctrine:** Identify the Supreme Court holding effective at the state merits decision; identify the applicable principle at its proper generality; compare the state’s reasoning and outcome to that principle; then separately establish the underlying constitutional error and appropriate relief.
 
@@ -1409,7 +1386,7 @@ The State argues that the decisions leave substantial room for legislative recid
 
 #### D. LAWFUL PATHS AND UNCERTAINTY
 
-The Court may reverse the federal relief decision if the state adjudication falls within the range of reasonable applications, without approving the punishment on direct review. It may affirm relief if it identifies a governing principle and explains why this sentence lies beyond reasonable disagreement, followed by a conditional resentencing remedy. Any remand should identify whether it concerns the § 2254(d) gateway, the Eighth Amendment merits, or the sentence to be corrected.
+The Court may reverse the federal relief decision if the state adjudication falls within the range of reasonable applications, without approving the punishment on direct review. It may affirm relief if it identifies a governing principle and explains, under Early and Visciotti’s whole-adjudication review, why sustaining this aggregate sentence was objectively unreasonable, followed by a conditional resentencing remedy. Neither imperfect wording nor the federal court’s preferred punishment can supply that explanation. Any remand should identify whether it concerns the § 2254(d) gateway, the Eighth Amendment merits, or the sentence to be corrected.
 
 **Plausible Holding Scope:** An application of the habeas standard to the identified state adjudication and these consecutive terms. It need not validate every three-strikes sentence, establish a numerical constitutional minimum, or hold that general proportionality principles can never support habeas relief.
 
@@ -1425,31 +1402,32 @@ Lockyer v. Andrade, 538 U.S. 63 (record and procedural history).
 
 #### A. LEGAL POSTURE
 
-Stone's principal position and the expressly identified alternative below are his proposed vote and reasoning. Governing law remains distinct from the rule he proposes; neither position assumes another Justice's vote. The baseline is law effective through June 28, 2002, subject to an actually decided intervening matter.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-**Principal disposition:** Affirm the Ninth Circuit's judgment granting sentence relief. Direct a conditional writ allowing California a reasonable period to impose a constitutionally proportionate lawful sentence or otherwise end custody attributable to the invalid punishment. Preserve both theft convictions and the State's authority to impose substantial recidivist punishment. Select no precise replacement term.
-
-**Alternative disposition:** If the preexisting proportionality cases leave reasonable room for this aggregate punishment, reverse federal habeas relief under §2254(d)(1), while expressly declining to sustain the sentence on independent Eighth Amendment review. That remains the narrower remedy-limiting alternative.
+* **Stone's Controlled Judgment or Disposition:** Affirm sentence relief and direct a conditional writ permitting California a reasonable period to impose a lawful proportionate sentence or end custody attributable to the invalid punishment.
+* **Stone's Remedy and Remand Position:** Invalidate the aggregate punishment, preserve both theft convictions and lawful recidivist sentencing authority, and select no exact replacement term. The district court must fix a reasonable compliance period after hearing the parties and enforce the condition.
+* **Remedial Reach:** Andrade’s aggregate sentence. No policywide order resentences other prisoners or treats this habeas ruling as facial invalidation of three strikes.
+* **Practical Relief:** The conditional order must state the resentencing requirement and deadline, require the State to file the new judgment or proof that custody attributable to the invalid sentence has ended, and specify enforcement on failure. The court must assess whether the replacement actually cures the gross disparity, without itself setting California’s sentencing schedule. Absent timely lawful compliance, the writ must operate against custody under the invalid punishment; any independent valid custody basis requires separate identification.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: The existing proportionality limit must constrain an extreme application
+##### Issue 1: The aggregate sentence crosses both the constitutional and habeas limits
 
-Stone would hold that imposing a fifty-year minimum for two low-value, nonviolent shoplifting offenses, even with the established serious priors, unreasonably applies the already established gross-disproportionality principle. The constitutional wrong concerns the aggregate punishment actually imposed. Treating each twenty-five-year block in isolation conceals the practical consequence of consecutive terms; repeating the recidivist label does not explain that consequence.
+* **Threshold and Merits Reach:** Separate the §2254(d)(1) restriction from the underlying Eighth Amendment merits. Use Supreme Court law established at the state merits adjudication.
+* **Question Stone Resolves:** Was sustaining this fifty-year minimum an objectively unreasonable application of the existing gross-disproportionality principle?
+* **Stone's Legal Position:** Apply preexisting proportionality through Williams, Early and Visciotti’s statutory deference; do not substitute his disagreement with their denial of relief or create a new constitutional rule as the habeas gateway.
+* **Reach Calibration:** Narrow on the extreme aggregate punishment, intermediate against atomized review. Broader numerical ceilings exceed the claim; narrower factual-twin demands would deprive a general constitutional limit of enforceable applications.
+* **Stone's Proposed Holding:** A fifty-year minimum for these two low-value nonviolent thefts, even with the established serious priors, is grossly disproportionate, and sustaining that aggregate punishment unreasonably applies the preexisting proportionality principle. Andrade must establish objective unreasonableness under §2254(d)(1) and the underlying constitutional error; neither inquiry is a preponderance comparison of policy preferences. Early and Visciotti require him to confront the actual state adjudication and supported sentencing record, not merely isolate a deficient formulation or show that a federal court would decide differently. The two twenty-five-year blocks must be evaluated as the actual aggregate punishment, with separate offenses and priors fully counted rather than ignored.
+* **Reach Within the Question:** This state adjudication and aggregate minimum, not every consecutive recidivist term or direct-review sentencing disagreement.
+* **Next-Case Guidance:** Identify the earlier governing holding, then assess the actual aggregate sentence and the separate objective-unreasonableness restriction. Early and Visciotti govern the present statutory review method but cannot supply new substantive law at the earlier state adjudication. Ewing is on this same event date and supplies no entering holding here; Henderson v. Norris likewise cannot supply law unavailable at the state adjudication.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Rummel’s meaningful parole, Solem’s continuing property-offense proportionality and Harmelin’s materially different serious drug offense leave discretion but not unlimited confinement for petty theft. Williams requires objective unreasonableness, not mere error or a count of disagreeing judges; Bell preserves that distinction. Stone’s conclusion is that the extreme aggregate minimum cannot reasonably fit the earlier limit, not merely that he would impose less time. Early and Visciotti make that conclusion depend on the whole adjudication, so Stone credits the State’s actual recidivist rationale, the serious burglary priors, the two separate occasions and the retained possibility of parole. He finds those considerations insufficient to bring this fifty-year minimum for approximately $150 in nonviolent theft within the objectively reasonable application of the earlier limit; he does not infer unreasonableness from a missing citation, a shorthand phrase or the absence of a factual twin. The new decisions’ contrary habeas outcomes remain controlling on their records and do not become Stone’s broader preferred review rule. The same gravity-severity mismatch establishes the underlying violation. Those are separate legal judgments within one coherent review, not an invented de novo exception.
+* **Precedent Treatment:** Apply Williams and the actual Early/Visciotti holdings requiring contextual statutory deference; preserve Bell’s separate merits restriction. Distinguish their reasonable coercion and prejudice adjudications through the actual proportionality application here, not a categorical exception to AEDPA. Reconcile the actual Rummel, Solem and Harmelin holdings without using proposed Ewing or later Henderson as earlier clearly established law.
+* **Boundary or Reserved Question:** The replacement sentence and any independent custody basis require the ordinary remand record; no new substantive offense or acquittal is at issue.
+* **Conditional Position or Fallback:** If the two new occasions and serious priors leave the state result within the objectively reasonable range of the earlier cases, reverse federal relief under §2254(d)(1), while recording substantive disagreement with the punishment. Stone prefers relief because a general limit must constrain extreme applications even without a factual duplicate; if the whole-adjudication inquiry required by Early and Visciotti leaves this result objectively reasonable, his substantive disagreement cannot sustain the writ.
 
-Rummel permits severe recidivist punishment and gives parole availability real significance. Solem establishes that an extraordinarily severe property-offense sentence remains constitutionally reviewable despite a record of prior offenses. Harmelin's disposition concerning a large drug quantity does not erase that limit. The State may count the separate new offenses and the residential burglaries, but the current conduct remains the occasion for punishment and the aggregate minimum must retain a defensible relationship to its gravity and that record. These authorities leave a range of lawful judgments, not an unlimited power to impose effectively lifelong confinement for petty theft.
-
-##### Issue 2: An objectively unreasonable application does not require an identical earlier sentence
-
-Apply Williams at its actual scope. Stone does not replace §2254(d)(1) with de novo review. He identifies the established proportionality rule, the legally material distinction between meaningful earlier parole and this fifty-year minimum, and the failure to explain why the prior crimes justify that extreme difference for the new conduct. The statutory threshold is met because the governing rule cannot reasonably accommodate this aggregate sentence on these facts, not merely because a shorter term would be preferable.
-
-The underlying Eighth Amendment violation is separately established by the gross mismatch. Recidivism increases blameworthiness and supports incapacitation, but cannot make the seriousness of the present offenses irrelevant. Comparative punishment informs that judgment without imposing a national sentencing schedule. The source date remains the state merits adjudication: Ewing's proposed disposition and Henderson's later pre-AEDPA judgment are not retroactively inserted as clearly established law. They may illustrate separate questions, but neither supplies this writ's gateway.
-
-**Decisive method and breadth:** A contextual gravity-and-severity assessment applies the existing constitutional rule; the separate objective-unreasonableness judgment constrains federal relief. The actual fifty-year minimum, current petty offenses and established priors carry decisive weight. The recurring principle rejects atomizing consecutive terms or treating prior crimes as a complete exemption from proportionality. It sets no numerical maximum for all thefts or all repeat offenders.
-
-**Reasoned narrower alternative:** The former denial position gives decisive weight to the factual variation among Rummel, Solem and Harmelin, treating the two new occasions and serious priors as leaving objectively reasonable room despite the sentence's severity. If that statutory judgment prevails, federal relief must be reversed without borrowing Ewing as earlier law. Stone would preserve a separate disagreement with the punishment rather than describe AEDPA denial as a merits approval. He prefers relief because a general constitutional limit must still have enforceable applications at its extreme, even without a prior factual duplicate.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -1492,7 +1470,7 @@ The underlying Eighth Amendment violation is separately established by the gross
 
 * **Current Through:** Law effective through June 28, 2002. Earlier decisions of this term enter only when actually decided.
 * **Earlier Same-Term Decisions:** None is assumed from calendar placement alone.
-* **Unresolved Same-Term Dependencies:** Any actual same-term standing or specialty-plate holding must be considered on its own scope. No future disposition is incorporated.
+* **Unresolved Same-Term Dependencies:** None identified.
 * **Institutional or Procedural Law:** Article III; the First and Fourteenth Amendments; 42 U.S.C. §1983; La. Rev. Stat. §47:463.61; ordinary pleading, amendment, preliminary-relief, and appellate-remand rules. Any applicable 28 U.S.C. §1341 limitation remains independent.
 
 ##### Issue 1: Personal exclusion and redressability
@@ -1534,38 +1512,46 @@ Henderson v. Stalder, 287 F.3d 374 (5th Cir. 2002); Henderson v. Stalder, 112 F.
 
 #### A. LEGAL POSTURE
 
-**Current-Through Baseline:** Law effective through June 28, 2002. The merits of any same-term companion remain unresolved unless actually decided.
+Stone’s proposed disposition and reasoning follow. Governing law is distinguished from proposed extensions; unresolved facts remain subject to the procedural posture in Section I.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone's Controlled Judgment or Disposition:** Vacate the categorical dismissal of the personal equal-access claims and remand under a rule recognizing discriminatory exclusion as an independently redressable injury. Keeler's alleged desire to participate is legally material and cannot be reduced to disagreement with another motorist. Address Planned Parenthood's own exclusion and appellate posture separately. Do not restore the preliminary injunction automatically.
-* **Stone's Remedy and Remand Position:** Require a claimant-specific assessment of the existing pleading, stage-appropriate evidence, and lawful relief. A court may end the particular preference or require equal consideration when authorized; it cannot compel enactment of an unrequested plate or payment of an unproved grant. Permit consideration of a proper clarifying amendment under ordinary rules, without treating amendment as necessary merely because the complaint challenged the statute creating the alleged preference. Preserve dismissal of unsupported generalized taxpayer or religious objections and any independently applicable jurisdictional limitation.
+* **Stone's Controlled Judgment or Disposition:** Vacate categorical dismissal of the personal equal-participation claims and remand claimant by claimant. Do not automatically restore the preliminary injunction; preserve dismissal of unsupported generalized taxpayer or religious objections.
+* **Stone's Remedy and Remand Position:** Determine whether each actual claimant is ready and able to participate, suffers the challenged exclusion and seeks relief that can end it. Address Planned Parenthood’s addition after the appeal and any proper amendment under ordinary procedure. Only after jurisdiction and the applicable merits/equitable predicates may the court grant equal consideration or end the challenged preference; no unrequested plate or unproved grant is ordered.
+* **Remedial Reach:** Each claimant’s own preserved injury and the judgment properly before the reviewing court. No merits violation or common unlawful policy is yet proved, so no policywide cure can be presumed from standing alone.
+* **Practical Relief:** The remand court must identify the pleaded opportunity, causal barrier, proper defendant and legally available remedy for each plaintiff, using allegations at dismissal and evidence for preliminary relief. It must then decide independently applicable jurisdictional bars before merits. If interim relief is sought again, require the ordinary supporting findings and an order directed to the identified barrier; if those predicates fail, explain the claimant-specific dismissal or denial rather than demanding a guaranteed benefit.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Equal participation is a personal interest before the claimant wins a benefit
+##### Issue 1: Equal consideration can be redressed without a guaranteed benefit
 
-* **Threshold and Merits Reach:** Reach the legal nature of the alleged injury and redress. Reserve final merits and unresolved evidentiary predicates. The government's assertion that the program is its own speech may defeat the asserted right on the merits; it does not justify redefining an actual prospective participant as an uninjured observer.
-* **Question Stone Resolves:** Must an excluded participant prove that an injunction will confer the desired expressive or financial benefit, rather than remove the challenged inequality?
-* **Stone's Legal Position:** Apply Northeastern Florida's equal-opportunity principle and extend Heckler's remedial reasoning expressly to an actually exclusionary expressive or grant-selection arrangement. Reconcile those cases with Lujan by requiring personal participation, a causal barrier, and relief directed to that barrier.
-* **Stone's Proposed Holding:** A person ready and able to participate in a government-administered opportunity suffers a cognizable injury when a challenged classification denies equal consideration. Redressability does not require a guaranteed plate or grant: a lawful order ending the discriminatory preference can remedy that unequal treatment. This principle applies only where the claimant's own exclusion and the requested relief concern the same opportunity; a wish to silence another speaker or disapprove another recipient is insufficient.
-* **Reach Within the Question:** Expressive access and competitive eligibility, without a universal requirement to submit a futile application under a categorical bar. Actual willingness, capacity, and a nonconjectural exclusion remain required with proof appropriate to the stage.
-* **Essential Reasoning and Record Application:** The appellate analysis treats the benefit as the only protected interest and thus misses the unequal treatment. Keeler alleged that she wanted to express an opposing position through the same specialty-plate mechanism. Planned Parenthood alleged that its own abortion-related activity categorically excluded it from grants. Neither theory necessarily depends on receiving the eventual benefit. The inquiry is whether those are actual participant injuries, whether the challenged statute creates the asserted preference, and whether the available order ends it. A legislature cannot make personal exclusion unreviewable merely by allocating permissions among separate statutes rather than a single licensing provision.
-* **Boundary or Reserved Question:** Do not assume that striking a single preferred message cures every injury in the broader plate system. If the claim, evidence, and relief concern different opportunities, the causal and remedial gap must be repaired lawfully or the claim dismissed. Planned Parenthood's later addition also requires proper treatment of which judgment and claims are before the reviewing court.
+* **Threshold and Merits Reach:** The government-speech defense may defeat the merits but does not itself erase a concrete participant’s unequal-treatment allegation.
+* **Question Stone Resolves:** Must an excluded participant prove that relief will confer the plate or grant rather than end the challenged inequality?
+* **Stone's Legal Position:** Apply Northeastern Florida and extend Heckler’s remedy reasoning to these asserted expressive and grant-selection opportunities, retaining Lujan’s elements.
+* **Reach Calibration:** Intermediate: the categorical benefit-only rule would bar recurring personal discrimination claims. Broader automatic access ignores program legality; narrower observer treatment disregards actual participation.
+* **Stone's Proposed Holding:** A person ready and able to participate suffers cognizable injury when a challenged classification denies equal consideration, and a lawful order ending that preference can redress the injury without guaranteeing the ultimate benefit. Each claimant must establish personal exclusion, traceability and likely redress with proof appropriate to the stage; an objection to another’s speech or recipient status is insufficient. Keeler’s asserted wish to participate and Planned Parenthood’s alleged categorical eligibility bar therefore require the correct claimant-specific inquiry.
+* **Reach Within the Question:** The same actual opportunity targeted by the claim and relief; no universal exemption from a useful application or permission to invent a futile one.
+* **Next-Case Guidance:** Ask whether the order ends the particular unequal treatment, not whether it assures success. Until the program’s forum or funding character is decided, apply the relevant speech/subsidy law on the merits after Article III is established.
+* **Transition:** Under Harper, the new federal rule applies to these parties and all cases still open on direct review. Reynoldsville preserves independent immunity, procedural and remedial limits, not selective prospectivity based solely on reliance. Final judgments are not reopened, and collateral relief requires its own governing authorization.
+* **Essential Reasoning and Record Application:** Northeastern Florida identifies unequal competitive treatment rather than winning as the injury; Heckler recognizes ending a preference as a possible cure. Lujan still requires the claimant’s own actual connection and redress. Separately enacted specialty plates can create an opportunity structure, but that functional possibility cannot substitute for proof of the barrier attacked. Stone’s extension follows the personal-interest logic and does not allow suppression of a disliked message for its own sake. Identified injury and remedial connection are decisive.
+* **Precedent Treatment:** Apply Northeastern Florida and Lujan; extend Heckler’s preference-ending redress principle to the actual participation claims. Preserve Orr and Arkansas Writers’ Project against immunity from review merely because several legislative cures exist.
+* **Boundary or Reserved Question:** The exact pleading-to-remedy relationship and Planned Parenthood’s later-added procedural position require remand. Forum classification, funding validity, severability and any preserved Tax Injunction Act objection were not decided by the standing judgment.
+* **Conditional Position or Fallback:** If the broader equal-treatment holding is declined, remand Keeler’s participation claim and any proper clarification while preserving other dismissals unless their own claims and procedural posture warrant reconsideration. Do not invent an unfiled claim or restore the injunction automatically.
 
-##### Issue 2: Jurisdiction opens the merits inquiry without deciding its outcome
+##### Issue 2: One participant’s standing does not carry unrelated objections
 
-* **Threshold and Merits Reach:** Decide no Establishment Clause merits without a claimant entitled to raise them. The existing private-forum classification and interim relief remain reviewable on remand after jurisdiction is properly established.
-* **Question Stone Resolves:** Does recognizing equal-access injury eliminate the government's lawful program choices or allow unsupported religious and taxpayer claims to proceed?
-* **Stone's Legal Position:** Reaffirm claimant-specific jurisdiction and distinguish genuine governmental expression from a mechanism through which private participants express selected messages. Reserve the final classification on this standing review.
-* **Stone's Proposed Holding:** Recognition of a personal equal-treatment injury confers no automatic right to a government subsidy, no exemption from a valid statutory jurisdictional bar, and no entitlement to adjudicate another claimant's religious objection. Merits and remedy must independently follow the actual program's legal character.
-* **Reach Within the Question:** Louisiana may advocate adoption and define a lawful adoption-services program. Whether it may exclude an otherwise eligible participant because of independently funded speech or deny an opposing message in a private forum is a different issue requiring adjudication, not a jurisdictional presumption.
-* **Essential Reasoning and Record Application:** The existing record does not establish a general-tax financing injury merely from the existence of plate revenue, and membership in a religiously associated organization does not establish unlawful religious administration. Those deficiencies cannot erase Keeler's different alleged injury. Conversely, her participation claim cannot carry every other plaintiff into court. The appropriate remand restores the correct legal inquiry and demands findings before renewed coercive relief.
-* **Boundary or Reserved Question:** Reserve severability, the exact forum boundary, the lawfulness of funding exclusions, and any preserved Tax Injunction Act objection. No later specialty-plate decision supplies an answer in advance.
+* **Threshold and Merits Reach:** Jurisdiction must be established for each claimant and claim before constitutional merits or renewed coercive relief.
+* **Question Stone Resolves:** Does the equal-treatment injury establish taxpayer, religious or substantive speech entitlement for everyone?
+* **Stone's Legal Position:** Apply claimant-specific standing and jurisdiction-before-merits rules.
+* **Reach Calibration:** Narrow: preserve the distinct inquiries necessary on this appeal. Broader merits adjudication lacks the reviewed judgment; narrower undifferentiated dismissal erases separate participant injuries.
+* **Stone's Proposed Holding:** Recognition of a personal exclusion gives no derivative standing for another’s religious objection, no automatic subsidy entitlement and no exemption from an independent statutory jurisdictional bar. Each claimant bears the applicable standing showing. Plate fees and uncompensated council service do not alone establish the alleged general-tax injury, and asserted religious association does not establish concrete religious administration.
+* **Reach Within the Question:** The distinct claims actually pleaded, without deciding whether the plate is government speech or the funding exclusion is lawful.
+* **Next-Case Guidance:** Until the merits classification is adjudicated, apply Mosley/Rosenberger to a proved private-speech forum, Rust to a properly defined government program, and the separate Flast/Valley Forge standing rules to taxpayer and religious objections.
+* **Transition:** Not applicable.
+* **Essential Reasoning and Record Application:** Steel Co. requires jurisdiction first; Valley Forge rejects mere disagreement with government religion, while Flast defines a bounded taxpayer route. Mosley and Rosenberger govern equal private expression and Rust distinguishes program definition from restrictions outside it, but none supplies standing facts or predetermines this program’s character. Separating those legal functions preserves actual claims without awarding the merits through a jurisdictional label.
+* **Precedent Treatment:** Reaffirm Steel Co., Valley Forge and Flast at their actual limits; reserve application of the cited forum and funding cases until jurisdiction and program facts support it.
+* **Boundary or Reserved Question:** The merits character and independent statutory jurisdictional questions remain for the proper preserved proceedings.
 
-**Precedent, method, and scope:** The decisive method is identification of the individually protected interest and application of equal-treatment precedent to the actual statutory mechanism. Functional examination explains why separately enacted permissions can produce a common exclusion; it cannot dispense with Lujan's elements. Stone would announce the general redressability rule because the appellate rule would repeatedly prevent review of personal discrimination whenever government can withdraw a benefit. He would decide no more of the merits because the judgment under review did not resolve those distinct questions. There is no relaxed Article III exception for favored speech claims.
-
-**Narrower fallback:** If the Court declines the broader equal-treatment redressability holding, vacate and remand for focused consideration of Keeler's asserted participation, the scope of the actual claim, and any proper amendment challenging the overall selection practice. Preserve the other plaintiffs' dismissals unless their own existing claims and procedural posture support reconsideration. The fallback does not assume an unfiled claim or automatically reinstate the original injunction; it avoids converting an arguable defect in the pleaded remedial theory into an irrevocable denial of review.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 

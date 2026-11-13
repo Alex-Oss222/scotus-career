@@ -23,7 +23,9 @@
 
 #### B. LAW ENTERING THE CASE
 
-* **Current Through:** Law effective through June 28, 2002. A later October Term 2002 position becomes controlling only upon an actual decision; a historical comparator supplies no intervening holding.
+* **Current Through:** June 28, 2002 baseline, supplemented by the relevant decided events below through November 4, 2002. Only decisions effective before this event enter its law; same-date events do not govern one another.
+
+* **Earlier Same-Term Decisions:** Early v. Packer and Woodford v. Visciotti (November 4, 2002) apply amended §2254(d)(1) to actual reasoning and the complete supported record rather than citation omissions or shorthand. Neither decision extends amended merits deference to a pre-AEDPA application or adds an exception to Cronic’s established critical-stage absence category. They are current statutory-review decisions, not constitutional law available at Burdine’s 1987 finality date.
 * **Earlier Relevant Decisions:** Bell v. Cone preserves Strickland for particular tactical omissions within a proceeding in which counsel actually presented the defense; it does not eliminate Cronic’s separate critical-stage absence category. Its amended-§2254 application follows Cone’s 1997 filing and does not govern Burdine’s pre-enactment petition. Bell clarifies the current distinction but cannot supply the law dictated at Burdine’s 1987 finality date.
 * **Institutional or Procedural Law:** Independently determine the constitutional and nonretroactivity questions under former habeas law while respecting qualifying state factual findings and their statutory exceptions. A finding of repeated sleeping does not authorize appellate invention of exact witness identities, missed objections, or trial durations beyond the record.
 
@@ -71,38 +73,69 @@ The responsive distinction is between proving that counsel was functionally unav
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
-#### A. DECISIONAL POSTURE
+#### A. LEGAL POSTURE
 
-* **Governing Law:** Law effective through June 28, 2002. Stone’s proposed resolution below is distinct from the rules already controlling the case.
+The April 1995 application invokes pre-AEDPA merits law and former §2254 factual review absent an independently established chapter 154 basis. Cronic’s denial-of-counsel category and the law at 1987 finality govern the two presented questions.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the en banc judgment granting habeas relief on the constructive-denial ground and reject the presented Teague defense.
-* **Stone’s Remedy and Remand Position:** Preserve conditional relief from the conviction and dependent death sentence: the State must afford a lawful new trial or release Burdine from custody under the invalid judgment within the enforceable period fixed by the habeas court. The original order used 120 days; determine the actual mandate and stay history before calculating or restarting that period. This holding does not bar retrial, award damages, or adjudicate the separate enforcement dispute.
+* **Stone's Controlled Judgment or Disposition:** Affirm the en banc grant of habeas relief for constructive denial of counsel and reject the presented Teague defense.
+
+* **Stone's Remedy and Remand Position:** Preserve conditional relief from the conviction and dependent death sentence: a lawful new trial or release from custody under that invalid judgment within the enforceable period fixed by the habeas court. The original order specified 120 days; the actual mandate and stay history must determine its operation. This merits ruling neither restarts the period nor decides the separate enforcement dispute.
+
+* **Remedial Reach:** Burdine’s invalid judgment is subject to the writ. The rule reaches the proved category of critical-stage absence, not every defendant alleging poor performance or brief distraction. Retrial is not barred by this constitutional holding.
+
+* **Practical Relief:** The habeas court must identify the existing order, effective mandate, stays, and compliance dates before enforcing retrial or release. It must require the State to demonstrate actual compliance through trial and custody records rather than offer an unperformed promise. If the enforceable condition is unmet, it must order the relief the writ requires against custody under the invalid judgment, subject to any separately lawful custody basis; it cannot silently grant a fresh 120 days or prejudge the distinct enforcement litigation.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Repeated sleeping during adverse evidence
+##### Issue 1: Functional absence during adverse evidence
 
-* **Threshold and Merits Reach:** Reach the merits under former habeas law because the accepted historical findings describe actual unconsciousness, and the dispute concerns its constitutional classification.
-* **Question Stone Resolves:** Whether repeated, not insubstantial absence of conscious representation while the prosecution adduces evidence requires presumed prejudice.
-* **Stone’s Legal Position:** Apply the existing constructive-denial principle to this established form of absence, rather than replace the ordinary ineffective-assistance standard.
-* **Stone’s Proposed Holding:** When counsel repeatedly sleeps through not insubstantial portions of the prosecution's presentation against the accused, counsel is functionally absent at a critical stage and prejudice is presumed. The defendant must prove that absence, but need not prove which unheard evidence or missed objection changed the verdict.
-* **Reach Within the Question:** The rule concerns actual loss of counsel's function during meaningful adverse proof. It does not treat every brief lapse, closed eye, tactical omission, or poor performance as denial of counsel, and does not depend solely on the capital label.
-* **Essential Reasoning and Record Application:** An unconscious lawyer cannot exercise the defense function as evidence unfolds. Earlier and later advocacy cannot reconstruct contemporaneous consultation and observation. Bell’s actual representation during sentencing differs materially from the repeated unconsciousness established here; invoking its complete-failure language cannot erase the separate critical-stage absence category. The credited evidence supplies the meaningful repeated absence; demanding a catalogue of successful responses would collapse the presumption into ordinary outcome prejudice.
-* **Boundary or Reserved Question:** No rule for an isolated moment, unrelated trial event, or merely inattentive lawyer is needed because those facts are not the established basis for this writ.
+* **Threshold and Merits Reach:** Accepted historical findings establish repeated actual sleeping while the prosecution presented its case. The legal significance of those facts is reviewable without inventing a percentage or rejecting credited neutral witnesses.
 
-##### Issue 2: Nonretroactivity and the proper habeas framework
+* **Question Stone Resolves:** Does repeated, not insubstantial unconsciousness during the prosecution’s evidence require presumed prejudice?
 
-* **Threshold and Merits Reach:** Reach the expressly presented defense at the 1987 finality date and apply the correct pre-AEDPA framework.
-* **Question Stone Resolves:** Whether the proposed application announces a new rule or implements the existing right to counsel at critical stages.
-* **Stone’s Legal Position:** Apply Carriger v. Stewart and the finality-specific standards of Caspari v. Bohlen. Treat the sleeping application as an old-rule application.
-* **Stone’s Proposed Holding:** The existing denial-of-counsel principle dictated protection against proved repeated unconsciousness during the prosecution's substantive case. Applying that principle here is not a new rule barred by Teague v. Lane; no exception to that doctrine is necessary.
-* **Reach Within the Question:** The conclusion is tied to the absence category already established at finality. It does not render every extension of presumed prejudice retroactive or dispense with collateral-review limits.
-* **Essential Reasoning and Record Application:** A lawyer's physical presence does not answer whether assistance existed. The relevant earlier principle concerned the defense function, not merely an empty chair or state-caused exclusion. Differences in the mechanism of absence do not weaken its application to actual unavailability during adverse evidence. The pre-enactment capital filing separately makes amended merits deference inapplicable.
-* **Boundary or Reserved Question:** Independent chapter 154 qualification or a separate enforcement question would need its own established record and proper presentation.
+* **Stone's Legal Position:** Apply Cronic’s existing critical-stage absence category, preserving Strickland for ordinary deficient performance.
 
-* **Precedent, Method, and Scope:** Stone applies Cronic’s critical-stage absence category by the actual availability of the defense function, not counsel’s physical location. This functional classification carries decisive weight; Bell is distinguished because meaningful contemporaneous advocacy existed there, while the proved unconsciousness here removed assistance during adverse proof. The rule is categorical only after that demanding factual predicate is established; it is not a totality test allowing poor work to accumulate into presumed prejudice. Teague separately asks what the law dictated in 1987. Stone decides the proved repeated absence and reserves an isolated lapse, avoiding a new numerical sleep threshold or a broader ineffective-assistance exception.
+* **Reach Calibration:** Intermediate. The defense function, not physical location, defines the established absence category. A broad presumption for every poor performance would collapse Strickland. A narrow empty-chair-only rule would deny protection when the present lawyer cannot provide assistance at all.
+
+* **Stone's Proposed Holding:** When counsel repeatedly sleeps through not insubstantial portions of the prosecution’s substantive case, counsel is functionally absent at a critical stage and prejudice is presumed. The petitioner must establish actual meaningful absence through the governing historical-fact process; former §2254 protects qualifying findings made by a competent state court after a merits hearing and evidenced by adequate written indicia, subject to its actual exceptions. Under paragraph (8), the pertinent produced state record as a whole must fairly support the determination. The credited neutral-witness findings and the State appellate court’s acceptance of supported historical facts satisfy the absence predicate here; disagreement with their constitutional classification is not a factual exception. Constitutional classification is independent. The petitioner need not then prove which unheard item or missed objection would have changed the verdict.
+
+* **Reach Within the Question:** Actual loss of conscious defense assistance during meaningful adverse proof, independent of the capital label. Brief lapses, closed eyes, tactical choices, and ordinary deficient work do not automatically satisfy it.
+
+* **Next-Case Guidance:** Determine actual absence before invoking the categorical consequence; otherwise apply Strickland’s performance and prejudice requirements. Do not create a numerical sleeping threshold or aggregate ordinary mistakes into presumed absence.
+
+* **Transition:** Not applicable. Stone treats this as an application of the established category, for the reasons in Issue 2.
+
+* **Essential Reasoning and Record Application:** Cronic protects the availability of counsel at critical stages. An unconscious lawyer cannot observe, consult, or respond as adverse evidence unfolds, and earlier or later advocacy does not recreate that lost assistance. Bell involved actual representation and a different claim of inadequate adversarial testing; its complete-failure language does not erase the separate critical-stage absence category. Functional availability is decisive. Requiring a catalogue of outcome-changing responses would convert the applicable presumption into the Strickland showing it replaces only after absence is proved.
+
+* **Precedent Treatment:** Apply Cronic’s critical-stage absence category and distinguish Bell’s actual advocacy. Preserve Strickland for ordinary performance claims rather than announce a general sleep or inattentiveness exception.
+
+* **Boundary or Reserved Question:** An isolated lapse or unrelated event requires materially different facts absent here. No numerical threshold is adjudicated.
+
+##### Issue 2: Old-rule application and the correct habeas framework
+
+* **Threshold and Merits Reach:** The State’s Teague objection is expressly presented. The relevant finality date is 1987, and the April 1995 filing separately forecloses automatic use of amended §2254(d).
+
+* **Question Stone Resolves:** Was this protection dictated by existing denial-of-counsel law at finality, and which habeas framework applies?
+
+* **Stone's Legal Position:** Apply Caspari’s finality-specific inquiry and Carriger’s pre-AEDPA framework; invoke no new-rule exception.
+
+* **Reach Calibration:** Narrow. The already established functional absence category answers this defined retroactivity dispute. An intermediate declaration that every presumed-prejudice extension is old law would evade Teague. Confinement to unexplained relief would leave the State’s express defense unanswered.
+
+* **Stone's Proposed Holding:** Applying the established right to counsel at critical stages to proved repeated unconsciousness during adverse evidence is an old-rule application, not a new rule barred by Teague. The controlling inquiry asks what precedent dictated when this conviction became final, not whether an earlier reported case used the same sleeping facts. Cronic’s functional protection supplied that answer by 1987. Because the application predates AEDPA, amended §2254(d)’s unreasonable-application restriction does not govern absent an independently applicable statutory basis.
+
+* **Reach Within the Question:** This absence category and filing posture, preserving genuine new-rule restrictions and other independently applicable collateral requirements.
+
+* **Next-Case Guidance:** Use the actual finality date to identify governing precedent and the filing/qualification facts to select the habeas statute. A separately claimed chapter 154 basis requires proof of its legal and factual prerequisites; it is not inferred from the capital sentence.
+
+* **Transition:** Not applicable. No new constitutional rule or new exception is adopted.
+
+* **Essential Reasoning and Record Application:** Caspari requires identifying finality and asking whether existing law dictated the requested result. Cronic’s concern was assistance, not an empty chair or a state-caused obstacle; actual unconsciousness falls within that established function. Carriger’s pre-enactment framework separately governs this filing. The two inquiries do different work: old-law classification defeats the presented nonretroactivity defense, while filing chronology selects the merits-review regime. Neither supplies a new default, an automatic evidence hearing, or authority to restart the writ deadline. Early and Visciotti address amended §2254 review of actual constitutional reasoning and supported records. Stone distinguishes their statutory posture rather than applying their unreasonable-application gate to this April 1995 petition. Their recognition that wording or lack of a factual twin is not dispositive supplies no substitute for proving that Cronic already dictated the relevant protection at 1987 finality; the old-rule conclusion rests on that earlier authority.
+
+* **Precedent Treatment:** Reaffirm Teague and Caspari’s finality inquiry and apply Cronic as existing law. Apply Carriger’s pre-AEDPA framework without importing amended merits deference. Distinguish Early and Visciotti’s amended-statute posture; preserve their holdings without importing them as the constitutional law at 1987 finality or displacing former §2254.
+
+* **Boundary or Reserved Question:** A separately established chapter 154 qualification or the actual enforcement of the 120-day order requires its own record and proper presentation; the merits judgment does not decide those distinct disputes.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -180,28 +213,45 @@ Even under the substantial-question standard, reversal or remand could follow if
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
-#### A. DECISIONAL POSTURE
+#### A. LEGAL POSTURE
 
-* **Governing Law:** Law effective through June 28, 2002. Stone’s proposed resolution below is distinct from the rules already controlling the case.
+The issue is provisional relief, not final validity. Sections282 and283 must operate together, and the same legally justified claim scope governs infringement and the validity defense.
 
 #### B. JUDGMENT AND REMEDY
 
-* **Stone’s Controlled Judgment or Disposition:** Affirm the Federal Circuit's vacatur of the preliminary injunction and remand for further proceedings.
-* **Stone’s Remedy and Remand Position:** The challenged interim restraint remains vacated. Amazon retains the patent and may litigate infringement and validity under the proper final burdens; Barnesandnoble.com receives no final declaration of invalidity. Any later request for interim relief must rest on the then-supported record and all required equitable elements, not automatic reinstatement.
+* **Stone's Controlled Judgment or Disposition:** Affirm vacatur of the preliminary injunction and remand for further proceedings.
+
+* **Stone's Remedy and Remand Position:** Keep the challenged interim restraint vacated. Amazon retains its patent and may litigate infringement; Barnesandnoble.com receives no final invalidity judgment. A renewed interim request needs a materially supported record and every required equitable predicate, not reinstatement from the presumption alone.
+
+* **Remedial Reach:** The preliminary restraint against this accused infringer is removed. Neither the patent’s final status, absent parties’ liability, nor business-method eligibility is adjudicated.
+
+* **Practical Relief:** The receiving court must implement dissolution of the interim restraint and proceed with claim construction, discovery, and merits adjudication under the final burdens. Before granting any renewed preliminary order, it must explain how the supported validity question has been answered and decide the remaining equitable predicates. Continued assertion of the patent is not contempt of this ruling; reimposing the same restraint without curing the identified likelihood defect would not comply.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: Substantial validity questions and interim relief
+##### Issue 1: Trial validity burdens and preliminary likelihood
 
-* **Threshold and Merits Reach:** Reach the burden question and its preliminary application. The patent's presumptive validity is not a jurisdictional obstacle to evaluating the strength of a supported defense.
-* **Question Stone Resolves:** Must an accused infringer prove invalidity by clear and convincing evidence before its defense can defeat a preliminary injunction?
-* **Stone’s Legal Position:** Resolve the open preliminary-relief issue consistently with the statute and existing claim-construction law. Preserve rather than reduce the final invalidity burden.
-* **Stone’s Proposed Holding:** No. A defendant may defeat the patentee's necessary likelihood showing by raising a substantial, evidence-supported anticipation or obviousness question that the patentee does not show lacks substantial merit. The court evaluates that question in light of the trial presumption and burden, but need not find actual invalidity. The references here raise such a question under the proper claim scope, so the injunction cannot stand.
-* **Reach Within the Question:** The rule governs provisional relief, claim by claim. It does not require the patentee to prove validity beyond doubt, shift the ultimate trial burden, or allow speculative defenses to defeat otherwise justified relief.
-* **Essential Reasoning and Record Application:** An interim order restricts a competitor before full adjudication. Section 282 informs the forecast of likely success; it does not eliminate the forecast. The prior-art question must be assessed against the public claim, without narrowing validity to a preferred commercial embodiment while using broader language for infringement. CompuServe Trend and the additional ordering references provide concrete grounds requiring trial resolution. The present judgment therefore denies an injunction while leaving the patent's final status open.
-* **Boundary or Reserved Question:** Final anticipation, obviousness, damages, and general business-method eligibility are outside the presented question or require the fuller merits record. No final ruling on the other injunction factors is necessary after the required merits showing fails.
+* **Threshold and Merits Reach:** Statutory interlocutory review permits the burden question. The present likelihood failure resolves this injunction without a final ruling on the other equitable factors.
 
-* **Precedent, Method, and Scope:** Stone reconciles §§282 and 283 rather than weakening either: the trial presumption informs the probability assessment, while equitable interim relief still requires the applicant’s sufficient likelihood showing. That statutory distinction is decisive. Markman and Vitronics require the same legally justified claim scope on infringement and validity; they do not turn a preliminary finding into a final judgment. Anticipation concerns a single qualifying prior-art reference disclosing every claimed limitation; obviousness concerns whether the claimed subject matter as a whole would have been obvious to a person of ordinary skill at the governing time. The concrete supported challenge defeats this injunction without deciding either ultimate defense or general business-method eligibility.
+* **Question Stone Resolves:** Must the accused infringer prove invalidity by clear and convincing evidence merely to defeat preliminary relief?
+
+* **Stone's Legal Position:** Resolve the open interim application while preserving the final statutory presumption and burden.
+
+* **Reach Calibration:** Intermediate. A substantial supported defense defeats the necessary likelihood showing without deciding the patent’s final fate. A broad invalidity judgment would exceed this preliminary record. A narrow unexplained vacatur would leave the mistaken interim proof burden intact.
+
+* **Stone's Proposed Holding:** An accused infringer defeats the patentee’s necessary preliminary likelihood showing by raising a substantial, evidence-supported validity question that the patentee does not show lacks substantial merit; it need not establish actual invalidity by clear and convincing evidence at that stage. The patentee bears the preliminary-relief burden, while §282’s presumption and the ultimate clear-and-convincing invalidity standard inform the likelihood assessment and remain intact for trial. The concrete ordering references here raise the requisite substantial question under the proper claim scope.
+
+* **Reach Within the Question:** Claim-specific provisional relief, excluding speculative defenses and any requirement that the patentee prove validity beyond doubt. Final anticipation and obviousness remain distinct defenses.
+
+* **Next-Case Guidance:** Use one justified construction for infringement and validity. Anticipation requires one qualifying reference disclosing every limitation; obviousness concerns the claimed subject matter as a whole under the governing merits test. Resolve those final questions and any damages at trial under their actual burdens rather than convert substantial preliminary doubt into final invalidity.
+
+* **Transition:** Not applicable. The open provisional-relief construction displaces no identified entering controlling rule and does not alter the final invalidity burden.
+
+* **Essential Reasoning and Record Application:** Section 282 informs the forecast of probable merits success; §283 still requires justified equitable interim relief. Treating the trial presumption as an entitlement to restraint would eliminate that forecast. Markman locates claim construction in its proper legal role, and Vitronics requires the justified public claim scope rather than the patentee’s preferred commercial embodiment. The CompuServe Trend and related references raise a concrete issue under that scope. Statutory fit is decisive; avoiding unwarranted provisional exclusion confirms the distinction without lowering the trial burden.
+
+* **Precedent Treatment:** Reconcile §§282 and283 while preserving both. Apply Markman and Vitronics to consistent claim construction; no final anticipation, obviousness, or general eligibility precedent is expanded.
+
+* **Boundary or Reserved Question:** Final invalidity and damages require the fuller merits record; general business-method eligibility is outside the presented question. Other injunction factors are unnecessary to decide once this required likelihood showing fails.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -239,7 +289,7 @@ Even under the substantial-question standard, reversal or remand could follow if
 #### B. LAW ENTERING THE CASE
 
 * **Current Through:** Law effective through June 28, 2002. A later October Term 2002 position becomes controlling only upon an actual decision; a historical comparator supplies no intervening holding.
-* **Earlier Relevant Decisions:** Saucier v. Katz retains the distinct Harlow–Anderson objective immunity inquiry and imposes no compulsory merits-first sequence. Hope v. Pelzer confirms that sufficiently particular preconduct law can give fair warning through an obvious application without a previously litigated factual replica. Hope’s 2002 decision supplies the current method, not new notice for the officers’ April 1996 conduct.
+* **Earlier Relevant Decisions:** Denius v. Dunlap expressly retains objective conduct-date notice as the personal-damages standard and rejects a requirement that the officer prove actual reliance on binding authorizing law. Wilson v. Layne applies that defense to the particular media-entry conduct. Saucier v. Katz requires the distinct existing Harlow–Anderson inquiry without imposing a compulsory merits-first sequence. Hope v. Pelzer confirms that sufficiently particular preconduct law can give fair warning through an obvious application without a previously litigated factual replica. Hope’s 2002 decision supplies the current method, not new notice for the officers’ April 1996 conduct.
 * **Institutional or Procedural Law:** Separate jurisdiction over legal immunity questions, the assumed facts, constitutional reasonableness, and conduct-date clarity. The absence of physical injury does not by itself determine whether an intentional firearm-backed restraint was an unreasonable seizure or whether compensable injury exists.
 
 ##### Issue 1: Review of the decision to employ overwhelming force
@@ -286,27 +336,71 @@ On continued force, Davis invokes the uncertainty of entry and possible interfer
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
-#### A. DECISIONAL POSTURE
+#### A. LEGAL POSTURE
 
-Governing law through June 28, 2002. The position below identifies any proposed change to that law and rests on the facts and procedural assumptions properly available in this case.
+Apply Fourth Amendment reasonableness to the actual force and preserve Johnson v. Jones’s limits on interlocutory factual review. Stone expressly proposes replacing the freestanding objective legal-uncertainty defense with a defined reasonable-reliance defense, including overruling Denius’s contrary immunity rule. Saucier retained the existing defense and did not adopt that proposal.
 
 #### B. JUDGMENT AND REMEDY
 
-Affirm denial of summary judgment on the supported continued-gunpoint claim against Davis. Vacate the deployment-immunity disposition and remand for the complete Fourth Amendment merits inquiry and the narrower personal defense proposed below. Preserve genuinely disputed facts, individual participation, causation, and damages for lawful adjudication; do not order a verdict, assume a trial is necessary, or reopen the ungranted knock-and-announce questions.
+* **Stone's Controlled Judgment or Disposition:** Affirm denial of summary judgment on the supported continued-gunpoint claim against Davis. Vacate the deployment-immunity disposition and remand for the complete force inquiry and the proposed personal defense.
+
+* **Stone's Remedy and Remand Position:** Require defendant-specific adjudication of the supported deployment and continued-restraint claims, actual participation, causation, compensable injury, and any lawful personal defense. Decide on summary judgment where the record permits; genuine material disputes follow ordinary factfinding. Order no verdict, damages amount, mandatory trial despite undisputed dispositive facts, or reopening of the ungranted knock-and-announce claim.
+
+* **Remedial Reach:** The identified plaintiffs’ supported force claims receive adjudication. No unproved class or departmental policy is declared unlawful, and supervisors do not become liable through rank or presence alone. The absence of a physical wound does not foreclose a proved unreasonable seizure, an otherwise supported compensable injury, or available nominal relief for a proved violation without compensable loss.
+
+* **Practical Relief:** The lower court must separate the planning choice from subsequent execution, use the proper plaintiff-favorable account for disputed facts at summary judgment, and identify each official’s causal conduct. Officials must have an opportunity to prove the proposed reliance defense. If a claim survives its actual legal and factual defenses, the court must adjudicate it and any causally supported relief; if not, enter the corresponding defendant-specific judgment. A valid warrant or customary tactic alone cannot supply the missing force justification or reliance defense.
 
 #### C. ISSUE POSITIONS
 
-**The planned level of force is part of the seizure.** Graham's inquiry reaches the officers' contemporaneous choice of a heavily armed operation as well as weapons pointed after entry. A warrant does not authorize any level of force useful to execute it. The offense, actual known danger, presence of children and other nonthreatening people, resistance, feasible precautions, and officers' available information must be evaluated together. The law does not require the least intrusive imaginable tactic, but neither does the word tactical remove planning from constitutional review.
+##### Issue 1: Planned force and continuing justification
 
-Once officers can reasonably recognize that a child or other person poses no threat and is controlled, continued aiming of weapons requires its own justification. A danger that justified the entry does not automatically persist against every person throughout the operation. Davis's own supported conduct must be separated from mere presence, and supervisors answer only for an established personal causal role under the governing law.
+* **Threshold and Merits Reach:** The appeal permits legal review of reasonableness on the supported nonmovant facts. It does not authorize resolving disputed threat intelligence or Davis’s contested personal participation under an immunity label.
 
-**One full reasonableness inquiry, followed by a narrow legal-reliance defense.** I would expressly narrow Harlow and Anderson insofar as their clearly-established-law defense excuses a proved constitutional violation merely because no materially similar opinion had yet described it. The substantive force rule already accounts for urgency, available information, and reasonable factual mistakes. Repeating those allowances after a violation is established makes an enforceable right depend on the accident of prior litigation.
+* **Question Stone Resolves:** Does the deployment decision fall within Fourth Amendment review, and may direct gunpoint restraint continue against compliant nonthreatening children after control?
 
-An individual defendant may instead establish identified binding precedent or enacted authority directly authorizing the challenged conduct, genuine reliance, and a reasonable basis for treating that authority as valid and applicable. Legal silence, customary tactics, a supervisor's assurance, and general warrant authority do not supply that defense. An unexpected change in genuinely authorizing law may. The defense concerns individual damages only and does not create a cause of action or erase municipal, prospective, or other separately authorized relief.
+* **Stone's Legal Position:** Apply Graham’s objective force inquiry to planning immediately organizing the seizure and to the changing justification during execution.
 
-Saucier left the existing objective defense operative and did not adopt this replacement; I propose the change openly. Section 1983's accountability function and the complete substantive reasonableness inquiry carry decisive weight. On remand the officials may establish any actual legal-reliance defense under ordinary procedure, without invented authority or automatic liability.
+* **Reach Calibration:** Intermediate. Review of the actual planned and continuing force prevents a tactical label from excluding part of the seizure. A broad least-intrusive-tactic requirement would replace reasonable judgment with hindsight. A narrow entry-only inquiry would ignore continuing restraint after the danger has ended.
 
-**Alternative disposition.** If existing objective immunity remains controlling, apply 1996 law at the actual specificity of the supported conduct and assess deployment without a categorical exemption. Retain the continued-gunpoint ruling and remand the deployment component on the nonmovants' supported facts. A factual twin is unnecessary, but later decisions cannot supply earlier notice; this alternative preserves the former narrower disposition without treating departmental custom as constitutional authority.
+* **Stone's Proposed Holding:** The Fourth Amendment’s objective-reasonableness requirement governs the degree of force deliberately organized to execute a seizure and requires renewed justification for direct firearm restraint once officers can reasonably recognize that a person is controlled and nonthreatening. Plaintiffs must prove each defendant’s participation, unreasonable force, and causation of the constitutional deprivation by a preponderance at trial; at summary judgment supported disputes are viewed in their favor. Compensatory recovery separately requires proved causal loss, while inability to establish compensable loss does not itself defeat a proved violation or otherwise available nominal relief. Severity, known danger, resistance, presence of children, feasible precautions, and available information inform reasonableness without creating a least-intrusive-means requirement. The supported continued-gunpoint account permits the claim against Davis, and deployment requires the same complete inquiry.
+
+* **Reach Within the Question:** The actual planning of seizure force and its continuation, not every remote departmental decision or unforeseeable later act. Each official’s own causal conduct remains necessary.
+
+* **Next-Case Guidance:** Reassess justification as officers obtain control; initial danger is not automatically a continuing justification against every occupant. Apply Johnson v. Jones to factual disputes and distinguish legal review on assumed facts from appellate factfinding.
+
+* **Transition:** The extension to the actual deployment decision governs this and other nonfinal civil cases; final judgments and separate remedial prerequisites remain intact. The proposed personal-defense transition is stated in Issue 2 rather than treating later case law as conduct-date notice.
+
+* **Essential Reasoning and Record Application:** Graham requires the actual circumstances of force; Garner confirms that manner matters, and Summers permits reasonable execution-related control rather than unlimited threats. Wilson distinguishes a warrant’s authorization from every manner of execution. These principles fit one continuing objective-reasonableness inquiry, with planning included when it directly determines the degree of seizure force. The alleged offense and disputed danger do not justify appellate findings either way. Functional connection to the seizure is decisive; separate participation and changing threat facts determine application. Carey’s distinction between an established wrong and compensable injury preserves nominal relief without authorizing presumed compensatory loss.
+
+* **Precedent Treatment:** Apply Graham, Garner, Summers, and Wilson through one continuing-force inquiry and extend it to the actual deployment decision. Reaffirm Johnson v. Jones’s jurisdictional boundary and reject respondeat superior. Preserve Carey’s distinction between a proved deprivation, nominal relief, and actual compensatory loss.
+
+* **Boundary or Reserved Question:** Disputed threat intelligence, participation, duration, and injury require factfinding. Knock-and-announce is outside the grant; no finding about it is implied.
+
+##### Issue 2: A defined legal-reliance defense after a proved violation
+
+* **Threshold and Merits Reach:** Immunity is expressly before the Court. The legal defense may be defined while genuine historical disputes remain below; neither merits nor immunity supplies jurisdiction to reweigh them.
+
+* **Question Stone Resolves:** What personal defense should remain after unreasonable force is proved, and how does it govern these claims?
+
+* **Stone's Legal Position:** Replace Harlow and Anderson’s objective legal-uncertainty defense with the defined actual-authoritative-reliance defense; expressly overrule Denius’s contrary immunity holding and displace that defense in Wilson and Hope to the same extent. Preserve the existing objective rule as the narrower fallback.
+
+* **Reach Calibration:** Broad. A full reasonableness inquiry already protects reasonable factual judgments, making enforceability depend on more than the accident of a prior factual twin. A sweeping elimination of every personal defense would disregard genuine legal authorization. An intermediate reliance on legal silence would preserve the accountability gap Stone proposes to remove.
+
+* **Stone's Proposed Holding:** After a plaintiff establishes the constitutional violation, an individual official may avoid damages through legal reliance only by proving identified binding precedent or enacted authority directly authorizing the challenged conduct, genuine reliance, and an objectively reasonable basis for treating that authority as valid and applicable. The official bears that affirmative defense by a preponderance of the evidence; courts independently decide the legal content of the asserted authority. Silence, customary tactics, general warrant authority, and a supervisor’s assurance are insufficient. Defendants here must be permitted to establish any actual qualifying reliance without automatic liability or an invented source of permission.
+
+* **Reach Within the Question:** Individual damages for established violations. The rule does not create a cause of action, dispense with factual reasonableness, establish municipal liability, or eliminate independent limits on prospective relief.
+
+* **Next-Case Guidance:** Identify the actual authority and connection to the conduct before evaluating reliance. A genuine unexpected change in directly authorizing law may support the defense; uncertainty about how a general prohibition applies is not itself authorizing law.
+
+* **Transition:** If adopted, the proposed defense applies to this and other nonfinal civil cases under Harper, with a fair opportunity to establish actual reliance concerning earlier conduct. Reynoldsville permits independently valid remedies and defenses but not selective nonapplication based on generalized reliance. Final judgments are not automatically reopened and collateral vehicles retain their own limits. The fallback instead measures notice under April 1996 law.
+
+* **Essential Reasoning and Record Application:** Harlow and Anderson presently protect objective legal uncertainty. Denius expressly held that officials need not prove actual reliance on binding authority permitting the challenged act; Wilson granted immunity on conduct-date uncertainty, and Hope retains objective fair warning without requiring consultation or a factual replica. Saucier required existing-law immunity analysis and did not adopt Stone’s replacement. Stone therefore proposes an express change, not a different application of a rule already adopted. Graham accounts for urgency, available information and reasonable factual mistakes when determining whether force is unconstitutional. After an unreasonable seizure is proved, §1983’s accountability function supports protecting genuine reasonable reliance on authorizing law rather than continuing a defense based solely on uncertainty. The new defense gives each defendant an opportunity to identify and prove that reliance; a warrant’s general search authority and customary SWAT practices authorize no otherwise unreasonable degree of force. Denius’s separate privacy and legal-consultation protections and Wilson’s warrant-execution rule remain intact. Under the fallback, Elder requires all pertinent preconduct authority, including McDonald and Baker; Hope explains the present method but cannot manufacture April 1996 notice.
+
+* **Precedent Treatment:** Replace Harlow and Anderson’s uncertainty defense as stated. Overrule Denius’s holding that actual reliance on authorizing law is unnecessary, and displace Wilson and Hope’s objective defense to the extent inconsistent with that replacement, preserving their substantive-right and individual-responsibility holdings. Saucier supplies no prior adoption of the new rule. Elder’s relevant-authority inquiry and Hope’s no-factual-twin principle continue to govern the fallback, using only law available before the challenged conduct.
+
+* **Boundary or Reserved Question:** Any claimed actual reliance and the defendant-specific factual predicates require the record below; other causes of action and the ungranted execution claims are outside review.
+
+* **Conditional Position or Fallback:** If objective immunity remains controlling, retain the supported continued-gunpoint ruling and remand deployment under the actual April 1996 legal and factual circumstances. A factual twin is unnecessary, but later decisions supply no earlier notice and no categorical deployment exemption follows.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
@@ -341,9 +435,11 @@ Saucier left the existing objective defense operative and did not adopt this rep
 
 #### B. LAW ENTERING THE CASE
 
-**Current Through:** June 28, 2002, subject to actual intervening decisions.
+**Current Through:** June 28, 2002 baseline, supplemented by the relevant decided events below through March 24, 2003. Only decisions effective before this event enter its law; same-date events do not govern one another.
 
-**Financed Function:** Agostini, Mitchell, Jackson, Strout and Zelman distinguish a genuinely separable secular service from a public purchase of integrated devotional work. Neutral eligibility is not sufficient to validate the latter. Religious identity, possible diversion and incidental institutional savings are not sufficient to establish it. Effective controls and operational separation matter; neither wholly separate staff nor separate corporate governance is categorically required.
+* **Earlier Same-Term Decisions:** Steele (March 3, 2003) requires financed-function review despite the municipal-project-bond form, preserving lawful secular financing and correcting proved devotional financing on supported uses and practical restrictions. Commack (March 24, 2003) permits civil review of truthful attribution, actual practices and material factual misrepresentation but forbids religious orthodoxy as a civil rule or compulsory religious-office permission. Those holdings bear on the funded work and administration of safeguards here; neither decides this college’s entitlement or makes its secular course labels conclusive.
+
+**Financed Function:** Lemon remains governing as modified by Agostini: purpose, effects and entanglement are evidence within one inquiry, not independent or fallback prongs. A controlling specific prohibition or distinct doctrine governs when it resolves the conduct; an established permissible relationship defeats the objection on that ground; otherwise a legally sufficient unresolved claim receives ordinary attribution-and-function review. In financing, identify what the government purchases or performs rather than attribute all of the recipient’s religion to it. Agostini, Mitchell, Jackson, Strout and Zelman distinguish a genuinely separable secular service from a public purchase of integrated devotional work. Neutral eligibility is not sufficient to validate the latter. Religious identity, possible diversion and incidental institutional savings are not sufficient to establish it. Effective controls and operational separation matter; neither wholly separate staff nor separate corporate governance is categorically required.
 
 **Equal Eligibility:** K.D.M. prohibits a religious-site disability in consideration for an independently controlled secular service where comparable secular locations are eligible. Good News Club and Rosenberger protect private expression in their actual forums; a direct higher-education grant is not automatically the same kind of expressive forum. Lukumi supplies the justification inquiry for an express religious disability. Constitutional permission to fund a service and a statutory or constitutional entitlement to equal consideration remain distinct.
 
@@ -371,37 +467,69 @@ Columbia Union College v. Oliver, 254 F.3d 496, including the reported trial fin
 
 #### A. LEGAL POSTURE
 
-Stone would protect the public-financing boundary by examining the actual service and would reject religious identity as a substitute for that examination. The following is his proposed position on this grant, including its enforceable secular-use conditions.
+Stone applies the actual-funded-function boundary and proposes extending equal consideration to this defined grant. Religious identity and neutral allocation are each insufficient to decide legality. The bench findings receive clear-error review; their constitutional significance is independently reviewed.
 
 #### B. JUDGMENT AND REMEDY
 
-Affirm the college's eligibility for the specified secular-program assistance under the existing use restrictions, accounting and audit requirements. Reject any reasoning that absence of a past disbursement automatically forecloses prospective establishment review, or that neutral allocation alone establishes constitutionality. The grant remains subject to lawful statutory implementation; no unconditional $806,079 treasury award, unrestricted operating subsidy or immunity from later compliance review is ordered.
+* **Stone's Controlled Judgment or Disposition:** Affirm eligibility for the identified secular-program assistance under enforceable use restrictions, accounting, and audit conditions. Reject both an automatic no-past-payment safe harbor and neutrality alone as sufficient constitutional justification.
 
-If the operative decree purports to guarantee assistance regardless of the actual funded function or compliance, narrow it to equal consideration and payment under lawful, effective conditions. A supported material deficiency in the existing findings would require the limited remand described below, not an institution-wide disqualification.
+* **Stone's Remedy and Remand Position:** Require equal consideration and lawful grant administration for the specified programs. Narrow any decree purporting to guarantee payment regardless of funded function or compliance. Order no unconditional $806,079 treasury payment, unrestricted operating subsidy, or immunity from future review. If a material existing finding actually fails to establish separability, use the limited remand below before payment for the unresolved work.
+
+* **Remedial Reach:** The college receives equal eligibility for the identified work, with the same neutral program conditions and effective no-devotional-use restriction. No general entitlement to public support for religious education or unproved program-wide award follows. The legal rule governs comparable independently identifiable secular work without making every institution or course eligible by label.
+
+* **Practical Relief:** On the mandate, Maryland must give the identified programs the equal grant treatment required by the affirmed eligibility determination. It must identify any remaining neutral program condition and the applicable decision and disbursement dates; it cannot restart the rejected institution-wide religious inquiry or indefinitely postpone treatment already due. If implementation remains disputed, the district court must set a reasonable record-based compliance schedule and require the State’s eligibility determination, cost allocation and payment or lawful withholding explanation. Noncompliance warrants enforcement of that order within the actual program and constitutional remedy, not an automatic unconditional treasury award. The State must identify the services and costs financed and use lawful accounts, affidavits and audit authority to verify compliance. A supported departure requires correction, suspension or other relief the program and law authorize, fitted to the actual misuse; religious affiliation alone cannot trigger it. If a genuine separability gap remains, the court must specify the missing program finding and resolve it before authorizing funds for that work, rather than order another institution-wide religiosity inquiry. Under Commack, compliance review must concern funded conduct, costs and truthful representations; it may not turn an official’s view of Adventist orthodoxy or a religious officer’s permission into a civil eligibility condition.
 
 #### C. ISSUE POSITIONS
 
-##### Issue 1: A strong financing rule protects separable secular work as well as forbidding devotion
+##### Issue 1: A financed secular service must be identifiable in operation
 
-Stone would state a general rule that public assistance must be classified by its funded function, not by how religious a recipient is. Government may not finance integrated devotional formation, including ordinary subjects used as an inseparable means of that formation. It may finance independently identifiable secular work under reliable controls even when the institution separately conducts worship and religious instruction. The second proposition makes the first principled rather than a rule against religious people.
+* **Threshold and Merits Reach:** The denied grant creates an actual injury, and the specified programs, restrictions, and bench findings permit review before any disbursement. No payment is required merely to make a foreseeable financing defect reviewable.
 
-The requested programs, statutory restriction, audit authority and expenditure accounting are concrete. The favorable underlying findings about ordinary courses remain subject to clear-error review; an appellate court cannot replace them with an assumption that denominational governance makes every lesson devotional. Their legal significance is reviewed independently. Here the record supports secular program work rather than unrestricted payment for the institution's integrated religious education. Privately financed religious requirements elsewhere on campus do not establish that this identified grant purchases them.
+* **Question Stone Resolves:** Do the requested programs and safeguards constitute separable secular work that may receive the specified assistance?
 
-##### Issue 2: Enforceable separation is required before payment, without demanding past misuse
+* **Stone's Legal Position:** Apply Agostini’s modified Lemon test and its financing applications; reject institution-wide presumptions and the inference that no prior payment guarantees constitutionality. No independent-prong test or new replacement framework is adopted.
 
-Stone rejects the proposition that a State must first pay and then prove diversion before it may recognize a financed religious function. A proposed curriculum, contractual duty or inseparable operation can establish the problem prospectively. The absence of prior funds is therefore no constitutional safe harbor. At the same time, officials may rely on supported program facts and legally effective controls without presuming dishonesty because the recipient is religious.
+* **Reach Calibration:** Broad. One actual-function rule addresses both recurring mistakes: financing devotion under neutrality and excluding separable secular work because of affiliation. A sweeping entitlement to unrestricted operating aid would omit the necessary function and controls. An intermediate institution-specific exception would perpetuate the same mistaken proxy elsewhere.
 
-The controls must identify the services and costs paid, preserve the secular boundary in operation and permit ordinary review. A general affidavit unsupported by the activity it describes would not cure an integrated devotional product. Here the statutory exclusion, specified programs, accounts and trial findings work together. Stone would preserve their enforcement rather than declare that higher education is exempt from establishment scrutiny. A later proved departure can support appropriately confined suspension, correction or other authorized relief.
+* **Stone's Proposed Holding:** Public assistance may finance independently identifiable secular work under effective controls, but may not purchase integrated devotional formation, including ordinary subjects inseparably serving that formation. The applicant must establish the requested work, eligible costs, and compliance with lawful program conditions; the State must identify any supported operational reason the funds would finance prohibited religious work rather than presume it from affiliation. Underlying trial findings are reviewed for clear error, while separability’s legal significance is independently assessed. The identified mathematics, computing, laboratory, respiratory-care, and nursing programs and the supported safeguards satisfy the rule on this record.
 
-**Precedent and decisive method:** Reaffirm Agostini, Mitchell and Zelman at their actual functional limits; distinguish restricted secular courses from the integrated tuition purchased in Jackson and Strout. Reconcile Roemer's permissible separability with the later rejection of identity-based presumptions. The legal program design and supported operational findings combine, with the actual funded function decisive.
+* **Reach Within the Question:** The actual services and costs purchased, not the college’s overall religious intensity. Separate corporate governance or wholly separate staff is not invariably required, while a label or unsupported assurance does not establish operational separation.
 
-##### Issue 3: Equal eligibility and the narrower alternative
+* **Next-Case Guidance:** A curriculum, contract, or inseparable proposed operation may establish prohibited financing before payment. Conversely, isolated religious references, independent worship requirements, or incidental institutional savings do not alone establish that the identified grant purchases devotion. Any material operational gap requires findings under this same test rather than waiting for a new legal rule.
 
-Once the identified work is genuinely secular and otherwise eligible, an establishment defense cannot justify exclusion solely because the institution is religious. K.D.M.'s distinction between religious location and the independent service supports extending equal consideration to this defined grant. The State retains ordinary neutral grant criteria and may enforce the no-devotional-use condition. This is not a general constitutional entitlement to state support for every private educational choice.
+* **Transition:** Not applicable. This restates the entering funded-function boundary rather than displacing it.
 
-The narrower alternative would vacate only for an explicit finding that the specified programs are operationally separable under the actual-function standard, retaining equal eligibility while preventing payment for any unresolved inseparable religious work. That remand is appropriate if the existing findings establish only a global description of the college and do not determine the funded programs. Stone prefers affirmance because the reported trial findings and program-specific request already address the material distinction. Requiring another trial merely to classify the college's overall religious intensity would repeat the wrong inquiry.
+* **Essential Reasoning and Record Application:** Agostini and Mitchell require attention to the service and effective controls; Jackson and Strout reject public purchase of integrated devotional education; Zelman preserves the actual financing boundary rather than making neutral choice conclusive. These decisions apply the single modified Lemon inquiry, with Roemer, Hunt, and Tilton’s supported separability principles read consistently with it. Its specific devotional-financing prohibition would control proved integrated religious work; an established permissible secular-service relationship would defeat that objection. For this disputed restricted cash grant, the actual programs and controls must establish the relationship rather than an automatic analogy from public staffing, a private speech forum or parental choice. The bench findings and enforceable restrictions supply that determination here; a secular purpose alone would not. The trial findings concern the ordinary courses and are not undone by denominational governance or privately funded worship elsewhere. Statutory exclusions, accounts, audits, and program findings work together. Actual funded function is decisive; legal design and operational evidence establish it rather than substitute for it. Steele now requires the same financed-function inquiry even when assistance takes the form of project bonds. The direct grant here likewise turns on supported use and effective restrictions; the financial vehicle does not bypass the rule. Steele’s preservation of lawful secular financing also means that a possible future misuse is not grounds to withhold the already supported secular work indefinitely. An actual compliance defect must be addressed through the defined corrective process rather than renewed categorical exclusion. Commack distinguishes civil verification of actual practice from compulsory governmental orthodoxy. Applied to these controls, that distinction permits auditing secular expenditures while forbidding eligibility or compliance judgments based on whether the college is sufficiently orthodox or sufficiently nonreligious by official theological judgment.
 
-The broad rule is worth stating because both errors recur: using neutrality to excuse devotional financing and using affiliation to forbid secular services. The Constitution requires neither. It requires a lawful public function, meaningful separation and equal treatment within those limits.
+* **Precedent Treatment:** Reaffirm Lemon as modified by Agostini and apply Mitchell, Jackson, Strout and Zelman at their actual financing scope; do not replace the controlling three-route inquiry or restore separate purpose, effect and entanglement prongs. Preserve Roemer, Hunt, and Tilton’s supported separability reasoning while rejecting an institution-wide identity presumption inconsistent with the later holdings. Apply Steele’s financed-function holding to the different funding mechanism and Commack’s civil-fact/religious-orthodoxy distinction to administration of grant safeguards; neither supplies an automatic award.
+
+* **Boundary or Reserved Question:** Clergy formation, unrestricted operating assistance, and different programs are outside the identified grant; no damages or unconditional amount is adjudicated.
+
+##### Issue 2: Equal consideration for otherwise eligible secular work
+
+* **Threshold and Merits Reach:** Once the funded function satisfies the constitutional boundary, the State’s religious-character exclusion remains a distinct injury requiring a complete answer, not merely permission to fund.
+
+* **Question Stone Resolves:** May Maryland exclude this otherwise eligible applicant solely for its religious character, and what enforceable grant treatment follows?
+
+* **Stone's Legal Position:** Extend K.D.M.’s independent-service/location distinction to equal consideration for this defined grant, preserving the no-devotional-financing condition and neutral statutory eligibility.
+
+* **Reach Calibration:** Intermediate. The extension protects equal access to a defined secular public function without creating a general subsidy right. A broad entitlement to finance every private educational choice would exceed the program and constitutional boundary. A narrow permission-only statement would leave the actual discriminatory denial unresolved.
+
+* **Stone's Proposed Holding:** When an applicant’s independently identifiable secular work satisfies the program’s lawful requirements and the constitutional financing boundary, religious affiliation alone cannot justify denying equal consideration and payment otherwise required by that program. The college must establish the ordinary eligibility and lawful funded function; a State imposing an express religious disability bears Lukumi’s strict-scrutiny burden: it must establish a compelling governmental interest and a restriction narrowly tailored to advance that interest, addressing feasible less restrictive means. It may not rely on establishment concerns that the supported secular function and effective controls do not present. Maryland retains neutral criteria and enforceable use restrictions, but its identity-only ground fails here.
+
+* **Reach Within the Question:** Equal treatment for this defined assistance, not a general entitlement to state support or an exemption from restrictions against financing devotion.
+
+* **Next-Case Guidance:** Distinguish permission to finance a service from a statutory or constitutional entitlement to equal consideration. Enforce supported use restrictions after and before payment; neither equal treatment nor affiliation immunizes later misuse.
+
+* **Transition:** The proposed equal-consideration extension governs this and other nonfinal civil cases within its scope under Harper. It does not reopen final grant judgments, create retrospective treasury damages, or dispense with independently valid remedial and program requirements; those remain separate under Reynoldsville.
+
+* **Essential Reasoning and Record Application:** K.D.M. distinguishes the independently controlled secular service from its religious site; that reasoning extends to this identified grant because affiliation is being used to disqualify otherwise lawful work. Rosenberger and Good News Club protect private expression in their own settings but do not turn a direct institutional grant into an expressive forum. Lukumi requires compelling justification and narrow tailoring for an express religious disability; the governing K.D.M. holding applies those requirements to unequal eligibility for a separable secular service. The supported funded function removes the asserted establishment justification here, while the State’s audit and use restrictions remain enforceable. Equality within the lawful function is decisive; it does not weaken the financing boundary.
+
+* **Precedent Treatment:** Extend K.D.M.’s service/location distinction to this defined grant. Apply Lukumi’s justification principle; distinguish Rosenberger and Good News Club’s forum settings. Preserve rather than override the funded-function precedents in Issue 1.
+
+* **Boundary or Reserved Question:** Different statutory entitlements, an unrestricted grant, and a damages claim are outside this controversy. A material missing operational finding, if identified, requires only the fact-specific remand below.
+
+* **Conditional Position or Fallback:** If the existing findings describe only the institution globally and do not establish the identified programs’ actual separability, vacate solely for those specific findings while preserving equal eligibility. Withhold payment for unresolved work until that lawful finding, rather than impose an institution-wide religious exclusion or require a redundant trial despite adequate existing findings.
 
 ### SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
