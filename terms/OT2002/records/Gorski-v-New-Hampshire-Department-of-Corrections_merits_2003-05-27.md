@@ -1,6 +1,6 @@
 **Case and dockets:** Gorski v. New Hampshire Department of Corrections; 290 F.3d 466 (1st Cir. 2002); No. 01-1995 below.
 **Event and date:** Merits decision; 2003-05-27; October Term 2002, chunk 8.
-**Result:** Affirmed, 9-0 on each component; harassment reinstated and transfer summary judgment preserved.
+**Result:** Affirmed, 9–0 on each component; harassment reinstated and transfer summary judgment preserved.
 **Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
 
 ## Event, chronology, participation and source-supported facts
@@ -97,8 +97,8 @@ I would keep fair-notice pleading separate from a developed transfer record and 
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Pregnancy-based hostile environment | Affirm reinstatement, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
-| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
+| Pregnancy-based hostile environment | Affirm reinstatement, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
+| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
 
 The First Circuit's judgment is affirmed and the case returned for further proceedings on the reinstated harassment claim.
 
@@ -243,14 +243,14 @@ All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, 
 
 ## Public Action
 
-Affirmed, 9-0 on each component; harassment reinstated and transfer summary judgment preserved.
+Affirmed, 9–0 on each component; harassment reinstated and transfer summary judgment preserved.
 
 ## Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Pregnancy-based hostile environment | Affirm reinstatement, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
-| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
+| Pregnancy-based hostile environment | Affirm reinstatement, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
+| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
 
 The First Circuit's judgment is affirmed and the case returned for further proceedings on the reinstated harassment claim.
 

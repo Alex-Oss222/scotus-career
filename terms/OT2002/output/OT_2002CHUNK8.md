@@ -623,7 +623,7 @@ Deborah Wells worked as a bookkeeper for the professional medical corporation fr
 
 #### Judgment
 
-**Reversed and remanded, 7-2.**
+**Reversed and remanded, 7–2.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas.
 
@@ -1030,8 +1030,8 @@ The reviewed questions concern the equal-protection ground for enjoining Texas's
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
-| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
+| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
+| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
 
 The Fifth Circuit's mixed preliminary judgment is affirmed and the case remanded. The unappealed denial of access-based preliminary relief remains undisturbed.
 
@@ -1119,7 +1119,7 @@ Hyatt alleges that California tax-audit activity directed into Nevada involved n
 
 #### Judgment
 
-**Affirmed, 9-0.**
+**Affirmed, 9–0.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
 
@@ -1179,8 +1179,8 @@ The reviewed questions concern the sufficiency of the pleaded pregnancy-based ho
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Pregnancy-based hostile environment | Affirm reinstatement, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
-| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
+| Pregnancy-based hostile environment | Affirm reinstatement, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Ordinary development and adjudication of the reinstated claim |
+| Distinct discriminatory-transfer denial | Affirm summary judgment for the Department, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The separate transfer judgment remains effective |
 
 The First Circuit's judgment is affirmed and the case returned for further proceedings on the reinstated harassment claim.
 

@@ -1,6 +1,6 @@
 **Case and dockets:** Franchise Tax Board of California v. Hyatt; No. 02-42; 538 U.S. 488.
 **Event and date:** Merits decision; 2003-04-23; October Term 2002, chunk 8.
-**Result:** Affirmed, 9-0; intentional-tort proceedings may continue; negligence dismissal stands.
+**Result:** Affirmed, 9–0; intentional-tort proceedings may continue; negligence dismissal stands.
 **Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
 
 ## Event, chronology, participation and source-supported facts
@@ -67,7 +67,7 @@ I would preserve Nevada’s authority to apply an evenhanded local tort rule, wh
 
 ## Final judgment and opinion form
 
-**Affirmed, 9-0.**
+**Affirmed, 9–0.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
 
@@ -184,11 +184,11 @@ All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, 
 
 ## Public Action
 
-Affirmed, 9-0; intentional-tort proceedings may continue; negligence dismissal stands.
+Affirmed, 9–0; intentional-tort proceedings may continue; negligence dismissal stands.
 
 ## Judgment & Remedy
 
-**Affirmed, 9-0.**
+**Affirmed, 9–0.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, and Breyer.
 

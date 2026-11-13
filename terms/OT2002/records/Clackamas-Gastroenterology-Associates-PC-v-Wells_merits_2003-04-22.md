@@ -1,6 +1,6 @@
 **Case and dockets:** Clackamas Gastroenterology Associates, P.C. v. Wells; No. 01-1435; 538 U.S. 440.
 **Event and date:** Merits decision; 2003-04-22; October Term 2002, chunk 8.
-**Result:** Reversed and remanded, 7-2; necessary physician classification and its established numerical consequences.
+**Result:** Reversed and remanded, 7–2; necessary physician classification and its established numerical consequences.
 **Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
 
 ## Event, chronology, participation and source-supported facts
@@ -71,7 +71,7 @@ I would use actual common-law control to classify each physician, rejecting both
 
 ## Final judgment and opinion form
 
-**Reversed and remanded, 7-2.**
+**Reversed and remanded, 7–2.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas.
 
@@ -289,11 +289,11 @@ All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, 
 
 ## Public Action
 
-Reversed and remanded, 7-2; necessary physician classification and its established numerical consequences.
+Reversed and remanded, 7–2; necessary physician classification and its established numerical consequences.
 
 ## Judgment & Remedy
 
-**Reversed and remanded, 7-2.**
+**Reversed and remanded, 7–2.**
 
 **Supporting:** Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, and Thomas.
 

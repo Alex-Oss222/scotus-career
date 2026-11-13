@@ -1,6 +1,6 @@
 **Case and dockets:** Women's Medical Center of Northwest Houston v. Bell; 248 F.3d 411 (5th Cir. 2001); No. 00-20037 below.
 **Event and date:** Merits decision; 2003-04-22; October Term 2002, chunk 8.
-**Result:** Fifth Circuit mixed preliminary-injunction judgment affirmed, 9-0 on each component; remanded.
+**Result:** Fifth Circuit mixed preliminary-injunction judgment affirmed, 9–0 on each component; remanded.
 **Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
 
 ## Event, chronology, participation and source-supported facts
@@ -97,8 +97,8 @@ I would preserve the distinct standards for an economic classification, an unapp
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
-| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
+| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
+| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
 
 The Fifth Circuit's mixed preliminary judgment is affirmed and the case remanded. The unappealed denial of access-based preliminary relief remains undisturbed.
 
@@ -245,14 +245,14 @@ All nine Justices participate: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, 
 
 ## Public Action
 
-Fifth Circuit mixed preliminary-injunction judgment affirmed, 9-0 on each component; remanded.
+Fifth Circuit mixed preliminary-injunction judgment affirmed, 9–0 on each component; remanded.
 
 ## Judgment & Remedy
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy |
 |---|---|---|---|---|
-| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
-| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9-0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
+| Preliminary injunction against the 1999 annual-volume licensing classification | Affirm dissolution, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Separable objective licensing requirements may operate |
+| Preliminary injunction against 25 Tex. Admin. Code §§139.51(1), 139.51(2), 139.2(43) | Affirm preservation, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | Enforcement of these three subjective standards remains restrained during further proceedings |
 
 The Fifth Circuit's mixed preliminary judgment is affirmed and the case remanded. The unappealed denial of access-based preliminary relief remains undisturbed.
 
