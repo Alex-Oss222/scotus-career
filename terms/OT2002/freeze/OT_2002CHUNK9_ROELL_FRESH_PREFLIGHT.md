@@ -1,0 +1,7 @@
+# Roell fresh neutral preflight receipt
+
+The fresh validator read only the Roell entry and Roell-specific supplement frozen in the group B validated files, the complete lower opinion `entering-law/OT_2002CHUNK9_B_SOURCES/withrow.txt`, section 636(c) from `entering-law/OT_2002CHUNK9_B_TEXTS.md`, and `entering-law/OT_2002CHUNK9_B_SOURCES/rule73.txt`. It inspected the selected-law heading inventory to determine relevance without importing other cases' factual records. No Roell historical Supreme Court disposition, comparator, private position or exposure narrative was read.
+
+The clean handoff is `freeze/OT_2002CHUNK9_ROELL_FRESH_VALIDATED_NEUTRAL.md`. It contains mechanically copied Roell materials, the independent validation supplement, and exact statutory/rule text copied from the saved sources. The operative Rule 73 text resolves the earlier retrieval limitation. Its mandatory written-consent procedure remains distinct from the legal question whether existing actual consent can be established through informed conduct. The lower court's actual finding about missing express consent is preserved; no new consent event is fabricated. Both legally supported construction paths and their remedial limits remain for independent modeling.
+
+No substantive source gap remains for the bounded question and no commitment was produced. This receipt is operator-facing; use the clean handoff for modeling.

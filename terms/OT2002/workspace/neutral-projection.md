@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 8 have produced 106 completed event Records covering 103 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 9 is the next supplied chunk.
+Chunks 1 through 9 have produced 118 completed event Records covering 115 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 103 completed and 77 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
+The manifest preserves all 180 scheduled rows: 115 completed and 65 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. One scheduled matter remains undecided, as identified below.
 
 ## Completed public actions
 
@@ -111,11 +111,23 @@ The manifest preserves all 180 scheduled rows: 103 completed and 77 remaining. C
 | 2003-04-22 | Jinks v. Richland County | The South Carolina Supreme Court's limitations judgment is reversed and the case remanded for remaining preserved issues affecting the verdict. | `terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md` |
 | 2003-04-22 | Trans Union LLC v. Federal Trade Commission | The Court affirms the judgment sustaining the ripe challenged rules and withholding both aggregate-use merits questions as unripe. | `terms/OT2002/records/Trans-Union-LLC-v-Federal-Trade-Commission_merits_2003-04-22.md` |
 | 2003-04-22 | Women's Medical Center of Northwest Houston v. Bell | Fifth Circuit mixed preliminary-injunction judgment affirmed, 9–0 on each component; remanded. | `terms/OT2002/records/Womens-Medical-Center-of-Northwest-Houston-v-Bell_merits_2003-04-22.md` |
+| 2003-04-23 | City of New York v. Patrolmen's Benevolent Association | The reviewed judgment is affirmed. | `terms/OT2002/records/City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md` |
 | 2003-04-23 | Franchise Tax Board of California v. Hyatt | Affirmed, 9–0; intentional-tort proceedings may continue; negligence dismissal stands. | `terms/OT2002/records/Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md` |
+| 2003-04-23 | Massaro v. United States | The Second Circuit's procedural-default judgment is reversed and the case remanded. | `terms/OT2002/records/Massaro-v-United-States_merits_2003-04-23.md` |
+| 2003-04-23 | United States v. Handakas | The judgment is affirmed as to duplicate-structuring relief, vacated as to the reversals of Counts One and Four, and remanded for the identified remaining appellate issues and count-specific implementation. | `terms/OT2002/records/United-States-v-Handakas_merits_2003-04-23.md` |
 | 2003-04-28 | Planned Parenthood of Southern Arizona v. Lawall | Rejection of the challenge to necessary confidential internal handling is affirmed, 9–0; rejection of the outside-agency-access claims is vacated and remanded, 6–3. | `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md` |
+| 2003-04-29 | Herring v. Keenan | The appellate immunity judgment is vacated and the case remanded, 5–4. | `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md` |
+| 2003-04-29 | Roell v. Withrow | The judgment is reversed and the case remanded, 5–4. | `terms/OT2002/records/Roell-v-Withrow_merits_2003-04-29.md` |
+| 2003-04-29 | United States v. Miami University | The judgment, limited permanent injunction and discovery ruling are affirmed, 9–0. | `terms/OT2002/records/United-States-v-Miami-University_merits_2003-04-29.md` |
+| 2003-05-05 | Illinois ex rel. Madigan v. Telemarketing Associates, Inc. | Reversed and remanded, 9–0, on the affirmative-fraud claims; stipulated dismissals remain effective. | `terms/OT2002/records/Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md` |
+| 2003-05-05 | Kaupp v. Texas | The Court vacates the judgment and remands by per curiam opinion. | `terms/OT2002/records/Kaupp-v-Texas_summary-merits_2003-05-05.md` |
+| 2003-05-05 | Rene v. MGM Grand Hotel, Inc. | Affirmed and remanded, 7–2, on the hostile-environment claim; retaliation dismissal remains effective. | `terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md` |
+| 2003-05-19 | Harry v. Marchant | Stabilization dismissal reversed and remanded, 9–0; separate screening dismissal and §1981 remand remain effective. | `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md` |
+| 2003-05-19 | Price v. Vincent | The Sixth Circuit's judgment sustaining habeas relief on the double-jeopardy claim is reversed and the case remanded. | `terms/OT2002/records/Price-v-Vincent_merits_2003-05-19.md` |
 | 2003-05-19 | Stout v. Baxter Healthcare Corp. | The judgment is affirmed in part, vacated in part and remanded. | `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md` |
 | 2003-05-27 | Benson v. Terhune | The judgment denying the requested habeas relief is affirmed. | `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md` |
 | 2003-05-27 | Gorski v. New Hampshire Department of Corrections | Affirmed, 9–0 on each component; harassment reinstated and transfer summary judgment preserved. | `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md` |
+| 2003-06-02 | Roe II v. Aware Woman Center for Choice, Inc. | Reviewed statutory/amendment and public-pseudonymity components affirmed, each 9–0; further proceedings under the preserved amendment and protective directions. | `terms/OT2002/records/Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md` |
 | 2003-06-02 | Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395 | Child-search immunity judgment reversed, 7–2; entry and duplicative-due-process dispositions affirmed, 9–0; remanded with state claims treated independently. | `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
 | 2003-06-26 | Georgia v. Ashcroft, No. 02-182 | The denial of preclearance for the original Senate plan and the order permitting the four voters to intervene are affirmed. | `terms/OT2002/records/Georgia-v-Ashcroft_merits_2003-06-26.md` |
@@ -707,17 +719,83 @@ Source: `terms/OT2002/records/Womens-Medical-Center-of-Northwest-Houston-v-Bell_
 
 The annual-volume classification survives the reviewed ordinary equal-protection challenge. The three specified subjective regulations remain subject to preliminary restraint, while separable objective licensing requirements may operate. Protected-access claims retain their distinct governing law and must rest on the actual operation and evidence of the requirement challenged. Further merits proceedings preserve the difference between an interim likelihood determination and final adjudication.
 
+### 2003-04-23 — City of New York v. Patrolmen's Benevolent Association
+
+Source: `terms/OT2002/records/City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md`.
+
+Operational racial employment assignments remain governed by the common evidence-supported standard. Supported preventive policing can satisfy the objective requirement, while actual coverage, burdens and concrete alternatives require justification. The City's Rule 50 claim fails on this evidence, and the identified instructional and new-trial preservation limits leave the reviewed judgment in force.
+
 ### 2003-04-23 — Franchise Tax Board of California v. Hyatt
 
 Source: `terms/OT2002/records/Franchise-Tax-Board-of-California-v-Hyatt_merits_2003-04-23.md`.
 
 A forum with a legitimate local connection may use its evenhanded intentional-tort policy despite a sister State's broader statutory immunity. Core sovereign activity alone does not give that legislation compulsory extraterritorial force. Actual judgments continue to receive the recognition their lawful adjudicative effect requires. In this action the intentional-tort claims proceed under ordinary standards and the negligence dismissal stands.
 
+### 2003-04-23 — Massaro v. United States
+
+Source: `terms/OT2002/records/Massaro-v-United-States_merits_2003-04-23.md`.
+
+Federal prisoners may first present trial-counsel ineffective-assistance claims in authorized section 2255 proceedings despite an available direct appeal and new appellate counsel. This rule governs pending and other still-open proceedings within its scope. Independent statutory filing and authorization conditions, actual prior adjudication, the hearing exception and the constitutional merits remain separate. The effect of an assistance claim already decided on appeal is outside the presented question.
+
+### 2003-04-23 — United States v. Handakas
+
+Source: `terms/OT2002/records/United-States-v-Handakas_merits_2003-04-23.md`.
+
+The Court applies Rule 52(b) to the forfeited honest-services constitutional claim at its independent plainness condition. The actual statutory-coverage and intent grounds remain for appellate adjudication, with the special verdict and sole available laundering predicate controlling that work. For structuring, successive twelve-month enhancement periods do not alone divide one charged continuing scheme into separate offenses. The clear duplicate judgment receives full count-specific correction, subject to the completed resentencing and surviving convictions. These direct-review rulings operate through the existing review channels and preservation conditions.
+
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
 Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md`.
 
 Necessary confidential bypass administration remains permissible. Additional authorized government access to intimate bypass records must have a sufficient legal connection among the information, audience and function, with fitted protection against unnecessary dissemination. This independent informational-privacy inquiry and any proved Casey access burden remain distinct. The actual outside permissions and their safeguards must be applied on remand; their legality is not settled by either a general confidentiality label or a hypothetical leak.
+
+### 2003-04-29 — Herring v. Keenan
+
+Source: `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md`.
+
+The substantive protection now applies to unjustified intentional outside disclosure of a probationer's intimate medical testing and status information. Genuine supervisory need must fit the particular information, audience, use and safeguards. The judgment conclusively removes the asserted legal immunity dismissal on the pleaded account; ordinary factual and remedial adjudication remains. The governing objective immunity framework continues for other cases; Part II states four Justices' application to this pleaded account. Present privacy decisions do not themselves give officials notice in December 1993 or January 1994.
+
+### 2003-04-29 — Roell v. Withrow
+
+Source: `terms/OT2002/records/Roell-v-Withrow_merits_2003-04-29.md`.
+
+A missing consent form does not invalidate a final civil judgment when actual, informed and voluntary consent existed before judgment under §636(c)(1)'s first sentence. Courts must continue to use the mandatory notice, recording and voluntariness protections. A genuinely disputed record requires determination of knowledge and voluntariness before authority can be sustained. The construction governs still-open direct-review cases within its scope; later assent cannot manufacture an earlier choice. The express written-request provision for other part-time magistrate judges retains its own requirements.
+
+### 2003-04-29 — United States v. Miami University
+
+Source: `terms/OT2002/records/United-States-v-Miami-University_merits_2003-04-29.md`.
+
+FERPA covers these retained internal disciplinary records despite possible criminal conduct, with the law-enforcement exclusion and each disclosure permission applied on its own predicates. The United States may enforce the accepted grant confidentiality obligation through this preserved public channel, and a proved continuing release policy can support a properly fitted injunction under ordinary equity. The claimed constitutional right to substantially unredacted internal disciplinary files fails under the actual experience-and-function inquiry. The affirmed decree preserves lawful disclosure, effective anonymization and independent reporting, and remains enforceable against the two named recipients subject to supported modification.
+
+### 2003-05-05 — Illinois ex rel. Madigan v. Telemarketing Associates, Inc.
+
+Source: `terms/OT2002/records/Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md`.
+
+Charitable fundraisers remain protected against liability inferred from fundraising costs or nondisclosure alone. A State may prove deliberate material factual deception about contributions under the applicable cause of action. The operative inquiry concerns the actual representation and proof of deception, with financial allocation usable as evidence of an independently established false representation.
+
+### 2003-05-05 — Kaupp v. Texas
+
+Source: `terms/OT2002/records/Kaupp-v-Texas_summary-merits_2003-05-05.md`.
+
+The objective seizure and attenuation rules remain controlling. This coordinated, restrained nighttime removal was an unlawful arrest; neither cooperation in that custody nor customary handcuffing establishes consent. The shown interrogation sequence supplies no sufficient causal break. The limited existing-testimony proviso preserves Texas's burden under Brown.
+
+### 2003-05-05 — Rene v. MGM Grand Hotel, Inc.
+
+Source: `terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md`.
+
+A claimant's orientation explanation does not categorically defeat a preserved Title VII sex-harassment claim. Supported contextual evidence can permit sex causation even where that explanation is also present, while sexual form or gravity alone remains inconclusive. Rene's combined evidence satisfies Rule 56 on that issue; ultimate proof, employer attribution and relief proceed under the existing rules.
+
+### 2003-05-19 — Harry v. Marchant
+
+Source: `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md`.
+
+Hospitals must meet the enacted stabilization or lawful-transfer duty after determining an emergency, even when retaining the patient. Later admission does not erase a completed emergency-care violation. The hospital's actual determination, available treatment, performance and direct causal harm govern the revived claim. The genuine-inpatient endpoint remains for a phase-specific case with the necessary facts; it does not defeat adjudication of the earlier violation here.
+
+### 2003-05-19 — Price v. Vincent
+
+Source: `terms/OT2002/records/Price-v-Vincent_merits_2003-05-19.md`.
+
+Actual substantive acquittals retain their finality without an added writing requirement. Federal habeas courts must separately apply section 2254(d)(1) to the state adjudication on the complete record. Michigan's provisional characterization falls within the objectively reasonable range, so the double-jeopardy claim cannot sustain this writ.
 
 ### 2003-05-19 — Stout v. Baxter Healthcare Corp.
 
@@ -736,6 +814,12 @@ The existing habeas framework and medication protections are applied without cha
 Source: `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md`.
 
 Pregnancy-based hostile-environment claims receive Title VII's ordinary causation, environment, pleading and attribution rules. Representative allegations giving fair notice permit ordinary development; a distinct evidentiary failure on transfer does not turn them into an exhausted harassment record. Ultimate liability requires the complete substantive and attribution showings, and the transfer judgment remains effective on this developed record.
+
+### 2003-06-02 — Roe II v. Aware Woman Center for Choice, Inc.
+
+Source: `terms/OT2002/records/Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md`.
+
+FACE protects the defined access to reproductive services against covered acts by clinic personnel as well as outsiders. The actual statutory cause or intimidating purpose distinguishes such interference from treatment error. Public pseudonymity is available on an individualized showing of substantial intimate privacy with meaningful defense access and continued public adjudication of the legal dispute.
 
 ### 2003-06-02 — Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395
 
@@ -1327,6 +1411,18 @@ He also explains the inquiry for any access claim properly pending at the later 
 
 Casey's full framework governs: determine the actual duty and purpose, added interference and affected population; reject baseline violations, obstructive purpose or substantial obstacles; require compelling justification and narrow tailoring for remaining severe interference, and substantiated justification, fit and an answer to practicable substantially less burdensome alternatives for remaining meaningful interference; protect clinical judgment and truthful communication; and fit relief to the proved requirement and impairment. This conditional merits analysis preserves the unappealed interim ruling and requires the missing access facts to be established in their proper proceedings.
 
+### 2003-04-23 — City of New York v. Patrolmen's Benevolent Association
+
+Source: `terms/OT2002/records/City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md`.
+
+Stone-Zsela's April 23, 2003 opinion concurring in part and dissenting in part preserves a noncontrolling remand position: where the stronger necessity charge does not establish failure of the common standard, the appellate court should examine the actual instructions, preservation, findings and material prejudice before deciding whether the constitutional verdict survives. He would limit any warranted retrial to affected issues, preserve independent Title VII outcomes, and allow further evidence only through ordinary procedure. His agreement with the standard does not supply a ninth vote for the Rule 50 application, preservation disposition or constitutional affirmance. The complete published grounds and qualifications are reproduced in Public Projection / Separate Writings. No Associate files a separate opinion.
+
+### 2003-04-23 — United States v. Handakas
+
+Source: `terms/OT2002/records/United-States-v-Handakas_merits_2003-04-23.md`.
+
+Stone-Zsela's April 23, 2003 opinion concurring in part and dissenting in part supplies noncontrolling propositions for future consultation: this charged contract-only honest-services duty lacks an ascertainable conduct-time federal boundary; bad purpose and state duties cannot substitute; an absent legal duty boundary can satisfy plainness without an identical earlier invalidation, while novelty alone cannot; the resulting Count One invalidity defeats the sole available laundering predicate. His constitutional ruling would apply to nonfinal direct-review cases through their actual preservation rules, with final collateral judgments retaining independent gateways. He joins the Court's structuring unit, residual-lenity ground and full duplicate-judgment correction. His complete as-applied scope, four-condition analysis, temporal qualification and count-specific mandate appear in Public Projection / Separate Writings. The majority's appellate remand leaves the actual statutory/intent grounds for ordinary adjudication; the separate sentencing appeal is not added to the Supreme Court docket. No Associate publishes a separate opinion.
+
 ### 2003-04-28 — Planned Parenthood of Southern Arizona v. Lawall
 
 Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md`.
@@ -1336,6 +1432,58 @@ Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_me
 **Stone-Zsela, concurring in part and dissenting in part.** He joins Parts I–III but would reverse approval of outside access insofar as the State has supplied no function-specific legal justification, and remand for an injunction against that access. Eligibility to inspect closed files is not a reason to obtain this minor’s identity and intimate account; penalties for unlawful leaks do not cure an unnecessarily broad lawful transfer. A genuine preexisting legal restriction may narrow the decree, but an expectation of responsible administration is insufficient. The remedy should preserve necessary internal handling and practical bypass access while preventing exposure lacking bounded authority. His position does not require a finding that the exception substantially obstructs abortions.
 
 **Scalia, concurring in part and dissenting in part, joined by Thomas.** They accept the permission for necessary confidential internal handling but would affirm rejection of both claims. Their Sheets and Paul P. positions reject the asserted broader substantive informational-privacy right. The statutory confidentiality command, fictitious-name option, separate authorization requirement and penalties make speculative misuse insufficient under their rule. They do not conclude that every future agency request is lawful or that a proved improper disclosure defeats every independently grounded claim. Their disagreement with the partial vacatur is therefore different from Stone-Zsela’s demand for more immediate protection.
+
+### 2003-04-29 — Herring v. Keenan
+
+Source: `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md`.
+
+**The Part II opinion, joined by Stevens, Souter, Ginsburg and Breyer.** Existing law sufficiently warned against these disclosures on the complaint's assumed absence of a legitimate purpose. Eastwood protected against unjustified intimate intrusion and required application of law to analogous facts. Woods, Barrington and Plymouth addressed unjustified medical exposure in their own settings. Griffin permitted a search tied to valid supervision; Harris addressed supported transmission risks, and Stine upheld a related counseling condition. Those decisions supply meaningful limits rather than a general probation exception. Whalen and Nixon's approval of safeguarded uses does not justify purposeless outside disclosure. Mangels concerns accurate unlawful-drug information, and DeSanti's contrary general approach is considered at its own hierarchy and scope. The cumulative preconduct boundary, applied under Elder, Clanton and Hope's present method, supplies sufficient warning despite the lack of an identical HIV-probation case. The guidance reinforces context but creates no constitutional right, and later privacy holdings supply no retrospective notice. The four reject the legal defense finally on these assumptions while leaving actual conduct, justification and the independent remedial questions for ordinary adjudication.
+
+**Stone-Zsela, concurring in part and concurring in the judgment.** He joins the substantive privacy rule and would vacate the immunity dismissal by replacing Harlow and Anderson's uncertainty-based defense. After a violation under the full substantive rule, an officer would have a distinct personal defense only by identifying binding precedent or enacted authority directly authorizing the challenged conduct and proving genuine reasonable reliance on its valid, applicable permission. The officer would bear that factual showing by a preponderance; silence, title, custom and lack of a factual twin would not suffice. A faithful instruction could convey actual authority, while reasonable factual mistakes would remain part of the substantive rule. Genuine substantive discretion, source-specific absolute immunity, personal responsibility and independently authorized damages channels would remain. He would correspondingly displace Denius's contrary immunity rule and Clanton, Hope and Saucier only within that replacement's scope, preserving their substantive holdings and remedial limits. The allegation of an unestablished employment prohibition and contrary guidance permits no assumed reliance dismissal. Harper would apply his replacement to still-open direct-review claims, including earlier conduct; Reynoldsville would preserve genuine independent defenses, with final judgments and collateral authorization retaining their force. He would require separate determination of any preserved damages-source objection and then adjudication of the alleged disclosures, actual justification, responsibility, reliance and compensable injury. Lawall supplies neither earlier permission nor pre-1994 notice.
+
+**O'Connor, dissenting, joined by Scalia, Kennedy and Thomas.** Current medical-privacy protection and sufficiently particular pre-1994 warning are different inquiries. The earlier cases arose in materially different investigatory, medical, prison or general-information settings, with competing approaches and a distinct supervisory relationship here. Even on the assumed absence of an adequate actual purpose, those authorities did not sufficiently settle the application to this probation officer's limited employer and family disclosures. Hodge and Denius preserve objective immunity for an unsettled application even where a present interest is recognized. The dissent considers all relevant preconduct law rather than demanding a factual twin, and it does not treat administrative guidance as constitutional notice. O'Connor and Kennedy accept the confined current interest reflected in Sheets, Denius, Sterling and Lawall but would decide this case on notice alone; their immunity votes do not find the alleged conduct lawful. All four would affirm the immunity judgment without crediting a disputed protective-purpose account.
+
+**Scalia, further dissenting, joined by Thomas.** In addition to the notice defense, they oppose extending substantive informational privacy to these limited disclosures. Their Sheets, Paul P. and Lawall positions distinguish the actual holdings they must respect from a broader right inferred from confidentiality or official possession. The claim's intimate medical character and guidance do not by themselves supply the proposed constitutional extension. They adopt neither a universal denial of medical privacy nor a blanket probation exemption. Meyer likewise does not authorize automatic dismissal merely by treating an individual officer as a federal agency.
+
+### 2003-04-29 — Roell v. Withrow
+
+Source: `terms/OT2002/records/Roell-v-Withrow_merits_2003-04-29.md`.
+
+**Thomas, dissenting, joined by Stevens, Scalia and Kennedy.** The statute and Rule 73 require an affirmative election before a magistrate judge exercises final civil authority. Communication to the clerk, the protected consent process and an explicit election are substantive safeguards, not merely evidence of a choice inferred from participation. Congress's separate requirement of a specific written request for other part-time magistrates adds to, rather than eliminates, the generally required express election. The judge's mistaken assumption and the defendants' later letters cannot supply the missing act. Peretz's affirmative assent to an additional duty does not resolve this final-civil-judgment question, and Schor's personal-waiver principle cannot replace the enacted condition. Without valid statutory consent there is no final magistrate judgment qualifying for direct appeal under §636(c)(3); the proper action is to vacate the Fifth Circuit's judgment and direct dismissal of that appeal. This concerns the particular appellate route, not the district court's original jurisdiction over the civil action. The de facto officer doctrine cannot cure the missing condition on the appellate route. The dissent neither rejects consensual magistrate adjudication generally nor decides the prison medical-care claim.
+
+### 2003-04-29 — United States v. Miami University
+
+Source: `terms/OT2002/records/United-States-v-Miami-University_merits_2003-04-29.md`.
+
+**Stone-Zsela, concurring.** He joins the text-and-function classification, the distinct public enforcement source, ordinary equity and the rejection of this access claim. He also joins the conclusion that conceded criminal overlap does not create a material discovery dispute about these maintained internal files. He would additionally presume that relief against a proved common unlawful disclosure practice must cure that practice for those governed unless the violators show a narrower remedy fully protects the accepted confidentiality obligation. The proposal rests on the demonstrated common practice, adds no decree against other institutions or the press, and preserves lawful redaction, permitted final results and independent police records. If applied, Harper would govern nonfinal cases within that proved-practice scope; Reynoldsville would preserve genuine legal defenses, with finality and independent jurisdictional limits retained. His agreement with the actual injunction rests on the ordinary equitable findings independently established here.
+
+### 2003-05-05 — Rene v. MGM Grand Hotel, Inc.
+
+Source: `terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md`.
+
+**Stone-Zsela, concurring.** He joins Parts I–III and the affirmance on the preserved contextual-inference ground. He would also hold that harassment imposed because a male employee is attracted to men is discrimination because of sex when his sex is a necessary component of that reason. Holding attraction constant, changing the employee's sex changes the disfavored relationship. Oncale's textual approach, in his view, warrants rejecting the categorical orientation exclusion itself rather than preserving only this claimant through an evidentiary inference. Sexual contact or common sex alone would still establish neither causation nor the complete claim.
+
+His proposed construction would require proof of every objective and subjective hostile-environment element, actual employer attribution through material aid from delegated authority or separately proved negligence, and the conditions of each remedy. Harris would continue to permit liability without psychiatric injury or lost productivity; compensatory loss would require separate proof, and nominal or prospective relief its own legal conditions. The proposal concerns this statutory cause and does not create a separate stereotyping claim, compulsory comparator, general civility code or employer-wide decree. If adopted and applied, Harper would require the construction in all still-open direct-review claims within its scope, including earlier conduct; Reynoldsville would foreclose reliance alone as a selective exception while genuine limitations, attribution and remedial conditions continued to govern. Final judgments would remain closed and no new filing or collateral route would arise. Because the independent orientation question remains open in this case, he accepts the narrower Oncale ground as lawful and sufficient.
+
+**Thomas, concurring in Part I and dissenting, joined by Scalia.** They would reverse the Ninth Circuit and restore summary judgment on causation. Their disagreement concerns the evidence, not categorical same-sex or orientation immunity. Oncale requires a supported inference that the conduct occurred because of the claimant's sex, and neither its sexual form nor its gravity supplies that inference by itself. Rene repeatedly attributed the abuse to being gay; in their view, comparing the touching to treatment of a woman adds a description of the acts rather than evidence of the coworkers' reason for selecting him. The other evidence does not bridge that gap.
+
+They require neither sexual desire nor an actual female comparator and do not treat Rene's testimony as an irrebuttable legal concession. Nabozny involved separate discriminatory official responses and comparative treatment supporting sex causation; its equal-protection ruling does not make assault automatically discriminatory under Title VII. They would not create a new appellate stereotyping claim on the preservation record. The common causal rule remains intact, but they find the record insufficient under it and therefore oppose Parts II–III and the remand.
+
+### 2003-05-19 — Harry v. Marchant
+
+Source: `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md`.
+
+**Stone-Zsela, concurring.** He joins the Court's no-transfer rule and reversal on the preadmission allegations. He would also hold that genuine inpatient admission itself cannot extinguish an already-triggered, unperformed stabilization duty. In his view, §1395dd(b) makes performance rather than location decisive: the hospital must stabilize the identified emergency through necessary available care, make a compliant transfer, or satisfy the applicable informed-refusal provision. Stability remains the medically bounded condition of reasonable probability, not guaranteed cure; an unknown condition or later unrelated deterioration after the duty ends would fall outside this proposed rule.
+
+He relies on the statutory alternatives and Roberts's refusal to add an extra motive defense. He would reject Bryan's admission endpoint insofar as it terminates this unperformed duty, while retaining its distinction between EMTALA and general malpractice law. Baby K supplies neither a universal care entitlement nor a conclusive answer about every inpatient. The estate would still prove actual determination, necessary available care, breach and direct harm. The statutory hospital action and authorized remedies would remain separate from any action against individual clinicians, and the proposed rule would not establish a systemwide treatment failure from the pleaded course.
+
+If adopted and applied, the construction would govern still-open direct-review claims within its scope under Harper, including earlier care. Reynoldsville would permit no reliance-only admission exception; genuine limitations, causation and remedy requirements would remain, and final judgments and time-barred claims would not reopen. With the admission endpoint left open on this record, he accepts the narrower ground: no actual transfer is required, and delayed admission cannot cure an earlier breach. The later phase should receive proper adjudication rather than a presumed absence of any preceding duty.
+
+### 2003-05-19 — Price v. Vincent
+
+Source: `terms/OT2002/records/Price-v-Vincent_merits_2003-05-19.md`.
+
+Stone-Zsela's May 19, 2003 opinion concurring in part and dissenting in part supplies a noncontrolling application: the actual grant, judicial acknowledgement and contemporaneous entry establish a completed substantive acquittal on this whole record, making Michigan's provisional characterization objectively unreasonable rather than merely less persuasive. His proposed conditional writ removes only the first-degree conviction, sentence and attributable custody, bars reprosecution of that acquitted charge and preserves lawful remaining dispositions. His express reasonable-state-reading alternative remains a substantive conditional limit, not a concession caused by the vote. He uses neither Sattazahn's later rule nor his separate due-process rationale as 1997 clearly established law. Every published qualification appears in Public Projection / Separate Writings. No Associate publishes a separate opinion, and no unadjudicated Supreme Court event is carried by this remand.
 
 ### 2003-05-19 — Stout v. Baxter Healthcare Corp.
 
@@ -1441,4 +1589,6 @@ No further report, filing, deadline, or Court action is supplied.
 
 ## Future event controls
 
-The remaining 77 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 65 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+
+- Demore v. Kim: undecided; no completed Court action supplies law.

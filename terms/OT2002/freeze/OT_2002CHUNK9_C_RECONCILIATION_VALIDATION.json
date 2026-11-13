@@ -1,0 +1,42 @@
+{
+  "inputs": {
+    "freeze/OT_2002CHUNK9_C_COMMITMENTS.md": "8bebe8811ea776ccb9a199e56f124a16f6d12c398cb9e870f6c7086e685a0ed0",
+    "freeze/OT_2002CHUNK9_C_VALIDATED_NEUTRAL.md": "5d8c2df78f12092c42326c37a10fc40e3331a4ffcf6e9ae8122de523c2faf625",
+    "freeze/OT_2002CHUNK9_ROE_VALIDATED_NEUTRAL.md": "2eb9218ef0b5b5574fd7c35d6fb445c861b1b51097fd3bb8f3be03640e3351e3",
+    "freeze/OT_2002CHUNK9_ROE_VALIDATED_SUPPLEMENT.md": "c16609cd72dcaace99e11602dd8d2712efa01c118b790ef320d7ba5a3c76018a",
+    "freeze/OT_2002CHUNK9_C_SCOPED_COMPARATOR.md": "795d3c520fa4455316cb81e52666658a791353ddcfd6ce4bc2d58084ca84a068"
+  },
+  "reconciled_sha256": "ddb6f681f623b81c52e2cbc44a61db3ed74f50a724178bfddb6a72b24643707e",
+  "runtime_identical": true,
+  "preserved_initial_suffix_identical": true,
+  "associate_dispositions": {
+    "Madigan": {
+      "reverse": 8
+    },
+    "Kaupp": {
+      "vacate": 8
+    },
+    "Rene": {
+      "affirm": 6,
+      "reverse": 2
+    },
+    "Harry": {
+      "reverse": 8
+    },
+    "RoeII_statutory": {
+      "affirm": 8
+    },
+    "RoeII_anonymity": {
+      "affirm": 8
+    }
+  },
+  "sources": {
+    "sources/chunk9-c/rene-lower.txt": "c5efa18ae4801d8440b39d82c0e72f9040ad5d4fcf6335a9f7e91c6cb602386d",
+    "sources/chunk9-c/rene-source.json": "2c33a296cd0882efa24d60b21b35bab6469c57456301ded5b5e7a32b46b798de",
+    "sources/chunk9-c/roe-ii-lower.txt": "e5b813aa7823bccf7b9e57dd494079edf246565e1ec4c10731db20b413022e08",
+    "sources/chunk9-c/roe-ii-source.json": "0d18ec2b615a430ba28ab06ba2ab9c31ff27163d11477185b3a2007d258916a0",
+    "sources/chunk9-c/harry-en-banc.txt": "898da3ebd573c9cb8cc5d73dde8c8308b213f52011a38a19402420403f28b79f",
+    "sources/chunk9-c/face-2001.txt": "5515357b96a3d0e76dd3b498cd08b1ac840004841f4d6c9b31cb55945a977e88"
+  },
+  "blockers": []
+}

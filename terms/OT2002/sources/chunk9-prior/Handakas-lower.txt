@@ -1,0 +1,597 @@
+286 F.3d 92
+
+286 F.3d 92
+
+UNITED STATES of America, Appellee,
+v.
+Vassilios K. HANDAKAS, Defendant-Appellant.
+
+Docket No. 00-1751.
+
+United States Court of Appeals, Second Circuit.
+
+Argued November 1, 2001.
+
+Decided March 22, 2002.
+
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED Lisa Fleischman, Assistant United States Attorney, Brooklyn, NY (Alan Vinegrad, United States Attorney for the Eastern District of New York; Susan Corkery, Richard Weber, Assistant United States Attorneys, on the brief. Barbara D. Underwood, Chief Assistant United States Attorney; David C. James, Assistant United States Attorney, on the supplemental brief), for Appellee.
+
+James B. Lebow, Bournazos & Matarangas, New York, NY, for Defendant-Appellant.
+
+Before: FEINBERG, JACOBS, CABRANES, Circuit Judges.
+
+Judge FEINBERG dissents in part by separate opinion.
+
+JACOBS, Circuit Judge.
+
+      1
+
+Vassilios K. Handakas appeals from the judgment of conviction and sentence entered in the United States District Court for the Eastern District of New York (Weinstein, J.), following his conviction by a jury of (inter alia) conspiracy to commit mail fraud by depriving the New York City School Construction Authority ("SCA") of its "intangible right of honest services," conspiracy to launder the proceeds of the mail fraud, and the structuring of financial transactions to evade currency reporting laws.
+
+      2
+
+The mail fraud conspiracy count arises out of work done for the SCA by a Handakas-owned construction company and the violation of [1] the "prevailing rate of wage" contract provision required by New York's "Little Davis-Bacon Act," and [2] other certification and reporting requirements in the construction contracts. The government's deprivation of "honest services" theory was all that was left of the mail fraud charge after a special jury verdict absolved Handakas of the alternative theory that Handakas conspired to defraud the SCA of its "money or property."
+
+      3
+
+On appeal, Handakas maintains: [1] that the two structuring counts are multiplicitous, because the indictment charged that Handakas engaged in structuring over two consecutive 12-month periods, without alleging that he engaged in two separate structuring schemes; [2] that the "honest services" provision of the mail fraud statute is inapplicable to the conduct charged; [3] that (alternatively) there is insufficient evidence of intent to commit mail fraud; and [4] that the money laundering conviction, which is based entirely on the laundering of funds derived from the unlawful activity of mail fraud, must fall for the same reasons. Additionally, Handakas argues in a pro se brief and in a supplemental brief by counsel that his mail fraud conviction cannot stand because the "honest services" provision of the mail fraud statute is unconstitutionally vague, and that we must reverse the money laundering conviction as well, which is wholly premised on the mail fraud.1
+
+      4
+
+We hold: [1] that the structuring counts are multiplicitous because they do not allege separate structuring schemes, and [2] that the "honest services" provision of the mail fraud statute is void for vagueness as applied to Handakas. Accordingly, we reverse the conviction on the mail fraud conspiracy count, as well as the money laundering conspiracy count dependent thereon, and one of the counts of structuring; the sentence is vacated, and the case is remanded to the district court for resentencing on the remaining structuring count and the other counts undisturbed on this appeal.
+
+      5
+
+* On appeal, we consider the facts in the light most favorable to the government. See Jackson v. Virginia, 443 U.S. 307, 319, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979).
+
+      6
+
+Handakas, in his capacity as president and sole shareholder of Astro Waterproofing Restoration Company ("Astro"), submitted a number of successful general contracting bids to the SCA, a public benefit corporation that oversees construction projects performed on New York City schools. The mail fraud conviction arises out of his wilful breach of certain contractual obligations undertaken by Astro.
+
+      7
+
+In awarding its contracts, the SCA follows state law mandating that, inter alia: [1] the SCA award all contracts to the lowest qualified bidder, see N.Y. Pub. Auth. Law § 1734 (McKinney 2001); and [2] the successful bidder pay project workers "prevailing rate of wages," and submit certified payroll records that so certify as a condition of receiving payment. N.Y. Lab. Law § 220, et seq. (McKinney 2000); see also N.Y. Const. art. 1 § 17. Under § 220, "[a]ny person or corporation that wilfully pays ... less than [the] stipulated wage scale ... shall be guilty of a misdemeanor and ... shall be punished for such first offense by a fine of five hundred dollars or by imprisonment for not more than thirty days...." N.Y. Lab. Law § 220 (McKinney 2000).
+
+      8
+
+In the course of the projects, Handakas submitted certified payroll records that reflected compliance with the prevailing rate of wage requirement. Handakas, in fact, paid his workers substantially less than half the prevailing rate of wage.
+
+      9
+
+Additionally, there was evidence that Handakas left certain workers's names off the payroll and fraudulently substituted other names, that he manipulated the record of the number of hours worked, and that the SCA paid Handakas based upon his false submissions. It is, however, doubtful that the government is entitled to the benefit of findings and inferences based on this evidence, which bears upon possible financial harm to the SCA. Although the government argued to the jury that the SCA suffered financial loss, i.e., that the SCA was deprived of money or property as well as "honest services," the jury found by special verdict that Handakas was guilty of mail fraud only on the ground that he deprived the SCA of its "intangible right of honest services" — and not on the ground that the SCA was deprived of money or property.
+
+      10
+
+In league with two subcontractors, Handakas funneled large transfers (disguised as subcontractor payments) to himself for personal expenses and to family members in Greece. Handakas formed a series of shell corporations that received such phony payments from Astro and wired the money back to Handakas, directly or indirectly, in the United States or Greece.
+
+      11
+
+On May 14, 1998, Handakas was arrested at an airport, en route to Greece, carrying $102,000 without having made the currency disclosure report required by law. The arrest triggered further investigations, and eventually the indictment. Handakas was convicted on all counts of the indictment: one count of conspiracy to commit mail fraud by depriving another of "the intangible right of honest services" (in violation of 18 U.S.C. §§ 371, 1341, 1346); one count of conspiracy to launder money (in violation of 18 U.S.C. §§ 1956(h), 3551, et seq.); two counts of illegally structuring financial transactions to evade reporting requirements (in violation of 31 U.S.C. §§ 5324(a)(3), (c)(2)); one count of failure to file a currency report (in violation of 31 U.S.C. §§ 5316(c)(1)(A), 5322(a)); one count of making a materially false representation (in violation of 18 U.S.C. § 1001(a)(2)); and one count of conspiracy to defraud the United States (in violation of 18 U.S.C. §§ 371, 3551, et seq.).
+
+      12
+
+Handakas was sentenced to a prison term of 70 months, and was ordered to pay a $500,000 fine, $638,350.27 in restitution, and a $700 special assessment.
+
+II
+
+      13
+
+The multiplicity challenge to the structuring counts is raised for the first time on appeal. Generally, we review challenges "not brought to the attention of the [district] court" for plain error. Fed. R.Crim.P. 52(b); see also United States v. Thomas, 274 F.3d 655, 660 (2d Cir.2001). However, "there is a strong argument that if the alleged multiplicity is clear from the indictment the failure to raise this objection prior to trial constitutes a waiver." United States v. Chacko, No. 96-519, 1997 WL 481862, at *4 (S.D.N.Y. Aug.21, 1997); see also Fed.R.Crim.P. 12(b)(2) (requiring that "[d]efenses and objections based on defects in the indictment or information" be raised prior to trial).2 But we will apply plain error review, because the parties agree that plain error is the standard and did not brief the question of whether the alleged multiplicity was apparent on the face of the indictment.
+
+      14
+
+To demonstrate plain error, Handakas must show: "(1) error, (2) that is plain, and (3) that affect[s] substantial rights." Johnson v. United States, 520 U.S. 461, 466-67, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997) (quoting United States v. Olano, 507 U.S. 725, 732, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993)) (internal quotation marks omitted, alteration in original). "If all three conditions are met, an appellate court may then exercise its discretion to notice a forfeited error, but only if (4) the error seriously affect[s] the fairness, integrity, or public reputation of judicial proceedings." Id. at 467, 117 S.Ct. 1544 (quoting Olano, 507 U.S. at 732, 113 S.Ct. 1770) (internal quotation marks omitted, alteration in original).
+
+      15
+
+An indictment is multiplicitous when it "charges in separate counts two or more crimes, when in law and fact, only one crime has been committed." Chacko, 1997 WL 481862, at *4 (quoting United States v. Holmes, 44 F.3d 1150, 1153-54 (2d Cir.1995)); see also Blockburger v. United States, 284 U.S. 299, 304, 52 S.Ct. 180, 76 L.Ed. 306 (1932) ("The applicable rule is that, where the same act or transaction constitutes a violation of two distinct statutory provisions, the test to be applied to determine whether there are two offenses or only one is whether each provision requires proof of an additional fact which the other does not."). When the same statutory offense is charged as two separate counts, the proper question is whether Congress intended the counts to constitute separate "unit[s] of prosecution." Bell v. United States, 349 U.S. 81, 82-83, 75 S.Ct. 620, 99 L.Ed. 905 (1955). If the intent of Congress is unclear, "the ambiguity should be resolved in favor of lenity," id. at 83, 75 S.Ct. 620; "doubt will be resolved against turning a single transaction into multiple offenses," id. at 84, 75 S.Ct. 620.
+
+      16
+
+Count two charges Handakas with knowingly and intentionally structuring (and assisting in the structuring of) transactions exceeding $100,000 in order to evade tax reporting requirements over the period May 1996 through May 1997. Count three charges Handakas with the same offense over the period May 1997 through May 1998.
+
+      17
+
+"[Title 31 s]ection 5324 forbids structuring transactions with a `purpose of evading'" certain statutory reporting requirements. Ratzlaf v. United States, 510 U.S. 135, 140, 114 S.Ct. 655, 126 L.Ed.2d 615 (1994). The government maintains that counts two and three are separate units of prosecution because the structuring occurred over a 24-month period and involved the concealment of more than $100,000 within each 12-month period. However, no provision of the statute indicates that a single course of structuring can be segmented based on 12-month intervals (or any other intervals of time) or by the amount of funds in any interval.
+
+      18
+
+The statute's penalty enhancement provision, on which the government apparently relied, provides that a structuring offense is "aggravated" where the structured funds: [1] exceed $100,000 within a 12-month period, and [2] are "part of a pattern of any illegal activity." 31 U.S.C. § 5324(d)(2). But that provision is intended to enhance sentences for more serious structuring offenses; it is not a device for segmenting and compounding a single offense.
+
+      19
+
+On appeal, the government looks elsewhere for support. It notes (correctly) that courts "often look[] to the source of the funds structured ... rather than the number of deposits, in deciding the allowable unit of prosecution." Appellee's Br. at 28 (discussing United States v. Nall, 949 F.2d 301, 307 (10th Cir.1991)). The government then argues that the source of funds for each count was distinct because
+
+      20
+
+Handakas wrote separate checks of under $10,000 each. Therefore, each check cashed for him by the subcontractors was a separate transaction, with a separate source of funds, i.e. the check itself, physically distinct from the other checks.
+
+      21
+
+Id. at 29 (emphasis added). This argument — that an individual deposit can in fact constitute an "allowable unit of prosecution," id. at 28 — violates the distinction, based on Nall, between the number of sources and the number of transactions. Nall, 949 F.2d at 308 (holding that there was only one source for three separate bank deposits where all of the money came from one lump sum payment to the defendant, and that, accordingly, there was only one structuring count).
+
+      22
+
+The drawing of each check cannot constitute an "allowable unit of prosecution," because "the structuring itself, and not the individual deposit, is the unit of crime." United States v. Davenport, 929 F.2d 1169, 1172 (7th Cir.1991) (emphasis added). Each and every structuring offense, by nature, entails multiple transfers of funds in amounts small enough to avoid detection. Ratzlaf, 510 U.S. at 136, 114 S.Ct. 655 (defining the structuring of transactions as the "break[ing] up [of] a single transaction above the reporting threshold into two or more separate transactions"); United States v. Scanio, 900 F.2d 485, 488 (2d Cir.1990) ("[P]ersons ... `structure' their currency transactions ... [by] engag[ing] in multiple transactions each involving slightly under $10,000 [so] as to avoid triggering the financial institutions' filing obligations."), overruled on other grounds by Peck v. United States, 73 F.3d 1220 (2d Cir.1995). Accordingly, the number of structuring offenses (i.e., "units of prosecution") is not determined by the number of fractional, sub-liminal transactions made for concealment. See Nall, 949 F.2d at 308 (holding that government improperly charged three structuring violations where defendant made three deposits and "source of each deposit was the same lump sum ..., identical except for the date of the deposit"); Davenport, 929 F.2d at 1171 ("The government's position leads to the weird result that if a defendant receives $10,000 and splits it up into 100 deposits he is ten times guiltier than a defendant who splits up the same amount into ten deposits.").
+
+      23
+
+Because we find no precedential or statutory support for the multiple structuring charges, conviction on two separate counts constituted an "error" that is "plain." United States v. Olano, 507 U.S. 725, 732, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993); see also Johnson v. United States, 520 U.S. 461, 466-68, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997) (holding that an error is "plain" if the "law at the time of trial was settled and clearly contrary to the law at the time of appeal.").
+
+      24
+
+As to whether the error "affect[s] substantial rights," id. at 467, 117 S.Ct. 1544, Handakas bears the burden of showing prejudice that "affected the outcome of the district court proceedings." United States v. Gore, 154 F.3d 34, 47 (2d Cir. 1998). Depending on how the counts were grouped in the Pre-sentence Investigation Report, the duplicative structuring count may have had no impact on Handakas's sentence; the Supreme Court has held, however, that prejudice inheres in a multiplicity error regardless of its impact on the sentence:
+
+      25
+
+The remedy of ordering one of the sentences to be served concurrently with the other cannot be squared with Congress' intention. One of the convictions, as well as its concurrent sentence, is unauthorized punishment for a separate offense. The second conviction, whose concomitant sentence is served concurrently, does not evaporate simply because of the concurrence of the sentence. The separate conviction, apart from the concurrent sentence, has potential adverse collateral consequences that may not be ignored. For example, the presence of two convictions on the record may delay the defendant's eligibility for parole or result in an increased sentence under a recidivist statute for a future offense. Moreover, the second conviction may be used to impeach the defendant's credibility and certainly carries the societal stigma accompanying any criminal conviction. Thus, the second conviction, even if it results in no greater sentence, is an impermissible punishment.
+
+      26
+
+Ball v. United States, 470 U.S. 856, 864-65, 105 S.Ct. 1668, 84 L.Ed.2d 740 (1985) (internal citations omitted) (emphasis in original); see also United States v. Coiro, 922 F.2d 1008, 1015 (2d Cir.1991) (citing Ball, 470 U.S. at 865, 105 S.Ct. 1668). Although the parties have not briefed the impact of the second structuring count on Handakas's sentence, we hold under Ball that the multiplicity error is prejudicial.
+
+      27
+
+It remains to be decided whether we will exercise our discretion to notice the plain error, which we may do if the error "seriously affect[s] the fairness, integrity or public reputation of judicial proceedings." Olano, 507 U.S. at 736, 113 S.Ct. 1770 (alteration in original). Because we are already remanding on other grounds, Handakas will in any event be resentenced; no interest of the prosecution, the public, or the courts would be served by subjecting Handakas on resentencing to punishment for two structuring offenses when he committed one. Under these circumstances, we think it would adversely affect the fairness and integrity of the sentencing process to require the district court to do that.
+
+      28
+
+* * * * * *
+
+      29
+
+Accordingly, we remand the two structuring convictions "with instructions to have the District Court exercise its discretion to vacate one of the convictions." Ball, 470 U.S. at 865, 105 S.Ct. 1668; see also Coiro, 922 F.2d at 1015 (quoting Ball, 470 U.S. at 865, 105 S.Ct. 1668).
+
+III
+
+      30
+
+The elements of mail fraud are: [1] "a scheme or artifice to defraud," [2] furthered by the use of the mail, [3] to deprive another of money, property, or "the intangible right of honest services." 18 U.S.C. §§ 1341, 1346; see also United States v. Zagari, 111 F.3d 307, 327 (2d Cir.1997). The first element requires: [i] the existence of a scheme to defraud, [ii] specific intent to defraud on the part of the defendant, and [iii] material misrepresentations. United States v. Autuori, 212 F.3d 105, 115 (2d Cir.2000) (citing United States v. D'Amato, 39 F.3d 1249, 1256-57 (2d Cir.1994); Neder v. United States, 527 U.S. 1, 25, 119 S.Ct. 1827, 144 L.Ed.2d 35 (1999)). The second element is satisfied if the mail is used or if its use is reasonably foreseeable. Pereira v. United States, 347 U.S. 1, 8-9, 74 S.Ct. 358, 98 L.Ed. 435 (1954); see also Durland v. United States, 161 U.S. 306, 315, 16 S.Ct. 508, 40 L.Ed. 709 (1896) (holding that mailings need not be effective). The first two elements are easily satisfied on this record.
+
+      31
+
+As to the third element, the statutory wording requires that there be a deprivation of money, property, or "the intangible right of honest services." 18 U.S.C. §§ 1341, § 1346. At trial, the government contended that the SCA suffered loss on all three scores. The theory of "honest services" argued to the jury by the government was that "[t]he SCA had a right to determine how its contracts would be fulfilled," and that Handakas "took away that right." Joint Supplemental App. ("J.S.A.") at 1919-20.
+
+      32
+
+As to whether the SCA was deprived of "money or property," conflicting evidence was adduced at trial. That question was then decided via a special verdict form, supplied by the district court, which separately asked whether the SCA was deprived [i] of money or property, or [ii] of "honest services." The jury checked off only that the SCA was deprived of "honest services." The district court thus carefully assured that each theory of the prosecution would be separately considered and decided. As a result, this case compels us to review in isolation a conviction for theft of "honest services."
+
+      33
+
+On appeal, the government suggests that the jury was confused. Specifically, the government argues that the jury must have found that the sub-prevalent wages paid to Astro's workers resulted in subpar work and thus in an injury to the SCA's money or property, and that the "money or property" finding was not checked off only because the jury deemed one check-mark to be enough. However, the verdict form was clear enough; and the jury was instructed, (largely) in words of one syllable, that "[y]ou can answer yes to both or yes to 1 or yes to neither...." J.S.A. at 2113.
+
+      34
+
+Evidence on both sides was offered as to each theory of loss; the form separately canvassed the jury; the charge lucidly explained the options and how to express them; and the government sought no improvement in the form or the charge. The government must accept and live with an adverse jury finding. See United States v. Powell, 469 U.S. 57, 63, 105 S.Ct. 471, 83 L.Ed.2d 461 (1984) (noting "the unreviewable power of a jury to return a verdict of not guilty for impermissible reasons") (quoting Harris v. Rivera, 454 U.S. 339, 346, 102 S.Ct. 460, 70 L.Ed.2d 530 (1981)). Accordingly, because the conviction rests wholly on the "honest services" theory (and because narrower grounds do not exist for reversal on the mail fraud count), we must decide the outcome-determinative question as to whether the term "honest services" is unconstitutionally vague as applied to Handakas.
+
+      35
+
+* * * * * *
+
+      36
+
+The Due Process Clauses of the Fifth and Fourteenth Amendments require the legislature to specify the elements of criminal offenses. "There are no constructive offenses; and, before one can be punished, it must be shown that his case is plainly within the statute." Fasulo v. United States, 272 U.S. 620, 629, 47 S.Ct. 200, 71 L.Ed. 443 (1926). A criminal statute is void for vagueness if it fails to give notice of the conduct prohibited or fails to channel the discretion of the prosecution:
+
+      37
+
+As generally stated, the void-for-vagueness doctrine requires [1] that a penal statute define the criminal offense with sufficient definiteness that ordinary people can understand what conduct is prohibited and [2] in a manner that does not encourage arbitrary and discriminatory enforcement.
+
+      38
+
+Kolender v. Lawson, 461 U.S. 352, 357, 103 S.Ct. 1855, 75 L.Ed.2d 903 (1983); see also Vill. of Hoffman Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489, 102 S.Ct. 1186, 71 L.Ed.2d 362 (1982); Smith v. Goguen, 415 U.S. 566, 94 S.Ct. 1242, 39 L.Ed.2d 605 (1974); Grayned v. City of Rockford, 408 U.S. 104, 92 S.Ct. 2294, 33 L.Ed.2d 222 (1972); Papachristou v. City of Jacksonville, 405 U.S. 156, 92 S.Ct. 839, 31 L.Ed.2d 110 (1972). "[A] court must first determine whether the statute gives the person of ordinary intelligence a reasonable opportunity to know what is prohibited and then consider whether the law provides explicit standards for those who apply it." Chatin v. Coombe, 186 F.3d 82, 87 (2d Cir.1999) (quoting United States v. Strauss, 999 F.2d 692, 697 (2d Cir.1993)).
+
+      39
+
+In short, the statute must give notice of the forbidden conduct and set boundaries to prosecutorial discretion.
+
+      40
+
+* * * * * *
+
+      41
+
+The doctrine of "honest services" was originally judge-made law. Courts construed the term "any scheme or artifice to defraud" to include schemes to deprive another of "the intangible right of honest services." See, e.g., United States v. Clapps, 732 F.2d 1148, 1152-53 (3d Cir.1984); United States v. Bohonus, 628 F.2d 1167, 1172 (9th Cir.1980); United States v. Isaacs, 493 F.2d 1124, 1150 (7th Cir.1974); United States v. States, 488 F.2d 761, 764-67 (8th Cir.1973).
+
+      42
+
+Over time, the "honest services" doctrine became applicable to four general categories of defendants: [1] government officials who defraud the public of their own honest services; [2] elected officials and campaign workers who falsify votes and thereby defraud the electorate of the right to an honest election; [3] private actors who abuse fiduciary duties by, for example, taking bribes; and [4] private actors who defraud others of certain intangible rights, such as privacy. McNally v. United States, 483 U.S. 350, 362-64 n. 1-4, 107 S.Ct. 2875, 97 L.Ed.2d 292 (1987) (Stevens, J., dissenting) (surveying the pre-McNally scope of the doctrine).
+
+      43
+
+Within these four categories, the doctrine grew in an "uneven" way, case-by-case and circuit-by-circuit; and court after court warned of prosecutorial abuse. United States v. Brumley, 116 F.3d 728, 733 (5th Cir.1997) (en banc) (listing cases applying "honest services" in varying ways); see also United States v. Martin, 195 F.3d 961, 966 (7th Cir.1999) ("[A] century of interpretation of the [mail fraud] statute has failed to still the doubts of those who think it dangerously vague."); United States v. Lemire, 720 F.2d 1327, 1336 n. 11 (D.C.Cir.1983) ("[I]f merely depriving the victim of the loyalty and faithful service of his fiduciary constitutes criminal fraud ... disloyalty alone becomes the crime, [and] little remains before every civil wrong is potentially indictable."); United States v. Rabbitt, 583 F.2d 1014, 1024 (8th Cir.1978) ("Every case of breach of public trust and misfeasance in office in connection with which some mailing has occurred does not and cannot fall within the confines of the mail fraud statute."); United States v. Louderman, 576 F.2d 1383, 1388 (9th Cir.1978) (noting that the mail fraud statute "should be carefully and strictly construed in order to avoid extension beyond the limits intended by Congress"); United States v. McNeive, 536 F.2d 1245, 1248 (8th Cir.1976) (noting "[t]he relative lack of definite standards contained in § 1341"); United States v. Edwards, 458 F.2d 875, 880 (5th Cir.1972) (noting that the federal mail fraud statute "must be strictly construed in order to avoid extension beyond the limits intended by Congress"); see also John C. Coffee, Jr., Modern Mail Fraud: The Restoration of the Public/Private Distinction, 35 Am. Crim. L.Rev. 427, 427 (1998) (comparing the expansion of the "intangible rights" doctrine in the 1970s to the spread of the kudzu vine); Geraldine Szott Moohr, Mail Fraud and the Intangible Rights Doctrine: Someone to Watch over Us, 31 Harvard J. on Legis. 153, 179 (1994) ("[I]ncremental progression of ... the intangible rights doctrine ... is an excellent example of judicial crime creation. [P]rosecutors... bring previously undefined conduct to trial in the hope that the court will criminalize it.").
+
+      44
+
+Until 1987, courts continued to uphold convictions for theft of "honest services," relying on a 1909 Congressional amendment to § 1341 which supposedly expanded the statute's scope beyond deprivations of money or property. Act of Mar. 4, 1909, ch. 321, § 215, 35 Stat. 1130; McNally v. United States, 483 U.S. 350, 358, 107 S.Ct. 2875, 97 L.Ed.2d 292 (1987) (citing United States v. Clapps, 732 F.2d 1148, 1152 (3rd Cir.1984); United States v. States, 488 F.2d 761, 764 (8th Cir.1973)). In 1987, however, the Supreme Court held that the amendment actually was intended only to codify an earlier Supreme Court holding (which had done no more than expand the definition of "property" in § 1341); mail fraud prosecutions were therefore limited by the Court to deprivations of money or property. McNally, 483 U.S. at 358, 360, 107 S.Ct. 2875 (holding the 1909 amendment to be a codification of Durland v. United States, 161 U.S. 306, 16 S.Ct. 508, 40 L.Ed. 709 (1896)); see also Cleveland v. United States, 531 U.S. 12, 18, 121 S.Ct. 365, 148 L.Ed.2d 221 (2000) (reaffirming that reading of the amendment). Citing principles of federalism and separation of powers, McNally reasoned that it was wrong for the federal judiciary to "set[] standards of disclosure and good government for local and state officials." McNally, 483 U.S. at 360, 107 S.Ct. 2875; see also Brumley, 116 F.3d at 738 (Jolly, J., dissenting) (so reading McNally).
+
+      45
+
+McNally declared that "[i]f Congress desires to go further, it must speak more clearly than it has." McNally, 483 U.S. at 360, 107 S.Ct. 2875. One question presented by the conviction of Handakas is whether the statute adopted by Congress a year later (18 U.S.C. § 1346) speaks with clarity sufficient to satisfy the Court's command.
+
+      46
+
+Section 1346 (an amendment to the Anti-Drug Abuse Act of 1988) defines "scheme or artifice to defraud" to include "a scheme or artifice to deprive another of the intangible right of honest services." 18 U.S.C. § 1346. According to one Senator, the intent was "to reinstate all of the pre-McNally caselaw pertaining to the mail and wire fraud statutes without change." 134 CONG. REC. S17360-02 (daily ed. Nov. 10, 1988) (statement of Sen. Biden); see also 134 CONG. REC. H11108-01 (daily ed. Oct. 21, 1988) (statement of Rep. Conyers) ("[Section 1346] is intended merely to overturn the McNally decision. No other change in the law is intended.").
+
+      47
+
+Some circuits have implemented § 1346 by resurrecting pre-McNally law. Thus, the Sixth Circuit has held that "§ 1346 has restored the mail fraud statute to its pre-McNally scope." United States v. Frost, 125 F.3d 346, 364 (6th Cir.1997); see also United States v. Czubinski, 106 F.3d 1069, 1076 (1st Cir.1997). And the Fifth Circuit, after noting that "Congress could not have intended to bless each and every pre-McNally lower court `honest services' opinion," observed that "Congress ... has set us back on a course of defining `honest services'"; and that Court has "turn[ed] to that task." Brumley, 116 F.3d at 733. However, one of these approaches simply reinstates the entire, dissonant body of prior circuit precedent, while the other invites the creation out of whole cloth of new judicial interpretations of "honest services" — interpretations that will undoubtedly vary from circuit to circuit. The result is "a truly extraordinary statute, in which the substantive force of the statute varie[s] in each judicial circuit." Brumley, 116 F.3d at 743 n. 6 (Jolly, J., dissenting). For example, compare Frost, 125 F.3d at 365-66 (requiring a breach of a fiduciary duty to sustain a theft of "honest services" in the private sector), with United States v. Sancho, 157 F.3d 918, 921 (2d Cir.1998) (per curiam) (rejecting a fiduciary duty requirement); and compare United States v. Cochran, 109 F.3d 660, 667 (10th Cir.1997) (subjecting omission or misrepresentation to a test of materiality), with Frost, 125 F.3d at 368 (subjecting omission or misrepresentation to a test of reasonable forseeability).
+
+      48
+
+This Circuit has foreclosed the use of pre-McNally cases as a tool for construing the revised statute:
+
+      49
+
+Before the Supreme Court's decision in McNally ... there was judge-made law.... Whether, prior to the passage of § 1346, the elements of § 1343 as applied to deprivations of intangible rights required a scheme to breach a fiduciary duty is, however, no longer pertinent.... Congress passed a new law, § 1346. Section 1346 specifies that a scheme or artifice to defraud includes a scheme "to deprive another of the intangible right of honest services." What the government must prove to satisfy this element of the offense is defined by Section 1346 — not by judicial decisions that sought to interpret the mail and wire fraud statutes prior to the passage of § 1346.
+
+      50
+
+Sancho, 157 F.3d at 921-22. In deciding whether the revised statute provides [1] notice, and [2] limits on prosecutorial discretion, we are therefore left (where we start) with the statutory wording: "the intangible right of honest services."
+
+IV
+
+      51
+
+The first inquiry that bears on vagueness — the sufficiency of notice — is whether the statute, as it is written, provides notice sufficient to alert "ordinary people [to] what conduct is prohibited." Kolender v. Lawson, 461 U.S. 352, 357, 103 S.Ct. 1855, 75 L.Ed.2d 903 (1983); see also Chatin v. Coombe, 186 F.3d 82, 87 (2d Cir.1999). Notice is essentially a definitional requirement: a penal statute must speak for itself so that a lay person can understand the prohibition. Id. It is not enough to say that judges can intuit the scope of the prohibition if Handakas could not:
+
+      52
+
+McNally placed the burden on Congress to put down in statutory form whatever expanded scope it chose to give to the fraud statutes. In effect, Congress was charged with codifying in statutory form the definitions of the conduct which would be prohibited by the concepts of "intangible rights," "honest services," and "good and honest government...." The requirement imposed by the Supreme Court to speak more clearly was not for the benefit of the Circuit Courts which had, in fact, given birth to these concepts in the first place. Rather, the requirement ... was for the benefit of the public, the average citizen ... who must be forewarned and given notice that certain conduct may subject him to federal prosecution.
+
+      53
+
+Brumley, 116 F.3d at 745-46 (Jolly, J. dissenting) (emphasis added).
+
+      54
+
+If we were the first panel attempting to discern the meaning of the phrase "honest services" in § 1346, we would likely find that part of the statute so vague as to be unconstitutional on its face. Section 1346 specifies that a "scheme to defraud" includes the deprivation of another's "intangible right of honest services," and in that way expresses legislative intent to expand the offense beyond deprivations of money or property; but it does not say what "honest services" may be, or when they are withheld deceitfully.
+
+      55
+
+The plain meaning of "honest services" in the text of § 1346 simply provides no clue to the public or the courts as to what conduct is prohibited under the statute. Judge Jolly observed in 1997 that the terms "intangible right" and "honest services" cannot be found in Black's Law Dictionary, the United States Code, or (for that matter) any federal statute other than § 1346. Brumley, 116 F.3d at 742 (Jolly, J., dissenting). That observation remains accurate today. Clearly, "`honest services' has not achieved the status of a commonly accepted and recognized term of art which Congress could have been relying upon in using these words.... The phrase is ... inherently undefined and ambiguous." Id. at 742, 746 (Jolly, J. dissenting).
+
+      56
+
+Nor is this "a case where further precision in the statutory language is either impossible or impractical." Kolender, 461 U.S. at 361, 103 S.Ct. 1855. Congress contemplated (but ultimately rejected) more determinate versions of § 1346. For instance, Senate Bill 2793, entitled the "Anti-Corruption Act of 1988," was passed by the Senate on October 14, 1988. Brumley, 116 F.3d at 743-44 (Jolly, J., dissenting). However, the House later deleted the text of the bill, and replaced it with the text of § 1346. Id. at 744.3
+
+      57
+
+Congress wrestled with the vagueness problem. At a hearing on the proposed addition of § 1346, the following exchange ensued between Ronald Stroman, assistant counsel for the subcommittee, and John C. Keeney, Acting Assistant Attorney General:
+
+      58
+
+Mr. STROMAN: Well, honest services of [a] public official, do you think that is [] specific? I mean what does "honest services" mean? Certainly if I am a public official —
+
+      59
+
+Mr. KEENEY: Well, it means that — it means what the circuit courts of appeals have been saying for years that when a Mandel or a Kerner corruptly uses his office he is depriving the citizens of that State of his honest services.
+
+      60
+
+...
+
+      61
+
+Mr. STROMAN: I would wholeheartedly agree with that, but certainly the concept of intangible rights has been interpreted by a whole host of cases as well. To use the term "honest government" and say that is more specific than intangible rights when you have got the same history of case law, quite frankly I do not see the distinction. If I am an official in the Government and I see the term "honest government," that certainly does not alert me anymore than the existing statute as to what you are trying to cover. I do not know what that means. I would have to read the cases that you referred to. If I read the mail fraud statute, the same situation applies. I would have to read the cases to specifically understand what the statute is attempting to get at. And my point is that if you say that what you are trying to do is create a new statute because it is more specific, quite frankly it is not anymore [sic] specific.
+
+      62
+
+Mail Fraud: Hearing Before the Subcomm. on Criminal Justice of the House Comm. on the Judiciary, 100th Cong., 2d Sess. 7, at 48-49 (1988) (emphasis added).
+
+      63
+
+We have held that an administrative prison rule was unconstitutionally vague as applied where its prohibition could be understood only through "the lawyer-like task of statutory interpretation...." Chatin v. Coombe, 186 F.3d 82, 89 (2d Cir.1999).4 Similarly, here, no one can know what is forbidden by § 1346 without undertaking the "lawyer-like task" of answering the following questions: [1] Can pre-McNally case law be consulted to illuminate the wording of § 1346? [2] Can any meaning be drawn from the case law, either the uneven pre-McNally cases or the few cases decided post- § 1346? [3] Is one to be guided only by case law within one's own circuit, or by the law of the circuits taken together (if that is possible)? A "[lay-] individual of ordinary intelligence" in Handakas's position would not know where to begin. Id. at 87 (quoting Chatin v. New York, No. 96-420, 1998 WL 196195, at *6 (S.D.N.Y. Apr.23, 1998)); see also Lanzetta v. New Jersey, 306 U.S. 451, 453, 59 S.Ct. 618, 83 L.Ed. 888 (1939) ("No one may be required at peril of life, liberty or property to speculate as to the meaning of penal statutes. All are entitled to be informed as to what the State commands or forbids.").
+
+      64
+
+* * * * * *
+
+      65
+
+We are not, however, the first panel of our court to consider the meaning of "honest services" in § 1346. In Sancho, the defendant argued that his conduct did not fall within the "honest services" provision, primarily on the grounds that the "consultant" he bribed did not owe the intended victim a fiduciary duty. Sancho, 157 F.3d at 920. The panel rejected that argument, which was based on pre-McNally case law, holding that such cases are "not pertinent" to interpretation of "honest services" in § 1346. Id. at 921. It stated that there was "no doubt" that the "consultant" was under a legal duty to inform the intended victim of the bribe, and that there was also "no doubt" that the duty fell within the meaning of "honest services" in § 1346. Id. The cases the panel cited in support of its analysis were all cases involving a duty of disclosure enforceable by an action in tort. See Fund of Funds, Ltd. v. Arthur Andersen & Co., 545 F.Supp. 1314, 1360 (S.D.N.Y.1982) (duty to disclose was part of common law professional duties); Maritime Fish Prods., Inc. v. World-Wide Fish Prods., Inc., 100 A.D.2d 81, 474 N.Y.S.2d 281, 285 (1st Dep't 1984) (duty to disclose by virtue of employment or agency relationship); Aaron Ferer & Sons Ltd. v. Chase Manhattan Bank, 731 F.2d 112, 123 (2d Cir.1984) (duty to disclose by virtue of superior knowledge).
+
+      66
+
+In Sancho's only progeny, United States v. Middlemiss, 217 F.3d 112 (2d Cir.2000), the panel, relying on Sancho, upheld a conviction for mail fraud involving a scheme that deprived the defendant's employer of "all the services that a totally faithful employee would have provided" and in furtherance of which the defendant acted contrary to the best interest of his employer. Id. at 120. Thus, Middlemiss also involved the breach of a duty enforceable by an action in tort. See, e.g., Chemfab Corp. v. Integrated Liner Technologies, 263 A.D.2d 788, 693 N.Y.S.2d 752, 753-54 (3d Dep't 1999). Together, then, Sancho and Middlemiss appear to stand for the proposition that a scheme to harm another by the breach of a duty enforceable by an action in tort may support a conviction for a scheme to defraud another of "honest services."5
+
+      67
+
+Neither Sancho nor Middlemiss provides a meaning of "honest services" that controls this case or saves this prosecution.6 The prosecution of Handakas arises out of his violation of the duties imposed by Article 1, § 17 of the New York State Constitution and § 220 of the New York State Labor Law, duties that are not enforceable by an action in tort. For present purposes, we see no principled distinction between the duties breached by Handakas and the garden-variety contractual duties usually collected under the rubric of "representations and warranties." For the wrongs committed by Handakas, New York law prescribes criminal penalties and may afford contract remedies, but does not afford an action in tort. New York law endeavors to maintain the distinction between contract and tort remedies, and generally bars an action in tort for a breach of contract. See Clark-Fitzpatrick, Inc. v. Long Island R.R. Co., 70 N.Y.2d 382, 521 N.Y.S.2d 653, 516 N.E.2d 190, 193-94 (N.Y.1987); Pilewski v. Solymosy, 266 A.D.2d 83, 698 N.Y.S.2d 660, 662 (1st Dep't 1999) ("[T]he law generally does not permit recovery in tort where the complaint states a legally sufficient claim sounding in contract.").
+
+      68
+
+In Middlemiss, a company seeking a food-concession license at the offices of a public authority conveyed a secret corporate interest to an employee of the authority, who was convicted both of extorting payments from the licensee and of (simultaneously) committing mail fraud by the theft of his "honest services." Middlemiss, 217 F.3d at 120. Even if the "honest services" clause could be read to prohibit such conduct, it still would fail to give the slightest notice that breach of contract could subject one to a mail fraud conviction.7
+
+      69
+
+If we were to affirm Handakas's mail fraud conviction on the grounds that he violated a state-mandated undertaking to pay "prevailing rate of wages," or to furnish accurate reports of work performed, we would effect a breathtaking expansion of mail fraud. Every breach of a contract or state law (committed in the vicinity of a telephone) and every false state tax return (sent by mail) would become punishable as a felony in federal court. See N.Y. Tax Law §§ 651, 1801 (McKinney 2000).8
+
+      70
+
+The government's summation on the subject of "honest services" focused entirely on the deprivation of the SCA's contractual rights. See, e.g., J.S.A. 1919-20. Even someone fully familiar with §§ 1341 and 1346, and our cases, would lack any comprehensible notice that federal law has criminalized breaches of contract. Accordingly, application of those criminal statutes to Handakas violates the due process guarantee of fair notice.
+
+V
+
+      71
+
+The second vagueness inquiry (and "the more important" of the two) is whether the "[s]tatutory language [is] of such a standardless sweep [that it] allows policemen, prosecutors, and juries to pursue their personal predilections." Smith v. Goguen, 415 U.S. 566, 575, 94 S.Ct. 1242, 39 L.Ed.2d 605 (1974); see also Kolender v. Lawson, 461 U.S. 352, 357-58, 103 S.Ct. 1855, 75 L.Ed.2d 903 (1983). "An enactment fails to provide sufficiently explicit standards for those who apply it when it `impermissibly delegates basic policy matters to policemen, judges and juries for resolution on an ad hoc and subjective basis.'" Chatin v. Coombe, 186 F.3d 82, 89 (2d Cir.1999) (quoting Grayned v. City of Rockford, 408 U.S. 104, 108-09, 92 S.Ct. 2294, 33 L.Ed.2d 222 (1972)).
+
+      72
+
+An indefinite criminal statute creates opportunity for the misuse of government power. To appropriate Judge Winter's phrase, the honest services doctrine renders mail fraud "a catch-all ... which has no use but misuse." See United States v. Margiotta, 688 F.2d 108, 144 (2d Cir.1982) (Winter, J., dissenting) (explaining that "[w]hen the first corrupt prosecutor prosecutes a political enemy for mail fraud," talk of honest services and "good government will ring hollow indeed").
+
+      73
+
+Chatin highlighted the dangers of an offense that is "harnessed into service" by the state when other prohibitions will not serve. Chatin, 186 F.3d at 90. Even without the overlay provided by the amendment on "honest services," the mail fraud statute has been aptly described as an all-purpose prosecutorial expedient.9 By invoking § 1346, prosecutors are free to invite juries "to apply a legal standard which amounts to little more than the rhetoric of sixth grade civics classes." Margiotta, 688 F.2d at 142 (Winter, J., dissenting). If the "honest services" clause can be used to punish a failure to honor the SCA's insistence on the payment of prevailing rate of wages, it could make a criminal out of anyone who breaches any contractual representation: that tuna was netted dolphin-free; that stationery is made of recycled paper; that sneakers or T-shirts are not made by child workers; that grapes are picked by union labor — in sum so called consumer protection law and far more.
+
+      74
+
+At trial, the government thought it sufficient to argue that Handakas was guilty of conspiracy to commit mail fraud simply by violating his non-fiduciary contractual obligation to pay his workers the prevailing rate of wages. That is what the prosecutor argued to the jury:
+
+      75
+
+[S]ometimes you care about how things are done, and if you spell that out in a contract and you make it clear to the people you are dealing with, as the SCA did here, that not only do you want something but you want it done a certain way, you have a right to that, and that's what's at issue here. The SCA had a right to determine how its contracts would be fulfilled.
+
+      76
+
+J.S.A. at 1919 (emphasis added).
+
+      77
+
+The SCA had a property right in its contract.... [Handakas] took away that right ... to decide how the SCA had its contract performed.... [T]he defendant owes a duty of honest services. There is a contract here.
+
+      78
+
+J.S.A. at 1920.
+
+      79
+
+[T]hat's exactly the point. There was a relationship ... defined by a contract.
+
+      80
+
+J.S.A. at 1922.
+
+      81
+
+[T]here can be no doubt that what the defendant did here was intentionally seek to deprive the SCA of this contract right, the right not just to determine what work gets done, but how it gets done.
+
+      82
+
+J.S.A. at 1917.
+
+      83
+
+These arguments prove too much, however, as the government apparently realized on appeal. By the time the government filed its post-argument supplemental brief on this subject, it was back-peddling and conceded that it "misspoke" during oral argument when it suggested that a duty of "honest services" arises in connection with the performance of all contracts and is violated by any contract breach. Appellee's Supplemental Br. at 1 & n. 1. The government's improved appellate theory of this prosecution is that the "honest services" clause may have its limits, but that Handakas's conduct falls within those limits because of a supposed "agency" relationship between Handakas and the SCA. Id. at 1-11. However, there is no reference to agency (or fiduciary relationships) in the indictment, or in the charge10, or in the summations, or in the government's brief in chief on appeal. The government's summation on the subject of "honest services" was focused on the contract right to compliance with representations and warranties:
+
+      84
+
+[T]here are times when there are things more important than price. We are probably all familiar with instances where you ... have decided not to buy a particular product because you don't like... the way workers are treated. Years ago there was a boycott of grapes because the workers who picked it weren't being treated fairly. You read all the time about people who won't buy certain clothing because it's made in sweatshops in Asia.
+
+      85
+
+J.S.A. 1918. The contract argument was thus cast in terms of social conscience and treated "honest services" as a concept without boundary or standard.
+
+      86
+
+Even the circuits that have reinstated pre-McNally law recognize that ad hoc parameters are needed to give the statute shape. See United States v. Frost, 125 F.3d 346, 368 (6th Cir.1997) ("[Our] refusal to carry the intangible rights doctrine to its logical extreme stems from a need to avoid the over-criminalization of private relationships: `[I]f merely depriving the victim of the loyalty and faithful service of his fiduciary constitutes mail fraud ... disloyalty alone becomes the crime, little remains before every civil wrong is potentially indictable.'" (quoting United States v. Lemire, 720 F.2d 1327, 1336 n. 11 (D.C.Cir.1983)) (second alteration in original)); United States v. Cochran, 109 F.3d 660, 667 (10th Cir.1997) ("[I]t would give us great pause if a right to honest services is violated by every breach of contract or every misstatement made in the course of dealing."); Brumley, 116 F.3d at 733 ("[B]efore McNally the doctrine of honest services was not a unified set of rules. And Congress could not have intended to bless each and every pre-McNally lower court `honest services' opinion. Many of these opinions have expressions far broader than their holdings.").
+
+      87
+
+If the words of a criminal statute insufficiently define the offense, it is no part of deference to Congress for us to intuit or invent the crime. "The courts may not assume the place of the Congress by writing or rewriting criminal laws pursuant to which citizens will be prosecuted. This is solely the prerogative of Congress." Id. at 736, 746 (Jolly, J., dissenting) (finding no Supreme Court precedent permitting Congress to "delegate to the federal courts the task of defining the key terms and coverage of a criminal statute"); see also Cleveland v. United States, 531 U.S. 12, 24, 121 S.Ct. 365, 148 L.Ed.2d 221 ("We resist the Government's reading of [property rights under] § 1341 ... because it invites us to approve a sweeping expansion of federal criminal jurisdiction in the absence of a clear statement by Congress."); Smith, 415 U.S. at 574-75, 94 S.Ct. 1242; United States v. Reese, 92 U.S. 214, 221, 23 L.Ed. 563 (1875) (mem.) ("It would certainly be dangerous if the legislature could set a net large enough to catch all possible offenders, and leave it to the courts to step inside and say who could be rightfully detained, and who should be set at large. This would, to some extent, substitute the judicial for the legislative department of government."); United States v. Margiotta, 688 F.2d 108, 141 n. 4, 142 (2d Cir.1982) (Winter, J., dissenting) ("Even if there were not a canon of construction calling upon us to avoid broad construction of criminal statutes, the recent extension of mail fraud by judicial fiat would be unwarranted.... [T]he obligations imposed are wholly the creation of recent interpretations of the mail fraud statute itself.").
+
+      88
+
+* * * * * *
+
+      89
+
+The absence of discernible standards in the "honest services" doctrine implicates principles of federalism. McNally, 483 U.S. at 360, 107 S.Ct. 2875. As the government's summation demonstrates, this prosecution was driven by a conception formed by federal prosecutors that certain New York laws appeal so strongly to the social conscience that violation should be treated as felonious under federal law. New York's interest in the payment of prevailing rate of wages is secured and enforced by state laws deemed sufficient by the state. Under § 220 of the New York State Labor Law, the comptroller of the City of New York is empowered to make findings of fact and enforce a judgment against contractors who fail to pay prevailing rate of wages. N.Y. Lab. Law § 220(7 a.), (8.). Additionally, the statute provides that willful violation constitutes a misdemeanor. N.Y. Lab. Law § 220(2 a.), (3.), (9.). Prosecutorial discretion has been exercised here to sharpen the penalty for the violation of certain state laws that, in the estimation of a federal prosecutor, are insufficiently policed or punished by the state itself. This is particularly dubious where interstate commerce is at best tangentially implicated. Cf. United States v. Lopez, 514 U.S. 549, 115 S.Ct. 1624, 131 L.Ed.2d 626 (1995) (holding Federal Gun Free School Zone Act unconstitutional, because criminal statute exceeded Congress's commerce clause authority; reasoning that possession of gun in school zone was not economic activity that substantially affected interstate commerce).
+
+      90
+
+In a recent case holding that the right to a gaming license was not a property interest under § 1341, the Supreme Court warned against the indiscriminate federalization of state offenses:
+
+      91
+
+Louisiana's video poker statute typically and unambiguously imposes criminal penalties for making false statements on license applications.... [U]nless Congress conveys its purpose clearly, it will not be deemed to have significantly changed the federal-state balance in the prosecution of crimes.
+
+      92
+
+Cleveland v. United States, 531 U.S. 12, 24-25, 121 S.Ct. 365, 148 L.Ed.2d 221 (2000) (internal quotation marks and citations omitted). The same principle of federalism is implicated when a federal prosecutor uses the "honest services" clause to reinforce a state law governing the terms of public contracts.
+
+      93
+
+* * * * * *
+
+      94
+
+The dissent urges that we should have applied plain error review, because the district court failed to address the vagueness question. Dissent at 114. However, it cannot be said that the issue escaped the district court's notice; Judge Weinstein's pointed interrogatories on the special verdict form purposefully isolated the question that we are deciding in a way that invited separate consideration. In any event, a holding of "plain error" is supported by the four factors listed in United States v. Olano, 507 U.S. 725, 732, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993); see also United States v. Easter, 981 F.2d 1549, 1557 (10th Cir.1992) ("[W]e apply the plain error rule less rigidly when reviewing a potential constitutional error.").
+
+      95
+
+The reasons adduced in this opinion demonstrate that [1] there was error. The error was also [2] "plain" in that it is "clear under current law." Olano, 507 U.S. at 734, 113 S.Ct. 1770. The principle that a statute must provide both "notice" and "explicit standards" to survive an "as-applied" constitutional challenge based on vagueness is well established. See, e.g., Chatin v. Coombe, 186 F.3d 82, 86 (2d Cir.1999); United States v. Strauss, 999 F.2d 692, 697 (2d Cir.1993). Moreover, it is also clear that "notice" and "explicit standards" are required not only for regulations "implicat[ing] ... First Amendment freedoms," dissent at 116, but also criminal statutes that do not involve those freedoms. See, e.g., United States v. Schneiderman, 968 F.2d 1564, 1568 (2d Cir.1992) (analyzing an as-applied challenge to 21 U.S.C. § 857 (now moved to 21 U.S.C. § 863), which criminalized the sale of drug paraphernalia in interstate and foreign commerce), abrogated on other grounds by Posters `N' Things, Ltd. v. United States, 511 U.S. 513, 114 S.Ct. 1747, 128 L.Ed.2d 539 (1994). As discussed more fully above, the several key words of § 1346 set no limits and state no limitations that can shed light on whether Handakas's conduct violates the statute.
+
+      96
+
+The cases cited by the dissent at 113 n. 1, which reject either facial challenges to § 1346 or as-applied challenges in other factual contexts, simply do not address the question with which we are presented here. The dissent cites no case in which a mail fraud conviction based on the "honest services" provision was based upon a scheme to deprive another of the "honest" performance of purely contractual duties or of statutorily imposed duties to submit information to a state agency. Dissent at 113 n. 1 (citing United States v. Frega, 179 F.3d 793, 803 (9th Cir.1999) (rejecting as-applied challenge where scheme involved bribery of state judges); United States v. Frost, 125 F.3d 346, 370-71 (6th Cir.1997) (rejecting facial challenge); United States v. Brumley, 116 F.3d 728, 732-33 (5th Cir.1997) (en banc) (rejecting constitutional challenge based on vagueness where defendant was a state employee who solicited bribes, but noting "some defendants on the outer reaches of the statute might be able to complain that they were not on notice that Congress criminalized their conduct when it revived the honest-services doctrine"); United States v. Paradies, 98 F.3d 1266, 1282-83 (11th Cir.1996) (rejecting as-applied challenge where scheme involved bribery of a public official); United States v. Gray, 96 F.3d 769, 776-77 (5th Cir.1996) (rejecting as-applied challenge where scheme involved conspiracy by employees to deprive their employer of "honest services"); United States v. Castro, 89 F.3d 1443, 1455 (11th Cir.1996) (rejecting as-applied challenge where scheme involved state judges accepting kickbacks from defense attorneys in exchange for appointments as counsel for indigent defendants); United States v. Bryan, 58 F.3d 933, 941-43 (4th Cir.1995) (rejecting as-applied challenge where defendant was a state official that rigged bidding for state agency contracts), abrogated on other grounds by United States v. O'Hagan, 521 U.S. 642, 117 S.Ct. 2199, 138 L.Ed.2d 724 (1997); United States v. Waymer, 55 F.3d 564, 568-69 (11th Cir.1995) (rejecting facial and as-applied challenges where defendant was a government official that accepted kickbacks)).
+
+      97
+
+The error [3] obviously affects "substantial rights" — a point which the dissent does not dispute. Olano, 507 U.S. at 732, 113 S.Ct. 1770. Finally, the error [4] seriously affects "the fairness, integrity, or public reputation of judicial proceedings," id.: respect for the justice system would be subverted if we would refuse to exercise our discretion to reverse a conviction where we have found that the application of the relevant federal statute to the defendant's conduct would deprive the defendant of due process of law — even if, as the dissent notes at 116 the defendant's conduct violated state law.
+
+      98
+
+For the foregoing reasons, we hold that § 1346 is unconstitutionally vague as applied to Handakas and reverse the conviction on the mail fraud count. This ruling obviates consideration of Handakas's alternative argument that the evidence on this count was insufficient.
+
+VI
+
+      99
+
+To sustain a conviction for conspiracy to launder money, the government must demonstrate: [1] that the defendant conspired to transport funds from a place in the United States to or through a place outside the United States, [2] with knowledge that the funds were the proceeds of illegal activity, [3] to conceal the nature of the illegal activity or to avoid a currency reporting requirement. 18 U.S.C. § 1956(h); United States v. Trapilo, 130 F.3d 547, 549 (2d Cir.1997).
+
+      100
+
+The evidence showed that Handakas engaged in two separate types of money transfers: [1] he arranged for his personal expenses to be paid out of the accounts of controlled subcontractors and shell corporations, and [2] he had money wired from these accounts to Greece. Only the latter transfers went abroad from the United States; accordingly, they are the only transfers that could have provided the basis for the money laundering conviction.
+
+      101
+
+Handakas argues that the international transfers were not currency transactions subject to a required filing of a currency report (under 31 U.S.C. § 5313(a)), and the government does not challenge that argument on appeal. The government must therefore argue that the funds transferred were the proceeds of illegal activity. However, the only potentially available predicate for that finding is the mail fraud conspiracy. The government's brief concedes this point, arguing only that "Handakas was properly convicted of the conspiracy to commit mail fraud. Having been convicted of that crime, he was also properly found by the jury to have engaged in laundering of the proceeds of that crime." Appellee's Supplemental Br. at 23-24.11 Since the mail fraud conviction has been reversed in this opinion, the money laundering conviction falls with it.
+
+CONCLUSION
+
+      102
+
+The mail fraud count (Count One), the money laundering count (Count Four), and one of the two structuring counts (Count Two or Three) are REVERSED. The remaining counts of conviction are AFFIRMED. The sentence is VACATED, and the case is REMANDED to the district court for resentencing. The district court may in its discretion wish to expedite resentencing; from our perspective, it appears that Handakas has completed or may soon complete the term to which he may be resentenced. In these circumstances, the mandate shall issue forthwith.
+
+Notes:
+
+        1
+
+ Handakas'spro se brief raises a number of additional arguments — all of which are meritless. We therefore affirm Handakas's conviction on the counts of [1] failure to file a currency report, [2] making a materially false representation, and [3] conspiracy to defraud the United States.
+
+        2
+
+ Compare United States v. Lartey, 716 F.2d 955, 968 (2d Cir.1983) (holding that failure to raise duplicity objection to indictment prior to trial constituted waiver), with United States v. Coiro, 922 F.2d 1008, 1013 (2d Cir.1991) (applying plain error standard where the potential multiplicity was not apparent on the face of the indictment).
+
+        3
+
+ Senate Bill 2793 would have criminalized:
+
+(a) depriving or defrauding the inhabitants of a state or a political subdivision of a state of the honest services of an official or employee of such state or subdivision and (b) depriving or defrauding the inhabitants of a state or political subdivision of a state of a fair and impartially conducted election process in any primary, runoff, special or general election.
+
+Brumley, 116 F.3d at 744 (Jolly, J., dissenting).
+
+        4
+
+ The regulation at issue inChatin was subjected to the same vagueness analysis we apply to criminal statutes, because it "carrie[d] penalties ... more akin to criminal rather than civil penalties." Chatin, 186 F.3d at 86-87. The regulation designated appropriate time and place for demonstrative and individual inmate prayer. Id. at 84, 89. We were troubled that the regulation did not define properly terms like "religious service" or "religious speech," id. at 87 — words that, on the whole, have meanings that are more self-evident, or at least more widely understood.
+
+        5
+
+ We note, however, that it appears that no vagueness challenge was presented inSancho or Middlemiss; since the issue of vagueness is not jurisdictional, those panels were not constrained to take it up. In any event, those appeals could be decided on the issues put in play by the parties; the Court is not obliged "to pass on questions of constitutionality... unless such adjudication is unavoidable." Department of Commerce v. United States House of Representatives, 525 U.S. 316, 343, 119 S.Ct. 765, 142 L.Ed.2d 797 (1999) (internal citation omitted). And even if those cases had ruled on the constitutionality of § 1346, certainly none could be said to hold that the statute was constitutionally applied to Handakas.
+
+        6
+
+ Even if these cases implicitly convey sufficient notice of what is meantcurrently by the phrase "honest services" — a question on which we express no opinion — they could not have served as notice to Handakas: neither case had yet been decided when Handakas did the acts that led to his conviction.
+
+        7
+
+ If, instead,Middlemiss had affirmed the conviction of the cafeteria operator, for serving ordinary tuna fish notwithstanding a contract term requiring that all tuna be netted dolphin-free, Middlemiss might be precedent militating in favor of affirmance in this case.
+
+        8
+
+ The dissent does all that can be done to tease meaning out of the statutory wording; the offense thus described is: [i] use of the mails, [ii] in aid of conduct that violates an "explicit" state-created duty or a state criminal statute (or both). But "thetype of duty breached is not a limiting factor in the honest services analysis." Dissent at 116.
+
+        9
+
+ See Margiotta, 688 F.2d at 143 (Winter, J., dissenting) ("[W]hat profoundly troubles me is the potential for abuse through selective prosecution and the degree of raw political power the freeswinging club of mail fraud affords federal prosecutors."); John C. Coffee, Jr., From Tort to Crime: Some Reflections on the Criminalization of Fiduciary Breaches and the Problematic Line Between Law and Ethics, 19 Am.Crim. L.Rev. 117, 126 (1981) (quoting prosecutor's maxim, "when in doubt, charge mail fraud"); John C. Coffee, Jr., The Metastasis of Mail Fraud: The Continuing Story of the "Evolution" of a White-Collar Crime, 21 Am.Crim. L.Rev. 1, 3 (1983) (arguing that mail fraud statute "seems destined to provide the federal prosecutor with what Archimedes long sought — a simple fulcrum from which one can move the world"); Roger J. Miner, Federal Courts, Federal Crimes, and Federalism, 10 Harv. J.L. & Pub. Pol'y 117, 121 (1987) (arguing that judicial interpretation of the mail fraud statute has converted mail fraud statute into a "vehicle for the prosecution of an almost unlimited number of offenses bearing very little connection to the mails"); Jed S. Rakoff, The Federal Mail Fraud Statute (Part I), 18 Duq. L.Rev. 771, 771 (1980) (quoting prosecutors reference to the statute as "our Stradivarius, our Colt 45, our Louisville Slugger, our Cuisinart").
+
+        10
+
+ The charge on "honest services" was as follows:
+
+Under the mail fraud statute, a person or an entity may be defrauded out of something other than money or property, this is also referred to as the intangible right to honest services.
+
+The services may not be honest even though the physical work meets contractual specifications. You should decide this issue in the light of the special circumstances of this case.
+
+J.S.A. at 2080.
+
+        11
+
+ Following oral argument, the panel solicited supplemental briefing on two narrow issues: [1] whether § 1346 was void for vagueness, and [2] how potential reversal (on any count) would effect Handakas's sentence. The government's supplemental brief addresses these issues and adds perfunctorily that the money laundering conviction "would survive" reversal of the mail fraud conviction because the money laundering count "was premised on the structuring convictions as well as the mail fraud." Appellee's Supplemental Br. at 30. However, that statement is unsupported by citation to the charge or by legal argument in support of the novel idea that a money laundering count may be predicated on a structuring conviction. The point is thus inchoate and (on this record) meritless; and, more to the point, it is waivedSee United States v. Nealy, 232 F.3d 825, 830 (11th Cir.2000) ("Parties must submit all issues on appeal in their initial briefs." (citing Fed. R.App. Pro. 28(a)(5))); Plaquemines Port, Harbor and Terminal Dist. v. Federal Maritime Comm'n, 838 F.2d 536, 551 (D.C.Cir.1988) (discounting supplemental brief as "nothing more than a poorly disguised attempt to file a second main brief.").
+
+      103
+
+FEINBERG, Circuit Judge (dissenting in part and concurring in part).
+
+      104
+
+I dissent from the holding that 18 U.S.C. § 1346 is unconstitutional as applied in this case. I concur, however, in the other portions of the majority opinion.
+
+      105
+
+The majority is concerned that a broad use of the "honest services" provision of the mail fraud statute could "make a criminal out of anyone who breaches any contractual representation." Majority op. at 108. While an overly broad use of § 1346 may raise a significant question in some circumstances, no such question should be resolved on this appeal.
+
+      106
+
+The majority appropriately notes, but fails to follow, the "one doctrine more deeply rooted than any other in the process of constitutional adjudication[:] that we ought not to pass on questions of constitutionality... unless such adjudication is unavoidable." Department of Commerce v. United States House of Representatives, 525 U.S. 316, 343, 119 S.Ct. 765, 142 L.Ed.2d 797 (1999) (emphasis supplied) (quoting Spector Motor Service, Inc. v. McLaughlin, 323 U.S. 101, 105, 65 S.Ct. 152, 89 L.Ed. 101 (1944)). For reasons given below, the majority's "adjudication" that § 1346 is unconstitutionally vague as applied in this case is hardly "unavoidable".
+
+      107
+
+To begin with, the constitutional issue was not raised in the district court, as the majority apparently concedes.1 This should preclude us from reaching out to decide it. As the majority correctly states in its discussion of the structuring counts, challenges "not brought to the attention of the [district] court" are reviewed under the constraints of the plain error standard of Fed R.Crim. P. 52(b). Plain error is (1) error, (2) that is plain, and (3) that affects substantial rights. Johnson v. United States, 520 U.S. 461, 466-67, 117 S.Ct. 1544, 137 L.Ed.2d 718 (1997).
+
+      108
+
+Even if we make the unlikely assumption that there was an error below regarding the constitutionality of § 1346 (the district court, of course, did not decide the issue), we cannot properly characterize such error as plain. The Supreme Court has held, in applying the plain error standard, that "plain" is synonymous with "clear" or "obvious", and that "[a]t a minimum, a court of appeals cannot correct an error pursuant to Rule 52(b) unless the error is clear under current law." United States v. Olano, 507 U.S. 725, 734, 113 S.Ct. 1770, 123 L.Ed.2d 508 (1993). Any alleged error as to the unconstitutionality of § 1346 certainly cannot be "clear under current law" when every circuit court to address the specific question of vagueness since the phrase "honest services" appeared in the statute has found § 1346 to be constitutional on its face or as applied.2
+
+      109
+
+Furthermore, it is the law of this circuit that there must be "binding precedent" "mandating" reversal before an error can be deemed plain. United States v. Weintraub, 273 F.3d 139, 152 (2d Cir.2001) ("Without a prior decision from this court or the Supreme Court mandating the jury instruction that [defendant], for the first time on appeal, says should have been given, we could not find any such error to be plain, if error it was."). The majority cites no judicial decision, let alone binding precedent in this circuit, dealing with § 1346 that supports its view. It does attempt to distinguish the cases cited at note 2, supra. See majority op. at 111-12. But merely pointing out different factual patterns in cases that held § 1346 was constitutional does nothing to affirmatively demonstrate that it is clear under current law that § 1346 was un constitutionally applied here. In other words, the majority appears to hold that the alleged error is plain under current law because the majority says so. That simply disregards the teachings of Johnson, Olano and Weintraub.
+
+      110
+
+Thus, under these cases, the second prong of the plain error test is clearly not met.3 This is particularly true because the majority's ruling appears to depart from the analysis used in our recent decision in United States v. Sancho, 157 F.3d 918 (2d Cir.1998) (per curiam), cert. denied, 525 U.S. 1162, 119 S.Ct. 1076, 143 L.Ed.2d 79 (1999). In Sancho, which we are bound to follow (as was the district court), we affirmed a jury finding of guilt under 18 U.S.C. § 1343, 1346. The panel first observed that the "essential element `of a violation" of § 1346 "is a scheme to deprive another of the `intangible right of honest services.'" 157 F.3d at 921. The court then (1) looked to New York law to discover whether there was a legal duty in that case by a so-called consultant (actually an FBI agent) not to conceal from a construction company (TCC) his discovery of a proposed fraud on TCC; (2) concluded that there was such a legal duty under New York law; and (3) held that Sancho used interstate telephone communications in furtherance of a scheme to deprive TCC of its intangible right to the consultant's honest services. Id.
+
+      111
+
+This case cannot be fairly distinguished from Sancho. Here there was a jury finding of guilt on a charge of violating §§ 1341, 1346. As in Sancho, (1) we look to state law to determine whether Handakas was under a legal duty to refrain from intentionally paying wages below those required by state law and falsely certifying payroll records that reflected compliance with the wage requirements; (2) applicable New York law makes clear that there was such a duty; and (3) Handakas used the mails in furtherance of a scheme to deprive the New York City School Construction Authority (SCA) of its intangible right to his honest services.
+
+      112
+
+It is true that Handakas was under a contractual duty to refrain from falsifying payroll records and paying sub-standard rates. It may also be true, as the majority points out, that there is a question whether a contractual duty alone should be enough to allow a conviction. But here, as in Sancho, there were duties other than simply contractual ones imposed on Handakas. Article 1, Section 17 of the New York State Constitution, for example, prohibits any "laborer, workman or mechanic in the employ of a contractor or subcontractor engaged in the performance of any public work" from being "paid less than the rate" of the prevailing wage. That constitutional mandate is implemented by New York Labor Law § 220 et seq (McKinney 1986 & West Supp.2001-2002), which imposes duties upon various entities to enforce the prevailing wage requirement.
+
+      113
+
+The majority points out that paying sub-standard wages is a criminal misdemeanor under N.Y. Lab. Law § 220. Majority op. at 96, 110. But state law imposes even more extensive duties on contractors such as Handakas. For instance, under N.Y. Lab. Law § 220(3 a.a.), contractors "shall keep original payrolls or transcripts thereof, subscribed and affirmed by him as true under the penalties of perjury," showing the "hours and days worked by" and "hourly wage rate paid" to each "workman, laborer or mechanic." Another section of the statute further extends the criminal penalties for false statements. See N.Y. Lab. Law § 220-c ("Any contractor or subcontractor who shall upon his oath verify any statement required to be filed under this act which is known by him to be false shall be guilty of perjury and punishable as provided by the penal law.").4 It is therefore a state felony to submit falsified material information on any filing required by the labor statute. See N.Y. Penal Law § 210.10 (McKinney 1999) (defining perjury in the second degree as a "class E felony"). Because the state law duties here are so explicit, this case is governed by the analysis used in Sancho.
+
+      114
+
+The majority attempts to distinguish Sancho and "Sancho's only progeny," United States v. Middlemiss, 217 F.3d 112 (2d Cir.2000), on the dubious ground that those cases limited the state law duties that, when breached, may support a conviction for a scheme to defraud another of "honest services" to duties actionable only in tort. Majority op. at 106. However, nowhere in Sancho or Middlemiss is there such a limiting principle. Rather, each case looked only to whether there was a legal duty to provide honest services, without imposing any requirements on the nature of that duty. In fact, Sancho held that a fiduciary duty is not required to support an honest services conviction, strongly suggesting that the type of duty breached is not a limiting factor in the honest services analysis. The majority is thus making a gigantic leap from Sancho and Middlemiss to the holding that a breach of a state law tort duty is required in a case like this to support a conviction under § 1346. In any event, Handakas violated both contractual and criminal state law duties, as the majority acknowledges. A defendant has more notice that his behavior violated § 1346, and there is less risk of an abuse of prosecutorial discretion, when that behavior also constitutes a state crime rather than simply a tort.
+
+      115
+
+The majority also cites Chatin v. Coombe, 186 F.3d 82 (2d Cir.1999) to support its holding of unconstitutional vagueness here. But Chatin "implicated the free exercise of an individual's religion," and thus involved First Amendment freedoms. Id. at 87. In affirming the district court's finding that a New York State Department of Correctional Services Rule that regulated inmates' religious practices was unconstitutionally vague, we recognized that "[v]agueness is particularly problematic when it `abuts upon sensitive areas of basic First Amendment freedoms.'" Id. at 86 (quoting Grayned v. City of Rockford, 408 U.S. 104, 109, 92 S.Ct. 2294, 33 L.Ed.2d 222 (1972)); see also Chapman v. United States, 500 U.S. 453, 467, 111 S.Ct. 1919, 114 L.Ed.2d 524 (1991) (holding that a vagueness claim must be evaluated as "applied to the facts of [the] case" when "First Amendment freedoms are not infringed"). We have no First Amendment issue here. Furthermore, unlike Handakas's actions, Chatin's religious practices did not violate additional state criminal statutes, and therefore Chatin was not afforded the same level of notice about the illegality of his behavior as Handakas was.
+
+      116
+
+In addition, the record shows that Handakas had clear notice that his conduct subjected him to criminal penalties under the mail fraud statute. The Government presented evidence at trial that Handakas made false statements on a pre-qualification application form (required by state law and part of his contract with the SCA) that specifically stated, "[a] material false statement or omission made in connection with this application ... may subject a person ... to criminal charges, including... Title 18, U.S.Code, Section 1001, false or fraudulent statement, and 1341, mail fraud" (emphasis supplied). Therefore, any argument that the statute was unconstitutionally vague as applied to Handakas because he lacked notice must fail.
+
+      117
+
+Moreover, even assuming that there was plain error below — a proposition I reject — the question whether we as an appellate court should "notice a forfeited error," is committed to our discretion. Johnson, 520 U.S. at 467, 117 S.Ct. 1544. We have been instructed to "notice" such an error "only if ... [it] seriously affect[s] the fairness, integrity, or public reputation of judicial proceedings." Id. (citations and internal quotation marks omitted). It is imprudent for us to exercise that discretion to reach and decide a far-reaching issue of constitutional law in a case where the defendant's services were so clearly not "honest services" under § 1346. That statutory term must mean, at the very least, that in providing such services a person does not sign perjurious statements or falsely certify padded payrolls in violation of state law. Handakas cannot persuasively say that he provided the SCA with honest services or that "the fairness, integrity, or public reputation" of the district court proceedings was seriously affected by his mail fraud conviction on the facts of this case. Id.
+
+      118
+
+I understand the majority's concern that allowing convictions on the basis of any dishonesty in the course of performing a contract might criminalize trivial breaches of contract. But that concern is unfounded in this case, where Handakas clearly violated duties imposed by state laws in addition to breaching his contractual duties. As the Fifth Circuit noted in Brumley, "[b]ecause Congress was not faced with a uniform formulation of the precise contours of the [honest-services] doctrine [when it passed § 1346], some defendants on the outer reaches of the statute might be able to complain that they were not on notice that Congress criminalized their conduct when it revived the honest-services doctrine." 116 F.3d at 733. The Fifth Circuit concluded, however, that Brumley was not among such defendants, because his conduct (like Handakas's) was "inconsistent with his duties under [state] law." Id. I agree with the Fifth Circuit's conclusion that while "the boundaries of intangible rights may be difficult to discern, [that] does not mean that it is difficult to determine whether [a defendant] in particular violated them." Id. It is clear to me that in this case Handakas did violate the SCA's intangible right to his honest services. I therefore see no justification to "notice" the allegedly plain error in order to forge in this case a new approach for our Court on § 1346.
+
+      119
+
+In sum, I dissent from the holding that § 1346 is unconstitutionally vague as applied in this case because as noted above, the Supreme Court has instructed us not to pass on questions of constitutionality unless such adjudication is unavoidable. The constitutional error here, if any, was eminently avoidable: it was not plain and we should not reach out to "notice" it, particularly because this case is governed by the analysis in Sancho. As in Sancho, we need only decide whether Handakas's conduct "constituted a scheme to deprive [the SCA] of a right of honest services," and I "have no doubt that it did." 157 F.3d at 922.
+
+      120
+
+I respectfully dissent in part as set forth above and concur in the other portions of the majority opinion.5
+
+Notes:
+
+        1
+
+ The majority states only that "it cannot be said that the issue escaped the district court's notice" because the special verdict form separately asked whether Handakas deprived the New York City School Construction Authority of (a) "money or property" or (b) "honest services." Majority op. at 111. However, the use of separate questions on the verdict form does not indicate in any way that the district court considered the vagueness question. A simpler explanation is much more likely: the Government argued both grounds for the mail fraud conviction and the verdict form focused the jury's attention on both. In any event, for purposes of plain error analysis, it does not matter whether the vagueness issue happened to have passed through the district court judge's mind. Rather, theappellant must have raised the issue with the district court in order to avoid the constraints of plain error review on appeal, and the majority does not point to anything in the record to indicate that the issue was raised below.
+
+        2
+
+ SeeUnited States v. Frega, 179 F.3d 793, 803 (9th Cir.1999), cert. denied, 528 U.S. 1191, 120 S.Ct. 1247, 146 L.Ed.2d 105 (2000); United States v. Frost, 125 F.3d 346, 370-71 (6th Cir.1997), cert. denied, 525 U.S. 810, 119 S.Ct. 40, 142 L.Ed.2d 32 (1998); United States v. Castro, 89 F.3d 1443, 1455 (11th Cir.1996), cert. denied, 519 U.S. 1118, 117 S.Ct. 965, 136 L.Ed.2d 850 (1997); United States v. Gray, 96 F.3d 769, 776-77 (5th Cir.1996), cert. denied, 520 U.S. 1129, 117 S.Ct. 1275, 137 L.Ed.2d 351 (1997); United States v. Paradies, 98 F.3d 1266, 1282-83 (11th Cir.1996), cert. denied, 522 U.S. 1014, 118 S.Ct. 598, 139 L.Ed.2d 487 (1997); United States v. Bryan, 58 F.3d 933, 941-43 (4th Cir.1995), overruled on other grounds, United States v. O'Hagan, 521 U.S. 642, 117 S.Ct. 2199, 138 L.Ed.2d 724 (1997); United States v. Waymer, 55 F.3d 564, 568-69 (11th Cir.1995), cert. denied, 517 U.S. 1119, 116 S.Ct. 1350, 134 L.Ed.2d 519 (1996); cf. United States v. Brumley, 116 F.3d 728, 732-33 (5th Cir.) (en banc), cert. denied, 522 U.S. 1028, 118 S.Ct. 625, 139 L.Ed.2d 606 (1997) (rejecting argument of dissenting judges that § 1346 fails to give average citizens adequate notice of the prohibited conduct).
+
+        3
+
+ In contrast, the majority is correct in holding that the district court committed plain error as to the structuring convictions because the multiple charges were contrary to a well-established body of directly relevant case law. Majority op. at 97-99
+
+        4
+
+ In addition, state regulations require the SCA to evaluate a contractor's qualifications (as stated in a pre-qualification application required of the contractor by the same regulations), including compliance with "wage, hour and other fair labor standards." 21 N.Y. Comp.Codes R. & Regs. § 9602.2 (1999)
+
+        5
+
+ Although I disagree with the majority's view regarding the constitutionality of § 1346, I concur in the majority's analysis regarding the reversal of the money laundering charge once it holds that the mail fraud conviction should be reversed
+
+CC∅ | Transformed by Public.Resource.Org

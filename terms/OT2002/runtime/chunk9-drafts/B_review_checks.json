@@ -1,0 +1,38 @@
+[
+  {
+    "file": "Herring-v-Keenan_merits_2003-04-29.md",
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "explanation_words": [
+      204,
+      80
+    ],
+    "copied_annex_sha256": "9af9703accfcd81282f28771adb6a9a718eb6c75a7059949f67ceb06183a7346",
+    "annex_unchanged": true
+  },
+  {
+    "file": "Roell-v-Withrow_merits_2003-04-29.md",
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "explanation_words": [
+      191,
+      86
+    ],
+    "copied_annex_sha256": "e96e8425223c2ebefeed39cb8c3c07df754d2b87a19303feffca3be4ba6c291c",
+    "annex_unchanged": true
+  },
+  {
+    "file": "United-States-v-Miami-University_merits_2003-04-29.md",
+    "public_blocks": 11,
+    "holdings_identical": true,
+    "explanation_words": [
+      127,
+      201,
+      135,
+      122,
+      65
+    ],
+    "copied_annex_sha256": "f8236d51e558f2892b2ac88a53d276903f0654ff6aab3f899d31450cfe15407a",
+    "annex_unchanged": true
+  }
+]

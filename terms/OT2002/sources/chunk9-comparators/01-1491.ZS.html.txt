@@ -1,0 +1,48 @@
+DEMORE V. KIM
+
+LII
+
+Supreme Court		 
+
+DEMORE V. KIM (01-1491) 
+276 F.3d 523, reversed.
+Syllabus
+ Opinion
+ [ Rehnquist ]Concurrence
+ [ Kennedy ]Concurrence
+ [ Opinion of O’Connor ]Other
+ [ Opinion of Souter ]Other
+ [ Opinion of Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+DEMORE, DISTRICT DIRECTOR, SAN FRANCISCO DISTRICT OF IMMIGRATION AND NATURALI-ZATION SERVICE, et al. v. KIM
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 01—1491.  Argued January 15, 2003–Decided April 29, 2003 
+
+Under the Immigration and Nationality Act, 8 U.S. C. §1226(c), “[t]he Attorney General shall take into custody any alien who” is removable from this country because he has been convicted of one of a specified set of crimes, including an “aggravated felony.”  After respondent, a lawful permanent resident alien, was convicted in state court of first-degree burglary and, later, of “petty theft with priors,” the Immigration and Naturalization Service (INS) charged him with being deportable from the United States in light of these convictions, and detained him pending his removal hearing.  Without disputing the validity of his convictions or the INS’ conclusion that he is deportable and therefore subject to mandatory detention under §1226(c), respondent filed a habeas corpus action challenging §1226(c) on the ground that his detention thereunder violated due process because the INS had made no determination that he posed either a danger to society or a flight risk.  The District Court agreed and granted respondent’s petition subject to the INS’ prompt undertaking of an individualized bond hearing, after which respondent was released on bond.  In affirming, the Ninth Circuit held that §1226(c) violates substantive due process as applied to respondent because he is a lawful permanent resident, the most favored category of aliens.   The court rejected the Government’s two principal justifications for mandatory detention under §1226(c), discounting the first–ensuring the presence of criminal aliens at their removal proceedings–upon finding that not all aliens detained pursuant to §1226(c) would ultimately be deported, and discounting the second–protecting the public from dangerous criminal aliens–on the grounds that the aggravated felony classification triggering respondent’s detention included crimes (such as respondent’s) that the court did not consider “egregious” or otherwise sufficiently dangerous to the public to necessitate mandatory detention.  Relying on Zadvydas v. Davis, 533 U.S. 678, the court concluded that the INS had not provided a justification for no-bail civil detention sufficient to overcome a permanent resident alien’s liberty interest.
+
+Held:
+
+    1. Section 1226(e)–which states that “[t]he Attorney General’s discretionary judgment regarding the application of this section shall not be subject to review” and that “[n]o court may set aside any action or decision by the Attorney General under this section regarding the detention or release of any alien”–does not deprive the federal courts of jurisdiction to grant habeas relief to aliens challenging their detention under §1226(c).  Respondent does not challenge a “discretionary judgment” by the Attorney General or a “decision” that the Attorney General has made regarding his detention or release.  Rather, respondent challenges the statutory framework that permits his detention without bail.  Where Congress intends to preclude judicial review of constitutional claims its intent to do so must be clear.  E.g., Webster v. Doe, 486 U.S. 592, 603.  And, where a provision precluding review is claimed to bar habeas review, the Court requires a particularly clear statement that such is Congress’ intent.  See INS v. St. Cyr, 533 U.S. 289, 308—309, 298, 327.  Section 1226(e) contains no explicit provision barring habeas review.  Pp. 4—6.
+
+      2. Congress, justifiably concerned with evidence that deportable criminal aliens who are not detained continue to engage in crime and fail to appear for their removal hearings in large numbers, may require that persons such as respondent be detained for the brief period necessary for their removal proceedings.  In the exercise of its broad power over naturalization and immigration, Congress regularly makes rules that would be unacceptable if applied to citizens.  Mathews v. Diaz, 426 U.S. 67, 79—80.  Although the Fifth Amendment entitles aliens to due process in deportation proceedings, Reno v. Flores, 507 U.S. 292, 306, detention during such proceedings is a constitutionally valid aspect of the process, e.g., Wong Wing v. United States, 163 U.S. 228, 235, even where, as here, aliens challenge their detention on the grounds that there has been no finding that they are unlikely to appear for their deportation proceedings, Carlson v. Landon, 342 U.S. 524, 538.  The INS detention of respondent, a criminal alien who has conceded that he is deportable, for the limited period of his removal proceedings, is governed by these cases.  Respondent argues unpersuasively that the §1226(c) detention policy violates due process under Zadvydas, 533 U.S., at 699, in which the Court held that §1231(a)(b) authorizes continued detention of an alien subject to a final removal order beyond that section’s 90-day removal period for only such time as is reasonably necessary to secure the removal.  Zadvydas is materially different from the present case in two respects.  First, the aliens there challenging their detention following final deportation orders were ones for whom removal was “no longer practically attainable,” such that their detention did not serve its purported immigration purpose.  Id., at 690.  In contrast, because the statutory provision at issue in this case governs detention of deportable criminal aliens pending their removal proceedings, the detention necessarily serves the purpose of preventing the aliens from fleeing prior to or during such proceedings.  Second, while the period of detention at issue in Zadvydas was “indefinite” and “potentially permanent,” id., at 690—691, the record shows that 1226(c) detention not only has a definite termination point, but lasts, in the majority of cases, for less than the 90 days the Court considered presumptively valid in Zadvydas.  Pp. 6—20.
+
+276 F.3d 523, reversed.
+
+    Rehnquist, C. J., delivered the opinion of the Court, in which Kennedy, J., joined in full, in which Stevens, Souter, Ginsburg, and Breyer, JJ., joined as to Part I, and in which O’Connor, Scalia, and Thomas, JJ., joined as to all but Part I.  Kennedy, J., filed a concurring opinion.  O’Connor, J., filed an opinion concurring in part and concurring in the judgment, in which Scalia and Thomas, JJ., joined.  Souter, J., filed an opinion concurring in part and dissenting in part, in which Stevens and Ginsburg, JJ., joined.  Breyer, J., filed an opinion concurring in part and dissenting in part.

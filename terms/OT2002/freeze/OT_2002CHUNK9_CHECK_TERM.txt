@@ -1,0 +1,3 @@
+SCOPE: deterministic checks only; commit-reference existence is not checked.
+OK: OT2002; 0 warning(s)
+NOT CHECKED: commit-reference existence; no repository-history commands were executed.

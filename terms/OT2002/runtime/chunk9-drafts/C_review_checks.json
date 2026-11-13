@@ -1,0 +1,64 @@
+[
+  {
+    "file": "Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md",
+    "blocks": 11,
+    "holdings_identical": true,
+    "explanation_word_counts": [
+      188,
+      171
+    ],
+    "judgment_arrays_complete": true,
+    "inventory_marker_absent": true,
+    "placeholders_retained": true
+  },
+  {
+    "file": "Kaupp-v-Texas_summary-merits_2003-05-05.md",
+    "blocks": 11,
+    "holdings_identical": true,
+    "explanation_word_counts": [
+      146,
+      168
+    ],
+    "judgment_arrays_complete": true,
+    "inventory_marker_absent": true,
+    "placeholders_retained": true
+  },
+  {
+    "file": "Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md",
+    "blocks": 11,
+    "holdings_identical": true,
+    "explanation_word_counts": [
+      146,
+      161,
+      138
+    ],
+    "judgment_arrays_complete": true,
+    "inventory_marker_absent": true,
+    "placeholders_retained": true
+  },
+  {
+    "file": "Harry-v-Marchant_merits_2003-05-19.md",
+    "blocks": 11,
+    "holdings_identical": true,
+    "explanation_word_counts": [
+      151,
+      172
+    ],
+    "judgment_arrays_complete": true,
+    "inventory_marker_absent": true,
+    "placeholders_retained": true
+  },
+  {
+    "file": "Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md",
+    "blocks": 11,
+    "holdings_identical": true,
+    "explanation_word_counts": [
+      184,
+      176,
+      152
+    ],
+    "judgment_arrays_complete": true,
+    "inventory_marker_absent": true,
+    "placeholders_retained": true
+  }
+]

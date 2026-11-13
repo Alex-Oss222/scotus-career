@@ -1,0 +1,258 @@
+{
+  "events": [
+    {
+      "record": "City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md",
+      "components": 2,
+      "author": "Thomas",
+      "prior_leads": 87,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        165,
+        155,
+        199
+      ],
+      "sha256": "018634671ff034475c3f67ec5bb5aeaf2dac06e0274217751e4cca76b234b18a"
+    },
+    {
+      "record": "Massaro-v-United-States_merits_2003-04-23.md",
+      "components": 1,
+      "author": "Stone-Zsela",
+      "prior_leads": 89,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        178,
+        168
+      ],
+      "sha256": "1e8bd3590c88e16e529e584326d748768c32823f3d5985ec819dfa2a411e6eb8"
+    },
+    {
+      "record": "United-States-v-Handakas_merits_2003-04-23.md",
+      "components": 3,
+      "author": "Stevens",
+      "prior_leads": 90,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        127,
+        247,
+        142,
+        153,
+        176
+      ],
+      "sha256": "d8d81bb06b886a57fc2c9766638a0a5ef494d785b1aff4c83c97519f11f47f0f"
+    },
+    {
+      "record": "Herring-v-Keenan_merits_2003-04-29.md",
+      "components": 1,
+      "author": "Souter",
+      "prior_leads": 92,
+      "pool": [
+        "Stevens",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        204
+      ],
+      "sha256": "c0c6d1dbce168d0261c8cb4d1aaff8e52fdd1397f3dc857ac31a55107b990589"
+    },
+    {
+      "record": "Roell-v-Withrow_merits_2003-04-29.md",
+      "components": 1,
+      "author": "O'Connor",
+      "prior_leads": 93,
+      "pool": [
+        "Stone-Zsela",
+        "O'Connor",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        191,
+        86
+      ],
+      "sha256": "8874a611b0dc6f54a45943ddfc13d472f01da72f508a7426e005bcfa248db431"
+    },
+    {
+      "record": "United-States-v-Miami-University_merits_2003-04-29.md",
+      "components": 2,
+      "author": "Thomas",
+      "prior_leads": 94,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        127,
+        201,
+        135,
+        122,
+        65
+      ],
+      "sha256": "8e2e88dc9cf9f732b0970a9a62d8dadb3ed9766ee435cd805fe950f295b0b01d"
+    },
+    {
+      "record": "Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md",
+      "components": 1,
+      "author": "Kennedy",
+      "prior_leads": 95,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        188,
+        171
+      ],
+      "sha256": "1ceb3c11154bb9d00fa386b9f652731937e176780694061379b274e1073d950b"
+    },
+    {
+      "record": "Kaupp-v-Texas_summary-merits_2003-05-05.md",
+      "components": 1,
+      "explanation_words": [
+        146,
+        168
+      ],
+      "sha256": "a0216e639b3cbf6dc5727ccd11babe64037b809e33431db1c93101a31fd9ffa6"
+    },
+    {
+      "record": "Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md",
+      "components": 1,
+      "author": "Breyer",
+      "prior_leads": 96,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        146,
+        161,
+        138
+      ],
+      "sha256": "8c0b578bbd1cd937eb3925f5c0bf360ace749b931ceff09ca19321885b239aaf"
+    },
+    {
+      "record": "Harry-v-Marchant_merits_2003-05-19.md",
+      "components": 1,
+      "author": "Scalia",
+      "prior_leads": 97,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        151,
+        172
+      ],
+      "sha256": "ac62c98c87587735a3080dc17040584973a1d44d1dbf940f34c4af48093a3bc6"
+    },
+    {
+      "record": "Price-v-Vincent_merits_2003-05-19.md",
+      "components": 1,
+      "author": "Breyer",
+      "prior_leads": 98,
+      "pool": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "explanation_words": [
+        187,
+        212
+      ],
+      "sha256": "4c3d28fe3d3c924e0725c1f02c8c9dee21e452059d9739b7c354e400515415f6"
+    },
+    {
+      "record": "Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md",
+      "components": 2,
+      "author": "Ginsburg",
+      "prior_leads": 102,
+      "pool": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ],
+      "explanation_words": [
+        184,
+        176,
+        152
+      ],
+      "sha256": "2c5620456acbc80cfe7d2905b9152b4bb52cfff563891c4ea92bd2c0b308f10a"
+    }
+  ],
+  "protected_files_unchanged": 178,
+  "records": 118,
+  "manifest_rows": 180,
+  "completed_scheduled_events": 115,
+  "stopped_rows": [
+    "| 2003-04-29 | OT_2002CHUNK9 | Demore v. Kim | 538 U.S. 510 | Historical Supreme Court review | Historical calendar | Stopped: The supported positions supply no five-Justice final disposition with a compatible mandate: four would reverse the hearing requirement, four would affirm individual hearing relief, and Breyer would vacate and remand only for his distinct statutory threshold and release-proof inquiry. No accepted accommodation supplies the missing remedial agreement. | 107 | Immigration detention: mandatory custody and individualized release review | Term inventory | Historical participation deferred in Section I; establish independently at Run. |"
+  ],
+  "render_input_identity": true,
+  "restricted_text_files_checked": 219,
+  "history_verification": "Deferred to operator",
+  "negative_statement_check": "Qualitative result in chunk validation; not mechanically inferred"
+}

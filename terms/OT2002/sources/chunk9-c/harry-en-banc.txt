@@ -1,0 +1,464 @@
+Source: https://media.ca11.uscourts.gov/opinions/pub/files/199913205.op2.pdf
+
+ FILED
+U.S. COURT OF APPEALS
+ELEVENTH CIRCUIT
+MAY 16, 2002
+THOMAS K. KAHN
+CLERK
+[PUBLISH]
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE ELEVENTH CIRCUIT
+________________________
+No. 99-13205
+________________________
+D. C. Docket No. 99-00786-CV-KMM
+BERNIE HARRY, as Personal 
+Representative of the Estate 
+of Lisa Normil, deceased,
+Plaintiff-Appellant,
+versus
+WAYNE MARCHANT, M.D., 
+ALI BAZZI, M.D., et al.,
+Defendants-Appellees.
+________________________
+Appeal from the United States District Court
+for the Southern District of Florida
+_________________________
+(May 16, 2002)
+Before ANDERSON, Chief Judge, and TJOFLAT, EDMONDSON, BIRCH,
+DUBINA, BLACK, CARNES, BARKETT, HULL, MARCUS and WILSON,
+Circuit Judges.
+BLACK, Circuit Judge:
+
+1“Transfer” is defined as “the movement (including the discharge) of an
+individual outside of a hospital’s facilities.”  42 U.S.C. § 1395dd(e)(4) (1994).  We
+use the term “transfer” in this opinion as defined in EMTALA.  Reference to a
+patient who is “transferred,” therefore, will apply equally to a patient who is
+discharged.
+2
+This case involves the Emergency Medical Treatment and Active Labor Act
+(EMTALA), 42 U.S.C. § 1395dd.  EMTALA was enacted to prevent “patient
+dumping,” the publicized practice of some hospitals turning away or transferring
+indigent patients without evaluation or treatment.  Under EMTALA, when an
+individual presents for treatment at the emergency department of a hospital, the
+hospital must provide an appropriate medical screening to determine whether an
+emergency medical condition exists.  If an emergency medical condition is
+determined to exist, the hospital ordinarily must provide stabilization treatment
+before transferring the patient.1  The issue before this Court is whether EMTALA
+imposes a federal statutory obligation on a hospital to provide stabilization
+treatment to a patient with an emergency medical condition who is not transferred. 
+We hold no such duty exists under EMTALA. 
+I. BACKGROUND
+A. Factual Background
+The complaint in this case alleges the following facts.  At approximately
+1:17 a.m. on November 26, 1997, Miami-Dade Fire Rescue brought Lisa Normil to
+
+2In most cases, emergency room physicians do not have hospital admitting
+privileges and must depend on the approval of the attending or primary care
+physician for admittance.  S. Rep. No. 99-146, at 471 & 482, reprinted in 1986
+U.S.C.C.A.N. 42, 430 & 441 (statement submitted by the American College of
+Emergency Physicians); see also Reed v. Good Samaritan Hosp. Ass’n, Inc., 453
+So. 2d 229 (Fla. Dist. Ct. App. 1984).
+3
+the emergency room at Aventura Hospital and Medical Center (Aventura Hospital)
+and requested medical treatment on her behalf.  Normil was seen first by Dr.
+Wayne Marchant, an emergency room physician, whose notes indicated a
+diagnosis of “pneumonia rule out sepsis.” 
+Dr. Marchant contacted Dr. Kevin Coy, who was acting as the on-call
+attending physician on behalf of Normil’s primary care provider, to report his
+diagnosis and to request permission to admit Normil into the intensive care unit
+(ICU) of the hospital for concentrated care and management.2  Dr. Coy refused to
+authorize admission into the ICU and instead directed Dr. Marchant to obtain a
+ventilation perfusion scan (VQ Scan).  Dr. Marchant advised Dr. Coy a VQ Scan
+could not be performed because the hospital had insufficient isotopes to conduct
+the scan.  Despite the unavailability of a VQ Scan, Dr. Coy continued to deny
+authorization for Normil’s admittance into the ICU. 
+Later that morning, Dr. Marchant was able to contact Normil’s primary care
+physician, Dr. Ali Bazzi.  Approximately five hours after he was contacted by
+
+3The complaint named Miami Beach Healthcare Group, Ltd., d/b/a Aventura
+Hospital and Medical Center as a defendant.
+4The complaint alleged two additional federal law claims against Aventura
+Hospital: violation of EMTALA’s appropriate medical screening requirement and
+violation of  42 U.S.C. § 1981.  Dr. Bazzi and Linker also were alleged to have
+violated § 1981.  In addition, the complaint alleged a number of state law claims,
+4
+Dr. Marchant, Dr. Bazzi examined Normil in the emergency room, reviewed her
+available radiological evidence, and assessed her vital signs.  Following Normil’s
+examination by Dr. Bazzi, she was admitted into the ICU at Aventura Hospital. 
+Although Dr. Bazzi prescribed antibiotics, the ICU nurse, Polly Linker, never
+administered the medication.
+After Normil’s admittance into the ICU, she lapsed into respiratory and
+cardiac failure.  Dr. Christopher Hanner, a physician working at the hospital,
+unsuccessfully attempted to resuscitate Normil.  She died at approximately 12:45
+p.m. 
+B. Procedural Background
+Following Normil’s death, Appellant Bernie Harry, personal representative
+of her estate, filed suit against Dr. Marchant, Dr. Bazzi, Dr. Hanner, Dr. Coy,
+Linker, and Aventura Hospital3 (collectively, Appellees).  In his complaint,
+Appellant alleged Aventura Hospital violated EMTALA by failing to stabilize and
+treat Normil’s emergency medical condition.4  Appellant, however, did not allege
+
+including wrongful death claims against all Appellees, a negligence per se claim
+against Aventura Hospital, and a vicarious liability claim against Aventura
+Hospital.  Drs. Marchant, Coy, and Hanner were sued only under state law.
+5The Appellees sued under § 1981 and the Appellees sued under state law
+sought dismissal of those claims.
+6The § 1981 claims also were dismissed with prejudice.  Declining
+supplemental jurisdiction, the district court dismissed the state law claims without
+prejudice.  The state law claims were subsequently pursued by Appellant in state
+court.
+5
+Normil was transferred by Aventura Hospital.  Rather, Appellant’s primary
+allegation under EMTALA was the treatment provided to Normil was negligent
+and not sufficiently aggressive to treat and stabilize her condition.  
+In response to Appellant’s complaint, Aventura Hospital moved to dismiss
+for failure to state a claim under EMTALA.5  The district court granted the motion
+with prejudice.6  On appeal, a panel of this Court reversed, holding the allegations
+contained in Appellant’s complaint supported a claim against Aventura Hospital
+under EMTALA for failing to treat and stabilize Normil’s condition.  Harry v.
+Marchant, 237 F.3d 1315, vacated, reh’g granted en banc, 259 F.3d 1310 (11th
+
+7The panel further held the allegations contained in the complaint did not
+support a claim against Aventura Hospital for failing to conduct an appropriate
+medical screening to determine whether Normil suffered from an emergency
+medical condition.  237 F.3d 1319-20.  The panel, however, concluded the
+complaint did support the claims for violation of § 1981.  Id. at 1322.
+6
+Cir. 2001).7   Rehearing en banc was granted solely to determine the scope of
+EMTALA’s stabilization requirement.
+II. STANDARD OF REVIEW
+We review de novo the dismissal of a complaint for failure to state a claim,
+accepting all allegations in the complaint as true and construing facts in the light
+most favorable to the plaintiff.  Brown v. Budget Rent-A-Car Sys., Inc., 119 F.3d
+922, 923 (11th Cir. 1997).
+III. DISCUSSION
+In 1986, Congress enacted EMTALA in response to widely publicized
+reports of emergency care providers transferring indigent patients from one
+hospital to the next while the patients’ emergency medical conditions worsened. 
+EMTALA was designed specifically to address this important societal concern; it
+was not intended to be a federal malpractice statute.  Under EMTALA, hospital
+emergency rooms are subject to two principal obligations, commonly referred to as
+the appropriate medical screening requirement and the stabilization requirement. 
+See 42 U.S.C. § 1395dd (1994).  The appropriate medical screening requirement
+
+8In this case, Normil was screened, treated, and eventually admitted. 
+Consequently, Aventura Hospital did not “transfer” her as defined by EMTALA.
+7
+obligates hospital emergency rooms to provide an appropriate medical screening to
+any individual seeking treatment in order to determine whether the individual has
+an emergency medical condition.  Id. §1395dd(a).  If an emergency medical
+condition exists, the hospital is required to provide stabilization treatment before
+transferring the individual.  Id. §1395dd(b).  The sole issue before this Court is the
+extent to which EMTALA requires a hospital to provide stabilization treatment to a
+patient with an emergency medical condition who is not transferred.8 
+In resolving this issue, we begin by scrutinizing the language of the statute. 
+Then, we review the statute’s legislative history.  Finally, we examine the cases
+discussing EMTALA’s stabilization requirement.
+A.  Language of the Statute
+As with any question of statutory interpretation, we begin by examining the
+text of the statute to determine whether its meaning is clear.  See Hughes Aircraft
+Co. v. Jacobson, 525 U.S. 432, 438, 119 S. Ct. 755, 760 (1999); Cmty. for Creative
+Non-Violence v. Reid, 490 U.S. 730, 739, 109 S. Ct. 2166, 2172 (1989); United
+States v. Gilbert, 198 F.3d 1293, 1298 (11th Cir. 1999).  “In construing a statute
+we must begin, and often should end as well, with the language of the statute
+
+9Subsection (c) delineates the standards for making an appropriate transfer
+and sets forth  procedures for transferring patients who are not stabilized.  42
+U.S.C. § 1395dd(c).
+8
+itself.”  United States v. Steele, 147 F.3d 1316, 1318 (11th Cir. 1998) (en banc)
+(quoting Merritt v. Dillard Paper Co., 120 F.3d 1181, 1185 (11th Cir. 1997)).  We
+do this because we “presume that Congress said what it meant and meant what it
+said.”  Steele, 147 F.3d at 1318. 
+The stabilization requirement of EMTALA provides in relevant part: 
+(b) Necessary stabilizing treatment for emergency
+medical conditions and labor. 
+(1) In general.
+If any individual (whether or not
+eligible for benefits under this subchapter)
+comes to a hospital and the hospital
+determines that the individual has an
+emergency medical condition, the hospital
+must provide either— 
+(A) within the staff and facilities
+available at the hospital, for such further
+medical examination and such treatment as
+may be required to stabilize the medical
+condition, or 
+(B) for transfer of the individual to
+another medical facility in accordance with
+subsection (c).9  
+42 U.S.C. § 1395dd(b)(1) (1994) (emphasis added).
+
+9
+The term “to stabilize” is specifically defined by the statute.  Under
+EMTALA, the term “to stabilize” means “with respect to an emergency medical
+condition . . . [a hospital must] provide such medical treatment of the condition as
+may be necessary to assure, within reasonable medical probability, that no material
+deterioration of the condition is likely to result or occur during the transfer of the
+individual from a facility.”  42 U.S.C. § 1395dd(e)(3)(A).  When a statute includes
+an explicit definition, that definition must be followed, even if it varies from the
+term’s ordinary meaning.  See Stenberg v. Carhart, 530 U.S. 914, 942, 120 S. Ct.
+2597, 2615 (2000).  Thus, to the extent the definition of “to stabilize” departs from
+its common or ordinary usage, the statutory prescription governs.  
+In order to accurately determine the requirements of EMTALA, we must
+insert the definition of the term “to stabilize” where the term is used in the statute. 
+When the definition of “to stabilize” is inserted into the stabilization requirement,
+the statute provides:  
+(b) Necessary stabilizing treatment for emergency
+medical conditions and labor.
+(1) In general. 
+If any individual (whether or not
+eligible for benefits under this subchapter)
+comes to a hospital and the hospital
+determines that the individual has an
+
+10See supra note 1.
+10
+emergency medical condition, the hospital
+must provide either—
+(A) within the staff and facilities
+available at the hospital, for such further
+medical examination and such treatment as
+may be required [to assure, within
+reasonable medical probability, that no
+material deterioration of the condition is
+likely to result or occur during the transfer
+of the individual from a facility], or
+(B) for transfer of the individual to
+another medical facility in accordance with
+subsection (c).  
+42 U.S.C. § 1395dd(b)(1).  Reading the statute in its specifically defined context, it
+is evident EMTALA mandates stabilization of an individual only in the event of a
+“transfer” as defined in EMTALA.10 
+By limiting application of the stabilization requirement to patient transfers,
+the statutory structure of §1395dd(b)(1) makes sense.  The statute is logically
+structured to set forth two options for transferring a patient with an emergency
+medical condition: a hospital must either provide stabilization treatment prior to
+transferring a patient pursuant to subsection (A), or, pursuant to subsection (B),
+provide no treatment and transfer according to one of the statutorily recognized
+exceptions.  Hence, the stabilization requirement only sets forth standards for
+
+11Additionally, interpreting EMTALA to require stabilization treatment
+outside the context of a transfer raises questions not answered by Congress, such
+as:  when the duty to provide stabilization treatment terminates; if treatment is
+prolonged, and transfer is not imminent, how long treatment must be provided; and
+when the temporal delay between a determination of an emergency medical
+condition and the initiation of treatment constitutes a violation of a duty to provide
+stabilization treatment. Of course, such an interpretation would lead to the
+imposition of arbitrary limits, not supported by the statutory text, in an effort to fill
+the patent gaps of legislative direction.
+11
+transferring a patient in either a stabilized or unstabilized condition.  By its own
+terms, the statute does not set forth guidelines for the care and treatment of patients
+who are not transferred.
+This construction gives full effect to the language and structure of the
+stabilization requirement.  “[I]t is an elementary principle of statutory construction
+that, in construing a statute, we must give meaning to all the words in the statute.” 
+Legal Envtl. Assistance Found., Inc. v. EPA, 276 F.3d 1253, 1258 (11th Cir. 2001)
+(citing Bailey v. United States, 516 U.S. 137, 146, 116 S. Ct. 501, 507 (1995)); see
+also United States v. Canals-Jimenez, 943 F.2d 1284, 1287 (11th Cir. 1991) (“A
+basic premise of statutory construction is that a statute is to be interpreted so that
+no words shall be discarded as being meaningless, redundant, or mere
+surplusage.”).  Construing EMTALA to mandate stabilization treatment
+irrespective of a transfer renders the words “during the transfer,” contained in the
+statutory definition of the term “to stabilize,” superfluous.11  To give effect to the
+
+12
+clear language of the statute, we must conclude the triggering mechanism for
+stabilization treatment under EMTALA is transfer.  
+B. Legislative History
+Where the language of a statute is unambiguous, as it is here, we need not,
+and ought not, consider legislative history.   See United States v. Gonzales, 520
+U.S. 1, 6, 117 S. Ct. 1032, 1035 (1997) (“Given the straightforward statutory
+command, there is no reason to resort to legislative history.”); see also  Harris v.
+Garner, 216 F.3d 970, 976 (11th Cir. 2000) (en banc) (“When the import of the
+words Congress has used is clear, . . . we need not resort to legislative history, and
+we certainly should not do so to undermine the plain meaning of the statutory
+language.”).  Even if a statute’s legislative history evinces an intent contrary to its
+straightforward statutory command, “we do not resort to legislative history to
+cloud a statutory text that is clear.”  Ratzlaf v. United States, 510 U.S. 135, 147-48,
+114 S. Ct. 655, 662 (1994); see also CBS, Inc. v. Primetime 24 Joint Venture, 245
+F.3d 1217, 1229 (11th Cir. 2001); United States v. Weaver, 275 F.3d 1320, 1331
+(11th Cir. 2001); Harris, 216 F.3d at 976; United States v. Gilbert, 198 F.3d 1293,
+1299 (11th Cir. 1999).  Regardless of its clarity or specificity, we do not give
+legislative history more weight than unambiguous statutory language because
+“[t]he statutory language itself is the principal battlefield where the warring
+
+13
+interests struggle against each other, and it is to that battlefield we should look for
+the results of the battle.”  CBS, Inc., 245 F.3d at 1228.  
+Despite this important elementary principle of statutory construction,
+“sometimes judges . . . cannot resist the temptation to set out [legislative] history.” 
+Harris, 216 F.3d at 977; see also Weaver, 275 F.3d at 1332 (“Notwithstanding this
+recognized plain meaning rule, judges sometimes have not resisted the temptation
+to set out and discuss legislative history.  We equally succumb.” (citations
+omitted)).  We likewise succumb and examine the legislative history of EMTALA. 
+Gilbert, 198 F.3d at 1299 (“Given the plain meaning of the statutory language, we
+could bypass any consideration of legislative history.  Nevertheless, for the sake of
+completeness, and because this is our first occasion to decide a Hyde Amendment
+case, we will look at that history.”) (internal marks, footnote, and citations
+omitted). 
+The legislative history of EMTALA indicates it was intended to prevent
+“patient dumping,” the practice of some hospital emergency rooms turning away or
+transferring indigents to public hospitals without prior assessment or stabilization
+treatment.  See H.R. Rep. No. 99-241, pt. 3, at 5 (1986), reprinted in 1986
+U.S.C.C.A.N. 726, 726-27; see also Gatewood v. Washington Healthcare Corp.,
+933 F.2d 1037, 1039-41 (D.C. Cir. 1991); Cleland v. Bronson Health Care Group,
+
+12Some limited exceptions to the stabilization requirement exist.  See supra
+note 9.
+14
+Inc., 917 F.2d 266, 268-69 (6th Cir. 1990).  In enacting EMTALA, Congress was
+concerned with widespread reports of emergency rooms “dumping” indigent
+patients from one hospital to the next without regard to the patients’ medical
+conditions.  See 131 Cong. Rec. S13,904 (1985) (remarks of Sens. Durenberger,
+Kennedy, Dole, Baucus, Heinz, and Proxmire).  Congress’ solution was to
+guarantee patient entry into the medical system via mandatory appropriate medical
+screenings and stabilization prior to transfer.12  See S. Rep. No. 99-146, at 462, 464
+(1986), reprinted in 1986 U.S.C.C.A.N. 42, 421, 423 (letter submitted by the law
+firm of Kenny Nachwalter & Seymour) (“Section 124 [of the bill containing an
+early version of EMTALA] seeks to prohibit inappropriate patient transfers and to
+require a medical screening examination for each patient who requests one.”).  The
+primary legislative goal of EMTALA was remedying the problem of inappropriate
+patient transfers by hospitals.   See S. Rep. No. 99-146, at 469-70 (1986), reprinted
+in 1986 U.S.C.C.A.N. 42, 428-29 (statement submitted by the American College of
+Emergency Physicians) (“The American College of Emergency Physicians shares
+the Committee’s concerns and does not condone inappropriate patient transfers,
+some of which have recently come to light in the television and newspaper
+
+15
+media. . . . [W]e are in agreement with the objective of the legislation (i.e., to
+eliminate inappropriate patient transfers).”); see also S. Rep. No. 99-146, at 475
+(1986), reprinted in 1986 U.S.C.C.A.N. 42, 434  (policy statement on transfer of
+patients) (“Patients should not be transferred to another facility without first being
+stabilized.  Stabilization includes adequate evaluation and initiation of treatment to
+assure the transfer of a patient will not, within reasonable medical probability,
+result in death, or loss or serious impairment of bodily parts or organs.”); 131
+Cong. Rec. S13,904 (1985) (remarks of Sen. Kennedy) (“Public hospitals have
+reported to us a 400-percent rise in the number of patients who have been sent to
+their emergency rooms after visiting another hospital.”).  
+The legislative history of EMTALA makes clear the statute was not intended
+to be a federal malpractice statute, but instead was meant to supplement state law
+solely with regard to the provision of limited medical services to patients in
+emergency situations.  See 131 Cong. Rec. S13,904 (1985) (remarks of Sen.
+Kennedy) (“Some States have laws which ensure that no emergency patient is
+denied emergency care because of inability to pay.  But, 28 States have no such
+law. Federal legislation in this area is long overdue.”); see also Hardy v. New York
+City Health & Hosps. Corp., 164 F.3d 789, 792 (2d Cir. 1999); Marshall v. E.
+Carroll Parish Hosp. Serv. Dist., 134 F.3d 319, 322 (5th Cir. 1998); Vickers v.
+
+16
+Nash Gen. Hosp., Inc., 78 F.3d 139, 142 (4th Cir. 1996); Holcomb v. Monahan, 30
+F.3d 116, 117 (11th Cir. 1994).  EMTALA was not intended to establish guidelines
+for patient care, to replace available state remedies, or to provide a federal remedy
+for medical negligence.  See Bryan v. Rectors & Visitors of the Univ. of Va., 95
+F.3d 349, 350-52 (4th Cir. 1996); Vickers, 78 F.3d at 142-43; Holcomb, 30 F.3d at
+116.  Indeed, EMTALA expressly contains a non-preemption provision for state
+remedies.  See 42 U.S.C. § 1395dd(f) (1994) (“The provisions of this section do
+not preempt any State or local law requirement, except to the extent that the
+requirement directly conflicts with a requirement of this section.”).
+The legislative history of EMTALA is consistent with the clear language of
+the statute.  EMTALA’s main objective was to prevent the practice of “patient
+dumping.”  By mandating treatment only in the context of a patient transfer, the
+stabilization requirement addresses Congress’ concern regarding rejection of
+patients without converting EMTALA into a federal malpractice statute.  In
+prescribing minimal standards for screening and transferring patients, but not for
+patient care outside these two narrowly defined contexts, Congress confined
+EMTALA solely to address its concerns and, at the same time, avoided supplanting
+available state malpractice and tort remedies. 
+C.  Cases Discussing EMTALA’s Stabilization Requirement 
+
+17
+In the sixteen years since EMTALA’s enactment, there have been relatively
+few cases discussing the stabilization requirement imposed by the statute.  The
+only opportunity we have had to address EMTALA was in Holcomb v. Monahan,
+30 F.3d 116 (11th Cir. 1994).  Although we did not squarely address whether
+EMTALA’s stabilization requirement imposes an obligation on hospitals to
+provide treatment to individuals outside the context of a transfer, our discussion in
+Holcomb is consistent with our conclusion here. 
+In Holcomb, a patient was discharged after a hospital provided an
+appropriate medical screening and determined there was no emergency medical
+condition.  Id. Subsequently, the patient died and the administratix of the patient’s
+estate brought suit claiming violations of §§ 1395dd(a) and (b).  Id.  In addressing
+the plaintiff’s claims, we set forth the requirements that must be established to
+succeed on a § 1395dd(b) stabilization requirement claim:  (1) the patient had an
+emergency medical condition; (2) the hospital knew of the condition; (3) the
+patient was not stabilized before being transferred; and (4) the hospital neither
+obtained the patient’s consent to transfer nor completed a certificate indicating the
+transfer would be beneficial to the patient.  Id.   Although we did not need to, and
+did not, discuss the contours of the stabilization requirement, the stated elements
+
+13We recognize the Fourth Circuit opinion in In re Baby “K”, 16 F.3d 590
+(4th Cir. 1994) could be interpreted as addressing the contours of the stabilization
+requirement.  Nonetheless, just two years later, in Bryan v. Rectors & Visitors of
+the Univ. of Va., 95 F.3d 349, 352 (4th Cir. 1996), the Fourth Circuit clarified that
+Baby “K” only addressed the issue of whether EMTALA’s stabilization
+requirement mandates treatment of the emergency medical condition presented to
+the hospital or the general medical condition of the patient.  Thus, the Fourth
+Circuit has held Baby “K” did not reach the issue of whether the stabilization
+requirement only applies in the event of a transfer.
+18
+could be read to imply that stabilization treatment, and any claim under EMTALA
+arising therefrom, arises only in the context of a transfer. 
+Like this Circuit, no other Circuit has squarely addressed whether
+EMTALA’s stabilization requirement imposes an obligation on hospitals to
+provide treatment to individuals outside the context of a transfer.13  To date, cases
+from other Circuits discussing EMTALA’s stabilization requirement have
+addressed only tangential issues arising out of an alleged failure to provide an
+appropriate medical screening, an alleged failure to stabilize an emergency medical
+
+14See Baker v. Adventist Health, Inc., 260 F.3d 987 (9th Cir. 2001); Jackson
+v. E. Bay Hosp., 246 F.3d 1248 (9th Cir. 2001); Williams v. United States, 242
+F.3d 169 (4th Cir. 2001); Arrington v. Wong, 237 F.3d 1066 (9th Cir. 2001); Battle
+v. Mem’l Hosp., 228 F.3d 544 (5th Cir. 2000); Reynolds v. MaineGeneral Health,
+218 F.3d 78 (1st Cir. 2000); Root v. New Liberty Hosp. Dist., 209 F.3d 1068 (8th
+Cir. 2000); Cherukuri v. Shalala, 175 F.3d 446 (6th Cir. 1999); Lopez-Soto v.
+Hawayek, 175 F.3d 170 (1st Cir. 1999); Hardy v. New York City Health & Hosps.
+Corp., 164 F.3d 789 (2d Cir. 1999); Marshall v. E. Carroll Parish Hosp. Serv.
+Dist., 134 F.3d 319 (5th Cir. 1998); Roberts v. Galen of Va., Inc., 111 F.3d 405
+(6th Cir. 1997), rev’d by Roberts v. Galen of Va., Inc., 525 U.S. 249, 119 S. Ct.
+685 (1999); Vargas ex rel. Gallardo v. Del Puerto Hosp., 98 F.3d 1202 (9th Cir.
+1996); Bryan v. Rectors & Visitors of the Univ. of Va., 95 F.3d 349 (4th Cir. 1996);
+Summers v. Baptist Med. Ctr. Arkadelphia, 91 F.3d 1132 (8th Cir. 1996); James v.
+Sunrise Hosp., 86 F.3d 885 (9th Cir. 1996); Vickers v. Nash Gen. Hosp., Inc., 78
+F.3d 139 (4th Cir. 1996); Correa v. Hosp. San Francisco, 69 F.3d 1184 (1st Cir.
+1995); Eberhardt v. City of Los Angeles, 62 F.3d 1253 (9th Cir. 1995); Urban ex
+rel. Urban v. King, 43 F.3d 523 (10th Cir. 1994); Repp v. Anadarko Mun. Hosp.,
+43 F.3d 519 (10th Cir. 1994); Holcomb v.  Monahan, 30 F.3d 116 (11th Cir. 1994);
+In re Baby “K”, 16 F.3d 590 (4th Cir. 1994); King v. Ahrens, 16 F.3d 265 (8th Cir.
+1994); Green v. Touro Infirmary, 992 F.2d 537 (5th Cir. 1993); Johnson v. Univ. of
+Chicago Hosps., 982 F.2d 230 (7th Cir. 1993); Baber v. Hosp. Corp. of Am., 977
+F.2d 872 (4th Cir. 1992); Brooker v. Desert Hosp. Corp., 947 F.2d 412 (9th Cir.
+1991); Burditt v. U.S. Dep’t of Health & Human Servs., 934 F.2d 1362 (5th Cir.
+1991); Gatewood v. Washington Healthcare Corp., 933 F.2d 1037 (D.C. Cir.
+1991); Stevison v. Enid Health Sys., Inc., 920 F.2d 710 (10th Cir. 1990); Cleland v.
+Bronson Health Care Group, Inc., 917 F.2d 266 (6th Cir. 1990); Thornton v. Sw.
+Detroit Hosp., 895 F.2d 1131 (6th Cir. 1990).
+19
+condition prior to an actual transfer, or a combination thereof.14  We, therefore, rely
+solely on the clear language of the statute in reaching our conclusion.
+IV. CONCLUSION
+There is no duty under EMTALA to provide stabilization treatment to a
+patient with an emergency medical condition who is not transferred.  Because
+
+15We reinstate the panel opinion except for Part 1.B., which discusses
+EMTALA’s stabilization requirement.
+20
+Normil was not transferred, Appellant’s §1395dd(b) stabilization requirement
+claim fails to state a valid cause of action.  In so holding, we recognize Appellant is
+not without recourse.  Remedies provided by state malpractice and tort law remain
+available to redress negligent patient care by hospitals.  Accordingly, the judgment
+of the district court is affirmed with respect to the dismissal of the EMTALA
+claims (§§ 1395dd(a) and (b)), and reversed, in accordance with the panel opinion,
+with respect to the dismissal of Appellant’s §1981 claim.15
+AFFIRMED in part, REVERSED in part, and REMANDED.
+
+21
+BARKETT, Circuit Judge, concurring:
+Upon reconsidering the language of EMTALA, I concur in the opinion of
+the court and agree that because Lisa Normil was admitted as a patient, redress for
+negligence occurring during her emergency room care is available through state
+medical malpractice laws, rather than federal law. 

@@ -1,0 +1,36 @@
+PRICE V. VINCENT
+
+LII
+
+Supreme Court		 
+
+PRICE V. VINCENT (02-524) 
+292 F.3d 506, reversed.
+Syllabus
+ Opinion
+ [ Rehnquist ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+PRICE, WARDEN v. VINCENT
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+No. 02—524.  Argued April 21, 2003–Decided May 19, 2003 
+
+At respondent’s trial on an open murder charge, defense counsel moved, at the close of the prosecution’s case in chief and outside the jury’s hearing, for a directed verdict of acquittal as to first-degree murder.  The trial judge stated that second-degree murder was “ ‘an appropriate charge,’ ” 292 F.3d 506, 508, but agreed to hear the prosecutor’s statement on first-degree murder the next morning.  When the prosecution made the statement, defense counsel objected, arguing that the court had granted its directed verdict motion the previous day, and that further prosecution on first-degree murder would violate the Double Jeopardy Clause.  The judge responded that he had granted the motion but had not directed a verdict, and noted that the jury had not been told of his statement.  He subsequently submitted the first-degree murder charge to the jury, which convicted respondent on that charge.  The Michigan Court of Appeals reversed, concluding that the Double Jeopardy Clause prevented respondent’s prosecution for first-degree murder.  Reversing in turn, the State Supreme Court determined that the trial judge’s comments were not sufficiently final to terminate jeopardy.  Respondent then notified the court of a docket sheet entry stating: “ ‘1 open murder to 2nd degree murder,’ ” id., at 512.  The Michigan Supreme Court refused to reconsider its decision.  Respondent filed a federal habeas petition, and the Federal District Court granted the petition after concluding that continued prosecution for first-degree murder had violated the Double Jeopardy Clause.  The Sixth Circuit affirmed.
+
+Held: Respondent did not meet the statutory requirements for habeas relief.  The parties do not dispute the underlying facts, and respondent is therefore entitled to relief only if he can demonstrate that the state court’s adjudication of his claim was “contrary to” or an “unreasonable application of” this Court’s clearly established precedents.  28 U.S.C. § 2254(d)(1).  The Sixth Circuit Court of Appeals recited this standard but then forgot to apply it, reviewing the double jeopardy question de novo.  This was error.  A state court decision is “contrary to” this Court’s clearly established law if it “applies a rule that contradicts the governing law set forth in [the Court’s] cases” or if “it confronts a set of facts that are materially indistinguishable from a decision of this Court and nevertheless arrives at” a different result.  Williams v. Taylor, 529 U.S. 362, 405—406.  Here, the Michigan Supreme Court identified, and reaffirmed the principles articulated in, the applicable precedents of United States v. Martin Linen Supply Co., 430 U.S. 564, and Smalis v. Pennsylvania, 476 U.S. 140.  Nowhere did it apply a legal standard contrary to those set forth in this Court’s cases, nor did it confront a set of facts materially indistinguishable from those in any case decided by this Court.  The state court’s decision therefore was not “contrary to” this Court’s precedents.  Nor was the state court’s decision an “unreasonable application” of clearly established law.  That court applied both Martin Linen and Smalis to conclude that the judge’s comments were not sufficiently final to terminate jeopardy.  In reaching this conclusion, in addition to reviewing the context and substance of the trial judge’s comments at length, the court observed that there was no formal judgment or order entered on the record.  While it noted that formal motions or rulings were not required to demonstrate finality as a matter of Michigan law, it cautioned that a judgment must bear sufficient indicia of finality and it concluded that sufficient indicia were not present here.  This was not an objectively unreasonable application of clearly established Supreme Court law.  Indeed, numerous courts have refused to find double jeopardy violations under similar circumstances.  Even if this Court agreed with the Sixth Circuit that the Double Jeopardy Clause should be read to prevent continued prosecution under these circumstances, it was at least reasonable for the state court to conclude otherwise.  Pp. 3—8.
+
+292 F.3d 506, reversed.
+
+    Rehnquist, C. J., delivered the opinion for a unanimous Court.

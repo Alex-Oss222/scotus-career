@@ -1,0 +1,229 @@
+[
+  {
+    "case": "Massaro v. United States",
+    "date": "2003-04-23",
+    "file": "Massaro-v-United-States_merits_2003-04-23.md",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "components": [
+      {
+        "name": "Reverse the direct-appeal default and remand the first section 2255 trial-counsel claim",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "chief_assigns_any": true
+  },
+  {
+    "case": "City of New York v. Patrolmen's Benevolent Association",
+    "date": "2003-04-23",
+    "file": "City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stevens",
+    "components": [
+      {
+        "name": "Affirm the equal-protection judgment and reviewed compensatory relief",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ]
+      },
+      {
+        "name": "Preserve the independent Title VII disposition",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "chief_assigns_any": false
+  },
+  {
+    "case": "United States v. Handakas",
+    "date": "2003-04-23",
+    "file": "United-States-v-Handakas_merits_2003-04-23.md",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stevens for Counts One and Four; Stone-Zsela for the unanimous structuring component",
+    "components": [
+      {
+        "name": "Vacate the reversal of Count One on the forfeited constitutional ground and remand the unresolved statutory-coverage and intent grounds",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ]
+      },
+      {
+        "name": "Vacate the dependent reversal of Count Four and remand with Count One",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ]
+      },
+      {
+        "name": "Affirm removal of one duplicate structuring conviction, its sentence and assessment",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "chief_assigns_any": true
+  },
+  {
+    "case": "Price v. Vincent",
+    "date": "2003-05-19",
+    "file": "Price-v-Vincent_merits_2003-05-19.md",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stevens",
+    "components": [
+      {
+        "name": "Reverse habeas relief on the double-jeopardy claim and remand for implementation",
+        "supporting": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stone-Zsela"
+        ]
+      }
+    ],
+    "chief_assigns_any": false
+  }
+]

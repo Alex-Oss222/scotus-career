@@ -1,0 +1,38 @@
+[
+  {
+    "case": "Massaro",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538500/usrep538500.pdf",
+    "pages": 10,
+    "characters": 20674
+  },
+  {
+    "case": "Demore",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538510/usrep538510.pdf",
+    "pages": 70,
+    "characters": 157170
+  },
+  {
+    "case": "Roell",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538580/usrep538580.pdf",
+    "pages": 20,
+    "characters": 44401
+  },
+  {
+    "case": "Madigan",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538600/usrep538600.pdf",
+    "pages": 26,
+    "characters": 59192
+  },
+  {
+    "case": "Kaupp",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538626/usrep538626.pdf",
+    "pages": 8,
+    "characters": 18308
+  },
+  {
+    "case": "Price",
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep538/usrep538634/usrep538634.pdf",
+    "pages": 10,
+    "characters": 21889
+  }
+]

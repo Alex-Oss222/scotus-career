@@ -1,0 +1,134 @@
+[
+  {
+    "case": "Herring v. Keenan",
+    "date": "2003-04-29",
+    "file": "Herring-v-Keenan_merits_2003-04-29.md",
+    "eligible_authors": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "components": [
+      {
+        "name": "Vacate immunity judgment and remand with asserted legal defense rejected on the pleaded account",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "Roell v. Withrow",
+    "date": "2003-04-29",
+    "file": "Roell-v-Withrow_merits_2003-04-29.md",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "components": [
+      {
+        "name": "Reverse jurisdictional nullification and remand for remaining appellate issues",
+        "supporting": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stevens",
+          "Scalia",
+          "Kennedy",
+          "Thomas"
+        ]
+      }
+    ]
+  },
+  {
+    "case": "United States v. Miami University",
+    "date": "2003-04-29",
+    "file": "United-States-v-Miami-University_merits_2003-04-29.md",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assigner": "Stone-Zsela",
+    "components": [
+      {
+        "name": "Affirm summary judgment and limited permanent injunction",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "name": "Affirm discovery denial",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ]
+  }
+]

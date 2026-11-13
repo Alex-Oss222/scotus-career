@@ -1,0 +1,27 @@
+# Roell — fresh neutral validation supplement
+
+This independent validation covers only Roell v. Withrow, No. 02-69, for April 29, 2003. It uses the previously frozen neutral entry and Roell supplement, the complete lower opinion, the official 2002 section 636(c) text and the operative Rule 73 text with its amendment notes. No matter-specific Supreme Court outcome, opinion, comparator or private position was supplied. No commitment is made.
+
+## Validated scope
+
+The lower opinion, Withrow v. Roell, 288 F.3d 199 (April 8, 2002), is adequately represented. The magistrate judge entered final judgment after a defense jury verdict. The appellate court retained jurisdiction and ordered a limited remand to determine consent. Its review rejected the claimed express oral consent and accepted the finding that the magistrate judge had mistakenly assumed consent forms existed. That historical finding must be preserved. The separate legal proposition that participation cannot demonstrate consent arose under the circuit's express-consent rule; it cannot itself settle the Supreme Court's different statutory question.
+
+The supplied packet separately establishes notice of the right to refuse and continued participation by Roell and Garibay before judgment. The lower opinion recounts the relevant conference statements and lack of formal prejudgment consents. Neither counsel's presence, an assumption by the magistrate judge nor later letters alone should be transformed into an express oral statement that the lower courts found did not occur. The modeler must distinguish actual informed assent inferred from the whole prejudgment course from a new choice made after the verdict. No additional source gap requires a reconstructed consent event.
+
+## Statutory and rule qualifications
+
+Section 636(c)(1)'s first sentence requires the parties' consent and the district court's special designation. Its second sentence adds a specific written request for the identified other part-time magistrates, together with the bar-membership and chief-judge availability certification conditions. The second sentence must not be silently applied to the first category or ignored when its own category applies. Multiple-judge district designation follows the majority-concurrence or chief-judge alternative stated in the statute.
+
+Section 636(c)(2) requires notice at filing, communication of the parties' decision to the clerk, and procedures protecting voluntary consent. Any renewed advice by either judge must tell the parties they may refuse without adverse substantive consequences. Rule 73(b) separately requires written clerk notice and execution and filing of a joint consent form or separate forms within the locally specified period. The judge or magistrate must not learn a response unless all parties consent. These are commands, not optional best practices. The question remains whether noncompliance with the prescribed form necessarily eliminates authority when informed voluntary consent already existed; recognizing inferred consent cannot simply erase the mandatory procedure.
+
+Rule 73(a) also requires all parties' consent and special designation. Section 636(c)(3) and Rule 73(c) provide ordinary direct review in the court of appeals. Section 636(c)(4) and Rule 73(b)'s last paragraph permit vacating a reference for good cause shown on the court's own initiative or extraordinary circumstances shown by a party. No such motion or showing is invented here. The historical advisory notes describe an optional district-court appeal route that was abrogated effective December 1, 1997; they do not restore that route for this case. The complete operative rule is now available, so the earlier rule-text retrieval limitation is resolved.
+
+## Legal paths and remedy
+
+Peretz and Schor remain relevant at their actual scope: consent to the distinct statutory additional duty and waiver of personal Article III protections do not by themselves establish section 636(c) civil consent or eliminate structural limits. The supplied opening-law account identifies no controlling resolution of inferred civil consent under this provision. Both the formal-prerequisite construction and the distinction between actual consent and its documentation must be evaluated against the enacted text, voluntariness protections and this record. Convenience, forfeiture from uninformed silence and retrospective approval alone are not sufficient substitutes for a statutory condition.
+
+If the statutory consent requirement is satisfied by the supported prejudgment conduct despite defective documentation, the existing nullification ground can be removed and remaining appellate issues returned for decision. That disposition decides no Eighth Amendment merits question. If advance express consent is indispensable, the adjudication cannot stand merely because it was efficient or produced a favorable verdict. Further factual findings are appropriate only if an actual material dispute about notice, voluntary choice or another necessary predicate is identified; neither a new hearing nor ultimate liability follows automatically. The assigned review and February 26, 2003 argument are properly established, with no case-specific nonparticipation shown.
+
+## Readiness
+
+The Roell neutral packet, this supplement and exact copied statutory/rule texts are sufficient for fresh independent modeling. No new research, judicial event, vote, finding of actual consent or alteration of the judgment is produced by this validation.

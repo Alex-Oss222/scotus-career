@@ -1,0 +1,104 @@
+[
+  {
+    "case": "Massaro",
+    "url": "https://www.law.cornell.edu/supct/html/01-1559.ZS.html",
+    "file": "01-1559.ZS.html.txt",
+    "characters": 5058
+  },
+  {
+    "case": "Massaro",
+    "url": "https://www.law.cornell.edu/supct/html/01-1559.ZO.html",
+    "file": "01-1559.ZO.html.txt",
+    "characters": 15857
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZS.html",
+    "file": "01-1491.ZS.html.txt",
+    "characters": 7441
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZC.html",
+    "file": "01-1491.ZC.html.txt",
+    "characters": 3770
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZC1.html",
+    "file": "01-1491.ZC1.html.txt",
+    "characters": 14993
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZO.html",
+    "file": "01-1491.ZO.html.txt",
+    "characters": 42437
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZX.html",
+    "file": "01-1491.ZX.html.txt",
+    "characters": 81398
+  },
+  {
+    "case": "Demore",
+    "url": "https://www.law.cornell.edu/supct/html/01-1491.ZX1.html",
+    "file": "01-1491.ZX1.html.txt",
+    "characters": 5917
+  },
+  {
+    "case": "Roell",
+    "url": "https://www.law.cornell.edu/supct/html/02-69.ZS.html",
+    "file": "02-69.ZS.html.txt",
+    "characters": 6491
+  },
+  {
+    "case": "Roell",
+    "url": "https://www.law.cornell.edu/supct/html/02-69.ZD.html",
+    "file": "02-69.ZD.html.txt",
+    "characters": 16331
+  },
+  {
+    "case": "Roell",
+    "url": "https://www.law.cornell.edu/supct/html/02-69.ZO.html",
+    "file": "02-69.ZO.html.txt",
+    "characters": 21823
+  },
+  {
+    "case": "Madigan",
+    "url": "https://www.law.cornell.edu/supct/html/01-1806.ZS.html",
+    "file": "01-1806.ZS.html.txt",
+    "characters": 11758
+  },
+  {
+    "case": "Madigan",
+    "url": "https://www.law.cornell.edu/supct/html/01-1806.ZC.html",
+    "file": "01-1806.ZC.html.txt",
+    "characters": 2653
+  },
+  {
+    "case": "Madigan",
+    "url": "https://www.law.cornell.edu/supct/html/01-1806.ZO.html",
+    "file": "01-1806.ZO.html.txt",
+    "characters": 41273
+  },
+  {
+    "case": "Kaupp",
+    "url": "https://www.law.cornell.edu/supct/html/02-5636.ZPC.html",
+    "file": "02-5636.ZPC.html.txt",
+    "characters": 13676
+  },
+  {
+    "case": "Price",
+    "url": "https://www.law.cornell.edu/supct/html/02-524.ZS.html",
+    "file": "02-524.ZS.html.txt",
+    "characters": 4967
+  },
+  {
+    "case": "Price",
+    "url": "https://www.law.cornell.edu/supct/html/02-524.ZO.html",
+    "file": "02-524.ZO.html.txt",
+    "characters": 15702
+  }
+]

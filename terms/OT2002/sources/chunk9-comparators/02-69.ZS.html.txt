@@ -1,0 +1,38 @@
+ROELL V. WITHROW
+
+LII
+
+Supreme Court		 
+
+ROELL V. WITHROW (02-69) 
+288 F.3d 199, reversed and remanded.
+Syllabus
+ Opinion
+ [ Souter ]Dissent
+ [ Thomas ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+ROELL et al. v. WITHROW
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FIFTH CIRCUIT
+
+No. 02—69.  Argued February 26, 2003–Decided April 29, 2003 
+
+The Federal Magistrate Act of 1979 (Act) empowers full-time magistrate judges to conduct “any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case,” as long as they are “specially designated … by the district court” and acting with “the consent of the parties.”  28 U.S.C. § 636(c)(1).  Respondent Withrow, a state prisoner, brought an action under 42 U.S.C. § 1983 against members of the prison’s medical staff, petitioners Roell, Garibay, and Reagan, alleging that they had deliberately disregarded his medical needs in violation of the Eighth Amendment.  During a preliminary hearing, the Magistrate Judge told Withrow that he could choose to have her rather than the District Judge preside over the entire case.  Withrow agreed orally and later in writing, but the petitioners did not at that point give their consent.  Without waiting for their decision, the District Judge referred the case to the Magistrate Judge for final disposition, but with the caveat that all petitioners would have an opportunity to consent to her jurisdiction, and that the referral order would be vacated if any of them did not consent.  Only Reagan gave written consent to the referral; Roell and Garibay said nothing about the referral.  The case nevertheless proceeded in front of the Magistrate Judge, all the way to a jury verdict and judgment for the petitioners.  Roell and Garibay voluntarily participated in the entire course of proceedings and voiced no objection when, at several points, the Magistrate Judge made it clear that she believed they had consented.  When Withrow appealed, the Fifth Circuit sua sponte remanded the case to the District Court to determine whether the parties had consented to proceed before the Magistrate Judge.  Only then did Roell and Garibay file a formal letter of consent stating that they consented to all of the prior proceedings before the Magistrate Judge.  The District Court referred the Fifth Circuit’s enquiry to that same Magistrate Judge, who reported that by their actions Roell and Garibay clearly implied their consent to her jurisdiction, but ruled that she had lacked jurisdiction because, under Circuit precedent, such consent had to be in expressly given.  The District Court adopted the report and recommendation.  The Fifth Circuit affirmed, holding that, under §636(c)(1), lack of consent and defects in the referral order are nonwaivable jurisdictional errors, that §636(c) consent must be express, and that petitioners’ postjudgment consent was inadequate under the Act.
+
+Held: Consent to a magistrate judge’s designation can be inferred from a party’s conduct during litigation.  Roell’s and Garibay’s general appearances before the Magistrate Judge, after they had been told of their right to be tried by a district judge, supply the consent necessary for the Magistrate Judge’s “civil jurisdiction” under §636(c)(1).  It is true that §636(c)(2) and Federal Rule of Civil Procedure 73(b), which establish the procedures for a §636(c)(1) referral, envision advance, written consent communicated to the clerk.  This procedure is by no means just advisory, and district courts are bound to adhere strictly to it.  But the text and structure of §636(c) as a whole indicate that a defect in the referral under §636(c)(2) does not eliminate that magistrate judge’s “civil jurisdiction” under §636(c)(1) as long as the parties have in fact voluntarily consented.  So far as concerns full-time magistrate judges, §636(c)(1), which is the font of magistrate judge authority, speaks only of “the consent of the parties,” without qualification as to form, and §636(c)(3) similarly provides that “[t]he consent of the parties allows” a full-time magistrate judge to enter a final, appealable judgment of the district court.  These unadorned references to the “consent of the parties” contrast with the language in §636(c)(1) covering referral to certain part-time magistrate judges, which requires not only that the parties consent, but that they do so by “specific written request.”  In addition, there is a good pragmatic reason to think that Congress intended to permit implied consent.  In giving magistrate judges case-dispositive civil authority, Congress hoped to relieve the district courts’ caseload while still preserving every litigant’s right to insist on trial before an Article III district judge.  Strict insistence on the express consent requirement embodied in §636(c)(2) would minimize any risk to the latter objective, but it would create an even greater risk to the former one:  the risk of a full and complicated trial wasted at the option of an undeserving and possibly opportunistic litigant.  Here, Withrow gave express, written consent; he thus received the protection intended by the statute and deserves no boon from the other side’s failure.  Had the outcome of the case been different, the shoe might be on the other foot; insistence on the bright line would let parties in Roell’s and Garibay’s position hedge their bets, keeping a poker face to conceal their failure to file the form, and then sandbagging the other side when the judgment turned out not to their liking.  The preferable rule, which does better by the mix of congressional objectives, is to infer consent from a litigant’s general appearance before the magistrate judge, after having been told of his right to be tried by a district judge.  Pp. 4—11.
+
+288 F.3d 199, reversed and remanded.
+
+    Souter, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Ginsburg, and Breyer, JJ., joined.  Thomas, J., filed a dissenting opinion, in which Stevens, Scalia, and Kennedy, JJ., joined.

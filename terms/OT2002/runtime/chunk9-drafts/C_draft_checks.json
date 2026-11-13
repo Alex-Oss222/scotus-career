@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md",
+    "public_blocks": 11,
+    "holdings_identity": true,
+    "components_complete": true,
+    "ordinary_explanations_within_350": true,
+    "assignment_placeholders": 1
+  },
+  {
+    "file": "Kaupp-v-Texas_summary-merits_2003-05-05.md",
+    "public_blocks": 11,
+    "holdings_identity": true,
+    "components_complete": true,
+    "ordinary_explanations_within_350": true,
+    "assignment_placeholders": 0
+  },
+  {
+    "file": "Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md",
+    "public_blocks": 11,
+    "holdings_identity": true,
+    "components_complete": true,
+    "ordinary_explanations_within_350": true,
+    "assignment_placeholders": 1
+  },
+  {
+    "file": "Harry-v-Marchant_merits_2003-05-19.md",
+    "public_blocks": 11,
+    "holdings_identity": true,
+    "components_complete": true,
+    "ordinary_explanations_within_350": true,
+    "assignment_placeholders": 1
+  },
+  {
+    "file": "Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md",
+    "public_blocks": 11,
+    "holdings_identity": true,
+    "components_complete": true,
+    "ordinary_explanations_within_350": true,
+    "assignment_placeholders": 1
+  }
+]

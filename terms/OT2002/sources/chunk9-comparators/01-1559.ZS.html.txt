@@ -1,0 +1,36 @@
+MASSARO V. UNITED STATES
+
+LII
+
+Supreme Court		 
+
+MASSARO V. UNITED STATES (01-1559) 
+27 Fed. Appx. 26, reversed and remanded.
+Syllabus
+ Opinion
+ [ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+MASSARO v. UNITED STATES
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SECOND CIRCUIT
+
+No. 01—1559.  Argued February 25, 2003–Decided April 23, 2003 
+
+Petitioner Massaro was indicted on federal racketeering charges in connection with a murder.  The day before his trial began, prosecutors learned of a bullet allegedly recovered from the car in which the victim’s body was found, but did not inform defense counsel until the trial was underway.  Defense counsel more than once declined the trial court’s offer of a continuance so the bullet could be examined.  Massaro was convicted and sentenced to life imprisonment.  On direct appeal his new counsel argued that the District Court had erred in admitting the bullet in evidence, but did not raise an ineffective-assistance-of-trial-counsel claim.  The Second Circuit affirmed.  Massaro later moved to vacate his conviction under 28 U.S.C. § 2255 claiming, as relevant here, that his trial counsel had rendered ineffective assistance in failing to accept the trial court’s offer of a continuance.  The District Court found his claim procedurally defaulted because he could have raised it on direct appeal.  In affirming, the Second Circuit adhered to its precedent that, when the defendant is represented by new counsel on appeal and the ineffective-assistance claim is based solely on the trial record, the claim must be raised on direct appeal; failure to do so results in procedural default unless the petitioner shows cause and prejudice.
+
+Held: An ineffective-assistance-of-counsel claim may be brought in a collateral proceeding under §2255, whether or not the petitioner could have raised the claim on direct appeal.  Requiring a criminal defendant to bring ineffective-assistance claims on direct appeal does not promote the procedural default rule’s objectives: conserving judicial resources and respecting the law’s important interest in the finality of judgments.  Applying that rule to ineffective-assistance claims would create a risk that defendants would feel compelled to raise the issue before there has been an opportunity fully to develop the claim’s factual predicate, and would raise the issue for the first time in a forum not best suited to assess those facts, even if the record contains some indication of deficiencies in counsel’s performance.  A §2255 motion is preferable to direct appeal for deciding an ineffective-assistance claim.  When a claim is brought on direct appeal, appellate counsel and the court must proceed on a trial record that is not developed precisely for, and is therefore often incomplete or inadequate for, the purpose of litigating or preserving the claim.  A defendant claiming ineffective counsel must show that counsel’s actions were not supported by a reasonable strategy and that the error was prejudicial.  Strickland v. Washington, 466 U.S. 668.  The evidence introduced at trial, however, will be devoted to guilt or innocence issues, and the resulting record may not disclose the facts necessary to decide either prong of the Strickland analysis.  Under the rule announced here, ineffective-assistance claims ordinarily will be litigated in the first instance in the district court, the forum best suited to developing the facts necessary to determining the adequacy of representation during an entire trial.  The court may take testimony from witnesses for the defendant and the prosecution and from the counsel alleged to have rendered the deficient performance.  In addition, the §2255 motion often will be ruled upon by the district judge who presided at trial, who should have an advantageous perspective for determining the effectiveness of counsel’s conduct and whether any deficiencies were prejudicial.  This Court does not hold that ineffective-assistance claims must be reserved for collateral review, as there may be cases in which trial counsel’s ineffectiveness is so apparent from the record that appellate counsel will raise the issue on direct appeal or in which obvious deficiencies in representation will be addressed by an appellate court sua sponte.  In such cases, certain questions may arise in subsequent §2255 proceedings concerning the conclusiveness of determinations made on the claims raised on direct appeal; but these implementation matters are not before the Court.  Pp. 3—9.
+
+27 Fed. Appx. 26, reversed and remanded.
+
+    Kennedy, J., delivered the opinion for a unanimous Court.

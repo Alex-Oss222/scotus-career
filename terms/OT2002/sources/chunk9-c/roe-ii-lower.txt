@@ -1,0 +1,334 @@
+253 F.3d 678
+
+253 F.3d 678 (11th Cir. 2001)
+
+Jane ROE, II, Plaintiff-Appellant,
+v.
+AWARE WOMAN CENTER FOR CHOICE, INC., a Florida corporation, Edward  W. Windle, Jr., Patricia B. Windle, and William P. Egherman, M.D., Defendants-Appellees.
+
+No. 00-10231.
+
+United States Court of Appeals,
+Eleventh Circuit.
+
+June 8, 2001.
+
+Appeal from the United States District Court for the Middle District of Florida.(No. 99-00850-CIV-ORL-19), Patricia C. Fawsett, Judge.
+
+Before CARNES and HILL, Circuit Judges, and ALAIMO*, District Judge.
+
+CARNES, Circuit Judge:
+
+      1
+
+A woman seeking to proceed in this lawsuit under the name Jane Roe alleges that she was injured during the course of an abortion procedure performed by Dr. William P. Egherman at the Aware Woman Center for Choice, which is operated by a Florida corporation controlled by Edward and Patricia Windle.  Roe sued Egherman, the Windles, and the corporation under the Freedom of Access to Clinic Entrances Act ("FACE"), 18 U.S.C. § 248.  That statute provides civil remedies for anyone whose ability to obtain reproductive health services has been intentionally interfered with.  This is Roe's appeal from the district court's dismissal of her complaint under Federal Rule of Civil Procedure 12(b)(6) and from its denial of her motion to proceed anonymously.
+
+I. BACKGROUND
+
+      2
+
+Of course, in reviewing the dismissal of a complaint under Fed.R.Civ.P. 12(b)(6), we, like the district court, "must accept the allegations set forth in the complaint as true."  See United States v. Pemco Aeroplex, Inc., 195 F.3d 1234, 1236 (11th Cir.1999) (en banc) (citation omitted).  Accepting the allegations of the complaint in this case as true, the facts are that on March 29, 1997, Roe entered the defendants' clinic for what was to be her third abortion procedure.  Soon after the procedure began, she felt "extreme, excessive pain in her abdomen" that she had not experienced during her previous two abortion procedures.  Roe demanded that Dr. Egherman stop the procedure and call an ambulance for her.  He refused and, instead, instructed four assistants to restrain Roe while he continued to perform the procedure. Roe was eventually taken by ambulance to an emergency room where it was discovered that during the procedure at the clinic she had suffered both a perforated uterus and a colon laceration.  At the hospital, the dead fetus was removed from Roe's uterus and she underwent surgery to repair her organs.
+
+      3
+
+On July 9, 1999, Roe filed suit against the defendants pursuant to FACE, 18 U.S.C. § 248(c)(1).  Alleging the facts we have just summarized, Roe's complaint claimed that defendants " 'interfere[d] with' ... 'intimidat[ed]' ... and use[d] 'physical obstruction'... to restrain Plaintiff and render impassable her desired egress from [the clinic]," in violation of 18 U.S.C. § 248(a)(1).  In response, the defendants filed Rule 12(b)(6) motions to dismiss, arguing that Roe was attempting to use FACE in a manner contrary to both the language and purpose of the statute.1  Along with her opposition to the motions to dismiss, Roe filed a motion to proceed anonymously. The district court granted the motions to dismiss, explaining that in its view the complaint failed to allege the defendants had acted "in order to prevent [Roe] from obtaining reproductive health services."  The dismissal was without prejudice, the court giving Roe leave to amend her complaint within ten days of the dismissal.  In the same order, the district court also denied Roe's request to proceed anonymously, concluding that the "presumption of openness in judicial proceedings" was not outweighed by any substantial privacy right of Roe's.
+
+II. DISCUSSION
+
+A. THE DISMISSAL OF THE COMPLAINT
+
+      4
+
+In order to decide whether the complaint made the necessary allegations, we first look at the elements of a cause of action under FACE, an inquiry which requires us to construe the statute.  The statute itself sets out the three elements of a FACE claim:
+
+      5
+
+1) that a defendant, by "force or threat of force or by physical obstruction";
+
+      6
+
+2) "intentionally injures, intimidates or interferes with or attempts to injure, intimidate or interfere with any person";
+
+      7
+
+3) "because that person is or has been, or in order to intimidate such person or any other person or any class of persons from, obtaining or providing reproductive health services"18 U.S.C. § 248(a)(1).  See generally United States v. Balint, 201 F.3d 928, 932 (7th Cir.2000);  United States v. Dinwiddie, 76 F.3d 913, 923 (8th Cir.1996);  American Life League, Inc. v. Reno, 47 F.3d 642, 650 (4th Cir.1995).2
+
+      8
+
+The defendants do not contest that the first element is met by the allegations, and it clearly is.  Regarding the second element, the statute provides that "[t]he term 'interfere with' means to restrict a person's freedom of movement."  18 U.S.C. § 248(e)(2).  Thus, the second element is satisfied if the defendants, in restraining Roe, intended to restrict her freedom of movement.  Dr. Egherman concedes that Roe has alleged sufficient facts to satisfy the second element.  While the other defendants do not concede as much, the allegation that the defendants held Roe down sufficiently implies that in doing so they intended to restrict her freedom of movement.3
+
+      9
+
+It is the third element, that of the defendants' motive, which is primarily at issue in this case.  The district court determined that in order to satisfy the third element, Roe's complaint must contain allegations that the defendants, in restraining her, were motivated by a desire to "prevent [Roe] from obtaining reproductive health services."4  The parties agree on that much.  They disagree, however, about whether the complaint can be fairly read as alleging that element.  Included in their disagreement is a difference about the nature of "reproductive health services."
+
+      10
+
+The statute defines "reproductive health services" to include "medical, surgical, counseling or referral services relating to the human reproductive system, including services relating to pregnancy or the termination of a pregnancy."  Id. § 248(e)(5). The defendants attempt to limit the "reproductive health services" at issue in this case to Roe's abortion procedure, arguing that "Roe has failed to allege [the defendants'] acts were intended to interfere with Roe's egress from the clinic in order to prevent her from obtaining an abortion."  However, the complaint, properly construed, alleges that Roe was denied a type of "reproductive health service" other than the termination of her pregnancy.  It alleges that while undergoing the abortion procedure Roe told Dr. Egherman's assistants that she was experiencing "extreme, excessive pain in her abdomen."  She "begged the abortionist to stop" and "demanded that an ambulance be called to take her to the emergency room at the local hospital."  However, "[i]nstead of calling an ambulance, defendants' staff forcibly held [Roe] on the table" thereby "preventing her escape from the facility."  As a result of those acts of the defendants, Roe alleges that she "suffered a perforated uterus" which required several days of hospitalization.
+
+      11
+
+Viewed in the light most favorable to her, Roe's complaint alleges that she wanted to go to the hospital to obtain some kind of "medical" or "surgical" services "relating to" either her "reproductive system" or "the termination of [her] pregnancy." Id. § 248(e)(5).  For purposes of FACE, it matters not whether the reason Roe wanted to leave the clinic immediately and go to a hospital emergency room was so that she could have the damage done to her uterus repaired, or because she had changed her mind and wanted to save the pregnancy, or because she wanted to have the abortion completed at a hospital instead of at the clinic.  If the defendants restrained Roe for the purpose of preventing her from obtaining any of those services, then she has adequately pleaded a violation of FACE because all of those services fall within the statutory definition of "reproductive health services."
+
+      12
+
+The next question then is whether Roe's complaint can be construed as alleging that defendants, in restraining Roe, were motivated by a desire to prevent her from obtaining those services.  Defendants contend that it is unreasonable to assume that they restrained Roe in order to prevent her from obtaining reproductive health services.  They argue that if they did restrain Roe, the only reason they did so was to protect her life and health and prevent further injury from the complications that had arisen during the course of the abortion procedure.  Roe concedes that if that were the defendants' motive, there was no violation of FACE.5
+
+      13
+
+A complaint cannot be dismissed unless "it is clear that no relief could be granted under any set of facts that could be proved consistent with the allegations." Shands Teaching Hosp. and Clinics, Inc. v. Beech St. Corp., 208 F.3d 1308, 1310 (11th Cir.2000) (citation omitted).  And that is true even where "it may appear on the face of the pleadings that a recovery is very remote and unlikely."  Scheuer v. Rhodes,416 U.S. 232, 236, 94 S.Ct. 1683, 1686, 40 L.Ed.2d 90 (1974) (citations and quotations omitted).  The possibility that defendants were motivated by considerations other than protecting Roe's life and health may be "remote and unlikely," but it is not a possibility that is inconsistent with the allegations of the complaint.
+
+      14
+
+The reasonableness of that assumption aside, the defendants correctly point out that Roe failed to allege anything at all regarding defendants' motive.  Defendants argue that the motive requirement is the load-bearing element of a FACE claim and that Roe's failure to plead motive should result in the dismissal of her complaint.  As observed by the Eighth Circuit:
+
+      15
+
+FACE's motive requirement accomplishes ... the perfectly constitutional task of filtering out conduct that Congress believes need not be covered by a federal statute.  Congress enacted FACE to prohibit conduct that interferes with the ability of women to obtain abortions.  FACE's motive requirement targets this conduct while ensuring that FACE does not federalize a slew of random crimes that might occur in the vicinity of an abortion clinic.
+
+      16
+
+United States v. Dinwiddie, 76 F.3d 913, 923 (8th Cir.1996);  see also H.R.Rep. No. 306, 103d Cong., 2d Sess. 12 (1993), reprinted in, 1994 U.S.Code Cong. & Admin. News 699;  S.Rep. No. 117, at 24.  Thus, it is clear that the motive requirement is an essential element of a FACE claim.  The question then, is whether Roe's failure to specifically plead motive, or to include any allegations at all that would establish motive, is fatal to her claim.
+
+      17
+
+Rule 8(a) requires only "a short and plain statement of the claim showing that the pleader is entitled to relief."  Fed.R.Civ.P. 8(a)(2);  see also Conley v. Gibson, 355 U.S. 41, 47, 78 S.Ct. 99, 103, 2 L.Ed.2d 80 (1957) ("[The Federal Rules of Civil Procedure] ... require [only] a short and plain statement of the claim that will give the defendant fair notice of what the plaintiff's claim is and the grounds upon which it rests.") (internal marks omitted).  As this Court has previously observed, the liberal "notice pleading" standards embodied in Federal Rule of Civil Procedure 8(a)(2) do not require that a plaintiff specifically plead every element of a cause of action.  See St. Joseph's Hosp., Inc. v. Hosp. Corp. of Am., 795 F.2d 948, 954 (11th Cir.1986); see also Jack H. Friedenthal, et al., Civil Procedure, § 5.7 (2d ed.  1993) ("What the pleader need not do is worry about the particular form of the statement or that it fails to allege a specific fact to cover every element of the substantive law involved.");  5 Charles Alan Wright & Arthur R. Miller, Federal Practice and Procedure, § 1216 (2d ed.1990) ("the complaint ... need not state with precision all elements that give rise to a legal basis for recovery.").
+
+      18
+
+However, while notice pleading may not require that the pleader allege a "specific fact" to cover every element or allege "with precision" each element of a claim, it is still necessary that a complaint "contain either direct or inferential allegations respecting all the material elements necessary to sustain a recovery under some viable legal theory."  In re Plywood Antitrust Litigation, 655 F.2d 627, 641 (5th Cir. Unit A Sept.8, 1981).6  See also St. Joseph's Hosp., 795 F.2d at 954 ("[t]he pleading must contain either direct allegations on every material point necessary to sustain a recovery on any legal theory ... or contain allegations from which an inference fairly may be drawn that evidence on these material points will be introduced at trial.") (internal quotation and citation omitted);  Quality Foods v. Latin Am. Agribusiness Dev. Corp., 711 F.2d 989, 995 (11th Cir.1983) (stating, "enough data must be pleaded so that each element of the alleged ... violation can be properly identified.");Municipal Utils. Bd. of Albertville v. Alabama Power Co., 934 F.2d 1493, 1501 (11th Cir.1991) (same);  Seagood Trading Corp. v. Jerrico, Inc., 924 F.2d 1555, 1576 (11th Cir.1991) (same);  Gooley v. Mobil Oil Corp., 851 F.2d 513, 515 (1st Cir.1988) (even under the liberal notice pleading standard, a plaintiff is still required to "set forth factual allegations, either direct or inferential, respecting each material element necessary to sustain recovery under some actionable legal theory.").
+
+      19
+
+Thus, at a minimum, notice pleading requires that a complaint contain inferential allegations from which we can identify each of the material elements necessary to sustain a recovery under some viable legal theory.  See In re Plywood,655 F.2d at 641.  Here, Roe's complaint contains no allegations, inferential or otherwise, regarding defendants' motive, and Roe will ultimately have to prove that defendants acted with the proscribed motive if she is to prevail on the merits. Accordingly, the district court correctly dismissed Roe's complaint.
+
+      20
+
+In dismissing Roe's complaint, the district court expressly granted Roe ten days to amend her complaint.  However, in the same order, the district court also denied Roe's motion to proceed anonymously, thereby presenting her with a Hobson's choice--amend her complaint under her real name, or elect to treat the dismissal as final and stand on her complaint as written.  Seeking to preserve her anonymity, Roe elected the latter option.  Although we conclude that her complaint as currently fashioned does not state a claim under FACE, for reasons that we will discuss below, the district court erred in denying Roe's motion to proceed anonymously. Accordingly, on remand Roe should again be afforded a reasonable opportunity to amend her complaint and to do so while proceeding anonymously.
+
+      21
+
+If Roe chooses to amend her complaint to include allegations regarding defendants' motive, it will not be a difficult matter for her to draft allegations that would satisfy Rule 9(b).  The second sentence of Rule 9(b) provides that "[m]alice, intent, knowledge, and other conditions of mind of a person may be averred generally."  Fed.R.Civ.P. 9(b).  Of course, every complaint is a good faith representation to the court that, "to the best of the person's knowledge, information, and belief, formed after an inquiry reasonable under the circumstances," there is evidentiary support for the allegations contained therein.  Fed.R.Civ.P. 11(b).  If, for whatever reason, Roe fails or refuses to properly amend her complaint, the district court should reinstate its order of dismissal.  See In re Plywood, 655 F.2d at 642 ("if a pleader cannot allege definitively and in good faith the existence of an essential element of his claim, it is difficult to see why this basic deficiency should not be exposed at the point of minimum expenditure of time and money by the parties and the court.") (internal quotation and citation omitted).  If she does amend her complaint to allege, based on information and belief, the requisite motive, the complaint cannot be dismissed for failure to state a claim.
+
+B. ANONYMITY
+
+      22
+
+We turn now to the district court's denial of Roe's motion to proceed anonymously, a decision we review for abuse of discretion.  See Doe v. Frank, 951 F.2d 320, 323 (11th Cir.1992).
+
+      23
+
+Generally, parties to a lawsuit must identify themselves in their respective pleadings.  See id. at 322.  Federal Rule of Civil Procedure 10(a) requires a complaint to "include the names of all the parties."  As the Court in Frank noted, the requirement of disclosure "protects the public's legitimate interest in knowing all of the facts involved."  Id. (citations omitted).  However, courts have carved out a limited number of exceptions to the general requirement of disclosure, which permit plaintiffs to proceed anonymously.  Id. at 323.  "The ultimate test for permitting a plaintiff to proceed anonymously is whether the plaintiff has a substantial privacy right which outweighs the customary and constitutionally-embedded presumption of openness in judicial proceedings."  Id. (internal quotation and citation omitted).
+
+      24
+
+Roe requested that she be permitted to proceed anonymously because the fact that she had an abortion (or three, as the complaint alleges) is information of the utmost intimacy.  The district court denied Roe's request, stating that "the privacy surrounding an abortion procedure cannot be preserved in the face of the public's interest in open judicial proceedings and the defendant's right to know the plaintiff's identity."  However, the district court did not cite, and the defendants have been unable to provide us with, a single published decision from any jurisdiction denying a plaintiff's request to proceed anonymously in a case involving abortion.7
+
+      25
+
+By contrast, a number of decisions have pointed to abortion as the paradigmatic example of the type of highly sensitive and personal matter that warrants a grant of anonymity.  See, e.g., Southern Methodist Univ. Ass'n v. Wynne & Jaffe, 599 F.2d 707, 712-13 (5th Cir.1979);  Rankin v. New York Pub. Library, No. 98 CIV. 4821 (S.D.N.Y. Dec.2, 1999) (citing Doe v. Deschamps, 64 F.R.D. 652, 653 (D.Mont.1974));  W.G.A. v. Priority Pharmacy, Inc., 184 F.R.D. 616, 617 (E.D.Mo.1999) (citing Heather K. v. City of Mallard, 887 F.Supp. 1249, 1255 (N.D.Iowa 1995));  Luckett v. Beaudet, 21 F.Supp.2d 1029, 1030 (D.Minn.1998); Doe v. Rostker, 89 F.R.D. 158, 161 (N.D.Cal.1981);  cf. Thornburgh v. American Coll. of Obst. and Gyn., 476 U.S. 747, 772, 106 S.Ct. 2169, 2185, 90 L.Ed.2d 779 (1986) (recognizing, in a different context, that "[f]ew decisions are more personal and intimate, more properly private, or more basic to individual dignity and autonomy, than a woman's decision ... whether to end her pregnancy.").8
+
+      26
+
+Moreover, and contrary to the defendants' argument, none of the abortion cases that defendants cite premised the grant of anonymity on the fact that the plaintiff was seeking to challenge a criminal abortion statute.  While there have been abortion cases involving challenges to criminal abortion statutes in which the plaintiff was permitted to proceed anonymously, these decisions were either silent on the anonymity question, see e.g., Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973);  Doe v. Bolton, 410 U.S. 179, 93 S.Ct. 739, 35 L.Ed.2d 201 (1973);  Doe v. Dunbar, 320 F.Supp. 1297 (D.Colo.1970), or they discussed the anonymity question solely in terms of its sensitive and highly personal nature.  Deschamps, 64 F.R.D. at 653 ("The intensely personal nature of pregnancy does, we believe, create an unusual case, and in such a case the general policy of full disclosure may well give way to a policy of protecting privacy in a very private matter.").
+
+      27
+
+We are not aware of any abortion cases that have explicitly premised a grant of anonymity on grounds that the plaintiff sought to challenge a criminal abortion statute.9  Additionally, we note that there are a number of abortion cases that have not involved challenges to criminal statutes where the plaintiff was permitted to proceed anonymously.  See e.g., Doe v. Mundy, 514 F.2d 1179 (7th Cir.1975) (challenge to county hospital rule);  Doe v. General Hosp. of the Dist. of Columbia, 434 F.2d 427 (D.C.Cir.1970) (challenge to hospital abortion policy);  Victoria W. v. Larpenter, No. CIV. A. 00-1960 (E.D.La. April 17, 2001) (challenging prison policy of denying inmates right to have an abortion).
+
+      28
+
+The dissenting opinion postulates that the reason plaintiffs in abortion cases have been permitted to proceed anonymously is because those plaintiffs were challenging the "constitutional, statutory, or regulatory validity of government activity."  While it may be true that plaintiffs in abortion cases have typically brought such claims, no decision in an abortion case has ever suggested that the plaintiff was permitted to proceed anonymously only because she was bringing a constitutional or statutory challenge.  To the contrary, those decisions, and others discussing abortion, have consistently based anonymity on the fact that abortion is a highly sensitive and intensely private matter.  See e.g. Deschamps, 64 F.R.D. at 653.
+
+      29
+
+The fact that plaintiffs in abortion cases are often challenging government conduct does not mean that is a necessary condition of proceeding anonymously. Plaintiffs in cases that do not involve abortion bring challenges to government activity every court day, and no published opinion that we are aware of has ever permitted a plaintiff to proceed anonymously merely because the complaint challenged government activity.
+
+      30
+
+Doe v. Stegall, 653 F.2d 180 (5th Cir.1981), is not to the contrary.  There, the Court summarized the factors identified in Wynne & Jaffe common to those cases that have permitted plaintiffs to proceed anonymously.  Id. at 185.  One of the factors the Court identified was that plaintiffs seeking anonymity were often challenging governmental activity.  Id. However, as the Court in Stegall noted, "in only a very few cases challenging governmental activity can anonymity be justified."  Id. In fact, even in Stegall itself, where the Court considered the fact that the plaintiffs were challenging government conduct, the Court emphasized that the privacy interest of the plaintiffs, the threat of harm to the plaintiffs and the fact that the plaintiffs were children, also factored into its decision to permit them to proceed anonymously.  Id.at 186;  see also Frank, 951 F.2d at 324 ("Wynne & Jaffe does not stand ... for the proposition that there is more reason to grant a plaintiffs' request for anonymity if the plaintiff is suing the government.").
+
+      31
+
+The dissenting opinion also states that there is no longer "a real threat of social stigma associated" with the decision to get an abortion.  However, the legislative history of FACE reveals that the statute was enacted in response to the "campaign of violence [that] has lead to death, injury, harassment, fear, and thousands of arrests all across the nation."  H.R.Rep. No. 103-306, at 6 (1993), reprinted in, 1994 U.S.C.C.A.N. 699, at 703;  see also United States v. Gregg, 226 F.3d 253, 259 (3rd Cir.2000) ("FACE was enacted in 1994 against a backdrop of escalating violence directed toward reproductive health clinics, their employees, and patients.").  Given the reason for the statute's existence, Congress likely would not concur in the dissenting opinion's assessment of the prevailing social sentiment surrounding the issue of abortion.
+
+      32
+
+There is nothing about this case that makes Roe's privacy interests any less worthy of protection than those of the plaintiffs in the other abortion cases we have cited.10  The only justification the defendants offer for stripping Roe of her privacy is the argument that they will not be able to adequately conduct discovery without knowing her true identity.  However, that argument is eviscerated by Roe's offer to disclose her name to the defendants for discovery purposes on condition that they do not disclose it to the general public.  That is a reasonable way to reconcile the competing interests, and the district court can enter an appropriate protective order. The district court should have granted Roe's motion to proceed anonymously.
+
+III. CONCLUSION
+
+      33
+
+The district court's dismissal of the complaint without prejudice is VACATED. The district court's denial of Roe's motion to proceed anonymously is REVERSED. The case is REMANDED with instructions that the district court re-enter its order dismissing the complaint without prejudice, allowing amendment within a reasonable period of time.
+
+NOTES:
+
+        *
+
+Honorable Anthony A. Alaimo, U.S. District Judge for the Southern District of Georgia, sitting by designation.
+
+        1
+
+Dr. Egherman filed a motion to dismiss separate from and in addition to the other defendants' motion to dismiss.
+
+        2
+
+While most of the cases interpreting FACE have involved criminal sanctions, "[t]here is no indication in the statute that the elements of the prohibited activity are to be interpreted any differently when imposing civil as opposed to criminal sanctions."  Greenhut v. Hand, 996 F.Supp. 372, 378 n. 4 (D.N.J.1998).
+
+        3
+
+The defendants' argument on this point is that it is unreasonable to assume "that the defendants' acts were intended to prevent [Roe] from leaving the clinic and obtaining an abortion elsewhere...."  By so arguing, defendants conflate the "intent" component of the second element with the "motive" component of the third element.  To establish the second element, Roe need only allege that defendants intended to restrict her freedom of movement.  Whether they did so in order "to prevent her from leaving the clinic and obtaining an abortion elsewhere," goes to motive, the third element.
+
+        4
+
+The district court drew this language from United States v. Wilson, 2 F.Supp.2d 1170, 1171 (E.D.Wisc.1998).  In Wilson, the district court interpreted the motive element to require that a defendant act "for the express purpose of preventing such persons from obtaining or providing reproductive health services."  Id. at 1171.  Cf. Balint, 201 F.3d at 933 (finding that the third element "demonstrates concern for future clinic activity by extending to those 'seeking to' provide or 'seeking to' obtain services.") (emphasis in original).
+
+        5
+
+During oral argument, Roe's counsel was asked the following question and gave the following answer:
+
+Court:So you agree that if [the defendants] ultimately prove that their sole motive was to protect this woman from further harm--you lose?
+
+Roe:If the elements are not met--that is correct, but that is going to be for a jury to decide.
+
+We agree with counsel's concession that if the defendants' sole motive was to protect Roe's life or health the defendants win, but whether their true motive is a jury question depends upon Roe's case surviving the summary judgment motion that the defendants will inevitably file after the remand of this case.
+
+        6
+
+While In re Plywood and a number of other cases cited in this section involve antitrust actions, "[i]t is now well accepted that notice pleading is all that is required for a valid antitrust complaint."  Quality Foods v. Latin Am. Agribusiness Dev. Corp., 711 F.2d 989, 995 (11th Cir.1983);  see also Wright & Miller, Federal Practice and Procedure, § 1228 ("it is now reasonably clear that the standard in Rule 8(a) calling for a short and plain statement of the claim for relief is to be applied in [antitrust cases] in the same fashion as it is in any other action.").
+
+        7
+
+Our own independent research has turned up only two such cases, though neither decision would support a denial of anonymity in this case.  See e.g., M.M. v. Zavaras, 139 F.3d 798, 802-03 (10th Cir.1998) (denying an indigent female inmate's request to proceed anonymously in a suit challenging prison official's denial of funds to pay for abortion services, finding that the defendant prison officials already knew her true identity and that the public interest in knowing her identity outweighed the inmate's privacy interests because her claim to relief involved the use of public funds);  Akron Ctr. for Reprod. Health, Inc. v. City of Akron, 651 F.2d 1198, 1210 (6th Cir.1981) (finding, with no discussion, that the district court did not abuse its discretion in denying a pregnant women and her doctor's request to proceed under pseudonyms), reversed in part on other grounds, 462 U.S. 416, 103 S.Ct. 2481, 76 L.Ed.2d 687 (1983).
+
+        8
+
+The dissenting opinion in this case observes:  "[i]t is the exceptional case in which a plaintiff may proceed under a fictitious name."  We agree, but abortion cases are, and always have been recognized to be, exceptional cases for anonymity purposes.
+
+        9
+
+The dissenting opinion quotes the following statement from Wynne & Jaffe:  "Many [plaintiffs seeking to proceed anonymously] also had to admit that they either had violated state laws or government regulations or wished to engage in prohibited conduct."  599 F.2d at 712-13.  However,Wynne & Jaffe cited only one abortion case, Roe v. Wade, in support of that assertion, and Roe did not even discuss the anonymity issue.  In fact, this isolated statement from Wynne & Jaffe was subsequently repudiated by a later decision.  See Doe v. Stegall, 653 F.2d 180, 186 (5th Cir. Unit A, Aug.10, 1981) ("the cases examined in [Wynne & Jaffe ] belie the notion that a party must admit criminal conduct or criminal intent in order to proceed under a fictitious name.").
+
+        10
+
+Wynne & Jaffe, 599 F.2d at 712-13, upon which the dissenting opinion relies, is distinguishable. That was not an abortion case, but one in which the plaintiffs were female attorneys seeking to proceed anonymously in a Title VII case alleging sexual discrimination against a law firm.  Id. At the outset, the Court noted that the plaintiffs were seeking anonymity in an inappropriate context, stating "[p]laintiffs have not cited, nor have we found, any prior decisions which recognize or even discuss the right of Title VII plaintiffs to proceed anonymously."  Id. The Court went on to list abortion as an example of the kind of "sensitive and highly personal" issue where "the normal practice of disclosing the parties' identities yields to a policy of protecting privacy in a very private matter."  Id. (internal quotation and citation omitted).  The Wynne & Jaffe opinion did not state or even suggest that a court must abandon that policy, or that a plaintiff in an abortion case must surrender her near universally-recognized right to proceed anonymously, simply because the defendants are private actors, or because the complaint alleges violations of federal law.
+
+The Wynne & Jaffe Court observed only that, in that case, which involved a run-of-the-mill Title VII claim and which did not involve any traditionally recognized privacy interests, it would not be fair to permit the plaintiffs to proceed anonymously against private defendants given the nature of plaintiffs allegations.  Id. Thus, that decision did not recognize an exception, involving private defendants accused of violating federal law, to the general rule that plaintiffs in cases involving abortion should be permitted to proceed anonymously.  Wynne & Jaffe could not have adopted any rule as to abortion cases, because it was not an abortion case.
+
+      34
+
+HILL, Circuit Judge, concurring in part, dissenting in part:
+
+      35
+
+I concur in the judgment of our court remanding this case for dismissal with leave to amend.  I respectfully dissent, however, from the majority's decision that Roe must be allowed to proceed anonymously.
+
+      36
+
+Plaintiffs must disclose their names when they file a lawsuit.  Fed.R.Civ.P. 10(a).  We have made clear that "[p]ublic access to this information is more than a customary procedural formality;  First Amendment guarantees are implicated when a court decides to restrict public scrutiny of judicial proceedings."  Doe v. Stegall, 653 F.2d 180, 185 (5th Cir. Unit A 1981) (emphasis added).  The decision to depart from these First Amendment guarantees must not be made lightly or without careful consideration of the reasons urged to justify that departure.  Id.Only rarely will these reasons be adequate to elevate the plaintiff's privacy interest over the "almost universal practice of disclosure."  Id. at 186.  A plaintiff may be allowed to proceed anonymously only if she can show a substantial privacy right which outweighs the "customary and constitutionally-embedded presumption of openness in judicial proceedings."  Id. at 320 (quoting Stegall, 653 F.2d at 186).  "It is the exceptional case in which a plaintiff may proceed under a fictitious name."  Doe v. Frank, 951 F.2d 320, 323 (11th Cir.1992) (emphasis added).
+
+      37
+
+Roe claims that this lawsuit constitutes one of these "exceptional" cases.  She argues that, because the allegations of her lawsuit arise from her abortion, she is entitled to proceed anonymously.  I disagree.
+
+I.
+
+      38
+
+We have previously catalogued the circumstances common to the "Doe" cases:  (1) plaintiffs challenging a governmental activity;  (2) plaintiffs required to disclose information of the utmost intimacy;  and (3) plaintiffs compelled to admit their intention to engage in illegal conduct, thereby risking criminal prosecution.  Stegall, 653 F.2d at 185.  Under these exceptional circumstances, we have held that a plaintiff's privacy interest might outweigh the presumption of disclosure.
+
+      39
+
+Roe argues that she should be allowed to proceed anonymously because the "decision to have an abortion is of such intimacy that it should not be revealed to the public."  The majority agrees, citing a number of cases in support of its conclusion that "abortion [is] the paradigmatic example of the type of highly sensitive and personal matter that warrants a grant of anonymity."
+
+      40
+
+None of these cases, however, involved abortion.1  Although abortion is mentioned in each as the kind of case in which anonymity has been permitted, in the only case cited from this circuit, Southern Methodist University Ass'n v. Wynne & Jaffe, 599 F.2d 707 (5th Cir.1979), we observed that "all of the plaintiffs previously allowed to proceed anonymously were challenging the constitutional, statutory or regulatory validity of government activity."  Id. at 713.2  In the abortion cases, for example, pregnant plaintiffs sought to determine the constitutionality of laws or government policies outlawing or limiting the availability of abortions.  Id.3  "Many also had to admit that they either had violated state laws or government regulations or wished to engage in prohibited conduct."  Id. Under these exceptional circumstances, anonymity was permitted.
+
+      41
+
+There are no such exceptional circumstances present in this case.  Roe challenges no governmental activity.  Nor does she admit illegal conduct.  She is not liable to be arrested if her identity is revealed.  Roe risks nothing by bringing this lawsuit.  On the contrary, she seeks money damages, not vindication of some withheld constitutional right.  She is not the sort of plaintiff who has historically been accorded the privilege of anonymity.4
+
+      42
+
+Nor is there any authority for granting such a plaintiff anonymity.  The majority does not cite even one case involving abortion in which anonymity was granted to a plaintiff who, like Roe, was not challenging the constitutional, statutory, or regulatory validity of government activity.  On the contrary, the majority concedes that the two circuits which have most recently considered this issue both affirmed the denial of permission to proceed anonymously even to plaintiffs who were challenging government policies.  See M.M. v. Zavaras, 139 F.3d 798, 802-02 (10th Cir.1998) (public interest outweighed any privacy interest where plaintiff sought abortion with public funds);  Akron Center for Reproductive Health, Inc. v. City of Akron, 651 F.2d 1198, 1210 (6th Cir.1981), rev'd in part on other grounds, 462 U.S. 416, 103 S.Ct. 2481, 76 L.Ed.2d 687 (1983) (finding, with no discussion, that the district court did not abuse its discretion in denying pregnant woman's request to proceed anonymously in suit challenging limitations on abortion in city ordinance).  "Even in the abortion context, anonymity is not automatic."  Luckett v. Beaudet, 21 F.Supp.2d 1029, 1030 n. 1 (D.Minn.1998) (citing Akron Center for Reproductive Health, 651 F.2d at 1210).  The law, it seems to me, does not support Roe's request.
+
+II.
+
+      43
+
+Even though Roe's privacy interest is not the sort historically protected in abortion cases, I recognize that the decision to have an abortion is still a private one.  I doubt, however, that there is any longer a real threat of "social stigma" associated with that decision.  Rostker, 89 F.R.D. 158 ("The common thread running through these cases is the presence of some social stigma or the threat of physical harm to the plaintiffs attaching to disclosure of their identities to the public record").  The allegations of Roe's complaint, I believe, implicate abortion as a medical issue which, although sensitive and private, "is not such a badge of infamy or humiliation in the modern world that its presence should be an automatic ground for concealing the identity of a party to a federal suit."  Blue Cross & Blue Shield, 112 F.3d at 872.  Absent such stigma, the claim for privacy based upon a medical issue must be waived when one chooses a public forum to settle a private dispute.5  "The fact that a case involves a medical issue is not a sufficient reason for allowing the use of a fictitious name, even though many people are understandably secretive about their medical problems."  Doe v. Blue Cross & Blue Shield United of Wisconsin,112 F.3d 869, 872 (7th Cir.1999)(psychiatric disorder);  Rankin v. New York Pub. Library, No. 98 CIV. 4821 (S.D.N.Y. Dec.2, 1999) (plaintiff denied anonymity even though required to reveal private medical information which was "highly sensitive and highly personal").6
+
+      44
+
+Not only is there is no compelling reason for anonymity in this case, there is a very good reason for not allowing Roe to proceed anonymously.  Roe has sued private parties who were engaged in lawful activity, accusing them of serious violations of federal law.  These individuals, whose identities are fully exposed in her lawsuit, have had their professional reputations impugned by the mere filing of her lawsuit.  Under these circumstances, it is difficult to understand why they will be any less embarrassed by these proceedings than she.  We have said before that such circumstances do not favor anonymity:
+
+      45
+
+While [suits challenging governmental activity] involve no injury to the Government's "reputation," the mere filing of a civil action against other private parties may cause damage to their good names and reputation and may also result in economic harm. Defendant law firms stand publicly accused of serious violations of federal law.  Basic fairness dictates that those among the defendants' accusers who wish to participate in this suit as individual party plaintiffs must do so under their real names.
+
+      46
+
+Wynne & Jaffe, 599 F.2d at 713.  See also Free Market Compensation v. Commodity Exchange, Inc., 98 F.R.D. 311, 313 (S.D.N.Y.1983) ("We find persuasive the reasoning of the Fifth Circuit that when a plaintiff publicly accuses a defendant of serious violations of federal law, '[b]asic fairness dictates that those among the defendants' accusers who wish to participate in the suit as individual party plaintiffs must do so under their real names' ").
+
+      47
+
+Furthermore, several courts have questioned whether plaintiffs whose interest in their lawsuit is primarily economic should be allowed to proceed anonymously.  In Luckett, 21 F.Supp.2d at 1030, the court denied anonymity to a plaintiff alleging sexual coercion and discrimination, even though discussing such allegations would "undoubtedly [be] uncomfortable" noting that "[p]laintiff seeks a dollar recovery for a statutory tort."  In Free Market Compensation, the district court denied anonymity to a plaintiff alleging securities fraud who feared retaliation, holding that "John Doe's desire to avoid professional embarrassment and economic loss" is not a "recognized" privacy interest.  98 F.R.D. at 313.  Roe's interest in this lawsuit is economic, and, although recovery will involve testimony regarding private medical matters, it seems to me that her case does not fall within one of the recognized exceptions to the rule requiring public proceedings.7
+
+III.
+
+      48
+
+The majority's decision today establishes a per se rule entitling any plaintiff in any case involving her abortion to proceed anonymously in this circuit.  Roe's claim for anonymity rests entirely upon her argument that abortion is a matter of such "intimacy" that "it should not be revealed to the public."  She alleges nothing else which would entitle her to proceed anonymously.  The majority points to no other circumstances which might support the grant of anonymity.8  Therefore, the majority holds today that the mere fact that her lawsuit involves an abortion satisfies this circuit's Stegall test for anonymity.  This is a per se rule.
+
+      49
+
+This conclusion is bolstered by the fact that we reverse the district court today because it abused its discretion in denying Roe the right to proceed anonymously.  Frank, 951 F.2d at 323 (proper standard of review is for abuse of discretion).  An abuse of discretion can only be found if the trial court failed to consider the relevant factors, misapprehended the facts, or misapplied the law.  M.M. v. Zavaras, 139 F.3d 798, 803 (10th Cir.1998) (citing James v. Jacobson, 6 F.3d 233, 242 (4th Cir.1993)).  The district court does not abuse its discretion just because we may have decided the case differently.  Under this standard, we are not free to substitute our judgment for that of the district court unless it has made some error in exercising its discretion.  Id.
+
+      50
+
+The district court specifically considered Roe's claim that her lawsuit will force her to reveal matters of "utmost intimacy."  The court applied the correct test for anonymity in this circuit, citing Doe v. Frank, 951 F.2d at 323 which contains the Stegall test.  The court then looked for additional circumstances which might support Roe's assertion that the right to keep her abortion a secret should prevail over the constitutional rule of openness in judicial proceedings.  Although asserting in her motion that she faces "additional harm" from defendants were they to discover her true identity, the district court found she offered no factual support for this assertion.  The court concluded that, "absent some additional circumstances necessitating anonymity, the privacy surrounding an abortion procedure cannot be preserved in the face of the public's interest in open judicial proceedings...."
+
+      51
+
+I find no mistake of law or misapprehension of the facts in this conclusion.  The district court correctly applied the relevant test.  Unless the district court was required to find that Roe is entitled to proceed anonymously, I can find no fault with this exercise of its discretion to deny that privilege.  After today, I fear, the district court will understand that it is required to extend the privilege to all future Roes.
+
+      52
+
+I would affirm the district court's denial of Roe's motion to proceed anonymously. Otherwise, I concur.
+
+NOTES:
+
+        1
+
+Southern Methodist University Ass'n v. Wynne & Jaffe, 599 F.2d 707 (5th Cir.1979)(fear of reprisal, request for anonymity denied);  Rankin v. New York Pub. Library, No. 98 CIV. 4821 (S.D.N.Y. Dec.2, 1999) (medical disorder, request denied);  W.G.A. v. Priority Pharmacy, Inc., 184 F.R.D. 616, 617 (E.D.Mo.1999) (AIDS, request granted);  Heather K. v. City of Mallard, 887 F.Supp. 1249, 1255 (N.D.Iowa 1995)(medical disorder, request granted);  Luckett v. Beaudet, 21 F.Supp.2d 1029, 1030 (D.Minn.1998)(sexual coercion, request denied);  Doe v. Rostker, 89 F.R.D. 158, 161 (N.D.Ca.1981)(draft status, request denied).  The only case which actually involved an abortion appeared in this list as a case cited by one of the majority's authorities.  See Doe v. Deschamps, 64 F.R.D. 652 (D.Mont.1974) (testing legality of Montana's abortion laws, request granted).
+
+        2
+
+We went on to reject the four female lawyers' request to proceed anonymously in a Title VII action against two Dallas law firms explaining that such exceptional circumstances were missing from their damage suit against private parties.  Id.
+
+        3
+
+I note that this would include all the actual abortion cases cited later in the majority opinion:  Roe v. Wade, 410 U.S. 113, 93 S.Ct. 705, 35 L.Ed.2d 147 (1973);  Doe v. Bolton, 410 U.S. 179, 93 S.Ct. 739, 35 L.Ed.2d 201 (1973);  Victoria W. v. Larpenter, No. CIV. A. 00-1960 (E.D.La. April 17, 2001);  Doe v. Mundy, 514 F.2d 1179 (7th Cir.1975);  Doe v. Deschamps, 64 F.R.D. 652 (D.Mont.1974);  Doe v. General Hosp. of the Dist. of Columbia, 434 F.2d 427 (D.C.Cir.1970);  Doe v. Dunbar, 320 F.Supp. 1297 (D.Colo.1970).
+
+        4
+
+For this reason, I believe the majority is incorrect that "there is nothing about this case that makes Roe's privacy interests any less worthy of protection than those of the plaintiffs in the other abortion cases we have cited."
+
+        5
+
+As, for example, in a divorce where the parties must discuss the most private issues in public proceedings.
+
+        6
+
+Although the plaintiff in Heather K received permission to proceed anonymously, the district court appears to have granted the permission based upon her fears of retaliatory harassment rather than her medical problems.  887 F.Supp. at 1255.
+
+        7
+
+I am unpersuaded by the majority's argument that Roe's offer to disclose her identity to the defendants for discovery purposes on condition that they do not disclose it to the general public "eviscerates" the "only reason"--discovery problems--given by defendants for "stripping Roe of her privacy."  First, "[t]he use of fictitious names is disfavored, and the judge has an independent duty to determine whether exceptional circumstances justify such a departure from the normal method of proceeding in federal courts."  Blue Cross & Blue Shield, 112 F.3d at 872.  A motion to proceed under a fictitious name should not be granted automatically even if the opposing party does not object.  Id.Second, plaintiff's offer to reveal her name to the defendants but proceed unnamed does not address the issue of whether she has a right to do so under the circumstances of this case.  Rostker, 89 F.R.D. at 162. "It is the public, not the court [or the defendant] which has an interest in the disclosure of the parties' identities."  Free Market Compensation, 98 F.R.D. at 313 (emphasis added).  "The people have a right to know who is using their courts."  Blue Cross & Blue Shield, 112 F.3d at 872.
+
+        8
+
+Often courts discuss other circumstances in a case which combined with the privacy interest outweigh the presumption of openness.  For example, fear of retaliation, Heather K., 887 F.Supp. at 1255, fear of discrimination, Priority Pharmacy, Inc., 184 F.R.D. at 617, or where the plaintiffs are children, Stegall, 653 F.2d at 186.  Roe alleges in her motion that there is a "danger of harm to the Plaintiff" but does not argue this in her brief, nor does the majority discuss this allegation.
+
+CC∅ | Transformed by Public.Resource.Org
