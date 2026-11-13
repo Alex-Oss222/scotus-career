@@ -1,0 +1,357 @@
+[
+  {
+    "case": "Norton v. Ashcroft",
+    "filename": "Norton-v-Ashcroft_merits_2003-01-15.md",
+    "date": "2003-01-15",
+    "fixedopinionform": "one signed opinion of the Court after plenary merits review; form fixed before assignment",
+    "eligible_full_rationale_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "majorityjudgment": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvote_arrays": [
+      {
+        "component": "Facial commerce challenge",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "Facial expression challenge",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "plausibleauthorfit_alternatives": {
+      "Kennedy": "Authored the operative American Life League rule and can explain its direct-market and expression boundaries without reopening ACLA attribution.",
+      "O'Connor": "Can distinguish the binding civil-threat standard from findings needed for enforcement and retain the facial/as-applied boundary.",
+      "Stone-Zsela": "Approved position coordinates direct market power, advocacy, statutory proof and finding-specific relief; evaluate against available lower-count alternatives."
+    },
+    "assignment_authority": "Chief Justice Stone-Zsela, in every judgment majority",
+    "separate_writing": null,
+    "compatibility": "Every Associate's N1–N3 joins survives. Stone's approved rule matches the direct-market and defined-conduct holdings, and expressly applies the effective ACLA purpose-or-knowledge standard despite his earlier separate position. Acknowledging that binding rule does not invent Scalia or Thomas's adoption of its original constitutional rationale. Standard criminal/civil proof burdens describe the distinct enforcement proceedings and decide no new offense or remedy. Stone's ungranted-action and remedy limits are preserved; no standing fallback is used."
+  },
+  {
+    "case": "Newman v. Sathyavaglswaran",
+    "filename": "Newman-v-Sathyavaglswaran_merits_2003-01-15.md",
+    "date": "2003-01-15",
+    "fixedopinionform": "one signed opinion of the Court after plenary merits review; form fixed before assignment",
+    "eligible_full_rationale_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "majorityjudgment": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvote_arrays": [
+      {
+        "component": "Reinstatement of complaint",
+        "disposition": "Affirm",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "plausibleauthorfit_alternatives": {
+      "Breyer": "Gilbert authorship supplies concrete fit for the integrated urgency/process inquiry while preserving the distinct entitlement question.",
+      "Kennedy": "Sullivan authorship supplies fit for distinguishing an actual retained entitlement from a procedural expectation.",
+      "Souter": "Can coordinate substantive refusal rights and the actual-process remit without adopting the separate ordinary-notice presumption."
+    },
+    "assignment_authority": "Chief Justice Stone-Zsela, in every judgment majority",
+    "separate_writing": "Stone-Zsela, concurrence in part and in judgment",
+    "compatibility": "All eight Associates retain P1–P3 without change. Stone joins the entire retained-right and established-procedure holdings but retains his approved ordinary reasonable-notice presumption and substantiation of necessity, stated separately. His conditional Mathews-only fallback is triggered only if missing operational facts prevent even a presumptive safeguard; colleague disagreement is not that condition. Here his authorized rule expressly treats the missing facts as the subjects of necessity and liability proof, so the primary position remains. Stone joins the integrated Mathews framework in Part III, ordinary practicable-opportunity/actual-urgency principle and factual, liability, defense and remedy directions. His partial join withholds assent only from leaving the more definite reasonable-notice presumption and necessity substantiation unstated. The eight full joiners provide direct majority authority for the whole opinion; the specified shared propositions have nine joins. No manufactured expansion join, altered burden for colleagues, or standing fallback is used. His temporal, retrospective-relief, immunity and proof qualifications remain in the concurrence."
+  },
+  {
+    "case": "Meyer v. Holley",
+    "filename": "Meyer-v-Holley_merits_2003-01-22.md",
+    "date": "2003-01-22",
+    "fixedopinionform": "one signed opinion of the Court after plenary merits review; form fixed before assignment",
+    "eligible_full_rationale_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "majorityjudgment": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvote_arrays": [
+      {
+        "component": "Special personal vicarious-liability judgment",
+        "disposition": "Vacate and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "plausibleauthorfit_alternatives": {
+      "Thomas": "Bestfoods authorship supplies concrete fit for corporate separateness, true direct wrongdoing and derivative alternatives.",
+      "Souter": "Darden authorship supplies concrete fit for common-law statutory interpretation and relationship-specific attribution.",
+      "Breyer": "Can integrate the distinction between actual agency, regulatory notice and bounded remedial continuation.",
+      "Stone-Zsela": "Approved position separates liability attribution from alleged injury and ordinary remedy; evaluate against lower-count eligible alternatives."
+    },
+    "assignment_authority": "Chief Justice Stone-Zsela, in every judgment majority",
+    "separate_writing": null,
+    "compatibility": "Each Associate retains M1–M3. Stone's preserved-direct-participation language is expressly conditional: the validated record contains no such allegation, so the opinion neither creates one nor revives an unappealed ruling. His ordinary-agency/corporate-disregard remit fits the genuinely preserved-theory condition. The corrected summary-judgment posture and disputed ownership do not change his categorical attribution judgment, which forbids title alone doing the work of an actual relationship. No new claim, evidence entitlement or factual preservation finding is supplied. All nine can join the entire opinion; no standing fallback is used."
+  },
+  {
+    "case": "Roe v. Texas Department of Protective and Regulatory Services",
+    "filename": "Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md",
+    "date": "2003-06-02",
+    "fixedopinionform": "one signed opinion of the Court after plenary merits review; form fixed before assignment",
+    "eligible_full_rationale_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "majorityjudgment": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvote_arrays": [
+      {
+        "component": "Child immunity",
+        "disposition": "Reverse",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "component": "Child merits",
+        "disposition": "Adopt stated protection and plaintiff-favorable violation",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [],
+        "not_reached": [
+          "Scalia",
+          "Thomas"
+        ]
+      },
+      {
+        "component": "Entry",
+        "disposition": "Affirm rejection",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "Duplicative substantive due process",
+        "disposition": "Affirm rejection",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "State-law independence",
+        "disposition": "Preserve",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "Restored-federal-claim remand",
+        "disposition": "Remand in surviving federal claim posture",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "plausibleauthorfit_alternatives": {
+      "Souter": "Hope authorship supplies concrete fit for fair-warning specificity, hierarchy and contrary authority while separating current merits from 1999 notice.",
+      "Ginsburg": "Elder and Behrens authorship supplies fit for all-relevant-law review and the assumed-fact/claim-specific boundary.",
+      "O'Connor": "Robinette authorship supplies fit for voluntary consent and interview-versus-examination scope.",
+      "Kennedy": "Ferguson authorship supplies fit for actual-operation special-needs review without turning later law into preconduct warning.",
+      "Stone-Zsela": "Approved position coordinates distinct search, notice, attribution and remedy inquiries; compare the eligible pool alternatives."
+    },
+    "assignment_authority": "Chief Justice Stone-Zsela, in every judgment majority",
+    "separate_writing": "Scalia, joined Thomas, concurrence in part and dissent in part",
+    "compatibility": "Stone's approved primary merits and notice positions match the six Associates' frozen R2/R3 rationale, producing seven direct joins. The actual record permits the shared-limit obvious-excess rationale; neither colleague dissent nor the mere existence of contrary decisions automatically triggers his conditional immunity fallback. All nine retain entry, particular-act due-process and independent Texas-immunity positions. Scalia and Thomas decline merits, not vote against a constitutional rule; they join V-A's independence only, not the restored-federal-claim mandate in V-B. Their compatible noncontrolling position is published jointly under Scalia, whose Anderson and Wilson work supplies concrete authorship fit; this separate writing does not count under balanced assignment. No Associate changes commitment, no factual consent finding or universal child-search rule is supplied, and no standing fallback is used."
+  }
+]

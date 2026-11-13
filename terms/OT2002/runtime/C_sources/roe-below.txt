@@ -1,0 +1,1385 @@
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE FIFTH CIRCUIT
+_______________
+m 01-50711
+_______________
+MARY ROE,
+INDIVIDUALLY AND AS NEXT FRIEND OF JACKIE DOE, A MINOR CHILD;
+JOHN DOE,
+AS NEXT FRIEND OF JACKIE DOE, A MINOR CHILD,
+Plaintiffs-Appellees,
+VERSUS
+TEXAS DEPARTMENT OF PROTECTIVE AND REGULATORY SERVICES, ET AL.,
+Defendants,
+BEVERLY STRICKLAND,
+INDIVIDUALLY AND IN HER OFFICIAL CAPACITY,
+Defendant-Appellant.
+_________________________
+Appeal from the United States District Court
+for the Western District of Texas
+_________________________
+July 17, 2002
+Before REAVLEY, SMITH, and DENNIS, 
+Circuit Judges.
+JERRY E. SMITH, Circuit Judge:
+Mary Roe and John Doe, as parents and
+next friends of Jackie Doe, sued the Texas
+Department of Protective and Regulatory Ser-
+vices (“TDPRS”) and social worker Beverly
+Strickland after Strickland visually searched
+2
+Jackie’s body cavities without a court order.
+The district court dismissed the claims against
+the TDPRS, and plaintiffs do not appeal that
+dismissal.  The court, however, rej ected
+Strickland’s motion for summary judgment,
+and Strickland appeals based on the denial of
+qualified immunity.  
+Although we conclude that the plaintiffs
+pleaded a claim and raised a fact question as to
+whether Strickland violated Jackie’s Fourth
+Amendment rights, we reverse because those
+rights were not clearly established at the time
+of the search.  Strickland is entitled to
+qualified immunity.  The other allegat ions do
+not establish violations of the Fourth and
+Fourteenth Amendments.  We remand for
+consideration of a state law claim.
+I.
+Strickland worked for TDRPS in the Child-
+ren’s Protective Services (“CPS”) division.
+On June 29, 1999, the CPS Statewi de Intake
+Unit received a “hotline” call concerning Jack-
+ie, alleging that while she was attending a day
+camp, someone observed her “touch[ing]
+another six-year-old female’s private parts and
+kiss[ing] her on the lips”; Jackie then allegedly
+“began dancing and licked her finger and ran it
+down her body and touched her own private
+parts.”  The events occurred in a bathroom
+where Jackie, naked, was changing out of her
+swimsuit.
+The intake workers concluded that Jackie’s
+“behavior indicates that she may have been
+sexually abused.”  The report assigned the case
+a priority 2 status, requiring a CPS
+investigator to attempt contact with the family
+in ten days.  Samantha Woods, the supervisor
+for the CPS investigative unit, agreed with the
+priority 2 status and assigned the case to
+Strickland, who was required by law to make
+a prompt and thorough investigation of the
+child abuse report.  T EX. FAM. CODE ANN.
+§ 261.301 (West Supp. 2002).
+On July 6-8, Strickland unsuccessfully at-
+tempted to contact Mrs. Roe.  On July 9, Mrs.
+Roe called Strickland, using a business card
+that Strickland had left on Mrs. Roe’s
+doorstep.  According to Mrs. Roe, during the
+July 9 phone conversation Strickland
+introduced herself, explained that she worked
+for CPS, and said she needed to talk to Mrs.
+Roe.  Strickland declined to  describe the
+purpose of the visit and insisted that they talk
+in person.  Strickland stated only that she had
+received a “referral concerning the care and
+welfare” of Jackie.  Strickland and Mrs. Roe
+made an appointment for Strickland t o visit
+Mrs. Roe’s house the next morning.
+On July 10, Strickland arrived at the house.
+Mrs. Roe  testified t hat she had a brief
+conversation with Strickland outside the front
+door; Strickland introduced herself again,
+explained her affiliation with CPS, and gave
+Mrs. Roe a business card.  Mrs. Roe testified
+that Strickland entered the house without an
+invitation or permission; Strickland maintains
+that she was invited inside.  Mrs. Roe testified
+that Strickland did not act in a manner
+designed to frighten or intimidate.  Mrs. Roe
+also admitted that she did not say  or do
+anything to show that she did not want
+Strickland to enter.
+After entering the ho use, Strickland
+explained the purpose o f the visit and
+discussed the report that had been made to
+CPS.  Mrs. Roe asked Strickland whether she
+should contact an attorney, and Strickland
+stated, “Oh no, no.  Don’t worry  about i t.
+You don’t need anybody.”
+3
+After asking some questions, Strickland
+told Mrs. Roe that she needed to take pictures
+of Jackie.  Strickland did not give the mother
+the option of submitting to the examination
+and pictures or refusing them.  Strickland did
+not disclose the type of pictures or extent of
+the examination.  Strickland acknowledges
+that she co uld have requested a medical
+examination but did not do so.  She had re-
+ceived no  training in photography of
+children’s genitalia.
+Strickland asked Mrs. Roe to remove the
+child’s upper clothing, so she could look for
+bruises or marks.  Strickland found none.
+Strickland then asked Mrs. Roe to remove
+Jackie’s underwear, so that Strickland could
+see if anything was abnormal.  Mrs. Roe asked
+whether it was really necessary, and Strickland
+responded “Oh, don’t worry .  It’s more
+stressful for the parent than it is the child.”
+Strickland took pictures of Jackie’s vagina and
+buttocks in a closed position, and then in-
+structed Mrs. Roe to spread Jackie’s labia and
+buttocks, so that she could take pictures of the
+genital and anal areas.  Although Mrs. Roe
+asked a couple of times whether the
+photographs were necessary, she never
+requested that Strickland stop.  Mrs. Roe
+“teared up” as Strickland took the pi ctures,
+but did not cry.
+Mrs. Roe testified that Strickland never said
+anything about removing the child from the
+home.  After t aking the pictures, Strickland
+interviewed Jackie for fifteen to twenty
+minutes.  Strickland and Mrs. Roe had another
+brief discussion, and Strickland left.
+Plaintiff’s expert, Lawrence Daly, testified
+by affidavit that Strickland could not have be-
+lieved in good faith that the examination and
+pictures were necessary.  Woods testified that
+she would not have taken the pictures but
+opined that the decision to do so lay wit hin
+Strickland’s discretion.  Robert Brown, a Pro-
+gram Director at CPS, described the visual ex-
+amination and pictures as appropriate because
+“caseworkers are trained to find and document
+all available evidence during t heir
+investigations.”  After Mrs. Roe’s attorney
+complained to CPS, Woods reassigned the
+case to Michelle Carter.  CPS “rul ed out”
+abuse and closed the case.
+Jackie subsequently experienced frequent
+nightmares involving the incident, and
+exhibited anxiety responses, for which she
+underwent counseling.  The symptoms
+persisted for about six months.  Mrs. Roe
+experienced a loss of sleep, sadness, and
+depression for the same period of time.
+II.
+Plaintiffs sued Strickland, TDPRS, and cer-
+tain TDPRS officials under 42 U.S.C. § 1983,
+alleging a violation of their Fourth Amendment
+right to freedom from unreasonable searches,
+Fourth and Fourteenth Amendment rights to
+privacy, and Fourteenth Amendment liberty
+interests.  They also asserted state law claims
+of invasion of privacy, intentional infliction of
+emotional distress, false imprisonment,
+trespass, and negligent failure to train and
+supervise.
+Defendants filed a motion to dismiss and a
+motion for a reply under FED. R. CIV. P. 7.
+After plaintiffs filed a rule 7 reply, the court
+dismissed all defendants but Strickland, who
+then moved for summary judgment, asserting
+qualified immunity to the § 1983 claims and
+official immunity to the state law claims.  The
+court denied the motion, whereupon
+Strickland filed her interlocutory appeal.
+4
+III.
+Social workers may assert a qualified im-
+munity defense when sued under § 1983.1  The
+denial of summary judgment based on qualified
+immunity is appealable under the collateral
+order doctrine before final judgment.  Mitchell
+v. Forsyth, 472 U.S. 511, 526-28 (1985).  We
+can review the denial only to the extent it
+“turns on a question of law.”  Id.  If disputed
+factual issues are material to qualified
+immunity, the denial is not appealable.
+Feagley v. Waddill, 868 F.2d 1437, 1439 (5th
+Cir. 1989) (dismissing appeal because factual
+arguments went to merits and not to qualified
+immunity defense).
+This appeal turns on legal questions about
+the scope of Mrs. Roe’s and Jackie’s
+constitutional rights and Strickland’s qualified
+immunity defense.  The only disputed, material
+fact is whether Mrs. Ro e invited Strickland
+into the house while the two stood on the front
+porch.  Because we can resolve the legal issue
+while assuming the truthfulness of Mrs. Roe’s
+testimony, this is not the type of “material
+fact” issue t hat divests the appellate court of
+jurisdiction.  Cantu v. Rocha, 77 F.3d 795,
+803 (5th Cir. 1996).  The limit on appellat e
+review applies only when “what is at issue in
+the sufficiency determination is nothing more
+than whether the evidence could support a
+finding that a particular conduct occurred.”
+Behrens v. Pelletier , 516 U.S. 299, 313
+(1996).
+Our decision hinges on the resolution of
+legal, not factual, questions.  “We examine the
+plaintiffs’ factual allegations only to determine
+whether they would be sufficient, if proven, to
+make out a violation of clearly-established
+law.”  Geter v. Fortenberry, 882 F.2d 167,
+169 (5th Cir. 1989).  Our review of the legal
+questions is de novo.  Id.
+IV.
+The district court found that plaintiffs cre-
+ated a fact question about whether Strickland’s
+entry into their home violated their Fourth
+Amendment rights.  Strickland argues, first,
+that social workers need not satisfy the
+traditional Fourth Amendment requirements
+when conducting an investigative home visit,
+and, second, that Mrs. Roe consented to her
+entry.  We avoid the first question by holding
+that Mrs. Roe consented t o an investigative
+home visit.
+A.
+In reviewing a claim of qualified immunity,
+we are bound to follow the two-step inquiry
+explained in Siegert v. Gilley, 500 U.S. 226,
+232-34 (1991).  Branton v. City of Dallas,
+272 F.3d 730, 744 (5th Cir. 2001).  We first
+must  determine “whether plaint iff’s
+allegations, if true, establish a constitutional vi-
+olation.”  Hope v. Pelzer, 2002 U.S. LEXIS
+4884, at *11-*12 (U.S. June 27, 2002) (No.
+01-309) (citing Saucier v. Katz, 533 U.S. 194,
+201 (2001)).  Only if we decide that the
+defendant state actor engaged in such “cons-
+titutionally impermissible conduct,” id. at *16,
+do we proceed to the next step, which is t o
+determine whether defendant’s actions “violat-
+e[d] ‘clearly establ ished statutory or
+constitutional rights of which a reasonable
+person would have known,’” id. (quoting
+Harlow v. Fitzgerald, 457 U.S. 800, 818
+(1982)).  The first question is governed by our
+1 Doe v. Louisiana, 2 F.3d 1412, 1416 (5th Cir.
+1993) (“Child care workers are entitled to qualified
+immunity in the performance of discretionary,
+nonprosecutorial functions.”) (citations omitted);
+Stem v. Ahearn, 908 F.2d 1, 5 (5th Cir. 1990)
+(same); Hodorowski v. Ray, 844 F.2d 1210, 1216
+(5th Cir. 1988) (same).
+5
+current understanding of constitutional rights,
+and the second by what was reasonably under-
+stood at the time of the challenged act, which
+here occurred in July 1999.
+B.
+The district court held that to enter a par-
+ent’s or child’s home and conduct an investi-
+gatory home visit, social workers must show
+probable cause and obtain a warrant, recei ve
+consent, or act in response to exigent
+circumstances.  Strickland argues, to the con-
+trary, t hat the court should have applied the
+more general (and lenient) “special needs”
+balancing test.  
+We have held that the Fourth Amendment
+regulates social workers’ civil investigations,
+but we have not fleshed out the relevant
+Fourth Amendm ent standards. 2  The
+procedural postures of t hose cases did not
+require us to choose between applying the
+traditional or the  special needs doctrines. 3
+Selecting the applicable test for a social
+worker’s investigative home visit would be a
+question of first impression in this circuitSSan
+issue over which other courts of appeals have
+divided.4  We need not resolve this conflict,
+however, because we conclude that Mrs. Roe
+consented to an investigatory home visit.
+C.
+As we have stated, the district court
+decided that plaintiffs created a fact question
+concerning whether Mrs. Roe consented to the
+strip search, but the court did not carefully
+isolate the question of Strickland’s entry into
+the house.  On appeal, Strickland argues that
+Mrs. Roe consented to the investigative home
+visit, so she should not have an individual
+claim for violation of her Fourth Amendment
+rights but, instead, could only assert Jackie’s
+Fourth Amendment claim stemming from the
+search.
+At the first stage of the Siegert inquiry, we
+assume the accuracy of Mrs. Roe’s version of
+the facts.  Branton, 272 F.3d at 744.  On
+July 9, Strickland called Mrs. Roe, identified
+herself as a CPS worker, and requested to
+speak with her regarding Jackie’s welfare.
+Strickland was evasive about the reason, but
+Mrs. Roe established an appointment for the
+home visit anyway.  At the time o f the ap-
+pointment, Strickland appeared at Mrs. Roe’s
+doorstep and asked for permission to enter;
+2 Wooley v. City of Baton Rouge, 211 F.3d
+913, 925 (5th Cir. 2000) (“[I]dentical fourth
+amendment standards apply in both the criminal
+and civil contexts.”); Franks v. Smith, 717 F.2d
+183, 186 (5th Cir. 1983) (“A section 1983 action
+can also lie against others, such as social workers,
+where actions by them were taken in their official
+capacity as state employees.”).
+3 Wooley, 211 F.3d at 925 (explaining that
+although defendants conceded that they lacked a
+warrant or probable cause, the panel must remand
+for defendants to provide record evidence of the
+importance of the governmental interest); Franks,
+717 F.2d at 186 (deciding only that plaintiff cre-
+ated federal question jurisdiction under § 1983 by
+alleging that police officer and social worker en-
+tered home without permission).
+4 Compare Wildauer v. Frederick County, 993
+F.2d 369, 372 (4th Cir. 1993) (applying “special
+needs” doctrine to social worker’s investigative
+home visit to check for physical abuse) with Good
+v. Dauphin County Soc. Servs. for Children &
+Youth, 891 F.2d 1087, 1094-95 (3d Cir. 1989)
+(applying traditional Fourth Amendment test to
+investigative home visit by police officer and social
+worker), and Calabretta v. Floyd, 189 F.3d 808,
+813 (9th Cir. 1999) (rejecting argument that social
+worker does not usually need a court order to make
+an investigatory home visit against parent’s will).
+6
+Mrs. Roe did not respond, and Strickland went
+into the house.  
+Silence or passivity cannot form the basis
+for consent to enter.5  But, Strickland relied on
+far more than Mrs. Roe’s mere silence.  Over
+the phone, Strickland had identified herself as
+a CPS employee and explained the general
+purpose of her visit, and Mrs. Roe had agreed
+to an appointed time for the home interview.
+After that conversation, Strickland justi-
+fiably believed she had the right to enter.  To
+rebut that justifiable belief, Mrs. Roe cannot
+rely only on her silence or passivity.  Requiring
+Mrs. Roe to rescind her initial invitation does
+not relax the consent standard or encourage
+social workers to enter homes without per-
+mission.  Although they still must obtain the
+parent’s verbal, affirmative consent before
+conducting an investigative home interview,
+they need not obtain that consent again when
+they appear at the parent’s doorstep.
+It fo llows that the district court erred in
+holding that Mrs. Roe had not consented to
+Strickland’s entry; the court should have dis-
+missed Mrs. Roe’s Fourth Amendment claim.
+Because, under t he first step of the Siegert
+methodology,  Strickland did not violate Mrs.
+Roe’s Fourth Amendment rights, we need not
+advance to the second step of the Siegert test
+to address whether those rights were “clearly
+established.”
+V.
+We next evaluate Jackie’s Fourth
+Amendment claim against Strickland for the
+visual body cavity search and pictures.  Mary
+and John Doe assert this claim on Jackie’s
+behalf.  We answer the first prong of the
+Siegert test by concluding that Strickland did
+violate Jackie’s Fourth Amendment rights, but,
+moving to the second part of that test, we
+determine that those rights were not cl early
+established on July 10, 1999, so Strickland is
+entitled to qualified immunity.6
+5 In United States v. Vega, 221 F.3d 789, 797
+(5th Cir. 2000), we held that a suspect did not
+consent when he lied about whether he lived in a
+house and failed to object to the subsequent search.
+In United States v. Jaras , 86 F.3d 383, 390 (5th
+Cir. 1996), the panel refused to find consent where
+the officer did not ask for permission and the
+suspect did not grant permission but stood by as
+the officer searched.  Finally, in United States v.
+Cooper, 43 F.3d 140, 145 n.2 (5th Cir. 1995), we
+explained that “nonresistance may not be equated
+with consent.”  In United States v. Varona-Algos,
+819 F.2d 81, 83 (5th Cir. 1987), we reached a
+contrary result, upholding the conclusion that the
+suspect “had impliedly consented to the search by
+standing by and equivocally acknowledging the bag
+was his and allowing the trooper to go ahead
+without any objection.”
+Varona-Algos, however, predates the Supreme
+Court’s shift to an objective standard for
+determining whether a suspect has consented to a
+search.  We have recognized that the change in Su-
+preme Court doctrine abrogated Varona-Algos.
+Jaras, 86 F.3d at 391 n.6 (citing Illinois v.
+Rodriguez, 497 U.S. 177 (1990); Florida v.
+Jimeno, 500 U.S. 248 (1991)).
+6 The Supreme Court has made plain that we
+should consider whether the public official has vi-
+olated a constitutional right before we consider
+whether that right was “clearly established.”  Wil-
+son v. Layne, 526 U.S. 603, 609 (1999) (“A court
+required to rule upon the qualified immunity issue
+must consider, then, this threshold question:  Taken
+in the light most favorable to the party asserting the
+injury, do the facts alleged show the officer’s
+conduct violated a constitutional right?”); County
+of Sacramento v. Lewis, 523 U.S. 833, 842 n.5
+(1998) (“[T]he better approach to resolving cases
+(continued...)
+7
+A.
+The distri ct court hel d that the Fourth
+Amendment requires social workers to show
+probable cause and obtain a court order,
+receive consent, or act in response to exigent
+circumstances to search visually, and to
+photograph, a child’s body cavities.  On
+appeal, Strickland argues that the court should
+have applied the “special needs” balancing test
+instead.  She contends that the anonymous
+hotline call justified her search under the more
+lenient test.
+We have not addressed which Fourth
+Amendment test should apply to a social
+worker’s visual search of a child’s body
+cavities, and the ot her courts of appeals are
+divided.  The Seventh Circuit has held that a
+child protective services worker need only sat-
+isfy the lesser special needs test and not the
+more rigorous probable cause requirement. 7
+The Third, Ninth, and Tenth Circuits have re-
+jected the Seventh Circuit’s approach and ap-
+ply instead the traditional Fourth Amendment
+standard to juvenile strip searches.8  The Sec-
+ond Circuit has taken an intermediate position:
+Even if social workers need not satisfy  the
+probable cause and warrant requirement in all
+cases, they must obtain prior judicial approval
+when doing so would not threaten the child’s
+well-being.9  To take sides in this inter-circuit
+conflict, we focus on Supreme Court
+precedent establishing the “special needs”
+doctrine.
+In “special needs” cases, the Court has
+carved out an exception to the warrant and
+probable cause requirement.  Public o fficials
+can justify warrantless searches with reference
+to a “special need” “divorced from the State’s
+general interest in law enforcem ent.”
+Ferguson v. City of Charleston, 532 U.S. 67,
+6(...continued)
+in which the defense of qualified immunity is raised
+is to determine first whether the plaintiff has
+alleged the deprivation of a constitutional right at
+all.”).
+7 Darryl H. v. Coler, 801 F.2d 893, 901 (7th
+Cir. 1986) (“On this record, we believe that the
+district judge was correct in holding that the
+searches in question here could be conducted with-
+out meeting the strictures of probable cause or the
+warrant requirement.”); Landstrom v. Ill. Dep’t of
+Children & Family Servs., 892 F.2d 670, 676-77
+(7th Cir. 1990) (stating that Darryl H. did not
+“clearly establish” child’s right not to take off her
+underpants when school official searched for
+evidence of physical abuse).  The Fourth Circuit
+applies the more lenient standard to social workers
+investigative home visits, suggesting that it might
+follow the Seventh Circuit.  Wildauer, 993 F.2d at
+372 (citing Wyman v. James, 400 U.S. 309, 318
+(continued...)
+7(...continued)
+(1971)).
+8 The Third and Ninth Circuits have held that a
+social worker must satisfy the warrant and prob-
+able cause requirements to conduct a strip search
+of a child. Good, 891 F.2d at 1092 (evaluating
+search of home and strip search of child under the
+probable cause and warrant standard); Calabretta,
+189 F.3d at 817-18 (applying warrant and
+probable cause requirement to coerced strip search
+of three-year-old child in her own home).  The
+Tenth Circuit has held that a police officer must
+obtain a search warrant before entering a home and
+conducting a strip search of an infant.  Franz v.
+Lytle, 997 F.2d 784, 791 (10th Cir. 1993). 
+9 Tennenbaum v. Williams, 193 F.3d 581, 604-
+05 (2d Cir. 1999) (requiring judicial approval
+where social workers removed five-year-old from
+school without parents’ knowledge and had phy-
+sician perform gynecological exam).
+8
+79 (2001).  Special needs justify, for example,
+a principal’s search of a student’s purse for
+drugs in school; a public employer’s search of
+an employee’s desk; a probation officer’s war-
+rantless search of a probationer’s home; a Fed-
+eral Railroad Administration regulation
+requiring employees to submit to blood and ur-
+ine tests after major train accidents; drug test-
+ing of United States Customs Service employ-
+ees applying for positions involving drug inter-
+diction; schools’ random drug testing of
+student athletes, and drug testing of all public
+school students participating in extracurricular
+activities.10  In all these cases, the Court
+judged the search’s lawfulness not by
+“probable cause” or “reasonable suspicion” but
+by “the standard of reasonableness under all of
+the circumstances.”  O’Connor, 480 U.S. at
+725-26.
+We must narrow these diverse cases to
+those most analogous to Strickland’s visual
+body cavity search.  Strip searches implicate
+fundamental Fourth Amendment rights.11  Al
+10 New Jersey v. T.L.O., 469 U.S. 325, 341
+(1985) (“[T]he accommodation of the privacy
+interests of schoolchildren with the substantial need
+of teachers for . . . or der in the schools does not
+require strict adherence to the requirement that
+searches be based on probable cause . . . .”);
+O’Connor v. Ortega, 480 U.S. 709, 728 (1987)
+(“[P]ublic employer intrusions on the
+constitutionally protected privacy interests of gov-
+ernment employees for non-investigatory, work-
+related purposes, as well as for investigations of
+work-related misconduct, should be judged by the
+standard of reasonableness under all the circum-
+stances.”); Griffin v. Wisconsin 483 U.S. 868,
+873-74 (1987) (“A State’s operation of a probation
+system, like its operation of a school, government
+office or prison, or its supervision of a regulated
+industry, likewise presents ‘special needs’ beyond
+normal law enforcement that may justify
+departures from the usual warrant and probable-
+cause requirements.”); Skinner v. Ry. Labor Exec-
+utives Ass’n, 489 U.S. 602, 620 (1989) (“The . . .
+interest in regulating the conduct of railroad em-
+ployees to ensure safety, like its supervision of
+probationers or regulated industries, or its
+operation of a government office school or prison
+. . . presents ‘special needs’ beyond normal law en-
+forcement that may justify departures from the
+usual warrant and probable-cause requirements”)
+(continued...)
+10(...continued)
+(citations and internal quotations omitted); Nat’l
+Treasury Employees Union v. Von Raab, 489 U.S.
+656, 666 (1989) (permitting drug testing by
+Customs’ service because of critical safety
+concerns and results were not made available to
+law enforcement); Veronia Sch. Dist. v. Acton, 515
+U.S. 646, 657-58 (1995) (upholding uniform poli-
+cy of suspicionless searches of student athletes);
+Bd. of Educ. v. Earls, 2002 U.S. LEXIS 4882, at
+*15 (U.S. June 27, 2002) (No. 01-332) (holding
+that special needs “inhere in the public school
+context”).
+11 Bell v. Woolfish, 441 U.S. 520, 594 (1979)
+(Stevens, J., dissenting) (describing body cavity
+searches as “clearly the greatest personal
+indignity”); Moore v. Carwell, 168 F.3d 234, 236-
+37 (5th Cir. 1999) (holding that strip search of
+female prisoner in front of male guards might vio-
+late Fourth Amendment right to privacy); Watt v.
+City of Richardson Police Dep't, 849 F.2d 195,
+199 (5th Cir. 1988) (finding that strip search of
+arrestee based on twenty-year-old minor drug of-
+fense violated the Fourth Amendment); Mary Beth
+G. v. City of Chicago, 723 F.2d 1263, 1272 (7th
+Cir. 1983) (describing strip searches as “de-
+meaning, dehumanizing, undignified, humiliating,
+terrifying, unpleasant, embarrassing, repulsive,
+signifying degradation and submission”); Scott A.
+Gartner, Note, Strip Searches of Students: What
+Johnny Really Learned at School and How Local
+School Boards Can Help Solve the Problem, 70 S.
+(continued...)
+9
+though none of the “special needs” cases in-
+volved strip searches or nudity, the Court has
+long held t hat citizens have an especially
+strong expectation of privacy in their homes.12
+We therefore begin by examining the Court’s
+two cases applying the “special needs”
+doctrine to investigative home searches.
+In Wyman, 400 U.S. at 318, the Court
+upheld a New York law conditioning
+continued Aid to Families with Dependent
+Children benefits on permitting a home visit.
+The Court applied a general reasonableness
+test rather than requiring a warrant and
+probable cause.  Id.  Wyman, however, does
+not govern the instant case.  First, the
+application of the general reasonableness test
+was dictum:  The Court held that the visitation
+was not a search because criminal law did not
+compel it; the aid recipient could decline the
+benefits and no search would take place.  Id. at
+317-18.  Second, the visitation promoted the
+statutory goal of ensuring a decent living
+standard for dependent children, the recipients
+received advanced notice, and the soci al
+workers did not target recipients based on
+individualized suspicion.  Id. at 318, 320-21,
+323.  All AFDC recipients had to endure
+visitation; the government did not single out
+individual recipients based on potential
+criminal liability.
+In Griffin, 483 U.S. at 872, the Court up-
+held a Wisconsin statute permitting probation
+officers to search probationers’ homes based
+on “reasonable grounds.”  The Court reasoned
+that the operation of the probation system pre-
+sents “special needs beyond normal law en-
+forcement.”  Id. at 874.  The Court
+distinguished the maintenance and operation of
+a prison or punitive regime from “generalized
+law enforcement.”  Id.  Pro bation sits at the
+most lenient point on a continuum of
+punishments, but the state retains valid
+interests in rehabilitating the criminal and
+protecting society.  Id. at 874-75.  A warrant
+requirement would divest the state of its
+control over the punished probationers,
+residing outside of the prison’s walls at the
+state’s discretion.  Id. at 876.  The special
+status of probationers and the state’s
+independent interests justify lowering the
+probable cause and warrant requirements.  Id.
+at 878.
+Griffin addresses searches based on
+particularized suspicion, but it does so in the
+special context of probationers.  Probationers
+waive many of their privacy rights and have a
+much lower subjective expectation of privacy
+in the home; a warrant requirement would
+interfere with the special needs raised by their
+11(...continued)
+CAL. L. REV. 921, 930-31 (1997) (describing emo-
+tional impact of strip searches).
+12 “[P]hysical entry into the home is the chief
+evil against which the . . . Fourth Amendment is
+directed.”  United States v. United States Dist. Ct.,
+407 U.S. 297, 313 (1972).  “At the very core [of
+the Fourth Amendment and the personal rights it
+secures] stands the right of a man to retreat into his
+own home and there be free from unreasonable
+governmental intrusion.”  Silverman v. United
+States, 365 U.S. 505, 511 (1961).  See also Payton
+v. New York, 445 U.S. 573, 586 (1980) (“It is a
+‘basic principle of Fourth Amendment law’ that
+searches and seizures inside a home without a
+warrant are presumptively unreasonable.”);
+Coolidge v. New Hampshire , 403 U.S. 443,
+474-75 (1970) (“It is accepted, at least as a  matter
+of principle, that a search or seizure carried out on
+a suspect’s premises without a warrant is per se
+unreasonable, unless the police can show that it
+falls within one of a carefully defined set of ex-
+ceptions based on the presence of ‘exigent cir-
+cumstances.’”).
+10
+rehabilitation.  Ferguson, 532 U.S. at 81 n.15
+(“[W]e agree with petitioners that Griffin is
+properly read as limited by t he fact that
+probationers have a lesser expectation of
+privacy than the public at large.”).  And the
+Court bracketed the question whether the
+routine use of probation searches to obtain
+criminal convictions would violate the Fourth
+Amendment.13
+The home search cases underscore the
+strength o f Jackie’s privacy interest.  As the
+Seventh Circuit aptly explained in a decision
+pre-dating its adoption of the special needs
+test, “[i]t does not require a constitutional
+scholar to conclude that a nude search of a
+thirteen-year-old child is an invasion of
+constitutional rights of some magnitude.  More
+than that:  it is a violation o f any known
+principles of human decency.”  Doe v.
+Renfrow, 631 F.2d 91, 92-93 (7th Cir. 1980)
+(per curiam); supra note 11.  
+The Court o nly rarely has permitted
+“special needs” searches in the face of a
+person’s strong subjective privacy interests.  In
+Wyman and Griffin, the searched persons
+voluntarily surrendered a great deal of the
+privacy interest in their homes.  The Court has
+never upheld a “special needs” search where
+the person’s expectation of privacy was as
+strong as is Jackie’s interest in bodily
+privacy.14  The potency of her privacy interest
+makes us reluctant to apply the “special needs”
+doctrine.
+The home search cases and the importance
+of Jackie’s privacy interest give us pause; the
+Texas social workers’ dual purposes and en-
+tanglement with law enforcement resolve the
+question.  None of the previous courts of ap-
+peals to address these issues had the benefit of
+Ferguson, 532 U.S. 67, the Court’s recent de-
+cision examining dual-purpose searches and
+the special needs doctrine.  
+In Ferguson, 532 U.S. at 78-79, the Court
+held that t he higher probable cause and
+warrant standard applies where a state
+hospital’s drug testing of pregnant women
+systematically threatened them with criminal
+liability.  The pregnant women who tested
+positive faced either automatic criminal
+indictment or forced diversion into a treatment
+program.  Id. at 73.  The Court rejected the
+argument that protecting the health of the
+mother and child is a “special need” sufficient
+to dispense with the warrant requirement.  Id.
+at 81.
+Claimed special needs should receive “close
+review.”  Id.  Where the “special need” is not
+“divorced from the state’s general interest in
+law enforcement,” the Court will not recognize
+it.  Id. at 79.  The Court views entanglement
+with law enforcement suspiciously.  Id. at 81
+n.15, 82.  Other societal objectives cannot
+justify a program that would systematically
+collect information for the police.  Id. at 83-
+84.
+Strickland ultimately fails to identify a “spe-
+13 Griffin, 483 U.S. at 876 n.3 (emphasizing
+consent to search and absence of added legal pen-
+alty for noncompliance); Skinner, 489 U.S. at 621
+n.5 (“We leave for another day the question
+whether routine use in criminal prosecutions of
+evidence obtained pursuant to the administrative
+scheme would give rise to an inference of pretext,
+or otherwise impugn the administrative nature of
+the FRA’s program.”).
+14 The Court has permitted visual body cavity
+searches only in the prison setting.  See Bell.
+11
+cial need” separate from the purposes of
+general law enforcement.  Identifying the goal
+of protecting a child’s welfare and removing
+him from an abusive home is easy;
+disentangling that goal from general law
+enforcement purposes is difficult.  In
+Ferguson, the Court also faced a quite
+worthwhile goalSSpreventing the obvious and
+severe health problems cocaine addiction
+caused to pregnant mothers and unborn
+infants.  The Court could not, however, apply
+the “special needs” test to such a program
+where law enforcement was so deeply
+involved.
+Strickland appropriately points to the fact
+that Texas law compels social workers to in-
+vestigate allegations of sexual abuse; she ne-
+glects, however, to mention that the Texas
+statute deeply involves law enforcement in the
+investigation.  CPS has a duty to notify law
+enforcement of any child abuse reports it re-
+ceives.  T EX. FAM. CODE ANN. § 261.105(b)
+(West Supp. 2002).  The district attorney may
+request automatic notification of some or al l
+types of reported physical or sexual abuse. 
+Id. § 261.1055 (West Supp. 2002).  Violating
+these reporting duties can result in criminal
+liability.  Id. § 261.109 (West 1996).  Finally,
+investigations into allegations of physical or
+sexual abuse are performed jointly with law
+enforcement agencies.  Id. § 261.301(f) (West
+Supp. 2002).  
+Texas law describes social workers’
+investigations as a tool both for  gathering
+evidence for criminal convictions and for
+protecting the welfare of the child.  Ferguson
+teaches that we must apply the traditional
+Fourth Amendment analysis where a child
+protective services search is so intimately
+intertwined with law enforcement.
+Strickland argues that a visual body cavity
+search often can disprove sexual abuse
+allegations.  Perhaps.  But their necessity in
+some cases does not say anything about social
+workers’ need to perform warrantless searches
+in non-exigent circumstances.  The social
+worker can take many preliminary steps short
+of visual body cavity searches, such as
+interviewing the child and the parents.  In non-
+exigent circumstances, the worker then has
+time to obtain a warrant either personally to
+conduct a visual body cavity search or to have
+a physician perform it.  
+Social workers retain the power to seize a
+child if “exigent circumstances” exist; if they
+“have reason to believe that life or limb is in
+immediate jeopardy,” they need not obtain a
+court order.  Tenenbaum, 193 F.3d at 604-05
+(citation omitted). Here, CPS assigned the
+case a priority 2 status, requiring Strickland to
+take action in ten days and giving her plenty of
+time to take other steps and/or seek a court
+order.  The Texas Family Code establishes a
+procedure for obtaining such a court order.15
+15 The Texas Family Code contemplates that
+family courts may issue or ders for entry into the
+child’s home or school:
+If admission to the home, school, or any
+place where the child may be cannot be
+obtained, then for good cause shown the
+court having family law jurisdiction shall
+order the parent, the person responsible for
+the care of the children, or the person in
+charge of any place where the child may be
+to allow for entrance for the interview,
+examination, and investigation.
+TEX. FAM. CODE ANN. § 261.303 (West Supp.
+2002).
+(continued...)
+12
+We conclude, therefore, that a social work-
+er must demonstrate probable cause and obtain
+a court order, obtai n parental consent, or act
+under exigent circumstances to justify the
+visual body cavity search o f a juvenile.
+Because Strickland admits that she did not
+have probable cause and a warrant or face
+exigent circumstances, she can establish the
+constitutionality of her search only by showing
+that Jackie, or Mrs. Roe acting on her behalf,
+consented.
+B.
+The district court found that Mrs. Roe had
+created a fact question on the issue of consent.
+Strickland claims that Mrs. Roe  consented by
+failing to stop the search, removing Jackie’s
+clothing, and spreading her private parts for
+the photographs.
+Although Mrs. Roe gave affirmative
+consent to the home interview by scheduling a
+home visit, she never verbally consented to the
+visual body cavity search.  Our caselaw teach-
+es that silence or a failure to resist, standing
+alone, cannot count as consent.16  Inferring
+meaning from Mrs. Roe’s cooperation at each
+step is even more problematic, because
+Strickland did not even explain the purpose of
+her visit until entering the house.  
+Strickland did not explain that she would be
+photographing Jackie’s spread labia and anus
+until she instructed Mary to do so.  Strickland
+even actively ignored Mrs. Roe’s protests.
+Mrs. Roe asked whether she should call a
+lawyer, questioned whether the invasive search
+was necessary, and “teared up” while
+Strickland took pictures.  Strickland brushed
+off Mrs. Roe’s questions and ignored these
+signals.  In the face of these signals, Strickland
+at least had the obligation to give Mrs. Roe a
+meaningful opportunity to deny consent.
+In a similar case in which the mother
+participated in the strip search, the Seventh
+Circuit explained its refusal to find consent:
+It is not permissible to hold, as a matter
+of law that the mother’s assistance in the
+procedure amounted to her consent.
+Indeed, it is difficult to imagine a moth-
+er, faced with the strip searching of her
+two young children in a public building,
+doing anything other than staying and
+attempting, by her presence, to alleviate
+the understandable apprehension of her
+children.
+Darryl H., 801 F.2d at 907.  We conclude that
+Mrs. Roe and Jackie created a fact question as
+to whether Strickland violated Jackie’s Fourth
+Amendment rights.  We now turn to the
+question whether those rights were “clearly
+established” in 1999.
+15(...continued)
+Texas law also contemplates that a family court
+may issue an order compelling a medical or
+psychological evaluation:
+If a parent or person responsible for the
+child’s care does not consent . . . to a
+medical, psychological, or psychiatric
+examination that is requested by the
+department or designated agency, the court
+having family jurisdiction shall, for good
+cause shown, order. . . the examination to be
+made at the times and places designated by
+the court.
+TEX. FAM. CODE ANN. § 261.303 (West Supp.
+2002). 16 Supra note 5.
+13
+C.
+1.
+The district court decided that precedent
+from other circuits had “clearly established” a
+parent’s right to refuse the body cavity search
+of his child absent probable cause; the court
+found that any reasonable social worker would
+have known that his actions raised serious
+Fourth Amendment concerns.  St rickland ar-
+gues, to the contrary, that neither Supreme
+Court nor Fifth Circuit precedent “clearly
+established” such a right.
+In Hope, the Court recently elaborated on
+what is required for a particular right to be
+“clearly established” in the context of qualified
+immunity.  Reiterating what it previously had
+said, the Court explained:
+For a constitutional right to be clearly
+established, its coutours “must be suffi-
+ciently clear that a reasonable official
+would understand that what he is doing
+violates that right.  This is not to say
+that an official action is protected by
+qualified immunity unless the very action
+in question has previously been held
+unlawful, see Mitchell [v. Forsyth, 472
+U.S. 511,] 535, n.12; but it is to say that
+in the light of pre-existing law the
+unlawfulness must be apparent.”
+Anderson v. Creighton, 483 U.S. 635,
+640 (1987).
+Hope, 2002 U.S. LEXIS 4884, at *17.
+The Court elaborated that “officials can still
+be on notice that their conduct violates es-
+tablished law even in novel factual
+circumstances.”  Id. at *20.  Previous cases
+need not be “fundamentally similar.”  Id.  “The
+salient question” for a court of appeals is
+“whether the state of the law [at the time of
+the state action] gave respondents fair warning
+that their alleged t reatment of [the plaintiff]
+was unconstitutional.”  Id.  
+2.
+On July 10, 1999, Supreme Court and Fifth
+Circuit precedent plainly established the fol-
+lowing:  (1) A strip or body cavity search rais-
+es serious Fourth Amendment concerns, Watt,
+849 F.2d at 199; and (2) The Fourth Amend-
+ment governs the lawfulness of a social work-
+er’s entry into a dwelling to resolve a child
+custody dispute.17  Mary and Jackie need not
+prove that “the very action in question has
+previously been held unlawful.”  Anderson,
+483 U.S. at 640.  We had not, however, ever
+addressed whether the traditional test or the
+“special needs” do ctrine applies to a social
+worker’s visual searches of naked juveniles.
+This court had provided a little m ore
+guidance than simply these general principles.
+In Doe, 2 F.3d at 1420, we held that under the
+Fourteenth Amendment a social worker could
+subject a son and daughter to proctoscopic
+and culdoscopic examinations to check for
+abuse.  Citing with approval the Seventh
+Circuit’s decisions in Darryl H. and
+Landstrom, we held that the social workers
+could not have known that their efforts to
+investigate abuse violated the family’s
+Fourteenth Amendment right to privacy.  Id.
+We did not address the Fourth Amendment
+question, id. at 1417, 1420, but to a
+reasonable lay observer, Doe would have cast
+doubt on a child’s constitutional right to refuse
+a visual body cavity search.
+17 In Franks, 717 F.2d at 186 , we applied the
+same Fourth Amendment, probable cause standard
+to regulate the conduct of both a police officer and
+a social worker. 
+14
+Even more importantly, in 1999 the
+Supreme Court had not yet explained whether
+agencies performing a legitimate “special
+need” entangled with law enforcement need to
+satisfy the probable cause standard.
+Subsequently, in Ferguson, 532 U.S. at 77-78,
+the Court distinguished previous drug testing
+cases that employed a general reasonableness
+balancing by emphasizing the hospital’s
+“authority . . . to turn the results over to l aw
+enforcement agents without the knowledge or
+consent of the patients.”
+The Supreme Court’s previously vague test
+for finding a “special need” caused the federal
+circuits to diverge over this precise substantive
+question18 and to disagree again as to whether
+the rights were “clearly established” for
+purposes of qualified immunity.19  It is difficult
+to argue t hat a matter of law is clearly
+established for state actors in this circuit where
+this court has not opined on the issue in
+question and the other circuits are in dis-
+agreement as to whether the challenged acts
+constitute a constitutional violation.20  We
+need not even reach the question whether, or
+to what extent, t he law of other circuits may
+be relevant to our qualified immunity
+jurisprudence, in the absence of plain guidance
+from our own circuit’s caselaw, because here
+the other circuits were inconsistent in their
+treatment of the rights here alleged.
+Mrs. Roe and Jackie also argue, however,
+that even if the Fifth Circuit had not clearly
+rejected the “special needs” doctrine in 1999,
+Strickland’s actions violate the general
+18 Supra notes 7-9.
+19 The Third and Ninth Circuits held that the
+children’s rights were clearly established.  Good,
+891 F.2d at 1083-84 (finding that sparsity of child
+abuse cases does not justify officer or social work-
+er’s violation of bedrock constitutional principles
+about the privacy of the home and freedom from
+body cavity searches); Calabretta, 189 F.3d at 813
+(interpreting circuit precedent that prohibited police
+officers from entering dwellings and resolving
+custody disputes without warrants).  The Second
+and Seventh Circuits concluded that the Fourth
+Circuit’s opinion in Wildauer justified refusing to
+grant qualified immunity.  Tenenbaum, 193 F.3d at
+605 (finding qualified immunity for removal of
+child from school and gynecological exam without
+warrant or court order); Darryl H., 801 F.2d at
+908 (granting qualified immunity in 1986 because
+neither the Supreme Court nor any court of appeals
+had addressed the constitutionality of child abuse
+searches).  
+20 Wilson, 526 U.S. at 618 (“Between the time
+of the events of this case and today’s decision, a
+split among the Federal Circuits in fact developed
+. . . .  If judges thus disagree on a constitutional
+question, it is unfair to subject police to money
+damages for picking the losing side of the
+controversy.”); Mitchell, 472 U.S. at 534-35 &
+n.12 (“[“[I]n cases where there is a legitimate
+question whether an exception to the warrant
+requirement exists, it cannot be said that a
+warrantless search violates clearly established
+law.”); Hall v. Thomas, 190 F.3d 693, 696-97 (5th
+Cir. 1993) (finding law not clearly established,
+partially because “neither the Fifth Circuit nor the
+Supreme Court had spoken” and “a circuit split ex-
+isted”); Gunaca v. Texas , 65 F.3d 467, 475 (5th
+Cir. 1995) (finding circuit split relevant as to
+whether right was clearly established); McDuffie v.
+Estelle, 935 F.2d 682 (5th Cir. 1991)  (“Absent
+binding precedent in this circuit and faced with
+somewhat conflicting decisions in the two circuits
+which actually addressed the issue . . ., we cannot
+say that the law . . . was clearly established.”).  But
+see Shipp v. McMahon , 234 F.3d 907, 915 (5th
+Cir. 2000) (“[I]n determining whether a right is
+clearly established, we are confined to precedent
+from our circuit or the Supreme Court) (citation
+omitted).
+15
+reasonableness balancing test.  By July 10,
+1999, only the Seventh Circuit had applied the
+“special needs” doctrine to a social worker’s
+warrantless, visual body cavity search.  In the
+first such consolidated case, the Seventh
+Circuit affirmed the refusal to grant a
+preliminary injunction against the state
+agency’s procedures; the court also affirmed a
+summary judgment in favor of the social
+workers because the child’s constitutional
+rights were not clearly established.  Darryl H.,
+801 F.2d at 901.  In the second case, the Sev-
+enth Circuit held that the doctrine’s general
+balancing t est did not clearly establish the
+child’s constitutional rights.  Landstrom, 892
+F.2d at 676.  
+The possibility existed that other courts
+might have declared Strickland’s strip search
+unconstitutional under the general balancing
+test.21  A reasonable social worker in this cir-
+cuit, however, knew only that Doe remained
+the law and that the Supreme Court had grant-
+ed public officials broad leeway under the
+“special needs” doctrine.
+Children’s protective services workers face
+difficult decisions in the field.  They must
+make on-the-spot decisions regarding whether
+to remove a child from a dangerous environ-
+ment or whether, on the other hand, to m ake
+the judgment call that the child is in no danger
+and should remain with his family.  Because
+the array of factual situations is endless, so too
+is the list of possible reactions to them.  In July
+1999, there was insufficient legal guidance,
+even under the standard enunciated in Hope,
+to inform a CPS worker that what Strickland
+did in reaction to the reports received about
+Jackie’s conduct ultimately would be
+considered a constitutional violation.  
+With Doe on the books and the “special
+needs” test governing, children’s rights against
+these searches definitely were not “clearly
+established.”  Accordingly, on July 10, 1999,
+Jackie’s rights, in the context of this case,
+were not clearly established, so Strickland is
+entitled to qualified immunity on the claim that
+she unconstitutionally conducted a visual body
+cavity search. 
+VI.
+The district court also refused to grant
+summary judgment on plaintiffs’ claims that
+Strickland violated their Fourt eenth
+Amendment rights to family association and
+bodily integrity.  The Supreme Court,
+however, has repeatedly held that where the
+Fourth Amendment fully protects against a
+particular government intrusion, courts cannot
+consider substantive due process rights.  The
+Fourth Amendment fully embraces a parent or
+child’s claim that a social worker has
+unlawfully entered the home and conducted a
+visual body cavity search.  Plaintiffs therefore
+cannot state a claim under the Supreme
+Court’s substantive due process doctrine.
+The Supreme Court has “always been re-
+luctant to expand the concept of substantive
+due process.”  Collins v. City of Harker
+Heights, Tex., 503 U.S. 115, 125 (1992).  The
+more-specific-provision rule established in
+Graham v. Connor, 490 U.S. 386, 395 (1989),
+reflects this reluctance.  
+In Graham, the Court held that “[b]ecause
+the Fo urth Amendment provides an explicit
+textual source of constitutional protection
+against this sort of physically intrusive
+government conduct, that Amendment, not the
+more generalized notion of ‘substantive due21 The Second Circuit did so on October 13,
+1999.  Tenenbaum, 193 F.3d at 605-06.
+16
+process,’ must be the guide for analyzing the
+claims.”  Id.  The Court rejected the peti-
+tioner’s claimed right to be free from arbitrary
+exercises of government power that “shock the
+conscience.”  The Court did not cast doubt on
+the pedigree of that particular substantive due
+process right, but, instead, held that whenever
+the Fourth Amendment fully protects against
+an unlawful arrest, courts should not consider
+the vaguer protections established by
+substantive due process.  Since Graham, the
+Court has adhered to this principle in a variety
+of contexts.22
+The Fourth Amendment offered Mrs. Roe
+and Jackie complete protecti on f rom
+Strickland’s investigative home visit and visual
+body cavity search.  Mrs. Roe could have re-
+fused to permit Strickland’s entry into the
+home, and Strickland then wo uld have been
+forced to obtain a court order.  Mrs. Roe re-
+fused to consent to the strip search, and the
+Fourth Amendment rendered that subsequent
+search unlawful; that amendment fully
+embraces the governmental action complained.
+We therefore cannot consider plaintiffs’
+substantive due process rights to family
+association and bodily integrity.23
+This analysis is consistent with other child
+custody cases analyzing parents and children’s
+rights to family association and bodily
+integrity.  In every one of the family as-
+sociation cases, we conducted the substantive
+due process analysis because the social worker
+had removed the child from its family home.24
+22 Lewis, 523 U.S. at 842-44 (analyzing
+speeding motorcyclist’s suit for officers’ allegedly
+reckless pursuit under substantive due process be-
+cause no “seizure” had occurred, and pursuit fell
+outside of Fourth Amendment’s scope); United
+States v. Lanier, 520 U.S. 259, 272, n.7 (1997)
+(finding that state judge’s rapes of courthouse
+employees and job applicants could support in-
+dependent claim under substantive due process); id.
+(“Graham simply requires that if a constitutional
+claim is covered by a specific constitutional
+provision, such as the Fourth or Eighth
+Amendment, the claim must be analyzed under the
+standard appropriate to that specific provision, not
+under the rubric of substantive due process.”);
+Whitley v. Albers, 475 U.S. 312, 327 (1986) (“We
+think the Eighth Amendment, which is specifically
+concerned with the unnecessary and wanton
+infliction of pain in penal institutions, serves as the
+primary source of substantive protection to
+convicted prisoners in cases such as this one, where
+the deliberate use of force is challenged as
+excessive and unjustified.”).  In Albright v. Oliver,
+510 U.S. 266 (1994) (plurality), the Justices dis-
+agreed as to whether the Fourth Amendment’s
+prohibition against unlawful arrests extended to a
+malicious prosecution claim.  Every writing Jus-
+tice, however, agreed that if the Fourth Amendment
+embraced the claim entirely, the Court could not
+consider a separate substantive due process claim.
+(continued...)
+22(...continued)
+Id. at 813 (Rehnquist, J., joined by O’Connor,
+Scalia, and Ginsburg, JJ.); id. at 814 (Scalia, J.,
+concurring); id. (Ginsburg, J., concurring); id. at
+817 (Kennedy, J., joined by Thomas, J.,
+concurring); id. at 820-21 & n.2 (Souter, J.,
+concurring); id. at 305-06, 310 (Stevens, J., joined
+by Blackmun, J., dissenting).
+23 The Second and Seventh Circuits have taken
+the same approach.  Tenenbaum, 193 F.3d at 600
+(refusing to analyze searches under substantive due
+process). Cf. Darryl H. , 801 F.2d at 901 n.7
+(explaining that the court would use the same
+analysis to evaluate Fourth and Fourteenth Amend-
+ment claims).
+24 Morris v. Dearborne, 181 F.3d 657, 671 (5th
+Cir. 1999) (deciding that teacher violated right to
+family integrity by falsifying sexual abuse charge
+(continued...)
+17
+In the bodily integrity cases, we often have
+considered criminal assaults committed by
+teachers and other persons to whom  the
+Fourth Amendment does not readily or easily
+apply.25  Where the plaintiff alleges only harms
+stemming from a social worker’s search, the
+Fourth Amendment provides the sole means
+for analysis.
+VII.
+The district court denied Strickland’s re-
+quest for official immunity from the state law
+claims.  Mrs. Roe and Jacki e argue that we
+lack appellate jurisdiction over the district
+court’s denial of Strickland’s official immunity
+defense against the Texas state law claims.  
+A defendant may appeal an order denying
+immunity under state law if “the state’s
+doctrine of qualified immunity, like the federal
+doctrine, provides a true immunity from suit
+and not a simple defense to liability.”  Sorey v.
+Kellett, 849 F.2d 960, 962 (5th Cir. 1988).
+Texas’s official immunity doctrine relieves
+state officials of the burden of suit as well as of
+liability for damages.  Cantu, 77 F.3d at 804.
+Consequently, we have jurisdiction to consider
+the question of state, official immunity.
+Roe then argues that we lack jurisdiction
+because the district court’s denial of official
+immunity turned on resolving a disputed issue
+of factSSwhether Strickland acted in good
+faith.  The term “good faith” in Texas’s official
+immunity cases is somewhat misleading.  The
+Texas Supreme Court defi nes the test as
+objective and “derived substantially from the
+test that has emerged under federal immunity
+law for claims of qualified immunity in § 1983
+cases.”  City of Lancaster v. Chambers, 883
+S.W.2d 650, 656 (Tex. 1994).26  Because the
+24(...continued)
+against father that led to three-year separation);
+Kiser v. Garrett , 67 F.3d 1166, 1173 (5th Cir.
+1995) (describing right as “nebulous, especially in
+the context of a state’s taking temporary custody of
+a child during an investigation of possible paternal
+abuse”);  Doe, 2 F.3d at 1418 (considering case
+where social worker had fabricated charges of child
+abuse, which led to temporary separation of two
+children from their parents); Hodorowski v. Ray,
+844 F.2d 1210, 1217 (5th Cir. 1988) (“[W]e do
+not think that appellants in this case should have
+known that their conduct in removing the
+Hodrowski children from the home violated the
+nebulous right of family integrity.”).  See Wallis v.
+Spencer, 202 F.3d 1126, 1136 (9th Cir. 2000)
+(finding Fourteenth Amendment created
+substantive due process rights protecting against
+removal).
+25 Doe v. Taylor Indep. Sch. Dist., 15 F.3d 443,
+451-52 (5th Cir. 1994) (en banc) (finding
+substantive due process bars teacher from
+molesting student); Doe v. Rains County Indep.
+Sch. Dist., 66 F.3d 1402, 1406 (5th Cir. 1995)
+(“[W]e have little trouble concluding that the Does’
+allegations are sufficient to establish that Sarah
+suffered an actionable deprivation of her liberty
+interest in freedom from sexual abuse by persons
+wielding state authority.”); Fee v. Hardin, 900
+F.2d 804, 808 (5th Cir. 1984) (citation and
+quotations omitted) (finding that a teacher violated
+a student’s substantive due process rights by
+inflicting corporal punishment that was “arbitrary,
+capricious, or wholly unrelated to the legitimate
+state goal of maintaining an atmosphere conducive
+to learning”); Jefferson v. Ysleta Indep. Sch. Dist.,
+817 F.2d 303, 305 (5th Cir. 1987) (finding teacher
+violated substantive due process by lashing second
+(continued...)
+25(...continued)
+grade student to a chair for most of two school
+days).
+26 The T exas Supreme Court described the
+standard in more detail as applied to the pursuit
+(continued...)
+18
+district court denied the state official immunity
+defense for the same reasons it denied the
+federal defense, we have jurisdiction.
+Although the Texas Suprem e Court
+describes official immunity as similar to federal
+immunities, we have difficulty evaluating the
+claim of official immunity now that the
+constitutional claims have been dismissed.
+Dismissing those claims may not, however,
+guarantee Strickland official immunity for the
+state law claims of invasion of privacy,
+intentional infliction of emotional distress, false
+imprisonment, trespass, and negligent failure
+to t rain and supervise.  We remand to t he
+district court either to reconsider the official
+immunity question or to decline supplemental
+jurisdiction under 28 U.S.C. § 1367.  If the
+court declines supplemental jurisdiction, it
+should dismiss without prejudice so that
+plaintiffs can pursue their claims in Texas state
+court.
+The order denying qualified immunity is
+REVERSED.  This matter is REMANDED for
+consideration of the state law claims and for
+further proceedings, as appropriate, in ac-
+cordance with this opinion.
+26(...continued)
+case before them:
+We hold that an officer acts in good faith in
+a pursuit case if:
+a reasonably prudent officer, under
+the same or similar circumstances,
+could have believed that the need to
+immediately apprehend the suspect
+outweighed a clear risk of harm to
+the public in continuing the pursuit.
+City of Lancaster, 883 S.W.2d at 656.  See Univ.
+of Houston v. Clark, 38 S.W.3d 578, 586-87 (Tex.
+2000) (resolving officer’s official immunity defense
+at summary judgment); Wadewitz v. Montgomery,
+951 S.W.2d 404, 466 (Tex. 1997) (“[A] court
+must measure good faith in official immunity cases
+against a standard of objective legal rea-
+sonableness.”); 42 TEX. JUR. 3D Government Tort
+Liability § 123 (1995 ed.)  (“The test is one of
+objective legal reasonableness, without regard to
+whether the government official involved acted
+with subjective good faith and clarifies the good
+faith standard in official immunity cases
+generally.”).

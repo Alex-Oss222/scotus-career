@@ -1,0 +1,296 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "record": "Consolidated-Edison-Co-of-New-York-Inc-v-Pataki_merits_2003-01-14.md",
+      "author": "Souter",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 1,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 1,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        138,
+        221
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Craigmiles-v-Giles_merits_2003-01-14.md",
+      "author": "Thomas",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 1,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 1,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        287
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Gibson-v-County-of-Washoe_merits_2003-01-14.md",
+      "author": "Stevens",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 1,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        177,
+        184
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Johnson-v-City-of-Cincinnati_merits_2003-01-14.md",
+      "author": "Breyer",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 1
+      },
+      "explanation_words": [
+        125,
+        281,
+        165,
+        95,
+        222
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Pierce-County-v-Guillen_merits_2003-01-14.md",
+      "author": "Scalia",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 2,
+        "O'Connor": 3,
+        "Scalia": 1,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 2
+      },
+      "explanation_words": [
+        113,
+        170,
+        172
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Barnhart-v-Peabody-Coal-Co_merits_2003-01-15.md",
+      "author": "Kennedy",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 2,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 2
+      },
+      "explanation_words": [
+        169,
+        221
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Eldred-v-Ashcroft_merits_2003-01-15.md",
+      "author": "Ginsburg",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 2,
+        "Breyer": 2
+      },
+      "explanation_words": [
+        174,
+        127,
+        169
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Newman-v-Sathyavaglswaran_merits_2003-01-15.md",
+      "author": "Breyer",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 2
+      },
+      "explanation_words": [
+        254,
+        118,
+        170
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Norton-v-Ashcroft_merits_2003-01-15.md",
+      "author": "Kennedy",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 3,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        125,
+        293
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "United-States-v-Jimenez-Recio_merits_2003-01-21.md",
+      "author": "Thomas",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 4,
+        "Souter": 2,
+        "Thomas": 2,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        145,
+        153,
+        122
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Meyer-v-Holley_merits_2003-01-22.md",
+      "author": "Souter",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 3,
+        "O'Connor": 3,
+        "Scalia": 2,
+        "Kennedy": 4,
+        "Souter": 2,
+        "Thomas": 3,
+        "Ginsburg": 3,
+        "Breyer": 3
+      },
+      "explanation_words": [
+        212,
+        112,
+        202
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    },
+    {
+      "record": "Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md",
+      "author": "Stone-Zsela",
+      "counts_before": {
+        "Stone-Zsela": 2,
+        "Stevens": 4,
+        "O'Connor": 4,
+        "Scalia": 2,
+        "Kennedy": 4,
+        "Souter": 4,
+        "Thomas": 3,
+        "Ginsburg": 4,
+        "Breyer": 5
+      },
+      "explanation_words": [
+        121,
+        242,
+        292,
+        94,
+        131
+      ],
+      "projection_identity": true,
+      "labels_and_headings": true,
+      "recount": true
+    }
+  ],
+  "paired_handoffs": [
+    "OT_2002CHUNK3_A_COMMITMENTS.md",
+    "OT_2002CHUNK3_A_JOHNSON_COMMITMENTS.md",
+    "OT_2002CHUNK3_B_COMMITMENTS.md",
+    "OT_2002CHUNK3_COMMITMENTS.md",
+    "OT_2002CHUNK3_C_COMMITMENTS.md",
+    "OT_2002CHUNK3_A_INITIAL_RECONCILED.md",
+    "OT_2002CHUNK3_A_RECONCILED.md",
+    "OT_2002CHUNK3_B_RECONCILED.md",
+    "OT_2002CHUNK3_C_RECONCILED.md",
+    "OT_2002CHUNK3_RECONCILED.md"
+  ],
+  "protected_files_unchanged": 88,
+  "restricted_token_files": [],
+  "prohibited_link_files": [],
+  "unresolved_markdown_targets": [],
+  "public_render_created": false
+}

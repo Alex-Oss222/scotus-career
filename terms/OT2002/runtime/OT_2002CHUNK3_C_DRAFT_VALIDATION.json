@@ -1,0 +1,78 @@
+{
+  "status": "Draft validation passed; assignment and final canonical-record integration remain with root",
+  "checks": [
+    {
+      "case": "Norton v. Ashcroft",
+      "filename": "Norton-v-Ashcroft_merits_2003-01-15.md",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "controlling_explanation_word_counts": [
+        125,
+        293
+      ],
+      "nine_participants_each_component": true,
+      "public_workflow_exclusion": true,
+      "pending": [
+        "root sequential assignment and final validation placeholders"
+      ]
+    },
+    {
+      "case": "Newman v. Sathyavaglswaran",
+      "filename": "Newman-v-Sathyavaglswaran_merits_2003-01-15.md",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "controlling_explanation_word_counts": [
+        254,
+        118,
+        170
+      ],
+      "nine_participants_each_component": true,
+      "public_workflow_exclusion": true,
+      "pending": [
+        "root sequential assignment and final validation placeholders"
+      ]
+    },
+    {
+      "case": "Meyer v. Holley",
+      "filename": "Meyer-v-Holley_merits_2003-01-22.md",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "controlling_explanation_word_counts": [
+        212,
+        112,
+        202
+      ],
+      "nine_participants_each_component": true,
+      "public_workflow_exclusion": true,
+      "pending": [
+        "root sequential assignment and final validation placeholders"
+      ]
+    },
+    {
+      "case": "Roe v. Texas Department of Protective and Regulatory Services",
+      "filename": "Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md",
+      "eleven_blocks": true,
+      "holdings_identity": true,
+      "controlling_explanation_word_counts": [
+        121,
+        242,
+        292,
+        94,
+        131
+      ],
+      "nine_participants_each_component": true,
+      "public_workflow_exclusion": true,
+      "pending": [
+        "root sequential assignment and final validation placeholders"
+      ]
+    }
+  ],
+  "substantive_review": [
+    "Frozen Associate positions unchanged in all four matters.",
+    "Newman partial Part III join preserves the approved integrated framework, ordinary practicable-opportunity qualification and factual/liability/defense/remedy remit; distinct notice presumption and necessity allocation remain separate.",
+    "Meyer summary judgment, disputed ownership, absent direct-participation allegation, compensatory scope and genuinely preserved alternatives retained.",
+    "Roe has seven child-merits joins and seven immunity-reversal votes; two decline merits. State-law independence remains unanimous, with the restored-federal-claim remit supported by seven.",
+    "Faragher and Wallis dates checked against the entering-law slice: September 8, 1997 and April 2, 2001.",
+    "Norton applies the existing civil-threat rule without resolving a universal criminal-threat mental state."
+  ]
+}

@@ -1,0 +1,265 @@
+[
+  {
+    "filename": "Pierce-County-v-Guillen_merits_2003-01-14.md",
+    "case": "Pierce County v. Guillen",
+    "date": "2003-01-14",
+    "fixed_opinion_form": "One signed opinion of the Court; finality, statutory scope, and Commerce authority are distinct holdings in that opinion. No separate writing.",
+    "eligible_full_rationale_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvotes": [
+      {
+        "component": "Tort-discovery component",
+        "disposition": "Dismiss review for lack of §1257 finality",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "Public-disclosure component",
+        "disposition": "Reverse and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      }
+    ],
+    "fit_possible_authors": {
+      "Stone-Zsela": "His approved source-specific construction coordinates finality, the direct transportation connection, and the record-limited remedy.",
+      "O'Connor": "Her frozen statutory and transportation positions support clear separation of program collection from independent sources.",
+      "Kennedy": "His frozen connection-and-fit analysis and refusal to classify missing document facts support the constitutional and remedial boundaries.",
+      "Souter": "His frozen purpose-qualified construction gives collected independent work without an information-wide privilege.",
+      "Ginsburg": "Her frozen custodian-specific statutory analysis supports an administrable documentary remand.",
+      "Stevens": "His frozen Baldrige and transportation analysis supports the full confined rule.",
+      "Scalia": "His frozen textual collection analysis preserves the amendment and enacted purpose limit.",
+      "Thomas": "His frozen category discipline supports the enumerated materials and actual program-purpose boundary.",
+      "Breyer": "His frozen transportation and program-operation ground supports the information rule with its independent-source limit."
+    },
+    "tentativejudgment": "Tort-discovery writ dismissed for want of a final judgment; public-disclosure judgment reversed and remanded, 9–0 on each component.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "partial_joins": {}
+  },
+  {
+    "filename": "Barnhart-v-Peabody-Coal-Co_merits_2003-01-15.md",
+    "case": "Barnhart v. Peabody Coal Co.",
+    "date": "2003-01-15",
+    "fixed_opinion_form": "One signed opinion of the Court covering both consolidated dockets and the Peabody and Bellaire judgments; a single shared contextual dissent. No opinion split for assignment purposes.",
+    "eligible_full_rationale_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvotes": [
+      {
+        "component": "Consolidated deadline judgments",
+        "disposition": "Reverse and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "O'Connor",
+          "Scalia",
+          "Thomas"
+        ]
+      }
+    ],
+    "fit_possible_authors": {
+      "Stone-Zsela": "His approved distinction among statutory deadline, substantive eligibility, and initial agency task supports the full ground and practical remand.",
+      "Kennedy": "His current Good timing opinion supplies the duty/consequence distinction requiring application to the different Coal Act context.",
+      "Souter": "His frozen synthesis preserves both continuing authority and Sigmon’s independent substantive limits.",
+      "Ginsburg": "Her frozen timing and category analysis supports precise review and remand instructions.",
+      "Stevens": "His frozen Good-based approach addresses the absent disabling sanction and the accounting objection.",
+      "Breyer": "His frozen contextual completion construction gives the statutory allocation operative effect without an optional deadline."
+    },
+    "tentativejudgment": "Consolidated timing-based judgments reversed and remanded, 6–3.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "partial_joins": {}
+  },
+  {
+    "filename": "Eldred-v-Ashcroft_merits_2003-01-15.md",
+    "case": "Eldred v. Ashcroft",
+    "date": "2003-01-15",
+    "fixed_opinion_form": "One signed opinion of the Court: Part I Copyright Clause, Part II-A absence of categorical speech immunity, Part II-B rejection of the presented speech challenge. Three distinct separate dissenting writings; Stone also concurs in Part II-A. Parts reflect substantive join differences before assignment counts.",
+    "eligible_full_rationale_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "componentvotes": [
+      {
+        "component": "Validity of the challenged existing-term extension and affirmance",
+        "disposition": "Affirm",
+        "supporting": [
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg"
+        ],
+        "opposing": [
+          "Stone-Zsela",
+          "Stevens",
+          "Breyer"
+        ]
+      }
+    ],
+    "fit_possible_authors": {
+      "O'Connor": "Her frozen Feist-based distinction between subject eligibility and duration supports a precise finite-term opinion.",
+      "Scalia": "His frozen textual distinction between limited and immutable supports the duration rule with real constitutional boundaries.",
+      "Kennedy": "His frozen Tasini, Campbell, and Corley analysis coordinates copyright entitlement and actual expression burdens.",
+      "Souter": "His frozen fair-use and system-level progress account supports both constitutional questions without overstating safeguards.",
+      "Thomas": "His current Corley opinion provides experience differentiating a concrete functional restraint from the distinct burden of duration.",
+      "Ginsburg": "Her frozen right-specific assessment can explain system rationales and continuing safeguards while preserving independent review."
+    },
+    "tentativejudgment": "Judgment upholding the challenged existing-term extension affirmed, 6–3; Stone-Zsela joins only the severable rejection of categorical First Amendment immunity.",
+    "assignment_authority": "O'Connor (most senior Associate in the affirmance coalition)",
+    "partial_joins": {
+      "Stone-Zsela": [
+        "II-A"
+      ]
+    }
+  },
+  {
+    "filename": "United-States-v-Jimenez-Recio_merits_2003-01-21.md",
+    "case": "United States v. Jimenez Recio",
+    "date": "2003-01-21",
+    "fixed_opinion_form": "One signed opinion of the Court: Part I substantive agreement rule, Part II seven-Associate procedural basis for correcting the appellate rule, Part III bounded reversal and remand. Stevens joins Part I and dissents from judgment; Stone joins Parts I and III only. These scope distinctions precede assignment counts.",
+    "eligible_full_rationale_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "componentvotes": [
+      {
+        "component": "Substantive automatic-termination question",
+        "disposition": "Reject automatic termination",
+        "supporting": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": []
+      },
+      {
+        "component": "Disposition of the appellate judgment",
+        "disposition": "Reverse insofar as based on automatic termination and remand",
+        "supporting": [
+          "Stone-Zsela",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "opposing": [
+          "Stevens"
+        ]
+      }
+    ],
+    "fit_possible_authors": {
+      "O'Connor": "Her current Shabani opinion and frozen limited-remand position support precise agreement elements and remaining appellate issues.",
+      "Scalia": "His frozen distinction between correcting appellate doctrine and granting instructional-error relief preserves both statute and procedure.",
+      "Kennedy": "His frozen Shabani and Quality King remand positions distinguish a legal correction from a conclusive conviction disposition.",
+      "Souter": "His frozen position separates nonobjection, intentional relinquishment, and the continuing agreement without deciding their remaining consequences.",
+      "Thomas": "His current Salinas opinion supports agreement versus completion, while his frozen Recio position preserves Rule 30 and the accepted burden.",
+      "Ginsburg": "Her frozen remand position insists on genuine private agreement and refuses an unpresented fixed sufficiency benchmark.",
+      "Breyer": "His frozen agreement analysis and limited-remand position can explain why unknown frustration and remaining trial protections perform separate work."
+    },
+    "tentativejudgment": "Automatic-termination rule rejected unanimously; judgment reversed insofar as it rests on that rule and remanded, 8–1.",
+    "assignment_authority": "Chief Justice Stone-Zsela",
+    "partial_joins": {
+      "Stone-Zsela": [
+        "I",
+        "III"
+      ],
+      "Stevens": [
+        "I"
+      ]
+    }
+  }
+]

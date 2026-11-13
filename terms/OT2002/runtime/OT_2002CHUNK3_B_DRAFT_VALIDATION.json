@@ -1,0 +1,49 @@
+[
+  {
+    "case": "Pierce County v. Guillen",
+    "controlling_explanation_words": [
+      113,
+      170,
+      172
+    ],
+    "holdings_identity": true,
+    "blocks": 11,
+    "assignment_pending": true,
+    "votes": "complete"
+  },
+  {
+    "case": "Barnhart v. Peabody Coal Co.",
+    "controlling_explanation_words": [
+      169,
+      221
+    ],
+    "holdings_identity": true,
+    "blocks": 11,
+    "assignment_pending": true,
+    "votes": "complete"
+  },
+  {
+    "case": "Eldred v. Ashcroft",
+    "controlling_explanation_words": [
+      174,
+      127,
+      169
+    ],
+    "holdings_identity": true,
+    "blocks": 11,
+    "assignment_pending": true,
+    "votes": "complete"
+  },
+  {
+    "case": "United States v. Jimenez Recio",
+    "controlling_explanation_words": [
+      145,
+      153,
+      122
+    ],
+    "holdings_identity": true,
+    "blocks": 11,
+    "assignment_pending": true,
+    "votes": "complete"
+  }
+]

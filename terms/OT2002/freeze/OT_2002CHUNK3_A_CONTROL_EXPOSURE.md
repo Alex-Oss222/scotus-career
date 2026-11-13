@@ -1,0 +1,5 @@
+# Control exposure receipt ? Group A
+
+A search directed to the Consolidated Edison lower-court opinion, expressly excluding Supreme Court and certiorari terms, nevertheless returned an incidental same-matter Supreme Court petition-treatment snippet. No provisional commitments had been produced. The operator ceased substantive revision of that case and notified control immediately. The frozen original neutral packet is a mechanical copy of approved Section I, without post-exposure repair. Fresh neutral validation and then fresh independent modeling are required for Consolidated Edison. Do not transmit this search result or its substantive metadata to either fresh context. Gibson, Craigmiles and Johnson were not exposed to excluded same-matter outcomes or lineups.
+
+No private position, comparator, full brief, record or audit annex was opened. Public projection material was available; only law effective before January 14, 2003 enters the A selection. No commitments or assignments were written.

@@ -1,0 +1,86 @@
+{
+  "event_date": "2003-01-14",
+  "draft_only": true,
+  "cases": [
+    {
+      "name": "Johnson v. City of Cincinnati",
+      "filename": "Johnson-v-City-of-Cincinnati_merits_2003-01-14.md",
+      "form": "Form fixed before assignment or counts: one signed lead opinion of the Court after plenary merits submission, with Parts I\u2013V separating genuine jurisdictional, constitutional and remedial questions and their distinct coalitions. Six Associates can carry every part, so there is no basis to divide authorship. Stone's partial concurrence and the Scalia\u2013Thomas partial dissent perform distinct legal work; no judgment-only coalition is falsely described as a full join.",
+      "full_joiners": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "eligible_authors": [
+        "Stevens",
+        "O'Connor",
+        "Kennedy",
+        "Souter",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assignment_authority": "Stone-Zsela",
+      "fit_alternatives": {
+        "O'Connor": "Her Laidlaw opinion and supported movement/caregiving joins fit the coordination of collateral jurisdiction, cessation and limited substantive protection.",
+        "Stevens": "His Arizonans opinion and published Morales innocent-presence position support precise separation of jurisdiction and the new movement rule.",
+        "Kennedy": "His Glucksberg, Saenz and Troxel positions support defining actual liberty and intrusion without importing an unrelated rule or universal method.",
+        "Souter": "His published Morales position and actual-interest reasoning support bounded passage and caregiving rules with precise distinction from professional intimacy.",
+        "Breyer": "His Troxel opinion and qualified substantive approach fit the relationship-specific family holding while retaining workable public-order regulation."
+      },
+      "components": [
+        {
+          "component": "Existing fee affirmance",
+          "vote": "7\u20132",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Scalia",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Prospective relief remand",
+          "vote": "9\u20130",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        },
+        {
+          "component": "Damages status remand",
+          "vote": "9\u20130",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ]
+    }
+  ]
+}

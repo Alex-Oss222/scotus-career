@@ -1,0 +1,454 @@
+{
+  "status": "PASS",
+  "records": [
+    {
+      "record": "Consolidated-Edison-Co-of-New-York-Inc-v-Pataki_merits_2003-01-14.md",
+      "components": [
+        {
+          "component": "Affirm injunction against Chapter 190; preserve clerical-correction remand",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Craigmiles-v-Giles_merits_2003-01-14.md",
+      "components": [
+        {
+          "component": "Due-process challenge and injunction dissolution",
+          "supporting": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stone-Zsela",
+            "Stevens"
+          ],
+          "not_reached": []
+        },
+        {
+          "component": "Equal-protection challenge and injunction dissolution",
+          "supporting": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stone-Zsela",
+            "Stevens"
+          ],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Gibson-v-County-of-Washoe_merits_2003-01-14.md",
+      "components": [
+        {
+          "component": "Affirm the limited County return and preserve personal, communications and unappealed dispositions",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Johnson-v-City-of-Cincinnati_merits_2003-01-14.md",
+      "components": [
+        {
+          "component": "Existing fee affirmance",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": []
+        },
+        {
+          "component": "Prospective relief remand",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Damages status remand",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 3
+    },
+    {
+      "record": "Pierce-County-v-Guillen_merits_2003-01-14.md",
+      "components": [
+        {
+          "component": "Tort-discovery component",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Public-disclosure component",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 2
+    },
+    {
+      "record": "Barnhart-v-Peabody-Coal-Co_merits_2003-01-15.md",
+      "components": [
+        {
+          "component": "Consolidated deadline judgments",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "O'Connor",
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Eldred-v-Ashcroft_merits_2003-01-15.md",
+      "components": [
+        {
+          "component": "Validity of the challenged existing-term extension and affirmance",
+          "supporting": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg"
+          ],
+          "opposing": [
+            "Stone-Zsela",
+            "Stevens",
+            "Breyer"
+          ],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "United-States-v-Jimenez-Recio_merits_2003-01-21.md",
+      "components": [
+        {
+          "component": "Substantive automatic-termination question",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Disposition of the appellate judgment",
+          "supporting": [
+            "Stone-Zsela",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Stevens"
+          ],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Norton-v-Ashcroft_merits_2003-01-15.md",
+      "components": [
+        {
+          "component": "Facial commerce challenge",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Facial expression challenge",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Newman-v-Sathyavaglswaran_merits_2003-01-15.md",
+      "components": [
+        {
+          "component": "Reinstatement of complaint",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Meyer-v-Holley_merits_2003-01-22.md",
+      "components": [
+        {
+          "component": "Special personal vicarious-liability judgment",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 1
+    },
+    {
+      "record": "Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md",
+      "components": [
+        {
+          "component": "Child immunity",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": []
+        },
+        {
+          "component": "Child merits",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": [
+            "Scalia",
+            "Thomas"
+          ]
+        },
+        {
+          "component": "Entry",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Duplicative substantive due process",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "State-law independence",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [],
+          "not_reached": []
+        },
+        {
+          "component": "Restored-federal-claim remand",
+          "supporting": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Kennedy",
+            "Souter",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "opposing": [
+            "Scalia",
+            "Thomas"
+          ],
+          "not_reached": []
+        }
+      ],
+      "public_judgment_rows_checked": 5
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "event_date": "2003-01-14",
+  "draft_only": true,
+  "assignment_order": "Consolidated Edison; Craigmiles; Gibson, interleaved with any other same-date cases by alphabetical case name",
+  "cases": [
+    {
+      "name": "Consolidated Edison Co. of New York, Inc. v. Pataki",
+      "filename": "Consolidated-Edison-Co-of-New-York-Inc-v-Pataki_merits_2003-01-14.md",
+      "form": "Form fixed before authorship or balance counts: one signed opinion of the Court after plenary merits submission. Corporate coverage and application of the punishment inquiry are related propositions in one constitutional adjudication with a common full-rationale coalition; they do not justify separate leads or a summary disposition.",
+      "full_joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "eligible_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assignment_authority": "Stone-Zsela",
+      "fit_alternatives": {
+        "Stevens": "His Ambassador Books opinion supplies the direct identification-versus-punishment distinction and permits precise explanation of this different enacted operation.",
+        "Souter": "His accepted functional inquiry can integrate the fault finding, actual command and legitimate ratepayer argument without a naming shortcut.",
+        "Stone-Zsela": "His approved guarantee-specific coverage and unitary punishment inquiry directly support the full rationale; compare against the strongest eligible lower-count alternative without treating his proposed remedial presumption as adopted.",
+        "Ginsburg": "Her accepted distinction between genuine economic regulation and conclusive punitive adjudication fits the corporate property issue and bounded injunction."
+      },
+      "components": [
+        {
+          "component": "Affirm injunction against Chapter 190; preserve clerical-correction remand",
+          "vote": "9\u20130",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ]
+    },
+    {
+      "name": "Craigmiles v. Giles",
+      "filename": "Craigmiles-v-Giles_merits_2003-01-14.md",
+      "form": "Form fixed before authorship or counts: one signed opinion of the Court after plenary merits submission, with distinct dissents by Stevens and Stone-Zsela. The two constitutional challenges receive the same rational-connection answer and produce one injunction disposition. The substantive disagreement over that application requires reasoned dissent but no fragmented lead or component assignment.",
+      "full_joiners": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "eligible_authors": [
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assignment_authority": "O'Connor",
+      "fit_alternatives": {
+        "Thomas": "His Beach opinion states the exact conceivable-basis rule and retained Moreno/Cleburne limits now applied to a proved partial curriculum overlap.",
+        "Souter": "His Heller and Romer opinions permit precise reconciliation of actual-disadvantage review with the supported merchandising and accountability ground.",
+        "O'Connor": "Her Beach, Nordlinger and Heller participation commitments support a concise actual-connection ruling while retaining ordinary economic latitude.",
+        "Kennedy": "His Heller family-participation rationale helps explain why availability of less extensive alternatives does not defeat this genuine regulatory connection."
+      },
+      "components": [
+        {
+          "component": "Due-process challenge and injunction dissolution",
+          "vote": "7\u20132",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stone-Zsela",
+            "Stevens"
+          ]
+        },
+        {
+          "component": "Equal-protection challenge and injunction dissolution",
+          "vote": "7\u20132",
+          "support": [
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": [
+            "Stone-Zsela",
+            "Stevens"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gibson v. County of Washoe",
+      "filename": "Gibson-v-County-of-Washoe_merits_2003-01-14.md",
+      "form": "Form fixed before authorship or balance counts: one signed opinion of the Court after plenary merits submission. The municipal-liability rule and the limited Rule 56 application form one supported rationale; no separate lead or changed form is needed.",
+      "full_joiners": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "eligible_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ],
+      "assignment_authority": "Stone-Zsela",
+      "fit_alternatives": {
+        "Ginsburg": "Her Carter opinion directly supplies the source-specific omission, notice and causation framework now applied to supported jail policies.",
+        "Stevens": "His Collins opinion supplies the precise distinction between a constitutional deprivation and its municipal attribution, including the custody-versus-employment distinction.",
+        "Souter": "His Farmer opinion permits careful separation of individual awareness from independent municipal policy without pooling information.",
+        "Stone-Zsela": "His approved application explicitly combines all liability elements with the Rule 56 limits; his conditional future equitable proposal supplies no authorship advantage for the present issue."
+      },
+      "components": [
+        {
+          "component": "Affirm the limited County return and preserve personal, communications and unappealed dispositions",
+          "vote": "9\u20130",
+          "support": [
+            "Stone-Zsela",
+            "Stevens",
+            "O'Connor",
+            "Scalia",
+            "Kennedy",
+            "Souter",
+            "Thomas",
+            "Ginsburg",
+            "Breyer"
+          ],
+          "oppose": []
+        }
+      ]
+    }
+  ]
+}
