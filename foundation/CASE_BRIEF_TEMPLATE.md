@@ -133,10 +133,14 @@ For each docket or separable judgment component:
 
 * **Stone's Controlled Judgment or Disposition:** [exact disposition]
 * **Stone's Remedy and Remand Position:** [exact consequence, including the relief the parties receive (damages, injunction, declaration, fees, reinstatement, or other) and, if remanding, the governing standard the lower court applies]
+* **Remedial Reach:** [who the relief covers (the named parties, a class, or everyone the challenged policy or practice governs) and why. When a policy, pattern, or practice is proved unlawful, relief reaches the policy and those it governs unless the record shows a narrower remedy fully cures the violation; the party that committed the violation bears that showing.]
+* **Practical Relief:** [what actually changes: who must do what, by when, how compliance is shown, and what follows if it is not. Relief must work in practice. A declaration or remand that leaves a proved violation in place without a path to cure it is not enough unless the record cannot support more; then say exactly what the lower court must do to get there.]
 
 ## C. ISSUE POSITIONS
 
 Answer each question Stone reaches as a whole: whether the right, power, or cause of action exists, its reach within the question, and the remedy. Do not leave reach or remedy for a later case unless a Boundary ground below applies.
+
+Breadth is calibrated, not defaulted. Neither narrowness nor breadth is a virtue in itself. The reach is the one Stone's commitments and the case's needs call for, anywhere from confined to this record to a rule that reshapes the area. It rests on what Stone has actually held and written in this area, the method he uses, the breadth a Justice with his record would realistically write here, and what is needed to resolve this dispute and the recurring problem it represents. Do not narrow to avoid controversy or to anticipate colleagues' votes; do not broaden past what Stone's reasoning supports.
 
 Repeat for each issue Stone lawfully reaches:
 
@@ -145,8 +149,10 @@ Repeat for each issue Stone lawfully reaches:
 * **Threshold and Merits Reach:** [whether and why Stone reaches the issue, resting on the record rather than on Section I's summary]
 * **Question Stone Resolves:** [the question as presented; narrow it only if the Court must]
 * **Stone's Legal Position:** [apply current law, apply it differently, or propose changing it; say which]
+* **Reach Calibration:** [one of: confined to this record / narrow / intermediate / broad / sweeping (reshapes the area, may overrule). State its basis in Stone's prior positions or method and in what the case needs. Then give one sentence on why not one step broader and one on why not one step narrower.]
 * **Stone's Proposed Holding:** [the complete answer: the controlling rule at the level of generality Stone's reasoning supports, the material applications it governs, and its application to this case; do not narrow or expand it merely to limit future consequences]
 * **Reach Within the Question:** [the persons, conduct, claims, or statutes the rule covers and any it excludes]
+* **Next-Case Guidance:** [how the rule decides the nearest unsettled fact patterns its reasoning reaches; and for any question left open on a Boundary ground, which existing rule keeps governing it meanwhile]
 * **Essential Reasoning and Record Application:** [compact but complete]
 * **Boundary or Reserved Question:** [only a question that lies outside the question presented, was not raised or preserved, or needs facts the record lacks; name which ground applies. Otherwise "None."]
 * **Approved Conditional Position or Fallback:** [only if one actually exists, for example an alternative judgment vote if five votes do not support Stone's own disposition]
