@@ -1,0 +1,2841 @@
+_— 
+
+
+Foe wn Supreme Court, U.S. 
+
+
+wr Fyre D 
+
+
+No. 02-634 MAR 27 2003 
+
+
+IN THE 
+
+
+Supreme Court of the United 
+
+
+GREEN TREE FINANCIAL CorP. A/K/A GREEN TREE 
+ACCEPTANCE CorpP. A/K/A GREEN TREE FINANCIAL 
+SERVICES CORP. N/K/A CONSECO FINANCE CorpP., 
+
+Petitioner, 
+Ve 
+
+
+LYNN W. BAZZLE AND BuRT A. BAZZLE, IN A REPRESENTATIVE 
+CAPACITY ON BEHALF OF A CLASS AND FOR. ALL 
+OTHERS SIMILARLY SITUATED; DANIEL B. LACKEY, 
+GEORGE BUGGS AND FLORINE BUGGS, IN A REPRESENTATIVE 
+CAPACITY ON BEHALF OF A CLASS AND FOR ALL OTHERS 
+SIMILARLY SITUATED, 
+
+Respondents. 
+
+
+On Writ of Certiorari 
+to the Supreme Court of South Carolina 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+MARY LEIGH ARNOLD CORNELIA T.L. PILLARD 
+MARY LEIGH ARNOLD, P.A. Counsel of Record 
+P.O. Box 265 GEORGETOWN UNIVERSITY 
+Mt. Pleasant, SC 29465 LAW CENTER 
+
+600 New Jersey Ave, NW 
+STEVEN W. HAMM Washington, D.C. 2000] 
+RICHARDSON, PLOWDEN, (202) 662-939] 
+
+
+CARPENTER & ROBINSON, P.A. 
+P.O. Drawer 7788 
+Columbia, SC 29202 
+
+
+Counsel for Respondents 
+[Additional Counsel Listed On Inside Cover] 
+
+
+ES Eee 
+WILSON-EPES PRINTING Co., INC. — (202) 789-0096 -— WASHINGTON, D C. 20001 
+
+
+(BEST AVAILABLE COPY 
+
+
+BRADFORD P. SIMPSON 
+D. MICHAEL KELLY 
+B. RANDALL DONG 
+
+
+SUGGS & KELLY LAWYERS, P.A. 
+
+
+P.O. Box 8113 
+Columbia, SC 29202-0008 
+
+
+T. ALEXANDER BEARD 
+BEARD LAW FIRM 
+
+1002 Anna Knapp Blvd 
+Mt. Pleasant, SC 29464 
+
+
+CHARLES L. DIBBLE 
+DIBBLE LAW OFFICES 
+P.O. Drawer 1240 
+Columbia, SC 29202 
+
+
+CHARLES L.A. TERRENI 
+P.O. Box 11904 
+Columbia, SC 29211 
+
+
+DANIEL WEBSTER WILLIAMS 
+BEDINGFIELD & WILLIAMS 
+P.O. Box 616 
+
+Barnwell, SC 29812 
+
+
+CHARLES RICHARD KELLY 
+C. RICHARD KELLY, PA 
+Post Office Box | 1648 
+Columbia, SC 29211 
+
+
+THOMAS MATTHEW FRYAR 
+2614 BURNEY Dr. 
+COLUMBIA, SC 29205 
+
+
+QUESTION PRESENTED 
+
+
+Whether the Federal Arbitration Act, 9 U.S.C. §§ | et seq., 
+divests a state court of authority to allow an arbitrator to 
+decide state-law claims on a class-wide basis in accordance 
+with the arbitration agreement and state law. 
+
+
+(1) 
+
+
+—— ee 
+
+
+TABLE OF CONTENTS 
+
+
+QUESTION PRESENTED. ......:ccsssssssssssssssssseseesseseeees 
+TABLE OF AUTHORITIES .........ssssssscssssssccccessesseseee 
+i accceraeatnncecaeniielnisbeneintaaana 
+SUMMARY OF ARGUMENT j.....cssossssssssssssssssseeeee 
+Te 
+
+
+THE SOUTH CAROLINA SUPREME 
+COURT’S DECISION TO PERMIT 
+ARBITRATION OF CLASS CLAIMS 
+FULLY COMPORTS WITH THE FAA. .......... 
+
+
+A. Under the FAA, State Law and Arbitrator 
+Discretion Supply Rules of Arbitration 
+Procedure Not Specified in an Agreement 
+Op ee cnrncnnscsiennncdanncnsieninansinien 
+
+
+B. FAA § 2 Preemption Is Limited to 
+Ensuring that State Law Does Not 
+Disfavor Arbitration .................:ccccccceeeeeeees 
+
+
+THE FAA DOES NOT ESTABLISH A 
+FEDERAL COMMON LAW OF 
+CONTRACT INTERPRETATION UNDER 
+WHICH THE ARBITRATION AGREE- 
+MENT’S REFERENCE TO “THIS 
+CONTRACT” WOULD  FORECLOSE 
+CEA FCCC UITS cccscenccenssesecersssnseneseesens 
+
+
+A. Under the FAA, General Principles of 
+State Law Govern Questions of Inter- 
+pretation of Arbitration Agreements ......... 
+
+
+B. The State Court Faithfully Applied State 
+Law To Hold That The Agreement 
+Permitted Class Arbitration ...................... 
+
+
+(111) 
+
+
+20 
+
+
+20 
+
+
+30 
+
+
+iv 
+TABLE OF CONTENTS—Continued 
+
+
+1. The State Court’s Decision Is 
+Strongly Supported By State Law 
+and the Terms of the Agreement ...... 
+
+
+2. There is No Basis for Petitioner’s 
+Contention That The State Court 
+“Rewrote” The Parties’ Agreement 
+in Order To Serve its Own Policy 
+EPA a ee 
+
+
+lil. THE FAA DOES NOT CREATE A 
+FEDERAL PRESUMPTION AGAINST 
+CLASS ARBITRATION THAT WOULD 
+
+
+FORECLOSE CLASS = ARBITRATION 
+___ REET EP Spurene eee nee eS 
+
+A. The FAA Does Not Preempt State Court 
+Procedures For Multiparty Arbitration ...... 
+
+B. Congress Acted Reasonably in Not 
+Blocking Class Arbitration ........................ 
+ee ae ee aE Te Ee ND 
+
+
+Page 
+
+
+36 
+
+
+37 
+
+
+38 
+
+
+46 
+50 
+
+
+i ee 
+
+
+CASES 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+Page 
+Allied-Bruce Terminix Cos., Inc., v. Dobson, 5\3 
+ea all ccnuenineetincasiecenbedneneniniancsseeaniides 24, 28, 43 
+Amchem Prods. v. Windsor, 521 U.S. 591 
+IPE ae icesicsmapebnsianeiindunntiisiphdimteenpdpnedieetemiuaaetes 49 
+American Airlines v. Wolens, 513 U.S. 219 
+Ie iicicisnninhadnidienmnendeteeS 26-27 
+American Dredging Co. v. Miller, 510 U.S. 443 
+ETI cececrssdveinntigetesitiaeiisininmeesinnemeutaniatetetmainenemnaneds 4] 
+Blue Cross of California v. Superior Court, 78 
+Cal. Rptr. 2d 779 (Cal. Ct. App. 1998)... 38 
+Boynton v. Carswell, 233 S.E. 2d 185 
+(Ga. 1977) overruled on other grounds by 
+Callaway v. Carswell, 242 S.E.2d 103 
+Oy SUD careisenseciniieiecnsctliciitascieiaieneierimteientibasnsnmpiniteniibamntan 38 
+Champ v. Siegel Trading Co., 55 F.3d 269 (7th 
+2 ER RE esi yee ees 16, 40, 43, 45 
+Connecticut General Life Ins. Co. v. Sun Life 
+Assurance Co. v. Canada, 210 F.3d 771 (7th 
+Deposit Guaranty Nat. Bank v. Roper, 446 U.S. 
+gE Oa keer OAS NEN esa eo 49 
+Dickler v. Shearson Lehman Hutton, Inc., 596 
+ees 
+Doctor's Assocs., Inc. v. Casarotto, 517 U.S. 681 
+ia al a ahead 24 
+EEOC v. Waffle House, Inc., 534 U.S. 279 
+Ee at Pein ene ck enn 48 
+English v. General Elec. Corp., 496 U.S. 72 
+SEES RSET RS ne een ween ne eee Sees en ee 23 
+
+
+Episcopal Housing Corp. v. Federal Ins. Co., 
+ee Ie NFO ciccncitaticcnsceciieninieliiiitinin 
+
+Erie Railroad Co. v. Tompkins, 304 U.S. 64 
+erated cicuvecveissinesininhiniediadinictibcaiadeddieitabadiulideaiiiiibetuninen 
+
+
+3] 
+
+
+4) 
+
+
+vi 
+TABLE OF AUTHORITIES—Continued 
+
+
+Evins v. Richland County Historic Preservation 
+
+Comm'n, 532 S.E.2d 876 (S.C. 2000)... 
+Ex Parte Kampis, 826 So. 2d 819 (Ala. 2002)....... 
+First Options of Chicago, Inc. v. Kaplan, 514 
+
+
+OF Bs Fey CII Picenensresesesnnscseresenscomeminene 28-29, 44, 48 
+
+
+Freightliner Corp. v. Myrick, 514 U.S. 280 
+
+
+Gilmer v. Interstate Johnson Lane Corp., 500 
+ee eee icnrnenesseinepietinnennanicingdntcbiaeanatinas: 
+Green Tree Financial Corp. of Alabama \v. 
+Randolph, $31 U.S. 79 (2000) .............cessseeees 
+Gregory v. Ashcroft, 501 U.S. 482 (1991)... 
+Hanna v. Plumer, 380 U.S. 460 (1968) .0.00........ 
+Hines v. Davidowitz, 312 U.S. $2 (1941) 0. 
+Howsam v. Dean Witter Reynolds, Inc., 123 S.Ct 
+ae ae ee ee er 
+John Wiley & Sons, Inc. v. Livingston, 376 US. 
+Pe iithcidsadinagueastngaindunntidpsmmnaiuctentsniiben 
+Johnson v. Fankell, 520 U.S. QUT (1997) 
+Keating v. Superior Court, 645 P.2d 1192 (Cal. 
+FEE -nvsniasstitettimanieginasinannatitninntsioiainmnpsenenauanintaiiien 
+Major League Baseball Players Ass'n v. Garvey, 
+
+
+Fe Sas Se Re Pentvcavitcisentivincnesennsetciennens 16, 22, 
+
+
+Marina “ove Condo. Owners’ Assn., 34 P.3d 86 
+i ee ad IRD en hs Io nt aan 
+Mastrobuono vy. Shearson Lehman Hutton, Inc, 
+
+
+Fee Gee De COO Picctenssseviansecssnstnmniom 1S, 31, 32, 33, 
+
+
+Med Center Cars, Inc. v. Smith, 727 So.2d 9 
+SER PO iicsieesticlicsieniieaiesisiliesishiiaieptncnioaaiititinaiiiaiiis 
+Mitsubishi Motors Corp. v. Soler Chrvysler- 
+Plymouth Inc., 473 U.S. 614 (1985S) 0. 
+Moses H. Cone Mem 'l Hosp. v. Mercury Constr. 
+I, Sar Gr Ce sccsiininninsnintiacensnctisniiaisitainn 
+
+
+vil 
+TABLE OF AUTHORITIES—Continued 
+
+
+Page 
+Myrtle Beach Lumber Co., Inc. v. Willoughby, 
+
+PO ie See Ge GOED cerneencenseneseenssermeninsens 15, 30 
+O'Melveny & Myers v. FDIC, 512 U.S. 79 
+
+SIFU UTTscvcnantisictantstintesnanienavenmenautavemmeninnesmusens 28 
+Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999)... 33 
+Perry v. Thomas, 482 U.S. 483 (1987)... passim 
+fhillips Petroleum v. Shutts, 472 U.S. 797 
+
+IF GFOIIEDscsslereinicarniscanneinsnciasiimsinesiotenbiaitiaeatanapianntantenes 38, 48, 49 
+Pittman Mortgage Co. v. Edwards, 488 §.E.2d 
+
+Fe is GT Ricccinnteniniiasinneaainnanieenmenaiiaisin 16, 22 
+Plaza Development Services v. Joe Harden 
+
+Builder, Inc., 365 $.E.2d. 231 (S.C. Ct. App. 
+
+SIT acshiesivenietiecabalibeasiilaatseieleiniialiicniisisidaiiabinsiehinildduaes 15 
+Shearson American Express v. McMahon, 482 
+
+ek I Eiricnicieniesemeninaiteciiceininasinamineee 25 
+Southern Atlantic Fin. Services, Inc. _ v. 
+
+Middleton, 562 S.E.2d 482, 486 (S.C. Ct. App. 
+
+IEITTITTT crsshasheeoreavipuibineastevindesaediesiainaliallalanisdbialtinapianaeaeaits 30 
+Southland Corp. v. Keating, 465 U.S | (1984)...... passim 
+State v. Berger, 567 S.E.2d 265 (W.Va. 2002), 
+
+cert. denied sub nom Friedman's Inc. v. West 
+
+Virginia, 123 S.Ct. 695 (2002)... cceeeeees 40 
+Textile Workers Union of America v. Lincoln 
+
+ee 40 
+Ting v. AT&T, 319 F.3d 1126 (9th Cir. 2002)....... 40) 
+Tilley v. Pacesetter Corp., 508 $.E.2d 16 (S.C. 
+
+ne ee 6 
+Volt Info. Sciences Inc., v. Bd. of Trustees, 489 
+
+Si Se A icsetcciitceBesmaincinianntssinsvetaniiiahone: passim 
+Zabinski v. Bright Acres Assocs, 553 §.E.2d 110 
+
+
+Vill 
+TABLE OF AUTHORITIES—Continued 
+STATUTES Page 
+ions Uh vaieishiesinieieiiattchael ahi Sea 42 
+i iesthiinhaaticatlaataiiagiailidaiaaic halide ica las passim 
+i arsieniiishaiiniehiaiidaechdnschensisillcaetanantiaadanitinaeaid 42 
+I i isciepibhinisitiaininpiaieabaeieinieipsibcaatabiitadile 16, 42, 43, 45 
+iy Weinpiciieihilleitneiapiibiepdd ahi 21 
+iP Soe essiesiiiiipaiadahiabiabialienideiiaininndiniieaseasaiuaanmetinini 17 
+B.C. Come Ame. GO 1S-4B- 16 .nn..cccccccccccccccscccecessscoses 21 
+fe eenaaeree 16-17 
+Be acre 22 
+i Sapo cidisisicisteblahituiaibcaiiiiiieaies 48 
+fe eren 5 
+OE cintnsitadusittenniniiinidiidas 5 
+a ne AU Pe i dclacisinsitcthitiienittniaabtsbiiaclabiatdsi 5 
+atin UU idlahihiahdinieaiii tia ia ah a 6 
+RULES 
+8 «Rf RIE R eer a ee 48 
+SR eee ee 41,45 
+es Ns es i 45 
+SaaS. Aili iaiesiiciainoasbinnseheiippaiidhenuniidnuiesiemamtebiieeoniigis 12,31 
+OTHER AUTHORITIES 
+American Arbitration Association website, http:// 
+www.adr.org/index2. | jsp?JSPssid=15739 ........ 25 
+NASD Code of Arbitration Procedure, Section 
+STD siadtcicsiiietibesiariennseinoudhassiebiadiiininiihiitieicatac 50 
+
+
+Ralph K. Anderson, Jr., SOUTH CAROLINA © 
+REQUESTS TO CHARGE - CIVIL, § 19-7 
+
+
+Contract Rules of Construction (2002).............. 30 
+Restatement (Second) of Contracts §206 (1981)... 31 
+Sternlight, Arbitration Meets the Class Action, 
+
+42 Wm. & Mary L. Rev. 1, 8 (2000) .........00000... 50 
+
+
+wae ae 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+No. 02-634 
+
+
+GREEN TREE FINANCIAL CorpP. A/K/A GREEN TREE 
+ACCEPTANCE Corp. A/K/A GREEN TREE FINANCIAL 
+SERVICES CORP. N/K/A CONSECO FINANCE COoRP., 
+
+Petitioner, 
+Vv. 
+
+
+LYNN W. BAZZLE AND BuRT A. BAZZLE, IN A REPRESENTATIVE 
+CAPACITY ON BEHALF OF A CLASS AND FOR ALL 
+OTHERS SIMILARLY SITUATED; DANIEL B. LACKEY, 
+GEORGE BUGGS AND FLORINE BUGGS, IN A REPRESENTATIVE 
+CAPACITY ON BEHALF OF A CLASS AND FOR ALL OTHERS 
+
+
+SIMILARLY SITUATED, 
+Respondents. 
+
+
+On Writ of Certiorari 
+to the Supreme Court of South Carolina 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+STATEMENT 
+
+
+This case concerns whether the Federal Arbitration Act 
+(“FAA”) requires that an arbitration clause, governed by state 
+law and interpreted by the state’s highest cor .* to allow class 
+arbitration, be reinterpreted under a new federal standard of 
+FAA contract interpretation to foreclose class arbitration. 
+Green Tree wrote a sweeping arbitration clause in its 
+standard-form adhesion contract and imposed it on respon- 
+dents when they obtained mortgage-secured financing from 
+Green Tree for home improvements or manufactured housing 
+
+
+2 
+
+
+in South Carolina. That agreement stated that it would be 
+“governed by the law of the State of South Carolina,” R. App. 
+2162, which permits class arbitration in the absence of 
+contract language specifically forbidding it. Employing 
+standard rules of contract interpretation applicable to all other 
+contracts, the state high court held that Green Tree’s clause 
+“does not limit the arbitration to non-class arbitration,” Pet. 
+App. 19a, and that South Carolina law permits class-wide 
+arbitration, id. at 2la-22a. Under these circumstances, it is 
+consistent with the FAA for respondents to pursue their 
+wholly state-law claims in an arbitration class action. 
+
+
+Years before respondents filed these cases, Green Tree had 
+been held liable to other individuals for the same violations at 
+issue here. Rather than correct its unlawful conduct, Green 
+Tree continued to impose its illegal credit procedure on 
+thousands of additional borrowers. The arbitrator found that 
+Green Tree had engaged in “wilful, wanton and egregious” 
+disregard of state law. Pet. App. 108a. After persisting for 
+years in wholesale violation of the South Carolina Consumer 
+Code (“Consumer Code”), undeterred by successive individ- 
+ual cases, Green Tree opposes class treatment in this case. 
+
+
+When respondents sought redress for Green Tree’s pred- 
+atory lending practices, they were bound by contract to arbi- 
+trate before an arbitrator chosen by Green Tree. Respondents 
+filed their two complaints as class actions, and the arbitrator 
+decided to proceed on a class-wide basis in both cases. Green 
+Tree objected to class arbitration, however, asserting that it 
+was foreclosed by the arbitration clause. Every legal decision 
+maker to have considered the question—including the arbitra- 
+tor himself and the state courts up to and including the South 
+Carolina Supreme Court—has uniformly concluded that the 
+agreement permitted class arbitration, and that respondents’ 
+claims were appropriately arbitrated on a class-wide basis. 
+Green Tree now seeks to convert the state-law question of the 
+scope of the arbitration clause into a federal question under 
+
+
+ro 
+
+
+3 
+
+
+the FAA. That position is untenable. Green Tree advocates a 
+dramatic expansion of the reach of the FAA into routine 
+matters of state law that was never intended by Congress and 
+cannot be squared with this Court’s cases. 
+
+
+1. The Arbitration Agreement. Petitioner Green Tree 
+drafted the arbitration agreement at issue in this case and 
+included it in a standard form consumer Retail Installment 
+Contract and Security Agreement (“Agreement”). Green 
+Tree presented the Agreement on a take-it-or-leave-it basis to 
+each member of the respondent class when the prospective 
+borrower sought to purchase manufactured housing or home 
+improvements financed by Green Tree. The underlying claim 
+common to all the class members is thus governed by the 
+same arbitration clause in the same standard-form contract 
+
+
+of adhesion. 
+
+
+Green Tree’s Agreement barred the use of juries, but 
+otherwise said nothing about procedures for arbitration. In- 
+stead, it generally provided that “this contract will be govern- 
+ed by the law of the State of South Carolina.” R. App. 2162. 
+South Carolina law permits class arbitration, and neither the 
+arbitration provision nor any other document Green Tree used 
+in the transactions at issue made any reference to waiver of 
+class actions. The arbitration clause stated only that the par- 
+ties waived their right to a jury trial, both in arbitration and in 
+court. Pet. App. 110a.' Not until November 1998, well after 
+the parties had completed the transactions at issue in this 
+case, did Green Tree amend its arbitration clause to require 
+signatories to waive their right to “to participate as a repre- 
+
+
+' Green Tree’s arbitration clause preserved Green Tree’s own right to 
+elect to go to court when if sought enforcement of any “mortgage, deed or 
+trust, or other security agreement,” yet provided that any such suit would 
+not impair Green Tree’s right to compel purchasers to arbitrate their 
+claims, including any counterclaims to claims Green Tree filed in court. 
+Pet. App. Illa. 
+
+
+4 
+
+
+sentative or a member of any class of claimants pertaining to 
+any claim arising from or relating to this agreement.” 
+
+
+Green Tree’s Agreement provided for mandatory, binding 
+arbitration of “[a]ll disputes, claims, or controversies arising 
+from or relating to this contract or the relationships which 
+result from this contract, or the validity of this arbitration 
+clause or the entire contract.” The Agreement specifically 
+granted the arbitrator authority over “all disputes arising 
+under case law, statutory law, and all other laws, including, 
+but not limited to, all contract, tort, and property disputes.” 
+The Agreement did not set forth arbitration procedures, but 
+instead conferred on the arbitrator “all powers provided by 
+the law and the contract.” Those powers, the agreement 
+stated, “shall include all legal and equitable remedies, 
+including, but not limited to, monetary damages, declaratory 
+relief, and injunctive relief.” Pet. App. 1 10a. 
+
+
+2. The Underlying Claims. The respondent classes 
+assert only state-law, non-diversity claims arising under the 
+Consumer Code. The Bazzle and Lackey cases, consolidated 
+in the final opinion issued by the South Carolina Supreme 
+Court, began as two class actions arbitrated separately before 
+the same arbitrator. Purchasers of mobile homes comprise 
+the Lackey class, and purchasers of home improvements 
+comprise the Bazzle class. Both cases involve real-estate 
+secured transactions, all of which Green Tree structured in the 
+same way, using the same agreement, and all of which were 
+affected by the identical violation of state consumer law. As 
+the arbitrator ultimately found, Green Tree violated the class 
+members’ rights by systematically ignoring a clear statutory 
+requirement that creditors in real-estate secured transactions 
+
+
+* See Resp. Reply Brief to Amici Curiae, filed in No. 00-CP-18-443 
+(Supreme Court of South Carolina), at 6 & Attachment A. The validity of 
+those agreements is not at issue in this case. 
+
+
+5 
+
+
+alert consumers of the need to retain their own lawyers and 
+insurance agents to represent their interests. 
+
+
+a. The South Carolina Attorney Preference law. \n \982, 
+the South Carolina General Assembly (“General Assembly’’) 
+amended the Consumer Code to relieve creditors of usury 
+restrictions, but sought to protect consumers against predatory 
+lending practices by reinforceing consumers’ right to legal 
+representation and insurance advice in real-estate secured 
+transactions. The 1982 Consumer Code amendments elimi- 
+nated caps on the interest rates that creditors could charge for 
+consumer credit, and authorized creditors to charge certain 
+fees. 1982 S.C. Act 385 § 56. To safeguard consumers, the 
+General Assembly also included a requirement that creditors 
+advise each consumer of his or her right to retain an attorney 
+and insurance agent to provide professional services at the 
+closing of real estate transactions. S.C. CODE ANN. § 37-10- 
+102 (the “Preference Statute”).” Under the Preference 
+Statute, the creditor was required to record on the first page of 
+each credit application the consumer’s chosen representa- 
+tives. /d. The Preference Statute applies to all consumer 
+loans secured by real estate without regard to whether the 
+underlying contract contains an arbitration clause. The Gen- 
+eral Assembly enacted the Preference Statute to prevent 
+creditors from locking consumers into usurious interest rates 
+or other unfair contract terms and securing those loans with 
+
+
+* Section 37-10-102(a) provides, in pertinent part: Whenever the 
+primary purpose of a loan that is secured in whole or in part by a lien on 
+real estate is for a personal, family or household purpose—{a) The 
+creditor must ascertain the preference of the borrower as to the legal 
+counsel that is employed to represent the debtor in all matters of the 
+transaction relating to the closing of the transaction and . . . the insurance 
+agent to furnish required hazard and flood property insurance in 
+connection with the mortgage and comply with such preference, and the 
+credit application on the first page thereof must contain information as is 
+necessary to ascertain these preferences of the borrower. 
+
+
+6 
+
+
+the consumer’s real estate without the consumer having the 
+benefit of an attorney and insurance agent to give advice. In 
+the absence of professional guidance, consumers often fail to 
+appreciate the terms and the total dollar cost of a “deal.” and 
+may remain unaware that a loan will be secured by liens on 
+their real property that can hinder property sale or lead to 
+forfeiture if payment is not timely made. R. App. 1720, 1722. 
+
+
+In May 1997, after both the Bazzle and Lackey complaints 
+had been filed, the General Assembly amended the 
+Preference Statute. The Preference Statute previously placed 
+no special limits on the right of consumers to proceed against 
+violators on a class-wide basis. See Tilley v. Pacesetter 
+Corp., 508 S.E.2d 16, 21 (S.C. 1998). The statute’s pre-1977 
+penalty provision also provided that violators could be 
+required to forfeit the total amount of the loan finance charge, 
+repay to the consumer double the amount of interest collect- 
+ed, pay costs of the action, and allow the consumer to repay 
+the balance of the loan without any loan finance charges. See 
+Tilley, 508 S.E.2d at 36 n.2. The 1997 Preference Statute 
+amendments foreclosed future class actions for violations of 
+the Preference Statute and established a fixed penalty range 
+of $1,500-$7,500. The same amendment, however, expressly 
+directed that all Preference Statute cases “filed as class 
+actions, without regard to certification, prior to May 2, 1997, 
+may proceed.” 1997 S.C. Act 99 § 5. Bazzle and Lackey 
+were both filed before that date, and the General Assembly 
+was aware of the pendency of these and other Preference 
+
+
+Statute class actions when it amended the Consumer Code. 
+See R. App. 75a. 
+
+
+b. The Transactions. As noted above, the two cases at 
+issue here involve two types of transactions secured by South 
+Carolina real estate: mobile-home purchase transactions 
+(Lackey) and home-improvement transactions (Bazz/e). 
+
+
+— 
+
+
+—— a 
+
+
+; 
+
+
+In a typical mobile-home transaction (litigated in Lackey), 
+the purchaser entered into a preprinted consumer installment 
+contract and security agreement with Green Tree to buy a 
+mobile home. Green Tree's dealer had the purchaser fill out a 
+Green Tree credit application. The credit application did not 
+include the required Preference Statute disclosure. If Green 
+Tree elected to extend credit, it set the terms of the credit, 
+prepared all the necessary documents for closing, and wane- 
+mitted the documents to its dealer. The documents included a 
+mortgage prepared by Green Tree. The mortgage, on its face, 
+directed the local recording office to return tt directly to 
+Green Tree. No attorney was involved in those transactions, 
+nor were consumers advised of the need to consult counsel. 
+
+
+Pet. App. 87a-88a. 
+
+
+The Bazzle transaction is typical of a home-improvement 
+transaction. A home-improvement contractor offering financ- 
+ing through Green Tree solicited customers Goer-to-<oer, 
+offering home-improvement services. The contractor, acting 
+as a dealer for Green Tree, advised the customer that home 
+improvements could be financed. The customer — 
+credit application that was then submitted to Green Tree. . 
+dealer did not disclose the terms of the credit or the 
+encumbrance placed on the purchaser's existing real estate. . 
+the customer agreed to purchase home improvements, the 
+Green Tree dealer returned to the customer’s home with the 
+
+
+transaction documents. Pet. App. 61a-62a. 
+
+
+All of the transaction documents were standard preprinted 
+form contracts of adhesion prepared by Green Tree. Green 
+Tree set all of the terms of financing, including the rate of 
+interest. The documents, if explained at all, were not pre- 
+pared or reviewed by any attorney or agent for the purchasers. 
+Green Tree never gave the purchasers the required Preference 
+Statute disclosures. Pet. App. 6la-62a. Many purchasers did 
+not understand that they were securing the credit transaction 
+with a mortgage on their home, and would only discover 
+
+
+8 
+
+
+Green Tree’s mortgage when they attempted to sell or 
+refinance their home. R. App. 1720, 1722 
+
+
+3. The Proceedings Below 
+
+
+a. Lackey v. Green Tree. Daniel Lackey filed his class- 
+action complaint in state court on May 28, 1996. He alleged 
+that Green Tree systematically violated the Preference Statute 
+in manufactured-housing and home-improvement transactions 
+secured by South Carolina real estate. Green Tree answered, 
+and the Lackey plaintiffs moved for class certification. 
+R. App. 123-124. Green Tree then moved to stay the 
+litigation and compel arbitration, and the trial court denied the 
+motion because it found the arbitration clause unconscion- 
+able. Pet. App. 6a. 
+
+
+Green Tree appealed, and on March 3, 1998, the South 
+Carolina Court of Appeals reversed and remanded. Pet. App. 
+6a. The court of appeals held that the contract was not un- 
+conscionable, but agreed with the trial court that it was a 
+contract of adhesion. R. App. 3. The trial court on remand 
+entered a consent order on July 23, 1998, submitting the case 
+for arbitration before the Honorable Thomas J. Ervin, a 
+
+
+retired state circuit court judge chosen by Green Tree. 
+R. App. 75. 
+
+
+On August 19, 1998, the arbitrator held a hearing to 
+consider whether Green Tree's arbitration agreement prevent- 
+ed class arbitration. Following briefing and a hearing, the 
+arbitrator determined that the Agreement did not preclude 
+class arbitration and scheduled a class certification hearing. 
+R. App. 73. 
+
+
+On November 23, 1998, the arbitrator held a hearing on 
+class certification and certified the class. R. App. 71-72. 
+Contrary to petitioner's contentions (Pet. Br. 12), the 
+arbitrator did not “follow the approach that had been imposed 
+
+
+9 
+
+
+on him by the trial court in Bazzle.”* Rather, he 
+independently “determined that a class action should proceed 
+in arbitration” based on his “careful review of the broadly 
+drafted arbitration clause prepared by Green Tree.” Pet. App. 
+84a. The arbitrator “found that the requirements for class 
+certification were met and that class certification was appro- 
+priate.” /d. at 86a. The arbitrator approved a notice of class 
+arbitration to inform unnamed class members of their choice 
+to opt out, and class counsel mailed it to each class member. 
+J.A. 17-23. Ten persons opted out of the Lackey class. Pet. 
+App. 91a. The arbitrator also excluded from the class 36 
+persons whose transactions were closed outside of South 
+Carolina, and 73 persons whose contracts with Green JTree 
+did not include the arbitration clause. Pet. App. 90a- 91a. 
+
+
+The Lackey class was initially defined broadly to include 
+both manufactured-housing and home-improvement real- 
+estate-secured transactions. Once both the Bazz/e and Lackey 
+cases were in arbitration, however, Green Tree requested that 
+the home-improvement borrowers in the Lackey class be 
+bifurcated from the Lackey arbitration and consolidated into 
+the Bazzle class. The arbitrator granted that request, R. App. 
+
+
+* The Bazzle case was filed and class certification order entered while 
+Green Tree's appeal of the unconscionability decision in Lackey was 
+pending. At the time of the Lackey class certification hearing, the Bazzle 
+case had not yet been assigned to the arbitrator and the Bazz/e class 
+certification order was under challenge in a petition Green Tree filed in 
+the South Carolina Supreme Court. 
+
+
+* The purchasers excluded from the arbitration classes because they 
+were not bound by arbitration clauses brought a class action in court. 
+Green Tree Fin. Corp. v. Flemmings, C/A No: 96-CP-40-4282, Richland 
+County Court of Common Pleas. The parties in Flemmings stipulated to 
+the record developed in the Bazzle and Lackey arbitrations. The court 
+granted summary judgment on liability and awarded damages of $7500 
+per transaction. The court further found that Green Tree's conduct was 
+unconscionable, requiring that Green Tree forfeit all remaining interest. 
+Green Tree did not appeal. 
+
+
+10 
+
+
+58-59, and the cases thereafter were delineated by type of 
+transaction. The arbitrator maintained the separation between 
+Bazzle and Lackey because Green Tree operated distinct 
+home-improvement and manufactured-housing divisions, and 
+the facts regarding each division's efforts, if any, to comply 
+with the Preference Statute potentially raised distinct factual 
+questions as to each class. 
+
+
+The arbitrator held a trial on the merits on March 6-8, 
+2000, R. App. 643-994 (trial transcript), and held Green Tree 
+liable, finding that “Green Tree’s behavior in this matter was 
+wilful, wanton and egregious,” Pet. App. 108a. In his final 
+order and award, the arbitrator stated that Green Tree “failed 
+to provide any evidence or testimony of compliance” with the 
+Preference Statute, and failed to dispute that “a large number” 
+of its contracts during the relevant time period were 
+completed in violation of that law. /d. at 67a & n.4. The 
+arbitrator awarded $5,000 per transaction to each of the 
+Lackey class members. 
+
+
+After the arbitrator issued his final order, Green Tree 
+moved the state court to vacate and remand that order based 
+in part on assertions that the Agreement barred class 
+arbitration. The court denied the motion, and granted plain- 
+tiffs’ motion to confirm the award. Pet. App. 36a-S4a. The 
+court observed that: 
+
+
+the contract itself states that all disputes, claims or 
+controversies relating to the contract or the validity of 
+the arbitration clause or the entire contract shall be 
+resolved by binding arbitration by the arbitrator. Here, 
+Green Tree drafted its own arbitration clause making 
+clear that the parties agreed to arbitrate arbitrability and 
+the decision by the Arbitrator to arbitrate this matter as a 
+class is binding on Green Tree. 
+
+
+Pet. App. Sla. The court rejected Green Tree’s argument that 
+the clause’s reference to “this contract” foreclosed class-wide 
+
+
+1] 
+
+
+arbitration: “Th{e] ‘all powers’ language provided by the 
+clause is in addition to the contract rights and remedies 
+and includes the right to determine class arbitration.” Pet. 
+App. 49a. 
+
+
+Green Tree appealed, and the state supreme court accepted 
+jurisdiction, consolidating the appeal with a parallel appeal in 
+Bazzle. Pet. App. 2a. 
+
+
+b. Bazzle v. Green Tree. \n March 1997, Lynn and Burt 
+Bazzle filed suit against Green Tree for violating the Prefer- 
+ence Statute in home-improvement transactions secured by 
+real estate. Pet. App. 56a. The plaintiffs moved for class 
+certification and Green Tree moved to compel arbitration. In 
+late 1997, following local practice of ruling on motions tn the 
+order in which they are filed, the South Carolina tral court 
+heard argument on and granted the Bazzles’ motion for class 
+certification, R. App. 1350-1358, and then heard argument on 
+and granted Green Tree’s motion to compel arbitration, R. 
+App. 1359-1363. The judge also ordered that all foreclosure 
+proceedings against plaintiff class members be stayed pend- 
+ing arbitration. R. App. 1363. Green Tree made no argument 
+that the trial court lacked power to certify a class pending 
+arbitration. R. App. 1448-1449. 
+
+
+In support of class certification, the court concluded that 
+“clearly all the prerequisites of [South Carolina] Rule [of 
+Civil Procedure] 23 have been met.” Numerosity was readily 
+met because “Green Tree admits that neither it nor its dealers 
+have advised consumers that they had a right to select a 
+closing attorney or insurance agent,” and Green Tree engaged 
+in “at least 3,600 similar type transactions.” The legal and 
+factual questions at stake were common, “apply|ing] to all 
+class members,” and the named plaintiffs’ claims were typical 
+of those of the class because “the named plaintiffs, as well as 
+all the members of the putative class, have identical claims 
+against the defendants.” The adequacy of representation by 
+
+
+12 
+the named plaintiffs, who had “no potential for conflicting 
+interest” with class members, and by their counsel, who had 
+“experience and past success in matters strikingly similar to 
+the instant case,” was also clear and not disputed. Finally, the 
+court found that the South Carolina Rule 23 $100 amount-in- 
+controversy requirement was met. The court ordered plain- 
+tiffs to “provide actual notice to the class members in 
+accordance with Rule 23 of the South Carolina Rules of Civil 
+Procedure,” and to provide class members the opportunity to 
+opt out of the class. R. App. 1352-1357, 1348. Twelve 
+members elected to opt out of the Bazz/e class. Pet. App. 68a. 
+
+
+In January 1998, Green Tree urged the trial court to 
+reconsider its order certifying the class, arguing that ‘class 
+arbitration of the plaintiff's claims is not authorized under the 
+existing agreement of the parties and the law interpreting the 
+Federal Arbitration Act.” R. App. 1451. The court denied 
+the motion, noting that the cases that Green Tree cited “imply 
+that class arbitration is possible given the right set of circum- 
+stances.” The court also found that Green Tree’s arbitration 
+clause “is so broad that one can easily infer that both parties 
+intended to include class arbitration.” R. App. 1347." 
+
+
+On May, 12, 1999, Green Tree moved the trial court to 
+dismiss or in the alternative to decertify the class in whole or 
+in part, R. App. 1455, but the court denied the motion for 
+want of jurisdiction over a matter pending in arbitration, Pet. 
+App. 29a. Two and a half years after the court granted Green 
+Tree’s motion to compel arbitration, the Bazz/e case was sent 
+to arbitration. Although Judge Ervin had by then certified a 
+class in Lackey, Green Tree chose him to arbitrate Bazzle 
+as well. 
+
+
+* Both the South Carolina Court of Appeals and Supreme Court denied 
+Green Tree's attempts to obtain interlocutory appellate review. Pet. App. 
+57a-58a; see R. App. 1306. 
+
+
+13 
+
+
+Green Tree then moved the arbitrator to dismiss the action 
+or, in the alternative, to decertify the class, placing the Bazzle 
+class certification issue squarely before the arbitrator. Pet. 
+App. 29: R. App. 1455, 3533-3543. On March 23, 2000, the 
+arbitrator denied Green Tree's motion to dismiss and request 
+for decertification, but granted its request that the class claims 
+be narrowed to include only the Preference-Statute and 
+unconscionability claims. R. App. 1400-1404. As his action 
+makes clear, the arbitrator plainly understood that he had 
+independent authority to decide whether and how to proceed 
+with class arbitration, notwithstanding the trial court’s order 
+granting certification before sending the matter to arbitration. 
+
+
+After conducting a hearing on May 31, 2000, R. App. 
+1819-2023 (trial transcript) the arbitrator issued his written 
+award. Pet App. 55a-8la. The arbitrator held Green Tree 
+liable for violating the Preference Statute and awarded relief 
+on a class-wide basis. He found that Green Tree submitted no 
+evidence of compliance or attempted compliance with the 
+Preference Statute enacted years earlier. “Despite Green 
+Tree’s vast financial resources, it took no affirmative action 
+to educate itself on the requirements of the South Carolina 
+attorney preference statute.” /d at 69a. The arbitrator 
+concluded that the evidence clearly showed an ongoing 
+pattern and practice that began as a careless or negligent 
+attitude and graduated into a willful non-compliance and 
+disregard for South Carolina law: 
+
+
+Green Tree offered no evidence of any nature that after it 
+was sued by [other consumers] in 1994 that it attempted 
+to comply with the preference statute... . 
+
+
+... After five suits, including [the Bazz/e suit], having 
+been brought against Green Tree for failing to comply 
+with the preference statute, it still continued to refuse to 
+take any action or to adhere to the statute’s require- 
+ments. . . . Thus, based on the testimony and the 
+evidence of record, | find that Green Tree simply chose 
+
+
+14 
+
+
+to totally ignore the law despite learning of the 
+requirement. As a result of its behavior, Green Tree’s 
+conduct rises to a shocking level of callous and reckless 
+indifference to the rights of South Carolina residents. 
+
+
+Id. at 67a-68a, 69a. 
+
+
+Based on these determinations, the arbitrator awarded a 
+$5,000 penalty to aggrieved consumers in 1,323 home- 
+improvement transactions that occurred prior to the time 
+Green Tree had actual notice of its non-compliance. For the 
+remaining 576 home-improvement transactions that occurred 
+after Green Tree had actual notice of the unlawfulness of its 
+own practices and still did nothing to comply, the arbitrator 
+awarded $7,500 per transaction. Pet. App. 7la, 80a. The 
+arbitrator also awarded reasonable costs and attorneys’ fees. 
+Id. at 80a-8 1a.’ 
+
+
+In accordance with applicable state law, the Bazzles filed a 
+motion to confirm the award in South Carolina trial court, R. 
+App. 1457, and Green Tree filed a motion to remand the 
+award for amendment and clarification, R. App.1538. On 
+September 15, 2000, the state trial court denied Green Tree’s 
+motion and confirmed the award of the arbitrator, deter- 
+mining that the arbitrator acted within his authority to hold 
+Green Tree liable on a class-wide basis. Pet. App. 27a-35a. 
+Green Tree appealed, and the South Carolina Supreme Court 
+assumed jurisdiction to hear the appeal in consolidation with 
+the Lackey case. Pet. App. 2a. 
+
+
+” Petitioner’s suggestion (Pet. Br. 13) that class counsel's fee award 
+was excessive is baseless and, since it is a state law question, wholly 
+gratuitous. See Pet. App. 7la-79a (Arbitrator’s detailed justification for 
+award). Green Tree’s own clear and wilful law violations and ensuing 
+litigiousness necessitated substantial work by class counsel, despite the 
+fact that Green Tree lacked any colorable defense on the merits. 
+
+
+15 
+
+
+c. The South Carolina Supreme Court decision. The state 
+high court unanimously affirmed.  Stressing that South 
+Carolina law “favors arbitration of disputes,” and that the 
+State courts accordingly “resolve any doubts concerning the 
+scope of arbitrable issues in favor of arbitration,” Pet. App. 
+17a, the court applied state contract law to hold that Green 
+Tree’s contract language “does not limit the arbitration to 
+non-class arbitration.” Pet. App. 19a. 
+
+
+The court emphasized that its decision rested on 
+“independent state grounds”: “[U]nder general principles of 
+contract interpretation, we construe Green Tree’s omission of 
+any reference to class actions against them.” /d. at 20a-2 1a. 
+The Court found the contract language ambiguous “{a]t best,” 
+Pet. App. 19a, noting that the requirement that ambiguous 
+language be construed against the drafter not only was well 
+settled in South Carolina, Pet. App. 17a (citing Myrtle Beach 
+Lumber Co., Inc. v. Willoughby, 274 S.E.2d 423 (S.C.1981)), 
+but also comports with this Court’s FAA jurisprudence, Pet. 
+App. |8a (citing Mastrobuono v. Shearson Lehman Hutton, 
+Inc., 514 U.S. 53 (1995)). The court specifically rejected 
+Green Tree’s argument that the arbitration clause’s reference 
+to disputes relating to “this contract” precludes class 
+arbitration. Pet. App. 19a. 
+
+
+The court also emphasized that “no case law or statute in 
+South Carolina prohibits class-wide arbitration. To the 
+contrary, this Court strongly favors arbitration and has held 
+that a state court may order consolidation of claims subject to 
+mandatory arbitration without any contractual or statutory 
+directive to do so.” Pet. App. 21a (citing Episcopal Housing 
+Corp. v. Federal. Ins. Co., 255 $.E.2d 451 (S.C. 1979); Plaza 
+Development. Services. v. Joe Harden Builder, Inc., 365 
+S.E.2d 231 (S.C. Ct. App. 1988)). The court pointed to South 
+Carolina precedent allowing consolidated arbitration and 
+recognized that some jurisdictions foreclosed class arbitra- 
+
+
+| | 
+
+
+16 
+
+
+tion based on their own state rules against consolidated 
+arbitration. Pet. App. 21a. 
+
+
+The court described its decision to reject implied waiver of 
+class arbitration as serving important state interests that are 
+directly implicated in this case. “If we enforced a mandatory, 
+adhesive arbitration clause, but prohibited class actions in 
+arbitration where the agreement is silent, the drafting party 
+could effectively prevent class actions against it without 
+having to say it was doing so in the agreement.” Pet. App. 
+22a. Such a result would thwart South Carolina’s interest in 
+vindicating its consumer protection laws. Indeed, under 
+petitioner’s approach, “parties with nominal individual 
+claims, but with significant collective claims, would be left 
+with no avenue for relief and the drafting party with no check 
+on its abuses of the law. Further, hearing such claims 
+(involving identical issues against one defendant) individu- 
+ally, in court or before an arbitrator, does not serve the 
+interest of judicial economy.” Pet. App. 22a. 
+
+
+The state supreme court also analyzed whether, notwith- 
+standing state law permitting class arbitrations, federal law 
+compelled the opposite result. The court observed that some 
+federal courts had followed Champ v. Siegel Trading Co., 55 
+F.3d 269 (7th Cir. 1995), to deny class arbitration in cases 
+brought in federal court under FAA § 4. The court reasoned 
+that it was not obliged to follow Champ because that case 
+articulated an exclusively “federal approach” based on an 
+application of § 4, which by its plain terms governs only a 
+petition to a “United States district court.” Pet. App. 12a 
+n.11, 20a. The court noted that the judgment sustaining the 
+arbitration award had particular force given the limited scope 
+of judicial review of arbitration decisions under both federal 
+and South Carolina law. Pet. App. 23a (citing Major League 
+Baseball Players’ Ass'n v. Garvey, 532 U.S. 504 (2001) (per 
+curiam); Pittman Mortgage Co. v. Edwards, 488 S.E.2d 
+335, 337-38 (S.C. 1997) (interpreting S.C. CODE ANN. 
+
+
+17 
+
+
+§ 15-48-130, the state-law analogue to FAA § 10)). To 
+overturn an arbitrator's decision, as Green Tree itself 
+acknowledged, it must show that “the arbitrator knew of a 
+governing legal principle yet refused to apply it, and the law 
+disregarded was well defined, explicit, and clearly applicable 
+to the case.” Pet. App. 24a (citing Green Tree brief and state 
+case) (emphasis in opinion). Because “the arbitrator did not 
+act in manifest disregard of the law by permitting [the class 
+arbitration} to proceed,” the court upheld the arbitrator’s 
+awards in both the Bazz/e and Lackey cases. /d. 
+
+
+Green Tree and its amici also asserted that the due process 
+rights of absent class members were violated by the class- 
+wide arbitration, but the court held that Green Tree had failed 
+to preserve that claim, and that, in any event, there was “no 
+evidence that the rights of the absent class members were not 
+protected in this case.” Pet. App. 25a. Acknowledging that 
+“protection of the due process rights of absent class members 
+is an essential component of all class actions, and one which 
+may necessitate particular attention in class-wide arbitra- 
+tions,” the court observed that the class members’ rights in 
+this case “appear to have been properly protected by the 
+notice given to all of them,” and the corresponding right to 
+opt out. /d. at 26a." 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The South Carolina Supreme Court applied ordinary state 
+contract doctrine to hold that the arbitration clause “does not 
+limit the arbitration to non-class arbitration,” Pet. App. 19a, 
+
+
+* In December 2002, petitioner filed for relief under the United States 
+Bankruptcy Code. Substantially all of petitioner's assets are being sold 
+and petitioner is being liquidated. The judgment of the South Carolina 
+Supreme Court in this case is secured by bonds, but if that judgment were 
+reversed and these 3,700 consumers remitted to individual arbitrations, 
+they likely would have limited, if any, recourse for petitioner’s violation 
+of law. 
+
+
+a 
+
+
+18 
+
+
+and thus permits class-wide arbitration in the arbitrator’s 
+discretion as authorized by South Carolina law, id. at 21a- 
+22a. The parties’ agreement did not specify the procedures to 
+be used in arbitration under it, but did specify that South 
+Carolina law would govern. Under South Carolina law, class 
+arbitration is permissible in appropriate circumstances where 
+the parties’ agreement does not foreclose it. 
+
+
+Petitioner urges reversal, as a matter of federal law, on the 
+ground that the state high court misread the parties’ contract. 
+Arguing that the FAA mandates enforcement of arbitration 
+agreements “in accordance with their written terms,” 
+petitioner attempts to spin a preemptive federal rule of 
+arbitration-contract interpretation from snippets of language 
+taken out of context from this Court’s cases. Under 
+petitioner’s proposed rule, any party displeased with a state 
+court’s interpretation of an arbitration agreement would have 
+a federal claim that the contract was not interpreted “in 
+accordance with its written terms.” The FAA effected no 
+such wholesale federalization of matters of state law. 
+
+
+There is no express or field preemption under the FAA. 
+Conflict preemption under the Act is limited to state law that 
+discriminates against or disfavors arbitration as such, and the 
+decision here did neither. This Court’s references to the 
+enforcement of arbitration agreements “according to their 
+terms” are simply directives to ensure that courts repudiate 
+historical practices of voiding arbitration agreements due to a 
+bias in favor of adjudication, and instead interpret those 
+agreements neutrally under ordinary principles of state law. 
+That language was not meant to displace routine state-law 
+contract interpretation with federal law. 
+
+
+To the contrary, it is well settled that “the interpretation of 
+private contracts is ordinarily a question of state law” under 
+the FAA. Volt Info. Sciences Inc. v. Bd. of Trustees, 489 
+U.S. 468, 474 (1989). The state supreme court faithfully 
+
+
+19 
+
+
+interpreted the Agreement in accordance with generally 
+applicable principles of state law to permit the arbitrator to 
+conduct a class arbitration. The contract contains no prohibi- 
+tion on class arbitrations, grants the arbitrator all powers 
+under the law including equitable powers, and authorizes 
+arbitration of all disputes arising from or related to the 
+contract or the parties’ relationship. Because the South 
+Carolina Court’s routine application of ordinary state contract 
+law principles to this agreement neither discriminated against 
+nor disfavored arbitration, there is no ground for federal 
+preemption here. 
+
+
+Nor is there any warrant in the FAA to fashion a special 
+federal background rule that would prohibit class arbitration 
+unless the parties’ agreement explicitly authorized it. The 
+Court in Vo/t recognized that the FAA leaves room for states 
+to fashion their own procedures to facilitate multiparty 
+arbitration. Class arbitration meshes even more comfortably 
+with the FAA than the rule in Vo/t providing for stays of 
+arbitration pending related litigation. It would distort the 
+FAA beyond recognition to find in it presumptive mistrust of 
+arbitrators’ abilities to handle potentially complex procedures 
+like class arbitration. As petitioner itself acknowledges, the 
+FAA does not establish any inherent clash between arbitration 
+and class actions. Pet. Br. 32 (“No one can doubt that the 
+parties to an arbitration could agree to proceed in such a 
+fashion.”), id. at 42. The FAA’s complete silence on class 
+arbitration, together with the compatibility of class treatment 
+and arbitration as a practical matter, shows the FAA’s lack of 
+any preemptive effect here. 
+
+
+Petitioner does not argue that the arbitrator misapplied 
+class action standards. Here, each and every one of the 
+numerous class members was governed by the same agree- 
+ment to arbitrate, their identical underlying claims all were 
+subject to arbitration, the case unquestionably met the State's 
+standards for class certification, and only those persons who 
+
+
+eee 
+
+
+20 
+
+
+did not opt out of the class proceeding before the arbitrator 
+were included. This case was an ideal candidate for class 
+arbitration, and the arbitrator succéssfully conducted a class 
+arbitration. Nor is petitioner claiming that the arbitrator erred 
+in finding it liable with respect to anyone in the respondent 
+class. The illegality of Green Tree’s challenged conduct has 
+long been clear. 
+
+
+Petitioner’s objective here is instead to find a way to avoid 
+having to pay each person whose rights it admittedly violated. 
+Despite earlier awards against it in individual cases raising 
+the same claim, Green Tree persisted for years in violating 
+the Consumer Code in thousands of additional transactions in 
+South Carolina. Now that it has been held liable to a class, it 
+argues that the FAA forecloses class arbitration, and that the 
+agreement to arbitrate silently waived the right to sue on a 
+class-wide basis. The FAA has no such effect. It does not 
+displace state law that permits class arbitration. Class arbitra- 
+tion here, under a contract that did not purport to foreclose it, 
+served the State’s interest in effective and efficient enforce- 
+ment of is laws, and did so in a manner fully consistent with 
+the FAA. 
+
+
+ARGUMENT 
+
+
+I. THE SOUTH CAROLINA SUPREME COURT'S 
+DECISION TO PERMIT ARBITRATION OF 
+CLASS CLAIMS FULLY COMPORTS WITH 
+THE FAA 
+
+
+A. Under the FAA, State Law and Arbitrator 
+Discretion Supply Rules of Arbitration 
+Procedure Not Specified in an Agreement to 
+Arbitrate 
+
+
+The decision of the South Carolina Supreme Court fully 
+accords with the parties’ Agreement and the text and pur- 
+poses of the FAA. As that court held, the parties’ Agreement 
+
+
+21 
+places no limits on an arbitrator's ability to conduct class 
+arbitration. See Pet. App. 19a; see also Point Il, infra. The 
+only matter of arbitration procedure directly addressed by the 
+agreement in this case is the unavailability of a jury. Pet. 
+App. 110a. Such lack of any other specification leaves 
+matters of arbitration procedure to the arbitrator's discretion, 
+within the parameters set by state law and the FAA. The 
+arbitrator was thus free to proceed on a class-wide basis in a 
+fitting case, and he appropriately elected to do so here. 
+
+
+The FAA says nothing about the procedures to arbitrate 
+state-law claims. Section 7 of the FAA—which gives arbi- 
+trators power, backed by the federal courts, to summon 
+witnesses to arbitration—is the only provision of the Act that 
+addresses arbitration procedures, and even that provision is 
+directed exclusively to federal cases. 9 U.S.C. § 7 (referring 
+to “United States district court” and “courts of the United 
+States”).” The FAA does not speak to whether an arbitrator 
+may permit plaintiffs to proceed on a class basis, for “there is 
+no federal law favoring arbitration under a certain set of 
+procedural rules.” Volt Info. Sciences, Inc. v. Bd. of Trustees, 
+489 U.S. 468, 476 (1989); Southland Corp. v. Keating, 465 
+U.S. 1, 11 n.6 (1984) (“The procedures to be used in an 
+arbitration are not prescribed by the [FAA]”). 
+
+
+Selection of arbitration procedures not specified by an 
+arbitration agreement or mandated by state law rests within 
+the arbitrator's discretion. “[{P}rocedural questions which 
+grow out of the dispute and bear on its final disposition’ are 
+presumptively mot for the judge, but for an arbitrator, to 
+decide.” Howsam v. Dean Witter Reynolds, Inc., 123 S.Ct. 
+588, 592 (2002) (quoting John Wiley & Sons, Inc. v. 
+Livingston, 376 U.S. 543, 557 (1964)). 
+
+
+* State law provides the analogous procedure for state arbitrations. 
+S. CAR. Cope ANN. § 15-48-10 (providing subpoena power to state 
+arbitrators). 
+
+
+s* 
+
+
+Even if there were some doubt that the agreement in this 
+case left to the arbitrator the choice of arbitration procedures, 
+including class arbitration, his decision to proceed on a class 
+basis must be accorded great deference. It is well settled that 
+“questions of arbitrability must be addressed with a healthy 
+regard for the federal policy favoring arbitration.” Moses H 
+Cone Mem'l Hosp. v. Mercury Constr. Corp., 460 U.S. 1, 24 
+(1983); Zabinski v. Bright Acres Assocs., 553 S.E.2d 110, 118 
+(S.C. 2001) (“unless the court can say with positive assurance 
+that the arbitration clause is not susceptible to an 
+interpretation that covers the dispute, arbitration [of the 
+disputed question] should be ordered”). Thus, in deciding 
+whether the parties’ agreement authorized the arbitrator to 
+certify a class, this Court should resolve any doubts about the 
+matter in favor of the arbitrator's decision. Matters within an 
+arbitrator's power, such as the procedures for conducting the 
+arbitration, are ordinarily subject to only the most limited and 
+deferential judicial review. Major League Baseball Players’ 
+Assoc. v. Garvey, 532 U.S. 504, 509 (2001) (per curiam) 
+(judicial review of arbitration decision is “very limited,” 
+warranted only when the arbitrator “strays from interpretation 
+and application of the agreement and effectively ‘dispenses 
+his own brand of . . . justice’”); Pittman Mortgage Co. v. 
+Edwards, 488 S.E.2d 423, 337-38 (S.C. 1997) (arbitral 
+awards subject to narrow review under S.C. CODE ANN. 
+$ 15-48-130(a)). 
+
+
+B. FAA § 2 Preemption Is Limited to Ensuring 
+that State Law Does Not Disfavor Arbitration 
+
+
+FAA preemption is narrow. “The FAA contains no express 
+preemption provision, nor does it reflect a congressional 
+intent to occupy the entire field of arbitration.” Volt Info. 
+Sciences, Inc., v. Bd. of Trustees, 489 U.S. 468, 477 (1989). 
+Thus, petitioner must depend on conflict preemption, which 
+requires a showing that the state rule would “actually conflict 
+
+
+23 
+
+
+with federal law” by “standing as an obstacle to the accom- 
+plishment and execution of the full purposes and objectives of 
+Congress.” id. at 477 (quoting Hines v. Davidowitz, 312 U.S 
+52, 67 (1941)). The guiding rule is that preemption is 
+distavored, English v. Gen. Elec. Co., 496 U.S. 72, 90 (1990), 
+especially where the federal law with which the state decision 
+assertedly conflicts is completely silent on the matter, see 
+Freightliner Corp. v. Myrick, 514 U.S. 280 (1995), as the 
+FAA ts on class arbitration. 
+
+
+There is no FAA preemption here The principal 
+preemptive thrust of the FAA is to displace state laws that 
+would frustrate the parties’ choice to arbitrate rather than 
+litigate. To that end, FAA § 2 states that 
+
+
+an agreement in writing to submit to arbitration an 
+existing controversy arising out of such a contract, 
+transaction, or refusal, shall be valid, irrevocable, and 
+enforceable, save upon such grounds as exist at law or in 
+equity for the revocation of any contract. 
+
+
+9 U.S.C. § 2. Congress thereby “withdrew the power of the 
+States to require a judicial forum for the resolution of claims 
+which the contracting parties agreed to resolve by 
+arbitration.” Southland Corp. v. Keating, 465 U.S. at 10; see 
+Green Tree Financial Corp. of Alabama v. Randolph, 53} 
+U.S. 79, 89 (2000) (emphasizing purpose of FAA “to reverse 
+the longstanding judicial hostility to arbitration agreements’). 
+This Court has held that the FAA applies to state-law disputes 
+such as this one in a very limited fashion, for the specific 
+purpose of overriding state-law favoritism toward judicial 
+rather than arbitral resolution. 
+
+
+This Court has identified only two categories of state law 
+that are subject to conflict preemption under Section 2, 
+neither of which is applicable here: First, the FAA displaces 
+State-law principles that target arbitration agreements for 
+
+
+a a 2 
+ EOSS’N:CSO OOOO EO 
+
+
+24 
+
+
+special or different treatment from other contracts, on the 
+ground that such arbitration-specific law “would place arbi- 
+tration clauses on an unequal ‘footing,’ directly contrary to 
+the [FAA’s] language and Congress's intent.” Doctor's 
+Assocs., Inc. v. Casarotto, 517 U.S. 681, 686 (1996) (quoting 
+Allied-Bruce Terminix Cos., Inc., v. Dobson, 513 U.S. 265, 
+281 (1995)). “Congress precluded states from singling out 
+arbitration provisions for suspect status.” Casarotto, 517 
+U.S. at 687. The Court in Casarotto accordingly held that 
+FAA § 2 preempts Montana law that imposed special notice 
+requirements only on contracts “subject to arbitration.” /d. at 
+683. In Allied-Bruce, the Court applied the anti-targeting 
+principle to hold that FAA § 2 preempts Alabama law 
+categorically invalidating written, pre-dispute arbitration 
+agreements. Allied-Bruce, 513 U.S. 265. Second, the FAA 
+preempts state law that would exempt certain categories of 
+cases from arbitration, because such state law evinces the 
+very mistrust of arbitration that the FAA serves to counteract. 
+See Perry v. Thomas, 482 U.S. 483 (1987) (FAA § 2 
+preempts California law exempting wage claims from 
+arbitration); Southland Corp, 465 U.S. | (FAA § 2 preempts 
+provision of California Franchise Investment Law that state 
+courts had interpreted to exempt from arbitration claims 
+arising under that law). 
+
+
+Neither of those categories of preemption ousts South 
+Carolina law permitting class arbitration under contracts that 
+allow for it. Aggregation of like claims subject to the same 
+arbitration agreement does not “place arbitration clauses on 
+an unequal ‘footing’” with other contracts in violation of the 
+Casarotto anti-discrimination principle. Given that claims 
+relating to the same contract could be pursued in court on a 
+class-wide basis, the mere presence of an arbitration clause 
+should not, under Casarotto, make class proceedings 
+
+
+25 
+
+
+unavailable.'” Nor does the state court’s decision evince the 
+mistrust of or hostility toward arbitration condemned in 
+Perry. To the contrary, allowing arbitrators to manage 
+important cases with procedural sophistication shows equal 
+respect for, rather than skepticism of, the arbitral forum. '' 
+
+
+” Indeed, the very claim at issue in this case proceeded to judgment in 
+a class action in state court brought by those purchasers whose contracts 
+with Green Tree did not contain arbitration clauses, and whom the 
+arbitrator therefore excluded from the arbitration classes. See Flemmings 
+v. Green Tree Fin. Corp., note 5, supra, at 9 
+
+
+' Petitioner and its amici intimate that permitting class arbitration is 
+somehow anti-arbitration because it raises the prospect that some 
+arbitrations could come to resemble litigation, to the point where certain 
+parties might no longer find arbitration so attractive. Pet. Br. 39-41; eg 
+Brief of Washington Legal Foundation as Amicus Curiae, at 13 (“The real 
+danger here is that by imposing class-based arbitration procedures in the 
+face of a silent arbitration clause, the South Carolina courts are 
+discouraging parties from agreeing to arbitration in future cases.”); Brief 
+for American Bankers’ Assn. ef al., as Amici Curiae, at 18. Although 
+arbitration, even on a class basis, may often be simpler and faster than a 
+trial, the FAA simply does not promise any particular level of simplicity 
+or relative economy; “potential complexity should not suffice to ward off 
+arbitration.” Mitsubishi Motors Corp v. Soler Chrysler-Plymouth, Inc. 
+473 U.S. 614, 633 (1985); see Shearson American Express v. McMahon, 
+482 U.S. 220, 232 (1987) (rejecting arguments that Securities and RICO 
+claims are non-arbitrable due to their complexity). This Court's 
+endorsement in Mitsubishi Motors of arbitration of antitrust violations, 
+which “can affect hundreds of thousands —perhaps millions —of people 
+and inflict staggering economic damage,” 473 U.S. 614, 655 (Stevens, J, 
+dissenting), belies any assertion that complex matters cannot be arbitrated. 
+The same “adaptability and access to expertise,” id at 633-634, that make 
+antitrust, securities and RICO claims not inherently unsuited to arbitra- 
+tion support confidence in arbitrators’ ability to conduct class proceedings. 
+See generally American’ Arbitration Association website, 
+http://www.adr.org/index2.|.jsp?JSPssid=15739 (“Over the last several 
+decades, the American Arbitration Association has administered over 
+100,000 mass claims cases for a wide range of class action and mass 
+claims involving insurance, bankruptcy and discrimination matters.” ) 
+
+
+DE aS... 
+
+
+26 
+
+
+il. THE FAA DOES NOT ESTABLISH A FEDERAL 
+COMMON LAW OF CONTRACT INTERPRE- 
+TATION UNDER WHICH THE ARBITRATION 
+AGREEMENT’S REFERENCE TO “THIS 
+CONTRACT” WOULD FORECLOSE CLASS 
+ARBITRATION 
+
+
+Petitioner does not challenge the South Carolina Supreme 
+Court's reading of the Agreement, under South Carolina law, 
+as allowing class arbitration—indeed, this Court has no 
+authority to review that determination of state law. Nor does 
+petitioner maintain that the FAA expressly or implicitly 
+precludes all class arbitration. To the contrary, it expressly 
+concedes that parties may choose to proceed on a class-wide 
+basis in arbitrations governed by the FAA. Pet. Br. 32, 42. 
+
+Petitioner is thus reduced to arguing that an asserted FAA 
+requirement that contracts to arbitrate be “enforced according 
+to their written terms” establishes a body of federal contract 
+law for interpretation of arbitration agreements that would 
+authorize federal courts to second-guess state law. But there 
+is nothing in the FAA to suggest that Congress authorized the 
+federal courts to create a common law of arbitration contracts. 
+
+
+Because it cannot point to any general FAA prohibition of 
+
+
+class actions, petitioner is left with the case-specific conten- 
+tion that the contract language in this case precludes class 
+arbitration. 
+
+
+If this Court were to accept petitioner’s position, it would 
+invite any party unhappy with the results of a state court’s or 
+an arbitrator’s interpretation of an arbitration agreement to 
+seek review of routine questions of contract interpretation in 
+federal court by casting its complaint as one of misin- 
+terpretation—or in petitioner's terms, “rewriting’—of the 
+contract rather than enforcement “according to its written 
+terms.” The FAA establishes no such federal rule, but trusts 
+the state courts neutrally to apply their own contract law to 
+determine the meaning of arbitration clauses. Cf American 
+
+
+27 
+
+
+Airlines v. Wolens, 513 U.S. 219, 232 (1995) (finding 
+nonpreemption where it was implausible that Congress 
+intended to channel into federal court large body of routine 
+common-law contract claims). 
+
+
+The arbitrator and the state courts here faithfully applied 
+well-established South Carolina law of contract inter- 
+pretation, pursuant to a contract that expressly called for the 
+application of South Carolina law. Neither the arbitrator, nor 
+any of the numerous judges that Green Tree entreated to halt 
+the class arbitration in this case, agreed with Green Tree’s 
+interpretation of the Agreement.'" The FAA reserves 
+interpretation of state arbitration agreements to the state 
+courts, and the South Carolina Supreme Court's judgment 
+accords with the FAA and is not subject to second-guessing 
+by this Court. 
+
+
+A. Under the FAA, General Principles of State 
+Law Govern Questions of Interpretation of 
+Arbitration Agreements 
+
+
+Petitioner pins its case on assertions that the Agreement 
+must be read according to its written terms, see e.g. Pet. Br. at 
+18-22, and that those terms “foreclose” class arbitration. Pet. 
+Br. 42; see also id. at 17 (‘the parties’ intent is expressly to 
+the contrary” of the state rule permitting class arbitration); id 
+at 37 (asserting that “express limitations” of the contract 
+
+
+'? The state courts, as well as the arbitrator, time and again rejected 
+Green Tree's interpretation of the Agreement as foreclosing class 
+arbitration. See, e.g., Pet. App. 19a (unanimous opinion of South Carolina 
+Supreme Court); R. App. 1346-1347 (opinion of Dorchester County 
+Circuit Judge Patrick R. Watts in Bazzle denying defendant's motion for 
+reconsideration of class certification), R. App. 49a-50a (opinion of 
+Barnwell County Chief Circuit Judge Rodney A. Peeples in Lackey 
+denying defendant's motion to vacate arbitral award); R. App. 63-64 
+(opinion of Barnwell County Circuit Judge Gary E. Clary dismissing 
+Green Tree’s collateral action to stay class arbitration). 
+
+
+28 
+
+
+foreclose class arbitration). Under the FAA, however, the 
+state’s high court is the ultimate arbiter of the meaning of the 
+contract terms. The question whether the Agreement in this 
+case permitted the arbitrator to conduct class arbitration is a 
+matter of state law, which the arbitrator and state courts 
+resolved in respondents’ favor. 
+
+
+The FAA preserves a substantial role for state law in the 
+interpretation and enforcement of agreements to arbitrate. As 
+this Court has repeatedly made clear, “States may regulate 
+contracts, including arbitration clauses, under general contract 
+law principles.” Allied-Bruce, 513 U.S. at 281. Notwith- 
+standing the FAA, “the interpretation of private contracts is 
+ordinarily a question of state law, which this Court does not 
+sit to review.” Volt, 489 U.S. at 474. See also Perry, 482 
+U.S. at 492 n. 9 (state legislative and judicial law is 
+applicable to arbitration contracts if it deals with “contracts 
+generally” and does not construe arbitration agreements “in a 
+manner different from that in which it otherwise construes 
+nonarbitration agreements under state law”). As Allied- 
+Bruce, Perry, and Volt make clear, the general contract law 
+that applies in a case such as this is state, not federal, law. 
+Indeed, there is no general federal common law of contract 
+interpretation, see O'Melveny & Myers v. FDIC, 512 U.S. 79, 
+83 (1994), and the FAA is not a mandate to create one, cf. 
+Textile Workers Union v. Lincoln Mills, 353 U.S. 448 (1957). 
+
+
+Green Tree attempts to characterize language from this 
+Court’s cases as supporting special federal review to ensure 
+that arbitration agreements are enforced “according to their 
+written terms.” That is exactly what the South Carolina 
+Supreme Court did in this case. The Court refers to 
+enforcement of arbitration agreements “in accordance with 
+their terms” simply to mean that arbitration agreements 
+should be interpreted in the same manner as any other 
+
+
+contract. For example, the Court stated in First Options of 
+
+
+Chicago, Inc. v. Kaplan, 514 U.S. 938 (1995) that 
+
+
+a 
+
+
+29 
+
+
+“commercial arbitration agreements, /ike other contracts, are 
+enforced according to their terms and according to the 
+intentions of the parties.” 514 U.S. 938, 947 (1995) 
+(emphasis added). Similarly, in Volt the Court explained that 
+the FAA “simply requires courts to enforce privately 
+negotiated agreements to arbitrate, like other contracts, in 
+accordance with their terms.” 489 U.S. at 478 (emphasis 
+added). The point of the reference to enforcement of 
+arbitration agreements “in accordance with their terms” is not 
+to impose a layer of routine federal oversight of questions of 
+arbitration agreement interpretation, but simply to place 
+interpretation of those agreements on the same footing as 
+other contracts, that is, precisely to ensure that they are 
+governed by generally applicable principles of state contract 
+law. None of the cases in which this Court has referred to 
+enforcement of arbitration agreements “in accordance with 
+their terms” had anything to do with the supposed tension 
+between class actions and arbitration that petitioner urges, 
+nor, indeed, with any presumption against particular 
+procedures on the ground that they might be ill-suited to 
+arbitration. There is absolutely no evidence that Congress in 
+enacting the FAA sought to federalize routine matters of state 
+court contract interpretation, as petitioner’s argument 
+necessarily implies. 
+
+
+Petitioner’s argument not only mischaracterizes the 
+precedent, but also fails in its own terms. Where, as here, an 
+agreement does not purport to bar class arbitration, it is 
+difficult to see how class proceedings could have been other 
+than “in accordance with the terms” of the Agreement. Volt 
+acknowledges the latitude parties enjoy “to choose the terms 
+under which they will arbitrate,” 489 U.S. at 472, but there is 
+no requirement that the parties must specifically address in 
+advance all procedural issues that might arise in an 
+arbitration. If this Court’s reference to arbitration “in 
+accordance with the terms” of the agreement carried the 
+
+
+30 
+
+
+restrictive force that petitioner ascribes to those words, 
+arbitrations would grind to a halt. For example, Green Tree’s 
+Agreement in this case made no provision for discovery 
+within the arbitration, the order of motions and proof to be 
+submitted to the arbitrator, or other procedural matters that 
+the arbitrator addressed. Under petitioner’s approach of 
+exclusive reliance on authority spelled out in the contract, 
+even an individual plaintiffs claim could not have been 
+arbitrated under this Agreement. Because the state court’s 
+interpretation of the Agreement did not discriminate against 
+arbitration and was not hostile to arbitration, its resolution of 
+state law is not preempted by the FAA. 
+
+
+B. The State Court Faithfully Applied State Law 
+To Hold That The Agreement Permitted Class 
+Arbitration 
+
+
+Even if the FAA were construed to authorize federal court 
+review of state court contract interpretation, there would be 
+no basis for overturning the decision below. The South 
+Carolina Supreme Court, applying arbitration-neutral rules of 
+contract interpretation, concluded that the Agreement was “at 
+best” ambiguous with respect to class arbitration. Pet. App. 
+19a. In interpreting the Agreement, the court applied the 
+entirely unexceptional, generally applicable state-law rule 
+that an ambiguity in contract terms “should be construed 
+against the drafter.” Pet. App. 19a. That principle is well 
+settled in South Carolina, 3 as well as many other 
+
+
+'? See, e.g., Myrtle Beach Lumber Co., Inc. v. Willoughby, 274 S.E.2d 
+423, 426 (S.C. 1981) (cited in opinion below, Pet. App. 17a); Southern 
+Atlantic Fin. Services., Inc., v. Middleton, 562 S.E.2d 482, 486 (S.C. Ct. 
+App. 2002) (“It is well settled that ambiguities arising within a contract 
+must be construed against the drafter. This rule applies with particular 
+force in cases involving a contract of adhesion.”); Ralph K. Anderson, Jr., 
+South Carolina Requests to Charge—Civil § 19-7, Contract—Rules of 
+Construction (2002) (standard jury instruction stating that “ambiguities 
+must be construed against the party who prepared the contract .. . . Where 
+
+
+31 
+
+
+jurisdictions.'* This Court has itself, in reviewing a federal- 
+court FAA case, approved of the precise rule the South 
+Carolina court used here: “the common-law rule of contract 
+interpretation that a court should construe ambiguous 
+language against the interests of the party that drafted it.” 
+Mastrobuono v. Shearson Lehman Hutton, 514 U.S. 52, 62 
+(1995). 
+
+
+Il. The State Court’s Decision Is Strongly 
+Supported By State Law and the Terms of 
+the Agreement 
+
+
+The language in Green Tree’s Agreement creates an 
+implication in respondents’ favor considerably stronger than 
+the one this Court credited in Mastrobuono. While the 
+agreement does not use the words “class-wide arbitration” or 
+“class action,”"> it can be read affirmatively to authorize such 
+a procedure, and certainly provides no more than the most 
+strained support for petitioner’s contrary reading. 
+
+
+First, the Agreement’s own choice-of-law clause 
+authorized the application of South Carolina law to the 
+arbitration in this case, and South Carolina law permits class 
+actions in arbitration as well as litigation. See S.C. R. Civ. P. 
+23 (authorizing class actions); Pet. App. 21a (“no case law or 
+statute in South Carolina prohibits class-wide arbitration’) 
+(citing Episcopal Housing Corp. v. Federal Ins. Co., 255 
+
+
+a contract is entered into upon a form prepared by a party, the language of 
+the contract will be strictly construed against that party.”) 
+
+
+'* See Restatement (Second) of Contracts § 206 (1981) (“In choosing 
+among the reasonable meanings of a promise or agreement or a term 
+thereof, that meaning is generally preferred which operates against the 
+party who supplies the words or from whom a writing otherwise 
+proceeds.”). 
+
+
+'° Compare Green Tree's revised standard form contract containing an 
+express waiver of buyers’ rights to bring participate in class actions, supra 
+at 3-4. 
+
+
+32 
+
+
+S.E.2d 451 (S.C.1979) (authorizing consolidated arbitration 
+in appropriate circumstances)). Green Tree’s contract ex- 
+pressly states that “this contract will be governed by the 
+law of the State of South Carolina.” R. App. 2162. The 
+Agreement fails to specify any other set of procedural rules to 
+govern the arbitration, making state law a natural source to 
+fill that gap. Under South Carolina law, “state procedural 
+rules that do not undermine the enforceability of an otherwise 
+valid contract to arbitrate may be deemed to have been 
+incorporated into a contract through choice of law 
+previsions.” Zabinski v. Bright Acres Assocs., 553 S.E.2d 
+110, 118 (S.C. 2001). Green Tree’s own choice-of-law 
+provision thus incorporates the South Carolina default rule 
+permitting class arbitration.'° 
+
+Second, the Agreement expressly grants to the arbitrator 
+“all powers provided by the law and the contract,” which are 
+fairly understood to include the authority to certify a class. 
+The power to certify a class is a power provided by South 
+Carolina law, even if it is not otherwise expressly provided by 
+a contract. See R. App. 62-63 (trial court refusing to enjoin 
+class arbitration because contract’s “all powers provided by 
+the law” clause authorizes it). 
+
+Third, the Agreement gives the arbitrator power over “all 
+disputes” arising under any source of law whatsoever. Just as 
+
+
+'© Mastrobuono’s treatment of the New York choice-of-law provision 
+is not to the contrary. There was language in the Mastrobuono contract 
+that contradicted application of the choice-of-law clause to the disputed 
+damages question, 514 U.S. 58-59, and such contradictory language is 
+lacking here. Moreover, as the Court noted in Mastrobuono, it was 
+reviewing “a federal court's interpretation of [a] contract,” which was not 
+entitled to any special deference. The precedent more relevant to a state 
+case like this one is Volt, in which the contractual choice of state law 
+supported application of state multiparty arbitration rules. This case, like 
+Volt, 489 U.S. 486, is governed by the rule of “defer[ence] to the [state] 
+court's construction of its own State's law.” Mastrobuono, 514 U.S. at 60 
+n. 4 (distinguishing Volt on that ground). 
+
+
+33 
+
+
+the reference to “any controversy” in the agreement at issue 
+in Mastrobuono supported the arbitrator’s authority to award 
+punitive damages, so, too, the broad reference to “all 
+disputes” in the Green Tree agreement permits the arbitrator 
+to decide whether the arbitration should proceed on a class- 
+wide basis. See also Conn. Gen. Life Ins. Co. v. Sun Life 
+Assurance Co. of Canada, 210 F.3d 771, 774, (7th Cir. 2000) 
+(Posner, J.) (applying “usual methods of contract interpre- 
+tation” to hold that agreement to arbitrate “any dispute arising 
+out of the interpretation, performance or breach of this 
+Agreement “authorized consolidation of arbitration because 
+“the word ‘dispute’ . . . does not exclude a dispute involving 
+multiple parties”). 
+
+
+Fourth, the Agreement specifies that the arbitrator’s 
+authority is not limited to simple contract remedies, but 
+includes “equitable” powers. That reference can reasonably 
+be read to encompass authority to certify a class. “[T]he class 
+action was an invention of equity to enable it to proceed to a 
+decree in suits where the number of those interested in the 
+litigation was too great to permit joinder.” Phillips Petroleum 
+v. Shutts, 472 U.S. 797, 808 (1985) (emphasis added); see 
+Ortiz v. Fibreboard Corp., 527 U.S. 815, 832-837 (1999); 
+Dickler v. Shearson Lehman Hutton Inc., 596 A.2d 860 (Pa. 
+1991) (holding that authority to conduct class arbitration is an 
+equitable power of the arbitrator). 
+
+
+Fifth, the contract’s express waiver of the right to a jury 
+implies that other questions of arbitration procedure were left 
+to background principles of law and the arbitrator’s discre- 
+tion. South Carolina courts recognize as a general matter of 
+contract interpretation that “expressio unius est exclusio 
+alterius,” i.e., the expression of one thing implies the exclu- 
+sion of another. Evins v. Richland County Historic Preser- 
+vation Comm'n, 532 S.E.2d 876 (S.C. 2000). That principle 
+suggests that the Agreement, which expressly required buyers 
+
+
+34 
+
+
+to waive their jury trial rights, did not effect a waiver of any 
+other specific procedures. 
+
+
+Petitioner’s principal argument is that the Agreement’s 
+reference to disputes arising from or relating to “this con- 
+tract” precludes class arbitration. But the clause in which that 
+phrase appears refers to the underlying substantive claims and 
+defenses that must be arbitrated, and not to the procedures 
+that the arbitrator should use in conducting the arbitration. 
+It states: 
+
+
+All disputes, claims or controversies arising from or 
+relating to this contract or the relationships which result 
+from this contract, or the validity of this arbitration 
+clause or the entire contract, shall be resolved by binding 
+arbitration .... 
+
+
+Pet. App. 110a. That clause does not address multiparty 
+issues at all, but only makes clear that the agreement to 
+arbitrate encompasses not only contract claims as such, but 
+related tort or statutory claims, as well as gateway issues such 
+as the validity of the Agreement. As Petitioner itself charac- 
+terizes it, that clause “identifies the matters that will be 
+subject to arbitration.” Pet. Br. 8. There is no question that 
+the underlying claims of all the class members “relate[d]” to 
+the identical contracts they entered with Green Tree. Given 
+that the law in South Carolina does not prevent an individual 
+party to a bilateral contract to act as a class representative in 
+order to pursue claims relating to that contract in a class 
+action, there is no reason to think that the arbitrator would 
+lack the power to authorize a plaintiff to play a similar 
+representative role in an appropriate case pending in arbitra- 
+tion. If the Agreement contained the same sentence, but with 
+the word “litigation” in place of “binding arbitration,” nobody 
+would contend that the terms operated sub silentio to 
+foreclose class actions. 
+
+
+Even assuming the reference to “this contract” could some- 
+how be read to be relevant to procedures rather than to the 
+
+
+35 
+
+
+substantive matters to be arbitrated, it would not foreclose 
+class arbitration. It provides for arbitration, not just of claims 
+“arising from” the contract, but of any “disputes . . . relating 
+to this contract or the relationships which result from this 
+contract.” The dispute over whether class arbitration is 
+permissible “relates to” the contract and the relationships that 
+derive therefrom. It is a dispute about whether the named 
+plaintiffs may, in the context of their suit against the defend- 
+ant, play a role as representatives of other persons similarly 
+situated with respect to the defendant. The dispute also 
+“relates to” the substantive “claims” because it turns on the 
+typicality and commonality of the named plaintiffs’ claims 
+vis-a-vis those of the unnamed class members. The sentence 
+is devoid of limiting language that would support the notion 
+that the arbitrator could consider only procedural issues 
+relating exclusively to the two parties and not to identical 
+claims presented by similarly situated others under the same 
+contract language. 
+
+
+Green Tree’s reliance on the clause referring to “arbitration 
+by one arbitrator selected by us with consent of you” fares no 
+better. That clause sets forth the parties’ respective roles in 
+the selection of an arbitrator. It plainly was not designed to 
+limit the scope of any arbitral dispute to one that is 
+necessarily “bilateral.” Pet. Br. 39. Nor does the clause 
+guarantee Green Tree the right “to select, in the first instance, 
+the individual who would have authority to resolve the 
+disputes arising from or relating to each specific contract.” 
+Id. at 43. 
+
+
+Indeed, that argument is wholly circular: If the Agreement 
+is otherwise consistent with class arbitration, as we have 
+argued and the state high court held, then Green Tree's 
+selection of an arbitrator for any given plaintiff's claim was 
+subject to the possibility that the case might go forward under 
+that arbitrator on a class-wide basis. That argument is also 
+particularly weak in this case because plaintiffs filed class 
+
+
+36 
+
+
+complaints in both Bazzle and Lackey, putting Green Tree on 
+actual notice in both cases that its selection of an arbitrator 
+for each case would (unless one of its other anti-class- 
+arbitration arguments prevailed) amount to selection for 
+purposes of the class action." 
+
+
+Green Tree’s contention that the Agreement precludes 
+class arbitration is utterly implausible. As we have shown, 
+the Agreement’s terms, viewed evenhandedly under South 
+Carolina contract law, squarely refute Green Tree’s objection 
+that class arbitration is contractually “foreclosed.” Pet. Br. 
+42. The Agreement does not specifically mention class 
+proceedings, just as the contract in Mastrobuono did not 
+mention “punitive damages,” but the Agreement here, as 
+there, “strongly implies” the disputed coverage. 514 U.S. at 
+60. Green Tree is responsible for any ambiguity in its 
+Agreement, and thus “cannot now claim the benefit of the 
+doubt.” Mastrobuono, 514 U.S. at 63. 
+
+
+2. There is No Basis for Petitioner's 
+Contention That The State Court “Rewrote” 
+The Parties’ Agreement in Order To Serve 
+its Own Policy Preferences 
+
+
+Only in the most exceptional cases, in which a state court 
+has somehow distorted its law in a manner that discriminates 
+against or is hostile to arbitration rights, are questions of state 
+law subject to preemption under the FAA. See Point |. B., 
+supra. Petitioner can show no such discrimination or hos- 
+
+
+'’ The unnamed class members’ right under the Agreement to withhold 
+their consent to Green Tree's selected arbitrator was preserved by the 
+right to opt out of the plaintiff classes—a right which several class 
+members elected to exercise. Moreover, in the context of a class action, 
+the reference to “you” may be read as plural. See Conn. Gen. Life Ins. 
+Co., 210 F.3d at 775 (Posner, J.) (reading reference to “each party” in 
+context of arbitrator selection provision to refer to each “side” in the 
+
+
+dispute). 
+
+
+a 
+
+
+8 ar ss A wir Mab enter >. 
+
+
+Ee 
+
+
+37 
+
+
+tility, and accordingly resorts to inflated rhetoric, asserting 
+repeatedly that the state court “modified,” “rewrote,” “re- 
+formed,” “distorted” or “attempted to improve upon” the 
+written terms of the parties’ contract, “disregarding” or 
+“ignoring” Green Tree’s chosen language in order to “im- 
+pose,” “intrude” or “superimpose” on it the court’s own pol- 
+icy preferences. See, e.g., Pet. Br. 3, 4, 5, 15, 18, 22, 23, 24, 
+25, 28, 30, 31, 32. Shom of the rhetoric, however, 
+petitioner’s argument amounts to nothing more than a quibble 
+with the arbitrator’s and the state court’s uniform interpre- 
+tation of the contract. All of Green Tree’s expressions of 
+outrage do not change the fact that, even if the state court 
+erred in applying its own law, which it plainly did not, there 
+is no federal issue in this case. 
+
+For example, petitioner decries what it characterizes as the 
+State “impos|ing] on the parties its own notions of ‘efficiency 
+and equity.” Pet. Br. 32; id. at 3. The court did no such 
+thing. Rather, as explained above, the court applied ordinary, 
+arbitration-neutral principles of contract interpretation and 
+found that the Agreement was at best ambiguous regarding 
+class arbitration and that, under state law, class arbitration 
+procedures were therefore available in appropriate cases. 
+Petitioner wholly miscasts the role of the “efficiency and 
+equity” inquiry to which the state court referred. Far from 
+signaling any free-ranging power to rewrite contracts to suit 
+the court’s own notions of fairness, the terms refer to 
+considerations relevant to an arbitrator’s decision whether to 
+certify a class where class procedures are an available option 
+under the contract. 
+
+
+iil. THE FAA DOES NOT CREATE A FEDERAL 
+PRESUMPTION AGAINST CLASS ARBITRA- 
+TION THAT WOULD FORECLOSE CLASS 
+ARBITRATION HERE 
+
+
+Where, as here, an agreement to arbitrate does not 
+expressly provide for or prohibit class arbitration, the South 
+
+
+38 
+
+
+Carolina background rule permits it. Although another state 
+might apply 4 different default rule,'* there is no preemptive 
+FAA background rule against class arbitration that foreclosed 
+South Carolina state law from permitting it here. Indeed, 
+petitioner’s concession (Pet. Br. 32) that parties are free to 
+agree to class-wide arbitration without running afoul of the 
+FAA makes any suggestion of an inherent conflict untenable. 
+
+
+A. The FAA Does Not Preempt State Court 
+Procedures For Multiparty Arbitration 
+
+
+Conflict preemption requires a showing that state law 
+actually conflicts with federal law. Yet the FAA is wholly 
+agnostic as to class arbitration. Petitioner consequently 
+cannot point to any actual conflict here. 
+
+
+This Court in Volt recognized that state procedures for 
+multiparty arbitration are compatible with the FAA. The 
+Court ruled that the FAA did not preempt a state-law 
+procedural rule that authorized arbitration of state-law claims 
+to be stayed pending litigation of related claims among 
+parties not subject to arbitration. 489 U.S. 468. As the Court 
+noted, “the FAA itself contains no provision designed to deal 
+with the special practical problems that arise in multiparty 
+contractual disputes when some or all of the contracts at issue 
+include contracts to arbitrate.” /d. at 476 n. 5. California 
+
+
+'* Compare Med Center Cars, Inc. v. Smith, 727 So.2d 9, 19-20 (Ala. 
+1998) (denying class arbitration where agreement did not specifically 
+provide for it) with Dickler v. Shearson Lehman Hutton, Inc., 596 A.2d 
+860 (Pa. 1991) (allowing class arbitration as within arbitrator's equitable 
+powers); Keating v. Superior Court, 645 P.2d 1192 (Cal. 1982), rev ad in 
+part on other grounds sub nom Southland Corp. v. Keating, 465 U.S. | 
+(allowing class arbitration where agreement does not foreclose it); Blue 
+Cross of California v. Superior Court, 78 Cal. Rptr. 2d 779 (Cal. Ct. App. 
+1998) (finding state rule permitting class arbitration not preempted by 
+FAA); Boynton v. Carswell, 233 S.E. 2d 185 (Ga. 1977) (allowing class 
+arbitration in challenges to local taxes), overruled on other grounds by 
+Callaway v. Carswell, 242 S.E.2d 103 (Ga. 1978). 
+
+
+39 
+
+
+“ha[d} taken the lead in fashioning a legislative response to 
+this problem, by giving courts authority to consolidate or stay 
+arbitration proceedings in these situations in order to 
+minimize the potential for contradictory judgments.” /d. 
+Application of the California rule was arguably hostile to 
+arbitration because it allowed the state court to stay arbitra- 
+tion pending the resolution of related litigation, the result of 
+which might then control the arbitration. The Court in Volt 
+nonetheless found no actual conflict with the FAA’s “healthy 
+regard for the federal policy favoring arbitration,” id. at 475, 
+and thus no preemption. 
+
+
+Under Volt, South Carolina’s approval here of class 
+arbitration is a fortiori not preempted by the FAA. Like the 
+agreement in Vo/t, Green Tree’s Agreement included a clause 
+specifying that state law would govern. R. App. 2162. South 
+Carolina, like California in Volt, has expressed its own state 
+policy with respect to a question of multiparty arbitration. 
+Here, the state has chosen not to foreclose a class proceeding 
+where an agreement allows it and the arbitrator has elected to 
+permit it. Because it facilitates arbitration, South Carolina’s 
+rule is even more compatible with the FAA than the 
+California rule at issue in Volt. 
+
+
+The arbitrator did in fact conduct class arbitration here, and 
+South Carolina’s allowance of it eased rather than obstructed 
+arbitration of the parties’ disputes. Respondents here do not 
+assert an entitlement to bring a class action that would divert 
+the case from arbitration into court. Unlike the plaintiff in 
+Gilmer v. Interstate/Johnson Lane Corp., 500 U.S. 20 (1991), 
+they do not rely on class-action rights as a ground for relief 
+from an agreement to arbitrate. /d. at 32 (rejecting contention 
+that potential unavailability of class arbitration of ADEA 
+claim renders it unfit for arbitration). Rather, respondents 
+joined together as a class in order more efficiently to resolve 
+their claims within arbitration. Nothing in this Court’s FAA 
+
+
+preemption jurisprudence suggests that application to arbitra- 
+
+
+40 
+
+
+tion agreements of arbitration-neutral state law which 
+facilitates arbitration is at odds with the FAA." 
+
+
+Petitioner identifies only one lower-court case, Champ v. 
+Siegel Trading Co., 55 F.3d 269 (7th Cir. 1995), to support its 
+contention that the FAA mandates a presumption against 
+class arbitration. Champ does not apply here, however, be- 
+cause it rests on FAA § 4, which is inapplicable in state court. 
+By their own terms, each of the FAA procedural provisions 
+that addresses trial-court procedures at the threshold of 
+arbitration applies only to federal courts and does not address 
+the role of state courts. See 9 U.S.C. § 4 (regarding procedure 
+to be used in “any United States district court” to initiate 
+arbitration in cases presenting federal claims); id. § 3 (regard- 
+ing procedure for obtaining a stay of litigation “brought in 
+any of the courts of the United States” pending completion of 
+arbitration); Southland, 465 U.S. at 16 n.10. Such a “federal 
+procedural right . . . simply does not apply in a nonfederal 
+forum.” Johnson v. Fankell, 520 U.S. 911, 921 (1997). 
+
+
+Even if the FAA’s procedural provisions supported a 
+presumption against class arbitration in federal court, those 
+provisions in no way bar states from authorizing their trial 
+courts to make class certification decisions before sending 
+cases to arbitration. See Volt, 489 U.S. at 476-477; Southland, 
+465 U.S. at 31 (O’Connor, J., dissenting) (state courts should 
+be allowed to fashion their own procedures for enforcing the 
+substantive federal rights, if any, that the FAA creates). 
+There is no more cause for petitioner’s concern (Pet. Br. 28) 
+about potentially different state and federal threshold pro- 
+cedures for arbitration than there is about the routine use of 
+
+
+'° This case does not present the question whether the FAA preempts 
+state law that abrogates express waivers of rights to proceed on a class 
+basis, such as by rendering unconscionable contracts that waive the right 
+to proceed as a class. See, e.g, Ting v. AT&T, 319 F.3d 1126 (9th Cir. 
+2002); State v. Berger, 567 S.E.2d 265 (W. Va. 2002), cert. denied sub 
+nom Friedman's Inc. v. West Virginia, 123 S.Ct. 695 (2002). 
+
+
+LE Leary as 
+
+
+4) 
+
+
+different procedures in state and federal courts under Erie 
+Railroad Co. v. Tompkins, 304 U.S. 64 (1938). See American 
+Dredging Co. v. Miller, 510 U.S. 443, 451-452 (1994) 
+(despite potential disuniformity, Jones Act does not preempt 
+state law on forum non conveniens for cases brought in state 
+court under the Act).”° 
+
+
+In light of the sovereign autonomy of the states to structure 
+their own court procedures as they see fit, it is doubtful 
+whether Congress could, consistent with constitutional princi- 
+ples of federalism, preempt state-court procedures for certi- 
+fying a class at the threshold of arbitration. At a minimum, a 
+plain statement of Congress’s intent to do so should be re- 
+quired before state courts’ procedural rules are ousted. Cf. 
+Gregory v. Ashcroft, 501 U.S. 452, 460 (1991). Yet the FAA 
+says nothing whatsoever about state procedures, much less 
+class arbitrations, apart from the general nondiscrimination 
+principle it embodies. The states ordinarily “have great 
+latitude to establish the structure and jurisdiction of their own 
+courts,” and a “neutral state rule regarding the administration 
+of the state courts” should not lightly be preempted. Fankell, 
+520 U.S. at 919 (citing, inter alia, Southland, 465 U.S. at 
+33 (O’Connor, J., dissenting)); Southland, 465 U.S. at 19 
+(Stevens, J., concurring in part and dissenting in part) (“we 
+must be cautious in construing the act lest we excessively 
+encroach on the powers which Congressional policy, if not 
+the Constitution, would reserve to the States”). Any reading 
+
+
+*° Whether to certify a class is plainly a procedural question. Indeed, if 
+it were otherwise, Federal Rule of Civil Procedure 23 would run afoul of 
+the Rules Enabling Act, 28 U.S.C. § 2072. Both federal and state class- 
+action rules comfortably qualify as rules that regulate only procedure 
+because they address the “process for enforcing rights and duties 
+recognized by substantive law and for justly administering remedy and 
+redress for disregard or infraction of them.” Hanna v. Plumer, 380 U.S. 
+460, 464 (1965) (emphasis added). In the arbitration context, the nature 
+of the question whether to proceed on a class-wide basis is no different. 
+
+
+42 
+
+
+of the FAA to control state-court procedures for referral of 
+cases to class arbitration raises constitutional doubts and 
+should be avoided. 
+
+
+Petitioner seeks to sidestep the fact that FAA §§ 3 and 4 
+expressly apply only to federal courts by asserting that the 
+parties nonetheless agreed that these sections would govern 
+any arbitration under the contract, even one that never made it 
+to federal court. Pet. Br. 16, 28-30. The Agreement supports 
+no such interpretation. The sole sentence upon which 
+petitioner relies states that “[t]his arbitration contract is made 
+pursuant to a transaction in interstate commerce, and shall be 
+governed by the Federal Arbitration Act at 9 U.S.C. section 
+1.” Pet. App. 110a. It refers only to FAA § 1, not § 3 or § 4, 
+and its reference to § |, defining “commerce” under the Act, 
+establishes only that the parties thought that the contract 
+affected interstate commerce within the meaning of the FAA. 
+In the case of purely intra-state contracts, the FAA lacks even 
+the limited preemptive force of its § 2 non-discrimination 
+principle, and states are free to favor or disfavor arbitration 
+relative to other forms of dispute resolution as they see fit.”' 
+In this case, even though the Agreement governs real property 
+transactions occurring within the State of South Carolina and 
+thus is arguably at the outer edge of Congress’s regulatory 
+power, the contract’s reference to the FAA suggests that the 
+parties contemplated that their agreement involved interstate 
+
+
+*" See, e.g., Ex Parte Kampis, 826 So. 2d 819 (Ala. 2002) (owner's 
+claim against in-state home construction company did not involve inter- 
+state commerce triggering FAA application); Marina Cove Condo. 
+Owners’ Ass'n, 34 P.3d 86 (2001) (dispute between Washington condo- 
+minium owner and in-state condo owners’ association regarding alleged 
+construction defects did not involve interstate commerce for purposes 
+of FAA). 
+
+
+43 
+
+
+commerce.” That limited reference lends no support to 
+
+
+petitioner’s contention that FAA § 4 language or case law 
+governs this contract. 
+
+
+Champ is also inapposite because it addresses only the 
+authority of a federal district court to order class arbitration, 
+and not the authority of an arbitrator to proceed on a class 
+basis if he so chooses, as Judge Ervin did here. Under the 
+logic of Champ, a district court not only lacks power to order 
+class arbitration, but equally lacks the power to enjoin it, thus 
+leaving the matter to the arbitrator. In this case, the 
+arbitrator’s own decision to proceed on a class-wide basis 
+moots any question here regarding whether the FAA would 
+preempt a state trial court’s order directing class arbitration. 
+
+
+Petitioner argues that the trial court’s certification of a 
+class in Bazzle before sending the case to arbitration “infected 
+the arbitrations.” Pet. Br. 34-35. That is not the case. The 
+arbitrator exercised his authority to proceed with class 
+arbitration in both the Bazzle and Lackey cases. In Lackey, 
+the arbitrator decided the class certification question and the 
+trial court subsequently affirmed the decision, whereas in 
+Bazzle, the court made an initial class certification order 
+before the case was referred to the arbitrator. After Bazzle 
+was shifted to the arbitral forum, however, and Green Tree 
+moved to decertify the class, the arbitrator made a de novo 
+determination that “a class action should proceed in arbitra- 
+tion” based on his own “careful review of the broadly drafted 
+arbitration clause prepared by Green Tree.” Pet. App. 84a. 
+He independently “found that the requirements for class 
+certification were met and that class certification was appro- 
+priate,” id. at 86a, and did not even cite the state trial court’s 
+class certification decision. Further, he exercised his discre- 
+
+
+*? The parties’ contemplation was, until recently, potentially relevant to 
+the question whether even Section 2 of the FAA was applicable to any 
+particular state-court case. See Allied-Bruce, 513 U.S. at 269. 
+
+
+44 
+
+
+tion to reconfigure the Bazzle and Lackey classes so that each 
+class dealt with only one type of transaction, and he excluded 
+out-of-state transactions and opt-outs from the classes.”° 
+
+
+In both cases, the Arbitrator’s decision to proceed on a 
+class-wide basis was just the kind of discretionary, procedural 
+decision that, in the absence of contrary state-law or 
+contractual directive, rests in an arbitrators’ sole discretion. 
+There is no reason in either Bazzle or Lackey to conclude that 
+the arbitrator failed to appreciate that the decision was his to 
+make. The fact that the arbitrator and the court agreed on the 
+appropriateness of class certification is wholly unsurprising, 
+given that the case was such an obvious candidate for class 
+treatment. In any event, Green Tree’s objection has never 
+been that the wrong decision maker approved class arbitration 
+here, but rather that its Agreement foreclosed class arbitration 
+altogether. After all, if the error were that the court made a 
+decision that-should have been for the arbitrator, the remedy 
+for resulting prejudice (had there been any) would have been 
+to vacate and remand to the arbitrator, see Garvey, 532 U.S. 
+at 510, a remedy that petitioner never sought here, could not 
+
+
+> When respondents urged the trial court to affirm the arbitrator's 
+award to the class in Lackey, they did emphasize that the court had itself 
+earlier approved class certification in identical circumstances in Bazzle. 
+Petitioner contends (Pet. Br. 37) that respondents are thereby estopped 
+from now claiming that the arbitrator's decision in Lackey was 
+independent of the judge’s certification decision in Bazzle. Respondents 
+never argued, however, that the arbitrator was bound by the trial court’s 
+order. The arbitrator's own opinion, which thoroughly considers the 
+relevant Rule 23 factors and does not mention Bazz/e, speaks for itself. 
+Moreover, the Bazz/e court’s certification of the class (like the court’s 
+approval of the class certification in Lackey) is a strength, not a weakness, 
+in respondents’ case. Even were this court to view the class certification 
+question as one for the court and not the arbitrator, see generally First 
+Options of Chicago, Inc. v. Kaplan, 514 U.S. 938 (1995), that conclusion 
+would not affect the outcome in this case because both decision makers 
+were in agreement on the matter. 
+
+
+— 
+
+
+45 
+
+
+now seek, and in any event does not want. What petitioner 
+urges is that no decision maker could have ordered class 
+arbitration here. 
+
+
+Finally, even if it applied here, Champ’s reasoning is no 
+more persuasive than  petitioner’s erroneous  contract- 
+language argument. The court in Champ found in § 4's 
+requirement that district courts order arbitration “in accor- 
+dance with the terms of the agreement” a negative implication 
+that, where the parties “did not include in their agreement an 
+express term providing for class arbitration,” the district court 
+could not order such proceedings. 55 F.3d at 276. That logic 
+is flawed for the same reason that petitioner’s contention that 
+its agreement, which did not mention class arbitration, 
+thereby prohibited it. See Point II, infra. The reference in § 4 
+to enforcement of the agreement “in accordance with [its] 
+terms,” like the similar language in this Court’s § 2 cases, 
+refers to enforcement of arbitration agreements on the same 
+terms as other contracts, not a special rule requiring that all 
+arbitrators’ authorities be spelled out.” 
+
+
+In sum, the FAA, which says nothing whatsoever about 
+class actions in state proceedings, simply does not speak to 
+the threshold procedures through which state courts refer 
+cases to arbitration, let alone the procedures that arbitrators 
+in state cases should use once cases are referred to them. 
+This Court in Southland let stand a California Supreme Court 
+
+
+4 Champ also considered whether the FAA's silence on class pro- 
+ceedings permits federal courts to rely on Fed. R. Civ. P. 23 to certify 
+classes for arbitration. 55 F.3d at 276. Federal Rule of Civil Procedure 
+81(aX(3) expressly makes the Federal Rules applicable to FAA 
+proceedings “to the extent that matters of procedure are not provided for” 
+in the FAA. Champ found no authority in Rule 81(a)(3) for a district 
+court to certify a class for arbitration, however, because that rule “only 
+applies to judicial proceedings under the FAA, 55 F.3d at 276, whereas 
+class certification affects the ensuing arbitration. That reasoning, too, 
+rests on procedural provisions applicable only in federal court. 
+
+
+46 
+
+
+decision to permit class-wide arbitration because Southland 
+had not raised and the state courts had not passed on the 
+question whether the state law was preempted by the FAA. 
+465 U.S. at 8-9. Petitioner here purports to assert the federal 
+ground that was lacking in Southland. We have shown that 
+there is no such preemptive force to the FAA.”° 
+
+
+B. Congress Acted Reasonably in Not Blocking 
+Class Arbitration 
+
+
+Seeking to erect a conflict where there is none on the face 
+of the statute, petitioner characterizes class arbitration as “‘a 
+bizarre and dangerous hybrid,” and suggests that the FAA 
+
+
+°° Strong concerns about whether Southland was correctly decided 
+counsel, at a minimum, against any expansion here of the FAA's 
+preemptive scope. In Southland, Justices O'Connor and Rehnquist would 
+have held that FAA § 2 does not apply in state court. 465 U.S. at 24 
+(O'Connor, J., joined by Rehnquist, J., dissenting). Justice Stevens in 
+Southland would have found no preemption of the state law excluding 
+wage claims from arbitration, 465 U.S. at 17-21 (concurring in part and 
+dissenting in part), and in his dissent in Perry, he characterized Southland 
+as having “rewritten the statute to give it a pre-emptive scope that 
+Congress certainly did not intend,” 482 U.S. at 493 (Stevens, J., 
+dissenting). See, id. at 494-495 (O'Connor, J. dissenting). In Allied- 
+Bruce, Justices Scalia and Thomas would have held that the FAA does not 
+apply in state courts, 513 U.S. at 284 (Scalia, J., dissenting); id. at 285-97 
+(Thomas, J., joined by Scalia, J., dissenting), whereas Justice O’Connor 
+acquiesced on stare decisis grounds in the majority's decision to uphold 
+Southland even while she thought is was “wrong” and “continue[d] to 
+believe that Congress never intended the Federal Arbitration Act to apply 
+in state courts,” 513 U.S. at 283 (O'Connor, J., concurring). See generally 
+Brief of Law Professors as Amici Curiae in Support of Respondents 
+(setting forth arguments in favor of overruling Southland). 
+
+
+Because the judgment in this case is clearly correct even under 
+Southland, we do not believe that the Court need decide here whether to 
+overrule that decision, but if there were any conflict between Southland 
+and the decision of the South Carolina Supreme Court, Southland should 
+yield. See Brief of Law Professors as Amici Curiae in Support of 
+Respondents. 
+
+
+47 
+
+
+thus should be construed to have preempted states from 
+allowing such procedures absent express authorization in the 
+arbitration agreement. Pet. Br. 41. In particular, petitioner 
+and its amici raise the specter of due process concerns related 
+to class arbitration. Those issues are not before this Court, 
+where the question presented is limited to the statutory 
+preemption issue. There is no basis in the record for any 
+claim of due process violation, petitioner waived any such 
+claim, Pet. App. 25a, and it is not at all clear, given Green 
+Tree’s bankruptcy, that petitioner would have standing to 
+invoke the due process rights of class members. 
+
+
+Unnamed class members’ due process rights were carefully 
+preserved in these cases by the arbitrator’s adherence to the 
+best class action procedural protocols, including careful 
+definition of the classes and the first-class mailing to each 
+individual class member of a fully informative notice of opt- 
+out rights.°° See Shutts, 472 U.S. at 811 (describing 
+
+
+*° The arbitrator approved the notice of the class arbitration that class 
+counsel mailed to each class member. J.A. 17-23. The notice specified 
+that the case was in arbitration, and was signed by the arbitrator. It stated 
+in capital letters at the outset: “PLEASE READ THIS NOTICE 
+CAREFULLY AND IN ITS ENTIRETY. YOUR RIGHTS WILL BE 
+AFFECTED BY PROCEEDINGS IN THIS LITIGATION.” J.A. 17. The 
+notice described the claims, the contours of the class, and the status of the 
+case. It outlined class members’ options and their consequences, 
+including that persons opting out would “not be entitled to share in the 
+benefits of any settlement or judgment if it is favorable to the Class,” and 
+would “not be bound by the settlement or judgment if it is adverse to the 
+class.” J.A. 19-20. Correspondingly, the notice specified that “[a]ny class 
+member who does not request to be excluded will automatically be 
+included in the Action as members of the Class represented by the Named 
+Plaintiffs,” and be “bound by the orders entered and notices hereafter 
+given in this Action.” J.A. 20 (emphasis in original). The Notice alerted 
+class members of their right to enter an appearance through an attorney of 
+their choice, and stated that if they chose not to do so they would be 
+represented by class counsel, whose names and addresses were listed. 
+
+
+48 
+
+
+constitutionally adequate notice). Even if this Court found 
+such concerns relevant to the FAA preemption question 
+presented, there is no reason to think that states and state 
+arbitrators cannot design workable procedures for facilitating 
+arbitration consistent with due process requirements. Indeed, 
+the process followed in this case refutes such a suggestion. In 
+any event, such matters can and should be litigated on a case- 
+by-case basis, and speculation about due process issues does 
+not warrant reading into the FAA a preemptive rule that 
+Congress did not adopt. 
+
+
+Petitioner relatedly contends that class arbitration should 
+be barred because it “cannot bind the non-representative class 
+members.” Pet. Br. 45. That is not the case. The unnamed 
+class members here, each of whom signed the same 
+arbitration agreement as the class representatives, and each of 
+whom elected not to opt out of the class, are validly subject to 
+the decision by the arbitrator. These facts distinguish this 
+case from EEOC v. Waffle House, 534 U.S. 279 (2002), on 
+which petitioner principally relies. There, the Court correctly 
+noted that agreements to arbitrate cannot bind parties, such as 
+the EEOC in that case, who never agreed to arbitrate at all. 
+Id. at 294. See also First Options 514 U.S. at 946. Here, 
+however, all the unnamed class members did agree to final 
+and binding arbitration on the same terms as did the class 
+representatives, and acquiesced to arbitration before Judge 
+Ervin. There is no reason to believe the final award here has 
+less binding effect on the unnamed class members than any 
+arbitral award has on parties to an arbitration. See, e.g., 
+Waffle House, 534 U.S. at 297 (noting that “ordinary 
+principles of . . . res judicata . . . may apply” to prevent the 
+EEOC from obtaining victim-specific relief for an employee 
+who already obtained relief through arbitration); S.C. Code. 
+
+
+J.A. 21. It listed class counsel's toll-free number and directed class 
+members to call if they had any questions. J.A. 22. 
+
+
+49 
+
+
+Ann. § 15-48-150 (1976 Supp. 2001) (arbitration awards shall 
+be “enforced as any other judgment or decree”); cf FED. R. 
+Civ. P. &(c) (specifying “arbitration and award” as an 
+affirmative defense for pleading purposes). No member of 
+the respondent class has sought relief in any further 
+proceeding beyond what was obtained in this case, and there 
+is no basis to believe that any South Carolina court would 
+honor any such request. 
+
+
+Petitioner’s real concern in opposing class arbitration is not 
+to protect unnamed class members’ procedural rights, but to 
+benefit from their lack of knowledge about their rights and 
+the difficulty of securing counsel in light of the modest sums 
+at issue. Far fewer claimants will ever sue individually in the 
+absence of the ability to proceed as part of a class. It is the 
+potential radically to reduce legal exposure that appeals to 
+petitioner and its amici. Class action rules at the state as well 
+at the federal level, however, serve the entirely valid 
+objective of overcoming obstacles posed by lack of informa- 
+tion or modest claim size in the interests of fuller and more 
+efficient law enforcement.’’ From the perspective of absent 
+class members, class arbitration is not more “complex, 
+expensive and time-consuming” (Pet. Br. 40) than individual 
+arbitration, but, on the contrary, captures efficiencies that 
+
+
+” This Court emphasized that very purpose in Shutts when it held that 
+the Due Process Clause did not require “opt-in” rather than “opt-out” class 
+procedures under the Kansas class action rule. Recognizing that a typical 
+class member might not “file suit individually, nor would he affirmatively 
+request inclusion in the class if such a request were required by the 
+Constitution,” the Court rejected the defendant's argument that due 
+process forecloses “opt-out” classes. 472 U.S. at 813; see Amchem Prods. 
+v. Windsor, 521 U.S. 591, 617 (1997) (“The policy at the very core of the 
+class action mechanism is to overcome the problem that small recoveries 
+do not provide the incentive for any individual to bring a solo action 
+prosecuting his or her rights.”); Deposit Guaranty Nat. Bank v. Roper, 446 
+U.S. 947 (1980). 
+
+
+50 
+
+
+often make the difference for them between some relief 
+and none. 
+
+
+Petitioner does not oppose class arbitration because it 
+believes that there should have been 3,700 individual 
+proceedings instead of one class arbitration. Green Tree and 
+its amici, like other parties with potential exposure to large 
+groups of people, oppose class arbitration in the knowledge 
+that, “because many claims are not viable if brought 
+individually, plaintiffs will often drop or fail to initiate claims 
+once it is clear that class relief is unavailable.” Sternlight, 
+Arbitration Meets the Class Action, 42 Wm. & Mary L. Rev. 
+1, 8 (2000). Nor is petitioner insisting, as does federal 
+securities regulation, that rights to pursue class-wide relief in 
+court must be preserved notwithstanding agreements to 
+arbitrate.* Instead, petitioner and its amici “hope they have 
+found a surreptitious way to defeat the feared class action,” 
+id. at 5, by establishing a rule that standard-form arbitration 
+contracts that do not expressly provide for class treatment 
+implicitly waive any right to bring class claims. To that end, 
+petitioner urges this Court to displace South Carolina law 
+with a federal rule that would presumptively disfavor 
+arbitration of class claims. It is petitioner’s proposal, not the 
+decision below, that is hostile to arbitration. Petitioner has 
+pointed to no evidence that Congress even sought to regulate 
+state law on arbitral procedures, much less that it sought to 
+bar class actions where state law permits them on a non- 
+discriminatory basis in litigation and arbitration. 
+
+
+CONCLUSION 
+
+
+The judgment of the South Carolina Supreme Court should 
+be affirmed. 
+
+
+** See NASD Code of Arbitration Procedure, § 10301(d)(3), (pro- 
+hibiting arbitration of class claims even where putatively covered by 
+arbitration agreement in favor of litigation all such claims). 
+
+
+———— el Al Ai i a, — a. 
+
+
+MARY LEIGH ARNOLD 
+MARY LEIGH ARNOLD, P.A. 
+P.O. Box 265 
+
+Mt. Pleasant, SC 29465 
+
+
+STEVEN W. HAMM 
+RICHARDSON, PLOWDEN, 
+
+
+CARPENTER & ROBINSON, P.A. 
+
+
+P.O. Drawer 7788 
+Columbia, SC 29202 
+
+
+BRADFORD P. SIMPSON 
+D. MICHAEL KELLY 
+B. RANDALL DONG 
+
+
+SUGGS & KELLY LAWYERS, P.A. 
+
+
+P.O. Box 8113 
+COLUMBIA, SC 29202-0008 
+
+
+T. ALEXANDER BEARD 
+BEARD LAW FIRM 
+1002 ANNA KNAPP BLVD 
+
+
+Respectfully submitted, 
+
+
+CORNELIA T.L. PILLARD 
+
+Counsel of Record 
+
+GEORGETOWN UNIVERSITY 
+LAW CENTER 
+
+600 New Jersey Ave, NW 
+
+Washington, D.C. 20001 
+
+(202) 662-9391 
+
+
+CHARLES L.A. TERRENI 
+P.O. Box 11904 
+COLUMBIA, SC 29211 
+
+
+DANIEL WEBSTER WILLIAMS 
+BEDINGFIELD & WILLIAMS 
+P.O. Box 616 
+
+BARNWELL, SC 29812 
+
+
+CHARLES RICHARD KELLY 
+C. RICHARD KELLY, PA 
+POsT OFFICE BOX 11648 
+
+
+MT. PLEASANT, SC 29464 COLUMBIA, SC 29211 
+CHARLES L. DIBBLE peo —— FRYAR 
+DipBLe LAW OFFICES wo arms 
+P.O. DRAWER 1240 COLUMBIA, 
+COLUMBIA, SC 29202 
+
+Counsel for Respondents 
+March 27, 2003 
+
+

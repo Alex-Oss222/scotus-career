@@ -1,0 +1,27 @@
+Source: https://www.law.cornell.edu/supct/html/01-1757.ZS.html
+
+STOGNER V. CALIFORNIA
+LII
+Supreme Court
+STOGNER V. CALIFORNIA (01-1757)
+93 Cal. App. 4th 1229, 114 Cal. Rptr. 2d 37, reversed.
+Syllabus
+Opinion
+[ Breyer ]Dissent
+[ Kennedy ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+STOGNER v. CALIFORNIA
+CERTIORARI TO THE COURT OF APPEAL OF CALIFORNIA, FIRST APPELLATE DISTRICT
+No. 01—1757.  Argued March 31, 2003–Decided June 26, 2003
+In 1993, California enacted a new criminal statute of limitations permitting prosecution for sex-related child abuse where the prior limitations period has expired if, inter alia, the prosecution is begun within one year of a victim’s report to police.  A subsequently added provision makes clear that this law revives causes of action barred by prior limitations statutes.  In 1998, petitioner Stogner was indicted for sex-related child abuse committed between 1955 and 1973.  At the time those crimes were allegedly committed, the limitations period was three years.  Stogner moved to dismiss the complaint on the ground that the Ex Post Facto Clause forbids revival of a previously time-barred prosecution.  The trial court agreed, but the California Court of Appeal reversed.  The trial court denied Stogner’s subsequent dismissal motion, in which he argued that his prosecution violated the Ex Post Facto and Due Process Clauses.  The Court of Appeal affirmed.
+Held: A law enacted after expiration of a previously applicable limitations period violates the Ex Post Facto Clause when it is applied to revive a previously time-barred prosecution.  California’s law extends the time in which prosecution is allowed, authorizes prosecutions that the passage of time has previously barred, and was enacted after prior limitations periods for Stogner’s alleged offenses had expired.  Such features produce the kind of retroactivity that the Constitution forbids.  First, the law threatens the kinds of harm that the Clause seeks to avoid, for the Clause protects liberty by preventing governments from enacting statutes with “manifestly unjust and oppressive” retroactive effects.  Calder v. Bull, 3 Dall. 386, 391.  Second, the law falls literally within the categorical descriptions of ex post facto laws that Justice Chase set forth more than 200 years ago in Calder v. Bull, which this Court has recognized as an authoritative account of the Clause’s scope, Collins v. Youngblood, 497 U.S. 37, 46.  It falls within the second category, which Justice Chase understood to include a new law that inflicts punishments where the party was not, by law, liable to any punishment.  Third, numerous legislators, courts, and commentators have long believed it well settled that the Clause forbids resurrection of a time-barred prosecution.  The Reconstruction Congress of 1867 rejected a bill that would have revived time-barred treason prosecutions against Jefferson Davis and others, passing instead a law extending unexpired limitations periods.  Roughly contemporaneous State Supreme Courts echoed the view that laws reviving time-barred prosecutions are ex post facto.  Even courts that have upheld extensions of unexpired statutes of limitations have consistently distinguished situations where the periods have expired,  often using language that suggests a presumption that reviving time-barred criminal cases is not allowed.  This Court has not previously spoken decisively on this matter.  Neither its recognition that the Fifth Amendment’s privilege against self-incrimination does not apply after the relevant limitations period has expired, Brown v. Walker, 161 U.S. 591, 597—598, nor its holding that a Civil War statute retroactively tolling limitations periods during the war was valid as an exercise of Congress’ war powers, Stewart v. Kahn, 11 Wall. 493, 503—504, dictates the outcome here.  Instead, that outcome is determined by the nature of the harms that the law creates, the fact that the law falls within Justice Chase’s second category, and a long line of authority.  Pp. 3—26.
+93 Cal. App. 4th 1229, 114 Cal. Rptr. 2d 37, reversed.
+Breyer, J., delivered the opinion of the Court, in which Stevens, O’Connor, Souter, and Ginsburg, JJ., joined.  Kennedy, J., filed a dissenting opinion, in which Rehnquist, C. J., and Scalia and Thomas, JJ., joined.

@@ -1,0 +1,2661 @@
+| Siereme Court, US 
+FILED | 
+
+
+YAN 16 os | 
+
+
+In The Supreme Court of the Anited States 
+
+
+MARION REYNOLDS STOGNER, Petitioner 
+vs. 
+
+
+PEOPLE OF THE STATE OF CALIFORNIA, Respondent. 
+
+
+ON WRIT OF CERTIORARI TO THE 
+SUPREME COURT OF CALIFORNIA 
+
+
+BRIEF FOR PETITIONER 
+aS SS ESSE 
+Alternate Defender Office 
+Contra Costa County 
+William W. Veale 
+Chief Assistant Defender 
+Rcberto Najera, (Counsel of Record) 
+Deputy Alternate Defender 
+Elisa Stewart 
+610 Court Street 
+Martinez, CA 94553 
+Telephone: (925) 646-1740 
+
+
+Attorneys for the Petitioner 
+
+
+i 
+
+
+QUESTIONS PRESENTED (Rule 14.1 (a)) 
+
+
+a Did the California Legislature’s abolition of 
+the Statute of Limitations requirement, which 
+historically comprised an element of the crimes charged, 
+so as to charge Petitioner retroactively, violate the Ex 
+Post Facto Clause? 
+
+
+2. Did the California Legislature’s abolition of 
+the Statute of Limitations arbitrarily retract a liberty 
+interest the state had conferred on Petitioner? 
+
+
+iii 
+TABLE OF CONTENTS 
+
+TE 1 
+JURISDICTIONAL STATEMENT.................cccceeeeeeeeeeees l 
+
+CONSTITUTIONAL PROVISIONS AND CALIFORNIA 
+PENAL CODE STATUTES INVOLVED. .....................064: l 
+STATEMENT OF THE CASE .............ccccccccssssccssececeeeees 2 
+SUMMARY OF THE ARGUMENT ....................ccc0eceeeees a 
+A. ST oa rn enenenccemcennctnntmnanensennd 6 
+B ee 6 
+EEE EET OE 7 
+A. a 7 
+EE 9 
+Statute of Limitations as an Operation of Law.....10 
+En ae 20 
+ee 25 
+TT Te nrccnrtsisceennncntcnnedpenecenenesscenconsscsees 29 
+a 30 
+B. EE 31 
+Fundamental Right of Liberty....... pesnaitioudincsinasesenese 33 
+ST cecctcnieenecesnsssunenseseccesonee sitdinentniinenmnnte 35 
+TT 37 
+The Substantive Nature of the Right.................. 40 
+
+
+TABLE OF AUTHORITIES 
+Cases 
+Adams v. Woods, 6 U.S. 336 (1805).............. 38, 46, 49 
+Atlantic Coast Line R.R. Co. v. City of Goldsboro, 232 
+Set WUE crrcccnrprecinemibcmenenseubesmnintensrenianisermmeuaigueee 36 
+Barker v. Municipal Court, 64 Cal.2d 806 (1966)....... 46 
+Blackburn v. Superior Court, 21 Cal.App.4th 414 
+I ateciiintaipepiednguhtpoatianeinennneimannianineaenseneees 39, 49 
+Board of Pardons v. Allen, 482 U.S. 369 ...............06. 33 
+Board of Regents v. Roth, 408 U.S. 564 .................6. 33 
+Bradley v. School Bd. of Richmond, 416 U.S. 696, 711 
+IEA cngninagsincnipcnsntanimecnennvetintenmiailadtensbessibantuees 45 
+Brown v. Walker, 161 U.S. 591, 597 (1896)........ 35, 49 
+Calder v. Bull, 3 U.S. 386 (1798) ................ 8, 9, 25, 32 
+Campbell v. Holt, 115 U.S. 620 (1885....................64. 48 
+Carlo v. City of Chino, 105 F.3d 493 ............ccccceccceees 34 
+Carmell v. Texas, 529 U.S. 513 (2000).....3, 31, 40, 42, 
+43 
+Chambers v. Gallagher, 177 Cal. 704 (1918)....... 16, 27 
+Chase Secs. Corp v. Donaldson, 325 U.S. 304 (1945)48 
+Collins v. Youngblood, 497 U.S. 37 (1990) ......... passim 
+Cummings v. Missouri, 71 U.S. 277 ............0++ 7, 13, 27 
+Daniels v. Williams, 474 U.S. 327, 331 (1986) .......... 50 
+Dash v. Van Kleeck, 7 Johns. 477 (1811).................. 40 
+Ex Parte Garland, 1 U.S. 333 (1866).....................000 13 
+Ex Parte Louis Cohen, 104 Cal. 524 (1894) ......... 38, 49 
+Ex Parte Vice, 5 Cal.App. 153 (1907) ...............cceseeee 41 
+Falter v. United States, 23 F.2d 420 (1928)............... 49 
+Fletcher v. Peck, 10 U.S. 87 ...........cccssccsecseeees 7, 32, 36 
+Foucha v. Louisiana, 504 U.S. 71 (1992)....... 32, 33, 50 
+Griswold v. Connecticut, 381 U.S. 479 .........c.cccceeeeees 36 
+Guaranty Trust Co. of New York v. York, 326 U.S. 99 
+ee 48 
+Hale v. Henkel, 201 U.S. 43 (1906)...................+. 38, 49 
+Hart Moore v. State, 43 N.J.L. 203 (1881)........... 39, 42 
+Hicks v. Oklahoma, 447 U.S. 343 (1980). ................. 48 
+
+
+TT EN 48 
+
+
+vi 
+
+
+In re Gustavo M., 214 Cal.App.3d 1485 (1989).......... 44 
+In re Medly, 134 U.S. 160...........cccccceccsceeeeeeeeeeeeeeeeees 26 
+In re Melvin J., 81 Cal.App.4 742 (2000)................. 31 
+In re Winsheip, 997 U.S. SSG.............cccccccsresccessccsscesees 19 
+Ingraham v. Wright, 430 U.S. 651 (1977)............ 32, 33 
+Int’l Shoe Co. v. Washington, 326 U.S. 310 (1945) ....43 
+James v. United States, 366 U.S. 213 (1961)............ 22 
+Kring v. Missouri, 107 U.S. 221 (1883)....16, 17, 18, 19 
+Landgraf v. USI Film Prods., 511 U.S. 244 .........0200++ 46 
+Lynce v. Mathis, 519 U.S. 433 ..........ccccccseeeseeeeees 12, 29 
+Lynch v. Superior Court, 33 Cal.App.4" 1223 (1985) .45 
+Malloy v. South Carolina, 237 U.S. 180...........:cccceeeeees 7 
+Mapp v. Ohio, 367 U.S. 643 ........::ccccceeesseeseeeeseeeeeeeees 46 
+Marks v. United States, 430 U.S. 188 (1997)............. 46 
+McComb v. Superior Court, 68 Cal.App.3d 89............ 14 
+McMillan v. Pennsylvania, 477 U.S. 79 (1986) ...<...... 43 
+Means v. Cheyenne Tribal Court, 154 F.3d 941...14, 29 
+Medina v. California, 505 U.S. 437 (1992) ................ 44 
+Miller v. Florida, 482 U.S. 423 ............c.ccceeeeee 7,12,15 
+Montana v. Egelhoff, 518 U.S. 37 (1956)....... 42, 43, 44 
+Moore v. State, 43 N.J.L. 203 (1881) .............cccccceeeees 36 
+Olmstead v. United States, 277 U.S. 438 (1928)........ 47 
+
+
+Pendergast v. United States, 317 U.S. 412 (1942) ....38, 
+49 
+
+
+People v. Asavis, 27 Cal.App.2d 685 (1948).............. 41 
+People v. Ayhens, 85 Cal. 86 (1890)...............cscceeeeees 41 
+People v. Chadd 28 Cal.3d 739 (1981)............ 4, 14, 37 
+People v. Crosby, 58 Cal.2d 713 (1962)............... 14, 40 
+People v. Crutcher, 262 Cal.App.2d 750.............0000+ 14 
+People v. Cunningham, 99 Cal.App.2d 296 (1950).....41 
+People v. Doctor, 257 Cal.App.2d 105 (1967).25, 27, 41 
+People v. Eitzen, 43 Cel.App.3d 253 (1974)............... 45 
+People v. Frazer, 21 Cal.4 737 (1999) .............. passim 
+People v. Haskins 177 Cal.App.2d 84, 87 (1960)....... 45 
+Peopie v. Hoffman, 132 Cal.App. 60 (1933)....5, 41, 42, 
+de 
+People v. James 85 Cal. 86 (1890) ............cccccseeeeeeeees 41 
+People v. Le, 82 Cal.App.4® 1352 (2000) ...... 20, 24, 44 
+People v. McGee, 1 Cal.2d 611 (1934)................ passim 
+
+
+vii 
+
+People v. McNulty, 93 Cal. 427 (1892.............cccccseeees 14 
+People v. Miller, 12 Cal. 291 (1859)......... 20, 29, 37, 41 
+People v. Mower, 28 Cal.4% 4570000000... cccccccececeeeeceeee 24 
+People v. Quartermain, 16 Cal.4% 600, (1997)........... 46 
+People v. Rehman, 62 Cal.2d 135 ..............ccccceee. 11,15 
+People v. Snipe, 25 Cal.App.3d 742 (1972)................ 44 
+People v. Stogner, A084772 (Cal.App. October 14, 
+
+Ea ccdnseacedgndcereenccntbidnnsaneentecbessenssendicteccenenseoes 2,22 
+People v. Williams, 21 Cal.4% 335 (1999)........... passim 
+People v. Zamora, 18 Cal. 3d 538, 547 (1976)....passim 
+EB gE ee 34 
+Pointer v. Texas, 380 U.S. 400..........cccccceccsccssseccsevese 36 
+Rabe v. Washington, 405 U.S. 313 (1972)................. 46 
+Raley v. Ohio (1959) 360 U.S. 423 ..............ccccceeeeeeees 47 
+Reno v. Flores, 507 U.S. 292 (1993)................006 32, 33 
+Rivers v. Roadway Express, Inc., 511 U.S. 298 (1974) 
+
+puadabscnddupentemessatnapesentaiconaesegsocnsensstansscesuneensesnenceseaes 45 
+Rochin v. California, 342 U.S. 165, 172 (1952).......... 49 
+Sandin v. Connor, 515 U.S. 472.........ccccccccceeeceseeceeees 33 
+Serna v. Superior Court, 40 Cal.3d 239 (1985).......... 41 
+Sobiek v Superior Court, 28 Cal.App.3d 846 (1972) ..45 
+State v. Cookman, 127 Or.App. 283 (1994)......... 42, 47 
+State v. Dufort, 111 Or.App. 515 (1992).................... 47 
+State v. Hodgson, 108 Wash.2d 662 (1987) .............. 47 
+State v. Keith, 63 N.C. 140 (1869).................ccccceceeees 13 
+State v. Sneed, 25 Tex.Supp. 66 (1860).............. 19, 42 
+
+
+Stogner v. California, No. 99-8895 (October 2, 2000) ..2 
+Stogner v. Superior Court, 93 Cal.App.4* 1229 (2001) .. 
+3, 26 
+
+
+Teague v. Lane 489 U.S. 288 (1989) ................ccccc0ee 45 
+Texaco Inc. v. Short, 454 U.S. 516 ........ccccccccccceceeeeees 32 
+United States v. Enas,.255 F.3d 662 (9% Cir. 2001) ..29 
+United States v. Hall, 26 F.Cas. 84 .........ccccccccccceeeeees 20 
+United States v. Lanier, 520 U.S. 259 (1997) ............ 47 
+
+
+United States v. Salerno, 481 U.S. 739 (1987)....32, 33, 
+50 
+
+United States v. Schooner Peggy, 5 U.S. 103............. 18 
+
+United States v. Irvine, 98 U.S. 450 (1878)................ 46 
+
+Vitek v. Jones, 445 U.S. 480.0000... ..cccccccccceccececeeececeees 34 
+
+
+viii 
+Washington v. Glucksberg, 521 U.S. 702 ...............005 32 
+Washington v. Texas, 388 U.S. 14, 25 (1967) ........... 43 
+Weaver v. Graham, 450 U.S. 24 .........c.ccccceeeee 7, 12,40 
+William Danzer & Co. v. Gulf & S.LR., Co., 268 U.S. 
+FUP CS IIEEEED vocrcccccccnncnepannssetapessaevecnecnecntdccsincsecceseiedi 48 
+Wolff v. McDonnell, 418 U.S. 539 ...........ccccceseeeeeeeeeeee 34 
+People v. Zamora, 18 Cal.3d ...............00.06 4, 20, 41, 42 
+Zinermon v. Burch, 494 U.S. 113 (1990) ................... 50 
+Statutes 
+Cal. Penal Code section 803(g) (West 1985 & Supp. 
+SIE covesenccnopeecspespsccconesoaneninoseosepcsonncconsctboosenl passim 
+Cal. Penal Code section 805.5.................... 3, 5, 40, 45 
+
+
+Cal. Pen. Code section 1000 (West 1985 & Supp. 2002 
+
+
+Cal. Pen. Code section 800 (West 1985 & Supp. 2002) ~ 
+
+
+POE AEP SE RNS OT Sat AREF EWEN Ss: EDT UMEe SON NUS NEON Ee Mem 1,4 
+Cal. Penal Code section 15 (West 1999).................... 14 
+Cal. Penal Code section 955 ..........ccccccccccccccccccsescscees 24 
+Cal. Penal Code section 288(a) (West 1999)...... 1, 2, 48 
+Other Authorities 
+CALJIC No. 2.72 (6% ed. 1996) ..............ccceeceeeeeeeeeeees 23 
+CALJIC No. 2.91 (6% ed. 1996.) 00.0.0... eeeeeeeeseeeeees 23 
+1 William Blackstone, Commentaries. .......................+ i) 
+3 Commentaries on the Constitution of the United 
+
+ED cccsundseiccsencctictanitabiiinbihabtiachecatsindssaicccndiiiassdedl 26 
+Black’s Law Dictionary (7th ed. 1999)................ 21, 26 
+Chamberlain, The Doctrine of Stare Decisis: Its 
+
+Reasons and Its Extent (1885)...............c..ceeseeeeeeees 45 
+Webster’s New Collegiate Dictionary (7th 1974)........ 26 
+Constitutional Provisions 
+Sieh Gene, AUIS JETEID is ccinninanisailicentansscanddnsaiameuuaienia 1 
+See GEE GS Bias TE ccciccsceiietiesieatasaccennssoctnisednenindain 7 
+oF t- 88 RO OF OR Re nae sae | 
+Ses Ges A ts Ut Wo ePrccnccidedebctbeddtenebnncensdocisenadansunntie 7 
+
+
+— 
+
+
+1 
+
+
+OPINION BELOW (Rule 14.1(d)) 
+
+The opinion of the California Court of Appeal, 
+First Appellate District, which is the subject of this 
+petition, was reported at 93 Cal.App.4th 1229 (2001). It 
+appears in Appendix G. The California Supreme Court’s 
+order of February 27, 2002, denying discretionary review 
+is attached as Appendix I. There is no written decision 
+of the respondent Superior Court. 
+
+
+JURISDICTIONAL STATEMENT 
+
+The judgment of the California Court of Appeal to 
+be reviewed was filed on November 21, 2001. (App. G, 
+19.) The California Supreme Court denied discretionary 
+review on February 27, 2002. (App. I, 37.) The petition 
+was filed pursuant to Rule 13.1 within 90 days of that 
+date and was subsequently granted on December 2, 
+2002. Petitioner invokes this Court’s jurisdiction under 
+28 U.S.C. § 1257(a). 
+
+
+CONSTITUTIONAL PROVISIONS AND CALIFORNIA 
+PENAL CODE STATUTES INVOLVED 
+The United States Constitution, Article I, section 
+10, clause 1, provides: “No State shall ... pass any ... Ex 
+Post Facto Law...” (U.S. CONST. Art. I, § 10, cl. 1). 
+
+
+The United States Constitution, Amendment XIV, 
+states: “No State shall ... deprive any person of life, 
+
+
+liberty, or property, with out due process of law...” (U.S. 
+Const. Amend. XIV). 
+
+
+Penal Code Section 288(a). (CAL. PEN. CODE § 
+288(a) (West 1999) (App. J, 38). 
+
+
+Penal Code Section 800. (CAL. PEN. CODE § 800 
+(West 1985 & Supp. 2002) (App. K, 39). 
+
+
+Penal Code Section 803(g). (CAL. PEN. CODE § 
+803(g) (West 1985 & Supp. 2002) (App. L, 40). - 
+
+
+STATEMENT OF THE CASE 
+
+In April 1998, a complaint was filed charging 
+Petitioner with two counts of a lewd act upon a child 
+under California Penal Code section 288(a), (App. J, 38), 
+alleged to have been committed 25 to 43 years earlier. 
+(App. A, 1.) The complaint acknowledged on its face that 
+the limitations period for the offenses had expired, but 
+alleged that the charges could be prosecuted pursuant 
+to Penal Code section 803(g) (App. L, 40.)! 
+
+
+Petitioner successfully demurred to the complaint 
+on the ground, inte alia, that section 803(g) constituted 
+an ex post facto law. The district attorney moved, 
+unsuccessfully, in superior court to reinstate the 
+complaint. On the State’s appeal?, the California 
+Appeals Court reversed pursuant to the California 
+Supreme Court's holding in People v. Frazer, 21 Cal.4th 
+737 (1999), that Penal Code section 803(g) was not 
+unconstitutional. People v. Stogner, No. A084772 
+(Cal.App. Oct. 4, 1999). (App. B, 5.) 
+
+
+This Court denied discretionary review. Stogner 
+v. California, No. 99-8895 (Oct. 2, 2000) (App. C, 9.) 
+However, at the time of the denial, no California court 
+had adjudicated Petitioner’s 805.5% claim, nor had they 
+
+
+! Effective January 1, 1994, section 803(g) created a new one year 
+
+limitations period for certain sex offenses, following a report to a 
+
+law enforcement agency by a person of any age that he or she has 
+
+been the victim of sexual misconduct while under the age of 18. It 
+
+applies only to such causes of action already barred by Limitation. 
+
+2 The original demurrer raised the Statutory bar under Penal Code 
+
+805.5, but it was not litigated under the State’s Appeal. 
+
+3 Penal Code Section 805.5 provides: 
+
+(a) As used in “his section, “operative date” means January 1, 
+1985. 
+
+(b) Except as provided in subdivision (c}, this chapter applies to 
+an offense that was committed before, on, or after the 
+operative date. 
+
+
+eatin aad 
+
+
+3 
+
+
+evaluated his Constitutional claims in light of Carmell v. 
+Texas, 529 U.S. 513 (2000). 
+
+
+The complaint was reinstated in superior court 
+but subsequently dismissed when the prosecutor filed 
+an indictment. (App. B, 5.) That indictment, filed 
+March 14, 2001, again charges Petitioner with two 
+counts of molestation as against Jane Doe I and Jane 
+Doe II, alleging conduct between 1955 and 1964 and 
+between 1964 and 1973, respectively. (App. D, 10.) 
+Again the indictment alleged that the charges could be 
+prosecuted under section 803(g). 
+
+
+Petitioner demurred, asserting that no cause of 
+action was stated, and the court lacked jurisdiction. 
+The demurrer raised ex post facto and due process 
+violations, and alleged that section 805.5 barred 
+application of section 803(g). (App. E, 14.) Upon denial 
+of the demurrer, Petitioner filed a writ of prohibition. 
+The Court of Appeals granted an Alternate Writ on the 
+grounds that Petitioner had no other adequate remedy 
+at law, but in it’s published opinion ultimately riled 
+against hir.. (App. F, 15); see also Stogner v. Superior 
+Court, 93 Cal.App.4th 1229 (2001) (App. A, 1.) Arequest 
+for rehearing was denied. (App. H, 36.) The California 
+Supreme Court denied discretionary review. (App. I, 37.) 
+
+
+(c) This chapter does not apply, and the law applicable before the. 
+operative date does apply, to an offense that was committed 
+before the operative date, if: 
+
+(1) Prosecution for the offense would be barred on the 
+operative date by the limitation of time applicable before 
+the operative date. 
+
+(2) Prosecution for the offense was commenced before the 
+operative date. 
+
+(CaL. Pen. Cope § 805.5) (West 1985 & Supp. 2002) 
+
+
+4 
+
+
+SUMMARY OF THE ARGUMENT 
+(Rules 10, 14.1 (h)) 
+
+The State’s retroactive actions violate the Ex Post 
+Facto and Due Process Clauses and all sense of fairness 
+and finality contained therein. The State’s claim of 
+power to legislate retroactively is against the nature of 
+criminal Statutes of Limitations. In California the 
+Statute is a basic and required element and ingredient of 
+the prosecution’s case. The State circumvents its 
+inability to overcome the law by altering it after the fact. 
+The California courts, through their decisions in Frazer 
+and Stogner have upheld these laws in a manner which 
+retroactively vests jurisdiction, cedes power to the State 
+to Prosecute, forfeits Petitioner’s rights and creates a 
+new cause of action to punish Petitioner. 
+
+
+California has created, through its enactment of 
+Statutes of Limitation, a tripartite right of absolute 
+finality in Petitioner’s favor. Where applicable‘ this rule 
+confers a substantive nght upon the people. See People 
+v. Williams, 21 Cal.4th 335, 339 (1999); People v. Chadd, 
+28 Cal.3d 739, 758 (1981); People v. Zamora, 18 Cal.3d 
+538, 547 (1976). It places an absolute limit on the 
+State’s ability to prosecute by terminating liability and 
+denies punishment. Zamora, 18 Cal.3d at 547. It bars 
+California’s courts from exercising fundamental 
+jurisdiction over the subject and the subject matter. See 
+People v. Williams, 21 Cal.4th 335, 340, 347 (1999); 
+People v. McGee, 1 Cal.2d 611, 613 {1934). 
+
+
+Although California created this rule, it now seeks 
+to destroy it. California seeks to retroactively strip 
+Petitioner of this right and inject new elements into an 
+
+
+* People v. Frazer, 21 Cal.4th 737, 777 (1999) (Kennard, J. 
+dissenting). 
+
+5 California has created Limitations Statutes for most, but not all 
+crimes, at all times relevant herein the limitations period was 
+three years; see also CaL. Pen. Cope § 800. (App. K, 39.) 
+
+
+expired cause of action in order to prosecute Petitioner, 
+by Indictment for conduct barred by the Statute of 
+Limitations jor over twenty-five years. 
+
+
+Based on California Penal Code § 803(g), the 
+State claims that the scourge of child molestation 
+legislatively compels and constitutionally permits the 
+retroactive forfeiture of Petitioner’s right consistently 
+ruled not subject to forfeiture. See People v. Williams, 
+21 Cal.4th 335 (1999); People v. McGee, 1 Cal.2d 611 
+(1934); People v. Hoffman, 132 Cal.App. 60 (1933); but 
+see People v. Frazer, 21 Cal.4th 737 (1999). It claims 
+the power to destroy a rule of law effectively in place 
+since the State’s foundation. See Frazer at 743. It has 
+rewritten its own rules® to retroactively cast out 
+Petitioner from legislation designed through Penal Code 
+section 805.5 to specifically reaffirm his particular right. 
+
+
+This Writ requests this Court to determine 
+whether rights, so ingrained in American jurisprudence 
+as to be deemed irrevocable, can be retroactively revoked 
+without violating the dictates of the United States 
+Constitution. For if California is successful in depriving 
+Petitioner of this right in this situation, then such right 
+has effectively been destroyed for all persons the States 
+may choose to prosecute, no matter how distant in time 
+and memory the conduct may be. No matter how long 
+the State has promised otherwise. No matter how final 
+the rule has been expressed to be. 
+
+
+It is therefore respectfully requested that the 
+matter be fully and fairly adjudicated under established 
+
+
+6 In 1985 the California Legislature overhauled the entire Statute 
+of Limitations scheme. For crimes barred by the limitations in 
+effect prior te the enactment date of this legislation, the prior 
+Statutes of Limitation were preserved and specifically exempted 
+from the new legislation. The First District Court of Appeal ruled 
+that this exemption was excepted by passage of Penal Code 
+§803(g). (App. G, 19.) 
+
+
+6 
+
+
+principles of due process, ex post facto, fairness and 
+finality that have guided all citizens, the states, and the 
+courts under the United States Constitution. 
+
+
+A. Issue One: Ex Post Facto 
+
+The State has retroactively redefined the material 
+ingredients of the offense, altered the rules of evidence, 
+disregarded the significance of ultimate facts and 
+enlarged the crimes thereunder, seeking punishment 
+where none could be had. Petitioner asserts that he is 
+entitled to rely on the Statute of Limitations, complete 
+since 1976, that California is attempting to revoke 
+retroactively. Petitioner asserts these actions violate 
+each of the Calder categories under the Ex Post Facto 
+Clause. 
+
+
+B. Issue Two: Due Process 
+
+The State attempts to revoke a right, which the 
+State’s Highest Court continues to assert is substantive, 
+belongs to Petitioner, and cannot be forfeited. Petitioner 
+requests that this Court find the State does so in 
+violation of the Due Process Clause. The Fifth and 
+Fourteenth Amendments of the United States 
+Constitution guarantee the principle that no person will 
+be deprived of life, liberty or property without due 
+process of law. Stripping the completed defense of the 
+Statute of Limitations from Petitioner deprives him of a 
+State guaranteed ability to regain his freedom. Having 
+deprived him of the mechanism that compelled the 
+any further, he must still face a trial that California and 
+this Court have agreed ie conclusively and 
+presumptively unfair. See United States v. Marion, 404 
+U.S. 307, 322 (1971); People v. Zamora, 18 Cal.3d 538 
+(1976). 
+
+
+ae 
+
+
+7 - 
+
+
+ARGUMENT 
+
+A. Ex Post Facto 
+
+As a necessary defense against the government, 
+the Framers twice placed the Ex Post Facto Clause in the 
+United States Constitution. So important were its terms 
+that it was necessary to include it as a prohibition not 
+only against the federal government (U.S. CONST. Art. 1, 
+§ 9) but the individual states as well (U.S. CONST. Art.1, 
+§ 10).7 It is an express restraint upon the power of the 
+state and federal legislatures that prohibits arbitrary or 
+vindictive retroactive legislation. See Malloy v. South 
+Carolina, 237 U.S. 180, 183 (1915). It also serves to 
+prevent the lack of fairness and notice inherent in 
+retroactive punitive measures. See Weaver v. Graham, 
+450 U.S. 24, 28-9 (1981)8; Carmell v. Texas, 529 U.S. 
+513, 532-33 (2000); Miller v. Florida, 482 U.S. 423, 429- 
+30 (1987). 
+
+
+7 Chief Justice Marshall traced the restriction upon legislative 
+power to various provisions of the United States Constitution, 
+“Whatever respect might have been felt for the State sovereignties, 
+it is not to be disguised that the framers of the Constitution viewed 
+with some apprehension the violent acts which might grow out of 
+the feelings of the moment; and that the people of the United 
+States, in adopting that instrument, have manifested a 
+determination to shield themselves and their property from the 
+effects of those sudden and strong passions to which men are 
+exposed. The restrictions on the legislative power of the States are 
+obviously founded in this sentiment; and the Constitution of the 
+United States contains what may be deemed a bill of rights for the 
+people of each State.” Cummings v. Missouri, 71 U.S. 277, 322 
+(1866) quoting Fletcher v. Peck, 10 U.S. 87, 138 (1810). 
+
+8 “Critical to relief under the Ex Post Facto Clause is not an 
+individual’s right to less punishment, but the lack of fair notice 
+and governmental restraint when the legislature increases 
+punishment beyond what was prescribed when the crime was 
+consummated. Thus, even if a statute merely alters penal 
+provisions accorded by the grace of the legislature it violates the 
+Clause if it is both retrospective and more onerous...” Weaver, 
+450 U.S. at 30-31. 
+
+
+The seminal case defining the Ex Post Facto 
+Clause, articulated the history and purpose of that term. 
+See Calder v. Bull, 3 U.S. 386 (1798). As Justice Chase 
+stated, “I cannot subscribe to the omnipotence of a State 
+Legislature, or that it is absolute and without control....” 
+Id. at 387-88. Thus the substantial protections of the Ex 
+Post Facto Clause were designed exclusively as 
+“additional bulwark{s] in favour of the personal security 
+of the subject, to protect his person from punishment by 
+legislative acts, having a retrospective operation.” Id. at 
+390. 
+
+
+In reaching its decision, the Calder Court 
+illuminated the types? of retrospective legislative action 
+that would violate the proscription. Id. at 390. Justice 
+Chase in particular articulated four categories that 
+today control determinations of whether retrospective 
+penal legislation is constitutional or not.!° See Carmell, 
+529 U.S. at 522-6. 
+
+
+9 These categories were conceived from experience with the 
+legislative despotism exercised by England, which the Framers 
+sought to negate with the ex post facto restraint on legislative 
+power. See Calder, 3 U.S at 389. 
+
+10 The categories are: 
+
+
+lst Every law that makes an action, done before 
+the passing of the law, and which was innocent 
+when done, criminal; and punishes such action. 
+2nd Every law that aggravates a crime, or makes 
+it greater than it was, when committed. 3rd. Every 
+law that changes the punishment, and inflicts a 
+greater pu:iishment, than the law annexed to the 
+crime, when committed. 4th Every law that alters 
+the legal rules of evidence, and receives less, or 
+different testimony, than the law required at the 
+time of the commission of the offence, in order to 
+convict the offender. 
+
+Calder, 3 U.S. at 390. 
+
+
+In defining the Ex Post Facto Clause, the Calder 
+Court understood that not every retroactive law was 
+impermissible. Id. at 391. Thus the Court approved of 
+subsequent laws that might pardon an offender, or 
+otherwise forgive him. Id. These laws were retrospective 
+and penal, but not impermissible because they 
+ameliorated the consequences for the particular 
+offender. Id. As Justice Chase noted: “There is a great 
+and apparent difference between making an UNLAWFUL 
+act LAWFUL; and making an innocent action criminal 
+and punishing it as a CRIME.” Id. 
+
+
+Rather, “the restriction not to pass any ex post 
+facto law, was to secure the person of the subject from 
+inquiry, or punishment, in consequence of such law.” 
+Calder v. Bull, 3 U.S. 386, 390 (1798). Because 803(g) 
+operates after the fact on events predating it, it is 
+retrospective. Because it seeks only to ensnare and 
+punish those persons who would otherwise be beyond 
+prosecution, it is penal and cannot be seen as 
+ameliorative. It is an ex post facto law, which within the 
+Calder definitions violates the Constitution of the United 
+States. 
+
+
+Calder Category One 
+
+The classic understanding of Calder one occurs 
+“when after an action, indifferent in itself, is committed, 
+the legislator, then, for the first time declares it to have 
+been a crime,.and inflicts a punishment upon the 
+person who has committed it.” Calder, 3 U.S. at 396 
+(Paterson, J., citing 1 William Blackstone, Commentaries 
+*46.) However this is not the only scenario by which an 
+ex post facto law might operate against prior conduct 
+completed before the passage of such laws. The Statute 
+of Limitations’ role analyzed through category one has 
+two separate and distinct functions. First, by the 
+passage of the requisite time, the Statute of Limitations 
+acts as an operation of law to change the legal 
+consequences of certain acts committed beforehand. 
+
+
+10 
+
+
+Such a change in consequences was fixed in law and 
+time prior to the passage of 803(g) and discharged 
+cnminal lability and punishment for the allegations at 
+issue. 
+
+
+Second, once time runs, the Statute of 
+Limitations retains all of its characteristics as a defense 
+to the criminal charges and when asserted defeats the 
+State’s prosecution. If 803(g) retroactively acts upon 
+either of these qualities of the completed bar to the 
+Petitioner’s detriment, it violates ex post facto. 
+
+
+Statute of Limitations as an Operation of Law 
+An act, whether wrongful or not, may not acquire 
+all or even certain legal significance until another act 
+occurs. For clarity’s sake, the initial act will be deemed 
+the primary act and the event following, the secondary 
+act. 
+
+
+Existing law may operate upon a secondary act 
+so as to cause it to change the legal consequences of 
+the primary acts antecedent to it. Thus a secondary 
+act may pardon, grant amnesty, or otherwise divest or 
+lessen the criminality or punishment, which might 
+have attached to the first act alone, if not for the 
+passage of the secondary act. Similarly, the reverse 
+may be true: a secondary act may enlarge the 
+significance of the first, or now cause it to be 
+criminal.'! If the laws controlling both events exist by 
+
+
+‘| The crime of conspiracy is the classic example; requiring not 
+only the primary act (the agreement), but a secondary or “overt 
+act” to make the conduct criminal. “No agreement amounts to a 
+conspiracy unless an overt act be done to effect the object thereof, 
+and the pleading and proof of such an act is necessary to 
+constitute the offense. The overt act marks the commission of the 
+crime and fastens criminal liability upon the conspirators, the 
+period of limitations must be deemed to begin running at that 
+time; and where, as here, the conspiracy as charged is a 
+continuing one, the period begins to run with the commission of 
+
+
+11 
+
+
+the time both acts are completed, then no ex post facto 
+violations occur. It is only where subsequent to the 
+completed acts, a law is passed which seeks to alter 
+their legal significance, that the retrospective 
+legislation, if detrimental to the individual, is ex post 
+facto. }? 
+
+
+The legal significance of 803(g) is that it 
+retroactively operattes after a secondary act that was in 
+place prior to 803/g), and which had, by operation of law 
+already affected tthe primary acts preceding it. In this 
+case, Petitioner's continued presence in California 
+through Septemiber 1976 was the secondary act which 
+
+
+the last overt act alleged. See People v. Crosby, 58 Cal.2d 713, 
+728 (1962). Similarly, Zamora which traced the history of both the 
+California and federal rule noting that it was neither the completed 
+object that made the conspiracy (e.g., the related substantive 
+offense), nor the agreement itself, finding that the requirement of 
+an overt act to provide a “locus penitentiae - an opportunity to 
+reconsider, terminate the agreement, and thereby avoid 
+punishment for the conspiracy.” People v. Zamora, 18 Cal.3d 538, 
+549 n. 8 (1977) (citations omitted.) 
+
+Consider also, manslaughter: “In this state, the law 
+makes the crime of manslaughter a composite one. The striking of 
+the victim does not alone make the crime, nor does the death of 
+the victim without a striking (or some other conduct or force) make 
+the crime; it is a combination of the two.” People v. Rehman, 62 
+Cal.2d 135, 139 (1964). 
+
+12 There exists, as Justice Chase explained in Calder. 
+
+
+a manifest distinction between the case where 
+one fact relates to, and affects, another fact, 
+as where an after fact, by operation of law, 
+makes a former fact, either lawful or unlawful; 
+and the case where a law made after a fact 
+done, is to operate on, and to affect, such fact. 
+In the first case both the acts are done by 
+private persons. In the second case the first 
+act is done by a private person, and the 
+second act is done by the legislature to affect 
+the first act. 
+
+Calder v. Bull, 3 U.S. 386, 390, 393 (1798). 
+
+
+12 
+
+
+discharged the legal and criminal significance of his 
+actions that predated September 1973.'3 An ex post 
+facto analysis under Calder category one then cannot 
+occur without also understanding the legal significance 
+of the passage of the date September 1976. As this 
+Court explained, the critical inquiry is “whether the law 
+changes the legal consequences of acts completed before 
+its effective date.”'* Weaver v. Graham, 450 U.S. 24, 31 
+(1981) (finding that even if a statute merely alters penal 
+provisions accorded by the grace of the legislature, it 
+violates ex post facto if, as here, it retroactively reduces 
+the amount of good time which could be earned by 
+prisoners) (cited with approval in Miller v. Florida, 482 
+U.S. 423, 430 (1987).) 
+
+
+Thus in Lynce v. Mathis, 519 U.S. 433, 435 
+(1997), a prisoner, convicted in 1986, received good time 
+credits awarded solely to relieve overcrowding under a 
+1983 statute and was released in 1992. A new statute, 
+given effect retroactively, reduced said credits and 
+resulted in the prisoner’s reincarceration. Jd. at 436. 
+Arguing against the ex post facto claim, the State 
+asserted it could have relieved overcrowding by other 
+means and thus at most had created only a speculation 
+or hope that the prisoner would receive such credits. 
+Lynce, 519 U.S. at 437. This Court found the argument 
+canceled. It held that “[t}he 1992 statute has 
+unquestionably disadvantaged petitioner because it 
+
+
+13 The September 1976 date reflects the date of expiration of the 
+last applicable limitations period in this case. 
+1¢ There is a distinct difference between an act which, by operation 
+of law may vest an accused with a right, and a law which seeks to 
+undo what has already been accomplished by operation of law. 
+See Weaver, 430 U.S. at 30-1. It is not necessary under ex post 
+facto analysis for any right to be vested for a violation to occur. id. 
+_ Petitioner’s argument is strengthened, however because a nght 
+has also vested. 
+
+
+13 
+
+
+resulted in his rearrest and prolonged imprisonment.” 
+Id. at 446-47. It was the fulfilling of the conditional 
+secondary act, the actual granting of the credits, which 
+had ameli the punishment under the primary act 
+that, when taken action, violated ex post facto. 
+
+
+In State v. Keith, 63 N.C. 140 (1869), 1869 W.L. 
+1378 (N.C.), the Supreme Court of North Carolina was 
+confronted with this issue in the context of a legislative 
+grant of “unequivocal pardon” to Civil War soldiers for 
+all homicides and felonies done in discharge of their 
+duties. Id. at *2. This Act was subsequently repealed 
+and a former soldier prosecuted. Id. Finding the effect 
+of the pardon under state law to entirely destroy the 
+offense, as if never committed, the court held the repeal 
+
+
+_ ex post facto as making criminal what before the repeal 
+
+
+was not. Id. at *3-4. While never squarely addressing 
+this issue, this Court has agreed in dictum in Cummings 
+v. Missouri, 71 U.S. 277, 329 (1869).15 
+
+
+A Statute of Limitations, particularly in California 
+functions in the exact same way. In this regard it legally 
+divests the State of a cause of action in its entirety, 
+removes the punishment that might have been annexed, 
+and bars a legal conviction. In Petitioner’s case, the two 
+relevant acts had already occurred, the alleged primary 
+act has passed, but so too has the secondary act which 
+has altered any legal significance the primary act may 
+have had as a criminal or criminally punishable matter. 
+
+
+1S Nor was the Court’s discussion purely theoretical. In Ex Parte 
+Garland, 1 U.S. 333 (1866), the companion case to Cummings, the 
+Court was again faced with loyalty oaths in the context of a former 
+Confederate and lawyer, who had received an executive pardon, 
+and wished to return to practice before the Supreme Court, but for 
+such “loyalty oaths.” The ex post facto issue was raised in this 
+context but was not reached since the Court granted Garland relief 
+on the basis of separation of powers in light of executive clemency. 
+
+
+14 
+
+
+In this regard it is important to recall that any 
+allegations of wrongfulness are not evaluated as torts or 
+moral wrongs, but whether or not a crime has been 
+committed. A crime is solely an offense against a 
+sovereign. See Means v. Cheyenne Tribal Court, 154 F.3d 
+941, 948 (1998). It is by definition sanctioned and 
+enforced by the particular sovereign offended, which 
+seeks retribution and promotes deterrence through its 
+solely defines the crime. 
+
+
+In California, the Statute of Limitations has 
+ene Se Se Oe ee 
+offense. See People v. Crosby, 58 Cal.2d 713 (1962). 
+
+
+The California Supreme Court has repeatedly recognized 
+that prosecutions failing to establish this ingredient do 
+not state a public offense’® and are thus barred. In 
+People v. Chadd, 28 Cal. 3d 739, 756 (1981), it was 
+
+
+‘6 Through Penal Code Section 15, California equates the terms 
+crime and public offense and defines them as requiring both 
+commission of the prescribed acts and punishment upon legal 
+conviction. Both are necessary prongs to make a public offense. 
+“The section is in the conjunctive; both of the conditions must be 
+satisfied before the act will constitute a crime.” McComb v. 
+Superior Court, 68 Cal.App.3d 89, 96-7 (1977) citing People v. 
+Crutcher, 262 Cal.App.2d 750, 754 (1968). See also People v. 
+McNulty, 93 Cal. 427 (1892). 
+
+Penal Code section 15 provides: 
+
+
+A crime or public offense is an act committed or 
+omitted in violation of a law forbidding or 
+
+
+1 
+
+
+Disqualification to hold and enjoy any office of 
+honor, trust, or profit in this State. 
+
+
+(CAL. Pen. Cope §15 (West 1999). 
+
+
+15 
+
+
+recognized that “the courts have described as ‘ailing to 
+state a public offense’ an accusatory pleading that 
+shows on its face a violation of section 800.” People v. 
+McGee, 1 Cal.2d 611, 613 (1934) similarly held that an 
+action barred by limitation fails to state a public offense. 
+See also People v. Rehman, 62 Cal.2d 135, 139 (1964). 
+In Miller v. Florida, 482 U.S. 423, 433 (1987), the Court 
+noted that the proscribed violation occurs if the law 
+“changes the ingredients of the offemse or the ultimate 
+facts” needed to establish guilt. 
+
+
+Thus in California a crime dioes not occur within 
+the legal definition if barred by the Statute of 
+Limitations. Whether this result is because the 
+criminality of the act is removed, the punishment 
+abolished, or because a legal conviction is barred, makes 
+little difference since all are required to state a public 
+offense against California. 
+
+
+Examining these terms of art within the Calder 
+definitions, category one is violated by a law which seeks 
+to create a public offense through 803(g) retroactively, 
+when Petitioner has not committed a public offense. To 
+then incorporate a new ingredient through 803(g) in 
+for it renders his lawfully acquired innocence into a 
+crime. 
+
+
+Expressed another way, the destruction of the 
+cause of action, by way of the Statute of Limitations 
+results from the passage of the statutorily enacted 
+period. The absence of a cause of action means not only 
+that the state is barred from prosecution but that the 
+court lacks fundamental subject matter jurisdiction as 
+well. Because Petitioner’s Statute of Limitations bar is 
+complete he cannot be prosecuted.!” 
+
+
+17 In California, a Statute of Limitations in a criminal case creates 
+a substantive right, which renders a court wholly without 
+
+
+16 
+
+
+The Court’s overruling of Kring v. Missouri, 107 
+U.S. 221 (1883) supports this analysis. See Collins v. 
+Youngblood, 497 U.S. 37, 51 (1990).'8 Collins explained 
+that Kring rested on expansive dicta, which was broader 
+than the scope intended by the four categories in 
+question. 19 This Court stated: “The references in 
+
+
+jurisdiction once that right has ripened. The result of such 
+ripening is that it destroys not only the remedy that might have 
+been available if timely presented, but the underlying right or 
+cause of action as well. See People v. McGee, 1 Cal.2d 611, 613 
+(1934) (“In criminal cases, the state, through its legislature, has 
+declared that it will not prosecute crimes after the period has run, 
+and hence has limited the power of the courts to proceed in the 
+matter (citation omitted)); see also Chambers v. Gallagher, 177 Cal. 
+704, 708 (1918). “[Wjhen the statute of limitation has run, the 
+power to proceed in the case is gone.” McGee, 1 Cal.2d at 614. 
+The state has been divested of the right of action. See also People 
+v. Chadd, 28 Cal.3d 739, 756 (1981) (a violation of the statute of 
+limitations described as “failing to state a public offense.” Thus 
+the underlying cause of action was destroyed with the running of 
+the statute. Section 803(g) therefore creates a new cause of action 
+in violation of Calder categery one. 
+
+18 The Collins Court noted that the Kring decision was supported 
+by only five members of the court, with four members voicing a 
+strong dissent. See Collins, 497 U.S. at 48-50. 
+
+19 This was essentially the same position taken by the Kring 
+dissenters. Kring did not rest so much on whether or not his 
+claimed defense was merely procedural or substantive, a line that 
+has continually caused much consternation (See Collins, 497 U.S. 
+37, 44-5), but whether certain contingencies were required before 
+their significance could be set up as a defense. In Kring, the 
+primary act, the killing, had occurred before the change of law, but 
+the significance of the secondary act—the resulting acquittal of 
+first degree murder upon a plea to a second degree murder—had 
+previously been altered by legislative act before Kring pled. At the 
+time, the majority viewed the matter in a broad way as “alter{ing] 
+the situation of a party to his disadvantage,” a phrase often 
+repeated but which Collins noted did not fully comport with the 
+original Calder understanding. Id. at 235; Collins, 497 U.S. at 49. 
+
+On the other hand, the strong Kring dissent, joined in by 
+
+the Chief Justice, and perhaps forecasting the views of the Collins 
+majority, would have instead held that because the contingencies 
+
+
+17 
+
+
+Duncan and Malloy to “substantial protections” and 
+personal rights” should not be read to adopt without 
+explanation an undefined enlargement of the Ex Post 
+Facto Clause.” Collins, 497 U.S. at 46. As such, a 
+contingent possibility, such as relied upon by Kring, 
+which is dependant not just on the future acts of the 
+accused, but of the prosecution as well, and to which 
+nothing had yet attached, was an over inclusive 
+definition of a defense based solely (at that point) on the 
+law regulating the effect of guilty pleas which had 
+already changed. Id. at 50.20 
+
+
+themselves had not been fulfilled by the defendant prior to their 
+change, the defendant had no basis upon which he could now 
+claim to rely upon them. Kring, 107 U.S. at 240. As future 
+contingencies, they were seen as no more than mere modes of 
+procedure, which until acted upon, could be altered by the 
+legislature. Id. at 241. As an unfulfilled secondary act, its 
+repealed contingencies were of no legal effect or significance for 
+Kring. The dissent would have found an ex post facto violation 
+only if the contingencies had been fulfilled prior to the change in 
+law. Id at 239-40. 
+
+20 “It is the essential characteristic of an ex post facto law that it 
+should operate retrospectively, so as to change the law in respect 
+to an actor or transaction already complete and past. Such is no.: 
+the effect of the rule of the constitution of Missouri now in 
+question.” Kring v. Missouri, 107 U.S. 221, 240 (1883) (Matthews 
+J., dissenting; emphasis added). As the dissent in Kring pointed 
+out, at best such a claim might fit within Calder category four but 
+even then, it did not meet its requirements: while that rule (that a 
+second degree murder plea obviated any charge of first degree 
+murder) was in force the prisoner had no such evidence of which 
+he could avail himself. How then, has he been deprived of any 
+benefit from it? The evidence, of which it is said the prisoner has 
+been deprived, came into being after the law had been changed. It 
+was evidence created by the law itself, for it consists simply in a 
+technical inference; and the law in force when it was created 
+necessarily determines its quality and effect. It operated upon a 
+transaction between the prisoner and the prosecution, which 
+might or might not have taken place; and when it did take place 
+that consent must be supposed to have been given by both with 
+reference to the law as it then existed, and not with reference to a 
+law which had then been repealed. /d. at 239-40. 
+
+
+18 
+
+
+Indeed in Collins, the defendant was convicted 
+under a Texas law that allowed the State to sentence 
+him to life imprisonment, but to which was added an 
+unlawful $10,000 fine. Collins, 497 U.S. at 39. The 
+new law, passed at a time when Youngblood’s writ was 
+pending, but which had not yet been decided by the 
+appellate court, in fact acted to ameliorate the 
+punishments in Youngblood’s case by removing the 
+fine altogether. Id. Youngblood’s claim to be entitled 
+to a new trial under the Ex Post Facto Clause while his 
+appeal was pending had not yet attached, nor could 
+he claim to hare been harmed by a reduction in the 
+punishment.?! Youngblood conceded that his claim 
+did not fall within the requisite ex post facto 
+categories, but only within a broader view of the 
+Clause, to wit that any alteration that deprived him of 
+any potential benefit was taken ex post facto. Id. at 
+44. The Collins Court denied his request and in 
+overruling Kring, limited the Clause to its proper 
+foundation. 22 
+
+
+2! It is a long held “controlling rule” that if “subsequent to 
+judgment, and before the decision of the appellate court, a law 
+intervenes and positively changes the rule which governs, the law 
+must be obeyed...” United States v. Schooner Peggy, 5 U.S. 103, 
+110 (1801). Of course the Collins concurrence recognized that if 
+the reformatory law had acted to impose the improper fine, that 
+would have violated the Ex Post Facto Clause because it would 
+have increased punishment. Collins, 497 U.S. at 54 (Stevens, J. 
+concurring.) 
+
+22 Significantly, while the Kring court was divided 5-4, they were 
+not so divided if both the primary and secondary acts had passed 
+before any change in the law. Had such occurred all nine 
+members of the court would have held for Kring. Even more 
+significantly, both the majority and the minority expressed a 
+similar view as held by Petitioner in regards to a Statute of 
+Limitations where the time had actually passed. Both would have 
+ruled it an ex post facto violation to allow 803(g) to act upon it. 
+See Kring, 107 U.S. at 451 citing State v. Sneed, 25 Tex.Supp. 66 
+(1860) with approval and with the following language from <u: 
+dissent: 
+
+
+19 
+
+
+Under Calder category one, the Statute of 
+Limitations issue in the case before the Court must be 
+viewed in light of these precedents. Here two acts are in 
+question, the primary act being the alleged wrongdoing, 
+and the secondary act by operation of existing law, 
+divested the first act of certain legal significance. The 
+secondary act was the passage of the three-year 
+anniversary of the first act, occurring in Petitioner’s case 
+no later than September 1976. At that point, all 
+criminality that might have attached in California was 
+abolished. 
+
+
+Thus if the Statute of Limitations acts as a legal 
+bar to prosecution, as it does in California, to allow 
+either criminalization or punishment retroactively 
+violates Calder category one. 
+
+
+Moreover, once the Statute of Limitations 
+expired, the rebuttable presumption of innocence is 
+transformed to a mandatory conclusive presumption of 
+innocence. See Carmell, 529 U.S. at 532-33. The 
+“presumption of innocence” is “bedrock, axiomatic and 
+elementary — the foundation of our criminal law.” In re 
+Winship, 397 U.S. 358, 363 (1970). However, once the 
+statute of limitations expires, the presumption of 
+innocence becomes a mandatory’ conclusive 
+presumption because the state can no longer meet the 
+threshold requirement to rebutting the presumption of 
+innocence, thereby rendering any conviction after the 
+statutory period void. See People v. Zamora, 18 Cal.3d 
+
+
+it would be a violation of the constitutional maxim 
+which forbids retrospective legislation inconsistent 
+with vested rights, to deprive, by a repeal of 
+statutes of limitation, a defendant of a defense 
+which had become perfect while they were in 
+force. 
+
+Kring, 107 U.S. at 231 (Matthewson, J., dissenting.) 
+
+
+20 
+
+
+538, 564-65 (1976); People v. Le, 82 Cal.App.4% 1352 
+(2000); People v. Williams, 21 Cal.4 335 (1999); Cf. 
+United States v. Marion, 404 U.S. 307, 322 (1971) 
+(“These statutes [of limitation] provide predictability by 
+specifying a limit beyond which there is an irrebuttable 
+presumption that a defendant’s right to a fair trial would 
+be prejudiced.”) 
+As A Defense 
+
+While the Calder categories do not explicitly 
+mention the word “defense,” they fall under the 
+categories such that that they may not be removed 
+retroactively. See United States v. Hall, 26 F.Cas. 84, 
+(1809). The reason is clear: if the asserted defense 
+defeats the prosecution, the person is acquitted. 
+
+
+The first time California’s highest court 
+considered ti.e matter, they called the Statute of 
+Limitations a good defense to defeat the prosecution. 
+See People v. Miller, 12 Cal. 291 (1859). Since then no 
+California Supreme Court has held otherwise. Rather 
+than overrule this longheld fundamental defense, People 
+v. Frazer, 21 Cal.4% 737 (1999) attempts to truncate the 
+meaning of the relevant terms in order to hold it outside 
+Collins v. Youngblood, 497 U.S. 37 (1990) and therefore 
+not ex post facto. For each of the following reasons, they 
+are wrong. 
+
+
+California Penal Code section 803(g) deprives 
+petitioner of a complete defense that arose under the 
+Statute of Limitations in existence at the time of his 
+alleged offenses and which vested prior to any change in 
+the law. By law then, Petitioner’s defense would result 
+in an acquittal. See generally People v. Zamora, 18 
+Cal.3d 538 (1976). The deprivation contravenes the 
+prohibition against ex post facto legislation because it 
+eliminates a defense that negates an ingredient the 
+prosecution must prove to sustain a conviction. The 
+defense also operates as a form of legislatively enacted 
+
+
+_eettessrilllas st 
+
+
+21 
+
+
+pardon, amnesty, or excuse. 23 The abolishment of the 
+Statute of Limitations therefore violates the first Calder 
+category. 
+
+
+Although Collins v. Youngblood, 497 U.S. 37 
+(1990) is cited by Frazer for the proposition that only 
+certain defenses, those negating an element of the 
+proscribed conduct or operating as an excuse or 
+justification for the crime charged, are encompassed 
+within the first and second Calder categories, in fact, the 
+Court did not elaborate what defenses were included in 
+those labels and which ones were excluded. Frazer, 21 
+Cal.4th at 757. It is important to note that Collins was 
+not a case about defenses, pretrial, trial or otherwise. 
+Collins ruled that a statute allowing appeals courts to 
+reform and ameliorate improper sentences did not offend 
+the Ex Post Facto Clause. Collins, 497 U.S. at 52.24 
+Thus while the Collins Court was not specific, one can 
+
+
+23 Black’s Law Dictionary defines excuse as follows: 
+
+
+excuse. ...2. Criminal Law. A defense that 
+arises because the defendant is not blameworthy 
+for having acted in a way that would otherwise be 
+criminal. e The following defenses are the 
+traditional excuses: duress, entrapment, infancy, 
+insanity and involuntary intoxication. 
+
+
+BLACK’s Law DICTIONARY 430 (7th ed. 1999.) Although the statute of 
+limitations is not listed as a “traditional” excuse, it falls within the 
+definition since a defendant is no longer statutorily blameworthy, 
+that is he can no longer be prosecuted or punished, even when his 
+conduct would otherwise be “criminal.” 
+
+
+24 The Collins Court framed the result in the language of Beazell v. 
+Ohio: “The Texas statute allowing reformation of improper verdicts 
+does not punish as a crime an act previously committed, which 
+was innocent when done; nor make more burdensome the 
+punishment for a crime, after its commission; nor deprive one 
+charged with a crime of any defense available according to law at 
+the time when the act was committed.” Collins, 497 U.S. at 169- 
+70. 
+
+
+assume that a defense that negates a material ingredient 
+of the crime charged or justifies or excuses conduct 
+implicates the first Calder category. See Collins, 497 
+U.S. at 49-50. In the first instance, eliminating a 
+material ingredient or ultimate fact that the prosecution 
+must prove to sustain a conviction effectively makes 
+evidence that would result in acquittal now supportive of 
+a conviction. 
+
+
+The Frazer court waters down the Collins analysis 
+such that the oniy defenses protected by the ban on ex 
+post facto legislation are those that address the 
+“criminal quality of the act’ as evidenced ‘either by the 
+legal definition of the offense or by the nature or amount 
+of the punishment’ at the time it occurs.” 21 Cal.4th at 
+760. - The court reasoned that its conclusion was 
+warranted by reliance, which it viewed as the sole aim of 
+the Ex Post Facto Clause.?5 Frazer, 21 Cal.4th at 757. It 
+referred to Collins for reinforcement: “For this reason, 
+Collins made clear that ex post facto protection extends 
+only to ‘defense[s]’ bearing on the ‘definition’ and 
+
+
+25 Justices Harlan warned against citing notice and reliance as the 
+single goal of the Ex Post Facto Clause: “Aside from problems of 
+warning and specific intent, the policy of the prohibition against ex 
+post facto legislation would seem to rest on the apprehension that 
+the legislature, in imposing penalties on past conduct, even 
+though the conduct could properly have been made criminal and 
+even though the defendant who engaged in that conduct in the 
+past believed he was doing wrong (as for instance when the 
+penalty is increased retroactively on an existing crime), may be 
+acting with a purpose not to prevent dangerous conduct generally 
+but to impose by legislation a penalty against specific persons or 
+classes of persons.” James v. United States, 366 U.S. 213, 247 n.3 
+(1961). In declining to abandon the fourth Calder category, this 
+Court echoed Justice Harlan: “... the absence of a reliance 
+
+interest is not an argument in favor of abandoning the category 
+itself. If it were, the same conclusion would follow for Calder's 
+third category (increases in punishment), as there are few, if any, 
+reliance interests in planning future criminal activities based on 
+the expectation of less severe repercussions.” Carmell v. Texas, 
+529 U.S. 513, 531 n.21 (2000). 
+
+
+~ 
+
+
+wee OE 
+
+
+23 
+
+
+‘elements’ of proscribed conduct, or involving ‘excuse or 
+justification’ for its commission. Jd. at 760 (emphasis 
+omitted). 
+
+
+Although Collins made reference to defenses that 
+are linked with the legal definition of the offense the 
+decision in no way concludes that the government can 
+abolish a defense that negates an element of the crime 
+the prosecution must prove. Collins, 497 U.S. at 50. 
+The Frazer definition of defenses truncates its proper 
+examination by failing to account for the legislative and 
+judicial definitions of a crime.” Rather, they limit their 
+analysis solely to the elements of the proscribed conduct 
+rather then the offense. Moreover, the Frazer definition 
+of defense simply cannot apply with precision to all the 
+defenses inherent in a defendant’s absolute right to 
+mount a defense. The court’s decision also brings to 
+light an interesting anomaly in the law. That is, the 
+distinction between proscribed conduct and the 
+elements of an offense the prosecution must prove at 
+trial to sustain a conviction. 
+
+
+For instance, in California identity is not part of 
+the definition of the proscribed conduct of a crime 
+(CALJIC No. 2.72 ) (6th ed. 1996) and yet it is a required 
+element that the prosecution must prove. (CALJIC No. 
+2.91) (6th ed. 1996.) Likewise, Statutes of Limitations in 
+California are not part of the definition of proscribed 
+
+
+26 Examining only the definition of penal code section 288 they do 
+not find the limitations defense within its terms. The reason for 
+this error is their failure to examine the ingredients that comprise 
+this public offense in California. ne say apenas oeal 
+judicial in ion the scope of this defense is that it 
+7 aa 
+prove this ingredient is fatal to a criminal cause of action 
+maintained by the state. The state fails to comprehend that where 
+no public offense lies, no crime has been committed. 
+
+
+24 
+
+
+conduct but are an element of a relevant offense?’ in 
+which the prosecution bears the burden of proof. See 
+People v. Le, 82 Cal.App.4th 1352, 1360 (2000). 
+
+
+It would be unthinkable for the legislation to 
+retroactively abolish the defense of mistaken 
+identification, and yet that is the necessary conclusion 
+after applying the Frazer interpretation of Collins. 
+
+
+While California has made the molestation of 
+children a crime, it has also made prosecution subject to 
+limitations. When time runs, the accused holds a 
+complete defense. This defense negates an element of 
+the crimes charged, proof of which is borne by the 
+prosecution. This defense also operates as an excuse. 
+
+
+Defenses of excuse do not operate in the same 
+manner as defenses that negate an element. Consider 
+the excuse of immunity. Asserting immunity from 
+prosecution does not void an element of the “crime.” 
+Indeed the assertion is collateral to the proscribed 
+conduct. The same could be said for such defenses as 
+entrapment, necessity or the momentary handling of a 
+controlled ee for the purpose of disposal. See 
+People v. Mower, 28 Cal.4 457, 480 (2002). These 
+defenses essentially admit all of the elements of the 
+relevant crimes as defined by Frazer. Id. at 480-81. To 
+draw a distinction amongst defenses available to the 
+defendant and provide lesser protection for certain 
+substantive defenses is simply arbitrary. The same 
+standards subsumed in the concept of fundamental 
+fairness apply to all such defenses including excuse. 
+Retroactive removal then is precisely the type of concern 
+which the Ex Post Facto Clause was designed to prevent. 
+There is no merit to an argument that purports to 
+
+
+27 The term relevant refers to those offenses where time is a 
+
+
+material ingredient in the sense that they are accompanied by a 
+Statute of Limitations. See CaL. Pen. Cope § 955 (West 1985). 
+
+
+~ 
+
+
+a = 
+
+
+oe ieee ee 
+
+
+remove an absolute defense from a distinct group of 
+defendants because of the status of the crime with 
+which they are charged. Although the State of California 
+is entitled to abolish the statute of limitations 
+prospectively, it cannot do so retroactively. 
+
+
+The State attempts to overcome the problem 
+inherent herein by holding that all they need do is 
+effectively remove this ingredient and a public offense is 
+then stated. Even were that true it is qualitatively a 
+different offense and by all accounts, a new offense. It 
+also destroys this “good defense”, turning what was a 
+substantive right belonging to the people and redefining 
+it as a remedial process belonging to the state. See also 
+People v. Doctor, 257 Cal.App.2d 105, 110 (1967) (“We 
+remind ourselves that the bar of the statute of 
+limitations in a criminal matter is going to jurisdiction 
+rather than merely a remedy.”) 
+
+
+Calder Category Two 
+
+Under the Ex Post Facto Clause, the punishment 
+aspect of retrospective legislation falls under both Calder 
+one and three. The second category then refers to both 
+the aggravation and enlargement of crime beyond the 
+creation of new punishment or increases to existing 
+punishment. It must therefore be viewed as a distinct 
+category. While proscribed conduct can fall under more 
+than one Calder category, Calder two certainly is not 
+merely duplicative of the others. As Justice Paterson 
+stated in Calder, “The enhancement of a crime, or 
+penalty, seems to come within the same mischief as the 
+creation of a crime or penalty.” Calder, 3 U.S. at 397. 
+Similarly, while the State attempted to confine the 
+Calder categories down to two, this Court has made 
+clear that nothing in Collins or any other decision was 
+meant in anyway to overrule Calder’s original four 
+Supreme Court opinions. See Carmell, 529 U.S. at 525. 
+
+
+A law that aggravates or makes greater without 
+simply falling into categories one or three encompasses a 
+situation where the scope of the crime is made either 
+larger or is now “more serious.””® It is self-evident that a 
+crime for which the state declares it is no longer seeking 
+to try to convict or to incarcerate is less serious than one 
+for which the state declares it will forever seek 
+prosecution.?? Secondly, the crime is enlarged because 
+it now includes others within its grasp who previously 
+were not, which is clearly the legislature’s intent under 
+803(g). See Stogner v. Superior Court, 93 Cal.App.4th 
+1229 (2001); People v. Frazer, 21 Cal.4th 737 (1999). 
+That such an enlargement is proscribed has been clear, 
+see Cummings v. Missouri which found that a loyalty 
+oath was exacted not to determine fitness for callings 
+“but because it was thought that the several acts 
+deserved punishment, and that for many of them there 
+was no way to inflict punishment except by depriving 
+the parties, who had committed them, of some of the 
+rights and privileges of the citizen.” Cummings v. 
+Missouri, 71 U.S. 277, 320 (1866). 
+
+
+28 Justice Story, writing on the Ex Post Facto Clause noted that 
+included “the act, if a crime, is aggravated in enormity, or 
+punishment...” 3 Commentaries on the Constitution of the United 
+States § 1339: 212. 
+
+Black’s definition of “aggravate” as, “made worse or more 
+serious,” (Black’s Law Dictionary 65 (7th ed. 1999)) is not unlike 
+the concept understood in Webster’s, “a: to make heavy: BURDEN 
+b: INCREASE, 2: To make worse, more serious, more severe; 
+intensify unpleasantly.” WEBSTER’s NEw COLLEGIATE DICTIONARY 23 
+(7th 1974).” 
+
+29 The Legislative purpose behind the Statute of Limitations 
+supports the notion, recognizing the “fear that never-ending threat 
+of prosecution will be more detrimental than beneficial to society.” 
+Cowan v. Superior Court, 14 Cal.4th 367, 375 (1996); see also In re 
+Medly, 134 U.S. 160, 172 (1890) (recognizing that increases in 
+mental anguish to prisoner which flowed from his inability to 
+ascertain when the State might choose to execute its punishment 
+enlarged punishment and was ex post facto. 
+
+
+tte 
+
+
+27 
+
+
+The State further enlarges the crime by creating 
+retroactive jurisdiction in the criminal courts of 
+California. A proposition California courts had 
+historically specifically held contrary to the meaning of 
+their limitations period.°° The Legislature, certainly in 
+
+
+3° The seminal case defining the statute of limitations as also 
+jurisdictional! in a criminal context is People v. McGee, 1 Cal.2d 
+611 (1934). In the first instance, they drew a distinction, “based 
+on the different character in the proceedings” between criminal 
+and civil statute of limitations. “In civil actions the statute is a 
+privilege which may be waived by the party. In criminal cases, the 
+state, through its legislature, has declared that it will not 
+prosecute crimes after the period has run, and hence has limited 
+the power of the courts to proceed in the matter. . .[Wjhen the 
+statute of limitation has run, the power to proceed in the case is 
+gone.” Id. at 613-14 (citation omitted.) 
+
+Thus, once the statute has ripened, a court is without 
+subject matter jurisdiction to proceed regardless of whether the 
+parties desire to waive or forfeit that right. See also Chambers v. 
+Gallagher, 177 Cal. 704, 708 (1918) (“There can be no question 
+that ...by passage of the statute of limitations [the legislature] 
+intended a permanent divestment of a right of action in all matters 
+to which the statute relates.”) In California therefore, the courts 
+have recognized not only the destruction of the remedy for a right, 
+but that the right itself is destroyed. The State has been divested 
+of the right of action. “In this connection, we remind ourselves that 
+the bar of the statute of limitations in a criminal action is a matter 
+going to jurisdiction rather than merely to remedy.” People v. 
+Doctor, 257 Cal.App.2d 105, 110 (1967) citing People v. McGee, 1 
+Cal.2d at 613; see also People v. Chadd 28 Cal.3d 739, 756 (a 
+violation of the statute of limitations described as “failing to state a 
+public offense.”) 
+
+Thus in Cowan v. Superior Court, 14 Cal.4th 367, 371-72 
+(1996), the California Supreme Court grappled with this 
+jurisdictional issue in a case where a defendant wanted to waive 
+the right. If the statute was jurisdictional as McGee stated, then 
+even the defendant lacked the ability to waive it. If it were “merely 
+a substantive defense” he could waive it. Jd. The issue in Cowan 
+arose because the defendant, charged with murder, a cause of 
+action for which no statute of limitations exists, wished to enter a 
+plea to the lesser included offense of manslaughter, which was 
+then viewed as potentially time barred. Id.at370. ~ 
+
+Rather than overrule well-established precedent, including 
+
+
+position to define it prospectively, instead made no such 
+substantive change in their overhaul of the present 
+statutory scheme effective since 1985. It is only now 
+
+
+McGee, the Cowan court held that the lower court had retained 
+jurisdiction over the murder charge actually before it, and, since 
+no limitation applied to that cause of action, subject matter 
+jurisdiction had not been lost. Jd. at 374. The question became 
+one of “excess of jurisdiction” as to the proposed plea bargain 
+instead of a lack of subject matter jurisdiction. Cowan, 14 Cal.4th 
+at 374. In that particular context, and not having lost the power 
+to proceed, the defendant could choose, if he desired, to waive the 
+Statute as to the manslaughter charge. /d. In effect the Cowan 
+court held that because the underlying right had not been 
+destroyed, the question became solely one of approving an 
+-ameliorating remedy desired by the defendant who could therefore 
+waive his substantive right to the lesser charge. “In this case, 
+because the court had the power to proceed over the murder 
+charge, it should also have the power to proceed over a lesser 
+included ...offense.” Id. at 373. 
+
+In People v. Williams, 21 Cal.4th 335 (1999), the court was 
+again urged to reject the jurisdictional approach. The issue first 
+having arisen on appeal, the State argued that Cowan had 
+essentially done away with jurisdiction, such that if a defendant 
+fails to timely raise the statute of limitations issue, then the 
+defendant could unknowingly forfeit it. People v. Williams, 21 
+Cal.4th 335, 340 (1999). Rejecting this claim, the court upheld 
+the McGee principle, stating “as has long been the rule of 
+California, a person can raise the Statute of Limitations at any 
+time in a time barred action.” Id., at 345. 
+
+Important in this analysis is an understanding that 
+Cowan’s did not overrule the jurisdictional approach per se, but 
+only made a “slight adjustment’ to its analysis to accommodate 
+the desired plea to the lesser. Jd. at 340. Williams makes ciear 
+that any broader interpretation of Cowan was not intended, nor 
+necessary for its decision. id. at 340-41. Rather, Cowan, held 
+that to the extent McGee could be interpreted as barring pleas to 
+“time barred lessers” it was overruled. Cowan, 14 Cal.4th at 372- 
+374. This distinction is important in that it makes fundamental 
+sense with the California view of Statute of Limitations. If the 
+underlying cause of action is destroyed, then nothing can be done 
+to resurrect it. However, where the underlying cause of action is 
+not destroyed, then the court has power to provide a lesser “the 
+remedy”, and no sound policy reason exists for disallowing such a 
+knowing waiver to a lesser if it is to the benefit of the accused. 
+
+
+that they attempt to create a different rule, only 
+retroactively. 
+
+
+In Means v. Cheyenne Tribal Court, 154 F.3d 941, 
+942 (9% Cir. 1998) (overruled on other grounds in United 
+States v. Enas, 255 F.3d 662 (9 Cir. 2001), the Ninth 
+Circuit was confronted with the question of whether a 
+court, not having jurisdiction over a subject could 
+nevertheless prosecute him for crimes committed within 
+their jurisdiction. Lacking power over the subject, the 
+sovereign lacked the ability to define his conduct as 
+criminal. “Imposing jurisdiction retroactively therefore 
+makes it a crime as to Means after the fact-exactly what 
+is forbidden by the Ex Post Facto Clause.” Means, 154 
+F.3d at 948. 
+
+
+Whether viewed as eliminating an element or 
+defense, or creating jurisdiction retroactively, 803(g) 
+essentially enlarges or aggravates the crime by 
+encompassing others, like Petitioner, who, prior to 
+803(g) had not been within its reach. 
+
+
+Calder Category Three 
+
+California has long held that once the Statute of 
+Limitations has run, the person cannot be punished. 
+See People v. Miller, 12 Cal. 291, 294 (1859). In this way 
+it is not unlike a limited pardon, which relieves the 
+person of the punishment that may be imposed for a 
+crime, but does not necessarily absolve him of the 
+criminality itself. For even if the argument could be 
+sustained that the term crime has a broader significance 
+than given in California, or that punishment became 
+fixed on the date of the primary act, nevertheless it is 
+undisputed that on the second date the punishment for 
+that “crime” was removed. Id.; see also Lynce v. Mathis, 
+519 U.S. 433, 449 (1997) (where the punishment once 
+reduced could not be increased retroactively). The 
+removal of punishment means that any new punishment 
+for that same “crime” exceeds that which attached 
+
+
+30 
+
+
+previously, in violation of Calder Category three. But 
+for Penal Code section 803(g), the state cannot inflict 
+any manner or form of punishment upon defendants for 
+whom the Statute of Limitations expired prior to 
+enactment of the revival statute. Moreover, the State of 
+California cannot do indirectly what it cannot do 
+directly. 
+
+
+Calder Category Four 
+
+The new law that permits prosecution of 
+Petitioner’s time barred case effectively eliminates a 
+material ingredient of the crime that the prosecution 
+must prove in order to convict. Under Penal Code 
+803(g), the district attorney no longer needs to prove 
+that the offenses occurred within the time period 
+necessary to overcome the Statute of Limitations. 
+Moreover the preexisting rules created an irrebuttable 
+presumption that resulted in a dismissal. That same 
+presumption is now withdrawn. However viewed, it is 
+clear that this law “alters the legal rules of evidence, and 
+receives less, or different, testimony, than the law 
+required at the time of the commission of the offense, in 
+order to convict the offender.” See Calder v. Bull, 3 U.S. 
+386, 390 (1798); see also Carmell v. Texas, 529 U.S. 
+513, 539 (2000). It violates Calder’s fourth category. 
+
+
+The California Supreme Court’s decision in People 
+v. Frazer, 21 Cal.4th 737 (1999), decided before Carmeil, 
+misconstrued Collins to narrow the original four Calder 
+categories to two: “Collins made clear that the two 
+categories of impermissible retroactive legislation- 
+redefining criminal conduct and increasing punishment 
+~are exclusive.” Frazer, 21 Cal.4th at 756. 
+
+
+The Frazer Court may not have anticipated this 
+Court’s reaffirmation of the fourth Calder category in 
+
+
+31 
+
+
+Carmell.3!1 However, when Petitioner appealed a denial 
+of his demurrer to the indictment and raised Carmell as 
+an applicable authority, the appellate court once again 
+indicated it was bound by Frazer and chose not to take 
+up the issue. Likewise, the California Supreme Court 
+declined to apply Carmell. 
+
+
+Penal Code section 803(g) retroactively eliminate i 
+an element the prosecution had to prove. Such a change 
+is precisely the type deemed fundamentally unfair in 
+Carmell: “A law reducing the quantum of evidence 
+required to convict an offender is as grossly unfair as, 
+say, retrospectively eliminating an element of the 
+offense, increasing the punishment for an existing 
+offense, or lowering the burden of proof.” Carmell, 529 
+U.S. at 532. 
+
+
+Carmell makes clear that the fourth Calder 
+category remains an important restraint on the 
+government’s actions. Because an elimination of the 
+statute of limitations through retroactive application of 
+section 803(g) fundamentally alters the prosecution’s 
+burden necessary to convict, section 803(g) violates the 
+Ex Post Facto Clause. 
+
+
+B. Due Process 
+
+The state cannot under the auspices of police 
+power retroactively rescind a statute, which rendered 
+the state powerless to prosecute, divested the court of 
+jurisdiction and provided Petitioner with a complete 
+
+
+31 Since Carmell was decided, the Court of Appeals for the Second 
+District has recognized that Frazer may have indeed misread the 
+\Jnited States Supreme Court’s intent, noting that many appellate 
+courts, including in California, and citing Frazer specifically, 
+mistakenly believed that ex post facto “did not prohibit the 
+application of new evidentiary rules...” Mm re Melvin J., 81 
+Cal.App.4 742, 758 n. 7 (2000.) 
+
+
+32 
+
+
+defense in the event of trial. To do so violates 
+Petitioner’s fundamental right to liberty. 
+
+
+Among individual rights, liberty is ranked as 
+fundamental. Liberty’s meaning is expansive and 
+encompasses issues such as the right to refuse medical 
+treatment, contraception and family life. See 
+Washington v. Glucksberg, 521 U.S. 702, 720 (1997). 
+However, freedom from physical restraint is at the core 
+of our understanding of liberty. No other right can be 
+deemed more fundamental. See e.g., Reno v. Flores, 507 
+U.S. 292 (1993); Foucha v. Louisiana, 504 U.S. 71 
+(1992); United States v. Salerno, 481 U.S. 739 (1987); 
+
+
+Ingraham v. Wright, 430 U.S. 651 (1977). 
+
+
+Nonetheless, as with all rights, liberty is not 
+absolute. It must be harmonized with other rights and 
+powers stemming from the United States Constitution or 
+some other independent source. See Texaco Inc., v. 
+Short, 454 U.S. 516, 525-26 (1982). The police power is 
+one that finds its source independent of the United 
+States Constitution. It is based in the state’s sovereign 
+nature and its duty to protect the health, safety and 
+welfare of its citizens. However this power has never 
+been viewed as omnipotent. As with individual liberty, 
+the State’s police power is also not absolute. See Calder 
+v. Bull, 3 U.S. 386, 387-88 (1798); Fletcher v. Peck, 10 
+U.S. 87, 135 (1810). 
+
+
+Penal Code section 803(g) amplifies the conflict 
+inherent in Petitioner’s fundamental right to liberty and 
+the state’s sovereign police power. However the conflict 
+created by the enactment of 803(g) violates due process 
+where California legislatures, since the state’s inception, 
+have always utilized criminai Statutes of Limitation and 
+California courts have always interpreted these statutes 
+to confer a substantive and irrevocable right. 
+
+
+33 
+
+
+The passing of time, now complete under the 
+terms set by the State itself, divests from the State the 
+power to prosecute and restores Petitioner’s liberty. It is 
+no longer subject to state intrusion. This exhaustion of 
+power and restoration of liberty is irrevocable; the 
+presumption of innocence previously afforded to the 
+Petitioner is now irrebuttable. 
+
+
+Fundamental Right of Liberty 
+
+“In a Constitution for a free people, there can be 
+no doubt that the meaning of ‘liberty’ must be broad 
+indeed.” Board of Regents v. Roth, 408 U.S. 564, 572 
+(1972). The due process clause of the Fifth Amendment 
+applicable to the states through the Fourteenth, was 
+intended to secure for individuals, inter alia, the “right to 
+be free from and to obtain judicial relief, fo. unjustified 
+intrusions on personal security.” Ingraham v. Wright, 
+430 U.S. 651, 673 (1977). The guarantees afforded 
+“always have been thought to encompass freedom from 
+bodily restraint and punishment.” Id. at 673-74 (finding 
+that freedom from corporal punishment implicates a 
+liberty interest); see also Reno v. Flores, 507 U.S. 292 
+(1993); Foucha v. Louisiana, 504 U.S. 71, 80 (1992) 
+(commitment to a mental health facility implicates a 
+liberty interest); United States v. Salerno, 481 U.S. 739, 
+755 (1987) (right to liberty implicated by pretrial 
+detention). 
+
+
+A liberty interest can also be created by state 
+statute. Coupled with its creation is the expectation 
+that it will not be taken arbitrarily. Due process is the 
+stronghold for such vital interests and this Court has 
+time and again affirmed that a State cannot statutorily 
+confer a liberty interest and arbitrarily withhold or 
+destroy it. See e.g., Sandin v. Connor, 515 U.S. 472, 
+483-84 (1995) (recognizing “that states may ... create 
+liberty interest which are protected by the Due Process 
+Clause”); Board of Pardons v. Allen, 482 U.S. 369, 377- 
+78 (1987) (parole statute mandating release once 
+
+
+34 
+
+
+designated findings were made created liberty interest); 
+Vitek v. Jones, 445 U.S. 480, 488-89 (1980) (statute 
+permitting transfer of prisoner to mental health facility 
+upon finding of mental illness created a liberty interest); 
+Wolff v. McDonnell, 418 U.S. 539, 557 (1974) (state 
+created right to good time credits that could be taken 
+only for serious misbehavior created a liberty interest); 
+Carlo v. City of Chino, 105 F.3d 493, 497 (9% Cir. 1997) 
+(statute requiring arrestees be given phone calls that 
+could be denied only in event of physical impossibility 
+conferred a liberty interest.) 
+
+
+Underscoring this point, the Wolff Court stated, 
+
+
+“We think a person’s liberty is equally protected, even- ~ 
+
+
+when the liberty itself is a statutory creation of the state. 
+The touchstone of due process is protection of the 
+individual against arbitrary action of the government.” 
+Wolff, 418 U.S. at 558. 
+
+
+Although these cases also refer to the process 
+required as a preventative measure against arbitrary 
+action, Petitioner maintains that no amount of process 
+will suffice. Here the harm is ongoing, for the 
+prosecution that California had no power to bring is 
+occurring, the forum for which no jurisdiction existed 
+has ruled against Petitioner and the absolute defense to 
+this unlawful action has been destroyed. This situation 
+was contemplated by Justice Harlan when he wrote, 
+“Were due process merely a procedural safeguard it 
+would fail to reach those situations where the 
+deprivation of life, liberty or property was accomplished 
+by legislation which by operating in the future could, 
+given even the fairest possible procedure in application 
+to individuals, nevertheless destroy the enjoyment of all 
+three.” Poe v. Ullman, 367 U.S. 497, 541 (1961) (Harlan 
+J., dissenting). 
+
+
+35 
+
+
+State Power 
+It is unquestionable that the State possesses the 
+power to define criminal conduct and prohibit said 
+conduct through legislation; that it can prosecute where 
+probable cause exists to believe a crime was committed; 
+and that it can punish where it has proven to a jury or 
+the court as fact finder that the crime was committed. 
+
+
+It is also a maxim that the State possesses the 
+power to destroy such crimes, as well as their effects. It 
+can repeal criminal statutes, thereby erasing the 
+criminality attached to such conduct; it can decline to 
+prosecute by granting immunity or by enacting 
+legislation that provides for pretrial diversion?; and it 
+can ultimately pardon conduct either prior to or after a 
+guilty finding by jury or court; thereby erasing 
+punishment or criminality or both. 
+
+
+However, the State can assert no basis for a 
+claimed “retention” of an expired power to prosecute. 
+Indeed, such a proposition is contrary to all accepted 
+views of constitutional government. For if the 
+inalienable rights of life and liberty are vested in the 
+people, and if in limited circumstances the State is 
+permitted to curtail that liberty, when that permission 
+ends, even if by nothing more than an act of legislation, 
+then the State is without the power to act. 
+
+
+32 Thus under Pena! Code Section 1000 et seq., even after a plea of 
+guilty to certain possessory type drug charges, a person is 
+absolved of all criminality for all respects, including permitting a 
+successful divertee to state upon all job applications, save those 
+related to law enforcement, that he/she has never been arrested, 
+prosecuted, or convicted for said diverted crimes. (CAL. PEN. CODE 
+§ 1000 et. seq. (West 1985 & Supp. 2002.) 
+
+33 “(The statute of limitation’s] terms not only strike down the right 
+of action which the state had acquired by the offence, but also 
+remove the flaw which the crime had created in the offender’s title 
+to liberty. In this respect, its language goes deeper than statutes 
+barring civil remedies usually do. They expressly take away the 
+
+
+36 
+
+
+Thus it cannot proceed to prosecute those who 
+have successfully completed pretrial diversion. It cannot 
+fail to follow through with its obligations pursuant to a 
+plea negotiation. It cannot repeal a grant of immunity 
+from prosecution. It cannot repeal a pardon. In short, 
+the state cannot undo; so as to divest a substantive 
+right accrued to the individual, that which was done 
+through a lawful exercise of its police power. 
+
+
+State action that is tantamount to a wanton or 
+arbitrary interference with private rights is not a 
+permissible exercise of a state’s police power. See 
+Atlantic Coast Line R.R. Co., v. City of Goldsboro, 232 
+U.S. 548, 559 (1914). California claims the power to 
+repeal a Statute of Limitations that has with due course 
+of time, granted the Petitioner a substantive right to be 
+free from prosecution, beyond the reach of jurisdiction 
+and the ability to utilize this absolute defense to secure 
+the right granted. This it cannot do. 
+
+
+This was the understanding of Chief Justice 
+Marshall in Fletcher v. Peck, 10 U.S. 87, 135 (1810), 
+when he stated, “But if an act be done under a law, a 
+succeeding legislature cannot undo it. The past cannot 
+be recalled by an absolute power.” 
+
+
+remedy only by suit, and that inferentially is held to abate the 
+right which such remedy would enforce, and perfect the title which 
+such remedy would invade; but this statute is aimed directly at 
+the very right which the state has against the offender, the right to 
+punish, at the only liability which the offender has incurred, and 
+declares that this right and this liability are at an end.” Moore v. 
+State, 43 N.J.L. 203 (1881); see also Griswold v. Connecticut, 381 
+U.S. 479, 496 (1965) (Goldberg J., concurring) (although “... a ... 
+State may ... serve as a laboratory; and try novel social and 
+economic experiments, I do not believe that this includes the 
+power to experiment with the fundamental liberties of citizens ...”) 
+quoting Pointer v. Texas, 380 U.S. 400, 413 (1965). 
+
+
+37 
+
+
+California cannot do to Petitioner’s vested liberty 
+what Georgia could not do to Fletcher’s vested title to 
+
+
+property. 
+
+
+Historical Practice 
+
+In 1976, California exhausted its power to 
+proceed against Petitioner. It terminated with the 
+running of the Statute of Limitations duly enacted. The 
+decisional law in place since this State’s first inquiry 
+into the meaning of the Statute of Limitations in the 
+criminal system in 1859 permits no other alternative. 
+Indeed, all of California jurisprudence mandates that the 
+passing of time has irrevocable consequences. But see 
+People v. Frazer, 21 Cal.4th 737 (1999). 
+
+
+California’s Statute of Limitations was first 
+enacted in 1850; the same year California became a 
+state. It was later codified by the California legislature in 
+1872. See People v. Frazer, 21 Cal.4" 737, 743 (1999). 
+Since its introduction, the availability of the statute as a 
+complete defense has been made abundantly clear. See 
+People v. Miller, 12 Cal. 291, 295 (1859) (finding that 
+time was material to any offense subject to limitation, 
+and thus, “Prima facie, the lapse of time is a good 
+defense...”). 
+
+
+Over the centuries, the California Supreme Court 
+has repeatedly endorsed this view of the statute 
+declaring it to be a substantive right. See People v. 
+Zamora, 18 Cal. 3d 538, 547 (1976); People v. Chadd 28 
+Cal.3d 739, 757 (1981). Even People v. Frazer, 21 
+Cal.4% 737, (1999), agreed that Statutes of Limitation 
+exist for the defendant's benefit, such statutes “seek to 
+
+
+protect both the judicial system’ and the defendant 
+
+
+3 Statutes of Limitations aid in reducing the costs inherent in 
+
+
+congestion of the courts where the presentation of these claims 
+
+
+run on the criminal offense. See Blackburn v. Superior 
+Court, 21 Cal.App.4th 414, 428 (1993). 
+
+
+Thus the Statute of Limitations must be viewed in 
+this context. It expresses a rule of such finaiity that we 
+have been assured that when the bar is in place we may 
+not only speak freely, but may even be compelled to 
+speak. It is this understanding, so deeply rooted in our 
+traditions and consciousness as to trigger the 
+relinquishment of other rights routinely afforded to 
+criminal defendants, that 803(g) seeks to wrench from 
+its historical and constitutional context. 
+
+
+So clear has this rule been that throughout the 
+country’s history it has been disputed only rarely. Until 
+Frazer each such attempt was rejected. See People v. 
+Frazer, 21 Cal.4* 737 (1999). A challenge was proffered 
+in 1860 in Texas, and rejected. See State v. Sneed, 25 
+Tex.Supp. 66 (1860) (“The state having neglected to 
+prosecute within the time prescribed for its own action, 
+lost the right to prosecute the suit.”) There were similar 
+challenges with similar results in New Jersey in 1881 
+and in Oregon in 1994. See Hart Moore v. State, 43 
+N.J.L. 203, 1881 WL 8329 at *6 (1881) (“Until the fixed 
+period has arrived, the statute is a mere regulation of 
+the remedy, and, like other such regulations, subject to 
+legislative control; but afterwards, it is a defence, not of 
+grace, but of right; not contingent, but absolute and 
+vested; and, like other such defences, not to be taken 
+away by legislative enactment.”);35 State v. Cookman, 
+
+
+35 See Hart Moore v. State, 43 N.J.L. 203 (1881) (“[Ijt would be a 
+strained and unnatural interpretation of our act to say that it 
+
+not relate to the courts, but to the person accused. The answer 
+which, under it, the defendant must make to an accusation before 
+the tribunal which once had the right to punish him, is, not that 
+the court has no jurisdiction to inquire into his guilt or innocence 
+and pass judgment, but that, after inquiry, the court must 
+pronounce judgment of acquittal. And probably no one would 
+
+
+40 
+
+
+127 Or.App. 283 (1994) (“In short, we cannot accept the 
+proposition that the state has the supernatural power to 
+exhume and revitalize a prosecution that is dead and 
+buried.”) 3 
+
+
+The Substantive Nature of the Right 
+
+While Frazer denied a substantive due process 
+claim, it failed to apply or explore the nature of this 
+right.27 A review of California case law shows the 
+various stages at which this substantive right can be 
+asserted. Its use as a multifaceted defense speaks to its 
+inherent power. 
+
+
+In California, the Statute of Limitations defeats 
+the power to prosecute in the first instance and serves 
+as a defense to attack the charging document such as by 
+way of demurrer. See People v. Ayhens, 85 Cal. 86 
+(1890) (approving such action under Penal Code Section 
+
+
+contend that after such judgment, any change in the law could 
+legally subject the defendant to a second prosecution.”) California 
+courts are in accord, but of course also deny jurisdiction. 
+
+36 The historical practice even at common law in England shows a 
+general repugnance towards retrospective legislation in general. 
+See Dash v. Van Kleeck, 7 Johns. 477 (1811) (Kent, Ch., J.) 
+(“There has not been, perhaps a distinguished jurist or elementary 
+notice of retrospective laws, either civil or criminal, but has 
+mentioned them with caution, distrust or disapprobation.”) 
+
+37 Frazer, instead called Statutes of Limitation “acts of legislative 
+grace,” without further explanation and ignoring Supreme Court 
+precedent that altering penal statutes, even those “accorded by the 
+grace of the legislature” are not insulated from constitutional 
+scrutiny. Weaver v. Graham, 450 U.S. 24, 30-1 (1981). Moreover 
+while Frazer ruled on the meaning of section 803(g) in relationship 
+to the new limitations period set up in the 1985 legislation, it did 
+not rule on claims based on the preexisting statutory rules upon 
+which Petitioner also relies under Perial Code Section 805.5. 
+While the lower court ruled the new statutes applicable, it relied 
+solely on Frazer to deny the Constitutional rights even though 
+Frazer never examined those rights in light of Carmell v. Texas, 
+529 U.S. 513 (2000). 
+
+
+41 
+
+
+1004 because it is a legal bar to prosecution). Thus a 
+cause of action shown to be outside the statutory period 
+fails to “state a public offense and the defendant could 
+not be prosecuted thereunder and no judgment of 
+conviction could be based upon it.” People v. Hoffman, 
+132 Cal.App. 60, 62 (1933) (noting that this was the 
+state of the law since People v. Miller 12 Cal. 291 (1859)); 
+People v. McGee, 1 Cal.2d 611 (1934). Even where no 
+demurrer is lodged, the prosecution can be defeated by 
+special pretrial motion. People v. Zamora, 18 Cal.3d 538 
+(1976). At trial the matter is put at issue by a plea of 
+not guilty and the State must bear the burden of proving 
+that the Statute has not run in its case in chief. See 
+People v. Cunningham, 99 Cal.App.2d 296, 299 (1950). 
+
+
+This right then is more than “simply” 
+jurisdictional and is greater than an affirmative defense. 
+The failure by the State to prove th... element can result 
+in a directed verdict (see People v. Zamora, 18 Cal.3d 
+538 (1976), or if submitted to the jury, to an acquittal. 
+See People v. Doctor, 257 Cal.App.2d 105 (1967). As the 
+California Supreme Court recognized in People v. 
+Zamora, 18 Cal.3d 538, 565 n. 25 (1985), its bar is also 
+Was 6 Se 6 Se oe | ae 
+prosecutions as it is at the prevention untimely 
+convictions.” (emphasis added). Thus California has 
+long recognized that the running of the Limitations 
+period is a legal bar to prosecution. See People v. 
+Asavis, 27 Cal.App.2d 685, 687 (1938). 
+
+
+Moreover it renders void a judgment, even based 
+on a voluntary plea of guilty, if found in violation of its 
+proscription. See People v. Hoffman, 132 Cal.App. 60, 
+62-3 (1933). It is a basic attack on the court’s ability to 
+
+in the first instance. See People v. McGee, 1 
+Cal.2d 611, 613 (1934). No court has ever maintained 
+that California can exercise original jurisdiction in 
+violation of the McGee rule. See People v. Williams, 21 
+
+
+42 
+
+
+Cal.4% 335 (1999); cf. People v. Frazer, 21 Cal.4% 737 
+(1999). 
+
+
+The State of California can no longer control this 
+powerful right, which it chose to grant. It may not divest 
+Petitioner of his liberty in defiance of the law it created, 
+interpreted, employed, and repeatedly endorsed. 
+Petitioner Marion Stogner has the fundamental right to 
+be free from prosecution, twenty-two years after the 
+Statute of Limitations has run. State v. Sneed, 25 
+Tex.Supp. 66 (1860); Hart Moore v. State, 43 N.J.L. 203 
+(1881); State v. Cookman, 127 Or.App. 283 (1994); State 
+v. Martin, 138 N.H. 508 (1994.) 
+
+
+Although none of the evidence has changed, 
+803(g) alters the applicable rules so that they no longer 
+obligate the State to concede that Petitioner must 
+prevail. These facts no longer require a court to dismiss 
+the matter or prevent it from passing further judgment 
+or sentence on him. See People v. McGee, 1 Cal.2d 611 
+(1934); People v. Hoffman, 132 Cal.App. 60 (1934). In 
+the same way he can no longer resist the powers of the 
+prosecution on these facts. Penal Code Section 803(g) 
+therefore removes from the defendant’s arsenal the most 
+complete and effective defense he can assert here. See 
+Carmell v. Texas, 529 U.S. 513 (2000); see also Montana 
+v. Egelhoff, 518 U.S. 37 (1956). Instead he is forced to 
+face trial conclusively considered by the State and 
+federal courts to be unfair. See United States v. Marion, 
+
+
+404 U.S. 307 (1971); People v. Zamora, 18 Cal.3d 538 
+(1976). 
+
+
+803(g) subtly, but effectively renders Petitioner's 
+ability to marshal these facts (even though not part of 
+his burden), ineffective to gain an acquittal. It alters the 
+rules after the fact for the sole purpose of improving the 
+prosecution’s chance of conviction. Carmell v. Texas, 
+
+
+43 
+
+
+529 U.S. 513 (2000).38 803(g) does not in any way afford 
+greater protection to Petitioner, rather, it increases his 
+burden. Prior to 803(g) the conclusive presumption 
+could not be dispelled even by demonstrating a lack of 
+prejudice to the defendant. People v. Zamora, 18 Cal.3d 
+538, 547 (1976). After section 803(g), Petitioner bears 
+the burden of convincing the court that the passage of 
+time has resulted in loss or impairment of evidence. 
+While it has long been recognized that there is an 
+increasing difficulty faced by a criminal defendant in 
+obtaining reliable evidence, or any evidence at all, as 
+time passes, Zamora, at 546, it bears noting that the 
+passage of time also impairs his ability to show the 
+significance and reliability of such destroyed evidence. 
+Section 803(g) then represents the worst type of burden 
+shifting.*® By rendering proof that these facts exist 
+insufficient to bar prosecution, 803(g) makes a mockery 
+of the right to present evidence on an issue firmly rooted 
+in American jurisprudence.*° 
+
+
+38 In Carmel v. Texas, the High Court commented, “the 
+government refuses, after the fact, to play by its own rules, 
+altering them in a way that is advantageous only to the State, to 
+facilitate an easier conviction. There is plainly a fundamental 
+fairness interest in having the government abide by the rules of 
+law it establishes to govern the circumstances under which it can 
+deprive a person of his or her liberty or life.” Carmell at 532. The 
+notions of justice and fair play have long been associated with the 
+due process clause. See Int’l Shoe Co. v. Washington, 326 U.S. 
+310, 316. (1945). 
+
+39 “While due process does not ‘bajr] States from making changes ... 
+that have the effect of making it easier for the prosecution to obtain 
+convictions,’ McMillan v. Pennsylvania, 477 U.S. 79, 89, n.5 (1986) 
+(emphasis added), an evidentiary rule whose sole purpose is to boost 
+the State’s likelihood of conviction distorts the adversary process. Cy. 
+Washington v. Texas, 388 U.S. 14, 25 (1967) (Harlan, J., concurring 
+in result; emphasis added); Montana v. Egelhoff, 518 U.S. 37, 68 
+(1996); (O’Connor, J., dissenting.) 
+
+40 The Clause does place limits upon restriction of the right to 
+introduce evidence, but only where the restriction offends some 
+principle of justice so rooted in the traditions and conscience of our 
+people as to be ranked as fundamental. “Our primary guide in 
+
+
+44 
+
+
+803(g) has already and will continue to deprive 
+Petitioner of Liberty and the substantive and procedural 
+rights necessary to ensure that Liberty. It permits 
+California to destroy a _ state-ensured binding 
+guarantee*! which has been in place since the State’s 
+foundation and which was well understood to have this 
+meaning of finality under American criminal 
+jurisprudence. 
+
+
+Despite these well-recognized principles, the 
+courts of California ignore them and all concerns for 
+finality and plain meaning. On the one hand stating the 
+right cannot be forfeited, the courts-permit the state to 
+forfeit it for Petitioner. See People v. Williams, 21 
+Cal.4th 335 (1999); People v. Le 82 Cal.App.4th 1352, 
+1360 (2000); People v. Frazer, 21 Cal.4th 737 (1999). 
+Calling it a substantive right, they refuse to give it 
+substance. See. People v. Zamora, 18 Cal.3d 538 (1976); 
+People v. Frazer, 21 Cal.4th 737 (1999). They insist on a 
+lack of jurisdiction yet claim 803(g) creates jurisdiction 
+retroactively. Accord People v. McGee, 1 Cal.2d 611 
+(1934); Cowan v. Superior Court, 14 Cal.4% 227 (1996); 
+People v. Williams, 21 Cal.4% 335 (1999); People v. 
+
+
+' Frazer, 21 Cal.4% 737 (1999). 
+
+
+determining whether the principle in questions is fundamental is, of 
+course historical practice.” Montana v. Egelhoff, 518 U.S. 37, 68 
+(1996); see also Medina v. California, 505 U.S. 437, 446 (1992). 
+
+*! In California cases, the passage of the statutory time has also 
+been deemed akin to an immunity, (see People v. Snipe, 25 
+Cal.App.3d 742, 747 (1972); see also People v. Hoffman, 132 
+Cal.App. 60, 63 (1933)), or an “amnesty.” See In re Gustavo M. 214 
+Cal.App.3d 1485, 1494 (1989). See also In Re Bray, 97 Cal.App.3d 
+506, 513 (1979) citing State v. Keith (1869) 63 N.C. 140 (‘the 
+ordinance was declared invalid because it deprived the prisoner of an 
+immunity to which he had become entitled by statute. The amnesty 
+act placed Civil War soldiers in the position as if the acts they 
+committed were not criminal. The soldiers could not constitutionally 
+be deprived of that benefit.”) 
+
+
+45 
+
+
+Although the legislature had enacted special 
+legislation through Penal Code section 805.5 preserving 
+Petitioner’s rights under prior law, the courts have 
+ignored principles of finality expressed in doctrines such 
+as stare decisis*? and statutory interpretation. “A 
+judicial construction of a statute is an authoritative 
+statement of what the statute meant before as well as 
+after the decision of the case giving rise to that 
+construction.” Rivers v. Roadway Express, Inc., 511 
+U.S. 298, 312-313 (1974); Bradley v. School Bd. of 
+Richmond, 416 U.S. 696, 711 (1974) (“[A] court is to 
+apply the law in effect at the time it renders its 
+decision”). People v. Haskins 177 Cal.App.2d 84, 87-8 
+(1960) (Amendments may be construed as legislative 
+reaffirmances of existing law).** 
+
+
+The legislature and the courts have ignored well 
+established precedent that has expressed concern, 
+
+
+42 “[Ljaw, to be obeyed, must be known; to be known, it must be 
+fixed; to be fixed, what is decided to-day must be followed to-morrow; 
+and stare decisis et non quieta movere is simply a sententious 
+expression of these truths.” 26 CHAMBERLAIN, THE DOCTRINE OF STARE 
+Decisis: ITs REASONS AND ITs EXTENT (1885). 
+
+43 Prior to Stogner, a long line of legal tradition had analyzed the old 
+Statute of Limitations upon which Petitioner relies, finding that the 
+ex post facto clauses barred the statutory extension of a Statute of 
+Limitations once the original term had expired. See Lynch v. Superior 
+Court, 33 Cal.App.4 1223, 1227-28 (1995); People v. Eitzen, 43 
+Cal.App.3d 253, 265-67(1974); Sobiek v. Superior Court, 28 
+Cal.App.3d 846, 849-50 (1972). Stogner has interpreted this Statute 
+contrary to its long history and Petitioner’s position that prior judicial 
+determination should prevail is but a reflection of the type of finality 
+expressed in the Teague v. Lane 489 U.S. 288(1989) rule. The point 
+being that whether or not it violates the Ex Post Facto Clause as it is 
+understood today, the meaning of that Clause as it was understood 
+in 1985 has been incorporated into the Statute of Limitations by the 
+Legislature’s passage of 805.5. Even if not violative of ex post facto, 
+taking this substantial right as it was d<fined in 1985 violates due 
+
+
+process. 
+
+
+46 
+
+
+dismay and even shock at prosecutions after prolonged 
+delay.** 
+
+
+Thus by allowing 803(g) to operate retroactively, 
+the Legislature and the courts break the solemn 
+compact between government and citizen and destroy 
+the dignity inherent therein.*5 By enacting 803(g) the 
+State has reneged on its agreement to its citizens and 
+deprived Petitioner of a substantive right he has held for 
+over twenty years. Cf. People v. Quartermain, 16 Cal.4% 
+600, 618-620 (1997) (breach of a promise not to use 
+defendant’s statement to impeach was fundamentally 
+unfair and denied him due process of law). Instead, 
+803(g) allows the State to actively mislead with notice 
+that is unfair.“6 California has advised all citizens that 
+
+
+44 United States v. Irvine, 98 U.S. 450 (1878) stated ‘It is 
+unreasonable to hold that twenty years after this he can be indicted 
+for wrongfully withholding the money, and be put to prove his 
+innocence after his receipt is lost, and when perhaps the pensioner is 
+dead; but the fact of his receipt of the money is matter of record in 
+the pension office.” Barker v. Municipal Court, 64 Cal.2d 806 
+(1966).“The thought of ordering [defendant] to trial on this charge 
+after a lapse of twenty years shocks the imagination and conscience.” 
+Id. In Adams v. Wood, 6 U.S. 336, 342 (1805), Chief Justice 
+Marshall expressed the same concerns, stating it would be “utterly 
+repugnant te the genius of our laws to allow such an action to lie at 
+any distance of time.” (internal quotations omitted.) 
+
+45 In the context of unlawful searches this Court has acknowledged: 
+“The criminal goes free, if he must, but it is the law that sets him 
+free. Nothing can destroy a government more quickly than its failure 
+to observe its own laws, or worse, its disregard of the charter of its 
+own existence....” Mapp v. Ohio, 367 U.S. 643, 659 (1961). 
+
+** The Due Process Clause also protects the interest in fair notice 
+and repose that may be compromised by retroactive legislation; “a 
+justification sufficient to validate a statute’s prospective application 
+vader the Clause ‘may not suffice’ to warrant its retroactive 
+application” (Landgraf v. USI Film Prods., 511 U.S. 244, 266 (1994)), 
+“due process bars courts from applying a novel construction of a 
+criminal statute to conduct that neither the statute nor any prior 
+judicial decision has fairly disclosed to be within its scope.” See 
+Marks v. United States, 430 U.S. 188, 191-192 (1997); Rabe v. 
+Washington, 405 U.S. 313 (1972) (per curiam), Bouie v. City of 
+
+
+47 
+
+
+they need not keep up their guard, nor need prepare or 
+preserve defenses. The citizenry has been informed that 
+finally, there is nc need to fear an attack on our 
+fundamental rights from our government, righteous or 
+not. 
+
+
+“Our Government is the potent, the omnipresent, 
+teacher. For good or for ill, it teaches the whole people 
+by its example.” Olmstead v. United States, 277 U.S. 
+438, 455 (1928) (Brandeis, J., dissenting) (overruled on 
+other grounds). “Decency, security, and liberty alike 
+demand that government officials shall be subjected to 
+the same rules of conduct that are commands to the 
+citizen. Having surrendered its right to prosecute by 
+way of a statute of limitation, (State v. Cookman, 127 
+Or.App. 283 (1994) ; 873 P.2d 335; State v. Dufort (1992) 
+111 Or.App. 515, 519; 827 P.2d 192; State v. Hodgson, 
+108 Wash.2d 662, 667 (1987); 740 P.2d 848), the state 
+may not renege on that promise years afterwards, when 
+memories may have faded and evidence may have been 
+destroyed.” Frazer, supra, 21 Cal.4th at 780 (Kennard 
+J., dissenting). 
+
+
+There are due. process limits on arbitrary 
+governmental behavior in revoking its promises of 
+protection such as when the government confers a 
+substantive right and then arbitrarily revokes it. See 
+Raley v. Ohio, 360 U.S. 423, 425-26 (1959) (when 
+defendants were assured of the right to remain silent by 
+a legislative committee and then held in contempt for 
+asserting it, this was "an indefensible sort of entrapment 
+by the State.") While the Constitution does not 
+guarantee defendants that they will be free from the 
+prosecution after a fixed period of time, California, has 
+conferred this very right via statute. See Hicks v. 
+
+
+- Columbia, 378 U.S. 347, 353-54 (1964); United States v. Lanier, 520 
+U.S. 259 (1997). 
+
+
+48 
+
+
+Oklahoma, 447 U.S. 343, 346 (1980). “[T]he failure of 
+the state to abide by its own statutory commands may 
+implicate a liberty interest protected by the Fourteenth 
+Amendment preserves against arbitrary deprivation by a 
+state.” Id. 
+
+
+If 803(g) is allowed to stand it will eliminate an 
+important substantive right that destroys the cause of 
+action according to both California and United States 
+Supreme Court precedents. 47 It has destroyed a matter 
+of substance rather than of form. See Guaranty Trust 
+Co. of New York v. York, 326 U.S. 99 (1945). Therefore, 
+forcing Petitioner to forfeit the substantive right to raise 
+this bar is in and of itself a violation of due process. 
+
+
+47 Chase Secs. Corp v. Donaldson, 325 U.S. 304 (1945), construed 
+the critical inquiry for due process analysis to be to determine how 
+“the state court...construed the relationship between its limitation 
+acts and the state law creating the asserted liability.” Chase, 325 
+U.S. at 312, n 8. Indeed in only a limited line of civil cases has the 
+statute of limitations been deemed subject to retroactivity, and 
+only where the underlying right was conclusively shown not to 
+have been destroyed. See Campbell v. Holt, 115 U.S. 620 (1885). 
+
+But where the right is statutorily created and is given a fixed 
+period of time in which the remedy must be pursued, the United 
+States Supreme Court has agreed the right itself is destroyed when 
+the limitations period expires, and depriving an accused of this 
+limitations defense by way of retroactive legislation does violate the 
+due process clause. See William Danzer & Co. v. Gulf & S.I.R., Co., 
+268 U.S. 633 (1925). Chase itself recognized this important 
+distinction, noting Danzer and Davis stand for the proposition that 
+retroactive legislation will result in a due process violation “where a 
+statute in creating a liability also puts a period after its expiration....” 
+Chase, 325 U.S.at 312 n. 8. 
+
+There are no common law crimes in California; all crimes are 
+created by way of statute. Cal. Pen. Code, § 6; see also In re Brown, 
+9 Cal.3d 612, 624 (1973). California has similarly created a 
+limitations period on certain classes of crimes, including Penal Code 
+§ 288. Thus depriving Petitioner of his limitations defense violates 
+due process. 
+
+
+49 
+
+
+At no point in our history has the opposite rule 
+been shown to exist. See People v. Frazer, 21 Cal.4% 
+- 737, 777 (1999) (Kennard, J., dissenting).** The societal 
+benefits of the Statute of Limitations also underscore a 
+more basic societal sense of fair play and decency 
+(Rochin v. California, 342 U.S. 165, 172 (1952)) in not 
+making promises only to break them retroactively years 
+later. 
+
+
+California has stated in no uncertain terms that 
+their power to prosecute has ended. Simultaneously, 
+they have decided that Petitioner has been conferred 
+thereby a substantial right. His liberty interest is then 
+inviolate.4? The State has retained no power upon which 
+
+
+48 “Today, California becomes the only jurisdiction, state or federal, 
+to permit ‘revival’ prosecutions under an extended statute of 
+limitations enacted after the expiration of the original statute of 
+limitations. All other jurisdictions that have addressed the issue 
+have concluded or assumed that these prosecutions violate article I, 
+section 10, clause 1 of the federal Constitution, which provides that 
+‘(njo state shall pass any ... ex post facto law ...’.” Frazer, 21 Cal.4% 
+at 777 (Kennard J., dissenting) (citations omitted). 
+49 The State would have this Court ignore the history of both 
+California and the United States in this regard. Rather they would 
+equate the Petitioner’s clearly defined substantive rights and liberty 
+interest with nothing more than vague economic interest type cases. 
+However, even if the court were to engage in a balancing test, 
+the result should still favor Petitioner. Frazer proffered the following 
+justification for the legislation: the difficulty by alleged victims in 
+remembering the wrongs themselves, and/or the “emotional 
+vulnerability at the hands of the perpetrators.” People v. Frazer, 21 
+Cal.4th 737, 773 (1999). Such justifications may well sustain an 
+increase in the limitations period in prospective cases, however this 
+justification ignores that society by its use of Statutes of Limitations 
+has already taken into account that the passage of time will 
+naturally void even sympathetic claims. Indeed, to the extent that 
+some perpetrators of crimes will escape punishment holds true for all 
+crimes subject to a Statute of Limitations and has always been a 
+cost society has been willing to incur in exchange for the benefits of 
+repose. Moreover, because Penal Code section 803(g) is not limited 
+in any fashion to victims who have repressed the wrongs done them, 
+and might therefore claim recent discovery of the harm, or who might 
+
+
+it can infringe Petitioner’s liberty interest. “In our 
+society liberty is the norm.” United States v. Salerno, 
+481 U.S. 739, 755 (1987). 
+
+
+“The Due Process Clause contains a substantive 
+component that bars certain arbitrary, wrongful 
+government actions regardless of the fairness of the 
+procedures used to implement them.” Zinermon v. 
+Burch, 494 U.S. 113, 125 (1990) quoting Daniels v. 
+Williams, 474 U.S. 327, 331 (1986). This Court has 
+“always been careful not to ‘minimize the importance 
+and fundamental nature’ of the individual’s right to 
+liberty.” Foucha v. Louisiana, 504 U.S. 71, 80 (1992); 
+quoting U.S. v. Salerno, 481 U.S. 739, 750 (1987). 
+
+
+CONCLUSION 
+For all the foregoing reasons, relief should be 
+granted and the prosecution dismissed. 
+
+
+Dated this 16% day of January, 2003 
+
+
+Respectfully submitted, 
+
+
+Roberto Najera (Counsel of Record 
+Elisa Stewart 
+
+Office of the Alternate Defender 
+610 Court Street 
+
+Martinez, California 94553 
+
+(925) 646-1740 
+
+Cound for Petitioner 
+
+

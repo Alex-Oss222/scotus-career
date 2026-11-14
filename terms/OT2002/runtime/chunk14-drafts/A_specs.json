@@ -1,0 +1,113 @@
+[
+  {
+    "case": "American Insurance Association v. Garamendi",
+    "date": "2003-06-23",
+    "file": "American-Insurance-Association-v-Garamendi_merits_2003-06-23.md",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Ginsburg"
+    ],
+    "fit": {
+      "Stone-Zsela": "Separate operative federal authority, the fractured Commerce question and the independent local regulatory connection.",
+      "Stevens": "Apply the source-and-conflict rule while preserving functional insurance regulation and precise agreement qualifications.",
+      "Ginsburg": "Explain why actual claims processing and funding differ from independent reporting while retaining meaningful local connection limits."
+    }
+  },
+  {
+    "case": "Green Tree Financial Corp. v. Bazzle",
+    "date": "2003-06-23",
+    "file": "Green-Tree-Financial-Corp-v-Bazzle_merits_2003-06-23.md",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Scalia",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Scalia",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit": {
+      "Stone-Zsela": "Specify the procedure-versus-foundation boundary and the executable independent-construction mandate.",
+      "Scalia": "Explain why integrated contract interpretation belongs to the arbitrator without erasing a genuine selection right.",
+      "Souter": "Distinguish foundational assent from procedure and preserve limited statutory review.",
+      "Ginsburg": "Connect actual-person consent safeguards with arbitral administration of accepted borrower disputes.",
+      "Breyer": "Extend the Howsam allocation distinction through integrated contract reading while protecting First Options."
+    }
+  },
+  {
+    "case": "Cano v. Davis",
+    "date": "2003-06-26",
+    "file": "Cano-v-Davis_merits_2003-06-26.md",
+    "countable": true,
+    "assigner": "Stone-Zsela and Stevens, by component",
+    "chief_assigns_any": true,
+    "assignment_authority_text": "Stone-Zsela assigns Parts I, II.A, II.C and III from their judgment coalitions; Stevens, the senior participating Associate in the eight-Justice CD28 coalition, assigns Part II.B. Four full supporters can carry the single lead, so no division is permitted. Because the Chief assigns portions, Engine section 8 governs the single lead.",
+    "eligible_authors": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit": {
+      "Stevens": "Coordinate distinct constitutional injuries and statutory results while preserving favorable summary-judgment inferences.",
+      "Souter": "Apply the Brooks and De Grandy claim-specific injury and causation distinctions to the local voting record.",
+      "Ginsburg": "Apply the Easley territorial-design boundary while identifying the separate actual-injury ground.",
+      "Breyer": "Explain the separate participation and electoral-opportunity inquiries without treating racial motive or percentages as substitutes for injury."
+    }
+  },
+  {
+    "case": "Wiggins v. Smith",
+    "date": "2003-06-26",
+    "file": "Wiggins-v-Smith_merits_2003-06-26.md",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit": {
+      "Stone-Zsela": "Separate the statutory gate, actual investigation, prejudice and executable conditional sentence remedy.",
+      "Stevens": "Apply the established informed-investigation requirement to substantial unpursued leads.",
+      "O'Connor": "Explain why this state judgment crosses the independent objective statutory limit without de novo substitution.",
+      "Kennedy": "Connect an objectively unreasonable investigation appraisal to the separate reliable prejudice determination.",
+      "Souter": "Preserve distinct statutory, constitutional and remedial predicates while evaluating the full sentencing record.",
+      "Ginsburg": "Distinguish actual factual findings and supported mitigation from unresolved hearing and proffer questions.",
+      "Breyer": "Apply the Terry Williams investigation and whole-record principles without importing a later substantive duty."
+    }
+  }
+]

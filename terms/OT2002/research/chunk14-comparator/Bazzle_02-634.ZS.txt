@@ -1,0 +1,36 @@
+Source: https://www.law.cornell.edu/supct/html/02-634.ZS.html
+
+GREEN TREE FINANCIAL CORP. V. BAZZLE
+LII
+Supreme Court
+GREEN TREE FINANCIAL CORP. V. BAZZLE (02-634)
+351 S. C. 244, 569 S. E. 2d 349, vacated and remanded.
+Syllabus
+Opinion
+[ Breyer ]Dissent
+[ Rehnquist ]Dissent
+[ Thomas ]Other
+[ Stevens ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+SUPREME COURT OF THE UNITED STATES
+GREEN TREE FINANCIAL CORP., nka CONSECO
+FINANCE CORP. v. BAZZLE et al., in a representative capacity on behalf of a class and for all others similarly situated, et al.
+CERTIORARI TO THE SUPREME COURT OF SOUTH CAROLINA
+No. 02—634.  Argued April 22, 2003–Decided June 23, 2003
+The Bazzle respondents and the Lackey and Buggs respondents separately entered into contracts with petitioner Green Tree Financial Corp. that were governed by South Carolina law and included an arbitration clause governed by the Federal Arbitration Act.  Each set of respondents filed a state-court action, complaining that Green Tree’s failure to provide them with a form that would have told them of their right to name their own lawyers and insurance agents violated South Carolina law, and seeking damages.  The Bazzles moved for class certification, and Green Tree sought to stay the court proceedings and compel arbitration.  After the court certified a class and compelled arbitration, Green Tree selected, with the Bazzles’ consent, an arbitrator who later awarded the class damages and attorney’s fees.  The trial court confirmed the award, and Green Tree appealed, claiming, among other things, that class arbitration was legally impermissible.  Lackey and the Buggses also sought class certification and Green Tree moved to compel arbitration.  The trial court denied Green Tree’s motion, finding the agreement unenforceable, but the state appeals court reversed.  The parties then chose an arbitrator, the same arbitrator who was later chosen to arbitrate the Bazzles’ dispute.  The arbitrator certified a class and awarded it damages and attorney’s fees.  The trial court confirmed the award, and Green Tree appealed.  The State Supreme Court withdrew both cases from the appeals court, assumed jurisdiction, and consolidated the proceedings.  That court held that the contracts were silent in respect to class arbitration, that they consequently authorized class arbitration, and that arbitration had properly taken that form.
+Held: The judgment is vacated, and the case is remanded.
+351 S. C. 244, 569 S. E. 2d 349, vacated and remanded.
+Justice Breyer, joined by Justice Scalia, Justice Souter, and Justice Ginsburg, concluded that an arbitrator must determine whether the contracts forbid class arbitration.  Pp. 4—9.
+(a) Green Tree argues that the contracts are not silent–that they forbid arbitration.  If the contracts are not silent, then the state court’s holding is flawed on its own terms; that court neither said nor implied that it would have authorized class arbitration had the parties’ arbitration agreement forbidden it.  Whether Green Tree is right about the contracts presents a disputed issue of contract interpretation.  The contracts say that disputes “shall be resolved … by one arbitrator selected by us [Green Tree] with consent of you [Green Tree’s customer].”  The class arbitrator was “selected by” Green Tree “with consent of” Green Tree’s customers, the named plaintiffs.  And insofar as the other class members agreed to proceed in class arbitration, they consented as well.  Green Tree did not independently select this arbitrator to arbitrate its dispute with the other class members, but whether the contracts contain such a requirement is not decided by the literal contract terms.  Whether “selected by [Green Tree]” means “selected by [Green Tree] to arbitrate this dispute and no other (even identical) dispute with another customer” is the question at issue: Do the contracts forbid class arbitration?  Given the broad authority they elsewhere bestow upon the arbitrator, the answer is not completely obvious.  The parties agreed to submit to the arbitrator “[a]ll disputes, claims, or controversies arising from or relating to this contract or the relationships which result from this contract.”  And the dispute about what the arbitration contracts mean is a dispute “relating to this contract” and the resulting “relationships.”  Hence the parties seem to have agreed that an arbitrator, not a judge, would answer the relevant question, and any doubt about the “ ‘scope of arbitrable issues’ ” should be resolved “ ‘in favor of arbitration.’ ”  Mitsubishi Motors Corp. v. Soler Chrysler&nbhyph;Plymouth, Inc., 473 U.S. 614, 626.  The question here does not fall into the limited circumstances where courts assume that the parties intended courts, not arbitrators, to decide a particular arbitration-related matter, as it concerns neither the arbitration clause’s validity nor its applicability to the underlying dispute.  The relevant question here is what kind of arbitration proceeding the parties agreed to, which does not concern a state statute or judicial procedures, cf. Volt Information Sciences, Inc. v. Board of Trustees of Leland Stanford Junior Univ., 489 U.S. 468, but rather contract interpretation and arbitration procedures.  Arbitrators are well situated to answer that question.  Pp. 4—7.
+(b) With respect to the question whether the contracts forbid class arbitration, the parties have not yet obtained the arbitration decision that their contracts foresee.  Regarding Bazzle plaintiffs, the State Supreme Court wrote that the trial court issued an order granting class certification and the arbitrator subsequently administered class arbitration proceedings without the trial court’s further involvement.  As for Lackey plaintiffs, the arbitrator decided to certify the class after the trial court had determined that the identical contract in the Bazzle case authorized class arbitration procedures, and there is no question that the arbitrator was aware of that decision.  On balance, there is at least a strong likelihood that in both proceedings the arbitrator’s decision reflected a court’s interpretation of the contracts rather than an arbitrator’s interpretation.  Pp. 7—9.
+Justice Stevens concluded that in order to have a controlling judgment of the Court, and because Justice Breyer’s opinion expresses a view of the case close to his own, he concurs in the judgment.  Pp. 1—2.
+Breyer, J., announced the judgment of the Court and delivered an opinion, in which Scalia, Souter, and Ginsburg, JJ., joined.  Stevens, J., filed an opinion concurring in the judgment and dissenting in part.  Rehnquist, C. J., filed a dissenting opinion, in which O’Connor and Kennedy, JJ., joined.  Thomas, J., filed a dissenting opinion.

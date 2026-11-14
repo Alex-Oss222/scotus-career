@@ -1,0 +1,101 @@
+{
+  "completed_records": [
+    {
+      "case": "American Insurance Association v. Garamendi",
+      "date": "2003-06-23",
+      "record": "American-Insurance-Association-v-Garamendi_merits_2003-06-23.md",
+      "countable": true,
+      "author": "Ginsburg"
+    },
+    {
+      "case": "Green Tree Financial Corp. v. Bazzle",
+      "date": "2003-06-23",
+      "record": "Green-Tree-Financial-Corp-v-Bazzle_merits_2003-06-23.md",
+      "countable": true,
+      "author": "Scalia"
+    },
+    {
+      "case": "Sons of Confederate Veterans, Inc. v. Commissioner of the Virginia Department of Motor Vehicles",
+      "date": "2003-06-23",
+      "record": "Sons-of-Confederate-Veterans-Inc-v-Commissioner-of-the-Virginia-Department-of-Motor-Vehicles_merits_2003-06-23.md",
+      "countable": true,
+      "author": "Thomas"
+    },
+    {
+      "case": "Alkire v. Irving",
+      "date": "2003-06-26",
+      "record": "Alkire-v-Irving_merits_2003-06-26.md",
+      "countable": true,
+      "author": "Stevens"
+    },
+    {
+      "case": "Cano v. Davis",
+      "date": "2003-06-26",
+      "record": "Cano-v-Davis_merits_2003-06-26.md",
+      "countable": true,
+      "author": "Souter"
+    },
+    {
+      "case": "Lawrence v. Texas",
+      "date": "2003-06-26",
+      "record": "Lawrence-v-Texas_merits_2003-06-26.md",
+      "countable": true,
+      "author": "Ginsburg"
+    },
+    {
+      "case": "Limon v. Kansas",
+      "date": "2003-06-26",
+      "record": "Limon-v-Kansas_merits_2003-06-26.md",
+      "countable": true,
+      "author": "Stone-Zsela"
+    },
+    {
+      "case": "Nike, Inc. v. Kasky",
+      "date": "2003-06-26",
+      "record": "Nike-Inc-v-Kasky_jurisdictional_2003-06-26.md",
+      "countable": false,
+      "author": "Stevens"
+    },
+    {
+      "case": "Stogner v. California",
+      "date": "2003-06-26",
+      "record": "Stogner-v-California_merits_2003-06-26.md",
+      "countable": true,
+      "author": "Breyer"
+    },
+    {
+      "case": "Wiggins v. Smith",
+      "date": "2003-06-26",
+      "record": "Wiggins-v-Smith_merits_2003-06-26.md",
+      "countable": true,
+      "author": "O'Connor"
+    },
+    {
+      "case": "Bragg v. West Virginia Coal Association",
+      "date": "2003-06-30",
+      "record": "Bragg-v-West-Virginia-Coal-Association_merits_2003-06-30.md",
+      "countable": true,
+      "author": "Thomas"
+    },
+    {
+      "case": "Eichorn v. AT&T Corp.",
+      "date": "2003-06-30",
+      "record": "Eichorn-v-AT-and-T-Corp_merits_2003-06-30.md",
+      "countable": true,
+      "author": "Souter"
+    },
+    {
+      "case": "United States v. Gatewood",
+      "date": "2003-06-30",
+      "record": "United-States-v-Gatewood_merits_2003-06-30.md",
+      "countable": true,
+      "author": "Scalia"
+    }
+  ],
+  "protected_artifacts_unchanged": 750,
+  "assignment_recounts": "passed",
+  "public_projection_identity": "passed",
+  "frozen_aggregate_identity": "passed",
+  "negative_statement_candidates_for_human_review": 116,
+  "repository_history_checks": "not performed by instruction"
+}

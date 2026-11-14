@@ -1,0 +1,129 @@
+{
+  "Garamendi": [
+    {
+      "file": "Garamendi_02-722.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-722.ZD.html",
+      "characters": 27580
+    },
+    {
+      "file": "Garamendi_02-722.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-722.ZO.html",
+      "characters": 61020
+    },
+    {
+      "file": "Garamendi_02-722.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-722.ZS.html",
+      "characters": 13392
+    }
+  ],
+  "Bazzle": [
+    {
+      "file": "Bazzle_02-634.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-634.ZD.html",
+      "characters": 9532
+    },
+    {
+      "file": "Bazzle_02-634.ZD1.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-634.ZD1.html",
+      "characters": 1161
+    },
+    {
+      "file": "Bazzle_02-634.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-634.ZO.html",
+      "characters": 15726
+    },
+    {
+      "file": "Bazzle_02-634.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-634.ZS.html",
+      "characters": 7150
+    },
+    {
+      "file": "Bazzle_02-634.ZX.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-634.ZX.html",
+      "characters": 2257
+    }
+  ],
+  "Wiggins": [
+    {
+      "file": "Wiggins_02-311.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-311.ZD.html",
+      "characters": 39365
+    },
+    {
+      "file": "Wiggins_02-311.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-311.ZO.html",
+      "characters": 49024
+    },
+    {
+      "file": "Wiggins_02-311.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-311.ZS.html",
+      "characters": 10395
+    }
+  ],
+  "Lawrence": [
+    {
+      "file": "Lawrence_02-102.ZC.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-102.ZC.html",
+      "characters": 14173
+    },
+    {
+      "file": "Lawrence_02-102.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-102.ZD.html",
+      "characters": 40549
+    },
+    {
+      "file": "Lawrence_02-102.ZD1.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-102.ZD1.html",
+      "characters": 1573
+    },
+    {
+      "file": "Lawrence_02-102.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-102.ZO.html",
+      "characters": 34692
+    },
+    {
+      "file": "Lawrence_02-102.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-102.ZS.html",
+      "characters": 9260
+    }
+  ],
+  "Stogner": [
+    {
+      "file": "Stogner_01-1757.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/01-1757.ZD.html",
+      "characters": 43483
+    },
+    {
+      "file": "Stogner_01-1757.ZO.txt",
+      "url": "https://www.law.cornell.edu/supct/html/01-1757.ZO.html",
+      "characters": 48940
+    },
+    {
+      "file": "Stogner_01-1757.ZS.txt",
+      "url": "https://www.law.cornell.edu/supct/html/01-1757.ZS.html",
+      "characters": 4679
+    }
+  ],
+  "Nike": [
+    {
+      "file": "Nike_02-575.ZC.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-575.ZC.html",
+      "characters": 19284
+    },
+    {
+      "file": "Nike_02-575.ZD.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-575.ZD.html",
+      "characters": 591
+    },
+    {
+      "file": "Nike_02-575.ZD1.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-575.ZD1.html",
+      "characters": 38429
+    },
+    {
+      "file": "Nike_02-575.ZPC.txt",
+      "url": "https://www.law.cornell.edu/supct/html/02-575.ZPC.html",
+      "characters": 688
+    }
+  ]
+}

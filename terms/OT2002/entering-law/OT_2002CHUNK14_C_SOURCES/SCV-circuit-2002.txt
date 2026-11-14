@@ -1,0 +1,1062 @@
+Source: https://www.ca4.uscourts.gov/Opinions/Published/011242.P.pdf
+
+Page 1
+Filed: June 24, 2002
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+No. 01-1242
+(CA-99-530-7)
+Sons of Confederate Veterans, Inc., etc., et
+al.,
+Plaintiffs - Appellees,
+versus
+Commissioner of the Virginia Department of
+Motor Vehicles, etc.,
+Defendant - Appellant.
+ORDER
+The court amends its opinion filed April 29, 2002, and
+reported at 288 F.3d 610 as follows:
+On page 9, first paragraph, line 2 -- the cite to Griffin v.
+Dep’t of Veterans Affairs is corrected to begin “274 F.3d ....”
+On page 19, footnote 12, line 2 -- the cite to United States
+v. Blanding is corrected to read “250 F.3d 858, 860 (4th Cir.
+2001).
+For the Court - By Direction
+/s/ Patricia S. Connor
+Clerk
+
+Page 2
+PUBLISHEDPUBLISHEDPUBLISHEDPUBLISHED
+UNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALSUNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUITFOR THE FOURTH CIRCUIT
+                                                 
+SONS OF CONFEDERATE VETERANS,
+INCORPORATED, a Tennessee
+Corporation, by its Commander-in-
+Chief Patrick J. Griffin; VIRGINIA
+DIVISION OF SONS OF CONFEDERATE
+VETERANS, INCORPORATED, a Virginia
+Corporation, by its Commander
+Robert W. Barbour, Sr.,
+          Plaintiffs-Appellees,
+          v.
+COMMISSIONER OF THE VIRGINIA
+DEPARTMENT OF MOTOR VEHICLES, in
+his official capacity,
+          Defendant-Appellant, No. 01-1242
+          and
+COMMONWEALTH OF VIRGINIA, whose
+agents and officers enacted and will
+enforce, on its behalf, VA. CODE
+ANN. 46.2-746.22; JAMES S.
+GILMORE, III, Governor, as Governor
+of the Commonwealth of Virginia,
+in his official capacity; SHIRLEY
+YBARRA, as Secretary of the
+Department of Transportation of the
+State of Virginia, in her official
+capacity,
+          Defendants.
+                                                 
+Appeal from the United States District Court
+for the Western District of Virginia, at Roanoke.
+Jackson L. Kiser, Senior District Judge.
+(CA-99-530-7)
+
+Page 3
+Argued: October 31, 2001
+Decided: April 29, 2002
+Before WILLIAMS and TRAXLER, Circuit Judges, and
+Malcolm J. HOWARD, United States District Judge for
+the Eastern District of North Carolina,
+sitting by designation.
+____________________________________________________________
+Affirmed by published opinion. Judge Williams wrote the opinion, in
+which Judge Traxler and Judge Howard joined.
+____________________________________________________________
+COUNSELCOUNSELCOUNSELCOUNSEL
+ARGUED:ARGUED:ARGUED:ARGUED: William Henry Hurd, Solicitor General, OFFICE OF
+THE ATTORNEY GENERAL, Richmond, Virginia, for Appellant.
+Arthur Patrick Strickland, STRICKLAND & HARDEN, P.C., Roa-
+noke, Virginia, for Appellees. ON BRIEF:ON BRIEF:ON BRIEF:ON BRIEF: Randolph A. Beales, Act-
+ing Attorney General, Jeffrey A. Spencer, Assistant Attorney General,
+Alison P. Landry, Assistant Attorney General, OFFICE OF THE
+ATTORNEY GENERAL, Richmond, Virginia, for Appellant. Steven
+H. Aden, THE RUTHERFORD INSTITUTE, Charlottesville, Vir-
+ginia, for Appellees.
+____________________________________________________________
+OPINIONOPINIONOPINIONOPINION
+WILLIAMS, Circuit Judge:
+     This appeal arises out of a dispute regarding the constitutionality
+of a provision in the Virginia statute authorizing the issuance of spe-
+cial license plates to members of the Sons of Confederate Veterans1111
+____________________________________________________________
+     1111    The Sons of Confederate Veterans is a Tennessee non-profit corpora-
+tion. Sons of Confederate Veterans, Inc. v. Holcomb, 129 F. Supp. 2d
+941, 942 (W.D. Va. 2001). The members of the Sons of Confederate
+Veterans are men "who can prove genealogically that one of their ances-
+tors served honorably in the armed forces of the Confederate States of
+America." (Br. of Appellee at 4.)
+2
+
+Page 4
+(SCV). In contrast to other Virginia statutes authorizing special plates
+for members or supporters of various organizations, this statute con-
+tains a restriction (the logo restriction) providing that "[n]o logo or
+emblem of any description shall be displayed or incorporated into the
+design of license plates issued under this section." Va. Code Ann.
+§ 46.2-746.22 (Michie Supp. 2000).2222 The SCV are thus prohibited by
+the logo restriction from receiving special plates bearing the symbol
+of their organization, which includes the Confederate flag. Richard
+Holcomb, Commissioner of the Virginia Department of Motor Vehi-
+cles (the Commissioner), appeals from a district court's order granting
+summary judgment to the SCV on their claim that the logo restriction
+violates the First and Fourteenth Amendments to the United States
+Constitution and granting an injunction to the SCV prohibiting the
+Commissioner from enforcing the restriction. Because we agree with
+the district court that the logo restriction violates the Constitution, we
+affirm.
+I.
+     The General Assembly of Virginia has created a program through
+which "special" Virginia license plates may be issued to members and
+supporters of various organizations or groups. Such plates must be
+specifically authorized by statute. Va. Code Ann. § 46.2-725 (Michie
+1998). Generally, the plates bear the organization's logo and motto in
+addition to letters and numbers as found on other Virginia license
+plates. Ordinarily, a group or organization that would like to have a
+special license plate made available to its members contacts a member
+of the General Assembly to request that a bill be introduced which,
+if enacted, would authorize the issuance of a special plate. The Gen-
+eral Assembly has authorized well over one hundred special plates in
+____________________________________________________________
+     2222    The statute states in full:
+On receipt of an application therefor and written evidence that
+the applicant is a member of the Sons of Confederate Veterans,
+the Commissioner shall issue special license plates to members
+of the Sons of Confederate Veterans. No logo or emblem of any
+description shall be displayed or incorporated into the design of
+license plates issued under this section.
+Va. Code Ann. § 46.2-746.22 (Michie 2000).
+3
+
+Page 5
+this fashion, a significant number of them for private organizations or
+associations.
+     The Virginia statute that created the special license plate program
+gives the Commissioner authority to "prescribe" the design of any
+special plate, stating that "[a]ll special license plates issued pursuant
+to this article shall be of designs prescribed by the Commissioner
+. . . ." Va. Code Ann. § 46.2-725(B)(3) (Michie 1998). Section 46.2-
+725(B)(3) does not merely create discretion in the Commissioner to
+approve or reject plate designs; it also lays out substantive standards
+for those plate designs, requiring that they "bear unique letters and
+numerals, clearly distinguishable from any other license plate designs,
+and be readily identifiable by law enforcement personnel." Id.
+     The record indicates that special plate designs ordinarily are settled
+upon by a cooperative process between the Commissioner, repre-
+sented by the Department of Motor Vehicles (DMV), and the group
+authorized to receive a special plate. The group is invited in a letter
+from the DMV to submit a design through a designated "sponsor," a
+person authorized to communicate on the group's behalf with the
+DMV regarding the plate. The letter instructs the sponsor to include
+"electronic media art of the logo and legend for the plate" with its
+submission. (J.A. at 104) (DMV form letter to plate sponsors). In
+addition to these instructions, "Special License Plate Design Criteria"
+are provided, which specifically state that "[y]ou can use your organi-
+zation's logo or create a logo to be placed on the plate." (J.A. at 106.)
+II.
+     The SCV brought this action in the United States District Court for
+the Western District of Virginia by and through their Commander in
+Chief, Patrick J. Griffin, seeking a declaration that the logo restriction
+is invalid under the First, Fifth, and Fourteenth Amendments to the
+United States Constitution, an injunction requiring the Commissioner
+to issue special license plates bearing the logo of the SCV, including
+the Confederate flag, to those members of the SCV who request them,
+and attorney's fees and costs pursuant to 42 U.S.C.A. § 1988. The
+SCV and the Commissioner filed cross-motions for summary judg-
+ment. The district court granted the SCV's motion and denied the
+Commissioner's motion on January 18, 2001. Concluding that the
+4
+
+Page 6
+logo restriction violated the First Amendment as incorporated into the
+Fourteenth, the district court declared it invalid on that ground. Sons
+of Confederate Veterans, Inc. v. Holcomb, 129 F. Supp. 2d 941, 947
+(W.D. Va. 2001). The district court then entered an injunction enjoin-
+ing the Commissioner from enforcing the logo restriction and requir-
+ing the issuance of the special plates with the design sought by the
+SCV. The district court did not rule on the issues of costs or attor-
+ney's fees, stating that those matters would be taken up at a later date.
+Id. at 949.
+     In support of its rulings, the district court made several findings.
+First, it found that plates authorized for private organizations under
+Virginia's special license plate program constitute private, rather than
+government, speech. Id. at 945 ("the design of [special plates] honor-
+ing private entities is the speech of those entities"). The district court
+then analyzed the effect of the logo restriction on the SCV's speech
+rights, concluding that the prohibition of any logo or emblem on the
+SCV's special plate discriminates on the basis of viewpoint and is
+thus invalid. Id. at 947. The district court also conducted an analysis
+of the special license plate program as a forum for speech, concluding
+that it would constitute a "designated public forum" under such analysis.3333
+Id. at 947-49. The district court found that strict scrutiny would be
+applied to restrictions in that forum, other than reasonable time, place,
+and manner restrictions, and that the logo prohibition could not sur-
+vive such scrutiny.
+     As to the appropriate remedy for the violation, the district court
+found that the two sentences of section 46.2-746.22 are severable
+under Virginia law, and that the second, comprising the logo restric-
+tion, could thus be invalidated while leaving the first intact. Id. at 949.
+The district court found alternatively that even if the second sentence
+could not be severed from the first (and consequently the whole stat-
+ute authorizing a special plate for the SCV would have to be invali-
+dated), it would act pursuant to its inherent equitable powers to
+____________________________________________________________
+     3333    The district court stated that the forum analysis it conducted was not
+necessary to its holding because "impermissible viewpoint discrimination
+is sufficient and independent grounds for striking down the ban at issue,
+regardless of the forum in which the expression occurs." Sons of Confed-
+erate Veterans, 129 F. Supp. 2d at 947.
+5
+
+Page 7
+compel the Commissioner to comply with the requirements of the first
+sentence of § 46.2-746.22 — that is, to issue special plates to the SCV
+containing their logo. To invalidate the authorizing statute entirely,
+the district court found, would give effect to viewpoint discrimination
+in violation of the First Amendment. Id. The Commissioner timely
+noted this appeal.
+     The Commissioner's argument on appeal has three parts. First, the
+Commissioner contends that the special plate authorized for the SCV,
+and indeed all the special plates authorized in Virginia, are instances
+of "government speech." Second, the Commissioner argues that even
+if the special plates contain private speech, that speech has not been
+abridged impermissibly in violation of the First Amendment because
+the logo restriction is a reasonable subject matter limitation, rather
+than a bar to expression of a particular viewpoint. Third and finally,
+the Commissioner contends that if section 46.2-746.22 is unconstitu-
+tional, the district court erred when it severed what it found to be the
+offending portion of the authorizing statute, thereby creating a statute
+that the General Assembly did not pass and would not have passed.
+     We address each of these arguments in turn, reviewing de novo the
+grant of the motion for summary judgment. Higgins v. E.I. DuPont de
+Nemours and Co., 863 F.2d 1162, 1167 (4th Cir. 1988). In reviewing
+the record, we "draw all reasonable inferences in favor of the non-
+moving party, . . . and we may not make credibility determinations
+or weigh the evidence." Edell & Assoc., P.C. v. Law Offices of Peter
+G. Angelos, 264 F.3d 424, 435-36 (4th Cir. 2001). Where the Govern-
+ment imposes viewpoint-based restrictions, we evaluate the restric-
+tions pursuant to strict scrutiny. American Life League, Inc. v. Reno,
+47 F.3d 642, 648 (4th Cir. 1995). "To pass this test a law must be nec-
+essary to serve compelling governmental interests by the least restric-
+tive means available." Id. (citing R.A.V. v. St. Paul, 505 U.S. 377, 395
+(1992)).4444
+____________________________________________________________
+     4444    The Supreme Court has indicated that a viewpoint-based restriction of
+private speech rarely, if ever, will withstand strict scrutiny review. See,
+e.g., R.A.V. v. St. Paul, 505 U.S. 377, 395-96 (1992) (holding that a bias-
+motivated disorderly conduct ordinance's viewpoint discrimination was
+not justified on the ground that the ordinance was narrowly tailored to
+6
+
+Page 8
+III.
+     With these background principles in mind, we turn first to the ques-
+tion of whether the speech on the special plates authorized by the Vir-
+ginia legislature is private speech or "government speech." The
+Commissioner contends that any expressive content on a Virginia
+special plate is a "statement" by the Commonwealth about the group
+represented on the plate. In this vein, the Commissioner emphasizes
+that the General Assembly authorized the SCV's special plate to
+"honor" that organization. Because these special plates constitute gov-
+ernment speech, the Commissioner argues, traditional First Amend-
+ment inquiries do not apply, in light of the settled principle that when
+the government speaks, it may craft its message and cannot be forced
+to formulate or subsidize a message it does not choose. Accordingly,
+he argues that because the SCV's special plates constitute government
+speech, they are not subject to First Amendment challenge on the
+grounds raised by the SCV.
+A.
+     It is well established that "the government can speak for itself." Bd.
+of Regents of Univ. of Wis. Sys. v. Southworth, 529 U.S. 217, 229
+(2000). Pursuant to its many and varied functions,"[t]he government
+____________________________________________________________
+serve compelling state interest in ensuring basic human rights of groups
+historically discriminated against because a viewpoint-neutral ordinance
+would have the same beneficial effect). Thus, viewpoint-based restric-
+tions of private speech are presumptively unconstitutional. Id. at 382. We
+are mindful that the Supreme Court has not hewn unfailingly to the struc-
+tured approach of strict scrutiny review when evaluating viewpoint-based
+restrictions under forum analysis, discussed infra, Part IV.B. See Rosen-
+berger, 515 U.S. at 829 (noting that "[t]he government must abstain from
+regulating speech when the specific motivating ideology or the opinion
+or perspective of the speaker is the rationale for the restriction" and that
+First Amendment principles "forbid[ ] the State to exercise viewpoint
+discrimination, even when the limited public forum is one of its own cre-
+ation"). It is nevertheless clear that viewpoint discrimination in a forum
+for private speech cannot stand, if ever, absent a compelling justification
+and narrow tailoring. As we will discuss, this principle is sufficient to
+resolve the issues before us.
+7
+
+Page 9
+is entitled `to promote particular messages' . . ., and to take legitimate
+and appropriate steps to ensure that its messages are neither garbled
+nor distorted" — that is, the government may limit the scope of the
+message it sends. Griffin v. Dep't of Veterans Affairs, 274 F.3d 818,
+822 (4th Cir. 2001) (internal citations omitted). The government may
+promote its policies and positions either through its own officials or
+through its agents. This authority to "speak" necessarily carries with
+it the authority to select from among various viewpoints those that the
+government will express as its own. See Rust v. Sullivan, 500 U.S.
+173, 194 (1991) (noting government's authority to select and fund
+speech in a non-neutral way in order to send its own message).
+     In Rust, the Supreme Court held that the federal government con-
+stitutionally could prohibit doctors from providing counseling or other
+information regarding abortion to patients while treating those
+patients in a program set up and funded by the federal government.
+The doctors' right to speak was not offended by the limitation
+imposed by the federal government because the government had
+merely chosen to fund one activity — counseling not including dis-
+cussion of abortion — to the exclusion of another — counseling
+including discussion of abortion. See id. at 198-99. Although Rust is
+considered to have been one of the first cases recognizing the govern-
+ment speech doctrine, see Legal Servs. Corp. v. Velazquez, 531 U.S.
+533, 541 (2001), nowhere in Rust did the Court rely explicitly on the
+government speech rationale.5555 Rather, the Court simply stated that
+____________________________________________________________
+     5555    Indeed, the proposition that Rust itself involved government speech is not universally accepted, see
+Legal Servs. Corp. v. Velazquez, 531 U.S.
+533, 554 (2001) ("If the private doctors' confidential advice to their
+patients at issue in Rust constituted `government speech,' it is hard to
+imagine what subsidized speech would not be government speech.")
+(Scalia, J., dissenting). There also is uncertainty regarding the govern-
+ment's role as speaker, in certain limited circumstances, when it selects
+from among private speakers those whose messages it will favor or sub-
+sidize. When it does so, at least in the contexts of excellence-based fund-
+ing decisions and the exercise of "editorial" discretion in a forum
+necessarily restricted by the medium of communication, the govern-
+ment's actions may be subject to somewhat less restrictive First Amend-
+ment limitations than would otherwise apply. See Nat'l Endowment for
+the Arts v. Finley, 524 U.S. 569, 585 (1998) (noting that government, in
+8
+
+Page 10
+government is free to fund chosen activities to the exclusion of others.
+Id.; see also Griffin v. Dep't of Veterans Affairs, 274 F.3d 818, 822
+(4th Cir. 2001) (noting that the government as speaker "is entitled to
+promote particular messages"). In later cases, however, the Court con-
+sistently has interpreted Rust as indicating that the doctors' funded
+counseling activities were government speech, and that where the
+government is the speaker, it may choose and tailor its message.
+Velazquez, 531 U.S. at 541 (stating that while"[t]he Court in Rust did
+not place explicit reliance on the rationale that the counseling activi-
+ties of the doctors . . . amounted to governmental speech[,] when
+interpreting the holding in later cases, . . . we have explained Rust on
+this understanding").
+     Thus, even ordinarily impermissible viewpoint-based distinctions
+drawn by the government may be sustained where the government
+itself speaks or where it uses private speakers to transmit its message.6666
+____________________________________________________________
+setting criteria to be considered in arts funding decisions, could constitu-
+tionally differentiate between applicants based on, inter alia, respect for
+"general standards of decency" because such considerations are "a conse-
+quence of the nature of arts funding," which, because of its inherently
+subjective excellence-based character, makes "absolute neutrality . . .
+simply `inconceivable'") (internal citation omitted); Ark. Educ. Televi-
+sion Comm'n v. Forbes, 523 U.S. 666, 681-83 (1998) (noting that gov-
+ernment, acting as editor in public television broadcasting context, could
+constitutionally deny access to a televised political debate to a candidate
+on the basis that he did not have significant public support because the
+restriction was reasonable in light of the need to avoid "cacophony" in
+the debate; to require that access be granted to all speakers, regardless of
+the level of support they enjoy, would lead public broadcasters to eschew
+televised debates altogether). Neither of these particular circumstances is
+present here.
+     6666    While viewpoint-based distinctions drawn by the government are per-
+missible where it sends its own message through its own program, as in
+Rust, such distinctions are ordinarily not permissible where the govern-
+ment exercises editorial discretion to choose from among private mes-
+sages those it will favor or subsidize. See Forbes, 523 U.S. at 676-77
+(noting that viewpoint-based editorial decisions regarding which candi-
+dates' messages should be included in a political debate broadcast on
+public television would have been unconstitutional).
+9
+
+Page 11
+ Id. (citing Southworth, 529 U.S. at 229, for the proposition that
+"viewpoint-based funding decisions can be sustained in instances in
+which the government itself is the speaker," and Rosenberger v. Rec-
+tor and Visitors of Univ. of Va., 515 U.S. 819, 833 (1995), for the
+proposition that such distinctions may be sustained in "instances, like
+Rust, in which the government `used private speakers to transmit spe-
+cific information pertaining to its own program.'"). The rationale
+behind the government's authority to draw otherwise impermissible
+viewpoint distinctions in the government speech context is the
+accountability inherent in the political process:
+When the government speaks, for instance to promote its
+own policies or to advance a particular idea, it is, in the end,
+accountable to the electorate and the political process for its
+advocacy. If the citizenry objects, newly elected officials
+later could espouse some different or contrary position.
+Southworth, 529 U.S. at 235. In other words, where the government
+itself is responsible, and therefore accountable, for the message that
+its speech sends, the danger ordinarily involved in governmental
+viewpoint-based choices is not present.
+B.
+     No clear standard has yet been enunciated in our circuit or by the
+Supreme Court for determining when the government is "speaking"
+and thus able to draw viewpoint-based distinctions, and when it is
+regulating private speech and thus unable to do so. Indeed, as we have
+noted, there exists some controversy over the scope of the govern-
+ment speech doctrine. Several other circuits, however, have addressed
+the question in contexts that are instructive here. Our sister circuits
+have examined (1) the central "purpose" of the program in which the
+speech in question occurs; (2) the degree of "editorial control" exer-
+cised by the government or private entities over the content of the
+speech; (3) the identity of the "literal speaker "; and (4) whether the
+government or the private entity bears the "ultimate responsibility"
+for the content of the speech, in analyzing circumstances where both
+government and a private entity are claimed to be speaking. See Wells
+v. City and County of Denver, 257 F.3d 1132, 1141 (10th Cir.), cert.
+denied, 122 S. Ct. 469 (2001) (analyzing these four factors in consid-
+10
+
+Page 12
+ering whether a sign listing the private sponsors of a public holiday
+display constituted government speech); Knights of the Ku Klux Klan
+v. Curators of the Univ. of Mo., 203 F.3d 1085 (8th Cir.), cert. denied,
+531 U.S. 814 (2000) (analyzing the same factors in considering
+whether announcements of sponsors' names and brief messages from
+sponsors on public radio station constituted government speech); see
+also Downs v. Los Angeles Unified Sch. Dist., 228 F.3d 1003, 1011
+(9th Cir. 2000), cert. denied, 121 S. Ct. 1653-54 (2001) (applying
+similar reasoning in considering whether postings to school bulletin
+boards were government or private speech). We find the recent
+approaches of our sister circuits instructive here. Although we do not
+conclude that the factors relied on in Knights of the KKK, Downs, and
+Wells constitute an exhaustive or always-applicable list, we believe
+that examination of those factors in this context, in conjunction with
+consideration of applicable Supreme Court precedent, resolves the
+government speech issue before us.7777
+C.
+1.
+     Turning to application of the factors enumerated by our sister cir-
+cuits to the case before us, we first consider the "purpose" of the spe-
+cial plate program. While the purpose of a government program or
+subsidy that implicates speech interests will in some cases be appar-
+ent, see Wells, 257 F.3d at 1141 (citing evidence that the purpose of
+the sign asserted to be government speech was "to thank the sponsors
+and the citizens for the support of the cost of the display"), this will
+not always be the case. Here, for instance, the Commissioner takes the
+____________________________________________________________
+     7777    In considering the approaches taken by our sister circuits, we focus
+primarily on the factors enunciated in Wells and Knights of the KKK
+because Downs, while relevant in that the question of whether the speech
+was government speech or private speech was squarely before the court,
+decided the constitutionality of a restriction in the school context, a con-
+text where First Amendment inquiries may be colored by recognition of
+the special necessities of the educational environment. See Wells, 257
+F.3d at 1141 (noting and describing Downs, but relying primarily on fac-
+tors enunciated in Knights of the KKK because of the "special character-
+istics of the school environment" present in Downs).
+11
+
+Page 13
+position that the purpose of the special plate program is to serve as
+a vehicle for the expression of government messages honoring those
+groups for which it authorizes special plates. The SCV, on the other
+hand, contend that the purpose of the program is to allow individuals
+to display their association with and express their pride in the mes-
+sages or goals of the group for which a special plate is authorized.
+     Examining the special plate program as a whole, we believe neither
+party is entirely correct in its argument about the purposes of the pro-
+gram. Several considerations lead us to conclude that the purpose of
+the special plate program primarily is to produce revenue while allow-
+ing, on special plates authorized for private organizations, for the pri-
+vate expression of various views. First, the fees collected through the
+special plate program are, as the Commissioner concedes, "a source
+of additional revenue" for Virginia. (Br. of Appellant at 50.) Indeed,
+in fiscal year 2000, the net revenue from special plates totaled nearly
+$4.5 million. The Commissioner himself cites this revenue as a pur-
+pose of the program. While the mere fact that the program produces
+revenue for Virginia is not conclusive as to its purpose, the net finan-
+cial impact of the program on the Commonwealth's fisc does indicate
+that the General Assembly here is not making the kind of selective
+funding decisions involved in cases like Rust and Finley.
+     Second, the legislation creating the special plate program imposes
+a fee structure that suggests the program's revenue-producing aim.
+Section 46.2-725 of the Virginia Code, which authorizes special
+plates, states that
+[n]o license plates provided for in this article shall be issued
+until the Commissioner receives at least 350 prepaid appli-
+cations therefor. In the event that 350 or more prepaid appli-
+cations have not been received on or before the last day of
+the third year from the date the license plates were last
+authorized, no such license plates shall be issued unless the
+license plates are reauthorized by the General Assembly.
+Va. Code Ann. § 46.2-725(B)(1). The supposed "honor" bestowed on
+a group for whom a special license plate is authorized, in other words,
+is conditioned on the willingness of 350 private persons to pay extra
+to obtain the plate expressing the "honor." If the General Assembly
+12
+
+Page 14
+intends to speak, it is curious that it requires the guaranteed collection
+of a designated amount of money from private persons before its
+"speech" is triggered.8888 It is not the case, in other words, that the spe-
+cial plate program only incidentally produces revenue for the Com-
+monwealth. The very structure of the program ensures that only
+special plate messages popular enough among private individuals to
+produce a certain amount of revenue will be expressed.
+     Third, the special plate authorized for the SCV is available only to
+members of the SCV who can provide "written evidence" that they
+are members of the group. Va. Code Ann. § 46.2-746.22. This type
+of restriction is common among the statutes authorizing special plates
+in Virginia. E.g., Va. Code Ann. § 46.2-738.1 (Michie 1998) (requir-
+ing written evidence that the applicant is a member of the American
+Radio Relay League for issuance of the special plate recognizing that
+group); § 46.2-741 (Michie 1998) (requiring the same for survivors of
+the attack on Pearl Harbor); § 46.2-747.1 (Michie 1998) (requiring the
+same for members of the Gold Wing Road Riders Association). These
+restrictions suggest that the special plates to which they apply are
+intended by the General Assembly to allow the authorized recipients
+to express their pride in membership in an organization while facili-
+tating the group's speech. If non-members cannot obtain the plates,
+those motorists who have them send a personal message by carrying
+the plates on their vehicles, because the plates identify them as mem-
+bers of the organization. Cf. Lewis v. Wilson, 253 F.3d 1077, 1079
+(8th Cir. 2001) (concluding that the purpose of any forum created by
+a vanity license plate program allowing individuals to select the com-
+____________________________________________________________
+     8888    It might be argued that the special plate program works by authorizing
+a variety of state-approved, if not state-created, messages and allowing
+a private person to decide whether to select a plate expressing a particu-
+lar one, and that it is therefore the equivalent of a program subsidizing
+the promulgation of government-chosen messages. Cf. Rust, 500 U.S. at
+193 (holding that the government may subsidize a program to express
+selected views). This contention is unpersuasive, however, in light of the
+revenue produced by special plates and section 46.2-725's fee structure.
+To obtain a special plate, the government requires a vehicle owner to pay
+a fee in excess of that required to obtain an ordinary Virginia license
+plate. It would be incongruous to term the government's providing the
+option of obtaining these plates, for an extra fee, a subsidy like that pro-
+vided in Rust.
+13
+
+Page 15
+binations of numbers and letters appearing on their plates was "to give
+vent to the personality, and reveal the character or views of the plate's
+holder"), cert. denied, Fischer v. Lewis, 70 U.S.L.W. 3395 (U.S. April
+15, 2002) (No. 01-802).
+2.
+     Turning to the "editorial control" exercised by the Commonwealth
+over the content of special plates in Virginia, the record reveals that
+little, if any, control ordinarily is exercised. The Commissioner argues
+that his statutory discretion to approve or reject a given plate design
+demonstrates that the Commonwealth maintains control at all times
+over the content of the special plates in question. See, e.g., Va. Code
+Ann. § 46.2-725(B)(3) (Michie 1998) (stating that "[a]ll special
+license plates issued pursuant to this article shall be of designs pre-
+scribed by the Commissioner . . . ."). The Commissioner, however,
+has identified only one occasion on which this discretion was exer-
+cised, an instance in which the Commissioner rejected a plate design
+with the slogan "Union Yes." (Br. of Appellant at 45.) The rejection
+was not challenged. Moreover, the information provided by the Com-
+missioner, acting through a representative at the DMV, to sponsors of
+special plates suggests that it is they, not the Commissioner, who
+make the substantive decisions regarding special plate content. The
+form letter to special plate sponsors, for instance, states that the spon-
+sor is to "provide DMV with electronic media art of the logo and leg-
+end for the plate." (J.A. at 104.) Similarly, the "Special Plate Design
+Criteria" sent to plate sponsors contains detailed instructions for
+ensuring that the design submitted by the sponsor will conform to size
+and space requirements, but it does not contain guidelines regarding
+the substantive content of the plates or any indication of reasons,
+other than failure to comply with size and space restrictions, that a
+special plate design might be rejected. Cf. Wells, 257 F.3d at 1142
+(finding government speech in part because there was "no indication
+that any of the [private speakers] . . . even knew about the . . . sign,
+much less exercised any editorial control over its design or content").
+Nor does the General Assembly ordinarily assert "editorial control"
+over the content of these special plates. Indeed, the Commissioner
+conceded at oral argument that the legislation authorizing the SCV's
+special plate is the only legislation that the General Assembly has
+passed containing a restriction on the design of the plate.
+14
+
+Page 16
+3.
+     We next inquire into who is the "literal speaker" and who bears the
+"ultimate responsibility" for the speech in this case. The "literal"
+speaker here might be said to be the license plate itself, which would
+seem not to suggest either government or private speech strongly, and
+who bears "ultimate responsibility" for the speech is unclear. We note
+that the court in Wells reasoned that ownership of the means of com-
+munication was a valid consideration in determining whether it con-
+tained government speech, and the parties do not dispute here that
+Virginia continues to own the special plates at all times. Importantly,
+though, the special plates are mounted on vehicles owned by private
+persons, and the Supreme Court has indicated that license plates, even
+when owned by the government, implicate private speech interests
+because of the connection of any message on the plate to the driver
+or owner of the vehicle. See Wooley v. Maynard, 430 U.S. 705, 717
+(1977) (holding that New Hampshire violated the First Amendment
+rights of objecting drivers when it required them to display the state
+motto "Live Free or Die" on their license plates). Accordingly, these
+factors, like the others we have discussed, lead us to conclude that the
+SCV's special plates constitute private speech.9999
+IV.
+     Because the speech on the authorized special plate is the SCV's
+rather than Virginia's, the SCV's First Amendment rights are impli-
+cated by the logo restriction in the authorizing legislation, and we
+must consider the impact of that restriction on their rights. The SCV
+____________________________________________________________
+     9999    We note that our conclusion is consistent with the analysis employed
+by the Second and Eighth Circuits in cases arising in the similar context
+of vanity plate programs that allow individuals to select specific combi-
+nations of letters and numbers that will appear on their otherwise stan-
+dard license plates. See Perry v. McDonald, 280 F.3d 159, 166 (2d Cir.
+2001) (analyzing a restriction on vanity plates that might be "offensive
+or confusing to the general public" as a "government regulation[ ] con-
+cerning private individuals' speech on government-owned property"
+(emphasis added)); Lewis, 253 F.3d at 1079 (analyzing a restriction pro-
+hibiting vanity plates that were "contrary to public policy" as a restriction
+on private individuals' speech).
+15
+
+Page 17
+contend, and the district court found, that the logo restriction discrimi-
+nates on the basis of the viewpoint they would like to express,
+through the logo incorporating the Confederate flag, on their special
+plate. Where the government is not expressing its own policy, either
+directly or, as in Rust, through an intermediary, it presumptively vio-
+lates the First Amendment when it discriminates on the basis of views
+expressed by private speakers. See Ark. Educ. Television Comm'n v.
+Forbes, 523 U.S. 666, 677 (1998); Cornelius v. NAACP Legal
+Defense & Educational Fund, 473 U.S. 788, 805 (1985). As the
+Supreme Court has stated, "[i]t is axiomatic that the government may
+not regulate speech based on . . . the message it conveys." Rosenber-
+ger, 515 U.S. at 828. Such viewpoint discrimination presumptively is
+impermissible whether it occurs within or outside a private speech
+forum. Forbes, 523 U.S. at 676 (stating that viewpoint discrimination
+is impermissible even where no forum is created at all); Rosenberger,
+519 U.S. at 828 (stating that viewpoint discrimination is presumed
+impermissible in any forum under forum analysis); Multimedia Pub.
+v. Greenville-Spartanburg Airport, 991 F.2d 154, 159 (4th Cir. 1993)
+(same).
+A.
+     The Supreme Court has adopted forum analysis as the means of
+analyzing restrictions placed on private speech that occurs on govern-
+ment property or with government participation (financial or other-
+wise) where the government is not expressing its own message.10101010 See,
+____________________________________________________________
+     10101010    The Supreme Court's forum doctrine generally recognizes three cate-
+gories of fora that exist or arise on government property or where gov-
+ernment expends resources and creates them. Traditional public fora
+include streets, parks, and sidewalks — places which, "by long tradition
+or by government fiat" have been "devoted to assembly and debate."
+Perry Educ. Ass'n v. Perry Local Educators' Ass'n, 460 U.S. 37, 45
+(1983). These traditional public fora exist regardless of the government's
+intent to create or not to create a forum for speech. Forbes, 523 U.S. at
+678. The other forum types, the designated public forum and the nonpub-
+lic forum, are created when the government grants access to property or
+resources to private speakers. Id. at 679 (holding that the government
+creates a speech forum when it makes access to government property or
+funding available to a "certain class of speakers"). A designated public
+16
+
+Page 18
+e.g., Rosenberger, 515 U.S. at 829-30 (applying forum analysis where
+government funds private speech, even in a "metaphysical" forum);
+Good News Club v. Milford Cent. Sch., 121 S. Ct. 2093, 2100 (2001)
+(applying forum analysis where speech occurs on government prop-
+erty); Lamb's Chapel v. Center Moriches Union Free Sch. Dist., 508
+U.S. 384, 390-91 (same); see also Warren v. Fairfax County, 196
+F.3d 186, 190 (4th Cir. 1999) (en banc) ("courts should evaluate First
+Amendment rights on government owned property under a public
+forum analysis"). The district court, applying forum analysis princi-
+ples, concluded that the special plate program constituted a designated
+or limited public forum. The Commissioner challenges this conclu-
+sion, arguing that the special plate program is a nonpublic forum. The
+type of forum that exists here, however, is relevant only if the logo
+restriction is viewpoint-neutral. As we discuss below, we conclude
+that the logo restriction is not viewpoint-neutral, rendering the restric-
+tion presumptively unconstitutional in any forum. Rosenberger, 515
+U.S. at 829-30 (stating that viewpoint discrimination is presumptively
+impermissible in all fora for private speech). Thus, we need not
+resolve the parties' dispute over the type of forum created by the spe-
+cial plate program. Instead, we next explain why the Commissioner's
+argument that the logo restriction is viewpoint-neutral must fail.
+B.
+     In examining the Commissioner's argument that the logo restric-
+tion is viewpoint-neutral, we begin with the language of the restric-
+____________________________________________________________
+forum, whether limited or unlimited in scope, is one a state creates "by
+intentionally opening a non-traditional forum for public discourse." Cor-
+nelius, 473 U.S. at 802. Further, the government may "confin[e] a [lim-
+ited] forum to the limited and legitimate purposes for which it was
+created . . . [by] reserving it for certain groups or for the discussion of
+certain topics." Rosenberger, 515 U.S. at 829. In a nonpublic forum, the
+government "reserve[s] eligibility for access to the forum to a particular
+class of speakers, whose members must then, as individuals, `obtain per-
+mission' . . . to use it." Forbes, 523 U.S. at 679. While the limitations
+on the government's ability to regulate speech in these fora depends in
+part on the type of forum at issue, viewpoint discrimination is presump-
+tively impermissible in all fora for private speech. Rosenberger, 515 U.S.
+at 829-30.
+17
+
+Page 19
+tion. The logo restriction directs that "[n]o logo or emblem of any
+description shall be displayed or incorporated into the design of the
+[SCV] license plates issued under this section." Va. Code Ann.
+§ 46.2-746.22. Although the logo restriction itself makes no reference
+to the Confederate flag, the Commissioner concedes that it was the
+inclusion of the Confederate flag in the SCV's logo that led to the
+prohibition against the use of the logo on the SCV's special license
+plate. (Br. of Appellant at 10 (conceding that the purpose of the logo
+restriction is to "ensure that the battle flag does not appear on the spe-
+cial license plate").) Having conceded that the logo restriction is an
+attempt to ban the display of the Confederate flag, the Commissioner
+argues that the restriction is content-based, but viewpoint-neutral,
+because it bans all viewpoints about the Confederate flag (which the
+Commissioner identifies as a category of "content" or subject matter)
+from the special plate forum.
+     As the Supreme Court has noted, the distinction between content
+and viewpoint discrimination "is not a precise one." Rosenberger, 515
+U.S. at 831. Viewpoint discrimination is a kind of content discrimina-
+tion, but is not always easily distinguishable. 11111111 Cf. id. at 829 ("When
+the government targets not subject matter, but particular views taken
+by speakers on a subject, the violation of the First Amendment is all
+the more blatant. Viewpoint discrimination is thus an egregious form
+of content discrimination."). Analysis of the basic First Amendment
+principles that "provide the framework forbidding the state to exercise
+viewpoint discrimination," however, directs us to the considerations
+that indicate such viewpoint-based discrimination here. Id. at 829
+(reviewing First Amendment cases stating basic principles following
+from the precept that government may not regulate speech based on
+____________________________________________________________
+     11111111 As the Ninth Circuit has noted, the "coherence of the distinction
+between `content discrimination' and `viewpoint discrimination'" may be
+seen as "tenuous." Giebel v. Sylvester, 244 F.3d 1182, 1188 n.10 (9th Cir.
+2001). "While the former describes the subject matter of the speech, and
+the latter the specific positions taken on the matter, the level at which
+`subject matter' is defined can control whether discrimination is held to
+be on the basis of content or viewpoint." Id. Nevertheless, it is clear from
+the Supreme Court's decisions that, given a properly defined subject
+matter, the government is presumptively unable to discriminate among
+viewpoints about that subject matter.
+18
+
+Page 20
+its viewpoint or the message it conveys). For instance, "[i]n the realm
+of private speech or expression, government regulation may not favor
+one speaker over another." Id. at 828. Similarly, "[t]he government
+must abstain from regulating speech when the motivating ideology or
+the opinion or perspective of the speaker is the rationale for the
+restriction." Id. (citing Perry Educ. Ass'n v. Perry Local Educators'
+Ass'n, 460 U.S. 37, 46 (1983)). Thus, where an evaluation of a given
+restriction and the surrounding circumstances indicates that one or
+more speakers are favored over others, and further that the basis for
+the restriction is in fact the message the disfavored speaker seeks to
+convey, the restriction violates the First Amendment. Moreover,
+where restrictions or regulations of speech discriminate on the basis
+of the content of speech, there is an "inherent risk that the Govern-
+ment seeks not to advance a legitimate regulatory goal, but to sup-
+press unpopular ideas or information or manipulate the public debate
+through coercion rather than persuasion . . ." — in other words, to
+exercise viewpoint discrimination. Turner Broadcasting Sys., Inc. v.
+F.C.C., 512 U.S. 622, 642-43 (1994)). Because the logo restriction,
+admittedly aimed at prohibiting the display of the Confederate flag,
+involves an inherent danger of viewpoint discrimination, a close
+review of the context in which the restriction is imposed, as well as
+the effect of the restriction itself, is appropriate.
+     In analyzing the logo restriction's effect, we note first that the
+SCV's organizational logo, incorporating the Confederate flag, cer-
+tainly represents a viewpoint. As the Commissioner concedes, the
+logo would "advance [the] view that the flag [is] a symbolic acknowl-
+edgment of pride in Southern heritage and ideals of independence."12121212
+(Br. of Appellant at 40 (quotation and citation omitted)); see also
+American Legion Post 7 of Durham, N.C. v. Durham, 239 F.3d 601,
+606 (4th Cir. 2001) (noting that "[f]lags, especially flags of a political
+sort, enjoy an honored position in the First Amendment hierarchy"
+because they are "close[ ] to the core of political expression protected
+by the First Amendment"). The logo restriction does not restrict the
+Confederate flag as such, but rather the Confederate flag as used in
+the SCV's logo. Va. Code Ann. § 46.2-746.22 ("no logo or emblem
+____________________________________________________________
+     12121212    A competing viewpoint of the Confederate flag is that it is "a symbol
+of racial separation and oppression." United States v. Blanding, 250 F.3d
+858, 861 (4th Cir. 2001).
+19
+
+Page 21
+of any description shall be displayed or incorporated into the design
+of" SCV's special plates). Rather than prohibiting the Confederate
+flag as subject matter, then, the logo restriction by its terms prohibits
+the SCV's use of the Confederate flag. In other words, the logo
+restriction not only prohibits speech on the basis of its content, as the
+Commissioner concedes, but also, by its terms, burdens the speech of
+only a single speaker in the forum. Cf. Arkansas Writers' Project, Inc.
+v. Ragland, 481 U.S. 221, 227-29 (1987) (holding, where a sales tax
+was theoretically imposed on all magazines, but exemptions from the
+tax were created for all but a few, that the tax scheme "treat[ed] some
+magazines less favorably than others," and that the discriminatory
+impact of the tax on the few magazines subject to it "burden[ed]
+rights protected by the First Amendment"); cf. also Giebel v. Sylves-
+ter, 244 F.3d 1182, 1188 (9th Cir. 2001) (concluding that the actions
+of a professor at a state university in tearing down handbills posted
+on university bulletin boards publicizing a former colleague's appear-
+ance at an upcoming conference were viewpoint-discriminatory
+because the professor "sought to silence speech by a particular
+speaker"). This fact alone suggests that the SCV's viewpoint, rather
+than the Confederate flag as "content," is the subject of the restriction,
+and thus that the SCV's speech is discriminated against because of the
+views it would express.
+     To examine the context in which the logo restriction is imposed,
+we first define the scope of the forum in which the SCV wish to
+speak, as definition of the forum's scope provides a backdrop for
+analysis of the "viewpoint or content" question. Cf. Rosenberger, 515
+U.S. at 830-31 (determining that "the subjects discussed [by the pro-
+hibited speech] were . . . within the approved category of publica-
+tions" aside from their prohibited perspective by reference to other
+speech permitted in the forum); Lamb's Chapel, 508 U.S. at 393
+(examining a restriction on religious uses of school facilities for view-
+point discrimination by reference to other speech permitted within the
+forum). This inquiry is distinct from the question of which type of
+forum exists. See Cornelius, 473 U.S. at 797, 800-01 (noting that
+proper definition of the scope of the relevant forum is necessary to
+analyze constitutionality of a restriction); Air Line Pilots Ass'n, Int'l
+v. Dept. of Aviation of Chicago, 45 F.3d 1144, 1151 (7th Cir. 1995)
+(stating that identification of forum must be undertaken before analy-
+sis of a restriction imposed on speech in that forum).
+20
+
+Page 22
+     The relevant forum is defined by focusing on "the access sought by
+the speaker." Cornelius, 473 U.S. at 801. Here, the relevant forum is
+Virginia's special plate program, consisting of the special plates
+authorized and produced under the general rules established by Va.
+Code Ann. § 46.2-725. It is to the special plate program that the SCV
+seek "access" (here, access without restrictions on their speech within
+the forum), and special plates authorized for other groups and organi-
+zations thus provide the relevant context for analyzing the restriction
+imposed on the SCV. Cf. Air Line Pilots, 45 F.3d at 1151-52 (deter-
+mining, where an airline pilots' association sought to display a dio-
+rama in display case at O'Hare airport, that the airport's display cases,
+rather than the airport itself, constituted the relevant forum, because
+it was to a display case that association sought access); Texas v.
+Knights of the Ku Klux Klan, 58 F.3d 1075, 1078 (5th Cir. 1995)
+(defining the forum in question, where the Ku Klux Klan sought to
+participate in an Adopt-A-Highway Program, as the program as a
+whole rather than the State's highways or the particular sign to which
+participation would entitle the Klan).
+     That the Confederate flag as content is prohibited in this forum, as
+the Commissioner contends, is not borne out by the statute at issue,
+the record before us, or any rules or restrictions generally applicable
+to Virginia's special plate program. No general restrictions, save
+those relating to space and legibility of identifying information, are
+imposed on all special plates. The logo restriction is the only restric-
+tion of its kind contained in any of the numerous special-plate-
+authorizing statutes. A review of these numerous and varied statutes
+does not reveal any intent on the Commonwealth's part to limit, on
+the basis of content, the scope of speech within the special plate
+forum in any principled way. Further, the "content" of the excluded
+speech is similar, if not identical, to content allowed on plates autho-
+rized under the special plate program for those with other viewpoints.
+For example, many of the groups and organizations for which special
+plates have been approved without restrictions are groups that have
+distinct viewpoints in political or social debate. See, e.g., Va. Code
+Ann. § 46.2-746.10 (approving special plate for AFL-CIO supporters
+without restriction); § 46.2-749.6 (approving special plate for support-
+ers of the National Rifle Association without restriction).
+21
+
+Page 23
+     The nature of the restricted speech, the lack of a generally applica-
+ble content-based restriction,13131313 the breadth of the special plate pro-
+gram in Virginia, and the lack of any restrictions in statutes
+authorizing special plates other than the SCV's belie the Commission-
+er's argument that the restriction in question is merely a content-based
+restriction. Rather, the logo restriction works viewpoint discrimina-
+tion against the SCV. Such discrimination, as we have noted, is "pre-
+sumed to be unconstitutional." Rosenberger, 515 U.S. at 828. The
+Commissioner has not rebutted — indeed, has not contended that he
+could rebut — the presumption of unconstitutionality following from
+viewpoint discrimination against private speech by demonstrating that
+the viewpoint discrimination is "the least restrictive means available"
+to serve a "compelling governmental interest[ ]." American Life
+League, Inc. v. Reno, 47 F.3d 642, 648 (4th Cir. 1995). Thus, the logo
+restriction cannot withstand strict scrutiny review.
+     Based upon our review of the government speech and forum princi-
+ples enunciated by the Supreme Court, and application of those prin-
+ciples to the case at hand, we conclude that the logo restriction in Va.
+Code Ann. § 46.2-746.22 is an instance of viewpoint discrimination
+that does not survive strict scrutiny review and accordingly is impermis-
+sible.14141414 The restriction, then, cannot stand. The proper remedy for this
+____________________________________________________________
+     13131313    We note that we are not faced with a restriction generally applicable
+to the design of special plates in Virginia. Thus, this case differs from the
+vanity plate cases decided by the Second and Eighth Circuits. See Perry
+v. McDonald, 280 F.3d 159, 169-70 (2d Cir. 2001) (upholding the appli-
+cation of a vanity license plate regulation banning plates conveying mes-
+sages "offensive or confusing to the general public" to rescind license
+plates bearing the letters "SHTHPNS" because the regulation was a rea-
+sonable, viewpoint-neutral restriction on speech in a nonpublic forum);
+Lewis v. Wilson, 253 F.3d 1077, 1080-81 (8th Cir. 2001) (finding uncon-
+stitutional a regulation banning vanity plates bearing messages "contrary
+to public policy" because the regulation gave unbridled discretion to the
+state official charged with enforcing it), cert. denied, Fischer v. Lewis,
+70 U.S.L.W. 3395 (U.S. April 15, 2002) (No. 01-802). We, therefore,
+need not resolve whether such a generally applicable restriction or regu-
+lation would pass constitutional muster if applied to ban incorporation of
+the SCV's logo into their special plate design.
+     14141414    Accordingly, we need not address the adequacy of the Commission-
+er's proffered justifications under the standard applicable to content-
+22
+
+Page 24
+violation of the First Amendment's strictures, however, remains to be
+determined, and it is to that issue that we now turn.
+V.
+     Because we agree with the district court that the logo restriction is
+unconstitutional, we must determine whether the district court prop-
+erly severed the statute. The Commissioner argues that severing the
+statute was an improper incursion into the realm of legislative discre-
+tion. Moreover, if the statute was not severable, the Commissioner
+claims, there was no legal basis for the district court's asserted exer-
+cise of its "equitable power" and hence that portion of the district
+court's ruling that compels the Commissioner's compliance with the
+non-restrictive portion of section 46.2-746.22 must likewise be invali-
+dated. The question of the severability of a state statute's provisions
+is governed by state law. See Department of Treasury v. Fabe, 508
+U.S. 491, 509-10 (1993) (state law governs severability of a state stat-
+ute); Environmental Technology Council v. Sierra Club, 98 F.3d 774,
+788 n.21 (4th Cir. 1996) (same). We review the district court's deter-
+mination of severability de novo.
+     The Virginia Supreme Court has enunciated the test for severability
+under Virginia law only in the absence of a blanket severability
+clause, applying a presumption of nonseverability. Robinson v. Vir-
+ginia, 232 S.E.2d 742, 744 (Va. 1977) (noting that where an ordi-
+nance "contained no severability clause . . . [,] the ordinance [was]
+presumed to be non-severable"). Under this rule, "in the absence of
+a severability clause, the test of severability is whether the legislature
+would be satisfied with what remains [of the statute] after the invalid
+part has been eliminated," an inquiry that makes the intent of the law-
+makers controlling. City of Portsmouth v. Citizens Trust Company,
+____________________________________________________________
+based but viewpoint-neutral restrictions in fora for private speech. Fur-
+ther, the Commissioner has not advanced the argument that display of the
+Confederate flag on a private vehicle is equivalent to "fighting words,"
+the use of which the Commonwealth constitutionally may prohibit, and
+we do not address any issues that might be raised by such an argument.
+See Chaplinsky v. New Hampshire, 315 U.S. 568, 572 (1942) (character-
+izing as "fighting words" speech that "itself inflicts injury or tends to
+incite immediate violence").
+23
+
+Page 25
+222 S.E.2d 532, 535 (Va. 1976) (internal quotation marks omitted).
+Stated slightly differently, the inquiry enunciated by Virginia's high-
+est court is whether the General Assembly has "manifested an inten-
+tion to deal with part of the subject matter covered, irrespective of the
+rest of the subject matter[.]" Robinson, 232 S.E.2d at 744 (1977)
+(internal quotation marks omitted).
+     Since the decisions noted above, Virginia's General Assembly has
+enacted a statutory provision dealing with severability of sections of
+the Virginia Code. Section 1-17.1 of the Code provides that "the pro-
+visions of all statutes are severable unless. . . it is apparent that two
+or more statutes or provisions must operate in accord with one
+another." Va. Code Ann. § 1-17.1 (Michie 2001) (emphases added).
+In other words, the Virginia legislature has stated clearly that courts
+are now to apply a presumption of severability unless two provisions
+of a statutory section must operate together.
+     We have had occasion to apply section 1-17.1 only once. In Jones
+v. Murray, 962 F.2d 302 (4th Cir. 1992), we concluded that a portion
+of a Virginia statute was severable, citing section 1-17.1 and the pre-
+section 1-17.1 case of City of Portsmouth v. Citizens Trust Co., 216
+Va. 695 (1976). Jones, 962 F.2d at 311. We noted that in City of
+Portsmouth the Virginia Supreme Court had "sever[ed] [an] unconsti-
+tutional mandate, even without a severability clause, because
+`[d]eletion of the invalid [provision did] not alter the effect of the
+ordinance in fulfilling the purpose expressed'." Jones, 962 F.2d at 311
+(alterations in original) (quoting City of Portsmouth, 222 S.E.2d at
+535). We went on to note our opinion that "the legislature would be
+satisfied with what remains after the invalid part has been elimi-
+nated." Id. (citing City of Waynesboro v. Keiser, 213 Va. 229, 191
+S.E.2d 196, 200 (1972)) (internal quotation marks omitted).
+     The parties' arguments evidence considerable confusion about the
+proper standard for determining severability of statutory provisions
+under Virginia law. The Commissioner contends, citing to the district
+court's opinion below, that "the test of severability in the Common-
+wealth is whether the legislature would be satisfied with what
+remains after the invalid part has been eliminated." (Br. of Appellant
+at 51) (internal citation omitted). The district court determined that
+the quoted language was the proper test for severability, but that it is
+24
+
+Page 26
+"buttressed by the modern-day Virginia Code, which requires that the
+severed and remaining portions `must operate in accord with one
+another'." Sons of Confederate Veterans v. Holcomb, 129 F. Supp. 2d
+941, 949 (W.D. Va. 2001). The SCV appear to concede that the intent
+of the legislature is the proper standard for determining severability.
+Indeed, the SCV do not even cite to section 1-17.1 in their brief.
+     Examining the statutory framework and relevant caselaw, we con-
+clude that section 1-17.1 is the governing statement of the law of sev-
+erability in Virginia. Accordingly, we apply the statute's presumption
+of severability to section 46.2-746.22's provisions. The provisions are
+thus "severable unless . . . it is apparent that . . . [the] provisions must
+operate in accord with one another." Va. Code Ann. § 1-17.1. We see
+no reason why the second sentence of § 46.2-746.22 must operate in
+accord with the first, and the Commissioner has not suggested any
+such reason in his brief. The first sentence is not rendered meaning-
+less or nonsensical by the elimination of the second. Indeed, the oper-
+ation of the first sentence is in a sense not affected at all by the
+elimination of the second — it continues to authorize special plates
+for the SCV, as it did before the second sentence was determined to
+be unconstitutional. The only change in the statute's operation is the
+excision of the unconstitutional logo restriction, a restriction that was
+imposed entirely by the second sentence. Cf. Jones, 962 F.2d at 311
+(invalidating and severing five words of Virginia statute that violated
+the Ex Post Facto Clause because severance did not alter the effect
+of the statute in fulfilling its primary purpose).
+     Even assuming, as the parties apparently do, that the "intent of the
+legislature" inquiry remains a valid consideration in determining sev-
+erability under Virginia law, we find that it is overcome here by the
+presumption of severability which applies to statutes enacted by the
+General Assembly. The logo restriction may well have been the result
+of a political compromise within the legislature that aided the passage
+of section 46.2-746.22. Some legislators may have agreed to support
+the authorizing statute only on condition of the addition of the logo
+restriction. Under the current legal framework in Virginia, however,
+the General Assembly enacts laws against the backdrop of section 1-
+17.1's severability presumption. Without a clear indication that the
+legislature's intent was to enact section 46.2-746.22 only with the
+logo restriction in place, and without any expression of the statute's
+25
+
+Page 27
+purpose, we cannot presume that the legislature would not be "satis-
+fied" with what remains after the second sentence is severed. In sum,
+our review of the severability issue here convinces us that the result
+reached by the district court was the correct one.15151515
+VI.
+     For the foregoing reasons, we conclude that the district court prop-
+erly held that the logo restriction in Va. Code Ann. § 46.2-746.22's
+second sentence violates the First Amendment. We also conclude that
+the second sentence of section 46.2-746.22 may be severed from the
+remainder of the statute. The judgment of the district court is accord-
+ingly affirmed.
+AFFIRMED
+____________________________________________________________
+     15151515    After finding that the logo restriction could be severed, the district
+court stated that if it could not be severed, the court "would exercise
+equitable power in enjoining the [Commissioner] from enforcing [the
+logo restriction] and requiring the issuance of plates displaying the
+[SCV's] logo." The Commissioner contends that such an exercise of
+equitable power would be outside the realm of the court's discretion.
+Because the district court properly severed the statute, we do not address
+the injunctive relief that it stated it would, in the alternative, provide.
+26

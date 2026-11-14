@@ -1,0 +1,53 @@
+# OT2002 chunk 14 Run validation
+
+## Status and scope
+
+All thirteen scheduled chunk events are completed; no matter is stopped. The term has 181 event Records covering 176 of 180 scheduled inventory rows, with four remaining. The ledger, manifest, continuity and sanitized neutral projection are coordinated. The thirteen-entry Render Input was generated from the bounded Record projections. Public rendering and term close are separate tasks.
+
+Every inventory matter was accepted as properly before the Court, and every Section II position was treated as approved. No arrival, filing-verification or approval-wording blocker was introduced. No missing Stone-Zsela choice was filled. The complete approved components, conditional positions and explicit limits were checked against the opinion joins and remedies. The Chief is named Stone-Zsela throughout every new public projection and the generated Render Input.
+
+## Physically separated stages and sources
+
+Fresh scoped modeling contexts received neutral packets and date-eligible law without current Stone supplements or historical comparators. Separate reconciliation contexts then received the comparator but no current Stone material. Fresh assembly contexts received the frozen reconciliation and approved scoped supplements. Initial A and B preparation exposure was documented separately and followed by fresh neutral validation; no claim is made that general model knowledge was erased. The operative handoff map is OT_2002CHUNK14_EFFECTIVE_HANDOFFS.md.
+
+The bounded Garamendi and Bazzle source refresh was validated before affected independent remodeling and fresh reconciliation. Exact instrument and contract extracts were copied from saved sources. The Commission Act's mandatory encouragement duty is distinct from its qualified suggested report contents. Bazzle preserves the integrated definitions, selection language and court options. Wiggins preserves the distinction between prior violent convictions and all convictions. Stogner distinguishes the 1998 complaint from the 2001 indictment and states the reporting, corroboration, transition and refiling conditions accurately. Missing Arkansas originals in Gatewood supply neither a factual finding nor a litigant default; the preserved federal charging ground independently supplies the sentence remedy.
+
+## Law, chronology and opinion assignment
+
+Entering law uses completed Records strictly before the event date. The June 23 new decisions were checked before the June 26 decisions. Actual June 26 public law then went to a clean modeling refresh and separate reconciliation before June 30 assembly. Limon's juvenile maximum and binding-grid-ceiling rule informs Gatewood, which independently resolves adult predicates, recidivist floors and applicable federal charging. No same-day event supplies another's entering merits law. No undecided earlier-date inventory item supplied law or a blocker. The final dependency review is OT_2002CHUNK14_DEPENDENCY_REVIEW.md.
+
+Every opinion's form and full governing propositions were determined before assignment. Each assignment recounted the actual preceding Record opinion tables and delivery statements, including same-date alphabetically earlier cases and new Records already preserved in this Run. All selected authors belong to their full-support eligible set and required balance pool. The receipts independently reproduce the counts, last counted event, eligible set, pool and selected author. No old assignment was reopened. Cano and Eichorn retain component-specific assignment authority in one integrated lead. Nike's signed jurisdictional opinion receives an assignment but does not enter subsequent merits-lead totals. Twelve new leads are counted.
+
+The internal Stogner assignment-fit explanation initially received stale text from the preceding fit file after a local assertion failed. Before final validation, that internal explanation alone was corrected to the case-specific reasoning for the already selected Breyer assignment. The count, pool, author, joins and entire public projection were unchanged. OT_2002CHUNK14_ADMINISTRATIVE_FIXES.md records the clerical correction and unchanged public hash; no adjudication was corrected.
+
+## Substantive and section 15 checks
+
+Component judgments, rationale coalitions, full and partial joins, separate grounds, actual remand work and every controlling explanation were checked against the frozen handoffs and approved positions. Independent draft review identified and verified corrections to Bragg's approval-only waiver formulation, Limon's maximum-only shared scope, and the exact Stogner statutory conditions before the affected public text was preserved. Final Gatewood assembly was checked against the fresh law supplement. No unsupported historical authorship or new Associate join was imported.
+
+**Section 15 negative-statement result: passed.** All five specified public blocks and their substantive source sections were reviewed under section 8. A fresh review examined all 116 candidate paragraphs across thirteen Records and found no material defect. Retained negatives state an actual rule or answer to a presented argument, an adopted operative limit, a genuinely excluded or unpreserved legal question, relief actually sought or ordered, or the surviving or concluded status of a judgment. Routine untried elements and unrequested relief were removed or expressed as affirmative remand work. Separate proposals are explained in their proper writings and topology. See OT_2002CHUNK14_NEGATIVE_STATEMENT_REVIEW.md and runtime/chunk14-drafts/INDEPENDENT_REVIEW.md.
+
+## Deterministic results and operator boundary
+
+The governing term checker, compiled unchanged with repository-history lookups explicitly disabled, returned OK with zero warnings. The sectioned-inventory adapter separately reconciled all 180 rows. The governing ledger and manifest functions were used through scoped adapters; every prior ledger row was preserved. Holdings volume synchronization, runtime split freshness, event and record checks and the permitted projection checks passed. The detailed actual checker result is OT_2002CHUNK14_CHECK_TERM.json.
+
+Independent checks verified all thirteen fresh assignment receipts, exact identity between reviewed draft projections and preserved public projections after author substitution, exact eleven-block order, generated Render Input identity, frozen/runtime aggregate identity, explanation ceilings and Chief naming. All 750 protected prior artifacts in the opening hash check are unchanged. The file-scope check found no restricted provider text or machine/provider links in new or changed term files. Evidence is in OT_2002CHUNK14_DETERMINISTIC_CHECKS.json and OT_2002CHUNK14_FILE_SCOPE_CHECK.json.
+
+No version-control command was run. Repository-history and commit-reference existence checks were not performed and are reserved to the operator, as is repository commitment. Writes were confined to this term and ignored scratch; the locked top-level directory was never accessed. No opening tracker, infrastructure, original brief, earlier adjudication or prior public render was changed. No Admitted Source Record was added. Demore, the original-action carryovers and the Kansas?Nebraska certification procedure retain their recorded stages; Cano's retained merits appeal is complete.
+
+## Completed matters
+
+| Matter | Recorded result | Lead author |
+|---|---|---|
+| American Insurance Association v. Garamendi | Affirmed, 5–4. Five adopt the rejection of foreign-affairs displacement and the legislative-connection challenge; the five rejecting the foreign-commerce challenge divide among three rationales. | Ginsburg |
+| Green Tree Financial Corp. v. Bazzle | Vacated and remanded, 5–4, for independent arbitral construction of class procedure in both included proceedings. | Scalia |
+| Sons of Confederate Veterans, Inc. v. Commissioner of the Virginia Department of Motor Vehicles | Affirmed, 9–0. The injunction against the logo restriction and issuance relief under the severed authorization stand. | Thomas |
+| Alkire v. Irving | Affirmed within the granted questions, 9–0; the two retrospective institutional claims return under the stated defendant-specific rules. | Stevens |
+| Cano v. Davis | Affirmed: CD28 and CD51 design-only claims 5–4; CD28 independent intentional constitutional claim 8–1; CD51 independent constitutional claim 9–0; CD28 and SD27 Section 2 results claims 9–0, with seven joining the dispositive statutory analysis and two relying on statutory noncoverage. | Souter |
+| Lawrence v. Texas | Reverse, 7–2; set aside both convictions and dependent penalties and terminate the prosecutions. Six Justices adopt the liberty and overruling ground; seven adopt the independent ordinary-equality ground. | Ginsburg |
+| Limon v. Kansas | Reverse the discriminatory judgment and vacate its aggravated offense-and-sentence treatment, 7–2; reverse the categorical juvenile-predicate ruling and remand, 6–3. The existing sentencing judgment is vacated and a lawful nondiscriminatory disposition is required. | Stone-Zsela |
+| Nike, Inc. v. Kasky | Dismiss the writ for want of a sufficiently final state judgment. Five Justices adopt that jurisdictional disposition; Souter agrees review should end but would dismiss as improvidently granted; O'Connor, Kennedy and Breyer would retain review. | Stevens (procedural; not counted) |
+| Stogner v. California | Reverse, 6–3; dismiss both pending indictment counts because each depends on revival after the governing criminal limitations period expired. | Breyer |
+| Wiggins v. Smith | Reversed and remanded on the sentencing ineffective-assistance claim, 7–2, for a conditional sentence writ. | O'Connor |
+| Bragg v. West Virginia Coal Association | The categorical immunity-dismissal direction for Counts 2 and 3 is vacated and the case remanded, 9–0. All nine reject the participation-only waiver theory. | Thomas |
+| Eichorn v. AT&T Corp. | Affirmed: 9–0 on the Preliminary Net, reinstatement of the specified ERISA claims and reconsideration of class discovery; 8–1 on dismissal of the independent-party antitrust claims. | Souter |
+| United States v. Gatewood | The judgment sustaining the sentences is reversed, 6–3; all three mandatory-life sentences are vacated and the case remanded for lawful resentencing. | Scalia |

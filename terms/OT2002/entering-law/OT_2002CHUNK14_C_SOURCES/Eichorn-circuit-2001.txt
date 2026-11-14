@@ -1,0 +1,372 @@
+Source: https://law.resource.org/pub/us/case/reporter/F3/248/248.F3d.131.99-5791.html
+
+
+
+    248 F.3d 131
+
+248 F.3d 131 (3rd Cir. 2001)
+
+KURT H. EICHORN; WILLIAM J. HUCKINS; T. ROGER KIANG; EDWARD W. LANDIS; ORLANDO NAPOLIT ANO, individually and on behalf of all others similarly situated; GILBERT G. DALEY; SUSAN H. DIBONA; BETH KING; MICHAEL S. ORATOWSKI; THOMAS L. SALISBURY; LAWRENCE WALSH, individually and on behalf of all others similarly situated, Appellants
+v.
+AT&T CORP; LUCENT TECHNOLOGIES, INC.; TEXAS PACIFIC GROUP
+
+No. 99-5791
+
+UNITED STATES COURT OF APPEALS FOR THE THIRD CIRCUIT
+
+Argued December 12, 2000
+Filed April 23, 2001
+Amended June 12, 2001.
+
+[Copyrighted Material Omitted][Copyrighted Material Omitted]
+
+NOEL C. CROWLEY, ESQUIRE (ARGUED), Crowley & Crowley, Morristown, New Jersey, Attorney for Appellants.
+
+JONATHAN E. HILL, ESQUIRE (ARGUED), KATHY A. LAWLER, ESQUIRE, Pitney, Hardin, Kipp & Szuch, Morristown, New Jersey, JAMES E. TYRRELL, JR., ESQUIRE (ARGUED), SCOTT L. WEBER, ESQUIRE, Latham & Watkins, Newark, New Jersey, Attorneys for Appellees, AT&T Corp. and Lucent Technologies, Inc.
+
+DAVID M. FABIAN, ESQUIRE (ARGUED), Traflet & Fabian, Morristown, New Jersey, Attorney for Appellee, Texas Pacific Group.
+
+Before: SCIRICA and AMBRO, Circuit Judges, and POLLAK, District Judge.*
+
+OPINION OF THE COURT
+
+SCIRICA, Circuit Judge.
+
+      1
+      
+In this appeal from the grant of summary judgment we must decide whether defendants AT&T Corp., NCR Corp., Lucent Technologies, and Texas Pacific Group's agreement to restrict the hiring of certain employees upon Lucent's sale of Paradyne Corp. was a violation of  1 of the Sherman Antitrust Act. We also must decide whether this no-hire agreement which effectively cancelled the plaintiff employees' AT&T pension bridging rights violated  510 of the Employee Retirement Income Security Act. We hold the no-hire agreement was a valid covenant not to compete that was reasonable in scope and therefore not a violation of  1 of the Sherman Act. But also we hold plaintiffs have presented sufficient prima facie evidence of AT&T and Lucent's specific intent to interfere with an ERISA funded employee pension fund to survive summary judgment on the ERISA  510 claim.
+
+I.
+
+      2
+      
+In July 1995, AT&T, a long distance telephone and wireless services provider, decided to sell one of its affiliates, Paradyne Corp., a manufacturer of network access products for the telecommunications industry. Contemplating the sale, AT&T wanted to ensure that Paradyne remained a viable entity because AT&T and its other affiliates, including Lucent Technologies, purchased many of the network access products Paradyne manufactured. To make Paradyne more attractive to buyers as an ongoing business, AT&T adopted a human resource plan that placed restrictions on Paradyne employees' ability to transfer to other divisions of AT&T ("the Preliminary Net"). Specifically, the Preliminary Net precluded an employee who voluntarily left Paradyne from being hired by any other division of AT&T. The premise for the hiring bar was AT&T's belief that one of Paradyne's most marketable assets was its skilled employees. The retention of Paradyne's employees, therefore, was considered essential for the sale of Paradyne.
+
+      3
+      
+Shortly after adopting the Preliminary Net, AT&T consummated a business reorganization plan resulting in three independent companies: AT&T, Lucent Technologies, and NCR Corp. (the "trivestiture"). As part of the trivestiture, AT&T transferred ownership of Paradyne to Lucent. Consistent with the Preliminary Net, the Paradyne employees, now employed by Lucent, were precluded from seeking re-employment at any other AT&T division or affiliate after the trivestiture.
+
+      4
+      
+On July 31, 1996, Lucent sold Paradyne to Texas Pacific Group. Before closing, Lucent agreed, on behalf of itself and the other former AT&T affiliates, that it would not hire, rehire, retain, or solicit the services of any Paradyne employee or consultant whose annual income exceeded $ 50,000. This "Pre-Closing Net" was consistent with the understanding that Texas Pacific Group's interest in purchasing Paradyne was based on its desire to acquire the technical skills of Paradyne's employees for a sufficient period of time to ensure a successful transition of ownership.
+
+      5
+      
+Once the deal was closed, Lucent and Texas Pacific Group entered a post-closing agreement ("Post-Closing Net") in which Lucent warranted on behalf of itself and the other AT&T affiliates that for 245 days (8 months) following the sale and the expiration of the Pre-Closing Net, it would not seek to hire, solicit or rehire any Paradyne employee or consultant whose compensation exceeded $ 50,000. The eight month no-hire agreement had the practical effect of cancelling the Paradyne employees' accrued pension benefits under their former AT&T pension plans. Under the AT&T pension plan, employees were entitled to "bridging rights" which allowed them to retain their level of accrued pension benefits if they left AT&T and returned within six months. After six months, the bridging rights expired. Employees rehired after the six month period would need five years of employment to regain their previous pension levels. Because the Post-Closing Net barred Paradyne employees from returning to an AT&T affiliate for eight-months, these employees automatically lost the bridging rights they had acquired under their AT&T pensions.
+
+      6
+      
+Before the sale was consummated, Texas Pacific Group hired an outside consultant to determine the benefit package it could offer the Paradyne employees. Paradyne's Vice-President of Human Resources, Sherril Claus Melio, who had previously held the same position when Paradyne was owned by AT&T and Lucent, assisted the consultant in drafting various benefit plan proposals. The consultant concluded that in order to make Paradyne financially competitive, Texas Pacific Group could not offer the same pension package AT&T had previously offered its employees. Although Melio's exact role in Texas Pacific Group's decision is disputed, Texas Pacific Group ultimately decided not to offer a defined pension benefits program to its new employees.
+
+      7
+      
+The plaintiffs are former Paradyne employees who allege the Preliminary Net, as well as the Pre and Post-Closing Nets, collectively represent an unlawful group boycott in violation of  1 of the Sherman Act. Additionally, they contend the defendants conspired to eliminate their pension benefits thereby engaging in an illegal price fixing scheme in violation of  1 of the Sherman Act. Furthermore, they allege the no-hire agreement, which effectively cancelled Paradyne employees' bridging rights under their AT&T pensions, violated  510 of the Employee Retirement Income Security Act.
+
+      8
+      
+In addressing these claims, the District Court held that plaintiffs failed to prove a violation of  1 of the Sherman Act and failed to produce sufficient prima facie evidence of AT&T and Lucent's specific intent to interfere with an ERISA funded pension plan to support their  510 claim. The court, therefore, granted defendants' motion for summary judgment. After the grant of summary judgment, plaintiffs filed a discovery motion in connection with an anticipated motion for class certification which the District Court denied. This appeal followed.
+
+II.
+
+      9
+      
+The District Court had jurisdiction under 15 U.S.C.  26 and 29 U.S.C.  1140 because plaintiffs' claims allege violations of  1 of the Sherman Antitrust Act and  510 of ERISA. We have jurisdiction under 28 U.S.C.  1291. We exercise plenary review over the District Court's grant of summary judgment on plaintiffs' antitrust and ERISA claims. Big Apple BMW, Inc. v. BMW of N. Am., Inc., 974 F.2d 1358, 1363 (3d Cir. 1992), cert. denied, 507 U.S. 912, 122 L. Ed. 2d 659, 113 S. Ct. 1262 (1993). We exercise plenary review over the District Court's legal determinations concerning class certification and review its factual findings for abuse of discretion. Bogus v. Am. Speech & Hearing Ass'n, 582 F.2d 277, 289 (3d Cir. 1978).
+
+III.
+
+Section 1 of the Sherman Act provides:
+
+      10
+      
+Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several states, or with foreign nations, is hereby declared to be illegal.
+
+      11
+      
+15 U.S.C.  1 (1994).
+
+      12
+      
+Under  1, unreasonable restraints on trade are prohibited because they inhibit competition within the market. Bus. Elecs. Corp. v. Sharp Elecs. Corp., 485 U.S. 717, 723, 99 L. Ed. 2d 808, 108 S. Ct. 1515 (1988); United States v. Brown Univ., 5 F.3d 658, 669 (3d Cir. 1993). In order to assert a cause of action under  1, plaintiffs must prove they have suffered an antitrust injury that is causally related to the defendants' allegedly illegal anti-competitive activity. Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429 U.S. 477, 489, 50 L. Ed. 2d 701, 97 S. Ct. 690 (1977). Once there is the finding of antitrust injury, courts examine the alleged illegal conduct under one of two distinct tests: per se violation or rule of reason. Under the per se test, "agreements whose nature and necessary effect are so plainly anti-competitive that no elaborate study of the industry is needed to establish their illegality" are found to be antitrust violations. Nat'l Soc'y of Prof. Eng'rs v. United States, 435 U.S. 679, 692, 55 L. Ed. 2d 637, 98 S. Ct. 1355 (1978). For those activities not within the per se invalidity category, courts employ the rule of reason test. Under this test, plaintiffs have the burden of establishing that, under all the circumstances, "the challenged acts are unreasonably restrictive of competitive conditions" in the relevant market. Standard Oil Co. of N.J. v. United States, 221 U.S. 1, 28, 55 L. Ed. 619, 31 S. Ct. 502 (1911). "An analysis of the reasonableness of particular restraints includes the consideration of the facts peculiar to the business in which the restraint is applied, the nature of the restraint and its effects, and the history of the restraint and the reasons for its adoption." United States v. Topco Assocs., Inc., 405 U.S. 596, 607, 92 S. Ct. 1126, 31 L. Ed. 2d 515 (1972).
+
+A.
+
+      13
+      
+We hold the AT&T Preliminary Net was not a violation of  1 of the Sherman Act. The District Court found that "as of . . . the date that the Preliminary Net was put into effect . . ., Lucent was a wholly-owned subsidiary of AT&T, and accordingly, the two companies were a singular entity that could not conspire to violate the Antitrust laws." Eichorn v. AT&T Corp., CA No. 96-3587, slip op. at *17 (D.N.J. September 10, 1999). In Copperweld Corp. v. Independence Tube Corp., 467 U.S. 752, 81 L. Ed. 2d 628, 104 S. Ct. 2731 (1984), the Supreme Court held the coordinated acts of a parent and its wholly owned subsidiary cannot themselves give rise to  1 antitrust violations. The Court reasoned, "[a] parent and its wholly owned subsidiary have a complete unity of interest. Their objectives are common, not disparate; their general corporate actions are guided or determined not by two separate corporate consciousnesses, but one." Id. at 771. Because the Preliminary Net was an internal restriction between a single corporation, AT&T, and its wholly owned subsidiaries, Lucent and NCR, and not an agreement between separate corporate identities, it was not a violation of  1 of the Sherman Act. Id. at 769 ("An internal agreement to implement a single unitary firm's policies does not raise the antitrust dangers that  1 was designed to police."). Although plaintiffs assert AT&T and Lucent were not motivated by a single "corporate consciousness" because they were in the process of becoming separate entities, we believe that during the effective time period of the AT&T Preliminary Net, AT&T and Lucent retained a unified corporate interest for the purpose of antitrust analysis. It was not until AT&T divested all of its stock in Lucent and after the lapse of the Preliminary Net that the two companies became completely separate entities.
+
+      14
+      
+As Supreme Court and our precedent make clear, only anti-competitive actions between competitors give rise to Sherman Act liability. Copperweld, 467 U.S. at 771; Siegel Transfer, Inc. v. Carrier Exp., Inc., 54 F.3d 1125, 1132 (3d Cir. 1995) ("The operations of a corporate enterprise organized into divisions must be judged as the conduct of a single actor."); Weiss v. York Hosp., 745 F.2d 786, 813 (3d Cir. 1984), cert. denied, 470 U.S. 1060, 84 L. Ed. 2d 836, 105 S. Ct. 1777 (1985). As a single entity in a parent subsidiary relationship, the defendants in this case were incapable of conspiring to violate the antitrust laws through the Preliminary Net agreement. Siegel, 54 F.3d at 1132.
+
+      15
+      
+We next turn to plaintiffs' claim that the Pre and Post-Closing Nets, collectively referred to as the no-hire agreement, represent an illegal group boycott and a horizontal price fixing conspiracy under  1 of the Sherman Act. Plaintiffs allege Lucent, AT&T and Texas Pacific Group horizontally competed for the plaintiff employees' technical skills and services. As competitors, they argue, the defendants conspired to suspend competition for plaintiffs' technical services with the purpose and the effect of locking them out of the labor market. See Anderson v. Shipowners Ass'n of the Pac. Coast, 272 U.S. 359, 71 L. Ed. 298, 47 S. Ct. 125 (1926) (agreement between most shipowners on Pacific coast to deny employment to any seaman who did not register with association was violation of  1 of Sherman Act); Law v. Nat'l Collegiate Athletic Assoc., 134 F.3d 1010 (10th Cir.) (NCAA rule limiting salary of basketball coaches was per se violation of  1 of Sherman Act), cert. denied, 525 U.S. 822 (1998). By locking them out and effectively cancelling their entitlement to AT&T pension rights, plaintiffs argue the defendants conspired to fix the cost of labor in the market. In support, plaintiffs cite several Supreme Court cases that hold horizontal group boycotts and price fixing conspiracies are per se violations of the Sherman Antitrust Act. See FTC v. Super. Ct. Trial Lawyers Assoc., 493 U.S. 411, 422, 107 L. Ed. 2d 851, 110 S. Ct. 768 (1990); Arizona v. Maricopa County Med. Soc'y, 457 U.S. 332, 344-45, 73 L. Ed. 2d 48, 102 S. Ct. 2466 (1982); Broad. Music, Inc. v. Columbia Broad. Sys., Inc., 441 U.S. 1, 7-8, 60 L. Ed. 2d 1, 99 S. Ct. 1551 (1979).
+
+      16
+      
+But the facts here are substantially different from the classic per se horizontal price fixing and group boycott conspiracies the Court has generally found to be per se antitrust violations. Broad. Music, Inc., 441 U.S. at 8 ("Easy labels [like price fixing] do not always supply ready answers."). Because of the fact specific inquiry required to assess antitrust liability under the Sherman Act, we will address each prong of the  1 analysis.
+
+B.
+
+      17
+      
+Private plaintiffs pursuing claims under  1 of the Sherman Act have standing when they suffer an antitrust injury that is causally related to the defendants' allegedly illegal anti-competitive activity. Brunswick, 429 U.S. at 489. The Supreme Court has described antitrust injury as injury of
+
+      18
+      
+the type the antitrust laws were intended to prevent and that flows from that which makes defendants' acts unlawful. The injury should reflect the anti-competitive effect either of the violation or of anti-competitive acts made possible by the violation. It should, in short, be the type of loss that the claimed violations . . . would be likely to cause.
+
+      19
+      
+Id. (internal quotes omitted).
+
+      20
+      
+It is well established that an antitrust injury reflects an activity's anti-competitive effect on the competitive market. Atlantic Richfield Co. v. USA Petroleum Co., 495 U.S. 328, 344, 109 L. Ed. 2d 333, 110 S. Ct. 1884 (1990) ("The antitrust injury requirement . . . ensures that a plaintiff can recover only if the loss stems from a competition-reducing aspect or effect of the defendant's behavior.") (emphasis in original). We have consistently held an individual plaintiff personally aggrieved by an alleged anti-competitive agreement has not suffered an antitrust injury unless the activity has a wider impact on the competitive market. See, e.g., City of Pittsburgh v. West Penn Power Comp., 147 F.3d 256, 266-67 (3d Cir. 1998) (holding action that did not lessen competition in a "marketplace" was not antitrust injury); Barton & Pittinos, Inc. v. SmithKline Beecham Corp., 118 F.3d 178, 182 (3d Cir. 1997) (the determination of whether a party has suffered an antitrust injury "depends on how the market is defined"); Brader v. Allegheny Gen. Hosp., 64 F.3d 869 (3d Cir. 1995). While a plaintiff may have individually suffered an injury as a result of defendants' actions, the antitrust laws were designed to protect market-wide anticompetitive activities. Atlantic Richfield, 495 U.S. at 338 (quoting Brown Shoe Co. v. United States, 370 U.S. 294, 320, 8 L. Ed. 2d 510, 82 S. Ct. 1502 (1902) ("The antitrust laws were enacted for the protection of competition, not competitors.") (emphasis in original)); see also Les Shockley Racing, Inc. v. Nat'l Hot Rod Ass'n., 884 F.2d 504, 508 (9th Cir. 1989) (holding plaintiffs must "plead and prove a reduction of competition in the market in general and not mere injury to their own positions as competitors").
+
+      21
+      
+In dismissing plaintiffs' antitrust claims the District Court stated,
+
+      22
+      
+Plaintiffs apparently argue that the injury to competition is that they are prevented from providing their services to AT&T, Lucent or its affiliates. Put simply, the antitrust laws are not concerned with injury to competitors (here the plaintiffs), but with injury to competition. That these plaintiffs are prevented from working at AT&T, Lucent or their affiliates for the limited time period during which the pre-closing and post-closing nets were in effect is not an injury to competition. In our view, plaintiffs' allegations of economic injury to themselves misperceive the nature of the injury which is required to be established in order to sustain a claim under Section 1 of the Sherman Act.
+
+      23
+      
+Eichorn, CA No. 96-3587, slip op. at *20-21 (internal citations omitted).
+
+      24
+      
+While employees who are precluded from selling their labor have not necessarily suffered an antitrust injury, "employees may challenge antitrust violations that are premised on restraining the employment market." Phillip Areeda & Herbert Hovenkamp, Antitrust Law P 377a (rev. ed. 1995) (footnotes omitted); see also Brian R. Henry, 'Sorry, We Can't Hire You . . . We Promised Not To': The Antitrust Implications of Entering Into No-Hire Agreements, 11-Fall Antitrust 39 (1996) ("Most courts considering the issue have held that employees suffer 'injury' recognized by the antitrust laws when their employment opportunities are restricted by a no-hire agreement between potential employers, and thus have standing to sue the entity imposing such a provision."). As a leading treatise on antitrust states:
+
+      25
+      
+Antitrust law addresses employer conspiracies controlling employment terms precisely because they tamper with the employment market and thereby impair the opportunities of those who sell their services there. Just as antitrust law seeks to preserve the free market opportunities of buyers and sellers of goods, so also it seeks to do the same for buyers and sellers of employment services. It would be perverse indeed to hold that the very object of the law's solicitude and the persons most directly concerned--perhaps the only persons concerned--could not challenge the restraint.
+
+      26
+      
+* * *
+
+      27
+      
+An employee overcomes the primary hurdle to standing when he shows that the alleged violation restrains competition in the labor market. Of course, he must still show injury-in-fact that was proximately caused by the violation and, in damage cases, that can be quantified without undue speculation.
+
+      28
+      
+Areeda & Hovenkamp, supra, at P 377c (footnotes omitted).
+
+      29
+      
+In Anderson, the Supreme Court held that a seaman, on behalf of himself and other members of the seamen's union, could sue an association of most of the shipowners in the region when the shipowners' association adopted unduly strict regulations governing employment. 272 U.S. at 359. The Court found the shipowners' agreement violated the antitrust laws because the regulations prevented the "free exercise of the rights" of the seamen to engage in trade and commerce. Id. at 363 (quoting United States v. Colgate & Co., 250 U.S. 300, 307, 63 L. Ed. 992, 39 S. Ct. 465 (1919)). Because unregistered seamen were precluded from working on any association ship, which constituted the majority of the ships in the region, they suffered an injury protected under the antitrust laws.
+
+      30
+      
+While Anderson was decided many years before the Supreme Court detailed the antitrust injury requirement in Brunswick,1 several courts since Brunswick have found that no-hire agreements which preclude employees from seeking employment from a third party employer can give rise to antitrust injury. In Cesnik v. Chrysler Corp., 490 F. Supp. 859 (M.D.Tenn. 1980), plaintiffs who were precluded from seeking re-employment at Chrysler when their division was sold to a third party suffered an antitrust injury. The Court reasoned that it "must conclude that the market for employee skills is a market subject to the provisions of the Sherman Act." Id. at 864.
+
+      31
+      
+More recently in Roman v. Cessna Aircraft Co., 55 F.3d 542 (10th Cir. 1995), the Court of Appeals for the Tenth Circuit held that a plaintiff precluded from seeking employment as an airplane engineer with the Cessna Aircraft Company because of an agreement between Cessna and the Boeing Company not to hire each other's engineers suffered an antitrust injury. The Court reasoned that plaintiff
+
+      32
+      
+alleged that competition in the market for his services as an employee had been directly impeded by defendants' agreement not to compete for each other's employees. He further alleges that he was injured by that agreement because it prevented him from selling his services to the highest bidder . . . . We believe this is sufficient to allege antitrust standing.
+
+      33
+      
+Id. at 545; see also Law, 134 F.3d 1010 (coach whose opportunities in employment market were impaired by agreement among members of NCAA to limit the maximum compensation paid to coaches suffered antitrust injury).
+
+      34
+      
+In a similar manner, plaintiffs here allege they have been precluded from selling their services to three companies within the industry, NCR, AT&T and Lucent, and that the no-hire agreement interfered with their ability to attain pension benefits. Because the no-hire agreement directly impeded plaintiffs' ability to sell their labor to at least three companies within the competitive market and effectively cancelled their AT&T pension benefits, we believe they have standing to litigate their  1 claims. Roman, 55 F.3d at 545. To the extent the District Court held that plaintiffs did not suffer an antitrust injury and lacked standing to litigate their  1 claims, it was in error.
+
+C.
+
+      35
+      
+Plaintiffs contend on appeal that the no-hire agreement was a group boycott and a horizontal price fixing conspiracy. See Klor's v. Broadway-Hale Stores, Inc., 359 U.S. 207, 211, 3 L. Ed. 2d 741, 79 S. Ct. 705 (1959). As direct competitors for their labor, plaintiffs argue, the defendants entered the no-hire agreement as part of a concerted effort to lock them out of employment and decrease labor costs by eliminating pension benefits. See Nat'l Soc'y of Prof. Eng'rs, 435 U.S. at 692 (quoting United States v. Container Corp. of Am., 393 U.S. 333, 21 L. Ed. 2d 526, 89 S. Ct. 510 (1969) ("An agreement that 'interferes with the setting of price by free market forces' is illegal on its face.")). Plaintiffs maintain that group boycotts and horizontal price fixing schemes between competitors are per se violations of the antitrust laws because these agreements are manifestly uncompetitive and are "naked restraints of trade . . . [that have] no purpose except stifling of competition." White Motor Co. v. United States, 372 U.S. 253, 263, 9 L. Ed. 2d 738, 83 S. Ct. 696 (1963); see also N. Pac. Ry. Co. v. United States, 356 U.S. 1, 19-20, 78 S. Ct. 514, 2 L. Ed. 2d 545 (1958). In support, they cite NCAA v. Bd. of Regents of the Univ. of Okla., 468 U.S. 85, 100, 104 S. Ct. 2948, 82 L. Ed. 2d 70 (1984), where the Supreme Court stated,
+
+      36
+      
+Horizontal price fixing . . . [is] ordinarily condemned as a matter of law under an 'illegal per se' approach because the probability that these practices are anti-competitive is so high . . . . In such circumstances a restraint is presumed unreasonable without inquiry into the particular market context in which it is found.
+
+      37
+      
+While plaintiffs contend the no-hire agreement was per se illegal because it was a horizontal group boycott and a price fixing conspiracy, we can find no support within the relevant case law for this label. Broad. Music, Inc., 441 U.S. at 8 ("Easy labels do not always supply ready answers."). The per se illegality rule applies only in those cases where the business practice in question is one, which on its face, has "no purpose except stifling of competition." White Motor Co., 372 U.S. at 263; see also N.W. Wholesale Stationers, Inc. v. Pac. Stationery & Printing Co., 472 U.S. 284, 289-90, 86 L. Ed. 2d 202, 105 S. Ct. 2613 (1985) (per se rule confined to limited types of anti-competitive practices); Larry Muko Inc. v. S.W. Pa. Bldg. and Const. Trades Council, 670 F.2d 421, 429 (3d. Cir.) ("Generally the application of the per se rule has been limited to those 'classic' boycotts in which a group of business competitors seek to benefit economically by excluding other competitors from the marketplace."), cert. denied, 459 U.S. 916, 74 L. Ed. 2d 182, 103 S. Ct. 229 (1982). The Supreme Court has been cautious in extending the per se approach to claims that fall outside certain previously enumerated categories of liability. See, e.g., Bd. of Regents of the Univ. of Okla., 468 U.S. at 100 n.21 ("Judicial inexperience with a particular arrangement counsels against extending the reach of the per se rules."); Broad. Music, Inc., 441 U.S. at 20 n.33 ("The per se rule is not employed until after considerable experience with the type of challenged restraint."); Maricopa County Med. Soc'y, 457 U.S. at 344 ("Experience with a particular kind of restraint enables the Court to predict with confidence that the rule of reason will condemn it."). Because of the fact specific inquiry involved in antitrust analysis, the Supreme Court has recognized that claims not within established categories of antitrust liability are more appropriately analyzed under the rule of reason where courts can balance the effect of the alleged anti-competitive activity against its competitive purposes within the relevant product and geographic markets.
+
+      38
+      
+Acknowledging this judicial hesitance to extend the per se rule to new categories of antitrust claims, we note there are no Supreme Court cases nor any federal cases that have applied the per se rule in similar factual circumstances. The only two federal cases that have analyzed similar group boycott and price fixing claims have held that no-hire agreements executed upon the sale of a corporation are analyzed under the rule of reason. Coleman v. Gen. Elec. Co., 643 F. Supp. 1229, 1243 (E.D. Tenn. 1986), aff'd, 822 F.2d 59 (6th Cir. 1987); Cesnik, 490 F. Supp. at 866-67. In Coleman, the 3M Corporation sold its ceramics division to General Electric. 643 F. Supp. at 1243. After closing, 3M and General Electric entered an agreement in which 3M warranted that it would not rehire any employee who voluntarily accepted a job with General Electric. Several ceramic division employees brought suit alleging a group boycott that was per se invalid under  1 of the Sherman Act. Disagreeing, the court reasoned that "courts have refused to apply the 'group boycott' designation where the effect is not to drive out competition but to achieve some other goal, whether or not the goal withstands the rule of reason analysis." Id. (citing Smith v. Pro Football, Inc., 193 U.S. App. D.C. 19, 593 F.2d 1173, 1177-78 (D.C. Cir. 1979)). Because the agreement only precluded the plaintiffs from selling their services to one corporation, the court held it only had a "de minimus impact on the employment market in general," and the per se rule was "wholly inapplicable." Id.
+
+      39
+      
+Similarly in Cesnik, former employees of Chrysler's Non-Automotive Air Conditioning Division sued under  1 when Chrysler sold the division to the Fedders Corporation and agreed not to rehire its employees. 490 F. Supp. at 866. Although plaintiffs characterized the agreement as a group boycott and a per se violation of  1, the court stated, "in the absence of any Supreme Court cases based on facts similar to those of this case, this Court will not accept the proposition that any conduct that can be characterized as a group boycott is a per se violation." Id. The court reasoned the Chrysler-Fedders'
+
+      40
+      
+agreement was designed to increase the likelihood that Fedders would enjoy the services of the experienced AirTemp employees, an obviously sound business purpose. To the extent that the agreement effectively restrained competition between Chrysler and Fedders for employee services, a competition whose existence is entirely conjectural, that effect was incidental as well as de minimus.
+
+      41
+      
+Id. at 866-67.
+
+      42
+      
+Cognizant that there are no Supreme Court cases holding no-hire agreements entered upon the legitimate sale of a business to a third party are per se antitrust violations,2 and recognizing that the only two federal courts that have addressed the issue have declined to apply the per se rule, we hold the no-hire agreement here is more appropriately analyzed under the rule of reason. As several courts have recognized, the per se rules of illegality are the exception to antitrust analysis and are only employed in certain recognized categories. DeLong Equip. Co. v. Washington Mills Abrasive Co., 887 F.2d 1499, 1506 (11th Cir. 1989), cert. denied, 494 U.S. 1081, 108 L. Ed. 2d 943, 110 S. Ct. 1813 (1990).
+
+      43
+      
+The District Court properly characterized the no-hire agreement as a common law covenant not to compete. As we discuss, courts have uniformly found that covenants not to compete should be examined under the rule of reason. See, e.g., McDonald v. Johnson & Johnson, 722 F.2d 1370 (11th Cir.), cert. denied, 469 U.S. 870, 83 L. Ed. 2d 149, 105 S. Ct. 219 (1984); Consultants & Designers, Inc., v. Butler Serv. Group, Inc., 720 F.2d 1553 (11th Cir. 1983); Aydin Corp. v. Loral Corp., 718 F.2d 897 (9th Cir. 1983); Lektro-Vend Corp. v. Vendo Co., 660 F.2d 255 (7th Cir. 1981), cert. denied, 455 U.S. 921, 71 L. Ed. 2d 461, 102 S. Ct. 1277 (1982). Therefore, we will analyze plaintiffs' claims under the rule of reason so we can examine the effect of the defendants' agreement within the wider context of its competitive purposes and its impact on the relevant product and geographic markets.
+
+D.
+
+      44
+      
+Under the rule of reason, we look at the totality of the circumstances surrounding an alleged anti-competitive activity, including facts peculiar to the relevant business, to determine the "nature or purpose" of the allegedly illegal restraint. Topco Assocs., Inc., 405 U.S. at 607. "The finder of fact must decide whether the questioned practice imposes an unreasonable restraint on competition, taking into account a variety of factors, including specific information about the relevant business, its condition before and after the restraint was imposed and the restraint's history, nature and effect." State Oil Co. v. Khan, 522 U.S. 3, 10, 139 L. Ed. 2d 199, 118 S. Ct. 275 (1997) (citing Maricopa, 457 U.S. at 342). In applying this test, we examine the competitive significance of the alleged restraint to determine whether it has an anti-competitive effect on the market and is an unreasonable restraint on trade. Tunis Bros. Co. v. Ford Motor Co., 952 F.2d 715, 722 (3d Cir. 1991), cert. denied, 505 U.S. 1221, 120 L. Ed. 2d 903, 112 S. Ct. 3034 (1992). In this regard, covenants not to compete executed upon the sale of a business to a third party are generally not recognized as antitrust violations. See Bus. Elecs. Corp., 485 U.S. at 730 n.4 ("The classic ancillary restraint is an agreement by the seller of a business not to compete within the market."); Nat'l Soc'y of Prof'l Eng'rs, 435 U.S. at 689; Lektro-Vend Corp., 660 F.2d at 265 ("The recognized benefits of reasonably enforced noncompetition covenants are now beyond question."). As early as 1899, courts have recognized that covenants not to compete are not violations of  1 of the Sherman Act because,
+
+      45
+      
+It is of importance, as an incentive to industry and honest dealing in trade, that, after a man has built up a business with extensive good will, he should be able to sell his business and good will to the best advantage, and he could not do so unless he could bind himself by an enforceable contract not to engage in the same business in such a way as to prevent injury to that which he was about to sell.
+
+      46
+      
+United States v. Addyston Pipe & Steel, 85 F. 271, 280 (6th Cir. 1898), modified, 175 U.S. 211 (1899).
+
+      47
+      
+In this vein, courts have characterized covenants not to compete executed upon the legitimate transfer of ownership of a business as ancillary restraints on trade. Id.; see also Bus. Elecs. Corp., 485 U.S. at 730 n.4; United States v. Empire Gas Corp., 537 F.2d 296, 307 (8th Cir. 1976) ("Covenants not to compete executed in conjunction with the purchase of a business allow the purchaser to obtain the value of the good will for which he has paid."), cert. denied, 429 U.S. 1122, 51 L. Ed. 2d 572, 97 S. Ct. 1158 (1977). So long as these covenants are reasonable in scope, there is no antitrust violation under the rule of reason. See, e.g., Syntex Labs., Inc., v. Norwich Pharmacal Co., 315 F. Supp. 45, 56 (S.D.N.Y. 1970) ("It is hornbook law that a covenant not to compete ancillary to the sale of a business (or part of a business), when reasonably limited to time and territory, does not fall within the prohibitions of the Sherman Act."), aff'd, 437 F.2d 566 (2d Cir. 1971).
+
+      48
+      
+The District Court found,
+
+      49
+      
+In our view, the pre-closing and post-closing nets at issue here are a subset of common law covenants not to compete. Moreover, it is clear that the no-hire agreements imposed restrictions which were "ancillary to legitimate transactions," and thus properly considered an ancillary restraint.
+
+      50
+      
+Eichorn, CA No. 96-3587, slip op. at *23 (internal citation omitted).
+
+      51
+      
+We agree that the no-hire agreement was not an unreasonable restraint of trade under  1 of the Sherman Act. Frackowiak v. Farmers Ins. Co., Inc., 411 F. Supp. 1309, 1318 (D.Kan. 1976) ("Numerous Courts have recognized the general rule that agreements not to compete, entered into in conjunction with the termination of employment or sale of a business, do no offend the federal antitrust provisions if they are reasonable in duration and geographical limitation."). The primary purpose of the no-hire agreement was to ensure that Texas Pacific Group, as the purchaser of Paradyne, could retain the skilled services of Paradyne's employees. Although the no-hire agreement precluded the employees from seeking employment at an AT&T affiliate for 245 days, the primary purpose of the agreement was not anti-competitive. Contrary to plaintiffs' assertions, we can find no evidence to support their claim that the no-hire agreement was executed for the improper purpose of restraining trade and the cost of labor in the telecommunications industry. The primary purpose of the no-hire agreement was to ensure the successful sale of Paradyne to Texas Pacific Group which required workforce continuity.3 Any restraint on plaintiffs' ability to seek employment at AT&T and any effect on their pension bridging rights was incidental to the effective sale of Paradyne.
+
+      52
+      
+Because the no-hire agreement was a legitimate ancillary restraint on trade, we must determine whether the eight month restriction from employment at an AT&T affiliate was reasonable or whether it went further than necessary to ensure the successful transition of ownership. Cesnik, 490 F. Supp. at 868 (quoting Syntex Labs., 315 F. Supp. at 56) ("The question in every case [involving a covenant not to compete ancillary to the sale of a business] is whether the restraint is reasonably calculated to protect the legitimate interests of the purchaser in what he has purchased, or whether it goes so far beyond what is necessary as to provide a basis for the inference that its real purpose is the fostering of monopoly.").
+
+      53
+      
+We do not think the eight month restriction on re-employment at an AT&T affiliate was unreasonably broad. It is reasonable to believe Texas Pacific Group would require the technical skills of these employees for at least this eight month period, if not longer, to ensure a successful transition of ownership from Lucent. Furthermore, the no-hire agreement only precluded the plaintiffs from working at Lucent or an AT&T affiliate. The employees were free to leave Texas Pacific Group and seek employment elsewhere within the telecommunications industry. Significantly, there is no evidence in the record to support plaintiffs' claim that AT&T was the only employer in the market to whom they could sell their services. As the District Court found, there are over twenty other telecommunications firms that compete for plaintiffs' technical services. Furthermore, the market for plaintiffs with more generalized educational and work backgrounds includes "a vast number of jobs" nationwide. Eichorn, CA No. 96-3587, slip op. at *27-28 n.17.
+
+      54
+      
+Therefore, we hold the no-hire agreement was not an unreasonable restraint on trade. As an ancillary covenant not to compete, the no-hire agreement was reasonable in its restrictions on the plaintiffs' ability to seek employment elsewhere. Nat'l Soc'y of Prof'l Eng'rs, 435 U.S. at 689. While the no-hire agreement essentially barred the plaintiffs' ability to retain their desirable AT&T pension benefits,  1 of the Sherman Antitrust Act is not the appropriate vehicle here for redress. In formulating their claim in antitrust parlance, plaintiffs have argued their inability to work at their former jobs was a manifestly uncompetitive restraint on trade within the relevant market. We disagree. In order to advance their antitrust claim, plaintiffs are forced to define narrowly the relevant market affected by the defendants' activity as,
+
+      55
+      
+potential employers within a 35 mile radius of Holmdel/Middletown with the capacity and capability of employing or utilizing large numbers of persons with specialized experience in high speed data communications equipment of the sort Paradyne develops and makes . . . who can provide continuity of the pension benefits which have accrued to [plaintiffs] under the AT&T and/or Lucent pension plans.
+
+      56
+      
+Eichorn, CA No. 96-3587, slip op. at *29-30 n.18.
+
+      57
+      
+We believe this narrow market definition is inappropriate. As we recently stated, "the outer boundaries of a product market are determined by the reasonable interchangeability of use or the cross-elasticity of demand between the product itself and substitutes for it." Queen City Pizza, Inc., v. Domino's Pizza, Inc., 124 F.3d 430, 436 (3d Cir.) (quoting Brown Shoe Co., 370 U.S. at 325), reh'g denied, 129 F.3d 724 (1997), cert. denied, 523 U.S. 1059 (1998). "The test for a relevant market is not commodities [in this case technical jobs] reasonably interchangeable by a particular plaintiff, but 'commodities [technical employees] reasonably interchangeable by consumers [technology companies] for the same purposes.' " 124 F.3d at 438 (quoting United States v. E.I. Du Pont de Nemours and Co., 351 U.S. 377, 395, 76 S. Ct. 994, 100 L. Ed. 1264 (1956)). Additionally, we have said "the relevant geographic market is the area in which a potential buyer may rationally look for the goods or services he or she seeks." Pa. Dental Assn. v. Med. Serv. Assn. of Pa., 745 F.2d 248, 260 (3d Cir. 1984), cert. denied, 471 U.S. 1016, 85 L. Ed. 2d 303, 105 S. Ct. 2021 (1985); see also Brokerage Concepts, Inc. v. U.S. Healthcare, Inc., 140 F.3d 494, 515 (3d Cir. 1998). This geographic market must "conform to commercial reality." Acme Mkts., Inc. v. Wharton Hardware & Supply Corp., 890 F. Supp. 1230, 1239 (D.N.J. 1995) (citing Brown Shoe Co., 370 U.S. at 336).
+
+      58
+      
+By defining the market so narrowly that it only includes the defendants, plaintiffs' proffered geographic and product markets are unrealistic.4 The market for the plaintiffs' labor is much broader. We agree with the District Court that the relevant market is not limited to AT&T and its affiliates but rather includes all those technology companies and network services providers who actively compete for employees with the skills and training possessed by plaintiffs.5
+
+      59
+      
+Because market realities reflect that the no-hire agreement did not have a significant anti-competitive effect on the plaintiffs' ability to seek employment within this broader telecommunications market nor that it fixed the cost of labor in the industry, we conclude it was not an antitrust violation under the rule of reason.6 The antitrust laws were not designed to protect every uncompetitive activity, but rather only those activities that have anti-competitive effects on the market as a whole. Broad. Music, Inc., 441 U.S. at 23 ("Not all arrangements among actual or potential competitors that have an impact on price are per se violations of the Sherman Act or even unreasonable restraints."). While plaintiffs' loss of their pension benefits gives us pause, we believe they can seek redress through other statutes more adequately suited to their injury than  1 of the Sherman Antitrust Act.7 Chambless v. Masters, Mates & Pilots Pension Plan, 772 F.2d 1032, 1042 (2d Cir. 1985) ("To the extent that the . . . [plaintiff's antitrust claim] is based on diminished retirement benefits, it is essentially an ERISA matter."), cert. denied, 475 U.S. 1012, 89 L. Ed. 2d 304, 106 S. Ct. 1189 (1986).
+
+IV.
+
+      60
+      
+We now turn to whether the no-hire agreement, which effectively cancelled plaintiffs' AT&T pension bridging rights, violated  510 of ERISA. Section 510 of ERISA provides:
+
+      61
+      
+It shall be unlawful for any person to discharge, fine, suspend, expel, discipline or discriminate against a participant or beneficiary for exercising any right to which he is entitled under the provisions of the employee benefit plan . . . for the purpose of interfering with the attainment of any right to which such participant may become entitled under the plan.
+
+      62
+      
+29 U.S.C.  1140 (1994).
+
+      63
+      
+Congress enacted  510 "primarily to prevent unscrupulous employers from discharging or harassing their employees in order to keep them from obtaining vested pension benefits." DeWitt v. Penn-Del Directory Corp., 106 F.3d 514, 522 (3d Cir. 1997). We have held an employer violates  510 when it acts with the specific intent to interfere with an employee's right to benefits. DiFederico v. Rolm Co., 201 F.3d 200, 204-05 (3d Cir. 2000). To prove a prima facie case under  510 a plaintiff must show (1) that an employer took specific actions (2) for the purpose of interfering (3) with an employee's attainment of pension benefit rights. Gavalik v. Cont'l Can Co., 812 F.2d 834, 852 (3d. Cir.), cert. denied, 484 U.S. 979 (1987). We held in DiFederico that once a plaintiff makes a prima facie showing, the employer has the burden of articulating a legitimate non-discriminatory reason for his conduct. Then, the burden shifts back to the plaintiff to show that the employer's rationale was pre-textual and that the cancellation of benefits was the "determinative influence" on the employer's actions. DiFederico, 201 F.3d at 205.
+
+      64
+      
+The crucial threshold issue in this case is whether defendants AT&T and Lucent8 had the specific intent to interfere with the Paradyne employees' pension benefit rights or whether the cancellation of the bridging rights was merely an incidental by-product of the sale of Paradyne. DeWitt, 106 F.3d at 523 ("Employee must show that the employer made a conscious decision to interfere with the employee's attainment of pension eligibility or additional benefits."). Plaintiffs allege the no-hire agreement and its eight month restriction on re-employment was enacted for "the direct and immediate objective and with the singular purpose of eliminating the Paradyne pensions." In support of their claim, plaintiffs argue the eight month restriction on re-employment is suspiciously close to the six month vesting period of the AT&T pension plan and that this temporal proximity provides circumstantial evidence that the cancellation of the benefits was a motivating factor in the timing of the no-hire agreement. Additionally, they point to the role of Paradyne's Vice-President of Human Resources in proposing Texas Pacific Group's ultimate pension package for the Paradyne employees. Plaintiffs also cite a confidential memorandum between Larry Knoch and Linda Roussau of Lucent Technologies, which acknowledges the eight month restriction in the no-hire agreement had the practical effect of cancelling the Paradyne employees' pension rights. Finally, plaintiffs point to the economic benefits that both Lucent and AT&T received from the no-hire agreement, specifically that neither defendant was required to pay for pension benefits, as evidence of specific intent to interfere with an ERISA pension plan in violation of  510. Turner v. Schering-Plough Corp., 901 F.2d 335, 348 (3d. Cir. 1990) (savings to an employer that result from employees' termination might be viewed as a motivating factor sufficient to satisfy the intent element of  510 liability).
+
+      65
+      
+Although the District Court found this evidence insufficient to support a finding of specific intent to interfere with the plaintiffs' benefit plans,9 Eichorn, CA No. 96-3587, slip op. at *9-12, we believe at this stage of the proceedings plaintiffs have presented sufficient circumstantial evidence of intent to interfere with their pension rights to create a genuine issue of material fact.10 Turner, 901 F.2d at 347 ("Employee may show [a violation of  510] . . . by circumstantial evidence."). As we held in DeWitt, "in most cases, . . .'smoking gun' evidence of specific intent to discriminate does not exist. As a result, the evidentiary burden in these cases may also be satisfied by the introduction of circumstantial evidence." 106 F.3d at 523 (quoting Gavalik, 812 F.2d at 851). Of course we express no opinion whether plaintiffs will prevail at trial under the preponderance of evidence standard for  510 claims. DiFederico, 201 F.3d at 205 ("[If] employer carries its burden, the plaintiff then must persuade the court by a preponderance of the evidence that the employer's legitimate reason is pre-textual."). Because plaintiffs have submitted sufficient prima facie evidence to withstand defendant's motion for summary judgment, we will reverse and remand for further proceedings.
+
+V.
+
+      66
+      
+Plaintiffs contend the District Court erred when it denied their motion for additional discovery for a contemplated motion for class certification on their ERISA  510 claim. In denying plaintiffs' motion the District Court stated, "We do not find that . . . Third Circuit[ ] . . . [precedent] requires this Court to keep this matter open so that plaintiffs may engage in discovery and motion practice on the issue of class certification when the underlying claims have been dismissed with prejudice." Eichorn, CA No. 96-3887, slip op. at *18. Because we hold plaintiffs have submitted sufficient prima facie evidence to support their ERISA  510 claim, we believe they may be entitled to additional discovery to pursue a possible motion for class certification. Accordingly, we direct the District Court on remand to address plaintiffs' motion for additional discovery and any future motion for class certification under the requirements of Fed. R. Civ. P. 23(c).
+
+VI.
+
+      67
+      
+For these reasons, we will affirm the District Court's dismissal of plaintiffs' antitrust claims. We will reverse the grant of summary judgment on plaintiffs' ERISA  510 claims. We will also reverse the Court's order denying plaintiffs' motion for additional discovery for an anticipated class certification motion and, on remand, direct the District Court to address this issue in accordance with the requirements of Fed. R. Civ. P. 23(c).
+
+Notes:
+
+        *
+        
+ The Honorable Louis H. Pollak, United States District Judge for the Eastern District of Pennsylvania, sitting by designation.
+
+        1
+        
+ Several other courts prior to Brunswick held that employees barred from seeking employment from a third party employer because of a no-hire agreement have standing to litigate a  1 claim. See, e.g., Radovich v. Nat'l Football League, 352 U.S. 445, 1 L. Ed. 2d 456, 77 S. Ct. 390 (1957) (coach precluded from working in National Football League because of agreement among all of the teams in the league had standing); Quinonez v. Nat'l Assoc. of Secs. Dealers, Inc., 540 F.2d 824 (5th Cir. 1976) (plaintiff who was fired by securities dealer and was unable to find employment with another securities dealer because of agreement among dealer firms not to hire an employee who was discharged by another firm suffered sufficient injury to proceed with antitrust claim); Tugboat, Inc. v. Mobile Towing Co., 534 F.2d 1172, 1176 (5th Cir.) ("There can be little doubt that an employee who is deprived of a work opportunity has been injured . . . because the selling of one's labor is a commercial interest."), reh'g denied, 540 F.2d 1085 (5th Cir. 1976); Nichols v. Spencer Int'l Press, Inc., 371 F.2d 332 (7th Cir. 1967) (plaintiff prohibited from seeking employment at competing employer because of agreement between employers in industry not to hire each other's employees suffered injury sufficient to bring antitrust claim).
+
+        2
+        
+ Similarly, we can find no cases in which a no-hire agreement entered into upon the sale of a business to a third party that resulted in the loss of employee benefits was found to be a horizontal price fixing conspiracy. See Broad. Music, Inc., 441 U.S. at 9-10 (quoting Topco Assocs., Inc., 405 U.S. at 607-08 ("It is only after considerable experience with certain business relationships that courts classify them as per se violations.")).
+
+        3
+        
+ Plaintiffs contend the true motive of the no-hire agreement was not work force continuity but eliminating pension benefits to reduce Texas Pacific Group's costs. They argue that if work force continuity were really the motive, Texas Pacific Group could have offered enhanced benefits packages to entice the work force to remain with Paradyne rather then simply agreeing to cancel their AT&T pension benefits. But the existence of alternative means to achieve a legitimate business goal does not in itself mean the defendants' chosen course of action was uncompetitive and improper.
+
+        4
+        
+ Plaintiffs argue they are under no obligation to define the relevant product and geographic markets because the defendants' conduct per se violated the antitrust laws. See Jefferson Parish Hosp. Dist. No. 2 v. Hyde, 466 U.S. 2, 15, 80 L. Ed. 2d 2, 104 S. Ct. 1551 (1984). Because we find this case is governed under the rule of reason, plaintiffs necessarily have the affirmative burden of proving the relevant product and geographic markets affected by the defendants' alleged uncompetitive activity. Ideal Dairy Farms Inc. v. John LaBatt, Ltd., 90 F.3d 737, 743 (3d Cir. 1996) (holding plaintiffs must present evidence from which rational person could conclude the relevant markets are actually what plaintiffs allege them to be).
+
+        5
+        
+ As previously noted, the District Court found there are over twenty companies that compete for employees with plaintiffs' technical skills. Additionally there are a "vast number of jobs" nationwide for plaintiffs with more generalized work and educational experience. Eichorn, CA No. 96-3587, slip op. at *27-28 n.17.
+
+        6
+        
+ Plaintiffs also attempt to characterize defendants' activity as an illegal exercise of relational market power. See Sullivan & Grimes, The Law of Antitrust: An Integrated Handbook  2.4e2iv (2000); Warren S. Grimes, Market Definition in Antitrust Claims: Relational Market Power and the Franchisor's Conflict of Interest, 67 Antitrust L.J. 243 (1999). They contend AT&T offered a unique pension benefits program that essentially locked the plaintiffs into working for them. See Eastman Kodak Co. v. Image Technical Services, 504 U.S. 451, 119 L. Ed. 2d 265, 112 S. Ct. 2072 (1992). Claiming that AT&T was the only telecommunications company within the industry that offered such an extensive benefits program, plaintiffs maintain they were prevented from seeking employment at any other company, since to do so would result in the loss of valuable pension benefits. According to this argument, the no-hire agreement that precluded plaintiffs from working at an AT&T affiliate prevented them from working at the only company within the industry where they could receive these unique benefits. See, e.g., Aspen Skiing Co. v. Aspen Highlands Skiing Corp., 472 U.S. 585, 86 L. Ed. 2d 467, 105 S. Ct. 2847 (1985); FTC v. Texaco, Inc., 393 U.S. 223, 21 L. Ed. 2d 394, 89 S. Ct. 429 (1968). Central to plaintiffs' argument is the contention that the AT&T pension benefits are unique in the industry. We see no evidence for this in the record. Therefore, we need not address whether to extend the relational market power analysis to the facts of this case.
+
+        7
+        
+ Although the no-hire agreement effectively cancelled the plaintiffs' AT&T benefits, these plaintiffs were free to seek employment elsewhere in the industry where pension benefits may have been available. But even though defendants' activity was not a price fixing conspiracy under the Sherman Act, it may give rise to liability under  510 of ERISA where a different analysis is involved.
+
+        8
+        
+ In their complaint plaintiffs did not allege that Texas Pacific Group violated  510 of ERISA. App. at 92a, 157a ("Plaintiffs demand judgment . . . declaring the refusal of AT&T and Lucent to employ members of the Class until after the expiration of their pension bridging rights to be in violation of ERISA section 510, 29 U.S.C.  1140.").
+
+        9
+        
+ In its initial order granting summary judgment on the antitrust claims, the District Court found plaintiffs produced enough evidence to survive a motion for summary judgment on the ERISA claim. Upon reconsideration, the District Court reversed its position stating it improperly relied on circumstantial evidence that the defendants experienced an overall economic gain from the no-hire agreement and sale of Paradyne. In re-examining the relevant case law, the court said the proper inquiry should focus on the reduction in actual benefit expenses caused by the termination of employees, rather than a broader assessment of the overall financial impact of termination on the employer's business. See Clark v. Coats & Clark, 990 F.2d 1217, 1224 (11th Cir. 1993) ("Measures designed to reduce costs in general that also result in an incidental reduction in benefits expenses do not suggest discriminatory intent."). We agree with the Eleventh Circuit. But we hold that plaintiffs have produced sufficient evidence that both AT&T and Lucent received a direct and substantial financial gain from the cancellation of pension benefits, namely they were relieved from paying large sums for the pension benefits of the several Paradyne employees affected by the agreement.
+
+        10
+        
+ We believe a genuine issue of material fact exists only with the Pre and Post-Closing Nets' effect on the Paradyne employees' pension rights. Because the Preliminary Net did not prohibit plaintiffs from receiving their pension benefits as employees of Lucent Technologies, it did not violate  510 of ERISA.
+
+CC∅ | Transformed by Public.Resource.Org
+

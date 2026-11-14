@@ -1,0 +1,14 @@
+{
+  "governing_checker": "tools/check_term.py compiled unchanged with repository-history lookups disabled",
+  "execution": "python -B tmp/ot2002_chunk14_admin.py check",
+  "exit_status": 0,
+  "warnings": 0,
+  "sectioned_inventory_rows": 180,
+  "completed_inventory_rows": 176,
+  "remaining_inventory_rows": 4,
+  "stopped": 0,
+  "records": 181,
+  "repository_history_checks": "not run by instruction",
+  "ledger_and_manifest": "rebuilt using governing functions through scoped adapters; prior ledger rows preserved",
+  "output": "Render Input generated; public rendering remains a separate task"
+}

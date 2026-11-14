@@ -1,0 +1,11 @@
+# Chunk 14 effective stage handoffs
+
+The standard frozen COMMITMENTS and RECONCILED aggregates preserve the separately frozen group handoffs. They remain unchanged after creation. The following explicit supplements determine the final affected scope; a same-named runtime copy never overrides a frozen copy.
+
+- A original commitments remain operative for Cano and Wiggins. A_REFRESH_COMMITMENTS replaces only the original Garamendi and Bazzle modeling rows after the bounded neutral source refresh and fresh validation. A_RECONCILED contains the final historical reconciliation for all four, including the supported Bazzle corrections and Stevens's exact conditional accommodation. Its final positions control assembly.
+- B_RECONCILED supplies all four final B cases. Nike's finality and prudential grounds remain distinct. The final Limon assembly selects the narrower supported maximum-increase application; the original broader Associate positions are preserved and are not attributed to the Chief.
+- C_RECONCILED remains the original five-case handoff. After actual June 23 and June 26 public law was preserved, C_LAW_REFRESH_COMMITMENTS and C_LAW_REFRESH_RECONCILED supplement it for the three June 30 cases. Their exact file prefix is OT_2002CHUNK14_ in this freeze directory. All original coalitions remain unchanged. Limon's intervening juvenile maximum holding is now authority, while the adult-predicate, mandatory-floor and federal-charging conclusions in Gatewood require their independently stated grounds.
+
+The clean-law refresh source is terms/OT2002/entering-law/OT_2002CHUNK14_JUNE26_REFRESH.md. It copies bounded public text only. No current June 30 Stone supplement or private Record audit was supplied to that modeling or reconciliation refresh. Stage separation and source limits are stated in each handoff. General model knowledge is not represented as erased.
+
+Initial A and B preparation exposure receipts are kept separately from modeling. Fresh neutral validation and bounded source refreshes supplied the clean modeling inputs. The complete clause and statutory text used for exact-source handoffs were copied programmatically from saved primary materials; original briefs were not edited.

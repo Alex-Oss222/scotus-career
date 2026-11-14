@@ -1,0 +1,207 @@
+Source: https://law.resource.org/pub/us/case/reporter/F3/230/230.F3d.186.98-5138.html
+
+
+
+    230 F.3d 186
+
+230 F.3d 186 (6th Cir. 2000)
+
+United States of America, Plaintiff-Appellee,
+v.
+Johnny E. Gatewood,Defendant-Appellant.
+
+No. 98-5138
+
+UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+
+Argued: May 30, 2000
+Decided and Filed: October 10, 2000
+
+Appeal from the United States District Court for the Western District of Tennessee at Memphis.  No. 95-20183--Jon Phipps McCalla, District Judge.
+
+Tony R. Arvin, ASSISTANT UNITED STATES ATTORNEY, Memphis, Tennessee, Joseph C. Wyderko, DEPARTMENT OF JUSTICE, CRIMINAL DIVISION, APPELLATE SECTION, Washington, D.C., for Appellee.
+
+K. Jayaraman, Memphis, Tennessee, for Appellant.
+
+Before: MARTIN, Chief Judge; KEITH, MERRITT, RYAN, BOGGS, NORRIS, SUHRHEINRICH, SILER, BATCHELDER, DAUGHTREY, MOORE, COLE, CLAY, and GILMAN, Circuit Judges.
+
+MARTIN, C. J., delivered the opinion of the court, in which RYAN, BOGGS, NORRIS, SUHRHEINRICH, SILER, BATCHELDER, DAUGHTREY, MOORE, and GILMAN, JJ., joined. MERRITT, J. (pp. __-__), delivered a separate dissenting opinion, in which KEITH, COLE, and CLAY, JJ., joined.
+
+OPINION
+
+BOYCE F. MARTIN, JR., Chief Judge.
+
+      1
+      
+On March 6, 1997, a jury found Johnny Gatewood guilty of a robbery affecting interstate commerce in violation of the Hobbs Act, 18 U.S.C. § 1951, and two counts of kidnaping in violation of 18 U.S.C. § 1201. Gatewood was subsequently sentenced to serve three concurrent life terms pursuant to the federal three strikes statute, 18 U.S.C. § 3559(c). Gatewood appeals the sentence, claiming that the three strikes statute violates his constitutional rights because, in order to take advantage of the statute's affirmative defense provision, it requires that he prove by the heightened standard of "clear and convincing evidence" that his prior convictions were "nonqualifying felonies." He further challenges the constitutionality of his sentence by alleging that his prior convictions are equivalent to elements of the offense and thus must be charged in the indictment, submitted to a jury and proved beyond a reasonable doubt. In addition, Gatewood appeals the district court's denial of his motion to suppress his confessions and his motion to suppress the pretrial eyewitness identifications.
+
+      2
+      
+A panel of this Court originally affirmed Gatewood's conviction but vacated and remanded his sentence based on a finding that the three strikes statute's clear and convincing evidence standard was unconstitutional. United States v. Gatewood, 184 F.3d 550 (6th Cir. 1999). We granted a rehearing en banc and vacated the panel decision. United States v. Gatewood, 204 F.3d 680 (6th Cir. 1999). Finding that the clear and convincing evidence standard, as used in the three strikes statute, is constitutional and that prior convictions are not elements of a crime, we AFFIRM the district court's conviction and sentence. We also deny Gatewood's request to suppress his confession and pretrial identification.
+
+I.
+
+      3
+      
+In February 1995, Johnny Gatewood kidnaped two women from the parking lot of a Memphis, Tennessee restaurant. He forced them at gunpoint to drive to Arkansas where he robbed them before they were able to escape. Two nights later, Gatewood robbed a Memphis motel, again using a gun. The kidnaping victims in the first case positively identified Gatewood as their kidnaper from a photographic lineup. They again identified him in-person at the time of trial. Gatewood filed a motion to suppress his confession and a motion to suppress the pretrial eyewitness identifications. The district court denied both motions.
+
+      4
+      
+Prior to trial, the United States gave notice that it would seek a mandatory life imprisonment sentence under the three strikes statute, based on four prior Arkansas state convictions: (1) a 1966 conviction for robbery; (2) a 1966 conviction for assault with intent to commit robbery; (3) a 1971 conviction for armed robbery; and (4) a 1976 conviction for aggravated robbery. The district court denied Gatewood's objection to the three strikes statute and sentenced him based on these prior convictions.
+
+      5
+      
+Under the three strikes statute, 18 U.S.C. § 3559(c)(1)(A)(i), a defendant receives a mandatory life imprisonment if he is convicted of a serious violent felony and has previously been convicted of two or more such felonies. The statute defines a "serious violent felony" in part as "a Federal or State offense, by whatever designation or wherever committed, consisting of . . . robbery (as described in section 2111, 2113, or 2118)." 18 U.S.C. § 3559(c)(2)(F)(i). Robbery is defined as the taking of something of value by force and violence or by intimidation from the person or presence of another. See 18 U.S.C. § 2111 (robbery within federal territorial jurisdiction), § 2113 (bank robbery), or § 2118 (robbery of controlled substances from DEA registrant).
+
+      6
+      
+The three strikes statute contains a disqualification provision, or an affirmative defense, that provides a defendant withthe opportunity to prove that an otherwise qualifying conviction does not constitute a "strike" under the statute. The disqualification provision states:
+
+      7
+      
+(3) Nonqualifying felonies. ---
+
+      8
+      
+(A) Robbery in certain cases. --- Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that -
+
+      9
+      
+(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and (ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
+
+      10
+      
+13 U.S.C. § 3559(c)(3)(A) (emphasis added). A prior felony robbery conviction, therefore, does not constitute a strike if the defendant can prove, by clear and convincing evidence, that it is a nonqualifying felony.
+
+      11
+      
+Gatewood argued that his prior convictions constituted nonqualifying felonies. At the sentencing hearing Gatewood testified that he was not a participant in the crimes that led to either the 1966 or 1971 convictions. He also stated that no violence was used in connection with the 1976 robbery. Gatewood's own testimony was the only evidence he presented to establish that the convictions were nonqualifying. The officers who investigated the original offenses had no recollection of the cases and a private detective hired by Gatewood failed to locate any witnesses with any memory of the crimes. The district court found that Gatewood did not establish by clear and convincing evidence that his previous convictions were nonqualifying felonies.
+
+      12
+      
+Gatewood further objected to his sentence by claiming that the three strikes statute violated due process. He argued that, because it was virtually impossible to provide evidence sufficient to meet the heightened clear and convincing standard, the standard of proof was unconstitutional. The district court denied Gatewood's objection and Gatewood appealed.
+
+II.
+
+      13
+      
+The constitutionality of the clear and convincing standard in the three strikes statute's disqualification provision is one of first impression in this circuit. The issue has been raised in four other appellate courts - the Fifth, Seventh, Ninth, and Tenth Circuits. See United States v. Ferguson, 211 F.3d 878 (5th Cir. May 4, 2000), United States v. Mackovich, 209 F.3d 1227 (10th Cir. 2000); United States v. Kaluna, 192 F.3d 1188 (9th Cir. 1999) (en banc), cert. denied, 120 S. Ct. 1561 (2000); United States v. Wicks, 132 F.3d 383 (7th Cir. 1997). While our sister circuits have addressed the disqualification provision of the three strikes statute, three of the courts, the Seventh, Ninth, and Tenth Circuits, declined to decide the constitutionality of the clear and convincing standard. Instead, they addressed only whether it is constitutionally permissible to shift the burden of proof to the defendant.
+
+      14
+      
+Relying on Patterson v. New York, 432 U.S. 197, 207-08 (1977), our sister circuits found, and we agree, that the legislative branch has the constitutional power to allocate the burden of proving an affirmative defense to a defendant. In Patterson, the Supreme Court upheld a New York statute that placed the burden of proving by a preponderance of the evidence the affirmative defense of acting under the influence of extreme emotional distress in order to reduce a crime to manslaughter in the first degree. See id. The Court held that if a state chooses to recognize a factor that mitigates the degree of criminality or punishment, as long as the prosecution has proven all the elements of the crime beyond a reasonable doubt, the state is freeto allocate the burden of proving the affirmative defense to the defendant. See id. at 209. "If Patterson allows such a result even at the stage of the trial where guilt or innocence is decided, it follows that due process does not prohibit the kind of affirmative defense at the sentencing stage found in § 3559(c)(3)(A)." Wicks, 132 F.3d at 389.
+
+      15
+      
+In addition, in Parke v. Raley, 506 U.S. 20, 26 (1992), the Court addressed the validity of a Kentucky sentence enhancement law that favored the prosecution with an initial presumption upon proof of the existence of a prior conviction. As in this case, the statute at issue required a recidivist defendant to shoulder the burden of proof in establishing the invalidity of the prior convictions. The Court held that "even when a collateral attack on a final conviction rests on constitutional grounds, the presumption of regularity that attaches to final judgments makes it appropriate to assign a proof burden to the defendant." Id. at 28. Supreme Court precedent, therefore, firmly establishes that the three strikes statute's requirement that the defendant shoulder the burden of proving an affirmative defense at sentencing is constitutional.
+
+      16
+      
+While the Court in Parke and Patterson found it permissible to place the burden of proof on a defendant, it did not address what standard a defendant must meet to prove the affirmative defense. The Fifth Circuit's recent decision is the only case to address the constitutionality of the clear and convincing standard of proof in cases involving an affirmative defense under the three strikes statute.  See Ferguson, 211 F.3d at 866-87. Reviewing for plain error only, the Ferguson court held that the defendant's due process challenge to the three strikes statute must fail because "[g]enerally, sentencing proceedings do not offer criminal defendants the same procedural safeguards as trials." Id. In addition, the court stated that it was unpersuaded by the defendant's reliance on the recent Supreme Court decision in Cooper v. Oklahoma, 517 U.S. 348 (1996). See id.
+
+      17
+      
+Gatewood also relies on Cooper to argue that the clear and convincing standard in the three strikes statute is unconstitutional. In Cooper, the Court found unconstitutional an Oklahoma law that presumed a criminal defendant was competent to stand trial unless he proved incompetence by clear and convincing evidence.  See 517 U.S. at 363. The Court reasoned that the clear and convincing evidence standard imposes a significant risk of an erroneous determination. See id. Situations requiring a heightened standard of proof reallocate the risk of error between the parties. See id. at 362. Because the consequences of an erroneous determination were dire in competency proceedings, the Court found that there was no basis to allocate to a criminal defendant the "large share of risk which accompanies a clear and convincing evidence standard." Id. at 366. Therefore, the potential violation of the defendant's fundamental rights outweighed the State's interest in the efficient operation of its criminal justice system. See id. at 367.
+
+      18
+      
+Gatewood argues, in accordance with the Court's reasoning in Cooper, that the three strikes statute's heightened standard of proof substantially increases the probability of an erroneous decision under § 3559(c)(3)(A). Gatewood's previous convictions are 23 to 33 years old. The officers in the cases did not remember the arrest or any other facts associated with the case and efforts to locate witnesses involved in any of the offenses failed. Gatewood posits that the remoteness of these convictions would make it almost impossible to meet the clear and convincing standard and, therefore, the heightened standard increases the probability of an erroneous decision in sentencing.
+
+      19
+      
+This case, however, is distinguishable from Cooper. Supreme Court precedentdifferentiates burden of proof cases involving statutorily prescribed rights from those cases that concern the protection of fundamental rights. See Patterson, 432 U.S. at 201-02; Cooper, 517 U.S. at 367. When looking at a statutorily prescribed right, the Patterson Court held that a New York statute did not deprive a defendant of due process by placing on him the burden of proving by a preponderance of the evidence an affirmative defense. See 432 U.S. at 210. The Court has recognized, however, that the Due Process Clause limits the State's power to regulate procedural burdens if it "offends some principle of justice so rooted in the traditions and conscience of our people as to be ranked as fundamental." Id. at 201-02 (citations omitted). The Court relied on this belief when deciding Cooper, 517 U.S. at 367. It held that a defendant possesses a fundamental right not to be tried unless competent. See id. The Court stated that:
+
+      20
+      
+Unlike Patterson, which concerned procedures for proving a statutory defense, we consider here whether a State's procedures for guaranteeing a fundamental constitutional right are sufficiently protective of that right. The deep roots and fundamental character of the defendant's right not to stand trial when it is more likely than not that he lacks the capacity to understand the nature of the proceedings against him or to communicate effectively with counsel mandate constitutional protection.
+
+      21
+      
+Id. at 367-68.
+
+      22
+      
+This case, like Patterson, concerns the procedure for proving a statutory defense rather than a procedure for guaranteeing protection of a fundamental constitutional right. There is no fundamental constitutional right to avoid an enhanced sentence based on prior convictions simply because the prior convictions were nonviolent.
+
+      23
+      
+The three strikes statute is a sentencing enhancement device that, like the Sentencing Guidelines, is a statutory mechanism that establishes procedural protection and guidelines for sentencing. As this Court made clear in United States v. Silverman, 976 F.2d 1502, 1508 (6th Cir. 1992) (en banc), a criminal defendant is not entitled to trial-like procedural protections at a sentencing hearing. "The standard has always been that a sentence may not properly be imposed on the basis of material misinformation . . . but specific procedures, such as are required at trial, are simply not constitutionally mandated." Id. The constitutional protections afforded defendants at a criminal trial are not available at sentencing proceedings. See id. at 1511. Due process requires only that the proceedings be fundamentally fair and that a sentence be based on reliable information.
+
+      24
+      
+A criminal defendant's ability to refute the use of a prior conviction as a strike under the statute exists only because Congress chose to include the disqualification provision as part of the three strikes statute. When enacting a statute, Congress need not provide an affirmative defense to a criminal defendant. Rather, Congress could have enacted the three strikes statute independent of the disqualification provision. If Congress can choose whether or not to provide a defense, it follows that the burden of proof Congress places on such a defense cannot be unconstitutional. Statutes that punish recidivists more severely than first-time offenders have a long tradition in state and federal legal systems. See Parke, 506 U.S. at 26. It is the prerogative of the legislative branch to determine whether a recidivist defendant is subject to an enhanced statutory punishment and what, if any, affirmative defense applies after a defendant has previously been adjudged guilty. While this may result in cases that do not appear totally fair on their face, the law remains constitutionally sound.
+
+III.
+
+      25
+      
+In his supplemental brief, Gatewood also argues that his sentence is unconstitutionalbecause his sentence was increased by facts that were not set forth in the indictment or proven beyond a reasonable doubt. It is well established that the Due Process Clause of the Fifth Amendment and the notice and jury trial guarantees of the Sixth Amendment require that facts constituting elements of the offense "be charged in the indictment, submitted to a jury, and proven by the Government beyond a reasonable doubt." Jones v. United States, 526 U.S. 227, 232 (1999). The question is whether a defendant's prior convictions, which are facts that under the federal three strikes statute may increase the maximum permissible punishment to which a defendant is exposed, are equivalent to elements of the offense, or whether they are merely sentencing factors.
+
+      26
+      
+This question was answered by the Supreme Court in Almendarez-Torres v. United States, 523 U.S. 224 (1998). Almendarez-Torres involved 8 U.S.C. § 1326: subsection (a) of that statute prohibited an alien from returning to the United States after having been deported and authorized a maximum prison term of two years; subsection (b) authorized a prison term of up to 20 years for any alien described in subsection (a) if the initial deportation was subsequent to a conviction for commission of an aggravated felony. See id. at 226. Defining the question as "whether this latter provision defines a separate crime or simply authorizes an enhanced penalty," the Court held that the subsection was a "penalty provision, which simply authorizes a court to increase the sentence for a recidivist." Id. The Court rejected the argument that, because the fact of recidivism increased the maximum penalty to which a defendant was exposed, Congress was constitutionally required to treat recidivism as an element of the crime that must be charged in the indictment and proven beyond a reasonable doubt. See id. at 239. Almendarez-Torres, as the Supreme Court has explained, "stands for the proposition that not every fact expanding a penalty range must be stated in a felony indictment, the precise holding being that recidivism increasing the maximum penalty need not be so charged." Jones v. United States, 526 U.S. 227, 248 (1999).
+
+      27
+      
+The Supreme Court recently revisited this issue in Apprendi v. New Jersey, --- U.S. ---, 120 S. Ct. 2348 (2000). In Apprendi, after examining the practice at common law, the Court held the general rule to be that "[o]ther than the fact of a prior conviction, any fact that increases the penalty for a crime beyond the prescribed statutory maximum must be submitted to a jury, and proved beyond a reasonable doubt." Id. at 2362-63. The Supreme Court explained Almendarez-Torres as an "exceptional departure" from this general rule, and noted that constitutional concerns were mitigated in that case by "[b]oth the certainty that procedural safeguards attached to any 'fact' of prior conviction, and the reality that Almendarez-Torres did not challenge the accuracy of that 'fact' in his case." Id. at 2362. Although the Court's decision in Apprendi arguably casts doubt on the correctness of the holding in Almendarez-Torres, see id. (noting that "it is arguable that Almendarez-Torres was incorrectly decided, and that a logical application of our reasoning today should apply if the recidivist issue were contested" (footnote omitted)); id. at 2368, 2379 (Thomas, J., concurring) (endorsing a broader rule that "a 'crime' includes every fact that is by law a basis for imposing or increasing punishment" and expressing a belief that "the fact of a prior conviction is an element under a recidivism statute"); see also Monge v. California, 524 U.S. 721, 741 (1998) (Scalia, J., with whom Souter and Ginsburg, JJ., joined, dissenting) (explaining that the holding of Almendarez-Torres was "in my view a grave constitutional error affecting the most fundamental of rights"), Almendarez-Torres remains the law. Accordingly, we reject Gatewood's argument.
+
+IV.
+
+      28
+      
+Gatewood also challenges the constitutionality of his conviction by claiming that his confession was involuntary and the eyewitness identification was improper. To prove an unconstitutional confession, "coercive police activity is a necessary predicate to finding that a confession is not 'voluntary.'" Colorado v. Connolly, 479 U.S. 157, 167 (1986). Gatewood has failed to advance any evidence of coercive police activity or evidence that his will was coercively overborne. He has not proven his confession was involuntary, and it was properly admitted.
+
+      29
+      
+Gatewood has also failed to establish why the pretrial identification by witnesses should be excluded at trial. Needless to say, if an identification procedure is "impermissibly suggestive" then the identification may be unreliable. See United States v. Hill, 967 F.2d 226, 230 (6th Cir. 1992). To determine reliability of an identification, courts look at factors such as: "(1) the witness's opportunity to view the criminal at the time of the crime; (2) the witness's degree of attention at the time of the crime; (3) the accuracy of the witness's prior description of the defendant; (4) the witness's level of certainty when identifying the suspect at the confrontation; and (5) the length of time that has elapsed between the crime and the confrontation." Id. (citing Neil v. Biggers, 409 U.S. 188 (1972)).  The witnesses in this case rode in the car with Gatewood during which time they had clear views that allowed them to easily identify him only four days later. Therefore, Gatewood's challenge to the identification is denied.
+
+V.
+
+      30
+      
+We find that Gatewood's constitutional challenges to his sentence, and his objections to the admission of his confession and the pretrial identifications, all fail. We therefore AFFIRM.
+
+      31
+      
+MERRITT, Circuit Judge, dissenting.
+
+      32
+      
+I disagree with sections II and III of the majority opinion in this case, which allows a defendant to be sentenced to life imprisonment based on conduct that the government is unable to prove. This is a clear violation of due process.
+
+      33
+      
+The majority arrives at its erroneous conclusion by misapplying two recent Supreme Court decisions, Apprendi v. United States, -- U.S. --, 120 S.Ct. 2348, 147 L.Ed. 2d 435 (2000) and Cooper v. Oklahoma, 517 U.S. 348, 116 S.Ct. 348, 134 L.Ed.2d 498 (1996). In Cooper, the Supreme Court held that Oklahoma's rule requiring that a criminal defendant prove himself competent to stand trial by clear and convincing evidence violated due process. The majority of this court contends that Cooper is inapplicable to Gatewood's appeal because there is no constitutional mandate for trial-level constitutional protections at a sentencing hearing. While this may be true, this statement ignores Apprendi, which requires facts that would increase the defendant's sentence beyond the statutorily prescribed maximum term to be charged as an element of the crime. Apprendi, 120 S.Ct. at 2362-63. The life imprisonment issue would then become part of the trial and the government would be required to prove this element beyond a reasonable doubt. In re Winship, 397 U.S. 358, 90 S.Ct. 1068, 25 L.Ed. 2d 368 (1970).
+
+      34
+      
+The majority attempts to avoid the obvious consequences of the Supreme Court's ruling in Apprendi by saying that this case is governed by Almendarez-Torres v. United States, 523 U.S. 224, 118 S.Ct. 1219, 140 L.Ed. 2d 350 (1998). This approach fails to consider the Apprendi Court's severe limitation of Almendarez-Torres. Apprendi, 120 S.Ct. at 2361 ("[Almendarez-Torres] represents at best an exceptional departure from the historic practice that we have described"). The majority restricts its analysis of the Apprendi's relationship with Almendarez-Torresto a cryptic "Almendarez-Torres remains the law." While this is technically true,1 the issue is not quite so easily dismissed. In Apprendi, the Court held that "any fact that increases the penalty for a crime beyond the prescribed statutory minimum must be submitted to a jury, and proved beyond a reasonable doubt." 120 S.Ct. at 2362-63. In addition, the Court specifically adopted the language of the two concurring opinions in Jones v. United States, 526 U.S. 227, 119 S.Ct. 1215, 143 L.Ed. 2d 311 (1999). Apprendi, 120 S.Ct. at 2363 ("we endorse the statement of the rule set forth in the concurring opinions in [Jones]"). Those concurrences stated that "assessment of facts that increase the prescribed range of penalties to which a criminal defendant is exposed . . . must be established by proof beyond a reasonable doubt . . . [t]o permit anything less is . . . impermissible under the Due Process Clause," Jones, 526 U.S. at 253 (Stevens, J., concurring) (internal citations and quotation marks omitted). See also Jones, 526 U.S. at 253 (Scalia, J., concurring) ("it is unconstitutional to remove from the jury the assessment of facts that alter the congressionally prescribed range of penalties to which the defendant is exposed"). Most significantly, in declining to overrule Almendarez-Torres, the Apprendi Court noted Almendarez-Torres's "unique facts" and clearly stated that it was limited to situations where the government need only show "the fact of a prior conviction," as is the case under 8 U.S.C. §1326(b)(2), the statute at issue in Almendarez-Torres (which requires only that the defendant have committed an "aggravated felony" to justify a higher sentence), Apprendi, 120 S.Ct at 2362.
+
+      35
+      
+Under 18 U.S.C. §3559(c)(3)(A), however, in order to justify imprisonment for life, the defendant must have previously committed felonies that did not involve use (or threat of use) of a firearm or other dangerous weapon and did not result in death or serious bodily injury to any person. As is shown by Gatewood's own situation, proving the facts necessary for life imprisonment under §3559 requires significantly more effort than merely proving the existence of a previous conviction -- the circumstance to which Almendarez-Torres was limited by the Court. The reasons for that limitation are well demonstrated by Gatewood's appeal where the government cannot prove that Gatewood's prior convictions are not "[n]onqualifying felonies" as set forth in 18 U.S.C. §3559(c)(3)(A). No one has shown that the defendant was willing to injure seriously anyone in the past by either actually injuring them during the course of the crime or carrying a weapon which may indicate a willingness to do so. It is only because the heavy evidentiary burden is placed on the defendant, and not the government, that Gatewood received such a severe penalty. Apprendi dictates that because the facts underlying the life sentence require proof beyond the simple fact of a prior conviction, the issue of whether the felonies meet the statutory requirements must be put to a jury and proved beyond a reasonable doubt. Consequently, the burden of proof portion of §3559(c)(3)(A) violates due process.
+
+      36
+      
+Forcing the defendant to bear the clear and convincing evidence standard also violates the due process analysis set forth in Cooper. This court's majority opinion concedes that while a sentencing hearing need not contain trial-like constitutional protections, due process requires that "the sentencing proceedings be fundamentally fair." It is in the "fundamental fairness" analysis that Cooper is applicable to this case. Just as it is fundamentally unfair to require a defendant to stand trial when he has shown that it is more likely than not(i.e. by a preponderance of the evidence) that he is incompetent, Cooper, 517 U.S. at 366-67, it is also fundamentally unfair to sentence a defendant to life imprisonment when he has shown that it is more likely than not that his felonies do not meet the statutory threshold for such a severe penalty. Yet this is precisely the result that the majority approves, because a defendant who is "only" able to muster a preponderance of the evidence to show that his previous convictions are "nonqualifying felonies"will still warrant a life sentence.
+
+      37
+      
+The Supreme Court's opinion in Cooper is animated by its concern for the proper allocation of the risk of error when consequences for the defendant are dire. Cooper, 517 U.S. at 364-67. As I stated in my opinion in the original panel decision in this case, "[t]he risk of error incurred by the defendant [under 18 U.S.C. §3559] is no less than the risk concerned in Cooper, while the cost of such an error may be even greater." United States v. Gatewood, 184 F.3d 550, 554 (6th Cir. 1999). Because the risk and cost of error for defendants are at least as high in this context as in the competency determination, the concerns underlying the Supreme Court's decision in Cooper should inform our decision here. Essentially, this law forces certain defendants to show (by meeting an extremely exacting evidentiary threshold) why they should not be imprisoned for the rest of his life. That does not comport with the notions of fundamental fairness that underlie due process.
+
+      38
+      
+The clear and convincing evidence standard is intended to insure that important decisions are not entered into lightly, and that the government treads cautiously before infringing on the lives or liberties of its citizens. Cf. Cruzan v. Director, Mo. Dept. of Health, 497 U.S. 261, 110 S.Ct. 2841, 11 L.Ed. 2d 224 (1990) (upholding Missouri's requirement of clear and convincing evidence of an incompetent's wishes prior to the withdrawal of life-sustaining medical treatment). In this case, however, this important purpose has been turned on its head: a defendant must prove by clear and convincing evidence that he does not warrant the most severe deprivation of liberty short of death, while the government bears almost no burden at all. The burden of proof allocated under 18 U.S.C. §3559(c)(3)(A) thus clearly violates Cooper's  fundamental fairness analysis as well as Apprendi's guidance on how sentence enhancements beyond the statutory maximum should be adjudicated. These Supreme Court decisions signal that the Court will -- and should -- hold that the three-strikes statute creates facts that increase the penalty much beyond the statutory maximum. The government should have to prove those facts as elements of the crime, and it may not place the burden on the defendant to prove by "clear and convincing evidence" that the defendant did not commit such a crime. Under this theory, the government must prove that Gatewood committed a federal crime -- the crime charged in the indictment -- and that he committed two prior crimes either with a "firearm or other dangerous weapon" or caused "death or serious bodily injury." 18 U.S.C. § 3559(c)(3)(A). There is no proof anywhere in this record that Gatewood committed two prior felonies under these circumstances.
+
+      39
+      
+Accordingly, I dissent from the majority's decision in this case.
+
+Notes:
+
+        1
+        
+  The Supreme Court did not explicitly overrule Almendarez-Torres in Apprendi as the parties did not openly contest the decision's validity. Apprendi, 120 S.Ct at 2362. The Court repeatedly stressed the limited nature of the Almendarez-Torres exception, however. Id.
+
+CC∅ | Transformed by Public.Resource.Org
+

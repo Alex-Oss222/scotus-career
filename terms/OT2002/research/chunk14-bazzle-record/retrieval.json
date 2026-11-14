@@ -1,0 +1,47 @@
+{
+  "collection_search": "collection:us-supreme-court AND title:Bazzle",
+  "matches": 1,
+  "identifier": "micro_IA40385014_0614",
+  "files": [
+    {
+      "file": "micro_IA40385014_0614 02. Petition for Writ of Certiorari.pdf",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2002.%20Petition%20for%20Writ%20of%20Certiorari.pdf",
+      "bytes": 28183550
+    },
+    {
+      "file": "micro_IA40385014_0614 02. Petition for Writ of Certiorari_djvu.txt",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2002.%20Petition%20for%20Writ%20of%20Certiorari_djvu.txt",
+      "bytes": 269562
+    },
+    {
+      "file": "micro_IA40385014_0614 06. Joint Appendix.pdf",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2006.%20Joint%20Appendix.pdf",
+      "bytes": 7327189
+    },
+    {
+      "file": "micro_IA40385014_0614 06. Joint Appendix_djvu.txt",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2006.%20Joint%20Appendix_djvu.txt",
+      "bytes": 56965
+    },
+    {
+      "file": "micro_IA40385014_0614 07. Petitioners Brief.pdf",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2007.%20Petitioners%20Brief.pdf",
+      "bytes": 10029848
+    },
+    {
+      "file": "micro_IA40385014_0614 07. Petitioners Brief_djvu.txt",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2007.%20Petitioners%20Brief_djvu.txt",
+      "bytes": 108877
+    },
+    {
+      "file": "micro_IA40385014_0614 08. Respondents Brief.pdf",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2008.%20Respondents%20Brief.pdf",
+      "bytes": 9503943
+    },
+    {
+      "file": "micro_IA40385014_0614 08. Respondents Brief_djvu.txt",
+      "url": "https://archive.org/download/micro_IA40385014_0614/micro_IA40385014_0614%2008.%20Respondents%20Brief_djvu.txt",
+      "bytes": 115331
+    }
+  ]
+}

@@ -1,0 +1,2531 @@
+No. 02-722 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+AMERICAN INSURANCE ASSOCIATION, AMERICAN 
+Re-INSURANCE COMPANY, ET AL., 
+
+
+Petitioners, 
+
+
+v 
+
+
+JOHN GARAMENDI, IN HIS CAPACITY AS COMMISSIONER OF 
+INSURANCE FOR THE STATE OF CALIFORNIA, 
+
+
+Respondent. 
+
+
+On Wait or CERTIORARI TO THE 
+Unitep States Court oF APPEALS FOR THE Nintu Circuit 
+
+
+BRIEF FOR THE RESPONDENTS — GERLING 
+COMPANIES-IN SUPPORT OF PETITIONERS 
+
+
+Georce L. O’CONNELL FREDERICK W. REiF 
+Timotny P. GRitve Counsel of Record 
+Stevens & O’Connect LLP Dina G. DaskALAKIS 
+400 Capitol Mall KeiTH D. Barrack 
+Suite 1400 RIKER DanziG SCHERER 
+Sacramento, CA 95814 HyLAND & Perretri LLP 
+(916) 329-9111 500 Fifth Avenue 
+
+
+Suite 4920 
+New York, NY 10110 
+(212) 302-6574 
+
+
+Counsel for Gerling Companies 
+
+
+179235 
+
+
+IBEST AVAILABLE COPY 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+California’s Holocaust Victim Insurance Relief Act 
+(“HVIRA”’) requires California insurers to provide extensive 
+information regarding every insurance policy issued in 
+Europe between 1920 and 1945 by any insurer with which a 
+California insurer now has a legal relationship. The district 
+court enjoined enforcement of the HVIRA on three constitutional 
+grounds: interference with the federal government’s power 
+over foreign affairs, due process, and the Foreign Commerce 
+Clause. Over the objections of the U.S. government and 
+affected foreign governments, and in direct conflict with 
+Gerling Global Reinsurance Corp. v. Gallagher, 267 F.3d 
+1228 (11th Cir. 2001), the Ninth Circuit reversed and upheld 
+the HVIRA in all respects. 
+
+
+The questions presented are: 
+
+
+1. Whether the HVIRA, which the U.S. government 
+has called an “actual interference” with U.S. foreign 
+policy, and which affected foreign governments 
+have protested as inconsistent with international 
+
+
+agreements, violates the foreign affairs doctrine 
+of Zschernig v. Miller, 389 U.S. 429 (1968). 
+
+
+2. Whether the HVIRA, which attempts to 
+regulate insurance transactions that occurred 
+overseas between foreign parties more than half 
+a century ago, exceeds California’s legislative 
+jurisdiction under the Due Process Clause. 
+
+
+3. Whether the McCarran-Ferguson Act, 15 U.S.C. 
+§§ 1011-1015, insulates the HVIRA from review 
+under the Foreign Commerce Clause. 
+
+
+iti 
+
+
+LIST OF PARTIES AND CORPORATIONS 
+
+
+TABLE OF CONTENTS 
+
+The petitioners are: American Insurance Association, Page 
+American Re-Insurance Company, Winterthur International ; 
+America Insurance Company, Winterthur International Questions Presented ............:c cee ececeees i 
+America Underwriters Insurance Company, General Casualty , ; = 
+Company of Wisconsin, Regent Insurance Company, List of Parties and Corporations ................ ii 
+Southern Insurance Company, Unigard Indemnity Company, - 
+Unigard Insurance Sientonn _ Ridge Insurance ED ic nvtcaceceanvessensusecesss ill 
+Company, and Assicurazioni Generali S.p.A. In addition, - - 
+the respondents Gerling Global Reinsurance Corporation Table of Cited Authorities .............6.6.0005. Vii 
+of America, Gerling Global Reinsurance Corporation- — 
+U.S. Branch, Gerling Global Life Reinsurance Company, | Opinions DE concececeecccecccecscessoeses l 
+
+
+Gerling Global Life Insurance Company, Gerling America 
+
+Insurance Company, and Constitution Insurance Company | 
+(collectively, the “Gerling Companies”) were parties to the | ee - 
+proceedings below. The respondent, John Garamendi, is the Constitutional and Statutory Provisions Involved ... 2 
+Commissioner of Insurance for the State of California. 
+
+
+Jurisdiction .. 2... ee eee | 
+
+
+Cr 2: concent uahaeesvexesesssasuessens 2 
+The Rule 29.6 statement for each of the respondent Gerling aad : 
+Companies is set forth in their petition for a writ of certiorari A. California’s Regulation Of European 
+(Docket No. 02-733) at page iii. Pmompemes POMCISS ww. cece ccc cecccens 4 
+1. The Legislative History of the HVIRA 
+phd 6606006000 6600290000040608082 6 
+S SO, ceeuessecescucscecss: 7 
+b. AB 600 - The Knox Bill ........ ) 
+
+
+2. California’s Efforts to Directly 
+Investigate European Insurers ........ ll 
+
+
+iv 
+
+
+Contents 
+
+
+3. The Commissioner’s Efforts to 
+Investigate the German Affiliates of the 
+Gerling Companies ................ 
+
+
+B. The HVIRA’s Conflict With German 
+De sesudsanccssbnednndseeuneeeene 
+
+
+2. U.S. Foreign Policy Initiatives ....... 
+
+
+a. Post-War Treaties and Other 
+SEED Sadeccévcecesncesse 
+
+
+b. German Reparations Legislation . . 
+
+
+c. Additional International Agree- 
+EE Send eedcacevescueceeeesse 
+
+
+d. The German Foundation ........ 
+
+
+Summary of Argument .....................5. 
+
+
+I. The HVIRA Exceeds California’s Legislative 
+Jurisdiction Under The Due Process Clause 
+
+
+Page 
+
+
+Contents 
+
+
+A. AState Must Have “Minimum Contacts” 
+With A Regulated Subject In Order To 
+Exercise Legislative Jurisdiction. ..... 
+
+
+B. The Statutory Background And 
+Legislative History Confirm That The 
+HVIRA Regulates Foreign Insurers And 
+Foreign Transactions ............... 
+
+
+C. California Has No Nexus With The 
+Transactions Or Insurers It Seeks To 
+PP errrrrrT Tr Tr rire 
+
+
+Il. The HVIRA Violates The Commerce 
+ee eee 
+
+
+A. The HVIRA Constitutes Impermissible 
+Extraterritorial Regulation. .......... 
+
+
+B. The McCarran-Ferguson Act Does Not 
+i in sccceedudekeenst< 
+
+
+Ill. The HVIRA Violates The Foreign Affairs 
+Power Of The Federal Government. ...... 
+
+
+A. The Constitution Grants The Federal 
+Government Exclusive Authority To 
+Conduct The Nation’s Foreign Affairs. 
+
+
+Page 
+
+
+26 
+
+
+27 
+
+
+29 
+
+
+31 
+
+
+31 
+
+
+33 
+
+
+36 
+
+
+B. 
+
+
+Conclusion 
+
+
+vi 
+
+
+Contents 
+
+
+The HVIRA Has More Than An 
+Incidental Effect On Foreign Affairs. . . 
+
+
+The HVIRA Has Led to Minute Inquiries 
+Into the Administration of German Law. 
+
+
+The HVIRA Has a Direct Effect in 
+RE EE i EHS EE EM grey 
+
+
+The HVIRA Conflicts with U.S. Foreign 
+Policy and Has Great Potential for 
+Disruption and Embarrassment. ...... 
+
+
+ee | 
+
+
+Page 
+
+
+39 
+
+
+41 
+
+
+42 
+
+
+vil 
+
+
+TABLE OF CITEDAUTHORITIES 
+
+
+Page 
+
+Cases: 
+Adventure Communications, Inc. v. Kentucky 
+
+Registry of Election Fin., 
+
+Se Be OE GE BOSSE ciccccccedccavsce 26-27 
+Allstate Ins. Co. v. Hague, 
+
+SP ED Badendconescseosesei 27, 29, 30 
+Asahi Metal Indus. Co. v. Superior 
+
+Court of Cal., 
+
+SE PE cctvenwicocdesesceseses 26 
+Burger-Fischer v. Degussa AG, 
+
+65 F. Supp. 2d 248 (D.N.J. 1999) ..... 18, 20, 22, 23 
+Connecticut General Life Ins. Co. v. Johnson, 
+
+Pe Vd cecaveessesesesuccens 36 
+Deutsch v. Turner Corp., 
+
+317 F.3d 1005 (9 Cir. 2003) ............. 39, 43-44 
+Edgar v. MITE Corp., 
+
+EE cdi ndccigeusnduceeneans 31-32 
+Federal Trade Commission v. Travelers 
+
+Health Ass'n, 
+
+PCD 540000 Wndeeecendacedece 35 
+
+
+Frumkin v. JA Jones, Inc., 
+129 F. Supp. 2d 370 (D.N.J. 2001) ........... 18,19 
+
+
+vill 
+
+
+Cited Authorities 
+Page 
+Gerling Global Reinsurance Corp. of 
+America v. Gallagher, 
+267 F.3d 1228 (11th Cir. 2001) ............. passim 
+Gerling Global Reinsurance Corp. of 
+America v. Low, 
+Oe Cee FOO” Ge BED cect cccccocconces l 
+Gerling Global Reinsurance Corp. of 
+America v. Low, 
+186 F. Supp. 2d 1099 (E.D. Ca. 2001) ......... l 
+Gerling Global Reinsurance Corp. of 
+America v. Low, 
+BO Fee BN OO BOO occ cccccccvccvens | 
+Hanover Fire Ins. Co. v. Harding, 
+ee EEE CUkneenecceenccewedssss 36 
+Healy v. Beer Institute, 
+Sl ED cicnecudnsdesasenaaes sos 
+Hines v. Davidowitz, 
+Py es BP eres e caccdsecensecocsces 39 
+Holmes v. Jennison, 
+Be Us COS FUR) SEDI cn ccccccccccccese 38 
+Home Ins. Co. v. Dick, 
+ee Se OED cs cancdnscvcontainsewians 27 
+
+
+ix 
+Cited Authorities 
+Page 
+
+Iwanowa v. Ford Motor Co., 
+
+67 F. Supp. 2d 424 (D.N.J. 1999) ............ 18, 23 
+Maryland Cas. Co. v. Cushing, 
+
+SF Oe GID 0 60h cb ev bnceccecensese. 35 
+Quill Corp. v. North Dakota, 
+
+SPUR SENG be bc bc bdcccssevvenicess 27 
+St. Louis Cotton Compress Co. v. Arkansas, 
+
+DPE, DEGREE vccsvccecoesscdcunseces 36 
+SEC v. National Securities, Inc., 
+
+Be A OED ce ccccctccdecesevosoves 34-35 
+United States v. Curtiss-Wright Corp., 
+
+DPE MEE cvdoccucecécvasecseaces 38 
+United States v. Pink, 
+
+PPC PED occcveesesesecsevccents 39 
+United States v. South-Eastern 
+
+Underwriters Ass'n, 
+
+SE SPEED bcc cksccncrvccvccoorere 33, 36 
+Watson v. Employers Liability Assurance Corp., 
+
+DEER PEED cccevcreccsvcesecnevecees 27 
+Western & Southern Life Ins. Co. v. State 
+
+Bd. of Equalization, 
+
+Be CE GED cc cccccccccevcoscsceses 33, 34 
+
+
+Zschernig v. Miller, 
+SED UD. GED CIGGE) no cccccccccccsevces i, 39, 40, 41 
+
+
+x 
+Cited Authorities 
+Page 
+CONSTITUTIONALAND STATUTORY 
+PROVISIONS 
+
+ee Pre eee i, 2, 38 
+aps Cees, Baw. C8 GB. on. OB coc ccccncecvcccece 38 
+IER 8 SR eS ere ee 38 
+WS. Comer. Agm. 16 Gob. 12... ccc c cc cccccece 38 
+U.S. Const. Art.1§ 8, ct. 16 .......... 0.00 ce 38 
+wu. Comey. Ame. £6 OG. Gb. 8 ww. ccc cccccccaces 38 
+U.S. Covey. Amp. BG 16, 60.2 2... ccc ccccccccccs 38 
+U.S. Const. Arr. I § Pee 54466 50Ke uaa Ses 38 
+U.S. Const. art. II, § 2, cb. 1 2.0.0.0... eee eee 38 
+U.S. Covspy. amr. 1, § 2,00. 2 2... ccc ccccccccuce 38 
+ee LF 8 ene 38 
+ee I TE hin dndtencscndcccuceddse%as 38 
+U.S. Const. AMEND. XIV, § 1 ................. i, 2, 36 
+
+
+15 U.S.C. § 1011-1015 
+
+
+xi 
+
+
+Cited Authorities 
+
+Page 
+BS ULB. 6 OGES occa cccescccecevevncuseesss 33 
+1s UBC. 6 GRRREED . once cccccscccsccccsesens 17 
+PUBL. 6 UBS) onc cccvcccsccscccssvesaes 2 
+OORT, Oe oc é.nckconcsciscusasccacccevasess 22 
+fit ks & a arrrrriTi rrr T 19, 42 
+Can. Conn Cov. Pa. 6 SGGS occ ccsccccsescese: 5, 9, 28 
+Car. Ins. Cops § T9113 ..... cc ccccceececeees 17 
+Cac. Ins. Cope §§ 13800-13807 ..............4. passim 
+Can. bes. Come. § 13601... ccc ec ccecces: 28, 31, 39 
+Cac. Ins. Cope § 13801(d) .......-- 6... ee ee eee 42 
+Cat. Ins. Cope § 13801(e)-(f) .....-.- 6. ee eee 3 
+Cau. Ins. Cope § 13801(e) ......--... eee eee 4 
+Car. Ines. Cops § 13802 ... 2... cece cece ee eenes 5, 41 
+Cat. Ins. Cope § 13804 ... 2... cece cece eee eees 7, 28 
+Cat. Ins. Cope § 13804(a) ........-.- 6. eens passim 
+
+
+xi 
+
+
+Cited Authorities 
+
+Page 
+Cat. Ins. Cope § 13804(b) .................... 6 
+CAL. Ins. Cope § 13804(f)..................... 43 
+Cal. Ins. Code § 13806 ....................... 6 
+
+RULES 
+|) | 
+EEE Kes beunwaduvibsedlviecsdeeuen: 2 
+MISCELLANEOUS 
+
+U.S. Art. OF CONFEDERATION ................... 37 
+The Federalist Papers, No.1 ................... 37 
+The Federalist EE nee ee 37 
+Cong. Serv., 79th Cong., Ist Sess. 1945 ......... 33, 34 
+ok ae a eee rE 35 
+
+
+Agreement on Reparation from Germany, 
+Establishment of Inter-Allied Reparations Agency 
+
+
+and Restitution of Monetary Gold, Jan. 14, 1946 
+Se ME du euaecuenvodececcuseccl cl, 18 
+
+
+ast SRG RANR RNAS 
+
+
+xill : 
+Cited Authorities 
+
+Page 
+
+AB 1715, State Assembly 1997-98 Reg. Sess. 
+(Ca. Jan. 28, 1998) ........ cece cece eee eeee 7 
+
+AB 1715, State Assembly 1997-98 Reg. Sess. 
+(Ca. March 17, 1998) ........---eeeeeeeeee: 7,8,9 
+
+AB 600, State Assembly 1999-2000 Reg. Sess. 
+(Ca. Feb. 19, 1999) ......-. ee ee eeeeeees 4,9, 10, 29 
+
+
+Press Release, Office of the Governor-State of 
+California, Governor Davis Signs Bill Requiring 
+Holocaust Insurance Registry (October 10, 1999) 
+
+
+10 
+
+
+Press Release, Cal. Ins. Department, Insurance 
+Commissioner Quackenbush to Subpoena 
+Companies to December Hearings to Investigate 
+Efforts to Resolve Unpaid Holocaust-Era 
+Insurance Issues (Nov. 9, 1999) .............. 11-12 
+
+
+Rainer Amold, A Fundamental Rights Charter for 
+the European Union, 15 Tul. Eur. & Civ. L.F. 43 
+
+
+ois waabenelGaniniens 14 
+
+
+Robert J. Delahunty, Federalism Beyond the Water s 
+Edge, State Procurement Sanctions and Foreign 
+Affairs, 37 Stan. J. Int’! L. 1 ea 37 
+
+
+xiv 
+
+
+Cited Authorities 
+
+
+Marsha Cope Huie, et al., The Right to Privacy in 
+Personal Data: The EU Prods the U.S. and 
+
+
+Controversy Continues, 9 Tulsa J. Comp. & Int’! 
+L. 391 (2002) 
+
+
+Amanda Levin, California Acts Against Four Firms 
+Over Holocaust Claims, National Underwriter — 
+Life & Health, June 28, 1999 
+
+
+oeeweeoeeeeeeeeeeees 
+
+
+Peter J. Shapiro, Foreign Relations Federalism, 
+70 U. Colo. L. Rev. 1223 (1999) 
+
+
+e422 2952 0900 82 86 2 
+
+
+Page 
+
+
+14-15 
+
+
+] 
+
+
+OPINIONS BELOW 
+
+
+The district court’s initial opinion (per Shubb, D.J.) 
+entering a preliminary injunction (Pet. App. 85a-113a) was 
+not published. The court of appeals’ opinion (per Graber, 
+C.J.) rejecting the reasoning of the district court and 
+remanding (Pet. App. 34a-60a) is published at 240 F.3d 739 
+(9 Cir. 2001). The district court’s subsequent opinion 
+(per Shubb, D.J.) granting a permanent injunction (Pet. App. 
+61a-84a) was published at 186 F. Supp. 2d 1099 (E.D. Ca. 
+2001). The court of appeals’ subsequent opinion, as amended 
+(per Graber, C.J.), reversing the district court (Pet. App. 
+la-33a) is published at 296 F.3d 832 (9" Cir. 2002). The court 
+of appeals’ order denying rehearing and rehearing en banc is 
+not otherwise published. 
+
+
+JURISDICTION 
+
+
+The court of appeals entered its judgment on July 15, 
+2002, and issued its amended opinion and order denying 
+rehearing and rehearing en banc on September 9, 2002. 
+Pet. App. 3a-4a. The petition for a writ of certiorari (American 
+Ins. Ass'n v. Low, No. 02-722) was filed on November 7, 
+2002, and granted on January 10, 2003. The Gerling 
+Companies' were parties to the court of appeals’ opinions 
+which are now under review and filed a companion petition 
+for writ of certiorari on November 8, 2002 (Gerling Global 
+Reinsurance Corp. of America v. Low, No. 02-733).’ 
+
+
+1. Gerling Global Reinsurance Corp. of America, Gerling Global 
+Reinsurance Corp. — U.S. Branch, Gerling Global Life Reinsurance 
+Company, Gerling Global Life Insurance Company, Gerling America 
+Insurance Company and Constitution Insurance Company. 
+
+
+2. Pursuant to Sup. Cr. R. 12.6, the Gerling Companies, as 
+
+
+parties “to the proceeding in the judgment . . . sought to be reviewed,” 
+(Cont'd) 
+
+
+Ne ee 
+
+
+2 
+
+
+The Gerling Companies’ petition has not been ruled on. This 
+Court has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The relevant text of the Due Process Clause, the 
+Commerce Clause, the McCarran-Ferguson Act, 15 U.S.C. 
+§§ 1011-1015 and the Holocaust Victim Insurance Relief Act 
+(Cac. Ins. Cope §§ 13800-13807) are reprinted in the 
+appendix to the petition for a writ of certiorari at 114a-122a. 
+The provisions of the “Knox Bill” (1999) Cal. A.B. 600 are 
+reprinted in the Lodging filed with the Gerling Companies’ 
+petition for a writ of certiorari at L-136-L-141. 
+
+
+STATEMENT 
+
+
+This case arises out of a California insurance statute that 
+demands disclosure of every insurance policy in effect in 
+Europe during a 25 year period in the early part of the 
+Twentieth Century. The central issues presented here relate 
+to the limitations imposed by the U.S. Constitution on state 
+regulatory power. First, whether Due Process and Commerce 
+Clause considerations allow a state to mandate conduct by 
+entities with no jurisdictional nexus to the state regarding 
+transactions that occurred far beyond its borders. Second, 
+whether the California statute violates the foreign affairs 
+power exclusively entrusted to the federal government. 
+
+
+(Cont’d) 
+
+are “entitled to file documents in this Court” and are considered 
+respondents. The Gerling Companies support the Petitioners in this 
+action and file their brief in accordance with Petitioners’ briefing 
+schedule. See Sur. Cr. R. 25.1. 
+
+
+, 
+
+
+3 
+
+
+In 1999, the State of California enacted the Holocaust 
+Victim Insurance Relief Act, CAL. Ins. Cope §§ 13800-13807 
+(the “HVIRA”), which, in part, requires insurers to compile 
+and report detailed information in the possession of their 
+European affiliates relating to European insurance policies 
+for the purpose of aiding in the “resolution” of Holocaust- 
+era claims pursuant to California-imposed standards. 
+Cat. Ins. Cope § 13801(e)-(f). The HVIRA requires European 
+insurers to amass voluminous information, the disclosure of 
+which is prohibited by European law, and provide it to their 
+California affiliates, who in turn must provide it to the 
+California Insurance Commissioner (the “Commissioner’”) 
+for inclusion in a public registry. The HVIRA mandates 
+automatic license suspension of California insurers for their 
+inability to provide information in the hands of distant 
+European affiliates. 
+
+
+Adopting the Commissioner's unsupported, after the fact 
+recharacterization of the HVIRA as a “fitness” or “licensing” 
+statute of California insurers, the Ninth Circuit upheld the 
+constitutionality of the HVIRA. In doing so, the Ninth Circuit 
+ignored the district court’s findings that the Gerling 
+Companies lack possession, custody or control over the 
+European insurance records demanded. The Ninth Circuit 
+also ignored the conclusive determination of the Federal 
+Republic of Germany that its laws prohibit the wholesale 
+disclosure of private insurance information for public 
+dissemination as required by the HVIRA. 
+
+
+The Ninth Circuit brushed aside ithe Gerling Companies’ 
+objections to the impossible demands imposed on them by 
+the HVIRA with the suggestion that the “California insurer’s 
+employees could travel overseas to examine the documents 
+themselves.” Pet. App. 13a. Alternatively, the Ninth Circuit 
+
+
+4 
+
+
+suggested that California insurers simply disaffiliate 
+themselves from their European relatives so as to shed 
+themselves of any reporting requirements. Pet. App. 13a. 
+
+
+The HVIRA empowers the Commissioner to penalize 
+domestic insurers as a means of coercing foreign insurers to 
+bend to California’s will. As a representative for the 
+Commissioner has unequivocally stated, “Maybe the 
+[California] subsidiary has not been involved, but the 
+[European] parent company has, and the only way to send a 
+clear message to the parent company is to hit the arm of the 
+company that can be hurt.”’ The HVIRA’s attempted 
+expansion of the Commissioner’s powers far beyond the 
+borders of the state is simply incompatible with constitutional 
+limitations on state power. 
+
+
+A. California’s Regulation Of European Insurance 
+Policies 
+
+
+On October 8, 1999, California Governor Gray Davis signed 
+into law Assembly Bill No. 600, the “Knox Bill.” 
+Pet. App. 115a-122a. The Knox Bill represents California’s 
+attempt to use its leverage over local insurers to force European 
+insurers, over whom California has no jurisdiction, to produce 
+information concerning millions of European insurance policies. 
+See Cac. Ins. Cope § 13801(e). California undertook this mission 
+to achieve a clearly defined goal — to aid in “the rapid resolution” 
+of Holocaust-era insurance claims arising out of policies issued 
+in Europe. Pet. App. 119a 
+
+
+3. Amanda Levin, California Acis Against Four Firms Over 
+
+
+Holocaust Claims, National Underwriter — Life & Health, June 28, 
+1999. 
+
+
+5 
+
+
+To that end, the Knox Bill extended the statute of 
+limitations for claims arising under such European policies 
+until December 31, 2010, nullified forum selection provisions 
+contained in European policies, vested California state courts 
+with jurisdiction over related claims, and provided that 
+California-licensed companies could be held directly liable 
+for claims arising out of policies issued by “related” European 
+insurers. Pet. App. 115a-118a. The Knox Bill also purported 
+to modify the value of pre-1945 European policies by 
+eliminating the effects of post-war currency devaluation. 
+Pet. App. 120a. 
+
+
+The Knox Bill introduced an expansively worded 
+definition of the term “related company” to throw the 
+broadest possible net over the European insurance industry: 
+“any parent, subsidiary, reinsurer, successor in interest, 
+managing general agent, or affiliate company of the insurer.” 
+Pet. App. 120a. Cac. Ins. Cope § 13802. This definition is 
+not limited to companies within the same “corporate family,” 
+but extends to entities with little more than contractual or 
+other legal relationships with the California company. /d. 
+
+
+The reporting portion of the Knox Bill is known as the 
+HVIRA and was codified at Cac. Ins. Cope §§ 13800-13807. 
+The remaining portions of the Knox Bill were codified at 
+Ca. Cope or Civ. Pro. § 354.5. Pet. App. 117a-118a. The 
+HVIRA requires all California-licensed insurers to provide 
+the Commissioner with information regarding every 
+European insurance policy issued by it or a “related company” 
+in effect between 1920 and 1945. Cac. Ins. Cope § 13804(a). 
+The information required includes the number of such 
+European policies; the holder, beneficiary and current status 
+of those policies; and the city of origin, domicile or address 
+for each policy holder listed in the European policies. /d. 
+
+
+6 
+
+
+The HVIRA further requires the California insurer to certify 
+
+
+whether the European insurer has paid the policy proceeds. 
+Cav. Ins. Cope § 13804(b). 
+
+
+In the event that the California licensee fails to fully 
+comply with the HVIRA, “The commissioner shall suspend 
+the certificate of autho ‘ty to conduct insurance business in 
+the state .. .” Cac. Ins. Cope § 13806. This penalty is 
+mandatory. Neither lack of control over the information 
+sought nor disclosure prohibitions embodied in European 
+privacy laws is an acceptable defense. ER 1019-20, 1030, 
+3179.* Moreover, the HVIRA does not expressly provide 
+for an administrative hearing prior to license suspension. 
+Cac. Ins. Cope §§ 13800-13807. 
+
+
+1. The Legislative History of the HVIRA 
+
+
+The HVIRA’s legislative history amply demonstrates that 
+its sole purpose is to compel European insurers to pay 
+European insurance claims. ER 1204, 2695. Throughout its 
+two-year legislative history, the HVIRA’s supporters 
+repeatedly expressed the desire to force European insurers 
+to “be held accountable” and to “open their books.” ER 2492, 
+2664, 2671, 2676, 2687, 2695; see also ER 1204, 2425. 
+The legislative history highlights a fact which is evident from 
+the language of the statute itself: the HVIRA represents an 
+attempt to effect the conduct of, and thereby regulate, 
+European insurance companies. 
+
+
+4. “ER” indicates references to the Excerpt of Record in the 
+Ninth Circuit. “SER” indicates references to the Supplemental 
+Excerpt of Record. 
+
+
+a. AB 1715 
+
+
+The HVIRA was initially introduced by California 
+Assemblyman Wally Knox on January 28, 1998 as AB 1715. 
+ER 2429. The bill (1) required the Commissioner to establish 
+a central registry of European insurance information; 
+(2) demanded that insurers affiliated with companies that 
+issued policies in Europe between 1930 and 1945 disclose 
+records of their European affiliates; (3) imposed a $5,000 
+fine for non-compliance or a civil penalty not to exceed 
+$10,000; and (4) instructed the Commissioner to adopt rules 
+to implement the statute. See AB 1715, State Assembly, 1997- 
+98 Reg. Sess. (Ca. Jan. 28, 1998). 
+
+
+Within days of its introduction, the California Insurance 
+Department (the “Department”’) requested that Assemblyman 
+Knox include two modifications to AB 1715. ER 2490. 
+To maintain pressure on European insurers, the Department 
+specifically requested the inclusion of an urgency clause and 
+a provision authorizing it to suspend non-compliant 
+companies’ certificates of authority to conduct business in 
+the state. ER 2490. 
+
+
+The Department’s recommendations, as well as 
+other changes penalizing California companies, were 
+incorporated in the bill. See AB 1715, State Assembly, 1997- 
+98 Reg. Sess. (Ca. Mar. 17, 1998). When AB 1715 was 
+amended on March 17, 1998, it maintained its requirement 
+that the Commissicner establish and maintain a public 
+registry of European insurance information. See id. at 
+§ 13803. As amended, AB 1715 imposed upon California- 
+licensed insurers reporting obligations which were in all 
+material respects identical to those ultimately contained in 
+the HVIRA. See id. at § 13804; ER 2659-60; Pet. App. 120a- 
+121a. 
+
+
+RT ee Ce ee 
+
+
+8 
+
+
+The revised reporting provisions, the license suspension 
+mandate, and the legislative findings incorporated into AB 
+1715 further illuminated its purpose — to compel European 
+insurers to pay European insurance claims on California’s 
+terms. ER 2492, 2513. The bill also redefined how European 
+policy “proceeds” would be calculated. AB 1715, State 
+Assembly, 1997-98 Reg. Sess. (Ca. Mar. 17, 1998). 
+Assemblyman Knox stated that AB 1715 was intende ‘o 
+“provide assistance to Holocaust victims and their families 
+in collecting the proceeds of insurance policies in effect 
+during World War II, which some insurers have avoided 
+paying.” ER 2427. Assemblyman Knox repeatedly echoed 
+these sentiments in statements to the Senate Committee on 
+Insurance, the Senate, and the Assembly Committee on 
+Insurance. ER 2442, 2447-49, 2495, 2487-88. Further, the 
+official Assembly Republican Bill Analysis stated that the 
+bill’s purpose was to “provide assistance for Holocaust 
+Victims and their descendants in recovery of unpaid or 
+wrongfully paid claims.” ER 2412, 2415. All parties involved 
+acknowledged that the legislation was focused on insurance 
+
+
+claims arising under policies issued by European companies 
+to European residents. 
+
+
+During 1998, the Department repeatedly voiced its 
+unequivocal support for AB 1715. ER 2459-60, 2490. 
+The Department viewed the legislation “as an important 
+vehicle for empowering the CDI [California Department of 
+Insurance] to ensure full payment of claims to Holocaust 
+survivors and descendants.” ER 2459-60. This position is 
+
+
+a throughout AB 1715’s legislative history. ER 2427, 
+
+
+Nowhere in the extensive legislative history is there any 
+mention of a purpose other than compelling European 
+
+
+- =~ ae" 
+
+
+9 
+
+
+insurers to pay Holocaust-era insurance claims. 
+The legislative history is devoid of any suggestion that AB 
+1715 was deemed necessary to determine whether insurers 
+who were already licensed by the Department were, in fact, 
+fit to do business in the state. 
+
+
+AB 1715 was vetoed by Governor Pete Wilson on 
+September 28, 1998. ER 2693-96. Governor Wilson stated 
+that he “would prefer to see the time and resources of the 
+insurers spent in payment of claims by Holocaust victim 
+policy holders, survivors or heirs, than expended in compiling 
+a massive database that seems likely to produce far less 
+relevant and useful information.” Jd. 
+
+
+b. AB 600 — The Knox Bill 
+
+
+On February 19, 1999, following a change in 
+administrations, Assemblyman Knox reintroduced AB 1715 
+as AB 600 (the “Knox Bill”). ER 2597-606. The Knox Bill 
+was materially identical to the legislation vetoed by Governor 
+Wilson. ER 2663, 2670, 2675, 2680, 2682-686, 2699. Like 
+AB 1715, the Knox Bill introduced an amended California 
+Code of Civil Procedure Section 354.5 as wel! as the HVIRA 
+(CAL. Ins. Cove §§ 13800-13807). ER 2599-606, 1201-1205, 
+2439: see also AB 600, State Assembly, 1999-2000 Reg. Sess. 
+
+
+(Ca. Feb. 19, 1999). 
+
+
+The purpose behind AB 600 and the sentiments 
+supporting it mirrored those advanced in AB 1715’s 
+legislative history. Assemblyman Knox introduced “AB 600 
+in order to ensure that Holocaust victims or their heirs can 
+take direct action on their own behalf with regard to family- 
+owned insurance policies.” ER 2663, 2670, 2675, 2687, 2695. 
+The Department supported the Knox Bill because of its view 
+
+
+10 . 
+
+
+that European “insurance companies ... should be held 
+accountable, open their books and pay legitimate claims.” 
+ER 2664, 2671, 2676, 2687, 2695. 
+
+
+The Assembly Committee on Appropriations bill analysis 
+states that “[a]ccording to the author, European insurers 
+refused to pay claims to Holocaust survivors and their 
+families, or failed to follow up on claims they had reason to 
+believe were due. Some of these insurers have affiliates 
+operating in California.” ER 2667. Like its predecessor, the 
+Knox Bill represented a thinly veiled attempt to reach 
+European insurers who otherwise would not be subject to 
+California’s jurisdiction. 
+
+
+The legislative history of the Knox Bill is also devoid of 
+arty suggestion that “licensing” or “fitness” of California 
+insurers were considerations motivating its introduction. In 
+fact, the legislation (and resulting HVIRA) applied only to 
+insurers with existing California licenses —- companies which 
+the Department had presumably already found fit to do 
+business in the state. Cac. Ins. Cope § 13804(a). 
+
+
+Like the California Legislature-and the Department, 
+Governor Davis saw AB 600 as a vehicle to compel European 
+insurers to pay on Holocaust-era policies. Governor Davis 
+signed AB 600 into law on October 8, 1999. Two days later, 
+the Governor issued a press release announcing that he had 
+“signed legislation ... providing assistance to Holocaust 
+victims and their survivors in recovering just compensation 
+from Holocaust era insurance policies.” Press Release, Office 
+of the Governor-State of California, Governor Davis Signs 
+Bill Requiring Holocaust Insurance Registry (October 10, 
+1999) (on file with Author at L99:214), available at http:// 
+
+
+11 
+
+
+2. California’s Efforts to Directly Investigate 
+European Insurers 
+
+
+The HVIRA was the culmination of several years of 
+efforts by the Commissioner to directly investigate European 
+insurers. In February 1998, during testimony before the 
+United States House Banking and Financial Services 
+Committee, then Commissioner Chuck Quackenbush stated 
+that he was “deeply committed ... to resolving all 
+outstanding claims and holding all insurance companies that 
+sold policies to Holocaust victims in Europe . . . accountable 
+for their actions and their failure to act in good faith over the 
+last 50 years.” SER 608. Commissioner Quackenbush further 
+
+
+testified that: 
+
+
+[t]he challenge for American insurance regulators 
+now is to ensure that the records of the insurance 
+policies housed in archives throughout Europe — 
+in Italy, Germany, and Switzerland, France and 
+Austria in particular — are secured from tampering. 
+Ensuring the integrity of these records and 
+combing through them to identify which claims 
+have yet to be paid and identifying surviving 
+beneficiaries presents an enormous challenge that 
+we cannot fail to undertake. 
+
+
+SER 610. 
+
+
+In November of 1999, the Commissioner announced that 
+he planned to unveil an aggressive legislative package to put 
+additional pressure on European companies.’ He further 
+
+
+5. Press Release, Cal. Ins. Department, Insurance Commissioner 
+
+
+Quackenbush to Subpoena Companies to December Hearings to 
+(Cont’d) 
+
+
+12 
+
+
+stated that he “currently [had the] Department reviewing all 
+options to pursue regulations to affect econemic sanctions 
+on companies that continue to stand on the sidelines and fail 
+to enter into negotiations to resolve unpaid Holocaust-era 
+insurance policies.” Jd. 
+
+
+3. The Commissioner’s Efforts to Investigate the 
+German Affiliates of the Gerling Companies 
+
+
+The Gerling Companies are California-licensed insurers 
+and/or reinsurers based in the United States or Canada that, 
+with one exception, were formed years after the Second World 
+War. ER 642-670. None of the Gerling Companies ever issued 
+any insurance policy that was in force anywhere in Europe 
+between 1920 and 1945. ER 643, 648, 653, 658, 663, 668. 
+Similarly, none of the Gerling Companies are in possession, 
+custody or control of any records pertaining to insurance 
+policies that were in force in Europe at any time between 
+1920 and 1945. Jd. Pet. App. 65a. The Gerling Companies 
+are, however, indirectly related (within the meaning of the 
+HVIRA) to two German insurers that issued policies in 
+Europe between 1920 and 1945: Gerling-Konzern 
+Allgemeine Versicherungs-AG (“GKA”) and Gerling- 
+Konzern Lebensversicherungs-AG (“GKL”). ER 643, 648, 
+653, 658, 663, 668. As the district court found, GKA and 
+GKL are not subject to personal jurisdiction in California. 
+Pet. App. 65a. 
+
+
+___ In 1999, the Commissioner initiated efforts to directly 
+investigate the Gerling Companies’ German affiliates. 
+Towards that end, in May 1999, the Commissioner appointed 
+
+
+(Cont’d) 
+Investigate Efforts to Resolve Unpaid Holocaust-Era Insurance Issues 
+
+
+(Nov. 9, 1999), available at www.insurance.ca.gov/PRS/PRS1999/ 
+Pr171-99.htm. 
+
+
+13 
+
+
+Special Deputy Insurance Commissioner Kar] Rubinstein to 
+“investigate” the Gerling Companies with respect to 
+Holocaust-era claims. SER 684-685. Deputy Commissioner 
+Rubinstein immediately notified the German affiliates of his 
+appointment and of his “right” to “free access” to relevant 
+German insurance records. SER 687. 
+
+
+Deputy Commissioner Rubinstein then commenced an 
+investigation into the claims-paying practices of GKA and 
+GKL and issued written interrogatories to both entities and 
+their German parent. SER 1072-1089. Notwithstanding the 
+fact that none of these companies conduct any business in 
+California, he demanded specific information regarding 
+(1) the number of policies the German companies issued in 
+Europe during the period 1920-45; (2) which premises of 
+these companies were destroyed or damaged during the war; 
+(3) their European reinsurance agreements; and (4) what 
+actions these entities took to identify claimants and/or 
+beneficiaries for policies issued between 1920 and 1945. 
+Furthermore, the Department requested a list (with 
+accompanying records) of all records relative to policies 
+written in Europe between 1920 through 1945 and details 
+regarding the claims-paying practices of the German 
+companies.° SER 1072-1089. 
+
+
+In November 1999, respondent Gerling America 
+Insurance Company received a subpoena requiring it, along 
+with certain other insurers, to appear at a hearing before 
+the Commissioner in Los Angeles on December 1, 1999. 
+SER 268-269. During the hearing, the Department conceded 
+that it was not really interested in the subpoenaed entity and 
+requested direct access to the related German companies. 
+
+
+6. At that time, the Department also requested that the German 
+companies make available a representative for a telephone deposition. 
+This deposition took place shortly thereafter in 1999. 
+
+
+14 
+
+
+ER 1113-1115. In this regard, Leslie Tick, Senior Staff 
+Counsel for the Department, unequivocally stated that 
+
+
+“the Knox Bill goes clearly beyond the California licensed 
+company.” ER 1111. 
+
+
+B. The HVIRA’s Conflict With German Law 
+
+
+In various amicus filings in this litigation, the Federal 
+Republic of Germany has characterized the HVIRA as an 
+“affront” to its sovereignty. See Brief of the Federal Republic 
+of Germany, Amicus Curiae in Support of Petitioners (dated 
+December 12, 2002) at p. 2; ER 844. This view is premised 
+on a litany of complaints which Germany has made as 
+respects the ways in which the HVIRA interferes with the 
+operation of existing German law. In Germany’s view, the 
+HVIRA (1) interferes with Germany’s regulation of insurers 
+operating within its borders; (2) mandates that German 
+insurers violate German data protection laws; (3) attempts 
+to supplant 50 years of German reparations efforts with 
+respect to Holocaust-era claims; (4) conflicts with post-war 
+German currency reform; and (5) interferes with the operation 
+of various international agreements which Germany has 
+reached with a number of nations including the United States. 
+See, e.g., Brief for the Federal Republic of Germany, Amicus 
+Curiae in support of Petitioners (dated December 12, 2002); 
+ER 843-855, 1279-1289; SER 1243-1250, 1425-1432. 
+
+
+1. German Data Protection Laws 
+
+
+In the aftermath of World War II, the European 
+community recognized the importance of ensuring certain 
+fundamental rights, including a right to personal privacy.’ 
+
+7. See, e.g., Rainer Arnold, A Fundamental Rights Charter for 
+the European Union, 15 Tul. Eur. & Civ. L.F. 43,45 (2000-01); 
+
+
+Marsha Cope Huie, et al., The Right to Privacy in Personal Data: 
+(Cont’d) 
+
+
+Ss _ 
+
+
+15 
+
+
+In Germany, the right of “informational self-determination,” 
+i.e., the right to determine which data can be used by whom 
+and for what purpose and under what conditions, is embodied 
+in the German Constitution and is recognized as a 
+fundamental human right. ER 681. In accordance with the 
+German constitutional recognition of the fundamental right 
+to “informational self-determination,” German companies are 
+subject to the requirements of the German Data Protection 
+Act (Bundesdatenschutzgesetz (“BDSG”)). ER 682, 846. 
+The BDSG addresses and secures this fundamental right as 
+contained in the Constitution (Grundgesetz) of the Federal 
+Republic of Germany. ER 687. 
+
+
+In 2001, the BDSG was amended due to the introduction 
+of the European Data Protection Directive of 1995. The result 
+has been an increase in the protection of particularly sensitive 
+data, such as data concerning racial or ethnic origin, religious 
+or political beliefs, health, sexual habits or union 
+membership. ER 2859. The European Union Directive, which 
+controls the dissemination of personal information in Europe 
+(ER 1488-1542), is intended to respond to the need to 
+safeguard the fundamental rights of individuals. ER 2859. 
+
+
+Under the BDSG, decisions as to the use of personal data 
+must be made by the individuals to whom the data relate. 
+ER 681. The entities holding the personal data (in this case, 
+German insurers) may be subject to civil and criminal 
+penalties as a result of their unauthorized disclosure of such 
+data to third-parties. SER 1248. In a series of amicus curiae 
+briefs in this litigation, the Federal Republic of Germany 
+
+
+(Cont'd) 
+The EU Prods the U.S. and Controversy Continues, 9 Tulsa J. Comp. 
+& Int’l L. 391, 441, 442, 456-57 (2002). 
+
+
+16 
+
+
+has echoed that conclusion. See Brief for the Federal Republic 
+of Germany, Amicus Curiae in Support of Petitioners (dated 
+December 12, 2002) at pp. 4-5; ER 846; SER 1248; Brief 
+for the Federal Republic of Germany, Amicus Curiae 
+Supporting Affirmance of Summary Judgment (dated March 
+15, 2002) at p. 6; Brief for the Federal Republic of Germany, 
+Amicus Curiae in Support of Rehearing and Rehearing 
+en Banc (dated August 5, 2002) at pp. 9-10. The German 
+authorities charged with enforcement of the BDSG have 
+already concluded on two occasions that compliance 
+with the HVIRA would violate German law and would 
+
+
+subject German insurers to criminal and civil penalties. 
+ER 1182, 3131. 
+
+
+The aspects of the HVIRA that appear particularly 
+offensive from a German privacy law perspective are (1) the 
+requirement that German insurers disclose information 
+regarding a// their insureds (not limited to deceased 
+individuals or to Holocaust victims); and (2) the inclusion 
+of this information in a massive public registry in California. 
+See Cac. Ins. Cope §§ 13803, 13804(a). 
+
+
+On May 16, 2000, the District Government of Cologne, 
+Germany, concluded “that pursuant to § 28, paragraph 2, 
+No. 1b BDSG the transmission of data in the form of lists 
+pertaining to all policyholders from 1920-1945 ... is not 
+permissible.” ER 1182. Following the 2001 amendments to 
+the BDSG, the Ministry of the Interior of North Rhine- 
+Westphalia (Nordhein-Westfalen) also determined that 
+“there still appears to be no legal basis that permits the 
+transfer of all personal insurance data for the policies from 
+the period 1920-1945. The substantive requirements of 
+Section 28 BDSG for the transfer of data . . . continues to be 
+limited to [Holocaust victims].” ER 3131. The Federal 
+Republic of Germany has agreed with the foregoing opinions 
+
+
+17 
+
+
+and stated that “these are correct conclusions under German 
+law.” See Brief for the Federal Republic of Germany, Amicus 
+Curiae in Support of Petitioners (dated December 12, 2002) 
+
+
+at pp. 4-5. 
+
+
+Privacy laws such as the BDSG are commonplace in the 
+United States as well. In fact, California has similar privacy 
+requirements for insurance policies issued there. See Cat. 
+Ins. Cope § 791.13; see also 15 U.S.C. § 6802(a). 
+Nevertheless, the HVIRA demands that German companies 
+violate their own nation’s laws or have their distant California 
+affiliates stripped of their licenses. 
+
+
+2. U.S. Foreign Policy Initiatives 
+
+
+On July 17, 2000, the United States and Germany entered 
+into an Executive Agreement (the “Executive Agreement”) 
+creating the Foundation “Remembrance, Responsibility and 
+the Future” (the “Foundation”).* The Executive Agreement 
+has been described by former Deputy Secretary of Treasury 
+Stuart Eizenstat, the principal negotiator for the United States, 
+as “the last great compensation related negotiation arising 
+out of World War II.” The Executive Agreement recognizes 
+“that for the last 55 years the [United States and the Federal 
+Republic of Germany] have sought to work to address the 
+consequences of the National Socialist era and World 
+War II” and further recognizes that the “[Executive] 
+
+
+/ / 
+
+
+8. w 
+000717_agreement.html. See Pet. App. 153a-157a. 
+
+
+9. White House Press Briefing by Stuart Eizenstat on Nazi- 
+Era Forced and Slave Labor Agreement, U.S. Newswire, Dec. 
+15, 1999. See www.state.gov/www/policy remarks/1999/ 
+991215 eizenstat_slavelbr.html. SER 940-47. 
+
+
+18 
+
+
+Agreement and the establishment of the Foundation represent 
+a fulfillment of these [post-war] efforts.” Pet. App. 155a. 
+
+
+a. Post-War Treaties and Other Agreements 
+
+
+The 55 years of United States foreign policy efforts 
+referred to in the Executive Agreement date back to the 
+Potsdam Agreement which was entered into immediately 
+after the end of the war. “This agreement memorialized 
+the dual policy determinations of the Allied governments 
+that reparations should be extracted from Germany to 
+compensate victims to the greatest extent possible .. .” 
+Frumkin v. JA Jones, Inc., 129 F. Supp. 2d 370, 376 (D.N.J. 
+2001); see also Iwanowa v. Ford Motor Co., 67 F. Supp. 2d 
+424, 448 (D.N.J. 1999). Reparation claims were to be 
+satisfied in the “form of machines, other industrial equipment 
+and German external assets rather than in monetary 
+payments.” /wanowa, 67 F. Supp. 2d at 448; see also Burger- 
+Fischer v. Degussa AG, 65 F. Supp. 2d 248, 265 (D.N_J. 
+1999). 
+
+
+The United States and other allied nations met in Paris 
+in 1946 to develop a more detailed plan regarding the method 
+in which they would distribute reparations between those 
+nations as to which no decision had been reached at the 
+Potsdam Conference. Jwanowa, 67 F. Supp. 2d at 448-49. 
+Negotiations produced the Agreement on Reparation from 
+Germany, Establishment of Inter-Allied Reparation Agency 
+and Restitution of Monetary Gold, Jan. 14, 1946, 61 Stat. 
+3157, T.LA.S. 1655 (the “Paris Agreement”). The intent of 
+the Paris Agreement was “to obtain an equitable distribution 
+among [the signatories] of the total assets which . . . are or 
+may be declared available as reparation from Germany.” 
+Burger-Fischer, 65 F. Supp. 2d at 265. Ultimately it was 
+
+
+19 
+
+
+decided that “(t]he private industrial base of Germany would 
+be dismantled and proportionally distributed to the Allied 
+nations, in satisfaction of their claims, and the claims of their 
+nationals.” Frumkin, 129 F. Supp. 2d at 376. 
+
+
+The beginning of the Cold War caused the Western Allies, 
+including the United States, to “cease their dispersal of the 
+German industrial base, and balance the extraction of 
+reparations with the restoration of a healthy German 
+economy.” Frumkin, 129 F. Supp. 2d at 376. This was 
+reflected in the Convention on the Settlement of Matters 
+Arising out of the War and the Occupation, signed at Bonn 
+on May 26, 1952, as amended by Schedule 4 to the Protocol 
+on the Termination of the Occupation Regime, signed at Paris 
+on October 23, 1954, 332 U.H.T.S. 219 (the “Transition 
+Agreement”). 
+
+
+Under the Transition Agreement, responsibility to 
+compensate victims of Nazi oppression was shifted to the 
+Federal Republic of Germany. In this regard, Germany 
+assumed: 
+
+
+the obligation to implement fully and 
+expeditiously and by every means in its power, 
+the legislation referred to in Article I of [the 
+chapter entitled Internal Transition] and the 
+programs for restitution and reallocation 
+thereunder provided. The Federal Republic shall 
+entrust a Federal Agency with ensuring the 
+fulfillment of the obligation undertaken in this 
+Article, paying due regard to the provisions of the 
+Basic Law [the German Constitution], 
+
+
+20 
+
+
+Transition Agreement Ch. 2, Art. 2. Further, Germany 
+recognized its moral obligation to assure adequate 
+compensation to victims of the Nazi Regime. The Transition 
+Agreement provided as follows: 
+
+
+The Federal Republic acknowledges the 
+obligation to assure in accordance with the 
+provisions of paragraphs 2 and 3 of this Chapter 
+adequate compensation to persons persecuted for 
+their political convictions, race, faith or ideology, 
+who thereby have suffered damage to life, limb, 
+health, liberty, property, their possessions or 
+economic prospects (excluding identifiable 
+property subject to restitution). Furthermore, 
+persons persecuted by reason of human 
+nationality, in disregard of human rights, who are 
+now political refugees and no longer enjoy the 
+protection of their former home country shall 
+receive adequate compensation where permanent 
+injury has been inflicted on their health. 
+
+
+Transition Agreement, Ch. 4. Consistent with Germany’s 
+recognition of its moral obligation, the Transition Agreement 
+was intended to compensate Nazi victims through legislation 
+enacted in Germany and adjudicated by German courts as 
+well as through state-to-state agreements. Burger-Fischer, 
+65 F. Supp. 2d at 268. 
+
+
+b. German Reparations Legislation 
+
+
+Following the Transition Agreement, Germany enacted 
+a comprehensive compensation law entitled the 
+Bundesentschddigungsgesetz (“BEG”) (i.e., the Federal 
+Compensation Law) in 1953 to provide for che reimbursement 
+
+
+21 
+
+
+of assets which had been seized by the Nazis. SER 55. 
+This statute expressly provided compensation for loss of 
+insurance and other assets. Under the BEG and in accordance 
+with its treaty obligations with the United States, the Federal 
+Republic of Germany assumed the obligation to compensate 
+victims of Nazi oppression as the sole and exclusive remedy 
+for such claims. ER 847; see also SER 466-94, 1438. 
+
+
+German law precludes direct claims against German 
+insurers for insurance proceeds that were subject to Nazi 
+seizure. SER 466-94, 1438. In a 1953 decision, the Supreme 
+Court of the Federal Republic of Germany held that claims 
+for insurance proceeds appropriated by the Nazi government 
+could not be asserted against the insurers who issued the 
+policies. Instead, such claims must be asserted directly against 
+the Federal Republic of Germany, as legal successor to the 
+Nazi government. SER 464-94. According to the German 
+Supreme Court, “any claims in favor of the policy holder 
+that result from the unjust nature of the expropriation and 
+confiscation of the insurance claim are to be regulated under 
+the laws governing restitution and compensation to victims 
+of persecution by the National Socialist regime.” SER 465. 
+(Emphasis added). 
+
+
+The processing of compensation and reparations claims 
+has been ongoing virtually continuously since the enactment 
+of the BEG To date, the Federal Republic of Germany has 
+paid more than 100 billion Deutschmark (nearly $50 billion) 
+in compensation to victims of Nazi oppression. See Brief 
+for the Federal Republic of Germany, Amicus Curiae 
+in Support of Petitioners (dated Dec. 12, 2002) at p. 2. 
+This figure includes reimbursement of insurance assets seized 
+by the Nazis. 
+
+
+imi i i as 
+
+
+22 
+
+
+c. Additional International Agreements 
+
+
+During the nearly 60-year period since the end of the 
+Second World War, the United States, Germany and other 
+nations entered into various other agreements which address 
+the issue of Holocaust reparations. For example, on 
+September 10, 1952, Germany entered into the Luxembourg 
+Agreement with the State of Israel. This agreement was 
+intended to assist in the resettling of 500,000 destitute Jewish 
+refugees displaced from Germany and former German 
+controlled areas. Additionally, the United States, France, 
+Great Britain, other Allied nations and the Federal Republic 
+of Germany entered into the Agreement on German External 
+Debts, February 27, 1953, 4 U.S.T. 444. This Agreement was 
+intended to stabilize the German economy. 
+
+
+In the 1950s and 1960s, Germany entered into 12 treaties 
+with western European countries. Pursuant to those treaties, 
+Germany provided funds to those countries for distribution 
+to their nationals who had been victims of the Nazis. 
+Payments under these treaties amounted to DM 977 million. 
+Burger-Fischer, 65 F. Supp. 2d at 270. 
+
+
+Germany also entered into agreements: (1) for payment 
+of DM 200 million to the Jewish Claims Conference for the 
+benefit of Jewish victims still living in Eastern Europe; 
+(2) to enable the Red Cross to distribute DM 80 million for 
+victims of Nazi oppression living in southeastern European 
+countries; (3) to create a DM 1.6 billion fund for the benefit 
+of Jewish victims who had been unable to apply for 
+compensation because they were living in Eastern Europe 
+and emigrated to the West after the expiration of claim 
+deadlines; (4) in 1992 with the United States on the 
+Settlement of Certain Property Claims of United States 
+
+
+23 
+
+
+citizens arising out of confiscation of assets by Nazis and 
+Communist authorities within the Territory of former East 
+Germany; and (5) in 1996 a Second Supplemental Social 
+Security Agreement with the United States providing for 
+payment of German social security benefits to Jews from 
+Eastern Europe with a German cultural background who 
+settled in the United States after fleeing their Nazi occupied 
+homelands. Burger-Fischer, 65 F. Supp. 2d at 271. 
+
+
+In 1990, Germany, the United States, the United 
+Kingdom, France and the U.S.S.R. entered into the 
+“2+4 Treaty.” /wanowa, 67 F. Supp. 2d at 454. This treaty, 
+which unified West and East Germany, terminated the 
+occupying Allied powers’ rights and responsibilities over 
+Germany. /wanowa, 67 F. Supp. 2d at 454. “In accordance 
+with the Transition Agreement, this treaty, a peace treaty 
+between a unified Germany and its former adversaries, finally 
+settled the problems of reparations.” /wanowa, 67 F. Supp. 
+2d at 454 (citing Transition Agreement at Ch. 6, Art. 1). 
+“German courts have held that the signing of the Two- 
+Plus-Four Treaty constitutes the ‘final settlement of the 
+problem of [World War II] reparations’. . .” Jwanowa, 67 
+F. Supp. 2d at 455. 
+
+
+d. The German Foundation 
+
+
+The Executive Agreement entered into by the United 
+States and Germany on July 17, 2000, represented the 
+culmination of these reparation efforts. The Executive 
+Agreement is intended to provide a mechanism for “German 
+companies” (as defined in the Executive Agreement) “to 
+respond to the moral responsibility of German business 
+arising from the use of forced laborers and from damage to 
+property caused by persecution, and from all wrongs suffered 
+
+
+24 
+
+
+during the National Socialist era and World War II.” Pet. App. 
+153a. It reflects the principle that “German business .. . 
+should not be asked to contribute again [or twice] ... for 
+any wrongs as‘erted against German companies arising from 
+the National Socialist era and World War II.” Pet. App. 154a. 
+The Gerling Companies and their German affiliates are all 
+“German companies” as that term is defined in the Executive 
+Agreement. Lodg., infra, L-44. 
+
+
+On August 12, 2000, the German Bundestag established 
+the Foundation as a sovereign instrumentality of the Federal 
+Republic of Germany. ER 1382-84. The German government 
+and German companies have funded the Foundation in an 
+amount totaling DM 10 billion. SER 1427-28. 
+
+
+With respect to insurance claims, the Executive 
+Agreement is intended to secure a measure of compensation 
+to Holocaust victims at the earliest possible date in 
+accordance with the claims procedures established by the 
+International Commission on Holocaust-era Insurance Claims 
+(“ICHEIC”). SER 1451. ICHEIC was established in October 
+1998 to investigate and resolve Holocaust-era insurance 
+claims. The Commissioner is a founding member of ICHEIC. 
+On October 16, 2002, ICHEIC, the German Foundation 
+and the German Insurance Association reached an 
+agreement regarding claims handling procedures and the 
+publication of pertinent European insurance records (in a 
+
+
+manner satisfying the requirements of German data protection 
+laws). Lodg., infra, L-70-L-80. 
+
+
+SUMMARY OF ARGUMENT 
+
+
+In upholding the HVIRA, the Ninth Circuit has ignored 
+constitutional restrictions imposed upon states by the Due 
+
+
+—— 
+
+
+—~ ere a 
+
+
+25 
+
+
+Process Clause and Commerce Clause. The Ninth Circuit 
+has also paved the way for all 50 states to engage In their 
+own foreign policy initiatives in blatant disregard of the 
+efforts of the federal government. 
+
+
+The record in this matter is clear: the Gerling Companies 
+do not have possession, custody or control over the European 
+insurance information demanded by the HVIRA. Moreover, 
+the German affiliates of the Gerling Companies would face 
+civil and criminal penalties for disclosing this personal 
+insurance information. Notwithstanding their inability to 
+comply, the HVIRA mandates the suspension of the Gerling 
+Companies’ California licenses for their failure to produce 
+
+
+the information sought. 
+
+
+California’s regulation of foreign insurers and foreign 
+transactions through the HVIRA exceeds its legislative 
+jurisdiction under the Due Process Clause. On its face, the 
+HVIRA solely seeks information on transactions that occurred 
+outside the State of California at least 60 years ago — 
+transactions with which California has absolutely no nexus. 
+European companies are required to turn over this 
+information to California in violation of their own laws. 
+To force compliance by European companies, the HVIRA 
+directs the Commissioner to suspend the licenses of their 
+California affiliates irrespective of whether those California 
+insurers ever issued Holocaust-era polices. The nominally 
+regulated California companies merely serve as the conduit 
+for the Commissioner to investigate and regulate insurers 
+over which the State has no jurisdiction. 
+
+
+Similarly, the HVIRA violates Commerce Clause 
+restrictions because of its extraterritorial application and 
+effect. The HVIRA requires European insurers who are not 
+
+
+26 
+
+
+jurisdictionally present in the United States to take 
+affirmative acts in violation of their own laws. In its 
+application, the HVIRA requires nothing from the local 
+insurers (aside from the sacrifice of their California licenses). 
+In upholding the statute, the Ninth Circuit simply ignored 
+the HVIRA’s intent and “practical effect” to control condnct 
+far beyond the borders of the state. 
+
+
+Finally, the HVIRA ignores over half a century of foreign 
+policy initiatives between the United States and the Federal 
+Republic of Germany addressing reparations arising from the 
+Nazi era. The HVIRA conflicts with German data protection 
+laws and internal German reparations laws that were enacted 
+in accordance with international treaty obligations. As such, 
+the HVIRA impermissibly intrudes upon the federal 
+government’s foreign affairs power. 
+
+
+ARGUMENT 
+
+
+I. THE HVIRA EXCEEDS CALIFORNIA’S 
+LEGISLATIVE JURISDICTION UNDER THE DUE 
+PROCESS CLAUSE 
+
+
+A. A State Must Have “Minimum Contacts” With A 
+
+
+Regulated Subject In Order To Exercise Legislative 
+Jur'sdiction. 
+
+
+California’s regulation of foreign insurers and foreign 
+transactions through the HVIRA exceeds its legislative 
+jurisdiction under the Due Process Clause. See Asahi Metal 
+Indus. Co. v. Superior Court of Cal. 480 U.S. 102, 113 (1987). 
+Legislative jurisdiction refers to both “the lawmaking power 
+of a state” and “the power of a state to apply its laws to any 
+given set of facts.” Adventure Communications, Inc. v. 
+
+
+27 
+
+
+Kentucky Registry of Election Fin., 191 F.3d 429, 435 
+(4" Cir. 1999) (quoting McCluney v. Jos. Schlitz Brewing 
+Co., 649 F.2d 578, 581 n.3 (8" Cir.), aff'd, 454 U.S. 1071 
+(1981)). 
+
+
+The Due Process Clause requires that “there [is] at least 
+some minimal contact between a State and the regulated 
+subject before it can . . . exercise legislative jurisdiction.” 
+Gallagher, 267 F.3d at 1235 (quoting American Charities 
+for Reasonable Fundraising Regulation, Inc. v. Pinellas 
+County, 221 F.3d 1211, 1216 (11" Cir. 2000)); accord Home 
+Ins. Co. v. Dick, 281 U.S. 397, 407-08 (1930). The “minimum 
+contacts” or “substantial nexus” analysis “requires that we 
+ask whether an individual’s connection with a State are 
+substantial enough to legitimate the state’s exercise of power 
+over him.” Quill Corp. v. North Dakota, 504 U.S. 298, 312 
+(1992). The Court must also focus on the state’s interest in 
+the transaction it seeks to regulate. Jd. at 306; see also Allstate 
+Ins. Co. v. Hague, 449 U.S. 302, 310 (1981). Itis inconsistent 
+with requirements of due process for a state to “regulate and 
+control activities wholly beyond its boundaries.” Watson v. 
+Employers Liability Assurance Corp., 348 U.S. 66, 70 (1954). 
+
+
+B. The Statutory Background And Legislative History 
+Confirm That The HVIRA Regulates Foreign 
+Insurers And Foreign Transactions 
+
+
+From its introduction in 1998 as AB 1715, through its 
+enactment and initial enforcement in late 1999 and early 
+2000, the HVIRA had a single articulated purpose: to compel 
+European insurers to provide information concerning millions 
+of insurance policies sold in Europe to facilitate payment of 
+claims under California-imposed standards. While nominally 
+
+
+28 
+
+
+directed at California-licensed companies, the HVIRA 
+exclusively seeks information regarding European policies 
+sold by European insurers. Cac. Ins. Cope. §§ 13801, 13804. 
+Under the HVIRA, the California licensees simply act as the 
+Commissioner’s doorway to regulate insurance throughout 
+the world. 
+
+
+The intended extraterritorial reach of the HVIRA is 
+perhaps most clearly reflected in a March 8, 2000, letter 
+which the California State Treasurer wrote directly to a 
+number of European insurers, including a German affiliate 
+of the Gerling Companies, demanding their compliance with 
+the HVIRA. In this letter, California directly threatened the 
+German company with “protracted litigation” in the event 
+that it failed to comply with the HVIRA. SER 901-902. 
+
+
+It was only after the initiation of this action that the 
+Commissioner reinvented the HVIRA as a “fitness” or 
+“licensing” statute of California insurers. The language of 
+the statute does not support the Commissioner’s new 
+characterization. On its face, the HVIRA only compels 
+production of information regarding insurance policies sold 
+“to persons in Europe, which were in effect between 1920 
+and 1945.” Cac. Ins. Cope § 13804(a). The HVIRA does not 
+request any information concerning policies sold in the 
+United States, much less California. 
+
+
+Nor can the Commissioner find support for the position 
+that the HVIRA is a fitness statute in the Knox Bill or its 
+legislative history. The Knox Bill, in addition to enacting 
+the HVIRA, amended Cat. Cope Civ Pro 354.5, which 
+“authorize[d] those person(s] to bring legal action to recover 
+on a claim arising out of an insurance policy or policies 
+
+
+29 
+
+
+purchased or in effect in Europe before 1945 from a specified 
+insurer.” AB 600, State Assembly, 1999-2000 Reg. Sess. 
+(Ca. 1999). The Knox Bill’s author clearly articulated that 
+its target was Europe: “According to the author, European 
+insurers refused to pay claims to Holocaust survivors and 
+their families, or failed to follow up on claims they had reason 
+to believe were due. Some of these insurers have affiliates 
+operating in California.” ER 2667. Assemblyman Knox 
+introduced “AB 600 in order to ensure that Holocaust victims 
+or their heirs can take direct action on their own behalf with 
+regard to family-owned insurance policies.” ER 2663, 2670, 
+2675, 2687, 2695. 
+
+
+C. California Has No Nexus With The Transactions Or 
+Insurers It Seeks To Regulate. 
+
+
+Where a “State has only an insignificant contact with 
+the parties and the occurrence or transaction, application of 
+its law is unconstitutional.” Allstate Ins. Co., 449 U.S. at 
+310-11. Here, California has no identifiable contact with 
+either the parties or the transactions which are the target of 
+the HVIRA. Accordingly, the HVIRA does not comport with 
+the requirements of the Due Process Clause. 
+
+
+In Gerling v. Gallagher, 267 F.3d 1228 (11" Cir. 2001), 
+the Eleventh Circuit was faced with an identical record 
+relating to the Gerling Companies, their German affiliates, 
+and a materially identical Florida statute. California, just as 
+Florida, has no contacts with either the Gerling Companies’ 
+German affiliates or the transactions it seeks to investigate: 
+
+
+[the] German companies [are] based in Cologne; 
+they are not registered to do business in the state, 
+and there is no evidence that these German 
+
+
+30 
+
+
+insurers have any independent contacts with 
+Florida other than to the extent some current 
+Holocaust-era policyholders or their beneficiaries 
+may currently reside in the state. There is no record 
+evidence that the Plaintiffs have possession, 
+custody, or “control” — in the legal or practical 
+sense — over the records or activities of GKL or 
+GKA. 
+
+
+Gallagher, 267 F.3d at 1231. The fact that some small portion 
+of Holocaust survivors relocated to California after the 
+Second World War is not a sufficient predicate upon which 
+to base jurisdiction. This Court has held that “a postoccurence 
+change of residency to the forum state ~ standing alone — 
+was insufficient to justify application of forum law.” Allstate 
+Ins. Co., 449 U.S. at 311 (citing John Hancock Mutual Life 
+Ins. Co. v. Yates, 299 U.S. 179 (1936)). 
+
+
+The Florida Commissioner recognized that jurisdictional 
+flaw, and, on appeal attempted to recast the Florida Act as a 
+reporting or fitness statute. The Eleventh Circuit held the 
+statute unconstitutional because Florida had no nexus with 
+the subject matter or entities it sought to regulate: 
+
+
+The reporting provisions pertain to, and as a 
+practical matter unquestionably seek to regulate, 
+a subject matter — the German affiliates’ payment 
+or non-payment of Holocaust-era policy claims — 
+with no jurisdictionally significant relationship to 
+Florida . 
+
+
+Gallagher, 267 F.3d at 1238. 
+
+
+The Eleventh Circuit, in rejecting the argument that the 
+Florida Act was a fitness statute, refused to ignore the Florida 
+
+
+31 
+
+
+Legislature’s statement of purpose or the statute’s obvious 
+subject matter: 
+
+
+The express purpose of the Act reaches well 
+beyond determining the fitness and potential 
+financial liabilities of Florida insurers, indeed, it 
+has little or nothing to do with that subject. 
+We are unwilling to ignore the Florida 
+Legislature’s clear statutory statement of purpose 
+in favor of the Commissioner’s litigating position 
+(which the Legislature did not endorse . . .) 
+
+
+Id. at 1240. 
+
+
+Just as in Florida, California’s Legislature stated that the 
+HVIRA’s purnoses was to compel European insurance 
+companies to produce policy information to facilitate 
+payment of claims. Cat. Ins. Cope. § 13801. California 
+simply has no nexus with the European insurers or 
+transactions at issue. Accordingly, California lacks the 
+necessary legislative jurisdiction to act in this area. 
+
+
+Il. THE HVIRA VIOLATES THE COMMERCE 
+CLAUSE 
+
+
+A. The HVIRA Constitutes Impermissible Extra- 
+territorial Regulation. 
+
+
+The HVIRA violates Commerce Clause restrictions 
+because of its extraterritorial application and effect. 
+The Commerce Clause “precludes application of a state 
+statute to commerce that takes place wholly outside of the 
+State’s borders, irrespective of whether the commerce has 
+effects within the State.” Edgar v. MITE Corp., 457 U.S. 
+
+
+32 
+
+
+624, 642-43 (1982); Healy v. Beer Institute, 491 U.S. 324, 
+336-37 (1989). 
+
+
+This Court’s decisions concerning the extraterritorial 
+effects of state economic regulations “stand at a minimum” 
+for three propositions. Healy, 491 U.S. at 336. First, the 
+Commerce Clause precludes the application of a state statute 
+to commerce that takes place wholly outside of the state’s 
+borders, irrespective of whether there are effects within the 
+state. Jd. Second, a statute that controls commerce occurring 
+wholly outside the boundaries of a state exceeds the inherent 
+limits of the enacting state’s authority and is invalid 
+regardless of whether such extraterritorial reach was intended 
+by the legislature. /d. “The critical inquiry is whether the 
+practical effect of the regulation is to control conduct beyond 
+the boundaries of the State.” Jd. Third, the practical effect of 
+the statute must be evaluated by also considering how the 
+challenged statute may interact with the “legitimate 
+regulatory regimes of other States and what effect would arise 
+if not one, but many or every, State adopted similar 
+legislation.” Jd. “Generally speaking, the Commerce Clause 
+protects against the inconsistent legislation arising from the 
+projection of one state’s regulatory regime into the 
+jurisdiction of another.” Jd. 
+
+
+Under the principles enunciated by this Court in Healy, 
+the HVIRA is a classic example of impermissible 
+extraterritorial regulation. First, it seeks information solely 
+on transactions that occurred outside the State of California. 
+The information sought by the HVIRA exclusively involves 
+insurance transactions entered into in Europe between 
+European parties under European law. Second, the “practical 
+effec." of the HVIRA is to control conduct beyond 
+California’s borders. It requires European insurers to take 
+
+
+—_ I. rapt 
+
+
+33 
+
+
+affirmative acts in violation of their own laws (see Statement, 
+supra, at § B, 1). In fact, the Ninth Circuit acknowledged 
+the potential extraterritorial impact of the HVIRA. See Pet. 
+App. 44a (“HVIRA’s reporting requirements might force a 
+‘related’ company of a California business to search for 
+information ...”); see also Pet. App. 13a (“The California’s 
+insurer’s employees could travel overseas to examine the 
+documents themselves, or the California insurer could 
+disaffiliate and thus shed any reporting requirement”). 
+Finally, it directly interferes with the “legitimate regulatory 
+regime” of the Federal Republic of Germany. It requires 
+German insurers to disclose information on millions of 
+German insurance policies in violation of German law. 
+It effectively seeks to trump the regulatory authority of the 
+Federal Republic of Germany with respect to insurers 
+domiciled in that nation. The HVIRA is part of California 
+legislation which seeks to supplant German Holocaust 
+compensation laws that have been in effect for 50 years. 
+
+
+B. The McCarran-Ferguson Act Does Not Save The 
+HVIRA. 
+
+
+The McCarran-Ferguson Act, 15 U.S.C. §§ 1011-1015, 
+does not insulate the HVIRA from Commerce Clause 
+restrictions. In United States v. South-Eastern Underwriters 
+Ass'n, 322 U.S. 533 (1944), this Court held that insurance 
+was “commerce” within the meaning of the Commerce 
+Clause, and therefore, subject to federal regulation. See also 
+Cong. Serv. 79" Cong., 1* Sess. 1945, p. 671. Prior to that 
+decision, the power to regulate insurance transactions resided 
+with the states. See Western & Southern Life Ins. Co. v. State 
+Bd. of Equalization, 451 U.S. 648, 653-54 (1981). 
+In response, Congress enacted the McCarran-Ferguson Act. 
+
+
+34 
+
+
+The McCarran—Ferguson Act operates to ensure that the 
+power to regulate insurance remains with the states. However, 
+the legislative history of the McCarran-Ferguson Act provides 
+as follows: 
+
+
+It is not the intention of the Congress in the 
+enactment of this legislation, to clothe the States 
+with any power to regulate or tax the business of 
+insurance beyond that which they had been held 
+to possess prior to the decision of the United 
+States Supreme Court in the South-Eastern 
+Underwriters Association case. Briefly, your 
+committee is of the opinion that we should provide 
+for continued regulation and taxation of insurance 
+by the States, subject always, however, to the 
+limitations set out in the controlling decisions of 
+the United States Supreme Court, as, for instance, 
+in Allgeyer v. Louisiana (165 U.S. 578), St. Louis 
+Cotton Compress Co. v. Arkansas (260 U.S. 346), 
+and Connecticut General Insurance Co. v. 
+Johnson (303 U.S. 77), which hold, inter alia, that 
+a State does not have power to tax contracts of 
+insurance or reinsurance entered into outside its 
+jurisdiction by individuals or corporations resident 
+or domiciled therein covering risks within the 
+States or to regulate such transactions in any way. 
+
+
+Cong. Serv. 79" Cong., 1* Sess. 1945, pp. 671-672 (emphasis 
+added). 
+
+
+“Congress explicitly intended the McCarran-Ferguson 
+Act to restore state taxing and regulatory powers over the 
+insurance business to their pre-Southeastern Underwriters 
+scope.” Western & Southern Life Ins. Co. v. State Bd. of 
+Equalization of Cal., 451 U.S. 648, 654 (1981); SEC v. 
+
+
+ooo 
+
+
+35 
+
+
+National Securities, Inc., 393 U.S. 453, 459 (1968); 
+Maryland Cas. Co. v. Cushing, 347 U.S. 409, 411 (1953); 
+Federal Trade Commission v. Travelers Health Ass'n, 362 
+U.S. 293, 300 (1960) (“it is clear that Congress viewed state 
+regulation of insurance solely in terms of regulation by the 
+law of the State where occurred the activity sought to be 
+regulated. There was no indication of any thought that a State 
+could regulate activities carried on beyond its own borders.”’). 
+
+
+During testimony before the Senate, proponents of the 
+McCarran-Ferguson Act repeatedly emphasized it did not 
+authorize state regulation of extraterritorial activities. 
+See Travelers, 362 U.S. at 301 (citing 91 Cong. Rec. 1481, 
+1483, 1484).'° For instance, Senator Ferguson specifically 
+stated that a state was not permitted to regulate interstate 
+commerce under the McCarran-Ferguson Act as proposed. 
+Another proponent of the bill testified as follows: 
+
+
+Mr. President, there is not a line or sentence in 
+the proposed [McCarran-Ferguson] act, as I have 
+read it, which would delegate to any State the 
+power to legislate in the field of interstate and 
+foreign commerce. State regulation must be for 
+the State and not for the United States. The bill 
+does not sacrifice the power of Congress to 
+regulate in the field of interstate commerce. .. . 
+
+
+91 Cong. Rec. at 1483. 
+
+
+10. Proponents of the McCarran-Ferguson Act further argued 
+that the states were in “close proximity” to the people affected by 
+
+
+the insurance business, and therefore, in a better position to regulate 
+that business than the Federal Government. See Travelers, 362 U.S. 
+at 302 (citing 91 Cong. Rec. 1087; 90 Cong. Rec. 6532). This purpose 
+could not be served if states were permitted to enact regulations of 
+an extraterritorial nature as they could be affecting people in other 
+states which have their own insurance regulators to protect their 
+interests. Jd. 
+
+
+36 
+
+
+Prior to South-Eastern Underwriters, this Court had 
+recognized the inherent limitations upon a state’s power to 
+act extraterritorially. In Connecticut General Life Ins. Co. v. 
+Johnson, 303 U.S. 77 (1938), the Court ruled that the 
+Fourteenth Amendment denies the state “power to tax or 
+regulate [a] corporation’s property and activities elsewhere.” 
+Connecticut General Life, 303 U.S. at 81. Similarly, in 
+St. Louis Cotton Compress Co. v. Arkansas, 260 U.S. 346 
+(1922), this Court stated that “[i]t is true that the State may 
+regulate the activities of foreign corporations within the State, 
+but it cannot regulate or interfere with what they do outside.” 
+St. Louis Cotton Compress, 260 U.S. at 349; see also 
+Connecticut General Life Ins. Co. v. Johnson, 303 U.S. 77, 
+80-81 (1938) (“Hence it is that a state which controls the 
+property «nd activities within its boundaries of a foreign 
+corperation admitted to do business there may tax them. But 
+the due process clause denies to the state power to tax or 
+regulate the corporation’s property and activities 
+elsewhere.”); Hanover Fire Ins. Co. v. Harding, 272 U.S. 
+494 (1926) (voiding tax, imposed as condition of doing 
+business in state, on receipts of foreign operations of insurer). 
+
+
+As is demonstrated by its legislative history, the 
+McCarran-Ferguson Act does not shield the HVIRA from 
+Commerce Clause scrutiny. 
+
+
+Ill. THE HVIRA VIOLATES THE FOREIGN AFFAIRS 
+POWER OF THE FEDERAL GOVERNMENT 
+
+
+A. The Constitution Grants The Federal Government 
+Exclusive Authority To Conduct The Nation’s Foreign 
+Affairs. 
+
+
+Since this nation’s earliest days, the federal government 
+has been vested with the exclusive authority to conduct 
+
+
+37 
+
+
+foreign affairs.’ This fact is reflected in the discussions 
+relating to the formation of our Constitution. James Madison 
+proposed that the Constitution should include a class of 
+powers which would regulate the nation’s foreign affairs, 
+which he deemed “an obvious and essential branch of the 
+federal administration”: 
+
+
+The second class of puwers, lodged in the general 
+government, consists of those which regulate the 
+intercourse with foreign nations, to wit, to make 
+treaties; to send and receive ambassadors, other 
+public ministers, and consuls; to define and punish 
+piracies and felonies committed on the high seas, 
+and offenses against the law of nations; to regulate 
+foreign commerce .. . 
+
+
+James Madison, The Federalist Papers, No. 42. Madison 
+reasoned, “[i]f we are to be one nation in any respect, it clearly 
+ought to be in respect to other nations.” /d. 
+
+
+11. The Articles of Confederation gave Congress the “sole and 
+exclusive right and power of” determining peace and war, sending 
+and receiving ambassadors, entering into treaties and alliances, and 
+appointing courts for the trial of piracies and felonies committed on 
+the high seas. U.S. Art. or CONFEDERATION, ArT. IX. The individual 
+states were not to engage in such activities “without the consent of 
+the United States in Congress.” U.S. Art. or CONFEDERATION, ART. VI. 
+However, the Articles of Confederations proved “inefficient.” 
+Alexander Hamilton, Federalist Paper No. 1. The then-existing federal 
+government’s major failing “arose over the inability of Congress to 
+frame and implement satisfactory foreign policies.” Robert J. 
+Delahunty, Federalism Beyond the + ater's Edge, State Procurement 
+Sanctions and Foreign Affairs, 37 Stan. J. Int’! L. 1, 14 (2001) 
+(quoting Jack N. Rakove, Original Meanings: Politics and Ideas in 
+the Making of the Constitution, 26 (1997)). 
+
+
+38 
+
+
+At the time the Constitution was ratified, the federal 
+government occupied the foreign relations field. The 
+Constitution gives Congress the power to raise armed forces 
+and used them in war, see U.S. Const. art. I § 8, cis. 11, 12, 
+16; to undertake treaties with other ::2\!ons to have the status 
+of the supreme law of the land, see id. art. I, § 2, cL. 2, 
+see id. at art. VI; to send and receive ambassadors, 
+see id. ART. II, § 3; id. arr. II, § 2, cL. 1; to define offenses 
+against the law of nations, see id. art. I, § 8, cL. 10; and to 
+regulate foreign commerce, see id. art. I, § 8, cL. 3. Peter J. 
+
+
+Shapiro, Foreign Relations Federalism, 70 U. Colo. L. Rev. 
+1223, 1228, n.21 (1999). 
+
+
+. The Constitution also provides the Executive Branch 
+with the power to speak for the nation in the arena of foreign 
+affairs. The President is vested with the power to make 
+treaties, to nominate and appoint ambassadors, and to receive 
+foreign ambassadors. U.S. Const. art. II, 2, cL. 2. Moreover 
+the President has the exclusive authority to negotiate 
+
+
+international agreements. See United States v. Curtiss- Wright 
+Corp., 299 U.S. 304 (1936). 
+
+
+The Constitution’s framers, in granting the federal 
+government those enumerated powers and denying the 
+States the power to act in the international arena (U.S. Const. 
+ART. I, § 10, cis. 1, 2, 3), evidenced an intent to vest exclusive 
+authority over foreign affairs with the federal government. 
+“Indeed, the whole frame of the Constitution supports 
+this construction. All the powers which relate to our 
+foreign discourse are confided to the general government.” 
+Holmes v. Jennison, 39 U.S. (14 Pet.) 540, 570 ( 1845) (C.J. 
+
+
+Taney, plurality); see also Shapiro, Foreign Relations 
+Federalism, supra, at 1229. 
+
+
+- _ 
+
+
+39 
+
+
+This Court has repeatedly re-affirmed the federal 
+government’s exclusivity in the foreign affairs arena. 
+See Hines v. Davidowitz, 312 U.S. 52, 63 (1941) (“Our system 
+of government . . . requires that federal power in the field 
+affecting foreign relations be left entirely free from local 
+interference.”); United States v. Pink, 315 U.S. 203, 
+233 (1942) (“Power over external affairs is not shared by 
+the States; it is vested in the national government 
+exclusively.”); Zschernig v. Miller, 389 U.S. 429, 436 (1968) 
+(“The Constitution entrusts [the nation’s foreign affairs and 
+international relations] solely to the Federal Government.”); 
+see also Deutsch v. Turner Corp., 317 F.3d 1005, 1020 
+(9" Cir. 2003). 
+
+
+B. The HVIRA Has More Than An Incidental Effect On 
+Foreign Affairs. 
+
+
+The HVIRA represents California’s attempt “to settle 
+unpaid or wrongfully paid” Holocaust-era claims. CAL. INs. 
+Cope § 13801. It constitutes an attempt by California to 
+interject itself into an issue which has been the subject of 
+U.S. foreign policy since the end of the Second World War. 
+From the 1945 Potsdam Agreement to the 2000 Executive 
+Agreement, the United States has engaged in an ongoing 
+foreign policy process seeking compensation for Holocaust 
+victims. See supra, pp. 18-20. 
+
+
+In Zschernig, the Court struck down an Oregon probate 
+law which allowed a foreign citizen to inherit from a 
+decedent’s estate if United States citizens could inherit from 
+a decedent’s estate in the foreign citizen’s country. 389 U.S. 
+at 431. The Court held that the Oregon statute constituted an 
+impermissible intrusion by the state into the field of foreign 
+affairs, stating that “[t]he statute as construed seems to make 
+
+
+40 
+
+
+unavoidable judicial criticism of nations established on a 
+more authoritarian basis than our own.” /d. at 440. The Court 
+
+
+further held that a state statute is unconstitutional if it 
+has “more than ‘some incidental or indirect effect in 
+foreign countries’” or “great potential for disruption or 
+
+
+embarrassment” of American foreign policy. Jd. at 434-35 
+[internal citation omitted]. 
+
+
+The Court reasoned the statute: 
+
+
+. . . led into minute inquiries concerning the actual 
+administration of foreign law, into the credibility 
+of foreign diplomatic statements, and into 
+speculation whether the fact that some received 
+delivery of funds should ‘not preclude 
+wonderment as to how many may been denied ‘the 
+right to receive’ * * *.’ [citation omitted] 
+
+
+That kind of state involvement in foreign affairs 
+and international relations — matters which the 
+Constitution entrusts solely to the Federal 
+Government — is not sanctioned ... . 
+
+
+Id. at 435-36. 
+
+
+1. The HVIRA Has Led to Minute Inquiries Into the 
+Administration of German Law. 
+
+
+Like the statute at issue in Zschernig, the HVIRA has 
+“led into minute inquires concerning the actual administration 
+of foreign law, [and] into the credibility of foreign diplomatic 
+statements.” Zschernig v. Miller, 389 U.S. at 435-36. In this 
+regard, the HVIRA requires the production of voluminous 
+amounts of personal information regarding German insurance 
+
+
+41 
+
+
+policies in contravention to German data protection laws. 
+ER 1182, 3131. The Federal Republic of Germany, and 
+German authorities charged with the enforcement of those 
+laws, have determined that compliance with the HVIRA 
+would subject German companies to civil and criminal 
+penalties. See Brief of the Federal Republic of Germany, 
+Amicus Curiae in Support of Petitioners (dated December 
+12, 2002) at pp. 4-5. In response, the Commissioner has 
+retained his own German data protection “experts” to 
+challenge the official pronouncements of the German 
+Government. ER 1921. While defending the HVIRA as 
+“regulation of California insurers,” the Commissioner 
+nevertheless suggests, that he has a better understanding of 
+German law than do the German authorities charged with 
+the administration of that law. The Commissioner’s criticism 
+of the “actual administration” of German law demonstrates 
+the incompatibility of the HVIRA with the principles 
+articulated in Zschernig. 
+
+
+Various other features of the HVIRA reflect hostility to 
+the operation of German law. Examples include the HVIRA’s 
+definition of the term “proceeds” which effectively “legislates 
+away” post-war German currency reform. Cat. Ins. CopDE 
+§ 13802. In addition, in its application, the HVIRA attempts 
+to supplant 50 years of Holocaust reparations legislation in 
+Germany. In sum, the HVIRA conflicts with or criticizes 
+German law and is viewed by that nation as an “affront” to 
+its sovereignty. See Brief of the Federal Republic of Germany, 
+Amicus Curiae in support of Petitioners (December 12, 2002), 
+at p. 2; ER 844. 
+
+
+2. The HVIRA Has a Direct Effect in Germany. 
+
+
+The HVIRA requires direct conduct in Germany and 
+other European countries. The HVIRA compels insurers to 
+
+
+42 
+
+
+“come forth with any information they possess that could 
+show proof of insurance policies held by Holocaust victims 
+and survivors.” Cac. Ins. Cope § 13801(d). It exclusively 
+seeks information regarding “insurance policies in force in 
+Europe at any time between 1920 and 1945.” Cat. Ins. CopE 
+§ 13804(a). Under the HVIRA, the nominally regulated 
+California companies merely serve as a conduit for European 
+insurance information. 
+
+
+The HVIRA’s requirements can only be fulfilled if 
+companies located in Germany and other European nations 
+assemble and produce the information demanded. 
+As demonstrated above, such companies face civil 
+and criminal penalties if they disclose this information. 
+The HVIRA has clear and direct effects in Germany and 
+elsewhere in Europe. 
+
+
+3. The HVIRA Conflicts with U.S. Foreign Policy 
+and Has Great Potential for Disruption and 
+Embarrassment. | 
+
+
+“For the last 55 years, the United States has sought to 
+work with Germany to address the consequences of the 
+National Socialist era and World War II through political and 
+governmental acts between the United States and Germany.” 
+Pet. App. 166a. Those political and governmental acts have 
+resulted in several treaties, including the Transition 
+Agreement. See 332 U.H.T.S. 219. Under the Transition 
+Agreement, the Federal Republic of Germany accepted 
+the responsibility to compensate victims of Nazi oppression. 
+Id. at Ch. 4. In fulfillment of that responsibility, Germany 
+has provided, “in an unprecedented manner, comprehensive 
+and extensive restitution and compensation to victims of 
+National Socialist persecution.” Pet. App. 155a. Those 
+
+
+43 
+
+
+reparations efforts have been ongoing for over 55 years 
+and now total over $100 billion in payments to the 
+victims of World War II. Brief of the Federal Republic of 
+Germany, Amicus Curiae in Support of Petitioners (dated 
+December 12, 2002) at p. 6. 
+
+
+Most recently, the United States entered into the 
+Executive Agreement with Germany announcing its support 
+for the Foundation. Pet. App. 153a-157a; see also supra, 
+at pp. 17, 23-24. “The Foundation is a fulfillment of a half- 
+century effort to complete the task of bringing justice to 
+victims of the Holocaust and victims of National Socialist 
+persecution.” Pet. App. 166a. The Executive Agreement’s 
+support of the Foundation is the United States’ attempt to 
+ensure an “enduring legal peace” for German companies, 
+which includes the Gerling Companies. Pet. App. 153a. The 
+HVIRA threatens to impair the United States’ long standing 
+efforts. 
+
+
+The HVIRA represents California’s attempt to impair the 
+effective exercise of the federal government’s exclusive 
+control over foreign affairs. California claims that the HVIRA 
+“is necessary to protect the claims ~.1d interests of California 
+residents, as well encourage the development of a resolution 
+to these issues ... through direct action by the State of 
+California.” Cac. Ins. Cope § 13804(f). California has 
+declared that the international mechanisms put in place by 
+Germany and by the other European countries, in accordance 
+with agreements with the United States, are not sufficient. 
+As the Ninth Circuit itself has recognized in striking another 
+Holocaust statute on foreign affairs grounds: “California has 
+sought to create its own resolution to a major issue arising 
+our of the war — a remedy for wartime acts that California’s 
+legislature believed had never been fairly resolved.” Deutsch 
+
+
+v. Turner Corp., 317 F.3d at 1023. The HVIRA constitutes 
+an impermissible intrusion into the federal government’s 
+exclusive authority over the nation’s foreign affairs. 
+
+
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. 
+
+
+GeorGcE L. O’ CONNELL 
+TimoTHY P. GRIEVE 
+
+STEVENS & O’CONNELL LLP 
+400 Capitol Mall 
+
+Suite 1400 
+
+Sacramento, CA 95814 
+(916) 329-9111 
+
+
+Respectfully submitted, 
+
+
+FREDERICK W. REIF 
+Counsel of Record 
+
+Dina G. DASKALAKIS 
+KeiTtH D. BARRACK 
+
+RIKER DANZIG SCHERER 
+HyLanp & Perretti LLP 
+500 Fifth Avenue 
+
+Suite 4920 
+
+New York, NY 10110 
+(212) 302-6574 
+
+
+Counsel for Gerling Companies 
+
+

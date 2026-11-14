@@ -1,0 +1,404 @@
+Source: https://law.resource.org/pub/us/case/reporter/F3/330/330.F3d.802.00-4567.html
+
+
+
+    330 F.3d 802
+
+330 F.3d 802
+
+Lloyd D. ALKIRE, Plaintiff-Appellant,
+v.
+Judge Jane IRVING, et al., Defendants-Appellees.
+
+No. 00-4567.
+
+United States Court of Appeals, Sixth Circuit.
+
+Argued March 6, 2002.
+
+Decided and Filed June 2, 2003.
+
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED Edward A. Icove (briefed), Smith & Condeni, Cleveland, OH, Gary M. Smith (argued and briefed), Judith B. Goldstein, Equal Justice Foundation, Columbus, OH, for Plaintiff-Appellant.
+
+      1
+      
+Timothy T. Reid (argued and briefed), Reid, Berry, Marshall & Wargo, Cleveland, OH, for Defendants-Appellees.
+
+      2
+      
+Before: MOORE and COLE, Circuit Judges; TARNOW, District Judge.*
+
+AMENDED OPINION
+
+      3
+      
+TARNOW, District Judge.
+
+      4
+      
+Plaintiff Lloyd D. Alkire was arrested for drunk driving and held almost seventy-two hours without a probable cause hearing. He was subsequently incarcerated for failure to appear for show cause hearings and failure to pay fines and court costs. Alkire sued defendants Holmes County, Judge Jane Irving, Holmes County Court, and Sheriff Timothy Zimmerly under 42 U.S.C. § 1983, arguing that his constitutional rights were violated by his warrantless detention and civil debt-related incarceration. After a partial settlement disposed of several issues in the case, the district court denied Alkire's summary judgment motion and granted the defendants' summary judgment motion on the remaining constitutional issues raised. The district court also denied Alkire's class certification motion. This appeal followed.
+
+      5
+      
+Alkire raises four issues in his appeal. The first three ask whether the district court properly denied Alkire's summary judgment motion and granted the defendants summary judgment as to their liability for allegedly violating Alkire's: (1) Fourth Amendment right not to be held on a warrantless arrest without arraignment for forty-eight hours; (2) Thirteenth Amendment right not to be imprisoned for a civil debt and Fourteenth Amendment right not to lose his liberty due to indigency; (3) Fourteenth Amendment right to due process and equal protection for failing to allow credit toward fines and costs for time served. The fourth issue on appeal is whether the district court properly denied Alkire's motion for class certification. For the reasons stated below, we REVERSE the district court on the first and second issues and REMAND to the district court for further proceedings. We AFFIRM the district court on the third and fourth issues.
+
+I. FACTUAL HISTORY
+
+      6
+      
+On Saturday, August 19, 1995 at 9:40 a.m., Alkire was arrested for driving while intoxicated ("DWI"). Alkire was taken to the Holmes County Jail where he remained all weekend. There was a warrant for Alkire from another jurisdiction. The parties dispute whether Alkire was held on the DWI arrest or the outstanding warrant. Alkire was arraigned in Holmes County Court before Judge Jane Irving on Tuesday morning, August 22, 1995 — almost seventy-two hours after his arrest. No probable cause hearing was held prior to the August 22nd hearing.
+
+      7
+      
+At a subsequent hearing on September 1, 1995, Alkire pleaded no contest to the DWI charges. He was sentenced to fifteen days in jail and fined $575 and assessed court costs of $45, for a total of $620. Alkire signed a payment contract agreeing to pay $50 monthly installments starting September 11, 1995. No inquiry was made into Alkire's ability to pay, but it appears from the record that he signed the contract voluntarily.
+
+      8
+      
+Alkire did not make any payments toward the money owed. Due to Alkire's failure to pay, on November 15, 1995, Judge Irving signed a show cause letter ordering him to appear at a hearing on December 13, 1995 at 11:00 a.m. The letter advised that failure to appear or to pay the amount owed ($635.00)1 in full would result in the issuance of a bench warrant for Alkire's arrest. Alkire responded with a letter dated November 22, 1995, which informed Judge Irving that he was disabled and explained his financial difficulties.2
+
+      9
+      
+Alkire did not appear for the December 13, 1995 hearing. Judge Irving issued a bench warrant for his arrest. Alkire sent a second letter, dated December 15, 1995, explaining his failure to appear at the hearing. The letter stated that he was in the hospital on the hearing date, further explained his financial difficulties, and outlined his inability to find employment.
+
+      10
+      
+On May 20, 1996, Alkire was arrested on the outstanding bench warrant. At a hearing on May 21, 1996, Judge Irving found Alkire in contempt and sentenced him to thirty days in jail for "failing to pay any fine or costs." The Judge further stated that Alkire could work off the fine and costs. There was no inquiry at the hearing into Alkire's ability to pay.
+
+      11
+      
+Alkire served the thirty-day sentence from May 21, 1996 to June 20, 1996. During that time, he worked at a recycling center, receiving the current minimum wage rate of $4.25 per hour, which was credited toward his fine. As a result, according to Alkire, he was able to work off his entire fine. In fact, he says that he worked 4.75 more hours than his fine, but he received no compensation for that extra work. The county's policy does not allow defendants to work off their court costs, so Alkire calculates that after the thirty days in jail, he still owed court costs in the amount of $173.30. However, Holmes County Court records indicate he owed $295.22.
+
+      12
+      
+Five days after his release, on June 25, 1996, another show cause letter was sent to Alkire for failure to pay the $295.22 amount. The letter set a hearing date of July 24, 1996 and stated that he was required to either pay in full before the date or appear. Alkire again failed to pay or appear. Judge Irving found him in contempt for "failure to obey a previous order" and issued another bench warrant. Alkire was arrested on July 29, 1996 and released on his own recognizance on July 31, 1996. The bond notice set a hearing date of August 28, 1996 to answer the charges of "contempt of court—non-payment of costs." The bond also noted that Alkire must pay court costs in the amount of $156.603 by the next court date.
+
+      13
+      
+Alkire sent a letter dated August 27, 1996, which explained that he lost his job as a result of his last stay in jail. He also stated he had just started a new job on August 27th. He said that, since he could not pay the fines without a job, it would make no sense to arrest him and cause him to lose the new job. Alkire proposed a payment schedule based on his anticipated earnings from the new job.
+
+      14
+      
+Alkire again failed to appear at the August 28, 1996 hearing. Judge Irving again held Alkire in contempt and issued a third bench warrant for "failure to obey a previous order of this court." He was arrested on October 22, 1996 on the third warrant. At a hearing on the same day, he was found guilty of contempt and ordered to serve thirty days in the Holmes County Jail. There was no inquiry at the hearing regarding his ability to pay. Also, no credit was given toward the money owed during this period of incarceration.
+
+      15
+      
+On October 24, 1996, while Alkire was still serving the thirty-day sentence, a third show cause letter was issued demanding payment of $173.30 or an appearance on November 20, 1996. The hearing was continued to December 18, 1996. After the present action was filed, the final show cause hearing date was postponed indefinitely.
+
+II. PROCEDURAL HISTORY
+
+      16
+      
+Plaintiff Alkire filed a complaint and a motion for class certification on December 16, 1996, in the United States District Court for the Northern District of Ohio, alleging violations of his constitutional rights for the extended warrantless detention and debt-related imprisonment. Alkire filed an amended complaint on January 7, 1997. Alkire filed summary judgment motions against all the defendants on December 1, 1998. Defendants Holmes County, Holmes County Court, and Sheriff Zimmerly filed summary judgment motions on December 1, 1998. Judge Irving filed her summary judgment motion on December 3, 1998.
+
+      17
+      
+The parties agreed to a stipulation of settlement, but it did not resolve all the issues between the parties; it only purported to settle the declaratory and injunctive portions of the suit. Thus, in a June 30, 2000 order accepting the stipulation of settlement, the district court dismissed all the pending motions without prejudice to their being resubmitted to reflect the settlement between the parties. The class certification and summary judgment motions were resubmitted, but because the parties merely re-filed their initial motions, they do not reflect the settlement as ordered by the district court.4
+
+      18
+      
+The district court denied the motion for class certification on September 26, 2000. On November 9, 2000, the court denied Alkire's summary judgment motions and granted defendants' summary judgment motions. Alkire timely appealed the district court's judgment on December 4, 2000.
+
+      19
+      
+This Court issued an opinion on September 18, 2002. Plaintiff filed a petition for rehearing and for rehearing en banc on October 2, 2002. The Court directed defendants to respond, and they did so on October 23, 2002. This amended opinion replaces the opinion issued September 18, 2002.
+
+III. STANDARD OF REVIEW
+
+      20
+      
+We review the district court's order granting defendants' and denying Alkire's motions for summary judgment de novo using the same summary judgment test as the district court. See Crawford v. Roane, 53 F.3d 750, 753 (6th Cir.1995).5 Summary judgment is proper where there are no genuine issues of material fact and the moving party is entitled to judgment as a matter of law. Fed.R.Civ.P. 56(c); see also Celotex Corp. v. Catrett, 477 U.S. 317, 322-23, 106 S.Ct. 2548, 91 L.Ed.2d 265 (1986). All facts and inferences must be construed in a light most favorable to the party opposing the motion. Matsushita Elec. Indus. Co. v. Zenith Radio Corp., 475 U.S. 574, 587, 106 S.Ct. 1348, 89 L.Ed.2d 538 (1986).
+
+      21
+      
+We review a class certification decision for abuse of discretion. Sprague v. Gen. Motors Corp., 133 F.3d 388, 397 (6th Cir.1998) (en banc). An abuse of discretion is present when the district court "applies the wrong legal standard, misapplies the correct legal standard, or relies on clearly erroneous findings of fact." Schachner v. Blue Cross & Blue Shield, 77 F.3d 889, 895 (6th Cir.1996).
+
+IV. DISCUSSION
+
+      22
+      
+There are four issues for our consideration as framed by Alkire. The first three ask whether the trial court erred in failing to find the defendants liable: (1) under the Fourth Amendment for the policies and customs that resulted in Alkire's warrantless detention for nearly seventy-two hours; (2) under the Thirteenth and Fourteenth Amendments for the policies and customs that resulted in Alkire being arrested three times and jailed for sixty days in connection with non-payment of fines and court costs without any inquiry into his ability to pay; (3) under due process and equal protection for the policy and custom of not allowing credit toward fines and costs for time served, so that Alkire was incarcerated sixteen days in excess of the maximum otherwise permitted under state law. The fourth issue asks whether the trial court abused its discretion by refusing to certify a class action.
+
+      23
+      
+Initially, the Court notes that Sheriff Zimmerly and Judge Irving have been sued in their official capacities only. While "[p]ersonal-capacity suits seek to impose personal liability upon a government official for actions he takes under color of state law," individuals sued in their official capacities stand in the shoes of the entity they represent. Kentucky v. Graham, 473 U.S. 159, 165, 105 S.Ct. 3099, 87 L.Ed.2d 114 (1985) (citing Monell v. New York City Dep't of Soc. Servs., 436 U.S. 658, 690 n. 55, 98 S.Ct. 2018, 56 L.Ed.2d 611 (1978) ("Official capacity suits... represent only another way of pleading an action against an entity of which an officer is an agent.")); Matthews v. Jones, 35 F.3d 1046, 1049 (6th Cir.1994) ("A suit against an individual in his official capacity is the equivalent of a suit against the governmental entity."). As long as the governmental entity receives notice and an opportunity to respond, an official-capacity suit "imposes liability on the entity that he represents." Brandon v. Holt, 469 U.S. 464, 471-72, 105 S.Ct. 873, 83 L.Ed.2d 878 (1985); Graham, 473 U.S. at 166, 105 S.Ct. 3099 ("Thus, while an award of damages against an official in his personal capacity can be executed only against the official's personal assets, a plaintiff seeking to recover on a damages judgment in an official-capacity suit must look to the government entity itself."). Therefore, Holmes County, as the government entity that employed Sheriff Zimmerly, and the Holmes County Court, as the government entity that employed Judge Irving, are the only true defendants in this case.6 See Allen v. Leis, 154 F.Supp.2d 1240, 1259 (S.D.Ohio 2001).
+
+      24
+      
+Additionally, as a result of being sued only in their official capacities, Sheriff Zimmerly and Judge Irving cannot claim any personal immunities, such as quasi-judicial or qualified immunity, to which they might be entitled if sued in their individual or personal capacities. Graham, 473 U.S. at 167, 105 S.Ct. 3099. "The only immunities that can be claimed in an official-capacity action are forms of sovereign immunity that the entity, qua entity, may possess, such as the Eleventh Amendment." Id.
+
+      25
+      
+As the only immunity available to any of the defendants is Eleventh Amendment immunity, it is fitting to begin with this issue. It is clear that Holmes County (and Sheriff Zimmerly as an officer of Holmes County) is not an arm of the state that is entitled to Eleventh Amendment immunity. See Mt. Healthy City Sch. Dist. Bd. of Educ. v. Doyle, 429 U.S. 274, 280, 97 S.Ct. 568, 50 L.Ed.2d 471 (1977) ("The bar of the Eleventh Amendment to suit in Federal courts extends to States and state officials in appropriate circumstances... but does not extend to counties and similar municipal corporations."). The only Eleventh Amendment question here is whether the Holmes County Court, which is responsible for the policies of its Clerk's Office and Judge Irving, should be considered an "arm of the state" and thus vested with sovereign immunity. We do not write on a blank slate. Several years ago, we held that an Ohio court of common pleas was an arm of the state for Eleventh Amendment purposes. See Mumford v. Basinski, 105 F.3d 264, 268 (6th Cir.), cert. denied, 522 U.S. 914, 118 S.Ct. 298, 139 L.Ed.2d 229 (1997); see also Foster v. Walsh, 864 F.2d 416, 418 (6th Cir.1988) (holding that an Ohio municipal court could not be sued under § 1983 because it was not a "person" as § 1983 uses that term). This case is factually very similar to Mumford, except that it involves an Ohio county court rather than a court of common pleas. Whether this difference is material is a question we need not reach here, for the Supreme Court has taken apart the foundation of our decision in Mumford since it was decided.
+
+      26
+      
+In Mumford, in holding that an Ohio court of common pleas was an arm of the state, we relied on several different factors. We noted that it was state statutes that created the court of common pleas, regulated its jurisdiction in terms of territory and subject matter, provided for it to hire its own personnel, and empowered it to ask the local board of county commissioners for reasonable funding. Id. at 268-69. Since it was the state, rather than the county, that was principally in charge of the courts of common pleas, we held that they should be considered arms of the state for Eleventh Amendment purposes.
+
+      27
+      
+The problem with relying now on the decision we made in Mumford is that we nowhere addressed the issue of who would pay for a damage judgment against the court of common pleas. The Supreme Court has now explicitly told us that this is the most important factor bearing on the Eleventh Amendment question. See Regents of the Univ. of Cal. v. Doe, 519 U.S. 425, 430, 117 S.Ct. 900, 137 L.Ed.2d 55 (1997) (stating "that the question whether a money judgment against a state instrumentality or official would be enforceable against the State is of considerable importance to any evaluation of the relationship between the State and the entity or individual being sued"); Hess v. Port Authority Trans-Hudson Corp., 513 U.S. 30, 48, 115 S.Ct. 394, 130 L.Ed.2d 245 (1994) (recognizing "the vulnerability of the State's purse as the most salient factor in Eleventh Amendment determinations"). This court has followed suit; we now recognize that the question of who pays a damage judgment against an entity as the most important factor in arm-of-the-state analysis, though it is unclear whether it is the only factor or merely the principal one. Brotherton v. Cleveland, 173 F.3d 552, 560-61 (6th Cir.1999) (leaving open the question of "[w]hether we view as dispositive Hess's emphasis on the State treasury, or [just] interpret it as placing significant weight on one factor of a multi-factor test").
+
+      28
+      
+It is plain then that the reasoning in Mumford, if not the result, is now incorrect in light of the Supreme Court's decision in Hess, its reaffirmation of Hess in Doe, and our decision in Brotherton. We must therefore independently analyze whether the Holmes County Court should be considered an arm of the state for Eleventh Amendment purposes.7
+
+      29
+      
+As explained above, the first and most important factor under Hess is whether the state would be legally liable for a judgment against the Holmes County Court. Hess, 513 U.S. at 48, 115 S.Ct. 394; Doe, 519 U.S. at 430, 117 S.Ct. 900. Other factors relevant to the analysis of the sovereign immunity issue might include, but are not limited to, the following. First, courts have looked to the status of the entity under state law. Indep. Enters. Inc. v. Pittsburgh Water & Sewer Auth., 103 F.3d 1165, 1173 (3d Cir.1997). This inquiry might include whether state statutes, including any enabling legislation, or case law characterize the entity as an arm of the state. See Vogt v. Bd. of Comm'rs of Orleans Levee Dist., 294 F.3d 684, 689 (5th Cir.), cert. denied, ___ U.S. ___, 123 S.Ct. 700, 154 L.Ed.2d 632 (2002); Fresenius Med. Care Cardiovascular Res., Inc. v. Puerto Rico & Carribean Cardiovascular Ctr. Corp., 322 F.3d 56, 65 n. 7 (1st Cir.2003). Second, courts have reviewed the degree of autonomy that the entity has or, put another way, the amount of control the state wields over the entity. See Vogt, 294 F.3d at 689; Indep. Enters. Inc., 103 F.3d at 1173. Relatedly, it might be useful to look to whether the agency can sue or be sued in its own right or hold property in its own name. See Vogt, 294 F.3d at 689; Indep. Enters. Inc., 103 F.3d at 1173. Whether the entity is immune from state taxation may also shed light on whether it is considered an arm of the State. See Indep. Enters. Inc., 103 F.3d at 1173. Finally, the inquiry might include an assessment of whether the entity is concerned with state-wide or local issues. See Fresenius Med. Care, 322 F.3d at 65 n. 7; Vogt, 294 F.3d at 689. These factors, and others, have been deemed important by other courts. We mention these factors to guide the district court's analysis of whether Holmes County Court is entitled to sovereign immunity on remand, but caution that the listed factors should not be regarded, necessarily, as an exhaustive list of the relevant factors.
+
+      30
+      
+Unfortunately, we find ourselves with virtually no evidence on the most important point — who is responsible for a monetary judgment against the Holmes County Court — as it was not briefed by the parties, who assumed Mumford was binding precedent. As we shall hold that a remand is in order in any event, we choose to remand this issue to the district court. The district court can make the initial determination whether Ohio would be legally liable for a judgment against the Holmes County Court, as well as an evaluation of the other factors that may bear on whether the Holmes County Court should receive sovereign immunity. Putting the issue of sovereign immunity to the side, we now consider the merits of Alkire's claims.
+
+      31
+      
+A. Whether the district court erred in finding no violation of Alkire's Fourth Amendment rights not to be held for seventy-two hours on a warrantless arrest.
+
+      32
+      
+Alkire argues that the district court erred as a matter of law by not granting his summary judgment motion that Holmes County and Sheriff Zimmerly were liable under § 1983 for violating his Fourth Amendment right against being detained without a prompt probable cause determination.
+
+Title 42 U.S.C. § 1983 provides that:
+
+      33
+      
+Every person who, under color of any statute, ordinance, regulation, custom, or usage ... subjects, or causes to be subjected, any citizen of the United States... to the deprivation of any rights ... secured by the Constitution and laws, shall be liable to the party injured in an action at law ... [or] suit in equity.
+
+      34
+      
+42 U.S.C. § 1983. To state a § 1983 claim, Alkire must establish (a) deprivation of a right secured under the Constitution or federal law; and (b) that deprivation was caused by a person acting under color of state law. Brock v. McWherter, 94 F.3d 242, 244 (6th Cir.1996).
+
+      35
+      
+As for the first prong of the test, since Alkire has alleged he was held in violation of the Fourth Amendment, we must ask what the Fourth Amendment requires. It requires a "fair and reliable determination of probable cause," which must be made promptly after a warrantless arrest. Gerstein v. Pugh, 420 U.S. 103, 125, 95 S.Ct. 854, 43 L.Ed.2d 54 (1975). A judicial determination of probable cause within forty-eight hours of arrest, "will, as a general matter, comply with the promptness requirement of Gerstein." County of Riverside v. McLaughlin, 500 U.S. 44, 56, 111 S.Ct. 1661, 114 L.Ed.2d 49 (1991). If the probable cause hearing is not held within forty-eight hours, the burden shifts to the government "to demonstrate the existence of a bona fide emergency or other extraordinary circumstance." Id. at 57, 111 S.Ct. 1661. The Supreme Court specifically mentioned that intervening weekends do not count as an "extraordinary circumstance." Id. On the other hand, if the defendant is held on a valid warrant, he "is not constitutionally entitled to a separate judicial determination that there is probable cause to detain him pending trial." Baker v. McCollan, 443 U.S. 137, 143, 99 S.Ct. 2689, 61 L.Ed.2d 433 (1979).
+
+      36
+      
+Alkire argues he was being held on the warrantless DWI arrest. Defendants argue he was being held on the warrant from another jurisdiction. If Alkire is correct, then his Fourth Amendment rights were violated, because he was entitled to a probable cause hearing within forty-eight hours, in the absence of an "extraordinary circumstance" to explain the delay. There is not even a hint of an "extraordinary circumstance" to be found in the record. However, if defendants are correct, then holding Alkire nearly seventy-two hours, while questionable, does not automatically violate his Fourth Amendment rights.
+
+      37
+      
+Even after careful review of the record, it is unclear as to which party is correct about the grounds upon which Alkire was originally detained. Alkire asserts that Holmes County records demonstrate that he was held on the DWI arrest, and he points to two documents in support.8 The first appears to be a Holmes County Jail booking form, which stated that Alkire was "being held for court," rather than on a warrant from another jurisdiction. The second is a holder from the Copley Police Department, which stated that they had an active warrant on Alkire and would be willing to pick him up after Holmes County released him. The notable thing about the holder is that it is dated May 21, 1996, which coincides with Alkire's first thirty-day incarceration, not his initial arrest on August 19, 1995. The defendants counter by citing Sheriff Zimmerly's affidavit, where he states that the State Highway Patrol discovered the outstanding warrant from another jurisdiction at the time of Alkire's arrest. However, Sheriff Zimmerly's statement falls short of stating that the warrant, rather than the DWI arrest, was the reason Alkire was detained seventy-two hours. This dispute between the parties constitutes a material factual dispute, which is inappropriate for resolution on summary judgment.
+
+      38
+      
+Applying the second part of the test for a § 1983 claim, we must examine whether the possible deprivation of Alkire's Fourth Amendment rights was caused by a person acting under color of state law. Brock, 94 F.3d at 244. State governments and entities that can be considered arms of the state are immune from suits for money damages under the Eleventh Amendment. Brotherton, 173 F.3d at 560. Unlike states, however, local governments, municipalities, and counties are considered "persons" within the meaning of 42 U.S.C. § 1983, and "may be sued for constitutional deprivations." Monell, 436 U.S. at 690-91, 98 S.Ct. 2018. Here, Holmes County is not immune from suit under the Eleventh Amendment.
+
+      39
+      
+Despite being "persons" for the purposes of § 1983, municipalities are not "liable for every misdeed of their employees and agents." Garner v. Memphis Police Dep't, 8 F.3d 358, 363 (6th Cir.1993). "Instead, it is when execution of a government's policy or custom, whether made by its lawmakers or by those whose edicts or acts may fairly be said to represent official policy, inflicts the injury that the government as an entity is responsible under § 1983." Monell, 436 U.S. at 694, 98 S.Ct. 2018. Thus for Alkire to demonstrate municipal liability, he must (1) identify the municipal policy or custom, (2) connect the policy to the municipality, and (3) show that his particular injury was incurred due to execution of that policy. Garner, 8 F.3d at 364. Where a government "custom has not received formal approval through the body's official decisionmaking channels," such a custom may still be the subject of a § 1983 suit. Monell, 436 U.S. at 690-91, 98 S.Ct. 2018.
+
+      40
+      
+As for the first prong, according to Pamela Atkins, a Corrections Lieutenant at the Holmes County Jail, prior to 1994 the jail's policy or custom was to release people over the weekend and hope they appeared in court the following Monday or Tuesday. Alkire asserts that, after the new Holmes County jail opened in 1994, Sheriff Zimmerly established a policy of detaining persons who could not post immediate bail until their initial appearance, because they now had adequate jail space. The record also reflects that, as a matter of course or custom, because the Holmes County Court is a part-time court, the first-available court date was often not until Tuesday mornings; court was never held on weekends or holidays. In fact, Atkins testified in her deposition that "[o]bviously, we can't call [the Clerk's Office] over the weekend." Thus, the record reflects that, after 1994, any warrantless arrest from late afternoon Friday through Sunday morning, where the defendant did not post bond, would very likely run afoul of the forty-eight hour time limit established in Riverside. These policies or customs of the Holmes County Jail are the very sort of "policy or custom" referred to by Monell. It is not necessary that Holmes County officially endorsed these policies or customs through legislative action for it to carry its imprimatur.
+
+      41
+      
+As for the second prong, connecting the policy to the municipality, the record demonstrates that the policy or custom of holding arrestees who could not post bond until their initial appearance was implemented by Sheriff Zimmerly in 1994. Because he was sued in his official capacity, his actions are attributable to the county.9
+
+      42
+      
+Finally, regarding the third prong, because there is a policy that is attributable to the County, it was clearly responsible for Alkire's detention beyond the forty-eight hour threshold. Prior to 1994, Sheriff Zimmerly would have released Alkire for the weekend and simply hoped that he appeared for his court date. The policy of holding arrestees over the weekend was the moving force behind the violation of Alkire's constitutional rights, assuming he was being held on the arrest and not the warrant.
+
+      43
+      
+Therefore, the district court's dismissal on this issue is reversed. Because there are genuine issues of material fact concerning Alkire's Fourth Amendment claim, however, the district court's denial of Alkire's motion for summary judgment is affirmed. This case is remanded for further proceedings to determine whether Alkire was being held on the arrest warrant or the DWI arrest.10
+
+      44
+      
+B. Whether the district court erred in finding no violation of Alkire's Thirteenth Amendment right not to be imprisoned for a civil debt and Fourteenth Amendment right not to lose his liberty due to indigency.
+
+      45
+      
+Alkire argues that the district court erred as a matter of law in not granting his summary judgment motion. He asserts that the defendants were liable under § 1983 for violating his Thirteenth Amendment right not to be imprisoned for a civil debt and Fourteenth Amendment right not to lose his liberty due to indigency. Again, to state a § 1983 claim, Alkire must establish (a) deprivation of a right secured under the Constitution or federal law; and (b) that deprivation was caused by a person acting under color of state law. Brock, 94 F.3d at 244.
+
+      46
+      
+As for the first prong of the test, the constitutional right against imprisonment for failure to pay a debt is well established under both the Thirteenth and Fourteenth Amendments. The Thirteenth Amendment prohibits "condition[s] in which the victim is coerced by threat of legal sanction to work off a debt to a master." United States v. Kozminski, 487 U.S. 931, 943, 943, 108 S.Ct. 2751, 101 L.Ed.2d 788 (1988). Under the Fourteenth Amendment, a State may not "`impos[e] a fine as a sentence and then automatically conver[t] it into a jail term solely because the defendant is indigent and cannot forthwith pay the fine in full.'" Bearden v. Georgia, 461 U.S. 660, 667, 103 S.Ct. 2064, 76 L.Ed.2d 221 (1983) (citing Tate v. Short, 401 U.S. 395, 91 S.Ct. 668, 28 L.Ed.2d 130 (1971)). Of course, the Constitution does not "preclude imprisonment for willful refusal to pay a fine or court costs." Bearden, 461 U.S. at 668, 103 S.Ct. 2064 (citing Williams v. Illinois, 399 U.S. 235, 242 n. 19, 90 S.Ct. 2018, 26 L.Ed.2d 586 (1970)). Thus, "fundamental fairness" requires that a court inquire into an individual's reasons for failing to pay a fine or courts costs. Id. at 672, 103 S.Ct. 2064. If the individual "wilfully refused to pay or failed to make sufficient bona fide efforts legally to acquire the resources to pay," imprisonment is justified. Id. On the other hand, if the individual was simply unable to pay, that is, he was indigent, the court is required to consider "alternate measures of punishment." Id.
+
+      47
+      
+In the present case, it is undisputed that the Holmes County Court, through the Clerk's Office and Judge Irving, made no inquiry into whether Alkire refused to pay or, instead, was unable to pay. After Alkire failed to pay his debt and also failed to appear to show cause for his failure to pay, he was held in contempt of court for failing to obey its orders, and sentenced to a term of imprisonment. Criminal contempt is a separate crime from the punishment of underlying offense; it is designed to be punitive and "vindicate the authority of the court."
+
+      48
+      
+The reason that Alkire was held in contempt and, likewise, the underlying reason for his imprisonment, is genuinely disputed. This dispute is material to the question of whether Alkire's constitutional rights were violated. Alkire argues that he was held in contempt for failing to pay his debt, namely for failing to pay court costs and fees resulting from his DWI conviction as ordered. Defendants counter that Alkire was imprisoned for failing to appear in court to show cause for his failure to pay as ordered.
+
+      49
+      
+The bench warrants and orders of Holmes County Court are conflicting. For example, the show cause orders routinely stated that: "failure to pay in full before [the hearing date], or to appear in court on said date will result in a warrant for your arrest." Each time that Alkire neither paid nor appeared, despite sometimes sending a letter of explanation, a bench warrant was issued stating language to the effect that: "This cause came on for hearing in a motion to hold Defendant in contempt for failure to obey a previous order of this court. The Defendant failed to appear, therefore a bench warrant will issue for defendant's arrest with a bond of $1000.00." The warrant on which Alkire was arrested on May 20, 1996 stated that Alkire had "failed to comply with a court order." Moreover, the May 21, 1996 judgment of conviction stated: "The Defendant is ordered to serve 30 days in the Holmes County Jail having been found in contempt of Court for failing to pay any fine or costs. Defendant may work off fine & costs." Thus, this genuine dispute as to whether Alkire was held in contempt of court for failure to pay his debts, or, instead, for failure to appear before the court as ordered can only be resolved by a jury.
+
+      50
+      
+Even if Alkire can demonstrate that he was imprisoned for failing to pay a debt without any inquiry into his ability to pay having been made, in order to demonstrate that he could succeed at trial, he must also show that this constitutional deprivation was the result of a policy or custom attributable to Holmes County Court. "[A] local government may not be sued under § 1983 for an injury inflicted solely by its employees or agents"; rather, a plaintiff must also show that the injury was the result of the "execution of a government's policy or custom, whether made by its lawmakers or by those whose edicts or acts may fairly be said to represent official policy." Monell, 436 U.S. at 694, 98 S.Ct. 2018. Further, a "plaintiff must also demonstrate that, through its deliberate conduct, the municipality was the `moving force' behind the injury alleged. That is, a plaintiff must show that the municipal action was taken with the requisite degree of culpability and must demonstrate a direct causal link between the municipal action and the deprivation of federal rights." Bd. of County Com'rs of Bryan County, Okla. v. Brown, 520 U.S. 397, 404, 117 S.Ct. 1382, 137 L.Ed.2d 626 (1997).
+
+      51
+      
+Alkire has presented evidence that the Holmes County Court Clerk's Office has a policy of requiring payment of fees and costs within two years regardless of ability to pay. In fact, under the policy, no inquiry is made into ability to pay. As support, Alkire claims that no determination of ability to pay was made in his case. Rather, after Judge Irving orders payment of a fine or costs, the Clerk's Office sets a payment schedule with the defendant and expects him or her to abide by it. Alkire argues that Judge Irving also does not inquire into ability to pay. Alkire also points to the practices and customs of Sheriff Zimmerly who "never" questions the legality of arrest or incarceration in connection with failure to pay. Alkire has produced nine other cases of alleged detention by Holmes County Court and the Holmes County Sheriff's Office for failure to pay a debt. However, "[u]nder appropriate circumstances, even a single act or decision may qualify as an official governmental policy, though it be unprecedented and unrepeated." Holloway v. Brush, 220 F.3d 767, 773 (6th Cir.2000) (en banc).
+
+      52
+      
+Alkire argues that this "policy" is attributable to the Holmes County Court. A reasonable jury could find that Judge Irving and the Clerk's Office make final governmental policy on behalf of Holmes County Court with respect to the payment of fines and court costs. Judge Irving is the only judge in the Holmes County Court. She routinely orders payments of fines and costs without making any determination as to whether the defendant is able to pay. The Clerk's Office creates a payment schedule for each defendant. When the schedule is not complied with, Judge Irving automatically orders that cause for such failure be shown. Even where, as here, a defendant sends letters explaining his inability to pay or appear, Judge Irving issues a bench warrant charging the defendant with contempt of court.11 There is no evidence that some other official or body makes policy with respect to the treatment of fines and costs ordered paid by the Holmes County Court. See O'Brien v. City of Grand Rapids, 23 F.3d 990, 1005 (6th Cir.1994) ("A plaintiff... is not required to anticipate the argument that the express approval of persons, never identified at trial, was required in order to make the operative policy the `official' policy."). Thus, Alkire has produced sufficient evidence for a reasonable trier of fact to conclude that his constitutional rights were violated by the Holmes County Court. We therefore find remand appropriate.
+
+      53
+      
+Insofar as Alkire argues that the violation of Ohio Revised Code §§ 2947.14(A), (D) by Holmes County Court also violated the federal Constitution, we agree. Sections 2947.14(A) and (D) prohibit courts from jailing individuals for failing to pay a fine where the person is unable to do so. They provide:
+
+      54
+      
+If a fine is imposed as a sentence or a part of a sentence, the court or magistrate that imposed the fine may order that the offender be committed to the jail or workhouse until the fine is paid or secured to be paid, or the offender is otherwise legally discharged, if the court or magistrate determines at a hearing that the offender is able, at that time, to pay the fine but refuses to do so.
+
+      55
+      
+* * *
+
+      56
+      
+No person shall be ordered to be committed to a jail or workhouse or otherwise be held in custody in satisfaction of a fine imposed as the whole or a part of a sentence except as provided in this section.
+
+      57
+      
+OHIO REV.CODE § 2497.14(A) & (D). Thus, this provision requires that prior to imprisonment for failure to pay a debt, that a hearing be held to determine whether the failure to pay was due to indigency or, instead, due to unwillingness to pay. As stated above, this is precisely what the Fourteenth Amendment requires. See Bearden, 461 U.S. at 667, 103 S.Ct. 2064.
+
+      58
+      
+Section 2947.14 was not complied with in this case because Alkire did not receive a hearing to determine his ability to pay prior to being incarcerated. Of course, violation of a state statute does not automatically create a cause of action under § 1983 for the deprivation of a constitutionally protected right. See Harrill v. Blount County, Tenn., 55 F.3d 1123, 1125 (6th Cir.1995) ("A state statute cannot `create' a federal constitutional right."). However, the failure to comply with § 2947.14 by not determining ability to pay also violates the constitutional prohibition against incarcerating an indigent defendant for his failure to pay a debt.
+
+      59
+      
+We therefore reverse the district court's dismissal of these two claims, for there are genuine issues of material fact as to whether Alkire's Thirteenth Amendment right not to be imprisoned for a civil debt and Fourteenth Amendment right not to lose his liberty due to indigency were violated pursuant to an official policy or custom.
+
+      60
+      
+C. Whether the district court erred in finding no violation of Alkire's due process and equal protection rights when defendants failed to allow credit toward fines and costs for time served.
+
+      61
+      
+Alkire next complains that the Holmes County Court, through Judge Irving and the Clerk's Office, violated his Fourteenth Amendment right to due process when it failed to enter a credit against the fines and costs owed based on the time he served as required under state law. As noted previously, Alkire must show first that he was deprived of a constitutional right and, second, that such deprivation was caused by a person acting under color of state law. Brock, 94 F.3d at 244.
+
+      62
+      
+Under Ohio law in effect at the time of Alkire's incarceration, if a defendant were imprisoned for refusing to pay a fine when he or she had the capability to do so, the defendant was to "receive a credit upon the fine at the rate of thirty dollars per day or fraction of a day." OHIO REV.CODE ANN. § 2947.14(D). Of course, Alkire claims that he was indigent and did not refuse to pay, which would make this provision inapplicable. However, given his claim that he was imprisoned under § 2947.14, it does seem that Alkire was entitled under state law to receive thirty dollars per day credit toward his debt.
+
+      63
+      
+In this case, Holmes County Court had a policy of giving credit against fines owed, although not against court costs owed, based on work performed while in jail. A prisoner was to be credited at the then-in-effect minimum wage for each hour of work performed. While this policy violates Ohio law, there is no constitutional requirement that a particular dollar amount of credit be given for jail time served. This claim, therefore, fails to state a constitutional violation. Accordingly, we affirm the district court's grant of summary judgment to defendants on this issue.
+
+      64
+      
+D. Whether the district court abused its discretion in refusing to certify a class.
+
+      65
+      
+Alkire argues that the district court abused its discretion by denying his motion for class certification on damages and restitution. There are four prerequisites to a class action found in Federal Rule of Civil Procedure 23(a):
+
+      66
+      
+One or more members of a class may sue or be sued as representative parties on behalf of all only if: (1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the interests of the class.
+
+      67
+      
+Although Rule 23(a)(2) refers to common questions of law or fact, in the plural, there need only be one question common to the class — though that question must be a "common issue the resolution of which will advance the litigation." Sprague, 133 F.3d at 397. See also Amchem Prods., Inc. v. Windsor, 521 U.S. 591, 623, 117 S.Ct. 2231, 138 L.Ed.2d 689 (1997). Ultimately, the class may only be certified if, "after a rigorous analysis," the district court is satisfied that these prerequisites have been met. Gen. Tel. Co. v. Falcon, 457 U.S. 147, 161, 102 S.Ct. 2364, 72 L.Ed.2d 740 (1982). The burden is on the plaintiff "to establish his right" to class certification. Senter v. Gen. Motors Corp., 532 F.2d 511, 522 (6th Cir.1976).
+
+      68
+      
+If Alkire can satisfy the four prerequisites for class certification found in Rule 23(a), then he must show that, in addition, he satisfies one of the three types of class actions found in Federal Rule Of Civil Procedure 23(b). Only two of the three types found in Rule 23(b) are relevant here, types II and III. A type II class action requires that the plaintiff seek primarily injunctive or declaratory relief. FED.R.CIV.P. 23(b)(2). Type III requires that "the court find[] that the questions of law or fact common to the members of the class predominate over any questions affecting only individual members, and that a class action is superior to other available methods for the fair and efficient adjudication of the controversy." FED.R.CIV.P. 23(b)(3).
+
+      69
+      
+The district court's denial of Alkire's motion for class certification survives abuse of discretion review. On the first prerequisite, numerosity, the district court found it was "highly improbable" that Alkire could make such a showing. While Alkire postulates that there are hundreds of potential plaintiffs, defendants' search of jail records produced only nine potential class members who were incarcerated due to failure to pay a civil debt or court costs. The district court did not abuse its discretion by believing defendants' asserted number of class members over Alkire's speculative one.
+
+      70
+      
+The second prerequisite of Rule 23(a) requires common questions of law and fact among the class, and the third prerequisite looks to the typicality of the claims or defenses of the representative party. The district court found that the potential class members are too diverse to warrant class treatment, that the "varying reasons for the arrests, varying lengths of stay in jail, varying financial situations, varying reasons for contempt adjudications ... would impact on the amount of damages any individual class member might be entitled to." The district court expressly found that Alkire's proposed class lacks the "common questions of fact" required under the second prong and the "typicality" required under the third prong of Rule 23(a).12
+
+      71
+      
+Alkire argues that the district court abused its discretion because only one common question of law or fact is required. He points to a common question of fact, "the existence and routine application of the illegal policies ultimately proven by the [defendants' own] depositions," and common questions of law, including issues one through four presented in this appeal.
+
+      72
+      
+Our review is for abuse of discretion, and the district court did not abuse its discretion in applying the class action prerequisites. There are enormous variations in the factual and legal backgrounds surrounding the hundreds of cases Alkire asserts might qualify for class membership. A class action cannot be certified unless the resolution of the common issues "will advance the litigation." Sprague, 133 F.3d at 397. The district court neither applied the wrong legal standard in examining these two elements, nor did it misapply the correct legal standard. The court correctly placed the burden of demonstrating his right to class certification and concluded that Alkire did not meet his burden. Such a conclusion was not an abuse of discretion.
+
+      73
+      
+Even if we agreed with Alkire that the district court abused its discretion in applying the prerequisites, we would still not find in his favor because he has not satisfied either the type II or III requirements for maintaining a class action. Alkire, in his initial motion for class certification, asserted his right to class certification under a type II class action only. As the district court noted, though, the stipulated settlement regarding declaratory and injunctive relief demonstrates that Alkire has "obtained all the relief future potential plaintiffs would want or need." Alkire even agrees with the district court's conclusion on this point, stating the he does not dispute the district court's holding "as to a class of future members.... The stipulations do provide sufficient protection for their interests." Thus, Alkire cannot maintain a type II class action.
+
+      74
+      
+Alkire's quarrel with the district court, then, is its failure to certify a type III class action, where monetary damages predominate. However, he ignores the requirements of a type III class action, which include a showing that the common questions predominate over the individual ones and that the class action is a superior method for adjudication. Consequently, Alkire's argument that only one common question is necessary for class certification does not apply under the type III analysis. The district court's finding that numerous factual issues, such as varying reasons for arrest, varying lengths of stay, and varying financial situations "do not warrant class treatment" is even stronger when reviewed under the type III requirements. Accordingly, we affirm the district court's denial of Alkire's motion for class certification.
+
+V. CONCLUSION
+
+      75
+      
+For the foregoing reasons, we REVERSE the district court with respect to its grant of defendants' summary judgment motion as to Alkire's first and second claims and AFFIRM the district court with respect to its grant of defendants' summary judgment motion on the third claim. We also AFFIRM the district court's denial of Alkire's motion for class certification. We REMAND to the district court for further consideration in light of this opinion.
+
+Notes:
+
+        *
+        
+ The Honorable Arthur J. Tarnow, United States District Judge for the Eastern District of Michigan, sitting by designation
+
+        1
+        
+ There is no explanation in the record for the discrepancy between $620 and $635
+
+        2
+        
+ The date stamp indicates that the letter was filed on September 26, 1995, which would be before the court sent the first show cause letter. Alkire argues that this demonstrates he was being proactive about his inability to meet the payment schedule. However, the letter itself is dated November 22, 1995. In addition, the letter refers to "your letter last week," apparently referencing the Judge's show cause letter, which was signed on November 15, 1995. Thus, we will assume that the date stamp was inaccurate and the correct date is November 22, 1995, as listed in the letter
+
+        3
+        
+ Again there is no explanation in the record for the discrepancy between this amount and the $295.22 amount
+
+        4
+        
+ Consequently, it is not clear whether the settlement regarding prospective relief is in effect, or whether Alkire is still seeking declaratory and injunctive relief. Because the district court assumed he was not, and the parties did not address declaratory and injunctive relief on appeal, we will assume that the settlement resolved the prospective portions of the case
+
+        5
+        
+ Alkire is appealing both the grant of defendants' summary judgment motions and the denial of his summary judgment motion. The denial of summary judgment is usually considered an interlocutory order, not a final judgmentPhelps v. Coy, 286 F.3d 295, 298 (6th Cir.2002) (citing Johnson v. Jones, 515 U.S. 304, 309, 115 S.Ct. 2151, 132 L.Ed.2d 238 (1995)). Thus, under 28 U.S.C. § 1291 (1994), which grants appellate jurisdiction over final judgments only, this Court usually does not accept appeals where summary judgment was denied. Id. "However, when the appeal from a denial of summary judgment is presented together with an appeal from a grant of summary judgment, we have jurisdiction to review the appropriateness of the district court's denial." Thomas v. United States, 166 F.3d 825, 828 (6th Cir.1999). The denial of summary judgment based purely on legal grounds is reviewed de novo. Id.
+
+        6
+        
+ Although Alkire did not specifically state that he was appealing the grant of summary judgment to the Holmes County Court, his briefs discuss at great length the wrongdoings of the Holmes County Court Clerk's Office, which is part of the Holmes County Court. Alkire seeks to phrase these wrongdoings as the wrongdoings of Holmes County, but it is clear that the Clerk's Office (as well as the Judge) are agents of the Holmes County Court. Since Alkire discussed his claims against the Clerk's Office in his appellate briefs and since the Clerk's Office is part of the County Court, we hold that Alkire has properly appealed his claims against the County Court, and we will consider them in full
+
+        7
+        
+ A related question that the district court may need to consider is whether the Holmes County Court is a "person" for purposes of § 1983. Although we held inFoster that a state court was not a person for purposes of § 1983, Foster v. Walsh, 864 F.2d 416, 418 (6th Cir.1988), we believe that this holding has also been undermined by the recent Supreme Court decisions addressing sovereign immunity that were discussed above—as the issues of sovereign immunity and personhood under § 1983 are conceptually related (as we discuss below).
+
+Of course, insofar as Holmes County Court is an arm of the State of Ohio entitled to sovereign immunity, it is not a "person" for purposes of § 1983. See Will v. Mich. Dep't of State Police, 491 U.S. 58, 109 S.Ct. 2304, 105 L.Ed.2d 45 (1989). However, if Holmes County Court is not entitled to sovereign immunity, it will be necessary on remand to undertake an independent determination of whether Holmes County Court is a "person" under § 1983. The Supreme Court's holding in Will implicitly suggests that those entities that are not arms of the State should generally be considered "persons" for purposes of § 1983. Our sister circuits have disagreed over the extent to which the analyses of sovereign immunity and whether an entity is a "person" for § 1983 purposes are co-extensive. Compare Harter v. Vernon, 101 F.3d 334, 338 n. 1 (4th Cir.1996) ("If an official or entity is not immune from suit under the Eleventh Amendment that official or entity is a `person' subject to suit under § 1983."), cert. denied, 521 U.S. 1120, 117 S.Ct. 2511, 138 L.Ed.2d 1014 (1997), with Indep. Enters. Inc. v. Pittsburgh Water & Sewer Auth., 103 F.3d 1165, 1173 (3d Cir.1997) (stating that "Monell and Will establish that the most important inquiry in determining whether a governmental entity is a `person' within the meaning of § 1983 is whether the entity is an `arm[] of the State' for Eleventh Amendment purposes" (some internal quotation marks omitted)).
+
+We find it prudent to undertake an analysis similar to the Supreme Court's analysis in Will to determine whether an entity such as the Holmes County Court is "person" under § 1983. In Will, in determining that a State is not a "person" for purposes of § 1983, the Supreme Court looked at: (1) the language of § 1983 as well as its legislative history and purpose; (2) the common usage of the term "person"; and (3) whether the entity in question, there a State, was entitled to common law immunities, such as sovereign immunity. 491 U.S. at 61-70, 109 S.Ct. 2304. The scope of the Eleventh Amendment is an important, although perhaps not the only, consideration. Id. at 66-67, 109 S.Ct. 2304. Should the need to decide this issue arise, we leave the analysis to the sound judgment of the district court for an initial determination.
+
+        8
+        
+ While Alkire asserted that the documents were included in the joint appendix on appeal, they were not. Therefore, the Court ordered the district court record, and the documents were contained within an evidentiary appendix attached to plaintiff's motion for class certification filed in the district court
+
+        9
+        
+ To the extent Alkire is claiming the policies or customs in question are attributable to the Holmes County Clerk's Office, we reject Alkire's claim. There is no suggestion in the record that either Judge Irving or the Holmes County Clerk's Office had any involvement in whether a detainee was held over the weekend. All of the testimony in the record supports Alkire's assertion that Sheriff Zimmerly, and therefore Holmes County, was the party responsible for the policy to detain defendants over weekends
+
+        10
+        
+ The Court notes that, while neither party raised the issue, Alkire's § 1983 suit could be barred underHeck v. Humphrey, 512 U.S. 477, 114 S.Ct. 2364, 129 L.Ed.2d 383 (1994). In Heck, the Supreme Court held that:
+
+[T]o recover damages for [an] allegedly unconstitutional conviction or imprisonment, or for other harm caused by actions whose unlawfulness would render a conviction or sentence invalid, a § 1983 plaintiff must prove that the conviction or sentence has been reversed on direct appeal, expunged by executive order, declared invalid by a state tribunal authorized to make such determination, or called into question by a federal court's issuance of a writ of habeas corpus, 28 U.S.C. § 2254.
+
+Heck, 512 U.S. at 486-87, 114 S.Ct. 2364 (1994) (footnote omitted). Thus, to the extent that Alkire is seeking monetary damages that would invalidate the underlying conviction, his suit is barred.
+
+As for Alkire's first claim, Heck does not apply. He is not challenging the underlying conviction for driving while intoxicated. Rather, he is seeking monetary damages for a constitutional violation unrelated to his ultimate conviction of the substantive offense. Alkire's second claim is more problematic. It may implicate Heck because a finding that Alkire's Thirteenth and Fourteenth amendment rights were violated may necessarily imply that his conviction for contempt was invalid. However, it would likely not implicate his conviction for driving while intoxicated, which is the offense underlying this entire proceeding. As for Alkire's third claim, we affirm the district court's dismissal, so there is no need to discuss the applicability of Heck.
+
+We decline to rule on whether Heck applies at this time because the parties have not had a chance to submit briefs on the issue. Instead, the district court may consider the applicability of Heck upon remand.
+
+        11
+        
+ Importantly, before a finding of criminal contempt can be imposed, a defendant is entitled to notice of the charges and an opportunity to be heard and present a defenseConsol. Rail Corp. v. Yashinsky, 170 F.3d 591, 596 (6th Cir.1999). It is not clear that these due process requirements were met in this case. However, Alkire does not challenge the procedures used at the contempt hearings as a violation of his due process rights.
+
+        12
+        
+ The fourth element of Rule 23(a), whether the representative parties will fairly and protect the interests of the class, is not addressed by the district court or in the briefs. Therefore, we will also not address it
+
+CC∅ | Transformed by Public.Resource.Org
+
