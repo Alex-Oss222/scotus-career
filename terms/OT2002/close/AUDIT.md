@@ -1,90 +1,89 @@
-# October Term 2002 close audit
+# October Term 2002 confirming close audit
 
-Audit date: November 14, 2026. Four confirmed discrepancies remain. October Term 2002 is not ready for Close Commit.
+Audit date: November 14, 2026. Repair commit: cc64665a. Findings F1-F4 are resolved. Two Low discrepancies remain, F5 and F6 below. October Term 2002 is not ready for Close Commit.
 
-This audit completed the deterministic review and stopped at the mandatory gate in AGENTS.md, Close protocol, pass 4. Because that stage has unresolved findings, the fresh AI review of legal substance has not begun. Votes as legal choices, coalition support, holdings, precedent treatment, remedies, substantive continuity and Justice-specific historical departures still require that review after the findings below are resolved. Mechanical consistency checks do not certify those subjects.
+This confirming review verified the repairs, reran the deterministic checks, and freshly reviewed the affected legal substance and tracker treatment. The saved previous audit expressly deferred its fresh legal review; this report does not represent that earlier review as completed. The substantive review here covers the repair-affected decisions, their implicated authorities and downstream projections. No adjudication or projection was changed during this audit.
 
-All locations below use one-based physical newline numbering. Severity is Medium for incorrect procedural state or inconsistent assignment validation and Low for broken internal navigation. No adjudication, tracker, workspace projection or frozen handoff was changed in this task.
+All finding locations use one-based physical line numbers. The user's current directions control over contrary legacy format requirements: published trackers need no GitHub repository URLs; source-copy navigation inside freeze/ and entering-law/ is exempt; seamlessly corrected Records must contain no version or lineage entry or correction narrative.
 
 ## Unresolved discrepancies
 
-### F1 ? Medium ? Cano remains incorrectly described as pending
+### F5 - Low - Eichorn cites the wrong effective date for Inter-Modal
 
-**File and lines:** terms/OT2002/workspace/manifest.md:242?244; conflicting completed merits row at line 188.
+| File | Line |
+|---|---:|
+| terms/OT2002/records/Eichorn-v-AT-and-T-Corp_merits_2003-06-30.md | 149 |
+| terms/OT2002/render-inputs/OT_2002CHUNK14.md | 1107 |
+| terms/OT2002/output/OT_2002CHUNK14.md | 1073 |
 
-The retained-appeal paragraph still describes plenary briefing and argument as pending and the June 26 merits decision as scheduled. The canonical Cano merits Record, its completed inventory row, and both final continuity projections instead establish the completed June 26 decision.
+The Precedent Treatment citation dates Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co. to April 29, 1997. The controlling decision in this repository is dated May 12, 1997: terms/OT1996/records/Inter_Modal_Rail_Employees_v_Atchison_merits_1997-05-12.md, lines 2 and 87. The opening and candidate Standards and Tests also use May 12. The historical date must not replace this Court's effective date.
 
-**Exact fix:** Replace the section heading and paragraph at lines 242?244 with the completed June 26, 2003 merits status: the Court affirmed the judgment below on the components stated in Cano-v-Davis_merits_2003-06-26.md, and this appeal is no longer a pending Supreme Court matter. Cite that Record. Preserve both the completed January 10 screening row and the completed June 26 merits row; do not create another Court event or carry Cano into OT2003.
+**Exact fix:** Replace only April 29, 1997 with May 12, 1997 in that Eichorn citation. Regenerate the corresponding Render Input from the corrected Record and replace the matching citation in the public entry. Keep the other chunk entries byte-identical. Preserve the holding, coalition, precedent treatment and remedy; add no correction note. Both dates precede Eichorn, so this is a citation/chronology defect, not a displaced entering-law premise.
 
-### F2 ? Medium ? Kansas v. Nebraska's continuing proceeding is absent from the manifest
+### F6 - Low - Repaired Records retain a version/lineage entry
 
-**File and lines:** terms/OT2002/workspace/manifest.md:148 and 246?248 (the completed settlement row and the final pending-matter section, after which the missing entry belongs).
+Each following repaired Record retains a generic Version / lineage field at line 4, with the value Original decision.
 
-The manifest records completion of settlement approval but does not carry the proceeding that the decree expressly leaves pending. Kansas-v-Nebraska_decree_2003-05-19.md:8 expressly requires its retention; lines 201 and 207 preserve the certification condition. The final continuity projections and STANDING_STATE.candidate.md:62 already preserve this matter.
+| File | Line |
+|---|---:|
+| terms/OT2002/records/Bragg-v-West-Virginia-Coal-Association_merits_2003-06-30.md | 4 |
+| terms/OT2002/records/Eichorn-v-AT-and-T-Corp_merits_2003-06-30.md | 4 |
+| terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md | 4 |
+| terms/OT2002/records/Lawrence-v-Texas_merits_2003-06-26.md | 4 |
+| terms/OT2002/records/Limon-v-Kansas_merits_2003-06-26.md | 4 |
+| terms/OT2002/records/Nike-Inc-v-Kasky_jurisdictional_2003-06-26.md | 4 |
+| terms/OT2002/records/PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md | 4 |
+| terms/OT2002/records/Stogner-v-California_merits_2003-06-26.md | 4 |
+| terms/OT2002/records/United-States-v-Gatewood_merits_2003-06-30.md | 4 |
+| terms/OT2002/records/Wiggins-v-Smith_merits_2003-06-26.md | 4 |
 
-**Exact fix:** Retain line 148 as a completed settlement-approval event. Append a pending/carry-forward entry after line 248 for Kansas v. Nebraska, No. 126, Original, with Colorado: finite model-completion proceedings continue, and the covered claims, counterclaims and cross-claims arising before December 15, 2002 await dismissal with prejudice until the Special Master files the final report certifying the States' adoption of the RRCA Groundwater Model. Identify that report as the next controlling condition and cite the May 19 Record. Do not invent adoption, certification, a terminal date or a new adjudication. The Standing State candidate needs no corresponding addition.
+The current task expressly requires absence of a version or lineage entry in a corrected Record. This finding applies that instruction literally, including the generic field; it does not request correction history or criticize its absence. No correction-specific narrative or version number was added by the repair.
 
-### F3 ? Low ? Four canonical Record navigation links resolve to a nonexistent local Holdings file
+**Exact fix:** Delete the entire line 4 from these ten repaired Records, preserving their existing line endings and all substantive text. Do not substitute another version, lineage, receipt or correction statement. Their Public Projections need no change for this finding. The legacy opening-label check in tools/check_term.py, lines 210-214, still requires the fourth label; its current success does not implement the user's express exception. A later validation must apply that exception rather than restore a prohibited field merely to satisfy the legacy assertion.
 
-**Files and lines:**
+## Verification of the previous repairs
 
-| File | Line | Affected links |
-|---|---:|---|
-| terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md | 49 | Two Alden navigation links |
-| terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md | 69 | Florida Prepaid navigation link |
-| terms/OT2002/records/PacifiCare-Health-Systems-Inc-v-Book_merits_2003-04-07.md | 67 | Green Tree navigation link |
+| Finding | Result and evidence |
+|---|---|
+| F1 - Cano pending status | Resolved. Manifest lines 242-244 state the completed June 26 merits affirmance. Both the January screening and June merits rows remain completed. Cano is not carried into OT2003. |
+| F2 - Kansas continuing proceeding | Resolved. Manifest lines 250-252 retain the finite model-completion proceeding and covered pre-December 15, 2002 claims until the Special Master's final report certifies State adoption of the RRCA Groundwater Model. The settlement-approval row remains completed; no certification or terminal event is invented. |
+| F3 - Record navigation | Resolved. The two Alden links and Florida Prepaid link in Jinks, and Green Tree link in PacifiCare, now resolve to the opening Holdings register with valid fragments. Their labels and legal text are preserved. The generic source-navigation description supplies no correction narrative. The old audit's request for an added correction note is superseded by the user's current direction. |
+| F4 - Cano author credits and downstream counts | Resolved. Cano credits Stone-Zsela and Souter once each. The eight repaired Stone counts are Lawrence 18, Limon 18, Nike 19, and Stogner, Wiggins, Bragg, Eichorn and Gatewood 20. The receipts, deterministic artifact and validation statement reconcile. |
 
-Each destination starts with HOLDINGS.md# and therefore resolves inside records/. All four fragments exist in the actual opening Holdings register and remain available in its candidate.
+Lawrence's corrected pool consists of Stevens, Souter, Ginsburg and Breyer; Ginsburg remains a valid author. Limon correctly distinguishes Stone's 18 from the other eligible authors' 17, and its existing fit explanation remains supported. All committed authorships stand. Nike remains excluded from later counted merits totals.
 
-**Exact fix:** In these four destinations only, replace the prefix HOLDINGS.md# with ../../../state/HOLDINGS.md#, retaining every fragment and link label. At line 18 of each Record, qualify the exact-copy description with a concise internal note that navigation alone was rebased. Preserve the copied legal text, adjudication, Public Projection and original source copies. This finding concerns canonical Records, not the exempt navigation inside freeze/ or entering-law/.
+Read-only commit-object comparisons establish that cc64665a changes fourteen OT2002 files: the manifest, ten Records and three administrative freeze artifacts. Current content matches those repaired blobs after checkout newline normalization. Every affected Public Projection is unchanged from the repair's parent; the Render Inputs and public output trees are also unchanged. Thus the repair itself introduces no changed judicial rule or public disposition. F5 is an existing citation error found during the fresh affected review.
 
-### F4 ? Medium ? Eight chunk 14 assignment counts omit one of Cano's two counted authors
+## Deterministic checks rerun
 
-**Controlling evidence:** terms/OT2002/records/Cano-v-Davis_merits_2003-06-26.md:18 credits Stone-Zsela and Souter once each for delivery of different portions of one signed plenary lead. The same two deliveries appear in terms/OT2002/freeze/OT_2002CHUNK14_ASSIGNMENT_RECEIPTS.json:1014?1016. Eight later receipts include Cano in their own counted-record lists but omit Stone-Zsela's credit. Their corresponding Record count statements reproduce that omission.
+- The required validation command, python tools/check_term.py OT2002, passed initially and after the report was written, both times with OK: OT2002; 0 warning(s). Its opening Holdings-volume synchronization, runtime-split freshness, interface, public-workflow and recognized commit-reference checks passed. F6 identifies the express user exception the legacy interface test does not implement.
+- All 180 inventory rows match the 180 completed scheduled manifest rows by caption, docket, effective date and subject area. All 185 Records occur once in the fifteen Render Inputs, 185 public entries and 185 ledger rows.
+- All 185 bounded Public Projections match their generated Render Inputs exactly. Input/output event dates and per-chunk ordering reconcile, including spelled-out output dates. Ledger handoff order and cross-chunk date resets were not mistaken for effective-date errors.
+- Mechanical review covered 166 component tally rows and 112 single-judgment tally blocks. Shared rosters and distinct formal dispositions were checked individually. Five nonparticipation cases exclude the absent Justice from votes and joins. Dow's undisclosed division remains undisclosed. All public entries preserve their handoffs' publicly named Justice sets.
+- Assignment recount used actual signed lead-opinion deliveries, not inherited count statements: 164 counted merits Records and 165 author credits across 185 Records. All 117 populated receipt count maps and 120 pool calculations reconcile. Chief-selected authors remain eligible. Kennedy's American Library Association assignment is valid under O'Connor's independent assignment authority; the Chief's balance-pool restriction does not bind her.
+- All 718 checked local Markdown links resolve: fifteen in canonical Records, 187 in workspace and 516 in close materials apart from the superseded audit. Candidate navigation was evaluated at its intended state/ publication location. The Render Inputs and public outputs contain no local Markdown links. Relative source-copy links inside freeze/ and entering-law/ were exempted as directed; noncanonical runtime drafts were not substituted for Records.
+- All 144 shared runtime/freeze files selected by COMMITMENTS or RECONCILED are byte-identical. Of 2,414 permitted files covered by the chunk-15 baseline, 2,401 remain byte-identical; the thirteen differences are exactly the ten repaired Records and three repaired administrative freeze artifacts. The repaired manifest is outside that baseline. These comparisons establish artifact identity, not legal correctness.
+- Repair and parent commit objects exist. All recognized commit references checked by the required validator resolve. Only permitted read-only git cat-file operations were used in addition to the validator; no staging, commit, push, checkout or other Git command was run.
+- The three candidate headers agree: last completed term 2002; processed through June 30, 2003 after all 185 completed events; edition November 14, 2026. The published opening trackers remain the synchronized OT2001 set. No candidate contains a GitHub repository URL, as required.
+- Standing State has the correct nine Justices and seniority, all thirteen Composition allotments, the unchanged referral practice, four permitted sections and five pending docket matters. It retains Demore and the four original-action proceedings at their authorized stages and excludes completed Cano.
+- Exactly three current tracker candidates and the staged pass notes remain. Their pre-Commit presence is proper. Publication, dossier, generated indexes and candidate/pass-note cleanup belong to the subsequent successful Commit pass.
 
-**Exact count fixes:** Change only Stone-Zsela's before-assignment count as follows; the other Justices' counts are unaffected.
+## Fresh affected legal-substance review
 
-| Record under terms/OT2002/records/ | Record line | Current ? required count | Line in freeze/OT_2002CHUNK14_ASSIGNMENT_RECEIPTS.json |
-|---|---:|---:|---:|
-| Lawrence-v-Texas_merits_2003-06-26.md | 46 | 17 ? 18 | 1021 |
-| Limon-v-Kansas_merits_2003-06-26.md | 50 | 17 ? 18 | 1210 |
-| Nike-Inc-v-Kasky_jurisdictional_2003-06-26.md | 38 | 18 ? 19 | 1397 |
-| Stogner-v-California_merits_2003-06-26.md | 34 | 19 ? 20 | 1586 |
-| Wiggins-v-Smith_merits_2003-06-26.md | 18 | 19 ? 20 | 1778 |
-| Bragg-v-West-Virginia-Coal-Association_merits_2003-06-30.md | 36 | 19 ? 20 | 1973 |
-| Eichorn-v-AT-and-T-Corp_merits_2003-06-30.md | 36 | 19 ? 20 | 2170 |
-| United-States-v-Gatewood_merits_2003-06-30.md | 34 | 19 ? 20 | 2370 |
+The review covered the ten repaired Records, Cano's screening and merits decisions, Kansas's decree, their implicated prior law, and corresponding Holdings, Standards and Tests, Standing State and continuity treatment. It examined legal support for votes and joins separately from arithmetic, including Justice-specific changed premises. Apart from F5's citation date, it found no affected defect in a holding, coalition, precedent treatment, remedy or procedural consequence.
 
-**Required related fixes:**
+Cano preserves the distinct five-, eight-, nine- and seven-Justice rationale coalitions and the statutory judgment-only agreements. Its screening supplies no merits law. Page, Brooks and Robertson support the changed territorial-design premise without attributing individual votes to the historical unexplained affirmance. The final merits decision concludes the appeal. Kansas distinguishes approval, State adoption and the Master's certification filing; the finite reference and conditional dismissal remain part of the whole stipulated bargain, and no undisclosed poll becomes public.
 
-- Lawrence Record line 48 and the receipt's pool at lines 1197?1202: remove Stone-Zsela from the balance pool and revise the sentence that calls him a pool member. Ginsburg's count is 16; Stone-Zsela's 18 is outside the minimum-plus-one pool. The remaining pool is Stevens, Souter, Ginsburg and Breyer. Selected author Ginsburg remains valid.
-- Limon Record line 52: remove the equal-count premise. State Stone-Zsela's 18 and the other three eligible authors' 17, preserving the existing supported fit explanation. All four remain in the pool, and Stone-Zsela remains a valid selection.
-- terms/OT2002/freeze/OT_2002CHUNK14_DETERMINISTIC_CHECKS.json:36: represent both Cano counted deliveries instead of Souter alone. Recompute the assignment check before renewing the passed claim at line 96.
-- terms/OT2002/freeze/OT_2002CHUNK14_VALIDATION.md:19: reconcile and revalidate the claim that receipts reproduce the assignment counts and pools against the repaired administrative artifacts.
+Jinks retains claim-linked tolling, the Raygor exclusion and the remaining-verdict remand. PacifiCare preserves seven rationale joins and Stone's separate conditional judgment position. Nike's five-Justice finality rationale remains distinct from Souter's prudential ground. Bragg preserves the federal-duty and prospective-relief grounds, rejects participation-based waiver, and retains both injunction conditions. Eichorn keeps antitrust disposition, ERISA purpose evidence and statutory relief distinct; its conditional alternative is not falsely triggered.
 
-Preserve all committed authorships, judgment votes, joins and public substance. No selected author falls outside the correctly computed pool. Nike remains noncounting for later merits-lead totals. This finding is established by the present artifacts' internal inconsistency; it does not infer an unverified repository history or authorize a retrospective reassignment.
+Lawrence preserves six liberty joins and seven equality joins without promoting Stone's separate scrutiny or collateral proposals. Limon retains separate equality and juvenile-predicate coalitions, conditions and remedies without an invented proportionality holding. Stogner requires a fully expired limitations bar and does not turn allegations into findings. Wiggins separates the statutory gateway, deficient investigation, independently assessed prejudice and conditional sentence relief. Gatewood expressly resolves its adult-predicate, mandatory-floor and federal-charging questions on the supported six-Justice rationale; the charging omission supplies an independent ground for vacatur.
 
-## Deterministic checks completed
+Affected Holdings entries preserve those authority distinctions, qualifications and remedies. Standards and Tests retains the supported recurring rules and expressly justified application-only exclusions. No separate-writing proposal is promoted to controlling law, and the administrative repairs require no new substantive tracker change.
 
-- The required first command, python tools/check_term.py OT2002, exited successfully with OK: OT2002; 0 warning(s). Its checks include opening Holdings-volume synchronization, runtime split freshness for all 15 rendered chunks, Record interfaces, public workflow leakage and existence of the commit references it recognizes.
-- All 180 inventory items match the 180 completed scheduled manifest rows by number, caption, docket and effective date. All 185 Records occur exactly once across 15 Render Inputs and 185 public entries. Entry headings, closing boundaries and closing dates reconcile.
-- All 185 bounded Public Projections match their generated Render Inputs exactly. Each Render Input follows effective-date order. The ledger contains 185 events in its disclosed durable handoff order; cross-chunk date resets alone are not chronology defects.
-- Mechanical review of 164 component tally rows and 112 single-judgment tally blocks found no arithmetic discrepancy. The five explicitly identified nonparticipation cases reconcile with their eight-member rosters. Dow's undisclosed equally divided lineup remains undisclosed. All 185 rendered entries preserve the source handoffs' set of publicly named Justices. Legal support for particular votes and joins remains for the deferred substantive review.
-- Assignment review covered all 185 Records and 116 receipt pool calculations. The final current topology contains 164 counted signed merits Records and 165 author credits. F4 identifies the inconsistent intermediate counts; no additional selected-author arithmetic defect was found.
-- All 516 local links in close materials resolve, with candidate navigation evaluated at its intended state/ publication location. All 185 workspace local links resolve. The canonical Record navigation failures are F3. Fifteen additional relative-link failures occur only in noncanonical runtime draft copies.
-- All 139 shared runtime/freeze commitment and reconciliation files are byte-identical. All 2,414 permitted files covered by freeze/OT_2002CHUNK15_BASELINE_HASHES.json match that receipt's SHA-256 values. This is filesystem identity evidence, not proof of legal correctness or historical commit order.
-- The three candidate headers agree exactly: last completed term 2002; processed through June 30, 2003, after all 185 completed OT2002 Court events; edition November 14, 2026. The published opening trackers remain the synchronized OT2001 set.
-- The Standing State candidate retains the nine-member Court, matches all 13 Composition circuit allotments, preserves the standing referral paragraph exactly, and contains only the four permitted sections and five pending docket matters. Its Cano and Kansas treatment is consistent with the operative Records; the corresponding manifest defects are F1 and F2.
-- The close directory contains one current candidate for each tracker and the staged pass notes. Their presence before Commit is proper. The dossier, publication, generated indexes and candidate/pass-note cleanup belong to the later successful Commit pass.
+## Operator scope
 
-## Scope and next action
+Only terms/OT2002/close/AUDIT.md was changed in the repository; its existing CRLF line endings were preserved. Verification scratch was confined to ignored tmp/ and removed after review. No stone/ directory was read, listed, searched or modified, and no file whose name contains MASTER_JURISPRUDENCE was opened. Records, public copies, governing infrastructure and published trackers were not edited.
 
-Resolve F1?F4 through the appropriate authorized maintenance work, preserving existing line endings and all completed adjudications. Then rerun the deterministic checks and obtain the fresh substantive audit before Close Commit. This report does not approve publication.
-
-The absence of GitHub repository URLs in published trackers is intentional and was not treated as a defect. Relative navigation inside frozen and entering-law source copies was exempted as instructed. No stone/ directory or file whose name contains MASTER_JURISPRUDENCE was accessed.
-
-No direct Git command was run. The expressly permitted check_term.py invocation supplied its read-only commit-object existence checks; it does not establish full lineage or commitment order. Repository-history verification and commitment remain with the operator under this task's restriction.
-
-Only terms/OT2002/close/AUDIT.md was written outside ignored scratch space. It is a new file using CRLF, matching the close pass notes; existing files' line endings were preserved. The auxiliary link-check report is tmp/ot2002_links.json.
+Resolve F5 and F6 through the separately authorized repair process, then confirm the affected copies and validations before Close Commit. No publication or repository commitment was performed.
 
 READY FOR CLOSE COMMIT: NO
