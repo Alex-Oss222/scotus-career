@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: STANDARDS AND TESTS
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Federal courts and judicial remedies
 
