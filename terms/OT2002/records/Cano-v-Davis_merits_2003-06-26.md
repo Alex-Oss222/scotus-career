@@ -30,7 +30,7 @@ The approved Section II is revalidated against the frozen neutral packet, the fr
 
 Stevens selects Souter for Part II.B. Souter's frozen commitment identifies the missing operative participation injury while preserving the distinct purpose, nomination-opportunity and same-enactment inquiries of his Brooks opinion. That case-specific fit supports his selection from the pool for the CD28 application. Souter, Thomas and Ginsburg share its lowest count of 16; Kennedy's count of 18 places him outside the pool. The authorship entails no new accommodation or commitment. Stone-Zsela and Souter each receive one counted delivery for the single signed lead, regardless of the number of parts delivered.
 
-## Substantive fixed core
+## Approved fixed core, copied without alteration
 
 ### SECTION II: STONE POSITION SUPPLEMENT
 
@@ -39,6 +39,8 @@ Stevens selects Souter for Part II.B. Souter's frozen commitment identifies the 
 **Decisional status:** This supplement states Stone's proposed vote and legal reasoning only. The Court's votes, judgment, and any controlling holding remain unresolved. No party is designated the Court's winner.
 
 **Current-through baseline:** Governing decisions through June 28, 2002, together with Montiel v. Davis, decided January 13, 2003. **Scope:** Merits of the retained direct appeal, including the preserved constitutional effects question and independent statutory grounds. January 10 screening is complete. Georgia and Old Person supply no precedent on the shared June 26 date.
+
+**Conditional authorship:** With a lawful quorum participating in this merits review, if at least five Justices, including Stone, join his reasoning supporting the judgment on an issue actually decided, Stone writes the Court's opinion for those joined portions and articulates their operative rule, necessary reasoning, precedent treatment, and remedy. Agreement only in the judgment does not establish a majority rationale; passages lacking the required joins remain separately identified. No votes or joins are assumed.
 
 #### B. JUDGMENT AND REMEDY
 
