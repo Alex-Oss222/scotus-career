@@ -726,26 +726,26 @@ Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Soute
 
 ## Public Action
 
-The judgment is affirmed in part, reversed in part, and remanded. Six Justices require removal of the reproductive condition; the Chief Justice would vacate it and remand conditionally; two Justices would affirm it. Rejection of the earlier-bargain challenge is affirmed unanimously.
+The judgment is affirmed in part, reversed in part, and remanded. The reproductive condition is reversed and must be removed, 7–2. Rejection of the earlier-bargain challenge is affirmed, 9–0.
 
 ## Judgment & Remedy
 
-| Judgment component | Disposition and vote | Supporting Justices | Other positions | Remedy or remand |
+| Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Reproductive condition | Reversed, with removal required; six votes | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela would vacate and remand for a State-burden inquiry into direct support enforcement, with nonenforcement meanwhile. Scalia and Thomas would affirm the condition as construed. | Remove the reproductive condition and modify the sentence lawfully. |
+| Reproductive condition | Reversed, with removal required, 7–2 | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Scalia, Thomas | Remove the reproductive condition and modify the sentence lawfully. |
 | Earlier-bargain challenge | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The later knowing and voluntary express waiver remains effective within its terms. |
 
-Seven Justices agree that the present reproductive condition cannot remain enforceable, but they do not share the same final remedy. The controlling removal mandate has six votes. The nonsupport convictions, lawful payment duties and independently justified supervision remain in force.
+The nonsupport convictions, lawful payment duties and independently justified supervision remain in force.
 
 ## Opinion Topology
 
-O'CONNOR, J., delivered the opinion of the Court, in which STEVENS, KENNEDY, SOUTER, GINSBURG and BREYER, JJ., joined, and in which STONE-ZSELA, C. J., and SCALIA and THOMAS, JJ., joined as to Part II. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
+O'CONNOR, J., delivered the opinion of the Court, in which STONE-ZSELA, C. J., and STEVENS, KENNEDY, SOUTER, GINSBURG and BREYER, JJ., joined, and in which SCALIA and THOMAS, JJ., joined as to Part II. STONE-ZSELA, C. J., filed a concurring opinion. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
 
 | Writing or part | Author | Direct coalition, including author | Relationship and scope |
 |---|---|---|---|
-| Court opinion, Part I | O'Connor | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Concrete constitutional fit and definitive removal of the reproductive condition. |
+| Court opinion, Part I | O'Connor | Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Concrete constitutional fit and definitive removal of the reproductive condition. |
 | Court opinion, Part II | O'Connor | All nine Justices | Affirmance on the later knowing and voluntary express waiver. |
-| Partial concurrence and partial dissent | Stone-Zsela | Stone-Zsela | Joins Part II; would vacate the reproductive condition and remand conditionally, with nonenforcement meanwhile. |
+| Concurrence | Stone-Zsela | Stone-Zsela | Joins both parts and the removal remedy; states a stronger rule for direct reproductive restraints. |
 | Partial concurrence and partial dissent | Scalia | Scalia, Thomas | Join Part II; would affirm the finite, ability-sensitive reproductive condition. |
 
 ## Holdings
@@ -754,7 +754,7 @@ O'CONNOR, J., delivered the opinion of the Court, in which STEVENS, KENNEDY, SOU
 
 **Holding and operative rule:** A conviction for intentional nonsupport permits direct supervision and enforcement of lawful support duties, but does not itself justify making additional parenthood depend on advance judicial clearance. Oakley's condition, even as authoritatively narrowed to bona fide support efforts within ability, imposes an additional restraint on retained procreative liberty that lacks an adequate relationship to the asserted rehabilitative and child-support purposes on this record; the condition must be removed.
 
-**Authority:** Part I of O'Connor's opinion, directly joined by Stevens, Kennedy, Souter, Ginsburg and Breyer. Those six Justices adopt the complete rule, explanation and removal remedy.
+**Authority:** Part I of O'Connor's opinion, directly joined by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Those seven Justices adopt the complete rule, explanation and removal remedy.
 
 **Controlling explanation:** Skinner identifies procreation as a fundamental liberty even in the criminal-punishment setting. Turner establishes that conviction does not extinguish every protected family choice, and Gerber rejects categorical extinction of procreative protection through confinement. Griffin recognizes probation's conditional liberty, but that principle requires attention to the particular restraint. Zablocki illustrates the constitutional problem with making a family choice depend on support-related judicial permission, although its marriage restriction did not concern probation.
 
@@ -762,7 +762,7 @@ Wisconsin's construction matters. Under Bearden's distinction between willful re
 
 The intentional convictions, arrears, children's interests and finite probation term make the State's preventive argument substantial. They justify demanding supervision; they do not establish the fit of the additional reproductive prerequisite. The available alternatives matter to this particular restraint's justification, without requiring exhaustion of every collection method or assuming each will succeed. Available imprisonment supplies no independent answer to a restriction on a retained right.
 
-The Court has determined the inadequacy of this condition as construed. Remand therefore calls for removal and lawful sentence modification, rather than a renewed determination whether direct enforcement would suffice.
+The condition as construed fails this constitutional inquiry. The sentencing court must remove it and determine lawful sentence modification.
 
 ### II. The later express undertaking forecloses the earlier-bargain challenge
 
@@ -788,9 +788,9 @@ Support enforcement and reproductive permission are distinct constitutional ques
 
 ## Separate Writings
 
-**Stone-Zsela, concurring in part and dissenting in part.** He joins the express-waiver holding. He would give the direct procreative restraint a stronger constitutional rule: a condition prohibiting additional children or requiring advance judicial approval, even if lifted for good-faith support efforts, must be necessary to a compelling interest. Skinner's protected liberty, Turner's retained-family-right principle and Bearden's focus on willful conduct support that view. In his judgment, work and payment requirements, supervision and sanctions for willful nonpayment after the required hearing fully serve the support interest without making conception the violation. Owens and Newman support attention to actual burdens and concrete alternatives within their reproductive-care settings, rather than supplying the probation test.
+**Stone-Zsela, concurring.** He joins the Court's opinion and removal remedy. He would also apply a stronger rule to conditions that prohibit additional children or make parenthood depend on advance judicial approval: even when good-faith support efforts suffice for approval, the direct restraint burdens a fundamental choice and must be necessary to a compelling interest. In his view, the State may punish intentional nonsupport and enforce support duties directly, but it may not make this probationer's decision to have a child depend on prior approval of those efforts.
 
-His disposition is to vacate the reproductive condition and remand for the sentencing court to determine, with the State bearing the burden, whether a condition directly enforcing support efforts would serve its interest. The reproductive condition may not be enforced meanwhile. That conditional inquiry differs from the Court's definitive removal mandate. He preserves the nonsupport convictions, lawful payment obligations and independently justified supervision.
+Skinner supplies procreation's fundamental character in a criminal-punishment setting; Turner preserves family rights despite conviction; Bearden directs attention to willful conduct rather than inability. Wisconsin's narrowing addresses inability but leaves a restraint operating on conception. Work and payment requirements, supervision, and sanctions for willful nonpayment after the required hearing fully serve the support interest, in his judgment, without making conception or lack of permission the violation. Available imprisonment does not independently justify that condition. Owens and Newman support examining real burdens and concrete alternatives within their reproductive-care settings; they do not supply the probation test. His rule concerns direct reproductive prohibitions and permission requirements, while preserving lawful nonsupport punishment and independently justified supervision.
 
 **Scalia, concurring in part and dissenting in part, joined by Thomas.** They join the express-waiver holding but would affirm the reproductive condition as authoritatively construed. Griffin's conditional-liberty principle permits finite, offense-related supervision of a person convicted of deliberately refusing the same support duty. Genuine lawful efforts within ability satisfy the condition; it cannot demand wealth sufficient to meet every need or clearance of arrears regardless of ability, nor may a court withhold permission after bona fide compliance. Judicial verification of that compliance, in their view, reasonably protects existing and future children and promotes rehabilitation.
 
