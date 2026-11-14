@@ -1,7 +1,7 @@
 **Case and dockets:** Jinks v. Richland County; No. 02-258
 **Event and date:** Merits decision; 2003-04-22; October Term 2002, chunk 8.
 **Result:** The South Carolina Supreme Court's limitations judgment is reversed and the case remanded for remaining preserved issues affecting the verdict.
-**Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
+**Version / lineage:** Original decision.
 
 ## Event, source map, and law entering
 
@@ -15,7 +15,7 @@ All nine Justices participate at argument and decision: Stone-Zsela, Stevens, O'
 
 ### Exact material entering standards
 
-The following complete selected standards are copied mechanically from the approved entering-law slice. The remaining applicable authority and dates are identified in the event-specific source map above and the frozen reconciliation below.
+The following complete selected standards are copied mechanically from the approved entering-law slice, with navigation relative to this Record. The remaining applicable authority and dates are identified in the event-specific source map above and the frozen reconciliation below.
 
 ### Supplemental-claim tolling and sovereign immunity
 
@@ -46,7 +46,7 @@ The following complete selected standards are copied mechanically from the appro
 
 **Exceptions and limits:** The rule does not rest on constructive consent and establishes no general federal-court amenability rule or result under every statute. Coverage, exemptions, violations, limitation and remedial conditions remain. Hilton’s specialized FELA state-court rule survives; Hans, retained Union Gas and the divided Seminole direct-State issue retain their own scopes.
 
-**Holdings navigation:** [Alden v. Maine — Maine’s immunity cannot defeat the expressly enacted state-court remedy](HOLDINGS.md#maines-immunity-cannot-defeat-the-expressly-enacted-state-court-remedy); [Alden v. Maine — Congress expressly authorized this state-court FLSA action](HOLDINGS.md#congress-expressly-authorized-this-state-court-flsa-action-1).
+**Holdings navigation:** [Alden v. Maine — Maine’s immunity cannot defeat the expressly enacted state-court remedy](../../../state/HOLDINGS.md#maines-immunity-cannot-defeat-the-expressly-enacted-state-court-remedy); [Alden v. Maine — Congress expressly authorized this state-court FLSA action](../../../state/HOLDINGS.md#congress-expressly-authorized-this-state-court-flsa-action-1).
 
 ### Article I enforcement against States in federal court
 
@@ -66,7 +66,7 @@ The following complete selected standards are copied mechanically from the appro
 
 **Related current rules:** “Congruent and proportional Fourteenth Amendment enforcement” supplies the independent Section 5 ground for the same patent remedy. “Express state-court FLSA remedies against public employers” separately governs the state-court forum. “Commercial participation and State consent to federal suit” remains intact.
 
-**Holdings navigation:** [Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank — Article I independently sustains the expressly authorized action](HOLDINGS.md#article-i-independently-sustains-the-expressly-authorized-action).
+**Holdings navigation:** [Florida Prepaid Postsecondary Education Expense Board v. College Savings Bank — Article I independently sustains the expressly authorized action](../../../state/HOLDINGS.md#article-i-independently-sustains-the-expressly-authorized-action).
 
 ## Stone compatibility, final joins, and fallback
 

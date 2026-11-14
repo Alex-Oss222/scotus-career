@@ -33,7 +33,14 @@
       "date": "2003-06-26",
       "record": "Cano-v-Davis_merits_2003-06-26.md",
       "countable": true,
-      "author": "Souter"
+      "authors": [
+        "Stone-Zsela",
+        "Souter"
+      ],
+      "counted_deliveries": {
+        "Stone-Zsela": 1,
+        "Souter": 1
+      }
     },
     {
       "case": "Lawrence v. Texas",

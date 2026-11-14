@@ -1,7 +1,7 @@
 **Case and dockets:** PacifiCare Health Systems, Inc. v. Book; No. 02-215
 **Event and date:** Merits decision; 2003-04-07; October Term 2002, chunk 8.
 **Result:** The Eleventh Circuit judgment is reversed and the case remanded for arbitration in accordance with the actual agreements.
-**Version / lineage:** Original decision from frozen chunk 8 handoffs; supersedes no adjudication.
+**Version / lineage:** Original decision.
 
 ## Event, source map, and law entering
 
@@ -15,7 +15,7 @@ Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer par
 
 ### Exact material entering standards
 
-The following complete selected standards are copied mechanically from the approved entering-law slice. The remaining applicable authority and dates are identified in the event-specific source map above and the frozen reconciliation below.
+The following complete selected standards are copied mechanically from the approved entering-law slice, with navigation relative to this Record. The remaining applicable authority and dates are identified in the event-specific source map above and the frozen reconciliation below.
 
 ### Independent determination and delegation of arbitrability
 
@@ -64,7 +64,7 @@ The following complete selected standards are copied mechanically from the appro
 
 **Open question:** No majority adopts a comprehensive general initial-proof rule governing the trigger, consequences of nonproduction and unavailable cost information. The five-Justice direction for focused development on Green Tree’s undeveloped record does not establish universal discovery, a costless forum or a lender-payment obligation. Distinct assent, delegation and coverage requirements remain independent.
 
-**Holdings navigation:** [Green Tree Financial Corp.-Alabama v. Randolph, 531 U.S. 79 — Effective financial access to arbitration](HOLDINGS.md#green-tree-financial-corp-alabama-v-randolph-531-us-79-1).
+**Holdings navigation:** [Green Tree Financial Corp.-Alabama v. Randolph, 531 U.S. 79 — Effective financial access to arbitration](../../../state/HOLDINGS.md#green-tree-financial-corp-alabama-v-randolph-531-us-79-1).
 
 ## Stone compatibility, final joins, and fallback
 

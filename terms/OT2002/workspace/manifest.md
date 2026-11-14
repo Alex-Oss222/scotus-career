@@ -239,10 +239,14 @@ No report, filing, return date, or new action is supplied for these carryovers. 
 
 All nine seats are occupied; no vacancy or oath-date condition applies. Establish case-specific participation at Run. Section I identifies no affirmative historical nonparticipation in a Participation Matter field. A historical participation deferral is a verification flag, not established nonparticipation or an opening conflict. The absence of a separate field is not proof of participation. Do not import a comparator's lineup into neutral modeling. Chunk 2 participation was independently validated before modeling: O'Connor did not participate in Howsam; Kennedy did not participate in Borden Ranch. All nine participated in its other ten matters. Chunk 3 participation was independently established for its twelve matters: all nine Justices participated, with no case-specific nonparticipation identified.
 
-## Retained appeal after completed screening
+## Completed Cano appeal
 
-Cano v. Davis, No. 02-577: the January 10, 2003 screening is complete; probable jurisdiction is noted and the appeal remains pending for plenary briefing and argument. Its merits decision is scheduled June 26, 2003 as inventory No. 180 in OT_2002CHUNK14. Source: `terms/OT2002/records/Cano-v-Davis_direct-appeal-screening_2003-01-10.md`. The completed screening is not a stopped event; the merits decision is its own scheduled inventory row.
+Cano v. Davis, No. 02-577: the Court affirmed the judgment below on the components stated in its June 26, 2003 merits decision. Both the January 10 screening and June 26 merits events are complete, and this appeal is no longer a pending Supreme Court matter. Source: [June 26 merits Record](../records/Cano-v-Davis_merits_2003-06-26.md).
 
 ## Pending reargument
 
 Demore v. Kim, No. 01-1491: restored to the calendar for reargument in October Term 2003. The judgment below and existing bond release remain effective. Reargument awaits calendar setting. Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
+## Pending model-completion proceedings
+
+Kansas v. Nebraska, No. 126, Original, with Colorado: finite model-completion proceedings continue into October Term 2003. The covered claims, counterclaims and cross-claims for which leave was or could have been sought arising before December 15, 2002 await dismissal with prejudice until the Special Master files the final report certifying the States' adoption of the RRCA Groundwater Model. That report is the next controlling condition. Source: [May 19 decree Record](../records/Kansas-v-Nebraska_decree_2003-05-19.md).
