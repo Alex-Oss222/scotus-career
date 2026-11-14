@@ -37,7 +37,7 @@ The complete material published noncontrolling continuity is in the separate-wri
 
 **Holding and operative rule:** A public university may consider race in admissions when it establishes an important lawful educational objective, a substantial evidence-supported relationship between its actual racial treatment and that objective, justified coverage and competitive burdens, and a supported response to concrete practicable alternatives comparably advancing the objective with materially less racial disadvantage. The Law School satisfies that standard on this record through its supported educational benefits, actual individual comparisons, meaningful nonracial considerations and genuine competition; academic expertise is evidence, not an exemption from the University's burden.
 
-**Authority:** Part I of the Court's opinion; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
+**Authority:** Part I of the Court's opinion; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
 
 **Controlling explanation:** Adarand requires proof of the actual objective, relationship and burdens. Hopwood already recognizes supported educational diversity as important and requires genuine individual competition. Bakke supplies the competitive-consideration boundary. The evidence supports educational interaction, reduced isolation and correction of stereotyped expectations. The policy examines academic and other individual contributions throughout the applicant pool. Actual variation and meaningful nonracial considerations support the conclusion that race informs a competitive assessment rather than fixes an entitlement to a place.
 
@@ -57,7 +57,7 @@ The express racial classification triggers the inquiry without proof of exclusiv
 
 **Holding and operative rule:** Title VI §601's equality guarantee permits the genuinely competitive educational consideration established by this supported substantive justification. The presented intentional-treatment claim therefore fails, while §601's intent requirement and the statute's own coverage, proper-defendant and remedy predicates retain their distinct operation.
 
-**Authority:** Part III; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
+**Authority:** Part III; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
 
 **Controlling explanation:** The policy intentionally considers race. Hopwood prevents treating an educational purpose or good faith as absence of statutory intent. The independent statutory answer concerns whether that purposeful treatment denies the equality §601 protects. Bakke's competitive-consideration proposition, preserved and developed in Hopwood, permits genuinely competitive consideration within a substantively justified educational process rather than requiring a categorical prohibition of every racial consideration. The Law School's program satisfies that guarantee at the admitted scope. The conclusion does not arise merely by renaming the constitutional result; it rests on the statute's equality protection and the program's actual competitive operation. Sandoval preserves §601's intentional-treatment requirement.
 
@@ -150,7 +150,7 @@ Grutter v. Bollinger, No. 02-241. Argued April 1, 2003; decided June 23, 2003. O
 
 ## Participation
 
-Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 ## Public Action
 
@@ -160,7 +160,7 @@ The Court affirms the judgment sustaining the Law School's actual admissions pro
 
 **Affirmed, 6–3.**
 
-**Supporting:** Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer.
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer.
 **Opposing:** Scalia, Kennedy and Thomas.
 
 The requested invalidation and individual relief resting on the resolved policy-violation theories are denied. The District Court's injunction, vacated by the Sixth Circuit, is not reinstated.
@@ -181,7 +181,7 @@ Stone-Zsela delivers the opinion of the Court, joined by Stevens, O'Connor, Sout
 
 **Holding and operative rule:** A public university may consider race in admissions when it establishes an important lawful educational objective, a substantial evidence-supported relationship between its actual racial treatment and that objective, justified coverage and competitive burdens, and a supported response to concrete practicable alternatives comparably advancing the objective with materially less racial disadvantage. The Law School satisfies that standard on this record through its supported educational benefits, actual individual comparisons, meaningful nonracial considerations and genuine competition; academic expertise is evidence, not an exemption from the University's burden.
 
-**Authority:** Part I of the Court's opinion; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
+**Authority:** Part I of the Court's opinion; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
 
 **Controlling explanation:** Adarand requires proof of the actual objective, relationship and burdens. Hopwood already recognizes supported educational diversity as important and requires genuine individual competition. Bakke supplies the competitive-consideration boundary. The evidence supports educational interaction, reduced isolation and correction of stereotyped expectations. The policy examines academic and other individual contributions throughout the applicant pool. Actual variation and meaningful nonracial considerations support the conclusion that race informs a competitive assessment rather than fixes an entitlement to a place.
 
@@ -201,7 +201,7 @@ The express racial classification triggers the inquiry without proof of exclusiv
 
 **Holding and operative rule:** Title VI §601's equality guarantee permits the genuinely competitive educational consideration established by this supported substantive justification. The presented intentional-treatment claim therefore fails, while §601's intent requirement and the statute's own coverage, proper-defendant and remedy predicates retain their distinct operation.
 
-**Authority:** Part III; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
+**Authority:** Part III; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
 
 **Controlling explanation:** The policy intentionally considers race. Hopwood prevents treating an educational purpose or good faith as absence of statutory intent. The independent statutory answer concerns whether that purposeful treatment denies the equality §601 protects. Bakke's competitive-consideration proposition, preserved and developed in Hopwood, permits genuinely competitive consideration within a substantively justified educational process rather than requiring a categorical prohibition of every racial consideration. The Law School's program satisfies that guarantee at the admitted scope. The conclusion does not arise merely by renaming the constitutional result; it rests on the statute's equality protection and the program's actual competitive operation. Sandoval preserves §601's intentional-treatment requirement.
 

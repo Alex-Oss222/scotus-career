@@ -330,7 +330,7 @@ Sell v. United States, No. 02-5664. Argued March 3, 2003; decided June 16, 2003.
 
 ## Participation
 
-Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 ## Public Action
 
@@ -340,21 +340,21 @@ The Court accepts immediate review, vacates the judgment sustaining the present 
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Immediate appellate review | Jurisdiction sustained, 6–3 | Stone, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas | Reach the preserved constitutional questions |
-| Present treatment authorization | Vacatur and merits remand, six supporting vacatur on different grounds | Stone, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas oppose the merits adjudication | The present orders provide no authority for involuntary medication |
-| Scope of merits remand | Renewed prosecution-only request permitted upon the complete required showing, five votes | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stone would prohibit prosecution-only renewal; O'Connor, Scalia and Thomas do not reach the merits | Return through the Eighth Circuit for proceedings under Parts II–IV |
+| Immediate appellate review | Jurisdiction sustained, 6–3 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas | Reach the preserved constitutional questions |
+| Present treatment authorization | Vacatur and merits remand, six supporting vacatur on different grounds | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas oppose the merits adjudication | The present orders provide no authority for involuntary medication |
+| Scope of merits remand | Renewed prosecution-only request permitted upon the complete required showing, five votes | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela would prohibit prosecution-only renewal; O'Connor, Scalia and Thomas do not reach the merits | Return through the Eighth Circuit for proceedings under Parts II–IV |
 
 The jurisdictional dissenters would instead vacate the appellate judgment and direct dismissal of the interlocutory appeal. Their proposed vacatur does not join the Court's merits remedy.
 
 ## Opinion Topology
 
-Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg join it in full; Stone joins Part I. Kennedy files a concurring opinion. Stone files an opinion concurring in part and dissenting in part. Scalia files a dissenting opinion, joined by O'Connor and Thomas.
+Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg join it in full; Stone-Zsela joins Part I. Kennedy files a concurring opinion. Stone-Zsela files an opinion concurring in part and dissenting in part. Scalia files a dissenting opinion, joined by O'Connor and Thomas.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Breyer | Stevens, Kennedy, Souter, Ginsburg; Stone as to Part I | Immediate review; vacatur; remand permitting a sufficiently supported renewed request | Parts I–IV for the full joiners; Part I only for Stone |
+| Opinion of the Court | Breyer | Stevens, Kennedy, Souter, Ginsburg; Stone-Zsela as to Part I | Immediate review; vacatur; remand permitting a sufficiently supported renewed request | Parts I–IV for the full joiners; Part I only for Stone-Zsela |
 | Concurrence | Kennedy | Kennedy alone | Joins the Court's opinion and judgment | Stronger ultimate assurance against significant defense impairment |
-| Concurrence in part and dissent in part | Stone | Stone alone | Joins immediate review and vacatur; would prohibit prosecution-only renewal | Part I joined; distinct treatment-authority and replacement-order grounds |
+| Concurrence in part and dissent in part | Stone-Zsela | Stone-Zsela alone | Joins immediate review and vacatur; would prohibit prosecution-only renewal | Part I joined; distinct treatment-authority and replacement-order grounds |
 | Dissent | Scalia | O'Connor and Thomas | Would vacate the appellate judgment and direct dismissal of the interlocutory appeal | Jurisdiction only; no merits adjudication |
 
 ## Holdings
@@ -363,7 +363,7 @@ Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg joi
 
 **Holding and operative rule:** A conclusive order authorizing involuntary antipsychotic medication over objection to restore trial competence is immediately appealable under 28 U.S.C. §1291 when it resolves the important bodily-liberty question separate from guilt and final-judgment review cannot undo the authorized intervention. The appellant must establish these category-based requirements; personal hardship alone does not suffice.
 
-**Authority:** Part I of the Court's opinion, supported by Stone, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
+**Authority:** Part I of the Court's opinion, supported by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
 
 **Controlling explanation:** The Court holds that this order falls within the narrow collateral-order category. Cohen and Coopers & Lybrand require a conclusive decision of an important, separate question that cannot effectively await final judgment. Digital Equipment applies those requirements cumulatively to categories of orders, rather than the hardship of an individual appeal. This order finally permits an intrusion into Sell's body before guilt is adjudicated. A new trial after conviction could correct a trial error but could not restore his opportunity to refuse the medication. The criminal final-judgment rule remains demanding; the decisive distinction is the final authorization of this protected bodily intervention, rather than an ordinary ruling about evidence or trial management. The possibility of an independently available civil action does not make final review of this criminal authorization effective.
 
@@ -391,7 +391,7 @@ Ordinarily the court should determine whether the Government seeks, or has sough
 
 **Holding and operative rule:** A prosecution-only medication order must connect the proposed treatment to a fair prosecution through advance findings about defense effects and the actual governmental interest. The present authorization fails that requirement and is vacated; a renewed request may proceed on current circumstances under Parts II and III or on a separately established lawful treatment basis.
 
-**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone also supports vacatur, but on the distinct categorical ground described in his separate opinion.
+**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone-Zsela also supports vacatur, but on the distinct categorical ground described in his separate opinion.
 
 **Controlling explanation:** The existing clinical evidence and findings are considered at their actual scope. The defect is the inadequate connection between treatment and a fair prosecution, including an advance assessment of effects on the defense and the actual prosecutorial interest after Sell's confinement. Weston requires that inquiry before intervention; appellate reassurance and a promise of later review cannot supply it. The District Court's rejection of dangerousness leaves the present prosecution rationale to stand on its own. On remand, a renewed request must establish the applicable conditions through a current determination. The present orders authorize no involuntary administration. Lawful continued custody remains subject to its separate statutory authority and review.
 
@@ -413,9 +413,9 @@ Conclusive orders authorizing the covered forced medication receive immediate co
 
 **Kennedy, concurring.** Kennedy joins the complete rule but emphasizes the stronger ultimate protection he explained in Riggins and Weston: restoration requires an extraordinary showing against significant impairment of the defendant's reactions, participation and assistance to counsel. A nominal finding of competence does not establish the ability to defend fairly. His formulation concerns the assurance necessary in application; it does not prescribe a universal clear-and-convincing burden or demand perfect clinical prediction.
 
-**Stone, concurring in part and dissenting in part.** Stone agrees that review must precede this irreversible intervention and that the present authorization must be vacated. He would hold that prosecution of the covered nonviolent charges cannot itself supply authority to medicate an objecting, nondangerous defendant. Under his reading of the substantive liberty protected by Riggins and Weston, the Government must establish an independent emergency, safety or patient-welfare basis under that authority's own substantive and procedural requirements. Trial incompetence is distinct from incapacity to refuse treatment, present danger and lawful treatment authority. Harper supplies a different source of authority; Benson's record-based denial of a new-trial writ does not resolve this prospective question.
+**Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees that review must precede this irreversible intervention and that the present authorization must be vacated. He would hold that prosecution of the covered nonviolent charges cannot itself supply authority to medicate an objecting, nondangerous defendant. Under his reading of the substantive liberty protected by Riggins and Weston, the Government must establish an independent emergency, safety or patient-welfare basis under that authority's own substantive and procedural requirements. Trial incompetence is distinct from incapacity to refuse treatment, present danger and lawful treatment authority. Harper supplies a different source of authority; Benson's record-based denial of a new-trial writ does not resolve this prospective question.
 
-Stone would prohibit renewal on prosecution alone. A lawful replacement order would have to identify its genuinely independent basis, provide the required process and consider reasonable less intrusive means; relabeling restoration as welfare would be insufficient. If restoration remained an actual purpose of a nonemergency replacement order, he would additionally require advance judicial assessment of foreseeable effects on comprehension, consultation, testimony, demeanor and defense presentation, supported by clinical evidence, alternatives and safeguards, and renewed assessment before trial. He proposes that protection even when an independent safety basis suffices, extending rather than restating Weston's held scope. His substantive liberty ground makes a separate First Amendment answer unnecessary. The proposal covers the nonviolent prosecution category before the Court; materially different violent-offense applications fall outside the limited grant.
+Stone-Zsela would prohibit renewal on prosecution alone. A lawful replacement order would have to identify its genuinely independent basis, provide the required process and consider reasonable less intrusive means; relabeling restoration as welfare would be insufficient. If restoration remained an actual purpose of a nonemergency replacement order, he would additionally require advance judicial assessment of foreseeable effects on comprehension, consultation, testimony, demeanor and defense presentation, supported by clinical evidence, alternatives and safeguards, and renewed assessment before trial. He proposes that protection even when an independent safety basis suffices, extending rather than restating Weston's held scope. His substantive liberty ground makes a separate First Amendment answer unnecessary. The proposal covers the nonviolent prosecution category before the Court; materially different violent-offense applications fall outside the limited grant.
 
 **Scalia, joined by O'Connor and Thomas, dissenting.** The dissent applies the strict criminal final-judgment rule and Cohen's cumulative requirements. In its view, protection of bodily liberty does not create an additional interlocutory category in the criminal case when trial unfairness can be reviewed after conviction and a properly founded independent civil challenge remains distinct. Riggins and Weston's advance trial-court duties do not decide appellate jurisdiction. The dissent would vacate the Eighth Circuit judgment and direct dismissal of the appeal, without deciding whether this regimen satisfies the Constitution.
 
@@ -596,7 +596,7 @@ Gratz v. Bollinger, No. 02-516. Argued April 1, 2003; decided June 23, 2003. On 
 
 ## Participation
 
-Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 ## Public Action
 
@@ -606,21 +606,21 @@ The Court reverses the approval of the current automatic racial award, preserves
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing or distinct positions | Remedy or remand |
 |---|---|---|---|---|
-| Current prospective controversy | Reach the current-program claim, 7–2 | Stone, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Stevens would dismiss the writ as to that controversy; Souter would vacate and direct dismissal of the prospective portion | Decide the represented live competitive injury |
-| Current program under equal protection, Title VI §601 and §1981 | Reverse approval on each ground, five votes | O'Connor, Scalia, Kennedy, Thomas, Breyer | Stone and Ginsburg would affirm; Stevens and Souter do not reach the current merits | Remand for relief fitted to the represented live injury and surviving claims |
-| Earlier 1995–1998 process invalidity and rejected corrective validation | Preserve the existing dispositions, 9–0 | Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone joins these dispositions without the Part V reasoning | Preserve the distinction from the 1999–2000 program |
+| Current prospective controversy | Reach the current-program claim, 7–2 | Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg, Breyer | Stevens would dismiss the writ as to that controversy; Souter would vacate and direct dismissal of the prospective portion | Decide the represented live competitive injury |
+| Current program under equal protection, Title VI §601 and §1981 | Reverse approval on each ground, five votes | O'Connor, Scalia, Kennedy, Thomas, Breyer | Stone-Zsela and Ginsburg would affirm; Stevens and Souter do not reach the current merits | Remand for relief fitted to the represented live injury and surviving claims |
+| Earlier 1995–1998 process invalidity and rejected corrective validation | Preserve the existing dispositions, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | Stone-Zsela joins these dispositions without the Part V reasoning | Preserve the distinction from the 1999–2000 program |
 
 
-The unreviewed qualified-immunity dismissal of the individual-capacity §1983 claims against Bollinger and Duderstadt remains intact, as does the unreviewed denial of the Regents' Eleventh Amendment defense to Title VI. All nine preserve these scope boundaries; Stone supports the dispositions only. The remand cannot reopen the dismissed personal claims or revive the rejected Title VI defense. The requested admission and monetary relief remain for claim-specific adjudication under Part VII. Surviving earlier claims are preserved independently of the current-program disposition.
+The unreviewed qualified-immunity dismissal of the individual-capacity §1983 claims against Bollinger and Duderstadt remains intact, as does the unreviewed denial of the Regents' Eleventh Amendment defense to Title VI. All nine preserve these scope boundaries; Stone-Zsela supports the dispositions only. The remand cannot reopen the dismissed personal claims or revive the rejected Title VI defense. The requested admission and monetary relief remain for claim-specific adjudication under Part VII. Surviving earlier claims are preserved independently of the current-program disposition.
 
 ## Opinion Topology
 
-O'Connor delivers the opinion of the Court, joined in full by Scalia, Kennedy, Thomas, Breyer. Ginsburg joins Parts I and V–VII. Stevens and Souter join Parts V–VII. Stone joins Part I and Part VII as to the older-policy claims, and agrees with the dispositions preserved by Parts V and VI without joining their reasoning. Stone files an opinion concurring in part and dissenting in part, joined by Ginsburg. Stevens and Souter each file an opinion concurring in part and dissenting in part. Scalia files a concurring opinion, joined by Thomas.
+O'Connor delivers the opinion of the Court, joined in full by Scalia, Kennedy, Thomas, Breyer. Ginsburg joins Parts I and V–VII. Stevens and Souter join Parts V–VII. Stone-Zsela joins Part I and Part VII as to the older-policy claims, and agrees with the dispositions preserved by Parts V and VI without joining their reasoning. Stone-Zsela files an opinion concurring in part and dissenting in part, joined by Ginsburg. Stevens and Souter each file an opinion concurring in part and dissenting in part. Scalia files a concurring opinion, joined by Thomas.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | O'Connor | Scalia, Kennedy, Thomas, Breyer in full; additional joins as stated | Reverse current-policy approval; preserve earlier rulings; remand surviving claims | Part I: seven; Parts II–IV: five; Parts V–VI: eight Associates; Part VII: eight Associates, with Stone as to older-policy claims |
-| Concurrence in part and dissent in part | Stone | Ginsburg | Affirm current-policy approval; preserve earlier dispositions and claims | Current common-standard application and distinct statutory grounds; period-specific relief |
+| Opinion of the Court | O'Connor | Scalia, Kennedy, Thomas, Breyer in full; additional joins as stated | Reverse current-policy approval; preserve earlier rulings; remand surviving claims | Part I: seven; Parts II–IV: five; Parts V–VI: eight Associates; Part VII: eight Associates, with Stone-Zsela as to older-policy claims |
+| Concurrence in part and dissent in part | Stone-Zsela | Ginsburg | Affirm current-policy approval; preserve earlier dispositions and claims | Current common-standard application and distinct statutory grounds; period-specific relief |
 | Concurrence in part and dissent in part | Stevens | Stevens alone | Dismiss the writ as to the current prospective controversy; preserve older claims | Threshold ground, with expressly conditional current merits assessment |
 | Concurrence in part and dissent in part | Souter | Souter alone | Vacate the current prospective adjudication and remand to dismiss that portion; preserve older claims | Threshold ground, with expressly conditional current merits assessment |
 | Concurrence | Scalia | Thomas | Joins invalidity and remand; maintains a broader ground | Personal-equality objection to nonremedial racial preferences |
@@ -631,7 +631,7 @@ O'Connor delivers the opinion of the Court, joined in full by Scalia, Kennedy, T
 
 **Holding and operative rule:** A claimant ready to compete under a continuing racial admissions preference has a reviewable equal-competition injury without proving that he would be admitted. Hamacher's supported intention to seek transfer admission when the barrier is removed, considered with the certified class and the relationship between the undergraduate policies, supports the current-program challenge.
 
-**Authority:** Part I, supported by Stone, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; seven Justices.
+**Authority:** Part I, supported by Stone-Zsela, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; seven Justices.
 
 **Controlling explanation:** Peña and Northeastern Florida distinguish an unequal opportunity to compete from entitlement to the benefit sought. Hamacher's credited readiness and continuing exposure supply the necessary personal stake. Class certification alone would not supply missing exposure. Nor does the Court assume that transfer applicants use the freshman point worksheet: the challenge concerns the continuing undergraduate racial barrier within the represented controversy. Stevens and Souter would treat the different mechanisms as defeating representation of this prospective freshman claim. The Court concludes that the actual relationship between those policies and the live competitive injury permits this review. Slater preserves genuinely continuing controversies through changes without relaxing the initial personal-injury requirement. Gratz's past rejection alone is not the basis for prospective jurisdiction.
 
@@ -643,7 +643,7 @@ O'Connor delivers the opinion of the Court, joined in full by Scalia, Kennedy, T
 
 **Controlling explanation:** Adarand places the justification burden on the University, and Hopwood makes genuine competitive consideration a substantive requirement while recognizing a supported educational-diversity objective. Bakke distinguishes competitive consideration from separate racial allocation. The relevant problem is this mechanism's operation. The same large contribution is attributed automatically from race, and limited flagging does not provide adequate individual comparison at the decisive stage. Administrative volume, other criteria and a shared application form do not supply the missing justification.
 
-The strongest defense is that one pool, multiple attributes, candid weights and no reserved seats preserve meaningful competition. Stone and Ginsburg accept that assessment. The Court concludes that those features do not answer the categorical attribution and actual competitive burden shown here. Its rule concerns justified educational contribution and genuine consideration, rather than a constitutional preference for prose over arithmetic. Twenty points is evidence of this mechanism's operation, not a universal numerical boundary. Supported consideration of race remains available under the existing governing rule. The governing common standard remains the same one applied in Patrolmen's; Montiel's distinct electoral setting supplies no exemption for an operative admissions classification.
+The strongest defense is that one pool, multiple attributes, candid weights and no reserved seats preserve meaningful competition. Stone-Zsela and Ginsburg accept that assessment. The Court concludes that those features do not answer the categorical attribution and actual competitive burden shown here. Its rule concerns justified educational contribution and genuine consideration, rather than a constitutional preference for prose over arithmetic. Twenty points is evidence of this mechanism's operation, not a universal numerical boundary. Supported consideration of race remains available under the existing governing rule. The governing common standard remains the same one applied in Patrolmen's; Montiel's distinct electoral setting supplies no exemption for an operative admissions classification.
 
 ### III. The unjustified intentional treatment violates Title VI
 
@@ -665,7 +665,7 @@ The strongest defense is that one pool, multiple attributes, candid weights and 
 
 **Holding and operative rule:** Even assuming an important lawful corrective objective, evidence of institutional exclusion, continuing hostility and unequal incidence of other criteria must substantially connect the actual racial mechanism, its coverage and individual burdens to correction of those conditions. The offered defense does not establish that connection for the 1995–1998 combined decision practices; the earlier process-invalidity determination and rejection of that defense remain intact.
 
-**Authority:** Part V; all eight Associate Justices adopt this sufficient actual-means ground. Stone joins preservation of those dispositions only.
+**Authority:** Part V; all eight Associate Justices adopt this sufficient actual-means ground. Stone-Zsela joins preservation of those dispositions only.
 
 **Controlling explanation:** Adarand permits supported correction without universally demanding a prior adjudicated violation or proof that each beneficiary personally suffered discrimination. The historical account addresses housing, organizations, campus exclusion and deterrence; the campus evidence establishes substantial hostility, stereotypes and isolation. The Court credits that evidence and favorable supported inferences under the summary-judgment standard. The defect lies in connecting those conditions to this earlier allocation and its individual burdens. Differential incidence of school, curriculum, alumni and geographical criteria likewise does not itself justify the full racial preference. Hopwood's genuine-competition protection survives the change in asserted purpose.
 
@@ -675,7 +675,7 @@ The strongest alternative is a remand because the lower court used more demandin
 
 **Holding and operative rule:** The remand preserves the unreviewed summary judgment and dismissal of the individual-capacity §1983 claims against Bollinger and Duderstadt on qualified-immunity grounds, and the unreviewed denial of the Regents' Eleventh Amendment summary-judgment defense to Title VI. The first disposition bars reopening those dismissed personal claims; the second bars revival of that rejected defense in the Title VI claim, without establishing a general waiver for other statutes, defendants or capacities.
 
-**Authority:** Part VI; all eight Associate Justices adopt this review-scope conclusion. Stone joins preservation of the dispositions only.
+**Authority:** Part VI; all eight Associate Justices adopt this review-scope conclusion. Stone-Zsela joins preservation of the dispositions only.
 
 **Controlling explanation:** Petitioners did not seek review of the individual immunity ruling, and respondents did not seek review of the Regents' Title VI immunity denial. Those decisions therefore remain intact. Hopwood separates policy merits, the available cause, proper defendant and relief; its reservation of defenses not decided there cannot reopen defenses actually decided and left outside review here. Preserving the lower dispositions adopts their operative effect, not a new general immunity rule or all of the lower court's reasoning.
 
@@ -683,7 +683,7 @@ The strongest alternative is a remand because the lower court used more demandin
 
 **Holding and operative rule:** For each surviving claim based on an unlawful admissions process, the school must prove by a preponderance that the applicant would have received the same rejection under a specified constitutional process for the relevant period to defeat relief for lost admission and its consequences. Established unequal-process injury remains eligible for source-specific declaratory or nominal recognition and fee-free lawful reconsideration where practical and authorized; compensation requires proved loss under an available cause against a proper defendant.
 
-**Authority:** Part VII; all eight Associates adopt the rule for surviving claims. Stone joins it for the established older-policy claims, while disputing the present-policy violation to which the five invalidating Justices also apply it.
+**Authority:** Part VII; all eight Associates adopt the rule for surviving claims. Stone-Zsela joins it for the established older-policy claims, while disputing the present-policy violation to which the five invalidating Justices also apply it.
 
 **Controlling explanation:** Hopwood and Lesage supply the school-borne same-decision defense and separate process injury from entitlement to a seat. The counterfactual must describe a lawful process, including racial consideration controlling law permits. A successful defense defeats relief for the denial and its consequences, without erasing the established process wrong. Carey distinguishes nominal recognition from proved compensable loss. Failure of the defense does not establish an automatic damages amount or unconditional admission. The requested seat and monetary relief therefore remain for period-, cause- and defendant-specific adjudication. Earlier policies and their surviving claims must be identified separately from current prospective relief, which must fit the represented live competitive injury. The immunity boundaries in Part VI govern that work; a general merits remand cannot recreate dismissed personal-capacity claims.
 
@@ -708,7 +708,7 @@ The common substantial-justification standard continues to govern admissions cla
 
 ## Separate Writings
 
-**Stone, joined by Ginsburg, concurring in part and dissenting in part.** They would sustain the current program under Adarand and Hopwood. A numerical factor must be justified, but transparent scoring can preserve common competition and expose weight otherwise hidden in discretion. The twenty-point advantage imposes a real burden requiring evidence; its uniformity does not itself disprove an educational relationship. On their assessment, the educational and operational evidence, multiple nonracial attributes and actual common competition satisfy the existing standard. Administrative scale informs practicability rather than independently justifying racial treatment. Alternatives must be concretely workable and comparably effective; neither essays nor points determine validity by form. They reject racial viewpoint stereotypes, disguised fixed allocations and continuing operation after justification fails.
+**Stone-Zsela, joined by Ginsburg, concurring in part and dissenting in part.** They would sustain the current program under Adarand and Hopwood. A numerical factor must be justified, but transparent scoring can preserve common competition and expose weight otherwise hidden in discretion. The twenty-point advantage imposes a real burden requiring evidence; its uniformity does not itself disprove an educational relationship. On their assessment, the educational and operational evidence, multiple nonracial attributes and actual common competition satisfy the existing standard. Administrative scale informs practicability rather than independently justifying racial treatment. Alternatives must be concretely workable and comparably effective; neither essays nor points determine validity by form. They reject racial viewpoint stereotypes, disguised fixed allocations and continuing operation after justification fails.
 
 They separately reject the presented statutory challenges. Purposeful racial consideration supplies intent, but the genuinely competitive, substantively justified program they find does not deny Title VI equality or §1981's equal opportunity to seek an educational contract. This construction preserves statutory coverage, proper defendants, causation and relief, rather than deriving every statutory answer from constitutional permission. Earlier unequal-process claims retain their own dispositions and remedies. The school bears the established same-decision burden for those claims, and source-specific recognition of process injury and practical, authorized fee-free reconsideration remain distinct from a seat or consequential recovery.
 
@@ -735,7 +735,7 @@ Grutter v. Bollinger, No. 02-241. Argued April 1, 2003; decided June 23, 2003. O
 
 ## Participation
 
-Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 ## Public Action
 
@@ -745,7 +745,7 @@ The Court affirms the judgment sustaining the Law School's actual admissions pro
 
 **Affirmed, 6–3.**
 
-**Supporting:** Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer.
+**Supporting:** Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer.
 **Opposing:** Scalia, Kennedy and Thomas.
 
 The requested invalidation and individual relief resting on the resolved policy-violation theories are denied. The District Court's injunction, vacated by the Sixth Circuit, is not reinstated.
@@ -766,7 +766,7 @@ Stone-Zsela delivers the opinion of the Court, joined by Stevens, O'Connor, Sout
 
 **Holding and operative rule:** A public university may consider race in admissions when it establishes an important lawful educational objective, a substantial evidence-supported relationship between its actual racial treatment and that objective, justified coverage and competitive burdens, and a supported response to concrete practicable alternatives comparably advancing the objective with materially less racial disadvantage. The Law School satisfies that standard on this record through its supported educational benefits, actual individual comparisons, meaningful nonracial considerations and genuine competition; academic expertise is evidence, not an exemption from the University's burden.
 
-**Authority:** Part I of the Court's opinion; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
+**Authority:** Part I of the Court's opinion; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer adopt the complete rule and application. Their six direct joins establish controlling force.
 
 **Controlling explanation:** Adarand requires proof of the actual objective, relationship and burdens. Hopwood already recognizes supported educational diversity as important and requires genuine individual competition. Bakke supplies the competitive-consideration boundary. The evidence supports educational interaction, reduced isolation and correction of stereotyped expectations. The policy examines academic and other individual contributions throughout the applicant pool. Actual variation and meaningful nonracial considerations support the conclusion that race informs a competitive assessment rather than fixes an entitlement to a place.
 
@@ -786,7 +786,7 @@ The express racial classification triggers the inquiry without proof of exclusiv
 
 **Holding and operative rule:** Title VI §601's equality guarantee permits the genuinely competitive educational consideration established by this supported substantive justification. The presented intentional-treatment claim therefore fails, while §601's intent requirement and the statute's own coverage, proper-defendant and remedy predicates retain their distinct operation.
 
-**Authority:** Part III; Stone, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
+**Authority:** Part III; Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer separately adopt this statutory construction and disposition.
 
 **Controlling explanation:** The policy intentionally considers race. Hopwood prevents treating an educational purpose or good faith as absence of statutory intent. The independent statutory answer concerns whether that purposeful treatment denies the equality §601 protects. Bakke's competitive-consideration proposition, preserved and developed in Hopwood, permits genuinely competitive consideration within a substantively justified educational process rather than requiring a categorical prohibition of every racial consideration. The Law School's program satisfies that guarantee at the admitted scope. The conclusion does not arise merely by renaming the constitutional result; it rests on the statute's equality protection and the program's actual competitive operation. Sandoval preserves §601's intentional-treatment requirement.
 

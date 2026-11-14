@@ -35,7 +35,7 @@ The decision adds a narrow immediately appealable medication-order category, res
 
 **Holding and operative rule:** A conclusive order authorizing involuntary antipsychotic medication over objection to restore trial competence is immediately appealable under 28 U.S.C. §1291 when it resolves the important bodily-liberty question separate from guilt and final-judgment review cannot undo the authorized intervention. The appellant must establish these category-based requirements; personal hardship alone does not suffice.
 
-**Authority:** Part I of the Court's opinion, supported by Stone, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
+**Authority:** Part I of the Court's opinion, supported by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
 
 **Controlling explanation:** The Court holds that this order falls within the narrow collateral-order category. Cohen and Coopers & Lybrand require a conclusive decision of an important, separate question that cannot effectively await final judgment. Digital Equipment applies those requirements cumulatively to categories of orders, rather than the hardship of an individual appeal. This order finally permits an intrusion into Sell's body before guilt is adjudicated. A new trial after conviction could correct a trial error but could not restore his opportunity to refuse the medication. The criminal final-judgment rule remains demanding; the decisive distinction is the final authorization of this protected bodily intervention, rather than an ordinary ruling about evidence or trial management. The possibility of an independently available civil action does not make final review of this criminal authorization effective.
 
@@ -63,7 +63,7 @@ Ordinarily the court should determine whether the Government seeks, or has sough
 
 **Holding and operative rule:** A prosecution-only medication order must connect the proposed treatment to a fair prosecution through advance findings about defense effects and the actual governmental interest. The present authorization fails that requirement and is vacated; a renewed request may proceed on current circumstances under Parts II and III or on a separately established lawful treatment basis.
 
-**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone also supports vacatur, but on the distinct categorical ground described in his separate opinion.
+**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone-Zsela also supports vacatur, but on the distinct categorical ground described in his separate opinion.
 
 **Controlling explanation:** The existing clinical evidence and findings are considered at their actual scope. The defect is the inadequate connection between treatment and a fair prosecution, including an advance assessment of effects on the defense and the actual prosecutorial interest after Sell's confinement. Weston requires that inquiry before intervention; appellate reassurance and a promise of later review cannot supply it. The District Court's rejection of dangerousness leaves the present prosecution rationale to stand on its own. On remand, a renewed request must establish the applicable conditions through a current determination. The present orders authorize no involuntary administration. Lawful continued custody remains subject to its separate statutory authority and review.
 
@@ -133,7 +133,7 @@ Sell v. United States, No. 02-5664. Argued March 3, 2003; decided June 16, 2003.
 
 ## Participation
 
-Stone, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
+Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participated at argument and decision.
 
 ## Public Action
 
@@ -143,21 +143,21 @@ The Court accepts immediate review, vacates the judgment sustaining the present 
 
 | Judgment component | Disposition and vote | Supporting Justices | Opposing Justices | Remedy or remand |
 |---|---|---|---|---|
-| Immediate appellate review | Jurisdiction sustained, 6–3 | Stone, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas | Reach the preserved constitutional questions |
-| Present treatment authorization | Vacatur and merits remand, six supporting vacatur on different grounds | Stone, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas oppose the merits adjudication | The present orders provide no authority for involuntary medication |
-| Scope of merits remand | Renewed prosecution-only request permitted upon the complete required showing, five votes | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stone would prohibit prosecution-only renewal; O'Connor, Scalia and Thomas do not reach the merits | Return through the Eighth Circuit for proceedings under Parts II–IV |
+| Immediate appellate review | Jurisdiction sustained, 6–3 | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas | Reach the preserved constitutional questions |
+| Present treatment authorization | Vacatur and merits remand, six supporting vacatur on different grounds | Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg, Breyer | O'Connor, Scalia, Thomas oppose the merits adjudication | The present orders provide no authority for involuntary medication |
+| Scope of merits remand | Renewed prosecution-only request permitted upon the complete required showing, five votes | Stevens, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela would prohibit prosecution-only renewal; O'Connor, Scalia and Thomas do not reach the merits | Return through the Eighth Circuit for proceedings under Parts II–IV |
 
 The jurisdictional dissenters would instead vacate the appellate judgment and direct dismissal of the interlocutory appeal. Their proposed vacatur does not join the Court's merits remedy.
 
 ## Opinion Topology
 
-Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg join it in full; Stone joins Part I. Kennedy files a concurring opinion. Stone files an opinion concurring in part and dissenting in part. Scalia files a dissenting opinion, joined by O'Connor and Thomas.
+Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg join it in full; Stone-Zsela joins Part I. Kennedy files a concurring opinion. Stone-Zsela files an opinion concurring in part and dissenting in part. Scalia files a dissenting opinion, joined by O'Connor and Thomas.
 
 | Writing | Author | Joined by | Relationship to judgment | Scope joined |
 |---|---|---|---|---|
-| Opinion of the Court | Breyer | Stevens, Kennedy, Souter, Ginsburg; Stone as to Part I | Immediate review; vacatur; remand permitting a sufficiently supported renewed request | Parts I–IV for the full joiners; Part I only for Stone |
+| Opinion of the Court | Breyer | Stevens, Kennedy, Souter, Ginsburg; Stone-Zsela as to Part I | Immediate review; vacatur; remand permitting a sufficiently supported renewed request | Parts I–IV for the full joiners; Part I only for Stone-Zsela |
 | Concurrence | Kennedy | Kennedy alone | Joins the Court's opinion and judgment | Stronger ultimate assurance against significant defense impairment |
-| Concurrence in part and dissent in part | Stone | Stone alone | Joins immediate review and vacatur; would prohibit prosecution-only renewal | Part I joined; distinct treatment-authority and replacement-order grounds |
+| Concurrence in part and dissent in part | Stone-Zsela | Stone-Zsela alone | Joins immediate review and vacatur; would prohibit prosecution-only renewal | Part I joined; distinct treatment-authority and replacement-order grounds |
 | Dissent | Scalia | O'Connor and Thomas | Would vacate the appellate judgment and direct dismissal of the interlocutory appeal | Jurisdiction only; no merits adjudication |
 
 ## Holdings
@@ -166,7 +166,7 @@ Breyer delivers the opinion of the Court. Stevens, Kennedy, Souter, Ginsburg joi
 
 **Holding and operative rule:** A conclusive order authorizing involuntary antipsychotic medication over objection to restore trial competence is immediately appealable under 28 U.S.C. §1291 when it resolves the important bodily-liberty question separate from guilt and final-judgment review cannot undo the authorized intervention. The appellant must establish these category-based requirements; personal hardship alone does not suffice.
 
-**Authority:** Part I of the Court's opinion, supported by Stone, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
+**Authority:** Part I of the Court's opinion, supported by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer; six participating Justices adopt the same rule and application.
 
 **Controlling explanation:** The Court holds that this order falls within the narrow collateral-order category. Cohen and Coopers & Lybrand require a conclusive decision of an important, separate question that cannot effectively await final judgment. Digital Equipment applies those requirements cumulatively to categories of orders, rather than the hardship of an individual appeal. This order finally permits an intrusion into Sell's body before guilt is adjudicated. A new trial after conviction could correct a trial error but could not restore his opportunity to refuse the medication. The criminal final-judgment rule remains demanding; the decisive distinction is the final authorization of this protected bodily intervention, rather than an ordinary ruling about evidence or trial management. The possibility of an independently available civil action does not make final review of this criminal authorization effective.
 
@@ -194,7 +194,7 @@ Ordinarily the court should determine whether the Government seeks, or has sough
 
 **Holding and operative rule:** A prosecution-only medication order must connect the proposed treatment to a fair prosecution through advance findings about defense effects and the actual governmental interest. The present authorization fails that requirement and is vacated; a renewed request may proceed on current circumstances under Parts II and III or on a separately established lawful treatment basis.
 
-**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone also supports vacatur, but on the distinct categorical ground described in his separate opinion.
+**Authority:** Part IV of the Court's opinion; Stevens, Kennedy, Souter, Ginsburg and Breyer adopt this ground and renewed-request direction. Stone-Zsela also supports vacatur, but on the distinct categorical ground described in his separate opinion.
 
 **Controlling explanation:** The existing clinical evidence and findings are considered at their actual scope. The defect is the inadequate connection between treatment and a fair prosecution, including an advance assessment of effects on the defense and the actual prosecutorial interest after Sell's confinement. Weston requires that inquiry before intervention; appellate reassurance and a promise of later review cannot supply it. The District Court's rejection of dangerousness leaves the present prosecution rationale to stand on its own. On remand, a renewed request must establish the applicable conditions through a current determination. The present orders authorize no involuntary administration. Lawful continued custody remains subject to its separate statutory authority and review.
 
@@ -216,9 +216,9 @@ Conclusive orders authorizing the covered forced medication receive immediate co
 
 **Kennedy, concurring.** Kennedy joins the complete rule but emphasizes the stronger ultimate protection he explained in Riggins and Weston: restoration requires an extraordinary showing against significant impairment of the defendant's reactions, participation and assistance to counsel. A nominal finding of competence does not establish the ability to defend fairly. His formulation concerns the assurance necessary in application; it does not prescribe a universal clear-and-convincing burden or demand perfect clinical prediction.
 
-**Stone, concurring in part and dissenting in part.** Stone agrees that review must precede this irreversible intervention and that the present authorization must be vacated. He would hold that prosecution of the covered nonviolent charges cannot itself supply authority to medicate an objecting, nondangerous defendant. Under his reading of the substantive liberty protected by Riggins and Weston, the Government must establish an independent emergency, safety or patient-welfare basis under that authority's own substantive and procedural requirements. Trial incompetence is distinct from incapacity to refuse treatment, present danger and lawful treatment authority. Harper supplies a different source of authority; Benson's record-based denial of a new-trial writ does not resolve this prospective question.
+**Stone-Zsela, concurring in part and dissenting in part.** Stone-Zsela agrees that review must precede this irreversible intervention and that the present authorization must be vacated. He would hold that prosecution of the covered nonviolent charges cannot itself supply authority to medicate an objecting, nondangerous defendant. Under his reading of the substantive liberty protected by Riggins and Weston, the Government must establish an independent emergency, safety or patient-welfare basis under that authority's own substantive and procedural requirements. Trial incompetence is distinct from incapacity to refuse treatment, present danger and lawful treatment authority. Harper supplies a different source of authority; Benson's record-based denial of a new-trial writ does not resolve this prospective question.
 
-Stone would prohibit renewal on prosecution alone. A lawful replacement order would have to identify its genuinely independent basis, provide the required process and consider reasonable less intrusive means; relabeling restoration as welfare would be insufficient. If restoration remained an actual purpose of a nonemergency replacement order, he would additionally require advance judicial assessment of foreseeable effects on comprehension, consultation, testimony, demeanor and defense presentation, supported by clinical evidence, alternatives and safeguards, and renewed assessment before trial. He proposes that protection even when an independent safety basis suffices, extending rather than restating Weston's held scope. His substantive liberty ground makes a separate First Amendment answer unnecessary. The proposal covers the nonviolent prosecution category before the Court; materially different violent-offense applications fall outside the limited grant.
+Stone-Zsela would prohibit renewal on prosecution alone. A lawful replacement order would have to identify its genuinely independent basis, provide the required process and consider reasonable less intrusive means; relabeling restoration as welfare would be insufficient. If restoration remained an actual purpose of a nonemergency replacement order, he would additionally require advance judicial assessment of foreseeable effects on comprehension, consultation, testimony, demeanor and defense presentation, supported by clinical evidence, alternatives and safeguards, and renewed assessment before trial. He proposes that protection even when an independent safety basis suffices, extending rather than restating Weston's held scope. His substantive liberty ground makes a separate First Amendment answer unnecessary. The proposal covers the nonviolent prosecution category before the Court; materially different violent-offense applications fall outside the limited grant.
 
 **Scalia, joined by O'Connor and Thomas, dissenting.** The dissent applies the strict criminal final-judgment rule and Cohen's cumulative requirements. In its view, protection of bodily liberty does not create an additional interlocutory category in the criminal case when trial unfairness can be reviewed after conviction and a properly founded independent civil challenge remains distinct. Riggins and Weston's advance trial-court duties do not decide appellate jurisdiction. The dissent would vacate the Eighth Circuit judgment and direct dismissal of the appeal, without deciding whether this regimen satisfies the Constitution.
 
