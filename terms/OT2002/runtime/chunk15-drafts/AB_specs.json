@@ -1,0 +1,22 @@
+[
+  {
+    "file": "Amazon-com-Inc-v-Barnesandnoble-com-Inc_merits_2003-06-30.md",
+    "case": "Amazon.com, Inc. v. Barnesandnoble.com, Inc.",
+    "date": "2003-06-30",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": ["Stone-Zsela", "Stevens", "O'Connor", "Scalia", "Kennedy", "Souter", "Thomas", "Ginsburg", "Breyer"],
+    "full_joiners": ["Stone-Zsela", "Stevens", "O'Connor", "Scalia", "Kennedy", "Souter", "Thomas", "Ginsburg", "Breyer"],
+    "countable": true,
+    "needs_assignment": true
+  },
+  {
+    "file": "Burdine-v-Johnson_merits_2003-06-30.md",
+    "case": "Burdine v. Johnson (Cockrell v. Burdine)",
+    "date": "2003-06-30",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": ["Stone-Zsela", "Stevens", "O'Connor", "Souter", "Ginsburg", "Breyer"],
+    "full_joiners": ["Stone-Zsela", "Stevens", "O'Connor", "Souter", "Ginsburg", "Breyer"],
+    "countable": true,
+    "needs_assignment": true
+  }
+]

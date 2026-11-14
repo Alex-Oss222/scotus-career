@@ -1,0 +1,24 @@
+{
+  "status": 0,
+  "checker": "tools/check_term.py",
+  "output": "Sectioned inventory: 180 scheduled events, one corresponding manifest row each.\nOK (non-history checks only): OT2002; 0 warning(s)\n",
+  "limitation": "SKIPPED: commit-hash existence verification (0 distinct candidate references). No repository-history command was executed; this is not a provenance pass.",
+  "read_only_subprocesses": [
+    "tools/holdings_volumes.py check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK1.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK2.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK3.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK4.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK5.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK6.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK7.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK8.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK9.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK10.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK11.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK12.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK13.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK14.md --check",
+    "tools/split_chunk.py terms/OT2002/briefs/OT_2002CHUNK15.md --check"
+  ]
+}

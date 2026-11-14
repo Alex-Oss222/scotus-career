@@ -1,0 +1,19 @@
+# OT2002 chunk 15 final interface review
+
+**Scope:** Clerical inspection of the four new Records, the generated chunk Render Input, the four workspace projections, and the assignment and deterministic receipts. No adjudication, public Render, prior-term recount, or repository-history verification was performed.
+
+**Finding requiring correction:** `workspace/neutral-projection.md`, line 1853, carries Columbia's internal publication-selection tail. Its final sentence identifies an unpublished conditional-remand branch and transition position; the preceding two sentences also describe publication selection rather than the concurrence's published substance. These sentences are absent from the bounded Public Projection and exceed the neutral projection's published-position boundary. Omit that internal tail from the neutral projection while preserving the substantive concurrence summary. No Record change is needed. This review did not make the correction.
+
+The remaining inspected interfaces pass:
+
+- Each of the four eleven-block Public Projection payloads exactly matches its generated Render Input entry, after removing only the enclosing marker, separator, and boundary blank lines. The entry order, dates, four-event count, and eleven headings agree. Every public reference to the Chief uses Stone-Zsela.
+- Columbia: nine affirming Justices and nine full joins to Thomas's opinion; the Chief's additional implementation directions remain separate. Amazon: nine affirming Justices and nine full joins to Souter's opinion, with no separate writing.
+- Burdine: Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg, and Breyer supply the six affirming votes and Parts III–V; Scalia, Kennedy, and Thomas join only the common Parts I–II and oppose the judgment. All nine join those common Parts. The topology, holding authorities, and substantive dissent agree.
+- Holland: Stone-Zsela, Stevens, Souter, Ginsburg, and Breyer support the deployment vacatur and Part II; O'Connor, Scalia, Kennedy, and Thomas oppose that component. All nine support Parts I and III and the continued-restraint disposition. The Chief's proposed replacement defense remains noncontrolling.
+- The four assignment statements agree with the receipt counts, eligible authors, selected authors, and public opinion tables: Thomas, Souter, Stevens, and Ginsburg. This confirms interface agreement without independently reexamining earlier assignments.
+- All four manifest rows are completed and have corresponding ledger entries. Both substantive workspace projections carry their resulting law and published separate positions, subject to the neutral-tail defect above. The aggregate states 180 scheduled rows completed and 185 event Records; completion is distinguished from pending proceedings.
+- Demore remains pending for OT2003 reargument with its existing bond release preserved. Kansas v. Nebraska retains the unfulfilled final model-adoption certification condition. Arizona v. California, Kansas v. Colorado, and Nebraska v. Wyoming remain open at their stated original-action stages. No new calendar date, certification, or terminal action is inferred.
+
+Only this report was written. No version-control command was executed, and the excluded top-level directory was not accessed.
+
+**Resolved finding — direct recheck:** Both rebuilt workspace projections now omit Columbia's three-sentence internal publication-selection tail while preserving the complete substantive concurrence summary. Burdine's modeling-navigation sentence is also absent from both projections; its dissent, concurrence, legal limits, and remedy qualifications remain intact. Direct inspection of the affected resulting-law and published-position sections confirms agreement between the two projections and the Records' substantive public positions. The finding above is resolved. No unresolved interface defect remains within this review's scope.

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "Columbia-Union-College-v-Oliver_merits_2003-04-21.md",
+    "case": "Columbia Union College v. Oliver",
+    "date": "2003-04-21",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "countable": true,
+    "needs_assignment": true
+  }
+]

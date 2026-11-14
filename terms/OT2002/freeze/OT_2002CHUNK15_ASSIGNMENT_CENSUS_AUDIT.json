@@ -1,0 +1,148 @@
+{
+  "source": "terms/OT2002/freeze/OT_2002CHUNK15_EXISTING_OPINION_TABLES.json",
+  "source_sha256": "202359fc887bcb847dda7783ee92add76a30d8b0f1788d67a3e249ae9a562a85",
+  "existing_records": 181,
+  "counted_signed_merits_records": 160,
+  "author_credits": 161,
+  "counts": {
+    "Stone-Zsela": 20,
+    "Stevens": 17,
+    "O'Connor": 18,
+    "Scalia": 18,
+    "Kennedy": 18,
+    "Souter": 18,
+    "Thomas": 17,
+    "Ginsburg": 17,
+    "Breyer": 18
+  },
+  "excluded_records": {
+    "Ford-Motor-Co-v-McCauley_DIG_2002-10-15.md": "Per curiam dismissal; separate dissent is not a signed lead merits opinion.",
+    "Early-v-Packer_certiorari-grant_2002-11-04.md": "Unsigned certiorari order.",
+    "Early-v-Packer_summary-merits_2002-11-04.md": "Per curiam summary merits disposition.",
+    "INS-v-Ventura_certiorari-grant_2002-11-04.md": "Unsigned certiorari order.",
+    "INS-v-Ventura_summary-merits_2002-11-04.md": "Per curiam summary merits disposition.",
+    "Woodford-v-Visciotti_certiorari-grant_2002-11-04.md": "Unsigned certiorari order.",
+    "Woodford-v-Visciotti_summary-merits_2002-11-04.md": "Per curiam summary merits disposition.",
+    "Cano-v-Davis_direct-appeal-screening_2003-01-10.md": "Unsigned screening order.",
+    "Medical-Board-of-California-v-Hason_procedural-dismissal_2003-04-07.md": "Unsigned procedural order.",
+    "Peavy-v-WFAA-TV_procedural-dismissal_2003-04-07.md": "Unsigned procedural order.",
+    "Demore-v-Kim_reargument_2003-04-29.md": "Unsigned reargument order.",
+    "Kaupp-v-Texas_summary-merits_2003-05-05.md": "Per curiam summary merits disposition.",
+    "Kansas-v-Nebraska_decree_2003-05-19.md": "Unsigned conditional decree.",
+    "Los-Angeles-v-David_merits_2003-05-19.md": "Per curiam summary merits disposition despite shorter filename.",
+    "Bunkley-v-Florida_certiorari-granted_2003-05-27.md": "Unsigned certiorari order.",
+    "Bunkley-v-Florida_summary-disposition_2003-05-27.md": "Per curiam summary disposition.",
+    "Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md": "Certiorari order; no signed lead opinion.",
+    "Citizens-Bank-v-Alafabco-Inc_summary-merits_2003-06-02.md": "Per curiam summary merits disposition.",
+    "Dow-Chemical-Co-v-Stephenson_merits_2003-06-09.md": "Unsigned per curiam mixed disposition; neither component supplies a signed lead.",
+    "Bechhoefer-v-United-States-Department-of-Justice-DEA_dismissal_2003-06-16.md": "Per curiam jurisdictional dismissal.",
+    "Nike-Inc-v-Kasky_jurisdictional_2003-06-26.md": "Signed jurisdictional opinion; existing form determination explicitly makes it noncounting."
+  },
+  "table_only_authors_individually_verified": {
+    "Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md": "Breyer",
+    "Overton-v-Bazzetta_merits_2003-06-16.md": "Souter",
+    "Virginia-v-Hicks_merits_2003-06-16.md": "Scalia",
+    "United-States-v-American-Library-Association_merits_2003-06-23.md": "Kennedy"
+  },
+  "cano_counted_authors": [
+    "Stone-Zsela",
+    "Souter"
+  ],
+  "ordering": "Strict tuple comparison by effective date, then full case caption. Same-day assignment ordering does not alter the pre-date law baseline.",
+  "cutoffs_before_any_new_chunk15_record": [
+    {
+      "date": "2003-04-21",
+      "case": "Columbia Union College v. Oliver",
+      "counted_records": 81,
+      "author_credits": 81,
+      "counts": {
+        "Stone-Zsela": 8,
+        "Stevens": 9,
+        "O'Connor": 10,
+        "Scalia": 9,
+        "Kennedy": 10,
+        "Souter": 9,
+        "Thomas": 8,
+        "Ginsburg": 9,
+        "Breyer": 9
+      },
+      "last_counted": {
+        "case": "Virginia v. Black",
+        "date": "2003-04-07"
+      },
+      "existing_same_date_included": []
+    },
+    {
+      "date": "2003-06-30",
+      "case": "Amazon.com, Inc. v. Barnesandnoble.com, Inc.",
+      "counted_records": 157,
+      "author_credits": 158,
+      "counts": {
+        "Stone-Zsela": 20,
+        "Stevens": 17,
+        "O'Connor": 18,
+        "Scalia": 17,
+        "Kennedy": 18,
+        "Souter": 17,
+        "Thomas": 16,
+        "Ginsburg": 17,
+        "Breyer": 18
+      },
+      "last_counted": {
+        "case": "Wiggins v. Smith",
+        "date": "2003-06-26"
+      },
+      "existing_same_date_included": []
+    },
+    {
+      "date": "2003-06-30",
+      "case": "Burdine v. Johnson",
+      "counted_records": 158,
+      "author_credits": 159,
+      "counts": {
+        "Stone-Zsela": 20,
+        "Stevens": 17,
+        "O'Connor": 18,
+        "Scalia": 17,
+        "Kennedy": 18,
+        "Souter": 17,
+        "Thomas": 17,
+        "Ginsburg": 17,
+        "Breyer": 18
+      },
+      "last_counted": {
+        "case": "Bragg v. West Virginia Coal Association",
+        "date": "2003-06-30"
+      },
+      "existing_same_date_included": [
+        "Bragg v. West Virginia Coal Association"
+      ]
+    },
+    {
+      "date": "2003-06-30",
+      "case": "Holland ex rel. Overdorff v. Harrington",
+      "counted_records": 159,
+      "author_credits": 160,
+      "counts": {
+        "Stone-Zsela": 20,
+        "Stevens": 17,
+        "O'Connor": 18,
+        "Scalia": 17,
+        "Kennedy": 18,
+        "Souter": 18,
+        "Thomas": 17,
+        "Ginsburg": 17,
+        "Breyer": 18
+      },
+      "last_counted": {
+        "case": "Eichorn v. AT&T Corp.",
+        "date": "2003-06-30"
+      },
+      "existing_same_date_included": [
+        "Bragg v. West Virginia Coal Association",
+        "Eichorn v. AT&T Corp."
+      ]
+    }
+  ],
+  "limitation": "These are classifications and arithmetic from already completed Records. New earlier-effective or alphabetically prior same-day signed merits opinions must be added before each actual assignment. No new author choice or legal join is made here."
+}

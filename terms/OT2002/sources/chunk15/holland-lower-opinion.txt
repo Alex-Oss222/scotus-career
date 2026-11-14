@@ -1,0 +1,577 @@
+Source: https://law.resource.org/pub/us/case/reporter/F3/268/268.F3d.1179.99-1373.html
+
+268 F.3d 1179
+
+268 F.3d 1179 (10th Cir. 2001)
+
+SHELBY PAIGE HOLLAND, a minor, by and through her next friend and parent Tessa Kay Overdorff; MARTY SHANE HOLLAND, a minor, by and through his next friend and parent Tessa Kay Overdorff; ANTHONY SCOTT "SCOTTY" HOLLAND, a minor, by and through his next friend and parent, Tonie Pauline Heflin; KRISTY DENISE HOLLAND DANE; RANDY JOE HOLLAND; TESSA KAY OVERDORFF; TONIE PAULINE HEFLIN; SAMUEL ALLEN HEFLIN, Plaintiffs - Appellees,
+v.
+ROBIN S. HARRINGTON, individually, and in her official capacity as Undersheriff of La Plata County, Colorado; DUKE SCHIRARD, individually, and in his official capacity as the Sheriff of La Plata County, Colorado; KELLY DAVIS, individually, and in his official capacity as a deputy sheriff of the La Plata County Sheriff's Department, Defendants - Appellants.
+
+No. 99-1373
+
+UNITED STATES COURT OF APPEALS TENTH CIRCUIT
+
+October 19, 2001
+
+      1
+
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE DISTRICT OF COLORADO (D.C. NO. 98-B-229)[Copyrighted Material Omitted][Copyrighted Material Omitted][Copyrighted Material Omitted]
+
+      2
+
+Theodore S. Halaby (Sue Ann Haskell, with him on the brief) of Halaby, Cross & Schluter, Denver, Colorado, for Defendants-Appellants.
+
+      3
+
+William E. Zimsky, of Abadie & Zimsky, LLC, Durango, Colorado, for the Plaintiffs-Appellees.
+
+      4
+
+Before HENRY and BRISCOE, Circuit Judges; and JENKINS, Senior District Judge.*
+
+      5
+
+JENKINS, Senior District Judge.
+
+      6
+
+Plaintiffs brought this civil rights action under 42 U.S.C.  1983, alleging that the La Plata County Sheriff's Department SWAT Team subjected them to excessive force in violation of the Fourth Amendment's guarantee that persons be free from unreasonable searches and seizures. Defendants-appellants Robin S. Harrington, Duke Schirard and Kelly Davis appeal the district court's order denying in part their motion for summary judgment based on the defense of qualified immunity. We exercise jurisdiction pursuant to 28 U.S.C.  1291 and affirm in part, reverse in part and remand.
+
+FACTUAL BACKGROUND
+
+      7
+
+On April 14, 1996 at approximately 2:00 a.m., an altercation occurred outside Virginia's Steakhouse, a restaurant located in La Plata County, Colorado. According to the victims and some witnesses, several men assaulted a group of patrons, throwing them to the ground where they were kicked and beaten, often by several men at once. During their investigation of the incident, La Plata County Sheriff's Department officers learned the names of several suspects, including Samuel "Sammy" Allen Heflin. The Sheriff's Department obtained warrants for Heflin's arrest on misdemeanor assault and reckless endangerment charges, and to search his residence and other buildings located on his property, looking for a black cowboy hat, Marlboro cigarette packages, a bloody shirt, restaurant receipts, and other items believed to be evidence tying Heflin and others to the assaults. The search warrant authorized a search "at any time, day or night," but did not contain language authorizing a "no knock" entry.
+
+      8
+
+Several hours beforehand, Sheriff Duke Schirard authorized the use of the Sheriff's Department SWAT Team, comprised of ten deputy sheriffs led by defendant Kelly Davis, to serve the warrants on the evening of April 16, 1996. Undersheriff Robin Harrington accompanied Sheriff Schirard to the Heflin residence, bringing with her copies of the warrants.
+
+      9
+
+At approximately 8:30 p.m. on April 16, the SWAT Team executed the warrants. Seven SWAT Team members dressed in green camouflage clothing with no identifying markings and hoods showing only their eyes approached the residence, together with defendant Davis.1 Three uniformed deputies were also present.
+
+      10
+
+Randy Joe Holland,18, Marty Shane Holland, 8, and Ray Walker, 24, were playing basketball in the driveway. Three SWAT Team deputies approached rapidly, brandishing weapons; one of them pointed his weapon at the three young men and ordered them to lie face down on the ground, and continued pointing his weapon at them as they lay there.2
+
+      11
+
+Three SWAT deputies next encountered Anthony "Scotty" Holland, 14, near the bunkhouse and at gunpoint ordered him to lie on the ground. He was kept in a prone position for nearly 10 minutes.
+
+      12
+
+Also outdoors when the SWAT Team arrived was four-year-old Shelby Paige Holland, who upon seeing the armed deputies in their combat costumes, ran screaming into the residence, pursued by SWAT deputies. According to the plaintiffs, one SWAT deputy pursued the child inside the house, training his laser-sighted weapon on the child's back as evidenced by the tell-tale glowing red dot.
+
+      13
+
+The SWAT deputies then entered the residence, though it remains in dispute whether they knocked and announced their presence, or in any way identified themselves as law enforcement officers.3 At the time that the SWAT Team entered, there were five persons inside: "Sammy" Heflin and his wife Tonie were seated at the dining room table; Kristi Holland Dane was in the kitchen; and Tessa Sliter4 (Shelby Holland's mother) and Helen Kennedy were in a back bedroom.
+
+      14
+
+SWAT deputies ordered Sammy Heflin, Tonie Heflin and Kristi Dane at gunpoint to lie face down on the living room floor.5 SWAT deputies also followed Shelby Holland into the back bedroom and held Tessa Sliter and Helen Kennedy at gunpoint, moving them from the back bedroom into the living room.
+
+      15
+
+All persons found outdoors or inside the residence were held in the living room by SWAT deputies until a "wants and warrants" check was completed on each one. Meanwhile, the deputies conducted a search of the Heflin property.6 When the check was completed, the deputies told them they could leave, with the exception of Sammy Heflin, who was placed under arrest pursuant to the warrant. Everyone else then left the residence and went to the home of Mike Beatty (Tonie Heflin's brother).
+
+      16
+
+Several empty packs of Marlboro Light cigarettes were found in vehicles on the Heflin property, but no bloody clothing was discovered. (Appellant App. at 262.) Plaintiffs allege that nothing found at the Heflin residence on April 16 was offered as evidence at the subsequent trial of Sammy Heflin.
+
+      17
+
+Sammy Heflin was acquitted of the misdemeanor charges.
+
+      18
+
+The district court granted summary judgment in favor of the La Plata County Sheriff's Department, and on qualified immunity grounds in favor of Schirard, Harrington and Davis on plaintiffs' "excessive force" claims arising from the April 16 raid, except as to the reasonableness of (1) the decision to employ the SWAT Team; (2) the SWAT Team's use of weapons against minor children, and (3) the officers' alleged failure to "knock and announce" their entry into the Heflin residence.
+
+      19
+
+* In civil rights actions seeking damages from governmental officials, "those officials may raise the affirmative defense of qualified immunity, which protects 'all but the plainly incompetent or those who knowingly violate the law.' " Gross v. Pirtle, 245 F.3d 1151, 1155 (10th Cir. 2001) (quoting Malley v. Briggs, 475 U.S. 335, 341 (1986)). The protection of qualified immunity gives officials "'a right, not merely to avoid "standing trial," but also to avoid the burdens of "such pretrial matters as discovery."'" Id. (quoting Behrens v. Pelletier, 516 U.S. 299, 308 (1996) (quoting Mitchell v. Forsyth, 472 U.S. 511, 526 (1985))).
+
+      20
+
+Where the defendant seeks qualified immunity, a ruling on that issue should be made early in the proceedings so that the costs and expenses of trial are avoided where the defense is dispositive. Qualified immunity is "an entitlement not to stand trial or face the other burdens of litigation." Mitchell v. Forsyth, 472 U.S. 511, 526 (1985). The privilege is "an immunity from suit rather than a mere defense to liability; and like an absolute immunity, it is effectively lost if a case is erroneously permitted to go to trial." Ibid. As a result, "we repeatedly have stressed the importance of resolving immunity questions at the earliest possible stage in litigation." Hunter v. Bryant, 502 U.S. 224, 227 (1991) (per curiam).
+
+      21
+
+Saucier v. Katz, 121 S. Ct. 2151, 2155-56 (June 18, 2001) (emphasis in original).
+
+      22
+
+We review de novo the denial of a summary judgment motion raising qualified immunity questions. Gross, 245 F.3d at 1155; Wilson v. Meeks, 52 F.3d 1547, 1551 (10th Cir. 1995). "Because of the underlying purposes of qualified immunity, we review summary judgment orders deciding qualified immunity questions differently from other summary judgment decisions." Medina v. Cram, 252 F.3d 1124, 1128 (10th Cir. 2001) "After a defendant asserts a qualified immunity defense, the burden shifts to the plaintiff," and the plaintiff "must first establish that the defendant's actions violated a constitutional or statutory right." Id.
+
+      23
+
+A court required to rule upon the qualified immunity issue must consider, then, this threshold question: Taken in the light most favorable to the party asserting the injury, do the facts alleged show the officer's conduct violated a constitutional right? This must be the initial inquiry. Siegert v. Gilley, 500 U.S. 226, 232 (1991). In the course of determining whether a constitutional right was violated on the premises alleged, a court might find it necessary to set forth principles which will become the basis for a holding that a right is clearly established. This is the process for the law's elaboration from case to case, and it is one reason for our insisting upon turning to the existence or nonexistence of a constitutional right as the first inquiry. The law might be deprived of this explanation were a court simply to skip ahead to the question whether the law clearly established that the officer's conduct was unlawful in the circumstances of the case.
+
+      24
+
+Saucier, 121 S. Ct. at 2156.
+
+      25
+
+If a "favorable view" of the facts alleged show the violation of a constitutional right, "the next, sequential step is to ask whether the right was clearly established" at the time of the defendant's unlawful conduct. Id.; Albright v. Rodriguez, 51 F.3d 1531, 1534 (10th Cir. 1995). In determining whether the right was "clearly established," the court assesses the objective legal reasonableness of the action at the time of the alleged violation and asks whether "'the contours of the right [were] sufficiently clear that a reasonable official would understand that what he is doing violates that right.'" Id. (quoting Anderson v. Creighton, 483 U.S. 635, 640 (1987)). "The relevant, dispositive inquiry in determining whether a right is clearly established is whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted." Id. (citing Wilson v. Layne, 526 U.S. 603, 615 (1999)).
+
+      26
+
+Applying the same standards as the district court, we must determine whether the plaintiff has satisfied this "heavy two-part burden." Albright, 51 F.3d at 1534. If the plaintiff fails to satisfy either part of the two-part inquiry, the court must grant the defendant qualified immunity. Id. at 1535. Conversely,
+
+      27
+
+If the plaintiff successfully establishes the violation of a clearly established right, the burden shifts to the defendant, who must prove "'that there are no genuine issues of material fact and that he or she is entitled to judgment as a matter of law.'". . . In short, although we will review the evidence in the light most favorable to the nonmoving party, . . . the record must clearly demonstrate the plaintiff has satisfied his heavy two-part burden; otherwise, the defendants are entitled to qualified immunity.
+
+      28
+
+Medina, 252 F.3d at 1128 (citations omitted).
+
+      29
+
+A district court's denial of a defendant's summary judgment motion based on qualified immunity represents "an immediately appealable collateral order when the issue appealed concerns whether certain facts demonstrate a violation of clearly established law," rather than questions of the sufficiency of the evidence. Id. at 1130 (citing Mitchell v. Forsyth, 472 U.S. 511, 527-28 (1985)).7 Even when the district court concludes issues of material fact exist, "we have reviewed the legal question of whether a defendant's conduct, as alleged by the plaintiff, violates clearly established law. . . ." Id. at 1130 (citations omitted).
+
+II
+
+      30
+
+Plaintiffs allege that their Fourth Amendment right to be free from unreasonable searches and seizures8 was violated when the Sheriff's Department SWAT Team seized each of them using excessive force. They seek to hold defendants-appellants Schirard, Harrington and Davis liable for that violation because of their respective roles in planning and carrying out the April 16 raid. Schirard, Harrington and Davis respond that no Fourth Amendment violation occurred because (1) the plaintiffs (except Sammy Heflin) were not "seized" during the raid; (2) no plaintiff suffered physical harm from the actions of the officers conducting the raid; and (3) the planning of the raid, including the decision to employ a SWAT team, falls beyond the scope of the protection afforded by the Fourth Amendment.
+
+Supervisory Liability of Davis
+
+      31
+
+Kelly Davis, was supervisor of the SWAT Team and was present at the scene throughout the April 16 raid, and may be held liable for the alleged unconstitutional acts of his subordinates if plaintiffs-appellees demonstrate an "affirmative link" through facts showing that he actively participated or acquiesced in the constitutional violation. See Winters v. Board of County Comm'rs, 4 F.3d 848, 855 (10th Cir. 1993) (citing Rizzo v. Goode, 423 U.S. 362 (1976)); Snell v. Tunnell, 920 F.2d 673, 700 (10th Cir. 1990) ("For supervisory liability [in a  1983 action], plaintiffs must demonstrate an affirmative link between the supervisor's conduct and the constitutional deprivation."). A plaintiff may show that "'an affirmative link exists between the [constitutional] deprivation and either the supervisor's personal participation, his exercise of control or direction, or his failure to supervise.'" Worrell v. Henry, 219 F.3d 1197, 1214 (10th Cir. 2000) (quoting Meade v. Grubbs, 841 F.2d 1512, 1527 (10th Cir.1988) (quotation omitted)); see Snell, 920 F.2d at 700 ("Plaintiffs must show that a supervisory defendant, expressly or otherwise, authorized, supervised, or participated in conduct which caused the constitutional deprivation.").
+
+      32
+
+Plaintiffs-appellees argue that Davis failed to direct the SWAT deputies under his command to conduct the execution of the warrants in a constitutionally appropriate manner, and that Davis' failure to supervise provides the affirmative link between Davis' conduct and the SWAT deputies' use of excessive force.
+
+      33
+
+Whether Plaintiffs were "Seized"
+
+      34
+
+"Violation of the Fourth Amendment requires an intentional acquisition of physical control." Brower v. County of Inyo, 489 U.S. 593, 596 (1989). One need not be the target of a search or be the person named in an arrest warrant to be "seized" within the meaning of the Fourth Amendment: "A seizure occurs even when an unintended person or thing is the object of the detention or taking, . . . but the detention or taking itself must be willful." Id. (citations omitted). Thus, each of the plaintiffs was "seized" during the April 16 raid if "there is a governmental termination of [plaintiff's] freedom of movement through means intentionally applied," regardless of whether he or she was the subject of an arrest warrant or was ultimately placed under arrest. Id. at 597 (emphasis in original).9
+
+      35
+
+We are satisfied that the uncontroverted facts before the district court show that each of the plaintiffs was "seized" within the meaning of the Fourth Amendment during the April 16 raid. Physical force was intentionally applied by the Sheriff's Department SWAT Team and each of the plaintiffs submitted to that show of authority until Lieutenant Davis informed them that they were free to leave. (Mr. Heflin, of course, was formally placed under arrest and taken into custody.)
+
+Fourth Amendment Reasonableness
+
+      36
+
+Tennessee v. Garner, 471 U.S. 1, 7 (1985), makes it clear that the Fourth Amendment requires an examination of "the reasonableness of the manner in which a search or seizure is conducted[:]"
+
+      37
+
+To determine the constitutionality of a seizure "[w]e must balance the nature and quality of the intrusion on the individual's Fourth Amendment interests against the importance of the governmental interests alleged to justify the intrusion." United States v. Place, 462 U.S. 696, 703 (1983); . . . We have described "the balancing of competing interests" as "the key principle of the Fourth Amendment." Michigan v. Summers, 452 U.S. 692, 700 n.12 (1981). . . . Because one of the factors is the extent of the intrusion, it is plain that reasonableness depends on not only when a seizure is made, but also how it is carried out. . . .
+
+      38
+
+471 U.S. at 8 (emphasis added & some citations omitted). Garner plainly rejected the view that the Fourth Amendment has nothing to say about how a seizure is made. To the contrary, a court must scrutinize whether "the totality of the circumstances justified a particular sort of search or seizure." Id. at 9.10
+
+      39
+
+The reasonableness of an officer's conduct must be assessed "from the perspective of a reasonable officer on the scene," recognizing the fact that the officer may be "forced to make split-second judgments" under stressful and dangerous conditions. . . . The Fourth Amendment standard requires inquiry into the factual circumstances of every case; relevant factors include the crime's severity, the potential threat posed by the suspect to the officer's and others' safety, and the suspect's attempts to resist or evade arrest. . . .
+
+      40
+
+Gross, 245 F.3d at 1158 (citing Graham v. Connor, 490 U.S. 386, 396-97 (1989)) (citations omitted).
+
+      41
+
+Fourth Amendment Reasonableness and the April 16th Raid
+
+      42
+
+Taking the April 16th raid on the Heflin residence and the resulting seizures of persons in the light most favorable to the parties asserting the injury, "do the facts alleged show the officer[s]' conduct violated a constitutional right?" Saucier, 121 S. Ct. at 2156.
+
+      43
+
+The district court ruled that the facts alleged do not show a violation of constitutional right, with three exceptions: (1) the decision to employ the SWAT Team; (2) the SWAT Team's use of weapons against minor children, and (3) the officers' alleged failure to "knock and announce" their entry into the Heflin residence.
+
+      44
+
+(1) The Decision to Use the SWAT Team
+
+      45
+
+We must decide whether Fourth Amendment scrutiny extends to the planning of an arrest by law enforcement officials and in particular, to the decision to employ a SWAT team to make an arrest on a misdemeanor warrant and to conduct a search of a residence. The district court held that it does, and denied summary judgment in favor of Schirard, Harrington, and Davis because the facts underlying the issue of reasonableness remain in dispute.
+
+      46
+
+In Medina v. Cram, this court recently reaffirmed that the "totality of the circumstances" surrounding a seizure embraces conduct "immediately connected with the seizure," such as police conduct "arguably creating the need for force" where use of excessive force has been alleged. 252 F.3d at 1132; accord, Bella v. Chamberlain, 24 F.3d 1251, 1256 (10th Cir. 1994) ("Obviously, events immediately connected with the actual seizure are taken into account in determining whether the seizure is reasonable.").
+
+      47
+
+Schirard, Harrington and Davis contend that the decision to employ the SWAT Team to execute the Heflin search and arrest warrants and the planning of the April 16 raid on the Heflin residence were not conduct "immediately connected with the seizure" of the plaintiffs-appellees during the raid itself, and are therefore beyond the reach of the Fourth Amendment.11 Moreover, they argue that plaintiffs-appellees cannot show that a reasonable officer would have known on April 16, 1996 that the decision to employ a SWAT team to execute a misdemeanor arrest warrant in and of itself would violate plaintiffs-appellees' Fourth Amendment rights, in light of the clearly established law of this or other circuits at that time. Consequently, they insist that they are entitled to qualified immunity and that the district court's order denying summary judgment in their favor should be reversed.
+
+      48
+
+Plaintiffs-appellees point to no Supreme Court or Tenth Circuit case authority squarely addressing this issue.12 Authority from other circuits proves to be sparse at best.13
+
+      49
+
+Andrade v. Chojnacki, 65 F. Supp. 2d 431 (W.D. Tex. 1999), was a Federal Tort Claims Act case arising out of two organized assaults by federal law enforcement officers on the Branch Davidian compound in Waco, Texas in February and April of 1993. The Andrade court concluded that plaintiffs' claims as to the planning of these "dynamic entry" operations failed to state a claim under the Fourth Amendment, observing that "[t]he decision to use 'dynamic' entry is not, in and of itself, a violation of the Fourth Amendment." Id. at 457 (no citation to authority). Further, "[t]here are absolutely no specific facts contained in Plaintiffs' complaints that would suggest that any of the named Defendants planned any activity for the specific purpose of causing harm to the Davidians." Id. Thus, Andrade suggests that to be actionable under the Fourth Amendment, the facts surrounding the planning of a "dynamic entry" operation must show that the planning included the specific intent to cause harm through the use of excessive force.
+
+      50
+
+In Williams v. Richmond County, Georgia, 804 F. Supp. 1561 (S.D. Ga. 1992), the court observed that "[m]erely deploying the SWAT team was not an unreasonable seizure which raises constitutional problems. Even if law enforcement officials here arguably erred in judgment when they decided on a plan that employed potentially deadly force," the court continued, "such evidence falls short of a showing that there was no plausible basis in this instance for the officials' belief that this degree of force might be necessary." Id. at 1569.
+
+      51
+
+The decision to deploy a SWAT team to execute a warrant necessarily involves the decision to make an overwhelming show of force--force far greater than that normally applied in police encounters with citizens. Indeed, it is the SWAT team's extraordinary and overwhelming show of force that makes "dynamic entry" a viable law enforcement tactic in dealing with difficult and dangerous situations.
+
+      52
+
+The decision to use a SWAT team to make a "dynamic entry" into a residence constitutes conduct "immediately connected with the seizure" because it determines the degree of force initially to be applied in effecting the seizure itself. If, as Garner instructs, "it is plain that reasonableness depends on not only when a seizure is made, but also how it is carried out," 471 U.S. at 8, then the decision to deploy a SWAT team to execute a warrant must be "reasonable" because it largely determines how the seizure is carried out, thereby determining the extent of the intrusion on the individual's Fourth Amendment interests. Both Williams and Andrade examined the reasonableness of the decision to deploy a SWAT team in each case, rather than placing that decision beyond Fourth Amendment scrutiny altogether.
+
+      53
+
+Where a plaintiff claims that the use of a SWAT team to effect a seizure itself amounted to excessive force, we review the decision to use that degree of force by "balanc[ing] the nature and quality of the intrusion on the individual's Fourth Amendment interests against the importance of the governmental interests alleged to justify the intrusion." Garner, 471 U.S. at 8 (internal quotation omitted).
+
+      54
+
+In this case, Schirard, Harrington and Davis assert that several considerations counseled in favor of deploying the SWAT Team to execute the Heflin warrants:
+
+      55
+
+The situation at plaintiff Sammy Heflin's compound that day was potentially very dangerous to all parties on the scene, officers and civilians alike. The SWAT team members knew there would probably be children there, and were concerned about their safety. . . . The SWAT team knew that plaintiff Sammy Heflin had a history of violence. . . . The SWAT team knew that several other individuals who resided in the 60-acre compound had histories of criminal violence. . . . The SWAT team was unsure of the total number of adults who resided at the compound, but suspected there were as many as seven or eight. . . . The SWAT team suspected there would be firearms in the residence. . . . The SWAT team's goal was to effect the arrest and search warrant quickly, without injury, and to preserve evidence. And, the SWAT team was successful--no shots were fired and no one was injured.
+
+      56
+
+(Appellants' Brief at 22 (citations omitted).)
+
+      57
+
+The plaintiffs-appellees strongly dispute the accuracy of this characterization of the facts, pointing out that the raid involved a misdemeanor warrant, that the officers "knew that Sam Heflin had no criminal record and that none of the suspects lived at the Heflin home." (Appellees' Brief at 45.) Furthermore, the officers "had no reason to believe that anyone they ... believe[d] lived at the Heflin home would physically resist arrest," or "to believe that Sam Heflin would physically resist arrest. In fact, they knew him to be cooperative in his previous dealings with them to the point of being 'polite.'" (Id.) They argue that the decision to use the SWAT Team was made--in Harrington's words--in order to "teach this piece of sh** a lesson." (Id. at 6, 44.) They also assert that Schirard decided to use the SWAT team to preserve physical evidence sought pursuant to the search warrant, even though that evidence could not easily be destroyed.. (Id. at 8, 40-43.)
+
+      58
+
+Viewed most favorably to those claiming injury, the facts alleged by plaintiffs-appellees nevertheless do not show that by itself, the display of force inherent in the deployment of the SWAT team--the force invoked by the decision to deploy-- was excessive under Fourth Amendment standards. Nor can it fairly be said that Schirard, Harrington and Davis lacked any plausible basis for believing that "dynamic entry" was warranted in this situation. As they had anticipated, the deputies executing the warrants encountered several persons besides Sam Heflin both inside and outside the house on the Heflin property, and firearms were found at the residence. There existed the possibility of an altercation, but given the SWAT team's swift action, no such incident actually occurred. In hindsight, plaintiffs argue that an altercation was highly unlikely to occur, but we are not prepared to conclude that the Sheriff's concerns prior to the April 16 raid were so unwarranted as to render "dynamic entry" by itself an excessive use of force.
+
+      59
+
+The specific conduct of the SWAT deputies during the April 16 raid is another matter, but plaintiffs did not show that Schirard, Harrington or Davis decided to use the SWAT team knowing that the SWAT team would use excessive force, intending to cause harm to any person, or that they instructed the SWAT team to use excessive force while conducting the April 16 raid. Absent such facts, no violation of a constitutional right arising from the decision to deploy the SWAT Team to execute the warrants has been established.14
+
+      60
+
+The district court erred in denying summary judgment in favor of Schirard, Harrington and Davis on qualified immunity as to this claim. As this was the only remaining basis of liability for Schirard and Harrington, they should be dismissed from the action.
+
+      61
+
+(2) Display and Pointing of Firearms at Children
+
+      62
+
+The Sheriff deployed the SWAT Team on April 16 to conduct a search and to arrest one individual at a residence pursuant to lawful warrants. The officers knew in advance that other persons, including children would be present. In conducting the search and effecting the seizure of Sammy Heflin, the SWAT deputies held each of the plaintiffs-appellees at gunpoint, initially forcing several of them to lie down on the ground for ten to fifteen minutes, and ultimately gathering all of them in the living room of the residence where they were held until all but Mr. Heflin were released.
+
+      63
+
+The district court acknowledged that "the right to arrest an individual carries with it the right to use some physical coercion to effect the arrest," and that it is "not unreasonable for officers to carry weapons or to take control of a situation by displaying their weapons." (Order, dated August 3, 1999, at 16 (citing Thompson v. City of Lawrence, Kansas, 58 F.3d 1511, 1516 (10th Cir. 1995)).) However, the district court concluded that "the undisputed testimony that the SWAT team pointed weapons at young children during the entry" raised a triable issue as to reasonableness, and denied defendants' motion for summary judgment (Id.)
+
+      64
+
+The district court's conclusion as to reasonableness finds support in prior case law. In Baker v. Monroe Township, 50 F.3d 1186 (3d Cir. 1995), police officers detained four persons, two of whom were minors, who were approaching a house that was the subject of a drug raid. The officers ordered the four down on the ground, handcuffed them, and held them at gunpoint. The Third Circuit held their continued detention at gunpoint to be unreasonable; the four persons had not attempted to resist or interfere, and there was "simply no evidence of anything that should have caused the officers to use the kind of force they are alleged to have used." Id. at 1193.
+
+      65
+
+In McDonald v. Haskins, 966 F.2d 292 (7th Cir. 1992), the Seventh Circuit held that a police officer violated Fourth Amendment rights by aiming his firearm at the head of a nine-year-old boy and threatening to pull the trigger. The child "was not being arrested, nor was he even suspected of committing a crime," and posed no threat to the officer, other officers or the community. Id. at 294 (citing Black v. Stephens, 662 F.2d 181, 189 (3d Cir. 1981) ("For an unidentified officer to brandish his revolver eighteen inches from [the subject]'s head with [his wife] in the precise line of fire and then threaten to shoot, is conduct that shocks the conscience.")).
+
+      66
+
+The display of weapons, and the pointing of firearms directly at persons inescapably involves the immediate threat of deadly force. Such a show of force should be predicated on at least a perceived risk of injury or danger to the officers or others, based upon what the officers know at that time. "These are the very ingredients relevant to an excessive force inquiry." McDonald, 966 F.2d at 294. Where a person has submitted to the officers' show of force without resistance, and where an officer has no reasonable cause to believe that person poses a danger to the officer or to others, it may be excessive and unreasonable to continue to aim a loaded firearm directly at that person, in contrast to simply holding the weapon in a fashion ready for immediate use. Pointing a firearm directly at a child calls for even greater sensitivity to what may be justified or what may be excessive under all the circumstances.
+
+      67
+
+In McDonald, the Seventh Circuit explained:
+
+      68
+
+It should have been obvious to Haskins that his threat of deadly force--holding a gun to the head of a 9-year-old and threatening to pull the trigger--was objectively unreasonable given the alleged absence of any danger to Haskins or other officers at the scene and the fact that the victim, a child, was neither a suspect nor attempting to evade the officers or posing any other threat. As we observed in Lester, 830 F.2d at 711, "Although the issue in Garner was deadly force, implicit in its totality of the circumstances approach is that police use of less than deadly force would violate the Fourth Amendment if not justified under the circumstances."
+
+      69
+
+966 F.2d at 295.
+
+      70
+
+Taken in the light most favorable to the plaintiffs-appellees, the facts alleged concerning the pointing of firearms at the child bystanders found at the Heflin residence on April 16, 1996 show the officers' conduct violated a constitutional right. While the SWAT Team's initial show of force may have been reasonable under the circumstances, continuing to hold the children directly at gunpoint after the officers had gained complete control of the situation outside the residence was not justified under the circumstances at that point. This rendered the seizure of the children unreasonable, violating their Fourth Amendment rights.
+
+      71
+
+(3) Failure to "Knock and Announce"
+
+      72
+
+Whether the SWAT deputies announced their identity before entering the Heflin residence on April 16 remains in genuine dispute. The question appears to be one of the sufficiency of the evidence to support plaintiffs-appellees' allegations. The witnesses recall events differently, and the trier of fact must decide whose testimony as to the event is to be believed. Even where issues of material fact exist, however, we may review the legal question of "whether a defendant's conduct, as alleged by the plaintiff, violates clearly established law." Medina, 252 F.3d at 1130 (citations omitted).
+
+      73
+
+In reviewing that "legal question," the reasonableness of the alleged failure to knock and announce cannot be considered in isolation. We are called upon to evaluate one event, a single occurrence, in light of the applicable standards of conduct and the totality of the circumstances surrounding that single event.
+
+      74
+
+Taking the facts alleged by plaintiffs-appellees as true, and considering the totality of the circumstances thus alleged, those facts show a violation of clearly established constitutional rights. See Wilson v. Arkansas, 514 U.S. 927, 936 (1995). Though the Fourth Amendment "should not be read to mandate a rigid rule of announcement," Wilson squarely holds that "an officer's unannounced entry into a home might be unreasonable under the Fourth Amendment," at least absent a sufficient showing of countervailing law enforcement interests. Id. at 934.
+
+      75
+
+The genuine factual dispute concerning whether the officers announced their presence as they entered the Heflin residence has a direct bearing upon the Fourth Amendment reasonableness of the ensuing search. Other alleged facts, such as the officers' demeanor, bear upon Fourth Amendment reasonableness as well.
+
+      76
+
+(4) Harsh Language
+
+      77
+
+The district court rejected plaintiffs-appellees' claim that the SWAT deputies' use of foul and abusive language during the April 16 raid violated their Fourth Amendment rights. This allegation, too, may not be treated in isolation from the totality of the circumstances.
+
+      78
+
+While "[n]ot every push or shove, even if it may later seem unnecessary in the peace of a judge's chambers, violates the Fourth Amendment," Graham, 490 U.S. at 396, "[p]ushes and shoves, like other police conduct, must be judged under the Fourth Amendment standard of reasonableness." Saucier, 121 S. Ct. at 2160. The whole course of conduct of an officer in making an arrest or other seizure--including verbal exchanges with a subject--must be evaluated for Fourth Amendment reasonableness in light of the totality of the circumstances.
+
+      79
+
+Of course, in conducting a search or making a seizure, "The risk of harm to both the police and the occupants is minimized if the officers routinely exercise unquestioned command of the situation." Michigan v. Summers, 452 U.S. 692, 702 (1981). Simple instructions spoken in a firm, commanding tone of voice communicate clearly what an officer wants a subject to do, and likely would be most effective, particularly in dealing with bystanders and children.
+
+      80
+
+In contrast, expletives communicate very little of substance beyond the officer's own personal animosity, hostility or belligerence. Such animus would be entirely misplaced in dealing with bystanders or children, particularly where they have offered no resistance to the officers' initial show of force.
+
+      81
+
+One can be firm and direct without being foul and abusive.
+
+      82
+
+In evaluating the Fourth Amendment reasonableness of a seizure, the officers' verbal interaction as well as their physical conduct become part of the totality of the circumstances to be considered. While it seems unlikely that harsh language alone would render a search or seizure "unreasonable," verbal abuse may be sufficient to tip the scales in a close case.
+
+Violation of Fourth Amendment Rights
+
+      83
+
+Outfitting sheriff's deputies in hooded combat fatigues, arming them with laser-sighted weapons and ordering them to conduct the "dynamic entry" of a private home does not exempt their conduct from Fourth Amendment standards of reasonableness. The "SWAT" designation does not grant license to law enforcement officers to abuse suspects or bystanders, or to vent in an unprofessional manner their own pent-up aggression, personal frustration or animosity toward others.15
+
+      84
+
+If anything, the special circumstances and greater risks that warrant "dynamic entry" by a SWAT team call for more discipline, control, mindfulness, and restraint on the part of law enforcement, not less. SWAT officers are specially trained and equipped to deal with a variety of difficult situations, including those requiring a swift and overwhelming show of force. At all times, SWAT officers no less than others--dressed in camouflage or not--must keep it clearly in mind that we are not at war with our own people.
+
+      85
+
+Nor does the fact that none of the plaintiffs suffered physical injury during the raid foreclose a finding of excessive force.
+
+      86
+
+Pointing to Bella v. Chamberlain, 24 F.3d 1251, 1257 (10th Cir. 1994), in which this court noted that "we have never upheld an excessive force claim without some evidence of physical injury," Davis insists that plaintiffs' claims must fail. (Reply Brief at 12.)
+
+      87
+
+Physical injury may be the most obvious injury that flows from the use of excessive force. Yet the interests protected by the Fourth Amendment are not confined to the right to be secure against physical harm; they include liberty, property and privacy interests--a person's "sense of security" and individual dignity. No physical injury was pleaded in Baker or McDonald. Nor was physical injury alleged in Bivens v. Six Unknown Named Agents, 403 U.S. 388 (1971), which held that officers may be held liable in damages for violating persons' Fourth Amendment rights, including the use of unreasonable force.
+
+      88
+
+Keeping in mind that the "'touchstone of the Fourth Amendment is reasonableness,'. . . measured in objective terms by examining the totality of the circumstances," the Supreme Court has "consistently eschewed bright-line rules, instead emphasizing the fact-specific nature of the reasonableness inquiry." Ohio v. Robinette, 519 U.S. 33, 39 (1996) (citation omitted). We likewise decline to adopt a "bright-line" standard dictating that force cannot be "excessive" unless it leaves visible cuts, bruises, abrasions or scars.16
+
+      89
+
+Taken in the light most favorable to the party asserting the injury, the facts alleged in this case show that the conduct of the La Plata County Sheriff's Department SWAT Team violated plaintiffs-appellees' Fourth Amendment rights.
+
+III
+
+      90
+
+As Saucier instructs, "the next, sequential step is to ask whether the right was clearly established." 121 S.Ct. at 2156.
+
+      91
+
+"Clearly Established" Rights
+
+      92
+
+Having determined as a preliminary matter that the conduct of the SWAT deputies alleged by plaintiffs-appellees violated a constitutional right, we must consider whether that alleged conduct violates "clearly established" law.
+
+      93
+
+The Fourth Amendment's guarantee that people shall "be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures" has been part of our Constitution since 1791. The Fourth Amendment reasonableness standard "is 'clearly established' in the context of  1983 actions" involving claims of excessive force. Gross, 245 F.3d at 1158 (citing Wilson, 52 F.3d at 1552). Indeed, "there is no doubt that Graham v. Connor . . . clearly establishes the general proposition that use of force is contrary to the Fourth Amendment if it is excessive under objective standards of reasonableness." Saucier, 121 S. Ct. at 2156.
+
+      94
+
+The "knock and announce" requirement acknowledged by the Supreme Court in Wilson predates the April 16, 1996 raid by nearly a year, as does Baker and prior case law (e.g., McDonald, Black) dealing with the display and pointing of weapons.
+
+      95
+
+As a general proposition, the law that a search or seizure must be objectively "reasonable" under all the circumstances has been "clearly established" for a long time.17 It is also clearly established that police use of less than deadly force in seizing and detaining a person, particularly a bystander not suspected of any wrongdoing, must be justified under all of the circumstances. Lester, 830 F.2d 706, 711 (7th Cir. 1987) ("Police use of less than deadly force would violate the Fourth Amendment if not justified under the circumstances.").
+
+      96
+
+Qualified Immunity, Excessive Force and Reasonable Mistakes
+
+      97
+
+Here, however, the inquiry as to clearly established rights is more specific: "whether it would be clear to a reasonable officer that his conduct was unlawful in the situation he confronted." Saucier, 121 S. Ct. at 2156.
+
+      98
+
+Qualified immunity "operates in this case, then, just as it does in others, to protect officers from the sometimes 'hazy border between excessive and acceptable force,'. . . and to ensure that before they are subjected to suit, officers are on notice their conduct is unlawful." Id. at 2158 (citing Priester v. Riviera Beach, 208 F.3d 919, 926-927 (11th Cir. 2000)). It grants "officers immunity for reasonable mistakes as to the legality of their actions," and in excessive force cases, "in addition to the deference officers receive on the underlying constitutional claim, qualified immunity can apply in the event the mistaken belief was reasonable." Id. at 2159. "Excessive force claims, like most other Fourth Amendment issues, are evaluated for objective reasonableness based upon the information the officers had when the conduct occurred." Id.
+
+      99
+
+The concern of the immunity inquiry is to acknowledge that reasonable mistakes can be made as to the legal constraints on particular police conduct. It is sometimes difficult for an officer to determine how the relevant legal doctrine, here excessive force, will apply to the factual situation the officer confronts. An officer might correctly perceive all of the relevant facts but have a mistaken understanding as to whether a particular amount of force is legal in those circumstances.
+
+      100
+
+Id. at 2158. "If the officer's mistake as to what the law requires is reasonable," Saucier explains, "the officer is entitled to the immunity defense." Id.
+
+      101
+
+How do we evaluate whether a legal mistake is reasonable? A mistake of law may be "reasonable" where the circumstances "disclose substantial grounds for the officer to have concluded he had legitimate justification under the law for acting as he did." Id. at 2159-60.
+
+      102
+
+Here, Davis asserts that the SWAT deputies announced themselves as they entered the Heflin residence. Even if that announcement was not heard in the turmoil of that moment, however, Davis asserts that based on their belief that Sammy Heflin had "recently been involved in a violent assault" and the other circumstances the SWAT team encountered on April 16, the SWAT deputies "were entitled to display their weapons and enter without knocking and announcing as a matter of law." (Reply Brief at 13-14 (citing Graham, 490 U.S. at 397).)
+
+      103
+
+The young people encountered by the SWAT deputies as they entered the Heflin property offered no resistance. They did as they were told. The SWAT deputies' initial show of force gained immediate and unquestioned control of the situation outside the residence. Thereafter, the justification for continuing to hold the young people directly at gunpoint simply evaporated.
+
+      104
+
+Davis argues that "[i]t was not obvious to the officers that the minors would not interfere with their search. . . . Shelby, for example, ran screaming into the house, forcing the SWAT team to follow her in, allegedly without knocking and announcing." (Reply Brief at 13.) But Davis does not explain what facts would suggest to a reasonable officer that the young people detained outside would interfere with the search. None of the facts pointed to by Davis give any reason to believe that the young people posed any kind of threat. Indeed, with no small amount of irony, Davis asserts that continuing to hold the children at gunpoint "protect[ed] the children from the danger inherent in the situation," and that "concerned about" four-year-old Shelby's "safety," an officer trailed her at direct gunpoint only briefly: "the officer's laser shown on her back for, at most, two seconds." (Appellants' Brief at 23.)
+
+      105
+
+We can find no substantial grounds for a reasonable officer to conclude that there was legitimate justification for continuing to hold the young people outside the residence directly at gunpoint after they had completely submitted to the SWAT deputies' initial show of force, or for training a firearm directly upon a four-year-old child at any time during the operation. Davis' supervision of the SWAT deputies during the raid furnishes the affirmative link between this violation and Davis' conduct; it appears uncontroverted that the SWAT deputies continued to point their weapons at the persons found on the Heflin property until Davis directed them to stop doing so at the conclusion of the search.
+
+      106
+
+This violation does not reflect a reasonable mistake of law for which Davis should enjoy the benefits of qualified immunity. This was an invasion of a clearly established constitutional right, and the officers' mistake as to what the law requires was unreasonable under all of the circumstances. Therefore, the district court properly denied summary judgment in favor of Davis on his assertion of qualified immunity.
+
+CONCLUSION
+
+      107
+
+Schirard and Harrington are entitled to summary judgment on qualified immunity as to the decision to deploy the SWAT Team. To that extent, the judgment of the district court is REVERSED, and as this was the only remaining basis of liability for Schirard and Harrington, upon remand they should be dismissed from the action. The judgment of the district court is otherwise AFFIRMED, and the case is REMANDED for further proceedings consistent with this Opinion.
+
+NOTES:
+
+        *
+
+The Honorable Bruce S. Jenkins, United States Senior District Judge for the District of Utah, sitting by designation.
+
+        1
+
+Davis was present during the entire SWAT Team raid, accompanying the SWAT deputies as they approached, entered and remained inside the residence. Plaintiffs aver that they remained at gunpoint during the raid until Davis ordered SWAT deputies to lower or holster their weapons.
+
+Schirard and Harrington arrived on the scene later, as the search was being concluded.
+
+        2
+
+Randy Holland testified that when eight-year-old Marty Holland asked one of the SWAT deputies if they were going to jail, he replied, "Probably." Davis testified that a uniformed officer, Deputy Shupe, remained with the boys.
+
+        3
+
+Plaintiffs allege that at least one SWAT deputy was shouting "get the f*** down!," without any other announcement, while defendant Davis testified that Deputy Sandoval announced two or three times, "Sheriff's Department, search warrant." (Appellant's App. 86-87.)
+
+        4
+
+Also known as Tessa Overdorff.
+
+        5
+
+According to the plaintiffs, Tonie Heflin repeatedly asked what was happening and expressed concern that the deputies were pointing guns with young children present, to which SWAT deputies shouted, "Shut the f*** up!"
+
+        6
+
+When Tonie Heflin asked the deputies if they had a warrant, she testified that defendant Davis responded, "Shut the f*** up." The search warrant itself was delivered to Davis by Harrington shortly after the search was completed.
+
+        7
+
+"An order denying summary judgment based on qualified immunity necessarily involves a legal determination that certain alleged actions violate clearly established law." Gross, 245 F.3d at 1157 (citing Behrens, 516 U.S. at 313).
+
+        8
+
+The Fourth Amendment reads in part: "The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated . . . ." U.S. Const., Amend. IV. This constitutional guarantee is "enforceable against the States through the Fourteenth [Amendment]." Colorado v. Bannister, 449 U.S. 1, 2 (1980)) (per curiam); see also Mapp v. Ohio, 367 U.S. 643 (1961); Wolf v. Colorado, 338 U.S. 45 (1949).
+
+        9
+
+One's freedom of movement is terminated "if, in view of all the circumstances surrounding the incident, a reasonable person would have believed that he was not free to leave,'" id. at 600 (Stevens, J., concurring in the judgment) (quoting United States v. Mendenhall, 446 U.S. 544, 554 n. 6 (1980) (Stewart, J.)), and the police have applied physical force, however slight, or the person has submitted to a show of authority by the police. California v. Hodari D., 499 U.S. 621, 623-29 (1991); see also 1 Wayne R. LaFave, Search and Seizure: A Treatise on the Fourth Amendment  2.1(a) (1996 & Supp. 2000).
+
+        10
+
+The Garner Court ruled that consistent with Fourth Amendment "reasonableness," deadly force may not be used to seize a fleeing suspect "unless it is necessary to prevent the escape and the officer has probable cause to believe that the suspect poses a significant threat of death or serious physical injury to the officer or others." Garner, 471 U.S. at 3. The Court concluded that an officer's fatal shooting of a unarmed burglary suspect fleeing over a fence was not justified under the facts and circumstances in that case and that a state statute authorizing use of such force was unconstitutional. Id. at 21-22.
+
+        11
+
+ Defendants-appellants rely on Carter v. Buscher, 973 F.2d 1328 (7th Cir. 1992), in which the Seventh Circuit rejected a claim that the Fourth Amendment "prohibits creating unreasonably dangerous circumstances in which to effect the legal arrest of a suspect." Id. at 1332. "The Fourth Amendment," Carter said, prohibits unreasonable seizures not unreasonable, unjustified or outrageous conduct in general. . . . Therefore, pre-seizure conduct is not subject to Fourth Amendment scrutiny." Id. (emphasis in original; citations omitted). In Carter, the Seventh Circuit read Garner as beginning its analysis "by identifying the 'seizure.' Then the Court proceeded to examine . . . whether the force used to effect the seizure was reasonable in the totality of the circumstances, not whether it was reasonable for the police to create the circumstances." 973 F.2d at 1332. Carter did not involve the use of a SWAT team to make an arrest.
+
+        12
+
+They rely on Myers v. Oklahoma County Bd. of County Comm'rs, 151 F.3d 1313 (10th Cir. 1998), in which this court examined for Fourth Amendment reasonableness the sheriff's decision that deputies enter the apartment of a suicidal suspect. The panel held the sheriff's decision to be objectively reasonable.
+
+        13
+
+For the law to be "clearly established," there "must be a Supreme Court or Tenth Circuit decision on point, or the clearly established weight of authority from other courts must be as plaintiff maintains." Foote v. Spiegel, 118 F.3d 1416, 1424 (10th Cir. 1997).
+
+        14
+
+ .In the alternative, plaintiffs-appellees assert that the decision to deploy the SWAT Team violated their right to due process of law under the Fourteenth Amendment. Where conduct falls beyond the reach of the Fourth Amendment, "Force inspired by malice or by 'unwise, excessive zeal amounting to an abuse of official power that shocks the conscience ... may be redressed under [the Fourteenth Amendment].'" Latta v. Keryte, 118 F.3d 693, 702 (10th Cir. 1997) (quoting Hewitt v. City of Truth or Consequences, 758 F.2d 1375, 1379 (10th Cir.1985)). We are satisfied that on the facts as alleged by the plaintiffs-appellees, the decision to deploy the SWAT Team to execute the warrants did not amount to "an abuse of official power that shocks the conscience" under the circumstances of this case.
+
+        15
+
+E.g., trailing a frightened four-year-old child with a laser-sighted firearm appears, on its face, needlessly dangerous.
+
+        16
+
+A conclusion that an officer did not violate clearly established right may be "confirmed" by the fact that "the force was not so excessive that [plaintiff] suffered hurt or injury," Saucier, 121 S. Ct. at 2160, but the alleged violation itself must be examined in terms of the totality of the circumstances and "what the officer reasonably understood his powers and responsibilities to be, when he acted, under clearly established standards." Id. at 2159.
+
+        17
+
+ The scheme of the Fourth Amendment becomes meaningful only when it is assured that at some point the conduct of those charged with enforcing the laws can be subjected to the more detached, neutral scrutiny of a judge who must evaluate the reasonableness of a particular search or seizure in light of the particular circumstances. And in making that assessment it is imperative that the facts be judged against an objective standard: would the facts available to the officer at the moment of the seizure or the search warrant a man of reasonable caution in the belief that the action taken was appropriate?
+
+Terry v. Ohio, 392 U.S. 1, 21 (1968).
+
+      108
+
+HENRY, J., concurring in part and dissenting in part:
+
+      109
+
+The facts of this case as we must construe them on summary judgment are, to understate, disquieting. At 8:30 P.M. on April 16, 1996, seven camouflaged, unmarked, unidentified, and hooded SWAT team officers (from the La Plata County sheriff's office) swooped down upon a family compound, weapons brandished, laser sights sweeping, and interrupted an eight year old's basketball game, forcing him and his older playmates to the ground, before continuing their advance. The seven then continued their raid, sweeping their laser sights across the back of a scared and fleeing four year-old child. Barging into the house, they found their quarry seated with his wife at his dining room table. Forcing them to lie down at gunpoint, the seven next raided the bedroom, removing the two women there to the front room, where the others were held.
+
+      110
+
+The purpose of this armed intervention? To serve a search and arrest warrant for a misdemeanor charge. Incidentally, Sammy Heflin was later acquitted of these misdemeanor charges. What is wrong with this picture?
+
+      111
+
+Well, for one thing, we don't really know much about the plaintiff, Mr.  Heflin. It does seem reasonable for the officers and their supervisors to have suspected him of assault and battery of some guests at a restaurant approximately two nights earlier. We do know Mr. Heflin was charged with a misdemeanor, but we are advised (and again, this is on summary judgment, where the record must be construed in favor of the non-moving party) that he had no criminal record, and, in fact, that he had no history of violence known to the police. We also know that the people who lived on Mr. Heflin's property had no history of violence known to the police (with one exception, and that exception had already been arrested and removed from the premises). There was no evidence that the alleged assault in the restaurant involved any weapon.
+
+      112
+
+But what kind of a supervisor would authorize such a raid? Our evidence further suggests that it was the kind of supervisor that wanted "to teach this piece of [excrement deleted] a lesson." Aplt's App. at 340-41 (depo. testim. of James Cheverie, investigator for Sheriff's Department, referring to statement of Undersheriff Harrington). The La Plata County Sheriff's Department's training session narrative instructed that the department
+
+      113
+
+would use a dynamic entry only when it was deemed that serious bodily injury would likely occur to persons if a dynamic entry was not used. Dynamic entry would not be used to simply preserve evidence that might be destroyed if a slower form of entry was made.
+
+      114
+
+Id. at 415-16 (narrative from April 29, 1992 La Plata County Sheriff's Office training session). A dynamic entry would be "made to counter an immediate threat." Id. at 416. In addition, the evidence sought to be collected by the SWAT team (hats and cigarette packages, receipts and bills) was not easily destructible.
+
+      115
+
+I join my colleagues in a well-crafted opinion, with one exception. My conscience, although not as shockable as it once was, is shocked by the planning that this kind of raid may very well have involved. Such planning would constitute force inspired by "unwise, excessive zeal amounting to an abuse of official power that shocks the conscience" that deserves "redress[] under the [Fourteenth Amendment]." Latta v. Keryte, 118 F.3d 693, 2 (10th Cir. 1997) (internal quotation marks omitted).
+
+      116
+
+Certainly, the plaintiffs' case against Sheriff Schirard and Undersheriff Harrington would be stronger with factual allegations specifying their knowledge of the danger involved in such a "dynamic entry." But, the ordering of such an entry by Sheriff Schirard and Undersheriff Harrington, contrary to department policy (or at least without showing compliance with department policy)where seven armed guards converge on a compound where children are known to be playing, all in an effort to serve a warrant for a misdemeanor, coupled with Undersheriff Harrington's apparent animosity toward Mr. Heflingives rise to sufficient knowledge of danger that I would not cloak such reckless supervision with the protection of qualified immunity. I agree with the district court's conclusion that Sheriff Schirard's decision to use the SWAT team, the knowledge of which is charged to Undersheriff Harrington, "provides the 'affirmative link' between his 'personal participation' in the alleged deprivation of Plaintiffs' constitutional rights." Aplt's Br. ex. 2 (dist. ct. order filed Aug. 3, 1999) at 19.
+
+      117
+
+I am certainly not ready to grant judgment for the plaintiffs, but I would not decide at the summary judgment stage that this conduct was not violative of the Fourth Amendment; or if the Fourth Amendment does not apply, I would not decide on summary judgment that this conduct is not violative of the Fourteenth Amendment's guarantee of substantive due process. Thus, I would affirm the district court's decision denying qualified immunity to defendants Schirard, Harrington, and Davis on the claims arising from the decision to employ the SWAT team.
+
+CC∅ | Transformed by Public.Resource.Org

@@ -1,0 +1,855 @@
+PUBLISHED
+UNITED STATES COURT OF APPEALS
+FOR THE FOURTH CIRCUIT
+ 
+üCOLUMBIA UNION COLLEGE,
+Plaintiff-Appellee,
+v.
+JOHN J. OLIVER, JR., Chairman,
+Maryland Higher Education
+Commission; EDWARD O. CLARKE,
+JR., in his official capacity as a
+member of the Maryland Higher
+Education Commission; DOROTHY
+DIXON CHANEY, in her official
+capacity as a member of the
+Maryland Higher Education
+Commission; JOHN J. GREEN, in his
+official capacity and as a member
+of the Maryland Higher Education
+No. 00-2193ýCommission; TERRY L. LIERMAN, in
+his official capacity and as a
+member of the Maryland Higher
+Education Commission; R.
+KATHLEEN PERINI; CHARLES B.
+SAUNDERS, JR., in his official
+capacity and as a member of the
+Maryland Higher Education
+Commission; RICHARD P. STREET,
+JR., in his official capacity and as a
+member of the Maryland Higher
+Education Commission; STEPHEN A.
+BURCH; ANNE OSBORN EMERY;
+DONALD J. SLOWINSKI,
+Defendants-Appellants
+and þ
+
+ 
+üJ. GLENN BEALL, JR., Honorable, in
+his official capacity as a member of
+the Maryland Higher Education
+Commission; DONNA H.
+CUNNINGHAME, in her official
+capacity as a member of the
+Maryland Higher Education
+Commission; JAMIE KENDRICK, in his
+official capacity and as a member
+of the Maryland Higher Education
+Commission; OSBORNE A. PAYNE, in
+his official capacity and as a
+member of the Maryland Higher
+Education Commission; MARYLAND
+HIGHER EDUCATION COMMISSION;
+MARYLAND BOARD OF PUBLIC WORKS;
+J. JOSEPH CURRAN, JR., in his official
+capacity as Attorney General of ýMaryland; ALBERT NATHANIEL
+WHITING, in his official capacity and
+as a member of the Maryland
+Higher Education Commission;
+WILLIAM F. HOWARD, in his official
+capacity as Assistant Attorney
+General of Maryland; TERRA N.
+SMITH; CONSTANCE CORNELL; PAUL
+D. ELLIS,
+Defendants.
+THE AMERICAN ASSOCIATION OF
+UNIVERSITY PROFESSORS; AMERICANS
+UNITED FOR SEPARATION OF
+CHURCH AND STATE; THE ANTI-
+DEFAMATION LEAGUE; AMERICAN
+CIVIL LIBERTIES UNION
+FOUNDATION OF MARYLAND; þ
+2 COLUMBIA UNION COLLEGE v. OLIVER
+
+ 
+üAMERICAN CIVIL LIBERTIES
+UNION OF THE NATIONAL CAPITAL
+AREA; COUNCIL OF RELIGIOUS
+FREEDOM; SEVENTH-DAY ADVENTIST
+CHURCH STATE COUNCIL; NORTHWEST
+RELIGIOUS LIBERTY ASSOCIATION;
+INTERFAITH RELIGIOUS LIBERTY
+FOUNDATION; CHRISTIAN LEGAL
+SOCIETY; UNION OF ORTHODOX JEWISH
+ýCONGREGATION OF AMERICA;
+COUNCIL FOR CHRISTIAN
+COLLEGES AND UNIVERSITIES;
+ASSOCIATION OF CATHOLIC
+COLLEGES AND UNIVERSITIES;
+AMERICAN ASSOCIATION OF
+PRESIDENTS OF INDEPENDENT
+COLLEGES AND UNIVERSITIES,
+Amici Curiae. þ
+Appeal from the United States District Court
+for the District of Maryland, at Baltimore.
+Marvin J. Garbis, District Judge.
+(CA-96-1831-MJG)
+Argued: May 7, 2001
+Decided: June 26, 2001
+Before WILKINSON, Chief Judge, and WILLIAMS and
+MOTZ, Circuit Judges.
+Affirmed by published opinion. Chief Judge Wilkinson wrote the
+opinion, in which Judge Williams joined. Judge Motz wrote an opin-
+ion concurring in the judgment. 
+3COLUMBIA UNION COLLEGE v. OLIVER
+
+COUNSEL
+ARGUED: Andrew Howard Baida, Assistant Attorney General, Bal-
+timore, Maryland, for Appellants. R. Hewitt Pate, HUNTON & WIL-
+LIAMS, Richmond, Virginia, for Appellee. ON BRIEF: J. Joseph
+Curran, Jr., Attorney General of Maryland, Mark J. Davis, Assistant
+Attorney General, Baltimore, Maryland; Pace J. McConkie, Assistant
+Attorney General, Annapolis, Maryland, for Appellants. Geremy C.
+Kamens, HUNTON & WILLIAMS, Richmond, Virginia; Mark B.
+Bierbower, HUNTON & WILLIAMS, Washington, D.C.; Michael P.
+McDonald, Michael E. Rosman, CENTER FOR INDIVIDUAL
+RIGHTS, Washington, D.C.; Professor Michael W. McConnell, Salt
+Lake City, Utah, for Appellee. Ann D. Springer, Donna R. Euben,
+AMERICAN ASSOCIATION OF UNIVERSITY PROFESSORS,
+Washington, D.C.; Professor David M. Rabban, UNIVERSITY OF
+TEXAS SCHOOL OF LAW, Austin, Texas, for Amicus Curiae
+AAUP. Steven K. Green, AMERICANS UNITED FOR SEPARA-
+TION OF CHURCH AND STATE, Washington, D.C.; Martin E.
+Karlinsky, Elizabeth J. Coleman, Steven M. Freeman, ANTI-
+DEFAMATION LEAGUE, New York, New York, for Amici Curiae
+Americans United, et al. Stuart H. Newberger, Jeffrey E. Greene,
+Amy E. Laderberg, CROWELL & MORING, L.L.P., Washington,
+D.C.; Dwight Sullivan, AMERICAN CIVIL LIBERTIES UNION
+FOUNDATION OF MARYLAND, Baltimore, Maryland; Arthur B.
+Spitzer, AMERICAN CIVIL LIBERTIES UNION OF THE
+NATIONAL CAPITAL AREA, Washington, D.C., for Amici Curiae
+Foundation, et al. Lee Boothby, BOOTHBY & YINGST, Washing-
+ton, D.C., for Amici Curiae Council for Religious Freedom, et al. Carl
+H. Esbeck, Gregory S. Baylor, Center for Law and Religious Free-
+dom, CHRISTIAN LEGAL SOCIETY, Annandale, Virginia, for
+Amici Curiae Society, et al. 
+OPINION
+WILKINSON, Chief Judge: 
+We must decide whether Columbia Union College, an institution
+of higher education affiliated with the Seventh-day Adventist Church,
+4 COLUMBIA UNION COLLEGE v. OLIVER
+
+may receive a grant from the State of Maryland’s Sellinger Program.
+The parties do not dispute that Columbia Union satisfies each of the
+neutral statutory requirements for participation in the program. The
+Maryland Higher Education Commission, however, denied the col-
+lege’s request for money because the Commission believed that
+Columbia Union was a "pervasively sectarian" institution, and thus to
+give the college money would violate the Establishment Clause. 
+We disagree. The district court was not clearly erroneous in finding
+that Columbia Union was not pervasively sectarian. Because state aid
+is allocated on a neutral basis to an institution of higher education
+which will not use the funds for any sectarian purpose, we affirm the
+judgment of the district court that Columbia Union qualifies for Sel-
+linger Program funds. 
+I.
+A.
+Columbia Union is a private four-year college affiliated with and
+controlled by the Seventh-day Adventist Church. Approximately 80%
+of the college’s traditional students are Seventh-day Adventists.
+According to the college’s Program Bulletin, students may major in
+fifteen subjects leading to a bachelor of arts degree. Eighteen majors
+lead to a bachelor of science degree. Columbia Union offers majors
+in subjects typical of any college, such as accounting, biochemistry,
+business administration, communication, computer science, English,
+general studies, history, mathematics, music, and psychology. 
+The college applied for a grant from Maryland’s Joseph A. Sel-
+linger Program. The Sellinger Program gives public aid to private col-
+leges within the state. Under the program, the state makes annual
+payments directly to the eligible institutions. To qualify for Sellinger
+funds, an institution must satisfy six neutral criteria. First, the college
+must be, inter alia, a non-profit private college or university that was
+established in Maryland before July 1, 1970. Second, the institution
+must be approved by the Maryland Higher Education Commission,
+the agency statutorily assigned to administer the program. Third, the
+college must, inter alia, be accredited. Fourth, the institution must
+have awarded the associate of arts or baccalaureate degrees to at least
+5COLUMBIA UNION COLLEGE v. OLIVER
+
+one graduating class. Fifth, the college must maintain one or more
+programs leading to such degrees other than seminarian or theological
+programs. Sixth, the institution must submit each new program or
+major modification of an existing program to the Commission for its
+approval. See Md. Code Ann. Educ. § 17-103 (1999). 
+In addition to these six requirements, the statute also mandates that
+no Sellinger funds may be used for sectarian purposes. Id. § 17-107.
+To comply with this non-sectarian command, the chief executive offi-
+cer of the qualifying institution must provide the Commission with
+annual pre- and post-expenditure affidavits detailing the intended and
+actual use of the Sellinger funds. See Md. Regs. Code. tit. 13B,
+§ .01.02.05 (2001). The amount of the grant is determined in part by
+the "number of full-time equivalent students enrolled at the institu-
+tion." Md. Code Ann. Educ. § 17-104(a)(1). Students enrolled in sem-
+inarian or theological programs are specifically excluded from this
+computation. Id. § 17-104(b). 
+As of fiscal year 1997, fifteen institutions received Sellinger funds.
+Twelve had no religious affiliation and three were affiliated with the
+Roman Catholic Church. The Supreme Court held in Roemer v. Board
+of Public Works of Maryland, 426 U.S. 736 (1976), that the Maryland
+colleges affiliated with the Roman Catholic Church were entitled to
+government funds because despite the religious association of the
+institutions, the colleges were not so pervasively sectarian "that secu-
+lar activities [could] not be separated from sectarian ones." 426 U.S.
+at 755 (plurality opinion). 
+In 1990, Columbia Union applied for funds under the Sellinger
+Program. It asked the Commission for the same treatment as the
+Catholic-affiliated institutions. The college satisfied each of the statu-
+tory requirements for participation in the program. Two years later,
+however, the Commission denied Columbia Union’s application. It
+stated that since the college was a pervasively sectarian institution,
+the Establishment Clause of the First Amendment required that the
+application be rejected. 
+In late 1995, Columbia Union requested reconsideration of its
+application in view of Supreme Court decisions like Rosenberger v.
+Rector and Visitors of the University of Virginia, 515 U.S. 819
+6 COLUMBIA UNION COLLEGE v. OLIVER
+
+(1995), which emphasized the importance of neutral criteria in deter-
+mining eligibility for aid. Soon thereafter, the Commission notified
+the college that "unless the nature and practices of Columbia Union
+have changed very substantially since 1992," the application would
+continue to be rejected. Columbia Union officially reapplied for Sel-
+linger Program funds in November 1996. The institution requested
+$806,079 for programs in mathematics, computer science, clinical
+laboratory science, respiratory care, and nursing. The Commission
+subsequently denied this application because it ruled that the college
+was still pervasively sectarian. 
+B.
+After the Commission denied Columbia Union’s application, the
+college filed a complaint against the Director of the Commission in
+his official capacity seeking declaratory and injunctive relief for
+alleged constitutional and statutory violations. The district court, on
+cross-motions for summary judgment, initially ruled for the Commis-
+sion. See Columbia Union College v. Clarke, 988 F. Supp. 897, 900-
+01 (D. Md. 1997). It held that the Establishment Clause prohibits any
+state from directly funding a pervasively sectarian institution and that
+Columbia Union was a pervasively sectarian institution. 
+On appeal, this court reversed and remanded the case for trial on
+the issue of whether Columbia Union is a pervasively sectarian insti-
+tution. See Columbia Union College v. Clarke, 159 F.3d 151, 169 (4th
+Cir. 1998), cert. denied, 527 U.S. 1013 (1999) ("Columbia Union I").
+Preliminarily, the court ruled that the Commission’s denial of funds
+to the college "infringed on Columbia Union’s free speech rights"
+because the Commission rejected the application "solely because of
+[the college’s] alleged pervasively partisan religious viewpoint." Id.
+at 156. Such an infringement on Columbia Union’s free speech rights
+would be justified only as a means of complying with the dictates of
+the Establishment Clause. Id. at 156-57. 
+In deciding whether the funding of these secular programs would
+violate the Establishment Clause, this court relied on the analysis set
+forth in Roemer that the Constitution "permits direct state money
+grants to the general secular educational programs of religious col-
+leges only if those colleges are not pervasively sectarian." Id. at 159.
+7COLUMBIA UNION COLLEGE v. OLIVER
+
+It rejected Columbia Union’s argument that subsequent Supreme
+Court cases like Agostini v. Felton, 521 U.S. 203 (1997), Zobrest v.
+Catalina Foothills School District, 509 U.S. 1 (1993), and Witters v.
+Washington Department of Services for the Blind, 474 U.S. 481
+(1986), had overruled Roemer’s holding by permitting the govern-
+ment to fund pervasively sectarian institutions so long as the state
+used neutral criteria to allocate aid. Instead, the court held that
+Roemer "remains good law, and we, absent a clear directive from the
+Supreme Court, are duty bound to enforce it." Columbia Union I, 159
+F.3d at 162. 
+Nevertheless, the court remanded the case to the district court
+because the record was not fully developed on the issue of Columbia
+Union’s pervasively sectarian status. It noted, however, that a "careful
+reading of Roemer . . . leads to the inescapable conclusion that even
+colleges obviously and firmly devoted to the ideals and teachings of
+a given religion are not necessarily ‘so permeated by religion that the
+secular side cannot be separated from the sectarian.’" Id. at 163 (quot-
+ing Roemer, 426 U.S. at 759). 
+Chief Judge Wilkinson dissented from the remand, believing that
+the record was sufficiently developed to uphold the judgment without
+ordering an intrusive investigation into the minutiae of the college’s
+operations. The dissent stated that although the "neutrality principle
+that courses through the [Supreme] Court’s recent decisions certainly
+would not forbid Maryland from funding Columbia Union under the
+Sellinger Program," the pervasively sectarian doctrine "is hanging on,
+if only by its fingernails." Id. at 172 (Wilkinson, C.J., dissenting). 
+On remand, the district court supervised an extensive discovery
+process and conducted a lengthy bench trial. After hearing the evi-
+dence, reviewing the exhibits, considering the material submitted by
+the parties, and hearing the arguments of opposing counsel, the court
+ruled that Columbia Union was not a pervasively sectarian institution.
+The State of Maryland appeals the district court’s new determination
+that Columbia Union is not pervasively sectarian. The college urges
+affirmance of the district court’s judgment on two grounds. First, it
+argues that the Supreme Court’s recent decision in Mitchell v. Helms,
+530 U.S. 793 (2000), makes clear that the pervasively sectarian
+inquiry is no longer relevant to determine whether a particular aid
+8 COLUMBIA UNION COLLEGE v. OLIVER
+
+program violates the Establishment Clause. Second, Columbia Union
+argues in the alternative that the district court correctly found that the
+college was not pervasively sectarian. We address each of Columbia
+Union’s arguments in turn. 
+II.
+The question of whether pervasively sectarian analysis is still rele-
+vant for determining the constitutionality of aid programs turns
+largely on a recent Supreme Court opinion interpreting the Establish-
+ment Clause — Mitchell v. Helms, 530 U.S. at 793. We acknowl-
+edged in Columbia Union I that the pervasively sectarian test had not
+been overruled by Supreme Court cases such as Agostini v. Felton,
+521 U.S. at 203, and Rosenberger, 515 U.S. at 819. See Columbia
+Union I, 159 F.3d at 160-61; id. at 174 (Wilkinson, C.J., dissenting).
+Since Columbia Union I, however, the Mitchell case has significantly
+altered the Establishment Clause landscape by addressing the circum-
+stances under which sectarian schools may be eligible for government
+aid. 
+In Mitchell, the Supreme Court upheld the constitutionality of an
+aid program to parochial primary and secondary schools. Mitchell was
+a case in which the federal government distributed money to state and
+local governmental agencies, which in turn bought educational mate-
+rial and equipment on behalf of certain public and private schools.
+The local agencies then lent what they had purchased to the schools.
+See Mitchell, 530 U.S. at 801 (plurality opinion). Through the pro-
+gram, private schools were able to acquire such items as library
+books, computers, television sets, and laboratory equipment. See id.
+at 803. In the challenged school district, approximately 30% of the
+funds went to private schools. Of the 46 private schools participating
+in the program, 41 were religiously affiliated. 
+The Court, applying the test outlined in Agostini v. Felton, 521
+U.S. at 222-23, held that the federal aid program was constitutional
+under the Establishment Clause because the federal program had a
+secular purpose and because the program did not have the primary
+effect of advancing or inhibiting religion. See Mitchell, 530 U.S. at
+807-08 (plurality opinion) (applying Agostini’s two-part test); id. at
+844-45 (O’Connor, J., concurring in the judgment) (same). While six
+9COLUMBIA UNION COLLEGE v. OLIVER
+
+Justices agreed with this result, the case did not produce a majority
+opinion. Rather, four justices signed on to the lead opinion in the
+case. See Mitchell, 530 U.S. at 801 (plurality opinion). Justice
+O’Connor, joined by Justice Breyer, wrote an opinion concurring in
+the judgment on narrower grounds. See Mitchell, 530 U.S. at 836
+(O’Connor, J., concurring in the judgment).
+Because the secular purpose of the program was uncontested, the
+Court focused on whether the aid had the effect of advancing religion.
+The plurality opinion in Mitchell emphasized that the neutrality of aid
+criteria is the most important factor in considering the effect of a gov-
+ernment aid program. Indeed, the plurality opinion noted that the
+Court has "consistently turned to the principle of neutrality, uphold-
+ing aid that is offered to a broad range of groups or persons without
+regard to their religion." Id. at 809 (plurality opinion). In other words,
+the plurality opinion would sustain the constitutionality of an aid pro-
+gram so long as the "religious, irreligious, and areligious are all alike
+eligible for governmental aid." Id. The Court stated unequivocally
+that "if the government, seeking to further some legitimate secular
+purpose, offers aid on the same terms, without regard to religion, to
+all who adequately further that purpose, then it is fair to say that any
+aid going to a religious recipient only has the effect of furthering that
+secular purpose." Id. at 810 (internal citation omitted). 
+The Mitchell plurality also made clear that governmental aid can
+even be divertible to religious use if the criteria used to dispense the
+aid are neutral and the purpose of the aid is secular. Id. at 820 (plural-
+ity opinion). Thus, for the plurality, the relevant constitutional inquiry
+was how the aid is assigned, not where the aid goes. Indeed, the plu-
+rality opinion explicitly noted the irrelevance of a pervasively sectar-
+ian inquiry. While acknowledging that "there was a period when this
+factor mattered, particularly if the pervasively sectarian school was a
+primary or secondary school," "that period is one that the Court
+should regret, and it is thankfully long past." Id. at 826. 
+The plurality cited a variety of reasons "to formally dispense with"
+the pervasively sectarian test. Id. First, the relevance of the perva-
+sively sectarian analysis "in our precedents is in sharp decline." Id.
+The plurality noted that not a single aid program had been struck
+down under the pervasively sectarian inquiry since 1985, when the
+10 COLUMBIA UNION COLLEGE v. OLIVER
+
+Court decided Aguilar v. Felton, 473 U.S. 402 (1985), and School
+District of the City of Grand Rapids v. Ball, 473 U.S. 373 (1985). The
+plurality pointed out that Aguilar had since been overruled in full by
+Agostini v. Felton, 521 U.S. at 209, and Ball had been overruled in
+part by Agostini. Indeed, the plurality observed that in Zobrest v. Cat-
+alina Foothills School District, 509 U.S. at 1, and in Agostini, the
+Court "upheld aid programs to children who attended schools that
+were not only pervasively sectarian but also were primary and sec-
+ondary." Id. at 827 (plurality opinion). 
+The second reason to abandon the pervasively sectarian test,
+according to the Mitchell plurality, was that "the religious nature of
+a recipient should not matter to the constitutional analysis, so long as
+the recipient adequately furthers the government’s secular purpose."
+Id. Third, the plurality remarked that the pervasively sectarian inquiry
+is "offensive" because courts should not be "trolling though a person’s
+or institution’s religious beliefs." Id. at 828. Fourth, the pervasively
+sectarian analysis conflicts with Supreme Court decisions which pro-
+hibit the government from "discriminating in the distribution of public
+benefits based upon religious status or sincerity." Id. Finally, the plu-
+rality stated that "hostility to pervasively sectarian schools has a
+shameful pedigree that we do not hesitate to disavow." Id. The plural-
+ity concluded that "nothing in the Establishment Clause requires the
+exclusion of pervasively sectarian schools from otherwise permissible
+aid programs, and other doctrines of this Court bar it. This doctrine,
+born of bigotry, should be buried now." Id. at 829. 
+Justice O’Connor, joined by Justice Breyer, concurred in the judg-
+ment. Although Justice O’Connor agreed with the plurality opinion on
+many issues, "two specific aspects of the opinion compel[led] [her]
+to write separately." Id. at 837 (O’Connor, J., concurring in the judg-
+ment). First, although she recognized that "neutrality is an important
+reason for upholding government-aid programs against Establishment
+Clause challenges," she would not make neutrality, and neutrality
+alone, the one factor of "singular importance in the future adjudica-
+tion of Establishment Clause challenges to government school-aid
+programs." Id. at 837, 838. Justice O’Connor noted that the Court has
+"never held that a government-aid program passes constitutional mus-
+ter solely because of the neutral criteria it employs as a basis for dis-
+tributing aid." Id. at 839. Instead, Justices O’Connor and Breyer
+11COLUMBIA UNION COLLEGE v. OLIVER
+
+would hold that "neutrality is important, but it is by no means the only
+‘axiom in the history and precedent of the Establishment Clause.’" Id.
+(quoting Rosenberger, 515 U.S. at 846 (O’Connor, J., concurring));
+see also Good News Club v. Milford Central School, 533 U.S. ___,
+No. 99-2036, slip op. at 13 (June 11, 2001) ("[W]e have held that a
+significant factor in upholding governmental programs in the face of
+Establishment Clause attack is their neutrality towards religion.")
+(internal quotations omitted). 
+Second, Justice O’Connor criticized the plurality for approving the
+"actual diversion of government aid to religious indoctrination." Id. at
+837. She wrote that the Court has "long been concerned that secular
+government aid not be diverted to the advancement of religion." Id.
+at 840. Actual diversion concerned Justice O’Connor because if "reli-
+gious indoctrination is supported by government assistance, the rea-
+sonable observer would naturally perceive the aid program as
+government support for the advancement of religion." Id. at 843. Jus-
+tice O’Connor’s concerns with governmental aid to religious schools
+would be lessened so long as these schools did not actually use the
+aid for religious purposes. See id. 
+Justices O’Connor and Breyer agreed with the plurality opinion,
+however, that the federal aid program in Mitchell passed constitu-
+tional muster. Applying the Agostini test, the opinion found that the
+government did not act with the purpose of advancing religion and
+that the aid did not have the effect of advancing religion. See id. at
+844-45. 
+Moreover, the concurring opinion joined the plurality opinion in
+expressly overruling Meek v. Pittenger, 421 U.S. 349 (1975), and
+Wolman v. Walter, 433 U.S. 229 (1977). See Mitchell, 530 U.S. at 837
+(O’Connor, J., concurring in the judgment). In both Meek and Wol-
+man, the Court struck down aid programs similar to the aid program
+in Mitchell. The Meek and Wolman courts ruled as they did because
+the "religious schools receiving the materials and equipment were
+pervasively sectarian." Mitchell, 530 U.S. at 850 (O’Connor, J., con-
+curring in the judgment) (citing Meek, 421 U.S. at 365-66, and Wol-
+man, 433 U.S. at 250). Justice O’Connor’s opinion did not take issue
+with the plurality’s holding that the pervasively sectarian doctrine
+should be "buried now." Id. at 829 (plurality opinion). Instead, she
+12 COLUMBIA UNION COLLEGE v. OLIVER
+
+specifically criticized the Meek and Wolman courts for "apply[ing] an
+irrebuttable presumption that secular instructional materials and
+equipment would be diverted to use for religious indoctrination." Id.
+at 851. Instead of focusing on this irrebuttable presumption that even
+the secular courses in a religious school are "inescapably" religious,
+Wolman, 433 U.S. at 250, Justice O’Connor would require plaintiffs
+to "prove that the aid in question actually is, or has been, used for reli-
+gious purposes." Mitchell, 530 U.S. at 857 (O’Connor, J., concurring
+in the judgment). By focusing on actual diversion of aid instead of the
+presumption that any secular class at a religious school would "inevi-
+tably inculcate religion," Justice O’Connor acknowledged her agree-
+ment with the plurality that the pervasively sectarian doctrine was
+becoming ever more problematic for Establishment Clause purposes.
+Id. at 857 (O’Connor, J., concurring in the judgment). 
+Thus, although Justice O’Connor and Justice Breyer would not go
+as far as the plurality, their separate opinion establishes three funda-
+mental guideposts for Establishment Clause cases. First, the neutrality
+of aid criteria is an important factor, even if it is not the only factor,
+in assessing a public assistance program. Second, the actual diversion
+of government aid to religious purposes is prohibited. Third, and
+relatedly, "presumptions of religious indoctrination" inherent in the
+pervasively sectarian analysis "are normally inappropriate when eval-
+uating neutral school-aid programs under the Establishment Clause."
+Id. at 858. The O’Connor concurring opinion, which is the controlling
+opinion from Mitchell,1 replaced the pervasively sectarian test with a
+principle of "neutrality plus." Neutrality is a necessary and important
+consideration in judging Establishment Clause cases, but it may not
+be sufficient in and of itself. Instead, courts must examine whether
+actual diversion of aid occurs and whether the "particular facts of
+1Because the plurality opinion for the Court did not garner a majority,
+we must examine the details of the Sellinger Program under the rubric
+of Justice O’Connor’s concurring opinion. See Simmons-Harris v. Zel-
+man, 234 F.3d 945, 957 (6th Cir. 2000) ("‘When a fragmented Court
+decides a case and no single rationale explaining the result enjoys the
+assent of five Justices, the holding of the Court may be viewed as that
+position taken by those Members who concurred in the judgments on the
+narrowest grounds.’" (quoting Marks v. United States, 430 U.S. 188, 193
+(1977) (internal quotations omitted)). 
+13COLUMBIA UNION COLLEGE v. OLIVER
+
+each case" reveal that the Establishment Clause has been violated. Id.
+at 844 (internal quotations omitted). It is to this inquiry that we now
+turn. 
+III.
+Columbia Union argues that it is entitled under Mitchell to Sel-
+linger Program funds without resort to examining the college’s perva-
+sively sectarian status. We agree. 
+A.
+First, neither party disputes that the Sellinger Program has a secular
+purpose. See Mitchell, 530 U.S. at 845 (O’Connor, J., concurring in
+the judgment) (stating that it is important to "ask whether the govern-
+ment acted with the purpose of advancing or inhibiting religion")
+(internal quotations omitted). The Sellinger Program is designed to
+provide aid to private colleges in Maryland, regardless of affiliation.
+As the Supreme Court held in Roemer, the "purpose of Maryland’s
+aid program is the secular one of supporting private higher education
+generally, as an economic alternative to a wholly public system."
+Roemer, 426 U.S. at 754 (plurality opinion). Of the fifteen schools
+currently receiving Sellinger Program funds, only three are affiliated
+with a religious institution. In short, the Sellinger Program is in no
+sense a vehicle for the advancement of religious purposes. 
+B.
+Second, the aid also does not have the effect of advancing religion.
+See Mitchell, 530 U.S. at 845 (O’Connor, J., concurring in the judg-
+ment). In order to determine "effect," we must first examine the neu-
+trality of the criteria used to assign the aid. See id. at 838-39. The
+Sellinger Program is indisputably premised upon neutral criteria. Sev-
+eral additional factors serve to reinforce the program’s constitutional-
+ity. These factors, namely the prohibition against using any Sellinger
+money for religious purposes, the safeguards in place to prevent such
+aid from being used for sectarian purposes, and the fact that the assis-
+tance is being afforded to higher education, convince us that the State
+may give aid to Columbia Union under the Sellinger Program. 
+14 COLUMBIA UNION COLLEGE v. OLIVER
+
+1.
+The neutral features of the Sellinger Program are six in number,
+and Columbia Union meets each one. First, the institution is a "non-
+profit private college or university that was established in Maryland
+before July 1, 1970." Md. Code Ann. Educ. § 17-103. Second,
+Columbia Union is "approved by the Maryland Higher Education
+Commission." Id. Third, the college is "[a]ccredited by the Commis-
+sion on Higher Education of the Middle States Association of Col-
+leges and Schools." Id. Fourth, Columbia Union has "awarded the
+associate of arts or baccalaureate degrees to at least one graduating
+class." Id. Fifth, the college "[m]aintain[s] one or more earned degree
+programs, other than seminarian or theological programs, leading to
+an associate of arts or baccalaureate degree." Id. And sixth, the insti-
+tution has submitted "each new program and each major modification
+of an existing program to the Maryland Higher Education Commis-
+sion for its review and recommendation as to the initiation of the new
+or modified program." Id. The fact that Columbia Union meets every
+requirement of the statute, and the fact that fifteen other institutions
+have also satisfied these same requirements, show beyond cavil that
+the Sellinger Program assigns funds in a neutral and even-handed
+manner, "without regard to religion." Mitchell, 530 U.S. at 810 (plu-
+rality opinion). 
+Under the plurality opinion, the Sellinger Program’s secular pur-
+pose and its neutral criteria would practically dispose of this case. See
+id. at 829-32. And under the analysis of Justice O’Connor and Justice
+Breyer, the neutrality of the Sellinger Program remains a critical fac-
+tor in considering its constitutionality. See id. at 838-39 (O’Connor,
+J., concurring in the judgment) ("[W]e have emphasized a program’s
+neutrality repeatedly in our decisions approving various forms of
+school aid.") (citing cases). Additional considerations, however,
+underscore the constitutionality of Sellinger assistance to the college.
+2.
+A second consideration is one precisely identified by Justice
+O’Connor — the lack of any evidence of actual diversion of govern-
+ment aid to religious purposes. See id. at 840 (O’Connor, J., concur-
+ring in the judgment). It is not of consequence that a sectarian school
+15COLUMBIA UNION COLLEGE v. OLIVER
+
+offers secular courses like computer science because the "presump-
+tions of religious indoctrination are normally inappropriate when
+evaluating neutral school-aid programs under the Establishment
+Clause." Id. at 858. Instead, plaintiffs must show "evidence that the
+government aid in question has resulted in religious indoctrination."
+Id. (emphasis added). 
+Here, the State cannot make a showing of actual diversion. The
+only evidence it produced related to the pervasively sectarian status
+of the school, not to the use of aid in an improper fashion. And it is
+impossible for Maryland to make the requisite showing of actual
+diversion in this case for one simple reason: Columbia Union has yet
+to receive any money under the Sellinger Program. Consequently, the
+State cannot show that this non-existent money "has resulted in reli-
+gious indoctrination." Id. at 858. 
+3.
+In addition to the absence of evidence of actual diversion, there are
+safeguards against future diversion of Sellinger Program funds for
+sectarian purposes. The statute requires that a qualifying institution
+"may not use" Sellinger Program funds "for sectarian purposes." Md.
+Code Ann. Educ. § 17-104. Columbia Union satisfies this prerequisite
+as well. The President of Columbia Union signed a sworn affidavit
+stating that the funds would not be used for sectarian purposes. More-
+over, the program assigns the amount of aid based on the "number of
+full-time equivalent students enrolled at the institution," excluding
+"students enrolled in seminarian or theological programs." Id. § 17-
+104. Indeed, the requirements that funds not be used for sectarian pur-
+poses and that students enrolled in sectarian programs be excluded
+from the total number of students signify that, if anything, sectarian
+colleges are actually at a disadvantage in receiving aid under the Sel-
+linger Program. 
+Of course, the government need not "have a failsafe mechanism
+capable of detecting any instance of diversion." Mitchell, 530 U.S. at
+861 (O’Connor, J., concurring in the judgment). Because the Court
+"should abandon the presumption" that the use of "instructional mate-
+rials and equipment by religious-school teachers" in secular classes is
+16 COLUMBIA UNION COLLEGE v. OLIVER
+
+in reality aid to religion itself, there is likewise "no constitutional
+need for pervasive monitoring." Id. 
+In this case, the safeguards against sectarian diversion, while not
+obtrusive or excessively entangling, are more than constitutionally
+sufficient. In addition to the bedrock prohibition on the use of Sel-
+linger funds for sectarian purposes, Md. Code Ann. Educ. § 17-107,
+colleges that have only a seminarian or theological program are pre-
+cluded from receiving Sellinger funds. Id. § 17-103. Sellinger funds
+are subject to audit by the Commission. Id. § 17-303; Md. Regs. Code
+tit. 13B, § .01.02.05. The college must provide annual pre- and post-
+expenditure sworn affidavits documenting the institution’s intended
+and actual use of the funds. See Md. Regs. Code tit. 13B, § .01.02.05.
+Given these restrictions, the program contains adequate safeguards
+against the diversion of the money to sectarian use. And we cannot
+assume that officials of Columbia Union College, an institution affili-
+ated with a religious institution, will act in bad faith or otherwise mis-
+state the proposed uses of Sellinger funds. See, e.g., Mitchell, 530
+U.S. at 863-64 (O’Connor, J., concurring in the judgment) ("I . . .
+believe that it is entirely proper to presume that these school officials
+will act in good faith. That presumption is especially appropriate in
+this case, since there is no proof that religious school officials have
+breached their schools’ assurances or failed to tell government offi-
+cials the truth."). 
+4.
+A final reason for sustaining the constitutionality of Columbia
+Union’s use of Sellinger Program funds is the fact that Columbia
+Union is an institution of higher learning. If the aid program to pri-
+mary and secondary schools was upheld in Mitchell, the assistance to
+a college should be sustained as well. 
+The Supreme Court has consistently stated that it would scrutinize
+aid to religiously-affiliated colleges and universities more leniently
+than aid to primary and secondary schools. See, e.g., Mitchell, 530
+U.S. at 826-27 (plurality opinion); Roemer, 426 U.S. at 764-65 (plu-
+rality opinion); Hunt v. McNair, 413 U.S. 734, 746 (1973); Tilton v.
+Richardson, 403 U.S. 672, 687 (1971) (plurality opinion). Students
+17COLUMBIA UNION COLLEGE v. OLIVER
+
+attending college are more likely to do so by free will and more likely
+to encounter a variety of influences and opinions while on campus.
+As the Supreme Court noted in Tilton, "[t]here are generally signifi-
+cant differences between the religious aspects of church-related insti-
+tutions of higher learning and parochial elementary and secondary
+schools." Tilton, 403 U.S. at 685 (plurality opinion). College students
+are simply "less susceptible to religious indoctrination." Id. at 686.
+"The skepticism of the college student is not an inconsiderable barrier
+to any attempt or tendency" to try to use secular courses to teach reli-
+gion at the university level. Id. 
+In Roemer, Tilton, and Hunt, the Supreme Court permitted the gov-
+ernment to directly aid religiously-affiliated colleges and universities.
+Indeed, the Roemer court approved the precise program at issue in
+this case. Although these earlier cases turned largely on the perva-
+sively sectarian character of the institutions, the fact remains that the
+Court has never struck down a government aid program to a
+religiously-affiliated college or university. Thus, even if direct fund-
+ing of classes raises special constitutional concerns at the primary and
+secondary level, see Mitchell, 530 U.S. at 859-60 (O’Connor, J., con-
+curring in the judgment), direct funding of secular classes at the colle-
+giate level might still survive scrutiny. For at the college level,
+"[t]here is no danger, or at least only a substantially reduced danger,
+that an ostensibly secular activity [like] the study of biology [or] the
+learning of a foreign language . . . will actually be infused with reli-
+gious content or significance." Roemer, 426 U.S. at 762 (plurality
+opinion). The features of the college environment thus mean that aid
+is much less likely to have a constitutionally impermissible effect. 
+C.
+In sum, the Sellinger Program is compatible with the constitutional
+guideposts set forth by the Court in Mitchell. The program’s purpose
+is secular. See Mitchell, 530 U.S. at 845 (O’Connor, J., concurring in
+the judgment). And because of the program’s neutrality, the lack of
+actual diversion, the safeguards against future diversion, and the fact
+that Columbia Union is an institution of higher learning, the aid does
+not have the effect of advancing religion. See id. Examining the Sel-
+linger Program as a whole, Columbia Union’s receipt of Sellinger
+funds is not only consistent with the "neutrality plus" formula of Jus-
+18 COLUMBIA UNION COLLEGE v. OLIVER
+
+tice O’Connor’s concurrence, it is a stronger case than Mitchell due
+to the fact that Columbia Union is a college. We recognize, of course,
+that the Sellinger Program is a direct aid program whereas Mitchell
+involved the lending of materials and equipment to supplement that
+used by sectarian schools. Nevertheless, the Sellinger Program more
+than satisfies the "neutrality plus" criteria of Mitchell. We thus believe
+that the Supreme Court would approve of Columbia Union’s use of
+Sellinger Program funds for secular courses of instruction without
+resort to a pervasively sectarian analysis. 
+IV.
+We cannot, however, find any reason even under a pervasively sec-
+tarian analysis why Columbia Union should be denied Sellinger Pro-
+gram assistance.2 The district court found as a matter of fact, after
+examining the thousands of pages of evidence and conducting a bench
+trial, that Columbia Union is not pervasively sectarian. Even assum-
+ing that Roemer is still good law, and that the pervasively sectarian
+analysis remains relevant for determining violations of the Establish-
+ment Clause, Columbia Union is entitled to Sellinger Program funds
+because the district court was not clearly erroneous in its findings. See
+Roemer, 426 U.S. at 758 (plurality opinion) ("We cannot say that the
+foregoing findings as to the role of religion in particular aspects of the
+colleges are clearly erroneous."). If Roemer is directly applicable to
+this case, then this court must apply the standard of review Roemer
+employed and for which the State contended in the prior appeal. 
+The district court looked to four factors identified by Columbia
+Union I to determine if a college is pervasively sectarian: 1) manda-
+tory student worship services; 2) academic courses implemented with
+the primary goal of religious indoctrination; 3) an express preference
+in hiring and admissions for members of the affiliated church; and 4)
+2We are of course mindful of the Supreme Court’s admonition that
+lower courts should not interpret even seismic shifts in Establishment
+Clause jurisprudence as signifying that prior Court decisions have been
+overruled indirectly. See, e.g., Agostini, 521 U.S. at 237. Thus, we turn
+to the issue of whether, under Roemer, Tilton, and Hunt, Columbia
+Union is pervasively sectarian. Because we do so, we fail to see the basis
+for Judge Motz’s concern. 
+19COLUMBIA UNION COLLEGE v. OLIVER
+
+church dominance over college affairs. See Columbia Union I, 159
+F.3d at 163. The court noted that a college is not pervasively sectarian
+unless it possesses a "great many" of these characteristics. Id. 
+The district court respected fully the majority’s order of remand in
+Columbia Union I. Working through the four factors in this case, the
+court found that although Columbia Union had a mandatory worship
+policy, it applied only to a minority of students. With regard to the
+second factor, the court held that the evidence submitted by the Com-
+mission was insufficient to show that the traditional liberal arts
+classes were "taught with the primary objective of religious indoctri-
+nation." The court pointed to "affirmative evidence indicating that
+secular education is the primary goal of" Columbia Union. The court
+examined the college’s mission statement and the descriptions of sec-
+ular curricula in the college’s catalog, among other things, in making
+this finding. The court looked at the college’s syllabi for secular
+courses and determined that the religious references were too isolated
+and scattered to justify a finding that religion permeates the secular
+courses. And although the court found that the Seventh-day Adventist
+Church exerted a dominance over college affairs and that the college
+gave an express preference in hiring and admissions to members of
+the Church, these factors by themselves were not enough to make the
+college a pervasively sectarian one. 
+Looking at all the factors, the court concluded that "a great many"
+were not present. Consequently, the court stated that "Columbia
+Union College is not ‘pervasively sectarian’ under the decision in
+Roemer." After reviewing all the evidence in this case, we hold that
+the district court’s finding on this point was not clearly erroneous. 
+One other factor supports the district court’s revised finding on
+remand that Columbia Union is not pervasively sectarian. As this
+court noted in its prior decision, "[n]either the Supreme Court, nor
+any circuit court to our knowledge, has ever found a college to be per-
+vasively sectarian." Columbia Union I, 159 F.3d at 169. 
+In Tilton, for example, the Supreme Court held that four church-
+related colleges and universities were not pervasively sectarian. See
+Tilton, 403 U.S. at 681 (plurality opinion). The Court permitted the
+federal government to directly fund the construction of a library, a
+20 COLUMBIA UNION COLLEGE v. OLIVER
+
+performing arts building, a science building, and a language labora-
+tory at these schools. See id. at 676. The Roman Catholic Church
+sponsored and supported these universities. Id. The faculties and stu-
+dent bodies at each college were "predominantly Catholic." Id. at 686.
+The plaintiffs challenging the funding in Tilton introduced evidence
+showing that the colleges imposed "certain religious restrictions on
+what could be taught." Id. at 681. Finally, "all four schools" in Tilton
+required "their students to take theology courses." Id. at 686. These
+factors did not suffice, however, to find the colleges and universities
+pervasively sectarian. 
+In Hunt v. McNair, the Supreme Court found that the Baptist Col-
+lege at Charleston was not a pervasively sectarian institution. Trustees
+of Baptist College were elected by the South Carolina Baptist Con-
+vention. Hunt, 413 U.S. at 743. Approval of the Convention was nec-
+essary for certain financial transactions. Id. The charter of the college
+could only by amended by the Convention. Id. Indeed, the dissent
+even noted that "[n]o one denies that the Baptist College at Charleston
+is a sectarian institution — i.e., one in which the propagation and
+advancement of a particular religion are a function or purpose of the
+institution." Id. at 749 n.1 (Brennan, J., dissenting) (internal quota-
+tions omitted). 
+And in Roemer, four Maryland colleges applied for aid under the
+same program at issue in this case. Roemer, 426 U.S. at 744 (plurality
+opinion). The colleges were affiliated with the Roman Catholic
+Church. The colleges employed Roman Catholic chaplains and held
+Roman Catholic religious exercises on campus. Id. at 755. Each stu-
+dent was required to take "[m]andatory religion or theology courses."
+Id. at 756. The instructors of these courses were "primarily . . .
+Roman Catholic clerics." Id. Like Columbia Union, the "encourage-
+ment of spiritual development" was a secondary objective of the col-
+leges in Roemer. Id. at 755. Moreover, some classes at the Roemer
+colleges were "begun with prayer." Id. at 756. Some instructors wore
+"clerical garb and some classrooms [had] religious symbols." Id.
+Finally, the Roemer colleges generally favored as instructors "mem-
+bers of religious orders." Id. at 757. 
+Looking at all the evidence, we fail to see any disqualifying differ-
+ence between Columbia Union and the colleges in Roemer, Hunt, and
+21COLUMBIA UNION COLLEGE v. OLIVER
+
+Tilton. Religion certainly plays a prominent role at Columbia Union,
+but no more so than the colleges in Roemer, Hunt, or Tilton. Religion
+classes are mandatory at Columbia Union, but the same was true in
+Roemer and Tilton. Columbia Union offers degrees in subjects found
+at any other college or university, whether it be public or private,
+religiously-affiliated or entirely secular. And like the colleges in
+Roemer, Tilton, and Hunt, the district court found that "secular educa-
+tion is the primary goal" of Columbia Union. 
+In sum, given the district court’s extensive findings of fact and the
+"heavily fact intensive" nature of the inquiry, as well as the resem-
+blance of Columbia Union to the colleges in Roemer, Hunt, and Til-
+ton, we cannot say that the lower court was clearly erroneous in
+finding Columbia Union not to be pervasively sectarian. Columbia
+Union I, 159 F.3d at 169. 
+V.
+Columbia Union’s use of Sellinger Program money to fund secular
+educational programs does not violate the strictures of the Establish-
+ment Clause. The program has a secular purpose, it uses neutral
+criteria to dispense the aid, there is little risk of actual diversion of the
+aid for religious indoctrination, and the college is an institution of
+higher learning. And even if a pervasively sectarian analysis were
+necessary, the district court was not clearly erroneous in finding
+Columbia Union not to be pervasively sectarian. 
+This court has already held that the State of Maryland "infringed
+on Columbia Union’s free speech rights by establishing a broad grant
+program to provide financial support for private colleges that meet
+basic eligibility criteria but denying funding to Columbia Union
+solely because of its alleged pervasively partisan religious viewpoint."
+Id. at 156. Because denying funding to Columbia Union is not man-
+dated by the Establishment Clause, the State cannot advance a com-
+pelling interest for refusing the college its Sellinger Program funds.
+See id. 
+We recognize the sensitivity of this issue, and respect the constitu-
+tional imperative for government not to impermissibly advance reli-
+gious interests. Nevertheless, by refusing to fund a religious
+22 COLUMBIA UNION COLLEGE v. OLIVER
+
+institution solely because of religion, the government risks discrimi-
+nating against a class of citizens solely because of faith. The First
+Amendment requires government neutrality, not hostility, to religious
+belief. See Everson v. Board of Education, 330 U.S. 1, 18 (1947). For
+the foregoing reasons, the judgment of the district court is 
+AFFIRMED.
+DIANA GRIBBON MOTZ, Circuit Judge, concurring in the judg-
+ment: 
+The district court committed no clear error in finding that Colum-
+bia Union was not a pervasively sectarian institution. Accordingly, for
+the reasons persuasively set forth by Chief Judge Wilkinson in part
+IV of the majority opinion, I concur in the judgment affirming the dis-
+trict court. 
+Judge Wilkinson may also be correct as to the conclusions he
+draws from the various opinions in Mitchell v. Helms, 530 U.S. 793
+(2000). However, in Agostini v. Felton, 521 U.S. 203, 237 (1997), the
+Supreme Court, in no uncertain terms, instructed that "[i]f a precedent
+of th[e Supreme] Court has direct application in a case, yet appears
+to rest on reasons rejected in some other line of decisions, the Court
+of Appeals should follow the case which directly controls." Given this
+directive, unless and until the Supreme Court overrules Roemer v. Bd.
+of Pub. Works of Md., 426 U.S. 736 (1976), I am unwilling to join
+in a holding finding that the pervasively sectarian analysis adopted
+there — when interpreting the very statute at issue here — no longer
+controls. Such a holding seems particularly unwarranted when appli-
+cation of the pervasively sectarian analysis requires the same result as
+the (perhaps) premature disavowal of it.
+23COLUMBIA UNION COLLEGE v. OLIVER

@@ -1,0 +1,64 @@
+{
+  "records": [
+    {
+      "file": "Columbia-Union-College-v-Oliver_merits_2003-04-21.md",
+      "projection_identity": true,
+      "public_blocks": 11,
+      "chief_name": true,
+      "assignment_recount": true,
+      "author": "Thomas",
+      "explanation_word_counts": [
+        236,
+        234,
+        186
+      ],
+      "sha256": "cdfe7fd295808185054e5e71fcf58d99ae2bfa3b70339726dbeb7f8b923371cd"
+    },
+    {
+      "file": "Amazon-com-Inc-v-Barnesandnoble-com-Inc_merits_2003-06-30.md",
+      "projection_identity": true,
+      "public_blocks": 11,
+      "chief_name": true,
+      "assignment_recount": true,
+      "author": "Souter",
+      "explanation_word_counts": [
+        147,
+        123,
+        188
+      ],
+      "sha256": "f1f3c0f4e915a0406c7998753f9089fc1e8928e3a76bfb478748a97fda18d1e9"
+    },
+    {
+      "file": "Burdine-v-Johnson_merits_2003-06-30.md",
+      "projection_identity": true,
+      "public_blocks": 11,
+      "chief_name": true,
+      "assignment_recount": true,
+      "author": "Stevens",
+      "explanation_word_counts": [
+        230,
+        86,
+        154,
+        154,
+        85
+      ],
+      "sha256": "1b5b06352cf1447943cdba9ffcc344bbfd34615df847eca3002e66e28f570b4f"
+    },
+    {
+      "file": "Holland-ex-rel-Overdorff-v-Harrington_merits_2003-06-30.md",
+      "projection_identity": true,
+      "public_blocks": 11,
+      "chief_name": true,
+      "assignment_recount": true,
+      "author": "Ginsburg",
+      "explanation_word_counts": [
+        219,
+        217,
+        233
+      ],
+      "sha256": "c9a05489720da0d0d867bf9bedb148a778f08b3c5f6af603435e23ee417f3c37"
+    }
+  ],
+  "aggregate_identity": true,
+  "repository_history": "Not checked; operator reserved"
+}
