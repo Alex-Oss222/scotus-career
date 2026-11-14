@@ -898,21 +898,123 @@
     "countable": true,
     "case": "Cano v. Davis",
     "date": "2003-06-26",
-    "eligible": [
-      "Stevens",
-      "Souter",
-      "Ginsburg",
-      "Breyer"
+    "file": "Cano-v-Davis_merits_2003-06-26.md",
+    "form": "One signed opinion of the Court, delivered in parts.",
+    "authors": [
+      "Stone-Zsela",
+      "Souter"
     ],
-    "pool": [
-      "Stevens",
-      "Souter",
-      "Ginsburg",
-      "Breyer"
+    "assignments": [
+      {
+        "parts": [
+          "I",
+          "III.B"
+        ],
+        "assigner": "Stone-Zsela",
+        "eligible": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "pool": [
+          "Stone-Zsela",
+          "Stevens",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "author": "Stone-Zsela",
+        "basis": "Approved Section II conditional authorship instruction."
+      },
+      {
+        "parts": [
+          "II.A",
+          "II.C"
+        ],
+        "assigner": "Stone-Zsela",
+        "eligible": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "pool": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "author": "Stone-Zsela",
+        "basis": "Approved Section II conditional authorship instruction."
+      },
+      {
+        "parts": [
+          "III.A"
+        ],
+        "assigner": "Stone-Zsela",
+        "eligible": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Kennedy",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "pool": [
+          "Stone-Zsela",
+          "Stevens",
+          "O'Connor",
+          "Souter",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "author": "Stone-Zsela",
+        "basis": "Approved Section II conditional authorship instruction."
+      },
+      {
+        "parts": [
+          "II.B"
+        ],
+        "assigner": "Stevens",
+        "eligible": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Kennedy",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "pool": [
+          "Stevens",
+          "O'Connor",
+          "Scalia",
+          "Souter",
+          "Thomas",
+          "Ginsburg",
+          "Breyer"
+        ],
+        "author": "Souter",
+        "basis": "Engine section 8; Souter's frozen CD28 injury analysis and Brooks purpose, nomination-opportunity and same-enactment fit."
+      }
     ],
-    "assigner": "Stone-Zsela and Stevens, by component",
-    "author": "Souter",
-    "file": "Cano-v-Davis_merits_2003-06-26.md"
+    "counted_deliveries": {
+      "Stone-Zsela": 1,
+      "Souter": 1
+    }
   },
   {
     "counts": {
