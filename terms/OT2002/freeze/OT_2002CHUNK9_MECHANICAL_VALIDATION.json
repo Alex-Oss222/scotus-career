@@ -242,15 +242,22 @@
         152
       ],
       "sha256": "2c5620456acbc80cfe7d2905b9152b4bb52cfff563891c4ea92bd2c0b308f10a"
+    },
+    {
+      "record": "Demore-v-Kim_reargument_2003-04-29.md",
+      "form": "Unsigned reargument order",
+      "internal_vote": "7-2",
+      "public_poll": "Undisclosed",
+      "author": null,
+      "counted_lead": false,
+      "sha256": "a0f3e867c5f9184aa979c616caa031552f7dd8f7c0bb3f3f018f6b91bfd47052"
     }
   ],
   "protected_files_unchanged": 178,
-  "records": 118,
+  "records": 119,
   "manifest_rows": 180,
-  "completed_scheduled_events": 115,
-  "stopped_rows": [
-    "| 2003-04-29 | OT_2002CHUNK9 | Demore v. Kim | 538 U.S. 510 | Historical Supreme Court review | Historical calendar | Stopped: The supported positions supply no five-Justice final disposition with a compatible mandate: four would reverse the hearing requirement, four would affirm individual hearing relief, and Breyer would vacate and remand only for his distinct statutory threshold and release-proof inquiry. No accepted accommodation supplies the missing remedial agreement. | 107 | Immigration detention: mandatory custody and individualized release review | Term inventory | Historical participation deferred in Section I; establish independently at Run. |"
-  ],
+  "completed_scheduled_events": 116,
+  "stopped_rows": [],
   "render_input_identity": true,
   "restricted_text_files_checked": 219,
   "history_verification": "Deferred to operator",

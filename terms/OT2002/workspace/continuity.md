@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 9 have produced 118 completed event Records covering 115 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
+Chunks 1 through 9 have produced 119 completed event Records covering 116 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 115 completed and 65 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. One scheduled matter remains undecided, as identified below.
+The manifest preserves all 180 scheduled rows: 116 completed and 64 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. Demore remains pending for reargument in October Term 2003.
 
 ## Completed Events and Admitted Sources
 
@@ -116,6 +116,7 @@ The manifest preserves all 180 scheduled rows: 115 completed and 65 remaining. C
 | 2003-04-23 | Massaro v. United States | The Second Circuit's procedural-default judgment is reversed and the case remanded. | `terms/OT2002/records/Massaro-v-United-States_merits_2003-04-23.md` |
 | 2003-04-23 | United States v. Handakas | The judgment is affirmed as to duplicate-structuring relief, vacated as to the reversals of Counts One and Four, and remanded for the identified remaining appellate issues and count-specific implementation. | `terms/OT2002/records/United-States-v-Handakas_merits_2003-04-23.md` |
 | 2003-04-28 | Planned Parenthood of Southern Arizona v. Lawall | Rejection of the challenge to necessary confidential internal handling is affirmed, 9–0; rejection of the outside-agency-access claims is vacated and remanded, 6–3. | `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md` |
+| 2003-04-29 | Demore v. Kim | The case is restored to the calendar for reargument in October Term 2003. The Court does not disclose a tally or individual positions on restoration. | `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md` |
 | 2003-04-29 | Herring v. Keenan | The appellate immunity judgment is vacated and the case remanded, 5–4. | `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md` |
 | 2003-04-29 | Roell v. Withrow | The judgment is reversed and the case remanded, 5–4. | `terms/OT2002/records/Roell-v-Withrow_merits_2003-04-29.md` |
 | 2003-04-29 | United States v. Miami University | The judgment, limited permanent injunction and discovery ruling are affirmed, 9–0. | `terms/OT2002/records/United-States-v-Miami-University_merits_2003-04-29.md` |
@@ -748,6 +749,12 @@ The Court applies Rule 52(b) to the forfeited honest-services constitutional cla
 Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md`.
 
 Necessary confidential bypass administration remains permissible. Additional authorized government access to intimate bypass records must have a sufficient legal connection among the information, audience and function, with fitted protection against unnecessary dissemination. This independent informational-privacy inquiry and any proved Casey access burden remain distinct. The actual outside permissions and their safeguards must be applied on remand; their legality is not settled by either a general confidentiality label or a hypothetical leak.
+
+### 2003-04-29 — Demore v. Kim
+
+Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
+The governing detention and judicial-review rules remain unchanged while the Court retains the case for further argument.
 
 ### 2003-04-29 — Herring v. Keenan
 
@@ -1575,6 +1582,8 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 **Referral of applications, effective October 7, 1991; signed explanations and certification, effective October 2, 1995.** By the Court's internal practice adopted at the opening of October Term 1991, an application for a stay, injunction, or other interim relief in a matter on the Term's inventory is referred by the Circuit Justice to the full Court and decided by the participating Justices under the participating-majority rule. The order issues in the Court's name and recites the presenting Circuit Justice ("presented to Justice ___ and by him or her referred to the Court"). From October 2, 1995, referral does not prevent the Circuit Justice, or the substitute the term-effective Rules designate, from taking a necessary temporary action in his or her own name while the Court considers the application. Each action is explained in short signed writings, including the Circuit Justice's own explanation at final disposition, whether prevailing or dissenting, and a statement by each participating Justice in each Court action deciding relief, and is certified for issuance by the Chief Justice or the Chief's substitute, as Engine §10 provides. A Justice may participate in a referred application from the date of the judicial oath. An application not on the Term's inventory remains subject to ordinary Circuit Justice practice. Source: the OT1991 opening practice carried in the opening Standing State and the OT1993 Term Continuity Note. Source of the October 2, 1995 revision: user instruction.
 
+**Demore v. Kim, No. 01-1491:** The case remains pending in this Court for reargument in October Term 2003. Reargument awaits calendar setting. The judgment below and Kim's existing $5,000 bond release remain in effect. Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
 **Cano v. Davis, No. 02-577:** retained for plenary briefing and argument following the January 10 screening. Its merits decision is scheduled June 26, 2003. The three summary-review grants have completed companion dispositions. All lower-court and agency work follows the published remedies; no new Supreme Court date is implied.
 
 | Case or matter | Stage at opening | OT2002 event date | Status | Source |
@@ -1585,15 +1594,14 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 No further report, filing, deadline, or Court action is supplied.
 
-The remaining 65 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 64 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
 
-- Demore v. Kim: undecided; no completed Court action supplies law.
 
 ## Blockers and Revalidation Needs
 
-- Demore v. Kim: The supported positions supply no five-Justice final disposition with a compatible mandate: four would reverse the hearing requirement, four would affirm individual hearing relief, and Breyer would vacate and remand only for his distinct statutory threshold and release-proof inquiry. No accepted accommodation supplies the missing remedial agreement. Repository-history verification and commitment remain reserved to the operator; no version-control command was invoked. This administrative deferral changes no vote, law or event status.
+No judicial workflow blocker remains for the completed chunk 9 actions. Repository-history verification and commitment remain reserved to the operator.
 
-Validation: `terms/OT2002/freeze/OT_2002CHUNK9_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
+Validation: `terms/OT2002/freeze/OT_2002CHUNK9_VALIDATION.md` and `terms/OT2002/freeze/OT_2002CHUNK9_DEMORE_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
 
 ## Source and Research Cutoff
 

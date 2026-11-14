@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 9 have produced 118 completed event Records covering 115 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
+Chunks 1 through 9 have produced 119 completed event Records covering 116 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 115 completed and 65 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. One scheduled matter remains undecided, as identified below.
+The manifest preserves all 180 scheduled rows: 116 completed and 64 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. Demore remains pending for reargument in October Term 2003.
 
 ## Completed public actions
 
@@ -116,6 +116,7 @@ The manifest preserves all 180 scheduled rows: 115 completed and 65 remaining. C
 | 2003-04-23 | Massaro v. United States | The Second Circuit's procedural-default judgment is reversed and the case remanded. | `terms/OT2002/records/Massaro-v-United-States_merits_2003-04-23.md` |
 | 2003-04-23 | United States v. Handakas | The judgment is affirmed as to duplicate-structuring relief, vacated as to the reversals of Counts One and Four, and remanded for the identified remaining appellate issues and count-specific implementation. | `terms/OT2002/records/United-States-v-Handakas_merits_2003-04-23.md` |
 | 2003-04-28 | Planned Parenthood of Southern Arizona v. Lawall | Rejection of the challenge to necessary confidential internal handling is affirmed, 9–0; rejection of the outside-agency-access claims is vacated and remanded, 6–3. | `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md` |
+| 2003-04-29 | Demore v. Kim | The case is restored to the calendar for reargument in October Term 2003. The Court does not disclose a tally or individual positions on restoration. | `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md` |
 | 2003-04-29 | Herring v. Keenan | The appellate immunity judgment is vacated and the case remanded, 5–4. | `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md` |
 | 2003-04-29 | Roell v. Withrow | The judgment is reversed and the case remanded, 5–4. | `terms/OT2002/records/Roell-v-Withrow_merits_2003-04-29.md` |
 | 2003-04-29 | United States v. Miami University | The judgment, limited permanent injunction and discovery ruling are affirmed, 9–0. | `terms/OT2002/records/United-States-v-Miami-University_merits_2003-04-29.md` |
@@ -748,6 +749,12 @@ The Court applies Rule 52(b) to the forfeited honest-services constitutional cla
 Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_merits_2003-04-28.md`.
 
 Necessary confidential bypass administration remains permissible. Additional authorized government access to intimate bypass records must have a sufficient legal connection among the information, audience and function, with fitted protection against unnecessary dissemination. This independent informational-privacy inquiry and any proved Casey access burden remain distinct. The actual outside permissions and their safeguards must be applied on remand; their legality is not settled by either a general confidentiality label or a hypothetical leak.
+
+### 2003-04-29 — Demore v. Kim
+
+Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
+The governing detention and judicial-review rules remain unchanged while the Court retains the case for further argument.
 
 ### 2003-04-29 — Herring v. Keenan
 
@@ -1577,6 +1584,8 @@ A membership change requires a complete reassessment of circuit allotments; no s
 
 ## Pending procedure
 
+**Demore v. Kim, No. 01-1491:** The case remains pending in this Court for reargument in October Term 2003. Reargument awaits calendar setting. The judgment below and Kim's existing $5,000 bond release remain in effect. Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
 **Cano v. Davis, No. 02-577:** retained for plenary briefing and argument following the January 10 screening. Its merits decision is scheduled June 26, 2003. The three summary-review grants have completed companion dispositions. All lower-court and agency work follows the published remedies; no new Supreme Court date is implied.
 
 | Case or matter | Stage at opening | OT2002 event date | Status | Source |
@@ -1589,6 +1598,5 @@ No further report, filing, deadline, or Court action is supplied.
 
 ## Future event controls
 
-The remaining 65 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 64 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
 
-- Demore v. Kim: undecided; no completed Court action supplies law.

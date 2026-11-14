@@ -1,9 +1,6 @@
 # OT_2002CHUNK9 Render Input
 
-**October Term:** 2002. **Completed events:** 12. **Chronological range:** 2003-04-23 through 2003-06-02.
-
-**Stopped matters:**
-- Demore v. Kim: The supported positions supply no five-Justice final disposition with a compatible mandate: four would reverse the hearing requirement, four would affirm individual hearing relief, and Breyer would vacate and remand only for his distinct statutory threshold and release-proof inquiry. No accepted accommodation supplies the missing remedial agreement.
+**October Term:** 2002. **Completed events:** 13. **Chronological range:** 2003-04-23 through 2003-06-02.
 
 <!-- source-record: City-of-New-York-v-Patrolmens-Benevolent-Association_merits_2003-04-23.md -->
 ## Event
@@ -312,6 +309,53 @@ The case returns to the court of appeals for the actual unresolved statutory-cov
 ## Source Notes
 
 United States v. Handakas, 286 F.3d 92, including the special verdict, honest-services instruction and identified unresolved grounds; Fifth Amendment; 18 U.S.C. §§371, 1341, 1346 and 1956(h); 31 U.S.C. §5324; Federal Rule of Criminal Procedure 52(b). The constitutional and multiplicity objections were forfeited; no intentional waiver is established. The special verdict rejected the money-or-property theory. Resentencing judgment entered May 20, 2002.
+
+---
+
+<!-- source-record: Demore-v-Kim_reargument_2003-04-29.md -->
+## Event
+
+Demore v. Kim, No. 01-1491. Order restoring the case for reargument, April 29, 2003. Argued January 15, 2003. On writ of certiorari to the United States Court of Appeals for the Ninth Circuit, which affirmed the conditional habeas judgment in Kim v. Ziglar, 276 F.3d 523. The pending questions concern legal habeas review under 28 U.S.C. section 2241 and 8 U.S.C. section 1226(e), and the constitutional limits on mandatory detention under section 1226(c).
+
+## Participation
+
+All nine Justices participated at argument and in this order.
+
+## Public Action
+
+The case is restored to the calendar for reargument in October Term 2003. The Court does not disclose a tally or individual positions on restoration.
+
+## Judgment & Remedy
+
+The Ninth Circuit judgment and Kim's existing release on $5,000 bond remain in effect while the case is pending for reargument.
+
+## Opinion Topology
+
+Unsigned order of the Court. No separate writing or noted dissent accompanies the order.
+
+## Holdings
+
+The order leaves the statutory and constitutional questions pending and announces no substantive holding.
+
+## Precedent Treatment
+
+Existing precedent remains in force.
+
+## Law After Decision
+
+The governing detention and judicial-review rules remain unchanged while the Court retains the case for further argument.
+
+## Separate Writings
+
+No separate writing accompanies the order.
+
+## Procedure After Action
+
+The case remains pending in this Court for reargument in October Term 2003. Reargument awaits calendar setting.
+
+## Source Notes
+
+Kim v. Ziglar, 276 F.3d 523 (9th Cir. 2002); 28 U.S.C. section 2241; 8 U.S.C. sections 1226(c) and 1226(e).
 
 ---
 

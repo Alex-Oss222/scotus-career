@@ -1,0 +1,37 @@
+{
+  "cutoff": "2003-04-29",
+  "external": [
+    {
+      "file": "patterson-1988.pdf",
+      "text": "patterson-1988.txt",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-485/pdf/USREPORTS-485-617.pdf"
+    },
+    {
+      "file": "jenkins-1990.pdf",
+      "text": "jenkins-1990.txt",
+      "url": "https://www.govinfo.gov/content/pkg/USREPORTS-495/pdf/USREPORTS-495-33.pdf"
+    }
+  ],
+  "public_render_copies": [
+    {
+      "file": "lawrence-simulated-1996.md",
+      "source": "terms/OT1995/output/OT_1995CHUNK2.md",
+      "entry": "### Lawrence v. Chater, No. 94-9323"
+    },
+    {
+      "file": "jenkins-simulated-1995.md",
+      "source": "terms/OT1994/output/OT_1994CHUNK7.md",
+      "entry": "### Missouri v. Jenkins, No. 93-1823"
+    },
+    {
+      "file": "boerne-simulated-1997.md",
+      "source": "terms/OT1996/output/OT_1996CHUNK12.md",
+      "entry": "### City of Boerne v. Flores, No. 95-2074"
+    },
+    {
+      "file": "bryan-county-simulated-1997.md",
+      "source": "terms/OT1996/output/OT_1996CHUNK7.md",
+      "entry": "### Board of County Commissioners of Bryan County v. Brown, No. 95-1100"
+    }
+  ]
+}

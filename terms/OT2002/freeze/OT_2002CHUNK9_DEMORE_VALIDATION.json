@@ -1,0 +1,78 @@
+{
+  "record": "Demore-v-Kim_reargument_2003-04-29.md",
+  "event_date": "2003-04-29",
+  "action": "Reargument in October Term 2003",
+  "internal_vote": {
+    "support": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "oppose": [
+      "Scalia",
+      "Thomas"
+    ]
+  },
+  "public_poll": "Undisclosed",
+  "new_events": 0,
+  "completed_scheduled_action": true,
+  "pending_merits": "October Term 2003 reargument; no date set",
+  "existing_records_byte_identical": 118,
+  "prior_render_input_events_byte_identical": 12,
+  "original_frozen_merits_artifacts_byte_identical": 99,
+  "changed_existing_files": [
+    "terms/OT2002/freeze/OT_2002CHUNK9_CHECK_TERM.txt",
+    "terms/OT2002/freeze/OT_2002CHUNK9_MECHANICAL_VALIDATION.json",
+    "terms/OT2002/freeze/OT_2002CHUNK9_STOPPED.json",
+    "terms/OT2002/freeze/OT_2002CHUNK9_VALIDATION.md",
+    "terms/OT2002/render-inputs/OT_2002CHUNK9.md",
+    "terms/OT2002/workspace/continuity.md",
+    "terms/OT2002/workspace/ledger.md",
+    "terms/OT2002/workspace/manifest.md",
+    "terms/OT2002/workspace/neutral-projection.md"
+  ],
+  "new_record_count": 1,
+  "records": 119,
+  "manifest_rows": 180,
+  "completed_scheduled_rows": 116,
+  "remaining_scheduled_rows": 64,
+  "stopped_rows": 0,
+  "later_records_examined": 13,
+  "dependent_record_updates": 0,
+  "same_day_records_unchanged": [
+    "Herring v. Keenan",
+    "Roell v. Withrow",
+    "United States v. Miami University"
+  ],
+  "new_counted_leads": 0,
+  "pre_event_lead_counts": {
+    "Stone-Zsela": 10,
+    "Stevens": 11,
+    "O'Connor": 10,
+    "Scalia": 10,
+    "Kennedy": 10,
+    "Souter": 10,
+    "Thomas": 10,
+    "Ginsburg": 11,
+    "Breyer": 10
+  },
+  "last_counted_event": "Planned Parenthood of Southern Arizona v. Lawall, 2003-04-28, Ginsburg",
+  "negative_statement_check": "Passed qualitative review of the five governed blocks and their Record source sections",
+  "term_check": "OK: OT2002; 0 warning(s)",
+  "commit_references_requiring_commands": 0,
+  "repository_history_operations": 0,
+  "relative_markdown_links_checked": 36,
+  "record_sha256": "a0f3e867c5f9184aa979c616caa031552f7dd8f7c0bb3f3f018f6b91bfd47052",
+  "handoff_sha256": {
+    "OT_2002CHUNK9_B_RECONCILED.md": "749f806825e7796558d0e05a69ad37038c71b2366bc6712beb6558fcfd5fb633",
+    "OT_2002CHUNK9_DEMORE_CIRCULATED_RULE.md": "466f69c2a23ac0419da16ebb9fd26bbb7117135e4f9c91e40930d6f44213d79d",
+    "OT_2002CHUNK9_DEMORE_CIRCULATION_AUDIT.md": "378781ef4e2003b537bc9d7c0b8011049fa05a1cdba3a4b34496d5003dfb0190",
+    "OT_2002CHUNK9_DEMORE_REARGUMENT_NEUTRAL.md": "4c9b772b4f2c0fbdedf8c9edd2fed1a2fedf698f0dbbaa958a40a187d9a3db94",
+    "OT_2002CHUNK9_DEMORE_REARGUMENT_COMMITMENTS.md": "876708fbf17b1d16c141ae7463d91f85d6ed5bfce554c0b7a5813856dd66ecaa",
+    "OT_2002CHUNK9_DEMORE_REARGUMENT_RECONCILED.md": "dde81ca0ce30b615da041235a732c26304824506e46e3dc25a4376c33e3400f3"
+  }
+}
