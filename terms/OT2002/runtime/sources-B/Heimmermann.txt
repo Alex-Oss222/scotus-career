@@ -1,0 +1,143 @@
+https://law.resource.org/pub/us/case/reporter/F3/305/305.F3d.1257.99-14066.html
+
+
+
+    305 F.3d 1257
+
+    305 F.3d 1257
+
+    Daniel HEIMMERMANN, individually and on behalf of themselves and class described, Emily Heimmermann, individually and on behalf of themselves and a class described, Plaintiffs-Appellees,v.FIRST UNION MORTGAGE CORPORATION, Defendant-Appellant.
+
+    No. 99-14066.
+
+    United States Court of Appeals, Eleventh Circuit.
+
+    September 18, 2002.
+
+      Harlan F. Winn, III, Burr & Forman, Birmingham, AL, Russell J. Pope, Pope & Hughes, Towson, MD, for Defendant-Appellant.
+
+      Earl Price Underwood, Jr., Anniston, AL, C. Neal Pope, Teresa Pike Tomlinson, Pope, McGlamry, Kilpatrick & Morrison, LLP, Columbus, GA, David R. Donaldson, Tammy McClendon Stokes, Donaldson, Guin & Slate, L.L.C., Birmingham, AL, Richard H. Gill, Copeland, Franco, Screws & Gill, Montgomery, AL, for Plaintiffs-Appellees.
+
+      Appeal from the United States District Court for the Northern District of Alabama.
+
+      Before EDMONDSON, Chief Judge, and COX and GIBSON*, Circuit Judges.
+
+      EDMONDSON, Chief Judge:
+
+      1
+      First Union Mortgage Corporation appeals the district court's grant of class certification to a class of plaintiffs seeking damages for First Union's alleged violation of Section 8 of the Real Estate Settlement Procedures Act (RESPA). See 12 U.S.C. § 2601, et. seq. We accepted jurisdiction over this appeal. See Fed. R.Civ.P. 23(f). We review a district court's certification of a class for abuse of discretion. See Sikes v. Teleline, Inc., 281 F.3d 1350, 1359 (11th Cir.2002). For a district court to apply the wrong legal standard is an abuse of discretion. See id. We vacate the grant of class certification.
+
+    BACKGROUND
+
+      2
+      This case is one of several dealing with RESPA's effect on the legality of the payment of Yield Spread Premiums (YSP) by mortgage lenders to mortgage brokers. For a detailed discussion of YSP's and their role in the real estate mortgage market, see Culpepper v. Inland Mortgage Corp., 132 F.3d 692, 694 (11th Cir.1998) (Culpepper I) and Culpepper v. Irwin Mortgage Corp., 253 F.3d 1324, 1326 (11th Cir.2001) (Culpepper III).1 A YSP is a payment made by a lender to a broker in exchange for that broker's delivering a mortgage that is above the "par rate" being offered by the lender. Briefly stated, the payment is typically a certain percentage of the total amount of the loan; the exact percentage is determined by the extent to which the actual interest rate exceeds the par rate. These YSP's potentially violate Section 8(a) of RESPA, which prohibits the payment of kickback fees and referrals in association with mortgage lending.
+
+      3
+      In Culpepper III — argued the same day as this case — we concluded that class certification in a case alleging a violation of RESPA was appropriate where the payment of a YSP was based solely upon the amount by which the loan rate exceeded the par rate and where the payment of the YSP was not tied to specific services provided by the broker. Because whether this standard was satisfied could be determined on a class-wide basis, we concluded that the district court in Culpepper III did not err by granting class certification. See Culpepper III, 253 F.3d at 1332.
+
+      4
+      Shortly after our Culpepper III ruling, the Department of Housing and Urban Development issued a Statement of Policy (the 2001 SOP),2 purportedly clarifying a Statement of Policy issued in 1999 (the 1999 SOP).3 Our ruling in Culpepper III had relied heavily on the 1999 SOP. According to First Union, the 2001 SOP is at odds with the outcome of Culpepper III and compels a different result in this case.
+
+    DISCUSSION
+
+      5
+      Before we address the substance of the 2001 SOP, we must determine its applicability to this case. Although the 2001 SOP raises some concerns about the retroactive application of agency interpretations, about the deference given to policy statements, and about the ability of an agency interpretation to overrule prior circuit precedent, we ultimately conclude that nothing prevents the application of the 2001 SOP to this case.
+
+    I. Retroactive Application of the 2001 SOP
+
+      6
+      The 2001 SOP was promulgated after the transactions that gave rise to this litigation and after the district court's ruling on the issue of class certification. But because we accept that both the 2001 SOP and the statement it interprets, the 1999 SOP, are clarifications of existing law4 and not new rules or regulations, no problem with the retroactive application of the statements exists. See Piamba Cortes v. American Airlines, Inc., 177 F.3d 1272, 1283 (11th Cir.1999) ("[C]oncerns about retroactive application are not implicated when an amendment that takes effect after the initiation of a lawsuit is deemed to clarify relevant law rather than effect a substantive change in the law"); Pope v. Shalala, 998 F.2d 473, 483 (7th Cir.1993), overruled on other grounds, Johnson v. Apfel, 189 F.3d 561 (7th Cir.1999) ("A rule simply clarifying an unsettled or confusing area of the law ... does not change the law, but restates what the law according to the agency is and has always been: `It is no more retroactive in its operation than is a judicial determination construing and applying a statute to a case in hand.'") (quoting Manhattan General Equip. Co. v. Commissioner, 297 U.S. 129, 56 S.Ct. 397, 400, 80 L.Ed. 528 (1936)); see also Farmers Telephone Co. v. FCC, 184 F.3d 1241, 1250 (10th Cir.1999); Orr v. Hawk, 156 F.3d 651, 654 (6th Cir.1998); Cowen v. Bank United of Texas, 70 F.3d 937, 943 (7th Cir.1995).
+
+      7
+      While not dispositive, an agency's determination that a new statement is a clarification of existing law, rather than an entirely new rule, is generally given much weight. See Pope, 998 F.2d at 483. We will defer to an agency's statement that a new rule is a clarification of the law, instead of a new rule altogether, unless "the prior interpretation ... is patently inconsistent with the later one." Id. Another significant indicator that a statement only clarifies existing law is when the law supposedly being clarified is ambiguous. See Piamba Cortes, 177 F.3d at 1283-84.
+
+      8
+      We accept that the 2001 SOP created no new rule, but instead only clarified the interpretation of RESPA found in the 1999 SOP. The 2001 SOP itself states that it is merely clarifying the 1999 SOP; and nowhere in the 2001 SOP does HUD claim to be changing the law. And, we do not consider the 2001 SOP to be "patently inconsistent" with RESPA or with the 1999 SOP. In Culpepper III we wrote that the 1999 SOP was "ambiguous" and subject to different interpretations. Culpepper III, 253 F.3d at 1327. Based upon these considerations, we conclude that the 2001 SOP is a clarification of existing law and that no retroactivity problems prevent its application to this case.
+
+    II. Chevron Deference
+
+      9
+      An additional preliminary question is what deference, if any, should be given to the 2001 SOP.
+
+      10
+      No deference is to be given to an agency interpretation that is at odds with the plain meaning of the statute being interpreted. See Chevron, U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837, 104 S.Ct. 2778, 2781, 81 L.Ed.2d 694 (1984). But RESPA does not, by its plain language, speak to the standard for determining whether the payment of a YSP violates the Act. Section 8(a) of RESPA simply prohibits kickbacks and referral fees, see 12 U.S.C. § 2607; Section 8(c) allows payment "for services actually performed in the making of a loan." The question of how to determine when a YSP is an illegal kickback and when it is a legally permissible payment for services actually performed is not specifically addressed in RESPA. Our ruling in Culpepper III did not purport to rely squarely upon the plain language of Section 8 of RESPA, but rather upon an interpretation of RESPA's language and of the "ambiguous" 1999 SOP. See Culpepper III, 253 F.3d at 1329-1330. The plain language of RESPA does not prevent us from giving deference to the 2001 SOP.5
+
+      11
+      A question also exists about whether the 2001 SOP is the kind of agency statement to which the courts should give broad deference. In United States v. Mead Corp., 533 U.S. 218, 121 S.Ct. 2164, 150 L.Ed.2d 292 (2001), the Supreme Court wrote that "administrative implementation of a particular statutory provision qualifies for Chevron deference when it appears that Congress delegated authority to the agency generally to make rules carrying the force of law, and that the agency interpretation claiming deference was promulgated in the exercise of that authority." Id. at 2171. RESPA contains an express delegation of congressional authority: the statute authorizes the Secretary of HUD "to prescribe such rules and regulations, to make such interpretations, and to grant such reasonable exemptions for classes of transactions, as may be necessary to achieve the purposes of this chapter." 12 U.S.C. § 2617(a) (emphasis added). HUD regulations identify a "statement of policy" as a document that embodies such a "rule, regulation, or interpretation" under RESPA's delegation of authority. See 24 C.F.R. § 3500.4(a)(1)(ii).6
+
+      12
+      Because the power to issue interpretations is expressly delegated in RESPA, the 2001 SOP carries the full force of law. As a result, we give deference to the 2001 SOP. The precedents are not to the contrary. In Mead and Christensen v. Harris County, 529 U.S. 576, 120 S.Ct. 1655, 146 L.Ed.2d 621 (2000), the Supreme Court concluded that certain kinds of agency pronouncements were not due broad Chevron deference. See United States v. Mead Corp., 121 S.Ct. at 2173-74 (concluding that Customs Service ruling letter was not entitled to Chevron deference); Christensen, 120 S.Ct. at 1662-63 (concluding that Department of Labor opinion letter was not entitled to Chevron deference). But, neither of the agency interpretations at issue in Mead and Christensen involved an agency acting pursuant to a statutory delegation of interpretive power. In this case, on the other hand, a congressional delegation of authority giving HUD's Statement of Policy the force of law does exist. And, the interpretation we are reviewing — the 2001 SOP — was promulgated pursuant to that delegation of authority.
+
+      13
+      Given the express delegation of authority in RESPA, formal notice-and-comment is not needed to extend deference to the 2001 SOP. See Barnhart v. Walton, ___ U.S. ___, 122 S.Ct. 1265, 1271-72, 152 L.Ed.2d 330 (2002) (stating that Chevron deference can still apply even in the absence of a notice and comment period); Mead, 121 S.Ct. at 2173 ("[T]he want of [notice and comment] here does not decide the case, for we have sometimes found reasons for Chevron deference even when no such administrative formality was required and none was afforded.") (citing NationsBank of N.C., N.A. v. Variable Annuity Life Ins. Co., 513 U.S. 251, 115 S.Ct. 810, 130 L.Ed.2d 740 (1995)).
+
+      14
+      We also reject the argument that the 2001 SOP is due no deference because it is inconsistent with earlier expressions of HUD's position. We cannot say that the 2001 SOP is "inconsistent" with the 1999 SOP. The 1999 SOP was "ambiguous." The 2001 SOP clarifies that ambiguity. Plaintiff also points to letters from HUD's general counsel to members of Congress and points to a lawsuit filed by the United States; Plaintiff says these things show that HUD's position, before the 2001 SOP, was consistent with the way we interpreted the 1999 SOP in Culpepper III. We reject this argument for several reasons. First, we are unconvinced that the letters and pleadings Plaintiff identifies are inconsistent with the 2001 SOP. At best, they reflect the ambiguity we saw in the 1999 SOP. Second, the kinds of documents identified by Plaintiff — informal letters written by agency lawyers and positions taken in litigation — are the kinds of informal policy positions that lack the force of law and are unentitled to Chevron deference. See Mead, 121 S.Ct. at 2175; Christensen, 120 S.Ct. at 1662. Even if the 2001 SOP is inconsistent with these informal indications of policy, we cannot say that the official position of HUD on the present issue has been inconsistent. We conclude, therefore, that the 2001 SOP is within the realm of agency interpretations that carry the force of law and are due broad deference.
+
+      15
+      We also reject the argument that the 2001 SOP is inconsistent with clear congressional intent and, therefore, is due no Chevron deference. See Chevron, 104 S.Ct. at 2782. We cannot say that HUD's interpretation violates Congress's clear intent in enacting RESPA. See, e.g., Bjustrom v. Trust One Mortgage Corp., 178 F.Supp.2d 1183, 1196 (W.D.Wash.2001); Levine v. North American Mort., 188 F.R.D. 320, 328-29 (D.Minn.1999). One of RESPA's stated goals is "the elimination of kickbacks or referral fees that tend to increase unnecessarily the costs of certain settlement services." 12 U.S.C. § 2601(b)(2). The test laid out in the 2001 SOP, which does ban fees in excess of what would be reasonable compensation for the broker's service, seems to fulfill that ultimate goal. In addition, nothing in the language of RESPA itself compels the conclusion that HUD's test for the legality of YSP's — admittedly more lenient than that adopted in Culpepper III — violates congressional intent.
+
+      16
+      That we may have determined in Culpepper III that a different interpretation of RESPA (in our view) is better or more consistent with the statutory language does not require — or even allow — us to reject HUD's interpretation. "[T]he resolution of ambiguity in a statutory text is often more a question of policy than of law." Florida Manuf. Housing Ass'n, Inc. v. Cisneros, 53 F.3d 1565, 1572 (11th Cir.1995) (quoting Pauley v. BethEnergy Mines, Inc., 501 U.S. 680, 111 S.Ct. 2524, 2534, 115 L.Ed.2d 604 (1991)); see also Gonzalez v. Reno, 212 F.3d 1338, 1349 (11th Cir.2000) ("[T]he courts cannot properly reexamine the wisdom of an agency-promulgated policy."). That we may prefer a different interpretation is not enough to deny deference to the agency interpretation. See Florida Housing, 53 F.3d at 1572 ("[T]he court need not conclude that the agency construction was the only one it permissibly could have adopted ... or even the reading the court would have reached if the question initially had arisen in a judicial proceeding.") (quoting Chevron, 104 S.Ct. at 2782 n. 11). We conclude, therefore, that the 2001 SOP is entitled to Chevron deference.7
+
+    III. Effect of 2001 SOP On Culpepper III
+
+      17
+      We also conclude that the rule announced in the 2001 SOP can, in effect, overrule the holding of Culpepper III. "Courts generally must defer to an agency statutory interpretation that is at odds with circuit precedent, so long as the agency's answer is based on a permissible construction of the statute." Satellite Broadcasting and Communications Ass'n of America v. Oman, 17 F.3d 344, 347 (11th Cir.1994)(internal quotations omitted); cf. Lechmere v. NLRB, 502 U.S. 527, 112 S.Ct. 841, 847-48, 117 L.Ed.2d 79 (1992) ("Once we have determined a statute's clear meaning, we adhere to that determination under the doctrine of stare decisis, and we judge an agency's later interpretation of the statute against our prior determination of the statute's meaning.") (emphasis added) (quoting Maislin Industries, U.S., Inc. v. Primary Steel, Inc., 497 U.S. 116, 110 S.Ct. 2759, 2768, 111 L.Ed.2d 94 (1990)).
+
+    IV. Application of the 2001 SOP
+
+      18
+      We conclude that the substance of the 2001 SOP compels a different result in this case than the result in Culpepper III. The 2001 SOP explicitly rejects the foundation of Culpepper III: "neither Section 8(a) of RESPA nor the 1999[SOP] supports the conclusion that a yield spread premium can be presumed to be a referral fee based solely upon the fact that the lender pays the broker a yield spread premium that is based upon a rate sheet, or because the lender does not have specific knowledge of what services the broker has performed." 2001 SOP, 66 Fed.Reg. at 53,055.
+
+      19
+      According to the 2001 SOP, the first step in assessing whether RESPA has been violated is to determine whether the broker has provided goods or services of the kind typically associated with a mortgage transaction.8 Contrary to the conclusion in Culpepper III, the lender and the broker need not be able to tie the YSP payment to specific services provided. If this first step is satisfied, the fact-finder must proceed to the second step: determining whether the total compensation paid to the broker is reasonably related to the total value of the goods or services actually provided. See 2001 SOP, 66 Fed. Reg. at 53,055.
+
+      20
+      Based on the 2001 SOP, we conclude that the district court did abuse its discretion in granting class certification in this case. Federal Rule of Civil Procedure 23(a) identifies four requirements which must be satisfied before a class can be certified. These elements are the requirements: "(1) the class is so numerous that joinder of all members is impracticable, (2) there are questions of law or fact common to the class, (3) the claims or defenses of the representative parties are typical of the claims or defenses of the class, and (4) the representative parties will fairly and adequately protect the interests of the class." Fed.R.Civ.P. 23(a).
+
+      21
+      In this case, the district court concluded that the requirements were met. The district court determined that common questions of fact were dominant because the class representative alleged these things: 1) for each class member's loan, the amount of the YSP was based solely upon the amount by which the loan rate exceeded the par rate; and 2) for each class member's loan, the YSP was not tied directly to specific additional services provided by the broker.
+
+      22
+      The 2001 SOP, however, makes clear that facts such as those alleged are not sufficient to establish a violation of RESPA. Instead, it is necessary to determine whether compensable services were provided by the broker and whether the total amount of broker compensation was reasonable in the light of the circumstances of each loan. In granting class certification, the district court therefore applied what we now see as an improper legal standard. See Piamba Cortes, 177 F.3d at 1282-83 (appellate court reversing district court by applying a clarifying protocol — which carried the force of law — to Warsaw Convention even though the protocol was ratified by Senate only after the district court rendered its decision). The district court therefore abused its discretion when it granted class certification.
+
+      23
+      In sum, we conclude that the 2001 SOP may be retroactively applied to this case, that the SOP is entitled to deference, and that the SOP's interpretation of RESPA is contrary to and, in effect, overrules Culpepper III. Because the 2001 SOP demonstrates that the district court applied the wrong legal standard, the district court abused its discretion in granting class certification. Therefore, the district court's grant of class certification is hereby vacated, and we remand for further proceedings consistent with this opinion.
+
+      24
+      VACATED AND REMANDED.
+
+        Notes:
+
+        *
+         Honorable John R. Gibson, U.S. Circuit Judge for the Eighth Circuit, sitting by designation
+
+        1
+         See also Culpepper v. Inland Mortgage Corp., 144 F.3d 717 (11th Cir.1998) (Culpepper II) (denying motion for rehearing in Culpepper I).
+
+        2
+         Real Estate Settlement Procedures Act Statement of Policy 2001-1: Clarification of Statement of Policy 1999-1 Regarding Lender Payments to Mortgage Brokers, and Guidance Concerning Unearned Fees Under Section 8(b), 66 Fed.Reg. 53,052 (Oct. 18, 2001)
+
+        3
+         Real Estate Settlement Procedures Act Statement of Policy 1999-1 Regarding Lender Payments to Mortgage Brokers, 64 Fed.Reg. 10,080, 10,080 (March 1, 1999)
+
+        4
+         The 2001 SOP states that it was "issued toeliminate any ambiguity concerning the Department's position with respect to ... yield spread premiums," and that, "in issuing this Statement of Policy, the Department clarifies its interpretation of [RESPA] in [the 1999 SOP]." 66 Fed.Reg. at 53,052 (emphasis added). Likewise, the 1999 SOP states that it was issued pursuant to Congress's direction that HUD "clarify its position on lender payments to mortgage brokers...." 1999 SOP, 64 Fed.Reg. at 10,080 (emphasis added).
+
+        5
+         The Eighth and Ninth Circuits have both concluded that the 2001 SOP is not inconsistent with the plain language of RESPASee Schuetz v. Banc One Mortgage Corp., 292 F.3d 1004, 1012 (9th Cir.2002) ("We must first determine whether the language of [Section] 8(c)(2) unambiguously forbids HUD's interpretation. It does not.") (internal marks and citations omitted); Glover v. Standard Federal Bank, 283 F.3d 953, 963-965 (8th Cir.2002) ("HUD's two-part test [from the 2001 SOP] is fully consistent with RESPA.").
+
+        6
+         InCulpepper III, we wrote that 24 C.F.R. § 3500.4(a)(1)(ii) imbues HUD Statements of Policy interpreting RESPA with "the force of a regulation." See Culpepper III, 253 F.3d at 1327.
+
+        7
+         The Ninth Circuit has also concluded that the 2001 SOP is dueChevron deference. See Schuetz, 292 F.3d at 1012 ("Chevron deference is due even though HUD's Policy Statements are not the result of formal rulemaking or adjudication.").
+
+        And, because we conclude that the 2001 SOP is entitled to deference as an interpretation of RESPA, we need not consider whether the 2001 SOP would also be entitled to deference as an interpretation of HUD's own ambiguous regulations, 24 C.F.R. § 3500.14, under the rule of Auer v. Robbins, 519 U.S. 452, 117 S.Ct. 905, 137 L.Ed.2d 79 (1997). We also need not consider whether the 2001 SOP would be entitled to deference based upon its power to persuade. See Skidmore v. Swift & Co., 323 U.S. 134, 65 S.Ct. 161, 89 L.Ed. 124 (1944).
+
+        8
+         The kinds of services that would satisfy the first element of the test are laid out in the 1999 SOPSee 64 F.R. at 10,085. The first element of the test does have some substance: a payment to a broker who provides "no, nominal, or duplicative work" would violate RESPA.
+
+      CC∅ | Transformed by Public.Resource.Org
+

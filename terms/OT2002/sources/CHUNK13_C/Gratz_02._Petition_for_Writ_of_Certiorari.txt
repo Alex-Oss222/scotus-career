@@ -1,0 +1,1869 @@
+Q2 516 0CT 1~- 2002 
+- THE CLERK 
+
+
+Jn The 
+Susreme Court of the Gnited States 
+
+
+¢ 
+
+
+JENNIFER GRATZ AND 
+PATRICK HAMACHER, 
+
+
+Petitioners, 
+v. 
+
+
+LEE BOLLINGER, JAMES J. DUDERSTADT, 
+AND THE BOARD OF REGENTS OF THE 
+UNIVERSITY OF MICHIGAN, 
+Respondents. 
+> 
+On Petition For Writ Of Certiorari Before Judgment 
+
+
+To The United States Court Of Appeals 
+For The Sixth Circuit 
+
+
+e 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+o 
+
+
+MICHAEL E. ROSMAN DAVID F. HERR 
+HANS BADER Counsel of Record 
+CENTER FOR INDIVIDUAL KIRK O. KOLBO 
+
+RIGHTS R. LAWRENCE PURDY 
+Suite 300 MICHAEL C. MCCARTHY 
+1233 20th Street N.W. KAI H. RICHTER 
+Washington, D.C. 20036 MASLON EDELMAN BORMAN 
+(202) 833-8400 & BRAND, LLP 
+
+3300 Wells Fargo Center 
+
+KERRY L. MORGAN 90 South Seventh Street 
+
+
+PENTIUK, COUVREUR Minneapolis, Minnesota 
+
+
+& KOBILJAK, P.C. 
+Suite 230, Superior Place ( oan ty 
+20300 Superior Street 
+
+
+Taylor, Michigan 48180 
+(734) 374-8930 
+
+
+COCKLE LAW BRIEF PRINTING CO. (800) 225-6964 
+OR CALL COLLECT (402) 342-2831 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Does the University of Michigan’s use of racial 
+preferences in undergraduate admissions violate the 
+Equal Protection Clause of the Fourteenth Amendment, 
+Title VI of the Civil Rights Act of 1964 (42 U.S.C. § 2000d), 
+or 42 U.S.C. § 1981? 
+
+
+2. Did the district court correctly dismiss the plain- 
+tiff class’s claim for injunctive relief with respect to the 
+University of Michigan’s use of racial preferences in 
+undergraduate admissions? 
+
+
+3. Did the individual defendants violate the clearly 
+established legal rights of plaintiffs, so that they are not 
+entitled to summary judgment on the ground of qualified 
+immunity? 
+
+
+ii 
+PARTIES TO THE PROCEEDING 
+
+
+Petitioners are Jennifer Gratz and Patrick Hamacher. 
+They are plaintiffs in the District Court and appellants in 
+the Court of Appeals. They bring this action on their own 
+behalf and petitioner Hamacher also brings it on behalf of 
+a certified class of similarly situated persons. 
+
+
+Respondents are Lee Bollinger, James J. Duderstadt, 
+and The Board of Regents of the University of Michigan. 
+They were defendants in the District Court and appellees 
+in the Court of Appeals. 
+
+
+The following additional respondents were defendant- 
+intervenors in the District Court and appellants in the 
+Court of Appeals: 
+
+
+Ebony Patterson, Ruben Martinez, Laurent 
+Crenshaw, Karla R. Williams, Larry Brown, Tif- 
+fanv Hall, Kristen M.J. Harris, Michael Smith, 
+Khyla Craine, Nyah Carmichael, Shanna 
+Dubose, Ebony Davis, Nicole Brewer, Karla Har- 
+lin, Brian Harris, Katrina Gipson, Candice B.N. 
+Reynolds, by and through their parents or 
+guardians, Denise Patterson, Moises Martinez, 
+Larry Crenshaw, Harry J. Williams, Patricia 
+Swan-Brown, Karen A. McDonald, Linda A. Har- 
+ris, Deanna A. Smith, Alice Brennan, Ivy Rene 
+Carmichael, Sarah L. Dubose, Inger Davis, Bar- 
+bara Dawson, Roy D. Harlin, Wyatt G. Harris, 
+George C. Gipson, Shawn R. Reynolds, and Citi- 
+zens for Affirmative Action’s Preservation 
+
+
+ill 
+TABLE OF CONTENTS 
+
+
+a cdounoncnonsees 
+as sceseensonen 
+EE 
+Petition for writ Of Certiora®#i ..............cc.cccccccesserecceees 
+a sa ccsmasnccsscncososs 
+a sensenesiosoenons 
+Constitutional and statutory provisions involved ..... 
+a cnsaconensocces 
+a scnrnenncconcces 
+8 ) 
+
+
+B. The university's admissions policies and 
+ES a 
+
+
+1. Admissions policies for 1995-1997... 
+2. Admissions policies for 1998-2000..... 
+I ss ccnncnccnsccosccoscces ian 
+Ty) Te re | 
+B. The court of appeals.................. 
+Reasons for granting the writ.............................. 
+
+
+1. This Court should exercise its power to grant 
+review before judgment..............................65. 
+
+
+i  cccccocoocecccoces Sv 
+III. The lower courts are divided .......................... 
+
+
+IV. This case presents important issues of fun- 
+damental! national importance.................. ae 
+
+
+DT ccccncccncees 
+
+
+Page 
+
+
+iv 
+
+
+TABLE OF CONTENTS - Continued 
+
+
+Page 
+APPENDIX 
+DISTRICT COURT OPINIONS, 
+ORDERS, AND JUDGMENTS 
+Contents of Appendix 
+Appendix A (Opinion) (December 13, 2000) ................0..... la 
+Appendix B (Order) (January 30, 2001) ................ccccceee. 56a 
+Appendix C (Order) (February 9, 2001) .................c.c0c00. 60a 
+Appendix D (Judgment) (February 9, 2001) ................... 63a 
+Appendix E (Opinion) (February 26, 2001) .............0..0.... 66a 
+Appendix F (Order) (February 26, 2001)......................... 9la 
+Appendix G (Order) (March 21, 2001).................:cccceeeess 95a 
+SIXTH CIRCUIT ORDERS 
+Appendix H (Order) (October 19, 2001)...................:00. 100a 
+Appendix I (Order) (November 16, 2001) ...................... 103a 
+DISTRICT COURT EXHIBIT 
+Appendix J (Joint Summary of Undisputed Facts 
+Regarding Admissions Process) (December 13, 
+oe ceretaniistentietetniiantinsnsiniianiiitsitinnisiiiaianiissaetidial bli casaiat ties 106a 
+
+
+Vv 
+TABLE OF AUTHORITIES 
+Page 
+CASES: 
+Aaron v. Cooper, 357 U.S. 566 (1958) ......... 2... eee 16 
+Adarand Constructors, Inc. v. Pena, 515 U.S. 200 
+ITI hsaisiciinsiitesnineenetitaahdeeaienabteelasibicieniniasaddinaieaidsiibiiccnsibianimetiill 20, 25 
+Alexander v. Sandoval, 532 U.S. 275 (2001) ..................... 20 
+Bob Jones Univ. v. United States, 461 U.S. 574 
+Urea tietarstetrnieieideocientceieanitieienpatanaiehatieseiataigeaentinaniieniammmieentinininadadiiiielitia 28 
+Bolling v. Sharpe, 344 U.S. 873 (1952).............ccccccccceeeeeee: 15 
+Brown v. Board of Educ., 347 U.S. 483 (1954) .................. 28 
+Brown v. Board of Educ., 344 U.S. 1 (1952)...................... 15 
+City of Mesquite v. Aladdin's Castle, Inc., 455 U.S. 
+chiens niece acini cael hacia alti 29 
+City of Richmond v. J.A. Croson Co., 488 U.S. 469 
+Sir aithicasebsitainsiabaseiniesiesbatidiadedpabiemiameaseaiiieaniica iat aa 21, 25, 26 
+Eisenberg v. Montgomery County Pub. Schs., 197 
+F.3d 123 (4th Cir. 1999), cert. denied, 529 U.S. 
+SEER ee eae en nes a a EN 22 
+Greene v. McElroy, 360 U.S. 474 (1959) ...............cccccceeeeee. 15 
+Grutter v. Bollinger, 288 F.3d 732 (6th Cir. 2002), 
+petition for cert. filed, 71 U.S.L.W. 3154 (August 
+Ge csentsennsesnnpnnnstsinenttnnialieniinnnstninnanne passim 
+Grutter v. Bollinger, 247 F.3d 631 (6th Cir. 2001)............. 13 
+Grutter v. Bollinger, 188 F.3d 394 (6th Cir. 1999)............. 10 
+Hopwood v. Texas, 236 F.3d 256 (5th Cir. 2000).......... 11, 21 
+
+
+Hopwood v. Texas, 78 F.3d 932 (5th Cir.), cert. 
+denied, 518 U.S. 1033 (1996) ................eccceceeeeeeeeeeees 11, 21 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+Johnson v. Board of Regents of Univ. of Georgia, 
+263 F.3d 1234 (11th Cir. 2001)..................... 21, 22, 23, 26 
+Lutheran Church -— Missouri Synod v. FCC, 141 
+I ete 22, 27 
+Marks v. United States, 430 U.S. 188 (1977)......... 11, 21, 22 
+McNamara v. City of Chicago, 138 F.3d 1219 (7th 
+Cir.), cert. denied, 525 U.S. 981 (1998) ................cccce eee 22 
+Palmore v. Sidoti, 466 U.S. 429 (1984).............ccccccecceeeeeee 25 
+Porter v. Dicken, 328 U.S. 252 (1946) ..............ccccccceeeeeeeeess 15 
+Porter v. Lee, 328 U.S. 246 (1946)..............ccccccceceeeeeeeeeeeeees 15 
+Regents of the Univ. of California v. Bakke, 438 U.S. 
+Se Cai Oe axcedsecovsvuteaneesentnnenscsasiannnetmnenneimemnenmemnteds passim 
+Runyon v. McCrary, 427 U.S. 160 (1976) .......................02- 28 
+Shaw v. Hunt, 517 U.S. 899 (1996) ...........................000..00. 21 
+
+
+Smith v. University of Washington Law Sch., 233 
+F.3d 1188 (9th Cir. 2000), cert. denied, 532 U.S. 
+ee iced iaaiahaiiln iain 11, 22 
+
+
+Taxman v. Board of Educ., 91 F.3d 1547 (3rd Cir. 
+1996), cert. granted, 521 U.S. 1117, appeal dis- 
+
+
+missed per stipulation, 522 U.S. 1010 (1997)................. 22 
+Taylor v. McElroy, 358 U.S. 918 (1958) ...............cccceeeeeeeee 15 
+Tuttle v. Arlington County Sch. Bd., 195 F.3d 698 
+
+ER IL SEI ceitircinsennenensnnmmnieduasniimmmenmenenimepial 22, 23 
+United States v. Clinton, 524 U.S. 912 (1998)................... 17 
+
+
+United States v. Nixon, 418 U.S. 683 (1974) ............cccceee 1 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES - Continued 
+
+
+Page 
+
+Wessmann v. Gittens, 160 F.3d 790 (1st Cir. 1998)......22, 27 
+Wygant v. Jackson Bd. of Educ., 476 U.S. 267 
+
+Serra icestciciaiecietidiieieetiitalaineiiaeiteaiealiteeninaadsiatiaiiaeas 21, 25, 26 
+STATUTES: 
+I a aad al 1 
+A nee Tm 12 
+I ach aaa 10, 12 
+aE 2, 10, 28 
+| conn ENE .2, 10, 11 
+A TTT cceistidinctetininiaietiniiieiaeiiicaaiateaianieaeiiale 1, 10, 17, 28 
+Court RULES: 
+Federal Rule of Civil Procedure 23(b)(2) ..............ccccccceeeees 10 
+Federal Rule of Civil Procedure 54(b) ................... 10, 11, 12 
+Supreme Court Rule 11 ..................cccccceeeeees 2, 14, 15, 16, 17 
+
+
+1 
+
+
+PETITION FOR WRIT OF CERTIORARI 
+
+
+Petitioners respectfully petition for a writ of certiorari 
+before judgment to review a decision of a United States 
+District Court for the Eastern District of Michigan. The 
+decision of the District Court is presently pending in the 
+United States Court of Appeals for the Sixth Circuit. 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the District Court (App. at la) for 
+which this petition is filed is reported at 122 F. Supp. 2d 
+811 (E.D. Mich. 2000). The decision of the District Court 
+with respect to the arguments of the intervenors in this 
+case (App. at 66a) is reported at 135 F. Supp. 2d 790 (E.D. 
+Mich. 2001). 
+
+
+JURISDICTION 
+
+
+The District Court entered its order on Januar. 30, 
+2001, and a judgment on February 9, 2001. The case is 
+docketed in the court of appeals as Nos. 01-1333, 01-1416, 
+01-1418, and 01-1438. The jurisdiction of this Court is 
+invoked under 28 U.S.C. §1254(1). Under 28 U.S.C. 
+§ 1254(1), this Court may grant a petition for a writ of 
+certiorari to review any case that is “in” the court of appeals, 
+even if a final judgment has not been entered by that court. 
+United States v. Nixon, 418 U.S. 683, 692 (1974). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+1. The Equal Protection Clause of Section 1 of the 
+Fourteenth Amendment provides that no State shall “deny 
+to any person within its jurisdiction the equal protection of 
+the laws.” 
+
+
+~ 2. Title VI of the Civil Rights Act of 1964, 42 U.S.C. 
+§ 2000d states: 
+No person in the United States shall, on the 
+grounds of race, color, or national origin, be ex- 
+cluded from participation in, be denied the benefits 
+
+
+2 ° 
+
+
+of, or be subjected to discrimination under any 
+program or activity receiving Federal financial 
+assistance. 
+
+
+3. 42 U.S.C. § 1981(a) states: 
+
+
+All persons within the jurisdiction of the United 
+States shall have the same right in every State 
+and Territory to make and enforce contracts, ... 
+and to the full and equal benefit of all laws and 
+proceedings for the security of person and prop- 
+erty. ... 
+
+
+4. 42 U.S.C. § 1983 states: 
+
+
+Every person who, under color of any statute, or- 
+dinance, regulation, custom, or usage, of any 
+State ... subjects, or causes to be subjected, any 
+citizen of the United States or other person 
+within the jurisdiction thereof to the deprivation 
+of any rights, privileges, or immunities secured 
+by the Constitution and laws, shall be liable to 
+the party injured in an action at law, suit in eq- 
+uity, or other proper proceeding for redress. 
+
+
+STATEMENT OF THE CASE 
+
+
+Petitioners request this Court to exercise its power 
+and discretion under Rule 11 of its rules to grant a writ of 
+certiorari before judgment to the United States Court of 
+Appeals for the Sixth Circuit, which has not yet entered 
+judgment on an appeal of this case pending before it. The 
+case presents questions about what constitutes a compel- 
+ling interest that may justify a state-supported university 
+to give race-based preferences in student admissions to 
+applicants from certain racial or ethnic groups. The 
+district court resolved this issue by concluding that diver- 
+sity is a compelling interest. The appeal of the case was 
+heard by the Sixth Circuit, sitting en banc, on the same 
+day (December 6, 2001) that it heard Grutter v. Bollinger, 
+288 F.3d 732 (6th Cir. 2002), petition for cert. filed, 71 
+U.S.L.W. 3154 (August 9, 2002) (No. 02-241), which 
+involves similar claims made against the University of 
+Michigan Law School. Although the Sixth Circuit had 
+
+
+3 
+
+
+ruled that the appeals of the cases would be expedited (see 
+discussion infra at 13 & n.2), it has issued an opinion (filed 
+on May 14, 2002) in Grutter only, in which it ruled, among 
+other things, that diversity is a compelling interest justify- 
+ing the use of racial preferences in university admissions. 
+The Fifth, Ninth, Eleventh, and Sixth Circuits have split 
+on this issue of profound national importance. 
+
+
+The case presents additional questions concerning 
+what constitutes appropriate “narrow tailoring” of an 
+admissions policy designed to achieve diversity; whether 
+the district court correctly dismissed the plaintiff class's 
+claim for an injunction; and whether the individual defen- 
+dants were entitled to summary judgment on grounds of 
+qualified immunity. The district court, although invalidat- 
+ing the University’s racial preferences at issue for the 
+years prior to, and for one year after the commencement 
+of, the action (1995-1998), summarily dismissed the 
+plaintiff class’s request for injunctive relief in its entirety. 
+It also upheld large, rigid, mechanical racial preferences in 
+effect in 1999 and at the time of the district court’s ruling 
+in December 2000. The district court’s conclusion that the 
+later policies met narrow-tailoring requirements conflicts 
+sharply with the approach to narrow tailoring taken by 
+this Court and by other lower courts. 
+
+
+I. FACTUAL BACKGROUND 
+
+
+A. Plaintiffs 
+
+
+Plaintiffs Jennifer Gratz and Patrick Hamacher 
+applied for admission to the University of Michigan's 
+College of Literature, Science & the Arts (hereinafter 
+“University” or “LSA”) for the fall academic terms that 
+commenced in 1995 and 1997, respectively. App. at 109a.' 
+
+
+' Many of the statements of facts contained in the petition herein are 
+based on a “Joint Summary of Undisputed Facts” that was submitted by 
+the parties to the district court and that is included in the appendix at App. 
+106a-118a. Additional citations herein are to documents contained in the 
+
+(Continued on following page) 
+
+
+4 
+
+
+Both Gratz and Hamacher were initially placed on a “wait- 
+list” for admission, and were subsequently denied admis- 
+sion. They are both white and at all material times were 
+residents of the state of Michigan. Jd. 
+
+
+Ms. Gratz applied with a 3.8 high school grade point 
+average and an ACT score of 25. JA at 543. She was 
+notified by letter dated January 19, 1995, that the LSA 
+had “delayed” a final decision on her application until 
+early to mid-April. App. at 109a. 
+
+
+By letter dated April 24, 1995, the University wrote to 
+inform Ms. Gratz that it was unable to offer her admis- 
+sion. Jd. The University invited Ms. Gratz to place her 
+name on an “extended waiting list,” but went on to state 
+that it “expect[ed] to take very few students from the 
+extended waiting list,” and “recommend([ed] students make 
+alternative plans to attend another institution.” Jd. Ms. 
+Gratz did so by accepting an offer for admission into the 
+freshman class of another institution, the University of 
+Michigan at Dearborn, where she enrolled in the fall of 
+1995 and graduated in 1999. Id. 
+
+
+Plaintiff Patrick Hamacher applied in 1996 for admis- 
+sion into the fall 1997 freshman class of the LSA. Id. He 
+had a 3.32 high school grade point average and a 28 ACT 
+score. JA at 280-95. By letter dated November 19, 1996, 
+the University informed Mr. Hamacher that it “must 
+postpone” a decision on his application until “mid-April.” 
+App. at 109a. _ 
+
+On or about April 8, 1997, the University informed 
+Mr. Hamacher that after further review, it was unable to 
+offer him admission to the LSA. Jd. at 109a-110a. As a 
+result of the denial, Mr. Hamacher accepted admission 
+
+
+Joint Appendix (“JA”) filed by the parties in the Sixth Circuit, or to 
+record materials contained in the Lodging (“Lodg.”) filed contemporane- 
+ously with this petition. 
+
+
+5 
+
+
+into another institution, Michigan State University, where 
+he enrolled in the fall of 1997 and graduated in 2001. 
+
+
+B. The University’s Admissions Policies and 
+Practices 
+
+
+Defendants admit that they use race as a factor in 
+making admissions decisions and that the race of plaintiffs 
+Gratz and Hamacher was not a factor that “enhanced” the 
+consideration of their applications. JA at 151. The Univer- 
+sity and LSA are the recipients of federal funds. Jd. 
+
+
+Defendants justify the use of race as a factor in the 
+admissions process on one ground only: that it serves a 
+“compelling interest in achieving diversity among its 
+student body.” Jd. at 314. Admission to the LSA is selec- 
+tive, meaning that many more students apply each year 
+than can be admitted, and the University rejects many 
+qualified applicants. App. at 108a. Defendants, however, 
+have a policy to admit all qualified applicants who are 
+members of one of three select racial minority groups — 
+African American, Hispanic, and Native American - 
+(which defendants often refer to as “underrepresented” 
+groups): f 
+
+[M]inority guidelines are set to admit all stu- 
+
+dents who qualify and meet the standards set by 
+
+the unit liaison with each academic unit, while 
+
+majority guidelines are set to manage the num- 
+
+ber of admissions granted to satisfy the various 
+
+targets set by the colleges and schools. 
+
+
+... Thus, the significant difference between our 
+evaluation of underrepresented minority groups 
+and majority students is the difference between 
+meeting qualifications to predict graduation 
+rather than selecting qualified students one over 
+another due to the large applicant pool. 
+
+
+Lodg. at L.2, L.5. Defendants acknowledge that their 
+consideration of race in the admissions process has the 
+effect of admitting virtually every qualified applicant from 
+any of the designated underrepresented minority groups. 
+
+
+6 
+
+
+App. at llla. The University generally defines a “quali- 
+fied” applicant as one who could be expected, on the basis 
+of the information contained in his or her application, to 
+achieve passing grades as a student in the school to which 
+the applicant has applied for admission. JA at 331. 
+
+
+1. Admissions Policies for 1995-1997 
+
+
+Written “Guidelines” for all LSA classes commencing 
+in 1995, 1996, and 1997 have in common the use of grids 
+or tables that are divided into cells representing different 
+combinations of small ranges of adjusted high school grade 
+point averages and scores on ACT or SAT tests. App. at 
+llla-113a, 115a; Lodg. at L.8-11, L.17-18, L.25-26. The 
+grade point averages are adjusted first by clerical employ- 
+ees and second by admissions counselors. App. at 1lla- 
+112a. The adjustments made by the admission counselors 
+are based on application of separate written “SCUGA” 
+guidelines, which result in a score on a four-point scale 
+(“GPA 2”) that is represented in the tables for each year. 
+Id. The SCUGA guidelines call for addition or subtraction 
+of points based on the quality of an applicant’s high school 
+(“S”), strength of curriculum (“C”), unusual circumstances 
+(“U”), geographic factors (“G”), and alumni relationships 
+(“A”). App. at 1lla-112a; Lodg. at L.12-15, L.20-23, L.28- 
+31. 
+
+
+Each cell in the Guidelines tables includes one or 
+more possible actions for consideration by the admissions 
+counselor reviewing an applicant’s file. Generally, the 
+Guidelines actions fall into one of the following categories: 
+admission, rejection, delay (e.g., for more information) or 
+postpone (“wait-list” due to limited available spaces). The 
+Guidelines for applicants in 1995 (which included Jennifer 
+Gratz) had four separate tables, one for each of the follow- 
+ing groups of applicants: in-state non-minority students; 
+out-of-state non-minority students; in-state minority 
+students; and out-of-state minority students. App. at 112a; 
+Lodg. at L.8-11. For applicants for the 1996 and 1997 
+classes (which included Patrick Hamacher), there were 
+two tables — for in-state and out-of-state applicants — and 
+
+
+7 
+
+
+minority and non-minority action codes are provided for 
+separately in each of the individual cells, with the top row 
+of the cell representing the Guidelines action for non- 
+minority students and the bottom two rows for minority 
+applicants and disadvantaged or other students desig- 
+nated as underrepresented. App. at 112a-115a; Lodg. at 
+L.17-18, L.25-26. The addition of a new “SCUGA” factor 
+for underrepresented minority status in 1997 had another 
+consequence: underrepresented minorities, solely based on 
+their race, had one-half point (.5) added to their grade 
+point average calculation used in the already discrimina- 
+tory Guidelines tables. App. at 115a; Lodg. at L.30. 
+
+
+The Guidelines establish that admissions decisions for 
+non-minorities are generally more selective, requiring 
+higher GPA 2 and test scores for admission, than admis- 
+sion decisions for minority applicants. Jd. at L.8-11, L.17- 
+18, L.25-26. In some cases, the Guidelines called for 
+automatic rejection based on low grades or test scores; 
+underrepresented minorities, however, were never rejected 
+automatically. JA at 329, 338, 358. 
+
+
+In the case of Jennifer Gratz, her adjusted high school 
+grade point average (“GPA 2”) of 3.8 and ACT score of 25 
+placed her in a cell that called for a “postpone” on the first 
+review under the 1995 Guidelines, which was the first 
+action taken with respect to her. JA at 543; App. at 109a; 
+Lodg. at L.8. For a minority applicant (in-state or out-of- 
+state) with the same combination of “GPA 2” and test 
+score, the Guidelines called for a decision to “Admit.” Jd. at 
+L.10-11. 
+
+
+Patrick Hamacher had an adjusted grade point 
+average (“Selection Index”) of 3.0 and an ACT score of 28, 
+which placed him in a cell in the 1997 Guidelines that 
+called for postponement of non-minority students and 
+delay or admission of minority students (whose Selection 
+Index was augmented by .5 for race). JA at 280-95, 544; 
+App. at 109a-110a; Lodg. at L.25. 
+
+
+The admissions data show that the two-track guide- 
+lines had their intended effect. Given comparable grades 
+and test scores, the rates of admission for students from 
+
+
+8 
+
+
+the “underrepresented” racial and ethnic groups are 
+generally much higher than the rates for students from 
+the disfavored racial and ethnic groups. In 1995, for 
+example, students whose grades and test scores placed 
+them in the same “grid” as Jennifer Gratz had an admis- 
+sion rate of 100% (46/46), id. at L.61, while the rate of 
+admission for students from other races and ethnicities in 
+these grids was less than one in three (378/121), id. at 
+L.62. The data show that the admission rates for “under- 
+represented” minorities within a given grid are often 90% 
+to 100%, while the rates for students from other races in 
+the same grids are usually far lower. Jd. at L.61-66. 
+
+
+2. Admissions Policies for 1998-2000 
+
+
+The LSA Guidelines for fall 1998 freshman enroll- 
+ments (adopted after commencement of the lawsuit) 
+dispensed with the tables and cells used in prior years. 
+The new guidelines used a “Selection Index” calculated on 
+a variety of factors and scored on a scale of up to 150 
+points. App. at 116a; Lodg. at L.36-40. For example, the 
+1998 Guidelines actions to be taken on an application are 
+divided linearly as follows: 100 to 150 points (admit); 95- 
+99 points (admit or postpone); 90-94 points (postpone or 
+admit); 75-89 points (delay or postpone); -74 points and 
+below (delay or reject). App. at 116a; Lodg. at L.32-35. 
+
+The factors used to calculate an applicant’s “Selection 
+Index” under the 1998 Guidelines are similar to factors 
+used in prior years. Up to 80 points can be based on high 
+school grade point average (e.g., 40 points for a 2.0 GPA; 
+60 points for a 3.0; and 80 points for a 4.0). App. at 116a; 
+Lodg. at L.36-40. Up to 12 points, representing a perfect 
+ACT/SAT score, can be earned for performance on either of 
+the two standardized tests; up to 10 points for quality of 
+school; from 8 to -4 points for strength or weakness of high 
+school curriculum; 10 points for in-state residency; 4 
+points for alumni relationships; 1 point for an outstanding 
+essay (changed to 3 points beginning in 1999); and 5 points 
+for personal achievement or leadership on the national 
+level. Under a “miscellaneous” category, 20 points are added 
+
+
+9 
+
+
+for one of several factors, including an applicant's mem- 
+bership in an underrepresented racial or ethnic minority 
+group. App. at 116a; Lodg. at L.39-40. 
+
+
+The University adopted the 1998 Guidelines with the 
+intent to admit and enroll the same composition of class as 
+had been admitted and enrolled under the previous 
+Guidelines. In adopting the 1998 Guidelines, defendants 
+did not intend to increase or decrease from prior years the 
+extent to which they considered race and ethnicity in the 
+admissions process. The parties have stipulated that the 
+change from the tables to the selection index did not 
+constitute a substantive change in the way that race and 
+ethnicity were considered in the admissions process. App. 
+at 116a. Defendants continued to use the 150-point Selec- 
+tion Index system for years 1999 and 2000 (the year the 
+district court heard the motions for summary judgment). 
+Id. at 117a; Lodg. at L.41-60. 
+
+
+For years 1995-1998, defendants admitted all quali- 
+fied applicants from the “underrepresented” minority 
+groups as soon as possible, without deferring or postpon- 
+ing (waitlisting) their applications. App. at 113a. Students 
+from other racial groups, like Jennifer Gratz and Patrick 
+Hamacher, could have their applications deferred or 
+postponed. Beginning in 1999, defendants abandoned their 
+approach of “immediately” admitting all qualified under- 
+represented minority students. Instead, admissions 
+counselors were permitted to “flag” for later consideration 
+a file that fell into certain established classifications. Jd. at 
+117a. One of those classifications consisted of qualified 
+underrepresented minority students meeting a designated 
+selection index score. Id. 
+
+
+For years 1995-1998, defendants also “reserved” or 
+“protected” spaces in the class for members of certain 
+groups of students, including students from one of the 
+three underrepresented minority groups. Jd. at 114a-115a. 
+According to defendants, “as applicants from a particular 
+group are admitted over the course of the admissions 
+season, the protected spaces reserved for that group are 
+used.” JA at 310, 319. If the poo: of qualified applicants 
+
+
+10 
+
+
+from these underrepresented minority groups never 
+reached the number of “protected spaces,” those slots 
+“opened up” and could be filled by students who were not 
+members of one of the underrepresented racial groups. Jd. 
+
+
+II. PROCEEDINGS BELOW 
+A. The District Court 
+
+
+This action commenced in Oc‘emr 1997. The Com- 
+plaint alleged that defendants ope.ated an admissions 
+system that illegally discriminated on the basis of race in 
+violation of 42 U.S.C. §§ 1981, 1983, and 2000d. JA at 40- 
+42. Plaintiffs sought, among other things, declaratory and 
+injunctive relief, and damages. Jd. at 41-42. 
+
+
+The district court certified a class of plaintiffs, pursu- 
+ant to Federal Rule of Civil Procedure 23(b\2), in an 
+opinion and order filed December 23, 1998. The interve- 
+nors were made parties to this case following an order of 
+the Sixth Circuit reversing the district court’s order 
+denying intervention. See Grutter v. Bollinger, 188 F.3d 
+394 (6th Cir. 1999) (reversing orders denying intervention 
+in both Gratz and Grutter). 
+
+
+The district court heard the parties’ motions for sum- 
+mary judgment on November 16, 2000. In an opinion filed 
+on December 13, 2000, and order filed on January 30, 2001, 
+the district court granted plaintiffs’ motion for partial 
+summary judgment with respect to declaring defendants’ 
+admissions system for years 1995-1998 unlawful, App. at 
+43a-48a; granted defendants’ motion for summary judgment 
+with respect to their 1999 and 2000 admissions systems 
+and plaintiffs’ claim for injunctive relief, id. at 34a-43a; 
+granted the motion of defendants Bollinger and Duderstadt 
+for summary judgment on grounds of qualified immunity, 
+id. at 48a-50a; and denied defendant Board of Regents’ 
+motion for summary judgment on grounds of Eleventh 
+Amendment immunity, id. at 50e-54a. The January 30, 
+2001, Order also included a certification pursuant to 28 
+U.S.C. § 1292(b). Jd. at 58a. On February 9, 2001, the 
+district court entered an order under Federal Rule of Civil 
+
+
+11 
+
+
+Procedure 54(b) for entry of judgment with respect to the 
+Section 1983 claims against the individual defendants, id. 
+at 60a-62a; and a judgment to that effect was entered on 
+the same day, id. at 63a-64a. In a separate opinion filed on 
+February 26, 2001, id. at 66a, and order filed on March 21, 
+2001, id. at 95a, the district court rejected the arguments of 
+the intervening defendants for justifying the defendants’ 
+racial preferences. 
+
+
+In its December 13, 2000, opinion, the district court 
+concluded that diversity was a compelling interest. Jd. at 
+14a-32a. It did not expressly state that Justice Powell's 
+diversity rationale in Regents of the University of Califor- 
+nia v. Bakke, 438 U.S. 265 (1978), constituted the ration- 
+ale for the holding of this Court in that case. See Hopwood 
+v. Texas, 236 F.3d 256, 275 n.69 (5th Cir. 2000) (“Although 
+decided contrary to Hopwood Il, (78 F.3d 932 (5th Cir. 
+1996), cert. denied, 518 U.S. 1033 (1996)], with respect to 
+the constitutional validity of the diversity rationale, Gratz 
+is nevertheless consistent with our position that the 
+Hopwood II panel was neither constrained to accept, nor 
+required to reject, diversity as a compelling state interest 
+under binding Supreme Court precedent”). In fact, the 
+district court stated that it did “not necessarily agree with 
+the Ninth Circuit's conclusion [in Smith v. University of 
+Washington, Law Sch., 233 F.3d 1188 (9th Cir. 2000), cert. 
+denied, 532 U.S. 1051 (2001)} that Justice Powell's” analysis 
+was the “narrowest” rationale for the holding of this Court by 
+application of the analysis approved in Marks v. United 
+States, 430 U.S. 188, 193 (1977). App. at 17a. Nonetheless, 
+the district court added that it “reache[d] the same ultimate 
+conclusion as the Ninth Circuit, ie., that under Bakke, 
+diversity constitutes a compelling governmental interest in 
+the context of higher education justifying the use of race 
+as one factor in the admissions process, albeit through 
+somewhat different reasoning.” App. at 17a. 
+
+The district court held that the admissions policies for 
+years 1995-1998 were not narrowly tailored, id. at 43a- 
+48a, but that the policies in effect in 1999 and 2000 (when 
+the motions for summary judgment were argued) were 
+narrowly tailored, id. at 34-43a. It reached this bifurcated 
+
+
+12 
+
+
+result by concluding that there were substantive differ- 
+
+ences in the policies for these two time periods. The 
+
+conclusion contradicted the parties’ stipulated fact that the 
+
+- substance of defendants’ consideration of race had not 
+changed over these years. Jd. at 116a. 
+
+
+Although the district court ruled the 1995-1998 
+admissions systems unlawful, it neither enjoined their 
+use, as plaintiffs had sought, nor explained why an injunc- 
+tion was not appropriate. To the contrary, it granted 
+defendants’ motion for summary judgment with respect to 
+the claims for an injunction. Finally, although the district 
+court concluded that it was “clear” that the 1995-1998 
+admissions systems were the functional equivalent of a 
+quota and “ran afoul of Justice Powell's opinion-in Bakke,” 
+it dismissed plaintiffs’ Section 1983 claims on qualified 
+immunity grounds. Jd. at 48a-50a. 
+
+
+B. The Court of Appeals 
+
+
+There were four separate appeals taken to the Sixth 
+Circuit from the decisions of the district court. The district 
+court had entered an order dated January 30, 2001, which 
+both effectuated the decisions made in the December 13, 
+2000, opinion and made the necessary findings pursuant to 
+28 U.S.C. § 1292(b). Defendants filed a petition, and plain- 
+tiffs filed a cross-petition, seeking permission to appeal 
+from the January 30, 2001, order. The Sixth Circuit granted 
+both requests for permission to appeal by order dated 
+March 26, 2001. The two appeals were docketed in the court 
+of appeals as appeal numbers 01-1416, and 01-1418. 
+
+Plaintiffs also filed-as a matter of right, pursuant to 
+28 U.S.C. § 1292(a), an appeal from the district court's 
+summary judgment dismissing the plaintiff class’s request 
+for injunctive relief. In the same appeal, plaintiffs sought 
+review as a matter of right, pursuant to 28 U.S.C. § 1291, 
+of the district court’s final judgment (for which it had 
+directed entry pursuant to Rule 54(b)) dismissing their 
+claims against the individual defendants in their individ- 
+ual capacities on grounds of “qualified immunity.” This 
+appeal was docketed as appeal number 01-1333. 
+
+
+13 
+
+
+The fourth appeal was filed by the intervenors with 
+respect to the decision of the district court rejecting the 
+intervenors’ proffered justifications for the University’s use 
+of racial preferences in admissions. This appeal was 
+docketed as appeal number 01-1438. 
+
+
+On April 2, 2001, defendants in this case and Grutter 
+v. Bollinger moved to consolidate the two cases and expe- 
+dite the appeals. Defendants cited both the need for clear 
+instructions concerning their own admissions practices 
+and the national significance of the issues as reasons to 
+expedite both appeals.* On May 11, 2001, plaintiff filed a 
+petition for initial hearing en banc of this case and Grutter 
+v. Bollinger. 
+
+
+On August 28, 2001, the Sixth Circuit issued an order 
+scheduling the case for oral argument on October 23, 2001, 
+the same date that the court separately scheduled Grutter 
+v. Bollinger for oral argument. On October 19, 2001 (four 
+days before the scheduled panel argument), the court 
+issued an order granting the petition for initial hearing en 
+banc and rescheduling the oral argument in both cases for 
+December 6, 2001. The order is contained in the appendix 
+at App. 100a and is reported at 277 F.3d 803. 
+
+On May 14, 2002, the Sixth Circuit issued its 5-4 
+decision in Grutter v. Bollinger, 288 F.3d 732, 757 (6th Cir. 
+2002), petition for cert. filed, 71 U.S.L.W. 3154 (August 9, 
+2002) (No. 02-241). The court held that “diversity” was 
+a compelling interest as a matter of law under the ration- 
+ale articulated solely by Justice Powell in Bakke. Id. at 
+
+
+* Although the Sixth Circuit did not directly address these motions 
+with respect to the two cases, it subsequently issued orders referring to 
+the two cases as “consolidated.” App. at 10la; id. at 104a. It also 
+ordered the appeal in Grutter v. Bollinger “expedited,” see Grutter v. 
+Bollinger, 247 F.3d 631, 633 (6th Cir. 2001), and twice subsequently 
+scheduled oral argument of the two cases for the same day. See also 
+Grutter v. Bollinger, 288 F.3d 732, 757 (6th Cir. 2002) (Moore, J., 
+concurring) (“[Tjhe chief judge ordered that the appeals in Grutter and 
+Gratz be expedited.”), petition for cert. filed, 71 U.S.L.W. 3154 (August 
+9, 2002) (No. 02-241). 
+
+
+14 
+
+
+739-42. The Sixth Circuit also held that the law school’s 
+use of racial preferences was narrowly tailored to achieve 
+the objective of diversity. Jd. at 744-52. The plaintiff in 
+that case has petitioned this Court for a writ of certiorari. 
+See Docket No. 02-241 
+
+The May 14, 2002, opinion in Grutter noted that the 
+Sixth Circuit would separately render its decision in this 
+case in a “forthcoming” opinion. See Grutter v. Bollinger, 
+288 F.3d at 735 n.2. As of the date of filing of this petition, 
+the Sixth Circuit has not issued its opinion in this case. 
+
+
+REASONS FOR GRANTING THE WRIT 
+
+
+I. This Court Should Exercise Its Power to 
+Grant Review Before Judgment. 
+
+
+Rule 11 of this Court’s rules provide that a writ of 
+certiorari before judgment in a case pending in a court of 
+appeals will be granted “only upon a showing that the case 
+is of such imperative public importance as to justify the 
+deviation from normal appellate practice and to require 
+immediate settlement in this Court.” For several reasons, 
+the circumstances of this case make it appropriate for 
+granting such early review. 
+
+
+First, the case presents issues of fundamental na- 
+tional importance. See discussion infra at 24-30. It con- 
+cerns important constitutional and civil rights, and the 
+resolution of these issues will almost certainly have effects 
+that extend far beyond the parties to the case. 
+
+Second, this Court has before it a petition for certio- 
+rari filed on August 9, 2002, in Grutter v. Bollinger, which 
+seeks review of a decision by the same court of appeals in 
+which this case is pending, which involves many of the 
+
+
+15 
+
+
+same parties,’ and which presents issues that are in many 
+respects identical or very similar to those raised in this 
+case. There are, however, also differences between the two 
+cases. Among other things, a comparison of the cases 
+shows how racial preferences can take different forms, 
+while inflicting the same kinds of harm. While each case 
+itself is separately worthy of this Court’s review, the two 
+cases considered together will present the Court with a 
+broader spectrum and more substantial record within 
+which to consider and rule upon the common principles 
+that they involve than if only one case is considered, or if 
+they are resolved separately and at different times or in 
+different terms. In a number of cases, this Court has found 
+it appropriate to grant review before judgment when 
+another similar case has already been accepted for review 
+by the Court. For example, in considering a petition for 
+certiorari in Brown v. Board of Education, 344 U.S. 1, 3 
+(1952), the Court took judicial notice of a similar case 
+pending in the court of appeals and invited the filing of a 
+petition for review in that case, id. at 3, which was subse- 
+quently granted, see Bolling v. Sharpe, 344 U.S. 873 
+(1952). See also Taylor v. McElroy, 358 U.S. 918 (1958) 
+(certiorari granted before judgment “because of the pend- 
+ency here” of another case, Greene v. McElroy, 360 U.S. 
+474 (1959), which involved the same important constitu- 
+tional issues and which wds pending in the same court of 
+appeals); Porter v. Dicken, 328 U.S. 252, 254 (1946) (certio- 
+rari granted before judgment “by reason of the close 
+relationship of the important question raised to the 
+question presented” in a case for which the Court had 
+already granted certiorari, Porter v. Lee, 328 U.S. 246 
+(1946)) 7 
+
+
+* The Board of Regents of the University of Michigan and Lee 
+Bollinger, formerly president of the University and prior to that dean of 
+its law school, are defendants in both the Gratz and Grutter cases. 
+
+
+16 
+
+
+Third, the absence of a decision from the Sixth Circuit 
+in this case should make no difference on the common 
+principal issues related to compelling-interest and narrow- 
+tailoring analyses raised by the two cases. The Sixth 
+Circuit decided the first issue as a matter of law in Grutter 
+v. Bollinger, 288 F.3d at 738-44 (holding diversity to be a 
+compelling interest). Presumably, in eventually deciding 
+this case, the Sixth Circuit would follow its own recent 
+precedent as to those issues. Accordingly, this Court 
+already has for evaluation the reasoning of the Sixth 
+Circuit on compelling-interest analysis. As to narrow- 
+tailoring, the Sixth Circuit has also already laid out its 
+analytical approach to the issue. Jd. at 744-52. 
+
+
+The sharp division in the lower courts (see discussion 
+infra at 20-24) has itself created circumstances whereby 
+the various competing arguments on compelling interest 
+and narrow tailoring have been fully developed. These 
+considerations, plus the circumstance that the district 
+court decided the case on summary judgment, subjecting it 
+to de novo review by this Court and the Sixth Circuit, 
+militate against waiting for a decision from the Sixth 
+Circuit. This is particularly true given the benefits of 
+having the cases considered together. 
+
+
+Fourth, the effect on members of the class caused by 
+the Sixth Circuit’s delay is also a consideration that 
+weighs in favor of granting review at this time. Because 
+the University starts making admissions decisions in the 
+fall for the class to be enrolled in the following fall, inac- 
+tion by the Sixth Circuit has already meant that many 
+members of the class now applying for admission will 
+compete for scarce admissions spots under a race-based 
+dual system. Although it is unknown when the Sixth 
+Circuit would eventually render a decision in this case, the 
+delay that has already occurred — nearly ten months since 
+the case was argued and over nineteen months since the 
+appeal was filed — is incompatible with the time-sensitive 
+nature of the admissions process (and with the Sixth 
+Circuit’s ruling (see discussion supra at 13 & n.2) that 
+the appeal would be expedited). See Aaron v. Cooper, 357 
+U.S. 566, 567 (1958) (denying petition for review before 
+
+
+17 
+
+
+—_ 
+
+
+judgment in school admissions case where belief expressed 
+that court of appeals would “recognize the vital importance 
+of the time element in this litigation” and would act “in 
+ample time to permit arrangements to be made for the 
+next school year”). Cf. United States v. Clinton, 524 U.S. 
+912 (1998) (denying petition for review before judgment | 
+while noting that “[i]t is assumed the Court of Appeals will 
+proceed expeditiously to decide this case”). 
+
+
+Finally, granting review at this time will not deny the 
+Court the time to reflect adequately on the important 
+issues at stake. The petition has been filed in time to 
+permit, if it is granted, briefing on the merits in the 
+normal course and consideration by this Court during the 
+2002 term. Moreover, if the Court grants review in Grutter 
+v. Bollinger, the two cases could, at the Court’s direction, 
+be briefed on the merits under a simultaneous schedule, 
+argued on the same day, and decided during the same 
+term. 
+
+
+Although this Court rarely exercises its power to 
+grant review before judgment, this is one of the rare cases 
+where the Court should grant the petition before judg- 
+ment. 
+
+
+_- 
+
+
+Il. The Bakke Case 
+
+
+This Court has not directly addressed the issue of 
+permissible race-conscious admissions policies in higher 
+education since it did so nearly twenty-five years ago in 
+Regents of the University of California v. Bakke, 438 U.S. 
+265 (1978). In Bakke, this Court found that the admissions 
+program of the University of California Medical School at 
+Davis, which set aside 16% of the places in the class for 
+educationally or economically disadvantaged minorities, 
+violated Title VI of the Civil Rights Act of 1964, 42 U.S.C. 
+§ 2000d. Five Justices, including Justice Powell, held that 
+the Davis program unlawfully considered race in the 
+admissions process. 
+
+
+Another group of five Justices, also including Justice 
+Powell, reversed the judgment of the California Supreme 
+
+
+18 
+
+
+Court enjoining Davis from using race as a factor in 
+admissions under any circumstances. In this conclusion, 
+Justice Powell was joined by Justice Brennan, who wrote 
+an opinion joined by Justices Blackmun, Marshall, and 
+White that would have upheld the Davis admissions 
+system. 
+
+
+Justice Powell, applying strict scrutiny to the Davis 
+program, concluded that academic freedom, although not a 
+specifically enumerated Constitutional right, was a “spe- 
+cial concern” of the First Amendment and thus a suffi- 
+ciently compelling interest to meet strict scrutiny. Bakke, 
+438 U.S. at 312 (Powell, J.). “Academic freedom” included 
+the freedom to determine who would be allowed to study 
+at a state university. Jd. 
+
+
+While rejecting the argument that Davis's specific 
+program of reserving spaces for disadvantaged minorities 
+was necessary to achieve the robust exchange of ideas that 
+the Regents allegedly wanted, Justice Powell did state 
+that race and ethnicity could be considered as “plus” 
+factors by universities seeking to achieve that goal. He 
+cited to the text of the so-called “Harvard plan,” which he 
+said would pass constitutional muster under his approach. 
+Id. at 316-18. 
+
+
+Justice Powell specifically disapproved of an admis- 
+sions system that reserved a specified number of spaces in 
+the class for members of particular minority groups or that 
+operated “as a cover for the functional equivalent of a 
+quota system.” Jd. at 315, 318. He found that the Davis 
+“dual admission” or “two-track” system, id. at 314-15, in 
+which a number of seats in the medical school class were 
+reserved on the basis of an “explicit racial classification,” 
+id. at 319, violated the Equal Protection Clause, id. at 319- 
+20. 
+
+
+Although Justice Brennan seemingly rejected “strict 
+scrutiny,” Bakke, 438 U.S. at 357 (Brennan, J.), he bor- 
+rowed a scrutiny level from gender-discrimination cases 
+that he characterized as “strict and searching.” Jd. at 362. 
+Specifically, he required the use of race to serve important 
+
+
+19 
+
+
+governmental objectives and to be substantially related to 
+achieving those objectives. Id. at 359. 
+
+
+Justice Brennan concluded that the Davis program 
+met his “strict and searching” scrutiny analysis because 
+remedying the effects of past societal discrimination was a 
+sufficiently important governmental objective, and be- 
+cause the Davis program was, in his view, substantially 
+related to achieving that objective. In reaching the latter 
+conclusion, Justice Brennan stated that remedies for past 
+discrimination need not be limited to victims identified by 
+specific proof, but that they should be limited to those 
+“within a general class of persons likely to have been the 
+victims of discrimination.” Jd. at 363. In finding that the 
+Davis program met that requirement, Justice Brennan 
+emphasized: 
+
+
+[T]he Davis admissions program does not simply 
+equate minority status with disadvantage. 
+Rather, Davis considers on an individual basis 
+each applicant’s personal history to determine 
+whether he or she has likely been disadvantaged 
+by racial discrimination. The record makes clear 
+that only minority applicants likely to have been 
+isolated from the mainstream of American life 
+are considered in the special program; other mi- 
+nority applicants are eligible only through the 
+regular admissions program. 
+
+
+Id. at 377. Cf. id. at 275 n.4 (Powell, J.) (the admissions 
+
+
+chairman would confirm “disadvantage” of individual 
+applicants).* 
+
+
+Justice Brennan did not mention or endorse the 
+“academic freedom” or “diversity” rationale of Justice 
+Powell. He did state that something like the “Harvard 
+
+
+* Indeed, that is how Justice Brennan viewed the “Harvard plan” - 
+an admissions system that “openly and successfully employs a racial 
+criterion for the purpose of ensuring that some of the scarce places in 
+institutions of higher education are allocated to disadvantaged minority 
+students.” Bakke, 438 U.S. at 379 (Brennan, J.) (emphasis added). 
+
+
+20 
+
+
+plan” would be “constitutional under our approach, at least 
+so long as the use of race to achieve an integrated student 
+body is necessitated by the lingering effects of past dis- 
+crimination.” Id. at 326 n.1 (Brennan, J.) (emphasis 
+added). While recognizing that no one opinion spoke for 
+the Court, Justice Brennan purported to describe the 
+“central meaning” of the various opinions without any 
+reference to the “academic freedom” or “diversity” ration- 
+ales: 
+
+Government may take race into account when it 
+
+acts not to demean or insult any racial group, but 
+
+to remedy disadvantages cast on minorities by 
+
+past racial prejudice, at least when appropriate 
+
+findings have been made by judicial, legislative, 
+
+or administrative bodies with competence to act 
+
+in this area. 
+
+
+Id. at 325 (emphasis added). 
+
+
+In the only part of Justice Powell’s Equal Protection 
+analysis that was joined by Justice Brennan, Part V-C, 
+nothing was said, much less endorsed, about justifying 
+racial preferences on grounds of diversity or academic 
+freedom. Id. at 320 (Powell, J.). 
+
+
+III. The Lower Courts Are Divided. 
+
+
+Aside from Justice Powell's opinion in Bakke, the 
+opinions of this Court have never before or since addressed 
+whether diversity or academic freedom are compelling 
+interests justifying racial preferences in university admis- 
+sions. Subsequent opinions have included comment on the 
+fractured nature of the Bakke opinions. See Adarand 
+Constructors, Inc. v. Pena, 515 U.S. 200, 218 (1995) 
+(“Bakke did not produce an opinion for the Court.”); Alex- 
+ander v. Sandoval, 532 U.S. 275, 308 n.15 (2001) (Stevens, 
+J., dissenting) (The five Justices in Bakke who voted to 
+overturn the injunction imposed by the lower courts 
+“divided over the application of the Equal Protection 
+Clause — and by extension Title VI — to affirmative action 
+cases. Therefore, it is somewhat strange to treat the 
+opinions of those five Justices in Bakke as constituting a 
+
+
+ea. wee ee Se one 
+
+
+21 
+
+
+majority for any particular substantive interpretation of 
+Title VI”). 
+
+In other contexts, this Court’s more recent decisions 
+have recognized only one interest as sufficiently compel- 
+ling to justify racial classifications: remedying past, 
+identified discrimination. Shaw v. Hunt, 517 U.S. 899 
+(1996) (voting rights and redistricting). It has expressed 
+disapproval of recognizing as “compelling” interests that 
+are “amorphous” and that have “no logical stopping point.” 
+City of Richmond v. J. A. Croson Co., 488 U.S. 469, 498-99 
+(1989) (O’Connor, J.); (citing and quoting Wygant v. Jack- 
+son Bd. of Educ., 476 U.S. 267, 275 (1986) (plurality 
+opinion)); id. at 520 (Scalia, J.). 
+
+
+Not surprisingly, then, the lower courts have strug- 
+gled and disagreed about whether academic freedom or 
+diversity are interests that can justify racial preferences in 
+student admissions. The Fifth and Eleventh Circuits have 
+held that Justice Powell’s opinion in Bakke with respect to 
+diversity did not constitute a rationale for the holding of 
+the Court. In Hopwood v. Texas, 78 F.3d 932 (5th Cir.), 
+cert. denied, 518 U.S. 1033 (1996), the Fifth Circuit deter- 
+mined that Justice Powell spoke for no other Justice 
+concerning diversity, and that Justice Brennan had implic- 
+itly rejected diversity as a compelling governmental 
+interest. Jd. at 944. See also Hopwood v. Texas, 236 F.3d 
+256, 274-75 (5th Cir. 2000) (Wiener, Stewart, JJ.). Con- 
+cluding that this Court’s precedents had not resolved 
+whether diversity was a compelling interest, the Fifth 
+Circuit analyzed the question and determined that it was 
+not. Hopwood, 78 F.3d at 945-46. 
+
+
+The Eleventh Circuit, in a case involving a challenge 
+to racial preferences in admissions at the University of 
+Georgia, reviewed the opinions in Bakke and determined 
+that the Marks analysis did not support a conclusion that 
+Justice Powell’s opinion concerning diversity was the 
+holding of the Court. Johnson v. Board of Regents of Univ. 
+of Georgia, 263 F.3d 1234, 1247-49, 1254-64 (llth Cir. 
+
+
+22 
+
+
+2001). Ultimately, the Eleventh Circuit concluded that 
+whether diversity was a compelling interest was an “open 
+question,” but that it need not be decided in the case 
+before it because the University of Georgia’s racial prefer- 
+ences under review were not narrowly tailored to achieve 
+an interest in diversity. Jd. at 1250, 1254-64. 
+
+
+In contrast, the Sixth and Ninth Circuits have con- 
+cluded that Justice Powell’s opinion with respect to diver- 
+sity constitutes the rationale for the holding of the Court 
+in Bakke through application of the Marks analysis. 
+Grutter v. Bollinger, 288 F.3d at 738-44; Smith v. Univer- 
+sity of Washington Law Sch., 233 F.3d 1188 (9th Cir. 2000), 
+cert. denied, 532 U.S. 1051 (2001). 
+
+
+Other courts of appeals have noted expressly or 
+implicitly that this Court has not resolved whether diver- 
+sity is a compelling interest. Eisenberg v. Montgomery 
+County Pub. Schs., 197 F.3d 123, 130 (4th Cir. 1999) 
+(elementary school student admissions) (“whether diver- 
+sity is a compelling governmental interest remains unre- 
+solved”), cert. denied, 529 U.S. 1019 (2000); Tuttle v. 
+Arlington County Sch. Bd., 195 F.3d 698, 704-05 (4th Cir. 
+1999) (same); Wessmann v. Gittens, 160 F.3d 790, 796 (1st 
+Cir. 1998) (middle school student admissions) (“[W]Je need 
+not definitively resolve this conundrum [whether diversity 
+is compelling] today.”). Cf. Taxman v. Board of Educ., 91 
+F.3d 1547, 1563-64 (3rd Cir. 1996) (holding that “[wJhile 
+the benefits flowing from diversity in the education con- 
+text are significant indeed,” they did not satisfy require- 
+ments for use of racial preferences under Title VII), cert. 
+granted, 521 U.S. 1117, appeal dismissed per stipulation, 
+522 U.S. 1010 (1997); McNamara v. City of Chicago, 138 
+F.3d 1219, 1222 (7th Cir.) (preferences in employment) 
+(“whether [non-remedial] justifications are possible is 
+unsettled”), cert. denied, 525 U.S. 981 (1998); Lutheran 
+Church - Missouri Synod v. FCC, 141 F.3d 344, 354-56 
+(D.C. Cir. 1998) (rejecting racial diversity as a compelling 
+interest justifying racial preferences in the award of 
+broadcast licenses). 
+
+
+a ee ee ey 
+
+
+am eet hw ~ 
+
+
+| a a eontndd = nl mat (et, tap hh re Mn oe 
+
+
+23 
+
+
+The district court’s narrow-tailoring analysis with 
+respect to the 1999-2000 admissions policies also diverges 
+from the approach taken by other circuits. In upholding an 
+admissions system that mechanically grants a large, fixed 
+racial preference to all members of specified racial minori- 
+ties, the decision is inconsistent with the results in other 
+cases. For example, the Eleventh Circuit considered and 
+struck down on narrow-tailoring grounds an admissions 
+system at the University of Georgia that was in many ways 
+comparable to the system at issue here. See Johnson v. 
+Board of Regents of the Univ. of Georgia, 263 F.3d at 1254-61. 
+
+
+Justice Powell made clear that a race-based “two- 
+track” admissions system, or one that amounted to the 
+“functional equivalent of a quota system” would be illegal. 
+Bakke, 438 U.S. at 316, 319 (Powell, J.). The district court 
+failed to address or éxplain how the mechanical, rigid, 20- 
+point preference granted by the defendants to all members 
+of specified racial minorities was “functionally” any differ- 
+ent from a quota system. See Tuttle v. Arlington County 
+Sch. Bd., 195 F.3d at 707 (“Although the Policy does not 
+explicitly set aside spots solely for certain minorities, it 
+has practically the same result by skewing the odds of 
+selection in favor of certain minorities.”). 
+
+
+The district court openly acknowledged that the 
+diversity interest was a permanent one, and yet it did not 
+find this incompatible with the traditional narrow- 
+tailoring requirement that race-conscious remedies be 
+temporary. App. at 26a. Finally, on the questions of the 
+availability of race-neutral alternatives and the indefinite 
+duration of the preferences, the district court’s approach 
+was much less rigorous than that employed by other 
+courts. See, e.g., Tuttle, 195 F.3d at 706; Johnson v. Board 
+of Regents of Univ. of Georgia, 263 F.3d at 1261; id. at 
+1254 (“We have held that only as a ‘last resort’ may race be 
+used in awarding valuable public benefits. . . . That princi- 
+ple applies equally to the university admissions process.”). 
+
+
+Quite demonstrably, the lower courts are fractured 
+in their understanding about whether diversity is a 
+compelling interest; whether Justice Powell’s rationale 
+
+
+24 
+
+
+articulating the diversity interest is controlling; and even 
+on what Justice Powell meant when he discussed what he 
+considered to be the permissible scope of the use of race as 
+a factor in admissions decisions. Many questions cry out 
+for resolution. If universities may select the racial groups 
+to which they give preferences based on “underrepresenta- 
+tion” of these groups in the student body, how is diversity 
+different in practice from objectives of simple racial bal- 
+ancing? If achieving diversity is a compelling interest 
+sufficient to justify racial preferences in education because 
+of the beneficial effects of obtaining diverse viewpoints, 
+what limiting principle prevents diversity from justifying 
+racial preferences in other areas of life where diverse 
+viewpoints may also be beneficial, like jury selection or 
+employment in positions with responsibility for manage- 
+ment or creation of public policy? 
+
+If Justice Powell’s articulation of the diversity ration- 
+ale is held to be controlling, then what constitutes the 
+“functional equivalent” of a quota, which his rationale 
+forbids? Is a mechanical, point-based system that auto- 
+matically awards points to some students solely because of 
+their race or ethnicity consistent with the requirements of 
+narrow tailoring? Is such a system just a “plus” system 
+involving no “facial” intent to discriminate, with “good 
+faith” presumed, Bakke, 438 U.S. at 318-19 (Powell, J.)? 
+May a college or university have dual admissions stan- 
+dards, whereby all members of some races are admitted if 
+they meet minimum qualifications, while students from 
+other races are required to compete for admission even 
+though they meet the same minimum qualifications? May 
+a “plus” for race be of any size or substance, so long as the 
+language of a “quota” or “set aside” is avoided? Do tradi- 
+tional factors associated with narrow tailoring, such as the 
+requirement that preferences be temporary, have no 
+application to the diversity rationale? 
+
+
+IV. This Case Presents Issues of Fundamental Na- 
+tional Importance. 
+
+
+There can be no serious doubt that the case presents 
+(as does Grutter v. Bollinger, in which a petition for 
+
+
+25 
+
+
+certiorari is pending (02-241)), an issue of great national 
+importance. At the most fundamental level the question it 
+raises is whether our Nation's principles of equal protec- 
+tion and non-discrimination mean the same thing for 
+people of all races. This Court has said in the past that it 
+does. See, e.g., Adarand Constructors, Inc. v. Pena, 515 
+U.S. 200, 222 (1995) (standard of review for racial classifi- 
+cations is the same for all races). But the proposition is 
+tested again by this case, and especially by the justifica- 
+tions for unequal treatment put forth by the University 
+and intervenors. 
+
+
+The University of Michigan employs, formally and 
+functionally, a race-based two-track admissions system. It 
+is a quota system more egregious than the one at issue in 
+Bakke because the Universitys preferences have the 
+purpose and effect of admitting all qualified applicants 
+from the select minority groups, while requiring qualified 
+students from other racial groups to compete based on the 
+limited number of spaces in the class; in Bakke, the quota 
+was limited to 16% of the spaces in the class, and only 
+disadvantaged applicants from the minority groups could 
+be considered for the reserved seats. Bakke, 438 U.S. at 
+274-75. 
+
+
+It is a measure of how formless, standardless, arbi- 
+trary, and unlimited in scope the diversity rationale is or 
+has become that the University puts it forward in defend- 
+ing the quota system at issue here. To uphold a quota 
+system like the University’s on the basis of Justice Pow- 
+ell’s opinion in Bakke is either to mock the opinion or to 
+demonstrate how meaningless it has been rendered. 
+Justice Powell did, after all, vote with four other Justices 
+to strike down the system at issue in Bakke. 
+
+
+This Court has rejected as compelling certain inter- 
+ests that indisputably are good and important, like reme- 
+dying the lingering effects of societal discrimination and 
+promoting role models‘for school children. City of Rich- 
+mond v. J.A. Croson Co., 488 U.S. 469, 470 (1989): Wygant 
+v. Jackson Bd. of Educ., 476 U.S. 267, 275-77 (1986) 
+(plurality opinion). Cf. Palmore v. Sidoti, 466 U.S. 429, 433 
+
+
+26 
+
+
+(1984) (consideration of “best interests” of child is a sub- 
+stantial governmental interest, but cannot justify consid- 
+eration of race in making custody determinations). There 
+may be many reasons why an interest is not sufficiently 
+compelling to withstand the strict scrutiny to which all 
+racial classifications must be subjected, but among them 
+certainly are that an interest is by its nature poorly 
+defined, without reasonably ascertainable or objective 
+standards or scope, or “ageless in [its] reach into the past, 
+and timeless in [its] ability to affect the future.” Wygant, 
+476 U.S. at 276 (plurality opinion). 
+
+
+The diversity rationale articulated by the University 
+and accepted by the district court is one that “could be 
+used to ‘justify’ race-based decisionmaking essentially 
+limitless in scope and duration.” J.A. Croson Co., 488 U.S. 
+at 498 (O’Connor, J.) (quoting Wygant, 476 U.S. at 276 
+(plurality opinion)). It has “no logical stopping point.” J.A. 
+Croson Co., 488 U.S. at 498. Indeed, an interest founded 
+on “underrepresentation” could quite readily justify 
+measures that extend until minority representation in the 
+classroom “mirrors the percentage of minorities in the 
+population as a whole.” Jd. It is a rationale that gives 
+essentially unchecked authority to admissions officers to 
+define what “diversity” or “critical mass” mean; which 
+racial and ethnic groups, among many, are to be consid- 
+ered “underrepresented” or are to receive preferences; the 
+size of the preferences or “plus”; and their duration. 
+
+
+So defined, such an interest is at least as ill-defined 
+and “amorphous” as an interest founded on remedying the 
+lingering effects of societal discrimination or fostering role 
+models for school children. Wygant, 476 U.S. at 276 (plu- 
+rality opinion). See also Johnson v. Board of Regents of 
+Univ. of Georgia, 263 F.3d 1234, 1250 (11th Cir. 2001) 
+(noting that interest in student diversity is “similar” to 
+other interests rejected as compelling, including remedy- 
+ing effects of societal discrimination and providing role 
+models). 
+
+Enshrined as a compelling interest, diversity will 
+instead give the Nation, as the district court’s opinion 
+
+
+7 
+
+
+Ne ee RU 1 ae rt 
+
+
+eet ei tee ia ee 
+
+
+a 
+
+
+27 
+
+
+foreshadows, its first permanent legal justification Tor 
+
+
+racial classifications. App. at 26a. That justification, 
+despite the language or label applied, will be one that is 
+indistinguishable from an interest in simple racial balanc- 
+ing. See Lutheran Church - Missouri Synod v. FCC, 141 
+F.3d 344, 356 (D.C. Cir. 1998) (noting “how much burden 
+the term ‘diversity’ has been asked to bear in the latter 
+part of the 20th Century” and that “[it] appears to have 
+been coined both as a permanent justification for policies 
+seeking racial proportionality in all walks of life (‘affirma- 
+tive action’ has only a temporary remedial connotation) 
+and as a synonym for proportional representation itself” ); 
+Wessmann v. Gittens, 160 F.3d 790, 799 (1st Cir. 1998) 
+(“Underrepresentation is merely racial balancing in 
+disguise — another way of suggesting that there may be 
+optimal proportions for the representation of races and 
+ethnic groups in institutions.”) 
+
+
+The absence of a limiting principle in the diversity 
+rationale also raises the serious specter that it cannot 
+logically be confined to the higher education context. The 
+University and some of its amici have sometimes justified 
+diversity in education based on the segregated lives that 
+students allegedly live prior to entering higher education 
+and by the benefits that supposedly stay with students 
+after they have graduated and joined the workforce. 
+
+
+If diversity is compelling in part because of what goes 
+on before and after students enter higher education and 
+because it is an antidote to societal discrimination and 
+prejudice, it is hard to imagine why it should not also be 
+sufficiently compelling to support racial preferences in 
+other areas of American life. That is especially so — if it is 
+deemed that racial diversity brings viewpoint diversity — 
+where it can be persuasively argued that having “diverse” 
+viewpoints is beneficial. The possibilities are numerous, 
+including primary and secondary education, employment 
+in management or public policy positions, and jury selec- 
+tion. Although this case does not directly raise these other 
+issues, the answer (and the reasons for the answer) to 
+whether diversity is a compelling interest in higher 
+
+
+28 
+
+
+education are likely to have important implications out- 
+side the higher education context. 
+
+
+There is also a qualitative difference between using 
+race to remedy past, identified instances of governmental 
+discrimination and using it instead to achieve “diversity.” 
+When race is used in a narrowly-tailored manner to 
+remedy past, identified discrimination, it is arguably done 
+to right a specific wrong; to further the principle of equal- 
+ity by correcting injury done to the principle in defined 
+instances. When, however, race is used to pursue an open- 
+ended objective like “diversity,” it is used in spite of the 
+principle of equality to further an interest in — diversity. 
+Covering the diversity rationale with arguments about 
+“academic freedom” does not offer it legitimacy under the 
+Constitution or the Nation’s civil rights laws: This Court 
+has never held that educational institutions have a First 
+Amendment right to practice race discrimination in 
+admissions. Such a conclusion would be anathema to the 
+outcome and principles articulated in cases like Brown v. 
+Board of Educ., 347 U.S. 483 (1954); Runyon v. McCrary, 
+427 U.S. 160, 175-77 (1976) (striking down admissions 
+system that discriminated on the basis of race despite First 
+Amendment rights asserted by school on behalf of parents), 
+and Bob Jones Univ. v. United States, 461 U.S. 574, 603-05 
+(1983) (upholding IRS revocation of tax-exempt status of 
+university because of its racially discriminatory admis- 
+sions system). 
+
+
+These important issues, about whether the Univer- 
+sity’s preferences survive strict-scrutiny review under the 
+Equal Protection Clause, and whether they violate federal 
+civil rights statutes, Title VI (42 U.S.C. § 2000d) and 42 
+U.S.C. § 1981, are squarely presented by the first of the 
+Questions Presented in the petition for certiorari. The 
+second and third questions relate to the appropriate 
+remedies for violations of the constitutional and civil 
+rights at issue. Because this is a class action, the rights of 
+many individuals other than the named plaintiffs are at 
+stake. Each year, thousands of students apply to defen- 
+dants’ University in hope of obtaining a place in the class. 
+If this Court finds the defendants’ use of racial preferences 
+
+
+Sen ies ae ee ee 
+
+
+29 
+
+
+unlawful, it should enjoin the use of those unlawful 
+preferences, or direct the lower courts to do so in order 
+that these students can compete for admission under a 
+lawful system. 
+
+
+The district court summarily dismissed petitioner's 
+request for an injunction even though the district court 
+also found the admissions system for 1995-1998 to be 
+unlawful. It never explained the reasons for its grant of 
+summary judgment to defendants on this claim. Under 
+well settled principles, defendants’ voluntary cessation of 
+illegal activity — particularly after litigation has begun — 
+does not moot a claim for an injunction. City of Mesquite v. 
+Aladdin's Castle, Inc., 455 U.S. 283, 289 n.10 (1982). This 
+is because such belated changes imply that there is still a 
+danger of future violations. Moreover, defendants have 
+continued to defend the system found to be illegal, and 
+they acknowledge that their subsequent admission sys- 
+tems (for years 1999-2000) are not substantively different 
+from the illegal system. A reasonable trier of fact could use 
+that fact to infer a possibility of future harm as well. 
+Given these circumstances, there is at least a reasonable 
+possibility that future violations will resume or continue, 
+so that an injunction is necessary and appropriate; at the 
+very least, sufficient inferences were available to preclude 
+summary judgment. Moreover, if this Court finds the 
+defendants’ racial preferences unlawful, the lower courts 
+would benefit from this Court’s consideration of the proper 
+scope of an injunction. 
+
+
+Finally, an examination of the lawfulness of the 
+defendants’ racial preferences should include review of the 
+district court’s judgment in favor of the individual defen- 
+dants on grounds of qualified immunity. The district court 
+was very explicit about its conclusion with respect to the 
+unlawfulness of the 1995-1998 admissions policies: “It is 
+clear that the LSA’s system operated as the functional 
+equivalent of a quota and therefore, ran afoul of Justice 
+Powell’s opinion in Bakke.” App. at 45a (emphasis added). 
+Inexplicably and untenably, however, the district court 
+dismissed the claims for damages against the individual 
+defendants on grounds of qualified immunity, i.e., on e 
+
+
+theory that defendants had not violated plaintiffs’ “clearly 
+established rights.” Jd. at 48-50. It simply cannot logically 
+
+
+30 
+
+
+be the case that defendants’ racial preferences were both a 
+“clear” instance of the “functional equivalent of a quota” in 
+violation of a nearly twenty-five year-old Supreme Court 
+case and that plaintiffs’ “clearly established” rights were 
+
+
+~not thereby violated. If the Court accepts this case for ) 
+review, petitioner respectfully requests it to review the 
+district court’s decision with respect to qualified immunity. 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, Jennifer Gratz and Patrick 
+Hamacher respectfully request the Court to grant their 
+petition for certiorari before judgment. 
+
+
+MICHAEL E. ROSMAN 
+
+HANS BADER 
+
+CENTER FOR INDIVIDUAL 
+RIGHTS 
+
+Suite 300 
+
+1233 20th Street N.W. 
+
+Washington, D.C. 20036 
+
+(202) 833-8400 
+
+
+KERRY L. MORGAN 
+
+PENTIUK, COUVREUR & 
+KOBILJAK, P.C. 
+
+Suite 230, Superior Place 
+
+20300 Superior Street 
+
+Taylor, MI 48180 
+
+(734) 374-8930 
+
+
+Respectfully submitted, 
+
+
+DAVID F. HERR 
+Counsel of Record 
+KIRK O. KOLBO 
+R. LAWRENCE PURDY 
+MICHAEL C. MCCARTHY 
+KAI H. RICHTER 
+MASLON EDELMAN BORMAN 
+& BRAND, LLP 
+3300 Wells Fargo Center 
+90 South Seventh Street 
+Minneapolis, MN 55402-4140 
+(612) 672-8200 
+
+

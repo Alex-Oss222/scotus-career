@@ -1,0 +1,72 @@
+[
+  {
+    "file": "Sell-v-United-States_merits_2003-06-16.md",
+    "case": "Sell v. United States",
+    "date": "2003-06-16",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assignment_authority_text": "The Chief assigns the immediate-review and vacatur portions he supports. Stevens, as senior Justice of the five-Justice coalition, assigns the substantive conditional-authority and prosecution-only renewal portions that Stone rejects. One eligible author can carry all portions, so the lead remains unified and the Chief-assigned-part balance restriction governs its shared five-Justice author pool.",
+    "chief_assigns_any": true
+  },
+  {
+    "file": "Gratz-v-Bollinger_merits_2003-06-23.md",
+    "case": "Gratz v. Bollinger",
+    "date": "2003-06-23",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "chief_assigns_any": true,
+    "eligible_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "assignment_authority_text": "The Chief assigns the actual separately reviewed disposition rejecting the intervenors' alternative defense of the 1995\u20131998 mechanism, which he supports in disposition only under his standing fallback. O'Connor, as senior Justice of the five-Justice coalition, assigns current-program constitutional and statutory invalidity. Standing agreement and preservation of unreviewed immunity rulings supply no assignment authority. One shared eligible author can carry the whole lead, and the Chief-assigned-part balance restriction applies to the common five-Justice pool."
+  },
+  {
+    "file": "Grutter-v-Bollinger_merits_2003-06-23.md",
+    "case": "Grutter v. Bollinger",
+    "date": "2003-06-23",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "chief_assigns_any": true,
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  }
+]

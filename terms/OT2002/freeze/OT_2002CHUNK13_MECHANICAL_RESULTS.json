@@ -1,0 +1,80 @@
+{
+  "assignment_replay": "PASS",
+  "old_files_changed": [
+    "terms/OT2002/workspace/continuity.md",
+    "terms/OT2002/workspace/ledger.md",
+    "terms/OT2002/workspace/manifest.md",
+    "terms/OT2002/workspace/neutral-projection.md"
+  ],
+  "old_files_missing": [],
+  "new_term_files": 196,
+  "restricted_text_scan": "PASS",
+  "events": [
+    {
+      "case": "Bechhoefer v. United States Department of Justice, DEA",
+      "date": "2003-06-16",
+      "result": "Unanimous dismissal of the specified review as moot; both lower judgments remain effective.",
+      "author": null
+    },
+    {
+      "case": "Federal Election Commission v. Beaumont",
+      "date": "2003-06-16",
+      "result": "Reverse the Fourth Circuit on the as-applied direct treasury-contribution restriction, 6–3, and remand; the independent-expenditure judgment remains undisturbed.",
+      "author": "Breyer"
+    },
+    {
+      "case": "Heimmermann v. First Union Mortgage Corp.",
+      "date": "2003-06-16",
+      "result": "Affirm certification vacatur and remand, 9–0; eight Associates join H1–H3, Stone-Zsela joins H3 and gives a distinct temporal ground.",
+      "author": "Thomas"
+    },
+    {
+      "case": "Overton v. Bazzetta",
+      "date": "2003-06-16",
+      "result": "Reverse the facial invalidation of the child-visitor, former-prisoner, and substance-abuse visitation restrictions and the facial Eighth Amendment judgment, 9–0, and remand.",
+      "author": "Souter"
+    },
+    {
+      "case": "Sell v. United States",
+      "date": "2003-06-16",
+      "result": "Immediate review sustained, 6–3; present medication authorization vacated; five Justices permit a supported renewed prosecution-only request, while Stone would bar that ground.",
+      "author": "Breyer"
+    },
+    {
+      "case": "Virginia v. Hicks",
+      "date": "2003-06-16",
+      "result": "Reverse the whole-policy facial-overbreadth judgment unanimously and remand for remaining preserved grounds.",
+      "author": "Scalia"
+    },
+    {
+      "case": "Fairley v. Luman",
+      "date": "2003-06-23",
+      "result": "Affirm the municipal judgment, $11,250 compensatory award and $92,211.83 fee award, 9–0.",
+      "author": "Stevens"
+    },
+    {
+      "case": "Gratz v. Bollinger",
+      "date": "2003-06-23",
+      "result": "Current jurisdiction sustained, 7–2; current-program approval reversed on constitutional and distinct statutory grounds by five votes; identified earlier and immunity dispositions preserved; remand.",
+      "author": "O'Connor"
+    },
+    {
+      "case": "Grutter v. Bollinger",
+      "date": "2003-06-23",
+      "result": "Affirmed, 6–3; the constitutional, Title VI and §1981 policy challenges are separately rejected.",
+      "author": "Stone-Zsela"
+    },
+    {
+      "case": "Krimstock v. Kelly",
+      "date": "2003-06-23",
+      "result": "Affirm prompt neutral retention review and bounded implementation remand, 9–0; direct proposition coalitions differ for rationale and proof/remedial allocations.",
+      "author": "Kennedy"
+    },
+    {
+      "case": "United States v. American Library Association, Inc.",
+      "date": "2003-06-23",
+      "result": "Reverse both library-program facial invalidations and remand for judgment rejecting the facial claims, 5–4.",
+      "author": "Kennedy"
+    }
+  ]
+}

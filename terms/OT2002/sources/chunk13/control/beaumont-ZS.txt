@@ -1,0 +1,84 @@
+FEDERAL ELECTION COMM’N V. BEAUMONT
+FEDERAL ELECTION COMM’N V. BEAUMONT (02-403)
+278 F.3d 261, reversed.
+Syllabus
+Opinion
+[ Souter ]
+Concurrence
+[ Kennedy ]
+Dissent
+[ Thomas ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+FEDERAL ELECTION COMMISSION
+v.
+BEAUMONT
+et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE FOURTH CIRCUIT
+No. 02—403.  Argued March 25, 2003–Decided June 16, 2003
+A corporation is prohibited from making “a contribution or expenditure in connection with” certain federal elections,
+2 U.S.C. § 441b
+(a), but not from establishing, administering, and soliciting contributions to a separate fund to be used for political purposes, §441b(b)(2)(C).  Such a PAC (so called after the political action committee that runs it) is free to make contributions and other expenditures in connection with federal elections.  Respondents, a nonprofit advocacy corporation known as North Carolina Right to Life, Inc., and others (collectively NCRL), sued petitioner Federal Election Commission (FEC), challenging the constitutionality of §441b and its implementing regulations as applied to NCRL.  As relevant here, the District Court granted NCRL summary judgment as to the ban on direct contributions, and the Fourth Circuit affirmed.
+Held:
+Applying the direct contribution prohibition to nonprofit advocacy corporations is consistent with the
+First Amendment
+.  Pp. 4—16.
+(a) An attack on the federal prohibition of direct corporate political contributions goes against the current of a century of congressional efforts to curb corporations’ potentially deleterious influences on federal elections.  Since 1907, federal law has barred such direct corporate contributions.  Much of the subsequent congressional attention to corporate political activity has been meant to strengthen the original, core prohibition on such contributions.
+Federal Election Comm’n
+v.
+National Right to Work Comm.,
+459 U.S. 197
+.  As in 1907, current law focuses on the corporate structure’s special characteristics that threaten the integrity of the political process.
+Id.,
+at 209.  In barring corporate earnings from turning into political “war chests,” the ban was and is intended to “preven[t] corruption or the appearance of corruption.”
+Federal Election Comm’n
+v.
+National Conservative Political Action Comm.,
+470 U.S. 480
+, 496—497.  The ban also protects individuals who have paid money into a corporation or union for other purposes from having their money used to support political candidates to whom they may be opposed,
+National Right to Work, supra,
+at 208, and hedges against use of corporations as conduits for circumventing “valid contribution limits,”
+Federal Election Comm’n
+v.
+Colorado Republican Federal Campaign Comm.,
+533 U.S. 431
+, 456, and n. 18.  Pp. 4—8.
+(b)
+National Right to Work
+all but decided against NCRL’s position that §441b’s ban on direct contributions is unconstitutional as applied to nonprofit advocacy corporations.  There, this Court upheld the part of §441b restricting a nonstock corporation to its membership when soliciting PAC contributions, concluding that the congressional judgment to regulate corporate political involvement warrants considerable deference and reflects a permissible assessment of the dangers that corporations pose to the electoral process.  459 U.S., at 207—211.  It would be hard to read this conclusion, except on the practical understanding that the corporation’s capacity to make contributions was legitimately limited to indirect donations within the scope allowed to PACs.  And the Court specifically rejected the argument made here, that deference to congressional judgments about corporate contribution limits turns on details of corporate form or the affluence of particular corporations.
+National Right to Work
+has repeatedly been read as approving §441b’s prohibition on direct contributions, even by nonprofit corporations without great financial resources.  Equal significance must be accorded to
+Federal Election Comm’n
+v.
+Massachusetts Citizens for Life, Inc.,
+479 U.S. 238
+,
+on which NCRL and the Fourth Circuit have relied.  In holding §441b’s prohibition on independent expenditures unconstitutional as applied to a nonprofit advocacy corporation, the Court there distinguished
+National Right to Work
+on the ground that it addressed regulation of contributions, not expenditures.  Pp. 8—12.
+(c) This Court could not hold for NCRL without recasting its understanding of the risks of harm posed by corporate political contributions, of the expressive significance of contributions, and of the consequent deference owed to legislative judgments on what to do about them.  NCRL’s efforts do not unsettle existing law on these points.  Its argument that
+Massachusetts Citizens for Life-
+type corporations pose no potential threat to the political system is rejected.  Concern about the corrupting potential underlying the corporate ban may be implicated by advocacy corporations, which, like their for-profit counterparts, benefit from state-created advantages and may be able to amass substantial political war chests.  Also rejected is NCRL’s argument that the application of the ban on direct contributions should be subject to strict scrutiny because §441b bars, rather than limits, contributions based on their source.  When reviewing political financial restrictions, the level of scrutiny is based on the importance of the political activity at issue to effective speech or political association, and restrictions on political contributions have long been treated as marginal speech restrictions subject to relatively complaisant
+First Amendment
+review because contributions lie closer to the edges than to the core of political expression.  Thus, a contribution limit passes muster if it is closely drawn to match a sufficiently important interest.  The time to consider the difference between a ban and a limit is when applying scrutiny at the level selected, not in selecting the standard of review itself.  But even NCRL’s argument that §441b is not closely drawn rests on the false premise that the provision is a complete ban.  In fact, the provision allows corporate political participation through PACs.  And this Court does not think that regulatory burdens on PACs, including restrictions on their ability to solicit funds, renders a PAC unconstitutional as an advocacy corporation’s sole avenue for making political contributions.   See
+Right to Work, supra,
+at 201—202.  12—16.
+278 F.3d 261, reversed.
+Souter, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, O’Connor, Ginsburg, and Breyer, JJ., joined.  Kennedy, J., filed an opinion concurring in the judgment.  Thomas, J., filed a dissenting opinion, in which Scalia, J., joined.

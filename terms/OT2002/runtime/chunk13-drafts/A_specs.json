@@ -1,0 +1,99 @@
+[
+  {
+    "file": "Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md",
+    "case": "Federal Election Commission v. Beaumont",
+    "date": "2003-06-16",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  {
+    "file": "Virginia-v-Hicks_merits_2003-06-16.md",
+    "case": "Virginia v. Hicks",
+    "date": "2003-06-16",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  {
+    "file": "Overton-v-Bazzetta_merits_2003-06-16.md",
+    "case": "Overton v. Bazzetta",
+    "date": "2003-06-16",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  {
+    "file": "United-States-v-American-Library-Association_merits_2003-06-23.md",
+    "case": "United States v. American Library Association, Inc.",
+    "date": "2003-06-23",
+    "countable": true,
+    "assigner": "O'Connor",
+    "eligible_authors": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Thomas",
+      "Breyer"
+    ],
+    "assignment_authority_text": "O'Connor is the most senior participating Associate Justice among the five supporting reversal. Stone-Zsela and Stevens oppose reversal. Her assignment must preserve the direct shared facial ground and the independently published differences; the Chief's mandatory balance-pool rule does not govern her assignment, although the resulting signed lead opinion counts."
+  }
+]

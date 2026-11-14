@@ -1,0 +1,337 @@
+GRUTTER V. BOLLINGER
+GRUTTER V. BOLLINGER (02-241)
+288 F.3d 732, affirmed.
+Syllabus
+Opinion
+[ O’Connor ]
+Concurrence
+[ Ginsburg ]
+Dissent
+[ Rehnquist ]
+Dissent
+[ Kennedy ]
+Other
+[ Opinion of Scalia ]
+Other
+[ Opinion of
+Thomas ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Rehnquist, C. J., dissenting
+SUPREME COURT OF THE UNITED STATES
+No. 02—241
+BARBARA GRUTTER, PETITIONER
+v.
+LEE
+BOLLINGER et al.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE SIXTH CIRCUIT
+[June 23, 2003]
+Chief Justice Rehnquist, with whom Justice Scalia, Justice Kennedy, and Justice Thomas join, dissenting.
+I agree with the Court that, “in the limited circumstance when drawing racial distinctions is permissible,” the government must ensure that its means are narrowly tailored to achieve a compelling state interest.
+Ante
+, at 21; see also
+Fullilove
+v
+. Klutznick
+,
+448 U.S. 448
+, 498 (1980) (Powell, J., concurring) (“[E]ven if the government proffers a compelling interest to support reliance upon a suspect classification, the means selected must be narrowly drawn to fulfill the governmental purpose”).  I do not believe, however, that the University of Michigan Law School’s (Law School) means are narrowly tailored to the interest it asserts.  The Law School claims it must take the steps it does to achieve a  “
+‘critical mass’
+” of underrepresented minority students.  Brief for Respondents Bollinger et al. 13.  But its actual program bears no relation to this asserted goal.  Stripped of its “critical mass” veil, the Law School’s program is revealed as a naked effort to achieve racial balancing.
+As we have explained many times, “
+‘
+“[a]ny preference based on racial or ethnic criteria must necessarily receive a most searching examination.”
+’
+”
+Adarand Constructors, Inc.
+v.
+Peña
+,
+515 U.S. 200
+, 223 (1995) (quoting
+Wygant
+v.
+Jackson Bd. of Ed
+.,
+476 U.S. 267
+, 273 (1986) (plurality opinion of Powell, J.)).  Our cases establish that, in order to withstand this demanding inquiry, respondents must demonstrate that their methods of using race “
+‘fit’
+” a compelling state interest “with greater precision than any alternative means.”
+Id.
+, at 280, n. 6;
+Regents of Univ. of Cal.
+v.
+Bakke
+,
+438 U.S. 265
+, 299 (1978) (opinion of Powell, J.) (“When [political judgments] touch upon an individual’s race or ethnic background, he is entitled to a judicial determination that the burden he is asked to bear on that basis is precisely tailored to serve a compelling governmental interest”).
+Before the Court’s decision today, we consistently applied the same strict scrutiny analysis regardless of the government’s purported reason for using race and regardless of the setting in which race was being used.  We rejected calls to use more lenient review in the face of claims that race was being used in “good faith” because “
+‘[m]ore than good motives should be required when government seeks to allocate its resources by way of an explicit racial classification system.’
+”
+Adarand
+,
+supra
+, at 226;
+Fullilove
+,
+supra
+, at 537 (Stevens, J., dissenting) (“Racial classifications are simply too pernicious to permit any but the most exact connection between justification and classification”).  We likewise rejected calls to apply more lenient review based on the particular setting in which race is being used.  Indeed, even in the specific context of higher education, we emphasized that “constitutional limitations protecting individual rights may not be disregarded.”
+Bakke
+,
+supra
+, at 314.
+Although the Court recites the language of our strict scrutiny analysis, its application of that review is unprecedented in its deference.
+Respondents’ asserted justification for the Law School’s use of race in the admissions process is “obtaining ‘the educational benefits that flow from a diverse student body.’
+”
+Ante
+, at 15 (quoting Brief for Respondents Bollinger et al. i).  They contend that a “critical mass” of underrepresented minorities is necessary to further that interest.
+Ante
+, at 17.  Respondents and school administrators explain generally that “critical mass” means a sufficient number of underrepresented minority students to achieve several objectives: To ensure that these minority students do not feel isolated or like spokespersons for their race; to provide adequate opportunities for the type of interaction upon which the educational benefits of diversity depend; and to challenge all students to think critically and reexamine stereotypes.  See App. to Pet. for Cert. 211a; Brief for Respondents Bollinger et al. 26.  These objectives indicate that “critical mass” relates to the size of the student body.
+Id
+., at 5 (claiming that the Law School has enrolled “critical mass,” or “enough minority students to provide meaningful integration of its classrooms and residence halls”).  Respondents further claim that the Law School is achieving “critical mass.”
+Id.
+, at 4 (noting that the Law School’s goals have been “greatly furthered by the presence of … a ‘critical mass’ of
+” minority students in the student body).
+In practice, the Law School’s program bears little or no relation to its asserted goal of achieving “critical mass.”  Respondents explain that the Law School seeks to accumulate a “critical mass” of
+each
+underrepresented minority group.  See,
+e.g
+.,
+id.
+, at 49, n. 79 (“The Law School’s … current policy … provide[s] a special commitment to enrolling a ‘critical mass’ of ‘Hispanics’
+”).  But the record demonstrates that the Law School’s admissions practices with respect to these groups differ dramatically and cannot be defended under any consistent use of the term “critical mass.”
+From 1995 through 2000, the Law School admitted between 1,130 and 1,310 students.  Of those, between 13 and 19 were Native American, between 91 and 108 were African-Americans, and between 47 and 56 were Hispanic.  If the Law School is admitting between 91 and 108
+African-Americans in order to achieve “critical mass,” thereby preventing African-American students from feeling “isolated or like spokespersons for their race,” one would think that a number of the same order of magnitude would be necessary to accomplish the same purpose for Hispanics and Native Americans.  Similarly, even if all of the Native American applicants admitted in a given year matriculate, which the record demonstrates is not at all the case,
+*
+how can this possibly constitute a “critical mass” of Native Americans in a class of over 350 students?  In order for this pattern of admission to be consistent with the Law School’s explanation of “critical mass,” one would have to believe that the objectives of “critical mass” offered by respondents are achieved with only half the number of Hispanics and one-sixth the number of Native Americans as compared to African-Americans.  But respondents offer no race-specific reasons for such disparities.  Instead, they simply emphasize the importance of achieving “critical mass,” without any explanation of why that concept is applied differently among the three underrepresented minority groups.
+These different numbers, moreover, come only as a result of substantially different treatment among the three underrepresented minority groups, as is apparent in an example offered by the Law School and highlighted by the Court: The school asserts that it “frequently accepts nonminority applicants with grades and test scores lower than underrepresented minority applicants (and other nonminority applicants) who are rejected.”
+Ante
+, at 26 (citing Brief for Respondents Bollinger et al. 10).  Specifically, the Law School states that “[s]ixty-nine minority applicants were rejected between 1995 and 2000 with at least a 3.5 [Grade Point Average (GPA)] and a [score of] 159 or higher on the [Law School Admissions Test (LSAT)]” while a number of Caucasian and Asian-American applicants with similar or lower scores were admitted.  Brief for Respondents Bollinger et al. 10.
+Review of the record reveals only 67 such individuals.  Of these 67 individuals,
+56
+were Hispanic, while only 6 were African-American, and only 5 were Native American.  This discrepancy reflects a consistent practice.  For example, in 2000, 12 Hispanics who scored between a 159—160 on the LSAT and earned a GPA of 3.00 or higher applied for admission and only 2 were admitted.  App. 200—201.  Meanwhile, 12 African-Americans in the same range of qualifications applied for admission and all 12 were admitted.
+Id.
+, at 198.  Likewise, that same year, 16 Hispanics who scored between a 151—153 on the LSAT and earned a 3.00 or higher applied for admission and only 1 of those applicants was admitted.
+Id.
+, at 200—201.  Twenty-three similarly qualified African-Americans applied for admission and 14 were admitted.
+Id.
+, at 198.
+These statistics have a significant bearing on petitioner’s case.  Respondents have
+never
+offered any race-specific arguments explaining why significantly more individuals from one underrepresented minority group are needed in order to achieve “critical mass” or further student body diversity.  They certainly have not explained why Hispanics, who they have said are among “the groups most isolated by racial barriers in our country,” should have their admission capped out in this manner.  Brief for Respondents Bollinger et al. 50.  True, petitioner is neither Hispanic nor Native American.  But the Law School’s disparate admissions practices with respect to these minority groups demonstrate that its alleged goal of “critical mass” is simply a sham.  Petitioner may use these statistics to expose this sham, which is the basis for the Law School’s admission of less qualified underrepresented minorities in preference to her.  Surely strict scrutiny cannot permit these sort of disparities without at least some explanation.
+Only when the “critical mass” label is discarded does a likely explanation for these numbers emerge.  The Court states that the Law School’s goal of attaining a “critical mass” of underrepresented minority students is not an interest in merely “
+‘assur[ing] within its student body some specified percentage of a particular group merely because of its race or ethnic origin.’
+”
+Ante
+, at 17 (quoting
+Bakke
+, 438 U.S., at 307 (opinion of Powell, J.)).  The Court recognizes that such an interest “would amount to outright racial balancing, which is patently unconstitutional.”
+Ante
+, at 17.  The Court concludes, however, that the Law School’s use of race in admissions, consistent with Justice Powell’s opinion in
+Bakke
+, only pays “
+‘[s]ome attention to numbers.’
+”
+Ante
+, at 23 (quoting
+Bakke
+,
+supra,
+at 323).
+But the correlation between the percentage of the Law School’s pool of applicants who are members of the three minority groups and the percentage of the admitted applicants who are members of these same groups is far too precise to be dismissed as merely the result of the school paying “some attention to [the] numbers.”  As the tables below show, from 1995 through 2000 the percentage of admitted applicants who were members of these minority groups closely tracked the percentage of individuals in the school’s applicant pool who were from the same groups.
+Table 1
+Year
+Number of   law school   applicants
+Number of African- American applicants
+% of
+applicants who were African-American
+Number of applicants admitted by the law school
+Number of   African-American applicants admitted
+% of admitted applicants  who were  African- American
+1995
+4147
+404
+9.7%
+1130
+106
+9.4%
+1996
+3677
+342
+9.3%
+1170
+108
+9.2%
+1997
+3429
+320
+9.3%
+1218
+101
+8.3%
+1998
+3537
+304
+8.6%
+1310
+103
+7.9%
+1999
+3400
+247
+7.3%
+1280
+91
+7.1%
+2000
+3432
+259
+7.5%
+1249
+91
+7.3%
+Table 2
+Year
+Number of   law school   applicants
+Number of Hispanic  applicants
+% of
+applicants who were Hispanic
+Number of applicants admitted by the law school
+Number of   Hispanic applicants  admitted
+% of admitted applicants  who were  Hispanic
+1995
+4147
+213
+5.1%
+1130
+56
+5.0%
+1996
+3677
+186
+5.1%
+1170
+54
+4.6%
+1997
+3429
+163
+4.8%
+1218
+47
+3.9%
+1998
+3537
+150
+4.2%
+1310
+55
+4.2%
+1999
+3400
+152
+4.5%
+1280
+48
+3.8%
+2000
+3432
+168
+4.9%
+1249
+53
+4.2%
+Table 3
+Year
+Number of   law school   applicants
+Number of Native  American applicants
+% of
+applicants who were Native American
+Number of applicants admitted by the law school
+Number of   Native  American applicants admitted
+% of admitted applicants  who were  Native American
+1995
+4147
+45
+1.1%
+1130
+14
+1.2%
+1996
+3677
+31
+0.8%
+1170
+13
+1.1%
+1997
+3429
+37
+1.1%
+1218
+19
+1.6%
+1998
+3537
+40
+1.1%
+1310
+18
+1.4%
+1999
+3400
+25
+0.7%
+1280
+13
+1.0%
+2000
+3432
+35
+1.0%
+1249
+14
+1.1%
+For example, in 1995, when 9.7% of the applicant pool was African-American, 9.4% of the admitted class was African-American.  By 2000, only 7.5% of the applicant pool was African-American, and 7.3% of the admitted class was African-American.  This correlation is striking.  Respondents themselves emphasize that the number of underrepresented minority students admitted to the Law School would be significantly smaller if the race of each applicant were not considered.  See App. to Pet. for Cert. 223a; Brief for Respondents Bollinger et al. 6 (quoting App. to Pet. for Cert. of Bollinger et al. 299a).  But, as the examples above illustrate, the measure of the decrease would differ dramatically among the groups.  The tight correlation between the percentage of applicants and admittees of a given race, therefore, must result from careful race based planning by the Law School.  It suggests a formula for admission based on the aspirational assumption that all applicants are equally qualified academically, and therefore that the proportion of each group admitted should be the same as the proportion of that group in the applicant pool.  See Brief for Respondents Bollinger et al. 43, n. 70 (discussing admissions officers’ use of “periodic reports” to track “the racial composition of the developing class”).
+Not only do respondents fail to explain this phenomenon, they attempt to obscure it.  See
+id.
+, at 32, n. 50 (“The Law School’s minority enrollment percentages … diverged from the percentages in the applicant pool by as much as 17.7% from 1995—2000”).  But the divergence between the percentages of underrepresented minorities in the applicant pool and in the
+enrolled
+classes is not the only relevant comparison.  In fact, it may not be the most relevant comparison.  The Law School cannot precisely control which of its admitted applicants decide to attend the university.  But it can and, as the numbers demonstrate, clearly does employ racial preferences in extending offers of admission.  Indeed, the ostensibly flexible nature of the Law School’s admissions program that the Court finds appealing, see
+ante
+, at 24—26, appears to be, in practice, a carefully managed program designed to ensure proportionate representation of applicants from selected minority groups.
+I do not believe that the Constitution gives the Law School such free rein in the use of race.  The Law School has offered no explanation for its actual admissions practices and, unexplained, we are bound to conclude that the Law School has managed its admissions program, not to achieve a “critical mass,” but to extend offers of admission to members of selected minority groups in proportion to their statistical representation in the applicant pool.  But this is precisely the type of racial balancing that the Court itself calls “patently unconstitutional.”
+Ante,
+at 17.
+Finally, I believe that the Law School’s program fails strict scrutiny because it is devoid of any reasonably precise time limit on the Law School’s use of race in admissions.  We have emphasized that we will consider “the planned duration of the remedy” in determining whether a race-conscious program is constitutional.
+Fullilove,
+448 U.S., at 510 (Powell, J. concurring); see also
+United States
+v.
+Paradise
+,
+480 U.S. 149
+, 171 (1987) (“In determining whether race-conscious remedies are appropriate, we look to several factors, including the … duration of the relief
+”).  Our previous cases have required some limit on the duration of programs such as this because discrimination on the basis of race is invidious.
+The Court suggests a possible 25-year limitation on the Law School’s current program.  See
+ante
+, at 30.  Respondents, on the other hand, remain more ambiguous, explaining that “the Law School of course recognizes that race-conscious programs must have reasonable durational limits, and the Sixth Circuit properly found such a limit in the Law School’s resolve to cease considering race when genuine race-neutral alternatives become available.”  Brief for Respondents Bollinger et al. 32.  These discussions of a time limit are the vaguest of assurances.  In truth, they permit the Law School’s use of racial preferences on a seemingly permanent basis.  Thus, an important component of strict scrutiny–that a program be limited in time–is casually subverted.
+The Court, in an unprecedented display of deference under our strict scrutiny analysis, upholds the Law School’s program despite its obvious flaws.  We have said that when it comes to the use of race, the connection between the ends and the means used to attain them must be precise.  But here the flaw is deeper than that; it is not merely a question of “fit” between ends and means.  Here the means actually used are forbidden by the Equal Protection Clause of the Constitution.
+Notes
+*.
+Indeed, during this 5-year time period, enrollment of Native American students dropped to as low as
+three
+such students.  Any assertion that such a small group constituted a “critical mass” of Native Americans is simply absurd.

@@ -1,0 +1,116 @@
+https://law.resource.org/pub/us/case/reporter/F3/312/312.F3d.563.01-6244.html
+
+
+
+    312 F.3d 563
+
+    312 F.3d 563
+
+    Arthur S. BECHHOEFER, Plaintiff-Appellant,v.U.S. DEPARTMENT OF JUSTICE, Drug Enforcement Administration, Defendant-Appellee,Robert Nearing, Jeffrey Gelina, Defendants.
+
+    No. 01-6244.
+
+    United States Court of Appeals, Second Circuit.
+
+    Argued: October 15, 2002.
+
+    Decided: December 6, 2002.
+
+      Anthony J. Adams, Jr., Gates & Adams, P.C., Rochester, NY, for Plaintiff-Appellant.
+
+      Tiffany Lee, Assistant United States Attorney, for Michael A. Battle, United States Attorney for the Western District of New York, (Brian McCarthy, Assistant United States Attorney, on the brief), Rochester, NY, for Defendant-Appellee.
+
+      Before: LEVAL, CALABRESI, and B.D. PARKER, Circuit Judges.
+
+      LEVAL, Circuit Judge.
+
+      1
+      Plaintiff appeals from the grant of summary judgment to defendant by the United States District Court for the Western District of New York (Larimer, Chief Judge). Plaintiff brought suit against the United States Department of Justice, Drug Enforcement Administration ("DEA"), alleging that in making a disclosure of records relating to the plaintiff, the DEA violated the Privacy Act of 1974 (the "Privacy Act" or the "Act"), 5 U.S.C. § 552a(b). The Act provides, in part, "No agency shall disclose any record which is contained in a system of records ... to any person, or to another agency, except ... with the prior written consent of, the individual to whom the record pertains." Id. (emphasis added). The district court ruled that because the record in question — a letter sent by plaintiff to a branch office of the DEA — was not filed in a manner that would permit retrieval by an identifying name, number or symbol, but was merely left in a desk drawer, it was not "contained in a system of records," id., and was not covered by the Act.
+
+      2
+      For substantially the reasons stated by the district court, we affirm.
+
+      BACKGROUND
+
+      3
+      This matter is before our court for the second time. See Bechhoefer v. U.S. Dep't of Justice D.E.A., 209 F.3d 57 (2d Cir. 2000) ("Bechhoefer I"). Relevant facts are as follows. In the summer of 1993, Plaintiff Arthur Bechhoefer, a self-employed investment advisor in Yates County, New York and an active member of two local watchdog organizations, became concerned about reports of drug trafficking in the Keuka Lake area. Because the reports implicated a number of local notables, including at least one member of the Yates County Sheriff's Department, Bechhoefer approached the federal authorities, specifically, the Rochester branch office of the DEA.
+
+      4
+      On July 15, 1993, Bechhoefer called the DEA and spoke with Special Agent Jeffrey Gelina, to whom he began to convey his suspicions. Gelina asked Bechhoefer to memorialize his suspicions in writing, and to send him a detailed account of what he had learned. Bechhoefer alleges that in the course of that phone conversation, Agent Gelina assured him the letter would remain confidential. Two days later, Bechhoefer sent to Gelina a three-page, single-spaced letter, outlining in detail Bechhoefer's suspicions of a pattern of drug trafficking, violence, and coverups on the part of numerous prominent local citizens. Among other things, the letter raised the suspicion that two drowning deaths, which were thought to have been alcohol-related, might in fact be connected to the drug trade. The letter mentions that the "[i]nvestigation of the recent drownings was handled by Mike Christensen, who was Richard Ackerman's right hand man" — Ackerman being a former member of the Sheriff's office and Christensen, a current member of the office. The letter expresses suspicion that Ackerman and Christensen had a significant role in the drug trade.
+
+      5
+      Immediately after receiving Bechhoefer's call, Agent Gelina discussed the matter with Special Agent Robert Nearing, who was generally responsible for Yates County matters. It is Nearing's testimony that even before the letter arrived, he called Christensen at the Yates County Sheriff's Office to discuss the allegations, and Christensen immediately deduced that Bechhoefer was the source. Upon receipt of the letter, Gelina gave it to Nearing, who ran background criminal checks on the persons mentioned. Nearing's boss, James Kenney, contacted the FBI to determine whether corroboration existed for Bechhoefer's allegations.
+
+      6
+      At Nearing's request, Gelina phoned Bechhhoefer to discuss the contents of his letter. In the course of the conversation, Gelina openly discussed the individuals mentioned in the letter by name. Bechhoefer apparently believed such discussion of names on unsecure telephone lines to be grossly irresponsible, so much so that he wondered whether Gelina was in fact a DEA agent. Bechhoefer then wrote a second letter to Gelina on July 24, 1993, requesting that Gelina and Nearing permit Bechhoefer to examine documents that displayed their credentials.
+
+      7
+      Gelina and Nearing, believing this letter to be very odd, and finding no corroboration for Bechhoefer's allegations, decided to discontinue the investigation. Nearing again contacted Christensen in late July and early August, and discussed Bechhoefer's letters. Christensen requested copies. Nearing apparently had the letters in his desk drawer among a random assortment of papers. On August 5, 1993, he faxed copies to Christensen. There is no evidence that the Bechhoefer letters, or the allegations made in them, were ever incorporated into DEA's paper or electronic files. No report of Bechhoefer's allegations was prepared. Bechhoefer's name was not entered into the Narcotics and Dangerous Drug Information System ("NADDIS") — DEA's national electronic database. Nor did any information relating to Bechhoefer become part of the DEA's Investigative Reporting and Filing System.
+
+      8
+      By reason of his first letter, Bechhoefer was prosecuted in two separate state criminal suits for "filing a false report" about the Sheriff's office, at least one of which was prosecuted by Nearing's brother-in-law Alan Reed. One suit culminated in a jury verdict in Bechhoefer's favor; the other was dismissed. Several civil law suits for defamation were also instituted against Bechhoefer, which were also ultimately dismissed.
+
+      Proceedings Below
+
+      9
+      Bechhoefer brought this action alleging violation of the Privacy Act and the First Amendment. The constitutional claim was dismissed and no appeal was taken. See Bechhoefer v. U.S. Dep't of Justice D.E.A., 934 F.Supp. 535, 539-40 (W.D.N.Y.1996). As to the claim under the Privacy Act, the district court initially granted summary judgment to the DEA on the ground that the letter in question did not meet the statutory criterion of "record" under the Privacy Act. Id. The Act defines a "record" as "any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name ... or other identifying particular." 5 U.S.C. § 552a(a)(4) (emphasis added). The district court found that the letter in question did not satisfy this definition, because it was not "about" plaintiff, but was rather a letter written by plaintiff about others.
+
+      10
+      On appeal, we reversed. See Bechhoefer I, 209 F.3d 57. Noting that the circuits were split as to the correct standard for defining a "record," we followed the Third Circuit's broad test, according to which a record "encompass[es] any information about an individual that is linked to that individual through an identifying particular." Quinn v. Stone, 978 F.2d 126, 133 (3d Cir.1992) (emphasis in original). Determining that Bechhoefer's letter, which bore a letterhead setting forth both his name and his address, satisfied the statutory definition of "record," we vacated the grant of summary judgment and remanded. Bechhoefer I, 209 F.3d at 63.
+
+      11
+      On remand, after further discovery, defendant again moved for summary judgment, on two grounds: 1) that the letter was not "in a system of records" within the meaning of the statute; and 2) that in any event, defendant was able to satisfy the statutory exception for information disclosed as part of "routine use." The routine use claimed was "law enforcement and regulatory purposes." Finding that it was unclear whether the letter was faxed to the Sheriff's Office "for law enforcement and regulatory purposes," the district court denied summary judgment on that ground.
+
+      12
+      The court, however, granted the motion on the ground that the letter was not part of a "system of records." On the basis of the testimony of Gelina and Nearing, the district court determined that the letter was most probably left in Nearing's desk drawer together with unrelated materials, and that no file was opened concerning Bechhoefer or his allegations. The letter was not classified under any filing system, either manual or electronic, and was not subject to retrieval by name or identification number. The only way Nearing could locate it was to leaf through his drawer.
+
+      13
+      The district court concluded that the letter never became part of DEA's "system of records," within the meaning of the Act. The disclosure to Christensen was, therefore, not a violation of § 552a(b). Bechhoefer appeals that decision.
+
+      DISCUSSION
+
+      14
+      The Privacy Act's restrictions on disclosure do not apply to every record under an agency's control or in its possession. They apply only to a record "which is contained in a system of records." 5 U.S.C. § 552a(b). The Act defines a "system of records" as
+
+      15
+      a group of any records under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.
+
+      16
+      5 U.S.C. § 552a(a)(5). As the Guidelines for Implementing Section 552a established by the Office of Management and Budget further specify:
+
+      17
+      The definition of "system of records" limits the applicability of some of the provisions of the Act to "records" which are maintained by an agency, retrieved by individual identifier (i.e., there is an indexing or retriev[a]l capability using identifying particulars ... built into the system), and the agency does, in fact, retrieve records about individuals by reference to some personal identifier.
+
+      18
+      ....
+
+      19
+      The phrase "... under the control of the agency ..." was intended to accomplish two separate purposes: (1) to determine possession and establish accountability; and (2) to separate agency records from records which are maintained personally by employees of an agency but which are not agency records.
+
+      20
+      Privacy Act Guidelines, reprinted in Legislative History of the Privacy Act of 1974: Source Book on Privacy 1027 (1976) (emphasis added). It follows that the prescriptions of the Act do not come into play whenever a document falls into the possession of an employee of a covered agency. It is only when the document becomes incorporated into a record-keeping system under the agency's control that the Act's prescriptions apply. And as for documents like Bechhoefer's letter, which the agency regards as irrelevant to its mission and therefore never incorporates into its record-keeping system, but which are forwarded to another agency, discarded, or left in an employee's desk drawer, such documents never become part of the agency's system of records.
+
+      21
+      Bechhoefer, pointing to the fact that his name was on the letterhead of his letter, surmises that when Agent Nearing found it in his desk drawer, he must have done so by looking at the name Bechhoefer on the letterhead. He argues on that basis that the letter was retrieved "by the name of the individual" and therefore was maintained within a "system of records." If that were the meaning of the statute, a random assortment of documents left in a drawer would be part of the agency's "system of records."
+
+      22
+      To understand how inappropriate such an interpretation of the Act would be, it is helpful to consider the various obligations the Act establishes with respect to systems of records. First, pursuant to § 552a(e)(4), "Each agency that maintains a system of records [is required to] ... publish in the Federal Register" detailed information concerning the nature and scope of the system. Second, under the Act's so-called access provisions, "Each agency that maintains a system of records shall — (1) upon request by an individual to gain access to his record or to any information pertaining to him which is contained in the system, permit him ... to review the record and have a copy made of all or any portion thereof in a form comprehensible to him." § 552a(d)(1). Third, there is the obligation that is the subject of this litigation: the obligation not to disclose records without the consent of the individual to whom the record pertains. § 552a(b).
+
+      23
+      If, as appellant argues, an agency's system of records includes not only the documents and entries that are classified in the agency's paper and electronic files, but also every scrap of paper left in an employee's pocket or desk drawer upon a determination that it does not have sufficient pertinence to the agency's mission to warrant inclusion in the agency's filing system, compliance with the first and second objectives established by the Act would be virtually impossible. Under § 552a(e)(4), in its publication in the Federal Register, in addition to describing its formal record keeping system, the agency would be compelled to list the desk drawers and coat pockets where irrelevant documents were left — a requirement that cannot have been intended. Even more problematic is that under § 552a(d)(1), whenever an individual requested access to "any information pertaining to him which is contained in the system," the agency would be obligated not only to search under his name in the agency's structured files, but also to search every desk drawer and coat pocket in order to discharge its statutory obligation to make all such material available to him. Once again, it is inconceivable that Congress intended to impose such an obligation. The Act clearly envisions that an agency can satisfy its obligation simply and inexpensively by searching its structured files under the individual's name or other identifying symbol. We conclude that an assortment of papers excluded from the agency's formal files because they are deemed not relevant to the agency's mission and left in a desk drawer are not part of the agency's system of records, to which the obligations of the Act apply.
+
+      24
+      We note that other circuits to have considered variations of the question before us have reached conclusions similar to ours. See, e.g., Boyd v. Secretary of the Navy, 709 F.2d 684, 686-87 (11th Cir.1983) (because memorandum "was kept within a random-type file and could only be retrieved by searching through the file," it was not in a "system of records"); see also Bettersworth v. FDIC, 248 F.3d 386, 391-92 (5th Cir.2001) (records filed under names of financial institutions not part of system of records even though they contained information about individuals); Gowan v. U.S. Dep't of the Air Force, 148 F.3d 1182, 1191 (10th Cir.1998) (materials contained in a general disciplinary file labeled "Ethics" not within a system of records because file not keyed to plaintiff); Hudson v. Reno, 130 F.3d 1193, 1206 (6th Cir.1997), ("[N]otes about Plaintiff's misconduct which were kept in a locked drawer and labeled the `First Assistant's' files" not in a system of records because not retrievable under plaintiff's name), abrogated on other grounds by Pollard v. E.I. du Pont de Nemours & Co., 532 U.S. 843, 848, 121 S.Ct. 1946, 150 L.Ed.2d 62 (2001).1
+
+      CONCLUSION
+
+      25
+      The judgment of the district court is affirmed.
+
+        Notes:
+
+        1
+         We need not consider the defendant's further argument that the statutory formulation applies only to a system designed to permit retrieval by name, and is not satisfied merely because in a single instance a document, otherwise classified, was found by looking for the individual's nameCompare Henke v. U.S. Dep't of Commerce, 83 F.3d 1453 (D.C.Cir. 1996) with Williams v. Dep't of Veterans Affairs, 104 F.3d 670 (4th Cir.1997). Whatever the meaning of the Act may be in this regard as to records that are maintained in a structured system, we conclude that a "system of records" does not encompass pieces of paper left in desk drawers because the agency has deemed them insufficiently relevant to the agency's mission to warrant their inclusion in the agency's files.
+
+      CC∅ | Transformed by Public.Resource.Org
+

@@ -1,0 +1,68 @@
+SELL V. UNITED STATES
+SELL V. UNITED STATES (02-5664)
+282 F.3d 560, vacated and remanded.
+Syllabus
+Opinion
+[ Breyer ]
+Dissent
+[ Scalia ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+SELL
+v.
+UNITED STATES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE EIGHTH CIRCUIT
+No. 02—5664.  Argued March 3, 2003–Decided June 16, 2003
+A Federal Magistrate Judge (Magistrate) initially found petitioner Sell, who has a long history of mental illness, competent to stand trial for fraud and released him on bail, but later revoked bail because Sell’s condition had worsened.  Sell subsequently asked the Magistrate to reconsider his competence to stand trial for fraud and attempted murder.  The Magistrate had him examined at a United States Medical Center for Federal Prisoners (Medical Center), found him mentally incompetent to stand trial, and ordered his hospitalization to determine whether he would attain the capacity to allow his trial to proceed.  While there, Sell refused the staff’s recommendation to take antipsychotic medication.  Medical Center authorities decided to allow involuntary medication, which Sell challenged in court.  The Magistrate authorized forced administration of antipsychotic drugs, finding that Sell was a danger to himself and others, that medication was the only way to render him less dangerous, that any serious side effects could be ameliorated, that the benefits to Sell outweighed the risks, and that the drugs were substantially likely to return Sell to competence.  In affirming, the District Court found the Magistrate’s dangerousness finding clearly erroneous but concluded that medication was the only viable hope of rendering Sell competent to stand trial and was necessary to serve the Government’s interest in obtaining an adjudication of his guilt or innocence.  The Eighth Circuit affirmed.  Focusing solely on the fraud charges, it found that the Government had an essential interest in bringing Sell to trial, that the treatment was medically appropriate, and that the medical evidence indicated a reasonable probability that Sell would fairly be able to participate in his trial.
+Held:
+1. The Eighth Circuit had jurisdiction to hear the appeal.  The District Court’s pretrial order was an appealable “collateral order” within the exceptions to the rule that only final judgments are appealable.  The order conclusively determines the disputed question whether Sell has a legal right to avoid forced medication.
+Coopers & Lybrand
+v.
+Livesay,
+437 U.S. 463
+, 468.  It also resolves an important issue, for involuntary medical treatment raises questions of clear constitutional importance.
+Ibid.
+And the issue is effectively unreviewable on appeal from a final judgment,
+ibid.,
+since, by the time of trial, Sell will have undergone forced medication–the very harm that he seeks to avoid and which cannot be undone by an acquittal.  Pp. 7—9.
+2. Under the framework of
+Washington
+v.
+Harper,
+494 U.S. 210
+, and
+Riggins
+v.
+Nevada,
+504 U.S. 127
+, the Constitution permits the Government involuntarily to administer antipsychotic drugs to render a mentally ill defendant competent to stand trial on serious criminal charges if the treatment is medically appropriate, is substantially unlikely to have side effects that may undermine the trial’s fairness, and, taking account of less intrusive alternatives, is necessary significantly to further important governmental trial-related interests.  Pp. 10—16.
+(a) This standard will permit forced medication solely for trial competence purposes in certain instances.  But these instances may be rare, because the standard says or fairly implies the following: First, a court must find that
+important
+governmental interests are at stake.  The Government’s interest in bringing to trial an individual accused of a serious crime is important.  However, courts must consider each case’s facts in evaluating this interest because special circumstances may lessen its importance,
+e.g.,
+a defendant’s refusal to take drugs may mean lengthy confinement in an institution, which would diminish the risks of freeing without punishment one who has committed a serious crime.  In addition to its substantial interest in timely prosecution, the Government has a concomitant interest in assuring a defendant a fair trial.  Second, the court must conclude that forced medication will
+significantly further
+those concomitant state interests.  It must find that medication is substantially likely to render the defendant competent to stand trial and substantially unlikely to have side effects that will interfere significantly with the defendant’s ability to assist counsel in conducting a defense.  Third, the court must conclude that involuntary medication is
+necessary
+to further those interests and find that alternative, less intrusive treatments are unlikely to achieve substantially the same results.  Fourth, the court must conclude that administering the drugs is
+medically appropriate.
+Pp. 10—14.
+(b) The court applying these standards is trying to determine whether forced medication is necessary to further the Government’s interest in rendering the defendant competent to stand trial.  If a court authorizes medication on an alternative ground, such as dangerousness, the need to consider authorization on trial competence grounds will likely disappear.  There are often strong reasons for a court to consider alternative grounds first.  For one thing, the inquiry into whether medication is permissible to render an individual nondangerous is usually more objective and manageable than the inquiry into whether medication is permissible to render a defendant competent.  For another, courts typically address involuntary medical treatment as a civil matter.  If a court decides that medication cannot be authorized on alternative grounds, its findings will help to inform expert opinion and judicial decisionmaking in respect to a request to administer drugs for trial competence purposes.  Pp. 14—16.
+3. The Eighth Circuit erred in approving forced medication solely to render Sell competent to stand trial.  Because that court and the District Court held the Magistrate’s dangerousness finding clearly erroneous, this Court assumes that Sell was not dangerous.  And on that hypothetical assumption, the Eighth Circuit erred in reaching its conclusion.  For one thing, the Magistrate did not find forced medication legally justified on trial competence grounds alone.  Moreover, the experts at the Magistrate’s hearing focused mainly on dangerousness.  The failure to focus on trial competence could well have mattered, for this Court cannot tell whether the medication’s side effects were likely to undermine the fairness of Sell’s trial, a question not necessarily relevant when dangerousness is primarily at issue.  Finally, the lower courts did not consider that Sell has been confined at the Medical Center for a long time, and that his refusal to be medicated might result in further lengthy confinement.  Those factors, the first because a defendant may receive credit toward a sentence for time served and the second because it reduces the likelihood of the defendant’s committing future crimes, moderate the importance of the governmental interest in prosecution.  The Government may pursue its forced medication request on the grounds discussed in this Court’s opinion but should do so based on current circumstances, since Sell’s condition may have changed over time.  Pp. 16—18.
+282 F.3d 560, vacated and remanded.
+Breyer, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Stevens, Kennedy, Souter, and Ginsburg, JJ., joined.  Scalia, J., filed a dissenting opinion, in which O’Connor and Thomas, JJ., joined.

@@ -1,0 +1,275 @@
+https://law.resource.org/pub/us/case/reporter/F3/209/209.F3d.57.96-6229.1999.html
+
+
+
+
+  
+    209 F.3d 57
+    
+    
+    
+    
+    
+
+  
+  
+    209 F.3d 57 (2nd Cir. 2000)
+
+    ARTHUR S. BECHHOEFER, Plaintiff-Appellant,v.U.S. DEPARTMENT OF JUSTICE DRUG ENFORCEMENT ADMINISTRATION, Defendant-Appellee,ROBERT NEARING and JEFFREY GELINA, Defendants.
+
+    Docket No. 96-6229August Term, 1999
+
+    UNITED STATES COURT OF APPEALSFOR THE SECOND CIRCUIT
+
+    Argued: March 14, 2000Decided: April 03, 2000
+
+    
+      Appeal from a judgment of the United States District Court for the Western District of New York (David G. Larimer, Chief Judge), granting summary  judgment to defendants and dismissing, inter alia, plaintiff's claim under the Privacy Act of 1974, 5 U.S.C. 552a. On appeal, plaintiff argues that the District Court erred in concluding that a letter he wrote to defendants is not a "record" within the meaning of the Privacy Act.
+
+      Vacated and remanded.
+
+      Anthony J. Adams, Jr., Gates & Adams, P.C., Rochester, NY, for Plaintiff-Appellant.
+
+      Brian M. McCarthy, Assistant United States Attorney for the Western District of New York (Denise E. O'Donnell, United States Attorney for the Western District of New York, of counsel), for Defendants-Appellants.
+
+      Before: CABRANES, STRAUB, and SOTOMAYOR, Circuit Judges.
+
+      JOSE ACUTE; A. CABRANES, Circuit Judge:
+
+    
+
+    
+      1
+      This appeal requires us to clarify the definition of a "record" under the Privacy Act of 1974, 5 U.S.C. 552a (1994 & Supp. 1999). Plaintiff Arthur S. Bechhoefer appeals from a judgment of the United States District Court for the Western District of New York (David G. Larimer, Chief Judge), entered on August 2, 1996, granting summary judgment to the United States Drug Enforcement Administration ("DEA") and two DEA agents, Robert Nearing and Jeffrey Gelina, and dismissing Bechhoefer's claims under the Privacy Act and the First Amendment. See Bechhoefer v. United States Dep't of Justice, 934 F. Supp. 535 (W.D.N.Y. 1996). On appeal, Bechhoefer challenges only the dismissal of his Privacy Act claim, contending that the District Court erred in holding that a letter he wrote to defendants was not a "record" within the meaning of the Privacy Act. We agree and therefore vacate the judgment of the District Court.
+
+    
+
+    I.
+
+    
+      2
+      The following facts are drawn from the record on appeal and, unless otherwise noted, are undisputed. Bechhoefer was a long-time resident of Yates County, New York, and an active member of two groups concerned with land use in the Keuka Lake area, the Bluff Point Association and Friends of Keuka Lake. During the summer of 1993, apparently in connection with his membership in these groups, Bechhoefer received a report of drug trafficking in the area. The report implicated several prominent people in Yates County, including at least one member of the Yates County Sheriff's Department.
+
+    
+
+    
+      3
+      On July 15, 1993, Bechhoefer called the Rochester office of the DEA and spoke with defendant Gelina about the report. In response, Gelina asked Bechhoefer to send him a letter detailing the information Bechhoefer had learned, including the names of those allegedly involved in drug trafficking and the names of Bechhoefer's own sources. According to Bechhoefer, he agreed to send the letter only after Gelina provided specific assurances that the letter would remain confidential. In an affidavit submitted to the District Court, however, Gelina avers that he told Bechhoefer he would try-but could not guarantee-to keep the letter confidential.
+
+    
+
+    
+      4
+      Bechhoefer sent Gelina a three-page letter dated July 17, 1993, naming several people suspected of involvement in drug trafficking and listing others who could provide information. The letter was written on stationery with Bechhoefer's full name, address, and voice/fax telephone number at the top, and was plainly labeled "CONFIDENTIAL." In the first paragraph of the letter, Bechhoefer identified himself as follows:
+
+    
+
+    
+      5
+      I am a private businessman, running an investment advisory service. I also am an officer of the Bluff Point Association, a citizen watchdog group that has uncovered instances of malfeasance or outright misuse of public funds in the Town of Jerusalem and surrounding areas around Keuka Lake. Because our organization is known for its courageous stand against corruption, we receive reports on various issues, including in this case some serious problems on drug trafficking.
+
+    
+
+    
+      6
+      At the end of the letter, Bechhoefer cautioned that "[t]his is a very serious situation. Those of us who have been receiving information are probably in danger. The Sheriff's Department cannot be trusted to provide any security, nor can its members be considered reliable."
+
+    
+
+    
+      7
+      After receiving Bechhoefer's letter, Gelina and defendant Nearing tried to meet with Bechhoefer and to contact Bechhoefer's alleged sources. However, for reasons that are disputed, no meeting between the agents and Bechhoefer ever occurred, and the agents failed to reach Bechhoefer's sources. Based on the lack of corroboration of Bechhoefer's allegations, the agents declined to open a formal investigation.
+
+    
+
+    
+      8
+      Around this time, Michael J. Christensen, an investigator with the Yates County Sheriff's Department who was named in Bechhoefer's letter-albeit not directly implicated in the alleged drug trafficking-learned about the letter. On August 5, 1993, he apparently called Gelina and Nearing and, after confirming that they had received a letter from Bechhoefer, requested that they send it to him. In response to this request, and at the direction of the DEA Resident Agent In Charge, Nearing faxed a copy of Bechhoefer's letter to Christensen.
+
+    
+
+    
+      9
+      As a result of these events, Bechhoefer was charged in two separate criminal actions by the Yates County District Attorney. In addition, Bechhoefer was sued, apparently for defamation, in three state court actions. Bechhoefer was acquitted by a jury on one set of the criminal charges, and the other set eventually was dropped; Bechhoefer's brief on appeal indicates that the civil actions all have been dismissed as well.
+
+    
+
+    
+      10
+      In July 1995, Bechhoefer filed a complaint in the District Court against the DEA, Gelina, and Nearing. The complaint asserted two claims. First, it alleged that the DEA violated 552a(b) of the Privacy Act by disclosing Bechhoefer's letter without his consent.1  Second, it alleged that defendants Gelina and Nearing unlawfully retaliated against Bechhoefer for his exercise of First Amendment rights. Bechhoefer sought an unspecified amount in damages, as well as attorneys' fees and costs.
+
+    
+
+    
+      11
+      Defendants filed an answer and, simultaneously, moved for summary judgment; Bechhoefer cross-moved for summary judgment with respect to his Privacy Act claim against the DEA. By Decision and Order filed August 2, 1996, the District Court granted defendants' motion for summary judgment and denied Bechhoefer's cross-motion for partial summary judgment. The District Court ruled that Bechhoefer's Privacy Act claim was without merit because the letter in question is not a "record" within the meaning of the Privacy Act. See Bechhoefer, 934 F. Supp. at 537-39. The Court rejected Bechhoefer's First Amendment claim on the ground that Bechhoefer had failed to establish that Gelina and Nearing took any action against him because of his exercise of First Amendment rights. See id. at 539-40. Judgment was entered August 2, 1996, and this appeal followed.
+
+    
+
+    II.
+
+    
+      12
+      Bechhoefer appeals only from the dismissal of his Privacy Act claim.2  On appeal, Bechhoefer argues that his letter is a "record" within the meaning of the Privacy Act and that the District Court therefore erred in granting summary judgment on this basis. We review the District Court's grant of summary judgment de novo, "construing the evidence in the light most favorable to the non-moving party and drawing all reasonable inferences in its favor." Maguire v. Citicorp Retail Servs., Inc., 147 F.3d 232, 235 (2d Cir. 1998).
+
+    
+
+    
+      13
+      Congress enacted the Privacy Act "to 'provide certain safeguards for an individual against an invasion of personal privacy,' by requiring governmental agencies to maintain accurate records and providing individuals with more control over the gathering, dissemination, and accuracy of agency information about themselves." Devine v. United States, 202 F.3d 547, 550 (2d Cir. 2000) (quoting Pub. L. No. 93-579, 2(b), 88 Stat. 1896, 1896 (1974)). Subject to certain enumerated exceptions, 552a(b) of the Privacy Act provides that
+
+    
+
+    
+      14
+      [n]o agency shall disclose any record which is contained in a system of records by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains.
+
+    
+
+    
+      15
+      5 U.S.C. 552a(b); see id.  552a(g)(1)(D) (creating a private right of action for violations of the Privacy Act); see also Quinn v. Stone, 978 F.2d 126, 131 (3d Cir. 1992) (enumerating the elements of a claim for violation of the Privacy Act's prohibition against disclosure). By its terms, to establish a violation of this provision, a plaintiff must first establish that the information in question is a "record" within the meaning of the Act.
+
+    
+
+    
+      16
+      The Privacy Act defines a "record" as "any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name ... or other identifying particular." 5 U.S.C. 552a(a)(4) (emphasis added). Neither party disputes that Bechhoefer's letter is an "item" or that the letter contains his name (and the names of several others). Thus, the critical question is whether Bechhoefer's letter is "about an individual" within the meaning of 552a(a)(4).
+
+    
+
+    
+      17
+      Neither the Supreme Court nor this Court has ever articulated a test for determining whether an item qualifies as a "record" under 552a(a)(4). But cf. United States Dep't of Defense v. Federal Labor Relations Auth., 510 U.S. 487, 494 (1994) ("FLRA") (stating that federal civil service employees' addresses sought by two unions representing the employees "are 'records' covered by the broad terms of the Privacy Act"). Several other courts of appeals have done so, however, resulting in three different tests for whether an item is a "record" within the meaning of the Privacy Act: (1) The Ninth and Eleventh Circuits have held that for an item to qualify as a "record" it "must reflect some quality or characteristic of the individual involved," Boyd v. Secretary of the Navy, 709 F.2d 684, 686 (11th Cir. 1983); accord Unt v. Aerospace Corp., 765 F.2d 1440, 1449 (9th Cir. 1985); (2) the D.C. Circuit has held that an item must contain "information that actually describes the individual in some way," Tobey v. NLRB, 40 F.3d 469, 472 (D.C. Cir. 1994); and (3) the Third Circuit has held, most liberally, that the "statutory definition of a record ... [has] a broad meaning encompassing any information about an individual that is linked to that individual through an identifying particular," Quinn, 978 F.2d at 133 (emphasis in original).
+
+    
+
+    
+      18
+      For several reasons, we adopt a test much like the Third Circuit's test for what qualifies as a record under the Privacy Act. First and foremost, the Third Circuit's test is most consistent with the "broad terms," FLRA, 510 U.S. at 494, of the statutory definition. As quoted above, 552a(a)(4) defines a "record" as "any item, collection, or grouping of information about an individual." 5 U.S.C. 552a(a)(4) (emphasis added). Contrary to the test adopted by the Ninth and Eleventh Circuits, nothing in the Act suggests that information must reflect a "quality or characteristic" of an individual in order to qualify for protection. See Tobey, 40 F.3d at 472; Quinn, 978 F.2d at 133. And while the test adopted by the D.C. Circuit in Tobey is not necessarily inconsistent with the terms of the statute, the Tobey test can, and has, been read to require something more than "any information" about an individual. See, e.g., Fisher v. National Insts. of Health, 934 F. Supp. 464, 471-72 (D.D.C. 1996). Thus, in our view, the Tobey test also strains the statutory language of 552a(a)(4).3
+
+    
+
+    
+      19
+      Second, only the Third Circuit's test is consistent with the Supreme Court's decision in FLRA. In that case, the Supreme Court held that the information at issue-federal civil service employees' home addresses-qualified for protection under the Privacy Act, even though such information did not "actually describe[]" any individual, Tobey, 40 F.3d at 472, or reflect some individual's "quality or characteristic," Boyd, 709 F.2d at 686; accord Unt, 765 F.2d at 1449. As the Court stated, without further elaboration or discussion, "The employee addresses are 'records' covered by the broad terms of the Privacy Act." 510 U.S. at 494. To be sure, the principal issue in FLRA concerned construction of the Freedom of Information Act ("FOIA"), 5 U.S.C. 552, and the Court did not closely analyze the statutory definition of "record" in the Privacy Act. Nevertheless, the Court's conclusion was a necessary part of its ultimate holding-and therefore does not constitute dictum.4  Accordingly, any test of what constitutes a "record" under the Privacy Act must encompass the information at issue in FLRA-and only the Third Circuit's test does so.5
+
+    
+
+    
+      20
+      Finally, the Third Circuit's test is supported by the legislative history of the Privacy Act and by the relevant guidelines issued by the Office of Management and Budget ("OMB")-the entity assigned with "chief responsibility for formulating guidelines on federal agency implementation of, and for overseeing federal agency compliance with, the [Privacy] Act." Devine, 202 F.3d at 551 (citing 5 U.S.C. 552a(v)). Both the legislative history and the OMB Guidelines emphasize that "a record can include as little as one descriptive item about an individual." ANALYSIS OF THE HOUSE AND SENATE COMPROMISE AMENDMENTS TO THE FEDERAL PRIVACY ACT ("ANALYSIS OF THE HOUSE AND SENATE AMENDMENTS"), reprinted in HOUSE AND SENATE COMMS. ON GOVERNMENT OPERATIONS, 94TH CONG., 2D SESS., LEGISLATIVE HISTORY OF THE PRIVACY ACT OF 1974: SOURCE BOOK ON PRIVACY 858, 866 (Joint Comm. Print 1976) ("SOURCE BOOK"); accord Privacy Act Guidelines, 40 Fed. Reg. 28,949, 28,952 (1975), reprinted in SOURCE BOOK, supra, at 1015, 1026; see also Williams v. Department of Veterans Aff., 104 F.3d 670, 674 (4th Cir. 1997); Bartel v. Federal Aviation Admin., 725 F.2d 1403, 1408 n.9 (D.C. Cir. 1984). Moreover, the OMB Guidelines themselves define "record" to mean "any item of information about an individual that includes an individual identifier." 40 Fed. Reg. at 28,951 (emphasis added), reprinted in SOURCE BOOK, supra, at 1026.
+
+    
+
+    
+      21
+      In some respects, the legislative history of the Privacy Act supports a more limited reading of 552(a)(4) than the one adopted by the Third Circuit. That is, the legislative history makes frequent reference to the need to protect against governmental abuse of "personal information." See, e.g., Privacy Act of 1974, Pub. L. No. 93-579, 2(a)(1), 88 Stat. 1896, 1896 (congressional findings), reprinted in SOURCE BOOK, supra, at 501, 501; S. REP. 93-1183, at 1 (1974), reprinted in SOURCE BOOK, supra, at 154, 154. See generally Houston v. United States Dep't of Treasury, 494 F. Supp. 24, 27-29 (D.D.C. 1979) (discussing the relevant legislative history and concluding that the Privacy Act covers only "personal information"). These references imply that Congress may have intended to limit the protections of the Act to information that somehow is private or personal. Nevertheless, the legislative history makes plain that Congress intended "personal information" itself to have a broad meaning, encompassing
+
+    
+
+    
+      22
+      all information that describes, locates or indexes anything about an individual including his education, financial transactions, medical history, criminal, or employment record, or that affords a basis for inferring personal characteristics, such as finger and voice prints, photographs, or things done by or to such individual; and the record of his presence, registration, or membership in an organization or activity, or admission to an institution.
+
+    
+
+    
+      23
+      S. 3418, 93d Cong., 301(3) (1974) (emphasis added), reprinted in SOURCE BOOK, supra, at 9, 24-25; see also ANALYSIS OF THE HOUSE AND SENATE AMENDMENTS, supra (noting that the amended definition of "record" was "adopted to more closely reflect the definition of 'personal information' as used in the Senate bill"), reprinted in SOURCE BOOK, supra, at 866. Moreover, when read in light of the broad language of the Act and the Supreme Court's decision in FLRA, nothing in the statute's legislative history supports the more limited tests adopted by the D.C., Ninth, and Eleventh Circuits.
+
+    
+
+    
+      24
+      We therefore hold that "record" under the Privacy Act has "a broad meaning encompassing," at the very least, any personal information "about an individual that is linked to that individual through an identifying particular." Quinn, 978 F.2d at 133. Applying this test to the facts of the instant case, we conclude that the District Court erred in holding that Bechhoefer's letter is not a "record" within the meaning of the Privacy Act. The letter contains both Bechhoefer's name and several pieces of "personal information" about him, including his address, his voice/fax telephone number, his employment, and his membership in the Bluff Point Association.6  See Privacy Act Guidelines, 40 Fed. Reg. at 28,952 (noting that the definition of record "includes the record of present registration, or membership in an organization or activity, or admission to an institution" (internal quotation marks omitted)), reprinted in SOURCE BOOK, supra, at 1026; cf. S. 3418, 93d Cong., 301(3) (defining "personal information" to include one's "presence, registration, or membership in an organization or activity"), reprinted in SOURCE BOOK, supra, at 25. If, as the Supreme Court held in FLRA, an employee's name and address are alone sufficient to qualify as a record under the Privacy Act, the information contained in the letter about Bechhoefer surely qualifies for the Act's protection.
+
+    
+
+    III.
+
+    
+      25
+      Perhaps recognizing that the District Court's conclusion might not withstand scrutiny, the DEA urges us to affirm on either of two alternative grounds: (1) that the letter was not contained within a "system of records" as defined by 552a(a)(5) and as required by the plain language of 552a(b); or (2) that disclosure of the letter was permissible pursuant to an exception in 552a(b)(3) for a "routine use."
+
+    
+
+    
+      26
+      We decline the DEA's invitation to affirm on either of these alternative bases. Although the DEA raised both issues in its motion for summary judgment, the District Court did not rule on either issue.7  Moreover, both issues turn in large part on information that is within the control of the DEA, and as of yet there has been no discovery. Under these circumstances, we deem it more appropriate to allow the District Court, as the court of first instance, to consider the DEA's alternative arguments.
+
+    
+
+    IV.
+
+    
+      27
+      In sum, we hold that Bechhoefer's letter is a record within the meaning of the Privacy Act. Accordingly, we vacate the judgment of the District Court and remand for further proceedings consistent with this opinion.8
+
+    
+
+    
+      
+        Notes:
+
+      
+
+      
+        1
+          Section 552a(b) of the Privacy Act is quoted in the text below. See infra Section II. A civil action under the Privacy Act may be brought only against an "agency." 5 U.S.C.  552a(g). Accordingly, Bechhoefer's first claim did not name Nearing and Gelina as defendants.
+
+      
+
+      
+        2
+          In light of this fact, the parties' references to Nearing and Gelina as "defendants-appellees" are improper. Since Bechhoefer's remaining claim is against the DEA alone, see supra note 1, only the DEA is an appellee.
+
+      
+
+      
+        3
+          In Tobey, the D.C. Circuit suggested that the Third Circuit's test "fail[ed] to require that information both be 'about' an individual and be linked to that individual by an identifying particular" and that the Third Circuit's test therefore was "too broad." 40 F.3d at 472. The Tobey Court arrived at this conclusion, however, only by quoting a sentence from the Third Circuit's opinion out of context. See id. ("The Third Circuit . . . has stated that information 'could still be included within a "record" . . . if that piece of information were linked with an identifying particular . . . .'" (quoting Quinn, 978 F.2d at 133)). Indeed, only a few sentences before the text quoted by the Tobey Court, the Third Circuit expressly stated that the statutory definition of "record" encompasses "information about an individual that is linked to that individual through an identifying particular." Quinn, 978 F.2d at 133. Thus, in our view, the D.C. Circuit misreads Quinn.
+
+      
+
+      
+        4
+          At issue in FLRA was whether the agencies involved were "prohibited by law" from disclosing the employees' addresses. See 510 U.S. at 493. The agencies argued that they were prohibited from disclosing the addresses under  552a(b) of the Privacy Act; in contrast, the unions contended that disclosure was permitted under an explicit exception to  552a(b) for instances where disclosure is "required" under FOIA. See id. at 493-94 (quoting 5 U.S.C.  552a(b)(2)). Although the Court devoted most of its attention to this latter argument-and therefore to FOIA-its conclusion that the addresses at issue were "covered by the broad terms of the Privacy Act" was a necessary part of its ultimate holding that the agencies were prohibited by law from disclosing the addresses. See id. at 502 ("FOIA . . . does not require the agencies to divulge the addresses, and the Privacy Act, therefore, prohibits their release to the unions.").
+
+        As the Supreme Court's opinion in FLRA reveals, the Privacy Act and FOIA are interrelated parts of a larger statutory scheme. See generally Paul M. Schwartz, Privacy and Participation: Personal Information and Public Sector Regulation in the United States, 80 IOWA L. REV. 553, 593-95 (1995) (discussing the "somewhat complex" relationship between the Privacy Act and FOIA).
+
+      
+
+      
+        5
+          The DEA urges us to follow Fisher, in which a judge of the United States District Court for the District of Columbia declined to follow FLRA on the ground that the Supreme Court "did not articulate what factors it considered when determining that the files at issue . . . were records." 934 F. Supp. at 471. We are less willing than the Fisher Court, however, to disregard an otherwise authoritative statement by the Supreme Court based on a subjective assessment that the Court did not give sufficient consideration to the matter. Absent reconsideration by the Supreme Court of its conclusion in FLRA, any test of what constitutes a "record" under the Privacy Act must encompass the employee addresses at issue in that case.
+
+      
+
+      
+        6
+          It is immaterial that Bechhoefer's letter contains information about other people as well. Although Tobey and Unt can be read to hold that information may not be "about" someone if it is "about" someone else or something else, see Tobey, 40 F.3d at 471; Unt, 765 F.2d at 1449, nothing in the Privacy Act itself or in the Act's legislative history supports this view.
+
+      
+
+      
+        7
+          The District Court did, however, express some skepticism that Bechhoefer's letter was contained within a "system of records." See 934 F. Supp. at 539 n.4.
+
+      
+
+      
+        8
+          Under  552a(g)(4)(B) of the Privacy Act, Bechhoefer will be entitled to the costs of this appeal if he prevails on the merits of his claim and it is found that the DEA "acted in a manner which was intentional or willful." 5 U.S.C.  552a(g)(4)(B); see also FED. R. APP. P. 39(a)-(b). We leave this determination for the District Court to make if or when appropriate.
+
+      
+
+    
+
+    
+      CC∅ | Transformed by Public.Resource.Org
+
+    
+
+  
+

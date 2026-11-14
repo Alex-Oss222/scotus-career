@@ -1,0 +1,55 @@
+VIRGINIA V. HICKS
+VIRGINIA V. HICKS (02-371)
+264 Va. 48, 563 S. E. 2d 674, reversed and remanded.
+Syllabus
+Opinion
+[ Scalia ]
+Concurrence
+[ Souter ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+VIRGINIA
+v.
+HICKS
+CERTIORARI TO THE SUPREME COURT OF VIRGINIA
+No. 02—371.  Argued April 30, 2003–Decided June 16, 2003
+The Richmond Redevelopment and Housing Authority (RRHA), a political subdivision of Virginia, owns and operates Whitcomb Court, a low-income housing development.  In 1997, the Richmond City Council conveyed Whitcomb Court’s streets to the RRHA, in an effort to combat crime and drug dealing by nonresidents.  In accordance with the terms of conveyance, the RRHA enacted a policy authorizing the Richmond police to serve notice on any person lacking “a legitimate business or social purpose” for being on the premises and to arrest for trespassing any person who remains or returns after having been so notified.  The RRHA gave respondent Hicks, a nonresident, written notice barring him from Whitcomb Court.  Subsequently, he trespassed there and was arrested and convicted.  At trial, he claimed that RRHA’s policy was, among other things, unconstitutionally overbroad.  The Virginia Court of Appeals vacated his conviction.  In affirming, the Virginia Supreme Court found the policy unconstitutionally overbroad in violation of the
+First Amendment
+, because an unwritten rule that leafleting and demonstrating require advance permission vested too much discretion in Whitcomb Court’s manager.
+Held:
+The RRHA’s trespass policy is not facially invalid under the
+First Amendment
+’s overbreadth doctrine.  Pp. 4—11.
+(a) Under that doctrine, a showing that a law punishes a “substantial” amount of protected free speech, “in relation to the statute’s plainly legitimate sweep,”
+Broadrick
+v.
+Oklahoma,
+413 U.S. 601
+, 615, suffices to invalidate all enforcement of that law “until and unless a limiting construction or partial invalidation so narrows it as to remove the seeming threat or deterrence to constitutionally protected expression,”
+id.
+, at 613.  Only substantial overbreadth supports such facial invalidation, since there are significant social costs in blocking a law’s application to constitutionally unprotected conduct.  Pp. 4—6.
+(b) This Court has jurisdiction to review the
+First Amendment
+merits question here.  Virginia’s actual injury in fact–the inability to prosecute Hicks for trespass–is sufficiently distinct and palpable to confer Article III standing.  Pp. 6—7.
+(c) Even assuming the invalidity of the “unwritten” rule for leafleters and demonstrators, Hicks has not shown that the RRHA policy prohibits a substantial amount of protected speech in relation to its many legitimate applications.  Both the notice-barment rule and the “legitimate business or social purpose” rule apply to all persons entering Whitcomb Court’s streets, not just to those seeking to engage in expression.  Neither the basis for the barment sanction (a prior trespass) nor its purpose (preventing future trespasses) implicates the
+First Amendment
+.  An overbreadth challenge rarely succeeds against a law or regulation that is not specifically addressed to speech or conduct necessarily associated with speech.  Any applications of the RRHA’s policy that violate the
+First Amendment
+can be remedied through as-applied litigation.  Pp. 7—10.
+264 Va. 48, 563 S. E. 2d 674, reversed and remanded.
+Scalia, J., delivered the opinion for a unanimous Court.  Souter, J., filed a concurring opinion, in which Breyer, J., joined.

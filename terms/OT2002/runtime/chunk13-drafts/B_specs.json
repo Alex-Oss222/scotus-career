@@ -1,0 +1,92 @@
+[
+  {
+    "file": "Bechhoefer-v-United-States-Department-of-Justice-DEA_dismissal_2003-06-16.md",
+    "case": "Bechhoefer v. United States Department of Justice, DEA",
+    "date": "2003-06-16",
+    "countable": false
+  },
+  {
+    "file": "Heimmermann-v-First-Union-Mortgage-Corp_merits_2003-06-16.md",
+    "case": "Heimmermann v. First Union Mortgage Corp.",
+    "date": "2003-06-16",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assignment_authority_text": "Stone-Zsela assigns as Chief in the unanimous judgment coalition. The signed H1\u2013H3 form and propositions were fixed before counts. All eight Associates join every proposition; Stone-Zsela joins only the independent H3 ground. Fit concerns precise delegated authority, temporal interpretation and certification proof, preserving the independent statutory ground."
+  },
+  {
+    "file": "Fairley-v-Luman_merits_2003-06-23.md",
+    "case": "Fairley v. Luman",
+    "date": "2003-06-23",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assignment_authority_text": "The unanimous judgment and F1\u2013F3 coalition supports assignment by Stone-Zsela. Every Justice supports all propositions. Fit concerns careful separation of initial arrest, continuing identity process, municipal fault and actual causal loss under verdict review. No coalition expansion is required."
+  },
+  {
+    "file": "Krimstock-v-Kelly_merits_2003-06-23.md",
+    "case": "Krimstock v. Kelly",
+    "date": "2003-06-23",
+    "countable": true,
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "assignment_authority_text": "Stone-Zsela assigns as Chief in the unanimous judgment coalition. Seven Associates support K1\u2013K4 in full. Scalia withholds K2; Stone-Zsela supports shared hearing and implementation propositions but withholds the complete adopted proof and remedial allocations. Fit concerns distinguishing initial seizure, continued possession, preliminary burdens, owner defenses and effective tailored relief; no additional join accommodation is needed."
+  }
+]

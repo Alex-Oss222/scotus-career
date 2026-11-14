@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 12 have produced 157 completed event Records covering 152 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 13 is the next supplied chunk.
+Chunks 1 through 13 have produced 168 completed event Records covering 163 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 14 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 152 completed and 28 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. All chunk 12 matters have completed Court actions.
+The manifest preserves all 180 scheduled rows: 163 completed and 17 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
 
 ## Completed public actions
 
@@ -167,8 +167,19 @@ The manifest preserves all 180 scheduled rows: 152 completed and 28 remaining. C
 | 2003-06-09 | Satellite Broadcasting & Communications Association v. FCC | The Fourth Circuit judgment rejecting the facial First Amendment challenge to the carry-one, carry-all condition is affirmed. | `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md` |
 | 2003-06-09 | State v. Oakley | The judgment is affirmed in part, reversed in part, and remanded. The reproductive condition is reversed and must be removed, 7–2. Rejection of the earlier-bargain challenge is affirmed, 9–0. | `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md` |
 | 2003-06-09 | United States v. Suerte | The Fifth Circuit's judgment vacating the pretrial dismissal is affirmed, and the case is remanded for further proceedings. | `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md` |
+| 2003-06-16 | Bechhoefer v. United States Department of Justice, DEA | The Court dismisses the review as moot, unanimously, and leaves both lower appellate judgments undisturbed. | `terms/OT2002/records/Bechhoefer-v-United-States-Department-of-Justice-DEA_dismissal_2003-06-16.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
+| 2003-06-16 | Federal Election Commission v. Beaumont | The judgment on direct treasury contributions is reversed, and the case is remanded. | `terms/OT2002/records/Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md` |
+| 2003-06-16 | Heimmermann v. First Union Mortgage Corp. | The Court affirms the judgment vacating class certification and remanding for further proceedings. | `terms/OT2002/records/Heimmermann-v-First-Union-Mortgage-Corp_merits_2003-06-16.md` |
+| 2003-06-16 | Overton v. Bazzetta | The facial judgment is reversed, and the case is remanded. | `terms/OT2002/records/Overton-v-Bazzetta_merits_2003-06-16.md` |
+| 2003-06-16 | Sell v. United States, No. 02-5664. | The Court accepts immediate review, vacates the judgment sustaining the present medication authorization, and remands for further proceedings under the requirements stated in its opinion. | `terms/OT2002/records/Sell-v-United-States_merits_2003-06-16.md` |
 | 2003-06-16 | Star Scientific, Inc. v. Beales | The judgment affirming dismissal of the four constitutional challenges is affirmed. | `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md` |
+| 2003-06-16 | Virginia v. Hicks | The judgment is reversed, and the case is remanded. | `terms/OT2002/records/Virginia-v-Hicks_merits_2003-06-16.md` |
+| 2003-06-23 | Fairley v. Luman | The Court affirms the municipal judgment, the $11,250 damages verdict and the $92,211.83 attorney-fee award. | `terms/OT2002/records/Fairley-v-Luman_merits_2003-06-23.md` |
+| 2003-06-23 | Gratz v. Bollinger, No. 02-516. | The Court reverses the approval of the current automatic racial award, preserves the identified earlier dispositions, and remands for fitted prospective relief and adjudication of surviving period-specific claims. | `terms/OT2002/records/Gratz-v-Bollinger_merits_2003-06-23.md` |
+| 2003-06-23 | Grutter v. Bollinger, No. 02-241. | The Court affirms the judgment sustaining the Law School's actual admissions program and rejects the presented constitutional, Title VI and §1981 policy challenges. | `terms/OT2002/records/Grutter-v-Bollinger_merits_2003-06-23.md` |
+| 2003-06-23 | Krimstock v. Kelly | The Court affirms the judgment requiring prompt neutral retention review and remands for the preserved claimant, class and implementation determinations. | `terms/OT2002/records/Krimstock-v-Kelly_merits_2003-06-23.md` |
+| 2003-06-23 | United States v. American Library Association, Inc. | The facial judgment concerning both library programs is reversed, and the case is remanded. | `terms/OT2002/records/United-States-v-American-Library-Association_merits_2003-06-23.md` |
 | 2003-06-26 | Georgia v. Ashcroft, No. 02-182 | The denial of preclearance for the original Senate plan and the order permitting the four voters to intervene are affirmed. | `terms/OT2002/records/Georgia-v-Ashcroft_merits_2003-06-26.md` |
 | 2003-06-26 | Old Person v. Brown | The judgment is affirmed. | `terms/OT2002/records/Old-Person-v-Brown_merits_2003-06-26.md` |
 
@@ -1098,11 +1109,41 @@ Source: `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md`.
 
 For covered foreign-flagged maritime conspiracies with established flag-state enforcement permission, federal prosecution may proceed without an additional domestic destination, citizenship, or domestic-effects nexus. Courts must distinguish the statute's coverage, the flag State's permission, and the defendant's independent fair-warning protection. The actual consent and offense remain subject to adjudication under those governing rules.
 
+### 2003-06-16 — Bechhoefer v. United States Department of Justice, DEA
+
+Source: `terms/OT2002/records/Bechhoefer-v-United-States-Department-of-Justice-DEA_dismissal_2003-06-16.md`.
+
+The continuing-controversy requirement governs review of an antecedent ruling even when the legal question remains disputed. The disposition preserves the existing lower judgments and ends this Court proceeding on jurisdictional grounds.
+
 ### 2003-06-16 — Center for Reproductive Law and Policy v. Bush
 
 Source: `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md`.
 
 Domestic speakers may challenge a government condition that concretely and predictably impairs their own foreign collaboration even though the immediate condition applies to a foreign recipient. The five-Justice merits holding bars the identified viewpoint disqualification of independently financed collaboration, while preserving lawful funded activity restrictions. Proof of coverage, injury and prospective need implements that rule; it does not leave the legal funded-program versus independent-expression boundary unresolved. The separate notice theory is dismissed, and international law returns only for its own cognizable basis.
+
+### 2003-06-16 — Federal Election Commission v. Beaumont
+
+Source: `terms/OT2002/records/Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md`.
+
+The direct treasury-contribution restriction is enforceable against NCRL on this funding and fund-operation record. Existing contribution doctrine remains the governing reusable rule: the government must establish the actual interest and fit while preserving meaningful voluntary association. NCRL may continue candidate support through its existing lawful voluntary fund, and the independent-expenditure judgment retains its force.
+
+### 2003-06-16 — Heimmermann v. First Union Mortgage Corp.
+
+Source: `terms/OT2002/records/Heimmermann-v-First-Union-Mortgage-Corp_merits_2003-06-16.md`.
+
+The stated official HUD mechanism qualifies for delegated interpretive treatment within RESPA's prohibition and bona fide-compensation allowance. Its permissible use for these earlier transactions follows the interpretive continuity identified in Part II. Independently, courts must reject automatic liability based only on premium existence and missing itemization and must test proposed common proof against the actual referral and compensation elements. These rules govern the pending proceedings and other still-open claims presenting them. The proof required to establish a particular violation and the findings needed for a renewed class are ordinary adjudicative work under the settled standards.
+
+### 2003-06-16 — Overton v. Bazzetta
+
+Source: `terms/OT2002/records/Overton-v-Bazzetta_merits_2003-06-16.md`.
+
+The challenged designs survive facial review under Turner, while compatible family association remains protected through its operational standard. The two-year restoration point permits an application; the lawfulness of concrete later duration, denial, and actual communication conditions is judged on those facts. The independent Eighth Amendment elements remain distinct. Any later federal prison-conditions prospective relief must satisfy amended 18 U.S.C. §3626: necessity to correct the proved federal violation, narrow drawing, least intrusive effective means, and substantial weight to adverse public-safety and criminal-justice effects. Relief contrary to state or local law additionally requires that federal law require it, that it be necessary, and that no other relief correct the violation; existing supported findings may meet those requirements.
+
+### 2003-06-16 — Sell v. United States, No. 02-5664.
+
+Source: `terms/OT2002/records/Sell-v-United-States_merits_2003-06-16.md`.
+
+Conclusive orders authorizing the covered forced medication receive immediate collateral-order review. Prosecution of serious nonviolent charges may justify restoration medication only through the complete individualized interest, efficacy, fair-defense, necessity and medical-appropriateness showing. Advance assessment and pretrial reassessment remain operative requirements. The categorical First Amendment objection fails within that fully protected category. These rules govern the present order and subsequent covered requests from this decision; the clinical findings needed on renewal are applications of settled law.
 
 ### 2003-06-16 — Star Scientific, Inc. v. Beales
 
@@ -1111,6 +1152,42 @@ Source: `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md`
 Virginia's challenged statute may require the defined reserve for qualifying consumer sales made directly or through intermediaries. The economic classification is sustained on the complete payment, conduct, and retained-property arrangements. Its local-sales measure and described tracing burdens survive the distinct Commerce inquiries, and the associated settlement requires no congressional consent under the governing federal-supremacy rule.
 
 A concrete assessment must follow the statutory sales base. Access to principal and mandatory return are governed by the distinct B1–B3 conditions in Holding 2, including B1's claim and claimant limits and B2's manufacturer showing and Commonwealth-share calculation. A supported materially different discriminatory, territorial, or operational application receives review under its own facts and the applicable constitutional standard.
+
+### 2003-06-16 — Virginia v. Hicks
+
+Source: `terms/OT2002/records/Virginia-v-Hicks_merits_2003-06-16.md`.
+
+Lower courts must distinguish permission to present a third-party overbreadth claim from proof that the actual rule substantially burdens protected expression relative to its legitimate operation. This trespass policy's wholesale invalidation cannot stand on the showing made. Preserved narrower claims remain governed by their own expressive-access and state-law rules, including functional forum analysis and lawful severability.
+
+### 2003-06-23 — Fairley v. Luman
+
+Source: `terms/OT2002/records/Fairley-v-Luman_merits_2003-06-23.md`.
+
+Courts must assess continued wrong-person confinement under the actual verification opportunity, risk, duration and burden, separately from the initial arrest. Municipal liability remains tied to a proved deliberate policy defect causing that injury, even when employees prevail on different claims. A later transfer requires an actual causation inquiry. These established doctrines sustain the present monetary judgment and fee award; they do not depend on the identity of the later custodian alone.
+
+### 2003-06-23 — Gratz v. Bollinger, No. 02-516.
+
+Source: `terms/OT2002/records/Gratz-v-Bollinger_merits_2003-06-23.md`.
+
+The common substantial-justification standard continues to govern admissions classifications. This automatic twenty-point mechanism fails genuine competitive consideration and supported fit; the constitutional and two statutory invalidity grounds each command five direct joins. The older corrective defense fails at the connection between its supported objectives and the earlier mechanism. Its rejection does not displace relevant educational evidence. The preserved immunity dispositions constrain the surviving claims, and the established same-decision and process-injury rules govern relief separately by period, cause and defendant. Future programs must justify their actual operation; the decision establishes no universal numerical boundary.
+
+### 2003-06-23 — Grutter v. Bollinger, No. 02-241.
+
+Source: `terms/OT2002/records/Grutter-v-Bollinger_merits_2003-06-23.md`.
+
+The existing common standard permits the Law School's supported program of genuine competitive consideration. Actual educational function, burdens and practical alternatives govern both present permission and its continuation; individualized language or academic expertise supplies no exemption. Title VI and §1981 independently permit the justified competitive treatment established here at the stated statutory scope. The factual basis must continue to support operation, and changed circumstances are assessed under the same rule.
+
+### 2003-06-23 — Krimstock v. Kelly
+
+Source: `terms/OT2002/records/Krimstock-v-Kelly_merits_2003-06-23.md`.
+
+The described vehicle-retention scheme must provide a prompt neutral preliminary contest of probable validity and present custody need, with effective relief and meaningful consideration of adequate security and governing owner defenses. The City's preliminary justification, the claimant's Bennis defense predicates and the final proceeding's burden perform distinct work. The hearing rule applies to ongoing and still-open retentions. Current claimant and class findings define the decree; local scheduling and evidentiary choices implement the binding right rather than leave its existence unresolved.
+
+### 2003-06-23 — United States v. American Library Association, Inc.
+
+Source: `terms/OT2002/records/United-States-v-American-Library-Association_merits_2003-06-23.md`.
+
+The two statutory funding conditions remain applicable according to their distinct terms, including lawful disabling, while the facial injunction is removed. Adults may request whole-session disabling for lawful reading without identifying sites or explaining reasons. Significant actual denial, delay, disclosure burdens, or other substantial obstruction must be evaluated on a supported record. The common holding resolves this facial showing; the independently published service and scrutiny explanations retain their stated, different coalitions.
 
 ### 2003-06-26 — Georgia v. Ashcroft, No. 02-182
 
@@ -2050,6 +2127,38 @@ He relies on Velazquez's actual-function distinction, with Rosenberger and South
 
 If the outside-program burden is proved and the government fails that standard, he would provide appropriate declaratory relief and assess ordinary injunction prerequisites. He would presume relief against a proved common outside-program restriction for the persons it governs unless officials establish a narrower complete cure, bounded by proved domestic injury, severability and remedial jurisdiction. A supported decree would identify the prohibited enforcement, require responsible implementing officials to cease it and notify affected recipients on a feasible court-set schedule, and use revised terms and enforcement records to establish compliance; relabeling the same condition would not cure it. Lawful fund-use accounting and other assistance conditions would remain. His proposed scrutiny opportunity and remedial presumption are distinct from the Court's controlling rule.
 
+### 2003-06-16 — Federal Election Commission v. Beaumont
+
+Source: `terms/OT2002/records/Federal-Election-Commission-v-Beaumont_merits_2003-06-16.md`.
+
+**Kennedy, dissenting, joined by Scalia and Thomas.** The dissent accepts the contribution standard and Stengel's rejection of categorical nonprofit immunity. It also accepts preventive safeguards directed to business sources and genuine conduits. But NCRL's treasury consists overwhelmingly of voluntary individual support, and its existing fund collects a different pool. Actual use of that fund answers whether it is merely nominal; it does not by itself justify complete exclusion of the chosen association's treasury. Mariani's source-specific objection and Lamb's separate fit requirement therefore support affirmance on this record. The dissent recognizes the business receipts and administrative support as substantial contrary considerations, but finds their combined justification insufficient for this total source restriction.
+
+### 2003-06-16 — Heimmermann v. First Union Mortgage Corp.
+
+Source: `terms/OT2002/records/Heimmermann-v-First-Union-Mortgage-Corp_merits_2003-06-16.md`.
+
+Stone-Zsela concurs in part and in the judgment. He joins Part III's independent construction and certification disposition because the existing certification rests on premium existence and missing itemization without an adequate common method proving the statutory wrong. A supported revised class remains available. He would apply that judicial construction to the earlier transactions under Harper, with Reynoldsville preserving independent procedural and remedial defenses. He considers §2617(a) and HUD's official mechanism substantial evidence of delegated authority under Mead, but would resolve the case without deciding this statement's independent controlling force. A later publication date supplies neither automatic new liability nor immunity. His disagreement therefore concerns the administrative basis of Part I–Part II, not Part III's independent statutory rule or the judgment.
+
+### 2003-06-16 — Overton v. Bazzetta
+
+Source: `terms/OT2002/records/Overton-v-Bazzetta_merits_2003-06-16.md`.
+
+**Stone-Zsela, concurring in part and concurring in the judgment.** The Chief Justice joins the retained-association standard and the independent Eighth Amendment application. He accepts reversal of the insufficient facial showing on the association components while emphasizing the need to examine real family contact. The two-strike minimum creates a serious fit concern because the substance violation need not involve visitation, and eligibility to request restoration is no guaranteed end to separation. Giving institutional predictions greater weight for this facial disposition still leaves concrete indefinite suspension, arbitrary restoration, and an absence of realistic alternatives subject to actual review. For an independent conditions claim, he would require prisoners to prove, by a preponderance of the evidence, an objectively serious deprivation or substantial risk of serious harm, together with the responsible officials’ actual awareness and unreasonable disregard. Any resulting decree must satisfy the PLRA.
+
+**Scalia, concurring in part and concurring in the judgment, joined by Thomas.** They accept the full Turner applications as sufficient to reject these facial claims and the bounded Farmer application as in Delaney. Their Gerber distinction between a compatible liberty and a claimed entitlement to institutional assistance leads them to withhold the broader retained-visitation recognition in Part I. The accepted applications do not require that recognition. They preserve review of rights actually retained and do not replace binding conditions law with categorical immunity for a disciplinary label.
+
+### 2003-06-16 — Sell v. United States, No. 02-5664.
+
+Source: `terms/OT2002/records/Sell-v-United-States_merits_2003-06-16.md`.
+
+**Kennedy, concurring.** Kennedy joins the complete rule but emphasizes the stronger ultimate protection he explained in Riggins and Weston: restoration requires an extraordinary showing against significant impairment of the defendant's reactions, participation and assistance to counsel. A nominal finding of competence does not establish the ability to defend fairly. His formulation concerns the assurance necessary in application; it does not prescribe a universal clear-and-convincing burden or demand perfect clinical prediction.
+
+**Stone, concurring in part and dissenting in part.** Stone agrees that review must precede this irreversible intervention and that the present authorization must be vacated. He would hold that prosecution of the covered nonviolent charges cannot itself supply authority to medicate an objecting, nondangerous defendant. Under his reading of the substantive liberty protected by Riggins and Weston, the Government must establish an independent emergency, safety or patient-welfare basis under that authority's own substantive and procedural requirements. Trial incompetence is distinct from incapacity to refuse treatment, present danger and lawful treatment authority. Harper supplies a different source of authority; Benson's record-based denial of a new-trial writ does not resolve this prospective question.
+
+Stone would prohibit renewal on prosecution alone. A lawful replacement order would have to identify its genuinely independent basis, provide the required process and consider reasonable less intrusive means; relabeling restoration as welfare would be insufficient. If restoration remained an actual purpose of a nonemergency replacement order, he would additionally require advance judicial assessment of foreseeable effects on comprehension, consultation, testimony, demeanor and defense presentation, supported by clinical evidence, alternatives and safeguards, and renewed assessment before trial. He proposes that protection even when an independent safety basis suffices, extending rather than restating Weston's held scope. His substantive liberty ground makes a separate First Amendment answer unnecessary. The proposal covers the nonviolent prosecution category before the Court; materially different violent-offense applications fall outside the limited grant.
+
+**Scalia, joined by O'Connor and Thomas, dissenting.** The dissent applies the strict criminal final-judgment rule and Cohen's cumulative requirements. In its view, protection of bodily liberty does not create an additional interlocutory category in the criminal case when trial unfairness can be reviewed after conviction and a properly founded independent civil challenge remains distinct. Riggins and Weston's advance trial-court duties do not decide appellate jurisdiction. The dissent would vacate the Eighth Circuit judgment and direct dismissal of the appeal, without deciding whether this regimen satisfies the Constitution.
+
 ### 2003-06-16 — Star Scientific, Inc. v. Beales
 
 Source: `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md`.
@@ -2057,6 +2166,58 @@ Source: `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md`
 Justice Scalia concurs in part and in the judgment. He joins the standing, economic, actual territorial, and Compact holdings. For the remaining Commerce challenge, he follows his narrower West Lynn Creamery and Walsh position: judicial invalidation is available for facial geographic discrimination or a materially identical arrangement already invalidated by the Court. This scheme satisfies neither description. A preference for settlement participants is not facial discrimination by geographic origin, and the local-sales escrow lacks the prohibited outside-price command or dedicated local-producer subsidy. He therefore supports affirmance while withholding assent to free-standing Pike balancing.
 
 Justice Thomas concurs in part and in the judgment. He joins the same stated portions, including the conclusion that this local-sales measure does not impose the asserted outside-transaction control. Consistent with his Walsh position, he rejects the negative Commerce Clause—the inferred restriction on state legislation when Congress has not acted—as an independent judicial limitation. That constitutional ground supplies his vote for dismissal of the remaining Commerce claim. He does not join Pike balancing or treat ordinary economic rationality as its substitute.
+
+### 2003-06-23 — Gratz v. Bollinger, No. 02-516.
+
+Source: `terms/OT2002/records/Gratz-v-Bollinger_merits_2003-06-23.md`.
+
+**Stone, joined by Ginsburg, concurring in part and dissenting in part.** They would sustain the current program under Adarand and Hopwood. A numerical factor must be justified, but transparent scoring can preserve common competition and expose weight otherwise hidden in discretion. The twenty-point advantage imposes a real burden requiring evidence; its uniformity does not itself disprove an educational relationship. On their assessment, the educational and operational evidence, multiple nonracial attributes and actual common competition satisfy the existing standard. Administrative scale informs practicability rather than independently justifying racial treatment. Alternatives must be concretely workable and comparably effective; neither essays nor points determine validity by form. They reject racial viewpoint stereotypes, disguised fixed allocations and continuing operation after justification fails.
+
+They separately reject the presented statutory challenges. Purposeful racial consideration supplies intent, but the genuinely competitive, substantively justified program they find does not deny Title VI equality or §1981's equal opportunity to seek an educational contract. This construction preserves statutory coverage, proper defendants, causation and relief, rather than deriving every statutory answer from constitutional permission. Earlier unequal-process claims retain their own dispositions and remedies. The school bears the established same-decision burden for those claims, and source-specific recognition of process injury and practical, authorized fee-free reconsideration remain distinct from a seat or consequential recovery.
+
+**Stevens, concurring in part and dissenting in part.** Stevens would dismiss the writ as to the current prospective controversy. Past freshman applicants need a present personal stake in the particular future process challenged. A proposed transfer application and a class label cannot authorize adjudication of every freshman mechanism merely because both processes use race. Peña and Hopwood require concrete renewed exposure. He joins preservation of the older decisions and their bounded relief. If current jurisdiction existed, he would sustain the common-process policy and reject the presented statutory challenges under the existing justified-competition rule; that view is conditional and supplies no current-policy merits vote.
+
+**Souter, concurring in part and dissenting in part.** Souter would vacate the current prospective adjudication and remand for dismissal of that portion, leaving the older claims intact. He distinguishes the general educational-diversity objective from the particular freshman mechanism: transfer readiness does not establish personal exposure to every feature of that mechanism. If the Court could reach the merits, he would find the current program justified under Adarand and Hopwood and sustain it against the presented intentional-treatment statutory theories. The University bears the justification burden. He joins the older-mechanism and remedial dispositions without erasing the institutional and campus evidence or requiring an unnecessary factual reopening.
+
+**Scalia, joined by Thomas, concurring.** They join the narrow conclusion that this actual mechanism fails genuine competition and substantial justification. They also maintain their broader personal-equality objection to nonremedial racial preferences, as stated in their separate Hopwood position. That broader objection is distinct from the Court's shared ground. It supplies no authority for treating every supported corrective measure as forbidden, importing a Texas-specific dismantlement duty, or awarding a seat or money without the necessary causal and remedial showing.
+
+### 2003-06-23 — Grutter v. Bollinger, No. 02-241.
+
+Source: `terms/OT2002/records/Grutter-v-Bollinger_merits_2003-06-23.md`.
+
+**Kennedy, dissenting.** Kennedy accepts the existing availability of a supported educational-diversity objective but finds inadequate proof that the actual racial weight and numerical management preserve genuinely individual competition throughout selection. Hopwood's individual-comparison requirement and Patrolmen's evidence-supported fit rule demand more than academic assurance or flexible language. Statistics alone need not establish a quota, yet the whole operational record in his assessment fails the common justification standard. He would reverse on that narrower actual-operation ground and sustain the intentional-treatment statutory challenges at the same scope, without deciding a categorical prohibition of all supported educational consideration. On remand, policy relief and individual claims would remain distinct; Hopwood and Lesage would place the preponderance same-decision burden on the school, with claimants establishing actual loss under an available cause against a proper defendant.
+
+**Thomas, dissenting, with Scalia joining Part I.** Part I maintains the broader personal-equality objection to nonremedial ancestry preferences, together with the conclusion that this mechanism fails genuine competitive treatment. Their earlier Adarand and Hopwood separate positions supply that objection to the governing permission; they do not treat the separate position as existing Court law. They also read §1981's same-right guarantee to prohibit the purposeful preference and would sustain the Title VI challenge. Their proposed reversal would require fitted policy relief and separate adjudication of individual causation and remedies, rather than an automatic admission or monetary award.
+
+In Part II, Thomas separately argues that preserving selective prestige does not create a constitutionally sufficient need for unequal treatment. An institution's chosen level of selectivity cannot itself justify an ancestry preference. His supported violation-linked remedial-duty position in Hopwood remains distinct from this nonremedial policy. Both dissenters oppose the present approval; their writing supplies no assent to the Court's continuing-permission rule.
+
+### 2003-06-23 — Krimstock v. Kelly
+
+Source: `terms/OT2002/records/Krimstock-v-Kelly_merits_2003-06-23.md`.
+
+Scalia concurs in part and in the judgment. He joins Part I, Part III and Part IV but withholds Part II's Mathews rationale. His Good and Farmer writings distinguish constitutionally sufficient preliminary seizure from the meaningful later adversary opportunity that continued government possession requires. Here extended physical custody, the absence of a timely neutral contest and a modest hearing directed to the legal basis and security for custody justify the ordered protection. An equivalent prompt contest within the forfeiture action would suffice. His ground preserves initial seizure authority and does not give courts a general power to redesign forfeiture procedure through balancing.
+
+Stone-Zsela concurs in part and in the judgment. He joins Part I, Part II, Part III-A and Part IV's common implementation directions. He would require the City to prove disputed factual predicates by a preponderance of the evidence, after which the neutral decisionmaker applies the distinct legal thresholds of seizure probable cause, sufficient likelihood of forfeiture and necessity of continued physical possession rather than adequate less restrictive security. That City burden also covers facts supporting necessity; an owner need not disprove continued custody's necessity. It is a proposed factual allocation for the focused hearing, not an immediate final-title trial. Farmer's different rule places the burden on a claimant seeking legitimate funds actually needed for counsel; he distinguishes that special access claim because here the City seeks continued possessory deprivation. He also proposes relief for the common deficient retention practice and affected owners unless the City proves a narrower cure fully resolves the violation, always subject to actual property interests and jurisdiction. Implementation would include clear notice, a concrete justified local timetable, written reasons and compliance review of release or security orders. These proof and remedial proposals do not command a majority; his support for the bounded remand remains firm.
+
+### 2003-06-23 — United States v. American Library Association, Inc.
+
+Source: `terms/OT2002/records/United-States-v-American-Library-Association_merits_2003-06-23.md`.
+
+**O'Connor, concurring, joined by Scalia and Thomas.** These Justices consider the actual service Congress assists together with the lawful adult election. Libraries exercise selection in providing a usable resource, and Forbes and Finley protect genuine institutional selection within their respective programs. Filtering aimed at unlawful material and protection of minors, coupled with permitted explanation-free adult access, fits this assisted service sufficiently to defeat the facial challenge. Their ground addresses this library design; funding terminology does not create immunity for material unconstitutional administration or penalties on independent expression.
+
+**Kennedy, concurring.** Prompt whole-session disabling without explanation would leave no substantial adult-access burden. The record establishes overblocking and practical concerns but does not establish a significant burden on that lawful election sufficient for the facial decree. The difference from Denver's compulsory access machinery is material. Actual denial, material delay, disclosure requirements, or another substantial obstruction would call for review of the practice that produces it. Kennedy joins the common construction and record-specific facial conclusion rather than the broader institutional-service explanation.
+
+**Breyer, concurring.** The constitutional inquiry should examine this program's actual burden and means. Protection against unlawful images and minors' exposure are serious interests; imperfect filters impose burdens, but the lawful whole-session request matters to their extent. On this record the request burden does not produce disproportionate harm sufficient to invalidate the conditions facially. This contextual scrutiny is more demanding than ordinary rational-basis review and does not rest on rigid forum classification. Materially obstructive local practices remain separately reviewable.
+
+**Stevens, concurring in part and dissenting in part.** Local librarians' selection differs from a nationwide condition compelling filters across an otherwise opened Internet resource. The default barrier burdens readers and authors whose lawful material the filters remove. Permitting a request does not eliminate the burden of asking or the discretion surrounding release. Reno, Denver, Velazquez, and Center for Reproductive Law require attention to that actual private-expression burden. Stevens would retain protection for adults and remand to fit the decree to the distinct statutory provisions and independently lawful minor protections.
+
+**Souter, concurring in part and dissenting in part, joined by Ginsburg.** Acquiring selected material and blocking an acquired open resource are different acts. Extensive overblocking and discretionary release establish substantial protected reach in their assessment. Part I correctly permits an explanation-free whole-session request, but its permission does not entitle every patron to an unblocked terminal or establish effective performance. The delay and privacy concerns therefore cannot be answered as though Congress guaranteed prompt release. Reno, Denver, and Velazquez protect the actual access path, while Finley's bounded selection holding does not settle compulsory blocking. They would preserve fitted adult-access relief, with LSTA separability and independently operable minor-use provisions respected.
+
+**Stone-Zsela, concurring in part and dissenting in part.** The Chief Justice joins the permissible disabling construction but finds substantial unconstitutional adult restriction on the developed record. The challengers must establish substantial protected reach relative to legitimate applications; one possible lawful implementation does not defeat that showing. Once the compulsory adult burden is shown, Reno's demanding protection requires a compelling interest and narrow tailoring, including why feasible less restrictive means cannot adequately serve the interest. Child protection may be compelling, but does not justify suppressing adults' lawful reading through an ineffective access route.
+
+The filters' overblocking, requests to staff, waiting, privacy loss, and deterrence remain practical burdens despite statutory permission. A genuinely selective acquisition decision differs from compulsory exclusion across an otherwise opened adult Internet service. Forbes and Finley protect actual selection; they do not turn this requirement into the library's own message. Dole prevents funding conditions from inducing the unconstitutional operation.
+
+He would retain the injunction against denying the covered assistance for noncompliance with the offending conditions. Lewis v. Casey confines relief to the actual common barrier and affected persons. Within injury, jurisdiction, severability, and the two programs' distinct boundaries, he would presume condition-level relief unless the Government demonstrates a narrower complete cure. That is his proposed remedial rule. A proposed cure must actually address prompt disabling, privacy, staffing, and deterrence; written assurances alone are insufficient. Lawful eligibility criteria, child protections, precise unlawful-material restrictions, voluntary collection choices, and unrelated grants remain available.
 
 ### 2003-06-26 — Georgia v. Ashcroft, No. 02-182
 
@@ -2128,8 +2289,4 @@ No further event is supplied for those three opening carryovers.
 
 ## Future event controls
 
-The remaining 28 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
-
-**State v. Oakley:** The case returns to the Wisconsin courts. The sentencing court must remove the reproductive condition from the enforceable judgment and supervision instructions and determine lawful sentence modification consistent with the surviving convictions, payment obligations and independently justified supervision. The condition may not remain enforceable while that work occurs. The rejection of the earlier-bargain challenge stands.
-
-Source: `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md`.
+The remaining 17 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.

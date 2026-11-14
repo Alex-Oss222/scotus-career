@@ -1,0 +1,110 @@
+UNITED STATES V. AMERICAN LIBRARY ASSN., INC.
+UNITED STATES V. AMERICAN LIBRARY ASSN., INC. (02-361)
+201 F. Supp. 2d 401, reversed.
+Syllabus
+Opinion
+[ Rehnquist ]
+Concurrence
+[ Kennedy ]
+Concurrence
+[ Breyer ]
+Dissent
+[ Stevens ]
+Dissent
+[ Souter ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+UNITED STATES et al.
+v.
+AMERICAN LIBRARY
+ASSOCIATION, INC., et al.
+APPEAL FROM THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF PENNSYLVANIA
+No. 02—361.  Argued March 5, 2003–Decided June 23, 2003
+Two forms of federal assistance help public libraries provide patrons with Internet access: discounted rates under the E-rate program and grants under the Library Services and Technology Act (LSTA).  Upon discovering that library patrons, including minors, regularly search the Internet for pornography and expose others to pornographic images by leaving them displayed on Internet terminals or printed at library printers, Congress enacted the Children’s Internet Protection Act (CIPA), which forbids public libraries to receive federal assistance for Internet access unless they install software to block obscene or pornographic images and to prevent minors from accessing material harmful to them.  Appellees, a group of libraries, patrons, Web site publishers, and related parties, sued the Government, challenging the constitutionality of CIPA’s filtering provisions.  Ruling that CIPA is facially unconstitutional and enjoining the Government from withholding federal assistance for failure to comply with CIPA, the District Court held,
+inter alia
+, that Congress had exceeded its authority under the Spending Clause because any public library that complies with CIPA’s conditions will necessarily violate the
+First Amendment
+; that the CIPA filtering software constitutes a content-based restriction on access to a public forum that is subject to strict scrutiny; and that, although the Government has a compelling interest in preventing the dissemination of obscenity, child pornography, or material harmful to minors, the use of software filters is not narrowly tailored to further that interest.
+Held:
+The judgment is reversed.
+201 F. Supp. 2d 401, reversed.
+Chief Justice Rehnquist, joined by Justice O’Connor, Justice Scalia, and Justice Thomas, concluded:
+1. Because public libraries’ use of Internet filtering software does not violate their patrons’
+First Amendment
+rights, CIPA does not induce libraries to violate the Constitution, and is a valid exercise of Congress’ spending power.  Congress has wide latitude to attach conditions to the receipt of federal assistance to further its policy objectives,
+South Dakota
+v.
+Dole,
+483 U.S. 203
+, 206, but may not “induce” the recipient “to engage in activities that would themselves be unconstitutional,”
+id.,
+at 210.  To determine whether libraries would violate the
+First Amendment
+by employing the CIPA filtering software, the Court first examines their societal role.  To fulfill their traditional missions of facilitating learning and cultural enrichment, public libraries must have broad discretion to decide what material to provide to their patrons.  This Court has held in two analogous contexts that the Government has broad discretion to make content-based judgments in deciding what private speech to make available to the public.
+Arkansas Ed. Television Comm’n
+v.
+Forbes,
+523 U.S. 666
+, 672—674;
+National Endowment for Arts
+v.
+Finley,
+524 U.S. 569
+, 585—586.  Just as forum analysis and heightened judicial scrutiny were incompatible with the role of public television stations in the former case and the role of the National Endowment for the Arts in the latter, so are they incompatible with the broad discretion that public libraries must have to consider content in making collection decisions.  Thus, the public forum principles on which the District Court relied are out of place in the context of this case.  Internet access in public libraries is neither a “traditional” nor a “designated” public forum.  See,
+e.g., Cornelius
+v.
+NAACP Legal Defense & Ed. Fund, Inc.,
+473 U.S. 788
+, 802—803.  Unlike the “Student Activity Fund” at issue in
+Rosenberger
+v.
+Rector and Visitors of Univ. of Va.,
+515 U.S. 819
+, 834, Internet terminals are not acquired by a library in order to create a public forum for Web publishers to express themselves.  Rather, a library provides such access for the same reasons it offers other library resources: to facilitate research, learning, and recreational pursuits by furnishing materials of requisite and appropriate quality.  The fact that a library reviews and affirmatively chooses to acquire every book in its collection, but does not review every Web site that it makes available, is not a constitutionally relevant distinction.  The decisions by most libraries to exclude pornography from their print collections are not subjected to heightened scrutiny; it would make little sense to treat libraries’ judgments to block online pornography any differently.  Moreover, because of the vast quantity of material on the Internet and the rapid pace at which it changes, libraries cannot possibly segregate, item by item, all the Internet material that is appropriate for inclusion from all that is not.  While a library could limit its Internet collection to just those sites it found worthwhile, it could do so only at the cost of excluding an enormous amount of valuable information that it lacks the capacity to review.  Given that tradeoff, it is entirely reasonable for public libraries to reject that approach and instead exclude certain categories of content, without making individualized judgments that everything made available has requisite and appropriate quality.  Concerns over filtering software’s tendency to erroneously “overblock” access to constitutionally protected speech that falls outside the categories software users intend to block are dispelled by the ease with which patrons may have the filtering software disabled.  Pp. 6—13.
+2. CIPA does not impose an unconstitutional condition on libraries that receive E&nbhyph;rate and LSTA subsidies by requiring them, as a condition on that receipt, to surrender their
+First Amendment
+right to provide the public with access to constitutionally protected speech.  Assuming that appellees may assert an “unconstitutional conditions” claim, that claim would fail on the merits.  When the Government appropriates public funds to establish a program, it is entitled to broadly define that program’s limits.
+Rust
+v.
+Sullivan,
+500 U.S. 173
+, 194.  As in
+Rust
+, the Government here is not denying a benefit to anyone, but is instead simply insisting that public funds be spent for the purpose for which they are authorized: helping public libraries fulfill their traditional role of obtaining material of requisite and appropriate quality for educational and informational purposes.  Especially because public libraries have traditionally excluded pornographic material from their other collections, Congress could reasonably impose a parallel limitation on its Internet assistance programs.  As the use of filtering software helps to carry out these programs, it is a permissible condition under
+Rust
+.  Appellees mistakenly contend, in reliance on
+Legal Services Corporation
+v.
+Velazquez,
+531 U.S. 533
+, 542—543, that CIPA’s filtering conditions distort the usual functioning of public libraries.  In contrast to the lawyers who furnished legal aid to the indigent under the program at issue in
+Velazquez
+, public libraries have no role that pits them against the Government, and there is no assumption, as there was in that case, that they must be free of any conditions that their benefactors might attach to the use of donated funds.  Pp. 13—17.
+Justice Kennedy concluded that if, as the Government represents, a librarian will unblock filtered material or disable the Internet software filter without significant delay on an adult user’s request, there is little to this case.  There are substantial Government interests at stake here: The interest in protecting young library users from material inappropriate for minors is legitimate, and even compelling, as all Members of the Court appear to agree.  Given this interest, and the failure to show that adult library users’ access to the material is burdened in any significant degree, the statute is not unconstitutional on its face.  If some libraries do not have the capacity to unblock specific Web sites or to disable the filter or if it is shown that an adult user’s election to view constitutionally protected Internet material is burdened in some other substantial way, that would be the subject for an as-applied challenge, not this facial challenge.  Pp. 1—2.
+Justice Breyer agreed that the “public forum” doctrine is inapplicable here and that the statute’s filtering software provisions do not violate the
+First Amendment
+, but would reach that ultimate conclusion through a different approach.  Because the statute raises special
+First Amendment
+concerns, he would not require only a “rational basis” for the statute’s restrictions.  At the same time, “strict scrutiny” is not warranted, for such a limiting and rigid test would unreasonably interfere with the discretion inherent in the “selection” of a library’s collection.  Rather, he would examine the constitutionality of the statute’s restrictions as the Court has examined speech-related restrictions in other contexts where circumstances call for heightened, but not “strict,” scrutiny–where, for example, complex, competing constitutional interests are potentially at issue or speech-related harm is potentially justified by unusually strong governmental interests.  The key question in such instances is one of proper fit.  The Court has asked whether the harm to speech-related interests is disproportionate in light of both the justifications and the potential alternatives.  It has considered the legitimacy of the statute’s objective, the extent to which the statute will tend to achieve that objective, whether there are other, less restrictive ways of achieving that objective, and ultimately whether the statute works speech-related harm that is out of proportion to that objective.  The statute’s restrictions satisfy these constitutional demands.  Its objectives–of restricting access to obscenity, child pornography, and material that is comparably harmful to minors–are “legitimate,” and indeed often “compelling.”  No clearly superior or better fitting alternative to Internet software filters has been presented.  Moreover, the statute contains an important exception that limits the speech-related harm: It allows libraries to permit any adult patron access to an “overblocked” Web site or to disable the software filter entirely upon request.  Given the comparatively small burden imposed upon library patrons seeking legitimate Internet materials, it cannot be said that any speech-related harm that the statute may cause is disproportionate when considered in relation to the statute’s legitimate objectives.  Pp. 1—6.
+Rehnquist, C. J., announced the judgment of the Court and delivered an opinion, in which O’Connor, Scalia, and Thomas, JJ., joined.  Kennedy, J., and Breyer, J., filed opinions concurring in the judgment.  Stevens, J., filed a dissenting opinion.  Souter, J., filed a dissenting opinion, in which Ginsburg, J., joined.

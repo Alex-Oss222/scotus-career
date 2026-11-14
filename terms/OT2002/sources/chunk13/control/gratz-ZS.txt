@@ -1,0 +1,139 @@
+GRATZ V. BOLLINGER
+GRATZ V. BOLLINGER (02-516)
+Reversed in part and remanded.
+Syllabus
+Opinion
+[ Rehnquist ]
+Concurrence
+[ O’Connor ]
+Concurrence
+[ Thomas ]
+Concurrence
+[ Breyer ]
+Dissent
+[ Stevens ]
+Dissent
+[ Souter ]
+Dissent
+[ Ginsburg ]
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+HTML version
+PDF version
+Syllabus
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See
+United States
+v.
+Detroit Timber & Lumber Co
+.,
+200 U.S. 321
+, 337.
+SUPREME COURT OF THE UNITED STATES
+GRATZ et al.
+v.
+BOLLINGER et al.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE SIXTH CIRCUIT
+No. 02—516.  Argued April 1, 2003–Decided June 23, 2003
+Petitioners Gratz and Hamacher, both of whom are Michigan residents and Caucasian, applied for admission to the University of Michigan’s (University) College of Literature, Science, and the Arts (LSA) in 1995 and 1997, respectively.  Although the LSA considered Gratz to be well qualified and Hamacher to be within the qualified range, both were denied early admission and were ultimately denied admission.  In order to promote consistency in the review of the many applications received, the University’s Office of Undergraduate Admissions (OUA) uses written guidelines for each academic year.  The guidelines have changed a number of times during the period relevant to this litigation.  The OUA considers a number of factors in making admissions decisions, including high school grades, standardized test scores, high school quality, curriculum strength, geography, alumni relationships, leadership, and race.  During all relevant periods, the University has considered African-Americans, Hispanics, and Native Americans to be “underrepresented minorities,” and it is undisputed that the University admits virtually every qualified applicant from these groups.  The current guidelines use a selection method under which every applicant from an underrepresented racial or ethnic minority group is automatically awarded 20 points of the 100 needed to guarantee admission.
+Petitioners filed this class action alleging that the University’s use of racial preferences in undergraduate admissions violated the Equal Protection Clause of the
+Fourteenth Amendment
+, Title VI of the Civil Rights Act of 1964, and
+42 U.S.C. § 1981
+.  They sought compensatory and punitive damages for past violations, declaratory relief finding that respondents violated their rights to nondiscriminatory treatment, an injunction prohibiting respondents from continuing to discriminate on the basis of race, and an order requiring the LSA to offer Hamacher admission as a transfer student.  The District Court granted petitioners’ motion to certify a class consisting of individuals who applied for and were denied admission to the LSA for academic year 1995 and forward and who are members of racial or ethnic groups that respondents treated less favorably on the basis of race.  Hamacher, whose claim was found to challenge racial discrimination on a classwide basis, was designated as the class representative.  On cross-motions for summary judgment, respondents relied on Justice Powell’s principal opinion in
+Regents of Univ. of Cal.
+v.
+Bakke
+,
+438 U.S. 265
+, 317, which expressed the view that the consideration of race as a factor in admissions might in some cases serve a compelling government interest.  Respondents contended that the LSA has just such an interest in the educational benefits that result from having a racially and ethnically diverse student body and that its program is narrowly tailored to serve that interest.  The court agreed with respondents as to the LSA’s current admissions guidelines and granted them summary judgment in that respect.  However, the court also found that the LSA’s admissions guidelines for 1995 through 1998 operated as the functional equivalent of a quota running afoul of Justice Powell’s
+Bakke
+opinion, and thus granted petitioners summary judgment with respect to respondents’ admissions programs for those years.  While interlocutory appeals were pending in the Sixth Circuit, that court issued an opinion in
+Grutter
+v
+. Bollinger, post,
+p. ___, upholding the admissions program used by the University’s Law School.  This Court granted certiorari in both cases, even though the Sixth Circuit had not yet rendered judgment in this one.
+Held:
+1. Petitioners have standing to seek declaratory and injunctive relief.  The Court rejects Justice Stevens’ contention that, because Hamacher did not actually apply for admission as a transfer student, his future injury claim is at best conjectural or hypothetical rather than real and immediate.  The “injury in fact” necessary to establish standing in this type of case is the denial of equal treatment resulting from the imposition of the barrier, not the ultimate inability to obtain the benefit.
+Northeastern Fla. Chapter, Associated Gen. Contractors of America
+v.
+Jacksonville
+,
+508 U.S. 656
+, 666.  In the face of such a barrier, to establish standing, a party need only demonstrate that it is able and ready to perform and that a discriminatory policy prevents it from doing so on an equal basis.
+Ibid
+.  In bringing his equal protection challenge against the University’s use of race in undergraduate admissions, Hamacher alleged that the University had denied him the opportunity to compete for admission on an equal basis.  Hamacher was denied admission to the University as a freshman applicant even though an underrepresented minority applicant with his qualifications would have been admitted.  After being denied admission, Hamacher demonstrated that he was “able and ready” to apply as a transfer student should the University cease to use race in undergraduate admissions.  He therefore has standing to seek prospective relief with respect to the University’s continued use of race.  Also rejected is Justice Stevens’ contention that such use in undergraduate transfer admissions differs from the University’s use of race in undergraduate freshman admissions, so that Hamacher lacks standing to represent absent class members challenging the latter.  Each year the OUA produces a document setting forth guidelines for those seeking admission to the LSA, including freshman and transfer applicants.  The transfer applicant guidelines specifically cross-reference factors and qualifications considered in assessing freshman applicants.  In fact, the criteria used to determine whether a transfer applicant will contribute to diversity are
+identical
+to those used to evaluate freshman applicants.  The
+only
+difference is that all underrepresented minority freshman applicants receive 20 points and “virtually” all who are minimally qualified are admitted, while “generally” all minimally qualified minority transfer applicants are admitted outright.  While this difference might be relevant to a narrow tailoring analysis, it clearly has no effect on petitioners’ standing to challenge the University’s use of race in undergraduate admissions and its assertion that diversity is a compelling state interest justifying its consideration of the race of its undergraduate applicants.  See
+General Telephone Co. of Southwest
+v.
+Falcon
+,
+457 U.S. 147
+, 159;
+Blum
+v.
+Yaretsky,
+457 U.S. 991
+, distinguished.  The District Court’s carefully considered decision to certify this class action is correct.  Cf.
+Coopers & Lybrand
+v.
+Livesay,
+437 U.S. 463
+, 469.  Hamacher’s personal stake, in view of both his past injury and the potential injury he faced at the time of certification, demonstrates that he may maintain the action.  Pp. 11—20.
+2. Because the University’s use of race in its current freshman admissions policy is not narrowly tailored to achieve respondents’ asserted interest in diversity, the policy violates the Equal Protection Clause.  For the reasons set forth in
+Grutter
+v.
+Bollinger
+,
+post
+, at 15—21, the Court has today rejected petitioners’ argument that diversity cannot constitute a compelling state interest.  However, the Court finds that the University’s current policy, which automatically distributes 20 points, or one-fifth of the points needed to guarantee admission, to every single “underrepresented minority” applicant solely because of race, is not narrowly tailored to achieve educational diversity.  In
+Bakke
+, Justice Powell explained his view that it would be permissible for a university to employ an admissions program in which “race or ethnic background may be deemed a ‘plus’ in a particular applicant’s file.” 438 U.S., at 317.  He emphasized, however, the importance of considering each particular applicant as an individual, assessing all of the qualities that individual possesses, and in turn, evaluating that individual’s ability to contribute to the unique setting of higher education.  The admissions program Justice Powell described did not contemplate that any single characteristic automatically ensured a specific and identifiable contribution to a university’s diversity.  See
+id
+., at 315.  The current LSA policy does not provide the individualized consideration Justice Powell contemplated.  The only consideration that accompanies the 20-point automatic distribution to all applicants from underrepresented minorities is a factual review to determine whether an individual is a member of one of these minority groups.  Moreover, unlike Justice Powell’s example, where the race of a “particular black applicant” could be considered without being decisive, see
+id.,
+at 317, the LSA’s 20-point distribution has the effect of making “the factor of race … decisive” for virtually every minimally qualified underrepresented minority applicant,
+ibid
+.  The fact that the LSA has created the possibility of an applicant’s file being flagged for individualized consideration only emphasizes the flaws of the University’s system as a whole when compared to that described by Justice Powell. The record does not reveal precisely how many applications are flagged, but it is undisputed that such consideration is the exception and not the rule in the LSA’s program.  Also, this individualized review is only provided
+after
+admissions counselors automatically distribute the University’s version of a “plus” that makes race a decisive factor for virtually every minimally qualified underrepresented minority applicant.  The Court rejects respondents’ contention that the volume of applications and the presentation of applicant information make it impractical for the LSA to use the admissions system upheld today in
+Grutter
+.  The fact that the implementation of a program capable of providing individualized consideration might present administrative challenges does not render constitutional an otherwise problematic system.  See,
+e.g., Richmond
+v.
+J. A. Croson Co.,
+488 U.S. 469
+, 508.  Nothing in Justice Powell’s
+Bakke
+opinion signaled that a university may employ whatever means it desires to achieve diversity without regard to the limits imposed by strict scrutiny.  Pp. 20—27.
+3. Because the University’s use of race in its current freshman admissions policy violates the Equal Protection Clause, it also violates Title VI and §1981.  See,
+e.g.,
+Alexander
+v.
+Sandoval
+,
+532 U.S. 275
+, 281;
+General Building Contractors Assn.
+v.
+Pennsylvania,
+458 U.S. 375
+, 389—390.  Accordingly, the Court reverses that portion of the District Court’s decision granting respondents summary judgment with respect to liability.  Pp. 27—28.
+Reversed in part and remanded.
+Rehnquist, C. J. delivered the opinion of the Court, in which O’Connor, Scalia, Kennedy, and Thomas, JJ., joined.  O’Connor, J., filed a concurring opinion, in which Breyer, J., joined in part.  Thomas, J., filed a concurring opinion.  Breyer, J., filed an opinion concurring in the judgment.  Stevens, J., filed a dissenting opinion, in which Souter, J., joined.  Souter, J., filed a dissenting opinion, in which Ginsburg, J., joined as to Part II.  Ginsburg, J., filed a dissenting opinion, in which Souter, J., joined, and in which Breyer, J., joined as to Part I.

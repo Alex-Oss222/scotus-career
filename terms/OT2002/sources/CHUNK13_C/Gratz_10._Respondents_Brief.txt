@@ -1,0 +1,2948 @@
+No. 02-516 
+
+
+— = 
+1 
+— 
+> | 
+
+* 
+> 
+
+
+IN THE 
+
+
+Supreme Court of the United States 
+
+
+JENNIFER GRATZ AND PATRICK HAMACHER, 
+
+
+Petitioners, 
+
+
+LEE BOLLINGER, JAMESJ. DUDERSTADT, AND 
+THE BOARD OF REGENTS OF THE UNIVERSITY OF 
+MICHIGAN, 
+
+
+Respondents. 
+
+
+On Writ of Certiorari Before Judgment 
+to the United States Court of Appeals 
+for the Sixth Circuit 
+
+
+BRIEF FOR RESPONDENTS 
+
+
+MARVIN KRISLOV 
+
+JONATHAN ALGER 
+
+UNIVERSITY OF MICHIGAN 
+
+OFFICE OF THE VICE PRESIDENT 
+AND GENERAL COUNSEL 
+
+4010 Fleming Admin. Bldg. 
+
+503 Thompson Street 
+
+Ann Arbor, MI 48109 
+
+
+JEFFREY LEHMAN 
+
+EVAN CAMINKER 
+
+UNIVERSITY OF MICHIGAN 
+LAW SCHOOL 
+
+625 South State Street 
+
+Ann Arbor, MI 48109 
+
+
+PHILIP J. KESSLER 
+
+LEONARD M. NIEHOFF 
+
+BUTZEL LONG 
+
+350 South Main, Suite 300 * 
+Ann Arbor, MI 48104 
+
+
+JOHN H. PICKERING 
+JOHN PAYTON 
+
+Counsel of Record 
+BRIGIDA BENITEZ 
+STUART F. DELERY 
+CRAIG GOLDBLATT 
+ANNE HARKAVY 
+TERRY A. MARONEY 
+WILMER, CUTLER & PICKERING 
+2445 M Street, N.W. 
+Washington, DC 20037 
+(202) 663-6000 
+
+
+MAUREEN E. MAHONEY 
+J. SCOTT BALLENGER 
+NATHANIEL A. VITAN 
+LATHAM & WATKINS 
+
+555 Eleventh Street, N.W. 
+Suite 1000 
+
+Washington, DC 20004 
+
+
+Counsel for Respondents 
+
+
+BEST AVAILABLE COPY 
+
+
+| 
+| 
+J 
+
+
+i 
+
+
+QUESTION PRESENTED 
+
+
+Whether this Court should reaffirm its decision in 
+Regents of the University of California v. Bakke, 438 U.S. 
+265 (1978), and hold that the educational benefits that flow 
+from a diverse student body to an institution of higher 
+education, its students, and the public it serves, are 
+sufficiently compelling to permit the school to consider race 
+and/or ethnicity as one of many factors in making admissions 
+decisions through a “properly devised” admissions program; 
+and, if so, whether the admissions program of the University 
+of Michigan’s College of Literature, Science, and the Arts is 
+properly devised. 
+
+
+— — —— 
+
+
+— — — 
+
+
+iii 
+
+
+TABLE OF CONTENTS 
+Page 
+QUESTION PRESENTED 
+TABLE OF AUTHORTTIES . ee iv 
+STATEMENT OF THE CASE. e 1 
+SUMMARY OF ARGUMENT. 11 
+EEE 13 
+
+
+IJ. THE UNIVERSITY OF MICHIGAN MAY 
+CONSIDER RACE AND ETHNICITY AS 
+FACTORS IN ADMISSIONS TO OBTAIN 
+THE EDUCATIONAL BENEFITS OF 
+. We. cetcsnstentsnncsnssssessescscecsencsnssseesnscensenscenscasesnsncses 13 
+
+
+A. Settled Principles Of Stare Decisis 
+Require Continued Adherence To Bakke’s 
+1111 14 
+
+
+B. Institutions Of Higher Learning Have A 
+Compelling Interest In Obtaining The 
+Educational Benefits Of Diversity That 
+Justifies The Consideration Of Race And 
+Ethnicity. . 
+
+
+II. LS&A’S ADMISSIONS PROGRAM IS 
+NARROWLY TAILORED TO ACHIEVE 
+THE COMPELLING INTEREST OF 
+VBTAINING THE EDUCATIONAL 
+
+
+BENEFITS OF DIVERSITY. 
+
+A. LS&A’s Admissions Program Is Narrowly 
+Tailored. 
+
+B. The University Cannot Achieve 
+Meaningful Diversity Without Considering 
+Race And Ethnicity As Factors in 
+Admissions. ....... . 41 
+
+
+CONCLUSION 50 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+
+
+CASES 
+Page(s) 
+Adarand Constructors, Inc. v. Pena, 
+
+515 U.S. 200 (1995) — 17, 20, 21, 31 
+Alexander v. Sandoval, 2 U.S. 275 (2001) 20 
+Batson v. Kentucky, 476 U.S. 79 (1986) 26 
+Board of Education v. Pico, 457 U.S. 853 (1982) 24 
+Board of Reyents of University of Wisconsin v. 
+
+Southworth, 529 U.S. 217 (2000) .. 24 
+Brown v. Board of Education, 347 U.S. 483 (1954) ............. 24 
+Bush v. Vera, 517 U.S. 952 (1996) 26 
+California Democratic Party v. Jones, 
+
+530 U.S. 567 (2000) 31 
+City of Richmond v. JA. Croson Co., 
+
+488 U.S. 469 (1989) 14, 33 
+Dickerson v. United States, 530 U.S. 428 (2000) ............ 16, 17 
+Easley v. Cromartie, 532 U.S. 234 (2001) 20, 49 
+General Building Contractors Ass u v. 
+
+Pennsylvania, 458 U.S. 375 (1982) 19 
+Georgia v. McCollum, 505 U.S. 42 (1992) 26 
+Hilton v. South Carolina Public Railways 
+
+Commission, 502 U.S. 197 (1991) 16 
+Hopwood v. Texas, 236 F.3d 256 (2000), cert. denied, 
+
+533 U.S. 929 (2001) 37, 44 
+
+
+V 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Page(s) 
+Hubbard v. United States, 514 U.S. 695 (1995) 21 
+J. E. B. v. Alabama, 511 U.S. 127 (19949 25, 26 
+Johnson v. Transportation — 
+
+480 U.S. 616 (1987) * sii 20 
+Marks v. United States, 430 U.S. 188 (1977) ..... — 
+Metro Broadcasting, Inc. v. FCC, 
+
+497 U.S. 547 (1990) 21, 27, 31, 37 
+Miller v. Johnson, 515 U.S. 900 (1995) .... we 20, 34, 36 
+Mitchell v. United States, 526 U.S. 314 (1999) — 
+Planned Parenthood v. Casey, 
+
+505 U.S. 833 (1992) 16, 17, 18, 19 
+Plyler v. Doe, 457 U.S. 202 (1982) 24 
+Podberesky v. Kirwan, 38 F.3d 147 (4th Cir. 1994) 46 
+Regents of the University of California v. Bakke, 
+
+438 U.S. 265 (1978) passim 
+Regents of the University of Michigan v. Ewing, 
+
+474 U.S. 214 (1985) 22 
+Shaw v. Reno, 509 U.S. 630 (1993) 20 
+Sweatt v. Painter, 339 U.S. 629 (1950) 24 
+Taylor v. Louisiana, 419 U.S. 522 (1975) 26 
+Trans World Airlines, Inc. v. Thurston, 
+
+469 U.S. 111 (1985) 6 
+
+
+* 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Page(s) 
+
+United States v. Fordice, 505 U.S. 717 (1992 19 
+
+Vasquez v. Hillery, 474 U.S. 254 (1986) — 16 
+Wygant v. Jackson Board of Education, 
+
+476 U.S. 267 (1986) ... 14, 20, 31, 32, 49 
+
+STATUTES 
+
+42 U.S.C. § 1981 . a 
+No Child Left Behind Act, Pub. L. No. 107-110, 
+§ 5301(a)(4) (A), 53801(a)(5), 115 Stat. 1425, 1806 
+
+— — ——— 46 
+
+REGULATIONS 
+34 C. F. R. § 100.3(b)(6)(ii) 18 
+LEGISLATIVE MATERIALS 
+
+44 Fed. Reg. 58,509 (Oct. 10, 1979) 18 
+
+56 Fed. Reg. 64,548 (Dec. 10, 1991) 18 
+
+59 Fed. Reg. 8756 (Feb. 23, 1994) 18 
+
+
+BOOKS, ARTICLES & INTERNET SOURCES 
+
+
+Antonio, Anthony Lising, et al., Effects of Racial 
+Diversity on Complex Thinking in College 
+Students (2003), available at http://www.siher. 
+stanford.edu 29 
+
+Babcock, Charles R. & Loretta Tofani, Reaction: 
+All Sides Optimistic; A Ruling With 
+Something for Every Group, Wash. Post, June 
+29, 1978, at Al 16 
+
+
+— — a eee — 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Page(s) 
+The Bakke Decision, Wash. Post, June 29, 1978, at 
+—ͤ ͤ ——————————— 16 
+Bowen, William G. & Derek Bok, The Shape of the 
+River: Long-Term Consequences of 
+Considering Race in College and University 
+r centineienennen 19, 30, 32, 38, 42 
+Bowen, William G. & Neil L. Rudenstine, Race- 
+Sensitive Admissions: Back to Basics, Chron. 
+Higher Educ., Feb. 7, 2003, at 87 17, 19, 32 
+Cantor, Nancy, A Michigan Legacy: Ensuring 
+Diversity and Democracy on Campus, Mich. 
+Alumnus (Summer 1998) 24 
+Ellis, Joseph, Founding Brothers (Knopf 2001) 23 
+Frankenburg, Erica, Chungmei Lee & Gary Orfield, 
+A Multiracial Society with Segregated Schools: 
+Are We Losing the Dream? (2003), available at 
+http-//www.civilrightsproject.harvard.edu ................... 25 
+Gudeman, Roxanne Harvey, Faculty Experience 
+with Diversity: A Case Study of Macalester 
+College, in Diversity Challenged: Evidence on 
+the Impact of Affirmative Action 251 (Gary 
+Orfield & Michal Kurlaender eds. 2001) 29 
+Gurin, Patricia, Evidence for the Educational 
+Benefits of Diversity in Higher Education: 
+Response to the Wood & Sherman Critique by 
+the National Association of Scholars (May 30, 
+2001), available at http://www.umich.edu/~urel 
+/admissions/research/ = 28 
+Horn, Catherine L. & Stella M. Flores, Percent 
+Plans in College Admissions: A Comparative 
+Analysis of Three States’ Experiences (2003), 
+available at  http://www.civilrightsproject. 
+harvard.edu/research/affirmativeaction/tristate 
+-_php#fullreport 
+
+
+43, 44, 45, 47, 48 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Hurtado, Sylvia, Linking Diversity and 
+Educational Purpose: How Diversity Impacts 
+the Classroom Environment and Student 
+Development, in Diversity Challenged: 
+Evidence on the Impact of Affirmative Action 
+187 (Gary Orfield & Michal Kurlaender eds. 
+2001) 
+
+
+Page(s) 
+
+
+Hurtado, Sylvia, et al., Enacting Diverse Learning 
+Environments: Improving the Climate for 
+Racial/Ethnic Diversity in Higher Education 
+3 —„— 
+
+
+Kain, John F. & Daniel M. O’Brien, Hopwood and 
+the Top 10 Percent Law: How They Have 
+Affected the College Enrollment Decisions of 
+Texas High School Graduates (2003), available 
+
+
+at http://www/utdallas.edu/research/ greenetr / 
+
+
+Kane, Thomas J., Racial and Ethnic Preferences in 
+College Admissions, in The Black-White Test 
+Score Gap 431 (Christopher Jencks & Meredith 
+
+
+Phillips, eds., 1998) ..... 
+Letter to Alexander Hamilton, September 1, 1796, 
+
+Washington Writings (Library of America 
+
+1997) . a 
+
+
+Liu, Goodwin, The Causation Fallacy: Bakke 
+the Basic Arithmetic of Selective Admissions, 
+
+
+8 
+
+
+100 Mich. L. Rev. 1045 (2002) 
+Loury, Glenn C., The Anatomy of Racial 
+Inequality (2002) 
+
+
+Marin, Patricia, The Educational Possibility of 
+Multi-Racial/Multi-Ethnic College 
+Classrooms, in American Council on Education 
+& American Association of University 
+Professors, Does Diversity Make a Difference? 
+Three Research Studies on Diversity in College 
+Classrooms 61 (2000) 
+
+
+ix 
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Page(s) 
+Marin, Patricia & Edgar K. Lee, Appearance and 
+Reality in the Sunshine State: The Talented 20 
+Program in Florida (2003) 44, 45, 47 
+Pew Hispanic Center/Kaiser Family Foundation, 
+2002 National Survey of Latinos, Executive 
+Summary (2002), available at http://www.pew 
+hispanic.org/site/docs/pdf/ / .. . .. . 28 
+Sealia, Commentary, The Disease as Cure: “In 
+order to get beyond racism, we must first take 
+account of race,” 1979 Wash. U. L. G. 147 16 
+Selingo, Jeffrey, What States Aren't Saying About 
+the ‘X-Percent Solution,’ Chron. Higher Ed., 
+ire 45, 46 
+Statement of President George W. Bush, Jan. 15, 
+2003, available at http W]¾ W. white house. gov / 
+news / releases / 2003/01 / print / 20030 115-7. html 24 
+Statement of Mary Sue Coleman, President of the 
+University of Michigan, Jan. 15, 2003, avail- 
+able at http://www.umich.edu/%7Enewsinfo/ 
+
+
+Releases/2003/J an03/r011503e. html 24 
+The Supreme Court: 1977 Term, 92 Harv. L. Rev. 
+0. 16 
+
+
+Texas Higher Education Coordinating Board, 
+First-Time Undergraduate Applicant, 
+Acceptance And Enrollment Information For 
+Summer/Fall 2001 (2002), available at 
+http://www.thecb.state.tx.us/reports/pdf/0515.p 
+df 
+
+
+Tienda, Marta, et al., Closing the Gap? Admissions 
+& Enrollments at the Texas Public Flagships 
+Before and After Affirmative Action (2003), 
+available at http://www.texastop10.princeton. 
+edu / publications / tiendao 12 103. pdf 45, 48 
+U.S. Commission on Civil Rights, Beyond 
+Percentage Plans: The Challenge of Equal 
+Opportunity in Higher Education (2002) ... 43, 44, 45, 47 
+
+
+STATEMENT OF THE CASE 
+
+
+1. The College of Literature, Science, and the Arts 
+(“LS&A”) is the flagship undergraduate institution of the 
+University of Michigan, one of the Nation’s leading public 
+institutions of higher education. LS&A seeks to provide an 
+education that will prepare its students to excel in their 
+chosen vocations and to participate as active citizens in our 
+democracy. The University of Michigan enjoys a first-rate 
+reputation for educational excellence and attracts nearly 
+two-thirds of its applicants and a third of its entering class 
+from outside Michigan, including all 50 states and over 80 
+nations. 
+
+
+LS&A is a selective institution. It receives many more 
+applications than it has available spaces. See Pet. App. 4a. 
+A great many of these applicants are fully qualified to rend 
+LS&A. See id. at 108a. Indeed, it is undisputed that LS& A 
+admits only qualified applicants. See id. at 46a, 1lla. Thus, 
+in selecting students from this competitive pool, “admissions 
+officers must decide which set of applicants, considered 
+individually and collectively, will take fullest advantage of 
+what the college has to offer, contribute most to the 
+educational process in college, and be most successful in 
+using what they have learned for the benefit of the larger 
+society.” CAJA 1500 (emphasis in original). 
+
+Offers of admission are building blocks from which a 
+university constructs its educational environment. There is 
+a common misperception, especially when viewed from a 
+single applicant’s isolated perspective, that offers of 
+admission are entitlements based on grades and test scores. 
+See id. at 1506. That fundamentally misunderstands the 
+
+
+In 1997, when petitioners filed this lawsuit, for example, LS&A 
+enrolled only 3,958 first-year students from more than 13,500 applicants. 
+See Pet. App. 4a. Last year, LS&A received more than 17,000 
+applications. 
+
+„pet. App.” refers to the Petition Appendix; “JA” refers to the 
+Joint Appendix filed in this Court; “CAJA” refers to the Joint Appendix 
+filed in the Sixth Circuit. 
+
+
+2 
+
+
+nature of admissions at a selective institution: with a finite 
+number of available spaces, many qualified applicants must 
+be rejected despite strong credentials. Grades, test scores, 
+and other academic indicators are important in assessing an 
+individual’s potential contribution, but they are by no means 
+the only relevant factors. 
+
+The University considers a broadly diverse student 
+body “an integral component of its mission” because such 
+diversity “increase[s] the intellectual vitality of [its] 
+education, scholarship, service, and communal life.”. Pet. 
+App. 4a. Thus, the task of the admissions office is to 
+assemble a class that will collectively “create an 
+environment on our campus” that is diverse in many 
+respects and that will foster the most vibrant educational 
+atmosphere. CAJA 1483. To do so, LS&A selects from 
+among qualified applicants with wide-ranging interests, 
+achievements, experiences, talents, and beliefs, and different 
+cultural, racial, ethnic, socioeconomic, and geographic 
+backgrounds. 
+
+Racial and ethnic diversity is a single, though crucial, 
+element of the diversity the University seeks. College is a 
+coming of age, and college students, most of whom are 
+between eighteen and twenty-two years old, learn as much 
+from one another as through classroom study. See CAJA 
+1651-52, 1656-59, 1669-70, 1717, 1740. Living, working, and 
+learning with a racially diverse group of peers provides 
+opportunities for a richer exchange of ideas—whether or not 
+explicitly touching on race—that reflects a wider range of 
+life experiences. Such interactions allow students to develop 
+a broad variety of academic and interpersonal skills, 
+including understanding and tolerance with respect to race 
+and ethnicity and the ability to thrive in a multiracial 
+
+
+In 1995, when petitioner Gratz applied to LS&A, more than 1,400 
+white and Asian-American students with lower adjusted high school 
+GPAs or test scores than hers were admitted, while more than 2,000 white 
+and Asian-American students with higher adjusted GPAs or test scores 
+were rejected. See CAJA 590. 
+
+
+3 
+
+
+environment. See id. at 1652-53. Neither petitioners nor the 
+United States denies the value of the educational benefits of 
+diversity. 
+
+Yet, without the presence of meaningful numbers of 
+minority students on campus, these interactions—and the 
+educational benefits they foster—cannot take place. See 
+CAJA 1668-69, 1732-36, 1836; Pet. App. 40a.“ Meaningful 
+racial and ethnic diversity in a wide variety of educational 
+environments is necessary both to ensure that minority 
+students do not feel isolated or pressured to “represent” 
+their racial or ethnic group, and to break down stereotypes 
+by allowing students to view each other as unique 
+individuals. See CAJA at 1734-40, 1834-36. 
+
+
+2. LS&A endeavors to enroll a broadly diverse 
+student body while simultaneously maintaining its 
+commitment to academic excellence. To achieve these two 
+essential aspects of its mission—in light of the very small 
+pool of potential minority applicants with competitive 
+academic qualifications—LS&A must consider race or 
+ethnicity as a factor in making admissions decisions. 
+
+To achieve the educational benefits of diversity, LS&A 
+also pursues means other than considering race in 
+admissions. LS&A vigorously recruits minority students 
+with competitive academic credentials, both to maximize the 
+number of such students who apply and to increase the 
+percentage of those admitted who choose to enroll (the 
+“yield”). See Pet. App. 42a. LS&A’s minority recruiting and 
+outreach efforts are a year-round campaign that includes 
+identifying and contacting talented minority students from 
+across the country; attending recruiting fairs in areas with 
+substantial minority populations; hosting workshops for high 
+school counselors; maintaining an office in Detroit to recruit 
+local high school students, most of whom are minorities; - 
+coordinating campus visits for minority high school students; 
+
+
+As used herein, the term “minority” refers to African-Americans, 
+Hispanics, and Native Americans. See infra n.13. 
+
+
+4 
+
+
+enlisting the aid of current students to encourage admitted 
+minority students to enroll; and hosting a Spring Welcome 
+Day and other events for admitted minority students. See 
+id.; CAJA 1480-81, 1487-88. 
+
+
+The University has found, however, that these targeted 
+recruiting and outreach efforts are simply not enough. See 
+Pet. App. 42a; CAJA 1441. That is because the number of 
+potential minority applicants with competitive academic 
+qualifications is very small—both in absolute terms and 
+relative to the number of qualified non-minority applicants. 
+See Pet App. 42a; CAJA 1441, 1492. For example, of all high 
+school students in the United States in 1999 with a grade 
+point average of B or above and SAT scores of 1200 or 
+above, only 6% were African-American, Hispanic, or Native 
+American. See CAJA 4016. Likewise, of all students in the 
+State of Michigan in 1999 with those grades and scores, only 
+5% were African-American, Hispanic, or Native American. 
+See id. at 4017. In addition, intense competition with other 
+selective institutions for these highly sought-after students 
+compounds this pool size problem by depressing the yield. 
+See id. at 1492, 3992. 
+
+This reality has practical consequences for LS&A’s 
+admissions program. It means, first, that in making 
+admissions decisions, LS&A must consider race and 
+ethnicity to attempt to enroll meaningful numbers of 
+minority students and thereby provide all students with the 
+educational benefits of diversity. See Pet. App. 42a-43a; 
+CAJA 1836, 1912-16.“ It also means that, because the 
+
+
+A race-neutral version of the current admissions system would 
+reduce dramatically the number of minority students admitted to LS&A. 
+See Pet. App. 40a-4la; CAJA 1901-02, 1874-76. In 1996, for example, 
+under a race-blind system, the number of minority students admitted 
+would have dropped from 1,335 to 269—out of 10,363 total admitted 
+
+
+students. See CAJA 1874, 1881. This would have a devastating effect on 
+
+
+integration in important learning contexts at the University. Under such 
+a system, for example, the likelihood that a 60-person residence hall would 
+include at least three African-Americans and at least three Hispanics 
+would plummet from 92% to 19%. See id. at 1917. The likelihood of being 
+
+
+— — : 7ꝙrAd Ä — — ice 
+
+
+5 
+
+
+number of qualified minority applicants is so limited, LS& A 
+ends up admitting virtually all minority applicants with 
+competitive academic eredentials See CAJA 1472-73, 1491 
+92. 
+
+
+3. The Office of Undergraduate Admissions (“OU A”) 
+employs 20 full-time, professional admissions counselors who 
+spend most of each year reviewing application files and 
+making admissions decisions.’ Each of the more than 17,000 
+
+
+the sole African-American student in that residence hall would jump from 
+2% to 31% under a race-blind admissions system, and the probability of 
+being the sole African-American in a 30-person Introductory Psychology 
+section would more than double, from 33% to 71%. See id. at 1921. 
+
+* Petitioners’ suggestion that the University has a “policy” of 
+admitting all qualified minority applicants js incorrect. See Pet. Br. 4. 
+There is no such policy. The fact that virtually all qualified minority 
+applicants are admitted is simply a description of admissions outcomes 
+given that there are few such applicants. | Moreover, although prior 
+versions of LS&A’s admissions guidelines e aged counselors to admit 
+qualified minority candidates as quickly as possible, without postponing 
+decisions on their applications, it is undisputed that the guidelines from 
+1999 forward discontinued this practice. See Pet. App. 113a, 118a. 
+
+"LS&A implemented its current/ admissions system through 
+guidelines adopted to govern admissions for the class entering in the fall 
+of 1999. That system remains in place toflay. The admissions programs 
+governed by the 1995-98 guidelines imcluded three race-conscious 
+practices that the University disputedly has discontinued and 
+disavowed: (1) the use of grids that take race into account by setting forth 
+admissions options for applicants with various combinations of 
+qualifications; (2) the exemption of minority students from the practice of 
+rejecting candidates with very low grades and test scores without 
+counselor review; and (3) a procedure known as “protected seats” that 
+used projections of expected applications from groups known to apply late 
+in the process (including minorities) to pace the rolling admissions process 
+to permit consideration of such applications. See JA 275. The district 
+court concluded that, while the use of grids, standing alone, was not 
+necessarily unlawful, the combination of the three practices was 
+impermissible. See Pet. App. 47a-48a, Petitioners devote much of their 
+brief to attacking these abandoned admissions practices. However, 
+‘because the University did not cross-petition to seek review of the district 
+court’s determination that these practices, taken together, were 
+impermissible, those practices are properly before this Court. See, 
+
+
+. 6 
+
+
+applications OUA receives is read from front to back and 
+evaluated by a counselor. The volume of applications 
+requires procedures and routines to promote fairness and 
+consistency, while preserving counselors’ ability to exercise 
+judgment. See JA 223." A single, unitary set of guidelines, 
+which is reviewed annually and altered periodically, governs 
+the admissions process.” The aim of the guidelines is to 
+“blend the consistency of a formula with the flexibility of a 
+review that is ultimately a matter of human judgment.” Jd. 
+OUA instructs counselors that Jaldmissions is more art 
+than science, and these guidelines should not be read 
+otherwise.” Id. 
+
+
+Each counselor is assigned a geographic territory and is 
+responsible for reviewing all applications from that region, 
+regardless of the race of the applicant. See Pet. App. 38a. 
+There is no separate review of minority applicants, see id., 
+and LS&A does not employ quotas or numerical targets for 
+admission or enrollment of minority students, see id. at 36a. 
+
+Counselors assess a broad range of academic and other 
+factors that the University believes are important in 
+composing a class. To facilitate consistency, counselors 
+
+
+e.g., Trans World Airlines, Inc. v. Thurston, 469 U.S. 111, 119 n.14 (1985) 
+(cross-petition is required to alter the judgment below). 
+
+
+The volume of applications and the presentation of applicant 
+information make it impractical for LS&A to use the same admissions 
+system as the much smaller University of Michigan Law School. The 
+large number of applications precludes LS&A from having a single 
+decisionmaker. Also, applications to LS&A are not accompanied by 
+comprehensive reports like those received by the Law School (from the 
+Law School Data Assembly Service, a national clearinghouse), containing 
+data on applicants’ grades and test scores and comparing each applicant to 
+others from the same undergraduate institution. 
+
+* Contrary to petitioners’ assertion, there are no “written guidelines” 
+for minority applicants that are “separate from.. guidelines applicable to 
+all other races and ethnicities.” Pet. Br. 21. The document petitioners 
+quote, see Pet. Br. 4, dated 1995, is not a guideline or policy and was never 
+used to guide admissions decisions. It simply summarizes the typical 
+admissions outcomes for minority applicants under LS&A’s prior 
+guidelines. See JA 80-81. 
+
+
+7 
+
+
+calculate a “selection index” by assigning numerical values 
+for a variety of factors, up to a possible total of 150 points. 
+See CAJA 1118, 1147.“ While the selection index is designed 
+to guide counselors’ evaluations, it does not purport to 
+identify every possible factor that might bear on an 
+admissions decision. 
+
+Consonant with LS&A’s commitment to academic 
+excellence, the vast majority of available points are for 
+academic factors. Of the 150 total potential points, 110 are 
+available for academic factors, and a maximum of 40 are 
+available for other factors. See JA 224. 
+
+The predominant factor is high school grade point 
+average. Eighty points are available for GPA from tenth 
+and eleventh grades, excluding non-academic courses. See 
+id. at 225. Standardized test scores play a relatively smaller 
+role in the admissions process, accounting for up to 12 points. 
+See id. at 224, 230-31." 
+
+Counselors use the expertise they develop concerning 
+schools in their geographic region to evaluate several non- 
+quantitative academic factors that provide a more detailed 
+
+
+" Petitioners inaccurately describe changes LS&A made to its 
+admissions programs since 1995. First, the changes made between the 
+1997 and 1998 guidelines were not related to this litigation. See Pet. Br. 5. 
+The 1995-1997 guidelines were in effect when petitioners applied, but at 
+the time the lawsuit was filed, the 1998 guidelines were already in effect. 
+Second, the University did not stipulate that all changes to its admissions 
+guidelines since 1995 were non-substantive. The Joint Proposed 
+Summary of Undisputed Facts states that It he development of the 
+selection index for admissions in 1998 changed only the mechanics, not the 
+substance, of how race and ethnicity [were] considered in admissions.” 
+Pet. App. 116a. This statement addressed only the change from the grids 
+to the selection index and did not address any other changes to the 
+admissions process. The district court did not contradict that statement 
+when it determined that, in the aggregate, all of the changes to the 
+admissions system—particularly the abandonment of protected seats and 
+
+
+" Test scores are highly correlated with grades and therefore do not 
+add much value in predicting an applicant’s future academic performance. 
+See CAJA 1929. 
+
+
+8 
+
+
+portrait of an applicant’s academic promise. Applicants may 
+receive up to ten points for the academic strength of their 
+high school. See id. at 226-28, 240." In addition, Igliven the 
+wide disparity in high school course selection and offerings,” 
+counselors are asked to assess the rigor of each applicant’s 
+course of study based on their knowledge of the meaning of 
+course labels (e.g., “honors”) used by the schools in their 
+territory. Id. at 228. Counselors subtract up to four points 
+for an applicant who chose a weaker curriculum when a 
+stronger one was available, and add up to eight points for an 
+applicant who selected more challenging courses. See id. at 
+228-30. 
+
+
+In addition to the 110 points available for academic 
+qualifications, applicants also may receive a maximum of 40 
+points for other factors that the University believes indicate 
+an applicant’s potential contribution to the life of the 
+campus. See id. at 231. Some of these factors relate to 
+specific attributes; others are more open-ended, allowing 
+counselors to take into account factors not specifically 
+identified on the selection index, such as community 
+volunteering, playing the trombone, writing poetry, or 
+working part-time. 
+
+Reflecting the University’s commitment both to 
+Michigan residents and to broader geographic diversity, 
+counselors assign ten points for Michigan residency, six 
+additional points for residency in unde 
+Michigan counties (e.g., those in the State’s Upper 
+Peninsula), and two points for residency’ in 
+underrepresented states (e.g., many in the West and South). 
+See id. at 232-33. Applicants receive four points if a parent is 
+an alumnus of the University or one point if another close 
+relative, such as a sibling or grandparent, is an alumnus. See 
+
+f 
+
+
+* Counselors rate the high schools in their territory based on factors 
+including college attendance rate, Advanced Placement courses offered, 
+and average standardized test scores. See JA 226-28. Every applicant 
+from the same secondary school receives the same number of points for 
+this factor. See id. 
+
+
+— — — 
+
+
+9 
+
+
+id. at 233-34. An applicant may also receive 20 points for 
+one—but only one—of the following: socioeconomic 
+disadvantage, membership in an underrepresented minority 
+group, attendance at a predominantly minority or 
+predominantly socioeconomically disadvantaged high school, 
+recruitment for athletics, or at the Provost’s discretion. See 
+id. at 238-39. Based on information in the application, essay, 
+or high school counselor’s recommendation as to activities, 
+work experience, and awards, counselors may assign up to 
+five points for leadership and service. See id. at 236-38. 
+Counselors may give up to five additional points for personal 
+achievement as evidenced by persistence, character, 
+commitment to high ideals, and level of awards. See id. at 
+235-36. Finally, counselors also may award up to three 
+points for the personal essay, taking into account originality, 
+organization, subject matter, and writing quality. See id. at 
+234. No matter how many non-academic factors might apply 
+to a given applicant, no applicant may receive more than 40 
+(of the 53 available) points for any combination of such 
+factors. See id. at 231. 
+
+
+Recognizing that the selection index score may not 
+always reflect all of the ways an applicant might contribute 
+to LS&A, in 1999, the University formed the Admissions 
+Review Committee (“ARC”) to evaluate more complex 
+admissions cases. For these cases, every member of the 
+ARC closely reviews each applicant’s entire file; the whole 
+committee discusses the applicant’s strengths and 
+weaknesses; and the committee decides whether to admit 
+based on its assessment of the candidate (without further 
+reference to the selection index). See id. at 273-75. 
+
+
+race or ethnicity in admissions. See CAJA 1471. Because LS&A receives 
+sufficient numbers of applications from qualified white and Asian- 
+American students, it can enrol] meaningful numbers of such students 
+without consideration of race or ethnicity in admissions. See id. at 1445. 
+
+
+10 
+
+
+Counselors have broad discretion to decide whether an 
+application warrants this additional level of in-depth review. 
+See id. at 257. A counselor may, in his or her “discretion and 
+judgment,” “flag” an application for ARC review if the 
+counselor determines that the applicant meets three criteria: 
+(1) is academica!!y prepared to do the work at LS&A; (2) 
+has a selection index score greater than 75 for non-Michigan 
+residents and greater than 80 for Michigan residents; and (3) 
+possesses at least one of a variety of qualities or 
+characteristics important to the University’s composition of 
+its freshman class, such as underrepresented race, ethnicity, 
+or geography; high class rank; socioeconomic disadvantage; 
+unique life experiences, challenges, circumstances, interests 
+or talents; connections to the University community; or 
+athletics. Id. at 257-60. These wide-ranging criteria allow 
+counselors the discretion to flag for ARC review a broad 
+array of “any number of applicants, including applicants 
+other than under represented minoritſies].“ Pet. App. 40a. 
+periodically, based on selection index scores, for all 
+applications then pending. To avoid overenrollment, LS&A 
+sets and adjusts, when necessary, the selection index levels 
+that trigger the three possible admissions outcomes— 
+admittance, deferral, and denial. See JA 275. Flagged 
+applications that are not admitted based on the selection 
+index are sent to the ARC for review and final decision. See 
+id. 
+
+The result of this admissions process is a student body 
+of remarkable talent and diversity. 
+
+
+While race therefore may be a factor in deciding which applicants 
+receive this more searching review, petitioners are incorrect to suggest 
+that all—or even close to all—minority applicants are flagged for this 
+process, see Pet. Br. 7. See Pet. App. 39a-40a. Nor are all of the 
+candidates who receive flags minorities. See id. 
+
+
+— 
+
+
+11 
+
+
+SUMMARY OF ARGUMENT 
+
+
+1. In the twenty-five years since this Court’s decision 
+in Regents of the University of California v. Bakke, 438 U.S. 
+265 (1978), virtually all of this Nation’s selective colleges and 
+universities have embraced the educational value of a 
+broadly diverse student body and have relied on Bakke in 
+crafting admissions policies designed to obtain that 
+diversity. These schools have sought and enrolled students 
+of different cultural, racial, ethnic, socioeconomic, and 
+geographic backgrounds, who bring with them a variety of 
+interests, talents, beliefs, and experiences. Through this 
+diversity, these colleges and universities have provided their 
+students with a better education. 
+
+Race and ethnicity are significant components of this 
+diversity. Our country is becoming increasingly diverse and 
+increasingly aware of its diversity. We nevertheless remain 
+a society largely separated by race and ethnicity. It is all too 
+common for students to come to college campuses from high 
+schools where they have had little opportunity to interact 
+with students of different racial and ethnic backgrounds. 
+
+This is at once an educational challenge and an 
+educational opportunity. Bringing together students with 
+different life experiences creates opportunities for rich and 
+vivid exchanges, as students reflect on those experiences in 
+a new context and share their own interpretations of them. 
+By assembling a diverse student body, universities also 
+encourage students to identify and confront unspoken and, 
+indeed, often unconscious stereotypes. Seeing similarities 
+and differences across dividing lines—whether real or 
+perceived, and whether drawn according to race, sex, 
+geography, or belief—is a vital part of undergraduate 
+education. To achieve sufficient racial and ethnic diversity 
+to generate those educational benefits, the University of 
+Michigan must consider race or ethnicity as one of many 
+factors in admissions. 
+
+Petitioners argue that the Constitution prohibits the 
+University from taking race into account to obtain the 
+benefits of a racially and ethnically diverse student body. 
+
+
+12 
+
+
+But a majority of this Court held in Bakke that “the State 
+has a substantial interest that legitimately may be served by 
+a properly devised admissions program involving the 
+
+
+competitive consideration of race and ethnic origin.” 438 - 
+
+
+U.S. at 320. The majority agreed that a university is not 
+required to adopt race-blind admissions policies, and 
+expressly cited the admissions policy of Harvard College— 
+which was designed to attain diversity—as an example of a 
+constitutional race-conscious admissions program. 
+Petitioners argue about Bakke’s meaning, but ultimately ask 
+this Court to overrule it. Yet they have offered no 
+persuasive justification for this Court to do so. Hundreds of 
+selective public and private colleges and universities have 
+relied on Bakke. Undermining this reliance would have 
+serious consequences for our national educational culture, 
+leading, among other things, to a near-total absence of 
+minority students in our Nation’s selective colleges and 
+universities. 
+
+2. The University’s consideration of race and ethnicity 
+is a function of the fact that the number of potential minority 
+applicants with the competitive academic credentials it 
+seeks is quite small. The University’s extensive outreach 
+and recruiting efforts do not, without more, lead to the 
+enrollment of meaningful numbers of minority students. 
+
+
+Even taking race into account to the extent that it currently 
+
+
+does—while maintaining its commitment to academic 
+excellence—the University is unable to achieve the full 
+benefits of diversity across all learning environments. Thus, 
+a ruling that either forecloses the consideration of race 
+altogether, or requires the University to place measurably 
+less weight on race as a factor, would preclude the 
+University from enrolling meaningful numbers of minority 
+students. 
+
+The University of Michigan has crafted its admissions 
+program in reliance on and in compliance with the principles 
+elucidated in Bakke. The University has no quotas or 
+numerical targets for the admission or enrollment of 
+minority students. Each application, regardless of the race 
+of the applicant, is read and evaluated by a counselor, 
+
+
+13 
+
+
+according to a uniform set of standards. The University 
+values diversity across a broad spectrum of qualities and 
+experiences, and therefore race is only one “plus” factor 
+among many. 
+
+The United States emphasizes the educational value of a 
+diverse student body but takes no position on whether that 
+justifies the consideration of race or ethnicity to obtain it. 
+That issue need not be reached, the United States argues, 
+because race-neutral alternatives are available. It offers 
+only one: the “percentage plans” now in place in Texas, 
+California, and Florida. While these plans may be facially 
+race-neutral, their purpose and intended effect is to achieve 
+some measure of racial diversity. In any event, whatever 
+the value of those plans in those States, they simply will not 
+work for the University of Michigan because of demographic 
+constraints. Moreover, any percentage plan would require 
+the University to discontinue its consideration of a much 
+wider and more nuanced range of academic factors in 
+making admissions decisions and to abandon its mission of 
+enrolling a broadly diverse student body. 
+
+While the consideration of race and ethnicity in LS&A’s 
+admissions program triggers strict scrutiny, it nevertheless 
+survives constitutional challenge because the University has 
+a compelling interest in obtaining the educational benefits of 
+— 3 and its program is narrowly tailored to achieve 
+
+end. 
+
+
+ARGUMENT 
+
+
+I. THE UNIVERSITY OF MICHIGAN MAY 
+CONSIDER RACE AND ETHNICITY AS 
+FACTORS IN ADMISSIONS TO OBTAIN THE 
+EDUCATIONAL BENEFITS OF DIVERSITY. 
+
+In Bakke, this Court rejected the very proposition that 
+petitioners advance here—that the Constitution requires 
+colleges and universities to ignore the race and ethnicity of 
+applicants in assembling a student body, except as intended 
+to remedy institution-specific past discrimination, see Pet. 
+Br. 13. Bakke should not be overruled. First, discarding 
+Bakke is unjustified as a matter of stare decisis. Doing so 
+
+
+14 
+
+
+would uproot longstanding, carefully considered educational 
+policies that were developed in reliance on its holding and 
+that have led to unprecedented integration of our Nation’s 
+premier institutions of higher education. Second, a wealth of 
+empirical evidence confirms, as educators have long 
+believed, that Justice Powell was correct in Bakke to 
+conclude that obtaining the educational benefits of diversity 
+improves the educational experience for all students, and 
+constitutes a compelling interest that justifies the 
+consideration of race and ethnicity in a properly devised 
+admissions program.” 
+
+A. Settled Principles Of Stare Decisis Require 
+
+Continued Adherence To Bakke’s Core Holding. 
+
+
+1. This Court already has confronted and resolved the 
+central question presented here—whether, in the absence of 
+an institution-specific history of discrimination, a university 
+may constitutionally consider the race or ethnicity of 
+applicants in composing its student body. Petitioners’ claim 
+that Bakke has no precedential value because it announced 
+“no coherent rule,” Pet. Br. 41, is wrong.“ A majority of 
+the Court joined in Part V-C of Justice Powell’s controlling 
+opinion,” which states Bakke’s core holding and judgment 
+
+
+"The United States concedes that diversity is an “important and 
+laudable goal{]” for a university. U.S. Br. (Gratz) 11. Yet, in an attempt 
+to sidestep Bakke’s controlling effect on this case, the United States 
+asserts that race-neutral alternatives to race-conscious admissions are 
+available, and that LS&A’s current admissions system amounts to a 
+disguised quota. Both of these assertions are incorrect, and both were 
+properly rejected by the court below. See infra at Part II. 
+
+Cf. Wygant v. Jackson Bd. of Educ., 476 U.S. 267, 287 (1986) 
+(O’Connor, J., concurring in part and concurring in the judgment) (noting 
+that “the number of separate writings” in cases involving affirmative 
+action “do not necessarily reflect an intractable fragmentation in opinion 
+with respect to certain core principles”). 
+
+"That opinion is the narrowest ground in support of Bakke’s 
+holding. Cf. City of Richmond v. J.A. Croson Co., 488 U.S. 469, 496-97 
+(1989) (O’Connor, J.) (recognizing that Justice Powell’s opinion in Bakke 
+demanded a more focused rationale than the “amorphous” concern with 
+redressing societal discrimination to find a compelling interest); Bakke, 
+
+
+15 
+
+
+that the California Supreme Court’s injunction barring any 
+consideration of race in admissions “must be reversed” 
+because “the State has a substantial interest that 
+legitimately may be served by a properly devised admissions 
+program involving the competitive consideration of race and 
+ethnic origin.” 438 U.S. at 320. 
+
+The Justices who formed that majority agreed on (| vee 
+key points that illuminate the meaning of Bakke’s core 
+holding. First, they agreed that the Fourteenth 
+Amendment does not require universities to employ race- 
+blind admissions programs. See id. Second, they agreed 
+that the Constitution permits an institution of higher 
+education to consider race in admissions in furtherance of an 
+interest other than remedying a pattern of discrimination by 
+that institution.” Third, all five Justices expressly approved 
+the admissions policy of Harvard College—which was 
+explicitly designed to secure the educational benefits of 
+diversity, and not to remedy societal discrimination as an 
+example of a constitutional race-conscious admissions 
+program. See id. at 316-18, 326 n.1. 
+
+Bakke is a landmark decision precisely because it 
+decided a controversial national issue by permitting colleges 
+and universities to take race into account in admissions, 
+
+
+438 U.S. at 307; id. at 296 n.36 (Powell, J., concurring) (describing Justice 
+Brennan's rationale as having “breadth [that is] unprecedented”). It 
+therefore controls. See Marks v. United States, 430 U.S. 188, 193 (1977). 
+Justice Powell’s and Justice Brennan’s opinions are not “too different” to 
+compare, Pet. Br. 32: both approved the “competitive consideration” of 
+race and the diversity-focused Harvard plan. 
+
+
+A narrow remedial rationale was not even at issue in Bakke 
+because it was “conceded that [the University] had no history of 
+discrimination.” 438 US. at 296 n.36. 
+
+
+See Bakke, 488 U.S. at 322-23 (appending Harvard College 
+admissions policy, which observed that “if Harvard College is to continue 
+to offer a first-rate education to its students, minority representation in 
+the undergraduate body cannot be ignored” because racial and ethnic 
+diversity “adds a critical ingredient to the effectiveness of the educational 
+experience”) (citation omitted). 
+
+
+16 
+
+
+subject to certain limitations. Indeed, when Bakke was 
+announced, scholars and commentators reached a 
+remarkably uniform consensus as to its meaning, even 
+among those who may have disagreed with Justice Powell’s 
+controlling opinion.” These contemporaneous observers 
+correctly understood that Bakke resolved the question 
+whether the consideration of race as a factor in admissions is 
+constitutional. 
+
+2. Stare decisis is “indispensable” to “the very concept 
+of the rule of law underlying our own Constitution.” 
+Planned Parenthood v. Casey, 505 U.S. 833, 854 (1992) 
+(plurality op.) (citing Powell, Stare Decisis and Judicial 
+Restraint, 1991 Journal of Supreme Court History 13, 16). 
+The doctrine “carries such persuasive force that we have 
+always required a departure from precedent to be supported 
+by some ‘special justification.” Dickerson v. United States, 
+530 U.S. 428, 443 (2000) (citations omitted); see also id. at 461 
+(Scalia, J., dissenting). Petitioners cannot overcome their 
+“heavy burden” of providing that “compelling justification” 
+for overruling Bakke. Vasquez v. Hillery, 474 U.S. 254, 266 
+(1986); Hilton v. South Carolina Pub. Rys. Comm'n, 502 
+U.S. 197, 202 (1991). 
+
+
+” See, e.g., Scalia, Commentary, The Disease as Cure: “In order to 
+get beyond racism, we must first take account of race,” 1979 Wash. U.L.Q. 
+147, 148 (describing Justice Powell's opinion as “the law of the land”); 
+Charles R. Babcock & Loretta Tofani, Reaction: All Sides Optimistic, A 
+Ruling With Something for Every Group, Wash. Post, June 29, 1978, at 
+Al (quoting Robert Bork, then-professor at Yak Law School, who thus 
+characterized Bakke: We're told that we can count race somewhat, but 
+not too much.”); The Supreme Court: 1977 Term, 92 Harv. L. Rev. 131, 
+136 n.40 (1978) (The Bakke opinions] put a majority of the Court on 
+record that a program which considers race and even the numerical 
+balance of the class, but which does not set aside a specified number of 
+seats for minorities, is lawful under Title VI and the 14th [A}mendment”), 
+The Bakke Decision, Wash. Post, June 29, 1978, at A26 (“Those schools 
+that want a diverse student body . . . . can give added points in the 
+selection process to applicants because of their race just as they give 
+added points to applicants because they are athletes, musicians, children 
+of alumni, artists, poor, rich or residents of places from which few 
+applications come.”). 
+
+
+—— 
+
+
+17 
+
+
+As this Court has observed, adherence to precedent is 
+particularly important when a decision has become so woven 
+into the fabric of our national culture,” Dickerson, 530 U.S. 
+at 443, that overturning it would cause “serious inequity to 
+those who have relied upon it or significant damage to the 
+stability of the society governed by it,” Casey, 505 U.S. at 
+855; see also Adarand Constructors, Inc. v. Pena, 515 U.S. 
+200, 233 (1995) (O’Connor, J.); Mitchell v. United States, 526 
+U.S. 314, 331-32 (1999) (Scalia, J., dissenting) (stating that a 
+rule’s “wide acceptance in the legal culture” is an “adequate 
+reason not to overrule” it). These reliance interests develop 
+when a decision provides a guidepest on a contested issue 
+around which people and institutions “organize” their affairs, 
+“order their thinking,” and “define their views of themselves 
+and their places in society.” Casey, 505 U.S. at 856, 860. 
+
+All of this is true of Bakke. Over the past quarter 
+century, nearly every selective university in the United 
+States has relied on Bakke in developing admissions and 
+related policies designed to obtain and provide the 
+educational benefits of a diverse student body. See William 
+G. Bowen & Neil L. Rudenstine, Race-Sensitive 
+Admissions: Back to Basics, Chron. Higher Educ., Feb. 7, 
+2003, at B7 (“Back to Basics”) (“Essentially all of these 
+‘academically selective’ colleges and universities have 
+elected to take race into account in making admissions 
+decisions.”)." Justice Powell anticipated Bakke’s far- 
+reaching influence in his announcement of the judgment on 
+June 26, 1978: 
+
+{Mjany of our finest universities and colleges 
+
+pursue a flexible competitive admissions program 
+
+
+” It is undisputed that the University “views diversity as essential 
+to its educational mission,” and that it considers race in admissions t jo 
+facilitate diversity.” Pet. App. 108a-109a. After five years of litigation, 
+petitioners for the first time question the truthfulness of the University’s 
+asserted motivation for considering race and ethnicity. Based solely on a 
+few law review articles, petitioners also accuse the entire higher 
+education community and, implicitly, Justice Powell, of concocting 
+diversity as a “cover” for other motivations. Pet. Br. 46-47. 
+
+
+18 
+
+
+in which race may be considered as a relevant 
+
+admissions factor. This experience demonstrates 
+
+that the Davis type program—one that arbitrarily 
+forecloses all competition solely on the basis of race 
+
+or ethnic origin—is not necessary to obtain 
+
+reasonable educational diversity... . Yet the way is 
+
+open to Davis to adopt the type of admissions 
+
+program proved to be successful in so many of the 
+
+universities and colleges of our country. 
+http://oyez.org/cases/cases.cgi?command=show &case_id=324 
+(bench statement of Powell, J.).” 
+
+Not only universities themselves, but the US. 
+Department of Education (the agency charged with 
+enforcing Title VI) also has relied on Bakke as a guide.” 
+Since 1979, the Department of Education has consistently 
+implemented Bakke through binding regulations and policy 
+guidance statements confirming the legality of admissions 
+and financial aid policies that consider race “to attain a 
+diverse student body” in a manner consistent with Justice 
+Powell’s opinion. 44 Fed. Reg. 58,509 (Oct. 10, 1979).“ 
+
+
+Overruling Bakke not only would upset the settled 
+expectations of universities, but also would cause 
+“significant damage” to our increasingly diverse Nation. 
+Casey, 505 U.S. at 924. Bakke has been the touchstone for 
+the substantial integration of our Nation’s finest public and 
+
+
+Because the composition of the student body is central to the 
+development of the character, reputation, and educational environment of 
+institutions of higher learning, those institutions’ reliance on Bakke 
+extends to their ability to “define their views of themselves and their 
+places in society.” Casey, 505 U.S. at 856. Universities also have relied on 
+Bakke in devoting resources to structure their curricula, teaching 
+programs, and learning environments to create the opportunities for 
+interaction that trigger the educational benefits of diversity. See, e. g., 
+CAJA 1750-52. 
+
+
+* See CAJA 786-87 (Brief of the United States as Amicus Curiae). 
+
+
+Ses also 34 C.F.R. $ 100.3(bX6)ii); 59 Fed. Reg. 8756 (Feb. 23, 
+1994); 56 Fed. Reg. 64,548 (Dec. 10, 1991). These regulations remain in full 
+force and effect. 
+
+
+19 
+
+
+private” institutions of higher learning. That integration 
+produces real educational results both on campus,” and in 
+society generally, given the role of the university as a 
+professional and civic training ground.” Repudiating Bakke 
+would effectively destroy these achievements. 
+
+This broad and deep reliance on Bakke demonstrates 
+that its rule has in no sense defſied] practical workability.” 
+Casey, 505 U.S. at 854. To the contrary, Bakke provides 
+educators with a practical framework for crafting an 
+appropriate race-conscious admissions program. That 
+framework incorporates a measure of flexibility that permits 
+institutions with varying missions and different applicant 
+pools to design admissions programs that satisfy 
+constitutional requirements. 
+
+
+fe decision in this case will affect private institutions because the 
+scope of Title VI, which governs institutions that accept federal funds, is 
+coextensive with the Equal Protection Clause. See United States v. 
+Fordice, 505 U.S. 717, 732 n.7 (1992). Petitioner offers no basis for 
+applying any different standards under 42 U.S.C. § 1981, and failed to 
+preserve that argument in any event. See also Gen. Bldg. Contractors 
+Ass'n v. Pa., 458 U.S. 375, 389-90 (1982) (declining to impose broader 
+
+
+obligations under § 1981). 
+* See, e.g., Back to Basics at B/ (noting that a survey of 90,000 
+
+
+alumni of selective colleges and universities found “much more interaction 
+
+
+across racial lines than many people suppose”). 
+
+
+ge generally William G. Bowen & Derek Pok, The Shape of the 
+River: Long-Term Consequences of Considering Race in College and 
+University Admissions (1998) (“Shape of the River). Bowen & Bok’s 
+comprehensive research demonstrates that “academically selective 
+colleges and universities have been highly successful in using race- 
+sensitive admissions policies to advance educational goals important to 
+them and societal goals important to everyone.” Id. at 290. For example, 
+African-American students who have enrolled at selective institutions 
+with race-sensitive admissions policies have higher graduation rates than 
+their peers with similar SAT scores who enrolled at less selective 
+institutions. See id. at 61, 259. African-American graduates of selective 
+institutions also have enjoyed great success in terms of increased earnings 
+and more active involvement in community and civic undertakings. See 
+id. at 257. See also Brief for Lt. Gen. Julius W. Becton, Jr., et al., as Amici 
+Curi 
+
+
+* 
+
+
+20 
+
+
+This Court has never questioned the essential holding of 
+Bakke and has, indeed, recognized its continuing vitality,” 
+while evaluating race-conscious measures in contexts other 
+than higher education.” In Wygant v. Jackson Bd. of Educ., 
+476 U.S. 267 (1986), for example, Justice O’Connor 
+recognized that “a fair measure of consensus” existed among 
+the five Justices in Bakke who voted to reverse the 
+California Supreme Court's injunction—including a 
+consensus that “a state interest in the promotion of racial 
+diversity has been found sufficiently ‘compelling’ at least in 
+the context of higher education, to support the use of racial 
+considerations in furthering that interest.” Jd. at 286 
+
+
+™ See Alexander v. Sandoval, 582 U.S. 275, 281 (2001) (recognizing 
+Bakke’s reversal of injunction against “according any consideration to 
+race in [the] admissions process”); Johnson v. Transp. Agency, 480 U.S. 
+616, 638 (1987) (relying on Bakke’s “competitive consideration” rationale 
+in approving gender-conscious promotion plan, and recognizing that plan’s 
+similarity to the Harvard plan “approvingly noted by Justice Powell” in 
+Bakke); cf. Adarand, 515 U.S. at 258 (Stevens, J., dissenting) (“The 
+proposition that fostering diversity may provide a sufficient interest to 
+justify [a racial or ethnic classification] is not inconsistent with the Court's 
+holding today—indeed, the question is not remotely presented in this 
+casel. ]). 
+
+
+nis Court’s case law on redistricting further supports the core 
+holding of Bakke. This Court has held that in certain settings, race may 
+be considered as part of a comprehensive evaluation, so long as it does not 
+overwhelm other, traditional factors on which the relevant determination 
+is made. See Shaw v. Reno, 509 U.S. 630, 633, 641-42 (1993) (in a decision 
+bearing on “the propriety of race-based state legislation designed to 
+benefit members of historically disadvantaged racial minority groups,” 
+holding that the “Court never has held that race-conscious state 
+decisionmaking is impermissible in all circumstances” but that race may 
+not be primary factor driving voter districting); Miller v. Johnson, 515 
+U.S. 900, 913 (1995) (race may contribute to determination so long as it is 
+not “dominant and controlling rationale” to which neutral principles are 
+“subordinated”); Easley v. Cromartie, 532 U.S. 234, 241 (2001) (race may 
+be a motivation but may not be predominant factor driving 
+decisionmaking). Similarly, the approach of the Harvard plan endorsed by 
+Bakke recognizes that, in the unique context of higher education, race 
+may be considered as one factor so long as it does not eclipse the 
+consideration of other relevant factors. 
+
+
+21 
+
+
+(O'Connor, J., concurring in part).” Four years later, in 
+Metro Broadcasting, Inc. v. FCC, 497 U.S. 547, 568 (1990), 
+this Court cited Bakke for the proposition that “a ‘diverse 
+student body’ contributing to a ‘robust exchange of ideas’ is 
+a ‘constitutionally permissible goal’ on which a race- 
+conscious university admissions program may be 
+predicated.” 
+
+B. Institutions Of Higher Learning Have A 
+Compelling Interest In Obtaining The 
+Educational Benefits Of Diversity That Justifies 
+The Consideration Of Race And Ethnicity. 
+
+Setting aside stare decisis considerations, Justice 
+
+Powell’s controlling opinion in Bakke was correct to hold 
+that obtaining the educational benefits that flow from a 
+
+
+” While petitioners overstate the extent to which lower courts 
+disagree on Bakke’s meaning, any such disagreement cannot justify 
+repudiating this Court’s precedent. See Hubbard v. United States, 514 
+U.S. 695, 718-19 (1995) (Rehnquist, C. J., dissenting, joined by O’Connor 
+and Souter, JJ.) (criticizing plurality for relying on “aberrant” circuit court 
+decisions in departing from stare decisis and observing that this “novel 
+corollary” threatens to “subvert{] the very principle on which a 
+hierarchical court system is built”). 
+
+
+„Although this Court held in Adarand that strict scrutiny applies to 
+
+all racial classifications, see 515 U.S. at 227, the Court at the same time 
+that Justice Powell had in fact applied strict scrutiny in 
+Bakke, see id. at 218-19. Accordingly, Adarand does not undermine Metro 
+s characterization of Bakke’s holding. See also Metro 
+Broad., 497 U.S. at 621 (O’Connor, J., dissenting) (recognizing that, in 
+Bakke, Justice Powell concluded that “race-conscious measures might be 
+employed to further diversity” “if race were one of many aspects of 
+background sought and considered relevant to achieving a diverse student 
+body”). Similarly, Justice Powell’s application of strict scrutiny in Bakke 
+forecloses petitioners’ argument that Bakke is not entitled to stare decisis 
+deference because it is somehow incompatible with current equal 
+protection doctrine. In any case, the propositions that petitioners 
+attribute to Justice Powell and attack as outdated, see Pet. Br. 37-39, are 
+unrelated to Bakke’s core holding that the consideration of race in 
+admissions to obtain the educational benefits of diversity is constitutional. 
+
+
+22 
+
+
+diverse student body is a compelling interest. See 438 U.S. 
+at 306. 
+
+
+In concluding that “the interest of diversity is 
+compelling in the context of a university’s admissions 
+program,” id. at 314, Justice Powell noted that “our tradition 
+and experience lend support to the view that the 
+contribution of diversity [to education] is substantial,” id. at 
+313. He emphasized that a far-reaching consensus 
+recognized the direct link between positive educational 
+outcomes and a broadly diverse student body: At lhe 
+atmosphere of ‘speculation, experiment and creation’—so 
+essential to the quality of higher education—is widely 
+believed to be promoted by a diverse student body.” Id. at 
+312 (quoting Sweezy v. New Hampshire, 354 U.S. 234, 263 
+(1957) (Frankfurter, J., concurring)).” This consensus is 
+deeply rooted in our Nation’s history and case law, 
+confirmed by abundant empirical evidence, and consistent 
+with the requirements that define a compelling interest. 
+
+
+” Petitioners attack a straw man by characterizing the asserted 
+interest as one in “academic freedom,” standing alone. See Pet. Br. 13, 36. 
+The University has never claimed that an interest in “academic freedom” 
+
+
+Amendment, that universities invoke in selecting students to fulfill their 
+educational mission, Bakke, 438 U.S. at 313; the autonomy and deference 
+afforded educators in making educational judgments, see id.; Regents of 
+the Univ. of Mich. v. Ewing, 474 U.S. 214, 225 (1985); and the importance 
+of Jan] atmosphere of ‘speculation, experiment and creation” in the 
+higher education context, Bakke, 438 U.S. at 312 (quoting Sweezy v. New 
+Hampshire, 354 U.S. 234, 263 (1957) (Frankfurter, J., concurring). These 
+principles undergird the compelling nature of the interest in achieving the 
+benefits of diversity in the context of higher education. 
+
+
+Justice Powell also grounded his conclusion in social science 
+evidence. See Bakke, 438 U.S. at 315 n. 50 4 318 n.51 (citing Manning, The 
+
+
+23 
+
+
+1. Our Nation has struggled throughout its history 
+with the challenge of harnessing our diversity as a source of 
+strength rather than a cause of friction. When our first 
+President, George Washington, became concerned that the 
+cultural, ethnic, religious, and regional differences among 
+the colonists were creating tensions that endangered the 
+new Nation, he drew upon his experience as leader of the 
+Revolutionary Army. That Army was comprised of young 
+men from across the colonies who, in Washington’s words, 
+had “imbibed” “prejudices” against one another. Exposing 
+this diverse group of soldiers to each other, Washington 
+found, served to “eradicate” many of these “prejudices” and 
+create a shared sense of purpose. Seeking to harness this 
+educational process, Washington advocated the creation of a 
+National University to meet the urgent need for education 
+through exposure to America’s diversity: 
+
+{That which would render [a National University] 
+
+of the highest importance, in my opinion, is, that the 
+
+Juvenal period of life, when friendships are formed, 
+
+& habits established that will stick by one; the 
+
+Youth, or young men from different parts of the 
+
+United States would be assembled together, & 
+
+would by degrees discover that there was not that 
+
+cause for those jealousies & prejudices which one 
+part of the union had imbibed against another part 
+
+.... prejudices are beginning to revive again, and 
+
+never will be eradicated so effectually by any other 
+
+means as the intimate intercourse of characters in 
+early life, who, in all probability, will be at the head 
+
+of the councils of this country in a more advanced 
+
+stage of it. 
+Letter to Alexander oe sag —— 
+Washington Writings (Library of America ; see 
+Joseph Ellis, Founding Brothers 154 (Knopf 2001)“ 
+
+
+James B. Angell, the third president of the University of Michigan, 
+emphasized a similar theme in his 1879 commencement address, not long 
+
+
+24 
+
+
+Echoing Washington’s point nearly two centuries later, 
+Justice Powell observed in Bakke that “it is not too much to 
+say that the nation’s future depends upon leaders trained 
+through wide exposure to the ideas and mores of students as 
+diverse as this Nation of many peoples.” 438 U.S. at 313 
+(internal quotation marks and citation omitted). 
+
+Well before Bakke, this Court recognized the 
+importance of diversity in educational settings, noting in 
+Sweatt v. Painter, 339 U.S. 629, 634 (1950), that legal 
+education “cannot be effective in isolation from the 
+individuals and institutions with which the law interacts.” 
+See also Brown v. Board of Educ., 347 U.S. 483, 493-95 & 
+n.11 (1954). Bakke thus was a capstone to—not a departure 
+from—an established line of precedent acknowledging the 
+importance of diversity in education.” 
+
+2. This Court’s recognition that diversity generates 
+important educational benefits is reinforced by a remarkably 
+uniform and non-ideological consensus among the country’s 
+leaders, educators, and social scientists. The President of 
+the United States and the President of the University of 
+Michigan share a conviction that college students “live and 
+learn” better “with people from many backgrounds,” and 
+both “strongly suppurt . racial diversity in higher 
+education.™ The record below contains unrebutted “solid 
+
+
+after the Civil War. See Nancy Cantor, A Michigan Legacy: Ensuring 
+Diversity and Democracy on Campus, Mich. Alumnus (Summer 1998). 
+
+This Court has long recognized the “special role” and significant 
+mission of educational institutions in our democracy, Board of Educ. v. 
+Pico, 457 U.S. 853, 921 (1982) (O’Connor, J., dissenting). See, e. g., Board of 
+Regents of Univ. of Wisc. v. Southworth, 529 U.S. 217, 233 (2000); Plyler v. 
+Doe, 457 US. 202, 221 (1982); Brown, 347 U.S. at 493. In enacting 
+measures to reduce “racial isolation” in elementary and secondary schools, 
+Congress has also repeatedly recognized the educational value of racially 
+diverse educational settings. See Brief for Respondents, Grutter v. 
+Bollinger, et al., No-O- 241 at 21-22. 
+
+
+* Statement of President George W. Bush, Jan. 15, 2003, available at 
+http://www. whitehouse .gov/news/releases/2003/01/print/ 200301 15-7.html. 
+See also Statement of Mary Sue Coleman, President of the University of 
+
+
+25 
+
+
+evidence” explaining how and why a student body that 
+includes meaningful racial and ethnic diversity generates 
+educational benefits for all students. Pet. App. 22a. Even 
+petitioners do not disagree. See CAJA 4157. 
+
+Racial and ethnic diversity is educationally important 
+because, notwithstanding decades of progress, there remain 
+significant differences in our lives and perceptions that are 
+undeniably linked to the realities of race. Continuing 
+patterns of residential segregation, for example, mean that 
+“the daily events and experiences that make up most 
+Americans’ lives take place in strikingly homogenous 
+settings.” Id. at 1968." As a result, most students entering 
+college have had few opportunities for meaningful 
+interactions across lines of race and ethnicity. This 
+separation contributes to misconceptions and mistrust, and 
+provides little opportunity to disrupt racial stereotypes or to 
+experience the richness of different racial and ethnic 
+communities. See id. at 1953, 1955-56. Petitioners’ 
+position—that race has no place as a consideration in college 
+admissions outside of remedying discrete instances of past 
+discrimination—would require universities to ignore the 
+world in which they are educating their students to live and 
+lead. 
+
+Rather than relying on racial stereotypes or race as a 
+“proxy,” the benefits of diversity depend on the hardly 
+debatable proposition that being part of a racial majority or 
+minority, in a society in which race still so profoundly 
+matters, will inform one’s perspective and base of 
+knowledge. Cf. J. E. B. v. Alabama, 511 U.S. 127, 148-51 
+(1994) (O’Connor, J., concurring) (We know that like race, 
+gender matters ... one need not be a sexist to share the 
+intuition that in certain cases a person’s gender and 
+
+
+Michigan, Jan. 15, 2008, available at http://www.umich.edw/%7Enewsinfo/ 
+Releases/2003/Jan03/r0 1 1503¢.html. 
+
+™ See also Erica Frankenburg. Chungmei Lee & Gary Orfield, A 
+Multiracial Society with Segregated Schools: Are We Losing the Dream? 
+(2003), available at http://www.civilrightsproject.harvard.edu. 
+
+
+26 
+
+
+resulting life experience will be relevant to his or her view of 
+the case.”). 
+
+
+In jury selection cases, for example, members of this 
+Court have recognized that jurors of different racial 
+backgrounds may well bring varying experiences and 
+prejudices to bear, such that the “distorting influence of race 
+is minimized on a racially mixed jury.” Georgia v. 
+McCollum, 505 U.S. 42, 68 (1992) (O’Connor, J., dissenting); 
+see also id. at 60 (Thomas, J., dissenting) (“the racial 
+composition of a jury may affect the outcome of a criminal 
+case. . do not think that this basic premise of Strauder 
+has become obsolete.”). Exclusion of an identifiable group of 
+persons removes from consideratioi 
+
+qualities of human nature and varieties of human 
+
+experience, the range of which is unknown and 
+
+perhaps unknowable. It is not necessary to assume 
+
+that the excluded group will consistently vote as a 
+
+class in order to conclude . . . that its exclusion 
+
+deprives the jury of a perspective on human events 
+that may have unsuspected importancel.] 
+Taylor v. Louisiana, 419 U.S. 522, 531-32 & n.12 (1975) 
+(internal quotation marks omitted). While the unique 
+interpretations of experience that different individuals bring 
+may not “make an iota of difference” on any given issue, 
+
+
+their exclusion deprives the proceedings of something 
+valuable. Ic’ at 582. 
+
+
+* While several Justices of this Court have recognized that including 
+persons of different races and sexes on juries may bring valuable diversity 
+of perspective and experience, the Court has rejected the notion that 
+jurors can be excluded on the basis of race or sex alone. See Batson v. 
+Kentucky, 476 U.S. 79 (1986); J. F. B. v. Alabama, 511 U.S. 127 (1994). 
+This rejection stems from the special function of the jury, where the 
+
+
+neutrality is the better course in the deliberately neutral context of a jury. 
+Bush v. Vera, 517 U.S. 952, 1051 n.5 (1996) (Souter, J., dissenting). The 
+“cost of the alternative is simply too great.” Id. Those concerns have no 
+
+
+27 
+
+
+Petitioners seem to believe that any acknowledgment 
+that race has some bearing on an individual’s experience is 
+to deny that person’s individuality. That is not so. There is 
+a sound distinction between acknowledging that race may 
+affect an individual’s experience, and assuming that it 
+determines an individual’s behavior or beliefs. The 
+
+
+‘particular conclusions that individuals draw, or the 
+
+
+interpretations they give to their own expe .1ences will, of 
+course, be as varied as the individuals themselves.“ 
+
+
+Thus, the argument for diversity in no way turns on the 
+assumption that individuals of any given race will 
+necessarily hold any particular set of views. The educational 
+benefits of diversity stem in large part from a very different 
+phenomenon. Exposing students at a critical period of 
+personal development to situations in which they cannot 
+predict viewpoint or behavior based on race actually 
+undermines and deters stereotypical thinking. See CAJA 
+1656-59, 1736-40. This type of learning can occur only in an 
+environment with meaningful racial and ethnic diversity and 
+corresponding opportunities for students of different races 
+and ethnicities to interact in and out of the classroom. See 
+
+
+place in the educational context where the institutional interest is not 
+
+
+impartiality, but an “atmosphere of speculation,” Bakke, 438 U.S. at 312, 
+best achieved by the inclusion of the widest variety of perspectives. 
+
+justice Powell recognized that distinction in Bakke. In concluding 
+that Davis had failed to provide empirical support for its asserted 
+compelling interest in providing doctors to underserved areas, Justice 
+Powell rejected the unproven assumption that minority graduates would 
+be more likely to practice in underserved communities. See Bakke, 438 
+U.S. at 310-11. In contrast, because he concluded that a university's 
+interest in obtaining the educational benefits of diversity was compelling, 
+Justice Powell evidently determined that that interest did not depend on 
+an improper, stereotyping assumption. Dissenting in Metro Broadcasting, 
+Justice O’Connor made the same point, noting that the link the majority 
+drew between “race and behavior, especially when mediated by market 
+forces” is precisely “the assumption that Justice Powell rejected” in 
+Bakke. Metro Broad., 497 U.S. at 619. 
+
+
+28 
+
+
+id. at 1732-34.“ Put bluntly, It leaching that ‘not all blacks 
+think alike’ will be much easier when there are enough 
+blacks around to show their diversity of thought.” Glenn C. 
+Loury, The Anatomy of Racial Inequality 147 (2002)." And 
+such diversity of thought is much more likely to emerge in 
+settings where there are more than token numbers of 
+minority students, so that individual minority students do 
+not feel isolated or pressured to act as “representatives” of a 
+racial group. See CAJA at 1734-36, 1835-36; see also Bakke, 
+438 U.S. at 323 (recognizing risk that lack of meaningful 
+numbers of minority students leads to “sense of isolation”). 
+The give-and-take from perspectives informed by the widest 
+variety of human experience makes the most of the diversity 
+of our Nation. This is the heart of the “robust exchange of 
+
+
+ideas,” Bakke, 438 U.S. at 312, that the University seeks to 
+foster. 
+
+
+Diversity leads not only to greater understanding of 
+the ways in which race may—or may not—be relevant to a 
+whole range of issues, but it also generates broader 
+educational benefits. Abundant empirical evidence confirms 
+
+
+Justice Powell recognized that actual interaction with diverse 
+peers is the vehicle by which diversity benefits students. In 
+acknowledging the widely-held consensus that a vibrant education is 
+linked to a diverse student body, Justice Powell quoted the statement of 
+then-President of Princeton University, William Bowen, that “a great deal 
+of learning occurs informally . . through interactions among students of 
+... different races.” Bakke, 438 U.S. at 313 n.48 (citing William G. Bowen, 
+Admissions and the Relevance of Race, Princeton Alumni Weekly 7, 9 
+(Sept. 26, 1977)). See Patricia Gurin, Evidence for the Educational 
+Benefits of Diversity in Higher Education: Response to the Wood & 
+Sherman Critique by the National Association of Scholars (May 30, 2001), 
+available at http://www.umich.edu/~urel/ admissions/research/. 
+
+
+“This is also true for Hispanics, a population encompassing 
+significant differences in both background and experience. “A diversity of 
+views exists among Latinos, and the differences between the foreign born, 
+regardless of their country of origin, and the rvtiwe born and those 
+between English dominant and the Spanish dominant are most 
+notable.” See Pew Hispanic Center/Kaiser Family Foundation, 2002 
+
+
+29 
+
+
+educators’ long-held beliefs and experience that “[s]tudents 
+who experienced the most racial and ethnic diversity in 
+classroom settings and in informal interactions with peers 
+showed the greatest... growth in intellectual engagement 
+and motivation[.}’ CAJA 1652.“ Likewise, experience with 
+
+
+‘diverse peers in an educational setting better equips 
+
+
+students “to understand and consider multiple perspectives, 
+deal with the conflicts that different perspectives sometimes 
+create, and appreciate the common values and integrative 
+forces that harness differences in pursuit of the common 
+good.” Jd. at 1652-53. A successful education, particularly at 
+the undergraduate level, encourages students to move 
+beyond familiar habits of thinking by confronting the 
+“unknown.” This is a crucial aspect of learning how to 
+approach and understand the unfamiliar—whether it be a 
+classmate, a foreign culture, or a newly-encountered text. 
+Petitioners and some of their amici claim that any 
+consideration of race in admissions causes stigmatic harm to 
+minority students which outweighs any benefits that 
+increased levels of diversity might bring. See, e. g., Brief for 
+National Association of Scholars as Amicus Curiae 23. 
+William Bowen and Derek Bok definitively refute that 
+
+
+See generally Diversity Challenged: Evidence on the Impact of 
+Affirmative Adon. (Gary Orfield & Michal Kurlaender eds. 2001) 
+(“Diversity Challenged”); Sylvia Hurtado, et al., Enacting Diverse 
+Learning Environments: Improving the Climaie for Racial/Ethnic 
+Diversity in Higher jon (1999); see also Sylvia Hurtado, Linking 
+
+
+College Classrooms 61, 69 (2000). 
+
+
+30 
+
+
+assertion in their comprehensive study of the effects of race- 
+conscious admissions policies at selective colleges and 
+universities. See Shape of the River at xxxi.“ Their findings 
+demonstrate that this “assertion withers in the light of the 
+evidence,” id., because “if minority students were truly 
+demoralized, one would expect that they would be less likely 
+than whites to succeed in graduate and professional schools, 
+less likely to appreciate their college experience, and less 
+inclined to report that they benefited intellectually by 
+having attended a selective school,” but In lone of these 
+results appears in [the] data,” id. at 261. Bowen and Bok 
+found that the overwhelming majority of African-American 
+graduates of selective colleges and universities with race- 
+sensitive admissions programs performed well and were 
+very satisfied with their undergraduate educational 
+experience. See id. at 265. 
+
+Bakke’s holding has an even stronger empirical 
+foundation today than it did in 1978. As the court below 
+corréctly concluded, see Pet. App. 22a, 27a-28a, extensive 
+social science research confirms the soundness of Justice 
+Powell’s conclusion that “the attainment of a diverse student 
+body. ... Clearly is a constitutionally permissible goal for an 
+institution of higher education.” Bakke, 438 U.S. at 311-12. 
+
+
+“ Amicus NAS’ brief misconstrues Bowen & Bok’s findings, see Brief 
+for National Association of Scholars as Amicus Curiae 25 n.25, by 
+omitting their conclusion that any “costs” of race-sensitive admissions are 
+outweighed by the benefits: “In the eyes of those best positioned to know, 
+any putative costs of race-based policies have been overwhelmed by the 
+benefits gained through enhanced access to excellent educational 
+————— Shape of the River at 265. 
+
+In Bakke, Justice Powell considered the possibility that 
+“preferential programs may only reinforce common stereotypes holding 
+that certain groups are unable to achieve success without special 
+protection,” but concluded that this risk was outweighed by the significant 
+educational benefits of diversity to all students, 438 U.S. at 298-99. 
+Bowen & Bok’s findings confirm that Justice Powell was right to discount 
+the possibility of stigmatic harm resulting from considering race in 
+
+
+31 
+
+
+3. The interest in obtaining the educational benefits of 
+diversity is not only firmly grounded as an empirical matter, 
+but it also fits squarely within the framework defining 
+whether an interest is compelling as a matter of law. While 
+strict scrutiny clearly requires a “skeptical view of all 
+governmental racial classifications,” Adarand, 515 U.S. at 
+228, it rejects petitioners’ argument that no interest other 
+than remedying institution-specific past discrimination is 
+capable of justifying race-conscious measures. See Pet. Br. 
+40. Strict scrutiny analysis requires “carefully examining 
+the interest asserted by the government” precisely because 
+it “does take relevant differences into account” in assessing 
+whether an interest is sufficiently compelling. Adarand, 515 
+U.S. at 228 (emphasis in original) (internal quotation marks 
+omitted); cf. Calif. Democratic Party v. Jones, 530 U. S. 567, 
+584 (2000) (cautioning that the compelling interest 
+“determination is not to be made in the abstract”). Contrary 
+to petitioners’ characterizations, the interest in obtaining the 
+educational benefits of diversity is neither inappropriately 
+amorphous nor timeless. Cf. Metro Broad., 497 U.S. at 613 
+(O’Connor, J., dissenting). 
+
+The University’s interest in providing its students with 
+the concrete educational benefits generated by a diverse 
+student body bears no resemblance to the generalized 
+interest in remedying societal discrimination that has been 
+rejected as “amorphous.” Bakke, 438 U.S. at 307; Wygant, 
+476 U.S. at 276. Petitioners suggest that this Court’s 
+specific rejection of the role model theory in Wygant is 
+actually a broad rejection of any interest that might produce 
+educational benefits. See Pet. Br. 35. This argument 
+misconstrues the nature of the interest repudiated in 
+Wygant. The plurality opinion, authored by Justice Powell, 
+characterized the role model theory—as the school district 
+did—as a subset of the broad remedial rationale. The Court 
+did not treat the role model theory as an interest in the 
+educational benefits of diversity. Rather, it described the 
+interest in “providing minority role models for its minority 
+students, as an attempt to alleviate the effects of societal 
+discrimination.“ Wygant, 476 U.S. at 274; see also id. at 
+
+
+32 
+
+
+289 n.* (O’Connor, J., concurring) (distinguishing the 
+asserted interest from “the very different goal of promoting 
+racial diversity among the faculty” for educational reasons). 
+
+
+Nor does the interest in obtaining the educational 
+benefits of diversity justify the consideration of race in 
+admissions without any “logical stopping point.” Id. at 275 
+(Powell, J.). The need to consider race and ethnicity in 
+admissions is inherently time-limited because it stems from 
+the disparities in academic qualifications, such as grades and 
+test scores, between minorities and non-minorities, and the 
+correspondingly small number of minority students with 
+competitive academic credentials. These phenomena are by 
+no means permanent fixtures of our educational landscape. 
+For example, recent studies show that test score gaps have 
+narrowed, see, e.g., Shape of the River at 22 (noting that 
+SAT gap between whites and African-Americans shrank 
+from 282 to 181 points from 1976 to 1989); Back to Basics at 
+B9 (observing additional improvement through 1995), and 
+the University looks forward to the day when it is no longer 
+necessary to consider race in admissions to compose a 
+
+diverse student body. 
+
+
+II. LS&A’S ADMISSIONS PROGRAM Is 
+NARROWLY TAILORED TO ACHIEVE THE 
+COMPELLING INTEREST OF OBTAINING THE 
+EDUCATIONAL BENEFITS OF DIVERSITY. 
+LS&A’s current admissions program is “properly 
+
+devised” to achieve the meaningful racial and ethnic 
+
+diversity that allows the University to realize the 
+educational benefits of diversity. It hews closely to the 
+
+“plus” system that Bakke approved, in which race and 
+
+ethnicity are accorded competitive consideration in 
+
+combination with other factors relevant to an applicant’s 
+potential contribution to the student body. Because LS&A 
+is unable to achieve, through active recruiting and outreach 
+programs, sufficient racial and ethnic diversity to make 
+possible the opportunities for interactions that facilitate the 
+
+educational benefits of diversity, see CAJA 1836, 1912-16, 
+
+and because no race-neutral admissions alternatives 
+
+
+33 
+
+
+currently are viable, LS&A properly considers race and 
+ethnicity as factors in admissions. 
+
+
+A. LS&A’s Admissions Program Is Narrowly 
+Tailored. 
+
+In devising and refining its admissions program, LS&A 
+has relied on the principles set forth in Bakke. As Justice 
+Powell observed, a system that considers race as one of 
+many factors and treats each applicant as an individual 
+reflects an appropriate fit between the objective of obtaining 
+the educational benefits of diversity and the means by which 
+that objective is achieved. 
+
+1. The Davis program rejected in Bakke “consisted of 
+a separate admissions system operating in coordination with 
+the regular admissions process.” 438 U.S. at 272-73. The 
+two defining features of that system were (1) a rigid quota 
+that set aside 16 out of the 100 seats in each year’s entering 
+class for minorities, and (2) a “special admissions program” 
+that funneled applications from minorities through a 
+separate committee walled off from the “regular admissions 
+process.” Id. at 272-75. Justice Powell identified the crux of 
+the problem with this system as the insulation of minority 
+students from competition with all other applicants, see id. 
+at 315, and the exclusion of non-minority students from 
+competition for all places in the class, see id. at 318. See also 
+City of Richmond v. J.A. Croson Co., 488 U.S. 469, 496 
+(1989) (O’Connor, J.) (describing the flaw in the Davis 
+program as the completeſ] eliminatſion] [of] nonminorities 
+from consideration for a specified percentage of 
+opportunities”). 
+
+By contrast, an admissions program that considers race 
+as a “plus factor,” like the Harvard policy approved by a 
+majority of the Court in Bakke, comports with the 
+Fourteenth Amendment: 
+
+
+This kind of program treats each applicant as an 
+individual in the admissions process. The applicant 
+who loses out on the last available seat to another 
+candidate receiving a “plus” on the basis of ethnic 
+background will not have been foreclosed from all 
+
+
+34 
+
+
+consideration for that seat simply because he was 
+not the right color or had the wrong surname. It 
+would mean only that his combined qualifications, 
+which may have included similar nonobjective 
+factors, did not outweigh those of the other 
+applicant. 
+438 U.S. at 318. Such a system does not rely on quotas or 
+their “functional equivalent.” Jd. | 
+
+
+Thus, while petitioners seem to believe that comparing 
+different manners of considering race in admissions is just 
+an “exercise in formalism,” Pet. Br. 24, Bakke makes clear 
+that the process makes a constitutional difference. After all, 
+an admissions system that operates like the approved 
+Harvard plan might end up admitting the same number of 
+minority students as the impermissible Davis quota system. 
+The pertinent distinction between the two, however, is that 
+the design of the Davis system subordinated a broad 
+interest in educational diversity to a narrow interest in 
+achieving a specific racial result that was not linked to an 
+educational outcome. See Bakke, 438 U.S. at 315 (“The 
+diversity that furthers a compelling state interest 
+encompasses a far broader array of qualifications and 
+characteristics of which racial or ethnic origin is but a single 
+though important element.”); cf. Miller v. Johnson, 515 U.S. 
+at 913. 
+
+Although Justice Powell rejected numerical quotas and 
+set-asides that serve as their functional equivalents, Bakke 
+makes plain that an admissions program “properly devised” 
+to achieve the compelling interest of obtaining the 
+educational benefits of diversity may—even must—pay 
+“some attention to [the] numbers” of minority students 
+admitted. 438 U.S. at 323 (quoting from the Harvard policy). 
+Thus, Bakke contemplates that a university would structure 
+its admissions system to seek to enroll “more than a token 
+number” of minority students because “there is some 
+relationship between numbers and achieving the benefits to 
+be derived from a diverse student body, and between 
+numbers and providing a reasonable environment for those 
+
+
+35 
+
+
+students admitted.” Id. at 316, 323. In determining how 
+much of a “plus” to give for race and ethnicity, universities 
+need not weigh all factors equally. See id. at 317. Rather, 
+they are permitted to set and adjust the “weights” to 
+account for “the ‘mix’ both of the student body and the 
+applicants for the incoming class” in view of the objective of 
+enrolling meaningful numbers of minority students. Id. at 
+318. 
+
+
+2. The district court correctly concluded that “LSA’s 
+current admissions program, under which certain minority 
+applicants receive a ‘plus’ on account of their race but are 
+not insulated from all competition with other applicants, 
+meets the requirements set forth by Justice Powell in Bakke 
+and is therefore constitutional.” Pet. App. 43a. Race is only 
+one of “many factors” that permit applicants to receive a 
+“plus” in LS&A’s admissions process. Id. at 37a. LS&A 
+“does not utilize rigid quotas or seek to admit a 
+predetermined number of minority students,” id. at 34a-35a, 
+and At here is no separate review or assignment of under- 
+represented minority applicants as there was in Bakke,” id. 
+at 38a. The court thus properly concluded that LS&A’s 
+current program has none of the features that rendered the 
+Davis program unconstitutional. | 
+
+Indeed, the LS&A admissions system is characterized 
+by the very features that Justice Powell described as 
+important to a “properly devised” admissions program. 
+Every LS&A applicant receives individualized counselor 
+review, which Justice Powell considered a hallmark of a 
+constitutionally appropriate admissions program. See 
+Bakke, 438 U.S. at 318. Admissions counselors read every 
+application and consider a wide range of factors that provide 
+insight into the contribution an applicant might make to the 
+overall educational environment. Based on these factors, 
+counselors determine a selection index score for each 
+applicant. Counselors may also “flag” an application for 
+review by the Admissions Review Committee, which 
+provides an additional level of in-depth review in a small- 
+group discussion format and makes a decision based on the 
+
+
+36 
+
+
+applicant’s whole file, without further reference to the 
+selection index score. 
+
+Race or ethnicity represent only a single factor 
+considered by counselors.“ Whether the points awarded for 
+race make a difference to the outcome of an admissions 
+decision depends on the individual applicant’s combination 
+of qualities and credentials.“ Applicants with very strong 
+academic records are likely to be admitted, regardless of 
+their race; likewise, students of any race with very weak 
+academic records are likely to be rejected. See CAJA 1871- 
+72. It is, as Justice Powell noted, for “the large middle group 
+of applicants who are ‘admissible’ and deemed capable of 
+doing good work in their courses, [that] the race of an 
+applicant may tip the balance in his favor just as geographic 
+origin or a life spent on a farm may tip the balance in other 
+
+
+“The admissions data belie petitioners’ claim that the University 
+makes “unbridled use of race and ethnicity in making admissions 
+decisions,” Pet. Br. 13. The University’s expert, Professor Stephen 
+Raudenbush, demonstrated statistically that “one cannot reasonably 
+conclude that [race] predominates over other factors in the admissions 
+process.” CAJA 1871. Cf. Miller v. Johnson, 515 U.S. at 913 (race may be 
+considered so long as it is not the “dominant and controlling rationale”). 
+Indeed, this conclusion is obvious given that measures of academic 
+
+
+capability account for up to 110 points, and all other factors combined can 
+account for no more than 40 points. 
+
+
+“ Applicants may receive points for many different combinations of 
+attributes and experiences. For example, a white student from Michigan's 
+Peninsula who had demonstrated outstanding leadership and 
+could receive 21 points (10 points for Michigan residency, six 
+for residency in an underrepresented Michigan county, and five 
+for leadership); a white student from rural North Carolina whose 
+is on public assistance and who wrote an outstanding essay could 
+25 points (two points for residency in an underrepresented state, 
+for socioeconomic status, and three points for the essay); and an 
+
+
+EH 
+
+
+Fy 
+ö 
+f 
+‚ 
+f 
+
+
+37 
+
+
+candidates’ cases.” Bakke, 438 U.S. at 323.“ Petitioners 
+urge that race should never affect an admissions outcome. 
+But that position is irreconcilable with Bakke: if race never 
+made a difference in the outcome, it would not be a “plus” 
+factor in any meaningful sense.” 
+
+Petitioners and the United States suggest that 
+awarding points to every minority applicant “tips the 
+balance” in favor of admission for every minority applicant. 
+But the fact that every minority applicant receives the same 
+“plus” hardly means that race plays the same role in the 
+admissions outcome for each applicant. See CAA 1842, id. 
+at 1867-68, 1871.“ The “weight” given to race, or its impact, 
+if any, on the ultimate admissions decision cannot be 
+
+
+“ LS&A’s consideration of race in admissions rr 
+burden” non- minority applicants. Metro Broad., 497 at 
+(O’Connor, J., dissenting). Shifting to a race-neutral system “would 
+dramatically reduce the probability of acceptance for members of under- 
+represented minority groups while having a very small positive effect on 
+the probability of admission for others.” CAJA 1876; see also id. at 1889 
+(demonstrating that likelihood of admission for minorities would fall from 
+86% to 32% but would rise only from 71% to 77% for non-minorities). See 
+generally Goodwin Liu, The Causation Fallacy: Bakke and the Basic 
+Arithmetic of Selective Admissions, 100 Mich. L. Rev. 1045 (2002), see 
+also Hopwood v. Texas, 236 F.3d 256, 265-72 (2000) (upholding as 
+“eminently correct” district court’s finding, on basis of expert testimony, 
+that none of the plaintiffs would have been admitted to law school under a 
+race-blind system), cert. denied, 533 U.S. 929 (2001). 
+
+
+Petitioners confuse an impermissible “two-track” system with the 
+notion—explicitly permitted under Bakke—that race may be a scale- 
+tipping factor. Petitioners’ evidence of a “two-track” system is nothing 
+more than different admissions outcomes for two hypothetical students, 
+one minority and one non-minority, who have the same selection index 
+
+
+difference to the outcomes of admissions decisions. But that, of course, is 
+what it means for race to be considered as a factor in admissions. 
+
+
+»” Petitioners are wrong to argue that assigning points to all minorit v 
+applicants is unduly mechanical and thereby unconstitutional. 
+Standardized procedures designed to ensure consistency across a large 
+volume of applications are not incompatible with the individualized review 
+that Bakke requires. 
+
+
+38 
+
+
+understood in isolation from the applicant’s other attributes 
+or the strength of the applicant pool as a whole. For 
+example, for minority applicants with strong academic 
+records or a combination of other attributes, the “plus” for 
+race might have no effect because the applicant would be 
+admitted without it. See id. at 1867-68, 1871. As Justice 
+Powell described it, “[t}he file of a particular black applicant 
+may be examined for his potential contribution to diversity 
+without the factor of race being decisive.” Bakke, 438 U.S. 
+at 317. The key is that a “properly devised” admissions 
+program “is flexible enough to consider all pertinent 
+elements of diversity in light of the particular qualifications 
+of each applicant, and to place them on the same footing for 
+consideration, although not necessarily according them the 
+same weight.“ Id. at 317. 
+
+Petitioners’ complaint that all minority applicants, 
+regardless of “disadvantage,” receive the same “plus” for 
+race misunderstands the nature of the compelling interest. 
+Assigning a “plus” only to those minority students who are 
+disadvantaged might be narrowly tailored to achieve some 
+kind of remedial purpose, but LS& A’s objective is to achieve 
+the educational benefits that come from a racially diverse 
+student body, not to provide a remedy for societal 
+discrimination. Inclusion of minority students from all walks 
+of life and from very different backgrounds will not only 
+contribute to a richer educational environment, but will also 
+demonstrate the diversity of experience and views among 
+minority students. That is why a “black student with high 
+grades from Andover may challenge the stereotypes of 
+many classmates just as much as the black student from the 
+South Bronx.” Shape of the River at 280. 
+
+Moreover, assigning points to all minority students is 
+necessary to create a realistic possibility that the University 
+can achieve the educational benefits that flow from 
+meaningful racial and ethnic diversity on campus. Justice 
+Powell recognized this point, in expressly permitting a 
+university to pay “some attention to distribution among 
+many types and categories of students” and to operate its 
+admissions system with an “awareness of the necessity of 
+
+
+39 
+
+
+including more than a token number of [minority] students,” 
+so long as it does not set a “minimum number” of minorities 
+for admission. Bakke, 438 U.S. at 316-17 (citation omitted). 
+
+One significant hurdle to achieving meaningful racial 
+and ethnic diversity is the small pool of qualified minority 
+applicants—both in terms of absolute numbers and in 
+comparison to the pool of non-minority applicants.” 
+Petitioners assert that LS& A employs “separate standards” 
+for minority and non-minority applicants because it ends up 
+admitting virtually all “qualified” minorities, while denying 
+admission to “qualified” non-minorities. Pet. Br. 22-24. 
+What petitioners characterize as “separate standards“ is 
+instead a backward-looking description of admissions 
+outcomes in light of the small pool of qualified minority 
+applicants. 
+
+To the extent that petitioners use the term “separate 
+standards” to capture the statistical fact that the average 
+grades and test scores of admitted minority students are 
+somewhat lower than the average grades and test scores of 
+admitted non-minorities, that fact, standing alone, has no 
+constitutional significance. Further, this phenomenon 
+cannot be said to measure the “extent” to which race is 
+taken into account, as it is in part an unavoidable 
+consequence of the reality that, nationally and in the State of 
+Michigan, average grades and test scores are lower for 
+minority students. See CAJA 4012-23. This disparity means 
+that, for example, even if the University selected a 
+particular SAT score and admitted all applicants with scores 
+
+
+" Petitioners’ description of admissions data, see Pet. Br. 7, is 
+misleading because it ignores the pool size disparities. Acceptance rates 
+expressed as percentages are deceptive, standing alone, because they 
+often reflect decisions for very few minority applicants. 
+
+“There are no “separate standards” for minority applicants. 
+Counselors use the same selection index worksheet, listing the same 
+factors, to evaluate all applications. Admissions decisions are made 
+according to selection index cutoffs applicable to all applicants, or through 
+
+a discussion that takes into account every aspect of a candidate’s 
+pn no 4 
+
+
+40 
+
+
+above that level, regardless of race, the average scores of 
+the admitted minority students would still be lower. In any 
+event, the gap in academic credentials is smaller than 
+petitioners suggest. Between 1995 and 1999, the average 
+academic GPA was approximately 3.5 for non-minority 
+applicants and approximately 3.2 for minority applicants. 
+See id. at 1879, 1906. This marginal difference in average 
+GPAs remains roughly the same when comparing the data 
+for admitted and enrolled students: it is approximately the 
+difference between an A- (3.67) and a B+ (3.33). 
+
+
+The 20 points that the University attributes to race and 
+ethnicity in its admissions process reflects LS&A’s 
+judgment, based on its experience, regarding the proper 
+balance to be struck among competing — the 
+goal of obtaining the educational benefits of a racially 
+diverse student body; the need for more than token numbers 
+of minority students on campus to make it possible to 
+generate those benefits; the small size of the pool of minority 
+applicante—with _ competitive academic credentials; the 
+interest in assuring that all students admitted are prepared 
+to succeed academically; and the objective of enrolling a 
+class that is broadly diverse in ways other than race and 
+ethnicity. See Bakke, 438 U.S. at 316-18 (noting that 
+universities may accord different weights to different 
+admissions criteria in light of “the ‘mix’ both of the student 
+body and the applicants” and the universities’ goal of 
+obtaining the educational benefits of diversity). Another 
+institution might strike the balance in a different place, 
+depending on the particular values that institution seeks to 
+further in the admissions process. 
+
+
+For LS&A, allotting fewer than 20 points would 
+undermine its ability to achieve the educational benefits of 
+diversity, because even with a 20-point “plus,” LS&A is not 
+able to achieve sufficient racial diversity to ensure that 
+meaningful numbers of minority students consistently are 
+present in formal and informal educational settings on 
+campus. At the same time, it is LS&A’s judgment that 
+allotting more than 20 points may tip the scale too far in 
+terms of admitting students who might not be academically 
+
+
+41 
+
+
+prepared to succeed at the University. That would not only 
+unacceptably undercut the University’s commitment to 
+academic excellence, but it also would undermine its ability 
+to secure the educational benefits of diversity because it 
+would hinder the University’s efforts to provide an 
+educational environment in which students view each other 
+as peers. 
+
+Striking the proper balance among these factors is an 
+exercise of educational expertise and judgment. Competing 
+admissions objectives, such as academic selectivity and 
+broad diversity across categories other than race, will 
+always limit the extent to which an institution considers race 
+as a factor in admissions. Requiring the Univeriuy to 
+accord measurably less weight to race would, as a practical 
+matter, preclude any selective institution of higher 
+education from employing any admissions program that 
+gives a “plus” to race. Justice Powell was right to conclude 
+that, within the framework set forth in Bakke, this fine- 
+tuning ought to be left to the exercise of good-faith 
+judgment by education professionals who have the expertise 
+and experience to balance the consideration of race against 
+other concerns to advance the institution’s educational 
+mission. That is the workable balance that Bakke struck in 
+prohibiting quotas, while permitting universities to consider 
+race as one of many factors in an _ individualized, 
+comprehensive review that evaluates each applicant as a 
+whole person. 
+
+
+B. The University Cannot Achieve Meaningful 
+Diversity Without Considering Race And 
+Ethnicity As Factors in Admissions. 
+
+Without suggesting any viable race-neutral alternatives 
+for achieving diversity, petitioners flatly assert that the 
+University has not “meaningfully considered” any such 
+alternative. Pet. Br. 12, 30. But as the district court 
+specifically found, the University came forward with 
+substantial, credible, and unrebutted evidence that “a race- 
+neutral admissions program would substantially reduce the 
+number of under-represented minority students in the 
+
+
+42 
+
+
+LSA’s incoming student body.” Pet. App. 40a. The court 
+rejected petitioners’ suggestion that a random selection of 
+applicants who passed some fixed “qualification threshold” 
+might suffice, because of the small size of the relevant 
+applicant pool; noted that another so-called alternative— 
+bare reliance on test scores at the expense of all other 
+relevant criteria—would result in significant additional 
+rejections of qualified minority applicants; and credited 
+expert testimony as to the inefficacy of relying solely on 
+family income as a predictor of racial and ethnic diversity, 
+given the even smaller pool of highly qualified minorities in 
+the lowest income strata. See id.” - 
+
+The United States echoes the unsupported assertion 
+that race-neutral plans were ignored. See U.S. Br. (Gratz) 
+10, 18. It further asserts that LS&A has “ample race- 
+neutral alternatives” at its disposal, id. at 18—approaches 
+that it claims have “proven effective in meeting the. 
+laudable goals of educational openness, accessibility and 
+diversity in other States,” id. at 11. The United States 
+actually offers only one such alternative: percentage-based 
+admissions programs such as those currently in place in the 
+public university systems of Texas, Florida, and California. 
+See id. at 13-14.“ These programs, which guarantee some 
+
+
+An academically selective college can expect that only one in six 
+qualified low-income applicants will be either African-American or 
+Hispanic. See Thomas J. Kane, Racial and Ethnic Preferences in College 
+Admissions, in The Black-White Test Score Gap 431, 450 (Christopher 
+Jencks & Meredith Phillips, eds., 1998); Shape of the River at 46-50. 
+
+
+“The United States briefly alludes to other possible “race- 
+neutral alternatives,” suggesting that the University might actively 
+seek other sorts of diversity, such as geographical diversity; “modify 
+or discard facially neutral admissions criteria that tend to skew 
+admissions results” against minorities; or open its doors “to the best 
+students from throughout the State or Nation.” U.S. Br. (Grutter) 13- 
+14; see also U.S. Br. (Gratz) 14-15. As to the first suggestion, it is 
+uncontroverted that LS&A already pursues such a policy, as it grants 
+selection index points to, for example, students from 
+
+areas, from underprivileged socioeconomic 
+backgrounds, and with extraordinary indicia of personal achievement 
+
+
+43 
+
+
+form of admission to a fixed percentage of the graduates 
+from each high school in the State,” are by no means “race- 
+neutral.” Nor have they been proven effective.” Further, 
+even were such plans minimally “effective” in maintaining 
+some level of racial and ethnic diversity in those states’ 
+public systems of undergraduate education, the, woc'd have 
+
+
+and leadership potential. The United States’ second point actually 
+supports LS&A’s educationally sound decision to consider non- 
+academic factors in combination with standardized testing and to place 
+more emphasis on high school grades than on test scores. 
+Incomprehensibly, petitioners and the United States urge the Court 
+to force LS&A to re'y more heavily on standardized test scores, U.S. 
+Br. (Gratz) 24 (urging reliance on “objective qualifications”), see also 
+Pet. Br. 25, even as the United States promises that diversity could be 
+better pursued were such data disregarded. Finally, as to the third 
+suggestion, it is undisputed that LS&A already “opens its doors” to 
+the best students from throughout Michigan, the other 49 States, and 
+dozens of countries. 
+
+
+* Texas offers students graduating in the top 10% of any Texas high 
+school admission to the public institution of their choice. California offers 
+admission to the state system, though not to the school of one’s choice, to 
+the top 4% of each high school’s graduates, provided they have completed 
+requisite coursework. Florida guarantees admission, though not choice of 
+school, to the top 20% of each high school’s graduates who have completed 
+a prescribed curriculum. See generally Catherine L. Horn & Stella M. 
+Flores, Percent Plans in College Admissions: A Comparative Analysis 
+of Three States’ Experiences 19-22 (2003), available at http//www. 
+civilrightsproject.harvard.edu/research/affirmativeaction/tristate.php#full 
+report; U.S. Comm’n on Civil Rights, Beyond Percentage Plans: The 
+Challenge of Equal Opportunity in Higher Education vii-x (2002) 
+(“Beyond Percentage Plans”). 
+
+Even the authors of Texas’ percentage plan confirm that it has 
+been ineffective in increasing diversity, is not a national model, and cannot 
+substitute for direct, competitive consideration of race in admissions. See 
+Brief for Authors of the Texas Ten Percent Plan as Amicus Curiae. See 
+also Brief for Professors Glenn C. Loury, Nathan Glazer, John F. Kain, 
+Thomas J. Kane, Douglas Massey, and Marta Tienda as Amici Curiae, 
+Brief for the University of Pittsburgh, et al. as Amici Curiae. 
+
+
+44 
+
+
+devastating effects on the University of Michigan’s ability to 
+define and pursue its educational mission.” 
+
+As an initial matter, the suggestion that the percentage 
+plans in Texas, Florida, and California are “race-neutral” is 
+erroneous. First, while facially race-blind, they 
+unquestionably were adopted with the specific purpose of 
+increasing representation of African-Americans and 
+Hispanics in the public higher education system.” Indeed, 
+petitioners, the United States, and the universities 
+themselves measure the success of these percentage plans 
+by examining a single, race-driven data point, that is, the 
+level of minority representation in the student body—the 
+very criterion petitioners would have LS&A ignore. Such 
+programs are deemed effeetive when minorities represent a 
+specific percentage of the student body—a percentage 
+roughly equivalent to that in place in the last year in which 
+the university explicitly considered race in individual 
+admissions.” 
+
+Second, these percentage plans are not race-neutral 
+because they knowingly are premised on racial segregation 
+in a state’s elementary and secondary public school system. 
+In Texas, for example, granting automatic admission to all 
+
+
+“The district court considered and rejected the viability of a 
+percentage plan like the one in Texas. See Pet. App. 40a-4la (crediting 
+unrebutted expert testimony that a percentage plan would damage 
+LS&A’s academic selectivity and result in a “spurious form of equality”). 
+
+ges Petition for Writ of Certiorari by the State of Texas et al. at 
+18-19, Hopwood v. Texas, 236 F.3d 256 (5th Cir. 2000), cert. denied, 533 
+U.S. 929 (2001) (conceding as much); Horn & Flores, supra, at 15-19; 
+Patricia Marin & Edgar K. Lee, Appearance and Reality in the Sunshine 
+State: The Talented 20 Program in Florida 11 (2003); John F. Kain & 
+Daniel M. O’Brien, Hopwood and the Top 10 Percent Law: How They Have 
+Affected the College Enrollment Decisions of Texas High School 
+Graduates 3-4 (2003), available at http://www/utdallas.edu/research/ 
+greenctr/; Beyond Percentage Plans, supra, at 16 (California), 53 
+
+
+Ses U.S. Br. (Gratz) 14; U.S. Br. (Grutter) 14-17 and sources cited 
+therein; Brief for the State of Florida as Amicus Curiae at 4, 8-10; Kain & 
+O’Brien, supra, at 4-5. 
+
+
+45 
+
+
+students in the top 10% of their high school’s graduating 
+class would, it was thought, guarantee a pool of African- 
+American and Hispanic freshmen, because the racial 
+segregation of Texas high schools had resulted in sufficient 
+majority-minority schools as to guarantee that almost all of 
+the top 10% of students in many schools would be 
+minorities.” It is simply hiding the ball to hold out 
+percentage plans as a race-blind alternative, where they in 
+fact manifest a less forthcoming form of race-consciousness. 
+Moreover, the assertion that the few extant percentage 
+programs have “proven effective” in attaining educational 
+diversity is premature and inaccurate. U.S. Br. (Gratz) 11. 
+Research on these recently-instituted programs is just 
+beginning to generate data measuring their short-term 
+impact. And that data shows that percentage plans have not 
+been nearly so successful in achieving racial and ethnic 
+diversity as their proponents might claim, particularly with 
+respect to selective flagship institutions.” Further, such 
+
+
+See Marta Tienda et al., Closing the Gap? Admissions & 
+Enrollments at the Texas Public Flagships Before and After Affirmative 
+Action 7 (2003), available at http://www.texastop10.princeton.edu/ 
+publications/tienda012103.pdf; Kain & O’Brien, supra, at 4; see also 
+Jeffrey Selingo, What States Arent Saying About the ‘X-Percent 
+Solution,’ Chron. Higher Ed., June 2, 2000, at A43 (“Aides to Gov. Jeb 
+Bush of Florida admit they settled on a 20-percent standard after 
+computer models of 10-percent and 15-percent policies failed to produce 
+enough black and Hispanic students.). 
+
+61 er 2 2 1 
+
+Ihe top ten percent admission policy is not an alternative to 
+affirmative action and by itself can only achieve minimal campus diversity, 
+even in the presence of high levels of [high] school segregation.” Tienda, 
+et al., supra, at 41 (emphases omitted); see also Beyond Percentage Plans, 
+supra, at 19-24, 57-60, 65-66, 116; Marin & Lee, supra, at 23, 27-31, 34-36; 
+Kain & O’Brien, supra, at 29-32; Horn & Flores, supra, at 50-51, 58-59 
+(“percent plans seem to have the least impact on the most competitive 
+campuses, which have persisting losses in spite of many levels of efforts to 
+make up for affirmative action”). 
+
+Further, to the extent that some percentage plans have contributed 
+to the presence of minorities in higher education, that limited success is 
+
+on race-conscious recruitment, financial aid, and support 
+programs. See Horn & Flores, supra, at 58-59; Marin & Lee, supra, at 31- 
+
+
+46 
+
+
+plans may create perverse incentives, encouraging African- 
+American and Hispanic parents to keep their children in 
+low-performing, segregated schools, discouraging students 
+from taking challenging classes in the interest of boosting 
+class rank, and deterring students from _ pursuing 
+extracurricular activities.” 
+
+
+More fundamentally, even were the percentage plans 
+proffered by the United States shown eventually to have 
+some moderate success in achieving racial and ethnic 
+diversity, they would require institutions of higher 
+education that seek to enroll a highly qualified, broadly 
+diverse student body to radically alter their missions. In 
+Michigan, such a plan would be destructive. 
+
+First, imposition of a percentage plan in Michigan would 
+fundamentally change the composition of LS&A’s student 
+body, on which the school’s character, reputation, and 
+educational excellence depends. With their exclusive focus 
+on class rank, percentage plans are incompatible with the 
+individualized, “whole-person” file review that LS&A 
+employs and that Justice Powell praised. See Bakke, 438 
+U.S. at 318. Rather than focusing separately on each of the 
+ways in which an individual might contribute to the overall 
+strength and diversity of the class, percentage plans are a 
+blunt instrument that deprives admissions professionals of 
+
+
+race-conscious scholarship, recruitment, and support programs). The 
+legality of these efforts may well be at issue herein. See, e., Podberesky 
+v. Kirwan, 38 F 3d 147 (4th Cir. 1994). 
+
+
+he position of the United States is in direct tension with national 
+efforts to desegregate secondary education and encourage mobility out of 
+low-performing schools, for example, through the No Child Left Behind 
+Act, Pub. L. No. 107-110, § 580100 (A), 5301(a)(5), 115 Stat. 1425, 1806 
+(2002) (codified at 20 U.S.C. § 7231). 
+
+
+See Selingo, supra, at A31 (noting that Florida’s percentage plan 
+penalizes students at more competitive high schools and generally 
+excludes strong minority students in integrated schools and magnet 
+programs). 
+
+
+47 
+
+
+the flexibility to achieve the broad diversity that is crucial to 
+the University’s mission. 
+
+For this reason, percentage plans cannot be considered 
+more narrowly tailored to achieve the genuine compelling 
+interest—the educational benefits of diversity—then the 
+current LS&A admissions system. Indeed, in subordinating 
+the interest in the whole-file review that Justice Powell 
+emphasized to the interest in enrolling a certain percentage 
+of minority applicants, these plans more closely resemble the 
+Davis quota than either the Harvard plan or LS&A’s 
+admissions program. 
+
+Percentage plans also would hinder the University’s 
+ability to maintain its character as a national institution with 
+a geographically diverse student body. Except for the 
+University of California’s campuses at Berkeley and Los 
+Angeles, none of the three percentage-plan States’ systems 
+includes a flagship campus comparable to the University of 
+Michigan at Ann Arbor,“ and the student body at LS&A is 
+by far the most national in scope.” In that sense, the 
+University is similarly situated to many selective private 
+
+
+“ It is telling, therefore, that Berkeley's and UCLA’s ability to 
+retain African-Americans, Hispanics, and Native 
+
+
+“ While LS&A draws more than half its applicants and one-third of 
+its student body from out-of-state, the same is not true of the flagship 
+institutions in States with percentage plans. In 2001, 14% of University of 
+Texas-Austin applicants and 9.5% of Texas A&M applicants were non- 
+Texans, and out-of-state students comprised only around 7% and 5%, 
+respectively, of those schools’ freshman classes. See Texas Higher 
+
+
+undergraduate enrollment of just under 10%, see http://osr4.berkeley.edu/, 
+and at UCLA such enrollment is a mere 6%, see http://www.ucla.edu. 
+
+
+48 
+
+
+institutions. The effect of such a sea change on its ability to 
+define itself cannot be overstated: the University would be 
+an entirely different institution. 
+
+Second, a percentage plan in Michigan could not 
+possibly generate a racially and ethnically diverse student 
+pool. California, Florida, and Texas all are extremely 
+populous States with very substantial populations of both 
+African-Americans and Hispanics.“ Each encompasses 
+numerous geographical areas that are majority-minority, 
+and correspondingly embraces relatively large numbers of 
+high schools in which African-Americans and Hispanics form 
+the overwhelming majority of students at all levels of class 
+rank. While Michigan’s secondary school system is highly 
+segregated by race, the overwhelming concentration of 
+African-Americans in the Detroit area means that the 
+statewide number of majority-minority schools is dwarfed 
+by the far greater number of Michigan schools that are 
+virtually all-white. See CAJA 1985, 1951. Indeed, Michigan 
+is overwhelmingly white.“ Hispanics and Native Americans 
+
+
+“See Horn & Flores, supra, at 27. For example, in Florida’s 
+populous Miami-Dade , 60% of the 0 
+5 —— — — 
+According to the 2000 U.S. Census, among Michigan residents of 
+15-19 years of age, 75.7% were white, 15.2% African-American, 4.3% 
+Hispanic, % Native American, and 1.8% Asian-American. See 
+http://factfinder.census.gov/serviet. The pool of potential minority college 
+
+
+49 
+
+
+are not a majority in any county or school district in 
+Michigan. See id. at 1985-88, 1965-67 (Table 3), 1974 (Table 
+7). 
+
+Thus, even were it otherwise feasible for the University 
+to implement some sort of high school-based percentage plan 
+without fundamentally altering its very identity—which it 
+plainly is not—the effects on diversity would be disastrous, 
+particularly with regard to Hispanic students. The 
+statistical reality is that infinitesimal numbers of minorities 
+would be admitted through such a program, except through 
+a small number of primarily African-American high schools 
+in the urban Detroit area. Because virtually all of LS&A’s 
+Hispanic students come from outside the State of Michigan, 
+under a percentage plan, LS&A would be hamstrung in its 
+ability to enroll such students. And its African-American 
+student population would be dominated by students from a 
+small geographical area, frustrating the interest in 
+geographic and other diversity within all sectors of the 
+student body. 
+
+This Court has taught that a race-neutral approach is 
+“viable” for purposes of narrow tailoring only if that 
+approach would be “comparably consistent” with, or better 
+satisfy, the other traditional, non-racial goals also at stake. 
+Easley v. Cromartie, 582 U.S. 234, 258 (2001); see also 
+Wygant, 476 U.S. at 280 n.6 (an alternative must “promote 
+the substantial interest about as well and at tolerable 
+administrative expense”). That is not the case here. The 
+University is not required to adopt a proposed race-neutral 
+alternative that would undermine traditional admissions 
+standards, depriving it of the ability to judge applicants as 
+individuals and admit a class that, viewed collectively, brings 
+to the table a stimulating mix of talents, perspectives, 
+backgrounds, and academic interests. 
+
+
+applicants is even smaller: among Michigan students attending the 12th 
+grade of high school in the 2000-2001 school year, 83% were white, 12% 
+African-American, 2% Hispanic, 2% Asian-American, and 1% Native 
+American. See http://nces.ed.gov/ccd/bat. 
+
+
+50 
+
+
+The University of Michigan has a substantial interest in 
+—— — — lective instituti 
+of higher learning, seeking to enroll a diverse array of the 
+best students from within the State and beyond its borders. 
+The University’s current admissions system represents a 
+careful and measured effort to tailor its admissions 
+
+
+CONCLUSION 
+
+
+For the foregoing reasons, the judgment of the district 
+court should be affirmed. 
+
+
+Respectfully submitted, 
+MARVIN KRISLOV JOHN H. PICKERING 
+JONATHAN ALGER JOHN PAYTON 
+UNIVERSITY OF MICHIGAN Counsel of Record 
+OFFICE OF THE VICE PRESIDENT  BRIGIDA BENITEZ 
+AND GENERAL COUNSEL STUART F. DELERY 
+4010 Fleming Admin. Bldg. CRAIG GOLDBLATT 
+503 Thompson Street ANNE HARKAVY 
+Ann Arbor, MI 48109 TERRY A. MARONEY 
+WILMER, CUTLER & PICKERING 
+JEFFREY LEHMAN 2445 M Street, N.W. 
+EVAN CAMINKER Washington, DC 20037 
+UNIVERSITY OF MICHIGAN (202) 663-6000 
+Law SCHOOL 
+625 South State Street MAUREEN E. MAHONEY 
+Ann Arbor, MI 48109 J. SCOTT BALLENGER 
+NATHANIEL A. VITAN 
+PHILIP J. KESSLER LATHAM & WATKINS 
+LEONARD M. NIEHOFF 555 Eleventh Street, N.W. 
+BUTZEL LONG Suite 1000 
+350 South Main, Suite 300 Washington, DC 20004 
+Ann Arbor, MI 48104 
+Counsel for Respondents 
+
+
+FEBRUARY 2003 
+
+

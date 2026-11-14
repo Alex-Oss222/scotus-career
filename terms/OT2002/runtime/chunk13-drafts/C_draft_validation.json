@@ -1,0 +1,89 @@
+[
+  {
+    "case": "Sell v. United States",
+    "blocks_match": true,
+    "assignment_placeholders": 1,
+    "publication_placeholders": 1,
+    "explanation_word_counts": [
+      {
+        "holding": "### I. Immediate appeal protects the refusal interest before medication",
+        "words": 129
+      },
+      {
+        "holding": "### II. Prosecution alone can justify medication only on an individualized showing protecting a fair trial",
+        "words": 269
+      },
+      {
+        "holding": "### III. The asserted freedom-of-thought interest does not categorically bar justified restoration",
+        "words": 73
+      },
+      {
+        "holding": "### IV. The present authorization fails the required prosecution-specific inquiry",
+        "words": 107
+      }
+    ],
+    "word_question_mark_anomalies": 0
+  },
+  {
+    "case": "Gratz v. Bollinger",
+    "blocks_match": true,
+    "assignment_placeholders": 1,
+    "publication_placeholders": 1,
+    "explanation_word_counts": [
+      {
+        "holding": "### I. The current competitive barrier presents a live controversy",
+        "words": 118
+      },
+      {
+        "holding": "### II. This automatic racial award fails the existing substantial-justification standard",
+        "words": 182
+      },
+      {
+        "holding": "### III. The unjustified intentional treatment violates Title VI",
+        "words": 65
+      },
+      {
+        "holding": "### IV. The same mechanism denies equal educational-contract opportunity under \u00a71981",
+        "words": 95
+      },
+      {
+        "holding": "### V. The intervenors' corrective defense does not validate the 1995\u20131998 mechanism",
+        "words": 240
+      },
+      {
+        "holding": "### VI. The two unreviewed immunity dispositions remain binding within their actual scope",
+        "words": 77
+      },
+      {
+        "holding": "### VII. Relief must distinguish competitive injury from lost admission and preserve the separate policy periods",
+        "words": 123
+      }
+    ],
+    "word_question_mark_anomalies": 0
+  },
+  {
+    "case": "Grutter v. Bollinger",
+    "blocks_match": true,
+    "assignment_placeholders": 1,
+    "publication_placeholders": 1,
+    "explanation_word_counts": [
+      {
+        "holding": "### I. The actual Law School program satisfies the common substantial-justification standard",
+        "words": 253
+      },
+      {
+        "holding": "### II. Alternatives and continued operation require continuing factual justification",
+        "words": 131
+      },
+      {
+        "holding": "### III. Title VI permits the justified competitive consideration established here",
+        "words": 101
+      },
+      {
+        "holding": "### IV. Section 1981 protects equal educational-contract opportunity under the justified-competition construction",
+        "words": 181
+      }
+    ],
+    "word_question_mark_anomalies": 0
+  }
+]

@@ -1,0 +1,2981 @@
+NZ. 
+No. 02-241 FEB 18 200; f 
+IN THE — a 
+Supreme Court of the Anited States 
+BARBARA GRUTTER, 
+Petitioner, 
+V. 
+
+
+LEE BOLLINGER, JEFFREY LEHMAN, 
+DENNIS SHIELDS, AND THE BOARD OF 
+REGENTS OF THE UNIVERSITY OF MICHIGAN, 
+
+
+Respondents. 
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE SIXTH CIRCUIT 
+BRIEF FOR RESPONDENTS 
+MARVIN KRISLOV MAUREEN E. MAHONEY 
+JONATHAN ALGER Counsel of Record 
+UNIVERSITY OF MICHIGAN J. SCOTT BALLENGER 
+~~ OFFICE OF THE VICE NATHANIEL A. VITAN 
+PRESIDENT AND LATHAM & WATKINS LLP 
+GENERAL COUNSEL 555 Eleventh Street, N.W. 
+4010 Fleming Admin. Bldg. Suite 1000 
+503 Thompson Street Washington, DC 20004 
+Ann Arbor, MI 48109 (202) 637-2200 
+EVAN CAMINKER JOHN H. PICKERING 
+UNIVERSITY OF MICHIGAN JOHN PAYTON 
+Law SCHOOL BRIGIDA BENITEZ 
+625 South State Street STUART DELERY 
+Ann Arbor, MI 48109 CRAIG GOLDBLATT 
+ANNE HARKAVY 
+PHILIP J. KESSLER TERRY A. MARONEY 
+LEONARD M. NIEHOFF WILMER, CUTLER & 
+BUTZEL LONG PICKERING 
+350 South Main, Suite 300 2445 M Street, N.W. 
+Ann Arbor, MI 48104 Washington, DC 20037 
+
+
+Counsel for Respondents 
+
+
+i 
+QUESTIONS PRESENTED 
+
+
+1. Whether this Court should reaffirm its decision in 
+Regents of University of California v. Bakke, 488 U.S. 265 
+(1978), and hold that the educational benefits that flow from 
+a diverse student body to an institution of higher education, 
+its students, and the public it serves, are sufficiently 
+compelling to permit the school to consider race and/or 
+ethnicity as one of many factors in making admissions 
+decisions through a “properly devised” admissions program. 
+
+2. Whether the Court of Appeals correctly held that 
+the University of Michigan Law School’s admissions 
+program is properly devised. 
+
+
+QUESTIONS PRESENTED 
+TABLE OF CONTENTS 
+TABLE OF AUTHORITIES 
+STATEMENT OF THE CASE 
+SUMMARY OF ARGUMENT 
+ARGUMENT 
+I. 
+
+
+ii 
+
+
+TABLE OF CONTENTS 
+
+
+THE LAW SCHOOL HAS A 
+COMPELLING INTEREST IN THE 
+LIMITED, COMPETITIVE CON- 
+SIDERATION OF RACE IN 
+ADMISSIONS TO SECURE THE 
+EDUCATIONAL BENEFITS THAT 
+FLOW FROM STUDENT BODY 
+DIVERSITY 
+
+
+14 
+
+
+A. This Court Held In Bakke That 
+Institutions Of Higher Education 
+May Consider The Race Of 
+Applicants As One Factor Among 
+
+
+Many When Attempting To 
+Assemble A Diverse, Racially 
+Integrated Student Body 
+
+
+14 
+
+
+B. Settled Principles Of Stare Decisis 
+Strongly Counsel Against Over- 
+i ke 
+
+
+17 
+
+
+ruling Bak 
+
+
+C. Educational Experience, Social 
+Science Research, And Common 
+Sense Confirm That Diversity Has 
+Compelling Educational Benefits 
+
+
+21 
+
+
+3 — . — 
+
+
+II. 
+
+
+CONCLUSION 
+
+
+iii 
+TABLE OF CONTENTS—CONTINUED 
+D. The Law School's Educational 
+
+
+Objectives Are Sufficiently Com- 
+pelling To Satisfy Striet Serutiny 
+
+
+PAGE 
+
+
+27 
+
+
+THE LAW SCHOOL’S ADMISSIONS 
+POLICIES ARE NA 
+TAILORED —— 
+
+
+A. There Are No Race-Neutral 
+Alternatives Capable Of Produeing 
+A Diverse Student Body Without 
+Abandoning Academic Selectivity 
+
+
+B. The Law School Does Not Employ 
+
+
+Quotas Or Set-Asides 
+
+
+C. The Law School’s Consideration Of 
+
+
+Race Is Individualized, Competitive, 
+Modest In Scope, And Does Not 
+Impose An Undue Burden On Non- 
+Minority Applicants 
+
+
+D. The Law School’s Special Attention 
+
+
+To African-American, Hispanic And 
+Native American Applicants Is 
+Based On Reasoned Principle 
+
+
+49 
+
+
+iv 
+
+
+TABLE OF AUTHORITIES 
+CASES 
+PAGE(S) 
+
+Adarand Constructors, Inc. v. Pena, 
+
+515 U.S. 200 (1995) 17, 18, 27, 28, 29 
+Arizona v. Ramsey, 
+
+467 U.S. 208 (1984) 17 
+Austin v. Michigan State Chamber of Commerce, 
+
+494 U.S. 652 (1990) 28 
+
+
+Baldasar v. Illinois, 
+446 U.S. 222 (1980) 17 
+
+
+Board of Regents of University of Wisconsin System 
+v. Southworth, 
+
+
+529 U.S. 217 (2000) . 29, 37 
+Brown v. Board of Education, 
+
+347 U.S. 483 (1954) . 21 
+Bush v. Vera, 
+
+517 U.S. 952 (1996) 28 
+City of Richmond v. J.A. Croson Co., 
+
+488 U.S. 469 (1989) passim 
+Davis v. Halpern, 
+
+768 F. Supp. 968 (E.D.N.Y. 1991) 16 
+
+
+Dickerson v. United States, 
+530 U.S. 428 (2000) 18 
+
+
+V 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+General Building Contractors Association v. 
+Pennsylvania, 
+458 U.S. 375 (1982) 
+
+
+PAGE(S) 
+
+
+Healy v. James, 
+408 U.S. 169 (1972) 
+
+
+Hirabayashi v. United States, 
+320 U.S. 81 (1943) 
+
+
+Hopwood v. Texas, 
+78 F.3d 932 (5th Cir. 1996) 
+
+
+Hunt v. Cromartie, 
+526 U.S. 541 (1999) 
+
+
+J.E.B. v. Ala. ex rel. T.B., 
+511 U.S. 127 (1994) 
+
+
+Johnson v. Transportation Agency, 
+41 Fair Empl. Prac. Cas. (BNA) 476 (1982) 
+
+
+Johnson v. Transportation Agency, 
+480 U.S. 616 (1987) 
+
+
+Jones ex rel. Michele v. Board of Education, 
+632 F. Supp. 1319 (E.D.N.Y. 1986) 
+
+
+18, 39, 41 
+
+
+Keyishian v. Board of Regents, 
+385 U.S. 589 (1967) 
+
+
+Local 28 of Sheet Metal Workers’ International 
+Association v. EEOC, 
+478 U.S. 421 (1986) 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+PAGE(S) 
+
+Marks v. United States, 
+
+430 U.S. 188 (1977) 16 
+Martin v. Charlotte-Mecklenburg Board of 
+
+Education, 
+
+475 F. Supp. 1318 (W. D. N. C. 1979), aff'd, 626 
+
+F.2d 1165 (4th Cir. 1980) 16 
+McDonald v. Hogness, 
+
+598 P.2d 707 (Wash. 1979) 16 
+Metro Broadcasting, Inc. v. FCC, 
+
+497 U.S. 547 (1990) passim 
+Miller v. Johnson, 
+
+515 U.S. 900 (1995) 30 
+Nichols v. United States, 
+
+511 U.S. 738 (1994) 17 
+Planned Parenthood of Southeastern Pennsylvania 
+
+v. Casey, 
+
+505 U.S. 833 (1992) 17, 18, 19 
+Regents of University of Michigan v. Ewing, 
+
+474 U.S. 214 (1985) 29 
+Regents of University of California v. Bakke, 
+
+438 U.S. 265 (1978) passim 
+Roe v. Wade, 
+
+410 U.S. 113 (1973) 28 
+Shaw v. Reno, 
+
+
+509 U.S. 630 (1993) 30, 35 
+
+
+vii 
+
+
+TABLE OF AUTHORITIES—COonNTINUED 
+
+
+PAGE(S) 
+
+Smith v. University of Washington Law School, 
+
+233 F.3d 1188 (9th Cir. 2000), cert. denied, 532 
+
+U.S. 1051 (2001) 17 
+Sweatt v. Painter, 
+
+339 U.S. 629 (1950) 14, 21 
+Sweezy v. New Hampshire, 
+
+354 U.S. 234 (1957) 28, 29 
+Talbert v. City of Richmond, 
+
+648 F. 2d 925 (4th Cir. 1981) 16 
+United States v. Brown University, 
+
+5 F.3d 658 (3d Cir. 1993) 16 
+United States v. Virginia, 
+
+518 U.S. 515 (1996) 26, 30 
+University & Community College System of Nevada 
+
+v. Farmer, 
+
+930 P.2d 730 (Nev. 1997) 16 
+
+
+UWM Post, Inc. v. Board of Regents of University of 
+Wisconsin System, 
+
+
+774 F. Supp. 1163 (E.D. Wis. 1991) 16 
+Uzzell v. Friday, 
+
+592 F. Supp. 1502 (M.D.N.C. 1984) 16 
+Village of Arlington Heights v. Metropolitan 
+
+Housing Development Corp., 
+
+429 U.S. 252 (1977) 35 
+
+
+viii 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+PAGE(S) 
+
+Washington v. Seattle School District No. 1, 
+
+458 U.S. 457 (1982) 21 
+Widmar v. Vincent, 
+
+454 U.S. 263 (1981) 29 
+Wygant v. Jackson Board of Education, 
+
+476 U.S. 267 (1986) passim 
+
+STATUTES AND REGULATIONS 
+
+20 U.S.C. § 1094(a)(17) 43 
+Pub. L. No. 107-110, § 5801(a)(4)(A), 115 Stat. 1425, 
+
+1806 (2002) (codified at 20 U.S.C. § 7231) 22 
+34 C.F.R. § 100.6(b) 43 
+41 C. F. R. § 60-2.16(a) 39 
+41 C. F. R. & 60-2.16(e)(1) 39 
+41 C. F. R. § 60-2. 160e) (3) 39 
+
+LEGISLATIVE HISTORY 
+
+44 Fed. Reg. 58,509 (Oct. 10, 1979) 17, 18 
+56 Fed. Reg. 64,548 (Dec. 10, 1991) 19 
+59 Fed. Reg. 8756 (Feb. 23, 1994) 19 
+H.R. Rep. No. 92-576 (1971) 22 
+
+
+H.R. Rep. No. 106-517 (2000) ’ 23 
+
+
+— —— = 
+
+
+ix 
+
+
+TABLE OF AUTHORITIES—ConrTINUED 
+
+
+PAGE(S) 
+Pub. L. No. 92-318, §§ 701-720, 86 Stat. 354 (1972). . . . 21 
+Pub. L. No. 98-377, §§ 701-712, 98 Stat. 1299 (1984)............. 21 
+S. Rep. No. 92-61 (1971) : 22 
+OTHER AUTHORITY 
+
+ABA Accreditation Standards Interpretation 101-1 
+
+(1996) 43 
+Aleinikoff, A Case For Race-Consciousness, 91 
+
+Colum. L. Rev. 1060, 1066 (1991) 23 
+Ayres & Siegelman, Race and Gender 
+
+Discrimination in Bargaining for a New Car, 
+
+85 Am. Econ. Rev. 304 (June 1995) 23 
+Baugh, Racial Identification by Speech, 75 Am. 
+
+Speech 362 (2000) 23 
+Blasi, Bakke as Precedent: Does Mr. Justice Powell 
+
+Have a Theory?, 67 Cal. L. Rev. 21, 30 (1979). . . 17 
+Bowen & Bok, Shape of the River (2000) 9, 36, 46 
+Bowen & Rudenstine, Race-Sensitive Admissions: 
+
+Back to Basics, Chron. Higher Educ., Feb. 7, 
+
+2008, at B7 35 
+
+
+X 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+PAGE(S) 
+
+
+Casper, Statement on Affirmative Action at Stanford 
+University (Oct. 4, 1995), available at 
+http://www.stanford.edu/dept/pres- 
+provost/president/speeches/951004affaction.htm1........ 38 
+
+
+Dixon, Bakke: A Constitutional Analysis, 67 Cal. L. 
+Rev. 69 (1979) 17 
+
+
+Federal Rule of Evidence 201 5 
+
+
+Massey & Lundy, Use of Black English and Racial 
+Discrimination in Urban Housing Markets: 
+New Methods and Findings, 36 Urban Affairs 
+Rev.,452 (Mar. 2001) 23 
+
+
+Mills, Diversity in Law Schools: Where Are We 
+Headed in the Twenty-First Century?, 33 U. 
+Tol. L. Rev. 119 (2001) 34 
+
+
+Moran, Diversity and its Discontents: The End of 
+Affirmative Action at Boalt Hall, 88 Cal. L. 
+Rev. 2241 (2000) 37 
+
+
+Office of Legal Councsel, Department of Justice, 
+Legal Guidance on the Implications of the 
+Supreme Court’s Decision in Adarand 
+Constructors, Inc. v. Pena (June 28, 1995) 39 
+
+
+Orfield & Whitla, Diversity and Legal Education: 
+Student Experiences in Leading Law Schools, 
+in Diversity Challenged: Evidence on the 
+Impact of Affirmative Action (Orfield & 
+Kurlaender eds. 2001) 47 
+
+
+— rr 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES—CONTINUED 
+
+
+Rice, Stanford Class Day Speech (June 12, 1999), 
+available at http://www.stanford.edu/dept/ 
+
+
+news/report/news/june16/classday-616.html................. 
+
+
+Scalia, Commentary, The Disease as Cure: “In 
+Order to Get Beyond Racism, We Must First 
+Take Account of Race.”, 
+
+1979 Wash. U. L.Q. 147 
+
+
+Wightman, The Threat to Diversity in Legal 
+Education: An Empirical Analysis of the 
+Consequences of Abandoning Race as a Factor 
+
+
+in Law School Admission Decisions, 72 N.Y.U. 
+
+
+L. Rev. 1 (1997) 
+
+
+PAGE(S) 
+
+
+17 
+
+
+1 
+
+
+STATEMENT OF THE CASE 
+
+There is no genuine dispute in this case about the 
+relevant historical facts, and the record evidence establishes 
+three central realities that provide firm snpport for the 
+Sixth Circuit’s conclusion that the admissions program in 
+use at the University of Michigan Law School (“the Law 
+School”) does not violate the Equal Protection Clause. 
+First, academic selectivity and student body diversity, 
+including racial diversity, are both integral to the 
+educational mission of the Law School. Second, the Law 
+School successfully realizes both goals through an 
+admissions program that is “virtually indistinguishable” 
+from the Harvard plan that five Justices approved in 
+Bakke.’ It evaluates the potential contributions and 
+academic promise of every individual and does not employ 
+quotas or set-asides. Third, no honestly colorblind 
+alternative policy could produce educationally meaningful 
+racial diversity at present without enrolling students who 
+are academically unprepared for the rigorous legal 
+education that the Law School offers. 
+
+There is accordingly no way for this Court to reverse 
+the Sixth Circuit’s decision without “break[ing] ... new 
+ground.” U.S. Br. at 10. This Court must instead decide 
+whether, consistent with Bakke, the finest law schools 
+throughout the country may continue to train this Nation’s 
+leaders in integrated classrooms—as they have done so 
+effectively for the past three decades—or whether they now 
+must choose between maintaining academic distinction and 
+
+
+avoiding very substantial resegregation.” 
+
+
+Pet. App. 29a. “Pet. App.” refers to the Petition Appendix; “JA” 
+refers to the Joint Appendix filed in this Court; “CAJA” refers to the 
+Joint Appendix filed in the Sixth Circuit; “Tr.” refers to the transcript of 
+the trial, Record 331 (Vol. 1) through Record 345 (Vol. 15). 
+
+Because this Court has held that Title VI imposes substantive 
+obligations coextensive with the Equal Protection Clause, the decision in 
+this case will bind private as well as public institutions. Pet. Br. at 20. 
+Petitioner offers no basis for applying any different standards under 42 
+U.S.C. § 1981, and failed to preserve that argument in any event. See also 
+
+
+2 
+
+
+1. The Law School is among the Nation’s leading law 
+schools. It has achieved that preeminence by carefully 
+selecting and training students of exceptional promise to 
+serve as leaders of the profession and of our Nation.“ The 
+Law School has determined that effective pursuit of this 
+mission requires a curriculum that “firmly links professional 
+training to the opportunity for reflection about many of our 
+most fundamental public questions, such as ... the effects of 
+religious, racial and gender intolerance in our culture” 
+(CAJA 1658), and integrated classes comprising a “mix of 
+students. with varying backgrounds and experiences who 
+will respect and learn from each other,” each of whom is 
+“among the most capable students applying to American law 
+schools in a given year” and has a “strong likelihood of 
+succeeding in the practice of law and contributing in diverse 
+ways to the well-being of others.” JA 110. 
+
+Neither the petitioner nor the United States questions 
+
+
+tze legitimacy or importance of these goals to the Law 
+
+
+School’s mission. Extensive (and virtually unchallenged) 
+evidence confirms that a racially diverse student body helps 
+students to develop the interpersonal skills necessary to 
+“work more effectively and more sensitively” in a world that 
+“is and will be multi-racial” (CAJA 2243); helps to dispel 
+historic stereotypes (CAJA 7697-99); and introduces 
+students to unfamiliar experiences and perspectives to 
+promote the “mutual respect” and “sympathetic 
+engagement with the experiences of other people that are 
+basic to the mature and responsible practice of law” (CAJA 
+5106). See infra pp. 21-26. The evidence also proves that 
+fully realizing these benefits requires “meaningful numbers 
+
+or a “critical mass” of minority students (JA 120)—enough 
+to create significant opportunities for personal interaction, 
+to show that there is no consistent “minority viewpoint” on 
+
+
+Gen. Bldg. Contractors Ass’n v. Pa., 458 U.S. 375, 389-90 (1982) (declining 
+to impose broader obligations under § 1981). 
+
+8 JA 110. The Law School receives more than 3500 applications each 
+year and makes approximately 1300 offers of admission to fill a class of 
+around 350 students. See generally JA 156-203. 
+
+
+3 
+
+
+particular issues, Pet. App. 215a, and to ensure that 
+“minority students do not feel isolated or like spokespersons 
+for their race, and feel comfortable discussing issues freely 
+based on their personal experiences.” Jd. at 28a. 
+
+Based on the persuasive weight of the educational 
+evidence, the district court emphasized that it “d{id] not 
+doubt that racial diversity in the law school population” 
+promotes “cross-racial understanding,” helps to break down 
+racial stereotypes, “enables [students] to better understand 
+persons of different races and better equips them to serve as 
+lawyers in an increasingly diverse society and an 
+increasingly competitive world economy.” Jd. at 246a. The 
+court also acknowledged that the benefits of diversity are 
+“important and laudable,” because “classroom discussion is 
+livelier, more spirited, and simply more enlightening and 
+interesting” when the students have “the greatest possible 
+variety of backgrounds.” Jd. at 246a, 244a. Indeed, 
+petitioner acknowledged that “no one is contesting that 
+there are educational benefits of diversity. It’s simply not 
+an issue in the case.” CAJA 7192. 
+
+2. Petitioner and the United States nonetheless 
+challenge the admissions policy that has been carefully 
+crafted to achieve meaningful educational diversity. In 
+1992, the Law School charged a distinguished committee of 
+legal scholars to design a policy that would further its 
+mission and comply with this Court’s decision in Bakke. 
+CAJA 7486-87, 7546-47. The policy they designed—like the 
+Harvard plan it was modeled on—openly acknowledges that 
+the racial background of a minority applicant can be one of 
+many factors relevant to the admissions decision. JA 121. 
+Petitioner’s own expert conceded, however, that race is not 
+the predominant factor under that policy. Tr. 2:211-13. 
+Instead, its hallmark is a focus on academic capabilities 
+coupled with a flexible assessment of every individual 
+applicant’s talents, experiences and potential “to contribute 
+to the learning of those around them.” JA 111. 
+
+First, the policy requires the director of admissions, in 
+consultation with the faculty, to evaluate each applicant 
+based on all of the information available in the file. JA 114- 
+
+
+1 
+
+
+21. The Law School does not use any formulas or set 
+criteria for admission. The policy requires careful 
+consideration of an applicant’s undergraduate grades and 
+LSAT score because they are important (though imperfect) 
+predictors of academic success in law school, and the 
+minimal eriterion is that no applicant should be admitted 
+unless we expect that applicant to do well enough to 
+graduate with no serious academic problems.“ But It lhere 
+is no combination of grades and test scores below which 
+an applicant will automatically be denied admission, or 
+above which admission is guaranteed.” Pet. App. 5a. The 
+policy instead requires the admissions office to look beyond 
+grades to other criteria important to the Law School’s 
+educational objectives, such as experiences. likely to be 
+different from those of most students.” JA 114. As Dean 
+Jeffrey Lehman explained, an applicant's potential 
+“contribution to the diversity of the a is an 
+important of his or her qualifications. Tr. 5:195. 
+Second, the policy does not restrict the types of 
+diversity contributions eligible for “substantial weight” in 
+the admissions process. JA 120. The Law School seriously 
+considers each “applicant’s promise of making a notable 
+contribution to the class by way of a particular strength, 
+attainment or characteristic—e.g., an unusual intellectual 
+achievement, employment experience, nonacademie 
+performance, or personal background.” JA 84. The Law 
+School’s policy explains that effective pursuit of its 
+educational mission has been greatly furthered by the 
+presence of “meaningful numbers” or a “critical mass of 
+“students from groups which have been historically 
+discriminated against, like African-Americans, Hispanics, 
+and Native Americans” because these students “are 
+particularly likely to have experiences and perspectives of 
+
+
+4 JA 111-13; Tr. 14:110-11 (Lempert). As Dean Lehman explained, 
+
+“there is one absolute baseline criterion upon which we will not 
+” and that is that wle don’t want to admit students who we 
+
+think won’t be able to make it. It’s not right and it’s not fair.” Tr. 5:147. 
+
+5 Members of these groups are referred to as “minority” students. 
+
+
+5 
+
+
+special importance to our mission.” JA 120. But many other 
+diversity-related factors are seriously considered, such as a 
+record of “leadership, work experience, [and] unique talents 
+or interests.” Pet. App. 27a-28a; see Tr. 1244-45. 
+
+Third, the Law School’s process ensures that candidates 
+have an opportunity to share all relevant information about 
+their background for consideration. The application 
+requests a personal statement, letters of recommendation, 
+and an essay describing the ways in which the applicant will 
+contribute to the life and diversity of the Law School. JA 
+83-84. The background and experiences revealed by the 
+application “commonly” make a difference in the admissions 
+decision. Tr. 1:244-45. By applying this flexible policy, the 
+Law School has generally succeeded in enrolling classes of 
+superb students from uiverse backgrounds that include 
+enough minority students to provide meaningful integration 
+of its classrooms and residence halls. 
+
+3. There is literally no chance that these results could 
+be sustained under any race-blind admissions program. In 
+1997 when petitioner applied, there were only 67 minority 
+ar~licants, compared to 1236 white and Asian American 
+appucants, in the LSAT range (164+) from which over 90% 
+of the admitted white students were drawn. JA 172-79. 
+Competition for these minority applicants is extremely 
+fierce, and the Law School cannot hupe to enroll more than a 
+few of them. In 2000, there were only 26 African-American 
+applicants nationwide with at least a 3.5 GPA and a 165 on 
+the LSAT compared to 3173 whites and Asian Americans.“ 
+Any race-blind methodology applied to the upper and 
+middle grade and test score ranges will therefore invariably 
+select a class with very few minority students. 
+
+
+And there were only 170 African-Americans with at least a 3.0 GPA 
+and 160 LSAT, compared to 11,348 whites and Asian Americans. Law 
+School Admissions Council, Nationa] Statistical Report, 1995-96 through 
+1999-00 (2001) (lodged with the Court by LSAC). Because the United 
+States has relied on data outside the record to support its assertion that 
+race-neutral alternatives are available, we reference some responsive 
+information appropriate for judicial notice. See Fed. R. Evid. 201. 
+
+
+6 
+
+
+of race-neutral alternatives for trial (CAJA 99), it found “no 
+reason to doubt” that the number of minority students 
+would drop “sharply and dramatically” under a “race-blind 
+admission system” that continues to give substantial weight 
+to grades and LSAT scores. Pet. App. 229a. An unrebutted 
+expert study demonstrated that a class of 400 students 
+selected that way would have included a total of 16 African- 
+Ameri Hispanic and Native American students—down 
+— — School's policy. CAA 6047. The 
+educational benefits that depend upon opportunities for 
+frequent interaction among students of different races 
+cannot be achieved with so few minority enrollments.’ 
+
+The district court nevertheless faulted the Law School 
+
+
+application s that satisfy minimum quantitative credentials 
+through a “lottery.” Pet. App. 25la. The Sixth Circuit 
+
+
+— — — — — — — 
+
+
+7 
+
+
+rejected that reasoning. It held that “Bakke and the 
+Supreme Court’s subsequent. decisions [do not] require the 
+Law School to choose between meaningful racial and ethnic 
+diversity and academic selectivity.” Jd. at 35a. Petitioner 
+suggests that the Sixth Circuit’s decision should be reversed 
+because it applied de novo review to this and several other 
+issues, but the courts below clearly disagreed only as to 
+matters of law and legal characterization, not historical fact.’ 
+
+4. The district court similarly made no factual finding 
+that the Law School was administering a secret quota 
+forbidden by this Court’s decision in Bakke. See Pet. Br. at 
+41-42; U.S. Br. at 9. To the contrary, it acknowledged that 
+“the law school has not set aside a fixed number of seats for 
+underrepresented minority students, as did the medical 
+school in Bakke.” Pet. App. 248a. The district court did 
+reason that the admissions policy should be characterized as 
+the functional equivalent of a quota because the “practical 
+effect” of the policy has been to admit more than 10% 
+minorities each year. Id. The Sixth Circuit rejected that 
+legal conclusion, however, observing that the Harvard plan 
+also pursued “meaningful numbers of minority students” but 
+that did not make it a quota. Jd. at 27a-28a. 
+
+Indeed, the record confirms that the faculty members 
+who drafted the admissions policy in 1991 took precautions 
+to ensure that the policy would not be read to authorize, 
+require, or encourage admissions officers to admit a 
+predetermined number of minority applicants. An early 
+draft of the policy expressly stated that the Law School was 
+likely to obtain the benefits of a critical mass when minority 
+enrollment ranged between 11 and 17%. Pet. App. 225a. 
+The chair of the Committee responsible for developing the 
+policy explained that this range was derived from the 
+educational experience of the faculty in prior years. CAJA 
+7564-65. Although one member of the Committee advocated 
+that this numerical range should be retained in the final 
+
+
+abandoned by high-scoring students—who place great weight on 
+academic selectivity, and the national rankings driven by it. 
+ges infra pp. 38 n.51, 41 n.69. 
+
+
+8 
+
+
+icy because they were “just guidelines” and therefore 
+— ar Bakke,” the Committee rejected that 
+suggestion in order to avoid “the risk that exists when you 
+put numbers in, even as a guideline,” that a future 
+admissions officer might “see these numbers” and feel bound 
+by them. CAJA 7736 (Lehman). f 
+' Nor is there any evidence that the Law School officials 
+violated the intent of this policy by secretly directing the 
+admission of a i number of minority 
+applicants. Dean Lehman and other Law School officials 
+who administer the policy testified categorically that they 
+did not employ any numerical quota in assembling the 
+class." And the district court determined that they “acted 
+
+
+eS 
+
+
+9 
+
+
+exceptional academic promise and is broadly diverse in 
+attributes other than race. Jd. at 7251-54, 7521-26. 
+
+5. Petitioner also asks this Court to find that the “plus 
+factor” afforded to some minority applicants was just too 
+large. But the district court did not find that the Law 
+School could have admitted meaningful numbers of minority 
+applicants if it had assigned less weight to these applicants’ 
+contributions to racial diversity; or that the acknowledged 
+educational benefits could have been achieved with fewer 
+minority students; or that the plus factor was so large that 
+the minority students were not well qualified for the rigors 
+of the Law School’s demanding academic program. 
+Although the court found that the median undergraduate 
+GPA of every underrepresented minority group “has been 
+lower than the median GPA of Caucasians by approximately 
+one-tenth to three-tenths of a point” between 1995 and 2000, 
+and that the median LSAT has been approximately “seven 
+to nine points” lower,” it never questioned (and petitioner 
+stipulated) that all of the applicants admitted under the Law 
+School’s policy were qualified. CAJA 8785. The Law 
+School’s minority students have grades and scores which— 
+while not always as exceptional as many white and Asian 
+American admittees—nonetheless are superior to most 
+applicants nationwide. They graduate, pass the bar exam, 
+obtain judicial clerkships, and succeed in the practice of law 
+at rates essentially indistinguishable from their white and 
+Asian American classmates. Id. at 6222-23, 6243-58, 5870-81. 
+
+Petitioner nevertheless relies upon certain disparities 
+in numerical credentials reflected in her admissions “grids” 
+as proof that the program is not narrowly tailored to achieve 
+its educational goals. Pet. Br. at 5-10. These grids were 
+
+
+* Pet. App. 275a-76a. These disparities significantly overstate the size 
+of the Law School’s “plus factor.” As a vertical line drawn anywhere on 
+the graph at JA 219 will illustrate, there would be large differences in 
+average test scores between admitted white and minority students even 
+if the process were entirely race-blind—because most of the minority 
+students would still be in the bottom half of the pool. See Bowen & Bok, 
+Shape of the River 29, 42 (2000) (demonstrating that race-blind admissions 
+would eliminate only 14% of the test score gap at selective universities). 
+
+
+10 
+
+
+generated by her statistician. It is undisputed that the Law 
+School used nothing of the kind in its actual admissions 
+process.“ They do, however, illustrate two key points. 
+
+First, the grids reveal that an applicant’s college GPA, 
+LSAT score, and ethnic background all influence admissions 
+decisions, but even together those factors fail to explain the 
+outcomes—either within or across racial categories. More 
+than 40% of the admitted white and Asian American 
+applicants from 1995 to 2000 came from “cells” in which at 
+least 30% of the total white and Asian American applicants 
+were rejected, demonstrating that subjective factors make 
+the difference between acceptance and rejection for a great 
+many of them as well. 
+
+And those factors can be given substantial weight. 
+Even crediting the district court’s suggestion that diversity 
+considerations might outweigh differences of up to a third of 
+a letter grade or 7-9 points on the LSAT for minority 
+students, the record shows that white and Asian American 
+applicants frequently receive similar credit for other 
+diversity factors. Holding GPA constant at 3.5-3.74, 53 
+white or Asian American students were accepted between 
+1995 and 2000 with an LSAT of 160 or below, whereas 88 
+with an LSAT of 167 or above were rejected. Holding 
+LSAT constant at 164-166, 189 white or Asian American 
+applicants with a 3.49 GPA or lower were accepted over 283 
+with a 3.75 or better.“ Non-minority applicants are also 
+frequently accepted with grades and test scores lower than 
+minority applicants who are rejected. Sixty-nine minority 
+applicants were rejected between 1995 and 2000 with at 
+least a 3.5 GPA and a 159 or higher on the LSAT, while 85 
+white and Asian American applicants were accepted from 
+the same or lower cells.” These observations do not suggest 
+
+
+* 90, 7687-88; Tr. 5:139-42. 
+
+= These numbers woud be sgncandy higher but forthe fc thatthe 
+Law School naturally finds quite substantial diversity in a variety 
+putes hh Cote ee ee Se Le ae 
+with the highest academic credentials. JA 121 
+
+10 See generally JA 156-208. Note that petitioner's “Selected Minority” 
+grids exclude “Other Hispanic” applicants—all of whom are properly 
+
+
+1] 
+
+
+that race does not matter in the admissions process. The 
+grids demonstrate, however, that the Law School considers 
+race only in the context of an individualized review seriously 
+weighing many factors, including subjective non-racial 
+diversity factors that make a real and dispositive difference 
+for many white and Asian American applicants as well. 
+Second, the Law School’s individualized consideration of 
+racial background does not actually affect the outcome of the 
+overwhelming majority of the admissions decisions each 
+year, or unfairly burden other applicants who may have 
+higher test scores but who would not significantly enhance 
+the diversity of the class. Plaintiffs own expert testified 
+that he was “sure” that grades and test scores had the 
+“strongest association with admissions decisions” relative to 
+any other factors, including race. Tr. 2:211-13. 
+Approximately two-thirds of the Law School’s minority 
+applicants are denied admission each year, and in each of the 
+years between 1995 and 2000 the Law School denied 
+admission to a greater proportion of minority applicants 
+than majority applicants. CAJA 6045, 7585. Nor is there 
+any dispute that the average odds of admission for non- 
+minority applicants would have increased by less than 5% if 
+the Law School had not taken race into account as part of its 
+assessment of diversity contributions. Jd. at 6045. 
+Accordingly, petitioner’s “probabilities” and “odds 
+ratios” comparing white and minority applicants with 
+identical credentials (Pet. Br. at 8-10) would reveal nothing 
+unlawful even if the methodology were sound. See infra 
+p. 44. It would be surprising indeed, in a regime in which 
+race is given any weight, if minority applicants were not 
+admitted at substantially higher rates than otherwise 
+similar non-minority applicants. As the Sixth Circuit 
+
+
+included among the category described as Hispanic in the Law School 
+policy. CAJA 321, 477; see also, e., CAJA 7311 (confirming that some 
+minorities are rejected even though whites with lower quantitative 
+credentials are accepted) (Munzel); JA 182-83 (white applicant in 1998 in 
+LSAT 151-53/GPA 2.75-2.99 “cell” admitted while all five African- 
+American applicants in the same cell were rejected). 
+
+
+12 
+
+
+explained, petitioners have “concede[d] that all admitted 
+students are qualified,” and evidence that race “plays an 
+important role in some admissions decisions” is simply the 
+“logical result of reliance on the Harvard Plan.” Pet. App. 
+31a (emphasis added). 
+
+SUMMARY OF ARGUMENT 
+
+Twenty-five years ago, this Court resolved a bitter 
+national controversy over the constitutionality of race- 
+conscious admissions policies in its landmark decision in 
+Bakke. The essential holding of Bakke is that quotas and 
+set-asides are illegal, but that some attention may be paid to 
+race in the context of a competitive review of the ways that 
+each applicant will contribute to the overall diversity of the 
+student body. As the Sixth Circuit properly held, the Law 
+School’s admissions practices are “virtually 
+indistinguishable” from the Harvard College policy 
+specifically endorsed by five Justices in Bakke. Pet. App. 
+29a. Petitioner therefore cannot prevail unless the square 
+holding of Bakke is overruled, expressly or sub silentio. 
+
+No persuasive justification exists for making such a 
+radical and disruptive break with settled precedent. Bakke 
+has been relied upon by universities for decades with the 
+express authorization of the Department of Education, and 
+has become an important part of our national culture. It is 
+also clearly correct. Despite noble aspirations and 
+considerable progress, our society remains deeply troubled 
+by issues of race. Against that backdrop, there are 
+important educational benefits—for students and for the 
+wider society—associated with a diverse, racially integrated 
+student body. Indeed, petitioner does not disagree. In the 
+face of overwhelming educational and social science 
+evidence presented by the Law School, she conceded the 
+point in the district court. 
+
+The Law School’s admissions policy is cautious, limited, 
+and narrowly tailored to the pursuit of that compelling 
+educational goal. The heart of that policy is an individualized 
+review of the many different ways that each applicant might 
+contribute to the learning environment at the Law School, 
+and to the legal profession and our Nation after graduation. 
+
+
+13 
+
+
+Because the educational benefits of a diverse student body 
+depend on opportunities for interaction among students, the 
+Law School hopes that its policy will enroll a “critical mass” 
+of minority students. Its experience has been that a critical 
+mass helps to foster more genuine interaction among 
+students of different racial backgrounds. But that goal is 
+constantly balanced against the Law School’s other 
+educational objectives, such as assembling a class that is 
+both exceptionally academically qualified and broadly 
+diverse in ways other than race. The Law School does not 
+employ quotas or set-asides, and race is by no means the 
+predominant factor in its admissions program. 
+
+There are no viable race-neutral alternatives at this 
+time. The Law School firmly believes that high academic 
+standards and a diverse student body are both integral to 
+effective pursuit of its chosen educational mission. It is 
+fortunate to receive enough applications from talented, well- 
+qualified minority students to avoid both the Scylla of 
+resegregation and the Charybdis of enrolling students 
+unprepared for the education that it offers. Given the 
+national population of college graduates, however, law 
+schools like Michigan cannot admit those students in 
+meaningful numbers without paying some attention to race. 
+
+This dilemma is shared by every highly selective law 
+school in the United States, public and private. It is not an 
+exaggeration, therefore, to say that a decision by this Court 
+overruling Bakke would force most of this Nation’s finest 
+institutions to choose between dramatic resegregation and 
+completely abandoning the demanding standards that have 
+made American higher education the envy of the world. The 
+United States understands the nature of that choice, yet 
+pretends that the Law School could magically resolve it by 
+“easing admissions requirements for all students.” U.S. Br. 
+at 14. That is a fantasy. No honestly colorblind alternative 
+could produce educationally meaningful racial diversity at 
+present without substantially abandoning reliance on 
+traditional academic criteria, and hence abandoning 
+academic excellence as well. The Law School, having 
+struggied for more than a century to build a great 
+
+
+14 
+
+
+institution dedicated to excellence in the advancement of 
+human knowledge, will not willingly do that. But neither 
+does it relish the prospect of trying to educate the next 
+generation of leaders for the legal profession and our Nation 
+in a segregated enclave, “in isolation from the individuals 
+and institutions with which the law interacts.” Sweatt v. 
+Painter, 339 U.S. 629, 634 (1950). 
+ARGUMENT 
+I THE LAW SCHOOL HAS A COMPELLING 
+INTEREST IN THE LIMITED, COMPETITIVE 
+CONSIDERATION OF RACE IN ADMISSIONS 
+TO SECURE THE EDUCATIONAL BENEFITS 
+THAT FLOW FROM STUDENT BODY 
+DIVERSITY 
+A. This Court Held In Bakke That Institutions Of 
+Higher Education May Consider The Race Of 
+As One Factor Among Many When 
+Attempting To Assemble A Diverse, Racially 
+Integrated Student Body 
+Although different Justices articulated a range of views 
+about the permissibility of race-conscious admissions 
+practices in Bakke, Justice Powell forged a middle ground 
+that constituted (and has ever since been relied on as) the 
+holding of the case. Joining Justice Powell, a majority of 
+this Court agreed on several important propositions—all of 
+which were essential to the result. Five Justices reversed 
+the California Supreme Court’s mandate prohibiting the 
+University of California from considering race in admissions 
+decisions, 488 U.S. at 270 n.**, 271, agreeing that the 
+“competitive consideration of race and ethnic origin” in the 
+context of a “properly devised admissions program” would 
+be constitutional and consistent with Title VI, id. at 320. 
+Five Justices agreed that the University of California could 
+constitutionally devise such a program even though it was 
+“eonceded that [the University] had no history of 
+discrimination” and the University articulated no narrowly 
+remedial justification for considering race. Id. at 296 n.36 
+(Powell, J.). And all five agreed that Harvard College’s 
+admissions policy—which also articulated no remedial 
+
+
+15 
+
+
+purpose and was solely tailored toward, and justified by, 
+Harvard’s desire to assemble a diverse student body—was 
+“properly devised” and “constitutional.” Jd. at 320, 326 n.1 
+(Brennan, J., concurring in part). 
+
+The minimum core or essential holding of Bakke, 
+therefore, is that a University may consider race in 
+admissions, even if it has no historical discrimination of its 
+own to remedy, at least in the manner exemplified by the 
+Harvard plan appended to Justice Powell’s opinion. These 
+observations require no sophisticated analysis, and they 
+alone are sufficient to support the Sixth Circuit’s judgment 
+in this case—since as that court held the Law School’s policy 
+is “virtually indistinguishable” from the Harvard plan. 
+
+_ Petitioner nevertheless asserts (Pet. Br. at 27-28) that 
+the holding in Part V-C of Bakke has no precedential force 
+here because it says nothing about the permissible purposes 
+of a “competitive” race-conscious plan. Although the broad 
+language of Part V-C certainly leaves a great deal 
+unspecified, that paragraph was not the only proposition to 
+garner a majority. Five Justices also specifically agreed 
+that the Harvard admissions policy was constitutional. 
+Because the sole justification advanced in that plan was 
+student body diversity, it necessarily follows that five 
+Justices agreed that diversity was a sufficient justification. 
+Petitioners resist that obvious conclusion based on the fact 
+that Justices Brennan, White, Marshall and Blackmun 
+“agree{d] with Mr. Justice Powell that a plan like the 
+‘Harvard’ plan ... is constitutional under [their] approach, at 
+least so long as the use of race to achieve an integrated 
+student body is necessitated by the lingering effects of past 
+discrimination.” 438 U.S. at 326 n.1 (Brennan, J. concurring 
+in part) (emphasis added). But the italicized language in 
+Justice Brennan’s opinion means only that a policy like 
+Harvard’s must cease considering race once the disparities 
+in applicants’ numerical qualifications produced by our 
+Nation’s discriminatory past have been eliminated, because 
+a racially diverse class could then be assembled by other 
+
+
+16 
+
+
+means. The Law School agrees with that caveat, and Justice 
+Powell plainly did too; sadly, that day has not yet arrived.“ 
+Justice Powell’s reasoning was also the “narrowest 
+ground” articulated by any of the Justices supporting 
+reversal, and is therefore a holding of this Court under 
+Marks v. United States, 430 U.S. 188, 193 (1977). It is 
+possible to tie oneself in metaphysical knots when applying 
+Marks, by postulating creative and endlessly different 
+theoretical axes along which one opinion or another might 
+be considered the most “narrow.” But Justice Powell’s 
+opinion was “narrowest” in every sense that mattered: it 
+completely defined, as a practical matter, the universe of 
+race-conscious admissions programs that a majority of this 
+Court regarded as constitutional.” It was immediately 
+obvious to courts,” commentators” and countless public 
+
+
+16 Justice Brennan and his colleagues did not mean that Harvard’s 
+admissions practices were constitutional only if justified by a remedial 
+purpose. The language they chose (“so long as ... necessitated by” rather 
+than “if ... justified by”) makes that clear. See Pet. App. 18a & n.7, 19a & 
+n.8. It also would have made no sense. Harvard’s policy was forthrightly 
+non-remedial in motivation, 438 U.S. at 321-22, and therefore (for reasons 
+ably explained by petitioners themselves (Pet. Br. at 35)) it could not have 
+been rendered constitutional by an unarticulated remedial rationale. 
+
+7 The other Justices forming that majority believed that the 
+Constitution permits much more extensive and varied consideration of 
+race in admissions; indeed, they voted to affirm the rigid 16-seat quota 
+employed by UC-Davis. In other words, those Justices had much broader 
+reasons for reversing the California Supreme Court because they 
+believed it improperly foreclosed a wider spectrum of legal conduct than 
+Justice Powell did. See City of Richmond v. JA Croson Co., 488 U.S. 
+469, 496-97 (1989) (noting that Justice Powell’s opinion in Bakke would 
+permit consideration of race only to pursue narrowly “focused” objectives, 
+not the “amorphous” goal of remedying societal discrimination). 
+
+18 The State and federal courts have widely regarded Justice Powell’s 
+opinion in Bakke as the controlling law. See, e., Univ. & Cmty. Coll. 
+Sys. of Nev. v. Farmer, 980 P.2d 730 (Nev. 1997); McDonald v. Hogness, 
+598 P.2d 707 (Wash. 1979); United States v. Brown Univ., 5 F.3d 658 (3d 
+Cir. 1993); Talbert v. City of Richmond, 648 F.2d 925 (4th Cir. 1981); 
+UWM Post, Inc. v. Bd. of Regents of Univ. of Wis. Sys., 774 F. Supp. 1168 
+(E.D. Wis. 1991); Davis v. Halpern, 768 F. Supp. 968 (E.D.N.Y. 1991); 
+Uzzell v. Friday, 592 F. Supp. 1502 (M.D.N.C. 1984); Martin v. Charlotte- 
+Mecklenburg Bd. of Educ., 475 F. Supp. 1818 (W. D. N. C. 1979), aff'd, 626 
+
+
+17 
+
+
+officials and institutions after Bakke that Justice Powell’s 
+analysis and the Harvard plan were the coherent, if narrow, 
+common ground for this Court’s judgment—and therefore 
+the law of the land.” As the U.S. Department of Education 
+announced to the higher education community, “(tJhe Court 
+affirmed the legality of voluntary affirmative action” in 
+order to “attain a diverse student body.“ 
+
+B. Settled Principles Of Stare Decisis Strongly 
+
+Counsel Against Overruling Bakke 
+
+Because Bakke has proven to be a landmark decision, 
+the principles outlined by Justices O’Connor, Kennedy and 
+Souter in Planned Parenthood of Southeastern 
+Pennsylvania v. Casey, 505 U.S. 833 (1992), provide a useful 
+framework for analyzing whether there is any “special 
+justification” for reconsidering that decision. There is not. 
+
+
+F.2d 1165 (4th Cir. 1980). The Fifth Circuit's contrary decision nearly 
+twenty years later in Hopwood v. Texas, 78 F.3d 932 (Sth Cir. 1996), has 
+gained few adherents. See, e. g., Smith v. Univ. of Wash. Law Sch., 233 
+F.3d 1188 (9th Cir. 2000), cert. denied, 582 U.S. 1051 (2001). 
+
+” See, ¢.g., Scalia, Commentary, The Disease as Cure: “In Order to Get 
+Beyond Racism, We Must First Take Account of Race.”, 1979 Wash U. L. 
+
+
+this Court elected to forego Marks analysis altogether and overrule 
+Baldasar v. Illinois, 446 U.S. 222 (1980), on the merits. Pet. Br. at 28-29. 
+Bakke has not produced anything like the confusion that followed 
+Baldasar. In any event, this Court could take that tack in Nichols only 
+because it was resolved to overrule Baldasar either way. A similar 
+require this Court to assume for purposes of 
+that Bakke produced a binding holding, and then consider 
+whether to overrule it under traditional principles of stare decisis. 
+— 44 Fed. Reg. 58,509, 58,510 (Oct. 10, 1979). 
+2 Adarand Constructors, Inc. v. Pena, 515 U.S. 200, 231 (1995) (quoting 
+Ariz. v. Rumsey, 467 U.S. 208, 212 (1984)). 
+
+
+18 
+
+
+First, intervening decisions of this Court have not left 
+Bakke “a doctrinal anachronism discounted by society.” Jd. 
+at 855. This Court has never questioned the core holding of 
+Bakke, and indeed has uniformly assumed its continuing 
+validity.” Bakke has become a “long-established precedent 
+... integrated into the fabric of the law,” Adarand, 515 U.S. 
+at 233, and of our “national culture,” Dickerson v. United 
+States, 530 U.S. 428, 443 (2000). 
+
+Second, the standards established in Bakke have 
+proven to be “{jworkable,” Casey, 505 U.S. at 855, as 
+demonstrated by a 23-year history of enforcement under 
+Department of Education regulations. Shortly after Bakke, 
+the Department undertook a comprehensive reexamination 
+of its regulations governing higher education admissions 
+under Title VI. It concluded that universities could, 
+“consistent with Bakke and the Department’s regulation, 
+le lonsider race, color, or national origin as a positive factor, 
+with other factors . in selecting from among qualified 
+candidates,” and that “(tJhe relative weight granted to each 
+factor is properly determined by institution officials; race, 
+color or national origin may be accorded greater weight than 
+other factors.” 44 Fed. Reg. at 58,510. The Department has 
+reaffirmed its regulations and guidance many times over the 
+past two decades and five presidential administrations, and 
+has used the standards established in Bakke as an effective, 
+workable framework for the enforcement of Title VI in both 
+
+
+2 See, e. g., Adarond, 515 U.S. at 218-19, 224-25 (describing adoption of 
+intermediate scrutiny in Metro Broadcasting, Inc. v. FCC, 497 U.S. 547 
+(1990), as a “surprising turn” from the use of strict scrutiny in decisions 
+such as Justice Powell’s opinion in Bakke); Wygant v. Jackson Bd. of 
+Educ., 476 U.S. 267, 286, 288 n* (1986) (O’Connor, J., concurring in part) 
+(recognizing that this Court's affirmative action cases reveal a “fair 
+measure of consensus,” including that “the promotion of racial diversity 
+has been found sufficiently ‘compelling,’ at least in the context of higher 
+education, to support the use of racial considerations in furthering that 
+interest”); Metro Broad., 497 U.S. at 568; id. at 619, 621, 625 (O’Connor, J., 
+dissenting); Johnson v. Transp. Agency, 480 U.S. 616, 688 (1987) 
+(upholding gender-based affirmative action policy, and drawing a 
+favorable analogy to the Harvard plan). 
+
+
+— — 
+
+
+19 
+
+
+admissions and financial aid. Although the United States 
+remarkably fails to mention its regulations or policy 
+interpretations in its brief, all of them remain in force and 
+none would be constitutional if Bakke is overruled.” 
+
+Third, Bakke could not be overruled “without serious 
+inequity to those who have relied upon it.” Casey, 50& U.S. 
+at 855. Over the past twenty-five years, universities and 
+professional schools, public and private, have made 
+countless decisions about their faculty hiring, physical plant, 
+capital spending and curriculum in reliance on this Court’s 
+assurance that they would not be forced to a stark choice 
+between racial diversity and radically lower academic 
+standards and ambitions. The State legislators and private 
+donors who fund these institutions have chosen to support 
+them instead of countless other worthy causes because, in 
+part, they are both racially integrated and committed to 
+academic excellence.” If Bakke is overruled, the Law 
+School will have to become a very different kind of 
+institution than it, its philanthropic donors, and the State of 
+Michigan have worked so hard to build. 
+
+Finally, overruling Bakke would cause “significant 
+damage to the stability of the society governed by it.” 
+Casey, 505 U.S. at 855. Overruling Bakke would force this 
+Nation’s elite and selective institutions of higher education, 
+public and private, to an immediate choice between dramatic 
+
+
+* See, 6, 56 Fed. Reg. 64,548 (Dec. 10, 1991) (applying Bakke to 
+financial aid); 59 Fed. Reg. 8756 (Feb. 23, 1994) (same); see also CAA 787 
+(Brief for the United States as Amicus Curiae). 
+
+The race-conscious admissions policies employed by the United States 
+at its own universities, the military academies, would also be 
+unconstitutional under petitioner’s reasoning. See Brief for Lt. Gen. 
+Julius W. Becton, Jr., et al. as Amicus Curiae. 
+
+State legislatures must, for example, constantly choose between 
+distributing limited resources evenly across an array of relatively non- 
+selective institutions designed to bring the benefits of higher education to 
+the greatest number of citizens, or disproportionately funding a selective 
+flagship research institution. States like California, Michigan, North 
+Carolina and Virginia that have historically chosen the latter course 
+might reasonably conclude that they can no longer justify it if the flagship 
+institution can no longer admit a significant number of minority students. 
+
+
+20 
+
+
+resegregation and abandoning academic selectivity. If they 
+chose to maintain academic standards, the representation of 
+African-American students at the 89 most selective law 
+schools would fall from approximately 7% now to less than 
+1%. Three-quarters of the African-American students who 
+are currently admitted to accredited law schools would not 
+be accepted anywhere, and 40% of those still admitted would 
+be admitted only to schools with predominantly minority 
+student populations.” Those predictions are confirmed by 
+experience. In the year after the Fifth Circuit prohibited 
+the University of Texas Law School from considering race 
+in its admissions process, for example, Hispanic admissions 
+fell by 33% and African-American admissions fell by 86%— 
+to four students, out of a class of about 500.” 
+
+
+As the United States recognizes (U.S. Br. at 16), if 
+
+
+higher education is not “broadly inclusive to our diverse 
+national community, then the top jobs, graduate schools and 
+the professions will be closed to some.” Yet a decision to 
+overrule Bakke would cut the minority lawyers currently 
+being trained by half or three-quarters, resulting in the 
+near-complete absence of minority students from the schools 
+that train most of our federal judges, prosecutors and law 
+clerks (to say nothing of the new lawyers at our country’s 
+leading law firms).™ That is a chilling prospect. As our 
+country becomes increasingly racially diverse, the public 
+confidence in law enforcement and legal institutions so 
+essential to the coherence and stability of our society will be 
+
+
+= See Wightman, The Threat to Diversity in Legal Education: An 
+Empirical Analysis of the Consequences of Abandoning Race as a Factor 
+in Law School Admission Decisions, 72 N. T. U. L. Rev. 1, 27-28 (1997); 
+CAJA 2254-56 (Bok) (discussing Wightman’s findings). 
+
+* JA 209. Texas has increased these numbers marginally in recent 
+years, but has not achieved meaningful diversity. And the strategies it 
+employs are neither race-neutral nor a realistic option for the Law School. 
+See, e.g., Brief for American Law Deans Association as Amicus Curiae. 
+* Nearly 600 of this Court’s 824 judicial clerks since 1980 were 
+graduates of just six of these law schools (including the Law School). 
+
+
+‘There would be serious negative consequences at the state government 
+level as well. See Brief for Arizona State University College of Law. 
+
+
+— — — 
+
+
+21 
+
+
+difficult to maintain if the segments of the bench and bar 
+currently filled by graduates of those institutions again 
+become a preserve for white graduates, trained in isolation 
+from the communities they will serve. 
+
+C. Educational Experience, Social Science 
+Research, And Common Sense Confirm That 
+Diversity Has Educational Benefits 
+
+This Court recognized long before Bakke that preparing 
+students for work and citizenship in our diverse society is 
+exceedingly difficult in racially homogenous classrooms and 
+on racially segregated campuses. In Sweatt v. Painter, 339 
+U.S. 629, 634 (1950), this Court held that Heman Sweatt 
+could not receive an equal legal education at a law school 
+which “excludes from its student body members of the racial 
+groups which number 85% of the population of the State and 
+include most of the lawyers, witnesses, jurors, judges and 
+other officials with whom petitioner will inevitably be 
+dealing.” Id. “The law school, the proving ground for legal 
+learning and practice, cannot be effective in isolation from 
+the individuals and institutions with which the law 
+interacts.” Id. This Court has acknowledged the 
+educational benefits of a diverse student body repeatedly 
+since then. See Brown v. Bd. of Educ., 347 U.S. 483, 493-95 
+& n.11 (1954); Wash. v. Seattle Sch. Dist. No. 1, 458 U.S. 457, 
+472 (1982) (II should be equally clear that white as well as 
+Negro children benefit from exposure to ‘ethnic and racial 
+diversity in the elassroom.“) (citation omitted). And those 
+conclusions have been confirmed by congressional findings, 
+educational experience, social science, and common sense. 
+
+1. Congress has repeatedly made specific findings that 
+“elimination of racial isolation has significant educational 
+benefits,” even in the absence of any prior discrimination or 
+remedial purpose, when authorizing federal financial 
+assistance for local school districts seeking to eliminate both 
+de jure and merely de facto segregation in their schools.” 
+
+
+® See Emergency School Aid Act, Pub. L. No. 92-318, $$ 701-720, 86 
+Stat. 354 (1972); Magnet Schools Assistance Program, Pub. L. No. 98-377, 
+$§ 701-712, 98 Stat. 1299 (1984). 
+
+
+EE ö 
+
+
+22 
+
+
+The legislative history reveals Congress’s firm conclusion 
+that “racially integrated education improves the quality of 
+education for all children,” H.R. Rep. No. 92-576, at 10 
+(1971), and that “{ejducation in an integrated environment, 
+in which children are exposed to diverse backgrounds, is 
+beneficial to both” white and minority students, S. Rep. No. 
+92-61, at 7 (1971). The recently enacted No Child Left 
+Behind Act of 2001 reaffirmed Congress’s findings that “(it 
+is in the best interests of the United States ... to continue 
+the Federal Government’s support of local educational 
+
+
+agencies that are ... voluntarily seeking to foster meaningful 
+interaction among students of different racial and ethnic 
+
+
+2. These findings, which reflect the longstanding 
+conviction of the United States government on a set of 
+critically important issues of fact and national policy, were 
+also supported by a powerful and essentially uncontested 
+evidentiary record in this case.” The United States filed an 
+amicus curiae brief in the district court summarizing the 
+social science research, and concluding that diversity “in the 
+higher education context improves students’ education, 
+racial understanding, cultural awareness, cognitive 
+development and leadership skills.” CAJA 803. In its filing 
+in this Court, the United States repeatedly emphasized its 
+belief that educational diversity is an important goal[],” 
+US. Br. at 8, and that keeping undergraduate and graduate 
+institutions open to “people of all races and ethnicities” is “a 
+paramount government objective.” Id. at 13. 
+
+That belief does not depend on “crude stereotypes.” Pet. 
+Br. at 38. It simply acknowledges the elephant in the 
+room—that despite the recent advent of formal equality 
+under the law and indisputable progress in race relations (in 
+part because of the growing racial diversity in institutions 
+
+
+n Pub. L. No. 107-110, § 5801(aX4A), 115 Stat. 1425, 1806 (2002) 
+(codified at 20 U.S.C. § 7231). 
+See generally, e g., CAA 2240-709 (expert reports), 5617-23 and 5641- 
+
+
+42 (Syverud reports), 7515-18 (Lempert testimony), 7699-706 (Syverud 
+
+
+testimony), 7749 (Lehman testimony). 
+
+
+23 
+
+
+like the Law School), America remains both highly 
+segregated by race and profoundly and constantly aware of 
+its significance in our society. Many white Americans 
+underestimate those realities because, of course, “[t]o be 
+born white is to be free from confronting one’s race on a 
+daily, personal, interaction-by-interaction basis.” By 
+contrast, t jo be born black is to know an unchangeable fact 
+about oneself that matters every day.“ The evidence for 
+that fact, anecdotal and scientific, is beyond serious dispute. 
+The House Judiciary Committee recently found that: 
+millions of African-Americans and Hispanics alter 
+their driving habits in ways that would never occur 
+to most white Americans. Some completely avoid 
+places like all-white suburbs, where they fear police 
+harassment for looking “out of place.” Some 
+intentionally drive only bland cars or change the way 
+they dress. Others who drive long distances even 
+factor in extra time for the traffic stops that seem 
+inevitable. 
+African-American men are asked to pay almost twice the 
+markup that white men are asked to pay for automobiles. 
+Recent studies have shown dramatic disparities in the 
+treatment of whites and African-Americans trying to rent an 
+apartment over the telephone (most people can identify a 
+caller’s race by dialect and the sound of their voice). 
+The issue is much more complex and subtle than just the 
+unfortunate persistence of widespread racial discrimination. 
+
+
+* Aleinikoff, A Case For Race-Consciousness, 91 Colum. L. Rev. 1060, 
+1066 (1991). 
+
+House Judiciary Committee, Traffic Stops Statistics Study Act of 
+2000, H.R. Rep. No. 106-517, at 3-4 (2000); see also id. at 4-5 (noting that 
+in some jurisdictions African-American drivers are five to twenty-one 
+times more likely to be subject to traffic stops than are white drivers). 
+
+% Ayres & Siegelman, Race and Gender Discrimination in Bargaining 
+for a New Car, 85 Am. Econ. Rev. 304, 313 (June 1995). 
+
+See, e. g., Baugh, Racial Identification by Speech, 75 Am. Speech 362- 
+64 (2000); Massey & Lundy, Use of Black English and Racial 
+Discrimination in Urban Housing Markets: New Methods and Findings, 
+36 Urban Affairs Rev. 452, 461 (Mar. 2001). 
+
+
+— 
+
+
+24 
+
+
+Stereotypes and unthinking assumptions about social roles 
+pervasively influence daily life. The Dean of the School of 
+Education at Berkeley, who is Hispanic, testified in this case 
+that when he was cutting the grass in front of his own house, 
+a neighbor approached him to ask what he charges for yard 
+work. CAJA 8472. And the renowned historian John Hope 
+Franklin testified that “in recent years he has been 
+approached more than once by a white person in a hotel 
+lobby or private club who asked him to fetch her coat or car.” 
+Pet. App. 267a. 
+
+Minority students draw as wide a range of conclusions 
+from experiences like these, and from the ideas they have 
+been exposed to, as white students do from their own lives 
+and influences. The Law School’s minority students are, like 
+its white students, liberals and conservatives, 
+communitarians and libertarians, devotees of both Mill and 
+Kant. But the presence of persons who have had such 
+experiences enriches the educational environment, if only 
+because it is human nature to undervalue or fail to see 
+burdens that we haven’t truly experienced ourselves.” 
+
+3. The importance of these differences in lived 
+experience is particularly trenchant in the context of legal 
+education. The legal system is the epicenter of our Nation’s 
+ongoing struggle to overcome racial divisions that persist in 
+our society. Indeed, monitoring and mediating the progress 
+of that struggle has become one of the most important jobs 
+of the federal courts. Discrimination suits under Titles VI, 
+
+
+37 These lessons cannot be learned from books, or by lecture in a racially 
+homogenous classroom. Dean Syverud testified that “the best active, 
+Socratic teaching” provokes “direct and often painful dialogue between 
+students who are forced by the method to confront and make explicit 
+their deepest unexamined convictions about legal issues.” CAJA 5619. 
+
+
+Syverud testified that racial heterogeneity improves the classroom 
+dynamic even in classes “far removed from issues traditionally associated 
+with race” such as insurance, id. at 5622, and that he has been unable to 
+“recreate the dynamic of a diverse Socratic classroom” in racially 
+homogenous classes. Id. at 7710-11. 
+
+
+25 
+
+
+VII and IX, ongoing school desegregation cases, Voting 
+Rights Act enforcement and racial-profiling lawsuits have 
+all become staples of the case load. What legal consequences 
+if any should follow from the disparate impact of the 
+criminal justice system in general, and certain criminal 
+statutes in particular, on racial minorities is one of the most 
+oft-debated and important challenges that our society faces. 
+
+Against this backdrop, law schools need the autonomy 
+and discretion to decide that teaching about the role of race 
+in our society and legal system, and preparing their 
+students to function effectively as leaders after graduation, 
+are critically important aspects of their institutional 
+missions. And it hardly requires extensive proof that 
+pursuit of those goals is greatly enhanced by the presence of 
+meaningful racial diversity among the law school’s student 
+body—enhanced in ways that white students alone, no 
+matter what their viewpoints are or even what their 
+experiences have been, cannot possibly supply. 
+
+The presence of minority students is also essential to the 
+Law School’s educational mission in other ways. At its most 
+successful, the educational process is a productive collision 
+not only of facts and ideas, but also of people. The Law 
+School is training lawyers and leaders for a society in which, 
+within the careers of its current students, white citizens will 
+become a minority of the population. Those students need 
+to learn how to bridge racial divides, work sensitively and 
+effectively with people of different races, and simply 
+overcome the initial discomfort of interacting with people 
+visibly different from themselves that is a hallmark of 
+human nature.” As then-Provost Condoleezza Rice recently 
+explained, “differences in talent, in background, in racial and 
+cthnic identity, in creed” in an educational environment can 
+open “a small window on perhaps the greatest challenge 
+
+
+* See CAJA 7909 (Orfield), 310, 2243, 5044, 5106. Dean Lehman 
+testified that “there are significant numbers of Michigan students who 
+come to the law school with very little prior contact with people of other 
+races.” Tr. 5:158; see also Tr. 6:116 (Orfield) (half of Michigan students 
+have no or very little interracial contact prior to Law School). 
+
+
+26 
+
+
+before us as human beings—finding a way that people who 
+are different can live together in peace and move forward 
+together.” Stanford Class Day Speech (June 12, 1999).“ 
+
+4. Effective pursuit of these goals requires more than 
+an isolated handful of minority students, for several reasons. 
+First, the educational benefits of diversity depend on 
+opportunities for interaction—in classrooms, cafeterias, or 
+residential settings. The Law School is a large institution, 
+and a few minority students obviously could not be 
+everywhere at once, or establish meaningful personal ties 
+with more than a small fraction of their classmates. 
+
+Second, the presence of more than one or two minority 
+students in a classroom encourages students to think 
+critically and reexamine stereotypes. Kent Syverud, Dean 
+of the Vanderbilt Law School, testified that the classroom 
+“dynamic is different within the class among the students 
+and between me and the students, when the class is 
+homogenous” or has a “token minority student” than “when 
+there are enough minority students...that there is a 
+diversity of views and experiences among the minority 
+students.” CAJA 7698; id. at 5618-20. When there are more 
+than a token number of minority students, “everybody in 
+the class starts looking at people as individuals in their 
+views and experiences, instead of as races.” Id. at 7699. 
+
+Third, as the Harvard plan recognized, there is a 
+powerful body of evidence that very low numbers of 
+minority students tend to create a “sense of isolation among 
+the [minority] students themselves” that would “make it 
+more difficult for them to develop and achieve their 
+potential.” 438 U.S. at 323. That sense of isolation 
+particularly inhibits the willingness of many minority 
+students to participate freely in class discussions.” 
+
+
+% Available on the internet at http.//www.stanford.edu/dept/news/ 
+report/news/junel6/classday-616.html 
+
+“See CAA 8145-46 (James); Pet. App. 28a; CAJA 432-33, 473; see also, 
+e.g., United States v. Va., 518 U.S. 515, 523 (1996) (noting district court 
+finding that 10% female enrollment would be “a sufficient “critical mass” 
+to provide the female cadets with a positive educational experience“) 
+(citation omitted). As a result UCLA School of Law, for example, had to 
+
+
+27 
+
+
+D. The Law School’s Educational Objectives Are 
+Sufficiently Compelling To Satisfy Strict 
+
+
+Petitioners’ arguments boil down to the assertion that 
+only one interest can be characterized as “compelling”: 
+remedying an institution’s own past discrimination. But this 
+Court has steadfastly refused to embrace a rigid 
+interpretation of the Equal Protection Clause that would 
+preclude “case-by-case” scrutiny of the justifications 
+advanced for the consideration of race in this or any future 
+case. Croson, 488 U.S. at 519 (Kennedy, J., concurring in 
+part); see also Wygant, 476 U.S. at 286 (O’Connor, J., 
+concurring in part) (recognizing “the possibility that the 
+Court will find other governmental interests ., to be 
+sufficiently ‘important’ or ‘compelling’ to sustain the use of 
+affirmative action policies”). As Adarand recently 
+confirmed, not all decisions influenced by race are “equally 
+objectionable” and strict scrutiny is designed to provide a 
+framework for “carefully examining” the importance and the 
+sincerity of the reasons advanced. 515 U.S. at 228 (citation 
+omitted). Those reasons—while certainly few in number— 
+are potentially as varied and difficult to predict as the 
+challenges facing our Nation. 
+
+By way of example, few would question the State’s need 
+to take race into account when choosing an undercover law 
+enforcement officer to infiltrate a racially homogenous 
+terrorist cell, or when acting to quell a race riot in a prison. 
+See Croson, 488 U.S. at 521 (Scalia, J., concurring). Indeed, 
+this Court has recognized a variety of governmental 
+interests—from combating corruption to promoting health 
+and safety—as sufficiently “compelling” to justify incursions 
+upon other rights to which strict scrutiny applies and which 
+
+
+decide whether to place one or two of the 13 African-American students 
+in this year’s entering class into each of eight first-year sections (which 
+raises educational concerns related to isolation) or to place all those 
+students into a subset of the sections, creating meaningful diversity there 
+but leaving the other sections with no African-American students. See 
+Brief of Amici Curiae UCLA School of Law Students of Color at 15-16. 
+
+
+. 28 
+
+
+are, in their own way, no less weighty than those granted by 
+the Equal Protection Clause.“ 
+
+The Law School’s interest in achieving the educational 
+benefits of diversity plainly satisfies the standards set by 
+this Court. First, race is relevant to a core mission of the 
+Law School that is vitally important and plainly 
+“legitimate.” Adarand, 515 U.S. at 227-28. Second, the 
+program does not use racial classifications as a proxy for 
+other more germane considerations, or in a way that 
+suggests reliance on impermissible stereotypes that demean 
+any racial or ethnic group. Id. at 226. Third, the asserted 
+interest in considering race to achieve the benefits of 
+student body diversity has a “logical stopping point,” 
+Wygant, 476 U.S. at 275, sufficient to ensure that it will not 
+justify indefinite or unconstrained consideration of race. 
+
+1. As Justice Powell recognized in Bakke, the Law 
+School’s interest in the educational benefits of a diverse, 
+racially integrated student body is both unquestionably 
+legitimate and “of paramount importance in the fulfillment 
+of its mission.” 438 U.S. at 313. The cultivation of a diverse 
+and vibrant academic environment is the most important 
+“business of a university,” and the selection of students 
+who will best enrich that environment is one of its “four 
+essential freedoms.” Id. at 312 (quoting Sweezy v. N. H., 354 
+U.S. 234, 263 (1957)). Indeed, It he ‘nation’s future depends 
+upon leaders trained through wide exposure’ to the ideas 
+and mores of students as diverse as this Nation of many 
+
+peoples.” Id. at 312-13 (Powell, J.) (quoting Keyishian v. Bd. 
+of Regents, 385 U.S. 589, 603 (1967)). The Law School’s 
+desire for a diverse student body is at the very core of its 
+proper institutional mission. 
+
+
+"| See, e., Bush v. Vera, 517 U.S. 952, 990 (1996) (O'Connor, J., 
+concurring) (compliance with § 2 of the Voting Rights Act is a compelling 
+interest); Roe v. Wade, 410 U.S. 113 (1973) (recognizing compelling 
+interests in both maternal health and fetal life, at different stages of 
+pregnancy); Austin v. Mich. State Chamber of Commerce, 494 U.S. 652 
+(1990) (compelling interest in reducing political corruption). 
+
+In contrast, the interest in “broadcast diversity” asserted in Metro 
+Broadcasting was (at best) on the periphery of the FCC’s legitimate 
+
+
+— — 
+
+
+29 
+
+
+Indeed, racial diversity is simply far more relevant to 
+the core mission of a university or professional school than 
+to virtually any other government endeavor. See Adarand, 
+515 U.S. at 227 (race is “in most circumstances irrelevant“ 
+to governmental action and “therefore prohibited“) 
+(quoting Hirabayashi v. United States, 320 U.S. 81, 100 
+(1943)).6 This Court has recognized that universities have 
+an unparalleled need for pluralism that is essential to the 
+vitality of our society.“ Although the City of Richmond 
+could install the finest possible plumbing fixtures in its jail 
+using an all-white work force, Croson, 488 U.S. at 481-82, 
+this Court recognized in Sweatt and Bakke that the Law 
+School cannot provide the finest possible legal education 
+with a nearly all-white student body. 
+
+
+functions and actually threatened to interfere with important First 
+Amendment values. 497 U.S. at 616-17 (O’Connor, J., dissenting). 
+
+This Court has frequently held that constitutional doctrines must be 
+
+flexible enough to accommodate the unique needs of the educational 
+environment. See, e. g., Bd. of Regents of Univ. of Wis. Sys. v. Southworth, 
+529 U.S. 217, 231-32 (2000) (First Amendment compelled-speech/funding 
+doctrines modified for academic environments); Regents of Univ. of Mich. 
+v. Ewing, 474 U.S. 214, 225 (1985) (due process review of “genuinely 
+academic decision{s]...should show great respect for the faculty’s 
+professional judgment”); Healy v. James, 408 U.S. 169, 171 (1972) 
+(student speech rights limited by “the mutual interest of students, faculty 
+members, and administrators in an environment free from disruptive 
+interference with the educational process”); Widmar v. Vincent, 454 U.S. 
+263, 268 (1981) (“A university differs in significant respects from public 
+forums such as streets or parks or even municipal theaters.”). 
+; See Keyishian, 385 U.S. at 603; Sweezy, 354 U.S. at 250 (Warren, J.); 
+id. at 262-63 (Frankfurter, J., concurring); Bakke, 488 U.S. at 312-14 
+(Powell, J.). The Law School’s desire for the educational benefits of such 
+pluralism is not, contrary to Judge Boggs’s suggestion, either the moral 
+or practical equivalent of the rigid Jewish quotas of an earlier era. The 
+Law School does not have a quota of any kind, infra pp. 38-48, and there is 
+a world of difference between a policy which strives for some diversity for 
+educational reasons—and in which white and Asian American students 
+compete for all the seats and consistently receive the overwhelming 
+majority of them—and one which capped Jewish enrollment at a low, 
+arbitrary number, dramatically limiting educational opportunities for no 
+purpose other than expressing animus or disdain for Jews. 
+
+
+30 
+
+
+2. The educational interest in a diverse student body 
+does not employ historic stereotypes, “directly equate race 
+with belief and behavior,” or use race as a poor proxy for 
+characteristics that could be pursued directly. Metro 
+Broad., 497 U.S. at 618 (O’Connor, J., dissenting). The Law 
+School does not premise its need for a racially integrated 
+student body on any belief that minority students always (or 
+even consistently) express some characteristic minority 
+viewpoint on any issue. To the contrary, breaking down 
+such stereotypes is a crucial part of its mission, and one that 
+cannot be advanced with only token numbers of minority 
+students. Supra p. 26. The Law School values the presence 
+of minority students because they will have direct, personal 
+experiences that white students cannot—experiences which 
+are relevant to the Law School’s mission. To the extent 
+there are any proxies at work in the Law School’s policy, the 
+“nexus [is] nearly complete,” if not perfect. 497 U.S. at 626 
+(O'Connor, J., dissenting). 
+
+The United States reads this Court's cases to hold that 
+any recognition that members of racial minorities have 
+relevant life experiences“ rests on an impermissible 
+“stereotype.” U.S. Br. at 20, 25 n.8. That is plainly 
+incorrect. This Court has condemned the fiction that race 
+determines a person’s “belief and behavior™—not the 
+inescapable reality that race affects life experiences in our 
+society. See J. E. B. v. Ala. ex rel. T.B., 511 U.S. 127, 148-49 
+
+
+“© That nexus is certainly much tighter than in Metro Broadcasting, 
+where the FCC not only presumeld!] that persons think in a manner 
+associated with their race,” 497 U.S. at 618, but also that they would insist 
+on disseminating that characteristic “minority” viewpoint regardless of 
+market incentives, id. at 626-27. 
+
+“ Metro Broad., 497 U.S. at 618 (O’Connor, J., dissenting); see also Shaw 
+v. Reno, 509 U.S. 630, 647 (1993) (“think alike”); Miller v. Johnson, 515 
+U.S. 900, 911-12 (1995) (same); United States v. Va., 518 U.S. at 517 
+(stereotypes are “fixed notions concerning the roles and abilities of 
+{minorities]” which are “likely to ... perpetuate historical patterns of 
+discrimination”) (citations omitted) (omission in original). 
+
+
+31 
+
+
+(1994) (O'Connor, J., concurring) (“{L]ike race, gender 
+matters” in one’ s “resulting life experience[s]”).” 
+
+3. As the dissenters applying strict scrutiny in Metro 
+Broadcasting explained, lan interest capable of justifying 
+race-conscious measures must be sufficiently specific and 
+verifiable, such that it supports only limited and carefully 
+defined uses of racial classifications.” 497 U.S. at 613. The 
+interest in remedying societal discrimination that Justice 
+Powell rejected as “amorphous” in Bakke itself, 438 U.S. at 
+307, and in Wygant, 476 U.S. at 276, plainly failed that test.“ 
+Because no individual employer or educational institution 
+could hope to actually remedy societal discrimination, the 
+enormity of that challenge would justify consideration of 
+race without any “logical stopping point.“ 
+
+As Justice Powell recognized, the Law School’s interest 
+in achieving the educational benefits of racial diversity in its 
+classrooms is entirely different. Precisely because those 
+benefits are educational, any program that genuinely seeks 
+to obtain them is constrained by its own logic and by other 
+
+
+As the United States itself explained in an amicus brief to this Court in 
+Hopwood at 16 (No. 95-1773), the fact that a minority “student reared in 
+this country is likely to have had different life experiences, precisely 
+because of his or her race” does not “rest on impermissible stereotypes; 
+„ quate race with particular viewpoints;...{[or] presume that all 
+individuals of a particular race act or think alike.” (Emphasis added.) 
+
+* Petitioner's suggestion (Pet. Br. at 34) that the “role model” 
+justification forwarded in Wygant was directed at “educational benefits” 
+is simply incorrect. The school board in Wygant expressed a desire to 
+produce minority role models “as an attempt to alleviate the effects of 
+societal discrimination.” 476 U.S. at 274. As Justice O’Connor recognized, 
+that objective “should not be confused with the very different goal of 
+promoting racial diversity among the faculty” for educational reasons 
+which was not asserted in Wygant. 476 U.S. at 288 n.*. 
+
+ =Wygant, 476 U.S. at 275 (Powell, J.). The FCC’s asserted interest in 
+“broadcast diversity” in Metro Broadcasting was similarly untethered, 
+because the FCC could not “suggest how one would define or measure a 
+particular viewpoint that might be associated with race, or even how one 
+would assess the diversity of broadcast viewpoints.” 497 U.S. at 614 
+(O’Connor, J., dissenting). The interest therefore threatened to justify 
+unlimited regulation of broadcasting to produce whatever mix of 
+purportedly “racial” viewpoints the FCC chose to identify and favor. 
+
+
+32 
+
+
+pressing educational goals. It would be inconsistent with a 
+sincere pursuit of those benefits, for example, to admit 
+minority students who are unprepared to “be the 
+intellectual peers of their fellows in the classroom,” and 
+whose presence would detract from, rather than enhance, 
+the learning environment. CAJA 7756 (Lehman). Those 
+benefits can justify the Harvard plan’s modest and flexible 
+“attention to numbers,” but not racial balancing of any 
+kind—which Justice Powell famously condemned as 
+“discrimination for its own sake.” 438 U.S. at 307.“ And, as 
+Justice Powell explained in depth in Bakke, it would be 
+inconsistent with a genuine interest in the educational 
+benefits of racial diversity not to constantly weigh that 
+interest against other academic goals—including the 
+educational benefits of other kinds of diversity. 438 U. S. at 
+315-16. Taken seriously, the educational benefits of racial 
+diversity justify only an individualized admissions system 
+along the lines of the Harvard plan. 
+
+Finally, petitioner argues that an interest in educational 
+diversity cannot be recognized as compelling because it 
+would “give the Nation its first permanent justification for 
+racial preferences.” Pet. Br. at 33. The argument rests on 
+an unspoken premise that should not be countenanced. The 
+Law School of course recognizes that race-conscious 
+programs must have reasonable durational limits, and the 
+Sixth Circuit properly found such a limit in the Law School’s 
+resolve to cease considering race when genuine race-neutral 
+alternatives become available. Pet. App. 38a; JA 121; CAJA 
+
+
+As explained above, “critical mass” is an educational concept and the 
+range of overall minority enrollments likely to produce it is not “a matter 
+for mystical and metaphysical inquiry,” Pet. Br. at 31, but a 
+straightforward inference from the Law School’s desire to have, for 
+example, more than one or two African-American and Hispanic students 
+in a typical small section. Supra p. 6 & n.7. That number is not based on 
+the percentage of minorities in the population or the applicant pool. The 
+Law School’s minority enrollment percentages do not correlate with 
+Michigan’s population, see Respondents’ Br. in Gratz v. Bollinger at 48 
+n.68, and diverged from the percentages in the applicant pool by as much 
+as 17.7% from 1995-2000. See JA 156-203; CAA 1536, 5584, 5586. 
+
+
+33 
+
+
+7750-51. The disparities in academic preparation that make 
+such alternatives impossible today are rooted in centuries of 
+racial discrimination. The district court found that these 
+disparities will eventually be eliminated as our society 
+“invest([s} greater educational resources in currently 
+underperforming primary and secondary school systems.” 
+Pet. App. 29la. Any assumption that they are inevitably 
+“permanent” merely because three decades of modest effort 
+place in our constitutional jurisprudence. 
+
+II. THE LAW SCHOOL’S ADMISSIONS POLICIES 
+
+
+ARE NARROWLY TAILORED 
+A. There Are No Race-Neutral Alternatives 
+
+
+race-neutral alternatives available to the Law School.” 
+
+
+the Law School has chosen.“ The Law School has studied 
+
+
+i Petitioner also argues that, apart from whether race-neutral 
+alternatives actually exist, the district court “found” that the Law School 
+did not in fact consider them. Any such finding would be clearly 
+erroneous (although review should in fact be de novo because the issue 
+was decided on summary judgment, not at trial, see CAJA 99). As the 
+
+
+34 
+
+
+this issue for many years, and would like nothing better 
+than to find a race-neutral admissions formula that would 
+produce meaningful diversity without doing unacceptable 
+damage to its other educational goals. Steady improvement 
+in the quantitative credentials of the minority applicant pool 
+will make such alternatives possible. At this point, 
+however, every race-blind alternative requires a dramatic 
+sacrifice of diversity, the academic quality of all admitted 
+students, or both. 
+
+Recruiting and outreach. The Law School already 
+engages in significant recruiting and outreach activities 
+targeted at minority applicants, but such efforts have never 
+proven sufficient to enrol] a critical mass of minority 
+students without the consideration of race in admissions. 
+CAJA 401, 7668-70. Given the small size of the pool of 
+
+
+. ü 
+I 33 U. Tol. L. Rev. 119, 129 (2001). 
+See Wygant, 476 U.S. at 280 n.6 (alternatives must serve the interest 
+
+
+The issue is more relevant to Gratz v. Bollinger, and is dealt with in 
+greater detail in the University’s brief in that case. See also Brief for 
+American Law Deans Association as Amicus Curiae. 
+
+
+35 
+
+
+No elite law school could responsibly assemble a class 
+by guaranteeing admission to every applicant who had 
+secured a high grade point average in college, without 
+regard to the institution or course of study. Moreover, such 
+an approach could not produce meaningful diversity. The 
+Law School draws from a national pool and is too small to 
+guarantee admission to even a tiny percentage of graduates 
+from every university in the country. At the universities 
+from which it currently draws the vast majority of its 
+students, minorities make up no more than around 3% of the 
+students graduating in the top five or ten percent by GPA. 
+The only way to produce a diverse, racially integrated class 
+at the law school level through a “percentage plan” would be 
+to limit and gerrymander the undergraduate institutions 
+allowed to participate, such that an artificial proportion of 
+them were highly segregated majority-minority schools. 
+That is not race-neutral. If affirmative action for minority 
+students is unconstitutional, then affirmative action for 
+minority colleges would be a thin and cynical proxy that 
+would be vulnerable under cases like Village of Arlington 
+Heights v. Metropolitan Housing Development Corp., 429 
+U.S. 252 (1977), and Shaw v. Reno, 509 U.S. 630 (1998). 
+
+Indeed, that vulnerability points up a deeper problem 
+with the percentage plans at any level of higher education. 
+The Law School’s current admissions policy considers race 
+only as one factor among many, in an effort to assembie a 
+student body that is diverse in ways much broader and 
+richer than race. Because a percentage plan makes that 
+kind of nuanced judgment impossible, it effectively sacrifices 
+all other educational values—including every other kind of 
+diversity. By subordinating traditional admissions criteria 
+to a single-minded focus on race, these plans make race the 
+“predominant factor” in the design of the entire admissions 
+system. E.g., Hunt v. Cromartie, 526 U.S. 541, 547 (1999). 
+
+Abandon academic selectivity. The United States 
+repeatedly suggests that the Law School easſe] admissions 
+
+
+* 8 4 Rudenstine, Race-Sensitive Admissions: Back to Basics, 
+Chron. Higher Educ., Feb. 7, 2003, at B7, B9. 
+
+
+36 
+
+
+requirements for all students,” and “discard facially neutral 
+criteria that, in practice, tend to skew admissions in a 
+manner that detracts from educational diversity.” U.S. Br. 
+at 13-14. Those are in fact the same recommendation, since 
+the only facially neutral criteria that the Law School 
+considers that have a significant disparate impact on 
+minority candidates are academic in nature. 
+
+As the grids and the chart at JA 219 demonstrate, the 
+difficulty with such proposals is the composition of the 
+applicant pool. There are so many more white and Asian 
+American applicants throughout the upper and middle score 
+ranges that no incremental lowering of standards will create 
+a pool with meaningful racial diversity. Setting the bar so 
+low that academic criteria are nearly irrelevant might allow 
+a lottery (or academic-blind subjective review) to produce a 
+racially diverse class, but any such plan would require the 
+Law School to become a very different institution, and to 
+sacrifice a core part of its educational mission. 
+
+Socio-economic criteria. The Law School already 
+considers the light that a history of overcoming poverty or 
+disadvantage may shed on every applicant’s likely 
+contributions. But if petitioner is suggesting that the Law 
+School could enroll a critical mass of minority students by 
+giving even greater weight to socio-economic criteria in an 
+honestly race-blind manner, the problem is, again, the facts. 
+
+There is a strong correlation between race and poverty 
+in our country. Nonetheless, there are still many more poor 
+white students than poor minority students in the pool from 
+as many white students as black students who both come 
+from [low socio-economic status] families and have test 
+scores that are above the threshold for gaining admission to 
+an academically selective college or university.“ Again, this 
+is not a way the Law School could enroll an academically 
+talented class that is diverse in many ways, including race. 
+
+
+Boalt Hall recently experimented with admitting more low- 
+
+
+Snape of the River 51; see generally id. at 46-52. 
+
+
+37 
+
+
+income students but abandoned that experiment after one 
+year, concluding that it could not produce racial diversity.” 
+
+“Experiential diversity.” Finally, petitioner and the 
+United States suggest that the Law School focus its 
+admissions process on identifying those students, without 
+regard to race, who have had the particular experiences and 
+perspectives that the Law School regards as uniquely 
+salient to its academic mission. That suggestion simply 
+elides the central question, which is whether the Law School 
+would still be permitted to consider “the experience of being 
+an African-American, Hispanic or Native American in a 
+society where race matters.” Pet. App. 35a. If not, this 
+proposal could not produce meaningful racial diversity, 
+supra pp. 5-6, yet it would deny minority students the 
+opportunity to have their own backgrounds and experiences 
+“weighed fairly” in the admissions process. If so, it is not 
+clear how the proposal would differ from what the Law 
+School currently does. As Dean Lehman testified, “the 
+extent to which we take race and ethnicity into account is 
+actually going to vary by individual. And it’s going to 
+depend on the admissions file, and what they say in their 
+essays about who they are, and the extent to which race is 
+part [of] their experiences.” CAJA 7755. 
+
+In its efforts to assemble a broadly diverse class, the 
+Law School already looks for minority applicants who say 
+interesting things about the ways that race has, or has not, 
+influenced their lives. It would not, however, endorse an 
+
+
+* Moran, Diversity and its Discontents: The End of Affirmative Action 
+at Boalt Hall, 88 Cal. I. Rev. 2241, 2247-48 (2000). 
+
+® Bakke, 438 U.S. at 318 (Powell, J.) As the Sixth Circuit recognized, a 
+focus on “experiential diversity” that willfully ignores experiences 
+associated with race would produce “a narrowed and inferior version of 
+the academic diversity currently sought by the Law School.” Pet. App. 
+34a-35a. Judge Boggs’s dissent offered no real response, other than 
+skepticism that “an experience with [racial] discrimination” was really “so 
+much more important than any other experience germane to other legal 
+issues.” Jd. at 120a. As this Court has recognized, “{i}t is not for the 
+Court to say what is or is not germane to the ideas to be pursued in an 
+institution of higher learning.” Southworth, 529 U.S. at 232. 
+
+
+38 
+
+
+admissions system that could consider the unique 
+contributions that minority applicants can make to the 
+educational environment only if they describe their 
+experiences as “‘victims’ of discrimination,” Pet. Br. at 37. 
+As Gerhard Casper recently put it when explaining his 
+support for race-conscious admissions programs at Stanford 
+and other selective universities: “[iJn order to survive as a 
+sane society, we should not create incentives for ever more 
+people to think in terms of victimhood or to play the role of 
+victims, or to suggest that one must be disadvantaged to be 
+given serious consideration in the college admissions 
+process.” Casper, Statement on Affirmative Action at 
+Stanford University (Oct. 4, 1995).” 
+
+B. The Law School Does Not Employ Quotas Or 
+
+Set- Asides 
+
+Petitioner and her amici repeatedly charge that the 
+Law School’s admissions process employs a “quota” or 
+“effectively reserves” a minimum of 10-12% of the class for 
+minority applicants. That accusation may be an error of law 
+or of fact (their arguments are too vague to discern which), 
+but either way the error is a plain one. If the import of their 
+argument is that the structure of the Law School’s actual 
+policy renders it a “quota” as a matter of law, their use of 
+that word in this context is a disguised assault on its 
+accepted meaning. If petitioner’s contention is that the Law 
+School is secretly operating a true rigid minimum “quota” as 
+that term has been understood until now, that is not a 
+
+1. As the United States correctly explains, “(ijt has 
+long been established that, even where the Constitution 
+permits consideration of race, it generally forbids the use of 
+racial quotas.” U.S. Br. at 22. A quota is a policy in which a 
+certain fixed number or proportion of opportunities are 
+“reserved exclusively for certain minority groups.” Croson, 
+488 U.S. at 496 (O’Connor, J.). Quotas “impose a fixed 
+number or percentage which must be attained, or which 
+
+
+5° Available on the internet at http:/www.stanford.edu/dept/pres- 
+provost/president/speeches/951004affaction._html 
+
+
+39 
+
+
+cannot be exceeded,“ and “insulate the individual from 
+comparison with all other candidates for the available 
+seats. By contrast, “a permissible goal ... require[s] only 
+a good-faith effort ... to come within a range demarcated by 
+the goal itself, and permits consideration of race (or 
+gender) as a “plus factor” in any given case while still 
+ensuring that each candidate “compete[s) with all other 
+qualified applicants. This Court’s affirmative action cases 
+frequently invoke, and often turn on, that distinction 
+between illegal quotas and permissible goals; it has also 
+been incorporated into the extensive regulations governing 
+affirmative action in federal contracting.“ 
+
+The seminal case for that distinction is in many ways 
+Justice Powell’s opinion in Bakke, which contrasted UC- 
+Davis’s rigid 16-seat quota with Harvard’s more flexible use 
+of race as a plus factor. Harvard certainly had minimum 
+goals for minority enrollment even if it had no specific 
+number firmly in mind. See 438 U.S. at 323 (“10 or 20 black 
+students could not begin to bring to their classmates and to 
+
+
+sag og aah a8 of Shae Metal Workers’ Int'l Ass'n u. EEOC, 478 U.S. 421, 
+
+495 (1986) (O’Connor, J., concurring in part and dissenting in part) 
+(citation omitted). 
+
+' Bakke, 438 U.S. at 317 (Powell, J. see also id. at 305, 319. 
+© Sheet Metal Workers, 478 U.S. at 495 (O’Connor, J., concurring in part 
+and dissenting in part). 
+
+Johnson v. Transp. Agency, 480 U.S. 616, 638 (1987); see also id. at 656 
+(O’Connor, J., concurring) (permitting use of gender as a “plus factor” to 
+achieve a stated numerical goal, as long as quotas are avoided and the 
+policy does not “automatically and blindly” promote women over men). 
+
+See generally Brief for the Respondents, Adarand Constructors, Inc. 
+v. Mineta (No. 00-730) (Aug. 10, 2001); 41 C.F.R. § 60-2.16(e)(1) 
+(“Placement goals may not be rigid and inflexible quotas. which must be 
+met, nor are they to be considered as either a ceiling or a floor for the 
+employment of particular groups. Quotas are expressly forbidden.”); id. 
+§ 60-2.16(e)(3); id. § 60-2.16(a); Office of Legal Counsel, Department of 
+Justice, Legal Guidance on the Implications of the Supreme Court’s 
+Decision in Adarand Constructors, Inc. v. Pena (June 28, 1995) (“Post- 
+Croson affirmative action programs in contracting and procurement tend 
+to employ flexible numerical goals and/ur bidding preferences in which 
+race or ethnicity is a ‘plus’ factor in the allocation decision, rather than a 
+hard set-aside of the sort at issue in Croson.”). 
+
+
+40 
+
+
+each other the variety of points of view, backgrounds and 
+experiences of blacks in the United States”). And Justice 
+Powell clearly rejected the suggestion that Harvard’s policy 
+was “the functional equivalent of a quota” merely because it 
+gave some “plus” for race, or greater “weight” to race than 
+to some other factors, in order to achieve diversity.” The 
+Law School’s “virtually indistinguishable” policy therefore 
+cannot sensibly be labeled a “quota,” at least with regard to 
+its design. It is the paradigmatic opposite of a quota as that 
+term has been understood until now. Recharacterizing the 
+Harvard plan as an illegal quota would overrule not just 
+Bakke but also cases like Johnson—and would render every 
+affirmative action program nationwide unconstitutional. 
+
+2. Assuming that petitioner and the United States do 
+not intend such a radical break with settled law, their 
+position must be that the Law School is secretly operating a 
+true, rigid minimum quota (in the ordinary, understood 
+sense). That is not a permissible inference from the record. 
+
+First, Dean Lehman and the other school officials 
+uniformly denied that extraordinary accusation. The 
+district court also expressly held that they devised and 
+implemented the policy in a good faith effort to comply with 
+Bakke and are therefore entitled to qualified immunity—a 
+holding that cannot be reconciled with any suggestion that 
+they were in fact covertly defying both their own admissions 
+policy and well-settled law. Pet. App. 252a-54a. That 
+finding has not been challenged in this Court, and the only 
+actual facts identified by petitioner and her supporters as 
+supporting their extraordinary “quota” accusation are all 
+fully consistent with faithful adherence to the written policy. 
+
+
+® 438 U.S. at 317-18. Instead, Justice Powell explained that a system 
+based on a “quota” or its “functional equivalent” involves a “prescribed 
+number” of spaces for minorities or the “total exclulsion]“ of 
+nonminorities from consideration “from a specified percentage [of spaces] 
+... [nJo matter how strong their qualifications.” Id. at 315-19; see also id. 
+at 318 n.52; Croson, 488 U.S. at 508 (flexible programs are “less 
+problematic from an equal protection standpoint because they treat all 
+candidates individually rather than making the color of an applicant’s skin 
+the sole relevant consideration”). 
+
+
+41 
+
+
+Second, petitioner, her amici, the district court, and the 
+Sixth Circuit dissenters all claimed to see some type of 
+“quota” in the Law School’s enrollment numbers, but it is 
+telling that they still cannot agree on what that quota is.“ 
+They also gerrymander the years chosen in order to make 
+that range appear tighter than the facts actually show— 
+entering classes with 42 to 73 minority students between 
+1993 and 2000.“ The statistical law of large numbers 
+guarantees that there will be a stable range, with a bottom 
+identifiable in retrospect, for any characteristic—whether 
+the admissions process cares about it or not.“ If the Law 
+School conducted an entirely race-blind process there would 
+still be a range, with a bottom that skeptical observers like 
+petitioner could mistake for a quota. 
+
+
+® Petitioner suggests the “quota” was 10-12%. Pet. 10. Judge Boggs’ 
+dissenting opinion claimed it was “around 13.5%.” Pet. App. 142a. The 
+district court variously suggested that it was 11-17%, id. at 225a, up to 
+19.2%, id. at 226a n.26, and 10-17%, id. at 229a-30a. 
+
+7 CAJA 1536 (1993-98); Record 346, Tr.Exh. 149 at 21, 23 (1999-00). 
+Both Judge Boggs (Pet. App. 141a-42a) and the United States (U.S. Br. at 
+7) focus on the fact that the total number of minority students varied only 
+slightly between 1995 and 1998. But, as Judge Boggs conceded (Pet. App. 
+142a n.29), outside of that arbitrary window the 1992 policy produced 
+quite substantial variation. See id. at 30a (13.5 to 20% overall). 
+
+By way of comparison, the proportion of students at the Law School 
+with last names beginning with “C” in the years from 1999 to 2002 turned 
+out to be 6.4%, 6.6%, 6.5%, and 6.4%. The United States also notes (U.S. 
+Br. at 15) that African-American enrollment at the University of Texas 
+has varied between 3% and 4% in recent years—but apparently does not 
+see in that narrow range the operation of a secret quota, even though the 
+top-10% plan covers only about half of its admissions process and thus 
+leaves room for discretion. See also id. at 16 n.5 (“System-wide minority 
+enrollment [in Florida] will remain steady at approximately 36%.”). 
+as Contrary to petitioner’s suggestion, the district court did not make a 
+factual “finding” that the Law School’s policy reserves a certain number 
+(or range) of seats for minority students. See Pet. App. 248a (“the law 
+school has not set aside a fixed number of seats”). It instead concluded as 
+a matter of law that “there is no principled difference between a fixed 
+number of seats” and the practical effect of the Law School’s policy 
+described above—which the district court characterized as “an essentially 
+fixed minimum percentage figure.” Jd. The Sixth Circuit agreed with the 
+district court’s finding that the Law School’s policy would, as a practical 
+
+
+42 
+
+
+Third, the Law School’s hope that its admissions policy 
+will produce a critical mass of minority students does not 
+make that policy a quota. As the Harvard plan recognized, 
+there is of course “some relationship between numbers and 
+achieving the benefits to be derived from a diverse student 
+body, and between numbers and providing a reasonable 
+environment for those students admitted.” 438 U.S. at 323. 
+If the Law School did not pay attention to these educational 
+concerns, then its policy would not be narrowly tailored to 
+the interests it seeks to promote. But “some attention to 
+numbers” does not transform a flexible admissions system 
+into a rigid quota. 
+
+Petitioner and the United States emphasize snippets of 
+testimony from various witnesses indicating that a critical 
+mass would probably be achieved with tolerable frequency 
+when total minority enrollments fall within 10 and 20%. 
+Even if those numbers are taken to express the Law 
+School’s official goai (contrary to its written policy and the 
+uniform testimony of those very same witnesses), they 
+would still be just that: aspirational goals, not quotas. 
+
+The Law School’s desire for a “critical mass” of students 
+from otherwise underrepresented minority groups is only 
+one of many educational goals pursued through the 
+admissions policy, and it is at all times weighed against 
+other educational objectives. Dean Lehman and the other 
+trial witnesses testified unequivocally that the Law School 
+would and does regularly reject qualified minority 
+
+
+matter, produce some concrete range of minority enrollments over time. 
+Id. at 29a (Proper consideration of race will “over time ... always produce 
+some percentage range of minority enrollment. And that range will 
+always have a bottom, which, of course, can be labeled the ‘minimum.”’). 
+The Sixth Circuit disagreed only with the district court’s conclusion that 
+there is no “principled” (i.e., legal) difference between a policy with that 
+effect and a rigid set-aside. Id. at 24a, 29a-32a. Compare Johnson v. 
+Transp. Agency, 41 Fair Empl. Prac. Cases (BNA) 476 (1982) (concluding 
+that affirmative action program created an “absolute bar” to male 
+employee’s promotion) with Johnson, 480 U.S. at 637-38 (reviewing de 
+novo and concluding that no candidates were “automatically excluded 
+from consideration”). 
+
+
+43 ; 
+
+
+candidates, even if that risks falling short of a critical mass, 
+because it believes that assembling a class with exceptional 
+academic promise is even more valuable, or because it 
+concludes that particular white or Asian American 
+candidates will bring other things to the educational 
+environment that are, on balance, even more intriguing and 
+valuable. See supra pp. 8-9. Petitioner offers no evidence 
+that even tends to confirm her charge that the Law School’s 
+desire for a critical mass is instead an inflexible quota.” 
+Petitioner’s argument ultimately boils down to a claim 
+that any plus program generating a range of minority 
+admissions for which the bottom in hindsight approaches a 
+meaningful level of racial diversity should be presumed to 
+mask a “secret” quota. If a court were permitted to draw 
+that inference from the record in this case, then every 
+honest Bakke program would be challenged in court on the 
+same grounds—and institutions like the Law School could 
+avoid losing only by manipulating the process to produce, 
+every few years, a class with very few minority students. 
+C. The Law School’s Consideration Of Race Is 
+Individualized, Competitive, Modest In Scope, 
+And Does Not Impose An Undue Burden On 
+Non-Minority Applicants 
+Petitioner’s brief points to various statistical measures 
+of academic qualifications and odds of admission, and 
+concludes that the Law School employs a “plus factor” that 
+is too large. That is not truly a narrow tailoring argument 
+at all. Narrow tailoring scrutiny of the size of a “plus factor” 
+
+
+% ‘The fact that the Law School’s database kept track of (among other 
+things) the racial composition of the developing class, and included that 
+data on periodic reports, suggests nothing inappropriate. The Law School 
+is required to track the racial composition of its student body and report 
+it to the Department of Education, see 34 C.F.R. § 100.6(b); 20 U.S.C. 
+§ 1094(a)(17), and to the ABA as part of the accreditation process, see 
+ABA Accreditation Standards Interpretation 101-1 (1996). In addition, 
+Bakke authorizes admissions officers to pay “some attention to numbers,” 
+438 U.S. at 323, and the Law School’s admissions officers testified without 
+contradiction that they never gave race any more or less weight based on 
+information in these reports in any event. CAJA 7336. 
+
+
+44 
+
+
+must be focused on the questions to which that issue is 
+genuinely relevant: the closeness of the “fit” between 
+means and ends, and the burden imposed on innocent 
+parties. The Law School’s policy satisfies both standards. 
+
+1. It is important to recognize at the outset that the 
+statistical measures relied upon by petitioner cannot bear 
+the weight that she places on them. Differences in average 
+or median scores are unrevealing for reasons already 
+explained. Supra p. 9 n.12. Petitioner’s probabilities and 
+“odds ratios” within individual cells on her admissions 
+grids (or at a given index score) certainly establish some 
+attention to race, but are inherently incapable of measuring 
+its weight. Because applicants within each cell have (by 
+definition) identical quantitative qualifications, even a very 
+modest “tie-breaking” plus factor would often produce 
+enormous differences in probabilities or relative odds 
+ratios.” In addition, the composite relative-odds ratios (Pet. 
+Br. at 9) are highly misleading because this methodology 
+required petitioner’s statistician to exclude all of the cells (a 
+majority of the total) in which white and minority applicants 
+were treated the same.” A methodology that would 
+quantify even a tie-breaking plus factor as an “enormous” 
+one and exclude all data that reflects equal treatment is 
+simply not useful to the constitutional inquiry.” 
+
+2. The bulk of petitioner’s narrow tailoring argument 
+proceeds as if a plus factor“ is automatically 
+
+
+71 „Odds ratios” do not mean the same thing as the “probability” of 
+admission. For example, petitioner’s statistician explained that an odds 
+ratio of 81 means that an applicant was nine times as likely to be 
+admitted. Tr. 2:121-23. 
+
+* CAJA 7625-28 (Raudenbush). Petitioner’s statistician conceded the 
+accuracy of this observation. See id. at 7469-70, 8597-99, 7466-67. 
+
+* CAA 7456-58, 7613-14. In 1995, for example, this methodology 
+resulted in the exclusion of almost 40% of the minority admissions 
+decisions from the analysis. CAJA 8603-05, 8982, 8595. Indeed, 
+petitioner’s statistician found statistically significant differences in rates 
+of admission only for 21 of the 240 cells in 1995. Tr. 2:143. 
+
+™ ‘The district court approved of the Larntz methodology, Pet. App. at 
+227a-28a, but did not actually rely upon it in resolving the narrow 
+tailoring issues. Id. at 246a-52a. 
+
+
+45 
+
+
+unconstitutional if it appears to have any significant impact 
+upon which students are admitted. To the contrary, a race- 
+conscious policy that did not meaningfully alter the 
+outcomes of the admissions process could not, for that very 
+reason, possibly be narrowly tailored. Such a policy would 
+incur most of the costs associated with governmental 
+consideration of race, while achieving nothing at all. 
+
+The most important “fit” question in this case, 
+therefore, is whether the scale of the Law School's plus 
+factor is appropriately tailored to the achievement of its 
+educational goals. See Croson, 488 U.S. at 507. On that 
+question, the record supplies a clear and undisputed answer. 
+A ruling that the Law School must place measurably less 
+weight on race will preclude it from enrolling a meaningful 
+number of minority students. However one measures the 
+scale of the Law School’s plus factor, it is clearly the 
+minimum required to make the policy, in Justice Powell’s 
+words, an “effective means” “to the attainment of 
+considerable ethnic diversity in the student body,” 438 U.S. 
+at 315, in light of the current applicant pool.” 
+
+Justice Powell also recognized in Bakke that an 
+admissions program does not genuinely “fit” the interest in 
+educational diversity unless it considers race only in the 
+context of a genuine commitment to diversity in a “broad[{] 
+array of qualifications and characteristics of which racial or 
+ethnic origin is but a single though important element.” 438 
+U.S. at 315. The program must therefore proceed on an 
+“individualized, case-by-case basis,” id. at 319 n.53, cannot 
+isolate any applicants from competition with all others, and 
+must be “flexible enough to consider all pertinent elements 
+of diversity in light of the particular qualifications of each 
+applicant, and to place them on the same footing for 
+consideration, although not necessarily according them the 
+same weight.” Id. at 317 (emphasis added). 
+
+
+* The pool of high-scoring minority students was much smaller in 1978 
+than today; Harvard and similar institutions were necessarily giving a 
+substantial plus to minority students in order to achieve that goal. 
+
+
+46 
+
+
+The Law School similarly engages in a highly 
+individualized, holistic review of each file, and gives serious 
+consideration to all of the ways that applicants might 
+contribute to a diverse educational environment. The Law 
+School does not, of course, accord all such potential 
+contributions the same weight, but it does weigh them 
+“fairly” and “place them on the same footing for 
+consideration.” Jd. at 317-18. The Law School’s “plus,” 
+however measured, is far smaller than the disparities at UC- 
+Davis in Bakke (0.61 to 0.94 points of GPA and 35 to 54 
+percentiles on the MCAT), id. at 277 n.7, and the subjective 
+diversity contributions of white and Asian American 
+students are frequently given similar weight. Supra p. 10. 
+
+It would also indicate a poor fit between the scale of the 
+Law School’s plus factor and its educational goals if the 
+minority students being admitted in fact detracted from 
+rather than enhanced its educational environment—or did 
+not achieve the kinds of success, and provide the kinds of 
+leadership, that the Law School expects from its students 
+after graduation. The record in this case conclusively 
+dispels such notions. Supra p. 9. 
+
+The idea that minority students themselves are 
+somehow injured by being admitted to highly selective 
+institutions also wilts under scrutiny. Such students 
+graduate at significantly higher rates and earn much more 
+in later life than their peers with identical grades and test 
+scores who attend less selective schools. Shape of the River 
+54-68, 128, 264. Graduates of all races from selective 
+institutions support continued use of race in admissions to 
+achieve diversity by wide margins (much wider than the 
+population as a whole), indicating that the consequences of 
+such programs were enlightening—not stigmatizing.” In 
+one recent study, 91% of the Law School’s graduates 
+reported that racial diversity was a positive aspect of their 
+
+
+© Shape of the River 118-255, 269; CAJA 2251 (almost 80% of white 
+graduates support retaining or expanding race-conscious admissions). 
+
+
+47 
+
+
+experience.” The Law School’s consideration of race is, in 
+intent and effect, no more stigmatizing than the “plus” it 
+gives to some white students to ensure geographic 
+diversity, or to build a community across generations by 
+admitting children of alumni. 
+
+3. The Law School’s program also does not “unduly 
+burden individuals who are not members of the favored 
+racial and ethnic groups.” Metro Broad., 497 U.S. at 630 
+(O’Connor, J., dissenting). As Justice Powell recognized in 
+Wygant, the burden imposed by race-conscious “school 
+admissionſs]“ decisions, like the burden imposed by hiring 
+goals, “is diffused to a considerable extent among society 
+generally.” 476 U.S. at 282, 283 n.11. Unlike a job layoff, in 
+which “the entire burden of achieving racial equality” is 
+imposed on identifiable individuals, “resulting in serious 
+disruption of their lives,” an admissions decision “often 
+foreclosſes] only one of several opportunities.” Id. at 283. 
+
+The Law School of course understands that these 
+decisions are enormously important to all of its applicants, 
+and that failure to gain admission can be very disappointing. 
+But the Law School’s consideration of race imposes a burden 
+on non-minority applicants so small and “diffuse” that it 
+barely affects their chances at all. By way of example, an 
+entirely race-blind process would have reallocated an 
+average of 41 seats in each incoming class between 1995 and 
+2000, CAJA 6047, among the approximately 2200 applicants 
+rejected each year. The Law School’s policy thus offers 
+white and Asian American students a slightly smaller 
+chance of attending a school that is thereby able to offer 
+them (and others) a substantially better educational 
+experience if admitted—hardly an unreasonable burden.” 
+
+
+™ Orfield & Whitla, Diversity and Legal Education: Student Experiences 
+in Leading Law Schools, in Diversity Challenged: Evidence on the 
+Impact of Affirmative Action 160 (Orfield & Kurleander eds. 2001); see 
+also CAJA 2251, 5870-81, 6210, 6213-18; Brief for Michigan Black Law 
+Alumni Society as Amicus Curiae. 
+
+Barbara Grutter’s application illustrates the point well. Although the 
+Law School’s consideration of race may have decreased her chances of 
+admission slightly in the abstract, if the issue were tried the evidence 
+
+
+185 
+
+
+Moreover, because the Law School’s admissions policy is 
+typical of those used at law schools nationwide, the handful 
+of rejected students who would have been admitted under a 
+rigidly race-blind policy may be expected to have gained 
+admission to a comparable law school that is itself able to 
+offer the benefits of a racially integrated environment. 
+
+The burden imposed on non-minority applicants by the 
+Law School’s policy is wholly different in nature from that 
+created by the FCC programs in Metro Broadcasting. The 
+FCC’s distress sale program “created a specialized market 
+reserved exclusively for minority controlled applicants”; 
+literally, a “100% set-aside.” 497 U.S. at 630 (O’Connor, J., 
+dissenting). And because “[tJhe basic nonrace criteria 
+[were] not difficult to meet” in the comparative program, 
+race was “clearly the dispositive factor in a substantial 
+percentage of comparative proceedings”—perhaps 
+“overwhelmingly the dispositive factor.” Id. at 630-31. 
+
+By contrast, the record demonstrates beyond question 
+that academics, not race, is the dispositive factor in the vast 
+majority of the Law School’s admissions decisions. CAJA 
+7476, 7585, 7637; Tr. 2210-13. The Law School’s academic 
+criteria are overwhelmingly difficult to meet—so difficult 
+that only a small fraction of our Nation’s college graduates 
+can meet its standards. From among that group, the Law 
+School considers each applicant as an individual and strives 
+to admit a student body that will best further its educational 
+goals. The Law School (while appropriately conscious of the 
+racial and ethnic background of most applicants) has not, in 
+other words, subordinated traditional criteria in a way that 
+would make race the “predominant factor” in the admissions 
+process. Hunt, 526 U.S. at 547. 
+
+4. Close scrutiny of the fit between means and ends and 
+of the burden on non-minority applicants imposes 
+
+
+would show that she would not have been admitted even under a rigidly 
+race-neutral policy. Ore hundred and thirty-five other white applicants in 
+the same or higher “cells” than Ms. Grutter were rejected along with her 
+in 1997; 35 white applicants from lower cells were admitted; and the wait 
+list she was on included more than 500 applicants. See JA 175; CAA 458. 
+
+
+— 
+
+
+—— 
+
+
+49 
+
+
+meaningful constraints on the consideration of race within 
+the framework established by Bakke. Petitioner’s abstract 
+contention that the Law School’s “plus” is simply too large 
+offers no workable alternative. A holding along those lines 
+would, as a practical matter, likely preclude any selective 
+institution from employing any plus program to enroll 
+meaningful numbers of minority students. The difficulty of 
+measuring the precise weight given to race versus other 
+diversity factors, coupled with the difficulty of articulating a 
+reasoned but clear definition of how much weight this factor 
+among others may be given, means that such a ruling would 
+create far too much exposure to disruptive and costly 
+litigation. As Justice Powell properly recognized in Bakke, 
+if the standards described above are met—and they are 
+here—there “is no warrant for judicial interference in the 
+academic process.” 438 U.S. at 319 n.53. 
+
+D. The Law School’s Special Attention To African- 
+American, Hispanic And Native American 
+Applicants Is Based On Reasoned Principle 
+
+Petitioner contends (Pet. Br. at 43) that the Law 
+
+School’s policy is illogical and “haphazard” in the choice of 
+racial or ethnic groups for which it shows a particular 
+concern. It is not. That policy’s objective is to assemble a 
+class that is both academically superior and richly diverse in 
+a variety of ways that include, but certainly are not limited 
+to, race and ethnicity. The Law School therefore pays 
+attention to the racial or ethnic background of every 
+applicant, to the extent that it sheds any light on their 
+experiences and “likely contributions to the intellectual and 
+social life of the institution.” CAJA 314; id. at 7783, 7248.” 
+
+
+* Petitioner argues that the Law School has drawn a special distinction 
+between Puerto Rican applicants born on the mainland and those born in 
+applicants. The Law School's pre-1992 system did draw distinctions like 
+these, but its current policy was revised to provide a special commitment 
+to enrolling a “critical mass” of “Hispanics” generally. Supra p. 10 n.15; 
+CAJA 321, 7263 (Munzel, director of admissions), 477 (Dean Lehman). 
+Bulletins were printed for several years that failed to reflect the change, 
+but that mistake was corrected by 1997. Compare CAJA 1729 with 1885. 
+
+
+50 
+
+
+But the Law School’s desire for meaningful numbers of 
+African-American, Hispanic and Native American students 
+is, in several important respects, unique. By virtue of our 
+Nation’s unfortunate past and ongoing struggle with racial 
+inequality, such students are both uniquely likely to have 
+had experiences of particular importance to the Law 
+School’s mission, and uniquely unlikely to be admitted in 
+meaningful numbers on criteria which ignore those 
+experiences. The Law School's goal of fostering interaction 
+and understanding across traditional racial lines also 
+particularly requires African-American, Hispanic and 
+Native American students, since those are the groups most 
+isolated by racial barriers in our country. For similar 
+reasons, the educational pitfalls associated with isolation are 
+particularly salient for these students. See supra p. 26. 
+
+If educational experience revealed a similar confluence 
+of issues with respect to other discrete ethnic groups, the 
+Law School would modify its policy to acknowledge that 
+fact.” Petitioner’s complaint that the Law School ignores 
+the “dozens of separate racial or ethnic groups” from which 
+its white and Asian American students hail is wrong 
+(because, as noted, the Law School does consider such 
+information) and misses the point. Narrow tailoring does 
+not require the Law School to blindly give the same “plus” 
+to every ethnic group it can identify, regardless of its 
+salience to the educational mission—and regardless of 
+whether members of that group would be well represented 
+in the student body anyway. Such a regime would be 
+impossibly unwieldy, self-negating, and would serve no 
+coherent interest whatsoever. 
+
+CONCLUSION 
+
+
+For the reasons set forth, this Court should affirm the 
+judgment of the Court of Appeals. 
+
+
+© See, eg., Pet. App. 213 n.15 (recognizing that Asian and Jewish 
+Americans are also likely to have had unique experiences because of their 
+ethnicity, but that they are “already being admitted to the law school in 
+significant numbers” on race-neutral criteria); CAA 7520-21 (same). 
+
+
+Dated: February 2003 
+
+
+MARVIN KRISLOV 
+JONATHAN ALGER 
+UNIVERSITY OF MICHIGAN 
+OFFICE OF THE VICE 
+PRESIDENT AND 
+GENERAL COUNSEL 
+
+
+EVAN CAMINKER 
+
+UNIVERSITY OF MICHIGAN 
+LAW SCHOOL 
+
+625 South State Street 
+
+Ann Arbor, MI 48109 
+
+
+PHILIP J. KESSLER 
+LEONARD M. NIEHOFF 
+BUTZEL LONG 
+
+350 South Main, Suite 300 
+Ann Arbor, MI 48104 
+
+
+Respectfully submitted, 
+
+
+MAUREEN E. MAHONEY 
+Counsel of Record 
+
+J. SCOTT BALLENGER 
+
+NATHANIEL A. VITAN 
+
+LATHAM & WATKINS LLP 
+
+555 Eleventh Street, N.W. 
+
+Suite 1000 
+
+Washington, DC 20004 
+
+(202) 637-2200 
+
+
+JOHN H. PICKERING 
+JOHN PAYTON 
+BRIGIDA BENITEZ 
+STUART F. DELERY 
+CRAIG GOLDBLATT 
+ANNE HARKAVY 
+TERRY A. MARONEY 
+WILMER, CUTLER & 
+PICKERING 
+
+2445 M Street, N.W. 
+
+
+Washington, DC 20037 
+
+

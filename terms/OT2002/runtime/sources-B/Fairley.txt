@@ -1,0 +1,217 @@
+https://law.resource.org/pub/us/case/reporter/F3/281/281.F3d.913.html
+
+
+
+
+  
+    281 F.3d 913
+    
+    
+    
+    
+    
+
+  
+  
+    281 F.3d 913
+
+    John B. FAIRLEY, Plaintiff-Appellee,v.Robert LUMAN, Chief; City of Long Beach; Jon Paul Javellana, Officer # 9691, f/k/a Doe 1, a/k/a Javellana; Steven L. Romero, Officer # 5476, f/k/a Doe 2, a/k/a Romero; Ryan Ford, Sgt., Defendants-Appellants.
+
+    No. 99-56483.
+
+    United States Court of Appeals, Ninth Circuit.
+
+    Argued and Submitted March 7, 2001.
+
+    Filed February 15, 2002.
+
+    
+      COPYRIGHT MATERIAL OMITTED Robert Mann and Donald W. Cook, Los Angeles, CA, for the plaintiff-appellee.
+
+      Robert E. Shannon, City Attorney, and Daniel S. Murphy, Principal Deputy, Long Beach, CA, for the defendants-appellants.
+
+      Appeal from the United States District Court for the Central District of California; David O. Carter, District Judge, Presiding. D.C. No. CV-99-00063-DOC-EEx.
+
+      Before: BROWNING, BRUNETTI, and HAWKINS, Circuit Judges.
+
+      PER CURIAM.
+
+    
+
+    
+      1
+      Plaintiff was detained by officers of the City of Long Beach Police Department ("City") and held for twelve days on outstanding warrants for the arrest of his twin brother. Plaintiff brought a suit under 42 U.S.C. § 1983 against the detaining officers and booking sergeant for use of excessive force and arrest without probable cause and a Monell claim against the City for violation of plaintiff's civil rights by reason of a policy, custom or practice of its Police Department. The jury exonerated the individual officers but found the City liable, awarding plaintiff $11,250. The district court awarded attorney fees in the amount of $92,211.83. The City appeals. We affirm.
+
+    
+
+    I.
+
+    
+      2
+      On April 26, 1997, John Fairley ("John") was taken into custody by Long Beach Officers Romero and Javellana for allegedly violating a temporary restraining order after a confrontation with his next door neighbor. John claimed the officers used excessive force when taking him into custody. After John was in custody, Officers Romero and Javellana ran a warrant check and found two 1995 infraction warrants for Joe B. Fairley, John's identical twin brother. The physical descriptions of the two men were similar in certain respects: both were black, between 5'6" and 5'8", and, of course, were the same age. However, their weights differed by approximately 66 pounds and the driver's license number on one of the warrants was similar, but not identical, to the number on John's license. John had not had contact with the police in almost ten years and both he and his wife told the officers the warrants had to be for Joe. The officers knew John had a twin: the temporary restraining order application said so and his next door neighbor pointed that fact out to the officers.
+
+    
+
+    
+      3
+      Officers Romero and Javellana told the booking sergeant, Ford, that John Fairley had a twin brother, as did John himself, insisting the warrants were for his twin. Nonetheless, Sergeant Ford approved John's booking on the warrants based on the similarity in the physical descriptions alone. Neither a fingerprint comparison nor Department of Motor Vehicles check was completed at any time during John's twelve-day detention. Either would have immediately alerted the City it had the wrong man.1
+
+    
+
+    
+      4
+      John continuously protested the mistaken identity over the course of his twelve-day detention. Prison officials responded by reducing his privileges. Although the charge against John was dropped three days after his arrest, the police continued to hold him on Joe's infraction warrants and later transferred him to the Los Angeles County jail. John was released only after filing a citizen's complaint from jail. The ensuing internal affairs investigation found the City's policies and procedures had been fully complied with in the handling of John's case.
+
+    
+
+    
+      5
+      John filed this lawsuit against Officers Romero and Javellana, the booking officer, Sergeant Ford, and the City for violation of his constitutional rights.2 The jury exonerated the individual officers of using excessive force and arresting John without probable cause, but found the City liable for violating John's civil rights "by reason of a policy, custom or practice of the Long Beach Police Department." The district court denied the City's motion for judgment as a matter of law or, in the alternative, for a new trial. The City appealed.
+
+    
+
+    II.
+
+    
+      6
+      The City's principal argument is that it is entitled to judgment as a matter of law because the jury determined that the individual officers had inflicted no constitutional injury.
+
+    
+
+    
+      7
+      In Monell v. Department of Social Servs., 436 U.S. 658, 98 S.Ct. 2018, 56 L.Ed.2d 611 (1978), the Supreme Court held that municipalities were "persons" under § 1983 and thus could be held liable for causing a constitutional deprivation.3 Id. at 690, 98 S.Ct. 2018. The Court explained that while a municipality may not be held liable under § 1983 for the torts of its employees on a theory of respondeat superior, liability may attach where the municipality itself causes the constitutional violation through the execution of an official policy, practice or custom. Id. at 690-691, 98 S.Ct. 2018.
+
+    
+
+    
+      8
+      The City claims the Supreme Court's decision in City of Los Angeles v. Heller, 475 U.S. 796, 106 S.Ct. 1571, 89 L.Ed.2d 806 (1986), and this court's decisions in Scott v. Henrich, 39 F.3d 912 (9th Cir. 1994), and Quintanilla v. City of Downey, 84 F.3d 353 (9th Cir.1996), preclude municipal liability as a matter of law under § 1983 when the jury exonerates the individual officers of constitutional wrongdoing. In Heller, the Supreme Court held a jury's determination that an individual officer did not use constitutionally excessive force precluded § 1983 municipal liability on that ground. Heller, 475 U.S. at 799, 106 S.Ct. 1571. ("neither Monell [citation omitted] nor any other of our cases authorizes the award of damages against a municipal corporation based on the actions of one of its officers when in fact the jury has concluded that the officer inflicted no constitution harm.") Similarly, in Scott and Quintanilla, we affirmed summary judgment in favor of cities sued under § 1983 where the defendant officers charged with excessive force were individually exonerated. Scott, 39 F.3d at 916; Quintanilla, 84 F.3d at 356.
+
+    
+
+    
+      9
+      Heller, Scott and Quintanilla control John's excessive force claim. Exoneration of Officer Romero of the charge of excessive force precludes municipal liability for the alleged unconstitutional use of such force. To hold the City liable for Officer Romero's actions, we would have to rely on the § 1983 respondeat superior liability specifically rejected by Monell.
+
+    
+
+    
+      10
+      However, these decisions have no bearing on John's Fourth and Fourteenth Amendment claims against the City for arrest without probable cause and deprivation of liberty without due process. These alleged constitutional deprivations were not suffered as a result of actions of the individual officers, but as a result of the collective inaction of the Long Beach Police Department.
+
+    
+
+    
+      11
+      In City of Canton v. Harris, 489 U.S. 378, 109 S.Ct. 1197, 103 L.Ed.2d 412 (1989), the Supreme Court recognized that the city could be held independently liable under § 1983 for failure to train its police officers even though no individual defendants were sued. This Court reached the same conclusion in Oviatt v. Pearce, 954 F.2d 1470, 1477-79 (9th Cir.1992), deciding § 1983 liability could attach to a city because it failed to implement internal procedures for tracking inmate arraignments. Even more to the point, in Hopkins v. Andaya, 958 F.2d 881, 888 (9th Cir.1992), we held that a city could be liable under § 1983 for improper training or improper procedure even if the individual officer charged with violating the plaintiff's constitutional rights was exonerated.
+
+    
+
+    
+      12
+      The district court did not err by denying the City's motion for judgment as a matter of law on the Monell claim based on the jury's exoneration of the individual officers alone. If a plaintiff establishes he suffered a constitutional injury by the City, the fact that individual officers are exonerated is immaterial to liability under § 1983.4 Otherwise, municipal liability may attach where a constitutional deprivation is suffered as a result of an official city policy but no individual officer is named as a defendant, see City of Canton, but not where named individual officers are exonerated but a constitutional deprivation was in fact suffered. In either case, a constitutional deprivation — the touchstone of § 1983 liability — was a consequence of city policy.
+
+    
+
+    III.
+
+    
+      13
+      The City claims John's Monell claim failed because he did not prove he suffered a constitutional injury or that the City had a policy, custom, or practice that caused such injury. Since the jury did not specify the constitutional deprivation upon which it based its finding of municipal liability, we consider whether, viewed in the light most favorable to John and drawing all reasonable inferences in his favor, there is sufficient evidence for a reasonable jury to find John met his burden on any claim supported by the record. See Howard v. Everex Systems, Inc., 228 F.3d 1057, 1060 (9th Cir.2000); Fed.R.Civ.P. 50(a)(1). We conclude there was sufficient evidence for a reasonable jury to find John suffered a constitutional deprivation under the Fourteenth Amendment. We do not address his Fourth Amendment claims.
+
+    
+
+    A. Constitutional Injury
+
+    
+      14
+      Even detention pursuant to a valid warrant but in the face of repeated protests of innocence will, after a lapse of time, deprive the accused of a constitutional "liberty." Baker v. McCollan, 443 U.S. 137, 143, 99 S.Ct. 2689, 61 L.Ed.2d 433 (1979). "[A]n individual has a liberty interest in being free from incarceration absent a criminal conviction." Lee v. City of Los Angeles, 250 F.3d 668, 683 (9th Cir. 2001) (quoting Oviatt, 954 F.2d at 1474). Indeed, we have stated freedom from incarceration is the "paradigmatic liberty interest" under the due process clause. Oviatt, 954 F.2d at 1474.
+
+    
+
+    
+      15
+      John had a liberty interest in being free from a twelve-day incarceration without any procedural safeguard in place to verify the warrant he was detained on was his and in the face of his repeated protests of innocence.5 In light of the importance of John's liberty interest, the significant risk of deprivation of that interest through the City's warrant procedures, and the minimum burden to the City of instituting readily available procedures for decreasing the risk of erroneous detention, the procedures afforded by the City to John failed to provide him due process under the Fourteenth Amendment.6
+
+    
+
+    B. Policy or Custom
+
+    
+      16
+      A "policy" is "`a deliberate choice to follow a course of action ... made from among various alternatives by the official or officials responsible for establishing final policy with respect to the subject matter in question.'" Oviatt, 954 F.2d at 1477 (quoting Pembaur v. City of Cincinnati, 475 U.S. 469, 483, 106 S.Ct. 1292, 89 L.Ed.2d 452 (1986)). A "policy" can be one of action, see Monell, 436 U.S. at 661, 98 S.Ct. 2018 (forcing women to take early maternity leave), or inaction, see City of Canton, 489 U.S. at 387, 109 S.Ct. 1197 (failure to train); Oviatt, 954 F.2d at 1477 (failure to implement adequate procedural safeguards).
+
+    
+
+    
+      17
+      John presented evidence sufficient to establish the City's warrant procedures constituted a "policy." Chief Luman testified at trial that he was "the chief policymaker for law enforcement matters for the City of Long Beach." His decision not to instigate any procedures to alleviate the problem of detaining individuals on the wrong warrant could constitute a policy in light of his testimony he knew it was "not uncommon" that individuals were arrested on the wrong warrant, and that the problem was particularly acute where twins were involved. As in Oviatt, where the city failed to implement internal procedures for tracking inmate arraignments, the policy was one of inaction: wait and see if someone complains. Oviatt, 954 F.2d at 1477.
+
+    
+
+    IV.
+
+    
+      18
+      The evidence admitted at trial was legally sufficient to permit a reasonable jury to find the City liable under John's § 1983 Monell claim even though the jury found the individual defendants inflicted no constitutional harm. Since the verdict was not contrary to the clear weight of the evidence, the district court did not abuse its discretion by denying the City's motion for a new trial.
+
+    
+
+    
+      19
+      The district court's denial of judgment as a matter of law, and in the alternative, a new trial is AFFIRMED.
+
+    
+
+    
+      
+        Notes:
+
+      
+
+      
+        1
+         The City concedes it had the fingerprints of both men which could easily have been compared
+
+      
+
+      
+        2
+         Charges against Chief of Police Robert Luman in his individual and official capacities were dismissed at trial
+
+      
+
+      
+        3
+         Section 1983 provides that "any person" who under the color of law causes the deprivation of "any rights, privileges, or immunities secured by the Constitution and laws, shall be liable to the party injured." 42 U.S.C. § 1983
+
+      
+
+      
+        4
+         This is true whether the officers are exonerated on the basis of qualified immunity, because they were merely negligent, or for other failure of proofSee Chew v. Gates, 27 F.3d 1432, 1438 (9th Cir.1994) ("Supervisorial liability may be imposed under section 1983 notwithstanding the exoneration of the officer whose actions are the immediate or precipitating cause of the constitutional injury."); Fagan v. City of Vineland, 22 F.3d 1283, 1291-1294 (3d Cir.1994) (holding municipality may be liable under § 1983 even if no individual officer violated the Constitution); Cannon v. Taylor, 782 F.2d 947, 951 (11th Cir.1986) (considering municipal liability for failure to train after individual defendant officer found not liable because merely negligent).
+
+      
+
+      
+        5
+         The City's responsibility for his detention was not defeated by John's transfer to the L.A. County Jail for four days. Due process imposes a requirement to take steps to verify a detainee's identity before transferring the detainee. The consequences of the transfer were foreseeable and the transfer did not break the chain of causation between the City's failure to take steps to identify John and his detention
+
+      
+
+      
+        6
+         UnderMathews v. Eldridge, 424 U.S. 319, 335, 96 S.Ct. 893, 47 L.Ed.2d 18 (1976), three factors are used to evaluate whether procedural protections comport with due process: (1) the private interest affected by the official action; (2) the risk of an erroneous deprivation of such interest through the procedures used and probable value of additional safeguards; and (3) the Government's interest.
+
+      
+
+    
+
+    
+      CC∅ | Transformed by Public.Resource.Org
+
+    
+
+  
+

@@ -1,0 +1,3346 @@
+No. 02-5664 
+
+
+In the Supreme Court of the Unites Stake 
+
+
+CHARLES THOMAS SELL, PETITIONER 
+D. 
+
+
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+THEODORE B. OLSON 
+Solicitor General 
+Counsel of Record 
+
+
+MICHAEL CHERTOFF 
+Assistant Attorney General 
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+LISA SCHIAVO BLATT 
+Assistant to the Solicitor 
+
+General 
+
+JOSEPH C. WYDERKO 
+Attorney 
+Department of Justice 
+Washington, D.C. 20530-0001 
+(202) 514-2217 
+
+
+| ll 
+
+
+QUESTION PRESENTED 
+
+
+The Court granted certiorari limited to the following 
+question: 
+
+
+Whether the court of appeals erred in rejecting peti- 
+tioner’s argument that allowing the government to adminis- 
+ter antipsychotic medication against his will solely to render 
+him competent to stand trial for non-violent offenses would 
+violate his rights under the First, Fifth, and Sixth Amend- 
+ments. 
+
+
+(I) 
+
+
+TABLE OF CONTENTS 
+
+
+Opinions below 
+Jurisdicti 
+Constitutional and statutory provisions involved 
+
+
+The district court’s order that petitioner be invol- 
+untarily medicated to restore his competence is 
+constitutional 
+I. The involuntary administration of antipsy- 
+chotic medication to restore a defendant’s 
+competence to stand trial on serious charges 
+can be ordered consistent with the defendant's 
+
+
+dicating guilt on a serious offense is not 
+limited to violent offenses 
+2. The alternatives to bringing petitioner 
+to trial are inadequate to serve the 
+government's interest 
+C. Involuntary medication is justified when there 
+is a substantial probability of restoring com- 
+»etence and when medically appropriate 
+1. Antipsychotic medication, and no less- 
+intrusive alternative, is substantially 
+likely to restore competence 
+
+
+(IIT) 
+
+
+14 
+
+
+15 
+
+
+19 
+
+
+IV 
+
+
+Table of contents—Continued: 
+
+
+II. 
+
+
+III. 
+
+
+IV. 
+
+
+ä atoll 
+appropriate 
+
+
+The involuntary administration of anti- 
+substantive due process does not violate the 
+First Amendment 
+
+
+The in voluntary administrati - antipsy- 
+chotic medication is consistent with a defen- 
+dant’s Fifth and Sxth Amendment rights to a 
+
+
+A. Medication is not likely to prejudice fair 
+trial rights 
+
+
+B. Post-medication procedures ensure that 
+trial rights 
+
+
+The order for involuntary administration 
+of antipsychotic medication in this case is 
+
+
+proper 
+93— ication is substantial 
+likely and necessary to restore petitioner's 
+competence 
+
+
+— öZà—ö—Um4ũ᷑˖., 
+appropriate 
+
+
+C. The courts below appropriately considered 
+the effects of antipsychotic medication on 
+petitioner’s fair trial rights 
+
+
+7 8 
+
+
+V 
+
+
+TABLE OF AUTHORTTIES 
+
+
+Riggins v. Nevada, 504 U.S. 127 (1992) 
+
+
+Cases: Page 
+Addington v. Texas, 441 US. 418 (1979) . 19, 28, 43 
+Barker v. Wingo, 407 U.S. 514 (1972) 25 
+Bee v. Greaves, 744 F 2d 1387 (10th Cir. 1984), 
+
+cert. denied, 469 U.S. 1214 (1985) 36 
+Bell v. Wolfish, 441 U.S. 520 (1979) 17, 20 
+Cohen v. Beneficial Indus. Loan Corp, 337 US. 
+
+541 (1949) 10 
+Cooper v. Oklahoma, 517 U.S. 348 (1996) 14, 24 
+Cruzan v. Director, Mo. Dep't of Health, 497 US. 
+
+261 (1990) 15 
+Daubert v. Merrell Dow Pharms., Inc., 509 US. 
+
+579 (1993) 29, 45 
+Drope v. Missouri, 420 U.S. 162 (1975) 24 
+Foucha v. Louisiana, 504 US. 71 (1992) 18 
+Garrett v. United States, 471 U.S. 773 (1985) 19 
+Godinez v. Moran, 509 U.S. 389 (1993) 24 
+Gideon v. Wainwright, 372 U.S. 335 (1963) 21 
+Illinois v. Allen, 397 US. 337 (1970) 19 
+Jackson v. Indiana, 406 U.S. 715 (1972) 17, 27 
+Jones v. United States, 463 U.S. 354 (1983) 18,22 
+Jurasek v. Utah State Hosp., 158 F.3d 506 (10th 
+
+Cir. 1998) 26 
+McNeil v. Wisconsin, 501 U.S. 171 (1991) 19 
+Medina v. California, 505 U S. 437 (1992) 24 
+Mills v. Rogers, 457 U.S. 291 (1982) 15, 32 
+Moran v. Burbine, 475 US. 412 (1986) 19, 24 
+Nichols v. United States, 511 U.S. 738 (1994) ................... 21 
+Palko v. Connecticut, 302 U.S. 319 (1987) 15 
+Parham v. J.R., 442 U.S. 584 (1979) 36 
+Pate v. Robinson, 383 U.S. 375 (1966) 24 
+RAV. v. City of St. Paul, 505 US. 377 (1992 37 
+Richardson v. Marsh, 481 U.S. 200 (1987) 19 
+
+
+VI 
+
+
+Cases Continued: 
+Riley v. National Fed n of the Blind, 487 U.S. 781 
+
+(1988) 
+Rochin v. California, 342 US. 165 (1952) 
+Santosky v. Kramer, 455 U.S. 745 (1982) 
+Schmerber v. California, 384 U.S. 757 (19866) 
+Simon & Schuster, Inc. v. Members of the NV. 
+
+State Crime Victims Bd., 502 U.S. 105 (199157 
+Stinson v. United States, 508 US. 36 (1993) 
+Taylor v. United States, 495 U.S. 575 (1990) 
+Texas v. Cobb, 532 U.S. 162 (2001) 
+Turner v. Safely, 482 U.S. 78 (1987) 
+United States v. Albertini, 472 U.S. 675 (1985) 
+United States v. Brandon, 158 F 3d 947 (6th Cir. 
+
+1998) 
+United States v. Charters, 863 F 2d 302 (4th Cir. 
+
+1988), cert. denied, 494 U.S. 1016 (1990) 
+United States v. Gomes, 289 F 3d 71 (2d Cir. 
+
+2002), petition for cert. pending, No. 02-7118 
+
+
+— 
+O 
+— 
+
+* 
+8 
+
+
+5 
+
+
+SSS 8S8S A SESS 
+
+
+(filed Oct. 22, 2002) 10, 18, 23, 26, 
+33, 37, 40, 41 
+
+
+United States v. Morgan, 193 F.3d 252 (4th Cir. 
+
+1999) 
+United States v. O’Brien, 391 US. 367 (1968) ................... 
+United States v. Salerno, 481 US. 739 (1987) 
+
+
+18, 
+United States v. Weissberger,951 F 2d 392 (D.C. 
+
+
+Cir. 1991) 
+United States v. Weston, 255 F 3d 873 (D.C. 
+
+
+10 
+37 
+
+
+15, 16, 
+
+
+19, 21 
+
+
+10 
+
+
+Cir.), cert. denied, 122 S. Ct. 670 (2001) passim 
+
+
+Village of Schaumburg v. Citizens for a Better 
+Env't, 444 US. 620 (1980) 
+Ward v. Rock Against Racism, 491 US. 781 
+(1989) 
+Washington v. Glucksberg, 521 U.S. 702 (1997) ............... 
+
+
+23 
+37 
+18 
+
+
+Washington v. Harper, 494 US. 210 (1990) passim 
+
+
+Vil 
+
+
+Cases—Continued: Page 
+Watchtower Bible & Tract Soc y of New York, Inc. 
+
+v. Village of Stratton, 122 S. Ct. 2080 (2002) 23 
+Winston v. Lee, 470 U.S. 753 (1985) 19 
+Woodby v. INS, 385 U.S. 276 (1966) 43-44 
+Youngberg v. Romeo, 457 U.S. 307 (1992) . 16, 17, 45 
+US. Const. 
+
+Amend. I 13, 36, 37, 1a 
+
+Amend. V 13, 19, 37, 42, 1a 
+
+Due Process Clause 24 
+
+Amend. VI 13, 16, 37, 42, la 
+
+Amend. XIV 16 
+18 U.S.C. 16 22 
+18 U.S.C. 373 2 
+18 U.S.C. 922(g\(1) 23 
+18 U.S.C. 924(e2\B) 22 
+18 U.S.C. 103502) 2 
+18 U.S.C. 1114 2 
+18 U.S.C. 1341 2 
+18 U.S.C. 1512(a) 2 
+18 U.S.C. 1513(a) 2 
+18 U.S.C. 1957(a) 2 
+18 U.S.C. 4241 3, la 
+18 U.S.C. 4241(a) 2, 11, la 
+18 U.S.C. 4241(b) 2, 3, 2a 
+18 U.S.C. 4241(d) 3, 4, 25, 27, 39, 2a 
+18 U.S.C. 4241(dX(2MA) 36, 48, 2a 
+18 U.S.C. 4246 22, 24, 26, 4a 
+18 U.S.C. 4246(d) 25, 5a 
+42 U.S.C. 1320a-Tb(aX1)(i) 4 
+28 C. F. R.: 
+
+Section 549.43 4, 13a 
+
+Section 549.430 5) 26, 14a 
+
+
+Vill 
+
+
+Miscellaneous: Page 
+American Psychiatric Ass’n, Practice Guidelines for 
+the Treatment of Psychiatric Disorders (2000) ........... 34, 41 
+
+
+American Psychiatric Press, Textbook of Psychopar- 
+macology (A. F. Schatzberg & C. B. Nemeroff eds., 
+2d ed. 1998) 29-30, 33 
+S. Caroff et al., Movement Disorders Associated with 
+
+
+Atypical Antipsychotic Drugs, 63 J. Clin. Psychiatry 
+12 (2002) 
+
+
+34 
+Company News: Eli Lilly & Co. Article, N.Y. Times, 
+Mar. 9, 2001 <http://premium.news.yahoo.com> ............. 35 
+Diagnostic and Statistical Manual of Mental Dis- 
+orders (4th ed. 2000) 3, 4,6 
+Federal Bureau of Prisons, U.S. Dep’t of Justice, 
+Health Services Manual (Sept. 1996) 32, 33, 36 
+A.R. Felthous, M.D. et al., Are Persecutory Delusions 
+Amenable to Treatment? 29 J. Am. Acad. Psy- 
+chiatry Law (2001) 30, 31 
+J. Gorman, The Essential Guide to Psychiatric 
+Drugs (3d ed. 1997) 33 
+T. G. Gutheil, M.D. & P.S. Appelbaum, M.D. “Mind 
+Control,” “Synthetic Sanity,” “Artificial Compe- 
+__tence,” and Genuine Confusion: Legally Relevant 
+Effects of Antipsychotic Medication, 12 Hofstra 
+L. Rev. 77 (1983) 31, 33 
+http//www.pfizer.com/hml/pi’s/geodonpi.pdf 35 
+Kaplan & Sadock’s, Comprehensive Textbook of 
+Psychiatry (B. J. Sadock & V. A. Sadock eds., 7th 
+ed. 2000) 32, 41 
+Vol. 1 45 
+Vol. 2 32, 41 
+
+
+B. Ladds et al., Involuntary Medication of Patients 
+Who Are Incompetent to Stand Trial: A De- 
+scriptive Study of the New York Experience with 
+Judicial Review, 21 Bull. of the Am. Acad. Psy- 
+chiatry Law 529 (1993) 28 
+
+
+IX 
+
+
+B. Ladds et. al, The Disposition of Criminal Charges 
+After Involuntary Medication to Restore Compe- 
+tency to Stand Trial, 38 J. Forensic Sci. 1442 
+
+
+(1993) 28, 39, 40 
+
+
+H. Meltzer & S. McGurk, The Effects of Clozapine, 
+Risperidone, end Ol — — 
+in Schizophrenia, Schizophrenia Bull. 233 (1999) 
+A. Munro, Delusional Disorder, Paranoia and Re- 
+lated Ilinesses (Cambridge Univ. Press 1999) 
+National Institute of Mental Health, Mental Health. 
+
+
+A Report of the Surgeon General (1999) ............ 30, 31, 33, 34 
+
+
+P.A. Nidich & J. Collins, Involuntary Administration 
+of Psychotropic Medication: A Federal Court Update, 
+
+
+11 Health Lawyer 12 (May 1999) 
+
+
+L. Pendelton, Treatment of Persons Found Incompe- 
+tent to Stand Trial, 137 Am. J. Psychiatry 1098 
+(1980) 
+
+
+A.A. Stone, M.D., Commentary on Formulating 
+Mental Health Codes for the World, Psychiatric 
+Times, July 2002 
+
+
+S. Vedantam, Implants May Reshape Schizophrenia 
+Treatment, Washington Post, Nov. 16, 2002 
+
+
+<http://www.schizophreniahelp.com> 
+
+
+In the Supreme Court of the United States 
+
+
+No. 02-5664 
+CHARLES THOMAS SELL, PETITION ER 
+v. 
+UNITED STATES OF AMERICA 
+
+
+ON WRIT OF CERTIORARI 
+TO THE UNITED STATES COURT OF APPEALS 
+FOR THE EIGHTH CIRCUIT 
+
+
+BRIEF FOR THE UNITED STATES 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (J.A. 356-382) is 
+reported at 282 F.3d 560. The order of the district court 
+(J.A. 339-355) is unreported. The memorandum and order of 
+the magistrate judge (J.A. 320-338) is unreported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+March 7, 2002. A petition for rehearing was denied on May 
+7, 2002 (J.A. 383). The petition for a writ of certiorari was 
+filed on August 2, 2002, and was granted on November 4, 
+2002, limited to the question specified by the Court. The 
+jurisdiction of this Court rests on 28 U.S.C. 1254(1). 
+
+
+CONSTITUTIONAL AND STATUTORY 
+PROVISIONS INVOLVED 
+
+
+The relevant constitutional, statutory, and regulatory 
+provisions are reprinted in an appendix to this brief. App., 
+infra, la-16a. 
+
+
+(1) 
+
+
+2 
+
+
+STATEMENT 
+
+
+1. On May 16, 1997, petitioner, a dentist, was charged in 
+a complaint with making false representations in connection 
+with payments for health care services, in violation of 18 
+U.S.C. 1035(a)(2). On May 20, 1997, the government filed a 
+motion pursuant to 18 U.S.C. 4241(a) for a psychiatric 
+examination of petitioner to determine his competence to 
+stand trial. After a hearing, a magistrate judge ordered that 
+petitioner be sent to the U.S. Medical Center for Federal 
+Prisoners at Springfield, Missouri (Springfield), for an 
+evaluation under 18 U.S.C. 4241(b). On July 15, 1997, after 
+receiving a psychological evaluation from Springfield, the 
+magistrate judge ruled that petitioner was competent to 
+stand trial. Petitioner was thereafter released. J.A. 357-358. 
+
+On November 6, 1997, a superseding indictment was 
+returned charging petitioner and his wife with 56 counts of 
+mail fraud, in violation of 18 U.S.C. 1341; six counts of 
+Medicaid fraud, in violation of 42 U.S.C. 1320a-7b(a)(1)(i); 
+and one count of money laundering, in violation of 18 U.S.C. 
+1957(a). J.A. 12-22. 
+
+On April 23, 1998, a separate indictment was returned 
+charging petitioner and his wife with conspiring to murder a 
+witness and an FBI agent, in violation of 18 U.S.C. 1114; two 
+counts of attempted murder of a federal witness, in violation 
+of 18 U.S.C. 1512(a) and 1513(a); one count of attempted 
+murder of a federal officer, in violation of 18 U.S.C. 1114; and 
+two counts of soliciting violence, in violation of 18 U.S.C. 373. 
+J.A. 23-29, 358. The indictment alleged that petitioner and 
+his wife solicited a person to kill two individuals: the FBI 
+agent who arrested him, and a former employee at his dental 
+office who had cooperated with law enforcement in its fraud 
+investigation and who planned to testify against petitioner 
+on the fraud charges. Ibid. On December 3, 1998, following 
+a plea by petitioner’s spouse, a superseding indictment was 
+filed against petitioner in the murder conspiracy case. The 
+
+
+3 
+
+
+attempted murder and fraud cases were joined together for 
+trial. J. A. 358. 
+
+2. In February 1999, petitioner’s counsel moved for 
+another hearing to determine petitioner’s competency to 
+stand trial, and the government moved to have a govern- 
+ment psychologist examine petitioner. After a hearing, a 
+magistrate judge entered an order under 18 U.S.C. 4241(b) 
+that petitioner be sent to Springfield for another competency 
+evaluation. On April 14, 1999, after receiving a psychological 
+evaluation from Springfield, the magistrate judge found by a 
+preponderance of the evidence that petitioner was suffering 
+from a mental disease or defect that rendered him incompe- 
+tent to stand trial because he was unable to understand the 
+nature and consequences of the proceedings against him or 
+to assist properly in his defense. 18 U.S.C. 4241(d). Peti- 
+tioner’s psychiatrist, Dr. Robert Cloninger, and the gov- 
+ernment’s psychologist, Dr. Richart DeMier, diagnosed peti- 
+tener with “delusional disorder, persecutory type.” J.A. 
+359. 
+
+
+1 Petitioner was originally released on bond. Following allegations 
+that he attempted to intimidate a witness, his bond was revoked, after a 
+hearing at which petitioner’s behavior was out of control. J.A. 358 (peti- 
+tioner “screamed, shouted, and used racial epithets,” and “spit directly” in 
+the magistrate judge’s face). Petitioner is currently being detained 
+pending trial (and would be so held even without the order committing 
+him under 18 U.S.C. 4241). 
+
+
+2 “The essential feature of Delusional Disorder is the presence of one 
+or more nonbizarre delusions that persist for at least 1 month.” Diagnos- 
+tic and Statistical Manual of Mental Disorders 297.1, at 296 (4th ed. 2000) 
+(DSM IV). The “bizarreness” of the delusion can distinguish delusional 
+disorder from schizophrenia, a mental disorder involving delusions that 
+“are clearly implausible, not understandable, and not derived from ordi- 
+nary life experiences.” Ibid. “In contrast, nonbizarre delusions involve 
+situations that can conceivably occur in real life.” Id. at 297. The persecu- 
+tory subtype of delusional disorder applies “when the central theme of the 
+delusion involves the person’s belief that he or she is being conspired 
+against, cheated, spied on, followed, poisoned or drugged, maliciously ma- 
+
+
+4 
+
+
+Pursuant to 18 U.S.C. 4241(d), the magistrate judge 
+ordered that petitioner be hospitalized at Springfield for a 
+reasonable period of time not to exceed four months to 
+determine whether there was a substantial probability in the 
+foreseeable future that he would attain the capacity to stand 
+trial. Upon his return to Springfield, petitioner was under 
+the care of two clinicians, Dr. DeMier, the clinical psycholo- 
+gist, and Dr. James Wolfson, the consulting psychiatrist, who 
+determined that antipsychotic medication was needed in 
+order to render petitioner competent to stand trial. On June 
+9, 1999, petitioner had an administrative hearing, pursuant 
+to 28 C.F.R. 549.43, before a reviewing psychiatrist, Dr. 
+Charles D. Glazzard, to determine whether petitioner should 
+be involuntarily medicated. J. A. 141-151, 359-361. Dr. 
+Glazzard considered evidence that in 1982 petitioner was 
+diagnosed with schizophrenia following a hospitalization that 
+occurred after he reported a hallucination of a leopard in his 
+office and near a bus. J.A. 146-150, 153. Dr. Glazzard also 
+heard from Dr. DeMier and Dr. Wolfson, who testified that 
+petitioner’s “symptoms point[ed] to a diagnosis of Delusional 
+Disorder but also recognize[d] that there well may be an 
+underlying Schizophrenic Process.” J.A. 147. Dr. Wolfson 
+believed that “antipsychotic medication [was] indicated” to 
+treat petitioner’s psychotic symptoms. Ibid. 
+
+Petitioner proffered a four-page affidavit of Dr. Cloninger, 
+who stated his view that there was “no evidence that neu- 
+roleptics [antipsychotic medications] are beneficial for 
+patients with Delusional Disorder.” J.A. 31. Dr. Cloninger 
+opined that “the treatment of [petitioner] should be limited 
+to basic support,” including “a safe supportive milieu with 
+access to exercise and reading material,” and “voluntary 
+symptomatic treatment” with antidepressants. J.A. 32. 
+
+
+ligned, harassed, or obstructed in the pursuit of long-term goals.” Jd. at 
+298. ; 
+
+
+5 
+
+
+Following the hearing, Dr. Glazzard concluded that anti- 
+psychotic medication was required to restore petitioner's 
+competence to stand trial. J.A. 144-145, 150. Dr. Glazzard 
+also found that other forms of medication or treatment would 
+not alleviate his delusional symptoms. J.A. 151. On July 2, 
+1999, Sherman Waltner, the Bureau of Prisons reviewing 
+official, denied petitioner’s administrative appeal in a written 
+opinion confirming Dr. Glazzard’s conclusions. J.A. 152-157. 
+Springfield delayed administration of the medication to give 
+petitioner the opportunity to seek judicial review. J.A. 361. 
+
+On September 29, 1999, a magistrate judge conducted an 
+evidentiary hearing to determine whether petitioner should 
+be involuntarily medicated. J.A. 158-319. Dr. DeMier testi- 
+fied that petitioner’s condition had deteriorated since June 
+1999 and would continue to deteriorate if he were not 
+treated with antipsychotic medication. J.A. 165-167, 172. 
+Dr. DeMier stated that the delay in treatment could 
+lengthen the period of necessary treatment and could dimin- 
+ish the optimal response of the treatment. J.A. 165, 216. 
+Based on petitioner’s conduct at Springfield and his history, 
+Dr. DeMier believed that petitioner was dangerous. J.A. 
+172-174. 
+
+Dr. DeMier opined that “anti-psychotic medication [was] 
+clearly indicated, as it [was] the only treatment that we 
+could reasonably expect to improve [petitioner’s] condition.” 
+J.A. 176. He believed that there was not “any other effective 
+method of treating [petitioner’s] symptoms at this time,” 
+J.A. 177, and that antipsychotic medication was “the only 
+effective means to improve his mental state.” J.A. 184. He 
+also believed that petitioner could “be restored to com- 
+petency, as a result of treatment with anti-psychotic medica- 
+tions.“ J. A. 176. Dr. DeMier testified that he had been 
+involved in the treatment of two patients with delusional 
+disorder who had been administered antipsychotic medica- 
+tion and that one patient had regained competency and the 
+
+
+6 
+
+
+other had shown significant improvement. J.A. 174-176, 184- 
+185. Dr. DeMier acknowledged that there were “potentially 
+significant side effects” from the medication, such as tardive 
+dyskinesia (from long-term use) and neuroleptic malignant 
+syndrome (in very rare instances). J.A. 185-188. 
+
+Dr. Wolfson, the consulting psychiatrist, agreed that peti- 
+tioner was psychotic and that Dr. DeMier’s diagnosis of 
+delusional disorder was a plausible one, but he did not ex- 
+clude schizophrenia as an alternative explanation for his 
+symptoms. J.A. 227. Regardless whether petitioner should 
+be diagnosed as schizophrenic or delusional, however, Dr. 
+Wolfson testified that petitioner was “clearly psychotic” and 
+the appropriate course of treatment in either case was medi- 
+cation. J.A. 227, 228.2 Based on petitioner’s conduct at 
+Springfield and his history, Dr. Wolfson believed that peti- 
+tioner was dangerous in a broadly defined sense. J.A. 232. 
+
+Dr. Wolfson testified that he had treated between 1000 
+and 2000 patients with antipsychotic medication and that 
+most of them had positive results. J.A. 233. He noted that 
+antipsychotic medication had some potential unpleasant side 
+effects, such as dystonic reaction and sedation. J.A. 233-234, 
+240. Dr. Wolfson stated that such side effects could be 
+mitigated by other medicines or treatments and that “most 
+patients don’t have to expect problematic side effects as the 
+cost of having their illness treated and having control of 
+their own thoughts and minds.” J.A. 234. Dr. Wolfson 
+testified that neuroleptic malignant syndrome was also a 
+potential serious side effect, which he estimated as occurring 
+
+
+‘3 “Jp DSM-IV, there is no assumption that each category of mental 
+disorder is a completely discrete entity with absolute boundaries dividing 
+it from other mental disorders.” DSM IV xxii. Appropriate diagnosis and 
+treatment decisions accordingly are not confined to a specific diagnosis. 
+Id. at xxiii (“The specific diagnostic criteria included in the DSM-IV are 
+meant to serve as guidelines to be informed by clinical judgment and are 
+not meant to be used in a cookbook fashion.”). 
+
+
+7 
+
+
+in 1 in 10,000 cases, but he noted that “the risk of the 
+continuing illness [was] greater than the risk of [petitioner] 
+receiving this medicine and developing [the side effect.]” 
+J.A. 236. Dr. Wolfson declined to specify the particular 
+medication that he would prescribe for petitioner because he 
+hoped that petitioner would play a role in choosing the 
+medication. J.A. 238. Dr. Wolfson did indicate that three 
+atypical drugs (quetiapine, olanzapine, and ziprasidone), 
+which have a more “benign side effect” profile, made the 
+“most sense.” J.A. 238-239. 
+
+Dr. Wolfson stated that he had successfully used anti- 
+psychotic medication four out of five times to restore the 
+competency of patients with delusional disorder. J.A. 240, 
+241, 261-263. Dr. Wolfson opined that he had “a good 
+chance” of restoring petitioner’s competency. J.A. 242. 
+
+At the hearing, petitioner again proffered the affidavit of 
+Dr. Cloninger. J.A. 212, 300-301. Dr. Wolfson disagreed 
+with Dr. Cloninger’s conclusion that antipsychotic medica- 
+tion would provide no benefit to patients with delusional 
+disorder. J.A. 244-248, 274-276. Dr. Wolfson also believed 
+that Dr. Cloninger’s proposed course of treatment involving 
+access to exercise, reading material, and anti-depressants 
+was “insufficient” to treat petitioner. J.A. 248. He explained 
+that “[iJf we were having this conversation in 1935, that 
+would be the best I would be able to offer him. But, this is 
+unsupported, perhaps even irresponsible * * * as an 
+adequate way to address [petitioner’s] difficulties.” Ibid. 
+
+
+‘ Petitioner also proffered a report on an unidentified patient diag- 
+nosed with delusional disorder by Dr. Daniel Greenstein, a forensic 
+psychologist at the Bureau of Prisons’ Metropolitan Correctional Center in 
+Chicago, Illinois. J.A. 212-214, 300-302. In his report, Dr. Greenstein 
+stated that “[djelusional disorder does not typically respond to phar- 
+macological intervention or psychotherapy.” J.A. 214. Dr. Wolfson 
+believed that Dr. Greenstein’s statement was “incorrect.” Ibid. 
+
+
+8 
+
+
+3. On August 9, 2000, the magistrate judge ordered that 
+petitioner be involuntarily administered antipsychotic medi- 
+cation. J.A. 320-338. He found that petitioner posed “a dan- 
+ger to himself and others at the institution,” J.A. 333, that 
+antipsychotic medications were “the only way to render 
+[petitioner] not dangerous and competent to stand trial,” 
+J.A. 335, and that there were “no other less restrictive 
+means by which this may be accomplished.” Ibid. 
+
+The district court affirmed the magistrate judge’s order. 
+J.A. 339-355. The court concluded that the magistrate judge 
+had clearly erred in finding that Ipetitioner] present(ed] a 
+danger to himself or others.” J.A. 349. The court found, 
+however, that involuntary medication was justified by the 
+need to restore petitioner to competency. The court con- 
+cluded “(1) that anti-psychotic drugs are medically appropri- 
+ate for [petitioner], (2) that they represent the only viable 
+hope of rendering [petitioner] competent to stand trial, and 
+(3) that the administration of such drugs appears necessary 
+to serve the government’s compelling interest in obtaining 
+an adjudication of [petitioner’s] guilt or innocence of numer- 
+ous and serious charges.” J.A. 354. 
+
+4. A divided panel of the court of appeals affirmed. J.A. 
+356-382. The court upheld the district court’s ruling that the 
+evidence did not support a finding that petitioner posed a 
+danger to himself and others at the medical center. J.A. 363. 
+Relying on Riggins v. Nevada, 504 U.S. 127 (1992), and 
+Washington v. Harper, 494 U.S. 210 (1990), the court of 
+appeals held that, in order for the government to involuntar- 
+ily medicate an individual: 
+
+First, the government must present an essential state 
+interest that outweighs the individual’s interest in re- 
+maining free from medication. Second, the 
+government must prove that there is no less intrusive 
+way of fulfilling its essential interest. * * * Third, the 
+
+
+9 
+
+
+government must prove by clear and convincing evi- 
+2 aataty gga 
+
+
+J.A. 367-368 (citations omitted). 
+
+The court of appeals held that the government had met its 
+burden under those standards. The court first concluded 
+that It he government has an essential interest in bringing 
+a defendant to trial.” J. A. 368. The court noted that In lot 
+all charges, however, are sufficient to justify forcible medica- 
+tion of a defendant; rather, the charges must be serious.” 
+Ibid. The court decided that the 62 charges of fraud and 
+single count of money laundering were serious enough to 
+outweigh petitioner’s significant liberty interest in refusing 
+antipsychotic medication. J.A. 369. The court declined to 
+rely on the government’s interest in adjudicating the at- 
+tempted murder charges relating to the FBI agent and a 
+witness because the court thought it “possible that [peti- 
+tioner’s] threats after his first indictment were a manifesta- 
+tion of his delusional disorder.” J.A. 369 n.8. 
+
+Second, the court of appeals upheld the district court’s 
+finding that there were no less intrusive means by which the 
+government could achieve its essential interest in bringing 
+petitioner to trial. J.A. 369-370. The court observed that 
+“{[bjoth Dr. Wolfson and Dr. DeMier testified that anti- 
+psychotic medication [was] the most effective treatment for 
+delusional disorder and that it [was] the only way [peti- 
+tioner] could be restored to competency.” J. A. 369. The 
+court also noted that the affidavit from petitioner's psychia- 
+trist, Dr. Cloninger, who disputed the efficacy of the medica- 
+tion, “did not suggest any alternative means of restoring 
+competency.” J.A. 370. 
+
+Third, the court of appeals found that the government had 
+shown by clear and convincing evidence that there was “a 
+sufficient likelihood that antipsychotic medication [would] 
+restore [petitioner’s] competence,” J. A. 374; “that the side- 
+
+
+10 
+
+
+effects produced by the medication could be minimized 
+through careful treatment and changing medications and 
+dosages,” ibid.; and that the “benefits outweighed the risks 
+associated with antipsychotic drugs.” J.A. 375. 
+
+The court of appeals next held that the district court had 
+“properly considered Ipetitioner's] Sixth Amendment right 
+to a fair trial.” J.A. 375. The court explained that “before 
+forcibly medicating an accused, there must be evidence that 
+he will be able to participate in a fair trial.” J.A. 376. Here, 
+“the medical evidence presented indicated a reasonable 
+probability that [petitioner] will fairly be able to participate 
+in his trial.” Ibid. Actual effects on competency and de- 
+meanor, the court added, may be evaluated after the medi- 
+cation. The court noted that the district court had indicated 
+“its willingness to re-examine [petitioner’s] Sixth Amend- 
+ment claim after the medication regime has begun.” Ibid. 
+
+Judge Bye dissented. J.A. 377-382. Judge Bye wouid 
+have applied “strict scrutiny” to the review of whether peti- 
+tioner could be involuntarily medicated to restore his compe- 
+tence. J.A. 377. The dissent also argued that the govern- 
+ment had failed to satisfy the first part of the majority’s 
+three-part test because “the [fraud and money laundering] 
+charges against [petitioner] are not sufficiently serious.” 
+Ibid. 
+
+
+5 The court of appeals did not discuss whether it had jurisdiction over 
+the district court’s interlocutory order. The United States agrees with the 
+courts of appeals that have addressed the issue and have concluded that 
+an order approving the involuntary medication of a pre-trial detainee con- 
+stitutes an appealable collateral order under Cohen v. Beneficial Indus- 
+trial Loan Corp., 387 U.S. 541, 546 (1949). United States v. Gomes, 289 
+F.3d 71, 79 (2d Cir. 2002), petition for cert. pending, No. 02-7118 (filed Oct. 
+22, 2002); United States v. Morgan, 193 F.3d 252, 258-259 (4th Cir. 1999), 
+United States v. Brandon, 158 F.3d 947, 950-961 (6th Cir. 1998); cf. United 
+States v. Weissberger, 951 F.2d 392, 396 (D.C. Cir. 1991) (court had juris- 
+diction under Cohen to review order permitting involuntary confinement 
+for competency examination under 18 U.S.C. 4241(a)). 
+
+
+11 
+
+
+SUMMARY OF ARGUMENT 
+
+
+The government has a compelling interest in adjudicating 
+serious criminal charges. At the same time, an incompetent 
+defendant cannot be brought to trial unless his competence 
+can be restored. To permit criminal charges to be resolved, 
+the government therefore has an essential interest in mak- 
+ing efforts to restore competence. When, as in this case, the 
+government proposes to restore a defendant’s competence 
+through antipsychotic drugs, the defendant’s significant 
+liberty interest in avoiding unwanted treatment requires the 
+government to bear the burden of justifying the proposed 
+medical intervention. That burden can be met when there is 
+a substantial probability that medication will restore com- 
+petence, the medication is medically appropriate, there is no 
+less intrusive alternative, and the defendant, if restored to 
+competence, can be expected to receive a fair trial. 
+
+A. The government’s interest in prosecuting charges of 
+serious crime is compelling. Felony offenses traditionally 
+have been recognized as serious offenses, whether or not a 
+particular offense involves violence. Many serious offenses, 
+such as treason, espionage, and drug trafficking, are serious 
+even if not violent. Widespread fraudulent schemes also 
+inflict great harm on society and constitute serious offenses. 
+
+When involuntary medication is necessary to restore com- 
+petence, no alternative to that approach would adequately 
+serve the government’s interest. Absent restoration of 
+competence, the defendant cannot be tried. It is therefore 
+possible that a defendant may be set free entirely, despite a 
+grand jury indictment charging serious crimes. And the 
+function of a criminal trial publicly to find facts and impose 
+consequences plainly cannot be duplicated by steps such as 
+civil commitment. Civil commitment also imposes unique 
+restraints on the defendant’s own liberty interests. Absent 
+treatment, the confinement may continue indefinitely. And 
+during such confinement, the defendant can be ordered 
+
+
+— 12 
+medicated, if necessary for institutional reasons or his own 
+safety, without the safeguards afforded in a criminal case of 
+prior judicial review. 
+
+B. The question then becomes whether involuntary medi- 
+cation is likely to restore competence and is medically ap- 
+propriate. The professional literature, the experience of the 
+Bureau of Prisons, and the record in this case establish that 
+for psychotic disorders, there is a high likelihood that anti- 
+psychotic medication will restore competence and that the 
+medication is medically appropriate (and often indispensa- 
+ble) to treat the devastating symptoms of schizophrenia and 
+other diseases. No less restrictive form of intervention is 
+likely to restore competence, and, by itself, no alternative 
+intervention can serve the defendant’s medical interests. It 
+is well documented that antipsychotic medication can oper- 
+ate to clear the patient’s mind of delusions and hallucinations 
+and restore his capacity for rational thinking, coherent 
+communication, and goal-directed behavior—attributes that 
+are central to competence in a criminal case. 
+
+Antipsychotic medication does have side effects, and those 
+effects must be considered in the determination of medical 
+appropriateness—as well as in determining whether the 
+defendant, if restored to competence, will receive a fair trial. 
+But all medications have side effects, and medical appro- 
+priateness necessarily turns on a balancing of risks and bene- 
+fits. In the case of many devastating psychotic diseases, the 
+potential side effects, though serious, are more than amply 
+offset by the likely benefits. Most risks, in addition, can be 
+medically managed—by reducing dosages, changing medica- 
+tions, or prescribing counteracting agents. And the most 
+severe potential side effects are unlikely to emerge in the 
+short-term period during which involuntary medication is 
+necessary for a defendant to prepare for and stand trial. 
+
+Equally important, psychiatric medication has progressed 
+dramatically since Riggins. A new generation of “atypical” 
+
+
+13 
+
+
+antipsychotic medications has greatly reduced the most 
+serious side effects. Particularly in light of those advances, 
+medical professionals can reliably attest to the appropriate- 
+ness and likely success of medication in restoring compe- 
+tence, and courts can reliably make findings that justify 
+ordering such treatment, consistent with the defendant’s 
+substantive due process rights. 
+
+C. The First Amendment does not preclude the use of 
+involuntary medication to restore competence. The expres- 
+sive and freedom-of-thought interests that the First Amend- 
+ment protects are also encompassed by the liberty interests 
+at stake in substantive due process analysis. And anti- 
+psychotic medication is likely to enhance, rather than sup- 
+press, a psychotic or delusional patient’s ability to think and 
+communicate, faculties that have often been shattered by the 
+disease itself. 
+
+D. The Fifth and Sixth Amendment rights to a fair trial 
+can be fully protected when a court orders involuntary medi- 
+cation. The opinion of the Court in Riggins and Justice 
+Kennedy’s concurrence observed that antipsychotic medica- 
+tion can have side effects that can produce trial prejudice. 
+But the experience of many defendants who have been 
+restored to competence after receiving antipsychotic medica- 
+tion reveals that such prejudice is not a necessary conse- 
+quence of medication. The goal of the medication is to 
+restore competence, and if the defendant cannot stay awake, 
+follow the proceedings, or communicate with counsel, the 
+standard of competence has not been achieved. When com- 
+petence is achieved, it is reasonable to expect that side 
+effects—such as impairments of a defendant’s demeanor or 
+sedation—can be medically managed and controlled. The 
+concrete evaluation of what side effects materialize, and 
+whether they can be controlled to avoid an unfair trial, thus 
+should be made after medication has restored competence. 
+In addition, careful management of the trial itself, as well as 
+
+
+14 
+
+
+testimony and jury instructions explaining any effects of the 
+medication, can further reduce any risk of prejudice. 
+
+Finally, a defendant has no constitutional right to appear 
+before the jury in an unmedicated, psychotic state in order to 
+bolster a mental-status defense. A trial of a defendant in 
+such state is unlikely to occur, since the defendant probably 
+would not be competent. And a mentally ill defendant has no 
+right to appear before the jury in the purported mental state 
+that he possessed on the occasion of the crime. Proof of his 
+mental state can be made by the normal means: medical 
+reports, eyewitness testimony, expert testimony, and the 
+defendant’s own recollections. Those means are adequate to 
+enable the defendant to make his defense. 
+
+E. Applying those standards, the courts below correctly 
+found that an order of antipsychotic medication of petitioner 
+is justified. The felony fraud charges against him are seri- 
+ous; antipsychotic medication, and no less intrusive alterna- 
+tive, is likely to restore petitioner’s competence; such medi- 
+cation is medically appropriate; and there is every reason to 
+believe that he will receive a fair trial if restored to 
+competence. 
+
+
+ARGUMENT 
+
+
+THE DISTRICT COURT’S ORDER THAT PETI- 
+TIONER BE INVOLUNTARILY MEDICATED TO 
+RESTORE HIS COMPETENCE IS CONSTITUTIONAL 
+
+
+A defendant is incompetent to stand trial when he cannot 
+understand the nature of the criminal proceedings and 
+cannot cooperate with counsel in his defense. E.g., Cooper v. 
+Oklahoma, 517 U.S. 348, 354 (1996). When a defendant’s 
+incompetency precludes the adjudication of serious criminal 
+charges, there is a compelling governmental interest in 
+taking reasonable measures to restore a defendant’s compe- 
+tency. Often, as in this case, attainment of that interest 
+requires the administration of antipsychotic medication. 
+
+
+15 
+
+
+When the defendant resists, such a step implicates his 
+significant liberty interest in avoiding unwanted medication, 
+as well as his right to a fair trial. Those interests are 
+properly reconciled by requiring the government to show, 
+before involuntarily medicating a defendant, that: (1) the 
+administration of antipsychotic drugs has a substantial prob- 
+ability of restoring the defendant’s competency; (2) the medi- 
+cation is medically appropriate; (3) no less intrusive mea- 
+sures will serve the government's interest in restoring com- 
+petence; and (4) it is reasonable to expect that the defendant, 
+if restored to competence, will be able to receive a fair trial. 
+On the facts of this case, all of those factors were established. 
+
+
+I. THE INVOLUNTARY ADMINISTRATION OF ANTI- 
+PSYCHOTIC MEDICATION TO RESTORE A 
+DEFENDANT’S COMPETENCE TO STAND TRIAL 
+ON SERIOUS CHARGES CAN BE ORDERED CON- 
+SISTENT WITH THE DEFENDANT’S SUBSTAN- 
+TIVE DUE PROCESS RIGHTS 
+
+
+“So-called ‘substantive due process’ prevents the govern- 
+ment from engaging in conduct that ‘shocks the conscience,’ 
+or interferes with rights ‘implicit in the concept of ordered 
+liberty. United States v. Salerno, 481 U.S. 739, 746 (1987) 
+(quoting Rochin v. California, 342 U.S. 165, 172 (1952) and 
+Palko v. Connecticut, 302 U.S. 319, 325-326 (1937)). 
+Identifying the contours” of substantive due process “in- 
+volves a definition of the protected constitutional interest, as 
+well as identification of the conditions under which compet- 
+ing state interests might outweigh it.” Harper, 494 U.S. at 
+220 (quoting Mills v. Rogers, 457 U.S. 291, 299 (1982)). This 
+Court has made clear that an individual has a significant 
+liberty interest in avoiding the involuntary administration of 
+antipsychotic medication. Riggins, 504 U.S. at 134; ef. 
+Cruzan v. Director, Mo. Dep't of Health, 497 U.S. 261 (1990). 
+Such an interest, however, is “not absolute,” because not 
+
+
+16 
+
+
+every infringement of a liberty interest violates the Con- 
+stitution. Youngberg v. Romeo, 457 U.S. 307, 320 (1992). An 
+“individual’s strong interest in liberty,” even though 
+importanlt] and fundamental,” may, “in circumstances 
+where the government’s interest is sufficiently weighty, be 
+subordinated to the greater needs of society.” Salerno, 481 
+U.S. at 750-751. 
+
+A. Substantive Due Process Analysis Requires Balanc- 
+
+
+ing The Government’s Interests Against The Liberty 
+Interest Of The Defendant 
+
+
+In Harper, 494 U.S. at 227, this Court held that sub- 
+stantive due process does not bar the government from in- 
+voluntarily medicating a convicted prisoner who is danger- 
+ous to himself or others, when the medication is medically 
+appropriate. In so holding, the Court weighed the govern- 
+ment’s interest in prison “safety and security” against the 
+defendant’s substantive liberty interest, and concluded that 
+the proper standard of review asked whether the proposed 
+intrusion was “reasonably related to legitimate penological 
+interests.” Id. at 223 (quoting Turner v. Safely, 482 U.S. 78, 
+89 (1987)). 
+
+In Riggins, 504 U.S. at 135, the Court considered a claim 
+that the involuntary medication of a defendant with an 
+antipsychotic drug (Mellaril) violated the defendant’s Sixth 
+and Fourteenth Amendment rights because it created a risk 
+of trial prejudice and because the State had failed “to 
+establish the need” for the medication. The Court held that 
+“since the District Court allowed administration of Mellaril 
+to continue without making any determination of the need 
+for this course or any findings about reasonable alterna- 
+tives,” id. at 135-136, the creation of possible trial prejudice 
+to the defendant was unjustified. Id. at 137-138. The Court 
+observed that, although “trial prejudice can sometimes be 
+justified by an essential state interest,” the record in the 
+
+
+17 
+
+
+case contained “no finding that might support a conclusion 
+that administration of antipsychotic medication was 
+necessary to accomplish an essential state policy.” Jd. at 138. 
+The Court stated, however, that “the State might have been 
+able to justify medically appropriate, involuntary treatment 
+with the drug by establishing that it could not obtain an 
+adjudication of [the defendant’s] guilt or innocence by using 
+less intrusive means.” Id. at 135. 
+
+The Court in Riggins stated that it had not adopted “a 
+standard of strict scrutiny,” explaining that it had no “occa- 
+sion to develop substantive standards for judging forced 
+administration of such drugs in the trial or pretrial settings.” 
+504 U.S. at 136. As in other cases involving substantive due 
+process, however, the determination of whether, and under 
+
+
+_ what circumstances, the government may justify involuntary 
+
+
+treatment with antipsychotic medication in order to restore 
+a defendant’s competence requires careful examination of 
+the competing interests. In a variety of analogous contexts 
+this Court’s substantive due process jurisprudence has ap- 
+plied such a balancing test, weighing the competing interests 
+in order to determine when an intrusion on a significant 
+liberty interest is justified. In Youngberg v. Romeo, 457 
+U.S. at 320-322, for example, the Court determined that the 
+liberty interest of involuntarily-committed mentally disabled 
+persons to enjoy freedom of movement within the institution 
+may be restricted based on an exercise of the institution’s 
+professional judgment. See also Bell v. Wolfish, 441 U.S. 
+520, 537-538 (1979) (upholding the constitutionality of 
+restrictions on pre-trial detainees’ liberty). The Court has 
+similarly balanced the competing interests in order to 
+determine when the government may override a defendant’s 
+liberty interest and detain him pre-trial based on threats of 
+future dangerousness, Salerno, 481 U.S. at 746-751; when a 
+defendant found incompetent to stand trial may be there- 
+after confined; Jackson v. Indiana, 406 U.S. 715, 738 (1972); 
+
+
+18 
+
+
+and when a defendant found not guilty by reason of insanity 
+may be subject to involuntary commitment, Foucha v. 
+Louisiana, 504 U.S. 71, 79 (1992); Jones v. United States, 463 
+U.S. 354, 368 (1983). 
+
+The same approach is warranted here. In developing a 
+substantive standard for when involuntary medication is 
+permissible, the critical factors are the importance of the 
+government’s interest in adjudicating serious criminal 
+charges, the lack of adequate alternatives to involuntary 
+medication, the consequences for the defendant’s liberty 
+interests of administering or (not administering) medication, 
+and the ability of a medicated defendant to receive a fair 
+trial. Consideration of those factors leads to the conclusion 
+that the government’s interest in adjudicating serious of- 
+fenses is sufficiently important to outweigh an individual’s 
+liberty interest in refusing unwanted antipsychotic medica- 
+tion, when the government can demonstrate that the medica- 
+tion has a substantial probability of restoring competence 
+and is medically appropriate; that there is no reasonable and 
+less intrusive alternative; and that it is reasonable to expect 
+that the defendant, if restored to competency, will receive a 
+fair trial. 
+
+
+6 The majority of the courts of appeals have concluded that the appro- 
+priate form of review involves “heightened” but not “strict scrutiny.” J.A. 
+366-367 n.7; Gomes, 289 F.3d at 82; United States v. Weston, 255 F.3d 873, 
+880 (D.C. Cir.), cert. denied, 122 S. Ct. 670 (2001); but see United States v. 
+Brandon, 158 F.3d at 956-961. That conclusion is correct. Petitioner 
+urges the Court to apply “strict” scrutiny (Br. 35-36), but this Court’s sub- 
+stantive due process decisions do not require that conclusion. A defen- 
+dant’s wish to remain incompetent in a criminal case by refusing medically 
+appropriate and necessary medication should not be regarded as a funda- 
+mental right that triggers strict scrutiny. Cf. Washington v. Glucksberg, 
+521 U.S. 702, 720-721 (1997) (requiring a “careful description” of the 
+asserted interest to determine whether it is, “objectively, ‘deeply rooted 
+in this Nation’s history and tradition.’”) (citations omitted). In the present 
+context (and regardless of the name attached to the form of judicial 
+review), the test should not be set so unrealistically high that medically 
+
+
+19 
+
+
+B. The Government Has An Overriding Interest In 
+Adjudicating Serious Criminal Charges 
+
+
+The government has a compelling interest in bringing a 
+defendant to trial after probable cause has been found to 
+justify prosecution for a serious criminal offense. As this 
+Court noted in Riggins, the e lonstitutional power to bring 
+an accused to trial is fundamental to a scheme of ‘ordered 
+liberty’ and prerequisite to social justice and peace.” 504 
+U.S. at 135-136 (quoting Illinois v. Allen, 397 U.S. 337, 347 
+(1970) (Brennan, J., concurring)); see also Winston v. Lee, 
+470 U.S. 753, 762 (1985) (noting that “the community’s 
+interest in fairly and accurately determining guilt or inno- 
+cence” is “of great importance”). The Court has repeatedly 
+referred to the government’s “compelling interest in finding, 
+convicting, and punishing those who violate the law.” Moran 
+v. Burbine, 475 U.S. 412, 426 (1986); accord Texas v. Cobb, 
+532 U.S. 162, 172 (2001); McNeil v. Wisconsin, 501 U.S. 171, 
+181 (1991); Richardson v. Marsh, 481 U.S. 200, 210 (1987); 
+Garrett v. United States, 471 U.S. 773, 796 (1985) (O’Connor, 
+J., concurring). “The sole constitutional mechanism for the 
+government to accomplish its essential policy is to take [a 
+defendant] to trial.” United States v. Weston, 255 F.3d 873, 
+882 (D.C. Cir.) (citing U.S. Const. Amend. V)), cert. denied, 
+122 S. Ct. 670 (2001). Accordingly, the government’s interest 
+extends to “ensuring that persons accused of crimes are 
+
+
+responsible steps to restore competence are automatically foreclosed. Nor 
+should the government’s interest in adjudicating guilt on serious criminal 
+charges be wholly subordinated to an individual’s liberty interests. To the 
+contrary, this Court’s decisions have recognized that even significant 
+liberty interests may be subject to overriding societal interests. E. g., 
+Salerno, 481 U.S. at 750-751 (pre-trial detention for a “serious” crime 
+based on proof of dangerousness); Addington v. Texas, 441 U.S. 418, 430- 
+431 (1979) (civil commitment based on “clear and convincing” evidence; 
+rejecting a beyond-a-reasonable-doubt standard that would foreclose civil 
+commitment “for many patients desperately in need of institutionalized 
+psychiatric care”). 
+
+
+20 
+
+
+available for trials and, ultimately, for service of their 
+sentences.” Bell v. Wolfish, 441 U.S. at 534. 
+
+Petitioner errs in asserting (Br. 35, 36, 42) that this 
+Court’s decisions bar the government from seeking an order 
+of involuntary medication for “prosecutorial” purposes. Cer- 
+tain extreme intrusions on a suspect’s bodily integrity are 
+unjustified in order to investigate crime or gather evidence. 
+Rochin, 342-U.S. at 172 (stomach pumping is “too close to the 
+rack and the screw to permit of constitutional differentia- 
+tion”). Here, however, the interest at stake is society’s 
+essential concern that serious criminal charges, brought by a 
+grand jury, receive a fair determination in open court. Even 
+with respect to evidence gathering, there is no absolute rule 
+against medical intrusions. Schmerber v. California, 384 
+U.S. 757 (1966) (taking of blood sample permitted). There is 
+even less warrant for an absolute rule that would prevent 
+medically appropriate efforts to obtain a fair adjudication of 
+criminal charges through antipsychotic medication that 
+restores a defendant’s competence. 
+
+The government’s interest is not diminished by the fact 
+that a pre-trial detainee is “presumed to be innocent” until 
+convicted of a crime. Pet. Br. 23, 24, 25, 36. This Court has 
+explained that “(t]he presumption of innocence is a doctrine 
+that allocates the burden of proof in criminal trials; it also 
+may serve as an admonishment to the jury to judge an 
+accused’s guilt or innocence solely on the evidence adduced 
+at trial.” Bell, 441 U.S. at 583. The presumption of inno- 
+cence, however, “has no application to a determination of the 
+[substantive due process] rights of a pretrial detainee during 
+confinement before his trial has even begun.” Ibid. 
+
+
+1. The government’s interest in adjudicating guilt on 
+a serious offense is not limited to violent offenses 
+
+
+Petitioner and some of his amici argue that the gov- 
+ernment’s interest is not sufficiently weighty when the 
+
+
+21 
+
+
+defendant wishes to remain incompetent to stand trial on 
+charges that do not involve “violence.” Pet. Br. 35-38, 41-43; 
+Rutherford Am. Br. 17-18; ACLU Am. Br. 1-19. There is no 
+sound basis for that limitation. The government has an 
+unquestioned vital interest in prosecuting and punishing 
+violent crime. But other breaches of the public order like- 
+wise demand judicial resolution. Petitioner is charged with 
+the commission of felony offenses, and, as such, those 
+charges are sufficiently serious to justify the administration 
+of medication to restore competence.” 
+
+First, the government has a compelling interest in adju- 
+dicating an individual’s guilt or innocence of felony charges. 
+Felonies represent a traditional category of serious offenses, 
+whether or not the offense involves violence. See Nichols v. 
+United States, 511 U.S. 738, 743 n.9 (1994) (right to counsel 
+under Gideon v. Wainwright, 372 U.S. 335 (1963), applies to 
+all felony offenses). Indeed, there are many serious offenses, 
+such as treason, espionage, acts of economic terrorism, and 
+drug trafficking, that may be committed without resort to 
+violence. Cf. Salerno, 481 U.S. at 750 (Bail Reform Act 
+focused on a narrow category of “extremely serious of- 
+fenses,” including drug trafficking). Violence may also be 
+absent in offenses that involve major economic losses, such 
+as large-scale fraud cases for which the government seeks 
+
+
+7 The court of appeals held that it would not consider that petitioner is 
+charged with violent offenses (conspiracy to murder an FBI agent and a 
+witness) because, in the court’s view, “[i}t is possible that [petitioner’s] 
+threats after his first indictment were a manifestation of his delusional 
+disorder.” J. A. 369 n.8. This Court's formulation of the question pre- 
+sented presupposes that the defendant was charged with non-violent 
+offenses. J.A. 334. But the possibility that a defendant’s violent crimes 
+were a “manifestation” of his mentai illness should not preclude the gov- 
+ernment from involuntarily medicating him in order to go to trial on those 
+charges. The government's interest in obtaining an adjudication on 
+serious criminal charges is not diminished because of the possibility that 
+the defendant’s mental disease may afford a defense; it is the purpose of 
+the trial to see if it does. 
+
+
+22 
+
+
+restitution for numerous victims. The government’s interest 
+in prosecuting those offenses is not invariably less com- 
+pelling than its interest in prosecuting violent offenses. 
+
+Second, limiting the government’s interest to offenses 
+that are inherently violent overlooks that many defendants 
+who commit nonviolent crimes may also commit violent 
+criminal acts to avoid apprehension or conviction. “The fact 
+that a person has been found * * * to have committed a 
+criminal act certainly indicates dangerousness.” Jones, 463 
+U.S. at 364. There is a significant risk, for example, that 
+persons charged with crimes of pure theft will resort to 
+violence in response to, or to thwart, law enforcement. 
+“(C}rimes of theft frequently may result in violence from the 
+efforts of the criminal to escape or the victim to protect 
+property or the police to apprehend the fleeing criminal.” /d. 
+at 365 n.14. This case similarly illustrates the point. After 
+petitioner was indicted on the fraud and money laundering 
+charges, he allegedly arranged to have murdered both the 
+FBI agent who arrested him and a former employee at his 
+dental office. The employee was allegedly targeted in 
+retaliation for her cooperation with law enforcement and to 
+prevent her from testifying against petitioner on the fraud 
+charges. J.A. 23-29, 358. 
+
+Third, limiting the government’s essential interest in 
+adjudicating criminal charges to offenses involving violence 
+would create difficult line-drawing problems. Under some 
+definitions, offenses involving physical force against prop- 
+erty constitute crimes of violence, while under other defini- 
+tions, violent crimes are limited to offenses against persons. 
+Compare 18 U.S.C. 16 (“crime of violence” includes offenses 
+involving risk of “physical force against the person or prop- 
+erty of another”) (emphasis added), with 18 U.S.C. 
+924(e)(2)(B) (“violent felony” includes offenses that present 
+risk “of physical injury to another”); cf. 18 U.S.C. 4246 (al- 
+lowing involuntary commitment if person presents a “sub- 
+
+
+23 
+
+
+stantial risk of * * * serious damage to property of 
+another) (emphasis added). Courts would also have to decide 
+whether certain state law offenses, such as burglary, are 
+violent offenses because of the potential risk of violence to 
+persons, and whether such a determination is made accord- 
+ing to the statutory elements or the facts underlying the 
+charge. Cf. Taylor v. United States, 495 U.S. 575 (1990). 
+Similar questions would arise for federal offenses such as the 
+offense of unlawful possession of a firearm by a felon, in 
+violation of 18 U.S.C. 922(g)(1). E.g, United States v. Gomes, 
+289 F.3d 71, 86 (2d Cir. 2002) (finding government had essen- 
+tial interest in adjudicating felon-in-possession offense), peti- 
+tion for cert. pending No. 02-7118 (filed Oct. 22, 2002); ef. 
+Stinson v. United States, 508 U.S. 36, 39 & n.1 (1998) (dis- 
+cussing amendment to Sentencing Guidelines excluding 
+felon-in-possession offenses from a career-offender predicate 
+“crime of violence”). 
+
+Fourth, the charged fraud offenses in this case illustrate 
+why the government’s interest in adjudicating non-violent 
+felony offenses is weighty. The Court has in other contexts 
+recognized that the government’s interest in preventing 
+fraud is “important” (Watchtower Bible & Tract Soc y of New 
+York, Inc. v. Village of Stratton, 122 S. Ct. 2080, 2089 (2002)), 
+and “substantial” (Village of Schaumburg v. Citizens for a 
+Better Env’t, 444 U.S. 620, 636 (1980)). Accord Riley v. Na- 
+tional Fed n of the Blind, 487 U.S. 781, 792 (1988) (interest in 
+protecting the public against fraud “is, of course, a suffi- 
+ciently substantial interest to justify a narrowly tailored 
+regulation“). 
+
+Here, petitioner was charged with 56 counts of health care 
+fraud, six counts of Medicaid fraud, and one count of money 
+laundering based on a pervasive scheme to submit hundreds 
+of false claims to Medicaid and private insurance companies 
+between 1989 and 1997. The indictment alleges that peti- 
+ioner, and employees at his direction, submitted manufac- 
+
+
+24 
+
+
+tured x-ray images and other altered dental records to 
+Medicaid and private insurance companies to reflect dental 
+problems that did not exist and dental services that were not 
+performed. Those crimes harmed society by draining an im- 
+portant federal assistance program of its limited resources. 
+The court of appeals correctly concluded that those charges 
+were sufficiently serious to outweigh petitioner’s liberty 
+interest in avoiding forced medication. J.A. 368-369. 
+
+
+2. The alternatives to bringing petitioner to trial are 
+inadequate to serve the government’s interest 
+
+
+The Due Process Clause prohibits the criminal prosecu- 
+tion of a defendant who is not competent to stand trial. 
+Cooper, 517 U.S. at 354; Godinez v. Moran, 509 U.S. 389, 396 
+(1993); Medina v. California, 505 U.S. 437, 439 (1992); Drope 
+v. Missouri, 420 U.S. 162, 171 (1975); Pate v. Robinson, 383 
+U.S. 375 (1966). Thus, the recognition of a constitutional 
+right to refuse medication necessary to restore competency 
+to stand trial results, most immediately, in the inability of 
+society to obtain a prompt resolution of pending criminal 
+charges. In lieu of trial, the individual will either be released 
+or involuntarily committed pursuant to 18 U.S.C. 4246. 
+Neither alternative adequately vindicates the government's 
+interest. 
+
+The government’s “compelling interest in finding, con- 
+victing, and punishing those who violate the law” (Moran v. 
+Burbine, 475 U.S. at 426) would be seriously undermined if 
+an incompetent defendant cannot be brought to trial because 
+of his decision to refuse medication necessary to restore com- 
+petence. The possibility that the defendant will spontane- 
+ously regain competence without needed medication is 
+remote at best. And even if the defendant at some later time 
+receives treatment for his condition and his competency is 
+restored, that event may occur too late for a successful 
+prosecution. A defendant whose competence cannot be 
+
+
+25 
+
+
+restored may thereby achieve immunit iabili 
+
+— . y y from liability for his 
+
+Nor does the possibility of civil] commitment adequately 
+serve the governmental interests at stake. Under 18 U.S.C. 
+4241(d), a pre-trial detainee whose “mental condition has not 
+so improved as to permit the trial to proceed 77? 8 
+subject to the provisions of section 4246.” Under Section 
+4246(d), if the court following a hearing finds by clear and 
+convincing evidence that “the person is presently suffering 
+from a mental disease or defect as a result of which his 
+release would create a substantial risk of bodily injury to 
+another person or serious damage to property of another,” 
+the person must remain in the custody of the Attorney 
+General for “treatment” unless a State will assume respon- 
+sibility for him and his mental condition. Ibid. 
+
+As with a defendant who is released, the passage of time 
+and the fading memories of witnesses may ultimately pre- 
+clude the government from prosecuting the charges against 
+a civilly committed defendant, even if he were to regain 
+competence while involuntarily hospitalized. At a minimum, 
+indefinite delay harms “[sJociety’s particular interest in 
+bringing swift prosecutions,” Barker v. Wingo, 407 U.S. 514, 
+527 (1972), not only because “[aJs the time between the 
+commission of the crime and trial lengthens, witnesses may 
+become unavailable or their memories may fade,” id. at 521, 
+but the delay prevents an adjudication that brings closure 
+for the victims of the offense. And “even though civil com- 
+mitment might reduce the danger to the community posed 
+by an individual, it cannot address a host of other important 
+societal concerns and values served by a criminal trial: ‘the 
+retributive, deterrent, communicative and investigative 
+functions of the criminal justice system * * * serve to 
+ensure that offenders receive their just deserts, to make 
+clear that offenses entail consequences, and to discover what 
+
+
+26 
+
+
+happened through the public mechanism of trial.“ Gomes, 
+289 F.3d at 81 (quoting Weston, 255 F. 3d at 882). 
+
+Involuntary commitment also does not well serve the 
+liberty interest of the defendant who could face indefinite 
+hospitalization in a federal prison hospital pursuant to 18 
+U.S.C. 4246. Absent medication, the person could simply be 
+“warehoused” indefinitely, languishing without effective 
+treatment for a serious mental disease, for periods well in 
+excess of any sentence he may have served had he been 
+found guilty of crimes for which he was charged. And a 
+defendant who is hospitalized may in any event be medicated 
+against his will under the standards of Harper. Bureau of 
+Prisons’ regulations authorize the forcible administration of 
+medically appropriate antipsychotic medication if a psychia- 
+trist, following an administrative hearing, determines that 
+the inmate “is dangerous to self or others, is gravely dis- 
+abled, or is unable to function in the open population of a 
+mental health referral center or a regular prison.” 28 C. F. R. 
+549.43(a)(5); ef. Jurasek v. Utah State Hosp., 158 F.3d 506 
+(10th Cir. 1998) (applying Harper to permit forcible medica- 
+tion of patient involuntarily confined in state hospital upon 
+showing that patient is dangerous to self or others or is 
+gravely ill). In that situation, contrary to petitioner's asser- 
+tion (Br. 38), an involuntarily committed patient will have 
+less procedural protections than a pre-trial detainee, like 
+petitioner, whom the government seeks to medicate to 
+restore competency. Cf. Harper, 494 U.S. at 229-236 (judi- 
+cial order not required to involuntarily medicate convicted 
+
+
+prisoner). 
+C. Involuntary Medication Is Justified When There Is A 
+Substantial Probability Of Restoring Competence And 
+When Medically Appropriate 
+Because of the significant liberty interest of the defen- 
+dant, the government must show that involuntary admini- 
+
+
+27 
+
+
+stration of antipsychotic medication is substantially likely to 
+render the defendant competent to stand trial. Under this 
+Court’s decision in Harper, moreover, any involuntary ad- 
+ministration of antipsychotic drugs must be medically appro- 
+priate. 494 U.S. at 227. 
+
+
+1. Antipsychotic medication, and no less-intrusive 
+alternative, is substantially likely to restore 
+competence 
+
+
+In Jackson, 406 U.S. at 738, this Court held that “a person 
+charged by a State with a criminal offense who is committed 
+solely on account of his incapacity to proceed to trial cannot 
+be held more than the reasonable period of time necessary to 
+determine whether there is a substantial probability that he 
+will attain that capacity in the foreseeable future.” Cf. 18 
+U.S.C. 4241(d) (requiring Attorney General to “hospitalize 
+lan incompetent] defendant for treatment * to 
+determine whether there is a substantial probability that in 
+the foreseeable future he will attain the capacity to permit 
+the trial to proceed.”). Just as the Constitution permits tem- 
+porary and involuntary confinement based on a substantial 
+probability of restoring competence, the Constitution like- 
+wise permits the temporary and involuntary administration 
+of medically appropriate antipsychotic drugs when such 
+treatment is substantially probable to restore competency. 
+
+As an empirical matter, medication with antipsychotic 
+drugs is substantially likely to render a psychotic defendant 
+competent to stand trial. The experience of the Bureau of 
+Prisons is that antipsychotic medication is highly effective in 
+restoring competency. Over a recent twelve-month period, 
+the Bureau evaluated and treated 285 patients who were 
+deemed under 18 U.S.C. 4241(d) to be incompetent to stand 
+trial. Of the 226 persons who voluntarily accepted treat- 
+ment, which in almost all instances included medication, 197 
+or 87.2% were restored to competency. Of the 59 persons 
+
+
+28 
+
+
+who were involuntarily medicated following an administra- 
+tive hearing under the Bureau’s regulations, 45 or 76.3% 
+were restored to competency. That success rate is consis- 
+tent with “{s]tudies [that] have concluded that the vast ma- 
+jority of incompetent defendants who are involuntarily com- 
+mitted for treatment are successfully restored to compe- 
+tence.” American Psychological Ass’n Am. Br. 19.° 
+
+Petitioner suggests (Br. 38-40) that the government must 
+show with “certainty” that medication will restore a defen- 
+dant’s competency to stand trial. Even when the govern- 
+ment seeks to deprive a person of liberty by convicting him 
+of a crime and punishing him, however, certainty is not 
+required. See Addington v. Teras, 441 U.S. 418, 430 (1979) 
+(beyond-a-reasonable-doubt standard does not require cer- 
+tainty beyond any doubt). And as the D.C. Circuit in Weston 
+has explained, “[e]ven narrow tailoring in strict scrutiny 
+analysis does not contemplate a perfect correspondence be- 
+
+
+tween the means chosen to accomplish a compelling govern- 
+
+
+mental interest.” 255 F.3d at 883. A requirement of cer- 
+tainty or near certainty overlooks the practical reality that 
+neither physicians nor courts can make that sort of predic- 
+tive medical judgment. Addington, 441 U.S. at 430 (“The 
+subtleties and nuances of psychiatric diagnosis render cer- 
+tainties virtually beyond reach in most situations.”); cf. 
+
+
+8 A study of 61 defendants who were involuntarily treated to restore 
+competency to face charges in New York found that 87% of the treated 
+individuals were restored to competency and 93% were clinically im- 
+proved. See B. Ladds et al., Involuntary Medication of Patients Who Are 
+Incompetent to Stand Trial: A Descriptive Study of the New York 
+Experience with Judicial Review, 21 Bull. of the Am. Acad. Psychiatry 
+Law 529, 529-545 (1993); B. Ladds et al., The Disposition of Criminal 
+Charges After Involuntary Medication to Restore Competency to Stand 
+Trial, 38 J. Forensic Sci. 1442, 1442-1459 (1993). A similar study of 205 
+defendants found incompetent to face charges under California law 
+reports a 90% success rate from anti-psychotic medication. L. Pendelton, 
+Treatment of Persons Found Incompetent to Stand Trial, 137 Am. J. 
+Psychiatry 1098, 1098-1100 (1980). 
+
+
+29 
+
+
+Daubert v. Merrell Dow Pharms. Inc., 509 U.S. 579, 590 
+(1993) (“Of course, it would be unreasonable to conclude that 
+the subject of scientific testimony must be ‘known’ to a cer- 
+tainty; arguably, there are no certainties in science.”). “The 
+small possibility that antipsychotic medication will not make 
+la defendant] competent for trial is certainly tolerable con- 
+sidering that antipsychotic medication is the sole means for 
+the government to satisfy its essential policy.” Weston, 255 
+F. 3d at 883. 
+
+In addition to showing a substantial likelihood that 
+medication will render a defendant competent to stand trial, 
+the government must show that no reasonable less-intrusive 
+alternative to medication will accomplish the government’s 
+objective. For the vast majority of individuals with 
+psychotic illnesses, there are no less intrusive methods of 
+restoring competency. Riggins, 504 U.S. at 141 (Kennedy, 
+J., concurring) (“For many patients, no effective alternative 
+exists for treatment of their illnesses.”). Indeed, neither 
+petitioner nor the amici suggest that there are viable, less 
+intrusive means to treat most psychotic disorders that result 
+in the individual being incompetent to stand trial. Cf. 
+American Psychological Ass’n Am. Br. 3, 12 (noting that non- 
+drug therapies “are often not adequate by themselves to 
+treat acute psychotic disorders” and that courts should “not 
+force the government to put the defendant through a 
+pointless exercise” of administering alternative treatments 
+to medication). 
+
+
+2. Antipsychotic medication is medically appro- 
+priate | 
+
+
+It is settled that antipsychotic drugs are medically appro- 
+priate for the treatment of psychosis. Harper, 494 U.S. at 
+229 (“the therapeutic benefits of antipsychotic drugs are well 
+documented”); American Psychiatric Press, Textbook of 
+Psychopharmacology Ch. 17, at 315 (A. F. Schatzberg & C.B. 
+
+
+30 
+
+
+Nemeroff eds., 2d ed. 1998) (Textbook of Psychopharma- 
+cology) (“Antipsychotic medications are effective for nearly 
+every medical and psychiatric condition that results in 
+psychosis.”); accord National Institute of Mental Health, 
+Mental Health: A Report of the Surgeon General 279-280 
+(1999) (Mental Health); American Psychiatric Ass’n Am. Br. 
+13-14; American Psychological Ass’n Am. Br. 3, 11. 
+
+a. Petitioner’s characterization (Br. 18, 23, 32, 33, 42-43) 
+of antipsychotic drugs as “artificially” “mind-altering” and 
+producing a “synthetic sanity” reflects a misunderstanding 
+of the nature and effects of both psychosis and antipsychotic 
+drugs. Psychotic diseases such as schizophrenia and delu- 
+sional disorders are serious and often debilitating diseases. 
+For instance, “[s]chizophrenia is characterized by profound 
+disruption in cognition and emotion, affecting the most 
+fundamental human attributes: language, thought, percep- 
+tion, affect, and sense of self.” Mental Health 269 (emphasis 
+omitted). Similarly, delusions “seriously restrict” the 
+“autonomy that comes from logical, realistic, self-serving 
+thinking.” A.R. Felthous, M.D. et al., Are Persecutory Delu- 
+sions Amenable to Treatment?, 29 J. Am. Acad. Psychiatry 
+Law 461, 462 (2001); see also A.A. Stone, M.D., Commentary 
+on Formulating Mental Health Codes for the World, 
+Psychiatrie Times, July 2002, at 4 (D jelusions and 
+hallucinations are not a manifestation of human autonomy; 
+they are symptoms of a serious malfunction of the human 
+brain.”). 
+
+Antipsychotic drugs treat psychotic symptoms that 
+interfere with a person’s ability to think and communicate. 
+Antipsychotic drugs “restore normal thought processes by 
+clearing hallucinations and delusions.” Riggins, 504 US. at 
+141 (Kennedy, J., concurring) (emphasis added). “The 
+mental health produced by antipsychotic medication is no 
+different from, no more inauthentic or alien to the patient 
+than, the physical health produced by other medications, 
+
+
+31 
+
+
+such as penicillin for pneumonia.” Ibid. (quoting American 
+Psychiatric Ass’n Am. Br. 9). Thus, Arlather than mind 
+restricting, the medication is mind liberating. It brings the 
+possibility of a less tortured existence and improved func- 
+tioning, and it can serve as the key to real, physical liberty 
+* * * in the long run.” A.R. Felthous, supra, 466; accord 
+T.G. Gutheil, M.D. & P.S. Appelbaum, M.D. “Mind Control,” 
+“Synthetic Sanity,” “Artificial Competence,” and Genuine 
+Confusion: Legally Relevant Effects of Antipsychotic Medi- 
+cation, 12 Hofstra L. Rev. 77, 118-119 (1983) (“[E]}mpirical 
+studies of antipsychotic drug effects on complex cognitive 
+functions * * * overwhelmingly show a positive effect of 
+the medications * * * [not] consistent with a view of these 
+drugs as mind-altering, thought-inhibiting, or destructive of 
+personality in a negative sense. In fact, * * * the medi- 
+cations reinforce the most important aspects of mental 
+functioning.”). fe 
+
+Conversely, refraining from treatment has the potential to 
+engender permanent harm, by slowing the response to medi- 
+cation once it is initiated or diminishing the extent of 
+response to the medication. Mental Health 274; J.A. 165 
+216. “Without medicine,” the patient also could remain 
+“deluded and dangerous,” and therefore subject to involun- 
+tary commitment of a lifelong duration. A.R. Felthous, 
+supra, 461; pp. 25-26, supra. 
+
+Those considerations are particularly acute when the 
+psychotic individual faces criminal charges. The loss of cog- 
+nitive abilities and rational thinking deprives the individual 
+of any chance of exercising control and autonomy in deter- 
+mining whether to accept responsibility for any criminal 
+conduct, to fight the charges and assist counsel in his 
+defense, or to play a meaningful role in a course of treatment 
+while serving a sentence. 
+
+b. Any consideration of medical appropriateness must 
+consider the potential side effects of antipsychotic drugs in 
+
+
+32 
+
+
+a given case. There are two types of such drugs, the 
+older-generation of conventional or typical drugs, which 
+include chlorpropromazine (Thorazine), thioridazine (Mel- 
+laril), haloperidol (Haldol), thiothixene (Navane), and pimoz- 
+ide (Orap), and newer “atypical” drugs, which include 
+clozapine (Clorazil), risperidone (Risperdal), olanzapine 
+(Zyprexa), quetiapine (Seroquel), ziprasidone (Geodon), and 
+aripiprazole (Abilify). 2 Kaplan & Sadock’s Comprehensive 
+Textbook of Psychiatry, 2356-2377, 2455-2472 (BJ. Sadock & 
+V. A. Sadock eds., 7th ed. 2000) (Kaplan & Sadock), Textbook 
+of Psychopharmacology 309-321, 323-348. Conventional 
+anti-psychotic drugs can be associated with extrapyramidal 
+(muscular movement) side effects that include parkinsonism 
+(tremor of the limbs, diminished range of facial expression, 
+slowed functions), acute dystonia (severe involuntary spasms 
+of the upper body, tongue, throat or eyes); akathesia (motor 
+restlessness, often characterized by an inability to sit still); 
+neuroleptic malignant syndrome (a very rare condition which 
+can lead to death from cardiac dysfunction); and tardive 
+dyskinesia (a neurological disorder characterized by involun- 
+tary, uncontrollable movements of various muscles, espe- 
+cially around the face). Riggins, 504 U.S. at 142-144 (Ken- 
+nedy, J., concurring); Harper, 494 U.S. at 229-230; Mills, 457 
+U.S. at 293 n. 1. Given the possible side effects from all 
+medications, including anti-psychotic medications, the Bu- 
+reau of Prisons requires its psychiatrists “to maintain 
+patients on the lowest effective dose of medication.” Federal 
+Bureau of Prisons, U.S. Dep’t of Justice, Health Services 
+Manual Ch. IX, at 6 (Sept. 1996) (BOP Health Services 
+Manual). The Bureau also requires that “(aJll patients on 
+psychiatric medications shall be monitored regularly for side 
+effects; this must be documented in the health record. 
+Particularly for patients maintained on psychiatric medica- 
+tions known to cause tardive dyskinesia, regular monitoring 
+
+
+33 
+
+
+shall be documented for the development of symptoms of 
+this disease.” Ibid. 
+
+The professional judgment of medical experts is that most 
+side effects of conventional drugs can be monitored and 
+controlled by altering the doses of a drug or changing or 
+adding drugs, and most side effects cease when the drugs are 
+discontinued. Mental Health 281; T.G. Gutheil, supra, 109; 
+Textbook of Psychopharmacology 317; American Psychiatric 
+Ass’n Am. Br. 11, 14-16. As the Second Circuit noted in 
+Gomes, “the most harmful side effects associated with con- 
+ventional antipsychotic medications are rare, result from 
+years of usage, and, to the extent that they arise shortly 
+after administration of the medication, are manageable.” 289 
+F.3d at 84; Weston, 255 F.3d at 877. For instance, tardive 
+dyskinesia “virtually never develops after only a few weeks 
+or months of taking the antipsychotic drugs.” J. Gorman, 
+The Essential Guide to Psychiatric Drugs 219 (3d ed. 1997); 
+see also T. G. Gutheil, supra, at 109 ([Tlardive dyskinesia is 
+generally mild, not necessarily progressive and very often 
+disappears if antipsychotic medication can be halted.”). 
+There would therefore normally be virtually no heightened 
+risk of tardive dyskinesia in the temporary administration of 
+drugs in order to restore competence. The risk of side 
+effects associated with the involuntary administration of 
+medication is confined to the limited period necessary to 
+restore the defendant’s competence through the course of 
+the legal proceedings. Gomes, 289 F.3d at 84. 
+
+Significantly, since Riggins was decided, medical science 
+has dramatically advanced to produce ‘atypical” drugs that 
+treat psychoses with lower risks of the conventional drugs’ 
+side effects. Gomes, 289 F.3d at 83; Weston, 255 F.3d at 886 
+n.7. Although atypical drugs have their own side effects, 
+such as “sedation, weight gain, sexual dysfunction, and other 
+dose-related discomforts” (Mental Health 282), “the side- 
+effect profiles are significantly improved from the older 
+
+
+34 
+
+
+generation, and the improvements include what strongly 
+appears, from an accumulating body of evidence, to be a 
+substantial reduction of the risk of tardive dyskinesia.” 
+American Psychiatric Ass’n Am. Br. 18; S. Caroff et al., 
+Movement Disorders Associated with Atypical Anti- 
+psychotic Drugs, 63 J. Clin. Psychiatry 12, 16-17 (2002) (con- 
+cluding that “all of the atypical antipsychotic drugs show a 
+significantly reduced potential in causing acute EPS [extra- 
+pyramidal side effects] and other movement disorders” and 
+that t here is fairly consistent and convincing evidence that 
+the atypical antipsychotics have a significantly reduced 
+liability for TD [tardive dyskinesia]”); accord Mental Health 
+280-281; American Psychological Ass’n Am. Br. 22-25. As 
+with the conventional drugs, it is also possible to manage the 
+side effects, including sedation, of the new generation of 
+drugs to minimize and counteract those effects.’ 
+
+There is also little doubt that medical science will continue 
+to develop new drugs that will increase the range of options 
+and decrease the negative side effects. For example, when 
+this case was decided in the lower courts, the new genera- 
+tion, atypical drugs were available only for oral administra- 
+tion and, therefore, could not be used to involuntarily 
+medicate an uncooperative patient. J.A. 235-238 (testimony 
+of Dr. Wolfson). Faced with the choice of conventional or 
+
+
+9 Significantly, sedation-type effects may decline as the patient accli- 
+mates to the medication. Mental Health 281 (“Many other side effects 
+such as attention and vigilance problems, sleepiness, blurry vision, dry 
+mouth, and constipation are worse in the initial weeks of treatment and 
+usually taper off as a person adjusts to the medication.”); American 
+Psychiatric Ass’n, Practice Guidelines for the Treatment of Psychiatric 
+Disorders 320 (2000) (“Sedation is most pronounced in the initial phases of 
+treatment. Most patients develop some tolerance to the sedating effects 
+with continued administration.”). Sedation can also be reduced by medical 
+management. Ibid. (“Lowering of the daily dose, consolidation of divided 
+doses into one evening dose, or changing to a less sedating antipsychotic 
+medication can be helpful.”). 
+
+
+35 
+
+
+atypical medications, a defendant who is ordered to take 
+antipsychotic medication may well decide to cooperate in 
+taking one of the atypical drugs in an oral form. Weston, 255 
+F. 3d at 886 n.7 (noting defendant’s indication that “he would 
+comply with court-ordered medication”); see also P.A. Nidich 
+& J. Collins, Involuntary Administration of Psychotropic 
+Medication: A Federal Court Update, 11 Health Lawyer 12, 
+14 n.21 (May 1999) (The “short-term usage of typical 
+antipsychotics to stabilize a patient to allow him a choice of 
+switching to one of the atypicals presents little risk of 
+serious side effects and is consistent with the standard of 
+care.“). Moreover, the Food and Drug Administration 
+(FDA) has now approved for intramuscular injection one 
+atypical drug, ziprasidone (Geodon). See http://www.pfizer. 
+com/hml/pi’s/geodonpi.pdf. Other atypical drugs may be 
+available in an injectable form in the future. S. Vedantam, 
+Implants May Reshape Schizophrenia Treatment, Washing- 
+ton Post, Nov. 16, 2002 <http://www.schizophrenia-help.com> 
+(“(TJhe maker of risperidone, the country’s most frequently 
+prescribed atypical antipsychotic, is applying to the [FDA] 
+to market an injectable version” that has been approved for 
+use in the United Kingdom, Germany, Austria, New Zea- 
+land, Mexico, the Netherlands, and Switzerland.); Company 
+News: Eli Lilly & Co. Article, N.Y. Times, Mar. 9, 2001 
+<http://premium.news.yahoo.com> (noting application for 
+approval of an injectable form of Zyprexa). 
+
+e. “Whether a proposed course of action is ‘medically 
+appropriate’ obviously depends on the judgment of medical 
+professionals.” Weston, 255 F.3d at 876. Thus, the question 
+whether the risk of medication will outweigh the medical 
+benefits to the patient will involve a case-specific inquiry in 
+light of the patient’s history, medical condition, and state of 
+medical knowledge at the time of medication. Courts making 
+such an inquiry should accord proper “deference * * * to 
+medical professionals who have the full-time responsibility of 
+
+
+36 
+
+
+caring for mentally ill inmates * * * and who possess, as 
+
+courts do not, the requisite knowledge and expertise to 
+
+determine whether the drugs should be used in an individual 
+
+case.” Harper, 494 U.S. at 230-231 n.12; see also Parham v. 
+
+JR., 442 U.S. 584, 607 (1979) (“neither judges nor admin- 
+
+istrative hearing officers are better qualified than psychia- 
+
+trists to render psychiatric judgments”) (citation omitted). 
+
+In particular, It Ihe risks associated with antipsychotic 
+
+drugs are for the most part medical ones, best assessed by 
+
+medical professionals” who are presumed to act with the 
+best interest of the patient in mind. Harper, 494 U.S. at 
+
+233. 
+
+ll. THE INVOLUNTARY ADMINISTRATION OF 
+ANTIPSYCHOTIC MEDICATION THAT ACCORDS 
+WITH SUBSTANTIVE DUE PROCESS DOES NOT 
+VIOLATE THE FIRST AMENDMENT 
+
+
+Petitioner and his amici argue that the First Amendment 
+prevents the forced administration of antipsychotic drugs 
+because it alters the person’s consciousness, and ability to 
+think and communicate, from his pre-medicated psychotic 
+state. Pet. Br. 24-25, 28-30; Rutherford Inst. Am. Br. 7-9; 
+ACLU Am. Br. 6-9; CCLE Am. Br. 3-23; United States v. 
+Brandon, 158 F.3d 947, 953 (6th Cir. 1998); Bee v. Greaves, 
+744 F.2d 1387, 1393-1394 (10th Cir. 1984), cert. denied, 469 
+U.S. 1214 (1985). The substantive due process inquiry al- 
+
+
+10 There is no basis for petitioner's suggestion (Br. 49 n.10) that physi- 
+cians employed by the Bureau of Prisons are unable to make independent 
+medical judgments. In its treatment of mentally ill pre-trial detainees, the 
+Bureau of Prisons serves the role of a “benign custodian of one legally 
+committed to it for care and medical treatment.” United States v. 
+Charters, 863 F. 2d 302, 312 (4th Cir. 1988) (en banc), cert. denied, 494 U.S. 
+1016 (1990); ef. BOP Health Services Manual Ch. IX, at 4 (in advising 
+courts under 18 U.S.C. 4241(d), “[a}t all times, evaluators should take the 
+_position of working for the court, not for the Assistant United States 
+Attorney or the defense attorney”). 
+
+
+37 
+
+
+ready protects those interests, however, because they are 
+part of the individual’s liberty interest in refusing anti- 
+psychotic medication whose purpose “is to alter the chemical 
+balance in a patient’s brain, leading to changes, intended to 
+be beneficial, in his or her cognitive processes.” Harper, 494 
+U.S. at 229 (emphases added); see also American Psychologi- 
+cal Ass’n Am. Br. 9. Because the First Amendment and due 
+process interests are “in large part co-extensive,” an order of 
+involuntary medication that complies with substantive due 
+process standards set forth above does not violate the indivi- 
+dual’s First Amendment rights. Gomes, 289 F. gd at 84. 
+
+In any event, even if an individual has a residual First 
+Amendment interest that is distinct from his liberty interest, 
+an order of involuntary medication is not a content-based 
+regulation that would require strict scrutiny. See Simon & 
+Schuster, Inc. v. Members of the N.Y State Crime Victims 
+Bd., 502 U.S. 105, 118 (1991). The purpose of an order of 
+in voluntary medication is to restore a defendant’s com- 
+petence to stand trial; such an order does not proseribſe] 
+speech or even expressive conduct because of disapproval of 
+the ideas expressed.” R.A.V. v. City of St. Paul, 505 U.S. 
+377, 382 (1992) (citations omitted). Indeed, antipsychotic 
+medications, “when properly used to treat the severely 
+mentally ill, positively promote First Amendment interests 
+by enhancing abilities to concentrate, read, learn, and com- 
+municate.” American Psychiatric Ass’n Am. Br. 26; see also 
+pp. 30-31, supra. Because an order of involuntary medi- 
+cation is, at most, a content-neutral regulation, it requires a 
+level of intermediate scrutiny. Ward v. Rock Against 
+Racism, 491 U.S. 781, 799 (1989) (restriction must “pro- 
+— J L. 1 me government interest that would be 
+achiev effectively absent the regulation”) ( 
+United States v. Albertini, 472 U.S. 675, 689 ( —— 
+United States v. O’Brien, 391 U.S. 367, 377 (1968). Substan- 
+tive due process requires that the involuntary administra- 
+
+
+38 
+
+
+tion of antipsychotic medication be medically appropriate 
+and that the medication, and not a reasonable less intrusive 
+alternative, is substantially likely to restore competency. 
+That heightened level of scrutiny is consistent with the First 
+Amendment. Gomes, 289 F.3d at 84-85. 
+
+
+III. THE INVOLUNTARY ADMINISTRATION OF 
+ANTIPSYCHOTIC MEDICATION IS CONSISTENT 
+WITH A DEFENDANT’S FIFTH AND SIXTH 
+AMENDMENT RIGHTS TO A FAIR TRIAL 
+
+
+A. Medication Is Not Likely To Prejudice Fair Trial 
+Rights 
+
+1. In Riggins, this Court found that the involuntary 
+administration of an older generation drug, Mellaril, in a 
+dose “within the toxic range” could have violated the defen- 
+dant’s trial rights because the possible side effects of confu- 
+sion or drowsiness could have affected, “not just [the defen- 
+dant’s] outward appearance, but also the content of his 
+testimony on direct or cross examination, his ability to follow 
+the proceedings, or the substance of his communication with 
+counsel.” 504 U.S. at 137; see also id. at 142-145 (Kennedy, 
+J., concurring). Thus, in addition to the substantive due pro- 
+cess standards set forth above, a court may not order invol- 
+untary medication with antipsychotic drugs if the medication 
+is likely to impair the defendant’s ability to receive a fair 
+trial. 
+Where the court has determined that medication is con- 
+sistent with substantive due process, a court ordinarily will 
+conclude that medication is not likely to prejudice the 
+defendant’s fair trial rights. As discussed above, pp. 31-35, 
+due process requires the court to consider the risk of side 
+effects on the defendant in determining whether the medi- 
+cation is medically appropriate. Due process also requires 
+that the medication must be substantially likely to render 
+the defendant able to understand the nature and conse- 
+
+
+39 
+
+
+quences of the proceedings and assist in his defense. Indeed, 
+the purpose of administering antipsychotic medication is to 
+allow the defendant to think and communicate rationally so 
+he can fairly participate in the legal proceedings and assist 
+his counsel. Those benefits “presumably will also translate 
+into an improved capacity to communicate from the witness 
+stand.” Weston, 255 F.3d at 884; cf. Riggins, 504 U.S. at 136 
+(noting absence of a finding that the medication was 
+administered to ensure that the defendant was competent to 
+stand trial). 
+
+2. There also is good reason to conclude that defendants 
+who are competent by virtue of antipsychotic medication are 
+likely to receive a fair trial. “The great majority of trial- 
+incompetent defendants are restored to trial-competency 
+through the voluntary use of these same medications.” B. 
+Ladds et al., The Disposition of Criminal Charges After 
+Involuntary Medication to Restore Competency to Stand 
+Trial, 38 J. Forensic Sei. 1442, 1453 (1993) (The Disposition 
+of Criminal Charges After Involuntary Medication) (em- 
+phasis added). Similarly, as observed above (at 27), 226 out 
+of the 285 defendants adjudicated to be incompetent under 
+Section 4241(d) (i.e, approximately 80%) within a recent 
+twelve-month period voluntarily accepted treatment. 
+
+Although the Bureau does not track the disposition of 
+charges once a defendant is restored to competency, the 
+study by Ladds et al., which examined the disposition of 
+charges of 43 involuntarily medicated defendants, found “no 
+evidence * * * that forced medication per se during a pre- 
+trial hospitalization worsens the outcome of pending criminal 
+charges.” The Disposition of Criminal Charges After Invol- 
+untary Medication 1457. Specifically, the study reported 
+that most defendants entered into pleas that resulted in 
+“markedly reduced” charges; that “[{sJeveral individuals 
+gained freedom from confinement immediately”; and that 
+
+
+40 
+
+
+medication did not preclude “the successful assertion of an 
+insanity plea.” Id. at 1452, 1453, 1454. 
+
+
+B. Post-Medication Procedures Ensure That Medication 
+Does Not Unduly Prejudice Fair Trial Rights 
+
+
+1. Where there is no sound reason to conclude, pre- 
+medication, that antipsychotic drugs will impair a particular 
+defendant’s fair trial rights, the question whether a drug’s 
+side effects, if any, will impair those rights is premature until 
+the drugs are administered. For that reason, the question 
+whether the medication will adversely affect the defendant’s 
+fair trial rights “is best determined when the actual effects 
+of the medication are known, that is, after he is medicated.” 
+Weston, 255 F.3d at 886 n.8; accord Gomes, 289 F.3d at 84 
+(“whatever the risk of side effects may be, we believe that 
+they are best dealt with in the context of the individual case 
+[post-medication] rather than by blanket judicial pronounce- 
+ments”); J. A. 376 (“[W]e believe that the effects of the 
+
+
+medication on [petitioner’s] competency and demeanor may ~ 
+
+
+properly be considered once the medication is adminis- 
+tered.”). 
+
+The concern expressed in Justice Kennedy’s concurrence 
+in Riggins, 504 U.S. at 142-145, that side effects will under- 
+mine a defendant’s right to a fair trial relied, to a large 
+extent, on the side effects of the older generation of drugs. 
+The neuer generation of antipsychotic drugs has generally 
+less significant side effects. Weston, 255 F.3d at 886 n. 7. 
+Indeed, the class of atypical drugs is defined by the drugs’ 
+ability to treat psychoses while producing minimal extra- 
+pyramidal side effects. H. Meltzer & S. McGurk, The Effects 
+of Clozapine, Risperidone, and Olanzapine on Cognitive 
+Function in Schizophrenia 25(2) Schizophrenia Bull. 233, 235 
+(1999) (“Atypical antipsychotics are operationally defined as 
+drugs that produce minimal extra pyramidal symptoms 
+(EPS) at doses that produce effective antipsychotic action.”). 
+
+
+41 
+
+
+In addition, some of the concerns, such as that a sedation 
+effect will hinder a defendant’s ability to follow the pro- 
+ceedings and assist counsel, directly bear on the issue of 
+competence itself. A defendant who is too drowsy to under- 
+stand the proceedings or assist counsel will not be found 
+competent to stand trial. A further concern is that medica- 
+tion may be prescribed “for the very purpose of imposing 
+constraints on the defendant’s own will.” 504 U.S. at 145 
+(Kennedy, J., concurring). That purpose, however, would 
+not be a legitimate basis for medication designed to restore 
+competence. The goal of restoring competence is to enable 
+the defendant rationally to exercise his will. The medication 
+is vital to attainment of that goal. 
+
+If a defendant does suffer any post-treatment side effects 
+that threaten his rights to a fair trial, the ability of “treating 
+physicians and the district court to respond to them 
+substantially reduces the risk they pose to trial fairness.” 
+Weston, 255 F.3d at 885; accord Gomes, 289 F.3d at 84. Side 
+effects can be monitored and controlled by the treating 
+psychiatrist through reducing the dosage, adding a coun- 
+teracting medication, or choosing a different medication. 
+For example, adverse effects on the defendant’s appearance 
+and demeanor can be treated by adjusting the dosage of the 
+medication, administering one of the anti-parkinsonism 
+medications, or changing to one of the atypical medications. 
+American Psychiatric Ass'n, Practice Guidelines for the 
+Treatment of Psychiatric Disorders 321 (2000); accord 2 
+Kaplan & Sadock 2265-2266. Moreover, the district court 
+may give appropriate instructions to the jury, such as 
+informing the jury that the defendant is being administered 
+medication, and allowing experts to testify about any effect 
+of the meditation. Weston, 255 F.3d at 886. The trial day can 
+be shortened if necessary to avoid undue fatigue. Those 
+post-medication procedures are constitutionally sufficient to 
+
+
+42 
+
+
+protect a defendant’s Fifth and Sixth Amendment rights to a 
+fair trial. 
+
+2. Petitioner argues (Br. 44) that no post-medication 
+
+review can ameliorate the fact that medication that is effec- 
+tive in restoring competency will deprive a defendant “of the 
+best evidence of his mental state at the time of the alleged 
+crime—his own demeanor in an unmedicated state.” That 
+argument apparently posits a trial of an unmedicated psy- 
+chotie defendant who could testify in a delusional or hallu- 
+cinogenic state of mind. It is far from clear, however, that 
+such a trial is possible. This Court has never held that a 
+defendant can waive his right to be competent to stand trial, 
+even were the defendant medicated to the point of being 
+made competent to make such a waiver. Cf. Riggins, 504 
+U.S. at 136 (“The question whether a competent criminal 
+defendant may refuse antipsychotic medication if cessation 
+of medication would render him incompetent at trial is not 
+before us.”). And, while it is theoretically possible that a 
+defendant at some indeterminate time in the future could 
+become competent and yet remain mentally impaired to a de- 
+gree sufficient to influence the jury, for seriously ill individu- 
+als, that possibility seems highly remote without anti- 
+psychotic medication. A constitutional right to refuse com- 
+petency-restoring medication in order to preserve a hypo- 
+thetical right to be tried in a mentally-impaired condition 
+thus largely seems to contemplate a trial that will never 
+occur. 
+Apart from the lack of practicability of the asserted right, 
+“a defendant does not have an absolute right to replicate on 
+the witness stand his mental state at the time of the crime.” 
+Weston, 255 F.3d at 884. As the D.C. Circuit has explained: 
+
+
+A defendant asserting a heat-of-passion defense to a 
+charge of first degree murder does not have the right to 
+whip up a frenzy in court to show his capacity for rage, 
+
+
+43 
+
+
+nor does a defendant claiming intoxication have the right 
+to testify under the influence. There is little meaningful 
+distinction between these cases and medication-induced 
+competence to stand trial. 
+
+
+Ibid. Indeed, the American Psychiatric Association advises 
+(Am. Br. 29) that “[aJn individual’s psychotic state may not 
+be evident in his or her appearance or demeanor” and that, 
+even were the Jefendant to remain unmedicated at trial, the 
+passage of time and his surroundings and circumstances at 
+trial may alter his demeanor “from what it was at the time of 
+the charged offense.” There is, in addition, no necessary 
+correlation between a defendant’s present mental condition 
+and whether his condition at the time of the alleged criminal 
+act met the jurisdiction’s legal definition of insanity (or other 
+legal defenses). And there are ample other ways for a 
+defendant to prove his impaired mental state at the time of 
+the offense—through the testimony of examining physicians 
+and other witnesses, taped interviews, psychiatric reports, 
+and instructions to the jury about the effects of medication. 
+Finally, the defendant himself can testify to his previous 
+hallucinations or delusions. Weston, 255 F.3d at 884-885. 
+
+
+IV. THE ORDER FOR INVOLUNTARY ADMINISTRA- 
+TION OF ANTIPSYCHOTIC MEDICATION IN 
+THIS CASE IS PROPER 
+
+
+The court of appeals held that the government had proved 
+the effectiveness of medication to restore petitioner’s com- 
+petency, the medical appropriateness of antipsychotic drugs, 
+and the lack of reasonable alternatives “by clear and convinc- 
+ing evidence.” J.A. 375." The court of appeals also found 
+
+
+1 The importance and nature of the interests at stake here are com- 
+parable to the interests bearing on the decision to civilly commit an indivi- 
+dual, Addington v. Texas, 441 U.S. at 427, in which the Court adopted the 
+clear and convincing standard of proof. See also, e.g., Santosky v. Kramer, 
+455 U.S. 745, 756-757 (1982) (termination of parental rights); Woodby v. 
+
+
+ad 
+
+
+that there was evidence that petitioner’s fair trial rights 
+could be safeguarded if he was restored to competence by 
+medication. J.A. 375-376. Those determinations are correct. 
+
+
+A. Antipsychotic Medication Is Substantially Likely And 
+Necessary To Restore Petitioner's Competence 
+
+
+1. The record in this case establishes that antipsychotic 
+medication is substantially likely to render petitioner com- 
+petent to stand trial. Dr. DeMier testified to his belief that 
+petitioner could “be restored to competency, as a result of 
+treatment with anti-psychotic medications.” J.A. 176. He 
+testified that he had been involved in the treatment of two 
+patients with delusional disorder who had been administered 
+antipsychotic medication and that one patient had regained 
+competency and the other had shown significant improve- 
+ment. J.A. 174-176, 184-185. 
+
+Dr. Wolfson testified that he had treated between 1000 
+and 2000 patients with antipsychotic medication and that 
+most of them had positive results. J.A. 233. He stated that 
+he had successfully used antipsychotic medication four out of 
+five times to restore the competency of patients with 
+delusional disorder. J.A. 240-241, 261-263. Dr. Wolfson 
+noted that the conventional wisdom was that patients with 
+delusional disorder respond less well to antipsychotic medi- 
+cation than patients with other psychoses, but he doubted 
+that conclusion based on his own experience. J.A. 243-244, 
+277. He observed that favorable results documented in a 
+small series of case reports in the medical literature mir- 
+rored his experience. J.A. 243-244. Dr. Wolfson opined that, 
+based on his experience, antipsychotic medication stood “a 
+good chance” of restoring petitioner's competency. J. A. 242. 
+
+The American Psychological Association states (Am. Br. 
+
+17) that “there is no consensus among researchers that 
+
+
+INS, 385 U.S. 276, 285-286 (1966) (deportation). That standard is 
+therefore the appropriate one in this setting. 
+
+
+45 
+
+
+delusional disorder, persecutory type will respond favorably 
+to antipsychotic drugs.” The American Psychiatric Associa- 
+tion, however, has concluded (Am. Br. 19-20) that “the evi- 
+dence respecting treatment of delusional disorder,” while 
+“less definitive than for schizophrenia and other more com- 
+mon psychotic illnesses,” “supports the findings about medi- 
+cation here-its medical appropriateness, the prospects for 
+restoring competence, and the lack of realistic alternatives.” 
+See A. Munro, Delusional Disorder, Paranoia and Related 
+Illnesses 6 (Cambridge Univ. Press 1999) (“Many anecdotal 
+treatment results, and a small number of double-blind drug 
+trials, appear to show a consensus that delusional disorder, 
+despite its traditional resistance to treatment, can now be 
+regarded as an eminently treatable illness.”) (emphasis 
+added); see also 1 Kaplan & Sadock 1263 (review of delu- 
+sional disorder case studies in literature “indicated that 80.8 
+percent of cases either recovered fully or partially” as a 
+result of antipsychotic medication). 
+
+In any event, there is no sound basis for imposing a 
+constitutional requirement that courts in every case review 
+the medical literature to determine whether a medical “con- 
+sensus” has been achieved with respect to a particular 
+course of treatment. In analogous contexts, this Court has 
+not required such a showing but rather has required that the 
+physician exercise her “professional judgment” in treating 
+an involuntarily confined patient. Youngberg, 457 U.S. at 
+322; Harper, 494 U.S. at 230, 233; cf. Daubert, 509 U.S. at 594 
+(“general acceptance” is not a necessary precondition for 
+admissibility of expert testimony under Federal Rules of 
+Evidence). 
+
+2. The record equally establishes that there is no less in- 
+trusive means of treating petitioner’s psychosis to render 
+him competent to stand trial. Dr. DeMier testified at the 
+evidentiary hearing that “anti-psychotic medication [was] 
+clearly indicated, as it [was] the only treatment that we 
+
+
+46 
+
+
+could reasonably expect to improve [petitioner’s] condition.” 
+J.A. 176. He believed that there was no “other effective 
+method of treating [petitioner’s] symptoms at this time,” 
+J.A. 177, nd that antipsychotic medication was “the only ef- 
+fective me ang to improve his mental state.“ J. A. 184. Dr. 
+Wolfson testified that antipsychotic medication was neces- 
+sary to alleviate petitioner’s symptoms before he could be 
+treated with other non-drug therapies. J.A. 232-233, 262-264. 
+
+Neither petitioner nor the amici make any claim in this 
+Court that there is a less intrusive means of restoring his 
+competence to stand trial. American Psychological Ass’n 
+Am. Br. 13-14 & n.11 (“For individuals with some diagnoses, 
+however,—including delusional disorder—particular fea- 
+tures of the disorder may present considerable obstacles to 
+the effectiveness of non-drug therapy.”); accord American 
+Psychiatric Ass’n Am. Br. 20-21. Similarly, petitioner's 
+expert, Dr. Cloninger “was not able to recommend a less 
+intrusive alternative to restore [petitioner] to competency.” 
+J.A. 372. 
+
+
+B. Antipsychotic Medication Is Medically Appropriate 
+
+
+The record in this case also establishes that the likelihood 
+and gravity of side effects of the antipsychotic medication do 
+not outweigh the medical benefits to petitioner. Dr. DeMier 
+acknowledged that there were “potentially significant side 
+effects” from the medication, J.A. 185-187, but he believed 
+that the medication provided “potentially, very significant 
+recovery from symptoms.” J.A. 185. Dr. Wolfson ulso ac- 
+knowledged that antipsychotic medication had the potential 
+to cause “unpleasant” side effects, such as dystonic reaction 
+and sedation, J.A. 233-234, 240, but he believed that those 
+side effects could be mitigated by other medicines or treat- 
+ments. J.A. 234-235. As the court of appeals concluded, “the 
+government proved that the side-effects produced by the 
+
+
+47 
+
+
+medication could be minimized through careful treatment 
+and changing medications and dosages.” J. A. 374. 
+
+Dr. DeMier also testified that the delay in treatment could 
+adversely affect petitioner both by lengthening the amount 
+of time it would take for the treatment to work and by 
+diminishing the optimal response to the treatment. J.A. 165, 
+216. He stated that petitioner’s condition had deteriorated 
+since June 1999 and would continue to deteriorate if he were 
+not treated with antipsychotic medication. J.A. 165-167, 172. 
+Dr. Wolfson likewise anticipated that petitioner’s condition 
+would continue to deteriorate absent antipsychotic medica- 
+tion. J.A. 228. 
+
+Petitioner argues (Br. 18, 31, 33, 49) that the courts below 
+could not determine whether antipsychotic medication was 
+medically appropriate or effective in restoring competency, 
+since Dr. Wolfson testified at the hearing that he did not 
+want to commit himself te a particular drug because he 
+wanted to give petitioner some control over his course of 
+treatment. J.A. 238-239. Dr. Wolfson did recommend, how- 
+ever, that the atypical drugs quetiapine (Seroquel), olanzap- 
+ine (Zyprexa), and ziprasadone (Geodon) “are the ones that 
+make the most sense” and are the “most likely to have a 
+benign side effect * * * profile.” J.A. 238, 239. The court of 
+appeals thus properly rejected petitioner’s contention that 
+“he was not given the opportunity to make specific objec- 
+tions to specific drugs.” J.A. 374. 
+
+Dr. Wolfson’s approach was medically proper, since the 
+decision as to a particular medication and its precise dose 
+must be determined according to what is appropriate at the 
+time the medication is administered, given the patient’s 
+condition, and state of medical knowledge. There also is no 
+point to seeking a judicial order authorizing only one form of 
+a drug, for instance, an injectable conventional drug, if the 
+patient, upon being advised of an involuntary medication 
+order, decides to take one of the newer atypical drugs avail- 
+
+
+48 
+
+
+able only in a pill. Similarly, dosages may need adjustment 
+and further medication may need to be prescribed in re- 
+sponse to any side effects. Finally, the patient himself may 
+wish to play some role after being advised of the risk of side 
+effects. J.A. 297 (testimony of Dr. Wolfson) (“I see no 
+benefit to saying, ‘I will pick this drug now,’ dogmatically, if 
+it turns out that [petitioner] prefers Quetiapine to Olazapine, 
+then there [is] no reason why he shouldn’t have some 
+input.”). Any requirement of prior judicial approval for 
+those subsidiary medical decisions could seriously interfere 
+with the best medical interests of the patient and likewise 
+could disrupt the government’s attempt to render the 
+defendant competent to stand trial.” 
+C. The Courts Below Appropriately Considered The 
+Effects Of Antipsychotic Medication On Petitioner's 
+Fair Trial Rights 
+
+
+The courts below found the evidence sufficient to indicate 
+that petitioner “would be able to participate meaningfully in 
+his trial while he is under the influence of the medication.” 
+J.A. 376. Petitioner errs in presuming (Br. 45) that the 
+involuntary administration of antipsychotic medication is 
+impermissible because it would impair his trials rights in 
+being able “to pay attention to witnesses, attorneys, or 
+anyone else in the courtroom, to listen and regpond to 
+questions, and to offer comments about the proceedings.” In 
+those situations, no trial would proceed because petitioner 
+
+
+12 The government’s ability to retain custody over a person to render 
+him competent is not uncabined. Section 424] allows the Attorney Gen- 
+eral to retain custody of a defendant for treatment only for a “reasonable 
+period of time” during which there is “substantial probability” the person 
+“will attain the capacity to permit the trial to proceed.” 18 U.S.C. 
+AI) (A). Although petitioner objects (Br. 21, 28, 36 n.5, 40) to the 
+length of his confinement under Section 4241(d)(2)A) during which he has 
+not received treatment, petitioner has resisted all attempts to restore his 
+competency through medication, and petitioner does not contend that 
+there are alternative effective forms of treatment. 
+
+
+49 
+
+
+would not be competent to stand trial. As the district court 
+explained, La] showing that he is unable to assist properly in 
+his defense would result in a continued finding that defen- 
+dant is not competent to stand trial.” J. A. 351. 
+
+Petitioner also argues that antipsychotic medication could 
+render his appearance “drugged and listless” (Br. 44), “ner- 
+vous and anxious or rigid and remorseless” (Br. 45), or 
+“stiffl]” (Br. 46). As the magistrate judge explained, how- 
+ever, “Dr. Wolfson intends to use atypical anti-psychotic 
+drugs with a low side effect profile when medicating [peti- 
+tioner.] Dr. Wolfson also intends to avoid sedating [peti- 
+tioner], because his purpose is to allow him to participate 
+meaningfully in his trial.” J.A. 334-335; see also J.A. 234 
+(“Obviously, our goal is to get patients back so they can 
+defend their cases, and having them sleeping in the court- 
+room is not the desirable goal, so I tend to choose medi- 
+cations that do that less.). 
+
+Furthermore, the district court can examine all of peti- 
+tioner’s fair trial claims after petitioner is treated. Until that 
+time, petitioner’s hypotheses about the effects from medica- 
+tion on his demeanor and cognitive abilities are premature. 
+Indeed, the district court in this case “noted its willingness 
+to re-examine [petitioner's] Sixth Amendment claim after 
+the medication regimen has begun.” J.A. 376; see also J.A. 
+352 (“In its capacity as the trial court in this case, the Court 
+here states that if medication is administered and the 
+defense presents argument and evidence concerning its 
+adverse effect on [petitioner] to defend himself, the Court 
+will give the issue careful consideration.”). In short, At he 
+evidence offered, that the drugs should not interfere with 
+(petitioner’s) right to a fair trial, as well as post-medication 
+procedures that ensure he will not be tried unfairly, are suf- 
+ficient to protect” petitioner’s right to a fair trial. J.A. 376. 
+
+Petitioner’s intent to present a diminished capacity 
+defense (Br. 13-14, 43-44) also does not justify the conclusion 
+
+
+50 
+
+
+that he cannot be involuntarily medicated in order to restore 
+his competency. Petitioner does not argue that he can con- 
+stitutionally be tried in his unmedicated delusional state, see 
+p. 42, supra, and on this record, medication is the sole means 
+reasonably likely to render petitioner able to stand trial on 
+the fraud (and attempted murder charges) in the foreseeable 
+future. Petitioner also does not dispute that there is other 
+extensive evidence of his history of mental illness, and there 
+is no basis for presuming at this time that the medication will 
+prejudice petitioner in testifying about his prior delusional 
+beliefs. In those circumstances, petitioner has no 
+constitutional right to refuse the administration of medically 
+appropriate antipsychotic medication necessary to obtain an 
+adjudication of the pending charges. 
+CONCLUSION 
+The judgment of the court of appeals should be affirmed. 
+
+
+Respectfully submitted. 
+
+THEODORE B. OLSON 
+Solicitor General 
+
+MICHAEL CHERTOFF 
+Assistant Attorney General 
+
+MICHAEL R. DREEBEN 
+Deputy Solicitor General 
+
+Lisa SCHIAVO BLATT 
+
+
+JANUARY 2003 
+
+
+1. The First Amendment to the United States Constitu- 
+tion provides in relevant part: 
+Congress shall make no law * * * abridging the 
+freedom of speech. 0 
+
+
+2. The Fifth Amendment to the United States Constitu- 
+tion provides in relevant part: 
+
+No person shall de deprived of life, liberty, or 
+property, without due process of law. 
+
+3. The Sixth Amendment to the United States Constitu- 
+tion provides in relevant part: 
+
+In all criminal prosecutions, the accused shall enjoy 
+the right to a speedy and public trial, by an impartial 
+jury * * *, and to have the Assistance of Counsel for his 
+defence. 
+
+
+4. Section 4241, of Title 18, U.S.C. provides: 
+
+
+§ 4241. Determination of mental competency to stand 
+trial 
+
+
+(a) MOTION TO DETERMINE COMPETENCY OF 
+DEFENDANT.—At any time after the commencement of a 
+prosecution for an offense and prior to the sentencing of the 
+defendant, the defendant or the attorney for the Gov- 
+ernment may file a motion for a hearing to determine the 
+mental competency of the defendant. The court shall grant 
+the motion, or shall order such a hearing on its own motion, if 
+there is reasonable cause to believe that the defendant may 
+presently be suffering from a mental disease or defect 
+rendering him mentally incompetent to the extent that he is 
+unable to understand the nature and consequences of the 
+
+
+proceedings against him or to assist properly in his defense. 
+
+
+2a 
+
+
+(b) PSYCHIATRIC OR PSYCHOLOGICAL EXAMI- 
+NATION AND REPORT.—Prior to the date of the hearing, 
+the court may order that a psychiatric or psychological 
+examination of the defendant be conducted, and that a 
+psychiatric or psychological report be filed with the court, 
+pursuant to the provisions of section 4247 (b) and (c). 
+
+
+(e) HEARING.—The hearing shall be conducted pur- 
+suant to the provisions of section 4247(d). 
+
+
+(d) DETERMINATION AND DISPOSITION.—If, 
+after the hearing, the court finds by a preponderance of the 
+evidence that the defendant is presently suffering from a 
+mental disease or defect rendering him mentally incom- 
+petent to the extent that he is unable to understand the 
+nature and consequences of the proceedings against him or 
+to assist properly in his defense, the court shall commit the 
+defendant to the custody of the Attorney General. The 
+Attorney General shal] hospitalize the defendant for treat- 
+ment in a suitable facility— 
+
+(1) for such a reasonable period of time, not to 
+exceed four months, as is necessary to determine whether 
+there is a substantial probability that in the foreseeable 
+future he will attain the capacity to permit the trial to 
+proceed; and 
+
+(2) for an additional reasonable period of time 
+until— 
+
+(A) his mental condition is so improved that trial 
+may proceed, if the court finds that there is a sub- 
+stantial probability that within such additional period 
+of time he will attain the capacity to permit the trial to 
+proceed; or 
+
+(B) the pending charges against him are disposed 
+of according to law; 
+
+
+whichever is earlier. 
+If, at the end of the time period specified, it is determined 
+that the defendant’s mental condition has not so improved as 
+to permit the trial to proceed, the defendant is subject to the 
+provisions of section 4246. 
+
+(e) DISCHARGE.—When the director of the facility in 
+which a defendant is hospitalized pursuant to subsection (d) 
+determines that the defendant has recovered to such an ex- 
+tent that he is able to understand the nature and conse- 
+quences of the proceedings against him and to assist 
+properly in his defense, he shall promptly file a certificate to 
+that effect with the clerk of the court that ordered the 
+commitment. The clerk shall send a copy of the certificate to 
+the defendant’s counsel and to the attorney for the Gov- 
+ernment. The court shall hold a hearing, conducted pursuant 
+to the provisions of section 4247(d), to determine the com- 
+petency of the defendant. If, after the hearing, the court 
+finds by a preponderance of the evidence that the defendant 
+has recovered to such an extent that he is able to understand 
+the nature and consequences of the proceedings against him 
+and to assist properly in his defense, the court shall order his 
+immediate discharge from the facility in which he is 
+hospitalized and shal] set the date for trial. Upon discharge, 
+the defendant is subject to the provisions of chapter 207. 
+
+
+() ADMISSIBILITY OF FINDING OF COMPE- 
+TENCY.—A finding by the court that the defendant is 
+mentally competent to stand trial shall not prejudice the de- 
+fendant in raising the issue of his insanity as a defense to the 
+offense charged, and shall not be admissible as evidence in a 
+trial for the offense charged. 
+
+
+4a 
+
+
+5. Section 4246 of Title 18, U.S. C., provides: 
+
+
+§ 4246. Hospitalization of a person due for release 
+but suffering from mental disease or defect 
+
+
+(a) INSTITUTION OF PROCEEDING.—If the 
+director of a facility in which a person is hospitalized certifies 
+that a person in the custody of the Bureau of Prisons whose 
+sentence is about to expire, or who has been committed to 
+the custody of the Attorney General pursuant to section 
+4241(d), or against whom all criminal charges have been 
+dismissed solely for reasons related to the mental condition 
+of the person, is presently suffering from a mental disease or 
+defect as a result of which his release would create a 
+substantial risk of bodily injury to another person or serious 
+damage to property of another, and that suitable arrange- 
+ments for State custody and care of the person are not 
+available, he shall transmit the certificate to the clerk of the 
+court for the district in which the person is confined. The 
+clerk shall send a copy of the certificate to the person, and to 
+the attorney for the Government, and, if the person was 
+committed pursuant to section 4241(d), to the clerk of the 
+court that ordered the commitment. The court shall order a 
+hearing to determine whether the person is presently 
+suffering from a mental disease or defect as a result of which 
+his release would create a substantial risk of bodily injury to 
+another person or serious damage to property of another. A 
+certificate filed under this subsection shall stay the release of 
+the person pending completion of procedures contained in 
+this section. 
+
+
+(b) PSYCHIATRIC OR PSYCHOLOGICAL EXAMI- 
+NATION AND REPORT.—Prior to the date of the hearing, 
+the court may order that a psychiatric or psychological 
+examination of the defendant be conducted, and that a 
+psychiatric or psychological report be filed with the court, 
+pursuant to the provisions of section 4247(b) and (c). 
+
+
+5a 
+
+
+(e) HEARING.—The hearing shall be conducted pursuant 
+to the provisions of section 4247(d). 
+
+
+(d) DETERMINATION AND DISPOSITION.—If, 
+after the hearing, the court finds by clear and convincing evi- 
+dence that the person is presently suffering from a mental 
+disease or defect as a result of which his release would create 
+a substantial risk of bodily injury to another person or 
+serious damage to property of another, the court shall 
+commit the person to the custody of the Attorney General. 
+The Attorney General shal] release the person to the 
+appropriate official of the State in which the person is 
+domiciled or was tried if such State will assume responsibil- 
+ity for his custody, care, and treatment. The Attorney 
+Genera! shall make all reasonable efforts to cause such a 
+State to assume such responsibility. If, notwithstanding 
+such efforts, neither such State will assume such responsi- 
+bility, the Attorney General shall hospitalize the person for 
+treatment in a suitable facility, until— 
+
+
+(1) such a State will assume such responsibility; or 
+
+
+(2) the person’s mental condition is such that his 
+release, or his conditional release under a prescribed regi- 
+men of medical, psychiatric, or psychological care or 
+treatment would not create a substantial risk of bodily 
+injury to another person or serious damage to property of 
+another; : 
+
+whichever is earlier. The Attorney General shall continue 
+periodically to exert all reasonable efforts to cause such a 
+State to assume such responsibility for the person’s custody, 
+care, and treatment. 
+
+
+(e) DISCHARGE.—When the director of the facility in 
+
+
+which a person is hospitalized pursuant to subsection (d) 
+determines that the person has recovered from his mental 
+disease or defect to such an extent that his release would no 
+
+
+6a 
+
+
+longer create a substantial risk of bodily injury to another 
+person or serious damage to property of another, he shall 
+promptly file a certificate to that effect with the clerk of the 
+court that ordered the commitment. The clerk shall send a 
+copy of the certificate to the person’s counsel and to the 
+attorney for the Government. The court shall order the dis- 
+charge of the person or, on the motion of the attorney for the 
+Government or on its own motion, shall hold a hearing, 
+conducted pursuant to the provisions of section 4247(d), to 
+determine whether he should be released. If, after the 
+hearing, the court finds by a preponderance of the evidence 
+that the person has recovered from his mental disease or 
+defect to such an extent that- 
+
+
+(1) his release would no longer create a sub- 
+stantial risk of bodily injury to another person or serious 
+damage to property of another, the court shall order that 
+he be immediately discharged; or 
+
+(2) his conditional release under a prescribed 
+regimen of medical, psychiatric, or psychological care or 
+treatment would no longer create a substantial risk of 
+bodily injury to another person or serious damage to 
+property of another, the court shall 
+
+
+(A) order that he be conditionally dis- 
+charged under a prescribed regimen of medical, 
+psychiatric, or psychological care or treatment that 
+has been prepared for him, that has been certified 
+to the court as appropriate by the director of the 
+facility in which he is committed, and that has been 
+found by the court to be appropriate; and 
+
+
+(B) order, as an explicit condition of release, 
+that he comply with the prescribed regimen of 
+medical, psychiatric, or psychological care or 
+treatment. 
+
+
+7a 
+
+
+The court at any time may, after a hearing employing the 
+same criteria, modify or eliminate the regimen of medical, 
+psychiatric, or psychological care or treatment. 
+
+
+(f) REVOCATION OF CONDITIONAL DIS- 
+CHARGE.—The director of a medical facility responsible for 
+administering a regimen imposed on a person conditionally 
+discharged under subsection (e) shall notify the Attorney 
+General and the court having jurisdiction over the person of 
+any failure of the person to comply with the regimen. Upon 
+such notice, or upon other probable cause to believe that the 
+person has failed to comply with the prescribed regimen of 
+medical, psychiatric, or psychological care or treatment, the 
+person may be arrested, and, upon arrest, shall be taken 
+without unnecessary delay before the court having 
+jurisdiction over him. The court shall, after a hearing, 
+determine whether the person should be remanded to a 
+suitable facility on the ground that, in light of his failure to 
+comply with the prescribed regimen of medical, psychiatric, 
+or psychological care or treatment, his continued release 
+would create a substantial risk of bodily injury to another 
+person or serious damage to property of another. 
+
+
+(g) RELEASE TO STATE OF CERTAIN OTHER 
+PERSONS.—If the director of a facility in which a person is 
+hospitalized pursuant to this chapter certifies to the Attor- 
+ney General that a person, against whom all charges have 
+been dismissed for reasons not related to the mental 
+condition of the person, is presently suffering from a mental 
+disease or defect as a result of which his release would create 
+a substantial risk of bodily injury to another person or 
+serious damage to property of another, the Attorney General 
+shall release the person to the appropriate official of the 
+State in which the verson is domiciled or was tried for the 
+purpose of institution of State proceedings for civil com- 
+mitment. If neither such State will assume such responsibil- 
+
+
+8a 
+
+
+ity, the Attorney General shall release the person upon 
+receipt of notice from the State that it will not assume such 
+responsibility, but not later than ten days after certification 
+by the director of the facility. 
+
+
+(h) DEFINITION.—As used in this chapter the term 
+“State” includes the District of Columbia. 
+
+
+6. Section 4247 of Title 18, U.S.C., provides: 
+§ 4247. General provisions for chapter 
+(a) DEFINITIONS.—As used in this chapter— 
+(1) “rehabilitation program” includes— 
+
+
+(A) basic educational training that will assist 
+the individual in understanding the society to which 
+he will return and that will assist him in under- 
+standing the magnitude of his offense and its impact 
+on society; 
+
+(B) vocational training that will assist the Adivi- 
+dual in contributing to, and in participating in, the 
+society to which he will return; 
+
+(C) drug, alcohol, and other treatment programs 
+that will assist the individual in overcoming his psy- 
+chological or physical dependence; and 
+
+(D) organized physical sports and recreation pro- 
+grams, 
+
+(2) “suitable facility” means a facility that is suitable 
+
+
+to provide care or treatment given the nature of the 
+offense and the characteristics of the defendant; and 
+
+
+(3) “State” includes the District of Columbia. 
+
+
+(b) PSYCHIATRIC OR PSYCHOLOGICAL EXAMI- 
+NATION.—A psychiatric or psychological examination 
+ordered pursuant to this chapter shall be conducted by a 
+
+
+9a 
+
+
+licensed or certified psychiatrist or psychologist, or, if the 
+court finds it appropriate, by more than one such examiner. 
+Each examiner shall be designated by the court, except that 
+if the examination is ordered under section 4245 or 4246, 
+upon the request of the defendant an additional examiner 
+may be selected by the defendant. For the purposes of an 
+examination pursuant to an order under section 4241, 4244, 
+or 4245, the court may commit the person to be examined for 
+a reasonable period, but not to exceed thirty days, and under 
+section 4242, 4243, or 4246, for a reasonable period, but not to 
+exceed forty-five days, to the custody of the Attorney Gen- 
+eral for placement in a suitable facility. Unless impractica- 
+ble, the psychiatric or psychological examination shall be 
+conducted in the suitable facility closest to the court. The 
+director of the facility may apply for a reasonable extension, 
+but not to exceed fifteen days under section 4241, 4244, or 
+4245, and not to exceed thirty days under section 4242, 4243, 
+or 4246, upon a showing of good cause that the additional 
+time is necessary to observe and evaluate the defendant. 
+
+
+(e) PSYCHIATRIC OR PSYCHOLOGICAL RE- 
+PORTS.—A psychiatric or psychological report ordered 
+pursuant to this chapter shall be prepared by the examiner 
+designated to conduct the psychiatric or psychological 
+examination, shall be filed with the court with copies 
+provided to the counsel for the person examined and to the 
+attorney for the Government, and shall include— 
+
+
+(1) the person’s history and present symptoms; 
+
+
+(2) a description of the psychiatric, psychological, and 
+medical tests that were employed and their results; 
+
+
+(3) the examiner’s findings; and 
+
+
+(4) the examiner’s opinions as to diagnosis, pro- 
+gnosis, and— 
+
+
+10a 
+
+
+(A) if the examination is ordered under section 
+4241, whether the person is suffering from a mental 
+disease or defect rendering him mentally incompetent 
+to the extent that he is unable to understand the 
+nature and consequences of the proceedings against 
+him or to assist properly in his defense; 
+
+
+(B) if the examination is ordered under section 
+4242, whether the person was insane at the time of the 
+
+
+offense charged; 
+
+
+(C) if the examination is ordered under section 
+4243 or 4246, whether the person is suffering from a 
+mental disease or defect as a result of which his 
+release would create a substantial risk of bodily injury 
+to another person or serious damage to property of 
+another; 
+
+
+(D) if the examination is ordered under section 
+4244 or 4245, whether the person is suffering from a 
+mental disease or defect as a result of which he is in 
+need of custody for care or treatment in a suitable 
+facility; or 
+
+
+(E) if the examination is ordered as a part of a 
+presentence investigation, any recommendation the 
+examiner may have as to how the mental condition of 
+the defendant should affect the sentence. 
+
+
+(d) HEARING.—At a hearing ordered pursuant to this 
+chapter the person whose mental condition is the subject of 
+the hearing shall be represented by counsel and, if he is 
+financially unable to obtain adequate representation, counsel 
+shall be appointed for him pursuant to section 3006A. The 
+person shall be afforded an opportunity to testify, to present 
+evidence, to subpoena witnesses on his behalf, and to 
+confront and cross-examine witnesses who appear at the 
+hearing. 
+
+
+lla 
+
+
+(e) PERIODIC REPORT AND INFORMATION 
+REQUIREMENTS. —(1) The director of the facility in 
+which a person is hospitalized pursuant to— 
+
+
+(A) section 4241 shall prepare semiannual reports; or 
+
+
+(B) section 4243, 4244, 4245, or 4246 shall prepare an- 
+nual reports concerning the mental condition of the person 
+and containing recommendations concerning the need for 
+his continued hospitalization. The reports shall be sub- 
+mitted to the court that ordered the person’s commitment 
+to the facility and copies of the reports shall be submitted 
+to such other persons as the court may direct. A copy of 
+each such report concerning a person hospitalized after the 
+beginning of a prosecution of that person for violation of 
+section 871, 879, or 1751 of this title shall be submitted to 
+the Director of the United States Secret Service. Except 
+with the prior approval of the court, the Secret Service 
+shall not use or disclose the information in these copies for 
+any purpose other than carrying out protective duties 
+under section 3056(a) of this title. 
+
+
+(2) The director of the facility in which a person is hospi- 
+talized pursuant to section 4241, 4243, 4244, 4245, or 4246 
+shall inform such person of any rehabilitation programs that 
+are available for persons hospitalized in that facility. 
+
+
+(f) VIDEOTAPE RECORD.—Upon written request of 
+defense counsel, the court may order a videotape record 
+made of the defendant’s testimony or interview upon which 
+the periodic report is based pursuant to subsection (e). Such 
+videotape record shall be submitted to the court along with 
+the periodic report. 
+
+(g) HABEAS CORPUS UNIMPAIRED.—Nothing contained 
+in section 4243 or 4246 precludes a person who is committed 
+under either of such sections from establishing by writ of 
+habeas corpus the illegality of his detention. 
+
+
+e ñ 
+
+
+12a 
+
+
+(h) DISCHARGE.—Regardless of whether the director 
+of the facility in which a person is hospitalized has filed a 
+certificate pursuant to the provisions of subsection (e) of 
+section 4241, 4244, 4245, or 4246, or subsection (f) of section 
+4243, counsel for the person or his legal guardian may, at any 
+time during such person’s hospitalization, file with the court 
+that ordered the commitment a motion for a hearing to 
+determine whether the person should be discharged from 
+such facility, but no such motion may be filed within one 
+hundred and eighty days of a court determination that the 
+person should continue to be hospitalized. A copy of the 
+motion shall be sent to the director of the facility in which 
+the person is hospitalized and to the attorney for the 
+Government. 
+
+
+(i) © AUTHORITY AND RESPONSIBILITY OF THE 
+ATTORNEY GENERAL.—The Attorney General- 
+
+
+(A) may contract with a State, a political subdivision, 
+a locality, or a private agency for the confinement, hospi- 
+talization, care, or treatment of, or the provision of ser- 
+vices to, a person committed to his custody pursuant to 
+this chapter; 
+
+
+(B) may apply for the civil commitment, pursuant to 
+State law, of a person committed to his custody pursuant 
+to section 4243 or 4246; 
+
+
+(C) shall, before placing a person in a facility 
+pursuant to the provisions of section 4241, 4243, 4244, 4245, 
+or 4246, consider the suitability of the facility’s rehabilita- 
+tion programs in meeting the needs of the person; and 
+
+
+(D) shall consult with the Secretary of the Depart- 
+ment of Health and Human Services in the general 
+implementation of the provisions of this chapter and in the 
+establishment of standards for facilities used in the 
+implementation of this chapter. 
+
+
+13a 
+
+
+(j) Sections 4241, 4242, 4243, and 4244 do not apply to a 
+prosecution under an Act of Congress applicable exclusively 
+to the District of Columbia or the Uniform Code of Military 
+Justice. 
+
+
+7. Section 549.43 of Title 28 of the C. F. R. provides: 
+
+
+§ 549.43 Involuntary psychiatric treatment and 
+medication. 
+
+
+Title 18 U.S.C. 4241-4247 and federal court decisions 
+require that certain procedures be followed prior to the 
+involuntary administration of psychiatric treatment and 
+medication to persons in the custody of the Attorney 
+General. Court commitment for hospitalization provides the 
+judicial due process hearing, and no further judicial authori- 
+zation is needed for the admission decision. However, in 
+order to administer treatment or psychotropic medication on 
+an involuntary basis, further administrative due process 
+procedures, as specified in this section, must be provided to 
+the inmate. Except as provided for in paragraph (b) of this 
+section, the procedures outlined herein must be followed 
+after a person is committed for hospitalization and prior to 
+administering involuntary treatment, including medication. 
+
+(a) Procedures: When an inmate will not or cannot pro- 
+vide voluntary written informed consent for psychotropic 
+medication, the inmate will be scheduled for an admini- 
+strative hearing. Absent an emergency situation, the inmate 
+will not be medicated prior to the hearing. In regard to the 
+hearing, the inmate will be given the following procedural 
+safeguards: 
+
+(1) Staff shall provide 24-hour advance written notice 
+of the date, time, place, and purpose of the hearing, 
+including the reasons for the medication proposal. 
+
+
+l4a 
+
+
+(2) Staff shall inform the inmate of the right to 
+appear at the hearing, to present evidence, to have a 
+staff representative, to request witnesses, and to request 
+that witnesses be questioned by the staff representative 
+or by the person conducting the hearing. If the inmate 
+does not request a staff representative, or requests a 
+staff representative with insufficient experience or 
+education, the institution mental health division adminis- 
+trator shall appoint a staff representative. Witnesses 
+should be called if they have information relevant to the 
+inmate’s mental condition and/or need for medication, 
+and if they are reasonably available. Witnesses who only 
+have repetitive information need not be called. 
+
+
+(3) The hearing is to be conducted by a psychiatrist 
+
+
+who is not currently involved in the diagnosis or treat- 
+
+
+ment of the inmate. 
+
+
+(4) The treating/evaluating psychiatrist/clinician 
+must be present at the hearing and must present clinical 
+data and background information relative to the need for 
+medication. Members of the treating/evaluating team 
+may also attend the hearing. 
+
+
+(5) The psychiatrist conducting the hearing shall 
+determine whether treatment or psychotropic medica- 
+tion is necessary in order to attempt to make the inmate 
+competent for trial or is necessary because the inmate is 
+dangerous to self or others, is gravely disabled, or is 
+unable to function in the open population of a mental 
+health referral center or a regular prison. The 
+psychiatrist shall prepare a written report regarding the 
+decision. 
+
+(6) The inmate shall be given a copy of the report and 
+shall be advised that he or she may submit an appeal to 
+the institution mental health division administrator 
+
+
+15a 
+
+
+regarding the decision within 24 hours of the decision 
+and that the administrator shall review the decision 
+within 24 hours of the inmate’s appeal. The admini- 
+strator shall ensure that the inmate received all neces- 
+sary procedural protections and that the justification for 
+involuntary treatment or medication is appropriate. 
+Upon request of the inmate, the staff representative 
+shall assist the inmate in preparing and submitting the 
+appeal. 
+
+(7) If the inmate appeals, absent a psychiatric 
+emergency, medication will not be administered before 
+the administrator's decision. The inmate’s appeal, which 
+may be handwritten, must be filed within 24 hours of the 
+inmate’s receipt of the decision. 
+
+(8) A psychiatrist, other than the attending psy- 
+chiatrist, shall provide follow-up monitoring of the 
+patient’s treatment or medication at least once every 30 
+days after the hearing. The follow-up shall be docu- 
+mented in the medical record. 
+
+
+(b) Emergencies: For purpose of this subpart, a 
+psychiatric emergency is defined as one in which a person is 
+suffering from a mental illness which creates an immediate 
+threat of bodily harm to self or others, serious destruction of 
+property, or extreme deterioration of functioning secondary 
+to psychiatric illness. During a psychiatric emergency, 
+psychotropic medication may be administered when the 
+medication constitutes an appropriate treatment for the 
+mental illness and less restrictive alternatives (e.g., seclusion 
+or physical] restraint) are not available or indicated, or would 
+not be effective. 
+
+
+(e) Exceptions: Title 18 United States Code, sections 
+
+
+4241 through 4247 do not apply to military prisoners, un- 
+sentenced Immigration and Naturalization Service (INS) 
+
+
+16a 
+
+
+detainees, unsentenced prisoners in Bureau custody as a 
+result of a court order (e.g. a civil contemnor), state or 
+territorial prisoners, and District of Columbia Code offend- 
+ers. For those persons not covered by sections 4241-4247, 
+the decision to involuntarily admit the person to the hospital 
+must be made at an administrative hearing meeting the 
+requirements of Vitek v. Jones. The decision to provide 
+involuntary treatment, including medication, shall nonethe- 
+less be made at an administrative hearing in compliance with 
+§ 549.43. 
+
+
