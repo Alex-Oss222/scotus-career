@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Election Law
 
@@ -2616,3 +2616,311 @@ For the June 20, 2002 holding in No. 01-721 rejecting the stated nonparty-preclu
 **Limits and questions not reached:** Severability requires its proper record. The separate reliance or prior-restraint contention and unpresented discrimination claim are outside review. No replacement dollar amount, blanket invalidation, retrospective liability or mandatory new evidence collection follows.
 
 **Operative remedy or transition:** Vacate and remand, 9–0. The already-established preventive interest is not reopened; the receiving court must justify actual ceilings and give appropriate relief for any that the State cannot sustain, using adequate existing proof where sufficient.
+
+
+### Legislative population deviations and independent racial-injury proof
+
+#### Montiel v. Davis
+
+**Docket or dockets:** District Court No. 01-0447-BH-S; judgment below, 215 F. Supp. 2d 1279; no Supreme Court docket supplied.
+**Decided:** January 13, 2003.
+
+##### Whether sub-ten-percent legislative deviations or nonexclusive discriminatory purpose foreclose a challenge
+
+**Holding:** A state legislative maximum population deviation below ten percent does not alone establish a prima facie violation, but remains challengeable through proof of arbitrary or discriminatory weighting. Where the governing claim turns on discriminatory purpose, that purpose need only be a substantial or motivating factor; once that predicate is proved, the government must prove by a preponderance that materially the same decision would have occurred without it.
+
+**Proposition-level authority:** Stone-Zsela's Part I, unanimous.
+
+**Material application:** The Senate’s 9.78% and House’s 9.93% figures are plan-wide maximum deviations, combining the greatest above- and below-ideal departures. County splits, demographics and more equal alternatives did not establish unlawful weighting on this record. The incorrect exclusive-purpose formulation required no remand because an independent deficiency persisted under the correct rule and no excluded material proof was identified.
+
+**Limits and questions not reached:** Political explanations have no categorical immunity. The holding does not require mathematical equality or create a sub-ten-percent safe harbor.
+
+**Treatment of earlier authority:** Voinovich, Reynolds and Brown supply substantial equality and the initial proof burden. Arlington Heights, Mt. Healthy, Brooks and Page preserve motivating-factor purpose and the government’s same-decision burden.
+
+##### Whether territorial racial design alone establishes an independent equal-protection deprivation
+
+**Independent alternative holding:** Racial consideration or predominance in drawing a shared territorial district does not alone establish an equal-protection deprivation. An independently asserted exclusion, intentional impairment of electoral opportunity, material restriction on participation, or inferior civic status must satisfy its own elements; voters of every race receive the same protection.
+
+**Proposition-level authority for alternative holding:** Stone-Zsela's Part II, joined by Stevens, Souter, Ginsburg and Breyer; five direct votes for an independently sufficient constitutional ground.
+
+**Limits and questions not reached:** Intentional dilution requires discriminatory purpose, actual material impairment and causation. Participation injury requires a real political impediment, but need not await a second act or electoral defeat. Race-party correlation may be evidence; a partisan label neither establishes nor excuses racial injury. No constitutional injury prerequisite is added to Section 2.
+
+**Treatment of earlier authority:** Shaw, Johnson v. Miller, Easley and Robertson preserve the boundary between shared territorial design and independently established exclusion, participation, opportunity or status injury; voters of every race receive the same protection.
+
+##### Whether population and alternative-map evidence independently establish statutory dilution
+
+**Holding:** A §2 district-dilution claim requires the relevant cohesion and opposing-bloc causal showing and unequal electoral opportunity under the statute; racial population figures and the availability of another map do not establish those requirements by themselves. The statutory claim here fails on its independent evidentiary deficiency, regardless of the disposition of the constitutional design theory.
+
+**Proposition-level authority:** Stone-Zsela's Part III, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven votes. Scalia and Thomas support only the statutory judgment on noncoverage.
+
+**Limits and questions not reached:** The numerical-majority and dependable-crossover capacity routes remain available for a lawful compact district, but no new capacity ruling is needed because independent cohesion, opposing-bloc causation and opportunity proof fails. Preclearance does not adjudicate the independent claims.
+
+**Operative remedy or transition:** Affirm the legislative judgment unanimously within the plaintiffs’ own electoral exposure; deny invalidation and replacement. Severed congressional and education-board proceedings are unaffected.
+
+**Treatment of earlier authority:** Gingles, Voinovich and De Grandy require independent causal and opportunity proof without maximization. Valdespino’s two capacity routes remain intact. Balderas preserves a genuinely independent sufficient lawful ground despite immaterial error elsewhere.
+
+### Section 5 effective electoral opportunity and diffuse influence
+
+#### Georgia v. Ashcroft, 539 U.S. 461
+
+**Docket or dockets:** No. 02-182.
+**Decided:** June 26, 2003.
+
+For Georgia’s enforcement-power holding, June 26, 2003, No. 02-182, see Constitutional Structure — Preventive enforcement of voting nonretrogression; for its live controversy and intervention, see Federal Courts: Justiciability — Continued legal demand for an original preclearance plan, and Federal Courts — Private-voter intervention in judicial preclearance.
+
+##### Whether diffuse political influence compensates for lost dependable electoral choice
+
+**Holding:** A covered jurisdiction must prove by a preponderance that its voting change does not worsen protected voters' effective electoral opportunity relative to the lawful operative benchmark. Reliable crossover and coalition support can preserve that opportunity without a fixed demographic threshold, but predicted influence, sympathetic officeholders, committee positions, or hoped-for policy gains cannot compensate for a demonstrated loss of practical ability to elect preferred representatives; a statewide increase in nominal districts does not itself establish preservation.
+
+**Proposition-level authority:** Stone-Zsela's Part II: Stone-Zsela, Stevens, Souter, Ginsburg and Breyer adopt the full rule and application. All nine separately join the lawful benchmark, ordinary burden and rejection of conclusive numerical shortcuts.
+
+**Material application:** The 1997 plan supplies the lawful benchmark. A change may replace one opportunity with multiple genuine coalition opportunities if evidence establishes preserved or strengthened effective choice. Georgia’s nominal majorities, statewide crossover estimate and supportive legislators did not establish preserved local capacity or commensurate actual gains; ordinary factual review supports its failure of proof.
+
+**Limits and questions not reached:** No fixed demographic or statistical threshold, guaranteed victory, racial maximization or frozen boundaries is required. Legislative approval is evidence but cannot waive voters’ protection. Effects failure requires no new purpose finding; the independent Bossier unconstitutional-purpose bar remains intact.
+
+**Operative remedy or transition:** Affirm denial of original-Senate preclearance, 5–4. The revised Senate, House and congressional clearances remain undisturbed; no replacement map or percentage is prescribed.
+
+**Treatment of earlier authority:** Beer protects the effective franchise comparatively. Both Bossier decisions retain the benchmark, applicant burden, distinct Section 2 inquiry and independent broader-purpose rule. Valdespino and Balderas inform dependable-opportunity proof without importing Section 2 elements. De Grandy rejects maximization and conclusive arithmetic.
+
+### Corrected Section 2 totality and review of supported findings
+
+#### Old Person v. Brown
+
+**Docket or dockets:** Ninth Circuit No. 02-35171; judgment below, 312 F.3d 1036.
+**Decided:** June 26, 2003.
+
+For Old Person’s personal-exposure and approaching-redistricting limits, June 26, 2003, Ninth Circuit No. 02-35171, see Federal Courts: Justiciability — Geographic evidence and actual replacement in districting disputes.
+
+##### Whether correcting legal errors requires replacing a permissible totality finding
+
+**Holding:** Established Gingles prerequisites do not alone prove a §2 violation; the full circumstances must show unequal opportunity to participate and elect preferred candidates, with proportionality and election results treated as contextual evidence. An appellate court must correct legal error but sustain a permissible factual totality finding under clear-error review; it may not replace supported findings with its own preferred weighing.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven votes. Scalia and Thomas affirm only on statutory noncoverage.
+
+**Material application:** The residence-only proportionality calculation was erroneous; broader disproportionality, discrimination, polarization, socioeconomic barriers and racial appeals favor plaintiffs. The complete findings also show preferred representation in both relevant House districts and one Senate district, non-tenuous policies and no other discriminatory devices. Those existing findings permit non-dilution under the corrected rule without new appellate facts.
+
+**Limits and questions not reached:** An unusually easy general election cannot alone establish durable opportunity; weak opposition also does not erase a victory when meaningful nomination competition occurred. Evaluate the actual sequence. Electoral success neither negates established Gingles prerequisites nor supplies a safe harbor; no factor count, fixed election threshold or universal geographic denominator is adopted.
+
+**Operative remedy or transition:** Affirm denial of the four plaintiffs’ Section 2 declaratory and injunctive relief without remand, 9–0; seven Justices adopt corrected totality rather than noncoverage.
+
+**Treatment of earlier authority:** Gingles separates prerequisites from totality and respects special circumstances. De Grandy rejects conclusive proportionality, success and maximization. Anderson v. Bessemer City preserves permissible factual findings under correct law. Valdespino’s capacity routes remain intact but are not reopened. Balderas preserves independent sufficient grounds without authorizing invented findings.
+
+### Georgia congressional petitions and cumulative access allegations
+
+#### Cartwright v. Barnes, 304 F.3d 1138
+
+**Docket or dockets:** No Supreme Court docket supplied; judgment below, 304 F.3d 1138.
+**Decided:** February 25, 2003.
+
+For the separate Article I classification in Cartwright, February 25, 2003, judgment below 304 F.3d 1138 (no Supreme Court docket supplied), see Constitutional Structure — Cartwright v. Barnes.
+
+##### Whether the pleaded cumulative burdens distinguish Georgia’s petition system from Jenness
+
+**Holding:** Under Anderson–Burdick, courts weigh the character and magnitude of the actual burden against the State's precise interests and the need for its restrictions; severe burdens require narrow tailoring to compelling interests, while reasonable nondiscriminatory burdens ordinarily may be justified by important regulatory interests. Accepting the complaint's facts, this six-month, broad-signer, sheet-affidavit petition system and its alleged district-identification, surplus-signature and qualification-history burdens do not materially distinguish Jenness sufficiently to state the asserted constitutional access claim.
+
+**Proposition-level authority:** Thomas's Part II, joined by O'Connor, Scalia, Kennedy, and Breyer; five direct votes control this application.
+
+**Material application:** The requirement is five percent of registered voters eligible to vote in the preceding election in the relevant electorate. The Court accepts the pleaded absence of Libertarian congressional qualification since 1943, district-identification problems after reapportionment, surplus-signature needs and affidavit burdens. The six-month circulation period, multiple-petition signing and primary participation remain significant; notarization concerns the circulator’s sheet, not each signature.
+
+**Limits and questions not reached:** The decision creates no universal five-percent safe harbor, does not independently adjudicate the statewide one-percent rule and does not replace calibrated burden review with rational-basis review. Materially different or severe burdens retain their appropriate scrutiny.
+
+**Operative remedy or transition:** Affirm Rule 12(b)(6) dismissal of the access claim, 5–4, leaving the challenged congressional petition requirements operative.
+
+**Treatment of earlier authority:**
+
+- Jenness v. Fortson, 403 U.S. 431, is applied to the materially comparable complete Georgia petition system rather than treated as approval of a percentage in isolation.
+- Anderson v. Celebrezze, 460 U.S. 780, Burdick v. Takushi, 504 U.S. 428, and Timmons v. Twin Cities Area New Party (April 28, 1997) retain the calibrated burden, precise-interest and fit framework; this decision applies it without replacing it with rational-basis review.
+
+### Preclearance and judicial congressional redistricting
+
+#### Branch v. Smith, 538 U.S. 254
+
+**Docket or dockets:** No. 01-1437; consolidated with Smith v. Branch, No. 01-1596.
+**Decided:** 2003-03-31.
+
+For the vacatur of the Article I alternative and independent prematurity holding in Branch, decided March 31, 2003, Nos. 01-1437 and 01-1596, see Federal Courts: Justiciability.
+
+##### Whether necessary-information requests prevented preclearance at the map deadline
+
+**Holding:** A covered congressional plan cannot be implemented without §5 preclearance merely because a state court adopted it. A nonfrivolous, warranted request for omitted necessary information prevents the original submission from completing the statutory review period; the period begins upon receipt of the required response, including a permitted statement that requested information is unavailable.
+
+**Proposition-level authority:** Stevens's unanimous opinion of the Court, Part I.
+
+**Material application:** The December 21, 2001 adoption preceded the December 26 submission of the map and Mauldin order. DOJ's warranted February 14 request, answered February 19 and 20, prevented a completed sixty-day review period by the February 25 deadline. State-court adoption, state-law authority and asserted nondiscrimination did not provide approval.
+
+**Limits and questions not reached:** The Court need not finally decide whether Mauldin itself was a covered voting change. The information rule concerns a warranted, nonfrivolous request for necessary omitted material, not automatic deference to unrelated demands.
+
+**Treatment of earlier authority:** Georgia v. United States, 411 U.S. 526 (1973), supplies the jurisdiction's information duty and effect of the request. Lopez v. Monterey County requires submission-specific approval; Young v. Fordice and Foreman v. Dallas County preserve the same approval boundary. McDaniel v. Sanchez distinguishes governmental policy adopted by a court from an independently authorized temporary judicial remedy.
+
+##### Whether private appeals continued administrative review of the abandoned adjudicative plan
+
+**Holding:** An adjudicative state plan does not acquire automatic administrative preclearance merely through the passage of sixty days after the State ceases seeking to administer it. Here the State’s failure to appeal or continue seeking implementation after the injunction ended the running review period; private intervenors’ appeals did not constitute State action continuing that process.
+
+**Proposition-level authority:** Stevens's Part II is directly joined by all eight Associate Justices; Stone-Zsela agrees in rejection of the later-period contention without joining its rationale.
+
+**Limits and questions not reached:** The rule concerns the State's discontinued pursuit of this adjudicative plan, rather than a legislative enactment remaining independently in force. Private appellants may challenge an injunction without thereby continuing the State's administrative submission.
+
+##### Whether a feasible judicial single-member map displaces an at-large demand
+
+**Holding:** Section 2c’s single-member requirement governs courts supplying a lawful congressional redistricting remedy as well as legislative districting. When a lawful single-member map can be implemented after legislative inaction, §2a(c) does not require an at-large election in its place; the available four-district federal plan therefore remains operative.
+
+**Proposition-level authority:** Stevens's Part IV is joined by Stone-Zsela, Scalia, Kennedy, Souter, Ginsburg and Breyer; seven direct votes.
+
+**Operative remedy or transition:** The federal four-district map remains operative under independent lawful remedial authority, constitutional and Voting Rights Act compliance, no greater displacement of state policy than necessary, and temporary duration until a lawful precleared replacement is available. Submission alone does not replace the map; actual legal availability and preserved independent objections require review.
+
+**Treatment of earlier authority:** Lopez supplies each limitation on necessary temporary judicial relief. McDaniel prevents a court-order label from implementing uncleared governmental policy. Montiel v. Davis preserves distinct constitutional and statutory inquiries and supplies no map-specific approval or congressional-map merits finding.
+
+##### The remaining authority of §2a(c) after the single-member command
+
+**Independently majority-supported proposition:** Section 2c did not wholly repeal §2a(c) by implication.
+
+**Proposition-level authority:** Scalia's retained-fallback concurrence, joined by Kennedy and Ginsburg, and O'Connor's partial dissent, joined by Thomas, expressly adopt this same negative proposition. Their five direct votes establish it across writings, without Marks aggregation.
+
+**Current force:** Controlling at the stated nonrepeal level. Neither proposed account of the older provision's full operation commands a majority: three reserve it for unavoidable imminent-election inability to complete lawful redistricting; two apply it until the State completes its prescribed districting process, including preclearance. The seven-Justice feasible-map holding governs the remedy here.
+
+**Limits and questions not reached:** The rival triggers cannot be combined into a controlling fallback exception. The three-Justice wholesale-repeal theory also remains noncontrolling.
+
+### District residence of candidate-petition witnesses
+
+#### Lerman v. Board of Elections in the City of New York, reviewing 232 F.3d 135
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 27, 2003.
+
+##### Excluding otherwise qualified in-state petition witnesses by electoral-district residence
+
+**Holding:** New York's exclusion of an otherwise qualified in-state petition witness solely for living outside the candidate's district violates the First and Fourteenth Amendments. Under Anderson–Burdick, plaintiffs establish the burden's character and magnitude; this direct speaker exclusion is severe and requires narrow tailoring to a compelling state interest, which the asserted accountability, fraud, local-support and administrative reasons fail to show.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Thomas agrees with invalidation and relief under traditional strict scrutiny but does not join the graduated method.
+
+**Material application:** Fifty-eight signatures were rejected solely for Lerman's residence in a neighboring district, although thirty-eight were required. District signers establish local support; the witness's location does not perform that function. Statewide subpoenas and supplied addresses provide accountability, and the notary/commissioner exception further weakens the claimed need for this exclusion. Availability of other speakers does not cure the excluded speaker's own activity.
+
+**Limits and questions not reached:** The holding concerns the severable district-residence condition for otherwise qualified in-state witnesses, not unchallenged qualifications. No independent ruling on the alternative Molinari-stipulation or preclusion theory is necessary. The continuing-controversy ground and decree are recorded under Federal Courts: Justiciability and Federal Courts: Immunities and Remedies, Lerman, decided May 27, 2003, no separate Supreme Court docket supplied.
+
+**Treatment of earlier authority:** Meyer protects petition circulation's political conversation. Buckley v. American Constitutional Law Foundation is extended to this geographic speaker exclusion. Anderson and Burdick supply the burden-and-justification method. Cartwright's local-support requirements concern signers rather than the residence of a witnessing advocate.
+
+### Geographic and enrollment limits on candidate-petition advocates
+
+#### Krislov v. Rednour, reviewing 226 F.3d 851
+
+**Docket or dockets:** Seventh Circuit No. 99-3801 below; no separate Supreme Court docket supplied.
+**Decided:** June 2, 2003.
+
+##### Illinois and district boundaries as exclusions from candidate-petition advocacy
+
+**Holding:** Illinois cannot exclude otherwise qualified and accountable candidate-petition advocates because they live outside Illinois for a Senate nomination, or outside the seventh congressional district for a House nomination, including residents of other States. Anderson–Burdick requires examination of the actual injury, precise asserted interests and their need for the restriction: severe burdens demand compelling interests and narrow tailoring, while reasonable nondiscriminatory burdens ordinarily admit important regulatory justifications; the geographic exclusions are severe and fail that inquiry.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Part II, supported at this scope by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer. Thomas agrees with both geographic judgments through traditional strict scrutiny, producing unanimous invalidations without a ninth join to the graduated method.
+
+**Material application:** Qualified signers show electoral support and voters select nominees; circulators communicate and solicit that support. Residence does not establish boundary knowledge or valid-signature ability, while certifications and challenges address those tasks. Alternative speakers or eventual ballot qualification do not repair the excluded association. The interstate result rests on independent examination of Illinois's actual local-support, integrity, signature and outside-influence grounds, not an assumption that Lerman's statewide process reaches every nonresident. Neither process-consent nor demonstrated nonresident-fraud grounds were advanced, and enforcement difficulty cannot be inferred solely from geography.
+
+**Treatment of earlier authority:** Meyer and Buckley protect petition conversation and the speaker pool. Anderson and Burdick supply graduated scrutiny. Lerman governs candidate circulation and the in-state district screen and is extended to statewide and interstate exclusion through an independent fit inquiry. Cartwright's valid electoral-support requirements do not justify excluding the messenger.
+
+##### Voter enrollment of otherwise eligible resident candidate-petition circulators
+
+**Holding:** Illinois also cannot exclude otherwise qualified, accountable advocates solely for nonregistration, including residents already eligible to register within the represented electorate. Applying the same graduated method, the substantial restriction on chosen advocates lacks justification in the asserted nomination, local-support and signature-verification interests; protection covers eligible unregistered Illinois residents for Senate petitions and eligible unregistered seventh-district residents for House petitions.
+
+**Proposition-level authority:** Stevens's opinion of the Court, Part III, supported at this scope by Stone-Zsela, Stevens, Scalia, Kennedy, Souter and Ginsburg. Thomas supplies a seventh judgment vote through strict scrutiny; O'Connor and Breyer oppose this resident-enrollment invalidation. The six-Justice holding does not adopt a separate categorical characterization of the enrollment burden as severe.
+
+**Material application:** Ready access to registration distinguishes residents from people required to relocate but does not establish why voter status is necessary to solicit or attest signatures. Eligible signers establish support, and retained certification, challenge and fraud mechanisms address reliability. The resident application fails on its own merits rather than because remedial uniformity requires equal treatment with outsiders.
+
+**Treatment of earlier authority:** Buckley's initiative-circulator exclusion rule is extended to candidate-petition enrollment, and Lerman preserves the expressive character of that candidate setting. The operative class injunction is recorded in Federal Courts: Immunities and Remedies, Krislov, Seventh Circuit No. 99-3801 below, decided June 2, 2003; the threshold holding appears in Federal Courts: Justiciability.
+
+### County form and access to general initiative powers
+
+#### Save Palisade FruitLands v. Todd, judgment below 279 F.3d 1204
+
+**Docket or dockets:** Tenth Circuit No. 00-1423; no Supreme Court docket is established.
+**Decided:** June 2, 2003.
+
+##### Whether Colorado must provide general initiatives in statutory as well as home-rule counties
+
+**Holding:** The Constitution does not entitle every lawful county form to a general initiative process. Where the institutional distinction employs no suspect classification and burdens no independently protected fundamental right, it survives equal protection if rationally related to a legitimate purpose; Colorado may link general initiative authority to the greater legislative autonomy of home-rule counties.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** The challengers bear the ordinary burden of negating a reasonably conceivable legitimate basis. Statutory counties' specific initiative powers over sales and use taxes and public improvement districts do not create the requested general land-use initiative. An isolated earlier Logan County vote before clarification of state law does not establish continuing selective administration. Available home-rule procedures support the institutional explanation rather than cure an otherwise established federal injury.
+
+**Limits and questions not reached:** The ruling concerns absence of the general mechanism, not restrictions on expression or unequal access within an existing process. Particular statutory initiative grants remain intact. A claim against contraction of previously granted initiative authority was not raised and is not decided.
+
+**Operative remedy or transition:** Affirm summary judgment and the county's certification refusal; the requested federal order placing the land-use proposal on the ballot is denied.
+
+**Treatment of earlier authority:** Beach Communications and Nordlinger supply ordinary rational review, without a new empirical-study or optimal-design requirement. Meyer, Buckley and Lerman protect actual petition expression and access within existing procedures, distinct from creation of a lawmaking institution. Mixon's genuine-institutional-design holding applies by analogy; its separate existing-election and racial-opportunity holding retains its own predicate.
+
+
+
+### Advocacy corporations and direct candidate contributions
+
+#### Federal Election Commission v. Beaumont, 539 U.S. 146
+
+**Docket or dockets:** No. 02-403.
+**Decided:** June 16, 2003.
+
+##### Application of the corporate direct-contribution ban to NCRL
+
+**Holding:** A restriction on an advocacy corporation's direct candidate contributions must serve an objectively grounded important corruption or circumvention interest and be closely fitted to that interest while preserving meaningful voluntary association. The government meets that burden for NCRL's treasury contributions through the cumulative combination of direct candidate control over contributed resources, the treasury's actual receipt of business-corporation funds, the preventive source-channel interest, an operating voluntary fund that has contributed to federal candidates, and permitted organizational support for that fund.
+
+**Proposition-level authority:** Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg: six Justices.
+
+**Limits and questions not reached:** Incorporation, advocacy viewpoint, or nominal availability of a segregated account alone is insufficient. A materially different source or channel record must be tested under the same government burden. The statutory fund remains voluntary: compelled dues, coercive collections, and commercial-transaction receipts cannot finance its contributions. The independent-expenditure judgment is outside review and remains intact.
+
+**Operative remedy or transition:** Reverse the as-applied direct-contribution exemption and remove the corresponding declaration and injunction; ordinary enforcement retains its procedures and defenses.
+
+**Treatment of earlier authority:** Buckley separates candidate-controlled contributions from independent advocacy; MCFL supplies no direct-contribution exemption. Stengel rejects categorical ideological-nonprofit immunity. Russell, Shrink Missouri, Mariani and Lamb require objective grounds and actual close fit; Day protects genuine voluntary pooling. National Right to Work Committee supplies the regulated voluntary-fund structure and protection of economic payers.
+
+### California districting and independent participation injury
+
+#### Cano v. Davis
+
+**Docket or dockets:** No. 02-577.
+**Decided:** June 26, 2003.
+
+##### Racial district design and a separately impaired constitutional right
+
+**Holding:** Race-conscious or race-predominant drawing of a common territorial electorate, including subordination of ordinary districting criteria, does not alone establish an equal-protection violation. Exclusion, intentional dilution, materially unequal participation, inferior civic membership or another independently established constitutional injury remains actionable under its own elements; the injury may be complete in the challenged act without a further governmental act or a changed election winner.
+
+**Proposition-level authority:** Part I of Stone-Zsela's opinion, joined by Stevens, Souter, Ginsburg and Breyer; five direct rationale votes.
+
+**Material application:** The CD28 and CD51 design claims identified allegedly racial boundaries and changes in a common electorate, but no independently denied right. Favorable inferences about racial purpose do not cure that deficiency.
+
+**Operative remedy or transition:** Summary judgment against both design-only claims is affirmed, 5–4.
+
+**Treatment of earlier authority:** Shaw, Johnson v. Miller, Bush v. Vera and Easley retain the distinction between territorial design and independent injury, including when race predominates. Robertson applies that distinction at summary judgment to asserted incumbent advantage from common-electorate composition.
+
+##### Intentional participation injury, purpose and causation
+
+**Holding:** Intentional dilution or unequal-participation claims require an actual impairment of the interest protected by the claim and a causal connection to the challenged action; racial purpose alone supplies neither. Material interference with organization, nomination, candidacy, voting or other protected participation need not take the form of regular electoral defeat; where prohibited purpose substantially motivates an otherwise cognizable injury, defendants must show that materially the same lawful action would have occurred without that purpose.
+
+**Proposition-level authority:** Part II.A of Stone-Zsela's opinion is unanimous. Souter's Part II.B applies the rule to CD28 with all eight Associate Justices joining; Stone-Zsela dissents from that application. Stone-Zsela's Part II.C applies it to CD51 unanimously.
+
+**Material application:** The claims identified expected electoral prospects and constituency changes, without evidence of a distinct material restriction on actual political participation. The CD28 primary allegation did not identify the required operative restriction; CD51's conceded internal opportunity and excluded voters' preference for inclusion there likewise failed. These rulings do not rest on absence of racial purpose or satisfaction of the same-enactment defense.
+
+**Limits and questions not reached:** The third Gingles condition is not a universal constitutional injury requirement. The expressly unasserted influence-district theory and a standalone First Amendment claim are outside the appeal.
+
+**Operative remedy or transition:** The CD28 independent constitutional judgment is affirmed 8–1 and the CD51 judgment 9–0; relief is denied on those claims.
+
+**Treatment of earlier authority:** White v. Regester preserves practical political access beyond nominal eligibility. Brooks and Mt. Healthy retain separate injury, purpose and causation inquiries and defendants' same-enactment burden. Arlington Heights supplies contextual purpose proof. Montiel permits nonexclusive prohibited purpose while keeping constitutional and statutory claims distinct. Robertson forecloses treating expected common-electorate support itself as a separate civic right.
+
+##### Failure of local opposing-bloc proof defeats the Section 2 results claims
+
+**Holding:** Section 2 district-dilution liability requires capacity, political cohesion, opposing bloc voting ordinarily sufficient to defeat the group's preferred candidates in the relevant electoral setting, and unequal opportunity under an independent totality inquiry, with special circumstances such as an unopposed minority candidate accounted for. An admissible record incapable of supporting the necessary opposing-bloc showing warrants summary judgment even when capacity and cohesion remain triable; a results claimant need not prove discriminatory purpose.
+
+**Proposition-level authority:** Part III.A of Stone-Zsela's opinion, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. The seven directly join the rationale; Scalia and Thomas join the statutory judgment on another ground.
+
+**Material application:** The isolated polarized 1998 CD28 primary, considered with substantial contrary local electoral evidence, did not establish ordinary defeat by the relevant bloc. Statewide studies covering too broad an area and proposed Latino voting-age percentages did not fill the local evidentiary gap. Capacity and cohesion were triable, so their possible satisfaction could not defeat this independent ground.
+
+**Limits and questions not reached:** The holding concerns the results claims actually presented. A different participation-only or separately preserved intentional Section 2 cause is not adjudicated. General-election success does not automatically answer a supported nomination-stage barrier.
+
+**Operative remedy or transition:** Denial of statutory relief for CD28 and SD27 is affirmed unanimously, with seven votes for this ground.
+
+**Treatment of earlier authority:** Gingles supplies the distinct voting predicates and special-circumstances qualification. De Grandy preserves independent totality, rejects maximization and permits no conclusive geographic offset. Brooks requires examination of the actual nomination or election process.
+
+##### Crossover capacity does not displace an independent failure of statutory proof
+
+**Holding:** One protected group may establish electoral capacity through a lawful, geographically compact numerical-majority district or rigorous evidence of dependable crossover support sufficient to elect its preferred candidates; speculation, isolated success, near-majority arithmetic and influence alone are insufficient. That capacity route leaves cohesion, opposing bloc voting, causation, special circumstances and independent totality intact, and an erroneous numerical screen warrants remand only if it affects the judgment.
+
+**Proposition-level authority:** Part III.B of Stone-Zsela's opinion, joined by Stevens, Souter, Ginsburg and Breyer; five direct rationale votes. O'Connor and Kennedy join only Part III.A's independently dispositive statutory ground.
+
+**Material application:** The District Court treated capacity as triable and relied on deficient opposing-bloc proof. The crossover route therefore provides no basis to disturb the judgment.
+
+**Treatment of earlier authority:** Valdespino's dependable-crossover route remains available. Balderas preserves genuinely independent lawful grounds and requires a material numerical-screen error before remand.

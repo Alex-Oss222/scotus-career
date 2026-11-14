@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Labor and Employment
 
@@ -2496,6 +2496,10 @@ The cases return through the Fourth Circuit to the Authority for reconsideration
 
 **Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
 
+**Current-force modification:** Kentucky Association of Health Plans, Inc. v. Miller, decided April 2, 2003, replaces UNUM's nonconjunctive insurance-guidepost method with two necessary conditions: the law must target entities engaged in insurance in their insurance activity and substantially affect the insurer–insured risk-pooling arrangement. A material change in coverage, access conditions or the provider network may satisfy the second condition without proof of a separate new actuarial risk transfer. UNUM's saved notice-prejudice result, federal benefits-enforcement boundary and distinct agency ruling remain intact; the former guidepost reservation no longer states the governing method. Kennedy's Parts I-V state the replacement method with the eight Associate Justices joining; Stone-Zsela joins only Part VI's preserved deemer and enforcement boundaries.
+
+**Later-authority backlinks:** Kentucky Association of Health Plans, Inc. v. Miller, No. 00-1471, April 2, 2003: the two necessary insurance-saving conditions replace UNUM's method while preserving its substantive coverage result; see Labor and Employment.
+
 ##### Mandatory administrative agency cannot rest on a no-relation premise
 
 **Holding:** A state rule assigning the employer an insurer-agency role because it performs benefit-plan administration directly connects with that administration under ERISA §514(a); the Ninth Circuit's contrary no-relation premise and contingent instruction cannot stand. The categorical administrative reassignment may not be used here, but the decision does not preempt every ordinary agency principle or resolve a properly presented voluntary or fact-specific agency undertaking.
@@ -2503,6 +2507,8 @@ The cases return through the Fourth Circuit to the Authority for reconsideration
 **Proposition-level authority:** Ginsburg's unanimous opinion of the Court.
 
 **Limits and questions not reached:** The insurance considerations are guideposts, not three indispensable conjunctive elements; independent risk transfer is not decided. Self-funded plans, deemer-clause protection and other timing rules remain open. The agency holding supplies no general federal agency code or automatic ineffectiveness of employer notice; Ward did not press insurance saving for that distinct agency theory.
+
+For the present force of the insurance-guidepost reservation above, see the Current-force modification under 'Notice-prejudice is saved insurance regulation' in this entry; the separate agency holding is unchanged.
 
 **Operative remedy or transition:** Affirm the notice-prejudice ruling and reversal of insurer summary judgment; UNUM must prove actual prejudice. Reverse the no-relation agency premise and reconsider any material properly presented actual-agency theory under the corrected rule and policy's written-authorization provision. No benefits or actual-agency finding follows.
 
@@ -3177,9 +3183,13 @@ For the June 20, 2002 holding in No. 00-1021 on enforcement of the saved medical
 
 **Proposition-level authority:** Ginsburg's signed opinion of the Court, adopted in full by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, controls with six votes.
 
+**Current-force modification:** Kentucky Association of Health Plans, Inc. v. Miller, decided April 2, 2003, replaces Rush Prudential's nonconjunctive insurance-guidepost method with the necessary insurance-activity direction and substantial risk-pooling-effect conditions. A material alteration of coverage, access or the provider network can supply the required effect without a separate new actuarial transfer. Rush's saved medical-necessity condition for the risk-bearing HMO and insured coverage remains controlling, as do its deemer-clause and federal-enforcement boundaries; Miller separately resolves the administrative-only-HMO objection at its own stated scope. Kennedy's Parts I-V state the replacement method with the eight Associate Justices joining; Stone-Zsela joins only Part VI's preserved deemer and enforcement boundaries.
+
 **Limits and questions not reached:** This holding concerns an HMO that bears its members' medical-cost risk and the insured coverage before the Court. It leaves the deemer clause's protection of self-funded plans intact and does not decide whether independent review separately transfers risk.
 
 **Treatment of earlier authority:** Metropolitan Life Insurance Co. v. Massachusetts: applied to substantive insurance-contract regulation. UNUM Life Insurance Co. of America v. Ward: extended from notice-prejudice to this limited medical-necessity term, preserving its nonconjunctive guideposts and separate conflict inquiry.
+
+**Later-authority backlinks:** Kentucky Association of Health Plans, Inc. v. Miller, No. 00-1471, April 2, 2003: replacement of Rush Prudential's saving-clause method and separate treatment of administrative-only HMOs; see Labor and Employment.
 
 #### BE&K Construction Co. v. NLRB, 536 U.S. 516
 
@@ -3213,3 +3223,376 @@ For the June 20, 2002 holding in No. 00-1021 on enforcement of the saved medical
 **Proposition-level authority:** Part III of Justice O'Connor's Opinion of the Court; all nine Justices directly join this disposition and its limits.
 
 **Limits and questions not reached:** The general question of Board authority to award attorney's fees after a valid unfair-labor-practice finding is outside the question granted. The earlier lawsuit's adverse results and independent valid court sanctions remain undisturbed.
+
+
+### Coal Act eligibility after late initial assignment
+
+#### Barnhart v. Peabody Coal Co., 537 U.S. 149
+
+**Docket or dockets:** Nos. 01-705 and 01-715; consolidated Peabody, Bellaire and trustees' matters.
+**Decided:** 2003-01-15.
+
+##### What substantive and decisionmaking limits remain on late Coal Act assignments
+
+**Holding:** A late initial assignment remains lawful only if the Coal Act’s employment and covered-entity requirements are satisfied; direct asset succession alone does not authorize assignment, and the agency must substantiate contested statutory predicates before dependent premiums are imposed. Courts independently resolve preserved statutory objections and premium calculations, but must return a material factual assignment judgment entrusted initially to the Commissioner if it remains unperformed, unless the result is legally compelled.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices. Part II controls.
+
+**Limits and questions not reached:** The related-person categories remain the signatory's §52(a) controlled group, including the signatory; a §52(b) commonly controlled trade or business; and an interest in a coal-industry partnership or joint venture with a signatory employing eligible beneficiaries, excluding an interest held solely as a limited partner. The relationship is measured on July 20, 1992, or immediately before an earlier cessation of business. Under §9706(b)(2), an operator may transfer an eligible beneficiary's assignment to a successor arising after enactment; the successor becomes the assigned operator, the transferor and related persons remain benefit guarantors, and the operator must notify the Combined Fund trustees. No other successor class is added.
+
+**Operative remedy or transition:** Preserved substantive, notice, review and calculation objections remain for adjudication. The agency must establish contested employment and entity predicates; courts independently decide preserved legal objections and return an unperformed factual assignment judgment to the Commissioner unless law compels the result. A separate delay claim requires its own maintained basis.
+
+**Treatment of earlier authority:** Sigmon Coal preserves the enacted liability classes and direct-asset-successor limit; revenue policy adds no class. Ventura governs initially assigned agency factual judgments while preserving independent legal review and the legally compelled-result qualification. The deadline holding appears under Administrative Law, Barnhart v. Peabody Coal Co., Nos. 01-705 and 01-715, January 15, 2003.
+
+### Cancer fear and indivisible injury under railroad liability law
+
+#### Norfolk & Western Railway Co. v. Ayers, 538 U.S. 135
+
+**Docket or dockets:** No. 01-963.
+
+**Decided:** March 10, 2003.
+
+##### I. Genuine and serious present fear may accompany manifested disease
+
+**Holding:** An employee with actionable asbestosis caused in whole or in part by railroad negligence may recover for genuine and serious cancer fear as present pain and suffering associated with the physical disease, without proving probable future cancer or a separate physical manifestation of fear. Each claimant must prove the disease, actual compensable fear and its connection to the bodily injury or the negligent conduct causing it by a preponderance; diagnosis alone does not establish fear, and the recovery compensates present distress rather than unaccrued cancer or increased disease risk.
+
+**Proposition-level authority:** Part I of Ginsburg's opinion, joined by Stone-Zsela, Stevens, Scalia, Souter and Thomas: six direct joins.
+
+**Limits and questions not reached:** Present fear may arise from the negligent conduct producing the bodily disease without proof that asbestosis biologically progresses into cancer. Duplicate recovery remains impermissible. The record presents no preserved distinct genuine-and-serious instruction, significantly-impaired-life-and-work instruction or plaintiff-specific sufficiency challenge; the Court rejects the categorical probability and separate-manifestation demands without finding diagnosis alone sufficient.
+
+**Operative remedy or transition:** Affirmance of the cancer-fear damages component, 6–3, leaves the existing judgments intact; no damages retrial follows from the rejected categorical objections.
+
+**Treatment of earlier authority:** Urie recognizes occupational disease. Gottshall's independent emotional-injury boundary and Buckley's exclusion of symptomless future-risk contact are preserved and distinguished from manifested disease and associated present suffering.
+
+##### II. Several contributors do not divide an indivisible injury
+
+**Holding:** When railroad negligence contributes to an indivisible injury covered by FELA §51, the railroad is liable to the employee for that injury's damages without a deduction merely corresponding to other employers' shares of asbestos exposure. The employee must prove negligence and the required causal contribution by a preponderance; a party seeking divisibility-based allocation must identify a supported basis for separating the injury rather than exposure percentages alone.
+
+**Proposition-level authority:** Part II of Ginsburg's opinion, unanimous.
+
+**Limits and questions not reached:** Actual divisible injury may receive separate attribution. Section 53 permits adjustment for employee negligence, except that such diminution is forbidden when a contributing railroad violation of an employee-safety statute is established. Settlement credits remain distinct. Independently available contribution or indemnity may allocate responsibility, but this decision creates no general federal contribution action and such recourse does not itself reduce or delay the employee’s recovery.
+
+**Operative remedy or transition:** The allocation component is affirmed unanimously. The approximately $4.9 million in final judgments remains intact with existing smoking-related reductions and settlement credits; exposure durations alone do not divide the lung injuries.
+
+**Treatment of earlier authority:** Rogers supplies causal contribution without dispensing with negligence, compensable injury or indivisibility. Monessen supplies the common-law background subject to FELA's statutory directions.
+
+### Insurance saving after Kentucky Association of Health Plans
+
+#### Kentucky Association of Health Plans, Inc. v. Miller, 538 U.S. 329
+
+**Docket or dockets:** No. 00-1471.
+**Decided:** 2003-04-02.
+
+For Miller’s independent deemer and federal-enforcement boundaries, decided April 2, 2003, No. 00-1471, see Federal Courts: Immunities and Remedies.
+
+##### Two necessary conditions for ERISA’s insurance saving clause
+
+**Holding:** A state law regulates insurance within ERISA §514(b)(2)(A) when it is specifically directed toward entities engaged in insurance in their insurance activity and substantially affects the risk-pooling arrangement between insurer and insured. Both conditions are necessary; a material change in promised coverage, conditions of access or the participating-provider network can satisfy the second without a separately demonstrated new actuarial transfer of risk.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I–V, is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight direct votes. Stone-Zsela supports the judgment on his different insurance framework and joins only Part VI.
+
+**Limits and questions not reached:** A law affecting an insurer's ordinary expenses is not saved merely because its subject is an insurer. Consequences for providers do not defeat an insurer-directed network rule; independent federal exemptions and enforcement limitations remain distinct.
+
+**Treatment of earlier authority:** UNUM and Rush Prudential retain their substantive coverage results and compatible enforcement boundaries, but their former common-sense and nonconjunctive McCarran-Ferguson guidepost method is replaced effective April 2, 2003. Metropolitan Life supplies the substantive insurance-contract principle. Royal Drug and Pireno retain their own statutory force and no longer supply a further ERISA checklist.
+
+##### Kentucky’s geographically bounded willing-provider command
+
+**Holding:** Kentucky's requirement that a health insurer refrain from discriminating against a provider within the health benefit plan's geographic coverage area who is willing to meet the insurer's participation terms and conditions is saved insurance regulation. Section 304.17A-270 includes the Kentucky state Medicaid program and Medicaid partnerships within its stated command and retains those actual participation and geographic conditions.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I–V, is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight direct votes. Stone-Zsela supports the judgment on his different insurance framework and joins only Part VI.
+
+**Material application:** The insurer retains its offered participation terms and conditions but cannot exclude a qualifying provider in the stated coverage area. The requirement changes insured access under the network bargain; selective-contracting and cost consequences do not remove its saved character.
+
+**Treatment of earlier authority:** UNUM and Metropolitan Life are applied to the access condition under the new two-condition rule.
+
+##### Kentucky’s chiropractic coverage and participating-provider conditions
+
+**Holding:** When a health benefit plan includes chiropractic benefits, §304.17A-171(2)'s requirement that it permit a licensed chiropractor accepting the plan's terms, conditions, reimbursement rates and quality standards to serve as a participating primary chiropractic provider for covered persons is saved insurance regulation. The command is triggered by existing chiropractic coverage and operates on the plan's listed conditions.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I–V, is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight direct votes. Stone-Zsela supports the judgment on his different insurance framework and joins only Part VI.
+
+**Limits and questions not reached:** The provision does not require adding chiropractic benefits or accepting the provider's preferred reimbursement rate. Section 304.17A-270's geographic condition is not imported into §304.17A-171(2).
+
+**Treatment of earlier authority:** Rush Prudential's principle that access to covered treatment may regulate the insurance bargain is applied, without converting the condition into a new benefit or remedy.
+
+##### Nonexempt self-insurers and multiple-employer welfare arrangements under §304.17A-270
+
+**Holding:** Section 304.17A-005(23)'s inclusion, for §304.17A-270, of self-insurers and multiple-employer welfare arrangements not exempt from state regulation under ERISA does not defeat insurance direction. Such arrangements can conduct the relevant pooling activity; the statutory exclusion for federally exempt arrangements remains effective under the federal law governing the particular arrangement.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I–V, is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight direct votes. Stone-Zsela agrees in the judgment on this component without adding a ground and joins Part VI only.
+
+**Limits and questions not reached:** Actual federal law determines each arrangement's exemption; the definition does not authorize regulation of every self-funded employee plan. Stone-Zsela agrees in rejection of this categorical objection without adding a ground.
+
+**Treatment of earlier authority:** UNUM's insured-coverage holding and deemer boundary remain compatible with the actual distinction between exempt and nonexempt arrangements.
+
+##### Provider-network administration by an HMO serving self-insured plans
+
+**Holding:** The statutes retain their saved insurance character when applied to HMOs performing provider-network administration for self-insured plans, even if the HMO does not itself underwrite medical-cost risk. Regulating that separate actor's insurance activity does not itself deem its exempt plan customer an insurer; the plan's actual deemer protection continues to govern prohibited direct regulation.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Parts I–V, is joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer; eight direct votes. Stone-Zsela agrees in the judgment on this component without adding a ground and joins Part VI only.
+
+**Limits and questions not reached:** The separate administrator does not inherit every customer exemption, while an exempt plan cannot itself be deemed an insurer contrary to the deemer clause. No particular unproved plan status is decided. Stone-Zsela agrees in rejection of this categorical objection without adding a ground.
+
+**Operative remedy or transition:** The Sixth Circuit's rejection of the categorical preemption challenge is affirmed; Kentucky may enforce the distinct statutory commands under their own conditions and actual federal exemptions.
+
+**Treatment of earlier authority:** Rush Prudential concerned insured coverage supplied by a risk-bearing HMO; this holding newly resolves the administrative-only objection through the regulated actor's insurance activity and separate plan status.
+
+### Pregnancy harassment, employer attribution and transfer proof
+
+#### Gorski v. New Hampshire Department of Corrections, 290 F.3d 466 (judgment below)
+
+**Docket or dockets:** First Circuit No. 01-1995; no separate Supreme Court docket is supplied.
+**Decided:** May 27, 2003.
+
+##### Further adjudication applies the complete environment and attribution standards
+
+**Holding:** Gorski must establish by a preponderance discrimination because of pregnancy and conduct sufficiently severe or pervasive, in all the circumstances, to alter employment conditions and create an objectively hostile or abusive environment that she actually perceived as abusive. She must also establish an authorized employer-attribution route; under the actual-authority route, delegated supervisory power must materially aid creation or maintenance of the actionable environment.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous.
+
+**Material application:** Frequency, severity, physical threat or humiliation and work interference bear on the whole environment; none is indispensable. Psychological injury, treatment, diagnosis, lost productivity and economic loss are not additional liability requirements, while mere offense remains insufficient. Assignment, discipline, daily-duty or leave power can materially aid harassment; title and proximity alone cannot.
+
+**Limits and questions not reached:** Final hiring/firing authority, a fulfilled threat, completed personnel action and higher-management notice are not invariably required. Employer negligence has its own proof requirements; apparent authority requires an employer-attributable manifestation and reasonable reliance. Policy awareness and nonreporting alone establish no complete defense. Ellerth’s possible effective-protection/unreasonable-nonuse defense remains open, including elements, burden, relationship to tangible employment action and distinct relief limits, because its factual predicates are unproved here. A preserved constructive-discharge theory requires its separate resignation showing; remedies retain their factual and statutory conditions.
+
+**Treatment of earlier authority:** Harris supplies the objective-and-subjective severe-or-pervasive rule; Oncale keeps sex causation distinct. Faragher and Ellerth require actual delegated power materially aiding the environment and preserve separate attribution routes and the reserved defense. Fitzpatrick preserves the statutory remedy against covered state employers.
+
+##### The transfer evidence does not establish the asserted discriminatory denial
+
+**Holding:** The separate Rule 56 record supports judgment for the Department on the asserted completed discriminatory-transfer denial because it shows no application through the authorized process, no refusal by an authorized decisionmaker and no evidence that the supervisors procured a refusal or made application futile. A supported discriminatory barrier could excuse application; unsupported speculation about influence or futility does not create a genuine material dispute.
+
+**Proposition-level authority:** Thomas's opinion of the Court, unanimous.
+
+**Material application:** The receiving manager selected applicants, ordinarily by seniority. The supervisors’ application signatures did not establish decision authority, and no evidence connected their remarks to an actual refusal. Those remarks may still contribute to the separate harassment environment.
+
+**Operative remedy or transition:** Preserve summary judgment for the Department on the completed discriminatory-transfer denial while allowing the reinstated harassment claim to proceed.
+
+**Treatment of earlier authority:** Swierkiewicz preserves the distinction between pleading and Rule 56 proof. Harris and Oncale permit relevant environment evidence despite failure of a different employment theory.
+
+### Pregnancy-related impact of probationary attendance cutoffs
+
+#### Stout v. Baxter Healthcare Corp.
+
+**Docket or dockets:** Fifth Circuit No. 00-60542; judgment below, 282 F.3d 856. No Supreme Court docket is supplied.
+**Decided:** 2003-05-19.
+
+##### Whether uniform probationary attendance rules remain subject to pregnancy-related impact review
+
+**Holding:** Uniform administration of an attendance practice does not defeat a disparate-impact claim under Title VII concerning pregnancy, childbirth or related medical conditions. A plaintiff must identify the particular practice and prove by a preponderance that it causes disproportionate exclusion of a protected group; the employer then must prove by a preponderance that the practice is job related for the position and consistent with business necessity, and liability may also follow from a proved available less discriminatory alternative serving the employer's legitimate needs that the employer refuses to adopt.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, Part I, is directly joined by all nine Justices.
+
+**Limits and questions not reached:** The identified practice and comparative causal effect must be proved; pregnancy or medical hardship alone supplies no unconditional leave entitlement. A legitimate need for attendance does not establish business necessity for this precise three-day total cutoff during ninety days of probation.
+
+**Treatment of earlier authority:** Griggs distinguishes facial neutrality from justified discriminatory effects. Guerra treats the PDA comparison clause as equal-opportunity protection rather than an absolute-neutrality ceiling. Watson requires an identified practice and substantial causal comparison without a rigid mathematical format; enacted §703(k) supplies the current employer proof burden.
+
+##### Whether Stout’s medical and operational evidence defeats Baxter’s impact summary judgment
+
+**Holding:** Reliable medical and operational evidence may support a causal comparison without workplace statistics when a particular practice predictably excludes an independently defined protected group. Here the expert evidence that childbirth prevents work for at least two weeks, combined with the automatic three-day cutoff during probation and the supported individual related-condition injury, permits a reasonable inference sufficient to defeat Baxter's existing impact summary judgment.
+
+**Proposition-level authority:** Stone-Zsela's Parts II and IV are joined by Stevens, O'Connor, Souter, Ginsburg and Breyer; six direct votes.
+
+**Material application:** Employees undergoing childbirth during probation form an independently defined statutory group, not a group circularly defined by failing the cutoff. The evidence predicts essentially complete exclusion of that group, while unaffected probationers lack the same status-linked inevitable absence. Stout's own more-than-two-week early-labor and miscarriage absence is independently documented; the childbirth testimony is not generalized to every related condition.
+
+**Limits and questions not reached:** The comparative inference remains open to contrary proof concerning the relevant groups and actual operation. Stout's individual nexus, any class scope, certification and representative adequacy, liability defenses and relief retain their separate requirements; no liability judgment or class certification follows.
+
+**Operative remedy or transition:** Baxter's impact summary judgment alone is vacated and remanded. The same judgment cannot be restored merely because the rule was uniformly enforced or reliable evidence lacked workplace statistics. Apply causal impact, employer-proved job-relatedness and business necessity, and the refused-alternative route; a probation extension may be considered if supported as available and equally effective, not assumed established. Determine individual nexus, class predicates and relief through ordinary procedure.
+
+**Treatment of earlier authority:** Reeves supplies whole-record review and reasonable inferences for Stout on Baxter's motion, without credibility choices.
+
+##### Intentional-discrimination proof and Stout’s separate liability cross-motion
+
+**Holding:** Baxter's summary judgment on disparate treatment and the denial of Stout's liability cross-motion are affirmed. Each motion must be considered separately with reasonable inferences for its opponent: the record supplies no reasonable inference of intentional discrimination, and the impact evidence does not establish Stout's entitlement to a liability judgment on all required predicates and defenses.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, Part III, is directly joined by all nine Justices.
+
+**Material application:** The actual rule treated absence reasons alike, with no supported unequal enforcement, favored absentees or sham requirement. Early positive reviews and perfect attendance do not contradict the later absence-based explanation. Defeating the employer's impact motion does not establish every predicate or eliminate defenses on the claimant's own motion.
+
+**Operative remedy or transition:** Baxter's disparate-treatment summary judgment and denial of Stout's liability cross-motion are affirmed.
+
+**Treatment of earlier authority:** Reeves permits supported pretext inferences, not discrimination inferred solely from protected status. Swierkiewicz's fair-notice pleading rule leaves Rule 56's evidentiary requirement intact.
+
+### Same-sex harassment and contextual sex causation
+
+#### Rene v. MGM Grand Hotel, Inc.
+
+**Docket or dockets:** No separate Supreme Court docket supplied; judgment below, 305 F.3d 1061 (en banc).
+**Decided:** 2003-05-05.
+
+##### Same-sex harassment requires a supported inference of discrimination because of sex
+
+**Holding:** Title VII covers same-sex harassment when competent direct or circumstantial evidence establishes discrimination because of sex; sexual content, contact or severity alone does not conclusively establish that cause. A claimant's attribution of the abuse to hostility toward his sexual orientation is evidence, not a binding legal concession excluding his pleaded sex-harassment claim, and an actual opposite-sex coworker or proof of sexual desire is unnecessary.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** The sex claim was preserved in the charge and complaint. No independent cause for every orientation-based employment action is decided, and no exclusive proof checklist is imposed.
+
+**Treatment of earlier authority:** Oncale is applied without its sexual-content limit being diluted. Brown v. Polk County supplies the nonexclusive character of possible motives at its own statutory scope. Nabozny preserves separate sex and orientation analysis and favorable-inference discipline in its distinct equal-protection setting.
+
+##### Rene's combined evidence permits the required inference
+
+**Holding:** The combination of repeated targeted sexual touching, associated humiliation and treatment described as directed toward a woman permits a reasonable inference that Rene suffered discrimination because of sex. Because that inference arises from the whole preserved record, the employer is not entitled to summary judgment on the asserted absence of sex causation, although the evidence does not compel the inference.
+
+**Proposition-level authority:** Parts II–III of Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg; seven Justices.
+
+**Material application:** The alleged nearly daily two-year pattern combines repeated intimate touching, sexualized humiliation and a description of treatment as directed toward a woman. Rule 56 permits that sex-directed inference alongside the orientation explanation without resolving credibility.
+
+**Limits and questions not reached:** The Court rejects the circuit lead’s suggestion that severe unwelcome sexual touching necessarily proves sex causation. It applies the preserved claim rather than introducing a new appellate stereotyping theory.
+
+**Treatment of earlier authority:** Oncale supplies the controlling causal distinction and permits the contextual inference without a per se touching rule. Harris supplies contextual assessment while keeping cause distinct from environmental severity.
+
+##### Further proceedings apply the remaining environment, attribution and remedy requirements
+
+**Holding:** Rene must prove by a preponderance the conduct, prohibited cause, an objectively and subjectively hostile environment sufficiently severe or pervasive to alter employment conditions, and employer responsibility. Under the actual-authority route he must prove that delegated supervisory authority materially aided creation or maintenance of that environment; rank alone is insufficient, while negligence remains a distinct route and compensatory relief requires its own proved injury.
+
+**Proposition-level authority:** Parts II–III of Breyer's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg; seven Justices.
+
+**Limits and questions not reached:** Psychiatric injury, treatment and lost productivity are not additional liability elements. Actual-authority attribution does not invariably require higher-management notice, a completed employment action or tangible economic loss. Whether genuinely effective protection and unreasonable nonuse create a general complete defense remains reserved.
+
+**Operative remedy or transition:** Affirm the hostile-environment remand for ordinary adjudication of cause, environment, employer responsibility and relief. Compensatory injury must be proved separately; nominal and prospective relief retain their own conditions. The unappealed retaliatory-discharge dismissal remains effective.
+
+**Treatment of earlier authority:** Harris preserves the objective-and-subjective environment test without an injury floor. Oncale, Faragher and Ellerth supply the actual-authority/material-aid requirement and preserve the distinct negligence route and existing complete-defense reservation.
+
+### Working physician-shareholders and ADA workforce coverage
+
+#### Clackamas Gastroenterology Associates, P.C. v. Wells, 538 U.S. 440
+
+**Docket or dockets:** No. 01-1435.
+**Decided:** April 22, 2003.
+
+##### Working shareholder-directors are classified through the whole relationship
+
+**Holding:** A working shareholder-director is an ADA employee when the complete common-law relationship establishes service subject to the organization's control rather than genuine operation as a proprietor. Courts must weigh all material incidents; corporate form, ownership, title, an employment label, or any single control fact cannot alone establish or defeat employment.
+
+**Proposition-level authority:** Thomas's Parts I and II, directly joined by all nine Justices.
+
+**Material application:** Relevant service incidents include manner-and-means control, skill, tools and location, duration, assignment and schedule authority, payment, assistants, integration, benefits and taxes, alongside governance and actual financial arrangements. The six useful EEOC considerations concern hire/fire or work-rule power, supervision, reporting, organizational influence, expressed intent, and shared profits, losses and liabilities. These are nonexclusive assistance, not a score or mandatory checklist; the Court adopts their common-law reasoning independently.
+
+**Treatment of earlier authority:** Darden’s common-law inquiry applies to the ADA’s circular employee definition. Johnson & Higgins establishes that collective ownership can coexist with individual employment without transferring its particular classification to this record.
+
+##### Count qualifying relationships during the statutory period
+
+**Holding:** After identifying the genuine employment relationships needed to determine coverage, count each on every working day while it exists, whether or not the employee worked or was paid that day. The ADA requires at least fifteen qualifying relationships on each working day in each of at least twenty calendar weeks within the applicable current or preceding calendar year; two separately insufficient years cannot be combined, and the same fifteenth person need not supply every qualifying day if the required total continues.
+
+**Proposition-level authority:** Thomas's Parts I and II, directly joined by all nine Justices.
+
+**Material application:** The relevant years are 1996 and 1997. At least fourteen other employees overlapped with the four physicians for twenty-eight full weeks in 1996 and thirty-seven in 1997. One qualifying physician relationship of sufficient duration can supply the fifteenth employee; counting all four produces at least eighteen. Proper exclusion of all four defeats the twenty-week minimum in both years under the established aggregate premise, without assuming that exactly fourteen others worked each day.
+
+**Treatment of earlier authority:** Walters’s employment-relationship count extends to the ADA’s matching period language. Payroll records evidence duration but cannot establish employee status; a supported sufficient minimum avoids an unnecessary exact recount.
+
+##### Correct the categorical judgment and resolve material classification questions
+
+**Holding:** The categorical corporate-form judgment must be reversed and the case remanded for the physician classifications necessary to resolve coverage under Parts I-II and the established 1996-1997 numerical premises. Once sufficient genuine physician employment establishes the statutory minimum, further physician classification is unnecessary; proper exclusion of all four establishes the clinic's numerical defense, and the lower court must accordingly adjudicate the remaining action or enter judgment on coverage.
+
+**Proposition-level authority:** Thomas's Part III, fully joined by Stevens, O'Connor, Scalia, Kennedy and Souter; six rationale votes. Stone-Zsela supports remand but does not join permission to omit immaterial classifications. Ginsburg and Breyer would classify all four as employees and reject the numerical defense now.
+
+**Material application:** Contracts, salary and bonuses, premises, organizational standards, reporting and employment treatment elsewhere must be weighed against operational control, profit sharing and financial responsibility. The extent to which governance and asserted supervision constrain the physicians remains unresolved.
+
+**Operative remedy or transition:** Reverse the corporate-form judgment, 7–2, without restoring the district court’s categorical exclusion. Classify the relationships necessary for coverage; a sufficient qualifying minimum permits omission of remaining immaterial classifications, rather than requiring their omission. Continue or resolve the action according to coverage.
+
+**Treatment of earlier authority:** Johnson & Higgins’s conclusive application involved established individual controls absent from this record. Walters supports limiting classification and counting work once the statutory minimum is established.
+
+### Treating-physician evidence in ERISA disability review
+
+#### Black & Decker Disability Plan v. Nord, 538 U.S. 822
+
+**Docket or dockets:** No. 02-469.
+**Decided:** May 27, 2003.
+
+##### Weight and explanation owed to treating physicians in ERISA disability determinations
+
+**Holding:** ERISA imposes neither an automatic evidentiary preference for a treating physician nor a special heightened explanation burden triggered solely by crediting reliable contrary medical evidence. Administrators must still give the specific denial reasons and full and fair review required by §503 and may not arbitrarily disregard reliable claimant evidence, including treating-source evidence; review follows the plan's actual terms and Firestone's de novo default or, upon a lawful discretionary grant, abuse-of-discretion review with any actual conflict considered.
+
+**Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous.
+
+**Material application:** Treatment continuity, chronic pain, examination quality, functional findings and supported conflicts bear on actual reliability. Neither a treating affiliation nor consultant status resolves that assessment, and Social Security's distinct regulatory preference cannot supply an absent ERISA requirement.
+
+**Operative remedy or transition:** The appellate benefits judgment is vacated for ordinary review of the actual denial. The district court's earlier plan judgment is not automatically restored. The governing plan definition, delegation, record and claims rules must be applied, without substituting a later claims regulation; further administration or benefits relief depends on the resulting lawful review.
+
+**Treatment of earlier authority:** Firestone supplies the default standard, discretionary condition and conflict factor. Curtiss-Wright and Spink preserve sponsor-design authority without excusing unlawful administration. Rush Prudential's saved coverage condition and compatible federal enforcement do not create a universal treating-source preference. Kentucky Association's insurance-saving method addresses a different regulatory question.
+
+### Hostile-environment verdicts and constructive discharge
+
+#### Duncan v. General Motors Corp., reviewing 300 F.3d 928
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 27, 2003.
+
+##### Whole-record sufficiency of the sex-based hostile-environment verdict
+
+**Holding:** Rule 50 does not permit setting aside a hostile-environment verdict when the entire supported record allows a reasonable jury to find by a preponderance that sex-based abuse was objectively and subjectively severe or pervasive. Review must protect reasonable verdict-favorable inferences without weighing credibility, disregard movant-favorable evidence the jury could reject, and credit uncontradicted, unimpeached evidence the jury was required to accept.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Part I, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+**Material application:** Sexualized assignments, unwanted touches, public sex-directed humiliation and the final sexist typing demand permitted a cumulative workplace-abuse finding. Time between incidents, cessation of the original proposition and ordinary criticism also directed at men supported a competing inference but did not compel it.
+
+**Operative remedy or transition:** The adverse harassment sufficiency ruling is reversed. Independent grounds and the claim-specific relief required on remand are recorded in Federal Courts: Immunities and Remedies, Duncan, decided May 27, 2003, no separate Supreme Court docket supplied.
+
+**Treatment of earlier authority:** Harris supplies the contextual severe-or-pervasive standard without requiring psychological injury, a physical threat or lost productivity. Oncale retains the distinct because-of-sex condition. Reeves protects reasonable whole-record jury inferences while allowing legal sufficiency review. DeAngelis's different newsletter facts establish neither a minimum catalogue of acts nor immunity for intermittent conduct.
+
+##### Concrete corrective opportunities and objectively compelled resignation
+
+**Holding:** Constructive discharge requires conditions so objectively intolerable that a reasonable employee would feel forced to resign. Realistic corrective opportunities bear on compulsion but are not a categorical exhaustion rule: an employee need not endure danger, futile procedures or indefinite delay, and announcing an investigation alone creates no safe harbor; the concrete response, unfinished agreed account and offered alternative location together defeat a reasonable compulsion finding on this record.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Part II, supported at this scope by O'Connor, Scalia, Kennedy, Souter, Thomas and Breyer. Stone-Zsela, Stevens and Ginsburg dissent from affirmance of the discharge ruling.
+
+**Material application:** After the April complaint reached responsible management, the personnel director removed the planter and began an EEO inquiry. Duncan resigned before providing the written account she had agreed to supply, and the College offered another location. Those actual options, considered with the earlier complaints and renewed May demand, precluded the claimed objective compulsion.
+
+**Limits and questions not reached:** The Court settles the objective-compulsion issue presented, not every independent element of constructive discharge. The circuit's intent-or-foreseeability condition remains distinct; no universal new formulation of it is adopted.
+
+**Operative remedy or transition:** The judgment for GM on constructive-discharge sufficiency is affirmed. Its damages cannot be restored under a different label.
+
+**Treatment of earlier authority:** Harris and Oncale govern the underlying hostile environment and sex causation. Faragher and Ellerth distinguish injury already sustained from a later corrective response and preserve separate attribution and remedy inquiries; a supportable harassment verdict does not itself establish compelled resignation.
+
+##### Actual delegated supervisory authority as a basis for harassment attribution
+
+**Holding:** Under the actual-authority route, the plaintiff bears the preponderance burden of showing that delegated supervisory power materially aided the harassment. A job title or training relationship alone does not establish that connection; preserved negligence theories must separately satisfy their own requirements.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, Part III, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+**Material application:** The circuit had assumed GM's statutory-employer status and bypassed attribution. Those preserved issues remain for decision without revisiting the sufficiency ruling now settled.
+
+**Treatment of earlier authority:** Faragher and Ellerth require the demonstrated delegated-authority connection and reject knowledge of a policy or nonreporting alone as a complete defense. The independent-ground and compensation mandate is recorded in Federal Courts: Immunities and Remedies, Duncan, decided May 27, 2003, no separate Supreme Court docket supplied.
+
+### Motivating-factor instructions under the amended Title VII
+
+#### Desert Palace, Inc. v. Costa, 539 U.S. 90 — motivating-factor proof
+
+**Docket or dockets:** No. 02-679.
+**Decided:** June 9, 2003.
+
+##### Whether the 1991 Title VII provisions require direct evidence for a mixed-motive instruction
+
+**Holding:** For claims governed by 42 U.S.C. §2000e-2(m), the plaintiff must prove by a preponderance that race, color, religion, sex or national origin motivated the employment practice, even if other factors also did. A mixed-motive instruction requires evidence permitting a reasonable jury to find that fact; direct proof, circumstantial proof or their combination may suffice without a special direct-evidence gateway.
+
+**Proposition-level authority:** Opinion of the Court (Kennedy), unanimous.
+
+**Material application:** The statute's production-and-persuasion definition in §2000e(m) does not privilege a type of evidence. Ordinary sufficiency guards against weak inferences. The absence of direct evidence does not defeat Costa's instruction or warrant a new trial.
+
+**Limits and questions not reached:** Brown v. Polk County's direct-decisional threshold remains confined to the original statutory regime governing pre-1991 conduct.
+
+**Operative remedy or transition:** Affirm the en banc judgment against the direct-evidence objection. The distinct same-decision remedial rule is recorded in Federal Courts: Immunities and Remedies under Desert Palace, No. 02-679, June 9, 2003.
+
+**Treatment of earlier authority:** Hicks and Reeves preserve circumstantial proof while requiring sufficient evidence of discrimination. Brown and Price Waterhouse concern the former liability-and-burden regime; their threshold is not imported into the amended text.
+
+
+
+### Pension-bridging restrictions and interference purpose
+
+#### Eichorn v. AT&T Corp., 248 F.3d 131 — pension interference
+
+**Docket or dockets:** Third Circuit No. 99-5791.
+**Decided:** June 30, 2003.
+
+##### Combined circumstantial evidence permits an ERISA interference-purpose finding
+
+**Holding:** A claimant may establish the specific purpose to interfere with attainment of protected prospective plan rights under ERISA §510 through circumstantial proof. The restriction on return for 245 days, beyond the six-month pension-bridging period, together with communications about that consequence and direct pension savings, creates a triable purpose issue on the Pre-Closing and Post-Closing claims against AT&T and Lucent.
+
+**Proposition-level authority:** Part III of Souter's opinion, unanimous.
+
+**Limits and questions not reached:** Awareness, incidental savings or benefit loss alone does not establish specific purpose. Protected participant status and right, prohibited action, purpose, causation and an authorized remedy remain necessary, with each element subject to the civil preponderance burden. The legitimate continuity explanation is a competing inference that cannot be selected through credibility weighing at summary judgment.
+
+**Operative remedy or transition:** Reinstatement of the two specified claims is affirmed. The Preliminary Net remains excluded because it did not prevent benefit receipt while the employees remained at Lucent; the reinstated §510 defendants are AT&T and Lucent. No liability or benefit award follows merely from reinstatement.
+
+**Treatment of earlier authority:** Inter-Modal protects prospective attainment while preserving all statutory elements. Hazen Paper distinguishes pension from age motivation without insulating deliberate pension interference.
+
+For Eichorn's class-discovery and certification holding, June 30, 2003, No. 99-5791 below, see Federal Courts; for its separate §502 remedial limits, see Federal Courts: Immunities and Remedies.

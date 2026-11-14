@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Bankruptcy
 
@@ -900,3 +900,87 @@ For the other questions in McClellan Federal Credit Union v. Parker, decided 199
 - United States v. Noland: applied to preserve Congress's priority categories while allowing lawful equity within the Code; no creditor class receives a new rank.
 - Raleigh v. Illinois Department of Revenue: its preservation of the substantive tax burden remains distinct from this federal dischargeability calculation.
 - TRW Inc. v. Andrews: its rejection of a general discovery extension under the governing FCRA remains; accrual or discovery and a later legal disability to collect are different questions.
+
+
+### Permanent releases of independent claims against nondebtors
+
+#### In re Dow Corning Corp.
+
+**Docket or dockets:** Review of the judgment reported at 280 F.3d 648.
+**Decided:** November 5, 2002.
+
+##### Permanent independent claims cannot be extinguished through general plan powers
+
+**Holding:** Sections 105(a) and 1123(b)(6) do not authorize a Chapter 11 plan to extinguish a nonconsenting creditor's independent claim against a nondebtor in exchange for plan funding. Necessity, a substantial contribution, identity of interests and creditor-majority approval cannot supply that power or the affected creditor's consent; the unauthorized permanent bar must be removed in conforming plan proceedings.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Material application:** Section 524(e) generally preserves other entities' liability and property. Section 524(a)(3) instead protects after-acquired community property covered by section 541(a)(2) from allowable community claims, except claims nondischargeable as to the debtor or a spouse in a case begun on the debtor's petition date. Section 524(b) withholds that protection if the spouse receives no discharge in a case commenced within six years of the debtor's petition, or a timely section 727 determination establishes that the spouse would receive no Chapter 7 discharge in a case begun on that date.
+
+**Limits and questions not reached:** The holding concerns permanent nonconsensual extinction of independent claims in a non-asbestos Chapter 11 reorganization. Voluntary releases, genuinely estate-owned claims, independently authorized temporary restraints, ordinary satisfaction by payment and section 524(g)'s express asbestos mechanism retain their distinct legal bases. Section 524(g) supplies no authority for this silicone-implant plan. Section 111(b) of Public Law 103-394 preserves otherwise existing injunction authority; it does not confer authority for these releases. The absence of general release power rests independently on the Code's structure.
+
+**Operative remedy or transition:** Vacate the judgment insofar as it recognizes the disputed release power. Remove the permanent bar against nonconsenting creditors and determine claim ownership, valid consent, severability, funding and confirmation consequences under the remaining Code requirements. Unreviewed foreign-claim classifications and independent confirmation determinations are not reopened except as conforming plan proceedings require.
+
+**Treatment of earlier authority:**
+
+- United States v. Energy Resources Co., 495 U.S. 545: preserves residual power to direct debtor payments; distinguishes its retained independent collection right from compulsory extinction of an unpaid claim.
+- Celotex Corp. v. Edwards: preserves actual relatedness, sufficient interim authority and orderly review; answers the distinct permanent-release question that decision reserved.
+- Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A.: applies the requirement that independent remedial power have its actual statutory source; its separate remedy reservations remain intact.
+- United States v. Noland: applies the distinction between lawful statutory equity and replacing the Code's allocation for collective financial benefit.
+- United States v. Reorganized CF&I Fabricators of Utah, Inc.: applies the same allocation principle without extending its tax-classification ruling or imposing a universal misconduct prerequisite.
+
+### Dischargeable auction debt and government license cancellation
+
+#### FCC v. NextWave Personal Communications, Inc., 537 U.S. 293
+
+**Docket or dockets:** Nos. 01-653 and 01-657, consolidated, including the Arctic Slope matter.
+**Decided:** January 27, 2003.
+
+For the authorized review channel and its limits in this decision, January 27, 2003, Nos. 01-653 and 01-657, see Federal Courts — FCC v. NextWave Personal Communications, Inc.
+
+##### Whether regulatory-purpose license cancellation for dischargeable nonpayment violates §525(a)
+
+**Holding:** Section 525(a) bars a governmental unit from canceling a qualifying debtor's license solely because the debtor failed to pay a debt dischargeable in the bankruptcy case, even when the payment requirement serves a regulatory purpose; a completed discharge is unnecessary. The debtor must establish statutory coverage, a qualifying debt and the operative nonpayment cause, subject to the express exceptions for the Perishable Agricultural Commodities Act, the Packers and Stockyards Act, and section 1 of the July 12, 1943 Agriculture appropriation Act; none applies here.
+
+**Proposition-level authority:** Scalia's opinion, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, and Ginsburg; eight complete joins establish this holding and its application.
+
+**Material application:** The installment notes create monetary payment claims under §§101(5) and 101(12). Nonpayment was the sole cancellation trigger; the regulatory reason for demanding payment supplies no independent cause.
+
+**Limits and questions not reached:** A genuine independent service, construction or spectrum-use violation remains governed by its own conditions. The ruling neither discharges the debt nor adjudicates liens or a particular secured-creditor remedy.
+
+**Operative remedy or transition:** Affirmance leaves the cancellation ineffective in both dockets. Licensing records and dependent reauction action must conform; underlying debt and lien treatment remain in their authorized proceedings.
+
+**Treatment of earlier authority:**
+
+- Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A., 530 U.S. 1, is applied for enforcing Congress's actual bankruptcy allocation rather than a policy substitute.
+- Pennsylvania Department of Public Welfare v. Davenport, 495 U.S. 552, and Ohio v. Kovacs, 469 U.S. 274, supply the distinction between an enforceable monetary obligation and a regulatory duty; the FCC's notes establish the former.
+- In re Dow Corning Corp. (November 5, 2002) is distinguished: its rejection of compulsory independent-claim releases through general plan powers leaves §525(a)'s express protection fully effective.
+
+### Fraud character of an enforceable settlement debt
+
+#### Archer v. Warner, 538 U.S. 314
+
+**Docket or dockets:** No. 01-1418.
+**Decided:** 2003-03-31.
+
+##### Whether release and novation foreclose fraud-based discharge characterization
+
+**Holding:** A settlement, release and replacement note do not, merely by constituting a novation, foreclose proof that the resulting enforceable debt is for money obtained by fraud under 11 U.S.C. §523(a)(2)(A). Federal discharge characterization examines the surviving debt's origin even though state law has released the original causes of action.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined throughout by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct votes.
+
+**Limits and questions not reached:** The inquiry characterizes the surviving enforceable settlement obligation; it does not revive released original demands or disregard the bargain's amount and independent defenses. Alleged business-sale fraud, settlement and nonpayment are not findings of fraud.
+
+**Treatment of earlier authority:** Brown v. Felsen's source-of-debt inquiry extends beyond consent judgments to this genuine release and replacement note. In re Cohen, decided June 30, 1997, supplies valid liability connected to a qualifying fraudulent acquisition.
+
+##### Proof, enforceable amount and independent defenses for the Archer debt
+
+**Holding:** For the actual-fraud exception presented, the creditors must prove by a preponderance actual fraud, actual and recipient-specific justifiable reliance, a qualifying acquisition, and the connection between that acquisition and the enforceable unpaid debt. The bankruptcy court must determine the fraud-derived liability under those requirements and separately resolve genuinely preserved agreement and preclusion defenses.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined throughout by Stone-Zsela, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven direct votes.
+
+**Limits and questions not reached:** Field's justifiable-reliance standard imposes no universal investigation duty. Known or personally obvious falsity defeats justifiability, while actually encountered warnings may require inquiry under the recipient-specific standard; objective imprudence can bear on actual reliance, not impose a separate prudent-person condition. Section 523(a)(2)(A) excludes statements about the debtor's or an insider's financial condition; subsection (B) separately requires a materially false writing, reasonable reliance and debtor-caused making or publication with intent to deceive. Claim preclusion and issue preclusion remain distinct.
+
+**Operative remedy or transition:** The categorical discharge ruling is reversed and remanded. The bankruptcy court must determine the qualifying fraud, connected enforceable unpaid amount and genuinely preserved promise-not-to-seek-nondischargeability and issue-preclusion defenses. Those distinct defenses were insufficiently addressed and lie beyond the granted universal-novation question. Connected valid liability may exceed the value initially obtained; the actual bargain still governs enforceability.
+
+**Treatment of earlier authority:** Grogan v. Garner supplies preponderance proof. Field v. Mans supplies actual and recipient-specific justifiable reliance and the separate financial-condition provisions. In re Cohen supplies the acquisition connection and extent of legally valid resulting liability.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Tort Law
 
@@ -150,11 +150,15 @@
 
 **Proposition-level authority:** Opinion of the Court (Stevens), Parts I and III-A, joined by O'Connor, Kennedy, Souter and Breyer; five direct joins, requiring no *Marks* synthesis. The three-Justice supplemental concurrence supplies no additional Court rule.
 
+**Current-force modification:** State Farm Mutual Automobile Insurance Co. v. Campbell, decided April 7, 2003, adds qualified proportionality and connected-misconduct limits to BMW's guideposts. Few awards significantly exceeding a single-digit ratio satisfy due process, but single digits create no safe harbor; egregious conduct with small economic damages, difficult detection or hard-to-value noneconomic harm may justify a larger ratio. Substantial compensation may make a lower ratio, potentially equality, the limit on the proved facts. Punishment must address the plaintiff's injury: connected similar conduct may illuminate culpability, while independent dissimilar acts and absent persons' hypothetical claims supply no additional punitive basis. BMW's rejection of a fixed ratio or dollar ceiling survives. A claimed higher-ratio justification must be established on the particular record; seriousness or concealment alone does not establish an exception. Parts III-IV have the five direct votes of Stevens, O'Connor, Kennedy, Souter and Breyer.
+
 **Material application:** Deliberateness, recurrence, vulnerability, and the nature of the injury bear on reprehensibility; substantial punishment may be justified for economic injury without physical harm. Supported threatened harm may exceed compensation, but speculative loss cannot justify a chosen sum. Small compensation, egregious conduct, difficult detection, or hard-to-value injury may support larger ratios. Comparable sanctions inform seriousness and notice without becoming exclusive caps. Wealth may affect deterrence but cannot replace the necessary relationship to the wrong. Adequate procedures and actual review remain essential but do not dispose of a separately presented substantive challenge.
 
 **Limits and questions not reached:** No mathematical advance-calculation entitlement, wholesale importation of criminal procedural safeguards, mandatory economic model, general corporate-rights catalogue, or constitutional presumption based merely on differing jury outcomes is established.
 
 **Treatment of earlier authority:** *Haslip*'s reasonable constraints and legitimate punitive purposes are developed into the guideposts while its rejection of a universal mathematical boundary survives. *TXO*'s five-Justice procedural-sufficiency holding remains intact and supplies no controlling substantive ratio or potential-harm formula. *Oberg* continues to require meaningful review and lawful correction of punitive amount, or an adequate functional substitute; entitlement or legal-error review alone does not necessarily suffice. This decision resolves substantive excessiveness previously reserved without treating Alabama as having the procedural defect found in *Oberg*.
+
+**Later-authority backlinks:** State Farm Mutual Automobile Insurance Co. v. Campbell, No. 01-1289, April 7, 2003: connected misconduct, independent grievances and qualified proportionality guidance; see Federal Courts: Immunities and Remedies.
 
 ##### Territorial punishment and relevant foreign evidence
 
@@ -162,11 +166,15 @@
 
 **Proposition-level authority:** Part II, joined by Stone-Zsela, O'Connor, Kennedy, Souter and Breyer; six. Stone-Zsela's join does not support the substantive framework, excessiveness application, or reversal.
 
+**Current-force modification:** State Farm Mutual Automobile Insurance Co. v. Campbell, decided April 7, 2003, preserves BMW's prohibition on punishment of lawful outside conduct without forum impact and its distinction between relevant evidence and punishment. It resolves the former reservation at this narrower scope: as a general rule, independent unlawful acts outside the forum against absent persons are not legitimate objects of the forum's punitive award; those claims ordinarily require their participation and the law governing their transactions. If relevant outside evidence is used in a new punitive proceeding, the jury must be instructed that lawful outside conduct cannot itself be punished on the prohibited basis. Six Justices adopt the territorial/evidence distinction, while Stevens, O'Connor, Kennedy, Souter and Breyer supply five direct votes for both the independent unlawful-outside-acts rule and the instruction; no broader immunity for outside conduct is established.
+
 **Material application:** Alabama expressly removed foreign transactions from its remitted amount calculation, and that correction is accepted. A separate state concurrence does not establish continued covert use of the original multiplier. Acceptance of the correction neither validates the remaining amount nor reinstates the original verdict.
 
 **Limits and questions not reached:** The holding supplies no universal immunity for out-of-state conduct, exclusion of all foreign evidence, or adjudication of every national transaction's legality or another State's authority over unlawful conduct within its jurisdiction.
 
 **Treatment of earlier authority:** *Shutts* and *Allstate v. Hague* support attention to the State's connection with affected transactions without becoming an evidence-exclusion rule or numerical damages ceiling.
+
+**Later-authority backlinks:** State Farm Mutual Automobile Insurance Co. v. Campbell, No. 01-1289, April 7, 2003: territorial evidence, the conditional jury instruction and independent unlawful outside grievances; see Federal Courts: Immunities and Remedies.
 
 ##### The remitted award and lawful redetermination
 
@@ -352,3 +360,22 @@ For the emergency-removal, section 1983 and independent-examination questions, s
 **Operative remedy or transition:** Vacate and remand, 7-2, for independent constitutional review. The Court neither declares the $4.5 million award unconstitutional nor fixes a ratio, remittitur or new trial; the $50,000 compensation and separate functionality judgment remain intact.
 
 **Treatment of earlier authority:** BMW's qualified substantive guideposts remain unchanged. Bajakajian and Ornelas supply the task-specific separation of constitutional evaluation from historical facts. Gasperini's deference for supported compensatory valuation remains distinct. Oberg's meaningful scrutiny and adequate-substitute qualification survive; TXO supplies no controlling numerical formula. TrafFix protects lawful useful copying, and Buford's practical Guidelines review does not determine this constitutional task.
+
+### Fraud proof requirements
+
+#### Illinois ex rel. Madigan v. Telemarketing Associates, Inc., 538 U.S. 600 — fraud proof requirements
+
+**Docket or dockets:** No. 01-1806.
+**Decided:** 2003-05-05.
+
+##### Each restored cause retains its own proof and remedial requirements
+
+**Holding:** For the intentional common-law fraud restored here, Illinois must establish by clear and convincing evidence a materially false factual representation, knowledge of falsity, intent to mislead, successful deception through justifiable reliance, and resulting damage. A distinct public statutory theory must satisfy its own elements and evidentiary burden and the First Amendment boundary in Part I; it cannot evade that boundary by relabeling a fee cap.
+
+**Proposition-level authority:** Part II of the opinion of the Court (Kennedy), unanimous.
+
+**Limits and questions not reached:** The clear-and-convincing rule applies to the restored Illinois intentional common-law fraud, not as a universal constitutional burden for every public statutory action. The lower court must identify the invoked cause and its actual culpability, causation, injury, proof and remedial requirements. The pleaded representations and mental states remain to be proved.
+
+**Treatment of earlier authority:** Hofmann v. Hofmann, 94 Ill. 2d 205, 222–225 (1983), supplies the common-law proof burden. In re Witt, 145 Ill. 2d 380, 390–391, 397 (1991), supplies the fraud elements and deliberate-intent distinction without supplying a universal statutory burden.
+
+The First Amendment boundary against fee-based liability is under First Amendment, this case, No. 01-1806, decided May 5, 2003.

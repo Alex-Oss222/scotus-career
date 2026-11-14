@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Environmental Law
 
@@ -558,3 +558,89 @@ For the delegation question in Michigan v. Environmental Protection Agency, Apri
 - **MCI Telecommunications Corp. v. American Telephone & Telegraph Co.:** Its prohibition on replacing a mandatory statutory task with agency policy remains binding.
 - **AT&T Corp. v. Iowa Utilities Board and New York v. FERC:** Actual federal assignments, constraints on their exercise and preserved state functions remain distinct; neither decision supplies a general presumption of regulatory power.
 - **New York v. United States; Hodel v. Virginia Surface Mining & Reclamation Assn., 452 U.S. 264; FERC v. Mississippi, 456 U.S. 742:** Their distinction between lawful federal regulation with genuine state alternatives and compulsory state administration applies. The constitutional floor does not erase greater statutory means-choice protections.
+
+
+### Mechanized wetland redeposit, farming recapture and discharge penalties
+
+#### Borden Ranch Partnership v. Army Corps of Engineers, 537 U.S. 99
+
+**Docket or dockets:** No. 01-1243.
+**Decided:** December 16, 2002.
+
+##### Actual mechanized conveyance and deposit satisfy the discharge elements
+
+**Holding:** Equipment that excavates, conveys and actively deposits dredged soil or other statutory pollutants into jurisdictional waters makes an addition from a point source even when the material was not imported from offsite. Mere machinery movement, in-place disturbance or hydrological alteration without a proved conveyance and deposit does not satisfy those elements.
+
+**Proposition-level authority:** Parts I–II and Part III's application in the opinion of O'Connor are joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, including the author; those six direct joins control the liability holdings and their application.
+
+**Material application:** The trial found fully engaged shanks actively conveying and depositing soil, rock, sand and biological material, including channel filling or mounding. Liability rests on that statutory act, not hydrological injury alone or a machine's presence near water. Agricultural stormwater runoff remains excluded.
+
+**Limits and questions not reached:** Jurisdiction over the surviving drainages and swales is conceded. The vernal-pool component stays excluded. The holding does not treat every incidental fallback as active deposit; later guidance and the 2002 regulatory revision provide no retroactive liability ground.
+
+##### Recapture requires the purpose and effects specified for the water area
+
+**Holding:** Section 1344(f)(2) requires a permit for a discharge incidental to an activity whose purpose is to bring a water area into a use to which it was not previously subject, where flow or circulation may be impaired or the waters' reach reduced, even if normal-farming protection otherwise applies. An actual discharge, the purpose of a new use of the water area, and the specified possible physical consequence are separate conditions; a crop change, ranch-wide agricultural label or accidental passage alone does not establish them.
+
+**Proposition-level authority:** Part II of O'Connor's opinion, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices.
+
+**Material application:** Even assuming normal farming or plowing protection under section 1344(f)(1)(A), the proved deposits were incidental to purposeful conversion of the water areas toward orchards and vineyards, with the requisite flow impairment. Prior ranch-wide grazing did not establish cultivation of each drainage. Directions to raise the shanks did not authorize engaged ripping.
+
+**Limits and questions not reached:** No independent regulatory plowing exclusion is decided. An accidental pass alone does not establish conversion purpose, but the statute adds no separate intent-to-pollute element to each pass once its connection to a qualifying conversion activity is proved. Nondischarge cultivation, natural soil movement and farming within an operative exemption are unaffected.
+
+##### Distinct proved discharges may be counted separately within a day
+
+**Holding:** Under §1319(d), each distinct lawfully established discharge may constitute a separate violation within the same day; a single project does not merge separate discharges into one daily violation. The applicable maximum here is $25,000 per day for each violation, and the assessment must consider seriousness, economic benefit, violation history, good-faith efforts, economic impact and justice; a pass lacking a proved discharge cannot be counted.
+
+**Proposition-level authority:** All eight participating Justices directly join Part III's statutory counting rule. Only Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer join its application sustaining the drainage count and the resulting judgment; Scalia and Thomas require a new lawful addition inquiry before any count can stand.
+
+**Operative remedy or transition:** Affirm the surviving drainage and swale liability and discharge-counting application, 6–2, while preserving exclusion of the pool counts and the penalty-recalculation remand. Kennedy did not participate. Each count requires a proved discharge; the maximum is a ceiling, not a mandatory penalty. No replacement amount or automatic restoration duty is set. Restoration depends on the operative decree and authorized findings.
+
+**Treatment of earlier authority:**
+
+- PUD No. 1 of Jefferson County v. Washington Department of Ecology: applies the need for a discharge trigger before broader activity controls; its distinct certification authority is not an independent liability source here.
+- Babbitt v. Sweet Home Chapter of Communities for a Great Oregon: applies the insistence on an actual statutory act and causal conditions; habitat or water damage alone cannot replace them.
+- Solid Waste Agency of Northern Cook County v. Army Corps of Engineers: preserves its confined rejection of jurisdiction resting solely on migratory-bird use and its requirement of enacted authority; it does not decide the conceded surviving waters or the addition issue.
+- United States v. Riverside Bayview Homes: its adjacent-wetland coverage remains intact; this case supplies no broader geographic definition.
+- MCI Telecommunications Corp. v. AT&T: preserves the requirement that agency action remain within the statutory grant; purpose or administration cannot manufacture an absent element.
+
+### CERCLA contribution before enforcement litigation
+
+#### Cooper Industries, Inc. v. Aviall Services, Inc., reviewing 312 F.3d 677
+
+**Docket or dockets:** No separate Supreme Court docket supplied.
+**Decided:** May 27, 2003.
+
+##### Availability of CERCLA contribution without a section 106 or section 107(a) civil action
+
+**Holding:** Section 113(f)(1) permits contribution only during or after a civil action under CERCLA §106 or §107(a); a claimant never subject to either action cannot use that subsection. Its saving sentence preserves contribution rights with an independent legal source rather than removing the opening sentence's condition, and equitable allocation cannot create an otherwise unavailable claim.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), supported by all eight Associate Justices; Stone-Zsela concurs in the confined reversal and remand only.
+
+**Material application:** Aviall's cleanup under Texas regulatory pressure and the parties' conceded responsibility did not supply the required federal civil action. Prompt-cleanup policy cannot dispense with the statutory gateway.
+
+**Limits and questions not reached:** The saving sentence refers to §107, while the opening condition specifies §107(a). Section 113(f)(3)(B) separately addresses a claimant that resolved liability to the United States or a State through a qualifying administrative or judicially approved settlement; that route retains its own conditions. Section 113(g)(3)'s judgment and settlement limitations triggers remain distinct. The preservation and scope of an independent §107 claim were not decided below and are outside the granted gateway issue.
+
+**Operative remedy or transition:** Only the ruling authorizing §113(f)(1) contribution is reversed. The lower court must decide whether an independent §107 claim was pleaded and preserved, adjudicate any legally available preserved alternative, and give state and contractual claims their proper substantive and jurisdictional treatment. Any cost-recovery claim requires proof of its own necessity, applicable National Contingency Plan and notice conditions, recoverable expenditures and lawful relief; the mandate does not reinstate an indiscriminate defense judgment.
+
+**Treatment of earlier authority:** Texas Industries and Northwest Airlines require a legal source for contribution, while their different statutes do not determine CERCLA's construction. Key Tronic preserves task-specific response-cost recovery and its litigation-fee and liability-negotiation limits; it establishes no unrestricted contribution action. Bestfoods's rules of direct and derivative responsibility do not supply the missing contribution entitlement.
+
+
+
+### Federal surface-mining duties after state primacy
+
+#### Bragg v. West Virginia Coal Association, 248 F.3d 275 — federal permitting duty
+
+**Docket or dockets:** Historical petition No. 01-619.
+**Decided:** June 30, 2003.
+
+##### SMCRA retains a federal permitting command after state primacy
+
+**Holding:** Approval of a state surface-mining program leaves 30 U.S.C. §1260(b)(1)'s federal command in force: before approving a permit or revision, the regulatory authority must make the required finding of compliance with the federal chapter and applicable state or federal program. Section 1270(a)(2) permits an eligible citizen to sue over the appropriate state authority's failure to perform an identified nondiscretionary duty under that chapter.
+
+**Proposition-level authority:** Part I of Thomas's opinion, unanimous.
+
+**Limits and questions not reached:** The federal duty may incorporate approved-program content, but approval alone does not make every independent state condition or discretionary judgment a nondiscretionary federal obligation. Statutory eligibility, applicable notice and the actual nondiscretionary duty remain to be established.
+
+**Material application:** The buffer rule restricts disturbance within one hundred feet of an intermittent or perennial stream unless the Director specifically authorizes it and finds no adverse effect on normal flow or gradient, fish migration or related environmental values, no material damage to water quantity or quality, and no causation of or contribution to violation of applicable state or federal water-quality standards. Each condition requires its own analysis; the retained duty does not establish a universal valley-fill prohibition.
+
+**Operative remedy or transition:** The categorical immunity dismissal of Counts 2 and 3 is vacated. The courts must identify the required findings and incorporated compliance content and decide remaining interpretation and compliance issues. Supported undisturbed findings may be used; no automatic new trial is required. For prospective officer relief and the limits on the returned injunction in Bragg, June 30, 2003, historical petition No. 01-619, see Federal Courts: Immunities and Remedies.

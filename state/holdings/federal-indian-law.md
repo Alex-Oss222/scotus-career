@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Federal Indian Law
 
@@ -772,3 +772,45 @@ For the section 1983 forum question in Nevada v. Hicks, No. 99-1994, decided Jun
 - United States National Bank of Oregon v. Independent Insurance Agents of America (June 7, 1993): applied to read the whole enacted provision; no general authority to rewrite statutory text is adopted.
 - Oklahoma Tax Commission v. Chickasaw Nation (June 14, 1995): its state-tax incidence, residence, source and treaty rules are distinguished from this federal statutory exemption.
 - Minnesota v. Mille Lacs Band of Chippewa Indians (March 24, 1999): its protective interpretation of retained tribal rights remains; it creates no exemption outside the scope of this resolved federal text.
+
+### Compensable duties under the IMLA coal-lease approval regime
+
+#### United States v. Navajo Nation, 537 U.S. 488
+
+**Docket or dockets:** No. 01-1375.
+**Decided:** March 4, 2003.
+
+##### Whether the governing coal-lease approval provisions supply the asserted fiduciary damages duty
+
+**Holding:** A tribal claim under the Indian Tucker Act requires a particular statutory or regulatory obligation that can fairly be interpreted to support compensation for breach. The conduct-date Indian Mineral Leasing Act and coal-leasing regulations governing this lease do not impose the asserted compensable fiduciary duty concerning the Secretary's approval and handling of the negotiated royalty amendment; the Nation's damages theory under those provisions therefore fails.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by Scalia, Kennedy, Thomas and Breyer; five direct votes for the complete source-specific holding.
+
+**Material application:** Tribal negotiation, required Secretarial approval and the operative royalty provisions do not establish this asserted monetary undertaking. The allegation that the Secretary secretly distorted bargaining cannot itself create the statutory duty. The Indian Tucker Act provides waiver and forum rather than that substantive obligation.
+
+**Limits and questions not reached:** The decision does not require a management scheme identical to Mitchell II for every fiduciary claim and does not hold the alleged intervention lawful under all other law. The preliminary twenty-percent adjustment establishes no vested royalty entitlement. No alternative statutory, contractual or leasing claim is invented or established.
+
+**Operative remedy or transition:** Reverse the Federal Circuit's recognition of this IMLA damages theory and remand to implement its rejection in the preserved proceedings. No damages amount is awarded.
+
+**Treatment of earlier authority:** Mitchell I requires duties traceable to the actual enactment. Mitchell II retains compensation for established fiduciary responsibilities; its beneficial resource-management scheme differs from the approval and royalty terms governing this coal lease.
+
+### Preservation duties arising from federal use of Fort Apache trust property
+
+#### United States v. White Mountain Apache Tribe, 537 U.S. 465
+
+**Docket or dockets:** No. 01-1067.
+**Decided:** March 4, 2003.
+
+For compensation, waiver and the proof-dependent remand in this case, March 4, 2003, No. 01-1067, see Federal Courts: Immunities and Remedies — Monetary relief for loss to controlled Fort Apache trust assets.
+
+##### Whether the express Fort Apache trust and retained federal use impose a preservation duty
+
+**Holding:** The 1960 Fort Apache Act's express trust, coupled with the United States' retained and exercised use or control of the trust property, imposes a duty to exercise reasonable care to preserve the property subject to that use or control. The federal reservation of use operates within the trust and carries that preservation responsibility for the controlled assets.
+
+**Proposition-level authority:** Souter's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six Justices adopt the complete duty and compensation analysis.
+
+**Material application:** The 1960 Act identifies the trust corpus and beneficiary and permits administrative or school use; the Government exercised that authority. Preservation principles define the incident of this enacted responsibility rather than create a duty from general federal guardianship.
+
+**Limits and questions not reached:** The duty concerns the assets and periods of actual federal use or control, which require identification in the claims court. It does not establish an automatic historic-restoration standard or resolve the funding of proper upkeep.
+
+**Treatment of earlier authority:** Mitchell I is distinguished because its allotment scheme assigned use and management to allottees. Mitchell II's source-defined responsibility method extends to preservation of expressly entrusted property under retained and exercised federal use.

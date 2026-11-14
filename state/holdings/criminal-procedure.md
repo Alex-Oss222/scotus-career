@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Criminal Procedure
 
@@ -51,6 +51,8 @@
 - Washington v. Harper, 494 U.S. 210 (1990): applied for the protected refusal interest and requirement of overriding justification and medical appropriateness; its convicted-prisoner procedures do not automatically govern trial medication.
 - Illinois v. Allen, 397 U.S. 337 (1970): relied on for the State's legitimate trial interest and the possibility of necessary courtroom measures; no comprehensive competency-medication exception is adopted.
 
+**Later-authority backlinks:** Sell v. United States, June 16, 2003, supplies the individualized conditions for prosecution-only competency-restoration medication of a defendant charged with serious nonviolent offenses. That defined part of the reserved restoration question is resolved without changing this holding or deciding the other reservations.
+
 ##### Whether the unsupported treatment and unreconstructable trial risk require a new trial
 
 **Holding:** When unjustified compelled antipsychotic medication through trial creates a supported, substantial risk of impairing the defense that the record cannot reliably reconstruct, the defendant need not demonstrate exactly how an unmedicated trial would have differed. The risk here extends beyond visible demeanor to testimony, comprehension and communication with counsel; explanatory expert testimony does not cure it, and the convictions and dependent sentence must be vacated for a new trial.
@@ -67,6 +69,8 @@
 
 - Illinois v. Allen, 397 U.S. 337 (1970): applied by analogy to potentially prejudicial compelled trial measures and the need for an essential justification.
 - Estelle v. Williams, 425 U.S. 501 (1976): applied by analogy to effects of compelled trial appearance that cannot be fully reconstructed from a transcript; its particular waiver disposition is not extended.
+
+**Later-authority backlinks:** Sell v. United States, June 16, 2003, supplies the individualized conditions for prosecution-only competency-restoration medication of a defendant charged with serious nonviolent offenses. That defined part of the reserved restoration question is resolved without changing this holding or deciding the other reservations.
 
 ### Competency hearings
 
@@ -3317,6 +3321,8 @@ For this case’s other questions, see Civil Rights (The State must justify both
 - **Custis v. United States:** Distinguished as a collateral-review decision; the existing limits on attacking prior convictions remain intact.
 - **Old Chief v. United States:** Applied to the distinction between element status and the form of adequate prior-conviction proof; no broader compulsory-stipulation rule is created.
 
+**Later-authority backlinks:** United States v. Gatewood, June 30, 2003, preserves the statutory aggravated-element construction and extends charge-bound protection to its newly recognized constitutional recidivist elements, resolving the necessary adult maximum- and minimum-predicate questions without rewriting this earlier statutory holding.
+
 ### Reliability restrictions on defense evidence
 
 #### United States v. Scheffer
@@ -3568,6 +3574,8 @@ For Bryan v. United States, decided June 15, 1998, No. 96-8422, on the distinct 
 **Limits and questions not reached:** The classification is confined to this serious-prior qualification. Trial safeguards and a higher ceiling are acknowledged, not ignored. No comprehensive rule for maximum-increasing facts, mandatory minima, unchanged-range findings or prior-conviction procedures is adopted. Independent jury, indictment and due-process claims are not decided; the actual jury waiver is unchanged and relabeling a true offense cannot evade jeopardy.
 
 **Treatment of earlier authority:** DiFrancesco's sentencing/acquittal distinction is applied; Bullington and Rumsey retain their capital protection; Caspari's merits reservation is answered for this case; Almendarez-Torres, Witte and Watts remain within their actual statutory and sentencing limits.
+
+**Later-authority backlinks:** Limon v. Kansas, June 26, 2003, and United States v. Gatewood, June 30, 2003, resolve independent jury and proof questions for their punishment-authorizing predicates, with Gatewood also enforcing applicable federal charging protection; Monge's bounded noncapital renewed-proof holding remains intact.
 
 ##### Permission to prove the allegation again neither repairs the first record nor directs an enhancement
 
@@ -4882,6 +4890,8 @@ Awareness of facts, consent to an instruction, legal sufficiency of the indictme
 
 **Treatment of earlier authority:** Riggins supplies the refusal-interest protection and is extended to the stated advance defense-effects inquiry; its complete ultimate-restoration question remains open. Harper retains justified confinement-safety treatment and is not a categorical answer to pretrial restoration or defense protection.
 
+**Later-authority backlinks:** Sell v. United States, June 16, 2003, resolves the prosecution-only justification for serious nonviolent charges through its individualized conditions, while preserving advance assessment of defense effects and the separate treatment of independently sufficient safety grounds. Weston's original protections remain effective; Sell does not decide every materially different restoration setting.
+
 ### Fair warning and retrospective judicial removal of an offense limit
 
 #### Rogers v. Tennessee, 532 U.S. 451
@@ -5122,3 +5132,189 @@ Rule 16(d)(1) permits protective relief on sufficient showing, including an ex p
 **Operative remedy or transition:** Reverse the judgment sustaining the present order and set aside its dependent death-notice exclusion, 9–0. No evidence collection or hearing is directed; any different later request requires its own lawful source, sufficient foundation and appropriate protections.
 
 **Treatment of earlier authority:** Armstrong’s dependent-sanction and ordinary-proceeding principles apply. Carlisle confines supervision to governing legal authority; neither creates a disclosure duty or immunity from constitutional scrutiny.
+
+
+### Retrial after rejection of a constitutional prosecution bar
+
+#### United States v. Nelson
+
+**Docket or dockets:** No Supreme Court docket supplied; judgment below, 277 F.3d 164.
+**Decided:** October 15, 2002.
+
+For Nelson’s Thirteenth Amendment enforcement holding, decided October 15, 2002, with no Supreme Court docket supplied, see Constitutional Structure — Thirteenth Amendment enforcement against private racial exclusion.
+
+##### Whether sustaining congressional power restores convictions independently vacated for jury-selection error
+
+**Holding:** The valid application of §245(b)(2)(B) permits retrial while preserving the independent jury-selection vacatur. Every statutory element, including both motives, must be proved beyond a reasonable doubt, and Price’s aiding-and-abetting responsibility retains its own required proof under §2.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Operative remedy or transition:** The constitutional ruling is affirmed. Nelson and Price may be retried with lawful jury selection; their vacated convictions and sentences are not reinstated. Constitutional validity establishes neither defendant’s guilt nor Price’s required aiding-and-abetting responsibility.
+
+### Secret governmental frustration and the continuing conspiracy agreement
+
+#### United States v. Jimenez Recio, 537 U.S. 270
+
+**Docket or dockets:** No. 01-1184.
+**Decided:** 2003-01-21.
+
+##### Whether unknown governmental frustration automatically ends a §846 conspiracy
+
+**Holding:** A drug conspiracy under 21 U.S.C. §846 does not automatically terminate when government action unknown to its members makes the intended transaction impossible; pre-seizure joinder is therefore not a categorical statutory element. The prosecution must still prove beyond a reasonable doubt an actual unlawful agreement and the defendant’s knowing participation: mere presence, association, awareness, or an arrangement solely with government agents is insufficient, and actual withdrawal, abandonment, termination, and entrapment retain their independent requirements.
+
+**Proposition-level authority:** Thomas's Part I, unanimous, including Stevens notwithstanding his dissent from the judgment.
+
+**Treatment of earlier authority:** Shabani preserves the unlawful agreement and knowing participation, proved beyond a reasonable doubt, without an added overt act. Salinas supplies only the agreement-versus-completion analogy, not substitute RICO elements. The Ninth Circuit's Cruz automatic-termination rule and categorical pre-seizure-joinder requirement are rejected.
+
+##### Whether correction of the appellate rule disposes of accepted trial burdens and procedural choices
+
+**Holding:** The Court may correct the court of appeals’ automatic-termination rule in deciding the granted statutory question without thereby granting relief for an unobjected-to trial instruction or extinguishing the legal consequences of the Government’s accepted trial burden and procedural choices. Those consequences remain for resolution on properly maintained appellate grounds, rather than being treated as irrelevant or conclusively resolved by the substantive correction.
+
+**Proposition-level authority:** Thomas's Part II, joined by O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; seven Justices. Stone-Zsela does not join; Stevens dissents.
+
+**Material application:** The Government did not object to the second-trial instruction before jury retirement, accepted pre-seizure joinder in closing, omitted its challenge from its initial appeal and first challenged the circuit rule on rehearing. Rule 30 and those procedural choices retain their legal consequences.
+
+**Limits and questions not reached:** The Court assumes no government plain-error authority, finds no intentional relinquishment from nonobjection alone, and selects no sufficiency benchmark disregarding the accepted instruction. Remaining questions must be properly maintained rather than revived by this remand.
+
+**Treatment of earlier authority:** Shabani's limited appellate return and Quality King's distinction between correcting a legal premise and deciding independent grounds support preserving the remaining issues without importing copyright doctrine.
+
+##### What appellate and trial remedies follow rejection of automatic termination
+
+**Holding:** The appellate judgment is reversed only insofar as it rests on automatic termination, and the court of appeals must address remaining properly maintained sufficiency, instructional, and other trial objections from the existing trial record before reinstating the convictions or directing further proceedings. If legally required proof was insufficient, the remedy must respect the bar on another opportunity to supply missing proof; any other trial remedy requires its own lawful predicate.
+
+**Proposition-level authority:** Thomas's Part III, joined by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; eight Justices. Stevens dissents from the limited reversal.
+
+**Operative remedy or transition:** Reverse only the automatic-termination basis. The existing trial record must supply the basis for remaining proper sufficiency, instructional and other claims before reinstatement or further proceedings. Neither a third trial nor supplementation of missing proof follows automatically; insufficient legally required proof carries its applicable double-jeopardy bar.
+
+**Treatment of earlier authority:** Shabani preserves remaining appellate grounds and the distinction between the settled statutory rule and the convictions' ultimate treatment.
+
+### Actual acquittal
+
+#### Price v. Vincent, 538 U.S. 634 — actual acquittal
+
+**Docket or dockets:** No. 02-524.
+**Decided:** 2003-05-19.
+
+##### Finality of an actual substantive acquittal
+
+**Holding:** A completed substantive ruling that the prosecution's proof is insufficient on an offense is an acquittal protected against renewed adjudication, whatever its label or legal correctness; a signed order or announcement to the jury is not an independent prerequisite.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Breyer), unanimous.
+
+**Limits and questions not reached:** Substance determines whether the trial judge completed an insufficiency ruling. Grant language, a missing signed order or lack of a jury announcement does not answer that antecedent question in isolation.
+
+**Treatment of earlier authority:** Martin Linen and Smalis protect a completed insufficiency ruling from renewed adjudication; Fong Foo preserves an actual acquittal despite legal error; Scott distinguishes rulings unrelated to factual guilt.
+
+The independent habeas eligibility rule and reasonable-state-assessment holding are under Federal Courts: Habeas and Collateral Review, this case, No. 02-524, decided May 19, 2003.
+
+### Notice and appellate review
+
+#### United States v. Handakas — notice and appellate review
+
+**Docket or dockets:** No Supreme Court docket supplied; 286 F.3d 92 identifies the judgment below.
+**Decided:** 2003-04-23.
+
+##### Federal notice and forfeited-error review are separate inquiries
+
+**Holding:** A federal criminal charge must rest on legally ascertainable conduct-time boundaries supplied by enacted law and authoritative interpretation; state-law wrongdoing, bad purpose and a later decision cannot themselves supply missing federal notice. A forfeited constitutional or multiplicity objection remains subject to separate findings of error, plainness, substantial-rights injury and a serious effect on the fairness, integrity or public reputation of judicial proceedings before discretionary correction under Rule 52(b).
+
+**Proposition-level authority:** Part I of the opinion of the Court (Stevens), unanimous.
+
+**Limits and questions not reached:** Forfeiture is distinct from intentional waiver; absence of an objection alone does not establish the latter. Johnson and Cotton retain their settled-contrary-law intervening-change scope.
+
+**Treatment of earlier authority:** Lanier is applied to conduct-time warning. Morales supplies enforcement-guidance principles. Olano, Johnson and Cotton retain their distinct review conditions and actual temporal scopes.
+
+##### This forfeited as-applied constitutional ground does not establish plain error
+
+**Holding:** The reversal of Count One cannot rest on the forfeited as-applied vagueness ground because Handakas has not established clear or obvious constitutional invalidity of this charged certification relationship, even assuming error and applying the law available at appellate review. That failure of Rule 52(b)'s second condition is sufficient to vacate the constitutional reversal without determining ultimate constitutional validity.
+
+**Proposition-level authority:** Part II of Stevens's opinion, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices.
+
+**Material application:** Defined wage and certification duties make this constitutional application unsettled despite the contract-only charge, absence of an entrusted-duty finding and rejection of a property theory. A factual twin or prior express invalidation is unnecessary to plainness, but governing principles do not make this application plainly invalid.
+
+**Limits and questions not reached:** The Court assumes error and substantial-rights injury, resolves the claim at plainness and does not reach discretionary correction. It decides neither ultimate constitutional validity nor a general timing rule for claims initially unsettled at trial.
+
+**Treatment of earlier authority:** Olano is applied at its distinct plainness condition. Lanier preserves genuine notice inquiry without a factual-twin requirement. Morales and Women's Medical Center are distinguished by their missing operative standards. McNally supplies the legislative background rather than a rule defeating section 1346.
+
+##### The actual remaining Count One grounds govern the dependent laundering disposition
+
+**Holding:** The court of appeals must adjudicate the statutory-coverage and intent-sufficiency grounds actually presented but left unresolved below, using their actual preservation and review rules, before deciding whether Count One can stand. Count Four returns with it: because mail fraud is its sole available unlawful-proceeds predicate on this record, failure of Count One requires corresponding relief from that dependent laundering conviction.
+
+**Proposition-level authority:** Part III of Stevens's opinion, joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; eight Justices.
+
+**Limits and questions not reached:** The special verdict accepted honest services alone and rejected money-or-property fraud. The Government waived its late undeveloped structuring-proceeds alternative for laundering; neither an appellate property-loss finding nor an invented agency relationship can replace the verdict.
+
+**Operative remedy or transition:** Vacate the reversals of Counts One and Four and remand for the actual unresolved statutory-coverage and intent-sufficiency grounds under their own preservation and review rules. Do not immediately restore either conviction or the original seventy-month sentencing package. The separate occupational-restriction appeal remains outside this review.
+
+**Treatment of earlier authority:** Lanier's source-and-notice distinction is preserved while statutory coverage receives its own adjudication. The lower judgment's unresolved alternative grounds and the actual special verdict retain their procedural force.
+
+The single structuring unit and duplicate-punishment correction are under Criminal Procedure: Sentencing and Capital Punishment, this case, decided April 23, 2003, judgment below 286 F.3d 92.
+
+### Express waiver of an earlier plea-bargain dispute
+
+#### State v. Oakley, judgment below 2001 WI 103 — express plea waiver
+
+**Docket or dockets:** Wisconsin No. 99-3328-CR; reconsideration reported at 2001 WI 123; no Supreme Court docket is established.
+**Decided:** June 9, 2003.
+
+##### Whether a later express undertaking forecloses a challenge to withdrawal from an earlier bargain
+
+**Holding:** A knowing, voluntary and lawful express waiver in a later plea agreement bars the covered challenge to withdrawal from an earlier bargain. Oakley's particular undertaking forecloses that dispute but does not reach his independent constitutional sentencing claim; the no-contest designation alone establishes no waiver.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), Part II, unanimous.
+
+**Material application:** The later agreement exchanged express relinquishment of the earlier-withdrawal challenge for a limit on the sentencing recommendation. Its consensual adoption and specific terms establish intentional relinquishment of that subject.
+
+**Operative remedy or transition:** Affirm rejection of the earlier-bargain challenge. The reproductive-condition ruling and removal mandate appear in Criminal Procedure: Sentencing and Capital Punishment under Oakley, Wisconsin No. 99-3328-CR, June 9, 2003.
+
+**Treatment of earlier authority:** Tollett and Mabry distinguish the operative plea's validity from earlier negotiations; they support enforcement of the actual undertaking rather than universal waiver through plea form.
+
+
+
+### Prosecution-only medication for trial competence
+
+#### Sell v. United States, 539 U.S. 166 — prosecution-only medication for trial competence
+
+**Docket or dockets:** No. 02-5664.
+**Decided:** June 16, 2003.
+
+##### Conditions for medication solely to prosecute serious nonviolent charges
+
+**Holding:** The Government may medicate an objecting, incompetent defendant solely to permit trial of serious nonviolent criminal charges, including serious property offenses, only if it establishes an important interest in this prosecution; a regimen substantially likely to restore competence and substantially unlikely to impair significantly effective assistance to counsel or the fairness of the defense; necessity after reasonable less intrusive treatments and methods of administration are considered; and medical appropriateness for this defendant. The court must assess defense effects before treatment and reassess actual effects before trial.
+
+**Proposition-level authority:** Breyer's Part II, joined by Stevens, Kennedy, Souter and Ginsburg: five direct joins.
+
+**Limits and questions not reached:** The actual prosecution interest includes confinement already endured and realistic further civil confinement; the latter can reduce the interest without automatically eliminating it. Minimal competence cannot suffice if treatment materially impairs comprehension, consultation, testimony, reactions or presentation. Clinical evidence, alternatives and workable safeguards must support advance findings; perfect prediction is unnecessary. Less intrusive treatments must be unlikely to achieve substantially the same result, and reasonably available less intrusive administration methods must be considered. The treatment must serve this defendant’s medical interest. Ordinarily the court examines whether an independent danger or medical basis has been sought and why not if absent; the sequence neither assumes danger nor compels an unavailable basis. Diagnosis, benefit and serious charges alone are insufficient.
+
+**Treatment of earlier authority:** Riggins’s refusal, need, alternatives and defense-risk protections and Weston’s advance and pretrial assessment requirements remain intact; this holding resolves their reserved prosecution-only question. Harper’s distinct danger-and-treatment authority requires its own predicates. Benson’s collateral-review ruling supplies no prospective treatment authority.
+
+##### The existing authorization cannot support treatment
+
+**Holding:** A prosecution-only medication order must connect the proposed treatment to a fair prosecution through advance findings about defense effects and the actual governmental interest. The present authorization fails that requirement and is vacated; a renewed request may proceed on current circumstances under Parts II and III or on a separately established lawful treatment basis.
+
+**Proposition-level authority:** Breyer's Part IV, joined by Stevens, Kennedy, Souter and Ginsburg: five direct joins.
+
+**Material application:** The orders failed to connect treatment to fair prosecution through advance defense-effects findings and the actual prosecution interest after Sell’s confinement; rejected dangerousness could not supply the missing basis.
+
+**Operative remedy or transition:** Vacate the treatment authorization. A renewed request requires current findings meeting every prosecution-only condition or a separately lawful treatment basis. Continued custody requires independent statutory authority and review.
+
+### Expired criminal limitations and retrospective revival
+
+#### Stogner v. California, 539 U.S. 607
+
+**Docket or dockets:** No. 01-1757.
+**Decided:** June 26, 2003.
+
+##### Revival of prosecution after complete expiration of the criminal limitations period
+
+**Holding:** The Ex Post Facto Clause bars application of a later statute to restore criminal exposure after the governing limitations period completely expired. Once the accused establishes the completed bar under governing law, a prosecution must rest on a genuinely applicable tolling rule or an independently timely basis; a revival-dependent count must be dismissed.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct supporters.
+
+**Material application:** Both indictment counts acknowledge the bar and depend on §803(g), effective in 1994. The applicable three-year periods expired by 1976; even the alternative six-year calculation ends by 1979. The act's continued substantive criminality and the unchanged sentence do not cure restoration of expired penal exposure. Reliability safeguards likewise address a different issue: even statutory satisfaction cannot supply constitutional authority to revive the counts. The indictment's qualifying-conduct and corroboration allegations are not findings.
+
+**Limits and questions not reached:** The holding concerns fully expired criminal periods, not extension of a running period, genuine tolling or civil claims. It rests on Calder's received categories rather than a general immunity from procedural change. Complete ex post facto relief leaves the separate categorical due-process theory undecided; no controlling collateral-retroactivity rule is announced.
+
+**Operative remedy or transition:** The judgment is reversed; both pending indictment counts must be dismissed and custody or conditions resting solely on them terminated. The established chronology leaves no independent timely count. The rule also governs covered nonfinal cases on direct review.
+
+**Treatment of earlier authority:** Calder's second category reaches restoration of penal exposure after expiration. Brown explains the legal protection supplied by an expired period. Carmell supplies attention to operative legal effect while retaining its distinct proof-sufficiency holding and completed-trial remedy. Collins preserves the received-category restriction. Rogers's judicial fair-warning rule and Sattazahn's final mandatory-life protection remain distinct and supply no general limitations-finality rule.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Business and Commercial Law
 
@@ -1210,11 +1210,15 @@ For the other questions in Atherton v. Federal Deposit Insurance Corporation, No
 
 **Proposition-level authority:** Opinion of the Court (Ginsburg), unanimous on these propositions.
 
+**Current-force modification:** Effective March 5, 2003, Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc. excludes from equivalents a substitute expressly identified in the specification as a particular alternative to a claimed component but omitted from the issued claims. The court applies that legal boundary before remaining equivalence factfinding. Element-specific equivalents otherwise remain available subject to applicable legal limits; mere foreseeability does not trigger this specific bar.
+
 **Material application:** The claimed approximate pH range of 6.0–9.0 cannot be ignored in assessing the accused pH 5.0 process, whose literal infringement is conceded absent.
 
 **Limits and questions not reached:** No final infringement or invalidity ruling is made, and the Court adopts no universal bar against foreseeable but unclaimed substitutes absent a narrowing amendment.
 
 **Treatment of earlier authority:** Graver Tank preserves protection against insubstantial substitutions subject to actual claim boundaries. Deuel reinforces claim-specific technical evidence but addresses a different obviousness burden.
+
+**Later-authority backlinks:** Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc., March 5, 2003 — express-disclosure and claim-omission limit on otherwise available equivalents.
 
 ##### Whether bad intent is an element of infringement by equivalents
 
@@ -2474,3 +2478,348 @@ For the distinct Franconia taking-accrual question, June 10, 2002, No. 01-455, s
 **Operative remedy or transition:** Affirm denial of compulsion under this clause. The underlying contract action may proceed in the proper judicial forum; no contract liability, damages, rewritten arbitration term or invalidation of unrelated obligations follows. Guaranty and other party-specific matters retain their own limits.
 
 **Treatment of earlier authority:** Casarotto is applied to equal treatment and a proved general defense; First Options preserves the antecedent judicial inquiry; Green Tree is distinguished at its particular statutory-access and undeveloped-cost setting.
+
+
+### Allocation of procedural time limits in agreed arbitration
+
+#### Howsam v. Dean Witter Reynolds, Inc., 537 U.S. 79
+
+**Docket or dockets:** No. 01-800.
+**Decided:** December 10, 2002.
+
+##### Arbitrators ordinarily decide procedural time requirements within agreed arbitration
+
+**Holding:** Unless the parties provide otherwise, an arbitrator decides a forum time-limit rule governing a dispute the parties agreed to arbitrate. NASD Rule 10304's six-year requirement is such a procedural condition, and Rule 10324's assignment of Code interpretation to the arbitrators reinforces that allocation here.
+
+**Proposition-level authority:** The opinion of the Court by Breyer has seven direct supporters: Stone-Zsela, Stevens, Scalia, Kennedy, Souter, Ginsburg and Breyer, including its author. Thomas supports reversal on a separate state-law ground.
+
+**Limits and questions not reached:** Whether a party agreed to arbitrate and whether an accepted clause covers a type of controversy remain ordinarily judicial questions absent clear delegation. An actual contrary allocation controls procedural issues as well. The general New York construction-and-enforcement clause establishes no contrary allocation here. Rule 10304 does not extend applicable statutes of limitations and does not apply when a court directs arbitration. No universal rule about incorporation and foundational consent is adopted.
+
+**Operative remedy or transition:** Reverse and remand, 8–0, for NASD arbitration of the six-year objection and properly submitted claims. O'Connor did not participate. Timeliness, concealment, tolling and investment merits are not decided; Thomas agrees in judgment only on the selected state-law and contract ground.
+
+**Treatment of earlier authority:**
+
+- First Options of Chicago, Inc. v. Kaplan: preserves the judicial inquiry into actual assent and clear delegation; the present decision distinguishes procedural administration within concededly agreed arbitration.
+- John Wiley & Sons, Inc. v. Livingston: applies its treatment of procedural prerequisites arising from an agreed controversy.
+- Moses H. Cone Memorial Hospital v. Mercury Construction Corp.: applies its recognition of arbitral resolution of procedural defenses such as waiver and delay.
+- Mastrobuono v. Shearson Lehman Hutton, Inc.: applies integrated contract interpretation without treating a general choice-of-law provision as an automatic negation of the arbitration agreement.
+- Volt Information Sciences, Inc. v. Board of Trustees: preserves actual contractual selection of state arbitration rules; the decision supplies no federal authority to disregard an express contrary allocation.
+
+### Acquisition and related predicates in clinic-obstruction RICO claims
+
+#### Scheidler v. National Organization for Women, Inc., 537 U.S. 393
+
+**Docket or dockets:** Nos. 01-1118 and 01-1119, consolidated Scheidler and Operation Rescue matters.
+**Decided:** February 26, 2003.
+
+For removal of the dependent treble damages and nationwide injunction in this decision, February 26, 2003, Nos. 01-1118 and 01-1119, see Federal Courts: Immunities and Remedies — Scheidler v. National Organization for Women, Inc.
+
+##### Whether coerced business inactivity supplies the obtaining element of extortion
+
+**Holding:** Hobbs Act extortion through wrongful force, violence or fear requires obtaining another's property, not merely coercing the owner to stop exercising it; attempted extortion must likewise seek the required acquisition. Intangible property, temporary acquisition and noncommercial use can qualify without profit or formal title, but the clinic-shutdown and service-interference theory here identifies compelled inactivity rather than property acquired by defendants or another person.
+
+**Proposition-level authority:** Scalia's Part I, joined by Stone-Zsela, O'Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer; eight direct joins.
+
+**Material application:** The business-control theory identifies the clinics’ forced cessation of services, rather than an appropriated interest used by defendants or another person. Civil plaintiffs retain the preponderance burden on each invoked predicate.
+
+**Limits and questions not reached:** Neither ideological motive nor the intangible character of property defeats otherwise proved extortion. Profit, permanent acquisition and formal title are unnecessary; deprivation alone is insufficient. A qualified concession concerning the mixed instruction does not repair the deficient acquisition theory.
+
+**Treatment of earlier authority:**
+
+- National Organization for Women, Inc. v. Scheidler, 510 U.S. 249, retains its no-economic-motive holding and independent element and remedy requirements; its pleading-stage decision did not establish acquisition at trial.
+- United States v. Enmons, 410 U.S. 396, preserves the distinction between coercion and extortion requiring property acquisition.
+- Carpenter v. United States, 484 U.S. 19, recognizes genuinely appropriated intangible business property and does not dispense with acquisition.
+
+##### Whether the state, travel and conspiracy predicates survive failure of the acquisition undertaking
+
+**Holding:** State extortion invoked as a RICO predicate must satisfy the generic obtaining-property requirement, and attempts or agreements directed only to the same nonacquisitive coercion do not cure that failure. The actual Travel Act and attempted-travel predicates, characterized as furthering this extortion undertaking, fall with it; a broader instructional list is not an adjudicated independent unlawful-activity basis.
+
+**Proposition-level authority:** Scalia's Part II, joined by the same eight Justices.
+
+**Material application:** The broader instruction mentioned arson and crimes of violence, but the actual Travel Act predicates furthered extortion. The instruction alone establishes no alternative unlawful activity. Bypassing separate conspiracy questions after Claim I liability supplies no independent affirmative verdict.
+
+**Treatment of earlier authority:**
+
+- United States v. Nardello, 393 U.S. 286, and Taylor v. United States, 495 U.S. 575, supply generic-category analysis rather than reliance on state labels.
+- Salinas v. United States (December 2, 1997) preserves the qualifying substantive object despite dispensing with personal commission of two predicate acts.
+
+##### Whether the four violence findings independently establish Hobbs Act predicates
+
+**Holding:** Section 1951(a)'s physical-violence language requires violence or threats in furtherance of a plan or purpose to violate the section through robbery or extortion, including its inchoate forms; it does not independently federalize every act of violence affecting commerce. The four findings under interrogatory 4(e) cannot sustain this RICO judgment as freestanding Hobbs offenses after the extortion undertaking fails, and no distinct robbery undertaking is established here.
+
+**Proposition-level authority:** Scalia's Part III, joined by O'Connor, Kennedy, Souter, Thomas, Ginsburg, and Breyer; seven direct joins. Stone-Zsela supports the disposition on this component without joining its rationale.
+
+**Limits and questions not reached:** The physical-violence instruction omitted the required connection to a robbery or extortion plan. Combined verdict answers on pattern, commerce, causation and damages do not segregate the four incidents into an independently sustainable recovery; the finding of conduct beyond blockades or sit-ins concerned extortion interrogatories.
+
+### Actual dilution of famous marks under the 1995 statute
+
+#### Moseley v. V Secret Catalogue, Inc., 537 U.S. 418
+
+**Docket or dockets:** No. 01-1015.
+**Decided:** March 4, 2003.
+
+##### Whether the 1995 federal dilution statute requires actual impairment and whether this proof suffices
+
+**Holding:** The operative Federal Trademark Dilution Act requires actual lessening of a famous mark's capacity to identify and distinguish goods or services, proved by a preponderance; a claimant seeking summary judgment must establish that injury without a genuine material dispute. Reliable direct or circumstantial evidence may suffice without lost sales, a mandatory survey or identical marks, but fame, mental association and offense directed at the junior seller do not themselves establish the required impairment.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion; all nine Justices join the rule, record application and remedy.
+
+**Material application:** The officer recognized Victoria’s Secret and directed his offense at the junior store; the expert’s general brand discussion did not connect the junior use to reduced identifying capacity. The proof therefore fails the claimant’s summary-judgment burden.
+
+**Limits and questions not reached:** The 1995 Act governs. Actual dilution need not await destruction of the mark or subsequent economic loss. Nonidentical marks may dilute, but identity alone does not create liability. The complete taxonomy of tarnishment is unnecessary to this evidentiary disposition.
+
+**Operative remedy or transition:** Reverse dilution summary judgment and vacate the dependent injunction. Further proceedings may assess otherwise proper evidence under actual lessening and ordinary proof rules; any later injunction must fit proved diluting use. The rejected infringement claim remains undisturbed.
+
+**Treatment of earlier authority:**
+
+- Qualitex Co. v. Jacobson Products Co. (March 28, 1995) supplies source identification within statutory boundaries but does not establish dilution or replace its distinct injury element.
+- Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205, and TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23, retain their distinct acquired-significance and functionality requirements. Their protection of source-related interests supplies no exemption from proof under this separate cause of action.
+
+### Express patent disclosure of unclaimed substitutes
+
+#### Johnson & Johnston Associates Inc. v. R.E. Service Co., Inc., 285 F.3d 1046 (judgment below)
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 285 F.3d 1046 (en banc); Patent No. 5,153,050, claims 1 and 2.
+
+**Decided:** March 5, 2003.
+
+##### An expressly identified but unclaimed substitute cannot be recaptured
+
+**Holding:** When a patent specification expressly identifies a particular alternative to a claimed component and the issued claims omit that alternative, the patentee may not recover that substitute through equivalents under those claims. The party invoking the bar must identify the disclosure and omission in the public patent; their legal effect is for the court, without a requirement of subjective surrender, a competitor's actual reliance or separate patentability of the substitute.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous.
+
+**Material application:** The specification expressly identifies steel, the issued claims select aluminum, and the accused products use steel. Accepted factual equivalence does not overcome this legal boundary.
+
+**Limits and questions not reached:** Foreseeability alone does not trigger the bar; useful disclosure is not generally forfeiture. Amendment-based Festo surrender retains its separate trigger, explanatory burden and rebuttable scope. Rights under separate continuation patents and the earlier settled litigation are not adjudicated.
+
+**Operative remedy or transition:** The Federal Circuit’s noninfringement judgment is affirmed. The dependent willfulness determination, damages, fees and expenses remain removed. The rule governs this open judgment and cases open on direct review under ordinary transition rules.
+
+**Treatment of earlier authority:** Markman and Vitronics place legal determination of the coherent public patent with the court while preserving remaining factual infringement questions. Warner-Jenkinson's element-specific equivalents doctrine continues subject to this new express-disclosure boundary. Festo concerns actual patentability-related narrowing, not this distinct omission. Graver Tank survives because its earlier broader issued claims encompassed the accused material before invalidation. Miller and Mahn supply the reissue setting's public-notice role of claims.
+
+### Arbitration and uncertain federal-remedy restrictions
+
+#### PacifiCare Health Systems, Inc. v. Book, 538 U.S. 401
+
+**Docket or dockets:** No. 02-215.
+**Decided:** April 7, 2003.
+
+##### Arbitral construction of the disputed remedial restrictions
+
+**Holding:** When an agreed arbitral forum has not construed ambiguous restrictions on punitive or extracontractual damages, a court may not refuse to compel arbitration of RICO claims solely on an assumed construction excluding the statutory treble remedy. The arbitrator initially construes these remedial terms; a concrete statutory conflict may be challenged through an independently authorized route on that route's own predicates.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven rationale votes. Stone-Zsela concurs in the judgment only. Thomas does not participate.
+
+**Material application:** RICO trebling has remedial and deterrent functions, so a punitive-damages label alone does not establish its exclusion. The distinct extracontractual restrictions also require interpretation in their contractual context.
+
+**Limits and questions not reached:** The enforceability of a demonstrated elimination of an essential federal remedy remains open. Actual agreement, scope and valid delegation retain their independent requirements; uncertain remedial construction establishes no general delegation of enforceability questions. No award or definitive disabling construction is presented.
+
+**Operative remedy or transition:** Reverse the refusal to compel, 8–0, and remand for arbitration under the actual agreements. Any concrete statutory objection requires its own authorized review route and predicates; neither guaranteed relief nor universal RICO award-review jurisdiction is created.
+
+**Treatment of earlier authority:** Mastrobuono supplies contextual interpretation; Vimar supplies the distinction between a predicted and an established statutory conflict without transplanting its COGSA retained-action remedy. First Options preserves antecedent agreement protection. Howsam remains specific to forum timing. Green Tree concerns a distinct financial obstacle to access, and Specht preserves actual assent and scope.
+
+### Copyright in original visual arrangements of familiar elements
+
+#### Boisson v. Banian, Ltd., 273 F.3d 262 (judgment below)
+
+**Docket or dockets:** No Supreme Court or lower-court docket is supplied; judgment below reported at 273 F.3d 262.
+**Decided:** April 7, 2003.
+
+##### Originality in an arrangement of familiar material
+
+**Holding:** An independently created selection, coordination or arrangement of familiar elements is protected to the extent of its original contribution when it possesses at least minimal creativity, without any novelty requirement or ownership of the alphabet, isolated colors, familiar symbols or generic formats. A certificate of registration completed before or within five years after first publication supplies rebuttable initial evidence of validity and its stated facts; a later certificate receives the weight the court assigns.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, unanimous.
+
+**Material application:** Block layout, the relationships among letter and background colors, quilting, icons and borders may supply original coordination. Earlier alphabet quilts establish neither copying nor the absence of creativity; originality findings retain clear-error review.
+
+**Limits and questions not reached:** No individual letter-shape copyright is decided because the required originality finding is absent. Registration does not protect common constituents.
+
+**Treatment of earlier authority:** Feist supplies independent creation and minimal creativity limited to the original contribution. ProCD preserves the boundary between common material and protected or undertaken rights. Lotus supplies no controlling categorical exclusion, and Eldred preserves originality and access to ideas and common material.
+
+##### Substantial similarity of the protected relationships
+
+**Holding:** In a visual arrangement containing protected and common elements, actionable similarity requires copying of the original selection and relationships viewed together, rather than similarity attributable only to shared ideas or common material. The claimant must prove infringement by a preponderance of the evidence; established actual copying does not alone prove copying of protected expression.
+
+**Proposition-level authority:** O'Connor's opinion of the Court, unanimous.
+
+**Material application:** ABC Green I and II infringe School Days I by preserving its protected letter/background pattern, layout and quilting despite changes to icons or borders. ABC Navy differs in palette, placement, quilting and edging; School Days II differs in layout and framing. These four remaining comparisons do not infringe.
+
+**Operative remedy or transition:** Affirm the two infringement and four noninfringement determinations. The limited remand concerns remedies for School Days I; the star-design dismissal and unappealed noncopyright dispositions remain closed.
+
+**Treatment of earlier authority:** Feist governs comparison of original relationships as a whole without granting ownership of common elements or dissolving the protected coordination into isolated ingredients.
+
+For the single-work statutory-damages unit and the injunction, jury and fee conditions, see Boisson, decided April 7, 2003, judgment below 273 F.3d 262, under Federal Courts: Immunities and Remedies.
+
+### Electronic assent, integrated scope and nonsignatory arbitration
+
+#### Specht v. Netscape Communications Corp.
+
+**Docket or dockets:** Judgment below, 306 F.3d 17; three separate actions with consolidated appeals. No docket number is supplied.
+**Decided:** 2003-03-31.
+
+For Specht’s FAA §4 formation-trial ruling, decided March 31, 2003, judgment below 306 F.3d 17, see Federal Courts.
+
+##### Whether the SmartDownload invitation supplied notice of contractual acceptance
+
+**Holding:** Downloading software does not accept license terms unless the user has actual or reasonable notice that the invited act manifests agreement to those terms. California's ordinary objective-assent rules apply to electronic transactions and to arbitration terms on the same basis as other contractual terms; the developed record establishes neither the requisite SmartDownload notice nor assent for these five users.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** The record accounts for differing screens and the five users' actual download routes, including Fagan's third-party route. It shows no actual or reasonably conspicuous connection between download and assent. An informed user's failure to read already noticed terms presents a different case.
+
+**Limits and questions not reached:** No prescribed button or arbitration-specific prominence rule follows. Ordinary common-law formation and Article 2 both require assent and yield the same result here.
+
+**Treatment of earlier authority:** First Options and Howsam preserve judicial determination of antecedent consent absent established delegation. Casarotto allows evenhanded formation law without arbitration-specific disability. ProCD is distinguished because its advance notice, meaningful review, practical rejection and objective acceptance predicates were present.
+
+##### Whether the accepted Communicator license covers distinct SmartDownload surveillance
+
+**Holding:** The accepted Communicator license's agreement-related arbitration clause does not encompass these claims of separate SmartDownload surveillance, which invoke no right or obligation under that integrated browser agreement. Technical cooperation between programs does not itself incorporate one program into another's contract.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** The integrated license names Communicator and Navigator alongside separate SmartDownload terms. The claims invoke no browser-contract right or duty and attribute the challenged transmissions to SmartDownload; the browser cookie is alleged to be independently innocuous. Neither technical cooperation nor a scope presumption supplies the missing contractual connection.
+
+**Treatment of earlier authority:** Mastrobuono requires integrated-contract interpretation with genuine limits. First Options and Howsam leave ordinary substantive scope to courts absent clear delegation, distinct from procedural timing inside agreed arbitration.
+
+##### Whether speculative visitor benefits bind Specht as a nonsignatory
+
+**Holding:** An incidental or speculative commercial advantage from visitors' software use does not establish the direct contractual benefit asserted as a basis to bind a nonuser to their license's arbitration clause. The proponent must establish a predicate agreement and an applicable contractual or equitable relationship binding that particular person; Netscape has not done so for Specht.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Material application:** Specht never acquired SmartDownload and claims no promised license performance. The five users formed no predicate agreement; hypothesized contracts with other visitors do not make possible improved downloads, subscriptions and disputed commissions a direct contractual benefit.
+
+**Operative remedy or transition:** Denial of arbitration and a stay is affirmed for all six plaintiffs; the statutory actions may proceed under ordinary procedure.
+
+**Treatment of earlier authority:** First Options requires a person-specific obligation and ProCD enforces an actual undertaking. Tencara Shipyard and Deloitte Noraudit's concrete direct-benefit examples are distinguished from the speculative advantage asserted here.
+
+### Interstate business restructuring and arbitration coverage
+
+#### Citizens Bank v. Alafabco, Inc., 539 U.S. 52
+
+**Docket or dockets:** No. 02-1295.
+**Decided:** June 2, 2003.
+
+##### Whether restructuring actual multistate business debt satisfies FAA commerce coverage
+
+**Holding:** Under FAA §2, restructuring debt that is demonstrably integrated into an enterprise's multistate operations involves commerce; the proponent need not prove a separate substantial interstate effect for every refinancing document. The real operational connection must be established before the magnitude of effects may be assessed by aggregation.
+
+**Proposition-level authority:** Per curiam opinion, unanimous; precedential summary application.
+
+**Material application:** The restructured loans financed projects in several States, with interstate-connected business collateral corroborating the relationship. Alabama residence and local execution did not negate that connection. General statements about banking's national importance or an isolated object's past interstate travel would not alone establish a missing operational link.
+
+**Operative remedy or transition:** Reverse Alabama's contrary commerce ruling and remand the arbitration request for application of the actual agreements and preserved independent grounds.
+
+**Treatment of earlier authority:** Allied-Bruce supplies coverage based on actual commercial operations rather than contemplated commerce or execution location. Lopez requires connection before magnitude but not separate substantiality for each transaction in a genuinely connected economic class.
+
+##### What enforcement and decisionmaker inquiries remain after the commerce obstacle is removed
+
+**Holding:** FAA commerce coverage leaves enforcement dependent on the actual agreement, the parties and claims within its lawful reach, and preserved generally applicable defenses. Courts decide foundational assent and ordinary substantive scope unless the requisite clear delegation exists; a genuine forum time requirement within agreed arbitration presumptively belongs to the arbitrator unless the parties assigned it differently.
+
+**Proposition-level authority:** The same unanimous per curiam opinion applies the existing agreement and decisionmaker rules.
+
+**Limits and questions not reached:** Corporate assent does not itself establish an officer's personal assent. Each actual defense retains its applicable burden and ordinary preservation and evidence rules; coverage does not compel arbitration of every claim by every person.
+
+**Operative remedy or transition:** Identify the agreement, any actual delegation, the remaining preserved issues and their proper decisionmakers; then order enforcement only to the established lawful extent, or deny it on a supported independent ground, identifying the affected parties, claims and basis.
+
+**Treatment of earlier authority:** Southland and Perry retain state-court enforcement while disallowing arbitration-specific judicial-forum exceptions. Casarotto preserves ordinary contract defenses and procedural limits. First Options requires individual assent and clear and unmistakable delegation. Howsam governs genuine procedural timing within agreed arbitration and supplies neither consent nor a commerce connection.
+
+### Tangible-goods origin and omitted creative attribution
+
+#### Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23
+
+**Docket or dockets:** No. 02-428.
+**Decided:** June 2, 2003.
+
+##### Tangible goods origin rather than authorship under Lanham Act section 43(a)(1)(A)
+
+**Holding:** For a goods-origin claim under §43(a)(1)(A), even when the product communicates expression, origin identifies the producer of the tangible merchandise rather than the creators of incorporated expression. Omission of creative credit does not alone establish false designation and likely confusion about a protected source, affiliation, connection, association, sponsorship or approval.
+
+**Proposition-level authority:** Opinion of the Court (Scalia), unanimous among eight participants; Breyer takes no part.
+
+**Material application:** Dastar produced its own edited video sets from a public-domain series rather than relabeling respondents' finished tapes. Calling itself producer therefore did not misidentify the tangible goods, and the copying alone could not sustain the adjudicated attribution theory.
+
+**Limits and questions not reached:** Relabeling another producer's finished goods and genuine sponsorship or approval confusion remain subject to the statute's actual elements. Section 43(a)(1)(B) separately covers commercial-advertising or promotional misrepresentations about nature, characteristics, qualities or geographic origin and requires its own pleaded, proved and procedurally available claim. The underlying book-copyright issues, including work-for-hire and renewal, are outside the grant; the series' public-domain status does not determine them.
+
+**Operative remedy or transition:** The federal attribution liability is reversed. Removal of dependent profits and treatment of independent claims are recorded in Federal Courts: Immunities and Remedies, Dastar, No. 02-428, decided June 2, 2003.
+
+**Treatment of earlier authority:** Wal-Mart, Two Pesos and Qualitex protect qualifying source identification under their separate requirements, not every incorporated feature or expressive contribution. Sears, Compco and Bonito Boats distinguish genuine source-deception protection from recreating intellectual-property exclusivity; that reasoning forecloses an unlimited authorship-credit obligation without displacing independent copyright rights.
+
+
+
+### Mortgage-broker premiums and unlawful referral payments
+
+#### Heimmermann v. First Union Mortgage Corp. — mortgage-broker premiums and unlawful referral payments
+
+**Docket or dockets:** Review of 305 F.3d 1257 (Eleventh Circuit); no Supreme Court docket is supplied.
+**Decided:** June 16, 2003.
+
+##### RESPA distinguishes purchased referrals from bona fide compensation
+
+**Holding:** Under 12 U.S.C. §2607(a) and (c)(2), a rate-sheet yield-spread premium and missing itemized service linkage do not alone conclusively prove a purchased referral. Bona fide compensation for actual goods, facilities or services remains protected, but performing legitimate work or receiving reasonable aggregate compensation does not legalize a payment actually purchasing a referral.
+
+**Proposition-level authority:** Thomas's Part III, unanimous; this independent statutory ground sustains the judgment apart from Parts I–II.
+
+**Limits and questions not reached:** Actual work and reasonable aggregate service compensation remain relevant without legalizing an actual purchased referral. This independent construction does not make every detail of HUD’s administrative implementation the only interpretation the statute permits; the separate eight-Justice administrative holdings appear in Administrative Law.
+
+**Treatment of earlier authority:** The statutory referral prohibition and compensation allowance are independently construed; HUD’s service-and-value implementation may not erase either command.
+
+### Class-arbitration interpretation and independent contractual authority
+
+#### Green Tree Financial Corp. v. Bazzle, 539 U.S. 444
+
+**Docket or dockets:** No. 02-634.
+**Decided:** June 23, 2003.
+**Companion or consolidated matters:** The review includes the Bazzle and Lackey/Buggs class-arbitration proceedings.
+
+##### Allocation of class-procedure interpretation within an accepted broad arbitration agreement
+
+**Holding:** When the underlying dispute falls within an accepted broad arbitration agreement, the arbitrator ordinarily interprets whether the integrated bargain permits class proceedings, unless the parties assign that issue elsewhere. Genuinely disputed foundational assent and ordinary substantive coverage remain for independent judicial decision absent clear and unmistakable delegation. The party invoking arbitration must establish the agreement, and the party seeking aggregation must identify contractual authorization under neutral governing law; silence creates neither special permission nor a universal prohibition.
+
+**Proposition-level authority:** Scalia's opinion of the Court, joined in full by Stone-Zsela, Souter, Ginsburg and Breyer; the same five support all three holdings in this entry.
+
+**Material application:** Broad submission language must be read with the defined parties, personal selection terms, remedial powers and retained lender remedies. Singular selection language does not conclusively decide the disputed class-procedure construction. The lender's retained litigation option for specified security enforcement, secured monetary obligations and foreclosure remains effective, without waiving other covered arbitration, but does not assign this borrower class question to court.
+
+**Limits and questions not reached:** The allocation does not establish an absent person's consent or the notice and adequate representation necessary to bind that person. The separate absent-class-member constitutional theory was not preserved and is not decided.
+
+**Treatment of earlier authority:** First Options retains judicial treatment of actual assent and genuine arbitrability; Howsam's procedural allocation is extended to class-procedure interpretation within these broad accepted submissions. Volt preserves actual contrary allocations. Mastrobuono requires integrated interpretation and respects genuine contractual restrictions. Specht preserves person-specific agreement and nonsignatory requirements. PacifiCare supplies a distinct example of initial arbitral construction, not class authorization. Allied-Bruce retains state-court enforcement, and Citizens Bank retains the separation of FAA commercial coverage from consent to the arbitration sought.
+
+##### Independent interpretation is required in both proceedings before the awards may be sustained
+
+**Holding:** Neither class award may rest on an earlier judicial construction when the record fails reliably to establish that the arbitrator independently decided the class-procedure question assigned to arbitration. Both proceedings must return for independent interpretation rather than an assumed arbitral decision or this Court's substituted contract interpretation.
+
+**Proposition-level authority:** The same five-Justice Court opinion.
+
+**Material application:** Judicial certification preceded Bazzle's arbitration; the later Lackey arbitral certification may also have relied on the related judicial ruling. Their differing sequences and use of the same arbitrator do not establish independence.
+
+**Operative remedy or transition:** The judgment sustaining both awards is vacated. Subject to judicial resolution of genuinely disputed foundational assent or coverage, the court must refer the question to the agreed arbitrator, who must identify a contractual basis for permitting or rejecting aggregation and address the different certification histories without treating the displaced judicial class ruling as controlling.
+
+##### Statutory review of the renewed award preserves the actual contractual submission
+
+**Holding:** A renewed award is subject to the FAA's applicable confirmation and vacatur provisions. A §10(a)(4) challenge requires comparison with the actual contractual submission to determine excess of authority; disagreement with the arbitrator's interpretation does not permit a merits rehearing. A failure to perform the required independent task must likewise be connected to an available statutory ground.
+
+**Proposition-level authority:** The same five-Justice Court opinion.
+
+**Limits and questions not reached:** The remand does not create a universal duty for arbitrators to write opinions or an additional review ground. It governs these awards and nonfinal proceedings presenting the same allocation question; statutory grounds, deadlines and finality continue to govern existing final awards.
+
+**Treatment of earlier authority:** First Options preserves the difference between independent judicial determination of foundational assent and limited review of an entrusted issue. Mastrobuono protects real contractual limits without converting every asserted interpretive mistake into excess of power.
+
+### Consistent patent scope in infringement and prior-art analysis
+
+#### Amazon.com, Inc. v. Barnesandnoble.com, Inc. — claim scope and prior art
+
+**Docket or dockets:** Federal Circuit No. 00-1109; no separate Supreme Court docket supplied. Review of 239 F.3d 1343 (Fed. Cir. 2001).
+**Decided:** June 30, 2003.
+
+##### Whether infringement and validity may employ inconsistent constructions of the same patent claim
+
+**Holding:** Likely infringement and likely survival of a validity challenge must be assessed using the same claim under a consistent, legally justified construction. Anticipation requires one qualifying reference disclosing every limitation; obviousness addresses the invention as a whole at the relevant invention time from an ordinarily skilled artisan's perspective, with a demonstrated nexus between objective evidence and the claimed invention.
+
+**Proposition-level authority:** Opinion of the Court (Souter), unanimous.
+
+**Limits and questions not reached:** Technical teachings and the skilled artisan's understanding require supported factual assessment. An expert's personal failure to conceive a modification does not resolve obviousness, and copying or commercial success without the required nexus does not answer a validity challenge. The decision does not convert all technical questions into claim construction or finally invalidate the patent.
+
+**Treatment of earlier authority:** Markman v. Westview Instruments, Inc., 517 U.S. 370, supplies judicial determination of public claim meaning while retaining the distinct factual inquiry. Vitronics Corp. v. Conceptronic, Inc., May 27, 1997, supplies construction from the whole public instrument and the explanatory role of technical evidence; preferred commercial embodiments cannot replace established claim meaning. Both allocations remain unchanged.
+
+For Amazon.com, June 30, 2003, Federal Circuit No. 00-1109, on the preliminary validity burden, application and injunction vacatur, see Federal Courts: Immunities and Remedies — Amazon.com, Inc. v. Barnesandnoble.com, Inc. — preliminary patent relief.

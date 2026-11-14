@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Criminal Procedure: Search, Seizure and Interrogation
 
@@ -2387,3 +2387,251 @@ For immediate appellate review of the hearing denial in United States v. Farmer,
 **Operative remedy or transition:** Affirm the rejection of the challenged nonathletic expansion, 5–4, with declaratory and appropriate prospective relief; no damages award, independent disclosure judgment or compulsory trial follows.
 
 **Treatment of earlier authority:** Vernonia’s textually possible confidential prescription method was not a finding of actual practice. Its facial/actual distinction and ordinary summary-judgment treatment of supported implementation evidence remain. Knights, Arvizu, Drayton and Leventhal supply no general school-search exception or extracurricular waiver.
+
+
+### Scope of interview consent and intimate child-protection searches
+
+#### Roe v. Texas Department of Protective and Regulatory Services, 299 F.3d 395
+
+**Docket or dockets:** Fifth Circuit No. 01-50711; no Supreme Court docket supplied.
+**Decided:** 2003-06-02.
+
+##### Whether a voluntarily arranged home interview authorizes the agreed entry
+
+**Holding:** An objectively understood, voluntarily arranged home interview permits the identified worker to enter for that interview when she arrives as agreed, absent withdrawal or an expressed limitation. The absence of a renewed express doorstep invitation does not revoke that antecedent permission, but the interview agreement does not authorize intimate bodily examination or photography.
+
+**Proposition-level authority:** Stone-Zsela's Part I, unanimous.
+
+**Material application:** The mother's prior home appointment with the identified worker supplies affirmative interview authorization on her own account; the rule does not infer consent from doorstep silence. It grants no permission for intimate examination or photography.
+
+**Treatment of earlier authority:** Schneckloth requires voluntary consent; Robinette considers circumstances rather than a mandatory formula. Johnson v. Jones and Behrens permit legal evaluation of the accepted account without a credibility choice.
+
+##### What authorizes the nonurgent intimate examination and photography of the child
+
+**Holding:** A nonemergency investigative visual examination and photography of a child's genital and anal areas in these circumstances requires voluntary consent or appropriate judicial authorization supported by probable cause; genuine exigency is an independent exception. The claimant must establish the governmental search, and the official must substantiate consent or another invoked exception; cooperation with official directions does not conclusively establish voluntary consent.
+
+**Proposition-level authority:** Stone-Zsela's opinion of the Court, joined by Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer; seven Justices. Part II controls; Scalia and Thomas do not reach the merits.
+
+**Material application:** The accepted account concerns intimate exposure, manipulation and photography by a worker without relevant photography training, without claimed urgency or probable cause and with a medical-examination route available. Directed cooperation in undressing and positioning, together with questions about necessity and counsel, distress and lack of advance scope explanation, permits a finding of submission rather than voluntary consent.
+
+**Limits and questions not reached:** The rule addresses this operation, not every protective inquiry. Reporting duties or possible police contact do not categorically defeat special needs, and no coordinated prosecution program, child-removal threat or mandatory consent-warning formula is found. Actual consent remains for ordinary proceedings.
+
+**Treatment of earlier authority:** Ferguson requires assessment of actual operation and Chandler requires demonstrated need. Griffin and Vernonia retain their justified protective settings. Good applies the Fourth Amendment to child investigation; Darryl H. retains scope and necessity limits despite a different approach. Schneckloth and Robinette require actual voluntary consent. Conduct-date immunity appears under Federal Courts: Immunities and Remedies, Roe v. Texas Department of Protective and Regulatory Services, Fifth Circuit No. 01-50711, June 2, 2003.
+
+### Anonymous contemporaneous dangerous-driving reports
+
+#### United States v. Wheat, 278 F.3d 722 (judgment below)
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 278 F.3d 722.
+
+**Decided:** March 5, 2003.
+
+##### The accusation must be reliable under the whole pre-stop circumstances
+
+**Holding:** An investigative stop requires objective, particularized reasonable suspicion from the total circumstances known before the seizure, including adequate reliability concerning the alleged wrongdoing rather than target identification alone. Predictive corroboration is one possible assurance, not a universal requirement; danger does not replace adequate grounds, and later discoveries cannot justify beginning the stop.
+
+**Proposition-level authority:** Part I of Breyer's opinion, unanimous.
+
+**Material application:** Ultimate constitutional sufficiency receives independent appellate review; historical facts and genuinely factual inferences receive clear-error protection, with due weight to grounded contextual experience. The officer's ultimate conclusion receives no presumption of correctness.
+
+**Limits and questions not reached:** The anonymous emergency-number channel does not itself establish traceability or accountability. Later nervousness, consent and cocaine cannot justify the stop’s inception.
+
+**Treatment of earlier authority:** Terry requires articulable grounds; J. L. requires reliability about wrongdoing and rejects an ordinary-danger shortcut. White treats prediction as a sufficient method rather than a universal format. Wardlow and Arvizu require supported totality analysis, and Ornelas supplies the review allocation.
+
+##### This detailed contemporaneous account sufficiently supported the limited stop
+
+**Holding:** The specific report of wrong-side passing and cutting off vehicles, its apparent contemporaneous observation of a moving car, the qualified model description, color, plate prefix, route and direction, and the officer's prompt moving-vehicle match together supplied reasonable suspicion for a brief stop to investigate the reported driving. The account's detail and temporal connection supported the wrongdoing allegation, so the officer need not first observe another dangerous maneuver.
+
+**Proposition-level authority:** Part II of Breyer's opinion, joined by O'Connor, Scalia, Kennedy and Thomas: five direct joins.
+
+**Material application:** The caller described specific maneuvers, a tan or cream Nissan Stanza or similar car, a WOC plate prefix and its northbound route. The prompt match to a moving tan Nissan Maxima supported apparent contemporaneous observation; the qualified model description did not establish false identification. Possible fabrication remained relevant but did not defeat this combination’s sufficiency.
+
+**Limits and questions not reached:** The holding authorizes only the initial brief investigative stop on this supported combination; it creates no automatic driving-danger or emergency-call exception. Later detention, consent-search scope and independent sentencing questions lie outside review.
+
+**Operative remedy or transition:** The Eighth Circuit judgment is affirmed against the initial-stop challenge, 5–4; the conviction survives that challenge.
+
+**Treatment of earlier authority:** J. L.'s unsupported concealed-possession accusation is distinguished by the temporal and moving-episode connection here. Valentine preserves the difference between identifying a target or possession and reliable grounds for unlawful conduct; the reported maneuvers themselves describe wrongdoing.
+
+### Provider retrieval in executing a stored-communications warrant
+
+#### United States v. Bach, 310 F.3d 1063 (judgment below)
+
+**Docket or dockets:** No Supreme Court docket supplied; review of 310 F.3d 1063.
+
+**Decided:** March 5, 2003.
+
+##### Technically necessary provider retrieval under a particular warrant
+
+**Holding:** The Fourth Amendment permits a provider to retrieve specified stored communications from its own systems under a particular judicial warrant without an officer's physical presence when the provider performs the technically necessary retrieval without unauthorized investigative discretion. A court must identify the authorized content search and actual retrieval method; an officer's absence alone does not make that execution unreasonable.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Limits and questions not reached:** Bach's protected communications interest and adequate content-search authority are assumed. Provider custody does not itself authorize inspection. Section 3105's officer-presence condition does not govern this state-issued warrant merely because evidence is offered federally; a state execution restriction creates no constitutional suppression right without an applicable federal exclusion ground.
+
+**Operative remedy or transition:** Affirmance of the Eighth Circuit's reversal of suppression on the physical-presence ground. Before evidentiary use, independently preserved authorization, scope and statutory suppression claims must be adjudicated under their own governing law and facts. The warrant's account and content limits remain binding; the separate home-search ruling is undisturbed.
+
+**Treatment of earlier authority:** Ortiz and Hurtado distinguish information retrieval from container seizure and confine their arrest exception to its on-person setting. Guest preserves account-specific confidentiality despite limited entrustment. Ayeni's prohibition of an unrelated private home audience does not exclude genuine technical execution assistance; its distinct statutory requirements remain intact.
+
+### Compelled home removal and confession attenuation
+
+#### Kaupp v. Texas, 538 U.S. 626
+
+**Docket or dockets:** No. 02-5636; Texas appellate No. 14-00-00128-CR.
+**Decided:** 2003-05-05.
+
+##### The nighttime compelled removal was an arrest
+
+**Holding:** An encounter is a seizure when the complete circumstances communicate that a reasonable person could not decline the officers' request or terminate the encounter. The coordinated nighttime removal of Kaupp from his bedroom in handcuffs, underwear and bare feet for station-house interrogation was an arrest rather than voluntary cooperation; Texas's conceded absence of probable cause makes that arrest unlawful.
+
+**Proposition-level authority:** Per curiam opinion, unanimous.
+
+**Material application:** Brief assent and nonresistance to several officers during the coordinated 3 a.m. bedroom removal show submission under the whole circumstances. The father’s entry permission did not authorize arrest; routine handcuffing and later restraint removal did not create consent.
+
+**Treatment of earlier authority:** Mendenhall and Bostick supply the objective whole-encounter test. Dunaway and Hayes govern compulsory station-house investigation. Robinette preserves the distinct questions of voluntary cooperation and unlawful restraint.
+
+##### Texas must establish a genuine causal break before using the resulting statement
+
+**Holding:** After an unlawful arrest and its causal connection to a statement are shown, the State bears the burden of establishing attenuation, considering temporal proximity, genuine intervening circumstances, the purpose and flagrancy of the unlawful conduct, and warnings. On the record presented Kaupp's statement must be suppressed; on remand Texas may identify already-available testimony not disclosed in the record before this Court only if it can carry that burden despite the continuous custody and planned interrogation shown here.
+
+**Proposition-level authority:** Per curiam opinion, unanimous.
+
+**Limits and questions not reached:** Warnings and voluntary speech do not independently dissipate Fourth Amendment taint. The discovery-site stop, removal of handcuffs and warnings were successive parts of the planned interrogation, not intervening events. The remand presumes no additional testimony and authorizes no automatic reopening to create a causal break.
+
+**Operative remedy or transition:** Vacate and remand for the bounded existing-testimony inquiry. Unless Texas proves attenuation, exclude the statement. If a properly preserved harmless-error ground is available, Texas must show beyond a reasonable doubt on the actual trial record that admission did not contribute to the verdict; otherwise set aside the affected conviction for lawful further proceedings.
+
+**Treatment of earlier authority:** Brown and Dunaway govern the causal exclusion and burden. Robinette preserves attenuation as distinct from voluntariness. Dickerson preserves Miranda as a separate safeguard. Chapman supplies the direct-review harmless-error standard, concerned with the actual verdict rather than a hypothetical untainted prosecution.
+
+### Misdemeanor jail intake searches
+
+#### Nassau County v. Shain
+
+**Docket or dockets:** Judgment below, Shain v. Ellison, 273 F.3d 56. No Supreme Court docket is supplied.
+**Decided:** 2003-03-31.
+
+For Shain’s conduct-date immunity holdings and reviewed relief, decided March 31, 2003, judgment below 273 F.3d 56, see Federal Courts: Immunities and Remedies.
+
+##### Individual suspicion for the misdemeanor strip and visual body-cavity intake search
+
+**Holding:** A jail must have individualized reasonable suspicion that a misdemeanor-level detainee is concealing weapons or contraband before subjecting that person to the strip and visual body-cavity intake search at issue. The offense, actual personal characteristics, arrest circumstances and other properly available facts may establish that suspicion; admission to common custody or judicial remand alone does not justify this intensely intrusive practice.
+
+**Proposition-level authority:** Breyer's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter and Ginsburg; six direct votes. This proposition is Part I.
+
+**Material application:** Bell's balance gives substantial weight to genuine security needs but distinguishes this intimate intake search from a post-contact-visit search. The searching officer was not shown to have received pocketknife information or other individualized contraband facts. Judicial remand and the actual file information supplied no adequate suspicion; the proved policy and its application violated the Fourth Amendment.
+
+**Limits and questions not reached:** The holding concerns the specified strip and visual search in its actual setting, scope and manner; institutional security remains part of the contextual balance.
+
+**Treatment of earlier authority:** Bell v. Wolfish's scope, manner, place and justification inquiry is applied; its contact-visit holding supplies no categorical justification for the blanket misdemeanor intake policy.
+
+### Subscriber records and exclusion after defective compulsory process
+
+#### United States v. Hambrick
+
+**Docket or dockets:** Judgment below, 225 F.3d 656 (table). No docket number is supplied.
+**Decided:** 2003-03-31.
+
+##### Restricted-account identifying records obtained through invalid process
+
+**Holding:** A subscriber’s limited entrustment of nonpublic identifying records to a restricted-account provider does not by itself eliminate a reasonable expectation of privacy. The claimant must establish a personal protected interest through his actual expectation and the account’s terms, exclusion and identifying functions and practices, together with the governmental acquisition; the categorical third-party dismissal here must be vacated for that inquiry.
+
+**Proposition-level authority:** Ginsburg's Part I is joined by Stone-Zsela, Stevens, Souter and Breyer; five direct votes.
+
+**Material application:** The production contained identity, address, telephone, payment and Internet-address fields, not message or file content. Provider possession, a noncontent label and confidentiality alone do not settle the actual protected relationship. Hambrick bears the proof burden; existing findings and ordinary procedural limits remain applicable.
+
+**Operative remedy or transition:** The categorical suppression ruling is vacated and remanded for the personal-interest inquiry and any necessary authorization, constitutional and causal determinations. The conditional-plea conviction is not automatically reversed; the withdrawn sentencing issue is outside review.
+
+**Treatment of earlier authority:** Guest v. Leis governs qualifying restricted-account identifiers and forbids categorical third-party dismissal; its damages-immunity holding does not decide exclusion. United States v. Miller retains its bank-record holding and Smith v. Maryland its dialed-number holding, subject to Guest's bar on automatic extension.
+
+##### Statutory disclosure violations and causal constitutional exclusion in Hambrick
+
+**Holding:** Under 18 U.S.C. §2708, the disclosure chapter’s specified remedies do not authorize the requested exclusion for a nonconstitutional statutory violation alone. A constitutional suppression claim requires a violation of Hambrick’s personal Fourth Amendment interest and the actual causal relationship to the evidence, subject to applicable preserved exclusion defenses; later process neither retroactively validates an unconstitutional acquisition nor automatically makes later evidence inadmissible.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, Part II, is directly joined by all nine Justices.
+
+**Material application:** The conceded invalid March 19, 1998 subpoena does not itself establish a personal constitutional violation. Later grand-jury process and the home warrant require examination of actual evidentiary origins and preserved exclusion defenses; a later valid signature alone proves neither independent source nor attenuation.
+
+**Operative remedy or transition:** Any exclusion and effect on the conditional plea follow the actual constitutional and causal determinations through ordinary criminal procedure.
+
+**Treatment of earlier authority:** United States v. Bach concerns technically necessary provider execution of an actual warrant and does not validate this subpoena. Konop v. Hawaiian Airlines preserves conduct-specific statutory classification and distinct statutory and constitutional claims.
+
+### Domestic interrogation, privilege precedent and independent executive abuse
+
+#### Chavez v. Martinez, 538 U.S. 760
+
+**Docket or dockets:** No. 01-1444.
+**Decided:** May 27, 2003.
+
+##### Whether Verdugo-Urquidez decided the domestic coercive-interrogation damages question
+
+**Holding:** Verdugo-Urquidez's comparison describing the privilege against self-incrimination as a trial right does not bind courts deciding whether domestic coercive questioning supports this civil claim. That passage remains persuasive material to be considered with the actual privilege authorities; the foreign-search holding remains intact.
+
+**Proposition-level authority:** Souter's opinion of the Court, Part I, unanimous.
+
+**Treatment of earlier authority:** United States v. Verdugo-Urquidez decided the Fourth Amendment's application to a foreign search of a nonresident alien's property, not domestic interrogation liability. The Court confines its precedential reach accordingly.
+
+##### Independent constitutional examination of allegedly abusive hospital interrogation
+
+**Holding:** Failure to prosecute or use a statement does not defeat an independently supported substantive-due-process claim challenging an officer's own interrogation methods. Whether the methods amount to conscience-shocking abuse requires assessment of the officer's actions, knowledge, time for deliberation, legitimate investigative demands and causal responsibility in the particular executive setting.
+
+**Proposition-level authority:** Souter's opinion of the Court, Part III, supported at this scope by Stone-Zsela, Stevens, Kennedy, Souter, Ginsburg and Breyer. Their agreement establishes the inquiry and remand, not the stronger liability conclusions in separate opinions.
+
+**Material application:** Legitimate urgent questioning of an injured witness differs from deliberately exploiting extreme suffering to overcome resistance. Continued treatment and an investigative purpose do not themselves settle the character of the methods used; exclusion-producing coercion does not itself prove a civil constitutional wrong.
+
+**Limits and questions not reached:** The Court does not finally adjudicate the independent claim's availability, scope or merits. Supported assumptions govern legal review; disputed historical facts remain for the proper forum.
+
+**Operative remedy or transition:** The due-process disposition is vacated and remanded for independent merits and conduct-date immunity analysis. The separate Fifth Amendment damages judgment and the personal-defense instruction are recorded in Federal Courts: Immunities and Remedies, Chavez, No. 01-1444, decided May 27, 2003.
+
+**Treatment of earlier authority:** County of Sacramento v. Lewis supplies a setting-dependent culpability inquiry; its rapid-pursuit purpose-to-harm requirement is not made universal. Rochin supplies the investigative-abuse boundary. Mincey supplies the hospital-statement exclusion rule without converting every involuntary statement into damages liability.
+
+
+
+### Weekend detention and prompt probable-cause review
+
+#### Alkire v. Irving, 330 F.3d 802 — warrantless delay
+
+**Docket or dockets:** Sixth Circuit No. 00-4567.
+**Decided:** June 26, 2003.
+
+##### Routine weekend practices do not excuse delayed review of warrantless custody
+
+**Holding:** Judicial probable-cause review within forty-eight hours of a warrantless arrest ordinarily is prompt, but an actually unreasonable delay remains actionable inside that period. After forty-eight hours the government must establish a genuine emergency or extraordinary circumstance; ordinary weekends, court schedules and administrative consolidation do not qualify.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous.
+
+**Material application:** The nearly seventy-two-hour Saturday-to-Tuesday detention and alleged next-session policy support the claim if the challenged interval was warrantless. The evidence did not conclusively establish that an outside warrant lawfully supported the whole interval, so its mere existence did not entitle defendants to judgment.
+
+**Limits and questions not reached:** Custody actually based on a valid warrant presents a different inquiry. Evidence gathering to justify arrest, ill will and delay for its own sake illustrate, without exhausting, unreasonable delay within forty-eight hours.
+
+**Operative remedy or transition:** Reinstatement of the delay claim is affirmed; Alkire receives no summary judgment. The actual custody basis, duration, institutional cause and compensable injury require adjudication.
+
+**Treatment of earlier authority:** Gerstein requires neutral probable-cause review. County of Riverside and Powell supply both timing qualifications and the separate questions of cause and relief. Baker preserves the distinct significance of custody actually supported by a valid warrant.
+
+### Planned seizure force and direct threats after control
+
+#### Holland ex rel. Overdorff v. Harrington — planned force and continued gunpoint restraint
+
+**Docket or dockets:** Tenth Circuit No. 99-1373; no Supreme Court docket supplied. Review of 268 F.3d 1179 (10th Cir. 2001).
+**Decided:** June 30, 2003.
+
+##### Whether the deliberate plan immediately shaping a seizure receives Fourth Amendment force review
+
+**Holding:** The Fourth Amendment reaches a deliberate force decision that immediately and materially shapes an ensuing seizure as well as force used during execution. Objective reasonableness depends on the force actually organized, circumstances reasonably known to officials and each defendant's own causal conduct.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Ginsburg), unanimous.
+
+**Material application:** The planned armed seizure for misdemeanor arrest and evidentiary warrants must be assessed in light of the supported resident-favorable account, including known children, prior cooperation and disputed resistance information. Later discovery of weapons and operational success cannot establish what officials knew beforehand.
+
+**Limits and questions not reached:** The inquiry requires contextual reasonable judgment, not the least intrusive tactic. Each planner is responsible for force caused by that person's conduct, not automatically for every later excess. Hostile remarks and departmental policy violations cannot substitute for constitutional analysis. The separate knock-and-announce disposition is outside the mandate.
+
+**Treatment of earlier authority:** Graham v. Connor is extended to the deliberate plan immediately shaping the seizure while retaining contextual force review. Tennessee v. Garner supplies the need to justify the degree and manner of force. Michigan v. Summers permits reasonable execution-related control; Wilson v. Layne distinguishes authority to execute a warrant from lawful means of execution.
+
+##### Whether continued direct firearm threats to controlled, nonthreatening children are unreasonable
+
+**Holding:** Intentionally aiming firearms directly at compliant, nonthreatening children after submission and complete control, without a supported safety need, is unreasonable force. The intentional gunpoint restraint is a seizure even without a shot or physical wound; an initial need to secure the premises does not itself justify continuing the direct threats.
+
+**Proposition-level authority:** Part III of the opinion of the Court (Ginsburg), unanimous.
+
+**Limits and questions not reached:** Maintaining readiness for an actual safety need is distinct from sustained direct aiming on the assumed after-control facts. Individual participation and causation remain subject to ordinary proof.
+
+**Treatment of earlier authority:** Graham requires reassessment as justification changes and control is obtained. Brower v. County of Inyo supplies intentional control as the relevant seizure characteristic; Summers does not authorize unjustified continuing force.
+
+For Holland, June 30, 2003, Tenth Circuit No. 99-1373, on interlocutory review, individual damages proof and the separate deployment and continued-restraint immunity dispositions, see Federal Courts: Immunities and Remedies — Holland ex rel. Overdorff v. Harrington — individual immunity and appellate scope.

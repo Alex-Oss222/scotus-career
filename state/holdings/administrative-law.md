@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Administrative Law
 
@@ -2241,3 +2241,332 @@ For Verizon Communications, May 13, 2002, Nos. 00-511, 00-555, 00-587, 00-590 an
 **Operative remedy or transition:** The categorical exclusion of local regulation is reversed and remanded for examination of Ohio's delegation and the actual safety character of each challenged rule, with remaining preemption grounds preserved. The ordinances are not collectively sustained.
 
 **Treatment of earlier authority:** Wisconsin Public Intervenor v. Mortier supplies ordinary state use of authorized subdivisions. Medtronic v. Lohr preserves clause-specific preemption analysis; Geier v. American Honda preserves independently established actual conflict.
+
+
+### Initial agency determination of unresolved country conditions
+
+#### INS v. Ventura, 537 U.S. 12
+
+**Docket or dockets:** No. 02-29.
+**Decided:** November 4, 2002.
+
+##### When judicial review must return an undecided fact-sensitive issue to the agency
+
+**Holding:** When an agency has not decided a material, fact-sensitive question that the statute assigns to it initially, a reviewing court must ordinarily remand for that determination. Remand may be unnecessary when law and the established record leave no lawful agency work, but the mixed and aged country report here does not establish that exception.
+
+**Proposition-level authority:** The unanimous per curiam opinion; all nine Justices join the rule, exception, application and limited remedy.
+
+**Material application:** The mixed 1997 country report did not compel an individualized risk conclusion. The Board must initially apply the distinct governing pre-IIRIRA asylum and withholding standards.
+
+**Limits and questions not reached:** Independent judicial review of law remains. The Board may receive updated evidence under governing procedures; that permission requires neither reopening nor a new hearing in every case. No final protection eligibility or current country finding is adjudicated.
+
+**Operative remedy or transition:** Vacate only the appellate changed-conditions determination and remand through the Ninth Circuit to the Board. The unrelated political-opinion-nexus ruling survives.
+
+**Treatment of earlier authority:** - SEC v. Chenery Corp., 318 U.S. 80: applies the allocation of the initial administrative judgment to the agency entrusted with it.
+- Florida Power & Light Co. v. Lorion, 470 U.S. 729: applies ordinary remand where lawful administrative work remains, preserving the exceptional case in which remand could serve no lawful purpose.
+- INS v. Elias-Zacarias, 502 U.S. 478: preserves the distinct discipline for reviewing agency factual determinations; the present correction does not reopen the unrelated nexus ruling.
+
+### Delegated interstate motor-carrier registration fees
+
+#### Yellow Transportation, Inc. v. Michigan, 537 U.S. 36
+
+**Docket or dockets:** No. 01-270.
+**Decided:** November 5, 2002.
+
+##### The delegated fee system may preserve qualifying reciprocity
+
+**Holding:** The ICC lawfully required States participating in the replacement registration system to preserve qualifying reciprocity in determining the fee collected or charged as of November 15, 1991, subject to the $10-per-vehicle ceiling. A State may not invalidate that rule by treating only its generic rate as relevant or renounce or modify qualifying reciprocity so as to alter the benchmark fee under the rule.
+
+**Proposition-level authority:** The opinion of the Court by Kennedy, joined at this level by Stone-Zsela, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, including its author, supplies eight direct votes. Stevens supports the judgment on a distinct express-rulemaking ground.
+
+**Limits and questions not reached:** The rule rests on the express fee-system delegation and a permissible construction of the statutory benchmark. It does not make every informal concession a permanent statutory entitlement or freeze unrelated taxes and licensing policies. The system applies beginning January 1, 1994.
+
+**Operative remedy or transition:** Reverse and remand for application of the valid rule to Yellow's qualifying reciprocity, benchmark and registration periods, advance 1992 payment and preserved later-criterion disputes. No particular refund amount is adjudicated.
+
+**Treatment of earlier authority:**
+
+- Chevron U.S.A. Inc. v. Natural Resources Defense Council, Inc.: applies permissible administrative construction within an actual delegation, after enforcing the enacted limits; its framework remains in force.
+- United States v. Haggar Apparel Co.: applies the distinction between delegated legal interpretation and the court's application of a rule to a particular record.
+- United States v. Mead Corp.: applies the delegated-force-of-law threshold to this express grant and actual implementing regulation; no informal-letter rule is enlarged.
+- Christensen v. Harris County: distinguishes an advisory letter from the formal exercise of the authority Congress supplied here.
+- MCI Telecommunications Corp. v. AT&T and FDA v. Brown & Williamson Tobacco Corp.: preserve statutory boundaries; neither makes this expressly delegated choice impermissible.
+- Smiley v. Citibank: applies the permission for adequately explained interpretive reconsideration, without creating automatic retrospective authority.
+
+### Mandatory administrative completion dates and continuing authority
+
+#### Barnhart v. Peabody Coal Co., 537 U.S. 149
+
+**Docket or dockets:** Nos. 01-705 and 01-715; consolidated Peabody, Bellaire and trustees' matters.
+**Decided:** 2003-01-15.
+
+##### Whether the Coal Act completion date extinguishes late initial-assignment authority
+
+**Holding:** Section 9706(a) required the Commissioner to complete initial Coal Act assignments before October 1, 1993, but missing that mandatory date did not extinguish authority to make an otherwise lawful initial assignment later. This consequence follows from this statute’s text and structure; express expiration, private filing limits, prescribed sanctions, or other statutory indications that authority ends retain their different effects.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; six Justices. Part I controls.
+
+**Material application:** The continuing assignment task, correction machinery and allocation structure permit cure of an initial omission. Section 9704(f)'s as-of accounting and later adjustments do not make unassignment irrevocable, and unassigned-beneficiary financing addresses interim or residual costs without necessarily exempting an assignable beneficiary.
+
+**Limits and questions not reached:** Timely performance remained mandatory and was breached. This ruling addresses the consequence for authority, not an independently grounded remedy for delay. Eligibility and premium limits are preserved under Labor and Employment, Barnhart v. Peabody Coal Co., Nos. 01-705 and 01-715, January 15, 2003.
+
+**Operative remedy or transition:** Reverse both timing-based judgments. Untimeliness alone cannot invalidate initial assignments or permanently transfer otherwise assignable beneficiaries to unassigned funding.
+
+**Treatment of earlier authority:** Brock separates obligatory timing from automatic loss of power while permitting statutory context to establish expiration. James Daniel Good Real Property preserves mandatory duties without an unstated disabling sanction and retains its distinct limitations and constitutional-delay rules. Bean's actual-denial prerequisite for firearms review is not transferred to Coal Act assignments.
+
+### State representative payees and current foster-care maintenance
+
+#### Washington State Department of Social and Health Services v. Guardianship Estate of Keffeler, 537 U.S. 371
+
+**Docket or dockets:** No. 01-1420.
+**Decided:** February 25, 2003.
+
+##### Whether a state representative payee’s authorized maintenance accounting is prohibited legal process
+
+**Holding:** A duly appointed representative payee's authorized use of a beneficiary's funds for current maintenance is not execution, levy, attachment, garnishment or comparable legal process merely because the State provides the care and records reimbursement. The residual process term concerns a judicial or quasi-judicial mechanism, not necessarily elaborate, transferring control of property to discharge or secure an asserted liability; the described practice asserts no enforceable foster-care debt against the child and compels no transfer from another holder.
+
+**Proposition-level authority:** Stevens's unanimous opinion; all nine Justices join the rule, its qualifications and bounded remand.
+
+**Material application:** The State’s existing obligation to provide foster care and its fiscal benefit from reimbursement do not transform authorized beneficiary spending into collection. Anticipating and budgeting expected benefits does not itself assign the child’s future rights; §407(a)’s scope is construed rather than bypassed by an implied exemption contrary to §407(b).
+
+**Limits and questions not reached:** The holding concerns the ordinary current-maintenance benefits described. Current maintenance is distinct from collection of an earlier debt. Applicable payee rules permit payment of a debt predating the benefit period only when current and reasonably foreseeable needs are met and payment serves the beneficiary's interest; they do not require it. Remaining funds must be conserved or invested under the governing rules. The ruling does not validate every appointment, notice, expenditure or individual account. Beneficiary ownership and the applicable needs, accounting, misuse and conservation duties remain. Properly preserved notice and other independent grounds retain their own lawful enforcement conditions; no new §1983 right or standalone §405(j) claim is established.
+
+**Operative remedy or transition:** Reverse the categorical §407 ruling. On remand, identify the ground for each injunction provision, restitution amount and fee component; remove relief supported only by the rejected theory and adjudicate the authorized consequences of surviving properly presented grounds. The remand creates no new claims.
+
+**Treatment of earlier authority:**
+
+- Philpott v. Essex County Welfare Board, 409 U.S. 413, and Bennett v. Arkansas, 485 U.S. 395, are distinguished as State resort to collection process reaching protected benefits; their antiattachment protection remains in force.
+- Hartford Underwriters Insurance Co. v. Union Planters Bank, N.A., 530 U.S. 1, supplies attention to the enacted statutory act and conditions rather than a policy substitute.
+- Blessing v. Freestone (April 21, 1997) preserves separate questions of a particular right, enforcement route, defendant and fitted relief for any properly presented alternative; it supplies no blanket approval of payee conduct or new §1983 right here.
+
+### EMTALA stabilization duty
+
+#### Harry v. Marchant — EMTALA stabilization duty
+
+**Docket or dockets:** Eleventh Circuit No. 99-13205; judgment below, 291 F.3d 767 (en banc); no separate Supreme Court docket supplied.
+**Decided:** 2003-05-19.
+
+##### The stabilization duty does not depend on actual transfer or discharge
+
+**Holding:** When a participating hospital determines that a person coming to it has an emergency medical condition, §1395dd(b)(1) requires the examination and treatment within available staff and facilities necessary for stabilization, or a transfer complying with subsection (c). Stabilization means preventing likely material deterioration, within reasonable medical probability, resulting from or during transfer; that medical measure does not add actual movement outside the hospital as a prerequisite to the duty.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** A transfer is hospital-directed movement outside its facilities, including discharge; movement after declaration of death and departure without permission of a hospital-affiliated person are excluded. Internal movement to intensive care is not a statutory transfer. For unstabilized transfer, §1395dd(c) requires either the individual's or legally responsible person's written request after explanation of the hospital's obligations and transfer risks, or a physician-signed certification, based on information then available, that expected medical benefits of treatment elsewhere outweigh increased transfer risks. If no physician is physically present in the emergency department, a qualified medical person may certify only after consulting a physician who makes that determination and later countersigns. Every certification must summarize supporting risks and benefits. Every route also requires available treatment minimizing risk; receiving space, qualified personnel and agreement to accept the transfer and provide appropriate treatment; all available emergency records, including the condition, observed signs or symptoms, preliminary diagnosis, treatment, test results, request or certification and the name and address of any required on-call physician who refused or failed timely to appear; qualified transport personnel and equipment with necessary appropriate life support; and applicable additional regulatory conditions. The transfer alternative is permissive, not a command to move every patient.
+
+Section (b)(2) separately deems treatment compliance when the hospital offers the required examination and treatment, explains risks and benefits, the patient or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal. Section (b)(3) separately requires an offered transfer satisfying subsection (c), the risk-and-benefit explanation, refusal and all reasonable steps to obtain written informed refusal. These distinct alternatives retain their conditions. State medical law remains effective except to the extent it directly conflicts with an applicable federal duty under §1395dd(f).
+
+**Treatment of earlier authority:** In re Baby K is applied to reject the no-transfer prerequisite. Roberts preserves the statutory predicates while rejecting an extra improper-motive element. Their bounded emergency duty remains distinct from general medical negligence.
+
+##### Later admission cannot extinguish an accrued emergency-care violation
+
+**Holding:** An alleged breach of an already-triggered stabilization duty during emergency care must be adjudicated even if the hospital later admits the patient; later admission cannot extinguish a completed earlier violation.
+
+**Proposition-level authority:** Part II of the opinion of the Court (Scalia), unanimous.
+
+**Material application:** The alleged delays before intensive-care admission independently defeat categorical dismissal. The diagnostic notation, eventual death, timing and character of admission are not conclusive proof of the statutory emergency, breach or causation.
+
+**Limits and questions not reached:** The legal endpoint of an unperformed duty after bona fide admission remains open because the actual admission and alleged later breach have not been adjudicated. Distinguish injury attributed to emergency care before admission from a claim based solely on genuine inpatient care.
+
+**Later-authority backlinks:** Bryant v. Adventist Health System/West, decided June 9, 2003, resolves the genuine-inpatient endpoint reserved here: good-faith admission alone does not terminate an already-triggered, unperformed stabilization duty. See the Bryant stabilization-endpoint holding under Administrative Law. Harry's accrued-violation holding remains unchanged.
+
+**Operative remedy or transition:** Reverse the stabilization dismissal and remand for phase-specific adjudication. The separate screening dismissal and section 1981 remand remain effective.
+
+**Treatment of earlier authority:** In re Baby K supplies the duty tied to the detected emergency and medically defined stabilization. Roberts supplies the distinct direct-harm, hospital-action, remedial and limitations requirements. The automatic actual-transfer premise of the judgment below is rejected.
+
+The hospital civil-action predicates and relief are under Federal Courts: Immunities and Remedies, this case, decided May 19, 2003, Eleventh Circuit No. 99-13205.
+
+### Financial privacy rules and lawful information routes
+
+#### Trans Union LLC v. Federal Trade Commission, 295 F.3d 42 (judgment below)
+
+**Docket or dockets:** D.C. Circuit No. 01-5202; no separate Supreme Court docket is supplied.
+**Decided:** April 22, 2003.
+
+##### The final privacy rule exercises actual delegated interpretive authority
+
+**Holding:** Section 504 of the Gramm-Leach-Bliley Act authorizes implementing regulations for financial institutions within the agency's jurisdiction, and the FTC exercised that authority in its final privacy rule. Courts enforce the statute's clear text and delegation boundaries before deferring to a reasonable agency choice within genuine statutory ambiguity; the First Amendment inquiry remains independent.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Treatment of earlier authority:** Mead requires actual authority to issue binding interpretations and its exercise here. Haggar preserves statutory limits; Christensen’s advisory-letter setting differs, while its bar on rewriting a clear regulatory permission remains. Chevron, NationsBank and Smiley permit reasonable interpretation only within genuine delegated ambiguity.
+
+##### The incorporated financial-activity definition covers Trans Union's credit-bureau business
+
+**Holding:** Section 509(3) and 16 C.F.R. § 313.3(k) cover an institution significantly engaged in the financial activities incorporated from Bank Holding Company Act § 4(k), including the credit-bureau services Trans Union performs. Section 4(k)(4)(F) incorporates activities recognized by a Federal Reserve order or regulation in effect on November 12, 1999, subject to that instrument's terms and conditions unless modified by the Board.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The exclusions preserve persons or entities with respect to activities subject to Commodity Futures Trading Commission jurisdiction under the Commodity Exchange Act; the Federal Agricultural Mortgage Corporation and entities chartered and operating under the Farm Credit Act; and the identified congressionally chartered secondary-market institutions. For the last category, section 509(3)(D) requires that the institution not sell or transfer nonpublic personal information to a nonaffiliated third party; rule 313.3(k)(3)(iii) preserves the exclusion when such transfers occur only as permitted by rules 313.14 and 313.15. The category consists of institutions chartered specifically for securitizations, secondary-market sales, including sales of servicing rights, or similar transactions related to a consumer transaction. The rule also excludes entities not significantly engaged in financial activities.
+
+**Material application:** The incorporated Regulation Y category concerns maintaining consumer credit histories and providing them to a credit grantor considering an application or one that already extended credit. Significant engagement in that business supplies coverage even if the information company does not itself lend.
+
+##### Financial context and source-derived selection can protect identifying information
+
+**Holding:** The Act permits the rule to treat as financial information what a consumer provides to obtain a financial product or service, what results from a financial transaction with that consumer, and what is otherwise obtained in connection with providing such a product or service. Section 509(4) and rules 313.3(n)–(p) also protect a consumer grouping derived using nonpublic personally identifiable financial information, even when individual identifiers are publicly obtainable, while preserving independently public information on the terms below.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Publicly available information is information reasonably believed lawfully available to the general public from government records, widely distributed media, or legally required public disclosures. The institution must take steps to determine that the information is of a publicly available type and, where an individual may direct that it remain unpublished, that the consumer has not exercised that choice. A grouping derived without nonpublic personally identifiable financial information and containing only public information is outside the protected category when its disclosure does not identify the listed individuals as financial-institution consumers. Lists of names and addresses of customers of an entity that is not a financial institution, and information that does not identify a consumer, including aggregate or blind data without names, account numbers or other personal identifiers, are excluded from personally identifiable financial information.
+
+**Material application:** Financial context or selection using nonpublic traits may communicate a protected relationship even if isolated identifiers are public. Neither every paid identifier nor every public identifier receives the same categorical treatment.
+
+**Operative statutory and regulatory conditions:** The following conditions govern the receipt and onward-transfer holdings in this entry. They state permissions and duties; actual compliance remains an application question.
+
+**Ordinary notice and opt-out:** Under section 502(a)–(b) and rule 313.10, disclosure of nonpublic personal information to a nonaffiliated third party generally requires the applicable initial privacy notice, an opt-out notice explaining the choice, a reasonable opportunity to exercise it before disclosure, and no consumer opt-out. The notices must satisfy the applicable clear-and-conspicuous requirements. The rule's mail example allows thirty days after mailing the notices, with response by mailed form, toll-free call or another reasonable means. Its electronic example allows thirty days after acknowledgment of electronic notices in connection with opening an online account where the customer agreed to electronic receipt. Its isolated-transaction example allows contemporaneous notice and a choice required before completing that transaction. Those are examples of a reasonable opportunity, not one universal thirty-day deadline. The requirements apply even without an established customer relationship and to collected information whether obtained before or after the consumer's direction. An institution may offer a partial opt-out by information or recipient; the permission does not require such an offering.
+
+**Service providers and joint marketing:** Section 502(b)(2) and rule 313.13 allow disclosure for services to, or functions on behalf of, the originating institution, including marketing its own products or services and qualifying joint financial marketing. The initial notice remains required. A contract must prohibit use and disclosure beyond the disclosed purposes, including any permitted use under rules 313.14 or 313.15 in the ordinary course of carrying out those purposes. Joint marketing requires a written contract under which the participating financial institutions jointly offer, endorse or sponsor a financial product or service. This is a distinct route from receipt under rules 313.14 and 313.15.
+
+**Processing and servicing:** Section 502(e)(1) and rule 313.14 permit disclosure as necessary to effect, administer or enforce a consumer-requested or authorized transaction; in connection with servicing or processing a requested or authorized financial product or service; maintaining or servicing the account with the institution, or with another entity through a private-label credit-card arrangement or another extension of credit on its behalf; or a proposed or actual securitization, secondary-market sale, including servicing-right sales, or similar transaction related to the consumer's transaction. Necessary disclosure includes a required, lawful or appropriate method of enforcing the rights of those carrying out the transaction or providing the product or service. It also includes required, usual, appropriate or acceptable methods of ordinary transaction and account recordkeeping and servicing; benefits or claims administration; confirmations, transaction records and status or value information for the consumer or the consumer's agent or broker; and accrual or recognition of associated incentives or bonuses. The insurance functions include underwriting at the consumer's request, reinsurance, account administration, reporting, fraud or material-misrepresentation investigation or prevention, premium and claim processing, benefits administration including utilization review, research projects, and purposes required or specifically permitted by federal or state law. Payment functions include authorization, settlement, billing, processing, clearing, transfer, reconciliation or collection of payments; receivable or account transfers; and payment-information audits. Necessity here is not confined to physical indispensability.
+
+**Other exceptions:** Section 502(e) and rule 313.15 preserve disclosure with the consumer's unrevoked consent or direction; to protect relevant record confidentiality or security; to prevent actual or potential fraud, unauthorized transactions, claims or other liability; for required institutional risk control or resolution of consumer disputes or inquiries; to persons with a legal or beneficial interest relating to the consumer, or acting as the consumer's fiduciary or representative; and to insurance-rate advisory organizations, guaranty funds or agencies, institutions' rating agencies, industry-compliance assessors, and the institution's attorneys, accountants and auditors. They also preserve specifically authorized or required law-enforcement, self-regulatory and public-safety-investigation disclosures consistent with the Right to Financial Privacy Act; disclosure to a consumer reporting agency in accordance with the FCRA or from a consumer report reported by such an agency; a proposed or actual sale, merger, transfer or exchange of a business or operating unit when the disclosure concerns solely that business's consumers; compliance with applicable law; properly authorized investigations, subpoenas or summonses; and judicial process or regulators acting within their jurisdiction as authorized by law.
+
+**Which requirements are excepted:** Rules 313.14 and 313.15 excuse the initial-notice requirement in rule 313.4(a)(2), the opt-out requirements in rules 313.7 and 313.10, and the service-provider/joint-marketing requirements in rule 313.13 on the stated terms. They do not erase the distinct customer-relationship notice duties. Section 503 requires the applicable privacy-policy disclosure when a customer relationship is established and at least annually while it continues. The separate section 502(d) account-number marketing restriction and rule 313.12 qualifications stated in the account-number question below retain their own operation.
+
+##### Exception-based receipt carries its purpose limits into reuse and redisclosure
+
+**Holding:** Under rule 313.11(a) and (c), information received from a nonaffiliated financial institution under rule 313.14 or 313.15 may be disclosed to the originator's affiliates, or to the recipient's affiliates subject to the same downstream use and disclosure limits. Other use or disclosure under those exceptions must occur in the ordinary course of carrying out the activity covered by the exception under which the information was received; a new recipient opt-out does not authorize unrelated marketing of information received for a bounded servicing or other excepted purpose.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Material application:** A processor may use information in carrying out the receiving exception, including a properly authorized subpoena, but may not convert purpose-limited access into unrelated marketing for itself or another marketer. The expressly allowed affiliate routes retain the downstream limits.
+
+**Treatment of earlier authority:** Christensen requires giving the rule’s actual permissions their effect. Section 502(c) operates with the confidentiality and implementing provisions, not as an unrestricted internal marketing entitlement.
+
+##### Receipt outside the processing and other exceptions preserves the recipient's own-use permission
+
+**Holding:** Under rule 313.11(b) and (d), a recipient may use for its own purposes a list lawfully obtained outside rules 313.14 and 313.15. Redisclosure is limited to the originator's affiliates, the recipient's affiliates with the recipient's downstream disclosure limits, or another person to whom the originating institution could lawfully disclose directly, including disclosure under the originator's privacy policy as limited by each consumer's actual opt-out, or disclosure under an applicable rule 313.14 or 313.15 exception.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The separate §313.13 contractual purpose restriction continues when service-provider or joint-marketing disclosure supplies the lawful receipt. Own use and further disclosure remain separate permissions; a new recipient opt-out cannot replace the originator’s lawful terms or the consumer’s actual election.
+
+##### The reporting-agency exception does not authorize unrestricted onward marketing of account numbers
+
+**Holding:** Section 502(d), 15 U.S.C. § 6802(d), and rule 313.12 prohibit disclosure, directly or through an affiliate, of a consumer credit-card, deposit or transaction account number or similar access number or code to a nonaffiliated third party for telemarketing, direct-mail marketing or electronic-mail marketing, other than disclosure to a consumer reporting agency. That recipient exception preserves properly authorized FCRA uses; it does not exempt a reporting agency's own onward disclosure from the governing limits or create an unrestricted account-number marketing right.
+
+**Proposition-level authority:** Breyer's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** Rule 313.12 separately permits disclosure to an agent or service provider solely to market the institution's own products or services if that recipient is not authorized to directly initiate charges to the account, and to a participant in a private-label credit-card, affinity or similar program whose participants were identified to the customer upon entry into the program. An encrypted number or code is outside the account-number example only when no means of decoding it is supplied. A transaction account, distinct from a deposit or credit-card account, excludes an account to which third parties cannot initiate charges. Ordinary notice and opt-out do not displace this separate account-number restriction. Section 506(c), apart from its enacted FCRA amendments, and rule 313.16 preserve the FCRA's operation and permit no inference from these provisions about whether information is transaction-or-experience information under FCRA § 603.
+
+**Treatment of earlier authority:** The June 24, 2002 Trans Union decision preserves the FCRA’s actual information, purpose, furnishing and use conditions; a permissible receiving category does not become immunity when the recipient later discloses.
+
+The independent commercial-speech holding and the unripe aggregate-use questions are stated in this case, decided April 22, 2003, D.C. Circuit No. 01-5202, under First Amendment and Federal Courts: Justiciability, respectively.
+
+### Drug prior authorization and non-Medicaid rebate arrangements
+
+#### Pharmaceutical Research and Manufacturers of America v. Walsh, 538 U.S. 644 — Medicaid authorization
+
+**Docket or dockets:** No. 01-188.
+**Decided:** 2003-05-19.
+
+##### Medicaid prior authorization remains subject to its own safeguards and the distinct statutory mechanisms
+
+**Holding:** Section 1396r-8(d)(1)(A) permits prior authorization of any covered outpatient drug subject to paragraph (5). For covered drugs eligible for federal financial participation and dispensed on or after July 1, 1991 for a medically accepted indication, the system must provide a telephone or other telecommunications response within twenty-four hours and at least a seventy-two-hour emergency supply, with emergency defined by the Secretary and the paragraph (2) exceptions below; a timely response does not necessarily require approval.
+
+**Proposition-level authority:** Souter's opinion of the Court, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Thomas, Ginsburg and Breyer.
+
+**Limits and questions not reached:** The emergency-supply exception covers agents used for anorexia, weight loss or weight gain; fertility; cosmetic purposes or hair growth; symptomatic relief of coughs and colds; smoking cessation; prescription vitamins and minerals other than prenatal vitamins and fluoride preparations; nonprescription drugs; covered drugs whose manufacturer conditions sale on exclusive purchase of associated tests or monitoring from it or its designee; barbiturates; and benzodiazepines.
+
+Section (d)(1)(B) separately permits exclusion or restriction for a non-medically-accepted use, a paragraph (2) drug or use, a restriction pursuant to a qualifying authorized or grandfathered rebate agreement, or exclusion under a paragraph (4)-compliant formulary. The agreement route concerns Secretary-authorized agreements under subsection (a)(1), or subsection (a)(4) agreements in effect on November 5, 1990: during the initial agreement period, the State must agree to report rebates and the agreement must provide a minimum aggregate rebate of ten percent of state-plan expenditures for that manufacturer's drugs; for renewal periods, the State must establish to the Secretary's satisfaction rebates at least as large as those otherwise required and agree to report them.
+
+A paragraph (4) formulary requires a committee of physicians, pharmacists and other appropriate persons appointed by the Governor, or the State's drug-use-review board. Except for paragraph (2) restrictions and qualifying paragraph (4)(C) exclusions, it must cover drugs of manufacturers entering and complying with subsection (a) agreements. A disease- or condition-specific exclusion for an identified population, if any, requires a finding that the drug lacks a significant, clinically meaningful therapeutic advantage in safety, effectiveness or clinical outcome over included drugs, based on labeling or, for an unapproved but medically accepted indication, the appropriate compendia, and a publicly available written explanation. Coverage of a formulary-excluded drug must remain available through compliant prior authorization, except for paragraph (2) drugs. The formulary must also meet lawful Secretary requirements for savings consistent with beneficiary health.
+
+Paragraph (6) separately permits therapeutic-class quantity or refill limits necessary to discourage waste and measures against individual fraud or abuse authorized under the Act. Sections 1396a(a)(19), (30)(A) and (54) retain their requirements: necessary safeguards for simple administration and recipients' best interests; methods preventing unnecessary utilization and securing payments consistent with efficiency, economy and quality, sufficient to enlist providers so covered care is available at least as extensively as to the area's general population; and compliance with applicable outpatient-drug requirements when the State offers that coverage.
+
+**Material application:** Prior authorization is not automatically a formulary exclusion. Each mechanism retains its own conditions; satisfying authorization safeguards is not a determination that every implementation complies with Medicaid. The common statutory reading does not decide an additional purpose restriction.
+
+##### Authorization must comply with the substantive Medicaid duties
+
+**Holding:** Use of Medicaid prior authorization to obtain non-Medicaid discounts must comply with the recipient-interest, efficiency, economy, quality and access duties in §§1396a(a)(19), (30)(A) and (54), together with paragraph (5)'s procedural safeguards. Procedural compliance and a general statewide health objective alone do not establish substantive compliance; the challenged operation must be assessed against the enacted duties.
+
+**Proposition-level authority:** Souter's opinion of the Court, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+**Limits and questions not reached:** Benefits to persons outside Medicaid do not themselves make the arrangement impermissible. No common exclusive-purpose requirement, countervailing-benefit threshold, allocation of burdens or harms-and-benefits test is adopted.
+
+##### Modest authorization inconvenience is not an automatic preemption trigger
+
+**Holding:** Modest inconvenience from prior authorization, by itself, does not automatically establish federal Medicaid preemption of the state arrangement.
+
+**Proposition-level authority:** Souter's lead opinion, supported at this scope by Stone-Zsela, Stevens, Souter, Ginsburg and Breyer; five votes without a Marks synthesis.
+
+**Limits and questions not reached:** Congress expressly permitted authorization despite its ordinary administrative burden. This negative rule neither determines the present predictive showing nor creates a common affirmative test of the necessary Medicaid connection.
+
+##### The Medicaid injunction judgment has no controlling affirmative conflict rationale
+
+**Authority of the judgment:** Six Justices—Stevens, Scalia, Souter, Thomas, Ginsburg and Breyer—affirm dissolution of the preliminary injunction. Stevens, Souter and Ginsburg find the present showing insufficient; Breyer requires a distinct serious-interference and harms-and-benefits inquiry; Scalia requires administrative enforcement for these manufacturers; Thomas rejects the asserted purpose theory on textual and administrative-allocation grounds. These grounds are not logical subsets under Marks: they differ over access to court, the legal purpose constraint and the governing substantive assessment. No affirmative conflict test or controlling application follows from their combined judgment votes.
+
+**Limits and questions not reached:** The separate direct-majority statutory holdings above remain controlling at their stated scopes. No operational savings, successful safeguards or dispositive agency approval of Maine Rx is established. The underlying action receives ordinary further proceedings with the existing injunction dissolved.
+
+For the prospective judicial route, see Federal Courts: Immunities and Remedies; for the two Commerce Clause questions, see Constitutional Structure, Walsh, May 19, 2003, No. 01-188.
+
+### Detected emergency conditions and the inpatient stabilization endpoint
+
+#### Bryant v. Adventist Health System/West — EMTALA stabilization
+
+**Docket or dockets:** Ninth Circuit No. 00-16399; judgment below, 289 F.3d 1162; no separate Supreme Court docket supplied.
+**Decided:** 2003-06-09.
+
+##### A missed emergency diagnosis does not trigger the statutory stabilization duty
+
+**Holding:** Section 1395dd(b) requires actual hospital determination of an emergency medical condition; constructive knowledge based only on a negligently missed diagnosis is insufficient for the missed condition. The undetected first-visit lung abscess therefore supplies no stabilization claim on this record.
+
+**Proposition-level authority:** Part I of the opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** For this acute-condition claim, an emergency consists of sufficiently severe acute symptoms, including severe pain, such that absence of immediate attention could reasonably be expected to seriously jeopardize health, impair bodily functions or cause serious organ or bodily-part dysfunction. Appropriate first-visit screening was conceded. Later detection does not retroactively establish the first visit's knowledge.
+
+**Treatment of earlier authority:** Baby K and Harry preserve actual determination as the trigger. Roberts eliminates an extra improper-motive requirement without replacing actual knowledge with negligent failure to diagnose.
+
+##### The diagnosed-pneumonia component fails on its separate evidentiary ground
+
+**Holding:** Even assuming the diagnosed pneumonia was an emergency, summary judgment is proper because the heirs' conclusory assertion supplies no evidence creating a genuine dispute about statutory instability or failure to furnish necessary stabilizing treatment. This ground independently resolves that component, apart from the missed abscess.
+
+**Proposition-level authority:** Part II of the opinion of the Court (Scalia), unanimous.
+
+**Material application:** Agitation prevented the full planned antibiotic dose; staff considered the administered amount adequate, and the heirs offered no supported contrary evidence. The staff assessment is evidence, not a conclusive legal standard.
+
+**Treatment of earlier authority:** Baby K supplies the bounded stabilization duty. Roberts retains proof of statutory and civil-action predicates after eliminating an extra motive element.
+
+##### Genuine inpatient admission alone does not end an unperformed stabilization duty
+
+**Holding:** Good-faith inpatient admission does not extinguish an already-triggered EMTALA duty. The participating hospital must furnish the examination and treatment necessary for the actually determined emergency within available staff and facilities until statutory stabilization, a compliant transfer or satisfaction of the applicable informed-refusal provision.
+
+**Proposition-level authority:** Part III of the opinion of the Court (Scalia), unanimous.
+
+**Limits and questions not reached:** Stabilization is treatment necessary to assure within reasonable medical probability that material deterioration is unlikely from or during transfer. The obligation concerns the detected emergency and available capability; it guarantees neither cure nor indefinite federal regulation of later inpatient care. A transfer is hospital-directed movement outside its facilities, including discharge; movement after declaration of death and departure without permission of a hospital-affiliated person are excluded. Internal movement to intensive care is not a statutory transfer. For unstabilized transfer, §1395dd(c) requires either the individual's or legally responsible person's written request after explanation of the hospital's obligations and transfer risks, or a physician-signed certification, based on information then available, that expected medical benefits of treatment elsewhere outweigh increased transfer risks. If no physician is physically present in the emergency department, a qualified medical person may certify only after consulting a physician who makes that determination and later countersigns. Every certification must summarize supporting risks and benefits. Every route also requires available treatment minimizing risk; receiving space, qualified personnel and agreement to accept the transfer and provide appropriate treatment; all available emergency records, including the condition, observed signs or symptoms, preliminary diagnosis, treatment, test results, request or certification and the name and address of any required on-call physician who refused or failed timely to appear; qualified transport personnel and equipment with necessary appropriate life support; and applicable additional regulatory conditions. The transfer alternative is permissive, not a command to move every patient.
+
+Section (b)(2) separately deems treatment compliance when the hospital offers the required examination and treatment, explains risks and benefits, the patient or representative refuses, and the hospital takes all reasonable steps to obtain written informed refusal. Section (b)(3) separately requires an offered transfer satisfying subsection (c), the risk-and-benefit explanation, refusal and all reasonable steps to obtain written informed refusal. These distinct alternatives retain their conditions. State medical law remains effective except to the extent it directly conflicts with an applicable federal duty under §1395dd(f).
+
+**Operative remedy or transition:** Reverse the automatic admission bar. Harper applies this construction to still-open direct-review claims within its scope, including earlier admissions. Reynoldsville bars reliance alone as an exception; independent limitations, causation and remedy rules remain, final judgments and barred claims retain finality, and no collateral route is created.
+
+**Treatment of earlier authority:** Baby K supplies the affirmative bounded duty and alternatives. Harry's no-actual-transfer and accrued-preadmission-claim holdings remain; its genuinely inpatient endpoint reservation is resolved here. Roberts forecloses treating good faith as performance. Bryan's lower-court admission cutoff is rejected insofar as it ends the unperformed duty; Thornton's focus on actual stabilization is consistent with this rule.
+
+The hospital civil-action and causal-harm requirements are under Federal Courts: Immunities and Remedies, and the supplemental-jurisdiction disposition is under Federal Courts, Bryant, June 9, 2003, Ninth Circuit No. 00-16399.
+
+
+
+### Official HUD interpretations of mortgage-broker compensation
+
+#### Heimmermann v. First Union Mortgage Corp. — official HUD interpretations of mortgage-broker compensation
+
+**Docket or dockets:** Review of 305 F.3d 1257 (Eleventh Circuit); no Supreme Court docket is supplied.
+**Decided:** June 16, 2003.
+
+##### Delegated interpretive force of HUD’s official yield-spread-premium statement
+
+**Holding:** HUD's 2001 national policy statement, issued through the Secretary's official-publication mechanism under 12 U.S.C. §2617(a) and 24 C.F.R. §3500.4(a)(1)(ii), is a permissible exercise of delegated interpretive authority entitled to controlling weight within the statute's bounds. Its adopted yield-spread-premium inquiry examines actual compensable goods, facilities or services and whether total direct and indirect compensation bears a reasonable relationship to their value, while preserving §2607(a)'s prohibition on purchased referrals.
+
+**Proposition-level authority:** Thomas's Parts I–II, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer: eight Justices. Stone-Zsela does not join these administrative grounds.
+
+**Limits and questions not reached:** The publication mechanism, actual delegation and consistency with statutory text establish authority; neither informality nor the policy-statement label decides it. The statutory good-faith protection corroborates the design but does not make every agency view controlling. The statement must preserve the referral prohibition and the bona fide-compensation qualification stated in Business and Commercial Law. The implementation considers borrower charges and lender payments together. No work, nominal work, duplicative work or the mortgage loan itself supplies broker service value. Referral value cannot count as service value. No dollar-by-dollar allocation, exclusive one-side benefit or invariably required number of services is imposed. Actual work or reasonable total compensation does not legalize a purchased referral.
+
+**Treatment of earlier authority:** Mead is applied to actual delegated authority exercised through the designated official-publication mechanism; Christensen’s advisory response and Mead’s transaction-specific letters are distinguished. Chevron operates within the delegation and statute; Skidmore remains available where controlling force is absent.
+
+##### Use of the current interpretation for antecedent mortgage transactions
+
+**Holding:** The Court may use this authoritative interpretation in adjudicating the earlier transactions because the 1999 official account already required actual services and reasonable aggregate compensation, and the 2001 statement explains the application of that existing structure. That judicial use does not retroactively create legislative obligations or give an agency a general power to displace a binding judicial construction of enacted text.
+
+**Proposition-level authority:** Thomas's Parts I–II, joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer: eight Justices. Stone-Zsela does not join these administrative grounds.
+
+**Limits and questions not reached:** The 1999 official account already required actual services and reasonable aggregate compensation. The record establishes no contrary official assurance or newly imposed legislative duty. A clarification label or disagreement with circuit reasoning alone would not establish permissible earlier application.
+
+**Treatment of earlier authority:** Smiley permits judicial use of a current authoritative interpretation without clear contrary earlier guidance; Lechmere preserves binding judicial statutory construction. Landgraf and Bowen continue to govern genuinely new retrospective legislative obligations.

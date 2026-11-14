@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Constitutional Structure
 
@@ -3784,3 +3784,482 @@ For the cost-permission and state-selection holdings in Michigan v. Environmenta
 - United States v. Mussari; United States v. Schroeder, decided June 30, 1997: applied directly; its interstate-payment ground, actual offense conditions, post-enactment limit and preservation of State authority remain controlling.
 - United States v. Lopez, decided April 26, 1995: applied to require the actual interstate mechanism before aggregation; general downstream consequences cannot supply a missing connection.
 - United States v. Morrison: preserved for the rejection of unconnected social-cost aggregation; the established cross-border payment duty supplies the distinct sufficient ground here.
+
+
+### Thirteenth Amendment enforcement against private racial exclusion
+
+#### United States v. Nelson
+
+**Docket or dockets:** No Supreme Court docket supplied; judgment below, 277 F.3d 164.
+**Decided:** October 15, 2002.
+
+For the separate retrial and statutory-proof holding in Nelson, decided October 15, 2002, with no Supreme Court docket supplied, see Criminal Procedure — Retrial after rejection of a constitutional prosecution bar.
+
+##### Whether Congress may punish private ancestry-based violence interfering with public-facility use
+
+**Holding:** Congress may prohibit intentional ancestry-based racial violence used to interfere with equal enjoyment of public streets and facilities as enforcement against the badges and incidents of slavery under §2 of the Thirteenth Amendment. This authority reaches private actors without state action and includes violence against Jewish persons because of ancestral or ethnic identity historically treated as racial.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court.
+
+**Limits and questions not reached:** The prosecution must prove both racial-ancestry motive and interference because of protected facility use. The holding does not cover every private act of bias or religious affiliation without the racialized ancestry predicate. Commerce and Fourteenth Amendment alternatives are not decided.
+
+**Treatment of earlier authority:** - Jones v. Alfred H. Mayer Co., 392 U.S. 409: applied to Congress’s authority to eradicate badges and incidents of slavery; its enforcement rule remains governing.
+- Griffin v. Breckenridge, 403 U.S. 88: applied to the private racial-violence source; a State’s participation is unnecessary.
+- Saint Francis College v. Al-Khazraji, 481 U.S. 604: applied to the historical understanding of ancestry-based racial discrimination.
+- Shaare Tefila Congregation v. Cobb, 481 U.S. 615: applied to protection of Jewish ancestry within that historical category.
+
+### Preventive enforcement of voting nonretrogression
+
+#### Georgia v. Ashcroft, 539 U.S. 461
+
+**Docket or dockets:** No. 02-182.
+**Decided:** June 26, 2003.
+
+For Georgia’s Section 5 opportunity rule, June 26, 2003, No. 02-182, see Election Law — Section 5 effective electoral opportunity and diffuse influence.
+
+##### Whether Congress may require nonretrogression without a new constitutional violation for each voting change
+
+**Holding:** Congress may require covered jurisdictions to prove nonretrogression in effective racial voting opportunity without a new constitutional violation being established for each proposed change. That preventive requirement is valid as applied here because it preserves opportunity without mandating racial maximization, a fixed majority, or permanent boundaries.
+
+**Proposition-level authority:** Stone-Zsela's Part III, joined by Stevens, Souter, Ginsburg and Breyer. The other four reserve the issue rather than vote to invalidate Section 5.
+
+**Limits and questions not reached:** The holding is as applied to this original plan. Section 5’s preventive effects comparison remains independent of constitutional injury and Section 2 prerequisites; it determines neither unlawful purpose nor a broader reconstruction of Fifteenth Amendment law.
+
+**Treatment of earlier authority:** South Carolina v. Katzenbach and City of Rome sustain preventive preclearance reaching conduct not independently unconstitutional. Boerne preserves those enforcement precedents.
+
+### Boat-safety preemption and preserved common-law liability
+
+#### Sprietsma v. Mercury Marine, 537 U.S. 51
+
+**Docket or dockets:** No. 01-706.
+**Decided:** December 3, 2002.
+
+##### The Act preserves this common-law damages action
+
+**Holding:** Read together, 46 U.S.C. §§4306 and 4311(g) do not expressly preempt the pleaded common-law design and warning action, and the statutory scheme does not occupy the entire field of boat-safety common-law liability. Federal compliance does not itself eliminate that liability.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** Section 4306 restricts nonidentical state legislative or administrative safety, performance and equipment standards on subjects governed by section 4302 regulations. Its section 4305 qualification permits the Secretary to exempt a statutory or regulatory requirement when recreational-vessel safety will not be adversely affected; its separate local-conditions qualification permits regulation of the carrying or use of marine safety articles for uniquely hazardous local conditions absent the Secretary's disapproval. Neither qualification conditions section 4311(g)'s preservation of common-law liability.
+
+##### The Coast Guard's insufficient-data decision creates no actual conflict
+
+**Holding:** A saved common-law claim remains subject to an independently established conflict with an operative federal command or deliberately protected safety method. The Coast Guard's 1990 conclusion that the evidence did not support a generally applicable propeller-guard requirement adopted no federal objective of retaining unguarded designs, so it supplies no conflict preempting this action.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Limits and questions not reached:** The agency found insufficient support for a general guard requirement; it did not select noninstallation, find guards generally unsafe or deliberately protect manufacturer choice. A demonstrated affirmative federal policy protecting alternatives may support conflict preemption in another case. The pleaded defect, feasibility, causation and damages remain unadjudicated.
+
+**Operative remedy or transition:** Reverse the preemption dismissal and remand the estate's design and warning action for adjudication under applicable state law and proof.
+
+**Treatment of earlier authority:**
+
+- Freightliner Corp. v. Myrick: applies its requirement of an operative federal source or demonstrated objective; regulatory absence alone supplies no conflict.
+- Geier v. American Honda Motor Co.: applies its reconciliation of express and saving provisions and its independent actual-conflict inquiry; distinguishes its affirmative options-and-transition method from this insufficient-data decision.
+- Cipollone v. Liggett Group, Inc.: applies clause- and duty-specific construction; this Act's common-law saving rule does not dictate the meaning of every other preemption clause.
+- Medtronic, Inc. v. Lohr: preserves analysis of the actual statutory restriction and actual state duty, without equating all damages duties with preempted equipment standards.
+
+### Federal protection of highway-safety information
+
+#### Pierce County v. Guillen, 537 U.S. 129
+
+**Docket or dockets:** No. 01-1229.
+**Decided:** 2003-01-14.
+
+##### Whether protection of purpose-qualified safety information implements the interstate transportation power
+
+**Holding:** Congress may protect purpose-qualified highway-safety information under the Commerce and Necessary and Proper Clauses when the protection reasonably implements safety administration of interstate transportation channels and instrumentalities. Section 409, including its collection amendment as construed here, satisfies that requirement because it addresses the supported disincentive to candid hazard collection while leaving independent nonprogram records outside the privilege.
+
+**Proposition-level authority:** Part III of Scalia's opinion of the Court, unanimous.
+
+**Limits and questions not reached:** The rule rests on interstate transportation channels and instrumentalities and the confined information-gathering mechanism. No alternative Spending Clause ground is decided. The separate Tenth Amendment dual-sovereignty contention, unaddressed below, and the alternative objection to private respondents' standing to raise it remain undecided. Statutory scope and the component-specific mandate appear under Federal Courts, Pierce County v. Guillen, No. 01-1229, January 14, 2003.
+
+**Treatment of earlier authority:** Lopez requires an identified interstate connection before aggregation; Harris supplies the direct transportation-instrumentality route. Home Builders requires a fitted implementation of an identified interstate regime. Neither remote litigation costs nor a general federal authority over state evidence supports this holding.
+
+### Corporate protection against legislative punishment
+
+#### Consolidated Edison Co. of New York, Inc. v. Pataki, 292 F.3d 338
+
+**Docket or dockets:** No Supreme Court docket supplied; reported judgment below, 292 F.3d 338.
+**Decided:** 2003-01-14.
+
+##### Whether a corporation may invoke the state Bill of Attainder Clause
+
+**Holding:** A corporation may invoke Article I, §10 when a state enactment identifies it and imposes punishment for past wrongdoing without judicial trial. This protection concerns the corporation's legal and property interests under this guarantee; it does not confer every right belonging to a natural person.
+
+**Proposition-level authority:** Souter's opinion of the Court, unanimous.
+
+**Treatment of earlier authority:** Lovett's prohibition includes noncapital legislative penalties. Nixon requires punishment in addition to identification. Ambassador Books distinguished identification from punishment but did not decide corporate coverage; that coverage is established here for corporate legal and property interests.
+
+##### Whether Chapter 190's conclusive outage-cost disallowance and refund command constitute punishment without trial
+
+**Holding:** A challenger must establish identification, punishment and the absence of judicial trial; historical treatment, functional operation and legislative purpose inform one punishment inquiry rather than three cumulative requirements. Chapter 190's legislative determination of Con Ed's completed wrongdoing, combined with its conclusive denial and refund of all replacement-power costs for the identified outage, imposes punishment without trial and cannot be enforced.
+
+**Proposition-level authority:** Souter's opinion of the Court, unanimous.
+
+**Material application:** The statute declares Con Ed's completed operation unreasonable and conclusively denies all replacement-power recovery for the identified outage, including refunds, without an adjudication of which costs were imprudent. That combination establishes the punitive character.
+
+**Limits and questions not reached:** Naming an operator, imposing a substantial burden, retrospective operation or hostile motive alone is insufficient. The challenger retains the burden; neither a motive presumption nor a least-restrictive-means requirement is adopted. Genuine prospective rates, neutral allocation and independently adjudicated prudence review remain available. Equal protection and takings supply no additional ground because the attainder holding provides complete relief.
+
+**Operative remedy or transition:** The permanent injunction against the complete disallowance and refund commands is affirmed, with the limited clerical correction preserved. Independent lawful prudence review may determine actual costs; no reimbursement entitlement or approximately $250 million damages award results.
+
+**Treatment of earlier authority:** Ambassador Books and Nixon retain protection for genuine nonpunitive regulation and a unified punishment inquiry. Lovett reaches the financial penalty without requiring a criminal conviction. Selective Service System preserves the challenger's burden.
+
+### Finite extensions of subsisting copyright terms
+
+#### Eldred v. Ashcroft, 537 U.S. 186
+
+**Docket or dockets:** No. 01-618.
+**Decided:** 2003-01-15.
+
+##### Whether the Copyright Clause permits this finite extension of existing terms
+
+**Holding:** The Copyright Clause permits a finite extension of subsisting copyrights when the extension bears a rational relationship to the promotion of progress through the copyright system; limited times requires bounded duration, not an irrevocable initial expiration date. The twenty-year extension challenged here satisfies that standard through reasonably supported systemwide coordination, dissemination, and preservation purposes, without requiring proof that the additional years newly induced creation of each already completed work.
+
+**Proposition-level authority:** Ginsburg's opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter and Thomas; six Justices. Part I controls.
+
+**Limits and questions not reached:** Finite duration and promotion of progress remain genuine limits; historical repetition and private reward alone establish no power, and indefinite evasion of limited times is not authorized. The unchallenged new-work term, public-domain restoration and the amicus-only petition question lie outside this review.
+
+**Operative remedy or transition:** The challenged additional twenty years remain enforceable; declaratory and injunctive relief against the existing-term application is denied, 6–3. The First Amendment holdings appear under First Amendment, Eldred v. Ashcroft, No. 01-618, January 15, 2003.
+
+**Treatment of earlier authority:** Feist's constitutional originality boundary is preserved but does not fix an immutable expiration date. Historical legislative extensions support, without independently establishing, the constitutional interpretation.
+
+### Congressional protection of reproductive-health services access
+
+#### Norton v. Ashcroft, 298 F.3d 547
+
+**Docket or dockets:** Sixth Circuit No. 00-2487; no Supreme Court docket supplied.
+**Decided:** 2003-01-15.
+
+##### Whether Congress may regulate direct interference with the interstate medical-services market
+
+**Holding:** Congress may prohibit the challenged class of force, threats, physical obstruction and facility destruction intentionally directed at, and directly interfering with, the provision or receipt of reproductive health services in an interstate medical-services market. Local conduct and ideological motive do not remove that class from federal power, and no separate interstate journey by each actor is required.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, unanimous. Part I controls.
+
+**Limits and questions not reached:** The granted challenge is facial. The disputed driveway incidents and warning-letter application are not adjudicated; ungranted dispositions remain undisturbed. The speech holding appears under First Amendment, Norton v. Ashcroft, Sixth Circuit No. 00-2487, January 15, 2003.
+
+**Operative remedy or transition:** Affirm rejection of the granted Commerce Clause challenge and deny its facial declaratory and injunctive relief.
+
+**Treatment of earlier authority:** American Life League supplies the direct market-interference mechanism. Lopez requires the constitutional connection before aggregation; Morrison's private-assault rule is distinguished because it lacked this direct medical-market relationship.
+
+### Conflict between federal real-property forfeiture and state homestead immunity
+
+#### United States v. Wagoner County Real Estate, 278 F.3d 1091 (judgment below)
+
+**Docket or dockets:** Tenth Circuit No. 00-7059; no Supreme Court docket is supplied.
+**Decided:** March 4, 2003.
+
+For the constitutional amount and findings remand in this case, March 4, 2003, Tenth Circuit No. 00-7059, see Criminal Procedure: Sentencing and Capital Punishment — Gross disproportionality of the residential-property forfeiture.
+
+##### Whether Oklahoma homestead immunity defeats the offense-date federal forfeiture provision
+
+**Holding:** When any part of real property is used or intended to be used to commit or facilitate a violation of 21 U.S.C. chapter 13, subchapter I, punishable by more than one year's imprisonment, Oklahoma's homestead exemption cannot bar the forfeiture authorized by the offense-date §881(a)(7). The statute protects an owner's interest to the extent the owner establishes that the relevant act or omission occurred without that owner's knowledge or consent; constitutional limits also govern, and state law identifies the property interest.
+
+**Proposition-level authority:** Thomas's unanimous opinion of the Court; all nine Justices adopt both holdings and the findings remand.
+
+**Material application:** Section 903 preserves state law unless a positive conflict prevents coexistence. An absolute homestead exemption would defeat the affirmative remedy authorized by §881(a)(7); state definition of the ownership interest does not authorize a separate immunity against that remedy.
+
+**Operative remedy or transition:** The rejection of Lees's homestead defense is affirmed and statutory liability remains intact, subject to the distinct Excessive Fines determination.
+
+**Treatment of earlier authority:** Cipollone and Geier require an enacted displacement rule and an actual conflict. Sprietsma is distinguished because federal regulatory nonrequirement differs from the express forfeiture authority present here.
+
+### Congressional support petitions and personal qualifications
+
+#### Cartwright v. Barnes, 304 F.3d 1138
+
+**Docket or dockets:** No Supreme Court docket supplied; judgment below, 304 F.3d 1138.
+**Decided:** February 25, 2003.
+
+For the distinct practical-access claim in Cartwright, February 25, 2003, judgment below 304 F.3d 1138 (no Supreme Court docket supplied), see Election Law — Cartwright v. Barnes.
+
+##### Whether Georgia’s congressional support petition adds a personal qualification
+
+**Holding:** A genuine requirement to demonstrate electoral support regulates ballot access rather than adding a personal qualification for congressional membership, while remaining subject to independent First and Fourteenth Amendment review. Georgia's pleaded petition requirement measures support rather than age, status, prior service or another personal characteristic, so the Article I theory fails.
+
+**Proposition-level authority:** Thomas's Part I, joined by all eight other Justices; nine direct votes.
+
+**Material application:** The petition measures electoral support rather than a candidate’s age, status, prior service or adherence to a prescribed legislative position. Classification turns on operation, not the ballot label.
+
+**Operative remedy or transition:** Affirm dismissal of the Article I qualification claim, unanimously.
+
+**Treatment of earlier authority:**
+
+- U.S. Term Limits, Inc. v. Thornton / Bryant v. Hill (May 22, 1995) is applied to distinguish genuine support procedures from personal congressional qualifications.
+- Cook v. Gralike, 531 U.S. 510, retains its prohibition on official policy-compliance penalties; this support petition imposes a different kind of condition.
+
+### Local mercury labels and distinct territorial and Pike inquiries
+
+#### National Electrical Manufacturers Association v. Sorrell, 272 F.3d 104
+
+**Docket or dockets:** Second Circuit No. 99-9450.
+**Decided:** March 17, 2003.
+
+For the compelled product-disclosure holding in this decision, March 17, 2003, Second Circuit No. 99-9450, see First Amendment — National Electrical Manufacturers Association v. Sorrell.
+
+##### Whether nationwide production choices turn Vermont’s local-sale label rule into direct outside regulation
+
+**Holding:** A labeling rule governing goods sold or distributed for use in Vermont does not directly regulate independent transactions outside Vermont merely because manufacturers prefer nationwide compliance to segregating local goods. The rule's actual legal command, rather than that production preference alone, determines whether it directly controls outside commerce.
+
+**Proposition-level authority:** Kennedy's Part II is unanimous.
+
+**Material application:** Vermont does not condition local market access on labeling independent outside sales. Production costs incurred elsewhere and a preference for uniform labels do not themselves enlarge the legal command; their practical burdens remain relevant to Pike.
+
+**Treatment of earlier authority:**
+
+- Healy v. Beer Institute, 491 U.S. 324, and Brown-Forman Distillers Corp. v. New York State Liquor Authority retain their direct outside-control rule; local compliance costs and a voluntary nationwide production choice do not alone satisfy it.
+
+##### Whether an evenhanded labeling measure escapes Pike absent disparate interstate burdens
+
+**Holding:** Pike review does not require a preliminary showing that a burden falls disparately on interstate commerce: a challenger to an evenhanded local measure must substantiate the interstate burden and show it clearly excessive in relation to the measure's putative local benefits. The identified production and distribution costs and speculative incompatible labels do not establish likely success under that standard on this preliminary record.
+
+**Proposition-level authority:** Kennedy's Part III is joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer, forming a seven-Justice majority. Scalia and Thomas agree only with the judgment on this component.
+
+**Limits and questions not reached:** No actual incompatible sister-state labeling mandate is shown. A supported conflict or disruption requires assessment of its actual burden. RCRA’s preservation of state authority does not automatically authorize an otherwise unconstitutional interstate burden.
+
+**Operative remedy or transition:** Affirm preliminary-injunction vacatur and remand, leaving enforcement available. The judgment rejects the appellate categorical disparate-burden prerequisite without finally resolving every application. Renewed interim relief requires materially different supporting evidence and the usual procedural showing.
+
+**Treatment of earlier authority:**
+
+- Pike v. Bruce Church, Inc., 397 U.S. 137, governs evenhanded interstate burdens without a categorical disparate-burden prerequisite. Its clear-excess standard, applied to actual costs and putative benefits, defeats the present likelihood-of-success showing.
+
+### Territorial power and statutory religious accommodation
+
+#### People of Guam v. Guerrero
+
+**Docket or dockets:** Ninth Circuit No. 00-71247; Guam Supreme Court CRA-99-025; Superior Court CF0001-91; judgment below, 290 F.3d 1210. No Supreme Court docket is supplied.
+**Decided:** 2003-03-26.
+
+For the Organic Act standard and statutory religious-burden inquiry in Guerrero, decided March 26, 2003, Ninth Circuit No. 00-71247, see First Amendment.
+
+##### Whether Article IV supports RFRA’s express application to Guam
+
+**Holding:** Congress’s substantive authority over Guam under Article IV, §3 supports RFRA’s express territorial coverage notwithstanding Boerne’s invalidation of RFRA’s universal State and local command under Fourteenth Amendment §5. Guerrero may invoke that statutory defense, subject to RFRA’s substantive requirements and independent constitutional limits.
+
+**Proposition-level authority:** Stone-Zsela's unanimous opinion of the Court, Part II.
+
+**Limits and questions not reached:** Independent constitutional limits, including the Establishment Clause, remain applicable. Other federal applications of RFRA and an independent Establishment Clause challenge are outside this adjudication.
+
+**Treatment of earlier authority:** City of Boerne v. Flores retains its §5 restriction on universal State and local RFRA and its reservation of independent powers; Article IV supplies the sufficient substantive power here. Dickerson v. United States's bar against legislative reduction of a constitutional minimum does not forbid added statutory protection under independent legislative authority.
+
+### Integrated settlement of Republican River Compact disputes
+
+#### Kansas v. Nebraska, 538 U.S. 720 — Compact settlement
+
+**Docket or dockets:** No. 126, Original; Colorado is also a party.
+**Decided:** 2003-05-19.
+
+##### The filed Republican River settlement is approved as a nonseverable whole within the Compact
+
+**Holding:** The Final Settlement Stipulation executed by Kansas, Nebraska and Colorado and filed December 16, 2002 is approved with all its terms as a nonseverable whole governing settlement and Compact administration. Consent permits lawful implementation and compromise but does not authorize alteration of the enacted allocation.
+
+**Proposition-level authority:** Paragraph 1 of the Court's unsigned decree; individual votes and numerical tally are undisclosed.
+
+**Limits and questions not reached:** Section VIII makes the agreed rights and obligations nonseverable: refusal to approve the submitted form would void the whole stipulation and prevent use of its terms as evidence in interstate litigation. The complete accounting provisions, technical appendices, schedules and qualifications remain those of the filed instrument; approval does not replace them with a new plan.
+
+**Treatment of earlier authority:** Kansas v. Colorado requires actual Compact obligations and supported accounting. Nebraska v. Wyoming distinguishes enforcement from new allocation and permits lawful agreed settlement. Texas v. New Mexico preserves the enacted bargain; another basin's quantities and accounting are not imported.
+
+The finite recommittal and conditional-dismissal holding is under Federal Courts: Immunities and Remedies, Kansas v. Nebraska, May 19, 2003, No. 126, Original.
+
+### State pharmaceutical rebates and interstate competition
+
+#### Pharmaceutical Research and Manufacturers of America v. Walsh, 538 U.S. 644 — interstate commerce
+
+**Docket or dockets:** No. 01-188.
+**Decided:** 2003-05-19.
+
+##### Maine Rx does not impose the asserted extraterritorial price control
+
+**Holding:** Maine's rebate condition does not control a manufacturer's separate out-of-state transaction price merely because its bargaining effects extend outside Maine. The presented theory therefore does not justify preliminary relief.
+
+**Proposition-level authority:** Souter's opinion of the Court, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer. Scalia and Thomas agree only with the disposition on their separate grounds.
+
+**Treatment of earlier authority:** Baldwin and Healy concern actual external price commands and price-affirmation requirements. They do not equate interstate economic consequences with legal control over a separate transaction.
+
+##### Maine Rx lacks the claimed subsidy preference for competing local manufacturers
+
+**Holding:** The rebate-and-benefit arrangement does not establish the asserted origin discrimination when an in-state manufacturer bears the same condition and the benefiting pharmacies and residents are not its manufacturing competitors. That comparison supplies no preliminary restraint.
+
+**Proposition-level authority:** Souter's opinion of the Court, supported at this scope by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer.
+
+**Treatment of earlier authority:** West Lynn Creamery requires examination of collection and distribution together; unlike its preferred local producers, Maine drug manufacturers receive no comparable preference. Tracy requires an actual supported competitive comparison.
+
+The Medicaid and prospective-officer questions are under Administrative Law and Federal Courts: Immunities and Remedies, Walsh, May 19, 2003, No. 01-188.
+
+### Completed local machine guns and the national stock restriction
+
+#### United States v. Haney — commerce power over completed local machine guns
+
+**Docket or dockets:** Tenth Circuit judgment below, 264 F.3d 1161; no separate Supreme Court docket supplied.
+**Decided:** 2003-05-19.
+
+##### Completed local machine guns within the federal civilian-stock restriction
+
+**Holding:** The Commerce and Necessary and Proper Clauses permit Congress to prohibit possession of completed locally converted or assembled machine guns under §922(o) without proof of an individual interstate transaction or a separately substantial effect from that possession. Exempting that completed-weapon class would allow retention and circulation that materially impair the valid national restriction on additions to civilian machine-gun stock.
+
+**Proposition-level authority:** Opinion of the Court (Stone-Zsela), unanimous.
+
+**Material application:** Both weapons were undisputedly completed machine guns, one converted and one assembled from parts; the commerce objection to both convictions fails.
+
+**Limits and questions not reached:** Section 922(o)(2)(A) separately excepts transfers to or by, and possession by or under the authority of, the United States, its departments or agencies, or a State, its departments, agencies or political subdivisions. Section 922(o)(2)(B) excepts lawful transfer or possession of a machine gun lawfully possessed before May 19, 1986; earlier manufacture or possession of unassembled parts alone does not establish that condition. Neither exception is established here. Valid commerce power does not resolve the independent arms claim.
+
+**Treatment of earlier authority:** Hale supplies the possession-and-stock connection; Kirk extends that connection to local conversion; Wright preserves it without an individual transaction requirement. Lopez continues to require an identifiable commerce connection and rejects general dangerousness, marketability or downstream crime costs as substitutes.
+
+The separate arms holding is under Civil Rights, Haney, May 19, 2003, judgment below 264 F.3d 1161.
+
+### Federal power allocations and state prudence disallowances
+
+#### Entergy Louisiana, Inc. v. Louisiana Public Service Commission, 539 U.S. 39
+
+**Docket or dockets:** No. 02-299.
+**Decided:** June 2, 2003.
+
+##### Whether state prudence review may defeat a FERC allocation containing discretionary utility inputs
+
+**Holding:** A state commission setting retail rates must honor the cost allocation imposed by an operative FERC tariff. It may not make assigned costs unrecoverable through a competing prudence assessment of an operational input that the federal arrangement entrusts to utility discretion; the preemption claimant must identify the binding federal obligation and the actual conflict, leaving genuinely independent retail regulation available.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Material application:** MSS-1 allocates generating-capacity costs through a method that assigns reserve-unit classification to the operating committee. State rejection of the costs produced by that classification defeats the federal allocation even without a separate FERC determination that the managerial choice was prudent. The federal criteria require demonstrated capability and intent to return an extended-reserve unit for future system needs, a decision recorded in committee minutes, and consideration of present and future needs, projected reserve duration, maintenance expense and return-to-service expense; describing those criteria does not establish universal compliance.
+
+**Limits and questions not reached:** Independent retail matters remain subject to their own law. Nantahala's separate alternative-source-purchase reservation is not resolved.
+
+**Operative remedy or transition:** The Louisiana judgment is reversed. The commission must remove the rejected disallowance, explain the federal allocation's treatment in its revised calculation, and demonstrate that relabeling the authorized input has not recreated the same disallowance. Lawful independent adjustments and ordinary review remain available.
+
+**Treatment of earlier authority:** Nantahala forbids state cost treatment based on a different federal power allocation. Mississippi Power applies that rule despite an antecedent-prudence objection not separately decided by FERC. AT&T supplies the analogous distinction between tariff-inconsistent relief and independent duties. Freightliner, Geier and Sprietsma retain the requirement of an operative federal predicate and actual conflict; regulatory silence or a general interest in uniformity does not suffice.
+
+##### Whether a new tariff-violation theory sustains the actual prudence disallowance
+
+**Holding:** An order resting on allocation-defeating prudence review cannot be upheld on a newly asserted tariff-compliance theory when the agency made no finding of a violation. The challenged disallowance must be removed on remand.
+
+**Proposition-level authority:** Opinion of the Court (O'Connor), unanimous.
+
+**Material application:** The commission declined to decide compliance. An earlier FERC finding concerned the pre-amendment agreement and did not establish violation of the arrangement amended August 5, 1997. The challenged prudence inquiry addressed later treatment, although the disallowed payment figures dated from 1996 and entered the 1997–1998 rate calculation.
+
+**Limits and questions not reached:** The merits and proper initial forum of a distinct compliance controversy remain open because the actual order did not adjudicate that controversy or establish its factual basis.
+
+### Milk regulation, congressional permission and citizen discrimination
+
+#### Hillside Dairy, Inc. v. Lyons; Ponderosa Dairy v. Lyons, 539 U.S. 59
+
+**Docket or dockets:** Nos. 01-950 and 01-1018, consolidated.
+**Decided:** June 9, 2003.
+
+##### Whether federal protection of milk composition and labeling immunizes pricing and pooling
+
+**Holding:** Section 144 of the Federal Agriculture Improvement and Reform Act of 1996, 7 U.S.C. §7254, does not shield California's challenged milk-pricing and pooling requirements from Commerce Clause scrutiny. Congressional permission must clearly cover the particular interstate burden; inclusion in an integrated regulatory program does not extend permission beyond the enacted subjects.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part I, joined by Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Ginsburg and Breyer, eight direct joins including the author. Thomas independently agrees with the statutory interpretation but dissents from the Commerce disposition.
+
+**Material application:** Section 144 protects California requirements for percentages of milk solids or solids not fat in fluid milk sold or marketed in California, and labeling concerning those characteristics. Its protection against direct or indirect limitations remains tied to those subjects. Pricing and equalization-pool contributions are distinct. Under the challenged 1997 amendment, a processor whose blend price exceeds the quota price must contribute on out-of-state purchases as well as in-state purchases.
+
+**Limits and questions not reached:** The dismissal record does not establish the actual discriminatory operation, competitive comparison or justification. The retained Commerce rules govern their adjudication without presumptions drawn from regulatory labels.
+
+**Operative remedy or transition:** Vacate the Commerce dismissal in both dockets, 8–1, and remand without blanket §144 immunity.
+
+**Treatment of earlier authority:** South-Central Timber requires clear permission for the particular burden. New York and Pic-A-State preserve Congress's power to authorize specified burdens without enlarging the enacted permission. West Lynn Creamery requires scrutiny of a proved linked assessment and local benefit; Tracy preserves comparison of actual competitors and relevant differences in regulated duties.
+
+##### Whether neutral statutory language alone defeats individual Article IV discrimination claims
+
+**Holding:** An individual's Article IV Privileges and Immunities claim cannot be rejected solely because the law avoids express citizenship or residence classifications. Once the claimant proves discrimination against nonresident citizens in a protected pursuit, the State must establish a substantial reason apart from noncitizenship and a close connection between that reason and the differential treatment.
+
+**Proposition-level authority:** Opinion of the Court (Souter), Part II: all nine adopt the affirmative rule. Its reservation concerning proxies and effects is joined by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer; Stone-Zsela does not join that reservation.
+
+**Limits and questions not reached:** The eight-Justice reservation leaves unresolved whether Chalker covers only citizenship proxies or every classification producing discriminatory practical effects. Disadvantage to interstate goods or companies does not alone prove discrimination against citizens. The corporations' unchallenged exclusion from Article IV protection is undisturbed; individual status, protected pursuit, actual comparison, disadvantage and justification remain to be adjudicated.
+
+**Operative remedy or transition:** Vacate the individual Article IV dismissals in both cases, unanimously. The rejected facial-language prerequisite cannot support renewed dismissal; ordinary procedures govern any needed factual development.
+
+**Treatment of earlier authority:** Chalker rejects a facial-citizenship-language requirement without settling the reserved proxies-versus-effects question here. Lunding supplies the substantial independent reason and close-relationship requirements while allowing genuinely relevant distinctions.
+
+### Tobacco destination sales, tracing burdens and interstate coordination
+
+#### Star Scientific, Inc. v. Beales, judgment below 278 F.3d 339 — commerce and interstate settlement
+
+**Docket or dockets:** No. 01-1719; Fourth Circuit No. 01-1502; also captioned Star Scientific, Inc. v. Kilgore.
+**Decided:** June 16, 2003.
+
+##### Whether destination-based escrow regulates wholly outside transactions
+
+**Holding:** Measuring tobacco escrow by cigarettes ultimately sold to Virginia consumers does not control wholly outside transactions merely because the manufacturer first sold to an independent distributor in another State. The measure sets no outside price and imposes no escrow obligation on cigarettes that never enter Virginia's consumer market.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Holding 4, unanimous, including Scalia and Thomas at this bounded territorial scope.
+
+**Material application:** The upstream sale does not remove the ultimate local sale that triggers the reserve.
+
+**Treatment of earlier authority:** Healy and Brown-Forman's outside-price controls differ from this destination-based assessment. Sorrell and Walsh direct attention to the actual regulated transaction. BMW and State Farm's limits on punishment for unrelated lawful foreign conduct do not exempt products actually sold locally from prospective security.
+
+##### Whether the integrated scheme and described interstate tracing costs survive distinct Commerce scrutiny
+
+**Holding:** A settlement-status preference is not geographic discrimination where the scheme as a whole favors neither Virginia production nor local origin. Evenhanded regulation remains independently subject to Pike: incidental interstate burdens may not be clearly excessive relative to putative local benefits, considering their nature and whether a less burdensome alternative would serve them equally well; the described destination-tracing and contracting costs do not invalidate this facial scheme.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Holding 5, joined by Stone-Zsela, Stevens, O'Connor, Kennedy, Souter and Ginsburg, seven direct joins. Scalia and Thomas concur in the Commerce judgment on distinct grounds and do not join this inquiry.
+
+**Material application:** The linked arrangement contains no return of escrow reserved to Virginia producers or other local-production subsidy. Real burdens of monitoring independent distributors, obtaining destination data and changing contracts are accepted for the legal analysis. Excise-stamp reporting establishes that distributors record local units, not effortless manufacturer access or minimal acquisition costs. Tracing identifies the same consumer sales that generate the potential lawful liabilities secured; limiting deposits to direct manufacturer sales would leave that risk unsecured when intermediaries supply the market and would not serve the objective equally well.
+
+**Limits and questions not reached:** This is Rule 12(b)(6) review of the described operation, not acceptance of the lower court's minimum-cost inference or importation of Sorrell's preliminary-injunction burden. A supported materially different discriminatory, territorial or operational application receives its own review.
+
+**Operative remedy or transition:** Affirm dismissal of the facial Commerce claim; qualifying Virginia sales remain subject to the statute's actual reserve and release requirements.
+
+**Treatment of earlier authority:** West Lynn Creamery requires examination of the integrated competitive operation but involved a different dedicated local-producer benefit. Tracy and Walsh support the actual-obligation and transaction comparisons. Pike and Sorrell preserve incidental-burden review independently of geographic discrimination.
+
+##### Whether coordinated tobacco settlement increases state power against federal supremacy
+
+**Holding:** Interstate coordination requires congressional consent under the Compact Clause when it enhances state power so as to encroach on federal supremacy. This agreement combines otherwise available settlement and regulatory powers and strengthens bargaining against manufacturers while preserving federal authority; congressional consent is therefore unnecessary.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Holding 6, unanimous.
+
+**Material application:** Joint administration and incentives to enact qualifying legislation do not deprive Congress of power to regulate tobacco or preempt conflicting state measures. The agreement contemplates adjustments for later federal tobacco legislation and makes its bankruptcy provisions operate consistently with the Bankruptcy Code. Economic effectiveness against private parties differs from altered national-state power.
+
+**Limits and questions not reached:** The sufficient federal-supremacy ground leaves undecided Virginia's alternative assertion that Congress actually consented. The causal connection establishing standing is a separate question, recorded in Federal Courts: Justiciability under Star Scientific, No. 01-1719, June 16, 2003.
+
+**Operative remedy or transition:** Affirm dismissal of the Compact Clause claim.
+
+**Treatment of earlier authority:** Virginia v. Tennessee and United States Steel distinguish strengthened joint bargaining from an enhancement of state authority against the National Government.
+
+
+
+### Holocaust insurance reporting and national settlement authority
+
+#### American Insurance Association v. Garamendi, 539 U.S. 396 — federal displacement and foreign commerce
+
+**Docket or dockets:** No. 02-722.
+**Decided:** June 23, 2003.
+
+##### Whether the federal Holocaust-claims arrangements displace California's insurance-reporting duty
+
+**Holding:** A party seeking displacement of a state reporting duty must identify lawful federal authority embodied in an operative commitment or independent constitutional rule and establish an actual incompatibility with the state duty. Courts decide that legal incompatibility independently; diplomatic opposition does not itself establish it. The identified German and Austrian claims-processing and funding arrangements do not make California's challenged reporting requirement unlawful.
+
+**Proposition-level authority:** Part I of Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia and Thomas; five direct supporters.
+
+**Material application:** The federal arrangements require specified claims processing, finance that process and seek information, but do not establish an exclusive disclosure method. Supplying California's registry does not on this record divert claims from ICHEIC, alter valuation, withdraw the promised funding or decide payment. The United States' undertaking to advocate an exclusive forum and use discretionary best efforts leaves the legal ground for courts to identify. Neither an express preemption clause nor literal impossibility is indispensable to an actual conflict, but license pressure and diplomatic effects alone do not prove one. The Commission Act requires encouragement of a report, qualifies its suggested contents by availability and separately requires coordination; it neither forbids the state reports nor unconditionally requires insurer production.
+
+**Limits and questions not reached:** This decision preserves legally effective federal settlements and independent constitutional limits. The separate payment and limitations statutes and the procedural-hearing theory are outside the grant; genuinely preserved outside-grant claims remain available.
+
+**Operative remedy or transition:** Affirmance rejects the requested injunction on all three granted grounds. Any restraint resting solely on those grounds must be removed; lawful enforcement remains subject to independently applicable procedural protections.
+
+**Treatment of earlier authority:** Crosby retains actual-conflict analysis tied to an operative federal arrangement; Barclays retains the distinction between binding legal authority and informative Executive policy. Dames & Moore, Belmont and Pink retain the force of valid settlements on their actual legal grounds. Zschernig's actual-intrusion limit is preserved without making foreign effects or diplomatic opposition conclusive. Sprietsma's distinction between nonrequirement and affirmative federal protection is applied by analogy, without extending its regulatory holding to presidential settlement power.
+
+##### Authority of the rejection of the Foreign Commerce Clause challenge
+
+**Authority of the judgment:** Stone-Zsela, Stevens, Scalia, Thomas and Ginsburg reject this ground for an injunction. Ginsburg's Part II, joined by Stone-Zsela and Stevens, rests on the insurance function, affirmative congressional allocation and independent national-uniformity review. Scalia uses a discrimination-or-materially-identical-precedent approach; Thomas rejects the inferred negative Commerce prohibition. No rationale has five supporters, and these different tests yield no controlling logical-subset rule under Marks.
+
+**Limits and questions not reached:** The judgment rejects this challenge without replacing existing foreign-commerce doctrine. Barclays's independent constitutional rules and Fabe's and Prudential Insurance's function-specific insurance and congressional-allocation holdings remain effective; the three-Justice application is not a new rule of the Court.
+
+For this case's local insurance connection holding, see Property and Economic Rights — American Insurance Association v. Garamendi, June 23, 2003, No. 02-722, authority to require foreign-policy information connected to local insurance regulation.
+
+### Library funding and dependent unconstitutional-conditions claims
+
+#### United States v. American Library Association, Inc., 539 U.S. 194 — library funding and dependent unconstitutional-conditions claims
+
+**Docket or dockets:** No. 02-361.
+**Decided:** June 23, 2003.
+
+##### The dependent unconstitutional-conditions claim against library funding
+
+**Holding:** A conditional-spending challenge based on inducement of unconstitutional library conduct does not support this facial injunction where substantial unconstitutional adult exclusion has not been established under the lawful disabling construction. Funding alone cannot justify a proved speech burden; materially obstructive administration remains separately reviewable.
+
+**Proposition-level authority:** Kennedy's Part II, joined by O'Connor, Scalia, Thomas and Breyer: five direct joins.
+
+**Operative remedy or transition:** Reverse the facial spending ground along with the facial speech ground for both programs. The statutory construction and facial-speech holding appear in First Amendment.
+
+**Treatment of earlier authority:** Dole’s bar on conditions inducing unconstitutional conduct remains intact; the predicate for the requested facial relief is absent on this record.

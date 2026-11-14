@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Maritime Law
 
@@ -618,3 +618,85 @@ The public must receive adequate notice of the wreck's location. For the third c
 - Yamaha Motor Corp., U.S.A. v. Calhoun: preserves otherwise available state remedies for its distinct nonseafarer class; it does not itself decide this worker's federal negligence action or damages.
 - American Dredging Co. v. Miller: preserves the distinction between state forum administration and substantive maritime rights, rather than supplying unrestricted substantive supplementation.
 - Lewis v. Lewis & Clark Marine, Inc.: preserves protection of an actual limitation right alongside saved remedies; its forum and adequate-protection rule does not determine this negligence claim.
+
+### International through bills and downstream inland-carrier protection
+
+#### Norfolk Southern Railway Co. v. Kirby
+
+**Docket or dockets:** Eleventh Circuit judgment below, 300 F.3d 1300; no separate Supreme Court docket supplied.
+**Decided:** 2003-05-19.
+
+##### International through-carriage bills receive maritime interpretation despite an inland casualty
+
+**Holding:** Federal maritime law governs an international through-carriage undertaking whose nature includes the contemplated ocean transportation when no material local interest calls for a different rule. An inland casualty alone does not remove interpretation of the undertaking from maritime law.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** The Sydney–Savannah–Huntsville shipment was an international undertaking; the inland derailment did not turn the bills into wholly local rail contracts.
+
+**Limits and questions not reached:** COGSA's statutory sea-carriage coverage remains distinct from contractual extension beyond that coverage. Different modal liability measures may control the amount without changing the undertaking's maritime character.
+
+**Treatment of earlier authority:** Kossick supplies the contract-nature and local-interest inquiry. American Dredging distinguishes state forum administration from substantive maritime obligations. Garris permits bounded maritime development within statutory limits.
+
+##### The original through bill protects its described inland performer without direct privity
+
+**Holding:** A maritime through bill extends its limitation to a downstream inland performer when the actual beneficiary language covers persons used for the promised transportation; direct naming or privity is not an added requirement contrary to that language. ICC's independent-contractor language covers Norfolk Southern's contemplated inland performance, subject to that bill's own limitation terms.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Limits and questions not reached:** A network provision can determine the liability measure without excluding a performer from the beneficiary class. ICC's measure is not replaced by the dollar amount in Hamburg Süd's separate contract.
+
+**Treatment of earlier authority:** Herd requires actual contractual support for extending another actor's limitation; a covered performing class supplies that support without an additional direct-contract requirement.
+
+##### Entrusting through carriage gives the intermediary limited authority over downstream liability
+
+**Holding:** A cargo owner entrusting through carriage to an intermediary is bound against a downstream carrier by the limitation arranged for that authorized carriage. The intermediary need not be the owner's general agent, and its own enforceable promises to the owner retain their separate force.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous.
+
+**Material application:** Hamburg Süd's bill expressly protects inland carriers and extends the invoked limitation to Norfolk Southern's performance. Its contractual extension, rather than automatic statutory COGSA coverage of rail transport, supplies the protection.
+
+**Treatment of earlier authority:** Great Northern's entrusted-shipment and valuation principle extends to this limited maritime authority. Sky Reefer preserves applicable nonwaivable cargo protection.
+
+##### Both contractual protections govern on remand with their distinct measures
+
+**Holding:** The rejection of Norfolk Southern's protection under each bill must be reversed. The Hamburg Süd bill independently supports the reviewed $5,000 partial limitation, subject to any genuinely remaining package or amount question; a recovery governed by ICC's bill must use that bill's own terms.
+
+**Proposition-level authority:** Opinion of the Court (Thomas), unanimous; the two contractual grounds are independently sufficient sources of carrier protection.
+
+**Limits and questions not reached:** Use of $500 for each of ten containers in the reviewed ruling establishes no universal container-as-package rule. Fault, recoverable loss and any genuinely material remaining package or amount issue receive ordinary adjudication.
+
+**Operative remedy or transition:** Reverse and remand. These federal rules apply to all still-open direct-review cases within their scope, including earlier shipments. Final judgments retain finality; independently valid procedural and remedial rules remain operative, but reliance alone does not justify selective nonapplication.
+
+**Treatment of earlier authority:** Harper supplies equal application to nonfinal direct-review cases. Reynoldsville distinguishes independently valid remedial rules from reliance-only withholding of governing law.
+
+### Foreign-vessel drug conspiracies and sovereign enforcement consent
+
+#### United States v. Suerte, judgment below 291 F.3d 366
+
+**Docket or dockets:** Fifth Circuit No. 01-20626; district No. H-00-CR-659-1; no Supreme Court docket is established.
+**Decided:** June 9, 2003.
+
+##### Whether the specified foreign-vessel drug conspiracy requires an additional personal United States nexus
+
+**Holding:** For a maritime drug conspiracy expressly covered by former 46 U.S.C. App. §1903, involving a foreign-flagged vessel on the high seas and established flag-state permission for United States enforcement, the Fifth Amendment requires no additional domestic destination, citizenship or intended domestic effects. The preexisting prohibition and consent route, the charged maritime relationship and fair warning support that result; independent conduct-time notice and fundamental fairness remain necessary.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), joined by O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer, eight Justices. Stone-Zsela supports the judgment without joining this rationale.
+
+**Material application:** The alleged agreement to load cocaine offshore for Europe fits the regulated maritime relationship. Congress's high-seas power supports this specific statutory reach. Sovereign permission and individual warning perform distinct jobs: consent does not waive personal due process, and generalized awareness that trafficking is wrong does not itself supply the required notice.
+
+**Limits and questions not reached:** The later tow to the United States supplies no original nexus; the Government's alternative actual-nexus theory is not adjudicated.
+
+**Treatment of earlier authority:** Alvarez-Machain distinguishes custody from lawful trial authority; it does not resolve every statute's territorial reach. Hartford Fire's domestic-effects antitrust setting supplies no effects element here. Lanier requires warning from antecedent law, and Rogers preserves the bar on unforeseeable retrospective enlargement alongside foreseeable implementation of existing rules.
+
+##### Whether later enforcement consent and unsuccessful loading defeat restoration of the conspiracy indictment
+
+**Holding:** Malta's reported enforcement permission before trial implements a statutory consent mechanism already in force during the alleged conspiracy and permits restoration of the indictment, subject to the actual instrument's scope and any supported timing objection. Failure to recover cocaine does not defeat the charged conspiracy; the Government must establish statutory predicates and prove the offense beyond a reasonable doubt.
+
+**Proposition-level authority:** Opinion of the Court (Stevens), unanimous on this holding.
+
+**Material application:** Initial permission to board and search differs from the later permission to enforce United States law and cannot replace it. Later sovereign permission does not cure an independently deficient conduct-time warning. The allegation concerns an agreement and continuing loading effort, including the vessel's presence near the planned offshore rendezvous, rather than proof of completed possession.
+
+**Limits and questions not reached:** No particular burden for disputed preliminary vessel-permission facts commands a majority. The allegations do not establish guilt.
+
+**Operative remedy or transition:** Affirm restoration of the indictment and remand for actual permission, timing and independent notice adjudication under their applicable rules, followed by ordinary criminal determination of the conspiracy charge.

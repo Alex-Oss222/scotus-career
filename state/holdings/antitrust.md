@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Antitrust
 
@@ -494,3 +494,35 @@ For the recusal violation and civil relief in United States v. Microsoft Corp., 
 - California Dental Association v. FTC (May 24, 1999): applies its proportionate competitive inquiry and requirement to test a material explanation; no universal full-market study is imposed.
 - State Oil Co. v. Khan (November 4, 1997): applies its category-fit principle without extending its separate vertical maximum-price holding.
 - NYNEX Corp. v. Discon (December 14, 1998): applies its requirement to examine the actual competitive mechanism rather than extend a per se category by label.
+
+
+### Divestiture-related employee hiring restraints
+
+#### Eichorn v. AT&T Corp., 248 F.3d 131 — labor restraints
+
+**Docket or dockets:** Third Circuit No. 99-5791.
+**Decided:** June 30, 2003.
+
+##### Planned separation does not turn existing internal coordination into a Section 1 agreement
+
+**Holding:** Coordination within a wholly owned corporate group is not an agreement among independent actors under Sherman Act §1 merely because a divestiture is planned. The Preliminary Net's supported period of common ownership is governed by that rule; subsequent independent agreements require separate examination.
+
+**Proposition-level authority:** Part I of Souter's opinion, unanimous.
+
+**Operative remedy or transition:** Dismissal of the Preliminary Net antitrust claim is affirmed.
+
+**Treatment of earlier authority:** Copperweld's single-enterprise rule applies according to the companies' actual relationship and the restriction's operative period.
+
+##### Supported ancillary no-hire covenants require examination of their actual competitive effect
+
+**Holding:** A no-hire covenant genuinely subordinate and reasonably connected to transfer of an operating business receives rule-of-reason examination suited to its competitive tendency and supported transaction function. The limited Pre-Closing and 245-day Post-Closing Nets, supported workforce-continuity purpose and deficient competitive showing here warrant dismissal; loss of a preferred employer's pension advantages alone establishes neither a labor market nor competitive injury.
+
+**Proposition-level authority:** Part II of Souter's opinion, joined by Stevens, O'Connor, Scalia, Kennedy, Thomas, Ginsburg and Breyer; eight direct rationale votes. Stone-Zsela dissents from this disposition.
+
+**Material application:** The purchaser sought the operating business's technical workforce; the restrictions covered designated employees and consultants earning over $50,000. Evidence showed more than twenty alternative telecommunications employers and additional opportunities for general skills. The asserted geographically narrow, pension-dependent market lacked competitive support.
+
+**Limits and questions not reached:** A sale label or rejection of per se treatment does not establish ultimate legality. Workers remain protected as sellers of labor, and supported direct effects may suffice without an elaborate market study. Antitrust dismissal does not answer the distinct ERISA interference-purpose question.
+
+**Operative remedy or transition:** Dismissal of the independent-party antitrust claims is affirmed, 8–1.
+
+**Treatment of earlier authority:** California Dental supplies inquiry suited to the actual restraint and commercial explanation. NYNEX requires the actual agreement and competitive harm. Microsoft supports actual justification rather than reliance on an integration label; its platform context does not itself classify this covenant.

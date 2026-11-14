@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Federal Taxation
 
@@ -1321,3 +1321,34 @@ For whether bankruptcy changes the ultimate persuasion burden assigned by the su
 **Operative remedy or transition:** Reverse and remand for judgment implementing statutory aggregate-assessment authority and the parties’ stipulation governing the refund and counterclaim. Conceded factual accuracy is not reopened.
 
 **Treatment of earlier authority:** Brockamp's distinct refund time and amount limits remain unchanged; permission to estimate neither expands refund jurisdiction nor suspends those limits.
+
+### Research deductions in export-income computations
+
+#### Boeing Co. v. United States, 537 U.S. 437
+
+**Docket or dockets:** Nos. 01-1209 and 01-1382.
+**Decided:** March 4, 2003.
+
+##### Whether Treasury may allocate the relevant research expenses across the transportation-equipment category
+
+**Holding:** For the DISC and FSC computations governing Boeing's 1979–1987 tax years, Treasury may allocate currently deducted research expenses across the relevant two-digit transportation-equipment category under Treasury Regulation §1.861-8(e)(3). The court first identifies actual statutory authority and enforces its limits; within that authority, the regulation reasonably treats research as related to the broader technological category it can support, including when an individual program produces no current receipts.
+
+**Proposition-level authority:** Kennedy's opinion of the Court, joined by Stone-Zsela, Stevens, O'Connor, Souter, Ginsburg and Breyer; seven Justices adopt both allocation holdings.
+
+**Material application:** Sections 861 and 863, with the implementing grant in §7805(a), authorize the allocation used to determine combined taxable income. Research on an unsuccessful airplane program may benefit other transportation products; company accounting does not require exclusive statutory tracing to that program.
+
+**Limits and questions not reached:** The applicable two-digit category governs the 1979–1987 years. The specific marginal-costing powers in §§994(b)(2) and 925(b)(2) remain limited to establishing or maintaining export markets. Neither expertise, official status nor statutory ambiguity independently supplies delegation; this ruling does not approve unrelated classifications or later tax-year rules.
+
+**Treatment of earlier authority:** Haggar and Mead require identified delegation before controlling treatment of a formal regulation. MCI preserves enacted limits; Christensen is distinguished because it concerned nonbinding advice rather than an operative rule.
+
+##### Whether accepted export-transaction grouping overrides the incorporated research-allocation rule
+
+**Holding:** A qualifying choice to group export transactions by product or product line for the DISC or FSC pricing methods does not displace the research-expense allocation rule incorporated into the calculation of combined taxable income. Boeing's claimed refunds based on exclusive airplane-program allocation therefore fail, and the condition for changing the companion judgment is absent.
+
+**Proposition-level authority:** The same seven Justices join Kennedy's complete opinion and this necessary grouping holding.
+
+**Material application:** The DISC provision, §1.994-1(c)(6)(iii), and the FSC counterpart, §1.925(a)-1T(c)(6)(iii)(D), incorporate expense-allocation rules. Accepted grouping determines the transactions subject to pricing methods; it does not redefine which income class bears shared research. Section 174 permits a current deduction but does not select that class.
+
+**Operative remedy or transition:** Both judgments are affirmed. Boeing receives no refund on its rejected product-line theory. The conditional cross-petition fails, leaving Boeing Sales Corporation's favorable judgment intact; no new tax or refund amount is fixed.
+
+**Treatment of earlier authority:** United Dominion requires the computation established by the operative regulatory scheme; here that scheme expressly includes the research-allocation rule.

@@ -1,8 +1,8 @@
 # SUPREME COURT OF THE UNITED STATES: HOLDINGS REGISTER
 
-**Last completed October Term:** 2001
-**Processed through:** June 28, 2002, after all 127 completed OT2001 Court events.
-**Edition:** November 11, 2026
+**Last completed October Term:** 2002
+**Processed through:** June 30, 2003, after all 185 completed OT2002 Court events.
+**Edition:** November 14, 2026
 
 ## Property and Economic Rights
 
@@ -2290,3 +2290,239 @@ Paragraph (5)(F) bars further acceptances during a fiscal year after the 5,000-u
 **Limits and questions not reached:** No purchaser-for-value claim or procedural-due-process challenge was presented, so their application is not adjudicated. Innocence alone does not replace the temporal requirements of (A) or the value and reasonable-notice requirements of (B).
 
 **Treatment of earlier authority:** Buena Vista's civil eligibility and lawful-adjudication requirements are maintained. Bollin and Farmer preserve actual statutory authority and meaningful adjudication without creating a right to retain proved proceeds.
+
+
+### Rational review of merchandise-only occupational licensing
+
+#### Craigmiles v. Giles, 312 F.3d 220
+
+**Docket or dockets:** No Supreme Court docket supplied; reported judgment below, 312 F.3d 220.
+**Decided:** 2003-01-14.
+
+##### Whether the funeral-director qualification rationally applies to merchandise-only retailers
+
+**Holding:** An ordinary economic qualification that implicates neither a fundamental right nor a suspect class satisfies due process and equal protection when it has a reasonably conceivable rational connection to a legitimate public objective; the challenger must negate that connection without demanding empirical certainty, formal findings or the least burdensome system. Tennessee's funeral-director qualification may be applied to these merchandise-only retailers because its actual merchandise instruction and examination, together with professional discipline, rationally connect the qualification to competence and accountability in this specialized sales market.
+
+**Proposition-level authority:** Thomas's opinion of the Court, joined by O'Connor, Scalia, Kennedy, Souter, Ginsburg and Breyer; seven Justices.
+
+**Material application:** The curriculum actually includes merchandise instruction, 37 of 250 examination questions concern merchandising, and the common disciplinary system can serve competence and accountability. The retailers perform no bodily care, funeral or burial arrangements, embalming or advance-need sales, but substantial unrelated training does not negate that rational public connection.
+
+**Limits and questions not reached:** No empirical improvement in casket quality, proportional curriculum, optimal license or fundamental occupational right is required or established. The legitimacy of incumbent protection as the sole end is not decided because an independent rational public connection exists. The Privileges or Immunities claim lies outside the grant.
+
+**Operative remedy or transition:** Reverse and remand for dissolution of the injunction protecting these existing merchandise-only retail businesses against the qualification on the granted due-process and equal-protection grounds.
+
+**Treatment of earlier authority:** Beach Communications supplies the conceivable legitimate basis and challenger's burden; Lee Optical allows imperfect economic lines. Nordlinger permits disparities explained by legitimate differences. Heller and Romer retain actual rational connection without requiring the least burdensome alternative. Moreno and Cleburne continue to forbid illegitimate ends and irrational prejudice.
+
+### Retained rights in remains and process before irreversible removal
+
+#### Newman v. Sathyavaglswaran, 287 F.3d 786
+
+**Docket or dockets:** Ninth Circuit No. 00-55504; no Supreme Court docket supplied.
+**Decided:** 2003-01-15.
+
+##### Whether retained California disposition, gift and objection powers are protected property
+
+**Holding:** California's 1997 law gives the properly entitled next of kin a protected property interest in the retained powers to possess and direct disposition of remains, make anatomical gifts and object to corneal removal. The parents adequately plead that they hold those substantive rights; nonmarket character and the label quasi-property do not remove the interest from procedural due process.
+
+**Proposition-level authority:** Breyer's Part I, unanimous.
+
+**Limits and questions not reached:** The 1997 scheme controls the two retrospective claims. Former §27491.47 permits removal only absent known objection; it is distinct from §7151.5(a)(2)'s reasonable-contact provision for other tissue. Section 7100 honors contrary decedent directions and gives priority to spouse, children, parents, next kin in intestate order and the public administrator if the estate has sufficient assets. No superior claimant or donor direction defeats the parents' pleaded priority. The later consent amendment does not determine 1997 process, and autopsy authority does not itself authorize tissue transfer for another's use.
+
+**Treatment of earlier authority:** Roth locates the retained entitlement in state law; Loudermill prevents procedure from erasing that substantive interest. Sullivan requires an actual entitlement, which is alleged here. Phillips distinguishes ownership from market value without importing a takings remedy. No immutable constitutional property category for all human remains is created.
+
+##### What process the pleaded established corneal-removal practice requires
+
+**Holding:** The reinstated claim must be adjudicated under Mathews by weighing the retained private interest and irreversibility of removal, the risk of mistaken disregard of an entitled person's objection and value of feasible safeguards, and the government's actual retrieval and health burdens. Ordinarily a planned irreversible deprivation requires a practicable opportunity beforehand, but actual urgency or impracticability may justify proceeding without advance process; the pleadings establish neither mandatory advance consent in every case nor adequate eventual money relief.
+
+**Proposition-level authority:** Breyer's Part III is joined in full by Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas and Ginsburg; eight Justices. Stone-Zsela additionally joins the integrated Mathews inquiry, qualified ordinary-opportunity principle and factual, responsibility, defense and remedy remit, but not the decision to leave a more definite notice presumption and necessity allocation unstated.
+
+**Limits and questions not reached:** No specific ordinary-notice presumption or necessity-proof allocation is adopted on these pleadings. Contact information, retrieval urgency, donor directions, conflicting authorization and feasible safeguards require findings. Neither mandatory consent in every case nor adequate eventual compensation is established.
+
+**Operative remedy or transition:** Affirm reinstatement and apply the governing priority and donor rules, actual procedure, feasible safeguards, each defendant's responsibility, defenses, causation and compensable injury under ordinary burdens. The two retrospective removals do not establish entitlement to a prospective decree against the later consent regime. The state-remedy and exhaustion holdings appear under Federal Courts: Immunities and Remedies, Newman v. Sathyavaglswaran, Ninth Circuit No. 00-55504, January 15, 2003.
+
+**Treatment of earlier authority:** Mathews supplies one integrated contextual inquiry. Gilbert permits justified urgency to affect initial safeguards while retaining meaningful protection; neither rule is otherwise revised.
+
+### Completed site-plan approval and disputed referendum authority
+
+#### Cuyahoga Falls v. Buckeye Community Hope Foundation, 538 U.S. 188
+
+**Docket or dockets:** No. 01-1269.
+
+**Decided:** March 25, 2003.
+
+For Cuyahoga Falls v. Buckeye Community Hope Foundation, March 25, 2003, No. 01-1269, governmental discriminatory purpose is addressed under Civil Rights; the two property-related substantive-due-process questions are under Property and Economic Rights; permanent abandonment of the FHA claim is under Federal Courts: Justiciability.
+
+##### The actual delay was not constitutionally arbitrary
+
+**Holding:** Assuming the foundation's asserted completed property entitlement, this temporary withholding of permits during a genuine dispute over charter authority was not constitutionally arbitrary. Later correction of the state-law interpretation, the length of the delay and the existence of the entitlement do not by themselves establish independently arbitrary federal deprivation.
+
+**Proposition-level authority:** Kennedy's opinion, joined by Stevens, O'Connor, Scalia, Souter, Thomas, Ginsburg and Breyer: eight direct joins.
+
+**Material application:** The engineer followed legal advice under a preexisting charter stay after the trial court denied an injunction; the Ohio Supreme Court initially sustained the referendum before changing its interpretation. Permits issued after the final state decision. The genuine disputed-authority justification supports the temporary administration even assuming a completed entitlement.
+
+**Limits and questions not reached:** The precise state-law property interest is not decided, and the challenged procedure does not itself define away an assumed completed interest.
+
+**Operative remedy or transition:** Restore summary judgment for the City on the actual-delay due-process claim.
+
+**Treatment of earlier authority:** Lewis requires context and does not transfer its rapid-pursuit purpose-to-harm rule to deliberative land-use action. Craigmiles requires a real relation to a legitimate public basis. Newman, Roth and Loudermill separate entitlement from procedure.
+
+##### Submission of an administrative approval to referendum
+
+**Holding:** A referendum's administrative subject and an owner's prior completed approval do not alone make submission to the full electorate substantively unconstitutional. The asserted completed interest remains relevant to review of an actual deprivation, but the foundation's distinct theory that submission itself is substantively arbitrary fails here: the vote never became operative, and the temporary deprivation fails on the independent ground above.
+
+**Proposition-level authority:** Kennedy’s opinion and the same eight-Justice coalition; Stone-Zsela dissents from both due-process dispositions.
+
+**Limits and questions not reached:** A completed interest matters to actual deprivation, and voting does not cure an independently unconstitutional restriction. The separate adequacy of adjudicative procedure is outside the maintained substantive claim.
+
+**Operative remedy or transition:** Restore summary judgment on the distinct per se administrative-referendum theory. The vote never took effect, and the temporary delay is independently sustained on the preceding ground.
+
+**Treatment of earlier authority:** Eastlake preserves the electorate's public-decisionmaking role without immunizing substantive deprivations; its administrative-affairs discussion defeats the categorical ban. Eubank and Roberge retain their restriction of standardless vetoes vested in selected private persons.
+
+### IOLTA ownership, appropriation and public use
+
+#### Brown v. Legal Foundation of Washington, 538 U.S. 216
+
+**Docket or dockets:** No. 01-1325.
+**Decided:** 2003-03-26.
+
+For Brown’s owner-loss compensation rule and independent private-error liability ground, decided March 26, 2003, No. 01-1325, see Federal Courts: Immunities and Remedies.
+
+##### Ownership and compulsory appropriation of generated IOLTA interest
+
+**Holding:** Actually generated interest belongs to the client who owns the principal under Phillips; compelled transfer of that owned interest is assessed as a per se appropriation, separately from the placement of principal in the pooled account.
+
+**Proposition-level authority:** Souter's Part I ownership-and-appropriation proposition has nine direct votes: Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. The three compensation dissenters directly agree with this proposition.
+
+**Material application:** Beneficial ownership, actual generation of interest and transfer are assumed for these plaintiffs in deciding compensation, not established as quantified findings.
+
+**Treatment of earlier authority:** Phillips v. Washington Legal Foundation controls title despite inability to earn a positive net return independently; Brown answers the previously reserved taking question at this scope. Webb's Fabulous Pharmacies bars conversion of private earnings into public property by assertion; its actual-service-fee reservation remains distinct. Loretto supplies the appropriation framework.
+
+##### Whether initial placement of qualifying principal is a regulatory taking
+
+**Holding:** Initial placement of qualifying principal in Washington's IOLTA program is distinct from later appropriation of earned interest. On this record, the placement causes neither adverse economic impact nor interference with investment-backed expectations and establishes no regulatory taking under Penn Central.
+
+**Proposition-level authority:** Souter's Part I initial-placement analysis is joined by Stevens, O'Connor, Ginsburg and Breyer; five direct votes.
+
+**Treatment of earlier authority:** Penn Central governs the initial-placement question; its regulatory analysis does not displace the appropriation framework governing the subsequent compulsory transfer.
+
+##### Whether the IOLTA legal-services purpose satisfies public use
+
+**Holding:** Providing legal services to the needy is a public use for the compulsory transfer of this client interest. That public purpose does not excuse a positive uncompensated owner loss.
+
+**Proposition-level authority:** Souter's Part II is joined by Stone-Zsela, Stevens, O'Connor, Ginsburg and Breyer; six direct votes.
+
+### Racetrack and riverboat taxes within a legislative package
+
+#### Fitzgerald v. Racing Association of Central Iowa, 539 U.S. 103 — gambling-revenue tax classification
+
+**Docket or dockets:** No. 02-695.
+**Decided:** June 9, 2003.
+
+##### Whether different racetrack and riverboat slot-revenue taxes survive equal protection
+
+**Holding:** An ordinary economic tax classification involving neither a suspect class nor a fundamental right is constitutional if a reasonably conceivable legitimate objective rationally supports it; challengers must negate that basis. Iowa may grant racetracks a new slot-revenue opportunity at a higher tax rate while preserving lower riverboat rates to reconcile legitimate industry and revenue goals, without making each provision maximize assistance to racetracks.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), unanimous.
+
+**Material application:** The racetrack rate rose to 36 percent while the riverboat rate remained 20 percent. Identical machines do not make the enterprises identical for every lawful policy purpose. The package offers racetracks a genuine though partial benefit and accommodates other public economic interests, without relying on favoritism as its own justification. Formal findings and proof of a single exclusive actual motive are unnecessary.
+
+**Limits and questions not reached:** Independent Iowa constitutional meaning and authorized state remedies remain available; the federal ruling does not select a new tax rate or award an automatic refund.
+
+**Operative remedy or transition:** Reverse the federal equal-protection invalidation and remand. The jurisdictional holding appears in Federal Courts under Fitzgerald, No. 02-695, June 9, 2003.
+
+**Treatment of earlier authority:** Nordlinger and Beach Communications retain rational but imperfect classifications, reasonably conceivable public grounds and the challenger's burden. Allegheny Pittsburgh's arbitrary administration differs from this enacted classification supported by the actual policy package.
+
+### Prospective tobacco security and statutory release rights
+
+#### Star Scientific, Inc. v. Beales, judgment below 278 F.3d 339 — prospective tobacco reserves
+
+**Docket or dockets:** No. 01-1719; Fourth Circuit No. 01-1502; also captioned Star Scientific, Inc. v. Kilgore.
+**Decided:** June 16, 2003.
+
+##### Whether the actual prospective escrow reserve may precede a tobacco-liability judgment
+
+**Holding:** Due process permits a rational prospective reserve for potential lawful liabilities connected to products sold in the State before those liabilities have been reduced to judgment. Virginia's reserve survives this facial challenge on its local-sales connection and the manufacturer's earnings and principal-release protections stated below; it establishes security, not tort liability.
+
+**Proposition-level authority:** Opinion of the Court (Breyer), Holding 2, unanimous.
+
+**Material application:** The manufacturer receives interest and other appreciation when earned. Principal is held by a qualified institution subject to three distinct statutory release routes under §3.1-336.2 B:
+
+- B1 permits payment of a judgment or settlement of an agreement-defined released claim against that manufacturer, asserted by Virginia or an agreement-defined releasing party located or residing in Virginia. Principal must be released in deposit order and only to the extent, and at the time, necessary to make the payments the judgment or settlement requires.
+- B2 requires return of an excess once the manufacturer establishes that the required deposit for a particular year exceeded Virginia's allocable share of the total that the manufacturer would have owed for that year as a settlement participant. The hypothetical total uses §IX(i)(2), before §IX(i)(3)'s adjustments and offsets except that the Inflation Adjustment is retained.
+- B3 requires return of principal left unreleased under B1 or B2 when 25 years have elapsed from that particular deposit.
+
+Delayed tobacco claims create a legitimate collectibility concern tied to Virginia consumer sales, including sales through intermediaries. Capital restraint is a real burden; earnings and conditional return rights distinguish this security from an adjudicated damages payment. A manufacturer's denial of earlier settling parties' misconduct does not negate that prospective purpose.
+
+**Limits and questions not reached:** No finding of liability or particular annual excess follows. Later recovery must meet its own substantive and procedural conditions; B2 does not equalize every economic burden or create a nationwide sales assessment, and B3 does not postpone every lawful release for 25 years. The separately pleaded takings claim was abandoned on appeal and is outside review.
+
+**Operative remedy or transition:** Affirm dismissal of the facial due-process claim. Enforcement must use the actual qualifying Virginia-sales base and the distinct earnings and B1–B3 requirements.
+
+**Treatment of earlier authority:** Concrete Pipe distinguishes preliminary economic demands from final adjudication and permits rational allocation within the actual regulated activity. Eastern Enterprises' fractured ruling on a different retrospective obligation supplies no controlling affirmative due-process rule against this reserve. BMW and State Farm's territorial-punishment and adjudicated-award rules concern different governmental acts. The related classification and Commerce/Compact holdings appear under Civil Rights and Constitutional Structure, Star Scientific, No. 01-1719, June 16, 2003.
+
+
+
+### Local regulatory connection for historical foreign insurance information
+
+#### American Insurance Association v. Garamendi, 539 U.S. 396 — local insurance connection
+
+**Docket or dockets:** No. 02-722.
+**Decided:** June 23, 2003.
+
+##### Authority to require foreign-policy information connected to local insurance regulation
+
+**Holding:** A State may demand policy information from a locally licensed insurer when that information reasonably relates to its regulation of the local insurance relationship, even though the policies arose abroad. The State must identify that relationship and connection; a challenger must substantiate any asserted factual excess, and the court independently determines legal sufficiency. A local license alone does not authorize regulation of unrelated foreign activity.
+
+**Proposition-level authority:** Part III of Ginsburg's opinion of the Court, joined by Stone-Zsela, Stevens, Scalia and Thomas; five direct supporters.
+
+**Material application:** Information about performance, possible obligations and the related insurance companies with which residents deal has a supported connection to the licensed enterprise. The historical period, inclusion of nonvictim policies and later-created affiliations do not themselves defeat that connection. Requiring reports does not determine the payment obligations under every foreign policy.
+
+**Limits and questions not reached:** A materially unrelated particular demand requires its own factual assessment. The ungranted hearing theory and separate payment and limitations statutes are not decided. Reporting authority does not settle the procedures independently required before a sanction.
+
+**Treatment of earlier authority:** Hague and Shutts supply the genuine-connection requirement; their adjudication of applicable substantive contract law is distinguished from collection of relevant regulatory information.
+
+For the rejection of federal displacement, the fractured Commerce judgment and the resulting denial of an injunction, see Constitutional Structure — American Insurance Association v. Garamendi, June 23, 2003, No. 02-722.
+
+### Due process for continuing instrumentality-vehicle retention
+
+#### Krimstock v. Kelly — due process for continuing instrumentality-vehicle retention
+
+**Docket or dockets:** Second Circuit No. 00-9488; judgment below, 306 F.3d 40.
+**Decided:** June 23, 2003.
+
+##### Prompt neutral review of continued vehicle retention
+
+**Holding:** When an automobile-forfeiture scheme permits prolonged physical retention without equivalent timely neutral review, due process requires notice and a prompt meaningful opportunity to contest the justification for continuing custody. New York City's described instrumentality-forfeiture procedures fail that requirement, and the complaint therefore survives dismissal.
+
+**Proposition-level authority:** Kennedy's Part I, joined by all eight other Justices.
+
+**Limits and questions not reached:** An equivalent timely neutral contest in an existing proceeding suffices; a separate tribunal is unnecessary. The twenty-five-day commencement-or-return rule does not require a hearing within twenty-five days. Arraignment, a future forfeiture trial, requests for judicial intervention and Article 78 do not establish an assured timely equivalent on this record. The complaint survives dismissal.
+
+**Treatment of earlier authority:** Good separates seizure authority from due process; White and Calero-Toledo retain immediate movable-property seizure rules, while $8,850 governs final-forfeiture delay and Von Neumann concerned remission with judicial forfeiture and bond release available.
+
+##### Why the ongoing vehicle deprivation requires a focused hearing
+
+**Holding:** Applying Mathews, the substantial ongoing loss of vehicle use, the material risk of error concerning ownership and the need for custody, and the usefulness of confined neutral testing require a preliminary retention hearing in this scheme. Preservation, safety and administrative interests shape that focused process while allowing the City to demonstrate that physical custody remains necessary.
+
+**Proposition-level authority:** Kennedy's Part II, joined by Stone-Zsela, Stevens, O'Connor, Souter, Thomas, Ginsburg and Breyer: eight Justices. Scalia supports the hearing on a different rationale.
+
+**Limits and questions not reached:** Arrest evidence does not establish a separate owner’s rights, forfeitable connection or custody necessity. The hearing does not duplicate final title adjudication.
+
+**Treatment of earlier authority:** Mathews applies to the loss of use, error risk, useful safeguards and administrative burden. Farmer’s focused later-hearing principle extends to this custody problem without transferring its counsel-funding release burden. David’s already returned automobile and later fee hearing are distinguished; Gilbert separates initial authority from continuation.
+
+##### The hearing’s subjects and effective interim release authority
+
+**Holding:** An owner or claimant asserting a possessory interest must receive notice and a prompt opportunity before a neutral judicial or administrative decisionmaker to challenge seizure probable cause, the likely merits of forfeiture with supported owner defenses, and the necessity of physical custody rather than adequate bond, transfer restrictions or other security. The City must support its continued deprivation; when the required justification fails, the decisionmaker must have power to order interim release or an effective security alternative, subject to independent lawful custody grounds.
+
+**Proposition-level authority:** Kennedy's Part III-A, unanimous.
+
+**Limits and questions not reached:** Supported untainted evidence acquired after a defective seizure may justify present retention; lawful initial seizure may cease to justify it. Demonstrated safety risks inform necessity and security alternatives. Vehicles held independently as arrest evidence remain outside this instrumentality-retention mandate and require their own lawful basis.
+
+##### Preliminary City justification and the separate-owner defense
+
+**Holding:** The City must make a preliminary showing of probable validity of continued custody: a supported likely forfeiture basis and a sufficient present need for physical possession rather than adequate security. The claimant separately bears the governing Bennis showing of a protected separate interest, nonparticipation, lack of knowledge and all reasonably expected prevention; the hearing must permit meaningful presentation of that defense while leaving final title for final adjudication.
+
+**Proposition-level authority:** Kennedy's Part III-B, joined by all seven other Associate Justices; Stone-Zsela does not join this proof allocation.
+
+**Limits and questions not reached:** The City’s preliminary probable-validity showing is distinct from its reported final-forfeiture preponderance burden. Bennis requires practical reasonable prevention, not constant surveillance or prevention at any cost: lawful sharing does not defeat the defense conclusively, while ignorance alone is insufficient. Local allocation concerning whether the owner permitted or suffered misuse remains for the lower court under applicable law; this interim-process grant presents no final-title dispute requiring the Court to construe that allocation.
+
+**Treatment of earlier authority:** Bennis supplies every separate-interest defense predicate and reasonable-prevention limit. Farmer’s claimant preponderance rule remains confined to legitimate funds actually needed for trial counsel and does not govern all vehicle-retention questions.
