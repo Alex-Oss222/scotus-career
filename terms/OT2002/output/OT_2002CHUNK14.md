@@ -1070,7 +1070,7 @@ SOUTER, J., delivered the opinion of the Court, in which STEVENS, O'CONNOR, SCAL
 - **California Dental Association v. FTC, May 24, 1999:** Applies examination fitted to the actual competitive tendency and material explanation; an elaborate market study is not universally required.
 - **NYNEX Corp. v. Discon, Inc., 525 U.S. 128:** Applies classification by the actual agreement and the independent requirement of competitive injury.
 - **United States v. Microsoft Corp., June 28, 2002:** Applies by analogy the need for actual justification and competitive inquiry; its platform–browser setting does not itself classify this labor covenant.
-- **Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co., April 29, 1997:** Applies protection for prospective attainment and retains the remaining statutory elements.
+- **Inter-Modal Rail Employees Association v. Atchison, Topeka & Santa Fe Railway Co., May 12, 1997:** Applies protection for prospective attainment and retains the remaining statutory elements.
 - **Hazen Paper Co. v. Biggins, 507 U.S. 604:** Distinguishes pension motive from age motive without exempting purposeful pension interference.
 - **In re Bridgestone/Firestone, Inc., Tires Products Liability Litigation, November 5, 2002:** Applies actual workable-arrangement analysis to any later class request; its product and state-law differences do not dictate this case’s certification outcome.
 - **Great-West Life & Annuity Insurance Co. v. Knudson, January 8, 2002:** Applies §502(a)(3)’s equitable-category limits according to the remedy actually sought.
