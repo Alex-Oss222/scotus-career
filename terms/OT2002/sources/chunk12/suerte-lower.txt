@@ -1,0 +1,830 @@
+                               UNITED STATES COURT OF APPEALS
+                                        FOR THE FIFTH CIRCUIT
+                                        _____________________
+                                                No. 01-20626
+                                        _____________________
+
+                                    UNITED STATES OF AMERICA,
+                                                                                 Plaintiff—Appellant,
+
+                                                     versus
+                                              NESTOR SUERTE,
+
+                                                                                   Defendant—Appellee.
+
+                   Appeal from the United States District Court
+                            for the Southern District of Texas
+
+                                                May 14, 2002
+Before DUHÉ, BARKSDALE, and DENNIS, Circuit Judges.
+RHESA HAWKINS BARKSDALE, Circuit Judge:
+
+         At issue is whether, for extraterritorial application of the
+Maritime Drug Law Enforcement Act, 46 U.S.C. App. § 1901 et seq.,
+the Fifth Amendment’s Due Process Clause requires a nexus between
+a foreign citizen and the United States, where the flag nation for
+his vessel “has consented or waived objection to the enforcement of
+United States law by the United States”. Id. § 1903(c)(1)(C).
+Requiring such a nexus, the district court dismissed the indictment
+for lack of jurisdiction. VACATED and REMANDED.
+                                                         I.
+         Defendant Nestor Suerte, a Philippine national and resident of
+Colombia, has apparently never entered the United States. The
+Government alleges the following.
+         Suerte was captain of a freighter registered in Malta and
+owned by a member of a Colombian/Venezuelan drug trafficking
+organization (DTO); he met in Venezuela with DTO members in July
+and August 2000 to coordinate loading the freighter, off the
+northern coast of Venezuela, with 4900 kilograms of cocaine for
+transport to, and distribution in, Europe; the freighter apparently
+departed Venezuela on 11 August; the next day, an attempt was made,
+using speed boats, to transport the cocaine to it; after Venezuelan
+law enforcement detected the boats, they took evasive action; as a
+result, approximately 2700 kilograms of the cocaine was lost; and
+the remainder was stored for another attempt.
+         The DTO telexed Suerte plans for the second attempt, to occur
+at designated coordinates on 18 August; on 16 and 17 August,
+however, Venezuelan authorities arrested some of the DTO members,
+thwarting the second attempt; but, nevertheless, on 17 August, the
+freighter was at the vicinity of the designated rendezvous point,
+in international waters.
+         The United States requested, and received, permission from
+Malta (the flag nation) to board and search the freighter. (More
+specifically, Malta waived objection to the search, and the Coast
+
+                                                          2
+Guard issued a Statement of No Objection to the boarding team.) A
+search by the Coast Guard did not find cocaine.
+
+         Approximately a week later, Malta waived objection to the
+enforcement of United States laws over the freighter and its crew.
+The Government towed the vessel to the Port of Houston, Texas; on
+2 September, it was searched by United States Customs Special
+Agents; found in Suerte’s cabin was a torn copy of the above-
+referenced telex giving the date, time, and coordinates for the
+second attempt to load cocaine; and also found was an attache case
+containing $3500 in $100 bills.
+
+         Suerte was arrested and indicted for conspiracy (as discussed
+
+infra) to possess, with intent to distribute, more than five
+
+kilograms of cocaine on board a vessel subject to United States
+jurisdiction, in violation of the Maritime Drug Law Enforcement Act
+(MDLEA), 46 U.S.C. App. § 1903. The Act provides, in pertinent
+part:
+
+                           (a) It is unlawful for any person ... on
+                  board a vessel subject to the jurisdiction of
+                  the United States ... to knowingly or
+                  intentionally ... possess with intent to ...
+                  distribute[] a controlled substance.
+
+                           ....
+                           (c)(1) For purposes of this section, a
+                  “vessel subject to the jurisdiction of the
+                  United States” includes—
+
+                                    ....
+                                    (C) a vessel registered in a
+                  foreign nation where the flag nation has
+
+                                                          3
+                  consented or waived objection to the
+                  enforcement of United States law by the United
+                  States;
+
+                           ....
+
+                           (j) Any person who attempts or conspires
+                  to commit any offense defined in this chapter
+                  shall be subject to the same penalties as
+                  those prescribed for the offense, the
+                  commission of which was the object of the
+                  attempt or conspiracy.
+
+Id. (emphasis added).
+         Suerte moved to dismiss the indictment for lack of
+
+jurisdiction, claiming that, because he did not have a nexus to the
+United States, the Constitution does not permit the MDLEA to have
+
+extraterritorial effect over him. See United States v. Suerte, No.
+
+H-00-CR-659-1, slip op. at 3 (S.D. Tex. 7 June 2001). Agreeing
+with Suerte’s position, the district court reviewed international
+law principles of extraterritorial jurisdiction, which
+“represent[ed] the different types of nexuses recognized under
+
+international law, and thus, inform[ed its] analysis”, id. at 5;
+
+held no nexus existed between Suerte and the United States; and,
+accordingly, dismissed the indictment.
+
+                                                        II.
+         The Government contends: the Due Process Clause does not
+require an individualized nexus for extraterritorial application of
+the MDLEA; alternatively, one exists. Normally, we would first
+address the Government’s alternative position. This is because, as
+a general, prudential rule, we have a “strong duty to avoid
+
+                                                          4
+constitutional issues that need not be resolved in order to
+determine the rights of the parties to the case under
+consideration”. County Court of Ulster County, N.Y. v. Allen, 442
+U.S. 140, 154 (1979).
+
+         Whether the Due Process Clause requires such a nexus, however,
+is a much more straightforward question than whether a Philippine
+national and resident of Colombia, engaged in a large-scale
+conspiracy to traffic drugs internationally, but whose voyage is
+not proceeding to the United States, has a nexus with this Country.
+Therefore, it is appropriate to first consider the constitutional
+question. We review de novo the district court’s holding. See,
+e.g., United States v. Brown, 250 F.3d 907, 913 (5th Cir. 2001).
+
+                                                         A.
+         In addition to the Supreme Court’s not having addressed
+whether there is such a nexus requirement for the extraterritorial
+reach of the MDLEA, this issue is one of first impression for our
+court.
+
+                                                         1.
+         To date we have published only two opinions regarding the
+MDLEA. See United States v. Bustos-Useche, 273 F.3d 622 (5th Cir.
+2001); Coumou v. United States, 107 F.3d 290 (5th Cir.), withdrawn
+in part and superseded in part, 114 F.3d 64 (5th Cir. 1997).
+Neither case concerns the due process constraints vel non governing
+the MDLEA’s extraterritorial reach.
+
+                                                          5
+         Bustos-Useche, however, approaches resolving the issue at
+
+hand. That case involved a (presumably) Colombian defendant,
+
+aboard a Panamanian vessel bound for Portugal through international
+
+waters between Hispaniola and Puerto Rico. Based on information
+
+provided by the Greek government, the United States suspected the
+
+vessel of drug trafficking. Panama waived objection to the United
+
+States’ boarding and searching the vessel. The flag-nation’s
+
+consent to enforcement of United States law was given before trial
+
+but after the Government’s search for, and seizure of, drugs aboard
+
+the vessel in international waters. Bustos-Useche, 273 F.3d at
+
+624.
+
+         In addressing whether this belated consent satisfied § 1903’s
+
+statutory jurisdictional requirements, we noted:
+
+                  Because Panama consented to the enforcement of
+                  United States law over the [vessel] prior to
+                  ... trial, the district court had jurisdiction
+                  ... so long as the criminal statute under
+                  which [the defendant] was prosecuted meets the
+                  subject matter jurisdiction requirements of
+                  Article III of the United States Constitution
+                  and 18 U.S.C. § 3231 [(conferring original
+                  jurisdiction on district courts for “offenses
+                  against the laws of the United States”)].
+                  Section 1903(a) defines a “law of the United
+                  States” sufficiently enough to satisfy Article
+                  III and defines an “offense against the law of
+                  the United States” sufficiently enough to
+                  satisfy ... § 3231. Therefore, the district
+                  court had the authority to act on this case.
+
+                                                          6
+Id. at 628 n.6. This implies that the only constitutional
+constraint on jurisdiction under the MDLEA is to be found in
+Article III, not the Due Process Clause.
+
+                                                         2.
+         Of the three circuits that have addressed the issue at hand,
+only the Ninth Circuit has held the Due Process Clause requires a
+nexus.
+
+                                                         a.
+         United States v. Davis, 905 F.2d 245 (9th Cir. 1990), cert.
+denied, 498 U.S. 1047 (1991), involved a British vessel seized in
+international waters off California. A search of the vessel,
+pursuant to Great Britain’s consent, discovered over 7000 pounds of
+marijuana. Id. at 247.
+         The vessel’s captain, Davis, who was not a United States
+citizen, was prosecuted under the MDLEA and contested its
+extraterritorial application. Because “[t]he Congress shall have
+power ... [t]o define and punish Piracies and Felonies committed on
+the high Seas, and Offenses against the Law of Nations” (Piracies
+and Felonies Clause), U.S. CONST. art. I, sec. 8, cl. 10, the Ninth
+Circuit first decided that the clause “authorize[s] Congress to
+give extraterritorial effect to the [MDLEA]”. Davis, 905 F.2d at
+248. The Ninth Circuit qualified this holding: “In order to apply
+extraterritorially a federal criminal statute to a defendant
+consistently with due process, there must be a sufficient nexus
+
+                                                          7
+between the defendant and the United States so that such
+application would not be arbitrary or fundamentally unfair”. Id.
+at 248-49 (emphasis added; internal citation omitted).
+
+         Further rationale for the Ninth Circuit’s nexus requirement
+was provided by United States v. Klimavicius-Viloria, 144 F.3d 1249
+(9th Cir. 1998), cert. denied, 528 U.S. 842 (1999).
+
+                  The nexus requirement serves the same purpose
+                  as the “minimum contacts” test in personal
+                  jurisdiction. It ensures that a United States
+                  court will assert jurisdiction only over a
+                  defendant who “should reasonably anticipate
+                  being haled into court” in this country.
+Id. at 1257 (quoting World-Wide Volkswagen Corp. v. Woodson, 444
+U.S. 286, 297 (1980)). (On the other hand, the Ninth Circuit does
+not require a nexus for stateless vessels, also covered by the
+MDLEA, § 1903(c)(1)(A). See United States v. Caicedo, 47 F.3d 370,
+373 (9th Cir. 1995) (“Because stateless vessels do not fall within
+the veil of another sovereign’s territorial protection, all nations
+can treat them as their own territory and subject them to their
+laws.”).)
+
+                                                         b.
+         The First and Third Circuits have rejected a nexus
+requirement. In United States v. Cardales, 168 F.3d 548 (1st
+Cir.), cert. denied, 528 U.S. 838 (1999), the First Circuit
+considered an MDLEA prosecution, pursuant to Venezuela’s consent,
+of crew members of a Venezuelan vessel boarded and searched 150
+
+                                                          8
+miles south of Puerto Rico. Id. at 551-52. In addressing whether
+the Due Process Clause required a nexus, Cardales noted, as had the
+Ninth Circuit in Davis: “To satisfy due process, our application
+of the MDLEA must not be arbitrary or fundamentally unfair”. Id.
+at 553 (emphasis added).
+
+         “In determining whether due process [was] satisfied”, Cardales
+consulted international law principles for “guid[ance]” and
+concluded that the MDLEA satisfies both the “territorial
+principle”, under which “a ‘state has jurisdiction to prescribe and
+enforce a rule of law in the territory of another state to the
+extent provided by international agreement with the other state’”,
+id. (quoting United States v. Robinson, 843 F.2d 1, 4 (1st Cir.),
+cert. denied, 488 U.S. 834 (1988)), and, especially, the
+“protective principle”, under which a state may “‘assert
+jurisdiction over a person whose conduct outside the [state’s]
+territory threatens the [state’s] security’”, id. (quoting
+Robinson, 843 F.2d at 3).
+
+         Concerning the protective principle, Cardales observed that
+Congress had expressly found that “‘trafficking in controlled
+substances aboard vessels is a serious international problem and is
+universally condemned[, and] ... presents a specific threat to the
+security ... of the United States’”. Id. (alteration in original;
+quoting 46 U.S.C. App. § 1902). In that light, Cardales held due
+process did not require the Government to prove a nexus.
+
+                                                          9
+                  When the foreign flag nation consents to the
+                  application of United States law, jurisdiction
+                  attaches under the statutory requirements of
+                  the MDLEA without violation of due process or
+                  the principles of international law because
+                  the flag nation’s consent eliminates any
+                  concern that the application of United States
+                  law may be arbitrary or fundamentally unfair.
+Id.
+         The court was careful, however, to note that it did not view
+the MDLEA as a congressional override of international law. Id. at
+553 n.2. “To the extent ... international law requires a nexus to
+the United States, that nexus requirement ... is satisfied by the
+foreign flag nation’s authorization to apply U.S. law to the
+defendants [the territorial principle] and by the congressional
+finding that drug trafficking aboard vessels threatens the security
+of the United States [the protective principle].” Id.
+         The Third Circuit (which earlier rejected a nexus requirement
+for MDLEA prosecutions involving stateless vessels, see United
+
+States v. Martinez-Hidalgo, 993 F.2d 1052 (3d Cir. 1993), cert.
+
+denied, 510 U.S. 1048 (1994)), follows a similar approach. United
+
+States v. Perez-Oviedo, 281 F.3d 400 (3d Cir. 2002), involved the
+MDLEA prosecution of a foreign captain of a Panamanian-registered
+vessel, which was sailing from Colombia to Canada when intercepted
+by the Coast Guard north of Trinidad and Tobago. Id. at 401.
+After Panama waived objection, a search uncovered over two tons of
+cocaine. Id.
+
+                                                         10
+After noting that “‘§ 1903(d) [(providing that “a failure to
+
+comply with international law shall not divest a court of
+
+jurisdiction or otherwise constitute a defense”)] expresses the
+
+necessary congressional intent to override international law to the
+
+extent that international law might require a nexus to the United
+
+States’”, id. at 403 (quoting Martinez-Hidalgo, 993 F.2d at 1056),
+
+the court held that no due process violation occurred from the
+
+MDLEA’s extraterritorial application because “drug trafficking is
+
+condemned universally by law-abiding nations”, id., and “[t]he
+
+Panamanian government expressly consented to the application of the
+
+MDLEA”, id. The court found the second fact particularly
+
+compelling: “Such consent from the flag nation eliminates a
+
+concern that the application of the MDLEA may be arbitrary or
+
+fundamentally unfair”. Id.
+
+                            c.
+
+In addition, in United States v. Mena, 863 F.2d 1522 (11th
+
+Cir.), cert. denied, 493 U.S. 834 (1989), while not expressly
+
+ruling on a nexus requirement vel non, the Eleventh Circuit upheld
+
+the MDLEA against a due process challenge for vagueness. Mena
+
+involved the prosecution, with Honduran consent, of foreign
+
+defendants arrested aboard a Honduran vessel in international
+
+waters east of the Bahamas.          The defendants claimed as
+
+unconstitutionally vague § 1903’s term “vessel subject to the
+
+jurisdiction of the United States”.
+
+                            11
+         Noting that due process requires “[s]tatuory language [to]
+convey ‘sufficiently definite warning as to the proscribed conduct
+
+when measured by common understanding and practices[]’”, id. at
+
+1527 (quoting Jordan v. DeGeorge, 341 U.S. 223, 231-32 (1951)), the
+
+court concluded:
+                  There is nothing vague about the statute.
+                  Congress has provided clear notice of what
+                  conduct is forbidden.... Those embarking on
+                  voyages with holds laden with illicit
+                  narcotics, conduct which is contrary to laws
+                  of all reasonably developed legal systems, do
+                  so with awareness of the risk that their
+                  government may consent to enforcement of the
+                  United States’ law against the vessel.
+
+Id. (emphasis added; quoting United States v. Gonzalez, 776 F.2d
+
+931, 940-41 (11th Cir. 1985)). As discussed infra, the same is
+
+true for those who conspire to commit an offense proscribed by the
+MDLEA.
+
+                                                         B.
+         The opinions by these circuits do not discuss several sources
+of law which, although not dispositive of the present issue,
+provide us great assurance that, “where the flag nation has
+consented or waived objection to the enforcement of United States
+law by the United States”, § 1903(c)(1)(C), due process does not
+require a nexus for the MDLEA’s extraterritorial application.
+Those sources include: the Constitutional Convention debate
+surrounding the Piracies and Felonies Clause (“The Congress shall
+have Power ... [t]o define and punish Piracies and Felonies
+
+                                                         12
+committed on the high Seas, and Offenses against the Law of
+Nations”); the earliest exercise of Congressional power under the
+clause; and Supreme Court opinions reviewing that exercise.
+
+                                                         1.
+         Concerning the Piracies and Felonies Clause, the Committee of
+Detail’s draft Constitution, submitted to the Convention on 6
+August 1787, would have empowered Congress “[t]o declare the law
+and punishment of piracies and felonies committed on the high seas,
+and the punishment of counterfeiting the coin of the United States,
+and of offences against the law of nations”. 2 RECORDS OF THE FEDERAL
+CONVENTION OF 1787 182 (Max Farrand ed., 1999) (emphasis added).
+Subsequent debate over the clause primarily concerned the propriety
+of granting the power to both punish and declare and whether the
+latter power should read “declare”, “designate”, or “define”. See
+id. at 315-16.
+         There was apparently no debate regarding constraints vel non
+on the clause’s extraterritorial reach. It would seem that, had
+they been of concern, the matter would have been discussed,
+especially because the clause contains “the only specific grant of
+power to be found in the Constitution for the punishment of
+offenses outside the territorial limits of the United States”.
+CONGRESSIONAL RESEARCH SERVICE, LIBRARY OF CONGRESS, THE CONSTITUTION OF THE
+UNITED STATES, ANALYSIS AND INTERPRETATION, S. DOC. NO. 103-6, at 304
+
+                                                         13
+(Johnny H. Killian & George A. Costello eds., 1992) (S. DOC. NO.
+
+103-6).
+
+The First Congress promptly enacted far-reaching legislation
+
+under the Piracies and Felonies power.  In April 1790,
+
+approximately seven months after proposing the Bill of Rights to
+
+the States (25 September 1789), Congress approved An Act for the
+
+Punishment of Certain Crimes Against the United States (1790 Act).
+
+It provides, in part: in § 8, “[t]hat if any person or persons
+
+shall commit upon the high seas ... murder or robbery, ... every
+
+such offender shall be ... adjudged ... a pirate and felon, and
+
+being thereof convicted, shall suffer death”; and, in § 12, “[t]hat
+
+if any ... person shall commit manslaughter upon the high seas, ...
+
+such person ... so offending, and being thereof convicted, shall be
+
+imprisoned not exceeding three years, and fined not exceeding one
+
+thousand dollars”. Act of 30 Apr. 1790, ch. 9, 1 Stat. 112, 113-15
+
+(emphasis added).
+
+For purposes of this appeal, perhaps the most striking aspect
+
+of the 1790 Act is that many of its provisions regarding crimes on
+
+the high seas apply to “any person”. (Emphasis added.) It is
+
+important to note, especially in a case in which at issue is the
+
+constitutionality of another exercise of the Piracies and Felonies
+
+power, that, at the time it passed the 1790 Act, the First Congress
+
+had already drafted the Fifth Amendment and proposed it to the
+
+States.
+
+                   14
+         While that Amendment was not ratified until 15 December 1791,
+during “[t]he debates [in August 1789 for] what became the Fifth
+Amendment ... there was no hint ... of any intention, by the
+adoption of that amendment, to deprive Congress of this [Piracies
+and Felonies] power expressly and uncontroversially granted to it
+by the Convention”. A. Mark Weisburd, Due Process Limits on
+Federal Extraterritorial Legislation?, 35 COLUM. J. TRANSNAT’L L.
+379, 421 (1997) (citing 1 ANNALS OF CONG. 753 (Joseph Gales ed.,
+1789)). In this regard, the First Congress, which drafted the 1790
+Act and the Amendment, “included 20 Members who had been delegates
+to the [Constitutional] Convention”. Bowsher v. Synar, 478 U.S.
+714, 724 n.3 (1986).
+
+                                                         2.
+         Early Supreme Court opinions addressing extraterritorial
+applications of the 1790 Act intimate that the Fifth Amendment
+imposes no nexus requirement on the reach of statutes criminalizing
+felonious conduct by foreign citizens on the high seas. In United
+States v. Palmer, 16 U.S. 610 (1818), the Court considered, inter
+alia, whether the United States had jurisdiction, pursuant to § 8
+of the 1790 Act, to try, and punish, foreign citizens who had, on
+the high seas, boarded and robbed a foreign-owned vessel manned by
+a Spanish crew.
+         In answering “whether th[e] act extends farther than to
+American citizens, or to persons on board American vessels, or to
+
+                                                         15
+offences committed against citizens of the United States”, id. at
+
+630, Chief Justice Marshall stated for the Court:
+
+                  The constitution having conferred on congress
+                  the power of defining and punishing piracy,
+                  there can be no doubt of the right of the
+                  legislature to enact laws punishing pirates,
+                  although they may be foreigners, and may have
+                  committed no particular offence against the
+                  United States. The only question is, has the
+                  legislature enacted such a law? Do the words
+                  of the act authorize the courts of the Union
+                  to inflict its penalties on persons who are
+                  not citizens of the United States, nor sailing
+                  under their flag, nor offending particularly
+                  against them?
+
+Id. at 630-31 (emphasis added).
+
+         The Court answered in the negative. After emphasizing the
+
+generality of the language employed by the 1790 Act in setting its
+
+reach (e.g., “any captain, or mariner of any ship or vessel”; “any
+
+seaman”; “any person or persons”), the Court stated: “Every nation
+
+provides for such offense[s] the punishment its own policy may
+
+dictate, and no general words of a statute ought to be construed to
+
+embrace them when committed by foreigners against a foreign
+
+government”. Id. at 632-33 (emphasis added). Therefore, the Court
+
+concluded that, as a statutory matter, “the crime of robbery,
+
+committed by a person on the high seas, on board of any ship or
+
+vessel belonging exclusively to subjects of a foreign state, on
+
+persons within a vessel belonging exclusively to subjects of a
+
+foreign state, is not a piracy within the true intent and meaning
+
+of the act”. Id. at 633-34 (emphasis added).
+
+                                                         16
+         Palmer is an illustration of the well-established canon of
+construction espoused by Chief Justice Marshall in Murray v. The
+Schooner Charming Betsy, 6 U.S. 64 (1804): “[A]n act of Congress
+ought never to be construed to violate the law of nations if any
+other possible construction remains....” Id. at 118. Later, the
+Court emphasized in Lauritzen v. Larsen, 345 U.S. 571 (1953),
+however, that this canon “is not, as sometimes is implied, any
+impairment of our own sovereignty, or limitation of the power of
+Congress”. Id. at 578.
+
+         While the constraints vel non imposed by the Fifth Amendment
+on extraterritorial application of laws enacted pursuant to the
+Piracies and Felonies Clause may not have been directly at issue in
+Palmer, Chief Justice Marshall’s assessment of the relevant inquiry
+regarding extraterritorial applications — “The constitution having
+conferred on congress the power of defining and punishing piracy,
+... [t]he only question is, has the legislature enacted such a
+law?” — arguably removes any doubt that such enactments comport
+with the Fifth Amendment. And while at issue was Congress’ power
+to define and punish piracies, Chief Justice Marshall’s assessment
+should apply with equal weight to felonies such as at issue here,
+a parallel provision within the same constitutional clause.
+
+         Other case law interpreting the 1790 Act suggests
+international law principles are in some way inherent in the
+Piracies and Felonies Clause. In United States v. Furlong, 18 U.S.
+
+                                                         17
+184 (1820), the Court considered, in dictum, whether Congress could
+
+punish a murder, committed upon the high seas, by one foreign crew
+
+member against another aboard a foreign vessel. Id. at 193-98.
+
+Justice Johnson opined for the Court: “I am led to the conclusion,
+that [§ 8 of the 1790 Act] does not extend the punishment for
+murder to the case of that offence committed by a foreigner upon a
+
+foreigner in a foreign ship. But otherwise as to piracy, for that
+
+is a crime within the acknowledged reach of the punishing power of
+
+Congress”. Id. at 197 (emphasis added).
+
+         Addressing the fact that, in § 8 of the 1790 Act, Congress had
+declared murder committed upon the high seas to be piracy, Justice
+Johnson further concluded: “[Murder and piracy] are things so
+essentially different in their nature, that not even the
+omnipotence of legislative power can confound or identify them”.
+
+Id. at 198. He continued:
+
+                  If, by calling murder piracy, it might assert
+                  a jurisdiction over that offence committed by
+                  a foreigner in a foreign vessel, what offence
+                  might not be brought within their power by the
+                  same device? The most offensive interference
+                  with the governments of other nations might be
+                  defended on the precedent. Upon the whole, I
+                  am satisfied that Congress [did not] intend[]
+                  to punish murder in cases with which they had
+                  no right to interfere....
+
+Id. at 198 (first emphasis in original).
+         In short, it appears Justice Johnson thought Congress’
+
+Piracies and Felonies power extends only so far as permitted by
+
+                                                         18
+international law. That position may be at loggerheads, however,
+with more recent pronouncements by the Court. See, e.g.,
+Lauritzen, 345 U.S. at 578 (as discussed supra, noting that the
+canon of construction announced in The Charming Betsy “is not, as
+sometimes is implied, any impairment of our own sovereignty, or
+limitation of the power of Congress”); Hartford Fire Ins. Co. v.
+California, 509 U.S. 764, 815 (1993) (Scalia, J., dissenting in
+part) (“Though it clearly has constitutional authority to do so,
+Congress is generally presumed not to have exceeded those customary
+international-law limits on jurisdiction to prescribe.” (Emphasis
+added.)).
+
+         The opinions addressing the reach of the 1790 Act are of
+significance to our consideration of the MDLEA’s reach. Those
+opinions concern an exercise of power, pursuant to the Piracies and
+Felonies Clause, by a Congress which, as noted, had some members
+who had drafted that clause, the 1790 Act, and the Fifth Amendment.
+While none of these cases addresses whether the Fifth Amendment has
+any applicability to exercises of power under the Piracies and
+Felonies Clause, neither the Fifth Amendment generally, nor its Due
+Process Clause specifically, was flagged as an issue in any of
+them. In fact, in addressing an 1819 law providing for the
+punishment of piracy on the high seas, the Court noted that,
+“notwithstanding a series of contested adjudications on [§ 8 of the
+1790 Act], no doubt has hitherto been breathed of its conformity to
+
+                                                         19
+the constitution”. United States v. Smith, 18 U.S. 153, 158 (1820)
+
+(emphasis added).
+
+                            3.
+
+In the light of this rich history, and for the issue at hand,
+
+it is not necessary to decide whether the Due Process Clause
+
+imposes no constraints on the extraterritorial application of the
+
+MDLEA.  For example, in previously considering whether a
+
+predecessor to the MDLEA required a nexus for stateless vessels,
+
+our court noted:
+
+        [G]iven the clear authority of Congress in the
+        premises, [citing the Piracies and Felonies
+        Clause], the relevance of international law to
+        the problem at hand is as a reflection of
+        Congressional intent rather than as a
+        limitation on the power of Congress, at least
+        where, as here, there is no basis for any
+        claim of due process violation.
+
+United States v. Alvarez-Mena, 765 F.2d 1259, 1266 (5th Cir. 1985)
+
+(emphasis added).
+
+Accordingly, we hold that, for the MDLEA issue at hand, and to
+
+the extent the Due Process Clause may constrain the MDLEA’s
+
+extraterritorial reach, that clause does not impose a nexus
+
+requirement, in that Congress has acted pursuant to the Piracies
+
+and Felonies Clause. Again, that clause is “the only specific
+
+grant of power to be found in the Constitution for the punishment
+
+of offenses outside the territorial limits of the United States”.
+
+S. DOC. NO. 103-6, at 304.
+
+                            C.
+
+                            20
+         Assuming, arguendo, that resolution of this issue does require
+consulting international law, the MDLEA’s application to Suerte
+still passes constitutional muster because, on these facts,
+international law does not require a nexus.
+
+                                                         1.
+         Malta, under whose flag Suerte’s vessel was registered,
+consented to the boarding and search of his vessel, as well as to
+the application of United States law. A flag nation’s consent to
+a seizure on the high seas constitutes a waiver of that nation’s
+rights under international law. See United States v. Williams, 617
+F.2d 1063, 1090 (5th Cir. 1980) (en banc). “[I]nterference with a
+ship that would otherwise be unlawful under international law is
+permissible if the flag state has consented”. RESTATEMENT (THIRD) OF
+FOREIGN RELATIONS LAW OF THE UNITED STATES § 522 cmt. e (1987); see also
+Robinson, 843 F.2d at 4.
+         Along this line, and as noted, the MDLEA provides: “[A]
+‘vessel subject to the jurisdiction of the United States’ includes
+... a vessel registered in a foreign nation where the flag nation
+has consented or waived objection to the enforcement of United
+States law by the United States”. 46 U.S.C. App. § 1903(c)(1)(C).
+This codifies the above-described generally accepted principle of
+international law: a flag nation may consent to another’s
+jurisdiction. See RESTATEMENT (THIRD) § 522 reporters note 8 (the
+MDLEA “confirmed the practice” of relying on informal grants of
+
+                                                         21
+consent by flag nations (emphasis added)); THOMAS J. SCHOENBAUM,
+ADMIRALTY AND MARITIME LAW § 3-12 n.41 (3d ed. 2001) (the principle that
+flag-nation consent satisfies international law requirements “is
+confirmed by the MDLEA” (emphasis added)). Such an agreement
+between the United States and a flag nation to apply United States
+law on a flag-nation vessel may be made informally. Robinson, 843
+F.2d at 4; see also RESTATEMENT (THIRD) § 301 & cmt. b. (international
+agreements need not be formalized, nor need they be in writing).
+
+                                                         2.
+         Maintaining that Malta’s consent is irrelevant, Suerte asserts
+that, because no drugs were found on his vessel, he was not in
+violation of United States law when his vessel “was converted in
+effect to American territory” by Malta’s consent.
+
+                                                         a.
+         This claim has no merit. As noted earlier, we held recently:
+“The only statutory prerequisite to the district court’s
+jurisdiction under section 1903(c)(1)(C) is that the flag nation
+consent to the enforcement of United States law before trial”.
+Bustos-Useche, 273 F.3d at 627 (emphasis added).
+
+                                                         b.
+         Even accepting Suerte’s contention, we note he was not charged
+with drug possession; instead, he was charged with conspiracy to
+possess with intent to distribute. “A conspiracy is ‘an agreement
+by two or more persons to commit one or more unlawful acts and an
+
+                                                         22
+overt act by one of the conspirators in furtherance of the
+conspiracy.’” United States v. Thomas, 12 F.3d 1350, 1356 (5th
+Cir.) (quoting United States v. Romeros, 600 F.2d 1104, 1106 (5th
+Cir. 1979), cert. denied, 444 U.S. 1077 (1980)), cert. denied, 511
+U.S. 1114 (1994). “If the totality ... of evidence is adequate to
+show a concert of action, all the parties working together
+understandingly, with a single design for the accomplishment of a
+common purpose[,] then the conspiracy may be found.” United States
+v. Perez, 489 F.2d 51, 61 (5th Cir. 1973), cert. denied, 417 U.S.
+945 (1974).
+
+         As alleged by the Government: meetings during which Suerte
+agreed to receive and transport the cocaine occurred in Venezuela;
+he was working with others with a single design for a common
+purpose at the time the United States requested and received
+permission from Malta to board and search his vessel; and, he was
+then acting in furtherance of that common purpose — he was
+assisting and awaiting the second attempt to load cocaine by
+positioning his vessel in the vicinity of the coordinates provided
+by the telex (found in the search of his cabin) designating the
+location for that attempt.
+
+         In this light, application of the MDLEA to Suerte is
+permissible; a nexus between his conduct and the United States is
+not required. Rejecting a nexus requirement will not result in the
+
+                                                         23
+unrestrained, global law enforcement by the United States decried
+by Suerte.
+
+         Again, the power “to define and punish Piracies and Felonies
+committed on the high seas, and Offenses against the Law of
+Nations” is “the only specific grant of power to be found in the
+Constitution for the punishment of offenses outside the territorial
+limits of the United States”. S. DOC. NO. 103-6, at 304 (emphasis
+added). The MDLEA represents an extremely limited exercise of that
+power. For certain persons not aboard United States vessels or in
+United States customs waters, it proscribes drug trafficking only
+aboard a stateless vessel or, as in the case at hand, a vessel
+whose flag nation consents to enforcement of United States law.
+
+         Enforcement of the MDLEA in these circumstances is neither
+arbitrary nor fundamentally unfair (the due process standard agreed
+upon by Suerte and the Government). Those subject to its reach are
+on notice. In addition to finding “that trafficking in controlled
+substances aboard vessels ... presents a specific threat to the
+security and societal well-being of the United States”, Congress
+has also found that such activity “is a serious international
+problem and is universally condemned”. 46 U.S.C. App. § 1902
+(emphasis added). Along this line, the United Nations Convention
+Against Illicit Traffic in Narcotic Drugs and Psychotropic
+Substances, opened for signature 20 Dec. 1988, 28 I.L.M. 493, to
+which Malta and the United States are signatories, provides as its
+
+                                                         24
+purpose: “to promote cooperation among the Parties so that they
+may address more effectively the various aspects of illicit traffic
+in narcotic drugs and psychotropic substances having an
+international dimension”. Id. art.2.
+
+                                                       III.
+         For the foregoing reasons, we VACATE the dismissal of the
+indictment in this case and REMAND for further proceedings.
+
+                                                                            VACATED and REMANDED
+
+                                                         25
+

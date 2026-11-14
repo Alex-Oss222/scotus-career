@@ -1,0 +1,123 @@
+[
+  {
+    "case": "Desert Palace, Inc. v. Costa",
+    "date": "2003-06-09",
+    "file": "Desert-Palace-Inc-v-Costa_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "A single statutory explanation distinguishes the 1991 liability/remedy allocation from Brown, applies ordinary evidentiary sufficiency, and states every same-decision remedy limitation. No accommodation-dependent join remains."
+  },
+  {
+    "case": "Fitzgerald v. Racing Association of Central Iowa",
+    "date": "2003-06-09",
+    "file": "Fitzgerald-v-Racing-Association-of-Central-Iowa_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "A unified opinion separates federal review, rational multi-purpose economic legislation and independent state-law remand. Its concrete public grounds preserve every full join; no expansion assignment is required."
+  },
+  {
+    "case": "Nguyen v. United States",
+    "date": "2003-06-09",
+    "file": "Nguyen-v-United-States_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas"
+    ],
+    "fit_notes": "The opinion distinguishes statutory eligibility, exceptional late direct-review correction, and the actual lawful-appeal remedy. Fit concerns precision about the extension from Ryder/Landry and the substantial-versus-technical boundary. The six full joins are settled.",
+    "dissent_full_joiners": [
+      "Scalia",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  {
+    "case": "Satellite Broadcasting & Communications Association v. FCC",
+    "date": "2003-06-09",
+    "file": "Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "fit_notes": "The opinion applies Turner to actual satellite capacity and the licensed selective-carriage risk, with independent fit review and every statutory qualification. All five full joins support the preservation rationale; the close vote alone does not establish expansion. Do not add an independent advertising-equality rationale.",
+    "dissent_full_joiners": [
+      "O'Connor",
+      "Scalia",
+      "Thomas",
+      "Ginsburg"
+    ]
+  }
+]

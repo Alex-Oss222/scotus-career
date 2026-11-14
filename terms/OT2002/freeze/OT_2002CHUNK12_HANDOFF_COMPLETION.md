@@ -1,0 +1,15 @@
+# OT2002 chunk 12 final handoff completion
+
+The normal COMMITMENTS and RECONCILED aggregates and HANDOFF_INDEX preserve the scoped stages as they existed when compiled. They remain unchanged. Star Scientific subsequently required exact statutory-source completion before its Record or assignment. Its final operative handoff is C_RECONCILED read with STAR_STATUTE_RECONCILED; the latter supplies the controlling source qualifications and the explicit reconciliation of the later independent evaluation. All filenames below have the OT_2002CHUNK12_ prefix in this freeze directory.
+
+## Later Star source chain
+
+1. STAR_STATUTE_NEUTRAL is a mechanically copied Star-only neutral packet.
+2. STAR_STATUTE_PREFLIGHT was produced by a fresh source-only context from the saved enacted 1999 Chapter 754 and official enactment history. It contains the exact subsection B and full enactment copied by script.
+3. STAR_STATUTE_COMMITMENTS was produced by a separate fresh context without old commitments, comparator or current Stone material. It independently addressed due process, equality and incidental burdens, retaining the source's limits.
+4. STAR_STATUTE_RECONCILED was produced in the existing Stone-free reconciliation context, with an additional read-only Stone-free changed-premise check. It accepts the complete statutory qualifications and refreshed due-process/equality support. It preserves the earlier six-Justice accepted-burden affirmance on Pike: those commitments had already rejected the lower minimum-cost inference, and neither the release provisions nor Fitzgerald/Hillside supplied a changed tracing or compulsory-remand premise. The fresh six-remand evaluation is preserved in full and expressly distinguished from the final operative votes. Scalia and Thomas retain their distinct grounds. No result is selected by a numerical quota or historical authorship.
+5. STAR_STATUTE_CONTROL_REVALIDATION is private control/assembly material, never supplied to the preceding contexts. It finds the exact source qualifications consistent with the existing approved Star fixed core, without supplying an Associate vote or choosing an author.
+
+The exact statutory refinements are the scope of agreement-defined released claims and Virginia-located/resident releasing parties, deposit-order and necessary-payment limits, the manufacturer's required annual excess showing and Commonwealth allocable-share/MSA comparison, the specified adjustment exception, appreciation as earned, and the 25-year clock for each deposit. No individual amount, payment, benefit, culpability or missing filing is inferred. The final assembly must state these terms as statutory commands, separately from the constitutional rule.
+
+No earlier freeze or completed adjudication is replaced. Star's old content draft had not become a Record. The final entering-law refresh remains the verbatim public copy in `terms/OT2002/entering-law/OT_2002CHUNK12_STAR_FINAL_REFRESH.md`; it supplies no private current-position material. The final Record, generated Render Input and workspace will state only the actual assembled decision.

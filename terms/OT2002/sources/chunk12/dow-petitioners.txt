@@ -1,0 +1,2911 @@
+Supreme Vow, JS. 
+S=CEIVED FILED 
+RECEIVE ; 
+| HY i DEC 18 2002 
+DEC 2 7 2002 
+No. 02-271 GUTECE OF WHE CLERK 
+
+
+Jn the Supreme Court of the United States 
+
+
+IN RE AGENT ORANGE PRODUCT LIABILITY LITIGATION: 
+Dow CHEMICAL COMPANY, MONSANTO CHEMICAL, ET. AL.. 
+
+
+Petitioners, 
+V. 
+
+
+DANIEL RAYMOND STEPHENSON, ET AL., 
+
+
+Respondents. 
+
+
+On Writ of Certiorari to the 
+United States Court of Appeals for the Second Circuit 
+
+
+BRIEF FOR THE PETITIONERS 
+
+
+ANDREW L. FREY SETH P. WAXMAN 
+
+PHILIP ALLEN LACOVARA Counsel of Record 
+
+CHARLES A. ROTHFELD LOUIS R. COHEN 
+
+RICHARD B. KATSKEE JOSHUA S. GOLDWERT 
+
+STEVEN J. DUFFIELD SHIRLEY C. WOODWARD 
+Mayer, Brown, Rowe & Maw Wilmer, Cutler & Pickering 
+1909 K Street, N.W. 2445 M Street, N.W. 
+Washington, D.C. 20006 Washington, D.C. 20037 
+(202) 263-3000 (202) 663-6000 
+Counsel for Petitioner Counsel for Petitioner 
+Dow Chemical Company Monsanto Company 
+
+
+(Additional Petitioners’ Counsel Listed on Inside Cover) 
+— 
+NN SS I I I I A SS IEEE) 
+
+
+MICHELE L. ODORIZZ1 
+Mayer, Brown, Rowe & Maw 
+190 South LaSalle Street 
+Chicago, Illinois 60603 
+(312) 782-0600 
+
+
+STEVEN BROCK 
+Rivkin Radler LLP 
+EAB Plaza 
+Uniondale, New York 11556 
+(516) 357-3000 
+
+
+Counsel for Petitioner 
+Dow Chemical Company 
+
+
+JOHN C. SABETTA 
+Seyfarth Shaw 
+1270 Avenue of the Americas 
+New York, New York 10020 
+(212) 218-5500 
+
+
+NOAH A. LEVINE 
+Wilmer, Cutler & Pickering 
+399 Park Avenue 
+New York, New York 10022 
+(202) 230-8800 
+
+
+Counsel for Petitioner 
+Monsanto Company 
+
+
+Kelley Drye & Warren LLP 
+101 Park Avenue 
+New York, New York 10178 
+
+
+Counsel for Petitioner 
+Hercules Incorporated 
+
+
+Cadwalader, Wickersham 
+
+
+& Taft 
+
+100 Maiden Lane 
+
+New York, New York 10038 
+(212) 504-6000 
+
+
+Counsel for Petitioners 
+Occidental Chemical 
+Corporation, Ultramar Diamond 
+Shamrock Corporation, Maxus 
+Energy Corporation, and 
+Chemical Land Holdings, Inc. 
+
+
+MYRON KALISH 
+
+
+50 East 79th Street 
+New York, New York 10021 
+(212) 737-8142 
+
+
+Counsel for Petitioners 
+Uniroyal, Incorporated and 
+Uniroyal Chemical Company 
+
+
+Clark Gagliardi & Miller, P.C. 
+
+
+The Inns of Court 
+
+99 Court Street 
+
+White Plains, New York 10601 
+(914) 946-8900 
+
+
+Counsel for Petitioners 
+
+TH Agriculture & Nutrition 
+Company, Incorporated, 
+Thompson-Hayward Chemical 
+Company, and Harcros 
+Chemical, Incorporated 
+
+
+QUESTIONS PRESENTED 
+
+
+1. Whether absent class members are precluded from 
+relitigating the issue of adequacy of representation through a 
+collateral attack on a class settlement, after class members had 
+a full opportunity to opt out, object, and appeal, and after both 
+the trial court and the court of appeals, in the course of approv- 
+ing the settlement, expressly determined that the class represen- 
+tatives adequately represented the entire class. 
+
+
+2. Whether, if collateral attack is permissible, the “ade- 
+quacy of representation” issue is properly determined as of the 
+time of the original litigation or in light of events and changes 
+in the law occurring years after the settlement has become final 
+and all of the settlement proceeds have been disbursed. 
+
+
+(I) 
+
+
+il 
+PARTIES TO THE PROCEEDING 
+Petitioners: 
+
+Dow Chemical Company 
+Monsanto Company 
+
+Hercules Incorporated 
+Occidental Chemical Corporation 
+Ultramar Diamond Shamrock Corporation 
+Chemical Land Holdings, Inc. 
+
+Maxus Energy Corporation 
+
+Harcros Chemical, Inc. 
+Thompson-Hayward Chemical Company 
+T H Agriculture & Nutrition Company, Inc. 
+C.D.U. Holdings, Inc. 
+
+Uniroyal, Inc. 
+
+Uniroyal Chemical Company 
+
+Respondents: 
+
+Daniel Raymond Stephenson 
+
+Susan Stephenson 
+
+Daniel Anthony Stephenson 
+
+Emily Elizabeth Stephenson 
+
+Joe Isaacson 
+
+
+Phyllis Lisa Isaacson 
+
+
+The disclosure statement required by Rule 29.6 appears in 
+the petition for a writ of certiorari. 
+
+
+TABLE OF CONTENTS 
+
+
+PE “cneknecdaheeiedetcnsdcndceswedéce l 
+
+
+CONSTITUTIONAL PROVISION AND 
+EE a cc daca k deh adusenchas cetecds I 
+
+
+PEE 4b 640444660n4reudds rkendaeedebecels l 
+INTRODUCTION AND SUMMARY OF ARGUMENT 17 
+SUE von RAdUbpdcécbneeduenekabeobsdevess 19 
+
+
+I. THE PRIOR FINAL DETERMINATION 
+THAT ALL MEMBERS OF THE AGENT 
+ORANGE CLASS WERE ADEQUATELY 
+REPRESENTED IN THE ORIGINAL LITIGA- 
+
+TION IS NOT SUBJECT TO COLLATERAL 
+PUN eowkneconsdndésacecesneduseoescs 19 
+
+
+A. Class Action Judgments Are Binding 
+On All Members Of The Class And 
+May Not Be Reopened On The Basis Of 
+Developments Occurring After The 
+Entry Of Final Judgment ................. 19 
+
+
+IV 
+
+
+TABLE OF CONTENTS — Continued 
+Page 
+
+
+B. Barring Respondents From Relitigating 
+Adequacy Of Representation Is Fully 
+Consistent With Due Process: The 
+District Court Long Ago Afforded Re- 
+spondents The Necessary Process By 
+Conducting The Analysis Required By 
+BREED ccbdédccaccdddosvbeanseewcentses 25 
+
+
+C. The Balance of Public And Private 
+Interests Further Demonstrates That 
+Respondents’ Collateral Attack On 
+Adequacy Should Not Be Allowed ......... 34 
+
+
+Il. IF ADEQUACY OF REPRESENTATION 
+MAY BE REEXAMINED AFTER FINAL 
+JUDGMENT, THE INQUIRY MUST MAKE 
+USE OF STANDARDS THAT TAKE AC- 
+COUNT OF THE COLLATERAL NATURE 
+OF THE NEW REVIEW ............--++++:- 41 
+
+
+A. Respondents’ Attacks On The Determi- 
+nation Of Adequacy Do Not Satisfy The 
+
+
+B. If Adequacy Of Representation May Be 
+Reexamined On Collateral Review, The 
+Determination Must Be Made As Of 
+The Time Of The Original Class Certifi- 
+
+
+es eb PPP PPTTTTTITITTTTirir ie 50 
+
+
+Vv 
+
+
+TABLE OF AUTHORITIES 
+Page 
+CASES: 
+Ackermann v. United States, 
+
+I ee a de 24, 38 
+Allen v. McCurry, 449 U.S. 90 (1981)... 0.0000 20 
+Amchem Prods., Inc. v. Windsor, 
+
+Es Andee encccedssuoecbeee passim 
+Bell v. Eastman Kodak Co., 
+
+214 F.36 796 (7th Cir. 2000) 2... cc cece 38 
+Blue Diamond Coal Co. v. Trustees of the 
+
+UMWA Combined Benefit Fund, 249 F.3d 519 
+
+(6th Cir.), cert. denied, 122 S. Ct. 643 (2001) ....... 24 
+Butler v. McKellar, 494 U.S. 407 (1990) ............. 48 
+Califano v. Yamasaki, 442 U.S. 682, 701 (1979) ....... 39 
+Chicot County Drainage Dist. v. 
+
+Baxter State Bank, 308 U.S. 371 (1940) .......... 20 
+Connecticut v. Doehr, 501 U.S. 1 (1991) ............. 34 
+Cooper v. Federal Reserve Bank of Richmond, 
+
+a eet eesiee 21 
+Devlin v. Scardelletti, 122 S. Ct. 2005 (2002).......... 21 
+Durfee v. Duke, 375 U.S. 106 (1963) .......0.000.00.. 20 
+Dusenbery v. United States, 
+
+ds es cactus 32, 33, 34, 35 
+
+
+Eisen v. Carlisle & Jacquelin, 
+RE ES ae 27 
+
+
+vi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+Epstein v. MCA, Inc., 179 F.3d 641 
+
+SE, TEED cvcvrcccccescceccoccsss 29, 30, 31, 48 
+Federated Dep't Stores v. Moitie, | 
+
+452 USB. FBS CIGSE) 0. wv cvccsccsccsccccsess passim 
+First Alabama Bank of Montgomery, 
+
+N.A. v. Parsons Steel, Inc., 825 F.2d 1475 
+
+COUG: FERED cvweccccvccccccsscncccccncoves 33 
+General Tel. Co. of the Southwest v. 
+
+Falcon, 457 U.S. 147 (1982) ........... 27, 28, 39, 46 
+Gilbert v. Homar, 520 U.S. 924 (1997) .... 2... 6 eee 34 
+Goeke v. Branch, 514 U.S. 115 (1995) ......... 47, 48, 49 
+Graham v. Collins, 506 U.S. 461 (1993) ........ 48, 49, 51 
+Hansberry v. Lee, 311 U.S. 32 (1940) ............ passim 
+Harper v. Virginia Dep't of Transp., 
+
+- Lite f. SPPPrrrrrTrrrrrri rere 24 
+Herrera v. Collins, 506 U.S. 390 (1993) ..........045. 43 
+In re “Agent Orange” Prod. Liab. Litig., | 
+
+100 F.R.D. 718 (E.D.N.Y. 1983) ............. passim 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+506 F. Supp. 762 (E.D.N.Y. 1980) ...........5055. 4 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+597 F. Supp. 740 (E.D.N.Y. 1984) ..........005. 7,8 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+611 F. Supp. 1223 (E.D.N.Y. 1985) ...........065. 3 
+
+
+vil 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+
+In re “Agent Orange” Prod. Liab. Litig., 
+
+611 F. Supp. 1296 (E.D.N.Y. 1985), aff'd 
+
+in part and rev'd in part, 818 F.2d 112 
+
+Pt ssh kctonausenb Guede si06s<-e0%u> es 9 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+611 F. Supp. 1396 (E.D.N.Y. 1985) .......... 3,9, 10 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+818 F.2d 145 (2d Cir. 1987), cert. denied, 
+
+So passim 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+818 F.2d 187 (2d Cir. 1987), cert. denied, 
+
+Ee 3 
+In re “Agent Orange” Prod. Liab. Litig., 
+
+996 F.2d 1425 (2d Cir. 1993), cert. denied, 
+
+SE SEs cbcGectockecdeecesis 7, 12, 13 
+In re Factor VIII or IX Concentrate Blood 
+
+Prods. Litig., 159 F.3d 1016 
+
+PC cis ckdhccasichobbsépic ce ves 38, 43 
+James B. Beam Distilling Co. v. Georgia, 
+
+i 24 
+Kremer v. Chemical Constr. Corp., 
+
+ee re decal se kenecesac 20, 31, 42 
+Malchman v. Davis, 706 F.2d 426 (2d Cir. 1983) ....... 28 
+Mathews v. Eldridge, 424 U.S. 319 (1976) ........ passim 
+Matsushita Elec. Indus. Co. v. Epstein, 
+
+RES 21 
+
+
+Montana v. United States, 
+
+
+co RT Tee 19, 20, 31, 32 
+
+
+vill 
+
+
+TABLE OF AUTHOR: 1! ES — Continued 
+
+
+Page 
+
+Movement for Opportunity & Equal. v. 
+
+General Motors Corp., 622 F.2d 1235 
+
+ .° 9 nr rrr rrr 28 
+Mullane v. Central Hanover Bank, 
+
+SID UB. BEG, SED CTISGD oc cccccccccccsccces passim 
+Norgaard v. DePuy Orthopaedics, Inc., 
+
+121 F.38 1976 C7 Cot. TGBT) on cc ccccccccccccece 48 
+
+
+Ortiz v. Fibreboard Corp., 527 U.S. 815 (1999) .... passim 
+Parklane Hosiery Co. v. Shore, 
+
+
+4 | & | RPT TTT TIT TTTTeee 20 
+Peters v. National R.R. Passenger Corp., 
+
+966 F.2d 1483 (D.C. Cir. 1992) ............ 37, 38, 40 
+Phillips Petroleum Co. v. Shutts, 
+
+Ge CA. FOE CHOU hn cccccccccsenccscecces passim 
+Reynolds v. Beneficial Nat'l Bank, 
+
+y | hk by ly ls ® ree 28 
+Reynoldsville Casket Co. v. Hyde, 
+
+SEGUE, PEP CHG cbc rcccccccicccecisneces 24, 28 
+Richards v. Jefferson County, 
+
+SET UAE. FEO COO < wwe vececccsccccsconss 26, 29, 30 
+Rufo v. Inmates of Suffolk County Jail, 
+
+Se as Be IE niin eectncesceveceneesves 22, 40 
+Ryan v. Dow Chem. Co., 618 F. Supp. 623 
+
+GEE Be CUE warn dbccecdcccnccospuseveestes ll 
+Ryan v. Dow Chem. Co., 781 F. Supp. 902 
+
+8 Sk rrr e re tT tere 13, 32 
+
+
+Saffle v. Parks, 494 U.S. 484 (1990) .. 2.6... eee eee 49 
+
+
+ew - 
+
+
+iX 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+South Cent. Bell Tel. Co. v. Alabama, 
+
+I Oe 29, 30 
+Southern Pac. R. Co. v. United States, 
+
+I a a a a ale 20 
+Syngenta Crop Prot., Inc. v. Henson, 
+
+I ne eeeueee 14 
+Teague v. Lane, 489 U.S. 288 (1989) ............. 24, 48 
+Travelers Indem. Co. v. Sarkisian, 
+
+794 F.2d 754 (2nd Cir. 1986) ................... 24 
+Uhl v. Thoroughbred Tech. & Telecomms., Inc., 
+
+309 F.3d 978 (7th Cir. 2002) ................. 23, 46 
+United States v. Woods, 986 F.2d 669 
+
+FE 24 
+Walsh v. Great Atl. & Pac. Tea Co., 
+
+TOO 26 956 (96 Cit. 1963)... ccc ccc cccccces 28 
+Walters v. National Ass'n of Radiation 
+
+Survivors, 473 U.S. 305 (1985) ......... 31, 34, 40, 41 
+Winters v. Diamond Shamrock Chem. Co., 
+
+149 F.3d 387, cert. denied, 
+
+I 14 
+
+
+CONSTITUTION, STATUTES, AND RULES OF COURT: 
+
+
+ET ov oe us Wietde bu eace shed a saeas l 
+UE A boi dni chh nau ridekes onencuvnainas 2 
+EE Res Se ee 14 
+Gin COU GU AP ts OE vn vi co tic swans ccescses 14 
+
+
+xX 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+Page 
+sk one kadbabecsadsbuneseauese passim 
+. Fae SF eee 38, 39, 40 
+MISCELLANEOUS: 
+
+Allen, Finality of Judgments in Class Actions: 
+A Comment on Epstein v. MCA, Inc., 
+73 N.Y.U. L. Rev. 1149 (1998) ............... 29, 40 
+
+
+Friendly, Some Kind of Hearing, 
+vr) & GS A fo Bere err ere ee 4 
+
+
+Kahan & Silberman, The Inadequate Search 
+
+
+for “Adequacy” in Class Actions: a 
+Critique of Epstein v. MCA, Inc., 
+Fe Oe as Ee CR CUPID Snccccccecceses passim 
+
+
+Kahan & Silberman, Matsushita and Beyond: 
+The Role of Sta*s Courts in Class Actions 
+
+
+Involving Exclusive Federal Claims, 
+SC URGE dncckddaudenkevesuseecees 28 
+
+
+Kahan & Silberman, The Proper Role for 
+Collateral Attack in Class Actions: A Reply to 
+Allen, Miller, and Morrison, 73 N.Y.U. L. Rev. 
+
+
+PED ccdundddapedesendédcanseesenedened 27 
+1B J. MOORE, MOORE’S FEDERAL PRACTICE 
+
+DS SEED no vccdvidesssiccdctvess 33 
+RESTATEMENT (SECOND) OF 
+
+SE POUND cndccccoccsvecccseseucs 37 
+P. SCHUCK, AGENT ORANGE ON TRIAL (1987) ........ 6,7 
+
+
+7A C. WRIGHT ET AL., FEDERAL PRACTICE & 
+PROCEDURE (3d ed. Supp 2000) ................. 28 
+
+
+xi 
+
+
+TABLE OF AUTHORITIES — Continued 
+
+
+11 C. WRIGHT ET AL., FEDERAL PRACTICE & 
+PROCEDURE (2d ed. 1995) 
+
+
+Page 
+
+
+OPINIONS BELOW 
+
+
+The opinion of the court of appeals (Pet. App. 1a-20a) is 
+reported at 273 F.3d 249. The orders of the district court (Pet. 
+App. 23a-26a) are not reported. 
+
+
+JURISDICTION 
+
+
+The judgment of the court of appeals was entered on 
+November 30, 2001, and a timely petition for rehearing was 
+denied on May 8, 2002. On July 29, 2002, Justice Ginsburg 
+extended the time for filing a petition for a writ of certiorari 
+until August 20, 2002. The petition was granted on November 
+4, 2002. This Court has jurisdiction under 28 U.S.C. § 1254(1). 
+
+
+CONSTITUTIONAL PROVISION AND RULE 
+INVOLVED 
+
+
+The Fifth Amendment to the United States Constitution 
+provides: “No person shall be * * * deprived of life, liberty, or 
+property, without due process of law * * * .” 
+
+
+Rule 23(a) of the Federal Rules of Civil Procedure provides 
+in relevant part: “One or more members of a class may sue or 
+be sued as representative parties on behalf of all only if * * * 
+(4) the representative parties will fairly and adequately protect 
+the interests of the class.” 
+
+
+STATEMENT 
+
+
+This litigation involves a “mass tort” suit that was brought 
+as a Class action nearly twenty-five years ago. In that case, the 
+district court, after considering and rejecting numerous 
+challenges to the appropriateness of class treatment, certified a 
+class in 1983 upon finding that all prerequisites for class action 
+treatment (including adequacy of representation) had been met. 
+The parties settled the case in 1984, and a final judgment was 
+entered that (1) required the defendants — now petitioners in this 
+Court — to pay $180 million into a fund to be distributed by the 
+district court for the benefit of the class and (2) permanently 
+barred all class members from instituting against any of the 
+
+
+2 
+
+
+defendants actions that relate to the subject matter of the 
+complaint. The court of appeals upheld the settlement and 
+affirmed the judgment in 1987, specifically rejecting a 
+challenge to the adequacy of the class representation. 
+Petitioners paid almost $200 million for the benefit of the class 
+members. 
+
+
+In 1998, fifteen years after the class was certified, more 
+than ten years after the judgment became final on appeal, and 
+several years after all of the settlement funds had been 
+disbursed, two members of the plaintiff class — now 
+respondents in this Court — brought a new suit against 
+petitioners, arguing that they had not been adequately 
+represented at the time the class was certified and therefore 
+should not be bound by the class judgment. In particular, 
+respondents contended that class representation must have been 
+inadequate because, as matters turned out, they did not receive 
+benefits from the settlement as great as those received by 
+certain other class members. The court of appeals agreed, 
+holding (1) that class members who contest the adequacy of 
+representation may collaterally attack class certification 
+decisions long after the case is resolved and (2) that in such a 
+collateral challenge the court should determine the adequacy of 
+representation not as of the time of the original litigation, but in 
+light of events and changes in the law occurring years after the 
+settlement became final. The question now before the Court is 
+whether those holdings were correct. 
+
+
+1. Beginning in the late 1970s, suits were brought on behalf 
+of Vietnam veterans and their families against petitioners, 
+manufacturers of the herbicide Agent Orange, which petitioners 
+supplied to the United States Government in compliance with 
+military specifications for use as a defoliant. The suits alleged 
+that exposure to Agent Orange had caused (and would cause in 
+the future) a variety of illnesses. Despite the understandably 
+“strong emotions these proceedings have generated” and the 
+“grievous medical problems” experienced by many veterans 
+and their families (Jn re “Agent Orange” Prod. Liab. Litig., 
+
+
+3 
+
+
+818 F.2d 145, 147, 149 (2d Cir. 1987) (“Agent Orange I’), cert. 
+denied, 484 U.S. 1004 (1988)), the courts entertaining the 
+Agent Orange suits consistently have indicated that “the most 
+noticeable fact [about them] is the pervasive factual and legal 
+doubt that surrounds the plaintiffs’ claims.” /d. at 149. 
+
+
+The plaintiffs’ factual and legal position suffered from a 
+number of serious and common weaknesses. Among them was 
+(1) a complete absence of evidence that exposure to Agent 
+Orange caused the plaintiffs’ illnesses, and (2) petitioners’ 
+entitlement to complete immunity under the government 
+contractor defense. See Agent Orange 1, 818 F.2d at 171-174. 
+Then-Chief Judge Weinstein of the Eastern District of New 
+York, who presided over the eventual settlement of the first 
+round of Agent Orange litigation, thus “viewed the plaintiffs’ 
+case as so weak as to be virtually baseless.” Agent Orange /, 
+818 F.2d at 151. The Second Circuit echoed that belief when 
+it affirmed the decision approving the settlement, noting “the 
+pervasive difficulties faced by plaintiffs in establishing 
+liability.” /bid. Indeed, Chief Judge Weinstein dismissed on 
+the merits the claims of class members who opted out of the 
+class to pursue individual actions (see /n re “Agent Orange” 
+Prod. Liab. Litig., 611 F. Supp. 1223 (E.D.N.Y. 1985)), a 
+decision that was upheld by the Second Circuit on appeal. /n 
+re “Agent Orange” Prod. Liab. Litig., 818 F.2d 187 (2d Cir. 
+1987), cert. denied, 487 U.S. 1234 (1988). 
+
+
+2. a. The first Agent Orange suit was brought in New York 
+state court in 1978, removed to federal court, and transferred to 
+the Eastern District of New York. Other individual and class 
+complaints followed. In 1979, the Judicial Panel on Multidis- 
+trict Litigation consolidated the suits in the Eastern District of 
+New York, where the litigation was assigned to then-District 
+Judge Pratt. Ultimately, almost 600 class and individual actions 
+became part of the Agent Orange MDL proceeding. See Agent 
+Orange I, 818 F.2d at 152-153. The lead class action sought 
+relief for a class of almost 2.5 million veterans who served in 
+Vietnam between 1961 and 1972, including both veterans who 
+
+
+4 
+
+
+were then sick and the much larger group who were 
+asymptomatic but assertedly were “at risk” of becoming ill 
+because they hs been exposed to Agent Orange. See, e.g., Pl. 
+Rep. Mem. oe Class Certification (Oct. 17, 1979), JA 47-49 
+(taking the position that all Vietnam veterans “sustained some 
+personal injury”). The class suit also sought relief for certain 
+of the veterans’ family members. 
+
+
+In 1980, Judge Pratt turned to the question whether the class 
+should be certified. Although the defendants opposed 
+certification, Judge Pratt, after a detailed analysis, conditionally 
+granted the plaintiffs’ request to certify a class of “all persons 
+exposed to Agent Orange and various members of their 
+families” — a group that expressly was understood to include 
+both ill and asymptomatic veterans. Jn re “Agent Orange” 
+Prod. Liab. Litig., 506 F. Supp. 762, 787 (E.D.N.Y. 1980). See 
+id. at 787-791. The court observed that, “[b]efore a class action 
+may be maintained under Rule 23, the action must meet the 
+prerequisites of Rule 23(a) and one set of the alternate 
+requirements of Rule 23(b).” /d. at 787. Of particular 
+importance here, Judge Pratt carefully considered the 
+requirements of Rule 23(a)(4), recognizing that “[a]dequacy of 
+representation depends on * * * the absence of antagonism or 
+conflicting interests, and a sharing of interests between class 
+representatives and absentees.” /d. at 788. Finding adequacy 
+and the other elements of Rule 23(a) satisfied, Judge Pratt 
+determined that class action treatment was appropriate under 
+Rule 23(b)(3). 506 F. Supp. at 790, 791. See Agent Orange I, 
+818 F.2d at 153. 
+
+
+In 1983, after Judge Pratt was appointed to the Second 
+Circuit, Chief Judge Weinstein of New York’s Eastern District 
+assumed responsibility for the Agent Orange litigation. 
+Because Judge Pratt had not entered a formal certification 
+order, Chief Judge Weinstein revisited the question of class 
+certification and — again over the defendants’ objections — 
+ultimately concluded that “in the instant litigation * * * the 
+desirability of class certification [is] even greater than it would 
+
+
+5 
+
+
+be in most mass tort litigation.” Jn re “Agent Orange” Prod 
+Liab. Litig., 100 F.R.D. 718, 720(E.D.N.Y. 1983). Chief Judge 
+Weinstein specifically noted that “(t]he four prerequisites [of 
+Fed. R. Civ. P. 23(a)] have already been carefully analyzed by 
+the court and found to exist.” /d. at 721. The court then 
+concluded that certification was proper pursuant to Rule 
+23(b)(3) because “the affirmative defenses and the question of 
+general causation are common to the class” and “those - 
+questions predominate over any questions affecting individual 
+[class] members.” /d. at 724. 
+
+
+Chief Judge Weinstein defined the plaintiff class broadly to 
+include: 
+
+
+those persons who were in the United States, New Zealand 
+or Australian Armed Forces at any time from 1961 to 1972 
+who were injured while in or near Vietnam by exposure to 
+Agent Orange or other phenoxy herbicides * * *. The class 
+also includes spouses, parents, and children of the veterans 
+born before January |, 1984, directly or derivatively injured 
+as a result of the exposure. 
+
+
+100 F.R.D. at 729. Again, this class was recognized by the 
+court and the parties to include both ill and unimpaired 
+veterans; under the plaintiffs’ theory, all Vietnam veterans 
+exposed to Agent Orange had suffered a legally cognizable 
+“injury,” even if they had not manifested symptoms. ' 
+
+
+' See, e.g., Tr. of Oral Arg. Before Special Master Sol Schreiber, 
+Aug. 24, 1982 (JA 55-59 (statement by lead plaintiffs’ counsel that 
+all 2.5 million Vietnam veterans had suffered injury and were 
+members of the class); Pl. Second Supp. Mem. on Class Definition & 
+Supp. Mem. on Generic Causation, Sept. 12, 1983 (JA 70; see also id. 
+at 71-74) (urging definition of class that “will be dispositive to all 
+present and potential claimants”); Tr. of Oral Arg. at 46, MDL No. 
+381 (E.D.N.Y. Nov. 7, 1983) (Chief Judge Weinstein stating that 
+ey eee 
+c 
+
+
+6 
+
+
+Chief Judge Weinstein also ordered that notice of the 
+pendency of the action — and of the class members’ right to opt 
+out of the suit until May |, 1984 — be provided to the class in 
+several ways: 
+
+
+. Written notice was mailed to all persons who had filed 
+or intervened in Agent Orange actions, who were 
+represented by counsel associated with the plaintiffs’ 
+management committee, or who were “listed on the 
+United States Government’s Veteran’s Administration 
+‘Agent Orange Registry.”” 100 F.R.D. at 729. 
+
+
+° Plaintiffs’ counsel were to arrange for announcements 
+to be read over the national television networks and on 
+radio stations “with a combined coverage of at least 50 
+percent of the listener audience in each of the top one 
+hundred radio markets in the United States.” Jd. at 730. 
+
+
+° Plaintiffs’ counsel were to publish the notice in two 
+successive weeks (except in the case of monthly 
+publications) in the nationwide edition of The New York 
+Times, USA Today, Time Magazine, The American 
+Legion Magazine, VFW Magazine, Air Force Times, 
+Army Times, Navy Times, and the Leatherneck, in the 
+ten largest circulation newspapers in Australia; and in 
+the five largest circulation newspapers in New Zealand. 
+Id. at 730. 
+
+
+° The court’s clerk sent the class notice to every state 
+governor, asking that it be referred to “any state 
+organization created by the executive or legislative 
+
+
+> The Agent Orange Registry maintained by the Veterans 
+Administration (now the Department of Veterans Affairs) included 
+the records of medical examinations, diagnostic tests, and health care 
+evaluations provided to veterans concerned about the possible effects 
+of exposure to Agent Orange. See P. SCHUCK, AGENT ORANGE ON 
+TRIAL 24 (1987). At the time of class certification in 1984, the 
+registry contained information on approximately 130,000 veterans. 
+
+
+, 
+
+
+branches dealing with the problems of Vietnam 
+veterans and request[ing] that the notice be sent to all 
+those known Vietnam veterans who may be members of 
+the class.” /d. at 730-731. 
+
+
+Chief Judge Weinstein found that this notice “is the best 
+reasonable and practicable notice under the circumstances of 
+this litigation.” /d. at 731. He scheduled trial for May 7, 1984. 
+
+
+b. As the trial date approached, the parties engaged in 
+“arm’s length and adversarial, even fierce” settlement 
+negotiations with the assistance of three special masters 
+appointed by Chief Judge Weinstein. /n re “Agent Orange” 
+Prod. Liab. Litig., 996 F.2d 1425, 1436 (2d Cir. 1993) 
+(“/vy/Hartman’’), cert. denied, 510 U.S. 1140 (1994); see Agent 
+Orange I, 818 F.2d at 155; P. SCHUCK, AGENT ORANGE ON 
+TRIAL 144-166 (1987). The parties reached a settlement 
+agreement early in the morning of May 7, 1984, on the eve of 
+trial. Agent Orange I, 818 F.2d at 155. The settlement 
+provided that the defendants would pay a lump sum of $180 
+million into a fund to benefit the plaintiff class but did not 
+provide for the formula to be used to distribute the settlement 
+proceeds. See ibid. The settlement specified that “all members 
+of the Class are forever barred from instituting or maintaining 
+any action against any of the defendants * * * arising out of or 
+relating to, or in the future arising out of or relating to, the 
+subject matter of the Complaint,” and also made express that 
+“(t]he class specifically includes persons who have not yet 
+manifested injury.” Jn re “Agent Orange” Prod. Liab. Litig., 
+597 F. Supp. 740, 864-65 (E.D.N.Y. 1984). 
+
+
+Chief Judge Weinstein, in an unprecedented outreach to the 
+class members, then scheduled eleven days of hearings on the 
+fairness of the settlement, to be conducted in New York, 
+Chicago, Houston, Atlanta, and San Francisco. See 597 F. 
+Supp. at 866. He ordered plaintiffs’ counsel to mail notice of 
+the proposed settlement and of the hearings to “all members of 
+the class known to [them],” and also directed counsel to publish 
+
+
+8 
+
+
+the notice in Specified general interest and armed forces 
+newspapers. See id. at 866-867. Among other things, the 
+notice indicated that “[t]he Settlement Agreement confirms that 
+the class includes persons who have not yet manifested injury” 
+and stated that, if the court were to approve the settlement, it 
+would conduct further proceedings to determine the proper 
+allocation of the settlement funds. /d. at 874-875. 
+
+
+At the fairness hearings, Chief Judge Weinstein heard from 
+almost 500 witnesses. He also considered “hundreds of written 
+communications from veterans, members of their families, 
+veterans’ organizations and others * * * [and] read a large part 
+of the relevant literature, taking judicial notice of its 
+substance.” 597 F. Supp. at 748; see Agent Orange I, 818 F.2d 
+at 155-156. A number of class members and their attorneys 
+voiced concern about the provision that would be made for 
+veterans who had not manifested symptoms, and several 
+recommended that a subclass of objectors be certified. See, e.g., 
+JA 122-125. Chief Judge Weinstein denied this request, 
+concluding that the views of the objectors had been taken into 
+account and that “[n]o purpose would have been served by 
+appointing counsel for a subclass of disappointed claimants 
+except to increase expenses to the class and delay proceedings.” 
+597 F. Supp. at 757. 
+
+
+At the close of the fairness hearings, Chief Judge Weinstein 
+carefully reviewed and then preliminarily approved the 
+settlement pursuant to Fed. R. Civ. P. 23(e). See 597 F. Supp. 
+at 746-858. In finding the amount awarded to the class fair, the 
+judge was motivated principally by his view that “the evidence 
+presented to the court to date suggests that the case is without 
+merit” (id. at 857) and that the settlement accordingly “gives 
+the class more than it would likely achieve by attempting to 
+litigate to the death.” Jd. at 747. In so ruling, Chief Judge 
+Weinstein analyzed in detail the myriad and, in his view, 
+insurmountable difficulties the plaintiffs would face in 
+establishing liability. /d. at 800-850. Indeed, as is noted above 
+(at page 2, supra), Chief Judge Weinstein subsequently 
+
+
+9 
+
+
+dismissed on the merits the claims of class members who opted 
+out of the class. He entered a final order approving the 
+settlement on January 7, 1985. Jn re “Agent Orange” Prod. 
+Liab. Litig., 611 F. Supp. 1296 (E.D.N.Y. 1985), aff'd in 
+relevant part, 818 F.2d 112 (2d Cir. 1987). 
+
+
+Class members subsequently moved for reconsideration. 
+Among other things, these objectors expressly contended that 
+“the class action representatives may have been inadequate.” 
+Mem. in Supp. of Pl. Mot. Pursuant to Rules 52(b) and 59 to 
+Reconsider the Order of Jan. 7, 1985 (JA 144). They 
+complained that “[n]o class representative represented class 
+members who were deceased or who had not manifested 
+injury”; that “[a}ll of the class representatives were living and 
+had manifested injury”; and that “the interests of living class 
+representatives who had manifested injury were antagonistic to 
+the interests of those who had died and to those who had not yet 
+manifested injury” because “[]the more money set aside for 
+those who had died and for those who had not yet manifested 
+injury, the less money available to those who are living and 
+who have manifested injury.” /d. at 144-145. Chief Judge 
+Weinstein, after indicating that he had considered the argument 
+and found it to lack merit, denied this motion without opinion. 
+Id. at 194. 
+
+
+c. The court then turned to the distribution of the settlement 
+funds. Chief Judge Weinstein conducted a public hearing on 
+the subject — in which the defendants did not participate — 
+where he heard from the plaintiffs’ counsel, representatives of 
+veterans organizations, and individual class members. After 
+also receiving and “thorough[{ly] reviewing” a “number of 
+[written] submissions” (Jn re “Agent Orange” Prod. Liab. 
+Litig., 611 F. Supp. 1396, 1402 (E.D.N.Y. 1985); see Agent 
+Orange I, 818 F.2d at 156), Chief Judge Weinstein adopted a 
+slightly modified version of a proposal for distribution that had 
+been offered by Special Master Kenneth Feinberg. The judge 
+described this proposal as “an elegant solution [combining] 
+insurance-type compensation to give as much help as possible 
+
+
+10 
+
+
+to individuals whc, in general, are most in need of assistance, 
+together with a foundation run by veterans with the flexibility 
+and discretion to take care of individuals and groups most in 
+need of help.” 611 F. Supp. at 1400. 
+
+
+The distribution plan provided that 75 percent of the $180 
+million settlement fund would be distributed directly to the 
+survivors of deceased veterans and to veterans who became 
+totally disabled due to illness before January |, 1995 —i.e., ten 
+years beyond the date of the settlement and more than 20 years 
+after any possible exposure to Agent Orange. 611 F. Supp. at 
+1410-1412. This “compensation-based” regime did not vary 
+according to the strength or weakness of individual claims (or 
+of categories of claims) “because of the near impossibility of 
+proving that any particular plaintiff's condition was caused by 
+Agent Orange.” /d. at 1400. Although Chief Judge Weinstein 
+recognized that this formula would result in “[n]o payment 
+[being] made for death or disability occurring after December 
+31, 1994” (id. at 1417), he noted that “disabilities or deaths 
+occurring many years after service in Vietnam, or among older 
+veterans for whom the background incidence [of illness] is 
+higher, have a relatively diminished connection with Agent 
+Orange exposure in terms of both public perception and the 
+likelihood of intervening or contributing causes” (id. at 1418); 
+in addition, keeping the portion of the fund dedicated to cash 
+compensation open indefinitely would preclude the possibility 
+of meaningful payments to acutely ill veterans who were most 
+in need of assistance. /d. at 1411. 
+
+
+Chief Judge Weinstein set aside most of the remainder of 
+the settlement fund to support a “class assistance foundation” 
+run by veterans that would help class members “mobilize 
+themselves and others to deal with their medical and related 
+problems.” 611 F. Supp. at 1432. Recognizing that “[t}he 
+majority of claimants will not meet the eligibility criteria for 
+cash compensation under the payment program,” Chief Judge 
+Weinstein explained that class members who were not disabled 
+“should receive some benefit from the settlement.” /d. at 1431. 
+
+
+11 
+
+
+He concluded that “[t]he most practicable and equitable method 
+of distributing benefits to this segment of the class is through 
+funding of services” pursuant to the class assistance foundation, 
+as opposed to “thousands of small individual payments” that 
+would “trivialize the beneficial impact of the settlement fund on 
+the needs of the class.” Jbid. The foundation was broadly 
+directed “to fund projects to help meet the service needs of the 
+class as a whole.” Jd. at 1437. 
+
+
+The district court subsequently entered judgment dismissing 
+“on the merits, with prejudice,” “all claims of each and every 
+plaintiff and member of the Rule 23(b)(3) class.” This order 
+provided that “[eJach and every plaintiff and member of the 
+Rule 23(b)(3) class is hereby forever barred from instituting or 
+maintaining any action against any of the defendants” relating 
+to “the subject matter of any of the complaints in this class 
+action.” Ryan v. Dow Chem. Co., 618 F. Supp. 623, 624 
+
+
+' (E.D.N.Y. 1985). 
+
+
+3. Objecting class members subsequently appealed. Of 
+particular importance here, the objectors made the very 
+argument now advanced by respondents in this case: they 
+contended that the class should not have been certified, arguing 
+that the class representation was inadequate because “[t}he 
+‘injured’ class representatives failed to protect the substantive 
+rights of all of those ‘not yet manifested injury’ class members 
+who will manifest injury after the year 1995 when the 
+settlement fund is projected to be depleted.” No. 84-6273, Jn re 
+“Agent Orange” Prod. Liab. Litig,, Reply Br. of Appellants 16 
+(2d Cir.) (brief of objectors to the settlement). The court of 
+appeals specifically rejected this contention that “the diverse 
+interests of the class make adequate representation virtually 
+impossible” (Agent Orange I, 818 F.2d at 167) and upheld the 
+settlement.’ In reaching this conclusion, the Second Circuit 
+
+
+> The court of appeals ordered Chief Judge Weinstein’s distribution 
+plan modified in only two respects. It held that the class assistance 
+foundation should be administered directly by the district court rather 
+
+
+12 
+
+
+voiced agreement with Chief Judge Weinstein’s finding that 
+there were no significant differences among the class members 
+because their claims had serious common weaknesses that were 
+central to resolution of the case. Jd. at 166-167. The court 
+therefore held that class representation was adequate and that 
+the class had been properly certified. /bid. 
+
+
+The court of appeals also held that “the notice plan adopted 
+by Chief Judge Weinstein was fully adequate under the 
+circumstances” (id. at 169) and that the settlement was fair, 
+reasonable, and adequate. Jd. at 170-173. In reaching this latter 
+conclusion, the court emphasized the insubstantiality of the 
+plaintiffs’ claims, observing that, in view of the serious 
+common legal and factual barriers to recovery, plaintiffs’ 
+counsel “had good reason to view this case as having only 
+nuisance value.” /d. at 171; see id. at 170-174. The objectors 
+subsequently sought certiorari and this Court denied review. 
+484 U.S. 1004 (1988). 
+
+
+Relying on the finality of the settlement, petitioners paid 
+$180 million (plus accrued interest) to resolve the class 
+members’ claims. See /vy/Hartman, 996 F.2d at 1429. 
+Distribution of the settlement proceeds began in 1988 and was 
+largely accomplished by June 1997. During that period, 52,000 
+class members received $196.5 million in direct cash payments. 
+Pet. App. 9a. The eligibility criteria established by Chief Judge 
+Weinstein ultimately resulted in fewer that one percent of class 
+members receiving direct payments from the settlement funds. 
+See Final Report of the Special Master on the Distribution of 
+the Agent Orange Settlement Fund at 1, 3-4 (Sept, 24, 1997). 
+The class assistance foundation expended an additional $71.3 
+million to benefit the class as a whole. Pet. App. 9a. 
+
+
+than by class members, and that the fund should be managed so that 
+the settlement moneys eventually would be consumed in their 
+entirety. 818 F.2d at 184-186. 
+
+
+13 
+
+
+4. In 1989 and 1990, two years after the class settlement 
+became final, individual veterans brought two new putative 
+class actions (the “/vy/Hartman” suits) against petitioners, 
+alleging that they had suffered injuries caused by Agent Orange 
+that “did not manifest themselves or were not discovered until 
+after May 7, 1984, the Agent Orange / settlement date.” 
+Ivy/Hartman, 996 F.2d at 1430. The cases were dismissed by 
+Judge Weinstein, who found the claims precluded by the 
+settlement. Ryan v. Dow Chem. Co., 781 F. Supp. 902, 918- 
+919 (E.D.N.Y. 1991). In particular, Judge Weinstein rejected 
+the contention that persons who developed symptoms after 
+1984 had not been adequately represented in the original class 
+litigation. He acknowledged that “[o]ne can imagine many 
+genuine conflicts of interest between two such groups [i.e., 
+symptomatic and asymptomatic class members] within a class 
+action,” but explained that “[a]ll of the courts which considered 
+the Agent Orange Settlement were fully cognizant of the 
+conflict arguments now hypothesized by the plaintiffs and took 
+steps to minimize the problem in the way they arranged for 
+long-term administration of the Settlement Fund.” /d. at 919. 
+
+
+The court of appeals affirmed. Concluding that “the 
+fundamental fairness of the Agent Orange | settlement remains 
+unshaken” (/vy/Hartman, 996 F.2d at 1437), the court 
+accordingly held that class members who became ill after the 
+settlement was reached were barred from pursuing individual 
+
+
+’ Claims against petitioners. Jd. at 1438. 
+
+
+5. a. In 1998 and 1999, five years after the Second 
+Circuit’s ruling in /vy/Hartman, respondents in the current 
+litigation filed separate individual actions against petitioners. 
+In their complaints, respondents alleged that they had become 
+ill due to exposure to Agent Orange in Vietnam, but that their 
+illnesses did not become manifest until after 1994, when the 
+portion of the Agent Orange settlement providing direct cash 
+payments to veterans had been exhausted. See Pet. App. 9a- 
+10a. Respondents contended that their inability to receive such 
+payments now necessarily meant that they had not been 
+
+
+14 
+
+
+adequately represented at the time of the class action and 
+therefore could not be bound by the settlement. See id. at 13a- 
+14a. 
+
+
+The cases were transferred to the Eastern District of New 
+York and dismissed by Judge Weinstein. Pet. App. 27a-43a.* 
+He noted that, at the time of the settlement, “the court held 
+discussions with all attorneys and anyone else who wished to 
+be heard, those who knew they were sick, those who thought 
+they might be sick in the future * * * . The court then approved 
+the settlement. It was appealed to the court of appeals, which 
+approved the settlement. That is the final decision. Whether 
+right or wrong at that time, that is the end of the case.” Jd. at 
+39a. Judge Weinstein added that “[y]ou have to attack directly, 
+
+
+* This case involves two consolidated actions that present identical 
+substantive issues. One, initiated by respondent Daniel Stephenson, 
+was brought in federal court in the Western District of Louisiana on 
+diversity grounds; the other, initiated by respondent Joe Isaacson, was 
+brought in New Jersey state court, removed to federal court for the 
+District of New Jersey, and then transferred to the Eastern District of 
+New York. See Pet. App. 10a. Isaacson sought remand of his case 
+to state court, arguing that one of the bases for removal, the All Writs 
+Act, 28 U.S.C. § 1651, does not independently provide for federal 
+removal jurisdiction; that argument was rejected both by the district 
+court and by the court of appeals. See Pet. App. 10a, 1 la-12a. After 
+certiorari was granted in this case, however, this Court held in 
+Syngenta Crop Protection, Inc. v. Henson, 123 S. Ct. 366 (2002), that 
+the All Writs Act does not provide an independent basis for federal 
+jurisdiction. In light of Syngenta, petitioners’ view is that the 
+Isaacson case should be remanded to the district court for a 
+determination whether the alternative ground advanced below in 
+support of removal — the federal officer removal provision of 28 
+U.S.C. § 1442 — supports the exercise of federal jurisdiction. See 
+Winters v. Diamond Shamrock Chem. Co., 149 F.3d 387 (Sth Cir. 
+1998), cert. denied, 526 U.S. 1034 (1999). This Court, of course, 
+does have jurisdiction to decide the questions presented in the 
+petition for certiorari by resolving Stephenson’s case. 
+
+
+ee 
+
+
+15 
+
+
+not by a collateral attack some fifteen years after judgment.” 
+Id. at 40a. 
+
+
+Judge Weinstein also noted that respondents, like “[e]very 
+veteran[,] * * * benefited” from the $71.3 million distributed by 
+the class assistance fund, even if respondents were not among 
+the relatively small proportion of class members who received 
+direct cash death or disability payments. Pet. App. 42a. As 
+Judge Weinstein explained, the class assistance fund financed 
+a variety of programs that, among other things, contributed 
+substantially to the passage of federal Agent Orange legislation, 
+which continues to provide benefits to many class members — 
+including respondent Isaacson. /d. at 42a-43a. 
+
+
+b. On appeal, the third time was the charm; the court of 
+appeals reversed, holding that respondents were not precluded 
+from litigating the issue of adequate representation. Pet. App. 
+la-20a. The court acknowledged that its prior decisions in 
+Agent Orange I and Ivy/Hartman “specifically rejected an 
+attack based on adequacy of representation.” /d. at 6a; see id. 
+at 8a-9a. The court also recognized that respondents “fall 
+within the class definition of the prior litigation.” Jd. at 18a. 
+The court nevertheless believed that this case required it “to 
+determine the effect of the Supreme Court’s landmark class 
+action decisions in Amchem Products, Inc. v. Windsor, 521 U.S. 
+591 (1997), and Ortiz v. Fibreboard Corp., 527 U.S. 815 
+(1999), on a previously settled class action.” Pet. App. at la- 
+2a. Answering that question, the court concluded that those 
+decisions “prevent applying res judicata to bar plaintiffs’ 
+claim.” Jd. at 2a. 
+
+
+The court of appeals first held that respondents could 
+launch a collateral attack on the prior holdings that the class 
+representation had been adequate. Notwithstanding its previous 
+conclusion “that there was adequate representation of all class 
+members in the original Agent Orange settlement,” the Second 
+Circuit stated (inaccurately, in our view) that “neither this 
+Court nor the district court has addressed specifically the 
+
+
+16 
+
+
+adequacy of representation for those members_of the class 
+whose injuries manifested after depletion of the settlement 
+funds.” Pet. App. 13a. In this regard, the court distinguished its 
+decision in /vy/Hartman on the ground that the illnesses of the 
+plaintiffs in that litigation became manifest prior to the 
+termination of direct cash payments to class members. /d. at 
+13a-14a. “Therefore,” the court held, “plaintiffs’ suit can go 
+forward because there has been no prior adequacy of 
+representation determination with respect to individuals whose 
+claims arise after the depletion of the settlement fund.” /d. at 
+14a. Citing this Court’s decision in Hansberry v. Lee, 311 U.S. 
+32 (1940), the court of appeals concluded that “Lif 
+[respondents] were not proper parties to th{e] [class action] 
+judgment * * * res judicata cannot defeat their claims.” Pet. 
+App. at 16a. 
+
+
+The court then turned to the merits of the collateral attack 
+on the prior determination of adequacy, finding Amchem and 
+Ortiz dispositive. The Second Circuit read those decisions, both 
+of which were handed down long after the Agent Orange 
+settlement, to hold that it generally is improper for a court to 
+certify ‘“‘a class which purports to represent both present and 
+future claimants.” Pet. App. 19a. Observing that “the prior 
+[Agent Orange] litigation purported to settle all future claims, 
+but only provided for recovery for those whose death or 
+disability was discovered prior to 1994,” the court of appeals 
+accordingly took Amchem and Ortiz to indicate that respondents 
+here “were not adequately represented in the prior Agent 
+Orange litigation.” Ibid. And because the court of . appeals 
+evidently understood Amchem and Ortiz to state a constitutional 
+rule, it went on to opine that respondents had not been 
+“afforded due process in the earlier litigation.” /d. at 20a. The 
+court therefore held that respondents “were not proper parties 
+[to that litigation] and cannot be bound by the settlement. 
+
+
+Ibid. 
+
+
+17 
+
+
+INTRODUCTION AND SUMMARY OF ARGUMENT 
+
+
+The Agent Orange class was certified nearly 20 years ago. 
+At the time, the courts directly confronted the question whether 
+the class was adequately represented, with the issue vigorously 
+contested first by the defendants and then by class objectors. 
+Two district judges and the court of appeals, keenly aware of 
+the judicial obligation to guard against intraclass conflicts, 
+found the representation adequate. Faced with a certified class, 
+petitioners settled the suit, making an unallocated $180 million 
+payment to be distributed by the district court on the express 
+condition that class members not initiate future Agent Orange 
+litigation. 
+
+
+Now, many years later, respondents have become 
+dissatisfied with the district court’s distribution plan because 
+they fell ill at a time when it was no longer possible for them to 
+obtain direct payments from the settlement funds. Although 
+respondents did not opt out of the class or object to the terms of 
+the settlement prior to payment of the judgment — and although, 
+like all members of the class, they benefited from the activities 
+of the class assistance foundation — respondents insist that their 
+current inability to receive direct cash payments shows that 
+they were not adequately represented at the time of the 
+settlement and that, as a consequence, they should not be bound 
+by the class judgment. 
+
+
+The implications of this argument are dramatic. 
+Respondents’ approach would subject petitioners to new rounds 
+of litigation and the prospect of additional liability after they 
+already have irretrievably paid a substantial settlement on the 
+express condition that they would not face future lawsuits. And 
+more generally, respondents’ approach would substantially 
+undermine the utility of the class action procedure by making 
+it impossible ever to definitively determine that a class is 
+adequately represented. 
+
+
+I. This outcome is worse than unfair and unwise: it is 
+legally insupportable, for several reasons. First, post-judgment 
+
+
+18 
+
+
+developments — here, the fact that, as matters eventuated, 
+respondents became ill after direct payments from the 
+settlement fund had terminated — may not be used to reopen 
+litigation. After-the-fact dissatisfaction with the outcome of a 
+lawsuit never has been thought to justify a collateral attack on 
+a final judgment. The court of appeals nevertheless reasoned 
+that, at the time of class certification, veterans who would 
+become ill after direct payments from the settlement fund ended 
+should have been put in a separate subclass. That conclusion 
+suffers from a fatal failure of logic; at the time of certification 
+all asymptomatic class members were in precisely the same 
+position because it was not known or knowable when, if ever, 
+any particular veteran would become ill. 
+
+
+Second, and more fundamentally, barring respondents from 
+relitigating adequacy of representation is fully consistent with 
+the requirements of due process. The good-faith 
+implementation of Fed. R. Civ. P. 23 — a rule that was applied 
+by the courts in this case and that specifically requires, among 
+other things, that the court itself assure the adequacy of class 
+representation — suffices to “insure[] the protection of the 
+interests of absent parties who are to be bound by [the 
+judgment).” Hansberry, 311 U.S. at 42. At the same time, the 
+balance of public and private interests that go into the due 
+process equation shows that absent parties have not been denied 
+due process when they are bound by determinations of 
+adequacy made under Rule 23: (1) respondents’ interest in 
+relitigation is limited by the Rule 23 protections themselves, 
+which assure that the settlement is fair to absent parties; (2) the 
+risk that the initial determination of adequacy was incorrect is 
+low, as is the value of relitigation; and (3) the interests both of 
+adverse parties (who have a right to count on finality) and of 
+the public (which would see the class action mechanism sapped 
+of much of its utility if relitigation is permitted) weigh heavily 
+against allowing collateral attacks on determinations of 
+adequacy. 
+
+
+19 
+
+
+II. Even if collateral challenges to long-settled findings of 
+adequacy are permissible, the Second Circuit committed 
+fundamental errors in the way it went about conducting the new 
+adequacy inquiry. The court assumed that the analysis used in 
+resolving a collateral attack is identical to the one that governs 
+on initial direct review of the adequacy determination. But that 
+plainly is wrong, because the due process balance is 
+dramatically different in a collateral proceeding. The claimant 
+who seeks to avoid the binding force of a final judgment and 
+thereby to upset settled reliance interests must make a far more 
+powerful showing of prejudicial intraclass conflicts than does 
+a class member challenging adequacy of representation in the 
+initial litigation. In addition, any redetermination of adequacy 
+must be made on the basis of the facts and law as they existed 
+at the time of the original judgment. When viewed under the 
+proper standards, there is no basis for setting aside the finding 
+of adequacy made in the Agent Orange — nearly two 
+decades ago. 
+
+
+ARGUMENT 
+
+
+I. THE PRIOR FINAL DETERMINATION THAT ALL 
+MEMBERS OF THE AGENT ORANGE CLASS 
+WERE ADEQUATELY REPRESENTED IN THE 
+ORIGINAL LITIGATION IS NOT SUBJECT TO 
+COLLATERAL ATTACK 
+
+
+A. Class Action Judgments Are Binding On All 
+Members Of The Class And May Not Be Reopened 
+On The Basis Of Developments Occurring After The 
+Entry Of Final Judgment 
+
+
+1. Preclusion principles apply in class litigation. The 
+background principles that control this litigation are not in 
+dispute. To begin with, “[a] fundamental precept of common- 
+law adjudication, embodied in the related doctrines of collateral 
+estoppel and res judicata, is that a ‘right, question or fact 
+distinctly put in issue and directly determined by a court of 
+competent jurisdiction ... cannot be disputed in a subsequent 
+
+
+20 
+
+
+999 
+
+
+suit between the parties or their privies.’"” Montana v. United 
+States, 440 U.S. 147, 153 (1979) (quoting Southern Pac. R. Co. 
+v. United States, 168 U.S. 1, 48-49 (1897) (ellipses in 
+original)). As a consequence, “the usual rule is that merits of 
+a legal claim once decided in a court of competent jurisdiction 
+are not subject to redetermination” (Kremer v. Chemical 
+Constr. Corp., 456 U.S. 461, 485 (1982)), and such a judicial 
+decision “precludes the parties or their privies from relitigating 
+issues that were or could have been raised in that action.” 
+Federated Dep't Stores v. Moitie, 452 U.S. 394, 398 (1981). 
+See, e.g., Parklane Hosiery Co. v. Shore, 439 U.S. 322, 332- 
+333 (1979). 
+
+
+This preclusion of collateral litigation “is not a mere matter 
+of practice or procedure inherited from a more technical time 
+than ours. It is a rule of fundamental and substantial justice, of 
+public policy and of private peace, which should be cordially 
+regarded and enforced by the courts.” Moitie, 452 U.S. at 401 
+(citation and internal quotation marks omitted). Indeed, rules 
+of issue and claim preclusion are “central to the purpose for 
+which civil courts have been established, the conclusive 
+resolution of disputes within their jurisdictions.” Montana, 440 
+U.S. at 153. The important social values those rules advance 
+have often been rehearsed: barring collateral litigation protects 
+parties against “the expense and vexation attending multiple 
+lawsuits, conserves judicial resources, and fosters reliance on 
+judicial action by minimizing the possibility of inconsistent 
+decisions.” Jd. at 153-154. See, e.g., Kremer, 456 U.S. at 467 
+n.6; Allen v. McCurry, 449 U.S. 90, 94 (1981); Parklane 
+Hosiery, 439 U.S. at 326. This “‘public policy’” that “there be 
+an end of litigation’” is so fundamental that even matters going 
+to the court’s jurisdiction — and, thus, to its very authority to 
+decide the case — once “fully and fairly litigated and finally 
+decided” shall “‘be considered forever settled between the 
+parties.’” Durfee v. Duke, 375 U.S. 106, 111 (1963) (citations 
+omitted). See Chicot County Drainage Dist. v. Baxter State 
+Bank, 308 U.S. 371 (1940). 
+
+
+21 
+
+
+There is no doubt that this principle of finality applies with 
+full force in the class action context. “[U]nder elementary 
+principles of prior adjudication a judgment in a properly 
+entertained class action is binding on class members in any 
+subsequent litigation.” Cooper v. Federal Reserve Bank of 
+Richmond, 467 U.S. 867, 874 (1984). This means that “[a] 
+judgment in favor of either side [in a class action] is conclusive 
+in a subsequent action between them on any issue actually 
+litigated and determined, if its determination was essential to 
+that judgment.” Jbid. See, e.g., Phillips Petroleum Co. v. 
+Shutts, 472 U.S. 797, 801 (1985); Hansberry, 311 U.S. at 41- 
+42. In particular, in an action under Fed. R. Civ. P. 23, “‘[alll 
+members of the class * * * are bound by the judgment entered 
+in the action unless, in a Rule 23(b)(3) action, they make a 
+timely election for exclusion.’” Matsushita Elec. Indus. Co. v. 
+Epstein, 516 U.S. 367, 379 (1996) (citation omitted). See 
+Devlin v. Scardelletti, 122 S. Ct. 2005, 201 1 (2002) (“appealing 
+the approval of a settlement is [a class member’s] only means 
+of protecting himself from being bound by a disposition of his 
+rights he finds unacceptable”). 
+
+
+On the face of it, those principles would appear to dispose 
+of this case. Respondents concededly are members of the 
+Agent Orange class certified by Judges Pratt and Weinstein, 
+and therefore are bound by the class judgment. The adequacy 
+of class representation (and, more broadly, the propriety of 
+class certification) was contested and decided both at the time 
+of preliminary class certification in 1980 and at the time of final 
+certification in 1983. See pages 4-5, supra. Adequacy of 
+representation was contested and resolved again when objectors 
+sought reconsideration of the settlement. See page 9, supra. 
+And it was raised, contested, and expressly resolved by the 
+Second Circuit on appeal in Agent Orange I. See pages 11-12, 
+supra. The issue of adequate representation therefore should be 
+“considered forever settled between the parties.” 
+
+
+2. Post-settlement developments may not be used to reopen 
+class judgments. The court of appeals nevertheless held that 
+
+
+22 
+
+
+respondents were not bound by the class judgment. In the 
+court’s view, class members who did not manifest illness until 
+after 1994 (the year direct cash payments from the settlement 
+fund terminated) may not be treated as “proper parties” to the 
+class action because “there has been no prior adequacy of 
+representation determination” with regard to this limited 
+subclass of veterans “whose claims arise after depletion of the 
+settlement fund.” Pet. App. 14a. Starting from that hypothesis, 
+the court concluded that the holdings of Amchem and Ortiz 
+permitted reexamination of the prior judgment as to adequacy. 
+There is however, a fatal error in this conclusion. 
+
+
+a. The Second Circuit’s essential reasoning was that 
+respondents must not have been adequately represented 
+because, as events ultimately turned out, they did not become 
+ill until after 1994 and therefore could not recover direct cash 
+payments from the settlement fund. But this holding runs afoul 
+of basic preclusion principles. It has never been thought that 
+after-the-fact dissatisfaction with the outcome of litigation 
+justifies a collateral attack on-a long-final judgment; after all, 
+allowing such an attack “‘would result in creating elements of 
+uncertainty and confusion and in undermining the conclusive 
+character of judgments, consequences which it was the very 
+purpose of the doctrine of res judicata to avoid.’” Moitie, 452 
+U.S. at 398-399 (citation omitted). Cf. Rufo v. Inmates of 
+Suffolk County Jail, 502 U.S. 367, 385 (1992) (modification of 
+a consent decree ordinarily “should not be granted where a 
+party relies upon events that actually were anticipated at the 
+time it entered into [the] decree”). Indeed, the entire point of 
+the preclusion principle described above is that parties do not 
+get a second bite at the apple simply because they are unhappy 
+about how the judgment played out over time. That is no less 
+true of class actions than of other forms of litigation. 
+
+
+The court of appeals compounded this basic legal mistake 
+with a logical error. It concluded that class members who 
+became ill after 1994 should have been put in a subclass (or let 
+out of the class action altogether) because they necessarily were 
+
+
+23 
+
+
+disadvantaged by the settlement relative to those who 
+manifested symptoms earlier. But this reasoning 1s unsound. 
+The court did not say that a// asymptomatic class members had 
+been inadequately represented, or that it was impermissible to 
+certify a unitary class consisting of both currently ill and (some 
+limited group of) asymptomatic veterans, to the contrary, the 
+court accepted as correct its previous holding in Ivy/Hartman 
+that class members who had not been ill at the time of 
+settlement in 1984, but who developed symptoms between 
+1984 and 1994, had been adequately represented and therefore 
+were bound by the judgment. See Pet. App. 13a-14a. Yet at the 
+time of class certification and settlement in 1983 and 1984, it 
+was not known — and was not knowable — which veterans 
+would become ill prior to 1994, which would become ill after 
+1994, and which would never become ill at all. This means 
+that, at the time of settlement in 1984, respondents were in 
+precisely the same position as all other “future claimants 
+
+because each operated behind a “‘veil of ignorance, not 
+knowing “where [he or she] would end up.’ Uhl v. 
+Thoroughbred Tech. & Telecomms., Inc., 309 F.3d 978, 986 
+(7th Cir. 2002) (Diane Wood, J.). Thus, if it was permissible 
+for many asymptomatic veterans to have been in the class along 
+with the then-impaired, as the court of appeals conceded to be 
+the case, the distinction drawn by the court simply makes no 
+
+
+sense. 
+
+
+b. Inaddition, the court of appeals clearly was wrong in its 
+related view that the finality of a judgment is affected by 
+subsequent changes in the substantive law. Here, the Second 
+Circuit believed that this Court’s decisions in Amchem and 
+Ortiz undermined the correctness of the 1980 and 1983 
+decisions to certify the Agent Orange class. See Pet. App. la- 
+2a, 17a-20a. But even if the court of appeals were right in its 
+reading of Amchem and Ortiz (a point that we address below), 
+those decisions cannot provide a basis for reopening a holding 
+that had become final many years earlier. The preclusive 
+effects of a final judgment are not “altered by the fact that the 
+
+
+24 
+
+
+judgment may have been wrong or rested on a legal principle 
+subsequently overruled in another case. * * * A judgment 
+merely voidable because based on an erroneous view of the law 
+is not open to collateral attack, but may be corrected only by a 
+direct review * * * .” Moitie, 452 U.S. at 398.5 When the 
+Second Circuit posed the problem before it as “determin[ing] 
+the effect of the Supreme Court’s landmark decisions in 
+[Amchem and Ortiz] on a previously settled class action” (Pet. 
+App. 1a-2a), the answer therefore should have been elementary: 
+those decisions should have no effect at all on cases that had 
+
+
+gone to final judgment many years before. For that reason 
+alone, the decision below should be set aside. 
+
+
+* It “has long been established that a final civil judgment entered 
+under a given rule of law may withstand subsequent judicial change 
+in that rule.” Teague v. Lane, 489 U.S. 288, 308 (1989) (opinion of 
+O’Connor, J.). See Reynoldsville Casket Co. v. Hyde, 514 U.S. 749, 
+758 (1995) (new legal rules “do not apply to cases already closed”); 
+Harper v. Virginia Dep't of Transp., 509 U.S. 86, 97 (1993) (rule of 
+law announced by the Court “must be given full retroactive effect in 
+all cases still open on direct review”) (emphasis added); James B. 
+
+Beam Distilling Co. v. Georgia, 501 U.S. 529, 541 (1991) (opinion 
+of Souter, J.) (“retroactivity in civil cases must be limited by the need 
+for finality; once suit is barred by res judicata or by statutes of 
+limitations or repose, a new rule cannot reopen the door already 
+
+closed”). The conclusion that changes in the law do not justify 
+
+disturbing settled civil judgments also draws force from decisions 
+
+holding that Fed. R. Civ. P. 60(b)(6) generally does not allow final 
+judgments to be revisited on the basis of subsequent decisions that 
+
+state new rules, even when the interests at stake are very substantial. 
+
+See Ackermann v. United States, 340 U.S. 193, 198 (1950). See also, 
+
+e.g., Travelers Indem. Co. v. Sarkisian, 794 F.2d 754, 757 (2nd Cir. 
+
+1986); United States v. Woods, 986 F.2d 669, 681 (3rd Cir. 1993); 
+
+Blue Diamond Coal Co. v. Trustees of the UMWA Combined Benefit 
+
+
+Fund, 249 F.3d 519, 524 (6th Cir.), cert. denied, 122 S. Ct. 643 
+(2001). 
+
+
+25 
+
+
+B. Barring Respondents From Relitigating Adequacy 
+Of Representation Is Fully Consistent With Due 
+Process: The District Court Long Ago Afforded 
+Respondents The Necessary Process By Conducting 
+The Analysis Required By Rule 23 
+
+
+The court of appeals’ principal focus was on the distinction 
+between class members who manifested illness after 1994 and 
+those who became ill earlier. But the court below may have 
+meant to hold more broadly — as respondents appear to argue — 
+that absent class members a/ways may collaterally attack the 
+adequacy of representation by asserting that they had not been 
+adequately represented when the original adequacy 
+determination was made. The implication of this extraordinary 
+argument is that it is never possible to settle definitively that a 
+class is adequately represented because ranks of absent class 
+members may come forward one after another to argue that the 
+persons who litigated adequacy the last time did not adequately 
+represent them. On this view, a finding of adequacy is 
+essentially advisory as to absent parties and may be continually 
+challenged on due process grounds by disgruntled class 
+members. This is by no means a theoretical prospect, as this 
+case shows; it will almost always be possible for class members 
+to claim that they were differently situated from others in the 
+class in some way that, in hindsight, could appear significant. 
+
+
+° Here, for example, the distinction between those who became ill 
+pre- and post-1994 — which is the focus of respondents argument — 
+is by no means the only, or even the most obvious or significant, 
+distinction between class members drawn by Chief Judge Weinstein’s 
+allocation formula. Others include the distinction between veterans 
+who are completely disabled (who were eligible for settlement funds) 
+and those who were ill but not disabled (who were not), as well as 
+myriad related eligibility distinctions the judge imposed. Under 
+respondents’ theory, all of those distinctions could form the basis for 
+an adequacy challenge. 
+
+
+26 
+
+
+But this approach, too, is misguided. The determination 
+that a case may proceed as a class action, if made in accordance 
+with Fed. R. Civ. P. 23, binds all members of the defined class. 
+Of course, any judgment may be attacked if enforcing it would 
+violate due process. But “this Court is justified in saying that 
+there has been a failure of due process only in those cases 
+where it cannot be said that the procedure adopted{] fairly 
+insures the protection of the interests of absent parties who are 
+to be bound by [the judgment].” Hansberry, 311 U.S. at 42. 
+And here, implementation of Rule 23’s procedures (of which 
+Rule 23(a)(4) is a crucial component) provided respondents 
+with all the process due by “fairly insur[ing] the protection of 
+the interests of absent parties” so far as the determination of 
+adequacy is concerned. 
+
+
+1. Good-faith application of Rule 23 in a class action 
+ordinarily ensures that binding absent class members to the 
+judgment — and to the determination of adequacy that is a 
+necessary part of that certification — comports with the Due 
+Process Clause. It is, to be sure, a fundamental tenet of due 
+process that a party may not be bound by a judgment in a 
+representative suit if he or she was not “adequately 
+represented” in the proceedings leading to that judgment. 
+Richards v. Jefferson County, 517 U.S. 793, 794 (1996). See, 
+e.g., Shutts, 472 U.S. at 812; Hansberry, 311 U.S. at 41-42. 
+But having stated that principle, it remains necessary to 
+determine what constitutes “adequacy” in a given context and 
+to identify the considerations that make it fundamentally fair, 
+and thus permissible, to bind an absent party. The Court’s 
+decisions provide the answer to that inquiry: an absent party 
+may be bound when the procedures in place provide a 
+reasonable (or “adequate”) degree of assurance that his or her 
+interests were taken into account by the decision-maker in the 
+original litigation. That does not mean that the absent party 
+necessarily must have received actual notice of the proceedings, 
+or that the party must actually have appeared and been heard by 
+the court in person, or that the party’s views must have been 
+
+
+27 
+
+
+presented in just the same way that they would have been 
+argued had the party been able to appear in person. Instead, 
+what is necessary, and what justifies binding the absent party, 
+is a procedure that operates to protect the interests of that party 
+
+
+in court. 
+
+
+a. On the specific question in this case — whether the 
+“procedure adopted{] fairly insure(d] the protection of the 
+interests of absent parties” regarding adequacy of 
+representation — the good-faith implementation of ; the 
+requirements of Rule 23 did provide the required protections, 
+and thus accorded absent class members all the process that was 
+due. Rule 23 was written for the precise purpose of providing 
+the procedural safeguards that would justify both the treatment 
+of the case as a class action and the imposition of a judgment 
+binding on all class members. See, e.g., Eisen v. Carlisle & 
+Jacquelin, 417 U.S. 156, 176 (1974); cf. Amchem, 521 USS. at 
+614-615, 621. As Professors Kahan and Silberman accordingly 
+have explained, “[t]he whole point of the class action procedure 
+— and what distinguishes it from permissive intervention — is its 
+basic premise that a judgment does have binding effect on 
+absent class members who are designated as such through the 
+class action certification procedure of Rule 23 or its state 
+counterparts.” Kahan & Silberman, The Proper Role for 
+Collateral Attack in Class Actions: A Reply to Allen, Miller, 
+and Morrison, 73 N.Y.U. L. REV. 1193, 1202 (1998). 
+
+
+Of particular importance here, Rule 23(a)(4) mandates an 
+inquiry designed to ensure that the interests of all Class 
+members are adequately represented and are sufficiently 
+cohesive to justify treatment of the case aS a class action. - 
+district judge may not enter a default judgment in favor Oo 
+adequacy, or presume that the class representatives are 
+sufficient when adequacy is not disputed. Instead, Rule 
+23(a)(4) requires the judge “to evaluate carefully the legitimacy 
+of the named plaintiff's plea that he is a proper class 
+representative” and to insist on “actual, not presumed, 
+conformance with Rule 23(a).” General Tel. Co. of the 
+
+
+28 
+
+
+Southwest v. Falcon, 457 U.S. 147, 160 (1982). The leading 
+commentators in this area therefore have observed that, even 
+when there is “no adversarial litigation of adequacy, the court 
+itself has an obligation to make the finding of adequate 
+representation”, “federal class action procedures in effect 
+appoint the court as guardian of the interests of absent class 
+members to ensure adequate representation.” Kahan & 
+Silberman, Matsushita and Beyond: The Role of State Courts 
+in Class Actions Involving Exclusive Federal Claims, 1996 
+Sup. CT. REV. 219, 264, 268. This is an “independent 
+obligation * * * imposed on the court” (Kahan & Silberman, 
+The Inadequate Search for “Adequacy” in Class Actions: a 
+Critique of Epstein v. MCA, Inc., 73 N.Y.U. L. Rev. 765, 771 
+(1998)), which obligates the judge “to protect the interests of 
+the unnamed class members.” 7A C. WRIGHT ET AL., FEDERAL 
+PRACTICE & PROCEDURE § 1765 (3d ed. Supp. 2000).’ 
+
+
+Moreover, it must be assumed that judges will faithfully 
+fulfill this responsibility. In a related context, the Court has 
+indicated that, “[iJn assessing what process is due * * *, 
+substantial weight must be given to the good-faith judgments of 
+the individuals charged by Congress with the administration of 
+social welfare programs” (Mathews v. Eldridge, 424 U.S. 319, 
+
+
+, See, e.g., Malchman v. Davis, 706 F.2d 426, 433 (2d Cir. 1983) 
+(district court is obligated to “make an independent evaluation of 
+whether the named plaintiffs were adequate representatives of the 
+class”), Walsh v. Great Atl. & Pac. Tea Co., 726 F.2d 956, 964 (3d 
+Cir. 1983) (“The court was required to * * * consider whether class 
+counsel provided fair and adequate representation to the class as a 
+whole”); Movement for Opportunity & Equal. v. General Motors 
+Corp., 622 F.2d 1235, 1254 (7th Cir. 1980) (court “has a duty * * * 
+to protect the potential members of the class” which “can only be 
+done by assuring adequate representation of their interests”); see also 
+Reynolds v. Beneficial Nat'l Bank, 288 F.3d 277, 279-280 (7th Cir. 
+2002) (Posner, J.) (“We and other courts have gone so far as to term 
+the district judge in the settlement phase of a class action suit a 
+fiduciary of the class * * *.”). 
+
+
+- 29 
+
+
+349 (1976)); that presumption surely is at least as true of 
+Article III judges. Rule 23(a)(4) thus establishes the class 
+action setting as one in which the judge necessarily does make 
+a “special effort ‘to protect the interests of the [absent] 
+plaintiffs.” South Cent. Bell Tel. Co. v. Alabama, 526 US. 
+160, 167 (1999) (quoting Richards, 517 U.S. at 802). For this 
+reason, as former Chancellor Allen has explained, 
+“{f]Jundamental fairness to class members does not require” that 
+they be permitted to attack class judgments collaterally because 
+“fa] class member in a Rule 23(b)(3) class action is afforded 
+due process of law by the conscientious application by the court 
+of the requirements of Rule 23 * * * .” Allen, Finality of 
+Judgments in Class Actions: A Comment on Epstein v. MCA, 
+Inc., 73 N.Y.U. L. REV. 1149, 1160 (1998). 
+
+
+b. This conclusion that implementation of Rule 23’s 
+procedures itself ordinarily assures due process for absent class 
+members regarding the adequacy determination draws strong 
+support from the Court’s analysis in Shuts. Addressing a 
+Kansas class certification rule that was, in relevant part, 
+identical to Fed. R. Civ. P. 23, the Court noted: 
+
+
+A plaintiff class * * * cannot first be certified unless the 
+judge, with the aid of the named plaintiffs and defendant, 
+conducts an inquiry into the common nature of the named 
+plaintiffs’ and the absent plaintiffs’ claims, the adequacy of 
+representation, the jurisdiction possessed over the class, and 
+any other matters that will bear upon proper representation 
+of the absent plaintiffs’ interest. 
+
+
+472 U.S. at 809. Given the trial court’s obligation to engage in 
+such an inquiry and to “protect [the absent class member's] 
+interests” (ibid.), the Court added, “an absent class-action 
+plaintiff is not required to do anything. He may sit back and 
+allow the litigation to run its course, content in knowing that 
+there are safeguards provided for his protection.” Jd. at 810. 
+
+
+As judge O’Scannlain recently explained for the Ninth 
+Circuit, this discussion in Shutts plainly “implies that [collateral 
+
+
+30 
+
+
+attack on the determination of adequacy] is unwarranted by 
+emphasizing that the certifying court is charged with protecting 
+the interest of the absent class members.” Epstein v. MCA, 
+Inc., 179 F.3d 641, 648 (9th Cir. 1999). “Simply put,” under 
+the Shutts analysis “the absent class members’ due process right 
+to adequate representation is protected not by collateral review, 
+but by the certifying court initially, and thereafter by 
+appeal * * * and by direct review in the United States Supreme 
+Court.” /bid. See Kahan & Silberman, 73 N.Y.U. L. REV. at 
+781-782. Thus, “Shutts contemplates that the initial forum 
+should make a finding of ‘adequate representation’ * * *. So 
+long as this finding is made and the procedures for making it 
+are fair” — as Rule 23’s procedures surely are — “the substance 
+
+
+of the finding itself is not subject to collateral attack.” Jd. at 
+771. 
+
+
+That conclusion also is wholly consistent with decisions 
+like Hansberry, in which the Court held that absent parties were 
+not bound by prior judgments; in those suits, the courts were 
+not subject to procedural requirements obligating the judge to 
+ensure the propriety of the class-action mechanism or the 
+adequacy of representation. Hansberry itself, the decision 
+principally relied upon by the court below, purported to be a 
+representative action (see 311 U.S. at 39), but Hansberry was 
+litigated long before adoption of the current version of Fed. R. 
+Civ. P. 23 and its state-court counterparts. The absent class 
+members there received none of the protections accorded 
+respondents and other unnamed class members under Rule 23: 
+the Hansberry trial court was under no obligation to, and did 
+not in fact, take any steps either to ensure the adequacy of the 
+class representation or to provide notice to absent class 
+members. See 311 U.S. at 38-40, 44-46. Just the opposite is 
+true in suits proceeding under Rule 23.* 
+
+
+* Similarly, Richards and South Central Bell were not representative 
+suits at all; notice was not provided to absent parties in those cases 
+and “there is no reason to suppose that the [first] court took care to 
+
+
+31 
+
+
+c. Indeed, the Court has long made clear that the focus of 
+the due process inquiry in this setting must be on the 
+procedures used to ensure that the interests of absent class 
+members are taken into account, rather than on the particulars 
+of the prior litigation. As we have noted, rer mt | 
+emphasized that courts must look to “the procedure adopte ” 
+to “insure[] the protection of the interests of absent parties. 
+311 U.S. at 42 (emphasis added). Accord Kremer, 456 U.S. at 
+481; Montana, 440 U.S. at 164 n.11. Again in the Ninth 
+Circuit’s words, under this analysis “[d]ue process requires that 
+an absent class member’s right to adequate representation be 
+protected by the adoption of the appropriate procedures by the 
+certifying court and by the courts that review its 
+determinations; due process does not require collateral second- 
+guessing of those determinations and that review. Epstein, 
+
+
+179 F.3d at 648 (emphasis added). 
+
+
+This focus on what the procedures in place require courts to 
+do, rather than on the merits of the particular decision a class 
+member subsequently seeks to attack, is central to the due 
+process analysis. The Court has held in a variety of contexts 
+
+
+that 
+
+
+the very nature of the due process inquiry indicates that the 
+fundamental fairness of a particular procedure does not turn 
+on the result obtained in any individual case, rather, 
+“procedural due process rules are shaped by the risk of error 
+inherent in the truth-finding process as applied to the 
+generality of cases, not the rare exceptions. 
+
+
+j jati ji U.S. 305, 
+Walters v. National Ass'n of Radiation Survivors, 473 : 
+321 (1985) (quoting Mathews, 424 U.S. at 344) (emphasis 
+added). “‘[T]he criterion is not the possibility of conceivable 
+injury but the just and reasonable character’” of the process 
+
+
+i a i id to be bound by 
+tect the interests” of the parties subsequently said to 
+the first judgment. Richards, 517 U.S. at 802. See South Cent. Bell, 
+
+
+$26 U.S. at 167-168. 
+
+
+32 
+
+
+provided. Dusenbery v.United States, 122 S. Ct. 694, 701 
+(2002) (quoting Mullane v. Cent. Hanover Bank, 339 U.S. 306, 
+315 (1950)). “*Now and then an extraordinary case may turn 
+up, but constitutional law like other mortal contrivances, has to 
+take some chances, and in the great majority of instances, no 
+doubt, justice will be done.’” Mullane, 339 U.S. at 319 (citation 
+omitted). 
+
+
+2. The courts determined in accordance with Rule 23 that 
+the Agent Orange suit was properly maintained as a class 
+action and that class representation was adequate. a. Here, it 
+is not disputed that the district and appellate courts did 
+conscientiously apply the Rule 23 procedures. Judges Pratt and 
+Weinstein engaged in the analysis mandated by Rule 23(a)(4), 
+fully aware of their independent obligation to guard against 
+intraclass conflicts and guarantee adequate class representation. 
+In so doing, the courts were, as Chief Judge Weinstein noted, 
+“fully cognizant of the conflict arguments now hypothesized 
+by” respondents and took those arguments inio account when 
+the determination of adequacy was made. Ryan, 781 F. Supp. 
+- at919. In addition, Chief Judge Weinstein further implemented 
+Rule 23 by requiring provision of the “best reasonable and 
+practicable notice” available, by affording class members an 
+opportunity to opt out of the litigation, and by assuring that the 
+settlement was fair. See pages 6-9, supra. The adequacy of 
+class representation and notice was then upheld on appeal by a 
+court that itself closely analyzed and sought to implement the 
+controlling Rule 23 standards. See pages | 1-12, supra. Given 
+the unquestioned fairness of Rule 23’s procedures, those 
+decisions may not be second-guessed now. 
+
+
+b. Moreover, the case for preclusion is especially strong 
+here because the issue now pressed by respondents was 
+“actually litigated and adjudged” after it was raised by 
+persons who were situated identically to, and whc had exactly 
+the same interests as, respondents. Montana, 440 U.S. at 157 
+
+
+33 
+
+
+(citation omitted).’ After the settlement was approved but 
+when direct review was still available, dissatisfied class 
+members argued before Chief Judge Weinstein that the named 
+plaintiffs and their lawyers did not adequately represent 
+unnamed class members whose symptoms were not yet 
+manifest. He rejected that argument. See page 9, supra. 
+Objectors then advanced the same argument (as well as the 
+
+t that class notice was inadequate) on direct appeal 
+from the settlement and were rebuffed by the Second Circuit. 
+See pages 11-12, supra. See generally First Alabama Bank of 
+Montgomery, N.A. v. Parsons Steel, Inc., 825 F.2d 1475, 1486 
+(11th Cir. 1987) (“the preclusive effect of a judgment is 
+determined by the decision of the appellate court”) (citing 1B 
+J. MOORE, MOORE’S FEDERAL PRACTICE § 0.416[2], at 518-19 
+(2d ed. 1984)). 
+
+
+In these circumstances, the interests of respondents were 
+“protected, in significant measure,” by objectors _who 
+“advanced objections shared by the large class of similarly 
+situated persons.” Dusenbery, 122 S. Ct. at 705 (Ginsburg, j., 
+dissenting). See Mullane, 339 U.S. at 319 (notice received by 
+some class members “is likely to safeguard the interests of all, 
+since any objection sustained would inure to the benefit of all’). 
+hal wn oie te cuties Gxt Ge cust aouenns = 
+original t Orange litigation not only were obligated 
+Rule te to consider the significance of potential conflicts 
+between ill and asymptomatic class members, but did in fact 
+
+
+Of course, for reasons we have addressed (at 27, supra), it would 
+have been impossible for contemporaneous objectors to argue (as do 
+respondents now) that they were members of a subclass that would 
+not become ill until after 1994. Objectors did expressly contend, 
+however, that class representation must have been inadequate because 
+“there was a sacrificing of the claims of those class members whose 
+symptoms have not appeared: those whose injuries manifest after 10 
+years receive nothing no matter how horrendous their future suffering 
+may be.” In re “Agent Orange” Prod. Liab. Litig., No. 84-6273 (2d 
+Cir.), Master Br. of Appellants 54. 
+
+
+34 
+
+
+take into account and reject the possibility of such conflicts. 
+Because it is thus clear that the procedural protections put in 
+place for the benefit of absent class members came into play, 
+there is no basis for allowing relitigation of class certification. 
+
+
+C. The Balance of Public And Private Interests Further 
+Demonstrates That Respondents’ Collateral Attack 
+On Adequacy Should Not Be Allowed 
+
+
+For the reasons we have explained, good faith compliance 
+with the Rule 23 procedures, even viewed in isolation, must be 
+understood fairly and reasonably — and thus permissibly — to 
+safeguard the interests of absent class members regarding the 
+determination of adequacy. But the case for preclusion here is 
+Stronger than that. As the Court has indicated repeatedly, 
+determining the process due in given circumstances requires 
+achieving a “balance” of private and public interests. Mullane, 
+339 U.S. at 313-314. See also, e.g, Dusenbery, 122 S. Ct. at 
+701; Walters, 473 U.S. at 320-321; Mathews, 424 U.S. at 334- 
+335. “At some point the benefit of an additional safeguard * * 
+* in terms of increased assurance that the [governmental] action 
+is just, may be outweighed by the cost.” 424 U.S. at 348. The 
+factors that generally go into this balance are familiar: they 
+include the nature and significance of the private interests at 
+stake, the risk of error and the probable value (if any) of 
+additional safeguards, and the competing interests of the public 
+and other affected parties. Jd. at 334. See, e.g., Gilbert v. 
+Homar, 520 U.S. 924, 931 (1997); Connecticut v. Doehr, 501 
+U.S. 1, 10-11 (1991); Walters, 473 U.S. at 321. Here, given the 
+specific circumstances of this case, and reviewing the full range 
+of the relevant procedural due process considerations, there can 
+be no doubt that binding respondents to the Agent Orange 
+
+judgment conforms with due process. 
+
+
+I. The protected interest is limited. Respondents’ interest 
+in adequate class representation to ensure that their rights are 
+safeguarded is important. But here, that interest is, in a 
+significant respect, accounted for by the Rule 23 protections 
+
+
+——————————————EeEee 
+
+
+35 
+
+
+themselves. Unnamed class members in Rule 23(b)(3) class 
+actions are permitted to opt out of the class; class members who 
+neither object to certification nor opt out have diminished 
+grounds to assert that they were prejudiced by the way that the 
+case was resolved.'° In addition, when class action litigation Is 
+resolved by settlement, Rule 23(e) requires the district court to 
+determine whether the settlement is fair to class members, 
+reducing the likelihood that the class action judgment denied 
+absent class members something of value. 
+
+
+These considerations are illustrated here. Respondents 
+could have chosen to, but did not, opt out of the class. And the 
+district court undertook exceptionally thorough efforts in 
+conducting the fairness inquiry, concluding that the settlement 
+was fair and reasonable only after holding eleven days of 
+hearings in five cities and hearing from almost 500 witnesses. 
+See pages 7-8, supra. And, it may be added, prior Agent 
+Orange litigation demonstrates that, even if respondents prevail 
+in their adequacy challenge, their ultimate prospect of success 
+in subsequent litigation on the merits 1s very small. The private 
+interest here therefore must be regarded as limited. 
+
+
+© Rule 23, of course, requires that the class receive adequate notice. 
+The Due Process Clause, however, does not require that all absent 
+class members receive actual notice (see, e.g., Mullane, 339 U.S. at 
+317-318; Dusenbery, 122 S. Ct. at 701; id. at 707 (Ginsburg, j., 
+dissenting)), and for purposes of this proceeding the notice to the 
+class must be regarded as constitutionally adequate. As noted above, 
+Chief Judge Weinstein determined that the notice provided was “the 
+best reasonable and practicable notice under the circumstances of this 
+litigation” (100 F.R.D. at 731), a determination upheld by the court 
+of appeals. Agent Orange I, 818 F.2d at 169. The court below 
+nevertheless mused (without actually deciding) that respondents 
+“likely received inadequate notice” under Amchem (Pet. App. 19a 
+n.8), but as with respondents’ attempt to relitigate the question of 
+adequacy of representation, the final judgment that notice was 
+adequate also is not subject to collateral attack. 
+
+
+36 
+
+
+2. Given existing protections, both the risk that the initial 
+determination of adequacy was incorreci and the value of 
+relitigating adequacy are low. At the same time, for the many 
+reasons addressed above, Rule 23, with its specific requirement 
+under Rule 23(a)(4) to consider adequacy of representation, 
+substantially minimizes the risk that class representation will be 
+inadequate, thus reducing the need for additional safeguards. 
+By the time a collateral attack is launched, class representation 
+already has been found adequate in an initial round of litigation 
+by district and appellate courts that employed procedures the 
+“fairness and reliability” of which there is no basis to doubt. 
+Mathews, 424 U.S. at 343. Nor, absent extraordinary 
+circumstances like collusion (which is not even alleged here), 
+is there any reason to believe that allowing relitigation of the 
+issue would add much value in protecting against error; after 
+all, “there is no a priori reason to believe that the determination 
+of (a lack of) adequate representation in a collateral attack is 
+more likely to be correct than the determination of (the 
+presence of) adequate representation in the initial action.” 
+Kahan & Silberman, 73 N.Y.U. L. REV. at 779. 
+
+
+Again, the force of these general considerations is made 
+manifest by the record here. The district court and the Second 
+Circuit expressly recognized their obligation to insure that class 
+representation was adequate and free from conflicts. That 
+determination was confirmed by the /vy/Hartman litigation. 
+And the only new consideration relied upon by the court below 
+— the fact that respondents ultimately became ill after 1994 — 
+improperly takes into account facts ascertainable only by 
+hindsight that should be irrelevant to the adequacy of 
+representation originally received by class members. There 
+accordingly is no basis on which to conclude that additional 
+
+
+safeguards are necessary for persons in respondents’ position. 
+
+
+Moreover, the court of appeals’ decision ignores the fact 
+that a// class members, including respondents, benefited from 
+the settlement. A// veterans, impaired and asymptomatic, 
+received meaningful and continuing benefits through the work 
+
+
+37 
+
+
+of the class assistance foundation. Every veteran who was 
+asymptomatic in 1984 also received something else of value — 
+a kind of “term insurance policy” that would pay the veteran 
+direct benefits (of the sort received by those veterans who 
+received immediate payments) if he or she subsequently 
+satisfied the eligibility criteria established by Chief Judge 
+Weinstein. A// unimpaired veterans received precisely the same 
+“insurance policy” and, so far as was then known, all stood 
+precisely the same chance of collecting on it. 
+
+
+3. Most significantly, the interests both of adverse parties 
+and of society weigh heavily against allowing collateral attack 
+on determinations of adequacy. a. On the other side of the 
+balance, defendants like petitioners in this case have 
+compelling interests in the finality of class action judgments 
+that are themselves entitled to protection under the Due Process 
+Clause. See Peters v. National R.R. Passenger Corp., 966 F.2d 
+1483, 1487 (D.C. Cir. 1992); see generally RESTATEMENT 
+(SECOND) OF JUDGMENTS § 74 cmt. c, (1982). In this case, for 
+example, petitioners vigorously contested the propriety of class 
+certification —- by, among other things, challenging the 
+adequacy of the class representatives — throughout the lengthy 
+district court litigation. See pages 4-5, supra. After the court 
+nevertheless held the class representatives adequate and 
+certified the class over petitioners’ objection, petitioners settled 
+the class claims on the express condition that all absent ciass 
+members (including the then-asymptomatic) would be bound. 
+When the judgment became final, petitioners paid the class 
+almost $200 million. All class members, including respondents, 
+have benefited at least indirectly from those payments. 
+Needless to say, in such a setting defendants have “a distinct 
+and personal interest in seeing the entire plaintiff class bound 
+by res judicata just as [the defendants are] bound.” Shutts, 472 
+U.S. at 805. 
+
+
+These facts, which are not unusual for class litigation, 
+illustrate what Judge Posner described for the Seventh Circuit 
+as “(t]he practical wisdom” of the rule against collateral 
+
+
+38 
+
+
+litigation. Jn re Factor VIII or IX Concentrate Blood Pr 
+Litig., 159 F.3d 1016, 1019 (7th Cir. 1998). After all, as Mor 
+Posner asked (rhetorically), when defendants have paid a huge 
+sum to the class and certification is then belatedly challenged 
+
+‘[a]re they [then] to go around to all [the] class members whom 
+they have paid and ask for their [money] back so that thfe] 
+litigation can return to its starting point?” /bid. The genie, of 
+course, cannot be put back in the bottle. It therefore is manifest 
+that, when the question of adequacy has been litigated in good 
+faith and decided against them, defendants would be placed in 
+an impossible bind if they could not rely on the finality of an 
+apparently definitive judgment. And when defendants have paid 
+the plaintiff class in reliance on the judicial determination, it 
+would be fundamentally unfair to apply “[a] rule that allows the 
+defendant's settled expectation in the finality of litigation to be 
+disturbed.” Peters, 966 F.2d at 1487. 
+
+
+b. A related consideration also militates powerfully against 
+collateral litigation here: the public and societal costs of 
+allowing repeated challenges to the determination of adequacy 
+would be immense. As noted above, the preclusion rules that 
+respondents seek to circumvent generally “serve[] vital public 
+interests.” Moitie, 452 U.S. at 401. As a consequence, the 
+decision below runs headlong into the understanding ‘that 
+
+
+““[p]ublic policy dictates that there be an end of litigation.” 
+Ibid. (citation omitted).'' 
+
+
+'' This conclusion draws considerable su from Fed. R. Ci 
+60(b), which specifically identifies the po ae ir aene ‘ 
+permissible to reopen final civil judgments. In most situations, that 
+rule imposes a one-year limit on moving to challenge a judgment, 
+even where the basis for the challenge is “fraud of an adverse party.” 
+Fed. R. Civ. P. 60(b)(3). The courts have applied these limits strictly 
+explaining that collateral attack, “especially in civil cases is 
+disfavored because of the social interest in expedition and finality in 
+litigation.” Bell v. Eastman Kodak Co., 214 F.3d 798, 800-801 (7th 
+Cir. 2000) (Posner, J.). See Ackermann, 340 U.S. at 21 1-212; 11 C. 
+WRIGHT ET AL., FEDERAL PRACTICE & PROCEDURE § 2857, at 260 
+
+
+39 
+
+
+Rule 23 itself makes clear that this policy takes on a 
+compelling character in the class action context. As the Court 
+has recognized, “‘the class-action device saves the resources of 
+both the courts and the parties by permitting an issue 
+potentially affecting every [class member] to be litigated in an 
+economical fashion under Rule 23.’” Falcon, 457 U.S. at 155 
+(quoting Califano v. Yamasaki, 442 U.S. 682, 701 (1979)). But 
+the approach advanced by respondents would eliminate those 
+efficiencies and substantially undermine the utility of the class 
+action procedure. That approach would make the courts’ 
+determination of adequate representation essentially advisory, 
+so far as absent class members are concerned; although the 
+defendant would be bound by a finding that the class 
+representatives were adequate, dissatisfied class members 
+always would be able to come forward, insist that they had not 
+been adequately represented at the time of certification, and 
+relitigate the question whether the class should have been 
+
+
+certified. 
+
+
+The pernicious consequences of such a rule are obvious. It 
+would “create the potential for multiple and wasteful litigation 
+on the issue of ‘adequacy of representation,’ and [would] result 
+in a new kind of forum shopping in the class action context.” 
+Kahan & Silberman, 73 N.Y.U. L. REV. at 766. Such “multiple 
+determinations of the same issue [would] undermine the very 
+efficiencies sought to be achieved by the class action 
+mechanism.” /d. at 779. And the threat of such litigation, with 
+the attendant possibility of a court permitting a new civil action 
+(as the Second Circuit now has), would make it significantly 
+
+more difficult for parties to settle class action lawsuits; 
+defendants would face the prospect of resolving the case and 
+paying out on the judgment, only to confront never-ending 
+
+
+(2d ed. 1995) (courts “have administered Rule 60(b) with a 
+scrupulous regard for the aims of finality”). Rule 60(b)(6), the Rule’s 
+catch-all provision, is reserved for cases involving “extraordinary 
+circumstances” other than those identified in the preceding clauses of 
+the Rule. /d. § 2864, at 365. See id. at 368 (citing cases). 
+
+
+40 
+
+
+litigation brought by innumerable class members many years 
+later. See Peters, 966 F.2d at 1487; Kahan & Silberman, 73 
+N.Y.U. L. REV. at 779; cf. Rufo, 502 U.S. at 389 (changing 
+consent decrees retroactively would “serve as a disincentive to 
+negotiation of settlements”). As former Chancellor Allen put it: 
+
+
+If every member of the class who does not actually appear 
+in a class suit prior to judgment is able to trigger a review 
+of the quality of the efforts of those representing the class, 
+we shall have, insofar as class actions are concerned, 
+reinvented the problem of inefficiency and second guessing 
+that is solved by the rule of finality and recognition of 
+judgments. Why should the law compel that result? 
+
+
+Allen, 73 N.Y.U. L. REV. at 1159-1160. 
+
+
+Against this background, “[i]t would take an extraordinary 
+showing of probability of error under the present system — and 
+the probability that [permitting relitigation of adequacy] would 
+sharply diminish that possibility —- to warrant a holding that 
+[binding respondents to the judgment] denies claimants due 
+process of law.” Walters, 473 U.S. at 326. Given the 
+considerable procedural protections already afforded members 
+of the Agent Orange class, respondents cannot make this 
+extraordinary showing. Indeed, the substantial costs that 
+relitigation of adequacy would impose on petitioners and the 
+public alike make it certain that “‘the mischief which would 
+follow the establishment of precedent for so disregarding this 
+salutary doctrine against prolonging strife would be greater than 
+the benefit which would result from relieving some case of 
+individual hardship.’”” Moitie, 452 U.S. at 402 (citation 
+omitted). See Shutts, 472 U.S. at 814 (due process does not 
+require sacrificing “obvious advantages in judicial efficiency * 
+* * for the protection of the rara avis”). Given the “vital 
+interest of the State” in bringing litigated issues “to a final 
+settlement,” “[a] construction of the due process clause which 
+would place impossible or impractical obstacles in the way 
+could not be justified.” Mullane, 339 U.S. at 313-314. 
+
+
+41 
+
+
+**** 
+
+
+It is common ground between the parties in this case that 
+“adequate representation” is essential to the fairness of the class 
+action mechanism. Here, however, respondents’ interests were 
+fully and adequately protected by implementation of the 
+procedural guarantees of Rule 23, including specifically the 
+adequacy requirement of Rule 23(a)(4). In ignoring those 
+safeguards and demanding an entire new round of litigation so 
+that they may revisit a question that was settled long ago, 
+respondents blind themselves to the principle “‘that at some 
+paint the benefit to individuals from an additional safeguard is 
+substantially outweighed by the cost of providing such protec- 
+tion.” Walters, 473 U.S. at 321 n.9 (quoting Friendly, Some 
+Kind of Hearing, 123 U. PA. L. REV. 1267, 1276 (1975)). That 
+point has been reached in this case. 
+
+
+Il. IF ADEQUACY OF REPRESENTATION MAY BE 
+REEXAMINED AFTER FINAL JUDGMENT, THE 
+INQUIRY MUST MAKE USE OF STANDARDS 
+THAT TAKE ACCOUNT OF THE COLLATERAL 
+
+
+NATURE OF THE NEW REVIEW 
+
+
+For the reasons set out above, a collateral attack of any kind 
+on the long-settled adequacy determination made by the courts 
+in Agent Orange | is impermissible. But even if respondents 
+were permitted to seek a redetermination of the adequacy of 
+class representation, the Second Circuit nevertheless committed 
+fundamental errors in the way it conducted that inquiry. The 
+court wholly failed to recognize that the collateral nature of 
+respondents’ attack has a bearing on the applicable due process 
+analysis. And the court compounded its error when, instead of 
+basing its decision on the facts and law as they existed at the 
+time of the original judgment, it took into account factual and 
+legal developments that long post-dated class certification and 
+settlement. For these reasons as well, the decision below should 
+
+
+be reversed. 
+
+
+42 - 
+
+
+A. Respondents’ Attacks On The Determination Of 
+Adequacy Do Not Satisfy The Standards That Apply 
+On Collateral Review 
+
+
+1. The collateral nature of the review affects the due 
+process inquiry. Any collateral attack on the adequacy of class 
+representation, if permissible at all, must be addressed to the 
+question whether it would deny absent class members due 
+process now to bind them to the prior determination of 
+adequacy. See, e.g., Shutts, 472 U.S. at 811-812; Kremer, 456 
+U.S. at 482; Hansberry, 311 U.S. at 37. Under the Second 
+Circuit’s approach, however, any showing that the class 
+representation should have been held constitutionally 
+inadequate on direct review also suffices to have the judgment 
+as to adequacy set aside on a collateral attack. That approach 
+is incorrect. Prior to final judgment, the due process question 
+is whether the interests of the class representatives are closely 
+enough aligned with those of the absent parties for it to be fair 
+for the former to speak for the latter; after judgment, the quite 
+different question is whether due process requires the reopening 
+of long-closed litigation. 
+
+
+Here, respondents brought their due process challenge more 
+than ten years after the original Agent Orange judgment 
+became final, after the adequacy of representation had been 
+definitively resolved (twice, as it happens) by the district and 
+appellate courts, and after petitioners had entered into a 
+settlement and irretrievably paid the judgment in reliance on 
+those seemingly closed judicial determinations. These changes 
+in “time, place and circumstances” must weigh heavily in the 
+due process balance. Mathews, 424 U.S. at 334 (internal 
+quotation marks and citation omitted). Indeed, the Court has 
+made just that point in the closely analogous context of a 
+collateral due process attack on a criminal conviction that 
+advances a claim of “actual innocence”: “because of the very 
+disruptive effect that entertaining claims of actual innocence 
+would have on the need for finality * * * and the enormous 
+burden that having to retry such cases based on often stale 
+
+
+43 
+
+
+evidence often would place on the States, the threshold showing 
+[to obtain relief on this ground] would necessarily be 
+extraordinarily high” — far higher than the showing necessary 
+to obtain relief by asserting “actual innocence” on direct 
+review. Herrera v. Collins, 506 U.S. 390, 417 (1993). Cf. 
+Factor VIII or IX Concentrate Blood Prod. Litig., 159 F.3d at 
+1019 (emphasis added) (noting that “[t}he principle that 
+jurisdictional defects may be noticed at any time is 
+limited * * * by the equally important principle that litigation 
+must have an end,” so that “[{a]fter a case has become final by 
+exhaustion of all appellate remedies, only an egregious want of 
+jurisdiction will allow the judgment to be undone”). 
+
+
+The same conclusion — that the claimant must make a 
+different and more powerful showing to establish a due process 
+violation in collateral civil proceedings — is compelled by the 
+factors customarily considered when striking the due process 
+balance. First, for reasons suggested above (at 35, supra), 
+respondents’ interest in complaining about the adequacy of 
+class representation is limited by the Rule 23 procedures. 
+Second, the risk of error is diminished in collateral proceedings 
+because full appellate review already has confirmed that class 
+representation was adequate. Third, and perhaps most 
+significantly, petitioners’ interest in the finality of the Agent 
+Orange settlement, and the more general public interest in the 
+finality of judgments, does not come into play at all on direct 
+appeal but is of overwhelming importance at the time of 
+collateral review. See pages 37-39, supra. For all of these 
+reasons, a class member who seeks to establish a due process 
+“adequacy” violation in collateral proceedings must clear a far 
+higher bar than does an objector who advances a similar 
+complaint during the course of the original litigation. 
+
+
+2. Respondents have not demonstrated the actual, 
+prejudicial intraclass conflict necessary to undo a final 
+judgment on adequacy. Given these considerations, a due 
+process adequacy challenge may succeed in collateral 
+proceedings only if, at a minimum, class members are able to 
+
+
+44 
+
+
+demonstrate both that the conflict caused them actual prejudice 
+and that contravening reliance interests in the judgment on the 
+part of other affected parties are minimal. That was the 
+situation in Hansberry, the only case in which the Court found 
+a due process violation on such a collateral attack. Hansberry 
+
+
+differed from this case in several material respects that are 
+instructive here. 
+
+
+In the first place, as we have explained above, the initial 
+proceeding in Hansberry — which was brought to establish the 
+effectiveness of a racially restrictive covenant on property — 
+made no effort to protect the interests of the absent class 
+members. See pages 30-31, supra. At the same time, the 
+conflict between the class representative and the absent class 
+members was patent and egregious. Their interests were as 
+directly adverse as those of plaintiff and defendant: the class 
+representative wanted to enforce the restrictive covenant and 
+the absent class members did not. See 311 U.S. at 38-40, 44- 
+45. In seeking to bind the class members in the second 
+litigation, those claiming preclusive effect for the first judgment 
+thus effectively argued that “all those who are free alternatively 
+to assert rights or to challenge them are of a single class” and 
+that any member of the class “may be deemed adequately to 
+represent any others of the class in litigating their interests in 
+either alternative.” Id. at 45 (emphasis added). Given this 
+peculiar posture, the Court found that the interests of the class 
+representative were “not necessarily or even probably the 
+same” as those of the absent class members. /bid. Other factors 
+also militated against giving the first judgment preclusive 
+effect: there was every indication that the first suit had been 
+collusively resolved, meaning that the reliance interests in the 
+initial judgment (if there were any at all) were weak. /d. at 46 
+oa ee appear that [the first defendants’] interest in 
+
+ing the contract outwei ir i ishi 
+pepe drm ghed their interest in establishing 
+There was nothing remotely similar here. We have outlined 
+the elaborate protections that Rule 23 guaranteed the absent 
+
+
+45 
+
+
+class members. Objectors whose interests were the same as 
+those of respondents came forward to litigate the issues that 
+respondents now press. If there was an internal class conflict 
+here at all, it was wholly theoretical. Certainly, at the time of 
+the settlement all asymptomatic class members had an identical 
+interest. No class members were directly adverse to one 
+another, as they were in Hansberry; all members of the Agent 
+Orange class, the presently ill and the unimpaired, had an 
+identical interest in establishing petitioners’ liability and in 
+maximizing the aggregate class recovery. And petitioners’ 
+reliance interest in the judgment is manifest. In these 
+circumstances, respondents have not made out the kind of 
+showing necessary to establish that binding them to the class 
+judgment would be so fundamentally unfair as to justify 
+undoing a finai judgment. 
+
+
+Indeed, the particular division of settlement proceeds that 
+the Second Circuit identified as the source of the internal class 
+conflict was devised after the settlement by the district judge, 
+who indicated repeatedly and at all times throughout the 
+litigation that he was looking out for the interests of all class 
+members. See pages 9-10, supra. The court below nevertheless 
+premised its holding on the belief that respondents had been 
+unfairly disadvantaged by the distribution formula. But even if 
+that is so, the error cannot be laid at petitioners’ feet. 
+Petitioners negotiated a lump sum settlement that inured to the 
+benefit of the entire class — and they negotiated that settlement 
+with class representatives whose interest at the time, held in 
+common with all class members, lay in obtaining the largest 
+possible payment to the class. The settlement distribution 
+formula that the court of appeals found problematic was 
+subsequently devised by the special master and Chief Judge 
+Weinstein without any involvement by petitioners. See pages 
+9-10, supra. And the practical reality that the passage of time 
+now makes it impossible for respondents to obtain a 
+redistribution of the settlement proceeds does not justify 
+
+
+46 
+
+
+reopening the prior phase of the litigation involving petitioners 
+
+
+in which respondents were adequately represented. 
+
+
+B. If Adequacy Of Representation May Be Reexamined 
+On Collateral Review, The Determination Must Be 
+
+
+Made As Of The Time Of The Original Class 
+Certification 
+
+
+The Second Circuit committed an additional, fundamental 
+error in applying the due process standard. The question on 
+collateral review logically must be whether the certification 
+decision was correct in light of the law and facts as they existed 
+at the time of the original litigation: courts “do not, of course, 
+judge the propriety of class certification by hindsight.” Falcon, 
+457 U.S. at 160. See Uhi, 309 F.3d at 985 (rejecting argument 
+that the class should be viewed “from an ex post perspective”). 
+Here, the court of appeals departed from that principle by 
+engaging in a hindsight review; the analysis below avowedly 
+took account of post-settlement changes in the legal and factual 
+landscape, including significant intervening changes in the law. 
+
+The court reasoned erroneously that respondents must not 
+have been adequately represented because, as matters 
+ultimately worked out, they became ill after 1994 and therefore 
+did not obtain direct payments from the settlement fund. As has 
+been noted, however, at the time of certification and settlement 
+all asymptomatic class members were in precisely the same 
+position. It is only by using an after-the-fact review that it is 
+possible to say that particular class members were (in a relative 
+sense) disadvantaged by the settlement formula. Yet 
+representation that was adequate at the time cannot later be 
+rendered inadequate simply because, as events transpire, some 
+class members obtain greater relief than others. 
+
+In addition, the court indicated that it set out to determine 
+the effect on the settlement of Amchem and Ortiz (see Pet. App. 
+la-2a) — decisions handed down a decade after the judgment 
+became final —- and the court relied exclusively on those 
+decisions in holding that the class represeutation had been 
+
+
+- —_——_—_—_—_———_ — —— 
+
+
+47 
+
+
+inadequate. See id. at 19a, 20a. The Second Circuit did so 
+even though it recognized (correctly) that the analysis of 
+adequacy in those holdings marked a significant departure from 
+prior class action law. The court of appeals thus characterized 
+Amchem and Ortiz as “landmark” decisions (id. at 1a), and 
+emphasized this Court’s observation in Ortiz that “*it is obvious 
+after Amchem that a class divided between holders of present 
+and future claims * * * requires division into homogeneous 
+subclasses under Rule 23(c)(4)(B), with separate representation 
+to eliminate conflicting interests of counsel.’” /d. at 18a 
+(quoting Ortiz, 527 U.S. at 856 (emphasis added)). See also id. 
+at 19a & n. 9. There accordingly can be little doubt that the 
+treatment of adequacy in Amchem and Ortiz established a “new 
+rule” in the sense that “the result was neither dictated nor 
+compelled by precedent existing at the time” of the decisions 
+(Goeke v. Branch, 514 U.S. 115, 120 (1995) (per curiam) 
+(internal quotation marks and citation omitted)), and that the 
+court of appeals invoked that new rule in deciding this case. 
+
+
+Applying a new rule on collateral review, however, was 
+clear error.'? The Court has noted that “[n]ew legal principles, 
+
+
+'2 The court below also was wrong on its own terms in concluding 
+that the determination of adequacy in this litigation cannot be squared 
+with the principles applied in Amchem and Ortiz. To be sure, Ortiz 
+stated that it was “obvious after Amchem” that a class including 
+present and future claims “requires division into” subclasses with 
+separate counsel to eliminate conflicting interests. 527 U.S. at 856. 
+But that conclusion was specific to the facts of Amchem and Ortiz. 
+litigation, in Amchem and Ortiz the critical source of the parties 
+conflict was the allocation of settlement funds — an allocation that, in 
+contrast to the one here, was worked out between the defendants and 
+the class representatives — in which the goal of “generous immediate 
+payments” to the currently ill class members was in tension with the 
+goal of “ensuring an ample, inflation-protected fund” for the future 
+claimants. Amchem, 521 U.S. at 626. a ba — —— 
+petitioners negotiated a lump-sum settlement wi class. 
+
+have noted, the plan for the allocation of the proceeds among the 
+
+
+48 
+
+
+even when applied retroactively, do not apply to cases already 
+closed.” Reynoldsville Casket Co., 514 US at 758. See note 5 
+
+supra. And the Court’s decisions involving habeas corpus 
+make clear that is so even where the law provides a mechanism 
+for collateral attacks on final judgments (as the Second Circuit 
+believed to be the case here). As a general matter, “new 
+constitutional rules of criminal procedure will not be applicable 
+to those cases which have become final before the new rules are 
+announced.” Teague, 489 U.S. at 310 (opinion of O’Connor, 
+J.). See, e.g., Goeke, 514 U.S. at 120; Graham v. Collins, 506 
+U.S. 461, 466-467 (1993); Butler v. McKellar, 494 U.S. 407 
+
+412-413 (1990). 
+
+
+The same approach plainly is warranted in this setting: the 
+Court has recognized the “significant and compelling parallels” 
+between the application of finality principles in the civil and 
+criminal contexts. 489 U.S. at 309. Indeed, finality concerns 
+seein Penara as much place in criminal as in civil 
+i on’” (ibid. (citation omitted) (emphasis in original)); it 
+therefore “would be topsy-turvy, both historically par 
+prudentially, to permit a change of law to upset a civil money 
+judgment more readily than a criminal judgment, which affects 
+liberty.” Norgaard v. DePuy Orthopaedics, Inc., 121 F.3d 
+1074, 1077 (7th Cir. 1997) (Easterbrook, J.). And that is 
+especially so in the class action context because giving some 
+class members the benefit of subsequent decisions that were not 
+applied to others itself creates an unfair inequity within the 
+class. Thus, because Amchem and Ortiz “heralded a new era of 
+judicial scrutiny of class action certification and settlement” 
+(Epstein, 179 F.3d at 651 (Thomas, J., dissenting), the 
+standards they set out may not be applied in respondents’ 
+
+
+class members was developed by the special master and adopted by 
+the court, not negotiated by the parties. There accordingly is no sense 
+in which the interests of asymptomatic class members were bargained 
+away to increase the settlement value for those already ill. 
+
+
+49 
+
+
+current collateral attack on a decision that was closed a decade 
+ago." 
+
+
+In addition, as we have noted, a collateral attack could be 
+permissible (if at all) only if binding the absent parties to the 
+prior judgment would deny them due process. Amchem and 
+Ortiz, however — which arose on direct review and said nothing 
+about how their rule would apply in a collateral attack — did not 
+purport to state due process rules; in relevant part, they 
+expressly went off on the prophylactic provisions of Rule 
+23(a)(4).'* Accordingly, respondents may not rely on Amchem 
+
+
+'3 As the habeas cases suggest, it is the burden of respondents — who 
+
+
+_ seek to show that the adequacy determination should have come out 
+
+
+differently at the time of the original judgment — to establish that 
+“existing precedent” would have “‘compelled’” the outcome they 
+advocate. Goeke, 514 U.S. at 120. See, e.g., Graham, 506 U.S. at 
+467. But neither respondents nor the court below made any attempt 
+to establish that “reasonable jurists” in 1983 “‘would have felt 
+compelled by existing precedent’ to rule in [respondents’] favor.” 
+Ibid. (quoting Saffle v. Parks, 494 U.S. 484, 488 (1990)). 
+
+
+'* See Ortiz, 527 U.S. at 830 (explaining that “[t}he nub of this case 
+is the certification of the class under Rule 23(b)(1)(B),” and holding 
+that conditions for certifying such a mandatory settlement class under 
+that rule were not met); Amchem, 521 U.S. at 597 (noting that “this 
+case concerns the legitimacy under Rule 23 * * * of a class-action 
+certification” and holding that requirements for class certification 
+under the rule were not met) (emphasis added); id. at 629 (“Rule 23 
+* * * cannot carry the large load * * * heaped upon it”). In both 
+cases, the Court explained at the outset that it did not have to address 
+threshold justiciability questions because resolution of the Rule 23 
+certification issues are “logically antecedent to Article II] concerns” 
+and “themselves pertain to statutory standing.” Ortiz, 527 U.S. at 831 
+(emphasis added) (internal citations and quotation marks omitted), 
+Amchem, 521 U.S. at 612 (same). Moreover, the Court concluded in 
+Ortiz that its “limiting construction” of Rule 23 was justified in part 
+because it avoided the necessity of deciding constitutional questions. 
+527 U.S. at 42-847. 
+
+
+50 
+
+
+and Ortiz to make out the due process vio!ation they must show 
+to avoid being bound by the class settlement. 
+CONCLUSION 
+
+
+The judgment of the court of appeals should be reversed. | 
+
+
+Respectfully submitted. 
+ANDREW L. FREY SETH P. WAXMAN 
+PHILIP ALLEN LACOVARA Counsel of Record 
+CHARLES A. ROTHFELD Louls R. COHEN 
+RICHARD B. KATSKEE JOSHUA S. GOLDWERT 
+STEVEN J. DUFFIELD SHIRLEY C. WOODWARD 
+Mayer, Brown, Rowe & Maw _ Wilmer, Cutler & Pickering 
+1909 K Street, N.W. 2445 M Street, N.W. 
+Washington, D.C. 20006 Washington, D.C. 20037 
+(202) 263-3000 (202) 663-6000 
+Counsel for Petitioner Counsel for Petitioner 
+Dow Chemical Company Monsanto Company 
+DECEMBER 2002 
+
+

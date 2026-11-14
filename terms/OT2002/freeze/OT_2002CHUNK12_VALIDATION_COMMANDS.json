@@ -1,0 +1,72 @@
+[
+  {
+    "command": [
+      "python",
+      "-B",
+      "tmp/chunk12_workspace_adapter.py",
+      "ledger"
+    ],
+    "exit_code": 0,
+    "stdout": "terms/OT2002/workspace/ledger.md\nExisting rows retained: 144 ; new rows appended: 12\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "-B",
+      "tmp/chunk12_workspace_adapter.py",
+      "manifest",
+      "--stopped",
+      "State v. Oakley=Updated approved Stone rule, rationale, disposition and remedy are required for the ability-sensitive good-faith support condition with its surviving advance judicial-showing requirement. The approved Section II repeatedly depends on a financial-capacity prohibition; Engine section 4 requires revalidation of this changed material premise. The proposed updated position remains unanswered. The earlier-bargain waiver position is approved and complete, but no partial Court action is invented."
+    ],
+    "exit_code": 0,
+    "stdout": "terms/OT2002/workspace/manifest.md\nManifest status rows updated: 12\nSectioned inventory: 180 scheduled events, one manifest row each.\nterms/OT2002/workspace/manifest.md\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "-B",
+      "tmp/ot2002_chunk12_workspace.py"
+    ],
+    "exit_code": 0,
+    "stdout": "Workspace projections rebuilt: 156 Records, 151 completed inventory events, 1 stopped.\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "-B",
+      "tools/build_render_input.py",
+      "terms\\OT2002\\render-inputs\\OT_2002CHUNK12.md",
+      "terms\\OT2002\\records\\Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md",
+      "terms\\OT2002\\records\\Citizens-Bank-v-Alafabco-Inc_summary-merits_2003-06-02.md",
+      "terms\\OT2002\\records\\Entergy-Louisiana-Inc-v-Louisiana-Public-Service-Commission_merits_2003-06-02.md",
+      "terms\\OT2002\\records\\Save-Palisade-FruitLands-v-Todd_merits_2003-06-02.md",
+      "terms\\OT2002\\records\\Desert-Palace-Inc-v-Costa_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Dow-Chemical-Co-v-Stephenson_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Fitzgerald-v-Racing-Association-of-Central-Iowa_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Nguyen-v-United-States_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\United-States-v-Suerte_merits_2003-06-09.md",
+      "terms\\OT2002\\records\\Star-Scientific-Inc-v-Beales_merits_2003-06-16.md",
+      "--stopped",
+      "State v. Oakley: Updated approved Stone rule, rationale, disposition and remedy are required for the ability-sensitive good-faith support condition with its surviving advance judicial-showing requirement. The approved Section II repeatedly depends on a financial-capacity prohibition; Engine section 4 requires revalidation of this changed material premise. The proposed updated position remains unanswered. The earlier-bargain waiver position is approved and complete, but no partial Court action is invented."
+    ],
+    "exit_code": 0,
+    "stdout": "terms\\OT2002\\render-inputs\\OT_2002CHUNK12.md\n",
+    "stderr": ""
+  },
+  {
+    "command": [
+      "python",
+      "-B",
+      "tmp/chunk12_workspace_adapter.py",
+      "check"
+    ],
+    "exit_code": 0,
+    "stdout": "SCOPE: deterministic checks only; commit-reference existence is not checked.\nOK: OT2002; 0 warning(s)\nNOT CHECKED: commit-reference existence; no repository-history commands were executed.\nSectioned inventory: 180 scheduled events, one manifest row each.\n",
+    "stderr": ""
+  }
+]

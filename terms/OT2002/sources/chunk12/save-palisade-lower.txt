@@ -1,0 +1,649 @@
+ 
+ 
+ 00-1423 -- Save Palisade Fruitlands v. Todd -- 02/07/2002 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+| Keyword | 
+ Case | 
+ Docket | 
+Date: Filed / 
+ Added |
+    (50522 bytes) 
+   
+ (42762 bytes) 
+ 
+ 
+
+
+ 
+ PUBLISH 
+
+
+ 
+ UNITED STATES COURT OF APPEALS 
+ 
+
+
+ 
+ TENTH CIRCUIT 
+
+
+ 
+ 
+
+ 
+ 
+ SAVE PALISADE FRUITLANDS , a
+Colorado unincorporated nonprofit
+association; HARRY C. TALBOTT;
+GALEN R. WALLACE; ALLEN M.
+(MAC) WILLIAMS,
+
+ 
+ Plaintiffs - Appellants ,
+
+ 
+ v.
+
+ 
+ 
+MONIKA TODD , in her official
+capacity as County Clerk of Mesa
+County, Colorado; MESA COUNTY
+BOARD,
+
+ 
+ Defendants - Appellees . 
+ 
+ No. 00-1423 
+
+ 
+
+ 
+ 
+
+ APPEAL FROM THE UNITED STATES DISTRICT COURT 
+ 
+
+
+ 
+ FOR THE DISTRICT OF COLORADO 
+ 
+
+
+ 
+ (D. Ct. No. 99-Z-2248 ) 
+
+
+ 
+ 
+
+Richard W. Daily (Stephen K. ErkenBrack, with him on the briefs), Hale
+Hackstaff Tymkovich & ErkenBrack, L.L.P., Denver, Colorado, appearing for
+Appellants.
+
+ 
+Valerie J. Robison, Assistant Mesa County Attorney (M. Lyle Dechant, Mesa
+County Attorney, with her on the brief), Mesa County Attorney's Office, Grand
+Junction, Colorado, appearing for Appellees.
+
+
+ 
+ 
+
+Before TACHA , Chief Judge, GARTH , (*) and BRISCOE , Circuit Judges.
+
+
+ 
+ 
+
+ TACHA , Chief Judge.
+
+
+ 
+ 
+ 
+
+ 
+ Appellants Save Palisade FruitLands and three of its members brought this
+suit under 42 U.S.C. § 1983, after the Mesa County Clerk, appellee Monika Todd,
+denied appellants' request to place a land-use proposal on the ballot as a county-wide initiative. 
+Appellants argued that Colorado law, which grants the power to
+initiate legislation to the electors of home rule counties, but not to those of
+statutory counties, violates the Equal Protection Clause of the Federal
+Constitution. The United States District Court for the District of Colorado
+concluded that there was no denial of equal protection, and it therefore granted
+Todd's motion for summary judgment. We exercise jurisdiction pursuant to 28
+U.S.C. § 1291 and AFFIRM.
+
+ I. Background 
+
+ 
+A. The Structure of the Colorado Initiative. 
+
+ 
+ In 1910, the people of Colorado adopted article V of the Colorado
+Constitution and reserved the powers of initiative and referendum. Byrne v. Title
+Bd. , 907 P.2d 570, 576 (Colo. 1995) (en banc) (Mullarkey, J., dissenting). Article
+V, subsection 1(2) of the Colorado Constitution provides in part that "[t]he first
+power hereby reserved by the people is the initiative." Article V, subsection 1(9)
+further clarifies the scope of this reserved power: "The initiative and referendum
+powers reserved to the people by this section are hereby further reserved to the
+registered electors of every city, town, and municipality as to all local, special,
+and municipal legislation of every character in or for their respective
+municipalities." 
+
+ 
+ The Colorado Constitution does not explicitly reserve the right of initiative
+at the county level. In general, counties in Colorado are simply political
+subdivisions of the state government that possess only those functions that are
+granted to them by the constitution or by statute, along with implied powers
+necessary to carry those functions out. Pennobscot, Inc. v. Bd. of County
+Comm'rs , 642 P.2d 915, 918 (Colo. 1982) (en banc); Dellinger v. Bd. of County
+Comm'rs , 20 P.3d 1234, 1237 (Colo. Ct. App. 2000). Colorado courts have
+rejected any argument that the general reservations of power in article V,
+subsections 1(1) and 1(2) might be construed to grant county governments the
+power to provide for initiatives. Dellinger , 20 P.3d at 1237-38 (considering, and
+then rejecting, various arguments that would authorize and require counties to
+provide for initiatives); see also County Rd. Users Ass'n v. Bd. of County
+Comm'rs , 987 P.2d 861, 863 (Colo. Ct. App. 1998) (noting in dicta that "the
+power of initiative and referendum is not generally reserved to the electors as to
+county governments"), rev'd on other grounds , 11 P.3d 432 (Colo. 2000) (en
+banc). (1) 
+
+ 
+ The constitutional scheme is complicated, however, by statutory grants of
+the initiative power to the electors of county governments in limited contexts. In
+some instances, this grant is given to the electors of all counties with respect to
+specific types of legislation. (2) Colorado
+also distinguishes between statutory
+counties and home rule counties with respect to the power to initiate general
+legislation, and this distinction is the central focus of this litigation. 
+
+ 
+ All counties in Colorado are initially created as "statutory" counties. These
+counties perform basic governmental functions such as managing the property of
+the county, maintaining streets and street lighting, creating mass transit, and
+making limited contracts for the fulfillment of these functions. Colo. Rev. Stat. §
+30-11-101 (1). A statutory county is governed by a board of county
+commissioners, who are constitutional officers elected in accordance with article
+14, section 6 of the Colorado Constitution. The board has several specifically
+enumerated powers, such as levying taxes and providing for the maintenance of
+county buildings. Colo. Rev. Stat. § 30-11-107. It also has the power to control
+the zoning of land not incorporated into cities. Colo. Rev. Stat. § 30-28-102.
+
+ 
+ However, the Colorado Constitution provides a procedure for "statutory"
+counties to become "home rule" counties and thereby assume a greater degree of
+self-government. Colo. Const. art. XIV, § 16. To become a home rule county, a
+statutory county must adopt a home rule charter, which must be approved by a
+vote of the electors in the county. Id. While statutory counties have government
+structures that are specifically delineated in the state constitution, home rule
+counties are largely freed from these constitutional dictates. Bd. of County
+Comm'rs v. Andrews , 687 P.2d 457, 458 (Colo. Ct. App. 1984) (noting that
+article XIV, section 16 frees home rule counties from the provisions of sections 6,
+8, 9, 10, 12, and 15 of article XIV of the constitution, which set forth the type of
+officers who shall be elected in each county and how to choose and compensate
+them). While a home rule county still "must do the things that all counties must
+do and must provide the services all counties must provide," id. , there are
+numerous provisions in the Colorado statutes that either allow home rule counties
+to expand upon the powers already granted to statutory counties or grant home
+rule counties new powers altogether. For example, home rule counties have
+broader powers to incur indebtedness than statutory counties have. Compare 
+Colo. Rev. Stat. § 30-35-201(6) (specifying procedures for home rule counties to
+incur general debt), with Colo. Rev. Stat. § 30-11-107(1)(dd) (allowing statutory
+counties to incur debt to finance energy-saving measures). Home rule counties
+have the power to provide for "public concerts and entertainments" and may
+advertise to attract tourists, id. § 30-35-201(3), (4), while statutory counties have
+no similar powers. These are but examples, and many other differences are
+apparent from even a cursory comparison of sections 30-35-201 and 30-11-107. 
+
+ 
+ Among these many differences is the scope of the power of initiative. The
+electors of statutory counties in Colorado may only initiate legislation with
+respect to a very limited range of issues. E.g. , Colo. Rev. Stat. 29-2-104. Home
+rule counties, by contrast, are statutorily required to provide for the initiative and
+referendum of all measures under the same strictures required for statewide ballot
+measures. Col. Rev. Stat. § 30-11-508. The difference in this grant of powers is
+what gives rise to this litigation.
+
+ 
+B. Save Palisade FruitLands 
+
+ 
+ Mesa County, Colorado is a statutory county situated on the border of
+Colorado and Utah. It contains several cities, including Palisade, Fruita, and the
+largest city in the county, Grand Junction. It is famous for its fruit production,
+especially in the eastern areas of the county. Land use in the county is governed
+by the Mesa County Planning Commission, which adopts land codes governing
+zoning and the divisibility of property. 
+
+ 
+ Appellant Save Palisade FruitLands ("Save Palisade") is an unincorporated
+nonprofit association comprised of registered voters in Mesa County. Appellants
+Harry Talbott and Allen Williams are peach growers, and Galen Wallace is a
+viticulturist. All three are members of Save Palisade. (3) Throughout the 1990s,
+they and other farmers tried to halt the encroachment of residential subdivisions
+in Mesa County by attempting to place greater restrictions upon the ability of
+landowners to subdivide their property. After years of having their efforts
+rejected, and after several contentious public meetings debating the utility of such
+measures, Save Palisade and various farmers attempted to place a measure on the
+Mesa County ballot that would restrict the ability of landowners to subdivide their
+land. On November 16, 1999, Monika Todd, the Mesa County Clerk, refused to
+place the proposed initiative on the ballot. Todd indicated that she could find no
+authorization for countywide initiatives in a statutory county such as Mesa
+County.
+
+ 
+ Save Palisade then brought suit against Todd and the Board of County
+Commissioners of Mesa County in the United States District Court for the District
+of Colorado. The court granted the defendant's motion for summary judgment
+shortly after the Colorado Court of Appeals issued its ruling in Dellinger v. Board
+of County Commissioners , 20 P.3d 1234, 1237-38 (Colo. Ct. App. 2000), which
+held that the Colorado Constitution did not authorize the electors of statutory
+counties to initiate legislation. Save Palisade then sought to have the measure
+certified as a statewide ballot initiative. On December 6, 2000, the Ballot Title
+Setting Board determined that the measure was not a "statewide" measure, and it
+therefore refused to place the initiative on the ballot.
+
+ 
+ Appellants then brought this appeal, claiming that by granting the power of
+initiative to the electors of home rule counties but not to those of statutory
+counties, the Colorado courts denied the electors of statutory counties the equal
+protection of the laws.
+
+ II. Discussion 
+
+ 
+A. Standard of Review 
+
+ 
+ We review the district court's grant of summary judgment de novo,
+applying the same legal standard used by the district court. Wark v. United
+States , 269 F.3d 1185, 1187 (10th Cir. 2001). Summary judgment is proper only
+if the evidence, reviewed in the light most favorable to the party opposing the
+motion, demonstrates that there is no genuine issue as to any material fact, and
+that the moving party is entitled to judgment as a matter of law. Fed. R. Civ. P.
+56(c).
+
+ 
+B. The Appropriate Level of Fourteenth Amendment Scrutiny 
+
+ 
+ Save Palisade argues that Colorado's decision to provide the initiative
+power to home rule counties but not statutory counties is subject to strict scrutiny
+under the Fourteenth Amendment's Equal Protection Clause. U.S. Const. amend.
+XIV, § 1 ("No state shall . . . deny to any person within its jurisdiction the equal
+protection of the laws."). If strict scrutiny applies, Colorado's statute must be
+narrowly tailored to further a compelling government interest. Goetz v.
+Glickman , 149 F.3d 1131, 1140 (10th Cir. 1998). If no heightened scrutiny
+applies, the statute need only be rationally related to a legitimate government
+purpose. Kinnell v. Graves , 265 F.3d 1125, 1128 (10th Cir. 2001). We subject
+governmental classifications to strict scrutiny under the Equal Protection Clause
+only if they target a suspect class or involve a fundamental right. Goetz , 149 F.3d
+at 1140.
+
+ 
+ Suspect Class 
+ 
+
+ 
+ When legislation categorizes persons based on suspect classifications, such
+as race and national origin, we apply strict scrutiny. Okla. Educ. Ass'n v.
+Alcoholic Beverage Laws Comm'n , 889 F.2d 929, 932 (10th Cir. 1989). When
+legislation categorizes persons based on "quasi-suspect" classifications, such as
+gender and illegitimacy, we apply intermediate scrutiny. Id. Finally, when
+legislation categorizes persons on the basis of a non-suspect classification, we
+apply rational basis review. Id. In deciding whether to recognize additional
+classifications as suspect, courts traditionally look to see if the classification is
+"based on characteristics beyond an individual's control," id. , and whether the
+class is "saddled with such disabilities, or subjected to such a history of
+purposeful unequal treatment, or relegated to such a position of political
+powerlessness as to command extraordinary protection from the majoritarian
+political process." San Antonio Indep. Sch. Dist. v. Rodriguez , 411 U.S. 1, 28
+(1973).
+
+ 
+ The classification here is statutory counties, in contrast to home rule
+counties, and citizens of the two types of counties are treated differently in
+Colorado. Status as a statutory county, however, has not been recognized as a
+suspect or quasi-suspect classification. Moreover, citizens of statutory counties
+lack the characteristics of a suspect class. Id. Being a statutory county is not a
+characteristic beyond Mesa County's control, as it can choose to become a home
+rule county. Cf. Okla. Educ. Ass'n , 889 F.2d at 932. Mesa County's citizens
+are
+free to work to effect this change. Neither the county nor its citizens claim to
+suffer disabilities, have a history of unequal treatment, or be politically
+powerless. Cf. Rodriguez , 411 U.S. at 28. Thus, Save Palisade and its
+members
+are not entitled to heightened scrutiny on the basis of a suspect classification.
+
+ 
+ Fundamental Rights 
+ 
+
+ 
+ Even though citizens of statutory counties are not a suspect class, we will
+still apply strict scrutiny if the state's classification burdens the exercise of a
+fundamental right guaranteed by the U.S. Constitution. Okla. Educ. Ass'n , 889
+F.2d at 932. Save Palisade argues that its inability to bring an initiative in Mesa
+County burdens its members' fundamental constitutional rights to free speech and
+to vote. McIntyre v. Ohio Elections Comm'n , 514 U.S. 334, 336 n.1 (1995)
+(acknowledging that free speech is a fundamental right); Reynolds v. Sims , 377
+U.S. 533, 554 (1964) (acknowledging that the right to vote is a fundamental
+right).
+
+ 
+ Here, there are two contexts within which the appellants' rights to free
+speech and to vote arguably could be implicated. First, it could be argued that the
+fundamental rights to speech and to vote are implicated within a broader right to
+bring an initiative, and that the power of initiative is therefore a fundamental
+right. However, nothing in the language of the Constitution commands direct
+democracy, and we are aware of no authority supporting this argument. In fact,
+every decision of which we are aware has held that initiatives are state-created
+rights and are therefore not guaranteed by the U.S. Constitution. E.g. , Taxpayers
+United for Assessment Cuts v. Austin , 994 F.2d 291, 295 (6th Cir. 1993) (citing
+ Meyer v. Grant , 486 U.S. 414, 424 (1988)); Kelly v. Macon-Bibb County Bd. of
+Elections , 608 F. Supp. 1036, 1038 & n.1 (M.D. Ga. 1985). We agree with these
+courts' reasoning and reject this argument.
+
+ 
+ Second, it may be argued that regulations on the power of initiative violate
+the fundamental rights to free speech and to vote. It is true that the
+constitutionally guaranteed rights of free speech and voting may be implicated by
+attempts to regulate initiative schemes. See, e.g. , Meyer , 486 U.S. at 424-25. 
+The mere fact that the state created a right to an initiative process in home rule
+counties, however, does not require that an initiative process be granted to all
+political subdivisions or with respect to all subjects. Skrzypczak v. Kauger , 92
+F.3d 1050, 1053 (10th Cir. 1996) ("[Plaintiff's] right to free speech in no way
+depends on the presence of [her initiative] on the ballot. Moreover, she cites no
+law, and we find none, establishing a right to have a particular proposition on the
+ballot."). In other words, the right to free speech and the right to vote are not
+implicated by the state's creation of an initiative procedure, but only by the
+state's attempts to regulate speech associated with an initiative procedure, which
+is not the case here. (4) There is no initiative
+scheme in place in statutory counties,
+so there cannot be an unlawful attempt to regulate that scheme.
+
+ 
+ The cases that Save Palisade cites in support of its argument are inapposite. 
+First, none of these cases involves an equal protection claim. Second, and
+perhaps most important, all of these cases involve situations where a political
+subdivision had already been granted the power of initiative and the state
+attempted to regulate the speech associated with the initiative process. For
+example, in the primary First Amendment case cited by appellants, Meyer v.
+Grant , the Court struck down a law banning payments to petition circulators. 
+Unlike the instant case, however, Meyer involved a situation where the state had
+already granted electors the power of initiative. 486 U.S. at 424. Moreover, the
+ Meyer Court struck down the law not because of anything unique to an initiative
+scheme, but rather because it limited the number of messengers available to
+spread core political speech. Id. at 422-23.
+
+ 
+ The other free speech case cited by Save Palisade, Buckley v. American
+Constitutional Law Foundation , 525 U.S. 182 (1999), is likewise distinguishable. 
+There, the Court held that a state's requirement that circulators of initiative
+petitions wear name badges infringed upon the circulators' rights to anonymous
+free speech. Id. at 199-200. Like Meyer , Buckley involved an
+unconstitutional
+regulation of speech that happened to occur in the context of an existing initiative
+scheme. 
+
+ 
+ Meyer and Buckley thus establish that, "where the people reserve the
+initiative or referendum power, the exercise of that power is protected by the First
+Amendment." Stone , 173 F.3d at 1175 (9th Cir. 1999); see also 
+ Austin , 994 F.2d
+at 296-97 ("Unlike the challenged provisions in Meyer , Michigan's initiative
+system does not restrict the means that the plaintiffs can use to advocate their
+proposal."). They do not establish that when the power of initiative is created for
+one political subdivision, it must necessarily be created for all political
+subdivisions. (5) The Colorado Court of
+Appeals determined in Dellinger that the
+citizens of Colorado have not reserved the power of the initiative as to statutory
+counties, and that statutory counties therefore do not have the power of initiative. 
+Because we are unpersuaded that the Colorado Supreme Court would disagree, we
+follow the Dellinger court's determination of state law. Comm'r v. Estate of
+Bosch , 387 U.S. 456, 465 (1967); Daitom, Inc. v. Pennwalt Corp. , 741 F.2d 1569,
+1574 (10th Cir. 1984). (6) Because there is
+no petition process being regulated, and
+because there is no federal right to have such a process created, we find that the
+ Meyer and Buckley analysis provides no basis for strict scrutiny.
+
+ 
+ Nor are the "right-to-vote" cases cited by petitioner any more persuasive. 
+These cases establish conclusively that "'the right to vote in an election is
+protected by the United States Constitution against dilution or debasement.'"
+ Hellebust v. Brownback , 42 F.3d 1331, 1333 (10th Cir. 1994) (quoting Hadley v.
+Junior College Dist. , 397 U.S. 50, 54 (1970)). They do not establish that every
+political subdivision must decide questions in the exact same manner. Reynolds
+v. Sims , the first case cited by appellants, dealt with a situation where legislative
+districts were apportioned with grossly disproportionate numbers of voters in each
+district. 377 U.S. 533, 537-53 (1964). As a result, individual voters in districts
+with small numbers of citizens effectively had disproportionate representation in
+the state House and Senate as compared to voters in districts with large numbers
+of voters. See also Gray v. Sanders , 372 U.S. 368, 379-80 (1963) (invalidating
+Georgia primary scheme where candidates were selected under a "county unit"
+system that effectively weighted rural votes more heavily than urban votes). The
+other case cited by appellants, Bush v. Gore , 531 U.S. 98 (2000), involved a
+situation where ballots for a statewide post from different counties were
+recounted under disparate standards, raising the possibility that voters who cast
+identical ballots would have their votes treated differently when choosing electors
+for president. Id. at 106-09. 
+
+ 
+ Both of the cases Save Palisade cites thus involve situations where two or
+more classes of voters cast votes on the same issue or for the same office, and one
+class's votes were effectively diluted. That is simply not the case here. While
+voters in home rule counties may have the ability to vote directly on county-wide
+measures affecting their own county ­ an ability not shared by their statutory
+county analogues ­ this in no way dilutes the votes of the electors of statutory
+counties. The reason is simple: Unlike the voters in Bush and in Reynolds , the
+voters in statutory and home rule counties never have their votes weighed
+differently on the same question. A statewide ballot is the only opportunity for
+true comparison. When that occurs, all voters, whether they reside in statutory or
+in home rule counties, are given an opportunity to vote. We can find no burden
+on a fundamental right to vote under such a scheme.
+
+ 
+ Like the appellant in Skrzypczak v. Kauger , Save Palisade and its members
+are still free to express their view that Mesa County's land use process needs to
+be changed, and they have thus suffered no burden on their right to free speech.
+92 F.3d 1050, 1053 (10th Cir. 1996) ("[T]he Oklahoma Supreme Court has not
+prevented Skrzypczak from speaking on any subject. She is free to argue against
+legalized abortion, to contend that pre-submission content review of initiative
+petitions is unconstitutional, or to speak publicly on any other issue."). Nor have
+their rights to vote been diluted with respect to any other citizens of Colorado. 
+Therefore, no fundamental right has been burdened. 
+
+ 
+ C. Rational Basis Review 
+
+ 
+ Having decided that the category created by Colorado infringes upon no
+ federal fundamental right, (7) and
+having found no suspect classification, we
+evaluate Colorado's allocation of the power of initiative under minimal scrutiny. 
+Under this standard, the classification need only bear a "rational relation to some
+legitimate end to satisfy the Equal Protection Clause." Kinnell v. Graves , 265
+F.3d 1125, 1128 (10th Cir. 2001) (quoting Romer v. Evans , 517 U.S. 620, 631
+(1996)). We examine the statute to ensure that the state has sufficiently "treat[ed]
+like cases alike," and we will not act to keep a state from "treat[ing] unlike cases
+accordingly." Crider v. Bd. of County Comm'rs , 246 F.3d 1285, 1288 (2001)
+(quoting Tonkovich v. Kan. Bd. of Regents , 159 F.3d 504, 532 (10th Cir.1998)).
+
+ 
+ Appellants ask us to compare apples and oranges when comparing home
+rule and statutory counties. As noted at the outset of this opinion, home rule
+counties have a broader range of powers than statutory counties. Moreover, home
+rule counties were created in order to give citizens of unincorporated areas a
+greater degree of autonomy in local affairs than they previously enjoyed. Both of
+these ends ­ facilitating a broader degree of powers and enhancing local
+autonomy ­ are legitimate government purposes. Granting the power of initiative
+to home rule counties and not statutory counties could advance both of these ends,
+and is therefore rationally related to either purpose.
+
+ 
+ It appears from a single mention in appellants' brief that the citizens of
+Logan County voted to place term limits on its Board of Commissioners. This
+does not change our analysis. One isolated, unchallenged incident in which the
+electors of one statutory county enacted legislation by an initiative does not give
+rise to an equal protection violation. We also cannot help but observe that the
+Logan County initiative was voted on in 1998, at least two years before the
+Colorado Court of Appeals' decision in Dellinger . Thus, at the time of the Logan
+County initiative, there was no controlling legal authority that clearly forbade
+statutory counties from enacting legislation through an initiative process. Absent
+evidence that such initiatives are still occurring in some statutory counties in the
+face of what is now clear legal authority from the Colorado Court of Appeals, we
+refuse to find that Colorado is enforcing its laws in an arbitrary or irrational
+manner in violation of the Equal Protection Clause.
+
+ III. Conclusion 
+
+ 
+ Appellants are still not without recourse. They can attempt to change the
+Colorado statute to grant the power of initiatives to statutory counties. They can
+attempt to have Mesa County adopt a home rule charter, thereby ensuring the
+right to initiate legislation. However, for the reasons stated above, the Equal
+Protection Clause of the Fourteenth Amendment does not command Colorado to
+grant the power of initiative to the electors of statutory counties simply because it
+has granted that power to the electors of home rule counties. The district court
+properly granted summary judgment to appellees, and its decision is therefore
+AFFIRMED.
+
+
+ 
+ 
+ 
+ FOOTNOTES 
+ Click footnote number to return to corresponding location in the text. 
+ 
+
+ 
+ *. The Honorable Leonard I. Garth, Senior
+Circuit Judge, United States
+Court of Appeals for the Third Circuit, sitting by designation.
+
+ 
+ 
+ 
+
+
+ 
+ 1. When presented with a question of
+Colorado law that the Colorado
+Supreme Court has not resolved, our task is to predict how that court would rule
+on the issue. Daitom, Inc. v. Pennwalt Corp. , 741 F.2d 1569, 1574 (10th Cir.
+1984). In carrying out this task, [w]e must also follow any intermediate state
+court decision unless other authority convinces us that the state supreme court
+would decide otherwise." Id. ; see also Comm'r v. Estate of Bosch , 387
+U.S. 456,
+465 (1967). Appellants have provided us with no persuasive reason to conclude
+that the Colorado Supreme Court would reach a decision contrary to Dellinger ,
+which we therefore follow as Colorado law.
+
+ 
+ 2. For example, electors may initiate
+legislation regarding county sale and
+use taxes, and for the creation of public improvement districts. Colo. Rev. Stat.
+§§ 29-2-104, 30-20-505 .
+
+ 
+ 3. For this reason, we will, for simplicity's
+sake, sometimes refer simply to
+Save Palisade as the appealing party. 
+
+ 
+ 4. Other courts have agreed with this analysis. 
+In Kelly , for example, the
+plaintiffs brought an equal protection claim, alleging that their right to vote was
+burdened by procedural restrictions on their right to bring a referendum. 608 F.
+Supp. 1036. The court rejected this argument, holding that it was " not a 'right to
+vote' case" as plaintiffs asserted, but a referendum case, and that referenda "are
+not constitutionally compelled." Id. at 1038. The court further noted that the
+Constitution protects the right to vote in a general election, which is part of the
+right to representative democracy. Id. at 1038 n.1. By contrast, the court stated,
+initiatives and referenda are expressions of direct democracy that are not
+guaranteed by the Constitution. Id. Thus, alleging a violation of free speech or
+voting rights does not transform what is essentially an initiative case into a voting
+rights case, and thereby trigger strict scrutiny. See also Stone v. City of
+Prescott ,
+173 F.3d 1172, 1175-76 (9th Cir. 1999) (finding that the First Amendment is not
+implicated when the plaintiffs challenge the scope of the referendum right rather
+than challenging regulations on the exercise of that right). 
+
+ 
+ 5. It is worth noting the potentially broad
+remedy that petitioners seek. If we
+are required to apply strict scrutiny to Colorado's decision to grant the electors of
+statutory counties the power of initiative, then presumably we would be forced to
+apply the same level of scrutiny to school boards, fire districts, administrative
+agencies, and a host of other decision-making bodies whose decisions cannot,
+under the present scheme, be changed by direct democracy. We decline to make a
+ruling with such far-reaching implications.
+
+ 
+ 6. Appellants repeatedly advance the
+proposition that Colorado's gradual
+delegation of legislative powers to counties represents an attempt to constrict the
+people's reserved powers in the constitution. In appellants' view, the increased
+role of county government effectively has resulted in the deprivation of citizens'
+right to initiate legislation on issues that previously would have been handled at
+the state level, and as such, would have been subject to the initiative.
+
+ 
+ The Colorado Court of Appeals addressed and rejected this precise
+argument in Dellinger , 20 P.3d 1234, 1237-38 (Colo. App. 2000), and
+appellants'
+argument has not persuaded us that the Colorado Supreme Court would rule
+otherwise. Appellants do not explicitly argue that the scope of the initiative
+process may not be constricted once granted without violating the federal
+Constitution. As such, we leave the alleged constriction of the right to initiative
+to state courts.
+
+ 
+ 7. We would again reiterate that any potential
+right to an initiative is created
+at the state level only and does not involve a federal right. Colorado courts have
+clearly stated that this right does not exist at the statutory county level, see 
+ supra ,
+and we accept that construction of the Colorado Constitution. Any complaint that
+a state right has somehow been diluted or that the Colorado Court of Appeals has
+"re-written the Colorado constitution" must be directed to the Colorado Supreme
+Court.
+
+ 
+ 
+ 
+| Keyword | 
+ Case | 
+ Docket | 
+Date: Filed / 
+ Added |
+    (50522 bytes) 
+   
+ (42762 bytes) 
+ 
+
+ 
+ 
+ 
+Comments to: WebMaster ,
+ca10 [at] washburnlaw.edu. 
+Updated: February 8, 2002. 
+HTML markup © 2002, Washburn University School of Law. 
+URL: http://ca10.washburnlaw.edu/cases/2002/02/00-1423.htm.
+ 
+ 
+
+ 
+ 

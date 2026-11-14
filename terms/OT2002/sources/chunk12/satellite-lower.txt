@@ -1,0 +1,2019 @@
+                                        Filed: February 13, 2002
+UNITED STATES COURT OF APPEALS
+
+       FOR THE FOURTH CIRCUIT
+
+             Nos. 01-1151(L)
+              (CA-00-1571-A)
+
+Satellite Broadcasting, etc.,                Petitioner,
+                  versus                    Respondents.
+
+Federal Communications Commission, et al.,
+
+ORDER
+
+         The court further amends its opinion filed December 7, 2001,
+and amended January 31, 2002, as follows:
+
+         On page 21, first paragraph, line 25 -- the reference to
+“SBAC” is corrected to read “SBCA.”
+
+                                                                   For the Court - By Direction
+
+       /s/ Patricia S. Connor
+                       Clerk
+                                        Filed: January 31, 2002
+UNITED STATES COURT OF APPEALS
+
+       FOR THE FOURTH CIRCUIT
+
+             Nos. 01-1151(L)
+              (CA-00-1571-A)
+
+Satellite Broadcasting, etc.,                Petitioner,
+                  versus                    Respondents.
+
+Federal Communications Commission, et al.,
+
+ORDER
+
+         The court amends its opinion filed December 7, 2001, as
+follows:
+
+         On page 22, second paragraph, line 17; page 30, first full
+paragraph, lines 17 and 20; and page 30, footnote 7, line 3 -- the
+references to “SBAC” are corrected to read “SBCA.”
+
+         On page 29, second full paragraph, line 8, and page 33, first
+paragraph, line 18 -- the font at the end of the citations (the
+last “C” in “FCC” and “PAC”) is corrected to Italic.
+
+                                                                   For the Court - By Direction
+
+       /s/ Patricia S. Connor
+                       Clerk
+                                                                      PUBLISHED    No. 01-1151
+
+                                                   UNITED STATES COURT OF APPEALS
+
+                                                          FOR THE FOURTH CIRCUIT
+
+SATELLITE BROADCASTING AND
+COMMUNICATIONS ASSOCIATION,
+
+        Petitioner,
+
+        v.
+
+FEDERAL COMMUNICATIONS
+COMMISSION; UNITED STATESOF
+AMERICA,
+
+        Respondents,
+ASSOCIATION OF AMERICA'S PUBLIC
+TELEVISION STATIONS; PUBLIC
+BROADCASTING SERVICE; CORPORATION
+FOR PUBLIC BROADCASTING; NATIONAL
+ASSOCIATIONOF BROADCASTERS;
+CONSUMER FEDERATIONOF AMERICA;
+OFFICEOF COMMUNICATION, UNITED
+CHURCHOF CHRIST, INCORPORATED,
+Intervenors.
+ECHOSTAR SATELLITE CORPORATION,                                                 No. 01-1271
+        Petitioner,
+
+        v.
+
+FEDERAL COMMUNICATIONS
+COMMISSION; UNITED STATESOF
+AMERICA,
+
+        Respondents,
+
+ASSOCIATION OF AMERICA'S PUBLIC
+TELEVISION STATIONS; PUBLIC
+BROADCASTING SERVICE; CORPORATION
+FOR PUBLIC BROADCASTING; NATIONAL
+ASSOCIATIONOF BROADCASTERS;
+CONSUMER FEDERATIONOF AMERICA;
+OFFICEOF COMMUNICATION, UNITED
+CHURCHOF CHRIST, INCORPORATED,
+Intervenors.
+
+                                                                             2
+NATIONAL ASSOCIATIONOF                                                                    No. 01-1272
+BROADCASTERS,
+
+        Petitioner,
+
+PAXSON COMMUNICATIONS
+CORPORATION,
+Intervenor,
+
+        v.
+
+FEDERAL COMMUNICATIONS
+COMMISSION; UNITED STATESOF
+AMERICA,
+
+        Respondents,
+
+ASSOCIATION OF AMERICA'S PUBLIC
+TELEVISION STATIONS; PUBLIC
+BROADCASTING SERVICE; CORPORATION
+FOR PUBLIC BROADCASTING;
+CONSUMER FEDERATIONOF AMERICA;
+OFFICEOF COMMUNICATION, UNITED
+CHURCHOF CHRIST, INCORPORATED,
+Intervenors.
+
+                                              On Petitions for Review of an Order of the
+                                                   Federal Communications Commission.
+                                                                   (00-96, 99-363)
+
+                                                                             3
+SATELLITE BROADCASTING AND                                                      No. 01-1818
+COMMUNICATIONS ASSOCIATION;
+COMMUNICATIONS CORPORATION; DISH,
+LIMITED, d/b/a DISH Network;
+DIRECTV ENTERPRISES, INCORPORATED;
+DIRECTV OPERATIONS, INCORPORATED;
+DIRECTV, INCORPORATED,
+
+        Plaintiffs-Appellants,
+
+        v.
+
+FEDERAL COMMUNICATIONS
+COMMISSION; WILLIAM E. KENNARD,
+Chairman; SUSAN NESS,
+Commissioner, in her official
+capacity; HAROLD FURCHTGOTT-ROTH;
+MICHAEL K. POWELL, Commissioner,
+in his official capacity; GLORIA
+TRISTANI, Commissioner, in her
+official capacity; UNITED STATES
+COPYRIGHT OFFICE; LIBRARYOF
+CONGRESS; JAMES H. BILLINGTON,
+Librarian of Congress; MARY
+PETERS, Register of Copyrights, in
+her official capacity; UNITED
+STATESOF AMERICA,
+
+        Defendants-Appellees,
+
+                                                                             4
+NATIONAL ASSOCIATION OF
+BROADCASTERS; THE ASSOCIATIONOF
+LOCAL TELEVISION STATIONS,
+INCORPORATED; THE UNIVISION
+NETWORK LIMITED PARTNERSHIPAND
+UNIVISION TELEVISION STATIONS,
+INCORPORATED; ASSOCIATIONOF
+AMERICA'S PUBLIC TELEVISION
+STATIONS; PUBLIC BROADCASTING
+SERVICE; CORPORATIONFOR PUBLIC
+BROADCASTING,
+Intervenors/Defendants-Appellees.
+
+PEGASUS COMMUNICATIONS
+CORPORATION; CHANNEL MASTER
+LLC,
+
+        Parties in Interest.
+
+CONSUMER FEDERATIONOF AMERICA;
+OFFICEOF COMMUNICATION, UNITED
+CHURCHOF CHRIST, INCORPORATED,
+Amici Curiae.
+
+NATIONAL CABLE SATELLITE
+CORPORATION (C-SPAN); SPACE
+SYSTEMS/LORAL, INCORPORATED;
+PAXSON COMMUNICATIONS
+CORPORATION; NATIONAL
+ALLIANCEFOR MEDIA ARTS &
+CULTURE; ASSOCIATIONOF
+INDEPENDENT VIDEOAND
+FILMMAKERS; VIRGINIA CITIZENS
+CONSUMER COUNCIL; CONEXANT
+SYSTEMS, INCORPORATED; BROADCOM
+CORPORATION,
+Movants.
+
+                                                                             5
+                                            Appeal from the United States District Court
+                                        for the Eastern District of Virginia, at Alexandria.
+
+                                                    Gerald Bruce Lee, District Judge.
+                                                                    (CA-00-1571-A)
+
+                                                         Argued: September 25, 2001
+
+                                                          Decided: December 7, 2001
+
+                                  Before WIDENER, NIEMEYER, and MICHAEL, Circuit Judges.
+
+____________________________________________________________
+
+Petitions for review denied and judgment affirmed by published opin-
+ion. Judge Michael wrote the opinion, in which Judge Widener and
+Judge Niemeyer joined.
+
+____________________________________________________________
+
+                                                                       COUNSEL
+
+ARGUED: Charles Justin Cooper, COOPER, CARVIN & ROSEN-
+THAL, P.L.L.C., Washington, D.C., for Satellite, et al. Donald Bea-
+ton Verilli, Jr., Nory Miller, JENNER & BLOCK, L.L.C.,
+Washington, D.C., for NAB. Mark Bernard Stern, Appellate Staff,
+Civil Division, UNITED STATES DEPARTMENT OF JUSTICE,
+Washington, D.C.; Louis Emmanuel Peraertz, Special Counsel, FED-
+ERAL COMMUNICATIONS COMMISSION, Washington, D.C., for
+Federal Appellees. ON BRIEF: Michael W. Kirk, Victor J. Wolski,
+COOPER, CARVIN & ROSENTHAL, P.L.L.C., Washington, D.C.;
+Brian Koukoutchos, Mandeville, Louisiana; Charles G. Cole, Pantelis
+Michalopoulos, Rhonda M. Rivens Bolton, STEPTOE & JOHNSON,
+L.L.P., Washington, D.C., for Satellite, et al. Henry L. Baumann,
+Benjamin F.P. Ivins, NATIONAL ASSOCIATION OF BROAD-
+CASTERS, Washington, D.C.; Thomas P. Olson, WILMER, CUT-
+LER & PICKERING, Washington, D.C., for NAB, et al. Stuart E.
+Schiffer, Acting Assistant Attorney General, Jacob M. Lewis, Appel-
+late Staff, Joseph W. Lobue, Hannah Stires, Federal Programs
+Branch, Civil Division, UNITED STATES DEPARTMENT OF JUS-
+TICE, Washington, D.C.; Jane A. Mago, General Counsel, Daniel M.
+
+                                                                             6
+Armstrong, Associate General Counsel, FEDERAL COMMUNICA-
+TIONS COMMISSION, Washington, D.C., for Federal Appellees.
+Robert A. Long, Jr., Mark H. Lynch, David L. Franklin, COVING-
+TON & BURLING, Washington, D.C.; Marilyn Mohrman-Gillis,
+Vice-President, Policy and Legal Affairs, Lonna Thompson, Director
+of Legal Affairs, Andrew D. Cotlar, Staff Attorney, ASSOCIATION
+OF AMERICA'S PUBLIC TELEVISION STATIONS, Washington,
+D.C.; Kathleen Cox, Senior Vice President Policy, General Counsel
+and Corporate Secretary, Robert M. Winteringham, Senior Staff
+Attorney, CORPORATION FOR PUBLIC BROADCASTING,
+Washington, D.C.; Gregory Ferenbach, Senior Vice President and
+General Counsel, Paul Grego, Vice President and Deputy General
+Counsel, PUBLIC BROADCASTING SERVICE, Alexandria, Vir-
+ginia, for Intervenors Public Television Stations, et al. Harold Feld,
+Andrew Jay Schwartzman, Cheryl A. Leanza, MEDIA ACCESS
+PROJECT, Washington, D.C., for Intervenors Consumer Federation,
+et al. Craig C. Reilly, RICHARDS, MCGETTIGAN, REILLY &
+WEST, P.C., Alexandria, Virginia, for Intervenor Paxson.
+
+____________________________________________________________
+
+                                                                        OPINION
+
+MICHAEL, Circuit Judge:
+
+    Direct broadcast satellite (DBS) service has recently joined cable
+and broadcast television as a major force in the market for delivering
+television programming to consumers. In these consolidated cases,
+representatives of the satellite industry raise various constitutional
+challenges to Congress's efforts to regulate competition in that market
+through the Satellite Home Viewer Improvement Act of 1999
+(SHVIA). Pub. L. No. 106-113, 113 Stat. 1501A-523. In addition,
+petitioners from the broadcast industry argue that one provision (the
+"a la carte rule") of the FCC's order implementing SHVIA must be
+struck down as an unreasonable interpretation of the statute.1 By
+____________________________________________________________
+
+    1 The parties in these cases fall into three groups, according to their
+interests regarding SHVIA: satellite industry representatives (or the "sat-
+ellite carriers"), including the Satellite Broadcasting and Communica-
+tions Association (SBCA), DirecTV, Inc., EchoStar Communications
+
+                                                                             7
+enacting SHVIA, Congress sought to promote competition between
+the satellite and cable industries by creating a statutory copyright
+license that allows satellite carriers to carry the signals of local broad-
+cast television stations without obtaining authorization from the hold-
+ers of copyrights in the individual programs aired by those stations.
+The Act also imposes a "carry one, carry all" rule, which was
+designed to "preserve free television for those not served by satellite
+or cable and to promote widespread dissemination of information
+from a multiplicity of sources." H.R. Conf. Rep. No. 106-464, at 101
+(1999) (SHVIA Conference Report). The rule, which is scheduled to
+take effect on January 1, 2002, will require satellite carriers that
+choose to take advantage of the statutory copyright license by carry-
+ing one broadcast station in a local market to carry all requesting sta-
+tions within that market. We hold, as did the district court, that the
+carry one, carry all rule does not violate either the First Amendment
+or the other constitutional provisions cited by the satellite carriers. We
+also hold that the FCC's a la carte rule, which allows satellite carriers
+to offer local broadcast stations to their subscribers either individually
+or as part of a single package, is not arbitrary, capricious, or contrary
+to law. See 5 U.S.C. § 706(2)(A).
+
+                                                                             I.
+
+                                                                             A.
+
+    Nearly all consumers receive their television programming through
+one of three delivery systems: broadcast television, cable, or satellite.
+Broadcast television stations transmit electromagnetic signals over the
+air, and these signals can be captured by any receiving television
+antenna within range. Twenty percent of American television house-
+holds rely exclusively on broadcast stations for their television pro-
+gramming. Viewers pay no fee to receive broadcast signals. Instead,
+____________________________________________________________
+
+Corp., and Dish, Ltd., a wholly owned subsidiary of EchoStar doing
+business as DISH Network; broadcast representatives (or the "broadcast-
+ers"), including the National Association of Broadcasters (NAB), Paxson
+Communications Corp., and the Public Broadcasting Service (PBS); and
+the United States, essentially the Federal Communications Commission
+(FCC).
+
+                                                                             8
+broadcast stations are supported by advertisers who pay for air time
+at rates determined by the audience sizes for particular programs. The
+most popular broadcast stations are affiliated with one of the four
+major television networks (ABC, CBS, NBC, and Fox). The major
+network affiliates compete for viewers and advertisers with various
+independent broadcasters, including independent commercial stations,
+noncommercial stations, and affiliates of emerging networks (UPN,
+WB, and PAX).2
+
+    The broadcasters' principal competitors in the television program-
+ming delivery market are the cable and satellite industries. Cable and
+satellite companies now serve around 80 percent of America's televi-
+sion households. Unlike broadcasters, their primary source of revenue
+is subscription fees. Cable television distributes its signals to sub-
+scribers over a local network of wires. It has for many years been the
+leading provider of television programming to American homes.
+Roughly 67 percent of television households currently subscribe to
+cable. Although cable subscribers must pay for the right to receive
+cable signals, they receive better picture quality and a wider variety
+of programming options than do television viewers who rely on
+antennas. Today, 84 percent of cable systems offer their subscribers
+at least 30 channels, including national non-broadcast channels (such
+as ESPN, MTV, CNN, and The Weather Channel) and regional non-
+broadcast channels (such as the New England Sports Channel). Cable
+operators also retransmit the signals of local broadcast stations to their
+subscribers.
+
+    Providers of DBS (direct broadcast satellite) service deliver televi-
+sion programming by uplinking signals to satellites orbiting in space
+and then beaming those signals to receiving dishes connected to sub-
+scribers' television sets. In the 1980s satellite dishes were 6 to 10 feet
+in diameter, and satellite carriers primarily served customers in rural
+areas. During the 1990s satellite carriers such as EchoStar and
+DirecTV developed much smaller dishes and began to compete with
+cable for subscribers in urban and suburban areas. Today, satellite
+____________________________________________________________
+
+    2 For ease of reference, we will often describe the class of broadcast
+stations that includes commercial independents, noncommercial stations,
+and emerging network affiliates as "independent" broadcast stations.
+
+                                                                             9
+carriers provide service in each of the nation's 210 television markets
+and serve about 13 percent of television households.3
+
+    Whereas cable systems deliver their signals to subscribers over
+local wire networks, satellite is primarily a national service. The satel-
+lites currently used by DBS providers occupy one of three positions
+in the Earth's orbit (called full CONUS slots) that allow the satellites
+to transmit a single beam covering the entire continental United
+States. The beam from a full CONUS satellite contains multiple fre-
+quencies, and compression technology enables multiple television
+channels to be carried on each frequency. The FCC licenses the use
+of 32 frequencies at each orbital slot; thus, there are 96 total frequen-
+cies that satellite carriers can use to reach satellite subscribers across
+the United States. Currently, 50 of these frequencies are licensed to
+EchoStar and 46 to DirecTV. Using their current compression ratios,
+EchoStar and DirecTV each have the ability to carry between 450 and
+500 channels via full CONUS satellites. Every channel carried on
+these satellites is beamed to the homes of all subscribers; however,
+channels that individual subscribers do not pay to receive are blocked
+by the use of software in the subscriber's home satellite equipment.
+
+    Like cable, satellite service is financed by subscription fees, and it
+offers better picture quality and more viewing options than broadcast
+television. Satellite carriers can provide their customers with more
+national and regional non-broadcast channels than most cable sys-
+tems; yet before SHVIA was passed, satellite carriers had difficulty
+competing with cable for urban and suburban customers. The root
+cause of this difficulty was plain. Cable systems, but not satellite car-
+riers, provided their customers with access to the signals of local
+broadcast stations. This competitive advantage was rooted not only in
+technology but also in federal copyright law. Unlike satellite carriers,
+____________________________________________________________
+
+    3 Our figures about the market shares of broadcast television, cable, and
+satellite are drawn from In the Matter of: Annual Assessment of the Sta-
+tus of Competition in the Market for the Delivery of Video Programming,
+Seventh Annual Report, CS Docket No. 00-132, 2001 WL 12938 (2001)
+(FCC Seventh Annual Report). The figures reflect industry data through
+June 2000. See id. at 106. The broadcasters contend that satellite service
+has grown significantly since June 2000 and that satellite market share
+now exceeds 15 percent of television households.
+
+                                                                             10
+cable operators have never been required to obtain copyright clear-
+ances for the broadcast programming they retransmit to their sub-
+scribers. To explain the origins of cable's competitive advantage over
+satellite, we must briefly review the history that produced the current
+legal regime governing the relationships among cable, broadcast tele-
+vision, and satellite.
+
+    In 1965, long before cable became a major force in the television
+programming delivery market, the FCC imposed "must-carry" rules
+on cable systems requiring them to retransmit the signal of any
+requesting broadcast station that was "significantly viewed" in its
+local market. See Quincy Cable TV, Inc. v. FCC, 768 F.2d 1434,
+1438-43 (D.C. Cir. 1985) (discussing the early history of cable regu-
+lation). The FCC feared that cable might undermine free, local broad-
+casting unless "local broadcasters were assured access to the whole of
+their allocated audience." Id. at 1441. Specifically, the must-carry
+rules were designed to aid newer UHF stations, which lacked the sig-
+nal quality enjoyed by more established VHF stations. The FCC was
+concerned that in the absence of carriage obligations cable systems
+would carry only VHF stations and that non-carried UHF stations
+would be placed at a competitive disadvantage in the race for adver-
+tising dollars. See id.
+
+    Copyright law had little effect on cable until Congress passed the
+Copyright Act of 1976, Pub. L. No. 94-553, 90 Stat. 2541, which pro-
+vides that owners of copyrights in audiovisual works such as televi-
+sion programs have the exclusive right to authorize public
+performances of those works. 17 U.S.C. § 106(4). Although the
+Copyright Act of 1909 had granted copyright holders a similar right
+to control public performances of copyrighted works, cable operators'
+secondary transmissions of broadcast programs were not regarded as
+additional performances of those programs under the 1909 Act and
+thus did not infringe upon the intellectual property rights of the pro-
+gram copyright holders. See Fortnightly Corp. v. United Artists Tele-
+vision, Inc., 392 U.S. 390, 400-01 (1968). The 1976 Act's legislative
+history reveals that Congress intended to countermand the result in
+Fortnightly by designating cable's secondary transmissions of broad-
+cast programs as public performances of those programs: "a cable
+television system is performing when it retransmits the broadcast [of
+a television program] to its subscribers." H.R. Rep. No. 94-1476, at
+
+                                                                             11
+63 (1976), reprinted in 1976 U.S.C.C.A.N. 5659, 5677. As a result,
+copyright law now generally requires parties seeking to retransmit the
+signal of a broadcast television station to obtain authorization from
+those holding copyrights in each of the programs broadcast by that
+station. Cable operators, however, have never been subject to this
+general rule. Congress found "that it would be impractical and unduly
+burdensome to require every cable system to negotiate with every
+copyright owner whose work was retransmitted by a cable system."
+Id. at 89, 1976 U.S.C.C.A.N. at 5704. As a result, the 1976 Copyright
+Act granted cable operators a statutory license that allows them to
+retransmit broadcast television signals without securing authorization
+from program copyright holders. See 17 U.S.C. § 111(c).
+
+    As cable grew in popularity, cable operators and cable program-
+mers began to chafe at the FCC's must-carry rules. Eventually, cable
+interests challenged the rules as an unconstitutional burden on free-
+dom of speech, and the rules were struck down by the D.C. Circuit
+in 1985. See Quincy Cable TV, 768 F.2d at 1463. The FCC moved
+quickly to adopt a modified set of carriage rules, but the D.C. Circuit
+again decided that the rules violated the First Amendment. See Cen-
+tury Communications Corp. v. FCC, 835 F.2d 292, 293 (D.C. Cir.
+1987). After a period of several years during which cable enjoyed the
+benefits of a statutory copyright license without the burdens of car-
+riage obligations, Congress reimposed must-carry rules by passing the
+Cable Television and Consumer Protection and Competition Act of
+1992 (Cable Act). Pub. L. No. 102-385, 106 Stat. 1460. Like the
+FCC's original must-carry rules, the Cable Act's must-carry rules
+were designed to protect broadcast stations that might be refused car-
+riage in the absence of a must-carry requirement.
+
+    The Cable Act must-carry rules were also challenged on First
+Amendment grounds, but were ultimately upheld by the Supreme
+Court in Turner Broadcasting System, Inc. v. FCC, 512 U.S. 622
+(1994) (Turner I), and Turner Broadcasting System, Inc. v. FCC, 520
+U.S. 180 (1997)(Turner II). In Turner I the Supreme Court held that
+the must-carry rules were content-neutral restrictions on speech, Tur-
+ner I, 512 U.S. at 662, reviewable under the intermediate First
+Amendment scrutiny standards established by United States v.
+O'Brien, 391 U.S. 367 (1968). The Court further recognized that the
+interests served by the must-carry rules — preserving local broadcast
+
+                                                                             12
+television, promoting the "widespread dissemination of information
+from a multiplicity of sources," and promoting fair competition in the
+television programming market — were important "in the abstract."
+Turner I, 512 U.S. at 662-63. However, the Court remanded the case
+for further factual development on the question of whether these inter-
+ests were genuinely advanced by the must-carry rules and whether the
+rules were a narrowly tailored means of promoting these interests.
+After the remand the Court held in Turner II that the cable must-carry
+rules fully satisfied the O'Brien test. As a result, cable operators today
+enjoy the privileges of a statutory copyright license but are also bound
+by carriage obligations.
+
+    As the above history indicates, the cable industry developed within
+a context of extensive FCC regulations, but it has been largely unaf-
+fected by copyright considerations. Before 1976, cable retransmis-
+sions of broadcast programs were not regarded as additional
+performances of these programs and therefore did not infringe pro-
+gram copyrights. Since 1976, cable has enjoyed a statutory copyright
+license. In contrast, the satellite industry has until recently enjoyed
+relative freedom from FCC oversight, but its history has been shaped
+by a series of changes in federal copyright law. When the 1976 Copy-
+right Act was passed, home satellite service did not exist, and the stat-
+utory copyright license created by 17 U.S.C. § 111(c) was granted
+only to cable systems. Although early satellite carriers lacked the
+channel capacity to retransmit the signals of local broadcast stations
+to the local audiences of those stations (called "local-into-local" ser-
+vice), the carriers did have the capacity and the desire to offer their
+subscribers some distant network signals. In other words, they had
+enough capacity to carry the signals of network affiliates in a major
+city (usually New York) throughout the entire country, but not
+enough capacity to carry local network affiliates in smaller cities. It
+was unclear, however, whether satellite carriers' secondary transmis-
+sions of the signals of network affiliates infringed the copyrights in
+the various programs broadcast by those stations. Satellite carriers
+argued that they might be eligible to use the § 111 copyright license
+as "cable systems," 17 U.S.C. § 111(c), or that their secondary trans-
+missions of broadcast signals were noninfringing under the exemption
+for passive carriers in 17 U.S.C. § 111(a)(3). Still, they asked Con-
+gress to resolve the uncertainties about their copyright liability by
+passing new legislation.
+
+                                                                             13
+    Congress responded with the Satellite Home Viewer Act of 1988.
+Pub. L. No. 100-667, 102 Stat. 3949. Recognizing that the high trans-
+action costs involved in clearing the rights to network signals might
+impede the growth of the fledgling satellite industry, Congress gave
+carriers a limited copyright license to retransmit the signals of distant
+network broadcast stations to unserved households that were unable
+to receive an adequate over-the-air signal through a conventional
+rooftop antenna. 17 U.S.C. § 119(a)(2)(B) (1994), amended by
+§ 119(a)(2)(B) (Supp. V 1999). "Unserved households" were defined
+in part as those located outside a station's "Grade B contour," as
+defined by FCC regulations. Id. § 119(d)(10) (1994), amended by
+§ 119(d)(10) (Supp. V 1999). Congress limited the copyright license
+to retransmissions to unserved households in order to respect the
+terms of network-affiliate contracts, which grant local affiliates the
+exclusive right to broadcast their networks' programming in their
+local markets. Congress reasoned that local affiliates would lose the
+benefits of their bargained-for exclusivity rights if satellite carriers
+were allowed to import distant network signals into the affiliates'
+local markets. The limited license created by the 1988 Act spurred the
+growth of satellite carriers and expanded the viewing options of
+unserved households, though it did little to help satellite effectively
+compete with cable in urban and suburban areas where viewers could
+already receive high quality broadcast signals.
+
+    In the late 1990s two problems led Congress to revisit its work in
+the Satellite Home Viewer Act of 1988. First, cable continued to
+enjoy a virtual monopoly in subscription television services in metro-
+politan areas, and as a result cable subscribers were paying too much
+for those services. See S. Rep. No. 106-51, at 1-2 (1999). Second, the
+1988 Act failed to deal adequately with the problems of satellite sub-
+scribers who lived within the Grade B contours of network television
+stations. Although these subscribers were ineligible to receive distant
+network signals under the 1988 Act's limited copyright licence, many
+of them were unable to receive satisfactory over-the-air signals from
+their local network affiliates and thus remained without any meaning-
+ful access to network programming. See id. at 3-6. In addition, admin-
+istrative difficulties in deciding which households were genuinely
+unserved led to increasingly bitter disputes between satellite carriers
+and broadcasters, leaving bewildered, angry consumers stuck in the
+
+                                                                             14
+middle. See, e.g., ABC, Inc. v. Primetime 24, 17 F.Supp.2d 478
+(M.D.N.C. 1998), aff'd, 184 F.3d 348 (4th Cir. 1999).
+
+    Progress in satellite technology seemed to hold out a solution to
+both of these problems. Satellite carriers had developed the channel
+capacity to offer local-into-local service to their subscribers in some
+markets. Congress recognized that satellite carriers that could offer
+viewers access to their local broadcast stations could compete effec-
+tively with cable and drive down the price of subscription television
+services. See H.R. Rep. No. 106-79, pt. 1, at 14 (1999). In addition,
+Congress understood that the difficulties in deciding which house-
+holds were sufficiently unserved to receive distant network signals
+would be irrelevant if satellite subscribers could watch their local net-
+work affiliates. See id.
+
+    In 1997 and 1998 Congress conducted extensive hearings on the
+possibility of extending the satellite carriers' statutory copyright
+license to include local-into-local retransmissions. Representatives
+from the various industries had ample opportunities to state their
+views. Satellite industry representatives argued that without a statu-
+tory copyright license, the high transaction costs of obtaining the
+rights to retransmit broadcast programs would effectively prevent sat-
+ellite carriers from offering local-into-local service. The satellite rep-
+resentatives further explained that their inability to carry local
+broadcast stations placed them at a competitive disadvantage to cable
+because viewers want to be able to receive all of the television chan-
+nels they watch from a single source: "most people who walk into a
+satellite dealer's showroom turn around and walk out because they
+can't get their local TV channels through DBS." Reauthorization of
+the Satellite Home Viewer Act: Hearing Before the Subcommittee on
+Telecommunications, Trade, and Consumer Protection of the House
+Committee on Commerce, 106th Cong. 73 (1999) (1999 House Hear-
+ing) (statement of David Moskowitz, an EchoStar executive). The
+cable representatives stressed the need for regulatory parity, arguing
+that if satellite carriers were granted a statutory license comparable to
+that enjoyed by cable, they should also be subject to the must-carry
+rules and other regulatory constraints imposed on cable. See The
+Copyright Office Report on Compulsory Licensing of Broadcast Sig-
+nals: Hearing Before the Senate Committee on the Judiciary, 105th
+Cong. 50 (1997) (statement of Decker Anstrom, President, National
+
+                                                                             15
+Cable Television Association). Finally, representatives of the broad-
+cast industry emphasized that mandatory carriage rules were needed
+to ensure that satellite local-into-local service would not undermine
+Congress's interest in preserving a vibrant system of free, local broad-
+cast television. They explained that without carriage rules satellite
+carriers would choose to retransmit only the signals of major network
+affiliates in most markets and that competing stations in those markets
+would suffer from the loss of access to a significant (and growing)
+part of their potential audiences:
+
+            No rational doubt may exist that a local station denied
+            access to a portion of its inmarket audience is injured. Lack
+            of carriage reduces potential audience and, therefore, actual
+            audience. Reduced audiences translate to reduced revenue.
+            Even where revenue reductions are less than fatal, they still
+            affect a station's ability to provide the best practicable ser-
+            vice to the public. At best, a local station which a satellite
+            carrier refuses to carry would be placed at a demonstrable
+            disadvantage vis-a-vis competing broadcast television sta-
+            tions which are carried.
+
+Copyright Licensing Regimes Covering Retransmission of Broadcast
+Signals (Part II): Hearing Before the Subcommittee on Courts and
+Intellectual Property of the House Committee on the Judiciary, 105th
+Cong. 68 n.38 (1998) (1998 House Hearing) (statement of James J.
+Popham, Vice President and General Counsel, Association of Local
+Television Stations).
+
+    Congress sought to balance all of these concerns when it enacted
+SHVIA on November 29, 1999. The Conference Report explained
+that the legislation was designed to promote competition between sat-
+ellite and cable while "preserv[ing] free television for those not
+served by satellite or cable systems." SHVIA Conf. Rep. at 101. Two
+interrelated provisions form the heart of SHVIA. The first provision,
+codified at 17 U.S.C. § 122, amended the Copyright Act to create a
+statutory copyright license for satellite carriers similar to that enjoyed
+by cable operators. The license enables satellite carriers to make sec-
+ondary transmissions of a broadcast station's signal into that station's
+local market without obtaining the authorization of those holding
+copyrights in the individual programs broadcast by that station. 17
+
+                                                                             16
+U.S.C. § 122(a). Satellite carriers that make use of this license pay no
+royalties to program copyright holders. The second provision, codi-
+fied at 47 U.S.C. § 338, amended the Communications Act of 1934
+by creating mandatory carriage rules, including the carry one, carry
+all rule that is the focus of this litigation. 47 U.S.C. § 338(a)(1).
+
+    Since SHVIA's passage in late 1999 satellite carriers have enjoyed
+the benefits of the § 122 license without the burdens of the carry one,
+carry all rule. In order to phase in satellite carriage obligations, Con-
+gress decided that the rule would not become effective until January
+1, 2002. Id. § 338(a)(3). As of that date the rule will require all satel-
+lite carriers who use the § 122 license to make local-into-local retran-
+smissions in a local broadcast market to "carry upon request the
+signals of all television broadcast stations located within that local
+market." Id. § 338 (a)(1). In other words, the voluntary decision to
+carry one local station in a market under the statutory copyright
+license will trigger an obligation to carry all the requesting stations in
+that market.4
+
+    Like the cable must-carry rules, SHVIA's carry one, carry all rule
+was designed to preserve a rich mix of broadcast outlets for consum-
+ers who do not (or cannot) pay for subscription television services.
+SHVIA adopts much of the machinery of the cable rules. For exam-
+ple, broadcast stations may seek carriage from satellite carriers
+under either § 338's mandatory carriage requirements, 47 U.S.C.
+§ 325(b)(1)(C), or under the Act's retransmission consent provision,
+47 U.S.C. § 325(b)(1)(A), which allows broadcast stations to receive
+compensation from satellite carriers in exchange for permission to
+retransmit the broadcast stations' signals. In allowing broadcasters to
+____________________________________________________________
+
+    4 The obligations imposed by the carry one, carry all rule are more lim-
+ited than the name implies. Satellite carriers are not required to carry
+local commercial stations whose signals substantially duplicate those of
+another station in the same market. 47 U.S.C. § 338(c)(1). In addition,
+satellite carriers are not required to carry more than one affiliate of a
+given network in any local market unless the market contains two affili-
+ates of the same network that are licensed to serve communities in differ-
+ent states. Id. Finally, Congress instructed the FCC to issue regulations
+limiting satellite carriers' obligations to carry multiple noncommercial
+broadcast stations in the same market. Id. § 338(c)(2).
+
+                                                                             17
+choose between retransmission consent and mandatory carriage, both
+SHVIA's carry one, carry all rule and the cable must-carry rules rec-
+ognize the practical realities of the television marketplace. Major net-
+work affiliates have bargaining power and will be carried voluntarily
+in most instances, so they will normally elect to proceed under the
+retransmission consent provision. See Turner II, 520 U.S. at 191
+(explaining that the Cable Act's retransmission consent provision
+reflects the "popularity and strength of some broadcasters"). In con-
+trast, independent stations (affiliates of emerging networks, indepen-
+dent commercial stations, and noncommercial stations) may need the
+protection of must-carry rules and will normally elect mandatory car-
+riage.
+
+    The primary difference between § 338 and the cable must-carry
+rules is that § 338's obligations are conditioned upon the satellite car-
+rier's voluntary choice to make use of the § 122 license in a particular
+television market, but the cable must-carry rules are mandatory in all
+markets. This difference reflects the technological dissimilarities
+between cable and satellite. Cable systems are local, and nearly all
+have enough channel capacity to carry all the broadcast stations in
+their local market and still provide an attractive mix of national and
+regional non-broadcast programming. The satellite carriers, in con-
+trast, currently beam the same 450 to 500 channels throughout the
+continental United States and thus could not comply with a rule
+requiring them to retransmit the signals of each of the country's
+roughly 1,600 local broadcast stations. See 1999 House Hearing at 95
+(statement of David Moskowitz). While Congress recognized that sat-
+ellite technology continues to improve and that eventually an uncon-
+ditional must-carry rule might be possible, it still had to decide how
+to structure the satellite copyright license in the interim.5
+____________________________________________________________
+
+    5 Congress, for example, heard testimony from satellite executives out-
+lining plans to develop spot beam satellites, which will have a much
+smaller footprint (geographic area where the satellite's beam is received)
+than the satellites currently orbiting in full CONUS slots. See H.R. Rep.
+No. 106-79, pt. 1, at 14 (1999); Satellite/Cable Competition: An Exami-
+nation of the EchoStar/MCI Deal. Hearing Before the Subcommittee on
+Antitrust, Business Rights, and Competition of the Senate Committee on
+the Judiciary, 106th Cong. 40-41 (1999) (1999 Senate Hearing) (state-
+ment of Charles Ergen, CEO of EchoStar). These satellites will permit
+
+                                                                             18
+    Although minor variations were possible, Congress had two basic
+options. It could have decided to give satellite carriers a station-by-
+station copyright license that could be used free of carriage obliga-
+tions. Under such a license, satellite carriers could "cherry pick" the
+stations they wanted in each local market. Congress predicted that in
+practical terms a station-by-station license would result in satellite
+carriers using their available local-into-local capacity to carry only the
+major network affiliates in as many markets as possible, beginning
+with the largest markets and working toward the smaller ones. The
+other choice was to impose the carry one, carry all rule in order to
+create a market-by-market copyright license. This kind of license
+forces satellite carriers to expand their local-into-local service one
+market at a time, beginning with the carriage of all requesting local
+stations in the largest markets and expanding from there. In sum,
+Congress either could have allowed satellite carriers to cherry pick by
+retransmitting some stations (the major network affiliates) in many
+markets, or it could have allowed satellite carriers to retransmit all of
+the stations in some markets. While satellite carriers would have pre-
+ferred (and now argue for) the first result, Congress chose the second
+because it feared that cherry picking of major network affiliates
+within local markets would make it more difficult for non-carried sta-
+tions in those markets to reach their audiences:
+
+            Although the conferees expect that subscribers who receive
+            no broadcast signals at all from their satellite service may
+            install antennas or subscribe to cable service in addition to
+            satellite service, the Conference Committee is less sanguine
+            that subscribers who receive network signals and hundreds
+            of other programming choices from their satellite carrier
+            will undertake such trouble and expense to obtain over-the-
+            air signals from independent broadcast stations.
+____________________________________________________________
+
+carriers to reuse their allotted spectrum frequencies in different geo-
+graphic areas and will thereby increase the channel capacity carriers can
+use to offer local-into-local service. One reason why Congress decided
+to delay implementation of § 338 until January 1, 2002, was to give sat-
+ellite carriers time to develop this new technology. See S. Rep. No. 106-
+51, at 14 (1999).
+
+                                                                             19
+SHVIA Conf. Rep. at 102. Non-carried stations in cherry-picked mar-
+kets would "face the same loss of viewership Congress previously
+found with respect to cable noncarriage." Id. at 101. Congress there-
+fore concluded that the carry one, carry all rule would protect the abil-
+ity of all local broadcasters to reach their audiences and thereby
+"preserve free television for those not served by satellite or cable sys-
+tems and . . . promote widespread dissemination of information from
+a multiplicity of sources." Id.
+
+                                                                             B.
+
+    As directed by Congress, see 47 U.S.C. § 338(g), the FCC issued
+a report and order implementing § 338's carriage requirements on
+November 29, 2000. In the Matter of: Implementation of the Satellite
+Home Viewer Improvement Act of 1999: Broadcast Signal Carriage
+Issues, Retransmission Consent Issues, CS Docket Nos. 00-96 and 99-
+363 (2000) (SHVIA Order). The only aspect of the SHVIA Order at
+issue here is the a la carte rule adopted in paragraph 99 of the order.
+The FCC concluded in that paragraph that § 338(d) does not require
+satellite carriers to sell all local television stations in a given market
+as one package. Instead, the Commission ruled that carriers could
+offer local stations "as a package or a la carte, at comparable rates."
+SHVIA Order at ¶ 99. This language would arguably permit satellite
+carriers to offer their subscribers a package including only the major
+network affiliates while offering independent broadcast stations only
+on an a la carte basis. However, in a subsequent order issued while
+these cases were under consideration, the FCC clarified its a la carte
+rule by stating that satellite carriers may not offer their subscribers a
+package including some subset of the local stations in a market (for
+example, the major network affiliates) while offering other local sta-
+tions on an individual basis. See In the Matter of: Implementation of
+the Satellite Home Viewer Improvement Act of 1999: Broadcast Sig-
+nal Carriage Issues, Order on Reconsideration, CS Docket No. 00-
+96, at ¶ 48 (2001) (Reconsideration Order). In other words, the Com-
+mission has now ruled that satellite carriers offering local-into-local
+service may offer their subscribers only two options: subscribers may
+buy the local stations of their choice a la carte at comparable prices,
+or they may buy a package of all the local stations for a price less than
+or equal to the cost of subscribing to all the stations individually (for
+
+                                                                             20
+example, 12 stations at one dollar each or all 12 for $12 or less). See
+id.
+
+                                                                             C.
+
+    The present SHVIA litigation began on September 20, 2000, when
+SBCA, DirecTV, EchoStar, and DISH Network filed a complaint in
+the United States District Court for the Eastern District of Virginia
+alleging that SHVIA's carry one, carry all rule, 47 U.S.C. § 338(a)(1),
+exceeds Congress's power under the Copyright Clause and violates
+the First Amendment and the Due Process and Takings Clauses of the
+Fifth Amendment. NAB and PBS intervened on the side of the FCC
+in order to defend the statute. The satellite carriers moved for sum-
+mary judgment, but the FCC and its supporting intervenors filed Rule
+56(f) motions requesting discovery in order to respond to the satellite
+carriers' motion. The district court granted their motions, and discov-
+ery began. The FCC and its supporting intervenors then filed a Rule
+12(b)(6) motion to dismiss and (ultimately) a cross-motion for sum-
+mary judgment. After the parties had conducted extensive discovery
+in support of their summary judgment motions, the district court
+granted the FCC and its intervenors' motion to dismiss on June 19,
+2001. See Satellite Broad. & Communications Ass'n v. FCC, 146
+F.Supp.2d 803, 809 (E.D. Va. 2001). The district court treated the
+carry one, carry all rule as a content-neutral regulation of the satellite
+carriers' speech and upheld the rule under intermediate First Amend-
+ment scrutiny. In addition, the court rejected the satellite carriers'
+arguments alleging violations of the Copyright Clause and the Fifth
+Amendment. The satellite carriers appealed. That appeal has been
+consolidated with three petitions for review of the FCC's SHVIA
+Order. SBCA filed a petition for review of the SHVIA Order in this
+circuit, and EchoStar filed a similar petition in the Tenth Circuit. Both
+petitions advanced constitutional challenges to SHVIA similar to
+those advanced by the satellite carriers in the Eastern District of Vir-
+ginia. NAB filed a petition for review in the D.C. Circuit challenging
+the FCC's a la carte rule as arbitrary, capricious, and not in accor-
+dance with law. See 5 U.S.C. § 706(2)(A). Paxson Communications
+intervened in this last petition on the side of NAB. The three petitions
+for review were consolidated and assigned to this circuit pursuant to
+28 U.S.C. § 2112(a)(3).
+
+                                                                             21
+                                                                             II.
+
+                                                                             A.
+
+    The parties devote the lion's share of their attention to the satellite
+carriers' First Amendment challenge to the carry one, carry all rule
+enacted in 47 U.S.C. § 338. Satellite carriers, like cable operators,
+function primarily as conduits for the speech of others. They transmit
+programming from a variety of sources (national and regional non-
+broadcast channels, superstations, and local broadcast stations) to
+their subscribers "on a continuous and unedited basis." Turner I, 512
+U.S. at 629. Yet both satellite carriers and cable operators engage in
+speech protected by the First Amendment when they exercise edito-
+rial discretion over the menu of channels they offer to their subscrib-
+ers. See id. at 636-37. Insofar as the carry one, carry all rule seeks to
+influence the exercise of that discretion, it is open to challenge under
+the First Amendment.
+
+    It is important to be clear at the outset, however, that some of the
+speech interests present in the Turner cases are absent here. The cable
+must-carry rules burdened the speech of cable programmers who had
+to be dropped from some cable systems in order to make room for
+local broadcast stations. See id. at 675 (O'Connor, J., dissenting). To
+the extent the First Amendment guarantees viewers and listeners the
+right to receive information, see Bd. of Educ. Island Trees Union Free
+School Dist. v. Pico, 457 U.S. 853, 867 (1982) (plurality opinion);
+Red Lion Broad. Co. v. FCC, 395 U.S. 367, 390 (1969), that right was
+also burdened by the cable must-carry rules because the voices of
+dropped cable programmers were effectively lost to entire communi-
+ties. Here, however, the satellite carriers do not claim that the carry
+one, carry all rule will force them to drop national or regional non-
+broadcast programmers in order to carry more local broadcasters.
+They claim only that they will have to carry independent broadcast
+stations in larger markets at the expense of major network affiliates
+in smaller markets. See Brief for Petitioners SBCA and EchoStar at
+26-27, 35 n.13. While those major network affiliates would no doubt
+prefer to be carried on satellite services, the carry one, carry all rule
+does not deprive those affiliates of the ability to reach their audiences.
+In fact, they will be in exactly the same position under the carry one,
+carry all rule that they would have occupied if SHVIA had never been
+
+                                                                             22
+passed. Nor will any voices be completely lost to communities as a
+result of the carry one, carry all rule. The rule's only negative effect
+on viewers will be that the major network affiliates in some markets
+will be available to local viewers through only two mediums (broad-
+cast and cable) rather than three. In sum, the carry one, carry all rule
+burdens speech only to the extent that it affects satellite carriers' deci-
+sions about how to allocate their capacity for offering local-into-local
+service by inducing them to carry a different set of local broadcasters
+than the carriers would have preferred.
+
+    In considering the satellite carriers' First Amendment challenge,
+our first task is to determine the appropriate standard of review. Tur-
+ner I provides the starting point. In that case the Supreme Court held
+that the cable must-carry rules were content-neutral restrictions on
+speech and were therefore not subject to strict scrutiny. See Turner I,
+512 U.S. at 662. Here, the satellite carriers repeat many of the same
+arguments for strict scrutiny that were examined and rejected in Tur-
+ner I. Although the satellite carriers labor mightily to distinguish that
+case, their effort ultimately fails.
+
+    The Supreme Court has said that the "`principal inquiry in deter-
+mining content neutrality . . . is whether the government has adopted
+a regulation of speech because of [agreement or] disagreement with
+the message it conveys.'" Id. at 642 (quoting Ward v. Rock Against
+Racism, 491 U.S. 781, 791 (1989)). This inquiry involves two steps.
+"First, we must examine the plain terms of the regulation to see
+whether, on its face, the regulation confers benefits or imposes bur-
+dens based upon the content of the speech it regulates." Chesapeake
+and Potomac Tel. Co. of Va. v. United States, 42 F.3d 181, 193 (4th
+Cir. 1994), vacated on other grounds, 516 U.S. 415 (1996). If it does
+not, we then ask whether the regulation's "`manifest purpose is to reg-
+ulate speech because of the message it conveys.'" Id. (quoting Turner
+I, 512 U.S. at 645).
+
+    The text of § 338(a)(1) provides:
+
+            [E]ach satellite carrier providing, under section 122 of Title
+            17, secondary transmissions to subscribers located within
+            the local market of a television broadcast station of a pri-
+            mary transmission made by that station shall carry upon
+
+                                                                             23
+            request the signals of all television broadcast stations
+            located within that local market.
+
+47 U.S.C. § 338(a)(1). On its face, the rule confers benefits on a
+content-neutral basis because satellite carriers must carry all request-
+ing local broadcast stations regardless of the content of their program-
+ming. Cf. Turner I, 512 U.S. at 645 ("The [must-carry] rules benefit
+all full power broadcasters who request carriage — be they commer-
+cial or noncommercial, independent or network affiliated, English or
+Spanish language, religious or secular."). The satellite carriers argue,
+however, that the carry one, carry all rule is content-based on its face
+because its burdens are triggered by a satellite carrier's decision to
+transmit certain content, namely, the signal of a local television sta-
+tion.
+
+    We disagree. SHVIA's carriage obligations are not triggered sim-
+ply by the decision to carry a local broadcast station in a given mar-
+ket. Instead, they are triggered by the decision to carry that station by
+making use of the § 122 license. A satellite carrier that privately nego-
+tiates the required copyright clearances can retransmit the signal of a
+local broadcast station without incurring any carriage obligations, but
+a carrier that retransmits the same signal by means of the statutory
+copyright license must comply with the carry one, carry all rule. Thus,
+the burdens of the rule do not depend on a satellite carrier's choice
+of content, but on its decision to transmit that content by using one
+set of economic arrangements rather than another. Accordingly, we
+hold that the carry one, carry all rule is content neutral on its face.
+
+    Next, we must decide whether the carry one, carry all rule is
+content-based in its purpose. The satellite carriers claim that the rule
+has a content-based purpose because it seeks to promote the survival
+of independent broadcast stations, including affiliates of emerging
+networks, commercial independent stations, and public broadcasting
+stations. In support of this claim they cite language from the Confer-
+ence Report indicating that Congress was concerned that satellite car-
+riers would choose to carry only affiliates of the major networks and
+that other local broadcasters would be cut off from portions of their
+potential viewing audiences. See SHVIA Conf. Rep. at 102. In addi-
+tion, the satellite carriers rely on legislative history suggesting that
+Congress sought to protect local broadcast stations because those sta-
+
+                                                                             24
+tions provide valuable news and public affairs programming to their
+communities. See id. at 92.
+
+    Again, we conclude that these points do not distinguish the present
+case from Turner I. Both Congress and the Supreme Court understood
+perfectly well that the cable must-carry rules primarily benefitted
+independent broadcast stations. See Turner I, 512 U.S. at 672-73 (Ste-
+vens, J., concurring in part and concurring in the judgment); Turner
+II, 520 U.S. at 191-92. Similarly, the statutory findings included in the
+Cable Act described broadcast television as "an important source of
+local news and public affairs programming, and other local broadcast
+services critical to an informed electorate," Cable Act § 2(a)(11), 106
+Stat. at 1461, and stated that noncommercial television "provides edu-
+cational and informational programming to the Nation's citizens," id.
+§ 2(a)(8)(A), 106 Stat. at 1461. Nevertheless, the Court determined
+that neither must-carry's benefits to independent broadcast stations
+nor Congress's recognition of the distinctive value of local program-
+ming revealed a content-based purpose. Instead, the Court concluded,
+"Congress' overriding objective in enacting must-carry was not to
+favor programming of a particular subject matter, viewpoint, or for-
+mat, but rather to preserve access to free television programming for
+the 40 percent of Americans without cable." Turner I, 512 U.S. at
+646. According to the Court, Congress's findings did not show a
+content-based preference for broadcast television over cable televi-
+sion; they merely indicated that local broadcast television was intrin-
+sically valuable and therefore worth preserving. Id. at 648. In sum,
+Turner I held that the cable must-carry rules were content neutral in
+purpose even though the rules were meant to protect independent
+broadcast stations and even though Congress recognized that those
+stations provided valuable local programming. Here, the satellite car-
+riers do no more than point to legislative history indicating that Con-
+gress had the same purpose in enacting SHVIA and that Congress
+continued to appreciate the distinctive value of local broadcast pro-
+gramming. This is not enough to establish that SHVIA has a content-
+based purpose.
+
+    We conclude, then, that the carry one, carry all rule should not be
+subject to strict scrutiny. At most, it is a content-neutral measure that
+imposes incidental burdens on speech and is therefore subject to inter-
+mediate First Amendment scrutiny under United States v. O'Brien,
+
+                                                                             25
+391 U.S. 367 (1968). Because, as we explain below, the carry one,
+carry all rule passes constitutional muster under O'Brien, we need not
+address the FCC and its intervenors' argument that the rule should be
+evaluated under a more lenient standard.6
+
+                                                                             B.
+
+    O'Brien directs us to uphold a content-neutral regulation of speech
+if "it furthers an important or substantial governmental interest; if the
+governmental interest is unrelated to the suppression of free expres-
+sion; and if the incidental restriction on alleged First Amendment
+freedoms is no greater than is essential to the furtherance of that inter-
+est." O'Brien, 391 U.S. at 377. Deciding whether an interest is impor-
+tant or substantial and whether that interest is unrelated to the
+suppression of free expression is usually simple enough, but this is
+only the beginning of the inquiry. As the Turner cases explain, the
+O'Brien standard gets its bite from a two-part analysis. First, we must
+determine whether the regulation materially advances an important or
+substantial interest by redressing past harms or preventing future
+ones. These harms must be "real, not merely conjectural," and the reg-
+ulation must "alleviate these harms in a direct and material way." Tur-
+ner I, 512 U.S. at 664. If a regulation places even incidental burdens
+on speech without yielding some genuine benefit, it must be struck
+down. In making these evaluations, we must "accord substantial def-
+erence to the predictive judgments of Congress." Id. at 666. Our "sole
+obligation is to assure that, in formulating its judgments, Congress has
+____________________________________________________________
+
+    6 The FCC and the broadcasters argue that because § 338's carriage
+obligations are triggered by a satellite carrier's voluntary decision to
+make use of the § 122 license, the carry one, carry all rule does not
+impose a burden on speech at all and should therefore be subject only to
+rational basis review. They point out that SHVIA grants satellite carriers
+a valuable benefit (the statutory copyright license) and places conditions
+on the use of that benefit, but does not deprive the carriers of any rights
+they possessed before SHVIA was enacted. Accordingly, the FCC and
+the broadcasters contend that SHVIA's statutory copyright license should
+be seen as a targeted government subsidy by analogy to Rust v. Sullivan,
+500 U.S. 173 (1991), and similar cases. As noted above, we find it
+unnecessary to address this argument because we conclude that the carry
+one, carry all rule is consistent with the First Amendment even if it is
+treated as a content-neutral burden on satellite carriers' speech.
+
+                                                                             26
+drawn reasonable inferences based on substantial evidence." Turner
+II, 520 U.S. at 195 (internal quotation marks and citation omitted). If
+the regulation materially advances some important or substantial
+interest, we then proceed to the second part of the O'Brien analysis
+and ask whether the regulation is narrowly tailored to serve that inter-
+est. The O'Brien narrow tailoring requirement is less rigorous than
+that applied under strict scrutiny. The requirement is met "so long as
+the regulation promotes a substantial government interest that would
+be achieved less effectively absent the regulation." Ward, 491 U.S. at
+799 (internal quotation marks and citation omitted). In other words,
+the regulation must not "burden substantially more speech than is nec-
+essary to further the government's legitimate interests." Id.
+
+    In sum, the carry one, carry all rule satisfies the O'Brien standard
+if the rule materially advances at least one substantial government
+interest in a narrowly tailored manner. The satellite carriers claim that
+the rule is simply a way to promote the interests of some speakers
+(independent broadcasters in large markets) at the expense of others
+(major network affiliates in small and medium-sized markets). Pre-
+dictably, they contend that this interest is not even legitimate, let
+alone substantial or important. We agree that the carry one, carry all
+rule is meant to preserve the ability of independent broadcasters to
+reach their local audiences, but Congress did not view that goal as an
+end in itself. Instead, Congress recognized that protecting independent
+broadcasters from the harmful effects of satellite cherry picking
+would further two substantial government interests. The first is the
+government's interest in preserving a multiplicity of local broadcast
+outlets for over-the-air viewers, those who do not subscribe to satel-
+lite or cable service. The second is the government's interest in pre-
+venting its grant of a statutory copyright license to satellite carriers
+from undermining competition in local markets for broadcast televi-
+sion advertising. Though these two interests are closely related
+because both would be threatened in the same manner without the
+carry one, carry all rule, they are distinct because the first involves
+harms to over-the-air viewers while the second involves harms to
+local advertisers and to independent broadcasters themselves. As we
+explain next in the first part of our O'Brien analysis, we find that both
+interests are materially advanced by the carry one, carry all rule. We
+will now address each interest in turn.
+
+                                                                             27
+                                                                             1.
+
+    Congress enacted the carry one, carry all rule to "preserve free tele-
+vision for those not served by satellite or cable systems and to pro-
+mote widespread dissemination of information from a multiplicity of
+sources." SHVIA Conf. Rep. at 101. These interests are clearly sub-
+stantial and unrelated to the suppression of free expression. See Tur-
+ner I, 512 U.S. at 662-63 (stating that the government's interests in
+"preserving the benefits of free, over-the-air local broadcast televi-
+sion" and "promoting the widespread dissemination of information
+from a multiplicity of sources" were both important and unrelated to
+the suppression of free expression). In deciding whether § 338 materi-
+ally advances these two interests, it is useful to characterize them
+more precisely. We therefore adopt the characterization suggested in
+Turner II, where the Supreme Court treated the two interests as a uni-
+fied whole: "Congress has an independent interest in preserving a
+multiplicity of broadcasters to ensure that all households have access
+to information and entertainment on an equal footing with those who
+subscribe to cable." Turner II, 520 U.S. at 194; see also id. at 193
+(stating that Congress's interest in "preserving the existing structure
+of the broadcast industry discloses a purpose to prevent any signifi-
+cant reduction in the multiplicity of broadcast programming sources
+available to noncable households" (internal quotation marks and cita-
+tion omitted)); id. at 226 (Breyer, J., concurring in part) (describing
+the Cable Act's purpose as "provid[ing] over-the-air viewers who lack
+cable with a rich mix of over-the-air programming" and "assur[ing]
+the over-the-air public access to a multiplicity of information sources"
+(internal quotation marks and citation omitted)). In short, the govern-
+ment interests served by the carry one, carry all rule are best charac-
+terized as a single interest in preserving a multiplicity of broadcast
+outlets for over-the-air viewers.
+
+    This characterization accurately captures the concerns expressed by
+Congress when it enacted § 338. In explaining that a market-by-
+market license promotes both the interest in preserving broadcast tele-
+vision for over-the-air viewers and the interest in promoting wide-
+spread dissemination of information from multiple sources, Congress
+expressed its concern that "absent must-carry obligations, satellite
+carriers would carry the major network affiliates and few other sig-
+nals. Non-carried stations would face the same loss of viewership
+
+                                                                             28
+Congress previously found with respect to cable noncarriage."
+SHVIA Conf. Rep. at 101. In other words, Congress understood that
+the threat to over-the-air viewers was not the loss of broadcasting as
+a medium, but the loss of the independent stations needed to provide
+those viewers with a rich mix of broadcast programming from multi-
+ple sources.
+
+    The proper question, then, is whether the government's interest in
+preserving a multiplicity of broadcast outlets for over-the-air viewers
+is materially advanced by the carry one, carry all rule. The satellite
+carriers appear to concede that the rule would effectively combat any
+real threat to this interest, but the carriers argue that they do not pose
+a real threat. Congress, however, concluded that satellite carriers
+would threaten this interest in the near future if it gave them a statu-
+tory copyright license without imposing carriage rules. See SHVIA
+Conf. Rep. at 101. Our review of that judgment has both factual and
+legal aspects. We must decide whether Congress's factual predictions
+about the consequences of enacting a station-by-station copyright
+license were supported by substantial evidence in the legislative
+record. See Turner II, 520 U.S. at 195-96. We may also look to evi-
+dence outside the legislative record in order to confirm the reason-
+ableness of Congress's predictions. See id. at 196, 204. In addition,
+we must determine whether the predicted set of consequences is
+legally sufficient to count as a real threat to the government's interest
+in preserving a multiplicity of broadcast outlets for over-the-air view-
+ers.
+
+    Congress made extensive statutory findings in enacting the Cable
+Act. See Cable Act § 2(a), 106 Stat. at 1460-63. SHVIA's legislative
+record is less extensive, but this does not affect our duty to accord
+substantial deference to Congress's predictive judgments. "Congress
+is not obligated, when enacting its statutes, to make a record of the
+type that an administrative agency or court does to accommodate judi-
+cial review." Turner I, 512 U.S. at 666; see also Sable Communica-
+tions of Cal., Inc. v. FCC, 492 U.S. 115, 133 (1989) (Scalia, J.,
+concurring) ("Neither due process nor the First Amendment requires
+legislation to be supported by committee reports, floor debates, or
+even consideration, but only by a vote."). We can fairly conclude
+from the legislative record that Congress made the following three
+factual predictions: (1) that satellite carriers would soon capture a sig-
+
+                                                                             29
+nificant part of the television programming delivery market, (2) that
+satellite carriers would continue to deny carriage to significant num-
+bers of independent stations in markets where they chose to offer
+local-into-local service, and (3) that non-carried stations in those mar-
+kets would be harmed by losing access to parts of their potential audi-
+ences. In sum, Congress predicted that if satellite carriers enjoyed a
+statutory copyright license but were not bound by carriage rules, sig-
+nificant numbers of independent broadcast stations would be harmed
+by losing access to significant portions of their audiences. As we
+explain below, each of Congress's predictions was supported by sub-
+stantial evidence. The harder question is the essentially legal one of
+whether the consequences Congress predicted constitute a real threat
+to the government's interest in preserving a multiplicity of local
+broadcast outlets for over-the-air viewers. We begin with the three
+factual predictions, addressing them one by one.
+
+    Congress's prediction that satellite carriers would become a signifi-
+cant force in the television programming delivery market was sup-
+ported by substantial evidence. While Congress did not explicitly find
+that satellite carriers would attain any specific level of market pene-
+tration, it obviously projected that satellite carriers would attract
+enough viewers to put downward pressure on cable rates. Congress
+created the § 122 copyright license to produce this result, see SHVIA
+Conf. Rep. at 91-92; S. Rep. No. 106-51, at 1-3 (1999), and it cannot
+be unreasonable for Congress to proceed on the premise that its own
+legislation will be effective. Moreover, the rapid growth in satellite
+service since SHVIA's enactment suggests that Congress's prediction
+will soon come true. The number of DBS subscribers grew by 28 per-
+cent between June 1999 and June 2000. See FCC Seventh Annual
+Report at ¶ 61. In comparison, cable subscriptions grew at an annual
+rate of less than 1.5 percent. See id. at¶ 65. DBS providers have attri-
+buted much of their growth to the § 122 license. See id. at ¶ 68; see
+also id. at ¶ 69 (stating that SBCA reported a 43 percent increase in
+the number of new DBS subscribers per month in the 6 months fol-
+lowing SHVIA's enactment). In its comments for the FCC's Seventh
+Annual Report, SBCA predicted that DBS service might have as
+many as 16 million subscribers (over 15 percent of American televi-
+sion households) by the end of 2000.7 See id. at ¶ 65. In sum, Con-
+gress's first prediction was entirely reasonable.
+____________________________________________________________
+
+    7 As noted above, see supra note 3, the broadcasters contend that the
+market share of DBS providers now exceeds the 15 percent share fore-
+cast by SBCA in its comments for the FCC's Seventh Annual Report.
+
+                                                                             30
+    Congress's second prediction was that without § 338, satellite car-
+riers would refuse to carry significant numbers of independent broad-
+cast stations in markets where they offered local-into-local service.
+See SHVIA Conf. Rep. at 101. This prediction was supported by sub-
+stantial evidence in the record before Congress. See, e.g., 1999 Senate
+Hearing at 10 (statement of Charles Ergen). In addition, the satellite
+industry's track record under SHVIA has proven the prediction to be
+accurate. As of November 5, 2001, DirecTV carried the four major
+network affiliates in 41 markets (a total of 164 stations), but carried
+a total of only 13 independent stations in those 41 markets. See
+www.skyreport.com/skyreport/local.htm. Similarly, EchoStar carried
+the four major network affiliates in 35 markets (a total of 140 sta-
+tions), but carried only 13 independent stations in those markets. See
+id. Thus, during SHVIA's phase-in period the satellite carriers have
+confined their local-into-local offerings almost exclusively to major
+network affiliates. Moreover, they have plainly announced their inten-
+tion to continue cherry picking the major network affiliates so long
+as they may lawfully do so. This preference for cherry picking will
+not simply wither away because it is rooted in the national character
+of existing satellite technology.
+
+    As we have said, satellite carriers currently beam the same signals
+throughout the nation from satellites orbiting in full CONUS slots. As
+a result, a carrier who chooses to retransmit the signal of an indepen-
+dent commercial station in Boston beams that station's signal to sub-
+scribers nationwide, but blocks out the signal at the homes of all
+subscribers who do not live in the Boston area. As this example illus-
+trates, local-into-local service is a relatively inefficient use of a carri-
+er's finite channel capacity. National programming uses that capacity
+more efficiently because it can be expected to draw more viewers
+across the country as a whole than any local channel, even if the
+national programming is less popular within individual local markets
+than the programming of the independent broadcast stations in those
+markets. As a result, satellite carriers have economic incentives to
+favor national non-broadcast programming over local broadcast pro-
+gramming. While improvements in satellite technology, such as the
+deployment of spot beam satellites, may reduce the inefficiencies that
+result from carrying local broadcast stations, these inefficiencies will
+continue to exist to some degree so long as the beams from individual
+satellites cover multiple television markets. Yet satellite carriers also
+
+                                                                             31
+recognize that their product is less attractive to subscribers if they fail
+to carry the local affiliates of major networks because most people
+watch these stations about "65 percent of the time" they spend watch-
+ing television. 1999 Senate Hearing at 7 (statement of Charles Ergen).
+Under these circumstances, the economically rational choice for satel-
+lite carriers is to cherry pick the major network affiliates in markets
+where the carriers offer local-into-local service. We conclude, then,
+that both the satellite industry's track record and its economic incen-
+tives provide substantial evidence supporting Congress's predictive
+judgment that satellite carriers will deny carriage to significant num-
+bers of independent broadcast stations if the carriers are not bound by
+the carry one, carry all rule.
+
+    Congress's third prediction was that lack of satellite carriage would
+harm independent broadcast stations. See SHVIA Conf. Rep. at 101
+(stating that "[n]on-carried stations would face the same loss of
+viewership Congress previously found with respect to cable noncarri-
+age"). This general prediction rested on the following series of more
+specific predictions about the consequences of non-carriage. First, a
+non-carried station will effectively lose access to satellite subscribers
+if satellite carriers cherry pick the major network affiliates in its market.8
+____________________________________________________________
+
+    8 A non-carried station in a cherry-picked market loses access to satel-
+lite subscribers in that market in the sense that those subscribers will be
+significantly less likely to watch that station than would be the case if the
+subscribers received either all or none of their local stations via satellite.
+This proposition rests on two plausible and widely shared empirical
+assumptions. The first assumption is that television viewers prefer to
+receive all of their programming from one source. For subscribing house-
+holds, satellite becomes the primary source of television programming,
+and it follows that satellite subscribers will be less likely to watch non-
+carried broadcast stations even if they have antennas that can capture a
+clear signal from those stations. The second assumption is that satellite
+subscribers who are able to receive local network signals via satellite will
+be unlikely to obtain or maintain antennas in order to receive indepen-
+dent local broadcast stations. See SHVIA Conf. Rep. at 102. In contrast,
+satellite subscribers who receive no network signals via satellite will
+probably use antennas or subscribe to basic cable in order to have access
+to network signals. This assumption explains why the carry one, carry all
+rule benefits independent broadcast stations even in markets where satel-
+lite carriers do not offer local-into-local service.
+
+                                                                             32
+Second, a station's loss of access to those subscribers will result in
+lower ratings, which will in turn lead to lower advertising revenues.
+Third, lower revenues will lead to a decrease in programming quality,
+which will then further depress ratings and station revenues, all in a
+vicious cycle. The record before Congress contains substantial evi-
+dence to support these predictions. See ante at 16 (statement of James
+J. Popham); Copyright Compulsory License Improvement Act: Hear-
+ings on H.R. 768 Before the Subcommittee on Courts and Intellectual
+Property of the House Committee on the Judiciary, 106th Cong. 47
+(1999) (statement of John Hutchinson, CEO, Local Television on Sat-
+ellite) (stating that "[s]atellite could effectively, like cable, become
+the bottleneck which disenfranchises stations"). Further, the predic-
+tions are essentially the same as those Congress made in passing the
+Cable Act. See Turner II, 520 U.S. at 208-09 (discussing testimony
+from broadcasters that explained how cable non-carriage leads to
+declines in ratings, advertising revenues, and program quality). As the
+Supreme Court explained in Nixon v. Shrink Missouri Government
+PAC, 528 U.S. 377, 391 (2000), the "quantum of empirical evidence
+needed to satisfy heightened judicial scrutiny of legislative judgments
+will vary up or down with the novelty and plausibility of the justifica-
+tion raised." Because the justifications here were both familiar and
+plausible, Congress could reasonably conclude, at the very least, that
+non-carried stations would suffer some degree of harm in the absence
+of the carry one, carry all rule. The extent of that harm would depend,
+of course, on how many potential viewers of non-carried stations
+became satellite subscribers.
+
+    So far, we have established that Congress had substantial evidence
+to support its overall prediction that in a world where satellite carriers
+enjoyed the benefits of a statutory copyright license without the bur-
+dens of the carry one, carry all rule, satellite carriers would become
+significant competitors to cable and would continue to cherry pick
+major network affiliates in markets where they offered local-into-
+local service. In that world, non-carried stations in cherry-picked mar-
+kets would lose access to significant parts of their local audiences.
+Again, the harder question is whether this predicted set of conse-
+quences is enough to justify imposing the carry one, carry all rule on
+satellite carriers in order to protect the government's interest in pre-
+serving a multiplicity of broadcast outlets for over-the-air viewers. In
+other words, the question is whether preventing the consequences
+
+                                                                             33
+Congress predicted counts as addressing a real threat to that interest
+in a material way.
+
+    This is essentially a legal question, and the satellite carriers claim
+that it has a clear answer. Relying on Turner II, they argue that
+imposing carriage rules on a particular television programming deliv-
+ery medium is justified only when stations not carried by that medium
+will "deteriorate to a substantial degree or fail altogether." Turner II,
+520 U.S. at 208. It is only at this point, they claim, that carriage deni-
+als affect the interests of over-the-air viewers. The satellite carriers
+contend that under Turner II's substantial deterioration standard, the
+carry one, carry all rule does not address a real threat because Con-
+gress lacked substantial evidence to support the judgment that stations
+denied access to (at most) 15 percent of their audiences would sub-
+stantially deteriorate. The carriers remind us that when Congress
+enacted the Cable Act in 1992, cable controlled 60 percent of the tele-
+vision programming delivery market. See Cable Act § 2(a)(3), 106
+Stat. at 1460.
+
+    To the extent that the satellite carriers would have us decide this
+case by looking at the difference between the 13 to 15 percent market
+share of satellite carriers today and the 60 percent market share
+enjoyed by cable in 1992, they oversimplify the issues. For one thing,
+Turner II held only that Congress could reasonably conclude that a
+broadcast station's loss of access to 60 percent of its market was suffi-
+cient to cause that station to substantially deteriorate. It left open the
+possibility that Congress could reasonably conclude that some smaller
+level of audience loss would significantly harm non-carried stations.
+More fundamentally, however, we reject the satellite carriers' argu-
+ment that substantial deterioration of non-carried broadcast stations is
+always the proper standard for deciding when carriage rules are justi-
+fied. The substantial deterioration standard does not work here
+because that standard was formulated to address a situation where the
+market for subscription television services was dominated by a single
+medium.
+
+    When Congress passed the Cable Act of 1992, cable television was
+the sole threat to the government's interest in preserving a multiplicity
+of broadcast outlets for over-the-air viewers. The substantial deterio-
+ration standard employed in Turner II assumes the existence of a uni-
+
+                                                                             34
+tary threat by insisting that the government show that denial of
+carriage on an individual medium would threaten the viability of inde-
+pendent broadcasters. See Turner II, 520 U.S. at 195. But the substan-
+tial deterioration standard was not meant to address situations in
+which the threat to broadcasters comes from competitors in multiple
+mediums, and it yields implausible results when applied outside its
+intended context. Suppose, for example, that five different television
+delivery mediums each served 15 percent of television households,
+together serving 75 percent of those households. If the standard
+applied in these circumstances, it would mean that Congress could not
+impose must-carry rules on any of the mediums because stations
+denied carriage on any one medium would lose access to only 15 per-
+cent of their audiences and therefore would not suffer substantial
+deterioration. That cannot be the law.
+
+    In enacting SHVIA, Congress properly considered the effects of
+satellite and cable together in deciding to protect over-the-air viewers
+from any significant reduction in their viewing options. Cable and sat-
+ellite together currently serve around 80 percent of America's televi-
+sion households, with cable accounting for about 65 percent and
+satellite about 15 percent. We have already explained that both ser-
+vices pose the same kind of threat to broadcast stations because both
+— by making selective carriage decisions — threaten to cut off inde-
+pendent broadcast stations from parts of their audiences. Together,
+cable and satellite would pose an overwhelming threat to independent
+broadcasters if neither were bound by carriage rules. Congress evi-
+dently reasoned that with increasing competition from satellite carri-
+ers, the threat to independent broadcasters posed by cable would
+become a threat jointly posed by cable and satellite. It therefore con-
+cluded that it could regulate both contributors to that common threat:
+"The [Conference Committee] expect[s] that, by January 1, 2002, sat-
+ellite carriers' market share will have increased and that the Con-
+gress'[s] interest in maintaining free over-the-air television will be
+undermined if local broadcasters are prevented from reaching their
+viewers by either cable or satellite distribution systems." SHVIA
+Conf. Rep. at 101 (emphasis added).
+
+    The satellite carriers contend that the carry one, carry all rule need-
+lessly restricts their speech because it is not necessary to protect the
+interests of over-the-air viewers. Again, they claim that those interests
+
+                                                                             35
+are not threatened because broadcasters denied satellite carriage will
+not lose access to enough of their audiences to suffer substantial dete-
+rioration. But if over-the-air viewers are currently safe, that only
+reflects the fact that cable is already bound by must-carry rules. In
+other words, the satellite carriers' arguments boil down to the claim
+that even if both cable and satellite jointly contribute to a common
+threat to the government's interest in protecting a multiplicity of
+broadcast outlets for over-the-air viewers, Congress may not impose
+carriage rules on satellite carriers because their contribution to that
+common threat is smaller and because cable is already regulated. The
+First Amendment does not require this result. It is more sensible to
+allow Congress the latitude to view the regulatory landscape as a
+whole by considering the cumulative effects of cable and satellite
+without making fine distinctions regarding their relative contributions
+in creating those effects. Where multiple competitors jointly pose a
+common threat with a common structure, the First Amendment per-
+mits Congress to protect important government interests from that
+threat by imposing reasonable content-neutral restrictions on every
+competitor who significantly contributes to that threat.
+
+    Under this standard, Congress's factual predictions easily justify
+the imposition of the carry one, carry all rule. Even if it is debatable
+whether satellite's current market share is sufficient to count as a sig-
+nificant contribution to the common threat posed by cable and satel-
+lite, Congress surely had a substantial basis for concluding that
+satellite would soon become a significant challenger to cable in the
+television programming delivery market. Accordingly, we hold that
+Congress reasonably concluded that the carry one, carry all rule
+addressed a real threat to the government's interest in preserving a
+multiplicity of broadcast outlets for over-the-air viewers. That interest
+therefore survives the first part of the O'Brien inquiry: it is substan-
+tial, and it is genuinely advanced by the carry one, carry all rule.
+
+                                                                             2.
+
+    The FCC argues that the carry one, carry all rule also materially
+advances a second substantial government interest: the interest in pre-
+venting SHVIA's grant of a statutory copyright license to satellite car-
+riers from undermining competition in local markets for broadcast
+television advertising. This interest is, as we have said, closely related
+
+                                                                             36
+to the interest in preserving a multiplicity of broadcast stations for
+over-the-air viewers. Both interests are threatened when independent
+broadcasters lose access to parts of their local audiences as a result
+of cherry picking by satellite carriers. But although cherry picking
+threatens both interests in the same way, the interests are nonetheless
+distinct. The first interest is ultimately an interest in protecting over-
+the-air television viewers. The second is an interest in protecting the
+broadcasters themselves, as well as the advertisers who benefit from
+vigorous competition among the broadcast stations in their local mar-
+kets.
+
+    The satellite carriers attempt to portray the carry one, carry all rule
+as a self-conscious government attempt to manipulate a previously
+undistorted marketplace of ideas in order to prop up weak broadcast
+stations. This portrayal misrepresents the realities of the television
+market. When Congress considered SHVIA in 1999, that market was
+already pervasively shaped by government policies: FCC licensing of
+broadcasters, the cable must-carry rules, copyright law, and the statu-
+tory licenses enjoyed by cable and (to a lesser extent) satellite are
+only a few examples. Against that backdrop Congress explicitly
+sought ways to improve the competitive position of satellite in rela-
+tion to cable because it believed that cable rates were too high. Noth-
+ing in the text of SHVIA or its legislative history indicates that
+Congress thought broadcasters enjoyed any unfair advantages in rela-
+tion to satellite or cable. Recognizing that satellite carriers needed a
+statutory copyright license to be able to compete with cable, Congress
+then considered the possible effects on independent broadcasters of
+the decision to grant that license.
+
+    As we have explained above, the choice was between offering sat-
+ellite carriers a station-by-station license and a market-by-market
+license. Congress understood that allowing satellite carriers to offer
+local-into-local service by cherry picking network affiliates would
+deprive non-carried stations of access to significant (and growing)
+parts of their audiences. We have already discussed at length the pos-
+sibility that cherry picking would ultimately harm over-the-air view-
+ers by reducing the quality or quantity of broadcast outlets available
+for those viewers, but here we are concerned with the immediate
+effects of selective carriage on local television advertising markets.
+Local broadcasters and cable companies compete with one another in
+
+                                                                             37
+those markets, and their competitive positions are a function of their
+ratings. Independent stations that lost access to even a small part of
+their potential audiences would therefore be placed at a competitive
+disadvantage compared to carried stations in their efforts to attract
+local advertisers. See 1998 House Hearing at 68 n.38 (statement of
+James J. Popham). Congress heard testimony that a station-by-station
+license would essentially enable satellite carriers to pick winners and
+losers in local advertising markets, undermining the efforts of emerg-
+ing television networks to compete with the established broadcast net-
+works: "Nothing could more surely dull the cutting edge of
+competition from new networks, their local affiliates, and innovative
+independent stations in local markets." Id. at 59. In short, Congress
+had substantial evidence for the judgment that a station-by-station
+copyright license would have boosted competition in one market (the
+market for subscription television services) by hampering competition
+in another market (the market for local broadcast advertising). Such
+a license would have harmed both independent broadcasters and local
+advertisers. By choosing a market-by-market license, Congress acted
+to minimize the unintended, disruptive effects of its intervention in
+the television marketplace.
+
+    This interest in preserving a level playing field in local broadcast
+advertising markets seems to us at least as significant as many inter-
+ests which the Supreme Court has found to be important or substan-
+tial. See, e.g., Clark v. Community for Creative Non Violence, 468
+U.S. 288, 296 (1984) (holding that government had a substantial
+interest in maintaining parks in Washington, D.C., in "an attractive
+and intact condition"); Members of City Council v. Taxpayers for Vin-
+cent, 466 U.S. 789, 807 (1984) (holding that city had a substantial
+interest in preventing "the visual assault on the citizens of Los Ange-
+les presented by an accumulation of signs posted on public property").
+We therefore conclude that Congress's interest in minimizing the
+unintended adverse effects of its legislation on local broadcast adver-
+tising markets is substantial enough to justify incidental, content-
+neutral restrictions on speech. The carry one, carry all rule advances
+this interest in a material way because it preserves a level playing
+field on which local broadcasters can compete for advertising revenue
+by preventing satellite carriers from making selective carriage deci-
+sions within local television markets. Accordingly, we hold that this
+interest also satisfies the first part of the O'Brien analysis.
+
+                                                                             38
+                                                                             3.
+
+    We have identified two interests that pass scrutiny under the first
+part of the O'Brien analysis. The second part of the O'Brien analysis
+employed in Turner II requires us to ask whether the carry one, carry
+all rule is a narrowly tailored means of advancing these interests. The
+government has considerable latitude under this test. It may "employ
+the means of its choosing so long as the . . . regulation promotes a
+substantial governmental interest that would be achieved less effec-
+tively absent the regulation and does not burden substantially more
+speech than is necessary to further that interest." Turner II, 520 U.S.
+at 213-14 (internal quotation marks and citation omitted). The parties
+have devoted relatively little attention to this aspect of the O'Brien
+analysis, and with good reason. Congress enacted the carry one, carry
+all rule to protect independent broadcast stations from the harm they
+would suffer if satellite carriers denied them carriage while retran-
+smitting the signals of the major network affiliates in their markets.
+As we have explained, the rule genuinely advances two important
+interests: the interest in preserving a multiplicity of local broadcast
+outlets for those who do not subscribe to cable or satellite and the
+interest in minimizing the unintended effects of SHVIA's statutory
+copyright license on local broadcast advertising markets. The satellite
+carriers concede that without the carry one, carry all rule, they would
+have chosen to carry only major network affiliates in many local mar-
+kets and would therefore have threatened independent broadcasters
+with the very harms that Congress sought to prevent. Accordingly,
+any legislation that created a statutory copyright license without
+imposing some form of mandatory carriage requirement would have
+been significantly less effective — indeed, it would have been com-
+pletely ineffective — in advancing the government's interests. That
+is sufficient to satisfy O'Brien's narrow tailoring requirement. Fur-
+ther, the particular form of carriage requirement imposed by SHVIA
+is not an excessive burden on satellite carriers because it leaves them
+with the choice of when and where they will become subject to the
+carry one, carry all rule. As a result, we hold that the rule is a nar-
+rowly tailored means of promoting the government's important ends
+of preserving a vibrant mix of local broadcast outlets for over-the-air
+viewers and minimizing the unintended side effects of SHVIA's stat-
+utory copyright license on local broadcast advertising markets. The
+
+                                                                             39
+carry one, carry all rule is therefore consistent with the First Amend-
+ment.
+
+                                                                             C.
+
+    We have reserved for separate consideration the satellite carriers'
+argument that the carry one, carry all rule cannot be justified under
+the reasoning of the Turner cases because Congress had no evidence
+that the rule was needed to prevent anticompetitive behavior by satel-
+lite carriers. The satellite carriers claim that the cable must-carry rules
+were designed to prevent anticompetitive behavior by cable operators
+and that the Supreme Court upheld those rules only by virtue of their
+relationship to that goal.
+
+    The satellite carriers are correct that Congress was concerned about
+anticompetitive practices when it passed the Cable Act. Congress had
+substantial evidence that cable operators had bottleneck monopoly
+power over their subscribers' access to television signals and that
+cable operators had substantial economic incentives to abuse that
+power by denying carriage to local broadcast stations even when
+those stations were more popular with cable subscribers than some of
+the cable channels that replaced them. Congress found that the cable
+industry competed with local broadcasters for advertising revenues
+and that cable therefore had incentives to reduce the attractiveness of
+broadcast stations to advertisers by refusing to carry those stations.
+See Cable Act § 2(a)(14)-(15), 106 Stat. at 1462. Congress also found
+that vertical integration in the cable industry (common ownership of
+cable systems and cable programming sources) gave cable operators
+reasons to favor cable programming over broadcast programming. See
+id. § 2(a)(5), 106 Stat. at 1460. Congress lacked similar evidence of
+anticompetitive behavior by satellite carriers. While satellite carriers
+also possess bottleneck power in the sense that they control the pri-
+mary gateway through which television programming enters the
+homes of their subscribers, Congress had no evidence that satellite
+carriers would abuse that power by engaging in anticompetitive
+behavior. Unlike cable companies, satellite carriers do not compete
+with local broadcasters for advertising and they are not vertically inte-
+grated with non-broadcast programming sources to any significant
+degree.
+
+                                                                             40
+    The satellite carriers argue that without evidence of unfair competi-
+tion by satellite carriers, the carry one, carry all rule must be struck
+down. The argument cannot be summarily rejected, for it is not imme-
+diately clear whether or how the holdings in the Turner cases depend
+on evidence of anticompetitive practices in the cable industry. Com-
+pare Turner I, 512 at 661 (stating that the must-carry rules are "justi-
+fied by special characteristics of the cable medium: the bottleneck
+monopoly power exercised by cable operators and the dangers this
+power poses to the viability of broadcast television") with Turner II,
+520 U.S. at 226 (Breyer, J., concurring in part) (providing the fifth
+vote to uphold the must-carry rules without relying on the claim that
+the rules "sensibly compensate for some significant market defect").
+As we read the Turner opinions, however, the theme of preserving
+broadcast television is more fundamental than the theme of prevent-
+ing unfair competition: "Federal policy . . . has long favored preserv-
+ing a multiplicity of broadcast outlets regardless of whether the
+conduct that threatens it is motivated by anticompetitive animus or
+rises to the level of an antitrust violation. . . . Congress has an inde-
+pendent interest in preserving a multiplicity of broadcasters to ensure
+that all households have access to information and entertainment on
+an equal footing with those who subscribe to cable." Turner II, 520
+U.S. at 194 (emphasis added). This means that if satellite carriers
+threaten the government's interest in preserving a multiplicity of local
+broadcast outlets, it does not matter whether the threat can be traced
+to anticompetitive practices by those carriers. Our reading gains fur-
+ther support from the fact that in Turner II the Court discussed evi-
+dence of unfair competition primarily to establish that cable operators
+would in fact deny carriage to substantial numbers of broadcast sta-
+tions without the must-carry rules. See id. at 197-208. In other words,
+the discussion of anticompetitive behavior in Turner II sought not to
+explain the nature of the interest promoted by the must-carry rules,
+but to explain why the threat that cable posed to broadcast television
+and its viewers was real rather than conjectural.
+
+    Satellite carriers do not deny carriage to independent broadcasters
+for anticompetitive reasons. As we have explained, they do so
+because the national character of satellite delivery systems provides
+economic incentives to favor national, non-broadcast programming
+over local, broadcast programming. There is nothing anticompetitive
+about satellite carriers' efforts to make the most efficient use of their
+
+                                                                             41
+existing channel capacity. In contrast, Congress found that in the
+absence of must-carry, cable operators would likely deny carriage to
+many independent broadcast stations for anticompetitive reasons,
+such as the desire to undercut a competitor in the market for local
+advertising. The crucial point here, however, is that this difference
+between satellite carriers and cable operators does not change the
+analysis under the Turner cases in any fundamental way. Cherry pick-
+ing major network affiliates in a local market threatens the non-
+carried broadcast stations in that market (and, ultimately, the viewers
+who depend on them) in the same ways, regardless of whether the
+motive behind the cherry picking is anticompetitive or not. Accord-
+ingly, we reject the satellite carriers' argument that the carry one,
+carry all rule could only be justified as a means to prevent anticompe-
+titive behavior by satellite carriers.
+
+                                                                             D.
+
+    In conclusion, we hold that the carry one, carry all rule is a reason-
+able, content-neutral restriction on satellite carriers' speech. It satis-
+fies the O'Brien standard because it is narrowly tailored to serve two
+substantial government interests: the interest in preserving a multi-
+plicity of broadcast outlets for over-the-air viewers and the interest in
+preventing SHVIA's statutory copyright license from undermining
+competition in local broadcast advertising markets. The rule's relation
+to either interest is sufficient to render it consistent with the First
+Amendment.
+
+                                                                            III.
+
+    The satellite carriers devote limited attention to their remaining
+constitutional arguments. They contend that Congress exceeded its
+power under the Copyright Clause when it conditioned satellite carri-
+ers' rights to make use of SHVIA's statutory copyright license upon
+their compliance with the carry one, carry all rule. The carriers also
+argue that the rule constitutes an uncompensated taking of their prop-
+erty in violation of the Fifth Amendment. The district court correctly
+rejected both claims.9
+____________________________________________________________
+
+    9 The satellite carriers also raised a substantive due process claim
+against the carry one, carry all rule in the district court, but only mention
+that claim in one short footnote in their brief to us. We reject this claim
+on the reasoning of the district court. See Satellite Broad. & Communica-
+tions Ass'n of Am. v. FCC, 146 F.Supp.2d 803, 832-33 (E.D.Va. 2001).
+
+                                                                             42
+    The Copyright Clause gives Congress the power to "promote the
+Progress of Science . . . by securing for limited times to Authors
+. . . the exclusive right to their writings." U.S. Const. art. I, § 8, cl.
+8.10 The Copyright Clause, the satellite carriers point out, was meant
+to promote the public welfare by encouraging creative work. The car-
+riers contend that SHVIA exceeds Congress's authority under the
+Copyright Clause because the statute plays favorites by using the
+copyright power to protect the speech of independent local broadcast-
+ers. The Copyright Clause does place some limits on congressional
+power. For example, the clause does not permit Congress to grant per-
+manent copyright protection to an author. Nevertheless, as the
+Supreme Court has recognized, Congress's powers under the clause
+to grant copyright protection and to define the scope of that protection
+are very broad: "As the text of the Constitution makes plain, it is Con-
+gress that has been assigned the task of defining the scope of the lim-
+ited monopoly that should be granted to authors . . . . [T]his task
+involves a difficult balance between the interests of authors . . . in the
+control and exploitation of their writings . . . on the one hand, and
+society's competing interest in the free flow of ideas, information, and
+commerce on the other hand." Sony Corp. of Am. v. Universal City
+Studios, Inc., 464 U.S. 417, 429 (1984). The copyright power cer-
+tainly includes the authority to grant statutory copyright licenses like
+those created by SHVIA and the Cable Act. These statutory licenses
+are designed to ensure that the high transaction costs involved in pri-
+vately acquiring copyright clearances for the retransmission of broad-
+cast programming do not unduly restrict the free flow of information
+to the public. See U.S. Copyright Office, A Review of the Copyright
+Licensing Regimes Covering Retransmission of Broadcast Signals, at
+32 (1997). We see no reason why the Copyright Clause would pro-
+hibit Congress from conditioning its grant of a statutory copyright
+license on compliance with the carry one, carry all rule. That rule pro-
+tects independent broadcasters against the loss of viewership that
+would result if satellite carriers were allowed to cherry pick the major
+network affiliates in those stations' local markets. The rule thereby
+serves to prevent the statutory copyright license from being used to
+undermine the government's interest in ensuring that over-the-air
+____________________________________________________________
+
+    10 In the language of the day, "science" included works of authorship.
+See Constant v. Advanced Micro-Devices, Inc., 848 F.2d 1560, 1564 n.4
+(Fed. Cir. 1988).
+
+                                                                             43
+viewers continue to receive a rich mix of information and program-
+ming from a multiplicity of local broadcast sources. In other words,
+Congress structured SHVIA's statutory copyright license in a way
+that will ensure the free flow of ideas and information to over-the-air
+viewers. In doing this, Congress was simply performing its constitu-
+tionally assigned task of striking a balance between the interests of
+authors and the public interest. Accordingly, we hold that Congress
+acted within its power under the Copyright Clause when it imposed
+the carry one, carry all rule.
+
+    The satellite carriers also argue that the carry one, carry all rule
+violates the Takings Clause. They claim that the rule works a per se
+taking under Loretto v. Teleprompter Manhattan CATV Corp., 458
+U.S. 419 (1982), because it limits their right to exclude the unwanted
+signals of local television stations from their property. The argument
+fails because the Supreme Court has made clear that a per se taking
+under Loretto must involve "required acquiescence" in a permanent
+physical occupation of property. See FCC v. Florida Power Corp.,
+480 U.S. 245, 251-53 (1987) (holding that Pole Attachments Act does
+not effect a per se taking because it does not require utility companies
+to provide space on their utility poles to cable companies). Here, the
+statute does not require the satellite carriers to do anything. It merely
+places conditions on their use of a benefit (the statutory license) the
+government need not have conferred. This cannot be an unconstitu-
+tional taking of the satellite carriers' property.
+
+                                                                            IV.
+
+    Certain broadcast representatives, in their petition for review, chal-
+lenge one aspect of the FCC's SHVIA Order as "arbitrary, capricious
+. . . or otherwise not in accordance with law" under the Administrative
+Procedure Act. 5 U.S.C. § 706(2)(A). In paragraph 99 of the order the
+FCC considered the implementation of 47 U.S.C. § 338(d), which
+requires satellite carriers offering local-into-local service to "provide
+access to [a local television] station's signals at a nondiscriminatory
+price and in a nondiscriminatory manner." Broadcasters argued to the
+FCC that the statute requires satellite carriers to offer all broadcast
+stations in a local market as part of one viewing package, but the FCC
+rejected that argument as follows:
+
+                                                                             44
+            [S]ection 338's anti-discrimination language prohibits satel-
+            lite carriers from implementing pricing schemes that effec-
+            tively deter subscribers from purchasing some, but not all,
+            local television signals. Thus, we find that a satellite carrier
+            must offer local television signals, as a package or a la carte,
+            at comparable rates.
+
+SHVIA Order at ¶ 99.
+
+    It is this a la carte rule that the broadcasters challenge. As origi-
+nally issued, the a la carte rule would apparently have allowed satel-
+lite carriers a great deal of flexibility in packaging local stations for
+their subscribers. For example, the rule might have allowed satellite
+carriers to offer a package of the four major network affiliates in a
+local market while offering any additional stations on an a la carte
+basis. This option was of particular concern to broadcasters, who
+argued that allowing stations to be packaged in this manner would
+effectively deter many satellite subscribers from purchasing the sig-
+nals of independent broadcast stations. During the pendency of this
+appeal, however, the FCC issued a Reconsideration Order which clar-
+ifies the a la carte rule adopted in paragraph 99 of the original SHVIA
+Order. The FCC has now declared that allowing satellite carriers to
+offer some stations (for example, major network affiliates) as a pack-
+age while offering other local stations on an a la carte basis would
+violate the nondiscrimination requirement in § 338(d). See Reconsid-
+eration Order at ¶ 48. The a la carte rule, as clarified in the Reconsid-
+eration Order, allows satellite carriers to give their subscribers two
+basic choices: subscribers may buy all local stations as one package,
+or they may buy the individual stations on an a la carte basis. As any
+objections to the FCC's original a la carte rule are now moot, we need
+only consider whether this newly clarified two-option a la carte rule
+can survive the broadcasters' challenge.
+
+    We must first consider the FCC's argument that the broadcasters'
+attack on the a la carte rule is not ripe for review. Ripeness determina-
+tions depend on both "the fitness of the issues for judicial decision"
+and "the hardship to the parties of withholding court consideration."
+Pacific Gas & Elec. Co. v. State Energy Res. Conservation & Dev.
+Comm'n, 461 U.S. 190, 201 (1983). Here, the rule is a final agency
+action, and the FCC has no interest in further "crystallizing its policy
+
+                                                                             45
+before that policy is subject to review." Reg'l Mgmt. Corp. v. Legal
+Servs. Corp., 186 F.3d 457, 465 (4th Cir. 1999) (internal quotations
+marks and citation omitted). Moreover, the broadcasters' challenge is
+fit for decision because it raises purely legal questions: whether the
+a la carte rule is an unreasonable interpretation of § 338(d), and
+whether the FCC has articulated a reasonable explanation for its
+action in adopting the rule. See Pacific Gas, 461 U.S. at 201 (stating
+that "predominantly legal" issues are fit for decision even when fur-
+ther factual development would be helpful). In addition, any hardship
+considerations weigh in favor of deciding the questions now because
+the broadcasters have an interest in knowing which packaging options
+for local broadcast stations will be available to satellite subscribers
+when the carry one, carry all rule takes effect. We therefore hold that
+the legal challenge raised by the broadcasters is ripe for review.
+
+    The broadcasters first claim that the a la carte rule is not in accor-
+dance with law under 5 U.S.C. § 706(2)(A) because the FCC unrea-
+sonably interpreted the nondiscrimination requirement in § 338(d) of
+SHVIA. We review this claim under the well-known standards articu-
+lated by the Supreme Court in Chevron, U.S.A., Inc. v. Natural
+Resources Defense Council, Inc., 467 U.S. 837 (1984). Under Chev-
+ron we first ask "whether Congress has directly spoken to the precise
+question at issue." Id. at 842. Here, we ask if Congress explicitly
+decided whether satellite carriers should be required to offer local sta-
+tions to their subscribers in only one configuration, specifically, a sin-
+gle package including all of the stations in a given television market.
+If we can discern Congress's intent on this issue by using "traditional
+tools of statutory construction," id. at 843 n.9, we must give effect to
+that intent. If, however, the statute is "silent or ambiguous" about the
+issue, we must defer to the agency's reasonable construction of the
+statute. Id. at 843-44.
+
+    The broadcasters argue that if we consider the structure and pur-
+poses of SHVIA as a whole, we will see that Congress expressed its
+clear intent that satellite carriers be required to offer all local stations
+in a market as part of one package. The broadcasters claim that Con-
+gress sought to ensure that every local broadcast station could reach
+every household in its market. According to the broadcasters, this
+goal will be undermined if satellite subscribers are allowed to choose
+to subscribe to some local stations but not others. Broadcast stations
+
+                                                                             46
+not chosen by satellite customers, they suggest, will lose access to
+parts of their audiences just as surely as if they had been denied car-
+riage by satellite carriers. The broadcasters explain that the a la carte
+rule will hurt the ratings of non-chosen stations because "[m]any peo-
+ple who might not choose to purchase an entire signal would nonethe-
+less watch particular programs on that station if the signal reached
+their television set as it would over-the-air or through cable." Reply
+Brief for Petitioner NAB at 19.
+
+    The broadcasters fail to show that Congress clearly expressed the
+intent to require that all local stations be offered in a single package.
+As the FCC points out, Congress knew how to impose such a require-
+ment. It did so explicitly in the Cable Act. See 47 U.S.C. § 543(b)(7).11
+SHVIA says only that carriers must offer local stations at a "nondis-
+criminatory price and in a nondiscriminatory manner." Id. § 338(d).
+As the FCC also points out, "nondiscriminatory pricing" seems to
+contemplate the possibility that local stations will be offered sepa-
+rately. This is so because a carrier could not make discriminatory
+pricing decisions if all local stations had to be offered only as part of
+a single package. We conclude, therefore, that Congress has not
+clearly expressed its intentions on the issue of whether satellite carri-
+ers should be required to offer all local stations as part of a single
+package. Accordingly, we ask only whether the FCC's interpretation
+of the statute is reasonable. It easily meets that standard because, as
+we have just explained, the statutory language contemplates the possi-
+bility that stations will be offered to subscribers on an individual
+basis. We therefore reject the broadcasters' argument that the a la
+carte rule is contrary to the statute.
+
+    The broadcasters also argue that the a la carte rule is arbitrary and
+capricious under 5 U.S.C. § 706(2)(A). Although the scope of review
+under this standard is narrow, the agency is required to articulate a
+"satisfactory explanation for its action [that demonstrates] a rational
+____________________________________________________________
+
+    11 We recognize that the basic tier requirements imposed on cable oper-
+ators by 47 U.S.C. § 543(b) are far more extensive than the rule the
+broadcasters would have the FCC impose on satellite carriers. Neverthe-
+less, the basic tier rules show that Congress is quite capable of clearly
+dictating the manner in which local stations must be packaged. It failed
+to do this in § 338(d).
+
+                                                                             47
+connection between the facts found and the choice made." Motor
+Vehicle Mfr. Ass'n v. State Farm Mut. Auto. Ins. Co., 463 U.S. 29, 43
+(1983)(internal quotation marks and citation omitted). The broadcast-
+ers roundly criticize the FCC's reasoning in adopting the a la carte
+rule. We conclude, however, that the FCC's adoption of the a la carte
+rule was not an irrational response to the statute and the administra-
+tive record. Although the broadcasters claim that the a la carte rule
+harms local television stations and offers no corresponding benefits,
+the FCC has plausibly explained that the rule promotes consumer
+choice. See Reconsideration Order at ¶ 46. In the end, the FCC's a la
+carte rule does little more than restate the statutory language of
+§ 338(d). That language requires "nondiscriminatory prices," while
+the a la carte rule says that carriers may offer stations a la carte at
+"comparable rates." We therefore hold that the FCC's decision to
+adopt the a la carte rule was not arbitrary and capricious.
+
+                                                                             V.
+
+    For the foregoing reasons, we hold that the carry one, carry all rule
+does not violate the Constitution and that the a la carte rule is not arbi-
+trary and capricious or contrary to law. Accordingly, the order of the
+district court is affirmed, and the petitions for review of the FCC's
+SHVIA Order are denied.12
+
+No. 01-1151 - PETITION DENIED
+
+No. 01-1271 - PETITION DENIED
+
+No. 01-1272 - PETITION DENIED
+
+No. 01-1818 - AFFIRMED
+____________________________________________________________
+
+    12 The satellite carriers have moved for an injunction against implemen-
+tation of the carry one, carry all rule "pending final disposition of these
+cases by the Supreme Court of the United States." The motion is denied.
+
+                                                                             48
+

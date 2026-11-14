@@ -1,0 +1,1290 @@
+                               PUBLISHED
+
+UNITED STATES COURT OF APPEALS
+
+                   FOR THE FOURTH CIRCUIT
+
+STAR SCIENTIFIC, INCORPORATED, a            
+
+Delaware corporation,
+
+                    Plaintiff-Appellant,
+
+v.
+
+RANDOLPH A. BEALES, in his official
+capacity as Attorney General,
+
+                       Defendant-Appellee.
+
+DKT LIBERTY PROJECT; ALABAMA;
+
+ALASKA; ARIZONA; ARKANSAS;
+
+CALIFORNIA; CONNECTICUT; DELAWARE;
+
+THE DISTRICT OF COLUMBIA; GEORGIA;
+
+HAWAII; IDAHO; ILLINOIS; INDIANA;
+
+IOWA; KANSAS; KENTUCKY; LOUISIANA;
+
+ MAINE; MARYLAND; MASSACHUSETTS;              No. 01-1502
+
+MICHIGAN; MINNESOTA; MISSOURI;
+MONTANA; NEBRASKA; NEVADA; NEW
+
+HAMPSHIRE; NEW JERSEY; NEW MEXICO;
+
+NEW YORK; NORTH CAROLINA; NORTH
+
+DAKOTA; NORTHERN MARIANA ISLANDS;
+
+OHIO; OKLAHOMA; OREGON;
+
+PENNSYLVANIA; PUERTO RICO; SOUTH
+
+CAROLINA; SOUTH DAKOTA; TENNESSEE;
+
+UTAH; VERMONT; WASHINGTON; WEST
+
+VIRGINIA; WISCONSIN; WYOMING;
+
+AMERICAN LEGACY FOUNDATION;
+
+AMERICAN CANCER SOCIETY; AMERICAN
+
+HEART ASSOCIATION; AMERICAN LUNG
+
+ASSOCIATION; NATIONAL CENTER FOR
+
+TOBACCO-FREE KIDS,
+
+                       Amici Curiae. 
+2  STAR SCIENTIFIC, INC. v. BEALES
+
+     Appeal from the United States District Court
+   for the Eastern District of Virginia, at Richmond.
+
+            James R. Spencer, District Judge.
+                        (CA-00-835-3)
+
+   Argued: November 1, 2001
+
+   Decided: January 22, 2002
+
+   Before NIEMEYER, WILLIAMS, and GREGORY,*
+                          Circuit Judges.
+
+Affirmed by published opinion. Judge Niemeyer wrote the opinion,
+in which Judge Williams joined.
+
+                                   COUNSEL
+
+ARGUED: Charles Fried, Cambridge, Massachusetts, for Appellant.
+Gregory E. Lucyk, Senior Assistant Attorney General, OFFICE OF
+THE ATTORNEY GENERAL, Richmond, Virginia, for Appellee.
+ON BRIEF: Patrick M. McSweeney, Kathleen Moriarty Mueller,
+John L. Marshall, Jr., MCSWEENEY & CRUMP, P.C., Richmond,
+Virginia; James F. Neal, James G. Thomas, W. David Bridgers,
+NEAL & HARWELL, P.L.C., Nashville, Tennessee, for Appellant.
+Randolph A. Beales, Attorney General of Virginia, Francis S. Fergu-
+son, Chief Deputy Attorney General, J. Steven Sheppard, III, Senior
+Assistant Attorney General, David B. Irvin, Senior Assistant Attorney
+General, Sydney E. Rab, Assistant Attorney General, OFFICE OF
+THE ATTORNEY GENERAL, Richmond, Virginia, for Appellee.
+William M. Hohengarten, Julie M. Carpenter, Janis C. Kestenbaum,
+JENNER & BLOCK, L.L.C., Washington, D.C., for Amicus Curiae
+DKT Liberty Project. Bill Lockyer, Attorney General of the State of
+
+   *Judge Gregory heard oral argument in this case but has since recused
+himself. The decision is filed by a quorum of the panel pursuant to 28
+U.S.C. § 46(d).
+STAR SCIENTIFIC, INC. v. BEALES  3
+
+California, Richard M. Frank, Chief Assistant Attorney General, Den-
+nis Eckhart, Senior Assistant Attorney General, Karen Leaf, Deputy
+Attorney General, OFFICE OF THE ATTORNEY GENERAL, Sac-
+ramento, California, for Amici Curiae States. Ellen J. Vargyas,
+AMERICAN LEGACY FOUNDATION, Washington, D.C.; Jona-
+than E. Nuechterlein, Jonathan J. Frankel, Mary E. Kostel, C. Colin
+Rushing, WILMER, CUTLER & PICKERING, Washington, D.C.,
+for Amici Curiae Foundation, et al.
+
+                                    OPINION
+
+NIEMEYER, Circuit Judge:
+
+   Star Scientific, Inc., a cigarette manufacturer, challenges the consti-
+tutionality of the Master Settlement Agreement of November 16,
+1998, between the Commonwealth of Virginia — as well as 45 other
+States — and the major tobacco manufacturers. It also challenges the
+constitutionality of legislation enacted by the Commonwealth of Vir-
+ginia to qualify it to receive payments under the Master Settlement
+Agreement.
+
+   To settle the States’ lawsuits against the major tobacco manufactur-
+ers arising from their development and marketing of cigarettes, Vir-
+ginia and the 45 other States, as well as the District of Columbia and
+5 territories, entered into a Master Settlement Agreement with Phillip
+Morris, Inc., R.J. Reynolds Tobacco Company, Brown & Williamson
+Tobacco Corporation, and Lorillard Tobacco Company. The Master
+Settlement Agreement calls for the tobacco manufacturers to pay the
+States, in exchange for releases from liability for past and future dam-
+ages, approximately $200 billion over the next 25 years, including
+approximately $4.1 billion to the Commonwealth of Virginia.
+
+   Star Scientific, which contends that it has not engaged in the mis-
+conduct attributed to the major tobacco manufacturers and was not
+sued by any of the States, asserts that it will be unjustly burdened by
+the requirements of the Master Settlement Agreement and the legisla-
+tion that Virginia enacted pursuant to the agreement. It therefore com-
+menced this action to challenge the constitutionality of both the
+4  STAR SCIENTIFIC, INC. v. BEALES
+
+settlement agreement and the statute. The district court granted Vir-
+ginia’s motion to dismiss the complaint under Federal Rule of Civil
+Procedure 12(b)(6).
+
+   On appeal, Star Scientific contends that the statute enacted pursu-
+ant to the Master Settlement Agreement, Va. Code Ann. §§ 3.1-336.1
+& 3.1-336.2, violates its rights under the Due Process, Equal Protec-
+tion, and Commerce Clauses of the United States Constitution. It also
+contends that the Master Settlement Agreement itself violates the
+Compact Clause.
+
+   For the reasons that follow, we affirm.
+
+   I
+
+   In 1994, the Attorneys General of Mississippi, Minnesota, West
+Virginia, and Massachusetts filed lawsuits in their respective State
+courts against the major tobacco manufacturers, Phillip Morris, R.J.
+Reynolds, Brown & Williamson, and Lorillard, seeking reimburse-
+ment for healthcare expenditures made by those states on behalf of
+citizens suffering from tobacco-related diseases. By 1996, 15 addi-
+tional states had filed similar suits. Although the States’ respective
+complaints varied, they shared a common theme, alleging that the
+major tobacco companies (1) had misled and deceived the public by
+suppressing internal research about the risks and addictive properties
+of cigarettes, (2) had committed fraud and had engaged in racketeer-
+ing activity through their efforts to disseminate false statements about
+the addictive nature of nicotine and the adverse health effects of
+smoking, and (3) had violated antitrust laws by, among other things,
+conspiring to suppress the development and marketing of safer ciga-
+rettes.
+
+   By 1997, after several more States had filed similar lawsuits, the
+major tobacco manufacturers negotiated with a group of State Attor-
+neys General to reach a comprehensive nationwide settlement of the
+claims. The settlement, which was known as "the Tobacco Resolu-
+tion," was contingent on congressional approval. Accordingly, federal
+legislation to implement the Tobacco Resolution was introduced in
+the Senate in November 1997. The major tobacco manufacturers,
+however, withdrew their support of this legislation when it appeared
+STAR SCIENTIFIC, INC. v. BEALES  5
+
+that the legislation would require them to pay more money and accept
+greater regulatory and marketing restrictions than they had agreed to
+in the Tobacco Resolution. Thus, the legislation was never enacted.
+
+   In the meantime, the major tobacco companies reached individual
+settlements with Mississippi, Florida, Texas, and Minnesota. And,
+upon failure of the Tobacco Resolution, several other State Attorneys
+General initiated negotiations with two of the tobacco companies on
+a new multi-state settlement. On November 16, 1998, a group of State
+Attorneys General and the major tobacco manufacturers reached an
+agreement called the "Master Settlement Agreement." This agreement
+permitted nonsettling States to participate if they acted within seven
+days.
+
+   The Commonwealth of Virginia, which had not participated in the
+original settlement discussions, decided to join the Master Settlement
+Agreement and, for that purpose, commenced an action in State court
+against Brown & Williamson, Liggett Group, Inc., Lorillard, Phillip
+Morris, R.J. Reynolds, and United States Tobacco Company on
+December 23, 1998. In its complaint, Virginia alleged that it spends
+millions of dollars each year to pay healthcare costs caused by
+tobacco-related diseases. It contended that the tobacco companies
+misrepresented the health effects of tobacco while simultaneously
+suppressing research revealing the dangers of tobacco products. The
+complaint also asserted that the defendants acted in concert to sup-
+press research and preserve their markets. Finally, it alleged that the
+companies specifically targeted youth in their advertisements and
+marketing campaigns "to induce such persons to start using tobacco
+products and increase [the manufacturers’] sales of tobacco products."
+The complaint alleged violations of the Virginia Antitrust Act, the
+Virginia Consumer Protection Act, and claims for unjust enrichment
+and restitution, and sought declaratory relief, injunctive relief, restitu-
+tion, damages, costs, and attorneys fees.
+
+   After filing its complaint, Virginia, along with the other 45 states
+that had not already settled with the major tobacco companies, the
+District of Columbia, and 5 territories, agreed to sign on to the Master
+Settlement Agreement. Virginia’s litigation in State court was accord-
+ingly terminated by a consent decree and final judgment, dated Febru-
+ary 23, 1999, providing that "the [Master Settlement Agreement] set
+6  STAR SCIENTIFIC, INC. v. BEALES
+
+forth therein, and the establishment of the escrow provided for therein
+are hereby approved in all respects, and all claims are hereby dis-
+missed with prejudice as provided therein." Star Scientific was not
+named a defendant in that action and did not participate in the Master
+Settlement Agreement.
+
+   Under the Master Settlement Agreement, the States released the
+participating tobacco manufacturers from all claims for past conduct
+based on the sale, use, and marketing of tobacco products. They also
+released future monetary claims arising out of exposure to tobacco
+products, including future claims for reimbursement of healthcare
+costs allegedly associated with the use of or exposure to tobacco
+products.
+
+   In return, the participating tobacco manufacturers agreed to con-
+duct restrictions and to annual payments to the States. Among the
+conduct restrictions were agreements (1) to refrain from targeting
+youth in the advertising and marketing of tobacco products; (2) to
+refrain from using cartoon characters to promote cigarette sales; (3)
+to limit tobacco brand-name sponsorships of athletic and other events;
+(4) to refrain from lobbying Congress to preempt or diminish the
+States’ rights under the Master Settlement Agreement or to advocate
+that settlement proceeds under the Master Settlement Agreement be
+used for programs other than those related to tobacco or health; (5)
+to dissolve the Tobacco Institute, the Council for Tobacco Research,
+and the Center for Indoor Air Research; and (6) to refrain from sup-
+pressing research relating to smoking and health and misrepresenting
+the dangers of using tobacco products. The participating manufactur-
+ers also agreed to make annual payments "in perpetuity" for the dam-
+ages caused to the States. It is estimated that through these payments,
+the States will receive more than $200 billion through 2025, of which
+Virginia will receive 2.045% or approximately $4.1 billion. Finally,
+the participating manufacturers agreed to pay the States’ costs and
+attorneys fees.
+
+   The Master Settlement Agreement permits other tobacco compa-
+nies to participate in the benefits of the agreement as "Subsequent
+Participating Manufacturers." Subsequent Participating Manufacturers
+are not required to make any payments under the Master Settlement
+Agreement unless their share of the national cigarette market exceeds
+STAR SCIENTIFIC, INC. v. BEALES  7
+
+the greater of their 1998 market share or 125% of their 1997 market
+share. Any payments that would be required would be tied to the Sub-
+sequent Participating Manufacturers’ market shares.
+
+   Because of a concern that manufacturers participating in the Master
+Settlement Agreement might suffer a competitive disadvantage when
+compared to nonparticipating manufacturers and that this disadvan-
+tage could affect the participating manufacturers’ ability to make the
+settlement payments, the Master Settlement Agreement includes pro-
+visions to protect the market shares and profitability of the participat-
+ing manufacturers. Thus, one provision of the Master Settlement
+Agreement allows for participating manufacturers to reduce their
+damage payments if they lose market share during a given year, as
+determined by the "Firm," a group of economic consultants desig-
+nated under procedures established in the Master Settlement Agree-
+ment. In addition, the Master Settlement Agreement requires the
+States to enact a qualifying statute that "effectively and fully neutral-
+izes the cost disadvantages that the Participating Manufacturers expe-
+rience vis-a-vis Non-Participating Manufacturers within such Settling
+State[s] as a result of the provisions of this Agreement." If a State
+does not enact and "diligently enforce[ ]" a qualifying statute, it can
+lose future payments under the Master Settlement Agreement.
+
+   Virginia enacted a qualifying statute in March 1999 in a form sub-
+stantially similar to the model qualifying statute included in the Mas-
+ter Settlement Agreement. See Va. Code Ann. §§ 3.1-336.1 & 3.1-
+336.2. Virginia’s qualifying statute provides that any tobacco manu-
+facturer "selling cigarettes to consumers within the Commonwealth,"
+whether directly or indirectly, shall (1) become a participating manu-
+facturer and sign the Master Settlement Agreement, or (2) place into
+an escrow fund an amount determined by the number of cigarettes
+that the nonparticipating manufacturer sells in Virginia. The amount
+ranges from slightly less than one cent per cigarette in 1999 to almost
+two cents per cigarette in the year 2007 and thereafter, adjusted for
+inflation. Id. § 3.1-336.2.A.2. Any nonparticipating tobacco manufac-
+turer failing to comply with the duties imposed by the qualifying stat-
+ute becomes subject to a civil fine and ultimately to loss of the
+privilege of selling cigarettes to consumers in Virginia. Id. § 3.1-
+336.2.C.
+8  STAR SCIENTIFIC, INC. v. BEALES
+
+   The escrow fund established by the statute is to be used to pay any
+judgment or settlement in a lawsuit brought by Virginia to recover on
+a claim (of the kind released in the Master Settlement Agreement)
+against a nonparticipating manufacturer. Otherwise, the escrow funds
+are returned to the nonparticipating manufacturer either annually to
+the extent that they exceed what that manufacturer would have paid
+had it participated under the Master Settlement Agreement or com-
+pletely after 25 years. In the interim, all interest earned on the escrow
+account is paid to the manufacturer. Va. Code Ann. § 3.1-336.2.B.
+
+   Star Scientific, a "technology-oriented" tobacco company that
+focuses on developing tobacco-processing technology to reduce cer-
+tain cancer-causing toxins in tobacco leaf and tobacco smoke, began
+operations in 1990. It did not participate in the Master Settlement
+Agreement because of the financial burden of the required payments.
+The company estimated that under the agreement, it would have to
+pay approximately $19.8 million during 2000 and more thereafter. It
+asserts that it never engaged in the misconduct alleged against the
+major manufacturers by the States, and it was never sued by the
+States. Accordingly, Star Scientific elected — albeit under duress —
+to comport with the requirements of the qualifying statutes. It depos-
+ited approximately $11.6 million in escrow in April 2000, approxi-
+mately $409,000 of which was attributable to the sale of cigarettes in
+Virginia under Virginia’s qualifying statute.
+
+   Because of the substantial payments required by the States’ various
+qualifying statutes, Star Scientific commenced this action, seeking to
+have Virginia’s qualifying statute declared unconstitutional and
+enjoined. It alleged in its complaint that the statute deprives Star Sci-
+entific of its rights under the Due Process, Equal Protection, Com-
+merce, and Takings Clauses of the United States Constitution. It also
+challenged the Master Settlement Agreement, arguing that the agree-
+ment is an unconstitutional interstate compact because it has not
+received congressional authorization, as required by the Compact
+Clause of Article I, § 10 of the Constitution.
+
+   On Virginia’s motion, made under Federal Rule of Civil Procedure
+12(b)(6), the district court dismissed Star Scientific’s complaint. The
+court ruled that Star Scientific lacked standing to challenge the Master
+Settlement Agreement under the Compact Clause because Star Scien-
+STAR SCIENTIFIC, INC. v. BEALES  9
+
+tific could not allege an injury that was "concrete and particularized,"
+nor could it show any legal prejudice caused by the Master Settlement
+Agreement. The court recognized that Star Scientific had standing to
+challenge Virginia’s qualifying statute, but it dismissed all of Star
+Scientific’s constitutional challenges to the statute for failure to state
+a claim on which relief could be granted.
+
+   From the district court’s judgment dismissing the complaint, Star
+Scientific filed this appeal. Star Scientific did not, however, appeal
+the district court’s ruling on its Takings Clause claim.
+
+II
+
+   Star Scientific contends first that Virginia’s qualifying statute —
+Va. Code Ann. §§ 3.1-336.1 & 3.1-336.2 — violates its rights under
+the Due Process Clause. It argues that the statute unconstitutionally
+aims effectively to neutralize the economic impact of the Master Set-
+tlement Agreement on the participating manufacturers by placing
+equivalent financial burdens on the nonparticipating manufacturers,
+who are competitors of the participating manufacturers. The statute
+accomplishes this end, they argue, by depriving nonparticipating com-
+petitors, such as Star Scientific, of their property for 25 years either
+to force them to sign the Master Settlement Agreement or to impose
+on them a competitive disadvantage that they otherwise would not
+have suffered because they engaged in no wrongdoing.
+
+   Star Scientific focuses on two legislative means which it asserts are
+illegal. First, it contends that the State deprives Star Scientific of its
+property without due process of law by forcing it to pay its funds into
+an escrow account for 25 years, citing to Eastern Enterprises v. Apfel,
+524 U.S. 498, 547 (1988) (Kennedy, J., concurring in judgment and
+dissenting in part); id. at 556-57 (Breyer, J., dissenting); North Ga.
+Finishing, Inc. v. Di-Chem, Inc., 419 U.S. 601, 606 (1975). Second,
+it contends that Virginia seeks to compel it to sign an agreement set-
+tling a case to which it was not a party and for which it could not be
+made a party. Star Scientific contends that in an effort to force non-
+signing parties to join the Master Settlement Agreement, Virginia dis-
+advantages nonparticipating manufacturers such as Star Scientific
+because their payments in escrow are not tax deductible. It asserts that
+this purpose is impermissible because it is unconstitutional for "an
+10  STAR SCIENTIFIC, INC. v. BEALES
+
+agent of the State to pursue a course of action whose objective is to
+penalize a person’s reliance on his legal rights" (quoting United States
+v. Goodwin, 457 U.S. 368, 372 n.4 (1982) (internal quotation marks
+and citation omitted)).
+
+   In response, Virginia argues that the qualifying statute is designed
+to protect the physical and fiscal health and welfare of the Common-
+wealth and thus is a constitutionally sound exercise of the State’s
+police powers. The Commonwealth asserts that the statute serves the
+expressly stated legitimate purpose of providing a source of recovery
+for the smoking-related healthcare costs that it will inevitably be
+forced to bear. It concludes that, under rational basis review, the exis-
+tence of this legitimate purpose ends the due process inquiry. The dis-
+trict court agreed with the Commonwealth and dismissed Star
+Scientific’s due process claim.
+
+   "In reviewing a district court’s order dismissing a complaint under
+Federal Rule of Civil Procedure 12(b)(6) for plaintiff’s ‘failure to
+state a claim upon which relief can be granted,’ we determine de novo
+whether the complaint, under the facts alleged and under any facts
+that could be proved in support of the complaint, is legally sufficient."
+Eastern Shore Mkts., Inc. v. J.D. Assoc. Ltd. Partnership, 213 F.3d
+175, 180 (4th Cir. 2000).
+
+   The Due Process Clause includes a substantive component that
+provides some protection against economic legislation interfering
+with property interests. See, e.g., Concrete Pipe & Prods. of Cal., Inc.
+v. Constr. Laborers Pension Trust for So. Cal., 508 U.S. 602, 636-37
+(1993); Usery v. Turner Elkhorn Mining Co., 428 U.S. 1, 14-15
+(1976). This protection, however, is severely limited. The Supreme
+Court has long recognized that "[t]he day is gone when this Court
+uses the Due Process Clause of the Fourteenth Amendment to strike
+down state laws, regulatory of business and industry conditions,
+because they may be unwise, improvident, or out of harmony with a
+particular school of thought." Williamson v. Lee Optical of Okla., 348
+U.S. 483, 488 (1955); see also Ferguson v. Skrupa, 372 U.S. 726, 730
+(1963) ("We have returned to the original constitutional proposition
+that courts do not substitute their social and economic beliefs for the
+judgment of legislative bodies, who are elected to pass laws").
+STAR SCIENTIFIC, INC. v. BEALES  11
+
+   To comport with the limited scope of substantive due process pro-
+tection, economic legislation need only be rationally related to a legit-
+imate government interest. See, e.g., Concrete Pipe, 508 U.S. at 637;
+Duke Power Co. v. Carolina Environmental Study Group, 438 U.S.
+59, 84 (1978); Holland v. Keenan Trucking Co., 102 F.3d 736, 740
+(4th Cir. 1996) ("If a piece of economic legislation ‘is supported by
+a legitimate legislative purpose furthered by [a] rational means, judg-
+ments about the wisdom of such legislation remain within the exclu-
+sive province of the legislative and executive branches’") (quoting
+Pension Benefit Guar. Corp. v. R.A. Gray & Co., 467 U.S. 717, 729
+(1984)). Under rational basis review, therefore, "there is no need for
+mathematical precision in the fit between justification and means,"
+Concrete Pipe, 508 U.S. at 639, and "the law need not be in every
+respect logically consistent with its aims to be constitutional. It is
+enough that there is an evil at hand for correction, and that it might
+be thought that the particular legislative measure was a rational way
+to correct it." Lee Optical, 348 U.S. at 487-88. Moreover, economic
+legislation "come[s] to the Court with a presumption of constitutional-
+ity, and . . . the burden is on one complaining of a due process viola-
+tion to establish that the legislature has acted in an arbitrary and
+irrational way." Usery, 428 U.S. at 15. Thus, "[i]t is difficult to exag-
+gerate the burden" that a party must overcome to demonstrate that
+economic legislation fails rational basis review. Holland, 102 F.3d at
+740.
+
+   The courts defer to rational legislative decisionmaking with respect
+to economic legislation because the legislatures are better equipped to
+consider and evaluate the "profound and far reaching consequences"
+that such legislation may have. Duke Power Co., 438 U.S. at 83.
+Thus, the Supreme Court has admonished that "it is for the legislature,
+not the courts, to balance the advantages and disadvantages" of eco-
+nomic legislation. Lee Optical, 348 U.S. at 487. This deference is
+appropriate because the people may "resort to the polls" to protect
+themselves against abuses by the legislature. Id. at 488 (quoting Munn
+v. Illinois, 94 U.S. 113, 134 (1876)).
+
+   Now applying this highly deferential standard, we determine
+whether Star Scientific has demonstrated that the Virginia General
+Assembly "acted in an arbitrary and irrational way" when it passed its
+qualifying statute. See Usery, 428 U.S. at 15.
+12  STAR SCIENTIFIC, INC. v. BEALES
+
+   The qualifying statute at issue — Va. Code Ann. §§ 3.1-336.1 &
+3.1-336.2 — was passed with a fully articulated purpose. In the pre-
+amble to the legislation, the Virginia General Assembly stated that
+cigarette smoking "presents serious public health concerns" which in
+turn present "serious financial concerns for the Commonwealth." It
+stated that it was therefore adopting the policy that "financial burdens
+imposed on the Commonwealth by cigarette smoking be borne by
+tobacco product manufacturers rather than by the Commonwealth to
+the extent that such manufacturers either determine to enter into a set-
+tlement with the State or be found culpable by the courts." Against
+these background facts and the policy announced, the Virginia Gen-
+eral Assembly articulated the purpose of the qualifying statute, as fol-
+lows:
+
+    Whereas, it would be contrary to the policy of the Common-
+    wealth if tobacco product manufacturers who determine not
+    to enter into such a settlement could use a resulting cost
+    advantage to derive large, short-term profits in the years
+    before liability may arise without ensuring that the Com-
+    monwealth will have an eventual source of recovery from
+    them if they are proven to have acted culpably. It is thus in
+    the interest of the Commonwealth to require that such man-
+    ufacturers establish a reserve fund to guarantee a source of
+    compensation and to prevent such manufacturers from
+    deriving large, short-term profits and then becoming
+    judgment-proof before liability may arise.
+
+In short, the statute’s stated purpose is to ensure that Virginia will be
+able to recover healthcare costs from cigarette manufacturers regard-
+less of whether the manufacturer has signed on to the Master Settle-
+ment Agreement. Giving effect to this purpose falls within the State’s
+police power to promote the public health of the State and "do[es] not
+run afoul of some specific federal constitutional prohibition, or of
+some valid federal law." Ferguson, 372 U.S. at 730-31 (quoting Lin-
+coln Fed. Labor Union v. Northwestern Iron & Metal Co., 335 U.S.
+525, 536 (1949)). Because the qualifying statute unquestionably has
+a legitimate purpose, the only viable remaining question is whether
+the statute is rationally related to furthering this purpose.
+
+   The statute requires that tobacco manufacturers who have not
+signed the Master Settlement Agreement place funds in escrow in
+STAR SCIENTIFIC, INC. v. BEALES  13
+
+proportion to the number of cigarettes that they sell in Virginia,
+directly or through intermediaries. The funds are held to secure any
+claim by the Commonwealth against the manufacturer for health-
+related claims arising from cigarette smoking. While we recognize the
+financial burden that such payments might create for any given ciga-
+rette manufacturer — a burden represented by the loss of use of sig-
+nificant amounts of money for 25 years — we note that the State
+surely could properly accomplish the same end by enacting a more
+financially burdensome form of legislation, such as an act imposing
+a tax on cigarette manufacturers but giving a tax credit to those who
+sign the Master Settlement Agreement. Under the escrow arrange-
+ment, the manufacturer receives interest currently on the funds in the
+escrow account and the full principal not used to pay judgments after
+25 years. This mechanism is rationally related to the stated purpose
+of the statute, and beyond that we must leave the weighing of interests
+and the wisdom of the legislation to the legislature. See Ferguson,
+372 U.S. at 731 (recognizing the "social utility" of debt adjusting, but
+nonetheless upholding a law that allowed only lawyers to engage in
+debt adjusting and, therefore, put out of business nonlawyer debt
+adjusters). Stated differently, because the creation of the escrow
+account is rationally related to Virginia’s legitimate purpose of ensur-
+ing that it can recover future judgments against nonparticipating
+tobacco manufacturers, we defer to the legislature’s judgment that the
+qualifying statute is the best way of dealing with the possibility of
+culpable manufacturers becoming judgment proof in the future. See
+Duke Power, 438 U.S. at 83-84 (noting that the fact that the legisla-
+tion has "profound and far-reaching consequences . . . provides all the
+more reason for this Court to defer to the congressional judgment
+unless it is demonstrably arbitrary or irrational").
+
+   Star Scientific’s challenge to the qualifying statute is based on a
+rejection of the statute’s articulated purpose. It would rather infer that
+the statute was enacted to coerce cigarette manufacturers to sign on
+to the Master Settlement Agreement. This argument ignores the fact
+that even if we were to reject the State’s articulated purpose for enact-
+ing the statute, we would then need only determine that the legislation
+has some conceivable purpose that is not prohibited by the Constitu-
+tion. See Lee Optical, 348 U.S. at 487 (considering various purposes
+on which the legislature "might" have based the legislation at issue);
+see also Minnesota v. Cloverleaf Creamery Co., 449 U.S. 456, 463
+14  STAR SCIENTIFIC, INC. v. BEALES
+
+n.7 (1981) (noting that, in equal protection analysis, the "Court will
+assume that the objectives articulated by the legislature are actual pur-
+poses of the statute, unless an examination of the circumstances
+forces us to conclude that they ‘could not have been a goal of the leg-
+islation’" (quoting Weinberger v. Wiesenfeld, 420 U.S. 636, 648 n.16
+(1975))). Obviously, one of the conceivable purposes of the statute is
+the legitimate purpose stated by Virginia and to which the means
+adopted rationally relates. Accordingly, we agree with the district
+court that the qualifying statute does not violate the Due Process
+Clause of the United States Constitution.
+
+    III
+
+   Star Scientific next contends that Virginia’s qualifying statute vio-
+lates its rights under the Equal Protection Clause. It argues that the
+statute treats tobacco companies differently based on whether or not
+they joined the Master Settlement Agreement, and that this differen-
+tial treatment is not rationally related to a legitimate government pur-
+pose. Star Scientific asserts first that the statute’s purpose is to protect
+the market share of the four largest cigarette manufacturers and that
+this protectionist purpose is illegitimate. Second, it argues that even
+if the purpose of the statute is to ensure a source of recovery for
+health care costs imposed on Virginia by cigarette smoking, this pur-
+pose is not rationally fulfilled by imposing the requirements of the
+qualifying statute only on nonparticipating members.
+
+   In response, Virginia contends that the different classifications of
+cigarette manufacturers under the qualifying statute are rationally
+related to the overall purpose of providing a source of recovery for
+healthcare costs. Just as participating manufacturers are required to
+make payments under the Master Settlement Agreement for past and
+future damages, nonparticipating members are required to put money
+into escrow which is held only for assuring that the nonparticipating
+manufacturers’ future liability is satisfied. In either case, Virginia’s
+future costs resulting from cigarette smoking are placed on the
+tobacco manufacturers who sell cigarettes in the State.
+
+   Like the analysis used in evaluating the constitutionality of eco-
+nomic legislation under the Due Process Clause, an analysis of eco-
+nomic legislation under the Equal Protection Clause is a deferential
+STAR SCIENTIFIC, INC. v. BEALES  15
+
+one. "In areas of social and economic policy, a statutory classification
+that neither proceeds along suspect lines nor infringes fundamental
+constitutional rights must be upheld against equal protection chal-
+lenge if there is any reasonably conceivable state of facts that could
+provide a rational basis for the classification." FCC v. Beach Commu-
+nications, Inc., 508 U.S. 307, 313 (1993). Stated otherwise, a statu-
+tory classification that neither employs inherently suspect distinctions
+nor burdens the exercise of a fundamental constitutional right will be
+upheld if the classification is rationally related to a legitimate state
+interest. See, e.g., Cloverleaf Creamery, 449 U.S. at 461; City of New
+Orleans v. Dukes, 427 U.S. 297, 303 (1976). This rational basis
+review is "a paradigm of judicial restraint." Beach Communications,
+508 U.S. at 314. Thus, "those attacking the rationality of the legisla-
+tive classification have the burden ‘to negative every conceivable
+basis which might support it.’ Moreover, . . . it is entirely irrelevant
+for constitutional purposes whether the conceived reason for the chal-
+lenged distinction actually motivated the legislature." Dukes, 427 U.S.
+at 314 (internal citations omitted) (quoting Lehnhausen v. Lake Shore
+Auto Parts Co., 410 U.S. 356, 364 (1973)).
+
+   Turning to whether Virginia’s qualifying statute violates the Equal
+Protection Clause, we conclude that Star Scientific has not met its
+very difficult burden. Although it is true that the qualifying statute
+creates distinctions among tobacco manufacturers based on whether
+a manufacturer signs the Master Settlement Agreement, the distinc-
+tions are rationally related to Virginia’s legitimate purpose of ensur-
+ing a source of recovery from all manufacturers for Virginia’s future
+costs related to cigarette smoking.
+
+   For those manufacturers sued by Virginia for wrongdoing, the
+Master Settlement Agreement mandates not only strict conduct
+restrictions but also nonrefundable payments in perpetuity. Manufac-
+turers joining the agreement as Subsequent Participating Manufactur-
+ers — those manufacturers who were not sued for wrongdoing —
+while not required to make the same payments as the original partici-
+pating manufacturers, nevertheless agree to be bound by conduct
+restrictions. In contrast, nonparticipating manufacturers are subject to
+no conduct restrictions, and their payments in escrow last for only 25
+years. In addition, these manufacturers receive interest on the funds
+while they are held in escrow, and the principal is fully refundable if
+16  STAR SCIENTIFIC, INC. v. BEALES
+
+the money is not needed to pay a judgment in a tobacco-related law-
+suit. Thus, the refundability of the payments is directly related to the
+nonparticipating manufacturers’ future liability for tobacco-related
+losses.
+
+   Thus, the distinctions between manufacturers signing the Master
+Settlement Agreement and manufacturers not signing are rationally
+related to their status vel non as defendants, their willingness to agree
+to conduct limitations, and Virginia’s need to ensure a source of
+recovery for all future tobacco-smoking related healthcare costs. All
+manufacturers thus bear responsibility in differing manners and
+degrees for limiting the State’s future liability for these costs. Those
+manufacturers who have not admitted to any wrongdoing and who do
+not wish to limit their future conduct retain the ability to manufacture
+and market their product in the manner they pursued before, but they
+essentially provide a surety bond against future liability for tobacco-
+smoking related healthcare costs.
+
+   Under the rational basis review applicable here, we conclude that
+Virginia’s qualifying statute is constitutional. "States are accorded
+wide latitude in the regulation of their local economies under their
+police powers, and rational distinctions may be made with substan-
+tially less than mathematical exactitude." Dukes, 427 U.S. at 303; see
+also Kimel v. Florida Bd. of Regents, 528 U.S. 62, 83 (2000) (holding
+that, under rational basis review, the Equal Protection Clause does not
+require States "to match age distinctions and the legitimate interests
+they serve with razorlike precision"). Even though the tobacco manu-
+facturers are treated differently, the differences in treatment are
+related to their different circumstances, allowing the State to accom-
+plish its legitimate purposes. "[W]e will not overturn such a statute
+unless the varying treatment of different groups or persons is so unre-
+lated to the achievement of any combination of legitimate purpose
+that we can only conclude that the legislature’s actions were irratio-
+nal." Vance v. Bradley, 440 U.S. 93, 97 (1979). This deference that
+we give Virginia’s legislative decisions recognizes that "[e]vils in the
+same field may be of different dimensions and proportions, requiring
+different remedies. Or so the legislature may think. Or the reform may
+take one step at a time, addressing itself to the phase of the problem
+which seems most acute to the legislative mind." Lee Optical, 348
+U.S. at 489 (internal citations omitted).
+STAR SCIENTIFIC, INC. v. BEALES  17
+
+   Star Scientific acknowledges that providing a source of recovery
+for the possible harm caused to the State treasury by cigarettes is a
+legitimate state purpose. It argues, however, that the distinction in
+Virginia’s qualifying statute between manufacturers who signed the
+Master Settlement Agreement and those who did not is not rationally
+related to this purpose or any other legitimate State purpose. It gives
+several examples.
+
+   First, Star Scientific argues that nonparticipating manufacturers are
+actually treated more harshly under the qualifying statute than are par-
+ticipating manufacturers because nonparticipating manufacturers are
+required to pay more money and do more to assure against becoming
+judgment proof in the future than are participating manufacturers. It
+points to the fact that Subsequent Participating Manufacturers who
+signed the Master Settlement Agreement within 90 days are not obli-
+gated to pay any damages as long as their market share stays within
+specified bounds. On the other hand, Star Scientific, as a nonpartici-
+pating manufacturer, is obligated to pay a fixed amount for each ciga-
+rette sold in Virginia regardless of its market position there.
+
+   Similarly, Star Scientific notes that the payments made by nonpar-
+ticipating members under the qualifying statute greatly exceed the
+equivalent payments made by participating manufacturers to cover
+future liability. It explains that while all of the payments made by
+nonparticipating manufacturers under the qualifying statute are used
+to pay for future harms caused to the Commonwealth, only 5% of the
+payments made by participating manufacturers go to addressing
+future harms. To support this assertion, Star Scientific refers to the
+consent decree entered in Virginia’s lawsuit against the major manu-
+facturers, which provides that Virginia has determined that 5% of the
+payments required under the Master Settlement Agreement "shall be
+apportioned and deemed attributed to the monetary payment" sought
+in its complaint.
+
+   Star Scientific’s arguments demonstrate that Virginia’s qualifying
+statute does not treat nonparticipating manufacturers the same as it
+does manufacturers who subscribed to the Master Settlement Agree-
+ment. But the fact that manufacturers in different circumstances are
+not treated the same does not mean that the distinctions are irrational
+or so unrelated to a legitimate purpose that they must be struck down
+18  STAR SCIENTIFIC, INC. v. BEALES
+
+under the Equal Protection Clause. Indeed, the distinctions made by
+Virginia are rational. Virginia initially made an assessment of those
+manufacturers who contributed most to its healthcare costs from ciga-
+rette smoking, and it sued those manufacturers. Star Scientific was not
+one of those accused by the Commonwealth and, therefore, was not
+named a defendant in the litigation. That litigation was resolved
+against the major manufacturers by the Master Settlement Agreement,
+under which the manufacturers agreed not only to make payments and
+pay attorneys fees but also to restrict their conduct. They agreed to
+limit their advertising and marketing of cigarettes, to limit their lob-
+bying efforts, to disband their industrial associations, and to alter their
+research policies. These agreements are not insignificant and, indeed,
+such restrictions might not be enforceable as involuntary governmen-
+tal bans. Moreover, the payments made to the Commonwealth by the
+participating manufacturers are not refundable, nor do the manufac-
+turers receive interest on their payments.
+
+   The nonparticipating manufacturers, on the other hand, are not
+required to limit their conduct. Their payments are refundable and
+earn interest. In addition, they are not required to pay the Common-
+wealth’s attorneys fees.
+
+   In short, the distinction between participating manufacturers and
+nonparticipating manufacturers is rationally related to Virginia’s
+efforts to redress alleged wrongdoing and, at the same time, to assure
+a future source for covering the costs of cigarette smoking from all
+tobacco manufacturers.
+
+   While the Master Settlement Agreement resolved the litigation
+between Virginia and the major tobacco manufacturers — those
+determined by the Commonwealth to be principally responsible for its
+losses — it also provided an incentive to other manufacturers to par-
+ticipate in the limitations on conduct that the Commonwealth felt
+were beneficial to it and the citizens of Virginia. Thus, every other
+manufacturer not sued by the Commonwealth was invited to join the
+Master Settlement Agreement as a "Subsequent Participating Manu-
+facturer." Such Subsequent Participating Manufacturers were not
+required to make payments but agreed to limit their conduct. Star Sci-
+entific was free to join the Master Settlement Agreement as a Subse-
+quent Participating Manufacturer if it concluded that this would have
+STAR SCIENTIFIC, INC. v. BEALES  19
+
+been a better deal for it, but, apparently for business reasons, it
+elected not to participate in that capacity.
+
+   Also, the fact that Star Scientific may end up paying relatively
+more toward future healthcare costs than participating manufacturers
+is directly related to Star Scientific’s future liability, which may be
+higher than that of participating manufacturers because it is not bound
+by any conduct restrictions. If its liability is not higher, it will receive
+its escrow payments back, with interest.
+
+   In sum, we conclude that the distinctions drawn in Virginia’s quali-
+fying statute between tobacco manufacturers participating in the Mas-
+ter Settlement Agreement and those not participating are rationally
+related to the State’s purpose of ensuring a source of recovery from
+all cigarette manufacturers who are held liable for smoking-related
+healthcare costs. The Commonwealth’s decision to require nonpartici-
+pating manufacturers to place funds in an escrow account is not "in-
+vidious discrimination" or a "wholly arbitrary act." Dukes, 427 U.S.
+at 303-04. Rather, it is a rational system for assessing tobacco manu-
+facturers for the costs of cigarette smoking as well as regulating their
+conduct to the extent that they were sued and agreed to resolve that
+suit through settlement. We therefore conclude that the qualifying
+statute does not violate the Equal Protection Clause.
+
+IV
+
+   Star Scientific contends that Virginia’s qualifying statute also vio-
+lates the Commerce Clause, which gives Congress the power "[t]o
+regulate Commerce with foreign Nations, and among the several
+States, and with the Indian Tribes." U.S. Const. art. I, § 8, cl. 3. This
+argument focuses on the aspect of the qualifying statute that assesses
+an escrow payment amount on each cigarette sold by nonparticipating
+tobacco manufacturers "within the Commonwealth, whether directly
+or through a distributor, retailer or similar intermediary or intermedi-
+aries." Va. Code Ann. § 3.1-336.2.A (emphasis added); see also id.
+§ 3.1-336.1 (defining cigarette "units sold" as those sold in the Com-
+monwealth "whether directly or through a distributor, retailer or simi-
+lar intermediary or intermediaries"). More particularly, Star Scientific
+argues that the statute requires it to make payments on cigarettes sold
+by it to independent distributors in other states if the cigarettes are
+20  STAR SCIENTIFIC, INC. v. BEALES
+
+later sold into Virginia. It maintains that, in this manner, the qualify-
+ing statute regulates transactions beyond the Commonwealth’s bor-
+ders and excessively burdens interstate commerce.
+
+   In response, Virginia maintains that its qualifying statutes regulate
+only the sale of cigarettes in Virginia. It contends that any incidental
+burden placed on interstate commerce by operation of the statute is
+outweighed by Virginia’s strong interest in assuring its ability to
+recover the costs of tobacco use imposed on it by cigarette manufac-
+turers.
+
+   The constitutional grant of authority to Congress to regulate inter-
+state commerce "has long been understood, as well, to provide ‘pro-
+tection from state legislation inimical to the national commerce [even]
+where Congress has not acted.’" Barclays Bank PLC v. Franchise Tax
+Bd. of Cal., 512 U.S. 298, 310 (1994) (quoting Southern Pac. Co. v.
+Arizona ex rel. Sullivan, 325 U.S. 761, 769 (1945)). This "negative
+command, known as the dormant Commerce Clause," prohibits States
+from legislating in ways that impede the flow of interstate commerce.
+Oklahoma Tax Comm’n v. Jefferson Lines, Inc., 514 U.S. 175, 179
+(1995). The dormant Commerce Clause’s limitation on State power,
+however, "is by no means absolute. In the absence of conflicting fed-
+eral legislation the States retain authority under their general police
+powers to regulate matters of ‘legitimate local concern,’ even though
+interstate commerce may be affected." Lewis v. BT Investment Mgrs.,
+Inc., 447 U.S. 27, 36 (1980).
+
+   To determine whether a State statute violates the dormant Com-
+merce Clause, we conduct a two-tiered analysis. Brown-Forman Dis-
+tillers Corp. v. New York State Liquor Auth., 476 U.S. 573, 578-79
+(1986); Environmental Technology Council v. Sierra Club, 98 F.3d
+774, 785 (4th Cir. 1996). "When a state statute directly regulates or
+discriminates against interstate commerce, or when its effect is to
+favor in-state economic interests over out-of-state interests," the stat-
+ute is generally struck down "without further inquiry." Brown-
+Forman, 476 U.S. at 579. Thus, for State statutes that discriminate
+against interstate commerce, we apply "a virtually per se rule of inva-
+lidity." Philadelphia v. New Jersey, 437 U.S. 617, 624 (1978); see
+also Wyoming v. Oklahoma, 502 U.S. 437, 454-55 (1992). When,
+however, a statute does not discriminate against interstate commerce
+STAR SCIENTIFIC, INC. v. BEALES  21
+
+but rather "regulates evenhandedly and only indirectly affects inter-
+state commerce," we conduct a fuller analysis — the second tier —
+involving a balancing test. See Environmental Technology Council,
+98 F.3d 785; see also Brown-Forman, 476 U.S. at 579. In conducting
+this second-tier analysis, we look to "whether the State’s interest is
+legitimate and whether the burden on interstate commerce clearly
+exceeds the local benefits." Brown-Forman, 476 U.S. at 579 (citing
+Pike v. Bruce Church, Inc., 397 U.S. 137, 142 (1970)).
+
+   Star Scientific argues first that the qualifying statute is invalid per
+se because it directly regulates commerce occurring wholly outside of
+Virginia’s boundaries. It maintains that "a State violates the Com-
+merce Clause if it attempts to regulate aspects of the stream of com-
+merce that occur upstream, outside the State’s borders." It correctly
+notes that a State may not regulate commerce occurring wholly out-
+side of its borders. See Edgar v. Mite Corp., 457 U.S. 624, 642-43
+(1982) (noting that "[t]he Commerce Clause . . . precludes the appli-
+cation of a state statute to commerce that takes place wholly outside
+of the State’s borders, whether or not the commerce has effects within
+the State"); Brown-Forman, 476 U.S. at 582-83; Healy v. Beer Inst.,
+491 U.S. 324, 335-36 (1989). Nor may a State pass laws that have
+"the ‘practical effect’ of regulating commerce occurring wholly out-
+side the State’s borders." Healy, 491 U.S. at 332. This proposition is
+based on the common sense conclusion that "a statute that directly
+controls commerce occurring wholly outside the boundaries of a State
+exceeds the inherent limits of the enacting State’s authority," regard-
+less of the State’s legislative intent. Healy, 491 U.S. at 336. Star Sci-
+entific maintains that Virginia’s qualifying statute is analogous to the
+statutes held unconstitutional in Brown-Forman and Healy.
+
+   In Brown-Forman, the Supreme Court struck down a provision of
+the New York Alcoholic Beverage Control Law that required liquor
+distillers to affirm that their prices were no higher than the lowest
+price at which the same product would be sold in any other state dur-
+ing the month. 476 U.S. at 575-76. The Court found that, while the
+law was addressed only to the sale of liquor in New York, "the ‘prac-
+tical effect’ of the law [was] to control liquor prices in other States"
+because "[o]nce a distiller has posted prices in New York, it is not
+free to change its prices elsewhere in the United States during the rel-
+evant month." Id. at 582-83. Thus, the Court found the law invalid
+22  STAR SCIENTIFIC, INC. v. BEALES
+
+because "[f]orcing a merchant to seek regulatory approval in one
+State before undertaking a transaction in another directly regulates
+interstate commerce." Id. at 582.
+
+   In the same vein, the Court in Healy struck down the Connecticut
+Liquor Control Act which required out-of-state beer shippers to
+affirm that the prices at which their products were sold to Connecticut
+wholesalers were no higher than the prices at which those same prod-
+ucts were sold in bordering states. 491 U.S. at 326-27. The Court held
+the statute unconstitutional because it had the practical effect of con-
+trolling liquor prices in other States and interfered with the regulatory
+schemes in those States. Id. at 338-39.
+
+   Virginia’s qualifying statute, however, rather than aiming at or
+reacting to commerce outside of Virginia, specifically limits its appli-
+cability to the sale of cigarettes "within the Commonwealth." Va.
+Code Ann. § 3.1-336.2.A; see also id. § 3.1-336.1 (defining "units
+sold" as "individual cigarettes sold in the Commonwealth"). Thus,
+rather than regulate "upstream transactions" outside of the State, the
+Virginia qualifying statute imposes a fee only for cigarettes actually
+sold within the State. It has no effect on transactions undertaken by
+out-of-state distributors in other States.
+
+   To the extent that the statute may affect the prices charged by out-
+of-state distributors, the effect is applicable only to prices charged on
+cigarettes sold within Virginia. The statute does not insist on price
+parity with cigarettes sold outside of the State. The statute therefore
+does not have the "practical effect" of controlling prices or transac-
+tions occurring wholly outside of the boundaries of Virginia, as was
+the case in Brown-Forman and Healy. Thus, the rule of per se invalid-
+ity does not apply to the qualifying statute.
+
+   Star Scientific argues that in any event, Virginia’s qualifying stat-
+ute fails the balancing test applicable to State economic regulations
+that indirectly affect interstate commerce. It asserts that the burden
+that the qualifying statute places on interstate commerce clearly
+exceeds its local benefits.
+
+   The balancing test applicable to nondiscriminatory legislation
+affecting interstate commerce was set out in Pike, 397 U.S. at 142:
+STAR SCIENTIFIC, INC. v. BEALES                                  23
+
+Where the statute regulates even-handedly to effectuate a
+legitimate local public interest, and its effects on interstate
+commerce are only incidental, it will be upheld unless the
+burden imposed on such commerce is clearly excessive in
+relation to the putative local benefits. If a legitimate local
+purpose is found, then the question becomes one of degree.
+And the extent of the burden that will be tolerated will of
+course depend on the nature of the local interest involved,
+and on whether it could be promoted as well with a lesser
+impact on interstate activities.
+
+(internal citation omitted). To apply this Pike balancing test, we con-
+sider (1) the nature of the local benefits advanced by the statute; (2)
+the burden placed on interstate commerce by the statute; and (3)
+whether the burden is "clearly excessive" when weighed against these
+local benefits. Id.
+
+   As we discussed in Parts II and III, above, Virginia’s qualifying
+statute serves the legitimate state interest of ensuring that Virginia has
+a source of recovery for future smoking-related healthcare costs
+attributable to tobacco manufacturers who have not subscribed to the
+Master Settlement Agreement and who, therefore, are not already
+compensating the Commonwealth for these healthcare costs. Thus,
+the putative local benefits are both legitimate and important. We also
+conclude that the burden of the State’s economic regulation on inter-
+state commerce is minimal.
+
+   Star Scientific argues, however, that because the escrow payments
+are imposed on cigarettes sold not only by it, but also by its distribu-
+tors, even when the distributors purchased the cigarettes outside of the
+State, Star Scientific is required to "police interstate sales or channel
+those sales into contractual forms that may be more burdensome to
+commerce." Star Scientific is, however, overstating its burden. As
+Virginia points out, distributors in Virginia are already required to
+record the number of cigarettes they stamp with the Virginia excise
+stamp and report that information to the Commonwealth. See Va.
+Code Ann. § 58.1-1000 et seq. Because distributors already have to
+keep track of this information, any additional burden caused by
+requiring manufacturers to obtain this information from the distribu-
+tors is minimal.
+24  STAR SCIENTIFIC, INC. v. BEALES
+
+   Given the important State interest advanced by the qualifying stat-
+ute and the minimal burden placed on interstate commerce by its
+operation, we conclude that the burden on interstate commerce is not
+"clearly excessive" when compared to the putative local benefits. See
+Pike, 397 U.S. at 142. Thus, we agree with district court that the qual-
+ifying statute does not violate the Commerce Clause.
+
+    V
+
+   Finally, Star Scientific challenges the Master Settlement Agree-
+ment itself, contending that it violates the Compact Clause of Article
+1, § 10, of the Constitution, which provides that "no State shall, with-
+out the consent of Congress, . . . enter into any Agreement or Com-
+pact with another State." U.S. Const. art. I, § 10, cl. 3. Star Scientific
+asserts that the Master Settlement Agreement is in fact an interstate
+compact and that, because it has not been approved by Congress, the
+Agreement, as well as the qualifying statutes enacted pursuant to it,
+are invalid.
+
+   Virginia contends that Star Scientific lacks standing to challenge
+the Master Settlement Agreement, a settlement to which it is not a
+party. It argues that because invalidating the Master Settlement
+Agreement would not release Star Scientific from its obligations
+under the qualifying statute, the purported injury that Star Scientific
+claims from having to pay into the escrow fund under the qualifying
+statute is not redressable by its challenge to the Master Settlement
+Agreement. On the merits, Virginia argues that the Compact Clause
+is, in any event, not applicable to the Master Settlement Agreement
+because the agreement does not enhance the political power of Vir-
+ginia or any other State in a way that encroaches upon the supremacy
+of the United States. In addition, Virginia asserts that Congress has
+implicitly, if not expressly, provided any consent that might be
+needed. See Cuyler v. Adams, 449 U.S. 433, 441 (1981) (recognizing
+implied consent given in a statute enacted prior to the formation of
+an interstate compact); Virginia v. Tennessee, 148 U.S. 503, 521-22
+(1893) (recognizing implied consent to a Border Agreement by treat-
+ing Border as valid for subsequent revenue, electoral, and judicial
+purposes); Greene v. Biddle, 21 U.S. (8 Wheat.) 1, 86-87 (1823) (rec-
+ognizing implied consent given by admitting State into the Union). In
+support of this argument, Virginia points to Congress’ amendment to
+STAR SCIENTIFIC, INC. v. BEALES  25
+
+the Medicaid statute in 1991, in which Congress authorized the States
+to use Master Settlement Agreement funds "for any expenditures
+determined appropriate." Specifically, the amendment provided that
+federal rules governing health overpayments "shall not apply to any
+amount recovered or paid to a State as part of the comprehensive set-
+tlement of November 1998 between manufacturers of tobacco prod-
+ucts . . . and State Attorneys General." 42 U.S.C. § 1396b(d)(3)(B)(i-
+ii) (Supp. V 1999).
+
+   The district court agreed with Virginia and did not reach the merits
+of the Compact Clause argument. We will address both the standing
+and the merits issues, seriatim.
+
+A
+
+   Article III of the Constitution limits the jurisdiction of federal
+courts to actual "cases" or "controversies." U.S. Const. art. III, § 2.
+Thus, it is a jurisdictional requirement that a person challenging a
+government action be a party to a live case or controversy. This stand-
+ing requirement "is an essential and unchanging part of the case-or-
+controversy requirement of Article III." Lujan v. Defenders of Wild-
+life, 504 U.S. 555, 560 (1992) (citing Allen v. Wright, 468 U.S. 737,
+751 (1984)). To establish standing, a party must establish, as "the irre-
+ducible constitutional minimum," three elements: (1) that it has suf-
+fered an injury in fact that is both concrete and particularized and
+"actual or imminent, not conjectural or hypothetical"; (2) that there is
+a causal connection between the injury and the conduct complained
+of, i.e. the injury is "fairly traceable" to the challenged action; and (3)
+that it is "likely . . . that the injury will be redressed by a favorable
+decision." Id. at 560-61 (internal quotation marks and citations omit-
+ted); Burke v. City of Charleston, 139 F.3d 401, 405 (4th Cir. 1998).
+
+   In this case, Star Scientific contends that its payments into escrow
+pursuant to Virginia’s qualifying statute impose an actual and con-
+crete injury that is "fairly traceable" to the Master Settlement Agree-
+ment because the Master Settlement Agreement coerced the
+Commonwealth to enact the qualifying statute that causes Star Scien-
+tific’s injury. Accordingly, it argues, its injury will be redressed by a
+favorable decision invalidating the Master Settlement Agreement.
+26  STAR SCIENTIFIC, INC. v. BEALES
+
+   Virginia contends, however, that instead of requiring the States to
+enact escrow statutes, the Master Settlement Agreement only encour-
+ages the enactment of such statutes. It asserts that every settling State
+retains "full freedom not to pass the ‘contemplated’ law, and a State
+that chooses not to do so remains a full party to the Master Settlement
+Agreement." If a state does not enact a qualifying statute, the tobacco
+companies remain released from liability for past and future claims
+and the States receive the benefit of the conduct restrictions imposed
+on the tobacco companies by the agreement. In addition, in certain
+peculiar circumstances a State that fails to enact a qualifying statute
+might still receive some payments.
+
+   Star Scientific acknowledges that there is not a complete depen-
+dency between the Master Settlement Agreement and the qualifying
+statute, but it maintains it has standing to challenge the Master Settle-
+ment Agreement because the agreement is powerfully coercive. The
+Master Settlement Agreement, it argues, "provides enormous finan-
+cial incentives for the Commonwealth to adopt the Qualifying Statute
+and imposes large penalties if the statute is repealed." We agree with
+Star Scientific.
+
+   In Bennett v. Spear, 520 U.S. 154 (1997), the Supreme Court was
+presented with a similar situation and found sufficient coercion to
+form the basis for standing. In that case, the plaintiffs challenged a
+Biological Opinion issued by the Fish and Wildlife Service, claiming
+that the allocation of water required by the Opinion affected the
+amount of water available to the plaintiffs. Id. at 167-68. The govern-
+ment argued that the harm asserted by the plaintiffs was not caused
+by the Biological Opinion because the Bureau of Reclamation was an
+intervening actor determining whether to implement the requirements
+of the Opinion. Id. at 168. The Supreme Court rejected this argument
+and concluded that while the Bureau was "technically free to disre-
+gard the Biological Opinion . . . it [did] so at its own peril" and faced
+substantial penalties if it ignored the opinion. Id. at 170. In these cir-
+cumstances, the Court concluded that the plaintiffs’ injuries were
+fairly traceable to the Biological Opinion despite the intervening
+action of the Bureau of Reclamation.
+
+   Similarly, the Master Settlement Agreement, while not technically
+requiring Virginia to enact a qualifying statute, nevertheless imposes
+STAR SCIENTIFIC, INC. v. BEALES  27
+
+a powerful incentive for it to do so. Virginia would suffer large penal-
+ties if it failed to enact the statute. For example, if the participating
+manufacturers were to lose market share and their loss was attribut-
+able to their payments under the Master Settlement Agreement and to
+the nonparticipating manufacturers’ freedom from such payments, the
+"Firm" (the administrative body created under the Master Settlement
+Agreement) could determine that this loss was caused by Virginia’s
+failure to enact a qualifying statute and, on that basis, decrease Vir-
+ginia’s payments from the manufacturers under the agreement.
+Because Virginia could face a substantial financial burden if it were
+not to enact a qualifying statute, the Master Settlement Agreement is
+coercive in requiring the states to pass such a statute. We conclude
+that this coercion is significant and that, therefore, Star Scientific’s
+injuries may be fairly traceable to the requirements of the Master Set-
+tlement Agreement. Accordingly, we conclude that Star Scientific has
+standing to challenge the Master Settlement Agreement under the
+Compact Clause.
+
+B
+
+   The Compact Clause does not require congressional approval of
+every agreement between or among States. Instead, the Supreme
+Court has held that "the proper balance between federal and state
+power with respect to compacts and agreements among states" is
+maintained by limiting application of the Compact Clause to agree-
+ments that are "directed to the formation of any combination tending
+to the increase of political power in the States, which may encroach
+upon or interfere with the just supremacy of the United States." Vir-
+ginia v. Tennessee, 148 U.S. 503, 519 (1893); see also Northeast Ban-
+corp., Inc. v. Board of Governors of the Fed. Res. Sys., 472 U.S. 159,
+175-76 (1985); United States Steel Corp. v. Multi-State Tax Comm’n,
+434 U.S. 452, 471 (1978); New Hampshire v. Maine, 426 U.S. 363,
+369 (1975).
+
+   The Master Settlement Agreement principally operates vertically
+between each State and the signatory tobacco companies, providing
+releases from liability to the tobacco companies in exchange for con-
+duct restrictions and payments. But in administering the amount of
+payments under the Master Settlement Agreement and their relation-
+ship to the escrow accounts established under qualifying statutes, the
+28  STAR SCIENTIFIC, INC. v. BEALES
+
+Master Settlement Agreement creates an administrative body — the
+Firm, consisting of economic consultants — to determine compliance
+with the Master Settlement Agreement. To the extent that the States
+agree on the creation of this single administrative body and its func-
+tioning, there is a horizontal aspect to the Master Settlement Agree-
+ment that establishes a compact among the States, implicating the
+Compact Clause.
+
+   Although the Master Settlement Agreement implicates the Com-
+pact Clause, we see no reason to conclude that it encroaches on fed-
+eral power. In Multi-State Tax Commission, the Supreme Court
+upheld a compact resulting in reciprocal State legislation and estab-
+lishing an administrative body to coordinate State taxation of certain
+entities. 434 U.S. at 472-73. The Court noted that the compact might
+result in an increase in bargaining power of the member States with
+respect to the corporations subject to their taxing jurisdictions, but it
+found such an increase in power to be acceptable because "the test is
+whether the Compact enhances state power quoad the National Gov-
+ernment." Id. at 473. Similarly, the Master Settlement Agreement may
+result in an increase in bargaining power of the States vis-a-vis the
+tobacco manufacturers, but this increase in power does not interfere
+with federal supremacy because the Master Settlement Agreement
+"does not purport to authorize the member States to exercise any pow-
+ers they could not exercise in its absence." Multi-State Tax Comm’n,
+434 U.S. at 473.
+
+   In addition, the Master Settlement Agreement does not derogate
+from the power of the federal government to regulate tobacco. Sec-
+tions X and XVIII(a) of the agreement specifically anticipate that
+Congress may, in the future, pass laws regulating tobacco and pro-
+vides for adjustments of the Master Settlement Agreement’s terms if
+that occurs. Similarly, Star Scientific’s argument that the Master Set-
+tlement Agreement derogates from the federal bankruptcy policy is
+without merit. Again, Section XVIII(w)(1)(c) of the Master Settle-
+ment Agreement, dealing with bankruptcy, specifically states that the
+provision is only enforceable if consistent with the Bankruptcy Code.
+
+   In sum, we conclude that the Master Settlement Agreement does
+not increase the power of the States at the expense of federal suprem-
+STAR SCIENTIFIC, INC. v. BEALES  29
+
+acy and that, therefore, it is not an interstate compact requiring con-
+gressional approval under the Compact Clause.
+
+VI
+
+   Today, it is generally recognized that "tobacco use, particularly
+among children and adolescents, poses perhaps the single most signif-
+icant threat to public health in the United States." Lorillard Tobacco
+Co. v. Reilly, 121 S. Ct. 2404, 2430 (2001) (internal quotation marks
+and citation omitted). The costs attributable to this major public
+health issue are borne by various constituencies, including the States.
+Through years of lawsuits and settlement agreements, the States and
+the major tobacco companies have finally reached an agreement
+broadly addressing the public health threat, and this agreement, if it
+is to be effective, necessarily has implications beyond the parties,
+reaching nonsettling tobacco companies, such as Star Scientific.
+
+   Regardless of Star Scientific’s innocence in any alleged wrongdo-
+ing — allegations that made the Master Settlement Agreement with
+the major manufacturers possible — Star Scientific remains a tobacco
+company whose products continue to threaten the public health. For
+that reason alone, its inclusion in a legislative scheme to establish
+financial responsibility for this public health issue is not inherently
+irrational. Indeed, it falls squarely within the States’ police power to
+promote the public health, safety, welfare, and morals of the State.
+See Berman v. Parker, 348 U.S. 26, 32 (1954).
+
+   Star Scientific might rightly claim innocence as to past wrongdoing
+and might even be justified in claiming credit for its efforts to educate
+would-be smokers about the adverse effects of smoking and for its
+efforts to reduce, through research, cancer-causing toxins in ciga-
+rettes. But it cannot deny that it is a cigarette manufacturer whose
+products will continue to threaten the public health. While it does not
+suggest any such denial, it nevertheless persists in its particular claim
+that the entire arrangement created by the Master Settlement Agree-
+ment and qualifying statutes effects an improper and unjust transfer
+of large amounts of money from cigarette manufacturers to settling
+States while openly protecting the profits of the alleged wrongdoers.
+It characterizes this claim as follows:
+30  STAR SCIENTIFIC, INC. v. BEALES
+
+    Such naked rent-seeking legislation to protect the position of
+    politically favored actors usually comes cloaked in the
+    sheep’s clothing of some legitimate state purpose to which
+    the regulation bears a plausible relation. And in the dim
+    light of rational basis review, this often-transparent disguise
+    is good enough.
+
+       "But this wolf comes as a wolf," Morrison v. Olson, 487
+    U.S. 654, 699 (1988) (Scalia, J. dissenting), because the
+    MSA states that the "Qualifying Statute" must "effectively
+    and fully neutralize[ ] the cost disadvantages that the Partici-
+    pating Manufacturers experience vis-a-vis Non-Participating
+    Manufacturers within such Settling State as a result of the
+    provisions of this Agreement." Whether viewed under the
+    lens of due process or equal protection, that purpose is con-
+    stitutionally impermissible. The Constitution simply does
+    not allow a State to protect its judgment creditors by impos-
+    ing financial burdens on their competitors who have not
+    been found liable to the State.
+
+This viewpoint, however, fails to account fully for the larger continu-
+ing problem to which Star Scientific necessarily and unquestionably
+contributes. It also fails to recognize the justifications for the mean-
+ingful distinctions in the treatment of the major tobacco manufactur-
+ers, who were targeted with alleged wrongdoing, and the smaller
+tobacco companies, such as Star Scientific, who were not, but yet still
+threatened the public health.
+
+   Not only are the major tobacco manufacturers’ payments of over
+$200 billion irrevocable and without interest, their conduct in associ-
+ating with each other, in advertising, in marketing, and in researching
+tobacco products is permanently restricted. These manufacturers also
+have agreed to reimburse the States for their attorneys fees. Even
+though nonparticipating tobacco manufacturers, such as Star Scien-
+tific, are required to pay comparable amounts into an escrow fund,
+such payments earn interest for the manufacturer, and the principal is
+returned after 25 years if the company does not incur tobacco-related
+liability. If Star Scientific had found these differences in treatment
+unfair, it was free to participate in the Master Settlement Agreement
+as a Subsequent Participating Manufacturer. While this choice may
+STAR SCIENTIFIC, INC. v. BEALES  31
+
+not have been an ideal one for Star Scientific and either option would
+surely burden its operations, the effect of either option is no different
+than the effect of a tax that might have been imposed to pay for the
+public health costs. When viewed in this larger context, Star Scientif-
+ic’s claim of irrationality and impermissible discrimination by Vir-
+ginia cannot be sustained.
+
+   For the reasons we have given, we reject Star Scientific’s constitu-
+tional challenge to the qualifying statute based on the Due Process,
+Equal Protection, and Commerce Clauses of the United States Consti-
+tution, and we likewise reject its challenge to the Master Settlement
+Agreement under the Compact Clause. The judgment of the district
+court is accordingly
+
+                                 AFFIRMED.
+

@@ -1,0 +1,85 @@
+# Dow Chemical Co. v. Stephenson — clean source preflight
+
+**Scope:** No. 02-271; June 9, 2003 merits event; D2, original representation, finality, and the time of the adequacy inquiry. This is source validation, not Justice modeling, a commitment, or a decision. The supplied event is properly before the Court; no docket-admission blocker is created here. Isaacson's antecedent removal question remains separate from both granted adequacy questions.
+
+**Research cutoff:** Before June 9, 2003. The argument occurred February 26, 2003. Earlier current-term law is used only if effective before the event.
+
+**Read boundary and sources:** AGENTS.md; Engine §§3A, 5, and 14; scoped neutral packet §149; the argument source receipt and the complete 175-turn argument transcript; relevant date-eligible Holdings and Standards and Tests excerpts in the chunk's entering-law slice; and the earlier current-term neutral entries for Syngenta, Bridgestone/Firestone, Dow Corning, and Beneficial National Bank. No current-matter commitment, reconciliation, comparator, controlled position, brief, raw Decision Record, or Supreme Court merits outcome was consulted. This validates the receipt against the transcript and entering law; it does not independently authenticate the underlying settlement proceedings. The authorized optional lower-opinion text was not present. That source limitation proves nothing about the Court's file or a litigant's conduct and supplies no production-order or factual-hearing entitlement.
+
+## 1. The two granted questions remain distinct
+
+The first question concerns the permissible collateral challenge to adequate representation after final approval, express adequacy determinations, and opportunities to opt out, object, and appeal. It includes the legal significance of those earlier adjudications and the standard governing a permissible challenge. It is not answered merely by calling the judgment final, nor by describing a claimant as absent.
+
+The second question concerns the time and material used to assess representation: the original litigation and allocation, compared with later manifestations, later administration, or later law. It remains necessary even if some collateral challenge is available. A defect in original representative authority, an alleged failure during later administration, hindsight about an uncertain bargain, and a new procedural rule are different propositions. Each requires its own supported legal connection to the binding effect challenged here. [Neutral packet §149, questions granted and Issue 3; transcript turns 2, 50, 73, 117–121, 137–143, 159–165.]
+
+Isaacson's removal does not replace the second question. Syngenta rejects the All Writs Act and ancillary settlement enforcement as substitutes for independent removal jurisdiction. Respondents agree at argument that Syngenta calls for a remand, but manufacturers subsequently assert §1442. That assertion preserves a matter to examine; it does not establish that provision's predicates or preservation, and respondents' assent does not concede the absence of every independent ground. [Transcript turns 80–91, 167; Syngenta, November 5, 2002, earlier current-term neutral entry.]
+
+## 2. Established packet history and its limits
+
+The neutral packet supplies the following history, whose existence the argument does not erase:
+
+- The 1984 settlement included exposed veterans without manifested injuries. Direct death or disability compensation covered events through December 31, 1994. These present claimants allege diseases manifesting after that period.
+- The original court found representation adequate. The Second Circuit in 1987 expressly rejected an adequacy challenge, emphasizing the common military-contractor defense. Ivy/Hartman later sustained representation for claimants whose injuries manifested later but while compensation remained available.
+- The November 30, 2001 judgment under review distinguished claimants outside that compensation period and stated that the adequacy of their particular category had not previously been determined. Manufacturers contest the category-specific distinction and rely on prior determinations addressing the entire class.
+- The dismissal under review arose under Rule 12(b)(6). Exposure, causation, compensable disease, damages, and ultimate tort liability are not established by the packet or by argument.
+
+These are the packet's reported procedural and factual premises, not fresh findings made by this preflight. The dispute is about the reach and binding significance of known earlier adjudications; it must not be restated as an absence of any prior adequacy adjudication. Nor does the present panel's characterization independently establish every underlying allocation or representation fact. [Neutral packet §149, material record, reasoning below, and material uncertainty.]
+
+## 3. What counsel actually maintained or acknowledged
+
+### Manufacturers
+
+Manufacturers acknowledge that respondents may challenge the judgment's asserted preclusive effect; their opening dispute concerns the permissible scope and standard of review, particularly renewed determination of adequacy from the beginning. Their argument therefore is not an unqualified concession to de novo constitutional adequacy review. [Transcript turn 2.]
+
+They offer three related grounds: conscientious use of protective class procedures and the absence of a shown fraud or collusion should end the inquiry; alternatively, substantive adequacy should receive very substantial collateral deference; and the representation was adequate because all veterans faced common serious defenses and uncertain recovery. Counsel invokes ordinary finality and jurisdictional-adjudication cases and criminal collateral-review analogies. Those are proposed legal analogies, not an entering-law rule adopted for this class judgment. [Turns 2, 28, 34, 38–40, 50, 73, 167–173.]
+
+Counsel expressly acknowledges that the named representatives were symptomatic. Counsel also accepts, in response to the allocation-stage question, that individual veterans heard in the process were not thereby representatives and that the court was not itself a representative. These are counsel's acknowledgments in this argument; they are not a concession that the arrangement was constitutionally inadequate. Manufacturers maintain that shared defenses, hearings, submissions, judicial supervision, and actual benefits nonetheless supplied adequate protection. [Turns 25–38.]
+
+Manufacturers' representations about notice findings, unavailable veteran lists, the selection and receipt of benefits by particular representatives, the allocation hearings, future-claim reserves, the cutoff's causal justification, assistance spending, legislation, and the value of the claims remain advocacy except to the extent separately established in the packet. Their claim that the precise future-interest objection had already been adjudicated is disputed, including on rebuttal. No absence of fraud, proof of scientific causation, or benefit to these respondents is newly found here. [Turns 4, 6, 22–24, 28–44, 50, 167, 173.]
+
+### Claimants
+
+Claimants distinguish a challenge to representative authority over their rights from a general challenge to settlement fairness. They propose de novo review of the constitutional binding prerequisite while acknowledging that ordinary Rule 23 matters, such as predominance, belong on direct review. That is their proposed boundary, not a holding that every adequacy objection receives de novo review or that representation is identical to every other jurisdictional question. [Turns 93, 139–143, 149–153.]
+
+Under questioning, counsel acknowledges that adequacy was previously addressed broadly, while maintaining that the specific structural failure concerning these claimants was not decided. Counsel acknowledges the potential precedential force of another claimant's unsuccessful litigation and maintains that Ivy could not relitigate his own determination, but denies that Ivy's litigation itself bound Stephenson. Counsel also distinguishes Ivy's compensation eligibility. These concessions preserve the difference between a judgment's binding effect and an earlier decision's force as precedent. [Turns 122–137, 144–149.]
+
+The full transcript prevents reducing claimants' timing argument solely to an original defect revealed by later diagnosis. Counsel also asserts that scientific understanding changed, that the initial arrangement should have protected against such change, that promised later review did not occur, and that a reserve capable of serving later claimants was diverted in 1994. When asked to identify the period, counsel expressly includes failures after judgment. These are allegations and legal arguments, not validated findings, established duties, or an automatic ground to reopen a judgment. The claimed reserve terms, asserted adjustment promise, actual administrative conduct, and their legal consequences require separate support if used decisively. [Turns 117–121, 137, 159–165.]
+
+Claimants' assertions about initial representative selection, notice, claim accrual, scientific causation, and the absence of compensation likewise do not establish their factual or legal predicates. Their proposals for separate representation, later opt-out protection, insurance, or information-responsive mechanisms illustrate claimed safeguards; the exchanges establish no universal obligation to adopt all those devices. [Turns 79, 93, 95–109, 117, 125–137.]
+
+## 4. Questions from the bench establish alternatives, not conclusions
+
+The complete transcript supports the receipt's account of genuine legal alternatives:
+
+- Questions distinguish a common interest in obtaining a settlement from conflicting interests in allocating it, and ask who represented asymptomatic claimants during allocation. They do not themselves establish the existence, extent, or constitutional sufficiency of a representation arrangement. [Turns 13–15, 25–43.]
+- Questions ask how prior adequacy adjudications constrain collateral review and whether the scope of those determinations encompasses the present category. They neither erase the prior findings nor resolve their binding reach. [Turns 122–143.]
+- Questions distinguish preclusion from precedent and test whether a prior decision involving another claimant has legal weight even if it does not itself bind this claimant. [Turns 144–149, 154–159, 168–173.]
+- Questions test both finality and further review under a correct standard if Amchem and Ortiz are relevant without being dispositive. Counsel for manufacturers rejects the proposed remand and requests reversal. The conditional remand discussion supplies an analytical possibility, not an announced judicial position or a concession about the proper disposition. [Turns 53–67, 102–116, 154–173.]
+
+No question, conditional assumption, silence, or speaker attribution supplies a vote, an adopted rationale, a factual finding, or a participation determination. Three transcript turns are unattributed; no identity is assigned to them. The transcript's attribution has not been independently authenticated.
+
+## 5. Entering law supports a bounded inquiry without choosing its answer
+
+Matsushita, February 27, 1996, distinguishes ordinary judgment recognition from constitutional representative authority. Its constitutional holding rejects binding an absent member through inadequate representation and rejects notice, objections, or exclusion opportunities as independent cures. Its express reservation leaves the complete collateral-review boundary, including the claimed full-and-fair determination of adequacy, unresolved. State findings and adversarial proceedings retain their significance; neither an adequacy recital nor criticism is conclusive by itself. That reservation matters directly here. [Entering-law Holdings, Matsushita, constitutional representation and reserved collateral-review scope.]
+
+Richards, June 10, 1996, rejects shared interests and vigorous advocacy alone as authority to bind absent persons, while preserving lawful representative relationships and ordinary finality. It separately preserves an earlier decision's precedential force and does not resolve Matsushita's entire collateral-review reservation. Thus the argument's preclusion-versus-precedent distinction has legal support, but its application to this actual certified class judgment remains to be determined. [Entering-law Holdings, Richards, nonparty binding, direct personal claims, and narrower issue-preclusion holdings.]
+
+Amchem, June 25, 1997, and Ortiz, June 23, 1999, require protection for actual materially conflicting bargaining interests; settlement desirability and fairness do not replace applicable certification requirements. Their actual representation holdings concern the arrangements before them. They announce neither a universal subclass architecture nor a categorical prohibition on future-claim settlements, and they preserve the complete collateral-review boundary. They do not themselves command reopening of an otherwise binding final settlement. [Entering-law Holdings, Amchem Parts II–IV and Ortiz Parts I and IV; Standards and Tests, “Certification of settlement-only classes,” present operation effective June 25, 1997; “Mandatory limited-fund settlement classes,” present operation effective June 23, 1999.]
+
+Hansberry and Shutts supply the earlier representation foundation identified in the packet and these Holdings entries. The argument about whether later cases explain a preexisting prerequisite or impose a new rule must be evaluated on that legal distinction, not resolved by adopting either counsel's characterization. Amchem's Rule 23(b)(3) predominance rule and Ortiz's limited-fund requirements do not silently become the constitutional test for collateral attack here. [Neutral packet §149, Issues 2–3; cited entering-law representation holdings.]
+
+The November 5, 2002 Bridgestone/Firestone and Dow Corning decisions retain their separate certification and statutory-release subjects. Neither creates automatic collateral reopening. Devlin's June 10, 2002 timely-objector appeal rule concerns a mandatory-class approval appeal and supplies no general answer here. Syngenta controls the settlement-only removal theory; Beneficial National Bank's June 2, 2003 distinct complete-preemption holding supplies no federal-officer predicate or general settlement-defense removal rule. [Relevant entering-law Holdings and earlier current-term neutral entries.]
+
+## 6. Preserved uncertainties and readiness
+
+The following questions remain material without being converted into facts:
+
+1. What arrangements actually protected the future interests during original negotiation, approval, and allocation, and whether a common defense answered the allocation conflict as well as the collective recovery problem.
+2. What the earlier proceedings actually determined about the relevant future-interest objection, as distinct from a general adequacy determination, an individual's unsuccessful challenge, or the fairness of an allocation. The existence of the earlier decisions is established in the packet; their disputed reach is the question.
+3. What operative terms and conduct support the alleged later review duty, reserve protection, and 1994 change, and whether any supported later event reveals an original defect or presents a distinct postjudgment failure with its own legally available treatment. The transcript alone does not authenticate those premises.
+4. What collateral standard follows from the governing law and the particular prior adjudications. No quantitative deference rule, fraud-only limit, unrestricted de novo review, or automatic remand is already supplied by these sources.
+5. Which independent removal ground is preserved and supported for Isaacson. Assertion of §1442 is not proof; Syngenta alone does not adjudicate that ground.
+
+If a proposed resolution materially depends on the exact objections, appointment history, reserve instruments, administrative orders, or findings beyond the packet, identify the necessary proposition and source specifically. Do not infer its answer from this preflight's lack of an original document. Supported narrower reasoning may avoid such a gap; a remand requires a legal error or a genuinely unresolved application requiring further proceedings, not research incompleteness alone. Notice and state-law accrual were discussed at argument but were not thereby newly granted questions.
+
+**Preflight status:** The argument receipt's account of the collateral-review and original-allocation alternatives is supported, with the necessary clarification that claimants also advanced disputed postjudgment and scientific-change theories. The two granted questions, the earlier adequacy adjudications, counsel's actual acknowledgments, and the separate removal issue are preserved. This source handoff is ready for independent modeling within those limits. It chooses no standard, merits result, remedy, author, or vote.

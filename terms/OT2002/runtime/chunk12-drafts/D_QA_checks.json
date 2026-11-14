@@ -1,0 +1,55 @@
+{
+  "opening_labels": [
+    true,
+    true,
+    true,
+    true
+  ],
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "block_order_pass": true,
+  "source_paths_exist": {
+    "terms/OT2002/entering-law/OT_2002CHUNK12.md": true,
+    "terms/OT2002/entering-law/OT_2002CHUNK12_CURRENT_NEUTRAL.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_C_NEUTRAL.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_C_PREFLIGHT.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_ARGUMENT_NEUTRAL_SOURCE.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_ARGUMENT_TRANSCRIPT.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_CLEAN_COMMITMENTS.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_CLEAN_PREFLIGHT.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_PARTICIPATION.md": true,
+    "terms/OT2002/freeze/OT_2002CHUNK12_DOW_RECONCILED.md": true,
+    "terms/OT2002/runtime/OT_2002CHUNK12_C_STONE.md": true,
+    "terms/OT2002/sources/chunk12/dow-appendix.txt": true,
+    "terms/OT2002/sources/chunk12/dow-petition.txt": true,
+    "terms/OT2002/sources/chunk12/dow-petitioners.txt": true,
+    "terms/OT2002/sources/chunk12/dow-respondents.txt": true,
+    "terms/OT2002/sources/chunk12/dow.txt": true
+  },
+  "explanation_word_counts": [
+    142,
+    142
+  ],
+  "holding_identity": true,
+  "authority_identity": true,
+  "explanation_identity": true,
+  "d1_support": 8,
+  "d2_affirm": 4,
+  "d2_vacate": 4,
+  "vote_partition_pass": true,
+  "no_assignment_placeholders": true,
+  "no_machine_links": true,
+  "countable": false,
+  "form": "Unsigned per curiam disposition: routine Syngenta jurisdictional vacatur and remand; Stephenson affirmed by an equally divided Court"
+}

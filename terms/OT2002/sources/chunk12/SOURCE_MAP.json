@@ -1,0 +1,73 @@
+{
+  "entergy": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539039/usrep539039.pdf",
+    "pdf": "entergy.pdf",
+    "text": "entergy.txt"
+  },
+  "citizens": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539052/usrep539052.pdf",
+    "pdf": "citizens.pdf",
+    "text": "citizens.txt"
+  },
+  "hillside": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539059/usrep539059.pdf",
+    "pdf": "hillside.pdf",
+    "text": "hillside.txt"
+  },
+  "nguyen": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539069/usrep539069.pdf",
+    "pdf": "nguyen.pdf",
+    "text": "nguyen.txt"
+  },
+  "desert": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539090/usrep539090.pdf",
+    "pdf": "desert.pdf",
+    "text": "desert.txt"
+  },
+  "fitzgerald": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539103/usrep539103.pdf",
+    "pdf": "fitzgerald.pdf",
+    "text": "fitzgerald.txt"
+  },
+  "dow": {
+    "url": "https://tile.loc.gov/storage-services/service/ll/usrep/usrep539/usrep539111/usrep539111.pdf",
+    "pdf": "dow.pdf",
+    "text": "dow.txt"
+  },
+  "satellite-lower": {
+    "url": "https://www.ca4.uscourts.gov/opinions/Published/011151.P.pdf",
+    "text": "satellite-lower.txt",
+    "pdf": "satellite-lower.pdf"
+  },
+  "suerte-lower": {
+    "url": "https://www.ca5.uscourts.gov/Opinions/pub/01/01-20626.cr0.wpd.pdf",
+    "text": "suerte-lower.txt",
+    "pdf": "suerte-lower.pdf"
+  },
+  "dow-record": {
+    "url": "https://archive.org/details/micro_IA40385014_0593",
+    "search": "Collection listing queried by 02-271 and Stephenson; one matching docket item.",
+    "files": [
+      "dow-petition.txt",
+      "dow-appendix.txt",
+      "dow-petitioners.txt",
+      "dow-respondents.txt"
+    ],
+    "format": "Archive-provided OCR text of the separate record documents."
+  },
+  "star-lower": {
+    "url": "https://www.ca4.uscourts.gov/opinions/Published/011502.P.pdf",
+    "text": "star-lower.txt",
+    "pdf": "star-lower.pdf"
+  },
+  "oakley-lower": {
+    "url": "https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&seqNo=17587",
+    "text": "oakley-lower.txt",
+    "pdf": "oakley-lower.pdf"
+  },
+  "oakley-reconsideration": {
+    "url": "https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&seqNo=17588",
+    "text": "oakley-reconsideration.txt",
+    "pdf": "oakley-reconsideration.pdf"
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "case": "United States v. Suerte",
+    "date": "2003-06-09",
+    "file": "United-States-v-Suerte_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The lead distinguishes express maritime reach, flag-state permission and individual conduct-time notice, then explains the actual consent/conspiracy posture. Eight Associates fully support both propositions. Stone's express conditional branch supplies affirmance and the second holding, but not assent to the first rationale or full-lead eligibility. His separate permission-burden qualification creates no accommodation requirement for the common lead."
+  },
+  {
+    "case": "Star Scientific, Inc. v. Beales",
+    "date": "2003-06-16",
+    "file": "Star-Scientific-Inc-v-Beales_merits_2003-06-16.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The common lead coordinates prospective security and the exact three-category comparison with separate actual-territory, geographic-discrimination and Pike inquiries, accepting real tracing costs at dismissal. It also separates causal standing from federal-supremacy Compact merits. Seven Justices fully support all holdings. Scalia and Thomas join the bounded territorial application and non-Commerce portions but supply distinct remaining Commerce grounds; neither is full-lead eligible. No necessary join requires changing a frozen commitment."
+  }
+]

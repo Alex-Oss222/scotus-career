@@ -1,0 +1,57 @@
+{
+  "public_blocks": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "block_order_pass": true,
+  "assignment_placeholders": 1,
+  "explanation_words": [
+    184,
+    138
+  ],
+  "roster_count": 9,
+  "judgment_supporters": 9,
+  "S1_supporters": 8,
+  "S2_supporters": 9,
+  "full_lead_supporters": 8,
+  "no_version_control_executed": true,
+  "draft_only": true,
+  "star": {
+    "public_block_order_pass": true,
+    "controlling_explanation_words": [
+      87,
+      178,
+      234,
+      85,
+      200,
+      121
+    ],
+    "assignment_placeholders": 1,
+    "judgment_votes": 9,
+    "full_lead_joiners": 7,
+    "holdings_support": [
+      9,
+      9,
+      9,
+      9,
+      7,
+      9
+    ],
+    "source_paths_pass": true,
+    "public_metadata_scan_pass": true,
+    "earlier_event_public_authority_refresh": "complete; no material change to approved Stone core, frozen Associate grounds, joins, judgment, or remedy",
+    "draft_only": true,
+    "statutory_supplement": "applied final STAR_STATUTE_RECONCILED; B1 claimant/order/extent/timing, B2 proof and allocable-share calculation with inflation, B3 deposit-specific residual return, as-earned interest/appreciation",
+    "final_associate_alignment_unchanged": true,
+    "fresh_six_remand_proposal": "preserved internally as nonoperative; final supplement retains six accepted-burden affirmance commitments"
+  }
+}

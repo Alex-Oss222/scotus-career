@@ -1,0 +1,11 @@
+# Star Scientific statutory-source control revalidation
+
+This is a control/assembly-only receipt. It must not enter the independent modeling or historical-reconciliation context.
+
+The enacted 1999 Chapter 754 source and source-only STAR_STATUTE_PREFLIGHT give the complete escrow-release qualifications. They replace shorthand in the lower opinion's factual recitation, not the governing enactment. The authorizing provisions were effective before the June 16, 2003 event. No later amendment is used as in-world law.
+
+Stone's approved Star position in the unchanged Section II applies economic rationality to prospective security for potential lawful liability connected to local product sales, compares the actual participant and nonparticipant obligations, preserves the manufacturer's interest and return rights under the scheme, and requires independent proof and lawful procedure for recovery. His Commerce position treats actual local sales and real burdens separately; his Compact position concerns federal supremacy. It prescribes no contrary numerical release calculation, no Commonwealth-only beneficiary restriction, and no unconditional annual return divorced from statutory proof.
+
+The complete B1 claimant and claim scope, ordering and necessary-payment limits specify the lawful recovery he already requires. The B2 allocable-share comparison, prescribed MSA computation and manufacturer showing specify the qualifying excess; B3 fixes the return clock to each deposit. Interest or appreciation remains with the manufacturer as earned. These qualifications change neither his approved rationale nor his judgment, remedy, proposed reach or discretion envelope. No individual excess amount, payment, liability or return is inferred. His direction to preserve a concrete challenge to a legally distinct application remains intact.
+
+Engine section 4 revalidation therefore does not require a new Stone choice for this source completion. The final assembly must state the statute's commands accurately, distinguish them from the Court's constitutional holding, and apply only the reconciled non-Stone commitments to the corrected source. This receipt supplies no Associate vote, join or authorship and does not predict that reconciliation's result.

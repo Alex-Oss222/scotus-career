@@ -1,0 +1,119 @@
+[
+  {
+    "case": "Entergy Louisiana, Inc. v. Louisiana Public Service Commission",
+    "date": "2003-06-02",
+    "file": "Entergy-Louisiana-Inc-v-Louisiana-Public-Service-Commission_merits_2003-06-02.md",
+    "countable": true,
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "An actual-conflict application requiring precise separation of tariff allocation, discretion, state prudence review, and an unadjudicated compliance theory; all nine directly support the entire lead. Historical authorship is irrelevant.",
+    "chief_assigns_any": true,
+    "assignment_authority_text": "The Chief Justice is in the judgment majority on every component and assigns the lead; eligibility requires support for the complete lead, including its precise scope."
+  },
+  {
+    "case": "Citizens Bank v. Alafabco, Inc.",
+    "date": "2003-06-02",
+    "file": "Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md",
+    "countable": false,
+    "form": "unsigned certiorari order",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [],
+    "fit_notes": "Unsigned petition action; internal Rule-of-Four poll must not enter the Public Projection."
+  },
+  {
+    "case": "Citizens Bank v. Alafabco, Inc.",
+    "date": "2003-06-02",
+    "file": "Citizens-Bank-v-Alafabco-Inc_summary-merits_2003-06-02.md",
+    "countable": false,
+    "form": "per curiam summary disposition",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [],
+    "fit_notes": "Unsigned summary application of settled actual-commerce law; no signed-lead assignment count."
+  },
+  {
+    "case": "Save Palisade FruitLands v. Todd",
+    "date": "2003-06-02",
+    "file": "Save-Palisade-FruitLands-v-Todd_merits_2003-06-02.md",
+    "countable": true,
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "An equality and political-participation case requiring accurate separation of institutional structure, subject-specific grants, and speech within an existing process; all nine support the full lead.",
+    "chief_assigns_any": true,
+    "assignment_authority_text": "The Chief Justice is in the judgment majority on every component and assigns the lead; eligibility requires support for the complete lead, including its precise scope."
+  },
+  {
+    "case": "Hillside Dairy, Inc. v. Lyons",
+    "date": "2003-06-09",
+    "file": "Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md",
+    "countable": true,
+    "form": "signed plenary",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": "The full lead requires text-specific authorization analysis, a precise Article IV facial-ground ruling, and the proxy-versus-effects reservation. Seven Associates fully support it. Stone joins all shared operative propositions but not the reservation; Thomas supports Article IV and independently agrees on statutory error but dissents from Commerce vacatur. Preserve these actual partial joins.",
+    "chief_assigns_any": true,
+    "assignment_authority_text": "The Chief Justice is in the judgment majority on every component and assigns the lead; eligibility requires support for the complete lead, including its precise scope."
+  }
+]

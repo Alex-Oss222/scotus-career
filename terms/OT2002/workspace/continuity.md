@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 11 have produced 144 completed event Records covering 140 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 12 is the next supplied chunk.
+Chunks 1 through 12 have produced 156 completed event Records covering 151 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 13 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 140 completed and 40 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
+The manifest preserves all 180 scheduled rows: 151 completed and 29 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. One chunk 12 matter remains stopped, as identified below.
 
 ## Completed Events and Admitted Sources
 
@@ -149,13 +149,25 @@ The manifest preserves all 180 scheduled rows: 140 completed and 40 remaining. C
 | 2003-05-27 | National Park Hospitality Association v. Department of the Interior | The Court vacates the judgment insofar as it adjudicates the challenged CDA portion of §51.3 and remands with instructions to dismiss that facial challenge without prejudice. | `terms/OT2002/records/National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md` |
 | 2003-05-27 | Nevada Department of Human Resources v. Hibbs | The judgment rejecting categorical State immunity from the family-care action is affirmed, 6–3. | `terms/OT2002/records/Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md` |
 | 2003-06-02 | Beneficial National Bank v. Anderson | The Eleventh Circuit's jurisdictional judgment is reversed, and the case is remanded. | `terms/OT2002/records/Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md` |
+| 2003-06-02 | Citizens Bank v. Alafabco, Inc., No. 02-1295 | The petition for a writ of certiorari is granted on the FAA commerce question. The Court does not disclose an individual petition tally or lineup. | `terms/OT2002/records/Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md` |
+| 2003-06-02 | Citizens Bank v. Alafabco, Inc., No. 02-1295 | The Alabama Supreme Court’s judgment is reversed, and the case is remanded for further proceedings consistent with the per curiam opinion. | `terms/OT2002/records/Citizens-Bank-v-Alafabco-Inc_summary-merits_2003-06-02.md` |
 | 2003-06-02 | Dastar Corp. v. Twentieth Century Fox Film Corp. | The federal attribution judgment is reversed, its dependent profits award is vacated, and the case is remanded. | `terms/OT2002/records/Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md` |
+| 2003-06-02 | Entergy Louisiana, Inc. v. Louisiana Public Service Commission, No. 02-299 | The Louisiana Supreme Court’s judgment is reversed, and the case is remanded for proceedings consistent with the Court’s opinion. | `terms/OT2002/records/Entergy-Louisiana-Inc-v-Louisiana-Public-Service-Commission_merits_2003-06-02.md` |
 | 2003-06-02 | Knussman v. Maryland | The Court affirms equal-protection liability and denial of qualified immunity, vacates the excessiveness-based direction for a new damages trial, and remands the remaining damages issues. | `terms/OT2002/records/Knussman-v-Maryland_merits_2003-06-02.md` |
 | 2003-06-02 | Krislov v. Rednour | The Court affirms the Seventh Circuit judgment and the existing injunction against both challenged circulator qualifications. | `terms/OT2002/records/Krislov-v-Rednour_merits_2003-06-02.md` |
 | 2003-06-02 | Roe II v. Aware Woman Center for Choice, Inc. | Reviewed statutory/amendment and public-pseudonymity components affirmed, each 9–0; further proceedings under the preserved amendment and protective directions. | `terms/OT2002/records/Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md` |
 | 2003-06-02 | Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395 | Child-search immunity judgment reversed, 7–2; entry and duplicative-due-process dispositions affirmed, 9–0; remanded with state claims treated independently. | `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md` |
+| 2003-06-02 | Save Palisade FruitLands v. Todd | The judgment of the Tenth Circuit is affirmed. | `terms/OT2002/records/Save-Palisade-FruitLands-v-Todd_merits_2003-06-02.md` |
 | 2003-06-09 | Bryant v. Adventist Health System/West | Affirmed in part, reversed in part, vacated in part and remanded, unanimously by component. | `terms/OT2002/records/Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md` |
+| 2003-06-09 | Desert Palace, Inc. v. Costa, No. 02-679 | The judgment of the Ninth Circuit is affirmed against the asserted direct-evidence objection. | `terms/OT2002/records/Desert-Palace-Inc-v-Costa_merits_2003-06-09.md` |
+| 2003-06-09 | Dow Chemical Co. v. Stephenson, No. 02-271 | Per curiam. The judgment is vacated and remanded with respect to the Isaacson respondents and affirmed by an equally divided Court with respect to the Stephenson respondents. | `terms/OT2002/records/Dow-Chemical-Co-v-Stephenson_merits_2003-06-09.md` |
+| 2003-06-09 | Fitzgerald v. Racing Association of Central Iowa, No. 02-695 | The Iowa Supreme Court judgment is reversed and the case is remanded for proceedings consistent with the federal equal-protection ruling. | `terms/OT2002/records/Fitzgerald-v-Racing-Association-of-Central-Iowa_merits_2003-06-09.md` |
+| 2003-06-09 | Hillside Dairy, Inc. v. Lyons | The judgments are vacated as to the Commerce Clause and individual Privileges and Immunities Clause claims, and both cases are remanded for further proceedings consistent with the Court’s opinion. | `terms/OT2002/records/Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md` |
+| 2003-06-09 | Nguyen v. United States | The Ninth Circuit judgments in both consolidated matters are vacated, and the cases are remanded for appellate adjudication by a lawfully constituted panel. | `terms/OT2002/records/Nguyen-v-United-States_merits_2003-06-09.md` |
+| 2003-06-09 | Satellite Broadcasting & Communications Association v. FCC | The Fourth Circuit judgment rejecting the facial First Amendment challenge to the carry-one, carry-all condition is affirmed. | `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md` |
+| 2003-06-09 | United States v. Suerte | The Fifth Circuit's judgment vacating the pretrial dismissal is affirmed, and the case is remanded for further proceedings. | `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
+| 2003-06-16 | Star Scientific, Inc. v. Beales | The judgment affirming dismissal of the four constitutional challenges is affirmed. | `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md` |
 | 2003-06-26 | Georgia v. Ashcroft, No. 02-182 | The denial of preclearance for the original Senate plan and the order permitting the four voters to intervene are affirmed. | `terms/OT2002/records/Georgia-v-Ashcroft_merits_2003-06-26.md` |
 | 2003-06-26 | Old Person v. Brown | The judgment is affirmed. | `terms/OT2002/records/Old-Person-v-Brown_merits_2003-06-26.md` |
 
@@ -973,11 +985,29 @@ Source: `terms/OT2002/records/Beneficial-National-Bank-v-Anderson_merits_2003-06
 
 A claim seeking relief for usury charged by a national bank has the federal character of §86's exclusive cause and is removable under the general federal-question removal provisions. The distinction between that replacement action and a merely defeating federal defense remains controlling. Compatible formation, disclosure, contract and consumer-protection duties retain their own force; the national charter does not convert every loan dispute or every arranger claim into a federal banking cause.
 
+### 2003-06-02 — Citizens Bank v. Alafabco, Inc., No. 02-1295
+
+Source: `terms/OT2002/records/Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md`.
+
+
+
+### 2003-06-02 — Citizens Bank v. Alafabco, Inc., No. 02-1295
+
+Source: `terms/OT2002/records/Citizens-Bank-v-Alafabco-Inc_summary-merits_2003-06-02.md`.
+
+Commercial restructurings with the demonstrated connection to actual multistate business satisfy §2 without separate substantial-effects proof for each instrument. The proponent must establish the real commercial connection before aggregate magnitude can matter. State courts then apply the existing agreement, delegation, preservation, and ordinary-defense rules to the actual arbitration request.
+
 ### 2003-06-02 — Dastar Corp. v. Twentieth Century Fox Film Corp.
 
 Source: `terms/OT2002/records/Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md`.
 
 The goods-origin rule applies to communicative products as well as other tangible goods: a manufacturer's failure to credit creators of copied expression does not itself misidentify the producer of its goods. Genuine product-source and sponsorship deception remain subject to §43(a)(1)(A)'s elements; §43(a)(1)(B) retains its separate advertising predicates. Liability and recovery must rest on the actual statutory cause. The distinct valid-book-copyright inquiry remains governed by copyright law.
+
+### 2003-06-02 — Entergy Louisiana, Inc. v. Louisiana Public Service Commission, No. 02-299
+
+Source: `terms/OT2002/records/Entergy-Louisiana-Inc-v-Louisiana-Public-Service-Commission_merits_2003-06-02.md`.
+
+A tariff allocation retains its binding effect when the federal arrangement specifies how and by whom a discretionary input is selected. State prudence review cannot make the assigned costs unrecoverable by attacking that input. Independent retail regulation continues within the actual-conflict boundary; a distinct compliance controversy receives its own governing law and proper forum.
 
 ### 2003-06-02 — Knussman v. Maryland
 
@@ -1005,6 +1035,12 @@ Source: `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulator
 
 The bodily-search holding requires voluntary consent, probable cause with appropriate judicial authorization, or genuine exigency for the nonurgent intimate investigative operation addressed here. It does not impose one procedure on every protective inquiry or make police reporting alone decisive. The scheduled interview authorizes only its objective scope. On the accepted no-consent, no-probable-cause and no-urgency account, pre-July 10, 1999 law gave sufficient warning for the child-search claim to proceed. Actual liability remains subject to the proved facts and ordinary defenses. The same intrusions do not support duplicate substantive-due-process damages theories. Texas official immunity remains independent, and jurisdictional treatment must reflect the restored federal claim.
 
+### 2003-06-02 — Save Palisade FruitLands v. Todd
+
+Source: `terms/OT2002/records/Save-Palisade-FruitLands-v-Todd_merits_2003-06-02.md`.
+
+Colorado may tie general county initiative power to its home-rule structure under ordinary equality review. The structural absence of that mechanism is distinct from interference with political expression or unequal access to an existing ballot. Subject-specific initiative grants remain governed by their own terms, and independently supported claims of discriminatory administration or suppression require their own legal and factual basis.
+
 ### 2003-06-09 — Bryant v. Adventist Health System/West
 
 Source: `terms/OT2002/records/Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md`.
@@ -1013,11 +1049,61 @@ EMTALA stabilization requires actual determination of the emergency and performa
 
 Harper makes this construction govern every still-open direct-review claim within its scope, including earlier admissions. Under Reynoldsville, reliance on the rejected admission cutoff alone cannot withhold the rule. Independently valid limitation, causation and remedy rules determine recovery; final judgments and barred claims retain their finality.
 
+### 2003-06-09 — Desert Palace, Inc. v. Costa, No. 02-679
+
+Source: `terms/OT2002/records/Desert-Palace-Inc-v-Costa_merits_2003-06-09.md`.
+
+For claims governed by §2000e-2(m), courts must distinguish the sufficiency of proof from its form and apply the separate plaintiff and employer persuasion burdens. A proved same-decision showing triggers the specified restriction of remedies. Brown continues to govern the earlier statutory regime; the new holding interprets the already effective amended provisions.
+
+### 2003-06-09 — Dow Chemical Co. v. Stephenson, No. 02-271
+
+Source: `terms/OT2002/records/Dow-Chemical-Co-v-Stephenson_merits_2003-06-09.md`.
+
+Syngenta's independent-removal requirement governs the Isaacson proceedings. The Second Circuit's Stephenson judgment retains its ordinary force, but the equally divided affirmance does not make that court's reasoning Supreme Court law or resolve the collateral-review question reserved in Matsushita Electric Industrial Co. v. Epstein.
+
+### 2003-06-09 — Fitzgerald v. Racing Association of Central Iowa, No. 02-695
+
+Source: `terms/OT2002/records/Fitzgerald-v-Racing-Association-of-Central-Iowa_merits_2003-06-09.md`.
+
+The existing rational-basis standard continues to govern ordinary economic tax classifications. A legislature may combine a new benefit for one industry with different tax treatment supporting another legitimate industry or revenue objective. The Iowa classification survives the federal challenge; independent Iowa constitutional meaning and available state-law remedies remain for the Iowa courts.
+
+### 2003-06-09 — Hillside Dairy, Inc. v. Lyons
+
+Source: `terms/OT2002/records/Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md`.
+
+Section 144's protection is confined to its composition and labeling subjects; California's pricing and pooling operation remains subject to the established Commerce Clause rules. Eligible individuals may pursue Article IV claims based on actual citizen discrimination despite neutral wording, subject to proof of a protected pursuit, the relevant disadvantage, and the existing justification standard. The eight-Justice reservation preserves the broader proxy-versus-effects question. The remaining discrimination, comparison, justification, and lawful relief require adjudication under the applicable rules.
+
+### 2003-06-09 — Nguyen v. United States
+
+Source: `terms/OT2002/records/Nguyen-v-United-States_merits_2003-06-09.md`.
+
+Effective June 9, 2003, the right to the missing lawful adjudication extends to this substantial statutory appellate-membership defect on nonfinal direct review despite a late objection. The court must apply the distinction between a missing eligibility qualification and a technical designation irregularity. The quorum statute operates only within its lawful-panel premise.
+
+### 2003-06-09 — Satellite Broadcasting & Communications Association v. FCC
+
+Source: `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md`.
+
+Effective June 9, 2003, Turner's content-neutral intermediate analysis applies to the optional local-retransmission license and its connected carriage duty. The duty survives this facial challenge because the actual satellite mechanism and statutory limits establish a supported, proportionate response to the local-service risk. Courts must assess actual editorial burdens and alternatives when applying that standard to the licensed arrangement; the license label itself establishes no constitutional exemption.
+
+### 2003-06-09 — United States v. Suerte
+
+Source: `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md`.
+
+For covered foreign-flagged maritime conspiracies with established flag-state enforcement permission, federal prosecution may proceed without an additional domestic destination, citizenship, or domestic-effects nexus. Courts must distinguish the statute's coverage, the flag State's permission, and the defendant's independent fair-warning protection. The actual consent and offense remain subject to adjudication under those governing rules.
+
 ### 2003-06-16 — Center for Reproductive Law and Policy v. Bush
 
 Source: `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md`.
 
 Domestic speakers may challenge a government condition that concretely and predictably impairs their own foreign collaboration even though the immediate condition applies to a foreign recipient. The five-Justice merits holding bars the identified viewpoint disqualification of independently financed collaboration, while preserving lawful funded activity restrictions. Proof of coverage, injury and prospective need implements that rule; it does not leave the legal funded-program versus independent-expression boundary unresolved. The separate notice theory is dismissed, and international law returns only for its own cognizable basis.
+
+### 2003-06-16 — Star Scientific, Inc. v. Beales
+
+Source: `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md`.
+
+Virginia's challenged statute may require the defined reserve for qualifying consumer sales made directly or through intermediaries. The economic classification is sustained on the complete payment, conduct, and retained-property arrangements. Its local-sales measure and described tracing burdens survive the distinct Commerce inquiries, and the associated settlement requires no congressional consent under the governing federal-supremacy rule.
+
+A concrete assessment must follow the statutory sales base. Access to principal and mandatory return are governed by the distinct B1–B3 conditions in Holding 2, including B1's claim and claimant limits and B2's manufacturer showing and Commonwealth-share calculation. A supported materially different discriminatory, territorial, or operational application receives review under its own facts and the applicable constitutional standard.
 
 ### 2003-06-26 — Georgia v. Ashcroft, No. 02-182
 
@@ -1901,6 +1987,36 @@ Source: `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulator
 
 Scalia, joined by Thomas, concurs in Parts I, IV and V-A and dissents from the reversal of child-search immunity and the consequential federal-claim remit. They affirm the interview-entry and duplicative-due-process rulings and preserve the independence of Texas immunity. They would affirm dismissal of all reviewed federal claims and return the state-law claims for evaluation of Texas immunity or a lawful decision declining supplemental jurisdiction, with a jurisdictional dismissal without prejudice. They do not decide the child's Fourth Amendment merits. In their view Anderson's particularized-notice requirement is not satisfied by the general gravity of this intrusion. Darryl H. rejected a categorical warrant-and-probable-cause requirement and granted immunity despite serious questions about necessity and consent; Landstrom likewise found insufficient clarity for an intimate examination. Doe v. Louisiana's local Fourth Amendment reservation left the application unsettled. Nonmedical photography is a material distinction, but the preconduct authorities had not made its personal-damages consequence sufficiently definite by July 10, 1999. A factual twin is unnecessary, all relevant other-circuit authority remains relevant, and child-protection workers have no blanket immunity. Nevertheless, the present Court's stronger merits interpretation cannot cure the earlier uncertainty. Ferguson, Wallis, Calabretta, Tenenbaum, Saucier and Hope cannot supply retrospective notice. Their position finds neither voluntary consent nor constitutional approval of the search.
 
+### 2003-06-09 — Hillside Dairy, Inc. v. Lyons
+
+Source: `terms/OT2002/records/Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md`.
+
+**Stone-Zsela, concurring in part and in the judgment.** The Chief Justice joins Part I, Part II's rejection of a facial-citizenship prerequisite and its established justification requirement, and both vacatur-and-remand judgments. He withholds assent to the proxy-versus-effects reservation. His rule requires an individual to establish, by a preponderance of the evidence, covered citizenship, a protected pursuit, a practical disadvantage to nonresident citizens, and its connection to the rule; the State must then establish a substantial reason beyond noncitizenship and a close relationship to the discrimination. Chalker makes operation decisive, and Lunding requires examination of the full treatment and the reasons offered. Interstate business activity alone establishes neither the individual's protected status nor the necessary disadvantage. Corporate Commerce claims remain distinct.
+
+He would give further express instructions for remand. The court should identify each plaintiff's standing and claim, trace the transactions bearing the assessment and the competing producers receiving its linked benefit, and apply West Lynn Creamery if discrimination is proved. California then must establish a legitimate local purpose that adequate reasonable nondiscriminatory alternatives cannot serve; protecting local producers from competition is insufficient. An evenhanded measure instead receives Pike's inquiry into whether the actual incidental interstate burden is clearly excessive in relation to putative local benefits. Existing adequate evidence should be used, with development confined to material unresolved facts; ordinary motions may resolve a claim without trial. Any decree must remove the proved unlawful operation consistently with lawful severability. A monetary claim requires payment or loss, an authorized remedial route, and consideration of preserved defenses. His fuller instructions and specified proof formulation are separate positions.
+
+**Thomas, concurring in part and dissenting in part.** Thomas joins Part II in full and the remand of the individuals' Article IV claims. He agrees independently that §144 does not support the Ninth Circuit's statutory analysis. He nevertheless would affirm dismissal of the Commerce claim because, for the reasons stated in his Camps Newfound/Owatonna dissent, the negative Commerce Clause has no basis in the Constitution's text and provides no lawful ground for invalidating state legislation. That foundational disagreement, not approval of blanket statutory immunity, explains his different Commerce disposition.
+
+### 2003-06-09 — Nguyen v. United States
+
+Source: `terms/OT2002/records/Nguyen-v-United-States_merits_2003-06-09.md`.
+
+**Scalia, joined by Ginsburg and Breyer, dissenting.** The dissent agrees that §292 did not authorize the designation but would affirm both appellate judgments because the defendants forfeited the objection. Under Olano and Johnson, which distinguish the existence of error from the discretion to correct it, even an assumed effect on substantial rights does not itself establish that correction is required to protect the fairness, integrity or public reputation of proceedings. The supplied record shows neither outcome prejudice nor bias or incompetence. The two qualified circuit judges and the territorial judge's lawful original office bear on that inquiry, although they do not authorize the assignment or establish a separate two-judge judgment. Ryder and Landry protect timely challengers and expressly leave the default question open. The dissent therefore rejects the majority's treatment of this violation as a sufficient reason for exceptional correction. Its position rests on the consequence of forfeiture, rather than an endorsement of future unauthorized designations or a rule that actual innocence is required.
+
+### 2003-06-09 — Satellite Broadcasting & Communications Association v. FCC
+
+Source: `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md`.
+
+**O'Connor, joined by Scalia, Thomas and Ginsburg, dissenting.** The dissent would reverse and remand for appropriate relief against the condition and determination of severability. Its Turner objections to content favoritism remain, but even assuming neutrality it finds the compulsory all-station duty insufficiently fitted under intermediate review. Selective carriage and audience loss do not themselves establish that carrying every eligible requesting station is proportionate to the threatened loss of independently available free service. Satellite's national architecture creates opportunity costs across markets, and the absence of cable's demonstrated predatory mechanism matters. Market election, requests and duplication limits reduce the burden without establishing its proportion.
+
+The dissent also rejects the lower court's independent advertising-competition ground: a competitor's audience disadvantage does not by itself show the expressive-market harm necessary to justify compulsory editorial choices. It demands neither a completed antitrust violation, formal legislative findings nor the strict least-restrictive means. Rather, it requires a supported connection between this compelled carriage and the asserted public-service harm. The optional license and legally available private clearance cannot dispose of the unconstitutional-conditions objection. Its proposed remedy would address the invalid condition and its actual severability consequences, rather than award an unrestricted royalty-free license.
+
+### 2003-06-09 — United States v. Suerte
+
+Source: `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md`.
+
+Chief Justice Stone-Zsela concurs in part and in the judgment. He agrees that the indictment may be restored under the Court's rule while actual consent scope, timing, independent notice, and criminal proof remain to be applied. He joins the Court's actual consent-and-conspiracy holding but withholds assent to its no-additional-nexus rationale. For disputed preliminary vessel-permission facts under former §1903(f), he would require the Government to establish those facts to the trial judge by a preponderance of the evidence. That preliminary determination is distinct from the jury's determination of the charged offense beyond a reasonable doubt. His proposed preliminary burden does not command a majority.
+
 ### 2003-06-16 — Center for Reproductive Law and Policy v. Bush
 
 Source: `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md`.
@@ -1914,6 +2030,14 @@ They acknowledge the condition's reach to nonfederal money and its substantial-a
 He relies on Velazquez's actual-function distinction, with Rosenberger and Southworth's treatment of private expression, and would reject categorical dismissal under Rust or rational-basis review. Foreign-affairs authority is relevant to justification but cannot itself transform independently financed advocacy into government speech. He withholds assent to the Court's decision to foreclose the additional justification inquiry.
 
 If the outside-program burden is proved and the government fails that standard, he would provide appropriate declaratory relief and assess ordinary injunction prerequisites. He would presume relief against a proved common outside-program restriction for the persons it governs unless officials establish a narrower complete cure, bounded by proved domestic injury, severability and remedial jurisdiction. A supported decree would identify the prohibited enforcement, require responsible implementing officials to cease it and notify affected recipients on a feasible court-set schedule, and use revised terms and enforcement records to establish compliance; relabeling the same condition would not cure it. Lawful fund-use accounting and other assistance conditions would remain. His proposed scrutiny opportunity and remedial presumption are distinct from the Court's controlling rule.
+
+### 2003-06-16 — Star Scientific, Inc. v. Beales
+
+Source: `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md`.
+
+Justice Scalia concurs in part and in the judgment. He joins the standing, economic, actual territorial, and Compact holdings. For the remaining Commerce challenge, he follows his narrower West Lynn Creamery and Walsh position: judicial invalidation is available for facial geographic discrimination or a materially identical arrangement already invalidated by the Court. This scheme satisfies neither description. A preference for settlement participants is not facial discrimination by geographic origin, and the local-sales escrow lacks the prohibited outside-price command or dedicated local-producer subsidy. He therefore supports affirmance while withholding assent to free-standing Pike balancing.
+
+Justice Thomas concurs in part and in the judgment. He joins the same stated portions, including the conclusion that this local-sales measure does not impose the asserted outside-transaction control. Consistent with his Walsh position, he rejects the negative Commerce Clause—the inferred restriction on state legislation when Congress has not acted—as an independent judicial limitation. That constitutional ground supplies his vote for dismissal of the remaining Commerce claim. He does not join Pike balancing or treat ordinary economic rationality as its substitute.
 
 ### 2003-06-26 — Georgia v. Ashcroft, No. 02-182
 
@@ -1981,14 +2105,16 @@ No further event is supplied for those three opening carryovers.
 
 **Kansas v. Nebraska, No. 126, Original, with Colorado:** The May 19 settlement approval event is complete. The covered claims, counterclaims and cross-claims arising before December 15, 2002 remain pending until the Special Master files a final report certifying the States' adoption of the RRCA Groundwater Model. Recommittal is limited to the procedural model-completion tasks under the approved agreement; its notice, selection, arbitration and information conditions remain controlling. No certification event has been admitted. Source: `terms/OT2002/records/Kansas-v-Nebraska_decree_2003-05-19.md`.
 
-The remaining 40 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 29 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+
+- State v. Oakley: undecided; no completed Court action supplies law.
 
 ## Blockers and Revalidation Needs
 
-No adjudicative blocker or stopped matter remains. Cano is an affirmatively retained appeal, not a stopped event. Repository-history verification and commitment remain reserved to the operator; no version-control command was invoked. This administrative deferral changes no vote, law or event status.
+- State v. Oakley: Updated approved Stone rule, rationale, disposition and remedy are required for the ability-sensitive good-faith support condition with its surviving advance judicial-showing requirement. The approved Section II repeatedly depends on a financial-capacity prohibition; Engine section 4 requires revalidation of this changed material premise. The proposed updated position remains unanswered. The earlier-bargain waiver position is approved and complete, but no partial Court action is invented. Repository-history verification and commitment remain reserved to the operator; no version-control command was invoked. This administrative deferral changes no vote, law or event status.
 
-Validation: `terms/OT2002/freeze/OT_2002CHUNK11_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
+Validation: `terms/OT2002/freeze/OT_2002CHUNK12_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
 
 ## Source and Research Cutoff
 
-Each Record states its event-date research cutoff, source support and limitations. Chunk 11 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK11_DEPENDENCY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.
+Each Record states its event-date research cutoff, source support and limitations. Chunk 12 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK12_DEPENDENCY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.
