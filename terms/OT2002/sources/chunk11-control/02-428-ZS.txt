@@ -1,0 +1,43 @@
+
+
+DASTAR CORP. V. TWENTIETH CENTURY FOXFILM CORP.
+
+LII
+
+Supreme Court		 
+
+DASTAR CORP. V. TWENTIETH CENTURY FOXFILM CORP. (02-428) 
+34 Fed. Appx. 312, reversed and remanded.
+Syllabus
+ Opinion
+ [ Scalia ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+DASTAR CORP. v. TWENTIETH CENTURY FOX FILM CORP. et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—428.  Argued April 2, 2003–Decided June 2, 2003 
+
+General Dwight D. Eisenhower’s World War II book, Crusade in Europe, was published by Doubleday, which registered the work’s copyright and granted exclusive television rights to an affiliate of respondent Twentieth Century Fox Film Corporation (Fox).  Fox, in turn, arranged for Time, Inc., to produce a Crusade in Europe television series based on the book, and Time assigned its copyright in the series to Fox.  The series was first broadcast in 1949.  In 1975, Doubleday renewed the book’s copyright, but Fox never renewed the copyright on the television series, which expired in 1977, leaving the series in the public domain.  In 1988, Fox reacquired the television rights in the book, including the exclusive right to distribute the Crusade television series on video and to sub-license others to do so.  Respondents SFM Entertainment and New Line Home Video, Inc., acquired from Fox the exclusive rights to manufacture and distribute Crusade on video.  In 1995, petitioner Dastar released a video set, World War II Campaigns in Europe, which it made from tapes of the original version of the Crusade television series and sold as its own product for substantially less than New Line’s video set.  Fox, SFM, and New Line brought this action alleging, inter alia, that Dastar’s sale of Campaigns without proper credit to the Crusade television series constitutes “reverse passing off” in violation of §43(a) of the Lanham Act.  The District Court granted respondents summary judgment.  The Ninth Circuit affirmed in relevant part, holding, among other things, that because Dastar copied substantially the entire Crusade series, labeled the resulting product with a different name, and marketed it without attribution to Fox, Dastar had committed a “bodily appropriation” of Fox’s series, which was sufficient to establish the reverse passing off.  
+
+Held: Section 43(a) of the Lanham Act does not prevent the unaccredited copying of an uncopyrighted work.  Pp. 4—15.  
+
+    (a) Respondents’ claim that Dastar has made a “false designation of origin, false or misleading description of fact, or false or misleading representation of fact, which … is likely to cause confusion … as to the origin … of [its] goods” in violation of §43(a) of the Lanham Act, 15 U.S.C. § 1125(a), would undoubtedly be sustained if Dastar had bought some of New Line’s Crusade videotapes and merely repackaged them as its own.  However, Dastar has instead taken a creative work in the public domain, copied it, made modifications (arguably minor), and produced its very own series of videotapes.  If “origin” refers only to the manufacturer or producer of the physical “good” that is made available to the public (here, the videotapes), Dastar was the origin.  If, however, “origin” includes the creator of the underlying work that Dastar copied, then someone else (perhaps Fox) was the origin of Dastar’s product.  At bottom, the Court must decide what §43(a) means by the “origin” of “goods.”  Pp. 4—7.
+
+      (b) Because Dastar was the “origin” of the physical products it sold as its own, respondents cannot prevail on their Lanham Act claim.  As dictionary definitions affirm, the most natural understanding of the “origin” of “goods”–the source of wares–is the producer of the tangible product sold in the marketplace, here Dastar’s Campaigns videotape.  The phrase “origin of goods” in the Lanham Act is incapable of connoting the person or entity that originated the ideas that “goods” embody or contain.  The consumer typically does not care about such origination, and §43(a) should not be stretched to cover matters that are of no consequence to purchasers.  Although purchasers do care about ideas or communications contained or embodied in a communicative product such as a video, giving the Lanham Act special application to such products would cause it to conflict with copyright law, which is precisely directed to that subject, and which grants the public the right to copy without attribution once a copyright has expired, e.g., Sears, Roebuck & Co. v. Stiffel Co., 376 U.S. 225, 230.  Recognizing a §43(a) cause of action here would render superfluous the provisions of the Visual Artists Rights Act that grant an artistic work’s author “the right … to claim authorship,” 17 U.S.C. § 106A(a)(1)(A), but carefully limit and focus that right, §§101, §106A(b), (d)(1), and (e).  It would also pose serious practical problems.  Finally, reading §43(a) as creating a cause of action for, in effect, plagiarism would be hard to reconcile with, e.g., Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205, 211.  Pp. 7—14.  
+
+34 Fed. Appx. 312, reversed and remanded.
+
+    Scalia, J., delivered the opinion of the Court, in which all other Members joined, except Breyer, J., who took no part in the consideration or decision of the case.
+

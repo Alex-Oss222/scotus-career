@@ -1,0 +1,35 @@
+[
+  {
+    "case": "Krislov v. Rednour",
+    "date": "2003-06-02",
+    "file": "Krislov-v-Rednour_merits_2003-06-02.md",
+    "countable": true,
+    "form": "Signed plenary Opinion of the Court, with partial joins and three separate writings.",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg"
+    ],
+    "chief_assigns_any": true,
+    "fit_notes": {
+      "Stone-Zsela": "His approved burden-and-fit analysis and concrete implementation distinguish advocate eligibility from voter eligibility; his separate presumption must remain outside the lead.",
+      "Stevens": "His Buckley Court opinion supplies the protected-speaker and accessible-enrollment reasoning; the task is to explain its candidate and interstate applications precisely.",
+      "Scalia": "His Buckley and Lerman joins plus Cartwright support the distinction between electoral support and the messenger, with a concrete existing-injunction remedy.",
+      "Kennedy": "His Buckley and Lerman joins supply the candidates' choice-of-associate explanation independently of ultimate ballot access and state-defined electorate.",
+      "Souter": "His actual-burden and precise-interest reasoning fits the separate geographic and resident-enrollment inquiries and distinguishes the completed record from an unnecessary merits remand.",
+      "Ginsburg": "Her Buckley and Lerman joins connect the advocate's task to claimed verification needs and match the class remedy to the common invalid conditions."
+    }
+  }
+]

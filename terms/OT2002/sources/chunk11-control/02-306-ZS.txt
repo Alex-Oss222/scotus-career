@@ -1,0 +1,45 @@
+
+
+BENEFICIAL NAT. BANK V. ANDERSON
+
+LII
+
+Supreme Court		 
+
+BENEFICIAL NAT. BANK V. ANDERSON (02-306) 
+287 F.3d 1038, reversed.
+Syllabus
+ Opinion
+ [ Stevens ]Dissent
+ [ Scalia ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BENEFICIAL NATIONAL BANK et al. v. ANDERSON et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE ELEVENTH CIRCUIT
+
+No. 02—306.  Argued April 30, 2003–Decided June 2, 2003 
+
+Respondents, who secured loans from petitioner national bank filed a state-court suit against the bank and two other petitioners, seeking damages on the theory, among others, that the bank’s interest rates violated “the common law usury doctrine” and an Alabama usury statute.  The complaint did not refer to any federal law.  Petitioners removed the case to Federal District Court, asserting that the National Bank Act governs the interest rate that a national bank may charge, see 12 U.S.C. § 85 that the rates charged to respondents complied with §85, that §86 provides the exclusive remedies available against a national bank charging excessive interest, and that respondents’ action was therefore one “arising under” federal law that could be removed under 28 U.S.C. § 1441.  The District Court denied respondents’ motion to remand the case to state court, but certified the question whether it had jurisdiction to the Eleventh Circuit.  In reversing, the latter court held that under the “well-pleaded complaint” rule, removal is not permitted unless the complaint expressly alleges a federal claim, and that the narrow exception known as the complete pre-emption doctrine did not apply because there was no evidence of clear congressional intent to permit removal under §§85 and 86.
+
+Held: Respondents’ cause of action arose only under federal law and could, therefore, be removed under §1441.  Pp. 3—9.
+
+    (a) As a general rule, absent diversity jurisdiction, a case is not removable if the complaint does not affirmatively allege a federal claim.  Potential defenses, including a federal statute’s pre-emptive effect, Franchise Tax Bd. of Cal. v. Construction Laborers Vacation Trust for Southern Cal., 463 U.S. 1, do not provide a basis for removal.  One exception to the general rule occurs when a federal statute completely pre-empts a cause of action.  Where this Court has found such pre-emption, the federal statutes at issue–the Labor Management Relations Act, 1947, see Avco Corp. v. Machinists, 390 U.S. 557, and the Employee Retirement Income Security Act of 1974, see Metropolitan Life Ins. Co. v. Taylor, 481 U.S. 58–provided the exclusive cause of action for the claim asserted and also set forth procedures and remedies governing that cause of action.  Pp. 3—6.
+
+      (b) Because respondents’ complaint expressly charged petitioners with usury, Metropolitan Life, Avco, and Franchise Tax Bd. provide the framework for answering the question whether the National Bank Act provides the exclusive cause of action for usury claims against national banks.  Section 85 sets substantive limits on the interest rates that national banks may charge, while §86 prescribes the remedies available to borrowers who are charged higher rates and the procedures governing such claims.  If the interest charged here did not violate §85 limits, the statute pre-empts any common-law or Alabama statutory rule that would treat those rates as usurious and would, thus, provide a federal defense.  That defense would not justify removal.  Only if Congress intended §86 to provide the exclusive cause of action for usury claims against national banks would the statute be comparable to the provisions construed in Avco and Metropolitan Life.  This Court has long construed the National Bank Act as providing the exclusive federal cause of action for usury against national banks.  See, e.g., Farmers’ and Mechanics’ Nat. Bank v. Dearing, 91 U.S. 29.  The Court has also recognized the special nature of federally chartered banks.  Uniform rules limiting their liability and prescribing exclusive remedies for their overcharges are an integral part of a banking system that needed protection from possible unfriendly state legislation.  The same federal interest supports the established interpretation of §§85 and 86 that gives those provisions the requisite pre-emptive force to provide removal jurisdiction.  Pp. 6—9. 
+
+287 F.3d 1038, reversed.
+
+    Stevens, J., delivered the opinion of the Court, in which Rehnquist, C. J., and O’Connor, Kennedy, Souter, Ginsburg, and Breyer, JJ., joined.  Scalia, J., filed a dissenting opinion, in which Thomas, J., joined.
+

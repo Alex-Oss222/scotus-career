@@ -1,0 +1,62 @@
+
+
+CHAVEZ V. MARTINEZ
+
+LII
+
+Supreme Court		 
+
+CHAVEZ V. MARTINEZ (01-1444) 
+270 F.3d 852, reversed and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Souter ]Concurrence
+ [ Scalia ]Other
+ [ Opinion of Stevens ]Other
+ [ Opinion of Kennedy ]Other
+ [ Opinion of Ginsburg ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Souter, J., concurring in judgment
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 01—1444
+
+BEN CHAVEZ, PETITIONER v. OLIVERIO MARTINEZ
+
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OF
+APPEALS FOR THE NINTH CIRCUIT
+
+[May 27, 2003]
+
+    Justice Souter, delivered an opinion, Part II of which is the opinion of the Court, and Part I of which is an opinion concurring in the judgment.*
+
+ I
+
+    Respondent Martinez’s claim under 42 U.S.C. § 1983 for violation of his privilege against compelled self-incrimination should be rejected and his case remanded for further proceedings.  I write separately because I believe that our decision requires a degree of discretionary judgment greater than Justice Thomas acknowledges.  As he points out, the text of the Fifth Amendment (applied here under the doctrine of Fourteenth Amendment incorporation) focuses on courtroom use of a criminal defendant’s compelled, self-incriminating testimony, and the core of the guarantee against compelled self-incrimination is the exclusion of any such evidence.  Justice Ginsburg makes it clear that the present case is very close to Mincey v. Arizona, 437 U.S. 385 (1978), and Martinez’s testimony would clearly be inadmissible if offered in evidence against him.  But Martinez claims more than evidentiary protection in asking this Court to hold that the questioning alone was a completed violation of the Fifth and Fourteenth Amendments subject to redress by an action for damages under §1983.
+
+      To recognize such a constitutional cause of action for compensation would, of course, be well outside the core of Fifth Amendment protection, but that alone is not a sufficient reason to reject Martinez’s claim.  As Justice Harlan explained in his dissent in Miranda v. Arizona, 384 U.S. 436 (1966), “extension[s]” of the bare guarantee may be warranted, id., at 510, if clearly shown to be desirable means to protect the basic right against the invasive pressures of contemporary society, id., at 515.  In this light, we can make sense of a variety of Fifth Amendment holdings: barring compulsion to give testimonial evidence in a civil proceeding, see McCarthy v. Arndstein, 266 U.S. 34, 40 (1924); requiring a grant of immunity in advance of any testimonial proffer, see Kastigar v. United States, 406 U.S. 441, 446—447 (1972); precluding threats or impositions of penalties that would undermine the right to immunity, see, e. g., Uniformed Sanitation Men Assn., Inc. v. Commissioner of Sanitation of City of New York, 392 U.S. 280, 284—285 (1968); Lefkowitz v. Turley, 414 U.S. 70, 77—79 (1973); Lefkowitz v. Cunningham, 431 U.S. 801, 804—806 (1977); McKune v. Lile, 536 U.S. 24, 35 (2002) (plurality opinion); and conditioning admissibility on warnings and waivers to promote intelligent choices and to simplify subsequent inquiry into voluntariness, see Miranda, supra.  All of this law is outside the Fifth Amendment’s core, with each case expressing a judgment that the core guarantee, or the judicial capacity to protect it, would be placed at some risk in the absence of such complementary protection.
+
+      I do not, however, believe that Martinez can make the “powerful showing,” subject to a realistic assessment of costs and risks, necessary to expand protection of the privilege against compelled self-incrimination to the point of the civil liability he asks us to recognize here.  See id., at 515, 517 (Harlan, J., dissenting).  The most obvious drawback inherent in Martinez’s purely Fifth Amendment claim to damages is its risk of global application in every instance of interrogation producing a statement inadmissible under Fifth and Fourteenth Amendment principles, or violating one of the complementary rules we have accepted in aid of the privilege against evidentiary use.  If obtaining Martinez’s statement is to be treated as a stand-alone violation of the privilege subject to compensation, why should the same not be true whenever the police obtain any involuntary self-incriminating statement, or whenever the government so much as threatens a penalty in derogation of the right to immunity, or whenever the police fail to honor Miranda?<* num="{dagger}">  Martinez offers no limiting principle or reason to foresee a stopping place short of liability in all such cases.
+
+    Recognizing an action for damages in every such instance not only would revolutionize Fifth and Fourteenth Amendment law, but would beg the question that must inform every extension or recognition of a complementary rule in service of the core privilege: why is this new rule necessary in aid of the basic guarantee?  Martinez has offered no reason to believe that the guarantee has been ineffective in all or many of those circumstances in which its vindication has depended on excluding testimonial admissions or barring penalties.  And I have no reason to believe the law has been systemically defective in this respect.
+
+      But if there is no failure of efficacy infecting the existing body of Fifth Amendment law, any argument for a damages remedy in this case must depend not on its Fifth Amendment feature but upon the particular charge of outrageous conduct by the police, extending from their initial encounter with Martinez through the questioning by Chavez.  That claim, however, if it is to be recognized as a constitutional one that may be raised in an action under §1983, must sound in substantive due process.  See generally County of Sacramento v. Lewis, 523 U.S. 833, 849 (1998) (“[C]onduct intended to injure in some way unjustifiable by any government interest is the sort of official action most likely to rise to the conscience-shocking level”).  Here, it is enough to say that Justice Stevens shows that Martinez has a serious argument in support of such a position.
+
+II
+
+     Whether Martinez may pursue a claim of liability for a substantive due process violation is thus an issue that should be addressed on remand, along with the scope and merits of any such action that may be found open to him.
+
+Notes
+
+*. Justice Breyer joins this opinion in its entirety.  Justice Stevens, Justice Kennedy, and Justice Ginsburg join Part II of this opinion. 
+

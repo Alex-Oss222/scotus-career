@@ -1,0 +1,1813 @@
+                               PUBLISHED
+
+UNITED STATES COURT OF APPEALS
+
+                   FOR THE FOURTH CIRCUIT
+
+HOWARD KEVIN KNUSSMAN,                         
+
+                Plaintiff-Appellee,
+
+                and
+
+KIMBERLY ANN KNUSSMAN, on behalf
+of themselves and their infant
+daughter, a/k/a Riley Paige
+Knussman,
+
+                                   Plaintiff,
+
+                v.
+
+STATE OF MARYLAND; DAVID B.
+
+MITCHELL, Colonel, individually and            
+
+in his official capacity as                      No. 99-2349
+
+Superintendent; DAVID CZORAPINSKI,
+
+Captain, individually and in his
+
+official capacity as Assistant
+
+Commander of Aviation; RONNIE P.
+
+CREEL, First Sergeant, individually
+
+and in his official capacity as
+
+Director of Flight Operations; JILL
+
+D. MULLINEAUX,
+
+Defendants-Appellants,
+
+                and
+
+MARYLAND STATE POLICE,
+
+                  Defendant. 
+
+Appeal from the United States District Court
+ for the District of Maryland, at Baltimore.
+ Walter E. Black, Jr., Senior District Judge.
+                 (CA-95-1255-B)
+
+                     Argued: January 26, 2001
+
+                    Decided: November 7, 2001
+2  KNUSSMAN v. STATE OF MARYLAND
+
+   Before WILLIAMS and TRAXLER, Circuit Judges, and
+   Gerald Bruce LEE, United States District Judge for the
+
+      Eastern District of Virginia, sitting by designation.
+
+Affirmed in part, vacated in part, and remanded by published opinion.
+Judge Traxler wrote the majority opinion, in which Judge Williams
+joined. Judge Lee wrote an opinion concurring in part and dissenting
+in part.
+
+                                   COUNSEL
+
+ARGUED: David Phelps Kennedy, Assistant Attorney General, Bal-
+timore, Maryland, for Appellants. Robin R. Cockey, COCKEY,
+BRENNAN & MALONEY, Salisbury, Maryland, for Appellee. ON
+BRIEF: J. Joseph Curran, Jr., Attorney General of Maryland, Betty
+Stemley Sconion, Assistant Attorney General, Donald E. Hoffman,
+Assistant Attorney General, Baltimore, Maryland, for Appellants.
+Deborah A. Jeon, AMERICAN CIVIL LIBERTIES UNION FOUN-
+DATION OF MARYLAND, Centreville, Maryland; Sara L. Mandel-
+baum, AMERICAN CIVIL LIBERTIES UNION, New York, New
+York, for Appellee.
+
+                                    OPINION
+
+TRAXLER, Circuit Judge:
+
+   Howard Kevin Knussman, a trooper in the Maryland State Police,
+brought an action alleging that the State of Maryland and several indi-
+vidual employees of the Maryland State Police (collectively "the
+defendants") unlawfully discriminated against him on the basis of his
+gender, for which he sought recourse under 42 U.S.C.A. § 1983 (West
+Supp. 2000); and that the defendants violated his rights under the
+Family and Medical Leave Act of 1993 (FMLA), see 29 U.S.C.A.
+§§ 2601 - 2654 (West 1999), for which he sought recourse under
+§ 1983 and directly under the FMLA. Following a jury trial and vari-
+KNUSSMAN v. STATE OF MARYLAND  3
+
+ous post-trial motions, judgment in the amount of $375,000 was
+entered against only one of the defendants -- Jill Mullineaux, a civil-
+ian employee of the Maryland State Police.
+
+   On appeal, Mullineaux contends that she was entitled to qualified
+immunity. Alternatively, she challenges the verdict on several
+grounds. We conclude that Mullineaux was not entitled to qualified
+immunity; however, we find that the award of damages was exces-
+sive. Accordingly, we set aside the jury's award of damages and
+remand for further proceedings on that issue.
+
+I.
+
+   In 1994, Knussman learned that his wife Kimberly was pregnant.
+At the time, Knussman held the rank of trooper first class and served
+as a paramedic on medevac helicopters in the Aviation Division of the
+Maryland State Police ("MSP"). Unfortunately, Kim's pregnancy was
+difficult and ultimately resulted in her confinement to bed rest in the
+latter stages prior to delivery. In October 1994, Knussman submitted
+a written request to his supervisor asking that Knussman be permitted
+to take four to eight weeks of paid "family sick leave" to care for his
+wife and spend time with his family following the birth of his child.1
+J.A. 121. Eventually, Knussman was informed by the MSP Director
+of Flight Operations, First Sergeant Ronnie P. Creel, that there was
+"no way" that he would be allowed more than two weeks. Creel testi-
+fied that, at the time of Knussman's request, the Aviation Division
+was understaffed. According to Knussman, Creel misinformed him
+that if he wanted more leave, he would be forced to take unpaid leave
+because the FMLA did not entitle him to further paid leave. Knuss-
+man testified that he was unfamiliar with the FMLA because the MSP
+had failed to provide proper notice to its employees about their rights
+under the FMLA.
+
+   1Maryland law permitted a state employee to use paid sick leave for
+reasons other than the employee's own illness, including "for death, ill-
+ness, or disability in the employee's immediate family." Md. Code Ann.,
+State Pers. & Pens. § 7-502(b)(2) (1994). The statute was later amended
+and reorganized; however, Maryland law still permits this particular use
+of a state employee's sick leave. See Md. Code Ann., State Pers. & Pens.
+§ 9-501(b)(2) (1996).
+4  KNUSSMAN v. STATE OF MARYLAND
+
+   In early December, shortly before the Knussmans' daughter was
+born, Jill Mullineaux, manager of the medical leave and benefit sec-
+tion of the MSP Personnel Management Division, notified all MSP
+employees of a new Maryland statutory provision that allowed the use
+of paid sick leave by a state employee to care for a newborn. See Md.
+Code Ann., State Pers. & Pens. §§ 7-502(b)(3), 7-508 (1994). The
+statute permitted "[p]rimary care givers" to "use, without certification
+of illness or disability, up to 30 days of accrued sick leave to care for
+[a] child . . . immediately following: . . . the birth of the employee's
+child." Md. Code Ann., State Pers. & Pens. § 7-508(a)(1). A
+"[p]rimary care giver" was defined as "an employee who is primarily
+responsible for the care and nurturing of a child." Md. Code Ann.,
+State Pers. & Pens. § 7-508(a)(1). By contrast, a "[s]econdary care
+giver," i.e., "an employee who is secondarily responsible for the care
+and nurturing of a child," might use up to 10 days of accrued sick
+leave without providing proof of illness or disability. Md. Code Ann.,
+State Pers. & Pens. § 7-508(b)(1).2 In contrast to "family sick leave,"
+which required an employee to provide verification of a family mem-
+ber's illness, the new "nurturing leave" provision permitted an
+employee to use paid sick leave without providing any medical docu-
+mentation, since this type of leave was not actually related to the ill-
+ness or disability of the employee or the employee's family.3
+
+   Believing that this "nurturing leave" might afford him more paid
+leave than he would receive from his request for "family sick leave,"
+Knussman contacted Mullineaux for additional information about
+using his accrued sick leave under § 7-508. Specifically, he wanted to
+know whether he could qualify as a primary care giver under § 7-
+508(a)(1) and take 30 days of paid sick leave. According to Knuss-
+man, Mullineaux informed him that only birth mothers could qualify
+as primary care givers; fathers would only be permitted to take leave
+
+   2Section 7-508 has been amended and recodified, and it now provides
+for the use of up to an aggregate of 40 days of accrued sick leave if two
+state employees are responsible for the care of a newborn. See Md. Code
+Ann., State Pers. & Pens. § 9-505(b)(1) (1996). Section 7-508(b)(1), had
+it been in effect at the time, apparently would have applied to the Knuss-
+mans, who were both state employees.
+
+   3For ease of reference, we adopt the term "nurturing leave." This term,
+however, does not appear in the statute.
+KNUSSMAN v. STATE OF MARYLAND  5
+
+as secondary care givers since they "couldn't breast feed a baby." J.A.
+136. Mullineaux, who testified that she was merely passing along the
+Maryland Department of Personnel's (DOP) view of "primary care
+giver," denied adopting such a categorical interpretation.4 In any case,
+Knussman's superior officers in the Aviation Division, having con-
+sulted Mullineaux about the untested nurturing leave provision,
+granted him 10 days of paid sick leave as the secondary care giver
+under § 7-508(b).
+
+   The Knussmans' daughter was born on December 9, 1994. Kim-
+berly Knussman, however, continued to experience health problems.
+Before his authorized 10-day leave expired, Knussman contacted Ser-
+geant J.C. Collins, one of his supervisors, and inquired whether his
+status could be changed to that of primary care giver and his paid sick
+leave extended to 30 days under section 7-508(a). Knussman
+explained to Collins that he was the primary care giver for the child
+because, given his wife's condition following delivery, he was per-
+forming the majority of the essential functions such as diaper chang-
+ing, feeding, bathing and taking the child to the doctor.
+
+   David Czorapinski, the Assistant Commander for the Aviation
+Division during this time, learned of Knussman's inquiry and, unable
+to reach Mullineaux, gathered some preliminary information on the
+new law himself. Czorapinski learned that the Maryland DOP
+intended to take the position that the mother was the primary care
+giver and the father was secondary. Czorapinski passed this informa-
+tion down the chain-of-command and Knussman was told that it was
+unlikely that his paid sick leave would be extended under section 7-
+508(a).
+
+   On the day before Knussman was scheduled to return to work,
+Knussman made a final attempt at obtaining additional sick leave.
+
+   4Mullineaux testified that she never told Knussman that fathers were,
+as a class, ineligible for primary care giver status. Rather, Mullineaux's
+version was that she told Knussman, based on information provided by
+the state Department of Personnel, "that the birth mother was presumed
+to be the primary care giver and if he wanted to qualify as the primary
+care giver, he could, if he could provide [supporting] information." J.A.
+488.
+6  KNUSSMAN v. STATE OF MARYLAND
+
+Sergeant Carl Lee, one of Knussman's immediate superiors, had ear-
+lier informed Knussman that although nurturing leave as a primary
+care giver was probably not an option, Knussman might be eligible
+for additional paid leave under the family sick leave provision, see
+Md. Code Ann., State Pers. & Pens. § 7-502(b)(2), as long as he
+could demonstrate that it was medically necessary for him to care for
+his wife. Knussman contacted Mullineaux to find out what informa-
+tion he needed to supply for family sick leave.5 During this conversa-
+tion, Knussman again discussed his eligibility for nurturing leave as
+a primary care provider under section 7-508(a) with Mullineaux, who
+explained that "God made women to have babies and, unless [he]
+could have a baby, there is no way [he] could be primary care
+[giver]," J.A. 153, and that his wife had to be "in a coma or dead,"
+J.A. 154, for Knussman to qualify as the primary care giver.
+
+   Mullineaux denied Knussman's request for paid sick leave under
+§ 7-508(a) as a primary care giver. Knussman returned to work as
+ordered and immediately filed an administrative grievance on the
+grounds that he had been improperly denied primary care giver status
+under § 7-508(a). He did not seek review of Mullineaux's denial of
+his request for family sick leave under section 7-502(b)(2). Once the
+grievance process was underway, Knussman's claim went up the
+MSP chain-of-command and Mullineaux's involvement ceased.
+
+   Knussman's grievance was denied at each stage of the four-level
+grievance procedure. By the time Knussman reached step two, which
+consisted of a review conference held by Knussman's Assistant Com-
+manding Officer Czorapinski, the MSP apparently had retreated from
+Mullineaux's earlier, categorical classification of mothers as primary
+care givers and fathers as secondary providers. Czorapinski testified
+
+   5Knussman subsequently submitted a letter from Kimberly Knuss-
+man's doctor in support of his request for family sick leave; however,
+Mullineaux concluded that the letter was insufficient to justify family
+sick leave because "it [did not] say what care [Knussman was] going to
+provide, and it [did not] say that [Knussman] need[ed] to be home . . .
+like it's [Knussman's] choice and not the doctor's requirement." J.A.
+827. Although Czorapinski suggested to Knussman that the deficiencies
+could be easily corrected, Knussman refused "to pursue this option any
+further." J.A. 828.
+KNUSSMAN v. STATE OF MARYLAND                                     7
+
+that prior to the grievance conference, he notified Knussman that the
+DOP had "recanted [its] policy [that] mother's primary, father's sec-
+ondary," J.A. 840, and that Knussman was indeed eligible for primary
+care giver status and could qualify by providing "some information on
+why you are the primary caregiver." J.A. 841. And, Knussman
+acknowledged that Czorapinski explained that he would be trying to
+determine during the step two grievance conference whether Knuss-
+man was the primary care giver. Also, Czorapinski's later written rul-
+ing explained that "the overall issue of primary vs. secondary was still
+a matter to be resolved in [Knussman's] case" and that Knussman was
+told to "be prepared to establish himself as primary care giver at the
+conference." J.A. 1208. Thus, Czorapinski, interpreting the statute to
+permit only one primary care giver, offered Knussman the opportu-
+nity to demonstrate that he was that person.
+
+   After a formal conference with Knussman and his lawyer,
+Czorapinski denied Knussman's grievance, reasoning that Knussman
+failed to present enough evidence to support his claim of primary sta-
+tus:
+
+   The grievance filed by Tfc. Knussman states that Mrs.
+Knussman had medical complications during and after preg-
+nancy that necessitated him to assume primary child care
+responsibilities. [The documents] presented to verify this
+necessity fail to make any argument in that regard. . . .
+
+   All indications are that Mrs. Knussman was capable of
+providing for the care and nurturing of their child after birth.
+She was off on maternity leave from December 9, 1994
+when the child was born until January 23, 1995 when she
+was certified fit for full time work, a period equivalent to the
+30 days allowed by the statute involved in this matter. Addi-
+tionally, there was nothing offered to indicate that she was
+unwilling or otherwise unable to provide care for the child.
+Basically speaking, she was receiving all of the benefits
+afforded by statute.
+
+   Taking into consideration all of these facts, Mrs. Knuss-
+man has to be identified as the primary care giver in this
+instance. Tfc. Knussman has not shown any difference
+8  KNUSSMAN v. STATE OF MARYLAND
+
+   between himself and Mrs. Knussman in skill, talent or abil-
+   ity in providing care and nurturing for the child. Since Mrs.
+   Knussman was already receiving benefits equal to those
+   specified for primary care givers according to statute, there
+   is no reason to extend similar primary care benefits [to] Tfc.
+   Knussman. He was afforded benefits of [a] secondary care
+   provider as he was rightfully entitled. While Tfc. Knussman
+   may have desired the designation as primary, he has failed
+   to justify that claim.
+
+J.A. 1209-10. Essentially, Czorapinski believed that Kimberly Knuss-
+man, who was also a state employee, was enjoying the benefits of
+nurturing leave as a primary care giver because, following delivery,
+she took sick leave for a 30-day period -- the same amount of time
+afforded a primary care giver under § 7-508(a). Thus, Czorapinski
+was concerned that both Knussmans were attempting to qualify as the
+primary care giver for their daughter when the statute indicated only
+one person could qualify. At trial, Knussman presented evidence that,
+prior to the step two grievance conference, Mullineaux and Czorapin-
+ski were made aware of the fact the Kimberly Knussman was, in fact,
+on sick leave for her own disability resulting from the difficult preg-
+nancy. Following Czorapinski's decision, Knussman pursued his
+complaint through the two remaining steps of the internal grievance
+procedure without success.
+
+   Knussman then filed a three-count action in federal court. In Count
+I, Knussman sought relief under § 1983, claiming that his leave
+request under § 7-508(a) was denied as a result of gender discrimina-
+tion in violation of the Equal Protection Clause of the Fourteenth
+Amendment to the United States Constitution. In Count II, Knussman
+asserted that the denial of his request for additional paid leave vio-
+lated the FMLA. See 29 U.S.C.A. § 2612(d)(2)(A) ("An eligible
+employee may elect . . . to substitute any of the accrued paid . . . per-
+sonal leave, or family leave of the employee for leave provided under
+[the FMLA] for any part of the 12-week period of such leave . . . .").
+Knussman brought Count II directly under the FMLA as well as
+under § 1983. Third, Knussman asserted a claim under the Maryland
+Equal Rights Amendment but subsequently agreed to dismiss it. He
+named as defendants the State of Maryland, the MSP, and several
+employees of the MSP, in both their individual and official capacities:
+KNUSSMAN v. STATE OF MARYLAND                                    9
+
+Mullineaux, Czorapinski, Creel, and Colonel David B. Mitchell,
+Superintendent of the MSP.
+
+   Initially, the defendants moved to dismiss Counts I and II on the
+grounds that the Eleventh Amendment afforded immunity from suit
+to the State of Maryland, the MSP, and the individual defendants in
+their official capacities. The district court dismissed Knussman's
+§ 1983 equal protection claim under Count I as to the State of Mary-
+land, the MSP, and the individual defendants in their official capaci-
+ties to the extent the claims sought money damages. See Knussman
+v. State of Maryland, 935 F. Supp. 659, 663-64 (D. Md. 1996). The
+district court denied the motion to dismiss with respect to Knussman's
+claims under Count II that the defendants violated the FMLA. See id.
+at 664.
+
+   After a period of discovery, the defendants moved for summary
+judgment on the grounds that they were entitled to qualified immunity
+and that Knussman could not prove an equal protection violation in
+the first place. With respect to Knussman's equal protection claim
+under § 1983 (Count I), the court concluded that the facts, viewed in
+the light most favorable to Knussman, indicated that the defendants
+applied a gender-based presumption that the birth mother was the pri-
+mary care giver, which would amount to an equal protection viola-
+tion. See Knussman v. State of Maryland, 16 F. Supp. 2d 601, 611-12
+(D. Md. 1998) ("Knussman II"). The district court further concluded
+that the defendants were not entitled to qualified immunity because
+it was well-established at the time that gender discrimination in
+employment was prohibited under the Fourteenth Amendment:
+
+Although the Maryland leave law had been amended effec-
+tive less than one month before [Knussman] requested leave
+and the DOP had not issued any guidelines regarding appli-
+cation of the amended law, the right to equal protection is
+a well-established principle. It is also clear that gender dis-
+crimination violates the equal protection clause. Discrimina-
+tory application of a gender neutral state law is patently
+illegal and defendants should have known at least this much.
+
+Id. at 612. As for the FMLA claims (Count II), however, the district
+court granted qualified immunity to all of the individual defendants
+in their individual capacities. See id. at 611.
+10  KNUSSMAN v. STATE OF MARYLAND
+
+   Thus, the case went to trial on portions of both counts in the com-
+plaint. As for Count I, Knussman's § 1983 equal protection claim
+remained intact against the State of Maryland (but only for declara-
+tory and injunctive relief) and the defendants in their individual
+capacities. At the close of the evidence, the court submitted the ques-
+tion of qualified immunity to the jury as well as the ultimate question
+of liability. The jury concluded that each defendant denied Knuss-
+man's request for leave because of his gender; however, the jury also
+found that every defendant except Mullineaux was entitled to quali-
+fied immunity. Knussman does not challenge this conclusion on
+appeal. On Count II, the FMLA claim brought under both the FMLA
+and § 1983 against the State of Maryland and the defendants in their
+official capacities, the jury concluded that all of the defendants denied
+Knussman leave to which he was entitled under the FMLA. The jury
+awarded Knussman the sum of $375,000 in damages.
+
+   The defendants moved for judgment as a matter of law pursuant to
+Rule 50(b) of the Federal Rules of Civil Procedure, or, alternatively,
+for a new trial under Rule 59(a). See Knussman v. State of Maryland,
+65 F. Supp. 2d 353, 354 (D. Md. 1999) ("Knussman III"). The district
+court rejected Mullineaux's renewed argument that she was entitled
+to qualified immunity:
+
+    The Court finds no reason to disturb the jury's findings in
+    this regard. A jury could have reasonably concluded from
+    the evidence that Mullineaux, as the personnel officer in the
+    State's Personnel Management Division, should have recog-
+    nized that she was applying a gender neutral leave statute in
+    a discriminatory manner by making only men prove they are
+    primary care givers to a newborn or adopted child.
+
+Knussman III, 65 F. Supp. 2d at 360.
+
+   The defendants also raised various challenges to the damages
+awarded by the jury on Count II, the FMLA claim. Ultimately, the
+district court vacated the jury's verdict on Count II and "amend[ed]
+the judgment to remove the State and the individual defendants in
+their official capacities from liability for money damages." Id. at 360.
+Thus, Mullineaux became the only defendant subject to monetary lia-
+bility. She argued that the $375,000 award of damages was excessive.
+KNUSSMAN v. STATE OF MARYLAND                                   11
+
+The district court rejected this argument, concluding there was suffi-
+cient evidence for the jury to conclude that Knussman suffered signif-
+icant emotional damage. See id.
+
+   On appeal, Mullineaux contends that she was entitled to qualified
+immunity on Knussman's equal protection claim under § 1983. She
+also challenges, on multiple grounds, the jury's verdict as well as the
+court's jury instructions.6
+
+II.
+
+   First, we turn to defendant Mullineaux's argument that she was
+entitled to qualified immunity from Knussman's claims. Public offi-
+cials "are protected by qualified immunity when performing their
+duties within the scope of their employment insofar as their conduct
+does not breach `clearly established statutory or constitutional rights
+of which a reasonable person would have known.'" Sigman v. Town
+of Chapel Hill, 161 F.3d 782, 786 (4th Cir. 1998) (quoting Harlow
+v. Fitzgerald, 457 U.S. 800, 818 (1982)). "The reasonableness inquiry
+is an objective one, measured by reference to clearly established law."
+Milstead v. Kibler, 243 F.3d 157, 161 (4th Cir. 2001) (internal quota-
+tion marks omitted). Essentially, officials
+
+performing a discretionary function enjoy an immunity that
+shields them from liability for civil damages unless (1) the
+officers' conduct violates a federal statutory or constitu-
+tional right, and (2) the right was clearly established at the
+time of the conduct, such that (3) an objectively reasonable
+officer would have understood that the conduct violated that
+right.
+
+   6We need not address whether the Eleventh Amendment permits
+Knussman to bring an FMLA claim against the States and the defendants
+in their official capacities. The district court vacated the jury's verdict on
+Count II and Knussman has not appealed that decision. In light of our
+disposition of this appeal, there is no need to determine whether the sub-
+mission of the FMLA claim to the jury tainted the verdict, and hence no
+need to examine the viability of Knussman's FMLA claim.
+12  KNUSSMAN v. STATE OF MARYLAND
+
+Id.; see Anderson v. Creighton, 483 U.S. 635, 638-40 (1987).
+
+   Wilson v. Layne, 526 U.S. 603 (1999), instructs that "[a] court eval-
+uating a claim of qualified immunity `must first determine whether
+the plaintiff has alleged the deprivation of an actual constitutional
+right at all, and if so, proceed to determine whether that right was
+clearly established at the time of the alleged violation.'" Id. at 609
+(emphasis added) (quoting Conn v. Gabbert, 526 U.S. 286, 290
+(1999)); Saucier v. Katz, 533 U.S. ___, No. 99-1977, slip op. at 5
+(June 18, 2001). "Were courts to rule on qualified immunity without
+determining the constitutionality of the challenged conduct, `stan-
+dards of official conduct would tend to remain uncertain, to the detri-
+ment both of officials and individuals. An immunity determination,
+with nothing more, provides no clear standard, constitutional or non-
+constitutional.'" Kibler, 243 F.3d at 162 (quoting County of Sacra-
+mento v. Lewis, 523 U.S. 833, 841 n.5 (1998)).
+
+   The initial question, therefore, is whether a violation of a constitu-
+tional right has been demonstrated. See Wilson, 526 U.S. at 609. "If
+so, we may proceed to determine whether [the official] is entitled to
+qualified immunity or whether, because he ran afoul of clearly estab-
+lished constitutional rights, he is to be held personally accountable for
+his unlawful conduct." Doe v. Broderick, 225 F.3d 440, 446 (4th Cir.
+2000).
+
+   Mullineaux moved for qualified immunity at the summary judg-
+ment stage under Rule 56 of the Federal Rules of Civil Procedure.
+The district court denied the motion. See Knussman II, 16 F. Supp.
+2d at 612. The case proceeded to trial and the district court submitted
+the question of qualified immunity to the jury. With regard to the
+question of whether Knussman established a constitutional violation,
+the court instructed the jury that "[t]he government and its officials
+may employ a sex-based classification or policy only if they can dem-
+onstrate an exceedingly persuasive justification for the policy and can
+show that the discriminatory classification is substantially related to
+the achievement of governmental objectives." J.A. 1091-92. The jury
+was further instructed that "[w]here a law is gender neutral on its face,
+discriminatory application of that law is unconstitutional." J.A. 1092.
+The district court then explained that even if the jury were to conclude
+that the defendants discriminated based on gender, the defendants
+KNUSSMAN v. STATE OF MARYLAND  13
+
+could escape liability if they were entitled to qualified immunity, i.e.,
+"if at the time [they] discriminated based on gender [they] neither
+knew nor should have known that [their] actions were contrary to fed-
+eral law." J.A. 1092. The jury was told that at the time in question,
+it was clearly established federal law that "gender discrimination vio-
+lates the equal protection clause." J.A. 1092. The jury concluded that
+all of the individual defendants except Mullineaux were entitled to
+qualified immunity.
+
+   Mullineaux renewed her motion at the post-verdict stage under
+Rule 50(b). The district judge, in reviewing the Rule 50(b) motion,
+refused to disturb the jury's determination that Mullineaux was not
+entitled to qualified immunity. See Knussman III, 65 F. Supp. 2d at
+360-61. Ultimately, it is this decision that we are reviewing. On
+appeal, we consider the district court's ruling on the Rule 50(b)
+motion in light of the full trial record rather than the court's denial of
+summary judgment under Rule 56(c) on less than a full record. See
+Chesapeake Paper Prods. Co. v. Stone & Webster Eng'g Corp., 51
+F.3d 1229, 1236-37 (4th Cir. 1995). Our review of the district court's
+denial of Mullineaux's Rule 50(b) motion is de novo, and we view the
+evidence in the light most favorable to Knussman. See Austin v. Para-
+mount Parks, Inc., 195 F.3d 715, 727 (4th Cir. 1999).
+
+   Before turning to our analysis of whether Mullineaux is entitled to
+qualified immunity, we pause to note that, although the jury may be
+suited for making factual findings relevant to the question of qualified
+immunity, we believe it is far better for the court, not the jury, to
+answer the ultimate legal question of whether a defendant is entitled
+to qualified immunity. See Warren v. Dwyer, 906 F.2d 70, 76 (2nd
+Cir. 1990) ("The ultimate legal determination whether, on the facts
+found, a reasonable police officer should have known he acted unlaw-
+fully is a question of law better left for the court to decide."). The
+nature of the analysis -- requiring an examination of current federal
+law and federal law as it existed at the time of the alleged violation
+-- makes for an awkward determination by the jury, at best. But,
+since the issue has not been raised, we will leave for another day the
+question of whether it is ever appropriate for a jury to answer the ulti-
+mate legal question of a defendant's entitlement to qualified immu-
+nity.
+14  KNUSSMAN v. STATE OF MARYLAND
+
+    A.
+
+   We first consider the issue of whether the evidence adduced at trial
+is sufficient to establish that Mullineaux committed a constitutional
+violation under the law as it currently stands. In a nutshell, Knuss-
+man's contention is that Mullineaux applied a facially neutral statute
+unequally solely on the basis of a gender stereotype in violation of the
+Equal Protection Clause of the Fourteenth Amendment. The only dis-
+tinction created by the statute was between "primary care givers" and
+"secondary care givers," the former being entitled to 30 days of
+accrued sick leave to care for a newborn and the latter being entitled
+to 10 days of accrued sick leave. See Md. Code Ann., State Pers. &
+Pens. § 7-508. The statute made no reference to gender. Rather, the
+gender classification was created in the application of § 7-508.
+Viewed in the light most favorable to Knussman, Mullineaux, based
+on the comments of an administrative assistant to the DOP's Director
+of Legislation, took the position that only mothers could qualify for
+additional paid leave as primary care givers under § 7-508(a). Essen-
+tially, Mullineaux applied an irrebutable presumption that the mother
+is the primary care giver, and therefore entitled to greater employment
+benefits.7
+
+   We agree with Knussman that Mullineaux's conduct violated his
+rights under the Equal Protection Clause. Government classifications
+drawn on the basis of gender have been viewed with suspicion for
+three decades, beginning with the Supreme Court's decision in Reed
+v. Reed, 404 U.S. 71, 77 (1971), in which the Court condemned "dis-
+similar treatment for men and women who are . . . similarly situated."
+As its equal protection jurisprudence developed in subsequent cases,
+the Court did not view gender classifications as "benign":
+
+   7The fact that Mullineaux told Knussman that he would be eligible for
+primary care giver status if his wife were "in a coma or dead" is of no
+moment. That was the same as telling Knussman he could never qualify.
+If Knussman is given the benefit of the doubt, the evidence establishes
+that Mullineaux categorically denied fathers eligibility for primary care
+giver status. Thus, it is unnecessary for us to decide whether Mullineaux
+could have constitutionally applied a truly rebuttable presumption in
+favor of the mother.
+KNUSSMAN v. STATE OF MARYLAND                                        15
+
+[S]ince sex, like race and national origin, is an immutable
+characteristic determined solely by the accident of birth, the
+imposition of special disabilities upon the members of a par-
+ticular sex because of their sex would seem to violate "the
+basic concept of our system that legal burdens should bear
+some relationship to individual responsibility . . . ." And
+what differentiates sex from such nonsuspect [classifica-
+tions] as intelligence or physical disability . . . is that the sex
+characteristics frequently bears no relation to ability to per-
+form or contribute to society.
+
+Frontiero v. Richardson, 411 U.S. 677, 686 (1973) (first ellipsis in
+original) (citation omitted); see United States v. Virginia, 518 U.S.
+515, 532 (1996) ("VMI") ("Since Reed, the Court has repeatedly rec-
+ognized that neither federal nor state government acts compatibly
+with the equal protection principle when a law or official policy
+denies to women, simply because they are women, full citizenship
+stature. . . ."). Thus, a gender classification is subject to heightened
+scrutiny and will fail unless it "serve[s] important governmental
+objectives and [is] substantially related to achievement of those objec-
+tives." Craig v. Boren, 429 U.S. 190, 197 (1976); see Wengler v.
+Druggists Mut. Ins. Co., 446 U.S. 142, 150 (1980); see also Mitchell
+v. Commissioner of the Social Security Administration, 182 F.3d 272,
+274 (4th Cir.) ("[C]ertain quasi-suspect classifications, such as gender
+and illegitimacy, are subject to an intermediate form of scrutiny and
+will be upheld if `substantially related to a sufficiently important gov-
+ernmental interest.'" (quoting City of Cleburne, Texas v. Cleburne
+Living Ctr., 473 U.S. 432, 441 (1996)), cert. denied, 528 U.S. 9444
+(1999).
+
+   In particular, justifications for gender-based distinctions that are
+rooted in "overbroad generalizations about the different talents,
+capacities, or preferences of males and females" will not suffice. VMI,
+518 U.S. at 533. "Legislative classifications which distribute benefits
+and burdens on the basis of gender carry the inherent risk of reinforc-
+ing stereotypes about the `proper place' of women and their need for
+special protection." Orr v. Orr, 440 U.S. 268, 283 (1979). Thus, gen-
+der classifications that appear to rest on nothing more than conven-
+tional notions about the proper station in society for males and
+females have been declared invalid time and again by the Supreme
+16  KNUSSMAN v. STATE OF MARYLAND
+
+Court. For example, in Frontiero, the Supreme Court invalidated a
+federal statute that permitted a male member of the uniformed ser-
+vices automatically to claim his wife, for purposes of obtaining addi-
+tional benefits, as a dependent, but precluded a female member from
+so claiming her husband unless she could demonstrate that he was, in
+fact, dependent upon her for more than half of his support. See 411
+U.S. at 678-79. The Court concluded that the purported reason for the
+different treatment of males and females, administrative convenience,
+was premised on the impermissibly broad assumption that wives are
+dependent upon their husbands for support. See id. at 689 (rejecting
+the Government's argument "that Congress might reasonably have
+concluded that it would be both cheaper and easier simply conclu-
+sively to presume that wives of male members are financially depen-
+dent upon their husbands"). In Wengler, the Supreme Court struck
+down a Missouri workers' compensation provision that automatically
+paid death benefits to a widow but required a widower to demonstrate
+that he was actually dependent on his wife's earnings or that he was
+mentally or physically incapacitated. The Wengler Court again
+rejected the stereotypical justification offered for treating males and
+females differently -- "that most women are dependent on male wage
+earners and that it is more efficient to presume dependency in the case
+of women than to engage in case-to-case determination[s]." 446 U.S.
+at 151. And, in Weinberger v. Wiesenfeld, 420 U.S. 636 (1975), the
+Supreme Court invalidated a provision of the Social Security Act that
+paid benefits to a widow and her minor children based on her
+deceased husband's earnings but, in the case of a deceased wife, pro-
+vided benefits only to the minor children and not the widower. See id.
+at 637-39. The section of the Social Security Act at issue there was
+premised upon "the notion that men are more likely than women to
+be the primary supporters of their spouses and children." Id. at 645;
+see also Califano v. Goldfarb, 430 U.S. 199, 201-02 (1977) (invali-
+dating Social Security provision requiring a widower, but not a
+widow, to prove dependency); Orr, 440 U.S. at 280-83 (holding
+unconstitutional an Alabama statute making alimony available to
+wives only).
+
+   Gender classifications based upon generalizations about typical
+gender roles in the raising and nurturing of children have met a simi-
+lar fate. In Stanley v. Illinois, 405 U.S. 645 (1972), the Court deter-
+mined that an Illinois statute was infirm under equal protection
+KNUSSMAN v. STATE OF MARYLAND  17
+
+principles where unmarried fathers were presumed to be unfit to raise
+their children but married mothers (as well as married fathers) were
+presumed fit, meaning that "the children of unwed fathers [became]
+wards of the State upon the death of the mother." Id. at 646. The
+Court determined that "all Illinois parents are constitutionally entitled
+to a hearing on their fitness before their children are removed from
+their custody" and that denying a hearing to unwed fathers while
+granting it to unwed mothers (and married fathers) "is inescapably
+contrary to the Equal Protection Clause." Id. at 658; see also Weinber-
+ger, 420 U.S. at 652 (observing that "a father, no less than a mother,
+has a constitutionally protected right to the companionship, care, cus-
+tody, and management of the children" (internal quotation marks
+omitted)).
+
+   In Caban v. Mohammed, 441 U.S. 380 (1979), the Court specifi-
+cally rejected the argument that a state can classify based solely upon
+the idea that the maternal child-raising role is necessarily primary.
+There, a New York law gave unwed mothers the power to block the
+adoption of their children, in the majority of cases, by withholding
+consent; unwed fathers -- even those with a substantial relationship
+with their children -- did not enjoy the same power. Thus, the statute
+in Caban treated unmarried parents differently based on their gender.
+In holding that the statute did not bear a substantial relation to an
+important governmental interest, the Court rejected the argument that
+"the distinction is justified by a fundamental difference between
+maternal and paternal relations--that `a natural mother, absent special
+circumstances, bears a closer relationship with her child . . . than a
+father does.'" Id. at 388 (ellipsis in original). The Caban Court
+observed that "[c]ontrary to appellees' argument and to the apparent
+presumption underlying [the New York statute], maternal and pater-
+nal roles are not invariably different in importance" and thus "rejec-
+t[ed] . . . the claim that the broad, gender-based distinction of [the
+statute] is required by any universal difference between maternal and
+paternal relations at every phase of a child's development." Id. at 389.
+
+   The defendants have not even attempted to explain how an irrebutt-
+able presumption in favor of the mother under § 7-508 relates to an
+important state interest. We conclude that the presumption employed
+by Mullineaux here was not substantially related to an important gov-
+18  KNUSSMAN v. STATE OF MARYLAND
+
+ernmental interest and, therefore, was not permissible under the Equal
+Protection Clause.8
+
+    B.
+
+   We next must decide whether Mullineaux's actions contravened
+"clearly established statutory or constitutional rights of which a rea-
+sonable person would have known." Harlow v. Fitzgerald, 457 U.S.
+800, 818 (1982). "Clearly established for purposes of qualified immu-
+nity means that the contours of the right must be sufficiently clear that
+a reasonable official would understand that what he is doing violates
+that right." Wilson, 526 U.S. at 614-15 (alterations and internal quota-
+tion marks omitted). Although it is not required that the exact action
+at issue has been previously determined to be unlawful, "in the light
+of pre-existing law the unlawfulness must be apparent." Id. at 615
+(internal quotation marks omitted); Saucier, 533 U.S. ___, No. 99-
+1977, slip op. at 6. Wilson reiterated that "the right allegedly violated
+must be defined at the appropriate level of specificity before a court
+can determine if it was clearly established." Id. Therefore, our analy-
+sis of whether the constitutional right at issue was clearly established
+must proceed "at a high level of particularity." Edwards v. City of
+Goldsboro, 178 F.3d 231, 250-51 (4th Cir. 1999).9
+
+   8We agree with the concurring opinion to the extent that it highlights
+the general proposition that the discriminatory application of a statute
+that is neutral on its face violates the Equal Protection Clause. See Sylvia
+Dev. Corp. v. Calvert County, Md., 48 F.3d 810, 818-19 (4th Cir. 1995).
+Respectfully, however, we doubt that we have mischaracterized the
+nature of the constitutional right at issue by not focusing on the distinc-
+tion between a gender classification created by legislative enactment and
+one created by the actions of a single state official. See O'Bar v. Pinion,
+953 F.2d 74, 81 (4th Cir. 1991) ("When we conduct an equal protection
+review of the individualized decision of a state official made within his
+lawful authority, we apply the same analysis as is commonly used in the
+context of allegedly unlawful legislative decisions.").
+
+   9Here, the concurring opinion departs and would, like the district court,
+define the right in fairly broad terms: whether "a person's right not to
+have a gender neutral statute applied in a discriminatory manner" was
+clearly established in 1994. Such a broad definition is not faithful to the
+particularity principle which "mandates that courts refer to concrete
+KNUSSMAN v. STATE OF MARYLAND                                  19
+
+   We view the relevant constitutional question as follows: was the
+law clearly established in December 1994 that the equal protection
+clause prohibited a state agency from permitting only mothers, never
+fathers, to take child-nurturing leave benefits available to the primary
+care giver for a newborn? We think the decisions outlined above dem-
+onstrate that it was.
+
+   Mullineaux contends that the law was not clear because the
+Supreme Court had determined on a number of occasions that equal
+protection principles permit government officials to distribute
+employment-related benefits pursuant to gender-based classifications.
+In the decisions cited by Mullineaux, however, the gender-based clas-
+sification was linked to something other than a sexual stereotype. For
+example, Mullineaux relies on Geduldig v. Aiello, 417 U.S. 484
+(1974). In our view, Geduldig does not cloud the issue. In Geduldig,
+the Court upheld a California insurance statute that excluded
+pregnancy-related disabilities from coverage against an equal protec-
+tion challenge, observing that the exclusion of disabilities relating to
+normal childbirth (as well as other short-term disabilities not related
+to pregnancy) represented a permissible policy choice aimed at main-
+taining the solvency of the insurance program. See id. at 494-97.
+Geduldig distinguished the Frontiero line of decisions:
+
+The California insurance program does not exclude anyone
+from benefit eligibility because of gender but merely
+removes one physical condition--pregnancy--from the list
+of compensable disabilities. While it is true that only women
+can become pregnant, it does not follow that every legisla-
+
+applications of abstract concepts to determine whether the right is clearly
+established." Amaechi v. West, 237 F.3d 356, 362 (4th Cir. 2001). In our
+view, defining the right so broadly is not too far removed from framing
+the issue as whether it was clearly established that a person had the right
+not to be discriminated against based on gender. Such a definition is too
+general to provide state officials with adequate guidance on the constitu-
+tional limits to their conduct. Cf. Wilson, 526 U.S. at 615 (rejecting the
+notion that "any violation of the Fourth Amendment [by an officer] is
+`clearly established,' since it is clearly established that the protections of
+the Fourth Amendment apply to the actions of the police.").
+20  KNUSSMAN v. STATE OF MARYLAND
+
+    tive classification concerning pregnancy is a sex-based clas-
+    sification like those considered in Reed . . . and Frontiero
+    . . . . Normal pregnancy is an objectively identifiable physi-
+    cal condition with unique characteristics. Absent a showing
+    that distinctions involving pregnancy are mere pretexts
+    designed to effect an invidious discrimination against the
+    members of one sex or the other, lawmakers are constitu-
+    tionally free to include or exclude pregnancy from the cov-
+    erage of legislation such as this on any reasonable basis, just
+    as with respect to any other physical condition.
+
+Id. at 496 n.20. Likewise, Mullineaux's reliance on decisions such as
+Califano v. Webster, 430 U.S. 313 (1977) (per curiam), is unavailing.
+In Webster, the Court approved a provision of the Social Security Act
+that afforded women a more favorable method of calculating "old-age
+insurance benefits" than for similarly situated males, see id. at 314-16,
+because Congress aimed the statute at reducing "the disparity in eco-
+nomic condition between men and women caused by the long history
+of discrimination," id. at 317. Thus, the statute's disparate treatment
+of men and women "was not the accidental byproduct of a traditional
+way of thinking about females." Id. at 320 (internal quotation marks
+omitted).
+
+   The authority cited by Mullineaux actually underscores our conclu-
+sion regarding the clarity of the law in December 1994. Mullineaux's
+distribution of sick leave benefits under § 7-508 was a by-product of
+traditional ideas about a woman's role in rearing a child, which was
+clearly impermissible under the Equal Protection Clause of the Four-
+teenth Amendment at the time in question.
+
+   Accordingly, we affirm the denial of qualified immunity to Mul-
+lineaux and the jury's verdict with respect to liability. Given our find-
+ing in this regard, we need not consider the effect of the overly broad
+definition of the constitutional right contained in the jury instructions.
+
+    III.
+
+   Mullineaux seeks a new trial on damages, raising several chal-
+lenges to the jury's award of $375,000. Mullineaux's principal argu-
+ment is that the verdict was excessive and that the district court erred
+KNUSSMAN v. STATE OF MARYLAND                                    21
+
+in refusing to grant a new trial on this basis. See Knussman III, 65 F.
+Supp. 2d at 360. We review a district court's denial of a Rule 59
+motion for a new trial for abuse of discretion. See Cline v. Wal-Mart
+Stores, Inc., 144 F.3d 294, 301 (4th Cir. 1998). On a Rule 59 motion,
+the district court must
+
+set aside the verdict and grant a new trial[ ] if . . . (1) the
+verdict is against the clear weight of the evidence, or (2) is
+based upon evidence which is false, or (3) will result in a
+miscarriage of justice, even though there may be substantial
+evidence which would prevent the direction of a verdict.
+
+Atlas Food Sys. & Servs., Inc. v. Crane Nat'l Vendors, Inc., 99 F.3d
+587, 594 (4th Cir. 1996) (quoting Aetna Casualty & Sur. Co. v.
+Yeatts, 122 F.2d 350, 352-53 (4th Cir. 1941)). On an excessiveness
+challenge, we review a jury's determination of the amount of com-
+pensatory damages under the first two prongs of the Rule 59 standard:
+"`whether the jury's verdict is against the weight of the evidence or
+based on evidence which is false.'" Cline, 144 F.3d at 305 (quoting
+Atlas Food, 99 F.3d at 594).
+
+   Knussman sought damages solely for emotional distress that he
+claimed to have suffered because of Mullineaux's actions. He did not
+suffer any direct pecuniary harms such as loss of income. Compensa-
+tory damages for emotional injuries are recoverable under § 1983. See
+Memphis Cmty. Sch. Dist. v. Stachura, 477 U.S. 299, 307 (1986)
+("[C]ompensatory damages may include not only out-of-pocket loss
+and other monetary harms, but also such injuries as impairment of
+reputation . . ., personal humiliation, and mental anguish and suffer-
+ing." (internal quotation marks omitted) (ellipsis in original)); Carey
+v. Piphus, 435 U.S. 247, 263-64 (1978). Damages under § 1983 are
+intended to compensate for actual injuries caused by constitutional
+violations; therefore, a § 1983 plaintiff alleging emotional distress
+must demonstrate that the emotional duress resulted from the consti-
+tutional violation itself. See Carey, 435 U.S. at 263. The plaintiff must
+adduce sufficient evidence "that such distress did in fact occur and
+that its cause was the constitutional deprivation itself and cannot be
+attributable to other causes." Price v. City of Charlotte, North Caro-
+lina, 93 F.3d 1241, 1250 (4th Cir. 1996); see Hetzel v. County of
+Prince William, 89 F.3d 169, 171-72 (4th Cir. 1996) (concluding
+22  KNUSSMAN v. STATE OF MARYLAND
+
+compensatory damages award on a retaliation claim under § 1983 was
+excessive because "only a part of Hetzel's harms [were] properly
+attributed to appellants' retaliatory actions. Much, if not all, of Het-
+zel's claimed distress was actually caused by her erroneous belief
+that she was the victim of invidious discrimination, and of course,
+given the jury's findings for the defendants on all of Hetzel's claims
+of discrimination, Hetzel is entitled to no damages for any injuries
+which were caused by her belief that she was [discriminated against]"
+(emphasis in original)). A plaintiff seeking compensatory damages for
+emotional injuries cannot rely on "conclusory statements that the
+plaintiff suffered emotional distress [or] the mere fact that a constitu-
+tional violation occurred," but, rather, "the testimony must establish
+that the plaintiff suffered demonstrable emotional distress, which
+must be sufficiently articulated." Price, 93 F.3d at 1254.
+
+   In determining whether an award of damages for emotional distress
+for a constitutional deprivation is excessive, an appellate court may
+look to a number of factors: medical attention resulting from the emo-
+tional duress; psychiatric or psychological treatment; the degree of
+such mental distress; the factual context in which the emotional dis-
+tress developed; evidence corroborating the testimony of the plaintiff;
+the nexus between the conduct of the defendant and the emotional
+distress; mitigating circumstances, if any; physical injuries suffered as
+a result of emotional distress; and loss of income, if any. See id. A
+substantial award of compensatory damages like Knussman's "must
+be proportional to the actual injury incurred" and "must focus on the
+real injury sustained." Hetzel, 89 F.3d at 173 (internal quotation
+marks omitted).
+
+   Knussman presented sufficient evidence for the jury to conclude
+that the emotional distress and mental anxiety he experienced was a
+genuine injury resulting, at least to some extent, from Mullineaux's
+equal protection violation. Knussman testified that he was "particu-
+larly disgusted" with Mullineaux's comments that Knussman could
+not qualify for primary care giver status because he could not breast
+feed and that Kimberly Knussman would have to die or slip into a
+coma for him to become eligible. He indicated that in March 1995 --
+approximately one month before Knussman initiated this lawsuit --
+he began experiencing anxiety and losing sleep as a result of "the
+comments by Miss Mullineaux" as well as the commencement of the
+KNUSSMAN v. STATE OF MARYLAND  23
+
+internal grievance process. J.A. 196. According to Knussman, by the
+fall of 1996, his anxiety had begun to manifest itself as "chest pain"
+and "palpitations," and he decided to seek professional help. He was
+eventually prescribed medication to manage his symptoms of depres-
+sion. Moreover, Knussman presented medical evidence to corroborate
+his testimony that he was experiencing emotional distress. Dr. Susan
+Toler, a clinical psychologist who treated Knussman, testified that by
+1996, Knussman was frequently experiencing "panic attack[s]," J.A.
+548, which Dr. Toler attributed to Knussman's "dispute with his
+employer over leave." J.A. 550. Dr. Toler diagnosed Knussman with
+"major depressive disorder," J.A. 560, and occupation-related "adjust-
+ment disorder," J.A. 561. Dr. Lydia Wenz, a treating psychiatrist, con-
+curred in the diagnosis of major depressive disorder. Thus, Knussman
+was entitled to recover some amount of compensatory damages for
+emotional distress.
+
+   The nexus, however, between Mullineaux's unconstitutional con-
+duct and Knussman's emotional injuries is attenuated, and this is a
+factor for us to consider in assessing whether Knussman's award for
+emotional distress is excessive. See Price, 93 F.3d at 1254.10 Mul-
+lineaux abridged Knussman's constitutional rights by denying him the
+same opportunity to qualify for primary care giver status as would be
+afforded a mother. Mullineaux's role, however, was limited to the ini-
+tial denial of Knussman's request for primary care giver status under
+§ 7-508. Once the internal grievance process was underway, Mul-
+lineaux's involvement ceased.
+
+   Furthermore, the evidence linked a large portion of Knussman's
+emotional difficulties to the litigation of this action and, to some
+
+   10In reviewing whether the award is excessive, we consider factors that
+are neither new nor amorphous. Rather, our court listed these general
+factors in Price. See 93 F.3d at 1254. The strength of the nexus between
+the defendant's conduct and the emotional distress suffered is one of the
+factors to consider -- we have not created any new standard. Nor have
+we suggested that "uncontroverted medical testimony" is legally insuffi-
+cient to establish causation; indeed, if the evidence was not sufficient to
+establish causation, then the question would be whether Knussman is
+entitled to any damages at all. Here, we are only concerned with how
+much.
+24  KNUSSMAN v. STATE OF MARYLAND
+
+extent, the general MSP "grievance process" rather than Mullineaux's
+unconstitutional conduct. Dr. Toler explained that Knussman began
+experiencing physical symptoms related to anxiety as a result of the
+"tensions that were building between himself and his employer over
+. . . this request for child leave, and then that he had appealed the
+decision, and . . . there was a series of administrative procedures that
+he became involved with and around appeals or grievances or what-
+ever." J.A. 550. Dr. Toler opined that following the original leave
+denial, Knussman began feeling anxiety and stress that increased at
+every stage of the internal grievance procedure and the litigation pro-
+cess. The litigation of Knussman's claims "magnified the conflicts
+with the employer, and . . . directly impacted his sleep," J.A. 558, and
+intensified "the adversarial relationship that had evolved and devel-
+oped over the course of the years," J.A. 571. Dr. Toler acknowledged
+that Knussman's symptoms of anxiety "elevate[d] during periods of
+more activity in the litigation" and "dissipated during periods of low
+activity in the litigation." J.A. 588. According to Dr. Toler, Knuss-
+man's depressive symptoms -- his sleeplessness, inability to concen-
+trate and lack of zest for life -- were not alleviated when he was
+granted leave for the birth of his second child "because, by that time,
+the litigation was well under way and there were a lot of activities
+around the first grievance and complaint that continued to wear on
+him." J.A. 580. And, Dr. Toler's treatment plan included a recom-
+mendation that Knussman resolve the litigation. Dr. Wenz recom-
+mended a similar course.11
+
+   Indeed, any anxiety, stress or other unpleasantness that Knussman
+experienced as a by-product of litigation or the grievance process was
+not caused by "the constitutional deprivation itself." Price, 93 F.3d at
+1250. Such mental distress is "inherent in most litigation" and
+although "[i]t can be argued that [Knussman] should not have been
+placed in a position where [he] had to assert [his] rights, . . . the same
+can be said of the successful plaintiff in any case." School Dist. No.
+1, Multnomah County v. Nilsen, 534 P.2d 1135, 1146 (Or. 1975)
+
+   11Dr. Wenz's notes indicated that, in addition to psychotherapy and
+medication, she had "discussed with Mr. Knussman that as he is involved
+in legal transactions, that until these are resolved, symptoms may persist
+to some degree. I have encouraged him to discuss this with his legal
+counsel and pursue rapid resolution." J.A. 1203.
+KNUSSMAN v. STATE OF MARYLAND  25
+
+(emphasis added). Generally speaking, litigation-induced emotional
+distress is never a compensable element of damages. See, e.g., Stole-
+son v. United States, 708 F.2d 1217, 1223 (7th Cir. 1983) ("It would
+be strange if stress induced by litigation could be attributed in law to
+the tortfeasor. An alleged tortfeasor should have the right to defend
+himself in court without thereby multiplying his damages . . . .");
+Blakey v. Continental Airlines, Inc., 992 F. Supp. 731, 736 n.3 (D.N.J.
+1998); Picogna v. Board of Educ., 671 A.2d 1035, 1038-39 (N.J.
+1996) (collecting cases).
+
+   Clearly, Knussman's anxiety and emotional distress in large mea-
+sure were associated with the litigation of this action or the general
+grievance process as opposed to the specific constitutional violation
+at issue. Apart from this litigation-related stress, Knussman's evi-
+dence of emotional distress is insufficient to support an award of
+$375,000. Although Knussman unquestionably suffered real emo-
+tional problems, it is clear that much of his genuine emotional distress
+resulted from or was exacerbated by the litigation process. We con-
+clude the award of $375,000 is not proportional to the emotional dis-
+tress caused by the constitutional violation, as opposed to the
+litigation of Knussman's claims, and is clearly against the weight of
+the evidence. Because it is not possible to determine what portion of
+the verdict was intended to compensate Knussman for the emotional
+damages attendant only to the litigation process, a new trial on dam-
+ages is more appropriate than a new trial nisi remittitur. See Cline,
+144 F.3d at 305 ("[W]e have the option of ordering a new trial nisi
+remittitur.").12
+
+   12In light of our conclusion that the jury's verdict was excessive, we
+need not address Mullineaux's argument that the general verdict ren-
+dered by the jury had to be vacated because there was no way to deter-
+mine what portion of the $375,000 was intended to compensate
+Knussman on his FMLA claim under Count II, which was subsequently
+vacated by the district court. Given that Knussman has not appealed the
+district court's post-trial rulings, the FMLA claim will not be part of the
+remand proceedings. Thus, any issue involving the effect of the FMLA
+claims is moot.
+26  KNUSSMAN v. STATE OF MARYLAND
+
+    IV.
+
+   In sum, we hold that Mullineaux was not entitled to qualified
+immunity against Knussman's equal protection claim under § 1983
+and affirm the judgment as to liability, but we conclude that the jury's
+award of $375,000 was excessive. Accordingly, we vacate the jury's
+award and remand for a new trial on damages with respect to Knuss-
+man's equal protection claim (Count I). Knussman is entitled to be
+compensated for emotional distress caused by Mullineaux's constitu-
+tional violation but not for any emotional distress associated with the
+litigation of this action or his employer's general internal grievance
+process.13
+
+    AFFIRMED IN PART, VACATED IN PART,
+                                    AND REMANDED
+
+LEE, District Judge, concurring in part and dissenting in part:
+
+   Two issues are before the Court. First, whether a reasonable per-
+sonnel official in Mullineaux's position and with her experience
+would have known in 1994 that it was unlawful to apply a gender
+neutral child nurturing leave law in a discriminatory manner by bas-
+ing a decision with respect to employment benefits on gender stereo-
+types. Second, whether the trial court abused its discretion in finding
+that the clear weight of the evidence supported the jury's verdict of
+
+   13Mullineaux also argues that the district court erred in refusing to
+instruct the jury under Price v. City of Charlotte that before the jury was
+permitted to award emotional distress damages for Mullineaux's denial
+of leave under § 7-508(a), it was required to find specifically that Knuss-
+man was entitled to such leave in the first place. See Price, 93 F.3d at
+1256. We address this argument to keep it from becoming an issue on
+remand. Assuming the district court erred in failing to instruct the jury
+under Price (and Mullineaux has not provided the specific instruction
+that she believes was required), any error was harmless. The evidence at
+trial was that Knussman, in fact, performed most if not all of the tradi-
+tional care functions for his infant daughter and that his wife was home
+on leave following the delivery as a result of her own disability. Mul-
+lineaux has failed to direct us to any substantial evidence to the contrary.
+Accordingly, the jury could only have concluded that Knussman was
+entitled to leave under § 7-508(a) as a primary care giver.
+KNUSSMAN v. STATE OF MARYLAND  27
+
+$375,000 for Trooper Knussman's emotional distress and time lost
+with his newborn daughter.
+
+   The Majority concludes that Mullineaux was not entitled to quali-
+fied immunity on the grounds that her interpretation of the state pol-
+icy on nurturing leave was a by-product of gender stereotypes about
+a woman's role in child rearing. I agree with the Majority's conclu-
+sion that Mullineaux is not entitled to qualified immunity; however,
+I write separately to stress the fact that Mullineaux is not entitled to
+qualified immunity because she engaged in the discriminatory appli-
+cation of a gender neutral statute. The Majority concludes further that
+the district court abused its discretion in upholding the $375,000 jury
+verdict because the Majority's review of the record revealed that the
+nexus between the constitutional injury and the evidence presented on
+damages was "attenuated at best." I dissent from this portion of the
+Majority's Opinion because in reaching its conclusion the Majority
+creates a new standard of review for causation and a jury award that
+is amorphous and impossible to maintain. The district court did not
+abuse its discretion in finding that the weight of the evidence submit-
+ted supported the $375,000 verdict. Accordingly, I would affirm the
+district court's decision in its entirety.
+
+I.
+
+   Mullineaux is not entitled to qualified immunity because a reason-
+able personnel official in Mullineaux's position, and with her experi-
+ence, would have known in 1994 that the law is clearly established
+that it is unlawful to administer a gender neutral leave law in a dis-
+criminatory manner and to base her decision with respect to employ-
+ment benefits on an employee's gender. Appellate review of a trial
+court's decision that a party is not entitled to qualified immunity is
+a matter of law and is subject to de novo review. See, e.g., Winfield
+v. Bass, 106 F.3d 525, 529 (4th Cir. 1997). As the Majority clearly
+states, the Supreme Court formulated a two-prong test to determine
+whether qualified immunity shields a public official from civil liabil-
+ity. See Harlow v. Fitzgerald, 457 U.S. 800, 818-19 (1982). Under the
+first prong, the court must identify the constitutional right at issue and
+determine whether that right was clearly established at the time of the
+alleged infringement. See Wilson v. Layne, 526 U.S. 603, 609 (1999);
+Anderson v. Creighton, 483 U.S. 635, 639 (1987). Under the second
+28  KNUSSMAN v. STATE OF MARYLAND
+
+prong, the court must determine whether a reasonable officer would
+have known he violated such right. See Wilson, 526 U.S. at 614-15.
+
+    A.
+
+   The Majority states that the constitutional right at issue is whether
+the law was clearly established that the equal protection clause pro-
+hibited a state agency from permitting only mothers, never fathers, to
+take child-nurturing leave benefits available to the primary care giver
+for a newborn. However, framing the issue in such a manner mini-
+mizes and mischaracterizes the nature of the unconstitutional actions
+at issue. Knussman approached Mullineaux, in her capacity as the
+Manager of Medical Leave Benefits, to inquire about Maryland's
+newly promulgated leave law that allowed primary care givers of
+newborn or adopted children to use accrued sick leave, without certi-
+fication of illness or disability. The law allowed up to 30 days leave
+for primary care givers, and ten days leave for secondary care givers.
+See MD. CODE ANN., STATE PERS. & PENS. § 7-508 (1994). The
+leave statute did not condition the receipt of benefits on the basis of
+gender. The statute is gender neutral in text, and provides in pertinent
+part:
+
+    (a) Primary care givers. -- With the approval of the head
+    of the employee's principal department or other independent
+    unit, an employee who is primarily responsible for the care
+    and nurturing of a child may use, without certification of ill-
+    ness or disability, up to 30 days of accrued sick leave to care
+    for the child during the period immediately following:
+
+    (1) the birth of the employee's child; or
+
+    (2) the placement of the child with the employee
+    for adoption.
+
+    (b) Secondary care givers. -- With the approval of the head
+    of the employee's principal department or other independent
+    unit, an employee who is secondarily responsible for the
+    care and nurturing of a child may use, without certification
+    of illness or disability, up to 10 days of accrued sick leave
+KNUSSMAN v. STATE OF MARYLAND                                29
+
+to care for the child during the period immediately follow-
+ing:
+
+(1) the birth of the employee's child; or
+
+(2) the placement of the child with the employee
+for adoption.
+
+Id. The statute makes no reference to a distinction on the basis of gen-
+der. Nonetheless, in response to Knussman's request, Mullineaux told
+Knussman that he could not qualify as the primary care giver under
+the statute because he was a man. Based on these facts, it is impera-
+tive that any inquiries into the constitutional violation at issue focus
+on the liberties that Mullineaux took in her capacity as Manager of
+Medical Leave Benefits.
+
+   The Majority misplaces its focus on comparing Mullineaux's deci-
+sion to that of legislators and agencies in order to determine the con-
+stitutionality of Mullineaux's decision. The Majority concludes that
+Mullineaux's decision is unconstitutional because she based her deci-
+sion on stereotypical notions of male/female roles in society. It is true
+that when analyzing a legislative or state enactment on the basis of
+gender that the gender classification cannot be based on stereotypical
+notions, and must be substantially related to the achievement of an
+important government interest. However, this is not a situation where
+the state government or agency arrived at a calculated or reasoned
+decision to create a gender based statutory distinction to advance an
+important government interest. Cf. Heckler v. Matthews, 465 U.S.
+728, 744, 751 (1984) (upholding limited gender based spousal benefit
+statute in order to protect a retiree's reliance on prior provisions
+struck down as gender based provisions); Michael M. v. Superior
+Court of Sonoma County, 450 U.S. 464, 469-71 (1981) (upholding
+sex-based statutory rape law, which furthered an important govern-
+ment interest of preventing pregnancy); Rostker v. Goldberg, 453
+U.S. 57, 78-79 (1981) (upholding legislative exclusion of women
+from draft because men and women are not similarly situated for
+combat). Mullineaux created her own classification that primary care
+giver equals a woman. By comparing Mullineaux's actions to promul-
+gated laws that make gender distinctions, the Majority mischaracter-
+30  KNUSSMAN v. STATE OF MARYLAND
+
+izes the gravity of Mullineaux's actions. Mullineaux engaged in the
+discriminatory application of Maryland's gender neutral leave statute.
+
+   The constitutional right at issue is defined in the plain text of the
+statute. Knussman had a right not to be discriminated against on the
+basis of his gender. This inquiry does not require consideration of
+whether the legislature drew a permissible distinction in law based on
+gender. The statute is completely devoid of gender classification. Sig-
+nificantly, the nurturing leave statute applies to adoption as well as
+the birth of a child; therefore, no biological gender classification is
+implied or inherent in the process of determining whether the leave
+applicant is a "primary care giver" or a "secondary care giver." In
+1994, Knussman sought leave as a primary care giver pursuant to the
+nurturing leave statute, which provided 30 days leave for primary care
+givers and ten days leave for secondary care givers for parents of
+newborns and newly adopted children. Cloaked with the authority as
+the Manager of Medical Leave Benefits for the Maryland State
+Department of Police, Mullineaux took it upon herself to interpret this
+gender neutral statute in a gender specific manner. Mullineaux cate-
+gorically denied Knussman's request for leave to care for his newborn
+daughter as a primary care giver because Knussman was a man.
+Knussman brought suit against Mullineaux, and others, for categori-
+cally denying him leave as a primary care giver because of his gender
+in violation of the Equal Protection Clause of the Fourteenth Amend-
+ment. Therefore, for the purpose of analyzing Knussman's claim, this
+Court must look at a person's right not to have a gender neutral stat-
+ute applied in a discriminatory manner and determine if such right
+was clearly established at the time of Mullineaux's actions in 1994.
+
+   In 1994, it was clearly established that a person should not be dis-
+criminated against on the basis of his gender by having a gender neu-
+tral statute applied to him in a discriminatory manner. In order for an
+identified right to be clearly established, the "`contours of the right'
+must be drawn in such a way as to provide notice to a reasonable per-
+son in the official's position that his conduct violated the identified
+right." Amaechi v. West, 237 F.3d 356, 363 (4th Cir. 2001). By 1994,
+the Supreme Court conclusively drew the contours of the right to be
+free from gender discrimination in employment decisions, which are
+not substantially related to an important government interest. See
+David v. Passman, 442 U.S. 228, 234-35 (1979) (holding it violates
+KNUSSMAN v. STATE OF MARYLAND  31
+
+the Fifth Amendment due process clause to fire a person because she
+is a woman); Caban v. Mohammed, 441 U.S. 380, 394 (1979) (hold-
+ing that sex-based distinctions between unmarried mothers and
+unmarried fathers, in a domestic relations law provision, are unconsti-
+tutional because it bears no substantial relation to any important state
+interest); Califano v. Goldfarb, 430 U.S. 199, 206-7 (1977) (holding
+that a gender based distinction between widows and widowers vio-
+lates the due process and equal protection clauses because they are
+based on archaic and over-broad generalizations); Craig v. Boren, 429
+U.S. 190, 197 (1976) (noting that the archaic and over-broad general-
+izations of women could not justify use of gender distinctions). In
+addition by 1994, the Supreme Court conclusively drew the contours
+of the right to be free from having a neutral statute applied in a dis-
+criminatory manner. See Snowden v. Hughes, 321 U.S. 1, 8 (1943)
+(holding that the unlawful administration of a statute fair on its face,
+resulting in its unequal application, is a denial of equal protection if
+it is shown to be intentional or purposeful discrimination present);
+Yick Wo v. Hopkins, 118 U.S. 356, 373-74 (1886) (holding that it is
+unconstitutional to administer a law that is fair on its face in an
+unequal manner). The established Fourteenth Amendment jurispru-
+dence in 1994 protected Knussman's right to receive nurturing leave
+benefits under a gender neutral leave statute without his gender effect-
+ing or impeding such decision. Therefore, the right at issue was
+clearly established because the contours of the right to be free from
+discriminatory behavior afforded Mullineaux adequate notice that her
+interpretation of a gender neutral leave statute, which resulted in the
+gender based denial of a benefit, violated the Fourteenth Amendment.
+
+B.
+
+   A reasonable person in Mullineaux's position would have known
+that her conduct violated a person's right not to have nurturing leave
+benefits administered in a discriminatory manner. Mullineaux was the
+Manager of Medical Leave Benefits. She worked previously at the
+Maryland State Department of Personnel, and had approximately 15
+years of experience in state employment and administrative policy
+matters at the time of the incident. J.A. 670, 1058. In 1994, a person
+in Mullineaux's position and with her experience should have known
+that Maryland law prohibited her from drawing a distinction on the
+basis of gender when administering leave benefits to parents caring
+32  KNUSSMAN v. STATE OF MARYLAND
+
+for their children. Maryland law has made it clear that gender is not
+a permissible factor in determining the legal rights of a woman or
+man. See Burning Tree Club, Inc. v. Bainum, 501 A.2d 817, 822 (Md.
+1985); Condore v. Prince George's Co., 425 A.2d 1011, 1015 (Md.
+1981). Therefore, the treatment of any person by the law may not be
+based on the mere circumstances that such person is of one gender or
+the other. See Burning Tree Club, Inc., 501 A.2d at 822. Maryland's
+Equal Protection Act flatly prohibits gender-based classifications
+absent substantial justification, whether contained in legal enact-
+ments, government policies, or by application of common law rules.
+See State v. Burning Tree Club, Inc., 554 A.2d 366, 387 (Md. 1989);
+Rand v. Rand, 374 A.2d 900, 903 (Md. 1977). Maryland reinforced
+its mandate of parental equality in 1978 when it unequivocally abol-
+ished the maternal preference in child custody cases. See McAndrew
+v. McAndrew, 382 A.2d 1081, 1086 (Md. 1978). The highest court in
+Maryland has clearly stated that a parent is no longer presumed to be
+clothed with, or to lack, a particular attribute merely because that par-
+ent is a male or female. See id. Despite this unequivocal mandate,
+which Mullineaux should have been aware of given her experience
+and position, Mullineaux discriminated against Knussman by assum-
+ing that he, as a man, could not have been the primary care giver for
+his child.
+
+   Moreover, a reasonable leave benefits manager would have known
+to pursue the proper channels at work to determine the parameters of
+the newly enacted statute. Mullineaux knew that Director of Legisla-
+tive and Policy Services, John Irick, had the authority to make policy
+rulings for the Maryland State Department of Police. J.A. 711. Irick
+knew that the gender-based denial of Knussman's nurturing leave
+request was discriminatory and illegal. J.A. 423, 425, 429. A reason-
+able leave benefits manager would have known to confirm the stat-
+ute's requirements with Irick, prior to giving false information. If
+promptly asked, Mullineaux could have discovered early on what she
+should have known: that confining the primary care giver category to
+women was discriminatory and unconstitutional. Ultimately, a reason-
+able leave benefits manager should have recognized that she was
+applying a gender neutral leave statute in a discriminatory manner by
+making only men prove they were primary care givers to newborn or
+adopted children. A reasonable person in Mullineaux's position
+would have known that they were violating Knussman's right to be
+KNUSSMAN v. STATE OF MARYLAND  33
+
+free from discrimination on the basis of gender. Therefore, I concur
+with the Majority's conclusion that Mullineaux is not entitled to qual-
+ified immunity.
+
+II.
+
+   The district court did not abuse its discretion in finding that the
+weight of the evidence submitted supported the jury verdict of
+$375,000 to Knussman. On a Rule 59 motion for a new trial address-
+ing compensatory damages, the trial court must weigh the evidence
+and consider the credibility of the witnesses to determine whether the
+verdict was against the clear weight of the evidence or was based
+upon evidence that was false. See Atlas Food Sys. v. Crane Nat'l Ven-
+dors, Inc., 99 F.3d 587, 594 (4th Cir. 1996). If the trial court weighs
+the evidence and determines that it is deficient to sustain a verdict,
+then the trial court can set aside the verdict and grant a new trial. See
+id. It is this decision that this Court must review. In reviewing a trial
+court's decision to uphold a jury verdict, this Court must determine
+whether the trial court abused its discretion when it ruled that the ver-
+dict was not against the clear weight of the evidence and was not
+based upon false evidence. See Cline v. Wal-Mart Stores, Inc., 144
+F.3d 294, 301 (4th Cir. 1998). Accordingly, the issue before this
+Court is whether the district court abused its discretion in finding that
+the $375,000 award was not against the clear weight of the evidence
+and was not based upon evidence that was false. Appellate review of
+the evidence demonstrates that as a result of the violation Knussman
+has suffered emotional distress and has lost priceless time with his
+child; therefore, the constitutional violation supports the $375,000
+award.
+
+A.
+
+   The trial court did not abuse its discretion in finding that the weight
+of the evidence submitted in support of Knussman's claims of emo-
+tional distress supports the verdict. Distress is a component of per-
+sonal injury that is customarily proved by showing the nature and
+circumstances of the wrong and its effect on the plaintiff. See Carey
+v. Piphus, 435 U.S. 247, 263-64 (1978). When analyzing a claim for
+emotional distress premised upon a constitutional violation, a court
+should consider: (1) the degree of emotional distress, (2) the context
+34  KNUSSMAN v. STATE OF MARYLAND
+
+of the events surrounding the emotional distress, (3) the evidence
+tending to corroborate the plaintiff's testimony, (4) the nexus between
+the challenged conduct and the emotional distress, (5) any mitigating
+circumstances, and (6) medical attention and/or psychological or psy-
+chiatric treatment that the plaintiff received as a result of the emo-
+tional distress. See Price v. City of Charlotte, 93 F.3d 1241, 1254 (4th
+Cir. 1996). The uncontroverted evidence of three doctors, Knuss-
+man's family, and Knussman himself were sufficient for a jury and
+a trial court to find that the evidence presented to demonstrate Knuss-
+man's emotional distress supported the verdict.
+
+   First, the record supports Knussman's contention that he suffered
+a severe degree of emotional distress. Knussman testified that after
+being denied leave he experienced chest pains and palpitations,
+depression, loss of enjoyment of activities, loss of sleep, and nausea.
+J.A. 196, 204-206. In addition, Knussman's wife testified that Knuss-
+man had trouble sleeping and was very withdrawn and depressed. J.A.
+525, 529. The severity of Knussman's distress is best exemplified by
+Psychologist Susan Toler's diagnosis of Knussman as having Adjust-
+ment Disorder and Major Depressive Disorder. J.A. 560. For exam-
+ple, Dr. Toler described Major Depressive Disorder as a person losing
+their sense of vitality, their sense of self, their confidence in their own
+ability to respond to problems, and their ability to enjoy normal or
+every day ordinary joys. J.A. 560. The Defendants presented no evi-
+dence, or contradicting expert testimony that would undermine Dr.
+Toler's diagnosis. Accordingly, the weight of this evidence supports
+a finding that the severity of Knussman's distress was substantial.
+
+   Second, the events surrounding the emotional distress were signifi-
+cant because the constitutional violation concerned the birth of
+Knussman's first child, and the severe illness endured by his wife in
+connection with the birth of their child. During her pregnancy, Mrs.
+Knussman was diagnosed as having preeclampsia. J.A. 280, 545. This
+condition extended beyond the birth of their child. If not controlled
+properly, preeclampsia can cause a triad of swelling, high blood pres-
+sure, and protein in the urine. J.A. 280. This process can progress to
+a point of causing kidney failure, liver failure, or may even become
+fatal. See id. Preeclampsia crippled Mrs. Knussman's ability to func-
+tion, and to care for her newborn child. Notwithstanding these cir-
+cumstances, Defendants unconstitutionally denied Knussman
+KNUSSMAN v. STATE OF MARYLAND  35
+
+extended nurturing leave benefits, and prohibited him from helping
+his wife to care for their newborn child. Such circumstances sur-
+rounding the denial of benefits to Knussman contributed to the signif-
+icance and gravity of the constitutional violation.
+
+   Third, the record is replete with evidence corroborating Knuss-
+man's testimony that he suffered distress. Dr. Toler's testimony cor-
+roborates the severity of Knussman's emotional distress. On eleven
+different occasions during a one year span, Knussman visited Dr.
+Toler for treatment of his emotional distress. J.A. 533-34. Dr. Toler
+corroborated Knussman's testimony in that she reported that Knuss-
+man had symptoms of sadness, anxiety, worry, rumination, depres-
+sion, restlessness, poor concentration, poor self-esteem, paranoia, and
+anger. J.A. 547-48, 551, 557. Dr. Toler also acknowledged that
+Knussman suffered many physical symptoms such as panic attacks,
+chest pains, racing heartbeat, significant sleep loss, and loss of appe-
+tite. J.A. 549-50. In addition, Psychiatrist Lidia Wenz's report further
+acknowledged that Knussman manifested symptoms of periodic panic
+attacks of varying severity, hyper vigilance avoidance, and a numbing
+of emotions. J.A. 1202. Moreover, Knussman's treating physician,
+Dr. Michael Crowley, provided testimony supporting the contention
+that Knussman exhibited some of these signs of stress.1 J.A. 316.
+Three different doctors corroborated Knussman's accounts of distress.
+Therefore, sufficient credible evidence exists to corroborate Knuss-
+man's accounts of emotional distress.
+
+Fourth, the nexus between the challenged conduct and the emo-
+
+   1This is not a situation where the plaintiff failed to produce evidence
+demonstrating that he suffered an injury. See, e.g., Carey v. Piphus, 435
+U.S. 247, 263-64 (1978) (holding that a constitutional violation in and of
+itself is only entitled to nominal damages absent proof of actual injury
+in a § 1983 suit); Price v. City of Charlotte, 93 F.3d 1241, 1245 (4th Cir.
+1996) (reversing compensatory damages award in § 1983 suit and award-
+ing nominal damages where plaintiffs' emotional distress consisted
+exclusively of their own conclusory statements); Hetzel v. County of
+Prince William, 89 F.3d 169, 171 (4th Cir. 1996) (reversing and remand-
+ing excessive compensatory damages award in § 1983 and Title VII suit
+where plaintiff presented no evidence to corroborate the existence of her
+specific harms).
+36  KNUSSMAN v. STATE OF MARYLAND
+
+tional distress is substantial. The challenged conduct at issue is
+embodied in the jury's verdict that the State of Maryland, Colonel
+David B. Mitchell, Captain David Czorapinski, First Sergeant Ronnie
+P. Creel, and Jill D. Mullineaux discriminated against Knussman by
+denying him leave benefits on the basis of his gender. J.A. 1211. The
+challenged conduct is the constitutional injury of gender discrimina-
+tion. Knussman was discriminated against on the basis of his gender
+when Defendants acted in concert to deny Knussman extended leave
+benefits. The evidence supports the jury's conclusion that these
+actions are inextricably linked to the emotional distress experienced
+by Knussman. The jury heard the testimony of Dr. Toler who con-
+nected the emotional distress experienced by Knussman to the overall
+denial of leave. J.A. 558. Specifically, Knussman's attorney asked Dr.
+Toler, "Is it your expert opinion that those physical symptoms that
+[Knussman] was experiencing in 1995 were directly related to the dis-
+pute with his employer over leave?" J.A. 550. Dr. Toler responded,
+"It is my opinion that they are related, [and] that seemed to be the
+stressor that precipitated an evolution of these symptoms." Id. Dr.
+Toler concluded further that in her professional judgment if Knuss-
+man had been granted leave, then these symptoms that he presented
+would not have existed. J.A. 579, 560. Therefore, the evidence sub-
+stantially supported the nexus between Knussman's emotional dis-
+tress and the denial of leave.2
+
+   Fifth, the evidence shows that Knussman received medical atten-
+tion, psychological treatment, and psychiatric treatment as a result of
+the emotional distress. As noted above, the evidence submitted
+showed that Knussman received lengthy psychological treatment
+from Psychologist Dr. Toler for his emotional distress. In addition,
+Knussman sought the assistance of Psychiatrist Dr. Wenz who found
+it necessary to place Knussman on medication to control his symp-
+toms of depression. Dr. Wenz placed Knussman on Prozac in an
+attempt to help increase the levels of serotonin in Knussman's body,
+which in turn would enhance Knussman's ability to use his body's
+natural antidepressants. J.A. 569. Therefore, the medical attention and
+
+   2The Majority holds that the clear weight of the evidence does not sup-
+port a causal connection between Knussman's emotional distress and the
+constitutional injury. However, as discussed infra Part II.C, the Majori-
+ty's premise for this conclusion is erroneous.
+KNUSSMAN v. STATE OF MARYLAND  37
+
+treatment Knussman received was significant to support the jury's
+verdict for damages.
+
+   Ultimately, the weight of the evidence supports the relevant factors
+to be considered in analyzing an emotional distress claim. Therefore,
+the district court did not abuse its discretion in upholding the jury's
+$375,000 damages award.
+
+B.
+
+   Even though emotional damages may be sufficient, in and of them-
+selves, to sustain the jury verdict, emotional distress damages were
+not the only damages requested and awarded in this action. The dis-
+trict court instructed the jury that it could fairly compensate Knuss-
+man for any injury caused by the constitutional violation. J.A. 1097-
+99. This includes the time Knussman lost with his newborn daughter.
+The Maryland statute at issue recognized the importance of a parent
+and child bonding in the initial days of a newly born, or newly
+adopted, child. See MD. CODE ANN. § 7-508. The statute implicitly
+acknowledged the importance of the primary care giver to have up to
+30 days leave from work to care for their child. See id. By limiting
+him to the ten day secondary care giver leave status, Mullineaux
+denied Knussman his right to care for his child during her initial days
+on this earth. The jury was in an appropriate position to determine
+that Knussman suffered quantifiable damages due to Mullineaux
+denying him the additional 20 days with his child. See generally Con-
+ner v. Schrader-Bridgeport Internat'l, Inc., 227 F.3d 179, 201 (4th
+Cir. 2000) (holding that the district court erred in its determination
+that irrelevant and prejudicial evidence affected the jury's verdict). It
+is possible that the jury quantified this pecuniary interest to help con-
+tribute to the calculation of the $375,000 award. Accordingly, such a
+determination further buttresses the district court's discretion to
+uphold the validity of the jury verdict.
+
+C.
+
+   The Majority sets aside the jury's $375,000 verdict and remands
+the case for a trial on damages because it views the nexus between
+Mullineaux's actions and the emotional distress experienced by
+Knussman as "attenuated at best." The Majority reaches this decision
+38  KNUSSMAN v. STATE OF MARYLAND
+
+based on its view that Knussman's emotional distress was the result
+of this litigation, not the constitutional injury. This approach is flawed
+for three reasons. First, the Majority minimizes the constitutional
+injury at issue by describing the injury as Mullineaux's "slanderous
+words."3 Second, the Majority utilizes an amorphous standard, which
+calls for a jury to explain its particular rationale for its proximate
+cause finding. Third, the Majority implies that the jury mistakenly
+included litigation related distress within its calculation of damages
+yet the Majority does not reference any erroneous jury instruction
+given by the district court which would lead the jury to incorporate
+litigation related stress4 into damages. As seen below, the Majority's
+approach does not support the conclusion that the district court abused
+its discretion in upholding the jury's verdict.
+
+    1.
+
+   The Majority minimizes the constitutional violation at issue. The
+Majority contends that the constitutional violation was Mullineaux
+denying Knussman the same opportunity to qualify for primary care
+giver status as would be afforded to a mother. By limiting the consti-
+tutional violation to Mullineaux's sole actions, the Majority mini-
+mizes the injury thus enabling it to conclude that the verdict was
+excessive in light of the evidence. The constitutional violation was
+gender discrimination. The jury returned a verdict that stated that
+David Mitchell, David Czorapinski, Ronnie Creel, Jill Mullineaux,
+and the State of Maryland all denied Knussman leave under Maryland
+law because of his gender. J.A. 1211. Therefore, the actions of all of
+the Defendants, not just Mullineaux, compromised the constitutional
+violation.
+
+   The record demonstrates that Jill Mullineaux's actions were egre-
+gious by themselves. In response to Knussman's inquiries, Mul-
+lineaux, as the Manager of Medical Leave and Benefits, performed a
+
+   3Mullineaux told Knussman "Unless your wife is in a coma or dead,
+you can't be primary care provider." J.A. 1154, 202-04, 232.
+
+   4Defendants raised the issue of non-compensable litigation related
+stress in its cross-examination of Dr. Toler, J.A. 588, two questions in
+cross-examination of Dr. Crowley, J.A. 319-320, and several questions
+to Plaintiff, J.A. 259-263.
+KNUSSMAN v. STATE OF MARYLAND  39
+
+cursory inquiry into the meaning of the statute, then she erroneously
+informed Knussman that he was only entitled to secondary care giver
+status. Subsequently, when Knussman asked a second time if he could
+receive extended leave as the primary care giver, Mullineaux commu-
+nicated that the only way that Knussman could qualify for primary
+care giver status was for his wife to be dead or in a coma.
+
+   Similarly, Captain David Czorapinski, participated in the discrimi-
+nation against Knussman because he initially misinformed Knuss-
+man's supervisor that the primary care giver was presumed to be the
+mother. Czorapinski subsequently realized that he was misinformed
+about the presumption of primary care givers being a mother. None-
+theless, during the grievance procedure Czorapinski maintained this
+erroneous bias. This is evident in Czorapinski's statement that "All
+indicators show that Mrs. Knussman was capable of providing for the
+care and nurturing of their child . . . there was nothing offered to indi-
+cate that she was unwilling or otherwise unable to provide care for the
+child." J.A. 1209. In a less egregious manner, Czorapinski continued
+to apply the same unconstitutional presumption as Mullineaux: unless
+Knussman could show that his wife was incapable of taking care of
+his daughter, Knussman could not be considered the primary care
+giver under the statute. The jury also found David Mitchell and Ron-
+nie Creel's actions resulted in a constitutional violation. The evidence
+submitted showed that both Mitchell and Creel were privy to all of
+the information, knew of Czorapinski and Mullineaux's actions, yet
+failed to act. J.A. 1118, 1132. Therefore, the constitutional violation
+encompassed (1) Mullineaux and Czorapinski's initial joint decision
+to only allow Knussman two weeks nurturing leave, (2) Mullineaux,
+Creel, and Czorapinski's subsequent denial of Knussman's request to
+have his two week nurturing leave extended, (3) Mullineaux's
+remarks that Knussman's wife had to be dead or in a coma before he
+could qualify for more leave, (4) Czorapinski's continued application
+of the unconstitutional gender presumption during the grievance pro-
+cedure, and (5) Creel and Mitchell's ambivalence and inaction to
+Knussman even though they were aware of the gender presumption
+being applied against Knussman. The jury found Knussman was enti-
+tled to $375,000 in damages as a result of a series of actions by all
+of the Defendants. J.A. 1211-13. The damages were not limited to
+Mullineaux's actions. Therefore, the weight of the evidence supports
+40  KNUSSMAN v. STATE OF MARYLAND
+
+the finding that the constitutional injury could have resulted in the
+damages sustained.
+
+    2.
+
+   The Majority Opinion creates an amorphous new standard of
+review for an excessive jury verdict claim, which calls for an appel-
+late court to determine the proportional component of a jury verdict.
+The Majority remands this case for a trial on damages because it
+claims it was not possible to determine what proportion of the verdict
+was intended to compensate Knussman for emotional damages. The
+Majority looks to the precedent of Carey, Hetzel, and Price to support
+its conclusion that the constitutional violation did not cause emotional
+distress warranting $375,000 in damages. See Carey, 435 U.S. 247;
+Hetzel v. County of Prince William, 89 F.3d 169, 171 (4th Cir. 1996);
+Price, 93 F.3d 1241.
+
+   However, in contrast to Knussman's situation, the Carey, Hetzel,
+and Price decisions focus on cases where the plaintiff failed to show
+emotional damages. In Carey, several suspended students brought
+procedural due process claims against a school district. See Carey,
+435 U.S. at 263-64. The plaintiffs put no evidence in the record to
+show what damages, if any, they sustained as a result of the constitu-
+tional injury. The record was completely devoid of any evidence that
+could form the basis for measuring the extent of their injuries. Ulti-
+mately, the Carey Court held that absent proof of actual injury from
+the constitutional violation, the students were entitled to recover only
+nominal damages. See id. at 264. Similarly, in Hetzel, this Court
+found that the record was devoid of evidence to show that the plaintiff
+suffered an actual constitutional injury. See Hetzel, 89 F.3d at 172. In
+Hetzel, a Hispanic female police officer brought suit against the
+county and police chief alleging harassment and discrimination on the
+basis of sex and national origin. Hetzel's evidence concerning the
+emotional distress consisted almost exclusively of "Hetzel's own
+brief, conclusory statements -- compromising less then ten pages of
+a joint appendix exceeding 5,000 pages -- that she had headaches,
+stress, trouble reading to her daughter, and problems with her family
+life as a result of appellants' actions." Id. at 171. She presented no
+evidence corroborating specific harm, she continued to perform her
+duties without a noticeable diminution in performance, and she never
+KNUSSMAN v. STATE OF MARYLAND  41
+
+saw a doctor, therapist, or other professional. The Court held that the
+$500,000 award was grossly excessive in light of the limited evidence
+of harm presented at trial. See id. (holding that the award must be pro-
+portional to the actual injury incurred and must focus on the real
+injury sustained). In addition, in Price, this Court reversed the plain-
+tiff's award of compensatory damages due to the insufficiency of the
+evidence. See Price, 93 F.3d at 1250. Several White police officers
+sued the city contending that its race-based promotion policy for
+police sergeants violated the equal protection clause. At trial, plain-
+tiffs proffered only vague, conclusory testimony concerning their
+injury. In sum, the police officers said that they suffered feelings of
+betrayal and humiliation. See id. at 1254. This Court held that the
+police officers' testimony simply failed to show any demonstrable
+emotional injury. See id. at 1254-55. Accordingly, the Court reversed
+the $3,000 compensatory award damages and awarded $1 in nominal
+damages. Ultimately, the issues focused upon in Carey, Hetzel, and
+Price are distinguishable from the case at hand. As demonstrated
+above, Knussman presented overwhelming and uncontroverted medi-
+cal and non-medical evidence demonstrating that he suffered emo-
+tional distress.
+
+   The jury was capable of determining that the constitutional viola-
+tion caused Knussman's injuries. It is well settled that causation is
+ordinarily left for a jury to determine. See Exxon Co., USA v. Sofec
+Inc., 517 U.S. 830, 840-41 (1996) (holding that the issue of proximate
+causation involves application of law to fact, which should be left to
+the fact finder, subject to limited review); Conner, 227 F.3d at 201
+(holding that the district court erred by overturning the jury's verdict
+based on its determination that irrelevant and prejudicial evidence
+affected the verdict); Aravanis v. Elsenberg, 206 A.2d 148, 158 (Md.
+1965) (holding that violations and proximate cause of injury were
+questions of fact properly left for the jury's determination). Dr. Toler
+specifically and repeatedly connected the emotional distress experi-
+enced by Knussman to the overall denial of leave. J.A. 550-58. After
+weighing the testimony of the witnesses, and examining the evidence,
+the jury concluded that Knussman was entitled to compensatory dam-
+ages in the amount of $375,000. Medical and eyewitness testimony
+within the record supports the jury finding that Knussman's injury
+resulted from the constitutional violation. No reason exists to doubt
+42  KNUSSMAN v. STATE OF MARYLAND
+
+the jury's determination and quantification of compensation for
+Knussman.
+
+   The Majority is not satisfied with the jury's determination that the
+constitutional violation caused the injury, even though the Majority
+acknowledges that Knussman produced sufficient evidence of actual
+injury. The Majority seeks some proportional or mathematical for-
+mula for the determination of compensatory damages. The Majority
+describes the connection between the constitutional injury and the
+emotional distress as "attenuated at best." Attenuated means weak or
+thin. See RANDOM HOUSE DICTIONARY OF THE ENGLISH LANGUAGE 133
+(2nd Ed. 1987). However, Knussman presented medical testimony
+specifically connecting the constitutional violation and the emotional
+distress, and the defense presented no evidence of malingering or
+overreaching by Knussman. See supra Part II.A. Therefore, the
+Majority creates a standard that uncontroverted medical testimony
+affirming the connection between the injury and emotional distress is
+insufficient as a matter of law. The Majority's position requires the
+fact finder to pinpoint and articulate precisely where the plaintiff's
+emotional distress over the constitutional injury ends, and the emo-
+tional distress over the impermissible factor, i.e., the litigation related
+distress, begins. This is not, and should not be, a prerequisite to sus-
+tain a damage award under § 1983. A court of review reviews the
+record to determine if the clear weight of the evidence supports the
+verdict. See Cline, 144 F.3d at 301. It is only necessary for plaintiffs
+to demonstrate, and the jury to find, that a casual connection between
+the constitutional violation and the plaintiff's demonstrated injury in
+order to recover compensatory damages. See Price, 93 F.3d at 1251
+(citing Gore v. Turner, 563 F.2d 159, 164 (5th Cir. 1997)). Therefore,
+a district court does not abuse its discretion if it upholds a jury verdict
+where the evidence presents sufficient proof of a constitutional viola-
+tion, injury, and a casual connection between the injury and constitu-
+tional violation. Knussman has produced sufficient evidence of
+causation. As demonstrated above, the clear weight of the evidence,
+in the form of Dr. Toler's testimony, demonstrates a strong link exists
+between the constitutional violation and the emotional distress experi-
+enced by Knussman. Therefore, legally sufficient evidence existed for
+a reasonable jury to have reached its verdict.
+KNUSSMAN v. STATE OF MARYLAND  43
+
+3.
+
+   Nothing within record shows that the jury considered litigation
+related distress as a factor in damages. The Majority remands for
+damages because in its view the jury factored litigation related dis-
+tress into its calculation of damages. Defendants had the opportunity
+to cross-examine Dr. Crowley and Dr. Toler on the issue of litigation
+related distress. J.A. 319-20, 571-80, 588. In particular, Dr. Toler
+admitted that the lawsuit was stressful on Knussman because it tended
+to magnify the events, circumstances, and adversarial relationship that
+had developed over the course of the years. J.A. 571. Notwithstanding
+this testimony, it remains possible that the jury found the emotional
+distress due to the constitutional injury, not due to litigation, caused
+the injury. Defendants stressed to the jury during the trial that Knuss-
+man could not recover damages for litigation related distress.5 More-
+over, the district court's instructions were clear that Knussman could
+only recover for damages sustained by the constitutional injury itself.
+J.A. 1097-98. The Majority references no erroneous instruction given
+by the district court, which would confuse the jury into incorporating
+litigation related distress as recoverable damages. See, e.g., Memphis
+Community Sch. Dist. v. Stachura, 477 U.S. 299, 306 (1986) (revers-
+ing jury's verdict because the trial judge gave an erroneous jury
+instruction allowing the jury to compensate the plaintiff for circum-
+stances that should not be compensated). The Majority simply implies
+that it is not comfortable with the jury's ability to weigh the credibil-
+ity of the witnesses, or the trial judge's ability to utilize its discretion,
+and reach its conclusion that Knussman's injuries resulted from the
+constitutional violation. The Majority has no reason to infer or imply
+that the jury improperly calculated litigation related distress into its
+$375,000 damages determination. The Majority should not set aside
+the jury's verdict as excessive because it cannot succinctly enunciate
+clear principles for assessment of whether a verdict for compensatory
+damages, including the medical and emotional distress components,
+is excessive as a matter of law. Accordingly, the district court's deci-
+sion upholding the jury's award should be affirmed. Therefore, while
+
+   5It is important to note that Defendants did not present any contrary
+medical evidence showing that Knussman's distress resulted from the lit-
+igation.
+44  KNUSSMAN v. STATE OF MARYLAND
+
+I concur in the judgment, I respectfully dissent in the decision to
+remand the case for a trial on damages.
+

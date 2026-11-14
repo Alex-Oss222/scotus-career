@@ -1,0 +1,272 @@
+[
+  {
+    "number": 129,
+    "case": "Chavez v. Martinez",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_129.md",
+    "opening_entries": [
+      "civil-rights: Elder v. Holloway, 510 U.S. 510",
+      "civil-rights: County of Sacramento v. Lewis",
+      "civil-rights: Denius v. Dunlap",
+      "civil-rights: Saucier v. Katz",
+      "civil-rights: Clanton v. Cooper",
+      "criminal-procedure-investigations: Dickerson v. United States, 530 U.S. 428 (2000)",
+      "criminal-procedure-investigations: McKune v. Lile, 536 U.S. 24",
+      "federal-courts-immunities-and-remedies: Hope v. Pelzer, 536 U.S. 730"
+    ],
+    "standards": [
+      "Qualified-immunity legal appeals and factual sufficiency",
+      "Relevant precedent in appellate qualified-immunity review",
+      "Instant decisions during a high-speed police pursuit",
+      "Miranda safeguards and the voluntariness-only admission rule",
+      "Self-incrimination privilege despite professed innocence"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Gibson-v-County-of-Washoe_merits_2003-01-14.md",
+      "terms/OT2002/records/McClendon-v-City-of-Columbia_merits_2003-03-04.md",
+      "terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md",
+      "terms/OT2002/records/Kaupp-v-Texas_summary-merits_2003-05-05.md"
+    ],
+    "bytes": 98012
+  },
+  {
+    "number": 130,
+    "case": "Cooper Industries, Inc. v. Aviall Services, Inc.",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_130.md",
+    "opening_entries": [
+      "environmental-law: Key Tronic Corp. v. United States, 511 U.S. 809",
+      "environmental-law: United States v. Bestfoods"
+    ],
+    "standards": [
+      "Private CERCLA fees and independently necessary response work",
+      "Parent corporations and CERCLA operator liability"
+    ],
+    "current_sources": [],
+    "bytes": 14116
+  },
+  {
+    "number": 131,
+    "case": "National Park Hospitality Association v. Department of the Interior",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_131.md",
+    "opening_entries": [
+      "federal-courts-justiciability: Ohio Forestry Association, Inc. v. Sierra Club",
+      "administrative-law: MCI Telecommunications Corp. v. American Telephone & Telegraph Co., 512 U.S. 218",
+      "administrative-law: Smiley v. Citibank (South Dakota), N.A., 517 U.S. 735",
+      "administrative-law: Christensen v. Harris County, 529 U.S. 576 (2000)"
+    ],
+    "standards": [
+      "Present civil obligations and pre-enforcement ripeness",
+      "Persuasive weight of a nonbinding agency advisory interpretation"
+    ],
+    "current_sources": [],
+    "bytes": 25057
+  },
+  {
+    "number": 132,
+    "case": "Black & Decker Disability Plan v. Nord",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_132.md",
+    "opening_entries": [
+      "labor-and-employment: Curtiss-Wright Corp. v. Schoonejongen",
+      "labor-and-employment: Lockheed Corp. v. Spink, 517 U.S. 882",
+      "labor-and-employment: Rush Prudential HMO, Inc. v. Moran, 536 U.S. 355"
+    ],
+    "standards": [
+      "Corporate procedures for ERISA plan amendments",
+      "ERISA sponsor design, fiduciary implementation and genuine benefit payments"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Kentucky-Association-of-Health-Plans-Inc-v-Miller_merits_2003-04-02.md"
+    ],
+    "bytes": 36204
+  },
+  {
+    "number": 133,
+    "case": "Adler v. Duval County School Board",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_133.md",
+    "opening_entries": [
+      "first-amendment: Lee v. Weisman, 505 U.S. 577 (1992)",
+      "first-amendment: Ingebretsen v. Jackson Public School District",
+      "first-amendment: Agostini v. Felton; Chancellor, Board of Education of the City of New York v. Felton",
+      "first-amendment: Tanford v. Brand",
+      "first-amendment: Santa Fe Independent School District v. Doe, 530 U.S. 290 (2000)",
+      "first-amendment: Capitol Square Review and Advisory Board v. Pinette",
+      "federal-courts-justiciability: Ingebretsen v. Jackson Public School District"
+    ],
+    "standards": [
+      "Official school worship and independent religious pressure",
+      "Private religious viewpoints in public forums and printing benefits"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Steele-v-Industrial-Development-Board_merits_2003-03-03.md",
+      "terms/OT2002/records/Commack-Self-Service-Kosher-Meats-v-Weiss_merits_2003-03-24.md",
+      "terms/OT2002/records/Altman-v-Bedford-Central-School-District_merits_2003-05-19.md"
+    ],
+    "bytes": 83536
+  },
+  {
+    "number": 134,
+    "case": "Bunkley v. Florida",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_134.md",
+    "opening_entries": [
+      "criminal-procedure: Fiore v. White, 531 U.S. 225",
+      "criminal-procedure: Rogers v. Tennessee, 532 U.S. 451",
+      "federal-courts: Fiore v. White, 528 U.S. 23 (1999)",
+      "federal-courts-habeas: Fiore v. White, 531 U.S. 225",
+      "federal-courts-habeas: Lee v. Kemna, 534 U.S. 362"
+    ],
+    "standards": [
+      "Authoritative clarification of an existing criminal element",
+      "Fair warning and retrospective judicial enlargement of criminal law",
+      "Independent and adequate state procedural grounds"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Price-v-Vincent_merits_2003-05-19.md"
+    ],
+    "bytes": 33454
+  },
+  {
+    "number": 135,
+    "case": "Lerman v. Board of Elections in the City of New York",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_135.md",
+    "opening_entries": [
+      "election-law: Buckley v. American Constitutional Law Foundation, Inc.",
+      "election-law: Burdick v. Takushi, 504 U.S. 428 (1992)"
+    ],
+    "standards": [
+      "Initiative circulator qualifications and individual identification",
+      "Write-in voting within the complete ballot-access system"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Cartwright-v-Barnes_merits_2003-02-25.md"
+    ],
+    "bytes": 31316,
+    "additional_public_sources": [
+      "terms/OT2002/entering-law/OT_2002CHUNK11_PRIOR_PUBLIC_WRITINGS.md"
+    ]
+  },
+  {
+    "number": 136,
+    "case": "Duncan v. General Motors Corp.",
+    "event_date": "2003-05-27",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_136.md",
+    "opening_entries": [
+      "labor-and-employment: Harris v. Forklift Systems, Inc., 510 U.S. 17",
+      "labor-and-employment: Oncale v. Sundowner Offshore Services, Inc.",
+      "labor-and-employment: DeAngelis v. El Paso Municipal Police Officers' Association",
+      "labor-and-employment: Faragher v. City of Boca Raton",
+      "labor-and-employment: Burlington Industries, Inc. v. Ellerth",
+      "labor-and-employment: Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)",
+      "federal-courts: Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)"
+    ],
+    "standards": [
+      "Whole-record review of a jury verdict under Rule 50",
+      "Hostile employment conditions without a psychological-injury prerequisite",
+      "Employer attribution of supervisor-created harassment",
+      "Claim-specific grounds in renewed Rule 50 motions"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md"
+    ],
+    "bytes": 55948,
+    "additional_public_sources": [
+      "terms/OT2002/entering-law/OT_2002CHUNK11_PRIOR_PUBLIC_WRITINGS.md"
+    ]
+  },
+  {
+    "number": 137,
+    "case": "Beneficial National Bank v. Anderson",
+    "event_date": "2003-06-02",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_137.md",
+    "opening_entries": [
+      "federal-courts: Rivet v. Regions Bank of Louisiana",
+      "business-and-commercial-law: Smiley v. Citibank (South Dakota), N.A., 517 U.S. 735"
+    ],
+    "standards": [
+      "Federal claim preclusion as a removal defense",
+      "Federal interest classification and national-bank home-state charges"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Syngenta-Crop-Protection-Inc-v-Henson_merits_2002-11-05.md",
+      "terms/OT2002/records/Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md",
+      "terms/OT2002/records/Jinks-v-Richland-County_merits_2003-04-22.md"
+    ],
+    "bytes": 40105
+  },
+  {
+    "number": 138,
+    "case": "Dastar Corp. v. Twentieth Century Fox Film Corp.",
+    "event_date": "2003-06-02",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_138.md",
+    "opening_entries": [
+      "business-and-commercial-law: Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000)",
+      "business-and-commercial-law: Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992)",
+      "business-and-commercial-law: Qualitex Co. v. Jacobson Products Co.",
+      "business-and-commercial-law: TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23"
+    ],
+    "standards": [
+      "Acquired source significance for product-design trade dress",
+      "Inherently distinctive nonfunctional restaurant trade dress",
+      "Source-identifying color and functionality"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Eldred-v-Ashcroft_merits_2003-01-15.md",
+      "terms/OT2002/records/Moseley-v-V-Secret-Catalogue-Inc_merits_2003-03-04.md"
+    ],
+    "bytes": 42902
+  },
+  {
+    "number": 139,
+    "case": "Krislov v. Rednour",
+    "event_date": "2003-06-02",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_139.md",
+    "opening_entries": [
+      "election-law: Buckley v. American Constitutional Law Foundation, Inc.",
+      "election-law: Burdick v. Takushi, 504 U.S. 428 (1992)"
+    ],
+    "standards": [
+      "Initiative circulator qualifications and individual identification",
+      "Write-in voting within the complete ballot-access system"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Cartwright-v-Barnes_merits_2003-02-25.md"
+    ],
+    "bytes": 31598,
+    "additional_public_sources": [
+      "terms/OT2002/entering-law/OT_2002CHUNK11_PRIOR_PUBLIC_WRITINGS.md"
+    ]
+  },
+  {
+    "number": 140,
+    "case": "Knussman v. Maryland",
+    "event_date": "2003-06-02",
+    "path": "terms/OT2002/entering-law/OT_2002CHUNK11_140.md",
+    "opening_entries": [
+      "civil-rights: J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127",
+      "civil-rights: Elder v. Holloway, 510 U.S. 510",
+      "civil-rights: United States v. Virginia; Virginia v. United States, 518 U.S. 515 (1996)",
+      "civil-rights: Saucier v. Katz",
+      "federal-courts-immunities-and-remedies: Hope v. Pelzer, 536 U.S. 730",
+      "federal-courts-immunities-and-remedies: McCardle v. Haddad",
+      "federal-courts: Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)",
+      "federal-courts: Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)"
+    ],
+    "standards": [
+      "Relevant precedent in appellate qualified-immunity review",
+      "Whole-record review of a jury verdict under Rule 50",
+      "State compensation limits within federal new-trial review",
+      "Purposeful sex discrimination in state peremptory strikes",
+      "Claim-specific grounds in renewed Rule 50 motions"
+    ],
+    "current_sources": [
+      "terms/OT2002/records/Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md",
+      "terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md"
+    ],
+    "bytes": 86559
+  }
+]

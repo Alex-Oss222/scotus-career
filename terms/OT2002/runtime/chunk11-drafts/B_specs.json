@@ -1,0 +1,154 @@
+[
+  {
+    "case": "Adler v. Duval County School Board",
+    "date": "2003-05-27",
+    "file": "Adler-v-Duval-County-School-Board_merits_2003-05-27.md",
+    "countable": true,
+    "form": "signed plenary threshold opinion",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "all": "Each candidate fully supports the single continuing-injury rule and bounded remand. The legal work separates present jurisdiction from a facial school-policy merits question.",
+      "O'Connor": "Her Altman opinion addresses the same missing-current-stake problem.",
+      "Ginsburg": "Her Ingebretsen standing opinion distinguishes supported school-event exposure.",
+      "Stone-Zsela": "His approved threshold conditions separate jurisdiction, the conditional merits position and effective relief."
+    }
+  },
+  {
+    "case": "Bunkley v. Florida",
+    "date": "2003-05-27",
+    "file": "Bunkley-v-Florida_certiorari-granted_2003-05-27.md",
+    "countable": false,
+    "form": "unsigned certiorari grant",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [],
+    "fit_notes": {
+      "form": "Distinct petition action before same-day summary disposition; no publicly disclosed petition poll."
+    }
+  },
+  {
+    "case": "Bunkley v. Florida",
+    "date": "2003-05-27",
+    "file": "Bunkley-v-Florida_summary-disposition_2003-05-27.md",
+    "countable": false,
+    "form": "reasoned summary per curiam",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "form": "Confined temporal clarification on summary review; neither counts nor historical authorship determine the form."
+    }
+  },
+  {
+    "case": "Lerman v. Board of Elections in the City of New York",
+    "date": "2003-05-27",
+    "file": "Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+    "countable": true,
+    "form": "signed plenary opinion with two concurrences",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "all": "The lead performs the actual burden/precise-interest inquiry and confines facial relief to the geographic witness barrier. Stone's additional remedial presumption is solely in his concurrence.",
+      "Stevens": "His Buckley opinion supplies speaker-pool and traceability analysis.",
+      "O'Connor": "Her frozen distinction between obtainable registration and district exclusion supports precise scope.",
+      "Breyer": "His frozen distinction between easy enrollment and direct conversational exclusion supports precise scope.",
+      "Souter": "His frozen position connects fit, retained enforcement and severable relief.",
+      "Stone-Zsela": "His approved burden-and-fit analysis supports the complete lead without importing his distinct remedial presumption."
+    }
+  },
+  {
+    "case": "Duncan v. General Motors Corp.",
+    "date": "2003-05-27",
+    "file": "Duncan-v-General-Motors-Corp_merits_2003-05-27.md",
+    "countable": true,
+    "form": "single signed plenary opinion with different part coalitions",
+    "assigner": "Stone-Zsela",
+    "chief_assigns_any": true,
+    "assignment_authority_text": "Stone-Zsela assigns Parts I and III because he supports harassment reversal and its remand. O'Connor, the senior participating Associate in the constructive-discharge majority, assigns Part II. The same full-join author carries the entire opinion through these component-specific assignments; the Chief's balance rule governs the lead because he assigns part of it.",
+    "eligible_authors": [
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Breyer"
+    ],
+    "partial_joiners": {
+      "Parts I and III": [
+        "Stone-Zsela",
+        "Stevens",
+        "Ginsburg"
+      ],
+      "Part II": [
+        "Scalia",
+        "Thomas"
+      ]
+    },
+    "proposition_limits": {
+      "Part I": "Cumulative harassment sufficiency and Rule 50; seven direct joins.",
+      "Part II": "Objective compulsion and actual corrective alternatives; six direct joins. No universal intent formulation is attributed to the Court.",
+      "Part III": "Preserved independent grounds, actual-authority/material-aid burden and claim-specific remedy; seven direct joins.",
+      "Separate Stone Part A": "Stevens and Ginsburg join application disagreement only.",
+      "Separate Stone Part B": "Stone alone supports complete new discharge formulation with intent/foreseeability and transition."
+    },
+    "fit_notes": {
+      "O'Connor": "Her Harris opinion supplies the totality analysis and her present commitment distinguishes hostility from compulsion.",
+      "Kennedy": "His frozen joins support contextual harassment review and the distinct efficacy of actual corrective opportunities.",
+      "Souter": "His frozen position distinguishes cumulative inference, separate remedial predicates and the combined alternatives.",
+      "Breyer": "His Faragher opinion supports workplace context and the distinction between actual-authority injury and corrective prospects."
+    }
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "case": "Krislov v. Rednour",
+  "date": "2003-06-02",
+  "status": "Draft checks complete; publication checks pending",
+  "file": "Krislov-v-Rednour_merits_2003-06-02.md",
+  "sha256": "479009e1e56fd415dc7bcd8ed9fabc276ad5237428763500c0460240b0f52f1c",
+  "public_blocks_exact_order": [
+    "Event",
+    "Participation",
+    "Public Action",
+    "Judgment & Remedy",
+    "Opinion Topology",
+    "Holdings",
+    "Precedent Treatment",
+    "Law After Decision",
+    "Separate Writings",
+    "Procedure After Action",
+    "Source Notes"
+  ],
+  "opening_labels_exact": true,
+  "internal_public_blocks_identical": true,
+  "controlling_explanation_word_counts": [
+    117,
+    231,
+    222,
+    79
+  ],
+  "ordinary_ceiling": 350,
+  "stone_source_exact_copy": true,
+  "source_hashes": {
+    "freeze/OT_2002CHUNK11_139_NEUTRAL.md": "d05378b6ab2dac5589ac94a166cab7b68fafe577a650070bf08267d8fc16bdb4",
+    "freeze/OT_2002CHUNK11_139_SCOPE_NEUTRAL.md": "f6cce59cd14a7eb5e78852df3694cde1d89e50ea095b762eacb4bffc99af4d85",
+    "freeze/OT_2002CHUNK11_139_COMMITMENTS.md": "fe0fa4adac6ed8eaf3c027daa6bb7067176ff1db59646fadaffc01c564d0193d",
+    "freeze/OT_2002CHUNK11_139_SCOPE_COMMITMENTS.md": "43d4606f222e38581443ba5620503fa227468ba594306b6cb233dbbaa9bf4c1d",
+    "freeze/OT_2002CHUNK11_139_RECONCILED.md": "40d202467d32fd42a4052b3d5bca90a3eca6bdcacff2fd216b70afc697e70e41",
+    "freeze/OT_2002CHUNK11_139_SCRUTINY_CLARIFICATION.md": "ad32b35c3877ffb66453b702540b68ddd0a45b337c9c651b0aae7660782ec8a1",
+    "freeze/OT_2002CHUNK11_139_STONE.md": "21fb6ce4b144445e4ed304ce1fc034cd3c4ecb4a3bf41430d4e0221663ed7754",
+    "entering-law/OT_2002CHUNK11_139_REFRESHED.md": "5b4557f3ae685dc2d85b9f46be0a931f682e072024baa101bc5fa91c8e7a275f",
+    "entering-law/OT_2002CHUNK11_139_SOURCE_SCOPE_SUPPLEMENT.md": "5ae49f0d388c96969a77dce2fe357fad1f8d89ad7e6bacf1fd3bfd8af5765027",
+    "entering-law/OT_2002CHUNK11_139_LOWER_OPINION.txt": "9e115ef710469c95f52523e0bed9f2c0f3ce8e566815b98eb78e5128b2fa0be7",
+    "freeze/OT_2002CHUNK11_139_OPINION_TABLES.json": "4a3dc0f158bf5ee8bc82ba15c74147c44662f69801a1db8ef5f8640e79be5890"
+  },
+  "source_links_checked_at_canonical_location": true,
+  "judgment_votes": {
+    "Senate_geography": [
+      9,
+      0
+    ],
+    "House_geography": [
+      9,
+      0
+    ],
+    "eligible_resident_enrollment": [
+      7,
+      2
+    ]
+  },
+  "direct_joins": {
+    "I": 9,
+    "II": 8,
+    "III": 6,
+    "IV_full": 7
+  },
+  "whole_lead_supporters": [
+    "Stone-Zsela",
+    "Stevens",
+    "Scalia",
+    "Kennedy",
+    "Souter",
+    "Ginsburg"
+  ],
+  "author_unselected": true,
+  "single_internal_assignment_placeholder": true,
+  "machine_specific_links_absent": true,
+  "negative_statement_qualitative_review": "Completed for Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action; operative limits and surviving injunction statements retained, speculative scope catalogues omitted.",
+  "pending_checks": [
+    "Serial balanced assignment from actual prior opinion tables",
+    "Canonical publication",
+    "Workspace projections",
+    "Generated Render Input",
+    "Term deterministic checks"
+  ],
+  "substantive_blockers": []
+}

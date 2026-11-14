@@ -1,0 +1,22 @@
+{
+  "neutral_input_sha256": "412b7692e4bf4a357d4f48a5ef6174ff24e447eca203b4fc3af6d26f727cdea3",
+  "freeze_sha256": "dbeda66a06a06eb02a89c6693fb2b223e5296c1975a05a6466957d269891c473",
+  "verbatim_runtime_prefix": true,
+  "matters": [
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140
+  ],
+  "prior_law_strictly_before_event": true,
+  "readiness": "129-138 and 140 ready subject to identified path-specific source/remedy limits;139 requires actual post-Lerman public-law refresh",
+  "exposure_handling": "Matter130 neutral preflight was independently validated and supplemented by a fresh scoped context after initial preflight search-result exposure; no excluded substance entered that context or this freeze."
+}

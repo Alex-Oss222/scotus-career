@@ -1,0 +1,841 @@
+{
+  "term": "OT2002",
+  "chunk": 11,
+  "mode": "final",
+  "checked_at_utc": "2026-11-14T03:42:18.532909+00:00",
+  "status": "passed_scoped_final",
+  "complete": true,
+  "scope": "Deterministic content, source-integrity, assignment and projection checks only; no legal-substance or repository-history certification.",
+  "external_processes_executed": false,
+  "errors": [],
+  "pending": [],
+  "checks": {
+    "record_and_draft_structure": [
+      {
+        "file": "terms/OT2002/records/Duncan-v-General-Motors-Corp_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 193
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 170
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 134
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Knussman-v-Maryland_merits_2003-06-02.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 147
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 167
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 239
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 108
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Chavez-v-Martinez_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 98
+          },
+          {
+            "label": "Authority and explanation",
+            "words": 117
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 202
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Bunkley-v-Florida_certiorari-granted_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": []
+      },
+      {
+        "file": "terms/OT2002/records/Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 203
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 270
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Adler-v-Duval-County-School-Board_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 163
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 257
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 97
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 236
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 252
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Krislov-v-Rednour_merits_2003-06-02.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 117
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 231
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 222
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 79
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 294
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/records/Bunkley-v-Florida_summary-disposition_2003-05-27.md",
+        "kind": "record",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 206
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Adler-v-Duval-County-School-Board_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 163
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 294
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 252
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Bunkley-v-Florida_certiorari-granted_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": []
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Bunkley-v-Florida_summary-disposition_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 206
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Chavez-v-Martinez_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 98
+          },
+          {
+            "label": "Authority and explanation",
+            "words": 117
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 202
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 270
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 257
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 97
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Duncan-v-General-Motors-Corp_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 193
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 170
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 134
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Knussman-v-Maryland_merits_2003-06-02.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 147
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 167
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 239
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 108
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Krislov-v-Rednour_merits_2003-06-02.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 117
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 231
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 222
+          },
+          {
+            "label": "Controlling explanation",
+            "words": 79
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 203
+          }
+        ]
+      },
+      {
+        "file": "terms/OT2002/runtime/chunk11-drafts/National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+        "kind": "draft",
+        "passed": true,
+        "explanations": [
+          {
+            "label": "Controlling explanation",
+            "words": 236
+          }
+        ]
+      }
+    ],
+    "frozen_stage_hashes_and_runtime": [
+      {
+        "file": "OT_2002CHUNK11_NEUTRAL.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact runtime prefix plus frozen supplements",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_NEUTRAL_129_132.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_NEUTRAL_133_136.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_COMPARATOR_SANITIZED.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_COMPARATOR_VERIFICATION.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_A_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_B_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_C_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_BUNKLEY_STONE_CERT.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_B_RECONCILED.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_B_STONE.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_C_RECONCILED.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_C_STONE.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_A_RECONCILED.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_A_STONE.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_139_NEUTRAL.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_COMPARATOR.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_139_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_SCOPE_NEUTRAL.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_SCOPE_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_RECONCILED.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_STONE.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      },
+      {
+        "file": "OT_2002CHUNK11_COMMITMENTS.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_RECONCILED.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_STONE.md",
+        "hash_matches": true,
+        "runtime_relationship": "exact same-named runtime copy",
+        "runtime_matches": true
+      },
+      {
+        "file": "OT_2002CHUNK11_139_SCRUTINY_CLARIFICATION.md",
+        "hash_matches": true,
+        "runtime_relationship": "frozen-only handoff; no same-named runtime file",
+        "runtime_matches": null
+      }
+    ],
+    "protected_files": {
+      "checked": 1185,
+      "excluded_current_derived_splits": [
+        "terms/OT2002/runtime/OT_2002CHUNK11_COMPARATOR.md",
+        "terms/OT2002/runtime/OT_2002CHUNK11_NEUTRAL.md",
+        "terms/OT2002/runtime/OT_2002CHUNK11_STONE.md"
+      ]
+    },
+    "assignment_recounts": [
+      {
+        "record": "Adler-v-Duval-County-School-Board_merits_2003-05-27.md",
+        "author": "O'Connor",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 12,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 12
+        },
+        "prior_lead_count": 108,
+        "last_counted_record": "United-States-v-Haney_merits_2003-05-19.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+        "author": "Ginsburg",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 12,
+          "Breyer": 13
+        },
+        "prior_lead_count": 110,
+        "last_counted_record": "Benson-v-Terhune_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Chavez-v-Martinez_merits_2003-05-27.md",
+        "author": "Souter",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 12,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "prior_lead_count": 111,
+        "last_counted_record": "Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+        "author": "Stevens",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 12,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "prior_lead_count": 112,
+        "last_counted_record": "Chavez-v-Martinez_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Duncan-v-General-Motors-Corp_merits_2003-05-27.md",
+        "author": "Kennedy",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 12,
+          "Souter": 13,
+          "Thomas": 12,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "prior_lead_count": 113,
+        "last_counted_record": "Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+        "author": "Stone-Zsela",
+        "counts_before": {
+          "Stone-Zsela": 12,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 13,
+          "Souter": 13,
+          "Thomas": 13,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "prior_lead_count": 115,
+        "last_counted_record": "Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+        "author": "Scalia",
+        "counts_before": {
+          "Stone-Zsela": 13,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 12,
+          "Kennedy": 13,
+          "Souter": 13,
+          "Thomas": 13,
+          "Ginsburg": 13,
+          "Breyer": 13
+        },
+        "prior_lead_count": 116,
+        "last_counted_record": "Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+        "author": "Souter",
+        "counts_before": {
+          "Stone-Zsela": 13,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 13,
+          "Kennedy": 13,
+          "Souter": 13,
+          "Thomas": 13,
+          "Ginsburg": 14,
+          "Breyer": 13
+        },
+        "prior_lead_count": 118,
+        "last_counted_record": "Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+        "author": "Scalia",
+        "counts_before": {
+          "Stone-Zsela": 13,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 13,
+          "Kennedy": 13,
+          "Souter": 14,
+          "Thomas": 13,
+          "Ginsburg": 14,
+          "Breyer": 13
+        },
+        "prior_lead_count": 119,
+        "last_counted_record": "Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Knussman-v-Maryland_merits_2003-06-02.md",
+        "author": "O'Connor",
+        "counts_before": {
+          "Stone-Zsela": 13,
+          "Stevens": 13,
+          "O'Connor": 13,
+          "Scalia": 14,
+          "Kennedy": 13,
+          "Souter": 14,
+          "Thomas": 13,
+          "Ginsburg": 14,
+          "Breyer": 13
+        },
+        "prior_lead_count": 120,
+        "last_counted_record": "Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      },
+      {
+        "record": "Krislov-v-Rednour_merits_2003-06-02.md",
+        "author": "Stevens",
+        "counts_before": {
+          "Stone-Zsela": 13,
+          "Stevens": 13,
+          "O'Connor": 14,
+          "Scalia": 14,
+          "Kennedy": 13,
+          "Souter": 14,
+          "Thomas": 13,
+          "Ginsburg": 14,
+          "Breyer": 13
+        },
+        "prior_lead_count": 121,
+        "last_counted_record": "Knussman-v-Maryland_merits_2003-06-02.md",
+        "ordered_prior_names_match": true,
+        "passed": true
+      }
+    ],
+    "counts": {
+      "actual": {
+        "records": 144,
+        "chunk_records": 13,
+        "inventory": 180,
+        "completed_inventory": 140,
+        "pending_inventory": 40
+      },
+      "expected_final": {
+        "records": 144,
+        "chunk_records": 13,
+        "inventory": 180,
+        "completed_inventory": 140,
+        "pending_inventory": 40
+      }
+    },
+    "render_input": {
+      "exists": true,
+      "identity_method": "source-record blocks; strip-only exact Public Projection comparison",
+      "blocks": [
+        {
+          "record": "Adler-v-Duval-County-School-Board_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Bunkley-v-Florida_certiorari-granted_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Bunkley-v-Florida_summary-disposition_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Chavez-v-Martinez_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Duncan-v-General-Motors-Corp_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Lerman-v-Board-of-Elections-in-the-City-of-New-York_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+          "identical": true
+        },
+        {
+          "record": "Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+          "identical": true
+        },
+        {
+          "record": "Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+          "identical": true
+        },
+        {
+          "record": "Knussman-v-Maryland_merits_2003-06-02.md",
+          "identical": true
+        },
+        {
+          "record": "Krislov-v-Rednour_merits_2003-06-02.md",
+          "identical": true
+        }
+      ]
+    },
+    "ledger": {
+      "rows": 144,
+      "records": 144,
+      "exact_coverage": true
+    },
+    "written_text_guard": {
+      "files_checked": 149,
+      "scope": "Own script; immediate textual scratch files modified since the protected snapshot; current chunk handoffs, drafts and Records; newly modified workspace files; Render Input when present.",
+      "findings": []
+    }
+  }
+}

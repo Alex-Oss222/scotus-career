@@ -1,0 +1,43 @@
+
+
+NATIONAL PARK HOSPITALITY ASSN. V.DEPARTMENT OF INTERIOR
+
+LII
+
+Supreme Court		 
+
+NATIONAL PARK HOSPITALITY ASSN. V.DEPARTMENT OF INTERIOR (02-196) 
+282 F.3d 818, vacated and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Stevens ]Dissent
+ [ Breyer ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+NATIONAL PARK HOSPITALITY ASSOCIATION v. DEPARTMENT OF THE INTERIOR et al.
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE DISTRICT OF COLUMBIA CIRCUIT
+
+No. 02—196.  Argued March 4, 2003–Decided May 27, 2003 
+
+The Contract Disputes Act of 1978 (CDA) establishes rules governing disputes arising out of certain Government contracts.  After Congress enacted the National Parks Omnibus Management Act of 1998, establishing a comprehensive concession management program for national parks, the National Park Service (NPS) issued implementing regulations including 36 CFR § 51.3 which purports to render the CDA inapplicable to concession contracts.  Petitioner concessioners’ association challenged §51.3’s validity.  The District Court upheld the regulation, concluding that the CDA is ambiguous on whether it applies to concession contracts and finding NPS’ interpretation reasonable under Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837.  The District of Columbia Circuit affirmed, placing no reliance on Chevron, but finding NPS’ reading of the CDA consistent with both the CDA and the 1998 Act.
+
+Held: The controversy is not yet ripe for judicial resolution.  Determining whether administrative action is ripe requires evaluation of (1) the issues’ fitness for judicial decision and (2) the hardship to the parties of withholding court consideration.  Abbott Laboratories v. Gardner, 387 U.S. 136, 149.  Regarding the hardship inquiry, the federal respondents concede that, because NPS has no delegated rulemaking authority under the CDA, §51.3 is not a legislative regulation with the force of law.  And their assertion that §51.3 is an interpretative regulation advising the public of the agency’s construction of the statutes and rules which it administers is incorrect, as NPS is not empowered to administer the CDA.  That task rests with agency contracting officers and boards of contract appeals, as well as the federal courts; and any authority regarding the agency boards’ proper arrangement belongs to the Administrator for Federal Procurement Policy.  Consequently, §51.3 is nothing more than a general policy statement designed to inform the public of NPS’ views on the CDA’s proper application.  Thus, §51.3 does not create “adverse effects of a strictly legal kind,” which are required for a hardship showing.  Ohio Forestry Assn., Inc. v. Sierra Club, 523 U.S. 726, 733.  Moreover, §51.3 does not affect a concessioner’s primary conduct, e.g., Toilet Goods Assn., Inc. v. Gardner, 387 U.S. 158, 164, as it leaves the concessioner free to conduct its business as it sees fit.  Moreover, nothing in the regulation prevents concessioners from following the procedures set forth in the CDA once a dispute over a concession contract actually arises.  This Court has previously found that challenges to regulations similar to §51.3 were not ripe for lack of a hardship showing.  See, e.g., id., at 161—162.  Petitioner’s contention that delaying judicial resolution of the issue will cause real harm because the CDA’s applicability vel non is a factor taken into account by a concessioner preparing its bids is unpersuasive.  Mere uncertainty as to the validity of a legal rule does not constitute a hardship for purposes of the ripeness analysis.  As to whether the issue here is fit for review, further factual development would “significantly advance [this Court’s] ability to deal with the legal issues presented,” Duke Power Co. v. Carolina Environmental Study Group, Inc., 438 U.S. 59, 82, even though the question is “purely legal” and §51.3 constitutes “final agency action” under the Administrative Procedure Act, Abbott Laboratories, supra, at 149.  Judicial resolution of the question presented here should await a concrete dispute about a particular concession contract.  Pp. 4—9.
+
+282 F.3d 818, vacated and remanded.
+
+    Thomas, J., delivered the opinion of the Court, in which Rehnquist, C. J., and Scalia, Kennedy, Souter, and Ginsburg, JJ., joined.  Stevens, J., filed an opinion concurring in the judgment.  Breyer, J., filed a dissenting opinion, in which O’Connor, J., joined.
+

@@ -1,0 +1,61 @@
+
+
+CHAVEZ V. MARTINEZ
+
+LII
+
+Supreme Court		 
+
+CHAVEZ V. MARTINEZ (01-1444) 
+270 F.3d 852, reversed and remanded.
+Syllabus
+ Opinion
+ [ Thomas ]Concurrence
+ [ Souter ]Concurrence
+ [ Scalia ]Other
+ [ Opinion of Stevens ]Other
+ [ Opinion of Kennedy ]Other
+ [ Opinion of Ginsburg ]
+HTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+CHAVEZ v. MARTINEZ
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 01—1444.  Argued December 4, 2002–Decided May 27, 2003 
+
+While respondent Martinez was being treated for gunshot wounds received during an altercation with police, he was interrogated by petitioner Chavez, a patrol supervisor.  Martinez admitted that he used heroin and had taken an officer’s gun during the incident.  At no point was Martinez given Miranda warnings.  Although he was never charged with a crime, and his answers were never used against him in any criminal proceeding, Martinez filed a 42 U.S.C. § 1983 suit, maintaining, among other things, that Chavez’s actions violated his Fifth Amendment right not to be “compelled in any criminal case to be a witness against himself,” and his Fourteenth Amendment substantive due process right to be free from coercive questioning.  The District Court ruled that Chavez was not entitled to qualified immunity, and the Ninth Circuit affirmed, finding that Chavez’s coercive questioning violated Martinez’s Fifth Amendment rights even though his statements were not used against him in a criminal proceeding, and that a police officer violates due process when he obtains a confession by coercive conduct, regardless of whether the confession is subsequently used at trial.
+
+Held: The judgment is reversed, and the case is remanded.
+
+270 F.3d 852, reversed and remanded.
+
+    Justice Thomas, joined by The Chief Justice, Justice O’Connor, and Justice Scalia, concluded in Part II—A that Chavez did not deprive Martinez of his Fifth Amendment rights.  Pp. 4—12.
+
+      (a) An officer is entitled to qualified immunity if his alleged conduct did not violate a constitutional right.  See Saucier v. Katz, 533 U.S. 194, 201.  The text of the Fifth Amendment’s Self-Incrimination Clause cannot support the Ninth Circuit’s view that mere compulsive questioning violates the Constitution.  A “criminal case” at the very least requires the initiation of legal proceedings, and police questioning does not constitute such a case.  Statements compelled by police interrogation may not be used against a defendant in a criminal case, but it is not until such use that the Self-Incrimination Clause is violated, see United States v. Verdugo-Urquidez, 494 U.S. 259, 264.  Martinez was never made to be a “witness” against himself because his statements were never admitted as testimony against him in a criminal case.  Nor was he ever placed under oath and exposed to “ ‘the cruel trilemma of self-accusation, perjury or contempt.’ ”  Michigan v. Tucker, 417 U.S. 433, 445.  Pp. 4—5.
+
+      (b) The Ninth Circuit’s approach is also irreconcilable with this Court’s case law.  The government may compel witnesses to testify at trial or before a grand jury, on pain of contempt, so long as the witness is not the target of the criminal case in which he testifies, see, e.g., Kastigar v. United States, 406 U.S. 441, 443; and this Court has long permitted the compulsion of incriminating testimony so long as the statements (or evidence derived from them) cannot be used against the speaker in a criminal case, id., at 458.  Martinez was no more compelled in a criminal case to be a witness against himself than an immunized witness forced to testify on pain of contempt.  That an immunized witness knows that his statements may not be used against him, while Martinez likely did not, does not make the immunized witness’ statements any less compelled and lends no support to the Ninth Circuit’s conclusion that coercive police interrogations alone violate the Fifth Amendment.  Moreover, those subjected to coercive interrogations have an automatic protection from the use of their involuntary statements in any subsequent criminal trial, e.g., Oregon v. Elstad, 470 U.S. 298, 307—308, which is coextensive with the use and derivative use immunity mandated by Kastigar.  Pp. 6—8.
+
+      (c) The fact that the Court has permitted the Fifth Amendment privilege to be asserted in noncriminal cases does not alter the conclusion in this case.  Judicially created prophylactic rules–such as the rule allowing a witness to insist on an immunity agreement before being compelled to give testimony in noncriminal cases, and the exclusionary rule–are designed to safeguard the core constitutional right protected by the Self-Incrimination Clause.  They do not extend the scope of that right itself, just as violations of such rules do not violate a person’s constitutional rights.  Accordingly, Chavez’s failure to read Miranda warnings to Martinez did not violate Martinez’s constitutional rights and cannot be grounds for a §1983 action.  And the absence of a “criminal case” in which Martinez was compelled to be a “witness” against himself defeats his core Fifth Amendment claim.  Pp. 8—12.
+
+          Justice Souter delivered the opinion of the Court with respect to Part II, concluding that the issue whether Martinez may pursue a claim of liability for a substantive due process violation should be addressed on remand.  P. 4.
+
+          Justice Souter, joined by Justice Breyer, concluded in Part I that Martinez’s claim that his questioning alone was a violation of the Fifth and Fourteenth Amendments subject to redress by a 42 U.S.C. § 1983 damages action, though outside the core of Fifth Amendment protection, could be recognized if a core guarantee, or the judicial capacity to protect it, would be placed at risk absent complementary protection, see, e.g., McCarthy v. Arndstein, 266 U.S. 34, 40.  However, Martinez cannot make the “powerful showing” necessary to expand protection of the privilege against self-incrimination to the point of the civil liability he requests.  Inherent in his purely Fifth Amendment claim is the risk of global application in every instance of interrogation producing a statement inadmissible under the Fifth and Fourteenth Amendments, or violating one of the complementary rules this Court has accepted in aid of the core privilege.  And Martinez has offered no reason to believe that this new rule is necessary in aid of the basic guarantee.  Pp. 1—4.
+
+    Thomas, J., announced the judgment of the Court and delivered an opinion, which was joined by Rehnquist, C. J., in full, by O’Connor, J., as to Parts I and II—A, and by Scalia, J., as to Parts I and II.  Souter, J., delivered an opinion, Part II of which was for the Court and was joined by Stevens, Kennedy, Ginsburg, and Breyer, JJ., and Part I of which concurred in the judgment and was joined by Breyer, J.  Scalia, J., filed an opinion concurring in part in the judgment.  Stevens, J., filed an opinion concurring in part and dissenting in part.  Kennedy, J., filed an opinion concurring in part and dissenting in part, which was joined by Stevens, J., in full and by Ginsburg, J., as to Parts II and III.  Ginsburg, J., filed an opinion concurring in part and dissenting in part.
+

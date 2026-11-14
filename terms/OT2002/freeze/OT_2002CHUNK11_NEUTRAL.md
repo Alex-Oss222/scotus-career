@@ -1,0 +1,984 @@
+# OT_2002CHUNK11
+
+## 129. Chavez v. Martinez
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Chavez v. Martinez
+* **Citation or Docket:** 538 U.S. 760; No. 01-1444
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (historical calendar placement).
+* **Question Presented:** Whether the Fifth Amendment discussion in United States v. Verdugo-Urquidez binds the court as precedent or is dicta; whether coercive questioning without use of the statements in a criminal case completes a Self-Incrimination Clause violation; and whether the asserted interrogation was constitutionally offensive in a manner defeating qualified immunity. The separate substantive-due-process ground must be assessed within that inquiry.
+* **Question Granted:** The three questions concerning Verdugo-Urquidez, criminal use of compelled statements, and constitutional offensiveness and immunity.
+* **Court and Judgment Under Review:** The Ninth Circuit affirmed the district court’s rejection of Chavez’s qualified-immunity defense. The lower courts treated the coercive interrogation as violating the Fifth and Fourteenth Amendments even though Martinez was never prosecuted and his statements were never used in a criminal proceeding. This is an interlocutory civil-immunity appeal, not review of a conviction or an exclusion ruling.
+* **Relief Requested:** Chavez seeks judgment on qualified immunity. Martinez seeks to continue his damages action. The lawful alternatives include rejecting the Fifth Amendment theory while preserving a separately analyzed due-process claim. No criminal suppression order, criminal retrial or damages amount is presently at issue.
+* **Material Record:** On November 28, 1997, Oxnard officers stopped Martinez near a narcotics investigation, found a knife during a frisk and struggled with him. Accounts of the struggle differ; an officer shouted that Martinez had his gun, and another officer shot Martinez. Chavez arrived after the shooting and questioned him at the hospital while he suffered severe pain and feared death. The questioning totaled roughly ten minutes over about forty-five minutes; medical treatment continued and questioning paused for procedures. Martinez repeatedly expressed distress and reluctance to answer. He received no Miranda warnings and made statements about the gun and drug use. He was never criminally charged. His grave injuries resulted from the shooting; the record must not attribute the shooting to Chavez or assume that Chavez withheld care, prolonged hospitalization or inflicted additional physical injury without proof.
+* **Threshold, Preservation, and Vehicle Matters:** Review legal immunity questions on the properly supported plaintiff-favorable account; an interlocutory appeal does not authorize resolution of genuine historical fact disputes. Distinguish involuntariness for evidentiary exclusion, warnings, testimonial use in a criminal case, and an independently conscience-shocking abuse. The conduct date is 1997, so a later decision cannot itself supply fair notice. The shooting officers’ distinct conduct and claims are not collapsed into Chavez’s interrogation claim.
+* **Relevant Dates:** Interrogation November 28, 1997; Ninth Circuit judgment in 2001; argument December 4, 2002; calendar event May 27, 2003. County of Sacramento v. Lewis and Dickerson v. United States postdate the conduct, although they are part of the event-date baseline.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** McClendon v. City of Columbia and Gibson v. County of Washoe could affect context-dependent substantive-due-process culpability and individual liability; Herring v. Keenan could affect immunity analysis. Kaupp v. Texas concerns exclusion after seizure, not automatic civil liability. Any intervening holding must be applied within that scope.
+* **Institutional or Procedural Law:** A current merits standard and clearly established law at the time of conduct are separate inquiries. Elder v. Holloway requires consideration of relevant preexisting authority rather than only cases mentioned below. No controlling rule mandates importing the historical post-2000 merits-first sequence. An absence of identical facts does not necessarily defeat notice, but broad constitutional language alone does not resolve every qualified-immunity question.
+
+##### Issue 1: Self-incrimination, warnings and civil damages
+
+* **Controlling Law:** Dickerson v. United States treats Miranda’s case-in-chief safeguards as constitutional and prevents Congress from replacing them with voluntariness alone. It preserves established distinctions involving unwarned statements, actual coercion, exceptions and collateral uses; it does not establish automatic § 1983 liability for every unwarned or inadmissible statement. No controlling holding resolves this no-use civil claim.
+* **Current Rule:** Identify the right asserted and the act completing its violation. The Self-Incrimination Clause expressly concerns compelled witness status in a criminal case, while protections against compelled testimony may operate prospectively in other proceedings. Do not assume that all prophylactic or admissibility rules independently create damages liability.
+* **Other Governing Law:** The Fifth and Fourteenth Amendments and 42 U.S.C. § 1983 govern. Miranda v. Arizona, immunity cases and compelled-statement exclusions preserve the privilege before trial without necessarily deciding this damages action.
+* **Material Other Authority:** Mincey v. Arizona addresses involuntary hospital statements and exclusion. The relevant Ninth Circuit authority includes Cooper v. Dupnik; its actual rationale, material facts and 1997 notice function require consideration. A lower-court decision may bear on fair notice without binding this Court on the constitutional merits.
+* **Existing Rule's Reach:** Dickerson settles Miranda’s constitutional status but leaves the distinct cause-of-action and no-use question open. Martinez’s lack of prosecution is undisputed, not a factual gap that may be filled by hypothetical future use.
+* **Open Point:** Whether coercive questioning alone completes the particular Fifth Amendment violation claimed, or whether this injury must instead be tested under due process.
+
+##### Issue 2: Executive abuse and qualified immunity
+
+* **Controlling Law:** County of Sacramento v. Lewis requires context-sensitive conscience-shocking executive abuse. Its purpose-to-harm rule addresses a rapidly evolving high-speed chase with no practical deliberation; it does not impose that precise culpability threshold in every deliberative setting. Elder v. Holloway preserves the objective conduct-date immunity inquiry. Clanton v. Cooper’s later false-evidence holding does not retroactively establish notice for this November interrogation.
+* **Current Rule:** Identify Chavez’s own conduct, actual opportunities to deliberate, legitimate investigative needs, coercion, foreseeable injury and causal responsibility. Deliberate official exploitation of extreme distress can differ from a reasonable effort to preserve a dying witness’s account, but an unwanted question or an inadmissible answer alone does not prove constitutional abuse. Then ask whether the relevant constitutional limit was sufficiently clear in November 1997.
+* **Other Governing Law:** The Fourteenth Amendment protects against sufficiently egregious executive invasions of liberty independently of criminal prosecution. Section 1983 still requires causation and personal responsibility; qualified immunity is a separate defense to damages.
+* **Material Other Authority:** Rochin v. California and Mincey v. Arizona supply pre-conduct prohibitions relevant to coercive investigative methods, with their actual holdings and remedies respected. Harlow v. Fitzgerald and Anderson v. Creighton govern objective clarity. Lewis may organize the present merits inquiry but cannot alone establish earlier notice.
+* **Existing Rule's Reach:** No prosecution is not a blanket license for torture or abusive interrogation. Conversely, coercion sufficient for exclusion cannot automatically be equated with a damages-generating substantive-due-process violation.
+* **Open Point:** Whether the supported facts meet the appropriate constitutional culpability threshold, whether a material factual dispute prevents judgment, and whether preexisting law clearly prohibited the particular conduct.
+
+**Further controlling authority:** McKune v. Lile (June 10, 2002) forbids the substantial automatic custody penalties there imposed for refusal to make incriminating disclosures without adequate use protection; it allows prospective protection without prosecution but decides no no-use damages claim. Denius v. Dunlap (January 17, 2001) expressly retains objective conduct-date immunity and rejects a requirement of actual reliance on authorizing law. Saucier v. Katz (June 18, 2001) retains that existing defense and creates no mandatory merits-first sequence. Hope v. Pelzer (June 27, 2002) rejects an identical-facts requirement for fair warning; notice still depends on law existing at the conduct date.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Chavez argues that the Fifth Amendment’s criminal-case condition was never met, that Miranda is not an automatic civil-damages rule, and that investigation of a potentially dying witness’s account was legitimate. He emphasizes uninterrupted medical access and lack of evidence that he caused additional physical injury. Martinez argues that the privilege protects people when compelled to speak, not only after a prosecutor happens to use the words; he invokes intense pain, repeated pleas and deliberate pressure as completed constitutional injury. He independently characterizes the interrogation as abusive executive conduct. The strongest government defense distinguishes legitimate urgency from a purpose to exploit distress, while Martinez need not prove that Chavez fired the shots to challenge Chavez’s own later conduct. The lower approach risks treating evidentiary involuntariness as dispositive of both civil constitutional theories.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+The Court may reject this no-use Self-Incrimination Clause damages theory and remand the separately preserved due-process claim for its proper standard and conduct-date immunity analysis. It may sustain a broader Fifth Amendment right only by resolving the distinction between prospective protection and completed damages liability, and must still analyze immunity. A complete defense judgment requires resolving every surviving theory on the permissible record; absence of criminal use alone does not dispose of due process. If jurisdiction over a component turns solely on disputed evidence rather than a legal immunity question, that part of the interlocutory appeal cannot serve as a fact-finding trial.
+
+**Plausible Holding Scope:** A Fifth Amendment holding can be limited to this claimed completed violation where no criminal use occurred, leaving coercive penalties, compelled testimony objections and immunity protection intact. A due-process holding can distinguish independently egregious interrogation from mere inadmissibility without deciding all emergency questioning or importing the chase-specific intent rule. Neither ruling itself establishes a general civil remedy for every Miranda error.
+
+#### E. SOURCES
+
+Record and proceedings: Chavez v. Martinez, 538 U.S. 760; No. 01-1444.
+
+## 130. Cooper Industries, Inc. v. Aviall Services, Inc.
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Cooper Industries, Inc. v. Aviall Services, Inc.
+* **Citation or Docket:** 312 F.3d 677 (lower-court identifier; no historical Supreme Court docket is assigned).
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (assigned hearing order).
+* **Question Presented:** Whether a party that incurs environmental cleanup costs may seek contribution under CERCLA § 113(f)(1) without having been sued under CERCLA § 106 or § 107(a)?
+* **Question Granted:** The merits questions stated above; unpreserved or unrelated claims remain outside review.
+* **Court and Judgment Under Review:** The Fifth Circuit en banc reversed the Northern District of Texas’s summary judgment for Cooper and remanded. It construed § 113(f)(1) to permit contribution without a prior or pending federal cleanup or cost-recovery action. The district court had dismissed the federal contribution claim without prejudice and declined supplemental jurisdiction over the parties’ state-law claims.
+* **Relief Requested:** Cooper seeks reversal of the holding authorizing this § 113(f)(1) suit. Aviall seeks to pursue allocation of cleanup costs. The present question does not itself determine each party’s share, consistency of costs with the national contingency plan, independent § 107 cost recovery, state-law liability or contractual indemnification.
+* **Material Record:** Cooper sold contaminated aircraft-engine maintenance properties in Texas to Aviall, which continued operations. Both parties concede their status as potentially responsible parties and contributions to contamination. After reporting the problem, Aviall undertook cleanup under pressure from Texas regulators, including corrective-action letters and threatened enforcement. No § 106 or § 107(a) civil action was brought against Aviall, and no qualifying governmental settlement is established as the basis of this claim. State administrative pressure is not itself the specified federal civil action. Aviall incurred substantial cleanup costs and sought recovery from Cooper; notice to federal officials and national-contingency-plan compliance, including public participation, remained unresolved below.
+* **Threshold, Preservation, and Vehicle Matters:** The statutory cause of action must exist before equitable allocation occurs. The pleadings and treatment below leave a material question whether an independent § 107 claim was preserved or merged into the § 113 theory; do not deem that question resolved by the existence of an alternative label. A § 113(f)(3)(B) settlement contribution right has different predicates. The merits grant concerns § 113(f)(1), not every possible cleanup remedy.
+* **Relevant Dates:** The property transfer occurred in 1981; cleanup and cost disputes preceded this action. The en banc judgment was November 14, 2002. The organizationally assigned merits event is May 27, 2003. Later proceedings and later Supreme Court legal conclusions are not entering law or procedural premises for this event.
+* **Companion or Related Matters:** The canonical lower-court caption is Aviall Services, Inc. v. Cooper Industries, Inc. The reversed-party caption identifies the same proceeding.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** No specific pending same-term dependency is identified.
+* **Institutional or Procedural Law:** Review the legal availability of the contribution claim; conceded potentially responsible status does not dispense with the action’s statutory prerequisites or establish recoverable costs. If the chosen cause fails, remand only genuinely preserved alternatives and ordinary procedural questions rather than announcing that all voluntary cleanup is unrecoverable.
+
+##### Issue 1: The enacted contribution condition and savings clause
+
+* **Controlling Law:** Key Tronic Corp. v. United States addresses recoverable response costs and attorneys’ fees. Its holding does not decide that every potentially responsible party has an unrestricted contribution right without a predicate action. United States v. Bestfoods distinguishes direct operator responsibility from derivative parent liability; it likewise does not resolve this contribution gateway.
+* **Current Rule:** Give effect to the particular statutory action, its qualifying language and independent provisions. A savings clause can preserve otherwise existing claims without itself creating a new cause. Equitable allocation operates after the statutory entitlement exists, not as a source of jurisdiction or a substitute for enacted conditions.
+* **Other Governing Law:** Section 113(f)(1), 42 U.S.C. § 9613(f)(1), authorizes contribution during or following a § 106 or § 107(a) civil action, directs federal-law allocation, and states that the subsection does not diminish contribution rights in the absence of such an action. Section 113(f)(3)(B) separately addresses qualifying settlements; § 113(g)(3) supplies contribution limitation periods tied to judgments or settlements. Section 107(a)(4)(B) separately addresses necessary private response costs consistent with the national contingency plan.
+* **Material Other Authority:** Texas Industries, Inc. v. Radcliff Materials, Inc. and Northwest Airlines, Inc. v. Transport Workers Union caution against creating contribution rights merely because allocation seems fair. Their different statutes do not automatically resolve CERCLA’s text. The en banc opinion and its dissent present competing readings of the first and final sentences.
+* **Existing Rule's Reach:** Current CERCLA law fixes specific cost and responsibility issues but leaves this condition unresolved. The existence of the private response-cost mechanism does not itself establish the reach of § 113(f)(1).
+* **Open Point:** Whether the during-or-following language limits the statutory grant, or whether the permissive verb and savings clause make it one nonexclusive route within that same subsection; independently, whether any preserved § 107 or other claim survives.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Cooper argues that the enabling sentence’s condition must do operative work: permission to sue during or following specified litigation does not authorize the same statutory action at every other time. The savings clause preserves independent rights, and the separate settlement route reinforces the distinction. Aviall argues that ‘may’ is permissive, that the last sentence expressly preserves contribution without prior litigation, and that restricting recovery discourages prompt private cleanup while rewarding a party that waits for government suit. The en banc majority adopted that reading and treated pre-amendment practice as relevant; the dissent found it incompatible with the first sentence and settlement structure. Key Tronic’s discussion of contribution cannot enlarge the statutory holding beyond the question actually decided. Aviall’s possible independent cost-recovery theory is a material alternative, but its preservation and merits were not adequately adjudicated.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Affirmance would recognize a § 113(f)(1) contribution action without the specified prior litigation and return notice, contingency-plan compliance and allocation issues to the district court. Reversal would enforce the statutory condition and end this particular contribution theory while leaving properly preserved independent claims to ordinary adjudication. A broader ruling that all potentially responsible parties can or cannot recover under § 107 would require a properly presented question and developed preservation analysis that this record does not supply. No path justifies assigning a percentage of costs or silently converting regulatory letters into a qualifying federal action.
+
+**Plausible Holding Scope:** The direct statutory question permits a rule about when § 113(f)(1) becomes available. A restrictive reading need not extinguish § 107 cost recovery, state-law rights or qualifying-settlement contribution; an expansive reading would allow equitable allocation before federal litigation but must explain the continuing work of the express condition and neighboring provisions.
+
+#### E. SOURCES
+
+Record and proceedings: Cooper Industries, Inc. v. Aviall Services, Inc., 312 F.3d 677 (lower-court identifier; no historical Supreme Court docket is assigned).
+
+## 131. National Park Hospitality Association v. Department of the Interior
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** National Park Hospitality Association v. Department of the Interior
+* **Canonical Matter / Alias:** The lower-court litigation proceeded as Amfac Resorts, L.L.C. v. United States Department of the Interior.
+* **Citation or Docket:** 538 U.S. 803; No. 02-196
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (historical calendar placement).
+* **Question Presented:** Whether the Contract Disputes Act applies to National Park Service concession contracts, and whether a facial challenge to the Service’s contrary regulatory statement is ripe without a concrete contract dispute.
+* **Question Granted:** Whether the Contract Disputes Act applies to contracts between the National Park Service and concessioners in the national parks. Ripeness is a material antecedent question, not an additional concession-contract merits claim.
+* **Court and Judgment Under Review:** The District of Columbia Circuit affirmed a district-court judgment sustaining the challenged regulatory provision. The district court deferred to the agency’s interpretation of the Contract Disputes Act; the court of appeals instead independently agreed with its reading, recognizing the Service’s lack of CDA administrative authority.
+* **Relief Requested:** The association seeks invalidation of the regulation’s categorical exclusion of concession contracts from the CDA. The government seeks preservation of its position. A ripeness disposition would remove the premature merits judgment and preserve later contract-specific review without awarding contract damages or deciding the CDA’s coverage.
+* **Material Record:** After the 1998 National Parks Omnibus Management Act, the Service adopted concession regulations in April 2000. Section 51.3 defines concession contracts and states that they are not CDA contracts or federal service or procurement contracts. The association represents park concessioners but does not present an adjudicated dispute under a particular contract. The Service and Interior’s contract-appeals board had previously disagreed about CDA coverage. The government concedes that the Service lacks delegated CDA rulemaking power and that this statement cannot carry legislative force under that Act. The association argues that uncertainty over review procedures affects bid preparation and the economic value of concessions.
+* **Threshold, Preservation, and Vehicle Matters:** Separate standing, final agency action, ripeness and the ultimate statutory coverage question. A completed rulemaking does not by itself establish present legal hardship; conversely, a nominal policy statement that actually binds parties or forecloses a remedy cannot escape review merely through its label. The relevant asserted effect here is advance uncertainty, not an identified denied CDA claim. The record must preserve availability of CDA procedures when an actual dispute arises.
+* **Relevant Dates:** The governing concession-management statute was enacted in 1998; regulations issued April 2000; appellate judgment in 2002; argument March 4, 2003; event May 27, 2003.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** Agency-review and deference decisions do not themselves resolve whether this nonbinding concession-policy statement creates a ripe controversy.
+* **Institutional or Procedural Law:** Evaluate fitness for judicial resolution and hardship from withholding review. The CDA has its own contracting-officer, board or Court of Federal Claims, and appellate review routes. A reviewing court may resolve ripeness without authoritatively deciding every category of concession contract; identifying an agency’s lack of delegated control over another statute is not the same as deciding that statute’s application.
+
+##### Issue 1: Fitness, hardship and actual agency effect
+
+* **Controlling Law:** Ohio Forestry Association, Inc. v. Sierra Club rejects review of a programmatic forest plan where no immediate logging authorization or legal hardship existed and later implementation review remained available. Its holding does not declare every facial or purely legal challenge unripe and does not decide APA finality or standing. MCI Telecommunications Corp. v. AT&T Co. and Smiley v. Citibank require attention to actual delegated authority before deference.
+* **Current Rule:** Ask whether present resolution would benefit materially from a concrete application and whether withholding review imposes current legal consequences, compelled conduct or comparable hardship. Mere anticipatory uncertainty differs from an operative choice between costly compliance and penalties. Agencies cannot acquire binding authority over a separate statute by describing their view as a regulation.
+* **Other Governing Law:** The then-current CDA, 41 U.S.C. §§ 601–613, governs specified federal procurement contracts and prescribes dispute procedures. The 1998 park statute delegates concession-management authority, and 36 C.F.R. § 51.3 states the Service’s exclusionary position. APA review and Article III requirements remain distinct.
+* **Material Other Authority:** Abbott Laboratories v. Gardner and Toilet Goods Association, Inc. v. Gardner distinguish rules with immediate practical legal consequences from disputes improved by application. The existing contract-appeals disagreement demonstrates that the Service’s policy statement need not determine the reviewing body’s jurisdiction.
+* **Existing Rule's Reach:** Entering ripeness law supplies the framework, not a mechanical answer from the word ‘regulation.’ The stipulated absence of delegated CDA authority limits what legal force can be attributed to this provision.
+* **Open Point:** Whether bidding uncertainty and the facial legal character of the dispute suffice for present review despite no binding CDA determination; if ripe, which concession arrangements constitute covered procurement contracts.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The association argues that the exclusion is definitive, predominantly legal, and economically important when concessioners decide how much to bid. Waiting for a dispute can leave them pricing contracts without knowing their enforcement rights. It contends that concession obligations can procure services for the government and fall within the CDA’s terms. The government maintains that visitor-service concessions differ from government procurement, and that its nonbinding position does not prevent a concessioner from invoking CDA procedures later. The appellate court’s independent statutory analysis is an alternative to the district court’s deference rationale. A material counterargument to ripeness is that postponement can itself impose contractual risk; the response is that ordinary uncertainty is different from an agency presently removing legal rights or compelling regulated conduct.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+A ripeness disposition can vacate the merits judgment and direct dismissal without prejudice, leaving a particular concession dispute to the appropriate CDA pathway. If present legal hardship or a sufficiently fixed pure legal dispute is established, the Court may reach coverage through statutory construction, without assuming the Service receives deference on a statute it does not administer. A contract-specific approach may recognize that some obligations fit the CDA while others do not. The record does not support an immediate award to any concessioner, a universal waiver of contract conditions, or a ruling that the regulation conclusively controls a board or federal court.
+
+**Plausible Holding Scope:** A threshold holding can cover facial challenges to nonbinding agency views where concrete application will clarify coverage and later review remains effective. It must preserve immediate review of genuinely binding rules or present adverse legal consequences. A merits holding, if reached, would need to distinguish concession rights, visitor services and procurement obligations under the enacted CDA categories.
+
+#### E. SOURCES
+
+Record and proceedings: National Park Hospitality Association v. Department of the Interior, 538 U.S. 803; No. 02-196.
+
+## 132. Black & Decker Disability Plan v. Nord
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Black & Decker Disability Plan v. Nord
+* **Citation or Docket:** 538 U.S. 822; No. 02-469
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (historical calendar placement).
+* **Question Presented:** Whether ERISA requires a disability-plan administrator to give special deference to a claimant’s treating physicians, or to bear a special heightened burden of explanation when crediting reliable contrary medical evidence.
+* **Question Granted:** The merits questions stated above; unpreserved or unrelated claims remain outside review.
+* **Court and Judgment Under Review:** The Ninth Circuit reversed summary judgment for the plan and directed summary judgment for Nord under its treating-physician rule. The district court had found no abuse of discretion in the administrator’s denial. The disputed appellate rule, rather than an independent finding that every reasonable administrator must award benefits on this record, supplies the judgment under review.
+* **Relief Requested:** The plan seeks vacatur of the award and rejection of the mandatory medical preference. Nord seeks the disability benefits recognized by the appellate court. Rejecting the preference does not itself establish that denial was reasonable or that Nord was able to work.
+* **Material Record:** Nord worked for a Black & Decker subsidiary. Black & Decker administered the plan, with MetLife making initial claim recommendations. Nord’s treating physician and an orthopedist reported degenerative disc disease and chronic pain preventing work. A consulting neurologist examined him and concluded that medication would permit sedentary work. MetLife recommended denial, which the administrator adopted. The dispute concerns both the significance of a continuing treatment relationship and evaluation of conflicting medical opinions under the actual plan’s disability terms. The record does not justify assuming that either a treating physician or an employer-selected consultant is invariably correct or impartial.
+* **Threshold, Preservation, and Vehicle Matters:** The benefit action arises under ERISA § 502(a)(1)(B). Identify the plan’s operative definition, delegated discretion, record and applicable standard of review before weighing medical conclusions. Any conflict of interest is a relevant consideration under entering law, not a license to invent an automatic standard or presume the treating doctor wins. The granted legal issue does not invite fresh appellate medical fact-finding.
+* **Relevant Dates:** The Ninth Circuit judgment was issued in 2002; argument April 28, 2003; event May 27, 2003. Apply the claims-procedure rules actually governing this benefit determination rather than automatically importing later regulatory changes.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** This case directly presents the treating-physician preference under ERISA. Any intervening ERISA decision applies within its actual holding.
+* **Institutional or Procedural Law:** A reviewing court may reject an erroneous evidentiary rule while remanding the benefits determination under the proper plan and review standard. The Secretary of Labor’s position opposing a mandatory treating-physician rule is material, but a litigation view is not itself a newly enacted regulation. Deference to a hypothetical future regulation is not before the Court.
+
+##### Issue 1: Medical evidence under an ERISA benefit plan
+
+* **Controlling Law:** No controlling holding adopts a treating-physician preference for ERISA disability claims. Curtiss-Wright Corp. v. Schoonejongen and Lockheed Corp. v. Spink distinguish lawful sponsor design from actual administration and preserve compliance with plan and statutory duties. Their recognition of sponsor discretion does not immunize arbitrary benefit decisions.
+* **Current Rule:** Firestone Tire & Rubber Co. v. Bruch supplies de novo review of benefits denials unless the plan grants the relevant discretionary authority; an actual conflict remains a factor under discretionary review. Apply the plan’s terms and lawful review process. Reliable evidence must receive reasoned consideration without an automatic hierarchy based solely on the physician’s relationship to the claimant.
+* **Other Governing Law:** ERISA §§ 502(a)(1)(B) and 503, 29 U.S.C. §§ 1132(a)(1)(B) and 1133, provide benefits enforcement, notice and full and fair review. The applicable Labor claims-procedure regulations do not prescribe the Social Security treating-physician rule. Social Security regulations govern a distinct federal benefits system.
+* **Material Other Authority:** The Social Security rule’s expertise, continuity and administrative rationale form Nord’s analogy, not a rule incorporated into ERISA by mere similarity of the word ‘disability.’ The Secretary’s amicus position opposes imposing that rule judicially while maintaining ordinary fair-review duties.
+* **Existing Rule's Reach:** Current law preserves both plan-specific benefit terms and meaningful scrutiny of administration. It leaves open the proposed categorical physician preference; it does not settle the weight of these particular examinations or the ultimate entitlement.
+* **Open Point:** Whether ERISA itself authorizes the mandatory special-weight and special-explanation rule used below, and whether the denial survives review after that rule is removed.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Nord argues that treating physicians observe symptoms over time and are better positioned to assess persistent pain than a consultant engaged for a one-time review. He contends that requiring specific substantial reasons deters selective reliance on employer-favored evidence and makes review meaningful. The plan argues that neither ERISA’s text nor Labor regulations impose that preference, that benefit definitions vary across plans, and that treating physicians may also face pressures favoring a claimant. It seeks evaluation of all evidence under the plan’s discretion and ordinary fiduciary standards. The government opposes judicial transplantation of the Social Security rule. Neither the plan’s objection nor the government’s position permits administrators to disregard reliable evidence without a reason grounded in the record.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Affirmance would recognize the treating relationship as generating a mandatory evidentiary preference or heightened explanation requirement in ERISA adjudication and would need to justify that rule’s statutory source. Vacatur can reject the categorical preference and return the case for ordinary review of this denial, preserving the actual significance of longitudinal treatment, objective findings, pain evidence, consultant methodology and conflicts. Automatic restoration of judgment for the plan is not necessary merely because the appellate rule was erroneous. A reviewing court may still find the denial arbitrary on a properly analyzed record.
+
+**Plausible Holding Scope:** The legal issue permits rejection or adoption of a mandatory treating-physician rule for ERISA disability decisions. Rejection does not establish consultant supremacy, eliminate reason-giving, resolve every conflict-of-interest question or change Social Security adjudication. The lawful remedy separates the erroneous categorical rule from the unresolved merits of this benefit claim.
+
+#### E. SOURCES
+
+Record and proceedings: Black & Decker Disability Plan v. Nord, 538 U.S. 822; No. 02-469.
+
+## 133. Adler v. Duval County School Board
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Adler v. Duval County School Board
+* **Citation or Docket:** 250 F.3d 1330 (lower-court identifier; no historical Supreme Court docket is assigned).
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (assigned hearing order).
+* **Question Presented:** Whether a public-school policy allowing students to select a graduation speaker and permitting that student to deliver an unreviewed message, including prayer, is facially unconstitutional under the Establishment Clause?
+* **Question Granted:** The facial Establishment Clause challenge to the described graduation-message policy. The grant does not independently reopen every as-applied incident or the separate intervention dispute.
+* **Court and Judgment Under Review:** The Eleventh Circuit en banc reinstated judgment for the Duval County school authorities after reconsidering its earlier reasoning in light of Santa Fe. It treated the student’s unreviewed content and the facially unrestricted word ‘message’ as decisive evidence of private expression. The district court had consolidated preliminary-injunction and merits proceedings with the parties’ consent and entered final judgment for the school defendants.
+* **Relief Requested:** The challengers seek reversal of the facial validation and appropriate declaratory and injunctive relief. The school authorities seek to retain the policy as a protected arrangement for independent student expression. The appellate judgment did not adjudicate a developed set of post-1993 as-applied damages claims, and the present grant supplies no new damages findings.
+* **Material Record:** A May 5, 1993 memorandum replaced a prohibition on commencement prayer with guidelines permitting the senior class to decide whether to have an opening or closing message of no more than two minutes and to choose a student volunteer. The student alone chooses the content, which officials may not monitor or review. The memorandum’s heading and discussion concern graduation prayer after Lee; the parties disagree whether that context shows an official religious function or a lawful effort to accommodate private choice. The school controls the graduation ceremony. Of seventeen 1993 ceremonies in the record, ten contained religious messages and seven had secular messages or none. Those figures do not prove that every future election is a vote on prayer. The 1998 plaintiffs included graduates, parents and younger enrolled children; the record does not establish a certified class or every plaintiff’s enrollment in May 2003.
+* **Threshold, Preservation, and Vehicle Matters:** Determine on the opinion below and the record supplied whether a live, redressable claim supports prospective relief; younger-child allegations cannot be replaced with a fictional perpetual student. Distinguish the 1993 litigation, whose graduates’ equitable claims were held moot, from this 1998 action. The en banc court treated consent to Rule 65(a)(2) consolidation as limiting review to the facial claim; dissenters disputed the waiver of as-applied claims. The question is facial, so unreviewed later incidents cannot be assumed proved. The separate student-intervention ruling is not a license to add an unlisted case or expanded merits question.
+* **Relevant Dates:** Memorandum May 5, 1993; current action filed May 1998; earlier en banc opinion March 15, 2000; reviewed en banc judgment May 23, 2001; assigned event May 27, 2003. Standing and any intervening judgment must be assessed as of the date of review.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002, supplemented by Steele v. Industrial Development Board (March 3, 2003) and Commack Self-Service Kosher Meats v. Weiss (March 24, 2003).
+* **Earlier Same-Term Decisions:** Steele rejects a bond-form exemption from review of the financed function, requiring preservation of supported secular uses and correction of proved devotional financing. Commack prohibits making religious orthodoxy a civil rule or delegating compulsory civil permission to religious office, while preserving truthful consumer regulation. Neither decides attribution of a graduation message or dispenses with this case’s live-exposure requirement.
+* **Unresolved Same-Term Dependencies:** Earlier listed DeBoer v. Village of Oak Park, Altman v. Bedford Central School District and other school-expression matters could affect official attribution, private access or continuing standing if the decisions become effective before review. None currently supplies a binding same-term ruling. Santa Fe in the completed decisions remains governing.
+* **Institutional or Procedural Law:** A facial challenge can address the government-created mechanism itself without waiting for a particular delivered prayer, but neutral access does not become official worship merely because a private speaker may pray. Treat historical lower-court factual descriptions as record evidence while applying the governing attribution rule rather than treating the three historical Lemon prongs as independent requirements.
+
+##### Issue 1: Official ceremonial function and independent student expression
+
+* **Controlling Law:** Agostini v. Felton retains Lemon as one inquiry with three routes: a controlling specific prohibition or distinct doctrine, an established permissible relationship, and otherwise attribution and function for a legally sufficient unresolved allegation. Purpose, effects and entanglement are evidence within that inquiry, not independent surviving prongs. Lee v. Weisman and Ingebretsen v. Jackson Public School District prohibit official organization of school worship and separately preserve protection against substantial practical religious pressure. Tanford v. Brand establishes that independent wording does not privatize an officially arranged commencement devotional program. Steele’s actual-function approach governs its financing setting without a categorical immunity from governmental form; Commack’s civil-permission rule likewise requires identifying the particular governmental act. Those decisions do not substitute financing or religious-office predicates for the school-function inquiry here.
+* **Current Rule:** Identify what the school actually organizes, adopts or delegates. Genuine independently directed private speech and neutral forum access remain protected. Official worship is prohibited even if brief, nonsectarian, voluntarily attended or accompanied by secular purposes; mere exposure to another student’s private religious viewpoint is insufficient.
+* **Other Governing Law:** The First and Fourteenth Amendments govern public-school conduct. The actual memorandum, its placement of a representative opening or closing component, selection mechanism and ban on editorial review all matter to attribution.
+* **Material Other Authority:** Santa Fe Independent School District v. Doe directly prohibits delegating the official representative religious choice to a student majority. Its holding assumes neither official textual preapproval nor an actually delivered prayer and does not rest on finding every secular purpose a sham. Capitol Square Review and Advisory Board v. Pinette protects genuine private access, which is a different relationship.
+* **Existing Rule's Reach:** No-editing and possible secular content do not by themselves defeat attribution. Conversely, Santa Fe expressly does not prohibit every student election, graduation speaker, religious remark or secular message; whether this policy actually creates the forbidden representative religious function still requires analysis.
+* **Open Point:** Whether this unrestricted-message policy, read in its full institutional context, delegates an official religious choice or creates genuine independent student expression; and the proper scope of any facial relief.
+
+##### Issue 2: Live exposure and the limited record
+
+* **Controlling Law:** Ingebretsen permits enrolled students with supported imminent school-event exposure to challenge the mechanism prospectively. Tanford requires a concrete continuing expectation, not abstract objection or the assumption that former students remain enrolled indefinitely.
+* **Current Rule:** Identify each live claim, present exposure and available relief. A pleaded class caption is not proof of certification. Preserve the distinction between the legal policy challenge and disputed as-applied conduct, including actual injury needed for damages.
+* **Other Governing Law:** Article III, Rule 65(a)(2), ordinary injunction requirements and the actual scope of the appeal govern. Standing is prior to the merits; resolving an administrative policy’s lawfulness cannot itself manufacture a current plaintiff.
+* **Material Other Authority:** The two en banc opinions identify younger plaintiffs and the disputed consolidation consequences. They do not supply a May 2003 enrollment finding or a final damages record.
+* **Existing Rule's Reach:** The existing record supports a concrete school-policy controversy at filing; its continuation for present prospective relief is decided on the opinion below and the record supplied. The as-applied waiver dispute is not silently resolved in the challengers’ favor.
+* **Open Point:** Which plaintiffs retain redressable claims on the assigned date, and whether any relief beyond the facial mechanism is properly preserved.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The challengers argue that the school preserved its traditional invocation and benediction slots, then delegated the decision to a class majority under a prayer-focused memorandum. A ban on content editing, they contend, does not remove the school’s responsibility for that official representative function. They seek relief directed at that mechanism, not suppression of private student beliefs. The school authorities emphasize the complete freedom to choose a secular message or no message, autonomy of the elected speaker and absence of official religious screening. They warn that treating every selected speaker as the State would exclude private religious viewpoints. The en banc majority distinguished Santa Fe largely by text and review power; dissenters treated context and delegated majority control as decisive. Under current law, neither side may win simply by counting religious messages, invoking an independent Lemon purpose prong, or presuming all elections are religious plebiscites.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Which claims remain live is decided on the opinion below and the record supplied before coercive relief. On a live facial claim, affirmance is possible if the actual arrangement provides genuinely independent student expression rather than an official religious decision. Reversal is possible if the memorandum and reserved ceremonial function establish the forbidden delegation, notwithstanding no editorial review and possible silence. A limited vacatur can require application of the actual governmental-function standard where the lower categorical private-speech premise prevented the necessary inquiry. Relief must target the supported official mechanism, preserve ordinary private expression and avoid deciding waived or undeveloped individual incidents. Steele requires correction of the proved unlawful function rather than invalidation of lawful neighboring uses; Commack’s injunction remains limited to its actual mechanism and bound parties. Neither supplies standing here or an automatic nationwide school decree.
+
+**Plausible Holding Scope:** The case may clarify application of Santa Fe to a graduation-message policy whose text permits all subjects but whose institutional origin and role are disputed. A permissible holding distinguishes official delegation from genuine speaker autonomy; it need not ban graduation elections or require religious censorship. Neither a facial ruling nor a remand establishes the truth of every as-applied allegation.
+
+**Record limits:** The record does not establish current enrollment for every plaintiff or a certified class. Decide on the opinion below and the record supplied whether a live claim remains before entering merits relief on the assigned date. The current law clearly rejects the lower court’s assumption that absence of content review alone proves private expression, but it does not mechanically classify every unrestricted student message.
+
+#### E. SOURCES
+
+Record and proceedings: Adler v. Duval County School Board, 250 F.3d 1330 (lower-court identifier; no historical Supreme Court docket is assigned).
+
+## 134. Bunkley v. Florida
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Bunkley v. Florida
+* **Citation or Docket:** 538 U.S. 835; No. 02-8636
+* **October Term:** 2002
+* **Entry Stage and Event:** Certiorari petition with possible summary disposition; assess the preserved due-process question and the need for further state-court clarification.
+* **Simulated Event Date:** 2003-05-27 (historical calendar placement).
+* **Question Presented:** Whether due process permits rejection of a convicted defendant’s claim based on a later state statutory interpretation without determining whether his conduct was already outside an element of the offense when his conviction became final.
+* **Question Granted:** Petition-stage summary review of the due-process question described above; no plenary grant or argument occurred. The original petition’s complete question text is not independently authenticated.
+* **Court and Judgment Under Review:** The Florida Supreme Court affirmed denial of postconviction relief. It characterized L. B. v. State’s interpretation of the common-pocketknife exception as an evolutionary refinement that did not qualify for retroactive collateral application under Florida law. It rejected the federal due-process contention without specifying when the exception acquired the scope material to Bunkley’s knife.
+* **Relief Requested:** Bunkley seeks relief from his armed-burglary conviction and life sentence, or at least a state-law determination necessary to evaluate the federal claim. Florida seeks finality under its collateral-review rules. A remand for clarification would neither acquit him of all burglary nor automatically order release.
+* **Material Record:** Bunkley burglarized a closed, unoccupied restaurant on April 16, 1986. Officers found a folded pocketknife with a blade approximately two and one-half to three inches long in his pocket after he left. No evidence shows that he used it during the burglary or threatened anyone with it. The knife supplied the dangerous-weapon classification supporting first-degree burglary and a life sentence; without that classification the cited unarmed offense carried a five-year maximum. The conviction became final in 1989. Florida had long excluded a common pocketknife from its statutory weapon definition. In 1997, L. B. held that the knife before it, with a three-and-three-quarter-inch blade, fell within that exception, referring to an earlier attorney-general opinion. Blade length does not itself establish a universal rule for every instrument or use.
+* **Threshold, Preservation, and Vehicle Matters:** This is direct review of a state collateral judgment, not a federal § 2254 merits adjudication, so AEDPA deference is not the governing gateway. Examine whether the state judgment rests on an adequate independent procedural ground or actually passes on the federal claim. Florida’s time and retroactivity rules matter, but cannot be assumed to answer what the offense meant earlier. The State retains primary authority to define its statute; the federal issue concerns conviction without proof of its actual elements.
+* **Relevant Dates:** Conduct April 16, 1986; conviction final in 1989; L. B. decided in 1997; Florida Supreme Court postconviction judgment in 2002; merits event May 27, 2003. Fiore’s January 9, 2001 merits decision governs the missing-element claim.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** Fiore v. White, decided January 9, 2001, now establishes the missing-element due-process rule. Price v. Vincent and other earlier listed habeas matters may concern federal review standards, but this state collateral judgment presents a different procedural route; no later judgment is necessary to the missing-element analysis.
+* **Institutional or Procedural Law:** A state court’s statement that an interpretation is new ordinarily matters, but the reviewing court must determine whether the statement actually answers the material temporal question. Remand or certification can obtain that answer without federal invention of state law. If the statutory exception already covered the conduct, the constitutional issue differs from retroactive application of a genuinely new rule.
+
+##### Issue 1: Offense elements and temporal state-law meaning
+
+* **Controlling Law:** Fiore v. White first certified the temporal state-law question in 1999 and, on January 9, 2001, held that a conviction violates due process when the authoritative account of existing state law identifies a necessary element the State conceded it did not prove. Fiore decides no retroactivity rule for genuinely new constructions.
+* **Current Rule:** Identify the offense’s actual elements at the material time, obtain authoritative state-law clarification when genuinely missing, and keep interpretation distinct from change. In re Winship requires proof beyond a reasonable doubt of every element; Jackson v. Virginia protects against a conviction unsupported under the governing substantive elements. A later label does not supply a missing element or a definitive earlier statutory meaning.
+* **Other Governing Law:** The Fourteenth Amendment; Florida’s burglary and weapon statutes, including the common-pocketknife exception; Florida Rule of Criminal Procedure 3.850 and the State’s collateral retroactivity doctrine. The unchanged statutory language is evidence relevant to interpretation, not conclusive proof that every later judicial formulation was always the law.
+* **Material Other Authority:** L. B. v. State is authoritative on the state statutory question it actually decided. The Florida Supreme Court’s postconviction majority and dissent disagree over whether describing gradual doctrinal evolution adequately resolves Bunkley’s preexisting entitlement.
+* **Existing Rule's Reach:** The need to identify contemporaneous elements is established, and Fiore supplies a procedural model for obtaining the missing state-law answer. Neither source predetermines the answer for this knife or requires every favorable later construction to reopen every final conviction.
+* **Open Point:** Whether the common-pocketknife exception already encompassed Bunkley’s knife at the relevant earlier time; if it did, the consequence for the armed offense; if it did not, the distinct question of retroactivity remains.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Bunkley argues that L. B. interpreted language unchanged for decades, used a much earlier attorney-general opinion and treated an even longer ordinary pocketknife as within the exception. He says his life sentence cannot rest on an element the State’s own law did not supply. Florida argues that L. B. changed or refined the law after finality and that its collateral rules do not reopen ordinary evolutionary developments. It also invokes finality and prior litigation of the knife issue. The state dissent objected that the majority identified no stages showing when the relevant exception emerged. The strongest threshold defense is a genuinely independent procedural bar; the strongest response is that the judgment actually considered the federal question and left its necessary state-law premise unresolved. Neither side can replace that inquiry with the bare word ‘retroactivity.’
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+The Court may vacate and remand for an authoritative determination of the exception’s earlier scope, leaving ultimate constitutional relief pending that answer. It may affirm if the state court has already conclusively and adequately determined that the relevant interpretation postdated Bunkley’s conviction, subject to any properly presented independent retroactivity question. A valid independent state procedural ground may limit review, but it must actually support the judgment rather than be invented. Immediate reversal of the armed conviction would require a sufficiently definitive state-law answer not supplied by the current record. No path supports treating a life sentence as harmless merely because some unarmed burglary occurred.
+
+**Plausible Holding Scope:** A clarification holding can require resolution of the substantive temporal premise before treating an element-proof claim as only a demand for a new rule’s retroactive benefit. It need not announce universal retroactivity, federalize state offense definitions, invalidate all knife enhancements or decide the unarmed conviction’s ultimate disposition.
+
+#### E. SOURCES
+
+Record and proceedings: Bunkley v. Florida, 538 U.S. 835; No. 02-8636.
+
+## 135. Lerman v. Board of Elections in the City of New York
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Lerman v. Board of Elections in the City of New York
+* **Citation or Docket:** 232 F.3d 135 (lower-court identifier; no historical Supreme Court docket is assigned).
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-05-27 (assigned hearing order).
+* **Question Presented:** Whether New York’s requirement that a petition witness who is not a notary public or commissioner of deeds reside within the electoral district violates the First and Fourteenth Amendments?
+* **Question Granted:** The merits questions stated above; unpreserved or unrelated claims remain outside review.
+* **Court and Judgment Under Review:** The Second Circuit reversed the Eastern District of New York’s Rule 12(b)(6) dismissal and remanded with instructions to enter judgment consistent with facial invalidation of the district-residence condition. It found a severe burden on petition circulation and association without an adequate relationship to the asserted interests. The district court had characterized candidate petitioning as ordinary ballot mechanics and upheld the restriction.
+* **Relief Requested:** The election defendants seek reversal of the constitutional ruling. Lerman and D’Angelo seek preservation of declaratory and appropriate prospective relief against this condition. They do not seek to invalidate all petition qualifications, give nonresidents a vote in the district or obtain a judicially fabricated 1999 election result.
+* **Material Record:** Lerman lived in New York City’s 49th Council District and witnessed fifty-eight signatures for John Sollazo’s Independence Party candidacy in the neighboring 50th District. He needed thirty-eight valid signatures, five percent of the district’s 760 registered party members. The board invalidated the signatures solely because Lerman lived outside the district and was neither a notary nor a commissioner of deeds. D’Angelo was a district voter who signed. The September 14, 1999 primary occurred without Sollazo’s name. The law separately required party enrollment and New York voter qualification and permitted notaries and commissioners to witness without the challenged district residence. The boards had statewide subpoena power and received witnesses’ addresses.
+* **Threshold, Preservation, and Vehicle Matters:** Lerman asserts her own speech and associational injury, not merely an outsider’s objection to a district’s elected representation. The expired primary does not end a properly supported controversy capable of repetition yet evading review; the appellate record identifies a reasonable expectation of repeat exposure for these plaintiffs. Continued operation of the condition and that premise are decided on the opinion below and the record supplied before prospective relief at the assigned date. The pleadings control on dismissal. A separate argument based on the boards’ stipulation in Molinari was raised but not decided; the candidate is not added as a separately briefed matter.
+* **Relevant Dates:** Signatures invalidated August 3, 1999; dismissal September 3; primary September 14; Second Circuit judgment November 9, 2000; assigned event May 27, 2003. A new candidacy or 2003 petition drive is not invented.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** Cartwright v. Barnes could affect the treatment of candidate qualification or nomination rules if an earlier decision becomes effective. It does not automatically decide the distinct speech rights of circulators.
+* **Institutional or Procedural Law:** Assess actual burden in the full petition system, then the strength and fit of the asserted interests. Facial relief must be justified by the challenged residence condition’s operative sweep and preserve unchallenged requirements. Jurisdiction is not assumed merely to resolve the merits adversely to a plaintiff.
+
+##### Issue 1: Petition circulation and district boundaries
+
+* **Controlling Law:** Buckley v. American Constitutional Law Foundation, Inc. invalidates the registered-voter requirement for the resident eligible circulators before it and preserves Meyer v. Grant’s protection for interactive political petitioning. Its majority opinion does not hold every election regulation subject to strict scrutiny and expressly leaves other residence and qualification questions outside its decided scope. The Anderson and Burdick framework survives.
+* **Current Rule:** Determine the character and magnitude of burdens on speech, association and ballot access. Severe restrictions require narrow tailoring to a compelling interest; reasonable nondiscriminatory mechanics can be justified by important regulatory interests. A genuine factual connection matters, and availability of other more burdensome speech channels does not erase the restriction at issue.
+* **Other Governing Law:** The First and Fourteenth Amendments; New York Election Law §§ 6-132(2) and (3), 6-136 and the statewide subpoena authority in § 3-218(1), in their versions governing the challenged action. Witness status is distinct from the district-voter signatures needed to demonstrate support.
+* **Material Other Authority:** Meyer v. Grant identifies petition circulation as interactive political expression. Anderson v. Celebrezze and Burdick v. Takushi preserve context-sensitive election regulation. First Amendment overbreadth principles permit a proper facial challenge where unlawful speech restrictions are substantial relative to legitimate applications; standing and merits remain separate.
+* **Existing Rule's Reach:** Entering law protects the activity but does not already decide this district-residence condition. The candidate context does not by itself eliminate expressive activity or establish a minimal burden. Statewide residence, party enrollment and voter qualification are not independently challenged.
+* **Open Point:** Whether excluding otherwise eligible in-state circulators by district residence is sufficiently fitted to fraud prevention, local support and election administration; whether the record supports relief against the condition on its face.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The election defendants argue that local witnesses are more accountable, familiar with district voters and boundaries, and connected to the constituency that must demonstrate support and bear the consequences of a primary. They emphasize that Lerman remains free to speak and that notaries provide an alternative witness route. The plaintiffs answer that excluding most willing party members sharply reduces useful petitioning assistance, that statewide subpoenas and address affidavits already secure accountability, and that signatures of qualified district voters establish local support regardless of the witness’s home. The notary exception undermines any claim that district membership itself is indispensable. They also invoke the boards’ prior litigation stipulation; defendants dispute its preclusive scope. That collateral issue is unnecessary if the constitutional claim is resolved on its own merits.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Affirmance may sustain facial relief against the district-residence condition because it substantially restricts protected petitioning without the required fit, while preserving other qualifications. A narrower as-applied ruling could protect these in-state plaintiffs if a genuine valid application prevents broader relief. Reversal would require a supported lower-burden classification and sufficient justification, or a concrete jurisdictional defect; the mere fact of candidate rather than initiative petitioning is insufficient. A remand for evidence would be material only if a plausible unresolved factual justification could affect the analysis, not to invite hypothetical interests after the existing grounds fail. The completed 1999 election need not be rerun to afford prospective relief.
+
+**Plausible Holding Scope:** The case can decide the local-district witness restriction without invalidating voter-residence rules, district-signature thresholds, party membership, New York residence, affidavit requirements or professional witness alternatives. Facial relief concerns the separable condition that excludes otherwise qualified circulators because they live across a district boundary.
+
+#### E. SOURCES
+
+Record and proceedings: Lerman v. Board of Elections in the City of New York, 232 F.3d 135 (lower-court identifier; no historical Supreme Court docket is assigned).
+
+## 136. Duncan v. General Motors Corp.
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Duncan v. General Motors Corp.
+
+* **Citation or Docket:** 300 F.3d 928
+
+* **October Term:** 2002
+
+* **Entry Stage and Event:** MERITS. Review of the reported judgment on the preserved federal questions.
+
+* **Simulated Event Date:** 2003-05-27 (organizationally assigned within the OT2002 calendar; not a historical Supreme Court decision date).
+
+* **Question Presented:** Whether evidence of an unwanted sexual proposition, repeated touching, sexually explicit workplace material, and sex-based humiliation permits a reasonable jury to find a hostile work environment under Title VII when considered cumulatively? Whether an employee establishes constructive discharge by resigning after prolonged harassment but before allowing the employer a reasonable opportunity to complete its investigation and implement corrective measures?
+
+* **Question Granted:** The stated federal questions define the counterfactual merits review. They are issue summaries, not a transcription of a historical Supreme Court grant.
+
+* **Court and Judgment Under Review:** The Eighth Circuit reversed denial of General Motors' posttrial Rule 50 motion and required judgment for GM on hostile environment and constructive discharge; it also vacated posttrial attorney fees. A jury had awarded Duncan $700,000 for emotional distress on harassment, $300,000 on constructive discharge and $4,600 backpay. The action included Title VII and Missouri Human Rights Act claims, analyzed together below. The federal questions and the consequences for that mixed judgment are under review.
+
+* **Relief Requested:** Duncan seeks reversal of the appellate sufficiency rulings and preservation of the jury's findings and recoverable relief. GM seeks judgment as a matter of law, alternatively consideration of its preserved new-trial and other arguments. The College, with which Duncan settled before trial, is not a defendant to be restored by this review.
+
+* **Material Record:** The College placed Duncan at GM's plant as a technical training clerk from August 1994 to May 1997. GM employee and union training coordinator Booth propositioned her shortly after she started; he apologized after rejection and made no further proposition. She described increased criticism afterward, four or five unnecessary touches of her hand, work on a computer showing a nude screensaver, sexual novelty objects, a requirement to draw a sexualized planter when she sought an illustrator opportunity, and a public poster naming her president of a Man Hater's Club. On May 5, 1997, Booth asked her to type sexist club beliefs, including opposition to women's voting. She refused and resigned two days later. Some criticism also reached men; the jury could nonetheless find sex-directed targeting. She had repeatedly complained to her College supervisor, producing temporary improvement. After the April 1 complaint to responsible GM management, the personnel director removed the planter and initiated an EEO inquiry. Duncan agreed to supply a written account but resigned before doing so and before the proposed measures were implemented. She declined a College offer to transfer to another location.
+
+* **Threshold, Preservation, and Vehicle Matters:** GM's status as Duncan's statutory employer was expressly assumed, not decided, by the appellate court. That preserved coverage question and other unaddressed appellate grounds prevent automatic restoration of the entire award. The opinion notes that Duncan did not address objective severity in her appellate brief but nevertheless decides sufficiency; no separate forfeiture judgment follows from that omission. Rule 50 preservation and independent new-trial grounds retain their actual record limits. The state statute's scope and remedy must be addressed under state law, not assumed to change automatically with a federal holding.
+
+* **Relevant Dates:** Duncan resigned in May 1997, filed her EEOC charge October 30, 1997 and received a right-to-sue notice April 17, 1998. The reported appellate judgment issued August 22, 2002. The assigned event is May 27, 2003; the later Supreme Court order is described separately in Section III.
+
+* **Companion or Related Matters:** No additional companion is separately briefed.
+
+* **Participation Matter:** No case-specific recusal or nonparticipation is identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current-Through Baseline:** Governing decisions through June 28, 2002. No undecided same-term position supplies precedent.
+
+* **Earlier Same-Term Decisions:** None is assumed merely from preparation or placement of another brief.
+
+* **Unresolved Same-Term Dependencies:** No undecided companion supplies a controlling rule.
+
+* **Institutional or Procedural Law:** Reeves v. Sanderson Plumbing Products, Inc. requires whole-record Rule 50 review with reasonable inferences for the verdict winner and without credibility choices or evidence weighing. It preserves lawful sufficiency review and genuinely independent new-trial grounds. Whether GM is a covered employer, whether Booth's conduct is attributable to it, and whether damages are authorized are distinct from objective hostility.
+
+##### Issue 1: Cumulative hostility and the jury's verdict
+
+* **Controlling Law:** Harris v. Forklift Systems, Inc. requires objectively and subjectively abusive conditions sufficiently severe or pervasive, judged in all circumstances, without a mandatory injury, diagnosis or productivity-loss prerequisite. Oncale v. Sundowner Offshore Services, Inc. retains the separate because-of-sex requirement. DeAngelis v. El Paso Municipal Police Officers' Association demonstrates that an offensive verdict record can be legally insufficient without creating categorical immunity for particular forms of harassment. Reeves v. Sanderson Plumbing Products, Inc. controls Rule 50 review.
+
+* **Current Reusable Doctrine:** Frequency, severity, physical threat or humiliation and interference inform the totality; none is indispensable. Courts may reject an unreasonable verdict but cannot replace a reasonable cumulative inference with their preferred evaluation of isolated incidents.
+
+* **Other Governing Law:** Title VII §703(a)(1), Rule 50 and the Civil Rights Act of 1991's applicable remedies and jury provisions. The Missouri claims retain their own enacted coverage and remedial limits.
+
+* **Material Other Authority:** The circuit's comparisons to other harassment decisions and Arnold's dissent supply adversarial applications. They do not replace the governing totality rule with a catalogue of minimum incidents.
+
+* **Existing Rule’s Reach:** The current standard permits review of legal sufficiency and protects reasonable jury inferences simultaneously. It does not require that harassment resemble the worst previously litigated conduct.
+
+* **Open Point:** Whether the sexualized assignments, personal targeting and repeated humiliation permit a reasonable abusive-environment finding even though several incidents were separated in time and some conduct also affected men.
+
+##### Issue 2: Constructive discharge and a meaningful corrective opportunity
+
+* **Controlling Law:** Harris and Oncale expressly leave constructive discharge unresolved. Faragher v. City of Boca Raton and Burlington Industries, Inc. v. Ellerth govern actual-authority attribution and reject policy knowledge or nonreporting alone as a complete defense; they do not equate a hostile environment with a compelled resignation or establish a universal complaint duty.
+
+* **Current Reusable Doctrine:** The claim of employer-caused resignation requires a separate analysis from harassment. The circuit requires objectively intolerable conditions compelling a reasonable employee to quit, employer intent or reasonable foreseeability, and consideration of realistic corrective alternatives.
+
+* **Other Governing Law:** Title VII's discrimination and remedial provisions supply the statutory setting. The reported circuit standard is lower-court doctrine, not an established Supreme Court constructive-discharge test.
+
+* **Material Other Authority:** Summit v. S-B Power Tool and Phillips v. Taco Bell Corp. articulate the circuit's reasonable-opportunity and intent-or-foreseeability requirements as discussed in the reported decision. Later Supreme Court constructive-discharge law is not used.
+
+* **Existing Rule’s Reach:** Existing law permits compensation for an independently established hostile environment without treating every departure as a discharge. It supplies no categorical immunity whenever an investigation is pending.
+
+* **Open Point:** Whether these facts support a compelled resignation when GM had begun corrective action, Duncan had not completed her agreed account and another location was offered; how those facts differ from danger, futility or indefinite delay.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+* **Reasoning Below:** The majority accepted sufficient sex-based causation but found the conduct, even aggregated, below the objective hostility threshold. It separately found no objectively compelled resignation and no reasonable opportunity for GM to finish corrective efforts. It assumed employer status and left other arguments unresolved. Arnold's dissent emphasized targeted sexualized assignments, the escalation after rejection and the jury's reasonable cumulative assessment; he opposed both sufficiency dispositions.
+
+* **Petitioner or Appellant:** Duncan argues that the proposition, touches, degrading poster and sexualized work tasks formed a continuing course affecting her duties and prospects, rather than isolated jokes. Her repeated complaints and continued abuse permitted the jury to regard further endurance as unreasonable. A jury could consider the final May demand in light of years of prior conduct, not as the beginning of the dispute.
+
+* **Respondent or Appellee:** GM emphasizes the single discontinued proposition, infrequent brief contact, ordinary criticism also directed at men and the distinction between offense and altered employment conditions. It argues that resignation preceded a fair corrective chance after responsible management learned the problem, especially because Duncan did not supply her promised statement or accept transfer. GM also preserves its disputed employer status and unaddressed trial and remedy challenges.
+
+* **Alternatives and Limiting Principles:** Sustain the harassment sufficiency finding while separately rejecting constructive discharge; or find both jury conclusions reasonable; or affirm both Rule 50 rulings. The law need not require employees to remain in danger, endure futile procedures or wait indefinitely. Equally, a hostile-environment finding does not automatically establish intolerability compelling resignation. Coverage, attribution, state-law consequences and damages remain independently necessary.
+
+* **Solicitor General or Amicus Position:** NOW Legal Defense and Education Fund's March 17, 2003 brief argued that appellate substitution of factual judgment for reasonable harassment verdicts undermines the statutory jury role. This is an advocacy position, not a record finding that every such claim must reach a jury or survive Rule 50.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+* **Threshold Paths:** Resolve the identified threshold objections before any merits ruling; if none succeeds, reach only the preserved questions.
+
+* **Merits Paths, Judgment, and Remedy:** Affirm both rulings and leave judgment for GM, or reverse one or both sufficiency rulings and remand for genuinely preserved independent grounds. A harassment-only reversal cannot revive the constructive-discharge award by relabeling it. The verdict's separate emotional-distress allocations aid claim-specific treatment but do not establish statutory coverage, lawful amounts, backpay causation or complete severability. Fees must follow the ultimately sustainable judgment.
+
+* **Plausible Holding Scope:** Apply the existing totality and Rule 50 standards to the supported record; separately resolve the reasonable-opportunity component of constructive discharge without creating a general investigation safe harbor or universal reporting prerequisite.
+
+* **Material Uncertainty:** The reported judicial record supports the stated factual account; unproduced filings supply no additional findings.
+
+#### E. SOURCES
+
+* Reported opinion, verdict allocations, response chronology, unresolved employer status and dissent.
+
+* NOW Legal Defense and Education Fund's March 17, 2003 amicus brief, for its stated litigation position.
+
+* Historical April 21, 2003 Supreme Court order list, for Section III only.
+
+## 137. Beneficial National Bank v. Anderson
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Beneficial National Bank v. Anderson
+* **Citation or Docket:** 539 U.S. 1; No. 02-306
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-06-02 (historical calendar placement).
+* **Question Presented:** Whether state-law usury claims against a national bank arise under federal law for removal purposes because §§ 85 and 86 of the National Bank Act provide the exclusive substantive rule and cause of action for the alleged overcharge.
+* **Question Granted:** The merits questions stated above; unpreserved or unrelated claims remain outside review.
+* **Court and Judgment Under Review:** On a certified interlocutory appeal, the Eleventh Circuit reversed the Middle District of Alabama’s refusal to remand. It held that the complaint pleaded only state claims and that the National Bank Act lacked a sufficiently clear congressional intent to permit removal. The district court had accepted complete preemption as the federal jurisdictional basis.
+* **Relief Requested:** The bank and loan arrangers seek to retain the action in federal court. The borrowers seek return to Alabama state court. The dispute concerns forum and the legal character of the usury claim, not whether the charged interest was lawful or what damages may ultimately be recovered.
+* **Material Record:** Twenty-six taxpayers obtained short-term loans from Beneficial National Bank secured by anticipated tax refunds. They sued the bank and two entities that arranged the loans in Alabama court, seeking compensatory and punitive damages on several theories, including common-law and statutory usury. Their complaint referred to no federal law. Defendants removed on the premise that federal banking law exclusively governed the challenged interest and supplied the only usury remedy. The bank’s national charter is material and undisputed in the presented record; the identity and conduct of nonbank arrangers do not automatically place every claim against them within federal banking law.
+* **Threshold, Preservation, and Vehicle Matters:** Removal requires original federal jurisdiction and compliance with the removal statute. A federal defense, even a dispositive preemption defense, ordinarily does not appear on the well-pleaded complaint. Complete preemption is different only where Congress has displaced the state cause with the exclusive federal action. Do not equate broad banking regulation with field immunity, or treat the bank’s assertion that its rates comply with federal law as a merits finding. Separate treatment of other claims and defendants follows the actual jurisdictional and supplemental-jurisdiction rules.
+* **Relevant Dates:** The Eleventh Circuit decided the certified appeal in 2002; argument April 30, 2003; event June 2, 2003. The National Bank Act’s enactment preceded the modern general removal statute, a point material to the parties’ congressional-intent arguments.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002, supplemented by Syngenta Crop Protection v. Henson (November 5, 2002).
+* **Earlier Same-Term Decisions:** Syngenta holds that All Writs and ancillary-enforcement theories cannot remove an action without independent original jurisdiction, even when a federal settlement supplies a conclusive defense or a strong enforcement interest. Lawfully sourced enforcement remains available. It does not decide whether §§85 and86 create an exclusive federal replacement action sufficient for original jurisdiction.
+* **Unresolved Same-Term Dependencies:** Breuer v. Jim’s Concrete of Brevard, Inc. concerns an express-removal-exception argument; Jinks v. Richland County concerns supplemental claims and tolling. Any intervening decision governs only within its holding and procedural scope.
+* **Institutional or Procedural Law:** The § 1292(b) appeal presents the jurisdictional question before trial. A jurisdictional ruling neither determines excessive interest nor awards the federal remedy. If removal was proper, ordinary federal pleading and claim-processing rules govern any necessary clarification; no automatic merits dismissal follows from the complaint’s state-law labels.
+
+##### Issue 1: Exclusive federal action versus a federal defense
+
+* **Controlling Law:** Rivet v. Regions Bank of Louisiana preserves the well-pleaded-complaint rule and rejects removal based merely on federal claim preclusion. It expressly distinguishes complete statutory preemption: Congress must displace the state claim with the exclusive federal cause supplying its legal character. Syngenta confirms that enforcement importance and a conclusive federal defense cannot independently supply original jurisdiction; the asserted exclusive replacement cause here must therefore be evaluated under the complete-preemption doctrine, not ancillary authority. Smiley v. Citibank defines and applies federal interest classification within § 85 but reserves separate § 86 remedial predicates and rejects blanket displacement of compatible state law.
+* **Current Rule:** Determine whether federal law merely defeats the state claim or supplies its exclusive cause of action. The former is a defense; the latter can establish federal character despite state labels. The national-bank status of a party or the importance of uniformity alone does not satisfy that distinction.
+* **Other Governing Law:** 28 U.S.C. §§ 1331 and 1441; 12 U.S.C. § 85’s interest limits and § 86’s remedy for knowing excessive-interest charges, including the distinct forfeiture and paid-interest recovery rules and the enacted limitation period. The question concerns actual usury, not every tort related to a loan.
+* **Material Other Authority:** Avco Corp. v. Machinists and Metropolitan Life Insurance Co. v. Taylor recognize complete preemption where an exclusive federal cause replaces the pleaded state action. Farmers’ and Mechanics’ National Bank v. Dearing and related longstanding banking decisions address exclusivity of the usury remedy. Franchise Tax Board v. Construction Laborers Vacation Trust preserves the ordinary defense rule.
+* **Existing Rule's Reach:** The existing complete-preemption framework governs, and Smiley confirms the federal substantive interest regime. Neither holding independently decides removal of this National Bank Act claim. Compatible formation, disclosure, contract and consumer-protection duties are not automatically usury claims.
+* **Open Point:** Whether §§ 85 and 86 supply the exclusive replacement cause described in Rivet, and whether the Court should qualify that complete-preemption formulation by demanding a separately demonstrated congressional design for forum conversion.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+The bank argues that § 86 is the exclusive action for usury against a national bank, with federal limits, procedures and remedies, so the borrowers cannot change the action’s legal character by pleading Alabama labels. It distinguishes removal from winning its defense that the rates were lawful. The borrowers argue that their complaint seeks state-law relief, that preemption ordinarily belongs in state court as a defense, and that the Act contains no express removal authorization comparable to legislative signals emphasized in other complete-preemption cases. The lower majority found insufficient specific congressional intent to remove; the contrary position treats an exclusive federal replacement cause as sufficient under the general removal statute. The United States supports removal for this usury claim. Neither side can responsibly treat all misrepresentation or contract allegations against a bank as necessarily identical to excessive-interest claims.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Reversal can hold that the expressly pleaded usury theories necessarily invoke § 86’s exclusive federal action, making removal proper under § 1441, and return the case for adjudication without deciding the rates. Affirmance can require a more specific jurisdictional congressional instruction and leave the bank’s substantive preemption defense for state court. A record-dependent narrower path might require identifying whether the allegedly unlawful charge is actually interest or whether the entity is a national bank, but those are not disputed gateway uncertainties presented here. Other claims require their own relation to the federal anchor rather than automatic conversion into banking causes. Syngenta forecloses using a federal enforcement interest or an All Writs theory to bypass failure of that original-jurisdiction anchor; it does not foreclose a properly established replacement cause under §§1331 and1441.
+
+**Plausible Holding Scope:** The decision may apply complete preemption to claims seeking relief for usurious interest charged by a national bank under §§ 85 and 86. It need not establish general national-bank field preemption, exclusive federal adjudication of every bank dispute, immunity for loan arrangers or legality of the challenged rates. State courts’ ability to adjudicate federal rights is distinct from the defendant’s authorized removal option.
+
+#### E. SOURCES
+
+Record and proceedings: Beneficial National Bank v. Anderson, 539 U.S. 1; No. 02-306.
+
+## 138. Dastar Corp. v. Twentieth Century Fox Film Corp.
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Dastar Corp. v. Twentieth Century Fox Film Corp.
+* **Citation or Docket:** 539 U.S. 23; No. 02-428
+* **October Term:** 2002
+* **Entry Stage and Event:** MERITS; review of the identified judgment on the presented questions.
+* **Simulated Event Date:** 2003-06-02 (historical calendar placement).
+* **Question Presented:** Whether Section 43(a) of the Lanham Act reaches uncredited copying of a work in the public domain even without a likelihood of consumer confusion, including the reverse-passing-off theory asserted here; and whether Section 1117(a) permits doubling a profits award for deterrence if liability exists.
+* **Question Granted:** The two questions concerning uncredited copying without likely confusion and deterrence-based enhancement of profits. The underlying book-copyright claim is outside the grant.
+* **Court and Judgment Under Review:** The Ninth Circuit affirmed Lanham Act liability and an award of twice Dastar’s profits, reasoning that substantial bodily appropriation of the television series without attribution established reverse passing off. It separately reversed summary judgment on the underlying book-copyright claim and remanded that claim. The district court had treated the Lanham Act ruling as controlling its state unfair-competition ruling; the appellate opinion did not separately resolve that state claim.
+* **Relief Requested:** Dastar seeks reversal of Lanham Act liability and the dependent profits award. The distributors seek to retain the attribution-based judgment and enhanced recovery. The copyright and state-law components must remain distinct; defeating the federal attribution theory does not establish that every use of the underlying book is lawful.
+* **Material Record:** Fox arranged production of a television series based on Eisenhower’s Crusade in Europe. The series’ copyright expired in 1977, while separate rights in the book remained disputed in the litigation. Respondents later distributed restored videos of the series. Dastar acquired copies of the original public-domain series, edited and shortened the material, added new sequences and packaging, and manufactured its own World War II Campaigns in Europe sets. Its packaging and credits identified its own production and distribution operation and omitted credit to the earlier series. It did not merely buy respondents’ finished videotapes and remove their labels. The challenged federal theory treats the earlier expressive content as the relevant origin, rather than identifying who manufactured the physical sets sold.
+* **Threshold, Preservation, and Vehicle Matters:** Identify the precise § 43(a)(1)(A) origin theory before treating alleged plagiarism as trademark infringement. Distinguish the producer of physical goods, the author of incorporated expression, sponsorship or approval, and separately pleaded false advertising under § 43(a)(1)(B). The grant does not permit resolution of disputed book-copyright renewal or ownership. The enhancement question matters only if a valid Lanham Act liability basis survives.
+* **Relevant Dates:** Book publication in 1948; television broadcast in 1949; series copyright expiration in 1977; respondents’ video-distribution arrangement in 1988; Dastar release in 1995; action filed in 1998; appellate judgment in 2002; argument April 2, 2003; event June 2, 2003.
+* **Companion or Related Matters:** No separate companion proceeding requires disposition.
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+* **Unresolved Same-Term Dependencies:** Any intervening Eldred holding must be applied within its copyright scope. Moseley v. V Secret Catalogue, Inc. concerns a distinct trademark remedy; neither question itself resolves authorship attribution under § 43(a).
+* **Institutional or Procedural Law:** Review the statutory meaning and summary-judgment theory without inventing consumer evidence or deciding an unpresented advertising claim. If the sole federal basis fails, vacate relief dependent on it and separate any independently sustainable copyright or state-law component. A remedy cannot survive merely because the conduct seems unattractive apart from the enacted cause of action.
+
+##### Issue 1: Origin of goods and ownership of expression
+
+* **Controlling Law:** Wal-Mart Stores, Inc. v. Samara Brothers, Inc. requires acquired source significance for product-design trade dress and keeps source identification, nonfunctionality and confusion distinct. Its judgment carefully separates dependent Lanham Act relief from independent copyright and state-law claims. Two Pesos, Inc. v. Taco Cabana, Inc. and Qualitex Co. v. Jacobson Products Co. preserve qualifying source protection without creating ownership of all useful or expressive features.
+* **Current Rule:** Identify the statutory interest and conduct the cause of action actually reaches. Source-confusion protection does not itself create perpetual control over a work’s expressive content. Copying and a failure to credit may be relevant facts, but do not automatically prove a false representation of the legally relevant source.
+* **Other Governing Law:** 15 U.S.C. § 1125(a)(1)(A) addresses likely confusion concerning origin, affiliation, sponsorship or approval of goods, services and commercial activities. Section 1125(a)(1)(B) separately addresses specified commercial misrepresentations. Copyright law and the Visual Artists Rights Act provide their own rights, terms and limits; public-domain status of the series does not necessarily extinguish a valid underlying book copyright.
+* **Material Other Authority:** Sears, Roebuck & Co. v. Stiffel Co., Compco Corp. v. Day-Brite Lighting, Inc. and Bonito Boats, Inc. v. Thunder Craft Boats, Inc. recognize limits on using adjacent law to recreate exclusive rights outside the intellectual-property scheme, while preserving legitimate prevention of source deception. The lower ‘bodily appropriation’ theory is the rule under review.
+* **Existing Rule's Reach:** Entering law protects genuine source-identifying interests and preserves independent statutory regimes. It does not already decide whether ‘origin’ of these goods includes every creator of incorporated communicative content.
+* **Open Point:** Whether § 43(a)(1)(A) reaches the omitted authorship credit here, and how to distinguish actual relabeling of another producer’s physical goods from manufacture using copied expression.
+
+##### Issue 2: Enhanced profits and dependent relief
+
+* **Controlling Law:** No controlling holding decides the precise deterrence-only doubling question. Wal-Mart Stores, Inc. v. Samara Brothers, Inc. requires separation of remedies according to their lawful surviving bases rather than preservation of an award resting on a rejected theory.
+* **Current Rule:** Liability is antecedent to relief. Apply the enacted profit-adjustment authority, equitable considerations and compensation-versus-penalty limitation to a valid claim; do not create a punitive award simply from disapproval of the defendant. Avoid deciding a contingent remedy question unnecessary after the liability theory fails.
+* **Other Governing Law:** Section 1117(a) permits appropriate recovery and adjustment of profits within its terms and specifies compensation rather than a penalty. The district court doubled the profits award to deter future conduct, making the stated rationale material if federal liability remains.
+* **Material Other Authority:** The district and appellate judgments identify the award and its rationale. This is not a copyright statutory-damages or constitutional punitive-damages proceeding.
+* **Existing Rule's Reach:** The existing dependent-relief principle controls whether the award can survive loss of its sole federal ground. The permissible role of deterrence in adjusting a valid award remains a distinct question.
+* **Open Point:** If liability survives, whether deterrence alone supplies a lawful basis for doubling, or whether a compensatory equitable justification must support the adjustment.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Dastar argues that it manufactured the physical video sets and accurately identified that producer, while the television expression had entered the public domain. Requiring authorship credit through ‘origin’ would create a potentially perpetual copyright substitute and uncertainty about how far back through a work’s contributors attribution must extend. Respondents argue that consumers of communicative goods care who created their content and that Dastar’s wholesale copying and replacement credits falsely claim creative origin. They seek to distinguish copying with proper attribution from passing off another’s expressive product. The United States supports the narrower statutory source meaning. On relief, Dastar invokes the statutory ban on penalties; respondents defend equitable discretion and deterrence against deliberate misappropriation. The preserved book-copyright dispute prevents either side from treating the series’ public-domain status as dispositive of every intellectual-property claim.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+Reversal can construe ‘origin of goods’ as the source of the tangible products sold, reject this omitted-authorship theory and vacate the dependent profits award without reaching doubling. Affirmance could extend origin to creative authorship of communicative goods, but must define the boundary with copyright and address the enhancement question independently. Even under the narrower reading, actual relabeling of another manufacturer’s goods, false sponsorship or properly pleaded misleading commercial claims may remain actionable on their own predicates. Remand must disentangle the unresolved book copyright and state-law judgment; no unpleaded alternative can be deemed established to preserve the award.
+
+**Plausible Holding Scope:** The goods-origin question supports a rule separating the physical producer from the author of copied expression, including communicative goods, without immunizing actual source deception. It need not decide services, every affirmative authorship representation, the book’s copyright or all state unfair-competition law. The remedy question is contingent and cannot justify liability independently.
+
+#### E. SOURCES
+
+Record and proceedings: Dastar Corp. v. Twentieth Century Fox Film Corp., 539 U.S. 23; No. 02-428.
+
+## 139. Krislov v. Rednour
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Krislov v. Rednour
+
+* **Citation or Docket:** Seventh Circuit No. 99-3801; citation: 226 F.3d 851
+
+* **October Term:** 2002
+
+* **Entry Stage and Event:** MERITS. Review of the reported judgment on the preserved federal questions.
+
+* **Simulated Event Date:** 2003-06-02 (assigned hearing order for additional review).
+
+* **Question Presented:** Whether Illinois may require circulators of candidate-nominating petitions to be registered voters residing within the relevant electoral district consistent with the First and Fourteenth Amendments?
+
+* **Question Granted:** The merits questions stated above; review remains confined to preserved claims.
+
+* **Court and Judgment Under Review:** The Seventh Circuit affirmed summary judgment and an injunction against the challenged portions of Illinois’s candidate-petition circulator requirements.
+
+* **Relief Requested:** The election officials seek reversal of the injunction; the candidates seek its affirmance and continued protection of their ability to select petition circulators.
+
+* **Material Record:** Krislov sought a United States Senate nomination and Sullivan a congressional nomination in the 1996 Democratic primary. Opponents challenged signatures collected by persons lacking the prescribed registration or district residence. Both candidates ultimately obtained sufficient valid signatures, but incurred additional expense and lost access to willing political advocates. Krislov withdrew before the primary. The certified class covers candidates exposed to challenges under the provision. The record concerns circulator qualifications, not the eligibility of voters signing petitions.
+
+* **Threshold, Preservation, and Vehicle Matters:** Officials contest injury and mootness because sufficient signatures were secured and the election ended. Campaign-resource diversion and restricted association are distinct injuries; future candidacy and the certified class matter to prospective relief and the repetition exception. Do not assume every past candidate retains standing for an injunction.
+
+* **Relevant Dates:** The lower appellate judgment is dated September 5, 2000. Subsequent factual mootness at the assigned June 2, 2003 event is decided on the opinion below and the record supplied; the brief does not invent continued candidacy.
+
+* **Companion or Related Matters:** Lerman v. Board of Elections in the City of New York concerns a closely related district-residence restriction; Cartwright v. Barnes concerns candidate access rather than who may carry the message.
+
+* **Participation Matter:** None identified.
+
+#### B. LAW ENTERING THE CASE
+
+* **Current Through:** June 28, 2002. Later same-term decisions govern only if issued before this matter; no proposed disposition supplies precedent.
+
+* **Earlier Same-Term Decisions:** No holding is inferred from calendar order. Any earlier effective decision applies only within its actual scope.
+
+* **Unresolved Same-Term Dependencies:** Incorporate an effective decision in Lerman v. Board of Elections in the City of New York before this case. Cartwright v. Barnes may clarify the distinction between a support threshold and a restriction on circulators; neither proposed position is yet law.
+
+* **Institutional or Procedural Law:** Review remains bounded by the preserved federal questions, the lower judgment, and the actual standard of review; appellate review cannot replace necessary factual findings.
+
+##### Issue 1: Restrictions on petition advocates
+
+* **Controlling Law:** Buckley v. American Constitutional Law Foundation, Inc. invalidates nonregistration exclusion for the otherwise qualified resident-adult initiative circulators before it. Its holding does not itself decide candidate-petition systems, district residence or exclusion of out-of-state circulators.
+
+* **Current Rule:** Apply the actual speech and association burden, the government’s relevant interests, and the fit of retained verification mechanisms. Anderson v. Celebrezze and Burdick v. Takushi preserve latitude for reasonable election administration without making all speaker restrictions incidental.
+
+* **Other Governing Law:** First and Fourteenth Amendments; the challenged provisions of 10 Illinois Compiled Statutes 5/7-10; prospective relief under 42 U.S.C. § 1983.
+
+* **Material Other Authority:** Meyer v. Grant identifies petition circulation as interactive political expression; it does not require a State to accept fraudulent signatures.
+
+* **Existing Rule’s Reach:** Registration exclusion is substantially governed by the precedent; residence and candidate-versus-initiative differences require their own application. The requirement that petition signers be qualified electors is distinct.
+
+* **Open Point:** Whether district residence can exclude otherwise accountable circulators, and whether any demonstrated feature of candidate petitions justifies the exclusions.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+* **Reasoning Below:** The court treated candidate circulation as protected political advocacy and found that registration and residence excluded willing messengers without sufficient justification. Obtaining ballot access did not erase the separate expressive injury.
+
+* **Petitioner or Appellant:** Officials argue that candidates already reached the ballot, that the dispute is moot, and that local registered circulators facilitate accountability, deter fraud, and preserve the integrity of a party nomination. They seek permission to tie circulator eligibility to the electorate being addressed.
+
+* **Respondent or Appellee:** The candidates distinguish qualified signers from speakers who solicit them. They seek a rule forbidding exclusion of willing advocates on these status grounds when identification, sworn verification, and enforcement can secure the legitimate administrative ends.
+
+* **Alternatives and Limiting Principles:** Invalidate only the challenged circulator exclusions. Preserve lawful signer qualifications, signature minimums, filing deadlines, attestations, and sanctions for fraud. Residence must be assessed as a speaker restriction, not presumed identical to voter eligibility.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+* **Threshold Paths:** Resolve the identified threshold objections before any merits ruling; if none succeeds, reach only the preserved questions.
+
+* **Merits Paths, Judgment, and Remedy:** If no plaintiff or class representative retains the required prospective exposure, address the live-relief problem without deciding an abstract election code. On the merits, affirming keeps the targeted injunction in force. Reversal would permit the exclusions if their actual burden is sufficiently justified. A partial ruling could invalidate registration while remanding a genuinely unresolved residence justification, but not simply label the latter administrative.
+
+* **Plausible Holding Scope:** An affirmance can extend the settled protection of petition advocacy to candidate nominations and district residence where the same verification interests are served by less restrictive measures. It need not announce that residence can never matter in any election-related role. A contrary judgment would require a supported distinction from the existing circulation holding.
+
+#### E. SOURCES
+
+Record and proceedings: Krislov v. Rednour, Seventh Circuit No. 99-3801; citation: 226 F.3d 851.
+
+* Lower appellate opinion, including the procedural history, standing arguments, statutory terms, and reasoning of both sides.
+
+## 140. Knussman v. Maryland
+
+### SECTION I: NEUTRAL MODELING PACKET
+
+#### A. CASE, RECORD, AND POSTURE
+
+* **Case Name:** Knussman v. Maryland.
+* **Citation or Docket:** 272 F.3d 625 (4th Cir. 2001).
+* **October Term:** 2002.
+* **Entry Stage and Event:** MERITS; additional review of a post-trial equal-protection, qualified-immunity, and damages judgment.
+* **Simulated Event Date:** 2003-06-02, an assigned merits-review date rather than a historical Supreme Court decision date.
+* **Question Presented:** Whether a state personnel official violated clearly established equal-protection law in 1994 by administering a sex-neutral child-nurturing leave statute on the premise that only mothers could be primary caregivers; and whether the appellate court properly required a new damages trial on this record.
+* **Question Granted:** Additional merits review of the liability, immunity, and damages issues resolved in the reported circuit judgment, including any preserved alternative ground necessary to determine the damages disposition. No historical Supreme Court grant is asserted.
+* **Court and Judgment Under Review:** The Fourth Circuit affirmed liability and denial of qualified immunity to Jill Mullineaux, vacated the $375,000 compensatory award as excessive, and ordered a new trial on damages.
+* **Relief Requested:** Mullineaux seeks immunity or relief from the verdict. Knussman seeks preservation of liability and the damages judgment supported by the jury and trial court.
+
+Maryland's 1994 child-nurturing leave provision allowed an employee primarily responsible for caring for a new child to use up to thirty days of accrued sick leave; a secondary caregiver could use ten. Unlike medical-disability leave, nurturing leave did not depend on illness. Trooper Howard Kevin Knussman's wife experienced serious pregnancy and postpartum health difficulties. Their daughter was born December 9, 1994. He asserted that he performed the principal infant-care tasks while his wife recovered.
+
+The evidence supporting the verdict showed that personnel official Mullineaux treated mothers as primary caregivers and fathers as ineligible except in extreme circumstances involving the mother's incapacity. She denied Knussman's request for primary-caregiver leave. He returned to work and pursued a grievance. Mullineaux's participation then ceased; later officials denied relief on their own grounds. His wife's disability leave was treated during that process as evidence that she already enjoyed the primary-caregiver benefit, although her leave addressed her own recovery.
+
+A jury found discrimination, but post-trial rulings left a money judgment only against Mullineaux personally. Other officials received immunity; the FMLA verdict was vacated. Knussman did not appeal those rulings. The $375,000 award compensated claimed emotional injury, with medical testimony concerning depression, anxiety, and physical symptoms. There was no direct lost-income claim. Some testimony connected distress to the later grievance and litigation as well as the initial denial.
+
+**Threshold and vehicle matters:** This is review after trial, not an immunity appeal assuming an undeveloped complaint. Liability facts are taken in the light supporting the verdict where the evidence permits. Immunity is a legal question, informed by resolved factual disputes. The Fourth Circuit did not decide Mullineaux's alternative objection that a general damages verdict might include the now-vacated FMLA claim. That objection matters if the appellate excessiveness rationale is rejected. The case does not reopen the unappealed FMLA disposition or other defendants' immunity.
+
+#### B. LAW ENTERING THE CASE
+
+**Current Through:** Governing law through June 28, 2002; clearly established law is assessed at the challenged 1994 conduct.
+
+Sex classifications require an important governmental objective and a substantial relationship between the distinction and that objective. Generalizations assigning nurturing responsibilities to women cannot replace an individual's actual qualifications. Craig, Hogan, Weinberger v. Wiesenfeld, and related decisions supplied relevant pre-1994 principles. The current United States v. Virginia rule reinforces genuine justification and individual capacity, but its 1996 decision cannot itself furnish notice in 1994.
+
+Harlow and Anderson retain an objective clearly-established-law immunity inquiry. Saucier does not replace that inquiry with personal moral blame, and no compulsory sequence requires unnecessarily deciding every merits question first. Hope rejects a demand for a factual twin, but the necessary warning must come from law predating the official's conduct; Hope's own 2002 issuance is not retroactive notice.
+
+Under Carey and Stachura, § 1983 compensation concerns actual injury caused by the constitutional violation, including proved emotional harm, rather than an abstract monetary value assigned to the right. A Rule 59 new-trial determination receives abuse-of-discretion review. Jury authority does not make an unsupported award unreviewable, but appellate disagreement with the amount is not alone an abuse by the trial judge.
+
+#### C. DECISION-MATERIAL LITIGATION POSITIONS
+
+Knussman argues that the law classified employees by actual caregiving responsibility, while Mullineaux substituted a categorical sex assumption despite his evidence. Longstanding decisions concerning sex-based benefit rules gave fair warning. He also invokes corroborated medical injury and the trial judge's refusal to disturb a verdict reached after hearing the witnesses.
+
+Mullineaux denies adopting the claimed categorical policy, invokes informal guidance concerning a new statute, and argues that reasonable uncertainty about benefit eligibility supports immunity. On damages, she emphasizes the end of her involvement once the grievance began, distress associated with subsequent litigation, and the inability to separate the general award's equal-protection and FMLA components. These are distinct arguments: uncertainty about causation or amount does not itself undo a proved discriminatory denial.
+
+#### D. LAWFUL PATHS AND UNCERTAINTY
+
+The Court may affirm liability and immunity denial while independently affirming or vacating the damages ruling. Rejection of the appellate excessiveness analysis does not automatically resolve the unaddressed general-verdict objection. The trial instructions, objections, verdict structure, and applicable preservation and harmless-error rules must determine that question. A damages remand cannot restore an abandoned FMLA claim or impose liability on officials whose favorable judgments were not appealed.
+
+#### E. SOURCES
+
+Knussman v. Maryland, 272 F.3d 625 (4th Cir. 2001); Md. Code Ann., State Pers. & Pens. §§ 7-502, 7-508 (1994); 42 U.S.C. § 1983; Fed. R. Civ. P. 50, 59; Weinberger v. Wiesenfeld, 420 U.S. 636 (1975); Craig v. Boren, 429 U.S. 190 (1976); Mississippi University for Women v. Hogan, 458 U.S. 718 (1982); Harlow v. Fitzgerald, 457 U.S. 800 (1982); Anderson v. Creighton, 483 U.S. 635 (1987); United States v. Virginia, 518 U.S. 515 (1996); Saucier v. Katz, 533 U.S. 194 (2001); Hope v. Pelzer, 536 U.S. 730 (2002); Carey v. Piphus, 435 U.S. 247 (1978); Memphis Community School District v. Stachura, 477 U.S. 299 (1986).
+
+
+# OT2002 chunk 11 — neutral preflight supplement A
+
+## Scope, chronology and sources
+
+This supplement addresses matters 129 and 131–134. Matter 130 has a separately authored neutral supplement. Matters 135–140 have supplement B. These supplements add to the mechanically split neutral packet; they do not alter its words or supply commitments.
+
+The event-specific reading copies are `terms/OT2002/entering-law/OT_2002CHUNK11_<inventory-number>.md`. Each was produced with `tools/build_entering_law.py` for the selected Standards and Tests entries, followed by mechanical copies of the selected opening Holdings entries and the bounded Public Projection of identified earlier completed Records. `runtime/OT_2002CHUNK11_LAW_SELECTIONS.json` records every selection. Opening law is the synchronized OT2001 set through June 28, 2002. The legal cutoff for matters 129–136 is the beginning of May 27, 2003; for matters 137–140 it is the beginning of June 2, 2003. No unrelated same-date decision is included as entering law. A completed decision later than the particular event supplies neither law nor a published position for that event.
+
+The term inventory authorizes review of the identified judgments. No separate historical grant, appellate docket number, party filing, or modern filing verification is required to invent a new route or stop an otherwise supplied matter. The packet's actual preservation, live-controversy and remedial limits remain. Earlier-dated undecided inventory entries supply no law. No new procedural facts, documents, concessions or default are presumed.
+
+The source materials establish no participation exception for these six matters. The standing roster consists of Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer. No membership change occurs between the supplied argument/submission and decision dates. A verified case-specific institutional exception controls over this general roster. Bunkley's stated action remains petition consideration with possible summary disposition, not an invented plenary argument.
+
+## 129. Chavez v. Martinez
+
+**Entering-law update.** The previously unresolved references to Gibson, McClendon and Herring now refer to completed decisions, copied at their actual scope. Gibson preserves independent municipal attribution, deprivation, fault and causation; it does not establish Chavez's personal liability. McClendon preserves consideration of all relevant preconduct authority and rejects a factual-twin demand; its conduct-specific immunity result does not determine this hospital interrogation. Herring's substantive privacy holding and its distinct immunity opinions do not replace objective conduct-date immunity. Kaupp addresses seizure and attenuation, not a civil damages entitlement from unwarned questioning.
+
+**Material judicial sources.** Dickerson supplies the constitutional status and limits of the Miranda safeguards. Breyer's McKune opinion and the distinct O'Connor, Scalia, Kennedy and Thomas position identified in that entry require separate examination of prospective protection against penalties and completed no-use damages liability. Kennedy's Lewis opinion, its six-Justice coalition and express setting limits supply the context-sensitive executive-abuse framework; neither Stevens's judgment ground nor the distinct constitutional positions supply additional joins to that framework. Ginsburg's unanimous Elder opinion, the Associate Justices' objective-defense agreement in Denius, Saucier's bounded fractured remand and Souter's Hope opinion supply the current immunity method. The copied Herring writings expose the concrete notice and right-recognition differences among the Associates without predicting their response here.
+
+**Record limits and readiness.** Ready for independent component-specific modeling. The November 28, 1997 notice inquiry must use authority then existing. Lewis, Dickerson, Denius, Saucier, Hope and the current-term cases organize present law but cannot themselves provide earlier notice. Preconduct Rochin, Mincey, Harlow, Anderson and Cooper v. Dupnik retain their identified functions, with the actual lower-court scope and the distinction between exclusion and personal damages respected. If a proposed disposition depends on a more particular holding or factual premise in Cooper than the neutral packet supplies, retrieve that preconduct opinion before using the premise. The packet supplies no basis to attribute the shooting, interference with care or an additional physical injury to Chavez. A lawful remand may preserve the independently analyzed due-process claim; a complete defense judgment must address each surviving ground without resolving disputed historical facts on interlocutory review.
+
+## 131. National Park Hospitality Association v. Department of the Interior
+
+**Entering law and judicial sources.** Scalia's unanimous Ohio Forestry opinion supplies fitness, practical legal hardship and the importance of effective later implementation review. The selected MCI, Smiley and Christensen entries preserve their different delegated-authority and advisory-interpretation rules; they do not give the Park Service authority to bind the CDA adjudicators. The Standards selections state their current effective authorities and exceptions. Abbott Laboratories and Toilet Goods remain pre-divergence sources for the distinction between present compliance consequences and a controversy improved by concrete application.
+
+**Record limits and readiness.** Ready to model ripeness and the appropriate judgment treatment. The government concession establishes lack of delegated CDA rulemaking authority in this record; it does not establish every concession contract's statutory classification. The supplied bidding uncertainty is not an adjudicated denial of a CDA remedy. The lawful threshold route may vacate the premature merits judgment and preserve contract-specific review. If a Justice instead reaches coverage, the granted statutory question, the actual CDA procurement categories and the distinction between visitor services and government procurement require independent treatment; no damages award or particular contract breach is presented.
+
+## 132. Black & Decker Disability Plan v. Nord
+
+**Entering-law update and judicial sources.** Kentucky Association is now completed, but its insurance-saving holding supplies no mandatory medical hierarchy. Souter's unanimous Curtiss-Wright opinion, Ginsburg's component-specific Spink opinion and her Rush Prudential opinion separate lawful plan design, actual administration, coverage rules and the federal benefit remedy. Firestone remains the pre-divergence source of de novo review unless the plan delegates relevant discretion, with an actual conflict considered under discretionary review. The packet identifies ERISA §§502(a)(1)(B) and 503 and the applicable claims-review duty; no Social Security rule is incorporated merely by analogy.
+
+**Record limits and readiness.** Ready for the categorical treating-physician question and a bounded remedy. The record does not permit an appellate determination that the claimant can work, that the consultant is necessarily more reliable, or that benefits must be paid independently of the disputed preference. Rejecting a mandatory preference or special explanation burden preserves ordinary reasoned consideration of reliable evidence, actual plan terms, the governing review standard and supported conflicts. Do not apply a later claims regulation merely because it existed on the decision date; the particular benefit determination's governing rule matters. If the ultimate benefits entitlement is proposed for resolution, the plan terms and complete administrative record must first support it. Ordinary remand avoids inventing those findings.
+
+## 133. Adler v. Duval County School Board
+
+**Entering-law update and judicial sources.** Altman is now completed and requires plaintiff-specific continuing injury and effectual relief; it does not establish current enrollment here. Steele and Commack apply only within their actual fiscal-standing and governmental-function holdings. Lee, Ginsburg's Ingebretsen opinion, Agostini, Tanford and Breyer's Santa Fe opinion supply the precise official-function and private-expression distinctions. Santa Fe's seven-Justice coalition includes Kennedy and adopts no separate religious-pressure holding. Pinette's genuine private-access setting does not establish that a representative graduation component is private solely because officials refrain from editing it. The copied entries preserve Scalia and Thomas's differing alignments without substituting historical positions in this matter.
+
+**Record limits and readiness.** Ready for threshold modeling and for conditional evaluation of the facial mechanism. The supplied materials do not establish a certified class or each plaintiff's current May 2003 enrollment. Do not invent a continuing student or infer class certification from the caption. A disposition requiring present prospective merits relief must identify a supported live claim. If the available record cannot do that, a limited disposition returning the live-claim question for determination remains available and does not require deciding the constitutional merits. Mere passage of time is not itself proof that every claim became moot. Rule 65(a)(2) consolidation and the disputed as-applied waiver must remain separate from the presented facial policy question. The memorandum's full context, representative role, possible secular content and no-editing rule must be considered together; neither the prayer count nor any single feature mechanically resolves attribution.
+
+## 134. Bunkley v. Florida
+
+**Entering-law update and judicial sources.** Stevens's unanimous 1999 Fiore certification decision and the unanimous 2001 substantive decision preserve the State's authority to identify its law while preventing conviction without proof of an existing element. Rogers contains a separate majority proposition across writings on foreseeable judicial development and a different application coalition; neither is a universal retroactivity command. Souter's Lee v. Kemna opinion addresses an actually operative independent state procedural ground. Price is copied only to delimit its federal habeas setting; this direct review of a state collateral judgment is not governed by §2254(d).
+
+**Record limits and readiness.** Ready for independent petition-stage and possible summary-disposition modeling. The missing historical scope of the common-pocketknife exception is the substantive state-law question presented for clarification, not a license to invent a finding and not an operator filing defect. The word evolutionary does not necessarily answer when the operative exclusion covered this knife. A clarification remand can preserve finality principles and the separate question of genuinely new law without vacating every burglary consequence or ordering release. If the petition is granted and a reasoned summary action entered, identify that public form and its actual legal effect separately from the undisclosed petition poll. No additional plenary argument is presumed.
+
+## Remaining preparation limits
+
+No new Court order, reconstructed follow-up filing or unverified fact has been adopted by this preparation. Routine source possession is not a litigant burden. The identified substantive uncertainties can be addressed through the lawful threshold or remand paths stated above; any proposal that requires resolving an unknown predicate must obtain the necessary neutral source before commitment. This supplement supplies no vote and predicts no historical comparator.
+
+
+# OT2002 chunk 11 — independent neutral preflight, matter 130
+
+Preparation only. This supplement records no vote, commitment, holding, or entered order. Its adjudicative cutoff is May 27, 2003. It uses matter 130 of `OT_2002CHUNK11_NEUTRAL.md`, the identified opening Holdings entries, and the official statutory text below. No current-case Supreme Court outcome or reasoning was consulted.
+
+## Scope and readiness
+
+The supplied question is whether CERCLA §113(f)(1) permits this contribution action although Aviall has not been sued in a §106 or §107(a) civil action. The neutral packet supports independent modeling of that question. It identifies the uncontested absence of such an action, the absence of an established qualifying governmental settlement, the en banc judgment, and the competing statutory readings. State regulatory pressure is not converted into a federal civil action or qualifying settlement.
+
+Two legally distinct constructions require comparison: the first sentence's during-or-following phrase limits the subsection's grant while the final sentence preserves independently existing contribution rights; or the permissive grant and final sentence, read together, preserve contribution within this subsection without prior litigation. The first construction must explain the work left for the savings sentence and the available statutory structure without declaring all private cleanup unrecoverable. The second must explain the operative work of the express condition, separate settlement route, and contribution limitation triggers. General cleanup incentives and equitable allocation cannot by themselves resolve statutory authorization. These are neutral alternatives, not Justice commitments.
+
+The independent §107 theory's preservation and scope remain unresolved on the supplied record. Neither its availability nor its forfeiture may be assumed. A decision rejecting the §113(f)(1) theory can leave genuinely preserved alternatives and ordinary procedural treatment for remand without deciding whether every potentially responsible person may recover under §107. A decision allowing this §113(f)(1) theory still leaves notice, necessary costs, national-contingency-plan consistency, allocation and amount unresolved. No additional fact premise is adopted.
+
+If the proposed disposition instead resolves §107 eligibility or preservation, restores a particular sum, treats regulatory letters as a settlement, or decides a notice/plan-compliance objection, further authorized neutral record development is required. That conditional limitation does not prevent the narrow §113(f)(1) question from being modeled now.
+
+## Exact entering-law selections
+
+From `state/holdings/environmental-law.md` copy these complete `####` entries:
+
+- `Key Tronic Corp. v. United States, 511 U.S. 809` — June 6, 1994. The litigation-fee exclusion, independent necessary response-work recovery, and negotiation-work distinction do not decide the present contribution gateway. Preserve the express limits concerning the separately conceded contribution bar and settlement scope.
+- `United States v. Bestfoods` — June 8, 1998. Direct pollution-related operator conduct and derivative corporate responsibility remain distinct; its unanimous opinion expressly leaves contribution unresolved. The packet's conceded responsible-party status does not supply a §113 cause of action.
+
+Exact `state/STANDARDS_AND_TESTS.md` headings, if needed with those entries:
+
+- `Private CERCLA fees and independently necessary response work`
+- `Parent corporations and CERCLA operator liability`
+
+Justice-specific prior public support available in these entries: Stevens authored Key Tronic; O'Connor, Kennedy, Souter and Ginsburg joined the litigation-fee exclusion; Scalia and Thomas opposed that component but joined its independent-response-work and negotiation-work portions. Thomas authored Bestfoods, joined by every participating Justice, including Breyer. Those particular statutory commitments are usable evidence at their actual scope; no vote on this new gateway follows from them automatically.
+
+## Official statutory reading
+
+The following text is from the 2000 United States Code, title 42, §§9613 and 9607. These are pre-event official statutory sources. Both downloaded PDFs were read in full as extracted text; typography and column-end hyphenation are normalized in the quotations. The downloaded source and complete extraction files are `130-9613.source`, `130-9613.txt`, `130-9607.source`, and `130-9607.txt` in this runtime directory. The separate 1994 §9613 download was not used as authority for this supplement.
+
+Sources: [42 U.S.C. §9613, 2000 edition](https://www.govinfo.gov/content/pkg/USCODE-2000-title42/pdf/USCODE-2000-title42-chap103-subchapI-sec9613.pdf), pp. 5525–5528; [42 U.S.C. §9607, 2000 edition](https://www.govinfo.gov/content/pkg/USCODE-2000-title42/pdf/USCODE-2000-title42-chap103-subchapI-sec9607.pdf), pp. 5507–5514. This supplement does not import subsequent current-case interpretation of that text.
+
+### Section 113(f)(1): complete contribution provision
+
+> Any person may seek contribution from any other person who is liable or potentially liable under section 9607(a) of this title, during or following any civil action under section 9606 of this title or under section 9607(a) of this title. Such claims shall be brought in accordance with this section and the Federal Rules of Civil Procedure, and shall be governed by Federal law. In resolving contribution claims, the court may allocate response costs among liable parties using such equitable factors as the court determines are appropriate. Nothing in this subsection shall diminish the right of any person to bring an action for contribution in the absence of a civil action under section 9606 of this title or section 9607 of this title.
+
+The opening sentence refers to §107(a); the final sentence refers to §107. Preserve that textual difference. The equity sentence addresses allocation in contribution claims and does not independently state who has a claim.
+
+### Section 113(f)(2): settlement protection
+
+> A person who has resolved its liability to the United States or a State in an administrative or judicially approved settlement shall not be liable for claims for contribution regarding matters addressed in the settlement. Such settlement does not discharge any of the other potentially liable persons unless its terms so provide, but it reduces the potential liability of the others by the amount of the settlement.
+
+### Section 113(f)(3): complete neighboring settlement provisions
+
+> (A) If the United States or a State has obtained less than complete relief from a person who has resolved its liability to the United States or the State in an administrative or judicially approved settlement, the United States or the State may bring an action against any person who has not so resolved its liability.
+>
+> (B) A person who has resolved its liability to the United States or a State for some or all of a response action or for some or all of the costs of such action in an administrative or judicially approved settlement may seek contribution from any person who is not party to a settlement referred to in paragraph (2).
+>
+> (C) In any action under this paragraph, the rights of any person who has resolved its liability to the United States or a State shall be subordinate to the rights of the United States or the State. Any contribution action brought under this paragraph shall be governed by Federal law.
+
+### Section 113(g)(3): complete contribution limitation provision
+
+> No action for contribution for any response costs or damages may be commenced more than 3 years after—
+>
+> (A) the date of judgment in any action under this chapter for recovery of such costs or damages, or
+>
+> (B) the date of an administrative order under section 9622(g) of this title (relating to de minimis settlements) or 9622(h) of this title (relating to cost recovery settlements) or entry of a judicially approved settlement with respect to such costs or damages.
+
+These triggers may inform the structural arguments. They do not establish that a triggering event occurred in this case or conclusively decide whether a contribution action exists before such an event.
+
+### Section 107(a)(4)(B): private response-cost language in its operative setting
+
+Section 107(a) begins: “Notwithstanding any other provision or rule of law, and subject only to the defenses set forth in subsection (b) of this section—”. It identifies current owners/operators, owners/operators at disposal, qualifying arrangers, and qualifying transporters. Its operative continuation refers to a facility or vessel from which “there is a release, or a threatened release which causes the incurrence of response costs, of a hazardous substance” and provides that the covered persons “shall be liable for—”. Subparagraph (B) then states:
+
+> any other necessary costs of response incurred by any other person consistent with the national contingency plan;
+
+Subparagraph (A), by comparison, addresses governmental or tribal removal/remedial costs “not inconsistent with the national contingency plan.” Those formulations are distinct. The present gateway question supplies no determination of necessity, plan consistency, another defense, or an independent §107 claimant's proper classification.
+
+### Additional procedural context preserved without an adjudication
+
+Section 113(g)(2) gives initial cost-recovery actions separate removal/remedial limitation rules and, except as otherwise provided in that paragraph, allows a §107 cost-recovery action after costs have been incurred. Section 113(l) states:
+
+> Whenever any action is brought under this chapter in a court of the United States by a plaintiff other than the United States, the plaintiff shall provide a copy of the complaint to the Attorney General of the United States and to the Administrator of the Environmental Protection Agency.
+
+The statutory instruction does not establish whether notice was furnished in this proceeding, the consequence of a preserved defect, or entitlement to equitable allocation.
+
+## Validation result
+
+Ready for independent enhanced comparison of the granted §113(f)(1) question on the supplied neutral facts and quoted statute. Exact holdings selections are identified above. No new record fact, alternative-claim preservation finding, reconstructed filing, statutory compliance finding, allocation, or Justice commitment was created. The pending §107 preservation question must remain visible in any proposed remedy that depends on it.
+
+
+# OT2002 chunk 11 — neutral selection and readiness, matters 135–140
+
+Preparation only. No provisional vote or decision is made here. This note uses the supplied neutral matters, opening Holdings/Standards, and selected public current-term material effective by each assigned event. References to prior opinions identify existing public authority, not a commitment in any pending matter. No pending decision supplies law.
+
+`tools/build_entering_law.py` copies a whole selected doctrinal volume and exact or uniquely matching Standards heading. For bounded case-level slices, the parent should mechanically copy the complete identified `####` Holdings entries, retaining all subordinate components and limits, instead of selecting an entire large volume. Neither operation creates authority.
+
+## 135 — Lerman, May 27, 2003
+
+Opening Holdings, `election-law.md`:
+
+- `Buckley v. American Constitutional Law Foundation, Inc.`
+- `Burdick v. Takushi, 504 U.S. 428 (1992)` for the retained burden-sensitive framework.
+
+Exact Standards headings:
+
+- `Initiative circulator qualifications and individual identification`
+- `Write-in voting within the complete ballot-access system`
+
+Current-term public law: **Cartwright v. Barnes, February 25, 2003**. Its candidate support threshold and its pleading-stage application are distinct from a restriction on who may circulate a petition. Its majority preserves meaningful Anderson–Burdick review for materially different or severe burdens. Souter's public access-remand writing, joined by Stevens and Ginsburg, requires cumulative assessment of the complete system and evidence of actual burden rather than a numerical exemption; it does not invalidate a threshold or establish severity merely from past party failure.
+
+Justice-specific prior authority: Buckley's registration holding has direct joins by Stevens, Scalia, Kennedy, Souter and Ginsburg, in addition to the Chief Justice. Thomas supports invalidation on separate grounds. O'Connor and Breyer oppose that registration disposition while joining the personal-name-badge holding. The subsequently supplied and read `entering-law/OT_2002CHUNK11_PRIOR_PUBLIC_WRITINGS.md` cures the initial separate-writing source gap: Thomas applies traditional strict scrutiny to direct speech and severe association burdens, while O'Connor and Breyer apply Anderson–Burdick to enrollment as an administrable formal-process connection and disagree with the majority's severity/fit application. They agree that the personal-name badge is a direct intrusion requiring narrow tailoring. None adopts a universal minimum-scrutiny rule or decides reserved residence restrictions. Their actual reasons, not only prior judgment positions, must inform the pending candidate/district analysis.
+
+Neutral readiness: the supplied record identifies the condition, professional-witness exception, district-voter signature requirement, statewide subpoenas and witness addresses; it also identifies the plaintiffs' own expressive injuries and reported repeat-exposure basis. No new candidacy, later petition drive or continuing exposure is invented. The constitutional claim can be modeled on that supported account, with facial/as-applied scope and live prospective exposure kept distinct. The Molinari stipulation's independent preclusive effect need not be resolved unless a chosen path actually relies on it.
+
+## 136 — Duncan, May 27, 2003
+
+Opening Holdings, `labor-and-employment.md`:
+
+- `Harris v. Forklift Systems, Inc., 510 U.S. 17`
+- `Oncale v. Sundowner Offshore Services, Inc.`
+- `DeAngelis v. El Paso Municipal Police Officers' Association`
+- `Faragher v. City of Boca Raton`
+- `Burlington Industries, Inc. v. Ellerth`
+- `Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)`
+
+Also copy the same **Reeves** case heading from `federal-courts.md`; it contains the separate whole-record Rule 50 component.
+
+Exact Standards headings:
+
+- `Whole-record review of a jury verdict under Rule 50`
+- `Claim-specific grounds in renewed Rule 50 motions`
+- `Hostile employment conditions without a psychological-injury prerequisite`
+- `Employer attribution of supervisor-created harassment`
+
+Current-term public law: **Rene v. MGM Grand Hotel, Inc., May 5, 2003**, concerns contextual sex causation at summary judgment, not a replacement objective-severity rule or a constructive-discharge holding. Thomas's public dissent, joined by Scalia, preserves the distinction between sexual form/gravity and supported sex causation, without a compulsory desire showing or female comparator. **Clackamas Gastroenterology Associates, P.C. v. Wells, April 22, 2003**, is relevant only if the actual employment relationship becomes necessary; its ADA working-owner analysis is not an automatic answer to GM's unadjudicated Title VII employer status.
+
+Justice-specific prior authority: O'Connor authored the unanimous Harris rule and the six-Justice statutory DeAngelis application joined by Scalia, Kennedy, Souter, Thomas and Breyer. Thomas authored the unanimous Oncale causation/context rules. Breyer authored the unanimous Faragher actual-authority rule; the eight Associates also joined its particular attribution application. All eight Associates joined the controlling Ellerth rule and its reservations. Scalia authored the unanimous Reeves whole-record rule. The supplied and read `entering-law/OT_2002CHUNK11_PRIOR_PUBLIC_WRITINGS.md` also cures the DeAngelis source gap: Stevens, joined by Ginsburg, objects to added opportunity/performance/advance/supervisor thresholds and seeks proper Harris jury review, while finding neither liability nor entitlement to restore damages. Their preserved expressive-defense and independent-ground limits remain distinct.
+
+Neutral readiness: the reported facts permit separate modeling of cumulative hostility and constructive discharge. Preserve the distinction between attribution, severity, resignation and corrective opportunity. The entering decisions leave a general prevention/nonuse defense and constructive discharge unresolved; a universal complaint duty or pending-investigation safe harbor must not be imported. Employer status, other preserved appellate grounds, state-law consequences and lawful damages remain independent. Reversal of one sufficiency ruling cannot automatically restore both verdict allocations, backpay or fees. The supported limited-remand route avoids deciding unproduced preservation materials; any disposition conclusively rejecting those independent grounds would require their source support.
+
+## 137 — Beneficial National Bank, June 2, 2003
+
+Opening Holdings:
+
+- `federal-courts.md`: `Rivet v. Regions Bank of Louisiana`
+- `business-and-commercial-law.md`: `Smiley v. Citibank (South Dakota), N.A., 517 U.S. 735`
+
+Exact Standards headings:
+
+- `Federal claim preclusion as a removal defense`
+- `Federal interest classification and national-bank home-state charges`
+
+Current-term public law: **Syngenta Crop Protection, Inc. v. Henson, November 5, 2002**, requires an original-jurisdiction anchor rather than an enforcement interest or All Writs theory. **Breuer v. Jim's Concrete of Brevard, Inc., May 19, 2003**, separates original jurisdiction from an express-removal-exception question; it does not decide whether these banking claims have an exclusive federal character. **Jinks v. Richland County, April 22, 2003**, matters only within its supplemental-claim/tolling scope and supplies no missing federal anchor.
+
+Justice-specific prior authority: Scalia authored unanimous Rivet, whose express distinction for exclusive statutory replacement causes is part of the current rule. Souter's substantive Smiley portions were joined by all eight other Justices; the fee-classification and compatible-state-law limits do not settle the removal gateway. Stevens's Syngenta concurrence challenges an expansive All Writs construction while fully joining the removal rule; it does not express a new position on National Bank Act complete preemption.
+
+Neutral readiness: the national charter and usury characterization needed for the presented gateway are supplied as undisputed. The competing exclusive-cause and separate-forum-intent constructions require independent legal comparison; national banking importance alone decides neither. Do not adjudicate the interest rate's lawfulness, convert every arranger claim, or treat compatible disclosure/formation duties as usury. No material additional factual premise is presently required for the specified forum question.
+
+## 138 — Dastar, June 2, 2003
+
+**Participation supplement supplied by control:** Justice Breyer took no part in consideration or decision; no public reason is given. The other eight Justices participate. This replaces the neutral packet's statement that no participation matter was identified. The source supplied for that institutional fact is the primary syllabus at `https://www.law.cornell.edu/supct/html/02-428.ZS.html`; this preflight did not open it, and imports no outcome or reasoning from it.
+
+Opening Holdings, `business-and-commercial-law.md`:
+
+- `Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U.S. 205 (2000)`
+- `Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992)`
+- `Qualitex Co. v. Jacobson Products Co.`
+- `TrafFix Devices, Inc. v. Marketing Displays, Inc., 532 U.S. 23` if functionality/public-availability analogies are used.
+
+Exact Standards headings:
+
+- `Acquired source significance for product-design trade dress`
+- `Inherently distinctive nonfunctional restaurant trade dress`
+- `Source-identifying color and functionality`
+
+Current-term public law: **Eldred v. Ashcroft, January 15, 2003**, preserves finite terms, originality, facts/ideas and genuine fair use; it does not adjudicate restoration of public-domain material or Lanham Act authorship. Stevens's public existing-bargain dissent gives his particular access concern without becoming controlling copyright law. **Moseley v. V Secret Catalogue, Inc., March 4, 2003**, addresses actual dilution under a distinct statutory action. Kennedy's public concurrence explains evidence of actual weakening and early equitable relief while rejecting mere association as sufficient; it cannot supply the present claim's missing statutory predicate.
+
+Justice-specific prior authority: Scalia's Wal-Mart opinion was joined by all seven other Associates and separates source significance from copying, functionality and confusion, including independent remedial bases. Souter's Qualitex opinion was unanimous. Two Pesos has different statutory accounts for Stevens and Thomas; their judgment agreement should not be treated as a full join in the majority's rationale. The entering-law sources do not decide the pending meaning of origin.
+
+Neutral readiness: the physical-production facts and distinct book-copyright/state-law posture support the presented legal comparison. Liability and profit enhancement are separate components; the second is contingent on a surviving lawful Lanham Act ground. No consumer evidence, alternative false-advertising claim, sponsorship finding or preserved new theory is fabricated. Loss of a federal ground requires separating dependent relief from independent claims rather than adjudicating the ungranted book claim. Apply the participation correction before any commitment table.
+
+## 139 — Krislov, June 2, 2003
+
+Opening selections and the supplemented Justice-specific Buckley writings are the same as matter 135. Current-term **Cartwright, February 25, 2003**, applies within the distinctions stated above.
+
+**Required dependency refresh:** Matter 135, Lerman, is pending at this preflight. No proposed Lerman rule is included as law. After Lerman has an effective committed decision, control must generate a bounded public-law supplement stating its actual controlling propositions, limits, remedy and material published separate positions, then refresh the Krislov entering-law and neutral handoff before modeling Krislov. If Lerman is stopped, the handoff must state that fact and continue without treating a proposed disposition as authority.
+
+Neutral readiness: after that refresh, registration and district residence require separate treatment, including candidate-versus-initiative context. The supplied record distinguishes campaign-resource/association injury from eventual ballot access and identifies the class and prospective-relief problem. The ended election does not itself prove mootness or continuing exposure. Use the reported class and repeat-exposure premises within their stated limits; do not invent future candidacy. A final injunction still requires supported live prospective exposure. Any materially different later-status premise would need a neutral source, not inference from the assigned 2003 date.
+
+## 140 — Knussman, June 2, 2003
+
+Opening Holdings:
+
+- `civil-rights.md`: `J.E.B. v. Alabama ex rel. T.B., 511 U.S. 127`; `Elder v. Holloway, 510 U.S. 510`; `United States v. Virginia; Virginia v. United States, 518 U.S. 515 (1996)`; `Saucier v. Katz`
+- `federal-courts-immunities-and-remedies.md`: `Hope v. Pelzer, 536 U.S. 730`; `McCardle v. Haddad` if Rule 50 preservation becomes material.
+- `federal-courts.md`: `Gasperini v. Center for Humanities, Inc., 518 U.S. 415 (1996)`; `Reeves v. Sanderson Plumbing Products, Inc., 530 U.S. 133 (2000)`
+
+Exact Standards headings:
+
+- `Relevant precedent in appellate qualified-immunity review`
+- `Whole-record review of a jury verdict under Rule 50`
+- `State compensation limits within federal new-trial review`
+- `Purposeful sex discrimination in state peremptory strikes`
+- `Claim-specific grounds in renewed Rule 50 motions` only if needed.
+
+The Gasperini selection supplies institutional allocation and genuine abuse-of-discretion review; its New York diversity compensation measure does not become the measure of a federal §1983 award. J.E.B.'s individual-proxy principle is relevant, not its peremptory-challenge procedure.
+
+Current-term public law: **Herring v. Keenan, April 29, 2003**, retains the objective immunity framework despite distinct judgment-supporting grounds. Its four-Justice notice application and O'Connor/Scalia/Kennedy/Thomas public dissent identify competing particularity and hierarchy considerations, not a controlling replacement of Harlow. **Nevada Department of Human Resources v. Hibbs, May 27, 2003**, distinguishes family caregiving from medical disability and equal administration from a universal constitutional entitlement to leave. Its FMLA enforcement holdings do not reopen the unappealed FMLA judgment in this matter. Neither decision supplies retrospective notice in 1994. **State Farm, April 7, 2003**, concerns punitive constitutional review, not the compensatory Rule 59 standard here.
+
+Justice-specific prior support: J.E.B. predates the December 1994 conduct; Stevens, O'Connor, Souter and Ginsburg join the anti-stereotype holding, with Kennedy separately supporting the operative individual-right prohibition. Elder also predates the conduct; Ginsburg's unanimous opinion requires all relevant contemporaneous law. O'Connor authored Virginia, joined by Stevens, Kennedy, Souter, Ginsburg and Breyer, but its 1996 date cannot give earlier notice. Souter's Hope rule has direct joins by Stevens, O'Connor, Kennedy, Ginsburg and Breyer; Scalia and Thomas's contrary notice positions require their actual grounds if material. Saucier establishes no compulsory sequence or new general defense. Souter's Gasperini allocation rule includes O'Connor, Kennedy, Ginsburg and Breyer; Stevens's narrower join and Scalia/Thomas disagreement must remain distinct.
+
+Neutral readiness: the verdict-supported categorical sex premise permits separate review of current liability, conduct-date immunity and damages. Craig, Hogan and Wiesenfeld are the packet's preconduct doctrinal foundations; present decisions can explain method but cannot supply 1994 warning. Mullineaux's personal causal role ends where the supplied evidence ends; later grievance/litigation distress is not automatically attributed to her. If the appellate excessiveness rationale is rejected, the unresolved preserved general-verdict/FMLA objection prevents automatic restoration of $375,000. Ordinary limited remand can address that objection without inventing instructions, objections, findings, waiver or harmlessness. A conclusive Supreme Court resolution of that alternative requires those precise materials. The unappealed other-defendant immunity and FMLA rulings remain outside review.
+
+## Consolidated source and chronology limitations
+
+The neutral packets' supported published recitations are used under Engine §14; this preflight does not claim possession of every pleading or trial transcript. No current case's historical Supreme Court result was researched. The Buckley and DeAngelis public-source gaps are cured by the supplied, read prior-public-writings handoff. If the Hope dissent's particular grounds become outcome-relevant, that remains a scoped source need, not authority to fill a gap with predicted votes; current-term Herring already supplies materially relevant public notice-method disagreements. Matter 139 requires the actual Lerman dependency refresh. Dastar requires the received participation correction. The remaining explicitly unadjudicated alternative claims and remedial objections can remain for bounded further proceedings unless a chosen path needs their resolution now.

@@ -1,0 +1,91 @@
+{
+  "status": "Content checks passed; assignment, publication and term-wide validation pending",
+  "results": [
+    {
+      "case": "Chavez v. Martinez",
+      "file": "Chavez-v-Martinez_merits_2003-05-27.md",
+      "opening_labels": true,
+      "public_blocks_in_order": true,
+      "holdings_identity": true,
+      "frozen_case_copies_exact": true,
+      "explanation_word_counts": [
+        98,
+        202
+      ],
+      "judgment_arithmetic": true,
+      "assignment_pending": true,
+      "eligible_authors": [
+        "Souter",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "Cooper Industries, Inc. v. Aviall Services, Inc.",
+      "file": "Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+      "opening_labels": true,
+      "public_blocks_in_order": true,
+      "holdings_identity": true,
+      "frozen_case_copies_exact": true,
+      "explanation_word_counts": [
+        270
+      ],
+      "judgment_arithmetic": true,
+      "assignment_pending": true,
+      "eligible_authors": [
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    },
+    {
+      "case": "National Park Hospitality Association v. Department of the Interior",
+      "file": "National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+      "opening_labels": true,
+      "public_blocks_in_order": true,
+      "holdings_identity": true,
+      "frozen_case_copies_exact": true,
+      "explanation_word_counts": [
+        236
+      ],
+      "judgment_arithmetic": true,
+      "assignment_pending": true,
+      "eligible_authors": [
+        "Stone-Zsela",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg"
+      ]
+    },
+    {
+      "case": "Black & Decker Disability Plan v. Nord",
+      "file": "Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+      "opening_labels": true,
+      "public_blocks_in_order": true,
+      "holdings_identity": true,
+      "frozen_case_copies_exact": true,
+      "explanation_word_counts": [
+        252
+      ],
+      "judgment_arithmetic": true,
+      "assignment_pending": true,
+      "eligible_authors": [
+        "Stone-Zsela",
+        "Stevens",
+        "O'Connor",
+        "Scalia",
+        "Kennedy",
+        "Souter",
+        "Thomas",
+        "Ginsburg",
+        "Breyer"
+      ]
+    }
+  ]
+}

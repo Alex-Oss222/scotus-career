@@ -1,0 +1,39 @@
+
+
+BLACK & DECKER DISABILITY PLAN V. NORD
+
+LII
+
+Supreme Court		 
+
+BLACK & DECKER DISABILITY PLAN V. NORD (02-469) 
+296 F.3d 823, vacated and remanded.
+Syllabus
+ Opinion
+ [ Ginsburg ]
+HTML version
+PDF versionHTML version
+PDF version
+
+Syllabus
+
+NOTE:  Where it is feasible, a syllabus (headnote) will be released, as is being done in connection with this case, at the time the opinion is issued.
+The syllabus constitutes no part of the opinion of the Court but has been prepared by the Reporter of Decisions for the convenience of the reader.
+See United States v. Detroit Timber & Lumber Co., 200 U.S. 321, 337.
+
+SUPREME COURT OF THE UNITED STATES
+
+BLACK & DECKER DISABILITY PLAN v. NORD
+
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+
+No. 02—469.  Argued April 28, 2003–Decided May 27, 2003 
+
+Petitioner Black & Decker Disability Plan (Plan), an employee welfare benefit plan governed by the Employee Retirement Income Security Act of 1974 (ERISA), provides benefits for eligible disabled employees of Black and Decker Corporation (Black & Decker) and certain of its subsidiaries.  Black & Decker is the administrator of the Plan but has delegated authority to Metropolitan Life Insurance Company (MetLife) to render initial recommendations on benefit claims.  Respondent Nord, an employee of a Black & Decker subsidiary, submitted a claim for disability benefits under the Plan, which MetLife denied.  At MetLife’s review stage, Nord submitted letters and supporting documentation from his physician, Dr. Hartman, and a treating orthopedist to whom Hartman had referred Nord.  These treating physicians stated that Nord suffered from a degenerative disc disease and chronic pain that rendered him unable to work.  Black & Decker referred Nord to a neurologist for an independent examination.  The neurologist concluded that, aided by pain medication, Nord could perform sedentary work.  MetLife thereafter made a final recommendation to deny Nord’s claim, which Black & Decker accepted.  Seeking to overturn that determination, Nord filed this action under ERISA.  The District Court granted summary judgment for the Plan, concluding that Black & Decker’s denial of Nord’s claim was not an abuse of the plan administrator’s discretion.  The Ninth Circuit reversed and itself granted summary judgment for Nord.  The Court of Appeals explained that the case was controlled by a recent Ninth Circuit decision holding that, when making benefit determinations, ERISA plan administrators must follow a “treating physician rule.”  As described by the appeals court, that rule required a plan administrator who rejects the opinions of a claimant’s treating physician to come forward with specific reasons for the decision, based on substantial evidence in the record.  The Ninth Circuit found that, under this rule, the plan administrator had not provided adequate justification for rejecting the opinions of Nord’s treating physicians.  
+
+Held: ERISA does not require plan administrators to accord special deference to the opinions of treating physicians.  The “treating physician rule” imposed by the Ninth Circuit was originally developed by Courts of Appeals as a means to control disability determinations by administrative law judges under the Social Security Act.  In 1991, the Commissioner of Social Security adopted regulations approving and formalizing use of the rule in the Social Security disability program.  Nothing in ERISA or the Secretary of Labor’s ERISA regulations, however, suggests that plan administrators must accord special deference to the opinions of treating physicians, or imposes a heightened burden of explanation on administrators when they reject a treating physician’s opinion.  If the Secretary found it meet to adopt a treating physician rule by regulation, courts would examine that determination with appropriate deference.  See Chevron U.S. A. Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837.  But the Secretary has not chosen that course and an amicus brief reflecting the Department of Labor’s position opposes adoption of such a rule for disability determinations under plans covered by ERISA.  Whether a treating physician rule would increase the accuracy of ERISA disability determinations, as the Ninth Circuit believed it would, is a question that the Legislature or superintending administrative agency is best positioned to address.  Finally, and of prime importance, critical differences between the Social Security disability program and ERISA benefit plans caution against importing a treating physician rule from the former area into the latter.  By accepting and codifying such a rule, the Social Security Commissioner sought to serve the need for efficient administration of an obligatory nationwide benefits program.  In contrast, nothing in ERISA requires employers to establish employee benefits plans or mandates what kind of benefits employers must provide if they choose to have such a plan.  Lockheed Corp. v. Spink, 517 U.S. 882, 887.  Rather, employers have large leeway to design disability and other welfare plans as they see fit.  In determining entitlement to Social Security benefits, the adjudicator measures the claimant’s condition against a uniform set of federal criteria.  The validity of a claim to benefits under an ERISA plan, on the other hand, is likely to turn, in large part, on the interpretation of terms in the plan at issue.  Firestone Tire & Rubber Co. v. Bruch, 489 U.S. 101, 115.  Deference is due the Labor Secretary’s stated view that ERISA is best served by preserving the greatest flexibility possible for operating claims processing systems consistent with a plan’s prudent administration.  Plan administrators may not arbitrarily refuse to credit a claimant’s reliable evidence, including the opinions of a treating physician.  But courts have no warrant to require administrators automatically to accord special weight to the opinions of a claimant’s physician; nor may courts impose on administrators a discrete burden of explanation when they credit reliable evidence that conflicts with a treating physician’s evaluation.  Pp. 5—11.  
+
+296 F.3d 823, vacated and remanded.
+
+    Ginsburg, J., delivered the opinion for a unanimous Court.
+

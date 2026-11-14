@@ -1,0 +1,29 @@
+run_ot2002_no_git.py ledger
+Ledger appended 13 new Record row(s); 131 existing rows preserved byte-for-byte.
+DEFERRED: Git commitment and commit-hash verification were not performed.
+
+Exit: 0
+
+run_ot2002_no_git.py manifest
+terms/OT2002/workspace/manifest.md
+Manifest status rows updated: 12
+Sectioned inventory: 180 scheduled events, one manifest row each.
+
+Exit: 0
+
+ot2002_chunk11_workspace.py 
+Workspace projections rebuilt: 144 Records, 140 completed inventory events, 0 stopped.
+
+Exit: 0
+
+build_render_input.py terms\OT2002\render-inputs\OT_2002CHUNK11.md
+terms\OT2002\render-inputs\OT_2002CHUNK11.md
+
+Exit: 0
+
+run_ot2002_no_git.py check
+Sectioned inventory: 180 scheduled events, one manifest row each.
+OK (non-Git checks only): OT2002; 0 warning(s)
+DEFERRED: commit-hash existence was not verified (0 distinct candidate references). No Git command was executed. This is not a full provenance pass.
+
+Exit: 0

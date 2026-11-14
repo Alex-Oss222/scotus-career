@@ -1,0 +1,66 @@
+{
+  "scope": "content drafts only; no assignment or publication",
+  "structural_checks": [
+    {
+      "case": "Beneficial National Bank v. Anderson",
+      "eleven_blocks": true,
+      "holdings_identical": true,
+      "one_internal_assignment_placeholder": true,
+      "explanation_words": [
+        294
+      ],
+      "eligible_whole_lead": 6
+    },
+    {
+      "case": "Dastar Corp. v. Twentieth Century Fox Film Corp.",
+      "eleven_blocks": true,
+      "holdings_identical": true,
+      "one_internal_assignment_placeholder": true,
+      "explanation_words": [
+        257,
+        97
+      ],
+      "eligible_whole_lead": 8
+    },
+    {
+      "case": "Knussman v. Maryland",
+      "eleven_blocks": true,
+      "holdings_identical": true,
+      "one_internal_assignment_placeholder": true,
+      "explanation_words": [
+        147,
+        167,
+        239,
+        108
+      ],
+      "eligible_whole_lead": 6
+    }
+  ],
+  "arithmetic": {
+    "Beneficial": {
+      "participating": 9,
+      "judgment_support": 7,
+      "judgment_opposed": 2,
+      "direct_lead": 6,
+      "judgment_only": 1
+    },
+    "Dastar": {
+      "participating": 8,
+      "judgment_support": 8,
+      "judgment_opposed": 0,
+      "direct_lead": 8,
+      "nonparticipants": 1
+    },
+    "Knussman": {
+      "participating": 9,
+      "liability_support": 9,
+      "immunity_support": 9,
+      "damages_support": 8,
+      "damages_opposed": 1,
+      "ordinary_review": 6,
+      "distinct_review": 2,
+      "remand_support": 8
+    }
+  },
+  "legal_validation": "See C_REVIEW.md; computation does not decide substance."
+}

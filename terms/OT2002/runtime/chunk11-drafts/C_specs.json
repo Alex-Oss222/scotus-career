@@ -1,0 +1,107 @@
+[
+  {
+    "case": "Beneficial National Bank v. Anderson",
+    "date": "2003-06-02",
+    "file": "Beneficial-National-Bank-v-Anderson_merits_2003-06-02.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "fit_notes": {
+      "Stevens": "The actual task is distinguishing the statutory cause from auxiliary enforcement power while treating the interlocutory remedy accurately. His full commitments support both.",
+      "O'Connor": "Her complete source-and-removal commitment supports a clear separation of original federal character and removal exceptions.",
+      "Kennedy": "His claim-specific limits aid preservation of independent duties and nonbank-defendant jurisdiction.",
+      "Souter": "His Smiley substantive/remedial distinction supplies fit for explaining why exclusive cause and unadjudicated recovery remain different.",
+      "Ginsburg": "Her jurisdiction/remedy separation supplies fit for the exclusive action and the limited interlocutory remand.",
+      "Breyer": "His enacted-source commitment supports the statutory structure without relying on banking uniformity as a jurisdictional source."
+    }
+  },
+  {
+    "case": "Dastar Corp. v. Twentieth Century Fox Film Corp.",
+    "date": "2003-06-02",
+    "file": "Dastar-Corp-v-Twentieth-Century-Fox-Film-Corp_merits_2003-06-02.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "chief_assigns_any": true,
+    "fit_notes": {
+      "Stone-Zsela": "His approved source/expression distinction and remedy separation directly fit the opinion; evaluate against eligible alternatives within the actual pool.",
+      "Stevens": "His statutory source and existing-bargain positions support the authorship-credit boundary without a new constitutional holding.",
+      "O'Connor": "Her complete source-protection commitment preserves independent copyright and source-deception predicates.",
+      "Scalia": "His Wal-Mart source-significance and dependent-remedy analysis fits the statutory product/author distinction.",
+      "Kennedy": "His source-protection commitment fits actual statutory predicates while keeping equitable relief dependent on liability.",
+      "Souter": "His Qualitex source and distinct-right analysis fits the boundary between tangible production and copied expression.",
+      "Thomas": "His statutory account supports the enacted source requirement without treating bodily appropriation as an element substitute.",
+      "Ginsburg": "Her separate-regime approach fits preserving the book-copyright dispute while rejecting an unprovided attribution cause."
+    }
+  },
+  {
+    "case": "Knussman v. Maryland",
+    "date": "2003-06-02",
+    "file": "Knussman-v-Maryland_merits_2003-06-02.md",
+    "countable": true,
+    "form": "signed plenary Opinion of the Court",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "chief_assigns_any": true,
+    "fit_notes": {
+      "Stone-Zsela": "The approved core supplies the exact separation of merits, conduct-date immunity, causal injury and conditional remedy; compare that fit with the actual pool.",
+      "O'Connor": "Her Hogan and Gasperini commitments fit the care/medical distinction and ordinary trial/appellate allocation.",
+      "Kennedy": "His individual-equality, objective-notice and Gasperini positions carry the full lead without using later law as notice.",
+      "Souter": "His Hope and Gasperini grounds fit the simultaneous conduct-date warning and bounded appellate review issues.",
+      "Ginsburg": "Her Elder and equality commitments fit the conduct-date source discipline and limited verdict-error remand.",
+      "Breyer": "His contextual notice and trial-appellate allocation commitments fit the complete lead and conditional damages remedy."
+    }
+  }
+]

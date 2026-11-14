@@ -1,0 +1,135 @@
+[
+  {
+    "form": "Signed fractured plenary lead; Court opinion Parts I and III; judgment-announcing Part II",
+    "assigner": "O'Connor / Stone-Zsela",
+    "chief_assigns_any": true,
+    "eligible_authors": [
+      "Souter",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Souter",
+      "Breyer"
+    ],
+    "assignment_authority_text": "O'Connor assigns the Fifth Amendment component as the senior Associate in its five-Justice judgment coalition; Stone-Zsela assigns the unanimous precedent component and the independent due-process component as Chief in their respective nine- and six-Justice coalitions. Both components issue in one lead supported throughout by Souter and Breyer; because the Chief assigns a part, section 8 balance governs this lead.",
+    "fit_notes": {
+      "Souter": "The confined added-protection rationale and exact independent remand preserve the actual fracture and both lawful immunity outcomes.",
+      "Breyer": "McKune, Johnson and the present remand positions support clear separation of prospective privilege, additional remedy and interlocutory facts."
+    },
+    "case": "Chavez v. Martinez",
+    "date": "2003-05-27",
+    "file": "Chavez-v-Martinez_merits_2003-05-27.md",
+    "countable": true
+  },
+  {
+    "form": "Signed plenary opinion of the Court; judgment-only concurrence",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Stevens": "Authored the actual task-specific Key Tronic rule and can distinguish that rule from the new gateway while preserving genuine alternatives.",
+      "Ginsburg": "Her express preservation boundary can be stated faithfully without deciding the independent claim before the lower court.",
+      "Thomas": "Bestfoods illustrates separation of CERCLA responsibility, statutory function and independent recovery routes.",
+      "Souter": "The frozen reading gives each statutory clause a function and preserves the procedural remand.",
+      "Breyer": "Can explain the cleanup-incentive counterargument without replacing the statutory condition.",
+      "Scalia": "The text and separate contribution routes fit his complete frozen statutory ground.",
+      "Kennedy": "Can separate statutory authorization, responsibility and recoverable remedial incidents.",
+      "O'Connor": "Can explain the conditional grant and preservation clause without treating state pressure as settlement."
+    },
+    "case": "Cooper Industries, Inc. v. Aviall Services, Inc.",
+    "date": "2003-05-27",
+    "file": "Cooper-Industries-Inc-v-Aviall-Services-Inc_merits_2003-05-27.md",
+    "countable": true
+  },
+  {
+    "form": "Signed plenary threshold opinion; standing concurrence in judgment; two-Justice dissent",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "fit_notes": {
+      "Scalia": "His Ohio Forestry opinion supplies the actual fitness, hardship and later-review distinction.",
+      "Kennedy": "Christensen supports separating agency opinion from binding delegated statutory power.",
+      "Souter": "Smiley and the frozen position support careful treatment of actual agency authority and current consequences.",
+      "Thomas": "Can preserve the difference between final rulemaking and present judicial readiness.",
+      "Ginsburg": "The explicit later-review boundary protects meaningful future adjudication while resolving the present vehicle.",
+      "Stone-Zsela": "His approved position precisely separates threshold review, agency authority, statutory merits and the without-prejudice mandate."
+    },
+    "case": "National Park Hospitality Association v. Department of the Interior",
+    "date": "2003-05-27",
+    "file": "National-Park-Hospitality-Association-v-Department-of-the-Interior_merits_2003-05-27.md",
+    "countable": true
+  },
+  {
+    "form": "Signed unanimous plenary opinion with concurrence",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Ginsburg": "Spink and Rush Prudential support the precise distinction among design, administration and actually enacted coverage duties.",
+      "Souter": "Curtiss-Wright supports separating a valid procedure from proof of actual compliance.",
+      "Kennedy": "The recent Kentucky Association opinion can be kept at its actual insurance-saving scope.",
+      "Stevens": "The frozen position preserves clinical evidence and ordinary review without a new source hierarchy.",
+      "O'Connor": "Firestone and the design/administration distinction support the complete rule and remand.",
+      "Scalia": "Can state the statutory-source boundary while preserving all ordinary review obligations.",
+      "Thomas": "Can distinguish Social Security incorporation from ERISA statutory duties.",
+      "Breyer": "Can address clinical continuity and conflict concerns through the actual system rather than a mandatory preference.",
+      "Stone-Zsela": "The approved core supports the entire necessary lead while reserving his express general explanation proposal to a concurrence."
+    },
+    "case": "Black & Decker Disability Plan v. Nord",
+    "date": "2003-05-27",
+    "file": "Black-and-Decker-Disability-Plan-v-Nord_merits_2003-05-27.md",
+    "countable": true
+  }
+]
