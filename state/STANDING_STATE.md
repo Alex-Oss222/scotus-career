@@ -45,7 +45,7 @@ The order effective August 3, 1994 governs at the OT2003 opening.
 | Eleventh Circuit | Clarence Thomas, Associate Justice | August 3, 1994 | August 3 allotment order. |
 | Federal Circuit | Alex-Lamar Stone-Zsela, Chief Justice | August 3, 1994 | August 3 allotment order. |
 
-**Allotment rule:** A membership change triggers a complete reallotment. No Justice inherits a predecessor's circuits. Under the Composition register, Stone reassesses the entire map for institutional effectiveness; an express administrative order may also change an allotment.
+**Allotment rule:** A membership change triggers a complete reallotment. No Justice inherits a predecessor's circuits. Under the Composition register, Stone-Zsela reassesses the entire map for institutional effectiveness; an express administrative order may also change an allotment.
 
 ## 3. Standing Practices
 
