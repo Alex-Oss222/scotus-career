@@ -1,0 +1,287 @@
+[
+  {
+    "query": "collection:us-supreme-court AND (title:(Hibbs) OR identifier:(01-1368))",
+    "result": {
+      "numFound": 5,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40385014_0679",
+          "title": "Hibbs v. Winn, 542 U.S. 88 (2004) (No. 02-1809)"
+        },
+        {
+          "identifier": "micro_IA40386013_1840",
+          "title": "Hibbs v. City of San Buenaventura, 523 U.S. 1004 (1998) (No. 97-924)"
+        },
+        {
+          "identifier": "micro_IA40385607_1493",
+          "title": "Hibbs v. United States, 415 U.S. 957 (1974) (No. 73-782)"
+        },
+        {
+          "identifier": "micro_IA40386002_0038",
+          "title": "National Safe Deposit, Sav. & Trust Co. of DC v. Hibbs, 229 U.S. 391 (1913) (No. 79)"
+        },
+        {
+          "identifier": "micro_IA40386020_1623",
+          "title": "Moran v. Hibbs, 543 U.S. 810 (2004) (No. 03-1495)"
+        }
+      ]
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND (title:(David) OR identifier:(02-1212))",
+    "result": {
+      "numFound": 332,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "per_scotus_1878_856",
+          "title": "David Barnet and Isaac E. Craig, Assignees of Barnets and Whiteside, Plaintiffs in Error, vs. The Muncie National Bank of Muncie, Indiana. 1878: Vol 856"
+        },
+        {
+          "identifier": "per_scotus_the-united-states-appellants-vs-david-mouat_1887_1070",
+          "title": "The United States, Appellants, vs. David Mouat. 1887: Vol 1070"
+        },
+        {
+          "identifier": "per_scotus_1876_411",
+          "title": "Franz A. Muller, George Vanderkors, and Edward C. B. Danielzoon. vs. David Dows et al. 1876: Vol 411"
+        },
+        {
+          "identifier": "per_scotus_1855_266",
+          "title": "The United States, Appellants, vs. Jas. D. Galbraith, John Sime, David T. Bagley, and Richard H. Stanton. 1855: Vol 266"
+        },
+        {
+          "identifier": "per_scotus_1868_242",
+          "title": "William N. Whiteley, Jerome Fassler, and Oliver S. Kelly, Appellants, vs. William A. Kirby and David Osborn 1868: Vol 242"
+        },
+        {
+          "identifier": "per_scotus_1874_234",
+          "title": "The \u00c6tna Life-Insurance Company, Plaintiff in Error, vs. David France and Lucetta T., His wife, In right of said Lucetta T., and to her use. 1874: Vol 234"
+        },
+        {
+          "identifier": "per_scotus_1881_306",
+          "title": "Gideon Bantz, Complainant and Appellant, Against David Frantz & Sons, Appellees. 1881: Vol 306"
+        },
+        {
+          "identifier": "per_scotus_1852_163",
+          "title": "Samuel Platte, Complainant and Appellant, vs. David McClure. 1852: Vol 163"
+        },
+        {
+          "identifier": "per_scotus_1845_172",
+          "title": "William Crawford and David Files, Plaintiffs in Error, vs. The Branch Bank of Alabama at Mobile. 1845: Vol 172"
+        },
+        {
+          "identifier": "per_scotus_1886_169",
+          "title": "The Cleveland Rolling Mill Company, Plaintiff in Error, vs. Charles D. Rhodes and David C. Bradley. 1886: Vol 169"
+        },
+        {
+          "identifier": "micro_IA40385008_0715",
+          "title": "400 E. Baltimore Street, Inc., Block News Inc., Phillip David Long, Thomas F. Craig, Joseph D. Stephens, David Thomas Stoughton, Charles Books, Inc., Deborah Rayola Redding a/k/a Deborah Rayola Pierce v. State of Maryland, 455 U.S. 940 (1982) (No. 81-902)"
+        },
+        {
+          "identifier": "per_scotus_1845_173_1",
+          "title": "The United States and al., vs. WM. J. Hill, David M. Porter and WM. F. Walker. 1845: Vol 173"
+        },
+        {
+          "identifier": "per_scotus_1874_232",
+          "title": "David A. Williams, Hector Moniell, and Seth W. Bolton, Appellants, vs. James Bankhead. 1874: Vol 232"
+        },
+        {
+          "identifier": "per_scotus_1875_84",
+          "title": "David Dows, John Dows Mairs, and Alexander Ector Orr, Plaintiffs in Error, vs. The National Exchange Bank of Milwaukee. 1875: Vol 84"
+        },
+        {
+          "identifier": "per_scotus_1873_405",
+          "title": "The City of Davenport and John Kaufman, Marshal of Said City, Appellants, vs. David Dows. 1873: Vol 405"
+        },
+        {
+          "identifier": "per_scotus_david-m-hughes-appellant-vs-the-united-states_1866_5",
+          "title": "David M. Hughes, Appellant, vs. The United States. 1866: Vol 5"
+        },
+        {
+          "identifier": "per_scotus_junius-amis-appellant-vs-david-myers_1853_92",
+          "title": "Junius Amis, Appellant, vs. David Myers 1853: Vol 92"
+        },
+        {
+          "identifier": "per_scotus_1868_139",
+          "title": "The Steamboat Northern Belle and Barge Pat Brady, The La Crosse and Minnesota Steam Packet Company, Claimant and Respondent, and Lewis J. Higby And David Ferguson, Stipulators of Said Claimants, Appellants, vs. John Robson. 1868: Vol 139"
+        },
+        {
+          "identifier": "per_scotus_1891_99",
+          "title": "David May and Adolph Hirsch, Appellants, vs. Daniel K. Tenney. 1891: Vol 99"
+        },
+        {
+          "identifier": "per_scotus_1893_938",
+          "title": "David L. Hammond and Others, Plaintiffs in Error, vs. Ann E. Gordon and Others. 1893: Vol 938"
+        },
+        {
+          "identifier": "micro_IA40385010_1321",
+          "title": "DAVID J. BROWN v. NORTH CAROLINA (No. 82-5542)"
+        },
+        {
+          "identifier": "micro_IA40385602_1047",
+          "title": "David v. Phinney, 382 U.S. 983 (1966) (No. 756)"
+        },
+        {
+          "identifier": "micro_IA40385605_1012",
+          "title": "David v. United States, 402 U.S. 983 (1971) (No. 1041)"
+        },
+        {
+          "identifier": "per_scotus_1875_127_0",
+          "title": "Maria Romie, Paul Romie, Charles Romie, Ernest Romie, and Mary Jacks and Her Husband, David Jacks, Plaintiffs in Error, vs. Teresa Casanova. 1875: Vol 127"
+        },
+        {
+          "identifier": "per_scotus_1875_825",
+          "title": "The Town of Coloma, Plaintiff in Error, vs. David W. Eaves 1875: Vol 825"
+        },
+        {
+          "identifier": "per_scotus_1876_104",
+          "title": "The United States, Plaintiffs in Error, vs. Annie Fox, Joseph Fox, George Fox, Benjamin N. Disbrow, David Hays, and A. H. Brummel 1876: Vol 104"
+        },
+        {
+          "identifier": "per_scotus_1845_133_0",
+          "title": "Thomas H. McClanahan, Appellant, vs. Richard David and al. 1845: Vol 133"
+        },
+        {
+          "identifier": "per_scotus_1868_359",
+          "title": "David W. Jones, Appellant, vs. Matthew Bolles, Appellee. 1868: Vol 359"
+        },
+        {
+          "identifier": "per_scotus_1882_713",
+          "title": "Chester A. Arthur, Late Collector of the Port of New York, Plaintiff in Error, vs. David Fox and Rose Fox 1882: Vol 713"
+        },
+        {
+          "identifier": "per_scotus_1870_57",
+          "title": "David C. Houston et al., Plaintiffs in Error and Plaintiffs below, vs. The Trustees of Jefferson College, at Canonsburgh, in Washington County, in the Commonwealth of Pennsylvania, and the Washington and Jefferson College, Defendants in Error and Def"
+        },
+        {
+          "identifier": "per_scotus_1888_186",
+          "title": "Henry G. Thompson, Appellant, vs. Thomas G. Hall, J. F. Oliver, Samuel Leopold, and David L. Harris. 1888: Vol 186"
+        },
+        {
+          "identifier": "per_scotus_1888_193_0",
+          "title": "H. J. Mcmurray, Jerry Schooling, W. R. ChamberLain, William Henry, Charles Curtis, David Martin, and H. W. Bragg, Copartners doing Business in the Firm-Name of the Washoe Mill & Lumber Company; The First National Bank of Reno, et al., Appellants, vs."
+        },
+        {
+          "identifier": "per_scotus_1870_299",
+          "title": "David Gibson, for Himself, and Thomas G. Gaylord, Benjamin B. Gaylord, Jared B. Green, Charles S. Green, William Elden, and William Calcord, Partners, as Gaylord, Son and Company, Appellants, vs. Americus Warden and Augustus S. Ludlow. 1870: Vol 299"
+        },
+        {
+          "identifier": "per_scotus_1873_61",
+          "title": "Grand Tower Mining, Manufacturing and Transportation Company, Plaintiff in Error, vs. Walter M. Phillips and David L. St. John, Partners as Phillips & St. John, Defendants in Error. 1873: Vol 61"
+        },
+        {
+          "identifier": "micro_IA40386011_0254",
+          "title": "David v. United States, 504 U.S. 955 (1992) (No. 91-1380)"
+        },
+        {
+          "identifier": "per_scotus_1874_62_0",
+          "title": "Nelson Edwards, Charles A. Woolsey, and George Collins, Plaintiffs in Error, vs. George W. Elliott, David Ripley, William A. Ripley, Charles O. Ripley, and John W. Ripley. 1874: Vol 62"
+        },
+        {
+          "identifier": "per_scotus_1891_1378",
+          "title": "E. P. Ferry, Eben Smith, and David Kellogg, Executors of George D. Hill, Deceased, et al., Plaintiffs in Error, vs. The County of King, and James Mcnaught, De F. S. Hyde, and Florence Hyde Chick, Executors of D. N. Hyde, Deceased. 1891: Vol 1378"
+        },
+        {
+          "identifier": "per_scotus_1893_224",
+          "title": "The Union Pacific Railway Company, Plaintiff in Error, vs. David George McDonald, by Mary E. McDonald, His Next Friend. 1893: Vol 224"
+        },
+        {
+          "identifier": "per_scotus_1870_137",
+          "title": "Seth Dewing and Ephraim Graham, Plaintiffs in Error, vs. David Sears, Jr., F. R. Sears, and K. W. Sears. 1870: Vol 137"
+        },
+        {
+          "identifier": "per_scotus_1855_164_0",
+          "title": "David A. Secombe and al., Pl'ffs in Error, vs. Franklin Steele. 1855: Vol 164"
+        },
+        {
+          "identifier": "per_scotus_1871_375",
+          "title": "The Merchants' Mutual Insurance Company of New Orleans, Plaintiff in Error, vs. Asahel P. Lyman and David Swinerton. 1871: Vol 375"
+        },
+        {
+          "identifier": "per_scotus_1882_104",
+          "title": "The United States, Plaintiff in Error, vs. David F. Power. Patrick Denvir, and Dennis Cronan. 1882: Vol 104"
+        },
+        {
+          "identifier": "per_scotus_1883_1160",
+          "title": "The Phenix Bank of the City of New York, Plaintiff in Error, vs. David Risley. 1883: Vol 1160"
+        },
+        {
+          "identifier": "per_scotus_1883_1182",
+          "title": "David Dows & Co., Plaintiffs in Error, vs. P. P. Johnson 1883: Vol 1182"
+        },
+        {
+          "identifier": "per_scotus_1895_44",
+          "title": "David F. Campbell, Plaintiff in Error, vs. Alfred S. Ellet, by John A. Ellet, His Guardian. 1895: Vol 44"
+        },
+        {
+          "identifier": "per_scotus_1853_134_0",
+          "title": "F. D. Conrad, Plaintiff in Error, vs. David Griffey. 1853: Vol 134"
+        },
+        {
+          "identifier": "per_scotus_1867_93",
+          "title": "The United State, Ex Rel. David B. Moses, Plaintiff in Error, vs. The City Council of Keokuk, Iowa, et al. 1867: Vol 93"
+        },
+        {
+          "identifier": "per_scotus_1871_64",
+          "title": "George N. Black, Plaintiff in Error, vs. David R. Curran. 1871: Vol 64"
+        },
+        {
+          "identifier": "per_scotus_1872_34",
+          "title": "Irving W. Fuller and David A. McKibben, Late Partners Under the Name and Style of Fuller & McKibben, Plaintiffs in Error, vs. Horace B. Claflin, Edward E. Eames, and Edward W. Bancroft, Merchants and Partners as H. B. Claflin & Co. 1872: Vol 34"
+        },
+        {
+          "identifier": "per_scotus_1869_161_0",
+          "title": "Joseph Gates, Assessor of Internal Revenue, etc., Plaintiff in Error, vs. David M. Osborne and John H. Osborne, Survivors of Themselves and C. Dennis, Deceased. 1869: Vol 161"
+        }
+      ]
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND \"01-1368\"",
+    "result": {
+      "numFound": 0,
+      "start": 0,
+      "docs": []
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND \"02-1212\"",
+    "result": {
+      "numFound": 1,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40385014_0638",
+          "title": "City of Los Angeles v. David, 538 U.S. 715 (2003) (No. 02-1212)"
+        }
+      ]
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(Los Angeles) AND title:(David)",
+    "result": {
+      "numFound": 1,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40385014_0638",
+          "title": "City of Los Angeles v. David, 538 U.S. 715 (2003) (No. 02-1212)"
+        }
+      ]
+    }
+  },
+  {
+    "query": "collection:us-supreme-court AND title:(Nevada Department Human Resources)",
+    "result": {
+      "numFound": 1,
+      "start": 0,
+      "docs": [
+        {
+          "identifier": "micro_IA40385011_0100",
+          "title": "Nevada ex rel. Welfare Division of the Department of Human Resources v. Vine, 464 U.S. 977 (1983) (No. 83-97)"
+        }
+      ]
+    }
+  }
+]

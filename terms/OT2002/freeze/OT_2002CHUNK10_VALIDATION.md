@@ -1,0 +1,56 @@
+# OT2002 chunk 10 validation
+
+**Status:** Run complete and ready for operator verification and repository commitment. Twelve scheduled events have Canonical Decision Records and one mechanically generated Render Input. No adjudicative matter is stopped. Public rendering is a separate task and was not performed.
+
+## Decisions and durable locations
+
+| Matter | Result | Record under records/ |
+|---|---|---|
+| Altman v. Bedford Central School District | Affirmed in part, vacated in part, and remanded, 9–0; continuing high-school controversy to be determined before merits. | `Altman-v-Bedford-Central-School-District_merits_2003-05-19.md` |
+| Breuer v. Jim's Concrete of Brevard, Inc. | Affirmed, 9–0; the FLSA action remains in federal court. | `Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md` |
+| Conant v. Walters | Permanent class injunction affirmed as construed, 9–0. | `Conant-v-Walters_merits_2003-05-19.md` |
+| Hilton v. City of Wheeling | Petition Clause judgment affirmed; equal-protection judgment vacated and remanded, 9–0. | `Hilton-v-City-of-Wheeling_merits_2003-05-19.md` |
+| Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony | Vacated and remanded, 9–0; eight join the claimant-capacity rationale, Stevens concurs in the judgment on the asserted-right ground. | `Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md` |
+| Kansas v. Nebraska | Integrated stipulation approved; limited recommittal; covered claims await final model-adoption certification before dismissal. | `Kansas-v-Nebraska_decree_2003-05-19.md` |
+| Los Angeles v. David | Timing judgment reversed and remanded, 8–1; Stone-Zsela dissents. | `Los-Angeles-v-David_merits_2003-05-19.md` |
+| Norfolk Southern Railway Co. v. Kirby | Reversed and remanded, 9–0, on both contractual-limitation grounds. | `Norfolk-Southern-Railway-Co-v-Kirby_merits_2003-05-19.md` |
+| Pharmaceutical Research and Manufacturers of America v. Walsh | Affirmed: 6–3 on the Medicaid preliminary-injunction component and 9–0 on the presented Commerce grounds; the preliminary injunction remains dissolved. | `Pharmaceutical-Research-and-Manufacturers-of-America-v-Walsh_merits_2003-05-19.md` |
+| United States v. Haney | Commerce challenge rejected; appellate affirmance of both §922(o) convictions vacated for the preserved arms inquiry and remanded, 9–0. | `United-States-v-Haney_merits_2003-05-19.md` |
+| Nevada Department of Human Resources v. Hibbs | Immunity rejection affirmed, 6–3; Article I and Section 5 each independently supported by five different direct joins. | `Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md` |
+| Bryant v. Adventist Health System/West | All nine affirm each first-visit component, reverse the admission cutoff, vacate dependent state-claim dismissal and remand. | `Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md` |
+
+## Permitted deterministic checks
+
+- `tools/check_term.py` logic passed with zero warnings through the reviewed no-repository-command adapter. The sectioned inventory adapter verifies all 180 inventory rows. The adapter disables only repository-history verification and guards subprocess execution; it does not treat that omitted check as passed. Transcript: `OT_2002CHUNK10_CHECK_TERM.txt`.
+- The manifest has 128 completed scheduled events and 52 remaining, represented by 131 event Records including the existing coordinated grant/summary pairs. All twelve chunk rows changed to completed; no scheduled matter was invented, rescheduled or conditioned on verifying its filing or review channel.
+- The ledger added twelve rows while retaining all 119 existing rows byte-for-byte. The manifest and ledger were rebuilt using the standard tools' parsing/refresh logic through the reviewed scoped adapters. The four workspace projections are coordinated with the completed Records.
+- The original approved brief and runtime splits passed the standard freshness checks. Holdings-volume synchronization also passed as part of the term check. The protected-file comparison checked 1,216 pre-Run files, including governing infrastructure, trackers, earlier adjudications and outputs, without a changed byte.
+- `OT_2002CHUNK10_MECHANICAL_VALIDATION.json` records twelve valid opening-label/public-block checks, twelve exact Record-to-Render-Input matches, all thirteen frozen stage hashes and their runtime identities, ordinary controlling-explanation ceilings, and the new-file content/path restrictions. No discrepancy remains.
+- Every internal controlling-holdings block matches its Public Projection Holdings block exactly. `OT_2002CHUNK10_COMPONENT_CHECK.json` verifies seventeen explicit component table rows and four compact judgment counts; Kansas appropriately discloses no public numerical tally. Qualitative review separately reconciles every rationale and partial join to those judgments.
+- `OT_2002CHUNK10_ASSIGNMENT_CHECK.json` independently recounts actual signed lead authors from Record opinion topologies and verifies all ten new count statements, eligible pools and selected authors. Each recount uses earlier effective dates and alphabetically earlier case names on the same date, including earlier writes in this Run and existing same-day decisions. Existing assignments are not reopened. David's summary per curiam and Kansas's unsigned decree do not count. Walsh's mixed assignment authority is recorded expressly; its one lead remains subject to the Chief's balanced-assignment restriction.
+
+## Stage separation and source handling
+
+`OT_2002CHUNK10_CONTROL_PREFLIGHT.md` records the preflight exposure incidents and the fresh replacements. The affected preflights produced no provisional commitments. Separate modeling, historical-reconciliation and assembly contexts were used. No single-conversation fallback is claimed or required. Stone entered each assembly only after the relevant final non-Stone reconciliation was frozen.
+
+Walsh's affidavit posture was returned through fresh neutral validation and comparator-unexposed modeling. A later primary-source recital about the scope of the remaining equitable-factor argument followed the same neutral/model sequence before reconciliation resumed. The final reconciliation restores O'Connor and Kennedy's supported injunction-restoration position and preserves the distinct Breyer, Scalia and Thomas grounds. It uses no invented equity finding or unprovided agency approval. The original group B and subsequent fresh freezes remain unchanged. `OT_2002CHUNK10_HANDOFF_INDEX.md` identifies the operative scoped authorities; the aggregate COMMITMENTS and RECONCILED files are mechanical copies, not independent substantive handoffs.
+
+All exact statutory and other source passages entering files were copied by script from saved sources. Record recitations, allegations, findings, assumptions and current law remain distinct. The 2004 Kirby comparator is diagnostic only; the May 19, 2003 adjudication rests on date-eligible law and the supplied lower record. Sources and operative cutoffs are documented in each Record. No missing historical document was converted into litigant default, lack of approval or an invented jurisdictional defect.
+
+## Substantive and Section 15 review
+
+Independent control review is recorded in `OT_2002CHUNK10_A_INDEPENDENT_REVIEW.md`, `OT_2002CHUNK10_B_INDEPENDENT_REVIEW.md` and `OT_2002CHUNK10_C_INDEPENDENT_REVIEW.md`, alongside the assembly receipts in runtime/chunk10-drafts. Approved Stone cores, actual conditional branches, frozen Associate grounds, complete questions, statutory exceptions, authority levels, existing precedents, remedy and next stage were checked. No standing fallback was needed. No new commitment was manufactured during assembly.
+
+**Section 15 negative-statement check: PASSED.** Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action, and their authored internal source sections, were reviewed under Section 8. Retained negatives state operative legal conditions, genuine scope or fragmentation, relief actually requested or ordered, or the surviving status of judgments and decrees. Private instructions and join barriers are not automatically restated as public disclaimers. Redundant no-award/no-proceeding language, unnecessary prior-joinder commentary, hypothetical neighboring claims and an unnecessary collateral-route disclaimer were removed before final validation. Inyo's pre-final formulation cleanup removed a contingent instruction about an unpresented personal-damages theory; no disposition, vote, adopted rule or actual residual remand changed. Original frozen source copies and approved text remain intact. Remand work is affirmative and is stated fully once in each public entry. Public projections contain no operator workflow or research-retrieval metadata.
+
+Walsh's direct majority holdings are distinguished from its three-Justice Medicaid application and from the other sufficient affirmance grounds. Seven support the prospective route, eight the narrow permission/safeguard framework, seven the substantive-duty relationship, five the rejection of modest inconvenience alone, and seven the Commerce rationales. No stronger purpose, benefit, burden or balancing test is synthesized from the six judgment votes. Hibbs has two independently sufficient five-Justice grounds with different coalitions; Stevens's withholding of Section 5 is not an invalidity vote. Bryant resolves the genuine-inpatient endpoint Harry left open and carries the approved direct-review transition.
+
+## Chronology, continuity and pending procedure
+
+The independent `OT_2002CHUNK10_CONTINUITY_REVIEW.md` reviews all twelve new projections and the seven already completed later-dated Records. It identifies no displaced predicate requiring correction. Earlier-dated but undecided later chunks supply no law or blocker. Same-date unrelated matters share entering law; assignment ordering is separately applied as described above. Bryant can use the effective Harry holding, while preserving its express endpoint reservation until this decision.
+
+Kansas's scheduled approval event is completed, but the covered historical claims remain pending until the Special Master's final report certifies the States' model adoption. No later certification is assumed. The workspace expressly retains that condition, Demore's OT2003 reargument, Cano's separate pending merits event and the three opening original-action carryovers. There is no stopped-matter blocker. `OT_2002CHUNK10_STOPPED.json` is empty.
+
+## Operator-reserved verification
+
+No version-control command was executed. Commit creation, commit-hash existence and repository-history provenance verification were not performed and are not certified here. This administrative deferral is the user's explicit operating instruction, not an adjudicative blocker. All task writes were confined to the authorized term and scratch directories; the locked top-level directory was not accessed. Governing infrastructure and opening trackers remain unchanged. Final content hashes provide a non-repository integrity snapshot for operator review.

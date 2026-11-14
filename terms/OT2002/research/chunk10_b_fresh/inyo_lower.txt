@@ -1,0 +1,490 @@
+291 F.3d 549
+291 F.3d 549
+BISHOP PAIUTE TRIBE, in its official capacity and as a representative of its Tribal members; Bishop Paiute Gaming Corporation, d.b.a. the Paiute Palace Casino, Plaintiffs-Appellants,
+v.
+COUNTY OF INYO; Phillip McDowell, individually and in his official capacity as District Attorney of the County of Inyo; Daniel Lucas, individually and in his official capacity as Sheriff of the County of Inyo, Defendants-Appellees.
+No. 01-15007.
+United States Court of Appeals, Ninth Circuit.
+Argued and Submitted October 9, 2001.
+Filed January 4, 2002.
+COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED Ralph LePera, Bishop, California (argued) and Anna Kimber, San Diego, California (brief), for the plaintiffs-appellants.
+John D. Kirby, Special Legal Counsel, County Counsel's Office, Independence, California, for the defendants-appellees.
+Appeal from the United States District Court for the Eastern District of California. Robert E. Coyle, Senior District Judge, Presiding. D.C. No. CV-00-6153-REC/LJO.
+Before: PREGERSON and RAWLINSON, Circuit Judges, and WEINER,
+*
+District Judge.
+PREGERSON, Circuit Judge:
+1
+On March 23, 2000, the District Attorney for the County of Inyo ("District Attorney") and the Sheriff for the County of Inyo ("Sheriff") obtained and executed a warrant to search Bishop Paiute Gaming Corporation ("Corporation") employee records held in the possession and control of the Bishop Paiute Tribe ("Tribe") in Bishop, California, as part of a welfare fraud investigation. The Tribe and the Corporation brought suit against the County of Inyo ("County"), the District Attorney, and the Sheriff (collectively "Defendants") under federal and state law seeking injunctive and declaratory relief, and damages under 42 U.S.C. § 1983.
+2
+The District Court granted Defendants' motion to dismiss on each of the Plaintiffs' claims. On appeal, the Tribe raises several arguments concerning the authority of the County to obtain and execute a search warrant against the Tribe. First, the Tribe argues that Public Law 280 — which grants California criminal jurisdiction over offenses committed by or against Indians — does not waive the Tribe's sovereign immunity, and thus the County exceeded its jurisdiction when it obtained and executed a search warrant against the Tribe. The Tribe also argues that the Indian Gaming and Regulatory Act preempts any jurisdiction the State of California might have to apply and enforce California's laws against the Tribe. Further, the Tribe argues that California has no jurisdiction over Indian lands pursuant to Public Law 280 because the California legislature has not specifically enacted legislation accepting such jurisdiction. Finally, the Tribe asserts that Public Law 280 is invalid because the Tenth Amendment precludes Congress from directing California to assume criminal jurisdiction over Indian lands.
+3
+The Tribe also seeks damages under 42 U.S.C. § 1983 on the ground that the County and its agents violated the constitutional and civil rights of the Tribe when the District Attorney and Sheriff knowingly obtained and executed a search warrant in excess of their jurisdiction.
+4
+We find that the County and its agents violated the Tribe's sovereign immunity when they obtained and executed a search warrant against the Tribe and tribal property. We also find that the county District Attorney and Sheriff acted as county officers when they obtained and executed a search warrant over tribal property, thus subjecting the County to liability under 42 U.S.C. § 1983. Finally, we find that neither the District Attorney nor the Sheriff is entitled to qualified immunity because they violated clearly established law by executing a warrant outside of their jurisdiction. With respect to these conclusions, we reverse the District Court. With respect to the Tribe's remaining arguments concerning the County's authority to obtain and execute a warrant against the Tribe, we affirm the District Court.
+A.
+5
+The Bishop Paiute Tribe ("Tribe") is a federally recognized tribe located on the Bishop Paiute Reservation in Bishop, California. The Bishop Paiute Gaming Corporation ("Corporation") is a tribally-chartered corporation wholly owned by the Tribe. The Corporation's sole purpose is to operate and manage Class II and Class III gaming, pursuant to a Tribal-State Compact, and under the legal authority of the Indian Gaming Regulatory Act, 25 U.S.C. § 2701
+et seq.
+The gaming facility is known as the Paiute Palace Casino ("Casino").
+6
+Shortly after February 14, 2000, personnel for the Casino received a request from the County of Inyo District Attorney's Office for records of three tribal member Casino employees. The stated purpose for the records was the County's investigation into alleged welfare fraud. On February 28, 2000, the Tribe's attorney informed the District Attorney that it was the Tribe's long-standing policy that the information requested would not be released unless the Tribe was authorized to do so in writing by the employees whose records were sought.
+7
+On March 22, 2000, Leslie Nixon, a peace officer with the District Attorney's Office, executed an affidavit in support of the issuance of a search warrant. The affidavit stated that she had reasonable and probable cause for believing that the employees' records would demonstrate that the three individuals had committed welfare fraud by receiving public assistance while employed. The affidavit stated that the three individuals had received such public assistance through the Inyo County Department of Health and Human Services during the period of April 1998 through June 1998.
+8
+Based on this affidavit, the Inyo County Superior Court issued a search warrant on March 23, 2000 authorizing a search of the Casino for the limited purpose of obtaining payroll records for the three tribal member Casino employees. The search warrant was executed that same day by the District Attorney for the County of Inyo, Phillip McDowell ("District Attorney"), and Sheriff for the County of Inyo, Daniel Lucas ("Sheriff"). Deadbolt cutters were used to cut locks off secured facilities containing confidential personnel records.
+9
+The District Attorney and Sheriff seized two types of payroll records: the first consisted of time card entries, payroll registers, and payroll check registers; the second consisted of quarterly payroll tax information which the Tribe had earlier submitted to the State of California in its California State Quarterly Wage and Withholding Reports.
+10
+Despite the limited scope of the search warrant, the documents seized contained confidential information concerning seventy-eight other tribal member Casino employees who were not the subject of the warrant, in addition to information concerning the named three individuals. The District Attorney and the Sheriff failed to give the Tribe an opportunity to redact from the seized records this information not specified or identified by the terms and conditions of the search warrant. Additionally, at the time of the search, the Tribe asserted that the state court did not have jurisdiction to enforce a warrant against a sovereign tribe.
+11
+Subsequent to July 13, 2000, the Tribe's attorney received correspondence from the District Attorney indicating that the County wished to obtain personnel records for six additional tribal member Casino employees for the period of July 1999 through July 2000. The Tribe's attorney informed the District Attorney that the Tribe would be willing to accept, as evidence of the employees' consent to release the information requested, a redacted copy of the last page of the signed county welfare application which indicated that the employment records of individuals applying for public assistance were subject to review by county officials. This offer was refused by the District Attorney.
+12
+The Tribe filed its complaint on August 4, 2000, seeking injunctive and declaratory relief and damages under 42 U.S.C. § 1983. On November 22, 2000, the District Court for the Eastern District of California granted Defendants' motion to dismiss. The District Court reached its decision on the grounds that: (1) the Tribe's sovereign immunity did not prohibit execution of the search warrant against the Tribe; (2) IGRA, which concerns gaming activities, does not preempt Public Law 280; (3) California was not required to enact enabling legislation before Public Law 280 became effective; (4) Public Law 280 does not violate the Tenth Amendment of the U.S. Constitution; (5) the District Attorney and Sheriff acted as state officers and thus the County is not liable for their conduct; and, (6) the District Attorney and Sheriff are entitled to qualified immunity and thus not liable in their personal capacities.
+13
+For the following reasons, we reverse the District Court order as to its conclusion that the Tribe's sovereign immunity was not violated by the issuance and execution of the warrant, and as to the District Court's conclusion that the Tribe was not entitled to damages under 42 U.S.C. § 1983. As to the other conclusions reached by the District Court, we affirm.
+B.
+14
+I. STANDARD OF REVIEW.
+15
+The Tribe challenges the District Court Order granting Defendants' Motion to Dismiss pursuant to Federal Rule 12(b)(6). We review the District Court's dismissal for failure to state a claim de novo.
+See Steckman v. Hart Brewing, Inc.,
+143 F.3d 1293, 1295 (9th Cir.1998) (noting that "a complaint should not be dismissed unless it appears beyond a doubt that plaintiff can prove no set of facts in support of his claim which would entitle him to relief"). We review the issue of whether a tribe has sovereign immunity de novo.
+Burlington N. R.Co. v. Blackfeet Tribe,
+924 F.2d 899, 901 (9th Cir.1991). On review of a denial of a motion to dismiss based on qualified immunity, we have jurisdiction only to decide if defendant's conduct violated clearly established constitutional rights.
+Pelletier v. Federal Home Loan Bank,
+968 F.2d 865, 871-72 (9th Cir.1992).
+16
+II. THE SOVEREIGN GOVERNMENTAL STATUS OF THE TRIBE PREVENTS THE EXECUTION OF THE SEARCH WARRANT AGAINST THE TRIBE.
+17
+A.
+Public Law 280 Did Not Waive the Tribe's Sovereign Immunity.
+18
+This case requires this court to reconcile the plenary power of the States over residents within their borders with the semi autonomous status of Indians living on tribal reservations. More particularly, we are asked to determine whether Public Law 280, 18 U.S.C. § 1162(a)—which granted several states criminal jurisdiction and limited civil jurisdiction over reservation Indians — can be read to infringe upon the sovereignty of Indian nations. An analysis of the jurisdictional reach of Public Law 280 necessarily must be taken against the backdrop of the Indian sovereignty doctrine.
+See Moe v. Salish & Kootenai Tribes,
+425 U.S. 463, 475, 96 S.Ct. 1634, 48 L.Ed.2d 96 (1976).
+19
+The Supreme Court's jurisprudence regarding Indian sovereignty is governed by the "policy of leaving Indians free from state jurisdiction and control...."
+Rice v. Olson,
+324 U.S. 786, 789, 65 S.Ct. 989, 89 L.Ed. 1367 (1945). The Supreme Court has viewed tribal sovereign immunity as a considerable shield against intrusions of state law into Indian country.
+See, e.g., Williams v. Lee,
+358 U.S. 217, 79 S.Ct. 269, 3 L.Ed.2d 251 (1959);
+McClanahan v. Arizona State Tax Comm'n,
+411 U.S. 164, 93 S.Ct. 1257, 36 L.Ed.2d 129 (1973).
+20
+Public Law 280 was adopted by Congress in response to the concern over the lawlessness on Indian reservations.
+See Bryan v. Itasca County,
+426 U.S. 373, 379, 96 S.Ct. 2102, 48 L.Ed.2d 710 (1976) (citing Carole Goldberg,
+Public Law 280: The Limits of State Jurisdiction over Reservation Indians,
+22 UCLA L. Rev. 535, 541-42 (1975)). As such, the statute was designed to address the conduct of individuals rather than abrogate the authority of Indian governments over their reservations. Section 2 of the statute grants six states, including California, criminal jurisdiction over offenses committed by or against Indians on the reservations.
+1
+Notably, the statute makes no mention of jurisdiction over Indian tribes.
+21
+The denial of state jurisdiction over tribes is also consistent with the Supreme Court's canons of construction for Indian law cases. In interpreting the scope of Public Law 280, the Supreme Court has been "guided by that eminently sound and vital canon ... that statutes passed for the benefit of dependent Indian tribes ... are to be liberally construed, doubtful expressions being resolved in favor of the Indians."
+Bryan,
+426 U.S. at 391, 392 (citations omitted). Thus, any statutory ambiguity as to whether the State can enforce a warrant against the Tribe should be read to protect Indian sovereignty.
+22
+Reading the plain language of the statute and applying long-established canons of construction relevant to Indian law cases, the United States Supreme Court and the Ninth Circuit have interpreted Public Law 280 to extend jurisdiction to individual Indians and not to Indian tribes.
+See Id.
+at 389, 96 S.Ct. 2102 (interpreting Public Law 280 and observing that "there is notably absent any conferral of state jurisdiction over the tribes themselves...");
+California v. Quechan Tribe of Indians,
+595 F.2d 1153, 1156 (9th Cir.1979) (stating that "[n]either the express terms of [Public Law 280], nor the Congressional history of the statute, reveal any intention by Congress for it to serve as a waiver of a Tribe's sovereign immunity"). Absent a waiver of sovereign immunity, tribes are immune from processes of the court.
+2
+23
+Nevertheless, Defendants argue that in light of Supreme Court decisions that have described an inherent limitation on tribal sovereignty, Public Law 280 must be read to grant jurisdiction to the states to execute a search warrant over the Tribe.
+See, e.g., United States v. Wheeler,
+435 U.S. 313, 323, 98 S.Ct. 1079, 55 L.Ed.2d 303 (1978) (holding that an Indian tribe retains jurisdiction to punish one of its members unless withdrawn by treaty, statute or implication as a necessary result of their dependent status);
+Oliphant v. Suquamish Indian Tribe,
+435 U.S. 191, 211-12, 98 S.Ct. 1011, 55 L.Ed.2d 209 (1978) (holding that an Indian tribe's exercise of criminal jurisdiction over non-Indians is inconsistent with the domestic-dependent status of the tribes and that tribes may not assume such jurisdiction without congressional authorization). Defendants assert that because tribes are no longer possessed with the full attributes of a sovereign, it would be inconsistent with their dependent status to bar the state from executing a search warrant against tribal property.
+24
+However, all the cases relied upon by Defendants involve instances where a tribe's sovereignty has been limited after it attempted to exert jurisdiction over nonmember Indians or in cases involving attempted exertion of jurisdiction over nontribal lands. This case involves the Tribe's assertion of jurisdiction over uniquely tribal property (Casino employee records) on tribal land. Thus, Defendants' assertion that the Tribe's inherent sovereignty has been lost by implication is not supported by law.
+25
+In sum, in enacting Public Law 280, Congress neither waived the sovereignty of the tribes, nor granted state jurisdiction over Indian tribes. Accordingly, we hold that Public Law 280 did not confer state jurisdiction over the Tribe.
+26
+B.
+Execution of a Warrant Against the Tribe Violates Tribal Immunity.
+27
+Defendants argue that the execution of a warrant against the Tribe does not offend their status as a sovereign entity. The Tribe responds that their right to develop and enforce their internal tribal policies should be protected.
+28
+The Tribe established reasonable policies concerning the confidentiality of employee records, which in many instances were based on federal and state guidelines. The Tribe asserts that such policies are necessary to encourage truthfulness and accuracy in Casino employee records. As one of the only means by which the Tribe can generate income and be self-sufficient, management of the Casino is uniquely part of the Tribe's government and infrastructure. Indeed, all governments create policies and procedures for the protection of their records.
+See, e.g.,
+Freedom of Information Act, 5 U.S.C. § 552
+et seq.;
+California Public Records Act, CAL. GOV'T CODE § 6250. Undoubtedly, California's sovereign immunity would be compromised if the United States demanded that the State follow procedures other than those adopted by the state policymakers. Moreover, at issue is not just the Tribe's right to protect the confidentiality of its employee records, but the more fundamental right of the Tribe not to have its policies undermined by the states and their political subdivisions.
+See New Mexico v. Mescalero Apache Tribe,
+462 U.S. 324, 334, 103 S.Ct. 2378, 76 L.Ed.2d 611 (1983) (noting that "the tribes and the Federal Government are firmly committed to the goal of promoting tribal self-government ..."). We conclude that the execution of a search warrant against the Tribe interferes with "the right of reservation Indians to make their own laws and be ruled by them."
+Williams,
+358 U.S. at 220, 79 S.Ct. 269.
+29
+Defendants characterize the execution of the warrant against the Tribe as a "customary inconvenience" that would accompany the service on any business. However, this Circuit has held that a subpoena issued against a tribe is different and cannot be enforced because of tribal immunity.
+See United States v. James,
+980 F.2d 1314 (9th Cir.1992). In
+James,
+the Indian defendant was prosecuted by the federal government for the crime of rape against another Indian pursuant to the grant of federal jurisdiction through the Indian Major Crimes Act, 18 U.S.C. § 1153. The defendant appealed his criminal conviction in part on the ground that the federal district court erred in quashing a subpoena that ordered the Quinault Tribe to release documents in its possession relating to the victim's alcohol and drug problem.
+Id.
+at 1319. In affirming the district court's order to quash the subpoena, the court noted that "Congress did not address implicitly, much less explicitly, the amenability of the tribes to the processes of the court in which the prosecution is commenced" when it granted federal criminal jurisdiction over individual Indians for certain crimes pursuant to 18 U.S.C. § 1153.
+Id.
+at 1319. The court held that the Tribe was possessed of tribal immunity and thus the federal court lacked the jurisdiction to enforce a subpoena against an unwilling sovereign even though the federal government had jurisdiction to enforce federal criminal laws against individual Indians.
+Id.
+at 1319.
+30
+The ruling in
+James
+is directly relevant to our review of this case. The
+James
+Court correctly focused on the status of Indian tribes as sovereigns and denied the federal government the authority to compel disclosure of tribal documents. That the federal government may not pierce the sovereignty of Indian tribes, notwithstanding its constitutionally preemptive authority over Indian affairs,
+see
+U.S. CONST. art. I, § 8, carries considerable weight in our review of this case.
+31
+The District Court distinguished
+James
+on two grounds, neither of which justifies its decision not to follow Circuit precedent. First, the District Court noted without further discussion that the tribe in
+James
+was a third party and not directly involved in the criminal proceeding. However, the District Court does not explain why the Tribe's status as Plaintiff in this case affords it any less protection against government intrusion of its sovereignty than was afforded the Quinault Tribe in
+James.
+In both
+James
+and the case at issue here the tribes were in sole possession of confidential documents that the state or federal government claimed to need for effective prosecution of tribal members. In neither case was the tribe the subject of prosecution. Moreover, both tribes refused to disclose their documents because to do so would violate tribal policies.
+32
+Second, the District Court balanced the interests at stake in
+James,
+compared them to those in the case at issue, and determined that the Bishop Paiute Tribe's interests were less compelling. However, the District Court offered no authority for the application of a balancing test in the present circumstances. By contrast, the Supreme Court has adopted a more categorical approach denying state jurisdiction where states attempt to assert such jurisdiction over a tribe absent a waiver by the tribe or a clear grant of authority by Congress.
+See Oklahoma Tax Comm'n v. Chickasaw Nation,
+515 U.S. 450, 458, 115 S.Ct. 2214, 132 L.Ed.2d 400 (1995) (citing
+Bryan,
+426 U.S. 373, 96 S.Ct. 2102, 48 L.Ed.2d 710). Though the rule is not a
+per se
+rule,
+see California v. Cabazon Band of Mission Indians,
+480 U.S. 202, 214 215, 107 S.Ct. 1083, 94 L.Ed.2d 244 (1987), cases applying a balancing test have involved state assertions of authority over non-members on reservations and in exceptional circumstances over the on-reservation activities of tribal members,
+see, e.g., Mescalero Apache Tribe,
+462 U.S. at 331-332, 103 S.Ct. 2378;
+Confederated Salish & Kootenai Tribes,
+425 U.S. at 480, 96 S.Ct. 1634. Because Defendants attempted to assert jurisdiction over the Tribe, and not over individual tribal members or non-members on tribal land, the District Court erroneously applied a balancing test.
+33
+However, even if a balancing test is the appropriate legal framework, the balance of interests favors a ruling for the Tribe. In
+James,
+the Quinault Tribe asserted sovereign immunity to "protect the Native American victim and to foster confidence in the tribe's Social and Health Services." The
+James
+Court held that the protection of tribal sovereignty justified the withholding of tribal documents even though they might be relevant to a federal criminal prosecution.
+James,
+980 F.2d at 1319-1320. In the present case, the Tribe asserted sovereign immunity to protect its right to self-government. The enforcement of tribal policies regarding employee records is an act of self-government because it concerns the disclosure of tribal property and because it affects the Tribe's main source of income. The Tribe, like California or the federal government, has adopted certain polices and procedures regarding its records. These policies promote tribal interests, such as accuracy in tribal records, confidentiality of members' personal information and a trusting relationship with tribal members. The Tribe's employment policies also affect the Casino, the Tribe's predominant source of economic development revenue.
+34
+These interests should be weighed against Defendants' interest in investigating potential welfare fraud — something that could be accomplished through far less intrusive means than infringing on the Tribe's sovereignty.
+See infra
+Section II C. It is clear that the interests at stake for the Bishop Paiute Tribe are equally as great as those at stake for the Quinault Tribe in
+James.
+Moreover, we find that the state's interest in the present case — the prevention of welfare fraud — is not as great as the federal government's interest in the judicious criminal prosecution in
+James,
+and it is certainly not as great as protecting the Tribe's sovereign immunity. Thus, this court reaffirms
+James
+and holds that the Tribe is possessed of sovereign immunity which bars execution of the warrant.
+3
+35
+C.
+The County and Its Officials Have Other Less Intrusive Means to Investigate Allegations of Welfare Fraud by Tribal Members.
+36
+Although Defendants may need to expeditiously enforce California's welfare laws, their interests must yield to the principles of immunity.
+See United States v. United States Fidelity & Guarantee Co.,
+309 U.S. 506, 513, 60 S.Ct. 653, 84 L.Ed. 894 (1940). Defendants assert that a decision by this court to bar the enforcement of search warrants against tribal governments would hamper state and federal governments in their investigations of criminal conduct on Indian land. The Supreme Court has concluded that even though tribal sovereignty might prohibit the states from conducting law enforcement through the most effective means, other adequate alternatives exist.
+Oklahoma Tax Comm'n v. Citizen Band Potawatomi Indian Tribe,
+498 U.S. 505, 514 (1991) (noting that "[t]here is no doubt that sovereign immunity bars the State from pursuing the most efficient remedy, but we are not persuaded that it lacks any adequate alternatives"). Thus, the fact that the County has the burden of seeking other methods to obtain the same information does not justify a diminution of the Tribe's sovereign status.
+37
+The Tribe offered several alternatives to the execution of a search warrant in order to assist the District Attorney in his investigation. Most clearly, the County could have followed the Tribe's policies as to confidential tribal records and allowed the Tribe to seek consent from the three employees before disclosing their files. The Tribe also offered to accept, as evidence of a release of the records, a redacted copy of the last page of the welfare application that clearly indicates that employment records for individuals seeking public assistance were subject to review by county officials. However, the District Attorney refused this offer. The Tribe also contends that the County already had evidence of the alleged welfare fraud in its possession. Finally, Defendants had authority, under Public Law 280, to execute a search warrant against the individual tribal members. Such a search would likely uncover relevant documents. The District Attorney's interest in receiving this information through the processes of the court is no basis to chip away at the Tribe's sovereign status.
+38
+III. THE INDIAN GAMING AND REGULATORY ACT DOES NOT PREEMPT PUBLIC LAW 280 AS TO NON-GAMING CRIMES.
+39
+The District Court correctly found that IGRA does not preempt Public Law 280 as to non-gaming crimes. IGRA grants the United States "exclusive jurisdiction over criminal prosecutions of violations of State gambling laws that are made applicable under this section to Indian country...." 18 U.S.C. § 1166(d).
+See United States v. E.C. Investments, Inc.,
+77 F.3d 327, 330 (9th Cir.1996). In interpreting the preemptive effect of IGRA, the Ninth Circuit stated that if the federal government's exclusive jurisdiction "is incompatible with any provision of Public Law 280, then the Public Law 280 provision has been impliedly repealed by section 1166(d)."
+Sycuan Band of Mission Indians v. Roache,
+54 F.3d 535, 540 (9th Cir.1995). However, IGRA explicitly concerns gaming operations by Indian tribes. In this case, Defendants were seeking to enforce a warrant as part of an investigation into welfare fraud and not part of allegations of illegal gambling. As the District Court rightly noted, "[b]ecause the investigation and search warrant deal with a state felony rather than whether a casino game is illegal under state law, there is no IGRA preemption."
+40
+We affirm the District Court with respect to its rulings that IGRA did not preempt Public Law 280 as to non-gaming crimes.
+41
+IV. CALIFORNIA IS NOT REQUIRED TO AFFIRMATIVELY ADOPT PUBLIC LAW 280 IN ORDER TO ASSUME ITS GRANT OF JURISDICTION.
+42
+The District Court correctly found that California was not required to enact enabling legislation that assumed jurisdiction before Public Law 280 would become effective in the State. A direct congressional grant of jurisdiction over Indian country does not require any further action to vest the state with jurisdiction unless state law itself prevents the state from exercising such jurisdiction.
+See, e.g., Washington v. Confederated Bands and Tribes of the Yakima Indian Nation,
+439 U.S. 463, 471-72, 99 S.Ct. 740, 58 L.Ed.2d 740 (1979) (explaining that Public Law 280's mandatory criminal jurisdiction "effected an immediate cession of criminal and civil jurisdiction over Indian country" to affected states). Moreover, California law has clearly held that it was "not required that California enact some form of enabling legislation to assume jurisdiction before the terms of [Public Law 280] became effective in this state."
+People v. Miranda,
+106 Cal.App.3d 504, 165 Cal.Rptr. 154, 155 (Cal.Ct.App.1980). Other circuits have agreed. The Tenth Circuit found that a direct Congressional grant of jurisdiction over Indian land does not require any further action to vest the state with jurisdiction unless state law itself prevents the state from exercising such jurisdiction.
+See United States v. Burch,
+169 F.3d 666, 671 (10th Cir.1999).
+43
+We affirm the District Court with respect to its ruling that California was not required to enact enabling legislation before Public Law 280 became effective.
+44
+V. PUBLIC LAW 280 DOES NOT VIOLATE THE TENTH AMENDMENT.
+45
+The District Court correctly found that Public Law 280 does not violate the Tenth Amendment of the U.S. Constitution. Public Law 280 grants certain states jurisdictional authority to enforce state criminal laws and limited civil laws over individual Indians in Indian country. 18 U.S.C. § 1162(a); 28 U.S.C. § 1360(a). There is no attempt by Congress to mandate state participation in the enforcement of a federal statutory scheme such as in
+Printz v. United States,
+521 U.S. 898, 117 S.Ct. 2365, 138 L.Ed.2d 914 (1997), or to require a state legislature to adopt federal regulations such as in
+New York v. United States,
+505 U.S. 144, 112 S.Ct. 2408, 120 L.Ed.2d 120 (1992). By contrast, this federal grant of authority allows states to exert their own criminal and civil laws upon Indians.
+46
+We affirm the District Court with respect to its ruling that Congress did not violate the Tenth Amendment in passing Public Law 280.
+47
+VI. THE COUNTY OF INYO SHOULD BE HELD LIABLE FOR THE CONDUCT OF THE DISTRICT ATTORNEY AND SHERIFF IN OBTAINING AND EXECUTING THE SEARCH WARRANT AGAINST THE TRIBE.
+48
+Municipalities may be held liable under 42 U.S.C. § 1983 for actions which result in a deprivation of constitutional rights.
+Monell v. Dep't of Social Servs.,
+436 U.S. 658, 690, 98 S.Ct. 2018, 56 L.Ed.2d 611 (1978). A municipality, however, cannot be held liable on a
+respondeat superior
+theory.
+Id.
+at 691, 98 S.Ct. 2018. To hold a local government liable for an official's conduct, a plaintiff must establish that the government official "(1) had final policymaking authority `concerning the action alleged to have caused the particular constitutional or statutory violation at issue' and (2) was the policymaker for the local governing body for the purposes of the particular act."
+Weiner v. San Diego County,
+210 F.3d 1025, 1028 (9th Cir.2000) (citing
+McMillian v. Monroe County,
+520 U.S. 781, 785, 117 S.Ct. 1734, 138 L.Ed.2d 1 (1997)).
+49
+A.
+California Constitutional and Statutory Law and Case Law Favor a Finding that the District Attorney and the Sheriff Acted as County Officers In Obtaining and Executing the Warrant Against the Tribe.
+50
+Whether the Sheriff and District Attorney acted as county officers is governed by the analytical framework set out in
+McMillian.
+In that case, the Supreme Court held that an Alabama sheriff could not be sued under § 1983 for intimidating witnesses into making false statements and suppressing exculpatory evidence because the sheriff was exercising state authority. In reaching this conclusion, the Supreme Court cautioned against a categorical approach, and instead inquired "whether government officials are final policy makers for the local government in a particular area or on a particular issue."
+McMillian,
+520 U.S. at 785, 117 S.Ct. 1734. The
+McMillian
+Court directed its inquiry on an analysis of state law, closely examining the Alabama Constitution, statutes and case law.
+Id.
+at 786-87, 117 S.Ct. 1734.
+51
+When determining a county's liability under
+McMillian,
+the Ninth Circuit has engaged in an "independent analysis of California's constitution, statutes and case law."
+Streit v. County of Los Angeles,
+236 F.3d 552, 561 (9th Cir.2001). The Ninth Circuit has given appropriate deference to a state's legal characterization of the government entities while at the same time recognizing that "federal law provides the rule of decision in section 1983 actions."
+Id.
+at 560 (citing
+Regents of Univ. of Cal. v. Doe,
+519 U.S. 425, 430 n. 5, 117 S.Ct. 900, 137 L.Ed.2d 55 (1997)).
+52
+We apply California law and find that the Inyo County District Attorney and Sheriff were acting as county officers. As in
+McMillian,
+our analysis must begin with the California Constitution. The
+McMillian
+Court relied heavily on two provisions of the Alabama Constitution. First, and "especially important for our purposes," is the provision in the Alabama Constitution designating a county sheriff as an executive officer.
+McMillian,
+520 U.S. at 787, 117 S.Ct. 1734. Under the California Constitution, sheriffs and district attorneys are not designated as members of the executive branch. Instead, sheriffs and district attorneys in California are defined in Article XI of the Constitution, entitled "Local Government." Article XI, section 4 of the California Constitution provides that "County charters shall provide for ... an elected sheriff, an elected district attorney...."
+53
+The
+McMillian
+Court also gave weight to the fact that the Alabama Supreme Court had authority to impeach a county sheriff for neglect of office.
+Id.
+at 788, 117 S.Ct. 1734. By contrast, the California Constitution does not list sheriffs or district attorneys in Article IV, section 18, which provides for impeachment of a variety of state officers before the Legislature. Instead, sheriffs and district attorneys can be removed from office following the accusation of the county grand jury. CAL. GOV. CODE § 3060.
+54
+Other provisions under the California Constitution and statutes also weigh in favor of finding the District Attorney and Sheriff to be county officers. California law explicitly states that the district attorney and the sheriff are county officers. CAL. GOV. CODE § 24000(a); § 24000(b). The countyboard of supervisors set the salaries of both the sheriff and district attorney. CAL. GOV. CODE § 25300. Sheriffs and district attorneys must be registered to vote in their respective counties. CAL. GOV. CODE § 24001. The county has the authority to supervise the sheriff and district attorney's conduct and use of public funds. CAL. GOV. CODE § 25303. Finally, sheriffs in California are required to attend upon and obey state courts only within their county. CAL. GOV. CODE § 26603.
+55
+In reaching its conclusion that the District Attorney and Sheriff acted as state officers, the District Court gave primary importance to the supervisory authority of the State Attorney General granted under the California Constitution
+4
+and state statutes.
+See
+CAL. CONST. art. V, § 13 (providing that the Attorney General is to have "direct supervision over every district attorney and sheriff ... in all matters pertaining to the duties of their respective offices,...."); CAL. GOV. CODE § 12560 (providing that the Attorney General can direct the activities of any sheriff relative to the investigation or detection of crime within the jurisdiction of the sheriff, and that he may direct the service of subpoenas, warrants of arrest, or other processes of court); CAL. GOV. CODE § 12524 (providing that the Attorney General can call into conference the sheriffs and district attorneys for the purpose of discussing the duties of their office, with the view of uniform and adequate enforcement of state law); CAL. GOV. CODE §§ 12550, 12560 (providing that the Attorney General has direct supervision over the sheriffs and district attorneys and may require of them written reports concerning investigations, detection and punishment of crimes in their respective jurisdictions).
+56
+However, "supervision by the Attorney General does not alter the status of sheriffs [and district attorneys] as elected county officials."
+Brewster v. County of Shasta,
+112 F.Supp.2d 1185, 1190 (E.D.Cal.2000);
+See also People v. Brophy,
+120 P.2d 946, 953 (Cal.Dist.Ct.App.1942) (Noting that constitutional oversight does not "contemplate absolute control and direction of such officials.... Especially is this true as to sheriffs and district attorneys...."). Moreover, to allow the Attorney General's supervisory role to be dispositive on the issue of whether a law enforcement officer acts as a state official would prove too much. The California Constitution grants the Attorney General supervisory authority over all "other law enforcement officers as may be designated by law." CAL. CONST. art. V, § 13. Under this provision, if taken to its logical extreme,
+all
+local law enforcement agencies in California would be immune from prosecution for civil rights violation, thereby rendering meaningless the decision in
+Monell,
+which preserves § 1983 actions against local governments.
+57
+The District Court also accorded significance to the fact that the search warrant was obtained to prevent welfare fraud under the state welfare laws. However, the District Attorney and Sheriff were acting on behalf of the County's Department of Health and Human Services, the governmental entity responsible for the administration of the state's welfare laws, including the investigation of overpayments.
+See
+CAL. WELF. & INST. CODE § 10800 (providing that the administration of public social services is "declared to be a county function and responsibility and therefore rests upon the boards of supervisors in the respective counties ..."). Thus, the fact that state welfare law was at issue does not support a finding that the District Attorney and Sheriff were acting as state officers in their investigation into alleged welfare fraud.
+58
+Case law also compels our finding that the District Attorney and Sheriff acted as county officers in obtaining and executing a search warrant against the Tribe.
+59
+1. The District Attorney Acted as a County Officer When He Obtained and Executed a Search Warrant Against the Tribe.
+60
+In concluding that the District Attorney acted as a state officer, the District Court relied on the California Supreme Court's decision in
+Pitts v. County of Kern,
+17 Cal.4th 340, 70 Cal.Rptr.2d 823, 949 P.2d 920 (1998). In
+Pitts,
+plaintiffs brought a § 1983 action against the district attorney and county alleging civil rights violations based on misconduct during criminal prosecution. In a thoughtful opinion, the California Supreme Court held that "when preparing to prosecute and when prosecuting criminal violations of state law, a district attorney represents the state...."
+Id.
+at 934. The California Supreme Court, however, recognized the dual roles that a county district attorney performs:
+61
+He is at once the law officer of the county and the public prosecutor. While in the former capacity he represents the county and is largely subordinate to, and under the control of, the [county] board of supervisors, he is not so in the latter. In the prosecution of criminal cases he acts by the authority and in the name of the people of the state.
+62
+Id.
+at 932-33 (citing,
+Modoc County v. Spencer,
+103 Cal. 498, 37 P. 483, 484 (Cal. 1894)). Using this framework, the California Supreme Court concluded that when a district attorney engages in prosecutorial conduct, he is a state officer, but at other times, he should be characterized as a county officer.
+Pitts,
+70 Cal.Rptr.2d 823, 949 P.2d at 934.
+63
+Whether a district attorney engages in prosecutorial conduct when obtaining and executing a search warrant has not been addressed by this Circuit in the context of whether a district attorney is a state or county officer. However, the Ninth Circuit has addressed whether this constitutes prosecutorial conduct as opposed to investigatory conduct in the context of a prosecutor's absolute versus qualified immunity. By analogy, these cases inform our decision. In
+Fletcher v. Kalina,
+93 F.3d 653, 655 (9th Cir.1996), the court held that a prosecutor was not entitled to absolute immunity for conduct in preparing a declaration in support of an arrest warrant. In reaching this conclusion, the
+Fletcher
+court relied on the Supreme Court's decision in
+Buckley v. Fitzsimmons,
+509 U.S. 259, 113 S.Ct. 2606, 125 L.Ed.2d 209 (1993). The Supreme Court held in
+Buckley
+that a prosecutor was not absolutely immune when he allegedly fabricated evidence during the investigation by retaining a dubious expert witness.
+Id.
+at 273-75, 113 S.Ct. 2606. The Court reasoned that "[t]here is a difference between the advocate's role in evaluating evidence and interviewing witnesses as he prepares for trial, ... and the detective's role in searching for the clues and corroboration that might give him probable cause to recommend that a suspect be arrested...."
+Id.
+at 273, 113 S.Ct. 2606 (citations omitted). Because the prosecutor's conduct in
+Buckley
+fell within the latter category, the Supreme Court denied absolute immunity.
+See also Malley v. Briggs,
+475 U.S. 335, 342-43, 106 S.Ct. 1092, 89 L.Ed.2d 271 (1986) (holding that a police officer who secures an arrest warrant without probable cause cannot assert an absolute immunity defense).
+64
+In the present case, the District Attorney was not "
+preparing to prosecute [or] prosecuting criminal violations,
+" as was the situation in
+Pitts. Pitts,
+70 Cal. Rptr.2d 823, 949 P.2d at 934 (emphasis supplied). Instead, the District Attorney was
+investigating allegations
+of welfare fraud, conduct more similar to that in
+Fletcher.
+At the time the District Attorney obtained the search warrant, no criminal complaint had been filed against the three tribal member Casino employees whose records were sought — the District Attorney was merely performing his role as "detective." This distinction was recognized and adopted by the District Court when it refused to grant the District Attorney absolute immunity, on the ground that he was engaging in investigatory conduct and not prosecutorial conduct. Finally, the California Penal Code identifies the commencement of prosecution for an offense in only four instances: (a) an indictment or information is filed; (b) a complaint is filed charging a misdemeanor or infraction; (c) a case is certified to the superior court; or (d) an arrest warrant or bench warrant is issued, provided the warrant names or describes the defendant with the same degree of particularity required for an indictment, information, or complaint. CAL. PENAL CODE § 804. Because the District Attorney had taken none of these actions when he executed the search warrant, we find that the District Attorney was engaging in investigatory conduct more akin to that of a detective.
+65
+Relying on
+Fletcher
+and
+Buckley,
+and recognizing the significant factual distinctions between this case and
+Pitts,
+we find that the District Attorney was engaging in investigatory, and not prosecutorial, acts when he obtained and executed a search warrant over the Tribe. This conclusion compels our finding that the District Attorney acted as a county officer when obtaining and executing a search warrant against the Tribe.
+66
+2. The Sheriff Acted as a County Officer When He Executed a Search Warrant Against the Tribe.
+67
+With respect to the Sheriff's conduct, the District Court recognized that the California courts of appeal and federal district courts in this Circuit have reached different conclusions on whether a sheriff is a state or county officer. The majority of the cases cited by the District Court discuss the sheriffs' role in their function as jail administrators. However, since the District Court's ruling, the Ninth Circuit held that California sheriffs, functioning as jail administrators, are county officials.
+See Streit,
+236 F.3d at 565. So holding, the court relied heavily on the constitutionally and statutorily defined role of California sheriffs discussed above.
+Streit,
+236 F.3d at 561-562;
+see supra
+pp. 562-64.
+68
+In support of our conclusion, we also rely on several recent federal district court decisions that hold that the sheriff is properly viewed as a county officer when he investigates alleged criminal conduct.
+See Ford v. County of Marin,
+2001 WL 868877 at *8 (N.D.Cal. July 19, 2001) (denying defendants' motion to dismiss on the grounds that the sheriff, when knowingly giving false information to the Housing Authority with the intent of initiating a nuisance lawsuit, did not act as a state officer);
+Brewster,
+112 F.Supp.2d at 1191 (holding that the sheriff, when investigating crimes, acts as a county officer).
+69
+Finally, we note persuasive language from the California Supreme Court on how the state's highest court views the role of county sheriffs.
+Dibb v. County of San Diego,
+884 P.2d 1003 (Cal.1994). In a case concerning a county's authority to create a citizen board to oversee the Sheriff's Department, the court noted that "the operations of the sheriff's ... departments and the conduct of employees of th[at] department[] are a legitimate concern of the [county] board of supervisors."
+Id.
+at 1008.
+70
+Based on the foregoing, we conclude that the Sheriff acted as a county officer when obtaining and executing a search warrant against the Tribe.
+71
+B.
+The District Attorney and Sheriff Have Final Decision Making Authority to Obtain and Execute a Search Warrant.
+72
+There is no dispute that the District Attorney or Sheriff have final decision making authority to obtain and execute search warrants for the County of Inyo.
+73
+VII. THE DISTRICT ATTORNEY AND THE SHERIFF ARE NOT ENTITLED TO QUALIFIED IMMUNITY.
+74
+The Tribe further asserts claims against the District Attorney and the Sheriff in their individual capacities. The Eleventh Amendment does not bar § 1983 claims against county officers sued in their individual capacities.
+Hafer v. Melo,
+502 U.S. 21, 25-27, 112 S.Ct. 358, 116 L.Ed.2d 301 (1991);
+Demery v. Kupperman,
+735 F.2d 1139, 1146 n. 3 (9th Cir.1984).
+75
+The District Court correctly held that neither the District Attorney nor the Sheriff is entitled to absolute immunity. However, the District Court erroneously concluded that the District Attorney and Sheriff were entitled to qualified immunity.
+76
+Qualified immunity "shield[s] [government agents] from liability for civil damages insofar as their conduct does not violate clearly established statutory or constitutional rights of which a reasonable person would have known."
+Behrens v. Pelletier,
+516 U.S. 299, 305, 116 S.Ct. 834, 133 L.Ed.2d 773 (1996) (quoting
+Harlow v. Fitzgerald,
+457 U.S. 800, 818, 102 S.Ct. 2727, 73 L.Ed.2d 396 (1982)). Our analysis of whether the defendants are entitled to qualified immunity follows a two-part test: (1) whether the facts taken in the light most favorable to the plaintiff would establish a violation of the Fourth Amendment; and, if so (2) whether the law was clearly established at the time such that a reasonable officer faced with the same circumstances would have known that the challenged conduct was unlawful. See
+Robinson v. Solano County,
+278 F.3d 1007, 1013 (9th Cir.2002) (en banc) (citing
+Saucier v. Katz,
+533 U.S. 194, 121 S.Ct. 2151, 2156, 150 L.Ed.2d 272 (2001)). We conclude, taking the facts in the light most favorable to the Tribe, that the search violated the Fourth Amendment, and that the law in this Circuit was clearly established at the time the search was executed such that it would have been clear to the District Attorney and Sheriff that their conduct was unlawful.
+77
+The Tribe has alleged a violation of the Fourth Amendment based on the District Attorney's and Sheriff's execution of a search warrant to seize tribal property (employee records) on tribal land. The Tribe contends that the search was unlawful because it was executed beyond the District Attorney's and Sheriff's jurisdiction. James is the leading case in our Circuit involving seizure of tribal property. 980 F.2d at 1319. In James, we held that a U.S. district court did not err when it quashed a subpoena ordering a tribe to release its documents because the tribe possessed tribal immunity.
+Id.
+Our holding in James was based on the conclusion that "Congress did not address implicitly, much less explicitly, the amenability of the tribes to the processes of the [federal] court...."
+Id.
+Accordingly, we found no "jurisdictional grant" from Congress which would require the tribe to produce documents in a criminal prosecution against an individual Indian.
+5
+78
+In James, we did not need to reach the issue whether the subpoena was lawful because it was never executed. Instead, we affirmed the district court's decision not to enforce the subpoena on the ground that the officers had no jurisdictional authority over the tribe.
+James,
+980 F.2d at 1319. In the present case, the search warrant was executed but, as in James, the officers still had no jurisdictional authority to do so. Thus, based on the principles set forth in James, we conclude that the search warrant was in violation of the Fourth Amendment because the officers acted beyond their authority when they executed the search warrant against the Tribe and in excess of their jurisdiction.
+79
+Whether the execution of a search warrant against tribal property is constitutional was addressed in
+Sycuan Band of Mission Indians v. Roache,
+788 F.Supp. 1498, 1508 (S.D.Cal.1992), aff'd. on other grounds, 54 F.3d 535, 543-44 (9th Cir.1995). In Sycuan Band, the San Diego County Sheriff's deputies executed a search warrant on the Sycuan, Barona, and Viejas Reservations and seized gaming devices, cash, and records owned by the tribes.
+Sycuan Band,
+788 F.Supp. at 1501.
+6
+The district court held that the search warrants were invalid because the state did not have jurisdiction over the tribes and "the defendants, therefore, acted beyond their authority by executing the... search warrants."
+Id.
+at 1508. In reaching its conclusion, the district court affirmed the general principle that "a judicial officer's writ cannot run outside the officer's jurisdiction."
+Id.
+(citing
+United States v. Strother,
+578 F.2d 397, 399 (D.C.Cir.1978)).
+80
+Our conclusion that the county officers' conduct was in violation of the Fourth Amendment is buttressed by a closely analogous case from the Tenth Circuit. In
+United States v. Baker,
+894 F.2d 1144 (10th Cir.1990), a county sheriff executed a search warrant on tribal property. The court held that because it was undisputed that the property was on tribal land and the state had never obtained jurisdiction over such lands, the search warrant was in violation of the Fourth Amendment.
+Id.
+at 1147.
+81
+In light of James and Sycuan Band, and the Tenth Circuit's conclusion in Baker, we hold that the District Attorney and Sheriff violated the Fourth Amendment when they executed the search warrant to seize tribal property held on tribal land because both the Tribe's property and land were outside the District Attorney's and Sheriff's jurisdiction. We further hold that this Fourth Amendment violation may merit relief under § 1983.
+7
+82
+Having concluded that the Tribe has alleged a violation of the Fourth Amendment, we turn to consider whether it would have been clear to the District Attorney and Sheriff at the time the warrant was executed that their conduct was unlawful. The conduct occurred in 2000, and so the law at that time must be our guide.
+Robinson,
+278 F.3d at 1015.
+83
+As the foregoing discussion reflects, at the time the District Attorney and Sheriff obtained and executed a warrant, the law was clear in this Circuit that there was no jurisdictional grant authorizing county officers to search and seize tribal property as part of a criminal prosecution of an individual Indian. See
+James,
+980 F.2d at 1319. Indeed, the only court in this Circuit to address the precise question whether the execution of a search warrant against tribal property is constitutional held that it was not. See
+Sycuan Band,
+788 F.Supp. at 1508. Moreover, the only circuit to address this issue concluded—seemingly without debate—that such a warrant would violate the Fourth Amendment. See
+Baker,
+894 F.2d 1144. Accordingly, we find that no reasonable officer could have concluded that he had jurisdiction to search and seize tribal property as part of a criminal prosecution of an individual Indian, and no reasonable officer could have concluded that the lack of jurisdiction was a mere technicality.
+84
+We hold as a matter of law that a reasonable county officer would have known, at the time the warrant was executed against the Tribe, that seizing tribal property held on tribal land violated the Fourth Amendment because the property and land were outside the officer's jurisdiction. Thus, the District Attorney and Sheriff are not entitled to qualified immunity.
+85
+AFFIRMED in part, REVERSED in part, and REMANDED.
+Notes:
+*
+The Honorable Charles R. Weiner, United States District Judge for the Eastern District of Pennsylvania, sitting by designation
+1
+Section 2(a), codified at 18 U.S.C. 1162(a) provides: "(a) Each of the States ... shall have jurisdiction over offenses committed by or against Indians in the areas of Indian country ... to the same extent that such State... has jurisdiction over offenses committed elsewhere within the State ..., and the criminal laws of such State ... shall have the same force and effect within such Indian country as they have elsewhere within the State...."
+2
+The District Court wrongly found that
+Bryan
+was inapplicable authority on the ground that the case concerned Public Law 280's grant of civil jurisdiction as opposed to criminal jurisdiction. Because the provisions granting criminal and civil jurisdiction are identical, cases interpreting Public Law 280's provision granting civil jurisdiction are instructive for interpreting Public Law 280's provision granting criminal jurisdiction. Thus, both
+Bryan
+and
+Quechan Tribe
+provide precedential authority that Public Law 280 does not diminish tribal sovereignty.
+3
+Following principles of comity and this Circuit's jurisprudence, comparison to cases denying enforcement of state court subpoenas against the United States government is also appropriate
+See Quechan Tribe of Indians,
+595 F.2d at 1155 (noting that the "sovereign immunity of Indian tribes is similar to the sovereign immunity of the United States"). In
+Elko County Grand Jury v. Siminoe,
+109 F.3d 554, 556 (9th Cir.1997), the Ninth Circuit denied the enforcement of a subpoena against a Forest Service employee, holding that principles of sovereign immunity bar a state court from enforcing a subpoena against the United States.
+4
+"This provision was added in 1934, when the voters approved Proposition 4. As then Alameda County District Attorney Earl Warren told the voters, this constitutional amendment was designed to `address the lack of organization of our law enforcement agencies' by providing coordination and supervision by the Attorney General `[w]ithout curtailing the right of local self government.'"
+See Roe v. County of Lake,
+107 F.Supp.2d 1146, 1150 (N. D.Cal.2000) (citing Argument in Favor of Proposition 4 by Earl Warren, District Attorney of Alameda County, 1934 General Election Ballot Pamphlet).
+5
+In
+James,
+the federal officers had authority to prosecute an individual Indian for violations of federal criminal laws under 18 U.S.C. § 1153. In the instant case, the county officers had authority to prosecute the individual Indians for violation of state welfare laws under Public Law 280. Under neither of these statutes did prosecutorial jurisdiction extend to tribes as sovereign entities. See Sect. B.II.
+6
+As in the present case, the search warrant was executed against the tribes in order to obtain information as part of a criminal investigation against individual Indians. In Sycuan Band and the present case, the officers had authority to enforce criminal law against individual Indians under Public Law 280, but did not have authority to enforce those criminal laws against tribes as sovereign entities
+7
+Our conclusion that the Tribe may bring a 42 U.S.C. § 1983 action against the District Attorney and the Sheriff based on a search warrant executed in excess of the county officers' jurisdiction, is not precluded by
+Hoopa Valley Tribe v. Nevins,
+881 F.2d 657 (9th Cir.1989). Hoopa Valley held that the right to tribal self-government is not a protected interest under § 1983. The present case involves protection from an unlawful search and seizure. Here, the county officers had no jurisdiction to execute the search warrant and seize tribal property and, therefore, the search warrant violated the Fourth Amendment.
+CC∅
+| Transformed by
+Public.Resource.Org

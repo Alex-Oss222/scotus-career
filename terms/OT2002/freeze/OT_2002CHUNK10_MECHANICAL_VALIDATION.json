@@ -1,0 +1,127 @@
+{
+  "protected_files_checked": 1216,
+  "record_checks": [
+    {
+      "file": "Altman-v-Bedford-Central-School-District_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        138,
+        83,
+        103
+      ]
+    },
+    {
+      "file": "Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        264
+      ]
+    },
+    {
+      "file": "Conant-v-Walters_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        153,
+        145,
+        140
+      ]
+    },
+    {
+      "file": "Hilton-v-City-of-Wheeling_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        88,
+        145,
+        125
+      ]
+    },
+    {
+      "file": "Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        272,
+        208
+      ]
+    },
+    {
+      "file": "Kansas-v-Nebraska_decree_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": false,
+      "explanation_words": [
+        144,
+        150
+      ]
+    },
+    {
+      "file": "Los-Angeles-v-David_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": false,
+      "explanation_words": [
+        275
+      ]
+    },
+    {
+      "file": "Norfolk-Southern-Railway-Co-v-Kirby_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        133,
+        178,
+        213,
+        104
+      ]
+    },
+    {
+      "file": "Pharmaceutical-Research-and-Manufacturers-of-America-v-Walsh_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        194,
+        114,
+        130,
+        104,
+        98,
+        103
+      ]
+    },
+    {
+      "file": "United-States-v-Haney_merits_2003-05-19.md",
+      "date": "2003-05-19",
+      "countable": true,
+      "explanation_words": [
+        169,
+        165
+      ]
+    },
+    {
+      "file": "Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md",
+      "date": "2003-05-27",
+      "countable": true,
+      "explanation_words": [
+        88,
+        187,
+        272,
+        75
+      ]
+    },
+    {
+      "file": "Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md",
+      "date": "2003-06-09",
+      "countable": true,
+      "explanation_words": [
+        141,
+        98,
+        253,
+        146
+      ]
+    }
+  ],
+  "projection_identity_count": 12,
+  "stage_hashes_checked": 13,
+  "errors": []
+}

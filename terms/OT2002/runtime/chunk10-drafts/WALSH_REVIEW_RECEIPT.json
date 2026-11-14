@@ -1,0 +1,109 @@
+{
+  "case": "Pharmaceutical Research and Manufacturers of America v. Walsh",
+  "eleven_public_blocks": true,
+  "holdings_identity": true,
+  "exact_source_copies": true,
+  "final_reconciliation_hash_verified": true,
+  "prior_three_drafts_preserved": {
+    "Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md": "d0d63e98fd0fa27ae79e89adf0a8d78d2fc914543e9a68e6307083de1136bc3b",
+    "Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md": "9e5eb6b58eba3b15c5a7ed24f28386f7d2fa2a46fc8083fbfc4ba412ce462c3c",
+    "Norfolk-Southern-Railway-Co-v-Kirby_merits_2003-05-19.md": "5161c0e33cea9554c176c6c6e5d550bd08e6a22bc5aebb3e370cc413c03bdeaa"
+  },
+  "explanation_word_counts": [
+    194,
+    114,
+    130,
+    104,
+    98,
+    119
+  ],
+  "explanation_ceiling": 350,
+  "judgment_votes": {
+    "Medicaid_affirm": [
+      "Stevens",
+      "Scalia",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Medicaid_vacate_no_automatic_restore": [
+      "Stone-Zsela"
+    ],
+    "Medicaid_reverse_restore": [
+      "O'Connor",
+      "Kennedy"
+    ],
+    "Commerce_affirm": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ]
+  },
+  "direct_proposition_coalitions": {
+    "judicial_route": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "statutory_permission_and_safeguards": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "substantive_Medicaid_duty_relation": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "modest_inconvenience_alone": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "Commerce_rationale": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Kennedy",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "lead_Medicaid_application": [
+      "Stevens",
+      "Souter",
+      "Ginsburg"
+    ]
+  },
+  "no_Marks_synthesis": true,
+  "no_post_reconciliation_commitment_change": true,
+  "negative_statement_check": "Reviewed the five governed blocks and internal counterparts; operative legal limits, unpresented claims, sought relief and surviving injunction status are retained. No unrequested damages/nonaward checklist or additional disclaimer of separate proposals is added.",
+  "qualitative_section_15": "Reviewed fixed core, precise dissent remedies, final frozen grounds, direct versus judgment support, statutory exceptions, agency-source conditions, preliminary record attribution and genuine review-scope limits.",
+  "pending": [
+    "Root independent review",
+    "Fresh actual assignment counts and mixed-authority assignment",
+    "Serial canonical publication and term-wide checks"
+  ]
+}

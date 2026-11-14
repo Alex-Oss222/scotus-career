@@ -1,0 +1,163 @@
+[
+  {
+    "case": "Altman v. Bedford Central School District",
+    "date": "2003-05-19",
+    "file": "Altman-v-Bedford-Central-School-District_merits_2003-05-19.md",
+    "countable": true,
+    "form": "signed plenary lead",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Stevens": "Arizonans authorship fits corrective jurisdiction and equitable judgment treatment.",
+      "O'Connor": "Harvey and Steele authorship fits the actual remaining-injury inquiry and fiscal distinction.",
+      "Breyer": "Spencer authorship fits continuing injury and collateral consequences.",
+      "Stone-Zsela": "Approved threshold-first position supports precise school-specific remand and fee separation.",
+      "Scalia": "Harvey and Arizonans joins support correction without hypothetical merits jurisdiction.",
+      "Kennedy": "Harvey and Arizonans joins support actual redressability and preserved remedy limits.",
+      "Souter": "Harvey and Steele joins support keeping distinct jurisdictional theories separate.",
+      "Thomas": "Harvey and Arizonans joins support fact-based threshold correction.",
+      "Ginsburg": "Harvey and Steele joins support the distinction between judgment correction and restoration of relief."
+    }
+  },
+  {
+    "case": "Conant v. Walters",
+    "date": "2003-05-19",
+    "file": "Conant-v-Walters_merits_2003-05-19.md",
+    "countable": true,
+    "form": "signed plenary lead",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Kennedy": "Rice authorship fits purposeful participation; Rosenberger authorship fits independent attribution.",
+      "Souter": "Casey medical-speech authorship fits the precise treatment-information distinction.",
+      "Scalia": "Thompson authorship fits scrutiny of the actual informational burden with preserved enforcement.",
+      "O'Connor": "Casey, Rice, Rosenberger and Thompson joins fit the integrated clinical-speech and decree analysis.",
+      "Thomas": "Rice/Rosenberger joins and Thompson qualified support fit the limited sufficient ground without a universal tier.",
+      "Stevens": "Casey and Rice joins fit clinical information and the advice/participation distinction.",
+      "Ginsburg": "Rice join and preserved physician-information distinction fit criminal purpose and causal role.",
+      "Breyer": "Rice join and concrete enforcement concerns fit the actual limiting construction.",
+      "Stone-Zsela": "Approved advice/participation distinction and exact decree scope support the common opinion; additional grounds remain separate."
+    }
+  },
+  {
+    "case": "Hilton v. City of Wheeling",
+    "date": "2003-05-19",
+    "file": "Hilton-v-City-of-Wheeling_merits_2003-05-19.md",
+    "countable": true,
+    "form": "signed plenary lead",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "fit_notes": {
+      "Stevens": "Olech authorship fits the precise objective rule and preservation of ordinary burden.",
+      "O'Connor": "Pinder authorship and Olech join fit separation of service, equality and conduct-date immunity.",
+      "Stone-Zsela": "Approved comparison and practical-relief analysis supports precise Rule 56 remand.",
+      "Scalia": "Olech join supports the objective rule and preservation of reasonably conceivable legitimate grounds.",
+      "Kennedy": "Olech/Pinder joins fit comparator-specific equality and distinct responsibility.",
+      "Souter": "Olech join and qualified Pinder position fit separation of underlying right and immunity.",
+      "Thomas": "Olech/Pinder joins support objective intent/rationality requirements and defendant-specific defenses.",
+      "Ginsburg": "Olech join supports equal-administration review with distinct prospective-relief predicates."
+    }
+  },
+  {
+    "case": "United States v. Haney",
+    "date": "2003-05-19",
+    "file": "United-States-v-Haney_merits_2003-05-19.md",
+    "countable": true,
+    "form": "signed plenary lead",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "O'Connor": "Hale authorship fits the integrated stock ground and separation of power and right.",
+      "Stone-Zsela": "Wright authorship and approved application fit exact framework preservation and conditional conviction consequences.",
+      "Souter": "Emerson authorship fits distinguishing supported individual-danger regulation from this weapon-class application.",
+      "Kennedy": "Full Wright join fits coverage, practical burden and justification without predetermining validity.",
+      "Ginsburg": "Full Wright join fits the independent rights inquiry and supported regulatory application.",
+      "Stevens": "Hale/Wright remand joins fit a faithful precedent-based opinion preserving the existing framework as law.",
+      "Scalia": "Hale/Kirk/Wright joins fit fitted commerce authority and limited personal-right remand without new tier endorsement.",
+      "Thomas": "Hale/Kirk/Wright joins fit the same existing-law application with precise coverage/label distinction.",
+      "Breyer": "Wright remand and Emerson joins fit practical justification and restraint against automatic additional proceedings."
+    }
+  }
+]

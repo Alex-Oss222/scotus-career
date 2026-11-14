@@ -1,0 +1,1738 @@
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+OCTOBER TERM, 2002                                     721
+
+Syllabus
+
+ NEVADA DEPARTMENT OF HUMAN RESOURCES
+                       et al. v. HIBBS et al.
+
+certiorari to the united states court of appeals for
+                           the ninth circuit
+
+       No. 01–1368. Argued January 15, 2003—Decided May 27, 2003
+
+Respondent Hibbs (hereinafter respondent), an employee of the Nevada
+   Department of Human Resources (Department), sought leave to care for
+   his ailing wife under the Family and Medical Leave Act of 1993 (FMLA),
+   which entitles an eligible employee to take up to 12 work weeks of
+   unpaid leave annually for the onset of a “serious health condition” in the
+   employee’s spouse and for other reasons, 29 U. S. C. § 2612(a)(1)(C).
+   The Department granted respondent’s request for the full 12 weeks of
+   FMLA leave, but eventually informed him that he had exhausted
+   that leave and that he must report to work by a certain date. Respond-
+   ent failed to do so and was terminated. Pursuant to FMLA provisions
+   creating a private right of action to seek both equitable relief and
+   money damages “against any employer (including a public agency),”
+   § 2617(a)(2), that “interfere[d] with, restrain[ed], or den[ied] the exercise
+   of ” FMLA rights, § 2615(a)(1), respondent sued petitioners, the Depart-
+   ment and two of its ofﬁcers, in Federal District Court seeking damages
+   and injunctive and declaratory relief for, inter alia, violations of
+   § 2612(a)(1)(C). The court awarded petitioners summary judgment on
+   the grounds that the FMLA claim was barred by the Eleventh Amend-
+   ment and that respondent’s Fourteenth Amendment rights had not been
+   violated. The Ninth Circuit reversed.
+
+Held: State employees may recover money damages in federal court in
+   the event of the State’s failure to comply with the FMLA’s family-care
+   provision. Congress may abrogate the States’ Eleventh Amendment
+   immunity from suit in federal court if it makes its intention to abrogate
+   unmistakably clear in the language of the statute and acts pursuant to
+   a valid exercise of its power under § 5 of the Fourteenth Amendment.
+   See, e. g., Board of Trustees of Univ. of Ala. v. Garrett, 531 U. S. 356,
+   363. The FMLA satisﬁes the clear statement rule. See Kimel v. Flor-
+   ida Bd. of Regents, 528 U. S. 62, 73–78. Congress also acted within its
+   authority under § 5 of the Fourteenth Amendment when it sought to
+   abrogate the States’ immunity for purposes of the FMLA’s family-leave
+   provision. In the exercise of its § 5 power, Congress may enact so-
+   called prophylactic legislation that proscribes facially constitutional con-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+722 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                            Syllabus
+
+   duct in order to prevent and deter unconstitutional conduct, e. g., City
+   of Boerne v. Flores, 521 U. S. 507, 536, but it may not attempt to sub-
+   stantively redeﬁne the States’ legal obligations, Kimel, supra, at 88.
+   The test for distinguishing appropriate prophylactic legislation from
+   substantive redeﬁnition is that valid § 5 legislation must exhibit “con-
+   gruence and proportionality between the injury to be prevented or rem-
+   edied and the means adopted to that end.” City of Boerne, supra, at
+   520. The FMLA aims to protect the right to be free from gender-based
+   discrimination in the workplace. Statutory classiﬁcations that distin-
+   guish between males and females are subject to heightened scrutiny,
+   see, e. g., Craig v. Boren, 429 U. S. 190, 197–199; i. e., they must “serv[e]
+   important governmental objectives,” and “the discriminatory means
+   employed [must be] substantially related to the achievement of those
+   objectives,” United States v. Virginia, 518 U. S. 515, 533. When it
+   enacted the FMLA, Congress had before it signiﬁcant evidence of a
+   long and extensive history of sex discrimination with respect to the
+   administration of leave beneﬁts by the States, which is weighty enough
+   to justify the enactment of prophylactic § 5 legislation. Cf. Fitzpatrick
+   v. Bitzer, 427 U. S. 445, 456. Garrett, supra, and Kimel, supra, in which
+   the Court reached the opposite conclusion, are distinguished on the
+   ground that the § 5 legislation there at issue responded to a purported
+   tendency of state ofﬁcials to make age- or disability-based distinctions,
+   characteristics that are not judged under a heightened review standard,
+   but pass equal protection muster if there is a rational basis for enacting
+   them. See, e. g., Kimel, supra, at 86. Here, because the standard for
+   demonstrating the constitutionality of a gender-based classiﬁcation is
+   more difﬁcult to meet than the rational-basis test, it was easier for Con-
+   gress to show a pattern of state constitutional violations. Cf. South
+   Carolina v. Katzenbach, 383 U. S. 301, 308–313. The impact of the dis-
+   crimination targeted by the FMLA, which is based on mutually reinforc-
+   ing stereotypes that only women are responsible for family caregiving
+   and that men lack domestic responsibilities, is signiﬁcant. Moreover,
+   Congress’ chosen remedy, the FMLA’s family-care provision, is “congru-
+   ent and proportional to the targeted violation,” Garrett, supra, at 374.
+   Congress had already tried unsuccessfully to address this problem
+   through Title VII of the Civil Rights Act of 1964 and the Pregnancy
+   Discrimination Act. Where previous legislative attempts have failed,
+   see Katzenbach, supra, at 313, such problems may justify added prophy-
+   lactic measures in response, Kimel, supra, at 88. By creating an
+   across-the-board, routine employment beneﬁt for all eligible employees,
+   Congress sought to ensure that family-care leave would no longer be
+   stigmatized as an inordinate drain on the workplace caused by female
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          723
+
+                                            Syllabus
+
+   employees, and that employers could not evade leave obligations simply
+   by hiring men. Unlike the statutes at issue in City of Boerne, Kimel,
+   and Garrett, which applied broadly to every aspect of state employers’
+   operations, the FMLA is narrowly targeted at the faultline between
+   work and family—precisely where sex-based overgeneralization has
+   been and remains strongest—and affects only one aspect of the employ-
+   ment relationship. Also signiﬁcant are the many other limitations that
+   Congress placed on the FMLA’s scope. See Florida Prepaid Postsec-
+   ondary Ed. Expense Bd. v. College Savings Bank, 527 U. S. 627, 647.
+   For example, the FMLA requires only unpaid leave, § 2612(a)(1); applies
+   only to employees who have worked for the employer for at least one
+   year and provided 1,250 hours of service within the last 12 months,
+   § 2611(2)(A); and does not apply to employees in high-ranking or sensi-
+   tive positions, including state elected ofﬁcials, their staffs, and appointed
+   policymakers, §§ 2611(2)(B)(i) and (3), 203(e)(2)(C). Pp. 726–740.
+273 F. 3d 844, afﬁrmed.
+
+   Rehnquist, C. J., delivered the opinion of the Court, in which O’Con-
+nor, Souter, Ginsburg, and Breyer, JJ., joined. Souter, J., ﬁled a
+concurring opinion, in which Ginsburg and Breyer, JJ., joined, post,
+p. 740. Stevens, J., ﬁled an opinion concurring in the judgment, post,
+p. 740. Scalia, J., ﬁled a dissenting opinion, post, p. 741. Kennedy, J.,
+ﬁled a dissenting opinion, in which Scalia and Thomas, JJ., joined, post,
+p. 744.
+
+   Paul G. Taggart, Deputy Attorney General of Nevada, ar-
+gued the cause for petitioners. With him on the briefs were
+Frankie Sue Del Papa, Attorney General, and Traci L.
+Lovitt.
+
+   Cornelia T. L. Pillard argued the cause for respondent
+Hibbs. With her on the brief were Jonathan J. Frankel,
+Judith L. Lichtman, and Treva J. Hearne.
+
+   Assistant Attorney General Dinh argued the cause for the
+United States. With him on the brief were Solicitor Gen-
+eral Olson, Assistant Attorneys General Boyd and McCal-
+lum, Deputy Solicitor General Clement, Patricia A. Millett,
+Mark B. Stern, and Kathleen Kane.*
+
+   *Briefs of amici curiae urging reversal were ﬁled for the State of Ala-
+bama et al. by Bill Pryor, Attorney General of Alabama, Nathan A. For-
+rester, Solicitor General, and Charles B. Campbell, Deputy Solicitor Gen-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+724 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+   Chief Justice Rehnquist delivered the opinion of the
+Court.
+
+   The Family and Medical Leave Act of 1993 (FMLA or Act)
+entitles eligible employees to take up to 12 work weeks of
+unpaid leave annually for any of several reasons, including
+the onset of a “serious health condition” in an employee’s
+spouse, child, or parent. 107 Stat. 9, 29 U. S. C. § 2612(a)
+(1)(C). The Act creates a private right of action to seek
+both equitable relief and money damages “against any em-
+ployer (including a public agency) in any Federal or State
+court of competent jurisdiction,” § 2617(a)(2), should that em-
+
+eral, and by the Attorneys General for their respective States as follows:
+Bruce M. Botelho of Alaska, M. Jane Brady of Delaware, Earl I. Anzai
+of Hawaii, Steve Carter of Indiana, Don Stenberg of Nebraska, Betty D.
+Montgomery of Ohio, W. A. Drew Edmondson of Oklahoma, Charles M.
+Condon of South Carolina, Paul G. Summers of Tennessee, John Cornyn
+of Texas, Mark Shurtleff of Utah, and Jerry W. Kilgore of Virginia; for
+the Coalition for Local Sovereignty by Kenneth B. Clark; and for the Pa-
+ciﬁc Legal Foundation by Deborah J. La Fetra.
+
+   Briefs of amici curiae urging afﬁrmance were ﬁled for the State of New
+York et al. by Eliot Spitzer, Attorney General of New York, Caitlin J.
+Halligan, Solicitor General, Michelle Aronowitz, Deputy Solicitor Gen-
+eral, Denise A. Hartman, Robert H. Easton, and David Axinn, Assistant
+Solicitors General, and Hilary Klein, Assistant Attorney General, and by
+the Attorneys General for their respective States as follows: Richard Blu-
+menthal of Connecticut, James Ryan of Illinois, Michael Hatch of Minne-
+sota, Patricia A. Madrid of New Mexico, and Christine O. Gregoire of
+Washington; for the American Federation of Labor and Congress of Indus-
+trial Organizations by Jonathan P. Hiatt, James B. Coppess, Laurence
+Gold, and Michael H. Gottesman; for the Lawyers’ Committee for Civil
+Rights Under Law et al. by Sidney S. Rosdeitcher, Barbara R. Arnwine,
+Thomas J. Henderson, Michael Foreman, Vincent A. Eng, Dennis Court-
+land Hayes, and Angela Ciccolo; for the National Women’s Law Center
+et al. by Walter Dellinger, Pamela Harris, Marcia D. Greenberger, Judith
+C. Appelbaum, and Dina R. Lassow; for Senator Christopher Dodd et al.
+by Mark E. Haddad and Carter G. Phillips; and for Alice Kessler-Harris
+et al. by Isabelle Katz Pinzler, Conrad K. Harper, and William T.
+Russell, Jr.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          725
+
+                                    Opinion of the Court
+
+ployer “interfere with, restrain, or deny the exercise of ”
+FMLA rights, § 2615(a)(1). We hold that employees of the
+State of Nevada may recover money damages in the event
+of the State’s failure to comply with the family-care provision
+of the Act.
+
+   Petitioners include the Nevada Department of Human Re-
+sources (Department) and two of its ofﬁcers. Respondent
+William Hibbs (hereinafter respondent) worked for the De-
+partment’s Welfare Division. In April and May 1997, he
+sought leave under the FMLA to care for his ailing wife,
+who was recovering from a car accident and neck surgery.
+The Department granted his request for the full 12 weeks of
+FMLA leave and authorized him to use the leave intermit-
+tently as needed between May and December 1997. Re-
+spondent did so until August 5, 1997, after which he did not
+return to work. In October 1997, the Department informed
+respondent that he had exhausted his FMLA leave, that no
+further leave would be granted, and that he must report to
+work by November 12, 1997. Respondent failed to do so and
+was terminated.
+
+   Respondent sued petitioners in the United States District
+Court seeking damages and injunctive and declaratory relief
+for, inter alia, violations of 29 U. S. C. § 2612(a)(1)(C). The
+District Court awarded petitioners summary judgment on
+the grounds that the FMLA claim was barred by the Elev-
+enth Amendment and that respondent’s Fourteenth Amend-
+ment rights had not been violated. Respondent appealed,
+and the United States intervened under 28 U. S. C. § 2403 to
+defend the validity of the FMLA’s application to the States.
+The Ninth Circuit reversed. 273 F. 3d 844 (2001).
+
+   We granted certiorari, 536 U. S. 938 (2002), to resolve a
+split among the Courts of Appeals on the question whether
+an individual may sue a State for money damages in federal
+court for violation of § 2612(a)(1)(C). Compare Kazmier v.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+726 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+Widmann, 225 F. 3d 519, 526, 529 (CA5 2000), with 273 F. 3d
+844 (case below).
+
+   For over a century now, we have made clear that the Con-
+stitution does not provide for federal jurisdiction over suits
+against nonconsenting States. Board of Trustees of Univ.
+of Ala. v. Garrett, 531 U. S. 356, 363 (2001); Kimel v. Florida
+Bd. of Regents, 528 U. S. 62, 72–73 (2000); College Savings
+Bank v. Florida Prepaid Postsecondary Ed. Expense Bd.,
+527 U. S. 666, 669–670 (1999); Seminole Tribe of Fla. v. Flor-
+ida, 517 U. S. 44, 54 (1996); Hans v. Louisiana, 134 U. S. 1,
+15 (1890).
+
+   Congress may, however, abrogate such immunity in federal
+court if it makes its intention to abrogate unmistakably clear
+in the language of the statute and acts pursuant to a valid
+exercise of its power under § 5 of the Fourteenth Amend-
+ment. See Garrett, supra, at 363; Blatchford v. Native Vil-
+lage of Noatak, 501 U. S. 775, 786 (1991) (citing Dellmuth v.
+Muth, 491 U. S. 223, 228 (1989)). The clarity of Congress’
+intent here is not fairly debatable. The Act enables employ-
+ees to seek damages “against any employer (including a pub-
+lic agency) in any Federal or State court of competent juris-
+diction,” 29 U. S. C. § 2617(a)(2), and Congress has deﬁned
+“public agency” to include both “the government of a State
+or political subdivision thereof ” and “any agency of . . .
+a State, or a political subdivision of a State,” §§ 203(x),
+2611(4)(A)(iii). We held in Kimel that, by using identi-
+cal language in the Age Discrimination in Employment Act
+of 1967 (ADEA), 81 Stat. 602, as amended, 29 U. S. C.
+§ 621 et seq., Congress satisﬁed the clear statement rule of
+Dellmuth. 528 U. S., at 73–78. This case turns, then, on
+whether Congress acted within its constitutional authority
+when it sought to abrogate the States’ immunity for pur-
+poses of the FMLA’s family-leave provision.
+
+   In enacting the FMLA, Congress relied on two of the pow-
+ers vested in it by the Constitution: its Article I commerce
+power and its power under § 5 of the Fourteenth Amendment
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          727
+
+                                    Opinion of the Court
+
+to enforce that Amendment’s guarantees.1 Congress may
+not abrogate the States’ sovereign immunity pursuant to its
+Article I power over commerce. Seminole Tribe, supra.
+Congress may, however, abrogate States’ sovereign immu-
+nity through a valid exercise of its § 5 power, for “the Elev-
+enth Amendment, and the principle of state sovereignty
+which it embodies, are necessarily limited by the enforce-
+ment provisions of § 5 of the Fourteenth Amendment.”
+Fitzpatrick v. Bitzer, 427 U. S. 445, 456 (1976) (citation omit-
+ted). See also Garrett, supra, at 364; Kimel, supra, at 80.
+
+   Two provisions of the Fourteenth Amendment are rele-
+vant here: Section 5 grants Congress the power “to enforce”
+the substantive guarantees of § 1—among them, equal pro-
+tection of the laws—by enacting “appropriate legislation.”
+Congress may, in the exercise of its § 5 power, do more than
+simply proscribe conduct that we have held unconstitutional.
+“ ‘Congress’ power “to enforce” the Amendment includes the
+authority both to remedy and to deter violation of rights
+guaranteed thereunder by prohibiting a somewhat broader
+swath of conduct, including that which is not itself forbidden
+by the Amendment’s text.’ ” Garrett, supra, at 365 (quoting
+Kimel, supra, at 81); City of Boerne v. Flores, 521 U. S. 507,
+536 (1997); Katzenbach v. Morgan, 384 U. S. 641, 658 (1966).
+In other words, Congress may enact so-called prophylactic
+
+   1 Compare 29 U. S. C. § 2601(b)(1) (“It is the purpose of this Act . . . to
+balance the demands of the workplace with the needs of families, to pro-
+mote the stability and economic security of families, and to promote na-
+tional interests in preserving family integrity”) with § 2601(b)(5) (“to pro-
+mote the goal of equal employment opportunity for women and men,
+pursuant to [the Equal Protection C]lause”) and § 2601(b)(4) (“to accom-
+plish [the Act’s other purposes] in a manner that, consistent with the Equal
+Protection Clause . . . , minimizes the potential for employment discrimina-
+tion on the basis of sex”). See also S. Rep. No. 103–3, p. 16 (1993) (the
+FMLA “is based not only on the Commerce Clause, but also on the guaran-
+tees of equal protection and due process embodied in the 14th Amend-
+ment”); H. R. Rep. No. 103–8, pt. 1, p. 29 (1993) (same).
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+728 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+legislation that proscribes facially constitutional conduct, in
+order to prevent and deter unconstitutional conduct.
+
+   City of Boerne also conﬁrmed, however, that it falls to this
+Court, not Congress, to deﬁne the substance of constitutional
+guarantees. 521 U. S., at 519–524. “The ultimate interpre-
+tation and determination of the Fourteenth Amendment’s
+substantive meaning remains the province of the Judicial
+Branch.” Kimel, 528 U. S., at 81. Section 5 legislation
+reaching beyond the scope of § 1’s actual guarantees must
+be an appropriate remedy for identiﬁed constitutional viola-
+tions, not “an attempt to substantively redeﬁne the States’
+legal obligations.” Id., at 88. We distinguish appropriate
+prophylactic legislation from “substantive redeﬁnition of the
+Fourteenth Amendment right at issue,” id., at 81, by apply-
+ing the test set forth in City of Boerne: Valid § 5 legislation
+must exhibit “congruence and proportionality between the
+injury to be prevented or remedied and the means adopted
+to that end,” 521 U. S., at 520.
+
+   The FMLA aims to protect the right to be free from
+gender-based discrimination in the workplace.2 We have
+held that statutory classiﬁcations that distinguish between
+males and females are subject to heightened scrutiny. See,
+e. g., Craig v. Boren, 429 U. S. 190, 197–199 (1976). For a
+gender-based classiﬁcation to withstand such scrutiny, it
+must “serv[e] important governmental objectives,” and “the
+discriminatory means employed [must be] substantially re-
+lated to the achievement of those objectives.” United
+
+   2 The text of the Act makes this clear. Congress found that, “due to the
+nature of the roles of men and women in our society, the primary responsi-
+bility for family caretaking often falls on women, and such responsibility
+affects the working lives of women more than it affects the working lives
+of men.” 29 U. S. C. § 2601(a)(5). In response to this ﬁnding, Congress
+sought “to accomplish the [Act’s other] purposes . . . in a manner that . . .
+minimizes the potential for employment discrimination on the basis of sex
+by ensuring generally that leave is available . . . on a gender-neutral
+basis[,] and to promote the goal of equal employment opportunity for
+women and men . . . .” §§ 2601(b)(4) and (5) (emphasis added).
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          729
+
+                                    Opinion of the Court
+
+States v. Virginia, 518 U. S. 515, 533 (1996) (citations and
+internal quotation marks omitted). The State’s justiﬁcation
+for such a classiﬁcation “must not rely on overbroad general-
+izations about the different talents, capacities, or preferences
+of males and females.” Ibid. We now inquire whether
+Congress had evidence of a pattern of constitutional viola-
+tions on the part of the States in this area.
+
+   The history of the many state laws limiting women’s em-
+ployment opportunities is chronicled in—and, until relatively
+recently, was sanctioned by—this Court’s own opinions.
+For example, in Bradwell v. State, 16 Wall. 130 (1873) (Illi-
+nois), and Goesaert v. Cleary, 335 U. S. 464, 466 (1948) (Michi-
+gan), the Court upheld state laws prohibiting women from
+practicing law and tending bar, respectively. State laws fre-
+quently subjected women to distinctive restrictions, terms,
+conditions, and beneﬁts for those jobs they could take. In
+Muller v. Oregon, 208 U. S. 412, 419, n. 1 (1908), for example,
+this Court approved a state law limiting the hours that
+women could work for wages, and observed that 19 States
+had such laws at the time. Such laws were based on the
+related beliefs that (1) a woman is, and should remain, “the
+center of home and family life,” Hoyt v. Florida, 368 U. S. 57,
+62 (1961), and (2) “a proper discharge of [a woman’s] maternal
+functions—having in view not merely her own health, but
+the well-being of the race—justif[ies] legislation to protect
+her from the greed as well as the passion of man,” Muller,
+supra, at 422. Until our decision in Reed v. Reed, 404 U. S.
+71 (1971), “it remained the prevailing doctrine that govern-
+ment, both federal and state, could withhold from women
+opportunities accorded men so long as any ‘basis in rea-
+son’ ”—such as the above beliefs—“could be conceived for the
+discrimination.” Virginia, supra, at 531 (quoting Goesaert,
+supra, at 467).
+
+   Congress responded to this history of discrimination by
+abrogating States’ sovereign immunity in Title VII of the
+Civil Rights Act of 1964, 78 Stat. 255, 42 U. S. C. § 2000e–2(a),
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+730 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+and we sustained this abrogation in Fitzpatrick. But state
+gender discrimination did not cease. “[I]t can hardly be
+doubted that . . . women still face pervasive, although at
+times more subtle, discrimination . . . in the job market.”
+Frontiero v. Richardson, 411 U. S. 677, 686 (1973). Accord-
+ing to evidence that was before Congress when it enacted
+the FMLA, States continue to rely on invalid gender stereo-
+types in the employment context, speciﬁcally in the adminis-
+tration of leave beneﬁts. Reliance on such stereotypes can-
+not justify the States’ gender discrimination in this area.
+Virginia, supra, at 533. The long and extensive history
+of sex discrimination prompted us to hold that measures
+that differentiate on the basis of gender warrant heightened
+scrutiny; here, as in Fitzpatrick, the persistence of such
+unconstitutional discrimination by the States justiﬁes Con-
+gress’ passage of prophylactic § 5 legislation.
+
+   As the FMLA’s legislative record reﬂects, a 1990 Bureau
+of Labor Statistics (BLS) survey stated that 37 percent of
+surveyed private-sector employees were covered by mater-
+nity leave policies, while only 18 percent were covered by
+paternity leave policies. S. Rep. No. 103–3, pp. 14–15 (1993).
+The corresponding numbers from a similar BLS survey
+the previous year were 33 percent and 16 percent, respec-
+tively. Ibid. While these data show an increase in the per-
+centage of employees eligible for such leave, they also show
+a widening of the gender gap during the same period. Thus,
+stereotype-based beliefs about the allocation of family du-
+ties remained ﬁrmly rooted, and employers’ reliance on
+them in establishing discriminatory leave policies remained
+widespread.3
+
+   3 While this and other material described leave policies in the private
+sector, a 50-state survey also before Congress demonstrated that “[t]he
+proportion and construction of leave policies available to public sector em-
+ployees differs little from those offered private sector employees.” The
+Parental and Medical Leave Act of 1986: Joint Hearing before the Subcom-
+mittee on Labor-Management Relations and the Subcommittee on Labor
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          731
+
+                                    Opinion of the Court
+
+   Congress also heard testimony that “[p]arental leave for
+fathers . . . is rare. Even . . . [w]here child-care leave policies
+do exist, men, both in the public and private sectors, receive
+notoriously discriminatory treatment in their requests for
+such leave.” Joint Hearing 147 (Washington Council of
+Lawyers) (emphasis added). Many States offered women
+extended “maternity” leave that far exceeded the typical 4-
+to 8-week period of physical disability due to pregnancy and
+childbirth,4 but very few States granted men a parallel bene-
+ﬁt: Fifteen States provided women up to one year of ex-
+tended maternity leave, while only four provided men with
+the same. M. Lord & M. King, The State Reference Guide
+to Work-Family Programs for State Employees 30 (1991).
+This and other differential leave policies were not attribut-
+able to any differential physical needs of men and women,
+but rather to the pervasive sex-role stereotype that caring
+for family members is women’s work.5
+
+Standards of the House Committee on Education and Labor, 99th Cong.,
+2d Sess., 33 (1986) (hereinafter Joint Hearing) (statement of Meryl Frank,
+Director of the Yale Bush Center Infant Care Leave Project). See also
+id., at 29–30.
+
+   4 See, e. g., id., at 16 (six weeks is the medically recommended pregnancy
+disability leave period); H. R. Rep. No. 101–28, pt. 1, p. 30 (1989) (referring
+to Pregnancy Discrimination Act legislative history establishing four to
+eight weeks as the medical recovery period for a normal childbirth).
+
+   5 For example, state employers’ collective-bargaining agreements often
+granted extended “maternity” leave of six months to a year to women
+only. Gerald McEntee, President of the American Federation of State,
+County and Municipal Employees, AFL–CIO, testiﬁed that “the vast ma-
+jority of our contracts, even though we look upon them with great pride,
+really cover essentially maternity leave, and not paternity leave.” The
+Parental and Medical Leave Act of 1987: Hearings before the Subcommit-
+tee on Children, Family, Drugs and Alcoholism of the Senate Committee
+on Labor and Human Resources, 100th Cong., 1st Sess., pt. 1, p. 385 (1987)
+(hereinafter 1987 Senate Labor Hearings). In addition, state leave laws
+often speciﬁed that catchall leave-without-pay provisions could be used for
+extended maternity leave, but did not authorize such leave for paternity
+purposes. See, e. g., Family and Medical Leave Act of 1987: Joint Hearing
+before the House Committee on Post Ofﬁce and Civil Service, 100th Cong.,
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+732 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+   Finally, Congress had evidence that, even where state laws
+and policies were not facially discriminatory, they were ap-
+plied in discriminatory ways. It was aware of the “serious
+problems with the discretionary nature of family leave,” be-
+cause when “the authority to grant leave and to arrange the
+length of that leave rests with individual supervisors,” it
+leaves “employees open to discretionary and possibly un-
+equal treatment.” H. R. Rep. No. 103–8, pt. 2, pp. 10–11
+(1993). Testimony supported that conclusion, explaining
+that “[t]he lack of uniform parental and medical leave policies
+in the work place has created an environment where [sex]
+discrimination is rampant.” 1987 Senate Labor Hearings,
+pt. 2, at 170 (testimony of Peggy Montes, Mayor’s Commis-
+sion on Women’s Affairs, City of Chicago).
+
+   In spite of all of the above evidence, Justice Kennedy
+argues in dissent that Congress’ passage of the FMLA was
+unnecessary because “the States appear to have been ahead
+of Congress in providing gender-neutral family leave bene-
+ﬁts,” post, at 750, and points to Nevada’s leave policies in
+particular, post, at 755. However, it was only “[s]ince Fed-
+eral family leave legislation was ﬁrst introduced” that the
+States had even “begun to consider similar family leave ini-
+tiatives.” S. Rep. No. 103–3, at 20; see also S. Rep. No. 102–
+
+1st Sess., 2–5 (1987) (Rep. Gary Ackerman recounted suffering expressly
+sex-based denial of unpaid leave of absence where beneﬁt was ostensibly
+available for “child care leave”).
+
+   Evidence pertaining to parenting leave is relevant here because state
+discrimination in the provision of both types of beneﬁts is based on the
+same gender stereotype: that women’s family duties trump those of the
+workplace. Justice Kennedy’s dissent (hereinafter dissent) ignores this
+common foundation that, as Congress found, has historically produced dis-
+crimination in the hiring and promotion of women. See post, at 748–749.
+Consideration of such evidence does not, as the dissent contends, expand
+our § 5 inquiry to include “general gender-based stereotypes in employ-
+ment.” Post, at 749 (emphasis added). To the contrary, because parent-
+ing and family leave address very similar situations in which work and
+family responsibilities conﬂict, they implicate the same stereotypes.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          733
+
+                                    Opinion of the Court
+
+68, p. 77 (1991) (minority views of Sen. Durenberger) (“[S]o
+few states have elected to enact similar legislation at the
+state level”).
+
+   Furthermore, the dissent’s statement that some States
+“had adopted some form of family-care leave” before the
+FMLA’s enactment, post, at 750, glosses over important
+shortcomings of some state policies. First, seven States had
+childcare leave provisions that applied to women only. In-
+deed, Massachusetts required that notice of its leave provi-
+sions be posted only in “establishment[s] in which females
+are employed.” 6 These laws reinforced the very stereo-
+types that Congress sought to remedy through the FMLA.
+Second, 12 States provided their employees no family leave,
+beyond an initial childbirth or adoption, to care for a seri-
+ously ill child or family member.7 Third, many States pro-
+
+   6 Mass. Gen. Laws, ch. 149, § 105D (West 1997) (providing leave to “fe-
+male employee[s]” for childbirth or adoption); see also 3 Colo. Code Regs.
+§ 708–1, Rule 80.8 (2002) (pregnancy disability leave only); Iowa Code
+§ 216.6(2) (2000) (former § 601A.6(2)) (same); Kan. Admin. Regs. 21–32–6(d)
+(2003) (“a reasonable period” of maternity leave for female employees
+only); N. H. Stat. Ann. § 354–A:7(VI)(b) (Michie Supp. 2000) (pregnancy
+disability leave only); La. Stat. Ann. § 23:1008(A)(2) (West Supp. 1993) (re-
+pealed 1997) (4-month maternity leave for female employees only); Tenn.
+Code Ann. § 4–21–408(a) (1998) (same).
+
+   The dissent asserts that four of these schemes—those of Colorado, Iowa,
+Louisiana, and New Hampshire—concern “pregnancy disability leave
+only.” Post, at 752. But Louisiana provided women with four months
+of such leave, which far exceeds the medically recommended pregnancy
+disability leave period of six weeks. See n. 4, supra. This gender-
+discriminatory policy is not attributable to any different physical needs of
+men and women, but rather to the invalid stereotypes that Congress
+sought to counter through the FMLA. See supra, at 731.
+
+   7 See 3 Colo. Code Regs. § 708–1, Rule 80.8 (2002); Del. Code Ann., Tit.
+29, § 5116 (1997); Iowa Code § 216.6(2) (2000); Kan. Admin. Regs. 21–32–6
+(2003); Ky. Rev. Stat. Ann. § 337.015 (Michie 2001); La. Stat. Ann.
+§ 23:1008(A)(2) (West Supp. 1993); Mass. Gen. Laws, ch. 149, § 105(D) (West
+1997); Mo. Rev. Stat. § 105.271 (2000); N. H. Stat. Ann. § 354–A:7(VI)(b)
+(Michie Supp. 2000); N. Y. Lab. Law § 201–c (West 2002); Tenn. Code
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+734 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+vided no statutorily guaranteed right to family leave, offer-
+ing instead only voluntary or discretionary leave programs.
+Three States left the amount of leave time primarily in em-
+ployers’ hands.8 Congress could reasonably conclude that
+such discretionary family-leave programs would do little to
+combat the stereotypes about the roles of male and female
+employees that Congress sought to eliminate. Finally, four
+States provided leave only through administrative regula-
+tions or personnel policies, which Congress could reasonably
+conclude offered signiﬁcantly less ﬁrm protection than a fed-
+eral law.9 Against the above backdrop of limited state leave
+policies, no matter how generous petitioners’ own may have
+been, see post, at 755 (dissent), Congress was justiﬁed in
+enacting the FMLA as remedial legislation.10
+
+Ann. § 4–21–408(a) (1998); U. S. Dept. of Labor, Women’s Bureau, State
+Maternity/Family Leave Law, p. 12 (June 1993) (citing a Virginia person-
+nel policy).
+
+   8 See 3 Colo. Code Regs. § 708–1, Rule 80.8 (2002); Kan. Admin. Regs.
+21–32–6 (2003); N. H. Stat. Ann. § 354–A:7(VI)(b) (Michie Supp. 2000).
+Oklahoma offered only a system by which employees could voluntarily
+donate leave time for colleagues’ family emergencies. Okla. Stat., Tit. 74,
+§ 840–2.22 (historical note) (West 2002).
+
+   9 See 3 Colo. Code Regs. § 708–1, Rule 80.8 (2002); Kan. Admin. Regs.
+21–32–6 (2003); Wis. Admin. Code ch. DWD 225 (1997) (former ch. ILHR
+225); State Maternity/Family Leave Law, supra, at 12 (Virginia).
+
+   10 Contrary to the dissent’s belief, we do not hold that Congress may
+“abrogat[e] state immunity from private suits whenever the State’s social
+beneﬁts program is not enshrined in the statutory code and provides em-
+ployers with discretion,” post, at 753, or when a State does not confer
+social beneﬁts “as generous or extensive as Congress would later deem
+appropriate,” post, at 752. The dissent misunderstands the purpose of
+the FMLA’s family-leave provision. The FMLA is not a “substantive en-
+titlement program,” post, at 754; Congress did not create a particular leave
+policy for its own sake. See infra, at 737–738. Rather, Congress sought
+to adjust family-leave policies in order to eliminate their reliance on, and
+perpetuation of, invalid stereotypes, and thereby dismantle persisting
+gender-based barriers to the hiring, retention, and promotion of women in
+the workplace. In pursuing that goal, for the reasons discussed above,
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          735
+
+                                    Opinion of the Court
+
+   In sum, the States’ record of unconstitutional participation
+in, and fostering of, gender-based discrimination in the ad-
+ministration of leave beneﬁts is weighty enough to justify
+the enactment of prophylactic § 5 legislation.11
+
+   We reached the opposite conclusion in Garrett and Kimel.
+In those cases, the § 5 legislation under review responded
+to a purported tendency of state ofﬁcials to make age- or
+disability-based distinctions. Under our equal protection
+case law, discrimination on the basis of such characteristics is
+not judged under a heightened review standard, and passes
+muster if there is “a rational basis for doing so at a class-
+based level, even if it ‘is probably not true’ that those reasons
+are valid in the majority of cases.” Kimel, 528 U. S., at 86
+(quoting Gregory v. Ashcroft, 501 U. S. 452, 473 (1991)). See
+also Garrett, 531 U. S., at 367 (“States are not required by
+the Fourteenth Amendment to make special accommodations
+for the disabled, so long as their actions toward such individ-
+uals are rational”). Thus, in order to impugn the constitu-
+tionality of state discrimination against the disabled or the
+elderly, Congress must identify, not just the existence of age-
+or disability-based state decisions, but a “widespread pat-
+tern” of irrational reliance on such criteria. Kimel, supra,
+at 90. We found no such showing with respect to the ADEA
+and Title I of the Americans with Disabilities Act of 1990
+(ADA). Kimel, supra, at 89; Garrett, supra, at 368.
+
+supra, at 733–734 and this page, Congress reasonably concluded that state
+leave laws and practices should be brought within the Act.
+
+   11 Given the extent and speciﬁcity of the above record of unconstitutional
+state conduct, it is difﬁcult to understand the dissent’s accusation that we
+rely on “a simple recitation of a general history of employment discrimina-
+tion against women.” Post, at 746. As we stated above, our holding
+rests on congressional ﬁndings that, at the time the FMLA was enacted,
+States “rel[ied] on invalid gender stereotypes in the employment context,
+speciﬁcally in the administration of leave beneﬁts.” Supra, at 730 (em-
+phasis added). See supra, at 730–732.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+736 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+   Here, however, Congress directed its attention to state
+gender discrimination, which triggers a heightened level of
+scrutiny. See, e. g., Craig, 429 U. S., at 197–199. Because
+the standard for demonstrating the constitutionality of a
+gender-based classiﬁcation is more difﬁcult to meet than our
+rational-basis test—it must “serv[e] important governmental
+objectives” and be “substantially related to the achievement
+of those objectives,” Virginia, 518 U. S., at 533—it was eas-
+ier for Congress to show a pattern of state constitutional
+violations. Congress was similarly successful in South Car-
+olina v. Katzenbach, 383 U. S. 301, 308–313 (1966), where we
+upheld the Voting Rights Act of 1965: Because racial classiﬁ-
+cations are presumptively invalid, most of the States’ acts of
+race discrimination violated the Fourteenth Amendment.
+
+   The impact of the discrimination targeted by the FMLA
+is signiﬁcant. Congress determined:
+
+      “Historically, denial or curtailment of women’s employ-
+      ment opportunities has been traceable directly to the
+      pervasive presumption that women are mothers ﬁrst,
+      and workers second. This prevailing ideology about
+      women’s roles has in turn justiﬁed discrimination
+      against women when they are mothers or mothers-to-
+      be.” Joint Hearing 100.
+
+   Stereotypes about women’s domestic roles are reinforced
+by parallel stereotypes presuming a lack of domestic respon-
+sibilities for men. Because employers continued to regard
+the family as the woman’s domain, they often denied men
+similar accommodations or discouraged them from taking
+leave. These mutually reinforcing stereotypes created a
+self-fulﬁlling cycle of discrimination that forced women to
+continue to assume the role of primary family caregiver, and
+fostered employers’ stereotypical views about women’s com-
+mitment to work and their value as employees. Those per-
+ceptions, in turn, Congress reasoned, lead to subtle discrimi-
+nation that may be difﬁcult to detect on a case-by-case basis.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          737
+
+                                    Opinion of the Court
+
+   We believe that Congress’ chosen remedy, the family-care
+leave provision of the FMLA, is “congruent and proportional
+to the targeted violation,” Garrett, supra, at 374. Congress
+had already tried unsuccessfully to address this problem
+through Title VII and the amendment of Title VII by the
+Pregnancy Discrimination Act, 42 U. S. C. § 2000e(k). Here,
+as in Katzenbach, supra, Congress again confronted a “difﬁ-
+cult and intractable proble[m],” Kimel, supra, at 88, where
+previous legislative attempts had failed. See Katzenbach,
+supra, at 313 (upholding the Voting Rights Act). Such prob-
+lems may justify added prophylactic measures in response.
+Kimel, supra, at 88.
+
+   By creating an across-the-board, routine employment ben-
+eﬁt for all eligible employees, Congress sought to ensure that
+family-care leave would no longer be stigmatized as an inor-
+dinate drain on the workplace caused by female employees,
+and that employers could not evade leave obligations simply
+by hiring men. By setting a minimum standard of family
+leave for all eligible employees, irrespective of gender, the
+FMLA attacks the formerly state-sanctioned stereotype that
+only women are responsible for family caregiving, thereby
+reducing employers’ incentives to engage in discrimination
+by basing hiring and promotion decisions on stereotypes.
+
+   The dissent characterizes the FMLA as a “substantive en-
+titlement program” rather than a remedial statute because
+it establishes a ﬂoor of 12 weeks’ leave. Post, at 754. In
+the dissent’s view, in the face of evidence of gender-based
+discrimination by the States in the provision of leave bene-
+ﬁts, Congress could do no more in exercising its § 5 power
+than simply proscribe such discrimination. But this position
+cannot be squared with our recognition that Congress “is not
+conﬁned to the enactment of legislation that merely parrots
+the precise wording of the Fourteenth Amendment,” but
+may prohibit “a somewhat broader swath of conduct, includ-
+ing that which is not itself forbidden by the Amendment’s
+text.” Kimel, supra, at 81. For example, this Court has
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+738 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                    Opinion of the Court
+
+upheld certain prophylactic provisions of the Voting Rights
+Act as valid exercises of Congress’ § 5 power, including the
+literacy test ban and preclearance requirements for changes
+in States’ voting procedures. See, e. g., Katzenbach v. Mor-
+gan, 384 U. S. 641 (1966); Oregon v. Mitchell, 400 U. S. 112
+(1970); South Carolina v. Katzenbach, supra.
+
+   Indeed, in light of the evidence before Congress, a statute
+mirroring Title VII, that simply mandated gender equality
+in the administration of leave beneﬁts, would not have
+achieved Congress’ remedial object. Such a law would allow
+States to provide for no family leave at all. Where “[t]wo-
+thirds of the nonprofessional caregivers for older, chronically
+ill, or disabled persons are working women,” H. R. Rep.
+No. 103–8, pt. 1, at 24; S. Rep. No. 103–3, at 7, and state
+practices continue to reinforce the stereotype of women as
+caregivers, such a policy would exclude far more women than
+men from the workplace.
+
+   Unlike the statutes at issue in City of Boerne, Kimel, and
+Garrett, which applied broadly to every aspect of state em-
+ployers’ operations, the FMLA is narrowly targeted at the
+faultline between work and family—precisely where sex-
+based overgeneralization has been and remains strongest—
+and affects only one aspect of the employment relationship.
+Compare Ragsdale v. Wolverine World Wide, Inc., 535 U. S.
+81, 91 (2002) (discussing the “important limitations of the
+[FMLA’s] remedial scheme”), with City of Boerne, 521 U. S.,
+at 532 (the “[s]weeping coverage” of the Religious Freedom
+Restoration Act of 1993); Kimel, 528 U. S., at 91 (“the in-
+discriminate scope of the [ADEA’s] substantive require-
+ments”); and Garrett, 531 U. S., at 361 (the ADA prohibits
+disability discrimination “in regard to [any] terms, condi-
+tions, and privileges of employment” (internal quotation
+marks omitted)).
+
+   We also ﬁnd signiﬁcant the many other limitations that
+Congress placed on the scope of this measure. See Florida
+Prepaid, 527 U. S., at 647 (“[W]here ‘a congressional enact-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          739
+
+                                    Opinion of the Court
+
+ment pervasively prohibits constitutional state action in an
+effort to remedy or to prevent unconstitutional state action,
+limitations of this kind tend to ensure Congress’ means are
+proportionate to ends legitimate under § 5’ ” (quoting City
+of Boerne, supra, at 532–533)). The FMLA requires only
+unpaid leave, 29 U. S. C. § 2612(a)(1), and applies only to
+employees who have worked for the employer for at least
+one year and provided 1,250 hours of service within the last
+12 months, § 2611(2)(A). Employees in high-ranking or sen-
+sitive positions are simply ineligible for FMLA leave; of
+particular importance to the States, the FMLA expressly
+excludes from coverage state elected ofﬁcials, their staffs,
+and appointed policymakers. §§ 2611(2)(B)(i) and (3), 203(e)
+(2)(C). Employees must give advance notice of foreseeable
+leave, § 2612(e), and employers may require certiﬁcation by
+a health care provider of the need for leave, § 2613. In
+choosing 12 weeks as the appropriate leave ﬂoor, Congress
+chose “a middle ground, a period long enough to serve
+‘the needs of families’ but not so long that it would upset
+‘the legitimate interests of employers.’ ” Ragsdale, supra,
+at 94 (quoting 29 U. S. C. § 2601(b)).12 Moreover, the cause
+
+   12 Congress established 12 weeks as a ﬂoor, thus leaving States free to
+provide their employees with more family-leave time if they so choose.
+See 29 U. S. C. § 2651(b) (“Nothing in this Act or any amendment made by
+this Act shall be construed to supersede any provision of any State or
+local law that provides greater family or medical leave rights than the
+rights established under this Act or any amendment made by this Act”).
+The dissent faults Congress for giving States this choice, arguing that the
+FMLA’s terms do not bar States from granting more family-leave time to
+women than to men. Post, at 756. But Justice Kennedy effectively
+counters his own argument in his very next breath, recognizing that such
+gender-based discrimination would “run afoul of the Equal Protection
+Clause or Title VII.” Ibid. In crafting new legislation to remedy uncon-
+stitutional state conduct, Congress may certainly rely on and take account
+of existing laws. Indeed, Congress expressly did so here. See 29 U. S. C.
+§ 2651(a) (“Nothing in this Act or any amendment made by this Act shall
+be construed to modify or affect any Federal or State law prohibiting
+discrimination on the basis of . . . sex . . .”).
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+740 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                         Stevens, J., concurring in judgment
+
+of action under the FMLA is a restricted one: The damages
+recoverable are strictly deﬁned and measured by actual mon-
+etary losses, §§ 2617(a)(1)(A)(i)–(iii), and the accrual period
+for backpay is limited by the Act’s 2-year statute of limita-
+tions (extended to three years only for willful violations),
+§§ 2617(c)(1) and (2).
+
+   For the above reasons, we conclude that § 2612(a)(1)(C) is
+congruent and proportional to its remedial object, and can
+“be understood as responsive to, or designed to prevent, un-
+constitutional behavior.” City of Boerne, supra, at 532.
+
+   The judgment of the Court of Appeals is therefore
+
+                                                                     Afﬁrmed.
+
+   Justice Souter, with whom Justice Ginsburg and Jus-
+tice Breyer join, concurring.
+
+   Even on this Court’s view of the scope of congressional
+power under § 5 of the Fourteenth Amendment, see Board
+of Trustees of Univ. of Ala. v. Garrett, 531 U. S. 356 (2001);
+Kimel v. Florida Bd. of Regents, 528 U. S. 62 (2000); Florida
+Prepaid Postsecondary Ed. Expense Bd. v. College Savings
+Bank, 527 U. S. 627 (1999), the Family and Medical Leave
+Act of 1993 is undoubtedly valid legislation, and application
+of the Act to the States is constitutional; the same conclu-
+sions follow a fortiori from my own understanding of § 5, see
+Garrett, supra, at 376 (Breyer, J., dissenting); Kimel, supra,
+at 92 (Stevens, J., dissenting); Florida Prepaid, supra, at
+648 (Stevens, J., dissenting); see also Katzenbach v. Mor-
+gan, 384 U. S. 641, 650–651 (1966). I join the Court’s opinion
+here without conceding the dissenting positions just cited or
+the dissenting views expressed in Seminole Tribe of Fla. v.
+Florida, 517 U. S. 44, 100 (1996) (Souter, J., dissenting).
+
+   Justice Stevens, concurring in the judgment.
+   Because I have never been convinced that an Act of Con-
+gress can amend the Constitution and because I am uncer-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          741
+
+                                   Scalia, J., dissenting
+
+tain whether the congressional enactment before us was
+truly “ ‘needed to secure the guarantees of the Fourteenth
+Amendment,’ ” I write separately to explain why I join the
+Court’s judgment. Fitzpatrick v. Bitzer, 427 U. S. 445, 458
+(1976) (Stevens, J., concurring in judgment) (quoting Katz-
+enbach v. Morgan, 384 U. S. 641, 651 (1966)).
+
+   The plain language of the Eleventh Amendment poses no
+barrier to the adjudication of this case because respondents
+are citizens of Nevada. The sovereign immunity defense as-
+serted by Nevada is based on what I regard as the second
+Eleventh Amendment, which has its source in judge-made
+common law, rather than constitutional text. Pennsylvania
+v. Union Gas Co., 491 U. S. 1, 23 (1989) (Stevens, J., concur-
+ring). As long as it clearly expresses its intent, Congress
+may abrogate that common-law defense pursuant to its
+power to regulate commerce “among the several States.”
+U. S. Const., Art. I, § 8. The family-care provision of the
+Family and Medical Leave Act of 1993 is unquestionably a
+valid exercise of a power that is “broad enough to support
+federal legislation regulating the terms and conditions of
+state employment.” Fitzpatrick, 427 U. S., at 458 (Ste-
+vens, J., concurring in judgment).* Accordingly, Nevada’s
+sovereign immunity defense is without merit.
+
+   Justice Scalia, dissenting.
+
+   I join Justice Kennedy’s dissent, and add one further
+observation: The constitutional violation that is a prerequi-
+site to “prophylactic” congressional action to “enforce” the
+Fourteenth Amendment is a violation by the State against
+which the enforcement action is taken. There is no guilt
+by association, enabling the sovereignty of one State to be
+abridged under § 5 of the Fourteenth Amendment because of
+violations by another State, or by most other States, or even
+
+   *See Stevens, “Two Questions About Justice,” 2003 U. Ill. L. Rev. 821
+(discussing Fitzpatrick).
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+742 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                   Scalia, J., dissenting
+
+by 49 other States. We explained as much long ago in the
+Civil Rights Cases, 109 U. S. 3, 14 (1883), which invalidated
+a portion of the Civil Rights Act of 1875, purportedly based
+on § 5, in part for the following reason:
+
+      “It applies equally to cases arising in states which have
+      the justest laws respecting the personal rights of citi-
+      zens, and whose authorities are ever ready to enforce
+      such laws as to those which arise in states that may have
+      violated the prohibition of the amendment.”
+
+Congress has sometimes displayed awareness of this self-
+evident limitation. That is presumably why the most
+sweeping provisions of the Voting Rights Act of 1965—which
+we upheld in City of Rome v. United States, 446 U. S. 156
+(1980), as a valid exercise of congressional power under § 2
+of the Fifteenth Amendment*—were restricted to States
+“with a demonstrable history of intentional racial discrimina-
+tion in voting,” id., at 177.
+
+   Today’s opinion for the Court does not even attempt to
+demonstrate that each one of the 50 States covered by 29
+U. S. C. § 2612(a)(1)(C) was in violation of the Fourteenth
+Amendment. It treats “the States” as some sort of collec-
+tive entity which is guilty or innocent as a body. “[T]he
+States’ record of unconstitutional participation in, and fos-
+tering of, gender-based discrimination,” it concludes, “is
+weighty enough to justify the enactment of prophylactic § 5
+legislation.” Ante, at 735. This will not do. Prophylaxis
+in the sense of extending the remedy beyond the violation is
+one thing; prophylaxis in the sense of extending the remedy
+beyond the violator is something else. See City of Rome,
+supra, at 177 (“Congress could rationally have concluded
+
+   *Section 2 of the Fifteenth Amendment is practically identical to § 5 of
+the Fourteenth Amendment. Compare Amdt. 14, § 5 (“The Congress
+shall have power to enforce, by appropriate legislation, the provisions of
+this article”), with Amdt. 15, § 2 (“The Congress shall have power to en-
+force this article by appropriate legislation”).
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          743
+
+                                   Scalia, J., dissenting
+
+that, because electoral changes by jurisdictions with a de-
+monstrable history of intentional racial discrimination in
+voting create the risk of purposeful discrimination, it was
+proper to prohibit changes that have a discriminatory im-
+pact” (emphasis added)).
+
+   When a litigant claims that legislation has denied him indi-
+vidual rights secured by the Constitution, the court ordi-
+narily asks ﬁrst whether the legislation is constitutional as
+applied to him. See Broadrick v. Oklahoma, 413 U. S. 601,
+613 (1973). When, on the other hand, a federal statute is
+challenged as going beyond Congress’s enumerated powers,
+under our precedents the court ﬁrst asks whether the statute
+is unconstitutional on its face. Ante, at 727–728; Post, at
+744 (Kennedy, J., dissenting); see United States v. Mor-
+rison, 529 U. S. 598 (2000); City of Boerne v. Flores, 521 U. S.
+507 (1997); United States v. Lopez, 514 U. S. 549 (1995). If
+the statute survives this challenge, however, it stands to rea-
+son that the court may, if asked, proceed to analyze whether
+the statute (constitutional on its face) can be validly applied
+to the litigant. In the context of § 5 prophylactic legislation
+applied against a State, this would entail examining whether
+the State has itself engaged in discrimination sufﬁcient to
+support the exercise of Congress’s prophylactic power.
+
+   It seems, therefore, that for purposes of defeating petition-
+ers’ challenge, it would have been enough for respondents to
+demonstrate that § 2612(a)(1)(C) was facially valid—i. e.,
+that it could constitutionally be applied to some jurisdictions.
+See United States v. Salerno, 481 U. S. 739, 745 (1987).
+(Even that demonstration, for the reasons set forth by Jus-
+tice Kennedy, has not been made.) But when it comes to
+an as-applied challenge, I think Nevada will be entitled to
+assert that the mere facts that (1) it is a State, and (2) some
+States are bad actors, is not enough; it can demand that it
+be shown to have been acting in violation of the Fourteenth
+Amendment.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+744 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+   Justice Kennedy, with whom Justice Scalia and Jus-
+tice Thomas join, dissenting.
+
+   The Family and Medical Leave Act of 1993 makes explicit
+the congressional intent to invoke § 5 of the Fourteenth
+Amendment to abrogate state sovereign immunity and allow
+suits for money damages in federal courts. Ante, at 726–
+727, and n. 1. The speciﬁc question is whether Congress
+may impose on the States this entitlement program of its
+own design, with mandated minimums for leave time, and
+then enforce it by permitting private suits for money dam-
+ages against the States. This in turn must be answered by
+asking whether subjecting States and their treasuries to
+monetary liability at the insistence of private litigants is a
+congruent and proportional response to a demonstrated
+pattern of unconstitutional conduct by the States. See ante,
+at 728; Board of Trustees of Univ. of Ala. v. Garrett, 531
+U. S. 356, 365 (2001); City of Boerne v. Flores, 521 U. S. 507,
+520 (1997). If we apply the teaching of these and related
+cases, the family leave provision of the Act, 29 U. S. C.
+§ 2612(a)(1)(C), in my respectful view, is invalid to the extent
+it allows for private suits against the unconsenting States.
+
+   Congress does not have authority to deﬁne the substantive
+content of the Equal Protection Clause; it may only shape
+the remedies warranted by the violations of that guarantee.
+City of Boerne, supra, at 519–520. This requirement has
+special force in the context of the Eleventh Amendment,
+which protects a State’s ﬁscal integrity from federal intru-
+sion by vesting the States with immunity from private ac-
+tions for damages pursuant to federal laws. The Commerce
+Clause likely would permit the National Government to
+enact an entitlement program such as this one; but when
+Congress couples the entitlement with the authorization to
+sue the States for monetary damages, it blurs the line of
+accountability the State has to its own citizens. These basic
+concerns underlie cases such as Garrett and Kimel v. Florida
+Bd. of Regents, 528 U. S. 62 (2000), and should counsel far
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          745
+
+                                  Kennedy, J., dissenting
+
+more caution than the Court shows in holding § 2612(a)(1)(C)
+is somehow a congruent and proportional remedy to an iden-
+tiﬁed pattern of discrimination.
+
+   The Court is unable to show that States have engaged in
+a pattern of unlawful conduct which warrants the remedy of
+opening state treasuries to private suits. The inability to
+adduce evidence of alleged discrimination, coupled with the
+inescapable fact that the federal scheme is not a remedy but
+a beneﬁt program, demonstrates the lack of the requisite link
+between any problem Congress has identiﬁed and the pro-
+gram it mandated.
+
+   In examining whether Congress was addressing a demon-
+strated “pattern of unconstitutional employment discrimina-
+tion by the States,” the Court gives superﬁcial treatment to
+the requirement that we “identify with some precision the
+scope of the constitutional right at issue.” Garrett, supra,
+at 365, 368. The Court suggests the issue is “the right to
+be free from gender-based discrimination in the workplace,”
+ante, at 728, and then it embarks on a survey of our prece-
+dents speaking to “[t]he history of the many state laws limit-
+ing women’s employment opportunities,” ante, at 729. All
+would agree that women historically have been subjected to
+conditions in which their employment opportunities are more
+limited than those available to men. As the Court acknowl-
+edges, however, Congress responded to this problem by ab-
+rogating States’ sovereign immunity in Title VII of the Civil
+Rights Act of 1964, 42 U. S. C. § 2000e–2(a). Ante, at 729;
+see also Fitzpatrick v. Bitzer, 427 U. S. 445 (1976). The pro-
+vision now before us, 29 U. S. C. § 2612(a)(1)(C), has a differ-
+ent aim than Title VII. It seeks to ensure that eligible em-
+ployees, irrespective of gender, can take a minimum amount
+of leave time to care for an ill relative.
+
+   The relevant question, as the Court seems to acknowledge,
+is whether, notwithstanding the passage of Title VII and
+similar state legislation, the States continued to engage in
+widespread discrimination on the basis of gender in the pro-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+746 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+vision of family leave beneﬁts. Ante, at 730. If such a pat-
+tern were shown, the Eleventh Amendment would not bar
+Congress from devising a congruent and proportional rem-
+edy. The evidence to substantiate this charge must be far
+more speciﬁc, however, than a simple recitation of a gen-
+eral history of employment discrimination against women.
+When the federal statute seeks to abrogate state sovereign
+immunity, the Court should be more careful to insist on ad-
+herence to the analytic requirements set forth in its own
+precedents. Persisting overall effects of gender-based dis-
+crimination at the workplace must not be ignored; but simply
+noting the problem is not a substitute for evidence which
+identiﬁes some real discrimination the family leave rules are
+designed to prevent.
+
+   Respondents fail to make the requisite showing. The
+Act’s ﬁndings of purpose are devoid of any discussion of the
+relevant evidence. See Lizzi v. Alexander, 255 F. 3d 128,
+135 (CA4 2001) (“In making [its] ﬁnding of purpose, Congress
+did not identify, as it is required to do, any pattern of gender
+discrimination by the states with respect to the granting of
+employment leave for the purpose of providing family or
+medical care”); see also Chittister v. Department of Commu-
+nity and Econ. Dev., 226 F. 3d 223, 228–229 (CA3 2000) (“No-
+tably absent is any ﬁnding concerning the existence, much
+less the prevalence, in public employment of personal sick
+leave practices that amounted to intentional gender discrimi-
+nation in violation of the Equal Protection Clause”).
+
+   As the Court seems to recognize, the evidence considered
+by Congress concerned discriminatory practices of the pri-
+vate sector, not those of state employers. Ante, at 730–731,
+n. 3. The statistical information compiled by the Bureau of
+Labor Statistics (BLS), which are the only factual ﬁndings
+the Court cites, surveyed only private employers. Ante,
+at 730. While the evidence of discrimination by private
+entities may be relevant, it does not, by itself, justify the
+abrogation of States’ sovereign immunity. Garrett, 531
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          747
+
+                                  Kennedy, J., dissenting
+
+U. S., at 368 (“Congress’ § 5 authority is appropriately exer-
+cised only in response to state transgressions”).
+
+   The Court seeks to connect the evidence of private dis-
+crimination to an alleged pattern of unconstitutional behav-
+ior by States through inferences drawn from two sources.
+The ﬁrst is testimony by Meryl Frank, Director of the Infant
+Care Leave Project, Yale Bush Center in Child Development
+and Social Policy, who surveyed both private and public em-
+ployers in all 50 States and found little variation between
+the leave policies in the two sectors. Ante, at 730–731, n. 3
+(citing The Parental and Medical Leave Act of 1986: Joint
+Hearing before the Subcommittee on Labor-Management
+Relations and the Subcommittee on Labor Standards of the
+House Committee on Education and Labor, 99th Cong., 2d
+Sess., 33 (1986) (hereinafter Joint Hearing)). The second is
+a view expressed by the Washington Council of Lawyers
+that even “ ‘[w]here child-care leave policies do exist, men,
+both in the public and private sectors, receive notoriously
+discriminatory treatment in their requests for such leave.’ ”
+Ante, at 731 (quoting Joint Hearing 147) (emphasis added by
+the Court).
+
+   Both statements were made during the hearings on the
+proposed 1986 national leave legislation, and so preceded the
+Act by seven years. The 1986 bill, which was not enacted,
+differed in an important respect from the legislation Con-
+gress eventually passed. That proposal sought to provide
+parenting leave, not leave to care for another ill family mem-
+ber. Compare H. R. 4300, 99th Cong., 2d Sess., §§ 102(3),
+103(a) (1986), with 29 U. S. C. § 2612(a)(1)(C). See also L.
+Gladstone, Congressional Research Service Issue Brief,
+Family and Medical Leave Legislation, pp. 4–5, 10 (Oct. 26,
+1995); Tr. of Oral Arg. 43 (statement of counsel for the United
+States that “the ﬁrst time that the family leave was intro-
+duced and the ﬁrst time the section (5) authority was invoked
+was in H. R. 925,” which was proposed in 1987). The testi-
+mony on which the Court relies concerned the discrimination
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+748 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+with respect to the parenting leave. See Joint Hearing 31
+(statement of Meryl Frank) (the Yale Bush study “evalu-
+ate[d] the impact of the changing composition of the work-
+place on families with infants”); id., at 147 (statement of the
+Washington Council of Lawyers) (“[F]or the ﬁrst time, child-
+care responsibilities of both natural and adoptive mothers
+and fathers will be legislatively protected”). Even if this
+isolated testimony could support an inference that private
+sector’s gender-based discrimination in the provision of par-
+enting leave was parallel to the behavior by state actors in
+1986, the evidence would not be probative of the States’ con-
+duct some seven years later with respect to a statutory pro-
+vision conferring a different beneﬁt. The Court of Appeals
+admitted as much: “We recognize that a weakness in this
+evidence as applied to Hibbs’ case is that the BLS and Yale
+Bush Center studies deal only with parental leave, not with
+leave to care for a sick family member. They thus do not
+document a widespread pattern of precisely the kind of dis-
+crimination that § 2612(a)(1)(C) is intended to prevent.” 273
+F. 3d 844, 859 (CA9 2001).
+
+   The Court’s reliance on evidence suggesting States pro-
+vided men and women with the parenting leave of different
+length, ante, at 731, and n. 5, suffers from the same ﬂaw.
+This evidence concerns the Act’s grant of parenting leave,
+§§ 2612(a)(1)(A), (B), and is too attenuated to justify the fam-
+ily leave provision. The Court of Appeals’ conclusion to the
+contrary was based on an assertion that “if states discrimi-
+nate along gender lines regarding the one kind of leave, then
+they are likely to do so regarding the other.” 273 F. 3d, at
+859. The charge that a State has engaged in a pattern of
+unconstitutional discrimination against its citizens is a most
+serious one. It must be supported by more than conjecture.
+
+   The Court maintains the evidence pertaining to the par-
+enting leave is relevant because both parenting and family
+leave provisions respond to “the same gender stereotype:
+that women’s family duties trump those of the workplace.”
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          749
+
+                                  Kennedy, J., dissenting
+
+Ante, at 732, n. 5. This sets the contours of the inquiry at
+too high a level of abstraction. The question is not whether
+the family leave provision is a congruent and proportional
+response to general gender-based stereotypes in employ-
+ment which “ha[ve] historically produced discrimination in
+the hiring and promotion of women,” ibid.; the question is
+whether it is a proper remedy to an alleged pattern of uncon-
+stitutional discrimination by States in the grant of family
+leave. The evidence of gender-based stereotypes is too re-
+mote to support the required showing.
+
+   The Court next argues that “even where state laws and
+policies were not facially discriminatory, they were applied
+in discriminatory ways.” Ante, at 732. This charge is
+based on an allegation that many States did not guarantee
+the right to family leave by statute, instead leaving the deci-
+sion up to individual employers, who could subject employees
+to “ ‘discretionary and possibly unequal treatment.’ ” Ibid.
+(quoting H. R. Rep. No. 103–8, pt. 2, pp. 10–11 (1993)). The
+study from which the Court derives this conclusion examined
+“the parental leave policies of Federal executive branch
+agencies,” H. R. Rep. No. 103–8, at 10, not those of the
+States. The study explicitly stated that its conclusions con-
+cerned federal employees: “ ‘[I]n the absence of a national
+minimum standard for granting leave for parental purposes,
+the authority to grant leave and to arrange the length of
+that leave rests with individual supervisors, leaving Federal
+employees open to discretionary and possibly unequal treat-
+ment.’ ” Id., at 10–11. A history of discrimination on the
+part of the Federal Government may, in some situations,
+support an inference of similar conduct by the States, but the
+Court does not explain why the inference is justiﬁed here.
+
+   Even if there were evidence that individual state employ-
+ers, in the absence of clear statutory guidelines, discrimi-
+nated in the administration of leave beneﬁts, this circum-
+stance alone would not support a ﬁnding of a state-sponsored
+pattern of discrimination. The evidence could perhaps sup-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+750 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+port the charge of disparate impact, but not a charge that
+States have engaged in a pattern of intentional discrimina-
+tion prohibited by the Fourteenth Amendment. Garrett,
+531 U. S., at 372–373 (citing Washington v. Davis, 426 U. S.
+229, 239 (1976)).
+
+   The federal-state equivalence upon which the Court places
+such emphasis is a deﬁcient rationale at an even more fund-
+amental level, however; for the States appear to have been
+ahead of Congress in providing gender-neutral family leave
+beneﬁts. Thirty States, the District of Columbia, and
+Puerto Rico had adopted some form of family-care leave in
+the years preceding the Act’s adoption. The reports in both
+Houses of Congress noted this fact. H. R. Rep. No. 103–8,
+at 32–33; S. Rep. No. 103–3, pp. 20–21 (1993); see also Brief
+for State of Alabama et al. as Amici Curiae 18–22. Con-
+gressional hearings noted that the provision of family leave
+was “an issue which has picked up tremendous momentum
+in the States, with some 21 of them having some form of
+family or medical leave on the books.” The Family and
+Medical Leave Act of 1991: Hearing on H. R. 2 before the
+Subcommittee on Labor-Management Relations of the House
+Committee on Education and Labor, 102d Cong., 1st Sess.,
+p. 4 (1991) (statement of Rep. Marge Roukema). Congress
+relied on the experience of the States in designing the na-
+tional leave policy to be cost effective and gender neutral.
+S. Rep. No. 103–3, at 12–14; The Parental and Medical Leave
+Act of 1987: Hearings on S. 249 before the Subcommittee on
+Children, Family, Drugs and Alcoholism of the Senate Com-
+mittee on Labor and Human Resources, 100th Cong., 1st
+Sess., pt. 2, pp. 194–195, 533–534 (1987). Congress also ac-
+knowledged that many States had implemented leave poli-
+cies more generous than those envisioned by the Act. H. R.
+Rep. No. 103–8, pt. 1, at 50; S. Rep. No. 103–3, at 38. At the
+very least, the history of the Act suggests States were in the
+process of solving any existing gender-based discrimination
+in the provision of family leave.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          751
+
+                                  Kennedy, J., dissenting
+
+   The Court acknowledges that States have adopted family
+leave programs prior to federal intervention, but argues
+these policies suffered from serious imperfections. Ante,
+at 733–734. Even if correct, this observation proves, at
+most, that programs more generous and more effective than
+those operated by the States were feasible. That the States
+did not devise the optimal programs is not, however, evi-
+dence that the States were perpetuating unconstitutional
+discrimination. Given that the States assumed a pioneering
+role in the creation of family leave schemes, it is not surpris-
+ing these early efforts may have been imperfect. This is al-
+together different, however, from purposeful discrimination.
+
+   The Court’s lengthy discussion of the allegedly deﬁcient
+state policies falls short of meeting this standard. A great
+majority of these programs exhibit no constitutional defect
+and, in fact, are authorized by this Court’s precedent. The
+Court points out that seven States adopted leave provisions
+applicable only to women. Ante, at 733. Yet it must ac-
+knowledge that three of these schemes concerned solely
+pregnancy disability leave. Ante, at 733, n. 6 (citing 3 Colo.
+Code Regs. § 708–1, Rule 80.8 (2002); Iowa Code § 216.6(2)
+(2000); N. H. Stat. Ann. § 354–A:7(VI)(b) (Michie Supp.
+2000)). Our cases make clear that a State does not violate
+the Equal Protection Clause by granting pregnancy dis-
+ability leave to women without providing for a grant of par-
+enting leave to men. Geduldig v. Aiello, 417 U. S. 484, 496–
+497, n. 20 (1974); see also Tr. of Oral Arg. 49 (counsel for
+the United States conceding that Geduldig would permit
+this practice). The Court treats the pregnancy disabil-
+ity scheme of the fourth State, Louisiana, as a disguised
+gender-discriminatory provision of parenting leave because
+the scheme would permit leave in excess of the period Con-
+gress believed to be medically necessary for pregnancy
+disability. Ante, at 733, n. 6. The Louisiana statute, how-
+ever, granted leave only for “that period during which the
+female employee is disabled on account of pregnancy, child-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+752 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+birth, or related medical conditions.” La. Stat. Ann.
+§ 23:1008(A)(2)(b) (West Supp. 1993) (repealed 1997). Prop-
+erly administered, the scheme, despite its generous maxi-
+mum, would not transform into a discriminatory “4-month
+maternity leave for female employees only.” Ante, at 733,
+n. 6.
+
+   The Court next observes that 12 States “provided their
+employees no family leave, beyond an initial childbirth or
+adoption.” Ante, at 733. Four of these States are those
+which, as discussed above, offered pregnancy disability leave
+only. See ante, at 733, n. 7 (citing 3 Colo. Code Regs.
+§ 708–1, Rule 80.8 (2002); Iowa Code § 216.6(2) (2000); La.
+Stat. Ann. § 23:1008(A)(2) (West Supp. 1993) (repealed 1997);
+N. H. Stat. Ann. § 354–A:7(VI)(b) (Michie Supp. 2000)). Of
+the remaining eight States, ﬁve offered parenting leave to
+both men and women on an equal basis; a practice which no
+one contends suffers from a constitutional inﬁrmity. See
+ante, at 733–734, n. 7 (citing Del. Code Ann., Tit. 29, § 5116
+(1997); Ky. Rev. Stat. Ann. § 337.015 (Michie 2001); Mo. Rev.
+Stat. § 105.271 (2000); N. Y. Lab. Law § 201–c (West 2002);
+U. S. Dept. of Labor, Women’s Bureau, State Maternity/
+Family Leave Law, p. 12 (June 1993) (discussing the policy
+adopted by the Virginia Department of Personnel and Train-
+ing)). The Court does not explain how the provision of so-
+cial beneﬁts either on a gender-neutral level (as with the par-
+enting leave) or in a way permitted by this Court’s case law
+(as with the pregnancy disability leave) offends the Constitu-
+tion. Instead, the Court seems to suggest that a pattern of
+unconstitutional conduct may be inferred solely because a
+State, in providing its citizens with social beneﬁts, does not
+make these beneﬁts as generous or extensive as Congress
+would later deem appropriate.
+
+   The Court further chastises the States for having “pro-
+vided no statutorily guaranteed right to family leave, offer-
+ing instead only voluntary or discretionary leave programs.”
+Ante, at 733–734; see also ante, at 734 (“[F]our States pro-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          753
+
+                                  Kennedy, J., dissenting
+
+vided leave only through administrative regulations or per-
+sonnel policies”). The Court does not argue the States in-
+tended to enable employers to discriminate in the provision
+of family leave; nor, as already noted, is there evidence state
+employers discriminated in the administration of leave bene-
+ﬁts. See supra, at 749–750. Under the Court’s reasoning,
+Congress seems justiﬁed in abrogating state immunity from
+private suits whenever the State’s social beneﬁts program is
+not enshrined in the statutory code and provides employers
+with discretion.
+
+   Stripped of the conduct which exhibits no constitutional
+inﬁrmity, the Court’s “exten[sive] and speciﬁ[c] . . . record of
+unconstitutional state conduct,” ante, at 735, n. 11, boils
+down to the fact that three States, Massachusetts, Kansas,
+and Tennessee, provided parenting leave only to their female
+employees, and had no program for granting their employees
+(male or female) family leave. See ante, at 733–734, nn. 6
+and 7 (citing Mass. Gen. Laws, ch. 149, § 105D (West 1997);
+Kan. Admin. Regs. 21–32–6(d) (2003); Tenn. Code Ann. § 4–
+21–408(a) (1998)). As already explained, supra, at 748–749,
+the evidence related to the parenting leave is simply too at-
+tenuated to support a charge of unconstitutional discrimina-
+tion in the provision of family leave. Nor, as the Court
+seems to acknowledge, does the Constitution require States
+to provide their employees with any family leave at all.
+Ante, at 738. A State’s failure to devise a family leave pro-
+gram is not, then, evidence of unconstitutional behavior.
+
+   Considered in its entirety, the evidence fails to document
+a pattern of unconstitutional conduct sufﬁcient to justify the
+abrogation of States’ sovereign immunity. The few inci-
+dents identiﬁed by the Court “fall far short of even suggest-
+ing the pattern of unconstitutional discrimination on which
+§ 5 legislation must be based.” Garrett, 531 U. S., at 370;
+see also Kimel, 528 U. S., at 89–91; City of Boerne, 521 U. S.,
+at 530–531. Juxtaposed to this evidence is the States’ rec-
+ord of addressing gender-based discrimination in the provi-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+754 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+sion of leave beneﬁts on their own volition. See generally
+Brief for State of Alabama et al. as Amici Curiae 5–14.
+
+   Our concern with gender discrimination, which is sub-
+jected to heightened scrutiny, as opposed to age- or
+disability-based distinctions, which are reviewed under ra-
+tional standard, see Kimel, supra, at 83–84; Garrett, supra,
+at 366–367, does not alter this conclusion. The application
+of heightened scrutiny is designed to ensure gender-based
+classiﬁcations are not based on the entrenched and pervasive
+stereotypes which inhibit women’s progress in the work-
+place. Ante, at 736. This consideration does not divest re-
+spondents of their burden to show that “Congress identiﬁed
+a history and pattern of unconstitutional employment dis-
+crimination by the States.” Garrett, supra, at 368. The
+Court seems to reafﬁrm this requirement. Ante, at 729
+(“We now inquire whether Congress had evidence of a pat-
+tern of constitutional violations on the part of the States
+. . .”); see also ante, at 735 (“[T]he States’ record of unconsti-
+tutional participation in, and fostering of, gender-based dis-
+crimination in the administration of leave beneﬁts is weighty
+enough to justify the enactment of prophylactic § 5 legisla-
+tion”). In my submission, however, the Court does not fol-
+low it. Given the insufﬁciency of the evidence that States
+discriminated in the provision of family leave, the unfortu-
+nate fact that stereotypes about women continue to be a seri-
+ous and pervasive social problem would not alone support
+the charge that a State has engaged in a practice designed
+to deny its citizens the equal protection of the laws. Gar-
+rett, supra, at 369.
+
+   The paucity of evidence to support the case the Court tries
+to make demonstrates that Congress was not responding
+with a congruent and proportional remedy to a perceived
+course of unconstitutional conduct. Instead, it enacted a
+substantive entitlement program of its own. If Congress
+had been concerned about different treatment of men and
+women with respect to family leave, a congruent remedy
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          755
+
+                                  Kennedy, J., dissenting
+
+would have sought to ensure the beneﬁts of any leave pro-
+gram enacted by a State are available to men and women on
+an equal basis. Instead, the Act imposes, across the board,
+a requirement that States grant a minimum of 12 weeks of
+leave per year. 29 U. S. C. § 2612(a)(1)(C). This require-
+ment may represent Congress’ considered judgment as to
+the optimal balance between the family obligations of work-
+ers and the interests of employers, and the States may de-
+cide to follow these guidelines in designing their own family
+leave beneﬁts. It does not follow, however, that if the
+States choose to enact a different beneﬁt scheme, they
+should be deemed to engage in unconstitutional conduct and
+forced to open their treasuries to private suits for damages.
+
+   Well before the federal enactment, Nevada not only pro-
+vided its employees, on a gender-neutral basis, with an op-
+tion of requesting up to one year of unpaid leave, Nev.
+Admin. Code § 284.578(1) (1984), but also permitted, subject
+to approval and other conditions, leaves of absence in excess
+of one year, § 284.578(2). Nevada state employees were also
+entitled to use up to 10 days of their accumulated paid sick
+leave to care for an ill relative. § 284.558(1). Nevada, in
+addition, had a program of special “catastrophic leave.”
+State employees could donate their accrued sick leave to a
+general fund to aid employees who needed additional leave
+to care for a relative with a serious illness. Nev. Rev. Stat.
+§ 284.362(1) (1995).
+
+   To be sure, the Nevada scheme did not track that devised
+by the Act in all respects. The provision of unpaid leave
+was discretionary and subject to a possible reporting re-
+quirement. Nev. Admin. Code § 284.578(2)(3) (1984). A
+congruent remedy to any discriminatory exercise of discre-
+tion, however, is the requirement that the grant of leave be
+administered on a gender-equal basis, not the displacement
+of the State’s scheme by a federal one. The scheme enacted
+by the Act does not respect the States’ autonomous power
+to design their own social beneﬁts regime.
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+756 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+   Were more proof needed to show that this is an entitle-
+ment program, not a remedial statute, it should sufﬁce to
+note that the Act does not even purport to bar discrimination
+in some leave programs the States do enact and administer.
+Under the Act, a State is allowed to provide women with,
+say, 24 weeks of family leave per year but provide only 12
+weeks of leave to men. As the counsel for the United States
+conceded during the argument, a law of this kind might run
+afoul of the Equal Protection Clause or Title VII, but it
+would not constitute a violation of the Act. Tr. of Oral Arg.
+49. The Act on its face is not drawn as a remedy to gender-
+based discrimination in family leave.
+
+   It has been long acknowledged that federal legislation
+which “deters or remedies constitutional violations can fall
+within the sweep of Congress’ enforcement power even if in
+the process it prohibits conduct which is not itself unconstitu-
+tional.” City of Boerne, 521 U. S., at 518; see also ante, at
+737 (in exercising its power under § 5 of the Fourteenth
+Amendment, Congress “may prohibit ‘a somewhat broader
+swath of conduct, including that which is not itself forbidden
+by the Amendment’s text’ ” (quoting Kimel, 528 U. S., at 81)).
+The Court has explained, however, that Congress may not
+“enforce a constitutional right by changing what the right
+is.” City of Boerne, supra, at 519. The dual requirement
+that Congress identify a pervasive pattern of unconstitu-
+tional state conduct and that its remedy be proportional and
+congruent to the violation is designed to separate permissi-
+ble exercises of congressional power from instances where
+Congress seeks to enact a substantive entitlement under the
+guise of its § 5 authority.
+
+   The Court’s precedents upholding the Voting Rights Act
+of 1965 as a proper exercise of Congress’ remedial power are
+instructive. In South Carolina v. Katzenbach, 383 U. S. 301
+(1966), the Court concluded that the Voting Rights Act’s
+prohibition on state literacy tests was an appropriate method
+of enforcing the constitutional protection against racial dis-
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          757
+
+                                  Kennedy, J., dissenting
+
+crimination in voting. This measure was justiﬁed because
+“Congress documented a marked pattern of unconstitutional
+action by the States.” Garrett, 531 U. S., at 373 (citing
+Katzenbach, supra, at 312, 313); see also City of Boerne,
+supra, at 525 (“We noted evidence in the record reﬂecting
+the subsisting and pervasive discriminatory—and therefore
+unconstitutional—use of literacy tests” (citing Katzenbach,
+supra, at 333–334)). Congress’ response was a “limited re-
+medial scheme designed to guarantee meaningful enforce-
+ment of the Fifteenth Amendment.” Garrett, supra, at 373.
+This scheme was both congruent, because it “aimed at areas
+where voting discrimination has been most ﬂagrant,” Katz-
+enbach, 383 U. S., at 315, and proportional, because it was
+necessary to “banish the blight of racial discrimination in
+voting, which has infected the electoral process in parts of
+our country for nearly a century,” id., at 308. The Court
+acknowledged Congress’ power to devise “strong remedial
+and preventive measures” to safeguard voting rights on sub-
+sequent occasions, but always explained that these measures
+were legitimate because they were responding to a pattern
+of “the widespread and persisting deprivation of constitu-
+tional rights resulting from this country’s history of racial
+discrimination.” City of Boerne, supra, at 526–527 (citing
+Oregon v. Mitchell, 400 U. S. 112 (1970); City of Rome v.
+United States, 446 U. S. 156 (1980); Katzenbach v. Morgan,
+384 U. S. 641 (1966)).
+
+   This principle of our § 5 jurisprudence is well illustrated
+not only by the Court’s opinions in these cases but also by
+the late Justice Harlan’s dissent in Katzenbach v. Morgan.
+There, Justice Harlan contrasted his vote to invalidate a
+federal ban on New York state literacy tests from his ear-
+lier decision, in South Carolina v. Katzenbach, to uphold
+stronger remedial measures against the State of South Caro-
+lina, such as suspension of literacy tests, imposition of pre-
+clearance requirements for any changes in state voting laws,
+and appointment of federal voting examiners. Katzenbach
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+758 NEVADA DEPT. OF HUMAN RESOURCES v. HIBBS
+
+                                  Kennedy, J., dissenting
+
+v. Morgan, supra, at 659, 667; see also South Carolina v.
+Katzenbach, supra, at 315–323. Justice Harlan explained
+that in the case of South Carolina there was “ ‘voluminous
+legislative history’ as well as judicial precedents supporting
+the basic congressional ﬁndings that the clear commands of
+the Fifteenth Amendment had been infringed by various
+state subterfuges. . . . Given the existence of the evil, we
+held the remedial steps taken by the legislature under the
+Enforcement Clause of the Fifteenth Amendment to be a
+justiﬁable exercise of congressional initiative.” 384 U. S., at
+667 (quoting South Carolina v. Katzenbach, supra, at 309,
+329–330). By contrast, the New York case, in his view,
+lacked a showing that “there has in fact been an infringe-
+ment of that constitutional command, that is, whether a par-
+ticular state practice . . . offend[ed] the command of the
+Equal Protection Clause of the Fourteenth Amendment.”
+384 U. S., at 667. In the absence of evidence that a State
+has engaged in unconstitutional conduct, Justice Harlan
+would have concluded that the literacy test ban Congress
+sought to impose was not an “appropriate remedial measur[e]
+to redress and prevent the wrongs,” but an impermissible
+attempt “to deﬁne the substantive scope of the Amend-
+ment.” Id., at 666, 668.
+
+   For the same reasons, the abrogation of state sovereign
+immunity pursuant to Title VII was a legitimate congres-
+sional response to a pattern of gender-based discrimination
+in employment. Fitzpatrick v. Bitzer, 427 U. S. 445 (1976).
+The family leave beneﬁt conferred by the Act is, by contrast,
+a substantive beneﬁt Congress chose to confer upon state
+employees. See City of Boerne, supra, at 520 (“There must
+be a congruence and proportionality between the injury to
+be prevented or remedied and the means adopted to that
+end. Lacking such a connection, legislation may become
+substantive in operation and effect”). The plain truth is
+Congress did not “ac[t] to accomplish the legitimate end
+of enforcing judicially-recognized Fourteenth Amendment
+538US2 Unit: $U57 [02-10-05 13:08:35] PAGES PGT: OPIN
+
+Cite as: 538 U. S. 721 (2003)                          759
+
+                                  Kennedy, J., dissenting
+
+rights, [but] instead pursued an object outside the scope of
+Section Five by imposing new, non-remedial legal obligations
+on the states.” Beck, The Heart of Federalism: Pretext Re-
+view of Means-End Relationships, 36 U. C. D. L. Rev. 407,
+440 (2003).
+
+   It bears emphasis that, even were the Court to bar uncon-
+sented federal suits by private individuals for money dam-
+ages from a State, individuals whose rights under the Act
+were violated would not be without recourse. The Act is
+likely a valid exercise of Congress’ power under the Com-
+merce Clause, Art. I, § 8, cl. 3, and so the standards it pre-
+scribes will be binding upon the States. The United States
+may enforce these standards in actions for money damages;
+and private individuals may bring actions against state ofﬁ-
+cials for injunctive relief under Ex parte Young, 209 U. S.
+123 (1908). What is at issue is only whether the States can
+be subjected, without consent, to suits brought by private
+persons seeking to collect moneys from the state treasury.
+Their immunity cannot be abrogated without documentation
+of a pattern of unconstitutional acts by the States, and only
+then by a congruent and proportional remedy. There has
+been a complete failure by respondents to carry their burden
+to establish each of these necessary propositions. I would
+hold that the Act is not a valid abrogation of state sovereign
+immunity and dissent with respect from the Court’s conclu-
+sion to the contrary.
+

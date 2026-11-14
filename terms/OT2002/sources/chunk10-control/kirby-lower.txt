@@ -1,0 +1,357 @@
+300 F.3d 1300
+
+    
+
+    
+
+  
+
+    300 F.3d 1300
+
+    JAMES N. KIRBY, PTY LTD., d.b.a. Kirby Engineering, MMI General Insurance Limited, Plaintiffs-Appellants,
+v.
+NORFOLK SOUTHERN RAILWAY COMPANY, Defendant-Appellee.
+
+    No. 01-13776.
+
+    United States Court of Appeals, Eleventh Circuit.
+
+    August 8, 2002.
+
+    
+      Michael F. Sturley, University of Texas Law School, Austin, TX, J.S. Scott Busby, Atlanta, GA, Charles Robert Sharp, Bovis, Kyle & Burch, LLC, Atlanta, GA, David C. Frederick, McLean, VA, for Plaintiffs-Appellants.
+
+      Richard K.V. Hines, Atlanta, GA, for Defendant-Appellee.
+
+      Appeal from the United States District Court for the Northern District of Georgia.
+
+      Before EDMONDSON, Chief Judge, and CARNES and SILER*, Circuit Judges.
+
+      CARNES, Circuit Judge:
+
+    
+
+    
+      1
+      This case, the facts of which began in Australia and ended in Alabama, is about Himalaya clauses, Clauses Paramount, COGSA, the package limitation defense, FBLs, FIATA, and the like. In short, it is a bill of lading case. The issue it presents us is whether a railroad's liability, if any, to a shipper for damage done to goods by the derailment of train is limited by the "Himalaya clause" in either of two bills of lading that were issued for the transport of the goods.
+
+    
+
+    
+      2
+      A Himalaya clause is a clause in a bill of lading that extends the carrier's defenses and limitations of liability under the bill to the carrier's agents and subcontractors.1 Both bills of lading in this case contained Himalaya clauses, although the text of each clause is different. The first bill of lading was issued to James N. Kirby Pty Ltd. (Kirby) by International Cargo Control Pty Ltd. (ICC), an Australian freight forwarder Kirby hired to arrange the shipment of the machinery, and the second bill of lading was issued to ICC by Hamburg Sud, the ocean shipping company ICC hired to perform the actual transport of the goods. Hamburg Sud's ship brought the machinery from its port of departure, Sydney, Australia, to its port of discharge, Savannah, Georgia, where it was placed on a train owned by Norfolk Southern Railway Co., which Hamburg Sud had sub-contracted to transport the machinery inland to its destination, Huntsville, Alabama. The wreck occurred while the train was en route to Huntsville from Savannah, and allegedly caused $1.5 million of damage to the machinery.
+
+    
+
+    
+      3
+      The district court decided that Norfolk Southern could limit its liability to Kirby on the basis of the Himalaya clause in the Hamburg Sud bill. We conclude, however, that the Hamburg Sud bill does not limit Norfolk Southern's liability to Kirby because Kirby was not bound by its terms. We further conclude that although the terms of the ICC bill do bind Kirby, that bill does not limit Norfolk Southern's liability because Norfolk Southern is not a clearly designated beneficiary of that bill's Himalaya clause. Therefore, because the district court erroneously concluded that Norfolk Southern should be able to limit its liability to Kirby, we reverse and remand.
+
+    
+
+    I. BACKGROUND
+
+    
+      4
+      Kirby, a company based in Sydney, Australia, sold ten containers of machinery to the General Motors plant in Huntsville, Alabama. To fulfill its obligation to deliver the machinery to Huntsville, Kirby entered into a contract of carriage with ICC, another Australian company. ICC was a "freight forwarder," a company that arranges for, coordinates, and facilitates cargo transport. To formalize the contract of carriage, ICC issued a bill of lading to Kirby (the ICC bill of lading) for the ten containers of machinery.
+
+    
+
+    
+      5
+      The ICC bill of lading embodies ICC's contractual obligation to Kirby to deliver the machinery from Sydney to Huntsville. It names Kirby as the consigner of the cargo, and ICC as the carrier. It designates Sydney as the port of loading, Savannah as the port of discharge, and Huntsville as the ultimate destination of the machinery. It contains a Clause Paramount that invokes the defenses and limitations of liability of the Carriage of Goods by Sea Act (COGSA), 46 U.S.C. §§ 1300-1315 to govern ICC's liability to Kirby for any damage done to the goods in the course of the carriage. Finally, it contains a Himalaya clause, a contractual clause that extends to the carrier's agents and contractors the carrier's own defenses and limitations of liability under the bill. See Fireman's Fund Ins. Co. v. Tropical Shipping & Constr. Co., 254 F.3d 987, 993 n. 1 (11th Cir.2001). Specifically, the Himalaya clause in the ICC bill of lading extends the bill's limitations of ICC's liability to "any servant, agent or other person including any independent contractors whose services have been used to perform the contract."
+
+    
+
+    
+      6
+      Having been hired by Kirby, ICC then hired Hamburg Sud,2 a German ocean shipping company, to transport the machinery from Sydney to Huntsville. Hamburg Sud issued its own bill of lading (the "Hamburg Sud bill") to ICC. On the Hamburg Sud bill, ICC was listed as the shipper, and Hamburg Sud as the carrier. Like the ICC bill, the Hamburg Sud bill named Sydney as the port of loading, Savannah as the port of discharge, and Huntsville as the destination. The Hamburg Sud bill contained its own Clause Paramount, and its own Himalaya clause that extended the bill's limitations on Hamburg Sud's liability to "all agents, servants, employees, representatives, all participating (including inland) carriers and all stevedores, terminal operators, warehousemen, crane operators, watchmen, carpenters, ship cleaners, surveyors and all independent contractors whatsoever."
+
+    
+
+    
+      7
+      A Hamburg Sud ship carried the machinery on the ocean leg of the journey, from Sydney to Savannah. Once in Savannah, inland transport to Huntsville was taken on by Norfolk Southern, which had been hired by Hamburg Sud through Columbus Line USA, Hamburg Sud's American subsidiary.3 Norfolk Southern did not issue its own bill of lading to Columbus Line, but instead acted under the Hamburg Sud bill. The train carrying the containers derailed while en route from Savannah to Huntsville, and allegedly $1.5 million dollars of damage was done to the machinery.4
+
+    
+
+    
+      8
+      After the train wreck, Kirby sued Norfolk Southern to recover for the damages caused to the machinery by the derailment. Kirby's claims included negligence and breach of contract, among others. Norfolk Southern denied that it was liable, but also filed a motion for partial summary judgment arguing that its liability, if any, was limited by the Himalaya clause in the Hamburg Sud bill of lading.
+
+    
+
+    
+      9
+      As mentioned, a Himalaya clause in a bill of lading extends to the carrier's agents and contractors the carrier's defenses and limitations of liability under the bill. Here, as is often the case, both bills invoked the Carriage of Goods by Sea Act (COGSA), meaning that the carrier's defenses and limitations under each bill- and, by extension, the defenses and limitations of any party covered by each bill's Himalaya clause included those provided to carriers by COGSA.5 One COGSA defense available to a carrier is the "package limitation," which limits the carrier's liability for damage to goods to $500 per package (when the goods are shipped in packages). 46 U.S.C. app. § 1304(5). By invoking COGSA in the Clause Paramount, each bill incorporated COGSA's package limitation as a limit on the carrier's liability. In its summary judgment motion Norfolk Southern claimed that it was entitled, via the Himalaya clause, to claim the package limitation, and thus limit its liability to $5,000 — $500 for each of Kirby's ten containers.6
+
+    
+
+    
+      10
+      The district court granted Norfolk Southern's motion for partial summary judgment, holding that Norfolk Southern's liability to Kirby, if any, was limited to $5,000. The court concluded that the Himalaya clause in the Hamburg Sud bill of lading bound Kirby, and that Norfolk Southern was a beneficiary of that clause entitled to invoke the package limitation. The district court then designated its order granting partial summary judgment as appropriate for interlocutory appeal pursuant to 28 U.S.C. § 1292(b), and we granted permission to appeal on the issue of whether the bills of lading limit Norfolk Southern's liability.7
+
+    
+
+    II. DISCUSSION
+
+    
+      11
+      We first consider whether the district court was right to decide that the Himalaya clause in the Hamburg Sud bill limited Norfolk Southern's liability to Kirby. Because we conclude that it was not right in that regard, we next consider whether Norfolk Southern's liability is limited by the Himalaya clause in the other bill of lading, the ICC bill. We conclude that it is not so limited. The result of our conclusions that neither bill of lading limits Norfolk Southern's liability to Kirby is that we reverse the district court's grant of partial summary judgment to Norfolk Southern.
+
+    
+
+    A. THE HAMBURG SUD BILL
+
+    
+      12
+      The Hamburg Sud bill was issued by Hamburg Sud, the ocean shipping company, to ICC, the freight forwarder which had been engaged by Kirby. The Himalaya clause in the Hamburg Sud bill can limit Norfolk Southern's liability to Kirby only if Kirby is bound by the terms of that bill. Yet ICC, not Kirby, hired Hamburg Sud, and ICC, not Kirby, is named on the bill as the shipper of the goods, which means that Kirby did not itself agree to the terms of the bill. If, however, ICC had been acting as Kirby's agent when it entered the shipping contract with Hamburg Sud, then ICC had authority to and did bind Kirby to the terms of the bill, including its package limitation and its Himalaya clause. See, e.g., Great N. Ry. Co. v. O'Connor, 232 U.S. 508, 513-14, 34 S.Ct. 380, 382, 58 L.Ed. 703 (1914) (holding that a plaintiff who used a freight forwarder to arrange a shipment of goods was bound by limitations of liability in the contracts the freight forwarder made with carriers on the plaintiff's behalf). Therefore, Norfolk Southern can limit its liability to Kirby only if ICC was acting as Kirby's agent when it received Hamburg Sud's bill. Whether it was acting as Kirby's agent at that time is, then, the pivotal question.
+
+    
+
+    
+      13
+      ICC's status as a freight forwarder is not itself dispositive of the question, because freight forwarders "may act as agents or as principals, depending on the facts." Stephen G. Wood, Multimodal Transportation: an American Perspective on Carrier Liability and Bill of Lading Issues, 46 Am. J. Comp. L. 403, 413 (1998). A freight forwarder acts as an agent when its role is merely to arrange a contract between the cargo owner and the ocean carrier. The ocean carrier issues a bill of lading directly to the cargo owner, who is listed as the shipper on the bill, and the cargo owner pays the ocean carrier, not the freight forwarder, for the carriage. A freight forwarder acts as a principal when it takes on the role of carrier itself, and issues its own bill to the cargo owner listing the cargo owner as the shipper and itself as the carrier. In this latter scenario, the cargo owner pays the forwarder, not the ocean carrier. The forwarder then subcontracts out to an ocean carrier its responsibility under its bill to carry the goods. The ocean carrier issues to the forwarder a second bill of lading that lists the forwarder as the shipper, that is, as a principal.
+
+    
+
+    
+      14
+      In this case, ICC was acting as a carrier — a principal — and not as Kirby's agent. This is evident, first, from the structure of the transaction. There were two bills of lading. If ICC had been acting as Kirby's agent, there would have been only one bill of lading, issued by Hamburg Sud to Kirby and listing Kirby as the shipper. Instead, ICC issued a bill to Kirby, and then ICC in turn was issued a bill by Hamburg Sud. The Hamburg Sud bill listed ICC, not Kirby, as the shipper, thereby evidencing that Hamburg Sud was contracting with ICC as principal and not as agent for Kirby.
+
+    
+
+    
+      15
+      That ICC was not acting as Kirby's agent is further evident from the language of the ICC bill. The ICC bill expressly states that ICC was undertaking "to perform ... the entire transport," or "in [its] own name to procure the performance of the entire transport." This plain language shows that ICC and Kirby clearly intended that ICC would act as a principal in any subsequent contracts it entered into for the transport of the machinery. In the bill ICC assumes responsibility "for the acts or omissions of its servants or agents." Again, this language indicates that ICC was not acting as Kirby's agent, because if ICC were acting as Kirby's agent it would not be liable for the acts of other agents it hired on behalf of Kirby — they would be Kirby's agents, not ICC's.
+
+    
+
+    
+      16
+      The form of the ICC bill also shows ICC was a principal, not Kirby's agent. The bill ICC issued to Kirby was a standard form bill known in the industry as a FBL, which is short for "FIATA Multimodal Transport Bill of Lading."8 The fact that the bill was an FBL is evident on the face of the bill, whose upper right hand corner bears a logo with the words "FBL" and "FIATA Multimodal Transport Bill of Lading." Commentary from the drafters of the FBL indicates that, when the FBL form is used, the freight forwarder assumes the role of carrier and therefore becomes a principal. See Jan Ramberg, The Law of Freight Forwarding and the 1992 FIATA Multimodal Transport Bill of Lading 7 (1993) (chair of the FIATA committee that initially drafted the FBL explaining that "[b]y use of FBL the freight forwarder progresses from the legal jungle and clearly establishes himself as a carrier with carrier liability"). While the intent of the drafters of the FBL form does not alone determine the nature of the relationship between Kirby and ICC, that intent, together with the fact that ICC and Kirby chose to use the FBL form, buttresses our conclusion that in receiving ICC's bill Kirby did not engage ICC as its agent, but instead hired ICC as a principal carrier to perform the transport, which ICC in turn sub-contracted to Hamburg Sud.
+
+    
+
+    
+      17
+      The Hamburg Sud bill reinforces the conclusion that ICC was acting as principal, and not as Kirby's agent, when it engaged Hamburg Sud. That bill lists ICC, not Kirby, as the party with whom Hamburg Sud was contracting. If ICC had merely been acting as Kirby's agent, arranging a contract between Kirby and an ocean carrier, we would expect the contract with the ocean carrier to reflect as much by indicating that Kirby was a party to the transaction. Yet Kirby's name does not appear on the Hamburg Sud bill.
+
+    
+
+    
+      18
+      Finally, our own case law suggests that a freight forwarder should not automatically be taken to be the agent of the party who hires it to facilitate the shipment of goods. In Naviera Neptuno S.A. v. All Int'l Freight Forwarders, Inc. 709 F.2d 663, 665 (11th Cir.1983), we reviewed a district court's finding that a freight forwarder was not the agent of the party on whose behalf it had arranged the transport of cargo. Based on its reading of case law, the district court had stated a rule that "absent special particular arrangements between a shipper and its freight forwarder, which arrangements would manifest the requisite exclusivity and control incident to a principal/agent relationship, a freight forwarder is considered as an independent contractor." Id. Applying that rule, the district court found that the freight forwarder had not been the agent of the owner of the goods. Id. We upheld that finding. Id. Implicit in our doing so was approval of the rule applied by the district court. In the present case, there were no "special particular arrangements" between Kirby and ICC indicating "exclusivity and control" characteristic of an agency relationship. Instead, Kirby and ICC conducted their transaction on the basis of a form bill, a form bill which, as we have noted, was specifically intended to clearly establish that the freight forwarder, ICC, was not the agent of the shipper, Kirby.
+
+    
+
+    
+      19
+      Therefore, as the parties intended, and as our case law suggests, when ICC issued its bill to Kirby, ICC did not become Kirby's agent and so did not act as Kirby's agent when it received the second bill of lading from Hamburg Sud.9 This means that Kirby is not bound by the Himalaya clause in the Hamburg Sud bill, and that the district court erred in deciding that Norfolk Southern could limit its liability to Kirby based on the Hamburg Sud bill of lading.
+
+    
+
+    B. THE ICC BILL
+
+    
+      20
+      The ICC bill was issued by ICC to Kirby. Because Kirby was a party to the ICC bill it was clearly bound by that bill's terms, including its Himalaya clause. Thus any beneficiary of that Himalaya clause would be entitled to use it to limit its liability to Kirby. Norfolk Southern, however, is not a beneficiary of the Himalaya clause in the ICC bill, because the language of the clause does not specifically identify Norfolk Southern as a member of a well-defined class of its beneficiaries, as is required by the case law.
+
+    
+
+    
+      21
+      The roots of that requirement lie in the seminal American case on Himalaya clauses, Robert C. Herd & Co. v. Krawill Mach. Corp., 359 U.S. 297, 79 S.Ct. 766, 3 L.Ed.2d 820 (1958). In Herd, the Supreme Court refused to extend a bill of lading's liability limitations to a stevedore, because the bill only mentioned the carrier as the beneficiary of those limitations. Id. at 302, 79 S.Ct. at 769-70. The Herd Court, however, left open the possibility that a clause in a bill of lading could limit the liability of parties hired by the carrier, if drafted with sufficient clarity to specifically identify those parties. Id. Subsequent cases made that possibility a reality. Today Himalaya clauses are standard fare in bills of lading. However, courts addressing the enforceability of Himalaya clauses are constrained by the Herd Court's admonition that "contracts purporting to grant ... limitation of liability must be strictly construed and limited to their intended beneficiaries." Herd, 359 U.S. at 305, 79 S.Ct. at 771.
+
+    
+
+    
+      22
+      In this Circuit and its predecessor, Himalaya clauses have been enforced since soon after Herd. To temper the enforceability of Himalaya clauses with the principle that those clauses must be narrowly construed and limited to their intended beneficiaries, this Court has developed a "clarity of language" test for determining whether and for whom a Himalaya clause effectively limits liability. See, e.g. Generali v. D'Amico, 766 F.2d 485, 488 (11th Cir.1985); Certain Underwriters at Lloyds v. Barber Blue Sea Line, 675 F.2d 266, 270 (11th Cir.1982). Under our clarity of language test, we will enforce a Himalaya clause only if it is drafted with "language expressing a clear intent to extend the benefits to a well-defined class of readily identifiable persons," and we will allow the clause to be enforced only by members of that well-defined class. Hale Container Line, Inc. v. Houston Sea Packing Co., 137 F.3d 1455, 1465 (11th Cir.1998).
+
+    
+
+    
+      23
+      The Himalaya clause in the ICC bill extends ICC's limitations on liability under the bill to "any servant, agent, or other person including any independent contractors whose services have been used in order to perform the contract." The question is whether this language is clear enough to "extend the benefits to a well-defined class of readily identifiable persons" that includes Norfolk Southern, the inland carrier. "Other person," as a category, is too vague to define a clearly identifiable class of persons, and so it fails to satisfy the clarity of language requirement. Cf. Rupp v. Int'l Terminal Operating Co., 479 F.2d 674, 676 (2d Cir.1973) (finding phrase "all persons rendering services in connection with this contract" overbroad and therefore ineffective). This leaves, then, a Himalaya clause that extends to "any servant, agent, or.... any independent contractors."
+
+    
+
+    
+      24
+      We have previously stated that "[w]hen a bill refers to a class of persons such as agents and independent contractors, it is clear that the contract includes all those persons engaged by the carrier to perform the functions and duties of the carrier within the scope of the carriage contract. No further degree of clarity is necessary." Certain Underwriters, 675 F.2d at 270. Thus, for example, it is not necessary to enumerate specific categories of agents or independent contractors, such as "stevedore," "terminal operator," and the like. Id.
+
+    
+
+    
+      25
+      As to the ICC bill, however, Norfolk Southern was not "engaged by the carrier," ICC. Instead, Norfolk Southern was engaged by Hamburg Sud, who in turn had been engaged by ICC, the carrier. Norfolk Southern was a sub-sub-contractor, rather than a party directly "engaged by the carrier," and so it is not "clear that the contract includes" Norfolk Southern in the Himalaya clause. Id. If Kirby and ICC had intended for the protections of the ICC bill to extend to sub-sub-contractors, they could have said so. See, e.g., Uncle Ben's v. Hapag-Lloyd Aktiengesellschaft, 855 F.2d 215, 218 n. 2 (5th Cir.1988) (interpreting a Himalaya clause "for the benefit of the servants, employees and agents of the carrier as well as of such independent contractors (including their servants, employees and agents) whose services the carrier from time to time may engage ...") (emphasis added); Gebr. Bellmer KG v. Terminal Serv. Houston, Inc., 711 F.2d 622, 625 (5th Cir.1983) (same language).
+
+    
+
+    
+      26
+      We recognize that the Ninth Circuit has arguably taken a different view. Akiyama Corp. of Am. v. M.V. Hanjin Marseilles, 162 F.3d 571, 574 (9th Cir.1998) (rejecting the argument that privity of contract is required in order to benefit from a Himalaya Clause, and focusing instead on comparing "the nature of the services performed [by the defendant who seeks to invoke the clause] compared to the carrier's responsibility under the carriage contract" (internal quotations omitted)).10 In this Circuit, however, Certain Underwriters' limitation of Himalaya clause protections to those parties "engaged by the carrier," together with the Herd principle of narrow construction, mean that the law requires privity between the carrier and the party seeking shelter in the Himalaya clause.11
+
+    
+
+    
+      27
+      In addition to not having been "engaged by the carrier," Norfolk Southern, unlike any other defendant that we have allowed to claim the benefit of a Himalaya clause, is an inland carrier. In all of our prior Himalaya clause cases, the defendant invoking the Himalaya clause has been a stevedore or other provider of port services. See, e.g., Fireman's Fund Ins. Co. v. Tropical Shipping and Const. Co., 254 F.3d 987, 992 (11th Cir.2001) (stevedore); Hiram Walker & Sons, Inc. v. Kirk Line, 877 F.2d 1508, 1510 (11th Cir.1989) (stevedore); Certain Underwriters, 675 F.2d at 269 (stevedore and terminal operator). Thus the question of whether and when an inland carrier can claim the benefit of a Himalaya clause is, in this Circuit, still an open one. Other courts that have addressed this issue have reached a variety of results. Almost every court that has extended the protections of a Himalaya clause to an inland carrier has done so in a case where the language of the clause specifically referenced inland carriers. See, e.g., Canon USA, Inc. v. Norfolk Southern Ry. Co., 936 F.Supp. 968, 971-72 (N.D.Ga. 1996); Tokio Marine & Fire Ins. Co. v. Hyundai Merchant Marine Co., 717 F.Supp. 1307, 1309 (N.D.Ill.1989); but see Taisho Marine and Fire Ins. Co. v. Maersk Line, 796 F.Supp. 336, 339-40 (N.D.Ill.1992) (holding that a rail carrier was covered by a through bill's Himalaya clause that referred only to "subcontractors"). Further, many courts have refused to extend the coverage of a Himalaya clause to an inland carrier when the clause or the bill did not refer to inland transportation. See, e.g., Caterpillar Overseas, S.A. v. Marine Transport, Inc., 900 F.2d 714, 726 (4th Cir.1990) (refusing to extend the protections of a Himalaya clause to a trucker because "[t]ransporting cargo down a group of public highways for a stretch of miles ... is not a normal maritime operation"); see also Lucky-Goldstar Int'l, Inc. v. S.S. California Mercury, 750 F.Supp. 141 (S.D.N.Y.1990). Thus the cases seem to support the principle that a special degree of linguistic specificity is required to extend the benefits of a Himalaya clause to an inland carrier.
+
+    
+
+    
+      28
+      This principle makes sense in light of the origins and purpose of Himalaya clauses. Himalaya clauses originally were aimed more at extending COGSA protections to additional parties who handle cargo in and around a port than at extending the reach of those protections inland. That is why most of our cases concerning Himalaya clauses have involved as the defendants stevedores, terminal operators, and other similar parties whose work is done at or close to the point where the cargo is unloaded from the ship. We should be cautious about extending the reach of a Himalaya clause, and with it the reach of COGSA, inland.
+
+    
+
+    
+      29
+      We observe that caution in this case even though the bill, unlike bills we have considered in our previous Himalaya clause cases, was a "through bill," that is, a bill which provided for transport to an inland destination rather than merely to the port of discharge. See Tokio Marine, 717 F.Supp. at 1309 (defining through bill); cf. Caterpillar, 900 F.2d at 726 (declining, where the bill of lading only provided for ocean transport, to afford a trucker a Himalaya clause's protection of "independent contractors" because trucking is not a "maritime service"). The ICC bill identified Huntsville as the point of delivery, which clearly indicates that the bill envisioned land transportation as being necessary to the completion of the contract. This does not mean, however, that the bill also envisioned that the liability regime for the inland leg of the journey would be provided by COGSA via the Himalaya clause. But see Taisho Marine, 796 F.Supp. at 340 (relying on the fact that the bill was a through bill in holding that a rail carrier was covered by the Himalaya clause's reference to "subcontractors").
+
+    
+
+    
+      30
+      The intent of the drafters of the form bill used between ICC and Kirby reinforces this observation. The FBL form was drafted based on a "network" approach to carrier liability. See, e.g., Ramberg, supra at 25, 30-35, 37, 41-42, 65. The network approach envisions that each leg of a journey should be subject to the liability rules governing the mode of transport for that leg. Id. at 24. So, for example, losses on the sea leg would be governed by the rules applicable to the carriage of goods by sea, and losses on the rail leg would be subject to the liability regime applicable to railroads. Because the FBL was drafted with this "network" liability system in mind, its Himalaya clause was not designed to extend the liability regime for sea carriers — COGSA — to inland carriers, who instead would be covered by the different liability scheme applicable to rail carriers. The FBL's Himalaya clause is only meant to extend the carrier's protections to parties who are, so to speak, between liability regimes, at the fringes of the sea regime — stevedores, terminal operators, and the like. Therefore, Norfolk Southern, as an inland rail carrier, should not be allowed to invoke the Himalaya Clause in the ICC FBL to its benefit.
+
+    
+
+    
+      31
+      This is not to say that a Himalaya clause can never readily identify a well-defined class of persons that includes inland carriers like Norfolk Southern. However, if the Himalaya clause is to extend inland, it must say so with specificity, as, for example, did the Himalaya Clause in the Hamburg Sud bill when it clearly identified as among its beneficiaries "all participating (including inland) carriers." (emphasis added). Cf., e.g. Lucky-Goldstar, 750 F.Supp. at 145 ("If the parties ... had intended to include [the railroad] among those protected, little effort would have been required for them to have added to [the Himalaya] clause the term `inland carriers,' for example."); Canon USA, 936 F.Supp. at 973 ("road and rail transport operators"); Toshiba Int'l Corp. v. M/V Sea-Land Exp., 841 F.Supp. 123, 128 (S.D.N.Y.1994) ("participating land carrier"). Requiring that the clause mention inland transport better satisfies our clarity of language requirement and serve its progenitor, Herd's principle that liability limitations in bills of lading must be narrowly construed.
+
+    
+
+    
+      32
+      We therefore hold that the language of the Himalaya clause in the ICC bill, which names as its beneficiary "any servant, agent, or other person including any independent contractors whose services have been used in order to perform the contract," does not clearly identify Norfolk Southern, as a sub-sub contractor of the carrier and an inland carrier, as a member of the "well-defined class of readily identifiable persons" entitled to claim the benefits of the clause. Hale, 137 F.3d at 1465.
+
+    
+
+    III. CONCLUSION
+
+    
+      33
+      Norfolk Southern is not entitled to limit its liability to Kirby on the basis of either of the two bills of lading issued for the transport of Kirby's machinery from Sydney to Huntsville. The Himalaya clause in the Hamburg Sud bill does not bind Kirby, and Himalaya clause in the ICC bill of lading does not benefit Norfolk Southern. Therefore, the district court erred in granting partial summary judgment to Norfolk Southern.
+
+    
+
+    
+      34
+      REVERSED.
+
+    
+
+    
+
+        Notes:
+
+      
+
+      
+        *
+         Eugene E. Siler, Jr., Circuit Judge, United States Court of Appeals for the Sixth Circuit, sitting by designation
+
+      
+
+      
+        1
+         Himalaya clauses take their name from an English case which involved a vessel called the HIMALAYACertain Underwriters at Lloyds' v. Barber Blue Sea Line, 675 F.2d 266, 269 n. 5 (11th Cir.1982).
+
+      
+
+      
+        2
+         The full name of the German company is Hamburg Sudamerikanische Dampfschifahrts-Geseilschaft Eggert & Amsink, which roughly translates to "Hamburg South American Steam Shipping Company."
+
+      
+
+      
+        3
+         The parties dispute the nature of Columbus Line USA's relationship to Hamburg Sud. Norfolk Southern says Columbus is merely the name under which Hamburg Sud does business in the United States; Kirby claims that Columbus Line U.S.A. is a separate corporate subsidiary of Hamburg Sud. That dispute, however, does not matter to our decision
+
+      
+
+      
+        4
+         Kirby had insured the machinery against such damage with MMI General Insurance, Ltd., and was reimbursed by MMI for the loss. Thus MMI appears with Kirby as a plaintiff in this lawsuit
+
+      
+
+      
+        5
+         COGSA applies of its own force from "tackle to tackle," that is from the time goods are loaded onto the ship to the time they are discharged from itSee Mannesman Demag Corp. v. M/V CONCERT EXPRESS, 225 F.3d 587, 589 (5th Cir.2000). The Clause Paramount extends the application of COGSA's liability rules beyond the tackles, just as the Himalaya clause extends the application of those rules to parties other than the carrier.
+
+      
+
+      
+        6
+         Whether a container is a COGSA "package" is a topic of frequent disputeSee, e.g., Tropical Shipping, 254 F.3d at 997. The issue is not, however, material to disposition of this appeal.
+
+      
+
+      
+        7
+         There were some prior events that tangled up the appeal for a while, but they were eventually straightened out. We will not take up the reader's time with a recounting of them
+
+      
+
+      
+        8
+         FIATA is the International Federation of Freight Forwarders Associations, a non-governmental association that represents the freight forwarding industry. "Multimodal" means transport by more than one mode of transportation, e.g., by both ship and rail
+
+      
+
+      
+        9
+         Norfolk Southern's main argument to the contrary is that, even though the parties did not intend for ICC to act as Kirby's agent, ICC must have been Kirby's agent because ICC was barred from acting as a carrier (and thus as a principal) by federal statute. Norfolk Southern argues that, if ICC was a carrier, it must have been an "ocean transportation intermediary," and as such was required by 46 U.S.C. app. § 1718(a) to have a license from the Federal Maritime Commission. Yet, according to Norfolk Southern, ICC did not have a license
+
+        This argument fails for a number of reasons. First, the licensing requirement Norfolk Southern invokes was not in force at the time that the ICC and Hamburg Sud bills of lading were issued for the transport of Kirby's cargo. The licensing requirement for "ocean transport intermediaries" came into effect in 1999, but the ICC-Kirby transaction occurred in 1997. Compare Ocean Shipping Reform Act of 1998, §§ 2, 116, Pub.L. No. 105-258, 112 Stat.1902, 1912 (amending § 1718(a) to require licenses for ocean transport intermediaries); with 46 U.S.C. app § 1718(a) (1994) (statute in force at time of Kirby-ICC transaction). Second, even if that statutory requirement had been in force at the time of the Kirby-ICC transaction, it applies only to a "person in the United States," which ICC, an Australian company doing business in Australia, was not. 46 U.S.C. app. § 1718(a). Third, there was no evidence in the summary judgment record that ICC had not registered with the F.C., a point on which Norfolk Southern, as the movant, had the burden of proof. Finally, Norfolk Southern has not convinced us that, even if ICC had been required to have a license to act as a carrier, its failure to have one would work to Kirby's detriment by rendering Kirby bound to the terms of a contract entered into by a party it had never made its agent.
+
+      
+
+      
+        10
+         We also acknowledge that we have previously spoken approvingly of the Ninth Circuit's comparison-of-services rule. InHale, we laid out a two prong test for use in order "[t]o determine whether a party is an independent contractor referenced in a Himalaya clause." 137 F.3d at 1465-1466. Specifically, we said that "a court should (1) compare the nature of the services provided by the party with the carrier's responsibilities under the bill of lading or contract of carriage, and (2) consider whether the independent contractor's duty had been fulfilled at the time when the liability was incurred." Id. The first prong of that test is taken from the law of the Ninth Circuit, specifically from Taisho Marine & Fire Ins. Co. v. Vessel Gladiolus, 762 F.2d 1364 (9th Cir.1985), which is the same case from which Akiyama derived its rule. Akiyama, 162 F.3d at 574. In Hale we did not, however, affirm this test to the exclusion of a privity requirement. To the contrary, the very ground on which we denied the defendant the protection of the Himalaya clause in Hale was exactly that "Houston [the defendant] was neither an agent nor independent contractor of Project Logistics [the carrier].... was not directly employed by Project Logistics, did not receive payment for its services from Project Logistics, had no contractual relationship with Project Logistics, and was not rendered an agent by Project Logistics." Id. at 1366. That is, in Hale we concluded that the defendant was not entitled to the benefit of the Himalaya clause specifically because he lacked privity (whether by contract, agency, or employment) with the carrier. Thus the result in Hale supports our conclusion in this case.
+
+      
+
+      
+        11
+         Privity is required where, as here, and as inCertain Underwriters, the category term being interpreted in the clause is relational, such as "agent," "servant," or "independent contractor." Where, on the other hand, the term is descriptive, such as "stevedore," "terminal operator," etc., privity of contract is not required. Indeed, the result, though not the language, of Akiyama conforms to this rule. In Akiyama the two parties were allowed to invoke the Himalaya clause. The first was a terminal operator, who did have contractual privity with the carrier, and was held to be covered by the relational term "independent contractor" in the clause. Akiyama, 162 F.3d at 574. The second was a stevedore, who contracted with the terminal operator and thus did not have direct contractual privity with the carrier, but was held to be covered by the descriptive term "stevedore" in the clause. Id. We also note that, while the dicta in Akiyama says a party seeking to invoke the Himalaya clause need not be in privity with the carrier, the reasoning of another, earlier Ninth Circuit case implicitly contradicts that dicta. Mori Seiki USA, Inc. v. M/V Alligator Triumph, 990 F.2d 444, 450-51 (9th Cir.1993) (allowing a stevedore to claim the benefit of a Himalaya clause only after concluding that the party with whom the stevedore contracted, the seaport operator, had acted as the carrier's agent in hiring the stevedore, thereby putting the stevedore in privity with the carrier).
+
+      
+
+    
+
+    SILER, Circuit Judge, dissenting:
+
+    
+      35
+      I respectfully dissent from the majority decision. First, I disagree with the majority's conclusion that ICC was acting as a principal, not as Kirby's agent. As the majority states, ICC was a freight forwarder. Although a freight forwarder can be a principal, in this case it was acting as an agent for Kirby. The bill of lading between Kirby and ICC put Kirby on notice that ICC would have to employ other entities to transport the freight. I do not see any significance in having two bills of lading rather than one, which, the majority concludes, is evidence that ICC was not Kirby's agent. There is nothing in the record which indicated that Kirby expected ICC to ship the goods other than by contracting it with another carrier. When Kirby entered into a written contract with ICC to make arrangements for the transportation of the shipment, it declined the opportunity to obtain full liability coverage via its contract. Instead, COGSA through the Clause Paramount limited liability of the carrier.
+
+    
+
+    
+      36
+      As the majority states, Kirby was bound by the terms of the bill of lading between it and ICC. That included the Himalaya Clause. Thus, that would include a limitation of liability for Hamburg Sud. I also think that Norfolk Southern was a beneficiary of the Himalaya Clause in the Kirby/ICC bill of lading. Clearly, the bill does not include the name "Norfolk Southern," nor does it say that it includes any inland carrier. Nevertheless, it includes "independent contractors." When the bill of lading between Kirby and ICC was issued, Kirby knew that an inland carrier would have to be used, because of the destination being Huntsville, Alabama. It also knew that it had agreed to a limitation of liability for the carrier. As the majority states, Kirby and ICC could have used clearer language in the bill to include any inland carriers, but that does not mean that the failure to include them specifically precludes the application of a Himalaya Clause. See Certain Underwriters v. Barber Blue Sea Line, 675 F.2d 266, 270 (11th Cir.1982) ("The `clarity of language requirement,' [as stated in Robert C. Herd & Co. v. Krawill Machinery Corp., 359 U.S. 297, 305, 79 S.Ct. 766, 771, 3 L.Ed.2d 820 (1959)], does not mean, however, that COGSA benefits extend only to parties specifically enumerated in the bill of lading. It is sufficient that the terms express a clear intent to extend benefits to well-defined class of readily identifiable persons.") I would follow the decision in Akiyama Corp. v. M.V. Hanjin Marseilles, 162 F.3d 571, 574 (9th Cir.1998), which focused upon " the nature of the services performed compared to the carrier's responsibility under the carriage contract." I find no inconsistency in that decision with our decision in Certain Underwriters.
+
+    
+
+    
+      37
+      I also agree with the district court that Kirby was bound by the ICC/Hamburg Sud bill of lading, as it was a "through bill" which covered the entire transportation from Australia to Alabama. The ICC/Hamburg Sud bill of lading expressly included inland carriers. Therefore, the Himalaya Clause extended COGSA protection to Norfolk Southern. See Taisho Marine & Fire Ins. Co. v. Maersk Line, Inc., 796 F.Supp. 336, 339-40 (N.D.Ill.1992); Tokio Marine & Fire Ins. Co. v. Hyundai Merchant Marine Co., 717 F.Supp. 1307, 1309 (N.D.Ill.1989).
+
+    
+
+    
+      38
+      When Kirby initially engaged ICC, it accepted the risk and agreed to the limitation of liability on the part of ICC and all of its sub-contractors. Its insurer seeks a windfall by claiming no privity of contract. Kirby knew from the start that the ultimate destination would have to be through an inland carrier, so it should not be able to prevail on the technicality of its lack of privity of contract. Therefore, I would affirm the decision of the district court.
+
+    
+
+    
+      CC∅ | Transformed by Public.Resource.Org

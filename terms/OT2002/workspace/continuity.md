@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 9 have produced 119 completed event Records covering 116 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 10 is the next supplied chunk.
+Chunks 1 through 10 have produced 131 completed event Records covering 128 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 11 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 116 completed and 64 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. Demore remains pending for reargument in October Term 2003.
+The manifest preserves all 180 scheduled rows: 128 completed and 52 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. No matter is stopped.
 
 ## Completed Events and Admitted Sources
 
@@ -123,13 +123,25 @@ The manifest preserves all 180 scheduled rows: 116 completed and 64 remaining. C
 | 2003-05-05 | Illinois ex rel. Madigan v. Telemarketing Associates, Inc. | Reversed and remanded, 9–0, on the affirmative-fraud claims; stipulated dismissals remain effective. | `terms/OT2002/records/Illinois-ex-rel-Madigan-v-Telemarketing-Associates-Inc_merits_2003-05-05.md` |
 | 2003-05-05 | Kaupp v. Texas | The Court vacates the judgment and remands by per curiam opinion. | `terms/OT2002/records/Kaupp-v-Texas_summary-merits_2003-05-05.md` |
 | 2003-05-05 | Rene v. MGM Grand Hotel, Inc. | Affirmed and remanded, 7–2, on the hostile-environment claim; retaliation dismissal remains effective. | `terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md` |
+| 2003-05-19 | Altman v. Bedford Central School District | The Court affirms the established jurisdictional and independent remedial dispositions, vacates the reviewed high-school merits adjudication and its dependent fee disposition, and remands. | `terms/OT2002/records/Altman-v-Bedford-Central-School-District_merits_2003-05-19.md` |
+| 2003-05-19 | Breuer v. Jim's Concrete of Brevard, Inc. | The Eleventh Circuit's judgment sustaining refusal to remand is affirmed. | `terms/OT2002/records/Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md` |
+| 2003-05-19 | Conant v. Walters | The Court affirms the permanent class injunction under its limiting construction. | `terms/OT2002/records/Conant-v-Walters_merits_2003-05-19.md` |
 | 2003-05-19 | Harry v. Marchant | Stabilization dismissal reversed and remanded, 9–0; separate screening dismissal and §1981 remand remain effective. | `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md` |
+| 2003-05-19 | Hilton v. City of Wheeling | The Court affirms the rejection of the affirmative Petition Clause claim, vacates the equal-protection summary judgment, and remands. | `terms/OT2002/records/Hilton-v-City-of-Wheeling_merits_2003-05-19.md` |
+| 2003-05-19 | Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony | The Ninth Circuit judgment resting on the asserted §1983 sovereign-prerogative theory is vacated, and the separately pleaded federal claim is remanded for further proceedings. | `terms/OT2002/records/Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md` |
+| 2003-05-19 | Kansas v. Nebraska | The Second Report is received. The Court approves the Final Settlement Stipulation executed by all three States and filed with the Special Master on December 16, 2002. The action is recommitted solely to decide procedural questions arising in completion of the RRCA Groundwater Model under the stipulation's binding procedures. All claims, counterclaims and cross-claims for which leave was or could have been sought arising before December 15, 2002, are dismissed with prejudice effective upon the Master's filing of a final report certifying adoption of the model by the States. | `terms/OT2002/records/Kansas-v-Nebraska_decree_2003-05-19.md` |
+| 2003-05-19 | Los Angeles v. David | The timing judgment is reversed and the case remanded, 8–1. | `terms/OT2002/records/Los-Angeles-v-David_merits_2003-05-19.md` |
+| 2003-05-19 | Norfolk Southern Railway Co. v. Kirby | The Eleventh Circuit's rejection of both contractual protections is reversed, and the case is remanded. | `terms/OT2002/records/Norfolk-Southern-Railway-Co-v-Kirby_merits_2003-05-19.md` |
+| 2003-05-19 | Pharmaceutical Research and Manufacturers of America v. Walsh | The First Circuit judgment reversing the preliminary injunction is affirmed. | `terms/OT2002/records/Pharmaceutical-Research-and-Manufacturers-of-America-v-Walsh_merits_2003-05-19.md` |
 | 2003-05-19 | Price v. Vincent | The Sixth Circuit's judgment sustaining habeas relief on the double-jeopardy claim is reversed and the case remanded. | `terms/OT2002/records/Price-v-Vincent_merits_2003-05-19.md` |
 | 2003-05-19 | Stout v. Baxter Healthcare Corp. | The judgment is affirmed in part, vacated in part and remanded. | `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.md` |
+| 2003-05-19 | United States v. Haney | The Court rejects the commerce challenge, vacates the appellate affirmance of both §922(o) convictions insofar as it rejects the preserved Second Amendment defense, and remands. | `terms/OT2002/records/United-States-v-Haney_merits_2003-05-19.md` |
 | 2003-05-27 | Benson v. Terhune | The judgment denying the requested habeas relief is affirmed. | `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md` |
 | 2003-05-27 | Gorski v. New Hampshire Department of Corrections | Affirmed, 9–0 on each component; harassment reinstated and transfer summary judgment preserved. | `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_merits_2003-05-27.md` |
+| 2003-05-27 | Nevada Department of Human Resources v. Hibbs | The judgment rejecting categorical State immunity from the family-care action is affirmed, 6–3. | `terms/OT2002/records/Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md` |
 | 2003-06-02 | Roe II v. Aware Woman Center for Choice, Inc. | Reviewed statutory/amendment and public-pseudonymity components affirmed, each 9–0; further proceedings under the preserved amendment and protective directions. | `terms/OT2002/records/Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md` |
 | 2003-06-02 | Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395 | Child-search immunity judgment reversed, 7–2; entry and duplicative-due-process dispositions affirmed, 9–0; remanded with state claims treated independently. | `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md` |
+| 2003-06-09 | Bryant v. Adventist Health System/West | Affirmed in part, reversed in part, vacated in part and remanded, unanimously by component. | `terms/OT2002/records/Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
 | 2003-06-26 | Georgia v. Ashcroft, No. 02-182 | The denial of preclearance for the original Senate plan and the order permitting the four voters to intervene are affirmed. | `terms/OT2002/records/Georgia-v-Ashcroft_merits_2003-06-26.md` |
 | 2003-06-26 | Old Person v. Brown | The judgment is affirmed. | `terms/OT2002/records/Old-Person-v-Brown_merits_2003-06-26.md` |
@@ -792,11 +804,65 @@ Source: `terms/OT2002/records/Rene-v-MGM-Grand-Hotel-Inc_merits_2003-05-05.md`.
 
 A claimant's orientation explanation does not categorically defeat a preserved Title VII sex-harassment claim. Supported contextual evidence can permit sex causation even where that explanation is also present, while sexual form or gravity alone remains inconclusive. Rene's combined evidence satisfies Rule 56 on that issue; ultimate proof, employer attribution and relief proceed under the existing rules.
 
+### 2003-05-19 — Altman v. Bedford Central School District
+
+Source: `terms/OT2002/records/Altman-v-Bedford-Central-School-District_merits_2003-05-19.md`.
+
+Existing Article III rules require a school-specific, plaintiff-specific determination of continuing injury and effectual relief. The fiscal-standing route remains available on Steele's supported probable local fiscal connection. Constitutional adjudication of the high-school practices awaits a live claim; independent decree limits and collateral fee questions retain their separate operation.
+
+### 2003-05-19 — Breuer v. Jim's Concrete of Brevard, Inc.
+
+Source: `terms/OT2002/records/Breuer-v-Jims-Concrete-of-Brevard-Inc_merits_2003-05-19.md`.
+
+The FLSA's concurrent-forum clause leaves the defendant's otherwise authorized federal-question removal right intact. Courts must examine original jurisdiction and any applicable express statutory exception separately. The decision resolves §216(b) in its complete context; other enactments retain their own text and structure.
+
+### 2003-05-19 — Conant v. Walters
+
+Source: `terms/OT2002/records/Conant-v-Walters_merits_2003-05-19.md`.
+
+Sincere recommendations in bona fide treatment relationships remain protected private communication when they do not function as unlawful participation. The Government may enforce actual prescribing, dispensing, agreement and purposeful-assistance prohibitions and lawful registration requirements, while the existing class decree bars the recommendation-only registration threat at its construed scope.
+
 ### 2003-05-19 — Harry v. Marchant
 
 Source: `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md`.
 
 Hospitals must meet the enacted stabilization or lawful-transfer duty after determining an emergency, even when retaining the patient. Later admission does not erase a completed emergency-care violation. The hospital's actual determination, available treatment, performance and direct causal harm govern the revived claim. The genuine-inpatient endpoint remains for a phase-specific case with the necessary facts; it does not defeat adjudication of the earlier violation here.
+
+### 2003-05-19 — Hilton v. City of Wheeling
+
+Source: `terms/OT2002/records/Hilton-v-City-of-Wheeling_merits_2003-05-19.md`.
+
+Olech's intentional, objectively irrational unequal-treatment rule governs police administration without an independent personal-motive element. Material comparability, the challenger's rational-basis burden and ordinary proof requirements preserve legitimate enforcement discretion. The Petition Clause alone creates no entitlement to the investigation, prosecution or protection requested here.
+
+### 2003-05-19 — Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony
+
+Source: `terms/OT2002/records/Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md`.
+
+Section 1983 does not furnish these sovereign plaintiffs a cause to enforce the asserted sovereign exemption from county criminal process. Statutory claimant capacity is tied to the particular claim and setting. Independently pleaded federal Indian-law claims retain their own source and remedy inquiry, and jurisdiction alone supplies no damages cause. The surviving statutory and constitutional rulings identified in the judgment retain their force.
+
+### 2003-05-19 — Kansas v. Nebraska
+
+Source: `terms/OT2002/records/Kansas-v-Nebraska_decree_2003-05-19.md`.
+
+The filed Final Settlement Stipulation governs this compromise and Compact implementation as an integrated instrument. Its complete accounting provisions, incorporated technical appendices, schedules and qualifications remain operative. The Master's authority is the finite completion role, and the covered historical claims await the specified certification before dismissal takes effect. Prospective Compact compliance remains governed by the Compact and the agreement's reserved rights.
+
+### 2003-05-19 — Los Angeles v. David
+
+Source: `terms/OT2002/records/Los-Angeles-v-David_merits_2003-05-19.md`.
+
+A returned-vehicle fee-review claim receives a contextual timing inquiry directed to the money retained and the process actually provided. This twenty-seven-day interval is constitutional on its record. Continuing vehicle detention, demonstrated additional injury or impaired review, and materially different intervals require application of that same contextual rule to their own facts. California's separate hearing command retains its own legal operation.
+
+### 2003-05-19 — Norfolk Southern Railway Co. v. Kirby
+
+Source: `terms/OT2002/records/Norfolk-Southern-Railway-Co-v-Kirby_merits_2003-05-19.md`.
+
+International through bills are interpreted according to their maritime character and actual terms. Their protected performing class may encompass an inland carrier without direct contracting, and an entrusted intermediary may bind the cargo owner on the limited subject of downstream carriage liability. Each bill retains its own measure and statutory limits, and the owner's enforceable bargain with the intermediary remains distinct. Under Harper, these federal rules govern all still-open direct-review cases within their substantive scope, including shipments predating this decision. Reynoldsville permits independently valid procedural and remedial rules but no reliance-only withholding of governing law; final judgments retain their finality.
+
+### 2003-05-19 — Pharmaceutical Research and Manufacturers of America v. Walsh
+
+Source: `terms/OT2002/records/Pharmaceutical-Research-and-Manufacturers-of-America-v-Walsh_merits_2003-05-19.md`.
+
+The existing preliminary injunction remains dissolved. Direct majority law permits this prospective judicial route, preserves the express authorization power with its actual statutory conditions, requires its operation to comply with the substantive Medicaid duties, rejects modest inconvenience alone as an automatic preemption trigger, and rejects the two presented Commerce Clause theories under their actual transaction and competitor inquiries. The six votes affirming the Medicaid disposition establish no unified additional purpose, benefit or balancing test for the present statutory dispute. Ordinary further proceedings remain governed by the enacted requirements, the direct holdings here and existing lawful procedures.
 
 ### 2003-05-19 — Price v. Vincent
 
@@ -810,6 +876,12 @@ Source: `terms/OT2002/records/Stout-v-Baxter-Healthcare-Corp_merits_2003-05-19.m
 
 Title VII's impact sequence applies to attendance practices affecting pregnancy, childbirth and related medical conditions. Uniform treatment after employees violate a cutoff does not answer the challenge to the cutoff's comparative effects. Medical and operational evidence may establish the necessary comparison without a mandatory statistical format; the particular evidence here permits the claim to continue. The claimant's causal proof, the employer's necessity defense, an available refused alternative, class requirements and relief retain their separate burdens and stages.
 
+### 2003-05-19 — United States v. Haney
+
+Source: `terms/OT2002/records/United-States-v-Haney_merits_2003-05-19.md`.
+
+Completed local machine-gun possession remains within Congress's fitted national stock regime, subject to the statute's distinct government-related and prior-lawful-possession exceptions. The Second Amendment remains a separately enforceable personal guarantee. Lower courts must apply Wright's coverage and actual-burden inquiries to the preserved defense; valid commerce authority and absence of militia affiliation cannot substitute for that application.
+
 ### 2003-05-27 — Benson v. Terhune
 
 Source: `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md`.
@@ -822,6 +894,12 @@ Source: `terms/OT2002/records/Gorski-v-New-Hampshire-Department-of-Corrections_m
 
 Pregnancy-based hostile-environment claims receive Title VII's ordinary causation, environment, pleading and attribution rules. Representative allegations giving fair notice permit ordinary development; a distinct evidentiary failure on transfer does not turn them into an exhausted harassment record. Ultimate liability requires the complete substantive and attribution showings, and the transfer judgment remains effective on this developed record.
 
+### 2003-05-27 — Nevada Department of Human Resources v. Hibbs
+
+Source: `terms/OT2002/records/Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md`.
+
+Eligible employees may pursue the expressly authorized family-care action against covered State employers under either of two independently sufficient grounds: valid Article I employment enforcement and congruent and proportional Section 5 prevention of sex inequality. Each ground commands five direct joins, although the two coalitions differ. Courts apply the FMLA's actual entitlement, eligibility, defenses, proof and remedy terms. Self-care and other leave provisions remain outside the constitutional question decided here.
+
 ### 2003-06-02 — Roe II v. Aware Woman Center for Choice, Inc.
 
 Source: `terms/OT2002/records/Roe-II-v-Aware-Woman-Center-for-Choice-Inc_merits_2003-06-02.md`.
@@ -833,6 +911,14 @@ FACE protects the defined access to reproductive services against covered acts b
 Source: `terms/OT2002/records/Roe-v-Texas-Department-of-Protective-and-Regulatory-Services_merits_2003-06-02.md`.
 
 The bodily-search holding requires voluntary consent, probable cause with appropriate judicial authorization, or genuine exigency for the nonurgent intimate investigative operation addressed here. It does not impose one procedure on every protective inquiry or make police reporting alone decisive. The scheduled interview authorizes only its objective scope. On the accepted no-consent, no-probable-cause and no-urgency account, pre-July 10, 1999 law gave sufficient warning for the child-search claim to proceed. Actual liability remains subject to the proved facts and ordinary defenses. The same intrusions do not support duplicate substantive-due-process damages theories. Texas official immunity remains independent, and jurisdictional treatment must reflect the restored federal claim.
+
+### 2003-06-09 — Bryant v. Adventist Health System/West
+
+Source: `terms/OT2002/records/Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md`.
+
+EMTALA stabilization requires actual determination of the emergency and performance measured by the statutory medical standard or a valid transfer or informed-refusal alternative. Genuine admission alone does not end an unperformed duty. The identified emergency, available capability and direct causal harm keep the federal obligation distinct from ordinary continuing medical care. Bryant resolves the genuine-inpatient endpoint left open in Harry, while retaining that decision's no-transfer and accrued-claim rules.
+
+Harper makes this construction govern every still-open direct-review claim within its scope, including earlier admissions. Under Reynoldsville, reliance on the rejected admission cutoff alone cannot withhold the rule. Independently valid limitation, causation and remedy rules determine recovery; final judgments and barred claims retain their finality.
 
 ### 2003-06-16 — Center for Reproductive Law and Policy v. Bush
 
@@ -1440,6 +1526,12 @@ Source: `terms/OT2002/records/Planned-Parenthood-of-Southern-Arizona-v-Lawall_me
 
 **Scalia, concurring in part and dissenting in part, joined by Thomas.** They accept the permission for necessary confidential internal handling but would affirm rejection of both claims. Their Sheets and Paul P. positions reject the asserted broader substantive informational-privacy right. The statutory confidentiality command, fictitious-name option, separate authorization requirement and penalties make speculative misuse insufficient under their rule. They do not conclude that every future agency request is lawful or that a proved improper disclosure defeats every independently grounded claim. Their disagreement with the partial vacatur is therefore different from Stone-Zsela’s demand for more immediate protection.
 
+### 2003-04-29 — Demore v. Kim
+
+Source: `terms/OT2002/records/Demore-v-Kim_reargument_2003-04-29.md`.
+
+No separate writing accompanies the order.
+
 ### 2003-04-29 — Herring v. Keenan
 
 Source: `terms/OT2002/records/Herring-v-Keenan_merits_2003-04-29.md`.
@@ -1476,6 +1568,14 @@ His proposed construction would require proof of every objective and subjective 
 
 They require neither sexual desire nor an actual female comparator and do not treat Rene's testimony as an irrebuttable legal concession. Nabozny involved separate discriminatory official responses and comparative treatment supporting sex causation; its equal-protection ruling does not make assault automatically discriminatory under Title VII. They would not create a new appellate stereotyping claim on the preservation record. The common causal rule remains intact, but they find the record insufficient under it and therefore oppose Parts II–III and the remand.
 
+### 2003-05-19 — Conant v. Walters
+
+Source: `terms/OT2002/records/Conant-v-Walters_merits_2003-05-19.md`.
+
+**Stone-Zsela, concurring.** The Chief Justice joins the Court and would require the Government to justify this viewpoint-selected restraint on independent clinical advice by a compelling interest and narrow tailoring. Preventing unlawful drug transactions may be compelling, but suppressing recommendations alone fails that test while actual prescribing, dispensing and purposeful assistance remain enforceable. Casey's bounded treatment-information holding supplies no authority to suppress a clinician's sincere contrary judgment, and Rosenberger's attribution distinction identifies the communication as private.
+
+He would also presume relief should cure the established common policy for those governed unless officials demonstrate a narrower complete cure. Here that principle reinforces the existing amended class and protected-recommendation category without enlarging either. Investigation must retain the decree's good-faith, substantial-evidence condition; a court may assess compliance through the officials' stated grounds and actual conduct without preclearing every investigation. If his remedial presumption became governing law, he would apply Harper to nonfinal cases within the established common-policy scope and Reynoldsville to reject reliance alone as a reason to continue the threat. Finality and independent jurisdictional, class and equitable requirements would remain. The concurrence's scrutiny and remedial presumption are additional grounds; no other Justice joins them.
+
 ### 2003-05-19 — Harry v. Marchant
 
 Source: `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md`.
@@ -1485,6 +1585,80 @@ Source: `terms/OT2002/records/Harry-v-Marchant_merits_2003-05-19.md`.
 He relies on the statutory alternatives and Roberts's refusal to add an extra motive defense. He would reject Bryan's admission endpoint insofar as it terminates this unperformed duty, while retaining its distinction between EMTALA and general malpractice law. Baby K supplies neither a universal care entitlement nor a conclusive answer about every inpatient. The estate would still prove actual determination, necessary available care, breach and direct harm. The statutory hospital action and authorized remedies would remain separate from any action against individual clinicians, and the proposed rule would not establish a systemwide treatment failure from the pleaded course.
 
 If adopted and applied, the construction would govern still-open direct-review claims within its scope under Harper, including earlier care. Reynoldsville would permit no reliance-only admission exception; genuine limitations, causation and remedy requirements would remain, and final judgments and time-barred claims would not reopen. With the admission endpoint left open on this record, he accepts the narrower ground: no actual transfer is required, and delayed admission cannot cure an earlier breach. The later phase should receive proper adjudication rather than a presumed absence of any preceding duty.
+
+### 2003-05-19 — Hilton v. City of Wheeling
+
+Source: `terms/OT2002/records/Hilton-v-City-of-Wheeling_merits_2003-05-19.md`.
+
+**Breyer, concurring in part and in the judgment.** Breyer joins the Petition Clause analysis and the correct-rule remand. He follows Olech as controlling law but retains the qualification expressed in his Olech concurrence, which relied on the additional allegation of vindictiveness and withheld endorsement of objective irrationality as an independently sufficient constitutional account. Discretionary policing makes meaningful comparability, proof of intentional treatment and legitimate explanations particularly important. The absence of animus nevertheless cannot sustain this judgment under the governing majority rule, and the reviewed account does not conclusively establish an independent evidentiary ground for affirmance.
+
+### 2003-05-19 — Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony
+
+Source: `terms/OT2002/records/Inyo-County-v-Paiute-Shoshone-Indians-of-Bishop-Community-of-Bishop-Colony_merits_2003-05-19.md`.
+
+Justice Stevens concurs in the judgment. He regards a tribe as a juridical person capable of invoking §1983 to protect its constitutional rights, and therefore withholds the Court's claimant-capacity rationale. The dispositive defect, in his view, lies in the right asserted: §1983 protects federal civil rights, while this action seeks to enforce a sovereign prerogative to withhold records from state criminal process. A sovereign exemption does not become a covered personal right simply because its enforcement concerns a search. Will's treatment of sovereign defendants and Vermont Agency's distinct statutory setting do not establish the contrary general claimant proposition. This right-based ground requires rejection of the asserted statutory theory while preserving the possibility of a properly presented ordinary constitutional claim. Stevens also agrees that the independently pleaded federal theory requires its own adjudication and that the conditional personal-immunity question supplies no reason to affirm the rejected §1983 judgment. No other Justice joins his writing.
+
+### 2003-05-19 — Los Angeles v. David
+
+Source: `terms/OT2002/records/Los-Angeles-v-David_merits_2003-05-19.md`.
+
+**Stone-Zsela, dissenting.** The Chief Justice would affirm reversal of summary judgment for the City while rejecting a universal forty-eight-hour or five-day constitutional requirement. Mathews, Mallen, Gilbert and Barry require a practical review-related explanation for material delay. Recovery of the automobile changes the interest but leaves the compulsory payment in the City's hands. He finds annual workload and general coordination needs insufficient to establish that this entire interval was justified at summary judgment; he would require the City to connect supported scheduling, priority and staffing needs to the elapsed period and feasible earlier process.
+
+He would remand to determine those reasons, the actual deprivation, error risk and value of earlier review. If a City-attributable timing violation and causal injury were proved by a preponderance, the court would determine compensation, with nominal relief where warranted if compensable loss was not proved. A late hearing would not itself require refunding a lawfully imposed fee. Prospective relief would require a live threat and a proved scheduling defect, with a defined correction and means of demonstrating compliance. The later hearing and adverse repayment result would not decide those questions. His rule would govern still-open direct-review claims under Harper, with Reynoldsville foreclosing reliance alone as a reason to withhold it; ordinary immunity, damages and finality rules would remain. He would sustain a delay conclusively shown substantially necessary for meaningful review when earlier process offered no material protection, but does not find that showing established here.
+
+### 2003-05-19 — Pharmaceutical Research and Manufacturers of America v. Walsh
+
+Source: `terms/OT2002/records/Pharmaceutical-Research-and-Manufacturers-of-America-v-Walsh_merits_2003-05-19.md`.
+
+### The lead opinion's noncontrolling Medicaid application
+
+In the Medicaid application portion, Souter, joined by Stevens, Ginsburg, concludes that the submitted preliminary showing does not establish the asserted likely conflict. Stevens, Souter and Ginsburg adopt this portion. Alexander v. Choate supplies state design discretion within meaningful-access and statutory limits; Beal v. Doe rejects automatic invalidity from an additional state policy objective. New York State Department of Social Services v. Dublino likewise requires attention to compatible state and federal purposes. A possible connection through financially needy residents and Medicaid costs is legally relevant despite the absence of an income ceiling.
+
+The manufacturer affidavits supply evidence of burdens and economic effects, but Maine's clinical comparisons and proposed professional review also bear on the prediction. These Justices reject treating the record as an evidentiary vacuum or requiring actual injury in every preimplementation challenge. They answer the contrary argument about a rebate-refusal trigger by holding that the District Court's categorical rule and reliance on the absence of a proffered Medicaid purpose cannot establish the movant's probability of conflict on this competing showing. They do not find that Maine has achieved savings or that every shift in market share benefits Medicaid.
+
+United States v. Mead Corp. and Christensen v. Harris County require attention to actual interpretive authority and, absent controlling force, independent consideration of the reasons under Skidmore. CMS's letter offers potentially compliant arrangements and evidentiary examples; it is neither administrative silence nor approval of Maine Rx. These three preserve a properly supported later conflict claim while voting to leave this injunction dissolved.
+
+### Breyer's distinct ground for affirmance
+
+Justice Breyer joins the lead at the scopes stated in Opinion Topology and affirms dissolution, but withholds its full Medicaid application. Arkansas Electric Cooperative Corp. v. Arkansas Public Service Commission supplies his requirement of serious compromise of important federal interests for ultimate obstacle-preemption invalidation. Minimal or quite modest harm is insufficient to justify this preliminary injunction even without proof of a countervailing program-specific benefit. Congress expressly allowed authorization and could regard that procedure generally as serving cost control. A stronger assessment of the affidavit evidence is possible, but the proper inquiry requires a more careful balance of Medicaid harms and benefits than the District Court's categorical premise supplied.
+
+The actual CMS letter reinforces the need for informed assessment without approving Maine Rx. Under Mead, an actual agency view receives the legal force its authorized mechanism warrants and the persuasive weight its reasons earn. United States v. Western Pacific Railroad Co. and Far East Conference v. United States permit courts to obtain specialized agency assistance under primary jurisdiction, without a fixed formula. A court may raise the doctrine itself and may stay proceedings, including for a limited period, so a party can initiate administrative review. A properly justified status-preserving injunction is possible, but neither required nor supplied merely by the stay. The usefulness of the Secretary's views can inform the public-interest assessment of a later proper relief request. Breyer orders no administrative proceeding in this disposition and creates no standalone non-submission claim. This optional coordination differs from Ventura's allocation of a genuinely assigned agency judgment. No other Justice joins his separate writing.
+
+### Scalia's administrative-channel and Commerce grounds
+
+Justice Scalia concurs in the judgment. For these manufacturers' statutory challenge, he treats §1396c enforcement through the Secretary as the required route. They must request administrative enforcement and may seek review of a denial under the applicable Administrative Procedure Act standard—arbitrary, capricious, an abuse of discretion or otherwise contrary to law. This is a remedial-channel ground, not a finding of statutory compliance or absence of manufacturer injury.
+
+His Blessing reservation and the distinction between beneficiary entitlements and this manufacturer's asserted conflict support that result. Westside Mothers establishes defined children's §1983 rights and prospective enforcement, which he accepts; it does not itself decide this different claim's channel. Verizon likewise does not establish a judicial action for every federal funding dispute irrespective of the governing scheme. He consequently withholds the lead's channel and Medicaid merits conclusions.
+
+Scalia also rejects Commerce relief because the arrangement is neither facially discriminatory nor materially the same as nondiscriminatory arrangements already invalidated by the Court. His narrower West Lynn position supplies that boundary. He does not join the lead's broader negative-Commerce-Clause analysis. No other Justice joins this writing.
+
+### Thomas's text and administrative-allocation ground
+
+Justice Thomas joins the express statutory-framework portion and otherwise concurs in the judgment on distinct grounds. Congress permitted authorization of any covered outpatient drug subject to paragraph (5), while imposing different restrictions on exclusions, formularies and quantity limits. He rejects the manufacturer's proposed additional judicial purpose condition. The non-Medicaid rebate trigger does not by itself establish that authorization's effects frustrate the Act; this is a legal conclusion, not a finding of operational savings or successful safeguards.
+
+Thomas also regards the Secretary's assigned full-plan assessment as a reason against a court's free-standing balance of generalized program objectives at these manufacturers' request. He preserves lawful approval or disapproval and review of an actual decision. Mead requires actual exercise of delegated authority before an interpretation receives binding force; a hypothetical ruling cannot receive that status. Westside Mothers remains binding federal law establishing enforceable beneficiary duties and prospective judicial compliance. His agency-allocation rationale is confined to this purpose-based manufacturer claim and does not reduce every accepted Medicaid duty to a funding option. His observation about third-party enforcement remains a reservation rather than the ground of disposition.
+
+Thomas withholds the lead's suggestion that a stronger version of the same purpose-and-evidence showing would resolve this objection. On Commerce, he retains his constitutional objection to the negative Commerce Clause as a judicial restriction and agrees that the alleged local-producer subsidy is absent, without joining the lead's rationale. No other Justice joins this writing.
+
+### O'Connor and Kennedy would restore bounded protection
+
+Justice O'Connor, joined by Justice Kennedy, concurs in the common judicial-route, statutory-permission, substantive-duty and Commerce portions but dissents from the Medicaid judgment. They would reverse that appellate component, restore the preliminary restraint of prior authorization imposed because a manufacturer refused the non-Medicaid rebate arrangement, and remand for further proceedings. Voluntary rebate negotiations would remain outside that restraint.
+
+They read the authorization permission with §§1396a(a)(19) and (30)(A), which protect recipients' interests and efficient, economical, quality care. A procedure burdening access can legitimately serve Medicaid goals, but may not advance wholly unrelated objectives without a countervailing Medicaid purpose. Alexander's state flexibility remains bounded by those requirements. This conclusion imposes neither a universal numerical savings threshold nor a requirement that every beneficiary already be Medicaid eligible.
+
+The actual trigger is refusal to fund non-Medicaid rebates, rather than an assessment that a drug is less effective or economical. The unrestricted income eligibility and lack of a supported program-specific connection permit the District Court's preliminary conclusion. Clinical safeguards may protect treatment and illustrate cost-conscious authorization generally; they do not establish that this rebate-refusal trigger selects more costly drugs or will produce Medicaid savings. Possible future avoidance of Medicaid eligibility is not evidence establishing that connection here.
+
+Doran v. Salem Inn, Inc. supplies abuse-of-discretion review. These Justices find the supported likelihood assessment adequate despite the District Court's overly broad modest-obstacle language; they do not endorse automatic invalidity whenever a small burden exists. They reject replacing that assessment with appellate speculation about savings. Petitioner's uncontested review posture concerning the other equitable factors supplies no additional disputed deficiency requiring protection to be withheld. Their restoration follows review of this injunction and its showing, not a general rule that likelihood alone compels relief. Mead's treatment of actual agency views and Ventura's assigned-agency inquiry do not transfer this judicial injunction to CMS or create an unpresented non-submission claim.
+
+### Stone-Zsela would require renewed analysis without automatic restoration
+
+Chief Justice Stone-Zsela concurs in the common portions identified above but would vacate the Medicaid appellate disposition and remand. He requires an identifiable connection between Medicaid authorization and the authorized program, compliance with the statutory safeguards, and a supported prediction of likely conflict. General health aspirations or hypothetical savings do not conclusively establish that connection, while modest inconvenience alone is not automatic preemption. The association bears its preliminary burden; Maine must substantiate the program relationship it invokes. Competing categorical rulings require renewed analysis rather than final invalidation.
+
+Suter, Blessing, Westside Mothers and Gonzaga preserve the distinction between beneficiary rights and the manufacturers' prospective route. Choate and Beal permit design discretion inside Medicaid's conditions. On return, Stone-Zsela would require the District Court to identify the actual condition, claimed Medicaid connection, predictive beneficiary effects, safeguards and any legally required approval. Ventura applies only if an unresolved factual judgment is genuinely assigned to the agency, and yields where the result is legally compelled and no such judgment remains; a potential agency interest creates neither a new exhaustion prerequisite nor a transfer of the court's legal inquiry. He would set a case-management schedule to identify the available process and supply its resulting authoritative record, with prompt status review while action remains pending.
+
+For an actual interpretation, the court must identify its instrument, scope, delegated authority and reasons, give controlling statutory weight only when both Mead predicates are satisfied, and otherwise independently assess the reasoning under Skidmore and Christensen. An official litigation position is not itself approval or delegated lawmaking, but its actual reasons cannot be ignored because it lacks binding force.
+
+The court must independently decide likely success, irreparable injury, competing hardships and public interest within the actual review posture. Neither agency silence nor referral warrants automatic approval, restraint or indefinite deferral. Any justified restraint must target the likely unlawful Medicaid condition and established manufacturer injury while preserving lawful independent rebates; failure to establish the preliminary predicates requires denial. His renewed inquiry rests on correcting the statutory-purpose and predictive analysis, not on inventing a separate contested equitable-factor issue. No other Justice joins his writing, and his remand would not itself restore the injunction.
 
 ### 2003-05-19 — Price v. Vincent
 
@@ -1509,6 +1683,20 @@ Source: `terms/OT2002/records/Benson-v-Terhune_merits_2003-05-27.md`.
 His proposed rule would require a reasonable explanation of a psychotropic regimen's identity, therapeutic purpose, material risks to thought and participation, and feasible alternatives sufficient for the actual patient to accept or refuse. A material change of regimen or dosage requires an explanation of that change. The State could establish that the patient already understood the relevant matters, but nursing training or drug experience alone would not categorically substitute. The rule would require neither exhaustive warnings about remote effects, a criminal-waiver colloquy nor the patient's preferred treatment. Genuine emergencies and independently justified treatment over refusal remain distinct.
 
 He identifies that information rule as a proposed development, not earlier clearly established law. Benson's substantial hearing and the supported findings do not establish forced ingestion or the asserted trial disruption. Riggins protects more than minimal competence, but its supported unreconstructable risk cannot be presumed from medication alone. The safety-cell remark and unused alternatives must retain their found character. White's reasoning does not meet the statutory source requirement, and this independent denial needs no unbriefed Teague ruling or automatic structural-error theory. The concurrence supplies no holding on a properly brought claim of deliberate concealment, ongoing unwanted treatment or materially different defense impairment. No other Justice joins the proposed development.
+
+### 2003-05-27 — Nevada Department of Human Resources v. Hibbs
+
+Source: `terms/OT2002/records/Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md`.
+
+**Stevens, concurring in part and in the judgment.** He joins statutory authorization, the Article I ground and the statutory remand. His Florida Prepaid, Kimel and Garrett positions establish that Congress may expressly authorize employee enforcement of valid national economic regulation against a State. That ground fully supports affirmance. He remains uncertain whether this particular family-care enactment was needed and sufficiently fitted as Fourteenth Amendment enforcement; his support for preventive power in other settings does not answer that statute-specific issue. He therefore withholds Part III without deciding that Section 5 is inadequate.
+
+**O'Connor, concurring in part and in the judgment.** She joins the clear statutory authorization, Section 5 holding and statutory remand, while retaining her structural objection to Article I authorization of a private treasury action. The family-care mechanism directly counters assigned sex roles in employment. Virginia supplies the heightened equality standard, and the finite, medically conditioned, generally unpaid entitlement and qualified remedies give the preventive measure sufficient fit. Her agreement with that Section 5 application does not extend to the lead's independent Article I ground.
+
+**Kennedy, joined by Scalia and Thomas, dissenting.** The dissent accepts the explicit public-agency remedy and valid federal employment regulation but distinguishes that substantive power from authority to subject a nonconsenting State's treasury to private suit. It would reconsider Florida Prepaid, Kimel and Garrett's contrary Article I rule to the extent needed for reversal, rather than treat those holdings as absent.
+
+Independently, the dissent finds the family-care evidence insufficiently connected to the general minimum entitlement and private damages remedy. Historical restrictions, private-sector studies, pregnancy-disability provisions, child-rearing policies and care for ill relatives bear different relationships to unconstitutional State family-care conduct. A State may provide no leave benefit while administering employment equally. Boerne allows genuine prevention, and Virginia supplies heightened scrutiny of actual sex classifications, but those principles do not establish this particular means-to-injury fit. Popovich's duty to secure a meaningful parental hearing is more closely tied to the protected opportunity than a freestanding minimum leave benefit.
+
+The dissent's objection concerns that relationship, not a prescribed incident count, a violation in every State, formal findings, a sunset or an individual constitutional tort in every valid preventive action. State antidiscrimination laws and few reported suits do not establish compliance; official prejudice can arise through indifference as well as express hostility. These limits preserve Kennedy's particular-fit objection, Scalia's rejection of an automatic defendant-State-violation prerequisite and Thomas's acceptance of direct remedy language despite his different textual objection in Kimel.
 
 ### 2003-06-02 — Roe v. Texas Department of Protective and Regulatory Services. Judgment below: 299 F.3d 395
 
@@ -1592,17 +1780,18 @@ A membership change requires a complete reassessment of circuit allotments; no s
 | *Kansas v. Colorado*, No. 105, Original | Recommitted to the Special Master for damages calculation and preparation of judgment; original action pending. | No OT2002 event date scheduled | Carryover; open | Decision Record on exceptions to the Third Report, June 11, 2001. |
 | *Nebraska v. Wyoming*, No. 108, Original | Modified decree in force; jurisdiction retained for decree administration and further allocation of litigation costs. | No OT2002 event date scheduled | Carryover; open | Order and modified-decree Decision Record, November 13, 2001. |
 
-No further report, filing, deadline, or Court action is supplied.
+No further event is supplied for those three opening carryovers.
 
-The remaining 64 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+**Kansas v. Nebraska, No. 126, Original, with Colorado:** The May 19 settlement approval event is complete. The covered claims, counterclaims and cross-claims arising before December 15, 2002 remain pending until the Special Master files a final report certifying the States' adoption of the RRCA Groundwater Model. Recommittal is limited to the procedural model-completion tasks under the approved agreement; its notice, selection, arbitration and information conditions remain controlling. No certification event has been admitted. Source: `terms/OT2002/records/Kansas-v-Nebraska_decree_2003-05-19.md`.
 
+The remaining 52 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
 
 ## Blockers and Revalidation Needs
 
-No judicial workflow blocker remains for the completed chunk 9 actions. Repository-history verification and commitment remain reserved to the operator.
+No adjudicative blocker or stopped matter remains. Cano is an affirmatively retained appeal, not a stopped event. Repository-history verification and commitment remain reserved to the operator; no version-control command was invoked. This administrative deferral changes no vote, law or event status.
 
-Validation: `terms/OT2002/freeze/OT_2002CHUNK9_VALIDATION.md` and `terms/OT2002/freeze/OT_2002CHUNK9_DEMORE_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
+Validation: `terms/OT2002/freeze/OT_2002CHUNK10_VALIDATION.md`. The sectioned case index is handled by the scoped inventory adapter in `tmp/ot2002_chunk6_controls.py`; governing tools and briefs remain unchanged. Public rendering is a separate task.
 
 ## Source and Research Cutoff
 
-Each Record states its event-date research cutoff, source support and limitations. Chunk 9 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK9_CONTINUITY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.
+Each Record states its event-date research cutoff, source support and limitations. Chunk 10 uses its selected doctrinal slices and date-specific supplements in `terms/OT2002/entering-law/`; current-term public rules enter only at their effective dates. The new decisions and completed later-dated Records were checked for material dependency displacement in `terms/OT2002/freeze/OT_2002CHUNK10_CONTINUITY_REVIEW.md`. No material displaced premise or correction of an earlier Record was identified. Historical comparator material, modern retrieval details and private control positions do not enter this projection. No Admitted Source Record was added.

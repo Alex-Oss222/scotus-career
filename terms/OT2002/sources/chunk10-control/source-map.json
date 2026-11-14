@@ -1,0 +1,27 @@
+[
+  {
+    "file": "kansas-second-report",
+    "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000202717/1000202717_003.pdf",
+    "status": "saved"
+  },
+  {
+    "file": "kansas-stipulation-vol1",
+    "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000202718/1000202718_001.pdf",
+    "status": "saved"
+  },
+  {
+    "file": "kansas-decree",
+    "url": "https://www.supremecourt.gov/pdfs/recordsandbriefs/1000202717/1000202717_004.pdf",
+    "status": "saved"
+  },
+  {
+    "file": "walsh-dissent",
+    "url": "https://www.law.cornell.edu/supct/pdf/01-188P.ZD",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "file": "david",
+    "url": "https://www.govinfo.gov/content/pkg/USREPORTS-538/pdf/USREPORTS-538-715.pdf",
+    "status": "saved"
+  }
+]

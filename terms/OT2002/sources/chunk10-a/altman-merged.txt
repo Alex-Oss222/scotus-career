@@ -1,0 +1,528 @@
+L0: # Altman v. Bedford Central School District Altman v. Bedford Central School District
+L1: 
+L2: 【0†Court of Appeals for the Second Circuit】
+L3: 
+L4: Mar 27, 2001
+L5: 
+L6: Docket Nos. 99-7969(L), 99-9001
+L7: 
+L8: Check Treatment (221)
+L9: 
+L10: [Button: Docket]
+L11: 
+L12: Case history Beta
+L13: 
+L14: Reporters:
+L15:     [Button: 245 F.3d 49], [Button: 2001 U.S. App. LEXIS 4914]
+L16: Before:
+L17:     Kearse
+L18: 
+L19: KEARSE, Circuit Judge:
+L20: Defendants Bedford Central School District et al. (“Bedford” or “School District”) appeal from so much of a final judgment of the United States District Court for the Southern District of New York, Charles L.
+L21: Brieant, Judge, as (a) declared that certain school activities violated plaintiffs’ rights under the Establishment and Free Exercise Clauses of the First Anendment to the United States Constitution, (b) enjoined the School District and certain of its administrators and other personnel from sponsoring or encouraging those activities, and (c) awarded attorneys’ fees to plaintiffs.
+L22: Following a bench trial, the district court found, to the extent pertinent to Bedford’s appeal, that the Establishment and Free Exercise Clauses were violated by certain activities involving a Hindu god (“Ganesha” or “Ganesh”), “worry dolls,” and celebrations of the Earth and nature.
+L23: On appeal, Bedford contends principally that the court should have dismissed all challenges to activities at one of its schools because at the time of trial no plaintiff had standing to challenge those activities, and that the court erred in its application of First Amendment principles to the enjoined’ activities. Plaintiffs cross-appeal from other parts of the judgment, contending that the court erred in dismissing then-challenges to certain other activities.
+L24: For the reasons that follow, we conclude principally that the judgment should be (1) vacated insofar as it dealt with activities at two schools as to which plaintiffs no longer have standing; (2) reversed insofar as it declared School District programs to violate the First Amendment, ordered the School District to issue guidelines and cease certain activities, and awarded plaintiffs attorneys’ fees pursuant to 42 U.S.C. § 1988 (1994 & Supp.
+L25: IV 1998); and (3) affirmed to the extent that it dismissed plaintiffs’ challenges to other activities.
+L26: I. BACKGROUND
+L27: 
+L28: The following description is taken principally from the district court’s posttrial findings of facts and conclusions of law. Except as indicated, the facts are largely undisputed.
+L29: 
+L30: A. The Parties and the Present Action
+L31: Bedford, located in Westchester County, New York, operates public schools including the Pound Ridge Elementary School (“Pound Ridge Elementary”), the Fox Lane Middle School (“Fox Lane Middle”), and the Fox Lane High School (“Fox Lane High”). The individual defendants are School District administrators sued in their official capacities.
+L32: Plaintiffs are members of three families who, when the present action was commenced in 1996, were residents and/or taxpayers in the School District. Robert M. Atman and Victoria L. Atman (collectively “the Atmans”) are the parents of Russell and Ross Atman. Russell had attended Pound Ridge Elementary until fifth grade; Ross had attended a Bedford elementary school until third grade.
+L33: In or about 1996, the Atmans enrolled Russell and Ross instead in parochial school pending resolution of the family’s criticisms of certain Bedford school activities.
+L34: Plaintiff Mary Ann DiBari is the grandmother and legal guardian of Krystal M. DiBari and Tiana N. DiBari. At the time of trial, Krystal attended Fox Lane High and previously had attended Fox Lane Middle. Tiana N. DiBari attended Fox Lane Middle at the time of trial and previously had attended Pound Ridge Elementary.
+L35: Plaintiffs Joseph M. DiNozzi and Cecile D. DiNozzi (collectively the “DiNozzis”) are the parents of Jon M. DiNozzi, Daniel J. DiNozzi, Steven M. DiNozzi, and Joseph A. DiNozzi. At the time of trial, Jon attended Fox Lane High and previously had attended Pound Ridge Elementary. Daniel had previously attended Fox Lane Middle; Steven and Joseph had previously attended Pound Ridge Elementary.
+L36: In 1995, the DiNozzis had removed Daniel, Steven, and Joseph from their respective public schools and sent them to parochial school pending resolution of the present controversy.
+L37: Plaintiffs brought the present action in October 1996 principally under 42 U.S.C. § 1983, seeking injunctive relief and alleging that they are sincere practitioners of the Roman Catholic religion and that a large number of programs in the Bedford schools exposed impressionable children to activities that plaintiffs characterized as
+L38: > (a) The promotion of satanism and occultism, pagan religions and “New Age spirituality”, the latter being a religion which promotes as the goal of spiritual progress the full actualization of the human person as the godhead;
+L39: 
+L40: > (b) Instruction in techniques of meditation, yoga, guided-imagery and self-hypnosis; “crystal power”, use of the “right-brain” and other “self-realization” techniques;
+L41: > (c) Psychological evaluation and treatment by means of contrived incidents for self-revelation, psychodrama, role-playing, “stress management”, so-called “stress thermometers”, relaxation and deep-breathing, blindfold walks, encounter groups and other techniques designed to modify human behavior or to pry into the student’s innermost thoughts and family life;
+L42: > (d) Instruction in “decision-making” by which matters of morality are reduced to a process of choosing options divorced from objective moral norms, in which process the child, not the parents or God, is the final arbiter of what is right or wrong conduct in a given situation;
+L43: > (e) Transpersonal “affective” teaching methods by which students are subjected to “learning” intuitively by “sharing” innermost fears, dreams, likes, dislikes, aversions, failures, insecurities and the intimate details of their personal and family lives with strangers in a classroom.
+L44: (Amended and Supplemental Complaint ¶ 18.) Plaintiffs asserted principally that the challenged activities, including those described in Parts I.B. and I.C. below, violated the Establishment and Free Exercise Clauses of the First Amendment, the Fourteenth Amendment rights of plaintiff parents to raise their children as they see fit, and the Fourteenth Amendment rights of the minor plaintiffs to privacy.
+L45: When this action was tried in early 1999, Ross Altman was the only plaintiff who was not beyond elementary-school age. Approximately one year prior to trial, however, as discussed in Parts I.E. and II below, the Altman family had relocated to the State of Connecticut, leaving no plaintiff who attended or was eligible to attend Pound Ridge Elementary. In addition, after trial and prior to this appeal, Tiana DiBari graduated from Fox Lane Middle and the DiNozzi Family relocated to the State of Delaware.
+L46: These events left no plaintiff attending or eligible to attend Fox Lane Middle.
+L47: B. Activities Found Impermissible by the District Court
+L48: Following a five-day bench trial in February and March 1999, the district court found, to the extent pertinent to Bedford’s appeal, that certain aspects of four of the challenged activities, to wit, those involving Ganesha, worry dolls, Earth Day, and a “Listening to Nature” tape, violated plaintiffs’ rights under the Establishment and Free Exercise Clauses of the First Amendment to the Constitution. See 【1†45 F.Supp.2d 368】 (1999). The evidence with respect to those activities was as follows.
+L49: 
+L50: 1. Ganesha
+L51: During the 1992-93 school year, Pound Ridge Elementary conducted an international enrichment theme week. In one fourth-grade class, Jacqueline Reizes taught her students, who included Krystal DiBari, about India. Reizes selected India because she felt it suitable to the theme week’s goal of supplementing the curriculum with music, art, dance, and cooking.
+L52: She designed an elaborate lesson plan that included instruction in the geography and culture of India, and she decorated her classroom with travel posters of India and with Indian textiles and fabrics. Classroom activities included instruction in cooking Indian food, making batik textiles and paisley designs, constructing mosaics out of beans, and replicating an Indian board game.
+L53: In addition, on one afternoon the class read a two-page story entitled “How Gan-esh got his Elephant Head.” The story described how, in a fit of anger, “SHIVA, THE MIGHTY GOD with the blue throat,” who initially did not realize that Ganesha was his son, cut off Ganesha’s head and then restored Ganesha to life by slaying an elephant and fitting the elephant’s head on Ganesha’s body. But see 【1†45 F.Supp.2d at】 383 nn.
+L54: 9-10 (According to legend, Ganesha was made of clay by his mother Parvati, Hindu goddess wife of Shiva. According to the Encyclopedia Britannica, Ganesha was beheaded by Shiva’s attendants in battle; to ease Parvati’s pain, Shiva promised to cut off the head of the first living creature he encountered— an elephant, as it happened — and join it to Ganesha’s body.) Reizes displayed in her classroom a variety of signs describing Ganesha, including the following:
+L55: > Ganesha’s head was accidentally cut off when he was a child. Shiva, in a panic, replaced it with the first head he found’ — an elephant’s head.
+L56: 
+L57: > Ganesha is a round-bellied, good-natured Hindu God. He loves to eat.
+L58: 
+L59: > Those who worship Ganesha bring him gifts of fruit.
+L60: 
+L61: > Ganesha is the god of wisdom and success. People pray to him before they begin important projects.
+L62: 45 F.Supp.2d. at 383. Following the reading of the story, students constructed depictions of Ganesha. One, introduced at trial, consisted of a construction-paper representation of the head of an elephant with eyes, ears, and a trunk.
+L63: During the 1993-94 school year, Reizes taught a third-grade class that included Joseph DiNozzi and Tiana DiBari. In a social studies unit on India, Reizes again read the Ganesha story. She also planned for her students to construct likenesses of Ganesha out of clay; however, ‍‌​‌​​‌​‌‌‌‌‌​​‌​​​‌​​​‌‌‌‌‌‌‌​​​​‌​​​‌‌‌​​‌‌‌‌‌​​‌‌​‌​‌​​‌​‌‌​​‌‌​​​‌​​‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​‌​‌‌‌​‌‍the class ran out of time, and that project was not begun.
+L64: Reizes testified at trial that there was no religious significance in her instruction about Ganesha or about India in general and that she was not attempting to convey any religious message.
+L65: Plaintiffs contended that the compulsion inherent in such classroom activities violated the minor plaintiffs’ Free Exercise rights. In addition, Mary Ann DiBari and plaintiffs’ expert witness, Father Mitchell Pacwa, S.J., testified at trial that creating representations of Ganesha violated the Second Commandment’s proscription against fashioning images of gods of other religions.
+L66: 
+L67: 2. Worry Dolls
+L68: The construction of worry dolls was part of a project sponsored by Pound Ridge Elementary’s Discovery Center for arts and crafts. These brightly colored dolls are about 1 inch high and appear to be made from toothpicks, thread, and wire. Joseph DiNozzi made worry dolls as part of the project. Such dolls were also sold at the school store, and Joseph testified that a store employee told him that if he put the dolls under his pillow at night, they “would chase away ... bad dreams.”
+L69: Ross Altman testified that he constructed worry dolls in a class taught by Reizes. He stated that Reizes told the class to place the worry dolls “underneath our pillows and pray to the gods and take all our worries ... away and dream.” Reizes denied having made such a statement.
+L70: 
+L71: Father Pacwa testified that such instructions violated Catholic tenets against the use of charms.
+L72: 
+L73: 3. Earth Day
+L74: Each year, Fox Lane High observed “Earth Day,” a day of activities centered around the theme of conservation of the environment and preservation of the planet. The general thrust of the program was usually the same. The celebration was organized by Youth in Action, a high-school club that promoted social and environmental awareness. Customarily, a globe five feet in diameter was placed in a circular outdoor area; students, grouped by grade, gathered around the globe.
+L75: Local senior citizens were invited to the ceremony in order to foster community spirit. Representatives of each class presented symbolic gifts to the Earth in the form of speeches. Youth in Action’s faculty advis- or Dale Saltzman normally spoke of “reflecting on the simple things that the Earth provides for us and maybe, for one day, not taking them for granted.”
+L76: The program components varied somewhat from year to year. In some years, the ceremony would begin with a drum roll as students took their places. One year, a display of tombstones was used to symbolize endangered and extinct species. In 1996, Earth Day focused on the preservation of rain forests, with students marching around the circle carrying banners displaying the current state of rain forests around the world.
+L77: In 1998, the event included speeches by Fox Lane High faculty members as well as a musical performance.
+L78: Jon DiNozzi testified that at one Earth Day event, Saltzman stated that “[w]e came from the Earth, we’re part of the Earth and we’re all involved in this cycle. One day we’ll become [dead] and then we’ll go back to the Earth.” 【1†45 F.Supp.2d at 394】 (alteration in original). DiNozzi testified that in another year, Saltzman made a speech “mainly about there’s just too many people on this Earth” and about how “[w]e need to do something about it.”
+L79: Bedford characterized the Earth Day activities as, in part, an effort to comply with § 810 of the New York Education Law, which dates back to 1888 and designates the last Friday of April as “Conservation Day.” The statute provides as follows:
+L80: > It shall be the duty of the authorities of every public school in this state to assemble the pupils in their charge on that day in the school building, or elsewhere, as they may deem proper, and to provide for and conduct (1) such exercis es as shall tend to encourage the planting, protection and preservation of trees and shrubs, and an acquaintance with the best methods to be adopted to accomplish such results, and (2) such lectures, pictures or tours, as shall tend to increase the interest and knowledge of such pupils in the fish and wild life, soil and water of the state.
+L81: N.Y. Educ. Law § 810(2) (McKinney 2000). According to the Fox Lane High principal, attendance at Earth Day was not compulsory.
+L82: 
+L83: 4. The “Listening to Nature” Tape
+L84: Ruthann Funari, who taught life sciences at Fox Lane Middle, instructed her students to compile “data sheets” in class with respect to each season of the year.
+L85: While students were noting their observations in their respective science research notebooks, Funari would occasionally play music in the background, which she regarded “as a way to have the natural environment which they had observed be more present in the classroom.” For the summer study, she played Vivaldi’s “Four Seasons.” During the fall, she played a tape called “Listening to Nature.” The latter, which has a companion book that was not read to the students, contains various sounds of nature, such as birds, frogs, rivers, and ocean waves.
+L86: At several times on the tape, a voice can be heard intoning nature-theme passages such as the following excerpt (attributed in the accompanying book to turn-of-the century naturalist John Muir):
+L87: > Here is calm so deep, grasses cease waving ... wonderful how completely everything in wild nature fits into us, as if truly part and parent of us. The sun shines not on us, but in us. The rivers flow not past, but through us, thrilling, tingling, vibrating every fiber and cell of the substance of our bodies, making them glide and sing.
+L88: 
+L89: J. Cornell, Listening to Nature, How to Deepen Your Awareness of Nature 42 (1987). The tape also included prayers such as the following Taos Indian invocation:
+L90: > Now this is what we believe.
+L91: 
+L92: > The Mother of us all is Earth.
+L93: 
+L94: > The Father is the Sun.
+L95: 
+L96: > The Grandfather is the Creator
+L97: 
+L98: > Who bathed us with his mind
+L99: 
+L100: > And gave life to all things.
+L101: 
+L102: > The Brother is the beasts and trees.
+L103: 
+L104: > The Sister is that with wings.
+L105: 
+L106: > We are the children of Earth
+L107: 
+L108: > And do it no harm in any way.
+L109: 
+L110: > Nor do we offend the Sun
+L111: 
+L112: > By not greeting it at dawn.
+L113: 
+L114: > We praise our Grandfather for his creation.
+L115: 
+L116: > We share the same breath together—
+L117: > The beasts, the trees, the birds, the man.
+L118: 
+L119: Id. at 64. The tape also included the following passage (attributed in the book to Saint Francis of Assissi):
+L120: 
+L121: > Lord, make me an instrument of Thy peace.
+L122: 
+L123: > Where there is hatred, let me sow love;
+L124: 
+L125: > Where there is injury, pardon;
+L126: 
+L127: > Where there is doubt, faith;
+L128: 
+L129: > Where there is despair, hope;
+L130: 
+L131: > Where there is darkness, light;
+L132: 
+L133: > Where there is sadness, joy.
+L134: 
+L135: > O Divine Master, grant that I may not so much seek
+L136: 
+L137: > To be consoled, as to console,
+L138: > To be understood, as to understand,
+L139: 
+L140: > To be loved, as to love.
+L141: 
+L142: > For it is in giving that we receive, It is in pardoning,
+L143: 
+L144: > that we are pardoned,
+L145: 
+L146: > It is in dying to self that we are born to eternal life.
+L147: 
+L148: Id. at 74. Funari testified that she lowered the volume on the tape whenever words were being spoken. Mary Ann DiBari testified, however, that her granddaughter Tiana heard the prayers or invocations.
+L149: 
+L150: C. Other Challenged Activities
+L151: Plaintiffs also challenged a number of other programs. They included the following.
+L152: 
+L153: 1. Magic: The Gathering
+L154: Magic: The Gathering (“MTG” or “Magic”) is a complex, strategy-based card game that was played by students in extracurricular clubs that met before school at Pound Ridge Elementary and after school at Fox Lane Middle. Each MTG player is a “wizard” attempting to reduce his opponents’ “life total” points from twenty to zero. By drawing and playing cards, players attempt to summon “creatures” and cast “spells” in order to reduce their opponents’ point total.
+L155: The playing cards include depictions of zombies, goblins, vampires, and similar creatures. Students were allowed to participate in MTG only with prior written parental consent.
+L156: Plaintiffs challenged the School District’s endorsement and promotion of MTG, contending, inter alia, that the game glorified worship of Satan, the practice of witchcraft, and blasphemy against Jesus Christ, and that the sponsorship subtly coerced students into participating.
+L157: 
+L158: 2. Yoga Exercises
+L159: In 1998, Fox Lane High’s athletic director invited Agia Akal Singh Khalsa, a Sikh minister, to conduct yoga exercises for students in gym class.
+L160: Khalsa, who wore a Sikh turban, a traditional Sikh robe, and the beard of a Sikh minister, has a trademark name of “the Yoga Guy.” He led the class in breathing and stretching exercises designed to achieve relaxation, followed by “positive affirmationfs]” such as “I am happy, I am good.” He received a small stipend from School District funds for his time and travel.
+L161: Jon DiNozzi, on request, was allowed to opt out of the yoga exercises. Krystal DiBari testified that she was told that if she did not attend the yoga exercise class, she would be recorded as having cut class and would be ordered to serve detention; but she conceded that, although she did not attend, she did not in fact receive either penalty.
+L162: 
+L163: Plaintiffs contended that use of a Sikh priest to conduct such exercises on school premises constituted an endorsement of Eastern religions.
+L164: 
+L165: 3. Buddha
+L166: Reizes testified that she read to her third or fourth grade class a story about the life of Buddha. Plaintiffs contended that reading that story to young children had the effect of promoting Buddhism, and that because, they assumed, reading about the life of Jesus Christ would not be permissible, reading about the life of Buddha should likewise be impermissible.
+L167: 
+L168: 4. Quetzalcoatl
+L169: A teacher at Pound Ridge Elementary, as part of a historical presentation on Mexico, read her fifth-grade class a story about the Aztec bird god Quetzalcoatl. Some students were instructed to make an image of Quetzalcoatl out of cardboard, paper, and pipe cleaners. Students were also told that some persons believe that Quetzalcoatl will return to the world in the year 2012.
+L170: Plaintiffs contended that the study of Aztec religion, to the exclusion of the Christianity subsequently practiced by the majority of Mexicans, constituted a violation of the Establishment Clause, and that instructing students to create a depiction of Quetzalcoatl violated the Free Exercise Clause as well.
+L171: 
+L172: 5. “God Messed Up” and Other Poems
+L173: Another teacher at Pound Ridge Elementary gave her fourth-grade students the assignment of writing poems on topics of their choice. Thereafter, a collection of 32 of the poems, selected by the students, was published as a booklet entitled “Poetry by 4H.” Most of the poems concerned such commonplace topics as flowers, telephones, and dogs. Another, about a “fat-man,” read:
+L174: 
+L175: > There once was a fatman
+L176: 
+L177: > Who lived in a trash can
+L178: 
+L179: > Who outran Pac Man
+L180: 
+L181: > All the way to Spokane.
+L182: Plaintiffs complained, however, of the inclusion of two poems about God. One read
+L183: 
+L184: > GOD Messed Up....
+L185: 
+L186: > When he made cats
+L187: 
+L188: > He gave them the brains of bats
+L189: 
+L190: > With bloated legs
+L191: 
+L192: > And pointy ears.
+L193: 
+L194: > And some claws
+L195: 
+L196: > Made of SPEARS.
+L197: 
+L198: Another, entitled “Mess Up,” read
+L199: 
+L200: > God messed up when he made dogs
+L201: 
+L202: > He gave them the brains of frogs, (tiny)
+L203: 
+L204: > He gave them deformed bodies and
+L205: 
+L206: > Really shrimpy legs and hands
+L207: 
+L208: > And bushy tails and butts, P.U
+L209: 
+L210: > Guess what, he messed up on frogs, too.
+L211: Plaintiffs contended that the inclusion of these two poems contradicted Catholic teaching that God is omniscient and omnipotent, and hence violated the neutrality required by the Establishment Clause.
+L212: 
+L213: 6. The “DARE” Program
+L214: The Drug Abuse Resistance Education (“DARE”) Program is a nationwide, copyrighted educational program designed to teach public and parochial students to avoid drug abuse and violence. Trained police officers taught the DARE curriculum in the Bedford public schools. DARE teachings included several lessons that portrayed students in a variety of roles in which they might be lured into abusing drugs or committing violence.
+L215: Students were provided with advice and instructions about approaches to avoiding such temptations. The program included a “DARE box,” in which children could place questions — anonymously if they wished — that they were hesitant to ask in class. The DARE program did not include an instruction as to the morality of drug use; it did instruct that possession and use of unlawful substances is illegal.
+L216: Plaintiffs’ expert witness, psychologist Dr. William R. Coulson, testified that the DARE program constituted “nondirective psychotherapy” — that is, the encouragement of the expression of attitudes and feelings deriving from the “inner sel[f],” with the goal of spontaneously producing insightful understanding, without the need for a “wise man” to give instruction. Coul-son testified that DARE had this effect because it encouraged students, in Coul-son’s words, to “get ...
+L217: in touch with their deeper feelings about using drugs” even if they had never had occasion to consider using drugs in the first place. Plaintiffs contended principally that the DARE program violated the Free Exercise Clause, the Fourteenth Amendment right to privacy, and § 2504 of the New York Public Health Law, which prohibits the provision of health services without prior parental consent.
+L218: 7. Brain Stimulation Exercises
+L219: In 1995, Reverend Nancy Weber, a self-described psychic and minister in the Life Spirit Congregational Church, taught exercises in creativity, learning, and memory at Pound Ridge Elementary. She received a modest stipend to compensate her for her time and travel. Her activities at the school included playing music, conducting breathing exercises, and leading drawing exercises with the nondominant hand, designed to stimulate the brain, in particular its nondominant hemisphere.
+L220: Weber did not mention her ministry when she spoke with the students.
+L221: Plaintiffs contended that attempting to stimulate the brain’s nondominant hemisphere promoted New Age i*eligion, was antithetical to Catholic belief, and violated the Establishment and Free Exercise Clauses and their rights to privacy.
+L222: 
+L223: 8. Peer Facilitator Program
+L224: The Peer Facilitator Program at Fox Lane High brought juniors and seniors in contact with ninth graders starting high school in an attempt to orient the new students and help them adjust to high-school life. Topics discussed with peer facilitators ranged from academic issues regarding classes and teachers to social issues such as how to avoid succumbing to peer pressure with regard to sex, drugs, and alcohol.
+L225: Peer Facilitator Program materials included hypothetical questions for students to answer, such as imagining what they ■ would do if they suddenly changed gender, or how their conduct and perspective would change if they were told they had only one year to live. In general, teachers were not present at Peer Facilitator Program meetings.
+L226: Plaintiffs contended that the Peer Facilitator Program constituted “amateur psychotherapeutic sessions,” violating principally the First and Fourteenth Amendments and § 2504 of the New York Public Health Law.
+L227: 
+L228: 9. Meditation Exercises
+L229: In various classes at Pound Ridge Elementary and Fox Lane Middle, students were exposed to meditation exercises in which classroom lights were turned off and students were asked to imagine themselves in a strange place, or to imagine that their bodies were filling with blue liquid, and to attempt to empty their minds. Plaintiffs contended that these exercises principally violated the First and Fourteenth Amendments and § 2504 of the New York Public Health Law.
+L230: 
+L231: 10. The Ropes Challenge
+L232: The Ropes Challenge was a physical challenge course at Fox Lane High designed to promote leadership skills and teamwork in outdoor activities. Older students helped lead the course. Activities included a wide variety of exercises in which students climbed over or through obstacles or transported themselves and each other by means of ropes or logs, in all cases working together in order to achieve a common goal. Plaintiffs’ expert witness, Dr.
+L233: Coulson, testified at trial that this program was “an elaborate exercise in non-directive psychotherapy ... using group encounter therapeutic techniques.”
+L234: 11. Other Activities
+L235: 
+L236: Plaintiffs also challenged a variety of other activities, from which they sought to secure a right of opt-out. Those activities included
+L237: 
+L238: > —The Yale Decision Making Program at Fox Lane Middle, which included lessons on stress and stress management, as well as a relaxation exercise, in an effort to help students learn how to make productive and informed choices.
+L239: > —The Myers Briggs Personality Test, a multiple-choice examination used to assess personality types, administered to students at Fox Lane High.
+L240: 
+L241: > —Psychological counseling at Fox Lane High by a social worker on a variety of issues, occasionally including suicide counseling.
+L242: > —A homework assignment to Pound Ridge Elementary students to keep a journal on their observations of their daily lives and family members. The teacher gave instructions as to how to prevent others from reading portions the student did not want to share.
+L243: 
+L244: D. The District Court’s Findings of Fact and Conclusions of Law
+L245: In a decision issued on May 21,1999, the district court found that “[s]ome of the conduct complained of does not seem to have religious overtones, but much of it does.” 【1†45 F.Supp.2d at 372】. Noting that the basic thrust of the First Amendment’s Establishment Clause is “one of government neutrality towards religion,” id.
+L246: at 375, the court discussed United States Supreme Court cases addressing First Amendment issues, and concluded that “[bjecause this case affeet[ed] elementary and secondary public school children of young and impressionable age,” 【1†45 F.Supp.2d at 377】, the appropriate test was the coercion test set out in Lee v. Weisman, 【1†505 U.S. 577】, 587, 591, 【1†112 S.Ct. 2649】, 【1†120 L.Ed.2d 467】 (1992).
+L247: In Lee, the Supreme Court stated that “at a minimum, the Constitution guarantees that government may not coerce anyone to ... participate in religion or its exercise,” 【1†505 U.S. at 587】, 【1†112 S.Ct. 2649】. The district court stated that with respect to young persons, “[ejven a subtle coercive pressure by a government official to engage in religious activity may violate the First Amendment.” 【1†45 F.Supp.2d at 376】 (internal quotation marks omitted).
+L248: With respect to the Free Exercise Clause, the court stated that “[t]he free exercise of religion means, first and foremost, the right to believe and profess whatever religious doctrine one desires.” Id. at 378. Hence, “the First Amendment obviously excludes all ‘governmental regulation of religious beliefs as such.’ ” Id. at 378-79 (quoting Sherbert v. Verner, 【1†374 U.S. 398】, 402, 【1†83 S.Ct. 1790】, 【1†10 L.Ed.2d 965】 (1963)).
+L249: “The government may not compel affirmation of religious belief,” or “punish ‍‌​‌​​‌​‌‌‌‌‌​​‌​​​‌​​​‌‌‌‌‌‌‌​​​​‌​​​‌‌‌​​‌‌‌‌‌​​‌‌​‌​‌​​‌​‌‌​​‌‌​​​‌​​‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​‌​‌‌‌​‌‍the expression of religious doctrines it believes to be false,” or “impose special disabilities on the basis of religious views or religious status.” 【1†45 F.Supp.2d at 379】. In order to establish airee exercise claim, “ ‘it is necessary ...
+L250: for one to show the coercive effect of the enactment as it operates against him in the practice of his religion.’ ” Id. (quoting School District of Abington v. Schempp, 【1†374 U.S. 203】, 223, 【1†83 S.Ct. 1560】, 【1†10 L.Ed.2d 844】 (1963)). Such coercion “can be either direct or indirect.” 【1†45 F.Supp.2d at 379】.
+L251: The court described the issues in the present case as “the students’ right[s] to exercise their own religious beliefs free from state coercion, as well as the right[s] of the parents to control the religious upbringing and training of their minor children.” Id.
+L252: In order to prevail on a given claim, plaintiffs were required to show that coercion “infringe[d] on the Plaintiffs ability to receive an ‘important benefit’ from the state at the expense of the Plaintiffs right to the free exercise [of] his or her religion.” Id. Applying the above principles, the court found, to the extent pertinent to these appeals, that aspects of the programs involving Ganesha, worry dolls, Earth Day, and “Listening to Nature,” described in Part I.B.
+L253: above, violated plaintiffs’ Establishment Clause and Free Exercise Clause rights, and that the other challenged activities were not impermissible.
+L254: 1. Ganesha, Worry Dolls, EaHh Day, and the Nature Tape
+L255: 
+L256: The court found that the Pound Ridge Elementary lessons about Ganesha were largely permissible, but that the classes violated plaintiffs’ First Amendment rights to the extent that they required the students to create images of the Hindu god:
+L257: > Mrs. Reizes’ only purpose in teaching about Ganesha was to educate her stu‘dents about the Indian culture and society. Although Lord Ganesha is a deity of the modern Hindu religion worshiped by hundreds of millions of people, reading a story common to the Indian culture, as part of an innovative, structured lesson plan about a foreign country and its culture, does not have the purpose or effect of advancing or inhibiting religion .... Considering the relative amount of time that Mrs.
+L258: Reizes spent on reading the Ganesha story, this challenged activity should be seen as neither advancing or promoting the Hindu religion, but simply educating students about the Indian culture.... Likewise, in the context in which the story was read, the Court finds no indicia of any subtle coercive pressure to engage in the Hindu religion.
+L259: > This subtle coercive pressure is found, however, in the classroom projects of constructing images of Ganesha. It is merely fortuitous that the third grade students never actually made the clay images of Ganesha, as instructed, because they ran out of time. While reading the Ganesha story can be part of a neutral secular curriculum, this Court fails to find any educational justification for telling young impressionable students to construct images of a known religious god.
+L260: This part of the lesson, however benign in purpose or intent, has the appearance to a child of that age that the school is communicating a message endorsing Lord Ganesha and the Hindu religion. Equally impermissible under the First Amendment is the subtle coercive pressure of instructing young impressionable students to make images of a god other than their own in violation of their religious beliefs....
+L261: 【1†45 F.Supp.2d at 383-84】.
+L262: 
+L263: The court found that the sponsorship of worry dolls at Pound Ridge Elementary, either “by selling them in the school store, or encouraging students to make them in class or in the discovery center, and use them for relief from worry,” was unconstitutional because “[i]t prefers superstition over religion.” Id. at 385. The court found that this activity was
+L264: > a rank example of teaching superstition to children of a young and impressionable age. It assumes that an inanimate object has some occult power to relieve us from worry and assure a good night’s sleep. Father Pacwa testified, without contradiction, ... that the use of charms is forbidden by scripture and is an offense against the First Commandment. As Father Pacwa testified, “[t]he recent Catholic Catechism ... [prohibits] all forms of divination, magic and sorcery.”
+L265: 
+L266: Id.
+L267: The court found the Earth Day ceremonies at Fox Lane High violated the First Amendment because “[t]he worship of the Earth is a recognized religion (Gaia), which has been and is now current throughout the world.” Id. at 393. The Court found that “[t]he liturgy of Earth Day at Fox Lane High School ... evolved into a proceeding which takes on much of the attributes of the ceremonies of worship by organized religions” and which was in many respects “truly bizarre.” Id.
+L268: The court stated that Saltzman’s statement that all humans came from the Earth and will one day return to it was “clearly religious teaching” that echoed Genesis 3:19; and the court stated that his comment regarding the Earth’s overpopulation and the need to combat it was “directly contrary to the teaching of Genesis I.” Id. at 394.
+L269: > To state this unproven fact as an absolute ... involved the school district in teaching a doctrine directly contrary to the views of Roman Catholic students and many others. As Father Pacwa pointed out, “the implication would be that you would have to use some sort of birth control to stop this.
+L270: Also it takes a stance, a moral stance, on what is the problem of the world today, namely, too many people, instead of dealing with other moral issues of more political nature that prevent food from getting to people that need it.”
+L271: Id.
+L272: The district court also found that playing the “Listening to Nature” tape at Fox Lane Middle promoted “a creed worshiping the Earth.” Id. Implicitly rejecting Funari’s belief that, because she lowered the volume, her students could not hear the prayers on the tape, the court found that the playing of the tape constituted a “direct presentation to the children of an Earth-centered religious belief.” Id. at 395.
+L273: Describing the tape’s “essential thrust” as the “promotion of Earth worship and prayer to the Earth,” the court held that its playing to students “offend[ed] both aspects of [the religion clauses of] the First Amendment.” Id.
+L274: 2. Other Challenged Activities
+L275: 
+L276: The court dismissed plaintiffs’ challenges to other activities, including those described in Part I.C. above, finding that those activities were nonreligious in nature and did not violate any of plaintiffs’ rights under the First or Fourteenth Amendments or under state law.
+L277: 
+L278: As to Magic, or MTG, the court found that “[n]o reasonable person could regard sponsoring this game as a teaching of religion.” 【1†45 F.Supp.2d at 381】. It stated that
+L279: > [a]s the game itself is not religious in nature, Plaintiffs’ argument that the Defendants by allowing this extracurricular activity are advancing or promoting Satanism as a religion or the occult also fails.
+L280: Furthermore, since participation was voluntary and permitted only with written parental consent, and not during school hours, this Court finds that the school district neither asserted coercive pressure for students to participate in the game, nor did it infringe on plaintiffs’ right to the free exercise of their religion.
+L281: > Assuming, solely for the argument, that Magic: “The Gathering” was religious in nature, the evidence shows, and the Court finds, that no reasonable observer or participant could believe that the school district’s actions communicated a message of endorsement of the beliefs, if any, contained within the game.
+L282: To the contrary, the school district’s precautions to present the club as a mere extracurricular activity not endorsed by the school, but simply offered on school grounds not during school hours, is consistent with the Supreme Court’s decisions on the interplay between the competing principles of Free Speech, Free Exercise, and Establishment clauses of the First Amendment.
+L283: Id. at 381-82.
+L284: The court also found that the yoga exercises did not violate the constitution because “although the presenter was dressed in a turban and wore the beard of a Sikh minister, he did not in his yoga exercise presentation advance any religious con cepts or ideas.” Id. at 385. Similarly, the court found that the brain stimulation exercises did not violate the constitution because plaintiffs failed to produce any “evidence that Rev.
+L285: Weber, during her brief visit to the school, taught any religion or performed intuitive counseling, exercised her psychic powers or engaged in telepathy.” Id. at 392.
+L286: Thus, the court noted that although “[t]he entire Nancy Weber lecture may well have been nothing but humbug,” Weber had not “required the students to engage in a ‘bogus mystical experience’ as charged,” and the court “conclude[d] that on the totality of the evidence [the brain stimulation exercises] did not rise to the level of a First Amendment violation.” Id.
+L287: Nor did the court see any constitutional violation in the studies of the lives of Buddha and Quetzalcoatl. It found no evidence that the Buddha reading was “conducted in such a fashion as to sponsor belief in Buddha or to violate the First Amendment rights of Plaintiffs.” Id. at 387. It likewise found that the study of Quetzalcoatl did not promote belief in Quetzalcoatl and that no student was compelled to create a physical likeness of Quetzalcoatl. See id.
+L288: The court also noted that “[u]nlike Lord Ganesha, Quetzalcoatl is not currently worshiped in the world and [that] hanging the Quetzal Bird in class should not be regarded as the adoption of a religious symbol.” Id. Although students were informed that “some persons believe Quetzalcoatl will return to the world in the year 2012,” the court noted that “telling students ‘some persons believe’ is not the same as sponsoring that idea in the minds of the children.” Id.
+L289: As to the “God Messed Up” poems, the district court rejected plaintiffs’ contention that the poetry writing program violated the neutrality required by the Establishment Clause. The court noted that
+L290: > [t]he reasonable person or child reading the book of poems would assume that the authors meant it to be funny. The inclusion of these poems on a subject not dictated by the teacher does not constitute the endorsement of an anti-religious message, and indeed it is not certain that the message is intended to be anti-religious.
+L291: The poetry may have been inspired by “Ma and God,” a poem for children written by Shel Silverstein (deceased May 10, 1999), a distinguished humorous -poet for children writing in the tradition of A.A. Milne.
+L292: Id. at 388. The Silverstein poem, introduced by plaintiffs at trial, reads as follows:
+L293: 
+L294: > MA AND GOD
+L295: 
+L296: > God gave us fingers — Ma says, “Use your fork.”
+L297: 
+L298: > God gave us voices — Ma says, “Don’t scream.”
+L299: 
+L300: > Ma says eat broccoli, cereal and carrots.
+L301: 
+L302: > But God gave us tasteys [sic] for maple ice cream.
+L303: 
+L304: > God gave us fingers — Ma says, “Use your hanky.”
+L305: 
+L306: > God gave us puddles — Ma says, “Don’t splash.”
+L307: 
+L308: > Ma says, “Be quiet, your father is sleeping.”
+L309: 
+L310: > But God gave us garbage can covers to crash.
+L311: > God gave us fingers — Ma says, “Put your gloves on.”
+L312: 
+L313: > God gave us raindrops — Ma says, “Don’t get wet.”
+L314: 
+L315: > Ma says be careful, and don’t get too near to
+L316: 
+L317: > Those strange lovely dogs that God gave us to pet.
+L318: 
+L319: > God gave us fingers — Ma says, “Go wash ’em.”
+L320: 
+L321: > But God gave us coal bins and nice dirty bodies.
+L322: 
+L323: > And I ain’t too smart, but there’s one thing for certain—
+L324: 
+L325: > Either Ma’s wrong or else God is.
+L326: S. Silverstein, Where the Sidewalk Ends 119 (1974). The district court found that Silverstein too was
+L327: 
+L328: > apparently intending to be funny. Without endorsing any of the poetry, the Court does not perceive that this evidence arises to the level of a promotion or disparagement of a religious concept. ... No First Amendment violation is found....
+L329: 
+L330: 【1†45 F.Supp.2d at 388】 (footnote omitted).
+L331: Similarly, the court found no religious significance in the other programs described in Part I.C. above, such as DARE, the Peer Facilitator Program, and meditation exercises, nor any cognizable violation of state law. It found, for example, that
+L332: 
+L333: > [t]he DARE Program is relatively free of moral overtones, contains no religious emphasis whatsoever, and leaves the “decision” whether or not to use tobacco, alcohol or drugs to the student after evaluating both positive and negative effects.
+L334: 
+L335: Id. at 390.
+L336: Finally, the court held that the various claimed invasions of family privacy did not violate any constitutional or statutory provision. Citing Immediato v. Rye Neck School District, 【1†73 F.3d 454】, 462 (2d Cir.) (“Immediate”), cert. denied, 【1†519 U.S. 813】, 【1†117 S.Ct. 60】, 【1†136 L.Ed.2d 22】 (1996), the district court stated that an activity that is alleged to violate
+L337: > the claimed right of a parent to direct the upbringing of his or her children ... [is to] be analyzed only under the minimal rational basis standard of review. Thus, the defendants need only prove that the activities at issue are based on a legitimate state interest and that the activities are rationally related to furtherance of that objective.
+L338: 【1†45 F.Supp.2d at 396】. The court further noted that Immediate recognized that the state has a “‘compelling’ interest in educating its youth, to prepare them to participate effectively and intelligently in our open political system, and to be self-reliant and self-sufficient participants in society.” 【1†45 F.Supp.2d at】 396 (quoting Immediate, 【1†73 F.3d at 461】).
+L339: Finding that the journal assignments, “although intrusive in nature, do further the state’s compelling objective of education,” the court held that they did not constitute a violation of the Fourteenth Amendment. 【1†45 F.Supp.2d at 396】.
+L340: E. Denial of Bedford’s Motion To Dismiss Challenges to the Pound Ridge Elementary Activities for Loss of Standing
+L341: After the district court’s decision and prior to the entry of judgment, the parties brought to the district court’s attention two changes that had occurred or were about to occur in the residence of the plaintiff families. First, Bedford informed the court that it had just learned that in March 1998, the Altman family had moved to Connecticut.
+L342: Since Ross Altman was the only plaintiff who at the time of trial in 1999 was young enough to attend elementary school, and he and his family had by that time moved out of the School District, Bedford moved to dismiss all claims challenging activities at Pound Ridge Elementary on the ground of lack of subject matter jurisdiction because no plaintiff any longer had standing to challenge those activities.
+L343: In addition, in mid-July 1999, Cecile D. DiNozzi filed an affidavit with the district court, stating that on July 24, 1999, she and her family would be relocating to Delaware.
+L344: In a Memorandum and Order dated July 23, 1999 (“Standing Opinion”), the district court denied Bedford’s motion. The court noted that because the Altman family no longer resided within the district as of March 1998, and the departure of the DiNozzi family was imminent, the only plaintiffs who might have standing were Mary Ann DiBari and her grandchildren. The DiÉari grandchildren were beyond elementary-school age by time of trial; but the court concluded that “[a] municipal taxpayer such as Ms.
+L345: DiBari has standing to complain about Free Exercise or Establishment Clause violations accomplished in a school within the municipality by its paid employees.” Standing Opinion at 5 (emphasis in original).
+L346: > Ms. DiBari is still a taxpayer within the defendant Bedford Central School District, and thus responsible for the funding of the education of her two grandchildren who are still enrolled in schools within the defendant district, as well as funding the general budget for general school district expenses. The Court also notes that the final injunction granted to the plaintiffs is to be enforced district-wide and is not limited to the specific school where the challenged activity occurred initially.
+L347: > As a taxpayer, Ms. DiBari continues to have a personal stake in the outcome of this litigation....
+L348: > This Court’s decision after trial in this case is explicit that the defendant district has engaged in conduct that violated the Establishment Clause of the First Amendment of the Constitution. The record is clear that unless prevented by the court, the activities will continue in the future. Public money supported that conduct and those who engaged in it. Actions of the school district are funded, in large part, by local real property taxes.
+L349: Accordingly, the Court maintains subject matter jurisdiction over this case by reason of the municipal taxpayer standing of plaintiff Mary Ann DiBari as well as her status as legal guardian of her two grandchildren.
+L350: Id. at 3-4.
+L351: 
+L352: F. The Final Judgment
+L353: 
+L354: On July 23, 1999, the court entered its final judgment, holding, to the extent pertinent to Bedford’s appeal, that activities with respect to Earth Day ceremonies, nature worship, worry dolls, and Ganesha image construction activities on school premises violated plaintiffs’ rights under the Establishment and Free Exercise Clauses of the First Amendment. To the extent pertinent to the cross-appeal, the court dismissed all of plaintiffs’ challenges to other activities.
+L355: The court entered an injunction containing mandatory and prohibitory provisions. It ordered Bedford to
+L356: > adopt and publish guidelines to teachers and others to insure that they will abide by the Supreme Court’s standards set forth in the cases quoted in this Court’s Order and Opinion, so as to avoid coercing any student to participate in religion or its exercise or to violate any religious precept held by a child or his or her parents, and to further avoid sponsoring or disparaging religious beliefs held by students and or their parents.
+L357: Final Judgment and Permanent Injunction at 2. It enjoined and restrained Bedford and most of the named individual defendants
+L358: > A. From sponsoring worship of the Earth or presentation of a liturgy addressed to the Earth as if it were a creator or divine, including any symbolic presentation of gifts to the Earth, the erection of “symbolic structures” equal to an altar, a chorus of ceremonial drums, or any globe on bamboo sticks or other totem serving as a focal point of the worship service, or any religious teaching in connection therewith;
+L359: > B. From sponsoring prayers to the Earth or any creed of worshiping the Earth ‍‌​‌​​‌​‌‌‌‌‌​​‌​​​‌​​​‌‌‌‌‌‌‌​​​​‌​​​‌‌‌​​‌‌‌‌‌​​‌‌​‌​‌​​‌​‌‌​​‌‌​​​‌​​‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​‌​‌‌‌​‌‍by means of audio tape or otherwise;
+L360: > C. From sponsoring, instructing or encouraging the fashioning of charms in the form of so-called “worry dolls” by students in the Discovery Center at Pound Ridge Elementary School or elsewhere in the District, the sale of said charms in any school store, or from instructing or suggesting to students through school personnel or otherwise that said charms have supernatural powers to “chase away your bad dreams,” “take away all our worries,” or any other supernatural or occult power;
+L361: > D. From directing or encouraging students to make likenesses or images of the Hindu god, Lord Ganesha, or any other god.
+L362: 
+L363: Id. at 3-4. The judgment also granted plaintiffs attorneys’ fees and disbursements totaling $106,856.61.
+L364: 
+L365: G. The Present Appeals
+L366: The School District has appealed, contending principally that the injunction and the rulings that the School District violated plaintiffs’ rights should be vacated. Plaintiffs have cross-appealed, contending that the district court erred in dismissing their challenges to the activities described in Part I.C.
+L367: For the reasons that follow, we conclude principally that the district court should have dismissed for lack of subject matter jurisdiction, because of mootness, plaintiffs’ challenges to any activities that were not found to have occurred at schools other than Pound Ridge Elementary; that the challenges to the activities at Fox Lane Middle likewise became moot after the entry of judgment and must also be dismissed; that the court erred in ruling that plaintiffs’ First Amendment rights were violated; and that the district court’s dismissals of plaintiffs’ nonmoot claims were correct.
+L368: II. SUBJECT MATTER JURISDICTION
+L369: 
+L370: We turn first to Bedford’s challenge to the denial of its posttrial motion to dismiss, for lack of jurisdiction due to plaintiffs’ loss of standing, all challenges to activities at Pound Ridge Elementary, and to the matter of whether challenges to the activities at Fox Lane Middle also have become moot.
+L371: 
+L372: A. Standing and Mootness
+L373: The Constitution limits the jurisdiction of Article III courts to matters that present actual cases or controversies. See U.S. Const, art. Ill, § 2, cl. 1. This limitation means that when a plaintiff brings suit in federal court, she must have standing to pursue the asserted claims. It also generally means that if the plaintiff loses standing at any time during the pendency of the proceedings in the district court or in the appellate courts, the matter becomes moot, and the court loses jurisdiction.
+L374: See generally Church of Scientology of California v. United States, 【1†506 U.S. 9】, 12, 【1†113 S.Ct. 447】, 【1†121 L.Ed.2d 313】 (1992) (“It has long been settled that a federal court has no authority to give opinions upon moot questions or abstract propositions, or to declare principles or rules of law which cannot affect the matter in issue in the case before it.” (internal quotation marks omitted)).
+L375: In order to have standing to bring suit, a plaintiff must allege “injury in fact” to his or her preexisting, legally pro tected interest; such injury must be “(a) concrete and particularized ... and (b) actual or imminent, not conjectural or hypothetical.” Lujan v. Defenders of Wildlife, 【1†504 U.S. 555】, 560, 【1†112 S.Ct. 2130】, 【1†119 L.Ed.2d 351】 (1992) (internal quotation marks omitted). Particularized “mean[s] that the injury must affect the plaintiff in a personal and individual way.” Id. at 560 n.
+L376: 1, 【1†112 S.Ct. 2130】. A plaintiff “ ‘generally must assert his own legal rights and interests, and cannot rest his claim to relief on the legal rights or interests of third parties.’ ” Valley Forge Christian College v. Americans United for Separation of Church & State, Inc., 【1†454 U.S. 464】, 474, 【1†102 S.Ct. 752】, 【1†70 L.Ed.2d 700】 (1982) (quoting Warth v. Seldin, 【1†422 U.S. 490】, 499, 【1†95 S.Ct. 2197】, 【1†45 L.Ed.2d 343】 (1975)).
+L377: The rare exceptions to this rale generally involve situations in which the plaintiff has a close relation with the third party and “there exists some hindrance to the third party’s ability to protect his or her own interests.” Edmonson v. Leesville Concrete Co., 【1†500 U.S. 614】, 629, 【1†111 S.Ct. 2077】, 【1†114 L.Ed.2d 660】 (1991). Parents generally have standing to assert the claims of their minor children. See, e.g., Engel v. Vitale, 【1†370 U.S. 421】, 423, 【1†82 S.Ct.
+L378: 1261】, 【1†8 L.Ed.2d 601】 (1962); Smith v. Organization of Foster Families for Equality and Reform, 【1†431 U.S. 816】, 841 n. 44, 【1†97 S.Ct. 2094】, 【1†53 L.Ed.2d 14】 (1977).
+L379: At issue here is the mootness doctrine, for “[t]he usual rule in federal cases is that an actual controversy must exist at stages of appellate or certiorari review, and not simply at the date the action is initiated.” Roe v. Wade, 【1†410 U.S. 113】, 125, 【1†93 S.Ct. 705】, 【1†35 L.Ed.2d 147】 (1973).
+L380: “While the standing doctrine evaluates [a litigant’s] personal stake as of the outset of the litigation, the mootness doctrine ensures that the litigant’s interest in the outcome continues to exist throughout the life of the lawsuit ... including the pen-dency of the appeal.” Cook v. Colgate, 【1†992 F.2d 17】, 19 (2d Cir.1993). Thus, even as to claims that plaintiffs originally had standing to assert, the court must determine whether those claims remain live controversies or have become moot.
+L381: “ ‘A case becomes moot when the issues presented are no longer live or the parties lack a legally cognizable interest in the outcome.’ ” Freedom Party of New York v. New York State Board of Elections, 【1†77 F.3d 660】, 662 (2d Cir.1996) (quoting New York City Employees’ Retirement System v. Dole Food Co., 【1†969 F.2d 1430】, 1433 (2d Cir.1992) (internal quotation marks omitted)). In Doremus v. Board of Education, 【1†342 U.S. 429】, 【1†72 S.Ct. 394】, 【1†96 L.Ed.
+L382: 475】 (1952), for example, the plaintiffs challenged a state statute providing for the reading, without comment, of five verses of the Old Testament at the opening of each public-school; one of the plaintiffs asserted standing on the ground, inter alia, that his daughter was a public-school student. The Supreme Court rejected that ground, however, noting that the daughter “had graduated from the public schools before th[e] appeal was taken to th[e Supreme] Court,” id. at 432, 【1†72 S.Ct.
+L383: 394】, and stating that “[o]bviously no decision we could render now would protect any rights she may once have had[;] ... this Court does not sit to decide arguments after events have put them to rest,” id. at 432-33, 【1†72 S.Ct. 394】.
+L384: If a claim has become moot prior to the entry of final judgment, the district court generally should dismiss the claim for lack of jurisdiction. See, e.g., Campbell v. Greisberger, 【1†80 F.3d 703】, 705 (2d Cir.1996) (affirming mootness dismissal). Similarly, if a claim becomes moot between the entry of final judgment and the completion of appellate review, the appellate court usually must either dismiss the ap peal, see, e.g., Iron Arrow Honor Society v. Heckler, 【1†464 U.S. 67】, 72-73, 【1†104 S.Ct.
+L390: 848】, 【1†43 L.Ed.2d 74】 (1975) (per curiam) (dismissing as moot a challenge by high-school students to regulation of their school newspaper, after the Court learned at oral argument that all plaintiffs had graduated); Fox v. Board of Trustees, 【1†42 F.3d 135】, 140 (2d Cir.1994) (pursuit of First Amendment challenge to regulation barring private commercial businesses from conducting sales demonstrations in students’ dormitory rooms mooted by complaining students’ graduation), cert. denied, 【1†515 U.S.
+L391: 1169】, 【1†115 S.Ct. 2634】, 【1†132 L.Ed.2d 873】 (1995); Cook v. Colgate, 【1†992 F.2d at 19】 (gender discrimination claim under Title IX of the Education Amendments of 1972, 20 U.S.C. § 1681-1688, mooted by graduation of student members of women’s ice hockey team).
+L392: B. Standing To Assert First Amendment Claims
+L393: To have standing to pursue a claimed violation of the Free Exercise Clause, a plaintiff must allege that her own “particular religious freedoms are infringed.” School District of Abington v. Schempp, 【1†374 U.S. at】 224 n. 9, 【1†83 S.Ct. 1560】. For example, in McGowan v. Marlyand, 【1†366 U.S. 420】, 【1†81 S.Ct.
+L394: 1101】, 【1†6 L.Ed.2d 393】 (1961), the plaintiff businessmen were held not to have standing to bring a Free Exercise Clause challenge to Sunday closing laws based on “only economic injury to themselves,” without an “allegation of] any infringement of their own religious freedoms due to Sunday closing,” id. at 429, 【1†81 S.Ct. 1101】. Likewise, in Harris v. McRae, 【1†448 U.S. 297】, 【1†100 S.Ct. 2671】, 【1†65 L.Ed.2d 784】, reh’g denied, 【1†448 U.S. 917】, 【1†101 S.Ct.
+L395: 39】, 【1†65 L.Ed.2d 1180】 (1980), indigent pregnant women were held not to have standing to challenge, under the Free Exercise Clause, a law that limited the use of federal funds to reimburse costs of abortions under the Medicaid program where no named plaintiff “alleged, much less proved, that she sought an abortion under compulsion of religious belief,” id. at 320, 【1†100 S.Ct. 2671】; see also id. at 321, 【1†100 S.Ct.
+L396: 2671】 (“ ‘[I]t is necessary in a free exercise case for one to show the coercive effect of the enactment as it operates against him in the practice of his religion.’ ” (quoting Schempp, 【1†374 U.S. at 223】, 【1†83 S.Ct. 1560】)).
+L397: In contrast, “the requirements for standing to challenge state action under the Establishment Clause, unlike those relating to the Free Exercise Clause, do not include proof that particular religious freedoms are infringed.” Schempp, 【1†374 U.S. at】 224 n. 9, 【1†83 S.Ct. 1560】. Thus, standing to assert an Establishment Clause claim may rest either on the plaintiffs direct exposure to the challenged activity, see, e.g., id.
+L398: (students attending a public school, and them parents, have standing to challenge a program of Bible reading in the school because they are “directly affected by the laws and practices against which their complaints are directed”), or, in certain situations, on the plaintiffs status as a taxpayer, see, e.g., Flast v. Cohen, 【1†392 U.S. 83】, 103-04, 【1†88 S.Ct. 1942】, 【1†20 L.Ed.2d 947】 (1968); Doremus v. Board of Education, 【1†342 U.S. at 433-35】, 【1†72 S.Ct. 394】.
+L399: In Doremus, one of the plaintiffs asserting an Establishment Clause challenge to the public-school-Bible-reading practice claimed to have standing not only on the basis that he had a daughter subjected to the reading (a basis mooted by her graduation), but also on the basis that he was “a citizen and taxpayer of the Borough of Hawthorne in the State of New Jersey, ... that Hawthorne has a high school supported by public funds[, and that in] this school the Bible is l‘ead,” id. at 433, 【1†72 S.Ct. 394】.
+L400: The Supreme Court rejected taxpayer status as a basis for standing, however, because the Doremus gx-ievance was not that the plaintiffs were taxed a measurable amount of money but rather that they objected to the practice on religious grounds. The Court stated that
+L401: > [t]hex*e is no allegation that this activity is supported by any separate tax or paid for from any particular appropriation or that it adds any sum whatever to the cost of conducting the school. No information is given as to what kind of taxes are paid by appellants and there is no averment that the Bible reading increases any tax they do pay or that as taxpayers they are, will, or possibly can be out of pocket because of it.
+L402: Id. at 433, 【1†72 S.Ct. 394】 (emphasis added). The Court reiterated the view it had stated in Com. of Massachusetts v. Mellon, 【1†262 U.S. 447】, 488, 【1†43 S.Ct. 597】, 【1†67 L.Ed. 1078】 (1923), commonly known as Frothingham v. Mellon, that
+L403: > “[t]he party who invokes the power must be able to show, not only that the statute is invalid but that he has sustained or is immediately in danger of sustaining some direct injury as a x*esult of its enforcement, and not merely that he suffers in some indefinite way in common with people genex-ally.”
+L404: Doremus, 【1†342 U.S. at 434】, 【1†72 S.Ct. 394】 (quoting Mellon, 【1†262 U.S. at 488】, 【1†43 S.Ct. 597】). The Doremus Court distinguished Everson v. Board of Education, 【1†330 U.S. 1】, 【1†67 S.Ct. 504】, 【1†91 L.Ed. 711】 (1947), in which it had found a justiciable controversy, because Everson “showed a measurable appropriation or disbursement of school-district funds occasioned solely by the activities complained of.” Doremus, 【1†342 U.S. at 434】, 【1†72 S.Ct. 394】. The Doremus Court stated that
+L405: > [t]he taxpayer’s action can meet this test, but only when it is a good-faith pocketbook action. It is apparent that the grievance which it is sought to liti gate here is not a direct dollars-and-cents injury but is a religious dijference. If appellants established the requisite special injury necessary to a taxpayer’s case or controversy, it would not matter that their dominant inducement to action was more religious than mercenary.
+L406: It is not a question of motivation but of possession of the requisite financial interest that is, or is threatened to be, injured by the unconstitutional conduct. We find no such direct and particular financial interest here. If the Act may give rise to a legal case or controversy on some behalf, the appellants cannot obtain a decision from this Court by a feigned issue of taxation.
+L407: Id. at 434-35, 【1†72 S.Ct. 394】 (emphases added).
+L408: This Court, in addressing the question of a municipal taxpayer’s standing to challenge municipal activities, has stated that although that standing does not depend on the plaintiffs abihty to show a “likelihood that resulting savings will inure to the benefit of the taxpayer,” United States v.
+L409: City of New York, 【1†972 F.2d 464】, 466 (2d Cir.1992), “under Frothingham we presume a municipal taxpayer’s relationship to the municipality is ‘direct and immediate’ such that the taxpayer suffers concrete injury whenever the challenged activity involves a measurable appropriation or loss of revenue,” id. at 470 (internal quotation marks omitted). See also Board of Education v.
+L410: New York State Teachers Retirement System, 【1†60 F.3d 106】, 110-11 (2d Cir.1995) (municipal taxpayer standing requires ability to identify a “measurable appropriation or loss of revenue” attributable to the challenged activities (internal quotation marks omitted)).
+L411: C. The Present Case
+L412: These principles affect federal jurisdiction with respect to plaintiffs’ challenges to activities at both Pound Ridge Elementary and Fox Lane Middle. When this action was commenced, at least one plaintiff was eligible to attend Pound Ridge Elementary, at least one was attending or eligible to attend Fox Lane Middle, and at least one was attending or eligible to attend Fox Lane High.
+L413: When the case was tried in 1999, however, Ross Altman was the only plaintiff who was not beyond elementary-school age; and he and his family had previously moved out of the School District, relocating to the State of Connecticut. Thus, by the time of trial, no plaintiff could claim any direct injury from activities conducted at Pound Ridge Elementary.
+L414: Accordingly, plaintiffs’ Free Exercise Clause challenges to those activities should have been dismissed for lack of jurisdiction because they had become moot. Although the district court ruled that the challenges to activities at that school were not moot because Mary Ann DiBari had standing as a municipal taxpayer, that ruling was error as to claims under the Free Exercise Clause because none of the DiBaris could meet the requirement that they assert violations of their own particular religious freedoms.
+L415: For similar reasons, plaintiffs’ Free Exercise Clause challenges to activities at Fox Lane Middle became moot prior to this appeal. At the time of trial, Krystal DiBari was already a high-school student; the only plaintiff attending Fox Lane Middle was Tiana DiBari. Tiana graduated from Fox Lane Middle in 1999.
+L416: And although one or more of the DiNozzi children remained age-eligible to attend that school, the DiNozzi family relocated to Delaware on July 24, 1999, the day after judgment was entered in the district court. Thus, these events have left no plaintiff who, during this appeal, can show that activities at Fox Lane Middle infringe his or her own particular religious freedoms. Accordingly, the Free Exercise Clause challenges to activities at Fox Lane Middle too must be dismissed for lack of jurisdiction.
+L417: Although standing to assert claims under the Establishment Clause may rest instead on a showing of taxpayer injury, we conclude that the moves of the Altman and DiNozzi families out of the School District and the graduation of Tiana DiBari from Fox Lane Middle also mooted plaintiffs’ Establishment Clause challenges to activities at Pound Ridge Elementary and Fox Lane Middle, for we disagree with the district court’s conclusion that Mary Ann DiBari had taxpayer standing.
+L418: In reaching its conclusion, the district court stated that “[pjublic money supported [the challenged] conduct and those who engaged in it,” Standing Opinion at 4, and that taxpayers are responsible for “funding‘the general budget for general school district expenses,” id. at 3.
+L419: Such general findings, however, are not sufficient; what was required for the establishment of taxpayer standing to complain of activities at Pound Ridge Elementary or Fox Lane Middle was a showing of a measurable appropriation or loss of revenue attributable to the challenged activities at those schools. We see no indication that such a shoving was made.
+L420: We have seen no evidence, for example, that purchases of crayons, clay, or construction paper were made ‍‌​‌​​‌​‌‌‌‌‌​​‌​​​‌​​​‌‌‌‌‌‌‌​​​​‌​​​‌‌‌​​‌‌‌‌‌​​‌‌​‌​‌​​‌​‌‌​​‌‌​​​‌​​‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​‌​‌‌‌​‌‍solely for the activities that plaintiffs challenged. The only expenditure adverted to by the district court with respect to either of those schools was a “modest stipend,” 【1†45 F.Supp. at】 392 n.
+L421: 17, to Weber for the brain stimulation session, which consisted of music, breathing exercises, and drawing exercises with the nondominant hand- — all found to be unrelated to religion. The court described the Weber venture as but a “brief visit,” id. at 392, did not specify the “modest” amount she received, and made no finding that there was any measurable appropriation to fund her visit.
+L422: We also reject the district court’s view that a municipal taxpayer has standing to complain of school activities within the municipality simply because they are conducted “by its paid employees,” Standing Opinion at 5. Nearly all governmental activities are conducted or overseen by employees whose salaries are funded by tax dollars. To confer taxpayer standing on such a basis would allow any municipal taxpayer to challenge virtually any governmental action at any time.
+L423: Article III, as interpreted by the Supreme Court, re-’ quires a good deal more.
+L424: In sum, we conclude that the Altmans and the DiNozzis no longer have standing to pursue any of the claims asserted in this action; that the DiBaris did not have standing at the time of trial to challenge activities conducted at Pound Ridge Elementary; and that when Tiana DiBari graduated from Fox Lane Middle, the DiBaris lost then standing to challenge activities conducted at that school. The DiBar-is thus retain standing to challenge only the activities at Fox Lane High.
+L425: Of the activities that the district court found unconstitutional, those regarding Ganesha and worry dolls were not found to have taken place at any school other than Pound Ridge Elementary; the “Listening to Nature” tape was not found to have been played at any school other than Fox Lane Middle. Because no plaintiff retains standing to challenge the activities at those schools, claims with respect to those activities must be dismissed as moot.
+L426: Other challenged activities conducted at Pound Ridge Elementary and/or Fox Lane Middle, but not found to have taken place at Fox Lane High, included those with regard to Buddha, Quetzalcoatl, the “God Messed Up” poems, brain stimulation ex ercises, the writing of descriptive journals, Magic, meditation, and the Yale decision-making program. The district court dismissed all claims challenging these activities for lack of merit.
+L427: All of them are moot and hence dismissable for lack of jurisdiction, and we reject on that basis plaintiffs’ cross-appeal seeking their reinstatement.
+L428: III. THE MERITS OF THE SURVIVING SUBSTANTIVE CHALLENGES
+L429: 
+L430: Given our rulings in Part II above, only challenged activities at Fox Lane High remain at issue, and the only activity at that school that the district court found unconstitutional is the celebration of Earth Day.
+L431: 
+L432: A. Earth Day and the Establishment Clause
+L433: The Establishment Clause of the First Amendment provides that “Congress shall make no law respecting an establishment of religion.... ” U.S. Const. amend I. In Lemon v. Kurtzman, 【1†403 U.S. 602】, 【1†91 S.Ct. 2105】, 【1†29 L.Ed.2d 745】 (1971), the Supreme Court set out a three-pronged test that a governmental practice must meet in order to withstand a challenge under the Establishment Clause.
+L434: The Lemon test requires that the practice (1) “have a secular legislative purpose,” (2) have a “principal or primary effect ... that neither advances nor inhibits religion,” and (3) “not foster an excessive government entanglement with religion.” Id. at 612-13, 【1†91 S.Ct. 2105】 (internal quotation marks omitted). Only the first two prongs of this test are at issue in this case.
+L435: In applying the first Lemon prong, the Supreme Court has asked “whether government’s actual purpose is to endorse or disapprove of religion.” Edwards v. Aguillard, 【1†482 U.S. 578】, 585, 【1†107 S.Ct. 2573】, 【1†96 L.Ed.2d 510】 (1987) (striking down Louisiana law that forbade the teaching of evolution in public schools unless accompanied by teaching of creationism) (internal quotation marks omitted).
+L436: “Families entrust public schools with the education of their children, but condition their trust on the understanding that the classroom will not purposely be used to advance religious views that may conflict with the private beliefs of the student and his or her family.” Id. at 584, 【1†107 S.Ct. 2573】.
+L437: In addressing the second Lemon prong, ie., the effect of the practice, in the context of a challenge to the display of a creche in a county courthouse, see County of Allegheny v. ACLU, 【1†492 U.S. 573】, 【1†109 S.Ct. 3086】, 【1†106 L.Ed.2d 472】 (1989), a majority of the Supreme Court applied the standard of whether a reasonable observer would And that the creche had the effect of endorsing religion. See id. at 620, 【1†109 S.Ct. 3086】 (opinion of Blackmun, J.); id. at 635-36, 【1†109 S.Ct.
+L438: 3086】 (O’Connor, J., concurring in part and concurring in the judgment); id. at 642-43, 【1†109 S.Ct. 3086】 (Brennan, J., concurring in part and dissenting in part, joined by Marshall and Stevens, JJ.); see, e.g., Agostini v. Felton, 【1†521 U.S. 203】, 234-35, 【1†117 S.Ct. 1997】, 【1†138 L.Ed.2d 391】 (1997) (applying endorsement test, along with prongs of the Lemon test, to challenge of government aid to parochial schools).
+L439: The reasonable-observer test is an objective standard, see, e.g., Americans United for Separation of Church and State v. City of Grand Rapids, 【1†980 F.2d 1538】, 1553 (6th Cir.1992), and we review its application de novo.
+L440: Further, under the Establishment Clause, “ ‘government may not coerce anyone to support or participate in religion or its exercise.’ ” Santa Fe Independent School District v. Doe, 【1†530 U.S. 290】, 302, 【1†120 S.Ct. 2266】, 【1†147 L.Ed.2d 295】 (2000) (quoting Lee v. Weisman, 【1†505 U.S. 577】, 587, 【1†112 S.Ct. 2649】, 【1†120 L.Ed.2d 467】 (1992)).
+L441: In Lee, the Court held that delivery of a prayer by a rabbi at a middle-school commencement violated the Establishment Clause because of the risk that the young students might feel coerced to participate in the prayer. See 【1†505 U.S. at 598-99】, 【1†112 S.Ct. 2649】. The Court found “subtle coercive pressures” in the commencement prayer and in the fact that there was “no real alternative” for a student who wished “to avoid the fact or appearance of participation.” Id. at 588, 【1†112 S.Ct. 2649】.
+L442: In Doe, the Court held that even where a prayer before a high-school football game was delivered by a student who was elected by the student body, it “ha[d] the improper effect of coercing those present to participate in an act of religious worship.” 【1†530 U.S. at 312】, 【1†120 S.Ct. 2266】.
+L443: Nonetheless, while “[s]chools have a constitutional duty to make ‘certain ... that subsidized teachers do not inculcate religion,’ ” Marchi v. Board of Cooperative Educational Services of Albany, 【1†173 F.3d 469】, 475 (2d Cir.) (quoting Lemon, 【1†403 U.S. at 619】, 【1†91 S.Ct. 2105】), cert. denied, 【1†528 U.S. 869】, 【1†120 S.Ct. 169】, 【1†145 L.Ed.2d 143】 (1999), the Establishment Clause does not prohibit schools from teaching about religion. See, e.g., Stone v. Graham, 【1†449 U.S. 39】, 42, 【1†101 S.Ct.
+L444: 192】, 【1†66 L.Ed.2d 199】 (1980) (per curiam) (“[T]he Bible may constitutionally be used in an appropriate study of history, civilization, ethics, comparative religion, or the like.”). “[S]tudy of religions and of the Bible from a literary and historic viewpoint, presented objectively as part of a secular program of education, need not collide with the First Amendment’s prohibition.” Epperson v. Arkansas, 【1†393 U.S. 97】, 106, 【1†89 S.Ct. 266】, 【1†21 L.Ed.2d 228】 (1968); see Schempp, 【1†374 U.S.
+L445: at 225】, 【1†83 S.Ct. 1560】.
+L446: Finally, the Establishment Clause “ ‘forbids alike the preference of a religious doctrine or the prohibition of theory which is deemed antagonistic to a particular dogma.’ ” Edwards v. Aguillard, 【1†482 U.S. at 593】, 【1†107 S.Ct. 2573】 (quoting Epperson, 【1†393 U.S. at 106-07】, 【1†89 S.Ct. 266】) (emphases in Aguillard). Thus, on the one hand, the fact that a governmental action or message coincides with the beliefs of certain religions does not, without more, invalidate that action or message.
+L447: See McRae, 【1†448 U.S. at 318-20】, 【1†100 S.Ct. 2671】 (ban on Medicaid funding of abortions does not violate Establishment Clause even though it coincides with Catholic doctrine); McGowan, 【1†366 U.S. at 442-45】, 【1†81 S.Ct. 1101】 (Sunday closing laws do not violate Establishment Clause even though they coincide with Christian doctrine); id. at 442, 【1†81 S.Ct. 1101】 (“[Mjurder is illegal[;] ....
+L448: the fact that this agrees with the dictates of the Judaeo Christian religions while it may disagree with others does not invalidate the regulation.”). On the other hand, the Establishment Clause does not prohibit teaching about a doctrine, such as evolution, merely because it conflicts with the beliefs of a religious group. See Epperson, 【1†393 U.S. at 109】, 【1†89 S.Ct. 266】. In sum,
+L449: > [t]here is and can be no doubt that the First Amendment does not permit the State to require that teaching and learning must be tailored to the principles or prohibitions of any religious sect or dogma.
+L450: 
+L451: Id. at 106, 【1†89 S.Ct. 266】 (emphasis added).
+L452: In the present case, the district court concluded that the celebration of Earth Day at Fox Lane High constituted a religious ceremony because (a) “[t]he worship of the Earth is a recognized religion (Gaia), which has been and is now current throughout the world,” 【1†45 F.Supp.2d at 393】, (b) the proceedings “t[ook] on much of the attributes of the ceremonies of worship by organized religions,” id., and (c) the faculty advisor’s statements paralleled one statement in Genesis (and hence was found to constitute “clearly religious teaching,” id.
+L453: at 394), and contradicted another in a way that plaintiffs viewed as an endorsement of birth control, contrary to principles of Catholicism, see id. Presumably the organized-religion ceremonial attributes referred to by the court were the actions prohibited in the court’s final injunction, e.g., use of “ ‘symbolic structures’ equal to an altar,” use of “any globe on bamboo sticks,” and use of “a chorus of ceremonial drums.” Final Judgment and Permanent Injunction at 3, ¶ A.
+L454: In light of the evidence and of the findings made, or not made, by the district court, we have difficulty with the court’s conclusion.
+L455: First, the court did not find that the School District sponsored Earth Day ceremonies with any intent to establish religion. Although plaintiffs’ pleading alleged that there was a Bedford “program” to promote satanism and “New Age spirituality” (Amended and Supplemental Complaint ¶ 18(a)) and the “Veneration of Pagan Gods” (id. page 12 (italics in original)), the court found that there was no such “program,” 【1†45 F.Supp.2d at 373】.
+L456: As to the Earth Day ceremonies in particular, the court found that their sponsorship “started out innocently enough,” id. at 393, originating in the century-old provision of the New York State Education Law that there be an annual celebration of Conservation Day. That provision, quoted in full in Part I.B.3. above, requires public schools to “assemble the pupils ... in the school building, or elsewhere,” to “conduct ...
+L457: such exercises as shall tend to encourage the planting, protection and preservation of trees and shrubs,” and to use “lectures, pictures or tours ... to increase the interest and knowledge of such pupils in the fish and wild life, soil and water of the state.” N.Y. Educ. Law § 810(2).
+L458: Further, the district court did not find that the Earth Day program was coercive. And, for the reasons discussed in Part III.B. below, we agree that it was not. Given that the School District’s sponsorship of Earth Day ceremonies had a secular purpose and was not coercive, the inquiry becomes whether those ceremonies had the effect of endorsing the Gaia religion.
+L459: On this issue, we disagree with the district court, for we cannot conclude that an objective observer would view the Earth Day ceremonies as having a Gaia-endors-ing effect. Although the district court stated that the Earth Day ceremonies involved “addresse[s] to the Earth as if it were the Creator, or divine,”’ arid “prayers ... to the Earth,” 【1†45 F.Supp.2d at 397】, scant evidence was cited to support that finding.
+L460: The “address” that comes closest to the court’s description appears to be the Taos Indian invocation on the “Listening to Nature” tape, played at Fox Lane Middle, suggesting that the Earth was “Mother of us all,” J. Cornell, Listening to Nature, How to Deepen Your Awareness of Nature at 64 (“The Mother of us all is Earth. / The Father is the Sun. / The Grandfather is the Creator / Who bathed us with his mind / And gave life to all things / ... We praise our Grandfather for his creation.”).
+L461: But there is no indication that that tape was played at any Earth Day ceremonies; and even that invocation describes “The Grandfather,” not the Earth, as the Creator. The court did not cite evidence to support its statement that the Earth was designated the Creator, or as a Divine Being, or was worshiped at the School District’s Earth Day ceremonies.
+L462: Further, we have seen in the trial testimony little or no probative mention of Gaia. For example, the student president of Youth in Action, which organized the Earth Day ceremonies, was asked if he had heard of Gaia; he testified that he had, and that he understood it to be the belief that the Earth is a living thing. But he did not suggest that the Earth Day ceremonies were meant to represent rituals of Gaia or any other religion.
+L463: Rather, he stated that the Earth Day activities were designed merely to help students understand environmental problems and to foster respect for the Earth, and that there was no worshiping of the Earth nor any religious significance in any of the components of the Earth Day celebration.
+L464: Similarly, an issue of the Fox Lane High newspaper introduced by plaintiffs and relied on by the district court, while containing a reference to “Mother Earth,” described Earth Day as a day whose celebration was special precisely because it was not religious. (See The Forum April 1997 (“Forum article”) (“There are no barriers, such as religion or cultural differences, to hold us back in our realization of our relationship with the earth and all things around us.
+L465: Although this may be one of the most important holidays of the year, many of us are still unsure of its meaning, probably because, unlike religious holidays, there are no strict ceremonies or interpretations of Earth Day; it is simply a celebration of the Earth.”)). Thus, we see no greater religious significance in the article’s colorful reference to “Mother Earth” in this context than if the article had referred to “Father Time.”
+L466: The district court made no finding that anyone attending the ceremonies suggested that the Earth possessed supernatural powers or that it should be worshiped; nor have plaintiffs called to our attention any evidence of such a suggestion. The court pointed to two remarks of the faculty ad-visor, one that was consistent with the teachings of Genesis, and one that was contrary to those teachings.
+L467: But we cannot conclude that a reasonable observer would view either of those statements as having a Gaia-endorsing effect; Supreme Court precedent makes clear that the Establishment Clause is not transgressed merely because a statement either is in agreement with, or is in disagreement with, a given religious tenet.
+L468: Finally, we cannot conclude that the ceremonial acts that the district court pointed to and enjoined would be viewed by an objective observer as suggesting that the Earth was Divine, or the Creator, or a Being to be worshiped, or that the proceedings were in nature religious.
+L469: For example, when the court enjoined the use of “ ‘symbolic structures’ equal to an altar,” it was quoting the 1997 Forum article; but the “symbolic structures” referred to in that article were not altar-like; the article stated that they were tepees.
+L470: Nor has our attention been directed to any evidence that students were called upon to place any objects on a structure like an altar; rather, the testimony was that the proffered “gifts” were purely metaphorical, such as gifts of knowledge and wisdom in the form of speeches. Further, though the court enjoined the use of drum rolls during Earth Day ceremonies, drum rolls are commonly used in proceedings having no religious significance whatever.
+L471: And although the display of a globe on bamboo poles is less common, the district court did not adequately explain why such display of a globe, or the roll of drums, had significance that was religious.
+L472: As the court noted, the faculty advisor’s memorandum described the Earth Day ceremonies as reflecting “the core idea of respect for the earth....” 【1†45 F.Supp.2d at 394】. Respect, however, does not inevitably suggest religion. Indeed, the rituals employed in the Fox Lane High ceremonies, although more imaginative, strike us as not fundamentally different from rituals codified by Congress for showing respect to the United States flag.
+L473: For example, Congress has instructed that when the flag is displayed during a rendition of the national anthem,
+L474: > (A) all present except those in uniform should stand at attention facing the flag with the right hand over the heart;
+L475: 
+L476: > (B) men not in uniform should remove their headdress with their right hand and hold the headdress at the left shoulder, the hand being over the heart; and
+L477: 
+L478: > (C) individuals in uniform should give the military salute at the first note of the anthem and maintain that position until the last note.
+L479: 36 U.S.C. § 301(b)(1) (Supp. IV 1998). Similar requirements are imposed for stances when the flag is hoisted, lowered, or passed. See 4 U.S.C. § 9 (Supp. V 1999); see also id. § 8(b) (the flag should never touch the ground or floor); id. § 8(c) (flag should never be carried horizontally); id. § 8(h) (flag should not be used to hold or carry any object); id. § 8(k) (when no longer suitable for display, flag should be destroyed in a “dignified way”).
+L480: An objective observer would not view these detailed prescriptions for honoring the American flag — rituals that are observed daily across the nation — as an indication that Congress, or any governmental entity that observes such ceremonial respect, has established flag worship as a religion. We conclude that an objective observer similarly would not view the School District’s Earth Day ceremonies as endorsing Gaia or Earth worship as a religion.
+L481: Accordingly, we vacate the judgment’s declaration that the Earth Day celebrations violated the Establishment Clause,
+L482: B. Earth Day and the Free Exercise Clause
+L483: 
+L484: The Free Exercise Clause of the First Amendment provides that “Congress shall make no law ... prohibiting the free exercise []of [religion].” U.S. Const. amend I. This Clause
+L485: > has a double ‍‌​‌​​‌​‌‌‌‌‌​​‌​​​‌​​​‌‌‌‌‌‌‌​​​​‌​​​‌‌‌​​‌‌‌‌‌​​‌‌​‌​‌​​‌​‌‌​​‌‌​​​‌​​‌‌‌‌‌‌‌​​‌​​‌‌​‌‌​‌​‌‌‌​‌‍aspect. On the one hand, it forestalls compulsion by law of the acceptance of any creed or the practice of any form of worship. Freedom of conscience and freedom to adhere to such religious organization or form of worship as the individual may choose cannot be restricted by law. On the other hand, it safeguards the free exercise of the chosen form of religion.
+L486: Thus the Amendment embraces two concepts, — freedom to believe and freedom to act. The first is absolute but, in the nature of things, the second cannot be.
+L487: Cantwell v. Connecticut, 【1†310 U.S. 296】, 303-304, 【1†60 S.Ct. 900】, 【1†84 L.Ed. 1213】 (1940).
+L488: Where there is no indication that a restriction of a plaintiffs religious activities was the defendant’s actual objective, but only that its actions, neutral on their face, had a restrictive effect, the proper inquiry is “ ‘whether government has placed a substantial burden on the observation of a central religious belief or practice and, if so, whether a compelling governmental interest justifies the burden.’ ” Jimmy Sivaggart Ministries v. Board of Equalization, 【1†493 U.S. 378】, 384-85, 【1†110 S.Ct.
+L489: 688】, 【1†107 L.Ed.2d 796】 (1990) (quoting Hernandez v. Commissioner, 【1†490 U.S. 680】, 699, 【1†109 S.Ct. 2136】, 【1†104 L.Ed.2d 766】 (1989)); see Wisconsin v. Yoder, 【1†406 U.S. 205】, 220-221, 【1†92 S.Ct. 1526】, 【1†32 L.Ed.2d 15】 (1972).
+L490: In the present case, although the Final Judgment and Permanent Injunction indicated that the Earth Day activities violated both the Establishment Clause and the Free Exercise Clause, the court made no ruling on Earth Day expressly relating to the latter Clause and made no findings sufficient to support a conclusion of free exercise violation. First, the court did not suggest that any restriction of the plaintiffs’ religious activities was intended.
+L491: To the contrary, as discussed in the preceding section, the court stated that the ceremonies had an “innocent[ ]” origin in the state statutory requirement that public schools conduct exercises to instill- in their students an interest in fish, wildlife, vegetation, and the soil.
+L492: Thus, the principal question was whether the Earth Day ceremonies had a religion-burdening effect. The district court focused principally on the faculty advis- or’s criticism of overpopulation of the Earth, which the court stated was contrary to the teaching of Genesis, and on Father Pacwa’s interpretation of that remark as advocacy of birth control.
+L493: The mere evidence that plaintiffs found that remark and perhaps some other aspects of the ceremonies offensive to their beliefs, however, did not suffice to .prove a free exercise violation, for the court made no finding that students were required to participate in the Earth Day ceremonies. The principal of Fox Lane High testified that attendance was not compulsory, and we see no indication that the district court, discredited that testimony.
+L494: Absent a finding that students were required to attend or participate in the Earth Day ceremonies, we conclude that there was no interference with plaintiffs’ free exercise of their chosen religion.
+L495: Accordingly, we reverse the judgment’s declaration that the Earth Day ceremonies at Fox Lane High violated the Free Exercise Clause.
+L496: 
+L497: C. Plaintiffs’ Cross-Appeal
+L498: Plaintiffs cross-appeal from so much of the judgment as dismissed their claims challenging the activities described in Part I.C. above. They maintain that those activities violated the Establishment and Free Exercise Clauses, the Fourteenth Amendment right to privacy, and/or state law. As indicated in Part II above, many of the claims pursued by plaintiffs on their cross-appeal are claims that have become moot since the commencement of the litigation, and we lack jurisdiction to reinstate those claims.
+L499: As to the dismissed claims over which we have jurisdiction, we agree with the district court that those claims lack merit. In light of the discussion in Parts III.A. and B. above, we affirm their dismissal substantially for the reasons stated in that discussion and in the district court’s opinion.
+L500: 
+L501: IV. THE RELIEF GRANTED
+L502: 
+L503: Finally, independently of the merits of plaintiffs’ claims, we conclude that the relief granted in the district court’s Final Judgment and Permanent Injunction was inappropriate.
+L504: First, as set out more fully in Part I.F. above, the district court’s final judgment contains a mandatory injunction requiring the School District to adopt and publish guidelines (the “Guidelines Injunction”) to ensure compliance with
+L505: > the Supreme Court’s standards set forth in the cases quoted in this Court’s Order and Opinion, so as to avoid coercing any student to participate in religion or its exercise or to violate any religious precept held by a child or his or her parents, and to further avoid sponsoring or disparaging religious beliefs held by students and or their parents.
+L506: Final Judgment and Permanent Injunction at 2. Even leaving aside our rejection of the district court’s application of Supreme Court First Amendment doctrine, see Part III above, the terns of this injunctive provision are impermissibly vague. See generally Fed.R.Civ.P. 65(d) (injunction must “describe in reasonable detail ... the act or acts sought to be restrained”).
+L507: The requirement that an injunction be specific “reflects Congress’ concern with the dangers inherent in the threat of a contempt citation for violation of an order so vague that an enjoined party may unwittingly and unintentionally transcend its bounds.” Sanders v. Air Line Pilots Ass’n, 【1†473 F.2d 244】, 247 (2d Cir.1972); see 11A Charles Alan Wright, Arthur R. Miller, & Mary Kay Kane, Federal Practice and Procedure § 2955, at 308-09 (2d ed. 1995).
+L508: Given the vast array of religious practices, an injunction stating simply that a party must create guidelines “to ensure” that school personnel will avoid coercing any pupil “to participate in religion or its exercise,” Final Judgment and Permanent Injunction at 2, is insufficiently specific.
+L509: Without greater guidance in the injunction itself, an attempt at compliance would likely result in guidelines that either were so detailed as to foreclose activities having no religious significance, or so general as to provide little guidance. Similarly flawed is the requirement that the School District promulgate a guideline to ensure that an activity will not “violate any religious precept held by a child or his or her parents,” id.
+L510: Second, the prohibitory provisions of the Final Judgment and Permanent Injunction, quoted in Part I.F. above, are flawed either for jurisdictional reasons or because they were not adequately supported. The jurisdictional problems affect injunctive paragraphs B, C, and D, which prohibit the School District from sponsoring activities relating to nature tapes, worry dolls, and Ganesha.
+L511: Those activities were found to have been conducted at Pound Ridge Elementary or Fox Lane Middle, not at any other school; and, as discussed in Part II above, plaintiffs’ challenges to activities at Pound Ridge Elementary and Fox Lane Middle have become moot.
+L512: We note that the district court stated in its Standing Opinion that all of the injunctive provisions were to be applicable to all schools in the School District. Although that view was consistent with the district court’s view that any Bedford taxpayer could bring suit to halt any school activity characterized as religious, even without having any child who was or would be eligible to attend school, we have rejected taxpayer standing in this case.
+L513: Moreover, given the court’s reliance on the view that various activities had a subtly coercive effect on children who were young and impressionable, see, e.g., 【1†45 F.Supp.2d at 383-85】, blanket prohibitions against a given activity at all schools at whatever level, without particularized findings as to how an objective observer would view each activity at each level, were inappropriate.
+L514: As to the Earth Day ceremonies, discussed in Part III.A. above, the prohibitions were inappropriate because the specific features enjoined, such as drum rolls and globes on poles, were not shown to be used in ways that were religious; and no evidence has been cited to support the finding that the ceremonies included worship of the Earth or liturgies addressed to the Earth as if it were the Creator or a Divine Being.
+L515: Finally, given our reversal of the district court’s rulings in favor of plaintiffs on their First Amendment claims, the district court’s award of attorneys’ fees to them as “prevailing parities],” 42 U.S.C. § 1988, must also be reversed. See, e.g., Russo v. State of New York, 【1†672 F.2d 1014】, 1023 (2d Cir.1982) (“The teachings of the Supreme Court ...
+L516: foreclose [an] expan sive interpretation of section 1988” that would allow “attorney’s fees under section 1988 to a party who does not succeed on his civil rights claim .... ”), modified on other grounds, 【1†721 F.2d 410】 (2d Cir.1983).
+L517: CONCLUSION
+L518: We have considered all of the parties’ contentions in support of their respective appeals.
+L519: For the foregoing reasons the judgment of the district court is vacated insofar as it adjudicated claims challenging activities at Pound Ridge Elementary School and Fox Lane Middle School, and is remanded for dismissal of those claims for lack of subject matter jurisdiction; the judgment is reversed insofar as it declared activities of the School District to violate the First Amendment and granted injunc-tive relief and attorneys’ fees; and it is affirmed insofar as it dismissed other claims asserted by plaintiffs.
+L520: ### Case Details
+L521: 
+L522: Case Name: Altman v. Bedford Central School District
+L523: 
+L524: Court Name: Court of Appeals for the Second Circuit
+L525: 
+L526: Date Published: Mar 27, 2001
+L527: 
+L528: Citations: 245 F.3d 49; 2001 U.S. App. LEXIS 4914; Docket Nos. 99-7969(L), 99-9001
+L529: 
+L530: Docket Number: Docket Nos. 99-7969(L), 99-9001
+L531: 
+L532: Court Abbreviation: 2d Cir.

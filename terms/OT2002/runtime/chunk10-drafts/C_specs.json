@@ -1,0 +1,91 @@
+[
+  {
+    "countable": false,
+    "form": "summary per curiam merits opinion",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [],
+    "fit_notes": "A summary application does not enter the signed-plenary assignment count.",
+    "case": "Los Angeles v. David",
+    "date": "2003-05-19",
+    "file": "Los-Angeles-v-David_merits_2003-05-19.md"
+  },
+  {
+    "countable": false,
+    "form": "unsigned consent decree and finite recommittal",
+    "assigner": null,
+    "eligible_authors": [],
+    "full_joiners": [],
+    "fit_notes": "No signed plenary lead; no disclosed poll.",
+    "case": "Kansas v. Nebraska",
+    "date": "2003-05-19",
+    "file": "Kansas-v-Nebraska_decree_2003-05-19.md"
+  },
+  {
+    "countable": true,
+    "form": "single signed plenary Court opinion with two majority grounds and partial joins",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Stone-Zsela": "His approved dual-ground position supports the complete opinion and precise separation of power, liability and remedy; compare ordinary fit against eligible pool peers.",
+      "Souter": "His Alden authorship and direct joins in both relevant enforcement lines support coordination of independent sources of authority with exact partial joins.",
+      "Ginsburg": "Her Kimel authorship directly supplies the employment-enforcement ground and her Virginia and preventive-enforcement joins support the sex-role mechanism.",
+      "Breyer": "His direct enforcement and equality joins support practical statutory fit and the differentiated evidence; can coordinate the two independently sufficient parts without expanding them."
+    },
+    "case": "Nevada Department of Human Resources v. Hibbs",
+    "date": "2003-05-27",
+    "file": "Nevada-Department-of-Human-Resources-v-Hibbs_merits_2003-05-27.md"
+  },
+  {
+    "countable": true,
+    "form": "single signed plenary Court opinion with four judgment components",
+    "assigner": "Stone-Zsela",
+    "eligible_authors": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "full_joiners": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "fit_notes": {
+      "Stone-Zsela": "His approved position and prior Harry concurrence directly frame the newly developed endpoint and statutory proof boundaries.",
+      "Stevens": "His direct Baby K, Roberts and Harry joins support the text-based endpoint and distinct evidentiary components.",
+      "O'Connor": "Her frozen position carefully separates the bounded emergency duty from general inpatient care and preserves ordinary proof.",
+      "Scalia": "His Harry opinion supplies the closest statutory framework while expressly reserving the present endpoint, making faithful resolution and distinction useful fit.",
+      "Kennedy": "His frozen position connects actual emergency, available care, breach and causal harm without treating either admission or death as dispositive.",
+      "Souter": "His whole-statute reading preserves the affirmative care duty and complete transfer/refusal alternatives.",
+      "Thomas": "His direct statutory joins support retaining enacted triggers and rejecting a textually absent admission-satisfaction term.",
+      "Ginsburg": "Her Baby K authorship supplies the acute-emergency/underlying-condition distinction that bounds the new endpoint.",
+      "Breyer": "His frozen position answers administrability and malpractice concerns through the statute's existing limits and separate evidence requirements."
+    },
+    "case": "Bryant v. Adventist Health System/West",
+    "date": "2003-06-09",
+    "file": "Bryant-v-Adventist-Health-System-West_merits_2003-06-09.md"
+  }
+]

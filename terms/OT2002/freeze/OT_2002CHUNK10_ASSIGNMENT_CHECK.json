@@ -1,0 +1,255 @@
+[
+  {
+    "case": "Altman v. Bedford Central School District",
+    "author": "O'Connor",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 11,
+      "O'Connor": 11,
+      "Scalia": 10,
+      "Kennedy": 11,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 97,
+    "passed": true
+  },
+  {
+    "case": "Breuer v. Jim's Concrete of Brevard, Inc.",
+    "author": "Scalia",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 11,
+      "O'Connor": 12,
+      "Scalia": 10,
+      "Kennedy": 11,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 98,
+    "passed": true
+  },
+  {
+    "case": "Conant v. Walters",
+    "author": "Kennedy",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 11,
+      "O'Connor": 12,
+      "Scalia": 11,
+      "Kennedy": 11,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 99,
+    "passed": true
+  },
+  {
+    "case": "Hilton v. City of Wheeling",
+    "author": "Stevens",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 11,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "Souter",
+      "Thomas",
+      "Ginsburg"
+    ],
+    "prior_count": 101,
+    "passed": true
+  },
+  {
+    "case": "Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony",
+    "author": "Ginsburg",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 11,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 102,
+    "passed": true
+  },
+  {
+    "case": "Norfolk Southern Railway Co. v. Kirby",
+    "author": "Thomas",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 11,
+      "Thomas": 11,
+      "Ginsburg": 12,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "prior_count": 103,
+    "passed": true
+  },
+  {
+    "case": "Pharmaceutical Research and Manufacturers of America v. Walsh",
+    "author": "Souter",
+    "counts": {
+      "Stone-Zsela": 10,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 11,
+      "Thomas": 12,
+      "Ginsburg": 12,
+      "Breyer": 11
+    },
+    "pool": [
+      "Stevens",
+      "Souter",
+      "Ginsburg"
+    ],
+    "prior_count": 104,
+    "passed": true
+  },
+  {
+    "case": "United States v. Haney",
+    "author": "Stone-Zsela",
+    "counts": {
+      "Stone-Zsela": 11,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 12,
+      "Thomas": 12,
+      "Ginsburg": 12,
+      "Breyer": 12
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 107,
+    "passed": true
+  },
+  {
+    "case": "Nevada Department of Human Resources v. Hibbs",
+    "author": "Ginsburg",
+    "counts": {
+      "Stone-Zsela": 12,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 12,
+      "Thomas": 13,
+      "Ginsburg": 12,
+      "Breyer": 13
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Souter",
+      "Ginsburg",
+      "Breyer"
+    ],
+    "prior_count": 110,
+    "passed": true
+  },
+  {
+    "case": "Bryant v. Adventist Health System/West",
+    "author": "Scalia",
+    "counts": {
+      "Stone-Zsela": 13,
+      "Stevens": 12,
+      "O'Connor": 12,
+      "Scalia": 12,
+      "Kennedy": 12,
+      "Souter": 12,
+      "Thomas": 13,
+      "Ginsburg": 14,
+      "Breyer": 13
+    },
+    "pool": [
+      "Stone-Zsela",
+      "Stevens",
+      "O'Connor",
+      "Scalia",
+      "Kennedy",
+      "Souter",
+      "Thomas",
+      "Breyer"
+    ],
+    "prior_count": 113,
+    "passed": true
+  }
+]

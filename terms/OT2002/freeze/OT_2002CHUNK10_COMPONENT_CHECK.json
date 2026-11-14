@@ -1,0 +1,98 @@
+[
+  {
+    "case": "Altman v. Bedford Central School District",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 3,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Conant v. Walters",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 0,
+    "compact_count": {
+      "support": 9,
+      "opposition": 0
+    },
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Hilton v. City of Wheeling",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 2,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "United States v. Haney",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 2,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Breuer v. Jim's Concrete of Brevard, Inc.",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 0,
+    "compact_count": {
+      "support": 9,
+      "opposition": 0
+    },
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Inyo County v. Paiute-Shoshone Indians of Bishop Community of Bishop Colony",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 2,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Norfolk Southern Railway Co. v. Kirby",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 2,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Pharmaceutical Research and Manufacturers of America v. Walsh",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 2,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Los Angeles v. David",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 0,
+    "compact_count": {
+      "support": 8,
+      "opposition": 1
+    },
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Kansas v. Nebraska",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 0,
+    "compact_count": null,
+    "unsigned_without_public_tally": true
+  },
+  {
+    "case": "Nevada Department of Human Resources v. Hibbs",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 0,
+    "compact_count": {
+      "support": 6,
+      "opposition": 3
+    },
+    "unsigned_without_public_tally": false
+  },
+  {
+    "case": "Bryant v. Adventist Health System/West",
+    "holdings_identity": true,
+    "judgment_table_rows_counted": 4,
+    "compact_count": null,
+    "unsigned_without_public_tally": false
+  }
+]

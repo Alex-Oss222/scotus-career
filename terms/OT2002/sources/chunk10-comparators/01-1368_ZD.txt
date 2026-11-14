@@ -1,0 +1,29 @@
+NEVADA DEPT. OF HUMAN RESOURCES V. HIBBS
+
+ 
+
+NEVADA DEPT. OF HUMAN RESOURCES V. HIBBS (01-1368) 273 F.3d 844, affirmed.Syllabus Opinion [ Rehnquist ]Concurrence [ Souter ]Concurrence [ Stevens ]Dissent [ Scalia ]Dissent [ Kennedy ]HTML versionPDF versionHTML versionPDF versionHTML versionPDF versionHTML versionPDF versionHTML versionPDF versionHTML versionPDF version
+
+Scalia, J., dissenting
+
+SUPREME COURT OF THE UNITED STATES
+
+No. 01—1368
+
+NEVADA DEPARTMENT OF HUMAN RESOURCES,et al., PETITIONERS v. WILLIAM HIBBS et al.
+ON WRIT OF CERTIORARI TO THE UNITED STATES COURT OFAPPEALS FOR THE NINTH CIRCUIT
+[May 27, 2003]
+
+    Justice Scalia, dissenting.
+
+     I join Justice Kennedy’s dissent, and add one further observation: The constitutional violation that is a prerequisite to “prophylactic” congressional action to “enforce” the Fourteenth Amendment is a violation by the State against which the enforcement action is taken.  There is no guilt by association, enabling the sovereignty of one State to be abridged under §5 of the Fourteenth Amendment because of violations by another State, or by most other States, or even by 49 other States.  Congress has sometimes displayed awareness of this self-evident limitation.  That is presumably why the most sweeping provisions of the Voting Rights Act of 1965–which we upheld in City of Rome v. United States, 446 U.S. 156 (1980), as a valid exercise of congressional power under §2 of the Fifteenth Amendment*–were restricted to States “with a demonstrable history of intentional racial discrimination in voting,” id., at 177.
+
+      Today’s opinion for the Court does not even attempt to demonstrate that each one of the 50 States covered by 29 U.S.C. § 2612(a)(1)(C) was in violation of the Fourteenth Amendment.  It treats “the States” as some sort of collective entity which is guilty or innocent as a body.  “[T]he States’ record of unconstitutional participation in, and fostering of, gender-based discrimination,” it concludes, “is weighty enough to justify the enactment of prophylactic §5 legislation.”  Ante, at 12.  This will not do.  Prophylaxis in the sense of extending the remedy beyond the violation is one thing; prophylaxis in the sense of extending the remedy beyond the violator is something else.  See City of Rome, supra, at 177 (“Congress could rationally have concluded that, because electoral changes by jurisdictions with a demonstrable history of intentional racial discrimination in voting create the risk of purposeful discrimination, it was proper to prohibit changes that have a discriminatory impact” (emphasis added)).
+
+      When a litigant claims that legislation has denied him individual rights secured by the Constitution, the court ordinarily asks first whether the legislation is constitutional as applied to him.  See Broadrick v. Oklahoma, 413 U.S. 601, 613 (1973).  When, on the other hand, a federal statute is challenged as going beyond Congress’s enumerated powers, under our precedents the court first asks whether the statute is unconstitutional on its face.  Ante, at 1; Post, at 1 (Kennedy, J., dissenting); see United States v. Morrison, 529 U.S. 598 (2000); City of Boerne v. Flores, 521 U.S. 507 (1997); United States v. Lopez, 514 U.S. 549 (1995).  If the statute survives this challenge, however, it stands to reason that the court may, if asked, proceed to analyze whether the statute (constitutional on its face) can be validly applied to the litigant.  In the context of §5 prophylactic legislation applied against a State, this would entail examining whether the State has itself engaged in discrimination sufficient to support the exercise of Congress’s prophylactic power.
+
+      It seems, therefore, that for purposes of defeating petitioner’s challenge, it would have been enough for respondents to demonstrate that §2612(a)(1)(C) was facially valid–i.e., that it could constitutionally be applied to some jurisdictions.  See United States v. Salerno, 481 U.S. 739, 745 (1987).  (Even that demonstration, for the reasons set forth by Justice Kennedy, has not been made.)  But when it comes to an as-applied challenge, I think Nevada will be entitled to assert that the mere facts that (1) it is a State, and (2) some States are bad actors, is not enough; it can demand that it be shown to have been acting in violation of the Fourteenth Amendment.
+
+Notes
+
+*.  Section 2 of the Fifteenth Amendment is practically identical to §5 of the Fourteenth Amendment.  Compare Amdt. 14, §5 (“The Congress shall have power to enforce, by appropriate legislation, the provisions of this article”) with Amdt. 15, §2 (“The Congress shall have power to enforce this article by appropriate legislation”).

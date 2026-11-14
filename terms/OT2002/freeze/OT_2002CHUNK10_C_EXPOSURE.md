@@ -1,0 +1,3 @@
+# Neutral-preflight exposure receipt
+
+An external search for the date-eligible Hibbs merits brief unexpectedly returned excluded matter-specific Supreme Court metadata. The operator immediately stopped Hibbs framing and modeling. No commitments had been created. The affected original neutral packet and mechanically selected prior law remain preserved, and a fresh neutral context is assigned to validate Hibbs without receiving the excluded material or an account of its substance. David, Kansas and Bryant were not the exposed matter and have a separately bounded validated packet. This is internal provenance only.
