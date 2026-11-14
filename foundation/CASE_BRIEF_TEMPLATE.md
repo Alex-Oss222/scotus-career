@@ -177,7 +177,7 @@ Otherwise omit this subsection. The Engine will simulate Stone's petition-stage 
 
 # SECTION III: HISTORICAL COMPARATOR SUPPLEMENT
 
-Section III is comparison material only. It is not simulated law and does not control Stone.
+Section III is comparison material only. It is not simulated law and does not control Stone. Section III never mentions Stone or refers to Section II; it states the historical record only.
 
 ## A. MERITS COMPARATOR
 

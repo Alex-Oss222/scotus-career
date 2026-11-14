@@ -859,7 +859,7 @@ Stone proposes an express fundamental-liberty holding and overruling Bowers. The
 
 * **Historical Opinion Structure:** Justice Kennedy wrote for Justices Stevens, Souter, Ginsburg, and Breyer. Justice O’Connor concurred in the judgment on equal-protection grounds. Justice Scalia dissented with Chief Justice Rehnquist and Justice Thomas; Justice Thomas also dissented separately.
 
-* **Historical Holding:** The historical majority protected the private consensual adult conduct under due process and overruled Bowers; Justice O’Connor relied on the discriminatory classification without overruling it. Stone’s proposed disposition and reasoning appear separately in Section II.
+* **Historical Holding:** The historical majority protected the private consensual adult conduct under due process and overruled Bowers; Justice O’Connor relied on the discriminatory classification without overruling it.
 
 * **Historical Authority:** Lawrence v. Texas.
 

@@ -1383,7 +1383,7 @@ Stone would uphold the current undergraduate program under Adarand and Hopwood�
 
 * **Historical Opinion Structure:** Chief Justice Rehnquist’s opinion was joined by Justices O’Connor, Scalia, Kennedy, and Thomas. Justice Breyer concurred in the judgment and joined part of Justice O’Connor’s concurrence. Justice Thomas separately concurred. Justices Stevens, Souter, and Ginsburg filed dissents with the partial joins reported in the opinions.
 
-* **Historical Holding:** Under historical strict scrutiny, the automatic twenty-point racial preference lacked the individualized consideration required for the asserted diversity objective; the Court also sustained the relevant standing theory. The common justification standard stated in Section II controls Stone’s analysis.
+* **Historical Holding:** Under historical strict scrutiny, the automatic twenty-point racial preference lacked the individualized consideration required for the asserted diversity objective; the Court also sustained the relevant standing theory.
 
 * **Historical Authority:** Gratz v. Bollinger.
 
@@ -1544,7 +1544,7 @@ Stone would uphold the Law School’s actual program under the same Adarand–Ho
 
 * **Historical Opinion Structure:** Justice O’Connor wrote for Justices Stevens, Souter, Ginsburg, and Breyer. Justice Ginsburg concurred with Justice Breyer. Justices Scalia and Thomas filed partial concurrences and dissents, with the reported cross-joins. Chief Justice Rehnquist dissented with Justices Scalia, Kennedy, and Thomas; Justice Kennedy also dissented separately.
 
-* **Historical Holding:** The historical Court upheld the individualized law-school policy under strict scrutiny and its educational-diversity rationale, while discussing eventual termination of racial preferences. Stone’s analysis in Section II adopts neither that scrutiny tier nor a fixed twenty-five-year expiration.
+* **Historical Holding:** The historical Court upheld the individualized law-school policy under strict scrutiny and its educational-diversity rationale, while discussing eventual termination of racial preferences.
 
 * **Historical Authority:** Grutter v. Bollinger.
 
