@@ -2,15 +2,34 @@
 
 ## Result and operator reservation
 
-The Run completes eleven matters through twelve event Records, including Citizens Bank's separate grant and summary-merits events. There are 9 new signed plenary leads and 3 uncounted unsigned events. The term now has 156 event Records. The generated Render Input and the four workspace projections are synchronized. Public Render is a separate task and no output file was created for this chunk.
+The Run completes twelve matters through thirteen event Records, including Citizens Bank's separate grant and summary-merits events. There are 10 signed plenary leads and 3 uncounted unsigned events in this chunk. The term now has 157 event Records covering 152 completed scheduled events. The generated Render Input and the four workspace projections are synchronized. Public Render is a separate task and no output file was created for this chunk.
 
 All available required deterministic and content checks passed. Repository-history verification and commitment were deliberately not performed under the operator's explicit no-command instruction. No version-control command was invoked. The operator retains those administrative checks and commitment; this does not convert an otherwise decided matter into a stopped case or certify unperformed provenance checks.
 
-## Stopped matter
+## Oakley component and source validation
 
-State v. Oakley: Updated approved Stone rule, rationale, disposition and remedy are required for the ability-sensitive good-faith support condition with its surviving advance judicial-showing requirement. The approved Section II repeatedly depends on a financial-capacity prohibition; Engine section 4 requires revalidation of this changed material premise. The proposed updated position remains unanswered. The earlier-bargain waiver position is approved and complete, but no partial Court action is invented.
+State v. Oakley occupies its existing June 9, 2003 inventory event. The regenerated Section II is the controlling Stone source for the condition as construed. The final group C reconciled O1 and O2 commitments remain byte-identical. The good-faith, ability-sensitive construction and surviving advance judicial showing were already the premises of those commitments; no material neutral change or Associate commitment change requires another modeling or reconciliation stage. No separate approval handoff was created.
 
-The source and control analysis are preserved in `OT_2002CHUNK12_OAKLEY_CONTROL_REVALIDATION.md`. No Oakley Record, author assignment, partial adjudication, fictional order or current law was created. The exact blocker appears in the manifest, continuity and Render Input. The sanitized neutral projection identifies its undecided status without private Stone reasoning.
+Stone's complete lead rule was tested first. The six removal commitments do not establish five joins in his necessity-to-compelling-interest formula, categorical rule and complete remedial formulation. Stevens's and Ginsburg's openness to heightened or stronger protection supplies no unsupported join. Stone therefore takes the approved fallback exactly: vacatur, interim nonenforcement, and remand with the State bearing the burden on whether direct support enforcement would serve its interest. That alternative receives no additional frozen vote.
+
+The reproductive-condition component has six votes to reverse and definitively remove the condition (Stevens, O'Connor, Kennedy, Souter, Ginsburg and Breyer), Stone's distinct vacatur/remand position, and two votes to affirm at the binding narrowed scope (Scalia and Thomas). The seven votes against present enforcement are not seven votes for the same rule or final remedy. The actual express-waiver component is affirmed 9-0. O'Connor's Part I has six supporters and Part II has all nine. Stone's separate writing states his different constitutional formulation and remand; Scalia's, joined by Thomas, preserves the finite, offense-related compliance rationale and its express ability-sensitive limits. No historical state-court vote supplies a Supreme Court commitment. No matter in chunk 12 remains stopped.
+
+## Oakley assignment and later dependencies
+
+The signed, two-part form and governing propositions were settled before the count. Stevens assigns Part I from its six-Justice judgment coalition; Stone assigns Part II from the unanimous coalition. Part I's six full supporters are the common eligible authors of the entire lead. Part II separately has nine eligible authors. The Chief's participation in the assignment makes the balanced rule applicable to the combined lead; no part is divided to alter eligibility or counts.
+
+The fresh independent recount reads actual opinion topologies in 151 preceding Records, counting 132 signed plenary leads and excluding 19 other events. Before Oakley: Stone-Zsela 15; Stevens 14; O'Connor 15; Scalia 15; Kennedy 15; Souter 15; Thomas 14; Ginsburg 15; Breyer 14. The last counted event is Satellite Broadcasting & Communications Association v. FCC, June 9, 2003, authored by Kennedy. All eligible authors fall within one of the relevant minimum count of 14. O'Connor is in the common six-member pool and is selected for her own Turner and Bearden analyses and the distinct express-waiver question. The Record states the fit comparison. Later committed assignments remain as made; Oakley enters subsequent fresh recounts once its Record is part of the completed corpus.
+
+All four completed Records dated after June 9 were read for dependency, including grounds that could rely on Oakley without naming it:
+
+| Later completed matter | Date | Governing issue and dependency conclusion |
+|---|---|---|
+| Center for Reproductive Law and Policy v. Bush | 2003-06-16 | Its outside-program expression and collaboration rule rests on Rust, Regan and Velazquez. Oakley's concrete probation-condition fit rule and express-waiver holding displace no predicate. |
+| Star Scientific, Inc. v. Beales | 2003-06-16 | Economic security, classification, Commerce and Compact Clause questions depend on no Oakley proposition. |
+| Georgia v. Ashcroft | 2003-06-26 | Electoral opportunity, preventive enforcement and intervention depend on no Oakley proposition. |
+| Old Person v. Brown | 2003-06-26 | Voting-rights totality, factual review, geographic evidence and election remedies depend on no Oakley proposition. |
+
+No later Record requires a dependent change. Uncoordinated June 9 events receive no Oakley entering law. Every previously existing Record and every prior process file outside the necessary chunk validation, generated Render Input and four workspace projections retains its exact bytes; the newly generated Oakley reading slice copies only identified opening authority and earlier-effective public law. Runtime regeneration reproduces the already current split exactly.
 
 ## Content, chronology and legal authority
 
@@ -30,7 +49,7 @@ Remaining negative formulations do actual legal work: they state adopted operati
 
 ## Assignments and deterministic checks
 
-Each signed lead's form and propositions were settled before counting. The root assigned one at a time in date and alphabetical case order from a fresh recount of actual prior signed lead authors. Existing later assignments were not reopened. Full-support eligibility, the balance pool, comparative fit and Stone's eligibility/self-assignment analysis appear in every applicable Record. The independent replay verifies every count, prior-record list, last-event pointer, pool and chosen author against actual opinion tables and delivery statements, not prior tally statements.
+Each signed lead's form and propositions were settled before counting. Assignments were made in date and alphabetical case order from fresh recounts of actual prior signed lead authors; Oakley preserves the component-specific assignment authorities stated above. Existing later assignments were not reopened. Full-support eligibility, the balance pool, comparative fit and Stone's eligibility/self-assignment analysis appear in every applicable Record. The independent replay verifies every count, prior-record list, last-event pointer, pool and chosen author against actual opinion tables and delivery statements, not prior tally statements.
 
 The legacy extractor initially failed to recognize Dow's ordinary-sentence unsigned-form opening and stopped before the next assignment. A scoped lexical adapter corrected that recognition; no Record or tally was changed to accommodate the tool. Independent review confirms Dow counts zero and every subsequent receipt is correct.
 
@@ -40,4 +59,14 @@ The legacy extractor initially failed to recognize Dow's ordinary-sentence unsig
 
 The actual scoped context history and clean replacements are recorded in `OT_2002CHUNK12_HANDOFF_INDEX.md`, `OT_2002CHUNK12_HANDOFF_COMPLETION.md`, the final scoped reconciliations and `OT_2002CHUNK12_STAR_STATUTE_RECONCILED.md`. Earlier exposed or incomplete working stages are preserved as audit history and supply no conflicting operative result. The later independent remand proposal was retained as a competing analysis; the reconciliation identifies why it supplied no qualifying new premise for changing the previously frozen accepted-burden affirmance. General model knowledge is not claimed erased. Current private Stone material entered control and assembly only; final public blocks contain no operator history or private polls.
 
-All 219 protected baseline files retain their hashes, including governing infrastructure, trackers, approved briefs, prior Records and prior output. Frozen stage hashes remain intact. Writes were confined to this term and ignored scratch space. The locked top-level private directory was not read, listed, searched or modified. New and updated text artifacts were scanned for prohibited service names and machine references. Primary source text entering files was downloaded or copied mechanically; public exposition is authored paraphrase.
+All protected baseline files retain their hashes, including governing infrastructure, trackers, approved briefs, prior Records and prior output. Frozen stage hashes remain intact. Writes were confined to this term and ignored scratch space. The locked top-level private directory was not read, listed, searched or modified. New and updated text artifacts were scanned for prohibited service names and machine references. Primary source text entering files was downloaded or copied mechanically; public exposition is authored paraphrase.
+
+## Oakley completion checks
+
+The independent assembly review confirms the exact frozen grounds, component judgments, joins, removal versus conditional-remand distinction, assignment eligibility and public projection. The ordinary holding-explanation ceilings are respected. The operative state construction, intentional-conviction facts and separate-writing account of payments retain their different source status.
+
+**Section 15 negative-statement check: PASS for Oakley.** Judgment & Remedy, Holdings, Precedent Treatment, Law After Decision and Procedure After Action, and the internal sections they project, were checked against section 8. Surviving convictions and lawful support duties state retained legal status; operative limits distinguish direct reproductive clearance from ordinary support supervision. The response to the dissent explains the actual failure of fit. Stone's different scrutiny and remand appear in the topology and separate writing; they create neither a majority burden nor a hypothetical-reservation catalogue. Express dissent conditions remain with the dissent. No merely unawarded or unrequested relief is catalogued.
+
+The original `tools/check_term.py` logic was executed through the inspected no-history adapter, with non-Python subprocesses blocked and commit-reference enumeration excluded. All remaining term checks passed, and the independent sectioned-inventory check confirms all 180 scheduled rows. Repository-history and commit-reference verification remain unperformed for the operator. No infrastructure tool was edited.
+
+The generated chunk handoff contains 13 complete Record projections in effective-date order; the twelve pre-existing event blocks are byte-identical. The four workspace projections contain Oakley's completed action, controlling law, published separate positions and state-court remand, with its stopped status removed. No event was added to the inventory and no event date changed. No public output file was written because Render is a separate task.

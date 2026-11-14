@@ -1,9 +1,6 @@
 # OT_2002CHUNK12 Render Input
 
-**October Term:** 2002. **Completed events:** 12. **Chronological range:** 2003-06-02 through 2003-06-16.
-
-**Stopped matters:**
-- State v. Oakley: Updated approved Stone rule, rationale, disposition and remedy are required for the ability-sensitive good-faith support condition with its surviving advance judicial-showing requirement. The approved Section II repeatedly depends on a financial-capacity prohibition; Engine section 4 requires revalidation of this changed material premise. The proposed updated position remains unanswered. The earlier-bargain waiver position is approved and complete, but no partial Court action is invented.
+**October Term:** 2002. **Completed events:** 13. **Chronological range:** 2003-06-02 through 2003-06-16.
 
 <!-- source-record: Citizens-Bank-v-Alafabco-Inc_certiorari_2003-06-02.md -->
 ## Event
@@ -713,6 +710,99 @@ The eligible-requesting-station carriage condition remains enforceable in each l
 ## Source Notes
 
 Judgment below: 275 F.3d 337 (4th Cir. 2001), opinion filed December 7, 2001; 17 U.S.C. §122; 47 U.S.C. §338, including §338(c)(1)–(2). The record describes finite national channel capacity and predictive audience and advertising effects, rather than findings that particular stations already failed.
+
+---
+
+<!-- source-record: State-v-Oakley_merits_2003-06-09.md -->
+## Event
+
+State v. Oakley; Wisconsin No. 99-3328-CR; 2001 WI 103, reconsideration 2001 WI 123. Merits decision, June 9, 2003. On review of the Wisconsin Supreme Court's July 10, 2001 judgment, as explained on reconsideration on November 23, 2001. The questions are whether probation for intentional nonsupport may condition additional parenthood on an advance judicial showing concerning support, and whether Oakley's later express plea undertaking forecloses his challenge to withdrawal from the first bargain.
+
+Oakley had nine children and pleaded no contest to three intentional-nonsupport counts. The sentence included imprisonment and five years' probation. The condition requires an advance showing to the court concerning both support of his existing children and the additional child's needs. Wisconsin construed those requirements to call for bona fide lawful support efforts within ability, rather than sufficient wealth to meet every need, while retaining the advance judicial showing.
+
+## Participation
+
+Chief Justice Stone-Zsela and Justices Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg and Breyer participate.
+
+## Public Action
+
+The judgment is affirmed in part, reversed in part, and remanded. Six Justices require removal of the reproductive condition; the Chief Justice would vacate it and remand conditionally; two Justices would affirm it. Rejection of the earlier-bargain challenge is affirmed unanimously.
+
+## Judgment & Remedy
+
+| Judgment component | Disposition and vote | Supporting Justices | Other positions | Remedy or remand |
+|---|---|---|---|---|
+| Reproductive condition | Reversed, with removal required; six votes | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Stone-Zsela would vacate and remand for a State-burden inquiry into direct support enforcement, with nonenforcement meanwhile. Scalia and Thomas would affirm the condition as construed. | Remove the reproductive condition and modify the sentence lawfully. |
+| Earlier-bargain challenge | Affirmed, 9–0 | Stone-Zsela, Stevens, O'Connor, Scalia, Kennedy, Souter, Thomas, Ginsburg, Breyer | — | The later knowing and voluntary express waiver remains effective within its terms. |
+
+Seven Justices agree that the present reproductive condition cannot remain enforceable, but they do not share the same final remedy. The controlling removal mandate has six votes. The nonsupport convictions, lawful payment duties and independently justified supervision remain in force.
+
+## Opinion Topology
+
+O'CONNOR, J., delivered the opinion of the Court, in which STEVENS, KENNEDY, SOUTER, GINSBURG and BREYER, JJ., joined, and in which STONE-ZSELA, C. J., and SCALIA and THOMAS, JJ., joined as to Part II. STONE-ZSELA, C. J., filed an opinion concurring in part and dissenting in part. SCALIA, J., filed an opinion concurring in part and dissenting in part, in which THOMAS, J., joined.
+
+| Writing or part | Author | Direct coalition, including author | Relationship and scope |
+|---|---|---|---|
+| Court opinion, Part I | O'Connor | Stevens, O'Connor, Kennedy, Souter, Ginsburg, Breyer | Concrete constitutional fit and definitive removal of the reproductive condition. |
+| Court opinion, Part II | O'Connor | All nine Justices | Affirmance on the later knowing and voluntary express waiver. |
+| Partial concurrence and partial dissent | Stone-Zsela | Stone-Zsela | Joins Part II; would vacate the reproductive condition and remand conditionally, with nonenforcement meanwhile. |
+| Partial concurrence and partial dissent | Scalia | Scalia, Thomas | Join Part II; would affirm the finite, ability-sensitive reproductive condition. |
+
+## Holdings
+
+### I. The separate reproductive permission requirement is not justified by this sentence's support-enforcement purpose
+
+**Holding and operative rule:** A conviction for intentional nonsupport permits direct supervision and enforcement of lawful support duties, but does not itself justify making additional parenthood depend on advance judicial clearance. Oakley's condition, even as authoritatively narrowed to bona fide support efforts within ability, imposes an additional restraint on retained procreative liberty that lacks an adequate relationship to the asserted rehabilitative and child-support purposes on this record; the condition must be removed.
+
+**Authority:** Part I of O'Connor's opinion, directly joined by Stevens, Kennedy, Souter, Ginsburg and Breyer. Those six Justices adopt the complete rule, explanation and removal remedy.
+
+**Controlling explanation:** Skinner identifies procreation as a fundamental liberty even in the criminal-punishment setting. Turner establishes that conviction does not extinguish every protected family choice, and Gerber rejects categorical extinction of procreative protection through confinement. Griffin recognizes probation's conditional liberty, but that principle requires attention to the particular restraint. Zablocki illustrates the constitutional problem with making a family choice depend on support-related judicial permission, although its marriage restriction did not concern probation.
+
+Wisconsin's construction matters. Under Bearden's distinction between willful refusal and inability despite genuine effort, Oakley need not attain prosperity to comply. But the construction changes what satisfies the showing, not the requirement to obtain clearance before another child. That separate restraint reaches procreation before any new willful nonsupport occurs. The State may require work and payments, supervise compliance and punish deliberate violations through lawful procedures.
+
+The intentional convictions, arrears, children's interests and finite probation term make the State's preventive argument substantial. They justify demanding supervision; they do not establish the fit of the additional reproductive prerequisite. The available alternatives matter to this particular restraint's justification, without requiring exhaustion of every collection method or assuming each will succeed. Available imprisonment supplies no independent answer to a restriction on a retained right.
+
+The Court has determined the inadequacy of this condition as construed. Remand therefore calls for removal and lawful sentence modification, rather than a renewed determination whether direct enforcement would suffice.
+
+### II. The later express undertaking forecloses the earlier-bargain challenge
+
+**Holding and operative rule:** A knowing and voluntary express waiver of a challenge to withdrawal from an earlier plea bargain forecloses that challenge within the undertaking's lawful terms. Oakley's later agreement establishes that specific waiver, while leaving his distinct constitutional sentencing claim reviewable; the no-contest label alone does not supply the waiver.
+
+**Authority:** Part II of O'Connor's opinion, joined by all nine Justices.
+
+**Controlling explanation:** Tollett and Mabry distinguish the validity of the operative plea from events in earlier bargaining. The later agreement expressly settled the withdrawal objection in return for a sentencing-recommendation limit. Its consensual adoption and particular terms establish intentional relinquishment of that dispute. The State relies on the actual undertaking, not simply the plea's form or the fact that Oakley obtained concessions. Enforcing that term gives effect to the bargain without extending it to the separate reproductive condition. The earlier-bargain challenge therefore fails, and the sentencing challenge receives its own constitutional determination.
+
+## Precedent Treatment
+
+- Skinner v. Oklahoma supplies the fundamental procreative interest; that protection applies to examination of this direct probation restraint.
+- Turner v. Safley supplies the retained-family-right principle despite conviction; available incarceration does not alone validate the chosen condition.
+- Gerber v. Hickman, March 25, 2003, forecloses categorical extinction of procreative protection through confinement; its prison-specific Turner inquiry remains within that setting.
+- Bearden v. Georgia supplies the distinction between willful refusal and inability despite bona fide effort; Wisconsin's narrowing implements that distinction but leaves the reproductive showing to be justified.
+- Griffin v. Wisconsin supplies probation's conditional-liberty principle, which does not itself settle the validity of this different restraint.
+- Zablocki v. Redhail supplies the related family-permission and direct-support-enforcement analogy, with the difference between ordinary civil status and probation preserved.
+- Tollett v. Henderson and Mabry v. Johnson supply the operative-plea distinction applied to the specific express undertaking; their rules are not enlarged into universal waiver by a no-contest label.
+
+## Law After Decision
+
+Support enforcement and reproductive permission are distinct constitutional questions. A court may supervise lawful support efforts and punish willful violations, but the conviction alone cannot justify an additional judicial-clearance requirement for parenthood. The ability-sensitive construction does not cure the inadequate fit established here; the reproductive condition must be removed. Actual express plea waivers remain enforceable within their knowing, voluntary and lawful scope.
+
+## Separate Writings
+
+**Stone-Zsela, concurring in part and dissenting in part.** He joins the express-waiver holding. He would give the direct procreative restraint a stronger constitutional rule: a condition prohibiting additional children or requiring advance judicial approval, even if lifted for good-faith support efforts, must be necessary to a compelling interest. Skinner's protected liberty, Turner's retained-family-right principle and Bearden's focus on willful conduct support that view. In his judgment, work and payment requirements, supervision and sanctions for willful nonpayment after the required hearing fully serve the support interest without making conception the violation. Owens and Newman support attention to actual burdens and concrete alternatives within their reproductive-care settings, rather than supplying the probation test.
+
+His disposition is to vacate the reproductive condition and remand for the sentencing court to determine, with the State bearing the burden, whether a condition directly enforcing support efforts would serve its interest. The reproductive condition may not be enforced meanwhile. That conditional inquiry differs from the Court's definitive removal mandate. He preserves the nonsupport convictions, lawful payment obligations and independently justified supervision.
+
+**Scalia, concurring in part and dissenting in part, joined by Thomas.** They join the express-waiver holding but would affirm the reproductive condition as authoritatively construed. Griffin's conditional-liberty principle permits finite, offense-related supervision of a person convicted of deliberately refusing the same support duty. Genuine lawful efforts within ability satisfy the condition; it cannot demand wealth sufficient to meet every need or clearance of arrears regardless of ability, nor may a court withhold permission after bona fide compliance. Judicial verification of that compliance, in their view, reasonably protects existing and future children and promotes rehabilitation.
+
+They distinguish Skinner's permanent physical deprivation and Turner's unsupported marriage prohibition from this temporary verification requirement. They accept that incarceration does not extinguish every family right and rest affirmance on the condition's own offense-related fit. Their disagreement with the Court concerns whether the remaining advance showing is a justified means of supervision, not whether poverty alone disqualifies a person from parenthood.
+
+## Procedure After Action
+
+The case returns to the Wisconsin courts. The sentencing court must remove the reproductive condition from the enforceable judgment and supervision instructions and determine lawful sentence modification consistent with the surviving convictions, payment obligations and independently justified supervision. The condition may not remain enforceable while that work occurs. The rejection of the earlier-bargain challenge stands.
+
+## Source Notes
+
+State v. Oakley, 2001 WI 103, paragraphs 1, 3–6, 15–24 and 48, and notes 21, 28–30 and 32; State v. Oakley, 2001 WI 123, paragraphs 2–3 and 8–15. Wisconsin Statutes §§948.22 and 973.09. Skinner v. Oklahoma, 316 U.S. 535; Turner v. Safley, 482 U.S. 78; Bearden v. Georgia, 461 U.S. 660; Griffin v. Wisconsin, 483 U.S. 868; Zablocki v. Redhail, 434 U.S. 374; Tollett v. Henderson, 411 U.S. 258; Mabry v. Johnson, 467 U.S. 504. The payment-percentage account in the reconsideration separate writing is not a finding calculating Oakley's overall compliance.
 
 ---
 

@@ -4,11 +4,11 @@
 
 The coordinated opening authority remains the OT2001 tracker set, effective through June 28, 2002, edition November 11, 2026: `state/holdings/`, the synchronized `state/HOLDINGS.md`, `state/STANDARDS_AND_TESTS.md` and `state/STANDING_STATE.md`. No opening tracker is replaced during this Run.
 
-Chunks 1 through 12 have produced 156 completed event Records covering 151 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 13 is the next supplied chunk.
+Chunks 1 through 12 have produced 157 completed event Records covering 152 scheduled inventory events. The completed set spans October 15, 2002 through June 26, 2003; intervening events in later presentation chunks remain undecided. Chunk 13 is the next supplied chunk.
 
 For each event, entering law is the opening baseline plus only completed Records effective strictly before its date. Unrelated same-date events share pre-date law. The distinct grant/summary sequences retain their established dependency. Assignment counts separately include same-date earlier case names in alphabetical order, without reopening existing assignments. An earlier-dated but undecided event supplies no law or blocker.
 
-The manifest preserves all 180 scheduled rows: 151 completed and 29 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. One chunk 12 matter remains stopped, as identified below.
+The manifest preserves all 180 scheduled rows: 152 completed and 28 remaining. Cano's completed screening leaves its separate chunk 14 merits event pending. Three original-action carryovers retain their opening stages. All chunk 12 matters have completed Court actions.
 
 ## Completed public actions
 
@@ -165,6 +165,7 @@ The manifest preserves all 180 scheduled rows: 151 completed and 29 remaining. C
 | 2003-06-09 | Hillside Dairy, Inc. v. Lyons | The judgments are vacated as to the Commerce Clause and individual Privileges and Immunities Clause claims, and both cases are remanded for further proceedings consistent with the Court’s opinion. | `terms/OT2002/records/Hillside-Dairy-Inc-v-Lyons_merits_2003-06-09.md` |
 | 2003-06-09 | Nguyen v. United States | The Ninth Circuit judgments in both consolidated matters are vacated, and the cases are remanded for appellate adjudication by a lawfully constituted panel. | `terms/OT2002/records/Nguyen-v-United-States_merits_2003-06-09.md` |
 | 2003-06-09 | Satellite Broadcasting & Communications Association v. FCC | The Fourth Circuit judgment rejecting the facial First Amendment challenge to the carry-one, carry-all condition is affirmed. | `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md` |
+| 2003-06-09 | State v. Oakley | The judgment is affirmed in part, reversed in part, and remanded. Six Justices require removal of the reproductive condition; the Chief Justice would vacate it and remand conditionally; two Justices would affirm it. Rejection of the earlier-bargain challenge is affirmed unanimously. | `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md` |
 | 2003-06-09 | United States v. Suerte | The Fifth Circuit's judgment vacating the pretrial dismissal is affirmed, and the case is remanded for further proceedings. | `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md` |
 | 2003-06-16 | Center for Reproductive Law and Policy v. Bush | The speech and equality dismissals are reversed under the Court's outside-program rule, the separate notice dismissal is affirmed, the dependent customary-international-law dismissal is vacated, and the case is remanded. | `terms/OT2002/records/Center-for-Reproductive-Law-and-Policy-v-Bush_merits_2003-06-16.md` |
 | 2003-06-16 | Star Scientific, Inc. v. Beales | The judgment affirming dismissal of the four constitutional challenges is affirmed. | `terms/OT2002/records/Star-Scientific-Inc-v-Beales_merits_2003-06-16.md` |
@@ -1084,6 +1085,12 @@ Effective June 9, 2003, the right to the missing lawful adjudication extends to 
 Source: `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Association-v-FCC_merits_2003-06-09.md`.
 
 Effective June 9, 2003, Turner's content-neutral intermediate analysis applies to the optional local-retransmission license and its connected carriage duty. The duty survives this facial challenge because the actual satellite mechanism and statutory limits establish a supported, proportionate response to the local-service risk. Courts must assess actual editorial burdens and alternatives when applying that standard to the licensed arrangement; the license label itself establishes no constitutional exemption.
+
+### 2003-06-09 — State v. Oakley
+
+Source: `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md`.
+
+Support enforcement and reproductive permission are distinct constitutional questions. A court may supervise lawful support efforts and punish willful violations, but the conviction alone cannot justify an additional judicial-clearance requirement for parenthood. The ability-sensitive construction does not cure the inadequate fit established here; the reproductive condition must be removed. Actual express plea waivers remain enforceable within their knowing, voluntary and lawful scope.
 
 ### 2003-06-09 — United States v. Suerte
 
@@ -2011,6 +2018,18 @@ Source: `terms/OT2002/records/Satellite-Broadcasting-and-Communications-Associat
 
 The dissent also rejects the lower court's independent advertising-competition ground: a competitor's audience disadvantage does not by itself show the expressive-market harm necessary to justify compulsory editorial choices. It demands neither a completed antitrust violation, formal legislative findings nor the strict least-restrictive means. Rather, it requires a supported connection between this compelled carriage and the asserted public-service harm. The optional license and legally available private clearance cannot dispose of the unconstitutional-conditions objection. Its proposed remedy would address the invalid condition and its actual severability consequences, rather than award an unrestricted royalty-free license.
 
+### 2003-06-09 — State v. Oakley
+
+Source: `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md`.
+
+**Stone-Zsela, concurring in part and dissenting in part.** He joins the express-waiver holding. He would give the direct procreative restraint a stronger constitutional rule: a condition prohibiting additional children or requiring advance judicial approval, even if lifted for good-faith support efforts, must be necessary to a compelling interest. Skinner's protected liberty, Turner's retained-family-right principle and Bearden's focus on willful conduct support that view. In his judgment, work and payment requirements, supervision and sanctions for willful nonpayment after the required hearing fully serve the support interest without making conception the violation. Owens and Newman support attention to actual burdens and concrete alternatives within their reproductive-care settings, rather than supplying the probation test.
+
+His disposition is to vacate the reproductive condition and remand for the sentencing court to determine, with the State bearing the burden, whether a condition directly enforcing support efforts would serve its interest. The reproductive condition may not be enforced meanwhile. That conditional inquiry differs from the Court's definitive removal mandate. He preserves the nonsupport convictions, lawful payment obligations and independently justified supervision.
+
+**Scalia, concurring in part and dissenting in part, joined by Thomas.** They join the express-waiver holding but would affirm the reproductive condition as authoritatively construed. Griffin's conditional-liberty principle permits finite, offense-related supervision of a person convicted of deliberately refusing the same support duty. Genuine lawful efforts within ability satisfy the condition; it cannot demand wealth sufficient to meet every need or clearance of arrears regardless of ability, nor may a court withhold permission after bona fide compliance. Judicial verification of that compliance, in their view, reasonably protects existing and future children and promotes rehabilitation.
+
+They distinguish Skinner's permanent physical deprivation and Turner's unsupported marriage prohibition from this temporary verification requirement. They accept that incarceration does not extinguish every family right and rest affirmance on the condition's own offense-related fit. Their disagreement with the Court concerns whether the remaining advance showing is a justified means of supervision, not whether poverty alone disqualifies a person from parenthood.
+
 ### 2003-06-09 — United States v. Suerte
 
 Source: `terms/OT2002/records/United-States-v-Suerte_merits_2003-06-09.md`.
@@ -2109,6 +2128,8 @@ No further event is supplied for those three opening carryovers.
 
 ## Future event controls
 
-The remaining 29 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
+The remaining 28 scheduled inventory events retain their dates and presentation order. Use only date-eligible completed Records. This projection contains public actions, law, published positions and institutional setting only. Records remain authoritative.
 
-- State v. Oakley: undecided; no completed Court action supplies law.
+**State v. Oakley:** The case returns to the Wisconsin courts. The sentencing court must remove the reproductive condition from the enforceable judgment and supervision instructions and determine lawful sentence modification consistent with the surviving convictions, payment obligations and independently justified supervision. The condition may not remain enforceable while that work occurs. The rejection of the earlier-bargain challenge stands.
+
+Source: `terms/OT2002/records/State-v-Oakley_merits_2003-06-09.md`.
